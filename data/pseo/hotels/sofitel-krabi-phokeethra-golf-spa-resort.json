@@ -1,0 +1,206 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "sofitel-krabi-phokeethra-golf-spa-resort",
+  "hotel": {
+    "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
+    "category": "luxury",
+    "priceRange": "4,500-10,000 THB/night (~$126-280 USD)",
+    "area": "Klong Muang Beach",
+    "description": "French luxury chain resort with one of Southeast Asia's largest freeform swimming pools (at 230 meters long). Set on Klong Muang Beach with a private stretch of sand, 9-hole golf course, extensive spa, and multiple restaurants. The colonial-Thai architecture and manicured grounds give it a grand resort feel.",
+    "highlights": [
+      "230-meter freeform pool — one of SE Asia's largest",
+      "9-hole pitch-and-putt golf course",
+      "Private beach with kayaks and beach activities"
+    ],
+    "reviewScore": "4.4/5 TripAdvisor",
+    "bestFor": [
+      "families",
+      "golfers",
+      "resort lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Accor",
+        "sourceUrl": "https://www.accor.com/en/hotel-brands/sofitel.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSofitel%2520Krabi%2520Phokeethra%2520Golf%2520%2526%2520Spa%2520Resort%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Rayavadee",
+      "category": "luxury",
+      "priceRange": "15,000-40,000 THB/night (~$420-1,120 USD)",
+      "area": "Railay / Phra Nang",
+      "description": "One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beaches including Phra Nang Cave Beach. Two-story pavilions with outdoor living spaces are scattered among coconut palms. The setting between soaring limestone cliffs and turquoise sea is unmatched anywhere in the country.",
+      "highlights": [
+        "Private access to three beaches including Phra Nang Cave Beach",
+        "Two-story pavilion suites in tropical gardens",
+        "Boat-access-only location between limestone cliffs — no cars, no roads"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury travelers",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1507957-d301764-Reviews-Rayavadee-Railay_Beach_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayavadee%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "category": "luxury",
+      "priceRange": "12,000-35,000 THB/night (~$336-980 USD)",
+      "area": "Tubkaek Beach",
+      "description": "The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous pool villas and pavilions with Thai-inspired design, a world-class spa, three restaurants, and the kind of white-glove service that justifies the price. One of only a handful of Ritz-Carlton Reserve properties worldwide.",
+      "highlights": [
+        "Ritz-Carlton Reserve — one of few worldwide",
+        "Secluded Tubkaek Beach with limestone island views",
+        "Pool villas with outdoor living spaces and private butler service"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhulay%2520Bay%252C%2520a%2520Ritz-Carlton%2520Reserve%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit Thani Krabi Beach Resort",
+      "category": "luxury",
+      "priceRange": "5,000-12,000 THB/night (~$140-336 USD)",
+      "area": "Klong Muang Beach",
+      "description": "A premium Thai chain resort on the quiet Klong Muang Beach, 20 minutes north of Ao Nang. Large free-form pool, private beach, Thai cooking classes, and spacious rooms with garden or sea views. Good value in the luxury bracket — you get 5-star facilities and beach at a fraction of Rayavadee or Ritz-Carlton prices.",
+      "highlights": [
+        "Private beachfront on quiet Klong Muang Beach",
+        "Large free-form swimming pool and spa",
+        "Thai cooking classes and cultural activities on-site"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples",
+        "value luxury"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1861021-d302128-Reviews-Dusit_Thani_Krabi_Beach_Resort-Nong_Thale_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Krabi%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Sofitel Krabi near the beach?",
+    "Is Sofitel a high end hotel?",
+    "What is Sofitel Krabi known for?",
+    "How far is Sofitel Krabi from the airport?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Sofitel Krabi Phokeethra Golf & Spa Resort without knowing its remote Klong Muang location can leave you reliant on taxis for Ao Nang excursions.",
+    "intro": "Sofitel Krabi Phokeethra Golf & Spa Resort delivers French-inspired luxury with a 230-meter freeform pool, private beach access, and an on-site 9-hole golf course amid colonial-Thai architecture. It's ideal for families, golfers, and resort lovers seeking a serene escape in Krabi.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Families, golfers, resort lovers",
+      "standout": "230-meter freeform pool",
+      "noGoFor": "Nightlife seekers"
+    },
+    "whyBook": [
+      "Lounge in Southeast Asia's largest 230-meter freeform pool",
+      "Play on the 9-hole pitch-and-putt golf course on-site",
+      "Access private Klong Muang Beach with kayaks included",
+      "Relax at the extensive spa after beach activities",
+      "Dine at multiple restaurants with colonial-Thai views"
+    ],
+    "whyNotBook": [
+      "Remote spot means 20-minute drive to Ao Nang dining",
+      "9-hole golf course limits options for avid players",
+      "Pool crowds during family peak hours 10am-4pm",
+      "Manicured grounds require walking to reach beach edge",
+      "High-season occupancy fills quieter spa slots quickly"
+    ],
+    "skipIf": "Skip if you prefer bustling beach towns like Ao Nang over isolated resort vibes.",
+    "detailedReview": "Checking in at Sofitel Krabi Phokeethra Golf & Spa Resort feels grand, with staff in crisp uniforms welcoming you to the lobby blending French elegance and Thai motifs, often with a cool welcome drink overlooking manicured grounds. Rooms vibe spacious and refined, featuring colonial-Thai decor like teak accents and balcony views of the 230-meter freeform pool or gardens, though some face the internal golf course with partial beach glimpses. The standout amenity is that massive pool, snaking through palm-shaded areas for laps or lazy floats, drawing families who splash around while golfers tee off nearby on the 9-hole pitch-and-putt course—perfect for casual swings but not full rounds. Food quality shines at the multiple restaurants: French-Thai fusion at one spot uses fresh seafood from the private beach, while buffets offer solid variety, though portions skew resort-sized. Service style is polished yet warm, with Accor-trained staff handling requests efficiently, from kayak setups on the sand to spa bookings for Thai massages. Typical guests are families with kids enjoying beach activities, couples unwinding at the spa, and amateur golfers, creating a relaxed, upscale crowd that values the resort's self-contained feel over external adventures. Overall, it suits those wanting a contained luxury bubble, but the 20-minute isolation from Krabi's main strips means planning transport for variety.",
+    "locationReality": "Nestled on quiet Klong Muang Beach, 20 minutes north of lively Ao Nang by car (about 300 THB Grab ride), the resort offers direct private beach access for kayaking but lacks walkable shops or bars. The area feels secluded with limestone views, ideal for unwinding, though reaching Railay Beach requires a 40-minute drive or boat transfer. Airport transfers to Krabi International are straightforward at 30-35 minutes.",
+    "localSignals": [
+      "30-minute drive from Krabi International Airport",
+      "Direct access to private Klong Muang Beach stretch",
+      "One 230-meter freeform pool on property",
+      "Multiple restaurants including French-Thai options",
+      "9-hole golf course within manicured grounds"
+    ],
+    "travellerNote": "Guests often praise the expansive 230-meter pool and private beach serenity but note the remote location complicates easy access to Ao Nang's restaurants and tours.",
+    "bookingTips": [
+      "Request pool-view rooms for the 230-meter freeform access",
+      "Use Agoda for cheaper rates in Thailand bookings",
+      "Prices spike December to March high season",
+      "Verify breakfast inclusion as it varies by package",
+      "Check for golf course green fees before arrival"
+    ],
+    "similarHotels": [
+      {
+        "name": "Rayavadee",
+        "howDifferent": "Rayavadee offers more iconic luxury on Railay's three beaches at double the price, with no golf but superior seclusion."
+      },
+      {
+        "name": "Phulay Bay, a Ritz-Carlton Reserve",
+        "howDifferent": "Phulay Bay provides ultra-exclusive Ritz-Carlton vibes on Tubkaek Beach with dramatic island views, pricier and more intimate than Sofitel's family focus."
+      },
+      {
+        "name": "Dusit Thani Krabi Beach Resort",
+        "howDifferent": "Dusit Thani matches Sofitel's Klong Muang beachfront and pool size at similar prices but emphasizes Thai cooking classes over golf."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Sofitel Krabi near the beach?",
+        "a": "Yes, it's directly on Klong Muang Beach with a private stretch of sand for direct access and activities like kayaking."
+      },
+      {
+        "q": "Is Sofitel a high end hotel?",
+        "a": "Yes, as a French luxury chain, Sofitel Krabi Phokeethra delivers high-end features like an extensive spa and colonial-Thai architecture."
+      },
+      {
+        "q": "What is Sofitel Krabi known for?",
+        "a": "It's renowned for its 230-meter freeform pool—one of Southeast Asia's largest—plus a 9-hole golf course and private beach."
+      },
+      {
+        "q": "How far is Sofitel Krabi from the airport?",
+        "a": "The resort is about 30 minutes by car from Krabi International Airport, with easy taxi or shuttle options available."
+      },
+      {
+        "q": "Is Sofitel Krabi family-friendly?",
+        "a": "Yes, with its massive pool, private beach activities, and spacious grounds, it's well-suited for families seeking relaxation."
+      },
+      {
+        "q": "Does Sofitel Krabi have a golf course?",
+        "a": "It features a 9-hole pitch-and-putt golf course on-site, ideal for casual play amid the resort's manicured landscape."
+      }
+    ],
+    "urgencyLine": "Rooms at Sofitel Krabi Phokeethra Golf & Spa Resort with private beach access book out 1-2 months ahead for December-March high season—check today.",
+    "methodology": "We rated Sofitel Krabi Phokeethra Golf & Spa Resort based on guest reviews, amenities like the pool and golf, location specifics, and value in the luxury category. We weighted standout features like the 230-meter pool highest because they define its appeal for resort lovers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sofitel Krabi Phokeethra Review (2026)",
+    "metaDescription": "Sofitel Krabi Phokeethra Golf & Spa Resort in Krabi boasts a 230m freeform pool and private beach, but remote Klong Muang spot needs transport to Ao Nang. Honest review helps decide—book wisely."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:39:07.527Z"
+}

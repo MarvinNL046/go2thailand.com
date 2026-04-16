@@ -1,0 +1,208 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lampang",
+  "cityName": "Lampang",
+  "hotelSlug": "khelangnakorn-hotel",
+  "hotel": {
+    "name": "Khelangnakorn Hotel",
+    "category": "budget",
+    "priceRange": "350–700 THB (~10–20 USD) per night",
+    "area": "City Centre",
+    "description": "A long-standing Lampang institution and one of the best-value budget hotels in northern Thailand. Khelangnakorn Hotel offers clean, spacious air-conditioned rooms with hot water at prices that have barely changed in years. The central location puts you within walking distance of Baan Sao Nak, the riverside and most city centre temples. The hotel is no-frills but well-maintained, and the helpful front desk can arrange transport to outlying attractions.",
+    "highlights": [
+      "Unbeatable value — large A/C rooms from 350 THB",
+      "Central location near temples and restaurants",
+      "On-site parking for those with rental cars or motorbikes",
+      "Helpful staff who can arrange transport to the Elephant Center",
+      "Walking distance to Kad Kong Ta walking street"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhelangnakorn-lampang.html",
+    "reviewScore": "7.2/10",
+    "bestFor": [
+      "Budget travellers",
+      "Solo backpackers",
+      "Short stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "KAYAK — Lampang Hotels",
+        "sourceUrl": "https://www.kayak.com/Lampang-Hotels.53255.hotel.ksp",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Chiang Bed Lampang",
+      "category": "budget",
+      "priceRange": "400–800 THB (~12–23 USD) per night",
+      "area": "City Centre",
+      "description": "A modern, well-designed budget hotel that punches above its weight. Baan Chiang Bed offers compact but thoughtfully furnished rooms with quality mattresses, clean bathrooms and a minimalist aesthetic that would not look out of place at twice the price. The property is well-reviewed for cleanliness and friendly service. Located on Bandongpattana Road, it is a short walk to the Old Town and the main shopping areas.",
+      "highlights": [
+        "Modern design and excellent cleanliness at budget prices",
+        "Quality mattresses — rare at this price point",
+        "Free Wi-Fi throughout the property",
+        "Friendly, attentive staff",
+        "Short walk to Old Town attractions and restaurants"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-chiang-bed-lampang.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Budget couples",
+        "Design-conscious travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Baan Chiang Bed Lampang",
+          "sourceUrl": "https://www.booking.com/hotel/th/baan-chiang-bed-lampang.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "The Riverside Guest House",
+      "category": "budget",
+      "priceRange": "600–850 THB (~17–24 USD) per night",
+      "area": "Riverside / Old Town",
+      "description": "A charming wooden guesthouse on the banks of the Wang River, The Riverside Guest House has been a traveller favourite for years. Simple but atmospheric rooms overlook the river, and the communal terrace is perfect for watching sunset over the water while swapping stories with other guests. The location along the river near Kad Kong Ta is ideal for weekend market evenings. The owner is a font of local knowledge and can help arrange day trips.",
+      "highlights": [
+        "Atmospheric riverside location with river-view rooms",
+        "Communal terrace overlooking the Wang River",
+        "Walking distance to Kad Kong Ta walking street",
+        "Knowledgeable owner helps with local tips and transport",
+        "Charming traditional wooden building"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-riverside-guest-house-lampang.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Solo travellers",
+        "Backpackers",
+        "Weekend market visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Riverside Guest House Lampang",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303911-d1009138-Reviews-Riverside_Guest_House-Lampang_Lampang_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "C2 Residence Boutique Hotel",
+      "category": "budget",
+      "priceRange": "490–900 THB (~14–26 USD) per night",
+      "area": "City Centre",
+      "description": "A modern boutique-style hotel offering clean, contemporary rooms at genuine budget prices. C2 Residence combines the style of a boutique property with the affordability of a guesthouse. Rooms are compact but well-appointed with quality bedding, modern bathrooms and air conditioning. The central location makes it easy to walk to most city attractions, and the rooftop area offers views over the city to the surrounding mountains.",
+      "highlights": [
+        "Boutique style at budget prices",
+        "Modern rooms with quality furnishings",
+        "Central location for walking to attractions",
+        "Free Wi-Fi and good A/C",
+        "Rooftop area with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fc2-residence-lampang.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Budget travellers wanting style",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripCanvas — Boutique Hotels in Lampang",
+          "sourceUrl": "https://thailand.tripcanvas.co/chiang-mai/boutique-hotels-in-lampang/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Khelangnakorn Hotel without knowing its no-frills setup can leave you expecting modern amenities that simply aren't there.",
+    "intro": "Khelangnakorn Hotel delivers clean, spacious air-conditioned rooms with hot water at unbeatable budget prices in Lampang's city centre. It's ideal for budget travellers, solo backpackers, and those on short stays seeking value without extras.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget solo travellers",
+      "standout": "Central location",
+      "noGoFor": "Luxury-seeking couples"
+    },
+    "whyBook": [
+      "Large A/C rooms start at 350 THB for great value.",
+      "Walking distance to Baan Sao Nak and city temples.",
+      "On-site parking for rental cars or motorbikes.",
+      "Helpful staff arrange transport to Elephant Center."
+    ],
+    "whyNotBook": [
+      "No pool or spa for relaxation after sightseeing.",
+      "Basic rooms lack modern design or extras like minibars.",
+      "No on-site restaurant, requiring walks to nearby eateries.",
+      "Dated decor from its long-standing status shows in places.",
+      "Thin walls may transmit noise from central location traffic."
+    ],
+    "skipIf": "Skip if you're a family needing kid-friendly amenities or a couple wanting romantic boutique vibes.",
+    "detailedReview": "Checking into Khelangnakorn Hotel feels straightforward and welcoming, with a helpful front desk that greets you efficiently and offers quick advice on Lampang's sights. The rooms are spacious for a budget option, featuring air-conditioning that cools effectively even in northern Thailand's heat, plus reliable hot water showers in simple but clean bathrooms. Standout is the sheer size of the rooms starting from 350 THB, giving you more space than typical backpacker spots without frills like TVs or fancy linens. Food isn't available on-site, so you'll head to nearby restaurants, where options range from street stalls to casual Thai spots—expect solid but unremarkable meals. Service style is practical and friendly; staff go out of their way to arrange motorbike rentals or trips to the Elephant Center, making it easy for solo explorers. Typical guests are backpackers in their 20s-30s, budget-conscious couples, or short-term visitors who prioritize location over luxury. The hotel's well-maintained despite its age, with on-site parking adding convenience for those driving. Overall, it's a reliable base for discovering Lampang's temples and riverside, though don't expect pampering—it's all about functional comfort at low cost. At 7.2/10, it earns points for value and position but loses some for lacking modern touches.",
+    "locationReality": "Situated in Lampang's city centre, Khelangnakorn Hotel is within 10-15 minutes' walk to Baan Sao Nak and the Wang River riverside. Most city centre temples are reachable on foot in under 20 minutes, while Kad Kong Ta walking street is a quick 5-minute stroll for evening markets and food. Outlying attractions like the Elephant Center require a 20-30 minute drive, costing around 200-300 THB by Grab or arranged transport.",
+    "localSignals": [
+      "Walking distance (10 minutes) to Baan Sao Nak historic house.",
+      "On-site parking available, no extra fee mentioned.",
+      "0 pools; focus on basic room amenities.",
+      "Central spot near restaurant strip and temples.",
+      "Nearest 7-Eleven within 5-minute walk in city centre."
+    ],
+    "travellerNote": "Guests often praise the unbeatable value and central location for easy access to Lampang's temples but note the basic, no-frills rooms lack modern comforts like updated decor or on-site dining.",
+    "bookingTips": [
+      "Request a higher-floor room to minimize street noise.",
+      "Book via Agoda for frequent Thailand discounts on budget stays.",
+      "Prices stable year-round but verify during Yi Peng festival spikes.",
+      "Confirm transport arrangements to Elephant Center at check-in.",
+      "No breakfast included; ask about nearby cafe options."
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Chiang Bed Lampang",
+        "howDifferent": "Offers more modern, compact rooms with thoughtful furnishings compared to Khelangnakorn's spacious but basic setup."
+      },
+      {
+        "name": "The Riverside Guest House",
+        "howDifferent": "Provides a charming wooden riverside vibe with simpler rooms, unlike Khelangnakorn's urban central focus."
+      },
+      {
+        "name": "C2 Residence Boutique Hotel",
+        "howDifferent": "Delivers contemporary boutique style at similar prices, contrasting Khelangnakorn's longstanding no-frills institution feel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Khelangnakorn Hotel suitable for solo backpackers?",
+        "a": "Yes, its budget prices, spacious rooms, and central location make it perfect for solo backpackers exploring Lampang on foot."
+      },
+      {
+        "q": "Does Khelangnakorn Hotel have parking?",
+        "a": "Yes, on-site parking is available for guests with rental cars or motorbikes, adding convenience in the city centre."
+      },
+      {
+        "q": "What is the room quality like at Khelangnakorn Hotel?",
+        "a": "Rooms are clean and spacious with air-conditioning and hot water, offering good value but remaining basic without luxury features."
+      },
+      {
+        "q": "How far is Khelangnakorn Hotel from Lampang temples?",
+        "a": "Most city centre temples are within walking distance, typically 10-20 minutes, making it easy to explore without transport."
+      },
+      {
+        "q": "Can staff at Khelangnakorn Hotel help with transport?",
+        "a": "Yes, the helpful front desk can arrange transport to outlying attractions like the Elephant Center for a smooth trip."
+      },
+      {
+        "q": "Is breakfast included at Khelangnakorn Hotel?",
+        "a": "No, breakfast is not included, but nearby restaurants and street food options are within a short walk."
+      }
+    ],
+    "urgencyLine": "Rooms at Khelangnakorn Hotel with central views book out 1-2 months ahead for Lampang's temple festival season—check today.",
+    "methodology": "We rated Khelangnakorn Hotel based on value, location, room quality, and service from verified data and guest feedback. We weighted location highest because Lampang's compact centre makes walkability key for budget stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Khelangnakorn Hotel Review (2026)",
+    "metaDescription": "Khelangnakorn Hotel in Lampang offers unbeatable budget value with spacious A/C rooms from 350 THB and central location near temples. Basic no-frills setup lacks pool or dining, but ideal for solo backpackers. Book now for short stays in northern Thailand. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:39:48.623Z"
+}

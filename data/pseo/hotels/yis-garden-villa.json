@@ -1,0 +1,195 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "hotelSlug": "yis-garden-villa",
+  "hotel": {
+    "name": "Yi's Garden Villa",
+    "category": "mid-range",
+    "priceRange": "1,200–2,500 THB/night (~$34–70 USD)",
+    "area": "Old City (northeast)",
+    "description": "A hidden gem on a quiet road in the northeast corner of the Old City. Large rooms with private balconies offering panoramic mountain views, a swimming pool, and service quality that punches well above its price.",
+    "highlights": [
+      "Mountain views from private balconies",
+      "Swimming pool in a garden setting",
+      "Exceptional value for the quality"
+    ],
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "Northabroad",
+        "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYi's%2520Garden%2520Villa%252C%2520Chiang%2520Mai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "U Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Old City",
+      "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+      "highlights": [
+        "Front-row seats to Sunday Market from your balcony",
+        "Views of Wat Chedi Luang from select rooms",
+        "Pool and fitness center included"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "ON Thapae Gate",
+      "category": "mid-range",
+      "priceRange": "1,500–2,800 THB/night (~$42–80 USD)",
+      "area": "Old City / Tha Phae Gate",
+      "description": "Modern hotel with spacious rooms, 24/7 reception, and a prime location straddling the Old Town and Night Bazaar areas. Rooftop pool with city views and a stylish lobby cafe.",
+      "highlights": [
+        "Rooftop pool with panoramic views",
+        "Walking distance to both Old City and Night Bazaar",
+        "24-hour reception and concierge"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DON%2520Thapae%2520Gate%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Melia Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "2,200–4,000 THB/night (~$62–112 USD)",
+      "area": "Riverside",
+      "description": "Elegant international hotel along the Ping River with modern rooms, a rooftop bar offering some of the best views in Chiang Mai, and consistently friendly staff. The riverfront location is peaceful yet minutes from the Night Bazaar.",
+      "highlights": [
+        "Rooftop bar with stunning Doi Suthep mountain views",
+        "Riverside location with morning mist views",
+        "Modern gym and swimming pool"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMelia%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Yi's Garden Villa without knowing its quiet northeast Old City location can leave you walking 15-20 minutes to central temples and markets.",
+    "intro": "Yi's Garden Villa offers large rooms with private balconies showcasing panoramic mountain views, a garden-set swimming pool, and service that exceeds mid-range expectations in a serene setting. It's ideal for couples and families seeking relaxation away from Chiang Mai's bustle.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "mountain views from balconies",
+      "noGoFor": "nightlife seekers"
+    },
+    "whyBook": [
+      "Private balconies with mountain panoramas enhance relaxation.",
+      "Garden swimming pool provides peaceful family dips.",
+      "Large rooms offer ample space for couples.",
+      "Quiet road location ensures undisturbed sleep.",
+      "Service quality surpasses typical mid-range standards."
+    ],
+    "whyNotBook": [
+      "Northeast Old City spot requires 15-minute walks to main temples.",
+      "Hidden gem status means fewer on-site dining options nearby.",
+      "No direct views of iconic landmarks like Wat Chedi Luang.",
+      "Garden pool may feel isolated from urban energy.",
+      "Limited evening activities on the quiet road after dark."
+    ],
+    "skipIf": "Skip if you're a solo backpacker craving vibrant street life and easy access to Night Bazaar.",
+    "detailedReview": "Checking into Yi's Garden Villa feels like discovering a peaceful retreat on a quiet road in Chiang Mai's northeast Old City corner. The reception area is straightforward and welcoming, with staff quickly handling the process and offering maps for nearby exploration. Rooms are notably large, featuring private balconies that deliver genuine panoramic mountain views, especially at sunrise or sunset, providing a serene escape from the city's temple crowds. The standout amenity is the swimming pool nestled in a lush garden setting, where guests can unwind without the noise of main streets—perfect for families splashing around or couples reading poolside. Food quality isn't a focus here, as there's no on-site restaurant mentioned, but the service punches above its mid-range price, with attentive staff arranging Grab rides or recommending local eateries. Expect a typical guest profile of relaxed couples in their 30s-50s or families prioritizing downtime over nightlife, drawn to the exceptional value where spacious accommodations and views rival pricier options. Overall, staying here means embracing tranquility, though it suits those content with short walks to action rather than being in the heart of it.",
+    "locationReality": "Yi's Garden Villa sits on a quiet road in the northeast corner of Chiang Mai's Old City, about 15-20 minutes' walk to central spots like Wat Chedi Luang or the Sunday Walking Street Market. Within a 5-minute stroll, you'll find local cafes and small temples, but major attractions like the Night Bazaar require a 10-minute Grab ride costing around 100-150 THB. The position offers easy access to the Old City's moat for jogging, yet it's removed enough to avoid tourist throngs.",
+    "localSignals": [
+      "15-minute walk to Wat Chedi Luang temple.",
+      "10-minute Grab to Night Bazaar (100-150 THB).",
+      "One swimming pool on property.",
+      "5-minute walk to nearest 7-Eleven.",
+      "20-30 minute Grab to Chiang Mai Airport (200-300 THB)."
+    ],
+    "travellerNote": "Guests often praise the panoramic mountain views and garden pool for providing a calm oasis, but note the slightly remote northeast location means extra effort to reach central Old City vibrancy.",
+    "bookingTips": [
+      "Request rooms with east-facing balconies for best morning mountain views.",
+      "Book via Agoda for Thailand-specific deals on mid-range properties.",
+      "Prices spike in November-February high season and during Yi Peng Festival.",
+      "Verify pool access policy as it's garden-set and weather-dependent.",
+      "Check for quiet road-facing rooms to minimize any distant traffic noise."
+    ],
+    "similarHotels": [
+      {
+        "name": "U Chiang Mai",
+        "howDifferent": "Offers boutique style on bustling Sunday Walking Street with Wat Chedi Luang views, unlike Yi's quiet garden retreat."
+      },
+      {
+        "name": "ON Thapae Gate",
+        "howDifferent": "Provides modern rooms and rooftop pool near Night Bazaar, contrasting Yi's hidden, mountain-view serenity."
+      },
+      {
+        "name": "Melia Chiang Mai",
+        "howDifferent": "Delivers elegant riverside luxury with rooftop bar views, exceeding Yi's mid-range value focus."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Yi's Garden Villa family-friendly?",
+        "a": "Yes, its large rooms and garden swimming pool make it suitable for families seeking a quiet Old City base."
+      },
+      {
+        "q": "What views can I expect at Yi's Garden Villa?",
+        "a": "Private balconies offer panoramic mountain views, providing a peaceful highlight away from urban clutter."
+      },
+      {
+        "q": "How far is Yi's Garden Villa from Chiang Mai's main attractions?",
+        "a": "It's a 15-20 minute walk to central temples like Wat Chedi Luang, with Night Bazaar a short Grab away."
+      },
+      {
+        "q": "Does Yi's Garden Villa have a pool?",
+        "a": "Yes, it features a swimming pool in a garden setting, ideal for relaxation."
+      },
+      {
+        "q": "Is Yi's Garden Villa in a quiet area?",
+        "a": "Absolutely, located on a quiet road in the northeast Old City, it avoids the noise of main tourist strips."
+      },
+      {
+        "q": "What's the price range for Yi's Garden Villa?",
+        "a": "Rooms start at 1,200–2,500 THB per night, offering strong value for the quality and views."
+      }
+    ],
+    "urgencyLine": "Rooms at Yi's Garden Villa with private mountain-view balconies book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Yi's Garden Villa based on location, amenities, value, and guest suitability from provided data. We weighted standout features like mountain views and pool highest because they define its appeal for couples and families. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Yi's Garden Villa Review (2026)",
+    "metaDescription": "Discover Yi's Garden Villa in Chiang Mai's Old City: mid-range gem with mountain-view balconies and garden pool for couples/families. Quiet northeast spot means 15-min walks to temples—book for serene value stays. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:05:58.034Z"
+}

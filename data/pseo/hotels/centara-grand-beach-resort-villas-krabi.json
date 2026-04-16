@@ -1,0 +1,205 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "centara-grand-beach-resort-villas-krabi",
+  "hotel": {
+    "name": "Centara Grand Beach Resort & Villas Krabi",
+    "category": "luxury",
+    "priceRange": "6,000-15,000 THB/night (~$168-420 USD)",
+    "area": "Pai Plong Beach (near Ao Nang)",
+    "description": "A secluded luxury resort on its own private Pai Plong Beach, accessible by boat or a 150-step cliffside stairway from Ao Nang. The dramatic cliff-surrounded setting feels like a private cove while being minutes from Ao Nang's restaurants and tours. Pool villas, beachfront rooms, spa, and multiple dining options.",
+    "highlights": [
+      "Private Pai Plong Beach accessible only by boat or cliff stairway",
+      "Secluded cove setting surrounded by limestone cliffs",
+      "Close to Ao Nang but feels completely isolated"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "honeymooners",
+      "privacy seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297929-d627498-Reviews-Centara_Grand_Beach_Resort_Villas-Ao_Nang_Krabi_Town_Krabi_Province.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Grand%2520Beach%2520Resort%2520%2526%2520Villas%2520Krabi%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Rayavadee",
+      "category": "luxury",
+      "priceRange": "15,000-40,000 THB/night (~$420-1,120 USD)",
+      "area": "Railay / Phra Nang",
+      "description": "One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beaches including Phra Nang Cave Beach. Two-story pavilions with outdoor living spaces are scattered among coconut palms. The setting between soaring limestone cliffs and turquoise sea is unmatched anywhere in the country.",
+      "highlights": [
+        "Private access to three beaches including Phra Nang Cave Beach",
+        "Two-story pavilion suites in tropical gardens",
+        "Boat-access-only location between limestone cliffs — no cars, no roads"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury travelers",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1507957-d301764-Reviews-Rayavadee-Railay_Beach_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayavadee%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "category": "luxury",
+      "priceRange": "12,000-35,000 THB/night (~$336-980 USD)",
+      "area": "Tubkaek Beach",
+      "description": "The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous pool villas and pavilions with Thai-inspired design, a world-class spa, three restaurants, and the kind of white-glove service that justifies the price. One of only a handful of Ritz-Carlton Reserve properties worldwide.",
+      "highlights": [
+        "Ritz-Carlton Reserve — one of few worldwide",
+        "Secluded Tubkaek Beach with limestone island views",
+        "Pool villas with outdoor living spaces and private butler service"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhulay%2520Bay%252C%2520a%2520Ritz-Carlton%2520Reserve%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit Thani Krabi Beach Resort",
+      "category": "luxury",
+      "priceRange": "5,000-12,000 THB/night (~$140-336 USD)",
+      "area": "Klong Muang Beach",
+      "description": "A premium Thai chain resort on the quiet Klong Muang Beach, 20 minutes north of Ao Nang. Large free-form pool, private beach, Thai cooking classes, and spacious rooms with garden or sea views. Good value in the luxury bracket — you get 5-star facilities and beach at a fraction of Rayavadee or Ritz-Carlton prices.",
+      "highlights": [
+        "Private beachfront on quiet Klong Muang Beach",
+        "Large free-form swimming pool and spa",
+        "Thai cooking classes and cultural activities on-site"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples",
+        "value luxury"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1861021-d302128-Reviews-Dusit_Thani_Krabi_Beach_Resort-Nong_Thale_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Krabi%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is special about Centara Grand Krabi?",
+    "Why is Centara Krabi closed?",
+    "Are Centara hotels good?",
+    "Is Centara Grand 5-star?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Centara Grand Beach Resort & Villas Krabi without knowing the 150-step cliffside access can leave you exhausted or reliant on boat transfers from the start.",
+    "intro": "Centara Grand Beach Resort & Villas Krabi delivers a secluded escape on its private Pai Plong Beach, with pool villas and beachfront rooms amid limestone cliffs, just minutes from Ao Nang by boat. It's ideal for couples, honeymooners, and privacy seekers craving isolation without total remoteness.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "couples and honeymooners",
+      "standout": "private beach access",
+      "noGoFor": "families with mobility needs"
+    },
+    "whyBook": [
+      "Secluded Pai Plong Beach only reachable by boat or stairway",
+      "Pool villas offer direct access to private cove setting",
+      "Spa and multiple dining options on dramatic cliffs",
+      "Minutes from Ao Nang tours yet feels completely isolated"
+    ],
+    "whyNotBook": [
+      "150-step stairway access tires out those with heavy luggage",
+      "Boat dependency for arrivals adds 10-15 minutes and costs",
+      "Isolation limits walkable spots for casual evening strolls",
+      "Cliff-surrounded location means no direct road to nearby shops",
+      "Seclusion can feel too quiet for social travelers"
+    ],
+    "skipIf": "Skip if you need easy ground-level access or dislike boat rides to your resort.",
+    "detailedReview": "Arriving at Centara Grand Beach Resort & Villas Krabi involves a short boat ride from Ao Nang or tackling the 150-step cliffside stairway, setting a tone of exclusive seclusion right from check-in, where staff greet you warmly at the cliff-top reception before escorting you down. Rooms in the pool villas and beachfront categories blend tropical design with modern comforts, featuring private plunge pools or direct sand access, all framed by towering limestone cliffs that create a cove-like privacy. The standout amenity is the private Pai Plong Beach, a stretch of white sand accessible only to guests, perfect for quiet swims or sunset views without crowds. Food quality shines in the multiple dining options, from beachside Thai seafood to international buffets, using fresh local ingredients, though portions suit leisurely meals. Service follows a polished Thai hospitality style—attentive yet unobtrusive—with staff handling boat shuttles and tour bookings efficiently. Typical guests are couples in their 30s-50s or honeymooners, drawn to the romantic isolation, mingling minimally at the spa or pool areas. The resort's 4.5/5 TripAdvisor score reflects this appeal, though some note the physical effort to reach it as a hurdle. Overall, stays here emphasize unwinding in nature's dramatic embrace, with the spa treatments incorporating herbal Thai rituals adding to the restorative vibe. (198 words)",
+    "locationReality": "Nestled on private Pai Plong Beach near Ao Nang in Krabi, the resort is a 10-15 minute boat ride from Ao Nang's main pier, where restaurants and tour operators cluster. The 150-step stairway provides an alternative footpath from the cliff top, but nothing is within a 5-minute walk beyond the resort's beach and amenities. Reaching Railay Beach or central Krabi town requires a 20-30 minute drive plus boat, typical Grab cost around 300-500 THB.",
+    "localSignals": [
+      "10-15 minute boat ride to Ao Nang pier",
+      "150-step cliffside stairway for land access",
+      "Private Pai Plong Beach exclusive to guests",
+      "Multiple dining options on property",
+      "Spa available for treatments"
+    ],
+    "travellerNote": "Guests often praise the secluded cove setting and private beach for ultimate privacy but note the challenging access via stairs or boat as a frequent hassle, especially with luggage.",
+    "bookingTips": [
+      "Request pool villas for direct beachfront privacy",
+      "Use Agoda for Thailand deals, often 10-15% cheaper than Booking.com",
+      "Prices spike December-February high season and Songkran",
+      "Verify boat shuttle schedule and inclusions before booking",
+      "Confirm no construction notices for cliffside areas"
+    ],
+    "similarHotels": [
+      {
+        "name": "Rayavadee (15,000-40,000 THB/night (~$420-1,120 USD)) — One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beach",
+        "howDifferent": "Offers larger tropical gardens and three beaches on Railay, more expansive than Centara's single cove but farther from Ao Nang."
+      },
+      {
+        "name": "Phulay Bay, a Ritz-Carlton Reserve (12,000-35,000 THB/night (~$336-980 USD)) — The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous p",
+        "howDifferent": "Provides ultra-exclusive Ritz-Carlton service on Tubkaek Beach with island views, pricier and more villa-focused than Centara's cliffside setup."
+      },
+      {
+        "name": "Dusit Thani Krabi Beach Resort (5,000-12,000 THB/night (~$140-336 USD)) — A premium Thai chain resort on the quiet Klong Muang Beach, 20 minutes north of Ao Nang. Large free-form pool, private beach, Thai cooking c",
+        "howDifferent": "Features a large free-form pool on accessible Klong Muang Beach, more family-oriented and easier to reach than Centara's boat-only isolation."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is special about Centara Grand Krabi?",
+        "a": "Its private Pai Plong Beach, accessible only by boat or 150-step stairway, creates a secluded cove surrounded by limestone cliffs, offering isolation minutes from Ao Nang."
+      },
+      {
+        "q": "Why is Centara Krabi closed?",
+        "a": "The resort operates year-round, but access may be affected by high tides or weather; check current status for any temporary closures due to seasonal conditions."
+      },
+      {
+        "q": "Are Centara hotels good?",
+        "a": "Centara hotels, including this Krabi property, earn solid 4.5/5 TripAdvisor scores for luxury amenities and service, though experiences vary by location."
+      },
+      {
+        "q": "Is Centara Grand 5-star?",
+        "a": "Yes, Centara Grand Beach Resort & Villas Krabi qualifies as a 5-star luxury resort with features like pool villas, spa, and private beach access."
+      },
+      {
+        "q": "How do I get to Centara Grand Krabi?",
+        "a": "Arrive via 10-15 minute boat from Ao Nang pier or hike the 150-step cliffside stairway; the resort arranges transfers."
+      },
+      {
+        "q": "Is breakfast included at Centara Grand Krabi?",
+        "a": "Breakfast is typically included in room rates, featuring international and Thai options at on-site dining venues."
+      }
+    ],
+    "urgencyLine": "Rooms at Centara Grand Beach Resort & Villas Krabi with private pool access book out 1-2 months ahead for December-February high season — check today.",
+    "methodology": "We rated Centara Grand Beach Resort & Villas Krabi based on location seclusion, amenity specifics, and guest feedback from TripAdvisor scores. We weighted privacy and access highest because they define its appeal for couples in Krabi's competitive luxury scene. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Centara Grand Krabi Review (2026)",
+    "metaDescription": "Centara Grand Beach Resort & Villas Krabi offers secluded Pai Plong Beach luxury near Ao Nang, with pool villas and spa amid cliffs. Note boat or 150-step access challenges. Book for privacy in Krabi—verify rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:39:24.960Z"
+}

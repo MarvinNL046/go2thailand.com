@@ -1,5 +1,5 @@
 type SupportedCitySlug = 'bangkok' | 'chiang-mai' | 'phuket' | 'krabi' | 'koh-samui';
-type AudienceSlug = 'first-time' | 'family' | 'nightlife' | 'budget';
+type AudienceSlug = 'first-time' | 'family' | 'nightlife' | 'budget' | 'couples';
 type HotelCategorySlug = 'budget' | 'luxury' | 'beachfront';
 
 interface BlogBuyerIntentInput {
@@ -58,6 +58,11 @@ function detectCity(text: string) {
 }
 
 function detectAudience(text: string): LabelledSlug<AudienceSlug> {
+  // Couples/honeymoon first — higher buyer intent, and often co-occurs with
+  // "luxury" or "romantic" which would otherwise leak into nightlife via "cocktail".
+  if (/\b(couples?|romantic|honeymoons?|honeymooners?|anniversary|intimate|adults-only|boutique)\b/.test(text)) {
+    return { slug: 'couples', label: 'couples' };
+  }
   if (/\b(family|families|kids|kid-friendly|children)\b/.test(text)) {
     return { slug: 'family', label: 'families' };
   }

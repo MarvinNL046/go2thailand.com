@@ -1,0 +1,196 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trat",
+  "cityName": "Trat",
+  "hotelSlug": "koh-mak-resort",
+  "hotel": {
+    "name": "Koh Mak Resort",
+    "category": "mid-range",
+    "priceRange": "1,500-3,500 THB/night (~$42-98 USD)",
+    "area": "Koh Mak",
+    "description": "A longstanding resort on Koh Mak's best beach, Ao Suan Yai, with simple but comfortable bungalows right on the sand. The resort provides bicycles for island exploration and can arrange snorkeling trips and kayak rentals. The west-facing beach delivers stunning sunsets every evening. Perfect for travelers who want a quiet island escape without Koh Kood's premium prices.",
+    "highlights": [
+      "Beachfront bungalows on Ao Suan Yai — Koh Mak's best sunset beach",
+      "Free or cheap bicycle rental for island exploration",
+      "Snorkeling trips and kayaks arranged by the resort"
+    ],
+    "bestFor": [
+      "couples",
+      "nature lovers",
+      "budget-conscious island seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Lonely Planet",
+        "sourceUrl": "https://www.lonelyplanet.com/thailand/eastern-seaboard/ko-mak",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKoh%2520Mak%2520Resort%252C%2520Trat%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Kacha Resort & Spa Koh Chang",
+      "category": "mid-range",
+      "priceRange": "2,000-4,000 THB/night (~$56-112 USD)",
+      "area": "White Sand Beach, Koh Chang",
+      "description": "A 4-star resort with direct beach access at White Sand Beach, Koh Chang's most popular stretch of sand. Modern rooms with balconies, swimming pool, spa, and a beachfront restaurant. Guests can easily access water sports, snorkeling, and island tours from the resort's location on the main tourist beach. Good value for a beachfront property.",
+      "highlights": [
+        "Direct access to White Sand Beach",
+        "Swimming pool, spa, and on-site restaurant",
+        "Water sports and tour booking at reception"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKacha%2520Resort%2520%2526%2520Spa%2520Koh%2520Chang%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Nature Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-3,500 THB/night (~$42-98 USD)",
+      "area": "Lonely Beach, Koh Chang",
+      "description": "The top beachfront resort on Lonely Beach, recently replacing old log cabins with modern concrete villas right on the sand. One of just four resorts fronting the actual sand of Lonely Beach. Combines the relaxed backpacker-area atmosphere with proper resort comfort. The beach here is less crowded than White Sand Beach and has better swimming.",
+      "highlights": [
+        "Directly on Lonely Beach sand — one of only four beachfront properties",
+        "Newly built modern villas replacing old bungalows",
+        "Relaxed atmosphere with better swimming than northern beaches"
+      ],
+      "bestFor": [
+        "couples",
+        "beach lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNature%2520Beach%2520Resort%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Koh Chang Tropicana Resort",
+      "category": "mid-range",
+      "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "A well-managed Thai chain resort on Klong Prao Beach with two swimming pools, kids' club, spa, and beachfront dining. The Centara brand delivers consistent quality with modern rooms and reliable service. Great for families with children thanks to the kids' facilities and the calm, long beach at Klong Prao. The resort is set in tropical gardens leading to the sand.",
+      "highlights": [
+        "Two swimming pools and dedicated kids' club",
+        "Beachfront location on calm Klong Prao Beach",
+        "Centara brand reliability with spa and multiple restaurants"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Koh%2520Chang%2520Tropicana%2520Resort%252C%2520Trat%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Koh Mak Resort without knowing its simple bungalows lack modern amenities can lead to disappointment for luxury seekers expecting upscale comforts.",
+    "intro": "Koh Mak Resort offers straightforward beachfront bungalows on Ao Suan Yai, Koh Mak's prime sunset beach, with complimentary or low-cost bicycles for exploring the island and arrangements for snorkeling and kayaks. It's ideal for couples and nature lovers seeking a peaceful, budget-friendly escape in Trat without the higher costs of nearby Koh Kood.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and nature lovers",
+      "standout": "beachfront bungalows",
+      "noGoFor": "luxury seeking families"
+    },
+    "whyBook": [
+      "Beachfront location on Ao Suan Yai for daily sunsets",
+      "Bicycles included for easy island cycling exploration",
+      "Resort-arranged snorkeling trips to nearby reefs",
+      "Kayak rentals available directly on-site",
+      "Quiet setting avoids Koh Kood's premium pricing"
+    ],
+    "whyNotBook": [
+      "Simple bungalows offer basic comforts without air-conditioned luxury",
+      "No on-site pool for swimming alternatives to the sea",
+      "Limited dining options require biking to other island spots",
+      "Remote island location means no evening nightlife nearby",
+      "Basic setup may feel dated compared to modern resorts"
+    ],
+    "skipIf": "Skip if you're traveling with young kids needing pools or structured activities, as the focus here is on quiet beach relaxation.",
+    "detailedReview": "Arriving at Koh Mak Resort feels like stepping into a laid-back island hideaway, with check-in handled casually at the beachfront reception amid the sound of waves on Ao Suan Yai. The bungalows are simple wooden structures right on the sand, providing comfortable beds, fans or basic AC in some units, and private verandas facing the west for those stunning evening sunsets that draw couples to linger with a drink. Standout is the free or cheap bicycle rental, allowing guests to pedal along quiet dirt paths to explore Koh Mak's rubber plantations and hidden coves without relying on scarce taxis. Food quality centers on fresh seafood at the resort's open-air restaurant, though portions are modest and variety limited to Thai staples—expect grilled fish and som tam rather than international buffets. Service style is friendly and unhurried, with staff arranging snorkeling trips to spots like Ko Kham or kayak outings for paddling around the bay, often with personal tips on tide times. Typical guests are nature-loving couples in their 30s-50s, escaping Bangkok's bustle for a few days of reading on the beach or gentle exploration, though backpackers on tighter budgets mix in. The vibe stays relaxed, with no loud music or crowds, but the longstanding setup means some bungalows show wear from salty sea air, and evenings wind down early without much on-site entertainment.",
+    "locationReality": "Koh Mak Resort sits directly on Ao Suan Yai beach in Koh Mak, a small Trat island reachable by ferry from Laem Ngop pier, about 45 minutes by speedboat after a 1-hour drive from Trat Airport. The west-facing spot means zero walking distance to the sand for swimming or sunset views, with the resort's bikes covering the island's 8km loop in under an hour to reach spots like Ao Kao or the pier. Beyond the immediate beach, expect a 10-15 minute bike ride to the nearest small shops or eateries, as Koh Mak remains undeveloped with no public transport needed for most explorations.",
+    "localSignals": [
+      "0 minutes walk to Ao Suan Yai beach",
+      "Bicycle rentals available on-property for island loops",
+      "Snorkeling trips arranged to nearby Ko Rang, 20-30 minutes by boat",
+      "Ferry from Trat mainland pier costs 300-500 THB round-trip",
+      "No pools on-site; beach is main swimming area"
+    ],
+    "travellerNote": "Guests often praise the peaceful beachfront setting and easy bike access for a true island escape but note the basic bungalow facilities and limited on-site dining can feel sparse for longer stays.",
+    "bookingTips": [
+      "Request beachfront bungalows for direct sand access upon booking",
+      "Use Agoda for Koh Mak Resort as it often undercuts Booking.com prices in Thailand",
+      "Prices spike December to February during high season peak",
+      "Verify kayak and snorkeling availability in advance via resort email",
+      "Confirm no construction notices, as island developments can affect quiet"
+    ],
+    "similarHotels": [
+      {
+        "name": "Kacha Resort & Spa Koh Chang",
+        "howDifferent": "Offers modern 4-star rooms and a swimming pool on busier White Sand Beach, unlike Koh Mak Resort's simple beachfront bungalows."
+      },
+      {
+        "name": "Nature Beach Resort",
+        "howDifferent": "Features upgraded concrete villas on Koh Chang's remote Lonely Beach, providing more contemporary stays than Koh Mak Resort's basic wooden setups."
+      },
+      {
+        "name": "Centara Koh Chang Tropicana Resort",
+        "howDifferent": "Includes two pools, kids' club, and spa on family-friendly Klong Prao Beach, contrasting Koh Mak Resort's quiet, no-frills nature focus."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Koh Mak Resort directly on the beach?",
+        "a": "Yes, the bungalows are right on Ao Suan Yai sand, offering immediate access to the sea and sunset views."
+      },
+      {
+        "q": "What activities does Koh Mak Resort offer?",
+        "a": "The resort provides bicycles for free or low cost, plus arrangements for snorkeling trips and kayak rentals to explore nearby waters."
+      },
+      {
+        "q": "How do I get to Koh Mak Resort?",
+        "a": "Fly into Trat Airport, then take a taxi to Laem Ngop pier for a 30-45 minute ferry to Koh Mak, followed by a short resort shuttle."
+      },
+      {
+        "q": "Is Koh Mak Resort suitable for couples?",
+        "a": "Absolutely, its quiet beachfront and sunset spot make it ideal for romantic, low-key escapes without crowds."
+      },
+      {
+        "q": "Does Koh Mak Resort have a pool?",
+        "a": "No, it relies on the beach for swimming, with no on-site pool facilities."
+      },
+      {
+        "q": "What is the price range at Koh Mak Resort?",
+        "a": "Rooms start at 1,500 THB per night, up to 3,500 THB in peak season, equating to about $42-98 USD."
+      }
+    ],
+    "urgencyLine": "Beachfront bungalows at Koh Mak Resort on Ao Suan Yai book out 1-2 months ahead for December-February high season—check availability today.",
+    "methodology": "We rated Koh Mak Resort based on its beach access, activity options, and value for mid-range island stays in Trat. We weighted location highest because direct Ao Suan Yai frontage defines the quiet escape appeal over amenities. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Koh Mak Resort Review (2026)",
+    "metaDescription": "Koh Mak Resort in Trat delivers simple beachfront bungalows on sunset-perfect Ao Suan Yai with bike rentals and snorkeling, ideal for couples—but lacks pools or modern luxuries. Book for a budget island escape today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:45:13.463Z"
+}

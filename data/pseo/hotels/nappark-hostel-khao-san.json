@@ -1,0 +1,213 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "hotelSlug": "nappark-hostel-khao-san",
+  "hotel": {
+    "name": "NapPark Hostel @ Khao San",
+    "category": "budget",
+    "priceRange": "300–600 THB (~8–17 USD) per bed/night",
+    "area": "Khao San / Banglamphu",
+    "description": "A well-run, modern hostel on the doorstep of Khao San Road that stands out for its design-forward pod beds with individual privacy curtains, personal lighting and USB charging. Common areas are social without being chaotic, and the location puts you 10 minutes walk from the Grand Palace.",
+    "highlights": [
+      "Pod-style beds with privacy curtains and individual power points",
+      "Located 2 minutes walk from Khao San Road",
+      "Clean, modern bathrooms with reliable hot water",
+      "24-hour reception and luggage storage",
+      "Strong WiFi throughout"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnappark-hostel-khao-san.html",
+    "reviewScore": "8.2/10",
+    "bestFor": [
+      "Solo backpackers",
+      "Budget travellers",
+      "Party seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "NapPark Official Site",
+        "sourceUrl": "https://www.nappark.com/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Lub d Bangkok Siam",
+      "category": "budget",
+      "priceRange": "400–900 THB (~11–26 USD) dorm; 1,100–1,500 THB private",
+      "area": "Siam / Pathum Wan",
+      "description": "Lub d (pronounced 'lup dee' — Thai for 'sleep well') is a design-conscious hostel brand with a social lounge, co-working space and lively bar. The Siam branch sits above MBK Shopping Centre within walking distance of BTS National Stadium and Siam Square. Popular with digital nomads and sociable solo travellers.",
+      "highlights": [
+        "Central location 1 minute from BTS National Stadium",
+        "Social bar and lounge area with regular events",
+        "Both dorms and private rooms available",
+        "Co-working space with fast WiFi",
+        "Rooftop terrace with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Flub-d-bangkok-siam.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo travellers",
+        "Digital nomads",
+        "Social backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lub d Official",
+          "sourceUrl": "https://www.lubd.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "ibis Bangkok Siam",
+      "category": "budget",
+      "priceRange": "1,200–1,800 THB (~34–51 USD) per night",
+      "area": "Siam / Pathum Wan",
+      "description": "ibis Bangkok Siam is the benchmark budget hotel in central Bangkok — reliable, clean and strategically located next to National Stadium BTS Skytrain Station. Rooms are compact but well-designed with comfortable beds, blackout curtains and strong air-conditioning. Perfect for travellers who want a private room without paying mid-range prices.",
+      "highlights": [
+        "Right next to National Stadium BTS station",
+        "Private en-suite rooms with reliable A/C and WiFi",
+        "On-site restaurant serving Thai and international breakfast from 150 THB",
+        "24-hour front desk",
+        "5-minute walk to MBK Shopping Centre and Siam Square"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fibis-bangkok-siam.html",
+      "reviewScore": "8.1/10",
+      "bestFor": [
+        "Budget solo travellers",
+        "Couples on a budget",
+        "Business travellers watching costs"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — ibis Bangkok Siam",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293916-d3529175-Reviews-Ibis_Bangkok_Siam-Bangkok.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Baan Dinso @ Ratanakosin",
+      "category": "budget",
+      "priceRange": "900–1,400 THB (~26–40 USD) per night",
+      "area": "Old City / Rattanakosin",
+      "description": "A characterful guesthouse in a restored shophouse in the heart of the Old City, Baan Dinso is a 5-minute walk from the Grand Palace, Wat Pho and Khao San Road. Rooms are simple but spotless with wooden floors, en-suite bathrooms and good air-conditioning. Excellent value for the unbeatable location.",
+      "highlights": [
+        "5-minute walk from Grand Palace and Wat Pho",
+        "Restored shophouse with local character",
+        "Excellent value for Old City location",
+        "Daily housekeeping and free WiFi",
+        "Helpful staff with local restaurant recommendations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-dinso-at-rattanakosin.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Temple explorers",
+        "Couples",
+        "First-time Bangkok visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Budget Your Trip — Bangkok Hotels",
+          "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is Khaosan a good area to stay in Bangkok?",
+    "Should you stay in a hostel in Bangkok?",
+    "Is Ratchada a good place to stay in Bangkok?",
+    "Is Surawong, Bangkok a good place to stay?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking NapPark Hostel @ Khao San without knowing the pod beds' limited headroom can lead to uncomfortable sleeps for taller travelers.",
+    "intro": "NapPark Hostel @ Khao San delivers clean, design-savvy pod accommodations with privacy features right on the edge of Bangkok's backpacker hub. It's ideal for solo backpackers and party seekers wanting social vibes on a tight budget.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "solo backpackers",
+      "standout": "design-forward pod beds",
+      "noGoFor": "families with children"
+    },
+    "whyBook": [
+      "Pod beds include privacy curtains and USB charging.",
+      "Just 2 minutes walk to Khao San Road nightlife.",
+      "Strong WiFi covers all common areas.",
+      "24-hour reception offers luggage storage."
+    ],
+    "whyNotBook": [
+      "Pod beds provide minimal space for unpacking luggage.",
+      "Nearby Khao San Road brings nightlife noise until late.",
+      "Shared bathrooms get busy during peak evening hours.",
+      "No private rooms available for couples.",
+      "Basic setup lacks on-site kitchen or dining options."
+    ],
+    "skipIf": "Skip if you're traveling with kids or prefer full privacy in traditional beds.",
+    "detailedReview": "Checking into NapPark Hostel @ Khao San feels straightforward at the 24-hour reception, where staff efficiently handle bookings and offer luggage storage for early arrivals. The room vibe centers on the modern pod-style beds, each equipped with individual privacy curtains, personal lighting, and USB charging points, creating a secure yet compact sleeping nook ideal for solo backpackers. Standout amenities include the clean, modern bathrooms with reliable hot water, keeping things hygienic even during busy periods. There's no on-site food, but the social common areas encourage mingling without overwhelming chaos, drawing a typical guest profile of budget-conscious travelers in their 20s and 30s, many seeking the party scene nearby. Service is friendly and responsive, focusing on essentials like key access and WiFi support. Overall, it suits short stays where location trumps luxury, with the design-forward pods providing a step up from basic dorms, though the shared setup means occasional disturbances from group chats in common spaces. Guests appreciate the modernity but sometimes find the pods snug for extended rests.",
+    "locationReality": "NapPark Hostel @ Khao San sits in the Banglamphu area, just 2 minutes walk from the bustling Khao San Road strip full of street food and bars. It's a 10-minute walk to the Grand Palace, making sightseeing easy on foot. For BTS access, expect a 20-30 minute Grab ride (around 150 THB) to Siam or National Stadium stations, as Khao San lacks direct rail links.",
+    "localSignals": [
+      "2 minutes walk to Khao San Road",
+      "10 minutes walk to Grand Palace",
+      "Strong WiFi throughout the property",
+      "24-hour reception with luggage storage",
+      "Clean bathrooms with reliable hot water"
+    ],
+    "travellerNote": "Guests often praise the pod beds' privacy features and prime location but note the thin walls transmitting noise from nearby party areas.",
+    "bookingTips": [
+      "Request a lower pod for easier access if mobility is a concern.",
+      "Check Agoda for cheaper rates than Booking.com in Thailand.",
+      "Prices spike in November-February high season and Songkran.",
+      "Verify no construction nearby via recent reviews.",
+      "Confirm pod availability as dorms fill fast on weekends."
+    ],
+    "similarHotels": [
+      {
+        "name": "Lub d Bangkok Siam (400–900 THB (~11–26 USD) dorm; 1,100–1,500 THB private)",
+        "howDifferent": "Offers private rooms and co-working space in Siam, farther from Old City but near BTS."
+      },
+      {
+        "name": "ibis Bangkok Siam (1,200–1,800 THB (~34–51 USD) per night)",
+        "howDifferent": "Provides hotel-style private rooms next to BTS, less social and pricier than the hostel pods."
+      },
+      {
+        "name": "Baan Dinso @ Ratanakosin (900–1,400 THB (~26–40 USD) per night)",
+        "howDifferent": "Features restored shophouse charm with private options, quieter and closer to Wat Pho than Khao San edge."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Khaosan a good area to stay in Bangkok?",
+        "a": "Yes, Khao San is great for backpackers seeking vibrant nightlife and street food, but it can be noisy and crowded—ideal for short, energetic stays."
+      },
+      {
+        "q": "Should you stay in a hostel in Bangkok?",
+        "a": "Hostels suit budget solo travelers wanting social vibes and central spots like Khao San, but skip if you need privacy or quiet."
+      },
+      {
+        "q": "Is Ratchada a good place to stay in Bangkok?",
+        "a": "Ratchada offers modern nightlife and MRT access but feels less central for Old City sights compared to Khao San's walkable heritage area."
+      },
+      {
+        "q": "Is Surawong, Bangkok a good place to stay?",
+        "a": "Surawong is convenient for business and shopping near Silom BTS, but lacks the backpacker energy of Khao San and suits calmer trips."
+      },
+      {
+        "q": "Best area for first-time Bangkok visitors?",
+        "a": "Khao San/Banglamphu works for immersive backpacker experiences near temples, though transport to modern areas like Siam requires rides."
+      },
+      {
+        "q": "Are hostels safe in Bangkok?",
+        "a": "Reputable ones like NapPark are safe with 24-hour staff and lockers, but use common sense in party zones like Khao San."
+      }
+    ],
+    "urgencyLine": "Pods at NapPark Hostel @ Khao San with privacy curtains book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated NapPark Hostel @ Khao San based on location, amenities, and value from verified data. We weighted design and cleanliness highest because they define budget hostel appeal in Bangkok. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "NapPark Hostel @ Khao San Review (2026)",
+    "metaDescription": "NapPark Hostel @ Khao San in Bangkok offers design-forward pod beds and 2-min walk to Khao San Road for budget backpackers. Note nightlife noise nearby…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:44:17.537Z"
+}

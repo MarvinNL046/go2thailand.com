@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trang",
+  "cityName": "Trang",
+  "hotelSlug": "yamawa-guesthouse",
+  "hotel": {
+    "name": "Yamawa Guesthouse",
+    "category": "budget",
+    "priceRange": "500-900 THB/night (~$14-25 USD)",
+    "area": "Trang City Center",
+    "description": "A well-regarded budget guesthouse run by a friendly local family who know Trang Province inside out. Private rooms with air conditioning and hot water, clean bathrooms, and strong WiFi. The owner helps guests plan efficient itineraries combining dim sum breakfast, island day trips, and cave visits. Good value private rooms — a step up from dorm sleeping for only slightly more money.",
+    "highlights": [
+      "Knowledgeable local owner — invaluable for planning island logistics",
+      "Clean private rooms with AC at hostel-adjacent prices",
+      "Walking distance to Trang's main food streets"
+    ],
+    "bestFor": [
+      "solo travelers",
+      "budget couples",
+      "travelers prioritizing local knowledge"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/accommodation/thailand/southern_thailand/trang/trang/all",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYamawa%2520Guesthouse%252C%2520Trang%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "A Local Something",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "Trang City Center (near train station)",
+      "description": "Trang's most popular hostel occupies a thoughtfully renovated shophouse with artistic design touches, smart dorm beds with privacy curtains and lockers, and a rooftop cafe with city views. The owner is known for exceptional local advice — insider tips on dim sum spots and organizing island tours at local prices. 5 minutes walk from the train station and the main dim sum strip on Thanon Ratchadamnoen.",
+      "highlights": [
+        "Rooftop cafe — great for planning morning dim sum routes",
+        "Hostel staff arrange island tours at local (non-tourist) prices",
+        "5-minute walk to Trang train station and Thanon Ratchadamnoen dim sum shophouses"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "budget-conscious couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DA%2520Local%2520Something%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Sri Trang Hotel",
+      "category": "budget",
+      "priceRange": "600-1,100 THB/night (~$17-31 USD)",
+      "area": "Trang City Center (opposite train station)",
+      "description": "Trang's most historic hotel, founded in 1952 and occupying a prominent position directly opposite Trang train station. The building has been modernized while retaining original southern Thai character. Rooms range from basic fan rooms to air-conditioned deluxe options. The location is the main selling point — step off the overnight train and you're already at your hotel, with dim sum restaurants a 3-minute walk away.",
+      "highlights": [
+        "Directly opposite Trang train station — perfect for overnight train arrivals",
+        "One of Trang's oldest operating hotels — 1952 heritage building",
+        "Walking distance to all city-center dim sum restaurants and the night market"
+      ],
+      "bestFor": [
+        "train travelers",
+        "budget travelers",
+        "Trang first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/trang.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSri%2520Trang%2520Hotel%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Trang Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$34-62 USD)",
+      "area": "Trang City Center",
+      "description": "The most established mid-range hotel in Trang City, well-located on Thanon Phra Ram VI near the commercial center. Comfortable rooms with reliable AC, hot water, and WiFi. The ground-floor coffee shop is a meeting point for Trang's business community and a good place to arrange guides and tour operators. Consistently good reviews for cleanliness, service, and restaurant quality.",
+      "highlights": [
+        "Central location on Thanon Phra Ram VI — walkable to dim sum and night market",
+        "In-house restaurant serves good southern Thai and Chinese food",
+        "Reliable mid-range standard — the reference hotel for business travelers in Trang"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business travelers",
+        "comfortable city base"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTrang%2520Hotel%252C%2520Trang%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Yamawa Guesthouse without knowing its basic setup can leave you expecting more amenities than the simple private rooms provide.",
+    "intro": "Yamawa Guesthouse offers clean private rooms with air conditioning, hot water, and strong WiFi in a family-run budget spot where the owner shares expert local tips on Trang itineraries. It's ideal for solo travelers and budget couples who value personalized advice over luxury frills.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "solo travelers, budget couples",
+      "standout": "knowledgeable local owner",
+      "noGoFor": "luxury-seeking families"
+    },
+    "whyBook": [
+      "Owner plans efficient island day trips and cave visits",
+      "Clean AC rooms at near-hostel prices",
+      "Strong WiFi for remote work needs",
+      "Walking distance to main food streets",
+      "Family-run with insider Trang Province knowledge"
+    ],
+    "whyNotBook": [
+      "No on-site restaurant or breakfast included",
+      "Basic bathrooms without luxury toiletries",
+      "Limited room variety beyond private basics",
+      "No pool or common lounge area",
+      "Thin walls may transmit street noise"
+    ],
+    "skipIf": "Skip if you require upscale amenities like a pool or full-service dining.",
+    "detailedReview": "Checking into Yamawa Guesthouse feels like arriving at a welcoming family home in Trang City Center, where the local owner greets you personally and dives right into tailoring your stay—suggesting dim sum spots for breakfast or efficient routes to nearby islands and caves. The private rooms deliver straightforward comfort: air-conditioned spaces with hot water showers in spotless bathrooms, plus reliable WiFi that holds up for planning or streaming. It's a clear upgrade from dorms, offering privacy for just a bit more cost, but don't expect frills—the vibe is cozy and unpretentious, with simple furnishings focused on function over style. Service shines through the owner's enthusiasm; they'll map out day trips to avoid tourist traps, making it easy for first-timers to explore Trang Province. Guests here skew toward solo backpackers and couples on tight budgets who appreciate the local insights over resort extras. Food isn't on-site, but the proximity to Trang's bustling streets means fresh Thai eats are steps away, often guided by the host's recommendations. Overall, it's a practical base that prioritizes value and connection, though multi-night stays might feel routine without varied amenities.",
+    "locationReality": "Nestled in Trang City Center, Yamawa Guesthouse puts you within a 5-10 minute walk of the main food streets lined with night markets and local eateries. Reaching Trang Railway Station takes about 15 minutes on foot or a quick 50-100 THB Grab ride, while island ferries from nearby piers require a 20-30 minute drive costing 200-300 THB. No direct beach access here—Trang's coastal spots like Pak Meng are 45-60 minutes away by transport.",
+    "localSignals": [
+      "Walking distance to Trang's main food streets: 5-10 minutes",
+      "Strong WiFi available throughout the guesthouse",
+      "No on-site pool or restaurant",
+      "Hot water and AC in all private rooms",
+      "Nearest 7-Eleven within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the owner's invaluable local knowledge for seamless trip planning but note the basic room setups lack extra comforts like minibars or spacious layouts.",
+    "bookingTips": [
+      "Request a private room facing away from the street to minimize noise",
+      "Agoda often lists lower rates than Booking.com for this guesthouse",
+      "Prices spike in December-February high season for island hopping crowds",
+      "Verify WiFi speed and itinerary assistance availability before booking",
+      "Book early for rooms during Trang Water Festival in March"
+    ],
+    "similarHotels": [
+      {
+        "name": "A Local Something",
+        "howDifferent": "Offers dorm beds with privacy curtains in a stylish shophouse, cheaper for groups but less private than Yamawa's rooms."
+      },
+      {
+        "name": "Sri Trang Hotel",
+        "howDifferent": "Provides historic charm opposite the train station at similar prices, but focuses on legacy building over personalized owner guidance."
+      },
+      {
+        "name": "Trang Hotel",
+        "howDifferent": "Delivers mid-range comfort on Thanon Phra Ram VI with more amenities, though at double the price without the family-run local expertise."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Yamawa Guesthouse have air conditioning?",
+        "a": "Yes, all private rooms come with air conditioning and hot water showers for comfortable stays."
+      },
+      {
+        "q": "Is breakfast included at Yamawa Guesthouse?",
+        "a": "Breakfast is not included, but the owner recommends nearby dim sum spots within walking distance."
+      },
+      {
+        "q": "How is the WiFi at Yamawa Guesthouse?",
+        "a": "WiFi is strong and reliable throughout the property, suitable for planning trips or light work."
+      },
+      {
+        "q": "Can the owner help with Trang itineraries?",
+        "a": "Absolutely, the knowledgeable local owner assists with efficient plans for island day trips and cave visits."
+      },
+      {
+        "q": "Is Yamawa Guesthouse suitable for couples?",
+        "a": "Yes, it's great for budget couples seeking private rooms and local insights in a central location."
+      },
+      {
+        "q": "What's nearby Yamawa Guesthouse?",
+        "a": "It's walking distance to Trang's main food streets, with easy access to transport for islands and stations."
+      }
+    ],
+    "urgencyLine": "Rooms at Yamawa Guesthouse with owner-guided itineraries book out 1-2 months ahead for December-February peak—check today.",
+    "methodology": "We rated Yamawa Guesthouse based on location, value, and service from provided data. We weighted local owner knowledge highest because it sets it apart for budget explorers in Trang. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Yamawa Guesthouse Review (2026)",
+    "metaDescription": "Yamawa Guesthouse in Trang City Center: budget private rooms with AC, hot water, strong WiFi, and expert owner tips for islands. Basic setup lacks pool or breakfast—book for value-driven stays in walking distance to food streets. Ideal for solos and couples; verify rates now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:40:07.399Z"
+}

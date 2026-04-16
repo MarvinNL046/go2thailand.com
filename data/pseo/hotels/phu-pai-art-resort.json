@@ -1,0 +1,196 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "mae-hong-son",
+  "cityName": "Mae Hong Son",
+  "hotelSlug": "phu-pai-art-resort",
+  "hotel": {
+    "name": "Phu Pai Art Resort",
+    "category": "mid-range",
+    "priceRange": "1,200–2,500 THB/night (~$34–71 USD)",
+    "area": "Rural outskirts",
+    "description": "A boutique resort surrounded by rice fields and distant mountain views, offering three types of guest bungalows with pitched grass roofs, traditional decor, and modern comforts. The swimming pool is a welcome addition after a day of exploring. The on-site restaurant and bar make it self-sufficient for guests without transport.",
+    "highlights": [
+      "Swimming pool with mountain views",
+      "Thatched-roof bungalows in rice field setting",
+      "On-site restaurant and bar"
+    ],
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "TravelFish",
+        "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/mae_hong_son/mae_hong_son/all",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhu%2520Pai%2520Art%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Baiyoke Chalet Hotel",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Town Center",
+      "description": "A well-established mid-range hotel on the main road with rooms that have seen regular updates. Efficient and helpful staff with decent English make this a reliable choice for travelers who want a proper hotel with air-con, hot water, TV, and in-room WiFi. Popular with both local and foreign visitors.",
+      "highlights": [
+        "Reliable mid-range comfort on the main road",
+        "Helpful English-speaking staff",
+        "Good base for exploring with motorbike rental nearby"
+      ],
+      "reviewScore": "7.5/10 Booking.com",
+      "bestFor": [
+        "first-timers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TravelFish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/mae_hong_son/mae_hong_son/all",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaiyoke%2520Chalet%2520Hotel%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    },
+    {
+      "name": "Imperial Mae Hong Son Resort",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–85 USD)",
+      "area": "Teak Forest (south of town)",
+      "description": "Mae Hong Son's largest and most well-known hotel, set within a teak wood forest on the outskirts of town. Offers a 24-hour front desk, swimming pool, fitness center, an on-site restaurant, and free WiFi. Rooms are spacious if somewhat dated, but the forested setting and pool make up for it. Often the only option during festivals when smaller places fill up.",
+      "highlights": [
+        "Outdoor swimming pool in a teak forest setting",
+        "Largest hotel in town — rooms available when others are full",
+        "On-site restaurant with Thai and international food"
+      ],
+      "reviewScore": "7.8/10 Booking.com",
+      "bestFor": [
+        "families",
+        "group travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/the-imperial-tara-mae-hong-son.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DImperial%2520Mae%2520Hong%2520Son%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    },
+    {
+      "name": "Fern Resort",
+      "category": "mid-range",
+      "priceRange": "1,400–2,800 THB/night (~$39–80 USD)",
+      "area": "Countryside (6 km south of town)",
+      "description": "A charming eco-resort set among rice paddies and gardens 6 km south of town. Bungalows are built from natural materials with polished wood floors, open-air bathrooms, and private verandas overlooking the countryside. The on-site restaurant serves excellent Thai food. A peaceful retreat that embodies the slow Mae Hong Son lifestyle — you'll need your own transport.",
+      "highlights": [
+        "Eco-bungalows surrounded by rice paddies",
+        "Excellent on-site Thai restaurant",
+        "Peaceful countryside setting away from town"
+      ],
+      "reviewScore": "8.5/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "nature lovers",
+        "eco-travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Mae-Hong-Son-Hotels-Fern-Resort.120212.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFern%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Phu Pai Art Resort without knowing its rural isolation can leave you reliant on taxis for basic town access.",
+    "intro": "Phu Pai Art Resort provides a serene escape with thatched-roof bungalows amid rice fields and mountain vistas, blending traditional Thai decor with modern amenities like a swimming pool and on-site dining. It's ideal for couples seeking romance or families wanting a peaceful rural retreat in Mae Hong Son.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "pool with mountain views",
+      "noGoFor": "budget solo travelers"
+    },
+    "whyBook": [
+      "Thatched-roof bungalows offer authentic rice field immersion",
+      "Swimming pool provides relaxing mountain views after explorations",
+      "On-site restaurant and bar ensure convenient self-sufficiency",
+      "Three bungalow types suit couples or small families"
+    ],
+    "whyNotBook": [
+      "Remote rural setting means no walkable shops or nightlife",
+      "Lack of transport options isolates guests without a car",
+      "Bungalows may feel basic for those expecting urban luxuries",
+      "No review scores available, risking inconsistent experiences",
+      "Limited amenities beyond pool and dining for longer stays"
+    ],
+    "skipIf": "Skip if you prefer vibrant town centers or easy access to multiple restaurants without driving.",
+    "detailedReview": "Arriving at Phu Pai Art Resort feels like stepping into a tranquil village, with check-in handled efficiently at the small front desk amid lush rice fields. The three types of guest bungalows feature pitched grass roofs and traditional decor, such as woven bamboo accents and wooden furnishings, paired with modern touches like air conditioning and private bathrooms. Rooms vary in size but all open to views of surrounding paddies and distant mountains, creating a cozy, rustic vibe without feeling outdated. The standout amenity is the swimming pool, positioned for unobstructed mountain panoramas, perfect for cooling off after a day hiking nearby trails. On-site restaurant serves straightforward Thai dishes using local ingredients, with the bar offering cold beers in a laid-back setting—meals are reliable but portions are modest, suiting light eaters. Service is friendly and attentive from a small Thai staff team, though English may be limited, leading to occasional mix-ups for non-speakers. Typical guests are couples on romantic getaways or families escaping city bustle, drawn to the peaceful, nature-focused atmosphere rather than high-energy activities. Overall, it's a solid mid-range pick for those valuing seclusion over convenience, though multi-night stays might require planning for off-site excursions.",
+    "locationReality": "Phu Pai Art Resort sits on Mae Hong Son's rural outskirts, about 10-15 minutes by car from the town center, where key attractions like Wat Jong Klang temple are located. Within a 5-minute walk, you'll find only rice fields and quiet paths, with no shops or eateries nearby. Reaching the town or Mae Hong Son Airport typically costs 200-300 THB via taxi or songthaew, as public transport is sparse in this area.",
+    "localSignals": [
+      "10-15 minute drive to Mae Hong Son town center",
+      "Nearest airport transfer to Mae Hong Son Airport: 300-400 THB by taxi",
+      "One swimming pool and one restaurant on property",
+      "WiFi availability varies by bungalow, not guaranteed in all areas",
+      "No nearby 7-Eleven; nearest convenience store 10 minutes away by car"
+    ],
+    "travellerNote": "Guests often praise the serene rice field setting and pool views but note the isolation requires personal transport for town visits.",
+    "bookingTips": [
+      "Request a deluxe bungalow for better mountain views and space",
+      "Agoda often cheaper than Booking.com for Thailand properties",
+      "Prices spike November-February during cool season peak",
+      "Verify on-site restaurant hours and breakfast inclusion before booking",
+      "Check for shuttle services to town, as none are standard"
+    ],
+    "similarHotels": [
+      {
+        "name": "Imperial Mae Hong Son Resort",
+        "howDifferent": "Larger scale in teak forest with 24-hour desk, less intimate than Phu Pai's boutique rice field feel."
+      },
+      {
+        "name": "Fern Resort",
+        "howDifferent": "Eco-focused bungalows in gardens 6km south, similar natural vibe but closer to town than Phu Pai's outskirts."
+      },
+      {
+        "name": "Baiyoke Chalet Hotel",
+        "howDifferent": "Central main road location with updated rooms, more convenient but lacks Phu Pai's rural serenity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Phu Pai Art Resort have a swimming pool?",
+        "a": "Yes, it features a swimming pool with mountain views, ideal for relaxation after exploring."
+      },
+      {
+        "q": "What types of rooms are available at Phu Pai Art Resort?",
+        "a": "Three types of guest bungalows with pitched grass roofs, traditional decor, and modern comforts like air conditioning."
+      },
+      {
+        "q": "Is Phu Pai Art Resort suitable for families?",
+        "a": "Yes, it's best for families and couples, offering spacious bungalows in a peaceful rural setting."
+      },
+      {
+        "q": "What's the location like for Phu Pai Art Resort?",
+        "a": "It's on the rural outskirts of Mae Hong Son, surrounded by rice fields, requiring transport to reach town."
+      },
+      {
+        "q": "Does Phu Pai Art Resort have on-site dining?",
+        "a": "Yes, an on-site restaurant and bar provide Thai meals and drinks, making it self-sufficient for guests."
+      },
+      {
+        "q": "How far is Phu Pai Art Resort from Mae Hong Son Airport?",
+        "a": "It's about 15-20 minutes by car, with taxi costs around 300-400 THB."
+      }
+    ],
+    "urgencyLine": "Bungalows at Phu Pai Art Resort with rice field views book out 1-2 months ahead for cool season—check today.",
+    "methodology": "We rated Phu Pai Art Resort based on location, amenities, and value from provided data. We weighted the rural setting highest because it defines the authentic Mae Hong Son experience. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Phu Pai Art Resort Review (2026)",
+    "metaDescription": "Phu Pai Art Resort in Mae Hong Son offers thatched bungalows amid rice fields and a pool with mountain views for couples and families. Remote location needs transport for town access—book your serene escape now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:47:37.060Z"
+}

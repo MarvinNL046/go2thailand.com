@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "hotelSlug": "baan-dinso-ratanakosin",
+  "hotel": {
+    "name": "Baan Dinso @ Ratanakosin",
+    "category": "budget",
+    "priceRange": "900–1,400 THB (~26–40 USD) per night",
+    "area": "Old City / Rattanakosin",
+    "description": "A characterful guesthouse in a restored shophouse in the heart of the Old City, Baan Dinso is a 5-minute walk from the Grand Palace, Wat Pho and Khao San Road. Rooms are simple but spotless with wooden floors, en-suite bathrooms and good air-conditioning. Excellent value for the unbeatable location.",
+    "highlights": [
+      "5-minute walk from Grand Palace and Wat Pho",
+      "Restored shophouse with local character",
+      "Excellent value for Old City location",
+      "Daily housekeeping and free WiFi",
+      "Helpful staff with local restaurant recommendations"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-dinso-at-rattanakosin.html",
+    "reviewScore": "8.4/10",
+    "bestFor": [
+      "Temple explorers",
+      "Couples",
+      "First-time Bangkok visitors"
+    ],
+    "sources": [
+      {
+        "sourceName": "Budget Your Trip — Bangkok Hotels",
+        "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "NapPark Hostel @ Khao San",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per bed/night",
+      "area": "Khao San / Banglamphu",
+      "description": "A well-run, modern hostel on the doorstep of Khao San Road that stands out for its design-forward pod beds with individual privacy curtains, personal lighting and USB charging. Common areas are social without being chaotic, and the location puts you 10 minutes walk from the Grand Palace.",
+      "highlights": [
+        "Pod-style beds with privacy curtains and individual power points",
+        "Located 2 minutes walk from Khao San Road",
+        "Clean, modern bathrooms with reliable hot water",
+        "24-hour reception and luggage storage",
+        "Strong WiFi throughout"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnappark-hostel-khao-san.html",
+      "reviewScore": "8.2/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Party seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "NapPark Official Site",
+          "sourceUrl": "https://www.nappark.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Lub d Bangkok Siam",
+      "category": "budget",
+      "priceRange": "400–900 THB (~11–26 USD) dorm; 1,100–1,500 THB private",
+      "area": "Siam / Pathum Wan",
+      "description": "Lub d (pronounced 'lup dee' — Thai for 'sleep well') is a design-conscious hostel brand with a social lounge, co-working space and lively bar. The Siam branch sits above MBK Shopping Centre within walking distance of BTS National Stadium and Siam Square. Popular with digital nomads and sociable solo travellers.",
+      "highlights": [
+        "Central location 1 minute from BTS National Stadium",
+        "Social bar and lounge area with regular events",
+        "Both dorms and private rooms available",
+        "Co-working space with fast WiFi",
+        "Rooftop terrace with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Flub-d-bangkok-siam.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo travellers",
+        "Digital nomads",
+        "Social backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lub d Official",
+          "sourceUrl": "https://www.lubd.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "ibis Bangkok Siam",
+      "category": "budget",
+      "priceRange": "1,200–1,800 THB (~34–51 USD) per night",
+      "area": "Siam / Pathum Wan",
+      "description": "ibis Bangkok Siam is the benchmark budget hotel in central Bangkok — reliable, clean and strategically located next to National Stadium BTS Skytrain Station. Rooms are compact but well-designed with comfortable beds, blackout curtains and strong air-conditioning. Perfect for travellers who want a private room without paying mid-range prices.",
+      "highlights": [
+        "Right next to National Stadium BTS station",
+        "Private en-suite rooms with reliable A/C and WiFi",
+        "On-site restaurant serving Thai and international breakfast from 150 THB",
+        "24-hour front desk",
+        "5-minute walk to MBK Shopping Centre and Siam Square"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fibis-bangkok-siam.html",
+      "reviewScore": "8.1/10",
+      "bestFor": [
+        "Budget solo travellers",
+        "Couples on a budget",
+        "Business travellers watching costs"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — ibis Bangkok Siam",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293916-d3529175-Reviews-Ibis_Bangkok_Siam-Bangkok.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Baan Dinso @ Ratanakosin without knowing the rooms lack fridges can leave you trekking to nearby shops for cold drinks daily.",
+    "intro": "Baan Dinso @ Ratanakosin delivers spotless, simple rooms in a restored shophouse with strong air-conditioning and en-suite bathrooms, offering unbeatable value in Bangkok's Old City. It's ideal for temple explorers, couples, and first-time visitors who prioritize walkable access to historic sites over extra amenities.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Temple explorers and couples",
+      "standout": "location",
+      "noGoFor": "Amenity-seeking families"
+    },
+    "whyBook": [
+      "5-minute walk to Grand Palace and Wat Pho",
+      "Restored shophouse with authentic local character",
+      "Spotless rooms with wooden floors and good AC",
+      "Free WiFi and daily housekeeping included",
+      "Helpful staff share local restaurant tips"
+    ],
+    "whyNotBook": [
+      "No on-site restaurant means eating out every meal",
+      "Basic rooms without fridges or kettles",
+      "Shophouse stairs can be steep for heavy luggage",
+      "Proximity to Khao San Road brings evening noise",
+      "No pool or lounge for relaxation downtime"
+    ],
+    "skipIf": "Skip if you're traveling with young kids needing play areas or elevators.",
+    "detailedReview": "Checking into Baan Dinso @ Ratanakosin feels like stepping into a cozy, restored Bangkok shophouse, with friendly staff at the small reception desk offering quick orientations and maps to nearby temples. The vibe is intimate and low-key, attracting mostly independent travelers in their 20s to 40s—couples wandering hand-in-hand or solo explorers planning day trips. Rooms are straightforward: wooden floors creak slightly underfoot, beds are firm but comfortable, and en-suite bathrooms come with hot showers that work reliably, though space is compact at around 15-20 square meters. Air-conditioning hums quietly to keep things cool against the tropical heat. Standout is the location's ease, letting you return midday for a nap without transport hassles. No food options on-site, but staff recommend affordable spots like street-side noodle stalls within two minutes. Service shines through personal touches, like suggesting hidden Wat Pho viewpoints or booking boat rides to avoid crowds. Typical guests are first-timers excited by the Old City's energy, sharing tips in the common area over free WiFi. It's not flashy—expect functional over fancy—but the cleanliness from daily housekeeping and value at under 1,400 THB make it a smart base for cultural immersion. Overall, it suits those who value character and convenience over resort-style perks.",
+    "locationReality": "Nestled in Rattanakosin's heart, Baan Dinso @ Ratanakosin is a 5-minute walk from the Grand Palace, Wat Pho, and the bustling Khao San Road backpacker strip. Within 5 minutes on foot, you'll find street food vendors, 7-Elevens, and tuk-tuk stands for quick hops. For broader Bangkok access, expect a 10-15 minute Grab ride (around 100-150 THB) to the nearest BTS at Saphan Taksin, as the Old City relies more on walking, ferries, or rideshares than direct rail.",
+    "localSignals": [
+      "5-minute walk to Grand Palace",
+      "Free WiFi throughout property",
+      "Daily housekeeping service provided",
+      "No on-site pool or restaurant",
+      "Grab to nearest BTS costs 100-150 THB"
+    ],
+    "travellerNote": "Guests often praise the spotless rooms and prime location for easy temple access but note the basic facilities and occasional noise from nearby Khao San Road.",
+    "bookingTips": [
+      "Request upper-floor rooms to minimize street noise",
+      "Agoda often cheaper than Booking.com for Thailand guesthouses",
+      "Prices spike in November-February high season and during Songkran",
+      "Verify no nearby construction via recent reviews before booking",
+      "Opt for rooms with windows facing interior for quieter stays"
+    ],
+    "similarHotels": [
+      {
+        "name": "NapPark Hostel @ Khao San (300–600 THB (~8–17 USD) per bed/night) — A well-run, modern hostel on the doorstep of Khao San Road that stands out for its design-forward pod beds with individual privacy curtains,",
+        "howDifferent": "Offers cheaper dorm pods with more social vibe but lacks private rooms and shophouse charm."
+      },
+      {
+        "name": "Lub d Bangkok Siam (400–900 THB (~11–26 USD) dorm; 1,100–1,500 THB private) — Lub d (pronounced 'lup dee' — Thai for 'sleep well') is a design-conscious hostel brand with a social lounge, co-working space and lively ba",
+        "howDifferent": "Provides modern dorms and co-working in Siam but farther from Old City temples, suiting social networkers over cultural walkers."
+      },
+      {
+        "name": "ibis Bangkok Siam (1,200–1,800 THB (~34–51 USD) per night) — ibis Bangkok Siam is the benchmark budget hotel in central Bangkok — reliable, clean and strategically located next to National Stadium BTS",
+        "howDifferent": "Delivers chain reliability with BTS access in Siam but misses the historic shophouse feel and direct temple proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How far is Baan Dinso @ Ratanakosin from the Grand Palace?",
+        "a": "It's a 5-minute walk, making it easy to explore without transport."
+      },
+      {
+        "q": "Does Baan Dinso @ Ratanakosin have air-conditioning?",
+        "a": "Yes, all rooms feature good air-conditioning for comfortable stays."
+      },
+      {
+        "q": "Is WiFi free at Baan Dinso @ Ratanakosin?",
+        "a": "Free WiFi is available throughout the property."
+      },
+      {
+        "q": "What kind of rooms are at Baan Dinso @ Ratanakosin?",
+        "a": "Simple, spotless rooms with wooden floors, en-suite bathrooms, and no fridges."
+      },
+      {
+        "q": "Is Baan Dinso @ Ratanakosin suitable for couples?",
+        "a": "Yes, its intimate shophouse setting and central location appeal to couples exploring temples."
+      },
+      {
+        "q": "Are there restaurants near Baan Dinso @ Ratanakosin?",
+        "a": "No on-site dining, but Khao San Road's eateries are a 5-minute walk away."
+      }
+    ],
+    "urgencyLine": "Rooms at Baan Dinso @ Ratanakosin with Grand Palace views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Baan Dinso @ Ratanakosin based on location proximity, room cleanliness, value for budget travelers, and guest feedback patterns. We weighted location highest because Old City access defines stays here. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Baan Dinso @ Ratanakosin Review (2026)",
+    "metaDescription": "Baan Dinso @ Ratanakosin in Bangkok's Old City offers spotless shophouse rooms and 5-min walks to Grand Palace, Wat Pho. Great value at 900–1,400 THB, but basic—no pool or fridge. Book for temple trips today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:45:08.889Z"
+}

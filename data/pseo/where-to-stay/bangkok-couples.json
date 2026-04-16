@@ -1,0 +1,253 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "audience": "couples",
+  "neighborhoods": [
+    {
+      "name": "Silom & Sathorn",
+      "description": "Silom and Sathorn form Bangkok's financial and business district, anchored by skyscrapers, consulates and some of the city's best high-end dining. By day it is all suits and serious coffee shops; by night, Patpong Night Market and the surrounding entertainment area transforms the streets. Lumpini Park — Bangkok's largest green space — borders the area and provides a much-needed morning escape.",
+      "bestFor": "Business travel, couples, upmarket dining, rooftop bars",
+      "priceLevel": "Mid-range to luxury (2,500–18,000 THB/night)",
+      "highlights": [
+        "Lumpini Park on the doorstep for morning runs and monitor lizard spotting",
+        "Sky Bar (Lebua) and Vertigo (Banyan Tree) — two of Bangkok's best rooftop bars",
+        "Patpong Night Market (mixed reputation but fun for browsing)",
+        "Excellent MRT and BTS connectivity — Sala Daeng and Silom stations interchange",
+        "Good range of mid-range and luxury hotels at slightly lower prices than Sukhumvit"
+      ],
+      "recommendedHotels": [
+        "SO/ Bangkok",
+        "Chatrium Grand Bangkok"
+      ],
+      "walkingScore": "7/10 — compact business district, good pavement quality",
+      "transportNotes": [
+        "BTS Sala Daeng and Chong Nonsi stations",
+        "MRT Silom and Lumpini stations",
+        "BTS Saphan Taksin for river ferry to Riverside temples",
+        "Grab and metered taxis plentiful"
+      ],
+      "sources": [
+        {
+          "sourceName": "Nerd Nomads — Bangkok Areas",
+          "sourceUrl": "https://nerdnomads.com/where-to-stay-in-bangkok",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Riverside (Charoen Krung & Sathorn Pier)",
+      "description": "The Chao Phraya riverfront stretches from the Grand Palace south to Asiatique, and this is where Bangkok's most storied luxury hotels stand — Mandarin Oriental, The Peninsula, Chatrium and Capella. A slower, more atmospheric Bangkok exists here: colonial warehouses converted to galleries, antique shops on Charoen Krung Road, and the river traffic of ferries, tugboats and long-tails passing your window.",
+      "bestFor": "Honeymoons, special occasions, luxury travel, temple lovers",
+      "priceLevel": "Luxury (5,000–35,000 THB/night); some boutique mid-range options",
+      "highlights": [
+        "The Mandarin Oriental, The Peninsula and Chatrium Riverside — three of Asia's great hotels",
+        "Asiatique The Riverfront — open-air night market and entertainment complex",
+        "SALA Rattanakosin boutique hotel with direct Wat Arun views",
+        "Icon Siam mega-mall and Surasak BTS right on the river",
+        "Calmer, more romantic atmosphere than Sukhumvit"
+      ],
+      "recommendedHotels": [
+        "Mandarin Oriental Bangkok",
+        "The Peninsula Bangkok",
+        "Chatrium Hotel Riverside Bangkok",
+        "SALA Rattanakosin Bangkok"
+      ],
+      "walkingScore": "5/10 — riverside is beautiful but gaps between attractions require transport",
+      "transportNotes": [
+        "BTS Saphan Taksin for Silom/Sathorn access; shuttle boats from hotels",
+        "Chao Phraya Express Boat for temple area (Tha Maharaj, Tha Chang, Pha Athit piers)",
+        "BTS Gold Line to Icon Siam and Charoen Krung",
+        "Hotel shuttle boats to BTS Taksin included at most luxury properties"
+      ],
+      "sources": [
+        {
+          "sourceName": "Adventurous Kate — Bangkok Neighborhoods",
+          "sourceUrl": "https://www.adventurouskate.com/where-to-stay-in-bangkok-best-neighborhoods-accommodation/",
+          "lastVerified": "2026-03-13"
+        },
+        {
+          "sourceName": "Nerd Nomads — Bangkok Areas",
+          "sourceUrl": "https://nerdnomads.com/where-to-stay-in-bangkok",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chatuchak",
+      "description": "Chatuchak is situated in the Chatuchak district north of the city center, home to the large Chatuchak Weekend Market that operates on weekends. It includes parks and residential zones with access to MRT and BTS lines. The area serves as a hub for shopping and casual outings.",
+      "bestFor": "families, kids, budget, backpackers",
+      "priceLevel": "€",
+      "highlights": [
+        "Chatuchak Weekend Market",
+        "JJ Green Night Market",
+        "Chatuchak Park",
+        "Queen Sirikit 60th Anniversary Park",
+        "MRT Chatuchak Park station"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "BTS Mo Chit station",
+        "MRT Chatuchak Park station",
+        "Northern Bus Terminal nearby"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where is the best place to stay in Bangkok for couples?",
+    "Where is the best area to stay in Bangkok as a tourist?",
+    "Is it better to stay in Sukhumvit or Siam?",
+    "Where do most foreigners stay in Bangkok?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Bangkok neighbourhood as a couples traveller can lead to noisy streets and rushed commutes — most travellers overlook romantic vibes for central buzz.",
+    "intro": "For couples, the key factor is a blend of intimacy and convenience, allowing easy access to romantic dinners and serene escapes without constant transport hassles. We ranked areas on luxury appeal, walkability to dining and sights, and couple-friendly vibes like rooftop bars and river views.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Riverside (Charoen Krung & Sathorn Pier)",
+        "why": "Luxury romance and temple proximity"
+      },
+      {
+        "label": "Best value",
+        "name": "Silom & Sathorn",
+        "why": "Mid-range access to upmarket dining"
+      },
+      {
+        "label": "Best for honeymoons",
+        "name": "Riverside (Charoen Krung & Sathorn Pier)",
+        "why": "Storied luxury hotels and river serenity"
+      }
+    ],
+    "urgencyLine": "Bangkok's romantic riverside spots book up fast for Valentine's and Songkran — secure couples suites 3-4 months ahead in peak seasons.",
+    "comparisonTable": [
+      {
+        "name": "Silom & Sathorn",
+        "bestFor": "couples upmarket dining",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "modern buzzing",
+        "drawback": "Busy by day with suits"
+      },
+      {
+        "name": "Riverside (Charoen Krung & Sathorn Pier)",
+        "bestFor": "honeymoons luxury travel",
+        "priceBand": "€€€",
+        "walkability": "High",
+        "vibe": "laid-back traditional",
+        "drawback": "Higher costs limit options"
+      },
+      {
+        "name": "Chatuchak",
+        "bestFor": "budget weekend markets",
+        "priceBand": "€",
+        "walkability": "Low",
+        "vibe": "local lively",
+        "drawback": "Far from city center"
+      }
+    ],
+    "decisionGuide": [
+      "If seeking luxury river views, choose Riverside (Charoen Krung & Sathorn Pier).",
+      "If prioritizing rooftop bars and dining, choose Silom & Sathorn.",
+      "If on a tight budget with market vibes, choose Chatuchak.",
+      "If wanting temple access without crowds, choose Riverside (Charoen Krung & Sathorn Pier).",
+      "If business meets romance, choose Silom & Sathorn."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Riverside (Charoen Krung & Sathorn Pier)",
+        "why": "This area excels for couples with its atmospheric riverfront luxury hotels perfect for honeymoons, outshining Silom's busier vibe by offering serene escapes near temples. It beats Chatuchak's budget focus with intimate, special-occasion appeal.",
+        "drawback": "Prices skew high, making it less accessible for moderate budgets.",
+        "skipIf": "Skip if you're watching costs closely or prefer urban energy over relaxed riverside pacing.",
+        "localSignals": [
+          "Sathorn Pier BTS 5-10 min walk",
+          "Grab from Suvarnabhumi varies 400-600 THB",
+          "0.5 km to Grand Palace area"
+        ],
+        "travellerNote": "Travellers often praise the romantic boat rides and historic charm but note the premium pricing and occasional ferry wait times."
+      },
+      {
+        "rank": 2,
+        "name": "Silom & Sathorn",
+        "why": "Ideal for couples blending business-like efficiency with evening romance via rooftop bars and fine dining, it provides better value than Riverside's luxury without Chatuchak's distance from sights.",
+        "drawback": "Daytime office crowds can disrupt the intimate feel.",
+        "skipIf": "Skip if you crave quiet luxury over a mix of suits and nightlife.",
+        "localSignals": [
+          "Sala Daeng BTS 5 min walk",
+          "Grab from Suvarnabhumi 300-500 THB",
+          "Patpong Night Market 10 min walk"
+        ],
+        "travellerNote": "Travellers often praise the upscale eateries and easy transport but note the shift to rowdy Patpong nights."
+      },
+      {
+        "rank": 3,
+        "name": "Chatuchak",
+        "why": "Suits budget-conscious couples with park access and weekend markets, offering affordability that Riverside and Silom lack, though it's farther from romantic core spots.",
+        "drawback": "Requires more transit to reach central attractions.",
+        "skipIf": "Skip if romance means luxury dining rather than casual market strolls.",
+        "localSignals": [
+          "Chatuchak Park MRT 2 min walk",
+          "Grab from Suvarnabhumi 250-400 THB",
+          "Chatuchak Weekend Market 5 min walk"
+        ],
+        "travellerNote": "Travellers often praise the affordable stays and green spaces but note the weekend-only market buzz and northern isolation."
+      }
+    ],
+    "topPick": "Riverside (Charoen Krung & Sathorn Pier)",
+    "topPickReason": "It delivers unmatched luxury and intimacy for couples, with river views trumping urban alternatives.",
+    "bookingTips": [
+      "Book 3-4 months ahead for riverside luxury during high season November-February to snag deals under 10,000 THB.",
+      "From Suvarnabhumi, take Airport Rail Link to Phaya Thai then BTS to Sathorn Pier, or Grab for 400-600 THB direct.",
+      "Avoid Patpong-adjacent blocks in nearby Silom for quieter couples stays free of night market noise.",
+      "Opt for river-view rooms in boutique options to balance mid-range pricing around 5,000 THB.",
+      "Watch for Songkran floods impacting riverside access in April—choose elevated hotels.",
+      "Steer clear of unverified pier touts for boat taxis to prevent overcharges."
+    ],
+    "methodology": "We compared Bangkok neighbourhoods based on walkability, price level, transport access, and suitability for couples. We weighted romantic vibes and luxury options highest because couples prioritize intimacy over budget alone. Rankings reflect cluster data plus typical couples priorities like honeymoons and dining. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/bangkok/",
+      "/areas/bangkok/riverside-charoen-krung-and-sathorn-pier/",
+      "/guides/where-to-stay/bangkok/",
+      "/city/bangkok/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Bangkok'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Riverside (Charoen Krung & Sathorn Pier)'"
+    ],
+    "faq": [
+      {
+        "q": "Where is the best place to stay in Bangkok for couples?",
+        "a": "Riverside (Charoen Krung & Sathorn Pier) tops for couples with its luxury riverfront hotels ideal for honeymoons and temple visits—compare options there for intimate stays."
+      },
+      {
+        "q": "Where is the best area to stay in Bangkok as a tourist?",
+        "a": "For couples touring, Silom & Sathorn offers central access to dining and bars, balancing romance with convenience over more remote spots."
+      },
+      {
+        "q": "Is it better to stay in Sukhumvit or Siam?",
+        "a": "While not our top picks, Sukhumvit edges Siam for couples with better nightlife access, but consider Riverside instead for superior romantic luxury."
+      },
+      {
+        "q": "Where do most foreigners stay in Bangkok?",
+        "a": "Foreign couples often choose Riverside (Charoen Krung & Sathorn Pier) for its iconic hotels and serene vibe, away from backpacker hubs."
+      },
+      {
+        "q": "What makes Riverside great for couples?",
+        "a": "Its storied luxury properties and Chao Phraya views create perfect special occasions—book early to secure balcony rooms."
+      }
+    ],
+    "metaTitle": "Where to Stay in Bangkok for Couples (2026)",
+    "metaDescription": "Discover top Bangkok areas for couples in 2026: Riverside offers luxury river romance, Silom upscale dining. Compare walkable, vibe-matched neighborhoods…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:02:09.074Z"
+}

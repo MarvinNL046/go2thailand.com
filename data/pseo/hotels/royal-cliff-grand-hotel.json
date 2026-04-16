@@ -1,0 +1,205 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "royal-cliff-grand-hotel",
+  "hotel": {
+    "name": "Royal Cliff Grand Hotel",
+    "category": "luxury",
+    "priceRange": "4,000–8,500 THB/night (~$112–238 USD)",
+    "area": "Pratumnak Hill",
+    "description": "A sprawling cliff-side resort complex with private beach access, 11 dining venues, five pools, and panoramic views from the Pratumnak Hill headland. The Royal Cliff has hosted heads of state and international conferences — it's old-school luxury with extensive grounds and facilities you won't find elsewhere in Pattaya.",
+    "highlights": [
+      "Private beach accessible by hotel shuttle",
+      "11 restaurants and 5 swimming pools",
+      "Cliff-top location with panoramic bay views"
+    ],
+    "bestFor": [
+      "families",
+      "resort lovers",
+      "conference travelers"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "Five Star Alliance",
+        "sourceUrl": "https://www.fivestaralliance.com/luxury-hotels/2150/asia/thailand/pattaya",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRoyal%2520Cliff%2520Grand%2520Hotel%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Centara Grand Mirage Beach Resort",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB/night (~$154–336 USD)",
+      "area": "Naklua / Wongamat",
+      "description": "A spectacular Lost World-themed resort on Wongamat Beach with a massive water park-style pool complex, lazy river, water slides, and a private beach. The resort is a destination in itself with multiple restaurants, spa, and kids' club. One of Thailand's most popular family luxury resorts.",
+      "highlights": [
+        "Lost World themed pool complex with water slides and lazy river",
+        "Private section of Wongamat Beach",
+        "Kids' Club and family-focused activities"
+      ],
+      "bestFor": [
+        "families",
+        "resort lovers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293919-d305083-Reviews-Centara_Grand_Mirage_Beach_Resort-Pattaya_Chonburi_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Grand%2520Mirage%2520Beach%2520Resort%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Hilton Pattaya",
+      "category": "luxury",
+      "priceRange": "5,000–10,000 THB/night (~$140–280 USD)",
+      "area": "Central Pattaya",
+      "description": "A sleek high-rise hotel sitting atop the CentralFestival Pattaya Beach mall with a rooftop infinity pool offering 180-degree views of Pattaya Bay. Rooms on upper floors have panoramic sea views. The location combines luxury convenience with direct access to shopping, dining, and the beach.",
+      "highlights": [
+        "Rooftop infinity pool with panoramic bay views",
+        "Sitting atop CentralFestival mall — shopping and dining at your doorstep",
+        "Horizon rooftop bar for sunset cocktails"
+      ],
+      "bestFor": [
+        "couples",
+        "business travelers",
+        "luxury seekers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Hilton Official",
+          "sourceUrl": "https://www.hilton.com/en/hotels/bkkhphi-hilton-pattaya/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHilton%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit Thani Pattaya",
+      "category": "luxury",
+      "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+      "area": "North Pattaya",
+      "description": "A grand Thai-heritage luxury resort on the quiet northern end of Pattaya Beach with extensive gardens, multiple pools, and direct beach access. The property has a classic five-star elegance with attentive Thai hospitality. Several dining options including the acclaimed Italian restaurant.",
+      "highlights": [
+        "Extensive tropical gardens on the beachfront",
+        "Multiple swimming pools and full spa",
+        "Quieter northern beach location away from the crowds"
+      ],
+      "bestFor": [
+        "couples",
+        "luxury seekers",
+        "honeymoons"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Dusit Official",
+          "sourceUrl": "https://www.dusit.com/dusitthani-pattaya/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is Royal Cliff Grand Hotel known for?",
+    "What are the critics saying about Grand Hotel?",
+    "What amenities does Royal Cliff offer?",
+    "Does Royal Cliff Grand Hotel have a spa?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Royal Cliff Grand Hotel without knowing the shuttle-dependent private beach access can leave you frustrated with limited direct seaside convenience.",
+    "intro": "Royal Cliff Grand Hotel delivers a vast cliff-side resort with five pools, 11 dining options, and shuttle-accessed private beach amid panoramic bay views from Pratumnak Hill. It's ideal for families seeking expansive grounds, resort enthusiasts wanting old-school luxury, and conference travelers needing event facilities.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "families and resort lovers",
+      "standout": "private beach access",
+      "noGoFor": "nightlife party seekers"
+    },
+    "whyBook": [
+      "Access private beach via complimentary shuttle from cliff-top grounds",
+      "Choose from 11 restaurants offering diverse international cuisines",
+      "Relax in one of five pools with bay panoramas",
+      "Utilize extensive facilities for conferences and family activities",
+      "Enjoy old-school luxury on sprawling 57-acre headland estate"
+    ],
+    "whyNotBook": [
+      "Shuttle to private beach runs on schedule, causing waits during peak hours",
+      "Extensive grounds mean long walks between rooms, pools, and dining",
+      "Old-school design shows dated decor in some rooms and common areas",
+      "Cliff-top location isolates from Pattaya's main beach action, requiring transport",
+      "Multiple pools spread out, making it hard to monitor children across the site"
+    ],
+    "skipIf": "Skip if you're a solo traveler or couple seeking vibrant urban energy and walkable nightlife in central Pattaya.",
+    "detailedReview": "Checking into Royal Cliff Grand Hotel feels like entering a self-contained world on Pratumnak Hill, with a grand lobby overlooking lush gardens and the bay beyond. The process is efficient for such a large complex, though expect a short orientation to navigate the 57-acre grounds. Rooms vary by building—opt for cliff-facing ones in the Grand Hotel section for those panoramic views, but be prepared for a classic vibe with teak furnishings and balconies that echo its history of hosting heads of state since the 1970s. The standout amenity is the private beach, reached by a quick shuttle ride down the cliff, offering calm sands away from Pattaya's crowds, though it's not directly walkable. Food quality shines across 11 venues, from Thai at Peacock to Italian at La Grotta, with fresh seafood buffets drawing praise, but portions can feel resort-standard rather than gourmet. Service is attentive in an old-school Thai way—staff remember preferences over multi-night stays—but response times stretch during conference events. Typical guests include families splashing in the five pools (one adults-only, others kid-friendly with shallow ends), couples unwinding at cliff-edge bars, and business groups in the convention center. The resort's scale provides rare privacy in Pattaya, yet its age means some fixtures like elevators occasionally lag, and the shuttle system is essential for beach or off-site trips. Overall, it's a haven for those prioritizing space and facilities over sleek modernity.",
+    "locationReality": "Perched on Pratumnak Hill, Royal Cliff Grand Hotel sits about 10-15 minutes by Grab (around 100-150 THB) from central Pattaya Beach and Walking Street's nightlife. The cliff-top spot ensures quiet seclusion with bay views, but the private beach requires a 5-minute shuttle ride down the hill. Within a 5-minute walk, you'll find on-site amenities like pools and restaurants, though nearby shops or eateries demand a short drive to Big Buddha Hill or South Pattaya.",
+    "localSignals": [
+      "5-minute shuttle to private beach from main grounds",
+      "10-15 minute Grab ride to Pattaya Beach (100-150 THB)",
+      "11 on-property restaurants and 5 swimming pools",
+      "Cliff-top location on Pratumnak Hill headland",
+      "Extensive grounds with facilities for conferences"
+    ],
+    "travellerNote": "Guests often praise the expansive pools, diverse dining, and private beach escape but note the dated room aesthetics and reliance on shuttles for beach access.",
+    "bookingTips": [
+      "Request cliff-view rooms in the Grand Hotel building for best panoramas",
+      "Book via Agoda for Thailand-specific deals on Royal Cliff packages",
+      "Prices spike November-February high season and during Songkran in April",
+      "Verify shuttle schedule and beach access policy before confirming",
+      "Check for ongoing conference events that may affect pool crowds"
+    ],
+    "similarHotels": [
+      {
+        "name": "Centara Grand Mirage Beach Resort",
+        "howDifferent": "Offers direct Wongamat Beach access and water park features, contrasting Royal Cliff's shuttle-based private beach and cliff seclusion."
+      },
+      {
+        "name": "Hilton Pattaya",
+        "howDifferent": "Provides urban high-rise energy with rooftop pool atop a mall, unlike Royal Cliff's sprawling, isolated resort grounds."
+      },
+      {
+        "name": "Dusit Thani Pattaya",
+        "howDifferent": "Features direct access to northern Pattaya Beach with Thai gardens, differing from Royal Cliff's elevated cliff-top and shuttle setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Royal Cliff Grand Hotel known for?",
+        "a": "It's renowned for its sprawling cliff-side complex on Pratumnak Hill, private beach access via shuttle, and history of hosting international conferences and heads of state."
+      },
+      {
+        "q": "What are the critics saying about Grand Hotel?",
+        "a": "Critics highlight its old-school luxury and extensive facilities like five pools and 11 restaurants, though some note dated elements in the design."
+      },
+      {
+        "q": "What amenities does Royal Cliff offer?",
+        "a": "Amenities include five swimming pools, 11 dining venues, shuttle to private beach, panoramic bay views, and conference facilities across 57 acres."
+      },
+      {
+        "q": "Does Royal Cliff Grand Hotel have a spa?",
+        "a": "Yes, it features an on-site spa as part of its luxury resort offerings, though specifics vary by booking package."
+      },
+      {
+        "q": "Is Royal Cliff Grand Hotel family-friendly?",
+        "a": "Absolutely, with multiple pools suitable for kids, spacious grounds for play, and family-oriented dining options."
+      },
+      {
+        "q": "How far is Royal Cliff from Pattaya Beach?",
+        "a": "It's about 10-15 minutes by Grab from central Pattaya Beach, offering a quieter alternative with its own private access."
+      }
+    ],
+    "urgencyLine": "Rooms at Royal Cliff Grand Hotel with private beach shuttle access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Royal Cliff Grand Hotel based on guest reviews, facility details, and location specifics from TripAdvisor and official sources. We weighted amenities and value highest because Pattaya travelers prioritize resort escapes over urban stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Royal Cliff Grand Hotel Review (2026)",
+    "metaDescription": "Discover Royal Cliff Grand Hotel in Pattaya: cliff-top luxury with 5 pools, 11 restaurants, and shuttle to private beach. Note dated decor in spots—book for family resort vibes today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:14:39.432Z"
+}

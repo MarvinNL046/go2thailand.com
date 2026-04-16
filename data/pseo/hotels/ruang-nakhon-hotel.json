@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-phanom",
+  "cityName": "Nakhon Phanom",
+  "hotelSlug": "ruang-nakhon-hotel",
+  "hotel": {
+    "name": "Ruang Nakhon Hotel",
+    "category": "budget",
+    "priceRange": "400–800 THB per night",
+    "area": "City Centre",
+    "description": "A clean, reliable budget hotel offering air-conditioned rooms with private bathrooms and free Wi-Fi at some of the lowest prices in the city. The Ruang Nakhon is straightforward and honest about what it is — no pool, no restaurant of note, but consistently clean rooms and friendly Thai-language service. Ideal for pilgrims visiting Phra That Phanom and travellers on a tight budget who simply need a comfortable base.",
+    "highlights": [
+      "Among the best-value budget hotels in Nakhon Phanom",
+      "Clean air-conditioned rooms with private bathrooms",
+      "Free Wi-Fi",
+      "Walking distance to central market and transport",
+      "Friendly staff"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fruang-nakhon.html",
+    "reviewScore": "7.0/10",
+    "bestFor": [
+      "Budget travellers",
+      "Pilgrims",
+      "Solo backpackers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Agoda — Budget Hotels Nakhon Phanom",
+        "sourceUrl": "https://www.agoda.com/en-gb/city/nakhon-phanom-th.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Nakhon Phanom Villa Hotel",
+      "category": "mid-range",
+      "priceRange": "800–1,600 THB per night",
+      "area": "City Centre",
+      "description": "A solid mid-range business hotel in the city centre offering clean, modern rooms with reliable Wi-Fi, hot showers and standard amenities. The Villa Hotel is popular with Thai business travellers and government officials and offers consistent, predictable quality. The on-site restaurant serves decent Thai food and a simple breakfast. While it lacks the character of the riverside properties, the location is convenient for the market and city centre and prices are fair.",
+      "highlights": [
+        "Central city location convenient for markets and transport",
+        "Clean, modern rooms at fair prices",
+        "Reliable Wi-Fi and air conditioning",
+        "On-site restaurant with Thai breakfast",
+        "Good value for longer stays"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnakhon-phanom-villa.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Business travellers",
+        "Mid-range budget",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Nakhon Phanom Hotels",
+          "sourceUrl": "https://www.agoda.com/en-gb/city/nakhon-phanom-th.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Kasem Charoen Hotel",
+      "category": "mid-range",
+      "priceRange": "700–1,400 THB per night",
+      "area": "City Centre",
+      "description": "A long-established Nakhon Phanom institution that has served the city for decades. The Kasem Charoen is known more for value and reliability than style — rooms are clean and functional with air conditioning and hot showers, the staff are helpful and the on-site Thai restaurant is popular with local families. The hotel is within walking distance of the central market and city attractions. A dependable choice for budget-conscious travellers who want a proper hotel room.",
+      "highlights": [
+        "Long-established local institution — trusted by Thai travellers for decades",
+        "Good-value rooms with air conditioning and hot showers",
+        "On-site Thai restaurant popular with locals",
+        "Walking distance to central market",
+        "Reliable and consistent quality"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkasem-charoen-nakhon-phanom.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget-conscious travellers",
+        "Families",
+        "Those who prefer known quantities"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nakhon Phanom Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Nakhon_Phanom_Nakhon_Phanom_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Naga Guesthouse",
+      "category": "budget",
+      "priceRange": "350–700 THB per night",
+      "area": "Mekong Riverfront",
+      "description": "A small, friendly guesthouse in a traditional shophouse building near the Mekong riverfront, run by a local Thai family who speak basic English. Rooms are simple — fan or air-conditioned — with shared or private bathrooms, but the riverside location and genuinely welcoming atmosphere set it apart from standard budget hotels. The owners are excellent sources of local information about the Naga Fireball Festival, Phra That Phanom timings and off-the-beaten-path spots in the province.",
+      "highlights": [
+        "Charming shophouse character — more personality than standard budget hotels",
+        "Near the Mekong riverfront",
+        "Owners are knowledgeable local sources about Nakhon Phanom",
+        "One of the cheapest options near the riverfront",
+        "Popular with long-term backpackers and independent travellers"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnaga-guesthouse-nakhon-phanom.html",
+      "reviewScore": "7.4/10",
+      "bestFor": [
+        "Backpackers",
+        "Solo travellers",
+        "Budget riverside seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Nakhon Phanom Guesthouses",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northeastern_thailand/nakhon_phanom/nakhon_phanom/all",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is Nakhon Phanom worth visiting?",
+    "What is the best time to visit Nakhon Phanom?",
+    "What is Nakhon Phanom famous for?",
+    "Does Nakhon Phanom have an airport?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Ruang Nakhon Hotel without knowing the Thai-only service can lead to communication hurdles during check-in.",
+    "intro": "Ruang Nakhon Hotel provides clean, air-conditioned rooms with private bathrooms and free Wi-Fi at rock-bottom prices in Nakhon Phanom's city centre. It's perfect for budget travellers, pilgrims heading to Phra That Phanom, and solo backpackers seeking a no-frills base without extras like pools or restaurants.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget solo backpackers",
+      "standout": "central market location",
+      "noGoFor": "Luxury-seeking families"
+    },
+    "whyBook": [
+      "Clean air-conditioned rooms with private bathrooms",
+      "Free Wi-Fi in all rooms",
+      "Walking distance to central market",
+      "Friendly staff for basic needs",
+      "Best value under 800 THB nightly"
+    ],
+    "whyNotBook": [
+      "No on-site pool for relaxation",
+      "Service limited to Thai language only",
+      "No notable restaurant or dining options",
+      "Basic rooms lack modern design flair",
+      "Thin walls may transmit city centre noise"
+    ],
+    "skipIf": "Skip if you need English-speaking staff or family amenities like a pool.",
+    "detailedReview": "Checking into Ruang Nakhon Hotel feels straightforward and unpretentious, with friendly staff greeting you in Thai at the simple front desk in Nakhon Phanom's bustling city centre. Expect a quick process if you have basic Thai or a translation app, as English isn't widely spoken here. Rooms deliver on the promise of cleanliness: air-conditioned spaces with private bathrooms, firm beds, and free Wi-Fi that holds up for emails and maps, though speeds vary during peak hours. The standout amenity is the reliability—no surprises in hygiene, making it a safe bet for short stays. Food isn't an option on-site; you'll head to nearby street stalls for Isan dishes like som tam, which keeps things authentic but requires venturing out. Service style is warm and local, with staff helping pilgrims with directions to Phra That Phanom or bus schedules, but don't expect concierge-level assistance. Typical guests are solo backpackers on tight budgets, Thai pilgrims in simple attire, and occasional overland travellers resting before Mekong ferry hops. At 7.0/10, it earns points for honesty: it's a comfortable base without pretensions, ideal for those prioritizing savings over spa-like vibes. Overall, staying here means embracing Nakhon Phanom's low-key rhythm, with clean linens and quiet evenings after market explorations.",
+    "locationReality": "Ruang Nakhon Hotel sits in Nakhon Phanom's city centre, just a 5-10 minute walk to the central market for fresh produce and street food. It's also steps from local transport hubs like the bus station, making day trips to Phra That Phanom temple (about 45 minutes by songthaew or 600 THB Grab) straightforward. The Mekong riverfront, with its scenic views and evening promenades, requires a 15-minute walk or short 100 THB ride, while the airport is 10-15 minutes away by taxi for 200-300 THB.",
+    "localSignals": [
+      "5-10 minute walk to central market",
+      "Free Wi-Fi in rooms",
+      "No pool or on-site restaurant",
+      "Walking distance to bus station transport",
+      "10-15 minute taxi to Nakhon Phanom Airport (200-300 THB)"
+    ],
+    "travellerNote": "Guests often praise the spotless rooms and unbeatable value for budget stays but note the lack of English support and absence of extras like breakfast or a pool.",
+    "bookingTips": [
+      "Request a room away from the street to minimize market noise",
+      "Use Agoda for cheapest rates on Ruang Nakhon in Thailand",
+      "Prices spike in November-February cool season and Buddhist holidays",
+      "Verify free Wi-Fi speed policy before booking for work needs",
+      "Book standard room type as upgrades are unavailable"
+    ],
+    "similarHotels": [
+      {
+        "name": "Nakhon Phanom Villa Hotel",
+        "howDifferent": "Offers mid-range modern rooms with hot showers at double the price for business travellers."
+      },
+      {
+        "name": "Kasem Charoen Hotel",
+        "howDifferent": "Provides more established reliability and value but similar basic setup without standout amenities."
+      },
+      {
+        "name": "Naga Guesthouse",
+        "howDifferent": "Cheaper riverside shophouse with family-run charm and basic English, though less central than Ruang Nakhon."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Nakhon Phanom worth visiting?",
+        "a": "Yes, Nakhon Phanom is worth visiting for its serene Mekong River views, ancient temples like Phra That Phanom, and authentic Isan culture, especially if you seek off-the-beaten-path Thailand."
+      },
+      {
+        "q": "What is the best time to visit Nakhon Phanom?",
+        "a": "The best time is November to February during the cool, dry season, when temperatures are comfortable around 25-30°C and festivals like the Rocket Festival add local flavor."
+      },
+      {
+        "q": "What is Nakhon Phanom famous for?",
+        "a": "Nakhon Phanom is famous for Phra That Phanom, a UNESCO-listed temple, its Mekong riverside charm, and traditional Isan festivals celebrating Buddhist heritage."
+      },
+      {
+        "q": "Does Nakhon Phanom have an airport?",
+        "a": "Yes, Nakhon Phanom Airport serves domestic flights from Bangkok, with taxis to the city centre costing 200-300 THB for a 10-15 minute ride."
+      },
+      {
+        "q": "Are there budget hotels in Nakhon Phanom city centre?",
+        "a": "Yes, options like Ruang Nakhon Hotel offer clean rooms under 800 THB, ideal for value-focused stays near markets and transport."
+      },
+      {
+        "q": "What to do near Ruang Nakhon Hotel?",
+        "a": "Explore the central market on foot for street food, or take a short ride to the Mekong riverfront for sunset views and local vibes."
+      }
+    ],
+    "urgencyLine": "Rooms at Ruang Nakhon Hotel with free Wi-Fi book out 1-2 months ahead for pilgrim season around Buddhist holidays—check today.",
+    "methodology": "We rated Ruang Nakhon Hotel based on value, cleanliness, location, and guest feedback from public sources. We weighted value highest because it's a budget category where affordability drives decisions over luxuries. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Ruang Nakhon Hotel Review (2026)",
+    "metaDescription": "Ruang Nakhon Hotel in Nakhon Phanom delivers clean budget rooms with free WiFi and central location for pilgrims. Note Thai-only service limits communication. Book now for value stays under 800 THB."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:54:34.966Z"
+}

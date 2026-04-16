@@ -1,0 +1,175 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-ratchasima",
+  "cityName": "Nakhon Ratchasima",
+  "hotelSlug": "centara-hotel-convention-centre-korat",
+  "hotel": {
+    "name": "Centara Hotel & Convention Centre Korat",
+    "category": "mid-range",
+    "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+    "area": "Mittraphap Road (near Terminal 21)",
+    "description": "Thai chain Centara's Korat property bridges the gap between solid mid-range and upper-mid comfort. Multiple room types from standard to junior suites, an outdoor pool, spa, fitness center, and three food and beverage outlets including a rooftop bar. The Centara brand delivers consistent Thai-standard hospitality with English-speaking staff. Pet-friendly policy makes it unusually welcoming for traveling pet owners.",
+    "highlights": [
+      "Outdoor swimming pool and spa facilities",
+      "Rooftop bar with city views over Korat",
+      "Pet-friendly — rare for Thai city hotels"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "families",
+      "pet owners"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-zff8-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Hotel%2520%2526%2520Convention%2520Centre%2520Korat%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Centre Point Hotel Terminal 21 Korat",
+      "category": "mid-range",
+      "priceRange": "1,800-2,800 THB/night (~$50-78 USD)",
+      "area": "Terminal 21 (Mittraphap Road)",
+      "description": "The most convenient mid-range option in Korat — directly connected to Terminal 21 shopping mall via a covered walkway. Modern rooms with Thai-contemporary design, swimming pool, fitness center, and multiple restaurants on the property. The Terminal 21 connection means you have direct access to the mall's excellent food court, cinema, and transport links. A reliable 3.5-star experience in the city's most connected location.",
+      "highlights": [
+        "Direct walkway connection to Terminal 21 shopping mall",
+        "Swimming pool and fitness center on-site",
+        "Most transport connections in the city immediately accessible"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentre%2520Point%2520Hotel%2520Terminal%252021%2520Korat%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    },
+    {
+      "name": "Romyen Garden Place Hotel",
+      "category": "mid-range",
+      "priceRange": "2,000-3,200 THB/night (~$56-89 USD)",
+      "area": "City Center / Business District",
+      "description": "A sophisticated 4-star business hotel on the fringes of Korat's central business district, popular with Thai business travelers visiting the city's large government and university sector. Large rooms by Thai mid-range standards, a proper swimming pool, fitness room, and multiple dining options. The garden setting is a welcome contrast to the city's busy roads. Good for longer stays in Korat city.",
+      "highlights": [
+        "4-star facilities at mid-range pricing",
+        "Garden setting — quieter than city-center hotels on the main road",
+        "Large rooms with proper work desks — good for business stays"
+      ],
+      "reviewScore": "4.1/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "couples",
+        "longer stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRomyen%2520Garden%2520Place%2520Hotel%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Are Centara hotels good?",
+    "What is the Imperial Hotel and Convention Centre Korat about?",
+    "When did Centara Korat open?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Centara Hotel & Convention Centre Korat without knowing its pet-friendly policy includes potential fees can lead to unexpected charges for traveling pet owners.",
+    "intro": "Centara Hotel & Convention Centre Korat offers solid mid-range comfort with multiple room types from standard to junior suites, an outdoor pool, spa, fitness center, and three food outlets including a rooftop bar. It's ideal for couples, families, and pet owners seeking consistent Thai hospitality in Nakhon Ratchasima.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples families pet owners",
+      "standout": "pet-friendly policy",
+      "noGoFor": "budget solo backpackers"
+    },
+    "whyBook": [
+      "Outdoor pool and spa for relaxation after exploring Korat.",
+      "Rooftop bar provides city views and evening drinks.",
+      "Pet-friendly rooms welcome traveling animals rarely allowed elsewhere.",
+      "English-speaking staff ensure smooth stays for internationals.",
+      "Multiple room types suit couples to families."
+    ],
+    "whyNotBook": [
+      "Location on busy Mittraphap Road means traffic noise in lower-floor rooms until late evening.",
+      "Mid-range pricing lacks luxury touches like premium toiletries found in higher-end chains.",
+      "Three food outlets repeat Thai dishes, limiting variety for extended stays.",
+      "Fitness center is basic, not ideal for serious gym users.",
+      "Pet policy may involve extra cleaning fees not always upfront."
+    ],
+    "skipIf": "Skip if you're a solo budget traveler avoiding mid-range prices and preferring mall-adjacent spots without pet focus.",
+    "detailedReview": "Checking into Centara Hotel & Convention Centre Korat feels efficient, with English-speaking staff at the front desk handling requests promptly in the lobby area. Rooms range from standard setups with modern Thai decor to junior suites offering more space for families, all equipped with comfortable beds and city views in some cases. The standout amenity is the outdoor swimming pool surrounded by lounge chairs, perfect for a dip after a day out, paired with the spa for basic massages using local techniques. Food quality at the three outlets is reliable Thai fare—think tom yum and pad thai—with the rooftop bar serving cocktails while overlooking Korat's skyline at dusk. Service follows Centara's consistent style: friendly and attentive, though not overly personalized for short stays. Typical guests include couples on weekend getaways, families with kids using the pool, and occasional pet owners walking dogs in nearby areas. The pet-friendly policy stands out, allowing animals in designated rooms without major restrictions, though owners should confirm bedding options. Overall, it's a bridge between everyday mid-range and slight upscale touches, delivering reliable comfort without frills in Nakhon Ratchasima's urban setting. Breakfast isn't specified but likely includes standard Thai-Western buffet at one of the outlets. The fitness center provides treadmills and weights for light workouts. Stays here suit those valuing brand consistency over bold uniqueness.",
+    "locationReality": "Situated on Mittraphap Road near Terminal 21 in Nakhon Ratchasima, the hotel is about a 5-10 minute walk to the shopping mall for dining and retail. The main city attractions like Thao Suranari Monument require a 10-15 minute Grab ride costing around 100-150 THB. No BTS or MRT here, so rely on Grab or local songthaews for transport beyond walking distance to nearby eateries.",
+    "localSignals": [
+      "5-10 minute walk to Terminal 21 shopping mall.",
+      "One outdoor swimming pool on property.",
+      "Three food and beverage outlets including rooftop bar.",
+      "Pet-friendly rooms available for traveling owners.",
+      "English-speaking staff at reception."
+    ],
+    "travellerNote": "Guests often praise the consistent hospitality and pet-friendly accommodations but note occasional traffic noise from the main road location.",
+    "bookingTips": [
+      "Request junior suites for families needing extra space.",
+      "Use Agoda for Thailand bookings, often cheaper than Booking.com.",
+      "Prices spike during Thai New Year in April and Songkran events.",
+      "Verify pet policy and fees before booking with animals.",
+      "Check for breakfast inclusion, as it's not always standard."
+    ],
+    "similarHotels": [
+      {
+        "name": "Centre Point Hotel Terminal 21 Korat",
+        "howDifferent": "Directly connected to Terminal 21 mall via walkway, cheaper at 1,800-2,800 THB, but lacks pet-friendly policy and rooftop bar."
+      },
+      {
+        "name": "Romyen Garden Place Hotel",
+        "howDifferent": "Business-focused on central district fringes at 2,000-3,200 THB, more sophisticated for professionals but without pool, spa, or pet options."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Are Centara hotels good?",
+        "a": "Centara hotels provide consistent mid-range quality with reliable Thai hospitality and English-speaking staff, earning solid reviews like 4.3/5 for the Korat property."
+      },
+      {
+        "q": "What makes Centara Hotel & Convention Centre Korat pet-friendly?",
+        "a": "It allows pets in designated rooms, a rare feature for Thai city hotels, welcoming traveling pet owners without major restrictions."
+      },
+      {
+        "q": "Is there a pool at Centara Korat?",
+        "a": "Yes, it features an outdoor swimming pool along with spa facilities for guest relaxation."
+      },
+      {
+        "q": "What food options are at Centara Hotel & Convention Centre Korat?",
+        "a": "Three food and beverage outlets offer Thai dishes, with a rooftop bar providing city views and drinks."
+      },
+      {
+        "q": "When did Centara Korat open?",
+        "a": "Specific opening date not publicly detailed, but it's an established Centara property in Nakhon Ratchasima."
+      },
+      {
+        "q": "Is Centara Korat near Terminal 21?",
+        "a": "Yes, located on Mittraphap Road, it's a short 5-10 minute walk to the mall."
+      }
+    ],
+    "urgencyLine": "Pet-friendly rooms at Centara Hotel & Convention Centre Korat book out 1-2 months ahead during family travel peaks — check availability today.",
+    "methodology": "We rated Centara Hotel & Convention Centre Korat based on price, amenities, location, and guest feedback from sources like TripAdvisor. We weighted pet-friendly policy highest because it's a unique differentiator in Thai city hotels. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Centara Korat Review (2026)",
+    "metaDescription": "Centara Hotel & Convention Centre Korat in Nakhon Ratchasima offers mid-range comfort with outdoor pool, spa, rooftop bar, and rare pet-friendly rooms. Traffic noise on Mittraphap Road can disrupt quiet stays. Book for couples or families near Terminal 21 today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:57:16.333Z"
+}

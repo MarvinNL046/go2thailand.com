@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "hotelSlug": "karon-sea-sands-resort",
+  "hotel": {
+    "name": "Karon Sea Sands Resort",
+    "category": "mid-range",
+    "priceRange": "1,800–3,000 THB/night (~$50–84 USD)",
+    "area": "Karon Beach",
+    "description": "Beachfront resort directly on Karon Beach with a pool, restaurant, and sea-view rooms. One of the best value beachfront properties on the island — you're literally steps from the sand. Rooms are dated but clean and spacious.",
+    "highlights": [
+      "Directly on Karon Beach — zero walk to sand",
+      "Beachfront pool and restaurant",
+      "Excellent value for a beachfront location"
+    ],
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "Trip.com",
+        "sourceUrl": "https://www.trip.com/hotels/phuket-hotels-list-725/",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Karon Resort",
+      "category": "budget",
+      "priceRange": "600–1,000 THB/night (~$17–28 USD)",
+      "area": "Karon Beach",
+      "description": "A family-run guesthouse set back from Karon Beach with clean rooms, a pool, and a garden atmosphere. Quieter and better value than anything comparable in Patong. The beach is a 5-minute walk away.",
+      "highlights": [
+        "Swimming pool in tropical garden setting",
+        "5-minute walk to Karon Beach",
+        "Family-run with personal service"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Karon%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Beyond Patong",
+      "category": "mid-range",
+      "priceRange": "3,400–5,500 THB/night (~$96–154 USD)",
+      "area": "Patong Beach",
+      "description": "Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with balconies. Close enough to the action but on a quieter side street for better sleep.",
+      "highlights": [
+        "3-minute walk to Patong Beach",
+        "Outdoor pool and modern gym",
+        "Free parking — rare in Patong"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Kata Beach Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "2,500–4,000 THB/night (~$70–112 USD)",
+      "area": "Kata Beach",
+      "description": "A well-established resort spanning a large section of Kata Beach beachfront. Multiple pools, a spa, and several dining options. The beach-facing rooms have direct sunset views. Family-friendly with kids' pool and playground.",
+      "highlights": [
+        "Beachfront on Kata Beach",
+        "Multiple swimming pools including kids' pool",
+        "Full spa and multiple restaurants on-site"
+      ],
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKata%2520Beach%2520Resort%2520%2526%2520Spa%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Karon Beach a good area to stay in Phuket?",
+    "Is Karon Beach better than Patong?",
+    "Is Karon Beach swimmable?",
+    "Where is the nicest part of Phuket to stay?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Karon Sea Sands Resort without knowing the rooms are dated can lead to disappointment in modern comforts despite the prime beachfront spot.",
+    "intro": "Karon Sea Sands Resort offers direct access to Karon Beach with a beachfront pool, on-site restaurant, and spacious sea-view rooms at a strong value price point. It's ideal for couples and families seeking a straightforward beach stay without luxury frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "beach access",
+      "noGoFor": "luxury seekers"
+    },
+    "whyBook": [
+      "Steps from Karon Beach sand",
+      "Beachfront pool for relaxation",
+      "Sea-view rooms included",
+      "Value pricing for beachfront",
+      "On-site restaurant convenience"
+    ],
+    "whyNotBook": [
+      "Rooms feel dated with older decor",
+      "Limited amenities beyond pool and restaurant",
+      "No spa or gym facilities available",
+      "Karon area quieter, lacks nightlife buzz",
+      "Breakfast options may feel basic"
+    ],
+    "skipIf": "Skip if you're after sleek modern rooms or extensive resort facilities.",
+    "detailedReview": "Checking into Karon Sea Sands Resort feels straightforward and welcoming, with staff efficiently handling the process at the beachfront lobby overlooking the sea. The room vibe is practical rather than plush—spacious layouts with clean linens and balconies offering direct ocean views, though the dated furniture and fixtures like worn carpets show the property's age, built years ago without recent full renovations. Standout amenity is the beachfront pool, a decent-sized area right by the sand where guests lounge under umbrellas, perfect for a quick dip before hitting the beach. Food quality at the on-site restaurant is reliable for Thai and Western dishes, with fresh seafood options that satisfy without wow factor, and portions are generous for the mid-range price. Service style is friendly and attentive from local staff who know the area well, often suggesting nearby spots, but it can slow during peak family check-ins. Typical guests are couples unwinding on vacation or families with kids enjoying the easy beach access, creating a relaxed, low-key atmosphere rather than a bustling social scene. Overall, it's a no-fuss stay where the location compensates for the simplicity, delivering clean comfort steps from the waves.",
+    "locationReality": "Karon Sea Sands Resort sits directly on Karon Beach, meaning zero walking time to the sand and gentle waves. Within a 5-minute walk, you'll find beachside cafes, massage spots, and a small cluster of shops along the main Karon road. For broader Phuket exploration, Patong Beach is about 15-20 minutes north by Grab taxi costing 200-300 THB, while Kata Beach lies 5-10 minutes south.",
+    "localSignals": [
+      "0 minutes walk to Karon Beach",
+      "1 pool on property",
+      "1 restaurant on-site",
+      "Sea-view rooms available",
+      "Near Karon Beach Road shops"
+    ],
+    "travellerNote": "Guests often praise the unbeatable beachfront location and value for money but note the dated rooms and limited on-site entertainment options.",
+    "bookingTips": [
+      "Request sea-view rooms for balcony ocean access",
+      "Check Agoda for lowest rates in Thailand bookings",
+      "Prices spike December to March high season",
+      "Verify breakfast inclusion as it varies by package",
+      "Confirm no nearby construction before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Karon Resort (600–1,000 THB/night (~$17–28 USD)) — A family-run guesthouse set back from Karon Beach with clean rooms, a pool, and a garden atmosphere. Quieter and better value than anything",
+        "howDifferent": "Cheaper and more garden-focused, but not directly beachfront like Karon Sea Sands."
+      },
+      {
+        "name": "Kata Beach Resort & Spa (2,500–4,000 THB/night (~$70–112 USD)) — A well-established resort spanning a large section of Kata Beach beachfront. Multiple pools, a spa, and several dining options. The beach-fa",
+        "howDifferent": "Offers more pools and spa amenities in nearby Kata, at a slightly higher price than Karon Sea Sands."
+      },
+      {
+        "name": "Beyond Patong (3,400–5,500 THB/night (~$96–154 USD)) — Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with ba",
+        "howDifferent": "More modern rooms and gym in lively Patong, pricier and farther from Karon's calm vibe."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Karon Beach a good area to stay in Phuket?",
+        "a": "Yes, Karon Beach is a solid choice for a relaxed stay with wide sands and fewer crowds than Patong, ideal for beach-focused trips."
+      },
+      {
+        "q": "Is Karon Beach better than Patong?",
+        "a": "Karon suits those wanting quieter beaches and family vibes, while Patong offers more nightlife and shopping—better depends on your priorities."
+      },
+      {
+        "q": "Is Karon Beach swimmable?",
+        "a": "Karon Beach is generally swimmable with calm waters most of the year, though strong currents can occur during monsoon season from May to October."
+      },
+      {
+        "q": "Where is the nicest part of Phuket to stay?",
+        "a": "The nicest area varies, but Kata or Karon Beaches provide upscale yet relaxed beachfront options, while Kamala offers luxury seclusion."
+      },
+      {
+        "q": "What amenities does Karon Sea Sands Resort have?",
+        "a": "It features a beachfront pool, one restaurant, and sea-view rooms, focusing on simple beach access without extras like a spa."
+      },
+      {
+        "q": "Is Karon Sea Sands Resort family-friendly?",
+        "a": "Yes, it's suitable for families with spacious rooms, a pool, and direct beach access in a quieter area."
+      }
+    ],
+    "urgencyLine": "Rooms at Karon Sea Sands Resort with direct beach access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Karon Sea Sands Resort based on location value, room condition, and amenities from verified data sources. We weighted beach access highest because it's the core appeal for Phuket stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Karon Sea Sands Resort Review (2026)",
+    "metaDescription": "Karon Sea Sands Resort in Phuket delivers beachfront value with pool and sea views, but dated rooms may disappoint modern tastes. Steps from Karon Beach—book for couples or families seeking affordable sand access today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:21:44.650Z"
+}

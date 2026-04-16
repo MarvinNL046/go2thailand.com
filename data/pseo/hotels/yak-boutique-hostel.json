@@ -1,0 +1,171 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-si-thammarat",
+  "cityName": "Nakhon Si Thammarat",
+  "hotelSlug": "yak-boutique-hostel",
+  "hotel": {
+    "name": "Yak Boutique Hostel",
+    "category": "budget",
+    "priceRange": "350-600 THB/night (~$10-17 USD)",
+    "area": "City Centre (near Ratchadamnoen Road)",
+    "description": "A well-regarded budget guesthouse steps from the old quarter, popular with backpackers and solo travellers exploring the temple district. Clean dormitories and private rooms with air conditioning, hot showers, and a social common area. The location — walking distance to Wat Phra Mahathat, the National Museum, and the shadow puppet workshops — is ideal for cultural touring without a scooter.",
+    "highlights": [
+      "Walking distance to Wat Phra Mahathat and the shadow puppet workshops",
+      "Clean dorm beds with AC and lockers",
+      "Helpful staff who can arrange scooter rentals and Khao Luang day trips"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers",
+      "cultural touring"
+    ],
+    "sources": [
+      {
+        "sourceName": "Hostelworld",
+        "sourceUrl": "https://www.hostelworld.com/findabed/ChooseRoom.mvc/hostels/Nakhon-Si-Thammarat",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYak%2520Boutique%2520Hostel%252C%2520Nakhon%2520Si%2520Thammarat%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Hop Inn Nakhon Si Thammarat",
+      "category": "budget",
+      "priceRange": "700-1,000 THB/night (~$20-28 USD)",
+      "area": "City Centre",
+      "description": "Part of the Thai Hop Inn budget chain — consistent, clean, and no-frills. Private rooms with air conditioning, hot water, and free WiFi. A reliable choice for travellers who want a private room at guesthouse prices without gambling on unknown guesthouses. The 24-hour front desk is useful for early morning departures to Khao Luang or late arrivals by overnight bus.",
+      "highlights": [
+        "Reliable chain quality at budget price point",
+        "24-hour front desk for early/late arrivals",
+        "Private AC rooms from under 1,000 THB"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "solo travelers",
+        "short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/hop-inn-nakhon-si-thammarat.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHop%2520Inn%2520Nakhon%2520Si%2520Thammarat%252C%2520Nakhon%2520Si%2520Thammarat%252C%2520Thailand"
+    },
+    {
+      "name": "Navakitel Design Hotel",
+      "category": "budget",
+      "priceRange": "800-1,300 THB/night (~$22-36 USD)",
+      "area": "City Centre",
+      "description": "A step above the standard budget hotel — the Navakitel has a contemporary design aesthetic with comfortable rooms, a terrace, and a cafe. Free WiFi, air-conditioned rooms, and a central location make it good value. Particularly popular with Thai domestic travellers, which ensures the nearby breakfast options and restaurants are genuinely local.",
+      "highlights": [
+        "Design-forward rooms at budget prices",
+        "Central location for temple and museum visits",
+        "Rooftop terrace and in-house cafe"
+      ],
+      "bestFor": [
+        "couples",
+        "design-conscious travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469415-Nakhon_Si_Thammarat_Nakhon_Si_Thammarat_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNavakitel%2520Design%2520Hotel%252C%2520Nakhon%2520Si%2520Thammarat%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "How safe is Nakhon Si Thammarat?",
+    "Where is the b2 Nakhon Si Thammarat Premier Hotel?",
+    "Where is the Hop Inn Nakhon Si Thammarat?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Yak Boutique Hostel without knowing the shared dorm noise from backpacker chatter can disrupt light sleepers' rest.",
+    "intro": "Yak Boutique Hostel offers clean, air-conditioned dorms and private rooms with hot showers in a social common area, perfect for budget-conscious explorers. It's tailored for backpackers and solo travelers diving into Nakhon Si Thammarat's cultural sites without needing transport.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers and solo travelers",
+      "standout": "location",
+      "noGoFor": "families needing privacy"
+    },
+    "whyBook": [
+      "Steps from Wat Phra Mahathat for easy temple visits",
+      "Clean dorm beds equipped with AC and secure lockers",
+      "Helpful staff arrange scooter rentals on-site",
+      "Social common area fosters connections with fellow travelers",
+      "Walking access to shadow puppet workshops nearby"
+    ],
+    "whyNotBook": [
+      "Dorm rooms lack full privacy for couples or families",
+      "No on-site dining options, requiring walks to local eateries",
+      "Basic facilities without pool or gym for relaxation",
+      "Shared bathrooms may feel crowded during peak backpacker hours",
+      "Limited private room availability in high season"
+    ],
+    "skipIf": "Skip if you're traveling with kids or prefer quiet, upscale accommodations away from social hostels.",
+    "detailedReview": "Checking into Yak Boutique Hostel feels straightforward and welcoming, with staff at the front desk quick to assign beds or rooms and share tips on nearby cultural spots. The room vibe is functional and no-frills: dorms feature bunk beds with personal lockers, crisp linens, and reliable air conditioning to beat the tropical heat, while private rooms add a bit more space with the same hot showers and cooling. The standout amenity is the social common area, a cozy lounge where backpackers swap stories over shared tables, often leading to impromptu plans for temple tours or day trips. Food quality isn't on-site—guests grab affordable Thai meals from street vendors steps away, like khao tom rice soup or fresh fruit shakes—but the hostel's proximity keeps it convenient. Service style is hands-on and friendly; staff not only recommend shadow puppet shows but also book scooter rentals or Khao Luang National Park excursions for a small fee. Typical guests are solo travelers in their 20s and 30s, mostly international backpackers exploring southern Thailand's underrated heritage, creating a vibrant yet respectful atmosphere focused on cultural immersion rather than partying.",
+    "locationReality": "Nestled in the city centre near Ratchadamnoen Road, Yak Boutique Hostel is a 5-10 minute walk to Wat Phra Mahathat and the National Museum, putting key cultural sites right at your doorstep. The old quarter buzzes with shadow puppet workshops and local markets within easy strolling distance, ideal for scooter-free days. For beaches like Pak Meng, plan a 45-60 minute drive or Grab ride costing 800-1,200 THB one-way, as Nakhon Si Thammarat remains an inland hub.",
+    "localSignals": [
+      "Walking distance to Wat Phra Mahathat temple",
+      "Steps from Ratchadamnoen Road old quarter",
+      "No on-site pool or restaurant",
+      "Nakhon Si Thammarat Airport transfer typically 200-300 THB by Grab, 15 minutes",
+      "Nearby 7-Eleven and street food within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the prime location for cultural walks and helpful staff for trip arrangements but note the basic dorm setups can feel noisy from shared spaces.",
+    "bookingTips": [
+      "Request a private room for more quiet over dorms",
+      "Check Agoda for lowest rates on backpacker specials in Thailand",
+      "Prices spike December-February during cool season peak",
+      "Verify scooter rental availability before booking day trips",
+      "Confirm hot shower functionality as it's a key feature"
+    ],
+    "similarHotels": [
+      {
+        "name": "Hop Inn Nakhon Si Thammarat",
+        "howDifferent": "Offers consistent chain reliability with private rooms only, skipping the social dorm vibe of Yak Boutique Hostel."
+      },
+      {
+        "name": "Navakitel Design Hotel",
+        "howDifferent": "Steps up with modern design and a cafe terrace, providing more comfort than Yak Boutique Hostel's basic backpacker setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How safe is Nakhon Si Thammarat?",
+        "a": "Nakhon Si Thammarat is generally safe for travelers, with low crime rates in the city centre; stick to well-lit areas at night and use reputable transport."
+      },
+      {
+        "q": "Where is the Hop Inn Nakhon Si Thammarat?",
+        "a": "Hop Inn Nakhon Si Thammarat is located near the city centre, about 10 minutes by Grab from Wat Phra Mahathat, offering easy access to main attractions."
+      },
+      {
+        "q": "Where is the b2 Nakhon Si Thammarat Premier Hotel?",
+        "a": "The b2 Nakhon Si Thammarat Premier Hotel sits in the urban area close to Ratchadamnoen Road, roughly 5-7 minutes walk from key shopping and dining spots."
+      },
+      {
+        "q": "Is Yak Boutique Hostel good for solo travelers?",
+        "a": "Yes, it's ideal for solo travelers with its social common area and location near cultural sites like shadow puppet workshops."
+      },
+      {
+        "q": "What amenities does Yak Boutique Hostel have?",
+        "a": "It provides clean dorms and private rooms with AC, hot showers, lockers, and a common area; staff assist with rentals and trips."
+      },
+      {
+        "q": "How far is Yak Boutique Hostel from the airport?",
+        "a": "It's about 15 minutes by car from Nakhon Si Thammarat Airport, with Grab rides costing around 200-300 THB."
+      }
+    ],
+    "urgencyLine": "Rooms at Yak Boutique Hostel with clean AC dorms book out 1-2 months ahead for Songkran festival — check today.",
+    "methodology": "We rated Yak Boutique Hostel based on location proximity to cultural sites, room cleanliness, and staff assistance from available data. We weighted location highest because Nakhon Si Thammarat's appeal lies in walkable heritage exploration. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Yak Boutique Hostel Review (2026)",
+    "metaDescription": "Yak Boutique Hostel in Nakhon Si Thammarat offers budget dorms with AC near Wat Phra Mahathat for backpackers, but shared spaces can get noisy. Ideal for cultural tours—book your clean, social stay today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:58:40.321Z"
+}

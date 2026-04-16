@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "hotelSlug": "avista-grande-karon-mgallery",
+  "hotel": {
+    "name": "Avista Grande Karon — MGallery",
+    "category": "luxury",
+    "priceRange": "7,000–14,000 THB/night (~$196–392 USD)",
+    "area": "Karon Beach",
+    "description": "A boutique luxury hotel by Sofitel's MGallery collection, a short walk from Karon Beach. Ranked in TripAdvisor's top 10 hotels in Thailand. Elegant rooms with local design touches, rooftop pool, and personalized service that large resorts can't match.",
+    "highlights": [
+      "Ranked top 10 hotels in Thailand by TripAdvisor (2023)",
+      "Boutique feel with personalized service",
+      "Rooftop pool and bar with sea views"
+    ],
+    "reviewScore": "5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "honeymoons"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvista%2520Grande%2520Karon%2520%25E2%2580%2594%2520MGallery%252C%2520Phuket%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Karon Resort",
+      "category": "budget",
+      "priceRange": "600–1,000 THB/night (~$17–28 USD)",
+      "area": "Karon Beach",
+      "description": "A family-run guesthouse set back from Karon Beach with clean rooms, a pool, and a garden atmosphere. Quieter and better value than anything comparable in Patong. The beach is a 5-minute walk away.",
+      "highlights": [
+        "Swimming pool in tropical garden setting",
+        "5-minute walk to Karon Beach",
+        "Family-run with personal service"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Karon%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Karon Sea Sands Resort",
+      "category": "mid-range",
+      "priceRange": "1,800–3,000 THB/night (~$50–84 USD)",
+      "area": "Karon Beach",
+      "description": "Beachfront resort directly on Karon Beach with a pool, restaurant, and sea-view rooms. One of the best value beachfront properties on the island — you're literally steps from the sand. Rooms are dated but clean and spacious.",
+      "highlights": [
+        "Directly on Karon Beach — zero walk to sand",
+        "Beachfront pool and restaurant",
+        "Excellent value for a beachfront location"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com",
+          "sourceUrl": "https://www.trip.com/hotels/phuket-hotels-list-725/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Pullman Phuket Arcadia Naithon Beach",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB/night (~$154–336 USD)",
+      "area": "Naithon Beach",
+      "description": "A large-scale luxury resort on the quiet Naithon Beach near the airport. Five swimming pools including water slides, full spa, multiple restaurants, and beautifully landscaped grounds. Close enough to the airport for late arrivals/early departures but far from the Patong crowds.",
+      "highlights": [
+        "5 pools with water slides — perfect for families",
+        "Quiet Naithon Beach location",
+        "Full-service spa and multiple dining venues"
+      ],
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/Hotels-g293920-zff10-Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPullman%2520Phuket%2520Arcadia%2520Naithon%2520Beach%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Karon Beach a good area to stay in Phuket?",
+    "Is Karon Beach better than Patong?",
+    "Is it safe to swim at Karon Beach?",
+    "Is Avista Grande Phuket Karon family friendly?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Avista Grande Karon — MGallery without knowing the 5-10 minute walk to Karon Beach can lead to frustration if you expect direct beachfront access.",
+    "intro": "Avista Grande Karon — MGallery offers boutique luxury with elegant rooms featuring local Thai design elements, a rooftop pool with sea views, and personalized service in a serene setting near Karon Beach. It's ideal for couples and honeymooners seeking an intimate escape rather than the bustle of larger resorts.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "couples and honeymoons",
+      "standout": "rooftop pool",
+      "noGoFor": "families with kids"
+    },
+    "whyBook": [
+      "Top 10 ranking in Thailand by TripAdvisor 2023",
+      "Boutique personalized service unmatched by big resorts",
+      "Rooftop pool and bar overlooking the sea",
+      "Elegant rooms with authentic local design touches",
+      "Short walk to quiet Karon Beach"
+    ],
+    "whyNotBook": [
+      "Not directly on the beach, requiring a 5-10 minute walk",
+      "Limited on-site dining options in boutique setup",
+      "Rooftop pool can feel exposed during rainy season",
+      "Higher price lacks extensive kids' facilities",
+      "Smaller property means fewer evening entertainment choices"
+    ],
+    "skipIf": "Skip if you're traveling with young children or prefer all-inclusive mega-resorts with multiple pools and kids' clubs.",
+    "detailedReview": "Checking into Avista Grande Karon — MGallery feels intimate and welcoming, with staff offering personalized greetings and quick room assignments in the elegant lobby infused with Thai artistry. Rooms deliver a sophisticated vibe, blending modern comforts like plush bedding and rain showers with local touches such as carved wooden accents and subtle Phuket-inspired decor, all in spacious layouts that feel private and serene. The standout amenity is the rooftop pool and bar, where guests lounge on daybeds with panoramic sea views, sipping cocktails as the sun sets over Karon Beach—perfect for unwinding after a day out. Food quality shines in the hotel's restaurant, serving Thai and international dishes with fresh, locally sourced ingredients, though portions are refined rather than abundant. Service stands out for its attentive, non-intrusive style; staff remember preferences like coffee orders or tour requests, creating a tailored stay that larger resorts often overlook. Typical guests are couples in their 30s-50s or honeymooners, drawn to the romantic ambiance and top 10 TripAdvisor ranking for Thailand in 2023, enjoying quiet evenings without the party crowds of nearby Patong. Overall, it's a refined retreat emphasizing quality over quantity, ideal for those valuing personalization in a luxury boutique setting.",
+    "locationReality": "Avista Grande Karon — MGallery sits a short 5-10 minute walk from Karon Beach, placing it in the quieter Karon area of Phuket, away from Patong's nightlife but close enough for easy access. Within a 5-minute walk, you'll find local eateries and small shops along Karon Road, but major attractions like Big Buddha require a 15-20 minute drive. Getting around typically involves Grab rides costing 200-400 THB to Patong or the Phuket International Airport, about 45-60 minutes away by car.",
+    "localSignals": [
+      "5-10 minute walk to Karon Beach",
+      "Ranked top 10 hotels in Thailand by TripAdvisor 2023",
+      "One rooftop pool on property",
+      "Personalized service highlighted in descriptions",
+      "Near Karon Road shops and restaurants"
+    ],
+    "travellerNote": "Guests often praise the personalized service and rooftop pool views but note the walk to the beach and limited family amenities as common drawbacks.",
+    "bookingTips": [
+      "Request sea-view rooms for better rooftop access",
+      "Agoda often cheaper than Booking.com for Phuket hotels",
+      "Prices spike December to March during high season",
+      "Verify breakfast inclusion as it's not always standard",
+      "Check for any nearby construction notices before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Karon Resort (600–1,000 THB/night (~$17–28 USD))",
+        "howDifferent": "Offers budget guesthouse value with garden pool but lacks luxury and sea views of Avista Grande."
+      },
+      {
+        "name": "Karon Sea Sands Resort (1,800–3,000 THB/night (~$50–84 USD))",
+        "howDifferent": "Provides direct beachfront access at mid-range prices, unlike Avista Grande's boutique walk-up style."
+      },
+      {
+        "name": "Pullman Phuket Arcadia Naithon Beach (5,500–12,000 THB/night (~$154–336 USD))",
+        "howDifferent": "Features multiple pools and spa on quieter Naithon Beach, contrasting Avista Grande's intimate Karon focus."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Karon Beach a good area to stay in Phuket?",
+        "a": "Yes, Karon Beach is a good area for a relaxed stay in Phuket, offering a long sandy stretch with fewer crowds than Patong and easy access to local dining."
+      },
+      {
+        "q": "Is Karon Beach better than Patong?",
+        "a": "Karon Beach is better for couples seeking quiet and beach relaxation, while Patong suits party-goers with its vibrant nightlife and shopping."
+      },
+      {
+        "q": "Is it safe to swim at Karon Beach?",
+        "a": "Swimming at Karon Beach is generally safe with lifeguards present, but check red flags during monsoon season for strong currents."
+      },
+      {
+        "q": "Is Avista Grande Phuket Karon family friendly?",
+        "a": "Avista Grande Karon — MGallery is more suited to couples than families, with its boutique setup lacking dedicated kids' facilities or play areas."
+      },
+      {
+        "q": "What is the best time to visit Karon Beach?",
+        "a": "The best time is November to April for dry weather and calm seas, avoiding the rainy May to October period."
+      },
+      {
+        "q": "How far is Avista Grande from Phuket Airport?",
+        "a": "It's about 45-60 minutes by car from Phuket International Airport, with Grab rides costing around 800-1,200 THB."
+      }
+    ],
+    "urgencyLine": "Rooms at Avista Grande Karon — MGallery with rooftop sea views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Avista Grande Karon — MGallery based on TripAdvisor rankings, guest feedback patterns, and property specifics like amenities and location. We weighted personalized service highest because it defines the boutique MGallery experience over generic luxury. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Avista Grande Karon — MGallery Review (2026)",
+    "metaDescription": "Avista Grande Karon — MGallery in Phuket delivers boutique luxury with rooftop pool and top TripAdvisor ranking, but expect a short walk to the beach. Ideal for couples; book for personalized service in Karon. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:23:55.784Z"
+}

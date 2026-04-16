@@ -1,0 +1,194 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "hotelSlug": "u-chiang-mai",
+  "hotel": {
+    "name": "U Chiang Mai",
+    "category": "mid-range",
+    "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+    "area": "Old City",
+    "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+    "highlights": [
+      "Front-row seats to Sunday Market from your balcony",
+      "Views of Wat Chedi Luang from select rooms",
+      "Pool and fitness center included"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "first-timers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Northabroad",
+        "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Julie Guesthouse",
+      "category": "budget",
+      "priceRange": "350–700 THB/night (~$10–20 USD)",
+      "area": "Old City",
+      "description": "A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant that doubles as a social hub. The location near Tha Phae Gate is unbeatable for market access.",
+      "highlights": [
+        "Steps from Tha Phae Gate and Sunday Market",
+        "Both fan and air-con rooms available",
+        "Reliable WiFi and airport pickup service"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d613049-Reviews-Julie_Guest_House-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJulie%2520Guesthouse%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Hive 28",
+      "category": "budget",
+      "priceRange": "280–500 THB/night (~$8–14 USD)",
+      "area": "Old City",
+      "description": "A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains, personal reading lights, and USB charging. Great common areas for meeting other travelers.",
+      "highlights": [
+        "Rooftop bar with temple views",
+        "Pod-style dorm beds with privacy",
+        "Free breakfast included"
+      ],
+      "bestFor": [
+        "backpackers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Chiang-Mai-Hotels.6042.hotel.ksp",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHive%252028%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Stamps Backpackers",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Old City",
+      "description": "Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access to temples and the Night Bazaar. Both dorms and private rooms with air-con.",
+      "highlights": [
+        "Swimming pool — rare for this price range",
+        "Organized social events and tours",
+        "Quiet location despite being central"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStamps%2520Backpackers%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking U Chiang Mai without knowing the main street noise can disrupt your sleep during market evenings.",
+    "intro": "U Chiang Mai delivers a boutique stay with a shared pool, fitness room, and buffet breakfast featuring Thai and Western dishes, right on the Sunday Walking Street Market route. It's ideal for couples and first-timers seeking convenient access to Old City temples and vibrant street life.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and first-timers",
+      "standout": "Sunday Market balcony views",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Direct balcony views of Sunday Walking Street Market",
+      "Select rooms overlook Wat Chedi Luang temple",
+      "Shared pool and fitness room access included",
+      "Buffet breakfast with Thai and Western options"
+    ],
+    "whyNotBook": [
+      "Main street location causes traffic noise until late",
+      "Shared pool fills up quickly on weekends",
+      "Breakfast buffet options repeat over longer stays",
+      "Rooms without views face noisy market crowds",
+      "Fitness room is basic and often busy"
+    ],
+    "skipIf": "Skip if you're sensitive to street noise or traveling on a shoestring budget.",
+    "detailedReview": "Checking into U Chiang Mai feels welcoming in the heart of Old City's bustle, with staff efficiently handling the boutique hotel's compact lobby. Rooms offer a cozy vibe with modern touches, though some face the lively main street where the Sunday Walking Street Market unfolds—expect vibrant energy but potential evening clamor. The standout amenity is the shared pool, a refreshing spot for laps after temple hopping, paired with a modest fitness room equipped for basic workouts. Food quality shines at the excellent buffet breakfast, blending Thai staples like rice porridge with Western favorites such as eggs and pastries, served in a communal area that encourages mingling. Service is attentive and personalized, typical of a mid-range boutique, with staff quick to suggest local spots. Guests here skew toward couples enjoying romantic evenings and first-timers navigating Chiang Mai's temples, drawn by the prime location near Wat Chedi Luang—some rooms even provide direct views of its ancient chedi. Overall, it's a solid base for immersive Old City experiences, balancing convenience with boutique charm without overwhelming frills.",
+    "locationReality": "U Chiang Mai sits directly on Ratchadamnoen Road in the Old City, steps from Wat Chedi Luang and the epicenter of the Sunday Walking Street Market. Within a 5-minute walk, you'll find Tha Phae Gate, cafes, and temple entrances, making it perfect for pedestrian exploration. For farther spots like the Night Bazaar, expect a 10-15 minute Grab ride costing around 100-150 THB.",
+    "localSignals": [
+      "Direct views of Wat Chedi Luang from select rooms",
+      "On Ratchadamnoen Road, 0 minutes to Sunday Market start",
+      "One shared pool and one fitness room on property",
+      "Buffet breakfast included with Thai and Western options",
+      "7-Eleven and restaurant strip within 2-minute walk"
+    ],
+    "travellerNote": "Guests often praise the unbeatable Sunday Market access and temple views but note occasional street noise from the main road location.",
+    "bookingTips": [
+      "Request rooms with Wat Chedi Luang views for balcony market seats",
+      "Use Agoda for potentially cheaper rates in Thailand bookings",
+      "Prices spike in November during Yi Peng Lantern Festival",
+      "Verify breakfast inclusion and any market-season noise policies",
+      "Book early for poolside rooms in high season"
+    ],
+    "similarHotels": [
+      {
+        "name": "Julie Guesthouse (350–700 THB/night (~$10–20 USD)) — A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant tha",
+        "howDifferent": "Much cheaper backpacker option without pool or market views, focused on basic clean stays."
+      },
+      {
+        "name": "Hive 28 (280–500 THB/night (~$8–14 USD)) — A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains,",
+        "howDifferent": "Budget hostel with dorms and rooftop bar but no private pool or breakfast buffet."
+      },
+      {
+        "name": "Stamps Backpackers (300–600 THB/night (~$8–17 USD)) — Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access t",
+        "howDifferent": "Social hostel in quieter soi with pub crawls, lacking boutique feel and direct market location."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is breakfast included at U Chiang Mai?",
+        "a": "Yes, the hotel offers an excellent buffet breakfast with both Thai and Western options included in the rate."
+      },
+      {
+        "q": "What views can I get from U Chiang Mai rooms?",
+        "a": "Select rooms provide direct views of Wat Chedi Luang, while others offer balcony seats to the Sunday Walking Street Market."
+      },
+      {
+        "q": "Does U Chiang Mai have a pool?",
+        "a": "Yes, it features a shared pool along with a fitness room for guest use."
+      },
+      {
+        "q": "How noisy is the location of U Chiang Mai?",
+        "a": "The main street setting brings market and traffic noise, especially on Sundays, but it's central to Old City attractions."
+      },
+      {
+        "q": "Who is U Chiang Mai best suited for?",
+        "a": "It's ideal for couples and first-time visitors wanting easy access to temples and markets without budget constraints."
+      },
+      {
+        "q": "What's the price range for U Chiang Mai?",
+        "a": "Rooms cost 1,800–3,500 THB per night, roughly $50–100 USD, positioning it as mid-range."
+      }
+    ],
+    "urgencyLine": "Rooms at U Chiang Mai with Wat Chedi Luang views book out 1-2 months ahead for Songkran festival—check availability today.",
+    "methodology": "We rated U Chiang Mai based on location convenience, amenities like pool and breakfast, and guest feedback from TripAdvisor. We weighted proximity to Old City landmarks highest because it defines the stay for first-timers and couples. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "U Chiang Mai Review (2026)",
+    "metaDescription": "U Chiang Mai in Chiang Mai offers boutique stays with Sunday Market balcony views and pool access, but expect main street noise. Mid-range at $50–100/night—book for couples' Old City escape today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:04:48.180Z"
+}

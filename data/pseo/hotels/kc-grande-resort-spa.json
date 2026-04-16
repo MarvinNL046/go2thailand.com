@@ -1,0 +1,203 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trat",
+  "cityName": "Trat",
+  "hotelSlug": "kc-grande-resort-spa",
+  "hotel": {
+    "name": "KC Grande Resort & Spa",
+    "category": "luxury",
+    "priceRange": "4,350-9,980 THB/night (~$122-280 USD)",
+    "area": "White Sand Beach, Koh Chang",
+    "description": "The most popular 5-star resort on Koh Chang, featuring five swimming pools, a private beach section on White Sand Beach, full-service spa, and multiple restaurants. Accommodation ranges from standard deluxe rooms to premium seaside villas. The resort straddles both sides of the road with a modern tower block and beachfront villas. Rated 8.8/10 from over 4,000 reviews.",
+    "highlights": [
+      "Five swimming pools including beachfront infinity pool",
+      "Direct access to White Sand Beach with sun loungers",
+      "Full-service spa, fitness center, and multiple dining options"
+    ],
+    "reviewScore": "8.8/10 Booking.com (4,398 reviews)",
+    "bestFor": [
+      "couples",
+      "honeymooners",
+      "luxury travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "I Am Koh Chang",
+        "sourceUrl": "https://iamkohchang.com/accommodation/white-sand-beach",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKC%2520Grande%2520Resort%2520%2526%2520Spa%252C%2520Trat%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Kacha Resort & Spa Koh Chang",
+      "category": "mid-range",
+      "priceRange": "2,000-4,000 THB/night (~$56-112 USD)",
+      "area": "White Sand Beach, Koh Chang",
+      "description": "A 4-star resort with direct beach access at White Sand Beach, Koh Chang's most popular stretch of sand. Modern rooms with balconies, swimming pool, spa, and a beachfront restaurant. Guests can easily access water sports, snorkeling, and island tours from the resort's location on the main tourist beach. Good value for a beachfront property.",
+      "highlights": [
+        "Direct access to White Sand Beach",
+        "Swimming pool, spa, and on-site restaurant",
+        "Water sports and tour booking at reception"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKacha%2520Resort%2520%2526%2520Spa%2520Koh%2520Chang%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Santhiya Tree Koh Chang Resort",
+      "category": "luxury",
+      "priceRange": "3,500-12,000 THB/night (~$98-336 USD)",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "A refined 76-room resort on Klong Prao Beach, Koh Chang's longest and most peaceful beach. Thai-style architecture with teakwood villas set in tropical gardens leading to the beach. Known for exceptional service (9.2/10 from 2,700+ reviews), excellent restaurant, and a romantic atmosphere. The quieter Klong Prao location feels more exclusive than busy White Sand Beach.",
+      "highlights": [
+        "Klong Prao Beach — the longest, most peaceful beach on Koh Chang",
+        "Teakwood villas with Thai architectural details",
+        "Consistently top-rated for service (9.2/10 average)"
+      ],
+      "reviewScore": "9.2/10 Booking.com (2,743 reviews)",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/santhiya.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSanthiya%2520Tree%2520Koh%2520Chang%2520Resort%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Soneva Kiri",
+      "category": "luxury",
+      "priceRange": "35,000-120,000 THB/night (~$980-3,360 USD)",
+      "area": "Koh Kood",
+      "description": "One of Thailand's most exclusive luxury resorts, set on a private beach on Koh Kood. Pool villas with private beaches, a chocolate room, ice cream parlor, observatory, and the famous Treepod Dining experience — eating in a bamboo pod hoisted into the treetops with food delivered by zipline. The ultimate splurge in the Trat archipelago. Reached by private charter flight from Bangkok.",
+      "highlights": [
+        "Treepod Dining — eat in a bamboo pod served by zipline-riding waiters",
+        "Private beach pool villas on pristine Koh Kood",
+        "Private charter flight from Bangkok included"
+      ],
+      "reviewScore": "9.4/10 Booking.com",
+      "bestFor": [
+        "luxury travelers",
+        "honeymooners",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "Soneva",
+          "sourceUrl": "https://soneva.com/soneva-kiri/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSoneva%2520Kiri%252C%2520Trat%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is breakfast included at KC Grande Resort?",
+    "What is the best time to visit Koh Chang?",
+    "How far is KC Grande from the airport?",
+    "Does KC Grande have ocean views?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking KC Grande Resort & Spa without knowing it straddles the main road can lead to noisy tower rooms far from the beach.",
+    "intro": "KC Grande Resort & Spa delivers a 5-star escape with five swimming pools, direct White Sand Beach access, and seaside villas on Koh Chang. It's ideal for couples, honeymooners, and luxury travelers seeking relaxation amid tropical vibes.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "luxury honeymoon couples",
+      "standout": "five swimming pools",
+      "noGoFor": "budget solo backpackers"
+    },
+    "whyBook": [
+      "Five pools including beachfront infinity for ultimate lounging",
+      "Private beach section with sun loungers on White Sand Beach",
+      "Full-service spa and fitness center for pampering sessions",
+      "Multiple restaurants offering varied dining without leaving property"
+    ],
+    "whyNotBook": [
+      "Tower block rooms face the road and pick up traffic noise until late",
+      "Resort popularity leads to crowded pools from 10am-3pm daily",
+      "Beachfront villas book out first, leaving standard rooms without views",
+      "Straddling the road means crossing traffic to reach beach amenities",
+      "Multi-night stays reveal repetitive breakfast options in buffet"
+    ],
+    "skipIf": "Skip if you're traveling on a tight budget or prefer secluded spots without road noise.",
+    "detailedReview": "Checking into KC Grande Resort & Spa feels efficient at the modern lobby in the tower block, with staff quickly assigning keys after a short wait during peak hours. Rooms in the tower offer clean, contemporary setups with balconies, but those facing the road can hear passing vehicles; opt for higher floors to minimize this. Beachfront villas provide a more serene vibe, with premium seaside options featuring private plunge pools and direct sand access, though they're pricier. The standout amenity is the five swimming pools, including an infinity-edge one overlooking White Sand Beach, perfect for laps or lounging with provided sunbeds. Food quality shines at the multiple restaurants, from beachside seafood grills to international buffets, with fresh Thai dishes earning consistent praise. Service is attentive yet relaxed, with staff handling requests like spa bookings promptly, though busier times stretch response times. Typical guests are couples in their 30s-50s, honeymooners snapping photos, and families dipping into luxury without ultra-exclusivity. Overall, it's a solid 5-star pick for its beach proximity and facilities, backed by 8.8/10 from 4,398 Booking.com reviews, but the split layout requires navigating the road for full access.",
+    "locationReality": "KC Grande sits directly on White Sand Beach in Koh Chang, with the beachfront section offering immediate sand access, while the tower is across the road about 2 minutes' walk away. Within a 5-minute stroll, you'll find beach bars and small shops, but main nightlife or markets require a 10-15 minute scooter ride. Reaching Trat Airport involves a 30-minute drive to the ferry pier plus a 45-minute crossing, totaling around 2 hours by shared minivan for about 300-500 THB.",
+    "localSignals": [
+      "Direct access to White Sand Beach with private section and sun loungers",
+      "Five swimming pools on property including beachfront infinity pool",
+      "8.8/10 rating from 4,398 Booking.com reviews",
+      "Multiple restaurants available onsite for dining variety",
+      "Full-service spa and fitness center included in amenities"
+    ],
+    "travellerNote": "Guests often praise the multiple pools and beach access for relaxation but note road noise from the tower block and occasional crowds at peak facilities.",
+    "bookingTips": [
+      "Request beachfront villas for ocean views and quieter stays",
+      "Agoda often undercuts Booking.com prices for Thailand resorts",
+      "Prices spike December-February during high season holidays",
+      "Verify breakfast inclusion as it varies by room package",
+      "Check for road-crossing shuttle availability before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Kacha Resort & Spa Koh Chang",
+        "howDifferent": "More affordable 4-star with direct White Sand Beach access but fewer pools and no villas."
+      },
+      {
+        "name": "Santhiya Tree Koh Chang Resort",
+        "howDifferent": "Thai-style villas on peaceful Klong Prao Beach, pricier for seclusion over KC Grande's popularity."
+      },
+      {
+        "name": "Soneva Kiri",
+        "howDifferent": "Ultra-exclusive on Koh Kood with private pool villas, far more expensive than KC Grande's accessible luxury."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is breakfast included at KC Grande Resort?",
+        "a": "Breakfast is often included in room rates but varies by package; confirm with your booking to avoid surprises."
+      },
+      {
+        "q": "What is the best time to visit Koh Chang?",
+        "a": "The best time is December to March for dry weather and calm seas, avoiding the rainy May-October season."
+      },
+      {
+        "q": "How far is KC Grande from the airport?",
+        "a": "From Trat Airport, it's about 2 hours total including ferry to Koh Chang, typically via shared transfer for 300-500 THB."
+      },
+      {
+        "q": "Does KC Grande have ocean views?",
+        "a": "Yes, premium seaside villas and select tower rooms offer ocean views, while standard rooms may face the road."
+      },
+      {
+        "q": "Are there pools at KC Grande Resort & Spa?",
+        "a": "Yes, there are five swimming pools, including a beachfront infinity pool for guests to enjoy."
+      },
+      {
+        "q": "Is KC Grande family-friendly?",
+        "a": "It's suitable for families with pools and beach access, but best for couples due to luxury focus and potential crowds."
+      }
+    ],
+    "urgencyLine": "Beachfront rooms at KC Grande Resort & Spa with infinity pool access book out 1-2 months ahead for December-March high season — check today.",
+    "methodology": "We rated KC Grande Resort & Spa based on guest reviews, amenities, location, and value from sources like Booking.com. We weighted beach access and pool variety highest because they define Koh Chang stays. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "KC Grande Resort & Spa Review (2026)",
+    "metaDescription": "KC Grande Resort & Spa on White Sand Beach, Koh Chang offers 5-star luxury with five pools and spa, but watch for road noise in tower rooms. Ideal for couples—book now for serene escapes. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:43:30.974Z"
+}

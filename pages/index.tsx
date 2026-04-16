@@ -304,6 +304,123 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
       </section>
 
       {/* ============================================
+          PLAN YOUR THAILAND TRIP — PSEO discoverability hub
+          ============================================ */}
+      <section className="section-padding bg-surface-cream">
+        <div className="container-custom">
+          <div className="text-center mb-12">
+            <span className="section-label">
+              {locale === 'nl' ? 'Plan je reis' : 'Plan your trip'}
+            </span>
+            <h2 className="section-title mb-4">
+              {locale === 'nl' ? 'Van idee naar geboekt in 4 stappen' : 'From idea to booked in 4 steps'}
+            </h2>
+            <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+              {locale === 'nl'
+                ? 'Kies de buurt, vergelijk hotels, lees echte reviews en boek vervoer — alles voor de Thailand-reis die bij jou past.'
+                : 'Pick the neighbourhood, compare hotels, read real reviews, book transport — everything for the Thailand trip that fits you.'}
+            </p>
+          </div>
+
+          {/* Four intent cards */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mb-14">
+            <Link href="/guides/where-to-stay/bangkok/" className="group rounded-2xl bg-white p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all">
+              <div className="text-3xl mb-3">🗺️</div>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-1 group-hover:text-thailand-red transition-colors">
+                {locale === 'nl' ? 'Waar te verblijven' : 'Where to stay'}
+              </h3>
+              <p className="text-sm text-gray-600 mb-3">
+                {locale === 'nl'
+                  ? 'Vergelijk buurten per stad — Sukhumvit, Patong, Old City — met eerlijke voor/nadelen.'
+                  : 'Compare neighbourhoods per city — Sukhumvit, Patong, Old City — with honest trade-offs.'}
+              </p>
+              <span className="text-xs font-semibold text-thailand-red">
+                {locale === 'nl' ? '5 steden →' : '5 cities →'}
+              </span>
+            </Link>
+
+            <Link href="/best-hotels/phuket/" className="group rounded-2xl bg-white p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all">
+              <div className="text-3xl mb-3">🏨</div>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-1 group-hover:text-thailand-red transition-colors">
+                {locale === 'nl' ? 'Beste hotels' : 'Best hotels'}
+              </h3>
+              <p className="text-sm text-gray-600 mb-3">
+                {locale === 'nl'
+                  ? 'Budget, luxe of beachfront? Rankings met skip-if regels per hotel.'
+                  : 'Budget, luxury or beachfront? Rankings with skip-if rules per hotel.'}
+              </p>
+              <span className="text-xs font-semibold text-thailand-red">
+                {locale === 'nl' ? '420+ hotels →' : '420+ hotels →'}
+              </span>
+            </Link>
+
+            <Link href="/areas/bangkok/sukhumvit/" className="group rounded-2xl bg-white p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all">
+              <div className="text-3xl mb-3">📍</div>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-1 group-hover:text-thailand-red transition-colors">
+                {locale === 'nl' ? 'Buurten & wijken' : 'Neighbourhoods'}
+              </h3>
+              <p className="text-sm text-gray-600 mb-3">
+                {locale === 'nl'
+                  ? 'BTS-afstand, Grab-prijzen, lokale signalen per buurt.'
+                  : 'BTS distance, Grab costs, local signals per area.'}
+              </p>
+              <span className="text-xs font-semibold text-thailand-red">
+                {locale === 'nl' ? '54 buurten →' : '54 areas →'}
+              </span>
+            </Link>
+
+            <Link href="/transport/" className="group rounded-2xl bg-white p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all">
+              <div className="text-3xl mb-3">🚌</div>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-1 group-hover:text-thailand-red transition-colors">
+                {locale === 'nl' ? 'Vervoer' : 'Transport'}
+              </h3>
+              <p className="text-sm text-gray-600 mb-3">
+                {locale === 'nl'
+                  ? 'Trein, vliegtuig, bus, ferry. Routes en prijzen vergeleken.'
+                  : 'Train, plane, bus, ferry. Routes and prices compared.'}
+              </p>
+              <span className="text-xs font-semibold text-thailand-red">
+                {locale === 'nl' ? '60+ routes →' : '60+ routes →'}
+              </span>
+            </Link>
+          </div>
+
+          {/* Featured PSEO pages — popular buyer-intent targets */}
+          <div className="max-w-5xl mx-auto">
+            <p className="text-center text-sm text-gray-500 uppercase tracking-wide font-semibold mb-5">
+              {locale === 'nl' ? 'Populaire planning-pagina\'s' : 'Popular planning pages'}
+            </p>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-3 text-sm">
+              <Link href="/where-to-stay/bangkok/first-time/" className="rounded-xl bg-white border border-gray-200 px-4 py-3 hover:border-thailand-blue transition-colors">
+                <span className="text-thailand-blue font-semibold block">{locale === 'nl' ? 'Bangkok voor eerste keer' : 'Bangkok for first-timers'}</span>
+                <span className="text-xs text-gray-500">{locale === 'nl' ? 'waar slapen in Bangkok' : 'where to stay guide'}</span>
+              </Link>
+              <Link href="/best-hotels/phuket/beachfront/" className="rounded-xl bg-white border border-gray-200 px-4 py-3 hover:border-thailand-blue transition-colors">
+                <span className="text-thailand-blue font-semibold block">{locale === 'nl' ? 'Beachfront hotels Phuket' : 'Phuket beachfront hotels'}</span>
+                <span className="text-xs text-gray-500">{locale === 'nl' ? 'top picks 2026' : 'top picks 2026'}</span>
+              </Link>
+              <Link href="/where-to-stay/bangkok/nightlife/" className="rounded-xl bg-white border border-gray-200 px-4 py-3 hover:border-thailand-blue transition-colors">
+                <span className="text-thailand-blue font-semibold block">{locale === 'nl' ? 'Bangkok nightlife' : 'Bangkok nightlife'}</span>
+                <span className="text-xs text-gray-500">{locale === 'nl' ? 'Sukhumvit vs Thonglor vs Khao San' : 'Sukhumvit vs Thonglor vs Khao San'}</span>
+              </Link>
+              <Link href="/best-hotels/koh-samui/luxury/" className="rounded-xl bg-white border border-gray-200 px-4 py-3 hover:border-thailand-blue transition-colors">
+                <span className="text-thailand-blue font-semibold block">{locale === 'nl' ? 'Koh Samui luxe resorts' : 'Koh Samui luxury resorts'}</span>
+                <span className="text-xs text-gray-500">{locale === 'nl' ? 'Six Senses, Conrad, Four Seasons' : 'Six Senses, Conrad, Four Seasons'}</span>
+              </Link>
+              <Link href="/where-to-stay/chiang-mai/family/" className="rounded-xl bg-white border border-gray-200 px-4 py-3 hover:border-thailand-blue transition-colors">
+                <span className="text-thailand-blue font-semibold block">{locale === 'nl' ? 'Chiang Mai met gezin' : 'Chiang Mai for families'}</span>
+                <span className="text-xs text-gray-500">{locale === 'nl' ? 'rustige buurten' : 'calm neighbourhoods'}</span>
+              </Link>
+              <Link href="/areas/phuket/patong-beach/" className="rounded-xl bg-white border border-gray-200 px-4 py-3 hover:border-thailand-blue transition-colors">
+                <span className="text-thailand-blue font-semibold block">{locale === 'nl' ? 'Patong Beach gids' : 'Patong Beach area'}</span>
+                <span className="text-xs text-gray-500">{locale === 'nl' ? 'voor- en nadelen' : 'pros, cons, hotels'}</span>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ============================================
           TOP 10 GUIDES
           ============================================ */}
       <section id="top10" className="section-padding bg-white" ref={top10Anim.ref}>

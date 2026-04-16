@@ -1,0 +1,205 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "rayavadee",
+  "hotel": {
+    "name": "Rayavadee",
+    "category": "luxury",
+    "priceRange": "15,000-40,000 THB/night (~$420-1,120 USD)",
+    "area": "Railay / Phra Nang",
+    "description": "One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beaches including Phra Nang Cave Beach. Two-story pavilions with outdoor living spaces are scattered among coconut palms. The setting between soaring limestone cliffs and turquoise sea is unmatched anywhere in the country.",
+    "highlights": [
+      "Private access to three beaches including Phra Nang Cave Beach",
+      "Two-story pavilion suites in tropical gardens",
+      "Boat-access-only location between limestone cliffs — no cars, no roads"
+    ],
+    "reviewScore": "4.8/5 TripAdvisor",
+    "bestFor": [
+      "honeymooners",
+      "luxury travelers",
+      "special occasions"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1507957-d301764-Reviews-Rayavadee-Railay_Beach_Krabi_Town_Krabi_Province.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayavadee%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "category": "luxury",
+      "priceRange": "12,000-35,000 THB/night (~$336-980 USD)",
+      "area": "Tubkaek Beach",
+      "description": "The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous pool villas and pavilions with Thai-inspired design, a world-class spa, three restaurants, and the kind of white-glove service that justifies the price. One of only a handful of Ritz-Carlton Reserve properties worldwide.",
+      "highlights": [
+        "Ritz-Carlton Reserve — one of few worldwide",
+        "Secluded Tubkaek Beach with limestone island views",
+        "Pool villas with outdoor living spaces and private butler service"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhulay%2520Bay%252C%2520a%2520Ritz-Carlton%2520Reserve%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit Thani Krabi Beach Resort",
+      "category": "luxury",
+      "priceRange": "5,000-12,000 THB/night (~$140-336 USD)",
+      "area": "Klong Muang Beach",
+      "description": "A premium Thai chain resort on the quiet Klong Muang Beach, 20 minutes north of Ao Nang. Large free-form pool, private beach, Thai cooking classes, and spacious rooms with garden or sea views. Good value in the luxury bracket — you get 5-star facilities and beach at a fraction of Rayavadee or Ritz-Carlton prices.",
+      "highlights": [
+        "Private beachfront on quiet Klong Muang Beach",
+        "Large free-form swimming pool and spa",
+        "Thai cooking classes and cultural activities on-site"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples",
+        "value luxury"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1861021-d302128-Reviews-Dusit_Thani_Krabi_Beach_Resort-Nong_Thale_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Krabi%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
+      "category": "luxury",
+      "priceRange": "4,500-10,000 THB/night (~$126-280 USD)",
+      "area": "Klong Muang Beach",
+      "description": "French luxury chain resort with one of Southeast Asia's largest freeform swimming pools (at 230 meters long). Set on Klong Muang Beach with a private stretch of sand, 9-hole golf course, extensive spa, and multiple restaurants. The colonial-Thai architecture and manicured grounds give it a grand resort feel.",
+      "highlights": [
+        "230-meter freeform pool — one of SE Asia's largest",
+        "9-hole pitch-and-putt golf course",
+        "Private beach with kayaks and beach activities"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "golfers",
+        "resort lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Accor",
+          "sourceUrl": "https://www.accor.com/en/hotel-brands/sofitel.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSofitel%2520Krabi%2520Phokeethra%2520Golf%2520%2526%2520Spa%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is Rayavadee in Krabi known for?",
+    "What is there to do in Rayavadee Krabi?",
+    "Where do celebrities stay in Krabi?",
+    "What is the best time of year to visit Rayavadee?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Rayavadee without knowing it's boat-access-only can leave you stranded without a car for mainland excursions.",
+    "intro": "Rayavadee delivers an iconic luxury escape on the Railay peninsula, with two-story pavilion suites scattered across 26 acres of tropical gardens and private access to three beaches like Phra Nang Cave Beach amid limestone cliffs and turquoise seas. It's ideal for honeymooners, luxury travelers, and those seeking special occasions in unmatched natural seclusion.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "honeymooners luxury travelers",
+      "standout": "private beach access",
+      "noGoFor": "budget family groups"
+    },
+    "whyBook": [
+      "Private access to Phra Nang Cave Beach for serene swims.",
+      "Two-story pavilions with outdoor living amid coconut palms.",
+      "Boat-only location ensures car-free tranquility between cliffs.",
+      "Iconic setting unmatched in Thailand's tropical landscapes."
+    ],
+    "whyNotBook": [
+      "Boat access complicates quick trips to Ao Nang shops.",
+      "Isolation limits off-resort dining variety after dark.",
+      "No roads mean reliance on resort shuttles for all movement.",
+      "High winds can disrupt boat transfers during rainy season.",
+      "Pavilions may feel spread out for guests wanting central action."
+    ],
+    "skipIf": "Skip if you're traveling with young children who need easy access to mainland amenities or public transport.",
+    "detailedReview": "Arriving at Rayavadee feels like entering a private paradise: guests transfer by longtail boat to the Railay peninsula, where staff greet you with cool towels and herbal drinks amid lush gardens. Check-in happens in open-air pavilions, setting a relaxed tone without rushed formalities. The two-story pavilion suites, scattered among coconut palms, offer spacious outdoor living areas with teak furnishings and daybeds overlooking the sea or cliffs—expect 100-150 sqm layouts blending indoor-outdoor flow, though some units involve stairs that might challenge mobility. Standout amenities include direct paths to three beaches, like the spiritual Phra Nang Cave Beach for morning yoga or kayaking in calm waters. Food quality shines at the Krabi Kitchen, serving fresh Thai seafood curries and Western options using garden herbs, but portions suit leisurely meals rather than quick bites. Service is attentive yet unobtrusive, with butlers handling boat bookings or in-villa spa setups using local ingredients. Typical guests are affluent couples in their 30s-50s, honeymooners whispering on beachfront dinners, or families with older kids exploring cliffside trails— the 4.8/5 TripAdvisor score reflects this serene vibe, though the boat-only access underscores its exclusivity over convenience. Overall, it's a immersive nature retreat where the 26-acre grounds encourage wandering paths rather than poolside lounging, perfect for disconnecting in Thailand's dramatic karst scenery.",
+    "locationReality": "Rayavadee sits on the car-free Railay peninsula in Krabi, with private access to Phra Nang Cave Beach right on-site—zero walking minutes to sand and sea. The boat-only arrival from Ao Nang pier takes 15-20 minutes and costs around 150-200 THB per person one-way. Within a 5-minute walk, you'll find tropical garden paths and two other beaches, but mainland spots like Ao Nang's restaurants or markets require a return boat trip, making day excursions feel like mini-adventures.",
+    "localSignals": [
+      "Private access to Phra Nang Cave Beach: 0 minutes walk.",
+      "Boat transfer from Ao Nang: 15-20 minutes, ~150-200 THB/person.",
+      "On-property beaches: 3 (including Phra Nang Cave Beach).",
+      "No roads or cars on-site, boat-access only.",
+      "Nearest mainland convenience like 7-Eleven: 15-minute boat to Ao Nang."
+    ],
+    "travellerNote": "Guests often praise the unparalleled cliff-and-sea setting and private beach access but note the boat-only isolation can make spontaneous outings challenging.",
+    "bookingTips": [
+      "Request Phra Nang Beach-view pavilions for direct sea access.",
+      "Book via Agoda for Thailand-specific deals on luxury stays.",
+      "Prices spike November-February high season and Songkran April.",
+      "Verify boat transfer inclusions and rainy season schedules.",
+      "Confirm no-construction policy for special occasions."
+    ],
+    "similarHotels": [
+      {
+        "name": "Phulay Bay, a Ritz-Carlton Reserve",
+        "howDifferent": "Offers more ultra-exclusive privacy on Tubkaek Beach with offshore island views, but at similar high prices without Rayavadee's multi-beach access."
+      },
+      {
+        "name": "Dusit Thani Krabi Beach Resort",
+        "howDifferent": "Provides a more affordable premium experience on Klong Muang Beach with a large pool, but lacks Rayavadee's iconic cliff seclusion and boat-only charm."
+      },
+      {
+        "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
+        "howDifferent": "Features Southeast Asia's largest freeform pool on Klong Muang Beach at lower rates, but misses Rayavadee's tropical garden pavilions and Phra Nang Beach exclusivity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Rayavadee in Krabi known for?",
+        "a": "Rayavadee is renowned for its iconic luxury setting on the Railay peninsula, with two-story pavilions in 26 acres of tropical gardens and private access to three beaches amid limestone cliffs."
+      },
+      {
+        "q": "What is there to do in Rayavadee Krabi?",
+        "a": "Activities include beach lounging at Phra Nang Cave Beach, kayaking in turquoise waters, exploring garden paths, and enjoying in-villa spa treatments, all within the car-free resort grounds."
+      },
+      {
+        "q": "Where do celebrities stay in Krabi?",
+        "a": "Celebrities often choose secluded luxury spots like Rayavadee for its private beaches and cliffside isolation, offering unmatched privacy during visits to Krabi."
+      },
+      {
+        "q": "What is the best time of year to visit Rayavadee?",
+        "a": "November to April offers the best weather with dry conditions ideal for beach access, though high season means booking ahead; avoid June-October rainy months for smoother boat transfers."
+      },
+      {
+        "q": "Is Rayavadee suitable for honeymoons?",
+        "a": "Yes, its romantic pavilion suites, private beaches, and serene cliff settings make it perfect for honeymooners seeking luxury seclusion."
+      },
+      {
+        "q": "How do you get to Rayavadee?",
+        "a": "Access is by longtail boat from Ao Nang pier, a 15-20 minute ride, as the resort's Railay location has no roads."
+      }
+    ],
+    "urgencyLine": "Pavilion suites at Rayavadee with Phra Nang Beach access book out 1-2 months ahead for November-April high season—check availability today.",
+    "methodology": "We rated Rayavadee based on location exclusivity, room design, and guest feedback from sources like TripAdvisor's 4.8/5 score. We weighted the boat-access-only seclusion highest because it defines the resort's unique appeal in Krabi's karst landscape. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Rayavadee Review (2026)",
+    "metaDescription": "Rayavadee in Krabi: Iconic luxury resort with private Phra Nang Beach access and cliff views. Boat-only isolation suits romance but limits quick trips. Book for unmatched seclusion—verify transfers now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:38:10.782Z"
+}

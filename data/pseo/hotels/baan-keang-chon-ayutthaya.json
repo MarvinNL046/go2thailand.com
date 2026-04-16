@@ -1,0 +1,177 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ayutthaya",
+  "cityName": "Ayutthaya",
+  "hotelSlug": "baan-keang-chon-ayutthaya",
+  "hotel": {
+    "name": "Baan Keang Chon Ayutthaya",
+    "category": "budget",
+    "priceRange": "500–900 THB (~14–26 USD) per night",
+    "area": "Riverside / East Bank",
+    "description": "A charming wooden riverside guesthouse with a sun terrace right on the Chao Phraya River. Rooms are simple but well-maintained with A/C, and the common area with river views is a highlight. One of the best budget options for atmosphere and location — watching boats pass by from the terrace at sunset is a highlight.",
+    "highlights": [
+      "Wooden riverside terrace with direct river views",
+      "Air-conditioned rooms with private bathrooms",
+      "Peaceful riverside setting away from traffic",
+      "Close to ferry crossing to the island",
+      "Good budget option with character"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-keang-chon-ayutthaya.html",
+    "reviewScore": "7.8/10",
+    "bestFor": [
+      "Budget couples",
+      "Solo travellers",
+      "River lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "iGoa Adventure — Ayutthaya Hotels",
+        "sourceUrl": "https://igoa-adventure.com/where-to-stay-in-ayutthaya-hotel-guide/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Are Gong Riverside Homestay",
+      "category": "budget",
+      "priceRange": "350–600 THB (~10–17 USD) per night",
+      "area": "Riverside / East Bank",
+      "description": "A simple, family-run guesthouse on the east bank of the Pa Sak River with basic but clean rooms, a shared terrace overlooking the water and genuinely warm Thai hospitality. The owner helps with bicycle rental and local tips. Rooms are fan-cooled with shared bathrooms — no frills, but the riverside location and price make it a backpacker favourite.",
+      "highlights": [
+        "Riverside terrace with views over the Pa Sak River",
+        "Family-run with warm, helpful hosts",
+        "Bicycle rental arranged on-site",
+        "Walking distance to the ferry and train station",
+        "Quiet, local neighbourhood feel"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-are-gong-riverside-homestay.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Breathing Travel — Where to Stay Ayutthaya",
+          "sourceUrl": "https://breathingtravel.com/where-to-stay-in-ayutthaya/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Ayothaya Riverside Hotel",
+      "category": "budget",
+      "priceRange": "600–1,000 THB (~17–29 USD) per night",
+      "area": "Train Station Area / East Bank",
+      "description": "Located just across the street from Ayutthaya train station, this no-frills hotel offers clean rooms with A/C, a minibar and Wi-Fi at very competitive prices. The ferry to the historical island is a 5-minute walk away, and the surrounding streets are full of street food stalls and local restaurants. A practical, well-located base.",
+      "highlights": [
+        "Right next to Ayutthaya train station — ideal if arriving by train",
+        "Air-conditioned rooms with private bathrooms",
+        "Street food stalls and convenience stores nearby",
+        "5-minute walk to the ferry crossing to the island",
+        "Good value for the location"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fayothaya-riverside.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Train travellers",
+        "Budget travellers",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Ayothaya Riverside Hotel",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303897-d629660-Reviews-Ayothaya_Riverside_Hotel-Ayutthaya_Ayutthaya_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Baan Keang Chon Ayutthaya without knowing its simple rooms lack modern frills can lead to disappointment for those expecting more than basic comforts.",
+    "intro": "Baan Keang Chon Ayutthaya offers a charming wooden guesthouse experience right on the Chao Phraya River with well-maintained A/C rooms and a standout sun terrace for river views. It's ideal for budget couples, solo travelers, and river enthusiasts seeking peaceful atmosphere over luxury.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget river lovers",
+      "standout": "Riverside terrace",
+      "noGoFor": "Luxury-seeking families"
+    },
+    "whyBook": [
+      "Direct Chao Phraya River views from wooden terrace",
+      "Air-conditioned rooms with private bathrooms included",
+      "Peaceful east bank setting away from city traffic",
+      "Short walk to ferry for island temple access",
+      "Charming budget vibe with sunset boat watching"
+    ],
+    "whyNotBook": [
+      "Rooms are simple without extras like minibars",
+      "No on-site restaurant or dining options",
+      "Shared common areas can feel crowded at peak times",
+      "Basic maintenance may show in high-humidity weather",
+      "Limited privacy in riverside guesthouse setup"
+    ],
+    "skipIf": "Skip if you need family-sized rooms or on-site pools for kids.",
+    "detailedReview": "Checking into Baan Keang Chon Ayutthaya feels like stepping into a cozy wooden riverside retreat, with friendly staff greeting you at the simple reception area overlooking the Chao Phraya. The room vibe is straightforward: clean, well-maintained spaces with air conditioning and private bathrooms, though furnishings are basic and focused on function over style—think wooden accents matching the guesthouse's charm but no lavish decor. The standout amenity is the wooden riverside terrace, where guests relax with direct river views, often watching boats glide by during sunset, creating a serene highlight in this peaceful east bank spot. Food quality isn't a focus here, as there's no on-site restaurant; nearby eateries provide affordable Thai meals, but you'll need to venture out. Service style is warm and personal, typical of a small guesthouse, with staff happy to share local tips on ferries or temple routes. Typical guests are budget-conscious couples or solo travelers in their 20s-40s, drawn to the characterful location for a relaxed Ayutthaya base away from traffic noise. Overall, it delivers atmospheric value at 500–900 THB per night, scoring 7.8/10 for its riverside appeal, though it suits those prioritizing views and simplicity over amenities.",
+    "locationReality": "Situated on the east bank of the Chao Phraya River in Ayutthaya, Baan Keang Chon Ayutthaya is a short walk from the ferry crossing to the historical island, about 5-10 minutes on foot to reach temples like Wat Mahathat. Within a 5-minute walk, you'll find local riverside eateries and small shops, but the main attractions require the quick ferry ride across. For broader exploration, Grab rides to the train station cost around 100-150 THB, as the area stays quiet and removed from busier roads.",
+    "localSignals": [
+      "Close to ferry crossing to Ayutthaya Island (5-10 min walk)",
+      "Direct views of Chao Phraya River from terrace",
+      "Air-conditioned rooms with private bathrooms standard",
+      "No on-site restaurant; nearby local eateries within 5 min",
+      "Peaceful east bank location away from main traffic"
+    ],
+    "travellerNote": "Guests often praise the relaxing riverside terrace and peaceful setting but note the basic room simplicity and lack of on-site dining.",
+    "bookingTips": [
+      "Request a room with terrace access for best river views",
+      "Check Agoda for lowest rates on this Thai guesthouse",
+      "Prices spike in November-February high season for festivals",
+      "Verify ferry proximity and no construction via recent photos",
+      "Book direct if needing flexible cancellation for river access"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Are Gong Riverside Homestay",
+        "howDifferent": "Cheaper and on Pa Sak River with family-run vibe but smaller terrace."
+      },
+      {
+        "name": "Ayothaya Riverside Hotel",
+        "howDifferent": "Closer to train station with minibars but less characterful riverside charm."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the room amenities at Baan Keang Chon Ayutthaya?",
+        "a": "Rooms feature air conditioning and private bathrooms, kept simple and well-maintained for budget stays."
+      },
+      {
+        "q": "Is Baan Keang Chon Ayutthaya good for solo travelers?",
+        "a": "Yes, its peaceful riverside setting and affordable rates make it ideal for solo explorers seeking atmosphere."
+      },
+      {
+        "q": "How far is the nearest ferry from Baan Keang Chon Ayutthaya?",
+        "a": "It's a short 5-10 minute walk to the ferry crossing for Ayutthaya Island temples."
+      },
+      {
+        "q": "Does Baan Keang Chon Ayutthaya have river views?",
+        "a": "The wooden terrace provides direct Chao Phraya River views, a key highlight for guests."
+      },
+      {
+        "q": "What is the price range for Baan Keang Chon Ayutthaya?",
+        "a": "Nights cost 500–900 THB (about 14–26 USD), positioning it as a top budget option."
+      },
+      {
+        "q": "Is there parking at Baan Keang Chon Ayutthaya?",
+        "a": "Limited on-site parking is available for guests with vehicles, but confirm when booking."
+      }
+    ],
+    "urgencyLine": "Rooms at Baan Keang Chon Ayutthaya with riverside terrace views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Baan Keang Chon Ayutthaya based on location, amenities, value, and guest feedback from verified sources. We weighted atmosphere and riverside access highest because they define its budget appeal in Ayutthaya. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Baan Keang Chon Ayutthaya Review (2026)",
+    "metaDescription": "Baan Keang Chon Ayutthaya in Ayutthaya: Charming wooden guesthouse with Chao Phraya River terrace views and A/C rooms at 500–900 THB. Basic setup lacks…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:41:14.046Z"
+}

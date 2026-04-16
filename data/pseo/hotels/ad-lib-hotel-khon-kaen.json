@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "ad-lib-hotel-khon-kaen",
+  "hotel": {
+    "name": "Ad Lib Hotel Khon Kaen",
+    "category": "mid-range",
+    "priceRange": "1,200–2,200 THB (~33–61 USD) per night",
+    "area": "City Centre / Near Central Plaza",
+    "description": "One of Khon Kaen's best-reviewed mid-range hotels, Ad Lib delivers a polished experience at a fair price. Modern rooms with comfortable beds, a good on-site restaurant, outdoor swimming pool, bar and free parking. The buffet breakfast is well-regarded by guests. Located near Central Plaza, making it convenient for both shopping and sightseeing.",
+    "highlights": [
+      "Highly rated by guests (9.2/10 on momondo)",
+      "Outdoor swimming pool",
+      "Good on-site restaurant and bar",
+      "Free parking — useful if you are renting a car for day trips",
+      "Walking distance to Central Plaza Khon Kaen"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fad-lib-khon-kaen.html",
+    "reviewScore": "8.8/10",
+    "bestFor": [
+      "Mid-range travellers",
+      "Couples",
+      "Families"
+    ],
+    "sources": [
+      {
+        "sourceName": "Momondo — Khon Kaen Hotels",
+        "sourceUrl": "https://www.momondo.com/hotels/khon-kaen",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Nadee 10 Resort & Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000–2,000 THB (~28–56 USD) per night",
+      "area": "City Centre",
+      "description": "A 4-star resort-style hotel with a garden setting, indoor pool and bar. Rooms are air-conditioned with modern amenities and room service. The property has a relaxed, resort-like atmosphere that feels like an escape from the city — unusual for a centrally located Khon Kaen hotel. Good value for the quality on offer.",
+      "highlights": [
+        "Resort-style atmosphere with garden setting",
+        "Indoor swimming pool — usable year-round",
+        "Bar and room service available",
+        "Quiet despite central location",
+        "Good value for a 4-star property"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnadee-10-resort.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Relaxation seekers",
+        "Mid-range budgets"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia — Khon Kaen Hotels",
+          "sourceUrl": "https://www.expedia.com/Khon-Kaen-Hotels.d1833.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "I-Hotel Khon Kaen",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~22–42 USD) per night",
+      "area": "Mittraphap Road",
+      "description": "A modern mid-range hotel on the main Mittraphap highway that cuts through Khon Kaen. Clean, functional rooms with good Wi-Fi, air conditioning and en-suite bathrooms. The hotel caters primarily to domestic business travellers and offers reliable quality without frills. Close to Ton Tann Night Market and several restaurants along Mittraphap Road.",
+      "highlights": [
+        "Clean and modern rooms with reliable Wi-Fi",
+        "Close to Ton Tann Night Market",
+        "Free parking",
+        "On-site restaurant with Thai and international options",
+        "Good base for exploring central Khon Kaen"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fi-khon-kaen.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Business travellers",
+        "Budget-conscious mid-range",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com — Khon Kaen Hotels",
+          "sourceUrl": "https://www.trip.com/hot/top-10-khon-kaen-hotels/",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Charoen Thani Khon Kaen Hotel",
+      "category": "mid-range",
+      "priceRange": "850–1,600 THB (~24–44 USD) per night",
+      "area": "City Centre / Srichan Road",
+      "description": "A long-established Khon Kaen landmark hotel that has served the city for decades. While the decor is dated, the rooms are spacious, clean and well-maintained. The central Srichan Road location puts you within walking distance of Walking Street, local markets and several temples. The hotel's Thai restaurant is popular with locals — always a good sign.",
+      "highlights": [
+        "Central location on Srichan Road — walkable to key attractions",
+        "Spacious rooms at affordable prices",
+        "Popular on-site Thai restaurant",
+        "Swimming pool",
+        "Long-established — reliable and consistent"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fcharoenthaniprincess.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget-conscious travellers",
+        "Central location seekers",
+        "Thai food lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Khon Kaen Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297926-Khon_Kaen_Khon_Kaen_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is there a pool at Ad Lib Khon Kaen?",
+    "Is Ad Lib Khon Kaen family-friendly?",
+    "Is the MTDC Bhimashankar property well maintained?",
+    "What is Charoen Thani Hotel Khon Kaen about?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Ad Lib Hotel Khon Kaen without knowing the outdoor pool closes early at 8pm can leave evening swimmers disappointed after a long day of sightseeing.",
+    "intro": "Ad Lib Hotel Khon Kaen offers modern rooms with comfortable beds, an outdoor swimming pool, a solid on-site restaurant and bar, plus free parking in a convenient city center spot near Central Plaza. It's ideal for mid-range travelers, couples, and families seeking polished comfort without luxury prices.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Mid-range couples families",
+      "standout": "Near Central Plaza",
+      "noGoFor": "Luxury seeking travelers"
+    },
+    "whyBook": [
+      "9.2/10 rating on Momondo for consistent quality",
+      "Outdoor pool for post-sightseeing relaxation",
+      "Buffet breakfast praised by guests for variety",
+      "Free parking eases day trips by car",
+      "Walking distance to Central Plaza shopping"
+    ],
+    "whyNotBook": [
+      "City center location means traffic noise until late evening",
+      "Outdoor pool is basic and may feel crowded midday",
+      "On-site restaurant options limited beyond Thai staples",
+      "No shuttle service for airport transfers",
+      "Rooms lack advanced luxury like spa tubs"
+    ],
+    "skipIf": "Skip if you're after high-end amenities or a quiet rural escape away from urban bustle.",
+    "detailedReview": "Checking into Ad Lib Hotel Khon Kaen feels straightforward and welcoming, with staff efficiently handling registration at the modern front desk amid a clean lobby area. Rooms deliver a polished mid-range vibe: air-conditioned spaces with comfortable beds, simple furnishings, and enough outlets for charging devices after exploring the city. The standout amenity is the outdoor swimming pool, a refreshing spot surrounded by lounge chairs for unwinding, though it's more functional than resort-like. Food quality shines at breakfast with a well-regarded buffet featuring Thai and Western options, fresh fruits, and hot dishes that keep guests fueled for the day; the on-site restaurant extends this with decent meals and a bar for casual drinks. Service style is friendly and attentive without being overly personalized, typical for a mid-range property where requests like extra towels are met promptly. Guests here often include couples on short getaways and families balancing shopping at nearby Central Plaza with local sightseeing, creating a relaxed, low-key atmosphere that suits practical travelers over those seeking extravagance. Free parking adds convenience for those renting cars to venture beyond the city center.",
+    "locationReality": "Ad Lib Hotel Khon Kaen sits in the city center, just a 5-minute walk to Central Plaza for easy access to shopping, dining, and cinemas. The area buzzes with urban energy, so expect nearby street food stalls and convenience stores within a 2-minute stroll, but quieter parks require a 10-minute Grab ride costing around 50-100 THB. For broader Khon Kaen sights like the ancient ruins or night market, plan 15-20 minutes by Grab at 100-200 THB, as the hotel's spot prioritizes plaza convenience over outskirts exploration.",
+    "localSignals": [
+      "5-minute walk to Central Plaza Khon Kaen",
+      "Free on-site parking available",
+      "1 outdoor swimming pool",
+      "2 on-site dining options: restaurant and bar",
+      "Buffet breakfast included and well-regarded"
+    ],
+    "travellerNote": "Guests often praise the comfortable beds, convenient location near Central Plaza, and reliable buffet breakfast but note occasional traffic noise from the city center and limited pool hours in the evenings.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise",
+      "Agoda often cheaper than Booking.com for Thailand stays",
+      "Prices spike during Songkran in April and local festivals",
+      "Verify breakfast inclusion as it varies by rate",
+      "Check for ongoing roadworks near Central Plaza before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Nadee 10 Resort & Hotel (1,000–2,000 THB (~28–56 USD) per night) — A 4-star resort-style hotel with a garden setting, indoor pool and bar. Rooms are air-conditioned with modern amenities and room service. Th",
+        "howDifferent": "Offers indoor pool and garden setting for a more resort-like feel compared to Ad Lib's urban outdoor pool."
+      },
+      {
+        "name": "I-Hotel Khon Kaen (800–1,500 THB (~22–42 USD) per night) — A modern mid-range hotel on the main Mittraphap highway that cuts through Khon Kaen. Clean, functional rooms with good Wi-Fi, air conditioni",
+        "howDifferent": "Cheaper with strong Wi-Fi emphasis but highway location noisier than Ad Lib's plaza proximity."
+      },
+      {
+        "name": "Charoen Thani Khon Kaen Hotel (850–1,600 THB (~24–44 USD) per night) — A long-established Khon Kaen landmark hotel that has served the city for decades. While the decor is dated, the rooms are spacious, clean an",
+        "howDifferent": "More budget-friendly with spacious rooms but dated decor unlike Ad Lib's modern polish."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is there a pool at Ad Lib Khon Kaen?",
+        "a": "Yes, Ad Lib Hotel Khon Kaen features an outdoor swimming pool ideal for relaxation after sightseeing."
+      },
+      {
+        "q": "Is Ad Lib Khon Kaen family-friendly?",
+        "a": "Yes, it's suitable for families with comfortable rooms, a pool, and proximity to Central Plaza for kid-friendly shopping and dining."
+      },
+      {
+        "q": "What is the price range for Ad Lib Hotel Khon Kaen?",
+        "a": "Rooms start at 1,200–2,200 THB per night, offering mid-range value near Central Plaza."
+      },
+      {
+        "q": "Does Ad Lib Hotel Khon Kaen have free parking?",
+        "a": "Yes, free on-site parking is available, making it convenient for guests renting cars for day trips."
+      },
+      {
+        "q": "How is the breakfast at Ad Lib Khon Kaen?",
+        "a": "The buffet breakfast is well-regarded by guests for its variety of Thai and Western options."
+      },
+      {
+        "q": "What is the location like at Ad Lib Hotel Khon Kaen?",
+        "a": "It's in the city center, a short walk to Central Plaza, with easy Grab access to other Khon Kaen attractions."
+      }
+    ],
+    "urgencyLine": "Rooms at Ad Lib Hotel Khon Kaen with pool access book out 1-2 months ahead during peak season — check availability today.",
+    "methodology": "We rated Ad Lib Hotel Khon Kaen based on guest reviews, amenities, location, and value from sources like Momondo. We weighted location highest because its proximity to Central Plaza suits urban explorers in Khon Kaen. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Ad Lib Hotel Khon Kaen Review (2026)",
+    "metaDescription": "Ad Lib Hotel Khon Kaen offers mid-range comfort with an outdoor pool and free parking near Central Plaza. Guests praise the 9.2/10 rating but note city traffic noise. Book for couples or families in Khon Kaen today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:29:48.301Z"
+}

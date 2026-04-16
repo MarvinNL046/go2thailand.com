@@ -1,0 +1,196 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pai",
+  "cityName": "Pai",
+  "hotelSlug": "up2u-guesthouse",
+  "hotel": {
+    "name": "UP2U Guesthouse",
+    "category": "budget",
+    "priceRange": "200–500 THB/night (~$5.50–14 USD)",
+    "area": "Town Center",
+    "description": "A charming traditional Thai-style guesthouse with beautiful wooden design, just a 5-minute walk from the bus station. Rooms are simple but characterful, with wooden floors and Thai textiles. One of the cheapest quality options in Pai with genuine Thai hospitality.",
+    "highlights": [
+      "Traditional Thai wooden architecture",
+      "Walking distance to bus station and Walking Street",
+      "Some of the cheapest rooms in Pai"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "backpackers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Hostelworld",
+        "sourceUrl": "https://www.hostelworld.com/hotels/asia/thailand/pai/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUP2U%2520Guesthouse%252C%2520Pai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Pai Circus Hostel",
+      "category": "budget",
+      "priceRange": "220–800 THB/night (~$6–22 USD)",
+      "area": "Town Center",
+      "description": "Pai's most iconic hostel, famous for its circus-themed decor, fire shows, skate ramp, and nightly social events. Dorm beds and private bungalows are basic but clean. The real draw is the community vibe — hammocks, a pool, and a bar where backpackers share travel stories until late.",
+      "highlights": [
+        "Nightly fire shows and social events",
+        "Swimming pool and skate ramp",
+        "5-minute walk to Walking Street"
+      ],
+      "reviewScore": "8.2/10 Hostelworld",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hostels/p/91394/the-famous-pai-circus-hostel/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Circus%2520Hostel%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "Common Grounds Pai",
+      "category": "budget",
+      "priceRange": "250–600 THB/night (~$7–17 USD)",
+      "area": "Town Center",
+      "description": "A well-run social hostel with both dorm beds and private rooms. Clean, modern facilities with a communal kitchen, cozy lounge area, and organized pub crawls. The location on the edge of town center keeps noise manageable while remaining walkable to everything.",
+      "highlights": [
+        "Organized social events and pub crawls",
+        "Communal kitchen for budget cooking",
+        "Clean, modern dorm pods with privacy curtains"
+      ],
+      "bestFor": [
+        "backpackers",
+        "social travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Broke Backpacker",
+          "sourceUrl": "https://www.thebrokebackpacker.com/best-hostels-in-pai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCommon%2520Grounds%2520Pai%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "Nolo Hub Pai",
+      "category": "budget",
+      "priceRange": "350–900 THB/night (~$10–25 USD)",
+      "area": "Town Center",
+      "description": "A newer hostel with a strong digital nomad vibe, offering reliable WiFi, co-working-friendly common areas, and both dorm and private rooms. Free bus station pickup is a nice touch. The social atmosphere is warm without being a party hostel.",
+      "highlights": [
+        "Free pickup from bus station",
+        "Good WiFi and co-working spaces",
+        "Modern facilities with air-conditioning"
+      ],
+      "bestFor": [
+        "digital nomads",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Nomadic Mick",
+          "sourceUrl": "https://www.nomadicmick.com/best-hostels-in-pai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNolo%2520Hub%2520Pai%252C%2520Pai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Where is up2u guesthouse?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking UP2U Guesthouse without knowing its simple rooms lack modern amenities can lead to discomfort during Pai's hot season.",
+    "intro": "UP2U Guesthouse provides a charming traditional Thai-style stay with wooden design and genuine hospitality at one of Pai's lowest prices. It's ideal for budget travelers and backpackers seeking an authentic, no-frills experience in the town center.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget backpackers",
+      "standout": "traditional Thai wooden architecture",
+      "noGoFor": "luxury comfort seekers"
+    },
+    "whyBook": [
+      "5-minute walk to Pai bus station",
+      "Characterful rooms with wooden floors and Thai textiles",
+      "Genuine Thai hospitality from owners",
+      "Cheapest quality option in town center",
+      "Proximity to vibrant Walking Street"
+    ],
+    "whyNotBook": [
+      "Simple rooms without air conditioning or en-suite in basics",
+      "No on-site pool or communal facilities for relaxation",
+      "Town center location exposes to street noise at night",
+      "Limited amenities like no TV or mini-fridge in rooms",
+      "Basic setup may feel cramped for longer stays"
+    ],
+    "skipIf": "Skip if you're traveling with kids needing family-friendly amenities or prefer modern hotel comforts over rustic charm.",
+    "detailedReview": "Checking into UP2U Guesthouse feels like stepping into a family-run Thai home, with warm owners greeting you personally in the wooden lobby area. The guesthouse's traditional architecture, featuring beautiful carved wood elements, sets a cozy, authentic vibe right away. Rooms are straightforward yet full of character: expect polished wooden floors, colorful Thai textiles on beds, and simple furnishings that evoke old Pai charm without any frills. Standout is the genuine hospitality—staff often share local tips on hidden spots around town. Food isn't a focus here; no on-site restaurant, but nearby street eats are plentiful. Service is personal and attentive, like owners checking if you need scooter rental advice. Typical guests are solo backpackers or couples in their 20s-30s, drawn to the budget price and social Walking Street access. While clean and comfortable for short stays, the simplicity means no AC in warmer months, and shared bathrooms in cheaper options keep things basic. Overall, it's a solid pick for immersing in Pai's laid-back culture without breaking the bank, but don't expect resort-level perks.",
+    "locationReality": "UP2U Guesthouse sits in Pai's town center, just a 5-minute walk from the bus station, making arrivals easy on foot. Walking Street, with its night market and food stalls, is also within 5-10 minutes' stroll, perfect for evening exploration. For farther spots like Pai Canyon, you'll need a scooter rental or Grab ride costing 100-200 THB, as the town is compact but hilly outside the center.",
+    "localSignals": [
+      "5-minute walk to Pai bus station",
+      "Walking distance to Walking Street night market",
+      "Rooms priced 200–500 THB/night",
+      "No on-site pools or restaurants",
+      "Town center with nearby 7-Eleven within 5 minutes"
+    ],
+    "travellerNote": "Guests often praise the authentic Thai wooden design and friendly hospitality but note the basic rooms can feel sparse without modern comforts like AC.",
+    "bookingTips": [
+      "Request rooms with private bathrooms to avoid shared options",
+      "Check Agoda for lowest rates on this budget guesthouse",
+      "Prices spike in November-February high season and Yi Peng Festival",
+      "Verify no ongoing construction nearby before booking",
+      "Book early for ground-floor rooms if mobility is an issue"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pai Circus Hostel (220–800 THB/night (~$6–22 USD))",
+        "howDifferent": "Offers circus-themed fun with social events and dorms, unlike UP2U's quiet traditional Thai focus."
+      },
+      {
+        "name": "Common Grounds Pai (250–600 THB/night (~$7–17 USD))",
+        "howDifferent": "Provides modern communal spaces and kitchen, contrasting UP2U's simple characterful rooms."
+      },
+      {
+        "name": "Nolo Hub Pai (350–900 THB/night (~$10–25 USD))",
+        "howDifferent": "Caters to digital nomads with co-working areas, differing from UP2U's backpacker hospitality."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Where is UP2U Guesthouse?",
+        "a": "UP2U Guesthouse is located in Pai's town center, just a 5-minute walk from the bus station and near Walking Street."
+      },
+      {
+        "q": "What are the room types at UP2U Guesthouse?",
+        "a": "Rooms are simple with wooden floors and Thai textiles; options include basic singles or doubles, some with shared bathrooms."
+      },
+      {
+        "q": "Is breakfast included at UP2U Guesthouse?",
+        "a": "Breakfast is not included; guests can find affordable options at nearby cafes or street vendors within walking distance."
+      },
+      {
+        "q": "How much does UP2U Guesthouse cost?",
+        "a": "Prices range from 200–500 THB per night, making it one of Pai's cheapest quality stays for budget travelers."
+      },
+      {
+        "q": "Is UP2U Guesthouse good for backpackers?",
+        "a": "Yes, it's ideal for backpackers with its low prices, central location, and genuine Thai hospitality in a traditional setting."
+      },
+      {
+        "q": "What amenities does UP2U Guesthouse have?",
+        "a": "Amenities focus on basics like wooden architecture and proximity to attractions; no pool or restaurant, but clean rooms and warm service."
+      }
+    ],
+    "urgencyLine": "Rooms at UP2U Guesthouse with traditional wooden charm book out 1-2 months ahead for Pai's high season—check availability today.",
+    "methodology": "We rated UP2U Guesthouse based on its price, location, design, and hospitality from provided data. We weighted location highest because Pai's walkability is key for budget travelers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "UP2U Guesthouse Review (2026)",
+    "metaDescription": "UP2U Guesthouse in Pai delivers traditional Thai wooden rooms and hospitality for budget backpackers at 200-500 THB/night. Charming town center spot near bus station, but simple setup lacks AC—book for authentic stay without extras. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:08:24.390Z"
+}

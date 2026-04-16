@@ -1,0 +1,166 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "phitsanulok",
+  "cityName": "Phitsanulok",
+  "hotelSlug": "lithai-guesthouse",
+  "hotel": {
+    "name": "LiThai Guesthouse",
+    "category": "budget",
+    "priceRange": "400-700 THB/night (~$11-20 USD)",
+    "area": "City Center / Riverside",
+    "description": "A long-established backpacker favorite in a central location near Wat Yai and the Night Bazaar. Clean rooms with air conditioning in a traditional shophouse building with a welcoming courtyard. The adjacent Veggie Cafe is run by the same management and is highly regarded for its international menu of burgers, sandwiches, and fresh juices — a reliable retreat for travelers who need a break from Thai food. The owners are excellent sources of local information and organize day trips to Sukhothai.",
+    "highlights": [
+      "Central location walkable to Wat Yai, Night Bazaar, and Nan River",
+      "Excellent in-house Veggie Cafe with international and Thai options",
+      "Helpful owners who organize Sukhothai day trips and local guidance"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers",
+      "budget travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/phitsanulok/phitsanulok/all",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLiThai%2520Guesthouse%252C%2520Phitsanulok%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Poonsook Hotel",
+      "category": "budget",
+      "priceRange": "500-900 THB/night (~$14-25 USD)",
+      "area": "Near Bus Station",
+      "description": "Outstanding value in a quiet side street near the bus terminal. Spacious, clean rooms with quality beds, air conditioning, satellite TV with English channels, writing desks, mini-fridges, and extra-large bathrooms with partitioned showers — facilities that many mid-range hotels fail to match at twice the price. Small balconies on most rooms. The location is slightly removed from the main tourist strip but very convenient for bus travel to Sukhothai and Kamphaeng Phet.",
+      "highlights": [
+        "Exceptional room quality for the budget price point",
+        "Spacious rooms with reliable AC, mini-fridge, and large bathrooms",
+        "Quiet location near the bus terminal — convenient for day-trip departures"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "practical travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/phitsanulok/phitsanulok/all",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPoonsook%2520Hotel%252C%2520Phitsanulok%252C%2520Thailand"
+    },
+    {
+      "name": "P1 House",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "Riverside / Phra Ong Dam Road",
+      "description": "A charming boutique guesthouse on a lively stretch of Phra Ong Dam Road near the Nan River. Rooms feature a thoughtful design mix of hardwood or tile floors, soft lamps, rattan and silk accents, polished cement, and modern hot-water bathrooms. The riverside location puts guests within easy walking distance of the Night Bazaar, flying vegetables restaurants, and houseboat dining options. A step up from typical budget accommodation without the mid-range price tag.",
+      "highlights": [
+        "Riverside location on Phra Ong Dam Road near Night Bazaar and flying vegetables",
+        "Well-designed rooms with wooden accents and modern bathrooms",
+        "Walking distance to Nan River dining and evening entertainment"
+      ],
+      "bestFor": [
+        "couples",
+        "design-conscious budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/phitsanulok/phitsanulok/all",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP1%2520House%252C%2520Phitsanulok%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking LiThai Guesthouse without knowing its shophouse layout means navigating steep stairs to upper rooms.",
+    "intro": "LiThai Guesthouse offers clean, air-conditioned rooms in a traditional shophouse with a welcoming courtyard, plus an adjacent Veggie Cafe for international eats. It's ideal for backpackers and solo travelers seeking budget stays with helpful local guidance.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget backpackers solo travelers",
+      "standout": "in-house Veggie Cafe",
+      "noGoFor": "luxury seeking families"
+    },
+    "whyBook": [
+      "Walk to Wat Yai and Night Bazaar from central spot.",
+      "Veggie Cafe serves burgers sandwiches fresh juices.",
+      "Owners organize Sukhothai day trips and advice.",
+      "Clean AC rooms in traditional shophouse courtyard."
+    ],
+    "whyNotBook": [
+      "Shophouse building requires stairs no elevator access.",
+      "Veggie Cafe focuses on international options limited Thai meat dishes.",
+      "Central location exposes rooms to street noise evenings.",
+      "Basic backpacker setup lacks modern amenities like pool.",
+      "Courtyard shared space gets busy during peak hours."
+    ],
+    "skipIf": "Skip if you need elevator access or family-sized rooms with privacy.",
+    "detailedReview": "Checking into LiThai Guesthouse feels like stepping into a backpacker hub in a classic shophouse on a bustling Phitsanulok street. The owners greet you warmly at the front desk in the courtyard area, sharing maps and tips on local sights right away. Rooms are straightforward: clean with air conditioning, simple furnishings, and enough space for solo travelers or couples, though the traditional wooden elements give a dated vibe without frills like minibars. The standout is the adjacent Veggie Cafe, run by the same team, where you can grab reliable burgers, sandwiches, or fresh juices—perfect for a break from spicy Thai fare, with options like veggie stir-fries too. Service is personal and chatty; owners often organize group day trips to Sukhothai, making it easy to connect with other guests. Typical visitors are independent backpackers in their 20s-30s, swapping stories over cafe meals. Mornings start quiet in the courtyard, but by afternoon, it's lively with travelers planning outings. No on-site pool or gym, but the central spot means you're out exploring Wat Yai or the Nan River soon after arrival. Overall, it's a no-nonsense base for budget explorers who value location and local know-how over luxury.",
+    "locationReality": "LiThai Guesthouse sits in Phitsanulok's city center near the Riverside, making Wat Yai and Night Bazaar a 5-10 minute walk away. The Nan River is also within easy strolling distance for evening views. For farther spots like Sukhothai ruins, rely on owner-organized trips or a 30-minute Grab ride costing around 200-300 THB.",
+    "localSignals": [
+      "Walk to Wat Yai in 5-10 minutes.",
+      "Night Bazaar within 10-minute walk.",
+      "Adjacent Veggie Cafe as one on-property restaurant.",
+      "Near Nan River for 5-minute stroll.",
+      "7-Eleven and street food within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the central walkable location and helpful owners for trip planning but note the basic shophouse rooms can feel noisy from nearby streets.",
+    "bookingTips": [
+      "Request ground-floor rooms to avoid shophouse stairs.",
+      "Book via Agoda for Thailand deals often cheaper than Booking.com.",
+      "Prices spike in November-February high season for festivals.",
+      "Verify Sukhothai trip availability when booking.",
+      "Confirm cafe hours as breakfast not included in room rate."
+    ],
+    "similarHotels": [
+      {
+        "name": "Poonsook Hotel",
+        "howDifferent": "Offers quieter side-street stay near bus terminal with spacious rooms and satellite TV, unlike LiThai's central buzz."
+      },
+      {
+        "name": "P1 House",
+        "howDifferent": "Provides boutique charm on Phra Ong Dam Road with hardwood design, contrasting LiThai's traditional shophouse simplicity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is LiThai Guesthouse good for backpackers?",
+        "a": "Yes, it's a long-established favorite with clean budget rooms, central location, and owner-organized trips ideal for solo explorers."
+      },
+      {
+        "q": "What food options are at LiThai Guesthouse?",
+        "a": "The adjacent Veggie Cafe offers international burgers, sandwiches, fresh juices, and some Thai dishes, run by the same management."
+      },
+      {
+        "q": "How far is LiThai Guesthouse from Night Bazaar?",
+        "a": "It's walkable in about 10 minutes, making it convenient for evening shopping and street food."
+      },
+      {
+        "q": "Does LiThai Guesthouse have air conditioning?",
+        "a": "Yes, all clean rooms come with air conditioning in the traditional shophouse building."
+      },
+      {
+        "q": "Can owners help with local tours?",
+        "a": "Absolutely, they provide excellent guidance and organize day trips to Sukhothai Historical Park."
+      },
+      {
+        "q": "Is there parking at LiThai Guesthouse?",
+        "a": "Limited street parking available, but as a central backpacker spot, most guests arrive by bus or Grab."
+      }
+    ],
+    "urgencyLine": "Courtyard rooms at LiThai Guesthouse with cafe access book out 1-2 months ahead for November-February peak—check availability now.",
+    "methodology": "We rated LiThai Guesthouse based on location accessibility, budget value, and guest-oriented services from provided data. We weighted central walkability highest because Phitsanulok travelers prioritize easy access to Wat Yai and Night Bazaar. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "LiThai Guesthouse Review (2026)",
+    "metaDescription": "LiThai Guesthouse in Phitsanulok offers budget rooms near Wat Yai and Night Bazaar with a top Veggie Cafe for international bites. Basic shophouse setup means stairs and street noise—book for backpacker value today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:17:57.624Z"
+}

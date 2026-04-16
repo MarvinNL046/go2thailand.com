@@ -1,0 +1,50 @@
+{
+  "capturedAt": "2026-04-16T16:11:16.665Z",
+  "site": "sc-domain:go2-thailand.com",
+  "range": {
+    "start": "2026-04-07",
+    "end": "2026-04-14"
+  },
+  "totals": {
+    "clicks": 19,
+    "impressions": 5679,
+    "ctr": 0.0033456594470857547,
+    "position": 18.71473851030111
+  },
+  "byBucket": {
+    "other": {
+      "clicks": 17,
+      "impressions": 3873,
+      "pages": 471
+    },
+    "blog": {
+      "clicks": 2,
+      "impressions": 1832,
+      "pages": 54
+    },
+    "best-hotels": {
+      "clicks": 0,
+      "impressions": 41,
+      "pages": 4
+    },
+    "where-to-stay": {
+      "clicks": 0,
+      "impressions": 3,
+      "pages": 2
+    }
+  },
+  "sitemaps": [
+    {
+      "path": "https://go2-thailand.com/sitemap-index.xml",
+      "errors": "0",
+      "warnings": "1",
+      "lastSubmitted": "2026-03-02T10:12:09.907Z"
+    },
+    {
+      "path": "https://go2-thailand.com/sitemap.xml",
+      "errors": "0",
+      "warnings": "1",
+      "lastSubmitted": "2025-05-26T17:14:39.700Z"
+    }
+  ]
+}

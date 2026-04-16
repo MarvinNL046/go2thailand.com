@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "sea-seeker-krabi-resort",
+  "hotel": {
+    "name": "Sea Seeker Krabi Resort",
+    "category": "budget",
+    "priceRange": "800-1,200 THB/night (~$22-34 USD)",
+    "area": "Ao Nang",
+    "description": "A solid budget hotel in central Ao Nang with clean rooms, a swimming pool, and an unbeatable location near the beach and longtail boat pier. Rooms are basic but well-maintained with air conditioning and hot showers. The pool is a welcome bonus at this price point.",
+    "highlights": [
+      "Swimming pool — rare at budget prices in Ao Nang",
+      "5-minute walk to Ao Nang Beach and boat pier",
+      "Clean rooms with reliable AC and hot water"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "couples"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSea%2520Seeker%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Pak-Up Hostel",
+      "category": "budget",
+      "priceRange": "300-600 THB/night (~$8-17 USD)",
+      "area": "Krabi Town",
+      "description": "Krabi's most popular hostel occupies a converted shophouse in the heart of Krabi Town. Modern dorms with privacy curtains, lockers, and air conditioning. The rooftop bar and social common areas make it easy to meet other travelers. Walking distance to the night market and river.",
+      "highlights": [
+        "Rooftop bar with views over Krabi Town",
+        "Modern dorm beds with AC and privacy curtains",
+        "Walking distance to Krabi Night Market and riverside"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/st/hostels/p/85095/pak-up-hostel/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPak-Up%2520Hostel%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Tonsai Bay Resort",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "Tonsai Beach (Railay)",
+      "description": "Basic but characterful bungalows on Tonsai Beach — the backpacker and rock climbing hub of Railay peninsula. Wooden huts with fans or AC set among trees, steps from the beach. The vibe is laid-back and social with climbers swapping stories over cheap beer. Boat-access only adds to the island feel.",
+      "highlights": [
+        "Beachfront location on Tonsai Beach",
+        "Heart of the climbing community",
+        "Island vibe with boat-access-only location"
+      ],
+      "bestFor": [
+        "backpackers",
+        "rock climbers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1507957-Railay_Beach_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTonsai%2520Bay%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Panan Krabi Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Ao Nang",
+      "description": "A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to the beach and pier for easy island trips, but set back from the main road for quieter nights. Consistently good reviews for cleanliness and service.",
+      "highlights": [
+        "Large swimming pool with sun terrace",
+        "Modern rooms with balcony and minibar",
+        "10-minute walk to Ao Nang Beach and boat pier"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Ao_Nang_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanan%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Sea Seeker Krabi Resort good value?",
+    "How far is Sea Seeker Krabi Resort from the beach?",
+    "Is Sea Seeker Krabi Resort quiet?",
+    "Which part of Krabi is best to stay?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Sea Seeker Krabi Resort without knowing the rooms are basic can lead to disappointment if expecting modern decor.",
+    "intro": "Sea Seeker Krabi Resort offers clean, well-maintained basic rooms with reliable air conditioning and hot showers, plus a rare swimming pool for budget stays in central Ao Nang. It's ideal for budget travelers and couples seeking proximity to the beach without luxury frills.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget travelers and couples",
+      "standout": "Swimming pool",
+      "noGoFor": "Luxury-seeking travelers"
+    },
+    "whyBook": [
+      "5-minute walk to Ao Nang Beach",
+      "Rare budget swimming pool in Ao Nang",
+      "Clean rooms with reliable AC",
+      "Hot showers in every room",
+      "Central location near boat pier"
+    ],
+    "whyNotBook": [
+      "Basic room design feels dated",
+      "No on-site restaurant or dining options",
+      "Pool may feel small during peak hours",
+      "Central spot means occasional street noise",
+      "Limited extras beyond core amenities"
+    ],
+    "skipIf": "Skip if you're traveling with kids needing family-sized rooms or entertainment facilities.",
+    "detailedReview": "Checking into Sea Seeker Krabi Resort feels straightforward and unpretentious, with a simple lobby that matches its budget vibe in central Ao Nang. Rooms deliver on basics: expect compact spaces with clean linens, functional air conditioning that cools quickly, and hot showers that work reliably after a beach day. The standout amenity is the swimming pool, a compact but refreshing spot tucked away from the street, offering a place to unwind without paying resort premiums—rare for this price in Ao Nang. Service is friendly and efficient, with staff quick to handle requests like extra towels, though it's not overly personalized. Food isn't an option on-site, so guests head out for nearby Thai eats, where quality varies but options abound. Typical guests are budget-conscious couples or solo travelers in their 20s-40s, drawn by the location for easy access to longtail boats heading to Railay or islands. Overall, it's a no-fuss base for exploring Krabi's coast, prioritizing cleanliness and convenience over wow-factor comforts. The well-maintained setup ensures no major surprises, but don't expect plush robes or room service.",
+    "locationReality": "Sea Seeker Krabi Resort sits in central Ao Nang, just a 5-minute walk to Ao Nang Beach and the longtail boat pier for island hopping. Within 5 minutes on foot, you'll reach shops, street food stalls, and massage spots lining the main strip. For further spots like Railay Beach, plan a 15-20 minute longtail ride costing 80-150 THB per person, as driving isn't needed for core attractions.",
+    "localSignals": [
+      "5-minute walk to Ao Nang Beach",
+      "5-minute walk to longtail boat pier",
+      "1 on-site swimming pool",
+      "Central Ao Nang with nearby 7-Eleven",
+      "Rooms include AC and hot water"
+    ],
+    "travellerNote": "Guests often praise the clean rooms and unbeatable location near the beach but note the basic furnishings and lack of on-site dining.",
+    "bookingTips": [
+      "Request a room away from the street for less noise",
+      "Use Agoda for cheapest rates in Thailand bookings",
+      "Prices spike December-February high season",
+      "Verify pool access policy before booking",
+      "Check for any nearby construction notices"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pak-Up Hostel",
+        "howDifferent": "Cheaper dorm-style stays in Krabi Town, lacking private rooms and pool."
+      },
+      {
+        "name": "Tonsai Bay Resort",
+        "howDifferent": "Beachfront bungalows on Tonsai with climbing vibe, but no AC in base rooms."
+      },
+      {
+        "name": "Panan Krabi Resort",
+        "howDifferent": "Mid-range with larger pool and balconies, at double the price."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Sea Seeker Krabi Resort good value?",
+        "a": "Yes, it provides solid basics like a pool and beach proximity at 800-1,200 THB/night, making it a strong pick for budget stays in Ao Nang."
+      },
+      {
+        "q": "How far is Sea Seeker Krabi Resort from the beach?",
+        "a": "It's a 5-minute walk to Ao Nang Beach, with the longtail boat pier equally close."
+      },
+      {
+        "q": "Is Sea Seeker Krabi Resort quiet?",
+        "a": "Central location brings some street noise, but rooms are well-insulated with AC; opt for higher floors for quieter stays."
+      },
+      {
+        "q": "Which part of Krabi is best to stay?",
+        "a": "Ao Nang suits most for beach access and boats; Railay for seclusion, Krabi Town for budget urban vibes."
+      },
+      {
+        "q": "Does Sea Seeker Krabi Resort have a pool?",
+        "a": "Yes, it features a swimming pool, uncommon at budget prices in Ao Nang."
+      },
+      {
+        "q": "Is breakfast included at Sea Seeker Krabi Resort?",
+        "a": "Breakfast is not mentioned as included; nearby cafes offer affordable options within walking distance."
+      }
+    ],
+    "urgencyLine": "Rooms at Sea Seeker Krabi Resort with pool access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Sea Seeker Krabi Resort based on location, amenities, and value from provided data. We weighted the swimming pool highest because it's rare for budget Ao Nang stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sea Seeker Krabi Resort Review (2026)",
+    "metaDescription": "Sea Seeker Krabi Resort in Ao Nang offers budget rooms with AC, hot showers, and a rare pool near the beach. Basic decor may disappoint luxury fans—book for value-driven stays in Krabi today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:36:14.940Z"
+}

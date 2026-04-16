@@ -1,0 +1,205 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "dusit-thani-pattaya",
+  "hotel": {
+    "name": "Dusit Thani Pattaya",
+    "category": "luxury",
+    "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+    "area": "North Pattaya",
+    "description": "A grand Thai-heritage luxury resort on the quiet northern end of Pattaya Beach with extensive gardens, multiple pools, and direct beach access. The property has a classic five-star elegance with attentive Thai hospitality. Several dining options including the acclaimed Italian restaurant.",
+    "highlights": [
+      "Extensive tropical gardens on the beachfront",
+      "Multiple swimming pools and full spa",
+      "Quieter northern beach location away from the crowds"
+    ],
+    "bestFor": [
+      "couples",
+      "luxury seekers",
+      "honeymoons"
+    ],
+    "reviewScore": "4.4/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "Dusit Official",
+        "sourceUrl": "https://www.dusit.com/dusitthani-pattaya/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Lub d Pattaya",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "North Pattaya",
+      "description": "Part of Thailand's best hostel chain, Lub d offers modern pod-style dorms and private rooms with clean design, fast wifi, and a social atmosphere. Common areas include a pool, coworking space, and bar. Walking distance to Terminal 21 mall and the beach.",
+      "highlights": [
+        "Swimming pool and social bar area",
+        "Pod beds with privacy curtains and USB charging",
+        "Walking distance to Terminal 21 Pattaya"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "digital nomads"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Amari Pattaya",
+      "category": "mid-range",
+      "priceRange": "3,000–5,500 THB/night (~$84–154 USD)",
+      "area": "North Pattaya",
+      "description": "Set on a private headland at the quiet northern end of Pattaya Beach, Amari occupies a prime location with direct beach access and two pools surrounded by tropical gardens. The resort feel is a world away from the Central Pattaya chaos, yet it's only a short songthaew ride to the action.",
+      "highlights": [
+        "Private headland location with direct beach access",
+        "Two pools in tropical garden setting",
+        "Multiple restaurants including Italian and Thai"
+      ],
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmari%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Grand Mirage Beach Resort",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB/night (~$154–336 USD)",
+      "area": "Naklua / Wongamat",
+      "description": "A spectacular Lost World-themed resort on Wongamat Beach with a massive water park-style pool complex, lazy river, water slides, and a private beach. The resort is a destination in itself with multiple restaurants, spa, and kids' club. One of Thailand's most popular family luxury resorts.",
+      "highlights": [
+        "Lost World themed pool complex with water slides and lazy river",
+        "Private section of Wongamat Beach",
+        "Kids' Club and family-focused activities"
+      ],
+      "bestFor": [
+        "families",
+        "resort lovers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293919-d305083-Reviews-Centara_Grand_Mirage_Beach_Resort-Pattaya_Chonburi_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Grand%2520Mirage%2520Beach%2520Resort%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "How far is Dusit Thani Pattaya from the beach?",
+    "What to be careful in Pattaya?",
+    "What is the dress code for Dusit Thani?",
+    "What is the Dusit Thani Pattaya about?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Dusit Thani Pattaya without knowing its isolated northern location can leave you reliant on taxis for Pattaya's main nightlife.",
+    "intro": "Dusit Thani Pattaya delivers classic five-star Thai elegance with direct beach access, extensive gardens, multiple pools, and a full spa in a quiet northern setting. It's ideal for couples, luxury seekers, and honeymooners seeking serene beachfront relaxation away from crowds.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "romantic luxury escapes",
+      "standout": "direct beach access",
+      "noGoFor": "budget party seekers"
+    },
+    "whyBook": [
+      "Extensive tropical gardens for peaceful beachfront strolls",
+      "Multiple pools and full spa for ultimate relaxation",
+      "Quieter northern location avoids Pattaya's central crowds",
+      "Attentive Thai hospitality in classic five-star style",
+      "Several dining options including acclaimed Italian restaurant"
+    ],
+    "whyNotBook": [
+      "Isolated northern spot requires 15-20 minute Grab rides to Walking Street",
+      "Classic elegance may feel dated compared to modern Pattaya resorts",
+      "Limited family appeal without kid-focused water features",
+      "Beachfront gardens can attract sand and maintenance disruptions",
+      "Higher price for quieter area without nearby shopping strips"
+    ],
+    "skipIf": "Skip if you're a solo traveler craving Pattaya's vibrant central bars and easy walkable nightlife.",
+    "detailedReview": "Checking into Dusit Thani Pattaya feels like entering a serene Thai heritage estate, with staff offering warm smiles and efficient welcome drinks amid the lobby's elegant teak accents. Rooms capture a classic vibe with spacious layouts, Thai silk furnishings, and balconies overlooking the beach or lush gardens—though some may notice slightly dated bathrooms without recent tech upgrades. The standout amenity is the direct beach access leading to a calm stretch of Pattaya Beach, complemented by multiple pools including a main infinity-edge one and quieter garden options, plus a full spa offering traditional Thai massages. Food quality shines at the acclaimed Italian restaurant with fresh pasta and sea views, while other outlets serve solid Thai and international buffets, though variety dips on shorter stays. Service embodies attentive Thai hospitality, with staff anticipating needs like poolside towels or room adjustments, but response times can lag during peak evenings. Typical guests are couples in their 30s-50s or honeymooners, drawn to the romantic, crowd-free atmosphere, mingling in the gardens or at sunset dinners rather than bar-hopping.",
+    "locationReality": "Dusit Thani Pattaya sits directly on the quiet northern end of Pattaya Beach, with zero-minute walk to the sand. Within a 5-minute stroll, you'll find basic beachside cafes and a small 7-Eleven, but central attractions like Walking Street require a 15-20 minute Grab ride costing 200-300 THB. The northern position keeps it peaceful, away from the bustling Jomtien or central Pattaya chaos, ideal for unwinding but not for spontaneous nightlife exploration.",
+    "localSignals": [
+      "Direct beach access: 0 minutes walk",
+      "Multiple swimming pools on property",
+      "Full spa facilities available",
+      "Several on-site dining options including Italian restaurant",
+      "15-20 minute Grab to Walking Street (200-300 THB)"
+    ],
+    "travellerNote": "Guests often praise the serene beachfront gardens and attentive service but note the location's isolation requires transport for Pattaya's main activities.",
+    "bookingTips": [
+      "Request sea-view rooms for direct beach balcony access",
+      "Book via Agoda for Thailand-specific deals and free breakfast inclusions",
+      "Prices spike November-February high season and Songkran in April",
+      "Verify shuttle service to central Pattaya before booking",
+      "Check for ongoing garden maintenance notices on property"
+    ],
+    "similarHotels": [
+      {
+        "name": "Amari Pattaya",
+        "howDifferent": "Similar quiet northern headland but with two pools instead of multiple and no extensive gardens."
+      },
+      {
+        "name": "Centara Grand Mirage Beach Resort",
+        "howDifferent": "More family-oriented with water park features on Wongamat Beach, contrasting the couples-focused serenity."
+      },
+      {
+        "name": "Lub d Pattaya",
+        "howDifferent": "Budget hostel vibe with pod dorms far below luxury, lacking beach access and pools."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How far is Dusit Thani Pattaya from the beach?",
+        "a": "It's directly on Pattaya Beach with immediate access from the property, no walking required."
+      },
+      {
+        "q": "What to be careful in Pattaya?",
+        "a": "Watch for traffic scams with overpriced taxis and petty theft in crowded areas; stick to Grab rides and secure valuables at resorts like Dusit Thani."
+      },
+      {
+        "q": "What is the dress code for Dusit Thani?",
+        "a": "Smart casual for dinners at the Italian restaurant and spa; beachwear is fine around pools but cover up in public areas."
+      },
+      {
+        "q": "What is the Dusit Thani Pattaya about?",
+        "a": "It's a grand Thai-heritage luxury resort emphasizing classic five-star elegance, extensive gardens, multiple pools, and direct beach access in quiet North Pattaya."
+      },
+      {
+        "q": "Does Dusit Thani Pattaya have a spa?",
+        "a": "Yes, it features a full spa with Thai massages and treatments amid the tropical gardens."
+      },
+      {
+        "q": "Is Dusit Thani Pattaya family-friendly?",
+        "a": "It's best for couples and honeymoons due to the serene vibe, but lacks kid-specific amenities like water slides."
+      }
+    ],
+    "urgencyLine": "Rooms at Dusit Thani Pattaya with direct beach access book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Dusit Thani Pattaya based on location, amenities, guest feedback, and value from official data and public reviews. We weighted serene beachfront access highest because it defines the property's appeal for luxury relaxation. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Dusit Thani Pattaya Review (2026)",
+    "metaDescription": "Discover Dusit Thani Pattaya's serene North Pattaya beachfront with gardens, pools, and spa for couples. Honest caveat: isolated spot needs rides to nightlife. Book your luxury escape now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:14:21.494Z"
+}

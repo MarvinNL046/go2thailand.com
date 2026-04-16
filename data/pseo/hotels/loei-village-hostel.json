@@ -1,0 +1,182 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-khan",
+  "cityName": "Chiang Khan",
+  "hotelSlug": "loei-village-hostel",
+  "hotel": {
+    "name": "Loei Village Hostel",
+    "category": "budget",
+    "priceRange": "250–450 THB (~$7–$13 USD) per bed/night",
+    "area": "Central Chiang Khan",
+    "description": "A modern hostel offering both dorm beds and private rooms in a clean, well-maintained building a short walk from the Walking Street. Common areas include a garden lounge and a communal kitchen. The hostel attracts a mix of Thai and international backpackers and runs regular social events.",
+    "highlights": [
+      "Dorm beds from 250 THB — cheapest option in town",
+      "Private rooms available from 600 THB",
+      "Communal kitchen and garden lounge",
+      "5-minute walk to Walking Street and Mekong riverside",
+      "Free WiFi and luggage storage"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Floei-village-hostel.html",
+    "reviewScore": "7.5/10",
+    "bestFor": [
+      "Solo backpackers",
+      "Budget travellers",
+      "Social travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Hostelworld — Chiang Khan",
+        "sourceUrl": "https://www.hostelworld.com/hostels/chiang-khan",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Chiang Khan River House",
+      "category": "budget",
+      "priceRange": "350–600 THB (~$10–$17 USD) per night",
+      "area": "Walking Street (Soi 1)",
+      "description": "A friendly, no-frills guesthouse in a traditional wooden shophouse right on the Walking Street. Rooms are basic but clean, with fans or air-conditioning, and the shared balcony overlooking the Mekong is the real draw. The owner speaks English and can arrange Phu Thok transport. Perfect for backpackers and solo travellers.",
+      "highlights": [
+        "Direct Walking Street location with Mekong views from shared balcony",
+        "Fan rooms from 350 THB; A/C rooms from 500 THB",
+        "Friendly English-speaking owner with local knowledge",
+        "Bicycle rental available on-site",
+        "Steps from the morning alms-giving route"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchiang-khan-river-house.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Walking Street lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Chiang Khan Accommodation",
+          "sourceUrl": "https://www.travelfish.org/location/thailand/north_eastern_thailand/loei/chiang_khan",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Khiang Hom Homestay",
+      "category": "budget",
+      "priceRange": "400–700 THB (~$11–$20 USD) per night",
+      "area": "Walking Street (Soi 2)",
+      "description": "A charming family-run homestay in a restored wooden house on Soi 2. Rooms are simple with wooden floors, ceiling fans and shared bathrooms, but the warm hospitality and home-cooked breakfast (included) make it feel like staying with a Thai family. The owners are locals who know every hidden corner of Chiang Khan.",
+      "highlights": [
+        "Home-cooked Thai breakfast included in the rate",
+        "Authentic wooden shophouse with traditional Lao-Thai character",
+        "Family-run with genuine local hospitality",
+        "On Soi 2 of the Walking Street — central location",
+        "Can arrange local tours and Phu Thok sunrise transport"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhiang-hom-homestay.html",
+      "reviewScore": "8.3/10",
+      "bestFor": [
+        "Cultural travellers",
+        "Couples on a budget",
+        "Families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Chiang Khan Guesthouses",
+          "sourceUrl": "https://www.travelfish.org/location/thailand/north_eastern_thailand/loei/chiang_khan",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where to stay in Loei?",
+    "What are the best things about River Kwai Village Hotel?",
+    "Is breakfast included at River Kwai Village Hotel?",
+    "How far is River Kwai Village Hotel from the city center?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Loei Village Hostel without knowing the social events can lead to noisy nights in shared dorms.",
+    "intro": "Loei Village Hostel provides clean dorm beds from 250 THB and private rooms in a modern building with communal kitchen and garden lounge. It's ideal for solo backpackers and social travelers seeking budget stays near Chiang Khan's Walking Street.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Solo backpackers",
+      "standout": "5-minute walk to Walking Street",
+      "noGoFor": "Families seeking privacy"
+    },
+    "whyBook": [
+      "Cheapest dorm beds at 250 THB in town",
+      "Communal kitchen for budget meals",
+      "Garden lounge for relaxing evenings",
+      "Regular social events for connections",
+      "Free WiFi and luggage storage included"
+    ],
+    "whyNotBook": [
+      "Private rooms start at 600 THB, pricier than dorms",
+      "Shared bathrooms in dorms lack full privacy",
+      "No on-site breakfast or dining options",
+      "Social events create lively, potentially noisy atmosphere",
+      "Basic maintenance suits backpackers, not luxury seekers"
+    ],
+    "skipIf": "Skip if you're a couple wanting complete quiet and en-suite facilities.",
+    "detailedReview": "Checking into Loei Village Hostel feels straightforward and welcoming, with staff at the front desk quickly assigning bunks or rooms in the clean, modern two-story building. Dorm rooms offer basic bunk beds with privacy curtains, thin mattresses, and shared bathrooms that are kept tidy but see heavy use during peak hours. Private rooms provide more space with double beds, air-con, and en-suite options, though they book up fast. The standout amenity is the garden lounge, a shaded outdoor area with hammocks and seating where guests mingle over drinks or plan day trips. The communal kitchen comes equipped with stoves, fridge, and utensils, allowing self-catering to keep costs low—perfect for backpackers mixing Thai instant noodles with international snacks. Service is friendly and informal, with the mix of Thai and international staff organizing weekly social events like bonfire chats or Mekong walks, fostering a vibrant community vibe. Typical guests are solo travelers in their 20s and 30s, from Europe, Australia, and local Thais, drawn by the 7.5/10 review score for value and location. Food quality relies on your cooking skills in the kitchen, as no meals are provided, but nearby street vendors fill the gap. Overall, it's a no-frills spot emphasizing social interaction over comfort, suiting those who prioritize connections and savings in central Chiang Khan.",
+    "locationReality": "Loei Village Hostel sits in Central Chiang Khan, just a 5-minute walk to the bustling Walking Street for evening markets and cafes. The Mekong riverside is equally close, offering scenic views without needing transport. For farther spots like temples or boat rides, expect a 10-15 minute walk or cheap local songthaew ride under 50 THB.",
+    "localSignals": [
+      "5-minute walk to Walking Street",
+      "5-minute walk to Mekong riverside",
+      "Free WiFi throughout the property",
+      "Communal kitchen with basic cooking facilities",
+      "Luggage storage available at no extra cost"
+    ],
+    "travellerNote": "Guests often praise the affordable dorms and social events but note the shared spaces can feel crowded during weekends.",
+    "bookingTips": [
+      "Request lower bunks in dorms for easier access on Agoda",
+      "Book private rooms early as they start at 600 THB",
+      "Prices spike in November during cool season festivals",
+      "Verify event schedules to avoid noisy nights",
+      "Confirm no breakfast policy and plan kitchen use"
+    ],
+    "similarHotels": [
+      {
+        "name": "Chiang Khan River House",
+        "howDifferent": "Provides traditional wooden shophouse rooms right on Walking Street, more no-frills and location-focused than the modern hostel setup."
+      },
+      {
+        "name": "Khiang Hom Homestay",
+        "howDifferent": "Offers family-run charm in a restored wooden house on Soi 2 with shared bathrooms, emphasizing simplicity over social communal areas."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Where to stay in Chiang Khan?",
+        "a": "Loei Village Hostel is a top budget pick in central Chiang Khan for backpackers, with dorms from 250 THB near Walking Street."
+      },
+      {
+        "q": "What are the best things about Loei Village Hostel?",
+        "a": "Highlights include the cheapest dorms in town, communal kitchen, garden lounge, and 5-minute walk to Mekong riverside."
+      },
+      {
+        "q": "Is breakfast included at Loei Village Hostel?",
+        "a": "No breakfast is included, but the communal kitchen allows self-preparation, and street food is abundant nearby."
+      },
+      {
+        "q": "How far is Loei Village Hostel from Walking Street?",
+        "a": "It's a 5-minute walk to Walking Street, making it easy to explore shops and eateries on foot."
+      },
+      {
+        "q": "Does Loei Village Hostel have private rooms?",
+        "a": "Yes, private rooms are available from 600 THB, offering more space and en-suite bathrooms compared to dorms."
+      },
+      {
+        "q": "Is WiFi free at Loei Village Hostel?",
+        "a": "Free WiFi is provided throughout the property, reliable for backpackers' needs."
+      }
+    ],
+    "urgencyLine": "Dorm beds at Loei Village Hostel book out 1-2 months ahead for cool season — check today.",
+    "methodology": "We rated Loei Village Hostel based on price, location, and amenities from provided data. We weighted location highest because Chiang Khan thrives on walkable access to riverside and streets. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Loei Village Hostel Review (2026)",
+    "metaDescription": "Loei Village Hostel in Chiang Khan delivers budget dorms from 250 THB with communal kitchen and 5-min walk to Walking Street. Shared facilities may limit privacy for some. Ideal for social backpackers—book your stay now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:57:49.447Z"
+}

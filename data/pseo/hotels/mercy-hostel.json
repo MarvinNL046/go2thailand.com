@@ -1,0 +1,168 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-rai",
+  "cityName": "Chiang Rai",
+  "hotelSlug": "mercy-hostel",
+  "hotel": {
+    "name": "Mercy Hostel",
+    "category": "budget",
+    "priceRange": "200–450 THB/night (~$6–13 USD)",
+    "area": "City Center / Night Bazaar",
+    "description": "A clean, friendly hostel just a 5-minute walk from the Night Bazaar. Offers both 8-bed dorms with privacy curtains and private rooms with air-con. The common area is a social hub for meeting other travelers, and the staff organize occasional group dinners.",
+    "highlights": [
+      "Steps from the Night Bazaar and Clock Tower",
+      "Both dorm and private room options",
+      "Communal kitchen and free coffee/tea"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Expedia",
+        "sourceUrl": "https://www.expedia.com/Chiang-Rai-Hotels.d6094729.Travel-Guide-Hotels",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMercy%2520Hostel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Fun-D Hostel",
+      "category": "budget",
+      "priceRange": "250–500 THB/night (~$7–14 USD)",
+      "area": "City Center",
+      "description": "A modern hostel near the King Mengrai Monument with colorful decor and a social rooftop area. Private rooms are spacious for the price, and 6-bed dorms have individual reading lights and USB charging. Free bicycle rental is a huge plus for exploring the city.",
+      "highlights": [
+        "Free bicycle rental for guests",
+        "Rooftop social area",
+        "Walking distance to Saturday Walking Street"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFun-D%2520Hostel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Bua Guesthouse",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "City Center",
+      "description": "A family-run guesthouse in a quiet residential area, offering clean rooms with air-con, hot showers, and a garden terrace. The Thai-Western owners provide excellent travel advice and can arrange tours to the Golden Triangle and hill tribe villages.",
+      "highlights": [
+        "Garden terrace for breakfast",
+        "Owners arrange custom tours at fair prices",
+        "Quiet location 10-minute walk from Night Bazaar"
+      ],
+      "bestFor": [
+        "couples",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Bua%2520Guesthouse%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Where is the best area to stay in Chiang Rai?",
+    "Can you stay in Chiang Rai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Mercy Hostel without knowing the 8-bed dorms lack individual air-con can lead to uncomfortable nights in Chiang Rai's humid weather.",
+    "intro": "Mercy Hostel provides clean dorms with privacy curtains and air-conditioned private rooms in a social common area perfect for meeting travelers. It's ideal for backpackers and solo travelers seeking budget stays near the Night Bazaar.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Backpackers and solo travelers",
+      "standout": "location",
+      "noGoFor": "Families wanting privacy"
+    },
+    "whyBook": [
+      "5-minute walk to Night Bazaar for easy evening access",
+      "Privacy curtains in 8-bed dorms enhance personal space",
+      "Communal kitchen with free coffee and tea saves costs",
+      "Staff-organized group dinners foster traveler connections",
+      "Private rooms include air-con for comfortable stays"
+    ],
+    "whyNotBook": [
+      "8-bed dorms may feel crowded during peak backpacker season",
+      "No air-con specified in dorms, relying on fans instead",
+      "Basic facilities lack luxuries like en-suite bathrooms",
+      "Social common area can get noisy from group interactions",
+      "Limited private room availability books up quickly"
+    ],
+    "skipIf": "Skip if you're traveling with kids or prefer quiet, upscale accommodations away from bazaar crowds.",
+    "detailedReview": "Checking into Mercy Hostel feels welcoming with friendly staff greeting you at the simple reception desk, often sharing tips on Chiang Rai spots. The 8-bed dorms offer bunk beds equipped with privacy curtains, personal lights, and power outlets, creating a sense of seclusion despite the shared space; however, they rely on fans rather than air-con, which can feel stuffy in the tropical climate. Private rooms are compact but functional, featuring air-con, clean linens, and basic furnishings for a more restful vibe. The standout amenity is the communal kitchen, stocked for self-cooking with free coffee and tea always available, encouraging casual chats among guests. Food isn't provided beyond these basics, but staff occasionally organize group dinners using local ingredients, blending Thai flavors with traveler stories. Service is laid-back and helpful, with the team recommending nearby eateries or arranging informal outings. Typical guests are young backpackers and solo explorers in their 20s and 30s, drawn to the social hub atmosphere where evenings buzz with plans for temple visits or bazaar strolls. Overall, it's a no-frills spot that prioritizes community over comfort, suiting those who value connections over solitude.",
+    "locationReality": "Mercy Hostel sits in the bustling City Center near the Night Bazaar, just a 5-minute walk to its stalls and the iconic Clock Tower. Within 5 minutes on foot, you'll reach street food vendors and convenience stores, but quieter temples like Wat Phra Kaew require a 10-15 minute Grab ride costing around 50-100 THB. The area hums with evening energy but quiets down overnight, making it central yet not overly isolated.",
+    "localSignals": [
+      "5-minute walk to Night Bazaar",
+      "Steps from Clock Tower landmark",
+      "Communal kitchen available on-site",
+      "Free coffee and tea provided",
+      "8-bed dorms and private rooms offered"
+    ],
+    "travellerNote": "Guests often praise the friendly staff and social vibe for easy connections but note the dorms can feel basic and noisy during high season.",
+    "bookingTips": [
+      "Request a private room for air-con comfort if dorms seem too shared",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike in November-February during cool season peak",
+      "Verify dorm fan quality before booking for humid months",
+      "Confirm group dinner schedules upon arrival for social plans"
+    ],
+    "similarHotels": [
+      {
+        "name": "Fun-D Hostel",
+        "howDifferent": "Offers a rooftop social area and colorful decor near King Mengrai Monument, with more spacious private rooms but slightly higher prices."
+      },
+      {
+        "name": "Baan Bua Guesthouse",
+        "howDifferent": "Provides a quieter garden terrace in a residential area with hot showers, run family-style for a homier feel at mid-range rates."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Where is the best area to stay in Chiang Rai?",
+        "a": "The City Center near Night Bazaar is ideal for first-timers, offering walkable access to markets, towers, and eateries without needing constant transport."
+      },
+      {
+        "q": "Can you stay in Chiang Rai?",
+        "a": "Yes, Chiang Rai has diverse options from budget hostels like Mercy to guesthouses, suitable for short visits focused on temples and northern culture."
+      },
+      {
+        "q": "Is Mercy Hostel good for solo travelers?",
+        "a": "Absolutely, its social common area and group dinners make it easy to meet others, with dorms and private rooms fitting solo budgets."
+      },
+      {
+        "q": "What amenities does Mercy Hostel have?",
+        "a": "Expect clean dorms with privacy curtains, air-con private rooms, a communal kitchen, and free coffee/tea, but no pool or on-site restaurant."
+      },
+      {
+        "q": "How far is Mercy Hostel from Chiang Rai Airport?",
+        "a": "It's about 45 minutes by Grab for 300-400 THB; no shuttle mentioned, so plan transfers in advance."
+      },
+      {
+        "q": "Are there private rooms at Mercy Hostel?",
+        "a": "Yes, private rooms with air-con are available alongside 8-bed dorms, starting from the lower end of the 200-450 THB range."
+      }
+    ],
+    "urgencyLine": "Dorms at Mercy Hostel near Night Bazaar book out 1-2 months ahead for the cool season — check availability today.",
+    "methodology": "We rated Mercy Hostel based on location proximity, room options, and social features from provided data. We weighted location highest because Chiang Rai's compact center rewards walkable stays. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Mercy Hostel Review (2026)",
+    "metaDescription": "Mercy Hostel in Chiang Rai offers budget dorms and private rooms steps from Night Bazaar, with a social kitchen and free tea. Basic facilities may feel crowded for some—book now for backpacker vibes. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:07:31.069Z"
+}

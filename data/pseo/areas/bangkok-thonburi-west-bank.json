@@ -1,0 +1,136 @@
+{
+  "template": "area-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "areaSlug": "thonburi-west-bank",
+  "areaName": "Thonburi (West Bank)",
+  "neighborhood": {
+    "name": "Thonburi (West Bank)",
+    "description": "Thonburi occupies the western bank of the Chao Phraya River, directly across from the Grand Palace. Far less touristy than the rest of Bangkok, it is a neighbourhood of traditional wooden houses, orchid farms, Buddhist temples and ancient canals. Wat Arun stands at its northern edge; Wongwian Yai BTS station provides surprisingly good Skytrain access to Silom and beyond.",
+    "bestFor": "Adventurous travellers, canal exploration, off-the-beaten-path Bangkok",
+    "priceLevel": "Budget to mid-range (500–4,000 THB/night)",
+    "highlights": [
+      "Wat Arun on the doorstep — spectacular at any time of day",
+      "Bangkok Noi canal network — genuine local klong life with few tourists",
+      "Talad Noi neighbourhood of historic merchant shophouses",
+      "Wongwian Yai Night Market for cheap local street food",
+      "Significantly quieter and cheaper than the east bank"
+    ],
+    "recommendedHotels": [
+      "Arun Residence (boutique, views of Grand Palace)",
+      "The Bhuthorn (boutique guesthouse)"
+    ],
+    "walkingScore": "6/10 — quieter streets but attractions spread out along the river",
+    "transportNotes": [
+      "Chao Phraya ferry from Tha Tien or Wang Lang piers to east bank temples",
+      "BTS Wongwian Yai station (BTS Silom Line) links to Silom in 20 minutes",
+      "River taxis and private long-tail boats available",
+      "No MRT access — Grab recommended for longer journeys"
+    ],
+    "sources": [
+      {
+        "sourceName": "The Planet D — Bangkok Neighbourhood Guide",
+        "sourceUrl": "https://theplanetd.com/where-to-stay-in-bangkok-neighbourhoods/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Sukhumvit",
+    "Silom & Sathorn",
+    "Khao San & Banglamphu (Old City North)",
+    "Riverside (Charoen Krung & Sathorn Pier)",
+    "Chinatown & Yaowarat"
+  ],
+  "paaQuestions": [
+    "Is Thonburi a good area in Bangkok?",
+    "Which area is best to stay in Bangkok for tourists?",
+    "What to see in Thonburi?",
+    "Is Thonburi a part of Bangkok?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Thonburi (West Bank) can leave you isolated from ferries and Skytrain — most first-timers overlook its spread-out canals and end up walking too far in the heat.",
+    "intro": "Thonburi (West Bank) offers a glimpse into authentic Bangkok life across the Chao Phraya from the tourist crowds, with its wooden houses, orchid farms, and quiet canals. We ranked it highly for adventurous travelers seeking off-the-beaten-path experiences over central bustle.",
+    "vibe": "Traditional + serene",
+    "quickStats": {
+      "priceBand": "€-€€",
+      "walkability": "Medium",
+      "bestFor": "Adventurous canal exploration",
+      "safetyNote": "Safe, quieter streets after dark"
+    },
+    "detailedDescription": "In Thonburi (West Bank), mornings start with locals paddling boats along the Bangkok Noi canal, where narrow waterways lined with stilted wooden homes replace the east bank's high-rises. Residents here are mostly working-class families and small-scale farmers tending orchid plots, creating a neighborhood rhythm of temple chants from sites like Wat Arun and the hum of motorbikes on shaded lanes. Daytime brings a steady flow of ferry commuters crossing to the Grand Palace, but the area stays low-key with few foreign faces amid the market vendors selling fresh rambutan. As evening falls, Wongwian Yai Night Market lights up with sizzling satay stalls and plastic stools for groups sharing som tam, though the overall noise remains subdued compared to Silom's horns. Food leans toward home-style Thai: khao man gai from canal-side carts or fresh seafood at riverside eateries, often under 100 THB a plate. Getting around means relying on the Chao Phraya Express Boat from Tha Tien pier for quick hops or the BTS at Wongwian Yai to reach Sathorn in 20 minutes; otherwise, Grab rides navigate the potholed side streets efficiently, especially since no MRT lines cut through. Nights quiet down early, with only occasional long-tail boat motors echoing, making it ideal for those tired of Bangkok's constant pulse but ready for a short ferry ride to the action.",
+    "localSignals": [
+      "Wongwian Yai BTS station, 10-15 min walk from central Thonburi areas",
+      "Grab from Suvarnabhumi Airport: 400-600 THB, 45-60 min depending on traffic",
+      "Wat Arun: 1-2 km from most Thonburi spots, 20-30 min walk along river",
+      "Noise level at night: quiet, mainly distant ferry horns",
+      "7-Eleven clusters every 500m along main canals and Wongwian Yai road"
+    ],
+    "pros": [
+      "Direct Wat Arun access without crowds",
+      "Cheap street food at Wongwian Yai Market",
+      "Easy ferry to east bank temples",
+      "BTS link to Silom in 20 minutes",
+      "Quieter escapes from tourist hordes"
+    ],
+    "cons": [
+      "Attractions spread out, long walks in heat",
+      "No MRT, Grab needed for longer trips",
+      "Fewer English menus at local eateries",
+      "Limited nightlife beyond night market",
+      "Flood-prone canals during rainy season"
+    ],
+    "skipIf": "Skip if you need constant nightlife or direct MRT access to multiple sites.",
+    "compareTo": [
+      {
+        "areaName": "Silom & Sathorn",
+        "shortPitch": "Silom offers high-rise business vibes and direct BTS/MRT connectivity, contrasting Thonburi's canal quietude and ferry reliance.",
+        "recommendFor": "Business travelers, nightlife seekers"
+      },
+      {
+        "areaName": "Khao San & Banglamphu (Old City North)",
+        "shortPitch": "Khao San buzzes with backpacker bars and street parties right by the Old City, unlike Thonburi's subdued temple-and-canal focus.",
+        "recommendFor": "Partygoers, budget backpackers"
+      },
+      {
+        "areaName": "Riverside (Charoen Krung & Sathorn Pier)",
+        "shortPitch": "Riverside delivers luxury hotels and river views with easier east bank access, differing from Thonburi's local, less polished west bank feel.",
+        "recommendFor": "Luxury seekers, river cruisers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the peaceful canal boat rides and authentic local markets but note the need for planning transport due to spread-out sights and limited public options.",
+    "faq": [
+      {
+        "q": "Is Thonburi a good area in Bangkok?",
+        "a": "Yes, Thonburi suits adventurous types wanting quieter, authentic Bangkok away from crowds—opt for stays near Wongwian Yai BTS for easy access."
+      },
+      {
+        "q": "Which area is best to stay in Bangkok for tourists?",
+        "a": "For off-the-beaten-path vibes, Thonburi edges out busier spots like Khao San; compare areas based on your priorities like walkability or nightlife."
+      },
+      {
+        "q": "What to see in Thonburi?",
+        "a": "Key sights include Wat Arun's riverside towers, the Bangkok Noi canal network for boat tours, and Talad Noi's historic shophouses—start with a ferry from Tha Tien."
+      },
+      {
+        "q": "Is Thonburi a part of Bangkok?",
+        "a": "Yes, Thonburi is Bangkok's west bank district across the Chao Phraya, historically separate but now fully integrated with good transport links."
+      },
+      {
+        "q": "How to get around Thonburi?",
+        "a": "Use Chao Phraya ferries from Tha Tien or Wang Lang piers, BTS at Wongwian Yai for Silom, or Grab for canal-side spots—avoid peak rush hours."
+      },
+      {
+        "q": "Is Thonburi safe for solo travelers?",
+        "a": "Generally safe with low crime, but stick to lit paths at night and use reputable boats; it's calmer than central areas like Chinatown."
+      }
+    ],
+    "urgencyLine": "Budget guesthouses near Wongwian Yai fill up fast during Wat Arun festival seasons—book 1-2 months ahead for 2026 stays.",
+    "methodology": "We compared Thonburi (West Bank) to Silom & Sathorn and Khao San & Banglamphu (Old City North) based on walkability, price level, noise, and suitability for its typical travellers. We weighted off-the-beaten-path access highest because it defines Thonburi's appeal for canal explorers over urban convenience. Last updated: 2026-04.",
+    "metaTitle": "Staying in Thonburi (West Bank), Bangkok (2026)",
+    "metaDescription": "Discover staying in Thonburi (West Bank), Bangkok: quieter canals, Wat Arun access, and budget stays from 500 THB/night. Compare areas and see hotels for…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:16:47.788Z"
+}

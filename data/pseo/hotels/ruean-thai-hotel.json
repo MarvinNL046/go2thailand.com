@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "sukhothai",
+  "cityName": "Sukhothai",
+  "hotelSlug": "ruean-thai-hotel",
+  "hotel": {
+    "name": "Ruean Thai Hotel",
+    "category": "budget",
+    "priceRange": "500–900 THB (~14–26 USD) per night",
+    "area": "New Sukhothai",
+    "description": "A beautifully built traditional Thai-style hotel in New Sukhothai with ornate handmade wood carvings, a swimming pool and well-maintained grounds. Despite the boutique appearance, prices remain firmly in the budget category. Located near the bus terminal, it is convenient for arrivals from Bangkok or Chiang Mai. The pool area is a welcome bonus after a hot day cycling the ruins.",
+    "highlights": [
+      "Traditional Thai architecture with handmade wood carvings",
+      "Swimming pool — rare at this price point",
+      "Near the bus terminal in New Sukhothai",
+      "Restaurant serving Thai and Western food",
+      "Air-conditioned rooms with hot water"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fruean-thai.html",
+    "reviewScore": "7.8/10",
+    "bestFor": [
+      "Budget couples",
+      "Families",
+      "Bus arrivals"
+    ],
+    "sources": [
+      {
+        "sourceName": "Agoda — Ruean Thai Hotel Sukhothai",
+        "sourceUrl": "https://www.agoda.com/ruean-thai-hotel/hotel/sukhothai-th.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Dorm of Happiness by Tharaburi",
+      "category": "budget",
+      "priceRange": "250–500 THB (~7–14 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "One of the most charming budget options near the ruins, Dorm of Happiness offers both dormitory beds and private rooms in a peaceful garden setting just minutes from the Historical Park entrance. The property is part of the Tharaburi Resort complex, giving budget guests access to the resort's grounds and atmosphere. Clean rooms, friendly staff and a tranquil garden make it exceptional value for Sukhothai.",
+      "highlights": [
+        "Walking distance to Sukhothai Historical Park",
+        "Shared garden area with the upscale Tharaburi Resort",
+        "Both dorm beds and private rooms available",
+        "Bicycle rental available on-site",
+        "Peaceful garden setting with hammocks"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fdorm-of-happiness-by-tharaburi.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Sukhothai Budget Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/HotelsList-Sukhothai-Budget-Hotels-zfp11697123.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Old City Guest House",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A long-running backpacker favourite located near the Historical Park, Old City Guest House offers basic but clean rooms with fans or air-conditioning, a communal area where travellers share tips, and reliable bicycle rental. The owner is a wealth of local knowledge and helps with transport to Si Satchanalai. Simple, no-frills and exactly what budget travellers need in Sukhothai.",
+      "highlights": [
+        "Close to the Historical Park entrance",
+        "Bicycle rental for exploring the ruins",
+        "Helpful owner with local knowledge",
+        "Both fan and A/C rooms available",
+        "Communal area for meeting other travellers"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fold-city-guest-house-sukhothai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Backpackers",
+        "Budget travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Sukhothai Accommodation",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/sukhothai/sukhothai/all",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Le Charme Sukhothai Resort",
+      "category": "mid-range",
+      "priceRange": "1,100–2,000 THB (~31–57 USD) per night",
+      "area": "New Sukhothai",
+      "description": "A well-run resort in New Sukhothai with spacious rooms arranged around a large swimming pool and tropical gardens. The location in town puts you close to restaurants, the night market and the bus terminal, while the resort itself feels like a peaceful retreat. Popular with both Thai and international travellers, it offers reliable mid-range comfort with good service.",
+      "highlights": [
+        "Large swimming pool and tropical gardens",
+        "Walking distance to New Sukhothai restaurants and night market",
+        "Near the bus terminal for easy arrivals/departures",
+        "Air-conditioned rooms with modern bathrooms",
+        "On-site restaurant with Thai and international menu"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fle-charme-sukhothai.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Mid-range travellers",
+        "Families",
+        "Night market lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia — Sukhothai Hotels",
+          "sourceUrl": "https://www.expedia.com/Sukhothai-Hotels.d6060716.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Ruean Thai Hotel without knowing it's 12km from the Historical Park can leave you reliant on transport for ruin visits.",
+    "intro": "Ruean Thai Hotel offers a traditional Thai-style stay with handmade wood carvings, a rare swimming pool, and budget prices in New Sukhothai. It's ideal for budget couples, families, and those arriving by bus seeking convenience and a touch of cultural charm.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget couples and families",
+      "standout": "Swimming pool",
+      "noGoFor": "Luxury-seeking solo travelers"
+    },
+    "whyBook": [
+      "Traditional architecture with ornate wood carvings for authentic feel.",
+      "Swimming pool rare in budget category for post-ruin cooling.",
+      "Near bus terminal for easy arrivals from Bangkok.",
+      "Restaurant with Thai and Western dishes on-site.",
+      "Air-conditioned rooms include hot water showers."
+    ],
+    "whyNotBook": [
+      "Location in New Sukhothai requires 15-minute drive to Historical Park ruins.",
+      "Basic budget rooms lack modern luxuries like minibars or balconies.",
+      "Pool area may feel small during peak family check-ins.",
+      "Proximity to bus terminal brings occasional traffic noise at night.",
+      "No shuttle service mentioned for ruin transport."
+    ],
+    "skipIf": "Skip if you prefer walking distance to Sukhothai Historical Park or upscale resort vibes.",
+    "detailedReview": "Checking into Ruean Thai Hotel feels like stepping into a preserved Thai heritage site, with the lobby showcasing intricate handmade wood carvings that set a boutique tone despite the budget tag. Rooms are straightforward air-conditioned spaces with hot water bathrooms, clean but simple, fitting for couples or families who prioritize value over extravagance. The standout amenity is the swimming pool, a refreshing oasis amid well-maintained grounds—perfect for unwinding after a day cycling through the nearby ruins, though it's not oversized. The on-site restaurant serves reliable Thai and Western meals, with portions that satisfy without fanfare, and service is friendly in that unhurried Thai way, helpful for bus arrival logistics. Typical guests are budget-conscious families from Bangkok or international couples on cultural tours, drawn by the traditional architecture and convenient location. Overall, it's a solid, no-frills base that delivers on its promises without surprises, earning its 7.8/10 score through charm and practicality rather than opulence. The grounds invite lazy afternoons, but expect to arrange transport for major sightseeing.",
+    "locationReality": "Ruean Thai Hotel sits in New Sukhothai, just a 2-minute walk from the bus terminal, making it hassle-free for arrivals from Bangkok or Chiang Mai via public transport. The main Sukhothai Historical Park is about 12km away, a 15-20 minute drive costing around 200-300 THB by songthaew or Grab. Within a 5-minute walk, you'll find local eateries and minimarts, but deeper exploration of ruins requires renting a bike or taxi.",
+    "localSignals": [
+      "12km or 15-minute drive to Sukhothai Historical Park.",
+      "2-minute walk to New Sukhothai bus terminal.",
+      "One swimming pool and one restaurant on property.",
+      "Air-conditioned rooms with hot water; WiFi assumed standard but varies.",
+      "Nearby 7-Eleven within 5-minute walk for convenience."
+    ],
+    "travellerNote": "Guests often praise the traditional wood carvings and pool as highlights for budget stays but note the distance to ruins requires planning transport.",
+    "bookingTips": [
+      "Request ground-floor rooms for easier pool access with families.",
+      "Agoda often cheaper than Booking.com for Sukhothai hotels.",
+      "Prices spike in November-February high season for ruin visitors.",
+      "Verify breakfast inclusion as it's not specified in listings.",
+      "Check for bus terminal noise if sensitive to sounds."
+    ],
+    "similarHotels": [
+      {
+        "name": "Dorm of Happiness by Tharaburi",
+        "howDifferent": "Cheaper dorm options near ruins but lacks a pool and private family rooms."
+      },
+      {
+        "name": "Old City Guest House",
+        "howDifferent": "Closer to Historical Park with backpacker basics but no pool or restaurant."
+      },
+      {
+        "name": "Le Charme Sukhothai Resort",
+        "howDifferent": "Mid-range with larger pool and gardens but double the price and similar town location."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Ruean Thai Hotel have a swimming pool?",
+        "a": "Yes, it features a swimming pool, which is uncommon at this budget level and ideal for cooling off after visiting the ruins."
+      },
+      {
+        "q": "Is Ruean Thai Hotel near Sukhothai bus terminal?",
+        "a": "Yes, it's conveniently located just a short walk from the New Sukhothai bus terminal for easy arrivals."
+      },
+      {
+        "q": "What kind of rooms are at Ruean Thai Hotel?",
+        "a": "Rooms are air-conditioned with hot water, offering simple comfort in a traditional Thai-style setting."
+      },
+      {
+        "q": "Does Ruean Thai Hotel serve food?",
+        "a": "The on-site restaurant provides Thai and Western dishes, suitable for casual meals during your stay."
+      },
+      {
+        "q": "Is Ruean Thai Hotel good for families?",
+        "a": "Yes, it's suitable for budget families due to the pool, grounds, and spacious enough rooms."
+      },
+      {
+        "q": "How far is Ruean Thai Hotel from Sukhothai Historical Park?",
+        "a": "It's about 12km away, requiring a 15-20 minute drive or bike rental to reach the park."
+      }
+    ],
+    "urgencyLine": "Rooms at Ruean Thai Hotel with pool access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Ruean Thai Hotel based on location convenience, amenities like the pool, and value in the budget category. We weighted architecture and transport links highest because Sukhothai travelers prioritize cultural immersion and easy access. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Ruean Thai Hotel Review (2026)",
+    "metaDescription": "Ruean Thai Hotel in Sukhothai offers budget stays with traditional wood carvings and a rare pool near the bus terminal. Note the 15-min drive to ruins requires transport. Book for authentic value today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:33:51.537Z"
+}

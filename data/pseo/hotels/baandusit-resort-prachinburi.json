@@ -1,0 +1,203 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "prachinburi",
+  "cityName": "Prachinburi",
+  "hotelSlug": "baandusit-resort-prachinburi",
+  "hotel": {
+    "name": "Baandusit Resort Prachinburi",
+    "category": "mid-range",
+    "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+    "area": "Prachinburi / Kabin Buri",
+    "description": "A well-appointed resort with comfortable rooms, a good-sized swimming pool, and a fully equipped Thai restaurant. Reasonably modern facilities and professional service make this the reliable mid-range choice for visitors who want predictable standards. Central enough for access to both town attractions and national park day trips. Popular with Thai business visitors and Bangkok weekend families.",
+    "highlights": [
+      "Good-sized swimming pool and Thai restaurant",
+      "Modern rooms with reliable facilities",
+      "Central location for town and park day trips"
+    ],
+    "reviewScore": "4.0/5 Booking.com",
+    "bestFor": [
+      "couples",
+      "families",
+      "business travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Trip.com Prachinburi Hotels",
+        "sourceUrl": "https://www.trip.com/hotels/prachinburi-hotels-list-61573/",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaandusit%2520Resort%2520Prachinburi%252C%2520Prachinburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Story Telling House Prachinburi Herb Town",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "Prachinburi Town / Riverside",
+      "description": "A well-reviewed boutique accommodation and restaurant on the Prachinburi River, combining herb garden settings, Thai herbal wellness experiences, and comfortable rooms. The riverside location is atmospheric and the on-site Thai restaurant serves food incorporating local herbs and organic ingredients. A genuinely characterful option that reflects Prachinburi's identity better than a generic hotel.",
+      "highlights": [
+        "Riverside location with herb garden",
+        "On-site restaurant with local herb-infused Thai cuisine",
+        "Boutique character in a generic market"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "wellness seekers",
+        "food enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor Prachinburi Restaurants",
+          "sourceUrl": "https://www.tripadvisor.com/Restaurants-g982714-Prachin_Buri_Prachin_Buri_Province.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStory%2520Telling%2520House%2520Prachinburi%2520Herb%2520Town%252C%2520Prachinburi%252C%2520Thailand"
+    },
+    {
+      "name": "Khaoyai Garden Lodge",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Kabin Buri / Khao Yai East Zone",
+      "description": "A forest lodge resort positioned for access to Khao Yai's eastern entrance via Prachinburi. Comfortable wood-accented bungalows in a forested garden setting with a swimming pool and open-air restaurant serving Thai food. Staff can arrange national park tours, wildlife watching, and local guide services. The forest setting means guests sometimes spot wildlife in the gardens at dawn.",
+      "highlights": [
+        "Forest bungalow setting near Khao Yai east entrance",
+        "Swimming pool and open-air restaurant",
+        "In-house guide services for national park visits"
+      ],
+      "reviewScore": "4.1/5 TripAdvisor",
+      "bestFor": [
+        "nature lovers",
+        "couples",
+        "wildlife enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor Prachinburi Province Resorts",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g2098630-zff8-Prachin_Buri_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKhaoyai%2520Garden%2520Lodge%252C%2520Prachinburi%252C%2520Thailand"
+    },
+    {
+      "name": "Na Di Forest Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-2,800 THB/night (~$42-78 USD)",
+      "area": "Na Di District / Thap Lan area",
+      "description": "A riverside and forest resort in Na Di district, one of the closest accommodation options to Thap Lan National Park's Route 304 entrance. Thai-style wooden bungalows set among trees near a stream. The location makes dawn national park visits effortless — the park entrance is a short drive away. Staff can help with bamboo rafting bookings and local guide arrangements.",
+      "highlights": [
+        "Closest resort to Thap Lan National Park Route 304 entrance",
+        "Thai wooden bungalows in forest setting",
+        "Bamboo rafting bookings and local guide arrangements available"
+      ],
+      "bestFor": [
+        "nature travelers",
+        "birdwatchers",
+        "national park explorers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com Prachinburi",
+          "sourceUrl": "https://www.booking.com/region/th/prachinburi.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNa%2520Di%2520Forest%2520Resort%252C%2520Prachinburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Dusit a good place to stay in Bangkok?",
+    "Which hotel group is dusit hotel?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Baandusit Resort Prachinburi without knowing its popularity with Thai business visitors can lead to noisy weekends from Bangkok families arriving en masse.",
+    "intro": "Baandusit Resort Prachinburi offers comfortable rooms, a good-sized swimming pool, and a fully equipped Thai restaurant in a reasonably modern setup with professional service. It's ideal for couples, families, and business travelers seeking predictable mid-range standards near town attractions and national park day trips.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples families business",
+      "standout": "good-sized swimming pool",
+      "noGoFor": "luxury seeking adventurers"
+    },
+    "whyBook": [
+      "Access central location for town sights and park trips",
+      "Enjoy modern rooms with reliable facilities",
+      "Relax in good-sized swimming pool after drives",
+      "Dine at fully equipped Thai restaurant on-site",
+      "Benefit from professional service for business needs"
+    ],
+    "whyNotBook": [
+      "No spa or wellness facilities for relaxation seekers",
+      "Restaurant limited to Thai cuisine only",
+      "Rooms may feel basic compared to urban hotels",
+      "Pool area attracts crowds from local visitors",
+      "Limited activities beyond pool and dining"
+    ],
+    "skipIf": "Skip if you're after eco-lodges or adventure bases near park entrances rather than town convenience.",
+    "detailedReview": "Checking into Baandusit Resort Prachinburi feels straightforward and efficient, with professional staff handling the process quickly for business travelers or families. Rooms deliver a comfortable, modern vibe with reliable facilities like air conditioning and basic amenities, though they lean functional rather than stylish—think clean lines and neutral tones suited for short stays. The standout amenity is the good-sized swimming pool, perfect for cooling off after day trips to nearby national parks, surrounded by enough lounge space for families without feeling cramped. Food quality at the fully equipped Thai restaurant shines with authentic dishes like tom yum and pad Thai, prepared fresh but sticking to traditional flavors without international options. Service style is polite and attentive, especially for Thai guests, ensuring smooth requests for extra towels or transport advice. Typical guests include Bangkok weekend families splashing in the pool and local business visitors using it as a reliable base, creating a mix of relaxed and purposeful energy. Overall, it maintains predictable mid-range standards, making it a safe pick for those prioritizing convenience over extravagance, though multi-night stays might highlight the lack of varied entertainment.",
+    "locationReality": "Situated in Kabin Buri area of Prachinburi, the resort is central for town attractions like local markets, reachable in 10-15 minutes by car or Grab for about 100-200 THB. National park day trips to Thap Lan are feasible within 30-45 minutes drive, but no walking paths to nature spots. Within a 5-minute walk, expect quiet residential vibes with no major eateries, requiring a short drive for convenience stores.",
+    "localSignals": [
+      "10-15 min drive to Kabin Buri town center",
+      "30-45 min to Thap Lan National Park entrance",
+      "1 swimming pool and 1 Thai restaurant on-site",
+      "Central for Prachinburi town attractions",
+      "Popular with Thai business and family visitors"
+    ],
+    "travellerNote": "Guests often praise the reliable facilities and central location for easy day trips but note the restaurant's limited menu variety and occasional weekend crowds from local families.",
+    "bookingTips": [
+      "Request pool-view rooms for quieter stays away from main areas",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike in November-February high season for park visitors",
+      "Verify breakfast inclusion as it's not always standard",
+      "Book early for weekends when Bangkok families fill up"
+    ],
+    "similarHotels": [
+      {
+        "name": "Story Telling House Prachinburi Herb Town (1,500-2,500 THB/night (~$42-70 USD)) — A well-reviewed boutique accommodation and restaurant on the Prachinburi River, combining herb garden settings, Thai herbal wellness experie",
+        "howDifferent": "Offers riverside herb garden wellness instead of town-central pool access."
+      },
+      {
+        "name": "Khaoyai Garden Lodge (1,800-3,000 THB/night (~$50-84 USD)) — A forest lodge resort positioned for access to Khao Yai's eastern entrance via Prachinburi. Comfortable wood-accented bungalows in a foreste",
+        "howDifferent": "Provides forest bungalows near Khao Yai, more nature-focused than urban convenience."
+      },
+      {
+        "name": "Na Di Forest Resort (1,500-2,800 THB/night (~$42-78 USD)) — A riverside and forest resort in Na Di district, one of the closest accommodation options to Thap Lan National Park's Route 304 entrance. Th",
+        "howDifferent": "Riverside setup closer to Thap Lan Park, emphasizing forest immersion over town proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Baandusit Resort Prachinburi a good mid-range option?",
+        "a": "Yes, it provides comfortable rooms, a good-sized pool, and professional service for predictable stays. It's best for those needing central access to town and parks."
+      },
+      {
+        "q": "What amenities does Baandusit Resort Prachinburi offer?",
+        "a": "Key features include modern rooms, a swimming pool, and a Thai restaurant. Facilities are reliable but focused on basics without extras like spas."
+      },
+      {
+        "q": "Is Dusit a good place to stay in Bangkok?",
+        "a": "Dusit hotels in Bangkok offer upscale comfort and central locations, making them a solid choice for business or leisure. However, Baandusit in Prachinburi is a separate mid-range resort outside the city."
+      },
+      {
+        "q": "Which hotel group is Dusit hotel?",
+        "a": "Dusit International is the group behind Dusit hotels, known for properties in Thailand and Asia. Baandusit Resort Prachinburi appears affiliated but operates as a local mid-range option."
+      },
+      {
+        "q": "Best time to visit Prachinburi for hotel stays?",
+        "a": "November to February offers cooler weather ideal for park trips, though prices rise. Avoid rainy season June-October for outdoor plans."
+      },
+      {
+        "q": "How far is Baandusit Resort from national parks?",
+        "a": "It's centrally located for 30-45 minute drives to Thap Lan National Park, making day trips convenient without being right at the entrance."
+      }
+    ],
+    "urgencyLine": "Rooms at Baandusit Resort Prachinburi with pool access book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Baandusit Resort Prachinburi based on guest reviews, amenities, location, and value from sources like Booking.com. We weighted location highest because Prachinburi travelers prioritize access to parks and town. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Baandusit Resort Prachinburi Review (2026)",
+    "metaDescription": "Baandusit Resort Prachinburi offers mid-range comfort with a good-sized pool and Thai restaurant in Kabin Buri. Central for park day trips, but limited menu variety may disappoint foodies. Book for reliable stays in Prachinburi today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:25:44.477Z"
+}

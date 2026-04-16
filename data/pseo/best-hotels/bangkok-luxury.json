@@ -1,0 +1,289 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "category": "luxury",
+  "hotels": [
+    {
+      "name": "Mandarin Oriental Bangkok",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB (~343–1,000 USD) per night",
+      "area": "Riverside (Charoen Krung)",
+      "description": "Opened in 1876, the Mandarin Oriental is one of the world's great hotels and consistently rated Asia's finest. Its Authors' Wing houses legendary suites named after Somerset Maugham, Joseph Conrad and Noel Coward, who all stayed here. Two Michelin-starred Le Normandie restaurant, a world-class spa and timeless riverside elegance set it apart.",
+      "highlights": [
+        "One of the world's oldest and most celebrated hotels, opened 1876",
+        "Two Michelin-starred Le Normandie restaurant",
+        "Legendary Authors' Suites named after literary giants",
+        "Riverside pool with Chao Phraya views",
+        "Complimentary tuk-tuk and river ferry service for guests",
+        "Thai cooking school in a converted 1870s house"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMandarin%2520Oriental%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.4/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Special occasions",
+        "Foodies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Mandarin Oriental Bangkok Official",
+          "sourceUrl": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/stay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "The Peninsula Bangkok",
+      "category": "luxury",
+      "priceRange": "10,000–28,000 THB (~286–800 USD) per night",
+      "area": "Riverside (Silom)",
+      "description": "The Peninsula Bangkok commands a prime position on the west bank of the Chao Phraya River with three-tiered pool terraces descending to the water's edge. All rooms face the river, and the hotel's iconic sky-blue shuttle boats transport guests to the BTS Skytrain and shopping districts. Consistently ranked among Asia's top 10 hotels.",
+      "highlights": [
+        "Three-tier outdoor pool directly on the Chao Phraya River",
+        "All 370 rooms face the river — no bad views",
+        "Peninsula sky-blue boat shuttle to BTS Taksin station",
+        "Thai, Cantonese and Italian fine dining restaurants",
+        "Award-winning 1,200 sqm Peninsula Spa",
+        "Helipad for private arrivals"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Peninsula%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.5/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Family luxury",
+        "Business VIPs"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Peninsula Bangkok Official",
+          "sourceUrl": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chatrium Hotel Riverside Bangkok",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB (~157–343 USD) per night",
+      "area": "Riverside",
+      "description": "A 5-star riverfront hotel near Asiatique The Riverfront with spacious suites, multiple pools, a full spa and stunning Chao Phraya views. Chatrium Riverside is excellent value in the luxury segment — you get genuine 5-star facilities and a prime riverside location at prices well below Mandarin Oriental and The Peninsula.",
+      "highlights": [
+        "4 swimming pools including a children's pool",
+        "All riverside rooms have balconies with Chao Phraya views",
+        "Direct access to Asiatique The Riverfront night market",
+        "Full-service spa and gym",
+        "Multiple dining venues including a rooftop bar",
+        "Complimentary shuttle boat to BTS Taksin station"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchatrium-riverside-bangkok.html",
+      "reviewScore": "9.1/10",
+      "bestFor": [
+        "Families",
+        "Couples",
+        "Value luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com — Chatrium Riverside",
+          "sourceUrl": "https://www.hotels.com/ho311257/chatrium-hotel-riverside-bangkok-bangkok-thailand/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "SO/ Bangkok",
+      "category": "luxury",
+      "priceRange": "6,000–15,000 THB (~171–429 USD) per night",
+      "area": "Silom / Sathorn",
+      "description": "SO/ Bangkok is a design-forward 5-star hotel above Lumpini Park in the Silom financial district. Designed by five Thai designers (one per floor theme), the hotel's rooms are bold, colourful and memorable. The rooftop Park Society bar and the outdoor pool with park views are highlights, and the BTS/MRT stations are a 5-minute walk.",
+      "highlights": [
+        "Stunning design — rooms themed around Thai elements by local designers",
+        "Rooftop Park Society bar with views over Lumpini Park",
+        "Infinity pool overlooking the park",
+        "Connected to MRT Lumpini station",
+        "Michelin Bib Gourmand Thai restaurant HAV on the ground floor"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fso-sofitel-bangkok.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Business travellers",
+        "Nightlife seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyeglobal — Bangkok Hotels",
+          "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where do celebrities stay in Bangkok?",
+    "Where do billionaires stay in Thailand?",
+    "What is the most luxurious place to stay in Thailand?",
+    "What is the best hotel to stay in Bangkok?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong luxury hotel in Bangkok can leave you isolated on the riverside without easy access to the city's vibrant core — many 'luxury' hotels promise opulence but deliver dated vibes or poor connectivity.",
+    "intro": "The single biggest mistake travellers make booking luxury in Bangkok is overlooking riverfront isolation versus central buzz, leading to frustrating commutes. We ranked these based on historic prestige, river views, design innovation, and value within the luxury tier, prioritizing what elevates a stay beyond mere comfort.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Mandarin Oriental Bangkok",
+        "why": "Timeless prestige and service"
+      },
+      {
+        "label": "Best value",
+        "name": "Chatrium Hotel Riverside Bangkok",
+        "why": "Spacious suites under 12,000 THB"
+      },
+      {
+        "label": "Best river views",
+        "name": "The Peninsula Bangkok",
+        "why": "All rooms face Chao Phraya"
+      },
+      {
+        "label": "Best design",
+        "name": "SO/ Bangkok",
+        "why": "Themed floors by Thai designers"
+      }
+    ],
+    "urgencyLine": "Prices for luxury hotels in Bangkok can surge 50% during Songkran (April) or Chinese New Year — secure rooms 6 months ahead for peak availability.",
+    "comparisonTable": [
+      {
+        "name": "Mandarin Oriental Bangkok",
+        "area": "Riverside (Charoen Krung)",
+        "priceBand": "€€€",
+        "bestFor": "Couples seeking history",
+        "standout": "historic suites",
+        "drawback": "Remote from shopping districts"
+      },
+      {
+        "name": "The Peninsula Bangkok",
+        "area": "Riverside (Silom)",
+        "priceBand": "€€€",
+        "bestFor": "Riverfront romantics",
+        "standout": "pool terraces",
+        "drawback": "Boat needed for city access"
+      },
+      {
+        "name": "Chatrium Hotel Riverside Bangkok",
+        "area": "Riverside",
+        "priceBand": "€€€",
+        "bestFor": "Value luxury seekers",
+        "standout": "multiple pools",
+        "drawback": "Less prestigious name"
+      },
+      {
+        "name": "SO/ Bangkok",
+        "area": "Silom / Sathorn",
+        "priceBand": "€€€",
+        "bestFor": "Design enthusiasts",
+        "standout": "rooftop bar",
+        "drawback": "No river views"
+      }
+    ],
+    "decisionGuide": [
+      "If you crave historic elegance with author-inspired suites, choose Mandarin Oriental Bangkok.",
+      "If river-facing rooms and shuttle boats matter most, choose The Peninsula Bangkok.",
+      "If spacious suites and pools on a relative budget appeal, choose Chatrium Hotel Riverside Bangkok.",
+      "If bold, themed design near Lumpini Park excites you, choose SO/ Bangkok.",
+      "If central financial district access trumps riverside, choose SO/ Bangkok.",
+      "If value in genuine 5-star riverfront stays is key, choose Chatrium Hotel Riverside Bangkok."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Mandarin Oriental Bangkok",
+        "why": "As Asia's finest with 1876 origins and legendary Authors' Wing suites, it outshines others in prestige and service depth, trading minor isolation for unmatched heritage. This beats Peninsula's views by offering deeper cultural immersion for luxury travellers.",
+        "drawback": "Its riverside spot requires ferries or taxis to reach Sukhumvit's nightlife.",
+        "skipIf": "Skip if you prioritize modern design over historic charm, as rooms feel traditional.",
+        "localSignals": [
+          "Riverside location near Charoen Krung",
+          "Authors' Wing houses suites named after Somerset Maugham and others",
+          "Opened in 1876 with consistent Asia's finest ratings"
+        ],
+        "travellerNote": "Guests often praise the impeccable service and historic ambiance but note the premium pricing and occasional dated facilities."
+      },
+      {
+        "rank": 2,
+        "name": "The Peninsula Bangkok",
+        "why": "Commanding the west bank with all-river-facing rooms and descending pool terraces, it edges Chatrium in iconic appeal and shuttle convenience, prioritizing seamless river luxury over SO/'s urban edge.",
+        "drawback": "High demand means suites book out fast during peak river festival seasons.",
+        "skipIf": "Skip if you avoid water-dependent transport, as the iconic shuttle is essential for city trips.",
+        "localSignals": [
+          "Riverside position on Silom's west bank",
+          "Iconic sky-blue shuttle boats to city piers",
+          "Three-tiered pool terraces to water's edge"
+        ],
+        "travellerNote": "Guests often praise the stunning river views and attentive staff but note the extra cost for peak-hour shuttles."
+      },
+      {
+        "rank": 3,
+        "name": "Chatrium Hotel Riverside Bangkok",
+        "why": "Offering spacious suites, multiple pools, and full spa near Asiatique at lower luxury rates, it provides better value than Mandarin's premiums without sacrificing 5-star riverfront quality.",
+        "drawback": "Its location, while scenic, is farther from Bangkok's core temples and malls.",
+        "skipIf": "Skip if brand prestige is crucial, as it lacks the global icon status of top peers.",
+        "localSignals": [
+          "Riverside near Asiatique The Riverfront",
+          "Multiple pools with Chao Phraya views",
+          "Spacious suites in 5-star setup"
+        ],
+        "travellerNote": "Guests often praise the room size and pool facilities but note occasional service inconsistencies compared to elite rivals."
+      }
+    ],
+    "topPick": "Mandarin Oriental Bangkok",
+    "topPickReason": "It delivers unparalleled historic luxury and service that defines Bangkok's elite stays, outvaluing modern alternatives for discerning travellers.",
+    "bookingTips": [
+      "Book 4-6 months ahead for high season (Nov-Feb) when luxury rates spike 30-50%.",
+      "Agoda often undercuts Booking.com for Thailand hotels by 10-15% on luxury deals.",
+      "Avoid Songkran (mid-April) bookings unless flexible, as prices double and availability vanishes.",
+      "Watch for red flags like no verified reviews or discounts over 40%, common scams in Bangkok listings.",
+      "Opt for river-view rooms over standard to justify the luxury premium, trading space for iconic scenery.",
+      "Check for free airport transfers, as Bangkok's Suvarnabhumi is 45-60 minutes away in traffic."
+    ],
+    "methodology": "We compared luxury hotels in Bangkok based on guest reviews, location quality, value at this price band, and what luxury travellers typically prioritise like service and views. We weighted historic prestige and river access highest because they define elevated Bangkok escapes over mere amenities. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/bangkok/",
+      "/where-to-stay/bangkok/",
+      "/city/bangkok/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check luxury hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View Mandarin Oriental Bangkok'"
+    ],
+    "faq": [
+      {
+        "q": "Where do celebrities stay in Bangkok?",
+        "a": "Celebrities often choose Mandarin Oriental Bangkok for its discreet historic luxury and riverside privacy, ideal for high-profile escapes. For modern vibes, SO/ Bangkok attracts influencers with its design flair."
+      },
+      {
+        "q": "Where do billionaires stay in Thailand?",
+        "a": "Billionaires frequent Mandarin Oriental Bangkok for its world-class service and Authors' Wing suites, offering unmatched prestige. The Peninsula Bangkok is another top pick for riverfront opulence."
+      },
+      {
+        "q": "What is the most luxurious place to stay in Thailand?",
+        "a": "Mandarin Oriental Bangkok stands as Thailand's most luxurious hotel due to its 1876 legacy and Asia's finest ratings. It edges national peers with superior heritage and Chao Phraya elegance."
+      },
+      {
+        "q": "What is the best hotel to stay in Bangkok?",
+        "a": "Mandarin Oriental Bangkok is the best for luxury seekers, blending historic suites with impeccable service. For value-driven luxury, opt for Chatrium Hotel Riverside Bangkok near Asiatique."
+      },
+      {
+        "q": "Best luxury hotel for couples in Bangkok?",
+        "a": "The Peninsula Bangkok excels for couples with all-river-facing rooms and romantic pool terraces. Mandarin Oriental Bangkok suits those wanting historic intimacy."
+      }
+    ],
+    "metaTitle": "Best Luxury Hotels in Bangkok (2026)",
+    "metaDescription": "Discover top luxury hotels in Bangkok like Mandarin Oriental for historic riverside elegance and Peninsula for stunning views. Compare picks and see 2026…"
+  },
+  "lastUpdated": "2026-03-13",
+  "generatedAt": "2026-04-15T15:30:54.031Z"
+}

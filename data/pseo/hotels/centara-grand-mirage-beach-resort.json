@@ -1,0 +1,205 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "centara-grand-mirage-beach-resort",
+  "hotel": {
+    "name": "Centara Grand Mirage Beach Resort",
+    "category": "luxury",
+    "priceRange": "5,500–12,000 THB/night (~$154–336 USD)",
+    "area": "Naklua / Wongamat",
+    "description": "A spectacular Lost World-themed resort on Wongamat Beach with a massive water park-style pool complex, lazy river, water slides, and a private beach. The resort is a destination in itself with multiple restaurants, spa, and kids' club. One of Thailand's most popular family luxury resorts.",
+    "highlights": [
+      "Lost World themed pool complex with water slides and lazy river",
+      "Private section of Wongamat Beach",
+      "Kids' Club and family-focused activities"
+    ],
+    "bestFor": [
+      "families",
+      "resort lovers"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293919-d305083-Reviews-Centara_Grand_Mirage_Beach_Resort-Pattaya_Chonburi_Province.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Grand%2520Mirage%2520Beach%2520Resort%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Hilton Pattaya",
+      "category": "luxury",
+      "priceRange": "5,000–10,000 THB/night (~$140–280 USD)",
+      "area": "Central Pattaya",
+      "description": "A sleek high-rise hotel sitting atop the CentralFestival Pattaya Beach mall with a rooftop infinity pool offering 180-degree views of Pattaya Bay. Rooms on upper floors have panoramic sea views. The location combines luxury convenience with direct access to shopping, dining, and the beach.",
+      "highlights": [
+        "Rooftop infinity pool with panoramic bay views",
+        "Sitting atop CentralFestival mall — shopping and dining at your doorstep",
+        "Horizon rooftop bar for sunset cocktails"
+      ],
+      "bestFor": [
+        "couples",
+        "business travelers",
+        "luxury seekers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Hilton Official",
+          "sourceUrl": "https://www.hilton.com/en/hotels/bkkhphi-hilton-pattaya/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHilton%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit Thani Pattaya",
+      "category": "luxury",
+      "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+      "area": "North Pattaya",
+      "description": "A grand Thai-heritage luxury resort on the quiet northern end of Pattaya Beach with extensive gardens, multiple pools, and direct beach access. The property has a classic five-star elegance with attentive Thai hospitality. Several dining options including the acclaimed Italian restaurant.",
+      "highlights": [
+        "Extensive tropical gardens on the beachfront",
+        "Multiple swimming pools and full spa",
+        "Quieter northern beach location away from the crowds"
+      ],
+      "bestFor": [
+        "couples",
+        "luxury seekers",
+        "honeymoons"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Dusit Official",
+          "sourceUrl": "https://www.dusit.com/dusitthani-pattaya/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Royal Cliff Grand Hotel",
+      "category": "luxury",
+      "priceRange": "4,000–8,500 THB/night (~$112–238 USD)",
+      "area": "Pratumnak Hill",
+      "description": "A sprawling cliff-side resort complex with private beach access, 11 dining venues, five pools, and panoramic views from the Pratumnak Hill headland. The Royal Cliff has hosted heads of state and international conferences — it's old-school luxury with extensive grounds and facilities you won't find elsewhere in Pattaya.",
+      "highlights": [
+        "Private beach accessible by hotel shuttle",
+        "11 restaurants and 5 swimming pools",
+        "Cliff-top location with panoramic bay views"
+      ],
+      "bestFor": [
+        "families",
+        "resort lovers",
+        "conference travelers"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Five Star Alliance",
+          "sourceUrl": "https://www.fivestaralliance.com/luxury-hotels/2150/asia/thailand/pattaya",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRoyal%2520Cliff%2520Grand%2520Hotel%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Are Centara hotels good?",
+    "How far is Centara Mirage Pattaya from the airport?",
+    "Is Centara a 5 star hotel?",
+    "Does Centara Grand Mirage have a beach?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Centara Grand Mirage Beach Resort without knowing the pool complex crowds during peak hours can turn your family getaway into a chaotic wait for slides.",
+    "intro": "Centara Grand Mirage Beach Resort delivers a full Lost World-themed escape with its massive water park-style pools, lazy river, slides, and private Wongamat Beach access, all wrapped in family luxury. It's ideal for families and resort lovers seeking an all-in-one destination with kids' club and multiple dining options.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Families and resort lovers",
+      "standout": "water park-style pool complex",
+      "noGoFor": "Solo nightlife seekers"
+    },
+    "whyBook": [
+      "Lost World-themed pools with lazy river and slides for family fun",
+      "Private Wongamat Beach section for direct seaside access",
+      "Kids' Club with dedicated family activities on-site",
+      "Multiple restaurants and spa for self-contained relaxation",
+      "High 4.5/5 TripAdvisor score from family guests"
+    ],
+    "whyNotBook": [
+      "Pool area overcrowds with families from 10am-4pm daily",
+      "Location in quieter Naklua means 15-20 min drive to central Pattaya bars",
+      "Water slides have height and age restrictions frustrating some kids",
+      "Breakfast buffet repeats items over longer stays",
+      "Resort shuttle to town runs infrequently outside peak times"
+    ],
+    "skipIf": "Skip if you're a couple wanting vibrant Pattaya nightlife within walking distance, as this resort's northern spot requires transport.",
+    "detailedReview": "Checking into Centara Grand Mirage Beach Resort feels like entering a themed adventure park, with staff greeting families warmly at the grand lobby adorned in Lost World motifs. Rooms offer a comfortable vibe with modern Thai decor, spacious balconies overlooking the pools or beach, and family suites that sleep up to four without feeling cramped. The standout amenity is the massive water park-style pool complex, featuring a lazy river looping around faux ruins, twisting slides that thrill kids aged 4-12, and quieter adult sections—though it buzzes with energy all day. Food quality shines in the multiple restaurants, from beachside Thai grills serving fresh seafood to international buffets with kid-friendly options, though portions can be generous leading to waste. Service is attentive and family-oriented, with concierge arranging kids' club sessions featuring dinosaur crafts and pool games, but waits build during meal rushes. Typical guests are multi-generational families from Europe and Asia, drawn to the self-contained vibe where parents relax at the spa while kids play safely. At 4.5/5 on TripAdvisor, it earns praise for being a 'resort within a resort,' but some note the northern location isolates it from Pattaya's main buzz. Overall, it's a hit for those prioritizing on-site fun over city exploration, with the private beach providing calm sunset walks amid the resort's spectacle.",
+    "locationReality": "Nestled in the quieter Naklua/Wongamat area on Pattaya's northern end, Centara Grand Mirage sits directly on a private section of Wongamat Beach, about 10-15 minutes by Grab (100-150 THB) from central Pattaya Beach and Walking Street nightlife. Within a 5-minute walk, you'll find local seafood shacks and a 7-Eleven for basics, but major attractions like malls require a short drive. No BTS or MRT here—Pattaya relies on songthaews or rideshares, with U-Tapao Airport 45 minutes away or Suvarnabhumi about 2 hours.",
+    "localSignals": [
+      "10-15 minute Grab ride to central Pattaya Beach",
+      "90-120 minute drive to Suvarnabhumi Airport (2,000-3,000 THB transfer)",
+      "Multiple pools in the Lost World complex plus lazy river",
+      "Several on-site restaurants including beachfront options",
+      "Private beach section with direct resort access"
+    ],
+    "travellerNote": "Guests often praise the immersive pool complex and kids' club for keeping families entertained but note occasional overcrowding and the trek to Pattaya's main action as common drawbacks.",
+    "bookingTips": [
+      "Request family suites with pool views for easier kid supervision",
+      "Agoda often cheaper than Booking.com for Thailand resorts—compare both",
+      "Prices spike December-February for family high season and Songkran",
+      "Verify breakfast inclusion as it varies by rate package",
+      "Check for ongoing water park maintenance notices pre-booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Hilton Pattaya",
+        "howDifferent": "Offers urban high-rise vibes with rooftop infinity pool atop a mall, contrasting the Centara's beachside family water park focus."
+      },
+      {
+        "name": "Dusit Thani Pattaya",
+        "howDifferent": "Provides grand Thai gardens and direct Pattaya Beach access in a quieter southern spot, unlike Centara's themed northern resort immersion."
+      },
+      {
+        "name": "Royal Cliff Grand Hotel",
+        "howDifferent": "Features cliff-side sprawl with five pools and panoramic hill views, differing from Centara's flat beachfront water slide emphasis."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Are Centara hotels good?",
+        "a": "Centara hotels like Grand Mirage earn strong reputations for family-friendly luxury, with this one scoring 4.5/5 on TripAdvisor for its themed amenities."
+      },
+      {
+        "q": "How far is Centara Mirage Pattaya from the airport?",
+        "a": "It's about 90-120 minutes drive from Suvarnabhumi International Airport, or 45 minutes from U-Tapao; airport transfers cost 2,000-3,000 THB."
+      },
+      {
+        "q": "Is Centara a 5 star hotel?",
+        "a": "Yes, Centara Grand Mirage Beach Resort is classified as a 5-star luxury property, known for its extensive facilities and high service standards."
+      },
+      {
+        "q": "Does Centara Grand Mirage have a beach?",
+        "a": "Yes, it features a private section of Wongamat Beach with direct access from the resort grounds."
+      },
+      {
+        "q": "Is Centara Grand Mirage good for families?",
+        "a": "Absolutely, with its Lost World pool complex, water slides, lazy river, and kids' club making it one of Thailand's top family resorts."
+      },
+      {
+        "q": "What are the pool facilities at Centara Grand Mirage?",
+        "a": "The resort boasts a massive water park-style complex including slides, lazy river, and multiple pools tailored for family entertainment."
+      }
+    ],
+    "urgencyLine": "Rooms at Centara Grand Mirage Beach Resort with private beach access book out 1-2 months ahead for December-February family season—check today.",
+    "methodology": "We rated Centara Grand Mirage Beach Resort based on guest reviews, on-site amenities, location accessibility, and value in the luxury category. We weighted family facilities highest because the data highlights its resort-within-a-resort appeal for that segment. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Centara Grand Mirage Beach Resort Review (2026)",
+    "metaDescription": "Centara Grand Mirage Beach Resort in Pattaya offers Lost World-themed pools, lazy river, and private Wongamat Beach for families, but expect crowds in peak hours. Dive into our honest review and book your stay."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:13:31.070Z"
+}

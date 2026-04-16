@@ -1,0 +1,197 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "surat-thani",
+  "cityName": "Surat Thani",
+  "hotelSlug": "nadpob-hotel-phun-phin",
+  "hotel": {
+    "name": "Nadpob Hotel (Phun Phin)",
+    "category": "budget",
+    "priceRange": "400-800 THB/night (~$11-22 USD)",
+    "area": "Phun Phin (Railway Station Area)",
+    "description": "The best option for travelers arriving late by train or departing early — located directly in front of Phun Phin train station, 14 km from the city center. Basic but clean rooms at low prices, with a 24-hour reception that accommodates late train arrivals. Not a destination hotel — purely functional for train-transit travelers who don't want to add a 40-minute red bus ride into the city at odd hours.",
+    "highlights": [
+      "Directly in front of Phun Phin railway station — zero transit hassle",
+      "24-hour reception for late/early train arrivals",
+      "Cheapest option for travelers using the overnight train service"
+    ],
+    "bestFor": [
+      "train travelers",
+      "early/late arrivals",
+      "budget transit stopovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Thailand Trains",
+        "sourceUrl": "https://www.thailandtrains.com/surat-thani-railway-station/",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNadpob%2520Hotel%2520(Phun%2520Phin)%252C%2520Surat%2520Thani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sleep Box Hostel Suratthani",
+      "category": "budget",
+      "priceRange": "200-450 THB/night (~$6-13 USD)",
+      "area": "City Center (near Talad Kaset)",
+      "description": "The most popular budget option in Surat Thani, designed specifically for transit travelers who need a clean, central bed near the bus-ferry hub. Modern dorm pods with privacy curtains, individual reading lights, USB charging ports, and lockers. The location a few minutes' walk from Talad Kaset makes it ideal for early ferry departures — staff are well-versed in booking onward transport.",
+      "highlights": [
+        "Walking distance to Talad Kaset bus-ferry hub",
+        "Modern pod-style dorms with privacy and USB charging",
+        "Knowledgeable staff for onward island connections"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "transit stopovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSleep%2520Box%2520Hostel%2520Suratthani%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Rajthani Hotel",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "City Center",
+      "description": "A well-run mid-budget hotel in central Surat Thani with consistently high reviews for cleanliness and value. Air-conditioned rooms with hot showers, complimentary WiFi, and free self-parking. Not fancy, but reliable — the kind of place where everything works and staff are helpful with travel arrangements. Walking distance to the main markets, riverside, and transport offices.",
+      "highlights": [
+        "Consistent 8.6 review score for value and cleanliness",
+        "Free WiFi and self-parking",
+        "Central location within walking distance of markets and Tapi River"
+      ],
+      "reviewScore": "8.6/10 Booking.com",
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRajthani%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "S.22 Hotel Suratthani",
+      "category": "budget",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "City Center",
+      "description": "A modern budget hotel that stands out for including free breakfast — unusual at this price point in Surat Thani. Rooms are clean and functional with reliable air conditioning and good WiFi. The breakfast buffet is basic but useful for travelers with early ferry departures. Central location within easy walking distance of the Saturday Night Market and Tapi River.",
+      "highlights": [
+        "Free breakfast included — valuable for early departure days",
+        "Modern, clean rooms at budget prices",
+        "Central location near markets and transport connections"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "families on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Surat-Thani-Hotels.d6347509.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DS.22%2520Hotel%2520Suratthani%252C%2520Surat%2520Thani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Nadpob Hotel (Phun Phin) without knowing it's 14 km from Surat Thani city center can leave you stranded without easy access to restaurants or sights.",
+    "intro": "Nadpob Hotel (Phun Phin) provides basic, clean rooms with 24-hour reception right in front of Phun Phin train station, ideal for quick stopovers. It's designed for train travelers arriving late or leaving early who prioritize convenience over comfort or location perks.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "train transit stopovers",
+      "standout": "location",
+      "noGoFor": "leisure city explorers"
+    },
+    "whyBook": [
+      "Zero hassle walking to Phun Phin train station",
+      "24-hour reception handles odd-hour arrivals",
+      "Clean basic rooms at 400-800 THB rates",
+      "Cheapest for overnight train users"
+    ],
+    "whyNotBook": [
+      "14 km from Surat Thani center requires 40-minute red bus",
+      "Basic rooms lack amenities like breakfast or WiFi details",
+      "No nearby dining options beyond station area",
+      "Functional vibe suits only short transit stays",
+      "Quiet area but isolated from city attractions"
+    ],
+    "skipIf": "Skip if you plan multi-day stays or want easy access to Surat Thani's urban spots.",
+    "detailedReview": "Checking into Nadpob Hotel (Phun Phin) feels straightforward and efficient, thanks to the 24-hour reception that welcomes late-night train arrivals without fuss. The lobby is simple, focused on functionality rather than flair, setting the tone for a no-frills stay. Rooms deliver on the promise of basic but clean accommodations—think simple beds, air conditioning, and enough space for crashing after a long journey, all at 400-800 THB per night. No standout amenities like pools or spas here; the real draw is the location directly in front of Phun Phin railway station, making it a seamless base for transit. Food options are absent on-site, so guests grab quick bites from nearby station vendors or pack snacks. Service is polite and practical, geared toward helping with train schedules rather than personalized touches. Typical guests are backpackers and budget travelers using overnight trains to connect to southern islands, often staying just one night before heading out early. It's not a place for relaxation or exploration—more like a reliable pit stop that saves time and money on transfers. Overall, it excels at what it sets out to do: provide affordable shelter for those in motion, without the distractions of a full-service hotel.",
+    "locationReality": "Nadpob Hotel (Phun Phin) sits directly in front of Phun Phin train station, 14 km from Surat Thani's city center, which takes about 40 minutes by red bus or 200-300 THB by Grab. Within a 5-minute walk, you'll find the station itself for trains to Bangkok or the south, plus basic shops and food stalls. For anything beyond that—like markets or bus terminals in central Surat Thani—transport is essential, as the area is rural and transit-focused.",
+    "localSignals": [
+      "14 km to Surat Thani city center by red bus in 40 minutes",
+      "Directly adjacent to Phun Phin railway station for zero-walk transfers",
+      "No on-site pool or restaurant; basic reception only",
+      "Breakfast not included; WiFi status varies by room",
+      "Station-area convenience stores within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the unbeatable proximity to Phun Phin train station and low prices for quick stays, but note the isolation from city amenities and basic room setups that feel sparse for longer visits.",
+    "bookingTips": [
+      "Request ground-floor rooms for easy train station access",
+      "Agoda often cheapest for Thailand bookings; compare with Booking.com",
+      "Prices stable year-round but spike during Songkran in April",
+      "Verify 24-hour check-in policy for late train arrivals",
+      "No breakfast included; confirm any shuttle to city center"
+    ],
+    "similarHotels": [
+      {
+        "name": "Sleep Box Hostel Suratthani (200-450 THB/night (~$6-13 USD))",
+        "howDifferent": "More central in Surat Thani near bus-ferry terminals, but lacks direct train station access."
+      },
+      {
+        "name": "Rajthani Hotel (600-1,000 THB/night (~$17-28 USD))",
+        "howDifferent": "Located in central Surat Thani with better cleanliness reviews, though farther from trains."
+      },
+      {
+        "name": "S.22 Hotel Suratthani (700-1,200 THB/night (~$20-34 USD))",
+        "howDifferent": "Offers free breakfast in a modern setup closer to city center, without train proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Nadpob Hotel (Phun Phin) close to Phun Phin train station?",
+        "a": "Yes, it's directly in front, allowing zero transit hassle for arrivals and departures."
+      },
+      {
+        "q": "What facilities does Nadpob Hotel (Phun Phin) have?",
+        "a": "Basic clean rooms and 24-hour reception; no pool, restaurant, or included breakfast."
+      },
+      {
+        "q": "How far is Nadpob Hotel (Phun Phin) from Surat Thani center?",
+        "a": "It's 14 km away, about 40 minutes by red bus or 200-300 THB by Grab."
+      },
+      {
+        "q": "Who should stay at Nadpob Hotel (Phun Phin)?",
+        "a": "Ideal for budget train travelers with late or early schedules needing a functional stopover."
+      },
+      {
+        "q": "Does Nadpob Hotel (Phun Phin) include breakfast?",
+        "a": "No, breakfast is not included; nearby station vendors offer quick options."
+      },
+      {
+        "q": "Is Nadpob Hotel (Phun Phin) suitable for long stays?",
+        "a": "It's purely functional for transit; skip for multi-day trips due to limited nearby attractions."
+      }
+    ],
+    "urgencyLine": "Rooms at Nadpob Hotel (Phun Phin) with direct train access book out quickly during peak train seasons like December-January—check availability now.",
+    "methodology": "We rated Nadpob Hotel (Phun Phin) based on location convenience, price value, and suitability for transit travelers using provided data. We weighted location highest because it's the core appeal for train users in this area. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nadpob Hotel (Phun Phin) Review (2026)",
+    "metaDescription": "Nadpob Hotel (Phun Phin) in Surat Thani offers basic clean rooms right at the train station for 400-800 THB/night, perfect for late arrivals. But it's 14 km from city center with few nearby amenities—book if transiting, verify transport needs today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:39:35.976Z"
+}

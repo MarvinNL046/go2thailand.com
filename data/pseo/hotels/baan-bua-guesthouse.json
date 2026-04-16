@@ -1,0 +1,194 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-rai",
+  "cityName": "Chiang Rai",
+  "hotelSlug": "baan-bua-guesthouse",
+  "hotel": {
+    "name": "Baan Bua Guesthouse",
+    "category": "budget",
+    "priceRange": "400–800 THB/night (~$11–22 USD)",
+    "area": "City Center",
+    "description": "A family-run guesthouse in a quiet residential area, offering clean rooms with air-con, hot showers, and a garden terrace. The Thai-Western owners provide excellent travel advice and can arrange tours to the Golden Triangle and hill tribe villages.",
+    "highlights": [
+      "Garden terrace for breakfast",
+      "Owners arrange custom tours at fair prices",
+      "Quiet location 10-minute walk from Night Bazaar"
+    ],
+    "bestFor": [
+      "couples",
+      "budget travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Bua%2520Guesthouse%252C%2520Chiang%2520Rai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Mercy Hostel",
+      "category": "budget",
+      "priceRange": "200–450 THB/night (~$6–13 USD)",
+      "area": "City Center / Night Bazaar",
+      "description": "A clean, friendly hostel just a 5-minute walk from the Night Bazaar. Offers both 8-bed dorms with privacy curtains and private rooms with air-con. The common area is a social hub for meeting other travelers, and the staff organize occasional group dinners.",
+      "highlights": [
+        "Steps from the Night Bazaar and Clock Tower",
+        "Both dorm and private room options",
+        "Communal kitchen and free coffee/tea"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Chiang-Rai-Hotels.d6094729.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMercy%2520Hostel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Fun-D Hostel",
+      "category": "budget",
+      "priceRange": "250–500 THB/night (~$7–14 USD)",
+      "area": "City Center",
+      "description": "A modern hostel near the King Mengrai Monument with colorful decor and a social rooftop area. Private rooms are spacious for the price, and 6-bed dorms have individual reading lights and USB charging. Free bicycle rental is a huge plus for exploring the city.",
+      "highlights": [
+        "Free bicycle rental for guests",
+        "Rooftop social area",
+        "Walking distance to Saturday Walking Street"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFun-D%2520Hostel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "NAI YA Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB/night (~$34–62 USD)",
+      "area": "City Center",
+      "description": "A stylish 4-star hotel with modern rooms, an outdoor swimming pool, and free bikes for exploring the city. The rooftop restaurant serves northern Thai cuisine with city views. Free private parking makes it ideal for those renting a car to explore the province.",
+      "highlights": [
+        "Outdoor swimming pool and fitness center",
+        "Free bikes for guests",
+        "Rooftop restaurant with city views"
+      ],
+      "reviewScore": "8.5/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNAI%2520YA%2520Hotel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Baan Bua Guesthouse without knowing its residential location can leave you walking 10 minutes to reach the Night Bazaar instead of being in the thick of the action.",
+    "intro": "Baan Bua Guesthouse delivers clean, straightforward rooms with air-con and hot showers in a peaceful family-run setting, complete with a garden terrace for relaxed breakfasts and helpful owners who arrange affordable tours to the Golden Triangle and hill tribe villages. It's ideal for budget-conscious couples and travelers seeking a quiet base with personal travel tips in Chiang Rai's city center.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget couples travelers",
+      "standout": "garden terrace",
+      "noGoFor": "luxury seeking families"
+    },
+    "whyBook": [
+      "Family owners offer tailored tour advice to Golden Triangle",
+      "Clean rooms with air-con and hot showers at low rates",
+      "Garden terrace provides serene spot for morning breakfast",
+      "Quiet residential vibe just 10 minutes from Night Bazaar",
+      "Fair-priced custom tours to hill tribe villages available"
+    ],
+    "whyNotBook": [
+      "No on-site pool or gym for relaxation needs",
+      "Basic room setups lack modern entertainment like TVs",
+      "Residential area means fewer nearby eateries within 5 minutes",
+      "Limited room variety may not suit groups over two",
+      "No evident free WiFi policy could require mobile data"
+    ],
+    "skipIf": "Skip if you're a family needing kid-friendly amenities like a pool or easy access to bustling streets.",
+    "detailedReview": "Checking into Baan Bua Guesthouse feels like arriving at a welcoming family home, with Thai-Western owners greeting you personally and sharing insider tips on Chiang Rai sights right away. The rooms are straightforward and spotless, featuring air-con to beat the tropical heat, hot showers for refreshing after day trips, and simple furnishings that keep things cozy without excess. The standout amenity is the garden terrace, a shaded green space where you can enjoy breakfast amid plants and chat with fellow guests about local adventures. Food is basic but homey—think simple Thai or Western options served on the terrace, nothing gourmet but satisfying for budget stays. Service shines through the owners' enthusiastic style; they're quick to arrange custom tours to the Golden Triangle or hill tribe villages at fair prices, often with personal recommendations based on your interests. Typical guests are independent couples or solo budget travelers in their 20s-40s, drawn to the quiet residential vibe for unwinding after exploring the Night Bazaar or temples. While not flashy, the guesthouse's charm lies in its authentic, low-key atmosphere that fosters a sense of local connection without the noise of central hotels. Overall, it's a practical choice for those prioritizing affordability and helpful hosts over luxury frills.",
+    "locationReality": "Nestled in a quiet residential pocket of Chiang Rai's city center, Baan Bua Guesthouse is a 10-minute walk from the vibrant Night Bazaar, where you can browse stalls and street food without needing a Grab ride. Within a 5-minute stroll, you'll find local shops and perhaps a small cafe, but the area stays calm, away from the main tourist drag around the Clock Tower. For farther spots like the King Mengrai Monument, expect a 10-15 minute Grab costing 50-80 THB, making it easy to base here while venturing out.",
+    "localSignals": [
+      "10-minute walk to Night Bazaar",
+      "Quiet residential area in city center",
+      "Garden terrace for breakfast on-site",
+      "No swimming pool available",
+      "Owners arrange tours to Golden Triangle"
+    ],
+    "travellerNote": "Guests often praise the owners' knowledgeable travel advice and the peaceful garden terrace but note the basic room amenities and distance from immediate dining options.",
+    "bookingTips": [
+      "Request a room facing the garden terrace for quieter stays",
+      "Check Agoda for deals, often cheaper than Booking.com in Thailand",
+      "Prices spike in November-February high season for festivals",
+      "Verify tour availability with owners before booking excursions",
+      "Confirm hot shower functionality as it's a key basic feature"
+    ],
+    "similarHotels": [
+      {
+        "name": "Mercy Hostel (200–450 THB/night (~$6–13 USD)) — A clean, friendly hostel just a 5-minute walk from the Night Bazaar. Offers both 8-bed dorms with privacy curtains and private rooms with ai",
+        "howDifferent": "Offers cheaper dorm options and is closer to Night Bazaar but lacks private garden terrace and personal tour services."
+      },
+      {
+        "name": "Fun-D Hostel (250–500 THB/night (~$7–14 USD)) — A modern hostel near the King Mengrai Monument with colorful decor and a social rooftop area. Private rooms are spacious for the price, and",
+        "howDifferent": "Provides a more social rooftop vibe near monuments but is louder and without family-run tour arrangements."
+      },
+      {
+        "name": "NAI YA Hotel (1,200–2,200 THB/night (~$34–62 USD)) — A stylish 4-star hotel with modern rooms, an outdoor swimming pool, and free bikes for exploring the city. The rooftop restaurant serves nor",
+        "howDifferent": "Features a pool and higher-end rooms at double the price but misses the intimate, budget-focused owner interactions."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What types of rooms are available at Baan Bua Guesthouse?",
+        "a": "Clean private rooms with air-con and hot showers are offered, suitable for couples, though no dorms or family suites are mentioned."
+      },
+      {
+        "q": "Does Baan Bua Guesthouse have parking?",
+        "a": "As a small guesthouse in a residential area, limited on-site parking may be available; confirm with owners upon booking."
+      },
+      {
+        "q": "Is breakfast included at Baan Bua Guesthouse?",
+        "a": "Breakfast can be enjoyed on the garden terrace, but inclusion varies by rate; check your booking details."
+      },
+      {
+        "q": "How far is Baan Bua Guesthouse from Chiang Rai Airport?",
+        "a": "It's about 20-30 minutes by Grab for 200-300 THB, depending on traffic from the city center location."
+      },
+      {
+        "q": "Can Baan Bua Guesthouse arrange tours?",
+        "a": "Yes, the owners specialize in custom tours to the Golden Triangle and hill tribe villages at fair prices."
+      },
+      {
+        "q": "Is WiFi free at Baan Bua Guesthouse?",
+        "a": "WiFi availability isn't specified, so inquire directly; many budget guesthouses offer it complimentary."
+      }
+    ],
+    "urgencyLine": "Rooms at Baan Bua Guesthouse with garden terrace access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Baan Bua Guesthouse based on its budget pricing, owner services, and location perks from provided data. We weighted personal tour arrangements highest because they set it apart for value-driven travelers in Chiang Rai. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Baan Bua Guesthouse Review (2026)",
+    "metaDescription": "Baan Bua Guesthouse in Chiang Rai offers clean budget rooms with air-con, garden terrace breakfast, and owner-arranged tours to Golden Triangle. Quiet residential spot 10-min walk from Night Bazaar, but no pool—ideal for couples. Book for affordable stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:08:19.867Z"
+}

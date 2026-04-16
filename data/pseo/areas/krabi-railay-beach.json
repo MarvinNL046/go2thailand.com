@@ -1,0 +1,192 @@
+{
+  "template": "area-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "areaSlug": "railay-beach",
+  "areaName": "Railay Beach",
+  "neighborhood": {
+    "name": "Railay Beach",
+    "description": "A stunning limestone peninsula accessible only by longtail boat — no roads, no cars, no tuk-tuks. Four interconnected beaches offer different vibes: Railay West is the main swimming beach, Railay East has budget guesthouses and mangroves, Phra Nang Cave Beach is one of Thailand's most beautiful, and Tonsai is the backpacker climbing hub. Over 700 bolted rock climbing routes make this Southeast Asia's climbing capital. The trade-off: limited accommodation, higher food prices, and you're boat-dependent for everything.",
+    "bestFor": "Rock climbers, couples & beach lovers",
+    "priceLevel": "Mid-Range to Luxury",
+    "highlights": [
+      "Boat-access-only peninsula — no cars, no roads, island vibe on the mainland",
+      "Four interconnected beaches, each with its own character",
+      "700+ rock climbing routes from beginner to expert",
+      "Phra Nang Cave Beach — one of Thailand's top 5 beaches",
+      "Walking distance between all four beaches via jungle trails"
+    ],
+    "recommendedHotels": [
+      "Railay Bay Resort & Spa",
+      "Rayavadee"
+    ],
+    "walkingScore": "8/10",
+    "transportNotes": [
+      "Longtail from Ao Nang 100 THB (15 min, boats run until ~6 PM)",
+      "After 6 PM charter only — 800 THB",
+      "No road access — everything arrives by boat including supplies"
+    ],
+    "sources": [
+      {
+        "sourceName": "Lonely Planet",
+        "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/railay",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Railay Bay Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+      "area": "Railay Beach",
+      "description": "The best-value resort on Railay, straddling the peninsula between Railay West (swimming beach) and Railay East. Two pools, a beachfront restaurant, and direct access to both sides of the peninsula. Rooms range from garden-view bungalows to beachfront cottages. The boat-access-only setting gives it an island-resort atmosphere.",
+      "highlights": [
+        "Access to both Railay West and East beaches",
+        "Two swimming pools and beachfront restaurant",
+        "Boat-access location creates exclusive island feel"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1507957-Railay_Beach_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRailay%2520Bay%2520Resort%2520%2526%2520Spa%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Rayavadee",
+      "category": "luxury",
+      "priceRange": "15,000-40,000 THB/night (~$420-1,120 USD)",
+      "area": "Railay / Phra Nang",
+      "description": "One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beaches including Phra Nang Cave Beach. Two-story pavilions with outdoor living spaces are scattered among coconut palms. The setting between soaring limestone cliffs and turquoise sea is unmatched anywhere in the country.",
+      "highlights": [
+        "Private access to three beaches including Phra Nang Cave Beach",
+        "Two-story pavilion suites in tropical gardens",
+        "Boat-access-only location between limestone cliffs — no cars, no roads"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury travelers",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1507957-d301764-Reviews-Rayavadee-Railay_Beach_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayavadee%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Ao Nang",
+    "Krabi Town",
+    "Klong Muang",
+    "Tubkaek Beach",
+    "Nopparat Thara Beach"
+  ],
+  "paaQuestions": [
+    "Is it better to stay in Krabi or Railay Beach?",
+    "Where to stay in Railay Beach Krabi?",
+    "How long should I stay in Railay Beach?",
+    "Is it worth going to Railay Beach?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong beach in Railay can trap you in mangroves without easy swimming access — most first-timers ignore the boat-only entry and end up overpaying for charters after dark.",
+    "intro": "Railay Beach stands out as a car-free limestone peninsula reachable only by longtail boat, blending Southeast Asia's top rock climbing with pristine beaches. We ranked it highly for its walkable trails connecting four unique beaches, mid-range to luxury pricing, and appeal to climbers and couples seeking an island-like escape on the mainland.",
+    "vibe": "Adventurous + beachy + secluded",
+    "quickStats": {
+      "priceBand": "€€-€€€",
+      "walkability": "High",
+      "bestFor": "Rock climbers, couples, beach lovers",
+      "safetyNote": "Very safe, minimal theft risks."
+    },
+    "detailedDescription": "Waking up in Railay Beach means starting your day with the sound of waves lapping against limestone cliffs, no engine hums from cars since none exist here. Locals and workers, mostly Thai fishermen turned resort staff and climbing guides, navigate the sandy paths and jungle trails that link the four beaches, hauling supplies via daily boat deliveries that keep things fresh but pricey. By day, Railay West buzzes with swimmers and sunbathers on its wide sands, while Tonsai draws international climbers chalking up on over 700 bolted routes amid casual chatter in English, Thai, and German. Phra Nang Cave Beach feels more intimate, with visitors exploring the spirit shrine and its dramatic karsts, often in small groups led by local guides. As evening falls, the atmosphere quiets down—low noise levels prevail, broken only by distant longtail motors or laughter from beachside bars serving grilled seafood and pad thai at marked-up rates due to import costs. Nighttime brings a relaxed glow from fairy lights at guesthouses, with backpackers in Tonsai sharing stories over cheap beers, while couples on Railay West opt for romantic dinners. Food leans toward beach shacks offering Thai staples like som tam and fresh catches, but variety is limited without road access—expect to boat out for more options. Getting around is straightforward on foot via well-trodden trails (20-30 minutes between beaches), though uneven paths can be slippery after rain, and everything from groceries to medical needs requires planning around boat schedules.",
+    "localSignals": [
+      "Longtail boat from Ao Nang pier: 100 THB, 15-minute ride",
+      "Taxi from Krabi Airport to Ao Nang: 600-800 THB, 45 minutes, then boat",
+      "Distance to Phra Nang Cave Beach: 10-15 minute walk via jungle trail",
+      "Noise level at night: Quiet, no traffic or crowds after 10 PM",
+      "Nearest convenience: Small shops and minimarts on Railay East, no full 7-Eleven"
+    ],
+    "pros": [
+      "Car-free paths for peaceful walks",
+      "World-class climbing routes everywhere",
+      "Stunning beaches within easy reach",
+      "Island vibe without leaving mainland"
+    ],
+    "cons": [
+      "Boat dependency for all arrivals and departures",
+      "Higher food prices due to supply boats",
+      "Limited accommodation options fill quickly",
+      "No road access means no easy taxis",
+      "Evening charters cost 800 THB after 6 PM"
+    ],
+    "skipIf": "Skip if you have mobility issues or dislike frequent boat rides.",
+    "stayRecommendations": [
+      {
+        "name": "Railay Bay Resort & Spa",
+        "why": "This mid-range resort straddles Railay West and East beaches, offering two pools and direct access to swimming areas ideal for couples seeking value in the car-free peninsula."
+      },
+      {
+        "name": "Rayavadee",
+        "why": "Set in tropical gardens with private beach access on the Railay peninsula, this luxury icon suits beach lovers wanting secluded elegance amid the climbing capital's cliffs."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Ao Nang",
+        "shortPitch": "Ao Nang offers road access and more dining variety but lacks Railay's secluded beaches and climbing focus, with busier crowds and traffic.",
+        "recommendFor": "Families, budget travelers"
+      },
+      {
+        "areaName": "Krabi Town",
+        "shortPitch": "Krabi Town provides urban markets and cheaper eats with easy airport shuttles, contrasting Railay's isolated paradise but without the beaches or trails.",
+        "recommendFor": "Short stops, foodies"
+      },
+      {
+        "areaName": "Nopparat Thara Beach",
+        "shortPitch": "Nopparat Thara has longer sands and family-friendly vibes with road connections, differing from Railay's boat-only adventure but less dramatic scenery.",
+        "recommendFor": "Relaxed families"
+      }
+    ],
+    "travellerNote": "Travellers often praise the breathtaking beaches and climbing opportunities but note the inconvenience of boat reliance and elevated costs for basics.",
+    "faq": [
+      {
+        "q": "Is it better to stay in Krabi or Railay Beach?",
+        "a": "Railay Beach suits those craving seclusion and adventure over Krabi Town's urban bustle; choose Railay for beaches and climbing, but opt for Krabi Town if you need easy transport and markets."
+      },
+      {
+        "q": "Where to stay in Railay Beach Krabi?",
+        "a": "Stay on Railay West for swimming access or Tonsai for climbing vibes; we recommend Railay Bay Resort & Spa for mid-range value or Rayavadee for luxury seclusion."
+      },
+      {
+        "q": "How long should I stay in Railay Beach?",
+        "a": "Plan 3-5 days to explore all four beaches, climb routes, and relax; extend to a week if focusing on advanced climbing or boat day trips."
+      },
+      {
+        "q": "Is it worth going to Railay Beach?",
+        "a": "Yes, for its unique boat-access peninsula and top beaches—worth it for climbers and couples, though skip if you prefer road-easy spots like Ao Nang."
+      },
+      {
+        "q": "What's the best time to visit Railay Beach?",
+        "a": "November to April for dry weather and calm seas; avoid rainy season if boat travel concerns you, and book early for peak December-January."
+      }
+    ],
+    "urgencyLine": "Limited rooms on the boat-only peninsula book out fast in high season—secure spots 3-4 months ahead for 2026 stays.",
+    "methodology": "We compared Railay Beach to Ao Nang and Krabi Town based on walkability, price level, noise, and suitability for its typical travellers. We weighted walkability highest because the car-free trails define its appeal for climbers and beachgoers. Last updated: 2026-04.",
+    "metaTitle": "Staying in Railay Beach, Krabi (2026)",
+    "metaDescription": "Discover staying in Railay Beach, Krabi: boat-only peninsula with climbing and beaches for couples. Mid-range to luxury options—see hotels and compare…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:25:57.170Z"
+}

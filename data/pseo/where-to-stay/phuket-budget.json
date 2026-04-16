@@ -1,0 +1,278 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "audience": "budget",
+  "neighborhoods": [
+    {
+      "name": "Rawai & Nai Harn",
+      "description": "The southern tip of Phuket with a distinctly local flavor. Rawai has no swimming beach but has the island's best seafood market and a community of long-stay expats. Nai Harn, 5 minutes away, has one of Phuket's most beautiful beaches backed by a Buddhist monastery. Quieter, more authentic, and significantly cheaper than the west coast tourist areas.",
+      "bestFor": "Long-stayers & food lovers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Rawai Seafood Market — buy-and-cook fresh seafood at local prices",
+        "Nai Harn Beach — one of Phuket's prettiest and least developed beaches",
+        "Promthep Cape sunset viewpoint 5 minutes away",
+        "Strong expat community with monthly rental apartments",
+        "Local prices for food, massage, and daily expenses"
+      ],
+      "recommendedHotels": [
+        "The Nai Harn"
+      ],
+      "walkingScore": "4/10",
+      "transportNotes": [
+        "30–40 minutes from Patong",
+        "Own transport essential",
+        "Monthly scooter rentals popular with long-stayers (3,000–4,000 THB/month)"
+      ],
+      "sources": [
+        {
+          "sourceName": "Phuket Insider",
+          "sourceUrl": "https://phuket-insider.com/en/blog/14-popular-districts-of-phuket-how-to-choose/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Phuket Old Town",
+      "description": "The historic heart of the island on the east coast, far from the beaches but rich in culture and cuisine. Colorful Sino-Portuguese shophouses, street art, independent cafes, museums, and the island's best local food scene. Increasingly popular with culture-focused travelers and those who want to experience the real Phuket beyond the beaches.",
+      "bestFor": "Culture lovers & foodies",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Sino-Portuguese architecture — Phuket's most photogenic streets",
+        "Sunday Walking Street Market on Thalang Road",
+        "Best and cheapest food on the island — mee hokkien, moo hong, kanom jeen",
+        "Thai Hua Museum and other cultural sites",
+        "Boutique guesthouses in restored shophouses"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": [
+        "30–40 minutes from Patong by Grab (250–350 THB)",
+        "No Smart Bus — need Grab or scooter to reach beaches",
+        "Very walkable within Old Town itself"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Routes",
+          "sourceUrl": "https://www.thailandroutes.com/en/where-to-stay-in-phuket-the-ultimate-guide-to-patong-kata-karon-old-town-and-beyond/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Nai Yang Beach",
+      "description": "Nai Yang Beach lies within Sirinat National Park on Phuket's northwest coast, adjacent to the international airport. The beach features calm, shallow waters suitable for swimming and is backed by pine trees. It includes a small commercial area with seafood restaurants.",
+      "bestFor": "budget, backpackers, first-time visitors",
+      "priceLevel": "€",
+      "highlights": [
+        "Nai Yang Beach",
+        "Sirinat National Park",
+        "Turtle Village shopping area",
+        "Na Yang Seafood Restaurant"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Direct bus from Phuket Bus Terminal 2",
+        "5-10 minute taxi from Phuket International Airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Phuket_province#Sirinat_National_Park"
+        },
+        {
+          "sourceName": "Tourism Authority of Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Attraction/nai-yang-beach-national-park"
+        }
+      ]
+    },
+    {
+      "name": "Chalong",
+      "description": "Chalong is a southern inland district in Phuket, serving as a departure point for boat trips to Koh Phi Phi and other islands from Chalong Pier. It features local markets and temples, including Wat Chalong, one of the island's most visited shrines. The area has budget guesthouses and repair shops.",
+      "bestFor": "budget, backpackers, first-time visitors",
+      "priceLevel": "€",
+      "highlights": [
+        "Wat Chalong",
+        "Big Buddha",
+        "Chalong Pier",
+        "Chalong Night Market"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Phuket Town",
+        "Taxi from airport about 45 minutes"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Chalong"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g297934-d5984567-Reviews-Chalong_Pier-Chalong_Phuket.html"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where is the best place to stay in Phuket budget friendly?",
+    "Which part of Phuket is best to stay in?",
+    "Where do most tourists stay in Phuket?",
+    "Is it better to stay in Phuket Town or Patong?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Phuket neighbourhood as a budget traveller can drain your wallet on transport and overpriced spots — most travellers default to crowded Patong and regret the costs.",
+    "intro": "For budget travellers in Phuket, the key factor is areas with low-cost accommodations under €40 per night and easy access to free beaches or markets. We ranked neighbourhoods based on price bands, walkability to essentials, and value for backpackers and first-timers.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Nai Yang Beach",
+        "why": "Affordable near airport and beach"
+      },
+      {
+        "label": "Best value",
+        "name": "Phuket Old Town",
+        "why": "Cheap culture and street food"
+      },
+      {
+        "label": "Best for backpackers",
+        "name": "Chalong",
+        "why": "Budget boats to islands"
+      }
+    ],
+    "urgencyLine": "Budget rooms in Phuket's northwest like Nai Yang spike 20-30% during Nov-May high season — secure spots 1-2 months ahead to avoid paying mid-range prices.",
+    "comparisonTable": [
+      {
+        "name": "Rawai & Nai Harn",
+        "bestFor": "Long-stayers food lovers",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "local laid-back",
+        "drawback": "Rawai lacks swimming beach"
+      },
+      {
+        "name": "Phuket Old Town",
+        "bestFor": "Culture lovers foodies",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "traditional buzzing",
+        "drawback": "Far from beaches"
+      },
+      {
+        "name": "Nai Yang Beach",
+        "bestFor": "budget backpackers first-timers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "quiet laid-back",
+        "drawback": "Limited nightlife options"
+      },
+      {
+        "name": "Chalong",
+        "bestFor": "budget backpackers first-timers",
+        "priceBand": "€",
+        "walkability": "Low",
+        "vibe": "local traditional",
+        "drawback": "Inland no direct beach"
+      }
+    ],
+    "decisionGuide": [
+      "If you want calm beach access without airport hassle, choose Nai Yang Beach.",
+      "If culture and cheap eats are your priority, choose Phuket Old Town.",
+      "If island hopping on a tight budget matters, choose Chalong.",
+      "If long stays with local seafood appeal, choose Rawai & Nai Harn.",
+      "If you're a first-timer seeking value over luxury, choose Nai Yang Beach.",
+      "If avoiding tourist crowds is key, choose Chalong."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Nai Yang Beach",
+        "why": "It tops for budget travellers with € rooms, calm swimming waters in a national park, and airport proximity that cuts transport costs versus inland spots like Chalong. This beats Phuket Old Town by offering beach access without extra travel expenses.",
+        "drawback": "Nightlife is minimal, requiring trips to busier areas.",
+        "skipIf": "Skip if you crave vibrant street scenes or historic walks.",
+        "localSignals": [
+          "Adjacent to Phuket International Airport (5-10 min drive)",
+          "Walking to Nai Yang Beach (under 10 min)",
+          "Typical Grab from airport to beach: under €10"
+        ],
+        "travellerNote": "Travellers often praise the peaceful pine-backed beach and budget hostels but note fewer dining options than in Old Town."
+      },
+      {
+        "rank": 2,
+        "name": "Chalong",
+        "why": "Chalong delivers € accommodations ideal for backpackers eyeing cheap boat trips from Chalong Pier, outvaluing Rawai & Nai Harn by focusing on island access over expat vibes. It edges Nai Yang for those prioritizing adventures over beach lounging.",
+        "drawback": "Requires transport to reach beaches or main attractions.",
+        "skipIf": "Skip if you need walkable beachfront daily.",
+        "localSignals": [
+          "Near Chalong Pier for boats (5 min drive)",
+          "Walking to Wat Chalong temple (10-15 min)",
+          "Typical Grab from Phuket airport: €15-20"
+        ],
+        "travellerNote": "Travellers often praise the affordable pier departures and local markets but note the inland location means more tuk-tuk rides."
+      },
+      {
+        "rank": 3,
+        "name": "Phuket Old Town",
+        "why": "Phuket Old Town offers budget eats amid Sino-Portuguese shophouses and street art, providing cultural depth at lower costs than mid-range southern areas like Rawai & Nai Harn. It suits foodies better than Chalong's temple focus by centralizing free exploration.",
+        "drawback": "Beaches are 30-45 minutes away by transport.",
+        "skipIf": "Skip if beach time is your main goal over sightseeing.",
+        "localSignals": [
+          "Walking to Thalang Road shophouses (under 10 min)",
+          "Near Phuket Weekend Market (15 min walk)",
+          "Typical Grab from airport: €20-25"
+        ],
+        "travellerNote": "Travellers often praise the vibrant local food scene and indie cafes but note the distance from coastal activities."
+      }
+    ],
+    "topPick": "Nai Yang Beach",
+    "topPickReason": "Nai Yang Beach balances € stays, easy airport access, and a serene park beach, maximizing savings for budget travellers over more remote or inland options.",
+    "bookingTips": [
+      "Book 1-2 months ahead for Nov-May to lock in hostels under €40 near Nai Yang Beach.",
+      "From Phuket Airport, take a 10-min Grab ride to Nai Yang for €5-10 instead of pricier taxis.",
+      "Avoid booking near Chalong Pier during boat rush hours to dodge noise from early departures.",
+      "Steer clear of unmarked tuk-tuks in Old Town markets to prevent overcharges; use Grab app.",
+      "In rainy Jun-Oct, pick upper-floor rooms in Rawai & Nai Harn to avoid flood-prone streets.",
+      "Opt for fan rooms over AC in € hostels to cut costs, as Phuket's breeze suffices in coastal spots."
+    ],
+    "methodology": "We compared Phuket neighbourhoods based on price level, walkability, transport access from the airport, and suitability for budget backpackers and first-timers. We weighted price band highest because it directly impacts daily spend for this audience. Rankings reflect reference data on best-for tags plus typical budget priorities like low transport needs. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/areas/phuket/nai-yang-beach/",
+      "/guides/where-to-stay/phuket/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Phuket'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Nai Yang Beach'"
+    ],
+    "faq": [
+      {
+        "q": "Where is the best place to stay in Phuket budget friendly?",
+        "a": "Nai Yang Beach stands out for € hostels near the airport and calm waters, ideal for backpackers saving on transport. It offers better value than busier Patong spots."
+      },
+      {
+        "q": "Which part of Phuket is best to stay in?",
+        "a": "For budget travellers, choose Nai Yang Beach or Chalong for affordable access to beaches and boats under €40 nightly. These beat central areas for cost and convenience."
+      },
+      {
+        "q": "Where do most tourists stay in Phuket?",
+        "a": "Most head to Patong for nightlife, but budget travellers prefer Nai Yang Beach or Phuket Old Town to avoid high prices and crowds while enjoying local vibes."
+      },
+      {
+        "q": "Is it better to stay in Phuket Town or Patong?",
+        "a": "Phuket Old Town (Phuket Town) is better for budget culture lovers with cheap street food, unlike pricey Patong; skip Patong if saving money is key."
+      },
+      {
+        "q": "What are cheap areas in Phuket?",
+        "a": "Chalong and Nai Yang Beach provide € options for first-timers, with markets and piers nearby, focusing on value over touristy luxury."
+      }
+    ],
+    "metaTitle": "Where to Stay in Phuket for Budget (2026)",
+    "metaDescription": "Find budget stays in Phuket neighborhoods like Nai Yang Beach and Chalong, with € rooms near beaches, markets, and airport for savings in 2026. Compare…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:34:58.221Z"
+}

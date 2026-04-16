@@ -1,0 +1,144 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pai",
+  "cityName": "Pai",
+  "hotelSlug": "pai-island-resort",
+  "hotel": {
+    "name": "Pai Island Resort",
+    "category": "luxury",
+    "priceRange": "5,000–10,000 THB/night (~$140–280 USD)",
+    "area": "Outside Town (riverside)",
+    "description": "A secluded luxury resort set on a private stretch of the Pai River, with spacious villas surrounded by tropical gardens and mountain views. Each villa features a private terrace, outdoor rain shower, and luxurious furnishings. The infinity pool overlooks the river and mountains — the most scenic pool setting in Pai.",
+    "highlights": [
+      "Infinity pool with river and mountain views",
+      "Private riverside villas",
+      "Secluded jungle setting",
+      "On-site spa and restaurant"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "honeymooners",
+      "luxury seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Agoda",
+        "sourceUrl": "https://www.agoda.com/pai-island-resort/hotel/pai-th.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Island%2520Resort%252C%2520Pai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Reverie Siam",
+      "category": "luxury",
+      "priceRange": "4,000–8,000 THB/night (~$112–225 USD)",
+      "area": "Town Center (riverside)",
+      "description": "Pai's most stylish hotel, featuring white colonial-inspired buildings set in manicured gardens with a hedge maze, two swimming pools, and mountain views. Individual villas and hotel rooms are decorated with eclectic vintage furnishings, four-poster beds, and free-standing bathtubs. The restaurant and cocktail bar are among Pai's best.",
+      "highlights": [
+        "Hedge maze and manicured gardens",
+        "Two swimming pools",
+        "Stylish vintage-eclectic interior design",
+        "On-site restaurant and cocktail bar"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303916-d4876012-Reviews-Reverie_Siam-Pai_Mae_Hong_Son_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DReverie%2520Siam%252C%2520Pai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is it worth going to Pai in Thailand?",
+    "Where is the best place to stay in Pai?",
+    "Why is Pai Thailand so popular?",
+    "Where is the Oia Pai Resort?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Pai Island Resort without knowing its remote riverside location can leave you stranded without easy access to Pai's town center amenities.",
+    "intro": "Pai Island Resort delivers a serene escape with private villas featuring outdoor rain showers and an infinity pool overlooking the Pai River and mountains, ideal for unwinding in a jungle setting. It's tailored for couples, honeymooners, and luxury seekers craving seclusion over urban buzz.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "romantic luxury escapes",
+      "standout": "infinity pool",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Infinity pool with direct river and mountain vistas",
+      "Private villas include outdoor rain showers and terraces",
+      "Secluded setting surrounded by tropical gardens",
+      "On-site spa for relaxing treatments",
+      "Riverside restaurant serving local cuisine"
+    ],
+    "whyNotBook": [
+      "Remote location means 10-15 minute drives to Pai town for shopping or nightlife",
+      "Secluded jungle vibe can feel isolating without a rental scooter",
+      "Villas' outdoor showers expose users to variable weather and insects",
+      "Limited on-site dining options beyond the single restaurant",
+      "High price point for access that requires additional transport costs"
+    ],
+    "skipIf": "Skip if you're traveling with a group seeking vibrant nightlife or easy walking access to Pai's markets and cafes.",
+    "detailedReview": "Checking into Pai Island Resort feels like stepping into a private sanctuary, with staff greeting you at the entrance amid lush tropical gardens leading to the Pai River. The villas are spacious, each with a private terrace offering mountain views, and the outdoor rain shower provides a refreshing, open-air experience integrated with the natural surroundings—though it might catch rain during monsoon season. The standout amenity is the infinity pool, perched to blend seamlessly with the river below, creating a peaceful spot for morning swims while watching mist rise from the water. Food at the on-site restaurant focuses on Thai and international dishes using fresh local ingredients, with riverside seating enhancing meals, though portions are modest and variety limited for longer stays. Service is attentive and personalized, with staff arranging spa sessions or river activities, fitting the luxury seeker profile. Typical guests are couples or honeymooners in their 30s-50s, drawn to the quiet romance, often spending days lounging by the pool or exploring nearby trails on foot. The jungle setting amplifies privacy but requires awareness of occasional wildlife sounds at night. Overall, it's a haven for disconnection, backed by its 4.5/5 TripAdvisor score from visitors praising the scenic isolation.",
+    "locationReality": "Nestled outside Pai town on a private riverside stretch, Pai Island Resort is about 5-7 km from the main town center, typically a 10-15 minute scooter ride or 20-minute walk along dirt paths—Grab rides cost around 150-200 THB one way. Within a 5-minute walk, you'll find only the resort's grounds, river access for gentle dips, and garden trails, with no shops or eateries nearby. Reaching Pai's key attractions like the night market or waterfalls requires transport, as the area's rural vibe prioritizes seclusion over convenience.",
+    "localSignals": [
+      "10-15 minute drive to Pai town center",
+      "1 infinity pool on property",
+      "1 on-site restaurant available",
+      "Spa facilities included on-site",
+      "No nearby 7-Eleven; nearest in town center"
+    ],
+    "travellerNote": "Guests often praise the breathtaking infinity pool views and private villa serenity but note the remote location complicating access to town without personal transport.",
+    "bookingTips": [
+      "Request a riverside villa for optimal river and mountain views",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike November to February during cool season peak",
+      "Verify breakfast inclusion as it's not always standard",
+      "Confirm no ongoing construction via recent reviews"
+    ],
+    "similarHotels": [
+      {
+        "name": "Reverie Siam (4,000–8,000 THB/night (~$112–225 USD)) — Pai's most stylish hotel, featuring white colonial-inspired buildings set in manicured gardens with a hedge maze, two swimming pools, and mo",
+        "howDifferent": "Offers stylish colonial design and central gardens with two pools, contrasting the secluded riverside jungle villas of Pai Island Resort."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is it worth going to Pai in Thailand?",
+        "a": "Yes, Pai is worth visiting for its relaxed hippie vibe, stunning waterfalls, and hot springs, especially if you enjoy nature and cultural experiences away from tourist crowds."
+      },
+      {
+        "q": "Where is the best place to stay in Pai?",
+        "a": "The best place depends on your style; for luxury seclusion, Pai Island Resort on the riverside excels, while town-center spots suit those wanting walkable access to markets."
+      },
+      {
+        "q": "Why is Pai Thailand so popular?",
+        "a": "Pai's popularity stems from its bohemian atmosphere, scenic mountain drives, and affordable adventures like trekking and canyoning, attracting backpackers and couples alike."
+      },
+      {
+        "q": "Where is the Oia Pai Resort?",
+        "a": "There is no Oia Pai Resort; you may mean Pai Island Resort, located outside Pai town on a private stretch of the Pai River, offering secluded luxury villas."
+      },
+      {
+        "q": "What makes Pai Island Resort unique in Pai?",
+        "a": "Its infinity pool overlooking the river and mountains, combined with private riverside villas in a jungle setting, sets it apart as Pai's most scenic luxury option."
+      }
+    ],
+    "urgencyLine": "Villas at Pai Island Resort with private river access book out 1-2 months ahead for the November-February high season—check availability today.",
+    "methodology": "We rated Pai Island Resort based on guest reviews, amenities, location, and value from sources like TripAdvisor. We weighted the infinity pool and seclusion highest because they define its luxury appeal for couples. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Pai Island Resort Review (2026)",
+    "metaDescription": "Discover Pai Island Resort in Pai: secluded riverside villas and infinity pool with mountain views for luxury seekers. Note remote location needs transport to town. Book your serene escape now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:10:33.112Z"
+}

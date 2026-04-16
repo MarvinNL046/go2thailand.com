@@ -1,0 +1,131 @@
+{
+  "template": "area-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "areaSlug": "pratunam",
+  "areaName": "Pratunam",
+  "neighborhood": {
+    "name": "Pratunam",
+    "description": "Pratunam is a wholesale market district in the Ratchathewi area, adjacent to Siam, specializing in clothing and accessories. It features bustling streets with hotels and budget eateries. The neighborhood is linked by skybridges to nearby malls.",
+    "bestFor": "budget, backpackers, shopping",
+    "priceLevel": "€",
+    "highlights": [
+      "Pratunam Market",
+      "Baiyoke Tower II",
+      "Big C Rajdamri",
+      "Ratchaprasong Intersection",
+      "Platinum Fashion Mall"
+    ],
+    "walkingScore": "Medium",
+    "transportNotes": [
+      "BTS Ratchathewi station",
+      "BTS Chit Lom station",
+      "Taxi hub for markets"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pratunam"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Sukhumvit",
+    "Silom & Sathorn",
+    "Khao San & Banglamphu (Old City North)",
+    "Riverside (Charoen Krung & Sathorn Pier)",
+    "Chinatown & Yaowarat"
+  ],
+  "paaQuestions": [
+    "Is Pratunam a good area to stay in?",
+    "Which area is best to stay in Bangkok for tourists?",
+    "Is Pratunam a good area to stay on Reddit?",
+    "What is Centre Point Pratunam known for?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Pratunam can leave you stuck in endless wholesale crowds without easy mall access — most first-timers overlook the skybridge connections and end up walking farther than needed.",
+    "intro": "Pratunam stands out as Bangkok's go-to wholesale hub for clothing and accessories, right next to Siam's malls, making it ideal for deal-hunters on a budget. We ranked it highest for backpackers and shoppers based on its low prices, medium walkability, and direct BTS links.",
+    "vibe": "Bustling + market-driven",
+    "quickStats": {
+      "priceBand": "€",
+      "walkability": "Medium",
+      "bestFor": "Budget backpackers and shopping",
+      "safetyNote": "Safe, watch bags in crowded markets"
+    },
+    "detailedDescription": "In Pratunam, travelers navigate narrow streets packed with wholesale stalls hawking piles of t-shirts, bags, and knockoff accessories, where vendors haggle loudly from dawn till late. Locals are mostly market traders and factory workers shuttling goods, mixing with budget tourists flipping through racks for souvenirs. Days buzz with shopper surges around Pratunam Market, spilling onto sidewalks where food carts serve pad thai and som tam for under 50 baht; expect shoulder-to-shoulder traffic near Ratchaprasong Intersection. Nights dial down slightly after 10pm, but streetlights stay on as late-night eateries near Big C Rajdamri draw office crowds for quick rice bowls—noise from motos and chatter lingers at moderate levels on main drags like Phetchaburi Road. The food scene sticks to no-frills: think plastic stools at curry stalls or mall food courts via skybridges to Platinum Fashion Mall. Getting around means hopping BTS at Ratchathewi or Chit Lom stations for quick rides to Siam, or grabbing taxis at market hubs—walking is feasible but sweaty in the heat, especially lugging shopping bags across elevated walkways. It's functional for short stays, with guesthouses tucked amid the wholesale chaos, but lacks quiet corners for downtime.",
+    "localSignals": [
+      "BTS Ratchathewi station, 5-minute walk to central Pratunam",
+      "Taxi from Suvarnabhumi Airport: 300-500 THB, 45-60 minutes",
+      "Pratunam Market: 0-5 minute walk from most hotels in area",
+      "Noise level at night: moderate from street vendors and traffic",
+      "Big C Rajdamri supermarket and 7-Eleven clusters within 2-minute walk"
+    ],
+    "pros": [
+      "Wholesale deals on clothes and accessories",
+      "Easy skybridge access to Siam malls",
+      "BTS stations for quick city hops",
+      "Budget street food everywhere",
+      "Central location near shopping hubs"
+    ],
+    "cons": [
+      "Crowded sidewalks during market peak hours",
+      "Traffic noise on Phetchaburi Road until midnight",
+      "Limited non-shopping attractions nearby",
+      "Hot and humid walks between stalls",
+      "Fewer upscale dining options"
+    ],
+    "skipIf": "Skip if you're traveling with young kids who tire from constant market bustle.",
+    "compareTo": [
+      {
+        "areaName": "Sukhumvit",
+        "shortPitch": "Sukhumvit offers more modern high-rises and expat bars compared to Pratunam's wholesale street chaos.",
+        "recommendFor": "Nightlife seekers and luxury stays"
+      },
+      {
+        "areaName": "Khao San & Banglamphu (Old City North)",
+        "shortPitch": "Khao San provides backpacker party vibes and temples, unlike Pratunam's focus on shopping markets.",
+        "recommendFor": "Party backpackers and history buffs"
+      },
+      {
+        "areaName": "Chinatown & Yaowarat",
+        "shortPitch": "Chinatown delivers street food intensity and gold shops, differing from Pratunam's clothing wholesale emphasis.",
+        "recommendFor": "Foodies and cultural explorers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the unbeatable shopping bargains and BTS convenience but note the overwhelming crowds and persistent street noise as drawbacks.",
+    "faq": [
+      {
+        "q": "Is Pratunam a good area to stay in?",
+        "a": "Yes, Pratunam suits budget travelers for its wholesale markets and mall links via skybridges. Recommend it for short shopping-focused trips over longer relaxed stays."
+      },
+      {
+        "q": "Which area is best to stay in Bangkok for tourists?",
+        "a": "For shopping and budget, Pratunam tops the list; for nightlife, try Sukhumvit. It depends on priorities, but Pratunam's central access makes it versatile for first-timers."
+      },
+      {
+        "q": "Is Pratunam a good area to stay on Reddit?",
+        "a": "Reddit users rate Pratunam highly for value and proximity to Siam, though some mention crowd fatigue. It's recommended for backpackers avoiding pricier spots."
+      },
+      {
+        "q": "What is Centre Point Pratunam known for?",
+        "a": "Centre Point Pratunam is known for its serviced apartments with pool views and easy access to Platinum Mall. It's popular for families seeking comfort amid the markets."
+      },
+      {
+        "q": "How walkable is Pratunam?",
+        "a": "With medium walkability, Pratunam connects via skybridges to malls, but streets get congested. Use BTS for longer distances to avoid heat."
+      },
+      {
+        "q": "Best hotels in Pratunam for budget travelers?",
+        "a": "Look for guesthouses near BTS Ratchathewi for under 1000 THB/night. They offer basic amenities close to markets without breaking the bank."
+      }
+    ],
+    "urgencyLine": "Budget rooms near Pratunam Market fill up fast during weekend shopping rushes — book 1-2 months ahead for 2026 peak season.",
+    "methodology": "We compared Pratunam to Sukhumvit and Khao San & Banglamphu based on walkability, price level, noise, and suitability for budget shoppers. We weighted price and shopping access highest because they define Pratunam's appeal for backpackers. Last updated: 2026-04.",
+    "metaTitle": "Staying in Pratunam, Bangkok (2026)",
+    "metaDescription": "Discover staying in Pratunam, Bangkok: budget shopping hub with BTS access and wholesale markets. Ideal for backpackers—compare areas and see hotels for…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:18:20.840Z"
+}

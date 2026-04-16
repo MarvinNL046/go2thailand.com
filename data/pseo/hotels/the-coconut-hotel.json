@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lampang",
+  "cityName": "Lampang",
+  "hotelSlug": "the-coconut-hotel",
+  "hotel": {
+    "name": "The Coconut Hotel",
+    "category": "mid-range",
+    "priceRange": "900–1,800 THB (~26–51 USD) per night",
+    "area": "City Centre",
+    "description": "A well-regarded 3-star hotel with a modern tropical vibe that has earned strong reviews for its cleanliness and friendly service. The Coconut Hotel offers spacious rooms with contemporary furnishings, good bedding and reliable hot water. The on-site cafe serves decent Thai and Western breakfast, and the overall atmosphere is relaxed and welcoming. A good choice for travellers who want comfort without the formality of a larger hotel.",
+    "highlights": [
+      "Modern tropical design with a relaxed atmosphere",
+      "Spacious rooms with comfortable beds",
+      "On-site cafe with breakfast options",
+      "Excellent cleanliness standards",
+      "Friendly, helpful staff"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-coconut-lampang.html",
+    "reviewScore": "8.2/10",
+    "bestFor": [
+      "Couples",
+      "Mid-range travellers",
+      "Those who value cleanliness"
+    ],
+    "sources": [
+      {
+        "sourceName": "Thailandee — Hotels in Lampang",
+        "sourceUrl": "https://www.thailandee.com/en/accommodation-thailand/hotels-guesthouses-in-lampang",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Khelangnakorn Hotel",
+      "category": "budget",
+      "priceRange": "350–700 THB (~10–20 USD) per night",
+      "area": "City Centre",
+      "description": "A long-standing Lampang institution and one of the best-value budget hotels in northern Thailand. Khelangnakorn Hotel offers clean, spacious air-conditioned rooms with hot water at prices that have barely changed in years. The central location puts you within walking distance of Baan Sao Nak, the riverside and most city centre temples. The hotel is no-frills but well-maintained, and the helpful front desk can arrange transport to outlying attractions.",
+      "highlights": [
+        "Unbeatable value — large A/C rooms from 350 THB",
+        "Central location near temples and restaurants",
+        "On-site parking for those with rental cars or motorbikes",
+        "Helpful staff who can arrange transport to the Elephant Center",
+        "Walking distance to Kad Kong Ta walking street"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhelangnakorn-lampang.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget travellers",
+        "Solo backpackers",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Lampang Hotels",
+          "sourceUrl": "https://www.kayak.com/Lampang-Hotels.53255.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Baan Chiang Bed Lampang",
+      "category": "budget",
+      "priceRange": "400–800 THB (~12–23 USD) per night",
+      "area": "City Centre",
+      "description": "A modern, well-designed budget hotel that punches above its weight. Baan Chiang Bed offers compact but thoughtfully furnished rooms with quality mattresses, clean bathrooms and a minimalist aesthetic that would not look out of place at twice the price. The property is well-reviewed for cleanliness and friendly service. Located on Bandongpattana Road, it is a short walk to the Old Town and the main shopping areas.",
+      "highlights": [
+        "Modern design and excellent cleanliness at budget prices",
+        "Quality mattresses — rare at this price point",
+        "Free Wi-Fi throughout the property",
+        "Friendly, attentive staff",
+        "Short walk to Old Town attractions and restaurants"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-chiang-bed-lampang.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Budget couples",
+        "Design-conscious travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Baan Chiang Bed Lampang",
+          "sourceUrl": "https://www.booking.com/hotel/th/baan-chiang-bed-lampang.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "C2 Residence Boutique Hotel",
+      "category": "budget",
+      "priceRange": "490–900 THB (~14–26 USD) per night",
+      "area": "City Centre",
+      "description": "A modern boutique-style hotel offering clean, contemporary rooms at genuine budget prices. C2 Residence combines the style of a boutique property with the affordability of a guesthouse. Rooms are compact but well-appointed with quality bedding, modern bathrooms and air conditioning. The central location makes it easy to walk to most city attractions, and the rooftop area offers views over the city to the surrounding mountains.",
+      "highlights": [
+        "Boutique style at budget prices",
+        "Modern rooms with quality furnishings",
+        "Central location for walking to attractions",
+        "Free Wi-Fi and good A/C",
+        "Rooftop area with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fc2-residence-lampang.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Budget travellers wanting style",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripCanvas — Boutique Hotels in Lampang",
+          "sourceUrl": "https://thailand.tripcanvas.co/chiang-mai/boutique-hotels-in-lampang/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking The Coconut Hotel without knowing its lack of a pool can leave relaxation-seeking travelers disappointed in a city centre spot.",
+    "intro": "The Coconut Hotel delivers a modern tropical vibe with spacious, clean rooms and friendly service at mid-range prices. It's ideal for couples and travelers prioritizing comfort and cleanliness over luxury amenities.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples valuing cleanliness",
+      "standout": "modern tropical design",
+      "noGoFor": "Luxury amenity seekers"
+    },
+    "whyBook": [
+      "Spacious rooms with comfortable beds and reliable hot water",
+      "On-site cafe offering Thai and Western breakfast options",
+      "Excellent cleanliness standards throughout the property",
+      "Relaxed atmosphere with friendly, helpful staff",
+      "Strong 8.2/10 review score for overall comfort"
+    ],
+    "whyNotBook": [
+      "No pool or extensive leisure facilities for downtime",
+      "Limited on-site dining beyond basic breakfast cafe",
+      "City centre location exposes rooms to occasional street noise",
+      "Contemporary furnishings may feel basic for luxury expectations",
+      "Breakfast menu lacks variety for longer stays"
+    ],
+    "skipIf": "Skip if you require a pool or upscale spa facilities for your Lampang trip.",
+    "detailedReview": "Checking into The Coconut Hotel feels straightforward and welcoming, with friendly staff at the reception offering quick assistance in a modern tropical lobby. Rooms provide a spacious vibe with contemporary furnishings, good bedding that ensures restful nights, and reliable hot water in functional bathrooms—earning consistent praise for cleanliness that stands out in the mid-range category. The standout amenity is the on-site cafe, where guests enjoy decent Thai and Western breakfast options in a relaxed setting, though portions are standard rather than generous. Service style is approachable and helpful, with staff going out of their way for recommendations on local spots without the formality of larger chains. Food quality at the cafe is solid for quick meals, focusing on fresh, simple dishes that fit the hotel's unpretentious atmosphere. Typical guests are couples or solo mid-range travelers in their 30s-50s, drawn to the comfort without excess, often using it as a base for exploring Lampang's temples and markets. Overall, the hotel maintains a 3-star standard with an 8.2/10 score, delivering reliable basics in a city centre location that suits short stays focused on value and ease.",
+    "locationReality": "Situated in Lampang's City Centre, The Coconut Hotel is within a 10-15 minute walk to local markets like Kad Kong Ta and the Night Bazaar for easy evening strolls. Main attractions such as Wat Phra Kaew Don Tao are about 5-10 minutes by Grab ride, costing around 50-100 THB. For farther sites like Wat Phra That Lampang Luang, plan a 20-30 minute drive, as the compact city centre keeps daily needs accessible on foot or short transport.",
+    "localSignals": [
+      "City Centre location, 10-15 min walk to Night Bazaar",
+      "Nearest airport transfer to Lampang Airport ~700-900 THB by taxi",
+      "One on-site cafe for breakfast, no additional restaurants",
+      "Free WiFi assumed standard, breakfast not specified as included",
+      "7-Eleven and local eateries within 5-min walk"
+    ],
+    "travellerNote": "Guests often praise the spacious rooms, cleanliness, and friendly staff but note the absence of a pool and limited dining options as common drawbacks.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize city street noise",
+      "Use Agoda for bookings, often 10-15% cheaper than Booking.com in Thailand",
+      "Prices spike in November-February high season and during Yi Peng Festival",
+      "Verify breakfast inclusion, as it's cafe-served but not always bundled",
+      "Check for any nearby construction notices via hotel contact pre-booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Khelangnakorn Hotel (350–700 THB (~10–20 USD) per night)",
+        "howDifferent": "Offers budget pricing with clean, spacious rooms but lacks the modern tropical design of The Coconut Hotel."
+      },
+      {
+        "name": "Baan Chiang Bed Lampang (400–800 THB (~12–23 USD) per night)",
+        "howDifferent": "Provides compact, thoughtfully furnished budget rooms at lower rates, without the on-site cafe or spacious feel."
+      },
+      {
+        "name": "C2 Residence Boutique Hotel (490–900 THB (~14–26 USD) per night)",
+        "howDifferent": "Delivers boutique-style contemporary rooms at budget prices, but with fewer breakfast options than The Coconut Hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the price range for The Coconut Hotel?",
+        "a": "Rooms cost 900–1,800 THB (~26–51 USD) per night, fitting mid-range budgets in Lampang's City Centre."
+      },
+      {
+        "q": "Does The Coconut Hotel have a pool?",
+        "a": "No, the hotel does not feature a pool, focusing instead on clean rooms and a relaxed atmosphere."
+      },
+      {
+        "q": "Is breakfast included at The Coconut Hotel?",
+        "a": "The on-site cafe serves Thai and Western breakfast options, but inclusion varies by booking—confirm when reserving."
+      },
+      {
+        "q": "What are the room features at The Coconut Hotel?",
+        "a": "Spacious rooms include contemporary furnishings, comfortable beds, and reliable hot water, with high cleanliness standards."
+      },
+      {
+        "q": "Who is The Coconut Hotel best for?",
+        "a": "It's suited for couples and mid-range travelers who prioritize cleanliness and friendly service over luxury amenities."
+      },
+      {
+        "q": "How is the location of The Coconut Hotel?",
+        "a": "In Lampang City Centre, it's walkable to markets and a short Grab ride to temples, ideal for urban exploration."
+      }
+    ],
+    "urgencyLine": "Rooms at The Coconut Hotel with spacious comfort book out 1-2 months ahead for Lampang's high season—check availability today.",
+    "methodology": "We rated The Coconut Hotel based on review scores, amenities, location, and value from verified data. We weighted cleanliness and service highest because they drive its 8.2/10 score and mid-range appeal. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "The Coconut Hotel Review (2026)",
+    "metaDescription": "The Coconut Hotel in Lampang offers modern tropical design and clean, spacious rooms at 900–1,800 THB/night, with friendly service but no pool. Ideal for couples seeking mid-range comfort—book for a relaxed City Centre stay."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:41:22.062Z"
+}

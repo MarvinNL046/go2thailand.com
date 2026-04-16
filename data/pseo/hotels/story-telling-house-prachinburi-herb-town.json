@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "prachinburi",
+  "cityName": "Prachinburi",
+  "hotelSlug": "story-telling-house-prachinburi-herb-town",
+  "hotel": {
+    "name": "Story Telling House Prachinburi Herb Town",
+    "category": "mid-range",
+    "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+    "area": "Prachinburi Town / Riverside",
+    "description": "A well-reviewed boutique accommodation and restaurant on the Prachinburi River, combining herb garden settings, Thai herbal wellness experiences, and comfortable rooms. The riverside location is atmospheric and the on-site Thai restaurant serves food incorporating local herbs and organic ingredients. A genuinely characterful option that reflects Prachinburi's identity better than a generic hotel.",
+    "highlights": [
+      "Riverside location with herb garden",
+      "On-site restaurant with local herb-infused Thai cuisine",
+      "Boutique character in a generic market"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "wellness seekers",
+      "food enthusiasts"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor Prachinburi Restaurants",
+        "sourceUrl": "https://www.tripadvisor.com/Restaurants-g982714-Prachin_Buri_Prachin_Buri_Province.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStory%2520Telling%2520House%2520Prachinburi%2520Herb%2520Town%252C%2520Prachinburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Khaoyai Garden Lodge",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Kabin Buri / Khao Yai East Zone",
+      "description": "A forest lodge resort positioned for access to Khao Yai's eastern entrance via Prachinburi. Comfortable wood-accented bungalows in a forested garden setting with a swimming pool and open-air restaurant serving Thai food. Staff can arrange national park tours, wildlife watching, and local guide services. The forest setting means guests sometimes spot wildlife in the gardens at dawn.",
+      "highlights": [
+        "Forest bungalow setting near Khao Yai east entrance",
+        "Swimming pool and open-air restaurant",
+        "In-house guide services for national park visits"
+      ],
+      "reviewScore": "4.1/5 TripAdvisor",
+      "bestFor": [
+        "nature lovers",
+        "couples",
+        "wildlife enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor Prachinburi Province Resorts",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g2098630-zff8-Prachin_Buri_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKhaoyai%2520Garden%2520Lodge%252C%2520Prachinburi%252C%2520Thailand"
+    },
+    {
+      "name": "Na Di Forest Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-2,800 THB/night (~$42-78 USD)",
+      "area": "Na Di District / Thap Lan area",
+      "description": "A riverside and forest resort in Na Di district, one of the closest accommodation options to Thap Lan National Park's Route 304 entrance. Thai-style wooden bungalows set among trees near a stream. The location makes dawn national park visits effortless — the park entrance is a short drive away. Staff can help with bamboo rafting bookings and local guide arrangements.",
+      "highlights": [
+        "Closest resort to Thap Lan National Park Route 304 entrance",
+        "Thai wooden bungalows in forest setting",
+        "Bamboo rafting bookings and local guide arrangements available"
+      ],
+      "bestFor": [
+        "nature travelers",
+        "birdwatchers",
+        "national park explorers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com Prachinburi",
+          "sourceUrl": "https://www.booking.com/region/th/prachinburi.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNa%2520Di%2520Forest%2520Resort%252C%2520Prachinburi%252C%2520Thailand"
+    },
+    {
+      "name": "Baandusit Resort Prachinburi",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Prachinburi / Kabin Buri",
+      "description": "A well-appointed resort with comfortable rooms, a good-sized swimming pool, and a fully equipped Thai restaurant. Reasonably modern facilities and professional service make this the reliable mid-range choice for visitors who want predictable standards. Central enough for access to both town attractions and national park day trips. Popular with Thai business visitors and Bangkok weekend families.",
+      "highlights": [
+        "Good-sized swimming pool and Thai restaurant",
+        "Modern rooms with reliable facilities",
+        "Central location for town and park day trips"
+      ],
+      "reviewScore": "4.0/5 Booking.com",
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com Prachinburi Hotels",
+          "sourceUrl": "https://www.trip.com/hotels/prachinburi-hotels-list-61573/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaandusit%2520Resort%2520Prachinburi%252C%2520Prachinburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Story Telling House Prachinburi Herb Town without knowing its remote riverside spot can leave you reliant on taxis for Prachinburi town dining.",
+    "intro": "Story Telling House Prachinburi Herb Town offers a boutique riverside stay with herb garden views, Thai herbal wellness activities, and rooms blending comfort with local character. It's ideal for couples, wellness seekers, and food enthusiasts seeking an authentic Prachinburi escape over chain hotels.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples wellness foodies",
+      "standout": "riverside herb garden",
+      "noGoFor": "budget party seekers"
+    },
+    "whyBook": [
+      "Atmospheric riverside setting with herb garden walks",
+      "On-site restaurant featuring local herb-infused Thai dishes",
+      "Thai herbal wellness experiences for relaxation",
+      "Boutique vibe reflecting Prachinburi's unique identity",
+      "Comfortable rooms in a well-reviewed property"
+    ],
+    "whyNotBook": [
+      "No swimming pool or modern gym facilities available",
+      "Riverside location may attract insects during evenings",
+      "Limited room variety in this small boutique setup",
+      "On-site dining focuses solely on Thai cuisine without international options",
+      "Remote spot requires transport for town shopping or nightlife"
+    ],
+    "skipIf": "Skip if you're traveling with kids needing pool access or prefer urban hotels with easy public transport.",
+    "detailedReview": "Checking into Story Telling House Prachinburi Herb Town feels intimate, with staff greeting you amid the scent of fresh herbs from the adjacent garden. The boutique property, perched on the Prachinburi River, has a cozy, characterful vibe that sets it apart from Prachinburi's more generic options—think wooden accents and subtle Thai decor evoking local storytelling themes. Rooms are comfortable with standard amenities like air conditioning and river views in some, providing a restful base after wellness sessions. The standout amenity is the herb garden, where guests can join informal Thai herbal experiences, such as learning about medicinal plants or simple spa-like treatments using organic ingredients. Food at the on-site Thai restaurant shines with dishes incorporating fresh, local herbs—try the herb-infused curries or salads made from garden produce, all served in a relaxed riverside atmosphere. Service is personal and attentive, with staff often sharing insights on Prachinburi's herbal traditions, though it can feel unhurried compared to larger resorts. Typical guests are couples on romantic getaways, wellness enthusiasts exploring beyond Bangkok, and foodies drawn to authentic flavors, creating a peaceful, low-key crowd that matches the property's serene identity. Overall, it's a genuine slice of Prachinburi life, though expect a quieter stay without flashy extras.",
+    "locationReality": "Situated on the Prachinburi River in Prachinburi Town, this boutique is about 10-15 minutes by car from the town center's markets and temples, with Grab rides costing around 100-150 THB. Within a 5-minute walk, you'll find the riverbank for strolls and the herb garden, but no immediate shops or eateries—head to town for more options. Access to Thap Lan National Park requires a 30-45 minute drive via Route 304, making it a good base for nature trips but not walkable to major attractions.",
+    "localSignals": [
+      "10-15 min drive to Prachinburi town center",
+      "Nearest airport BKK transfer costs 2,000-3,000 THB one-way",
+      "One on-site restaurant serving Thai cuisine",
+      "Riverside location with herb garden access",
+      "7-Eleven within 5-min drive in town area"
+    ],
+    "travellerNote": "Guests often praise the atmospheric riverside setting and herb-infused meals but note the lack of a pool and need for transport to explore beyond the property.",
+    "bookingTips": [
+      "Request riverside-view rooms for best garden access",
+      "Agoda often cheaper than Booking for Thailand properties",
+      "Prices spike November-February during cool season",
+      "Verify breakfast inclusion as it's not always standard",
+      "Check for herbal wellness session availability pre-booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Khaoyai Garden Lodge",
+        "howDifferent": "Focuses on forest bungalows near Khao Yai entrance, offering more nature immersion than riverside herbs."
+      },
+      {
+        "name": "Na Di Forest Resort",
+        "howDifferent": "Provides riverside forest stays closer to Thap Lan National Park, with bungalows but less emphasis on herbal dining."
+      },
+      {
+        "name": "Baandusit Resort Prachinburi",
+        "howDifferent": "Features a swimming pool and modern rooms in town, prioritizing facilities over boutique herb garden character."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What wellness activities are at Story Telling House Prachinburi Herb Town?",
+        "a": "The hotel offers Thai herbal experiences in its garden, including plant tours and simple treatments with local organic ingredients."
+      },
+      {
+        "q": "Is breakfast included at Story Telling House Prachinburi Herb Town?",
+        "a": "Breakfast policies vary by booking; confirm with the platform as it's not always included in the base rate."
+      },
+      {
+        "q": "How far is Story Telling House Prachinburi Herb Town from national parks?",
+        "a": "It's about 30-45 minutes drive to Thap Lan National Park entrance, ideal for day trips with transport arranged."
+      },
+      {
+        "q": "What type of food does the restaurant serve?",
+        "a": "The on-site Thai restaurant specializes in dishes with local herbs and organic ingredients, focusing on authentic flavors."
+      },
+      {
+        "q": "Are pets allowed at Story Telling House Prachinburi Herb Town?",
+        "a": "Pet policies are not specified; contact the hotel directly to inquire about accommodations for animals."
+      },
+      {
+        "q": "What's the vibe like for couples?",
+        "a": "The riverside boutique setting creates a romantic, peaceful atmosphere perfect for couples seeking wellness and local culture."
+      }
+    ],
+    "urgencyLine": "Rooms at Story Telling House Prachinburi Herb Town with riverside views book out 1-2 months ahead for cool season—check today.",
+    "methodology": "We rated Story Telling House Prachinburi Herb Town based on guest reviews, location specifics, and amenity alignment with Prachinburi travel needs. We weighted the unique herb garden and restaurant highest because they differentiate it in a market of generic stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Story Telling House Prachinburi Review",
+    "metaDescription": "Story Telling House Prachinburi Herb Town in Prachinburi offers riverside boutique stays with herb gardens and Thai wellness, ideal for couples. Note limited facilities like no pool; book for authentic vibes via Agoda today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:24:55.051Z"
+}

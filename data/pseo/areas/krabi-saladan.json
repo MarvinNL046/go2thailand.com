@@ -1,0 +1,134 @@
+{
+  "template": "area-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "areaSlug": "saladan",
+  "areaName": "Saladan",
+  "neighborhood": {
+    "name": "Saladan",
+    "description": "Saladan is the main pier and administrative town on Koh Lanta's northern end. It functions as the arrival point for ferries from Krabi and Phuket. The area has shops, restaurants, and basic accommodations catering to arrivals.",
+    "bestFor": "backpackers, budget travelers, digital nomads",
+    "priceLevel": "€",
+    "highlights": [
+      "Saladan Pier",
+      "Lanta Old Town nearby",
+      "Saladan Night Market",
+      "Local seafood restaurants"
+    ],
+    "walkingScore": "High",
+    "transportNotes": [
+      "Ferry pier for inter-island travel",
+      "Motorbike rentals common",
+      "Songthaews to other Lanta beaches"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Lanta_District"
+      },
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/thailand/koh_lanta/saladan"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Ao Nang",
+    "Railay Beach",
+    "Krabi Town",
+    "Klong Muang",
+    "Tubkaek Beach"
+  ],
+  "paaQuestions": [
+    "Which is the best part of Krabi to stay in?",
+    "Is it better to stay in Krabi or Railay beach?",
+    "Where to base yourself in Krabi?",
+    "Which is the best area to stay in Krabi for easy access to tours and restaurants?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Saladan can leave you stuck in noisy pier traffic without easy beach access — most first-timers overlook the compact walkable core and end up far from shops.",
+    "intro": "Saladan stands out as Koh Lanta's northern gateway, serving as the primary ferry hub with straightforward access to shops and eateries for quick arrivals. We ranked it highly for budget-conscious explorers seeking high walkability and practical transport links over luxury vibes.",
+    "vibe": "Practical + pier-focused",
+    "quickStats": {
+      "priceBand": "€",
+      "walkability": "High",
+      "bestFor": "backpackers, budget travelers, digital nomads",
+      "safetyNote": "Safe overall, watch bags near the pier"
+    },
+    "detailedDescription": "In Saladan, mornings start with the hum of ferries docking at the pier, where locals unload goods and travelers grab coffee from roadside stalls before heading out. The main street runs parallel to the water, lined with hardware stores, minimarts, and guesthouses run by Thai families who double as moto rental operators. Daytime feels efficient rather than leisurely, with backpackers weaving through on rented scooters to catch songthaews south to Long Beach, while digital nomads settle into cafes with spotty but usable WiFi. As evening hits, the night market sets up near the pier, drawing crowds for grilled squid and cheap pad thai from vendors who've been here for decades; noise from motorbikes and chatter peaks around 8pm but quiets by midnight. Food leans heavy on fresh seafood from the pier's catches, served at no-frills spots where tables spill onto the sidewalk. Getting around is simple on foot within the 1km core, but venturing beyond means relying on songthaews that run irregularly after dark or haggling for moto taxis. The atmosphere suits short stays, with a mix of transient energy from arrivals and the steady rhythm of administrative life, though the rocky shoreline nearby discourages swimming right in town.",
+    "localSignals": [
+      "Taxi from Krabi International Airport to Saladan pier: 600-800 THB, 2 hours including ferry transfer",
+      "Distance to Saladan Pier: central landmark, 0-5 minutes walk from most accommodations",
+      "Songthaew to Lanta Old Town: 50 THB, 10 minutes ride",
+      "Noise level at night: moderate from pier activity until 10pm",
+      "Nearest 7-Eleven: 2-minute walk from main street, open 24/7"
+    ],
+    "pros": [
+      "Easy ferry access for island hopping",
+      "Affordable street food daily",
+      "Walkable to night market",
+      "Moto rentals everywhere",
+      "Budget guesthouses abundant"
+    ],
+    "cons": [
+      "Pier crowds peak during ferry arrivals",
+      "Limited beachfront swimming spots",
+      "Songthaews infrequent after 8pm",
+      "Main road noise from motorbikes",
+      "Few upscale dining options"
+    ],
+    "skipIf": "Skip if you're seeking direct beach relaxation without transport hassles.",
+    "compareTo": [
+      {
+        "areaName": "Ao Nang",
+        "shortPitch": "Ao Nang offers more tourist infrastructure and longtail boat tours directly from its beaches, unlike Saladan's pier-focused transit hub.",
+        "recommendFor": "families, tour enthusiasts"
+      },
+      {
+        "areaName": "Railay Beach",
+        "shortPitch": "Railay provides secluded cliffs and rock climbing isolation accessible only by boat, contrasting Saladan's open connectivity to mainland Krabi.",
+        "recommendFor": "adventure seekers, couples"
+      },
+      {
+        "areaName": "Krabi Town",
+        "shortPitch": "Krabi Town has urban markets and night life with easier airport access, differing from Saladan's remote island arrival vibe.",
+        "recommendFor": "night owls, shoppers"
+      }
+    ],
+    "travellerNote": "Travellers often praise Saladan's convenience for quick ferry connections and cheap eats but note the constant motorbike buzz and lack of pristine beaches as drawbacks for longer stays.",
+    "faq": [
+      {
+        "q": "Which is the best part of Krabi to stay in?",
+        "a": "The best part depends on your style, but Saladan suits budget travelers needing ferry access; for beaches, try Ao Nang instead."
+      },
+      {
+        "q": "Is it better to stay in Krabi or Railay beach?",
+        "a": "Stay in Krabi Town for urban ease or Railay for beach seclusion; Saladan is ideal if you're island-hopping via Koh Lanta."
+      },
+      {
+        "q": "Where to base yourself in Krabi?",
+        "a": "Base in Saladan for northern Koh Lanta arrivals with walkable amenities, or Krabi Town for mainland tours and restaurants."
+      },
+      {
+        "q": "Which is the best area to stay in Krabi for easy access to tours and restaurants?",
+        "a": "Ao Nang tops for tour access and dining variety, but Saladan works well for budget inter-island ferries and local seafood spots."
+      },
+      {
+        "q": "What makes Saladan a good base for digital nomads?",
+        "a": "Saladan's high walkability and cafes with WiFi make it suitable for short remote work stints, though internet can be inconsistent."
+      },
+      {
+        "q": "How walkable is Saladan compared to other Krabi areas?",
+        "a": "Saladan scores high for walking to pier and markets, outperforming remote spots like Tubkaek Beach but less scenic than Railay paths."
+      }
+    ],
+    "urgencyLine": "Ferry-adjacent rooms in Saladan fill up fast during peak dry season — book guesthouses 1-2 months ahead for 2026 arrivals.",
+    "methodology": "We compared Saladan to Ao Nang and Krabi Town based on walkability, price level, noise, and suitability for its typical travellers. We weighted transport access highest because Saladan's pier role defines its appeal for budget mobile groups. Last updated: 2026-04.",
+    "metaTitle": "Staying in Saladan, Krabi (2026)",
+    "metaDescription": "Discover staying in Saladan, Krabi: budget-friendly pier access for backpackers and ferries to islands. High walkability to markets and seafood—compare…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:27:32.114Z"
+}

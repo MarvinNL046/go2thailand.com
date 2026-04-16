@@ -1,0 +1,165 @@
+{
+  "template": "area-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "areaSlug": "krabi-town",
+  "areaName": "Krabi Town",
+  "neighborhood": {
+    "name": "Krabi Town",
+    "description": "The provincial capital with a real Thai town feel, sitting on the Krabi River 20 minutes inland from the coast. The weekend Walking Street night market is one of southern Thailand's best, with street food at local prices (30-80 THB). Budget accommodation is 40-60% cheaper than Ao Nang. Ferry connections to Koh Phi Phi and Koh Lanta depart from nearby piers. The trade-off: you're not on the beach, and you'll need to songthaew (60 THB) to Ao Nang for boat tours.",
+    "bestFor": "Budget travelers & local culture seekers",
+    "priceLevel": "Budget",
+    "highlights": [
+      "Weekend Walking Street market — best street food in Krabi province at local prices",
+      "Accommodation 40-60% cheaper than Ao Nang and Railay",
+      "Riverside restaurants and morning markets with authentic Thai atmosphere",
+      "Ferry pier connections to Koh Phi Phi and Koh Lanta",
+      "Closest base to Tiger Cave Temple (8 km)"
+    ],
+    "recommendedHotels": [
+      "Pak-Up Hostel"
+    ],
+    "walkingScore": "6/10",
+    "transportNotes": [
+      "Songthaew to Ao Nang 60 THB (30 min, runs until ~6 PM)",
+      "Chao Fah Pier for ferries to Koh Phi Phi and Koh Lanta",
+      "Tiger Cave Temple 8 km — easy scooter or tuk-tuk ride"
+    ],
+    "sources": [
+      {
+        "sourceName": "Rough Guides",
+        "sourceUrl": "https://www.roughguides.com/thailand/southern-thailand-andaman-coast/krabi/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Pak-Up Hostel",
+      "category": "budget",
+      "priceRange": "300-600 THB/night (~$8-17 USD)",
+      "area": "Krabi Town",
+      "description": "Krabi's most popular hostel occupies a converted shophouse in the heart of Krabi Town. Modern dorms with privacy curtains, lockers, and air conditioning. The rooftop bar and social common areas make it easy to meet other travelers. Walking distance to the night market and river.",
+      "highlights": [
+        "Rooftop bar with views over Krabi Town",
+        "Modern dorm beds with AC and privacy curtains",
+        "Walking distance to Krabi Night Market and riverside"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/st/hostels/p/85095/pak-up-hostel/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPak-Up%2520Hostel%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Ao Nang",
+    "Railay Beach",
+    "Klong Muang",
+    "Tubkaek Beach",
+    "Nopparat Thara Beach"
+  ],
+  "paaQuestions": [
+    "Is it good to stay in Krabi Town?",
+    "Which is the best part of Krabi to stay in?",
+    "Is there anything to do in Krabi Town?",
+    "Is Ao Nang or Krabi Town better?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Krabi Town can leave you isolated from the river action and markets — most first-timers overlook it for beach areas and miss the authentic deals.",
+    "intro": "Krabi Town stands out as the unpretentious heart of the province, offering a genuine Thai riverside experience away from tourist crowds. We ranked it highest for budget stays and cultural immersion, prioritizing affordability and local access over beach proximity.",
+    "vibe": "Authentic + riverside",
+    "quickStats": {
+      "priceBand": "€",
+      "walkability": "Medium",
+      "bestFor": "Budget travelers and culture seekers",
+      "safetyNote": "Safe, watch bags at night markets"
+    },
+    "detailedDescription": "In Krabi Town, mornings start with locals heading to riverside markets along the Krabi River, where fishermen unload catches and vendors sell fresh produce under tin roofs. The area buzzes with office workers, shop owners, and families going about daily routines in narrow shophouses painted in faded pastels. By day, it's a mix of quiet streets and scooter traffic, with noise levels low except near the main road where songthaews honk for passengers. Evenings pick up around the pier, as ferry arrivals bring day-trippers, but the real shift happens on weekends when Walking Street transforms the town center into a packed lane of stalls selling pad thai and grilled seafood for 30-80 THB. Food here is straightforward Thai—think spicy som tam from carts run by aunties who've been at it for decades, no fusion gimmicks. Getting around means walking the compact core or hopping a songthaew for 60 THB to reach edges like the pier or outskirts. It's not car-free, but sidewalks are uneven, so flip-flops work fine for short jaunts. Nighttime quiets down post-market, with only occasional bar chatter from backpacker spots, making it easier to sleep than coastal zones. Workers include river guides and market sellers, creating a community feel where English is basic but smiles bridge gaps.",
+    "localSignals": [
+      "Taxi from Krabi International Airport: 20-30 minutes, 300-500 THB",
+      "Walking distance to Chao Fah Pier: 10-15 minutes from town center",
+      "Distance to Weekend Walking Street market: central location, 5-minute walk",
+      "Noise level at night: moderate, louder on weekends near market",
+      "Nearest 7-Eleven: within 5-minute walk in town center"
+    ],
+    "pros": [
+      "Affordable rooms 40-60% cheaper than Ao Nang",
+      "Top street food at Walking Street market",
+      "Easy ferry access to Koh Phi Phi and Lanta",
+      "Authentic Thai daily life and riverside views",
+      "Quick 8 km to Tiger Cave Temple"
+    ],
+    "cons": [
+      "No direct beach access, 20 minutes inland",
+      "Songthaews stop around 6 PM to Ao Nang",
+      "Weekend market crowds make streets congested",
+      "Limited English at local eateries",
+      "Fewer upscale dining options than coastal areas"
+    ],
+    "skipIf": "Skip if you prioritize beachfront stays and hate relying on shared transport to the coast.",
+    "stayRecommendations": [
+      {
+        "name": "Pak-Up Hostel",
+        "why": "This converted shophouse hostel puts budget travelers right in Krabi Town's heart, with modern dorms offering privacy and AC near the Walking Street market for easy cultural dives."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Ao Nang",
+        "shortPitch": "Ao Nang offers direct beach access and boat tours but at 40-60% higher prices with more crowds than Krabi Town's inland calm.",
+        "recommendFor": "Beach lovers and tour groups"
+      },
+      {
+        "areaName": "Railay Beach",
+        "shortPitch": "Railay provides secluded cliffs and rock climbing without road access, trading Krabi Town's markets and ferries for pricier, isolated vibes.",
+        "recommendFor": "Adventure seekers and privacy fans"
+      },
+      {
+        "areaName": "Nopparat Thara Beach",
+        "shortPitch": "Nopparat Thara delivers longer sandy shores and calmer waters closer to town than Krabi Town, but lacks the river culture and budget edge.",
+        "recommendFor": "Family beach stays"
+      }
+    ],
+    "travellerNote": "Travellers often praise the unbeatable street food deals and genuine local atmosphere in Krabi Town but note the need for songthaews to reach beaches and the weekend-only peak energy.",
+    "faq": [
+      {
+        "q": "Is it good to stay in Krabi Town?",
+        "a": "Yes, for budget travelers seeking authentic Thai culture and cheap eats—stay here if markets and savings matter more than beaches. We recommend it over coastal spots for under 600 THB nights."
+      },
+      {
+        "q": "Which is the best part of Krabi to stay in?",
+        "a": "Krabi Town tops for budget and culture, but Ao Nang suits beach fans—choose based on whether you want local vibes or seaside convenience."
+      },
+      {
+        "q": "Is there anything to do in Krabi Town?",
+        "a": "Explore the Weekend Walking Street for street food, visit morning markets, or take ferries from Chao Fah Pier—it's ideal for low-key cultural days before heading to temples or islands."
+      },
+      {
+        "q": "Is Ao Nang or Krabi Town better?",
+        "a": "Krabi Town wins for affordability and authenticity if you're culture-focused, while Ao Nang is better for beaches and tours—pick Town to save 40-60% on stays."
+      },
+      {
+        "q": "How to get from Krabi Town to the beach?",
+        "a": "Take a songthaew for 60 THB to Ao Nang in 30 minutes—it's the practical way until ferries or scooters for farther spots."
+      },
+      {
+        "q": "What's the best market in Krabi?",
+        "a": "Krabi Town's Weekend Walking Street offers the province's top street food at local prices—go for grilled seafood and som tam on Fridays to Sundays."
+      }
+    ],
+    "urgencyLine": "Budget rooms in Krabi Town fill fast for weekend markets during high season—book 1-2 months ahead to snag spots under 600 THB.",
+    "methodology": "We compared Krabi Town to Ao Nang and Railay Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted price highest because budget seekers dominate southern Thailand trips, ensuring fair value over luxury. Last updated: 2026-04.",
+    "metaTitle": "Staying in Krabi Town, Krabi (2026)",
+    "metaDescription": "Discover budget stays in Krabi Town, Krabi: 40-60% cheaper than Ao Nang with top street food markets. Compare areas and see hotels for authentic…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:26:24.607Z"
+}

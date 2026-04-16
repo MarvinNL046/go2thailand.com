@@ -1,0 +1,133 @@
+{
+  "template": "area-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "areaSlug": "nopparat-thara-beach",
+  "areaName": "Nopparat Thara Beach",
+  "neighborhood": {
+    "name": "Nopparat Thara Beach",
+    "description": "Nopparat Thara Beach stretches along the coast next to Ao Nang and is part of Mu Ko Nopparat Thara–Phi Phi National Park. The area includes residential zones and a market where local vendors sell food and goods. It serves as an entry point for boat trips to nearby islands.",
+    "bestFor": "families, budget travelers, first-time visitors",
+    "priceLevel": "€–€€€",
+    "highlights": [
+      "Nopparat Thara Beach",
+      "Ao Nang Night Market",
+      "Dragon Crest Mountain viewpoint",
+      "Muslim fishing village"
+    ],
+    "walkingScore": "Medium",
+    "transportNotes": [
+      "Songthaew shuttles to Ao Nang",
+      "Local taxis available",
+      "Access to national park boats"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mu_Ko_Nopparat_Thara%E2%80%93Phi_Phi_National_Park"
+      },
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g297927-d1397188-Reviews-Nopparat_Tha_Beach-Krabi_Town_Krabi_Province.html"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Ao Nang",
+    "Railay Beach",
+    "Krabi Town",
+    "Klong Muang",
+    "Tubkaek Beach"
+  ],
+  "paaQuestions": [
+    "Which beach is best to stay in Krabi?",
+    "What is the best area of Krabi to stay in?",
+    "Is it better to stay in Krabi or Railay Beach?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Nopparat Thara Beach can strand you in quiet residential zones away from the market and boats — most first-timers skip checking proximity to the national park entry.",
+    "intro": "Nopparat Thara Beach stands out for its easy access to island boat trips and a lively local market, blending residential calm with coastal convenience as part of Mu Ko Nopparat Thara–Phi Phi National Park. We ranked it high for families and budget travelers seeking a practical base without Ao Nang's crowds.",
+    "vibe": "Family-friendly + accessible",
+    "quickStats": {
+      "priceBand": "€-€€€",
+      "walkability": "Medium",
+      "bestFor": "families, budget travelers, first-time visitors",
+      "safetyNote": "Safe overall, watch belongings at the night market."
+    },
+    "detailedDescription": "In Nopparat Thara Beach, mornings start with locals from the nearby Muslim fishing village hauling in fresh catches along the shore, while families set up picnics on the wide sandy stretch. The area feels like a working coastal neighborhood, with residential streets lined by small shophouses and guesthouses where Thai families live and run eateries serving simple seafood rice dishes for 50-100 THB. Daytime is relaxed, with medium foot traffic as budget travelers rent scooters or hop on songthaews to head to the beach or Dragon Crest Mountain viewpoint for a short hike. As evening hits, the adjacent Ao Nang Night Market amps up the energy, drawing crowds for grilled skewers and mango sticky rice from vendors who set up stalls by 5pm; noise from haggling and motorbikes peaks around 8pm but quiets by midnight in the beachside zones. Food options lean local and affordable, with halal spots in the village offering tom yum and roti for under 200 THB, though options thin out past 10pm. Getting around is straightforward on foot for the beach and market, but songthaews (20-50 THB) or taxis (100-200 THB) connect to Ao Nang in 10 minutes, and national park boats depart directly from piers here for island hops. The atmosphere shifts from quiet residential mornings to moderately bustling evenings, ideal for those wanting a low-key intro to Krabi without isolation.",
+    "localSignals": [
+      "Taxi from Krabi International Airport: 30-40 minutes, 500-700 THB.",
+      "Distance to Nopparat Thara Beach from central market: 5-minute walk.",
+      "To Ao Nang Night Market: 10-minute walk or 50 THB songthaew.",
+      "Noise level at night: moderate from market traffic until 10pm.",
+      "Nearest 7-Eleven: within 300 meters of beachfront accommodations."
+    ],
+    "pros": [
+      "Direct access to national park boats for islands.",
+      "Affordable local food at nearby market.",
+      "Quiet residential areas for family relaxation.",
+      "Easy songthaew links to Ao Nang.",
+      "Wide beach suitable for kids."
+    ],
+    "cons": [
+      "Beach crowds up during peak boat departure times.",
+      "Limited nightlife beyond the night market.",
+      "Songthaews infrequent after 9pm.",
+      "Rocky patches on beach at low tide.",
+      "Market vendors close early on rainy days."
+    ],
+    "skipIf": "Skip if you're seeking upscale resorts or vibrant nightlife beyond market stalls.",
+    "compareTo": [
+      {
+        "areaName": "Ao Nang",
+        "shortPitch": "Ao Nang offers more tourist amenities and direct beachfront bars, but it's noisier and pricier than Nopparat Thara's residential calm.",
+        "recommendFor": "nightlife seekers, luxury shoppers"
+      },
+      {
+        "areaName": "Railay Beach",
+        "shortPitch": "Railay provides secluded cliffs and rock climbing without road access, contrasting Nopparat Thara's easier market and boat connections.",
+        "recommendFor": "adventure climbers, seclusion lovers"
+      },
+      {
+        "areaName": "Krabi Town",
+        "shortPitch": "Krabi Town focuses on urban markets and ferries with budget hostels, but lacks Nopparat Thara's beachfront and family-friendly park access.",
+        "recommendFor": "cultural explorers, ferry hoppers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the convenient boat access and family-safe beach but note the moderate evening noise from the market and occasional rocky shore.",
+    "faq": [
+      {
+        "q": "Which beach is best to stay in Krabi?",
+        "a": "Nopparat Thara Beach suits families and budgets with its wide sands and park boats, but Railay edges out for seclusion if you prefer cliffs over markets."
+      },
+      {
+        "q": "What is the best area of Krabi to stay in?",
+        "a": "For first-timers, Nopparat Thara Beach balances accessibility and affordability; choose Ao Nang instead for more dining variety."
+      },
+      {
+        "q": "Is it better to stay in Krabi or Railay Beach?",
+        "a": "Stay in Nopparat Thara near Krabi Town for easy transport and markets if you want convenience, or Railay for isolated beach vibes without roads."
+      },
+      {
+        "q": "How walkable is Nopparat Thara Beach?",
+        "a": "It's medium walkable to the beach and market, but songthaews help for longer stretches to viewpoints."
+      },
+      {
+        "q": "What food can I find near Nopparat Thara Beach?",
+        "a": "Expect affordable seafood and halal options at the Ao Nang Night Market, with fresh catches from the fishing village."
+      },
+      {
+        "q": "Is Nopparat Thara Beach family-friendly?",
+        "a": "Yes, its calm residential zones and wide beach make it ideal for families, though watch kids near boat piers."
+      }
+    ],
+    "urgencyLine": "Accommodations near Nopparat Thara Beach's boat piers fill quickly for national park trips in high season — book 2-3 months ahead for 2026.",
+    "methodology": "We compared Nopparat Thara Beach to Ao Nang and Railay Beach based on walkability, price level, noise, and suitability for families and budgets. We weighted accessibility to boats highest because it defines entry to the national park islands. Last updated: 2026-04.",
+    "metaTitle": "Staying in Nopparat Thara Beach, Krabi (2026)",
+    "metaDescription": "Discover staying in Nopparat Thara Beach, Krabi: family-friendly access to island boats and local markets at budget prices. Compare areas and see hotels…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:27:18.618Z"
+}

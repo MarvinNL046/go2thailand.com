@@ -1,0 +1,250 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "audience": "first-time",
+  "neighborhoods": [
+    {
+      "name": "Ao Nang",
+      "description": "Krabi's main tourist area and the practical base for most visitors. A long beachfront road lined with hotels, restaurants, dive shops, massage parlors, and tour operators. Longtail boats to Railay (100 THB) and 4 Islands tours depart from the eastern pier. The beach itself is decent but not Krabi's best — the real value is convenience and selection. Nightlife is modest compared to Phuket but there are enough bars and live music venues to keep things lively.",
+      "bestFor": "First-timers, island-hoppers & convenience",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Gateway to Railay Beach (100 THB longtail, 15 min) and all island tours",
+        "Widest selection of hotels, restaurants, and tour operators in the province",
+        "Walking street and night bazaar for evening food and shopping",
+        "Easy scooter access to Tiger Cave Temple and inland attractions",
+        "Grab/Bolt ride-hailing works reliably here"
+      ],
+      "recommendedHotels": [
+        "Sea Seeker Krabi Resort",
+        "Panan Krabi Resort",
+        "Holiday Inn Resort Krabi Ao Nang Beach",
+        "Aonang Cliff Beach Resort"
+      ],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "Songthaew to Krabi Town 60 THB (30 min)",
+        "Longtail boats to Railay 100 THB from the eastern pier",
+        "All major tour operators pick up from Ao Nang hotels"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/ao-nang",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Railay Beach",
+      "description": "A stunning limestone peninsula accessible only by longtail boat — no roads, no cars, no tuk-tuks. Four interconnected beaches offer different vibes: Railay West is the main swimming beach, Railay East has budget guesthouses and mangroves, Phra Nang Cave Beach is one of Thailand's most beautiful, and Tonsai is the backpacker climbing hub. Over 700 bolted rock climbing routes make this Southeast Asia's climbing capital. The trade-off: limited accommodation, higher food prices, and you're boat-dependent for everything.",
+      "bestFor": "Rock climbers, couples & beach lovers",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Boat-access-only peninsula — no cars, no roads, island vibe on the mainland",
+        "Four interconnected beaches, each with its own character",
+        "700+ rock climbing routes from beginner to expert",
+        "Phra Nang Cave Beach — one of Thailand's top 5 beaches",
+        "Walking distance between all four beaches via jungle trails"
+      ],
+      "recommendedHotels": [
+        "Railay Bay Resort & Spa",
+        "Rayavadee"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": [
+        "Longtail from Ao Nang 100 THB (15 min, boats run until ~6 PM)",
+        "After 6 PM charter only — 800 THB",
+        "No road access — everything arrives by boat including supplies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/railay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Nopparat Thara Beach",
+      "description": "Nopparat Thara Beach stretches along the coast next to Ao Nang and is part of Mu Ko Nopparat Thara–Phi Phi National Park. The area includes residential zones and a market where local vendors sell food and goods. It serves as an entry point for boat trips to nearby islands.",
+      "bestFor": "families, budget travelers, first-time visitors",
+      "priceLevel": "€–€€€",
+      "highlights": [
+        "Nopparat Thara Beach",
+        "Ao Nang Night Market",
+        "Dragon Crest Mountain viewpoint",
+        "Muslim fishing village"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaew shuttles to Ao Nang",
+        "Local taxis available",
+        "Access to national park boats"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Mu_Ko_Nopparat_Thara%E2%80%93Phi_Phi_National_Park"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g297927-d1397188-Reviews-Nopparat_Tha_Beach-Krabi_Town_Krabi_Province.html"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where should I stay in Krabi for the first time?",
+    "Which part of Krabi is the best?",
+    "Is Ao Nang or Krabi Town better?",
+    "How many days in Krabi is enough?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Krabi neighbourhood as a first time traveller can leave you isolated from beaches and tours — most travellers waste time shuttling from remote spots.",
+    "intro": "For first-time travellers, the key factor is convenience to Krabi's iconic beaches and island-hopping tours without needing extensive planning. We ranked neighbourhoods based on accessibility, value for beginners, and proximity to longtail boat departures.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Ao Nang",
+        "why": "Convenient base for tours and beaches"
+      },
+      {
+        "label": "Best value",
+        "name": "Nopparat Thara Beach",
+        "why": "Budget options near national park"
+      },
+      {
+        "label": "Most central",
+        "name": "Ao Nang",
+        "why": "Easy access to Railay and islands"
+      }
+    ],
+    "urgencyLine": "Krabi's peak season from November to April fills Ao Nang hotels fast for first-timers — secure spots 3 months ahead to avoid higher boat-only access fees.",
+    "comparisonTable": [
+      {
+        "name": "Ao Nang",
+        "bestFor": "First-timers and convenience",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "lively touristy",
+        "drawback": "Can feel crowded in evenings"
+      },
+      {
+        "name": "Railay Beach",
+        "bestFor": "Beach lovers and climbers",
+        "priceBand": "€€€",
+        "walkability": "High",
+        "vibe": "laid-back quiet",
+        "drawback": "Boat access only adds cost"
+      },
+      {
+        "name": "Nopparat Thara Beach",
+        "bestFor": "Budget first-time visitors",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local laid-back",
+        "drawback": "Fewer direct tour operators"
+      }
+    ],
+    "decisionGuide": [
+      "If you prioritize easy island-hopping, choose Ao Nang.",
+      "If you're on a budget with family, choose Nopparat Thara Beach.",
+      "If you seek car-free beach vibes, choose Railay Beach.",
+      "If you want a mix of local markets and coast, choose Nopparat Thara Beach.",
+      "If first-time convenience trumps luxury, choose Ao Nang over Railay Beach.",
+      "If rock climbing appeals more than tours, choose Railay Beach."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Ao Nang",
+        "why": "Ao Nang serves as the practical hub for first-timers with direct access to longtail boats for Railay and 4 Islands, beating Nopparat Thara's residential feel by offering more tour operators on the beachfront road. It balances convenience without Railay's isolation.",
+        "drawback": "The main road gets busy with tourists and vendors during peak hours.",
+        "skipIf": "Skip if you dislike crowded tourist strips and prefer untouched nature.",
+        "localSignals": [
+          "Longtail boat to Railay: 100 THB from pier",
+          "4 Islands tours depart directly from beach",
+          "Adjacent to Nopparat Thara Beach: 10-min walk"
+        ],
+        "travellerNote": "Travellers often praise the abundance of restaurants and dive shops but note the higher noise levels near the beachfront."
+      },
+      {
+        "rank": 2,
+        "name": "Nopparat Thara Beach",
+        "why": "This area suits budget-conscious first-timers with national park access and local markets, providing better value than Ao Nang's mid-range spots while staying close to Ao Nang's conveniences. It edges out Railay for easier mainland reach.",
+        "drawback": "Transport to islands requires a short trip to Ao Nang.",
+        "skipIf": "Skip if you need non-stop action and direct boat piers.",
+        "localSignals": [
+          "Part of Mu Ko Nopparat Thara–Phi Phi National Park",
+          "Local market for food: walking distance",
+          "To Ao Nang pier: 5-10 min tuk-tuk, 50 THB"
+        ],
+        "travellerNote": "Travellers often praise the affordable stays and family-friendly coast but note fewer upscale dining options."
+      },
+      {
+        "rank": 3,
+        "name": "Railay Beach",
+        "why": "Railay offers a serene escape with interconnected beaches ideal for beach lovers, but for first-timers, its boat-only access makes it less practical than Ao Nang's all-in-one setup. It suits those willing to trade convenience for limestone views over Nopparat Thara's everyday vibe.",
+        "drawback": "No road access means reliance on boats for all arrivals.",
+        "skipIf": "Skip if mobility or group travel makes boat rides cumbersome.",
+        "localSignals": [
+          "Accessible only by longtail from Ao Nang: 100 THB",
+          "Railay West Beach: main swimming spot on-site",
+          "To 4 Islands: boat tour from beach, varies"
+        ],
+        "travellerNote": "Travellers often praise the stunning cliffs and relaxed atmosphere but note the premium prices for basics."
+      }
+    ],
+    "topPick": "Ao Nang",
+    "topPickReason": "Ao Nang tops for first-timers due to its unmatched convenience as a base for beaches, tours, and dining without the hassles of remote access.",
+    "bookingTips": [
+      "Book 2-3 months ahead for November-April peak to snag budget rooms under €40 in Ao Nang.",
+      "From Krabi Airport, take a taxi or Grab to Ao Nang for 500-700 THB, 30-45 minutes.",
+      "Avoid booking directly on the beachfront road to dodge inflated prices from tourist agencies.",
+      "Steer clear of unverified longtail operators at Ao Nang pier to prevent overcharges on Railay trips.",
+      "Opt for rooms with sea views in mid-range spots during rainy May-October for indoor comfort.",
+      "Check for national park fees at Nopparat Thara Beach entries, around 200 THB per adult."
+    ],
+    "methodology": "We compared Krabi neighbourhoods based on walkability, price level, transport access, and suitability for first time. We weighted convenience highest because first-timers prioritize easy access to boats and beaches over luxury isolation. Rankings reflect cluster data plus typical first time priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/areas/krabi/ao-nang/",
+      "/guides/where-to-stay/krabi/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Krabi'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Ao Nang'"
+    ],
+    "faq": [
+      {
+        "q": "Where should I stay in Krabi for the first time?",
+        "a": "Ao Nang is ideal for first-timers as the main tourist base with easy longtail boats to Railay and 4 Islands. It offers convenience without needing prior planning."
+      },
+      {
+        "q": "Which part of Krabi is the best?",
+        "a": "For first-time visitors, Ao Nang stands out for its beachfront access and tour options, though Nopparat Thara Beach suits budgets better."
+      },
+      {
+        "q": "Is Ao Nang or Krabi Town better?",
+        "a": "Ao Nang beats Krabi Town for first-timers seeking beaches and islands, as the town focuses more on local markets and lacks direct coastal vibes."
+      },
+      {
+        "q": "How many days in Krabi is enough?",
+        "a": "Three to five days allow first-timers to explore Ao Nang, day-trip to Railay, and visit the 4 Islands without rushing."
+      },
+      {
+        "q": "Is Railay Beach good for beginners?",
+        "a": "Railay suits beach-focused first-timers but requires boat access from Ao Nang, making it better after settling in the main area."
+      }
+    ],
+    "metaTitle": "Where to Stay in Krabi for First Time (2026)",
+    "metaDescription": "Discover top Krabi spots like Ao Nang for first-time travellers, with easy beach access and island tours. Compare areas and see our picks for your 2026…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:36:27.309Z"
+}

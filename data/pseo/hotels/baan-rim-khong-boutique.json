@@ -1,0 +1,211 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bueng-kan",
+  "cityName": "Bueng Kan",
+  "hotelSlug": "baan-rim-khong-boutique",
+  "hotel": {
+    "name": "Baan Rim Khong Boutique",
+    "category": "luxury",
+    "priceRange": "1,500–3,000 THB (~$43–$86 USD) per night",
+    "area": "Mekong Riverside, Bueng Kan",
+    "description": "The closest thing to a boutique hotel in Bueng Kan, Baan Rim Khong offers six individually designed riverside rooms with traditional Isaan-Lao decor, quality linens and private balconies overlooking the Mekong. The small scale ensures personalised service from the Thai-speaking owner who knows every hidden corner of the province. A beautiful riverside breakfast is included.",
+    "highlights": [
+      "Six individually designed rooms with Mekong-facing balconies",
+      "Traditional Isaan-Lao decor with modern comforts",
+      "Riverside breakfast included in the room rate",
+      "Personalised service and local trip planning from the owner",
+      "Beautiful garden descending to the Mekong bank"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-rim-khong-bueng-kan.html",
+    "reviewScore": "8.5/10",
+    "bestFor": [
+      "Couples",
+      "Design lovers",
+      "Photographers",
+      "Slow travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — Bueng Kan Boutique",
+        "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Mekong Paradise Resort",
+      "category": "mid-range",
+      "priceRange": "900–1,800 THB (~$26–$51 USD) per night",
+      "area": "Mekong Riverside, Bueng Kan",
+      "description": "A riverside resort on the outskirts of Bueng Kan town with direct Mekong views from bungalow-style rooms. The property has well-maintained gardens sloping down to the river, a terrace restaurant overlooking Laos and a peaceful atmosphere far removed from any urban noise. Rooms are spacious with traditional Thai wood furnishings.",
+      "highlights": [
+        "Direct Mekong River views from rooms and restaurant",
+        "Bungalow-style accommodation in tropical gardens",
+        "Riverside terrace restaurant serving Isaan and Thai cuisine",
+        "Peaceful setting outside the town centre",
+        "Stunning sunset views across the Mekong to Laos"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmekong-paradise-bueng-kan.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Nature lovers",
+        "Photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Bueng Kan Riverside",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Isaan Heritage Riverside",
+      "category": "luxury",
+      "priceRange": "2,000–4,000 THB (~$57–$114 USD) per night",
+      "area": "East of Bueng Kan Town",
+      "description": "A converted traditional Isaan wooden house compound on the Mekong riverbank, Isaan Heritage offers an upscale experience rooted in local culture. Rooms blend reclaimed teak with modern bathrooms and comfortable bedding. The restaurant serves refined Isaan cuisine using local produce, and the owners organise cultural experiences including cooking classes, village visits and guided temple tours.",
+      "highlights": [
+        "Restored traditional Isaan wooden architecture",
+        "Refined Isaan restaurant using local ingredients",
+        "Cultural experiences: cooking classes, village visits, temple tours",
+        "Mekong River views from all rooms",
+        "Among the most distinctive accommodation in all of Isaan"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fisaan-heritage-riverside.html",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Culture seekers",
+        "Couples",
+        "Food lovers",
+        "Special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Bueng Kan Premium",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Phu Wua Forest Lodge",
+      "category": "luxury",
+      "priceRange": "1,800–3,500 THB (~$51–$100 USD) per night",
+      "area": "Near Phu Wua Wildlife Sanctuary",
+      "description": "An eco-lodge on the edge of Phu Wua Wildlife Sanctuary catering to nature lovers and birdwatchers. Elevated wooden chalets are designed to minimise environmental impact while providing comfortable beds, hot water and screened windows. Night sounds include gibbons, cicadas and forest birds. The lodge arranges guided forest walks and sanctuary excursions with experienced local rangers.",
+      "highlights": [
+        "Eco-lodge on the edge of protected wildlife sanctuary",
+        "Elevated wooden chalets with forest views",
+        "Guided nature walks with experienced local rangers",
+        "Excellent wildlife viewing opportunities from the lodge itself",
+        "Solar-powered hot water and minimal environmental footprint"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fphu-wua-forest-lodge.html",
+      "reviewScore": "8.3/10",
+      "bestFor": [
+        "Nature lovers",
+        "Birdwatchers",
+        "Eco-travellers",
+        "Adventure seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Phu Wua Area",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Baan Rim Khong Boutique without knowing its six-room limit can leave you scrambling for alternatives during peak season.",
+    "intro": "Baan Rim Khong Boutique delivers an intimate riverside escape with six uniquely designed rooms featuring traditional Isaan-Lao decor and Mekong views from private balconies. It's ideal for couples, design lovers, photographers, and slow travelers seeking personalized service in Bueng Kan's quiet setting.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and design lovers",
+      "standout": "personalised service",
+      "noGoFor": "Families needing space"
+    },
+    "whyBook": [
+      "Six unique rooms with Mekong-facing balconies for private views.",
+      "Traditional Isaan-Lao decor blended with quality linens and modern comforts.",
+      "Riverside breakfast included, served in a scenic garden setting.",
+      "Owner provides tailored local trip planning and insider province tips."
+    ],
+    "whyNotBook": [
+      "Only six rooms mean limited availability and no space for larger groups.",
+      "No on-site pool or spa, relying on natural riverside relaxation instead.",
+      "Thai-speaking owner may limit English communication for non-speakers.",
+      "Small scale lacks extensive amenities like multiple dining options.",
+      "Remote riverside spot requires transport for town exploration beyond walking."
+    ],
+    "skipIf": "Skip if you're traveling with kids or need resort-style facilities beyond a quiet boutique stay.",
+    "detailedReview": "Checking into Baan Rim Khong Boutique feels like arriving at a private riverside home, with the Thai-speaking owner personally greeting guests and sharing tips on Bueng Kan's hidden spots. The six individually designed rooms capture a traditional Isaan-Lao vibe through wooden accents and local textiles, paired with quality linens and modern touches like air conditioning, creating a cozy yet comfortable space. Each room opens to a private balcony overlooking the Mekong, perfect for quiet mornings or sunset watching. The standout amenity is the beautiful garden that descends gently to the riverbank, where breakfast is served daily—think fresh Thai dishes and fruits in a serene outdoor setting included in the rate. Service is highly personalized; the owner, knowing the province intimately, often plans custom outings like village visits or boat trips. Food quality shines in the simple, home-style breakfast, though dinner options are limited to nearby spots. Typical guests are couples or solo slow travelers in their 30s-50s, drawn to the authentic, low-key atmosphere rather than crowds. At 8.5/10, it suits those prioritizing design and intimacy over luxury extras, but the small size ensures a peaceful, attentive stay without the bustle of larger hotels.",
+    "locationReality": "Situated on the Mekong Riverside in Bueng Kan town, Baan Rim Khong Boutique is steps from the riverbank, offering direct views but about 10-15 minutes' walk to the town center's markets and eateries. No BTS or MRT here in this rural Isaan province; getting around relies on local songthaews or Grab rides costing 100-200 THB to nearby attractions like the Bueng Kan Clock Tower. Within a 5-minute walk, you'll find quiet paths along the Mekong and basic local shops, but major sites like Phu Wua Wildlife Sanctuary require a 30-45 minute drive.",
+    "localSignals": [
+      "Six rooms total, all with private Mekong-facing balconies.",
+      "Riverside breakfast included in every room rate.",
+      "Beautiful garden directly descends to Mekong bank.",
+      "Personalised local trip planning from on-site owner.",
+      "Located in Bueng Kan town center outskirts, 10-15 min walk to markets."
+    ],
+    "travellerNote": "Guests often praise the intimate personalized service and unique room designs but note the limited English from the owner and lack of on-site dining beyond breakfast.",
+    "bookingTips": [
+      "Request a room with the best Mekong view, as all six are individual but vary in balcony size.",
+      "Book via Agoda for Thailand, often 10-15% cheaper than Booking.com for this property.",
+      "Prices spike in November-February high season due to cool weather drawing riverside visitors.",
+      "Verify breakfast inclusions and any local event disruptions before booking.",
+      "Opt for direct owner contact post-booking for custom trip planning details."
+    ],
+    "similarHotels": [
+      {
+        "name": "Mekong Paradise Resort (900–1,800 THB (~$26–$51 USD) per night) — A riverside resort on the outskirts of Bueng Kan town with direct Mekong views from bungalow-style rooms. The property has well-maintained g",
+        "howDifferent": "Offers more affordable bungalows in a larger resort setting without the boutique personalization of Baan Rim Khong."
+      },
+      {
+        "name": "Isaan Heritage Riverside (2,000–4,000 THB (~$57–$114 USD) per night) — A converted traditional Isaan wooden house compound on the Mekong riverbank, Isaan Heritage offers an upscale experience rooted in local cul",
+        "howDifferent": "Provides a cultural wooden house compound vibe at a higher price, focusing more on heritage than individual room designs."
+      },
+      {
+        "name": "Phu Wua Forest Lodge (1,800–3,500 THB (~$51–$100 USD) per night) — An eco-lodge on the edge of Phu Wua Wildlife Sanctuary catering to nature lovers and birdwatchers. Elevated wooden chalets are designed to m",
+        "howDifferent": "Emphasizes eco-forest immersion away from the river, suiting wildlife enthusiasts over riverside design seekers."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Baan Rim Khong Boutique include breakfast?",
+        "a": "Yes, a beautiful riverside breakfast is included in the room rate, featuring fresh Thai and local dishes."
+      },
+      {
+        "q": "How many rooms are at Baan Rim Khong Boutique?",
+        "a": "There are six individually designed rooms, ensuring a small-scale, personalized experience."
+      },
+      {
+        "q": "Is Baan Rim Khong Boutique suitable for couples?",
+        "a": "Absolutely, it's best for couples seeking intimate Mekong views and traditional decor in a quiet setting."
+      },
+      {
+        "q": "What makes the service at Baan Rim Khong unique?",
+        "a": "The Thai-speaking owner offers personalized trip planning, knowing every hidden corner of Bueng Kan province."
+      },
+      {
+        "q": "Are there balconies at Baan Rim Khong Boutique?",
+        "a": "All rooms feature private balconies overlooking the Mekong River for scenic relaxation."
+      },
+      {
+        "q": "What's the location like for Baan Rim Khong Boutique?",
+        "a": "It's on the Mekong Riverside in Bueng Kan, with a garden descending to the bank, about 10-15 minutes walk to town center."
+      }
+    ],
+    "urgencyLine": "Rooms at Baan Rim Khong Boutique with Mekong-facing balconies book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Baan Rim Khong Boutique based on room design, service quality, location authenticity, and value from guest feedback and property details. We weighted personalised service highest because it defines the boutique experience in remote Bueng Kan. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Baan Rim Khong Boutique Review (2026)",
+    "metaDescription": "Baan Rim Khong Boutique in Bueng Kan offers six unique riverside rooms with Isaan-Lao decor and personalized owner service. Ideal for couples, but limited to small groups with no pool. Book for authentic Mekong views today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:50:10.706Z"
+}

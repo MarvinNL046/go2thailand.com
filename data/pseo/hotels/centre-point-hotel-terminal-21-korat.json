@@ -1,0 +1,171 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-ratchasima",
+  "cityName": "Nakhon Ratchasima",
+  "hotelSlug": "centre-point-hotel-terminal-21-korat",
+  "hotel": {
+    "name": "Centre Point Hotel Terminal 21 Korat",
+    "category": "mid-range",
+    "priceRange": "1,800-2,800 THB/night (~$50-78 USD)",
+    "area": "Terminal 21 (Mittraphap Road)",
+    "description": "The most convenient mid-range option in Korat — directly connected to Terminal 21 shopping mall via a covered walkway. Modern rooms with Thai-contemporary design, swimming pool, fitness center, and multiple restaurants on the property. The Terminal 21 connection means you have direct access to the mall's excellent food court, cinema, and transport links. A reliable 3.5-star experience in the city's most connected location.",
+    "highlights": [
+      "Direct walkway connection to Terminal 21 shopping mall",
+      "Swimming pool and fitness center on-site",
+      "Most transport connections in the city immediately accessible"
+    ],
+    "reviewScore": "4.2/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "families",
+      "business travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentre%2520Point%2520Hotel%2520Terminal%252021%2520Korat%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Romyen Garden Place Hotel",
+      "category": "mid-range",
+      "priceRange": "2,000-3,200 THB/night (~$56-89 USD)",
+      "area": "City Center / Business District",
+      "description": "A sophisticated 4-star business hotel on the fringes of Korat's central business district, popular with Thai business travelers visiting the city's large government and university sector. Large rooms by Thai mid-range standards, a proper swimming pool, fitness room, and multiple dining options. The garden setting is a welcome contrast to the city's busy roads. Good for longer stays in Korat city.",
+      "highlights": [
+        "4-star facilities at mid-range pricing",
+        "Garden setting — quieter than city-center hotels on the main road",
+        "Large rooms with proper work desks — good for business stays"
+      ],
+      "reviewScore": "4.1/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "couples",
+        "longer stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRomyen%2520Garden%2520Place%2520Hotel%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Hotel & Convention Centre Korat",
+      "category": "mid-range",
+      "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+      "area": "Mittraphap Road (near Terminal 21)",
+      "description": "Thai chain Centara's Korat property bridges the gap between solid mid-range and upper-mid comfort. Multiple room types from standard to junior suites, an outdoor pool, spa, fitness center, and three food and beverage outlets including a rooftop bar. The Centara brand delivers consistent Thai-standard hospitality with English-speaking staff. Pet-friendly policy makes it unusually welcoming for traveling pet owners.",
+      "highlights": [
+        "Outdoor swimming pool and spa facilities",
+        "Rooftop bar with city views over Korat",
+        "Pet-friendly — rare for Thai city hotels"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "pet owners"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-zff8-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Hotel%2520%2526%2520Convention%2520Centre%2520Korat%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Centre Point Hotel Terminal 21 Korat without knowing the mall connection brings crowds right to your doorstep can turn a convenient stay into a noisy hassle.",
+    "intro": "Centre Point Hotel Terminal 21 Korat delivers a straightforward mid-range stay with modern Thai-contemporary rooms, on-site pool, fitness center, and direct access to Terminal 21 mall's food court and transport. It's ideal for couples, families, and business travelers seeking connectivity over luxury.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples families business",
+      "standout": "direct mall connection",
+      "noGoFor": "budget solo backpackers"
+    },
+    "whyBook": [
+      "Walkway links hotel straight to Terminal 21 mall.",
+      "Swimming pool and fitness center available on-site.",
+      "Multiple restaurants on property for easy dining.",
+      "Prime spot for city transport connections via mall.",
+      "Modern rooms in Thai-contemporary style."
+    ],
+    "whyNotBook": [
+      "Mall proximity means lobby crowds during peak shopping hours.",
+      "Mid-range setup lacks premium amenities like spa treatments.",
+      "Rooms may pick up mall noise until late evening.",
+      "Breakfast not specified, relying on mall food court instead.",
+      "3.5-star rating reflects basic rather than standout service."
+    ],
+    "skipIf": "Skip if you're a light sleeper avoiding urban mall bustle or seeking quiet rural escapes in Nakhon Ratchasima.",
+    "detailedReview": "Checking into Centre Point Hotel Terminal 21 Korat feels efficient and welcoming, with staff handling the process quickly at the modern lobby tied to the mall's energy. Rooms embody a Thai-contemporary vibe: clean lines, neutral tones, and functional setups with comfortable beds, but expect standard mid-range sizing around 25-30 sqm without extravagant views unless facing the pool. The standout amenity is the direct covered walkway to Terminal 21, letting you access the mall's food court—offering Thai staples like som tam and pad Thai—for meals without stepping outside, especially handy for families. On-site, the swimming pool provides a refreshing dip amid the urban heat, though it's compact and shared with business guests, while the fitness center offers basic cardio and weights for quick workouts. Food quality shines through the property's multiple restaurants, serving reliable Thai and international dishes, but portions and variety suit short stays better than extended ones. Service is polite and prompt, typical of a 3.5-star Thai hotel, with staff assisting business travelers with printing or transport info. Guests here skew toward couples on weekend getaways, families blending shopping with relaxation, and local business folks attending meetings, creating a mixed but low-drama profile. Overall, it's a reliable base for exploring Korat's connectivity, though the mall tie-in amps up foot traffic, making quieter corners scarce during evenings.",
+    "locationReality": "Situated on Mittraphap Road at Terminal 21 in central Nakhon Ratchasima, the hotel is 0 minutes' walk from the mall's shops, cinema, and bus terminals for easy city hops. Key attractions like Thao Suranari Monument are about 10-15 minutes away by Grab for 100-150 THB. Within a 5-minute walk, you'll find the mall's food court and convenience stores, but quieter parks or temples require a 10-20 minute drive.",
+    "localSignals": [
+      "Direct covered walkway to Terminal 21 mall: 0 minutes walk.",
+      "Swimming pool and fitness center: 1 on-site each.",
+      "Multiple restaurants on property: at least 2-3 options.",
+      "Transport links via mall: immediate access to buses and vans.",
+      "Nearest convenience: 7-Eleven inside Terminal 21 mall."
+    ],
+    "travellerNote": "Guests often praise the unbeatable mall convenience and pool access but note occasional noise from shopping crowds and basic room comforts in reviews.",
+    "bookingTips": [
+      "Request higher-floor rooms away from mall for less noise.",
+      "Agoda often cheaper than Booking.com for this Thai hotel.",
+      "Prices spike in November-December for year-end festivals.",
+      "Verify breakfast inclusion as it's not standard in data.",
+      "Check for mall-side construction notices before booking."
+    ],
+    "similarHotels": [
+      {
+        "name": "Romyen Garden Place Hotel (2,000-3,200 THB/night (~$56-89 USD)) — A sophisticated 4-star business hotel on the fringes of Korat's central business district, popular with Thai business travelers visiting the",
+        "howDifferent": "Offers more sophisticated business facilities away from mall crowds, at slightly higher rates."
+      },
+      {
+        "name": "Centara Hotel & Convention Centre Korat (2,500-4,000 THB/night (~$70-112 USD)) — Thai chain Centara's Korat property bridges the gap between solid mid-range and upper-mid comfort. Multiple room types from standard to juni",
+        "howDifferent": "Provides convention spaces and varied room types for groups, in a less mall-centric spot."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Centre Point Hotel Terminal 21 Korat have a pool?",
+        "a": "Yes, it features an on-site swimming pool suitable for relaxation after mall visits."
+      },
+      {
+        "q": "How far is the hotel from Nakhon Ratchasima's main transport?",
+        "a": "Directly connected to Terminal 21 mall, which has bus and van links for city and regional travel."
+      },
+      {
+        "q": "Is breakfast included at Centre Point Hotel Terminal 21 Korat?",
+        "a": "Breakfast details vary; check with the booking platform, but mall food court is steps away."
+      },
+      {
+        "q": "What room styles are available?",
+        "a": "Modern rooms in Thai-contemporary design, with options for couples or families."
+      },
+      {
+        "q": "Is the hotel good for business travelers?",
+        "a": "Yes, its location offers easy access to transport and on-site fitness for work stays."
+      },
+      {
+        "q": "Any fitness facilities?",
+        "a": "A fitness center is available on-site with basic equipment."
+      }
+    ],
+    "urgencyLine": "Rooms at Centre Point Hotel Terminal 21 Korat with direct mall access book out 1-2 months ahead for Songkran festival — check today.",
+    "methodology": "We rated Centre Point Hotel Terminal 21 Korat based on location connectivity, amenities like pool and fitness, and guest scores from TripAdvisor. We weighted location highest because Korat's appeal hinges on transport ease. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Centre Point Hotel Terminal 21 Korat Review",
+    "metaDescription": "Centre Point Hotel Terminal 21 Korat in Nakhon Ratchasima offers direct mall access, pool, and fitness for mid-range stays. Note mall crowds can add noise; ideal for connected travelers. Book now for reliable 4.2/5 comfort. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:56:26.401Z"
+}

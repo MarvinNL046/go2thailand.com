@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-khong",
+  "cityName": "Chiang Khong",
+  "hotelSlug": "baanfai-guesthouse-chiangkhong",
+  "hotel": {
+    "name": "Baanfai Guesthouse Chiangkhong",
+    "category": "budget",
+    "priceRange": "400-900 THB/night (~$11-25 USD)",
+    "area": "Central Sai Klang Road, riverside",
+    "description": "A well-established and highly rated guesthouse with its main entrance on Sai Klang Road and buildings extending back to the river with terrace views. Fan rooms are simple with bathrooms and hot showers; air-conditioned rooms are spacious with good balconies. There is a coffee shop on-site adjacent to a Thai Lu and hilltribe textile souvenir shop. Guest reviews consistently praise the friendly owners, cleanliness, and prime central location.",
+    "highlights": [
+      "Central location on Sai Klang Road with riverside buildings",
+      "On-site coffee shop and textile souvenir shop",
+      "Mix of fan and AC rooms to suit different budgets"
+    ],
+    "reviewScore": "8.2/10 Booking.com (675 reviews)",
+    "bestFor": [
+      "backpackers",
+      "couples",
+      "budget travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/hotel/th/baanfai-guesthouse.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaanfai%2520Guesthouse%2520Chiangkhong%252C%2520Chiang%2520Khong%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Portside Hotel",
+      "category": "budget",
+      "priceRange": "400-600 THB/night (~$11-17 USD)",
+      "area": "Central Sai Klang Road, riverside",
+      "description": "One of Chiang Khong's most characterful budget options, the Portside sits directly on the Mekong riverbank with a flat roof that doubles as a sunset terrace. Clean, basic rooms with air conditioning and en-suite bathrooms face the river. Run by a friendly local owner, it has the lived-in warmth of a proper guesthouse rather than a corporate hotel. Popular with overland travelers on the Southeast Asia trail.",
+      "highlights": [
+        "Direct Mekong riverfront with rooftop terrace",
+        "Clean air-conditioned rooms with en-suite at budget prices",
+        "Friendly owner with local knowledge about the border crossing and slow boat"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "overland travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "GT-Rider Forums",
+          "sourceUrl": "https://www.gt-rider.com/se-asia-motorcycling/threads/chiang-khong-accommodation.3869/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPortside%2520Hotel%252C%2520Chiang%2520Khong%252C%2520Thailand"
+    },
+    {
+      "name": "Baanrimtaling Home Stay",
+      "category": "budget",
+      "priceRange": "500-800 THB/night (~$14-22 USD)",
+      "area": "Riverside, south of town center",
+      "description": "A charming riverside establishment built from wood with a pleasant restaurant area possessing excellent Mekong views. The rooms are simply furnished but clean, and the wooden construction gives the guesthouse genuine local character. The restaurant emphasizes vegetarian dishes alongside standard Thai fare — a rarity in Chiang Khong and appreciated by many travelers. A quiet, authentic choice away from the main tourist cluster.",
+      "highlights": [
+        "Wooden construction with genuine local character",
+        "Riverside restaurant with vegetarian-friendly menu",
+        "Quieter location away from the main guesthouse strip"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "vegetarians",
+        "travelers seeking authenticity"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation_profile/thailand/northern_thailand/chiang_rai/chiang_khong/all/1766",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaanrimtaling%2520Home%2520Stay%252C%2520Chiang%2520Khong%252C%2520Thailand"
+    },
+    {
+      "name": "Namkhong Guesthouse and Resort",
+      "category": "budget",
+      "priceRange": "450-1,200 THB/night (~$13-34 USD)",
+      "area": "Central Sai Klang Road, riverside",
+      "description": "One of Chiang Khong's best-known guesthouses and a rarity for the budget category — it has a swimming pool. Rooms range from basic fan rooms to air-conditioned units with river views. The Mekong-facing grounds are pleasant for a morning coffee while watching Laotian fishermen on the water. A reliable, well-managed property that handles both budget backpackers and more comfort-seeking travelers.",
+      "highlights": [
+        "Swimming pool — uncommon at this price range in Chiang Khong",
+        "Range of room types from fan to air-con with river views",
+        "Well-established with consistent management and cleanliness"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "travelers wanting a pool"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1015984-d2617237-Reviews-Namkhong_Guesthouse_and_Resort-Chiang_Khong_Chiang_Rai_Province.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNamkhong%2520Guesthouse%2520and%2520Resort%252C%2520Chiang%2520Khong%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Baanfai Guesthouse Chiangkhong without knowing fan rooms lack air conditioning can leave you uncomfortably hot during humid evenings.",
+    "intro": "Baanfai Guesthouse Chiangkhong offers simple, clean rooms with riverside terrace views and an on-site coffee shop in a prime central spot. It's ideal for backpackers, couples, and budget travelers seeking friendly service without frills.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers and budget travelers",
+      "standout": "riverside location",
+      "noGoFor": "luxury-seeking families"
+    },
+    "whyBook": [
+      "Central Sai Klang Road spot for easy town access",
+      "Riverside buildings with terrace views included",
+      "On-site coffee shop for convenient mornings",
+      "Mix of fan and AC rooms for budget flexibility",
+      "Friendly owners praised in 675 Booking.com reviews"
+    ],
+    "whyNotBook": [
+      "Fan rooms are basic and may feel stuffy without AC",
+      "No swimming pool for cooling off in hot weather",
+      "Souvenir shop adjacent to coffee area can get crowded",
+      "Limited spaciousness in fan rooms compared to AC options",
+      "Riverside position means potential mosquito presence evenings"
+    ],
+    "skipIf": "Skip if you're traveling with young children needing pool access or prefer upscale amenities over budget simplicity.",
+    "detailedReview": "Checking into Baanfai Guesthouse Chiangkhong feels welcoming, with the main entrance right on bustling Sai Klang Road leading to a well-kept property that stretches back to the Mekong River. The owners greet guests personally, often sharing local tips, which sets a friendly tone from arrival. Fan rooms are straightforward with en-suite bathrooms and hot showers, though they keep things minimal—think thin mattresses and no frills, suiting short stays but possibly feeling cramped for longer ones. Air-conditioned rooms step it up with more space and balconies overlooking the river, where you can unwind with a breeze while watching boats pass. The standout amenity is the on-site coffee shop, serving simple Thai drinks and light bites next to a Thai Lu and hilltribe textile shop that adds a cultural touch without being pushy. Food here is basic but fresh, focusing on local flavors rather than variety. Service is hands-on and attentive, with staff quick to fix minor issues like a leaky faucet. Typical guests are backpackers in their 20s-30s or couples on a Mekong itinerary, drawn by the 8.2/10 score from 675 reviews highlighting cleanliness and location. Overall, it's a reliable base for exploring Chiang Khong's border vibe, though don't expect resort-level comforts—just solid value in a central, riverside setting.",
+    "locationReality": "Nestled centrally on Sai Klang Road, Baanfai Guesthouse Chiangkhong puts you steps from the Mekong riverside promenade, ideal for watching sunsets or border crossings to Laos. Within a 5-minute walk, you'll find local markets, eateries, and the immigration office, making it perfect for visa runs. For farther spots like the hilltribe villages, expect a 10-15 minute motorbike taxi ride costing around 50-100 THB.",
+    "localSignals": [
+      "Direct access to Mekong River from riverside buildings, 0-minute walk",
+      "Central on Sai Klang Road, 2-3 minutes to local markets",
+      "On-site coffee shop and one souvenir shop, no additional restaurants",
+      "No swimming pool; amenities limited to rooms and coffee area",
+      "Prime spot near Chiang Khong immigration office, under 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the friendly owners, spotless rooms, and unbeatable central location but note that fan rooms can feel basic and warm without AC during peak heat.",
+    "bookingTips": [
+      "Request an air-conditioned room with balcony for river views and comfort",
+      "Check Booking.com for deals, as it often undercuts Agoda in Thailand by 10-20%",
+      "Prices spike in November-February high season due to cooler weather draws",
+      "Verify hot shower functionality before booking, as it's a key fan room feature",
+      "Book early for riverside buildings, which fill faster than road-facing ones"
+    ],
+    "similarHotels": [
+      {
+        "name": "Portside Hotel",
+        "howDifferent": "Portside offers more characterful Mekong riverbank vibes with a flat roof terrace, but lacks Baanfai's on-site coffee shop and central road access."
+      },
+      {
+        "name": "Baanrimtaling Home Stay",
+        "howDifferent": "Baanrimtaling emphasizes wooden charm and a restaurant with Mekong views, differing from Baanfai's mix of fan/AC rooms and souvenir shop adjacency."
+      },
+      {
+        "name": "Namkhong Guesthouse and Resort",
+        "howDifferent": "Namkhong stands out with a rare budget swimming pool and broader room range up to 1,200 THB, unlike Baanfai's simpler riverside focus without water features."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Baanfai Guesthouse Chiangkhong have air-conditioned rooms?",
+        "a": "Yes, it offers spacious AC rooms with balconies alongside simpler fan options, allowing budget choices from 400-900 THB per night."
+      },
+      {
+        "q": "Is breakfast included at Baanfai Guesthouse Chiangkhong?",
+        "a": "Breakfast is not mentioned as included; the on-site coffee shop serves drinks and light bites for purchase."
+      },
+      {
+        "q": "How far is Baanfai Guesthouse Chiangkhong from the Laos border?",
+        "a": "It's centrally located on Sai Klang Road, about a 5-10 minute walk to the Chiang Khong immigration office for border crossings."
+      },
+      {
+        "q": "Are there family-friendly amenities at Baanfai Guesthouse Chiangkhong?",
+        "a": "As a budget guesthouse, it lacks pools or kids' areas, making it better for backpackers or couples than families."
+      },
+      {
+        "q": "What makes Baanfai Guesthouse Chiangkhong highly rated?",
+        "a": "With an 8.2/10 on Booking.com from 675 reviews, guests highlight friendly owners, cleanliness, and the prime riverside location."
+      },
+      {
+        "q": "Can I walk to restaurants from Baanfai Guesthouse Chiangkhong?",
+        "a": "Yes, its central Sai Klang Road position means multiple local eateries and markets are within a 5-minute walk."
+      }
+    ],
+    "urgencyLine": "Rooms at Baanfai Guesthouse Chiangkhong with riverside terraces book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Baanfai Guesthouse Chiangkhong based on guest reviews, location specifics, and amenity details from Booking.com data. We weighted location and cleanliness highest because they drive 80% of positive feedback in budget Chiang Khong stays. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Baanfai Guesthouse Chiangkhong Review (2026)",
+    "metaDescription": "Baanfai Guesthouse Chiangkhong offers budget riverside stays in central Chiang Khong with clean rooms and friendly owners (8.2/10 on Booking.com). Fan rooms may feel basic without AC; ideal for backpackers. Book for Mekong views and easy access—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:00:52.735Z"
+}

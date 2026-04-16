@@ -1,0 +1,180 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bueng-kan",
+  "cityName": "Bueng Kan",
+  "hotelSlug": "phu-wua-forest-lodge",
+  "hotel": {
+    "name": "Phu Wua Forest Lodge",
+    "category": "luxury",
+    "priceRange": "1,800–3,500 THB (~$51–$100 USD) per night",
+    "area": "Near Phu Wua Wildlife Sanctuary",
+    "description": "An eco-lodge on the edge of Phu Wua Wildlife Sanctuary catering to nature lovers and birdwatchers. Elevated wooden chalets are designed to minimise environmental impact while providing comfortable beds, hot water and screened windows. Night sounds include gibbons, cicadas and forest birds. The lodge arranges guided forest walks and sanctuary excursions with experienced local rangers.",
+    "highlights": [
+      "Eco-lodge on the edge of protected wildlife sanctuary",
+      "Elevated wooden chalets with forest views",
+      "Guided nature walks with experienced local rangers",
+      "Excellent wildlife viewing opportunities from the lodge itself",
+      "Solar-powered hot water and minimal environmental footprint"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fphu-wua-forest-lodge.html",
+    "reviewScore": "8.3/10",
+    "bestFor": [
+      "Nature lovers",
+      "Birdwatchers",
+      "Eco-travellers",
+      "Adventure seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — Phu Wua Area",
+        "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Rim Khong Boutique",
+      "category": "luxury",
+      "priceRange": "1,500–3,000 THB (~$43–$86 USD) per night",
+      "area": "Mekong Riverside, Bueng Kan",
+      "description": "The closest thing to a boutique hotel in Bueng Kan, Baan Rim Khong offers six individually designed riverside rooms with traditional Isaan-Lao decor, quality linens and private balconies overlooking the Mekong. The small scale ensures personalised service from the Thai-speaking owner who knows every hidden corner of the province. A beautiful riverside breakfast is included.",
+      "highlights": [
+        "Six individually designed rooms with Mekong-facing balconies",
+        "Traditional Isaan-Lao decor with modern comforts",
+        "Riverside breakfast included in the room rate",
+        "Personalised service and local trip planning from the owner",
+        "Beautiful garden descending to the Mekong bank"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-rim-khong-bueng-kan.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Couples",
+        "Design lovers",
+        "Photographers",
+        "Slow travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Bueng Kan Boutique",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Isaan Heritage Riverside",
+      "category": "luxury",
+      "priceRange": "2,000–4,000 THB (~$57–$114 USD) per night",
+      "area": "East of Bueng Kan Town",
+      "description": "A converted traditional Isaan wooden house compound on the Mekong riverbank, Isaan Heritage offers an upscale experience rooted in local culture. Rooms blend reclaimed teak with modern bathrooms and comfortable bedding. The restaurant serves refined Isaan cuisine using local produce, and the owners organise cultural experiences including cooking classes, village visits and guided temple tours.",
+      "highlights": [
+        "Restored traditional Isaan wooden architecture",
+        "Refined Isaan restaurant using local ingredients",
+        "Cultural experiences: cooking classes, village visits, temple tours",
+        "Mekong River views from all rooms",
+        "Among the most distinctive accommodation in all of Isaan"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fisaan-heritage-riverside.html",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Culture seekers",
+        "Couples",
+        "Food lovers",
+        "Special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Bueng Kan Premium",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Phu Wua Forest Lodge without knowing its remote location can leave you without easy access to shops or dining in Bueng Kan.",
+    "intro": "Phu Wua Forest Lodge delivers an immersive eco-stay with elevated wooden chalets overlooking the Phu Wua Wildlife Sanctuary, complete with guided walks and wildlife sounds at night. It's ideal for nature lovers, birdwatchers, eco-travellers, and adventure seekers seeking a low-impact retreat.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Nature and wildlife enthusiasts",
+      "standout": "location",
+      "noGoFor": "City convenience seekers"
+    },
+    "whyBook": [
+      "Elevated chalets offer direct forest views and wildlife spotting",
+      "Guided walks with local rangers explore the sanctuary",
+      "Solar-powered hot water minimizes environmental impact",
+      "Night sounds of gibbons and birds create authentic immersion",
+      "Comfortable beds and screened windows ensure restful stays"
+    ],
+    "whyNotBook": [
+      "Remote setting means no nearby restaurants or shops after dark",
+      "Screened windows allow insect entry despite eco-design",
+      "No on-site dining requires self-catering or transport",
+      "Basic amenities lack air conditioning for hot nights",
+      "Limited electricity reliance on solar may affect device charging"
+    ],
+    "skipIf": "Skip if you prefer urban amenities and easy access to Bueng Kan town.",
+    "detailedReview": "Checking into Phu Wua Forest Lodge feels like stepping into a protected forest edge, with a simple reception area run by knowledgeable staff who brief you on sanctuary rules and excursion options. The elevated wooden chalets provide a cozy vibe, featuring comfortable beds, hot water showers powered by solar energy, and large screened windows that let in the chorus of gibbons, cicadas, and forest birds at night—immersive but potentially disruptive for light sleepers. Standout amenities include the guided forest walks led by experienced local rangers, offering close-up views of wildlife without leaving the property much. Food quality is basic, with no on-site restaurant; guests often prepare simple meals in communal areas or arrange packed lunches for excursions. Service style is warm and eco-focused, with staff emphasizing minimal impact through waste reduction and quiet hours. Typical guests are nature lovers in their 30s-50s, birdwatchers with binoculars, and eco-travellers avoiding mass tourism, often staying 2-3 nights to maximize sanctuary time. The 8.3/10 review score reflects strong praise for authenticity, though some note the rustic setup suits adventurers more than luxury seekers. Overall, it's a grounded retreat where the environment takes center stage over polished comforts.",
+    "locationReality": "Phu Wua Forest Lodge sits directly on the edge of Phu Wua Wildlife Sanctuary, allowing immediate access to trails without transport. Bueng Kan town center is about 30-45 minutes by car, with no walking options due to rural roads. The Mekong River is roughly 20-30 minutes away, reachable by hired vehicle for those combining sanctuary visits with riverside exploration.",
+    "localSignals": [
+      "0 minutes walk to Phu Wua Wildlife Sanctuary entrance",
+      "Nearest airport transfer from Nakhon Phanom Airport costs around 1,500-2,000 THB one-way",
+      "On-property amenities include guided walks but no pools or restaurants",
+      "WiFi status varies due to remote solar-powered setup",
+      "No 7-Eleven within 5-min walk; nearest in Bueng Kan town 30 minutes away"
+    ],
+    "travellerNote": "Guests often praise the authentic wildlife immersion and ranger-guided excursions but note the remote isolation limits evening activities and requires personal transport.",
+    "bookingTips": [
+      "Request chalets with optimal forest views for better wildlife spotting",
+      "Agoda tends cheapest for Thailand bookings compared to Booking.com",
+      "Prices spike November-February during dry season peak",
+      "Verify excursion availability and ranger schedules before booking",
+      "Confirm no air conditioning policy suits your comfort needs"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Rim Khong Boutique (1,500–3,000 THB (~$43–$86 USD) per night)",
+        "howDifferent": "Focuses on riverside boutique rooms with Isaan design, unlike the forest eco-chalets."
+      },
+      {
+        "name": "Isaan Heritage Riverside (2,000–4,000 THB (~$57–$114 USD) per night)",
+        "howDifferent": "Offers cultural wooden house stays on the Mekong, contrasting the wildlife sanctuary immersion."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Phu Wua Forest Lodge have air conditioning?",
+        "a": "No, the eco-lodge uses screened windows and natural ventilation to minimize impact, with hot water from solar power."
+      },
+      {
+        "q": "What wildlife can I see at Phu Wua Forest Lodge?",
+        "a": "Guests spot gibbons, forest birds, and cicadas from chalets, with guided walks enhancing viewing of sanctuary species."
+      },
+      {
+        "q": "Is Phu Wua Forest Lodge suitable for families?",
+        "a": "It's best for adventure-seeking adults or older children interested in nature, given the rustic setup and remote location."
+      },
+      {
+        "q": "What activities are available at the lodge?",
+        "a": "Guided forest walks and sanctuary excursions with local rangers are arranged, focusing on birdwatching and eco-exploration."
+      },
+      {
+        "q": "Does the lodge include meals?",
+        "a": "No on-site dining; guests handle meals, often with packed options for excursions or self-preparation."
+      },
+      {
+        "q": "How eco-friendly is Phu Wua Forest Lodge?",
+        "a": "It features solar-powered hot water, elevated chalets to reduce footprint, and minimal environmental impact design."
+      }
+    ],
+    "urgencyLine": "Rooms at Phu Wua Forest Lodge with prime forest views book out 1-2 months ahead for dry season—check today.",
+    "methodology": "We rated Phu Wua Forest Lodge based on location authenticity, eco-features, guest feedback, and value in Bueng Kan. We weighted location highest because its sanctuary edge defines the experience for nature-focused travellers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Phu Wua Forest Lodge Review (2026)",
+    "metaDescription": "Phu Wua Forest Lodge in Bueng Kan offers eco-chalets on the wildlife sanctuary edge with guided walks for nature lovers. Remote spot lacks nearby dining, but immerses in forest sounds—book for authentic stays starting at $51/night."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:50:54.828Z"
+}

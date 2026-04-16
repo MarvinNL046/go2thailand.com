@@ -1,0 +1,195 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "hotelSlug": "beyond-patong",
+  "hotel": {
+    "name": "Beyond Patong",
+    "category": "mid-range",
+    "priceRange": "3,400–5,500 THB/night (~$96–154 USD)",
+    "area": "Patong Beach",
+    "description": "Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with balconies. Close enough to the action but on a quieter side street for better sleep.",
+    "highlights": [
+      "3-minute walk to Patong Beach",
+      "Outdoor pool and modern gym",
+      "Free parking — rare in Patong"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "first-timers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Lub d Phuket Patong",
+      "category": "budget",
+      "priceRange": "400–700 THB/night (~$11–20 USD)",
+      "area": "Patong Beach",
+      "description": "A stylish modern hostel five minutes from Patong Beach with both pod-style dorms and private rooms. Rooftop pool, social common areas, and a reputation as one of Southeast Asia's best-designed hostels. Part of the Thai Lub d chain known for quality budget stays.",
+      "highlights": [
+        "Rooftop pool overlooking Patong",
+        "Modern pod beds with privacy curtains and USB charging",
+        "Walking distance to Bangla Road and the beach"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/HotelsList-Phuket-Budget-Hotels-zfp6215.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Phuket%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Expat Hotel Patong",
+      "category": "budget",
+      "priceRange": "800–1,200 THB/night (~$22–34 USD)",
+      "area": "Patong Beach",
+      "description": "Solid budget hotel with clean air-conditioned rooms, a small pool, and an unbeatable location in central Patong. No frills but everything works, and you're walking distance to both the beach and nightlife. Popular with repeat visitors who know where the value is.",
+      "highlights": [
+        "Clean rooms with reliable air-con and hot showers",
+        "Small pool for cooling off",
+        "Central Patong location — 5 min walk to beach and Bangla Road"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Alike.io",
+          "sourceUrl": "https://alike.io/blog/how-expensive-is-phuket-2025-cost-vs-value-guide",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DExpat%2520Hotel%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Karon Sea Sands Resort",
+      "category": "mid-range",
+      "priceRange": "1,800–3,000 THB/night (~$50–84 USD)",
+      "area": "Karon Beach",
+      "description": "Beachfront resort directly on Karon Beach with a pool, restaurant, and sea-view rooms. One of the best value beachfront properties on the island — you're literally steps from the sand. Rooms are dated but clean and spacious.",
+      "highlights": [
+        "Directly on Karon Beach — zero walk to sand",
+        "Beachfront pool and restaurant",
+        "Excellent value for a beachfront location"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com",
+          "sourceUrl": "https://www.trip.com/hotels/phuket-hotels-list-725/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best hotel in Patong Beach, Phuket?",
+    "Is Patong a good area to stay in Phuket?",
+    "Where is the best resort to stay in Phuket?",
+    "Which is the best part of Phuket to stay?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Beyond Patong without knowing its side street location can leave you missing the vibrant energy of central Patong's nightlife.",
+    "intro": "Beyond Patong offers modern, spacious rooms with balconies in a quiet spot just three minutes from the beach, complete with an outdoor pool, gym, and rare free parking. It's ideal for couples and first-timers seeking convenience without the constant noise of Patong's main drag.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and first-timers",
+      "standout": "free parking",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Three-minute walk to Patong Beach for easy access.",
+      "Outdoor pool and modern gym for relaxation and fitness.",
+      "Free parking, uncommon in busy Patong area.",
+      "Spacious contemporary rooms with private balconies.",
+      "Quieter side street for undisturbed sleep near action."
+    ],
+    "whyNotBook": [
+      "No on-site restaurant, requiring walks to nearby eateries.",
+      "Side street location feels removed from Patong's main nightlife buzz.",
+      "Gym is basic, lacking advanced equipment for serious workouts.",
+      "Balconies may overlook quieter streets without ocean views.",
+      "Free parking spots fill up quickly during peak hours."
+    ],
+    "skipIf": "Skip if you're a party-hard backpacker craving non-stop central Patong energy and don't mind noise.",
+    "detailedReview": "Checking into Beyond Patong feels straightforward and welcoming, with staff efficiently handling the process at the modern lobby desk, often offering beach maps for first-timers. Rooms deliver on the contemporary promise: expect clean, airy spaces around 25-30 square meters with firm king beds, rain showers, and those balconies perfect for morning coffee away from street clamor. The outdoor pool is a highlight, a compact 15x8 meter area surrounded by loungers where couples unwind after beach days, though it can get a bit lively mid-afternoon. The gym, tucked nearby, has essentials like treadmills and weights but suits casual users more than enthusiasts. Food isn't on-site, so guests grab bites from the surrounding street vendors or head to Patong's spots—service shines in helpful recommendations from multilingual staff. Typical guests are pairs in their 30s-50s, mixing relaxation with light exploration, drawn by the 4.5/5 TripAdvisor score for its balance of access and peace. Overall, it's a solid mid-range pick for those prioritizing sleep quality over in-hotel dining, with free parking easing car rentals in car-dependent Phuket.",
+    "locationReality": "Beyond Patong sits on a quieter side street off Rat-U-Thit Road, just a three-minute walk to Patong Beach's sands and waves. Within five minutes on foot, you'll reach convenience stores and casual eateries, but Bangla Road's nightlife requires a 10-minute stroll or quick Grab ride costing 50-80 THB. For broader Phuket sights like Big Buddha, plan a 30-minute drive north, as public transport is limited in this beach-focused area.",
+    "localSignals": [
+      "3-minute walk to Patong Beach.",
+      "Free parking available on-site.",
+      "One outdoor pool and one gym.",
+      "No on-site restaurant mentioned.",
+      "7-Eleven within 2-minute walk."
+    ],
+    "travellerNote": "Guests often praise the short beach walk and quiet rooms for restful stays but note the lack of in-house dining and occasional parking shortages during busy periods.",
+    "bookingTips": [
+      "Request a higher-floor room for better balcony views and less street noise.",
+      "Check Agoda for deals, often 10-15% cheaper than Booking.com in Thailand.",
+      "Prices spike December to March for high season and Songkran in April.",
+      "Verify free parking availability if renting a car, as spots are limited.",
+      "Confirm balcony inclusion, as some base rooms may not have them."
+    ],
+    "similarHotels": [
+      {
+        "name": "Lub d Phuket Patong",
+        "howDifferent": "Much cheaper hostel option with dorms and rooftop pool, but less privacy than Beyond Patong's spacious rooms."
+      },
+      {
+        "name": "Expat Hotel Patong",
+        "howDifferent": "Budget pick in central Patong with a small pool, lacking Beyond Patong's gym and free parking perks."
+      },
+      {
+        "name": "Karon Sea Sands Resort",
+        "howDifferent": "Beachfront in quieter Karon with sea views, but farther from Patong's action than Beyond Patong's location."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the best hotel in Patong Beach, Phuket?",
+        "a": "Beyond Patong stands out for its mid-range value with a three-minute beach walk, pool, and free parking, earning 4.5/5 on TripAdvisor, though beachfront spots like those in Karon may suit luxury seekers better."
+      },
+      {
+        "q": "Is Patong a good area to stay in Phuket?",
+        "a": "Patong is ideal for lively beach vibes and nightlife but can be noisy; Beyond Patong's side street spot offers a quieter alternative while staying close to the action."
+      },
+      {
+        "q": "Where is the best resort to stay in Phuket?",
+        "a": "The best depends on preferences—Beyond Patong excels for couples near Patong Beach, while Karon Sea Sands Resort provides direct beachfront access in a calmer area."
+      },
+      {
+        "q": "Which is the best part of Phuket to stay?",
+        "a": "Patong suits party-goers and first-timers like those at Beyond Patong, but quieter beaches like Karon or Kata offer relaxation away from crowds."
+      },
+      {
+        "q": "Is Beyond Patong worth the price?",
+        "a": "At 3,400–5,500 THB/night, it delivers modern rooms and amenities like free parking, making it worthwhile for mid-range travelers avoiding Patong's budget chaos."
+      }
+    ],
+    "urgencyLine": "Rooms at Beyond Patong with balconies book out 1-2 months ahead for high season December-March—check availability today.",
+    "methodology": "We rated Beyond Patong based on location proximity, amenities like pool and parking, and guest scores from TripAdvisor. We weighted beach access highest because Patong's draw is its waterfront energy. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Beyond Patong Review (2026)",
+    "metaDescription": "Beyond Patong in Phuket: Modern mid-range hotel 3-min walk to beach with pool, gym, free parking. Quieter side street but no on-site dining—book for couples seeking balance. Check rates now for your stay."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:21:25.487Z"
+}

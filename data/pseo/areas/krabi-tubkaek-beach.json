@@ -1,0 +1,167 @@
+{
+  "template": "area-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "areaSlug": "tubkaek-beach",
+  "areaName": "Tubkaek Beach",
+  "neighborhood": {
+    "name": "Tubkaek Beach",
+    "description": "The most secluded of Krabi's mainland beaches, with a dramatic backdrop of limestone cliffs and views of Hong Island offshore. Home to the ultra-exclusive Phulay Bay Ritz-Carlton Reserve and a handful of other upscale properties. The beach is nearly empty even in peak season — you might have entire stretches to yourself. Perfect for honeymoons and privacy seekers, but extremely isolated: almost nothing outside the resorts in terms of restaurants or services.",
+    "bestFor": "Honeymooners, privacy seekers & ultra-luxury travelers",
+    "priceLevel": "Luxury",
+    "highlights": [
+      "Near-private beach with dramatic limestone cliff backdrop",
+      "Home to Phulay Bay Ritz-Carlton Reserve — one of Thailand's finest hotels",
+      "Stunning views of Hong Island from the beach",
+      "Complete seclusion — rarely more than a handful of people on the sand",
+      "Unforgettable sunset views over the Andaman Sea"
+    ],
+    "recommendedHotels": [
+      "Phulay Bay, a Ritz-Carlton Reserve"
+    ],
+    "walkingScore": "2/10",
+    "transportNotes": [
+      "30 min drive to Ao Nang (300-400 THB by Grab)",
+      "Resort arranges all transfers and tours",
+      "No public transport — completely resort-dependent for transport"
+    ],
+    "sources": [
+      {
+        "sourceName": "Marriott",
+        "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "category": "luxury",
+      "priceRange": "12,000-35,000 THB/night (~$336-980 USD)",
+      "area": "Tubkaek Beach",
+      "description": "The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous pool villas and pavilions with Thai-inspired design, a world-class spa, three restaurants, and the kind of white-glove service that justifies the price. One of only a handful of Ritz-Carlton Reserve properties worldwide.",
+      "highlights": [
+        "Ritz-Carlton Reserve — one of few worldwide",
+        "Secluded Tubkaek Beach with limestone island views",
+        "Pool villas with outdoor living spaces and private butler service"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhulay%2520Bay%252C%2520a%2520Ritz-Carlton%2520Reserve%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Ao Nang",
+    "Railay Beach",
+    "Krabi Town",
+    "Klong Muang",
+    "Nopparat Thara Beach"
+  ],
+  "paaQuestions": [
+    "What is the best beach to stay in Krabi?",
+    "Is Tubkaak Krabi safe for swimming?",
+    "Is Tubkaek Beach nice?",
+    "Which is the best part of Krabi to stay in?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Tubkaek Beach can trap you in total isolation without easy escapes — most first-timers underestimate the resort-only transport reliance.",
+    "intro": "Tubkaek Beach stands out as Krabi's most secluded mainland stretch, backed by towering limestone cliffs and offering offshore views of Hong Island, with just a few upscale resorts dotting the sand. We ranked it highest for ultra-luxury seclusion, prioritizing privacy and exclusivity over accessibility.",
+    "vibe": "Secluded + luxurious",
+    "quickStats": {
+      "priceBand": "€€€",
+      "walkability": "Low",
+      "bestFor": "Honeymooners and privacy seekers",
+      "safetyNote": "Very safe, resort-secured area."
+    },
+    "detailedDescription": "Arriving at Tubkaek Beach feels like entering a private enclave: the sand is wide and often deserted, fringed by dense mangroves and those sheer limestone cliffs that rise abruptly from the water's edge. Daytime brings a hushed calm, with resort guests lounging on near-empty stretches or dipping into calm Andaman waters, while staff from places like Phulay Bay quietly maintain the manicured grounds—mostly Thai locals who commute from nearby villages for shifts. There's no bustling street life; instead, pathways wind through resort compounds, leading to infinity pools overlooking Hong Island. Nights amplify the seclusion: sunsets paint the sea in deep oranges before silence settles in, broken only by distant waves or occasional resort dinners under the stars. Noise is minimal— no traffic hum or bar chatter, just the resort's soft ambient sounds. Food options are confined to hotel kitchens, serving refined Thai fusion with fresh seafood, but venturing out means arranging a resort transfer to Ao Nang for variety. Getting around relies entirely on resort vans or pre-booked taxis; walking is limited to beach strolls, as the area lacks shops, ATMs, or even basic services beyond the properties. It's a bubble of tranquility for those craving disconnection, but the isolation means planning every meal and excursion ahead.",
+    "localSignals": [
+      "45-60 min drive from Krabi International Airport (800-1200 THB by taxi)",
+      "30 min drive to Ao Nang (300-400 THB by Grab)",
+      "Direct beach access from resorts, 1-2 min walk to sand",
+      "Quiet at night, minimal resort ambient noise only",
+      "Nearest 7-Eleven in Ao Nang, 30 min drive away"
+    ],
+    "pros": [
+      "Near-private beach with cliff views",
+      "Stunning Hong Island panoramas",
+      "Ultra-secluded even in peak season",
+      "Top-tier luxury resort options",
+      "Calm waters for relaxed swimming"
+    ],
+    "cons": [
+      "No restaurants or shops outside resorts",
+      "Fully dependent on resort transport",
+      "High costs with luxury-only stays",
+      "Long drives to other Krabi attractions",
+      "Limited non-resort activities available"
+    ],
+    "skipIf": "Skip if you're budget-conscious or want easy access to local eateries and nightlife.",
+    "stayRecommendations": [
+      {
+        "name": "Phulay Bay, a Ritz-Carlton Reserve",
+        "why": "This ultra-exclusive property embodies Tubkaek Beach's seclusion with its pool villas overlooking limestone cliffs and Hong Island, offering total privacy for honeymoons."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Ao Nang",
+        "shortPitch": "Ao Nang buzzes with shops, restaurants, and easy beach access, contrasting Tubkaek's remote quietude.",
+        "recommendFor": "Families and budget travelers"
+      },
+      {
+        "areaName": "Railay Beach",
+        "shortPitch": "Railay offers boat-only adventure vibes with climbing and lively bars, unlike Tubkaek's resort isolation.",
+        "recommendFor": "Adventure and social seekers"
+      },
+      {
+        "areaName": "Krabi Town",
+        "shortPitch": "Krabi Town provides urban markets and ferries without beaches, far from Tubkaek's luxury seclusion.",
+        "recommendFor": "Cultural and transit-focused visitors"
+      }
+    ],
+    "travellerNote": "Travellers often praise the profound privacy and breathtaking cliff-backed sunsets but note the extreme isolation and lack of independent dining options.",
+    "faq": [
+      {
+        "q": "What is the best beach to stay in Krabi?",
+        "a": "For ultra-luxury and seclusion, Tubkaek Beach tops the list with its private sands and Ritz-Carlton Reserve; choose Ao Nang for more action."
+      },
+      {
+        "q": "Is Tubkaek Krabi safe for swimming?",
+        "a": "Yes, the calm, shallow waters at Tubkaek Beach are generally safe for swimming, especially during dry season, though always check tides and flags."
+      },
+      {
+        "q": "Is Tubkaek Beach nice?",
+        "a": "Tubkaek Beach is exceptionally nice for those seeking solitude, featuring empty stretches of sand with dramatic limestone views—ideal for a peaceful escape."
+      },
+      {
+        "q": "Which is the best part of Krabi to stay in?",
+        "a": "Tubkaek Beach is best for honeymooners wanting privacy and luxury; opt for Railay if you prefer adventure over seclusion."
+      },
+      {
+        "q": "How do I get to Tubkaek Beach from Krabi Airport?",
+        "a": "Take a 45-60 minute taxi or resort transfer from Krabi Airport for 800-1200 THB; no public options available."
+      },
+      {
+        "q": "Are there activities near Tubkaek Beach?",
+        "a": "Activities are resort-led like boat tours to Hong Island; for more, arrange transfers to Ao Nang's climbing or markets."
+      }
+    ],
+    "urgencyLine": "Secluded villas at Tubkaek Beach's resorts fill up fast for 2026 high season—book 4-6 months ahead for peak privacy.",
+    "methodology": "We compared Tubkaek Beach to Ao Nang and Railay Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted seclusion highest because it defines the area's appeal for privacy seekers over convenience. Last updated: 2026-04.",
+    "metaTitle": "Staying in Tubkaek Beach, Krabi (2026)",
+    "metaDescription": "Experience secluded luxury at Tubkaek Beach, Krabi—private sands, cliff views, and top resorts for honeymoons. Compare areas and see hotels for your 2026…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:27:03.580Z"
+}

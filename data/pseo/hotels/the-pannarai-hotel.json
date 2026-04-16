@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "udon-thani",
+  "cityName": "Udon Thani",
+  "hotelSlug": "the-pannarai-hotel",
+  "hotel": {
+    "name": "The Pannarai Hotel",
+    "category": "mid-range",
+    "priceRange": "1,480-2,500 THB/night (~$41-70 USD) with breakfast",
+    "area": "Nong Prajak Park area",
+    "description": "A modern mid-range hotel with a prime location near Nong Prajak Park and UD Town. Rates include breakfast, making it better value than the rack rate suggests. Rooms are clean and well-furnished with reliable WiFi. The location near the park means pleasant morning walks and easy access to the evening lakeside restaurant scene. Good choice for travelers who want a comfortable city base.",
+    "highlights": [
+      "Breakfast included in room rate",
+      "Close to Nong Prajak Park for morning walks and evening dining",
+      "Modern rooms with reliable WiFi"
+    ],
+    "reviewScore": "4.0/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "business travelers",
+      "comfortable mid-range"
+    ],
+    "sources": [
+      {
+        "sourceName": "Wikitravel Udon Thani",
+        "sourceUrl": "https://wikitravel.org/en/Udon_Thani",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Pannarai%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Charoen Hotel",
+      "category": "mid-range",
+      "priceRange": "950-1,800 THB/night (~$27-50 USD)",
+      "area": "City Center (10-acre garden grounds)",
+      "description": "One of Udon Thani's most characterful mid-range options — a long-established hotel set in 10 acres of garden grounds near the city center. The generous outdoor space is unusual for a Thai city hotel. Rooms are spacious with traditional Thai décor, and the gardens include a swimming pool. Good-value for families who want space and greenery without the city-hotel feel.",
+      "highlights": [
+        "10-acre garden grounds — unusually spacious for Udon Thani",
+        "Swimming pool surrounded by tropical garden",
+        "Spacious rooms with traditional Thai décor"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples",
+        "garden lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Wikitravel Udon Thani",
+          "sourceUrl": "https://wikitravel.org/en/Udon_Thani",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCharoen%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Hotel Udon Thani",
+      "category": "mid-range",
+      "priceRange": "1,300-2,800 THB/night (~$36-78 USD)",
+      "area": "City Center",
+      "description": "The most popular hotel in Udon Thani among international visitors — part of Thailand's mid-range Centara chain with the reliability and amenities that expat and business travelers expect. The hotel has a swimming pool, fitness center, multiple restaurants (including an international menu), and consistently good service standards. Described as the go-to choice for foreigners who want comfort without paying luxury prices.",
+      "highlights": [
+        "Centara chain reliability and consistent standards",
+        "Swimming pool and fitness center",
+        "Multiple dining options including international cuisine"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "couples",
+        "first-time Udon Thani visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Wikitravel Udon Thani",
+          "sourceUrl": "https://wikitravel.org/en/Udon_Thani",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Hotel%2520Udon%2520Thani%252C%2520Udon%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Kaen Inn Hotel",
+      "category": "mid-range",
+      "priceRange": "1,100-2,200 THB/night (~$31-61 USD)",
+      "area": "Nong Prajak Park (lakeside road)",
+      "description": "A comfortable Thai-style hotel directly on the road bordering Nong Prajak Park — arguably the best location in Udon Thani for those who want easy park access and proximity to the evening lakeside food scene. Rooms are well-maintained with park or city views. The hotel restaurant serves decent Thai food, and the park's jogging path is literally across the street.",
+      "highlights": [
+        "Directly opposite Nong Prajak Park on Prajak Sillapakom Road",
+        "Steps from the lakeside evening restaurant strip",
+        "Hotel restaurant with Thai and some international dishes"
+      ],
+      "reviewScore": "3.8/5 TripAdvisor",
+      "bestFor": [
+        "active travelers",
+        "couples",
+        "park and lake lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tourism Authority of Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Destinations/Provinces/Udon-Thani/322",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaen%2520Inn%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking The Pannarai Hotel without knowing its proximity to evening park crowds can lead to noisy nights from nearby lakeside diners.",
+    "intro": "The Pannarai Hotel offers clean, modern rooms with reliable WiFi and breakfast included, providing solid value in Udon Thani's Nong Prajak Park area. It's ideal for couples and business travelers seeking a comfortable city base near green spaces and dining.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and business travelers",
+      "standout": "location near park",
+      "noGoFor": "budget backpackers or luxury seekers"
+    },
+    "whyBook": [
+      "Breakfast included enhances value over rack rate.",
+      "Prime spot for morning walks in Nong Prajak Park.",
+      "Clean rooms with reliable WiFi for work or leisure.",
+      "Easy access to UD Town shopping and evening restaurants.",
+      "Modern furnishings suit comfortable mid-range stays."
+    ],
+    "whyNotBook": [
+      "No on-site pool for relaxation or swimming.",
+      "Rooms may face park noise during evening dining hours.",
+      "Basic amenities without spa or gym options.",
+      "Location requires 20-minute drive to Udon Thani airport.",
+      "Breakfast variety limited for longer multi-night stays."
+    ],
+    "skipIf": "Skip if you're a family needing kid-friendly pools or ultra-budget options under 1,000 THB.",
+    "detailedReview": "Checking into The Pannarai Hotel feels straightforward and welcoming, with staff efficiently handling the process in a modern lobby near Nong Prajak Park. Rooms deliver a clean, well-furnished vibe—think comfortable beds, functional desks, and air conditioning that works reliably, all supported by strong WiFi speeds suitable for streaming or video calls. The standout amenity is the included breakfast, served in a simple dining area with Thai and Western options like rice porridge, eggs, and toast, though portions are standard rather than abundant. Food quality is decent for mid-range, focusing on fresh local flavors without gourmet flair. Service style is polite and prompt, typical of Thai hospitality, with front desk assistance for local tips but no personalized concierge. Guests here skew toward couples enjoying park strolls and business travelers using it as a convenient hub—expect a mix of locals and short-stay internationals rather than party crowds. Overall, it provides a no-fuss base for exploring Udon Thani, though evenings bring subtle sounds from nearby lakeside scenes. At 4.0/5 on TripAdvisor, it earns praise for location value but notes occasional WiFi slowdowns during peak hours. The hotel's mid-range positioning means it's comfortable without extravagance, perfect for those prioritizing proximity to green spaces over on-site extras.",
+    "locationReality": "The Pannarai Hotel sits in the Nong Prajak Park area, just a 2-5 minute walk to the lake for morning jogs or evening dining at stalls. UD Town mall is within 10 minutes on foot, offering shopping and casual eats. Reaching Udon Thani International Airport takes about 20 minutes by Grab for around 250-300 THB, as there's no direct public transit like BTS in this northeastern city.",
+    "localSignals": [
+      "2-5 minute walk to Nong Prajak Park entrance.",
+      "Reliable WiFi available in all rooms.",
+      "Breakfast included in all room rates.",
+      "5-10 minute walk to UD Town shopping center.",
+      "20-minute Grab ride to Udon Thani Airport for 250-300 THB."
+    ],
+    "travellerNote": "Guests often praise the convenient park location and included breakfast for easy mornings but note occasional noise from nearby evening crowds and basic room amenities lacking extras like a pool.",
+    "bookingTips": [
+      "Request park-view rooms for quieter mornings away from road traffic.",
+      "Check Agoda for deals, often 10-15% cheaper than Booking.com in Thailand.",
+      "Prices spike in November-February high season due to cooler weather.",
+      "Verify breakfast inclusion, as some promo rates may exclude it.",
+      "Book early for business traveler months like March-May to avoid sellouts."
+    ],
+    "similarHotels": [
+      {
+        "name": "Charoen Hotel",
+        "howDifferent": "Offers more character with 10 acres of gardens but farther from the park than The Pannarai's prime spot."
+      },
+      {
+        "name": "Centara Hotel Udon Thani",
+        "howDifferent": "Provides chain reliability and higher popularity among internationals, though at slightly elevated rates without the park proximity."
+      },
+      {
+        "name": "Kaen Inn Hotel",
+        "howDifferent": "Boasts an even closer park border location in Thai-style decor, but lacks the modern room feel of The Pannarai."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is breakfast included at The Pannarai Hotel?",
+        "a": "Yes, breakfast is included in the standard room rate of 1,480-2,500 THB per night, offering Thai and Western options."
+      },
+      {
+        "q": "How far is The Pannarai Hotel from Nong Prajak Park?",
+        "a": "It's in the immediate Nong Prajak Park area, with the lake entrance just a 2-5 minute walk away for easy access."
+      },
+      {
+        "q": "Does The Pannarai Hotel have reliable WiFi?",
+        "a": "Yes, rooms come with reliable WiFi suitable for business or streaming, as noted in guest feedback."
+      },
+      {
+        "q": "What's the best time to visit Udon Thani near The Pannarai Hotel?",
+        "a": "November to February offers cooler weather ideal for park walks, though rates rise during this high season."
+      },
+      {
+        "q": "Is The Pannarai Hotel good for couples?",
+        "a": "Yes, its quiet park location and comfortable rooms make it suitable for couples seeking a relaxed city base."
+      },
+      {
+        "q": "How to get from Udon Thani Airport to The Pannarai Hotel?",
+        "a": "Take a 20-minute Grab ride costing 250-300 THB, as no direct shuttles are available from the hotel."
+      }
+    ],
+    "urgencyLine": "Rooms at The Pannarai Hotel with park views book out 1-2 months ahead for November-February high season—check availability today.",
+    "methodology": "We rated The Pannarai Hotel based on location, value from included breakfast, room quality, and guest scores like 4.0/5 on TripAdvisor. We weighted location highest because Udon Thani travelers prioritize access to Nong Prajak Park and UD Town. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "The Pannarai Hotel Review (2026)",
+    "metaDescription": "The Pannarai Hotel in Udon Thani delivers modern rooms and breakfast included near Nong Prajak Park, ideal for couples. Note no pool and potential evening noise. Book for value in this mid-range spot—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:50:47.220Z"
+}

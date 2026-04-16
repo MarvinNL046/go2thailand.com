@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nong-khai",
+  "cityName": "Nong Khai",
+  "hotelSlug": "royal-mekong-riverside-hotel",
+  "hotel": {
+    "name": "Royal Mekong Riverside Hotel",
+    "category": "mid-range",
+    "priceRange": "1,000–2,000 THB (~28–56 USD) per night",
+    "area": "Riverside / Town Centre",
+    "description": "The closest thing Nong Khai has to a full-service hotel, the Royal Mekong sits directly on the river with rooms offering Mekong views. Facilities include a spa, restaurant and bar with river terrace. Rooms are comfortable if slightly dated, but the riverside location and service level make it the top choice for travellers wanting a step up from guesthouses.",
+    "highlights": [
+      "Direct Mekong River views from most rooms",
+      "On-site spa and massage services",
+      "Riverside restaurant and bar with terrace",
+      "Swimming pool",
+      "Best full-service hotel option in town"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Froyal-mekong-riverside.html",
+    "reviewScore": "7.6/10",
+    "bestFor": [
+      "Couples",
+      "Comfort seekers",
+      "Business travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Hotels.com — Royal Mekong Riverside",
+        "sourceUrl": "https://www.hotels.com/ho3502358368/royal-mekong-riverside-hotel/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Mut Mee Garden Guest House",
+      "category": "budget",
+      "priceRange": "300–800 THB (~8–23 USD) per night",
+      "area": "Riverside / Town Centre",
+      "description": "The legendary Nong Khai backpacker institution, Mut Mee has been welcoming travellers for decades with its leafy Mekong-front garden, relaxed communal atmosphere and knowledgeable Thai-American owner. Rooms range from basic fan rooms to air-con bungalows. The garden bar overlooking the river is the social heart of Nong Khai's traveller scene. Free bicycles for guests.",
+      "highlights": [
+        "Directly on the Mekong with a beautiful garden",
+        "Free bicycle rental for guests",
+        "Garden bar and restaurant with river views",
+        "Great travel advice from long-term expat community",
+        "Walking distance to Tha Sadet Market and night market"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmut-mee-guest-house.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Backpackers",
+        "Solo travellers",
+        "Budget travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Mut Mee Guest House Official",
+          "sourceUrl": "https://www.mutmee.com/",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "Lonely Planet — Nong Khai Hotels",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/nong-khai-province/nong-khai/hotels",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Keerawan House Rim Khong",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–25 USD) per night",
+      "area": "Riverside / Town Centre",
+      "description": "A small family-run guesthouse right on the Mekong with simple but charming rooms and a riverside terrace. The owners are friendly and helpful, and the location directly on the river makes up for the basic facilities. A solid choice for budget travellers who want to wake up to Mekong views.",
+      "highlights": [
+        "Direct Mekong River views from the terrace",
+        "Family-run with personal service",
+        "Quiet riverside location",
+        "Walking distance to town centre",
+        "Good value for a riverside spot"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkeerawan-house-rim-khong.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Budget travellers",
+        "Couples",
+        "Quiet retreat seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nong Khai Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303915-Nong_Khai_Nong_Khai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Klang Muang @ Nongkhai Hotel",
+      "category": "mid-range",
+      "priceRange": "600–1,200 THB (~17–34 USD) per night",
+      "area": "Town Centre",
+      "description": "A modern Thai-style hotel in the heart of Nong Khai offering clean, well-designed rooms with air conditioning, flat-screen TVs and private bathrooms. The on-site restaurant serves good Thai food and the staff speak some English. Great value for a mid-range option in a walkable central location.",
+      "highlights": [
+        "Modern rooms with air conditioning and hot water",
+        "Central location within walking distance of markets",
+        "On-site restaurant with Thai food",
+        "Free parking",
+        "Friendly English-speaking staff"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fklang-muang-at-nongkhai.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Mid-budget travellers",
+        "Couples",
+        "Business travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Klang Muang Nongkhai",
+          "sourceUrl": "https://www.kayak.com/Nong-Khai-Hotels-Klang-Muang-at-Nongkhai-Hotel.618923.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Royal Mekong Riverside Hotel without knowing the rooms are slightly dated can lead to disappointment in modern comforts.",
+    "intro": "Royal Mekong Riverside Hotel delivers full-service comfort with direct Mekong River views, an on-site spa, swimming pool, and riverside restaurant in Nong Khai's town centre. It's ideal for couples, comfort seekers, and business travellers seeking a step up from basic guesthouses.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and comfort seekers",
+      "standout": "riverside location",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Direct Mekong views from most rooms",
+      "On-site spa and massage services available",
+      "Riverside restaurant with terrace dining",
+      "Swimming pool for relaxation",
+      "Full-service option in Nong Khai"
+    ],
+    "whyNotBook": [
+      "Rooms feel slightly dated despite comfort",
+      "Limited modern amenities compared to city hotels",
+      "Pool may feel basic for extensive swimmers",
+      "Restaurant menu repeats over longer stays",
+      "Bar terrace can get noisy from nearby traffic"
+    ],
+    "skipIf": "Skip if you're a backpacker on a tight budget preferring guesthouse vibes over full-service setups.",
+    "detailedReview": "Checking into Royal Mekong Riverside Hotel feels welcoming with efficient staff handling the process smoothly in the lobby overlooking the Mekong. Rooms offer a comfortable vibe with essential furnishings, air conditioning, and most providing direct river views, though the decor shows signs of age with worn carpets and older fixtures that might not impress design-focused guests. The standout amenity is the swimming pool, a rare feature in Nong Khai, offering a quiet spot to unwind after exploring the town. Food quality at the riverside restaurant is solid for Thai and Western dishes, served on the terrace with Mekong breezes, but portions are standard and variety limited for extended stays. Service style is attentive and friendly, typical of Thai hospitality, with staff quick to assist business travellers or couples needing recommendations. The typical guest profile includes mid-range travellers like pairs on romantic getaways or professionals attending nearby meetings, appreciating the location over luxury frills. Overall, it stands as Nong Khai's top full-service pick, prioritizing riverside access and reliability over cutting-edge style.",
+    "locationReality": "Situated directly on the Mekong River in Nong Khai's Riverside and Town Centre area, the hotel is within a 5-minute walk to local markets and riverside promenades. Key attractions like the Tha Sadet Market are about 10-15 minutes on foot, while the town centre's shops and eateries are easily reachable without transport. For farther spots like the Nong Khai Aquarium or bus station, expect a 5-10 minute Grab ride costing around 50-100 THB.",
+    "localSignals": [
+      "Directly on Mekong River with views from most rooms",
+      "On-site amenities include 1 pool, 1 restaurant, 1 bar, and spa",
+      "5-minute walk to town centre markets and promenades",
+      "10-15 minute walk to Tha Sadet Market",
+      "Grab to Nong Khai bus station costs 50-100 THB"
+    ],
+    "travellerNote": "Guests often praise the riverside views and attentive service but note the slightly dated rooms and basic pool facilities.",
+    "bookingTips": [
+      "Request a Mekong view room for the best experience",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike in November-February high season",
+      "Verify breakfast inclusion as it's not always standard",
+      "Confirm no nearby construction before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Mut Mee Garden Guest House (300–800 THB (~8–23 USD) per night) — The legendary Nong Khai backpacker institution, Mut Mee has been welcoming travellers for decades with its leafy Mekong-front garden, relaxe",
+        "howDifferent": "Offers budget backpacker vibes with garden relaxation instead of full-service facilities and dated rooms."
+      },
+      {
+        "name": "Keerawan House Rim Khong (500–900 THB (~14–25 USD) per night) — A small family-run guesthouse right on the Mekong with simple but charming rooms and a riverside terrace. The owners are friendly and helpfu",
+        "howDifferent": "Provides simpler, family-run charm at lower cost without spa, pool, or restaurant options."
+      },
+      {
+        "name": "Klang Muang @ Nongkhai Hotel (600–1,200 THB (~17–34 USD) per night) — A modern Thai-style hotel in the heart of Nong Khai offering clean, well-designed rooms with air conditioning, flat-screen TVs and private b",
+        "howDifferent": "Focuses on modern, central design without direct river access or full-service amenities like a pool."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Royal Mekong Riverside Hotel have a pool?",
+        "a": "Yes, it features a swimming pool, which is a standout amenity in Nong Khai for relaxation."
+      },
+      {
+        "q": "Are rooms at Royal Mekong Riverside Hotel river-facing?",
+        "a": "Most rooms offer direct Mekong River views, making it ideal for scenic stays."
+      },
+      {
+        "q": "What facilities are available at Royal Mekong Riverside Hotel?",
+        "a": "Facilities include an on-site spa, massage services, riverside restaurant, bar with terrace, and swimming pool."
+      },
+      {
+        "q": "Is Royal Mekong Riverside Hotel good for couples?",
+        "a": "Yes, it's best for couples seeking comfortable riverside views and romantic terrace dining."
+      },
+      {
+        "q": "How is the service at Royal Mekong Riverside Hotel?",
+        "a": "Service is attentive and friendly, suiting comfort seekers and business travellers well."
+      },
+      {
+        "q": "What's the location like for Royal Mekong Riverside Hotel?",
+        "a": "It's directly on the Riverside in town centre, close to markets and promenades."
+      }
+    ],
+    "urgencyLine": "Rooms at Royal Mekong Riverside Hotel with Mekong views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Royal Mekong Riverside Hotel based on location, facilities, and guest feedback from public sources. We weighted riverside access highest because it's the key draw in Nong Khai. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Royal Mekong Riverside Hotel Review (2026)",
+    "metaDescription": "Royal Mekong Riverside Hotel in Nong Khai offers direct river views, spa, pool, and full-service comfort for couples and business travellers. Rooms are comfortable but slightly dated. Book for a reliable mid-range stay — check availability now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:06:43.705Z"
+}

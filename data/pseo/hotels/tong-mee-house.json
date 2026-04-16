@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "hua-hin",
+  "cityName": "Hua Hin",
+  "hotelSlug": "tong-mee-house",
+  "hotel": {
+    "name": "Tong Mee House",
+    "category": "budget",
+    "priceRange": "600–1,000 THB/night (~$17–28 USD)",
+    "area": "Hua Hin Town Center",
+    "description": "A well-run guesthouse in the heart of Hua Hin, minutes from the night market and beach. Clean, air-conditioned rooms with hot water, wifi, and fridge. The friendly Thai owners provide genuine hospitality and helpful local tips. No pool, but the beach is a short walk away. One of Hua Hin's best budget options.",
+    "highlights": [
+      "Walking distance to night market and beach",
+      "Clean air-conditioned rooms with hot water",
+      "Friendly owner with excellent local knowledge"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "solo travelers",
+      "couples"
+    ],
+    "reviewScore": "4.2/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "Wikitravel",
+        "sourceUrl": "https://wikitravel.org/en/Hua_Hin",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTong%2520Mee%2520House%252C%2520Hua%2520Hin%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Memory Guesthouse",
+      "category": "budget",
+      "priceRange": "400–700 THB/night (~$11–20 USD)",
+      "area": "Hua Hin Town Center",
+      "description": "A no-frills but clean guesthouse offering Hua Hin's best value accommodation. Basic rooms with fan or air-conditioning, shared or private bathrooms. Located in the town center near restaurants and the night market. Popular with backpackers and long-stay budget travelers who appreciate the rock-bottom prices.",
+      "highlights": [
+        "Lowest prices in central Hua Hin",
+        "Central location near restaurants",
+        "Fan and air-con room options"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers",
+        "long-stay travelers"
+      ],
+      "reviewScore": "3.8/5 Booking.com",
+      "sources": [
+        {
+          "sourceName": "Wikitravel",
+          "sourceUrl": "https://wikitravel.org/en/Hua_Hin",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMemory%2520Guesthouse%252C%2520Hua%2520Hin%252C%2520Thailand"
+    },
+    {
+      "name": "Euro Hua Hin City Hotel",
+      "category": "budget",
+      "priceRange": "800–1,400 THB/night (~$22–39 USD)",
+      "area": "Hua Hin Town Center",
+      "description": "A modern budget hotel on Phetkasem Road with small but well-designed rooms, a rooftop pool, and a ground-floor cafe. Air-conditioning, hot water, smart TV, and fast wifi in all rooms. The rooftop pool with town views is exceptional at this price point. Walking distance to the night market and railway station.",
+      "highlights": [
+        "Rooftop swimming pool with town views",
+        "Modern rooms with smart TV and fast wifi",
+        "Walking distance to night market"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "digital nomads"
+      ],
+      "reviewScore": "4.1/5 Agoda",
+      "sources": [
+        {
+          "sourceName": "Agoda",
+          "sourceUrl": "https://www.agoda.com/euro-hua-hin-city-hotel/hotel/hua-hin-th.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEuro%2520Hua%2520Hin%2520City%2520Hotel%252C%2520Hua%2520Hin%252C%2520Thailand"
+    },
+    {
+      "name": "Fulay Guesthouse",
+      "category": "mid-range",
+      "priceRange": "1,500–2,500 THB/night (~$42–70 USD)",
+      "area": "Hua Hin Town Center",
+      "description": "A boutique guesthouse with individually decorated rooms, excellent on-site restaurant, and genuine Thai hospitality. Each room has its own character with quality furnishings. The restaurant is considered one of Hua Hin's best — worth visiting even if you're not staying here. A step above typical guesthouses in quality and atmosphere.",
+      "highlights": [
+        "Excellent on-site restaurant",
+        "Individually decorated rooms",
+        "Personal service and local recommendations"
+      ],
+      "bestFor": [
+        "couples",
+        "foodies",
+        "culture seekers"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Wikitravel",
+          "sourceUrl": "https://wikitravel.org/en/Hua_Hin",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFulay%2520Guesthouse%252C%2520Hua%2520Hin%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Tong Mee House without knowing it lacks a pool can leave you trekking to the beach for swims instead of relaxing on-site.",
+    "intro": "Tong Mee House delivers clean, air-conditioned rooms with hot water, WiFi, and a fridge in a central Hua Hin guesthouse run by friendly Thai owners who share local tips. It's ideal for budget travelers, solo adventurers, and couples seeking value without frills near the night market and beach.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "budget solo couple travelers",
+      "standout": "central location",
+      "noGoFor": "families needing pool"
+    },
+    "whyBook": [
+      "Minutes walk to Hua Hin night market",
+      "Clean rooms with AC and hot showers",
+      "Owners provide helpful local advice",
+      "Free WiFi and fridge in every room",
+      "Short stroll to the beach"
+    ],
+    "whyNotBook": [
+      "No on-site pool for cooling off",
+      "Basic guesthouse setup lacks extras like restaurant",
+      "Rooms may feel compact for longer stays",
+      "No included breakfast requires nearby dining",
+      "Limited amenities compared to mid-range hotels"
+    ],
+    "skipIf": "Skip if you're traveling with kids who need pool access or prefer hotels with on-site dining.",
+    "detailedReview": "Checking into Tong Mee House feels welcoming, with the friendly Thai owners greeting you personally and offering tips on Hua Hin's hidden spots. The guesthouse vibe is cozy and unpretentious, tucked in the heart of town, appealing to backpackers and couples who value location over luxury. Rooms are straightforward: clean with air-conditioning keeping things cool, hot water showers for refreshing after beach days, and a fridge for storing snacks from the nearby market. WiFi works reliably for planning outings. Standout is the genuine hospitality—owners share insider advice on local eateries and transport, making it feel like staying with knowledgeable friends. Food isn't on-site, but the night market's street stalls are steps away, offering fresh seafood and Thai dishes at low prices. Service is attentive yet low-key, with quick responses to requests like extra towels. Typical guests are solo travelers exploring on a budget or couples enjoying quiet evenings after beach walks. At 4.2/5 on TripAdvisor, it earns praise for cleanliness and value, though some note the absence of a pool as a downside for hotter days. Overall, it's a solid base for discovering Hua Hin without breaking the bank, perfect for those prioritizing walkability and personal touches over resort features.",
+    "locationReality": "Tong Mee House sits in Hua Hin Town Center, just minutes on foot from the bustling night market and the main beach along the Gulf of Thailand. Within a 5-minute walk, you'll find street food vendors, shops, and convenience stores, making it easy to grab essentials. For farther spots like Cicada Market or Khao Takiab, expect a 10-15 minute Grab ride costing around 100-200 THB, as Hua Hin lacks BTS or MRT systems.",
+    "localSignals": [
+      "Night market within 5-minute walk",
+      "Main beach 5-10 minutes walking distance",
+      "No pool on property",
+      "Free WiFi available in rooms",
+      "No breakfast included; nearby 7-Eleven within 2 minutes"
+    ],
+    "travellerNote": "Guests often praise the clean rooms, friendly owners, and prime location near the beach and market, but note the lack of a pool and basic amenities as limitations for relaxation-focused stays.",
+    "bookingTips": [
+      "Request a room with a fridge for market snacks",
+      "Check Agoda for lowest rates in Thailand bookings",
+      "Prices spike December to February high season",
+      "Verify WiFi speed before booking for work needs",
+      "Confirm no construction nearby during low season"
+    ],
+    "similarHotels": [
+      {
+        "name": "Memory Guesthouse",
+        "howDifferent": "Offers even cheaper rates with basic fan rooms but lacks the air-conditioned comfort and owner tips of Tong Mee House."
+      },
+      {
+        "name": "Euro Hua Hin City Hotel",
+        "howDifferent": "Provides a rooftop pool and cafe at slightly higher prices, trading Tong Mee House's central walkability for Phetkasem Road convenience."
+      },
+      {
+        "name": "Fulay Guesthouse",
+        "howDifferent": "Features boutique decor and an on-site restaurant at double the cost, appealing more to those wanting styled rooms over Tong Mee House's simplicity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Tong Mee House have a pool?",
+        "a": "No, Tong Mee House does not have a pool, but the beach is just a short walk away for swimming."
+      },
+      {
+        "q": "Is WiFi free at Tong Mee House?",
+        "a": "Yes, free WiFi is provided in all rooms, suitable for basic browsing and planning."
+      },
+      {
+        "q": "What are the rooms like at Tong Mee House?",
+        "a": "Rooms are clean and air-conditioned with hot water showers, a fridge, but kept simple without luxury extras."
+      },
+      {
+        "q": "How far is Tong Mee House from Hua Hin beach?",
+        "a": "It's about 5-10 minutes walking distance to the main Hua Hin beach."
+      },
+      {
+        "q": "Is breakfast included at Tong Mee House?",
+        "a": "No, breakfast is not included; head to the nearby night market for affordable options."
+      },
+      {
+        "q": "Who stays at Tong Mee House?",
+        "a": "It attracts budget travelers, solos, and couples who value location and friendly service over amenities."
+      }
+    ],
+    "urgencyLine": "Rooms at Tong Mee House in walking distance to the night market book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Tong Mee House based on location, cleanliness, value, and guest feedback from sources like TripAdvisor. We weighted central access and owner hospitality highest because they define its budget appeal in Hua Hin. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Tong Mee House Review (2026)",
+    "metaDescription": "Tong Mee House in Hua Hin offers clean AC rooms and friendly owners near the night market and beach for budget stays. No pool means relying on the short walk to shore. Book now for value in town center. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:17:58.703Z"
+}

@@ -182,10 +182,149 @@
           "lastVerified": "2026-03-14"
         }
       ]
+    },
+    {
+      "name": "Bang Rak",
+      "description": "Bang Rak is a beachfront area in the northeast of Koh Samui, adjacent to Bophut. It serves as a gateway for visitors arriving by ferry and is home to the prominent Big Buddha temple. The area has a mix of resorts, shops, and restaurants catering to tourists.",
+      "bestFor": "first-time visitors, families",
+      "priceLevel": "€–€€€ (mixed)",
+      "highlights": [
+        "Big Buddha Temple",
+        "Bang Rak Beach",
+        "Wat Sila Nguem",
+        "Lipa Noi Pier"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews connect to Chaweng and airport",
+        "5-minute drive from Samui International Airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905502-Bang_Rak_Ko_Samui_Surat_Thani_Province-Vacations.html"
+        }
+      ]
+    },
+    {
+      "name": "Hua Thanon",
+      "description": "Hua Thanon is a coastal village in the south of Koh Samui with a focus on fishing and local commerce. It features a daily fresh seafood market and several Thai Muslim restaurants. The beach here is narrower and used more by locals than for swimming.",
+      "bestFor": "foodies, budget travelers",
+      "priceLevel": "€",
+      "highlights": [
+        "Hua Thanon Market",
+        "Hua Thanon Beach",
+        "Wat Khiri Wongkaram"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Songthaews from Lamai Beach",
+        "Taxi rides from Chaweng take 20 minutes"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/island/surat_thani/koh_samui/south/hua_thanom"
+        }
+      ]
+    },
+    {
+      "name": "Lipa Noi",
+      "description": "Lipa Noi is a western beach area in Koh Samui known for its calm waters and sunset views. It has scattered resorts and a pier for ferries to nearby islands. The area includes some salt evaporation ponds historically used by locals.",
+      "bestFor": "families, kids",
+      "priceLevel": "€€",
+      "highlights": [
+        "Lipa Noi Beach",
+        "Lipa Noi Pier",
+        "Nikki Beach Club",
+        "Wat Lipa Noi"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Nathon Town",
+        "30-minute taxi from airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905503-Lipa_Noi_Ko_Samui_Surat_Thani_Province-Vacations.html"
+        }
+      ]
+    },
+    {
+      "name": "Taling Ngam",
+      "description": "Taling Ngam occupies the southwest coast of Koh Samui with long sandy beaches and hilly terrain. It hosts several high-end resorts with private beach access. The area offers views across to Ang Thong Marine Park.",
+      "bestFor": "couples, honeymoon",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Taling Ngam Beach",
+        "Four Seasons Resort Koh Samui",
+        "Laem Sor Pagoda",
+        "Ang Thong viewpoint"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Taxis from Lamai take 25 minutes",
+        "Songthaews less frequent in this area"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TAT Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Destinations/Provinces/Koh-Samui/232"
+        }
+      ]
+    },
+    {
+      "name": "Laem Set",
+      "description": "Laem Set is a quiet peninsula in southern Koh Samui between Lamai and Taling Ngam. It features a small beach and upscale villas with sea views. The area is less developed, providing seclusion for guests.",
+      "bestFor": "couples, families",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Laem Set Beach",
+        "Silent Beach",
+        "Banyan Tree Samui Resort",
+        "Laem Set Viewpoint"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Songthaews from Lamai",
+        "20-minute drive from Chaweng"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905504-Laem_Set_Ko_Samui_Surat_Thani_Province-Vacations.html"
+        }
+      ]
     }
   ],
   "generatedAt": "2026-03-14",
-  "lastUpdated": "2026-03-14",
+  "lastUpdated": "2026-04-15",
   "sources": [
     {
       "sourceName": "Destination Well Known",
@@ -208,5 +347,19 @@
       "lastVerified": "2026-03-14"
     }
   ],
-  "generalTips": []
+  "generalTips": [],
+  "enrichmentLog": [
+    {
+      "date": "2026-04-15T14:18:42.380Z",
+      "added": [
+        "Bang Rak",
+        "Hua Thanon",
+        "Lipa Noi",
+        "Taling Ngam",
+        "Laem Set"
+      ],
+      "tokensIn": 743,
+      "tokensOut": 3142
+    }
+  ]
 }

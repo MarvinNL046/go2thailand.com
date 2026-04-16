@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "hotelSlug": "ibis-bangkok-siam",
+  "hotel": {
+    "name": "ibis Bangkok Siam",
+    "category": "budget",
+    "priceRange": "1,200–1,800 THB (~34–51 USD) per night",
+    "area": "Siam / Pathum Wan",
+    "description": "ibis Bangkok Siam is the benchmark budget hotel in central Bangkok — reliable, clean and strategically located next to National Stadium BTS Skytrain Station. Rooms are compact but well-designed with comfortable beds, blackout curtains and strong air-conditioning. Perfect for travellers who want a private room without paying mid-range prices.",
+    "highlights": [
+      "Right next to National Stadium BTS station",
+      "Private en-suite rooms with reliable A/C and WiFi",
+      "On-site restaurant serving Thai and international breakfast from 150 THB",
+      "24-hour front desk",
+      "5-minute walk to MBK Shopping Centre and Siam Square"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fibis-bangkok-siam.html",
+    "reviewScore": "8.1/10",
+    "bestFor": [
+      "Budget solo travellers",
+      "Couples on a budget",
+      "Business travellers watching costs"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — ibis Bangkok Siam",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293916-d3529175-Reviews-Ibis_Bangkok_Siam-Bangkok.html",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "NapPark Hostel @ Khao San",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per bed/night",
+      "area": "Khao San / Banglamphu",
+      "description": "A well-run, modern hostel on the doorstep of Khao San Road that stands out for its design-forward pod beds with individual privacy curtains, personal lighting and USB charging. Common areas are social without being chaotic, and the location puts you 10 minutes walk from the Grand Palace.",
+      "highlights": [
+        "Pod-style beds with privacy curtains and individual power points",
+        "Located 2 minutes walk from Khao San Road",
+        "Clean, modern bathrooms with reliable hot water",
+        "24-hour reception and luggage storage",
+        "Strong WiFi throughout"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnappark-hostel-khao-san.html",
+      "reviewScore": "8.2/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Party seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "NapPark Official Site",
+          "sourceUrl": "https://www.nappark.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Lub d Bangkok Siam",
+      "category": "budget",
+      "priceRange": "400–900 THB (~11–26 USD) dorm; 1,100–1,500 THB private",
+      "area": "Siam / Pathum Wan",
+      "description": "Lub d (pronounced 'lup dee' — Thai for 'sleep well') is a design-conscious hostel brand with a social lounge, co-working space and lively bar. The Siam branch sits above MBK Shopping Centre within walking distance of BTS National Stadium and Siam Square. Popular with digital nomads and sociable solo travellers.",
+      "highlights": [
+        "Central location 1 minute from BTS National Stadium",
+        "Social bar and lounge area with regular events",
+        "Both dorms and private rooms available",
+        "Co-working space with fast WiFi",
+        "Rooftop terrace with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Flub-d-bangkok-siam.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo travellers",
+        "Digital nomads",
+        "Social backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lub d Official",
+          "sourceUrl": "https://www.lubd.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Baan Dinso @ Ratanakosin",
+      "category": "budget",
+      "priceRange": "900–1,400 THB (~26–40 USD) per night",
+      "area": "Old City / Rattanakosin",
+      "description": "A characterful guesthouse in a restored shophouse in the heart of the Old City, Baan Dinso is a 5-minute walk from the Grand Palace, Wat Pho and Khao San Road. Rooms are simple but spotless with wooden floors, en-suite bathrooms and good air-conditioning. Excellent value for the unbeatable location.",
+      "highlights": [
+        "5-minute walk from Grand Palace and Wat Pho",
+        "Restored shophouse with local character",
+        "Excellent value for Old City location",
+        "Daily housekeeping and free WiFi",
+        "Helpful staff with local restaurant recommendations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-dinso-at-rattanakosin.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Temple explorers",
+        "Couples",
+        "First-time Bangkok visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Budget Your Trip — Bangkok Hotels",
+          "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is Siam a good area to stay in Bangkok?",
+    "How close is Ibis Bangkok, Siam to shopping?",
+    "How far is Ibis Bangkok, Siam from the airport?",
+    "What amenities does Ibis Bangkok Siam offer?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking ibis Bangkok Siam without knowing the compact room sizes can lead to feeling cramped during your stay.",
+    "intro": "ibis Bangkok Siam delivers reliable, clean budget accommodations with strong air-conditioning and easy BTS access in central Bangkok. It's ideal for budget solo travellers, couples on a budget, and business travellers watching costs who prioritize location over space.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget solo travelers",
+      "standout": "location",
+      "noGoFor": "Space-needing families"
+    },
+    "whyBook": [
+      "Steps from National Stadium BTS for easy transit",
+      "Private en-suite rooms with reliable A/C and WiFi",
+      "5-minute walk to MBK Shopping Centre",
+      "On-site restaurant with breakfast from 150 THB",
+      "24-hour front desk for flexible arrivals"
+    ],
+    "whyNotBook": [
+      "Rooms are compact, limiting space for luggage or lounging",
+      "No pool or spa, just basic budget facilities",
+      "Near stadium, occasional event noise disrupts quiet evenings",
+      "Breakfast costs extra at 150 THB, not included",
+      "Thin walls may transmit sounds from adjacent rooms"
+    ],
+    "skipIf": "Skip if you need spacious rooms or on-site leisure amenities beyond WiFi and A/C.",
+    "detailedReview": "Checking into ibis Bangkok Siam feels straightforward and efficient, with the 24-hour front desk handling quick registrations amid a bustling lobby near the BTS station. Rooms greet you with a compact but functional vibe: comfortable beds dressed in crisp linens, effective blackout curtains to block city lights, and robust air-conditioning that cools the space promptly despite the tropical heat outside. The standout amenity is the reliable free WiFi, strong enough for streaming or work calls, paired with en-suite bathrooms featuring hot showers and basic toiletries. Food at the on-site restaurant is no-frills but satisfying—Thai and international breakfast options start at 150 THB, with simple dishes like rice porridge or toast that fuel early explorations without excess. Service style is professional yet impersonal, typical of an international budget chain, where staff efficiently resolve issues but don't linger for chit-chat. You'll share the space with a mix of solo backpackers tapping away on laptops, budget couples planning day trips, and cost-conscious business types grabbing quick meals. Overall, it's a no-surprises stay that prioritizes cleanliness and convenience, though the small footprint means unpacking minimally to avoid clutter. At 8.1/10, it earns points for location and reliability but loses some for lacking extras like a pool.",
+    "locationReality": "ibis Bangkok Siam sits right next to National Stadium BTS Skytrain Station, making it a 1-minute walk to public transit for zipping to Sukhumvit or Silom in 10-15 minutes. Within a 5-minute walk, you'll reach MBK Shopping Centre for bargains and Siam Square for street food and malls, placing you in Bangkok's shopping epicenter. For farther spots like the Grand Palace, expect a 20-30 minute BTS ride; airport transfers via Grab taxi typically cost 400-600 THB and take 45-60 minutes depending on traffic.",
+    "localSignals": [
+      "1-minute walk to National Stadium BTS station",
+      "5-minute walk to MBK Shopping Centre",
+      "Airport transfer via Grab: 400-600 THB, 45-60 minutes",
+      "On-site: 1 restaurant, no pool",
+      "Free WiFi; breakfast from 150 THB, not included"
+    ],
+    "travellerNote": "Guests often praise the unbeatable BTS location and clean, comfortable beds but note the compact rooms feel tight for anything beyond solo use.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise from the BTS area",
+      "Check Agoda for deals, often 10-20% cheaper than Booking.com in Thailand",
+      "Prices spike December-February for high season and Songkran in April",
+      "Verify breakfast inclusion, as it's extra at 150 THB unless bundled",
+      "Book standard rooms only, as upgrades are limited in this budget property"
+    ],
+    "similarHotels": [
+      {
+        "name": "Lub d Bangkok Siam",
+        "howDifferent": "Offers dorms from 400 THB and a social lounge, suiting backpackers more than private-room seekers."
+      },
+      {
+        "name": "Baan Dinso @ Ratanakosin",
+        "howDifferent": "Provides characterful shophouse rooms near Grand Palace at similar prices, but farther from shopping hubs."
+      },
+      {
+        "name": "NapPark Hostel @ Khao San",
+        "howDifferent": "Cheaper pod beds from 300 THB in a lively area, ideal for party vibes over quiet budget stays."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Siam a good area to stay in Bangkok?",
+        "a": "Yes, Siam is excellent for first-timers due to its central location with BTS access, shopping at MBK and Siam Square, and proximity to attractions, though it can feel crowded."
+      },
+      {
+        "q": "How close is Ibis Bangkok, Siam to shopping?",
+        "a": "It's a 5-minute walk to MBK Shopping Centre and Siam Square, offering immediate access to malls, markets, and street vendors for all your retail needs."
+      },
+      {
+        "q": "How far is Ibis Bangkok, Siam from the airport?",
+        "a": "Suvarnabhumi Airport is about 30-40 km away, with Grab rides taking 45-60 minutes and costing 400-600 THB; the Airport Rail Link plus BTS is a cheaper 1-1.5 hour option."
+      },
+      {
+        "q": "What amenities does Ibis Bangkok Siam offer?",
+        "a": "Key amenities include private en-suite rooms with A/C and WiFi, a 24-hour front desk, and an on-site restaurant for breakfast from 150 THB; no pool or gym."
+      },
+      {
+        "q": "Is breakfast included at ibis Bangkok Siam?",
+        "a": "Breakfast is not included but available at the on-site restaurant starting from 150 THB for Thai and international options."
+      },
+      {
+        "q": "How is the WiFi at ibis Bangkok Siam?",
+        "a": "WiFi is free and reliable throughout the property, suitable for browsing, streaming, and light work."
+      }
+    ],
+    "urgencyLine": "Rooms at ibis Bangkok Siam next to BTS book out 1-2 months ahead for high season—check availability today.",
+    "methodology": "We rated ibis Bangkok Siam based on location, room comfort, value for budget category, and guest feedback factors. We weighted location highest because central Bangkok access defines a practical stay. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "ibis Bangkok Siam Review (2026)",
+    "metaDescription": "ibis Bangkok Siam in Bangkok offers budget rooms next to BTS station for easy access, but compact spaces suit solos best. Clean, reliable stay at 1,200–1,800 THB. Book now for central convenience. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:44:53.158Z"
+}

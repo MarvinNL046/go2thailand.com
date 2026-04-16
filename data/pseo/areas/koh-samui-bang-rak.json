@@ -1,0 +1,133 @@
+{
+  "template": "area-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "areaSlug": "bang-rak",
+  "areaName": "Bang Rak",
+  "neighborhood": {
+    "name": "Bang Rak",
+    "description": "Bang Rak is a beachfront area in the northeast of Koh Samui, adjacent to Bophut. It serves as a gateway for visitors arriving by ferry and is home to the prominent Big Buddha temple. The area has a mix of resorts, shops, and restaurants catering to tourists.",
+    "bestFor": "first-time visitors, families",
+    "priceLevel": "€–€€€ (mixed)",
+    "highlights": [
+      "Big Buddha Temple",
+      "Bang Rak Beach",
+      "Wat Sila Nguem",
+      "Lipa Noi Pier"
+    ],
+    "walkingScore": "Medium",
+    "transportNotes": [
+      "Songthaews connect to Chaweng and airport",
+      "5-minute drive from Samui International Airport"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+      },
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905502-Bang_Rak_Ko_Samui_Surat_Thani_Province-Vacations.html"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Chaweng Beach",
+    "Lamai Beach",
+    "Bophut (Fisherman's Village)",
+    "Maenam Beach",
+    "Choeng Mon"
+  ],
+  "paaQuestions": [
+    "Is Bang Rak a nice area?",
+    "What area of Koh Samui is best to stay in?",
+    "What is Bang Rak beach like?",
+    "Which month to avoid Koh Samui?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Bang Rak can leave you stuck in traffic near the pier without beach access — most first-timers overlook its temple-centered calm for Chaweng's buzz.",
+    "intro": "Bang Rak stands out as Koh Samui's serene northeast gateway, blending ferry arrivals with the iconic Big Buddha temple and easy airport proximity. We ranked it highly for first-time visitors and families seeking a mix of relaxation and cultural touches without overwhelming crowds.",
+    "vibe": "Relaxed + temple-adjacent",
+    "quickStats": {
+      "priceBand": "€-€€€",
+      "walkability": "Medium",
+      "bestFor": "First-time visitors and families",
+      "safetyNote": "Safe for tourists, watch belongings near ferry pier."
+    },
+    "detailedDescription": "In Bang Rak, mornings start with locals and ferry passengers filling the streets near Lipa Noi Pier, where fishing boats bob alongside tourist songthaews heading to Chaweng. The area feels like a quiet extension of Bophut, with resort staff setting up beach chairs on Bang Rak Beach's soft sand, and temple visitors climbing steps to the 12-meter Big Buddha statue overlooking the sea. Daytime brings families strolling past mid-range resorts and casual eateries serving fresh seafood pad thai or coconut shakes, while workers from nearby shops chat in Thai over iced coffee. As evening sets in, the atmosphere shifts to low-key dinners at beachside spots, with the temple's lights glowing against the hillside—noise stays moderate, mostly from occasional scooters or songthaews rumbling by the main road. Nights are peaceful compared to busier beaches, though ferry horns might echo until 10pm. Food leans toward tourist-friendly Thai and Western options, like grilled fish at shacks or family buffets, with a few spots offering vegetarian temple-inspired dishes. Getting around is straightforward: walk the beachfront strip for 10-15 minutes to reach highlights, or hop a songthaew for 50-100 THB to the airport or Chaweng, avoiding the need for constant taxis in this compact zone.",
+    "localSignals": [
+      "5-minute drive from Samui International Airport",
+      "Walking 5-10 minutes to Big Buddha Temple",
+      "Songthaew to Chaweng costs around 50 THB",
+      "Moderate noise at night from road traffic",
+      "7-Eleven within 5-minute walk from beach resorts"
+    ],
+    "pros": [
+      "Quick airport access for easy arrivals",
+      "Family-friendly beach and temple views",
+      "Mix of affordable and upscale resorts",
+      "Songthaews connect to main areas",
+      "Calm vibe away from party crowds"
+    ],
+    "cons": [
+      "Ferry pier traffic disrupts beach walks",
+      "Limited nightlife beyond early dinners",
+      "Beach narrows at high tide",
+      "Songthaews run less frequently after 9pm",
+      "Mixed price options confuse budgeting"
+    ],
+    "skipIf": "Skip if you're seeking non-stop nightlife or extensive shopping, as Bang Rak prioritizes quiet temple and beach time over Chaweng-style energy.",
+    "compareTo": [
+      {
+        "areaName": "Bophut (Fisherman's Village)",
+        "shortPitch": "Bophut offers more boutique shops and evening markets right next door, but with higher evening foot traffic than Bang Rak's temple-focused serenity.",
+        "recommendFor": "Shoppers and couples"
+      },
+      {
+        "areaName": "Chaweng Beach",
+        "shortPitch": "Chaweng pulses with bars, clubs, and wider beaches, contrasting Bang Rak's laid-back ferry gateway feel and easier family access.",
+        "recommendFor": "Partygoers and groups"
+      },
+      {
+        "areaName": "Maenam Beach",
+        "shortPitch": "Maenam provides cheaper, longer stretches of sand further north, but lacks Bang Rak's immediate airport and temple convenience.",
+        "recommendFor": "Budget travelers and surfers"
+      }
+    ],
+    "travellerNote": "Travellers often praise Bang Rak's peaceful beach-temple combo and quick airport links but note the occasional pier congestion and limited evening entertainment options.",
+    "faq": [
+      {
+        "q": "Is Bang Rak a nice area?",
+        "a": "Yes, Bang Rak is a nice, relaxed spot for first-timers and families, with easy beach access and the Big Buddha nearby. Consider resorts along the beachfront for the best stay."
+      },
+      {
+        "q": "What area of Koh Samui is best to stay in?",
+        "a": "The best area depends on your vibe—Bang Rak suits families with its calm and airport proximity, while Chaweng fits party seekers. For a balanced pick, start with Bang Rak if you're new to the island."
+      },
+      {
+        "q": "What is Bang Rak beach like?",
+        "a": "Bang Rak Beach is a quiet, sandy stretch ideal for swimming and family picnics, though it can narrow at high tide. It's less crowded than Chaweng, with resorts lining the shore."
+      },
+      {
+        "q": "Which month to avoid Koh Samui?",
+        "a": "Avoid October to December for Koh Samui due to heavy monsoon rains and rough seas affecting ferries to Bang Rak. Opt for January to April for dry, sunny stays."
+      },
+      {
+        "q": "How to get around Bang Rak?",
+        "a": "Songthaews run frequently to Chaweng and the airport from Bang Rak's main road, costing 50-100 THB. Walking works for the beach and temple, but rent a scooter for flexibility."
+      },
+      {
+        "q": "Is Bang Rak good for families?",
+        "a": "Bang Rak is excellent for families, offering safe beaches, the cultural Big Buddha, and mid-range resorts. Avoid peak ferry times to dodge crowds near the pier."
+      }
+    ],
+    "urgencyLine": "Bang Rak's beachfront spots near the Big Buddha fill up fast during December to March peak season—book 3 months ahead for family-friendly options.",
+    "methodology": "We compared Bang Rak to Bophut (Fisherman's Village) and Chaweng Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted airport proximity highest because it eases logistics for first-timers and families arriving by ferry or flight. Last updated: 2026-04.",
+    "metaTitle": "Staying in Bang Rak, Koh Samui (2026)",
+    "metaDescription": "Discover staying in Bang Rak, Koh Samui: relaxed beachfront with Big Buddha access and quick airport rides for families. Compare areas and see hotels for…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:31:28.017Z"
+}

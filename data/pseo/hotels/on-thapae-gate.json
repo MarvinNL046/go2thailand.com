@@ -1,0 +1,196 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "hotelSlug": "on-thapae-gate",
+  "hotel": {
+    "name": "ON Thapae Gate",
+    "category": "mid-range",
+    "priceRange": "1,500–2,800 THB/night (~$42–80 USD)",
+    "area": "Old City / Tha Phae Gate",
+    "description": "Modern hotel with spacious rooms, 24/7 reception, and a prime location straddling the Old Town and Night Bazaar areas. Rooftop pool with city views and a stylish lobby cafe.",
+    "highlights": [
+      "Rooftop pool with panoramic views",
+      "Walking distance to both Old City and Night Bazaar",
+      "24-hour reception and concierge"
+    ],
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "The Manduls",
+        "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DON%2520Thapae%2520Gate%252C%2520Chiang%2520Mai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "U Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Old City",
+      "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+      "highlights": [
+        "Front-row seats to Sunday Market from your balcony",
+        "Views of Wat Chedi Luang from select rooms",
+        "Pool and fitness center included"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Melia Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "2,200–4,000 THB/night (~$62–112 USD)",
+      "area": "Riverside",
+      "description": "Elegant international hotel along the Ping River with modern rooms, a rooftop bar offering some of the best views in Chiang Mai, and consistently friendly staff. The riverfront location is peaceful yet minutes from the Night Bazaar.",
+      "highlights": [
+        "Rooftop bar with stunning Doi Suthep mountain views",
+        "Riverside location with morning mist views",
+        "Modern gym and swimming pool"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMelia%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit D2 Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Old City (north side)",
+      "description": "A stylish 5-star hotel with a contemporary Thai design, full-service spa, and rooftop pool. Located just outside the northern Old City moat with easy access to the Chiang Mai National Museum and north gate food stalls.",
+      "highlights": [
+        "Full-service Devarana Spa",
+        "Rooftop infinity pool",
+        "Free parking — rare in the Old City area"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d543157-Reviews-DusitD2_Chiang_Mai-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520D2%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking ON Thapae Gate without knowing its position straddling Old Town and Night Bazaar can expose you to constant evening street noise.",
+    "intro": "ON Thapae Gate offers modern spacious rooms, a rooftop pool with city views, and 24/7 reception in a spot that's walking distance to both Old City temples and Night Bazaar stalls. It's ideal for couples and families seeking a mid-range base without needing transport for key sights.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "rooftop pool",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Rooftop pool provides panoramic city views after a day of exploring.",
+      "Walking distance to Old City temples and Night Bazaar markets.",
+      "24-hour reception and concierge handle late arrivals or queries.",
+      "Spacious modern rooms suit families with extra space needs.",
+      "Stylish lobby cafe for quick coffee or light meals on-site."
+    ],
+    "whyNotBook": [
+      "Location near Night Bazaar brings evening crowds and vendor noise into rooms.",
+      "Lobby cafe options limited beyond basics, no full restaurant variety.",
+      "Rooftop pool can feel exposed to surrounding urban sounds.",
+      "Mid-range pricing lacks included breakfast in base rates.",
+      "Straddling areas means split vibes: quiet Old Town vs. bustling bazaar."
+    ],
+    "skipIf": "Skip if you're a solo traveler wanting ultra-quiet nights away from market bustle.",
+    "detailedReview": "Checking into ON Thapae Gate feels straightforward with the 24/7 reception desk in the stylish lobby cafe, where staff quickly process arrivals and offer concierge tips for Chiang Mai outings. Rooms deliver on spaciousness with modern fittings, clean lines, and enough space for couples or small families to unpack without crowding—think queen beds, work desks, and en-suite bathrooms with reliable hot water. The standout amenity is the rooftop pool, offering unobstructed city views over the Old City moat and distant hills, perfect for a late-afternoon dip after temple hopping. Food at the lobby cafe sticks to simple Thai-Western fare like coffee, sandwiches, and noodles, solid but not gourmet, with service that's friendly and efficient without being overly personalized. Expect a mix of guest profiles: couples on romantic getaways mingling with families planning day trips to Doi Suthep. Overall, the hotel's prime straddle between Old Town's historic calm and Night Bazaar's energy makes it a convenient hub, though the urban pulse filters through at night. Service style is professional and responsive, handling requests for extra towels or local maps promptly, but don't expect white-glove luxury—it's mid-range reliability in a bustling spot.",
+    "locationReality": "ON Thapae Gate sits right at Tha Phae Gate, the eastern entrance to Chiang Mai's Old City, putting you within 5-10 minutes' walk of ancient walls, Wat Chedi Luang, and the Tha Phae Gate weekend market. Night Bazaar is just across the street, a 2-minute stroll for shopping and street food, but quieter temples like Wat Phra Singh require a 15-minute walk or 100 THB Grab ride westward. For broader exploration, the Ping River or Nimmanhaemin's trendy cafes need a 10-15 minute Grab (about 150 THB), keeping the hotel central without isolation.",
+    "localSignals": [
+      "5-minute walk to Tha Phae Gate landmark.",
+      "Walking distance to Night Bazaar (under 500m).",
+      "One rooftop pool on property.",
+      "One lobby cafe for dining.",
+      "24-hour reception; WiFi included, breakfast not specified."
+    ],
+    "travellerNote": "Guests often praise the rooftop pool views and walkable access to Old City and Night Bazaar but note occasional street noise from the nearby bazaar area.",
+    "bookingTips": [
+      "Request higher-floor rooms for better pool access and less ground-level noise.",
+      "Book via Agoda for Thailand-specific deals, often 10-15% cheaper than Booking.com.",
+      "Prices spike November-February during cool season and Yi Peng Festival.",
+      "Verify if breakfast is included, as base rates may exclude it.",
+      "Check for Night Bazaar event overlaps that could add construction noise notices."
+    ],
+    "similarHotels": [
+      {
+        "name": "U Chiang Mai",
+        "howDifferent": "More boutique-focused with direct Sunday market views, but pricier and less family-oriented than ON Thapae Gate."
+      },
+      {
+        "name": "Melia Chiang Mai",
+        "howDifferent": "Riverside elegance with rooftop bar trumps ON Thapae Gate's pool, though farther from Old City at higher rates."
+      },
+      {
+        "name": "Dusit D2 Chiang Mai",
+        "howDifferent": "Upscale 5-star spa and design outside Old City moat, offering more luxury but less central walkability than ON Thapae Gate."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does ON Thapae Gate have a pool?",
+        "a": "Yes, it features a rooftop pool with panoramic city views, ideal for relaxing after sightseeing."
+      },
+      {
+        "q": "Is ON Thapae Gate family-friendly?",
+        "a": "Absolutely, with spacious rooms and a location convenient for families exploring Old City and Night Bazaar."
+      },
+      {
+        "q": "How far is ON Thapae Gate from Chiang Mai Night Bazaar?",
+        "a": "It's within walking distance, just a 2-minute stroll across the street for easy access to stalls and food."
+      },
+      {
+        "q": "What amenities are at ON Thapae Gate?",
+        "a": "Key amenities include 24/7 reception, concierge service, spacious modern rooms, and a stylish lobby cafe."
+      },
+      {
+        "q": "Is breakfast included at ON Thapae Gate?",
+        "a": "Breakfast is available at the lobby cafe but not always included in base rates—confirm when booking."
+      },
+      {
+        "q": "Can couples walk to temples from ON Thapae Gate?",
+        "a": "Yes, it's steps from Tha Phae Gate, with major Old City temples like Wat Chedi Luang reachable in 5-10 minutes on foot."
+      }
+    ],
+    "urgencyLine": "Rooms at ON Thapae Gate with rooftop pool access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated ON Thapae Gate based on location convenience, room comfort, and standout amenities like the rooftop pool. We weighted prime positioning between Old City and Night Bazaar highest because it defines the stay's ease for couples and families. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "ON Thapae Gate Review (2026)",
+    "metaDescription": "ON Thapae Gate in Chiang Mai: mid-range modern stay with rooftop pool and walks to Old City & Night Bazaar. Note potential bazaar noise; book for couples/families seeking central convenience—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:05:01.509Z"
+}

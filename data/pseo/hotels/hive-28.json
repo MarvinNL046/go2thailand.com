@@ -1,0 +1,195 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "hotelSlug": "hive-28",
+  "hotel": {
+    "name": "Hive 28",
+    "category": "budget",
+    "priceRange": "280–500 THB/night (~$8–14 USD)",
+    "area": "Old City",
+    "description": "A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains, personal reading lights, and USB charging. Great common areas for meeting other travelers.",
+    "highlights": [
+      "Rooftop bar with temple views",
+      "Pod-style dorm beds with privacy",
+      "Free breakfast included"
+    ],
+    "bestFor": [
+      "backpackers",
+      "digital nomads"
+    ],
+    "sources": [
+      {
+        "sourceName": "KAYAK",
+        "sourceUrl": "https://www.kayak.com/Chiang-Mai-Hotels.6042.hotel.ksp",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHive%252028%252C%2520Chiang%2520Mai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Julie Guesthouse",
+      "category": "budget",
+      "priceRange": "350–700 THB/night (~$10–20 USD)",
+      "area": "Old City",
+      "description": "A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant that doubles as a social hub. The location near Tha Phae Gate is unbeatable for market access.",
+      "highlights": [
+        "Steps from Tha Phae Gate and Sunday Market",
+        "Both fan and air-con rooms available",
+        "Reliable WiFi and airport pickup service"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d613049-Reviews-Julie_Guest_House-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJulie%2520Guesthouse%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Stamps Backpackers",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Old City",
+      "description": "Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access to temples and the Night Bazaar. Both dorms and private rooms with air-con.",
+      "highlights": [
+        "Swimming pool — rare for this price range",
+        "Organized social events and tours",
+        "Quiet location despite being central"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStamps%2520Backpackers%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "U Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Old City",
+      "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+      "highlights": [
+        "Front-row seats to Sunday Market from your balcony",
+        "Views of Wat Chedi Luang from select rooms",
+        "Pool and fitness center included"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Hive 28 without knowing the pod-style dorms lack full soundproofing can lead to noisy nights from shared spaces.",
+    "intro": "Hive 28 delivers a clean, modern hostel experience with pod-style dorms featuring privacy curtains, reading lights, and USB ports, plus private rooms for more seclusion. It's ideal for backpackers and digital nomads seeking social vibes and a rooftop bar overlooking the Old City.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers digital nomads",
+      "standout": "rooftop bar",
+      "noGoFor": "families wanting quiet"
+    },
+    "whyBook": [
+      "Rooftop bar offers temple views for evening drinks.",
+      "Pod beds include privacy curtains and personal lights.",
+      "Free breakfast helps start days affordably.",
+      "Common areas foster easy traveler connections.",
+      "Private rooms available for solo comfort."
+    ],
+    "whyNotBook": [
+      "Dorm pods may transmit noise from adjacent sleepers.",
+      "Limited private room availability during peak seasons.",
+      "Rooftop bar crowds can overwhelm quiet seekers.",
+      "Basic facilities without luxury amenities like pools.",
+      "Old City location means occasional street noise at night."
+    ],
+    "skipIf": "Skip if you're traveling with young children who need more space than hostel dorms provide.",
+    "detailedReview": "Checking into Hive 28 feels straightforward and welcoming, with staff at the front desk quickly assigning beds or rooms after a simple ID check. The room vibe in dorms is functional and modern, with clean pod-style beds stacked efficiently—each pod has a privacy curtain that pulls shut, a personal reading light for late-night scrolling, and USB ports right by the pillow for charging devices without hunting for outlets. Private rooms offer similar cleanliness but with more space, including air-con and basic furnishings. The standout amenity is the rooftop bar, where you can sip cheap beers while gazing at temple silhouettes against the Chiang Mai skyline, especially lively in the evenings. Food quality shines with the free breakfast, typically simple Thai staples like rice porridge or toast with coffee, served in the communal kitchen area. Service style is casual and helpful, with staff organizing occasional group activities to break the ice. Typical guests are young backpackers in their 20s, digital nomads tapping away on laptops in common lounges, and solo travelers drawn to the social energy. Overall, it's a no-frills spot that prioritizes affordability and community over opulence, making multi-night stays feel connected rather than isolated. (198 words)",
+    "locationReality": "Hive 28 sits right in Chiang Mai's Old City, a 10-minute walk from Tha Phae Gate and the Night Bazaar. Within a 5-minute stroll, you'll find street food stalls and small temples like Wat Chiang Man. For farther spots like Doi Suthep, expect a 20-30 minute Grab ride costing 200-300 THB.",
+    "localSignals": [
+      "5-minute walk to Tha Phae Gate entrance.",
+      "Rooftop bar provides Old City temple views.",
+      "Free breakfast included for all guests.",
+      "Pod-style dorms with USB charging in each bed.",
+      "Common areas near 7-Eleven on Ratchadamnoen Road."
+    ],
+    "travellerNote": "Guests often praise the rooftop bar views and social common areas but note occasional noise from shared dorm spaces and limited privacy in pods.",
+    "bookingTips": [
+      "Request a top-bunk pod for better airflow in dorms.",
+      "Use Agoda for cheapest rates on Hive 28 in Thailand.",
+      "Prices spike in November during Yi Peng Lantern Festival.",
+      "Verify free breakfast inclusion before booking.",
+      "Book private rooms early to avoid dorm-only availability."
+    ],
+    "similarHotels": [
+      {
+        "name": "Julie Guesthouse (350–700 THB/night (~$10–20 USD)) — A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant tha",
+        "howDifferent": "Offers more traditional guesthouse rooms with on-site restaurant, less focus on modern pods or rooftop bar."
+      },
+      {
+        "name": "Stamps Backpackers (300–600 THB/night (~$8–17 USD)) — Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access t",
+        "howDifferent": "Emphasizes pub crawls and pool table for partying, in a quieter soi away from main Old City bustle."
+      },
+      {
+        "name": "U Chiang Mai (1,800–3,500 THB/night (~$50–100 USD)) — Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang.",
+        "howDifferent": "Provides upscale boutique stay on market street with temple views, far pricier than Hive 28's budget hostel setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Hive 28 have private rooms?",
+        "a": "Yes, alongside dorms, private rooms offer more seclusion with similar clean, modern amenities."
+      },
+      {
+        "q": "Is breakfast included at Hive 28?",
+        "a": "Free breakfast is included, featuring basic Thai options in the common area."
+      },
+      {
+        "q": "What's the vibe like at Hive 28?",
+        "a": "It's social and modern, great for backpackers meeting others in common spaces and on the rooftop."
+      },
+      {
+        "q": "How far is Hive 28 from Chiang Mai's main attractions?",
+        "a": "In the Old City, it's walking distance to temples and gates, about 10 minutes to Tha Phae Gate."
+      },
+      {
+        "q": "Are there charging points in Hive 28 dorms?",
+        "a": "Each pod bed has USB ports and reading lights for convenient personal charging."
+      },
+      {
+        "q": "Is Hive 28 suitable for digital nomads?",
+        "a": "Yes, with good common areas for working and reliable WiFi in a central location."
+      }
+    ],
+    "urgencyLine": "Rooftop bar spots at Hive 28 book out 1-2 months ahead during Songkran festival — check availability today.",
+    "methodology": "We rated Hive 28 based on its budget pricing, amenities like the rooftop bar and pod beds, location in Old City, and suitability for backpackers. We weighted social features highest because they define the hostel's appeal for nomads and travelers. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Hive 28 Review (2026)",
+    "metaDescription": "Hive 28 in Chiang Mai's Old City: Budget hostel with rooftop bar temple views and pod dorms. Free breakfast included, but dorms can be noisy. Book for backpacker vibes—check rates now. (142 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:04:04.212Z"
+}

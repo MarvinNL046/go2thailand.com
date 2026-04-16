@@ -1,0 +1,340 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "audience": "couples",
+  "neighborhoods": [
+    {
+      "name": "Kata Beach",
+      "description": "A beautiful crescent-shaped beach 15 minutes south of Patong with a more relaxed village atmosphere. Excellent for families with calm swimming waters (Nov–Apr), good restaurants, and easy access to surf schools during monsoon season. Kata Noi at the southern end is even quieter.",
+      "bestFor": "Families & couples",
+      "priceLevel": "Mid-Range",
+      "highlights": [
+        "One of Phuket's best swimming beaches (Nov–Apr)",
+        "Surf schools during monsoon season (Jun–Sep)",
+        "Family-friendly restaurants and night market",
+        "Karon Viewpoint nearby for three-beach panorama",
+        "Quieter than Patong but with enough restaurants and shops"
+      ],
+      "recommendedHotels": [
+        "Kata Beach Resort & Spa"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "15 minutes south of Patong by Grab (150–200 THB)",
+        "Smart Bus stop on the main road",
+        "Walkable within Kata village but scooter needed for exploring wider island"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travel Food Expert",
+          "sourceUrl": "https://travelfoodexpert.com/where-to-stay-in-phuket-for-the-first-time/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Karon Beach",
+      "description": "A long, wide beach between Patong and Kata with a resort-town feel. More spacious and less hectic than either neighbor, with big international hotels lining the beachfront road. The beach itself is one of the longest on the island with relatively uncrowded sand.",
+      "bestFor": "Quiet beach holidays & couples",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "One of Phuket's longest beaches — never feels crowded",
+        "Wide selection of mid-range and luxury resorts",
+        "Quieter atmosphere than Patong but not isolated",
+        "Good restaurants along the main road",
+        "Between Patong (15 min) and Kata (5 min) by road"
+      ],
+      "recommendedHotels": [
+        "Karon Sea Sands Resort",
+        "Avista Grande Karon — MGallery"
+      ],
+      "walkingScore": "5/10",
+      "transportNotes": [
+        "Long beach road — walkable along the beachfront but spread out",
+        "Smart Bus stop available",
+        "Grab to Patong 150–200 THB (15 min)"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda",
+          "sourceUrl": "https://www.agoda.com/travel-guides/thailand/phuket/where-to-stay-in-phuket-ultimate-guide-to-best-neighborhoods-areas/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Phuket Old Town",
+      "description": "The historic heart of the island on the east coast, far from the beaches but rich in culture and cuisine. Colorful Sino-Portuguese shophouses, street art, independent cafes, museums, and the island's best local food scene. Increasingly popular with culture-focused travelers and those who want to experience the real Phuket beyond the beaches.",
+      "bestFor": "Culture lovers & foodies",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Sino-Portuguese architecture — Phuket's most photogenic streets",
+        "Sunday Walking Street Market on Thalang Road",
+        "Best and cheapest food on the island — mee hokkien, moo hong, kanom jeen",
+        "Thai Hua Museum and other cultural sites",
+        "Boutique guesthouses in restored shophouses"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": [
+        "30–40 minutes from Patong by Grab (250–350 THB)",
+        "No Smart Bus — need Grab or scooter to reach beaches",
+        "Very walkable within Old Town itself"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Routes",
+          "sourceUrl": "https://www.thailandroutes.com/en/where-to-stay-in-phuket-the-ultimate-guide-to-patong-kata-karon-old-town-and-beyond/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Kamala Beach",
+      "description": "Kamala Beach is a 2 km stretch of sand on Phuket's west coast, located between Patong and Surin beaches. The area includes residential zones and small hotels along the main road parallel to the beach. It has a 2004 tsunami memorial park commemorating the event.",
+      "bestFor": "families, couples",
+      "priceLevel": "€€",
+      "highlights": [
+        "Kamala Beach",
+        "Tsunami Memorial Park",
+        "Laem Singh Viewpoint",
+        "Phuket FantaSea"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews connect to Patong and Surin",
+        "Taxi from Phuket Airport takes about 40 minutes"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Kamala,_Phuket"
+        }
+      ]
+    },
+    {
+      "name": "Mai Khao Beach",
+      "description": "Mai Khao Beach is Phuket's longest continuous beach at 11 km, running parallel to the airport runway on the northwest coast. It is part of Sirinat National Park and serves as a nesting site for green sea turtles from November to March. The area has large resort developments along the shore.",
+      "bestFor": "families, couples",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Mai Khao Beach",
+        "Sirinat National Park",
+        "Mai Khao Marine Turtle Foundation",
+        "Splash Jungle Water Park"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Adjacent to Phuket International Airport runway",
+        "Songthaews from Nai Yang or airport transfers"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Mai_Khao_Beach"
+        }
+      ]
+    },
+    {
+      "name": "Cape Panwa",
+      "description": "Cape Panwa is a peninsula on Phuket's southeast coast, featuring small bays and a historic lighthouse built in 1931. The area includes a fishing village and yacht marina, with limited public beach access. It is connected to Phuket Town by a coastal road.",
+      "bestFor": "couples, honeymoon",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Cape Panwa Beach",
+        "Phuket Aquarium",
+        "Panwa Cape Lighthouse",
+        "Phuket Yacht Haven"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Taxi from Phuket Town 15-20 minutes",
+        "No direct public bus; private transfers common"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Phuket#Cape_Panwa"
+        },
+        {
+          "sourceName": "Tourism Authority of Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Attraction/cape-panwa"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Which part of Phuket is best to stay for couples?",
+    "What is the nicest part of Phuket to stay in?",
+    "Where is best to stay in Phuket for first timers?",
+    "Is it better to stay in Phuket Town or Patong?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Phuket neighbourhood as a couples traveller can lead to noisy crowds ruining your romantic getaway — most travellers end up in hectic Patong by default.",
+    "intro": "For couples, the key factor is finding a balance of privacy, scenic beaches, and intimate dining without overwhelming tourist bustle. We ranked neighbourhoods based on suitability for romance, walkability to couple-friendly spots, and value for serene escapes.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Karon Beach",
+        "why": "Spacious beaches for quiet couple time"
+      },
+      {
+        "label": "Best value",
+        "name": "Kata Beach",
+        "why": "Mid-range resorts with relaxed vibe"
+      },
+      {
+        "label": "Best for honeymoon",
+        "name": "Cape Panwa",
+        "why": "Secluded peninsula bays for privacy"
+      }
+    ],
+    "urgencyLine": "Phuket's peak season from November to April sees beachfront rooms in couple hotspots like Karon book out fast — secure your spot 3-4 months ahead for the best rates.",
+    "comparisonTable": [
+      {
+        "name": "Kata Beach",
+        "bestFor": "Families & couples",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back",
+        "drawback": "Surf crowds in wet season"
+      },
+      {
+        "name": "Karon Beach",
+        "bestFor": "Quiet beach holidays & couples",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "quiet",
+        "drawback": "Limited nightlife options"
+      },
+      {
+        "name": "Phuket Old Town",
+        "bestFor": "Culture lovers & foodies",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "traditional local",
+        "drawback": "No nearby beaches"
+      },
+      {
+        "name": "Kamala Beach",
+        "bestFor": "families, couples",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back",
+        "drawback": "Post-tsunami development scars"
+      },
+      {
+        "name": "Mai Khao Beach",
+        "bestFor": "families, couples",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet",
+        "drawback": "Airport noise nearby"
+      },
+      {
+        "name": "Cape Panwa",
+        "bestFor": "couples, honeymoon",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet",
+        "drawback": "Limited public beach access"
+      }
+    ],
+    "decisionGuide": [
+      "If you crave quiet beach walks, choose Karon Beach.",
+      "If cultural dinners appeal more than sand, choose Phuket Old Town.",
+      "If budget mid-range relaxation fits, choose Kata Beach.",
+      "If privacy in bays is key, choose Cape Panwa.",
+      "If long serene stretches matter, choose Mai Khao Beach.",
+      "If a mix of residential calm suits, choose Kamala Beach."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Cape Panwa",
+        "why": "Its secluded peninsula offers ultimate privacy for honeymoons, outshining busier beaches like Karon by providing yacht marina intimacy over crowded sands. Couples get historic lighthouse views without the resort-town hustle.",
+        "drawback": "Requires car or taxi for most outings due to low walkability.",
+        "skipIf": "Skip if you prefer lively areas with easy beachfront strolls.",
+        "localSignals": [
+          "45-minute drive from Phuket International Airport",
+          "Typical Grab cost from airport: 800-1200 THB",
+          "5-minute walk to Cape Panwa Hotel historic lighthouse"
+        ],
+        "travellerNote": "Travellers often praise the peaceful bays and fishing village charm but note the need for transport to reach main attractions."
+      },
+      {
+        "rank": 2,
+        "name": "Karon Beach",
+        "why": "Wide sands provide spacious romance without Kata's surf school crowds, ideal for couples seeking resort luxury at mid-range prices over Old Town's inland vibe.",
+        "drawback": "Beachfront road can feel busy with hotel traffic.",
+        "skipIf": "Skip if you want high walkability to cultural sites.",
+        "localSignals": [
+          "30-minute drive from Phuket International Airport",
+          "Typical Grab cost from airport: 600-900 THB",
+          "Direct access to 5km Karon Beach stretch"
+        ],
+        "travellerNote": "Travellers often praise the uncrowded beach and international hotels but note fewer dining variety than Patong."
+      },
+      {
+        "rank": 3,
+        "name": "Kata Beach",
+        "why": "Relaxed village atmosphere beats Kamala's post-tsunami feel for calm swims, offering couples easy restaurant access without Mai Khao's isolation.",
+        "drawback": "Rougher seas outside November-April limit swimming.",
+        "skipIf": "Skip if luxury seclusion is your priority.",
+        "localSignals": [
+          "45-minute drive from Phuket International Airport",
+          "Typical Grab cost from airport: 700-1000 THB",
+          "15-minute walk to Kata Beach surf schools"
+        ],
+        "travellerNote": "Travellers often praise the family-friendly calm waters and good eats but note seasonal surf disruptions."
+      }
+    ],
+    "topPick": "Cape Panwa",
+    "topPickReason": "Cape Panwa tops for couples with its honeymoon-ready seclusion and bays, edging out Karon's beaches for pure romantic privacy.",
+    "bookingTips": [
+      "Book 3-4 months ahead for November-April peak to snag bayside rooms under €200 nightly.",
+      "Take a 45-minute Grab from Phuket Airport to Cape Panwa for 800-1200 THB, avoiding overpriced taxis.",
+      "Avoid rooms near the main road to dodge marina boat noise at night.",
+      "Steer clear of wet season May-October stays if beach access matters, as bays can get choppy.",
+      "Opt for villas with private balconies for enhanced couple intimacy over standard hotel rooms.",
+      "Check for turtle nesting updates at nearby Sirinat Park if eco-romance appeals in November-March."
+    ],
+    "methodology": "We compared Phuket neighbourhoods based on walkability, price level, transport access, and suitability for couples. We weighted privacy and serene vibes highest because couples prioritise romance over crowds. Rankings reflect cluster data plus typical couples priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/areas/phuket/cape-panwa/",
+      "/guides/where-to-stay/phuket/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Phuket'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Cape Panwa'"
+    ],
+    "faq": [
+      {
+        "q": "Which part of Phuket is best to stay for couples?",
+        "a": "Karon Beach stands out for couples with its wide, quiet sands and mid-range resorts perfect for romantic walks. For more seclusion, choose Cape Panwa's peninsula bays."
+      },
+      {
+        "q": "What is the nicest part of Phuket to stay in?",
+        "a": "Cape Panwa offers the nicest upscale escape for couples, with historic lighthouse views and private bays away from tourist bustle. It beats busier spots like Kata for serenity."
+      },
+      {
+        "q": "Where is best to stay in Phuket for first timers?",
+        "a": "Kata Beach is ideal for first-time couples, blending relaxed beaches with easy access to restaurants and surf spots without overwhelming crowds."
+      },
+      {
+        "q": "Is it better to stay in Phuket Town or Patong?",
+        "a": "Phuket Old Town is better for culture-seeking couples than Patong's party scene, offering walkable shophouses and food without the noise—pair it with beach day trips."
+      }
+    ],
+    "metaTitle": "Where to Stay in Phuket for Couples (2026)",
+    "metaDescription": "Discover top Phuket spots for couples like Karon Beach and Cape Panwa, with quiet sands and private bays for romance. Compare areas and see our 2026…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:02:49.720Z"
+}

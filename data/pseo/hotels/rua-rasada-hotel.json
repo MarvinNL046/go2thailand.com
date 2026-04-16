@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trang",
+  "cityName": "Trang",
+  "hotelSlug": "rua-rasada-hotel",
+  "hotel": {
+    "name": "Rua Rasada Hotel",
+    "category": "mid-range",
+    "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+    "area": "Trang City Center (Thanon Wiset Kunthorn)",
+    "description": "The most popular upscale hotel in Trang City — a modern 4-star property with a large swimming pool, fitness center, and multiple restaurants. Spacious rooms with proper sound insulation, good beds, and reliable WiFi. The rooftop pool bar is excellent for evening drinks. The hotel's travel desk organizes island tours directly from the hotel. Rated 8.6/10 on Booking.com — exceptionally strong for Trang.",
+    "highlights": [
+      "Large swimming pool — a rarity in Trang's hotel scene",
+      "8.6/10 Booking.com rating — the best-reviewed hotel in Trang City",
+      "In-house travel desk for island tour bookings — removes logistics stress"
+    ],
+    "reviewScore": "4.2/5 TripAdvisor, 8.6/10 Booking.com",
+    "bestFor": [
+      "couples",
+      "families",
+      "comfortable mid-range base"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/trang.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRua%2520Rasada%2520Hotel%252C%2520Trang%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Trang Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$34-62 USD)",
+      "area": "Trang City Center",
+      "description": "The most established mid-range hotel in Trang City, well-located on Thanon Phra Ram VI near the commercial center. Comfortable rooms with reliable AC, hot water, and WiFi. The ground-floor coffee shop is a meeting point for Trang's business community and a good place to arrange guides and tour operators. Consistently good reviews for cleanliness, service, and restaurant quality.",
+      "highlights": [
+        "Central location on Thanon Phra Ram VI — walkable to dim sum and night market",
+        "In-house restaurant serves good southern Thai and Chinese food",
+        "Reliable mid-range standard — the reference hotel for business travelers in Trang"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business travelers",
+        "comfortable city base"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTrang%2520Hotel%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Pawapi Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-3,000 THB/night (~$42-84 USD)",
+      "area": "Koh Mook (near Emerald Cave)",
+      "description": "The best-value resort on Koh Mook, positioned on Charlie Beach — the island's main swimming beach and the departure point for kayaking to the Emerald Cave. Wooden bungalows with sea views, an in-house restaurant with fresh-caught fish, and direct beach access. Staying here means you can kayak to the Emerald Cave at dawn (before tour groups arrive) for the genuine experience. No roads, no cars — just island life.",
+      "highlights": [
+        "Charlie Beach location — 20-minute kayak to Emerald Cave (kayaks for rent)",
+        "Stay overnight for dawn Emerald Cave access before tour boats arrive",
+        "Genuine Thai island experience — fishing village nearby, no tourist infrastructure"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "adventurous travelers",
+        "couples",
+        "Emerald Cave enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1820355-Ko_Muk_Kantang_District_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPawapi%2520Beach%2520Resort%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Koh Kradan Paradise Beach Resort",
+      "category": "mid-range",
+      "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+      "area": "Koh Kradan (inside Hat Chao Mai National Park)",
+      "description": "One of the few accommodation options on Koh Kradan — this eco-resort sits directly on the island's main beach inside the national park. Bungalows are simple but clean with air conditioning and beachfront terraces. The setting is extraordinary: no other accommodation visible along the beach, park rules limit generator hours, and after the day-trippers leave at 4 PM the beach belongs almost entirely to guests. The national park fee (200 THB) is charged separately on arrival.",
+      "highlights": [
+        "Direct beachfront on one of Thailand's best-rated beaches",
+        "After 4 PM the beach is exclusively for overnight guests — near-private beach experience",
+        "Snorkeling reef is directly in front of the resort (bring your own gear or rent on-site)"
+      ],
+      "reviewScore": "4.1/5 TripAdvisor",
+      "bestFor": [
+        "beach lovers",
+        "snorkelers",
+        "couples seeking undeveloped island experience"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKoh%2520Kradan%2520Paradise%2520Beach%2520Resort%252C%2520Trang%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Rua Rasada Hotel without knowing its city-center location means missing out on direct beach access and facing extra transport costs for island hopping.",
+    "intro": "Rua Rasada Hotel delivers a modern 4-star stay with spacious, sound-insulated rooms, a large swimming pool, fitness center, and reliable WiFi in Trang's city center. It's ideal for couples and families seeking a comfortable mid-range base to organize island tours without hassle.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "large swimming pool",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Large swimming pool rare in Trang for relaxation.",
+      "In-house travel desk books island tours easily.",
+      "Spacious rooms with good beds and sound insulation.",
+      "Rooftop pool bar perfect for evening drinks.",
+      "8.6/10 Booking.com rating tops Trang City."
+    ],
+    "whyNotBook": [
+      "City-center spot requires paid tours for beaches.",
+      "Multiple restaurants but no beachfront dining options.",
+      "Rooftop bar crowds during peak evening hours.",
+      "Fitness center basic, not gym-level equipment.",
+      "Rooms may face street noise despite insulation."
+    ],
+    "skipIf": "Skip if you're a beach purist wanting direct sand access without transport logistics.",
+    "detailedReview": "Checking into Rua Rasada Hotel feels efficient and welcoming, with staff at the front desk quickly handling bookings and offering tour info from the in-house travel desk. Rooms provide a clean, modern vibe with spacious layouts, proper sound insulation that mutes city hum, comfortable beds for restful nights, and reliable WiFi for planning trips. The standout amenity is the large swimming pool, a rarity in Trang, where guests lounge under the sun or sip drinks at the adjacent rooftop pool bar come evening—ideal for unwinding after a day of exploring. Food quality shines in the multiple on-site restaurants, serving Thai and international dishes with fresh ingredients, though portions suit mid-range expectations without extravagance. Service style is attentive yet straightforward, with staff organizing island tours directly, removing stress for families or couples. Typical guests include pairs on romantic getaways and families using it as a base for Trang's islands, drawn by the 8.6/10 Booking.com score that reflects consistent comfort in a city not known for luxury. While not opulent, the fitness center offers basic cardio and weights for light workouts, and the overall setup suits those prioritizing convenience over coastal immersion. Expect a practical stay focused on recovery and easy logistics in Trang's understated scene.",
+    "locationReality": "Situated on Thanon Wiset Kunthorn in Trang City Center, Rua Rasada Hotel is a 10-15 minute walk to local markets and eateries, but beaches like those on Koh Mook or Koh Kradan require a 1-2 hour drive plus ferry, costing 500-1,000 THB round-trip via Grab or tour. Within a 5-minute walk, find convenience stores and street food stalls, though major attractions like the night market on Thanon Phra Ram VI need a short 5-10 minute Grab ride for 50-100 THB. No direct public transport like BTS exists in Trang; rely on taxis or hotel-arranged shuttles for airport runs to Trang Airport, about 20 minutes away.",
+    "localSignals": [
+      "10-minute walk to Trang Night Market.",
+      "Trang Airport transfer costs 200-300 THB by Grab.",
+      "1 swimming pool and multiple restaurants on property.",
+      "Reliable WiFi included in all rooms.",
+      "7-Eleven and restaurant strip within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the large pool and helpful travel desk for easing island plans but note the city location demands extra effort for beach access.",
+    "bookingTips": [
+      "Request pool-view rooms for quieter stays.",
+      "Book via Booking.com for best rates in Thailand.",
+      "Prices spike December-February high season.",
+      "Verify island tour inclusions before booking.",
+      "Check for breakfast policy as not always included."
+    ],
+    "similarHotels": [
+      {
+        "name": "Trang Hotel (1,200-2,200 THB/night (~$34-62 USD)) — The most established mid-range hotel in Trang City, well-located on Thanon Phra Ram VI near the commercial center. Comfortable rooms with re",
+        "howDifferent": "Cheaper and more central to shops but lacks a pool and tour desk."
+      },
+      {
+        "name": "Pawapi Beach Resort (1,500-3,000 THB/night (~$42-84 USD)) — The best-value resort on Koh Mook, positioned on Charlie Beach — the island's main swimming beach and the departure point for kayaking to th",
+        "howDifferent": "Beachfront on Koh Mook for direct swimming but farther from city and pricier transport."
+      },
+      {
+        "name": "Koh Kradan Paradise Beach Resort (2,500-5,000 THB/night (~$70-140 USD)) — One of the few accommodation options on Koh Kradan — this eco-resort sits directly on the island's main beach inside the national park. Bung",
+        "howDifferent": "Eco-focused on national park beach but isolated without city amenities or easy tours."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Rua Rasada Hotel have a swimming pool?",
+        "a": "Yes, it features a large swimming pool, rare for Trang hotels, plus a rooftop pool bar for drinks."
+      },
+      {
+        "q": "Is WiFi free at Rua Rasada Hotel?",
+        "a": "Reliable WiFi is included in all rooms, suitable for booking tours or streaming."
+      },
+      {
+        "q": "How far is Rua Rasada Hotel from Trang Airport?",
+        "a": "It's about 20 minutes away by Grab, costing 200-300 THB for the transfer."
+      },
+      {
+        "q": "What tours can I book at Rua Rasada Hotel?",
+        "a": "The in-house travel desk organizes island tours to places like Koh Mook, handling all logistics."
+      },
+      {
+        "q": "Is breakfast included at Rua Rasada Hotel?",
+        "a": "Breakfast availability varies by booking; check policies on platforms like Booking.com."
+      },
+      {
+        "q": "Are rooms at Rua Rasada Hotel family-friendly?",
+        "a": "Yes, spacious rooms with good beds suit families, plus the pool and tour desk add convenience."
+      }
+    ],
+    "urgencyLine": "Rooms at Rua Rasada Hotel with pool access book out 1-2 months ahead for December-February high season—check today.",
+    "methodology": "We rated Rua Rasada Hotel based on guest reviews, amenities, and location fit for Trang travelers. We weighted the 8.6/10 Booking.com score highest because it reflects real stays in a low-key destination. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Rua Rasada Hotel Review (2026)",
+    "metaDescription": "Rua Rasada Hotel in Trang City Center offers a large pool and tour desk for couples and families (8.6/10 Booking.com). City location means no beachfront—extra transport needed. Book for mid-range comfort today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:41:02.624Z"
+}

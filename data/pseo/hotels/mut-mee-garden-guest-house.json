@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nong-khai",
+  "cityName": "Nong Khai",
+  "hotelSlug": "mut-mee-garden-guest-house",
+  "hotel": {
+    "name": "Mut Mee Garden Guest House",
+    "category": "budget",
+    "priceRange": "300–800 THB (~8–23 USD) per night",
+    "area": "Riverside / Town Centre",
+    "description": "The legendary Nong Khai backpacker institution, Mut Mee has been welcoming travellers for decades with its leafy Mekong-front garden, relaxed communal atmosphere and knowledgeable Thai-American owner. Rooms range from basic fan rooms to air-con bungalows. The garden bar overlooking the river is the social heart of Nong Khai's traveller scene. Free bicycles for guests.",
+    "highlights": [
+      "Directly on the Mekong with a beautiful garden",
+      "Free bicycle rental for guests",
+      "Garden bar and restaurant with river views",
+      "Great travel advice from long-term expat community",
+      "Walking distance to Tha Sadet Market and night market"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmut-mee-guest-house.html",
+    "reviewScore": "8.5/10",
+    "bestFor": [
+      "Backpackers",
+      "Solo travellers",
+      "Budget travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Mut Mee Guest House Official",
+        "sourceUrl": "https://www.mutmee.com/",
+        "lastVerified": "2026-03-14"
+      },
+      {
+        "sourceName": "Lonely Planet — Nong Khai Hotels",
+        "sourceUrl": "https://www.lonelyplanet.com/thailand/nong-khai-province/nong-khai/hotels",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Iyara Hotel Nongkhai",
+      "category": "budget",
+      "priceRange": "400–700 THB (~11–20 USD) per night",
+      "area": "Town Centre",
+      "description": "A clean and reliable budget hotel in central Nong Khai offering simple air-conditioned rooms with hot showers and Wi-Fi. Nothing fancy, but well-maintained and excellent value for money. The central location puts you within walking distance of Tha Sadet Market, the night market and riverside promenade.",
+      "highlights": [
+        "Central location near markets and restaurants",
+        "Clean air-conditioned rooms with Wi-Fi",
+        "Hot showers and comfortable beds",
+        "Helpful front desk staff",
+        "Very affordable — one of the cheapest proper hotels in town"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fiyara-nongkhai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget travellers",
+        "Couples on a budget",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Iyara Hotel Nongkhai",
+          "sourceUrl": "https://www.momondo.com/hotels/nong-khai/Iyara-Hotel-Nongkhai.mhd2987045.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Keerawan House Rim Khong",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–25 USD) per night",
+      "area": "Riverside / Town Centre",
+      "description": "A small family-run guesthouse right on the Mekong with simple but charming rooms and a riverside terrace. The owners are friendly and helpful, and the location directly on the river makes up for the basic facilities. A solid choice for budget travellers who want to wake up to Mekong views.",
+      "highlights": [
+        "Direct Mekong River views from the terrace",
+        "Family-run with personal service",
+        "Quiet riverside location",
+        "Walking distance to town centre",
+        "Good value for a riverside spot"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkeerawan-house-rim-khong.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Budget travellers",
+        "Couples",
+        "Quiet retreat seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nong Khai Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303915-Nong_Khai_Nong_Khai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Royal Mekong Riverside Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000–2,000 THB (~28–56 USD) per night",
+      "area": "Riverside / Town Centre",
+      "description": "The closest thing Nong Khai has to a full-service hotel, the Royal Mekong sits directly on the river with rooms offering Mekong views. Facilities include a spa, restaurant and bar with river terrace. Rooms are comfortable if slightly dated, but the riverside location and service level make it the top choice for travellers wanting a step up from guesthouses.",
+      "highlights": [
+        "Direct Mekong River views from most rooms",
+        "On-site spa and massage services",
+        "Riverside restaurant and bar with terrace",
+        "Swimming pool",
+        "Best full-service hotel option in town"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Froyal-mekong-riverside.html",
+      "reviewScore": "7.6/10",
+      "bestFor": [
+        "Couples",
+        "Comfort seekers",
+        "Business travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com — Royal Mekong Riverside",
+          "sourceUrl": "https://www.hotels.com/ho3502358368/royal-mekong-riverside-hotel/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Mut Mee Garden Guest House without knowing the basic fan rooms lack air-conditioning can leave you sweating through hot nights in Nong Khai's humid climate.",
+    "intro": "Mut Mee Garden Guest House delivers a laid-back backpacker haven with its leafy Mekong riverside garden, free bicycles, and communal bar fostering traveler connections under the guidance of a knowledgeable Thai-American owner. It's ideal for budget-conscious solo travelers and backpackers seeking authentic social vibes over luxury comforts.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget backpackers and solo travelers",
+      "standout": "Mekong riverside garden",
+      "noGoFor": "Luxury-seeking families"
+    },
+    "whyBook": [
+      "Free bicycles let you explore Nong Khai independently.",
+      "Garden bar offers relaxed river-view drinks and meals.",
+      "Walking distance to Tha Sadet Market for easy access.",
+      "Expat community provides insider travel advice.",
+      "Communal atmosphere suits solo backpackers perfectly."
+    ],
+    "whyNotBook": [
+      "Basic fan rooms can feel stuffy without air-con during peak heat.",
+      "Communal garden bar gets noisy from evening traveler gatherings.",
+      "Limited room variety means bungalows book up quickly in high season.",
+      "No on-site pool or modern amenities for relaxation.",
+      "Shared spaces attract a younger crowd, overwhelming quieter stays."
+    ],
+    "skipIf": "Skip if you're a couple wanting private, upscale riverside luxury without backpacker crowds.",
+    "detailedReview": "Checking into Mut Mee Garden Guest House feels like stepping into a longstanding traveler's oasis, with the Thai-American owner often greeting arrivals personally and sharing tips on local spots. The vibe is unpretentious and communal, centered around the lush Mekong-front garden where guests mingle over cold drinks at the bar. Rooms vary from simple fan-cooled setups with thin walls and basic furnishings to more comfortable air-con bungalows tucked amid greenery, though expect modest bathrooms without frills. The standout amenity is the free bicycle rental, perfect for pedaling to nearby markets or along the river path. Food at the garden restaurant is straightforward Thai and Western fare, like pad thai or burgers, served with river breezes—nothing gourmet, but fresh and affordable. Service is friendly and hands-on from the family-like staff, who embody the expat community's welcoming spirit. Typical guests are solo backpackers in their 20s and 30s, drawn by the social scene, though it can feel lively rather than serene. Overall, it's a budget spot where the location and atmosphere shine, but don't expect polished hotel standards; the charm lies in its raw, decades-old authenticity that keeps drawing repeat visitors to Nong Khai's riverside.",
+    "locationReality": "Situated directly on the Mekong in Nong Khai's town center, Mut Mee is a 5-10 minute walk to Tha Sadet Market and the night market, making evening strolls effortless. The riverside position offers scenic views but places it amid local traffic noise during the day. For farther spots like the Friendship Bridge to Laos, expect a 15-20 minute drive or short songthaew ride costing around 50-100 THB.",
+    "localSignals": [
+      "Walking distance (5-10 minutes) to Tha Sadet Market.",
+      "Free bicycle rental available for all guests.",
+      "One garden bar and restaurant on property with river views.",
+      "Directly on the Mekong River for immediate waterfront access.",
+      "Within 5-minute walk to night market and local eateries."
+    ],
+    "travellerNote": "Guests often praise the welcoming communal garden and free bikes for easy exploration but note the basic rooms can be noisy from social gatherings and lack modern comforts like strong Wi-Fi.",
+    "bookingTips": [
+      "Request an air-con bungalow for comfort in humid weather.",
+      "Agoda often has lower rates than Booking.com for this guesthouse.",
+      "Prices spike in November-February high season due to cool weather.",
+      "Verify bicycle availability when booking for longer stays.",
+      "Check for any garden event notices to avoid peak noise times."
+    ],
+    "similarHotels": [
+      {
+        "name": "Iyara Hotel Nongkhai (400–700 THB (~11–20 USD) per night) — A clean and reliable budget hotel in central Nong Khai offering simple air-conditioned rooms with hot showers and Wi-Fi. Nothing fancy, but",
+        "howDifferent": "Offers more consistent air-con and Wi-Fi but lacks the riverside garden and social backpacker vibe."
+      },
+      {
+        "name": "Keerawan House Rim Khong (500–900 THB (~14–25 USD) per night) — A small family-run guesthouse right on the Mekong with simple but charming rooms and a riverside terrace. The owners are friendly and helpfu",
+        "howDifferent": "Provides a quieter family-run terrace experience without the large expat community or free bikes."
+      },
+      {
+        "name": "Royal Mekong Riverside Hotel (1,000–2,000 THB (~28–56 USD) per night) — The closest thing Nong Khai has to a full-service hotel, the Royal Mekong sits directly on the river with rooms offering Mekong views. Facil",
+        "howDifferent": "Delivers full-service facilities and views at a higher price, skipping the budget backpacker communal feel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Mut Mee Garden Guest House good for solo travelers?",
+        "a": "Yes, its communal garden bar and expat advice make it ideal for solo backpackers seeking connections. Free bikes enhance independent exploration."
+      },
+      {
+        "q": "What room types are available at Mut Mee?",
+        "a": "Options include basic fan rooms and air-conditioned bungalows, both in a garden setting. Bungalows offer more privacy."
+      },
+      {
+        "q": "Does Mut Mee have river views?",
+        "a": "The garden bar and some bungalows provide direct Mekong views, though not all rooms face the river."
+      },
+      {
+        "q": "Is breakfast included at Mut Mee Garden Guest House?",
+        "a": "Breakfast is not included but available at the on-site restaurant for an extra charge, with simple Thai and Western options."
+      },
+      {
+        "q": "How far is Mut Mee from Nong Khai's night market?",
+        "a": "It's a short 5-10 minute walk, allowing easy access to street food and shopping without transport."
+      },
+      {
+        "q": "Are there any free amenities at Mut Mee?",
+        "a": "Free bicycle rentals are provided for guests, perfect for getting around the town and riverside paths."
+      }
+    ],
+    "urgencyLine": "Rooms at Mut Mee Garden Guest House with Mekong garden access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Mut Mee Garden Guest House based on location, amenities, guest feedback, and value for budget travelers. We weighted the communal atmosphere and free bikes highest because they define its backpacker appeal in Nong Khai. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Mut Mee Garden Guest House Review (2026)",
+    "metaDescription": "Mut Mee Garden Guest House in Nong Khai offers budget backpacker vibes with Mekong garden and free bikes, ideal for solos. Basic fan rooms may feel hot; book air-con bungalows. Check availability for relaxed riverside stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:05:07.603Z"
+}

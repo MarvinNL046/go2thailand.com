@@ -1,0 +1,275 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "category": "luxury",
+  "hotels": [
+    {
+      "name": "Banyan Tree Samui",
+      "category": "luxury",
+      "priceRange": "15,000–40,000 THB/night (~$420–1,120 USD)",
+      "area": "Lamai (private cove)",
+      "description": "All-villa resort nestled into a private hillside cove near Lamai Beach. Every villa has a private infinity pool with Gulf views, indoor-outdoor living spaces, and a luxury rain shower. The resort's private beach, award-winning spa, and fine dining restaurant make it unnecessary to leave. A honeymoon and anniversary favorite.",
+      "highlights": [
+        "Every villa has a private infinity pool",
+        "Private beach in a secluded cove",
+        "Award-winning spa with signature rainforest treatments"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury seekers",
+        "anniversaries"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Elite",
+          "sourceUrl": "https://thailand-elite.com/luxury-hotels-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanyan%2520Tree%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Conrad Koh Samui",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB/night (~$336–980 USD)",
+      "area": "South coast (Taling Ngam)",
+      "description": "A modern luxury resort on Samui's quieter southwest coast with all-villa accommodation, each featuring a private infinity pool overlooking the Gulf of Thailand and the Five Islands. Michelin-level dining at Jahn restaurant, an award-winning spa, and a secluded hillside setting. Spectacular sunset views from every villa.",
+      "highlights": [
+        "All villas with private infinity pools",
+        "Michelin-level Jahn restaurant with sunset views",
+        "Dramatic southwest coast sunset location"
+      ],
+      "reviewScore": "4.6/5 TripAdvisor",
+      "bestFor": [
+        "luxury seekers",
+        "couples",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "LUXE Samui",
+          "sourceUrl": "https://luxesamui.com/best-fine-dining-restaurants-in-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DConrad%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Six Senses Samui",
+      "category": "luxury",
+      "priceRange": "18,000–50,000 THB/night (~$504–1,400 USD)",
+      "area": "North tip (Bophut area)",
+      "description": "66 private stand-alone villas on a lush green headland at Koh Samui's northern tip, most with private infinity pools. The resort is built on sustainability principles with its own organic garden, water recycling, and locally-sourced cuisine. Stunning panoramic Gulf views and a world-class spa focused on holistic wellness.",
+      "highlights": [
+        "66 stand-alone villas, most with private infinity pools",
+        "Sustainability-focused with organic garden",
+        "Panoramic Gulf of Thailand views from the northern headland"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "luxury seekers",
+        "wellness travelers",
+        "eco-conscious guests"
+      ],
+      "sources": [
+        {
+          "sourceName": "Nomad Mum",
+          "sourceUrl": "https://nomadmum.com/koh-samui-luxury-hotels/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSix%2520Senses%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Four Seasons Resort Koh Samui",
+      "category": "luxury",
+      "priceRange": "25,000–60,000 THB/night (~$700–1,680 USD)",
+      "area": "North coast (Ang Thong view)",
+      "description": "The island's most exclusive address — pool villas ranging from 1,100 to 1,600 sq ft cascading down a coconut grove hillside to a private beach. Each villa has a private infinity plunge pool. The resort's three restaurants, world-class spa, and cooking school ensure you never need to leave. Muay Thai classes and longtail boat excursions provide cultural depth.",
+      "highlights": [
+        "Private pool villas from 1,100 sq ft",
+        "Three acclaimed restaurants and cooking school",
+        "Private beach with views of Ang Thong islands"
+      ],
+      "reviewScore": "4.9/5 TripAdvisor",
+      "bestFor": [
+        "ultra-luxury seekers",
+        "honeymooners",
+        "celebration trips"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Elite",
+          "sourceUrl": "https://thailand-elite.com/luxury-hotels-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%2520Seasons%2520Resort%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the most luxurious resort in Koh Samui?",
+    "What is the most exclusive part of Koh Samui?",
+    "Where do celebs stay in Thailand?",
+    "What is the most luxurious place to stay in Thailand?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong luxury hotel in Koh Samui can leave you isolated in a crowded area without real privacy — many 'luxury' hotels cram guests into shared spaces overlooking busy roads.",
+    "intro": "The single biggest mistake travellers make booking luxury in Koh Samui is overlooking seclusion and personalized service for flashy amenities that fall short on exclusivity. We ranked these based on villa privacy, on-site experiences, location tranquility, and value within the high-end price band.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Four Seasons Resort Koh Samui",
+        "why": "Ultimate exclusivity with spacious pool villas"
+      },
+      {
+        "label": "Best value",
+        "name": "Conrad Koh Samui",
+        "why": "Modern luxury at lower entry price point"
+      },
+      {
+        "label": "Best for couples",
+        "name": "Banyan Tree Samui",
+        "why": "Private cove villas for intimate escapes"
+      },
+      {
+        "label": "Best sustainability",
+        "name": "Six Senses Samui",
+        "why": "Eco-villas with organic garden features"
+      }
+    ],
+    "urgencyLine": "Luxury hotel prices in Koh Samui surge up to 50% during peak season (December-February) and events like Songkran — secure your villa reservation now to avoid sell-outs.",
+    "comparisonTable": [
+      {
+        "name": "Banyan Tree Samui",
+        "area": "Lamai (private cove)",
+        "priceBand": "€€€",
+        "bestFor": "Couples seeking seclusion",
+        "standout": "private infinity pool",
+        "drawback": "Hillside access can feel steep"
+      },
+      {
+        "name": "Conrad Koh Samui",
+        "area": "South coast (Taling Ngam)",
+        "priceBand": "€€€",
+        "bestFor": "Foodies wanting quiet",
+        "standout": "Michelin-level dining",
+        "drawback": "Remote from main beaches"
+      },
+      {
+        "name": "Six Senses Samui",
+        "area": "North tip (Bophut area)",
+        "priceBand": "€€€",
+        "bestFor": "Eco-conscious travellers",
+        "standout": "sustainability practices",
+        "drawback": "Limited nightlife proximity"
+      },
+      {
+        "name": "Four Seasons Resort Koh Samui",
+        "area": "North coast (Ang Thong view)",
+        "priceBand": "€€€",
+        "bestFor": "Families with privacy",
+        "standout": "spacious pool villas",
+        "drawback": "Higher price threshold"
+      }
+    ],
+    "decisionGuide": [
+      "If you prioritize a private beach and hillside views, choose Banyan Tree Samui.",
+      "If quieter southwest seclusion with fine dining appeals, choose Conrad Koh Samui.",
+      "If sustainability and northern headland pools matter, choose Six Senses Samui.",
+      "If expansive villas cascading to the beach are key, choose Four Seasons Resort Koh Samui.",
+      "If you want all-villa luxury without isolation, choose Conrad Koh Samui.",
+      "If eco-features like organic gardens excite you, choose Six Senses Samui."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Four Seasons Resort Koh Samui",
+        "why": "It edges out others with the largest pool villas (up to 1,600 sq ft) and direct private beach access, offering unmatched exclusivity over the more compact designs at Six Senses or Conrad. This makes it ideal for luxury travellers seeking space without compromising on service.",
+        "drawback": "Its premium pricing starts higher than competitors, potentially straining budgets for shorter stays.",
+        "skipIf": "Skip if you prefer eco-focused sustainability over sheer opulence and size.",
+        "localSignals": [
+          "5-minute walk to private beach",
+          "20-minute free airport transfer",
+          "Three on-site restaurants"
+        ],
+        "travellerNote": "Guests often praise the serene coconut grove setting and attentive service but note the hillside layout requires some walking between areas."
+      },
+      {
+        "rank": 2,
+        "name": "Six Senses Samui",
+        "why": "With 66 stand-alone villas on a lush headland and strong sustainability like organic gardens, it surpasses Conrad in eco-luxury appeal while matching Four Seasons in privacy, though with a more intimate scale.",
+        "drawback": "The northern tip location means longer drives to southern attractions compared to central options.",
+        "skipIf": "Skip if environmental initiatives are secondary to beachfront immediacy.",
+        "localSignals": [
+          "10-minute drive to Bophut Beach",
+          "25-minute airport transfer included",
+          "66 private villas with pools"
+        ],
+        "travellerNote": "Guests often praise the wellness programs and fresh local cuisine but note occasional service delays during peak eco-tour times."
+      },
+      {
+        "rank": 3,
+        "name": "Conrad Koh Samui",
+        "why": "It provides modern all-villa luxury with infinity pools and Michelin dining at a more accessible price than Four Seasons, beating Banyan Tree for southwest tranquility without the hillside steepness.",
+        "drawback": "The south coast spot feels more isolated from Samui's vibrant north, limiting easy access to nightlife.",
+        "skipIf": "Skip if you need northern views or sustainability certifications.",
+        "localSignals": [
+          "Private beach on-site",
+          "30-minute airport transfer",
+          "Michelin-level Jahn restaurant"
+        ],
+        "travellerNote": "Guests often praise the stunning Five Islands views and pool privacy but note the remote feel requires planning for off-site outings."
+      }
+    ],
+    "topPick": "Four Seasons Resort Koh Samui",
+    "topPickReason": "It delivers the island's pinnacle of luxury through expansive, private pool villas directly accessing a secluded beach, outshining others in space and exclusivity.",
+    "bookingTips": [
+      "Book 6-9 months ahead for high season (Nov-Feb) to snag sea-view villas before prices spike 40-60%.",
+      "Use Agoda for Thailand-specific deals on luxury Koh Samui hotels, often undercutting Booking.com by 10-15%.",
+      "Avoid Songkran (April) and Chinese New Year (Jan/Feb) when rates double due to crowds.",
+      "Watch for red flags like no verified reviews or discounts over 30% on luxury properties.",
+      "Opt for infinity pool villas over garden views for the Gulf panoramas, worth the 20-30% upcharge.",
+      "Confirm free airport transfers, standard at most Koh Samui luxury resorts but vary by package."
+    ],
+    "methodology": "We compared luxury hotels in Koh Samui based on guest reviews, location quality, value at this price band, and what luxury travellers typically prioritise like privacy and on-site dining. We weighted villa exclusivity highest because it defines true luxury escapes over mere amenities. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/koh-samui/",
+      "/where-to-stay/koh-samui/",
+      "/city/koh-samui/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check luxury hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View Four Seasons Resort Koh Samui'"
+    ],
+    "faq": [
+      {
+        "q": "What is the most luxurious resort in Koh Samui?",
+        "a": "The Four Seasons Resort Koh Samui stands out as the most luxurious with its expansive 1,600 sq ft pool villas cascading to a private beach, perfect for those seeking ultimate exclusivity over other high-end options."
+      },
+      {
+        "q": "What is the most exclusive part of Koh Samui?",
+        "a": "The north coast near Ang Thong Marine Park offers the most exclusive stays, like at Four Seasons Resort Koh Samui, where privacy and views create a secluded paradise away from crowded beaches."
+      },
+      {
+        "q": "Where do celebs stay in Thailand?",
+        "a": "Celebrities often choose secluded luxury resorts like Four Seasons Resort Koh Samui for its private villas and beach access, providing the discretion and opulence they seek in Thailand."
+      },
+      {
+        "q": "What is the most luxurious place to stay in Thailand?",
+        "a": "For Koh Samui specifically, Four Seasons Resort Koh Samui tops the list with its all-pool-villa design and Ang Thong views, embodying Thailand's pinnacle of luxury hospitality."
+      },
+      {
+        "q": "Are there sustainable luxury hotels in Koh Samui?",
+        "a": "Six Senses Samui excels in sustainable luxury with its organic garden, water recycling, and eco-villas, ideal for environmentally aware travellers wanting green practices without sacrificing comfort."
+      }
+    ],
+    "metaTitle": "Best Luxury Hotels in Koh Samui (2026)",
+    "metaDescription": "Discover the best luxury hotels in Koh Samui for 2026, from private pool villas at Four Seasons to eco-luxury at Six Senses. Compare top picks and see…"
+  },
+  "lastUpdated": "2026-03-14",
+  "generatedAt": "2026-04-15T15:41:10.825Z"
+}

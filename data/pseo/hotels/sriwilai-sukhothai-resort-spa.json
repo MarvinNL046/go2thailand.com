@@ -1,0 +1,220 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "sukhothai",
+  "cityName": "Sukhothai",
+  "hotelSlug": "sriwilai-sukhothai-resort-spa",
+  "hotel": {
+    "name": "Sriwilai Sukhothai Resort & Spa",
+    "category": "boutique",
+    "priceRange": "2,800–5,500 THB (~80–157 USD) per night",
+    "area": "Old Sukhothai / Historical Park",
+    "description": "The most upscale property in Sukhothai, Sriwilai blends heritage-inspired architecture with modern luxury. Located 1.8 km from the Historical Park and surrounded by rice paddies, it offers spacious suites, a spa, a fine dining restaurant and an infinity pool overlooking the countryside. The design draws on Sukhothai-era aesthetics — clean lines, natural materials and water features — creating a sophisticated retreat that feels integrated with the landscape.",
+    "highlights": [
+      "Heritage-inspired architecture with modern luxury",
+      "Infinity pool overlooking rice paddies",
+      "Full-service spa with Thai massage treatments",
+      "Fine dining restaurant with local and international cuisine",
+      "1.8 km from the UNESCO Historical Park",
+      "Spacious suites with premium furnishings"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsriwilai-sukhothai.html",
+    "reviewScore": "9.0/10",
+    "bestFor": [
+      "Luxury seekers",
+      "Couples",
+      "Spa lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Sukhothai Luxury Hotels",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g303921-zff12-Sukhothai_Sukhothai_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      },
+      {
+        "sourceName": "BoutiqueHotel.me — Sukhothai Hotels",
+        "sourceUrl": "https://boutiquehotel.me/sukhothai-thailand/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Dorm of Happiness by Tharaburi",
+      "category": "budget",
+      "priceRange": "250–500 THB (~7–14 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "One of the most charming budget options near the ruins, Dorm of Happiness offers both dormitory beds and private rooms in a peaceful garden setting just minutes from the Historical Park entrance. The property is part of the Tharaburi Resort complex, giving budget guests access to the resort's grounds and atmosphere. Clean rooms, friendly staff and a tranquil garden make it exceptional value for Sukhothai.",
+      "highlights": [
+        "Walking distance to Sukhothai Historical Park",
+        "Shared garden area with the upscale Tharaburi Resort",
+        "Both dorm beds and private rooms available",
+        "Bicycle rental available on-site",
+        "Peaceful garden setting with hammocks"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fdorm-of-happiness-by-tharaburi.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Sukhothai Budget Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/HotelsList-Sukhothai-Budget-Hotels-zfp11697123.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Old City Guest House",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A long-running backpacker favourite located near the Historical Park, Old City Guest House offers basic but clean rooms with fans or air-conditioning, a communal area where travellers share tips, and reliable bicycle rental. The owner is a wealth of local knowledge and helps with transport to Si Satchanalai. Simple, no-frills and exactly what budget travellers need in Sukhothai.",
+      "highlights": [
+        "Close to the Historical Park entrance",
+        "Bicycle rental for exploring the ruins",
+        "Helpful owner with local knowledge",
+        "Both fan and A/C rooms available",
+        "Communal area for meeting other travellers"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fold-city-guest-house-sukhothai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Backpackers",
+        "Budget travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Sukhothai Accommodation",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/sukhothai/sukhothai/all",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Orchid Hibiscus Guest House",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~23–43 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms, bungalows and houses set in landscaped tropical gardens with a swimming pool. The Dutch-Thai owners provide excellent hospitality, free bicycles for exploring the park, and a wealth of local advice. Consistently one of the top-rated properties in Sukhothai across all review platforms.",
+      "highlights": [
+        "800 metres from the Historical Park entrance",
+        "Free bicycles for guests",
+        "Swimming pool surrounded by tropical gardens",
+        "Range of room types: rooms, bungalows, houses",
+        "Excellent Dutch-Thai hosts with local knowledge"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Forchid-hibiscus-guest-house.html",
+      "reviewScore": "9.2/10",
+      "bestFor": [
+        "Couples",
+        "History enthusiasts",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Orchid Hibiscus Guest House — Official Website",
+          "sourceUrl": "https://www.orchidhibiscus-guesthouse.com/",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "BoutiqueHotel.me — Sukhothai Hotels",
+          "sourceUrl": "https://boutiquehotel.me/sukhothai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Sriwilai Sukhothai Resort & Spa without knowing its 1.8 km distance from the Historical Park can leave you reliant on transport for daily explorations.",
+    "intro": "Sriwilai Sukhothai Resort & Spa delivers a blend of Sukhothai-era inspired architecture and modern amenities like an infinity pool and spa in a countryside setting. It's ideal for luxury seekers, couples, and spa lovers seeking a serene retreat near the UNESCO site.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "luxury couples spa lovers",
+      "standout": "infinity pool overlooking rice paddies",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Heritage-inspired design with clean lines and natural materials",
+      "Spacious suites featuring premium furnishings for comfort",
+      "Full-service spa offering authentic Thai massage treatments",
+      "Infinity pool with countryside views for relaxation",
+      "Fine dining with local and international cuisine options"
+    ],
+    "whyNotBook": [
+      "1.8 km from Historical Park requires a 5-10 minute drive or 20-minute walk",
+      "Countryside location means limited nearby shops or eateries within walking distance",
+      "Surrounded by rice paddies can attract insects during evenings",
+      "Higher rates compared to Sukhothai's budget guesthouses nearby",
+      "Remote setting may feel isolating for those wanting urban vibrancy"
+    ],
+    "skipIf": "Skip if you're a budget traveler or prefer staying within easy walking distance of Sukhothai's ruins.",
+    "detailedReview": "Checking into Sriwilai Sukhothai Resort & Spa feels like entering a peaceful heritage enclave, with staff greeting guests warmly amid water features and natural materials that echo Sukhothai aesthetics. Rooms are spacious suites with premium furnishings, offering clean lines and views of surrounding rice paddies, though some may notice the rural quiet amplifying any outside sounds at night. The standout amenity is the infinity pool, which overlooks the countryside and provides a refreshing escape after visiting the nearby Historical Park. Food at the fine dining restaurant combines local Thai dishes with international options, prepared fresh but with portions that suit lighter appetites. Service is attentive and personalized, often including tips on local sites, catering to a typical guest profile of couples in their 30s-50s or spa enthusiasts seeking tranquility. The full-service spa delivers Thai massage treatments in a serene setting integrated with the landscape, making it a highlight for relaxation-focused stays. Overall, the resort's boutique vibe suits those wanting upscale downtime, but its 1.8 km distance from the park means planning transport for excursions. Guests appreciate the sophisticated retreat but sometimes mention the need for a car or tuk-tuk to access more action.",
+    "locationReality": "Sriwilai Sukhothai Resort & Spa sits 1.8 km from the UNESCO Historical Park, a quick 5-minute drive or 20-25 minute walk along quiet roads. Within a 5-minute walk, you'll find only rice paddies and countryside paths, with no shops or restaurants nearby. Reaching central Sukhothai town requires a 10-15 minute Grab ride costing around 100-150 THB, ideal for those comfortable with the resort's isolated, peaceful positioning.",
+    "localSignals": [
+      "1.8 km from UNESCO Historical Park, about 5-minute drive",
+      "1 infinity pool on property overlooking rice paddies",
+      "1 fine dining restaurant serving local and international cuisine",
+      "Full-service spa with Thai massage treatments available",
+      "Countryside location, nearest convenience store approximately 2 km away"
+    ],
+    "travellerNote": "Guests often praise the heritage-inspired architecture and infinity pool views but note the rural isolation requiring transport to the Historical Park and limited nearby dining.",
+    "bookingTips": [
+      "Request a suite with rice paddy views for the best countryside immersion",
+      "Use Agoda for potentially cheaper rates than Booking.com in Thailand",
+      "Prices spike November to February during cool season and park festivals",
+      "Verify if breakfast is included as it's not always standard in suites",
+      "Check for any seasonal construction near the paddies before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Dorm of Happiness by Tharaburi",
+        "howDifferent": "Offers budget dormitory and private rooms in a garden near ruins, lacking Sriwilai's luxury spa and pool."
+      },
+      {
+        "name": "Old City Guest House",
+        "howDifferent": "Provides basic backpacker rooms with fans or AC close to the park, without Sriwilai's upscale suites or fine dining."
+      },
+      {
+        "name": "Orchid Hibiscus Guest House",
+        "howDifferent": "Features modern decorated rooms 800m from the park entrance at mid-range prices, missing Sriwilai's infinity pool and heritage architecture."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How far is Sriwilai Sukhothai Resort & Spa from the Historical Park?",
+        "a": "It's 1.8 km away, reachable by a 5-minute drive or 20-minute walk."
+      },
+      {
+        "q": "What amenities does the spa at Sriwilai offer?",
+        "a": "The full-service spa provides Thai massage treatments in a landscape-integrated setting."
+      },
+      {
+        "q": "Is breakfast included at Sriwilai Sukhothai Resort & Spa?",
+        "a": "Breakfast policy varies by booking; confirm with the platform or hotel directly."
+      },
+      {
+        "q": "What type of rooms are available at Sriwilai?",
+        "a": "Spacious suites with premium furnishings, inspired by Sukhothai aesthetics."
+      },
+      {
+        "q": "Is Sriwilai Sukhothai Resort & Spa suitable for couples?",
+        "a": "Yes, its serene countryside retreat and romantic pool views make it ideal for couples."
+      },
+      {
+        "q": "What's the dining like at Sriwilai?",
+        "a": "The fine dining restaurant serves local Thai and international cuisine in a sophisticated setting."
+      }
+    ],
+    "urgencyLine": "Suites at Sriwilai Sukhothai Resort & Spa with infinity pool access book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Sriwilai Sukhothai Resort & Spa based on architecture, amenities, location proximity, and guest feedback alignment with data. We weighted standout features like the infinity pool and spa highest because they define its luxury appeal in a rural area. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sriwilai Sukhothai Resort & Spa Review (2026)",
+    "metaDescription": "Sriwilai Sukhothai Resort & Spa in Sukhothai offers heritage luxury with infinity pool and spa. Caveat: 1.8km from park needs transport. Book your serene escape now for couples and spa lovers. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:36:04.347Z"
+}

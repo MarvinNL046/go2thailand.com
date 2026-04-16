@@ -1,0 +1,223 @@
+{
+  "template": "area-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "areaSlug": "chaweng-beach",
+  "areaName": "Chaweng Beach",
+  "neighborhood": {
+    "name": "Chaweng Beach",
+    "description": "Koh Samui's biggest and busiest beach area — a 7 km crescent of white sand backed by the island's main nightlife strip, shopping, and the widest range of hotels. Central Chaweng buzzes with beach clubs, water sports, and bars; Chaweng Noi at the southern end is calmer and more upscale. Everything you need is within walking distance, but that convenience comes with higher prices, more crowds, and noise from the nightlife strip.",
+    "bestFor": "Nightlife, first-timers & convenience",
+    "priceLevel": "Budget to Luxury",
+    "highlights": [
+      "Samui's longest beach — 7 km of white sand with calm swimming waters",
+      "Chaweng Walking Street — the island's main nightlife strip with bars, clubs, and live music",
+      "Widest range of hotels from $8 hostels to 5-star resorts",
+      "Central Laem Din market for cheap Thai street food",
+      "Water sports: jet ski, parasailing, paddleboard rentals available on the beach"
+    ],
+    "recommendedHotels": [
+      "Lub d Koh Samui Chaweng Beach",
+      "Hyatt Regency Koh Samui"
+    ],
+    "walkingScore": "8/10",
+    "transportNotes": [
+      "Walking distance to everything within Chaweng",
+      "Songthaews along the ring road to other beaches 40–100 THB",
+      "Grab available but surge pricing common at night"
+    ],
+    "sources": [
+      {
+        "sourceName": "Destination Well Known",
+        "sourceUrl": "https://destinationwellknown.com/where-to-stay-koh-samui/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Lub d Koh Samui Chaweng Beach",
+      "category": "budget",
+      "priceRange": "350–700 THB/night (~$10–20 USD)",
+      "area": "Chaweng Beach",
+      "description": "A stylish modern hostel right on Chaweng Beach with pod-style dorms and sea-view private rooms. Two pools, a social bar area, and a reputation as one of Thailand's best-designed hostels. Part of the Thai Lub d chain known for quality budget stays. The beachfront location is unbeatable for the price.",
+      "highlights": [
+        "Beachfront location on Chaweng Beach",
+        "Two pools and lively common areas",
+        "Pod-style dorm beds with privacy curtains and USB charging"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelz",
+          "sourceUrl": "https://www.hostelz.com/cheapest-hostels-in-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Koh%2520Samui%2520Chaweng%2520Beach%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Hyatt Regency Koh Samui",
+      "category": "mid-range",
+      "priceRange": "5,000–8,000 THB/night (~$140–224 USD)",
+      "area": "Chaweng Noi",
+      "description": "International-standard 5-star hotel on the quieter southern end of Chaweng Beach. Large pool complex, multiple restaurants, gym, and spa. Rooms are modern with sea or garden views. Close enough to Chaweng's nightlife but in a much calmer setting at Chaweng Noi.",
+      "highlights": [
+        "Large pool complex with ocean views",
+        "Multiple on-site restaurants and bars",
+        "Quieter Chaweng Noi location"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "first-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Nomad Mum",
+          "sourceUrl": "https://nomadmum.com/koh-samui-luxury-hotels/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHyatt%2520Regency%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Samui Hostel",
+      "category": "budget",
+      "priceRange": "300–500 THB/night (~$8–14 USD)",
+      "area": "Chaweng Beach",
+      "description": "No-frills budget accommodation in central Chaweng with clean air-conditioned rooms and dorms. Walking distance to the beach, night market, and nightlife. Basic but functional — everything you need for a budget island stay without paying resort prices.",
+      "highlights": [
+        "Central Chaweng location",
+        "Clean AC rooms and dorms",
+        "Walking distance to beach and nightlife"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hotels/asia/thailand/koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSamui%2520Hostel%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Lamai Beach",
+    "Bophut (Fisherman's Village)",
+    "Maenam Beach",
+    "Choeng Mon",
+    "Nathon (Town)"
+  ],
+  "paaQuestions": [
+    "Is Chaweng a good place to stay?",
+    "Which part of Chaweng Beach is best?",
+    "What is the nicest beach on Koh Samui?",
+    "Which part of Koh Samui is best to stay at?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Chaweng Beach can mean sleepless nights from bar noise and inflated prices — most first-timers cram into the central strip without scouting the calmer southern end.",
+    "intro": "Chaweng Beach stands out as Koh Samui's bustling hub with a 7 km stretch of white sand, endless nightlife, and every amenity at your doorstep. We ranked it highest for first-timers seeking convenience over seclusion, prioritizing walkability and activity options.",
+    "vibe": "Buzzing + nightlife + convenient",
+    "quickStats": {
+      "priceBand": "€-€€€",
+      "walkability": "High",
+      "bestFor": "Nightlife, first-timers & convenience",
+      "safetyNote": "Safe overall, watch bags in nightlife crowds"
+    },
+    "detailedDescription": "In Chaweng Beach, mornings start with locals renting out jet skis and parasailing gear along the 7 km crescent of soft white sand, where calm waters draw families for swims and paddleboarding sessions. By midday, the beachfront fills with day-trippers from nearby resorts grabbing iced coffees from beachside carts, while Thai vendors hawk fresh coconuts and grilled skewers. Central Chaweng pulses with expat-run bars and shops lining the main road, where workers from Bangkok or Phuket staff international cafes serving pad thai alongside burgers. As evening hits, the scene shifts: Chaweng Walking Street erupts with thumping bass from clubs, live music spilling onto sidewalks packed with tourists in flip-flops, and street food stalls dishing out som tam and mango sticky rice for 50-100 THB. Noise peaks around 10pm from the strip's bars, fading slightly by 2am, though central spots stay louder than upscale Chaweng Noi, where quieter dinner spots overlook the southern sands. Food ranges from Central Laem Din market's cheap Thai eats—think 40 THB noodle bowls—to resort buffets at 500 THB. Getting around is easy on foot within the 2 km core, but songthaews rumble along the ring road for 40-100 THB to Lamai or Bophut; Grab rides surge at night, often doubling to 200 THB for short hops. The area hums with a mix of Thai families running guesthouses and foreign managers at beach clubs, creating a convenient but crowded base for island exploration.",
+    "localSignals": [
+      "Samui International Airport to Chaweng Beach: Grab 400-600 THB, 20-30 minutes",
+      "Distance to Chaweng Walking Street: 5-10 minutes walk from central hotels",
+      "Distance to Chaweng Beach: 0-5 minutes walk from most accommodations",
+      "Noise level at night: Loud in central strip until 2am, moderate in Chaweng Noi",
+      "Nearest 7-Eleven: Every 200-300 meters along Beach Road, open 24/7"
+    ],
+    "pros": [
+      "7 km beach for swimming and water sports",
+      "Walking Street nightlife within easy reach",
+      "Hotels from budget hostels to luxury resorts",
+      "Central market for affordable street food",
+      "Songthaews connect to other beaches cheaply"
+    ],
+    "cons": [
+      "Nightlife noise disrupts sleep until 2am",
+      "Higher prices for food and drinks on strip",
+      "Crowds peak in central area during evenings",
+      "Grab surges common after 8pm on weekends",
+      "Beach gets busier with vendors midday"
+    ],
+    "skipIf": "Skip if you prioritize quiet evenings and budget beachfront without crowds.",
+    "stayRecommendations": [
+      {
+        "name": "Lub d Koh Samui Chaweng Beach",
+        "why": "This beachfront hostel captures Chaweng's social vibe with pools and a bar steps from the nightlife strip, ideal for first-timers wanting convenience on a budget."
+      },
+      {
+        "name": "Hyatt Regency Koh Samui",
+        "why": "Positioned in upscale Chaweng Noi, it offers a serene escape from central buzz while keeping water sports and dining within a short walk."
+      },
+      {
+        "name": "Samui Hostel",
+        "why": "Its central location puts budget dorms right by the beach and night market, suiting backpackers diving into Chaweng's walkable energy."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Lamai Beach",
+        "shortPitch": "Lamai offers a slightly less crowded alternative with similar beach length but fewer mega-clubs and more family-oriented spots.",
+        "recommendFor": "Families seeking milder nightlife"
+      },
+      {
+        "areaName": "Bophut (Fisherman's Village)",
+        "shortPitch": "Bophut trades Chaweng's party scene for a charming, walkable village with boutique shops and seafood restaurants along a shorter beach.",
+        "recommendFor": "Couples wanting relaxed evenings"
+      },
+      {
+        "areaName": "Maenam Beach",
+        "shortPitch": "Maenam provides wider, quieter sands with fewer tourists and cheaper stays, focusing on laid-back vibes over Chaweng's convenience.",
+        "recommendFor": "Budget travelers avoiding crowds"
+      }
+    ],
+    "travellerNote": "Travellers often praise Chaweng Beach's easy access to nightlife and varied hotels but note the persistent noise and elevated costs in peak areas.",
+    "faq": [
+      {
+        "q": "Is Chaweng a good place to stay?",
+        "a": "Yes, Chaweng suits first-timers with its walkable mix of beach, bars, and hotels from budget to luxury. Opt for Chaweng Noi if noise bothers you."
+      },
+      {
+        "q": "Which part of Chaweng Beach is best?",
+        "a": "Central Chaweng excels for nightlife and convenience, while southern Chaweng Noi is best for upscale calm and fewer crowds—choose based on your energy level."
+      },
+      {
+        "q": "What is the nicest beach on Koh Samui?",
+        "a": "Chaweng's 7 km white sands and calm waters make it a top pick for activities, though quieter spots like Maenam may feel nicer for seclusion."
+      },
+      {
+        "q": "Which part of Koh Samui is best to stay at?",
+        "a": "Chaweng Beach is ideal for first-timers needing everything nearby, but consider Lamai for a less hectic vibe or Bophut for village charm."
+      },
+      {
+        "q": "Is Chaweng Beach safe at night?",
+        "a": "It's generally safe with crowds deterring issues, but stick to lit areas on Walking Street and watch belongings amid the bar scene."
+      },
+      {
+        "q": "How to get around Chaweng Beach?",
+        "a": "Walk most spots in the central area, use songthaews for 40-100 THB to nearby beaches, or Grab despite night surges—renting a scooter works for flexibility."
+      }
+    ],
+    "urgencyLine": "Chaweng Beach hotels along the nightlife strip book out fast during December-April high season—secure spots 2-3 months ahead.",
+    "methodology": "We compared Chaweng Beach to Lamai Beach and Bophut based on walkability, price level, noise, and suitability for first-timers versus families. We weighted convenience highest because it defines Chaweng's appeal for short stays. Last updated: 2026-04.",
+    "metaTitle": "Staying in Chaweng Beach, Koh Samui (2026)",
+    "metaDescription": "Discover staying in Chaweng Beach, Koh Samui: 7 km white sands, nightlife, and walkable convenience for first-timers. Compare areas and see hotels for…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:29:12.232Z"
+}

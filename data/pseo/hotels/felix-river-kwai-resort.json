@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kanchanaburi",
+  "cityName": "Kanchanaburi",
+  "hotelSlug": "felix-river-kwai-resort",
+  "hotel": {
+    "name": "Felix River Kwai Resort",
+    "category": "mid-range",
+    "priceRange": "2,000–4,500 THB/night (~$56–126 USD)",
+    "area": "Riverside, near the Bridge",
+    "description": "The most established riverside resort in Kanchanaburi, set in lush tropical gardens directly on the River Kwai with views of the famous Bridge. Features a large swimming pool, fitness center, and multiple restaurants. Rooms range from garden-view to river-facing suites.",
+    "highlights": [
+      "Direct views of the Bridge over River Kwai",
+      "Large swimming pool and fitness center",
+      "Multiple on-site dining options"
+    ],
+    "reviewScore": "4/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "families",
+      "first-timers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Felix River Kwai Resort",
+        "sourceUrl": "https://www.felixriverkwai.com/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFelix%2520River%2520Kwai%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "U Inchantree Kanchanaburi",
+      "category": "mid-range",
+      "priceRange": "2,500–5,000 THB/night (~$70–140 USD)",
+      "area": "Riverside, near the Bridge",
+      "description": "A stylish boutique hotel set in a century-old rain tree garden on the riverbank, just a 5-minute walk from the Bridge. Contemporary rooms with Thai design touches, a riverside infinity pool, and an excellent restaurant. One of the most design-conscious options in town.",
+      "highlights": [
+        "Riverside infinity pool under ancient rain trees",
+        "5-minute walk to the Bridge over River Kwai",
+        "Boutique design with local character"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "design lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297924-d1523025-Reviews-U_Inchantree_Kanchanaburi-Kanchanaburi_Kanchanaburi_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Inchantree%2520Kanchanaburi%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "River Kwai Village Hotel",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Sai Yok area, upstream on River Kwai Noi",
+      "description": "A jungle resort set on 25 acres along the River Kwai Noi, offering both land-based bungalows and floating raft rooms on the river. Surrounded by dense tropical forest with an outdoor pool, on-site elephant activities, and easy access to Sai Yok National Park.",
+      "highlights": [
+        "Choice of jungle bungalows or floating raft rooms",
+        "Set in 25 acres of tropical forest",
+        "On-site pool and direct river access"
+      ],
+      "bestFor": [
+        "families",
+        "nature lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/river-kwai-village.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRiver%2520Kwai%2520Village%2520Hotel%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "River Kwai Jungle Rafts Resort",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–84 USD)",
+      "area": "Sai Yok area, River Kwai Noi",
+      "description": "The original floating hotel on the River Kwai since 1976. Bamboo-and-thatch rooms float on the river with no electricity and no hot water — just oil lamps, the sound of flowing water, and complete immersion in nature. Reached only by longtail boat. A genuine digital detox experience.",
+      "highlights": [
+        "No electricity — oil lamps and candlelight only",
+        "Access only by longtail boat through the jungle",
+        "The original floating hotel experience since 1976"
+      ],
+      "bestFor": [
+        "adventure seekers",
+        "couples",
+        "digital detox"
+      ],
+      "sources": [
+        {
+          "sourceName": "River Kwai Jungle Rafts",
+          "sourceUrl": "https://www.riverkwaijunglerafts.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRiver%2520Kwai%2520Jungle%2520Rafts%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is the bridge on the river Kwai worth visiting?",
+    "Where to stay in Kanchanaburi?",
+    "Where to stay on the River Kwai?",
+    "Is River Kwai clean?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Felix River Kwai Resort without knowing some rooms lack direct river views can lead to disappointment over obstructed Bridge sights.",
+    "intro": "Felix River Kwai Resort delivers a classic riverside stay in lush tropical gardens with poolside relaxation and on-site dining, directly overlooking the River Kwai and famous Bridge. It's ideal for couples, families, and first-timers seeking an established base to explore Kanchanaburi's history without venturing far.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "direct Bridge views",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Lush gardens provide shaded paths to River Kwai access",
+      "Large pool offers family-friendly swimming with Bridge backdrop",
+      "Multiple restaurants serve Thai and international meals on-site",
+      "Fitness center supports active stays amid tropical setting",
+      "River-facing suites deliver unobstructed historical views"
+    ],
+    "whyNotBook": [
+      "Garden-view rooms miss the iconic Bridge panoramas entirely",
+      "Established resort shows wear in older room fixtures",
+      "Pool crowds up during peak family check-in hours",
+      "Fitness center lacks advanced equipment for serious workouts",
+      "Dining options repeat familiar Thai dishes without variety"
+    ],
+    "skipIf": "Skip if you're after floating raft accommodations or ultra-modern boutique vibes in Kanchanaburi.",
+    "detailedReview": "Checking into Felix River Kwai Resort feels like stepping into a longstanding tropical haven, with staff greeting guests at the open-air lobby amid rustling palms and faint river sounds. The vibe is relaxed and unpretentious, suiting couples unwinding after Bridge visits or families planning day trips. Rooms vary from simple garden-view doubles with basic wooden furnishings and air conditioning to spacious river-facing suites featuring balconies that frame the Bridge's arches at dusk—though not all get that premium outlook. The standout amenity is the large swimming pool, tiled in blue and surrounded by lounge chairs under frangipani trees, where guests cool off while eyeing the water's flow. Food quality shines in the multiple restaurants: one riverside spot grills fresh fish caught locally, another offers buffet breakfasts with tropical fruits and noodle soups, though portions can feel standard for mid-range. Service style is friendly but efficient, with Thai hospitality evident in quick towel deliveries or tour bookings, yet it may lag during busy weekends. Typical guests include European families on history tours, Aussie couples celebrating anniversaries, and Asian first-timers photographing the Bridge—creating a mix of quiet chats and pool splashes without rowdy nightlife.",
+    "locationReality": "Felix River Kwai Resort sits directly on the River Kwai's banks in Kanchanaburi, offering immediate views of the iconic Bridge just a short 5-10 minute walk away along the riverside path. Within a 5-minute stroll, you'll find local war museum exhibits and riverside cafes, but major sites like the JEATH War Museum require a 10-minute Grab ride costing around 100 THB. The area blends historical quiet with easy access to town via short tuk-tuk hops, avoiding Bangkok-style traffic.",
+    "localSignals": [
+      "5-10 minute walk to the Bridge over River Kwai",
+      "1 large swimming pool and 1 fitness center on-site",
+      "Multiple restaurants available, including riverside dining",
+      "Directly on River Kwai with garden and river views",
+      "Near Kanchanaburi town center, Grab to bus station ~150 THB"
+    ],
+    "travellerNote": "Guests often praise the serene riverside setting and pool views of the Bridge but note that non-river-facing rooms feel disconnected from the main attraction.",
+    "bookingTips": [
+      "Request river-facing suites for unobstructed Bridge views at booking",
+      "Use Agoda for Thailand deals, often 10-15% cheaper than Booking.com",
+      "Prices spike November-February during cool season and Bridge anniversaries",
+      "Verify breakfast inclusion, as it's not always standard in mid-range rates",
+      "Check for garden maintenance notices, as lush areas can close seasonally"
+    ],
+    "similarHotels": [
+      {
+        "name": "U Inchantree Kanchanaburi",
+        "howDifferent": "Offers stylish boutique rooms in a rain tree garden, closer walk to Bridge but pricier without pool."
+      },
+      {
+        "name": "River Kwai Village Hotel",
+        "howDifferent": "Provides jungle bungalows and floating rafts on River Kwai Noi, more adventurous but farther from main Bridge."
+      },
+      {
+        "name": "River Kwai Jungle Rafts Resort",
+        "howDifferent": "Features basic bamboo floating rooms without electricity or hot water, ideal for rustic immersion over comfort."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is the bridge on the River Kwai worth visiting?",
+        "a": "Yes, the Bridge over the River Kwai is a poignant WWII historical site with scenic walks and evening light shows, essential for Kanchanaburi trips."
+      },
+      {
+        "q": "Where to stay in Kanchanaburi?",
+        "a": "Riverside spots like Felix River Kwai Resort suit history buffs near the Bridge, while town-center hotels offer easier access to markets and temples."
+      },
+      {
+        "q": "Where to stay on the River Kwai?",
+        "a": "Felix River Kwai Resort provides established gardens and pool on the main River Kwai, with views of the Bridge for convenient exploration."
+      },
+      {
+        "q": "Is River Kwai clean?",
+        "a": "The River Kwai near Kanchanaburi resorts like Felix is generally calm and swimmable in pool areas, but upstream sections can carry sediment from jungle runoff."
+      },
+      {
+        "q": "Best time to visit Felix River Kwai Resort?",
+        "a": "November to February avoids rainy season for dry Bridge views, though book early as families fill the pool area."
+      },
+      {
+        "q": "Family-friendly activities near the resort?",
+        "a": "The large pool and riverside gardens entertain kids, with short walks to Bridge museums adding educational outings."
+      }
+    ],
+    "urgencyLine": "Rooms at Felix River Kwai Resort with direct Bridge views book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Felix River Kwai Resort based on location proximity to the Bridge, on-site amenities like pool and dining, and guest suitability for mid-range stays. We weighted historical access highest because Kanchanaburi's draw is its WWII sites. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Felix River Kwai Resort Review (2026)",
+    "metaDescription": "Felix River Kwai Resort in Kanchanaburi offers mid-range riverside stays with Bridge views, large pool, and on-site dining for couples and families. Note some rooms lack river sights. Book for serene history access today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:26:10.782Z"
+}

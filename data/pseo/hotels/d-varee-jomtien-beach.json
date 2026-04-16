@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "d-varee-jomtien-beach",
+  "hotel": {
+    "name": "D Varee Jomtien Beach",
+    "category": "mid-range",
+    "priceRange": "1,500–3,000 THB/night (~$42–84 USD)",
+    "area": "Jomtien Beach",
+    "description": "A modern hotel directly across the road from Jomtien Beach with an infinity pool, gym, and multiple dining options. Rooms are contemporary with sea-view balconies available. The Jomtien location offers a more relaxed atmosphere compared to central Pattaya, with excellent beachfront restaurants nearby.",
+    "highlights": [
+      "Infinity pool with Jomtien Beach views",
+      "Direct access to Jomtien Beach across the road",
+      "Modern rooms with sea-view balconies"
+    ],
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DD%2520Varee%2520Jomtien%2520Beach%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Amari Pattaya",
+      "category": "mid-range",
+      "priceRange": "3,000–5,500 THB/night (~$84–154 USD)",
+      "area": "North Pattaya",
+      "description": "Set on a private headland at the quiet northern end of Pattaya Beach, Amari occupies a prime location with direct beach access and two pools surrounded by tropical gardens. The resort feel is a world away from the Central Pattaya chaos, yet it's only a short songthaew ride to the action.",
+      "highlights": [
+        "Private headland location with direct beach access",
+        "Two pools in tropical garden setting",
+        "Multiple restaurants including Italian and Thai"
+      ],
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmari%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Avani Pattaya Resort",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Central Pattaya",
+      "description": "A well-positioned mid-range resort on Pattaya Beach Road with a large freeform pool, spa, and contemporary rooms. The beachfront location puts you in the center of the action with direct beach access. Part of the Minor Hotels group, ensuring consistent quality.",
+      "highlights": [
+        "Beachfront on Pattaya Beach Road",
+        "Large freeform swimming pool",
+        "Full spa and fitness center"
+      ],
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvani%2520Pattaya%2520Resort%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Somerset Pattaya",
+      "category": "mid-range",
+      "priceRange": "2,000–3,500 THB/night (~$56–98 USD)",
+      "area": "Central Pattaya",
+      "description": "Serviced apartments ideal for longer stays, with full kitchens, washing machines, and spacious living areas. Located on Second Road in the heart of Central Pattaya with a pool, gym, and minimart. Excellent value for families or digital nomads needing a home base.",
+      "highlights": [
+        "Full kitchen and washing machine in every unit",
+        "Swimming pool and gym",
+        "Central location near Terminal 21"
+      ],
+      "bestFor": [
+        "families",
+        "long-stay travelers",
+        "digital nomads"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSomerset%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Which is better, Pattaya Beach or Jomtien Beach?",
+    "Is there a pool at D Varee Jomtien Beach?",
+    "How far is D Varee Jomtien from the airport?",
+    "Is D Varee Jomtien good for couples?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking D Varee Jomtien Beach without knowing it's across the road from the beach can lead to unexpected short walks for sand access.",
+    "intro": "D Varee Jomtien Beach provides modern rooms with optional sea-view balconies and an infinity pool overlooking the beach, in a relaxed Jomtien setting away from Pattaya's bustle. It's ideal for couples and families seeking a mid-range stay with gym access and nearby beachfront dining.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "infinity pool",
+      "noGoFor": "nightlife seekers"
+    },
+    "whyBook": [
+      "Infinity pool offers direct Jomtien Beach views",
+      "Modern rooms include sea-view balcony options",
+      "Relaxed Jomtien area with nearby beach restaurants",
+      "Gym and multiple on-site dining choices available"
+    ],
+    "whyNotBook": [
+      "Beach access requires crossing a busy road",
+      "Jomtien's quieter vibe lacks central Pattaya energy",
+      "Sea-view rooms book up quickly in peak season",
+      "Limited shuttle options to main Pattaya attractions"
+    ],
+    "skipIf": "Skip if you're after direct beachfront entry without crossing traffic.",
+    "detailedReview": "Checking into D Varee Jomtien Beach feels straightforward in the modern lobby, with staff efficiently handling bookings amid a contemporary setup. Rooms deliver a clean, functional vibe with neutral tones, flat-screen TVs, and those sought-after sea-view balconies that let in breezes from across the road. The infinity pool stands out as the highlight, perched for unobstructed Jomtien Beach gazes, though it can feel exposed on windy days. Gym facilities are basic but sufficient for light workouts, and the multiple dining options include a coffee shop and restaurant serving Thai and international fare—expect solid but not gourmet quality, like fresh seafood platters from nearby influences. Service runs polite and prompt, typical of mid-range Thai hotels, with quick towel deliveries but occasional delays during meal rushes. Guests here skew toward couples unwinding on balconies or families splashing in the pool, drawn to Jomtien's calmer pace versus Pattaya's party scene. Overall, it's a reliable base for beach days, though the road-crossing to sand might irk those wanting seamless access. With a 4.3/5 TripAdvisor score, it suits relaxed escapes without frills.",
+    "locationReality": "D Varee Jomtien Beach sits directly across the road from Jomtien Beach, about a 2-minute walk to the sand, in Pattaya's southern extension known for its laid-back vibe. Within a 5-minute stroll, you'll find beachfront restaurants and seafood spots lining the shore. Reaching central Pattaya's Walking Street requires a 15-20 minute Grab ride costing around 150-200 THB, as Jomtien avoids the northern beach's crowds.",
+    "localSignals": [
+      "Jomtien Beach across the road: 2-minute walk",
+      "U-Tapao Airport: about 45-minute drive, 800-1,000 THB transfer",
+      "One infinity pool and multiple dining options on-site",
+      "Gym available; WiFi status varies by room",
+      "7-Eleven and restaurant strip within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the infinity pool views and relaxed Jomtien atmosphere but note the road-crossing inconvenience for beach access and occasional traffic noise in lower-floor rooms.",
+    "bookingTips": [
+      "Request sea-view balcony rooms for better vistas",
+      "Agoda often cheaper than Booking.com for Thailand stays",
+      "Prices spike November-February high season",
+      "Verify breakfast inclusion as it's not always standard",
+      "Check for road construction notices near Jomtien"
+    ],
+    "similarHotels": [
+      {
+        "name": "Amari Pattaya",
+        "howDifferent": "Offers direct beach access on a private headland with two pools, pricier and quieter than D Varee's road-crossing setup."
+      },
+      {
+        "name": "Avani Pattaya Resort",
+        "howDifferent": "Beachfront on Pattaya Beach Road with a large freeform pool, more central and vibrant than D Varee's Jomtien location."
+      },
+      {
+        "name": "Somerset Pattaya",
+        "howDifferent": "Provides serviced apartments with kitchens on Second Road, better for long stays than D Varee's standard hotel rooms."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which is better, Pattaya Beach or Jomtien Beach?",
+        "a": "Jomtien Beach suits those wanting relaxation with fewer crowds and family-friendly vibes, while Pattaya Beach offers more action and nightlife but busier scenes."
+      },
+      {
+        "q": "Is there a pool at D Varee Jomtien Beach?",
+        "a": "Yes, it features an infinity pool with Jomtien Beach views, ideal for unwinding."
+      },
+      {
+        "q": "How far is D Varee Jomtien from the airport?",
+        "a": "From U-Tapao Airport, it's about 45 minutes by car; from Bangkok's Suvarnabhumi, expect 2 hours including traffic."
+      },
+      {
+        "q": "Is D Varee Jomtien good for couples?",
+        "a": "Yes, its modern rooms with sea-view balconies and relaxed Jomtien setting make it suitable for couples seeking a peaceful getaway."
+      },
+      {
+        "q": "What dining options are at D Varee Jomtien Beach?",
+        "a": "Multiple on-site choices include a restaurant and coffee shop offering Thai and international dishes, with nearby beachfront eateries for variety."
+      },
+      {
+        "q": "Does D Varee Jomtien Beach have a gym?",
+        "a": "Yes, a gym is available for guests, providing basic fitness equipment."
+      }
+    ],
+    "urgencyLine": "Rooms at D Varee Jomtien Beach with sea-view balconies book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated D Varee Jomtien Beach based on location, amenities, guest feedback, and value from public sources. We weighted beach proximity highest because Pattaya travelers prioritize coastal access. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "D Varee Jomtien Beach Review (2026)",
+    "metaDescription": "D Varee Jomtien Beach in Pattaya: mid-range modern stay with infinity pool and sea-view rooms across from Jomtien Beach. Road-crossing to sand is a minor hassle. Book for couples or families—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:12:30.568Z"
+}

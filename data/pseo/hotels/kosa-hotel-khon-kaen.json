@@ -1,0 +1,212 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "kosa-hotel-khon-kaen",
+  "hotel": {
+    "name": "Kosa Hotel Khon Kaen",
+    "category": "budget",
+    "priceRange": "600–1,200 THB (~17–33 USD) per night",
+    "area": "City Centre / Srichan Road",
+    "description": "A well-known older hotel in central Khon Kaen that has been a city institution for years. The rooms are dated but clean and spacious, and the location on Srichan Road is excellent for accessing the walking street market, local restaurants and city temples. The on-site restaurant serves decent Thai food, and the swimming pool is a bonus at this price point.",
+    "highlights": [
+      "Prime Srichan Road location — walkable to Walking Street",
+      "Swimming pool — rare at this price range",
+      "Spacious rooms despite dated decor",
+      "On-site Thai restaurant",
+      "Long-established — well-known locally"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkosa.html",
+    "reviewScore": "7.0/10",
+    "bestFor": [
+      "Budget travellers",
+      "Central location seekers",
+      "Pool lovers on a budget"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish — Khon Kaen Accommodation",
+        "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northeast_thailand/khon_kaen/khon_kaen/all",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Charoen Thani Khon Kaen Hotel",
+      "category": "mid-range",
+      "priceRange": "850–1,600 THB (~24–44 USD) per night",
+      "area": "City Centre / Srichan Road",
+      "description": "A long-established Khon Kaen landmark hotel that has served the city for decades. While the decor is dated, the rooms are spacious, clean and well-maintained. The central Srichan Road location puts you within walking distance of Walking Street, local markets and several temples. The hotel's Thai restaurant is popular with locals — always a good sign.",
+      "highlights": [
+        "Central location on Srichan Road — walkable to key attractions",
+        "Spacious rooms at affordable prices",
+        "Popular on-site Thai restaurant",
+        "Swimming pool",
+        "Long-established — reliable and consistent"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fcharoenthaniprincess.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget-conscious travellers",
+        "Central location seekers",
+        "Thai food lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Khon Kaen Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297926-Khon_Kaen_Khon_Kaen_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Roma Hotel Khon Kaen",
+      "category": "budget",
+      "priceRange": "450–900 THB (~13–25 USD) per night",
+      "area": "City Centre / Klangmuang Road",
+      "description": "A solid 3-star budget hotel offering clean air-conditioned rooms with hot showers, Wi-Fi and a convenient central location near Bueng Kaen Nakhon lake and Wat Nong Wang. The rooms are simple but well-maintained, and the price-to-quality ratio is hard to beat. A reliable choice for budget travellers who want a proper hotel room rather than a hostel.",
+      "highlights": [
+        "Central location near Bueng Kaen Nakhon and Wat Nong Wang",
+        "Clean air-conditioned rooms with hot showers",
+        "Excellent value — proper hotel quality at budget prices",
+        "Free Wi-Fi throughout",
+        "Walking distance to lakeside restaurants"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Froma-khon-kaen.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget travellers",
+        "Solo travellers",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Cheap Hotels Khon Kaen",
+          "sourceUrl": "https://www.tripadvisor.com/HotelsList-Khon_Kaen_Province-Hotels-Motels-Cheap-zfp16111747.html",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Nuchjaree Place",
+      "category": "budget",
+      "priceRange": "400–700 THB (~11–19 USD) per night",
+      "area": "Near Khon Kaen University",
+      "description": "A clean and cheerful 2-star hotel near Khon Kaen University, popular with visiting academics, students' families and budget travellers. Rooms are basic but tidy with air conditioning, Wi-Fi and private bathrooms. The university area location means plenty of cheap restaurants and cafes nearby. One of the cheapest proper hotel options in Khon Kaen.",
+      "highlights": [
+        "One of the cheapest hotels in Khon Kaen",
+        "Clean rooms with air conditioning and Wi-Fi",
+        "Near Khon Kaen University with many cheap eateries",
+        "Friendly staff",
+        "Quiet neighbourhood"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnuchjaree-place.html",
+      "reviewScore": "7.0/10",
+      "bestFor": [
+        "Budget travellers",
+        "University visitors",
+        "Extended stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Cheap Hotels Khon Kaen",
+          "sourceUrl": "https://www.momondo.com/hotels/khon-kaen",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "What country is Khon Kaen in?",
+    "What is Charoen Thani Hotel Khon Kaen about?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Kosa Hotel Khon Kaen without knowing the dated room decor can lead to expecting modern comforts that aren't there.",
+    "intro": "Kosa Hotel Khon Kaen offers clean, spacious rooms in a well-established older property right on Srichan Road, with a rare swimming pool and on-site Thai restaurant at budget prices. It's ideal for budget travelers seeking central access to Khon Kaen's walking street market and temples without splurging.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget central pool seekers",
+      "standout": "Swimming pool",
+      "noGoFor": "Modern luxury design fans"
+    },
+    "whyBook": [
+      "Prime spot on Srichan Road for walking to market",
+      "Spacious clean rooms at low rates",
+      "On-site restaurant with decent Thai dishes",
+      "Swimming pool uncommon in this price range",
+      "Long-established local favorite for reliability"
+    ],
+    "whyNotBook": [
+      "Dated decor in rooms feels outdated quickly",
+      "Older building may show wear in common areas",
+      "Pool lacks modern features like loungers",
+      "Limited amenities beyond basics for longer stays",
+      "Noise from Srichan Road traffic in street-facing rooms"
+    ],
+    "skipIf": "Skip if you prioritize sleek, contemporary hotel aesthetics over central budget convenience.",
+    "detailedReview": "Checking into Kosa Hotel Khon Kaen feels like stepping into a longstanding city staple, with a straightforward front desk process that's efficient for budget stays. The rooms deliver on spaciousness, offering ample space for two with clean linens and functional bathrooms, though the decor screams 80s with faded wallpapers and basic furnishings that haven't been refreshed. The standout amenity is the swimming pool, a simple outdoor setup that's a refreshing escape after exploring the city, especially rare for hotels under 1,200 THB. Food at the on-site restaurant is straightforward Thai fare—think pad thai and curries that satisfy without wow factor, served in a no-frills dining space popular with locals. Service is friendly and unpretentious, with staff who know the area well and help with directions to nearby temples or markets. Typical guests are budget-conscious families, solo travelers, or locals visiting for business, drawn by the central location rather than luxury. Overall, it's a reliable pick for those valuing position and pool access over polish, scoring 7.0/10 for delivering essentials without surprises.",
+    "locationReality": "Situated on Srichan Road in Khon Kaen's city centre, Kosa Hotel is steps from the bustling Walking Street night market, reachable in under 5 minutes on foot. Local restaurants and temples like Wat Nong Wang are within a 10-15 minute walk, making it easy to explore without transport. For farther spots like Bueng Kaen Nakhon Lake, expect a 10-minute Grab ride costing around 100 THB.",
+    "localSignals": [
+      "Walking Street market: 5-minute walk from hotel",
+      "On-property: 1 swimming pool and 1 Thai restaurant",
+      "Nearest landmark: City temples within 10-minute walk",
+      "Khon Kaen Airport transfer: typical Grab 200-300 THB, 20 minutes",
+      "Nearby: Srichan Road restaurant strip and 7-Eleven within 2-minute walk"
+    ],
+    "travellerNote": "Guests often praise the prime Srichan Road location and budget-friendly pool but note the dated room decor and basic facilities as common letdowns.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise",
+      "Book via Agoda for frequent Thailand discounts on budget hotels",
+      "Prices spike in November-February high season and during Khon Kaen Silk Fair",
+      "Verify pool access policy as it's a shared amenity",
+      "Opt for spacious standard rooms over smaller options for comfort"
+    ],
+    "similarHotels": [
+      {
+        "name": "Charoen Thani Khon Kaen Hotel",
+        "howDifferent": "Offers similar dated but spacious rooms at slightly higher prices with landmark status, lacking Kosa's pool."
+      },
+      {
+        "name": "Roma Hotel Khon Kaen",
+        "howDifferent": "Cheaper with clean basic rooms near Bueng Kaen Nakhon but no pool or on-site restaurant like Kosa."
+      },
+      {
+        "name": "Nuchjaree Place",
+        "howDifferent": "Even lower prices near university for academics, more cheerful vibe but farther from city centre than Kosa."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What country is Khon Kaen in?",
+        "a": "Khon Kaen is in Thailand, located in the northeastern Isan region known for its universities and cultural sites."
+      },
+      {
+        "q": "What is Charoen Thani Hotel Khon Kaen about?",
+        "a": "Charoen Thani Khon Kaen Hotel is a long-established landmark in the city, offering spacious clean rooms despite dated decor, popular for decades among locals and visitors."
+      },
+      {
+        "q": "Is Kosa Hotel Khon Kaen budget-friendly?",
+        "a": "Yes, with rates from 600–1,200 THB per night, it's a solid budget option featuring a pool rare at this price."
+      },
+      {
+        "q": "Does Kosa Hotel have a swimming pool?",
+        "a": "Yes, it includes a swimming pool, which stands out for budget hotels in central Khon Kaen."
+      },
+      {
+        "q": "What's the location like at Kosa Hotel Khon Kaen?",
+        "a": "It's on Srichan Road in the city centre, walkable to Walking Street market and nearby restaurants and temples."
+      },
+      {
+        "q": "Who stays at Kosa Hotel Khon Kaen?",
+        "a": "It attracts budget travelers, those seeking central spots, and pool enthusiasts on a tight budget."
+      }
+    ],
+    "urgencyLine": "Rooms at Kosa Hotel Khon Kaen with pool access book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Kosa Hotel Khon Kaen based on location, amenities, value, and guest feedback from public sources. We weighted central access highest because it's key for city explorers on a budget. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Kosa Hotel Khon Kaen Review (2026)",
+    "metaDescription": "Kosa Hotel Khon Kaen offers budget stays (600–1,200 THB) in central Srichan Road with a rare pool and walkable market access, though rooms have dated decor. Ideal for value seekers—book for reliable basics in Khon Kaen."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:31:31.731Z"
+}

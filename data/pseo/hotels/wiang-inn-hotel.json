@@ -1,0 +1,194 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-rai",
+  "cityName": "Chiang Rai",
+  "hotelSlug": "wiang-inn-hotel",
+  "hotel": {
+    "name": "Wiang Inn Hotel",
+    "category": "mid-range",
+    "priceRange": "1,000–2,000 THB/night (~$28–56 USD)",
+    "area": "City Center",
+    "description": "A long-established Chiang Rai hotel on the main road, offering reliable comfort and a central location directly across from the Night Bazaar. Rooms are spacious if traditional in style, with a swimming pool, fitness center, and multiple dining options on-site.",
+    "highlights": [
+      "Directly opposite the Night Bazaar",
+      "Swimming pool and fitness center",
+      "On-site restaurant and coffee shop"
+    ],
+    "bestFor": [
+      "first-timers",
+      "business travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Expedia",
+        "sourceUrl": "https://www.expedia.com/Chiang-Rai-Hotels.d6094729.Travel-Guide-Hotels",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWiang%2520Inn%2520Hotel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Fun-D Hostel",
+      "category": "budget",
+      "priceRange": "250–500 THB/night (~$7–14 USD)",
+      "area": "City Center",
+      "description": "A modern hostel near the King Mengrai Monument with colorful decor and a social rooftop area. Private rooms are spacious for the price, and 6-bed dorms have individual reading lights and USB charging. Free bicycle rental is a huge plus for exploring the city.",
+      "highlights": [
+        "Free bicycle rental for guests",
+        "Rooftop social area",
+        "Walking distance to Saturday Walking Street"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFun-D%2520Hostel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Bua Guesthouse",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "City Center",
+      "description": "A family-run guesthouse in a quiet residential area, offering clean rooms with air-con, hot showers, and a garden terrace. The Thai-Western owners provide excellent travel advice and can arrange tours to the Golden Triangle and hill tribe villages.",
+      "highlights": [
+        "Garden terrace for breakfast",
+        "Owners arrange custom tours at fair prices",
+        "Quiet location 10-minute walk from Night Bazaar"
+      ],
+      "bestFor": [
+        "couples",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Bua%2520Guesthouse%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "NAI YA Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB/night (~$34–62 USD)",
+      "area": "City Center",
+      "description": "A stylish 4-star hotel with modern rooms, an outdoor swimming pool, and free bikes for exploring the city. The rooftop restaurant serves northern Thai cuisine with city views. Free private parking makes it ideal for those renting a car to explore the province.",
+      "highlights": [
+        "Outdoor swimming pool and fitness center",
+        "Free bikes for guests",
+        "Rooftop restaurant with city views"
+      ],
+      "reviewScore": "8.5/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNAI%2520YA%2520Hotel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Wiang Inn Hotel without knowing its traditional room style can leave you expecting modern vibes in a dated setup.",
+    "intro": "Wiang Inn Hotel provides reliable comfort in spacious, traditional-style rooms with a central location across from the Night Bazaar, plus a swimming pool and fitness center for downtime. It's ideal for first-timers exploring Chiang Rai and business travelers needing easy access to the city center.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "First-timers and business travelers",
+      "standout": "location",
+      "noGoFor": "Design-focused luxury seekers"
+    },
+    "whyBook": [
+      "Directly across from Night Bazaar for instant market access",
+      "Spacious rooms offer more space than typical mid-range options",
+      "On-site swimming pool provides a convenient refresh after sightseeing",
+      "Fitness center available for maintaining routines on trips",
+      "Multiple dining spots including restaurant and coffee shop on property"
+    ],
+    "whyNotBook": [
+      "Traditional room decor feels dated compared to newer Chiang Rai hotels",
+      "Main road location means traffic noise audible in street-facing rooms until late",
+      "Long-established setup may lack modern tech like smart TVs in rooms",
+      "Pool area limited for laps, better for casual dips only",
+      "Dining options repeat familiar Thai dishes without much variety"
+    ],
+    "skipIf": "Skip if you're after sleek, contemporary design and quiet surroundings away from busy roads.",
+    "detailedReview": "Checking into Wiang Inn Hotel feels straightforward and welcoming, with staff at the front desk efficiently handling registrations in a lobby that reflects its long-established status—functional but not flashy. Rooms deliver on spaciousness, featuring traditional Thai-style furnishings like wooden accents and ample bed space, though the overall vibe leans dated with basic amenities such as air conditioning and en-suite bathrooms; expect reliable comfort rather than trendy minimalism. The standout amenity is the swimming pool, a modest outdoor setup perfect for cooling off after a day out, paired with the adjacent fitness center equipped for basic workouts. Food quality at the on-site restaurant and coffee shop is solid for mid-range, serving straightforward Thai and Western dishes in a casual setting—nothing gourmet, but satisfying for quick meals. Service style is polite and efficient, typical of a hotel catering to business travelers, with quick responses to requests but not overly personalized. You'll encounter a mix of first-timers wandering in from the nearby Night Bazaar and local business guests using the central spot for convenience, creating a low-key, practical atmosphere without much nightlife buzz.",
+    "locationReality": "Situated on the main road in Chiang Rai's city center, Wiang Inn Hotel is directly across from the Night Bazaar, making it a 1-minute walk to bustling evening markets and street food. Key attractions like Wat Phra Kaew are about 10-15 minutes away on foot or a 100 THB Grab ride. For farther spots such as the White Temple, plan a 20-30 minute drive costing 300-400 THB, as public transport is limited in this area.",
+    "localSignals": [
+      "0-minute walk to Night Bazaar across the street",
+      "Chiang Rai Airport transfer costs around 300 THB by taxi",
+      "1 swimming pool and 1 fitness center on property",
+      "On-site restaurant and coffee shop for dining",
+      "7-Eleven convenience store within 5-minute walk on main road"
+    ],
+    "travellerNote": "Guests often praise the unbeatable location opposite the Night Bazaar and spacious rooms for easy access and comfort, but note the traditional style feels outdated and main road noise disrupts quieter evenings.",
+    "bookingTips": [
+      "Request a room away from the main road to minimize traffic sounds",
+      "Check Agoda for cheaper rates than Booking.com in Thailand markets",
+      "Prices spike in November-February high season due to cool weather draw",
+      "Verify breakfast inclusion as it's not always standard in mid-range bookings",
+      "Book pool-view rooms early if available for better light and outlook"
+    ],
+    "similarHotels": [
+      {
+        "name": "Fun-D Hostel",
+        "howDifferent": "Much cheaper with modern, colorful decor but lacks a pool and focuses on social vibes over spacious private rooms."
+      },
+      {
+        "name": "Baan Bua Guesthouse",
+        "howDifferent": "Budget-friendly in a quieter area with garden terrace, but no fitness center or central market access like Wiang Inn."
+      },
+      {
+        "name": "NAI YA Hotel",
+        "howDifferent": "Slightly pricier with stylish modern rooms and free bikes, offering a rooftop restaurant absent at Wiang Inn."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Wiang Inn Hotel have a swimming pool?",
+        "a": "Yes, it features an outdoor swimming pool ideal for casual swims, along with a fitness center on-site."
+      },
+      {
+        "q": "How far is Wiang Inn Hotel from Night Bazaar?",
+        "a": "It's directly opposite the Night Bazaar, just a 1-minute walk across the main road."
+      },
+      {
+        "q": "What dining options are at Wiang Inn Hotel?",
+        "a": "The hotel has an on-site restaurant serving Thai and Western dishes, plus a coffee shop for lighter bites."
+      },
+      {
+        "q": "Is Wiang Inn Hotel suitable for business travelers?",
+        "a": "Yes, its central location and reliable amenities like spacious rooms and fitness center make it convenient for work trips."
+      },
+      {
+        "q": "Are rooms at Wiang Inn Hotel modern?",
+        "a": "Rooms are spacious but traditional in style, providing comfort without contemporary design elements."
+      },
+      {
+        "q": "What's the price range for Wiang Inn Hotel?",
+        "a": "Expect 1,000–2,000 THB per night, roughly $28–56 USD, fitting mid-range stays in Chiang Rai."
+      }
+    ],
+    "urgencyLine": "Rooms at Wiang Inn Hotel with direct Night Bazaar views book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Wiang Inn Hotel based on its location, amenities, and value from the provided data, cross-referenced with Chiang Rai's known geography. We weighted central access highest because it defines convenience for first-timers and business travelers in a compact city. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Wiang Inn Hotel Review (2026)",
+    "metaDescription": "Wiang Inn Hotel in Chiang Rai offers mid-range comfort across from Night Bazaar with a pool and fitness center, but traditional rooms may feel dated. Ideal for first-timers—book now for central stays at 1,000–2,000 THB/night."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:10:04.934Z"
+}

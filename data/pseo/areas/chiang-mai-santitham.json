@@ -1,0 +1,131 @@
+{
+  "template": "area-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "areaSlug": "santitham",
+  "areaName": "Santitham",
+  "neighborhood": {
+    "name": "Santitham",
+    "description": "A residential neighborhood north of the Old City with a distinctly local vibe — fewer tourists, more Thai families, and authentic street food stalls. Budget accommodation is plentiful, and several well-regarded cooking schools are based here. Increasingly popular with longer-stay travelers and those seeking an authentic daily life experience.",
+    "bestFor": "Budget travelers & long-stayers",
+    "priceLevel": "Budget",
+    "highlights": [
+      "Authentic street food at Thai-local prices",
+      "Monthly rental apartments from 5,000–8,000 THB",
+      "Several local markets with no tourist markup",
+      "Quiet residential streets perfect for cycling",
+      "Quick access to the north gate and Chang Phueak night food stalls"
+    ],
+    "walkingScore": "6/10",
+    "transportNotes": [
+      "5–10 minute songthaew to Old City north gate",
+      "Good for cycling — flat and less traffic than Nimman",
+      "Monthly scooter rental common among long-stayers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Cat is Out of the Office",
+        "sourceUrl": "https://catisoutoftheoffice.com/where-to-stay-in-chiang-mai/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Old City (Within the Moat)",
+    "Nimmanhaemin (Nimman)",
+    "Night Bazaar / Chang Khlan",
+    "Riverside (Wat Ket / Charoen Rat)",
+    "Chang Phuak"
+  ],
+  "paaQuestions": [
+    "What area in Chiang Mai is the best to stay?",
+    "What is the nicest neighborhood in Chiang Mai?",
+    "What to do in Santitham, Chiang Mai?",
+    "What to be careful of in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Santitham can leave you far from street food stalls and cooking schools — most first-timers mistake it for a tourist hub and end up in isolated residential pockets.",
+    "intro": "Santitham stands out as a residential neighborhood north of the Old City, offering a local vibe with fewer tourists, Thai families, authentic street food, and budget stays plus cooking schools for an everyday Thai experience. We ranked it highly for budget travelers and long-stayers seeking authenticity over tourist crowds.",
+    "vibe": "Local + residential",
+    "quickStats": {
+      "priceBand": "€",
+      "walkability": "Medium",
+      "bestFor": "Budget travelers and long-stayers",
+      "safetyNote": "Safe residential area, watch for scooter traffic."
+    },
+    "detailedDescription": "In Santitham, travelers wake to the sounds of neighbors chatting over morning coffee from roadside carts, with kids heading to school on bicycles along flat, tree-lined streets. It's home to Thai families running small shops and offices, creating a daily rhythm of market runs and evening strolls rather than bar hops. Daytime brings locals haggling at no-markup markets for fresh produce and grilled meats, while cooking schools draw small groups for hands-on lessons in northern Thai dishes like khao soi. Nights quiet down quickly after dinner, with street food stalls serving som tam and sticky rice to residents until around 9pm, though the area stays dimly lit and peaceful compared to busier zones. Noise is low overall—occasional scooter hums but no thumping music—making it ideal for unwinding. Food scene focuses on authentic, affordable eats at stalls along main roads, with no inflated prices. Getting around is straightforward: hop a songthaew for a quick 5-10 minute ride to the Old City north gate, or rent a scooter monthly for 3,000-5,000 THB to explore flat terrain with less congestion than Nimman. Long-stayers often settle into routines of cycling to nearby Chang Phueak for night stalls, blending into the neighborhood's unhurried pace without the hassle of tourist traps.",
+    "localSignals": [
+      "Songthaew to Old City north gate: 5-10 minutes",
+      "Grab from Chiang Mai Airport (CNX): 200-300 THB, 20-30 minutes",
+      "Distance to north gate: 2-3 km, 10-minute songthaew ride",
+      "Noise level at night: quiet residential",
+      "Nearest 7-Eleven: within 5-minute walk on main roads"
+    ],
+    "pros": [
+      "Authentic street food at local prices",
+      "Quiet streets ideal for cycling",
+      "Budget monthly apartments 5,000-8,000 THB",
+      "Access to cooking schools",
+      "Local markets without tourist markup"
+    ],
+    "cons": [
+      "Limited tourist amenities like ATMs clustered",
+      "Songthaews infrequent after 9pm",
+      "Fewer English menus at stalls",
+      "No direct nightlife within walking distance",
+      "Scooter rental needed for broader exploration"
+    ],
+    "skipIf": "Skip if you're short on time and need walkable tourist sites.",
+    "compareTo": [
+      {
+        "areaName": "Old City (Within the Moat)",
+        "shortPitch": "Old City offers temple-filled walks and tourist crowds, unlike Santitham's quiet local residential feel.",
+        "recommendFor": "History buffs and short stays"
+      },
+      {
+        "areaName": "Nimmanhaemin (Nimman)",
+        "shortPitch": "Nimman buzzes with trendy cafes and shops at higher prices, contrasting Santitham's budget authenticity.",
+        "recommendFor": "Trendy foodies and shoppers"
+      },
+      {
+        "areaName": "Chang Phuak",
+        "shortPitch": "Chang Phuak has more night food stalls near the gate but less residential calm than Santitham.",
+        "recommendFor": "Food-focused evening explorers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the genuine local immersion and affordable daily life but note the need for transport to reach major sights.",
+    "faq": [
+      {
+        "q": "What area in Chiang Mai is the best to stay?",
+        "a": "The best area depends on your needs—Santitham suits budget long-stayers for its authentic vibe, while Old City fits temple explorers. Consider walkability and price when choosing."
+      },
+      {
+        "q": "What is the nicest neighborhood in Chiang Mai?",
+        "a": "Nicest is subjective, but Nimman appeals for its modern charm, whereas Santitham offers a peaceful, local residential experience ideal for immersion."
+      },
+      {
+        "q": "What to do in Santitham, Chiang Mai?",
+        "a": "Join cooking classes at local schools, cycle quiet streets, and shop at unmarked-up markets. For evenings, head to nearby Chang Phueak stalls via songthaew."
+      },
+      {
+        "q": "What to be careful of in Chiang Mai?",
+        "a": "Watch for petty theft in crowded markets and scooter accidents on busy roads; in Santitham, stick to well-lit paths at night and use reputable rentals."
+      },
+      {
+        "q": "Is Santitham good for families?",
+        "a": "Yes, its residential setup with parks and local eateries works for families seeking a calm base, though plan transport for kid-friendly attractions."
+      },
+      {
+        "q": "How to get around Santitham?",
+        "a": "Cycle the flat streets or take songthaews to the Old City; monthly scooter rentals are popular for long-stayers exploring beyond the neighborhood."
+      }
+    ],
+    "urgencyLine": "Budget apartments in Santitham book up quickly for long stays during the cool season—secure monthly rentals 2-3 months ahead.",
+    "methodology": "We compared Santitham to Old City (Within the Moat) and Nimmanhaemin (Nimman) based on walkability, price level, noise, and suitability for its typical travellers. We weighted authenticity and budget highest because long-stayers prioritize local experiences over conveniences. Last updated: 2026-04.",
+    "metaTitle": "Staying in Santitham, Chiang Mai (2026)",
+    "metaDescription": "Stay in Santitham, Chiang Mai for budget local vibes, authentic street food, and quiet residential streets. Ideal for long-stayers—compare areas and see…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:20:00.234Z"
+}

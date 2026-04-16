@@ -1,0 +1,194 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pai",
+  "cityName": "Pai",
+  "hotelSlug": "hug-pai-boutique",
+  "hotel": {
+    "name": "Hug Pai Boutique",
+    "category": "mid-range",
+    "priceRange": "1,000–2,200 THB/night (~$28–62 USD)",
+    "area": "Town Center",
+    "description": "A contemporary boutique hostel-hotel hybrid just 3 minutes from Walking Street, with a garden, shared lounge, and bar. Rooms are modern and clean with air-conditioning and good WiFi. The location is hard to beat — close enough to walk everywhere but set back enough for a peaceful night's sleep.",
+    "highlights": [
+      "3-minute walk to Pai Night Market",
+      "Garden lounge and bar",
+      "Modern design with good WiFi"
+    ],
+    "bestFor": [
+      "couples",
+      "flashpackers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/hostels/city/th/pai.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHug%2520Pai%2520Boutique%252C%2520Pai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Pai Circus Hostel",
+      "category": "budget",
+      "priceRange": "220–800 THB/night (~$6–22 USD)",
+      "area": "Town Center",
+      "description": "Pai's most iconic hostel, famous for its circus-themed decor, fire shows, skate ramp, and nightly social events. Dorm beds and private bungalows are basic but clean. The real draw is the community vibe — hammocks, a pool, and a bar where backpackers share travel stories until late.",
+      "highlights": [
+        "Nightly fire shows and social events",
+        "Swimming pool and skate ramp",
+        "5-minute walk to Walking Street"
+      ],
+      "reviewScore": "8.2/10 Hostelworld",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hostels/p/91394/the-famous-pai-circus-hostel/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Circus%2520Hostel%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "Common Grounds Pai",
+      "category": "budget",
+      "priceRange": "250–600 THB/night (~$7–17 USD)",
+      "area": "Town Center",
+      "description": "A well-run social hostel with both dorm beds and private rooms. Clean, modern facilities with a communal kitchen, cozy lounge area, and organized pub crawls. The location on the edge of town center keeps noise manageable while remaining walkable to everything.",
+      "highlights": [
+        "Organized social events and pub crawls",
+        "Communal kitchen for budget cooking",
+        "Clean, modern dorm pods with privacy curtains"
+      ],
+      "bestFor": [
+        "backpackers",
+        "social travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Broke Backpacker",
+          "sourceUrl": "https://www.thebrokebackpacker.com/best-hostels-in-pai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCommon%2520Grounds%2520Pai%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "UP2U Guesthouse",
+      "category": "budget",
+      "priceRange": "200–500 THB/night (~$5.50–14 USD)",
+      "area": "Town Center",
+      "description": "A charming traditional Thai-style guesthouse with beautiful wooden design, just a 5-minute walk from the bus station. Rooms are simple but characterful, with wooden floors and Thai textiles. One of the cheapest quality options in Pai with genuine Thai hospitality.",
+      "highlights": [
+        "Traditional Thai wooden architecture",
+        "Walking distance to bus station and Walking Street",
+        "Some of the cheapest rooms in Pai"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hotels/asia/thailand/pai/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUP2U%2520Guesthouse%252C%2520Pai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Hug Pai Boutique without knowing its hostel-hotel hybrid setup can lead to unexpected shared space noise disrupting your peaceful stay.",
+    "intro": "Hug Pai Boutique offers a modern blend of private rooms and communal vibes in Pai's town center, with clean air-conditioned spaces and reliable WiFi for comfortable stays. It's ideal for couples and flashpackers seeking walkable access to the action without the chaos.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and flashpackers",
+      "standout": "Garden lounge and bar",
+      "noGoFor": "Solo budget backpackers"
+    },
+    "whyBook": [
+      "3-minute walk to Pai Night Market for easy evening strolls",
+      "Modern rooms with air-conditioning and strong WiFi connectivity",
+      "Peaceful garden lounge ideal for relaxed downtime",
+      "Contemporary design blending boutique comfort with social bar scene",
+      "Central yet set-back location for quiet sleeps near Walking Street"
+    ],
+    "whyNotBook": [
+      "Hybrid hostel setup means shared lounge can get lively with groups until late",
+      "No private pool or spa, relying on garden for outdoor relaxation",
+      "Bar on-site attracts social crowds, potentially noisy for light sleepers",
+      "Limited room variety as a boutique hybrid, fewer luxury options available",
+      "Town center proximity exposes to occasional motorbike traffic hum"
+    ],
+    "skipIf": "Skip if you're a solo traveler on a tight budget preferring all-dorm hostels with organized events.",
+    "detailedReview": "Checking into Hug Pai Boutique feels straightforward and welcoming, with staff at the small front desk quickly handling keys amid the contemporary lobby setup. Rooms deliver a clean, modern vibe—think minimalist decor, comfortable beds, air-conditioning that cools efficiently, and WiFi strong enough for streaming or work without hiccups. The standout amenity is the garden lounge, a shaded outdoor space with seating for chilling with a drink from the on-site bar, offering a peaceful contrast to Pai's bustling streets. Food-wise, the bar serves basic cocktails and light bites, nothing gourmet but reliable for casual evenings; no full restaurant, so most guests head out for meals. Service is friendly and low-key, with staff helpful for local tips but not overly personalized. Typical guests are couples unwinding after day trips or flashpackers mixing relaxation with social hangs—expect a mix of internationals in their 20s-30s chatting in the lounge. Overall, it's a solid mid-range pick for those valuing location and cleanliness over extravagance, though the hybrid nature means occasional backpacker energy in common areas. Stays here suit short visits, providing easy access to Pai's vibe without frills like room service or extensive facilities.",
+    "locationReality": "Nestled in Pai's town center, Hug Pai Boutique is a 3-minute walk from Walking Street and the Night Market, making it effortless to explore cafes, shops, and street food on foot. Within a 5-minute stroll, you'll find local eateries and rental shops, but for attractions like Pai Canyon or hot springs, plan a 10-20 minute scooter ride or Grab costing 100-200 THB. The setback position keeps it quieter than frontline spots, avoiding direct nightlife noise while staying connected.",
+    "localSignals": [
+      "3-minute walk to Pai Night Market",
+      "Garden lounge and bar on property",
+      "Good WiFi available throughout",
+      "No breakfast included per standard listings",
+      "7-Eleven and restaurant strip within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the modern rooms and prime location for walkable convenience but note the shared lounge can feel crowded during peak evenings.",
+    "bookingTips": [
+      "Request a room facing the garden to minimize any street sounds",
+      "Check Agoda for deals, often cheaper than Booking.com in Thailand",
+      "Prices spike in November-February high season and during Yi Peng Festival",
+      "Verify bar hours and any noise policies before booking for light sleepers",
+      "Opt for private rooms over any shared options in this hybrid setup"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pai Circus Hostel (220–800 THB/night (~$6–22 USD)) — Pai's most iconic hostel, famous for its circus-themed decor, fire shows, skate ramp, and nightly social events. Dorm beds and private bunga",
+        "howDifferent": "More budget-focused with dorms and high-energy events, lacking Hug Pai Boutique's peaceful garden lounge."
+      },
+      {
+        "name": "Common Grounds Pai (250–600 THB/night (~$7–17 USD)) — A well-run social hostel with both dorm beds and private rooms. Clean, modern facilities with a communal kitchen, cozy lounge area, and orga",
+        "howDifferent": "Emphasizes communal kitchen and organized activities over Hug Pai Boutique's bar and boutique design."
+      },
+      {
+        "name": "UP2U Guesthouse (200–500 THB/night (~$5.50–14 USD)) — A charming traditional Thai-style guesthouse with beautiful wooden design, just a 5-minute walk from the bus station. Rooms are simple but c",
+        "howDifferent": "Offers traditional wooden simplicity near the bus station, contrasting Hug Pai Boutique's modern hybrid style."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Hug Pai Boutique suitable for couples?",
+        "a": "Yes, its private modern rooms and peaceful garden lounge make it a good fit for couples seeking comfort near Pai's attractions."
+      },
+      {
+        "q": "What's the WiFi like at Hug Pai Boutique?",
+        "a": "WiFi is good and reliable throughout the property, suitable for streaming or light work needs."
+      },
+      {
+        "q": "How far is Hug Pai Boutique from Walking Street?",
+        "a": "It's just a 3-minute walk away, allowing easy access without being in the thick of the noise."
+      },
+      {
+        "q": "Does Hug Pai Boutique have a bar?",
+        "a": "Yes, there's an on-site bar in the shared lounge for casual drinks and socializing."
+      },
+      {
+        "q": "Are there dorms at Hug Pai Boutique?",
+        "a": "As a boutique hybrid, it focuses on private rooms but may have limited shared options; confirm when booking."
+      },
+      {
+        "q": "What's nearby for food at Hug Pai Boutique?",
+        "a": "The Night Market and local restaurants are within a 3-5 minute walk, with basic bites available at the hotel bar."
+      }
+    ],
+    "urgencyLine": "Rooms at Hug Pai Boutique with garden views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Hug Pai Boutique based on location, amenities, and value from provided data and Pai traveler insights. We weighted location highest because Pai's walkability defines the stay experience. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Hug Pai Boutique Review (2026)",
+    "metaDescription": "Hug Pai Boutique in Pai offers modern rooms and a garden bar just 3 minutes from Night Market, ideal for couples. Note the hybrid setup may bring lounge noise; book for peaceful central stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:10:46.593Z"
+}

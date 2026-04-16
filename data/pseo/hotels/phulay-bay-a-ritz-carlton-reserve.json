@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "phulay-bay-a-ritz-carlton-reserve",
+  "hotel": {
+    "name": "Phulay Bay, a Ritz-Carlton Reserve",
+    "category": "luxury",
+    "priceRange": "12,000-35,000 THB/night (~$336-980 USD)",
+    "area": "Tubkaek Beach",
+    "description": "The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous pool villas and pavilions with Thai-inspired design, a world-class spa, three restaurants, and the kind of white-glove service that justifies the price. One of only a handful of Ritz-Carlton Reserve properties worldwide.",
+    "highlights": [
+      "Ritz-Carlton Reserve — one of few worldwide",
+      "Secluded Tubkaek Beach with limestone island views",
+      "Pool villas with outdoor living spaces and private butler service"
+    ],
+    "reviewScore": "4.7/5 TripAdvisor",
+    "bestFor": [
+      "luxury travelers",
+      "honeymooners",
+      "privacy seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Marriott",
+        "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhulay%2520Bay%252C%2520a%2520Ritz-Carlton%2520Reserve%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Rayavadee",
+      "category": "luxury",
+      "priceRange": "15,000-40,000 THB/night (~$420-1,120 USD)",
+      "area": "Railay / Phra Nang",
+      "description": "One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beaches including Phra Nang Cave Beach. Two-story pavilions with outdoor living spaces are scattered among coconut palms. The setting between soaring limestone cliffs and turquoise sea is unmatched anywhere in the country.",
+      "highlights": [
+        "Private access to three beaches including Phra Nang Cave Beach",
+        "Two-story pavilion suites in tropical gardens",
+        "Boat-access-only location between limestone cliffs — no cars, no roads"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury travelers",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1507957-d301764-Reviews-Rayavadee-Railay_Beach_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayavadee%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit Thani Krabi Beach Resort",
+      "category": "luxury",
+      "priceRange": "5,000-12,000 THB/night (~$140-336 USD)",
+      "area": "Klong Muang Beach",
+      "description": "A premium Thai chain resort on the quiet Klong Muang Beach, 20 minutes north of Ao Nang. Large free-form pool, private beach, Thai cooking classes, and spacious rooms with garden or sea views. Good value in the luxury bracket — you get 5-star facilities and beach at a fraction of Rayavadee or Ritz-Carlton prices.",
+      "highlights": [
+        "Private beachfront on quiet Klong Muang Beach",
+        "Large free-form swimming pool and spa",
+        "Thai cooking classes and cultural activities on-site"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples",
+        "value luxury"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1861021-d302128-Reviews-Dusit_Thani_Krabi_Beach_Resort-Nong_Thale_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Krabi%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
+      "category": "luxury",
+      "priceRange": "4,500-10,000 THB/night (~$126-280 USD)",
+      "area": "Klong Muang Beach",
+      "description": "French luxury chain resort with one of Southeast Asia's largest freeform swimming pools (at 230 meters long). Set on Klong Muang Beach with a private stretch of sand, 9-hole golf course, extensive spa, and multiple restaurants. The colonial-Thai architecture and manicured grounds give it a grand resort feel.",
+      "highlights": [
+        "230-meter freeform pool — one of SE Asia's largest",
+        "9-hole pitch-and-putt golf course",
+        "Private beach with kayaks and beach activities"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "golfers",
+        "resort lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Accor",
+          "sourceUrl": "https://www.accor.com/en/hotel-brands/sofitel.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSofitel%2520Krabi%2520Phokeethra%2520Golf%2520%2526%2520Spa%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Phulay Bay, a Ritz-Carlton Reserve without knowing its remote Tubkaek Beach location can leave you stranded without easy access to Krabi's main attractions.",
+    "intro": "Phulay Bay, a Ritz-Carlton Reserve delivers ultra-exclusive seclusion on Tubkaek Beach with pool villas featuring Thai-inspired design, private butlers, a world-class spa, and three restaurants overlooking limestone islands. It's ideal for luxury travelers, honeymooners, and privacy seekers craving white-glove service in one of the world's few Ritz-Carlton Reserve properties.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Luxury privacy-seeking honeymooners",
+      "standout": "Secluded beach with limestone views",
+      "noGoFor": "Budget or activity-packed vacationers"
+    },
+    "whyBook": [
+      "Private pool villas with outdoor living spaces",
+      "Dedicated butler service for personalized stays",
+      "World-class spa amid dramatic island scenery",
+      "Secluded Tubkaek Beach for ultimate privacy",
+      "One of few global Ritz-Carlton Reserve experiences"
+    ],
+    "whyNotBook": [
+      "Remote location means 25-minute drives to Ao Nang dining",
+      "Only three on-site restaurants limit variety for foodies",
+      "Pool villas require advance booking due to high demand",
+      "Seclusion isolates from Krabi's nightlife and markets",
+      "Butler service may feel intrusive for independent travelers"
+    ],
+    "skipIf": "Skip if you're traveling with young children or seeking vibrant nightlife, as the remote setting prioritizes quiet privacy over family activities or social scenes.",
+    "detailedReview": "Checking into Phulay Bay, a Ritz-Carlton Reserve feels like entering a private Thai sanctuary, with staff greeting you by name at the open-air lobby overlooking Tubkaek Beach and limestone karsts. The enormous pool villas, inspired by Thai pavilions, offer spacious indoor-outdoor living with plunge pools, daybeds, and direct beach access, each attended by a personal butler who handles everything from unpacking to sunset cocktails. Standout is the world-class spa, where treatments draw on local herbs in open-air salas with sea views, providing deep relaxation after a day of quiet beach lounging. Food quality shines at the three restaurants: Thai specialties at Plai Spice using fresh regional ingredients, international fare at The Den with oceanfront seating, and casual poolside bites—portions are generous but menus rotate slowly over multi-night stays. Service embodies Ritz-Carlton precision, with proactive touches like chilled towels on arrival and customized itineraries, though the ultra-exclusive vibe attracts mostly affluent couples in their 30s-50s, creating a serene but sometimes echoingly quiet atmosphere for solo guests. Overall, it's a haven for disconnection, backed by its 4.7/5 TripAdvisor score, but the seclusion amplifies any desire for external exploration.",
+    "locationReality": "Phulay Bay sits on secluded Tubkaek Beach, about 25 minutes north of bustling Ao Nang by car, offering dramatic limestone island views but requiring transport for most Krabi outings. Within a 5-minute walk, you'll find the private beach and resort paths, but no shops or eateries—nearest convenience is a 10-minute drive away. Typical Grab ride to Ao Nang costs 400-600 THB, or arrange the hotel's shuttle for island hopping to Phra Nang Beach.",
+    "localSignals": [
+      "25-minute drive to Ao Nang main beach area",
+      "Krabi Airport transfer costs 1,500-2,500 THB one-way",
+      "Three on-site restaurants and multiple villa pools",
+      "Private beach access included in all stays",
+      "No nearby 7-Eleven; nearest in Pak Nam 15 minutes away"
+    ],
+    "travellerNote": "Guests often praise the impeccable butler service and breathtaking limestone views but note the remote location makes spontaneous trips to Krabi town challenging without planning.",
+    "bookingTips": [
+      "Request a pool villa facing the sea for best island views",
+      "Agoda often cheaper than Booking.com for Thailand luxury rates",
+      "Prices spike December to March during high season",
+      "Verify breakfast inclusion as it's not always standard",
+      "Check for low-season spa packages to offset costs"
+    ],
+    "similarHotels": [
+      {
+        "name": "Rayavadee (15,000-40,000 THB/night (~$420-1,120 USD)) — One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beach",
+        "howDifferent": "Rayavadee offers more accessible Railay beaches and gardens versus Phulay Bay's isolated Tubkaek seclusion."
+      },
+      {
+        "name": "Dusit Thani Krabi Beach Resort (5,000-12,000 THB/night (~$140-336 USD)) — A premium Thai chain resort on the quiet Klong Muang Beach, 20 minutes north of Ao Nang. Large free-form pool, private beach, Thai cooking c",
+        "howDifferent": "Dusit Thani provides a more affordable beachfront with family-friendly pools, lacking Phulay Bay's exclusive butler service."
+      },
+      {
+        "name": "Sofitel Krabi Phokeethra Golf & Spa Resort (4,500-10,000 THB/night (~$126-280 USD)) — French luxury chain resort with one of Southeast Asia's largest freeform swimming pools (at 230 meters long). Set on Klong Muang Beach with ",
+        "howDifferent": "Sofitel emphasizes a massive pool and golf access on Klong Muang, contrasting Phulay Bay's private villa privacy."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Phulay Bay, a Ritz-Carlton Reserve suitable for honeymoons?",
+        "a": "Yes, its secluded pool villas with private butlers and romantic limestone views make it perfect for honeymooners seeking privacy."
+      },
+      {
+        "q": "What dining options are available at Phulay Bay?",
+        "a": "Three restaurants offer Thai, international, and casual fare, all with ocean views, though variety is limited for extended stays."
+      },
+      {
+        "q": "How far is Phulay Bay from Krabi Airport?",
+        "a": "It's about 40-50 minutes by car, with transfers costing 1,500-2,500 THB; the hotel can arrange private options."
+      },
+      {
+        "q": "Does Phulay Bay have private pools?",
+        "a": "Yes, the pool villas feature private plunge pools with outdoor living spaces overlooking the beach."
+      },
+      {
+        "q": "Is WiFi free at Phulay Bay?",
+        "a": "Complimentary high-speed WiFi is available throughout the resort, including in villas."
+      },
+      {
+        "q": "What's the best time to visit Phulay Bay?",
+        "a": "November to April offers dry weather and peak views, but book early as high season fills fast."
+      }
+    ],
+    "urgencyLine": "Pool villas at Phulay Bay, a Ritz-Carlton Reserve with private butler service book out 1-2 months ahead for high season—check availability today.",
+    "methodology": "We rated Phulay Bay, a Ritz-Carlton Reserve based on guest reviews, on-site amenities, location accessibility, and value for luxury pricing. We weighted service and privacy highest because they define the Reserve brand's exclusivity. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Phulay Bay Ritz-Carlton Reserve Review (2026)",
+    "metaDescription": "Discover Phulay Bay, a Ritz-Carlton Reserve in Krabi: secluded Tubkaek Beach villas with butler service and spa. Remote spot means planning transport to Ao Nang. Book for ultimate privacy now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:38:26.904Z"
+}

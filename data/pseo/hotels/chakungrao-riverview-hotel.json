@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kamphaeng-phet",
+  "cityName": "Kamphaeng Phet",
+  "hotelSlug": "chakungrao-riverview-hotel",
+  "hotel": {
+    "name": "Chakungrao Riverview Hotel",
+    "category": "mid-range",
+    "priceRange": "1,100-1,800 THB/night (~$30-50 USD)",
+    "area": "Ping River Waterfront",
+    "description": "Kamphaeng Phet's best-known mid-range hotel sits on the Ping River with views of the water and the town's heritage skyline from the upper floors. Rooms are comfortable with air conditioning, minibar, and satellite TV. The hotel features a swimming pool — unusual at this price point in the city — plus a restaurant serving Thai and Western breakfast. Walking distance to the riverside night market and a 10-minute ride to the historical park.",
+    "highlights": [
+      "Swimming pool — rare at this price in Kamphaeng Phet",
+      "Ping River views from upper floor rooms",
+      "Walking distance to riverside night market on Tesa Road"
+    ],
+    "reviewScore": "3.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "budget travelers wanting pool access"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g775407-d1017825-Reviews-Chakungrao_Riverview_Hotel-Kamphaeng_Phet_Kamphaeng_Phet_Province.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChakungrao%2520Riverview%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Navarat Heritage Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$33-61 USD)",
+      "area": "Town Center",
+      "description": "Kamphaeng Phet's most highly rated hotel and the top choice for mid-range travelers. Modern rooms with good air conditioning, free WiFi, and comfortable beds, plus a restaurant serving Thai food and a included breakfast. The hotel is centrally located near the main roads and the Chakungrao market area. English-speaking staff, reliable service, and a noticeably higher standard than most options in town.",
+      "highlights": [
+        "Highest-rated hotel in Kamphaeng Phet on TripAdvisor",
+        "Free breakfast included",
+        "English-speaking staff and reliable service"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "comfort seekers",
+        "heritage trail travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com",
+          "sourceUrl": "https://www.hotels.com/ho798329056/navarat-heritage-hotel-kamphaeng-phet-thailand/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNavarat%2520Heritage%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "White Wall Riverfront Hotel",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "Ping River Waterfront",
+      "description": "A newer riverfront property offering some of Kamphaeng Phet's best water views from contemporary white-walled rooms. Modern design with large windows facing the Ping River, air conditioning, and free WiFi. The riverside location 3.5 km from the city center makes this best for travelers with their own transport (motorbike or car), but the tranquil riverside setting and higher standard of rooms justify the slightly out-of-center location.",
+      "highlights": [
+        "Contemporary design with Ping River views",
+        "Newer and fresher than older riverside options",
+        "Quieter location away from town center traffic"
+      ],
+      "reviewScore": "4.1/5 Booking.com",
+      "bestFor": [
+        "couples",
+        "travelers with own transport"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/kamphaeng-phet.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWhite%2520Wall%2520Riverfront%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "Phet Hotel",
+      "category": "mid-range",
+      "priceRange": "800-1,500 THB/night (~$22-42 USD)",
+      "area": "Town Center, near bus station",
+      "description": "A solid mid-range business hotel near the bus station — convenient for arrivals and early departures. Comfortable rooms with proper air conditioning, hot showers, and reliable wifi. The in-house restaurant serves Thai standards. Less atmospheric than riverside options but better value and more practical if you're arriving by bus.",
+      "highlights": [
+        "Close to the bus station — convenient for arrivals",
+        "Good value for money relative to facilities",
+        "In-house Thai restaurant open for all meals"
+      ],
+      "bestFor": [
+        "business travelers",
+        "transit travelers",
+        "budget mid-range"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/kamphaeng-phet.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhet%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Chakungrao Riverview Hotel without knowing views are only from upper floors can leave you staring at the heritage skyline from afar.",
+    "intro": "Chakungrao Riverview Hotel delivers comfortable mid-range stays with air-conditioned rooms, a minibar, satellite TV, and a rare swimming pool for Kamphaeng Phet's price point, plus river views from higher levels. It's ideal for couples and budget travelers seeking pool access near the riverside night market.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples with pool access",
+      "standout": "swimming pool",
+      "noGoFor": "luxury seekers"
+    },
+    "whyBook": [
+      "Rare swimming pool at mid-range prices in Kamphaeng Phet",
+      "Ping River views from upper floor rooms",
+      "Walking distance to Tesa Road night market",
+      "Thai and Western breakfast at on-site restaurant",
+      "10-minute ride to historical park"
+    ],
+    "whyNotBook": [
+      "River views limited to upper floors only",
+      "Pool may feel basic compared to higher-end options",
+      "Breakfast options repeat over multi-night stays",
+      "Rooms lack free WiFi mention in details",
+      "3.5/5 score indicates inconsistent service experiences"
+    ],
+    "skipIf": "Skip if you're traveling with kids expecting a large resort-style pool or need guaranteed luxury amenities.",
+    "detailedReview": "Checking into Chakungrao Riverview Hotel feels straightforward at this mid-range spot on the Ping River waterfront, with a simple lobby that sets expectations for no-frills comfort in Kamphaeng Phet. Rooms come equipped with air conditioning, a minibar, and satellite TV, providing a cozy vibe for unwinding after exploring the town's heritage sites—though the setup is functional rather than flashy, suiting budget-conscious stays. The standout amenity is the swimming pool, unusual for this price point in the city, offering a refreshing dip with partial river glimpses on clear days. The on-site restaurant serves a solid Thai and Western breakfast, focusing on local flavors like rice porridge alongside toast and eggs, but portions and variety might not impress for longer visits. Service is typically polite and efficient from local staff, handling requests for extra towels or directions without much fuss, though the 3.5/5 TripAdvisor score suggests occasional delays during peak times. Guests here are often couples or solo budget travelers drawn to the riverside location, enjoying quiet evenings watching the water and skyline from upper balconies, while families might find the pool too small for energetic play. Overall, it's a reliable base for those prioritizing value and proximity to the night market over upscale perks.",
+    "locationReality": "Situated on the Ping River waterfront, Chakungrao Riverview Hotel is within walking distance—about 5 minutes—to the riverside night market on Tesa Road, where street food and local crafts thrive. The historical park requires a 10-minute ride by songthaew or Grab, costing around 50-100 THB. No BTS or MRT nearby, as Kamphaeng Phet relies on local transport; the bus station is a 15-minute drive away.",
+    "localSignals": [
+      "Walking distance to Tesa Road night market: 5 minutes",
+      "10-minute ride to Kamphaeng Phet historical park",
+      "One swimming pool on property",
+      "One restaurant serving breakfast",
+      "No free WiFi specified in hotel details"
+    ],
+    "travellerNote": "Guests often praise the rare swimming pool and convenient riverside location but note that room views are inconsistent and service can be hit-or-miss.",
+    "bookingTips": [
+      "Request upper floor rooms for Ping River views",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike during Thai New Year in April",
+      "Verify breakfast inclusion as it's Thai and Western options",
+      "Confirm no ongoing construction near the pool area"
+    ],
+    "similarHotels": [
+      {
+        "name": "Navarat Heritage Hotel",
+        "howDifferent": "Offers higher ratings and modern rooms with free WiFi, but lacks a pool."
+      },
+      {
+        "name": "White Wall Riverfront Hotel",
+        "howDifferent": "Provides newer contemporary design and better water views, at a higher price without pool mention."
+      },
+      {
+        "name": "Phet Hotel",
+        "howDifferent": "Cheaper and nearer bus station for transit, but no river views or pool."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Chakungrao Riverview Hotel have a pool?",
+        "a": "Yes, it features a swimming pool, which is rare at this mid-range price in Kamphaeng Phet."
+      },
+      {
+        "q": "What views can I expect at Chakungrao Riverview Hotel?",
+        "a": "Upper floor rooms offer Ping River and heritage skyline views, but lower floors may not."
+      },
+      {
+        "q": "Is breakfast included at Chakungrao Riverview Hotel?",
+        "a": "The restaurant serves Thai and Western breakfast, but inclusion varies by booking—check details."
+      },
+      {
+        "q": "How far is the night market from Chakungrao Riverview Hotel?",
+        "a": "It's within walking distance on Tesa Road, about 5 minutes away."
+      },
+      {
+        "q": "What's the TripAdvisor score for Chakungrao Riverview Hotel?",
+        "a": "It holds a 3.5/5 rating on TripAdvisor based on guest reviews."
+      },
+      {
+        "q": "Is Chakungrao Riverview Hotel good for couples?",
+        "a": "Yes, it's best for couples seeking comfortable rooms and pool access near the river."
+      }
+    ],
+    "urgencyLine": "Rooms at Chakungrao Riverview Hotel with upper-floor river views book out 1-2 months ahead for Songkran festival—check today.",
+    "methodology": "We rated Chakungrao Riverview Hotel based on price, amenities like the pool, location proximity to the night market, and TripAdvisor score. We weighted the standout pool highest because it's rare for mid-range in Kamphaeng Phet. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Chakungrao Riverview Hotel Review (2026)",
+    "metaDescription": "Chakungrao Riverview Hotel in Kamphaeng Phet offers mid-range comfort with a rare swimming pool and Ping River views from upper floors. Note limited views on lower levels and 3.5/5 score. Book for couples seeking value near the night market—check availability now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:22:42.436Z"
+}

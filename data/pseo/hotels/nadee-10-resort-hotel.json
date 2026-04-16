@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "nadee-10-resort-hotel",
+  "hotel": {
+    "name": "Nadee 10 Resort & Hotel",
+    "category": "mid-range",
+    "priceRange": "1,000–2,000 THB (~28–56 USD) per night",
+    "area": "City Centre",
+    "description": "A 4-star resort-style hotel with a garden setting, indoor pool and bar. Rooms are air-conditioned with modern amenities and room service. The property has a relaxed, resort-like atmosphere that feels like an escape from the city — unusual for a centrally located Khon Kaen hotel. Good value for the quality on offer.",
+    "highlights": [
+      "Resort-style atmosphere with garden setting",
+      "Indoor swimming pool — usable year-round",
+      "Bar and room service available",
+      "Quiet despite central location",
+      "Good value for a 4-star property"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnadee-10-resort.html",
+    "reviewScore": "8.0/10",
+    "bestFor": [
+      "Couples",
+      "Relaxation seekers",
+      "Mid-range budgets"
+    ],
+    "sources": [
+      {
+        "sourceName": "Expedia — Khon Kaen Hotels",
+        "sourceUrl": "https://www.expedia.com/Khon-Kaen-Hotels.d1833.Travel-Guide-Hotels",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Glacé Hotel Khon Kaen",
+      "category": "luxury",
+      "priceRange": "1,800–3,500 THB (~50–97 USD) per night",
+      "area": "City Centre",
+      "description": "A newer boutique-style hotel that brings a fresh, contemporary design aesthetic to Khon Kaen's accommodation scene. Rooms are sleek and modern with quality bedding, rain showers and smart TVs. The rooftop bar offers cocktails with views over the city — something few other Khon Kaen hotels provide. A great choice for design-conscious travellers who want something more stylish than the traditional business hotels.",
+      "highlights": [
+        "Modern boutique design — the most stylish hotel in Khon Kaen",
+        "Rooftop bar with city views",
+        "Quality bedding and rain showers in all rooms",
+        "Good restaurant with creative Thai-fusion menu",
+        "Newer property — everything is fresh and well-maintained"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fglace-khon-kaen.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Instagram-savvy travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Ted's Guide — Luxury Hotels Khon Kaen",
+          "sourceUrl": "https://luxuryhotel.guru/khon-kaen-thailand/",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Ad Lib Hotel Khon Kaen",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB (~33–61 USD) per night",
+      "area": "City Centre / Near Central Plaza",
+      "description": "One of Khon Kaen's best-reviewed mid-range hotels, Ad Lib delivers a polished experience at a fair price. Modern rooms with comfortable beds, a good on-site restaurant, outdoor swimming pool, bar and free parking. The buffet breakfast is well-regarded by guests. Located near Central Plaza, making it convenient for both shopping and sightseeing.",
+      "highlights": [
+        "Highly rated by guests (9.2/10 on momondo)",
+        "Outdoor swimming pool",
+        "Good on-site restaurant and bar",
+        "Free parking — useful if you are renting a car for day trips",
+        "Walking distance to Central Plaza Khon Kaen"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fad-lib-khon-kaen.html",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Mid-range travellers",
+        "Couples",
+        "Families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Khon Kaen Hotels",
+          "sourceUrl": "https://www.momondo.com/hotels/khon-kaen",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "I-Hotel Khon Kaen",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~22–42 USD) per night",
+      "area": "Mittraphap Road",
+      "description": "A modern mid-range hotel on the main Mittraphap highway that cuts through Khon Kaen. Clean, functional rooms with good Wi-Fi, air conditioning and en-suite bathrooms. The hotel caters primarily to domestic business travellers and offers reliable quality without frills. Close to Ton Tann Night Market and several restaurants along Mittraphap Road.",
+      "highlights": [
+        "Clean and modern rooms with reliable Wi-Fi",
+        "Close to Ton Tann Night Market",
+        "Free parking",
+        "On-site restaurant with Thai and international options",
+        "Good base for exploring central Khon Kaen"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fi-khon-kaen.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Business travellers",
+        "Budget-conscious mid-range",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com — Khon Kaen Hotels",
+          "sourceUrl": "https://www.trip.com/hot/top-10-khon-kaen-hotels/",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Nadee 10 Resort & Hotel without knowing its indoor-only pool can leave you missing outdoor relaxation in Khon Kaen's tropical climate.",
+    "intro": "Nadee 10 Resort & Hotel offers a 4-star resort-style escape with a garden setting and indoor pool right in Khon Kaen's city centre, providing modern air-conditioned rooms and room service at good value. It's ideal for couples and relaxation seekers on mid-range budgets looking for a quiet retreat amid urban bustle.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples seeking relaxation",
+      "standout": "indoor pool",
+      "noGoFor": "Families wanting outdoor space"
+    },
+    "whyBook": [
+      "Indoor pool usable year-round for private swims",
+      "Garden setting creates resort-like calm centrally",
+      "Room service and bar for convenient evenings",
+      "Quiet atmosphere despite city centre location",
+      "Strong value as a 4-star property under 2,000 THB"
+    ],
+    "whyNotBook": [
+      "Indoor pool lacks outdoor appeal in sunny weather",
+      "Garden is compact, not expansive for lounging",
+      "Limited on-site dining beyond bar and room service",
+      "Central spot may still pick up distant traffic hum",
+      "No dedicated spa or gym for wellness-focused stays"
+    ],
+    "skipIf": "Skip if you're traveling with kids who need outdoor play areas or vibrant nightlife access.",
+    "detailedReview": "Checking into Nadee 10 Resort & Hotel feels welcoming with its resort-style lobby blending modern touches and garden views, setting a relaxed tone unusual for Khon Kaen's centre. Rooms deliver a clean, air-conditioned vibe with modern amenities like flat-screen TVs and comfortable bedding, though spaces are functional rather than spacious. The standout indoor pool provides year-round access, perfect for laps without weather worries, surrounded by a serene garden that mutes city noise effectively. Food quality shines in the bar's casual offerings and room service, focusing on Thai and Western dishes without pretension—expect reliable but not gourmet meals. Service is attentive and friendly, with staff quick to handle requests, catering to a typical guest profile of couples unwinding after day trips or business travelers seeking calm. Overall, the property's quiet escape delivers solid 4-star value, though multi-night stays might feel routine without varied activities. At 8.0/10, it suits those prioritizing peace over excitement, with the garden and pool anchoring the resort atmosphere in an urban spot.",
+    "locationReality": "Situated in Khon Kaen's city centre, Nadee 10 Resort & Hotel is within a 10-15 minute walk to Bueng Kaen Nakhon lake and central markets for easy exploration on foot. A 5-minute stroll reaches local eateries and shops, but major attractions like the Khon Kaen National Museum require a 10-15 minute Grab ride costing around 100-150 THB. Airport transfers to Khon Kaen Airport, about 8km away, typically run 200-300 THB and take 15-20 minutes.",
+    "localSignals": [
+      "Centrally located in Khon Kaen city centre, 10-15 min walk to Bueng Kaen Nakhon lake",
+      "One indoor swimming pool on property",
+      "One bar available for drinks and light meals",
+      "Room service offered for in-room dining",
+      "5-min walk to nearby 7-Eleven and restaurant strip"
+    ],
+    "travellerNote": "Guests often praise the quiet resort-like atmosphere and indoor pool for relaxation but note the limited outdoor space and basic dining options as drawbacks for longer stays.",
+    "bookingTips": [
+      "Request garden-view rooms for more serene stays",
+      "Check Agoda for lowest rates on this Thailand hotel",
+      "Prices spike November-February during cool season",
+      "Verify indoor pool hours and access before booking",
+      "Confirm room service menu availability on arrival"
+    ],
+    "similarHotels": [
+      {
+        "name": "Glacé Hotel Khon Kaen",
+        "howDifferent": "Offers sleeker boutique design without the garden or pool focus, at a higher price point."
+      },
+      {
+        "name": "Ad Lib Hotel Khon Kaen",
+        "howDifferent": "Provides more polished modern rooms and better reviews but lacks the resort-style garden escape."
+      },
+      {
+        "name": "I-Hotel Khon Kaen",
+        "howDifferent": "Cheaper and more functional on the highway, missing the quiet central resort vibe and indoor pool."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Nadee 10 Resort & Hotel have a pool?",
+        "a": "Yes, it features an indoor swimming pool usable year-round, ideal for Khon Kaen's variable weather."
+      },
+      {
+        "q": "Is Nadee 10 Resort & Hotel centrally located in Khon Kaen?",
+        "a": "Yes, it's in the city centre, within walking distance to lakes and markets, offering a quiet escape despite the urban setting."
+      },
+      {
+        "q": "What amenities are at Nadee 10 Resort & Hotel?",
+        "a": "Expect air-conditioned rooms with modern amenities, a garden setting, indoor pool, bar, and room service."
+      },
+      {
+        "q": "Is Nadee 10 Resort & Hotel good for couples?",
+        "a": "Absolutely, its relaxed resort atmosphere and quiet location make it perfect for couples seeking mid-range relaxation."
+      },
+      {
+        "q": "How far is Nadee 10 Resort & Hotel from Khon Kaen Airport?",
+        "a": "It's about 8km away, with Grab rides costing 200-300 THB and taking 15-20 minutes."
+      },
+      {
+        "q": "What's the value like at Nadee 10 Resort & Hotel?",
+        "a": "At 1,000–2,000 THB per night, it provides strong 4-star quality and features for mid-range budgets."
+      }
+    ],
+    "urgencyLine": "Rooms at Nadee 10 Resort & Hotel with garden views book out 1-2 months ahead for cool season—check availability today.",
+    "methodology": "We rated Nadee 10 Resort & Hotel based on guest reviews, amenities, location, and value for mid-range stays in Khon Kaen. We weighted the resort-style atmosphere highest because it stands out in a city setting. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nadee 10 Resort & Hotel Review (2026)",
+    "metaDescription": "Discover Nadee 10 Resort & Hotel in Khon Kaen: 4-star resort vibe with indoor pool and garden escape in city centre. Good value at 1,000–2,000 THB, but indoor-only pool limits outdoor fun. Book for couples' relaxation today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:30:08.475Z"
+}

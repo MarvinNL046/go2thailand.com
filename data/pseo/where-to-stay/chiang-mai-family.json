@@ -1,0 +1,266 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "audience": "family",
+  "neighborhoods": [
+    {
+      "name": "Riverside (Wat Ket / Charoen Rat)",
+      "description": "The quieter eastern bank of the Ping River, lined with old wooden shophouses, leafy restaurants, and boutique hotels. Charoen Rat Road has a growing brunch and cafe scene. More residential and peaceful than the Old City, with some of Chiang Mai's finest luxury properties.",
+      "bestFor": "Families & relaxation seekers",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Peaceful atmosphere away from tourist bustle",
+        "Riverside restaurants with garden settings",
+        "Home to 137 Pillars House and other luxury boutiques",
+        "Saturday evening Riverside Night Market (smaller, more local)",
+        "Morning mist over the Ping River is magical"
+      ],
+      "recommendedHotels": [
+        "137 Pillars House",
+        "Melia Chiang Mai"
+      ],
+      "walkingScore": "5/10",
+      "transportNotes": [
+        "15-minute walk or 5-minute Grab to Old City",
+        "Less songthaew coverage — Grab is more reliable here",
+        "Quieter but requires transport for temple-hopping"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Santitham",
+      "description": "A residential neighborhood north of the Old City with a distinctly local vibe — fewer tourists, more Thai families, and authentic street food stalls. Budget accommodation is plentiful, and several well-regarded cooking schools are based here. Increasingly popular with longer-stay travelers and those seeking an authentic daily life experience.",
+      "bestFor": "Budget travelers & long-stayers",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Authentic street food at Thai-local prices",
+        "Monthly rental apartments from 5,000–8,000 THB",
+        "Several local markets with no tourist markup",
+        "Quiet residential streets perfect for cycling",
+        "Quick access to the north gate and Chang Phueak night food stalls"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "5–10 minute songthaew to Old City north gate",
+        "Good for cycling — flat and less traffic than Nimman",
+        "Monthly scooter rental common among long-stayers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Cat is Out of the Office",
+          "sourceUrl": "https://catisoutoftheoffice.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chang Phuak",
+      "description": "Chang Phuak is a district located immediately north of the Old City moat in Chiang Mai. It includes the historic Chang Puak Gate and several temples such as Wat Phra That Doi Kham. The area hosts a Sunday walking street market that attracts locals and visitors for food and goods.",
+      "bestFor": "families, budget travelers",
+      "priceLevel": "€",
+      "highlights": [
+        "Chang Puak Gate",
+        "Wat Phra That Doi Kham",
+        "Chang Phuak Sunday Walking Street"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Old City gates",
+        "Near Chiang Mai Bus Terminal 2"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Chang_Phuak_district"
+        }
+      ]
+    },
+    {
+      "name": "Hang Dong",
+      "description": "Hang Dong is a district south of the city center, featuring residential areas and large shopping centers. It includes markets for local crafts and access to rural attractions. Tourists visit for modern amenities and day trips to nearby villages.",
+      "bestFor": "families, shoppers",
+      "priceLevel": "€€",
+      "highlights": [
+        "Central Festival Chiang Mai",
+        "Hang Dong Market",
+        "Baan Tawai Village nearby"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Songthaews from Old City",
+        "Taxis to shopping malls",
+        "Near Chiang Mai International Airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Hang_Dong_district"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where is the best place to stay in Chiang Mai with kids?",
+    "Which area of Chiang Mai is best to stay in?",
+    "Is Chiang Mai family friendly?",
+    "Where to stay in Chiang Mai for first timers?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Chiang Mai neighbourhood as a family traveller can lead to noisy streets and exhausted kids — most travellers overlook quieter areas beyond the touristy Old City.",
+    "intro": "For family travellers, the most important factor is a peaceful base with easy access to kid-friendly activities and reliable transport to avoid meltdowns. We ranked neighbourhoods on family suitability, walkability, price, and local vibe using Chiang Mai's residential patterns.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Riverside (Wat Ket / Charoen Rat)",
+        "why": "Peaceful riverside relaxation for families"
+      },
+      {
+        "label": "Best value",
+        "name": "Santitham",
+        "why": "Budget stays with authentic local feel"
+      },
+      {
+        "label": "Best for young kids",
+        "name": "Chang Phuak",
+        "why": "Family-friendly temples and markets nearby"
+      }
+    ],
+    "urgencyLine": "Family-friendly spots in Chiang Mai fill up fast during Yi Peng lantern festival — secure Riverside or Chang Phuak accommodations 3-4 months in advance for 2026.",
+    "comparisonTable": [
+      {
+        "name": "Riverside (Wat Ket / Charoen Rat)",
+        "bestFor": "Families & relaxation seekers",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "quiet local",
+        "drawback": "Fewer evening entertainment options"
+      },
+      {
+        "name": "Santitham",
+        "bestFor": "Budget travelers & long-stayers",
+        "priceBand": "€",
+        "walkability": "Low",
+        "vibe": "laid-back local",
+        "drawback": "Limited tourist amenities nearby"
+      },
+      {
+        "name": "Chang Phuak",
+        "bestFor": "families, budget travelers",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "traditional local",
+        "drawback": "Can get crowded on Sundays"
+      },
+      {
+        "name": "Hang Dong",
+        "bestFor": "families, shoppers",
+        "priceBand": "€€",
+        "walkability": "Low",
+        "vibe": "modern residential",
+        "drawback": "Far from city center attractions"
+      }
+    ],
+    "decisionGuide": [
+      "If you prioritize relaxation and mid-range comfort, choose Riverside (Wat Ket / Charoen Rat).",
+      "If you're on a tight budget with kids, choose Santitham.",
+      "If you want walkable temples for family outings, choose Chang Phuak.",
+      "If shopping and modern amenities matter most, choose Hang Dong.",
+      "If avoiding tourist crowds is key, choose Santitham or Riverside (Wat Ket / Charoen Rat).",
+      "If you need space for family activities, avoid central spots and choose Hang Dong."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Riverside (Wat Ket / Charoen Rat)",
+        "why": "This area tops for families due to its peaceful riverside setting and boutique options, beating Chang Phuak's busier vibe by offering more relaxation without sacrificing access to cafes. It balances mid-range pricing with leafy, residential charm ideal for downtime with kids.",
+        "drawback": "Transport to farther attractions requires short tuk-tuk rides.",
+        "skipIf": "Skip if you're seeking ultra-budget options under €40 per night.",
+        "localSignals": [
+          "Walking to Charoen Rat Road cafes: 5-10 min",
+          "Grab from Chiang Mai Airport to Wat Ket: 20-30 min",
+          "Distance to Ping River: immediate eastern bank"
+        ],
+        "travellerNote": "Travellers often praise the serene shophouses and family-oriented brunch spots but note occasional traffic on Charoen Rat Road during peak hours."
+      },
+      {
+        "rank": 2,
+        "name": "Chang Phuak",
+        "why": "Chang Phuak suits families with its historic gates and Sunday market, edging out Santitham by providing better walkability to temples while keeping costs low. It offers a traditional yet accessible base for budget-conscious parents exploring with kids.",
+        "drawback": "Sunday walking street brings weekend crowds that can overwhelm young children.",
+        "skipIf": "Skip if you prefer luxury stays over budget guesthouses.",
+        "localSignals": [
+          "Walking to Chang Puak Gate: 5 min from center",
+          "Grab from Chiang Mai Airport to district: 15-25 min",
+          "Distance to Wat Phra That Doi Kham: short walk"
+        ],
+        "travellerNote": "Travellers often praise the authentic family markets and temple visits but note limited upscale dining choices."
+      },
+      {
+        "rank": 3,
+        "name": "Hang Dong",
+        "why": "Hang Dong appeals to shopping-focused families with its markets and rural access, surpassing Santitham for modern amenities but trading centrality for a more spread-out feel. It's a solid pick for those prioritizing space over urban buzz.",
+        "drawback": "Daily transport needs make it less convenient for frequent city trips.",
+        "skipIf": "Skip if walkability to attractions is essential for your family.",
+        "localSignals": [
+          "Grab from Chiang Mai Airport to Hang Dong: 30-40 min",
+          "Distance to local craft markets: 10-15 min drive",
+          "Near large shopping centers south of center"
+        ],
+        "travellerNote": "Travellers often praise the family shopping outings and quiet residential areas but note reliance on taxis for most activities."
+      }
+    ],
+    "topPick": "Riverside (Wat Ket / Charoen Rat)",
+    "topPickReason": "Riverside (Wat Ket / Charoen Rat) stands out for families seeking a tranquil yet convenient base with mid-range options and easy riverfront relaxation.",
+    "bookingTips": [
+      "Book 3-4 months ahead for November festivals when family rooms in Riverside spike 20-30%.",
+      "From Chiang Mai Airport, take a Grab taxi to Wat Ket for 200-300 THB, avoiding airport touts.",
+      "Avoid booking on noisy blocks near Charoen Rat Road bridges; opt for quieter shophouse alleys.",
+      "In rainy season (June-Oct), choose upper-floor rooms to dodge street flooding in low areas.",
+      "Prioritize hotels with family suites or connecting rooms for groups with young kids.",
+      "Steer clear of unverified tuk-tuk drivers near the Ping River to prevent overcharging."
+    ],
+    "methodology": "We compared Chiang Mai neighbourhoods based on walkability, price level, transport access, and suitability for family travellers. We weighted family-friendly vibe and relaxation highest because parents prioritize safe, low-stress bases over nightlife. Rankings reflect residential patterns plus typical family needs like kid amenities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/areas/chiang-mai/riverside-wat-ket-charoen-rat/",
+      "/guides/where-to-stay/chiang-mai/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Chiang Mai'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Riverside (Wat Ket / Charoen Rat)'"
+    ],
+    "faq": [
+      {
+        "q": "Where is the best place to stay in Chiang Mai with kids?",
+        "a": "Riverside (Wat Ket / Charoen Rat) is ideal for families with kids, offering quiet riverside walks and mid-range hotels away from crowds. It provides relaxation while staying close to family-friendly cafes."
+      },
+      {
+        "q": "Which area of Chiang Mai is best to stay in?",
+        "a": "For family travellers, Chang Phuak ranks high with its walkable temples and budget options suitable for kids. Avoid busier spots if peace is key."
+      },
+      {
+        "q": "Is Chiang Mai family friendly?",
+        "a": "Yes, Chiang Mai is family friendly with neighbourhoods like Riverside and Chang Phuak featuring safe residential vibes and kid-oriented markets. Focus on areas north or east of the Old City for less hustle."
+      },
+      {
+        "q": "Where to stay in Chiang Mai for first timers?",
+        "a": "First-time family visitors should stay in Riverside (Wat Ket / Charoen Rat) for its peaceful introduction to local life and easy access to attractions. It eases into Chiang Mai without overwhelming tourist zones."
+      }
+    ],
+    "metaTitle": "Where to Stay in Chiang Mai for Families (2026)",
+    "metaDescription": "Discover the best Chiang Mai areas for family travellers in 2026, from peaceful Riverside to budget Chang Phuak. Find kid-friendly spots with relaxation…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:31:58.691Z"
+}

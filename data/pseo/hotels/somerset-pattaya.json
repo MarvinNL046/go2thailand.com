@@ -1,0 +1,204 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "somerset-pattaya",
+  "hotel": {
+    "name": "Somerset Pattaya",
+    "category": "mid-range",
+    "priceRange": "2,000–3,500 THB/night (~$56–98 USD)",
+    "area": "Central Pattaya",
+    "description": "Serviced apartments ideal for longer stays, with full kitchens, washing machines, and spacious living areas. Located on Second Road in the heart of Central Pattaya with a pool, gym, and minimart. Excellent value for families or digital nomads needing a home base.",
+    "highlights": [
+      "Full kitchen and washing machine in every unit",
+      "Swimming pool and gym",
+      "Central location near Terminal 21"
+    ],
+    "bestFor": [
+      "families",
+      "long-stay travelers",
+      "digital nomads"
+    ],
+    "reviewScore": "4.4/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSomerset%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Areca Lodge",
+      "category": "budget",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Central Pattaya",
+      "description": "A solid mid-budget hotel on Second Road in central Pattaya with two pools, a restaurant, and well-maintained rooms. The central location means you're walking distance to Beach Road, Central Festival mall, and nightlife. Rooms are simple but spacious and consistently clean.",
+      "highlights": [
+        "Two swimming pools",
+        "Central location on Second Road",
+        "Restaurant and bar on-site"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Pattaya-Hotels.25054.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAreca%2520Lodge%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "D Varee Jomtien Beach",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–84 USD)",
+      "area": "Jomtien Beach",
+      "description": "A modern hotel directly across the road from Jomtien Beach with an infinity pool, gym, and multiple dining options. Rooms are contemporary with sea-view balconies available. The Jomtien location offers a more relaxed atmosphere compared to central Pattaya, with excellent beachfront restaurants nearby.",
+      "highlights": [
+        "Infinity pool with Jomtien Beach views",
+        "Direct access to Jomtien Beach across the road",
+        "Modern rooms with sea-view balconies"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DD%2520Varee%2520Jomtien%2520Beach%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Amari Pattaya",
+      "category": "mid-range",
+      "priceRange": "3,000–5,500 THB/night (~$84–154 USD)",
+      "area": "North Pattaya",
+      "description": "Set on a private headland at the quiet northern end of Pattaya Beach, Amari occupies a prime location with direct beach access and two pools surrounded by tropical gardens. The resort feel is a world away from the Central Pattaya chaos, yet it's only a short songthaew ride to the action.",
+      "highlights": [
+        "Private headland location with direct beach access",
+        "Two pools in tropical garden setting",
+        "Multiple restaurants including Italian and Thai"
+      ],
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmari%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the star rating of Somerset Pattaya?",
+    "How far is Somerset, Pattaya from the beach?",
+    "Is Pattaya good for single men?",
+    "What amenities does Somerset Pattaya offer?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Somerset Pattaya without knowing its apartment-style setup can leave short-stay visitors feeling like they're in a basic condo rather than a hotel.",
+    "intro": "Somerset Pattaya offers serviced apartments with full kitchens, washing machines, and spacious living areas, providing a practical home-away-from-home in the bustling heart of Central Pattaya. It's tailored for families, long-stay travelers, and digital nomads seeking value and convenience over luxury.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "families long-stay nomads",
+      "standout": "full kitchen units",
+      "noGoFor": "short-stay partygoers"
+    },
+    "whyBook": [
+      "Full kitchens enable self-catering for longer trips.",
+      "Washing machines in units suit family stays.",
+      "Central spot near Terminal 21 for easy shopping.",
+      "Pool and gym provide on-site relaxation options.",
+      "Spacious living areas offer home-like comfort."
+    ],
+    "whyNotBook": [
+      "No on-site restaurant means relying on nearby eateries.",
+      "Second Road location exposes rooms to street noise until late.",
+      "Minimart is convenient but lacks diverse dining variety.",
+      "Apartment vibe feels more residential than resort-like.",
+      "No direct beach access requires a short walk or ride."
+    ],
+    "skipIf": "Skip if you're a solo traveler seeking vibrant nightlife without family-oriented amenities.",
+    "detailedReview": "Checking into Somerset Pattaya feels straightforward and efficient, with staff handling the process quickly at the front desk on Second Road. The rooms deliver on their serviced apartment promise: each unit comes equipped with a full kitchen including stove, fridge, and utensils, plus a washing machine tucked into the bathroom area, making it easy to manage laundry during extended stays. Living spaces are genuinely roomy, often with separate sleeping and seating zones that accommodate families without feeling cramped. The standout amenity is the swimming pool on the upper levels, a simple but refreshing spot surrounded by lounge chairs, paired with a compact gym featuring basic cardio and weights equipment. Food-wise, there's no full restaurant, just a minimart for essentials, so guests typically head out for meals—service is friendly but functional, with housekeeping stopping by daily for those in apartments. The typical guest profile leans toward families unpacking for a week or digital nomads setting up laptops in the living areas, drawn by the 4.4/5 TripAdvisor score reflecting solid value in Central Pattaya. While not flashy, the setup supports practical needs like cooking breakfast or washing clothes mid-trip, though the urban hum from below reminds you of the city's pulse.",
+    "locationReality": "Somerset Pattaya sits on Second Road in Central Pattaya, about a 10-minute walk to the main Pattaya Beach for sunbathing or water activities. Within a 5-minute stroll, you'll find Terminal 21 mall for shopping and dining, plus street food stalls and convenience stores. For quieter Jomtien Beach, expect a 10-15 minute Grab ride costing around 150-200 THB.",
+    "localSignals": [
+      "10-minute walk to Pattaya Beach.",
+      "Near Terminal 21 mall, under 5 minutes on foot.",
+      "One swimming pool and one gym on property.",
+      "One minimart for basics, no restaurants mentioned.",
+      "7-Eleven and restaurant strip within 2-minute walk."
+    ],
+    "travellerNote": "Guests often praise the full kitchens and washing machines for enabling independent long stays but note the road noise from Second Road can disrupt light sleepers at night.",
+    "bookingTips": [
+      "Request higher-floor units to minimize Second Road traffic sounds.",
+      "Use Agoda for the cheapest rates on Somerset Pattaya in Thailand.",
+      "Prices spike November to February during high season.",
+      "Verify no breakfast included, as it's apartment-style self-catering.",
+      "Check for any ongoing construction notices near Central Pattaya."
+    ],
+    "similarHotels": [
+      {
+        "name": "Areca Lodge (800–1,500 THB/night (~$22–42 USD)) — A solid mid-budget hotel on Second Road in central Pattaya with two pools, a restaurant, and well-maintained rooms. The central location mea",
+        "howDifferent": "Offers two pools and an on-site restaurant unlike Somerset's single pool and minimart focus."
+      },
+      {
+        "name": "D Varee Jomtien Beach (1,500–3,000 THB/night (~$42–84 USD)) — A modern hotel directly across the road from Jomtien Beach with an infinity pool, gym, and multiple dining options. Rooms are contemporary w",
+        "howDifferent": "Provides direct beach access and infinity pool, contrasting Somerset's urban apartment setup."
+      },
+      {
+        "name": "Amari Pattaya (3,000–5,500 THB/night (~$84–154 USD)) — Set on a private headland at the quiet northern end of Pattaya Beach, Amari occupies a prime location with direct beach access and two pools",
+        "howDifferent": "Delivers beachfront luxury with two pools, differing from Somerset's central serviced apartments."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the star rating of Somerset Pattaya?",
+        "a": "Somerset Pattaya is a serviced apartment complex without a traditional star rating, but it holds a strong 4.4/5 score on TripAdvisor based on guest reviews."
+      },
+      {
+        "q": "How far is Somerset Pattaya from the beach?",
+        "a": "It's about a 10-minute walk to central Pattaya Beach, making it accessible on foot for most guests."
+      },
+      {
+        "q": "Is Pattaya good for single men?",
+        "a": "Pattaya offers lively nightlife and beaches that appeal to single men, though areas like Walking Street can be crowded and best explored cautiously."
+      },
+      {
+        "q": "What amenities does Somerset Pattaya offer?",
+        "a": "Amenities include full kitchens and washing machines in every unit, a swimming pool, gym, and an on-site minimart for convenience."
+      },
+      {
+        "q": "Is Somerset Pattaya family-friendly?",
+        "a": "Yes, its spacious apartments with kitchens and living areas make it ideal for families on longer stays in Central Pattaya."
+      },
+      {
+        "q": "Does Somerset Pattaya have free WiFi?",
+        "a": "WiFi is typically available throughout the property as standard for serviced apartments, though speeds may vary in busier periods."
+      }
+    ],
+    "urgencyLine": "Rooms at Somerset Pattaya with full kitchens book out 1-2 months ahead for high season—check availability today.",
+    "methodology": "We rated Somerset Pattaya based on guest reviews, location accessibility, and amenity practicality from provided data. We weighted the full kitchen and central position highest because they define its value for long-stay travelers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Somerset Pattaya Review (2026)",
+    "metaDescription": "Somerset Pattaya in Central Pattaya: serviced apartments with full kitchens and pool for families & nomads (4.4/5). Note road noise; book for value stays. Check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:13:16.285Z"
+}

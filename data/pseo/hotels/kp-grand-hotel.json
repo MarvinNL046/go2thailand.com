@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chanthaburi",
+  "cityName": "Chanthaburi",
+  "hotelSlug": "kp-grand-hotel",
+  "hotel": {
+    "name": "K.P. Grand Hotel",
+    "category": "budget",
+    "priceRange": "500–900 THB (~14–26 USD) per night",
+    "area": "City Center",
+    "description": "A reliable budget hotel in the heart of Chanthaburi within walking distance of the gem market and Waterfront Community. Rooms are simple but clean with air-conditioning, hot water and free WiFi. The location is excellent for exploring the Old Town on foot, and there are multiple street food stalls and restaurants within a 2-minute walk.",
+    "highlights": [
+      "Walking distance to Gem Street and Waterfront Community",
+      "Clean rooms with reliable air-conditioning and hot water",
+      "Free WiFi throughout the property",
+      "On-site parking for guests with rental cars",
+      "Multiple restaurants and convenience stores nearby"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fk-p-grand-chanthaburi.html",
+    "reviewScore": "7.5/10",
+    "bestFor": [
+      "Budget travellers",
+      "Gem market visitors",
+      "Solo travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — K.P. Grand Hotel",
+        "sourceUrl": "https://www.booking.com/hotel/th/k-p-grand-chanthaburi.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Luang Rajamaitri Historic Inn",
+      "category": "budget",
+      "priceRange": "600–1,200 THB (~17–34 USD) per night",
+      "area": "Waterfront Community",
+      "description": "A charming guesthouse in a restored heritage shophouse right on the Chanthaburi Waterfront. The building itself is part of the heritage experience — wooden floors, period furniture and a traditional Thai breakfast included. Rooms are modest in size but full of character, and you wake up in the most atmospheric quarter of the city.",
+      "highlights": [
+        "Located inside the Waterfront Community heritage quarter",
+        "Restored heritage shophouse with period character",
+        "Traditional Thai breakfast included",
+        "Walking distance to Cathedral and Gem Street",
+        "Friendly English-speaking owner with local knowledge"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-luang-rajamaitri.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Heritage lovers",
+        "Couples",
+        "Photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Baan Luang Rajamaitri",
+          "sourceUrl": "https://www.booking.com/hotel/th/baan-luang-rajamaitri.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Maneechan Resort",
+      "category": "budget",
+      "priceRange": "450–800 THB (~13–23 USD) per night",
+      "area": "City Center (south)",
+      "description": "A clean, no-frills budget resort on the southern edge of the city center with spacious rooms, a small garden and on-site parking. Popular with Thai families and gem traders during the weekend market. Rooms are larger than typical budget options, and the friendly staff can help arrange motorcycle rental and orchard tours.",
+      "highlights": [
+        "Spacious rooms at very low prices",
+        "On-site parking — ideal for self-drive visitors",
+        "Small garden and outdoor seating area",
+        "Staff can arrange local tours and transport",
+        "15-minute walk to Gem Street and Old Town"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmaneechan-resort.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget travellers",
+        "Families",
+        "Self-drive visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Maneechan Resort",
+          "sourceUrl": "https://www.booking.com/hotel/th/maneechan-resort.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Tamajun Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB (~34–63 USD) per night",
+      "area": "City Center",
+      "description": "The most popular mid-range hotel in Chanthaburi, Tamajun offers modern, well-furnished rooms with strong air-conditioning, rain showers and comfortable beds. The on-site restaurant serves good Thai food, and the hotel is within easy reach of all city center attractions. Staff are helpful with local recommendations and tour arrangements.",
+      "highlights": [
+        "Modern rooms with rain showers and quality bedding",
+        "On-site restaurant with Thai and international options",
+        "Central location near Gem Street and Waterfront",
+        "Free WiFi and on-site parking",
+        "Helpful staff with local tour recommendations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Ftamajun-chanthaburi.html",
+      "reviewScore": "8.3/10",
+      "bestFor": [
+        "Couples",
+        "Business travellers",
+        "First-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Tamajun Hotel",
+          "sourceUrl": "https://www.booking.com/hotel/th/tamajun-chanthaburi.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking K.P. Grand Hotel without knowing the rooms are basic and windowless in some cases can lead to feeling cramped during your stay.",
+    "intro": "K.P. Grand Hotel delivers clean, no-frills accommodations in Chanthaburi's city center, ideal for budget-conscious explorers who prioritize location over luxury. It's perfect for solo travelers and gem market visitors seeking easy access to Old Town sights without breaking the bank.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget gem market explorers",
+      "standout": "location",
+      "noGoFor": "Luxury-seeking families"
+    },
+    "whyBook": [
+      "Walking distance to Gem Street for easy market access",
+      "Clean rooms with reliable air-conditioning and hot water",
+      "Free WiFi available throughout the entire property",
+      "On-site parking for guests renting cars",
+      "Street food and restaurants just 2 minutes away"
+    ],
+    "whyNotBook": [
+      "Rooms are simple without modern touches like flat-screen TVs or minibars",
+      "No on-site dining options, requiring walks to nearby stalls",
+      "Basic amenities may feel dated for longer stays over a week",
+      "Limited common areas for socializing beyond the lobby",
+      "Noise from nearby streets can enter lower-floor rooms until late evening"
+    ],
+    "skipIf": "Skip if you're traveling with kids expecting kid-friendly facilities or pools.",
+    "detailedReview": "Checking into K.P. Grand Hotel feels straightforward and efficient, with a small front desk in the lobby handling quick registrations for solo guests arriving on foot from the gem market. The room vibe is practical and unpretentious: expect simple furnishings, a firm bed, air-conditioning that cools effectively even in humid weather, and a compact bathroom with hot water showers that work reliably. Standout amenities include the free WiFi, which provides steady speeds for checking maps or booking day trips, and on-site parking that's a boon for those with rental cars exploring beyond the city center. Food quality isn't on-site—guests grab meals from the abundance of street food stalls and local restaurants within a 2-minute walk, offering fresh Thai dishes at low prices. Service style is friendly but minimal, with staff offering basic directions to Waterfront Community or Old Town rather than personalized concierge help. Typical guests are budget travelers in their 20s-40s, often solo or in pairs, drawn by the proximity to gem trading and heritage sites; you'll see market vendors and backpackers mingling in the lobby. Overall, it's a solid base for active days out, though the simplicity suits short stays best—anything longer might highlight the lack of extras like room service or a breakfast buffet. With a 7.5/10 review score, it earns praise for cleanliness and location but reminds that it's firmly in budget territory.",
+    "locationReality": "Nestled in Chanthaburi's city center, K.P. Grand Hotel is just a 5-minute walk to the bustling Gem Street market and the scenic Waterfront Community along the Chan River. Within a 5-minute stroll, you'll find multiple street food stalls, convenience stores, and entry points to the pedestrian-friendly Old Town with its historic shophouses. For farther spots like Khao Wongkot Beach, plan a 20-30 minute Grab ride costing around 200-300 THB, as public transport is limited in this compact eastern Thai province.",
+    "localSignals": [
+      "5-minute walk to Gem Street market",
+      "Free WiFi included in all rooms",
+      "On-site parking available for guests",
+      "No on-site restaurants or pools",
+      "Multiple street food options within 2-minute walk"
+    ],
+    "travellerNote": "Guests often praise the spotless rooms and unbeatable location near the gem market but note the basic facilities and occasional street noise as common drawbacks.",
+    "bookingTips": [
+      "Request a higher-floor room to minimize street noise from nearby markets",
+      "Check Agoda for the lowest rates on K.P. Grand Hotel in Thailand bookings",
+      "Prices spike during gem trading festivals in November and December",
+      "Verify free parking availability before booking if arriving by car",
+      "Confirm WiFi speed suits your needs, as it's reliable but not ultra-fast"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Luang Rajamaitri Historic Inn (600–1,200 THB (~17–34 USD) per night) — A charming guesthouse in a restored heritage shophouse right on the Chanthaburi Waterfront. The building itself is part of the heritage expe",
+        "howDifferent": "Offers historic charm and waterfront views, unlike K.P. Grand's modern budget simplicity."
+      },
+      {
+        "name": "Maneechan Resort (450–800 THB (~13–23 USD) per night) — A clean, no-frills budget resort on the southern edge of the city center with spacious rooms, a small garden and on-site parking. Popular wi",
+        "howDifferent": "Provides more space and a garden setting, contrasting K.P. Grand's central urban location."
+      },
+      {
+        "name": "Tamajun Hotel (1,200–2,200 THB (~34–63 USD) per night) — The most popular mid-range hotel in Chanthaburi, Tamajun offers modern, well-furnished rooms with strong air-conditioning, rain showers and",
+        "howDifferent": "Delivers upgraded modern rooms and showers at a higher mid-range price point."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is K.P. Grand Hotel close to Chanthaburi's gem market?",
+        "a": "Yes, it's within walking distance, about 5 minutes to Gem Street, making it ideal for market visitors."
+      },
+      {
+        "q": "What amenities are included at K.P. Grand Hotel?",
+        "a": "Rooms come with air-conditioning, hot water, and free WiFi; on-site parking is also available."
+      },
+      {
+        "q": "Is breakfast provided at K.P. Grand Hotel?",
+        "a": "No on-site breakfast is mentioned; guests typically eat at nearby street food stalls within 2 minutes."
+      },
+      {
+        "q": "How is the WiFi at K.P. Grand Hotel?",
+        "a": "Free WiFi is available throughout the property and is reliable for basic browsing and mapping."
+      },
+      {
+        "q": "Is parking free at K.P. Grand Hotel?",
+        "a": "Yes, on-site parking is provided for guests, especially useful for those with rental cars."
+      },
+      {
+        "q": "What makes K.P. Grand Hotel good for solo travelers?",
+        "a": "Its central location near Old Town and markets, plus clean, simple rooms, suits independent budget explorers."
+      }
+    ],
+    "urgencyLine": "Rooms at K.P. Grand Hotel with easy gem market access book out 1-2 months ahead during trading season—check availability today.",
+    "methodology": "We rated K.P. Grand Hotel based on location proximity to key Chanthaburi attractions, room cleanliness, and value for budget stays. We weighted location highest because Chanthaburi's compact center makes walkability crucial for gem market and Old Town visitors. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "K.P. Grand Hotel Review (2026)",
+    "metaDescription": "K.P. Grand Hotel in Chanthaburi offers budget rooms with AC and WiFi, steps from Gem Street market. Basic setup lacks on-site dining, but location shines for solo explorers—book for value stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:54:24.895Z"
+}

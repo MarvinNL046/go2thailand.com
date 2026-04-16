@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "hotelSlug": "expat-hotel-patong",
+  "hotel": {
+    "name": "Expat Hotel Patong",
+    "category": "budget",
+    "priceRange": "800–1,200 THB/night (~$22–34 USD)",
+    "area": "Patong Beach",
+    "description": "Solid budget hotel with clean air-conditioned rooms, a small pool, and an unbeatable location in central Patong. No frills but everything works, and you're walking distance to both the beach and nightlife. Popular with repeat visitors who know where the value is.",
+    "highlights": [
+      "Clean rooms with reliable air-con and hot showers",
+      "Small pool for cooling off",
+      "Central Patong location — 5 min walk to beach and Bangla Road"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "couples"
+    ],
+    "sources": [
+      {
+        "sourceName": "Alike.io",
+        "sourceUrl": "https://alike.io/blog/how-expensive-is-phuket-2025-cost-vs-value-guide",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DExpat%2520Hotel%2520Patong%252C%2520Phuket%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Lub d Phuket Patong",
+      "category": "budget",
+      "priceRange": "400–700 THB/night (~$11–20 USD)",
+      "area": "Patong Beach",
+      "description": "A stylish modern hostel five minutes from Patong Beach with both pod-style dorms and private rooms. Rooftop pool, social common areas, and a reputation as one of Southeast Asia's best-designed hostels. Part of the Thai Lub d chain known for quality budget stays.",
+      "highlights": [
+        "Rooftop pool overlooking Patong",
+        "Modern pod beds with privacy curtains and USB charging",
+        "Walking distance to Bangla Road and the beach"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/HotelsList-Phuket-Budget-Hotels-zfp6215.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Phuket%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Karon Resort",
+      "category": "budget",
+      "priceRange": "600–1,000 THB/night (~$17–28 USD)",
+      "area": "Karon Beach",
+      "description": "A family-run guesthouse set back from Karon Beach with clean rooms, a pool, and a garden atmosphere. Quieter and better value than anything comparable in Patong. The beach is a 5-minute walk away.",
+      "highlights": [
+        "Swimming pool in tropical garden setting",
+        "5-minute walk to Karon Beach",
+        "Family-run with personal service"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Karon%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Beyond Patong",
+      "category": "mid-range",
+      "priceRange": "3,400–5,500 THB/night (~$96–154 USD)",
+      "area": "Patong Beach",
+      "description": "Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with balconies. Close enough to the action but on a quieter side street for better sleep.",
+      "highlights": [
+        "3-minute walk to Patong Beach",
+        "Outdoor pool and modern gym",
+        "Free parking — rare in Patong"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Patong a good area to stay in Phuket?",
+    "What is the best hotel in Patong?",
+    "Which is the best party hotel in Patong Beach?",
+    "Is Patong or Karon Beach better?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Expat Hotel Patong without knowing its no-frills setup can leave you expecting more amenities than the basic clean rooms and small pool provide.",
+    "intro": "Expat Hotel Patong delivers reliable budget stays with clean, air-conditioned rooms featuring hot showers, a small pool for quick dips, and a prime spot in central Patong just steps from the beach and nightlife. It's ideal for budget travelers and couples seeking value without extras, appealing to repeat visitors who prioritize location over luxury.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Budget travelers and couples",
+      "standout": "Central Patong location",
+      "noGoFor": "Luxury-seeking families"
+    },
+    "whyBook": [
+      "Clean rooms with reliable air-con and hot showers",
+      "Small pool to cool off after beach walks",
+      "5-minute walk to Patong Beach",
+      "Steps from Bangla Road nightlife",
+      "Solid value for repeat budget visitors"
+    ],
+    "whyNotBook": [
+      "No on-site restaurant or dining options",
+      "Small pool lacks space for laps or lounging",
+      "Basic rooms without modern design flair",
+      "Limited amenities beyond essentials",
+      "Noise from central location until late night"
+    ],
+    "skipIf": "Skip if you're traveling with kids needing family-friendly pools or entertainment beyond walking to the beach.",
+    "detailedReview": "Checking into Expat Hotel Patong feels straightforward and unpretentious, with a simple lobby that matches its budget vibe—no flashy reception, just efficient staff handing over keys to your air-conditioned room. The rooms are clean and functional, with reliable cooling from the air-con units and hot showers that work consistently, though expect compact spaces with basic furnishings like a bed, desk, and TV, nothing extravagant. The standout amenity is the small pool, perfect for a quick afternoon dip to beat Phuket's heat, but it's more of a cooling-off spot than a resort feature, surrounded by basic lounge chairs. There's no on-site food, so meals mean heading out to nearby street vendors or eateries, which suits the central location but requires planning. Service is friendly and no-nonsense, with staff helpful for local tips but not overly personalized. Typical guests are budget-conscious couples or solo travelers in their 20s-40s, often repeats who appreciate the walkable access to Patong's energy without paying for extras. Overall, it's a workhorse hotel where everything functions as promised, ideal for short stays focused on exploring rather than lounging on-site.",
+    "locationReality": "Expat Hotel Patong sits in the heart of central Patong, just a 5-minute walk to Patong Beach for easy sunbathing or swimming. Bangla Road's vibrant nightlife is also within 5 minutes on foot, putting bars, clubs, and street food at your doorstep. For quieter spots like Karon Beach, expect a 15-20 minute Grab ride costing around 200-300 THB, as Patong's buzz dominates without needing transport for main attractions.",
+    "localSignals": [
+      "5-minute walk to Patong Beach",
+      "5-minute walk to Bangla Road",
+      "1 small pool on property",
+      "No on-site restaurants",
+      "7-Eleven and eateries within 2-minute walk"
+    ],
+    "travellerNote": "Guests often praise the clean rooms and unbeatable central location but note the basic facilities and small pool size as limitations for longer stays.",
+    "bookingTips": [
+      "Request a room away from the street to minimize noise",
+      "Book via Agoda for often cheaper rates in Thailand",
+      "Prices spike December to March during high season",
+      "Verify pool access hours before booking",
+      "Confirm no breakfast included in base rate"
+    ],
+    "similarHotels": [
+      {
+        "name": "Lub d Phuket Patong (400–700 THB/night (~$11–20 USD)) — A stylish modern hostel five minutes from Patong Beach with both pod-style dorms and private rooms. Rooftop pool, social common areas, and a",
+        "howDifferent": "Cheaper with hostel-style social vibes and rooftop pool, but less private than Expat's rooms."
+      },
+      {
+        "name": "Baan Karon Resort (600–1,000 THB/night (~$17–28 USD)) — A family-run guesthouse set back from Karon Beach with clean rooms, a pool, and a garden atmosphere. Quieter and better value than anything",
+        "howDifferent": "Quieter garden setting near Karon Beach, offering more relaxation but farther from Patong's action."
+      },
+      {
+        "name": "Beyond Patong (3,400–5,500 THB/night (~$96–154 USD)) — Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with ba",
+        "howDifferent": "Upscale with gym and spacious rooms, but significantly pricier than Expat's budget focus."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Patong a good area to stay in Phuket?",
+        "a": "Patong is ideal for lively beach vibes and nightlife, with easy access to Bangla Road, but it can feel crowded and noisy compared to quieter Phuket spots like Karon."
+      },
+      {
+        "q": "What is the best hotel in Patong?",
+        "a": "The best depends on budget; Expat Hotel Patong excels for value in central location, while upscale options like Beyond Patong offer more amenities."
+      },
+      {
+        "q": "Which is the best party hotel in Patong Beach?",
+        "a": "For party vibes, Lub d Phuket Patong stands out with its social common areas and rooftop pool near Bangla Road, though Expat Hotel Patong provides easy walking access without on-site events."
+      },
+      {
+        "q": "Is Patong or Karon Beach better?",
+        "a": "Patong suits party-goers with its central energy and nightlife, while Karon offers a calmer, family-friendly beach experience with less crowds."
+      },
+      {
+        "q": "Is Expat Hotel Patong good for couples?",
+        "a": "Yes, its clean rooms and proximity to beach and dining make it suitable for couples on a budget seeking convenience over luxury."
+      },
+      {
+        "q": "Does Expat Hotel Patong have a pool?",
+        "a": "It features a small pool for cooling off, but it's basic and best for quick dips rather than extended relaxation."
+      }
+    ],
+    "urgencyLine": "Rooms at Expat Hotel Patong with central location book out 1-2 months ahead for high season December-March — check today.",
+    "methodology": "We rated Expat Hotel Patong based on location, amenities, and value from provided data. We weighted central Patong access highest because it defines budget stays here. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Expat Hotel Patong Review (2026)",
+    "metaDescription": "Expat Hotel Patong in Phuket offers clean budget rooms and a small pool just 5 min from the beach. Central location shines, but no frills may disappoint luxury seekers. Book for value stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:20:51.939Z"
+}

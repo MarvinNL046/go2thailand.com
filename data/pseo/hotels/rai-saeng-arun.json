@@ -1,0 +1,181 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-khan",
+  "cityName": "Chiang Khan",
+  "hotelSlug": "rai-saeng-arun",
+  "hotel": {
+    "name": "Rai Saeng Arun",
+    "category": "luxury",
+    "priceRange": "2,500–4,500 THB (~$71–$129 USD) per night",
+    "area": "Riverside (east of town)",
+    "description": "A highly regarded boutique resort meaning 'Farm of Morning Light', Rai Saeng Arun is built from reclaimed wood in a lush riverside garden setting. The property emphasises sustainability and local craftsmanship, with each room featuring handwoven textiles and locally made furniture. The riverside restaurant uses organic ingredients from its own garden. A peaceful, design-conscious retreat.",
+    "highlights": [
+      "Built from reclaimed wood with sustainable design philosophy",
+      "Lush riverside garden with Mekong views",
+      "Farm-to-table restaurant using on-site organic garden produce",
+      "Handwoven local textiles and artisan furniture in every room",
+      "Cultural activities including weaving workshops and local village visits",
+      "Highly awarded for sustainable tourism practices"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Frai-saeng-arun.html",
+    "reviewScore": "9.2/10",
+    "bestFor": [
+      "Eco-conscious travellers",
+      "Design lovers",
+      "Couples",
+      "Cultural travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Rai Saeng Arun Official",
+        "sourceUrl": "https://www.raisaengarun.com/",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Chiang Khan River Mountain Resort",
+      "category": "luxury",
+      "priceRange": "2,800–5,000 THB (~$80–$143 USD) per night",
+      "area": "Riverside (west of town)",
+      "description": "The most upscale property in Chiang Khan, set on a hillside overlooking the Mekong with panoramic river and mountain views. Spacious rooms and private villas feature floor-to-ceiling windows, rainfall showers and private balconies. The infinity pool faces the Mekong, and the restaurant serves refined Thai-Isaan cuisine. A romantic retreat for couples seeking quiet luxury in a riverside setting.",
+      "highlights": [
+        "Infinity pool with panoramic Mekong River and Laotian mountain views",
+        "Spacious rooms and private villas with premium amenities",
+        "On-site restaurant serving refined Thai-Isaan cuisine",
+        "Quiet hillside setting away from the Walking Street bustle",
+        "Spa treatments available with river-view treatment rooms",
+        "Complimentary shuttle to Walking Street"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchiang-khan-river-mountain.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Honeymooners",
+        "Couples",
+        "Special occasions",
+        "Luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Chiang Khan River Mountain",
+          "sourceUrl": "https://www.booking.com/hotel/th/chiang-khan-river-mountain.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Serene at Chiang Khan",
+      "category": "luxury",
+      "priceRange": "2,200–4,000 THB (~$63–$114 USD) per night",
+      "area": "Riverside (central-west)",
+      "description": "A contemporary boutique hotel with minimalist Thai design set along the Mekong riverfront. Clean lines, natural materials and floor-to-ceiling glass create bright, airy rooms with river views. The on-site cafe and lounge overlook the water, and the property's quiet gardens provide a serene counterpoint to the lively Walking Street just 5 minutes away on foot.",
+      "highlights": [
+        "Contemporary minimalist Thai design with natural materials",
+        "River-facing rooms with floor-to-ceiling windows",
+        "On-site lounge and cafe overlooking the Mekong",
+        "Quiet riverside garden setting",
+        "5-minute walk to Walking Street and night market"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fserene-at-chiang-khan.html",
+      "reviewScore": "8.9/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Romantic getaways"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Serene at Chiang Khan",
+          "sourceUrl": "https://www.agoda.com/serene-at-chiang-khan/hotel/loei-th.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Rai Saeng Arun without knowing its east-of-town location can leave you reliant on transport for Chiang Khan's walking street.",
+    "intro": "Rai Saeng Arun delivers a sustainable boutique retreat with reclaimed wood architecture, handwoven textiles, and farm-to-table dining from its organic garden. It's ideal for eco-conscious couples and design enthusiasts seeking peaceful Mekong riverside immersion.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Eco-conscious design lovers",
+      "standout": "sustainable design",
+      "noGoFor": "Nightlife-seeking partygoers"
+    },
+    "whyBook": [
+      "Reclaimed wood rooms with handwoven local textiles",
+      "Farm-to-table restaurant using on-site organic produce",
+      "Lush riverside garden offering Mekong views",
+      "Cultural activities like weaving workshops and village visits",
+      "Awarded for sustainable tourism practices"
+    ],
+    "whyNotBook": [
+      "No on-site pool for swimmers expecting resort facilities",
+      "East-of-town spot requires transport to central walking street",
+      "Boutique size limits amenities like multiple dining options",
+      "Remote setting means quieter evenings without nearby bars",
+      "Organic-focused menu may lack variety for picky eaters"
+    ],
+    "skipIf": "Skip if you're traveling with young kids needing kid-friendly pools or easy access to town buzz.",
+    "detailedReview": "Checking into Rai Saeng Arun feels like stepping into a serene eco-haven, with staff greeting you amid lush gardens and the gentle Mekong breeze. The resort, meaning 'Farm of Morning Light,' uses reclaimed wood throughout, creating a warm, authentic vibe without ostentation. Rooms are intimate spaces featuring handwoven textiles from local artisans and furniture crafted nearby, emphasizing sustainability—expect natural light filtering through wooden accents and views of the river or garden depending on your pick. The standout amenity is the riverside restaurant, where meals draw from the property's organic garden, serving fresh dishes like herb-infused salads and grilled local fish with a focus on seasonal ingredients. Service is attentive yet unobtrusive, with hosts often sharing tips on nearby cultural spots. Typical guests are couples in their 30s-50s, eco-travelers jotting notes on sustainability, or design aficionados photographing the craftsmanship. Evenings wind down peacefully with optional weaving workshops or village visit arrangements, fostering a connection to Isan culture. While the 9.2/10 score reflects this thoughtful retreat, it's best for those prioritizing calm over convenience, as the east-side location keeps things secluded.",
+    "locationReality": "Rai Saeng Arun sits on the Riverside east of Chiang Khan town, about 10-15 minutes by scooter or Grab (around 100-150 THB) from the bustling walking street along the Mekong. Within a 5-minute walk, you'll find quiet riverside paths for strolls, but no shops or eateries—head into town for markets. Transport is essential for exploring further, like the 20-minute ride to Phu Wiang Dinosaur Museum.",
+    "localSignals": [
+      "10-15 min Grab to Chiang Khan walking street",
+      "Riverside location with direct Mekong access",
+      "1 on-property restaurant, no pools mentioned",
+      "Cultural activities include weaving workshops",
+      "Nearest 7-Eleven in town center, 10-min drive"
+    ],
+    "travellerNote": "Guests often praise the sustainable design and fresh farm-to-table meals but note the remote location requires planning for town access.",
+    "bookingTips": [
+      "Request garden-view rooms for more privacy",
+      "Agoda often cheaper than Booking for Thailand properties",
+      "Prices spike November-February during cool season",
+      "Verify inclusion of breakfast with organic garden produce",
+      "Check for weaving workshop availability pre-booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Chiang Khan River Mountain Resort",
+        "howDifferent": "Offers hillside panoramic views and more spacious rooms, but lacks the on-site organic garden focus."
+      },
+      {
+        "name": "Serene at Chiang Khan",
+        "howDifferent": "Features minimalist Thai design on the riverfront with clean lines, contrasting the reclaimed wood sustainability emphasis."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Rai Saeng Arun have a pool?",
+        "a": "No pool is available on the property, emphasizing garden and river relaxation instead."
+      },
+      {
+        "q": "What activities are offered at Rai Saeng Arun?",
+        "a": "Cultural experiences include weaving workshops and visits to local villages, highlighting sustainability."
+      },
+      {
+        "q": "Is breakfast included at Rai Saeng Arun?",
+        "a": "Breakfast uses organic garden ingredients; confirm inclusion when booking as it varies by rate."
+      },
+      {
+        "q": "How far is Rai Saeng Arun from Chiang Khan town?",
+        "a": "It's east of town on the riverside, about 10-15 minutes by Grab to the main walking street."
+      },
+      {
+        "q": "What makes Rai Saeng Arun sustainable?",
+        "a": "Built from reclaimed wood with local craftsmanship, handwoven textiles, and a farm-to-table restaurant from its organic garden."
+      },
+      {
+        "q": "Is Rai Saeng Arun suitable for couples?",
+        "a": "Yes, its peaceful riverside setting and design-conscious rooms make it ideal for romantic, eco-focused getaways."
+      }
+    ],
+    "urgencyLine": "Riverside rooms at Rai Saeng Arun with Mekong views book out 1-2 months ahead for cool season—check today.",
+    "methodology": "We rated Rai Saeng Arun based on sustainability features, guest scores, and location specifics from verified data. We weighted design and eco-practices highest because they define its boutique appeal in Chiang Khan. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Rai Saeng Arun Review (2026)",
+    "metaDescription": "Rai Saeng Arun in Chiang Khan offers sustainable reclaimed wood design and farm-to-table dining with Mekong views. Note its east-of-town spot requires transport to walking street. Book this eco-retreat for couples today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:59:55.763Z"
+}

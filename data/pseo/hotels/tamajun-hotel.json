@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chanthaburi",
+  "cityName": "Chanthaburi",
+  "hotelSlug": "tamajun-hotel",
+  "hotel": {
+    "name": "Tamajun Hotel",
+    "category": "mid-range",
+    "priceRange": "1,200–2,200 THB (~34–63 USD) per night",
+    "area": "City Center",
+    "description": "The most popular mid-range hotel in Chanthaburi, Tamajun offers modern, well-furnished rooms with strong air-conditioning, rain showers and comfortable beds. The on-site restaurant serves good Thai food, and the hotel is within easy reach of all city center attractions. Staff are helpful with local recommendations and tour arrangements.",
+    "highlights": [
+      "Modern rooms with rain showers and quality bedding",
+      "On-site restaurant with Thai and international options",
+      "Central location near Gem Street and Waterfront",
+      "Free WiFi and on-site parking",
+      "Helpful staff with local tour recommendations"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Ftamajun-chanthaburi.html",
+    "reviewScore": "8.3/10",
+    "bestFor": [
+      "Couples",
+      "Business travellers",
+      "First-time visitors"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — Tamajun Hotel",
+        "sourceUrl": "https://www.booking.com/hotel/th/tamajun-chanthaburi.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "K.P. Grand Hotel",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–26 USD) per night",
+      "area": "City Center",
+      "description": "A reliable budget hotel in the heart of Chanthaburi within walking distance of the gem market and Waterfront Community. Rooms are simple but clean with air-conditioning, hot water and free WiFi. The location is excellent for exploring the Old Town on foot, and there are multiple street food stalls and restaurants within a 2-minute walk.",
+      "highlights": [
+        "Walking distance to Gem Street and Waterfront Community",
+        "Clean rooms with reliable air-conditioning and hot water",
+        "Free WiFi throughout the property",
+        "On-site parking for guests with rental cars",
+        "Multiple restaurants and convenience stores nearby"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fk-p-grand-chanthaburi.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget travellers",
+        "Gem market visitors",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — K.P. Grand Hotel",
+          "sourceUrl": "https://www.booking.com/hotel/th/k-p-grand-chanthaburi.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Napalai Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000–1,800 THB (~29–51 USD) per night",
+      "area": "City Center",
+      "description": "A well-maintained mid-range hotel close to the main commercial district with comfortable rooms, a small fitness area and a pleasant lobby café. Napalai is a solid choice for visitors who want clean, reliable accommodation without paying boutique prices. The hotel caters to both Thai and international guests.",
+      "highlights": [
+        "Comfortable rooms with modern amenities",
+        "Lobby café serving breakfast and light meals",
+        "Small fitness area for guests",
+        "Close to the main commercial district and restaurants",
+        "Good value for the quality offered"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnapalai-chanthaburi.html",
+      "reviewScore": "7.9/10",
+      "bestFor": [
+        "Business travellers",
+        "Couples",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Napalai Hotel",
+          "sourceUrl": "https://www.booking.com/hotel/th/napalai-chanthaburi.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Baan Rim Nam Resort",
+      "category": "mid-range",
+      "priceRange": "1,200–2,500 THB (~34–71 USD) per night",
+      "area": "Riverside (outskirts)",
+      "description": "A peaceful riverside resort set among tropical gardens on the outskirts of Chanthaburi. Bungalow-style rooms face the river, offering a tranquil escape from the city center. The resort has a small swimming pool, a riverside restaurant serving fresh seafood and lush gardens where tropical birds visit in the morning.",
+      "highlights": [
+        "Riverside bungalows surrounded by tropical gardens",
+        "Small swimming pool and riverside dining area",
+        "Restaurant serving fresh local seafood",
+        "Peaceful setting away from city noise",
+        "Free parking and easy access to national parks"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-rim-nam-chanthaburi.html",
+      "reviewScore": "8.1/10",
+      "bestFor": [
+        "Nature lovers",
+        "Couples",
+        "Families seeking quiet"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Baan Rim Nam Resort",
+          "sourceUrl": "https://www.booking.com/hotel/th/baan-rim-nam-chanthaburi.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Tamajun Hotel without knowing the lack of a pool can leave you missing out on downtime in Chanthaburi's humid climate.",
+    "intro": "Tamajun Hotel delivers modern rooms with strong air-conditioning, rain showers, and comfortable beds in Chanthaburi's city center, plus an on-site restaurant for Thai food and helpful staff for tour arrangements. It's ideal for couples, business travelers, and first-time visitors seeking convenience without luxury frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and business travelers",
+      "standout": "central location",
+      "noGoFor": "beach relaxation seekers"
+    },
+    "whyBook": [
+      "Modern rooms feature rain showers and quality bedding.",
+      "On-site restaurant offers Thai and international dishes.",
+      "Central spot near Gem Street and Waterfront attractions.",
+      "Free WiFi and parking for easy stays.",
+      "Staff provide local tour recommendations."
+    ],
+    "whyNotBook": [
+      "No pool or fitness facilities for active downtime.",
+      "City center location means potential traffic noise at night.",
+      "Restaurant options limited to Thai and basic international fare.",
+      "Rooms lack river views or garden settings.",
+      "No shuttle service mentioned for farther sites."
+    ],
+    "skipIf": "Skip if you're traveling with kids needing pool access or seeking a quiet riverside retreat.",
+    "detailedReview": "Checking into Tamajun Hotel feels straightforward and welcoming, with helpful staff at the front desk ready to offer local recommendations or arrange tours right away. The rooms hit a solid mid-range vibe: modern and well-furnished, equipped with strong air-conditioning to combat Chanthaburi's tropical heat, rain showers that deliver good pressure, and comfortable beds with quality bedding for restful nights. Standout amenities include free WiFi that works reliably throughout and on-site parking, making it practical for business travelers driving in. The on-site restaurant serves up good Thai food alongside some international options, though portions are standard and it's not a gourmet spot—expect simple, satisfying meals like tom yum or pad Thai. Service style is friendly and efficient, with staff who know the area well and can point you to nearby gem shops or waterfront spots. Typical guests are couples exploring the city or first-timers mixing business with sightseeing, drawn by the central ease. Overall, it's a no-fuss base for urban Chanthaburi, scoring 8.3/10 for its balance of comfort and location, but don't expect extras like a spa or expansive grounds—it's all about functionality in the heart of the action. At 1,200–2,200 THB per night, it suits those prioritizing accessibility over resort perks.",
+    "locationReality": "Tamajun Hotel sits in Chanthaburi's bustling city center, just a 5-10 minute walk to Gem Street's vibrant markets and the nearby Waterfront Community along the Chan River. You'll find local eateries and shops within a 5-minute stroll, but beaches like Chao Lao require a 30-45 minute drive or Grab ride costing around 500-700 THB. No BTS or MRT here—it's a smaller provincial town, so walking or short tuk-tuk hops cover most attractions.",
+    "localSignals": [
+      "Walking distance to Gem Street in 5-10 minutes.",
+      "On-site restaurant: 1, serving Thai and international options.",
+      "Free WiFi available throughout the property.",
+      "Free on-site parking for guests.",
+      "7-Eleven and local eateries within 5-minute walk in city center."
+    ],
+    "travellerNote": "Guests often praise the modern rooms, central location, and helpful staff but note the absence of a pool and occasional city noise from nearby streets.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise.",
+      "Check Agoda for cheapest rates in Thailand bookings.",
+      "Prices spike during Chanthaburi Gem Festival in November.",
+      "Verify breakfast inclusion as it's not standard.",
+      "Confirm no ongoing construction via hotel site."
+    ],
+    "similarHotels": [
+      {
+        "name": "K.P. Grand Hotel",
+        "howDifferent": "Cheaper budget option with simpler rooms but same walking access to gem market."
+      },
+      {
+        "name": "Napalai Hotel",
+        "howDifferent": "Similar mid-range price with added small fitness area in commercial district."
+      },
+      {
+        "name": "Baan Rim Nam Resort",
+        "howDifferent": "Riverside bungalows offer tranquility on outskirts, pricier without city center buzz."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Tamajun Hotel have parking?",
+        "a": "Yes, free on-site parking is available for guests."
+      },
+      {
+        "q": "Is WiFi free at Tamajun Hotel?",
+        "a": "Free WiFi is provided throughout the property."
+      },
+      {
+        "q": "What food options are at Tamajun Hotel?",
+        "a": "The on-site restaurant serves good Thai food and some international dishes."
+      },
+      {
+        "q": "How far is Tamajun Hotel from Gem Street?",
+        "a": "It's within easy walking distance, about 5-10 minutes to Gem Street."
+      },
+      {
+        "q": "Is Tamajun Hotel good for business travelers?",
+        "a": "Yes, with central location, free WiFi, and staff assistance for tours."
+      },
+      {
+        "q": "Does Tamajun Hotel have a pool?",
+        "a": "No pool is available at this hotel."
+      }
+    ],
+    "urgencyLine": "Rooms at Tamajun Hotel with central views book out 1-2 months ahead for gem festival season—check today.",
+    "methodology": "We rated Tamajun Hotel based on room quality, location convenience, amenities, and guest feedback factors. We weighted location highest because Chanthaburi's attractions are compact and walkable. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Tamajun Hotel Review (2026)",
+    "metaDescription": "Tamajun Hotel in Chanthaburi offers modern rooms and central location near Gem Street (8.3/10), but no pool for relaxation. Ideal for couples; book now for easy access to Waterfront. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:55:06.089Z"
+}

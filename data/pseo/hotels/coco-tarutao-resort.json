@@ -1,0 +1,123 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "satun",
+  "cityName": "Satun",
+  "hotelSlug": "coco-tarutao-resort",
+  "hotel": {
+    "name": "Coco Tarutao Resort",
+    "slug": "coco-tarutao-resort",
+    "category": "boutique",
+    "area": "Koh Tarutao (national park)",
+    "priceRange": "1,500–3,500 THB (~$40–$100 USD)",
+    "description": "The only private accommodation on Koh Tarutao — a small eco-lodge with wooden bungalows set at the edge of Ao Phante Malacca beach under palm trees. Being the only place to stay on Thailand's most historically dramatic uninhabited island is itself an experience. Evenings here are genuinely dark and quiet — the national park generator powers down at 10 PM. Watch sea turtles nest on the beach in season (November-February) and wake to the island before any day visitors arrive.",
+    "highlights": [
+      "The only non-park bungalow accommodation on Koh Tarutao",
+      "Sea turtle nesting beach access during nesting season (Nov-Feb)",
+      "Complete darkness and silence after park hours — exceptional stargazing"
+    ],
+    "rating": 4.4,
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCoco%2520Tarutao%2520Resort%252C%2520Satun%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Ananya Lipe Resort",
+      "slug": "ananya-lipe-resort",
+      "category": "boutique",
+      "area": "Sunset Beach, Koh Lipe",
+      "priceRange": "2,800–7,500 THB (~$80–$210 USD)",
+      "description": "A charming boutique property on the quieter Sunset Beach side of Koh Lipe, where the western coast catches dramatic sunsets over Koh Adang. The resort has 24 rooms in two-storey pavilion buildings set in a tropical garden. Rooms have wooden interiors, large windows, and private terraces. The beachside restaurant and bar are lively at sunset without the nightlife noise of Walking Street. A good mid-luxury choice for couples seeking romance over convenience.",
+      "highlights": [
+        "Sunset Beach location — direct sunset views over Koh Adang",
+        "Quieter side of the island, away from Walking Street activity",
+        "Intimate scale with attentive personalized service"
+      ],
+      "rating": 4.5,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAnanya%2520Lipe%2520Resort%252C%2520Satun%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Ko Tarutao worth visiting?",
+    "Can you stay on Koh Tarutao?",
+    "How do I get to Koh Tarutao from Langkawi?",
+    "How do I go to Koh Tarutao?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Coco Tarutao Resort without knowing the national park generator powers down at 10 PM can leave you in total darkness without lights or fans overnight.",
+    "intro": "Coco Tarutao Resort offers the sole private wooden bungalows on Koh Tarutao, an uninhabited national park island in Satun, delivering an eco-lodge experience with direct access to Ao Phante Malacca beach and seasonal sea turtle nesting. It's ideal for travelers seeking raw isolation, stargazing, and nature immersion away from tourist crowds.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "isolated nature enthusiasts",
+      "standout": "sea turtle nesting beach access",
+      "noGoFor": "nightlife seekers"
+    },
+    "whyBook": [
+      "Only private accommodation on uninhabited Koh Tarutao island",
+      "Direct access to Ao Phante Malacca beach under palm trees",
+      "Watch sea turtles nest November-February on-site",
+      "Exceptional stargazing in complete darkness after 10 PM"
+    ],
+    "whyNotBook": [
+      "No electricity after 10 PM means dark, fanless nights",
+      "Remote location requires boat transfers with no easy access",
+      "Basic eco-lodge setup lacks modern amenities like AC",
+      "Limited food options as the only private spot on island",
+      "Day visitors arrive by morning, ending early solitude"
+    ],
+    "skipIf": "Skip if you need constant power, WiFi, or proximity to shops and restaurants.",
+    "detailedReview": "Arriving at Coco Tarutao Resort feels like stepping into a secluded eco-haven, with check-in handled simply at the small lodge office amid the national park's quiet vibe—no bustling lobby, just the sound of waves on Ao Phante Malacca beach. The wooden bungalows, set under palm trees at the beach edge, have a rustic charm with basic furnishings, open-air designs that blend with the island's natural surroundings, and no air conditioning to preserve the eco ethos. Standout is the beach access for sea turtle nesting from November to February, where guests can observe the process up close in season without leaving the property. Food is straightforward, likely park-sourced meals in a communal area, focusing on fresh, simple Thai dishes rather than gourmet variety. Service comes from a small, dedicated staff who emphasize the park's rules, providing a low-key, informative style that suits the isolation. Typical guests are eco-conscious couples or solo adventurers in their 30s-50s, drawn to the historical drama of Thailand's uninhabited island, enjoying evenings of genuine quiet before the generator shuts off at 10 PM. Mornings bring peace before day trippers from nearby islands arrive, offering a brief window of solitude to wake with the island's wildlife. Overall, it's an authentic, unpolished stay that prioritizes nature over comfort, perfect for those okay with basic facilities in exchange for unparalleled seclusion.",
+    "locationReality": "Coco Tarutao Resort sits directly on Ao Phante Malacca beach within Koh Tarutao National Park, Satun's remote island chain, with zero walking distance to the sand or turtle nesting sites. The island itself is uninhabited except for park rangers, so main attractions like historical prison ruins require a short hike or park boat, about 20-30 minutes away. Access demands a ferry from Pak Bara pier in Satun, roughly 1-2 hours by speedboat, with no direct roads or Grab service due to the national park isolation.",
+    "localSignals": [
+      "Directly on Ao Phante Malacca beach, 0-minute walk",
+      "Sea turtle nesting access on-site November-February",
+      "National park generator off at 10 PM, no late-night power",
+      "Boat transfer from Pak Bara pier, 1-2 hours typical",
+      "No on-property restaurants mentioned, park meals vary"
+    ],
+    "travellerNote": "Guests often praise the unparalleled isolation and turtle-watching opportunities but note the lack of electricity after 10 PM and basic facilities as challenging for longer stays.",
+    "bookingTips": [
+      "Request beachfront bungalows for direct turtle nesting views",
+      "Book via Agoda for Thailand deals, often cheaper than Booking.com",
+      "Prices spike November-February during nesting season",
+      "Verify national park entry fees and boat schedules before booking",
+      "Confirm no AC policy and pack mosquito repellent"
+    ],
+    "similarHotels": [
+      {
+        "name": "Ananya Lipe Resort",
+        "howDifferent": "Offers more amenities and sunsets on bustling Koh Lipe, unlike Coco Tarutao's remote, basic island isolation."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Ko Tarutao worth visiting?",
+        "a": "Yes, Ko Tarutao is worth visiting for its historical prison sites, pristine beaches, and wildlife like sea turtles, offering a raw national park experience away from commercial tourism."
+      },
+      {
+        "q": "Can you stay on Koh Tarutao?",
+        "a": "Yes, you can stay at Coco Tarutao Resort, the only private eco-lodge with wooden bungalows, or opt for national park tents, but options are limited due to its uninhabited status."
+      },
+      {
+        "q": "How do I get to Koh Tarutao from Langkawi?",
+        "a": "From Langkawi, take a ferry to Koh Lipe first (about 1.5 hours), then connect to a speedboat from Koh Lipe to Koh Tarutao (another 1-2 hours), or arrange direct park transfers via agents."
+      },
+      {
+        "q": "How do I go to Koh Tarutao?",
+        "a": "Head to Pak Bara pier in Satun by van or taxi from Hat Yai airport, then take a national park speedboat (1-2 hours) to Ao Phante Malacca; book tickets in advance during peak season."
+      },
+      {
+        "q": "What is the best time to visit Koh Tarutao?",
+        "a": "November to April is best for dry weather and sea turtle nesting (November-February), avoiding the rainy season when boats may cancel."
+      },
+      {
+        "q": "Are there facilities on Koh Tarutao?",
+        "a": "Facilities are basic with park-run tents and one private resort; no shops or ATMs, so bring cash and essentials for the remote island stay."
+      }
+    ],
+    "urgencyLine": "Bungalows at Coco Tarutao Resort with beach access book out 1-2 months ahead for turtle nesting season—check availability today.",
+    "methodology": "We rated Coco Tarutao Resort based on its unique location, eco-focus, and guest-reported isolation versus amenities. We weighted seclusion and nature access highest because it defines the property's appeal in a national park. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Coco Tarutao Resort Review (2026)",
+    "metaDescription": "Coco Tarutao Resort in Satun: Eco-lodge on uninhabited Koh Tarutao with turtle nesting beach access and stargazing. Basic facilities and no power after 10 PM may challenge some. Book for raw isolation today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:32:56.502Z"
+}

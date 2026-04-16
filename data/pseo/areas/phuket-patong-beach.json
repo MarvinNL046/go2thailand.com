@@ -1,0 +1,253 @@
+{
+  "template": "area-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "areaSlug": "patong-beach",
+  "areaName": "Patong Beach",
+  "neighborhood": {
+    "name": "Patong Beach",
+    "description": "Phuket's most famous and busiest beach area. The epicenter of nightlife (Bangla Road), shopping (Jungceylon Mall), and mass tourism. The beach itself is wide but crowded, and the streets are chaotic with tuk-tuks, massage shops, and restaurants. If you want nonstop energy and the convenience of having everything at your doorstep, this is it.",
+    "bestFor": "Nightlife & first-timers",
+    "priceLevel": "Budget to Mid-Range",
+    "highlights": [
+      "Bangla Road walking street — Phuket's nightlife epicenter",
+      "Widest range of hotels, restaurants, and tour operators on the island",
+      "Jungceylon Mall for shopping and rainy-day entertainment",
+      "Every tour operator picks up from Patong",
+      "Best public transport connections via Smart Bus"
+    ],
+    "recommendedHotels": [
+      "Lub d Phuket Patong",
+      "Beyond Patong",
+      "Millennium Resort Patong"
+    ],
+    "walkingScore": "7/10",
+    "transportNotes": [
+      "Smart Bus stop on the main road",
+      "Tuk-tuks everywhere but overpriced (400+ THB)",
+      "Walking distance to everything within Patong"
+    ],
+    "sources": [
+      {
+        "sourceName": "Bren on the Road",
+        "sourceUrl": "https://brenontheroad.com/where-to-stay-in-phuket-everything-you-need-to-know/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Lub d Phuket Patong",
+      "category": "budget",
+      "priceRange": "400–700 THB/night (~$11–20 USD)",
+      "area": "Patong Beach",
+      "description": "A stylish modern hostel five minutes from Patong Beach with both pod-style dorms and private rooms. Rooftop pool, social common areas, and a reputation as one of Southeast Asia's best-designed hostels. Part of the Thai Lub d chain known for quality budget stays.",
+      "highlights": [
+        "Rooftop pool overlooking Patong",
+        "Modern pod beds with privacy curtains and USB charging",
+        "Walking distance to Bangla Road and the beach"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/HotelsList-Phuket-Budget-Hotels-zfp6215.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Phuket%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Beyond Patong",
+      "category": "mid-range",
+      "priceRange": "3,400–5,500 THB/night (~$96–154 USD)",
+      "area": "Patong Beach",
+      "description": "Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with balconies. Close enough to the action but on a quieter side street for better sleep.",
+      "highlights": [
+        "3-minute walk to Patong Beach",
+        "Outdoor pool and modern gym",
+        "Free parking — rare in Patong"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Millennium Resort Patong",
+      "category": "mid-range",
+      "priceRange": "5,000–8,000 THB/night (~$140–225 USD)",
+      "area": "Patong Beach",
+      "description": "Five-star facilities directly on Patong Beach with multiple pools, full spa, and several restaurants. Rooms are large with modern furnishings. The beachfront location combined with resort-level amenities makes it the best upscale option in Patong.",
+      "highlights": [
+        "Direct beachfront on Patong Beach",
+        "Multiple pools and full-service spa",
+        "Five-star facilities at competitive rates"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMillennium%2520Resort%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Expat Hotel Patong",
+      "category": "budget",
+      "priceRange": "800–1,200 THB/night (~$22–34 USD)",
+      "area": "Patong Beach",
+      "description": "Solid budget hotel with clean air-conditioned rooms, a small pool, and an unbeatable location in central Patong. No frills but everything works, and you're walking distance to both the beach and nightlife. Popular with repeat visitors who know where the value is.",
+      "highlights": [
+        "Clean rooms with reliable air-con and hot showers",
+        "Small pool for cooling off",
+        "Central Patong location — 5 min walk to beach and Bangla Road"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Alike.io",
+          "sourceUrl": "https://alike.io/blog/how-expensive-is-phuket-2025-cost-vs-value-guide",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DExpat%2520Hotel%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Kata Beach",
+    "Karon Beach",
+    "Surin & Bang Tao (Laguna)",
+    "Rawai & Nai Harn",
+    "Phuket Old Town"
+  ],
+  "paaQuestions": [
+    "Is Patong a good area to stay in Phuket?",
+    "Where is the nicest part of Phuket to stay?",
+    "What happens at Patong Beach at night?",
+    "Is it better to stay in Patong or Kata Beach?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Patong Beach can trap you in overpriced, noisy alleys away from the beach — most first-timers book too far inland and spend hours navigating tuk-tuk chaos.",
+    "intro": "Patong Beach stands out as Phuket's bustling heart, packed with nightlife on Bangla Road, shopping at Jungceylon Mall, and easy access to tours, making it ideal for those craving constant action. We ranked it highly for first-timers seeking convenience over tranquility, prioritizing walkability and entertainment options.",
+    "vibe": "Buzzing + party central",
+    "quickStats": {
+      "priceBand": "€-€€",
+      "walkability": "High",
+      "bestFor": "Nightlife & first-timers",
+      "safetyNote": "Busy crowds, watch for pickpockets at night."
+    },
+    "detailedDescription": "In Patong Beach, days start with the wide sandy stretch filling up by 10am with sunbathers dodging roaming vendors selling sarongs and grilled corn, while the shoreline hums with jet ski rentals and beach volleyball games. Streets like Rat-U-Thit 200 Pee buzz with locals running massage parlors and fruit stalls, mixing with tourists haggling for souvenirs; workers here are a blend of Thai families who've called it home for decades and seasonal migrants from Bangkok staffing the bars. By afternoon, the area shifts to shopping crowds at Jungceylon Mall, where air-conditioned aisles offer everything from knockoff watches to bubble tea. Night transforms it entirely—Bangla Road explodes into a neon-lit frenzy of go-go bars, live music spilling from open-air pubs, and street food carts dishing out pad thai and som tam amid thumping bass until 3am. Noise levels peak here, with motorbikes revving and party chatter echoing off high-rises, rarely dipping below moderate even in side sois. Food options range from beachside shacks serving fresh seafood to mid-range spots like No.6 Restaurant for cheap local eats. Getting around means short walks to most spots within the 2km core, but tuk-tuks swarm for quick hops, often charging 400 THB for short rides; the Smart Bus stop on the main road connects to Phuket Town for 50 THB.",
+    "localSignals": [
+      "No BTS/MRT in Phuket; Smart Bus stop on Rat-U-Thit 200 Pee Road, 2-5 min walk from beach center.",
+      "Grab or taxi from Phuket International Airport: 800-1,200 THB, 45-60 min drive.",
+      "Bangla Road walking street: 5-10 min walk from Patong Beach shoreline.",
+      "Noise level at night: loud, especially on Bangla Road until 3am.",
+      "7-Eleven clusters every 200m along Rat-U-Thit Road; Jungceylon Mall has pharmacy and supermarket."
+    ],
+    "pros": [
+      "Bangla Road nightlife steps away",
+      "Jungceylon Mall for shopping convenience",
+      "Tour pickups from every hotel",
+      "Smart Bus links to island spots",
+      "Wide beach for daytime activities"
+    ],
+    "cons": [
+      "Tuk-tuks overcharge at 400+ THB for short rides",
+      "Beach crowds peak midday with persistent vendors",
+      "Noise from bars until 3am disrupts sleep",
+      "Traffic jams on Rat-U-Thit Road during evenings",
+      "Massage shop touts hassle walkers constantly"
+    ],
+    "skipIf": "Skip if you want peaceful evenings without party crowds or vendor interruptions.",
+    "stayRecommendations": [
+      {
+        "name": "Lub d Phuket Patong",
+        "why": "Its central location five minutes from the beach puts first-timers right in the social energy of Patong's nightlife and common areas."
+      },
+      {
+        "name": "Beyond Patong",
+        "why": "Just a 3-minute walk to the beach, it offers modern rooms with balconies ideal for soaking in Patong's chaotic street vibe without being overwhelmed."
+      },
+      {
+        "name": "Millennium Resort Patong",
+        "why": "Direct beachfront access with pools and spa provides a luxurious escape amid Patong's bustle for those wanting convenience and comfort."
+      },
+      {
+        "name": "Expat Hotel Patong",
+        "why": "Unbeatable central spot with a small pool keeps budget travelers walking distance to Patong's restaurants and Bangla Road action."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Kata Beach",
+        "shortPitch": "Kata offers quieter sands and fewer crowds than Patong's nonstop party scene, with a more relaxed beach vibe.",
+        "recommendFor": "Families or couples seeking calm"
+      },
+      {
+        "areaName": "Karon Beach",
+        "shortPitch": "Karon provides longer, less commercialized beaches compared to Patong's vendor-packed shore and chaotic streets.",
+        "recommendFor": "Beach purists avoiding nightlife"
+      },
+      {
+        "areaName": "Surin & Bang Tao (Laguna)",
+        "shortPitch": "Surin delivers upscale luxury resorts and serene waters, contrasting Patong's budget energy and mass tourism.",
+        "recommendFor": "High-end travelers wanting exclusivity"
+      }
+    ],
+    "travellerNote": "Travellers often praise the easy access to nightlife and tours but note the overwhelming crowds and persistent noise that can exhaust those not seeking constant stimulation.",
+    "faq": [
+      {
+        "q": "Is Patong a good area to stay in Phuket?",
+        "a": "Yes, Patong suits first-timers and nightlife lovers with its central location and variety of options, though it may overwhelm those preferring quiet. Consider it if energy is your priority."
+      },
+      {
+        "q": "Where is the nicest part of Phuket to stay?",
+        "a": "The 'nicest' depends on style—Patong excels for vibrant convenience, but Surin & Bang Tao offer upscale serenity. For luxury beaches, choose Surin over Patong's bustle."
+      },
+      {
+        "q": "What happens at Patong Beach at night?",
+        "a": "Patong Beach turns into a lively extension of Bangla Road's party scene, with bars, street performers, and crowds spilling onto the sand until late. It's ideal for social nights but noisy for early sleepers."
+      },
+      {
+        "q": "Is it better to stay in Patong or Kata Beach?",
+        "a": "Patong is better for nonstop action and first-timers wanting everything nearby, while Kata suits those seeking quieter beaches with some dining. Pick Patong if nightlife trumps relaxation."
+      },
+      {
+        "q": "How walkable is Patong Beach?",
+        "a": "With a 7/10 walking score, most hotels, restaurants, and Bangla Road are within 10-15 minutes on foot, though tuk-tuks help for longer hauls."
+      },
+      {
+        "q": "What's the best transport in Patong?",
+        "a": "Smart Bus on the main road connects affordably to other areas, while tuk-tuks are ubiquitous but pricey—use Grab for better rates from the airport or within Phuket."
+      }
+    ],
+    "urgencyLine": "Patong Beach hotels near Bangla Road fill up fast during peak season from November to April—book 3-4 months ahead for prime spots.",
+    "methodology": "We compared Patong Beach to Kata Beach and Karon Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted nightlife access highest because it defines Patong's appeal for first-timers over quieter alternatives. Last updated: 2026-04.",
+    "metaTitle": "Staying in Patong Beach, Phuket (2026)",
+    "metaDescription": "Stay in Patong Beach, Phuket for epic Bangla Road nightlife and walkable convenience to tours and malls. Compare areas and see hotels for your 2026 trip…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:22:10.832Z"
+}

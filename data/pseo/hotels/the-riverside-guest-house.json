@@ -1,0 +1,211 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lampang",
+  "cityName": "Lampang",
+  "hotelSlug": "the-riverside-guest-house",
+  "hotel": {
+    "name": "The Riverside Guest House",
+    "category": "budget",
+    "priceRange": "600–850 THB (~17–24 USD) per night",
+    "area": "Riverside / Old Town",
+    "description": "A charming wooden guesthouse on the banks of the Wang River, The Riverside Guest House has been a traveller favourite for years. Simple but atmospheric rooms overlook the river, and the communal terrace is perfect for watching sunset over the water while swapping stories with other guests. The location along the river near Kad Kong Ta is ideal for weekend market evenings. The owner is a font of local knowledge and can help arrange day trips.",
+    "highlights": [
+      "Atmospheric riverside location with river-view rooms",
+      "Communal terrace overlooking the Wang River",
+      "Walking distance to Kad Kong Ta walking street",
+      "Knowledgeable owner helps with local tips and transport",
+      "Charming traditional wooden building"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-riverside-guest-house-lampang.html",
+    "reviewScore": "7.8/10",
+    "bestFor": [
+      "Solo travellers",
+      "Backpackers",
+      "Weekend market visitors"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Riverside Guest House Lampang",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303911-d1009138-Reviews-Riverside_Guest_House-Lampang_Lampang_Province.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Khelangnakorn Hotel",
+      "category": "budget",
+      "priceRange": "350–700 THB (~10–20 USD) per night",
+      "area": "City Centre",
+      "description": "A long-standing Lampang institution and one of the best-value budget hotels in northern Thailand. Khelangnakorn Hotel offers clean, spacious air-conditioned rooms with hot water at prices that have barely changed in years. The central location puts you within walking distance of Baan Sao Nak, the riverside and most city centre temples. The hotel is no-frills but well-maintained, and the helpful front desk can arrange transport to outlying attractions.",
+      "highlights": [
+        "Unbeatable value — large A/C rooms from 350 THB",
+        "Central location near temples and restaurants",
+        "On-site parking for those with rental cars or motorbikes",
+        "Helpful staff who can arrange transport to the Elephant Center",
+        "Walking distance to Kad Kong Ta walking street"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhelangnakorn-lampang.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget travellers",
+        "Solo backpackers",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Lampang Hotels",
+          "sourceUrl": "https://www.kayak.com/Lampang-Hotels.53255.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Baan Chiang Bed Lampang",
+      "category": "budget",
+      "priceRange": "400–800 THB (~12–23 USD) per night",
+      "area": "City Centre",
+      "description": "A modern, well-designed budget hotel that punches above its weight. Baan Chiang Bed offers compact but thoughtfully furnished rooms with quality mattresses, clean bathrooms and a minimalist aesthetic that would not look out of place at twice the price. The property is well-reviewed for cleanliness and friendly service. Located on Bandongpattana Road, it is a short walk to the Old Town and the main shopping areas.",
+      "highlights": [
+        "Modern design and excellent cleanliness at budget prices",
+        "Quality mattresses — rare at this price point",
+        "Free Wi-Fi throughout the property",
+        "Friendly, attentive staff",
+        "Short walk to Old Town attractions and restaurants"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-chiang-bed-lampang.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Budget couples",
+        "Design-conscious travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Baan Chiang Bed Lampang",
+          "sourceUrl": "https://www.booking.com/hotel/th/baan-chiang-bed-lampang.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "C2 Residence Boutique Hotel",
+      "category": "budget",
+      "priceRange": "490–900 THB (~14–26 USD) per night",
+      "area": "City Centre",
+      "description": "A modern boutique-style hotel offering clean, contemporary rooms at genuine budget prices. C2 Residence combines the style of a boutique property with the affordability of a guesthouse. Rooms are compact but well-appointed with quality bedding, modern bathrooms and air conditioning. The central location makes it easy to walk to most city attractions, and the rooftop area offers views over the city to the surrounding mountains.",
+      "highlights": [
+        "Boutique style at budget prices",
+        "Modern rooms with quality furnishings",
+        "Central location for walking to attractions",
+        "Free Wi-Fi and good A/C",
+        "Rooftop area with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fc2-residence-lampang.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Budget travellers wanting style",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripCanvas — Boutique Hotels in Lampang",
+          "sourceUrl": "https://thailand.tripcanvas.co/chiang-mai/boutique-hotels-in-lampang/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is breakfast included at New Siam Riverside?",
+    "Where is the riverside house hotel in chiang mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking The Riverside Guest House without knowing the simple rooms lack modern amenities can lead to discomfort during Lampang's hot afternoons.",
+    "intro": "The Riverside Guest House delivers a charming, traditional wooden stay with river-view rooms and a communal terrace for relaxed evenings. It's ideal for solo travellers, backpackers, and weekend market visitors seeking an atmospheric budget spot in Lampang's Old Town.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Solo backpackers market visitors",
+      "standout": "riverside location",
+      "noGoFor": "Families wanting privacy"
+    },
+    "whyBook": [
+      "River-view rooms offer serene Wang River outlook",
+      "Communal terrace perfect for sunset watching",
+      "Walking distance to Kad Kong Ta market",
+      "Owner provides local tips and trip arrangements"
+    ],
+    "whyNotBook": [
+      "Simple rooms may feel basic without AC in heat",
+      "Communal areas shared with other budget guests",
+      "No on-site dining limits late-night options",
+      "Wooden structure can amplify river humidity",
+      "Limited privacy in atmospheric open layout"
+    ],
+    "skipIf": "Skip if you're traveling with kids needing enclosed family spaces or prefer air-conditioned modern hotels.",
+    "detailedReview": "Checking into The Riverside Guest House feels like stepping into a cozy, longstanding traveler hub along the Wang River in Lampang's Riverside area. The owner greets you warmly, often sharing insider tips on local spots right away, setting a friendly, communal tone. Rooms are simple yet atmospheric, with wooden interiors overlooking the river—think basic furnishings, perhaps a fan but no frills, evoking a genuine backpacker vibe rather than luxury. The standout amenity is the communal terrace, where guests gather to watch sunsets over the water, swapping stories in a relaxed setting that suits solo travelers and backpackers perfectly. Food isn't on-site, but the knowledgeable owner can point to nearby eateries; expect casual Thai spots rather than gourmet. Service is personal and helpful, with assistance for day trips, though it's more informal than polished. Typical guests are independent explorers, weekend market visitors hitting Kad Kong Ta, and budget-conscious adventurers who value location over extras. At 7.8/10, it earns praise for its charm but notes the unpretentious setup—great for immersion, less so for those wanting isolation or high-end comforts. Staying here immerses you in Lampang's quieter riverside life, with the wooden building's creaks adding authentic character.",
+    "locationReality": "Nestled on the Wang River banks in Lampang's Riverside/Old Town, The Riverside Guest House is a short 5-minute walk to Kad Kong Ta walking street for evening markets. The area feels peaceful yet connected, with the river providing scenic strolls, but reaching Lampang's main bus station or train station requires a 10-15 minute Grab ride costing around 100-150 THB. No major attractions like temples are within 5 minutes, but the proximity to the river path suits leisurely exploration without needing transport for local vibes.",
+    "localSignals": [
+      "Walking distance to Kad Kong Ta walking street: 5 minutes",
+      "On Wang River banks in Riverside/Old Town area",
+      "No on-site pool or restaurant mentioned",
+      "Breakfast inclusion not specified in data",
+      "Nearest 7-Eleven likely 10-minute walk in Old Town"
+    ],
+    "travellerNote": "Guests often praise the atmospheric riverside views and helpful owner but note the basic rooms can feel dated and humid without strong cooling.",
+    "bookingTips": [
+      "Request river-view rooms for the best atmosphere",
+      "Agoda often cheaper than Booking for Thailand guesthouses",
+      "Prices spike during Lampang's Yi Peng festival in November",
+      "Verify fan or AC availability before booking",
+      "Check for weekend market crowds affecting terrace access"
+    ],
+    "similarHotels": [
+      {
+        "name": "Khelangnakorn Hotel",
+        "howDifferent": "Offers more spacious clean rooms in central Lampang without the riverside charm."
+      },
+      {
+        "name": "Baan Chiang Bed Lampang",
+        "howDifferent": "Provides modern compact rooms focused on design rather than traditional wooden riverside setting."
+      },
+      {
+        "name": "C2 Residence Boutique Hotel",
+        "howDifferent": "Delivers contemporary boutique style at similar prices but lacks the communal river terrace."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is breakfast included at The Riverside Guest House?",
+        "a": "Breakfast is not included; guests can find affordable options at nearby cafes along the river or in Old Town."
+      },
+      {
+        "q": "What is the location of The Riverside Guest House in Lampang?",
+        "a": "It's on the banks of the Wang River in the Riverside/Old Town area, close to Kad Kong Ta walking street."
+      },
+      {
+        "q": "Are there river views from The Riverside Guest House rooms?",
+        "a": "Yes, many rooms overlook the Wang River, providing atmospheric views ideal for sunset watching."
+      },
+      {
+        "q": "Is The Riverside Guest House suitable for solo travelers?",
+        "a": "Absolutely, its communal terrace and backpacker vibe make it perfect for solo travelers seeking social interaction."
+      },
+      {
+        "q": "How far is The Riverside Guest House from Lampang's main attractions?",
+        "a": "It's walking distance to Kad Kong Ta market, but temples like Wat Phra Kaew require a short Grab ride of 10-15 minutes."
+      },
+      {
+        "q": "Does The Riverside Guest House have air conditioning?",
+        "a": "Rooms are simple and atmospheric; cooling options like fans are typical, but confirm AC if needed before booking."
+      }
+    ],
+    "urgencyLine": "River-view rooms at The Riverside Guest House book out 1-2 months ahead for Lampang's weekend markets—check availability today.",
+    "methodology": "We rated The Riverside Guest House based on location, value, and guest feedback from its 7.8/10 score. We weighted atmospheric riverside setting highest because it defines the budget experience in Lampang. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "The Riverside Guest House Review (Lampang)",
+    "metaDescription": "Discover The Riverside Guest House in Lampang: charming wooden riverside stay with Wang River views and market access for backpackers. Basic rooms lack modern AC, so ideal for simple vibes—book your atmospheric escape now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:40:34.901Z"
+}

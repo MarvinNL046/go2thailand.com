@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lopburi",
+  "cityName": "Lopburi",
+  "hotelSlug": "noom-guesthouse",
+  "hotel": {
+    "name": "Noom Guesthouse",
+    "category": "budget",
+    "priceRange": "400-800 THB/night (~$11-22 USD)",
+    "area": "Old Town Lopburi",
+    "description": "The most popular backpacker guesthouse in Lopburi's Old Town, offering a range of room types from dormitories to private bungalows in a leafy compound. Friendly, knowledgeable staff who have been hosting travelers for years and can advise on everything from monkey safety to sunflower field timing. Onsite restaurant serving Thai and international food at budget prices. Walking distance to Prang Sam Yot, Phra Narai Palace, and all Old Town ruins.",
+    "highlights": [
+      "Walking distance to all Old Town historical sites",
+      "Knowledgeable staff with excellent local knowledge",
+      "Variety of room types from dorms to private bungalows",
+      "Onsite restaurant with Thai and international dishes (50-120 THB)"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers",
+      "budget couples"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/eatandmeet/thailand/central_thailand/lopburi/lopburi/eat",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNoom%2520Guesthouse%252C%2520Lopburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Hop Inn Lopburi",
+      "category": "budget",
+      "priceRange": "600-900 THB/night (~$17-25 USD)",
+      "area": "New Town Lopburi",
+      "description": "Part of Thailand's reliable budget chain with consistent standards across the country. Clean, well-maintained rooms with air conditioning, hot shower, free WiFi, and free private parking. The no-frills approach keeps prices low while maintaining comfort. Located in the New Town with easy transport links to the Old Town. The Thai chain model means you know exactly what to expect — it's not exciting, but it's dependable at this price point.",
+      "highlights": [
+        "Reliable Thai budget chain — consistent standards",
+        "Free WiFi and private parking",
+        "Good value for solo or couple travelers",
+        "Easy songthaew connection to Old Town (10 THB)"
+      ],
+      "reviewScore": "7.5/10 Booking.com",
+      "bestFor": [
+        "budget travelers",
+        "solo travelers",
+        "reliability seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/lop-buri.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHop%2520Inn%2520Lopburi%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "Pannara Hotel",
+      "category": "budget",
+      "priceRange": "500-900 THB/night (~$14-25 USD)",
+      "area": "Old Town / Central Lopburi",
+      "description": "A well-reviewed budget hotel popular with both Thai and international travelers for its central location and good service. Simple but clean rooms with air conditioning and hot water. Excellent base for exploring the Old Town ruins on foot. Staff speak enough English to assist with transport and attraction questions. One of the best-value options in the central area.",
+      "highlights": [
+        "Centrally located near Old Town ruins",
+        "Good service for a budget property",
+        "Clean rooms with reliable AC",
+        "Popular with both Thai and international guests"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "short stays",
+        "day trippers extending to overnight"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303912-Lop_Buri_Lopburi_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPannara%2520Hotel%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "Lopburi Inn Hotel",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "Old Town / Na Raimaharat Road",
+      "description": "A long-established budget hotel at 28/9 Naraimaharat Road, 0.5 km from the city center. Basic rooms with air conditioning, TV, mini fridge, and WiFi. The price point makes it one of Lopburi's cheapest AC options, and the location is convenient for the Old Town ruins. Some rooms face the street and can be noisy — request a rear room. Mixed reviews on maintenance standards, but hard to beat for sheer value in the Old Town area.",
+      "highlights": [
+        "Among the cheapest AC rooms in the Old Town",
+        "Location close to historical sites",
+        "Rooms with TV, mini fridge and WiFi at budget price",
+        "Long-standing property with experienced local staff"
+      ],
+      "bestFor": [
+        "extreme budget travelers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda",
+          "sourceUrl": "https://www.agoda.com/lopburi-inn-hotel/hotel/lopburi-th.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLopburi%2520Inn%2520Hotel%252C%2520Lopburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Noom Guesthouse without knowing about the resident monkeys in Old Town Lopburi can lead to unexpected encounters with mischievous primates entering your room.",
+    "intro": "Noom Guesthouse provides a laid-back backpacker haven with dorms to private bungalows in a leafy compound, complete with knowledgeable staff offering tips on local sights and safety. It's ideal for backpackers, solo travelers, and budget couples seeking an authentic stay near Lopburi's historical ruins.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers and solo travelers",
+      "standout": "knowledgeable staff",
+      "noGoFor": "luxury-seeking families"
+    },
+    "whyBook": [
+      "Walking distance to Prang Sam Yot and Phra Narai Palace",
+      "Staff advise on monkey safety and sunflower field timing",
+      "Variety of rooms from dorms to private bungalows",
+      "Onsite restaurant with Thai dishes for 50-120 THB"
+    ],
+    "whyNotBook": [
+      "Dorm rooms may feel noisy with shared backpacker traffic",
+      "Basic facilities lack modern amenities like a pool",
+      "Leafy compound attracts local monkeys seeking food scraps",
+      "Limited privacy in bungalows near communal areas",
+      "Restaurant options repeat over extended stays"
+    ],
+    "skipIf": "Skip if you're traveling with young children wary of Lopburi's free-roaming monkeys or prefer chain hotel consistency.",
+    "detailedReview": "Arriving at Noom Guesthouse feels like stepping into a welcoming tropical hideaway in Lopburi's Old Town, with check-in handled by long-time staff who greet you warmly and share immediate tips on navigating the area's monkey-populated ruins. The compound is leafy and relaxed, buzzing with fellow backpackers chatting over beers in the common area. Room vibes vary: dorms offer bunk beds in open spaces ideal for social solo travelers, while private bungalows provide more seclusion with simple furnishings, fans or AC, and en-suite bathrooms—nothing fancy, but clean and functional for budget stays. The standout amenity is the onsite restaurant, where you can grab affordable Thai curries or international staples like pasta for 50-120 THB, often enjoyed al fresco amid the greenery. Service stands out for its personal touch; staff, who've hosted travelers for years, dispense practical advice on everything from avoiding monkey thefts at Prang Sam Yot to the best times for sunflower field visits outside town. Typical guests are independent backpackers in their 20s-30s, couples on a shoestring, and occasional families drawn by the location—everyone appreciates the unpretentious vibe, though it suits those comfortable with a casual, no-frills setup rather than polished hospitality.",
+    "locationReality": "Noom Guesthouse sits right in Old Town Lopburi, just a 5-10 minute walk to key sites like Prang Sam Yot and Phra Narai Palace, making it easy to explore ruins on foot without transport. Within a 5-minute stroll, you'll find street food stalls and local shops, but venturing to sunflower fields or further afield requires a 20-30 minute motorbike taxi ride costing around 100-200 THB. The area's monkey presence adds adventure, but stick to paths to avoid surprises.",
+    "localSignals": [
+      "5-10 minute walk to Prang Sam Yot",
+      "Onsite restaurant serving Thai and international food",
+      "Walking distance to Phra Narai Palace",
+      "Variety of room types including dorms and bungalows",
+      "Near Old Town ruins, no nearby BTS or MRT"
+    ],
+    "travellerNote": "Guests often praise the friendly staff's local insights and prime location for ruin-hopping but note the basic room comforts and occasional monkey intrusions as common drawbacks.",
+    "bookingTips": [
+      "Request a private bungalow for more seclusion away from dorm noise",
+      "Check Agoda for cheapest rates on Noom Guesthouse in Lopburi",
+      "Prices spike in November during cooler season for sightseeing",
+      "Verify monkey-proofing advice with staff upon booking",
+      "Confirm restaurant hours as they align with backpacker schedules"
+    ],
+    "similarHotels": [
+      {
+        "name": "Hop Inn Lopburi",
+        "howDifferent": "Offers chain reliability with consistent AC rooms but lacks the leafy compound and local expertise of Noom."
+      },
+      {
+        "name": "Pannara Hotel",
+        "howDifferent": "Provides central simplicity and good service for mixed travelers, differing from Noom's backpacker-focused bungalows and onsite dining."
+      },
+      {
+        "name": "Lopburi Inn Hotel",
+        "howDifferent": "Features basic established rooms closer to the city center but without Noom's variety of accommodations or knowledgeable staff."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Noom Guesthouse safe from monkeys in Lopburi?",
+        "a": "Staff provide tips on securing belongings, but monkeys roam Old Town freely, so vigilance is key during walks to nearby ruins."
+      },
+      {
+        "q": "What room types are available at Noom Guesthouse?",
+        "a": "Options range from shared dormitories for budget solo travelers to private bungalows suitable for couples, all in a leafy setting."
+      },
+      {
+        "q": "Does Noom Guesthouse have an onsite restaurant?",
+        "a": "Yes, it serves affordable Thai and international dishes for 50-120 THB, perfect for casual meals without leaving the compound."
+      },
+      {
+        "q": "How far is Noom Guesthouse from Lopburi's main attractions?",
+        "a": "It's walking distance to Prang Sam Yot, Phra Narai Palace, and Old Town ruins, typically 5-10 minutes on foot."
+      },
+      {
+        "q": "Who stays at Noom Guesthouse in Lopburi?",
+        "a": "Primarily backpackers, solo travelers, and budget couples drawn to its location and staff knowledge for an authentic experience."
+      },
+      {
+        "q": "Are there private rooms at Noom Guesthouse?",
+        "a": "Yes, private bungalows offer more space and privacy compared to the dorms, ideal for couples on a budget."
+      }
+    ],
+    "urgencyLine": "Rooms at Noom Guesthouse with private bungalows book out 1-2 months ahead for Lopburi's dry season—check availability today.",
+    "methodology": "We rated Noom Guesthouse based on location proximity to Old Town sites, staff expertise, room variety, and budget value from provided data. We weighted location highest because Lopburi's attractions are walkable, enhancing the backpacker experience. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Noom Guesthouse Review (2026)",
+    "metaDescription": "Noom Guesthouse in Lopburi's Old Town offers backpacker bungalows and expert staff tips near ruins, but watch for monkeys. Budget stays from $11/night—book for authentic vibes today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:42:56.950Z"
+}

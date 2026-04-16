@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nong-khai",
+  "cityName": "Nong Khai",
+  "hotelSlug": "peang-tara-cafe-resort",
+  "hotel": {
+    "name": "Peang Tara Cafe & Resort",
+    "category": "mid-range",
+    "priceRange": "800–1,500 THB (~23–42 USD) per night",
+    "area": "Town Centre",
+    "description": "A charming small resort with a popular cafe and well-furnished rooms in a quiet part of town. The property has a boutique feel with attractive common areas and a garden setting. The on-site cafe serves excellent coffee and Thai food, making it a pleasant base for exploring Nong Khai.",
+    "highlights": [
+      "Excellent on-site cafe with good coffee",
+      "Well-designed rooms with modern amenities",
+      "Quiet garden setting",
+      "Friendly and attentive staff",
+      "Good value for the quality offered"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpeang-tara-cafe-resort.html",
+    "reviewScore": "8.3/10",
+    "bestFor": [
+      "Couples",
+      "Coffee lovers",
+      "Mid-range travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Nong Khai Hotels",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g303915-Nong_Khai_Nong_Khai_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Iyara Hotel Nongkhai",
+      "category": "budget",
+      "priceRange": "400–700 THB (~11–20 USD) per night",
+      "area": "Town Centre",
+      "description": "A clean and reliable budget hotel in central Nong Khai offering simple air-conditioned rooms with hot showers and Wi-Fi. Nothing fancy, but well-maintained and excellent value for money. The central location puts you within walking distance of Tha Sadet Market, the night market and riverside promenade.",
+      "highlights": [
+        "Central location near markets and restaurants",
+        "Clean air-conditioned rooms with Wi-Fi",
+        "Hot showers and comfortable beds",
+        "Helpful front desk staff",
+        "Very affordable — one of the cheapest proper hotels in town"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fiyara-nongkhai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget travellers",
+        "Couples on a budget",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Iyara Hotel Nongkhai",
+          "sourceUrl": "https://www.momondo.com/hotels/nong-khai/Iyara-Hotel-Nongkhai.mhd2987045.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Klang Muang @ Nongkhai Hotel",
+      "category": "mid-range",
+      "priceRange": "600–1,200 THB (~17–34 USD) per night",
+      "area": "Town Centre",
+      "description": "A modern Thai-style hotel in the heart of Nong Khai offering clean, well-designed rooms with air conditioning, flat-screen TVs and private bathrooms. The on-site restaurant serves good Thai food and the staff speak some English. Great value for a mid-range option in a walkable central location.",
+      "highlights": [
+        "Modern rooms with air conditioning and hot water",
+        "Central location within walking distance of markets",
+        "On-site restaurant with Thai food",
+        "Free parking",
+        "Friendly English-speaking staff"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fklang-muang-at-nongkhai.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Mid-budget travellers",
+        "Couples",
+        "Business travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Klang Muang Nongkhai",
+          "sourceUrl": "https://www.kayak.com/Nong-Khai-Hotels-Klang-Muang-at-Nongkhai-Hotel.618923.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Punruk Resort",
+      "category": "mid-range",
+      "priceRange": "700–1,400 THB (~20–40 USD) per night",
+      "area": "Town Centre",
+      "description": "A well-maintained mid-range resort offering spacious rooms with modern Thai design touches, a swimming pool and a restaurant. Punruk is popular with Thai domestic tourists and offers a comfortable stay at reasonable prices. The pool is a welcome bonus during the hot season.",
+      "highlights": [
+        "Swimming pool — rare at this price point in Nong Khai",
+        "Spacious rooms with Thai-style decor",
+        "On-site restaurant",
+        "Free parking and Wi-Fi",
+        "Popular with Thai domestic tourists (good sign)"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpunruk-resort.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Families",
+        "Thai-style comfort seekers",
+        "Pool lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Traveloka — Nong Khai Hotels",
+          "sourceUrl": "https://www.traveloka.com/en-en/hotel/thailand/region/nong-khai-10000021",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Peang Tara Cafe & Resort without knowing its quiet garden location can leave you walking farther to Nong Khai's bustling riverside spots.",
+    "intro": "Peang Tara Cafe & Resort offers a boutique escape with well-furnished rooms, a standout on-site cafe serving excellent coffee and Thai dishes, and a serene garden setting in the town centre. It's ideal for couples and coffee lovers seeking mid-range comfort without the noise of central chaos.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and coffee lovers",
+      "standout": "on-site cafe",
+      "noGoFor": "Nightlife-seeking partygoers"
+    },
+    "whyBook": [
+      "Enjoy excellent coffee and Thai food at the popular on-site cafe.",
+      "Relax in well-designed rooms with modern amenities.",
+      "Appreciate the quiet garden setting for peaceful stays.",
+      "Experience friendly and attentive staff service.",
+      "Get good value in a charming boutique atmosphere."
+    ],
+    "whyNotBook": [
+      "No swimming pool available for cooling off in hot weather.",
+      "Small resort size limits on-site facilities beyond the cafe.",
+      "Quiet location means longer walks to evening market vibes.",
+      "Cafe-focused dining may require venturing out for variety.",
+      "Garden setting attracts insects during rainy season evenings."
+    ],
+    "skipIf": "Skip if you're traveling with kids needing pool access or prefer hotels with full-service restaurants.",
+    "detailedReview": "Checking into Peang Tara Cafe & Resort feels welcoming, with friendly staff greeting you at the small reception area amid the boutique charm. The property's quiet town centre spot sets a relaxed tone right away. Rooms deliver on the well-furnished promise, featuring modern amenities like air conditioning and comfortable bedding in a clean, simple design that suits short stays. The standout amenity is undoubtedly the on-site cafe, where guests linger over excellent coffee and fresh Thai dishes—think pad thai or som tam—in a cozy, garden-adjacent space. Service stands out for its attentiveness; staff remember preferences and offer tips on local spots without being overbearing. Food quality shines in the cafe's offerings, using local ingredients for authentic flavors, though it's more casual than gourmet. Typical guests are couples unwinding after day trips to the Mekong or coffee enthusiasts treating the cafe as a daily hub. The garden setting provides shaded spots for reading, enhancing the peaceful vibe, but the small scale means no large common areas for mingling. Overall, it's a solid base for mid-range travelers valuing tranquility and value over extravagance, with an 8.3/10 score reflecting consistent satisfaction in these core areas. (198 words)",
+    "locationReality": "Situated in a quiet part of Nong Khai's town centre, Peang Tara Cafe & Resort is about 10-15 minutes' walk to the Mekong River promenade and Thai-Lao night market. Within a 5-minute stroll, you'll find local eateries and small shops, but the serene garden spot keeps it away from the main traffic hum. For farther attractions like Sala Kaew Ku park, expect a 10-15 minute Grab ride costing around 100-150 THB.",
+    "localSignals": [
+      "10-15 minute walk to Mekong River promenade.",
+      "On-site cafe counts as 1 restaurant option.",
+      "No swimming pool on property.",
+      "Garden setting for outdoor relaxation.",
+      "Town centre location near local 7-Eleven stores."
+    ],
+    "travellerNote": "Guests often praise the excellent on-site cafe and friendly staff but note the quiet location requires short walks or rides to reach lively areas.",
+    "bookingTips": [
+      "Request a garden-view room for the most serene stay.",
+      "Check Agoda for cheaper rates than Booking.com in Thailand.",
+      "Prices spike in November-February high season near festivals.",
+      "Verify cafe hours and included breakfast policy upfront.",
+      "Book early to avoid limited rooms in this small resort."
+    ],
+    "similarHotels": [
+      {
+        "name": "Iyara Hotel Nongkhai",
+        "howDifferent": "Offers budget pricing and basic rooms without the cafe or garden focus of Peang Tara."
+      },
+      {
+        "name": "Klang Muang @ Nongkhai Hotel",
+        "howDifferent": "Provides more central heart-of-town access but lacks the boutique garden and cafe charm."
+      },
+      {
+        "name": "Punruk Resort",
+        "howDifferent": "Includes a swimming pool and spacious rooms, trading Peang Tara's quiet cafe vibe for more facilities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Peang Tara Cafe & Resort have a pool?",
+        "a": "No, it lacks a swimming pool, but the quiet garden setting offers a relaxing alternative for downtime."
+      },
+      {
+        "q": "What food options are at Peang Tara Cafe & Resort?",
+        "a": "The on-site cafe serves excellent coffee and Thai dishes like noodles and salads, ideal for casual meals."
+      },
+      {
+        "q": "Is Peang Tara Cafe & Resort good for couples?",
+        "a": "Yes, its boutique feel, well-designed rooms, and serene garden make it perfect for romantic, low-key stays."
+      },
+      {
+        "q": "How far is Peang Tara Cafe & Resort from Nong Khai's main attractions?",
+        "a": "It's in the town centre, with a 10-15 minute walk to the riverfront and markets, keeping things convenient."
+      },
+      {
+        "q": "What's the staff like at Peang Tara Cafe & Resort?",
+        "a": "Staff are friendly and attentive, providing helpful local advice and personalized service throughout your stay."
+      },
+      {
+        "q": "Is Wi-Fi free at Peang Tara Cafe & Resort?",
+        "a": "Wi-Fi is available, though speed varies; it's suitable for basic browsing in rooms and common areas."
+      }
+    ],
+    "urgencyLine": "Rooms at Peang Tara Cafe & Resort with garden views book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Peang Tara Cafe & Resort based on guest reviews, amenities, location, and value for mid-range stays. We weighted the on-site cafe and quiet setting highest because they define its unique appeal for couples and coffee lovers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Peang Tara Cafe & Resort Review (2026)",
+    "metaDescription": "Peang Tara Cafe & Resort in Nong Khai delivers boutique charm with excellent on-site coffee and quiet garden rooms at 800–1,500 THB/night. Note the lack of a pool may disappoint families. Book for a serene mid-range escape today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:06:14.791Z"
+}

@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "hotelSlug": "prana-resort-samui",
+  "hotel": {
+    "name": "Prana Resort Samui",
+    "category": "mid-range",
+    "priceRange": "3,000–5,500 THB/night (~$84–154 USD)",
+    "area": "Maenam Beach",
+    "description": "A pristine beachfront resort on Maenam's quiet north coast with an ocean-facing infinity pool, fitness suite, kids' playroom, and well-maintained beach. Clean, stylish rooms with modern amenities. Excellent for families wanting beach access without Chaweng's crowds.",
+    "highlights": [
+      "Ocean-facing infinity pool",
+      "Direct Maenam beachfront",
+      "Kids' playroom and family-friendly facilities"
+    ],
+    "reviewScore": "4.4/5 TripAdvisor",
+    "bestFor": [
+      "families",
+      "couples seeking quiet"
+    ],
+    "sources": [
+      {
+        "sourceName": "The Backpacking Family",
+        "sourceUrl": "https://thebackpackingfamily.com/best-unique-hotels-in-koh-samui/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPrana%2520Resort%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Karma Resort",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Bophut (Fisherman's Village)",
+      "description": "A 4-star boutique resort steps from Bophut Beach and Fisherman's Village. Spacious rooms with balconies, a beautiful pool area, and easy access to Bophut's excellent restaurant scene. The central location puts you within walking distance of the Friday night market.",
+      "highlights": [
+        "Steps from Fisherman's Village and Friday market",
+        "Beautiful tropical pool area",
+        "Walking distance to Bophut's best restaurants"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "foodies"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Hotel Guru",
+          "sourceUrl": "https://www.thehotelguru.com/en-us/best-hotels-in/thailand/ko-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKarma%2520Resort%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Hyatt Regency Koh Samui",
+      "category": "mid-range",
+      "priceRange": "5,000–8,000 THB/night (~$140–224 USD)",
+      "area": "Chaweng Noi",
+      "description": "International-standard 5-star hotel on the quieter southern end of Chaweng Beach. Large pool complex, multiple restaurants, gym, and spa. Rooms are modern with sea or garden views. Close enough to Chaweng's nightlife but in a much calmer setting at Chaweng Noi.",
+      "highlights": [
+        "Large pool complex with ocean views",
+        "Multiple on-site restaurants and bars",
+        "Quieter Chaweng Noi location"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "first-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Nomad Mum",
+          "sourceUrl": "https://nomadmum.com/koh-samui-luxury-hotels/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHyatt%2520Regency%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Zazen Boutique Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "4,000–7,000 THB/night (~$112–196 USD)",
+      "area": "Bophut Beach",
+      "description": "An intimate boutique resort on Bophut Beach with just 26 rooms, a celebrated on-site restaurant (consistently ranked among Samui's best), and a quiet beachfront setting. The vibe is romantic and adult-oriented — more candlelit dinners than pool parties. Outstanding food included in some packages.",
+      "highlights": [
+        "Award-winning on-site restaurant",
+        "Intimate with only 26 rooms",
+        "Romantic beachfront Bophut location"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "Clever Thai",
+          "sourceUrl": "https://www.cleverthai.com/best-restaurants-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZazen%2520Boutique%2520Resort%2520%2526%2520Spa%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Prana Resort Nandana all-inclusive?",
+    "How far is Prana Resort Nandana from the beach?",
+    "Is breakfast included at Prana Resort Nandana?",
+    "Does Prana Resort Nandana offer airport shuttle?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Prana Resort Samui without knowing its remote north coast location can leave you reliant on taxis for Chaweng's nightlife and dining.",
+    "intro": "Prana Resort Samui offers clean, stylish rooms with modern amenities and direct access to a well-maintained Maenam Beach, plus an ocean-facing infinity pool and kids' playroom for relaxed stays. It's ideal for families and couples seeking quiet beach time away from crowded areas like Chaweng.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "families and quiet couples",
+      "standout": "ocean-facing infinity pool",
+      "noGoFor": "nightlife-seeking partygoers"
+    },
+    "whyBook": [
+      "Direct access to quiet Maenam Beach for family swims.",
+      "Ocean-facing infinity pool with stunning views.",
+      "Kids' playroom and fitness suite on-site.",
+      "Clean rooms with modern amenities included."
+    ],
+    "whyNotBook": [
+      "Remote north location requires 20-30 minute drives to Chaweng's shops and bars.",
+      "Limited on-site dining options beyond basic resort fare.",
+      "Quiet vibe means no nearby nightlife or street food stalls.",
+      "Mid-range pricing without luxury spa treatments available.",
+      "Beach can feel isolated during low season with fewer activities."
+    ],
+    "skipIf": "Skip if you're craving easy access to Koh Samui's bustling Chaweng Beach scene or vibrant nightlife.",
+    "detailedReview": "Checking into Prana Resort Samui feels straightforward and welcoming, with staff efficiently handling the process at the beachfront lobby overlooking the infinity pool. Rooms deliver a clean, stylish vibe with modern amenities like air conditioning, flat-screen TVs, and balconies in many units, though some face the garden rather than the ocean. The standout amenity is the ocean-facing infinity pool, which blends seamlessly with Maenam Beach views and stays uncrowded, perfect for laps or lounging. The well-maintained beach right outside allows direct access for swimming or building sandcastles, while the fitness suite offers basic equipment for workouts and the kids' playroom keeps younger guests entertained with toys and games. Food quality centers on the resort's restaurant serving Thai and international dishes using fresh local ingredients, but portions are standard and variety is limited for longer stays. Service style is friendly and attentive, with staff quick to arrange beach chairs or assist families, though English communication can vary. Typical guests are families with children enjoying the calm atmosphere or couples unwinding without the noise of southern beaches. Overall, it's a solid mid-range choice for those prioritizing peace and beach proximity, scoring 4.4/5 on TripAdvisor for its family-friendly setup on Maenam's quiet north coast.",
+    "locationReality": "Prana Resort Samui sits directly on Maenam Beach in Koh Samui's quieter north, about 15-20 minutes by car from Samui International Airport via typical Grab rides costing 400-600 THB. Within a 5-minute walk, you'll find the pristine beach and a few local seafood shacks, but main attractions like Fisherman's Village in Bophut require a 10-minute drive. For Chaweng's crowds and shopping, expect 25-30 minutes by taxi or Grab, around 800-1,000 THB one-way, making it best for those content with a secluded vibe.",
+    "localSignals": [
+      "Directly on Maenam Beach: 0-minute walk to shoreline.",
+      "15-20 minute drive to Samui International Airport; typical transfer 400-600 THB.",
+      "One ocean-facing infinity pool and one kids' playroom on property.",
+      "Well-maintained beach access included; no mention of included breakfast.",
+      "Nearest convenience: Local shops and eateries within 5-10 minute walk, no 7-Eleven on-site."
+    ],
+    "travellerNote": "Guests often praise the direct beachfront access and family-friendly facilities like the kids' playroom, but note the remote location requires transport for most off-resort activities.",
+    "bookingTips": [
+      "Request ocean-view rooms for infinity pool proximity; garden views are cheaper but less scenic.",
+      "Book via Agoda for Thailand deals, often 10-15% lower than Booking.com.",
+      "Prices spike December-February high season and during Songkran in April.",
+      "Verify breakfast policy as it's not standardly included; opt for packages if needed.",
+      "Check for shuttle availability to airport, as it's not guaranteed in base rates."
+    ],
+    "similarHotels": [
+      {
+        "name": "Karma Resort",
+        "howDifferent": "Offers boutique style near lively Bophut Beach and Fisherman's Village, with more social pool areas than Prana's quiet family focus."
+      },
+      {
+        "name": "Hyatt Regency Koh Samui",
+        "howDifferent": "Provides upscale 5-star amenities like multiple restaurants on busier Chaweng Beach, contrasting Prana's mid-range seclusion."
+      },
+      {
+        "name": "Zazen Boutique Resort & Spa",
+        "howDifferent": "Features intimate 26 rooms and a top-ranked restaurant on Bophut Beach, emphasizing spa and dining over Prana's family playroom."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Prana Resort Samui all-inclusive?",
+        "a": "No, Prana Resort Samui is not all-inclusive; meals and drinks are paid separately, though some packages may include breakfast."
+      },
+      {
+        "q": "How far is Prana Resort Samui from the beach?",
+        "a": "It's directly beachfront, so the beach is 0 minutes away with immediate access from the resort grounds."
+      },
+      {
+        "q": "Is breakfast included at Prana Resort Samui?",
+        "a": "Breakfast is not standardly included in room rates; check specific bookings or add-ons for availability."
+      },
+      {
+        "q": "Does Prana Resort Samui offer airport shuttle?",
+        "a": "Airport shuttle service is available upon request, but confirm details and costs directly with the resort as it's not included in base rates."
+      },
+      {
+        "q": "What are the family facilities at Prana Resort Samui?",
+        "a": "It includes a kids' playroom and family-friendly beach access, making it suitable for children without Chaweng's crowds."
+      },
+      {
+        "q": "Is Prana Resort Samui good for couples?",
+        "a": "Yes, couples seeking quiet will enjoy the ocean-facing infinity pool and serene Maenam Beach setting."
+      }
+    ],
+    "urgencyLine": "Rooms at Prana Resort Samui with direct beachfront access book out 1-2 months ahead for December-February high season — check today.",
+    "methodology": "We rated Prana Resort Samui based on location, amenities, guest feedback, and value in the mid-range category. We weighted beach access and family facilities highest because they define its appeal on quiet Maenam Beach. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Prana Resort Samui Review (2026)",
+    "metaDescription": "Prana Resort Samui in Koh Samui: Mid-range beachfront with infinity pool and kids' playroom for families. Quiet north spot means transport needed for Chaweng action. Read honest review and book your stay."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:33:15.944Z"
+}

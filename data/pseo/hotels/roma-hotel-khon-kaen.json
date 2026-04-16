@@ -1,0 +1,180 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "roma-hotel-khon-kaen",
+  "hotel": {
+    "name": "Roma Hotel Khon Kaen",
+    "category": "budget",
+    "priceRange": "450–900 THB (~13–25 USD) per night",
+    "area": "City Centre / Klangmuang Road",
+    "description": "A solid 3-star budget hotel offering clean air-conditioned rooms with hot showers, Wi-Fi and a convenient central location near Bueng Kaen Nakhon lake and Wat Nong Wang. The rooms are simple but well-maintained, and the price-to-quality ratio is hard to beat. A reliable choice for budget travellers who want a proper hotel room rather than a hostel.",
+    "highlights": [
+      "Central location near Bueng Kaen Nakhon and Wat Nong Wang",
+      "Clean air-conditioned rooms with hot showers",
+      "Excellent value — proper hotel quality at budget prices",
+      "Free Wi-Fi throughout",
+      "Walking distance to lakeside restaurants"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Froma-khon-kaen.html",
+    "reviewScore": "7.2/10",
+    "bestFor": [
+      "Budget travellers",
+      "Solo travellers",
+      "Short stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Cheap Hotels Khon Kaen",
+        "sourceUrl": "https://www.tripadvisor.com/HotelsList-Khon_Kaen_Province-Hotels-Motels-Cheap-zfp16111747.html",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Nuchjaree Place",
+      "category": "budget",
+      "priceRange": "400–700 THB (~11–19 USD) per night",
+      "area": "Near Khon Kaen University",
+      "description": "A clean and cheerful 2-star hotel near Khon Kaen University, popular with visiting academics, students' families and budget travellers. Rooms are basic but tidy with air conditioning, Wi-Fi and private bathrooms. The university area location means plenty of cheap restaurants and cafes nearby. One of the cheapest proper hotel options in Khon Kaen.",
+      "highlights": [
+        "One of the cheapest hotels in Khon Kaen",
+        "Clean rooms with air conditioning and Wi-Fi",
+        "Near Khon Kaen University with many cheap eateries",
+        "Friendly staff",
+        "Quiet neighbourhood"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnuchjaree-place.html",
+      "reviewScore": "7.0/10",
+      "bestFor": [
+        "Budget travellers",
+        "University visitors",
+        "Extended stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Cheap Hotels Khon Kaen",
+          "sourceUrl": "https://www.momondo.com/hotels/khon-kaen",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Kosa Hotel Khon Kaen",
+      "category": "budget",
+      "priceRange": "600–1,200 THB (~17–33 USD) per night",
+      "area": "City Centre / Srichan Road",
+      "description": "A well-known older hotel in central Khon Kaen that has been a city institution for years. The rooms are dated but clean and spacious, and the location on Srichan Road is excellent for accessing the walking street market, local restaurants and city temples. The on-site restaurant serves decent Thai food, and the swimming pool is a bonus at this price point.",
+      "highlights": [
+        "Prime Srichan Road location — walkable to Walking Street",
+        "Swimming pool — rare at this price range",
+        "Spacious rooms despite dated decor",
+        "On-site Thai restaurant",
+        "Long-established — well-known locally"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkosa.html",
+      "reviewScore": "7.0/10",
+      "bestFor": [
+        "Budget travellers",
+        "Central location seekers",
+        "Pool lovers on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Khon Kaen Accommodation",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northeast_thailand/khon_kaen/khon_kaen/all",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "What is Khon Kaen known for?",
+    "What is Charoen Thani Hotel Khon Kaen about?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Roma Hotel Khon Kaen without knowing the rooms are simple and basic can lead to expecting more amenities than this budget spot provides.",
+    "intro": "Roma Hotel Khon Kaen delivers clean, air-conditioned rooms with hot showers and free Wi-Fi in a central spot near Bueng Kaen Nakhon lake, offering solid value for budget stays. It's ideal for solo travelers or those on short trips who prioritize location and affordability over luxury.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget solo travelers",
+      "standout": "Central location",
+      "noGoFor": "Luxury-seeking couples"
+    },
+    "whyBook": [
+      "Central spot near Bueng Kaen Nakhon lake for easy walks",
+      "Clean rooms with air-con and hot showers included",
+      "Free Wi-Fi throughout the property",
+      "Walking distance to lakeside restaurants",
+      "Excellent value at 450–900 THB per night"
+    ],
+    "whyNotBook": [
+      "No on-site pool or gym for relaxation",
+      "Simple room decor lacks modern flair",
+      "Limited amenities beyond basics like Wi-Fi",
+      "Potential noise from central Klangmuang Road location",
+      "No mention of included breakfast in standard rates"
+    ],
+    "skipIf": "Skip if you're traveling with kids needing pool access or family suites.",
+    "detailedReview": "Checking into Roma Hotel Khon Kaen feels straightforward and no-fuss, with a small front desk in the city center lobby that gets you to your room quickly. The rooms hit as simple but well-maintained, featuring air-conditioned spaces with hot showers, basic furnishings, and free Wi-Fi that works reliably for checking emails or maps. Standout is the convenience of the central location, putting Wat Nong Wang and Bueng Kaen Nakhon lake within easy reach on foot, which suits short stays perfectly. Food options lean external, with no on-site restaurant mentioned, so guests head to nearby lakeside spots for Thai dishes—service here is friendly but basic, matching the budget vibe without over-the-top personalization. Typical guests are solo budget travelers or short-term visitors like business folks, drawn by the 7.2/10 score for value over flash. At 450–900 THB, it's a proper hotel alternative to hostels, though don't expect spa treatments or room service; the hot shower after a day exploring Khon Kaen is the real win, and cleanliness keeps things comfortable without surprises. Overall, it's reliable for those keeping costs low while staying central.",
+    "locationReality": "Roma Hotel sits on Klangmuang Road in Khon Kaen's city center, about 10-15 minutes' walk to Bueng Kaen Nakhon lake and Wat Nong Wang. Within a 5-minute stroll, you'll find lakeside restaurants and local shops, but reaching Khon Kaen University or the train station requires a 10-15 minute Grab ride costing around 100-150 THB. No BTS or MRT here, so rideshares or walking handle most needs in this compact urban area.",
+    "localSignals": [
+      "10-15 minute walk to Bueng Kaen Nakhon lake",
+      "Free Wi-Fi available throughout the hotel",
+      "0 pools on property",
+      "Walking distance to lakeside restaurants",
+      "Near central Khon Kaen, Grab to university around 100 THB"
+    ],
+    "travellerNote": "Guests often praise the clean rooms and central location but note the basic amenities and occasional road noise from Klangmuang Road.",
+    "bookingTips": [
+      "Request a room away from the main road to minimize traffic sounds",
+      "Check Agoda for deals, often cheaper than Booking.com in Thailand",
+      "Prices spike in November-February high season for festivals",
+      "Verify free Wi-Fi speed before booking if work-dependent",
+      "Confirm hot shower functionality as standard but basic"
+    ],
+    "similarHotels": [
+      {
+        "name": "Nuchjaree Place (400–700 THB (~11–19 USD) per night)",
+        "howDifferent": "Cheaper and near Khon Kaen University, better for academics but farther from city center lake."
+      },
+      {
+        "name": "Kosa Hotel Khon Kaen (600–1,200 THB (~17–33 USD) per night)",
+        "howDifferent": "Older, more spacious rooms in central Khon Kaen, but dated style compared to Roma's simpler maintenance."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Khon Kaen known for?",
+        "a": "Khon Kaen is known for its vibrant Isan culture, Bueng Kaen Nakhon lake, ancient temples like Wat Nong Wang, and as a hub for northeastern Thailand's universities and silk weaving."
+      },
+      {
+        "q": "What is Charoen Thani Hotel Khon Kaen about?",
+        "a": "Charoen Thani Hotel Khon Kaen is a mid-range option with more amenities like a pool, but it's pricier and less budget-focused than basic stays."
+      },
+      {
+        "q": "Is Roma Hotel Khon Kaen good for budget travelers?",
+        "a": "Yes, at 450–900 THB per night, it offers clean air-conditioned rooms and central access, ideal for value seekers over hostels."
+      },
+      {
+        "q": "Does Roma Hotel have free Wi-Fi?",
+        "a": "Yes, free Wi-Fi is available throughout the property, suitable for basic browsing and emails."
+      },
+      {
+        "q": "How far is Roma Hotel from Wat Nong Wang?",
+        "a": "It's a short walk, about 10-15 minutes, making it convenient for temple visits without transport."
+      },
+      {
+        "q": "What amenities does Roma Hotel offer?",
+        "a": "Expect clean rooms with air-con, hot showers, and free Wi-Fi; no pool or restaurant on-site."
+      }
+    ],
+    "urgencyLine": "Rooms at Roma Hotel Khon Kaen with central lake access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Roma Hotel Khon Kaen based on location, value, cleanliness, and amenities from verified data. We weighted central access highest because Khon Kaen's compact layout makes walking key for budget stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Roma Hotel Khon Kaen Review (2026)",
+    "metaDescription": "Roma Hotel Khon Kaen offers budget rooms (450–900 THB) with clean AC, hot showers, and free Wi-Fi near Bueng Kaen Nakhon lake. Basic amenities mean no pool, but great value for solos. Book now for central Khon Kaen stays. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:30:59.315Z"
+}

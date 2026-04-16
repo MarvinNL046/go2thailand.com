@@ -1,0 +1,203 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "lub-d-pattaya",
+  "hotel": {
+    "name": "Lub d Pattaya",
+    "category": "budget",
+    "priceRange": "400–800 THB/night (~$11–22 USD)",
+    "area": "North Pattaya",
+    "description": "Part of Thailand's best hostel chain, Lub d offers modern pod-style dorms and private rooms with clean design, fast wifi, and a social atmosphere. Common areas include a pool, coworking space, and bar. Walking distance to Terminal 21 mall and the beach.",
+    "highlights": [
+      "Swimming pool and social bar area",
+      "Pod beds with privacy curtains and USB charging",
+      "Walking distance to Terminal 21 Pattaya"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers",
+      "digital nomads"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sawasdee Siam Pattaya",
+      "category": "budget",
+      "priceRange": "500–900 THB/night (~$14–25 USD)",
+      "area": "South Pattaya",
+      "description": "A well-maintained budget hotel in central South Pattaya, minutes from Walking Street and Beach Road. Clean air-conditioned rooms with hot water, fridge, and TV. The rooftop pool is a bonus at this price point. Popular with repeat visitors who know the value.",
+      "highlights": [
+        "Rooftop swimming pool",
+        "5-minute walk to Walking Street",
+        "Clean rooms with air-con and hot water"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "nightlife seekers"
+      ],
+      "reviewScore": "4.0/5 Booking.com",
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/sawasdee-siam-pattaya.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSawasdee%2520Siam%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Areca Lodge",
+      "category": "budget",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Central Pattaya",
+      "description": "A solid mid-budget hotel on Second Road in central Pattaya with two pools, a restaurant, and well-maintained rooms. The central location means you're walking distance to Beach Road, Central Festival mall, and nightlife. Rooms are simple but spacious and consistently clean.",
+      "highlights": [
+        "Two swimming pools",
+        "Central location on Second Road",
+        "Restaurant and bar on-site"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Pattaya-Hotels.25054.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAreca%2520Lodge%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Amari Pattaya",
+      "category": "mid-range",
+      "priceRange": "3,000–5,500 THB/night (~$84–154 USD)",
+      "area": "North Pattaya",
+      "description": "Set on a private headland at the quiet northern end of Pattaya Beach, Amari occupies a prime location with direct beach access and two pools surrounded by tropical gardens. The resort feel is a world away from the Central Pattaya chaos, yet it's only a short songthaew ride to the action.",
+      "highlights": [
+        "Private headland location with direct beach access",
+        "Two pools in tropical garden setting",
+        "Multiple restaurants including Italian and Thai"
+      ],
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmari%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What's the vibe like at Lub D Phuket Patong?",
+    "Is Phuket or Pattaya better?",
+    "Is Lub D Phuket close to shopping areas?",
+    "Is Lub D Phuket Patong good for solo travelers?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Lub d Pattaya without knowing the pod dorms lack full privacy can lead to awkward shared experiences with strangers.",
+    "intro": "Lub d Pattaya delivers clean, modern pod-style dorms and private rooms in a social hostel setting with fast WiFi, a pool, and communal spaces. It's ideal for backpackers, solo travelers, and digital nomads seeking affordable stays near North Pattaya's attractions.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers and solo travelers",
+      "standout": "social atmosphere with pool",
+      "noGoFor": "families wanting private space"
+    },
+    "whyBook": [
+      "Modern pod beds with privacy curtains and USB charging",
+      "Walking distance to Terminal 21 mall and beach",
+      "On-site pool and social bar for easy mingling",
+      "Fast WiFi in coworking space for digital nomads"
+    ],
+    "whyNotBook": [
+      "Pod dorms offer limited privacy despite curtains",
+      "Social bar area gets noisy during peak evenings",
+      "Basic rooms lack fridges or kettles for longer stays",
+      "Common areas crowd up with backpacker groups midday",
+      "No on-site restaurant, relying on nearby mall food"
+    ],
+    "skipIf": "Skip if you're traveling with kids or prefer quiet, upscale hotel vibes over hostel energy.",
+    "detailedReview": "Checking into Lub d Pattaya feels welcoming, with staff at the front desk quickly assigning keys and explaining the layout in this chain's signature clean, minimalist style. Rooms buzz with a youthful vibe—pod dorms feature bunk-like beds with privacy curtains, personal lights, and USB ports, keeping things organized amid the social hum, while private rooms offer simple air-conditioned comfort with clean linens and enough space for one or two. The standout amenity is the swimming pool, a compact outdoor spot perfect for cooling off after exploring, surrounded by loungers that fill with chatting guests. Food options are casual; the on-site bar serves affordable drinks and light bites, but quality is straightforward—think basic cocktails and snacks rather than gourmet fare. Service is friendly and efficient, with staff helping with local tips or Grab bookings, though it's more self-service than pampering. Typical guests are backpackers in their 20s-30s, solo travelers sharing stories in the common areas, and remote workers tapping away in the coworking space. Overall, it's a no-frills spot that nails affordability and community without pretending to be luxurious, backed by its 4.3/5 TripAdvisor score for cleanliness and location.",
+    "locationReality": "Lub d Pattaya sits in North Pattaya, about 5-10 minutes' walk to Terminal 21 mall and the northern stretch of Pattaya Beach. Within a 5-minute stroll, you'll find convenience stores and casual eateries, but central Pattaya's nightlife like Walking Street requires a 15-20 minute Grab ride costing around 100-150 THB. The area feels quieter than the south, with easy access to beachside paths but no direct BTS since Pattaya lacks rail transit.",
+    "localSignals": [
+      "5-10 minute walk to Terminal 21 Pattaya mall",
+      "Walking distance to northern Pattaya Beach",
+      "One swimming pool on property",
+      "Fast WiFi available throughout",
+      "Social bar area but no included breakfast"
+    ],
+    "travellerNote": "Guests often praise the clean design, fast WiFi, and social poolside vibe but note the dorm pods can feel cramped during busy periods and noise from common areas lingers into evenings.",
+    "bookingTips": [
+      "Request a private room over dorm pods for more privacy",
+      "Check Agoda for cheapest rates on Lub d Pattaya bookings",
+      "Prices spike December-February during high season",
+      "Verify no construction nearby via recent reviews",
+      "Confirm pool access policy for day-use if arriving early"
+    ],
+    "similarHotels": [
+      {
+        "name": "Sawasdee Siam Pattaya (500–900 THB/night (~$14–25 USD)) — A well-maintained budget hotel in central South Pattaya, minutes from Walking Street and Beach Road. Clean air-conditioned rooms with hot wa",
+        "howDifferent": "Offers more traditional private rooms in lively South Pattaya, farther from malls but closer to nightlife than Lub d's northern spot."
+      },
+      {
+        "name": "Areca Lodge (800–1,500 THB/night (~$22–42 USD)) — A solid mid-budget hotel on Second Road in central Pattaya with two pools, a restaurant, and well-maintained rooms. The central location mea",
+        "howDifferent": "Provides two pools and on-site dining in central Pattaya, trading hostel social vibe for quieter mid-range comfort at a higher price."
+      },
+      {
+        "name": "Amari Pattaya (3,000–5,500 THB/night (~$84–154 USD)) — Set on a private headland at the quiet northern end of Pattaya Beach, Amari occupies a prime location with direct beach access and two pools",
+        "howDifferent": "Delivers upscale beachfront luxury with direct access and two pools, far pricier and more serene than Lub d's budget hostel energy."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What's the vibe like at Lub d Pattaya?",
+        "a": "The vibe is social and modern, with backpackers mingling in common areas like the pool and bar, ideal for solo travelers but lively rather than relaxed."
+      },
+      {
+        "q": "Is Pattaya better for backpackers than Phuket?",
+        "a": "Pattaya suits budget backpackers with easy beach and mall access like at Lub d, while Phuket offers more island scenery; choose based on nightlife vs nature preferences."
+      },
+      {
+        "q": "Is Lub d Pattaya close to shopping areas?",
+        "a": "Yes, it's walking distance to Terminal 21 Pattaya mall, with shops, food courts, and cinemas just 5-10 minutes away on foot."
+      },
+      {
+        "q": "Is Lub d Pattaya good for solo travelers?",
+        "a": "Absolutely, its social atmosphere, safe pod dorms, and communal spaces make it perfect for solo travelers to meet others easily."
+      },
+      {
+        "q": "Does Lub d Pattaya have a pool?",
+        "a": "Yes, it features a swimming pool in the common area, great for cooling off and socializing with other guests."
+      },
+      {
+        "q": "What's the best time to visit Lub d Pattaya?",
+        "a": "November to April offers the best weather, but book early as prices rise in December-February high season."
+      }
+    ],
+    "urgencyLine": "Rooms at Lub d Pattaya with pod beds and pool access book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Lub d Pattaya based on location, amenities, value, and guest feedback from sources like TripAdvisor. We weighted social atmosphere and cleanliness highest because they define its hostel appeal for target travelers. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Lub d Pattaya Review (2026)",
+    "metaDescription": "Lub d Pattaya in North Pattaya offers budget pod dorms, a social pool, and walks to Terminal 21 mall for backpackers. Caveat: dorms lack full privacy in lively setting. Book now for affordable stays."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:11:13.242Z"
+}

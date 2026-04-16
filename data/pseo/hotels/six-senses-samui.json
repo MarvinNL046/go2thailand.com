@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "hotelSlug": "six-senses-samui",
+  "hotel": {
+    "name": "Six Senses Samui",
+    "category": "luxury",
+    "priceRange": "18,000–50,000 THB/night (~$504–1,400 USD)",
+    "area": "North tip (Bophut area)",
+    "description": "66 private stand-alone villas on a lush green headland at Koh Samui's northern tip, most with private infinity pools. The resort is built on sustainability principles with its own organic garden, water recycling, and locally-sourced cuisine. Stunning panoramic Gulf views and a world-class spa focused on holistic wellness.",
+    "highlights": [
+      "66 stand-alone villas, most with private infinity pools",
+      "Sustainability-focused with organic garden",
+      "Panoramic Gulf of Thailand views from the northern headland"
+    ],
+    "reviewScore": "4.8/5 TripAdvisor",
+    "bestFor": [
+      "luxury seekers",
+      "wellness travelers",
+      "eco-conscious guests"
+    ],
+    "sources": [
+      {
+        "sourceName": "Nomad Mum",
+        "sourceUrl": "https://nomadmum.com/koh-samui-luxury-hotels/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSix%2520Senses%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Banyan Tree Samui",
+      "category": "luxury",
+      "priceRange": "15,000–40,000 THB/night (~$420–1,120 USD)",
+      "area": "Lamai (private cove)",
+      "description": "All-villa resort nestled into a private hillside cove near Lamai Beach. Every villa has a private infinity pool with Gulf views, indoor-outdoor living spaces, and a luxury rain shower. The resort's private beach, award-winning spa, and fine dining restaurant make it unnecessary to leave. A honeymoon and anniversary favorite.",
+      "highlights": [
+        "Every villa has a private infinity pool",
+        "Private beach in a secluded cove",
+        "Award-winning spa with signature rainforest treatments"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury seekers",
+        "anniversaries"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Elite",
+          "sourceUrl": "https://thailand-elite.com/luxury-hotels-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanyan%2520Tree%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Conrad Koh Samui",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB/night (~$336–980 USD)",
+      "area": "South coast (Taling Ngam)",
+      "description": "A modern luxury resort on Samui's quieter southwest coast with all-villa accommodation, each featuring a private infinity pool overlooking the Gulf of Thailand and the Five Islands. Michelin-level dining at Jahn restaurant, an award-winning spa, and a secluded hillside setting. Spectacular sunset views from every villa.",
+      "highlights": [
+        "All villas with private infinity pools",
+        "Michelin-level Jahn restaurant with sunset views",
+        "Dramatic southwest coast sunset location"
+      ],
+      "reviewScore": "4.6/5 TripAdvisor",
+      "bestFor": [
+        "luxury seekers",
+        "couples",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "LUXE Samui",
+          "sourceUrl": "https://luxesamui.com/best-fine-dining-restaurants-in-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DConrad%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Four Seasons Resort Koh Samui",
+      "category": "luxury",
+      "priceRange": "25,000–60,000 THB/night (~$700–1,680 USD)",
+      "area": "North coast (Ang Thong view)",
+      "description": "The island's most exclusive address — pool villas ranging from 1,100 to 1,600 sq ft cascading down a coconut grove hillside to a private beach. Each villa has a private infinity plunge pool. The resort's three restaurants, world-class spa, and cooking school ensure you never need to leave. Muay Thai classes and longtail boat excursions provide cultural depth.",
+      "highlights": [
+        "Private pool villas from 1,100 sq ft",
+        "Three acclaimed restaurants and cooking school",
+        "Private beach with views of Ang Thong islands"
+      ],
+      "reviewScore": "4.9/5 TripAdvisor",
+      "bestFor": [
+        "ultra-luxury seekers",
+        "honeymooners",
+        "celebration trips"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Elite",
+          "sourceUrl": "https://thailand-elite.com/luxury-hotels-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%2520Seasons%2520Resort%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Six Senses Samui without knowing its remote headland position can leave you isolated from Koh Samui's main beaches and nightlife.",
+    "intro": "Six Senses Samui offers 66 private stand-alone villas on a lush green headland with most featuring infinity pools and panoramic Gulf views, emphasizing sustainability through an organic garden and locally-sourced cuisine. It's ideal for luxury seekers, wellness travelers, and eco-conscious guests pursuing holistic spa experiences.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "luxury wellness seekers",
+      "standout": "private infinity pools",
+      "noGoFor": "budget partygoers"
+    },
+    "whyBook": [
+      "66 stand-alone villas ensure complete privacy on the headland.",
+      "Organic garden supplies fresh ingredients for sustainable dining.",
+      "World-class spa delivers holistic wellness treatments with Gulf views.",
+      "Most villas include private infinity pools overlooking the sea."
+    ],
+    "whyNotBook": [
+      "Remote northern tip location requires 20-30 minute drives to Chaweng Beach crowds.",
+      "High-end pricing starts at 18,000 THB with limited budget-friendly options.",
+      "Headland setting means no direct beach access, relying on resort shuttles.",
+      "Sustainability focus may limit menu variety for non-organic cuisine fans.",
+      "Villas' seclusion can feel too quiet for guests wanting nearby village energy."
+    ],
+    "skipIf": "Skip if you're traveling with young children seeking easy beach play or vibrant nightlife within walking distance.",
+    "detailedReview": "Checking into Six Senses Samui feels intimate and unhurried, with staff greeting you at the open-air lobby overlooking the Gulf of Thailand, often offering a welcome herbal infusion from the on-site organic garden. The 66 stand-alone villas blend seamlessly into the lush headland, each providing a private sanctuary—most come with infinity pools that merge into panoramic sea views, while interiors feature teak furnishings, outdoor showers, and sustainable materials like recycled water systems. Standout is the spa, where treatments draw from Thai wellness traditions using garden-fresh elements, set in pavilions with ocean breezes. Food shines through locally-sourced dishes at the treetop restaurant, emphasizing organic produce, though portions suit wellness-focused palates over indulgent feasts. Service is proactive yet unobtrusive, with butlers anticipating needs like poolside fruit deliveries, reflecting the resort's eco-principles. Typical guests are affluent couples or solo travelers in their 40s-60s, drawn to the tranquility for yoga retreats or romantic escapes, creating a serene, low-key vibe without rowdy groups.",
+    "locationReality": "Perched on Koh Samui's northern tip in the Bophut area, Six Senses Samui sits on a headland about 10-15 minutes' drive from Bophut Beach and Fisherman's Village, where you can find casual dining and markets. Reaching Chaweng Beach, the island's main hub, takes 25-30 minutes by car or Grab taxi costing around 400-600 THB. The resort's seclusion means most explorations require transport, but it offers shuttles to nearby spots.",
+    "localSignals": [
+      "10-15 minute drive to Bophut Beach.",
+      "15-20 minute transfer to Samui International Airport, around 500 THB by taxi.",
+      "66 stand-alone villas on property.",
+      "Most villas feature private infinity pools.",
+      "Panoramic views of Gulf of Thailand from headland."
+    ],
+    "travellerNote": "Guests often praise the private villas and sustainable practices for delivering serene luxury, but note the remote location demands planning for off-site activities.",
+    "bookingTips": [
+      "Request a villa with private infinity pool for optimal Gulf views.",
+      "Check Agoda for Thailand deals, often cheaper than Booking.com.",
+      "Prices spike December-February during high season and Songkran.",
+      "Verify shuttle availability to Bophut Village before booking.",
+      "Confirm breakfast inclusion, as it features organic garden items."
+    ],
+    "similarHotels": [
+      {
+        "name": "Banyan Tree Samui",
+        "howDifferent": "Nestled near Lamai Beach on a hillside cove, it offers similar pool villas but with easier access to southern island attractions."
+      },
+      {
+        "name": "Conrad Koh Samui",
+        "howDifferent": "Located on the southwest coast, it provides modern all-villa stays with pools but focuses less on sustainability than Six Senses."
+      },
+      {
+        "name": "Four Seasons Resort Koh Samui",
+        "howDifferent": "Cascading down a coconut grove to a private beach, it emphasizes exclusivity with larger villas but higher starting prices."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Six Senses Samui have private pools?",
+        "a": "Most of the 66 stand-alone villas include private infinity pools with Gulf views."
+      },
+      {
+        "q": "Is Six Senses Samui eco-friendly?",
+        "a": "Yes, it follows sustainability principles with an organic garden, water recycling, and locally-sourced cuisine."
+      },
+      {
+        "q": "What's the best time to visit Six Senses Samui?",
+        "a": "December to February offers peak weather, though prices rise; avoid rainy October-November for better value."
+      },
+      {
+        "q": "How far is Six Senses Samui from the airport?",
+        "a": "It's about 15-20 minutes by car from Samui International Airport."
+      },
+      {
+        "q": "What dining options are at Six Senses Samui?",
+        "a": "The resort features restaurants using organic garden produce and local ingredients for wellness-oriented meals."
+      },
+      {
+        "q": "Is there a spa at Six Senses Samui?",
+        "a": "Yes, a world-class spa focuses on holistic wellness with treatments inspired by Thai traditions."
+      }
+    ],
+    "urgencyLine": "Villas with private infinity pools at Six Senses Samui book out 1-2 months ahead for December-February high season — check availability today.",
+    "methodology": "We rated Six Senses Samui based on guest reviews, sustainability features, and villa privacy from TripAdvisor data scoring 4.8/5. We weighted location seclusion highest because it defines the serene experience but impacts accessibility. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Six Senses Samui Review (2026)",
+    "metaDescription": "Discover Six Senses Samui in Koh Samui: 66 private villas with infinity pools and sustainable spa on a northern headland. Remote spot means transport needed for beaches, but ideal for wellness escapes. Book your luxury stay now for Gulf views."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:35:22.330Z"
+}

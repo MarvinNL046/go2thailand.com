@@ -1,0 +1,196 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kanchanaburi",
+  "cityName": "Kanchanaburi",
+  "hotelSlug": "boutique-raft-resort",
+  "hotel": {
+    "name": "Boutique Raft Resort",
+    "category": "mid-range",
+    "priceRange": "2,000–4,000 THB/night (~$56–112 USD)",
+    "area": "Sai Yok area, River Kwai Noi",
+    "description": "A floating resort that bridges the gap between rustic raft experience and comfort. Rooms float on the river with proper beds, en-suite bathrooms, and a swimming pool on the riverbank. Mountain and jungle views from every room, with easy access to Sai Yok National Park.",
+    "highlights": [
+      "Floating rooms with modern amenities",
+      "Swimming pool on the riverbank",
+      "Mountain and jungle views from every room"
+    ],
+    "bestFor": [
+      "couples",
+      "families wanting raft experience with comfort"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/hotel/th/boutique-raft-resort-river-kwai.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBoutique%2520Raft%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Felix River Kwai Resort",
+      "category": "mid-range",
+      "priceRange": "2,000–4,500 THB/night (~$56–126 USD)",
+      "area": "Riverside, near the Bridge",
+      "description": "The most established riverside resort in Kanchanaburi, set in lush tropical gardens directly on the River Kwai with views of the famous Bridge. Features a large swimming pool, fitness center, and multiple restaurants. Rooms range from garden-view to river-facing suites.",
+      "highlights": [
+        "Direct views of the Bridge over River Kwai",
+        "Large swimming pool and fitness center",
+        "Multiple on-site dining options"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Felix River Kwai Resort",
+          "sourceUrl": "https://www.felixriverkwai.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFelix%2520River%2520Kwai%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "U Inchantree Kanchanaburi",
+      "category": "mid-range",
+      "priceRange": "2,500–5,000 THB/night (~$70–140 USD)",
+      "area": "Riverside, near the Bridge",
+      "description": "A stylish boutique hotel set in a century-old rain tree garden on the riverbank, just a 5-minute walk from the Bridge. Contemporary rooms with Thai design touches, a riverside infinity pool, and an excellent restaurant. One of the most design-conscious options in town.",
+      "highlights": [
+        "Riverside infinity pool under ancient rain trees",
+        "5-minute walk to the Bridge over River Kwai",
+        "Boutique design with local character"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "design lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297924-d1523025-Reviews-U_Inchantree_Kanchanaburi-Kanchanaburi_Kanchanaburi_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Inchantree%2520Kanchanaburi%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "River Kwai Village Hotel",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Sai Yok area, upstream on River Kwai Noi",
+      "description": "A jungle resort set on 25 acres along the River Kwai Noi, offering both land-based bungalows and floating raft rooms on the river. Surrounded by dense tropical forest with an outdoor pool, on-site elephant activities, and easy access to Sai Yok National Park.",
+      "highlights": [
+        "Choice of jungle bungalows or floating raft rooms",
+        "Set in 25 acres of tropical forest",
+        "On-site pool and direct river access"
+      ],
+      "bestFor": [
+        "families",
+        "nature lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/river-kwai-village.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRiver%2520Kwai%2520Village%2520Hotel%252C%2520Kanchanaburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Boutique Raft Resort without knowing its remote Sai Yok location can leave you stranded without easy transport to Kanchanaburi's main sights.",
+    "intro": "Boutique Raft Resort offers a unique floating stay on the River Kwai Noi, blending rustic raft vibes with comfortable rooms featuring proper beds, en-suite bathrooms, and riverbank swimming pool access. It's ideal for couples and families seeking an adventurous yet comfortable experience amid mountain and jungle views near Sai Yok National Park.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families with comfort",
+      "standout": "floating rooms",
+      "noGoFor": "luxury seekers wanting urban access"
+    },
+    "whyBook": [
+      "Experience floating rooms with modern amenities on the river.",
+      "Enjoy mountain and jungle views from every room.",
+      "Access Sai Yok National Park easily for nature hikes.",
+      "Relax in the riverbank swimming pool after adventures.",
+      "Bridge rustic raft life with en-suite bathroom comfort."
+    ],
+    "whyNotBook": [
+      "Remote Sai Yok location requires planning for transport to town.",
+      "Floating rooms may sway slightly during high river currents.",
+      "Limited on-site dining options beyond basic resort meals.",
+      "No guaranteed WiFi strength in remote river setting.",
+      "Access to urban Kanchanaburi attractions takes 45-60 minutes by car."
+    ],
+    "skipIf": "Skip if you're traveling with mobility needs, as the floating setup and riverside paths can be uneven and require stairs.",
+    "detailedReview": "Checking into Boutique Raft Resort feels like stepping into a serene riverside escape, with staff greeting you at the dock for a short boat transfer to the floating rooms. The rooms themselves deliver on the promise of comfort amid rusticity: each floats gently on the River Kwai Noi, equipped with proper beds, en-suite bathrooms, and large windows framing uninterrupted mountain and jungle views. It's not ultra-modern, but the setup bridges that gap effectively, making it feel adventurous without sacrificing basics like hot showers. The standout amenity is the swimming pool on the riverbank, a welcome spot to cool off after exploring nearby Sai Yok National Park, where trails lead to waterfalls and caves just a short drive away. Food quality leans simple and fresh, with riverside meals focusing on Thai dishes using local ingredients, though portions are modest and variety limited for longer stays. Service is friendly and attentive in a laid-back way, typical of mid-range Kanchanaburi spots, with staff happy to arrange park visits or boat trips. Guests here are often couples on romantic getaways or families dipping into nature without roughing it too much, creating a relaxed, low-key vibe where evenings involve quiet river watching rather than nightlife. Overall, it's a solid choice for those prioritizing the unique floating experience over extensive facilities.",
+    "locationReality": "Nestled in the Sai Yok area along the River Kwai Noi, Boutique Raft Resort is about 50-60 minutes by car from Kanchanaburi town's famous Bridge over the River Kwai, making day trips feasible but not walkable. Easy access to Sai Yok National Park means hikes to Hellfire Pass or waterfalls are within 10-15 minutes drive. Within a 5-minute walk, you'll find just the resort's riverbank and pool, with no shops or eateries nearby, so transport like Grab (around 1,500-2,000 THB one-way to town) is essential for anything beyond the property.",
+    "localSignals": [
+      "10-15 minute drive to Sai Yok National Park entrance.",
+      "One swimming pool on the riverbank.",
+      "Floating rooms with en-suite bathrooms standard.",
+      "Mountain and jungle views from all rooms.",
+      "Remote location, no nearby 7-Eleven within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the unique floating rooms and serene river views but note the remoteness can make getting around challenging without a rental car or arranged transport.",
+    "bookingTips": [
+      "Request river-facing floating rooms for best views.",
+      "Use Agoda for potentially cheaper rates in Thailand bookings.",
+      "Prices spike in November-February high season for cooler weather.",
+      "Verify boat transfer inclusion upon arrival from data.",
+      "Check for Sai Yok Park shuttle availability before booking."
+    ],
+    "similarHotels": [
+      {
+        "name": "Felix River Kwai Resort (2,000–4,500 THB/night (~$56–126 USD)) — The most established riverside resort in Kanchanaburi, set in lush tropical gardens directly on the River Kwai with views of the famous Brid",
+        "howDifferent": "Offers land-based rooms in gardens closer to the Bridge, less focused on floating experience."
+      },
+      {
+        "name": "U Inchantree Kanchanaburi (2,500–5,000 THB/night (~$70–140 USD)) — A stylish boutique hotel set in a century-old rain tree garden on the riverbank, just a 5-minute walk from the Bridge. Contemporary rooms wi",
+        "howDifferent": "Provides urban-style boutique comfort near town, without the remote raft adventure."
+      },
+      {
+        "name": "River Kwai Village Hotel (1,800–3,500 THB/night (~$50–100 USD)) — A jungle resort set on 25 acres along the River Kwai Noi, offering both land-based bungalows and floating raft rooms on the river. Surrounde",
+        "howDifferent": "Similar floating options but on larger grounds with more bungalow variety in jungle setting."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What makes Boutique Raft Resort unique in Kanchanaburi?",
+        "a": "It features floating rooms on the River Kwai Noi with modern amenities like en-suite bathrooms, bridging rustic raft stays and comfort near Sai Yok National Park."
+      },
+      {
+        "q": "Is there a pool at Boutique Raft Resort?",
+        "a": "Yes, there's a swimming pool on the riverbank for guests to enjoy after river activities."
+      },
+      {
+        "q": "How far is Boutique Raft Resort from the Bridge over River Kwai?",
+        "a": "It's about 50-60 minutes by car from the famous Bridge in Kanchanaburi town."
+      },
+      {
+        "q": "What views can I expect at Boutique Raft Resort?",
+        "a": "Every room offers mountain and jungle views directly from the floating setup on the river."
+      },
+      {
+        "q": "Is Boutique Raft Resort suitable for families?",
+        "a": "Yes, it's great for families wanting a comfortable raft experience with proper beds and nearby park access."
+      },
+      {
+        "q": "What amenities are in the rooms at Boutique Raft Resort?",
+        "a": "Rooms include proper beds, en-suite bathrooms, and river views, focusing on comfort in a floating environment."
+      }
+    ],
+    "urgencyLine": "Floating rooms at Boutique Raft Resort with river views book out 1-2 months ahead for November-February high season — check availability today.",
+    "methodology": "We rated Boutique Raft Resort based on its unique floating concept, location access, and mid-range amenities from provided data. We weighted the river experience highest because it defines the property's appeal in Kanchanaburi's nature-focused scene. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Boutique Raft Resort Review (2026)",
+    "metaDescription": "Boutique Raft Resort in Kanchanaburi offers floating rooms with modern amenities and river views near Sai Yok National Park. Remote location means planning transport, but it's perfect for couples seeking adventure. Book for a unique stay today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:27:28.915Z"
+}

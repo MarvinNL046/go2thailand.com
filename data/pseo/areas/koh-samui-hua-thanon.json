@@ -1,0 +1,132 @@
+{
+  "template": "area-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "areaSlug": "hua-thanon",
+  "areaName": "Hua Thanon",
+  "neighborhood": {
+    "name": "Hua Thanon",
+    "description": "Hua Thanon is a coastal village in the south of Koh Samui with a focus on fishing and local commerce. It features a daily fresh seafood market and several Thai Muslim restaurants. The beach here is narrower and used more by locals than for swimming.",
+    "bestFor": "foodies, budget travelers",
+    "priceLevel": "€",
+    "highlights": [
+      "Hua Thanon Market",
+      "Hua Thanon Beach",
+      "Wat Khiri Wongkaram"
+    ],
+    "walkingScore": "Low",
+    "transportNotes": [
+      "Songthaews from Lamai Beach",
+      "Taxi rides from Chaweng take 20 minutes"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+      },
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/island/surat_thani/koh_samui/south/hua_thanom"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Chaweng Beach",
+    "Lamai Beach",
+    "Bophut (Fisherman's Village)",
+    "Maenam Beach",
+    "Choeng Mon"
+  ],
+  "paaQuestions": [
+    "Which part of Koh Samui is the best to stay?",
+    "Which month to avoid Koh Samui?",
+    "What is the nicest town in Koh Samui?",
+    "What to be careful of in Koh Samui?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Hua Thanon can leave you isolated from the seafood market action — most first-timers overlook the village core and end up hiking to eateries.",
+    "intro": "Hua Thanon stands out as a coastal village in southern Koh Samui centered on fishing and local commerce, with a daily fresh seafood market and Thai Muslim restaurants drawing in authentic eats. We ranked it highly for budget travelers and foodies seeking a low-key alternative to tourist hubs, prioritizing affordability and local immersion over beachfront glamour.",
+    "vibe": "Local + authentic",
+    "quickStats": {
+      "priceBand": "€",
+      "walkability": "Low",
+      "bestFor": "foodies and budget travelers",
+      "safetyNote": "Safe during day, watch belongings near market crowds"
+    },
+    "detailedDescription": "In Hua Thanon, mornings start with fishermen unloading catches at the bustling daily seafood market, where locals haggle over fresh squid and prawns amid the smell of salt and diesel from nearby boats. The village hums with Thai Muslim families running small shops and eateries serving spicy curries and roti, creating a community feel that's more residential than resort-like. Daytime sees a steady flow of budget travelers browsing stalls or grabbing cheap meals, but the narrow beach draws mostly locals for picnics rather than swims, with its pebbly edges and fishing nets cluttering the shore. As evening falls, the pace slows; a few restaurants light up with lanterns, offering grilled fish dinners, but the area quiets down without the party noise of northern beaches. Noise levels stay low overall, broken only by occasional scooter revs on the main road, making it ideal for relaxed stays. Getting around means relying on songthaews from Lamai Beach for short hops or taxis from Chaweng, about 20 minutes away, since walking distances stretch due to the spread-out layout. Foodies thrive here on authentic, inexpensive Thai-Muslim cuisine, but expect to plan transport for exploring beyond the village's compact commerce zone.",
+    "localSignals": [
+      "Taxi from Samui International Airport takes 30-40 minutes, cost varies by traffic",
+      "Hua Thanon Beach is 5-10 minutes walk from village center",
+      "Songthaews from Lamai Beach run every 15-20 minutes until evening",
+      "Noise level at night is quiet, with minimal traffic after 9pm",
+      "Nearest 7-Eleven is 5-minute walk near Hua Thanon Market"
+    ],
+    "pros": [
+      "Fresh seafood market daily for cheap eats",
+      "Authentic Thai-Muslim restaurants abound",
+      "Budget-friendly guesthouses and rentals",
+      "Quiet nights away from party crowds",
+      "Easy access to local fishing village life"
+    ],
+    "cons": [
+      "Narrow beach unsuitable for swimming",
+      "Low walkability requires transport planning",
+      "Limited nightlife or entertainment options",
+      "Market crowds can feel overwhelming midday",
+      "Songthaews infrequent after dark"
+    ],
+    "skipIf": "Skip if you're seeking wide sandy beaches and high walkability for easy exploration.",
+    "compareTo": [
+      {
+        "areaName": "Chaweng Beach",
+        "shortPitch": "Chaweng offers bustling nightlife and wide beaches unlike Hua Thanon's quiet fishing focus.",
+        "recommendFor": "partygoers and swimmers"
+      },
+      {
+        "areaName": "Lamai Beach",
+        "shortPitch": "Lamai provides more tourist amenities and better walkability compared to Hua Thanon's local commerce vibe.",
+        "recommendFor": "families and mid-range travelers"
+      },
+      {
+        "areaName": "Bophut (Fisherman's Village)",
+        "shortPitch": "Bophut blends boutique shops and dining with a preserved village charm, more polished than Hua Thanon's raw market scene.",
+        "recommendFor": "shoppers and upscale diners"
+      }
+    ],
+    "travellerNote": "Travellers often praise the authentic seafood market and affordable local eats but note the limited beach activities and need for taxis to reach other parts of the island.",
+    "faq": [
+      {
+        "q": "Which part of Koh Samui is the best to stay?",
+        "a": "The best part depends on your vibe; Hua Thanon suits foodies and budget travelers for its market and eateries, while Chaweng Beach is ideal for nightlife lovers. Consider your priorities like walkability and price before choosing."
+      },
+      {
+        "q": "Which month to avoid Koh Samui?",
+        "a": "Avoid September and October due to heavy monsoon rains that disrupt beach plans and transport. Opt for December to April for drier weather in areas like Hua Thanon."
+      },
+      {
+        "q": "What is the nicest town in Koh Samui?",
+        "a": "Bophut's Fisherman's Village is often called the nicest for its charming mix of shops and beaches, though Hua Thanon appeals if you prefer a genuine local fishing atmosphere over polished tourism."
+      },
+      {
+        "q": "What to be careful of in Koh Samui?",
+        "a": "Be cautious of overpaying at unregulated taxis and watch for strong currents on beaches; in Hua Thanon, stick to well-lit paths near the market at night and verify fresh seafood quality."
+      },
+      {
+        "q": "Is Hua Thanon good for families?",
+        "a": "Hua Thanon works for budget family stays focused on local food experiences, but skip it if you need kid-friendly pools or wide swimming beaches—head to Lamai instead."
+      },
+      {
+        "q": "How to get around Hua Thanon?",
+        "a": "Use songthaews from Lamai for cheap rides or taxis from Chaweng in 20 minutes; renting a scooter helps with low walkability, but drive carefully on narrow roads."
+      }
+    ],
+    "urgencyLine": "Budget spots near Hua Thanon Market fill up fast during dry season—book 2 months ahead for peak December-January availability.",
+    "methodology": "We compared Hua Thanon to Chaweng Beach and Lamai Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted food scene highest because it defines the area's authentic draw for budget foodies over generic beach access. Last updated: 2026-04.",
+    "metaTitle": "Staying in Hua Thanon, Koh Samui (2026)",
+    "metaDescription": "Discover staying in Hua Thanon, Koh Samui: budget-friendly fishing village with fresh seafood markets and local eats. Ideal for foodies—compare areas and…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:31:46.526Z"
+}

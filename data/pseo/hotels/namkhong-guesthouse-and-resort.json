@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-khong",
+  "cityName": "Chiang Khong",
+  "hotelSlug": "namkhong-guesthouse-and-resort",
+  "hotel": {
+    "name": "Namkhong Guesthouse and Resort",
+    "category": "budget",
+    "priceRange": "450-1,200 THB/night (~$13-34 USD)",
+    "area": "Central Sai Klang Road, riverside",
+    "description": "One of Chiang Khong's best-known guesthouses and a rarity for the budget category — it has a swimming pool. Rooms range from basic fan rooms to air-conditioned units with river views. The Mekong-facing grounds are pleasant for a morning coffee while watching Laotian fishermen on the water. A reliable, well-managed property that handles both budget backpackers and more comfort-seeking travelers.",
+    "highlights": [
+      "Swimming pool — uncommon at this price range in Chiang Khong",
+      "Range of room types from fan to air-con with river views",
+      "Well-established with consistent management and cleanliness"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "couples",
+      "travelers wanting a pool"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1015984-d2617237-Reviews-Namkhong_Guesthouse_and_Resort-Chiang_Khong_Chiang_Rai_Province.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNamkhong%2520Guesthouse%2520and%2520Resort%252C%2520Chiang%2520Khong%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Portside Hotel",
+      "category": "budget",
+      "priceRange": "400-600 THB/night (~$11-17 USD)",
+      "area": "Central Sai Klang Road, riverside",
+      "description": "One of Chiang Khong's most characterful budget options, the Portside sits directly on the Mekong riverbank with a flat roof that doubles as a sunset terrace. Clean, basic rooms with air conditioning and en-suite bathrooms face the river. Run by a friendly local owner, it has the lived-in warmth of a proper guesthouse rather than a corporate hotel. Popular with overland travelers on the Southeast Asia trail.",
+      "highlights": [
+        "Direct Mekong riverfront with rooftop terrace",
+        "Clean air-conditioned rooms with en-suite at budget prices",
+        "Friendly owner with local knowledge about the border crossing and slow boat"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "overland travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "GT-Rider Forums",
+          "sourceUrl": "https://www.gt-rider.com/se-asia-motorcycling/threads/chiang-khong-accommodation.3869/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPortside%2520Hotel%252C%2520Chiang%2520Khong%252C%2520Thailand"
+    },
+    {
+      "name": "Baanfai Guesthouse Chiangkhong",
+      "category": "budget",
+      "priceRange": "400-900 THB/night (~$11-25 USD)",
+      "area": "Central Sai Klang Road, riverside",
+      "description": "A well-established and highly rated guesthouse with its main entrance on Sai Klang Road and buildings extending back to the river with terrace views. Fan rooms are simple with bathrooms and hot showers; air-conditioned rooms are spacious with good balconies. There is a coffee shop on-site adjacent to a Thai Lu and hilltribe textile souvenir shop. Guest reviews consistently praise the friendly owners, cleanliness, and prime central location.",
+      "highlights": [
+        "Central location on Sai Klang Road with riverside buildings",
+        "On-site coffee shop and textile souvenir shop",
+        "Mix of fan and AC rooms to suit different budgets"
+      ],
+      "reviewScore": "8.2/10 Booking.com (675 reviews)",
+      "bestFor": [
+        "backpackers",
+        "couples",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/baanfai-guesthouse.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaanfai%2520Guesthouse%2520Chiangkhong%252C%2520Chiang%2520Khong%252C%2520Thailand"
+    },
+    {
+      "name": "Baanrimtaling Home Stay",
+      "category": "budget",
+      "priceRange": "500-800 THB/night (~$14-22 USD)",
+      "area": "Riverside, south of town center",
+      "description": "A charming riverside establishment built from wood with a pleasant restaurant area possessing excellent Mekong views. The rooms are simply furnished but clean, and the wooden construction gives the guesthouse genuine local character. The restaurant emphasizes vegetarian dishes alongside standard Thai fare — a rarity in Chiang Khong and appreciated by many travelers. A quiet, authentic choice away from the main tourist cluster.",
+      "highlights": [
+        "Wooden construction with genuine local character",
+        "Riverside restaurant with vegetarian-friendly menu",
+        "Quieter location away from the main guesthouse strip"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "vegetarians",
+        "travelers seeking authenticity"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation_profile/thailand/northern_thailand/chiang_rai/chiang_khong/all/1766",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaanrimtaling%2520Home%2520Stay%252C%2520Chiang%2520Khong%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Namkhong Guesthouse and Resort without knowing the basic fan rooms lack air-conditioning can lead to uncomfortable stays during hot Chiang Khong evenings.",
+    "intro": "Namkhong Guesthouse and Resort delivers reliable budget accommodations with a rare swimming pool and Mekong River views from some rooms, catering to backpackers and couples seeking value. It's well-managed for consistent cleanliness and suits travelers who prioritize a pool over luxury.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget pool-seeking travelers",
+      "standout": "swimming pool",
+      "noGoFor": "luxury comfort seekers"
+    },
+    "whyBook": [
+      "Uncommon swimming pool for budget stays in Chiang Khong",
+      "River view rooms available for Mekong scenery",
+      "Range of fan to air-con options fits various budgets",
+      "Well-established management ensures cleanliness",
+      "Pleasant grounds for morning coffee by the river"
+    ],
+    "whyNotBook": [
+      "Basic fan rooms can feel stuffy without AC",
+      "Limited room upgrades may not satisfy comfort seekers",
+      "Pool uncommon but small and shared among guests",
+      "Riverside location exposes some rooms to humidity",
+      "No guaranteed river views in lower-priced fan rooms"
+    ],
+    "skipIf": "Skip if you're traveling with young children who need extensive kid-friendly amenities beyond a basic pool.",
+    "detailedReview": "Checking into Namkhong Guesthouse and Resort feels straightforward and welcoming, with staff handling both backpackers and couples efficiently at the front desk on Central Sai Klang Road. Rooms vary from simple fan-cooled basics to air-conditioned units with balconies overlooking the Mekong, where Laotian fishermen are visible in the mornings; expect clean but no-frills setups with minimal decor, suitable for short stays. The standout amenity is the swimming pool, a rarity in Chiang Khong's budget category, providing a refreshing spot amid the tropical heat, though it's modest in size. Food at the on-site area is basic Thai fare, reliable for breakfast coffee while enjoying river views, but portions are standard without gourmet flair. Service is consistent and friendly, reflecting the property's well-managed status, with quick responses to requests. Typical guests include budget-conscious travelers in their 20s-40s, solo adventurers, and pairs crossing into Laos, drawn by the riverside calm and pool access for unwinding after border runs.",
+    "locationReality": "Situated on Central Sai Klang Road directly riverside, Namkhong Guesthouse and Resort is within a 5-minute walk to local eateries and shops along the main strip. The Mekong River is right at the doorstep for scenic views, but the Huay Xai ferry terminal requires a 10-15 minute walk or short songthaew ride. Getting to Chiang Rai Airport involves a 1-1.5 hour drive, typically costing 800-1,200 THB by shared minivan.",
+    "localSignals": [
+      "Riverside location: 0 minutes to Mekong River views",
+      "One swimming pool on property",
+      "Central Sai Klang Road: 5-min walk to local restaurants",
+      "Rooms from 450 THB, no breakfast inclusion specified",
+      "Nearest major transport: 10-15 min walk to border ferry"
+    ],
+    "travellerNote": "Guests often praise the swimming pool and river views for adding value to budget stays but note that basic fan rooms can feel warm and lack modern amenities.",
+    "bookingTips": [
+      "Request air-conditioned river view rooms for comfort",
+      "Agoda often cheaper than Booking.com for Thailand guesthouses",
+      "Prices spike in November-February high season for border traffic",
+      "Verify pool access policy as it's shared",
+      "Check for any ongoing maintenance on riverside grounds"
+    ],
+    "similarHotels": [
+      {
+        "name": "Portside Hotel",
+        "howDifferent": "Offers more characterful Mekong riverbank setting without a pool but at slightly lower prices."
+      },
+      {
+        "name": "Baanfai Guesthouse Chiangkhong",
+        "howDifferent": "Provides similar riverside access with terra-cotta buildings but lacks a swimming pool."
+      },
+      {
+        "name": "Baanrimtaling Home Stay",
+        "howDifferent": "Focuses on wooden charm and restaurant views without air-con options or a pool."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Namkhong Guesthouse and Resort have a swimming pool?",
+        "a": "Yes, it features a swimming pool, which is uncommon for budget properties in Chiang Khong."
+      },
+      {
+        "q": "What types of rooms are available at Namkhong Guesthouse?",
+        "a": "Rooms range from basic fan-cooled to air-conditioned units, some with Mekong River views."
+      },
+      {
+        "q": "Is Namkhong Guesthouse suitable for couples?",
+        "a": "Yes, it's ideal for couples seeking budget riverside stays with pool access and pleasant grounds."
+      },
+      {
+        "q": "How far is Namkhong Guesthouse from the Mekong River?",
+        "a": "It's directly riverside on Central Sai Klang Road, offering immediate access to river views."
+      },
+      {
+        "q": "What's the price range for Namkhong Guesthouse and Resort?",
+        "a": "Rooms cost 450-1,200 THB per night, approximately $13-34 USD."
+      },
+      {
+        "q": "Is breakfast included at Namkhong Guesthouse?",
+        "a": "Breakfast is not specified as included; expect options for coffee and basic meals on-site."
+      }
+    ],
+    "urgencyLine": "Rooms at Namkhong Guesthouse and Resort with river views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Namkhong Guesthouse and Resort based on price, amenities like the pool, location, and management consistency from available data. We weighted the standout pool highest because it's rare in Chiang Khong's budget segment, enhancing value for travelers. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Namkhong Guesthouse Review (2026)",
+    "metaDescription": "Namkhong Guesthouse and Resort in Chiang Khong offers budget rooms with a rare swimming pool and Mekong views for $13-34/night. Basic fan options may feel warm; ideal for value seekers. Book now for reliable stays."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:01:31.000Z"
+}

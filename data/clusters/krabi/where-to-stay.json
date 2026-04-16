@@ -20,10 +20,25 @@
         "Easy scooter access to Tiger Cave Temple and inland attractions",
         "Grab/Bolt ride-hailing works reliably here"
       ],
-      "recommendedHotels": ["Sea Seeker Krabi Resort", "Panan Krabi Resort", "Holiday Inn Resort Krabi Ao Nang Beach", "Aonang Cliff Beach Resort"],
+      "recommendedHotels": [
+        "Sea Seeker Krabi Resort",
+        "Panan Krabi Resort",
+        "Holiday Inn Resort Krabi Ao Nang Beach",
+        "Aonang Cliff Beach Resort"
+      ],
       "walkingScore": "7/10",
-      "transportNotes": ["Songthaew to Krabi Town 60 THB (30 min)", "Longtail boats to Railay 100 THB from the eastern pier", "All major tour operators pick up from Ao Nang hotels"],
-      "sources": [{"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/ao-nang", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "Songthaew to Krabi Town 60 THB (30 min)",
+        "Longtail boats to Railay 100 THB from the eastern pier",
+        "All major tour operators pick up from Ao Nang hotels"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/ao-nang",
+          "lastVerified": "2026-03-13"
+        }
+      ]
     },
     {
       "name": "Railay Beach",
@@ -37,10 +52,23 @@
         "Phra Nang Cave Beach — one of Thailand's top 5 beaches",
         "Walking distance between all four beaches via jungle trails"
       ],
-      "recommendedHotels": ["Railay Bay Resort & Spa", "Rayavadee"],
+      "recommendedHotels": [
+        "Railay Bay Resort & Spa",
+        "Rayavadee"
+      ],
       "walkingScore": "8/10",
-      "transportNotes": ["Longtail from Ao Nang 100 THB (15 min, boats run until ~6 PM)", "After 6 PM charter only — 800 THB", "No road access — everything arrives by boat including supplies"],
-      "sources": [{"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/railay", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "Longtail from Ao Nang 100 THB (15 min, boats run until ~6 PM)",
+        "After 6 PM charter only — 800 THB",
+        "No road access — everything arrives by boat including supplies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/railay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
     },
     {
       "name": "Krabi Town",
@@ -54,10 +82,22 @@
         "Ferry pier connections to Koh Phi Phi and Koh Lanta",
         "Closest base to Tiger Cave Temple (8 km)"
       ],
-      "recommendedHotels": ["Pak-Up Hostel"],
+      "recommendedHotels": [
+        "Pak-Up Hostel"
+      ],
       "walkingScore": "6/10",
-      "transportNotes": ["Songthaew to Ao Nang 60 THB (30 min, runs until ~6 PM)", "Chao Fah Pier for ferries to Koh Phi Phi and Koh Lanta", "Tiger Cave Temple 8 km — easy scooter or tuk-tuk ride"],
-      "sources": [{"sourceName": "Rough Guides", "sourceUrl": "https://www.roughguides.com/thailand/southern-thailand-andaman-coast/krabi/", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "Songthaew to Ao Nang 60 THB (30 min, runs until ~6 PM)",
+        "Chao Fah Pier for ferries to Koh Phi Phi and Koh Lanta",
+        "Tiger Cave Temple 8 km — easy scooter or tuk-tuk ride"
+      ],
+      "sources": [
+        {
+          "sourceName": "Rough Guides",
+          "sourceUrl": "https://www.roughguides.com/thailand/southern-thailand-andaman-coast/krabi/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
     },
     {
       "name": "Klong Muang",
@@ -71,10 +111,23 @@
         "20 minutes to Ao Nang for island tours and restaurants",
         "Peaceful setting without tourist-town hustle"
       ],
-      "recommendedHotels": ["Dusit Thani Krabi Beach Resort", "Sofitel Krabi Phokeethra Golf & Spa Resort"],
+      "recommendedHotels": [
+        "Dusit Thani Krabi Beach Resort",
+        "Sofitel Krabi Phokeethra Golf & Spa Resort"
+      ],
       "walkingScore": "3/10",
-      "transportNotes": ["20 min drive to Ao Nang (200-300 THB by Grab)", "Most resorts arrange island tours with hotel pickup", "Scooter rental recommended for exploring beyond the beach"],
-      "sources": [{"sourceName": "Booking.com", "sourceUrl": "https://www.booking.com/city/th/ao-nang.html", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "20 min drive to Ao Nang (200-300 THB by Grab)",
+        "Most resorts arrange island tours with hotel pickup",
+        "Scooter rental recommended for exploring beyond the beach"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
     },
     {
       "name": "Tubkaek Beach",
@@ -88,10 +141,168 @@
         "Complete seclusion — rarely more than a handful of people on the sand",
         "Unforgettable sunset views over the Andaman Sea"
       ],
-      "recommendedHotels": ["Phulay Bay, a Ritz-Carlton Reserve"],
+      "recommendedHotels": [
+        "Phulay Bay, a Ritz-Carlton Reserve"
+      ],
       "walkingScore": "2/10",
-      "transportNotes": ["30 min drive to Ao Nang (300-400 THB by Grab)", "Resort arranges all transfers and tours", "No public transport — completely resort-dependent for transport"],
-      "sources": [{"sourceName": "Marriott", "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "30 min drive to Ao Nang (300-400 THB by Grab)",
+        "Resort arranges all transfers and tours",
+        "No public transport — completely resort-dependent for transport"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Nopparat Thara Beach",
+      "description": "Nopparat Thara Beach stretches along the coast next to Ao Nang and is part of Mu Ko Nopparat Thara–Phi Phi National Park. The area includes residential zones and a market where local vendors sell food and goods. It serves as an entry point for boat trips to nearby islands.",
+      "bestFor": "families, budget travelers, first-time visitors",
+      "priceLevel": "€–€€€",
+      "highlights": [
+        "Nopparat Thara Beach",
+        "Ao Nang Night Market",
+        "Dragon Crest Mountain viewpoint",
+        "Muslim fishing village"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaew shuttles to Ao Nang",
+        "Local taxis available",
+        "Access to national park boats"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Mu_Ko_Nopparat_Thara%E2%80%93Phi_Phi_National_Park"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g297927-d1397188-Reviews-Nopparat_Tha_Beach-Krabi_Town_Krabi_Province.html"
+        }
+      ]
+    },
+    {
+      "name": "Saladan",
+      "description": "Saladan is the main pier and administrative town on Koh Lanta's northern end. It functions as the arrival point for ferries from Krabi and Phuket. The area has shops, restaurants, and basic accommodations catering to arrivals.",
+      "bestFor": "backpackers, budget travelers, digital nomads",
+      "priceLevel": "€",
+      "highlights": [
+        "Saladan Pier",
+        "Lanta Old Town nearby",
+        "Saladan Night Market",
+        "Local seafood restaurants"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Ferry pier for inter-island travel",
+        "Motorbike rentals common",
+        "Songthaews to other Lanta beaches"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Lanta_District"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/thailand/koh_lanta/saladan"
+        }
+      ]
+    },
+    {
+      "name": "Long Beach, Koh Lanta",
+      "description": "Long Beach, also known as Phra Ae Beach, is a 3 km stretch of sand on Koh Lanta's west coast. It features beachfront bungalows and restaurants along the shore. The area is connected by road to other parts of the island.",
+      "bestFor": "families, kids, couples",
+      "priceLevel": "€€",
+      "highlights": [
+        "Long Beach",
+        "Klong Dao Night Market nearby",
+        "Beachfront massage spots",
+        "Diving shops for snorkeling trips"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews along the main road",
+        "Motorbike taxis",
+        "Ferry access via Saladan"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g303905-d246915-Reviews-Long_Beach_Ko_Lanta-Ko_Lanta_Krabi_Province.html"
+        },
+        {
+          "sourceName": "TAT Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Attraction/koh-lanta"
+        }
+      ]
+    },
+    {
+      "name": "Tonsai, Koh Phi Phi",
+      "description": "Tonsai is the main village and beach on Koh Phi Phi Don, serving as the island's commercial center. It has a harbor for longtail boats and longtail ferries from Krabi. The area includes guesthouses and eateries packed along narrow paths.",
+      "bestFor": "backpackers, nightlife, party",
+      "priceLevel": "€€",
+      "highlights": [
+        "Tonsai Beach",
+        "Phi Phi Island Pier",
+        "Loh Dalum Bay nearby",
+        "Jungle Beach trail",
+        "Local bars along the beach"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Longtail boats to other bays",
+        "Ferries from Krabi Town",
+        "No cars, foot or boat only"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Phi_Phi_Don"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/thailand/phi_phi_islands/tonsai"
+        }
+      ]
+    },
+    {
+      "name": "Loh Dalum Bay, Koh Phi Phi",
+      "description": "Loh Dalum Bay is a shallow beach area on Koh Phi Phi Don connected to Tonsai by a short walk. It hosts fire shows and gatherings in the evenings. The bay is surrounded by cliffs and accessible by foot from the main village.",
+      "bestFor": "nightlife, party, bars",
+      "priceLevel": "€–€€",
+      "highlights": [
+        "Loh Dalum Beach",
+        "Fire show venues",
+        "Beach bars",
+        "Monkey Beach viewpoint nearby"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Walk from Tonsai Village",
+        "Longtail boats for island hopping",
+        "Ferry arrivals at Tonsai"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g303912-d450843-Reviews-Loh_Dalum_Bay-Ko_Phi_Phi_Don_Ao_Nang_Krabi_Province.html"
+        },
+        {
+          "sourceName": "Reddit r/Thailand",
+          "sourceUrl": "https://www.reddit.com/r/Thailand/comments/phi_phi_beach_parties/"
+        }
+      ]
     }
   ],
   "generalTips": [
@@ -103,11 +314,41 @@
     "Book Railay accommodation at least 2-3 weeks ahead for December-January — limited room supply on the peninsula"
   ],
   "generatedAt": "2026-03-13",
-  "lastUpdated": "2026-03-13",
+  "lastUpdated": "2026-04-15",
   "sources": [
-    {"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/krabi-province", "lastVerified": "2026-03-13"},
-    {"sourceName": "Rough Guides", "sourceUrl": "https://www.roughguides.com/thailand/southern-thailand-andaman-coast/krabi/", "lastVerified": "2026-03-13"},
-    {"sourceName": "Booking.com", "sourceUrl": "https://www.booking.com/city/th/ao-nang.html", "lastVerified": "2026-03-13"},
-    {"sourceName": "Marriott", "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi", "lastVerified": "2026-03-13"}
+    {
+      "sourceName": "Lonely Planet",
+      "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/krabi-province",
+      "lastVerified": "2026-03-13"
+    },
+    {
+      "sourceName": "Rough Guides",
+      "sourceUrl": "https://www.roughguides.com/thailand/southern-thailand-andaman-coast/krabi/",
+      "lastVerified": "2026-03-13"
+    },
+    {
+      "sourceName": "Booking.com",
+      "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+      "lastVerified": "2026-03-13"
+    },
+    {
+      "sourceName": "Marriott",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+      "lastVerified": "2026-03-13"
+    }
+  ],
+  "enrichmentLog": [
+    {
+      "date": "2026-04-15T14:18:27.141Z",
+      "added": [
+        "Nopparat Thara Beach",
+        "Saladan",
+        "Long Beach, Koh Lanta",
+        "Tonsai, Koh Phi Phi",
+        "Loh Dalum Bay, Koh Phi Phi"
+      ],
+      "tokensIn": 725,
+      "tokensOut": 3445
+    }
   ]
 }

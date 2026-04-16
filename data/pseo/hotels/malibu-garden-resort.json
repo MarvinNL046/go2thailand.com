@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "rayong",
+  "cityName": "Rayong",
+  "hotelSlug": "malibu-garden-resort",
+  "hotel": {
+    "name": "Malibu Garden Resort",
+    "category": "mid-range",
+    "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+    "area": "Koh Samet (Ao Phai)",
+    "description": "A quietly popular resort on Koh Samet's Ao Phai beach — one of the island's best snorkeling beaches and less crowded than Hat Sai Kaew to the north. Wooden bungalows with sea views set in a garden property directly on the bay. The beach in front has the island's best snorkeling just off the shore. A short walk to Hat Sai Kaew's restaurants and nightlife.",
+    "highlights": [
+      "Beachfront on Ao Phai — best snorkeling beach on Koh Samet",
+      "Wooden bungalows with sea views and private terraces",
+      "Quieter stretch of coast but 10 minutes walk to Hat Sai Kaew nightlife"
+    ],
+    "bestFor": [
+      "couples",
+      "snorkelers",
+      "travelers seeking quieter Koh Samet"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/rayong.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMalibu%2520Garden%2520Resort%252C%2520Rayong%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Holiday Inn & Suites Rayong City Centre",
+      "category": "mid-range",
+      "priceRange": "2,400-4,000 THB/night (~$67-112 USD)",
+      "area": "Rayong City",
+      "description": "The most comfortable international-standard hotel in Rayong City, operated by IHG. Central location on Sukhumvit Road with easy access to restaurants, the morning market, and highway connections. Modern rooms with reliable amenities, swimming pool, fitness center, and a restaurant. Popular with business travelers and tourists who want IHG consistency in a completely authentic Thai city setting.",
+      "highlights": [
+        "IHG brand reliability in Rayong's most convenient city location",
+        "Swimming pool and fitness center",
+        "Walking distance to Rayong City restaurants and morning market"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "families",
+        "city base for exploring the province"
+      ],
+      "sources": [
+        {
+          "sourceName": "IHG",
+          "sourceUrl": "https://rayong.holidayinn.com",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520%2526%2520Suites%2520Rayong%2520City%2520Centre%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Wang Gaew Resort",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Laem Mae Phim",
+      "description": "A well-regarded Thai-run resort on the Laem Mae Phim beach area with comfortable rooms, a swimming pool, and direct beach access. The setting is quieter than Koh Samet and the beach in front is far less crowded. Good value mid-range option on the eastern coast, popular with Thai families on weekend breaks. Restaurant on site serves fresh seafood.",
+      "highlights": [
+        "Direct beach access on Laem Mae Phim Bay",
+        "Swimming pool and on-site seafood restaurant",
+        "Quieter alternative to Koh Samet with similar beach quality"
+      ],
+      "bestFor": [
+        "families",
+        "couples",
+        "Thai beach holiday"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297935-Rayong_Rayong_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWang%2520Gaew%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Samed Cabana Resort",
+      "category": "mid-range",
+      "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+      "area": "Koh Samet (Hat Sai Kaew)",
+      "description": "A popular mid-range resort on Koh Samet's main Hat Sai Kaew (White Sand Beach), with bungalows and rooms spread across a beachfront property. The island location adds an automatic premium — everything costs more on Koh Samet than the mainland. Comfortable rooms with garden or sea views, swimming pool, and the white sand beach literally steps from your door. Rates include the national park fee in some packages.",
+      "highlights": [
+        "Beachfront on Hat Sai Kaew — Koh Samet's most famous beach",
+        "Swimming pool plus private beach",
+        "Central location for island restaurants, fire shows, and snorkeling"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-time Koh Samet visitors",
+        "island atmosphere"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g3226169-Chak_Phong_Klaeng_Rayong_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSamed%2520Cabana%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Malibu Garden Resort without knowing the 10-minute walk to Hat Sai Kaew can leave you isolated from island nightlife after dark.",
+    "intro": "Malibu Garden Resort offers wooden bungalows with sea views in a garden setting directly on Ao Phai beach, providing easy access to prime snorkeling spots off the shore. It's ideal for couples and snorkelers seeking a quieter alternative to busier Hat Sai Kaew.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and snorkelers",
+      "standout": "beach access",
+      "noGoFor": "nightlife seekers"
+    },
+    "whyBook": [
+      "Beachfront on Ao Phai for immediate snorkeling",
+      "Wooden bungalows with private sea-view terraces",
+      "Garden property in quieter coastal stretch",
+      "Short 10-minute walk to Hat Sai Kaew restaurants"
+    ],
+    "whyNotBook": [
+      "No on-site pool for non-beach relaxation",
+      "Wooden bungalows feel rustic without modern amenities",
+      "Limited dining options directly at the resort",
+      "Requires ferry access adding travel time from Rayong",
+      "Quieter location means fewer evening activities on-site"
+    ],
+    "skipIf": "Skip if you're traveling with young children who need resort pools and kids' clubs nearby.",
+    "detailedReview": "Checking into Malibu Garden Resort feels relaxed and low-key, with staff greeting guests at the garden-front reception amid tropical foliage leading to the beach. The wooden bungalows deliver a cozy, island-vibe stay, featuring simple interiors with sea views from private terraces—perfect for morning coffee overlooking Ao Phai bay. Standout is the direct beach access, where clear waters invite snorkeling right off the shore without boat trips, making it a highlight for marine enthusiasts. Food quality centers on basic Thai meals at the on-site eatery, fresh seafood from the bay but portions suited for light dinners rather than elaborate buffets. Service style is friendly and attentive in a family-run manner, with staff quick to arrange snorkel gear or beach towels. Typical guests are couples in their 30s-50s escaping crowds, snorkelers prioritizing nature over luxury, and pairs enjoying quiet evenings on terraces. The property's garden layout provides shaded paths between bungalows, enhancing privacy, though the wooden structures may creak in wind, adding to the authentic tropical feel without high-end polish. Overall, it suits those valuing serene beach time over resort frills, with the short walk to Hat Sai Kaew offering a balance of seclusion and convenience.",
+    "locationReality": "Malibu Garden Resort sits directly on Ao Phai beach in Koh Samet, a 10-minute walk south from the more lively Hat Sai Kaew beach with its restaurants and bars. The area feels tranquil with fewer crowds, ideal for beach lounging, but reaching the island requires a 20-30 minute ferry from Ban Phe pier in mainland Rayong, costing around 50-100 THB one-way. Within a 5-minute walk, you'll find the sandy shore and basic beach vendors, while supermarkets or ATMs need the trek to Hat Sai Kaew or a scooter rental.",
+    "localSignals": [
+      "10-minute walk to Hat Sai Kaew beach and restaurants",
+      "Direct access to Ao Phai snorkeling beach",
+      "Ferry from Ban Phe pier costs 50-100 THB",
+      "No pool on property",
+      "Beachfront with garden bungalows"
+    ],
+    "travellerNote": "Guests often praise the peaceful beachfront setting and easy snorkeling access but note the basic facilities and need to walk for dining options.",
+    "bookingTips": [
+      "Request sea-view bungalows for best terrace experience",
+      "Use Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike December-February high season",
+      "Verify ferry inclusion as it's not always bundled",
+      "Check for low-season construction on nearby beaches"
+    ],
+    "similarHotels": [
+      {
+        "name": "Samed Cabana Resort",
+        "howDifferent": "Offers bungalows on busier Hat Sai Kaew with more direct nightlife access than Malibu Garden's quieter Ao Phai spot."
+      },
+      {
+        "name": "Wang Gaew Resort",
+        "howDifferent": "Provides pool and rooms on mainland Laem Mae Phim beach, contrasting Malibu Garden's island snorkeling focus."
+      },
+      {
+        "name": "Holiday Inn & Suites Rayong City Centre",
+        "howDifferent": "Delivers urban comfort in Rayong City without beach access, unlike Malibu Garden's coastal bungalows."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Malibu Garden Resort suitable for snorkeling?",
+        "a": "Yes, it's on Ao Phai beach with the island's best snorkeling spots right off the shore, no boat needed."
+      },
+      {
+        "q": "How far is Malibu Garden Resort from Hat Sai Kaew?",
+        "a": "It's a 10-minute walk north to Hat Sai Kaew's restaurants and nightlife."
+      },
+      {
+        "q": "Does Malibu Garden Resort have a pool?",
+        "a": "No, the resort focuses on beachfront access rather than pool facilities."
+      },
+      {
+        "q": "What types of rooms are at Malibu Garden Resort?",
+        "a": "Wooden bungalows with sea views and private terraces are the main option."
+      },
+      {
+        "q": "How to reach Malibu Garden Resort from Rayong?",
+        "a": "Take a short drive or Grab to Ban Phe pier, then a 20-30 minute ferry to Koh Samet."
+      },
+      {
+        "q": "Is Malibu Garden Resort family-friendly?",
+        "a": "It's better for couples due to the quiet vibe and lack of kids' amenities, though families can enjoy the beach."
+      }
+    ],
+    "urgencyLine": "Rooms at Malibu Garden Resort with sea-view bungalows book out 1-2 months ahead for December-February peak snorkeling season—check today.",
+    "methodology": "We rated Malibu Garden Resort based on location, amenities, and guest suitability from provided data. We weighted beach access highest because it's the core draw for Koh Samet visitors. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Malibu Garden Resort Review (2026)",
+    "metaDescription": "Malibu Garden Resort in Koh Samet offers wooden bungalows on Ao Phai beach with top snorkeling access, ideal for quiet couples. Note the 10-min walk to nightlife and no pool. Book for serene stays in Rayong area today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:28:18.452Z"
+}

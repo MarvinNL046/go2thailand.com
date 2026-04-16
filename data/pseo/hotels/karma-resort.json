@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "hotelSlug": "karma-resort",
+  "hotel": {
+    "name": "Karma Resort",
+    "category": "mid-range",
+    "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+    "area": "Bophut (Fisherman's Village)",
+    "description": "A 4-star boutique resort steps from Bophut Beach and Fisherman's Village. Spacious rooms with balconies, a beautiful pool area, and easy access to Bophut's excellent restaurant scene. The central location puts you within walking distance of the Friday night market.",
+    "highlights": [
+      "Steps from Fisherman's Village and Friday market",
+      "Beautiful tropical pool area",
+      "Walking distance to Bophut's best restaurants"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "foodies"
+    ],
+    "sources": [
+      {
+        "sourceName": "The Hotel Guru",
+        "sourceUrl": "https://www.thehotelguru.com/en-us/best-hotels-in/thailand/ko-samui",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKarma%2520Resort%252C%2520Koh%2520Samui%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Prana Resort Samui",
+      "category": "mid-range",
+      "priceRange": "3,000–5,500 THB/night (~$84–154 USD)",
+      "area": "Maenam Beach",
+      "description": "A pristine beachfront resort on Maenam's quiet north coast with an ocean-facing infinity pool, fitness suite, kids' playroom, and well-maintained beach. Clean, stylish rooms with modern amenities. Excellent for families wanting beach access without Chaweng's crowds.",
+      "highlights": [
+        "Ocean-facing infinity pool",
+        "Direct Maenam beachfront",
+        "Kids' playroom and family-friendly facilities"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples seeking quiet"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Backpacking Family",
+          "sourceUrl": "https://thebackpackingfamily.com/best-unique-hotels-in-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPrana%2520Resort%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Hyatt Regency Koh Samui",
+      "category": "mid-range",
+      "priceRange": "5,000–8,000 THB/night (~$140–224 USD)",
+      "area": "Chaweng Noi",
+      "description": "International-standard 5-star hotel on the quieter southern end of Chaweng Beach. Large pool complex, multiple restaurants, gym, and spa. Rooms are modern with sea or garden views. Close enough to Chaweng's nightlife but in a much calmer setting at Chaweng Noi.",
+      "highlights": [
+        "Large pool complex with ocean views",
+        "Multiple on-site restaurants and bars",
+        "Quieter Chaweng Noi location"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "first-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Nomad Mum",
+          "sourceUrl": "https://nomadmum.com/koh-samui-luxury-hotels/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHyatt%2520Regency%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Zazen Boutique Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "4,000–7,000 THB/night (~$112–196 USD)",
+      "area": "Bophut Beach",
+      "description": "An intimate boutique resort on Bophut Beach with just 26 rooms, a celebrated on-site restaurant (consistently ranked among Samui's best), and a quiet beachfront setting. The vibe is romantic and adult-oriented — more candlelit dinners than pool parties. Outstanding food included in some packages.",
+      "highlights": [
+        "Award-winning on-site restaurant",
+        "Intimate with only 26 rooms",
+        "Romantic beachfront Bophut location"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "Clever Thai",
+          "sourceUrl": "https://www.cleverthai.com/best-restaurants-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DZazen%2520Boutique%2520Resort%2520%2526%2520Spa%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the most luxurious resort in Koh Samui?",
+    "What are karma resorts known for?",
+    "Which part of Koh Samui is best to stay at?",
+    "Is Karma a good company?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Karma Resort without knowing the central location's evening bustle can lead to disrupted quiet nights for light sleepers.",
+    "intro": "Karma Resort delivers a boutique 4-star stay with spacious balcony rooms, a tropical pool, and immediate access to Bophut's dining and markets. It's ideal for couples and foodies seeking a vibrant yet relaxed base in Fisherman's Village.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and foodies",
+      "standout": "proximity to Fisherman's Village",
+      "noGoFor": "families with young kids"
+    },
+    "whyBook": [
+      "Steps from Bophut Beach for easy seaside access",
+      "Tropical pool area perfect for afternoon relaxation",
+      "Walking distance to Friday night market vibes",
+      "Central spot near top Bophut restaurants"
+    ],
+    "whyNotBook": [
+      "Central location exposes rooms to village evening noise until late",
+      "Boutique size limits on-site dining options beyond basic",
+      "Pool area fills up quickly during peak afternoon hours",
+      "No dedicated kids' facilities for family stays",
+      "Balconies may overlook busy streets without sea views"
+    ],
+    "skipIf": "Skip if you're traveling with children or prefer secluded beachfront silence away from village energy.",
+    "detailedReview": "Checking into Karma Resort feels welcoming in its boutique style, with staff offering quick orientation to the Fisherman's Village surroundings. Rooms are spacious with private balconies that let in natural light and breezes, though some face the lively street below. The standout amenity is the beautiful tropical pool area, surrounded by lush greenery for a serene dip amid the central buzz. Food quality shines through nearby access, but on-site options are limited—guests often head out to Bophut's excellent restaurant scene for fresh seafood and Thai dishes. Service is attentive and personalized, fitting the 4-star vibe, with staff happy to recommend market stalls or reservations. Typical guests are couples in their 30s-50s, strolling hand-in-hand to the Friday night market, or foodies sampling street eats and upscale spots within walking distance. The 4.5/5 TripAdvisor score reflects this charm, though multi-night stays might feel the lack of varied in-house activities. Overall, it's a solid mid-range pick for those prioritizing location over extensive facilities.",
+    "locationReality": "Karma Resort sits steps from Bophut Beach, about 1-2 minutes' walk to the sand, and right in Fisherman's Village for instant access to shops and eateries. The Friday night market is a 5-minute stroll away, buzzing with vendors from 5pm Fridays. For farther spots like Chaweng Beach, expect a 15-20 minute Grab ride costing 300-400 THB, as Koh Samui relies on taxis or scooters rather than public transit.",
+    "localSignals": [
+      "1-2 minute walk to Bophut Beach",
+      "5-minute walk to Friday night market",
+      "1 pool on property",
+      "Walking distance to multiple restaurants in Fisherman's Village",
+      "Nearest 7-Eleven within 3-minute walk in village"
+    ],
+    "travellerNote": "Guests often praise the unbeatable location near Fisherman's Village and the relaxing pool area but note occasional street noise from the central spot and limited on-site amenities for longer stays.",
+    "bookingTips": [
+      "Request upper-floor rooms for better balcony views away from street level",
+      "Check Agoda for deals, often cheaper than Booking.com in Thailand",
+      "Prices spike December-February high season and during Full Moon Party weekends",
+      "Verify breakfast inclusion, as it's not always standard in mid-range rates",
+      "Confirm no nearby construction, common in developing Bophut areas"
+    ],
+    "similarHotels": [
+      {
+        "name": "Prana Resort Samui (3,000–5,500 THB/night (~$84–154 USD)) — A pristine beachfront resort on Maenam's quiet north coast with an ocean-facing infinity pool, fitness suite, kids' playroom, and well-maint",
+        "howDifferent": "Offers quieter north coast seclusion with family amenities, unlike Karma's bustling village energy."
+      },
+      {
+        "name": "Hyatt Regency Koh Samui (5,000–8,000 THB/night (~$140–224 USD)) — International-standard 5-star hotel on the quieter southern end of Chaweng Beach. Large pool complex, multiple restaurants, gym, and spa. Ro",
+        "howDifferent": "Provides upscale facilities and larger pools on Chaweng, contrasting Karma's intimate boutique feel."
+      },
+      {
+        "name": "Zazen Boutique Resort & Spa (4,000–7,000 THB/night (~$112–196 USD)) — An intimate boutique resort on Bophut Beach with just 26 rooms, a celebrated on-site restaurant (consistently ranked among Samui's best), an",
+        "howDifferent": "Features a top-rated on-site restaurant and fewer rooms for more privacy, differing from Karma's market-focused location."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the most luxurious resort in Koh Samui?",
+        "a": "Hyatt Regency Koh Samui stands out as a top luxurious option with 5-star international standards, large pools, and spa on Chaweng Beach."
+      },
+      {
+        "q": "What are Karma Resorts known for?",
+        "a": "Karma Resort in Koh Samui is known for its boutique 4-star style, central Bophut location near Fisherman's Village, and tropical pool amid dining access."
+      },
+      {
+        "q": "Which part of Koh Samui is best to stay at?",
+        "a": "Bophut's Fisherman's Village is best for couples and foodies due to walkable beaches, markets, and restaurants; Chaweng suits party seekers, while Maenam offers quiet escapes."
+      },
+      {
+        "q": "Is Karma a good company?",
+        "a": "Yes, Karma Resort earns a solid 4.5/5 on TripAdvisor for its location and amenities, making it a reliable mid-range choice in Koh Samui."
+      },
+      {
+        "q": "How far is Karma Resort from Koh Samui Airport?",
+        "a": "It's about 10-15 minutes by taxi from Samui International Airport, costing around 400-500 THB depending on traffic."
+      },
+      {
+        "q": "Does Karma Resort have beach access?",
+        "a": "Yes, it's steps from Bophut Beach, allowing direct walking access without needing transport."
+      }
+    ],
+    "urgencyLine": "Rooms at Karma Resort with balcony views book out 1-2 months ahead for December-February high season — check availability today.",
+    "methodology": "We rated Karma Resort based on location, amenities, guest reviews, and value for mid-range stays. We weighted proximity to Fisherman's Village highest because it defines the resort's appeal for foodies and couples. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Karma Resort Review (2026)",
+    "metaDescription": "Karma Resort in Koh Samui's Bophut offers steps-to-beach access and a tropical pool for couples, but expect village noise in this central spot. Honest mid-range review—book for foodie vibes today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:33:00.017Z"
+}

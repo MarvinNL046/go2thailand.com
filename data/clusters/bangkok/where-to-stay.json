@@ -20,7 +20,11 @@
         "Lively nightlife on Soi 11, Nana Plaza and Soi Cowboy",
         "Excellent hotel density across all price ranges"
       ],
-      "recommendedHotels": ["Chatrium Grand Bangkok", "Novotel Bangkok Ploenchit Sukhumvit", "137 Pillars Suites & Residences Bangkok"],
+      "recommendedHotels": [
+        "Chatrium Grand Bangkok",
+        "Novotel Bangkok Ploenchit Sukhumvit",
+        "137 Pillars Suites & Residences Bangkok"
+      ],
       "walkingScore": "7/10 — wide pavements but long distances between attractions",
       "transportNotes": [
         "BTS Skytrain: Nana, Asok, Phrom Phong, Thong Lo, Ekkamai, Phra Khanong, On Nut stations",
@@ -53,7 +57,10 @@
         "Excellent MRT and BTS connectivity — Sala Daeng and Silom stations interchange",
         "Good range of mid-range and luxury hotels at slightly lower prices than Sukhumvit"
       ],
-      "recommendedHotels": ["SO/ Bangkok", "Chatrium Grand Bangkok"],
+      "recommendedHotels": [
+        "SO/ Bangkok",
+        "Chatrium Grand Bangkok"
+      ],
       "walkingScore": "7/10 — compact business district, good pavement quality",
       "transportNotes": [
         "BTS Sala Daeng and Chong Nonsi stations",
@@ -81,7 +88,10 @@
         "Canal boats on Khlong Saen Saep link to the east side of the city",
         "Local market culture in surrounding Banglamphu lanes"
       ],
-      "recommendedHotels": ["NapPark Hostel @ Khao San", "Baan Dinso @ Ratanakosin"],
+      "recommendedHotels": [
+        "NapPark Hostel @ Khao San",
+        "Baan Dinso @ Ratanakosin"
+      ],
       "walkingScore": "9/10 — dense network of lanes, best walking area in Bangkok",
       "transportNotes": [
         "No BTS/MRT station directly in Banglamphu — take a taxi or tuk-tuk to the nearest station",
@@ -109,7 +119,12 @@
         "Icon Siam mega-mall and Surasak BTS right on the river",
         "Calmer, more romantic atmosphere than Sukhumvit"
       ],
-      "recommendedHotels": ["Mandarin Oriental Bangkok", "The Peninsula Bangkok", "Chatrium Hotel Riverside Bangkok", "SALA Rattanakosin Bangkok"],
+      "recommendedHotels": [
+        "Mandarin Oriental Bangkok",
+        "The Peninsula Bangkok",
+        "Chatrium Hotel Riverside Bangkok",
+        "SALA Rattanakosin Bangkok"
+      ],
       "walkingScore": "5/10 — riverside is beautiful but gaps between attractions require transport",
       "transportNotes": [
         "BTS Saphan Taksin for Silom/Sathorn access; shuttle boats from hotels",
@@ -142,7 +157,10 @@
         "River ferry from Ratchawong Pier to Old City temples",
         "Authentic local neighbourhood feel away from tourist crowds"
       ],
-      "recommendedHotels": ["Shanghai Mansion Bangkok (boutique)", "Hotel Once Bangkok"],
+      "recommendedHotels": [
+        "Shanghai Mansion Bangkok (boutique)",
+        "Hotel Once Bangkok"
+      ],
       "walkingScore": "8/10 — compact, dense neighbourhood best explored on foot",
       "transportNotes": [
         "MRT Hua Lamphong, then 10-minute walk to Yaowarat Road",
@@ -170,7 +188,10 @@
         "Wongwian Yai Night Market for cheap local street food",
         "Significantly quieter and cheaper than the east bank"
       ],
-      "recommendedHotels": ["Arun Residence (boutique, views of Grand Palace)", "The Bhuthorn (boutique guesthouse)"],
+      "recommendedHotels": [
+        "Arun Residence (boutique, views of Grand Palace)",
+        "The Bhuthorn (boutique guesthouse)"
+      ],
       "walkingScore": "6/10 — quieter streets but attractions spread out along the river",
       "transportNotes": [
         "Chao Phraya ferry from Tha Tien or Wang Lang piers to east bank temples",
@@ -185,6 +206,158 @@
           "lastVerified": "2026-03-13"
         }
       ]
+    },
+    {
+      "name": "Thonglor",
+      "description": "Thonglor is a neighborhood along Sukhumvit Soi 55 in the Watthana district, featuring a concentration of upscale restaurants, bars, and designer shops. It includes residential high-rises and commercial developments that attract locals and expatriates. The area connects to nearby Phrom Phong via the BTS Skytrain.",
+      "bestFor": "nightlife, bars, rooftop bars, digital nomads",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Thonglor Soi 11",
+        "J Avenue Thonglor",
+        "Beam Bar",
+        "Octave Rooftop Lounge",
+        "Sukhumvit Soi 55"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "BTS Thong Lo station",
+        "Accessible by taxi from Sukhumvit Road"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Thong_Lor"
+        }
+      ]
+    },
+    {
+      "name": "Ekkamai",
+      "description": "Ekkamai is located along Sukhumvit Soi 63 in the Watthana district, with a focus on contemporary dining spots, art galleries, and nightlife venues. It borders Thonglor and shares similar urban development patterns. The neighborhood hosts events and markets that draw creative crowds.",
+      "bestFor": "nightlife, foodies, digital nomads",
+      "priceLevel": "€€–€€€",
+      "highlights": [
+        "Ekkamai Soi 2",
+        "Toby's",
+        "Iron Fairies",
+        "EmQuartier (nearby)",
+        "Sukhumvit Soi 63"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "BTS Ekkamai station",
+        "Short walk from Thong Lo BTS"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sukhumvit_Soi_63"
+        }
+      ]
+    },
+    {
+      "name": "Ari",
+      "description": "Ari is a residential area in the Phaya Thai district, north of central Bangkok, known for its cafes, street food stalls, and proximity to Phra Ram 9. It features tree-lined streets and local markets. The neighborhood is popular among young professionals for its relaxed atmosphere.",
+      "bestFor": "families, foodies, digital nomads",
+      "priceLevel": "€–€€",
+      "highlights": [
+        "Ari Soi 1",
+        "Phra Arthit Market",
+        "Coffee Ari",
+        "BTS Ari station area",
+        "Saphan Khwai Market (nearby)"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "BTS Ari station",
+        "MRT Phaya Thai nearby"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ari_(Bangkok)"
+        }
+      ]
+    },
+    {
+      "name": "Chatuchak",
+      "description": "Chatuchak is situated in the Chatuchak district north of the city center, home to the large Chatuchak Weekend Market that operates on weekends. It includes parks and residential zones with access to MRT and BTS lines. The area serves as a hub for shopping and casual outings.",
+      "bestFor": "families, kids, budget, backpackers",
+      "priceLevel": "€",
+      "highlights": [
+        "Chatuchak Weekend Market",
+        "JJ Green Night Market",
+        "Chatuchak Park",
+        "Queen Sirikit 60th Anniversary Park",
+        "MRT Chatuchak Park station"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "BTS Mo Chit station",
+        "MRT Chatuchak Park station",
+        "Northern Bus Terminal nearby"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market"
+        }
+      ]
+    },
+    {
+      "name": "Siam",
+      "description": "Siam is the commercial heart of Bangkok in the Pathum Wan district, centered around major shopping malls and the BTS interchange. It connects Ratchaprasong and Pratunam areas with high pedestrian traffic. The neighborhood includes office towers and entertainment complexes.",
+      "bestFor": "first-time visitors, shopping, families",
+      "priceLevel": "€€–€€€",
+      "highlights": [
+        "Siam Paragon",
+        "MBK Center",
+        "Siam Square",
+        "CentralWorld",
+        "BTS Siam station"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "BTS Siam station (interchange)",
+        "MRT Ratchathewi nearby"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Siam_(Bangkok)"
+        }
+      ]
+    },
+    {
+      "name": "Pratunam",
+      "description": "Pratunam is a wholesale market district in the Ratchathewi area, adjacent to Siam, specializing in clothing and accessories. It features bustling streets with hotels and budget eateries. The neighborhood is linked by skybridges to nearby malls.",
+      "bestFor": "budget, backpackers, shopping",
+      "priceLevel": "€",
+      "highlights": [
+        "Pratunam Market",
+        "Baiyoke Tower II",
+        "Big C Rajdamri",
+        "Ratchaprasong Intersection",
+        "Platinum Fashion Mall"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "BTS Ratchathewi station",
+        "BTS Chit Lom station",
+        "Taxi hub for markets"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Pratunam"
+        }
+      ]
     }
   ],
   "generalTips": [
@@ -196,7 +369,7 @@
     "For stays longer than 5 nights, serviced apartments in Sukhumvit (Citadines, Somerset, Oakwood) offer better value than hotels with kitchenettes and laundry."
   ],
   "generatedAt": "2026-03-13",
-  "lastUpdated": "2026-03-13",
+  "lastUpdated": "2026-04-15",
   "sources": [
     {
       "sourceName": "Nomadic Matt — Where To Stay Bangkok",
@@ -212,6 +385,21 @@
       "sourceName": "Adventurous Kate — Bangkok Neighborhoods",
       "sourceUrl": "https://www.adventurouskate.com/where-to-stay-in-bangkok-best-neighborhoods-accommodation/",
       "lastVerified": "2026-03-13"
+    }
+  ],
+  "enrichmentLog": [
+    {
+      "date": "2026-04-15T14:17:12.556Z",
+      "added": [
+        "Thonglor",
+        "Ekkamai",
+        "Ari",
+        "Chatuchak",
+        "Siam",
+        "Pratunam"
+      ],
+      "tokensIn": 796,
+      "tokensOut": 2512
     }
   ]
 }

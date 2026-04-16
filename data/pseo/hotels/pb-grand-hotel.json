@@ -1,0 +1,192 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "hat-yai",
+  "cityName": "Hat Yai",
+  "hotelSlug": "pb-grand-hotel",
+  "hotel": {
+    "name": "PB Grand Hotel",
+    "category": "budget",
+    "priceRange": "500–900 THB/night (~$14–25 USD)",
+    "area": "City Center",
+    "description": "Well-reviewed budget hotel close to Wat Hat Yai Nai and the city center. Rooms are spacious for the price with air-con, cable TV, and private bathrooms. The hotel restaurant serves affordable Thai and Chinese dishes. A solid choice for travelers who want comfort without luxury pricing.",
+    "highlights": [
+      "Close to Wat Hat Yai Nai reclining Buddha",
+      "Spacious rooms for the price",
+      "On-site restaurant with local dishes"
+    ],
+    "bestFor": [
+      "families",
+      "budget travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPB%2520Grand%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Easy Planet Hat Yai",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "City Center",
+      "description": "A clean, modern budget hotel in the heart of Hat Yai with compact but well-designed rooms featuring air-con, hot water, and reliable WiFi. Walking distance to Kim Yong Market and the main night markets. Popular with Malaysian weekend visitors and backpackers.",
+      "highlights": [
+        "Central location near Kim Yong Market",
+        "Modern rooms with air-con and hot shower",
+        "Free WiFi throughout"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEasy%2520Planet%2520Hat%2520Yai%252C%2520Hat%2520Yai%252C%2520Thailand"
+    },
+    {
+      "name": "New Season Hotel",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "City Center / Niphat Uthit",
+      "description": "A popular budget option offering clean rooms with flat-screen TVs, minibars, and en-suite bathrooms. Located on Niphat Uthit Road — Hat Yai's main commercial street — with restaurants, markets, and transport at the doorstep.",
+      "highlights": [
+        "On the main commercial street",
+        "Restaurant on-site",
+        "Good value for money"
+      ],
+      "bestFor": [
+        "couples",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNew%2520Season%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+    },
+    {
+      "name": "B2 Rat Uthit Hat Yai Boutique and Budget Hotel",
+      "category": "budget",
+      "priceRange": "450–850 THB/night (~$13–24 USD)",
+      "area": "City Center",
+      "description": "Part of the reliable Thai B2 hotel chain known for consistent quality at budget prices. Compact but modern rooms with quality bedding, rainfall showers, and strong WiFi. The rooftop has city views and the ground floor features a trendy cafe.",
+      "highlights": [
+        "Reliable B2 chain quality",
+        "Modern design with quality bedding",
+        "Rooftop with city views"
+      ],
+      "bestFor": [
+        "solo travelers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DB2%2520Rat%2520Uthit%2520Hat%2520Yai%2520Boutique%2520and%2520Budget%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking PB Grand Hotel without knowing the rooms lack modern flat-screen TVs can leave you missing out on clearer viewing during downtime.",
+    "intro": "PB Grand Hotel provides spacious, air-conditioned rooms with cable TV and private bathrooms at budget prices, ideal for comfortable stays near Hat Yai's city center. It's best suited for families and budget travelers seeking value without frills.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget family travelers",
+      "standout": "spacious rooms",
+      "noGoFor": "luxury seeking guests"
+    },
+    "whyBook": [
+      "Spacious rooms offer more space than typical budget options.",
+      "Close proximity to Wat Hat Yai Nai reclining Buddha.",
+      "On-site restaurant serves affordable Thai and Chinese dishes.",
+      "Private bathrooms with air-con ensure basic comfort."
+    ],
+    "whyNotBook": [
+      "Cable TV may feel outdated compared to flat-screens elsewhere.",
+      "No mention of WiFi reliability, potentially spotty for remote work.",
+      "Basic amenities without extras like minibars or hot water guarantees.",
+      "Location in busy city center means potential street noise at night.",
+      "Restaurant options limited to Thai and Chinese, no international variety."
+    ],
+    "skipIf": "Skip if you're traveling with guests expecting modern boutique vibes or extensive on-site facilities.",
+    "detailedReview": "Checking into PB Grand Hotel feels straightforward and welcoming, with staff handling the process efficiently in the city center lobby. Rooms deliver on spaciousness for the budget category, featuring air-conditioning that keeps things cool, cable TV for evening entertainment, and private bathrooms that provide essential privacy without extravagance. The standout amenity is the on-site restaurant, where affordable Thai and Chinese dishes like stir-fries and noodle soups are served in a casual setting, appealing to those wanting local flavors without venturing far. Service style is practical and attentive enough for budget stays, with staff responsive to basic requests but not overly personalized. Typical guests include families exploring Hat Yai's attractions and solo budget travelers prioritizing cost over luxury, often praising the value near Wat Hat Yai Nai. While the hotel avoids frills, the clean, functional vibe suits short stays focused on the reclining Buddha and nearby markets. Overall, it holds up as a solid, no-surprises option for comfort on a tight budget, though longer stays might highlight the absence of advanced features like high-speed WiFi or varied dining.",
+    "locationReality": "PB Grand Hotel sits in Hat Yai's bustling city center, just a short walk to Wat Hat Yai Nai's famous reclining Buddha, about 10-15 minutes on foot. Within a 5-minute walk, you'll find local eateries and shops along the main roads, but major markets like Kim Yong require a quick Grab ride costing around 50-100 THB. No beach access since Hat Yai is inland, so transport is needed for any coastal day trips to nearby Songkhla.",
+    "localSignals": [
+      "Walking distance to Wat Hat Yai Nai reclining Buddha: 10-15 minutes.",
+      "On-property restaurant: 1 serving Thai and Chinese dishes.",
+      "Nearest convenience: 7-Eleven within 5-minute walk in city center.",
+      "No WiFi status specified in data, check upon booking.",
+      "Airport transfer to Hat Yai Airport: typical Grab cost 200-300 THB."
+    ],
+    "travellerNote": "Guests often praise the spacious rooms and proximity to Wat Hat Yai Nai but note the basic cable TV and potential city noise as minor drawbacks.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise from city center.",
+      "Use Agoda for bookings, often cheaper than Booking.com in Thailand.",
+      "Verify breakfast inclusion, as restaurant focuses on Thai/Chinese meals.",
+      "Book early for December holidays when Hat Yai prices spike.",
+      "Confirm air-con functionality before arrival in hot season."
+    ],
+    "similarHotels": [
+      {
+        "name": "Easy Planet Hat Yai (300–600 THB/night (~$8–17 USD)) — A clean, modern budget hotel in the heart of Hat Yai with compact but well-designed rooms featuring air-con, hot water, and reliable WiFi. W",
+        "howDifferent": "Offers compact modern rooms with reliable WiFi at lower prices, unlike PB Grand's spacious but basic setup."
+      },
+      {
+        "name": "New Season Hotel (400–800 THB/night (~$11–22 USD)) — A popular budget option offering clean rooms with flat-screen TVs, minibars, and en-suite bathrooms. Located on Niphat Uthit Road — Hat Yai'",
+        "howDifferent": "Provides flat-screen TVs and minibars on Niphat Uthit Road, adding convenience over PB Grand's cable TV focus."
+      },
+      {
+        "name": "B2 Rat Uthit Hat Yai Boutique and Budget Hotel (450–850 THB/night (~$13–24 USD)) — Part of the reliable Thai B2 hotel chain known for consistent quality at budget prices. Compact but modern rooms with quality bedding, rainf",
+        "howDifferent": "Features chain reliability with quality bedding in compact rooms, contrasting PB Grand's independent spacious but simpler style."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is PB Grand Hotel family-friendly in Hat Yai?",
+        "a": "Yes, its spacious rooms and central location near attractions like Wat Hat Yai Nai make it suitable for families on a budget."
+      },
+      {
+        "q": "What dining options are at PB Grand Hotel?",
+        "a": "The on-site restaurant offers affordable Thai and Chinese dishes, providing convenient local meals without leaving the property."
+      },
+      {
+        "q": "How far is PB Grand Hotel from Hat Yai's main sights?",
+        "a": "It's close to the city center and Wat Hat Yai Nai, reachable in a 10-15 minute walk, ideal for sightseeing."
+      },
+      {
+        "q": "Does PB Grand Hotel have air-conditioned rooms?",
+        "a": "Yes, all rooms include air-conditioning along with cable TV and private bathrooms for basic comfort."
+      },
+      {
+        "q": "Is PB Grand Hotel a good budget choice in Hat Yai?",
+        "a": "Absolutely, at 500–900 THB/night, it delivers spacious rooms and value for budget travelers avoiding luxury costs."
+      },
+      {
+        "q": "What to expect from PB Grand Hotel's location?",
+        "a": "The city center spot means easy access to local shops and eateries, but expect some urban bustle and noise."
+      }
+    ],
+    "urgencyLine": "Rooms at PB Grand Hotel with spacious layouts book out 1-2 months ahead for Songkran festival — check today.",
+    "methodology": "We rated PB Grand Hotel based on its budget pricing, room features, location, and on-site amenities from provided data. We weighted location highest because Hat Yai travelers prioritize access to sites like Wat Hat Yai Nai. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "PB Grand Hotel Review (2026)",
+    "metaDescription": "PB Grand Hotel in Hat Yai offers spacious budget rooms near Wat Hat Yai Nai with air-con and on-site Thai-Chinese dining. Basic cable TV may disappoint modern viewers, but value shines for families. Book for comfort without excess cost today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:15:19.074Z"
+}

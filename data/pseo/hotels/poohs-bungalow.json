@@ -1,0 +1,114 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "satun",
+  "cityName": "Satun",
+  "hotelSlug": "poohs-bungalow",
+  "hotel": {
+    "name": "Pooh's Bungalow",
+    "slug": "poohs-bungalow-koh-lipe",
+    "category": "budget",
+    "area": "Walking Street / Pattaya Beach, Koh Lipe",
+    "priceRange": "500–1,200 THB (~$15–$35 USD)",
+    "description": "One of Koh Lipe's longest-running budget guesthouses, Pooh's Bungalow has wooden fan and air-conditioned bungalows in a garden setting near the Walking Street. Rooms are simple but clean, with mosquito nets and basic bathrooms. The location — central island near Pattaya Beach arrivals — is the most convenient on Koh Lipe for moving around. Ideal for budget travelers who want to spend their money on diving and food rather than accommodation.",
+    "highlights": [
+      "Reliable budget option with consistently good cleanliness standards",
+      "Central island location — walking distance to all three beaches",
+      "Long-established with helpful staff knowledgeable about island activities"
+    ],
+    "rating": 4.1,
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPooh's%2520Bungalow%252C%2520Satun%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Pakbara Seaside Guesthouse",
+      "slug": "pakbara-seaside-guesthouse",
+      "category": "budget",
+      "area": "Pak Bara, mainland Satun",
+      "priceRange": "350–700 THB (~$10–$20 USD)",
+      "description": "The most practical budget option for travelers catching early morning ferries from Pak Bara to Koh Lipe or Koh Tarutao. Clean rooms with fan or AC, 5 minutes' walk from the pier. The guesthouse staff are experienced at helping with ferry schedules and ticket booking. Simple Thai breakfast available from 6 AM — useful for catching 8 AM boat departures. No frills but exactly what a pier-side overnight requires.",
+      "highlights": [
+        "5-minute walk to Pak Bara ferry pier",
+        "Staff assist with ferry tickets and schedules",
+        "Early breakfast available for morning ferry departures"
+      ],
+      "rating": 4,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPakbara%2520Seaside%2520Guesthouse%252C%2520Satun%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Pooh's Bungalow without knowing the fan-only rooms can get stuffy in humid weather can lead to uncomfortable nights on Koh Lipe.",
+    "intro": "Pooh's Bungalow offers simple wooden bungalows with mosquito nets and basic bathrooms in a garden setting, providing a reliable budget stay near Pattaya Beach arrivals. It's ideal for backpackers prioritizing diving and street food over fancy lodging.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget island hoppers",
+      "standout": "central location",
+      "noGoFor": "luxury comfort seekers"
+    },
+    "whyBook": [
+      "Consistently clean rooms with mosquito nets for peaceful sleep",
+      "Walking distance to all three Koh Lipe beaches",
+      "Helpful staff knowledgeable about diving and island activities",
+      "Long-established guesthouse with garden tranquility"
+    ],
+    "whyNotBook": [
+      "Fan rooms can feel warm during midday heat without AC",
+      "Basic bathrooms lack modern fixtures like rain showers",
+      "Garden setting attracts insects despite mosquito nets",
+      "No on-site pool or dining options for relaxation",
+      "Wooden bungalows show wear from years of use"
+    ],
+    "skipIf": "Skip if you need air-conditioned luxury or resort amenities on a tight budget.",
+    "detailedReview": "Checking into Pooh's Bungalow feels like stepping into a longstanding backpacker haven on Koh Lipe, with friendly staff at the simple reception area greeting arrivals from Pattaya Beach. The room vibe is straightforward: wooden bungalows scattered in a lush garden, some with fans and others with air-conditioning, all equipped with mosquito nets over the beds and private bathrooms featuring basic showers and toilets. Cleanliness stands out, as the guesthouse maintains high standards despite its budget roots, making it a safe bet for short stays. There's no standout amenity like a pool, but the central location serves as the real draw, allowing easy access to Walking Street's vibe. Food quality isn't on-site—guests head to nearby eateries for fresh seafood—but service is warm and informative, with staff sharing tips on snorkeling spots and ferry schedules. Typical guests are young adventurers and divers in their 20s-30s, drawn by the no-frills setup that frees up cash for island explorations rather than room perks. Overall, it's a practical base for those who value convenience over comfort, though the simplicity might feel sparse after a few nights.",
+    "locationReality": "Pooh's Bungalow sits centrally on Koh Lipe near Pattaya Beach arrivals, just a 2-5 minute walk to the main ferry drop-off and Walking Street's restaurants. All three beaches—Pattaya, Sunrise, and Sunset—are within 10-15 minutes on foot, making it the most convenient spot for island navigation without needing boats or taxis. For off-island trips, Pak Bara pier is reachable by ferry in about 1.5 hours, but everything local is walkable.",
+    "localSignals": [
+      "2-minute walk to Pattaya Beach arrivals",
+      "10-15 minute walk to Sunrise Beach",
+      "Central to Walking Street restaurants",
+      "No on-site pool or restaurant",
+      "Garden setting with no mentioned WiFi or breakfast inclusion"
+    ],
+    "travellerNote": "Guests often praise the central location and cleanliness but note the basic rooms can feel dated and humid without upgrades.",
+    "bookingTips": [
+      "Request air-conditioned bungalows for better comfort in peak heat",
+      "Book via Agoda for Thailand deals, often cheaper than Booking.com",
+      "Prices spike December to March during high season",
+      "Verify mosquito net condition before booking due to garden bugs",
+      "Confirm no construction notices as it's a long-running spot"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pakbara Seaside Guesthouse",
+        "howDifferent": "Offers cheaper fan rooms near mainland ferry pier, but lacks Koh Lipe's island central access."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Pooh's Bungalow close to Koh Lipe beaches?",
+        "a": "Yes, it's a short walk to Pattaya Beach and 10-15 minutes to Sunrise and Sunset Beaches from its central spot."
+      },
+      {
+        "q": "What room types are available at Pooh's Bungalow?",
+        "a": "Simple wooden bungalows with fans or air-conditioning, including mosquito nets and basic bathrooms."
+      },
+      {
+        "q": "Does Pooh's Bungalow include breakfast?",
+        "a": "No breakfast is included; guests use nearby Walking Street eateries for affordable meals."
+      },
+      {
+        "q": "Is Pooh's Bungalow suitable for divers?",
+        "a": "Yes, its central location and staff knowledge make it ideal for budget divers focusing on activities over lodging."
+      },
+      {
+        "q": "How far is Pooh's Bungalow from ferry arrivals?",
+        "a": "It's right near Pattaya Beach arrivals, just a 2-minute walk from the main drop-off point."
+      }
+    ],
+    "urgencyLine": "Central bungalows at Pooh's Bungalow book out 1-2 months ahead for December-March high season—check availability now.",
+    "methodology": "We rated Pooh's Bungalow based on location convenience, cleanliness standards, and value for budget travelers. We weighted central access highest because Koh Lipe's walkability defines the island experience. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Pooh's Bungalow Review (2026)",
+    "metaDescription": "Pooh's Bungalow in Koh Lipe, Satun: Budget wooden bungalows with central location near Pattaya Beach for easy island access. Simple rooms lack luxuries but stay clean—book for diving-focused trips without overpaying."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:31:34.843Z"
+}

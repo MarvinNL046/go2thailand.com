@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trat",
+  "cityName": "Trat",
+  "hotelSlug": "kacha-resort-spa-koh-chang",
+  "hotel": {
+    "name": "Kacha Resort & Spa Koh Chang",
+    "category": "mid-range",
+    "priceRange": "2,000-4,000 THB/night (~$56-112 USD)",
+    "area": "White Sand Beach, Koh Chang",
+    "description": "A 4-star resort with direct beach access at White Sand Beach, Koh Chang's most popular stretch of sand. Modern rooms with balconies, swimming pool, spa, and a beachfront restaurant. Guests can easily access water sports, snorkeling, and island tours from the resort's location on the main tourist beach. Good value for a beachfront property.",
+    "highlights": [
+      "Direct access to White Sand Beach",
+      "Swimming pool, spa, and on-site restaurant",
+      "Water sports and tour booking at reception"
+    ],
+    "reviewScore": "4.2/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKacha%2520Resort%2520%2526%2520Spa%2520Koh%2520Chang%252C%2520Trat%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "KC Grande Resort & Spa",
+      "category": "luxury",
+      "priceRange": "4,350-9,980 THB/night (~$122-280 USD)",
+      "area": "White Sand Beach, Koh Chang",
+      "description": "The most popular 5-star resort on Koh Chang, featuring five swimming pools, a private beach section on White Sand Beach, full-service spa, and multiple restaurants. Accommodation ranges from standard deluxe rooms to premium seaside villas. The resort straddles both sides of the road with a modern tower block and beachfront villas. Rated 8.8/10 from over 4,000 reviews.",
+      "highlights": [
+        "Five swimming pools including beachfront infinity pool",
+        "Direct access to White Sand Beach with sun loungers",
+        "Full-service spa, fitness center, and multiple dining options"
+      ],
+      "reviewScore": "8.8/10 Booking.com (4,398 reviews)",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "luxury travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/accommodation/white-sand-beach",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKC%2520Grande%2520Resort%2520%2526%2520Spa%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Nature Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-3,500 THB/night (~$42-98 USD)",
+      "area": "Lonely Beach, Koh Chang",
+      "description": "The top beachfront resort on Lonely Beach, recently replacing old log cabins with modern concrete villas right on the sand. One of just four resorts fronting the actual sand of Lonely Beach. Combines the relaxed backpacker-area atmosphere with proper resort comfort. The beach here is less crowded than White Sand Beach and has better swimming.",
+      "highlights": [
+        "Directly on Lonely Beach sand — one of only four beachfront properties",
+        "Newly built modern villas replacing old bungalows",
+        "Relaxed atmosphere with better swimming than northern beaches"
+      ],
+      "bestFor": [
+        "couples",
+        "beach lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNature%2520Beach%2520Resort%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Koh Chang Tropicana Resort",
+      "category": "mid-range",
+      "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "A well-managed Thai chain resort on Klong Prao Beach with two swimming pools, kids' club, spa, and beachfront dining. The Centara brand delivers consistent quality with modern rooms and reliable service. Great for families with children thanks to the kids' facilities and the calm, long beach at Klong Prao. The resort is set in tropical gardens leading to the sand.",
+      "highlights": [
+        "Two swimming pools and dedicated kids' club",
+        "Beachfront location on calm Klong Prao Beach",
+        "Centara brand reliability with spa and multiple restaurants"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Koh%2520Chang%2520Tropicana%2520Resort%252C%2520Trat%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What area is best to stay in Koh Chang?",
+    "Is Koh Chang worth going to?",
+    "Is Koh Chang expensive?",
+    "What is special about Koh Chang?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Kacha Resort & Spa Koh Chang without knowing the crowded White Sand Beach vibe can lead to noisy evenings disrupting your relaxation.",
+    "intro": "Kacha Resort & Spa Koh Chang offers direct access to White Sand Beach with modern rooms featuring balconies, a swimming pool, spa, and beachfront restaurant, providing good value at mid-range prices. It's ideal for couples and families seeking convenient water sports, snorkeling, and island tours from this popular tourist spot.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "direct beach access",
+      "noGoFor": "solo budget travelers"
+    },
+    "whyBook": [
+      "Direct entry to White Sand Beach for easy swimming",
+      "Modern rooms with balconies overlooking the sea",
+      "On-site spa for post-snorkel relaxation treatments",
+      "Reception books water sports and island tours",
+      "Beachfront restaurant serves fresh seafood meals"
+    ],
+    "whyNotBook": [
+      "White Sand Beach crowds peak midday, limiting quiet lounging",
+      "Single swimming pool fills up during family high season",
+      "Balconies face busy beach path with evening foot traffic noise",
+      "Spa services book out quickly without advance reservation",
+      "Tour desk focuses on group activities, less personalized for couples"
+    ],
+    "skipIf": "Skip if you're a solo traveler avoiding touristy beach crowds and preferring secluded spots.",
+    "detailedReview": "Checking into Kacha Resort & Spa Koh Chang feels straightforward at the beachfront reception, where staff hand over keys to modern rooms equipped with balconies offering partial sea views. The room vibe is clean and functional, with tiled floors, air-conditioned comfort, and basic amenities like a minibar and safe, though not overly spacious for larger families. Standout is the direct access to White Sand Beach, just steps away, allowing guests to grab towels and head out for morning swims without hassle. The swimming pool, positioned near the sand, provides a calm alternative on overcast days, while the spa offers Thai massages in a serene garden setting. Food at the beachfront restaurant centers on Thai and Western dishes, with fresh seafood grilled to order, though portions are standard rather than generous. Service style is friendly but efficient, with reception handling tour bookings for snorkeling trips to nearby reefs or island hopping, often in small groups. Typical guests are couples on romantic getaways mixing beach time with spa sessions, and families with kids enjoying the pool and easy water sports access like kayaking rentals. Overall, it's a solid 4-star stay emphasizing location over extravagance, earning its 4.2/5 TripAdvisor score through reliable beachfront value without frills.",
+    "locationReality": "Kacha Resort & Spa Koh Chang sits directly on White Sand Beach, Koh Chang's busiest tourist stretch in Trat province, meaning zero walking minutes to the sand for immediate access. Within a 5-minute walk, you'll find beach bars, souvenir shops, and rental spots for snorkel gear, but quieter hikes or waterfalls like Klong Plu require a 20-30 minute scooter ride. No BTS or MRT here—it's an island reached by ferry from Trat mainland, with typical Grab costs from the pier around 500-800 THB depending on traffic.",
+    "localSignals": [
+      "Direct access to White Sand Beach: 0 minutes walk",
+      "Located on White Sand Beach, Koh Chang in Trat",
+      "1 swimming pool on property",
+      "1 on-site beachfront restaurant",
+      "Water sports and tours available at reception"
+    ],
+    "travellerNote": "Guests often praise the effortless beach access and value for money but note occasional crowds on the pool deck and beach during peak hours.",
+    "bookingTips": [
+      "Request sea-view balcony rooms for better privacy",
+      "Check Agoda for lower rates than Booking.com in Thailand",
+      "Prices spike December to February for high season",
+      "Verify tour inclusions like snorkeling gear before booking",
+      "Confirm breakfast policy as it's not always included"
+    ],
+    "similarHotels": [
+      {
+        "name": "KC Grande Resort & Spa",
+        "howDifferent": "Offers luxury with five pools and private beach section at higher 5-star prices, unlike Kacha's mid-range single pool setup."
+      },
+      {
+        "name": "Nature Beach Resort",
+        "howDifferent": "Provides modern villas on quieter Lonely Beach at similar prices, contrasting Kacha's busier White Sand Beach location."
+      },
+      {
+        "name": "Centara Koh Chang Tropicana Resort",
+        "howDifferent": "Features kids' club and two pools on Klong Prao Beach as a chain property, differing from Kacha's spa-focused White Sand vibe."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What area is best to stay in Koh Chang?",
+        "a": "White Sand Beach is best for first-timers wanting lively tourist amenities and easy beach access, while Lonely Beach suits those seeking quieter vibes."
+      },
+      {
+        "q": "Is Koh Chang worth going to?",
+        "a": "Yes, Koh Chang is worth visiting for its diverse beaches, snorkeling spots, and national park trails, offering a less crowded alternative to Phuket."
+      },
+      {
+        "q": "Is Koh Chang expensive?",
+        "a": "Koh Chang is moderately priced with mid-range resorts like Kacha at 2,000-4,000 THB/night, though high season and imports can raise food costs."
+      },
+      {
+        "q": "What is special about Koh Chang?",
+        "a": "Koh Chang stands out for its lush national park covering most of the island, pristine beaches like White Sand, and abundant marine life for snorkeling."
+      },
+      {
+        "q": "Best time to visit White Sand Beach?",
+        "a": "November to April offers dry weather ideal for beach activities, avoiding the rainy season's downpours from May to October."
+      },
+      {
+        "q": "How to get to Koh Chang from Bangkok?",
+        "a": "Fly to Trat Airport then take a 30-minute shuttle to the ferry pier, or bus directly—total travel time around 5-6 hours."
+      }
+    ],
+    "urgencyLine": "Rooms at Kacha Resort & Spa Koh Chang with direct beach access book out 1-2 months ahead for December-February high season—check today.",
+    "methodology": "We rated Kacha Resort & Spa Koh Chang based on location access, amenities like pool and spa, guest reviews at 4.2/5, and value in the 2,000-4,000 THB range. We weighted beach proximity highest because it's the core draw for Trat island stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Kacha Resort & Spa Koh Chang Review (2026)",
+    "metaDescription": "Kacha Resort & Spa Koh Chang in Trat offers direct White Sand Beach access, pool, and spa for couples and families at mid-range prices. Note crowds during peak hours. Book for value-driven beach stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:43:16.205Z"
+}

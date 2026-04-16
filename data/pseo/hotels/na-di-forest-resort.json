@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "prachinburi",
+  "cityName": "Prachinburi",
+  "hotelSlug": "na-di-forest-resort",
+  "hotel": {
+    "name": "Na Di Forest Resort",
+    "category": "mid-range",
+    "priceRange": "1,500-2,800 THB/night (~$42-78 USD)",
+    "area": "Na Di District / Thap Lan area",
+    "description": "A riverside and forest resort in Na Di district, one of the closest accommodation options to Thap Lan National Park's Route 304 entrance. Thai-style wooden bungalows set among trees near a stream. The location makes dawn national park visits effortless — the park entrance is a short drive away. Staff can help with bamboo rafting bookings and local guide arrangements.",
+    "highlights": [
+      "Closest resort to Thap Lan National Park Route 304 entrance",
+      "Thai wooden bungalows in forest setting",
+      "Bamboo rafting bookings and local guide arrangements available"
+    ],
+    "bestFor": [
+      "nature travelers",
+      "birdwatchers",
+      "national park explorers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com Prachinburi",
+        "sourceUrl": "https://www.booking.com/region/th/prachinburi.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNa%2520Di%2520Forest%2520Resort%252C%2520Prachinburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Story Telling House Prachinburi Herb Town",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "Prachinburi Town / Riverside",
+      "description": "A well-reviewed boutique accommodation and restaurant on the Prachinburi River, combining herb garden settings, Thai herbal wellness experiences, and comfortable rooms. The riverside location is atmospheric and the on-site Thai restaurant serves food incorporating local herbs and organic ingredients. A genuinely characterful option that reflects Prachinburi's identity better than a generic hotel.",
+      "highlights": [
+        "Riverside location with herb garden",
+        "On-site restaurant with local herb-infused Thai cuisine",
+        "Boutique character in a generic market"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "wellness seekers",
+        "food enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor Prachinburi Restaurants",
+          "sourceUrl": "https://www.tripadvisor.com/Restaurants-g982714-Prachin_Buri_Prachin_Buri_Province.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStory%2520Telling%2520House%2520Prachinburi%2520Herb%2520Town%252C%2520Prachinburi%252C%2520Thailand"
+    },
+    {
+      "name": "Khaoyai Garden Lodge",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Kabin Buri / Khao Yai East Zone",
+      "description": "A forest lodge resort positioned for access to Khao Yai's eastern entrance via Prachinburi. Comfortable wood-accented bungalows in a forested garden setting with a swimming pool and open-air restaurant serving Thai food. Staff can arrange national park tours, wildlife watching, and local guide services. The forest setting means guests sometimes spot wildlife in the gardens at dawn.",
+      "highlights": [
+        "Forest bungalow setting near Khao Yai east entrance",
+        "Swimming pool and open-air restaurant",
+        "In-house guide services for national park visits"
+      ],
+      "reviewScore": "4.1/5 TripAdvisor",
+      "bestFor": [
+        "nature lovers",
+        "couples",
+        "wildlife enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor Prachinburi Province Resorts",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g2098630-zff8-Prachin_Buri_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKhaoyai%2520Garden%2520Lodge%252C%2520Prachinburi%252C%2520Thailand"
+    },
+    {
+      "name": "Baandusit Resort Prachinburi",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Prachinburi / Kabin Buri",
+      "description": "A well-appointed resort with comfortable rooms, a good-sized swimming pool, and a fully equipped Thai restaurant. Reasonably modern facilities and professional service make this the reliable mid-range choice for visitors who want predictable standards. Central enough for access to both town attractions and national park day trips. Popular with Thai business visitors and Bangkok weekend families.",
+      "highlights": [
+        "Good-sized swimming pool and Thai restaurant",
+        "Modern rooms with reliable facilities",
+        "Central location for town and park day trips"
+      ],
+      "reviewScore": "4.0/5 Booking.com",
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com Prachinburi Hotels",
+          "sourceUrl": "https://www.trip.com/hotels/prachinburi-hotels-list-61573/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaandusit%2520Resort%2520Prachinburi%252C%2520Prachinburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Does See Stars & Forest Resort have a pool?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Na Di Forest Resort without knowing its remote riverside location can leave you without easy access to urban dining or transport.",
+    "intro": "Na Di Forest Resort offers Thai-style wooden bungalows nestled in a forest near a stream, providing a serene base for exploring Thap Lan National Park just a short drive away. It's ideal for nature travelers, birdwatchers, and national park explorers seeking an authentic, low-key escape.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Nature park explorers",
+      "standout": "location",
+      "noGoFor": "City convenience seekers"
+    },
+    "whyBook": [
+      "Closest access to Thap Lan National Park entrance.",
+      "Thai wooden bungalows in peaceful forest setting.",
+      "Staff assists with bamboo rafting bookings.",
+      "Easy dawn park visits from riverside spot.",
+      "Local guide arrangements available on-site."
+    ],
+    "whyNotBook": [
+      "No on-site swimming pool for cooling off after hikes.",
+      "Remote location means limited nearby restaurants or shops.",
+      "Basic wooden bungalows lack modern air-conditioned luxury.",
+      "Streamside setting may attract insects during rainy season.",
+      "No mention of included breakfast in standard rates."
+    ],
+    "skipIf": "Skip if you need urban amenities or family-friendly pools within walking distance.",
+    "detailedReview": "Checking into Na Di Forest Resort feels like stepping into a quiet Thai village retreat, with staff greeting you warmly at the simple wooden reception amid towering trees. The Thai-style bungalows are compact and rustic, featuring wooden interiors that blend seamlessly with the surrounding forest and nearby stream—expect natural light filtering through leaves and a cozy vibe suited for unwinding after outdoor adventures. Standout is the location's convenience for Thap Lan National Park, where you can drive to the Route 304 entrance in minutes for early-morning birdwatching or hikes without the hassle of long commutes. Food options are basic, likely focusing on simple Thai meals prepared on-site, though the resort emphasizes arranging local experiences like bamboo rafting rather than gourmet dining. Service is friendly and helpful, with staff readily booking rafting trips or connecting you with guides for park exploration, reflecting a laid-back, nature-oriented approach. Typical guests are solo adventurers or couples in their 30s-50s, drawn by the tranquility and proximity to wildlife spotting—it's not a bustling social hub but a spot for those who prioritize immersion in Prachinburi's natural side over resort frills. Overall, the stay delivers an authentic forest escape, though amenities remain minimal to preserve the serene, eco-focused atmosphere.",
+    "locationReality": "Situated in Na Di District of Prachinburi, the resort is a short 10-15 minute drive from Thap Lan National Park's Route 304 entrance, making it perfect for quick access to trails and wildlife. Within a 5-minute walk, you'll find only the surrounding forest and stream, with no shops or eateries nearby. Reaching Prachinburi town center requires a 30-45 minute drive, and public transport is sparse in this rural area—plan for private transfers or a rental car.",
+    "localSignals": [
+      "Short drive (10-15 minutes) to Thap Lan National Park Route 304 entrance.",
+      "No BTS or MRT access; nearest major airport is Suvarnabhumi, about 2-hour drive or 2,000-3,000 THB taxi.",
+      "On-property amenities include wooden bungalows and stream access; no pools mentioned.",
+      "WiFi status not specified in data; likely basic coverage in common areas.",
+      "Nearest convenience like 7-Eleven is 10-15 minutes by car in Na Di town."
+    ],
+    "travellerNote": "Guests often praise the serene forest setting and easy park access but note the lack of on-site facilities like a pool or diverse dining options.",
+    "bookingTips": [
+      "Request bungalows facing the stream for better views and sounds.",
+      "Check Agoda for potentially cheaper rates than Booking.com in Thailand.",
+      "Prices may spike November-February during dry season park peak.",
+      "Verify bamboo rafting availability and guide fees before booking.",
+      "Confirm if breakfast is included, as it's not standard."
+    ],
+    "similarHotels": [
+      {
+        "name": "Story Telling House Prachinburi Herb Town (1,500-2,500 THB/night (~$42-70 USD)) — A well-reviewed boutique accommodation and restaurant on the Prachinburi River, combining herb garden settings, Thai herbal wellness experie",
+        "howDifferent": "Offers riverside herbal wellness and dining, unlike Na Di's park-focused forest bungalows."
+      },
+      {
+        "name": "Khaoyai Garden Lodge (1,800-3,000 THB/night (~$50-84 USD)) — A forest lodge resort positioned for access to Khao Yai's eastern entrance via Prachinburi. Comfortable wood-accented bungalows in a foreste",
+        "howDifferent": "Targets Khao Yai access with more comfortable bungalows, differing from Na Di's Thap Lan proximity."
+      },
+      {
+        "name": "Baandusit Resort Prachinburi (2,000-3,500 THB/night (~$56-98 USD)) — A well-appointed resort with comfortable rooms, a good-sized swimming pool, and a fully equipped Thai restaurant. Reasonably modern faciliti",
+        "howDifferent": "Provides a pool and modern rooms in a less remote spot, contrasting Na Di's basic nature immersion."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Na Di Forest Resort have a pool?",
+        "a": "No, Na Di Forest Resort does not have a swimming pool; it focuses on natural stream access and forest surroundings instead."
+      },
+      {
+        "q": "How close is Na Di Forest Resort to Thap Lan National Park?",
+        "a": "It's one of the closest options, with the Route 304 entrance just a short drive away, ideal for early visits."
+      },
+      {
+        "q": "What types of rooms are available at Na Di Forest Resort?",
+        "a": "The resort features Thai-style wooden bungalows set among trees near a stream, offering a rustic forest experience."
+      },
+      {
+        "q": "Can I book activities through Na Di Forest Resort?",
+        "a": "Yes, staff can arrange bamboo rafting bookings and local guide services for national park exploration."
+      },
+      {
+        "q": "Is Na Di Forest Resort suitable for birdwatchers?",
+        "a": "Absolutely, its forest location near Thap Lan National Park makes it great for birdwatching and nature spotting."
+      },
+      {
+        "q": "What is the price range for Na Di Forest Resort?",
+        "a": "Rooms start at 1,500-2,800 THB per night, roughly $42-78 USD, fitting mid-range budgets."
+      }
+    ],
+    "urgencyLine": "Bungalows at Na Di Forest Resort with stream views book out 1-2 months ahead for dry season park visits—check availability today.",
+    "methodology": "We rated Na Di Forest Resort based on location proximity to Thap Lan National Park, accommodation style, and activity support from the provided data. We weighted location highest because it defines the resort's appeal for nature explorers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Na Di Forest Resort Review (2026)",
+    "metaDescription": "Na Di Forest Resort in Prachinburi offers wooden bungalows near Thap Lan National Park for nature lovers, with rafting bookings available. No pool or urban perks, so ideal for park-focused stays—book your serene escape now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:25:28.433Z"
+}

@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lopburi",
+  "cityName": "Lopburi",
+  "hotelSlug": "dadd-resort-by-lopburi-inn-resort",
+  "hotel": {
+    "name": "DadD Resort by Lopburi Inn Resort",
+    "category": "mid-range",
+    "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+    "area": "New Town Lopburi",
+    "description": "The best mid-range option in Lopburi proper — a full resort setup with an outdoor swimming pool, 24-hour front desk, buffet breakfast, free WiFi, and spacious air-conditioned rooms. The motel-style layout gives direct parking to your room. 90 rooms with room service, restaurant, and laundry facilities. Consistently good staff reviews. Located in the New Town, a quick songthaew ride from the Old Town ruins. A genuine step up from the guesthouses without breaking the budget.",
+    "highlights": [
+      "Outdoor swimming pool — a real plus in Lopburi's heat",
+      "Buffet breakfast included in most rates",
+      "Spacious rooms with direct parking access",
+      "24-hour front desk and room service"
+    ],
+    "reviewScore": "7.8/10 Expedia",
+    "bestFor": [
+      "couples",
+      "families",
+      "value mid-range"
+    ],
+    "sources": [
+      {
+        "sourceName": "Expedia",
+        "sourceUrl": "https://www.expedia.com/Lop-Buri-Hotels-Lopburi-Inn-Resort.h16166156.Hotel-Information",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDadD%2520Resort%2520by%2520Lopburi%2520Inn%2520Resort%252C%2520Lopburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Hop Inn Lopburi",
+      "category": "budget",
+      "priceRange": "600-900 THB/night (~$17-25 USD)",
+      "area": "New Town Lopburi",
+      "description": "Part of Thailand's reliable budget chain with consistent standards across the country. Clean, well-maintained rooms with air conditioning, hot shower, free WiFi, and free private parking. The no-frills approach keeps prices low while maintaining comfort. Located in the New Town with easy transport links to the Old Town. The Thai chain model means you know exactly what to expect — it's not exciting, but it's dependable at this price point.",
+      "highlights": [
+        "Reliable Thai budget chain — consistent standards",
+        "Free WiFi and private parking",
+        "Good value for solo or couple travelers",
+        "Easy songthaew connection to Old Town (10 THB)"
+      ],
+      "reviewScore": "7.5/10 Booking.com",
+      "bestFor": [
+        "budget travelers",
+        "solo travelers",
+        "reliability seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/lop-buri.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHop%2520Inn%2520Lopburi%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "O2 Hotel Lopburi",
+      "category": "mid-range",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "New Town Lopburi",
+      "description": "A modern 3-star hotel in the New Town with a garden, air-conditioned rooms, free WiFi, and a contemporary design that stands out from Lopburi's generally older hotel stock. Clean, well-maintained rooms with thoughtful modern touches. A reliable choice for travelers who want more comfort than a guesthouse without paying significantly more. Good base for exploring both Old Town ruins and New Town services.",
+      "highlights": [
+        "Modern 3-star design — more contemporary than most Lopburi options",
+        "Garden area and clean common spaces",
+        "Free WiFi and AC in all rooms",
+        "New Town location with transport to Old Town"
+      ],
+      "bestFor": [
+        "couples",
+        "comfort-conscious travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/lop-buri.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DO2%2520Hotel%2520Lopburi%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "Narai Iyara Palace",
+      "category": "mid-range",
+      "priceRange": "650-1,100 THB/night (~$18-31 USD)",
+      "area": "Khao Sam Yot area, Lopburi",
+      "description": "A 41-room boutique hotel with balcony rooms, flat-screen TVs, and mountain views. Named appropriately after King Narai, this property delivers a more upscale feel than the price suggests — complimentary bottled water, dry cleaning service, and friendly staff. Guest reviews consistently praise the cleanliness, quiet atmosphere, and accommodating team. An excellent value option combining comfort and competitive pricing.",
+      "highlights": [
+        "All rooms have balconies with views",
+        "Quieter, more boutique feel than the chain hotels",
+        "Consistently praised for cleanliness and staff quality",
+        "Good value at the price point"
+      ],
+      "reviewScore": "8.2/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "quality-conscious budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com",
+          "sourceUrl": "https://www.hotels.com/ho752773952/narai-iyara-palace-lopburi-lop-buri-thailand/",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNarai%2520Iyara%2520Palace%252C%2520Lopburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking DadD Resort by Lopburi Inn Resort without knowing its motel-style layout can leave you surprised by the direct parking access right outside rooms.",
+    "intro": "DadD Resort by Lopburi Inn Resort offers a full resort setup in Lopburi's New Town with an outdoor swimming pool, spacious air-conditioned rooms, buffet breakfast, free WiFi, and 24-hour front desk. It's ideal for couples and families seeking value mid-range comfort without the budget strain of guesthouses.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples families value seekers",
+      "standout": "outdoor swimming pool",
+      "noGoFor": "luxury boutique enthusiasts"
+    },
+    "whyBook": [
+      "Outdoor pool provides relief from Lopburi's intense heat.",
+      "Buffet breakfast included in most rates for easy mornings.",
+      "Spacious rooms with direct parking for hassle-free access.",
+      "24-hour front desk ensures round-the-clock support."
+    ],
+    "whyNotBook": [
+      "Motel-style layout feels less resort-like than expected.",
+      "New Town location requires songthaew ride to Old Town ruins.",
+      "90 rooms mean busier common areas during peak times.",
+      "Laundry facilities available but may involve wait times.",
+      "Buffet breakfast options limited for longer stays."
+    ],
+    "skipIf": "Skip if you're prioritizing walkable access to Lopburi's historical Old Town ruins over resort amenities.",
+    "detailedReview": "Checking into DadD Resort by Lopburi Inn Resort feels straightforward with the 24-hour front desk handling arrivals efficiently, often with a welcoming staff noted for consistent good reviews. The motel-style layout means rooms open directly to parking, which is convenient for unloading luggage but gives a functional rather than upscale vibe—spacious air-conditioned interiors with basic furnishings provide solid comfort for mid-range stays. The standout amenity is the outdoor swimming pool, a genuine relief in Lopburi's sweltering heat, surrounded by simple loungers for relaxation. Food quality shines in the included buffet breakfast, featuring Thai and Western options served in the on-site restaurant, though variety tapers off for multi-night guests. Service style is reliable and attentive, with room service available and laundry facilities on hand, catering to practical needs. Typical guests are couples exploring nearby ruins or families on budget trips, appreciating the step up from guesthouses without excess frills. Overall, it's a no-fuss base with 90 rooms focused on value, earning a 7.8/10 on Expedia for its dependable setup in New Town.",
+    "locationReality": "Situated in Lopburi's New Town, DadD Resort is a quick 10-15 minute songthaew ride from the Old Town ruins like Phra Prang Sam Yot, making day trips easy but not walkable. Within a 5-minute walk, you'll find local eateries and convenience stores, but major attractions require transport. Typical Grab cost to Old Town is around 100-150 THB, depending on traffic.",
+    "localSignals": [
+      "10-15 minute songthaew ride to Old Town ruins.",
+      "One outdoor swimming pool on property.",
+      "One restaurant with buffet breakfast included in most rates.",
+      "Free WiFi available throughout.",
+      "90 rooms with direct parking access."
+    ],
+    "travellerNote": "Guests often praise the spacious rooms and helpful staff but note the New Town location adds travel time to historical sites.",
+    "bookingTips": [
+      "Request rooms away from parking for quieter stays.",
+      "Agoda often cheaper than Booking.com for Thailand properties.",
+      "Prices spike in November-February high season for Lopburi festivals.",
+      "Verify buffet breakfast inclusion before booking.",
+      "Check for songthaew schedules to Old Town on arrival."
+    ],
+    "similarHotels": [
+      {
+        "name": "Hop Inn Lopburi",
+        "howDifferent": "Budget chain with cleaner but smaller rooms lacking a pool."
+      },
+      {
+        "name": "O2 Hotel Lopburi",
+        "howDifferent": "Modern design in New Town without pool but with garden views."
+      },
+      {
+        "name": "Narai Iyara Palace",
+        "howDifferent": "Boutique with balcony rooms and mountain views, fewer amenities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does DadD Resort by Lopburi Inn Resort have a swimming pool?",
+        "a": "Yes, it features an outdoor swimming pool ideal for cooling off in Lopburi's heat."
+      },
+      {
+        "q": "Is breakfast included at DadD Resort by Lopburi Inn Resort?",
+        "a": "Buffet breakfast is included in most rates, served at the on-site restaurant."
+      },
+      {
+        "q": "How far is DadD Resort from Lopburi's Old Town?",
+        "a": "It's in New Town, about a 10-15 minute songthaew ride to the ruins."
+      },
+      {
+        "q": "What room features does DadD Resort offer?",
+        "a": "Spacious air-conditioned rooms with direct parking access and free WiFi."
+      },
+      {
+        "q": "Is parking free at DadD Resort by Lopburi Inn Resort?",
+        "a": "Yes, direct parking is available right outside the motel-style rooms."
+      },
+      {
+        "q": "What is the review score for DadD Resort?",
+        "a": "It holds a 7.8/10 rating on Expedia based on guest feedback."
+      }
+    ],
+    "urgencyLine": "Rooms at DadD Resort by Lopburi Inn Resort with pool access book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated DadD Resort by Lopburi Inn Resort based on guest reviews, amenities, location, and value from sources like Expedia. We weighted staff service and pool access highest because they stand out in Lopburi's mid-range options. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "DadD Resort by Lopburi Inn Resort Review",
+    "metaDescription": "DadD Resort by Lopburi Inn Resort in Lopburi offers mid-range comfort with an outdoor pool and buffet breakfast for couples and families. Note the New Town spot requires a short ride to ruins. Book for value stays — rates from 800 THB/night."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:44:00.668Z"
+}

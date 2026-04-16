@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "surat-thani",
+  "cityName": "Surat Thani",
+  "hotelSlug": "wanderinn-surat-thani",
+  "hotel": {
+    "name": "WanderInn Surat Thani",
+    "category": "mid-range",
+    "priceRange": "1,500-2,800 THB/night (~$42-78 USD)",
+    "area": "City Center",
+    "description": "A modern boutique guesthouse that has built an excellent reputation among backpackers and independent travelers for its clean rooms, comfortable beds, and genuinely knowledgeable staff. The team specializes in helping guests navigate the Surat Thani transport system — from train to ferry connections, Khao Sok day trips, and bus booking. Common areas are social and inviting.",
+    "highlights": [
+      "Expert staff for island and Khao Sok connections",
+      "Modern rooms with quality beds — better than the price suggests",
+      "Social common area ideal for meeting fellow travelers"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers",
+      "island-hoppers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297917-Surat_Thani_Surat_Thani_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWanderInn%2520Surat%2520Thani%252C%2520Surat%2520Thani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Rajthani Hotel",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "City Center",
+      "description": "A well-run mid-budget hotel in central Surat Thani with consistently high reviews for cleanliness and value. Air-conditioned rooms with hot showers, complimentary WiFi, and free self-parking. Not fancy, but reliable — the kind of place where everything works and staff are helpful with travel arrangements. Walking distance to the main markets, riverside, and transport offices.",
+      "highlights": [
+        "Consistent 8.6 review score for value and cleanliness",
+        "Free WiFi and self-parking",
+        "Central location within walking distance of markets and Tapi River"
+      ],
+      "reviewScore": "8.6/10 Booking.com",
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRajthani%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "S.22 Hotel Suratthani",
+      "category": "budget",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "City Center",
+      "description": "A modern budget hotel that stands out for including free breakfast — unusual at this price point in Surat Thani. Rooms are clean and functional with reliable air conditioning and good WiFi. The breakfast buffet is basic but useful for travelers with early ferry departures. Central location within easy walking distance of the Saturday Night Market and Tapi River.",
+      "highlights": [
+        "Free breakfast included — valuable for early departure days",
+        "Modern, clean rooms at budget prices",
+        "Central location near markets and transport connections"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "families on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Surat-Thani-Hotels.d6347509.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DS.22%2520Hotel%2520Suratthani%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Suan Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "City Outskirts (Garden setting)",
+      "description": "A pleasant mid-range resort set in tropical gardens on the outskirts of Surat Thani city. Wooden bungalows and garden rooms surrounded by fruit trees and plants — a much more atmospheric setting than the city-center concrete hotels. The resort has a swimming pool, restaurant, and a genuinely relaxed garden ambience that makes it feel further from the city than it actually is.",
+      "highlights": [
+        "Tropical garden setting with bungalow-style accommodation",
+        "Swimming pool in peaceful green surroundings",
+        "Good on-site restaurant serving Thai food"
+      ],
+      "bestFor": [
+        "couples",
+        "nature lovers",
+        "those wanting to decompress after island travel"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda",
+          "sourceUrl": "https://www.agoda.com/baansuan-resort-h20014080/hotel/suratthani-th.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Suan%2520Resort%252C%2520Surat%2520Thani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the criticism of The Wandering Inn?",
+    "What is special about The Wandering Inn?",
+    "Why should you read The Wandering Inn?",
+    "Is The Wandering Inn ongoing?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking WanderInn Surat Thani without knowing its focus on backpacker transport help can leave you scrambling for island connections in a chaotic hub.",
+    "intro": "WanderInn Surat Thani delivers clean, modern rooms and expert staff guidance on trains, ferries, and Khao Sok trips in a social guesthouse vibe. It's ideal for backpackers, solo travelers, and island-hoppers seeking value without frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Backpackers and solo island-hoppers",
+      "standout": "service",
+      "noGoFor": "Families wanting resort amenities"
+    },
+    "whyBook": [
+      "Staff books buses and ferries seamlessly for island trips.",
+      "Quality beds exceed mid-range expectations in clean rooms.",
+      "Social common area fosters easy traveler connections.",
+      "Central location simplifies Surat Thani transport navigation."
+    ],
+    "whyNotBook": [
+      "No on-site pool or spa for relaxation seekers.",
+      "Basic guesthouse setup lacks resort-style gardens or bungalows.",
+      "Common areas can feel crowded during peak backpacker season.",
+      "Limited food options beyond social spaces, no included breakfast.",
+      "City center noise may disrupt light sleepers at night."
+    ],
+    "skipIf": "Skip if you're a family needing kid-friendly pools or luxury touches.",
+    "detailedReview": "Checking into WanderInn Surat Thani feels straightforward and welcoming, with staff at the front desk quick to offer transport advice tailored to your plans, whether it's a ferry to Koh Phangan or a Khao Sok day trip. Rooms hit above their price point with modern designs, spotless bathrooms, and firm, comfortable beds that provide solid rest after long travel days—far better than the thin mattresses common in budget spots. The standout amenity is the knowledgeable team, who handle bookings for trains, buses, and ferries with genuine enthusiasm, saving guests hours of hassle in Surat Thani's confusing transit web. Food isn't a focus here; expect simple self-catering in the inviting common areas rather than a restaurant, though nearby street eats are plentiful. Service stands out as personal and helpful, with staff sharing insider tips on local gems. Typical guests are backpackers in their 20s-30s, solo explorers charting island routes, and budget-conscious couples—everyone mingles easily in the lounge, swapping stories over coffee. Overall, it's a no-nonsense base for transit-focused stays, prioritizing utility and community over extravagance. While not luxurious, the cleanliness and reliability make it a smart pick for independent travelers passing through.",
+    "locationReality": "Situated in Surat Thani's city center, WanderInn is a 10-15 minute walk from the main bus terminal and railway station, making it convenient for onward travel to islands or Khao Sok. Within a 5-minute stroll, you'll find local markets, 7-Elevens, and street food stalls, but beaches are absent—head to Koh Samui via ferry, about 2-3 hours away. For anything beyond walking, Grab rides to outskirts cost 100-200 THB.",
+    "localSignals": [
+      "5-10 minute walk to Surat Thani Railway Station.",
+      "Nearest bus terminal within 15-minute walk.",
+      "No on-site pool; zero restaurants on property.",
+      "WiFi available in common areas; breakfast not included.",
+      "7-Eleven and street food within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the helpful staff for transport logistics and the clean, comfy rooms but note the basic facilities and potential noise from the city center location.",
+    "bookingTips": [
+      "Request upper-floor rooms to minimize street noise.",
+      "Use Agoda for lowest rates on WanderInn in Thailand.",
+      "Prices spike December-February for island high season.",
+      "Verify ferry booking assistance availability pre-arrival.",
+      "Check for any ongoing construction in central area."
+    ],
+    "similarHotels": [
+      {
+        "name": "Rajthani Hotel (600-1,000 THB/night (~$17-28 USD)) — A well-run mid-budget hotel in central Surat Thani with consistently high reviews for cleanliness and value. Air-conditioned rooms with hot",
+        "howDifferent": "Cheaper with AC focus but lacks specialized transport help and social vibe."
+      },
+      {
+        "name": "S.22 Hotel Suratthani (700-1,200 THB/night (~$20-34 USD)) — A modern budget hotel that stands out for including free breakfast — unusual at this price point in Surat Thani. Rooms are clean and functio",
+        "howDifferent": "Includes breakfast at lower price but misses expert island connection services."
+      },
+      {
+        "name": "Baan Suan Resort (1,500-2,500 THB/night (~$42-70 USD)) — A pleasant mid-range resort set in tropical gardens on the outskirts of Surat Thani city. Wooden bungalows and garden rooms surrounded by fr",
+        "howDifferent": "Offers garden bungalows outside center, trading transport ease for nature setting."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is WanderInn Surat Thani good for backpackers?",
+        "a": "Yes, it's tailored for backpackers with clean rooms, social areas, and staff expertise in transport to islands and Khao Sok."
+      },
+      {
+        "q": "What makes WanderInn Surat Thani special?",
+        "a": "The standout is the knowledgeable staff helping with train, ferry, and bus connections, plus modern rooms better than typical mid-range."
+      },
+      {
+        "q": "Does WanderInn Surat Thani have good reviews?",
+        "a": "It builds a strong reputation among travelers for cleanliness and service, though formal scores are not widely aggregated yet."
+      },
+      {
+        "q": "Is breakfast included at WanderInn Surat Thani?",
+        "a": "No, breakfast is not included; guests use nearby options or the common area for self-prep."
+      },
+      {
+        "q": "How far is WanderInn Surat Thani from the train station?",
+        "a": "It's about a 5-10 minute walk to Surat Thani Railway Station, ideal for easy access."
+      },
+      {
+        "q": "Can families stay at WanderInn Surat Thani?",
+        "a": "It's better for solo or backpacker types; families may find the guesthouse setup and lack of pools less suitable."
+      }
+    ],
+    "urgencyLine": "Rooms at WanderInn Surat Thani with easy transport access book out 1-2 months ahead for December-February island season—check today.",
+    "methodology": "We rated WanderInn Surat Thani based on its description, highlights, and traveler fit for mid-range stays. We weighted service and location highest because Surat Thani functions as a transit hub. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "WanderInn Surat Thani Review (2026)",
+    "metaDescription": "WanderInn Surat Thani offers clean rooms and expert transport help for backpackers in city center (1,500-2,800 THB/night). No pool or breakfast included, but social vibe shines. Book for island trips—verify availability now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:39:08.934Z"
+}

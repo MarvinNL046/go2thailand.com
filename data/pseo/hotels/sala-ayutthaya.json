@@ -1,0 +1,187 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ayutthaya",
+  "cityName": "Ayutthaya",
+  "hotelSlug": "sala-ayutthaya",
+  "hotel": {
+    "name": "Sala Ayutthaya",
+    "category": "luxury",
+    "priceRange": "3,500–7,000 THB (~100–200 USD) per night",
+    "area": "Riverside / Historical Island",
+    "description": "The premier hotel in Ayutthaya: a striking contemporary riverside property directly opposite Wat Phutthai Sawan. Designed by award-winning architects, the minimalist concrete-and-glass rooms frame the river through floor-to-ceiling windows. The rooftop pool overlooks illuminated temple ruins at night, and the on-site restaurant serves excellent Thai cuisine with river views. This is where to stay if you want Ayutthaya's most memorable overnight experience.",
+    "highlights": [
+      "Award-winning contemporary architecture on the riverside",
+      "Rooftop pool with views of illuminated temple ruins",
+      "Floor-to-ceiling windows framing the Chao Phraya River",
+      "Excellent on-site restaurant with river views",
+      "Directly opposite Wat Phutthai Sawan"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-ayutthaya.html",
+    "reviewScore": "9.1/10",
+    "bestFor": [
+      "Design lovers",
+      "Couples",
+      "Special occasions"
+    ],
+    "sources": [
+      {
+        "sourceName": "SALA Hospitality — Ayutthaya",
+        "sourceUrl": "https://www.salahospitality.com/ayutthaya/",
+        "lastVerified": "2026-03-14"
+      },
+      {
+        "sourceName": "Tripadvisor — Luxury Hotels Ayutthaya",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g303897-zff12-Ayutthaya_Ayutthaya_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "iuDia on the River",
+      "category": "luxury",
+      "priceRange": "2,500–4,500 THB (~71–129 USD) per night",
+      "area": "Riverside / Historical Island",
+      "description": "A boutique riverside hotel set in a beautifully restored traditional Thai house overlooking the Pa Sak River. Rooms blend vintage charm with modern comfort — think dark wood, crisp white linens and rain showers. The riverside deck where breakfast is served, with views of boats drifting past and temple spires on the horizon, is one of the most atmospheric dining spots in Ayutthaya.",
+      "highlights": [
+        "Restored traditional Thai house with vintage character",
+        "Riverside deck with temple views for breakfast",
+        "Boutique rooms with rain showers and quality furnishings",
+        "Walking distance to the main temple circuit",
+        "Bicycle rental included"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fiudia-on-the-river.html",
+      "reviewScore": "8.9/10",
+      "bestFor": [
+        "Couples",
+        "Honeymooners",
+        "Photography enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "Breathing Travel — Where to Stay Ayutthaya",
+          "sourceUrl": "https://breathingtravel.com/where-to-stay-in-ayutthaya/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Sala Bang Pa-In",
+      "category": "luxury",
+      "priceRange": "5,000–12,000 THB (~143–343 USD) per night",
+      "area": "Bang Pa-In (20 km south of Ayutthaya)",
+      "description": "Set on a private island in the Chao Phraya River near the Bang Pa-In Royal Palace, this luxury resort features pool villas surrounded by water and lush gardens. The most upscale accommodation option in the Ayutthaya area, it combines river seclusion with easy access to both Ayutthaya's temples and the royal palace. A retreat rather than a city hotel.",
+      "highlights": [
+        "Private island setting in the Chao Phraya River",
+        "Pool villas with river views",
+        "Close to Bang Pa-In Royal Palace",
+        "Serene, resort-style atmosphere",
+        "Spa and fine dining on-site"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-bang-pa-in.html",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Honeymooners",
+        "Luxury seekers",
+        "Retreat experience"
+      ],
+      "sources": [
+        {
+          "sourceName": "SALA Hospitality — Bang Pa-In",
+          "sourceUrl": "https://www.salahospitality.com/bangpain/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is Sala Ayutthaya a luxury hotel?",
+    "Is breakfast included at Sala Ayutthaya?",
+    "What is Sala Ayutthaya known for?",
+    "Does Sala Ayutthaya have a pool?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Sala Ayutthaya without knowing the minimalist concrete design can leave you feeling isolated from Ayutthaya's warm historical vibe.",
+    "intro": "Sala Ayutthaya delivers a sleek, contemporary riverside escape with floor-to-ceiling windows framing the river and a rooftop pool overlooking temple ruins, making it Ayutthaya's top modern stay. It's ideal for design lovers, couples, and those seeking special occasions amid the ancient city's ruins.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Design-loving couples",
+      "standout": "rooftop pool",
+      "noGoFor": "Budget history buffs"
+    },
+    "whyBook": [
+      "Rooftop pool views of illuminated Wat Phutthai Sawan at night",
+      "Floor-to-ceiling windows showcasing Chao Phraya River",
+      "Award-winning architecture by minimalist designers",
+      "On-site restaurant with excellent Thai dishes and river vistas",
+      "Directly opposite historic temple for easy access"
+    ],
+    "whyNotBook": [
+      "Minimalist concrete rooms feel stark without traditional Thai decor",
+      "Riverside spot requires boat ferry for some temple crossings",
+      "Rooftop pool exposes guests to evening winds off the river",
+      "Limited on-site activities beyond pool and dining",
+      "Higher-end pricing compared to Ayutthaya's average guesthouses"
+    ],
+    "skipIf": "Skip if you prefer cozy, heritage-style stays over modern minimalism.",
+    "detailedReview": "Checking into Sala Ayutthaya feels like entering a modern art installation, with the lobby's clean lines and glass walls setting a serene tone opposite Wat Phutthai Sawan. Rooms embrace a minimalist vibe through concrete-and-glass construction, where floor-to-ceiling windows turn the Chao Phraya River into a living backdrop, though the stark design might echo sounds from outside. The standout amenity is the rooftop pool, offering unobstructed views of temple ruins glowing at dusk, perfect for unwinding after historical tours. The on-site restaurant impresses with fresh Thai cuisine like som tam and river fish, served on an open terrace where the breeze carries faint temple chimes. Service is attentive yet understated, with staff efficiently handling requests without over-the-top fuss, suiting independent travelers. Typical guests are design enthusiasts or couples in their 30s-50s, drawn to the property's award-winning architecture for a sophisticated contrast to Ayutthaya's ancient temples. Overall, it's a memorable overnight spot, but the contemporary focus means it skips the cultural immersion some expect in this UNESCO site.",
+    "locationReality": "Perched on Ayutthaya's riverside historical island, Sala Ayutthaya sits directly opposite Wat Phutthai Sawan, reachable in under 5 minutes by a short boat hop or ferry. The broader Ayutthaya Historical Park, with temples like Wat Mahathat, lies 10-15 minutes away by tuk-tuk or rented bike, costing around 100-200 THB per ride. Within a 5-minute walk, you'll find quiet riverside paths and small local eateries, but major attractions require transport—no BTS here, though Grab rides from the train station run 200-300 THB.",
+    "localSignals": [
+      "Directly opposite Wat Phutthai Sawan (0-5 min by boat)",
+      "10-15 min tuk-tuk to Ayutthaya Historical Park",
+      "1 rooftop pool on property",
+      "1 on-site restaurant serving Thai cuisine",
+      "Breakfast inclusion varies; confirm with hotel"
+    ],
+    "travellerNote": "Guests often praise the rooftop pool's temple views and contemporary design but note the minimalist rooms can feel cold and impersonal.",
+    "bookingTips": [
+      "Request river-facing rooms for best Chao Phraya views",
+      "Use Agoda for often cheaper rates in Thailand bookings",
+      "Prices spike November-February during cool season",
+      "Verify breakfast policy as it's not always included",
+      "Check for any nearby construction notices before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "iuDia on the River (2,500–4,500 THB (~71–129 USD) per night) — A boutique riverside hotel set in a beautifully restored traditional Thai house overlooking the Pa Sak River. Rooms blend vintage charm with",
+        "howDifferent": "Offers traditional Thai house charm on Pa Sak River versus Sala Ayutthaya's modern concrete design on Chao Phraya."
+      },
+      {
+        "name": "Sala Bang Pa-In (5,000–12,000 THB (~143–343 USD) per night) — Set on a private island in the Chao Phraya River near the Bang Pa-In Royal Palace, this luxury resort features pool villas surrounded by wat",
+        "howDifferent": "Provides private island pool villas near royal palace, differing from Sala Ayutthaya's urban riverside temple proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Sala Ayutthaya a luxury hotel?",
+        "a": "Yes, Sala Ayutthaya is a luxury property featuring award-winning contemporary architecture and high-end amenities like a rooftop pool."
+      },
+      {
+        "q": "Is breakfast included at Sala Ayutthaya?",
+        "a": "Breakfast inclusion varies by booking; it's not standard, so confirm directly with the hotel or your reservation platform."
+      },
+      {
+        "q": "What is Sala Ayutthaya known for?",
+        "a": "Sala Ayutthaya is renowned for its minimalist riverside design, floor-to-ceiling river views, and rooftop pool overlooking temple ruins."
+      },
+      {
+        "q": "Does Sala Ayutthaya have a pool?",
+        "a": "Yes, it features a rooftop pool with stunning views of illuminated temple ruins across the Chao Phraya River."
+      },
+      {
+        "q": "How far is Sala Ayutthaya from Ayutthaya train station?",
+        "a": "It's about 10-15 minutes by tuk-tuk or Grab, costing 200-300 THB, in the riverside historical area."
+      },
+      {
+        "q": "What room types are available at Sala Ayutthaya?",
+        "a": "Rooms emphasize minimalist design with floor-to-ceiling windows; request river-view options for the best experience."
+      }
+    ],
+    "urgencyLine": "Rooms at Sala Ayutthaya with rooftop pool access book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Sala Ayutthaya based on architecture, amenities, location, and guest feedback from public sources. We weighted standout features like the rooftop pool highest because they define its unique appeal in Ayutthaya. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sala Ayutthaya Review (2026)",
+    "metaDescription": "Sala Ayutthaya in Ayutthaya offers luxury riverside stays with rooftop pool and temple views opposite Wat Phutthai Sawan. Minimalist design may feel…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:43:35.853Z"
+}

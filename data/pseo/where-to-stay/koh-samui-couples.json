@@ -1,0 +1,279 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "audience": "couples",
+  "neighborhoods": [
+    {
+      "name": "Lamai Beach",
+      "description": "Samui's second-largest beach offers a more laid-back alternative to Chaweng with good swimming, beach bars, and a mix of budget and mid-range hotels. The area has its own nightlife strip (though much smaller than Chaweng's) and is home to the famous Hin Ta & Hin Yai rocks. Hotels here are typically 20–30% cheaper than Chaweng equivalents, making it a value sweet spot.",
+      "bestFor": "Couples & relaxed travelers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "More relaxed than Chaweng but still lively enough with restaurants and nightlife",
+        "Hotels 20–30% cheaper than comparable Chaweng properties",
+        "Hin Ta & Hin Yai rocks and Overlap Stone viewpoint nearby",
+        "Good snorkeling at the rocky northern end of the beach",
+        "Smaller, less touristy night market with authentic local food"
+      ],
+      "recommendedHotels": [
+        "Baan Talay Resort",
+        "Banyan Tree Samui"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "15 minutes from Chaweng by songthaew (50–80 THB)",
+        "Ring road access to all other beaches",
+        "Scooter recommended for exploring beyond Lamai"
+      ],
+      "sources": [
+        {
+          "sourceName": "North Abroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-on-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Bophut (Fisherman's Village)",
+      "description": "Samui's most charming area — converted Chinese-Thai shophouses along a waterfront strip housing boutique hotels, excellent restaurants, art galleries, and cocktail bars. The famous Friday Walking Street Market (5–11 PM) is the island's best night market. Bophut has more personality than any other area on Samui, and its restaurant scene rivals much larger tourist zones. Hotels are slightly pricier on average but the atmosphere justifies it.",
+      "bestFor": "Foodies, couples & charm seekers",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Fisherman's Village — Samui's most atmospheric waterfront strip",
+        "Friday Walking Street Market (5–11 PM) with food, live music, and fire shows",
+        "Best restaurant concentration on the island (Zazen, Catch, etc.)",
+        "Boutique hotel scene with more character than chain resorts",
+        "Close to Big Buddha and Wat Plai Laem temples"
+      ],
+      "recommendedHotels": [
+        "Karma Resort",
+        "Zazen Boutique Resort & Spa"
+      ],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "Compact village — most things walkable along the waterfront",
+        "10 minutes to Chaweng by songthaew or Grab",
+        "Maenam pier (for Koh Phangan ferries) is 10 minutes west"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Koh Samui Guide",
+          "sourceUrl": "https://www.thekohsamuiguide.com/post/where-to-stay-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Taling Ngam",
+      "description": "Taling Ngam occupies the southwest coast of Koh Samui with long sandy beaches and hilly terrain. It hosts several high-end resorts with private beach access. The area offers views across to Ang Thong Marine Park.",
+      "bestFor": "couples, honeymoon",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Taling Ngam Beach",
+        "Four Seasons Resort Koh Samui",
+        "Laem Sor Pagoda",
+        "Ang Thong viewpoint"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Taxis from Lamai take 25 minutes",
+        "Songthaews less frequent in this area"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TAT Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Destinations/Provinces/Koh-Samui/232"
+        }
+      ]
+    },
+    {
+      "name": "Laem Set",
+      "description": "Laem Set is a quiet peninsula in southern Koh Samui between Lamai and Taling Ngam. It features a small beach and upscale villas with sea views. The area is less developed, providing seclusion for guests.",
+      "bestFor": "couples, families",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Laem Set Beach",
+        "Silent Beach",
+        "Banyan Tree Samui Resort",
+        "Laem Set Viewpoint"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Songthaews from Lamai",
+        "20-minute drive from Chaweng"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905504-Laem_Set_Ko_Samui_Surat_Thani_Province-Vacations.html"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where should couples stay in Koh Samui?",
+    "Which side of Koh Samui is best to stay on?",
+    "Where to stay in Koh Samui for first timers?",
+    "Is Chaweng or Lamai beach better?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Koh Samui neighbourhood as a couples traveller can lead to noisy crowds ruining your romantic escape — most travellers overlook quieter southern spots for Chaweng's hype.",
+    "intro": "For couples, the key factor is finding a balance of romance, seclusion, and easy access to intimate dining without overwhelming tourist bustle. We ranked Koh Samui areas based on charm, privacy, and value for shared experiences like sunset views and beach walks.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Bophut (Fisherman's Village)",
+        "why": "Charming waterfront for romantic strolls"
+      },
+      {
+        "label": "Best value",
+        "name": "Lamai Beach",
+        "why": "Relaxed vibe at budget prices"
+      },
+      {
+        "label": "Best for honeymoons",
+        "name": "Taling Ngam",
+        "why": "Secluded resorts with park views"
+      }
+    ],
+    "urgencyLine": "Koh Samui's romantic resorts in southern areas book up fast for honeymoon season from December to February — secure your couples spot 3-4 months in advance.",
+    "comparisonTable": [
+      {
+        "name": "Lamai Beach",
+        "bestFor": "Couples & relaxed travelers",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back touristy",
+        "drawback": "Smaller nightlife than Chaweng"
+      },
+      {
+        "name": "Bophut (Fisherman's Village)",
+        "bestFor": "Foodies, couples & charm seekers",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "traditional charming",
+        "drawback": "Crowded during Friday market"
+      },
+      {
+        "name": "Taling Ngam",
+        "bestFor": "couples, honeymoon",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet secluded",
+        "drawback": "Longer drives to main beaches"
+      },
+      {
+        "name": "Laem Set",
+        "bestFor": "couples, seclusion",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet local",
+        "drawback": "Limited nearby dining options"
+      }
+    ],
+    "decisionGuide": [
+      "If you seek charming walks and markets, choose Bophut (Fisherman's Village).",
+      "If budget matters with relaxed beaches, choose Lamai Beach.",
+      "If honeymoon privacy with views is key, choose Taling Ngam.",
+      "If total seclusion appeals, choose Laem Set.",
+      "If you want mid-range romance without isolation, avoid Taling Ngam and choose Bophut (Fisherman's Village).",
+      "If first-time ease with some vibe, skip Laem Set and choose Lamai Beach."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Bophut (Fisherman's Village)",
+        "why": "Its converted shophouses and waterfront bars create an intimate, walkable charm that outshines Lamai's casual beaches for couples craving shared evenings. This edges out Taling Ngam by blending romance with accessibility.",
+        "drawback": "The Friday market can get busy, disrupting quiet dinners.",
+        "skipIf": "Skip if you prefer total isolation over village energy.",
+        "localSignals": [
+          "Taxi from Samui Airport: 15-20 minutes",
+          "Walking to waterfront strip: 5 minutes",
+          "Distance to Friday Walking Street Market: within village"
+        ],
+        "travellerNote": "Travellers often praise the romantic boutique vibe and food scene but note occasional market crowds."
+      },
+      {
+        "rank": 2,
+        "name": "Taling Ngam",
+        "why": "High-end resorts with private beaches and Ang Thong views provide ultimate honeymoon seclusion, surpassing Bophut's charm for couples wanting uninterrupted privacy. It beats Laem Set with better resort amenities.",
+        "drawback": "Transport reliance makes spontaneous outings challenging.",
+        "skipIf": "Skip if you dislike long taxi rides from central areas.",
+        "localSignals": [
+          "Taxi from Samui Airport: 40-50 minutes",
+          "Drive to nearest beach access: on-site",
+          "Distance to Ang Thong Marine Park views: direct from resorts"
+        ],
+        "travellerNote": "Travellers often praise the serene luxury and views but note limited walkable options."
+      },
+      {
+        "rank": 3,
+        "name": "Lamai Beach",
+        "why": "Laid-back swimming and beach bars offer affordable romance without Bophut's higher costs, ideal for couples easing into island life. It provides more energy than Taling Ngam's isolation at a better price.",
+        "drawback": "Nightlife strip can feel slightly rowdy on weekends.",
+        "skipIf": "Skip if you avoid any tourist bustle for pure quiet.",
+        "localSignals": [
+          "Taxi from Samui Airport: 30-40 minutes",
+          "Walking to beach bars: 10 minutes",
+          "Distance to Lamai nightlife strip: short walk"
+        ],
+        "travellerNote": "Travellers often praise the relaxed swimming spots but note smaller scale than Chaweng."
+      }
+    ],
+    "topPick": "Bophut (Fisherman's Village)",
+    "topPickReason": "Bophut blends romantic charm and walkability better than pricier secluded spots for most couples.",
+    "bookingTips": [
+      "Book 3-4 months ahead for December-February peak to snag romantic villas in southern areas.",
+      "Take a 15-20 minute taxi from Samui Airport to Bophut; Grab rides cost around 400-600 THB.",
+      "Avoid overpriced spots near Chaweng Beach Road extensions; stick to verified resort bookings.",
+      "Opt for sea-view rooms in Taling Ngam resorts to maximize honeymoon privacy.",
+      "Watch for rainy season low tides in Lamai from October-November, affecting beach walks.",
+      "Choose properties with private balconies in Laem Set to enhance seclusion."
+    ],
+    "methodology": "We compared Koh Samui neighbourhoods based on walkability, price level, transport access, and suitability for couples. We weighted romantic charm and privacy highest because couples prioritize intimate experiences over high-energy vibes. Rankings reflect cluster data plus typical couples priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/koh-samui/",
+      "/areas/koh-samui/bophut-fishermans-village/",
+      "/guides/where-to-stay/koh-samui/",
+      "/city/koh-samui/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Koh Samui'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Bophut (Fisherman's Village)'"
+    ],
+    "faq": [
+      {
+        "q": "Where should couples stay in Koh Samui?",
+        "a": "Couples should stay in Bophut (Fisherman's Village) for its charming waterfront and intimate dining, or Taling Ngam for secluded honeymoon resorts with marine park views."
+      },
+      {
+        "q": "Which side of Koh Samui is best to stay on?",
+        "a": "The southwest side like Taling Ngam or Laem Set suits couples seeking quiet romance, while the northeast like Bophut offers charming walks without isolation."
+      },
+      {
+        "q": "Where to stay in Koh Samui for first timers?",
+        "a": "First-time couples should choose Lamai Beach for its laid-back beaches and easy access, providing a gentle intro before exploring quieter spots like Bophut."
+      },
+      {
+        "q": "Is Chaweng or Lamai beach better?",
+        "a": "Lamai Beach is better for couples wanting relaxed swimming and fewer crowds than Chaweng's bustling nightlife, ideal for romantic beach days."
+      }
+    ],
+    "metaTitle": "Where to Stay in Koh Samui for Couples (2026)",
+    "metaDescription": "Discover the best Koh Samui neighborhoods for couples in 2026, from charming Bophut to secluded Taling Ngam. Find romantic spots with beach access and…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:03:38.785Z"
+}

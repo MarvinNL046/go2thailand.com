@@ -1,0 +1,313 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "audience": "family",
+  "neighborhoods": [
+    {
+      "name": "Maenam Beach",
+      "description": "A long, quiet stretch of golden sand on the north coast with a relaxed village feel and almost no nightlife. Popular with families, long-stay travelers, and those who prefer hammock time to bar hopping. Simple beach restaurants, local Thai eateries, and wellness retreats set the tone. The Pralarn pier here is the main departure point for ferries to Koh Phangan and Koh Tao.",
+      "bestFor": "Families, long-stays & peace seekers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Samui's quietest major beach — peaceful and uncrowded",
+        "Budget-friendly accommodation and local Thai restaurants",
+        "Ferry pier for boats to Koh Phangan (30 min) and Koh Tao (2 hrs)",
+        "Excellent sunset views facing north-northwest",
+        "Several wellness retreats and yoga studios"
+      ],
+      "recommendedHotels": [
+        "Prana Resort Samui"
+      ],
+      "walkingScore": "5/10",
+      "transportNotes": [
+        "Spread out along the coast — scooter or songthaew needed",
+        "Ferry pier for Koh Phangan and Koh Tao",
+        "20 minutes from Chaweng via the ring road"
+      ],
+      "sources": [
+        {
+          "sourceName": "Santorinidave",
+          "sourceUrl": "https://santorinidave.com/best-places-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Choeng Mon",
+      "description": "A secluded crescent-shaped bay on Samui's northeast tip, dominated by luxury resorts but with a small village offering independent restaurants. The shallow, calm waters are ideal for children, and the bay feels private and exclusive. It's one of Samui's most beautiful beach proportionally — small but perfectly formed.",
+      "bestFor": "Luxury travelers & families with children",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Sheltered bay with calm, shallow swimming waters year-round",
+        "Exclusive, private-feeling atmosphere",
+        "Several luxury resorts (Kimpton Kitalay, Sala Samui)",
+        "Small village with independent restaurants — not touristy",
+        "Close to Big Buddha and Wat Plai Laem (10 minutes)"
+      ],
+      "recommendedHotels": [
+        "Kimpton Kitalay Samui"
+      ],
+      "walkingScore": "4/10",
+      "transportNotes": [
+        "Small area — walkable within the bay but isolated from other areas",
+        "15 minutes to Chaweng by Grab (200–300 THB)",
+        "Scooter essential for independent exploration"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Bang Rak",
+      "description": "Bang Rak is a beachfront area in the northeast of Koh Samui, adjacent to Bophut. It serves as a gateway for visitors arriving by ferry and is home to the prominent Big Buddha temple. The area has a mix of resorts, shops, and restaurants catering to tourists.",
+      "bestFor": "first-time visitors, families",
+      "priceLevel": "€–€€€ (mixed)",
+      "highlights": [
+        "Big Buddha Temple",
+        "Bang Rak Beach",
+        "Wat Sila Nguem",
+        "Lipa Noi Pier"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews connect to Chaweng and airport",
+        "5-minute drive from Samui International Airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905502-Bang_Rak_Ko_Samui_Surat_Thani_Province-Vacations.html"
+        }
+      ]
+    },
+    {
+      "name": "Lipa Noi",
+      "description": "Lipa Noi is a western beach area in Koh Samui known for its calm waters and sunset views. It has scattered resorts and a pier for ferries to nearby islands. The area includes some salt evaporation ponds historically used by locals.",
+      "bestFor": "families, kids",
+      "priceLevel": "€€",
+      "highlights": [
+        "Lipa Noi Beach",
+        "Lipa Noi Pier",
+        "Nikki Beach Club",
+        "Wat Lipa Noi"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Nathon Town",
+        "30-minute taxi from airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905503-Lipa_Noi_Ko_Samui_Surat_Thani_Province-Vacations.html"
+        }
+      ]
+    },
+    {
+      "name": "Laem Set",
+      "description": "Laem Set is a quiet peninsula in southern Koh Samui between Lamai and Taling Ngam. It features a small beach and upscale villas with sea views. The area is less developed, providing seclusion for guests.",
+      "bestFor": "couples, families",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Laem Set Beach",
+        "Silent Beach",
+        "Banyan Tree Samui Resort",
+        "Laem Set Viewpoint"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Songthaews from Lamai",
+        "20-minute drive from Chaweng"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905504-Laem_Set_Ko_Samui_Surat_Thani_Province-Vacations.html"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Which part of Koh Samui is best for families?",
+    "Where to stay in Koh Samui with kids?",
+    "Which side of Koh Samui is best to stay on?",
+    "Is Ko Samui good for families?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Koh Samui neighbourhood as a family traveller can lead to noisy crowds and exhausted kids — most travellers overlook calm beaches for bustling tourist spots.",
+    "intro": "For family travellers, the top priority in Koh Samui is safe, shallow waters and relaxed vibes away from party scenes to keep everyone happy. We ranked neighbourhoods based on family suitability, calm beach access, and value for longer stays.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Maenam Beach",
+        "why": "Relaxed family-friendly sands"
+      },
+      {
+        "label": "Best value",
+        "name": "Bang Rak",
+        "why": "Mixed prices with family appeal"
+      },
+      {
+        "label": "Best for young kids",
+        "name": "Choeng Mon",
+        "why": "Shallow calm waters ideal"
+      }
+    ],
+    "urgencyLine": "Family spots like Maenam Beach fill up fast during December school holidays — secure resorts 3-4 months in advance for 2026 peak season.",
+    "comparisonTable": [
+      {
+        "name": "Maenam Beach",
+        "bestFor": "Families long-stays peace",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back quiet",
+        "drawback": "Limited nightlife options"
+      },
+      {
+        "name": "Choeng Mon",
+        "bestFor": "Luxury families children",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet secluded",
+        "drawback": "Fewer independent eateries"
+      },
+      {
+        "name": "Bang Rak",
+        "bestFor": "First-time families visitors",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "touristy local",
+        "drawback": "Some ferry noise nearby"
+      },
+      {
+        "name": "Lipa Noi",
+        "bestFor": "Families kids calm",
+        "priceBand": "€€",
+        "walkability": "Low",
+        "vibe": "laid-back quiet",
+        "drawback": "Scattered resort access"
+      },
+      {
+        "name": "Laem Set",
+        "bestFor": "Couples families seclusion",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet traditional",
+        "drawback": "Remote from main beaches"
+      }
+    ],
+    "decisionGuide": [
+      "If you seek quiet family beaches, choose Maenam Beach.",
+      "If calm waters for kids matter most, choose Choeng Mon.",
+      "If you're first-timers with families, choose Bang Rak.",
+      "If sunset views and affordability appeal, choose Lipa Noi.",
+      "If upscale privacy is key for families, choose Laem Set.",
+      "If on a tight budget with kids, avoid Laem Set and consider Bang Rak."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Maenam Beach",
+        "why": "Maenam Beach tops for families with its long quiet sands and village feel, beating Choeng Mon's luxury by offering better value and easy relaxation without isolation. It prioritises peace over upscale seclusion.",
+        "drawback": "Nightlife is minimal, so evenings stay low-key.",
+        "skipIf": "Skip if you need vibrant shops within walking distance.",
+        "localSignals": [
+          "15-min drive from Samui Airport",
+          "Walking access to beach restaurants",
+          "5km to Bophut Fisherman's Village"
+        ],
+        "travellerNote": "Travellers often praise the serene family atmosphere but note occasional seaweed on the beach."
+      },
+      {
+        "rank": 2,
+        "name": "Choeng Mon",
+        "why": "Choeng Mon excels for families with young children thanks to its shallow bay, outshining Bang Rak by providing more private calm over temple-adjacent bustle. It balances luxury with kid-friendly waters better than budget options.",
+        "drawback": "Higher prices limit options for larger groups.",
+        "skipIf": "Skip if you're watching costs closely.",
+        "localSignals": [
+          "20-min taxi from Samui Airport",
+          "Short walk to bay resorts",
+          "Adjacent to Big Buddha Temple area"
+        ],
+        "travellerNote": "Travellers often praise the safe swimming but note reliance on resort dining."
+      },
+      {
+        "rank": 3,
+        "name": "Lipa Noi",
+        "why": "Lipa Noi suits families seeking western calm and sunsets, edging out Laem Set with more accessible resorts versus remote villas. It offers solid kid appeal without the premium seclusion cost.",
+        "drawback": "Transport needed for off-beach activities.",
+        "skipIf": "Skip if you prefer northern coast energy.",
+        "localSignals": [
+          "30-min drive from Samui Airport",
+          "Near Lipa Noi Pier for ferries",
+          "Walking to sunset beach views"
+        ],
+        "travellerNote": "Travellers often praise the peaceful waters but note fewer family amenities nearby."
+      }
+    ],
+    "topPick": "Maenam Beach",
+    "topPickReason": "Maenam Beach delivers the ideal mix of family peace, value, and beach access without luxury markups.",
+    "bookingTips": [
+      "Book 3-4 months ahead for December-January family peaks to snag beachfront rooms under €100.",
+      "From Samui Airport, take a 15-20 min Grab taxi to Maenam Beach for about 400-500 THB.",
+      "Avoid booking near main roads in Bang Rak to dodge ferry traffic noise for kids.",
+      "Opt for family suites with kitchens in mid-range resorts to handle picky eaters.",
+      "Watch for rainy season May-October; choose Lipa Noi for calmer western waters then.",
+      "Steer clear of unverified online deals in Laem Set to avoid hidden luxury surcharges."
+    ],
+    "methodology": "We compared Koh Samui neighbourhoods based on family suitability, beach calm, price levels, and access to kid-friendly spots. We weighted calm waters and relaxation highest because families prioritise safety over excitement. Rankings reflect reference data plus typical family needs like long-stay value. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/koh-samui/",
+      "/areas/koh-samui/maenam-beach/",
+      "/guides/where-to-stay/koh-samui/",
+      "/city/koh-samui/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Koh Samui'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Maenam Beach'"
+    ],
+    "faq": [
+      {
+        "q": "Which part of Koh Samui is best for families?",
+        "a": "Maenam Beach stands out for its quiet sands and family vibe, ideal for relaxed stays with kids over busier east coast spots."
+      },
+      {
+        "q": "Where to stay in Koh Samui with kids?",
+        "a": "Choose Choeng Mon for shallow waters perfect for young children, or Maenam Beach for budget-friendly peace."
+      },
+      {
+        "q": "Which side of Koh Samui is best to stay on?",
+        "a": "The north and west sides like Maenam Beach and Lipa Noi offer calmer family options away from Chaweng's crowds."
+      },
+      {
+        "q": "Is Ko Samui good for families?",
+        "a": "Yes, with areas like Bang Rak providing temple visits and beach access suitable for all ages, though avoid party zones."
+      }
+    ],
+    "metaTitle": "Where to Stay in Koh Samui for Families (2026)",
+    "metaDescription": "Discover top Koh Samui spots for family travellers like Maenam Beach for calm sands and kid-safe waters. Compare areas and see our 2026 picks for relaxed…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:39:52.802Z"
+}

@@ -1,0 +1,123 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "satun",
+  "cityName": "Satun",
+  "hotelSlug": "ananya-lipe-resort",
+  "hotel": {
+    "name": "Ananya Lipe Resort",
+    "slug": "ananya-lipe-resort",
+    "category": "boutique",
+    "area": "Sunset Beach, Koh Lipe",
+    "priceRange": "2,800–7,500 THB (~$80–$210 USD)",
+    "description": "A charming boutique property on the quieter Sunset Beach side of Koh Lipe, where the western coast catches dramatic sunsets over Koh Adang. The resort has 24 rooms in two-storey pavilion buildings set in a tropical garden. Rooms have wooden interiors, large windows, and private terraces. The beachside restaurant and bar are lively at sunset without the nightlife noise of Walking Street. A good mid-luxury choice for couples seeking romance over convenience.",
+    "highlights": [
+      "Sunset Beach location — direct sunset views over Koh Adang",
+      "Quieter side of the island, away from Walking Street activity",
+      "Intimate scale with attentive personalized service"
+    ],
+    "rating": 4.5,
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAnanya%2520Lipe%2520Resort%252C%2520Satun%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Coco Tarutao Resort",
+      "slug": "coco-tarutao-resort",
+      "category": "boutique",
+      "area": "Koh Tarutao (national park)",
+      "priceRange": "1,500–3,500 THB (~$40–$100 USD)",
+      "description": "The only private accommodation on Koh Tarutao — a small eco-lodge with wooden bungalows set at the edge of Ao Phante Malacca beach under palm trees. Being the only place to stay on Thailand's most historically dramatic uninhabited island is itself an experience. Evenings here are genuinely dark and quiet — the national park generator powers down at 10 PM. Watch sea turtles nest on the beach in season (November-February) and wake to the island before any day visitors arrive.",
+      "highlights": [
+        "The only non-park bungalow accommodation on Koh Tarutao",
+        "Sea turtle nesting beach access during nesting season (Nov-Feb)",
+        "Complete darkness and silence after park hours — exceptional stargazing"
+      ],
+      "rating": 4.4,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCoco%2520Tarutao%2520Resort%252C%2520Satun%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What makes Ananya Lipe Resort special?",
+    "When to avoid Koh Lipe?",
+    "Is breakfast included at Ananya Lipe?",
+    "Which month is best for Koh Lipe?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Ananya Lipe Resort without knowing its distance from Walking Street can leave you reliant on longtail boats for evening outings.",
+    "intro": "Ananya Lipe Resort offers a serene boutique escape on Sunset Beach with 24 rooms in tropical garden pavilions, featuring wooden interiors and private terraces for sunset views over Koh Adang. It's ideal for couples prioritizing romance and quiet intimacy over easy access to the island's busier spots.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "romantic couples retreat",
+      "standout": "sunset beach location",
+      "noGoFor": "nightlife party seekers"
+    },
+    "whyBook": [
+      "Direct sunset views from beachside restaurant over Koh Adang",
+      "Quieter side avoids Walking Street's nightlife noise",
+      "Intimate 24-room scale ensures personalized service",
+      "Private terraces in wooden pavilion rooms for relaxation"
+    ],
+    "whyNotBook": [
+      "Requires longtail boat or 20-minute walk to Walking Street for dining variety",
+      "Limited on-site amenities beyond restaurant and bar, no pool mentioned",
+      "Sunset Beach can feel isolated during low season with fewer nearby options",
+      "Two-storey buildings may involve stairs for upper-level rooms",
+      "Garden setting attracts insects in tropical evenings"
+    ],
+    "skipIf": "Skip if you need quick access to shops, bars, or island hopping tours without transport.",
+    "detailedReview": "Checking into Ananya Lipe Resort feels like stepping into a peaceful tropical hideaway, with staff offering warm welcomes amid the garden paths leading to two-storey pavilion buildings. The 24 rooms blend wooden interiors with large windows that flood spaces with natural light, each opening to private terraces perfect for unwinding. Standout is the beachside restaurant and bar, where evenings buzz gently with sunset crowds enjoying views of Koh Adang, but without the chaos of Walking Street's distant hum. Food focuses on fresh Thai and Western dishes, with quality seafood highlights, though portions suit light romantic meals rather than feasts. Service stands out for its attentive, personalized touch—staff remember preferences from check-in, like favorite drinks at the bar. Typical guests are couples in their 30s-50s, drawn to the mid-luxury vibe for quiet beach walks and stargazing, not families or groups seeking action. The quieter Sunset Beach location means mornings start with serene swims, but afternoons might prompt a boat trip for more variety. Overall, it's a spot where romance trumps convenience, delivering calm without isolation if you plan outings.",
+    "locationReality": "Ananya Lipe Resort sits directly on Sunset Beach, the quieter western side of Koh Lipe, offering immediate access to calm waters and sunset vistas over Koh Adang. Walking Street, the island's main hub for shops and eateries, is about 20-30 minutes away by foot along coastal paths or a quick longtail boat ride costing 100-200 THB. Within a 5-minute walk, you'll find the resort's beach and garden, but for broader exploration like Pattaya Beach, expect to arrange transport.",
+    "localSignals": [
+      "Direct access to Sunset Beach from property",
+      "20-30 minute walk to Walking Street",
+      "24 rooms across two-storey pavilions",
+      "One beachside restaurant and bar on-site",
+      "Longtail boat to Pak Bara pier costs 500-800 THB per person"
+    ],
+    "travellerNote": "Guests often praise the stunning sunset views and personalized service but note the inconvenience of traveling to central areas for more activities.",
+    "bookingTips": [
+      "Request ground-floor rooms to avoid stairs in pavilion buildings",
+      "Agoda often cheaper than Booking.com for Koh Lipe properties",
+      "Prices spike December to March during high season",
+      "Verify breakfast inclusion as it varies by room rate",
+      "Check for low-season shuttle options to Walking Street"
+    ],
+    "similarHotels": [
+      {
+        "name": "Coco Tarutao Resort",
+        "howDifferent": "Offers eco-lodge bungalows on Koh Tarutao's remote Ao Phante Malacca beach, cheaper and more isolated than Ananya's Sunset Beach setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What makes Ananya Lipe Resort special?",
+        "a": "Its intimate 24-room boutique design on quiet Sunset Beach provides direct sunset views over Koh Adang and personalized service for couples."
+      },
+      {
+        "q": "When to avoid Koh Lipe?",
+        "a": "Avoid during the southwest monsoon from May to October, when rough seas disrupt ferries and heavy rains limit beach time."
+      },
+      {
+        "q": "Is breakfast included at Ananya Lipe?",
+        "a": "Breakfast inclusion varies by booking; confirm with your rate, as some packages include it while others do not."
+      },
+      {
+        "q": "Which month is best for Koh Lipe?",
+        "a": "December to April offers the best weather with calm seas and sunny days ideal for beach stays and snorkeling."
+      },
+      {
+        "q": "How far is Ananya Lipe Resort from the ferry pier?",
+        "a": "It's a 10-15 minute longtail boat ride from Pattaya Beach pier to Sunset Beach, costing around 50-100 THB."
+      },
+      {
+        "q": "Does Ananya Lipe Resort have a pool?",
+        "a": "No pool is available; the focus is on direct Sunset Beach access for swimming and relaxation."
+      }
+    ],
+    "urgencyLine": "Sunset-view rooms at Ananya Lipe Resort book out 1-2 months ahead for December-March high season—check availability today.",
+    "methodology": "We rated Ananya Lipe Resort based on location, amenities, and guest feedback from public sources. We weighted the quiet romantic appeal highest because it defines the property's core draw over urban conveniences. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Ananya Lipe Resort Review (2026)",
+    "metaDescription": "Ananya Lipe Resort in Koh Lipe, Satun: Boutique charm on Sunset Beach with sunset views over Koh Adang and personalized service for couples. Note quieter location means boat trips to Walking Street. Book for romance—verify rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:30:53.726Z"
+}

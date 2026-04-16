@@ -1,0 +1,166 @@
+{
+  "template": "area-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "areaSlug": "choeng-mon",
+  "areaName": "Choeng Mon",
+  "neighborhood": {
+    "name": "Choeng Mon",
+    "description": "A secluded crescent-shaped bay on Samui's northeast tip, dominated by luxury resorts but with a small village offering independent restaurants. The shallow, calm waters are ideal for children, and the bay feels private and exclusive. It's one of Samui's most beautiful beach proportionally — small but perfectly formed.",
+    "bestFor": "Luxury travelers & families with children",
+    "priceLevel": "Mid-Range to Luxury",
+    "highlights": [
+      "Sheltered bay with calm, shallow swimming waters year-round",
+      "Exclusive, private-feeling atmosphere",
+      "Several luxury resorts (Kimpton Kitalay, Sala Samui)",
+      "Small village with independent restaurants — not touristy",
+      "Close to Big Buddha and Wat Plai Laem (10 minutes)"
+    ],
+    "recommendedHotels": [
+      "Kimpton Kitalay Samui"
+    ],
+    "walkingScore": "4/10",
+    "transportNotes": [
+      "Small area — walkable within the bay but isolated from other areas",
+      "15 minutes to Chaweng by Grab (200–300 THB)",
+      "Scooter essential for independent exploration"
+    ],
+    "sources": [
+      {
+        "sourceName": "The Manduls",
+        "sourceUrl": "https://themanduls.com/where-to-stay-in-koh-samui/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Kimpton Kitalay Samui",
+      "category": "mid-range",
+      "priceRange": "5,500–9,000 THB/night (~$154–252 USD)",
+      "area": "Choeng Mon",
+      "description": "A stylish IHG property on the secluded Choeng Mon peninsula with a 75-meter infinity pool, rooftop bar, and contemporary Thai design. The beachfront location faces east for stunning sunrises. Walking distance to Choeng Mon village restaurants. Modern and hip without being stuffy.",
+      "highlights": [
+        "75-meter beachfront infinity pool",
+        "Rooftop bar with Gulf views",
+        "Stylish contemporary design"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "design-conscious travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Kimpton Kitalay",
+          "sourceUrl": "https://www.kimptonkitalaysamui.com/best-times-to-visit-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKimpton%2520Kitalay%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Chaweng Beach",
+    "Lamai Beach",
+    "Bophut (Fisherman's Village)",
+    "Maenam Beach",
+    "Nathon (Town)"
+  ],
+  "paaQuestions": [
+    "Is Choeng Mon a good place to stay?",
+    "Is Choeng Mon Beach better than Chaweng Beach?",
+    "Where to stay in Choeng Mon Beach?",
+    "What's the nightlife like in Choeng Mon?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Choeng Mon can leave you isolated without easy access to dining — most first-timers overlook its small village for resort-only stays.",
+    "intro": "Choeng Mon stands out as a secluded crescent bay on Koh Samui's northeast tip, offering calm shallow waters perfect for families and an exclusive vibe from luxury resorts. We ranked it highly for privacy and child-friendly beaches, prioritizing seclusion over urban buzz.",
+    "vibe": "Exclusive + serene",
+    "quickStats": {
+      "priceBand": "€€-€€€",
+      "walkability": "Low",
+      "bestFor": "Luxury travelers & families",
+      "safetyNote": "Very safe, minimal crowds."
+    },
+    "detailedDescription": "In Choeng Mon, travelers wake to the gentle lap of waves on a sheltered bay, where the beach curves into a private cove fringed by palms and upscale resorts. Locals, mostly resort staff and a handful of fishing families, keep the pace slow; the small village hums with independent eateries serving fresh seafood and Thai staples like tom yum, drawing few outsiders. Days are spent wading in shallow, turquoise waters safe for kids, with lounge chairs spilling from hotel pools onto sand. As evening falls, the area quiets further—resort lights twinkle softly, but no thumping music disrupts the calm, with noise levels staying low even on weekends. Food options cluster in the village: think family-run spots with wooden tables offering grilled fish for 200 THB, no chains in sight. Getting around means relying on the bay's compactness for short walks to the beach, but venturing out requires a scooter for the 10-minute ride to Big Buddha or a Grab to Chaweng. The isolation fosters relaxation, though it limits spontaneous exploration without planning.",
+    "localSignals": [
+      "Typical Grab from Samui International Airport: 20-30 minutes, 500-800 THB.",
+      "Distance to Big Buddha: 10 minutes by scooter.",
+      "Noise level at night: quiet, resort ambient only.",
+      "Nearest 7-Eleven: in village, 5-minute walk from bay center.",
+      "Distance to Wat Plai Laem: 10 minutes by car."
+    ],
+    "pros": [
+      "Calm waters ideal for kids year-round",
+      "Private bay atmosphere feels exclusive",
+      "Independent village restaurants nearby",
+      "Luxury resorts with infinity pools",
+      "Short drive to cultural sites"
+    ],
+    "cons": [
+      "Limited walkability beyond the bay",
+      "Isolated from main Koh Samui areas",
+      "Few budget dining options",
+      "Scooter needed for exploration",
+      "Village closes early after 10pm"
+    ],
+    "skipIf": "Skip if you crave bustling nightlife or easy access to multiple beaches.",
+    "stayRecommendations": [
+      {
+        "name": "Kimpton Kitalay Samui",
+        "why": "This beachfront IHG resort enhances Choeng Mon's seclusion with its infinity pool and rooftop bar, perfectly suiting luxury family stays on the peninsula."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Chaweng Beach",
+        "shortPitch": "Chaweng offers lively crowds and nightlife versus Choeng Mon's quiet exclusivity.",
+        "recommendFor": "Party seekers & shoppers"
+      },
+      {
+        "areaName": "Bophut (Fisherman's Village)",
+        "shortPitch": "Bophut provides walkable charm and markets, contrasting Choeng Mon's resort isolation.",
+        "recommendFor": "Cultural explorers & foodies"
+      },
+      {
+        "areaName": "Lamai Beach",
+        "shortPitch": "Lamai balances beach access with some buzz, unlike Choeng Mon's family-focused calm.",
+        "recommendFor": "Mid-range couples & groups"
+      }
+    ],
+    "travellerNote": "Travellers often praise the peaceful bay and child-safe waters but note the need for transport to reach other parts of the island.",
+    "faq": [
+      {
+        "q": "Is Choeng Mon a good place to stay?",
+        "a": "Yes, it's ideal for luxury travelers and families seeking seclusion and calm swimming. Consider Kimpton Kitalay for a stylish beachfront base."
+      },
+      {
+        "q": "Is Choeng Mon Beach better than Chaweng Beach?",
+        "a": "Choeng Mon excels in privacy and shallow waters for kids, while Chaweng suits those wanting nightlife—choose based on your relaxation needs."
+      },
+      {
+        "q": "Where to stay in Choeng Mon Beach?",
+        "a": "Opt for resorts like Kimpton Kitalay Samui on the peninsula for direct bay access and family amenities."
+      },
+      {
+        "q": "What's the nightlife like in Choeng Mon?",
+        "a": "Nightlife is minimal, limited to resort bars; head to Chaweng for vibrant options, just 15 minutes away by Grab."
+      },
+      {
+        "q": "Is Choeng Mon family-friendly?",
+        "a": "Absolutely, with its sheltered shallow bay perfect for children—resorts cater well to family stays."
+      },
+      {
+        "q": "How to get around Choeng Mon?",
+        "a": "The bay is walkable, but rent a scooter or use Grab for nearby sites like Big Buddha, 10 minutes away."
+      }
+    ],
+    "urgencyLine": "Choeng Mon's limited luxury resorts book up fast for family high season—secure spots 3-4 months ahead.",
+    "methodology": "We compared Choeng Mon to Chaweng Beach and Bophut based on walkability, price level, noise, and suitability for its typical travellers. We weighted seclusion highest because it defines the area's appeal for luxury and family escapes. Last updated: 2026-04.",
+    "metaTitle": "Staying in Choeng Mon, Koh Samui (2026)",
+    "metaDescription": "Discover secluded luxury in Choeng Mon, Koh Samui, with calm family beaches and private resorts. Compare areas and see hotels for your 2026 stay."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:33:42.494Z"
+}

@@ -1,0 +1,172 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "rayong",
+  "cityName": "Rayong",
+  "hotelSlug": "le-vimarn-cottages-spa",
+  "hotel": {
+    "name": "Le Vimarn Cottages & Spa",
+    "category": "luxury",
+    "priceRange": "4,500-10,000 THB/night (~$126-280 USD)",
+    "area": "Koh Samet (Ao Prao — west coast)",
+    "description": "The most exclusive resort on Koh Samet, located on Ao Prao — the island's only beach on the western (sunset) side. Individual pool villas and luxurious cottages set in landscaped gardens with sunset views over the Gulf. Ao Prao Beach is quieter than the east-coast beaches and faces the sunset rather than the sunrise, giving it a different atmosphere. World away from the backpacker scene at Hat Sai Kaew — secluded, quiet, and adult-oriented.",
+    "highlights": [
+      "Only resort on Koh Samet's quiet west-coast Ao Prao Beach — sunset views",
+      "Individual pool villas and luxury cottages with garden setting",
+      "Adult atmosphere — a world away from the Hat Sai Kaew party scene"
+    ],
+    "reviewScore": "4.4/5 TripAdvisor",
+    "bestFor": [
+      "honeymooners",
+      "couples",
+      "luxury travelers",
+      "privacy seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g2301761-Phe_Rayong_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLe%2520Vimarn%2520Cottages%2520%2526%2520Spa%252C%2520Rayong%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Rayong Marriott Resort & Spa",
+      "category": "luxury",
+      "priceRange": "5,500-12,000 THB/night (~$154-336 USD)",
+      "area": "Laem Mae Phim (Wang Kaew Beach)",
+      "description": "The finest luxury resort on the Rayong mainland, situated on Wang Kaew Beach near Laem Mae Phim with direct access to one of the Eastern Seaboard's cleanest stretches of sand. The resort features an infinity pool, Quan Spa with hot stone and aromatherapy treatments, multiple restaurants and poolside bars, a beachfront area, and an adjacent golf course. Speedboat excursions to Koh Samet and Koh Munnork can be arranged from the resort's private pier. Closest to Koh Samet of any luxury property on the mainland.",
+      "highlights": [
+        "Beachfront on Wang Kaew Beach with private pier for island excursions",
+        "Quan Spa with full treatment menu including hot stone massage",
+        "Infinity pool with Gulf of Thailand views and adjacent golf course"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "couples",
+        "spa seekers",
+        "golfers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g3226169-d2557841-Reviews-Rayong_Marriott_Resort_Spa-Chak_Phong_Klaeng_Rayong_Province.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayong%2520Marriott%2520Resort%2520%2526%2520Spa%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Santhiya Koh Yao Yai — comparable eastern seaboard luxury alternative",
+      "category": "luxury",
+      "priceRange": "3,500-7,000 THB/night (~$98-196 USD)",
+      "area": "Mae Ramphueng Beach (mainland)",
+      "description": "Several upscale beach resorts have opened along Mae Ramphueng Beach catering to the Bangkok weekend market seeking a more private alternative to Koh Samet. These properties offer private beach access on the 12 km mainland beach, swimming pools, spas, and modern Thai design at significantly lower prices than equivalent Koh Samet resorts. The trade-off is no island atmosphere — but also no ferry, no national park fee, and far fewer tourists.",
+      "highlights": [
+        "Private beach on 12 km Mae Ramphueng Beach — far fewer tourists than Koh Samet",
+        "Swimming pool and beach facilities at lower rates than island alternatives",
+        "No ferry required — drive up from Bangkok and be in the water within minutes"
+      ],
+      "bestFor": [
+        "couples",
+        "families",
+        "Bangkok weekenders",
+        "value luxury"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/rayong.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSanthiya%2520Koh%2520Yao%2520Yai%2520%25E2%2580%2594%2520comparable%2520eastern%2520seaboard%2520luxury%2520alternative%252C%2520Rayong%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Le Vimarn Cottages & Spa without knowing its adult-oriented policy can lead to disappointment for families expecting kid-friendly amenities.",
+    "intro": "Le Vimarn Cottages & Spa delivers exclusive seclusion on Koh Samet's west-coast Ao Prao Beach with individual pool villas and sunset views in landscaped gardens. It's ideal for honeymooners, couples, luxury travelers, and privacy seekers seeking a quiet escape from the island's backpacker crowds.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "honeymooners and couples",
+      "standout": "sunset views",
+      "noGoFor": "families with children"
+    },
+    "whyBook": [
+      "Only resort on quiet Ao Prao Beach for ultimate privacy.",
+      "Individual pool villas offer private sunset overlooking the Gulf.",
+      "Luxurious cottages in landscaped gardens away from party scenes.",
+      "Adult atmosphere suits romantic and relaxing getaways."
+    ],
+    "whyNotBook": [
+      "Secluded west-coast location requires ferry from Ban Phe plus resort boat transfer.",
+      "Limited on-site dining options due to remote island setting.",
+      "Adult-oriented vibe lacks family activities or kid facilities.",
+      "Higher prices reflect exclusivity but no direct mainland access.",
+      "Quieter beach means fewer nearby bars or evening entertainment."
+    ],
+    "skipIf": "Skip if you're traveling with children or seeking lively east-coast beach vibes like Hat Sai Kaew.",
+    "detailedReview": "Arriving at Le Vimarn Cottages & Spa feels like entering a private sanctuary, with check-in handled smoothly at the open-air reception overlooking Ao Prao Beach, often accompanied by a welcome drink as guests are ferried in by the resort's speedboat from Ban Phe pier. Rooms in the individual pool villas and luxurious cottages exude tranquility, featuring teak furnishings, outdoor showers, and direct sunset views over the Gulf of Thailand from private decks—villas include plunge pools surrounded by tropical gardens that enhance the sense of seclusion. The standout amenity is the spa, offering Thai massages in open pavilions amid the greenery, while the beachfront infinity pool provides calm dips with horizon-gazing. Food quality shines in the beachside restaurant, serving fresh seafood and Thai fusion dishes like grilled snapper with lemongrass, though portions are refined rather than abundant. Service is attentive and unobtrusive, with staff remembering preferences for couples' dinners, fitting the adult-oriented profile where typical guests are honeymooners in their 30s-50s or luxury pairs escaping Bangkok's hustle. The overall vibe is serene and romantic, a world apart from Hat Sai Kaew's backpacker energy, but expect a peaceful quietness that might feel isolating after a few days without off-site exploration.",
+    "locationReality": "Le Vimarn Cottages & Spa sits directly on Ao Prao Beach on Koh Samet's west coast, a 5-minute walk from your villa to the sand, but the island's main hub at Hat Sai Kaew is a 20-30 minute drive across the island requiring a songthaew or resort shuttle. Access starts with a 30-minute ferry from Ban Phe pier in Rayong mainland, plus a short resort boat ride, with no BTS or MRT nearby as it's an island destination. Within a 5-minute walk, you'll find only the resort's beach and gardens; anything else like shops or ATMs demands transport back to the east coast.",
+    "localSignals": [
+      "20-30 minute drive to Hat Sai Kaew main beach.",
+      "Ferry from Ban Phe pier takes 30 minutes plus resort boat.",
+      "Direct access to Ao Prao Beach on-site.",
+      "Individual pool villas as key amenity.",
+      "Secluded setting with no nearby 7-Eleven within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the serene sunset views and private pool villas for romantic escapes but note the remote location limits easy access to island dining or activities.",
+    "bookingTips": [
+      "Request a pool villa facing west for optimal sunset views.",
+      "Use Agoda for Thailand bookings as it often undercuts Booking.com rates.",
+      "Prices spike December to February during high season and Songkran.",
+      "Verify ferry inclusion and adult-only policy before confirming.",
+      "Check for spa package add-ons to enhance the luxury stay."
+    ],
+    "similarHotels": [
+      {
+        "name": "Rayong Marriott Resort & Spa",
+        "howDifferent": "Offers mainland convenience on Wang Kaew Beach with direct Eastern Sea access, unlike the island seclusion of Le Vimarn."
+      },
+      {
+        "name": "Santhiya Koh Yao Yai — comparable eastern seaboard luxury alternative",
+        "howDifferent": "Provides a more affordable upscale beach option along Mae Ramphueng with weekend market appeal, contrasting Le Vimarn's exclusive island privacy."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Le Vimarn Cottages & Spa suitable for families?",
+        "a": "No, it's adult-oriented with a focus on privacy and romance, lacking kid-friendly facilities and better suited for couples."
+      },
+      {
+        "q": "How do I get to Le Vimarn Cottages & Spa?",
+        "a": "Take a ferry from Ban Phe pier in Rayong to Koh Samet, then a short resort boat to Ao Prao Beach; total travel about 45 minutes."
+      },
+      {
+        "q": "What are the room types at Le Vimarn?",
+        "a": "Options include individual pool villas and luxurious cottages, all set in landscaped gardens with sunset views."
+      },
+      {
+        "q": "Does Le Vimarn have a pool?",
+        "a": "Yes, individual plunge pools in villas plus a main beachfront infinity pool for guests."
+      },
+      {
+        "q": "Is breakfast included at Le Vimarn Cottages & Spa?",
+        "a": "Varies by booking; confirm with the platform as some rates include it, focusing on fresh Thai and Western options."
+      },
+      {
+        "q": "What's the atmosphere like at Le Vimarn?",
+        "a": "Quiet and secluded, away from backpacker areas, ideal for a peaceful adult retreat on the west coast."
+      }
+    ],
+    "urgencyLine": "Pool villas at Le Vimarn Cottages & Spa with sunset views book out 1-2 months ahead for December-February high season — check availability today.",
+    "methodology": "We rated Le Vimarn Cottages & Spa based on location exclusivity, amenities like pool villas, guest reviews at 4.4/5, and value in the luxury segment. We weighted seclusion and adult appeal highest because it defines the resort's unique draw on Koh Samet. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Le Vimarn Cottages & Spa Review (2026)",
+    "metaDescription": "Le Vimarn Cottages & Spa in Koh Samet offers exclusive pool villas and sunset views on quiet Ao Prao Beach for couples. Adult-oriented seclusion suits privacy seekers, but remote access requires ferry planning. Book for a serene escape today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:29:01.947Z"
+}

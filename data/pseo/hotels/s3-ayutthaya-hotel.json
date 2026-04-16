@@ -1,0 +1,213 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ayutthaya",
+  "cityName": "Ayutthaya",
+  "hotelSlug": "s3-ayutthaya-hotel",
+  "hotel": {
+    "name": "S3 Ayutthaya Hotel",
+    "category": "mid-range",
+    "priceRange": "1,200–2,000 THB (~34–57 USD) per night",
+    "area": "Historical Island",
+    "description": "One of the most popular mid-range hotels in Ayutthaya, S3 offers clean, spacious rooms in a modern building right on the island. A swimming pool (rare at this price point in Ayutthaya), decent breakfast buffet and helpful front desk make it a reliable choice. Bicycle rental is available at the hotel.",
+    "highlights": [
+      "Swimming pool — uncommon in Ayutthaya's mid-range",
+      "Spacious, modern rooms with strong A/C",
+      "Breakfast buffet included in most rates",
+      "Bicycle rental on-site",
+      "Central island location with easy temple access"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fs3-ayutthaya.html",
+    "reviewScore": "8.3/10",
+    "bestFor": [
+      "Families",
+      "Couples",
+      "Comfort seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Best Hotels Ayutthaya",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g303897-Ayutthaya_Ayutthaya_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "The Avail Ayutthaya",
+      "category": "mid-range",
+      "priceRange": "900–1,500 THB (~26–43 USD) per night",
+      "area": "Historical Island",
+      "description": "A modern, well-designed hotel on the historical island within cycling distance of all major temples. Rooms are compact but stylish with contemporary furnishings, good A/C and reliable Wi-Fi. The rooftop terrace offers views over the surrounding area. A strong choice for travellers who want comfort, location and value.",
+      "highlights": [
+        "Central island location — walking distance to Wat Mahathat and Wat Ratchaburana",
+        "Modern, stylish rooms with good air conditioning",
+        "Rooftop terrace with area views",
+        "Bicycle rental available",
+        "Strong Wi-Fi throughout"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-avail-ayutthaya.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Couples",
+        "History enthusiasts",
+        "First-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Best Hotels Ayutthaya",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303897-Ayutthaya_Ayutthaya_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Mayuu Ayutthaya Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000–1,800 THB (~29–51 USD) per night",
+      "area": "Historical Island",
+      "description": "A boutique-style hotel on the island that blends modern Thai design with a convenient location near the main temples. Clean, well-appointed rooms with quality bedding, good bathrooms and a small garden area. Staff are notably helpful with local recommendations and transport arrangements.",
+      "highlights": [
+        "Boutique design with modern Thai aesthetic",
+        "Central location on the island near major temples",
+        "Helpful staff with local knowledge",
+        "Clean rooms with quality bedding",
+        "Quiet garden area"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmayuu-ayutthaya.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Couples",
+        "Culture seekers",
+        "Photography enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Best Hotels Ayutthaya",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303897-Ayutthaya_Ayutthaya_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Classic Kameo Hotel & Serviced Apartments",
+      "category": "mid-range",
+      "priceRange": "1,500–2,500 THB (~43–71 USD) per night",
+      "area": "U-Thong Road / East of Island",
+      "description": "A well-established 4-star hotel on U-Thong Road offering both hotel rooms and serviced apartments. The property features a swimming pool, fitness centre, restaurant and spacious rooms with work desks. Popular with both tourists and business travellers, it represents a reliable, international-standard option in Ayutthaya.",
+      "highlights": [
+        "Swimming pool and fitness centre",
+        "Serviced apartments available for longer stays",
+        "On-site restaurant with Thai and international menu",
+        "Professional, business-standard service",
+        "Free parking — useful if driving from Bangkok"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fclassic-kameo-amp-serviced-apartments-ayutthaya.html",
+      "reviewScore": "8.1/10",
+      "bestFor": [
+        "Business travellers",
+        "Families",
+        "Longer stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Classic Kameo",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303897-d3451474-Reviews-Classic_Kameo_Hotel_Serviced_Apartments_Ayutthaya-Ayutthaya_Ayutthaya_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is it worth staying overnight in Ayutthaya?",
+    "Where to stay in Ayutthaya?",
+    "Where is Niwas Ayutthaya Hotel?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking S3 Ayutthaya Hotel without knowing the pool draws crowds from nearby tours can leave you waiting for a spot during peak afternoon hours.",
+    "intro": "S3 Ayutthaya Hotel provides clean, spacious rooms in a modern building on the historical island, complete with a rare swimming pool and included breakfast buffet for a comfortable stay. It's ideal for families, couples, and comfort seekers exploring Ayutthaya's temples without luxury frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Families and couples seeking comfort",
+      "standout": "swimming pool",
+      "noGoFor": "Budget backpackers or luxury seekers"
+    },
+    "whyBook": [
+      "Rare swimming pool at mid-range price in Ayutthaya",
+      "Spacious modern rooms with strong air conditioning",
+      "Breakfast buffet included in most rates",
+      "On-site bicycle rental for temple exploration",
+      "Central location on historical island"
+    ],
+    "whyNotBook": [
+      "Pool area can feel basic and crowded midday",
+      "No on-site restaurant beyond breakfast options",
+      "Rooms lack premium views or balconies",
+      "Limited evening entertainment without leaving property",
+      "Front desk help is reliable but not multilingual"
+    ],
+    "skipIf": "Skip if you're a solo budget traveler prioritizing hostels over hotel comforts or need extensive on-site dining.",
+    "detailedReview": "Checking into S3 Ayutthaya Hotel feels straightforward and welcoming, with a helpful front desk that quickly handles requests for bicycle rentals or temple directions. The modern building houses spacious rooms equipped with strong A/C, keeping the tropical heat at bay even after a day of sightseeing; expect clean linens, firm beds, and basic amenities like a fridge and safe, though nothing extravagant. The standout swimming pool, uncommon for Ayutthaya's mid-range spots, offers a refreshing dip in a simple tiled area surrounded by lounge chairs—perfect for cooling off post-temple visits, but it can get busy with families. Breakfast buffet delivers decent variety with Thai and Western options like rice porridge, eggs, and fruits, included in most rates and served in a bright communal space. Service style is friendly and efficient, with staff assisting couples and families by suggesting Grab rides or bike routes to nearby ruins. Typical guests are comfort-seeking travelers in their 30s-50s, including parents with kids who appreciate the pool and central spot, though backpackers might find it too structured. Overall, it's a reliable base for the historical island, emphasizing practicality over pampering, with easy access to Ayutthaya's UNESCO sites just minutes away by foot or bike.",
+    "locationReality": "Situated right on Ayutthaya's Historical Island, S3 Ayutthaya Hotel places you within 5-10 minutes' walk of major temples like Wat Mahathat and Wat Phra Si Sanphet. A 5-minute stroll reveals local eateries and river views, but crossing to the mainland for more shops requires a short bridge walk or 50-100 THB Grab ride. No BTS or MRT here—tuk-tuks or rented bikes handle most intra-island travel efficiently.",
+    "localSignals": [
+      "5-10 minute walk to Wat Mahathat temple",
+      "One swimming pool on property",
+      "Breakfast buffet included in most rates",
+      "Bicycle rental available on-site",
+      "7-Eleven within 5-minute walk on island"
+    ],
+    "travellerNote": "Guests often praise the spacious rooms and rare pool for post-sightseeing relaxation but note the breakfast variety feels repetitive after a couple of days.",
+    "bookingTips": [
+      "Request higher-floor rooms to avoid street noise",
+      "Book via Agoda for frequent Thailand discounts",
+      "Prices spike November-February during cool season",
+      "Verify breakfast inclusion as some promo rates exclude it",
+      "Check for nearby temple festival construction notices"
+    ],
+    "similarHotels": [
+      {
+        "name": "The Avail Ayutthaya",
+        "howDifferent": "Offers compact stylish rooms at lower prices without a pool, suiting budget-conscious cyclists."
+      },
+      {
+        "name": "Mayuu Ayutthaya Hotel",
+        "howDifferent": "Provides boutique Thai design and clean appointments but lacks on-site pool or bike rentals."
+      },
+      {
+        "name": "Classic Kameo Hotel & Serviced Apartments",
+        "howDifferent": "Features larger 4-star setup with pool and apartments off-island, at higher rates for longer stays."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is it worth staying overnight in Ayutthaya?",
+        "a": "Yes, staying overnight allows early temple access without Bangkok crowds and evening riverside vibes. Day trips miss the serene atmosphere at sites like Wat Chaiwatthanaram."
+      },
+      {
+        "q": "Where to stay in Ayutthaya?",
+        "a": "The Historical Island is best for walkable temple access; opt for mid-range like S3 for pools and comfort. Mainland spots suit budget needs but require transport."
+      },
+      {
+        "q": "What are the best mid-range hotels in Ayutthaya?",
+        "a": "S3 Ayutthaya Hotel stands out with its pool and central location. Alternatives include The Avail for style and Mayuu for boutique feel."
+      },
+      {
+        "q": "Does S3 Ayutthaya Hotel have a pool?",
+        "a": "Yes, it features a swimming pool, rare for mid-range in Ayutthaya, ideal for families cooling off after tours."
+      },
+      {
+        "q": "How to get around Ayutthaya from S3 Hotel?",
+        "a": "Rent bikes on-site for 5-10 minute rides to temples or use Grab for 50-100 THB to farther sites."
+      },
+      {
+        "q": "Is breakfast included at S3 Ayutthaya Hotel?",
+        "a": "Most rates include a decent buffet with Thai and Western options, but confirm when booking promotions."
+      }
+    ],
+    "urgencyLine": "Rooms at S3 Ayutthaya Hotel with pool access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated S3 Ayutthaya Hotel based on location centrality, amenity value, and guest feedback alignment with mid-range expectations. We weighted the uncommon pool highest because it differentiates from typical Ayutthaya options. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "S3 Ayutthaya Hotel Review (2026)",
+    "metaDescription": "S3 Ayutthaya Hotel in Ayutthaya offers mid-range comfort with a rare pool and spacious rooms on the historical island. Breakfast is included but pool…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:42:27.363Z"
+}

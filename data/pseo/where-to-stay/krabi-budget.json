@@ -1,0 +1,318 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "audience": "budget",
+  "neighborhoods": [
+    {
+      "name": "Railay Beach",
+      "description": "A stunning limestone peninsula accessible only by longtail boat — no roads, no cars, no tuk-tuks. Four interconnected beaches offer different vibes: Railay West is the main swimming beach, Railay East has budget guesthouses and mangroves, Phra Nang Cave Beach is one of Thailand's most beautiful, and Tonsai is the backpacker climbing hub. Over 700 bolted rock climbing routes make this Southeast Asia's climbing capital. The trade-off: limited accommodation, higher food prices, and you're boat-dependent for everything.",
+      "bestFor": "Rock climbers, couples & beach lovers",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Boat-access-only peninsula — no cars, no roads, island vibe on the mainland",
+        "Four interconnected beaches, each with its own character",
+        "700+ rock climbing routes from beginner to expert",
+        "Phra Nang Cave Beach — one of Thailand's top 5 beaches",
+        "Walking distance between all four beaches via jungle trails"
+      ],
+      "recommendedHotels": [
+        "Railay Bay Resort & Spa",
+        "Rayavadee"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": [
+        "Longtail from Ao Nang 100 THB (15 min, boats run until ~6 PM)",
+        "After 6 PM charter only — 800 THB",
+        "No road access — everything arrives by boat including supplies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/railay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Krabi Town",
+      "description": "The provincial capital with a real Thai town feel, sitting on the Krabi River 20 minutes inland from the coast. The weekend Walking Street night market is one of southern Thailand's best, with street food at local prices (30-80 THB). Budget accommodation is 40-60% cheaper than Ao Nang. Ferry connections to Koh Phi Phi and Koh Lanta depart from nearby piers. The trade-off: you're not on the beach, and you'll need to songthaew (60 THB) to Ao Nang for boat tours.",
+      "bestFor": "Budget travelers & local culture seekers",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Weekend Walking Street market — best street food in Krabi province at local prices",
+        "Accommodation 40-60% cheaper than Ao Nang and Railay",
+        "Riverside restaurants and morning markets with authentic Thai atmosphere",
+        "Ferry pier connections to Koh Phi Phi and Koh Lanta",
+        "Closest base to Tiger Cave Temple (8 km)"
+      ],
+      "recommendedHotels": [
+        "Pak-Up Hostel"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "Songthaew to Ao Nang 60 THB (30 min, runs until ~6 PM)",
+        "Chao Fah Pier for ferries to Koh Phi Phi and Koh Lanta",
+        "Tiger Cave Temple 8 km — easy scooter or tuk-tuk ride"
+      ],
+      "sources": [
+        {
+          "sourceName": "Rough Guides",
+          "sourceUrl": "https://www.roughguides.com/thailand/southern-thailand-andaman-coast/krabi/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Nopparat Thara Beach",
+      "description": "Nopparat Thara Beach stretches along the coast next to Ao Nang and is part of Mu Ko Nopparat Thara–Phi Phi National Park. The area includes residential zones and a market where local vendors sell food and goods. It serves as an entry point for boat trips to nearby islands.",
+      "bestFor": "families, budget travelers, first-time visitors",
+      "priceLevel": "€–€€€",
+      "highlights": [
+        "Nopparat Thara Beach",
+        "Ao Nang Night Market",
+        "Dragon Crest Mountain viewpoint",
+        "Muslim fishing village"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaew shuttles to Ao Nang",
+        "Local taxis available",
+        "Access to national park boats"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Mu_Ko_Nopparat_Thara%E2%80%93Phi_Phi_National_Park"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g297927-d1397188-Reviews-Nopparat_Tha_Beach-Krabi_Town_Krabi_Province.html"
+        }
+      ]
+    },
+    {
+      "name": "Saladan",
+      "description": "Saladan is the main pier and administrative town on Koh Lanta's northern end. It functions as the arrival point for ferries from Krabi and Phuket. The area has shops, restaurants, and basic accommodations catering to arrivals.",
+      "bestFor": "backpackers, budget travelers, digital nomads",
+      "priceLevel": "€",
+      "highlights": [
+        "Saladan Pier",
+        "Lanta Old Town nearby",
+        "Saladan Night Market",
+        "Local seafood restaurants"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Ferry pier for inter-island travel",
+        "Motorbike rentals common",
+        "Songthaews to other Lanta beaches"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Lanta_District"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/thailand/koh_lanta/saladan"
+        }
+      ]
+    },
+    {
+      "name": "Tonsai, Koh Phi Phi",
+      "description": "Tonsai is the main village and beach on Koh Phi Phi Don, serving as the island's commercial center. It has a harbor for longtail boats and longtail ferries from Krabi. The area includes guesthouses and eateries packed along narrow paths.",
+      "bestFor": "backpackers, nightlife, party",
+      "priceLevel": "€€",
+      "highlights": [
+        "Tonsai Beach",
+        "Phi Phi Island Pier",
+        "Loh Dalum Bay nearby",
+        "Jungle Beach trail",
+        "Local bars along the beach"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Longtail boats to other bays",
+        "Ferries from Krabi Town",
+        "No cars, foot or boat only"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Phi_Phi_Don"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/thailand/phi_phi_islands/tonsai"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Which part of Krabi is best to stay?",
+    "What are the best budget hotels in Krabi?",
+    "Where to base yourself in Krabi?",
+    "Is Ao Nang or Krabi Town better?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Krabi neighbourhood as a budget traveller can mean overpaying for subpar digs far from affordable eats — most travellers default to touristy spots and blow their savings on transport.",
+    "intro": "For budget travellers in Krabi, the key factor is proximity to local markets and ferries to keep costs low on food and island hops. We ranked neighbourhoods on price levels, walkability to cheap stalls, and access to longtail boats over luxury beachfront appeal.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Krabi Town",
+        "why": "Cheapest rooms near authentic markets"
+      },
+      {
+        "label": "Best value",
+        "name": "Saladan",
+        "why": "Ultra-low prices at ferry hub"
+      },
+      {
+        "label": "Best for backpackers",
+        "name": "Tonsai, Koh Phi Phi",
+        "why": "Affordable guesthouses with island vibe"
+      }
+    ],
+    "urgencyLine": "Budget rooms in Krabi Town and Saladan fill up fast during December high season — secure spots 3-4 months ahead to avoid inflated ferry-linked prices.",
+    "comparisonTable": [
+      {
+        "name": "Railay Beach",
+        "bestFor": "Rock climbers and beach lovers",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back",
+        "drawback": "Boat access adds transport costs"
+      },
+      {
+        "name": "Krabi Town",
+        "bestFor": "Budget travelers and culture seekers",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "traditional local",
+        "drawback": "Inland location needs boat to beaches"
+      },
+      {
+        "name": "Nopparat Thara Beach",
+        "bestFor": "Families and first-time visitors",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "touristy buzzing",
+        "drawback": "Crowded during peak family season"
+      },
+      {
+        "name": "Saladan",
+        "bestFor": "Backpackers and digital nomads",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "lively local",
+        "drawback": "Basic facilities near busy pier"
+      },
+      {
+        "name": "Tonsai, Koh Phi Phi",
+        "bestFor": "Backpackers and nightlife seekers",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "buzzing party",
+        "drawback": "Noisy evenings disrupt sleep"
+      }
+    ],
+    "decisionGuide": [
+      "If you prioritize cheap street food and markets, choose Krabi Town.",
+      "If arriving by ferry and want rock-bottom hostels, choose Saladan.",
+      "If you're a family on a budget near beaches, choose Nopparat Thara Beach.",
+      "If backpacking with some nightlife, choose Tonsai, Koh Phi Phi.",
+      "If on a tight budget avoiding boats, choose Krabi Town over Railay Beach.",
+      "If seeking quiet budget spots for nomads, choose Saladan."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Krabi Town",
+        "why": "It offers the lowest prices with easy access to the Walking Street night market for local eats under €5, beating Saladan by being mainland-based without extra ferry fees. This edges out Nopparat Thara for pure budget focus over family amenities.",
+        "drawback": "It's 20 minutes inland, so beaches require a short boat ride adding €10-15 roundtrip.",
+        "skipIf": "Skip if you insist on direct beachfront without any transport hassle.",
+        "localSignals": [
+          "20 minutes inland from Ao Nang coast",
+          "Walking Street night market central",
+          "Krabi River waterfront for ferries"
+        ],
+        "travellerNote": "Travellers often praise the authentic Thai vibe and cheap local food but note the lack of direct sea views compared to coastal spots."
+      },
+      {
+        "rank": 2,
+        "name": "Saladan",
+        "why": "As the northern Koh Lanta pier, it has the cheapest € accommodations for backpackers right at ferry arrivals, topping Krabi Town for island-hoppers by saving on initial transport costs.",
+        "drawback": "The area feels more functional than scenic, with basic shops dominating over relaxing spots.",
+        "skipIf": "Skip if you want mainland convenience without island ferry dependencies.",
+        "localSignals": [
+          "Main pier for ferries from Krabi",
+          "Northern end of Koh Lanta",
+          "Shops and restaurants clustered nearby"
+        ],
+        "travellerNote": "Travellers often praise the ultra-affordable basics and easy arrivals but note the transient feel from constant ferry crowds."
+      },
+      {
+        "rank": 3,
+        "name": "Nopparat Thara Beach",
+        "why": "It balances budget € options with beach access in a national park setting, outperforming Tonsai by avoiding party noise while keeping costs low for first-timers near Ao Nang.",
+        "drawback": "Prices creep up in residential zones during family peaks, sometimes hitting €€.",
+        "skipIf": "Skip if you prefer a non-touristy, purely local atmosphere over park crowds.",
+        "localSignals": [
+          "Stretches next to Ao Nang",
+          "Mu Ko Nopparat Thara national park",
+          "Local market for vendors nearby"
+        ],
+        "travellerNote": "Travellers often praise the family-friendly beach and market deals but note occasional vendor hassles in busier sections."
+      }
+    ],
+    "topPick": "Krabi Town",
+    "topPickReason": "Krabi Town delivers the best budget bang with rock-bottom prices and cultural immersion without island transport premiums.",
+    "bookingTips": [
+      "Book 2-3 months ahead for December-January to snag under-€40 doubles in Krabi Town before high-season surges.",
+      "From Krabi Airport, take a 40-minute Grab taxi to Krabi Town for €15-20, avoiding overpriced tourist shuttles.",
+      "Avoid guesthouses near the pier in Saladan if sensitive to early morning ferry noise.",
+      "Steer clear of rainy May-October for Nopparat Thara Beach, as flooded paths make walkability low.",
+      "Opt for fan rooms over AC in Tonsai, Koh Phi Phi to save €10-15 nightly without sacrificing comfort.",
+      "Check for longtail boat scams at Railay Beach docks — negotiate fares upfront to €5-10 per trip."
+    ],
+    "methodology": "We compared Krabi neighbourhoods based on price level, walkability to budget eateries, and ferry access for cost-saving hops. We weighted price highest because budget travellers prioritize savings on stays and local food over luxury vibes. Rankings reflect area data plus common backpacker priorities for authentic, affordable bases. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/areas/krabi/krabi-town/",
+      "/guides/where-to-stay/krabi/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Krabi'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Krabi Town'"
+    ],
+    "faq": [
+      {
+        "q": "Which part of Krabi is best to stay?",
+        "a": "For budget travellers, Krabi Town stands out for cheap rooms and night markets, while Saladan suits ferry arrivals on Koh Lanta. Compare based on your transport needs to maximize savings."
+      },
+      {
+        "q": "What are the best budget hotels in Krabi?",
+        "a": "Focus on guesthouses under €40 in Krabi Town or Saladan for value; areas like Nopparat Thara offer family-friendly budget picks near beaches. Prioritize spots with Walking Street access."
+      },
+      {
+        "q": "Where to base yourself in Krabi?",
+        "a": "Base in Krabi Town for mainland budget culture or Saladan for island ferry convenience; avoid pricier Railay if watching costs. This keeps daily expenses low on food and transport."
+      },
+      {
+        "q": "Is Ao Nang or Krabi Town better?",
+        "a": "Krabi Town is better for strict budgets with local prices at markets, while Ao Nang-adjacent Nopparat Thara suits if you want beaches without luxury markups. Choose Town for pure savings."
+      }
+    ],
+    "metaTitle": "Where to Stay in Krabi for Budget (2026)",
+    "metaDescription": "Discover budget-friendly stays in Krabi's top areas like Krabi Town and Saladan for cheap eats and ferries. Save on rooms under €40 and easy…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:37:43.008Z"
+}

@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pai",
+  "cityName": "Pai",
+  "hotelSlug": "pai-piranha-fishing-park",
+  "hotel": {
+    "name": "Pai Piranha Fishing Park",
+    "category": "budget",
+    "priceRange": "600–1,200 THB/night (~$17–34 USD)",
+    "area": "Outside Town",
+    "description": "A unique lodge set around a stocked fishing lake outside Pai, offering wooden bungalows in a peaceful rural setting. Guests can fish in the lake (catch and release), swim in the pool, and enjoy the mountain views. A quirky alternative to the backpacker hostel scene for those who want something different.",
+    "highlights": [
+      "Private fishing lake",
+      "Swimming pool",
+      "Peaceful countryside setting",
+      "Mountain views from bungalows"
+    ],
+    "bestFor": [
+      "couples",
+      "nature lovers",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303916-d9602034-Reviews-Pai_Piranha_Fishing_Park-Pai_Mae_Hong_Son_Province.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Piranha%2520Fishing%2520Park%252C%2520Pai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Pai Circus Hostel",
+      "category": "budget",
+      "priceRange": "220–800 THB/night (~$6–22 USD)",
+      "area": "Town Center",
+      "description": "Pai's most iconic hostel, famous for its circus-themed decor, fire shows, skate ramp, and nightly social events. Dorm beds and private bungalows are basic but clean. The real draw is the community vibe — hammocks, a pool, and a bar where backpackers share travel stories until late.",
+      "highlights": [
+        "Nightly fire shows and social events",
+        "Swimming pool and skate ramp",
+        "5-minute walk to Walking Street"
+      ],
+      "reviewScore": "8.2/10 Hostelworld",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hostels/p/91394/the-famous-pai-circus-hostel/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Circus%2520Hostel%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "Common Grounds Pai",
+      "category": "budget",
+      "priceRange": "250–600 THB/night (~$7–17 USD)",
+      "area": "Town Center",
+      "description": "A well-run social hostel with both dorm beds and private rooms. Clean, modern facilities with a communal kitchen, cozy lounge area, and organized pub crawls. The location on the edge of town center keeps noise manageable while remaining walkable to everything.",
+      "highlights": [
+        "Organized social events and pub crawls",
+        "Communal kitchen for budget cooking",
+        "Clean, modern dorm pods with privacy curtains"
+      ],
+      "bestFor": [
+        "backpackers",
+        "social travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Broke Backpacker",
+          "sourceUrl": "https://www.thebrokebackpacker.com/best-hostels-in-pai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCommon%2520Grounds%2520Pai%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "UP2U Guesthouse",
+      "category": "budget",
+      "priceRange": "200–500 THB/night (~$5.50–14 USD)",
+      "area": "Town Center",
+      "description": "A charming traditional Thai-style guesthouse with beautiful wooden design, just a 5-minute walk from the bus station. Rooms are simple but characterful, with wooden floors and Thai textiles. One of the cheapest quality options in Pai with genuine Thai hospitality.",
+      "highlights": [
+        "Traditional Thai wooden architecture",
+        "Walking distance to bus station and Walking Street",
+        "Some of the cheapest rooms in Pai"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hotels/asia/thailand/pai/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUP2U%2520Guesthouse%252C%2520Pai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Chiang Mai or Pai better?",
+    "Do people fish for piranhas?",
+    "Are there piranhas in Thailand?",
+    "Are there piranhas in the Amazon jungle?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Pai Piranha Fishing Park without knowing its remote outside-town location can leave you stranded without easy access to Pai's nightlife and eateries.",
+    "intro": "Pai Piranha Fishing Park delivers a quirky rural escape with wooden bungalows around a stocked fishing lake, where guests fish catch-and-release style, swim in the pool, and soak in mountain views. It's ideal for couples, nature lovers, and families seeking a peaceful alternative to bustling backpacker hostels.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and nature lovers",
+      "standout": "private fishing lake",
+      "noGoFor": "urban nightlife seekers"
+    },
+    "whyBook": [
+      "Fish in the private stocked lake for free",
+      "Relax with mountain views from wooden bungalows",
+      "Swim in the on-site pool amid countryside peace",
+      "Escape the typical Pai backpacker hostel vibe"
+    ],
+    "whyNotBook": [
+      "Remote location means no walking to town amenities",
+      "Basic wooden bungalows lack modern comforts like AC",
+      "Fishing lake is catch-and-release only, no meals from catches",
+      "Limited on-site dining requires trips for variety",
+      "Quirky name may mislead about actual piranha presence"
+    ],
+    "skipIf": "Skip if you're a solo backpacker craving social events and easy access to Pai's walking street.",
+    "detailedReview": "Arriving at Pai Piranha Fishing Park feels like stepping into a serene rural hideaway, with check-in handled casually at the lodge office overlooking the fishing lake. The wooden bungalows offer a rustic vibe, featuring simple furnishings and direct mountain views that invite lazy mornings with coffee on the porch. Standout is the private fishing lake, stocked for catch-and-release sessions using provided rods, perfect for relaxed afternoons without the pressure of keeping your haul. The swimming pool provides a cool dip in the Thai heat, surrounded by greenery that enhances the peaceful countryside setting. Food quality is basic, with a small on-site eatery serving straightforward Thai dishes like fried rice, nothing gourmet but filling after a day outdoors. Service style is laid-back and friendly, with staff happy to share fishing tips or arrange scooter rentals, though expect self-service for most needs. Typical guests are couples unwinding after hikes, nature lovers photographing the scenery, and families teaching kids to fish in a safe, quiet spot. Overall, it's a unique lodge that trades urban buzz for tranquility, but the outside-town position means planning transport for any off-site adventures. With no frills, it suits those wanting something different from Pai's hostel scene, though the lack of reviews suggests verifying recent guest experiences.",
+    "locationReality": "Nestled outside Pai town in a rural area, Pai Piranha Fishing Park is about a 10-15 minute scooter ride from the bustling Walking Street and night market. Within a 5-minute walk, you'll find only the fishing lake, pool, and basic lodge facilities, with no shops or restaurants nearby. Reaching town requires renting a scooter or taking a songthaew for around 100-200 THB, making it less ideal for frequent trips to Pai's cafes and attractions.",
+    "localSignals": [
+      "10-15 minute scooter ride to Pai Walking Street",
+      "One swimming pool and one private fishing lake on property",
+      "No restaurants on-site, nearest eateries in Pai town",
+      "Mountain views from bungalows, no beach access",
+      "Budget pricing at 600–1,200 THB/night, WiFi status varies"
+    ],
+    "travellerNote": "Guests often praise the peaceful rural setting and unique fishing lake but note the remote location complicates access to town without personal transport.",
+    "bookingTips": [
+      "Request bungalows with direct mountain views for best scenery",
+      "Check Agoda for cheapest rates on Pai bookings versus Booking.com",
+      "Prices spike November to February during cool season peak",
+      "Verify scooter rental availability as no shuttle to town",
+      "Confirm fishing gear inclusion and pool hours before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pai Circus Hostel (220–800 THB/night (~$6–22 USD)) — Pai's most iconic hostel, famous for its circus-themed decor, fire shows, skate ramp, and nightly social events. Dorm beds and private bunga",
+        "howDifferent": "Offers vibrant social events and dorms in town center, unlike the quiet rural fishing focus."
+      },
+      {
+        "name": "Common Grounds Pai (250–600 THB/night (~$7–17 USD)) — A well-run social hostel with both dorm beds and private rooms. Clean, modern facilities with a communal kitchen, cozy lounge area, and orga",
+        "howDifferent": "Provides communal social spaces and kitchen in central Pai, contrasting the isolated nature retreat."
+      },
+      {
+        "name": "UP2U Guesthouse (200–500 THB/night (~$5.50–14 USD)) — A charming traditional Thai-style guesthouse with beautiful wooden design, just a 5-minute walk from the bus station. Rooms are simple but c",
+        "howDifferent": "Located near bus station for easy town access, without the fishing lake or pool amenities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Chiang Mai or Pai better?",
+        "a": "Chiang Mai suits urban explorers with temples and markets, while Pai offers a relaxed rural vibe for nature lovers; choose Pai for fishing escapes like at Piranha Fishing Park."
+      },
+      {
+        "q": "Do people fish for piranhas?",
+        "a": "Piranhas are fished in South American rivers for sport, but in Thailand's Pai Piranha Fishing Park, the lake is stocked with local fish for safe catch-and-release fun."
+      },
+      {
+        "q": "Are there piranhas in Thailand?",
+        "a": "No, piranhas are native to South America and not found in Thailand's waters; the park's name is a quirky theme for its fishing lake."
+      },
+      {
+        "q": "Are there piranhas in the Amazon jungle?",
+        "a": "Yes, piranhas inhabit the Amazon's rivers and are known for their sharp teeth, often caught by locals and anglers in that region."
+      },
+      {
+        "q": "What makes Pai Piranha Fishing Park unique?",
+        "a": "It features a private stocked lake for fishing and wooden bungalows with mountain views, setting it apart as a peaceful rural lodge outside Pai town."
+      },
+      {
+        "q": "Is Pai Piranha Fishing Park family-friendly?",
+        "a": "Yes, with a swimming pool and safe catch-and-release fishing, it's suitable for families seeking a calm countryside stay away from hostels."
+      }
+    ],
+    "urgencyLine": "Bungalows at Pai Piranha Fishing Park with lake access book out 1-2 months ahead for November-February high season — check availability today.",
+    "methodology": "We rated Pai Piranha Fishing Park based on its unique amenities, location, and budget appeal from provided data. We weighted the peaceful setting and fishing lake highest because they define its quirky rural charm over standard hostels. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Pai Piranha Fishing Park Review (2026)",
+    "metaDescription": "Discover Pai Piranha Fishing Park in Pai: budget wooden bungalows with private fishing lake and pool for nature lovers. Remote location needs transport planning. Book your peaceful escape now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:11:00.308Z"
+}

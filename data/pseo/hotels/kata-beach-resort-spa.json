@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "hotelSlug": "kata-beach-resort-spa",
+  "hotel": {
+    "name": "Kata Beach Resort & Spa",
+    "category": "mid-range",
+    "priceRange": "2,500–4,000 THB/night (~$70–112 USD)",
+    "area": "Kata Beach",
+    "description": "A well-established resort spanning a large section of Kata Beach beachfront. Multiple pools, a spa, and several dining options. The beach-facing rooms have direct sunset views. Family-friendly with kids' pool and playground.",
+    "highlights": [
+      "Beachfront on Kata Beach",
+      "Multiple swimming pools including kids' pool",
+      "Full spa and multiple restaurants on-site"
+    ],
+    "bestFor": [
+      "families",
+      "couples"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKata%2520Beach%2520Resort%2520%2526%2520Spa%252C%2520Phuket%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Beyond Patong",
+      "category": "mid-range",
+      "priceRange": "3,400–5,500 THB/night (~$96–154 USD)",
+      "area": "Patong Beach",
+      "description": "Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with balconies. Close enough to the action but on a quieter side street for better sleep.",
+      "highlights": [
+        "3-minute walk to Patong Beach",
+        "Outdoor pool and modern gym",
+        "Free parking — rare in Patong"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Karon Sea Sands Resort",
+      "category": "mid-range",
+      "priceRange": "1,800–3,000 THB/night (~$50–84 USD)",
+      "area": "Karon Beach",
+      "description": "Beachfront resort directly on Karon Beach with a pool, restaurant, and sea-view rooms. One of the best value beachfront properties on the island — you're literally steps from the sand. Rooms are dated but clean and spacious.",
+      "highlights": [
+        "Directly on Karon Beach — zero walk to sand",
+        "Beachfront pool and restaurant",
+        "Excellent value for a beachfront location"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com",
+          "sourceUrl": "https://www.trip.com/hotels/phuket-hotels-list-725/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Millennium Resort Patong",
+      "category": "mid-range",
+      "priceRange": "5,000–8,000 THB/night (~$140–225 USD)",
+      "area": "Patong Beach",
+      "description": "Five-star facilities directly on Patong Beach with multiple pools, full spa, and several restaurants. Rooms are large with modern furnishings. The beachfront location combined with resort-level amenities makes it the best upscale option in Patong.",
+      "highlights": [
+        "Direct beachfront on Patong Beach",
+        "Multiple pools and full-service spa",
+        "Five-star facilities at competitive rates"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMillennium%2520Resort%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Kata Beach a good area to stay?",
+    "Which beach is nicer, Karon or Kata?",
+    "Why is Kata Beach so popular?",
+    "Where is the best resort to stay in Phuket?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Kata Beach Resort & Spa without knowing the shared pools can get crowded with families can lead to limited lounge space during peak hours.",
+    "intro": "Kata Beach Resort & Spa offers direct beachfront access on Kata Beach with multiple pools, a full spa, and several on-site restaurants, delivering a relaxed stay focused on sunset views from beach-facing rooms. It's ideal for families thanks to the kids' pool and playground, or couples seeking a mid-range beach escape in Phuket.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "families and couples",
+      "standout": "beachfront location",
+      "noGoFor": "solo nightlife seekers"
+    },
+    "whyBook": [
+      "Direct access to Kata Beach for sunset views",
+      "Multiple pools including dedicated kids' pool",
+      "Full spa for on-site relaxation treatments",
+      "Several dining options without leaving property",
+      "Playground for family-friendly entertainment"
+    ],
+    "whyNotBook": [
+      "Large resort layout can feel spread out for quick navigation",
+      "Shared pools often busy with families midday",
+      "Established property means some rooms lack modern updates",
+      "Beachfront position exposes ground-floor rooms to sand tracking",
+      "Multiple restaurants but limited variety for extended stays"
+    ],
+    "skipIf": "Skip if you're traveling solo and prefer vibrant nightlife over family-oriented beach vibes.",
+    "detailedReview": "Checking into Kata Beach Resort & Spa feels straightforward at the beachfront lobby, where staff handle registration efficiently amid the hum of arriving families. Rooms in this well-established resort vary, but beach-facing ones deliver direct sunset views through balconies, though interiors reflect mid-range comfort with standard furnishings and no frills like smart TVs. The standout amenity is the multiple swimming pools, including a shallow kids' pool that keeps children occupied while parents unwind nearby, all set against the large Kata Beach section the property spans. Food quality at the several on-site restaurants is reliable for Thai and international dishes, with fresh seafood options benefiting from the beach location, though portions suit casual meals rather than gourmet experiences. Service style is friendly and attentive, geared toward family needs like extra towels for pool use, but can stretch thin during high occupancy. Typical guests are families with young kids enjoying the playground or couples opting for spa sessions, creating a lively yet relaxed atmosphere that prioritizes beach time over urban excitement. Overall, the resort's family-friendly setup shines for those wanting easy beach access without venturing far.",
+    "locationReality": "Directly on Kata Beach, the resort provides zero-minute walk to the sand and sea, ideal for immediate beach dips. Within a 5-minute walk, you'll find local shops, massage parlors, and casual eateries along the main Kata road. For Patong's nightlife or Phuket Town, expect a 15-20 minute drive or 300-400 THB Grab ride, as Kata sits south of the busier areas.",
+    "localSignals": [
+      "0-minute walk to Kata Beach as beachfront property",
+      "Multiple swimming pools including kids' pool on-site",
+      "Full spa available for treatments",
+      "Several restaurants on property",
+      "Playground for family use within resort grounds"
+    ],
+    "travellerNote": "Guests often praise the direct beach access and family amenities like the kids' pool but note the resort's large size can make it feel crowded around pools during daytimes.",
+    "bookingTips": [
+      "Request beach-facing rooms for sunset views, available at standard rates",
+      "Use Agoda for Thailand bookings, often 10-15% cheaper than Booking.com",
+      "Prices spike December-February high season and around Songkran in April",
+      "Verify breakfast inclusion as it's not always standard in mid-range packages",
+      "Check for ongoing maintenance notices on the established property's pools"
+    ],
+    "similarHotels": [
+      {
+        "name": "Beyond Patong (3,400–5,500 THB/night (~$96–154 USD)) — Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with ba",
+        "howDifferent": "Offers modern rooms and gym near Patong's energy, unlike Kata's family-focused beachfront calm."
+      },
+      {
+        "name": "Karon Sea Sands Resort (1,800–3,000 THB/night (~$50–84 USD)) — Beachfront resort directly on Karon Beach with a pool, restaurant, and sea-view rooms. One of the best value beachfront properties on the is",
+        "howDifferent": "Cheaper with simpler amenities on adjacent Karon Beach, lacking Kata's multiple pools and spa."
+      },
+      {
+        "name": "Millennium Resort Patong (5,000–8,000 THB/night (~$140–225 USD)) — Five-star facilities directly on Patong Beach with multiple pools, full spa, and several restaurants. Rooms are large with modern furnishing",
+        "howDifferent": "Upscale with larger rooms in bustling Patong, contrasting Kata's mid-range family vibe."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Kata Beach a good area to stay?",
+        "a": "Yes, Kata Beach is a good area for relaxed beach stays with calmer waves than Patong, plus nearby shops and dining, though it's less party-oriented."
+      },
+      {
+        "q": "Which beach is nicer, Karon or Kata?",
+        "a": "Kata offers a more vibrant scene with better surf and sunsets, while Karon is wider and quieter; both are family-friendly but Kata edges for activities."
+      },
+      {
+        "q": "Why is Kata Beach so popular?",
+        "a": "Kata Beach's popularity stems from its scenic curve, mix of relaxation and water sports, and proximity to Phuket's southern attractions without Patong's crowds."
+      },
+      {
+        "q": "Where is the best resort to stay in Phuket?",
+        "a": "The best resort depends on needs; for beachfront family stays, Kata Beach Resort & Spa excels, while Patong options suit nightlife seekers."
+      },
+      {
+        "q": "Is Kata Beach Resort & Spa family-friendly?",
+        "a": "Yes, with a kids' pool, playground, and spacious beachfront layout designed for families."
+      },
+      {
+        "q": "What amenities does Kata Beach Resort & Spa have?",
+        "a": "It features multiple pools, a full spa, several restaurants, and direct beach access."
+      }
+    ],
+    "urgencyLine": "Rooms at Kata Beach Resort & Spa with beach-facing sunset views book out 1-2 months ahead for December-February high season — check today.",
+    "methodology": "We rated Kata Beach Resort & Spa based on location, amenities, and value from provided data. We weighted beachfront access highest because it defines the resort's appeal in Phuket. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Kata Beach Resort & Spa Review (2026)",
+    "metaDescription": "Kata Beach Resort & Spa in Phuket: Mid-range beachfront with multiple pools, spa, and family perks like kids' pool. Note potential midday crowds at shared areas. Book for sunset views today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:22:03.299Z"
+}

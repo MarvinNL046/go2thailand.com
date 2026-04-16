@@ -1,0 +1,270 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "audience": "budget",
+  "neighborhoods": [
+    {
+      "name": "Old City (Within the Moat)",
+      "description": "The historic heart of Chiang Mai, enclosed by 700-year-old moat walls forming a near-perfect square. Dozens of temples, guesthouses, cafes, and restaurants packed into a walkable 1.5 km x 1.5 km area. The Sunday Walking Street Market runs right through it. Most tour pickups originate here.",
+      "bestFor": "First-timers & temple lovers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Walk to Wat Chedi Luang, Wat Phra Singh, and 20+ other temples",
+        "Sunday Walking Street Market passes through the main road",
+        "Most tour operators pick up from Old City hotels",
+        "Abundant cheap restaurants and massage shops",
+        "Tha Phae Gate is the main landmark and social hub"
+      ],
+      "recommendedHotels": [
+        "Julie Guesthouse",
+        "U Chiang Mai",
+        "The Inside House"
+      ],
+      "walkingScore": "9/10",
+      "transportNotes": [
+        "Everything inside the moat is walkable",
+        "Songthaews circle the moat road — flag one down for 30 THB",
+        "Can get noisy on Sunday nights during the market"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Santitham",
+      "description": "A residential neighborhood north of the Old City with a distinctly local vibe — fewer tourists, more Thai families, and authentic street food stalls. Budget accommodation is plentiful, and several well-regarded cooking schools are based here. Increasingly popular with longer-stay travelers and those seeking an authentic daily life experience.",
+      "bestFor": "Budget travelers & long-stayers",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Authentic street food at Thai-local prices",
+        "Monthly rental apartments from 5,000–8,000 THB",
+        "Several local markets with no tourist markup",
+        "Quiet residential streets perfect for cycling",
+        "Quick access to the north gate and Chang Phueak night food stalls"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "5–10 minute songthaew to Old City north gate",
+        "Good for cycling — flat and less traffic than Nimman",
+        "Monthly scooter rental common among long-stayers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Cat is Out of the Office",
+          "sourceUrl": "https://catisoutoftheoffice.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chang Phuak",
+      "description": "Chang Phuak is a district located immediately north of the Old City moat in Chiang Mai. It includes the historic Chang Puak Gate and several temples such as Wat Phra That Doi Kham. The area hosts a Sunday walking street market that attracts locals and visitors for food and goods.",
+      "bestFor": "families, budget travelers",
+      "priceLevel": "€",
+      "highlights": [
+        "Chang Puak Gate",
+        "Wat Phra That Doi Kham",
+        "Chang Phuak Sunday Walking Street"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Old City gates",
+        "Near Chiang Mai Bus Terminal 2"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Chang_Phuak_district"
+        }
+      ]
+    },
+    {
+      "name": "Warorot / Kad Luang",
+      "description": "Warorot Market, also known as Kad Luang, is Chiang Mai's largest fresh market located along the Ping River. The surrounding area has Chinese influences with shops selling textiles, gold, and street food. It serves as a hub for local shopping and dining.",
+      "bestFor": "foodies, budget travelers, shoppers",
+      "priceLevel": "€",
+      "highlights": [
+        "Warorot Market",
+        "Ton Payom Market",
+        "Chiang Mai Gate Night Market nearby"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Songthaews along Charoen Rat Road",
+        "Close to Chiang Mai Railway Station"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Warorot_Market"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g293917-d2466190-Reviews-Warorot_Market-Chiang_Mai.html"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Which part of Chiang Mai is best to stay in?",
+    "Where to stay in Chiang Mai budget?",
+    "Where to stay in Chiang Mai for first timers?",
+    "What are some hidden gems in Thailand?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Chiang Mai neighbourhood as a budget traveller can lead to inflated prices and constant transport costs — most travellers overlook local areas and stick to crowded tourist spots.",
+    "intro": "For budget travellers in Chiang Mai, the most important factor is access to affordable guesthouses and street food without relying on expensive rides. We ranked neighbourhoods based on price levels under €40 per night, walkability to essentials, and authentic low-cost experiences.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Santitham",
+        "why": "Affordable stays with local vibe"
+      },
+      {
+        "label": "Best value",
+        "name": "Warorot / Kad Luang",
+        "why": "Cheap eats at massive market"
+      },
+      {
+        "label": "Best for backpackers",
+        "name": "Old City (Within the Moat)",
+        "why": "Walkable temples and guesthouses"
+      }
+    ],
+    "urgencyLine": "Budget rooms in Chiang Mai's popular areas fill up fast during Yi Peng Lantern Festival — secure spots in local neighbourhoods 1-2 months ahead to avoid price surges.",
+    "comparisonTable": [
+      {
+        "name": "Old City (Within the Moat)",
+        "bestFor": "First-timers & temple lovers",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "touristy traditional",
+        "drawback": "Can feel crowded with tourists"
+      },
+      {
+        "name": "Santitham",
+        "bestFor": "Budget travelers & long-stayers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local laid-back",
+        "drawback": "Fewer tourist amenities nearby"
+      },
+      {
+        "name": "Chang Phuak",
+        "bestFor": "Families & budget travelers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "quiet traditional",
+        "drawback": "Limited nightlife options"
+      },
+      {
+        "name": "Warorot / Kad Luang",
+        "bestFor": "Foodies & budget shoppers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "buzzing local",
+        "drawback": "Noisy market atmosphere"
+      }
+    ],
+    "decisionGuide": [
+      "If you want walkable temples on a budget, choose Old City (Within the Moat).",
+      "If you seek authentic local stays cheaply, choose Santitham.",
+      "If travelling with family affordably, choose Chang Phuak.",
+      "If you prioritize cheap street food shopping, choose Warorot / Kad Luang.",
+      "If on a tight budget avoiding tourists, choose Santitham over Old City (Within the Moat).",
+      "If first-time sightseeing cheaply, choose Old City (Within the Moat)."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Santitham",
+        "why": "Santitham offers the purest budget experience with plentiful cheap guesthouses and local street food, beating Old City by avoiding tourist markups while still being close to main sights. It's ideal for long stays without breaking the bank.",
+        "drawback": "Requires short tuk-tuk rides to major temples.",
+        "skipIf": "Skip if you need high walkability to tourist attractions every day.",
+        "localSignals": [
+          "North of Old City moat: 10-15 min walk",
+          "Grab from Chiang Mai airport: 200-300 THB, 20 min",
+          "To nearest cooking school: within neighborhood"
+        ],
+        "travellerNote": "Travellers often praise the authentic Thai family vibe and low costs but note the need for occasional transport to central areas."
+      },
+      {
+        "rank": 2,
+        "name": "Old City (Within the Moat)",
+        "why": "The compact historic core provides budget guesthouses amid temples, outperforming Chang Phuak with better walkability for first-timers, though slightly pricier than pure local spots. It balances affordability and convenience effectively.",
+        "drawback": "Tourist crowds can make streets feel congested.",
+        "skipIf": "Skip if you want to avoid tourist-heavy areas entirely.",
+        "localSignals": [
+          "Enclosed by moat walls: 0 km",
+          "To Sunday Walking Street: within 1.5 km area",
+          "Grab from airport: 250-350 THB, 25 min"
+        ],
+        "travellerNote": "Travellers often praise the easy access to temples and cafes but note higher noise from visitors."
+      },
+      {
+        "rank": 3,
+        "name": "Chang Phuak",
+        "why": "Just north of the moat, it delivers budget family-friendly stays near gates and temples, edging out Warorot for quieter vibes while keeping costs low. It's a solid pick for relaxed budget exploration without market bustle.",
+        "drawback": "Slightly farther from riverfront markets.",
+        "skipIf": "Skip if shopping and food stalls are your top priorities.",
+        "localSignals": [
+          "North of Old City moat: 5-10 min walk",
+          "To Chang Puak Gate: 0 km",
+          "Grab from airport: 200-300 THB, 20 min"
+        ],
+        "travellerNote": "Travellers often praise the calm residential feel and temples but note fewer evening dining choices."
+      }
+    ],
+    "topPick": "Santitham",
+    "topPickReason": "Santitham stands out for budget travellers due to its abundance of under-€40 guesthouses and genuine local immersion without the tourist premiums of central areas.",
+    "bookingTips": [
+      "Book 1-2 months ahead for Songkran in April to snag budget rooms under €30 in Santitham.",
+      "From Chiang Mai airport, take a red truck songthaew for 40-60 THB to Santitham, avoiding fixed taxi overcharges.",
+      "Avoid booking on Tha Phae Road extensions where prices double for the same quality.",
+      "Steer clear of blocks near night construction sites in northern neighbourhoods during dry season.",
+      "Opt for fan rooms in guesthouses to save 10-20% over AC during cooler November-February.",
+      "Check for weekly discounts in long-stay hostels to drop rates below €20 per night."
+    ],
+    "methodology": "We compared Chiang Mai neighbourhoods based on price levels under €40, walkability to food and sights, transport access from the airport, and fit for budget priorities like local authenticity. We weighted affordability highest because budget travellers prioritize savings on stays and eats over luxury. Rankings reflect area data plus common backpacker needs for value. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/areas/chiang-mai/santitham/",
+      "/guides/where-to-stay/chiang-mai/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Chiang Mai'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Santitham'"
+    ],
+    "faq": [
+      {
+        "q": "Which part of Chiang Mai is best to stay in?",
+        "a": "For budget travellers, Santitham offers the best mix of cheap guesthouses and local vibe, just north of the Old City for easy access."
+      },
+      {
+        "q": "Where to stay in Chiang Mai budget?",
+        "a": "Opt for Santitham or Warorot / Kad Luang where rooms start under €30 and street food is plentiful without tourist markups."
+      },
+      {
+        "q": "Where to stay in Chiang Mai for first timers?",
+        "a": "First-timers on a budget should choose Old City (Within the Moat) for its walkable temples and central location to ease into the city."
+      },
+      {
+        "q": "What are some hidden gems in Thailand?",
+        "a": "In Chiang Mai, neighbourhoods like Santitham reveal authentic cooking classes and family-run stalls away from tourist paths, perfect for budget discovery."
+      }
+    ],
+    "metaTitle": "Where to Stay in Chiang Mai for Budget (2026)",
+    "metaDescription": "Discover budget-friendly neighbourhoods in Chiang Mai like Santitham and Old City for stays under €40, walkable eats, and local vibes. Compare areas and…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:32:40.691Z"
+}

@@ -1,0 +1,236 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "category": "budget",
+  "hotels": [
+    {
+      "name": "Julie Guesthouse",
+      "category": "budget",
+      "priceRange": "350–700 THB/night (~$10–20 USD)",
+      "area": "Old City",
+      "description": "A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant that doubles as a social hub. The location near Tha Phae Gate is unbeatable for market access.",
+      "highlights": [
+        "Steps from Tha Phae Gate and Sunday Market",
+        "Both fan and air-con rooms available",
+        "Reliable WiFi and airport pickup service"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d613049-Reviews-Julie_Guest_House-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJulie%2520Guesthouse%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Hive 28",
+      "category": "budget",
+      "priceRange": "280–500 THB/night (~$8–14 USD)",
+      "area": "Old City",
+      "description": "A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains, personal reading lights, and USB charging. Great common areas for meeting other travelers.",
+      "highlights": [
+        "Rooftop bar with temple views",
+        "Pod-style dorm beds with privacy",
+        "Free breakfast included"
+      ],
+      "bestFor": [
+        "backpackers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Chiang-Mai-Hotels.6042.hotel.ksp",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHive%252028%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Stamps Backpackers",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Old City",
+      "description": "Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access to temples and the Night Bazaar. Both dorms and private rooms with air-con.",
+      "highlights": [
+        "Swimming pool — rare for this price range",
+        "Organized social events and tours",
+        "Quiet location despite being central"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStamps%2520Backpackers%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Where to stay in Chiang Mai budget?",
+    "Which area of Chiang Mai is best to stay in?",
+    "What are the best hotels to stay in Chiang Mai?",
+    "Where do foreigners stay in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong budget hotel in Chiang Mai can trap you in a dingy, overpriced spot with no AC during humid nights — many 'budget' hotels cut corners on cleanliness and location.",
+    "intro": "The single biggest mistake travellers make when booking budget stays in Chiang Mai is overlooking the Old City's walkability, leading to exhausting scooter rentals. We ranked these based on value for money, guest cleanliness ratings, social vibes, and proximity to temples and markets.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Hive 28",
+        "why": "Modern pods and rooftop views"
+      },
+      {
+        "label": "Best value",
+        "name": "Hive 28",
+        "why": "Lowest rates with privacy features"
+      },
+      {
+        "label": "Best for solo travelers",
+        "name": "Stamps Backpackers",
+        "why": "Pub crawls and social pool table"
+      },
+      {
+        "label": "Best for backpacker history",
+        "name": "Julie Guesthouse",
+        "why": "1990s institution near gate"
+      }
+    ],
+    "urgencyLine": "Budget hotel prices in Chiang Mai spike 50-100% during Yi Peng Lantern Festival (November) — book 3-6 months ahead for Old City spots.",
+    "comparisonTable": [
+      {
+        "name": "Julie Guesthouse",
+        "area": "Old City",
+        "priceBand": "€",
+        "bestFor": "Backpackers seeking history",
+        "standout": "location",
+        "drawback": "Basic room decor"
+      },
+      {
+        "name": "Hive 28",
+        "area": "Old City",
+        "priceBand": "€",
+        "bestFor": "Solo digital nomads",
+        "standout": "rooftop bar",
+        "drawback": "Limited private rooms"
+      },
+      {
+        "name": "Stamps Backpackers",
+        "area": "Old City",
+        "priceBand": "€",
+        "bestFor": "Social group travelers",
+        "standout": "pool table",
+        "drawback": "Noisy evenings"
+      }
+    ],
+    "decisionGuide": [
+      "If you prioritize a historic vibe and central gate access, choose Julie Guesthouse.",
+      "If modern pods and a rooftop bar appeal for solo stays, choose Hive 28.",
+      "If social pub crawls and a pool table fit your group, choose Stamps Backpackers.",
+      "If quiet soi access to temples matters on a budget, choose Stamps Backpackers.",
+      "If backpacker institution with restaurant hub is key, choose Julie Guesthouse.",
+      "If privacy curtains and USB charging are essentials, choose Hive 28."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Hive 28",
+        "why": "Hive 28 edges out others with its modern pod beds and rooftop bar, offering better privacy and views than Julie's basic setup or Stamps' noisier social focus for budget-conscious solos. This makes it ideal for value without sacrificing comfort in the Old City.",
+        "drawback": "Dorms may feel cramped during peak occupancy.",
+        "skipIf": "Skip if you dislike hostels with shared common areas.",
+        "localSignals": [
+          "In Old City with rooftop bar views",
+          "Pod-style beds with privacy curtains and USB",
+          "Common areas for meeting travelers"
+        ],
+        "travellerNote": "Guests often praise the clean modern facilities and social vibe but note occasional noise from the bar area."
+      },
+      {
+        "rank": 2,
+        "name": "Julie Guesthouse",
+        "why": "As a 1990s staple, Julie Guesthouse beats Stamps for unbeatable Tha Phae Gate location and on-site restaurant hub, providing easier temple access over Hive's dorm emphasis for nostalgic backpackers.",
+        "drawback": "Rooms lack modern design touches.",
+        "skipIf": "Skip if you prefer sleek, pod-style accommodations.",
+        "localSignals": [
+          "Near Tha Phae Gate in Old City",
+          "Clean rooms with air-con and hot showers",
+          "Ground-floor restaurant as social hub"
+        ],
+        "travellerNote": "Guests often praise the prime location and friendly staff but note the dated room aesthetics."
+      },
+      {
+        "rank": 3,
+        "name": "Stamps Backpackers",
+        "why": "Stamps stands out for its pub crawls and pool table in a quiet soi, offering more organized fun than Julie's quieter restaurant or Hive's solo focus, though it trades some privacy for sociability.",
+        "drawback": "Social events can disrupt quiet time.",
+        "skipIf": "Skip if you seek peaceful, non-party stays.",
+        "localSignals": [
+          "Quiet soi off Moon Muang Road",
+          "Pool table and organized pub crawls",
+          "Dorms and private rooms with air-con"
+        ],
+        "travellerNote": "Guests often praise the lively atmosphere and easy Night Bazaar access but note varying noise levels."
+      }
+    ],
+    "topPick": "Hive 28",
+    "topPickReason": "Hive 28 delivers the best mix of modern comfort, value, and Old City views for budget travelers seeking more than basics.",
+    "bookingTips": [
+      "Book 2-3 months ahead via Agoda, which often undercuts Booking.com for Thai budget hostels.",
+      "Avoid Songkran (April) when prices double due to water festival crowds in Old City.",
+      "Opt for private rooms over dorms if privacy matters, as shared spaces fill fast.",
+      "Check for free WiFi reliability in listings, essential for digital nomads in Chiang Mai.",
+      "Watch for no-review-history spots or 50%+ discounts as red flags for hidden fees.",
+      "Prioritize air-con rooms during March-May heat, even in budget options."
+    ],
+    "methodology": "We compared these budget hotels in Chiang Mai based on guest reviews for cleanliness, location quality within the Old City, value at under 700 THB, and priorities like social spaces for backpackers. We weighted location highest because Old City walkability saves on transport costs for budget stays. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/where-to-stay/chiang-mai/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check budget hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View Hive 28'"
+    ],
+    "faq": [
+      {
+        "q": "Where to stay in Chiang Mai budget?",
+        "a": "Focus on Old City hostels like Hive 28 for walkable access to temples and markets under 500 THB; avoid outskirts to skip transport costs."
+      },
+      {
+        "q": "Which area of Chiang Mai is best to stay in?",
+        "a": "Old City is ideal for budget travelers due to its gated walls, temple proximity, and affordable guesthouses like Julie Guesthouse near Tha Phae Gate."
+      },
+      {
+        "q": "What are the best hotels to stay in Chiang Mai?",
+        "a": "For budget picks, Hive 28 offers modern value with rooftop views; compare it to Stamps Backpackers for social vibes in the same area."
+      },
+      {
+        "q": "Where do foreigners stay in Chiang Mai?",
+        "a": "Foreigners flock to Old City budget spots like Stamps Backpackers for easy Night Bazaar access and English-friendly staff."
+      },
+      {
+        "q": "Are there budget hostels with private rooms in Chiang Mai?",
+        "a": "Yes, Hive 28 provides private options from 400 THB with AC, perfect for solos wanting privacy without mid-range prices."
+      }
+    ],
+    "metaTitle": "Best Budget Hotels in Chiang Mai (2026)",
+    "metaDescription": "Discover top budget hotels in Chiang Mai's Old City under $20/night, like Hive 28 with rooftop views and easy temple access. Compare picks and see rates…"
+  },
+  "lastUpdated": "2026-03-13",
+  "generatedAt": "2026-04-15T15:33:04.918Z"
+}

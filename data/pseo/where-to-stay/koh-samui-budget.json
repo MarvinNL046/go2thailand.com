@@ -1,0 +1,314 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "audience": "budget",
+  "neighborhoods": [
+    {
+      "name": "Chaweng Beach",
+      "description": "Koh Samui's biggest and busiest beach area — a 7 km crescent of white sand backed by the island's main nightlife strip, shopping, and the widest range of hotels. Central Chaweng buzzes with beach clubs, water sports, and bars; Chaweng Noi at the southern end is calmer and more upscale. Everything you need is within walking distance, but that convenience comes with higher prices, more crowds, and noise from the nightlife strip.",
+      "bestFor": "Nightlife, first-timers & convenience",
+      "priceLevel": "Budget to Luxury",
+      "highlights": [
+        "Samui's longest beach — 7 km of white sand with calm swimming waters",
+        "Chaweng Walking Street — the island's main nightlife strip with bars, clubs, and live music",
+        "Widest range of hotels from $8 hostels to 5-star resorts",
+        "Central Laem Din market for cheap Thai street food",
+        "Water sports: jet ski, parasailing, paddleboard rentals available on the beach"
+      ],
+      "recommendedHotels": [
+        "Lub d Koh Samui Chaweng Beach",
+        "Hyatt Regency Koh Samui"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": [
+        "Walking distance to everything within Chaweng",
+        "Songthaews along the ring road to other beaches 40–100 THB",
+        "Grab available but surge pricing common at night"
+      ],
+      "sources": [
+        {
+          "sourceName": "Destination Well Known",
+          "sourceUrl": "https://destinationwellknown.com/where-to-stay-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Lamai Beach",
+      "description": "Samui's second-largest beach offers a more laid-back alternative to Chaweng with good swimming, beach bars, and a mix of budget and mid-range hotels. The area has its own nightlife strip (though much smaller than Chaweng's) and is home to the famous Hin Ta & Hin Yai rocks. Hotels here are typically 20–30% cheaper than Chaweng equivalents, making it a value sweet spot.",
+      "bestFor": "Couples & relaxed travelers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "More relaxed than Chaweng but still lively enough with restaurants and nightlife",
+        "Hotels 20–30% cheaper than comparable Chaweng properties",
+        "Hin Ta & Hin Yai rocks and Overlap Stone viewpoint nearby",
+        "Good snorkeling at the rocky northern end of the beach",
+        "Smaller, less touristy night market with authentic local food"
+      ],
+      "recommendedHotels": [
+        "Baan Talay Resort",
+        "Banyan Tree Samui"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "15 minutes from Chaweng by songthaew (50–80 THB)",
+        "Ring road access to all other beaches",
+        "Scooter recommended for exploring beyond Lamai"
+      ],
+      "sources": [
+        {
+          "sourceName": "North Abroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-on-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Maenam Beach",
+      "description": "A long, quiet stretch of golden sand on the north coast with a relaxed village feel and almost no nightlife. Popular with families, long-stay travelers, and those who prefer hammock time to bar hopping. Simple beach restaurants, local Thai eateries, and wellness retreats set the tone. The Pralarn pier here is the main departure point for ferries to Koh Phangan and Koh Tao.",
+      "bestFor": "Families, long-stays & peace seekers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Samui's quietest major beach — peaceful and uncrowded",
+        "Budget-friendly accommodation and local Thai restaurants",
+        "Ferry pier for boats to Koh Phangan (30 min) and Koh Tao (2 hrs)",
+        "Excellent sunset views facing north-northwest",
+        "Several wellness retreats and yoga studios"
+      ],
+      "recommendedHotels": [
+        "Prana Resort Samui"
+      ],
+      "walkingScore": "5/10",
+      "transportNotes": [
+        "Spread out along the coast — scooter or songthaew needed",
+        "Ferry pier for Koh Phangan and Koh Tao",
+        "20 minutes from Chaweng via the ring road"
+      ],
+      "sources": [
+        {
+          "sourceName": "Santorinidave",
+          "sourceUrl": "https://santorinidave.com/best-places-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Nathon (Town)",
+      "description": "Samui's administrative capital and main port town on the west coast — functional rather than tourist-oriented, but with the island's most authentic local food scene. The night market and waterfront food stalls serve genuine southern Thai dishes at local prices. Most travelers only pass through for ferries, but Nathon rewards those who linger with Chinese-Thai architecture, local markets, and zero tourist markup.",
+      "bestFor": "Budget travelers & local food enthusiasts",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Most authentic local food scene on the island at genuinely local prices",
+        "Main ferry pier for boats to mainland Surat Thani/Don Sak",
+        "Chinese-Thai shophouse architecture along the waterfront",
+        "Night market with southern Thai seafood at rock-bottom prices",
+        "Banks, post office, government offices — useful for practical errands"
+      ],
+      "recommendedHotels": [],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "Compact town center — walkable",
+        "Main ferry terminal for mainland connections",
+        "Songthaews depart from here to all beach areas"
+      ],
+      "sources": [
+        {
+          "sourceName": "Koh Samui Travel Tips",
+          "sourceUrl": "https://www.kohsamui-traveltips.com/districts-and-map/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Hua Thanon",
+      "description": "Hua Thanon is a coastal village in the south of Koh Samui with a focus on fishing and local commerce. It features a daily fresh seafood market and several Thai Muslim restaurants. The beach here is narrower and used more by locals than for swimming.",
+      "bestFor": "foodies, budget travelers",
+      "priceLevel": "€",
+      "highlights": [
+        "Hua Thanon Market",
+        "Hua Thanon Beach",
+        "Wat Khiri Wongkaram"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Songthaews from Lamai Beach",
+        "Taxi rides from Chaweng take 20 minutes"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/island/surat_thani/koh_samui/south/hua_thanom"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Which part of Koh Samui is best to stay at?",
+    "Where is the least touristy part of Koh Samui?",
+    "Which is better Chaweng Beach or Lamai Beach?",
+    "Is Koh Samui cheap for tourists?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Koh Samui neighbourhood as a budget traveller can drain your wallet on overpriced taxis and eats — most travellers overspend by basing in flashy Chaweng without scouting value spots.",
+    "intro": "For budget travellers in Koh Samui, the key factor is access to affordable local eats and hostels without sacrificing beach proximity, as high transport costs can quickly inflate expenses. We ranked neighbourhoods on price levels, walkability to essentials, and vibe suitability for cost-conscious stays, prioritising areas with genuine low-cost options over tourist traps.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Nathon (Town)",
+        "why": "Cheapest eats and authentic vibe"
+      },
+      {
+        "label": "Best value",
+        "name": "Hua Thanon",
+        "why": "Fresh markets and budget seafood"
+      },
+      {
+        "label": "Best for backpackers",
+        "name": "Maenam Beach",
+        "why": "Relaxed long-stay hostels"
+      }
+    ],
+    "urgencyLine": "Budget rooms in Nathon and Hua Thanon fill fast during December high season — secure spots 3 months ahead to avoid paying double in nearby tourist zones.",
+    "comparisonTable": [
+      {
+        "name": "Chaweng Beach",
+        "bestFor": "Nightlife and convenience",
+        "priceBand": "€-€€€",
+        "walkability": "High",
+        "vibe": "lively touristy",
+        "drawback": "Noisy crowds overwhelm budgets"
+      },
+      {
+        "name": "Lamai Beach",
+        "bestFor": "Relaxed beach bars",
+        "priceBand": "€-€€",
+        "walkability": "High",
+        "vibe": "laid-back buzzing",
+        "drawback": "Smaller nightlife limits options"
+      },
+      {
+        "name": "Maenam Beach",
+        "bestFor": "Peaceful family stays",
+        "priceBand": "€-€€",
+        "walkability": "Medium",
+        "vibe": "quiet local",
+        "drawback": "Limited evening activities"
+      },
+      {
+        "name": "Nathon (Town)",
+        "bestFor": "Local food markets",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "traditional local",
+        "drawback": "Fewer beachfront rooms"
+      },
+      {
+        "name": "Hua Thanon",
+        "bestFor": "Seafood and village life",
+        "priceBand": "€",
+        "walkability": "Low",
+        "vibe": "quiet traditional",
+        "drawback": "Narrow beach for swimming"
+      }
+    ],
+    "decisionGuide": [
+      "If you prioritise cheap local meals over beaches, choose Nathon (Town).",
+      "If seeking quiet budget hostels with some sand, choose Maenam Beach.",
+      "If on a tight budget for foodies, choose Hua Thanon.",
+      "If wanting walkable bars without luxury prices, choose Lamai Beach.",
+      "If first-time ease matters more than savings, choose Chaweng Beach but stick to edges.",
+      "If avoiding tourist crowds entirely, choose Nathon (Town) or Hua Thanon."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Nathon (Town)",
+        "why": "Nathon edges out Hua Thanon for budget travellers with its ultra-low prices on authentic street food and hostels, avoiding the transport premiums of more remote spots. It delivers the island's best value without skimping on cultural immersion.",
+        "drawback": "Limited tourist amenities mean fewer English menus and beach loungers.",
+        "skipIf": "Skip if you need direct beach access or vibrant nightlife nearby.",
+        "localSignals": [
+          "Distance from Samui Airport: 45 min drive",
+          "Typical Grab cost from airport: 600-900 THB",
+          "Walking to night market: 5 min"
+        ],
+        "travellerNote": "Travellers often praise the genuine local food scene and rock-bottom prices but note the functional vibe lacks polished beaches."
+      },
+      {
+        "rank": 2,
+        "name": "Hua Thanon",
+        "why": "Hua Thanon beats Maenam for pure budget appeal with its fresh seafood markets and cheap village guesthouses, offering better daily savings than slightly pricier northern beaches. It's ideal for food-focused stays without Chaweng's markup.",
+        "drawback": "Requires songthaews or taxis for most outings, adding minor costs.",
+        "skipIf": "Skip if you prefer wide sandy beaches over narrow coastal strips.",
+        "localSignals": [
+          "Distance from Samui Airport: 40 min drive",
+          "Typical Grab cost from airport: 500-800 THB",
+          "Walking to seafood market: 10 min"
+        ],
+        "travellerNote": "Travellers often praise the affordable Muslim eateries and fresh catches but note the quieter, less developed feel."
+      },
+      {
+        "rank": 3,
+        "name": "Maenam Beach",
+        "why": "Maenam tops Lamai for budget peace seekers with its long quiet sands and simple rests, providing more affordable long-stay options than busier southern areas. It balances cost and relaxation better for families on a dime.",
+        "drawback": "Sporadic transport can extend trips to other beaches.",
+        "skipIf": "Skip if you crave any evening buzz or easy access to markets.",
+        "localSignals": [
+          "Distance from Samui Airport: 15 min drive",
+          "Typical Grab cost from airport: 300-500 THB",
+          "Walking to beach: 5 min from village"
+        ],
+        "travellerNote": "Travellers often praise the serene village atmosphere and family-friendly calm but note the lack of nightlife options."
+      }
+    ],
+    "topPick": "Nathon (Town)",
+    "topPickReason": "Nathon (Town) stands out for budget travellers with the lowest prices on local food and stays, minimising hidden costs like taxis compared to beach-centric areas.",
+    "bookingTips": [
+      "Book 2-3 months ahead for December-March peak to snag under €40 rooms in Nathon before prices jump 50%.",
+      "From Samui Airport, take a shared songthaew to Nathon for 100-200 THB instead of private taxis at 800 THB.",
+      "Avoid booking in Chaweng's main strip where hostels hide resort fees; opt for Nathon's waterfront for transparent budget deals.",
+      "Steer clear of unlit backroads in Hua Thanon at night to dodge minor scams from unofficial guides.",
+      "During monsoon July-October, prioritise elevated Nathon guesthouses to avoid beachside flooding risks.",
+      "Choose fan rooms over AC in Maenam for 20-30% savings, as island breezes keep them comfortable."
+    ],
+    "methodology": "We compared Koh Samui neighbourhoods based on price level, walkability, transport access, and suitability for budget travellers seeking value over luxury. We weighted price level highest because it directly impacts daily spends for this audience, using cluster data from high-rated budget spots. Rankings reflect typical priorities like local eats and low transport needs. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/koh-samui/",
+      "/areas/koh-samui/nathon-town/",
+      "/guides/where-to-stay/koh-samui/",
+      "/city/koh-samui/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Koh Samui'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Nathon (Town)'"
+    ],
+    "faq": [
+      {
+        "q": "Which part of Koh Samui is best to stay at?",
+        "a": "For budget travellers, Nathon (Town) offers the best mix of cheap local food and hostels; choose it over Chaweng if saving money trumps nightlife."
+      },
+      {
+        "q": "Where is the least touristy part of Koh Samui?",
+        "a": "Hua Thanon and Nathon (Town) are the least touristy, with authentic villages and markets ideal for budget stays away from crowded beaches."
+      },
+      {
+        "q": "Which is better Chaweng Beach or Lamai Beach?",
+        "a": "Lamai Beach suits budget better than Chaweng with more affordable mid-range options and a laid-back vibe, though both have walkable strips."
+      },
+      {
+        "q": "Is Koh Samui cheap for tourists?",
+        "a": "Koh Samui can be cheap in areas like Nathon (Town) and Hua Thanon with meals under €5, but avoid central Chaweng to keep daily costs below €50."
+      }
+    ],
+    "metaTitle": "Where to Stay in Koh Samui for Budget (2026)",
+    "metaDescription": "Discover budget-friendly neighbourhoods in Koh Samui like Nathon and Hua Thanon for affordable stays under €40/night and local eats. Compare areas and…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:40:38.996Z"
+}

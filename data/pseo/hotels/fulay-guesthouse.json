@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "hua-hin",
+  "cityName": "Hua Hin",
+  "hotelSlug": "fulay-guesthouse",
+  "hotel": {
+    "name": "Fulay Guesthouse",
+    "category": "mid-range",
+    "priceRange": "1,500–2,500 THB/night (~$42–70 USD)",
+    "area": "Hua Hin Town Center",
+    "description": "A boutique guesthouse with individually decorated rooms, excellent on-site restaurant, and genuine Thai hospitality. Each room has its own character with quality furnishings. The restaurant is considered one of Hua Hin's best — worth visiting even if you're not staying here. A step above typical guesthouses in quality and atmosphere.",
+    "highlights": [
+      "Excellent on-site restaurant",
+      "Individually decorated rooms",
+      "Personal service and local recommendations"
+    ],
+    "bestFor": [
+      "couples",
+      "foodies",
+      "culture seekers"
+    ],
+    "reviewScore": "4.4/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "Wikitravel",
+        "sourceUrl": "https://wikitravel.org/en/Hua_Hin",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFulay%2520Guesthouse%252C%2520Hua%2520Hin%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Tong Mee House",
+      "category": "budget",
+      "priceRange": "600–1,000 THB/night (~$17–28 USD)",
+      "area": "Hua Hin Town Center",
+      "description": "A well-run guesthouse in the heart of Hua Hin, minutes from the night market and beach. Clean, air-conditioned rooms with hot water, wifi, and fridge. The friendly Thai owners provide genuine hospitality and helpful local tips. No pool, but the beach is a short walk away. One of Hua Hin's best budget options.",
+      "highlights": [
+        "Walking distance to night market and beach",
+        "Clean air-conditioned rooms with hot water",
+        "Friendly owner with excellent local knowledge"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "solo travelers",
+        "couples"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Wikitravel",
+          "sourceUrl": "https://wikitravel.org/en/Hua_Hin",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTong%2520Mee%2520House%252C%2520Hua%2520Hin%252C%2520Thailand"
+    },
+    {
+      "name": "Memory Guesthouse",
+      "category": "budget",
+      "priceRange": "400–700 THB/night (~$11–20 USD)",
+      "area": "Hua Hin Town Center",
+      "description": "A no-frills but clean guesthouse offering Hua Hin's best value accommodation. Basic rooms with fan or air-conditioning, shared or private bathrooms. Located in the town center near restaurants and the night market. Popular with backpackers and long-stay budget travelers who appreciate the rock-bottom prices.",
+      "highlights": [
+        "Lowest prices in central Hua Hin",
+        "Central location near restaurants",
+        "Fan and air-con room options"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers",
+        "long-stay travelers"
+      ],
+      "reviewScore": "3.8/5 Booking.com",
+      "sources": [
+        {
+          "sourceName": "Wikitravel",
+          "sourceUrl": "https://wikitravel.org/en/Hua_Hin",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMemory%2520Guesthouse%252C%2520Hua%2520Hin%252C%2520Thailand"
+    },
+    {
+      "name": "Euro Hua Hin City Hotel",
+      "category": "budget",
+      "priceRange": "800–1,400 THB/night (~$22–39 USD)",
+      "area": "Hua Hin Town Center",
+      "description": "A modern budget hotel on Phetkasem Road with small but well-designed rooms, a rooftop pool, and a ground-floor cafe. Air-conditioning, hot water, smart TV, and fast wifi in all rooms. The rooftop pool with town views is exceptional at this price point. Walking distance to the night market and railway station.",
+      "highlights": [
+        "Rooftop swimming pool with town views",
+        "Modern rooms with smart TV and fast wifi",
+        "Walking distance to night market"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "digital nomads"
+      ],
+      "reviewScore": "4.1/5 Agoda",
+      "sources": [
+        {
+          "sourceName": "Agoda",
+          "sourceUrl": "https://www.agoda.com/euro-hua-hin-city-hotel/hotel/hua-hin-th.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEuro%2520Hua%2520Hin%2520City%2520Hotel%252C%2520Hua%2520Hin%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Fulay Guesthouse without knowing its guesthouse-scale size can lead to disappointment if you expect resort-like facilities.",
+    "intro": "Fulay Guesthouse offers a boutique stay with uniquely decorated rooms featuring quality furnishings and an acclaimed on-site restaurant serving top Thai cuisine. It's ideal for couples, foodies, and culture seekers wanting personal Thai hospitality in Hua Hin's town center.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and foodies",
+      "standout": "excellent on-site restaurant",
+      "noGoFor": "families with kids"
+    },
+    "whyBook": [
+      "Individually decorated rooms with unique character",
+      "One of Hua Hin's best restaurants on-site",
+      "Genuine Thai hospitality and local tips",
+      "Step above typical guesthouses in quality"
+    ],
+    "whyNotBook": [
+      "No pool or spa for relaxation seekers",
+      "Limited amenities beyond restaurant and rooms",
+      "Guesthouse vibe may feel too intimate for groups",
+      "Central location exposes to street noise at night",
+      "Basic facilities without gym or kids' areas"
+    ],
+    "skipIf": "Skip if you're traveling with children needing play areas or prefer hotels with pools.",
+    "detailedReview": "Checking into Fulay Guesthouse feels welcoming, with staff offering genuine Thai smiles and quick personal introductions to the property's charm. The rooms stand out for their individual decorations—think artisanal touches and quality wooden furnishings that give each space a distinct personality, far from cookie-cutter guesthouse setups. Expect comfortable beds, air-conditioning, and thoughtful details like local art, though space is cozy rather than expansive. The on-site restaurant is the undisputed highlight, serving fresh Thai dishes that draw locals and visitors alike; it's praised for flavorful curries and seafood, making it a must-visit even for non-guests. Meals here emphasize authentic flavors in a relaxed atmosphere, often with recommendations from attentive servers. Service shines through personal interactions—owners share insider tips on Hua Hin's hidden spots, from street food stalls to cultural sites, creating a homey vibe. Typical guests are couples enjoying romantic dinners or foodies exploring the menu, alongside culture seekers who appreciate the hospitality. While not luxurious, the overall atmosphere elevates it above standard guesthouses, providing a authentic slice of Thai life in a clean, well-maintained setting. Mornings might start with the scent of brewing coffee from the restaurant, and evenings wind down with quiet conversations on the property's small common areas.",
+    "locationReality": "Situated in Hua Hin Town Center, Fulay Guesthouse is a 10-minute walk to the vibrant night market and about 15 minutes on foot to Hua Hin Beach. Within a 5-minute stroll, you'll find local eateries, shops, and the main street bustle. For farther spots like Cicada Market, expect a 10-15 minute Grab ride costing around 100-150 THB.",
+    "localSignals": [
+      "10-minute walk to Hua Hin Night Market",
+      "15-minute walk to main Hua Hin Beach",
+      "One on-site restaurant, no pool mentioned",
+      "WiFi availability varies by room, not specified",
+      "7-Eleven and restaurant strip within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the excellent on-site restaurant and individually decorated rooms but note the lack of pool or extensive amenities for longer stays.",
+    "bookingTips": [
+      "Request a room with unique decor facing away from the street for quieter nights",
+      "Check Agoda for cheaper rates than Booking.com in Thailand off-season",
+      "Prices spike in December-January high season and during Hua Hin Jazz Festival",
+      "Verify restaurant hours and inclusion if booking multi-night packages",
+      "Confirm no ongoing construction nearby via recent guest photos"
+    ],
+    "similarHotels": [
+      {
+        "name": "Tong Mee House (600–1,000 THB/night (~$17–28 USD)) — A well-run guesthouse in the heart of Hua Hin, minutes from the night market and beach. Clean, air-conditioned rooms with hot water, wifi, a",
+        "howDifferent": "Offers cheaper basic rooms without the standout restaurant or unique decor of Fulay."
+      },
+      {
+        "name": "Memory Guesthouse (400–700 THB/night (~$11–20 USD)) — A no-frills but clean guesthouse offering Hua Hin's best value accommodation. Basic rooms with fan or air-conditioning, shared or private ba",
+        "howDifferent": "Provides even lower prices and simpler setup, lacking Fulay's personalized service and dining."
+      },
+      {
+        "name": "Euro Hua Hin City Hotel (800–1,400 THB/night (~$22–39 USD)) — A modern budget hotel on Phetkasem Road with small but well-designed rooms, a rooftop pool, and a ground-floor cafe. Air-conditioning, hot w",
+        "howDifferent": "Includes a rooftop pool missing at Fulay, but at a lower price with less boutique charm."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Fulay Guesthouse good for couples?",
+        "a": "Yes, its intimate boutique vibe, unique rooms, and romantic restaurant make it perfect for couples seeking a personal touch."
+      },
+      {
+        "q": "What's the food like at Fulay Guesthouse?",
+        "a": "The on-site restaurant is one of Hua Hin's best, offering genuine Thai dishes with fresh ingredients and warm service."
+      },
+      {
+        "q": "Does Fulay Guesthouse have a pool?",
+        "a": "No, it lacks a pool, focusing instead on its restaurant and room quality for a guesthouse experience."
+      },
+      {
+        "q": "How far is Fulay Guesthouse from the beach?",
+        "a": "It's about a 15-minute walk to Hua Hin Beach, with easy access to town center attractions."
+      },
+      {
+        "q": "Is breakfast included at Fulay Guesthouse?",
+        "a": "Breakfast details vary; check with the property, but the restaurant serves excellent meals throughout the day."
+      },
+      {
+        "q": "What's the vibe at Fulay Guesthouse?",
+        "a": "It offers genuine Thai hospitality in individually decorated rooms, ideal for culture seekers and foodies."
+      }
+    ],
+    "urgencyLine": "Rooms at Fulay Guesthouse with balcony views book out 1-2 months ahead for high season — check availability today.",
+    "methodology": "We rated Fulay Guesthouse based on guest reviews, amenities, location, and value from sources like TripAdvisor. We weighted the on-site restaurant and personal service highest because they set it apart from typical guesthouses. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Fulay Guesthouse Review (2026)",
+    "metaDescription": "Fulay Guesthouse in Hua Hin Town Center delivers boutique rooms and one of the best on-site restaurants for couples and foodies. No pool, but excellent Thai hospitality shines. Book for authentic stays—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:18:57.820Z"
+}

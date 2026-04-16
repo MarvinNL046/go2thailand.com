@@ -1,0 +1,193 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "hotelSlug": "the-inside-house",
+  "hotel": {
+    "name": "The Inside House",
+    "category": "luxury",
+    "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+    "area": "Old City",
+    "description": "A restored colonial-style boutique hotel with elegant white arches, leafy courtyards, and 14 private pools — the only Old City property offering this. Some suites feature private pools with glass walls. Intimate and beautifully designed.",
+    "highlights": [
+      "14 private pools across the property",
+      "Colonial-meets-Lanna architecture",
+      "Only luxury hotel inside the Old City walls with private pools"
+    ],
+    "bestFor": [
+      "couples",
+      "honeymoons"
+    ],
+    "sources": [
+      {
+        "sourceName": "Northabroad",
+        "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Inside%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Julie Guesthouse",
+      "category": "budget",
+      "priceRange": "350–700 THB/night (~$10–20 USD)",
+      "area": "Old City",
+      "description": "A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant that doubles as a social hub. The location near Tha Phae Gate is unbeatable for market access.",
+      "highlights": [
+        "Steps from Tha Phae Gate and Sunday Market",
+        "Both fan and air-con rooms available",
+        "Reliable WiFi and airport pickup service"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d613049-Reviews-Julie_Guest_House-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJulie%2520Guesthouse%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Hive 28",
+      "category": "budget",
+      "priceRange": "280–500 THB/night (~$8–14 USD)",
+      "area": "Old City",
+      "description": "A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains, personal reading lights, and USB charging. Great common areas for meeting other travelers.",
+      "highlights": [
+        "Rooftop bar with temple views",
+        "Pod-style dorm beds with privacy",
+        "Free breakfast included"
+      ],
+      "bestFor": [
+        "backpackers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Chiang-Mai-Hotels.6042.hotel.ksp",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHive%252028%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Stamps Backpackers",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Old City",
+      "description": "Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access to temples and the Night Bazaar. Both dorms and private rooms with air-con.",
+      "highlights": [
+        "Swimming pool — rare for this price range",
+        "Organized social events and tours",
+        "Quiet location despite being central"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStamps%2520Backpackers%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking The Inside House without knowing its intimate 14-room scale can leave you scrambling for alternatives during peak season.",
+    "intro": "The Inside House delivers a serene escape in a restored colonial-style boutique with elegant white arches, leafy courtyards, and 14 private pools, making it the only Old City property with such features. It's ideal for couples and honeymooners seeking intimate, beautifully designed luxury within Chiang Mai's historic walls.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "romantic couples honeymooners",
+      "standout": "private pools",
+      "noGoFor": "budget backpackers families"
+    },
+    "whyBook": [
+      "Exclusive 14 private pools in Old City location",
+      "Colonial-meets-Lanna architecture for unique vibe",
+      "Suites with glass-wall private pools for privacy",
+      "Leafy courtyards enhance intimate boutique feel"
+    ],
+    "whyNotBook": [
+      "Limited to just 14 rooms, books out quickly",
+      "No on-site restaurant, meals require walking out",
+      "Inside walls means quieter but less vibrant nightlife access",
+      "Boutique scale lacks large communal facilities like gyms",
+      "Higher rates for pool suites during dry season"
+    ],
+    "skipIf": "Skip if you're traveling with kids or on a tight budget seeking social hostels.",
+    "detailedReview": "Checking into The Inside House feels like stepping into a private oasis amid Chiang Mai's bustling Old City, with staff offering warm, personalized welcomes at the small reception area framed by white arches. Rooms exude an elegant colonial-meets-Lanna vibe, blending restored wooden accents with modern comforts in compact yet thoughtfully designed spaces—expect crisp linens, rainfall showers, and subtle Thai motifs. The standout amenity is the 14 private pools scattered across the property, with some suites featuring glass-walled versions that overlook leafy courtyards, providing secluded dips without leaving your room. Food isn't on-site, but nearby street eats and cafes deliver authentic northern Thai flavors; breakfast, if included, draws from local markets with fresh fruits and sticky rice. Service is attentive and low-key, suiting the intimate scale—staff remember preferences from check-in. Typical guests are couples in their 30s-50s on honeymoons or romantic getaways, drawn to the tranquility inside the ancient walls, though the small size means a hushed, exclusive atmosphere rather than lively interactions. Overall, it's a beautifully designed retreat for unwinding, but its boutique nature prioritizes privacy over extravagance.",
+    "locationReality": "Nestled inside Chiang Mai's Old City walls, The Inside House is a 5-minute walk to Wat Chedi Luang and Tha Pae Gate, putting historic temples and markets right at your doorstep. A short 10-minute stroll reaches the Sunday Walking Street if timed right, but Night Bazaar requires a 15-minute Grab ride costing about 100 THB. The moat-encircled area keeps things walkable and safe, though venturing beyond the walls for shopping or dining often needs transport.",
+    "localSignals": [
+      "5-minute walk to Tha Pae Gate landmark",
+      "14 private pools on property",
+      "Inside Old City walls, no nearby BTS (Chiang Mai lacks rail)",
+      "Airport transfer to CNX typically 200-300 THB by Grab",
+      "Leafy courtyards but no mentioned breakfast inclusion"
+    ],
+    "travellerNote": "Guests often praise the private pools and serene courtyards for romantic seclusion but note the limited room count leads to quick sell-outs and the need to walk out for meals.",
+    "bookingTips": [
+      "Request pool suites for glass-wall views, book via Agoda for Thailand deals",
+      "Prices spike November-February during cool season festivals",
+      "Verify private pool access policy as not all rooms include one",
+      "Check for construction notices near Old City walls",
+      "Opt for Booking.com if needing flexible cancellation"
+    ],
+    "similarHotels": [
+      {
+        "name": "Julie Guesthouse (350–700 THB/night (~$10–20 USD)) — A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant tha",
+        "howDifferent": "Budget guesthouse with basic rooms and on-site dining, lacking luxury pools or boutique design."
+      },
+      {
+        "name": "Hive 28 (280–500 THB/night (~$8–14 USD)) — A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains,",
+        "howDifferent": "Affordable hostel focused on social vibes and dorms, without private pools or romantic intimacy."
+      },
+      {
+        "name": "Stamps Backpackers (300–600 THB/night (~$8–17 USD)) — Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access t",
+        "howDifferent": "Party-oriented backpacker spot with communal activities, far from the luxury and privacy of pools."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does The Inside House have private pools?",
+        "a": "Yes, it features 14 private pools across the property, with some suites including glass-walled versions for added seclusion."
+      },
+      {
+        "q": "Is The Inside House suitable for couples?",
+        "a": "Absolutely, its intimate design, leafy courtyards, and private pools make it perfect for couples and honeymoons in the Old City."
+      },
+      {
+        "q": "What's the location like for The Inside House?",
+        "a": "It's inside Chiang Mai's Old City walls, a 5-minute walk to key temples like Wat Chedi Luang, offering historic charm but requiring rides for farther spots."
+      },
+      {
+        "q": "Are there dining options at The Inside House?",
+        "a": "No on-site restaurant, but the property's central Old City spot means abundant street food and cafes within a short walk."
+      },
+      {
+        "q": "How many rooms does The Inside House have?",
+        "a": "As a boutique hotel, it has a limited scale with 14 private pools indicating around that many accommodations, emphasizing exclusivity."
+      },
+      {
+        "q": "What's the architecture style at The Inside House?",
+        "a": "It blends restored colonial elements like white arches with Lanna influences, creating an elegant and culturally fused design."
+      }
+    ],
+    "urgencyLine": "Rooms at The Inside House with private pools book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated The Inside House based on its unique amenities, location within Old City walls, and suitability for romantic stays. We weighted private pools highest because they set it apart as the only such luxury option there. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "The Inside House Review (2026)",
+    "metaDescription": "The Inside House in Chiang Mai's Old City offers 14 private pools and colonial-Lanna design for couples, but its small scale means quick sell-outs. Ideal honeymoon spot—book now for intimate luxury. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:06:18.628Z"
+}

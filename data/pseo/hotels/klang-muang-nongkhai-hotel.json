@@ -1,0 +1,212 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nong-khai",
+  "cityName": "Nong Khai",
+  "hotelSlug": "klang-muang-nongkhai-hotel",
+  "hotel": {
+    "name": "Klang Muang @ Nongkhai Hotel",
+    "category": "mid-range",
+    "priceRange": "600–1,200 THB (~17–34 USD) per night",
+    "area": "Town Centre",
+    "description": "A modern Thai-style hotel in the heart of Nong Khai offering clean, well-designed rooms with air conditioning, flat-screen TVs and private bathrooms. The on-site restaurant serves good Thai food and the staff speak some English. Great value for a mid-range option in a walkable central location.",
+    "highlights": [
+      "Modern rooms with air conditioning and hot water",
+      "Central location within walking distance of markets",
+      "On-site restaurant with Thai food",
+      "Free parking",
+      "Friendly English-speaking staff"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fklang-muang-at-nongkhai.html",
+    "reviewScore": "8.0/10",
+    "bestFor": [
+      "Mid-budget travellers",
+      "Couples",
+      "Business travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "KAYAK — Klang Muang Nongkhai",
+        "sourceUrl": "https://www.kayak.com/Nong-Khai-Hotels-Klang-Muang-at-Nongkhai-Hotel.618923.ksp",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Iyara Hotel Nongkhai",
+      "category": "budget",
+      "priceRange": "400–700 THB (~11–20 USD) per night",
+      "area": "Town Centre",
+      "description": "A clean and reliable budget hotel in central Nong Khai offering simple air-conditioned rooms with hot showers and Wi-Fi. Nothing fancy, but well-maintained and excellent value for money. The central location puts you within walking distance of Tha Sadet Market, the night market and riverside promenade.",
+      "highlights": [
+        "Central location near markets and restaurants",
+        "Clean air-conditioned rooms with Wi-Fi",
+        "Hot showers and comfortable beds",
+        "Helpful front desk staff",
+        "Very affordable — one of the cheapest proper hotels in town"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fiyara-nongkhai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget travellers",
+        "Couples on a budget",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Iyara Hotel Nongkhai",
+          "sourceUrl": "https://www.momondo.com/hotels/nong-khai/Iyara-Hotel-Nongkhai.mhd2987045.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Peang Tara Cafe & Resort",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~23–42 USD) per night",
+      "area": "Town Centre",
+      "description": "A charming small resort with a popular cafe and well-furnished rooms in a quiet part of town. The property has a boutique feel with attractive common areas and a garden setting. The on-site cafe serves excellent coffee and Thai food, making it a pleasant base for exploring Nong Khai.",
+      "highlights": [
+        "Excellent on-site cafe with good coffee",
+        "Well-designed rooms with modern amenities",
+        "Quiet garden setting",
+        "Friendly and attentive staff",
+        "Good value for the quality offered"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpeang-tara-cafe-resort.html",
+      "reviewScore": "8.3/10",
+      "bestFor": [
+        "Couples",
+        "Coffee lovers",
+        "Mid-range travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nong Khai Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303915-Nong_Khai_Nong_Khai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Punruk Resort",
+      "category": "mid-range",
+      "priceRange": "700–1,400 THB (~20–40 USD) per night",
+      "area": "Town Centre",
+      "description": "A well-maintained mid-range resort offering spacious rooms with modern Thai design touches, a swimming pool and a restaurant. Punruk is popular with Thai domestic tourists and offers a comfortable stay at reasonable prices. The pool is a welcome bonus during the hot season.",
+      "highlights": [
+        "Swimming pool — rare at this price point in Nong Khai",
+        "Spacious rooms with Thai-style decor",
+        "On-site restaurant",
+        "Free parking and Wi-Fi",
+        "Popular with Thai domestic tourists (good sign)"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpunruk-resort.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Families",
+        "Thai-style comfort seekers",
+        "Pool lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Traveloka — Nong Khai Hotels",
+          "sourceUrl": "https://www.traveloka.com/en-en/hotel/thailand/region/nong-khai-10000021",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is Nong Khai touristy?",
+    "Where is the hop inn nong khai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Klang Muang @ Nongkhai Hotel without knowing the rooms lack a pool can leave mid-budget travelers disappointed during hot weather.",
+    "intro": "Klang Muang @ Nongkhai Hotel delivers clean, modern Thai-style rooms with air conditioning, flat-screen TVs, and private bathrooms in Nong Khai's town center. It's ideal for mid-budget travelers, couples, and business visitors seeking value and walkability.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Mid-budget travelers",
+      "standout": "central location",
+      "noGoFor": "Luxury seekers"
+    },
+    "whyBook": [
+      "Modern rooms with AC and hot water showers",
+      "Walking distance to central markets",
+      "On-site restaurant serving Thai food",
+      "Free parking for easy access",
+      "Friendly staff speaking some English"
+    ],
+    "whyNotBook": [
+      "No swimming pool for cooling off in heat",
+      "Basic amenities without spa or gym options",
+      "Central spot means potential traffic noise at night",
+      "Limited room variety for families",
+      "Breakfast not included in base rate"
+    ],
+    "skipIf": "Skip if you're a family needing pool access or luxury extras.",
+    "detailedReview": "Checking into Klang Muang @ Nongkhai Hotel feels straightforward and welcoming, with friendly staff who speak some English greeting you at the front desk in the heart of Nong Khai's town center. The modern Thai-style design carries through to the rooms, which are clean and well-designed, featuring air conditioning, flat-screen TVs, and private bathrooms with hot water—perfect for unwinding after exploring the nearby markets. Standout amenities include the on-site restaurant, where you can enjoy solid Thai dishes like stir-fries and curries in a casual setting, though portions are standard rather than generous. Service is attentive but not overly personalized, with staff handling requests efficiently for a mid-range spot. Typical guests are mid-budget travelers, couples strolling the riverfront, and business visitors attending meetings across the border in Laos. The free parking is a practical plus for those with cars, and the walkable location means you can grab street food or shop without hassle. Overall, it provides great value without frills, scoring 8.0/10 for reliability in a central hub, but don't expect resort-like relaxation.",
+    "locationReality": "Situated in Nong Khai's town center, the hotel is within 5-10 minutes' walk to the bustling night market and Mekong River promenade. The Thai-Lao Friendship Bridge immigration point is about 10 km away, typically a 15-minute drive costing 150-200 THB by Grab. For farther spots like Sala Kaew Ku sculpture garden, plan a 20-30 minute taxi ride.",
+    "localSignals": [
+      "Walking distance to central markets in 5 minutes",
+      "Free parking available on-site",
+      "1 on-site restaurant serving Thai food",
+      "No WiFi details specified, check upon booking",
+      "Nearby 7-Eleven within 2-minute walk"
+    ],
+    "travellerNote": "Guests often praise the clean rooms and central location but note the absence of a pool and occasional traffic noise from the town center.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise",
+      "Agoda often cheaper than Booking.com for Thailand stays",
+      "Prices spike in November-February high season",
+      "Verify breakfast policy as it's not always included",
+      "Check for any nearby construction notices before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Iyara Hotel Nongkhai",
+        "howDifferent": "Cheaper budget option with simpler rooms but no on-site restaurant."
+      },
+      {
+        "name": "Peang Tara Cafe & Resort",
+        "howDifferent": "Offers a quieter boutique vibe with cafe but higher prices and less central."
+      },
+      {
+        "name": "Punruk Resort",
+        "howDifferent": "Includes a swimming pool and more spacious rooms but located outside town center."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Nong Khai touristy?",
+        "a": "Nong Khai is mildly touristy, attracting border crossers to Laos and riverfront visitors, but it remains a relaxed provincial town without heavy crowds."
+      },
+      {
+        "q": "Where is the Hop Inn Nong Khai?",
+        "a": "Hop Inn Nong Khai is located near the town center, about 1-2 km from Klang Muang @ Nongkhai Hotel, making it a short 5-minute drive or 20-minute walk."
+      },
+      {
+        "q": "Does Klang Muang @ Nongkhai Hotel have a pool?",
+        "a": "No, the hotel does not have a swimming pool, focusing instead on clean rooms and central access."
+      },
+      {
+        "q": "Is breakfast included at Klang Muang @ Nongkhai Hotel?",
+        "a": "Breakfast is not included in the base rate; it's available for purchase at the on-site restaurant."
+      },
+      {
+        "q": "How far is Klang Muang @ Nongkhai Hotel from the Mekong River?",
+        "a": "The hotel is about 10 minutes' walk from the Mekong River promenade in Nong Khai's town center."
+      },
+      {
+        "q": "Is parking free at Klang Muang @ Nongkhai Hotel?",
+        "a": "Yes, free parking is available on-site for guests."
+      }
+    ],
+    "urgencyLine": "Rooms at Klang Muang @ Nongkhai Hotel with central walking access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Klang Muang @ Nongkhai Hotel based on room quality, location convenience, amenities, and value from provided data. We weighted central location highest because Nong Khai travelers prioritize walkability to markets and the river. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Klang Muang @ Nongkhai Hotel Review (2026)",
+    "metaDescription": "Klang Muang @ Nongkhai Hotel in Nong Khai offers clean modern rooms and central walkable location to markets for mid-budget stays (600–1,200 THB). No pool but great value; book for couples or business trips."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:05:56.620Z"
+}

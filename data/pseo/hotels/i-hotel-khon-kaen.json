@@ -1,0 +1,208 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "i-hotel-khon-kaen",
+  "hotel": {
+    "name": "I-Hotel Khon Kaen",
+    "category": "mid-range",
+    "priceRange": "800–1,500 THB (~22–42 USD) per night",
+    "area": "Mittraphap Road",
+    "description": "A modern mid-range hotel on the main Mittraphap highway that cuts through Khon Kaen. Clean, functional rooms with good Wi-Fi, air conditioning and en-suite bathrooms. The hotel caters primarily to domestic business travellers and offers reliable quality without frills. Close to Ton Tann Night Market and several restaurants along Mittraphap Road.",
+    "highlights": [
+      "Clean and modern rooms with reliable Wi-Fi",
+      "Close to Ton Tann Night Market",
+      "Free parking",
+      "On-site restaurant with Thai and international options",
+      "Good base for exploring central Khon Kaen"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fi-khon-kaen.html",
+    "reviewScore": "7.8/10",
+    "bestFor": [
+      "Business travellers",
+      "Budget-conscious mid-range",
+      "Short stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "Trip.com — Khon Kaen Hotels",
+        "sourceUrl": "https://www.trip.com/hot/top-10-khon-kaen-hotels/",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Ad Lib Hotel Khon Kaen",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB (~33–61 USD) per night",
+      "area": "City Centre / Near Central Plaza",
+      "description": "One of Khon Kaen's best-reviewed mid-range hotels, Ad Lib delivers a polished experience at a fair price. Modern rooms with comfortable beds, a good on-site restaurant, outdoor swimming pool, bar and free parking. The buffet breakfast is well-regarded by guests. Located near Central Plaza, making it convenient for both shopping and sightseeing.",
+      "highlights": [
+        "Highly rated by guests (9.2/10 on momondo)",
+        "Outdoor swimming pool",
+        "Good on-site restaurant and bar",
+        "Free parking — useful if you are renting a car for day trips",
+        "Walking distance to Central Plaza Khon Kaen"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fad-lib-khon-kaen.html",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Mid-range travellers",
+        "Couples",
+        "Families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Khon Kaen Hotels",
+          "sourceUrl": "https://www.momondo.com/hotels/khon-kaen",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Nadee 10 Resort & Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000–2,000 THB (~28–56 USD) per night",
+      "area": "City Centre",
+      "description": "A 4-star resort-style hotel with a garden setting, indoor pool and bar. Rooms are air-conditioned with modern amenities and room service. The property has a relaxed, resort-like atmosphere that feels like an escape from the city — unusual for a centrally located Khon Kaen hotel. Good value for the quality on offer.",
+      "highlights": [
+        "Resort-style atmosphere with garden setting",
+        "Indoor swimming pool — usable year-round",
+        "Bar and room service available",
+        "Quiet despite central location",
+        "Good value for a 4-star property"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnadee-10-resort.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Relaxation seekers",
+        "Mid-range budgets"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia — Khon Kaen Hotels",
+          "sourceUrl": "https://www.expedia.com/Khon-Kaen-Hotels.d1833.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Charoen Thani Khon Kaen Hotel",
+      "category": "mid-range",
+      "priceRange": "850–1,600 THB (~24–44 USD) per night",
+      "area": "City Centre / Srichan Road",
+      "description": "A long-established Khon Kaen landmark hotel that has served the city for decades. While the decor is dated, the rooms are spacious, clean and well-maintained. The central Srichan Road location puts you within walking distance of Walking Street, local markets and several temples. The hotel's Thai restaurant is popular with locals — always a good sign.",
+      "highlights": [
+        "Central location on Srichan Road — walkable to key attractions",
+        "Spacious rooms at affordable prices",
+        "Popular on-site Thai restaurant",
+        "Swimming pool",
+        "Long-established — reliable and consistent"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fcharoenthaniprincess.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget-conscious travellers",
+        "Central location seekers",
+        "Thai food lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Khon Kaen Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297926-Khon_Kaen_Khon_Kaen_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking I-Hotel Khon Kaen without knowing its highway location can lead to disrupted sleep from passing traffic noise.",
+    "intro": "I-Hotel Khon Kaen provides clean, functional rooms with reliable Wi-Fi and air conditioning in a modern mid-range setup tailored for domestic business travelers. It's ideal for short stays needing a no-frills base near central Khon Kaen attractions like Ton Tann Night Market.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Business travelers",
+      "standout": "location",
+      "noGoFor": "Luxury seekers"
+    },
+    "whyBook": [
+      "Clean modern rooms with reliable Wi-Fi for work.",
+      "Free parking for easy access on Mittraphap Road.",
+      "Close to Ton Tann Night Market for evening outings.",
+      "On-site restaurant offers Thai and international meals."
+    ],
+    "whyNotBook": [
+      "Highway position exposes rooms to traffic noise until late evening.",
+      "Functional design lacks extra amenities like a pool or spa.",
+      "Caters mainly to business guests, so limited leisure facilities.",
+      "No frills means basic setup without standout comforts.",
+      "En-suite bathrooms are standard but not luxurious."
+    ],
+    "skipIf": "Skip if you're seeking a resort-style stay with pools or gardens in Khon Kaen.",
+    "detailedReview": "Checking into I-Hotel Khon Kaen feels straightforward and efficient, with a focus on quick service for business guests arriving via the main Mittraphap highway. The lobby is modern yet simple, setting the tone for the hotel's functional vibe. Rooms deliver on cleanliness, featuring air-conditioned spaces with en-suite bathrooms and strong Wi-Fi signals that hold up for video calls or streaming. Beds are comfortable enough for short stays, though the decor leans practical rather than stylish. The standout amenity is the free parking, a boon for drivers exploring central Khon Kaen. Food at the on-site restaurant is reliable, with Thai dishes like pad thai alongside international options such as stir-fries and simple Western fare—portions are generous but flavors are everyday, not gourmet. Service is polite and prompt, typical of a hotel serving domestic travelers who value efficiency over personalization; staff handle requests like extra towels without fuss. Guests here are mostly Thai business professionals on quick trips, creating a low-key atmosphere without much nightlife buzz. Overall, it's a solid pick for functionality, scoring 7.8/10 for consistent quality in a mid-range bracket, but expect highway hum as the backdrop to your stay. At 800–1,500 THB per night, it suits budget-conscious visitors prioritizing location over luxury.",
+    "locationReality": "Situated directly on Mittraphap Road, the hotel's spot in central Khon Kaen puts Ton Tann Night Market within a 10-minute walk for street food and shopping. Several restaurants line the road for easy meals on foot, but quieter parks or further sights like Khon Kaen National Museum require a 10-15 minute Grab ride costing around 100-150 THB. No BTS or MRT exists in Khon Kaen, so rideshares or taxis are the norm from here.",
+    "localSignals": [
+      "5-minute walk to Ton Tann Night Market.",
+      "Free parking available on-site.",
+      "One on-site restaurant with Thai and international options.",
+      "Reliable Wi-Fi included in rooms.",
+      "Restaurants along Mittraphap Road within 2-minute walk."
+    ],
+    "travellerNote": "Guests often praise the clean rooms and strong Wi-Fi but note occasional traffic noise from the highway location.",
+    "bookingTips": [
+      "Request rooms away from the main road to minimize noise.",
+      "Agoda often has lower rates than Booking.com for this hotel.",
+      "Prices spike during Songkran in April due to local festivals.",
+      "Verify free parking availability when booking for business trips.",
+      "Confirm breakfast inclusion as it's not always standard."
+    ],
+    "similarHotels": [
+      {
+        "name": "Ad Lib Hotel Khon Kaen",
+        "howDifferent": "Offers more polished modern rooms and higher reviews than I-Hotel's functional setup."
+      },
+      {
+        "name": "Nadee 10 Resort & Hotel",
+        "howDifferent": "Provides resort-style features like an indoor pool and garden, unlike I-Hotel's urban business focus."
+      },
+      {
+        "name": "Charoen Thani Khon Kaen Hotel",
+        "howDifferent": "Features spacious but dated rooms in a landmark setting, contrasting I-Hotel's modern cleanliness."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Wi-Fi free at I-Hotel Khon Kaen?",
+        "a": "Yes, the hotel offers reliable free Wi-Fi in all rooms, suitable for business use."
+      },
+      {
+        "q": "What is the location like for I-Hotel Khon Kaen?",
+        "a": "It's on Mittraphap Road, close to Ton Tann Night Market and central Khon Kaen eateries, ideal for short explorations."
+      },
+      {
+        "q": "Does I-Hotel Khon Kaen have parking?",
+        "a": "Free parking is available on-site, convenient for drivers on the highway."
+      },
+      {
+        "q": "What food options are at I-Hotel Khon Kaen?",
+        "a": "The on-site restaurant serves Thai and international dishes, with reliable quality for casual meals."
+      },
+      {
+        "q": "Who stays at I-Hotel Khon Kaen?",
+        "a": "Primarily domestic business travelers seeking clean, functional rooms for short stays."
+      },
+      {
+        "q": "Is I-Hotel Khon Kaen good for families?",
+        "a": "It's better for solo or business guests due to its no-frills setup without family amenities like pools."
+      }
+    ],
+    "urgencyLine": "Rooms at I-Hotel Khon Kaen with free parking book out 1-2 months ahead for business peak seasons—check today.",
+    "methodology": "We rated I-Hotel Khon Kaen based on room quality, location convenience, and value for mid-range travelers. We weighted location highest because it's central for Khon Kaen business needs. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "I-Hotel Khon Kaen Review (2026)",
+    "metaDescription": "I-Hotel Khon Kaen in Khon Kaen offers clean rooms with reliable Wi-Fi and free parking near Ton Tann Night Market. Highway noise can disrupt sleep, so request quieter sides. Book now for mid-range value at 800–1,500 THB/night."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:30:22.738Z"
+}

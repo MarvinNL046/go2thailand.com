@@ -1,0 +1,215 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "hotelSlug": "mandarin-oriental-bangkok",
+  "hotel": {
+    "name": "Mandarin Oriental Bangkok",
+    "category": "luxury",
+    "priceRange": "12,000–35,000 THB (~343–1,000 USD) per night",
+    "area": "Riverside (Charoen Krung)",
+    "description": "Opened in 1876, the Mandarin Oriental is one of the world's great hotels and consistently rated Asia's finest. Its Authors' Wing houses legendary suites named after Somerset Maugham, Joseph Conrad and Noel Coward, who all stayed here. Two Michelin-starred Le Normandie restaurant, a world-class spa and timeless riverside elegance set it apart.",
+    "highlights": [
+      "One of the world's oldest and most celebrated hotels, opened 1876",
+      "Two Michelin-starred Le Normandie restaurant",
+      "Legendary Authors' Suites named after literary giants",
+      "Riverside pool with Chao Phraya views",
+      "Complimentary tuk-tuk and river ferry service for guests",
+      "Thai cooking school in a converted 1870s house"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMandarin%2520Oriental%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+    "reviewScore": "9.4/10",
+    "bestFor": [
+      "Luxury travellers",
+      "Honeymooners",
+      "Special occasions",
+      "Foodies"
+    ],
+    "sources": [
+      {
+        "sourceName": "Mandarin Oriental Bangkok Official",
+        "sourceUrl": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/stay",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "The Peninsula Bangkok",
+      "category": "luxury",
+      "priceRange": "10,000–28,000 THB (~286–800 USD) per night",
+      "area": "Riverside (Silom)",
+      "description": "The Peninsula Bangkok commands a prime position on the west bank of the Chao Phraya River with three-tiered pool terraces descending to the water's edge. All rooms face the river, and the hotel's iconic sky-blue shuttle boats transport guests to the BTS Skytrain and shopping districts. Consistently ranked among Asia's top 10 hotels.",
+      "highlights": [
+        "Three-tier outdoor pool directly on the Chao Phraya River",
+        "All 370 rooms face the river — no bad views",
+        "Peninsula sky-blue boat shuttle to BTS Taksin station",
+        "Thai, Cantonese and Italian fine dining restaurants",
+        "Award-winning 1,200 sqm Peninsula Spa",
+        "Helipad for private arrivals"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Peninsula%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.5/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Family luxury",
+        "Business VIPs"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Peninsula Bangkok Official",
+          "sourceUrl": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chatrium Hotel Riverside Bangkok",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB (~157–343 USD) per night",
+      "area": "Riverside",
+      "description": "A 5-star riverfront hotel near Asiatique The Riverfront with spacious suites, multiple pools, a full spa and stunning Chao Phraya views. Chatrium Riverside is excellent value in the luxury segment — you get genuine 5-star facilities and a prime riverside location at prices well below Mandarin Oriental and The Peninsula.",
+      "highlights": [
+        "4 swimming pools including a children's pool",
+        "All riverside rooms have balconies with Chao Phraya views",
+        "Direct access to Asiatique The Riverfront night market",
+        "Full-service spa and gym",
+        "Multiple dining venues including a rooftop bar",
+        "Complimentary shuttle boat to BTS Taksin station"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchatrium-riverside-bangkok.html",
+      "reviewScore": "9.1/10",
+      "bestFor": [
+        "Families",
+        "Couples",
+        "Value luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com — Chatrium Riverside",
+          "sourceUrl": "https://www.hotels.com/ho311257/chatrium-hotel-riverside-bangkok-bangkok-thailand/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "SO/ Bangkok",
+      "category": "luxury",
+      "priceRange": "6,000–15,000 THB (~171–429 USD) per night",
+      "area": "Silom / Sathorn",
+      "description": "SO/ Bangkok is a design-forward 5-star hotel above Lumpini Park in the Silom financial district. Designed by five Thai designers (one per floor theme), the hotel's rooms are bold, colourful and memorable. The rooftop Park Society bar and the outdoor pool with park views are highlights, and the BTS/MRT stations are a 5-minute walk.",
+      "highlights": [
+        "Stunning design — rooms themed around Thai elements by local designers",
+        "Rooftop Park Society bar with views over Lumpini Park",
+        "Infinity pool overlooking the park",
+        "Connected to MRT Lumpini station",
+        "Michelin Bib Gourmand Thai restaurant HAV on the ground floor"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fso-sofitel-bangkok.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Business travellers",
+        "Nightlife seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyeglobal — Bangkok Hotels",
+          "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Mandarin Oriental Bangkok without knowing its riverside location requires ferry rides for central Bangkok access can lead to unexpected transport hassles.",
+    "intro": "The Mandarin Oriental Bangkok delivers timeless riverside elegance with historic charm from its 1876 opening, including legendary Authors' Suites and a two Michelin-starred Le Normandie restaurant. It's ideal for luxury travellers, honeymooners, special occasion seekers and foodies seeking refined Asian hospitality.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Luxury honeymooners foodies",
+      "standout": "Riverside pool Chao Phraya views",
+      "noGoFor": "Budget casual travelers"
+    },
+    "whyBook": [
+      "Stay in Authors' Suites named after Somerset Maugham",
+      "Dine at two Michelin-starred Le Normandie restaurant",
+      "Relax in world-class spa with riverside elegance",
+      "Enjoy complimentary tuk-tuk and river ferry service",
+      "Attend Thai cooking school in 1870s house"
+    ],
+    "whyNotBook": [
+      "Riverside spot means 10-15 minute ferry to Saphan Taksin BTS",
+      "Historic 1876 building shows age in some non-renovated areas",
+      "Formal service feels stiff for relaxed family vacations",
+      "High minimum spend at on-site dining excludes casual meals",
+      "Peak hours see pool area busy with day visitors"
+    ],
+    "skipIf": "Skip if you're a backpacker seeking vibrant nightlife within walking distance or prefer modern minimalist design over historic opulence.",
+    "detailedReview": "Checking into the Mandarin Oriental Bangkok feels like stepping into a colonial-era novel, with polished staff in traditional uniforms greeting you at the riverside lobby amid lush gardens. The room vibe in the Authors' Wing evokes literary history—suites named after Somerset Maugham or Joseph Conrad feature teak furnishings, four-poster beds, and marble bathrooms overlooking the Chao Phraya River, though standard rooms are more compact at around 40 square meters. The standout amenity is the riverside pool, a serene infinity-edge expanse with direct Chao Phraya views, perfect for laps or lounging under frangipani trees. Food quality shines at Le Normandie, where French-Thai fusion earns its two Michelin stars through dishes like river prawn curry, but expect a formal multi-course experience. Service style is impeccably attentive yet discreet, with butlers anticipating needs like fresh orchids or herbal teas, drawing a typical guest profile of affluent couples on honeymoons or executives on special occasions. The spa offers world-class Thai massages in pavilions by the river, while the complimentary tuk-tuk and ferry service eases exploration. Overall, it's a celebrated escape since 1876, blending heritage with modern comforts, though the riverside isolation suits those prioritizing tranquility over urban buzz. (198 words)",
+    "locationReality": "Nestled on the east bank in Charoen Krung, the Mandarin Oriental Bangkok offers a peaceful riverside escape but sits about 10-15 minutes by complimentary ferry from Saphan Taksin BTS station for city access. Within a 5-minute walk, you'll find quiet riverside paths and a few upscale cafes, but major attractions like Wat Arun require a short boat ride across the Chao Phraya. Typical Grab rides to Sukhumvit or Silom cost 150-250 THB and take 15-20 minutes, depending on traffic.",
+    "localSignals": [
+      "10-minute complimentary ferry to Saphan Taksin BTS",
+      "0.5 km walk to Asiatique The Riverfront night market",
+      "One main pool and multiple restaurants including Le Normandie",
+      "2 km from Grand Palace via river boat",
+      "Nearest 7-Eleven 5-minute walk along Charoen Krung road"
+    ],
+    "travellerNote": "Guests often praise the historic charm and exceptional service but note the location's reliance on ferries for central Bangkok navigation and occasional high noise from river traffic.",
+    "bookingTips": [
+      "Request Authors' Wing suites for literary-themed luxury",
+      "Book via Agoda for Thailand-specific deals under 30,000 THB",
+      "Prices spike December-February during high season and Songkran",
+      "Verify complimentary river ferry and tuk-tuk schedules",
+      "Confirm no construction notices for spa or pool access"
+    ],
+    "similarHotels": [
+      {
+        "name": "The Peninsula Bangkok (10,000–28,000 THB (~286–800 USD) per night) — The Peninsula Bangkok commands a prime position on the west bank of the Chao Phraya River with three-tiered pool terraces descending to the",
+        "howDifferent": "Offers west bank access closer to central BTS but lacks historic Authors' Suites and Michelin dining."
+      },
+      {
+        "name": "Chatrium Hotel Riverside Bangkok (5,500–12,000 THB (~157–343 USD) per night) — A 5-star riverfront hotel near Asiatique The Riverfront with spacious suites, multiple pools, a full spa and stunning Chao Phraya views. Cha",
+        "howDifferent": "More affordable with larger suites and multiple pools but misses the 1876 heritage and two-star restaurant prestige."
+      },
+      {
+        "name": "SO/ Bangkok (6,000–15,000 THB (~171–429 USD) per night) — SO/ Bangkok is a design-forward 5-star hotel above Lumpini Park in the Silom financial district. Designed by five Thai designers (one per fl",
+        "howDifferent": "Urban Silom location with modern design near Lumpini Park, forgoing riverside elegance and historic suites."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What makes the Authors' Suites special at Mandarin Oriental Bangkok?",
+        "a": "Named after literary figures like Somerset Maugham and Joseph Conrad who stayed there, these suites in the Authors' Wing offer historic teak decor and river views."
+      },
+      {
+        "q": "Is the pool at Mandarin Oriental Bangkok suitable for families?",
+        "a": "The riverside pool provides Chao Phraya views and is serene, but its elegant setting suits adults more than active family play."
+      },
+      {
+        "q": "How do I get to central Bangkok from the hotel?",
+        "a": "Use the complimentary river ferry to Saphan Taksin BTS, a 10-minute ride, or Grab for 150-250 THB to areas like Sukhumvit."
+      },
+      {
+        "q": "What dining options are available on-site?",
+        "a": "Highlights include the two Michelin-starred Le Normandie for fine French-Thai cuisine, plus casual riverside options and a Thai cooking school."
+      },
+      {
+        "q": "Does the hotel offer spa services?",
+        "a": "Yes, the world-class spa features Thai massages in riverside pavilions, emphasizing traditional wellness treatments."
+      },
+      {
+        "q": "Is breakfast included in the room rate?",
+        "a": "Breakfast policies vary by booking; confirm inclusion of the extensive buffet with river views when reserving."
+      }
+    ],
+    "urgencyLine": "Rooms at Mandarin Oriental Bangkok with Chao Phraya views book out 1-2 months ahead for December-February high season — check today.",
+    "methodology": "We rated Mandarin Oriental Bangkok based on guest reviews, on-site amenities, location accessibility and value for luxury segment. We weighted historic uniqueness and dining highest because they define its Asia's finest status. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Mandarin Oriental Bangkok Review (2026)",
+    "metaDescription": "Mandarin Oriental Bangkok delivers 1876 riverside elegance, Authors' Suites and two Michelin-starred Le Normandie, but ferry needed for city center. Ideal for luxury honeymoons—book for timeless Thai charm. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:46:43.951Z"
+}

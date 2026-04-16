@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "charoen-thani-khon-kaen-hotel",
+  "hotel": {
+    "name": "Charoen Thani Khon Kaen Hotel",
+    "category": "mid-range",
+    "priceRange": "850–1,600 THB (~24–44 USD) per night",
+    "area": "City Centre / Srichan Road",
+    "description": "A long-established Khon Kaen landmark hotel that has served the city for decades. While the decor is dated, the rooms are spacious, clean and well-maintained. The central Srichan Road location puts you within walking distance of Walking Street, local markets and several temples. The hotel's Thai restaurant is popular with locals — always a good sign.",
+    "highlights": [
+      "Central location on Srichan Road — walkable to key attractions",
+      "Spacious rooms at affordable prices",
+      "Popular on-site Thai restaurant",
+      "Swimming pool",
+      "Long-established — reliable and consistent"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fcharoenthaniprincess.html",
+    "reviewScore": "7.5/10",
+    "bestFor": [
+      "Budget-conscious travellers",
+      "Central location seekers",
+      "Thai food lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Khon Kaen Hotels",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297926-Khon_Kaen_Khon_Kaen_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Ad Lib Hotel Khon Kaen",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB (~33–61 USD) per night",
+      "area": "City Centre / Near Central Plaza",
+      "description": "One of Khon Kaen's best-reviewed mid-range hotels, Ad Lib delivers a polished experience at a fair price. Modern rooms with comfortable beds, a good on-site restaurant, outdoor swimming pool, bar and free parking. The buffet breakfast is well-regarded by guests. Located near Central Plaza, making it convenient for both shopping and sightseeing.",
+      "highlights": [
+        "Highly rated by guests (9.2/10 on momondo)",
+        "Outdoor swimming pool",
+        "Good on-site restaurant and bar",
+        "Free parking — useful if you are renting a car for day trips",
+        "Walking distance to Central Plaza Khon Kaen"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fad-lib-khon-kaen.html",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Mid-range travellers",
+        "Couples",
+        "Families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Khon Kaen Hotels",
+          "sourceUrl": "https://www.momondo.com/hotels/khon-kaen",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Nadee 10 Resort & Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000–2,000 THB (~28–56 USD) per night",
+      "area": "City Centre",
+      "description": "A 4-star resort-style hotel with a garden setting, indoor pool and bar. Rooms are air-conditioned with modern amenities and room service. The property has a relaxed, resort-like atmosphere that feels like an escape from the city — unusual for a centrally located Khon Kaen hotel. Good value for the quality on offer.",
+      "highlights": [
+        "Resort-style atmosphere with garden setting",
+        "Indoor swimming pool — usable year-round",
+        "Bar and room service available",
+        "Quiet despite central location",
+        "Good value for a 4-star property"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnadee-10-resort.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Relaxation seekers",
+        "Mid-range budgets"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia — Khon Kaen Hotels",
+          "sourceUrl": "https://www.expedia.com/Khon-Kaen-Hotels.d1833.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "I-Hotel Khon Kaen",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~22–42 USD) per night",
+      "area": "Mittraphap Road",
+      "description": "A modern mid-range hotel on the main Mittraphap highway that cuts through Khon Kaen. Clean, functional rooms with good Wi-Fi, air conditioning and en-suite bathrooms. The hotel caters primarily to domestic business travellers and offers reliable quality without frills. Close to Ton Tann Night Market and several restaurants along Mittraphap Road.",
+      "highlights": [
+        "Clean and modern rooms with reliable Wi-Fi",
+        "Close to Ton Tann Night Market",
+        "Free parking",
+        "On-site restaurant with Thai and international options",
+        "Good base for exploring central Khon Kaen"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fi-khon-kaen.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Business travellers",
+        "Budget-conscious mid-range",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com — Khon Kaen Hotels",
+          "sourceUrl": "https://www.trip.com/hot/top-10-khon-kaen-hotels/",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Charoen Thani Khon Kaen Hotel without knowing the dated decor can lead to disappointment in the overall aesthetic experience.",
+    "intro": "Charoen Thani Khon Kaen Hotel offers spacious, clean rooms in a reliable, long-established setting with a central location on Srichan Road, ideal for walking to local attractions. It's best suited for budget-conscious travelers who prioritize affordability, central access, and authentic Thai dining over modern luxury.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Budget central explorers",
+      "standout": "central location",
+      "noGoFor": "Modern luxury seekers"
+    },
+    "whyBook": [
+      "Walk to Walking Street and markets from Srichan Road",
+      "Spacious rooms starting at 850 THB per night",
+      "Popular on-site Thai restaurant favored by locals",
+      "Reliable swimming pool for afternoon dips",
+      "Consistent service from decades-old establishment"
+    ],
+    "whyNotBook": [
+      "Dated decor throughout common areas and rooms",
+      "No modern amenities like smart TVs or minibars",
+      "Potential noise from central Srichan Road traffic",
+      "Limited room variety beyond standard spacious layouts",
+      "Breakfast options not highlighted, may feel basic"
+    ],
+    "skipIf": "Skip if you require contemporary design and high-tech room features in your stay.",
+    "detailedReview": "Checking into Charoen Thani Khon Kaen Hotel feels like stepping into a familiar Khon Kaen institution, with a straightforward lobby process that's efficient but unpretentious, often handled by long-time staff who know the city well. Rooms deliver on spaciousness, easily fitting king beds and work desks without feeling cramped, and they're kept clean with fresh linens and functional air conditioning—though the decor leans toward 1990s Thai motifs with worn carpets and faded wallpapers that show the hotel's age. The standout amenity is the swimming pool, a simple outdoor setup that's refreshing after exploring the city, surrounded by basic lounge chairs without frills. Food at the on-site Thai restaurant shines with local favorites like som tam and pad Thai, drawing regulars for its authentic flavors and reasonable prices, served in a casual dining room that buzzes in evenings. Service is consistently polite and reliable, with staff quick to assist on directions to nearby temples or markets, reflecting the hotel's decades of operation. Typical guests include Thai business travelers, families on short trips, and international backpackers valuing the central spot over glamour—it's a no-nonsense base for those focused on Khon Kaen's urban vibe rather than resort escapes. Overall, it holds up as a solid mid-range choice at 7.5/10, prioritizing practicality over polish.",
+    "locationReality": "Situated on Srichan Road in Khon Kaen's city center, the hotel is a 5-10 minute walk to Walking Street for evening markets and street food. Local temples like Phra That Kham Kaen are reachable in 15 minutes on foot, while major shopping at Central Plaza requires a 10-minute Grab ride costing around 50-80 THB. The area hums with daily traffic, but proximity to eateries and convenience stores makes short errands effortless without transport.",
+    "localSignals": [
+      "5-10 minute walk to Walking Street market",
+      "1 swimming pool on property",
+      "1 on-site Thai restaurant",
+      "Central Srichan Road location near temples",
+      "Typical Grab to Central Plaza: 50-80 THB"
+    ],
+    "travellerNote": "Guests often praise the spacious rooms, central location, and popular Thai restaurant but note the dated decor and occasional traffic noise from the main road.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize Srichan Road noise",
+      "Check Agoda for lowest rates on this Thailand hotel",
+      "Prices spike during Khon Kaen Silk Fair in November",
+      "Verify swimming pool hours before booking family stays",
+      "Confirm breakfast inclusion as it's not standard"
+    ],
+    "similarHotels": [
+      {
+        "name": "Ad Lib Hotel Khon Kaen",
+        "howDifferent": "Offers modern rooms and higher reviews compared to the dated but spacious setup here."
+      },
+      {
+        "name": "Nadee 10 Resort & Hotel",
+        "howDifferent": "Provides a resort-style garden with indoor pool, contrasting the urban central focus."
+      },
+      {
+        "name": "I-Hotel Khon Kaen",
+        "howDifferent": "Features cleaner, more functional design on the highway, less walkable to city attractions."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Charoen Thani Khon Kaen Hotel have a swimming pool?",
+        "a": "Yes, it includes a basic outdoor swimming pool suitable for guests seeking a quick refresh."
+      },
+      {
+        "q": "Is the location walkable to Khon Kaen attractions?",
+        "a": "Absolutely, it's on Srichan Road with Walking Street, markets, and temples within 5-15 minutes on foot."
+      },
+      {
+        "q": "What type of food is served at the hotel restaurant?",
+        "a": "The on-site Thai restaurant specializes in local dishes like curries and noodles, popular among residents."
+      },
+      {
+        "q": "Are rooms at Charoen Thani Khon Kaen Hotel spacious?",
+        "a": "Yes, rooms are notably spacious and well-maintained, offering good value for mid-range stays."
+      },
+      {
+        "q": "How far is the hotel from Khon Kaen Airport?",
+        "a": "It's about 30-40 minutes by car; expect a Grab fare of 300-400 THB for the transfer."
+      },
+      {
+        "q": "Is WiFi free at Charoen Thani Khon Kaen Hotel?",
+        "a": "WiFi is typically available in rooms and common areas, though speed may vary in this established property."
+      }
+    ],
+    "urgencyLine": "Rooms at Charoen Thani Khon Kaen Hotel with central Srichan Road views book out 1-2 months ahead for peak festival seasons—check today.",
+    "methodology": "We rated Charoen Thani Khon Kaen Hotel based on location accessibility, room comfort, amenities, and value from guest feedback and property details. We weighted central location highest because Khon Kaen travelers prioritize walkability to markets and temples. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Charoen Thani Khon Kaen Hotel Review",
+    "metaDescription": "Charoen Thani Khon Kaen Hotel in Khon Kaen offers spacious rooms and a central Srichan Road spot walkable to markets, but dated decor may disappoint modern tastes. Mid-range at 850–1,600 THB; book for reliable Thai eats and pool access—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:30:43.428Z"
+}

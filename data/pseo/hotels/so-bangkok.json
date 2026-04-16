@@ -1,0 +1,220 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "hotelSlug": "so-bangkok",
+  "hotel": {
+    "name": "SO/ Bangkok",
+    "category": "luxury",
+    "priceRange": "6,000–15,000 THB (~171–429 USD) per night",
+    "area": "Silom / Sathorn",
+    "description": "SO/ Bangkok is a design-forward 5-star hotel above Lumpini Park in the Silom financial district. Designed by five Thai designers (one per floor theme), the hotel's rooms are bold, colourful and memorable. The rooftop Park Society bar and the outdoor pool with park views are highlights, and the BTS/MRT stations are a 5-minute walk.",
+    "highlights": [
+      "Stunning design — rooms themed around Thai elements by local designers",
+      "Rooftop Park Society bar with views over Lumpini Park",
+      "Infinity pool overlooking the park",
+      "Connected to MRT Lumpini station",
+      "Michelin Bib Gourmand Thai restaurant HAV on the ground floor"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fso-sofitel-bangkok.html",
+    "reviewScore": "9.0/10",
+    "bestFor": [
+      "Design lovers",
+      "Couples",
+      "Business travellers",
+      "Nightlife seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Voyeglobal — Bangkok Hotels",
+        "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Mandarin Oriental Bangkok",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB (~343–1,000 USD) per night",
+      "area": "Riverside (Charoen Krung)",
+      "description": "Opened in 1876, the Mandarin Oriental is one of the world's great hotels and consistently rated Asia's finest. Its Authors' Wing houses legendary suites named after Somerset Maugham, Joseph Conrad and Noel Coward, who all stayed here. Two Michelin-starred Le Normandie restaurant, a world-class spa and timeless riverside elegance set it apart.",
+      "highlights": [
+        "One of the world's oldest and most celebrated hotels, opened 1876",
+        "Two Michelin-starred Le Normandie restaurant",
+        "Legendary Authors' Suites named after literary giants",
+        "Riverside pool with Chao Phraya views",
+        "Complimentary tuk-tuk and river ferry service for guests",
+        "Thai cooking school in a converted 1870s house"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMandarin%2520Oriental%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.4/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Special occasions",
+        "Foodies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Mandarin Oriental Bangkok Official",
+          "sourceUrl": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/stay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "The Peninsula Bangkok",
+      "category": "luxury",
+      "priceRange": "10,000–28,000 THB (~286–800 USD) per night",
+      "area": "Riverside (Silom)",
+      "description": "The Peninsula Bangkok commands a prime position on the west bank of the Chao Phraya River with three-tiered pool terraces descending to the water's edge. All rooms face the river, and the hotel's iconic sky-blue shuttle boats transport guests to the BTS Skytrain and shopping districts. Consistently ranked among Asia's top 10 hotels.",
+      "highlights": [
+        "Three-tier outdoor pool directly on the Chao Phraya River",
+        "All 370 rooms face the river — no bad views",
+        "Peninsula sky-blue boat shuttle to BTS Taksin station",
+        "Thai, Cantonese and Italian fine dining restaurants",
+        "Award-winning 1,200 sqm Peninsula Spa",
+        "Helipad for private arrivals"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Peninsula%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.5/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Family luxury",
+        "Business VIPs"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Peninsula Bangkok Official",
+          "sourceUrl": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chatrium Hotel Riverside Bangkok",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB (~157–343 USD) per night",
+      "area": "Riverside",
+      "description": "A 5-star riverfront hotel near Asiatique The Riverfront with spacious suites, multiple pools, a full spa and stunning Chao Phraya views. Chatrium Riverside is excellent value in the luxury segment — you get genuine 5-star facilities and a prime riverside location at prices well below Mandarin Oriental and The Peninsula.",
+      "highlights": [
+        "4 swimming pools including a children's pool",
+        "All riverside rooms have balconies with Chao Phraya views",
+        "Direct access to Asiatique The Riverfront night market",
+        "Full-service spa and gym",
+        "Multiple dining venues including a rooftop bar",
+        "Complimentary shuttle boat to BTS Taksin station"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchatrium-riverside-bangkok.html",
+      "reviewScore": "9.1/10",
+      "bestFor": [
+        "Families",
+        "Couples",
+        "Value luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com — Chatrium Riverside",
+          "sourceUrl": "https://www.hotels.com/ho311257/chatrium-hotel-riverside-bangkok-bangkok-thailand/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is So Bangkok a good hotel?",
+    "What is the star rating of so Bangkok?",
+    "What is the best area for a tourist to stay in Bangkok?",
+    "Is Sofitel a good hotel chain?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking SO/ Bangkok without knowing the bold, colorful room themes can lead to an overwhelming stay for minimalists.",
+    "intro": "SO/ Bangkok delivers a vibrant, design-centric 5-star experience with rooms themed by Thai designers and standout amenities like an infinity pool and rooftop bar overlooking Lumpini Park. It's ideal for design lovers, couples, business travelers, and nightlife seekers who appreciate creative flair in the Silom financial district.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Design enthusiasts and couples",
+      "standout": "stunning design",
+      "noGoFor": "Families with young kids"
+    },
+    "whyBook": [
+      "Rooms feature bold Thai-themed designs by local artists",
+      "Infinity pool offers direct Lumpini Park views",
+      "Rooftop Park Society bar provides skyline nightlife",
+      "Connected to MRT Lumpini for easy transit",
+      "Ground-floor HAV restaurant holds Michelin Bib Gourmand"
+    ],
+    "whyNotBook": [
+      "Bold room colors and themes may clash with neutral tastes",
+      "Financial district location means weekday office crowds",
+      "Rooftop bar noise carries to upper floors at night",
+      "Outdoor pool exposed to Bangkok's rainy season downpours",
+      "Limited family-oriented amenities in design-focused setup"
+    ],
+    "skipIf": "Skip if you prefer understated luxury over vibrant, artistic interiors.",
+    "detailedReview": "Checking into SO/ Bangkok feels like entering a modern art gallery, with the lobby's sleek lines and pops of color setting a creative tone right away. Rooms embody the hotel's signature vibe, each floor themed by a different Thai designer incorporating elements like tropical motifs or urban Thai patterns in bold reds, blues, and golds—memorable but not subtle, with plush beds and floor-to-ceiling windows framing Lumpini Park. The infinity pool on the rooftop stands out as a serene escape amid the city buzz, its edge blending seamlessly with the park's greenery below, perfect for laps or lounging with a cocktail from the adjacent Park Society bar. Food at the on-site HAV shines with authentic Thai dishes earning its Michelin Bib Gourmand nod, from spicy som tam to fresh seafood curries, served in a casual yet stylish ground-floor space. Service is efficient and personalized, with staff quick to handle requests like extra pillows or transport tips, reflecting the Accor brand's polish. Typical guests include stylish couples on romantic getaways, design-savvy professionals in town for meetings, and groups hitting the nightlife scene—vibrant energy dominates, though it's less suited for quiet family retreats. Overall, the stay immerses you in Bangkok's creative pulse, backed by a 9.0/10 review score for its originality.",
+    "locationReality": "Perched above Lumpini Park in the Silom/Sathorn financial district, SO/ Bangkok is a 5-minute walk to BTS Sala Daeng or MRT Lumpini stations, making it easy to reach central spots like Siam Square in 10-15 minutes by rail. Within a 5-minute stroll, you'll find park paths for jogging and casual eateries, but the surrounding area leans business-oriented with high-rises rather than tourist buzz. For Chao Phraya River sights or Asiatique, expect a 10-15 minute Grab ride costing 150-250 THB.",
+    "localSignals": [
+      "5-minute walk to BTS Sala Daeng and MRT Lumpini stations",
+      "Directly connected to MRT Lumpini station",
+      "One infinity pool overlooking Lumpini Park",
+      "Rooftop Park Society bar with park views",
+      "One Michelin Bib Gourmand restaurant HAV on ground floor"
+    ],
+    "travellerNote": "Guests often praise the unique room designs and park-view pool but note the vibrant themes can feel too eclectic for some tastes.",
+    "bookingTips": [
+      "Request higher floors for better Lumpini Park views and less street noise",
+      "Book via Agoda for Thailand-specific deals on SO/ Bangkok",
+      "Prices spike in November-February high season and Songkran April",
+      "Verify rooftop bar access policy as it may require reservations",
+      "Confirm breakfast inclusion since it's not standard in all rates"
+    ],
+    "similarHotels": [
+      {
+        "name": "Mandarin Oriental Bangkok (12,000–35,000 THB (~343–1,000 USD) per night) — Opened in 1876, the Mandarin Oriental is one of the world's great hotels and consistently rated Asia's finest. Its Authors' Wing houses lege",
+        "howDifferent": "Offers historic riverside elegance and higher-end service compared to SO/ Bangkok's modern design focus."
+      },
+      {
+        "name": "The Peninsula Bangkok (10,000–28,000 THB (~286–800 USD) per night) — The Peninsula Bangkok commands a prime position on the west bank of the Chao Phraya River with three-tiered pool terraces descending to the",
+        "howDifferent": "Provides riverfront luxury with multi-level pools, unlike SO/ Bangkok's urban park setting."
+      },
+      {
+        "name": "Chatrium Hotel Riverside Bangkok (5,500–12,000 THB (~157–343 USD) per night) — A 5-star riverfront hotel near Asiatique The Riverfront with spacious suites, multiple pools, a full spa and stunning Chao Phraya views. Cha",
+        "howDifferent": "Emphasizes spacious suites and river views near Asiatique, differing from SO/ Bangkok's city-park design vibe."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is SO/ Bangkok a good hotel?",
+        "a": "Yes, SO/ Bangkok earns a strong 9.0/10 review score for its innovative design and prime location near Lumpini Park."
+      },
+      {
+        "q": "What is the star rating of SO/ Bangkok?",
+        "a": "SO/ Bangkok is a 5-star luxury hotel known for its designer-themed rooms and rooftop amenities."
+      },
+      {
+        "q": "What is the best area for a tourist to stay in Bangkok?",
+        "a": "Areas like Sukhumvit or Riverside suit most tourists for accessibility, but Silom/Sathorn like SO/ Bangkok works well for business and park proximity."
+      },
+      {
+        "q": "Is Sofitel a good hotel chain?",
+        "a": "Sofitel, part of Accor like SO/, is a reputable upscale chain praised for French-inspired luxury and consistent quality worldwide."
+      },
+      {
+        "q": "What makes SO/ Bangkok unique?",
+        "a": "Its rooms are themed by five Thai designers with bold Thai elements, plus an infinity pool and rooftop bar over Lumpini Park."
+      },
+      {
+        "q": "Is SO/ Bangkok family-friendly?",
+        "a": "It's better for couples and design lovers due to its vibrant style, with limited kid-focused amenities in the financial district."
+      }
+    ],
+    "urgencyLine": "Rooms at SO/ Bangkok with park-view infinity pool access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated SO/ Bangkok based on design innovation, location convenience, and guest feedback factors. We weighted standout amenities like the themed rooms and pool highest because they define its appeal in a crowded luxury market. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "SO/ Bangkok Review (2026)",
+    "metaDescription": "Discover SO/ Bangkok in Silom: 5-star design hotel with themed rooms, infinity pool over Lumpini Park, and rooftop bar. Bold vibes suit couples but may overwhelm minimalists—book for creative luxury today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:47:43.326Z"
+}

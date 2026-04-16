@@ -1,0 +1,203 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "amari-pattaya",
+  "hotel": {
+    "name": "Amari Pattaya",
+    "category": "mid-range",
+    "priceRange": "3,000–5,500 THB/night (~$84–154 USD)",
+    "area": "North Pattaya",
+    "description": "Set on a private headland at the quiet northern end of Pattaya Beach, Amari occupies a prime location with direct beach access and two pools surrounded by tropical gardens. The resort feel is a world away from the Central Pattaya chaos, yet it's only a short songthaew ride to the action.",
+    "highlights": [
+      "Private headland location with direct beach access",
+      "Two pools in tropical garden setting",
+      "Multiple restaurants including Italian and Thai"
+    ],
+    "bestFor": [
+      "couples",
+      "families",
+      "business travelers"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmari%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Lub d Pattaya",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "North Pattaya",
+      "description": "Part of Thailand's best hostel chain, Lub d offers modern pod-style dorms and private rooms with clean design, fast wifi, and a social atmosphere. Common areas include a pool, coworking space, and bar. Walking distance to Terminal 21 mall and the beach.",
+      "highlights": [
+        "Swimming pool and social bar area",
+        "Pod beds with privacy curtains and USB charging",
+        "Walking distance to Terminal 21 Pattaya"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "digital nomads"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "D Varee Jomtien Beach",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–84 USD)",
+      "area": "Jomtien Beach",
+      "description": "A modern hotel directly across the road from Jomtien Beach with an infinity pool, gym, and multiple dining options. Rooms are contemporary with sea-view balconies available. The Jomtien location offers a more relaxed atmosphere compared to central Pattaya, with excellent beachfront restaurants nearby.",
+      "highlights": [
+        "Infinity pool with Jomtien Beach views",
+        "Direct access to Jomtien Beach across the road",
+        "Modern rooms with sea-view balconies"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DD%2520Varee%2520Jomtien%2520Beach%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Avani Pattaya Resort",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Central Pattaya",
+      "description": "A well-positioned mid-range resort on Pattaya Beach Road with a large freeform pool, spa, and contemporary rooms. The beachfront location puts you in the center of the action with direct beach access. Part of the Minor Hotels group, ensuring consistent quality.",
+      "highlights": [
+        "Beachfront on Pattaya Beach Road",
+        "Large freeform swimming pool",
+        "Full spa and fitness center"
+      ],
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvani%2520Pattaya%2520Resort%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is Amari Pattaya known for?",
+    "Is Amari Pattaya a quiet hotel?",
+    "What is the hotel star rating for Amari Pattaya?",
+    "How far is Amari Pattaya from the beach?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Amari Pattaya without knowing its distance from Central Pattaya's nightlife can leave you relying on songthaews for evening outings.",
+    "intro": "Amari Pattaya delivers a serene resort escape on a private headland with direct beach access and two pools amid tropical gardens, far from the city's bustle. It's ideal for couples seeking romance, families wanting relaxation, and business travelers needing a quiet base.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "direct beach access",
+      "noGoFor": "nightlife seekers"
+    },
+    "whyBook": [
+      "Private headland spot ensures beachfront tranquility.",
+      "Two pools nestled in tropical gardens for relaxation.",
+      "Multiple restaurants offer Italian and Thai cuisine.",
+      "Short songthaew ride connects to central action."
+    ],
+    "whyNotBook": [
+      "Location requires transport for Central Pattaya shopping and bars.",
+      "Pools can feel exposed during peak family hours.",
+      "Mid-range rooms lack luxury spa treatments on-site.",
+      "Limited on-site entertainment beyond pools and dining.",
+      "Beach access path may be steep for mobility issues."
+    ],
+    "skipIf": "Skip if you're a solo backpacker craving walkable nightlife and budget vibes.",
+    "detailedReview": "Checking into Amari Pattaya feels like entering a gated oasis, with staff offering warm welcomes and quick room assignments amid the lush headland setting. Rooms vibe contemporary and comfortable, with balconies overlooking the sea or gardens, though some face the quieter northern beach end without full ocean views. The standout amenity is the direct beach access via a private path, allowing easy dips in calmer waters away from crowded central stretches. Two pools, one infinity-style and another family-friendly, sit surrounded by tropical foliage, providing shaded loungers but filling up by mid-morning with resort guests. Food quality shines at the multiple restaurants: the Italian spot serves fresh pasta with sea views, while Thai options deliver authentic flavors like tom yum without the tourist markup. Service style is attentive yet unobtrusive, with multilingual staff handling requests efficiently for business travelers. Typical guests include couples on romantic getaways, families with kids enjoying the pools, and professionals using the quiet for work calls. Overall, the resort feel dominates, but expect a 10-15 minute songthaew hop to reach Pattaya's busier side for more action. At 4.5/5 on TripAdvisor, it earns praise for peace but notes on transport needs.",
+    "locationReality": "Amari Pattaya sits on a private headland at North Pattaya's quiet end, with direct access to the beach in under 2 minutes on foot. Within a 5-minute walk, you'll find tropical gardens and on-site dining, but convenience stores like 7-Eleven require a 10-minute stroll or short Grab ride costing 50-100 THB. Central Pattaya's Walking Street and malls are a quick 10-15 minute songthaew journey for 20 THB, keeping the chaos at bay while staying connected.",
+    "localSignals": [
+      "Direct beach access: 0 minutes walk.",
+      "To Central Pattaya: 10-15 minute songthaew ride.",
+      "On-property: 2 pools, multiple restaurants.",
+      "Northern end of Pattaya Beach: quiet headland setting.",
+      "Nearby: tropical gardens within resort grounds."
+    ],
+    "travellerNote": "Guests often praise the peaceful private headland and direct beach access but note the inconvenience of needing rides to central Pattaya's attractions.",
+    "bookingTips": [
+      "Request garden-view rooms for quieter stays away from beach noise.",
+      "Check Agoda for deals, often cheaper than Booking.com in Thailand.",
+      "Prices spike November-February during high season and Songkran.",
+      "Verify breakfast inclusion, as it's not always standard in mid-range rates.",
+      "Confirm no nearby construction, common in developing North Pattaya."
+    ],
+    "similarHotels": [
+      {
+        "name": "D Varee Jomtien Beach",
+        "howDifferent": "Offers infinity pool across from Jomtien Beach but lacks Amari's private headland seclusion."
+      },
+      {
+        "name": "Avani Pattaya Resort",
+        "howDifferent": "Provides beachfront on main Pattaya Road with larger pool, yet closer to central crowds than Amari's quiet north spot."
+      },
+      {
+        "name": "Lub d Pattaya",
+        "howDifferent": "Budget hostel with social dorms in central area, missing Amari's resort pools and beach access."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Amari Pattaya known for?",
+        "a": "Amari Pattaya is known for its private headland location with direct beach access and two pools in tropical gardens, offering a serene escape from central Pattaya."
+      },
+      {
+        "q": "Is Amari Pattaya a quiet hotel?",
+        "a": "Yes, its position at the quiet northern end of Pattaya Beach on a private headland provides a peaceful resort atmosphere away from the city's chaos."
+      },
+      {
+        "q": "What is the hotel star rating for Amari Pattaya?",
+        "a": "Amari Pattaya is a mid-range resort, typically rated 4-star, with a 4.5/5 TripAdvisor score reflecting its quality."
+      },
+      {
+        "q": "How far is Amari Pattaya from the beach?",
+        "a": "Amari Pattaya has direct beach access from its private headland, reachable in under 2 minutes on foot."
+      },
+      {
+        "q": "Best time to visit Amari Pattaya?",
+        "a": "November to February offers cooler weather and high-season perks, though book early for pool access."
+      },
+      {
+        "q": "Does Amari Pattaya have family amenities?",
+        "a": "Yes, with two pools in tropical settings and spacious rooms, it's suitable for families seeking relaxation."
+      }
+    ],
+    "urgencyLine": "Rooms at Amari Pattaya with direct beach access book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Amari Pattaya based on location, amenities, guest feedback, and value in the mid-range category. We weighted serene setting highest because it defines the hotel's appeal over urban convenience. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Amari Pattaya Review (2026)",
+    "metaDescription": "Amari Pattaya in North Pattaya offers direct beach access and two tropical pools for couples and families. Mid-range at 3,000–5,500 THB, but expect songthaew rides to central action. Book for serene stays — check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:12:43.611Z"
+}

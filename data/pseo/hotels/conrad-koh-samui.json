@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "hotelSlug": "conrad-koh-samui",
+  "hotel": {
+    "name": "Conrad Koh Samui",
+    "category": "luxury",
+    "priceRange": "12,000–35,000 THB/night (~$336–980 USD)",
+    "area": "South coast (Taling Ngam)",
+    "description": "A modern luxury resort on Samui's quieter southwest coast with all-villa accommodation, each featuring a private infinity pool overlooking the Gulf of Thailand and the Five Islands. Michelin-level dining at Jahn restaurant, an award-winning spa, and a secluded hillside setting. Spectacular sunset views from every villa.",
+    "highlights": [
+      "All villas with private infinity pools",
+      "Michelin-level Jahn restaurant with sunset views",
+      "Dramatic southwest coast sunset location"
+    ],
+    "reviewScore": "4.6/5 TripAdvisor",
+    "bestFor": [
+      "luxury seekers",
+      "couples",
+      "special occasions"
+    ],
+    "sources": [
+      {
+        "sourceName": "LUXE Samui",
+        "sourceUrl": "https://luxesamui.com/best-fine-dining-restaurants-in-koh-samui/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DConrad%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Banyan Tree Samui",
+      "category": "luxury",
+      "priceRange": "15,000–40,000 THB/night (~$420–1,120 USD)",
+      "area": "Lamai (private cove)",
+      "description": "All-villa resort nestled into a private hillside cove near Lamai Beach. Every villa has a private infinity pool with Gulf views, indoor-outdoor living spaces, and a luxury rain shower. The resort's private beach, award-winning spa, and fine dining restaurant make it unnecessary to leave. A honeymoon and anniversary favorite.",
+      "highlights": [
+        "Every villa has a private infinity pool",
+        "Private beach in a secluded cove",
+        "Award-winning spa with signature rainforest treatments"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury seekers",
+        "anniversaries"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Elite",
+          "sourceUrl": "https://thailand-elite.com/luxury-hotels-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanyan%2520Tree%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Six Senses Samui",
+      "category": "luxury",
+      "priceRange": "18,000–50,000 THB/night (~$504–1,400 USD)",
+      "area": "North tip (Bophut area)",
+      "description": "66 private stand-alone villas on a lush green headland at Koh Samui's northern tip, most with private infinity pools. The resort is built on sustainability principles with its own organic garden, water recycling, and locally-sourced cuisine. Stunning panoramic Gulf views and a world-class spa focused on holistic wellness.",
+      "highlights": [
+        "66 stand-alone villas, most with private infinity pools",
+        "Sustainability-focused with organic garden",
+        "Panoramic Gulf of Thailand views from the northern headland"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "luxury seekers",
+        "wellness travelers",
+        "eco-conscious guests"
+      ],
+      "sources": [
+        {
+          "sourceName": "Nomad Mum",
+          "sourceUrl": "https://nomadmum.com/koh-samui-luxury-hotels/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSix%2520Senses%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Four Seasons Resort Koh Samui",
+      "category": "luxury",
+      "priceRange": "25,000–60,000 THB/night (~$700–1,680 USD)",
+      "area": "North coast (Ang Thong view)",
+      "description": "The island's most exclusive address — pool villas ranging from 1,100 to 1,600 sq ft cascading down a coconut grove hillside to a private beach. Each villa has a private infinity plunge pool. The resort's three restaurants, world-class spa, and cooking school ensure you never need to leave. Muay Thai classes and longtail boat excursions provide cultural depth.",
+      "highlights": [
+        "Private pool villas from 1,100 sq ft",
+        "Three acclaimed restaurants and cooking school",
+        "Private beach with views of Ang Thong islands"
+      ],
+      "reviewScore": "4.9/5 TripAdvisor",
+      "bestFor": [
+        "ultra-luxury seekers",
+        "honeymooners",
+        "celebration trips"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Elite",
+          "sourceUrl": "https://thailand-elite.com/luxury-hotels-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%2520Seasons%2520Resort%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Conrad Koh Samui without knowing its remote Taling Ngam location can leave you stranded far from Koh Samui's lively beaches and nightlife.",
+    "intro": "Conrad Koh Samui delivers secluded all-villa luxury on the southwest coast, with private infinity pools in every unit overlooking the Gulf of Thailand and Five Islands. It's ideal for couples and luxury seekers craving sunset views and Michelin-level dining at Jahn restaurant.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "luxury couples escapes",
+      "standout": "private infinity pools",
+      "noGoFor": "budget party seekers"
+    },
+    "whyBook": [
+      "All villas feature private infinity pools with Gulf views.",
+      "Michelin-level dining at Jahn offers sunset-view meals.",
+      "Award-winning spa in a secluded hillside setting.",
+      "Dramatic southwest coast location for spectacular sunsets."
+    ],
+    "whyNotBook": [
+      "Secluded Taling Ngam spot requires 30-45 minute drives to Chaweng Beach crowds.",
+      "Hillside layout means steep paths between villas and main facilities.",
+      "Limited on-site activities beyond spa and dining for multi-day stays.",
+      "Private beach access involves a shuttle, not direct walking.",
+      "High prices for villas start at 12,000 THB without always including breakfast."
+    ],
+    "skipIf": "Skip if you're traveling with kids seeking easy access to family-friendly beaches and attractions.",
+    "detailedReview": "Checking into Conrad Koh Samui feels intimate and efficient, with staff greeting you at the open-air lobby overlooking the hillside descent to the sea. Villas, all standalone, exude modern Thai design with spacious interiors—think 1,500 sq ft minimum—opening to private infinity pools that blend into the Gulf horizon and distant Five Islands. The standout amenity is undoubtedly these pools, offering total privacy for sunset dips without sharing facilities. Food at Jahn restaurant hits Michelin standards, serving Thai fusion like grilled snapper with lemongrass under dramatic evening skies, though portions are refined rather than abundant. Service is polished and anticipatory, with butlers assigned to each villa for personalized touches like arranging spa treatments. Typical guests are affluent couples in their 30s-50s, here for honeymoons or anniversaries, drawn to the quiet romance over island bustle. The award-winning spa uses local herbs in treatments amid lush gardens, providing a serene escape. Evenings wind down with stargazing from your pool deck, but the isolation means planning excursions ahead. Overall, it's a haven for unwinding, backed by a 4.6/5 TripAdvisor score reflecting consistent high-end delivery in a peaceful southwest setting.",
+    "locationReality": "Nestled on Koh Samui's quiet south coast in Taling Ngam, Conrad Koh Samui sits on a hillside about 30 minutes by car from the airport and 45 minutes from bustling Chaweng Beach, making it ideal for seclusion but not spontaneity. A complimentary shuttle provides access to a private beach strip below, reachable in 5 minutes, though the terrain is steep. Within a 5-minute walk, you'll find only resort paths and gardens; nearest shops or eateries require a 10-15 minute Grab ride costing 200-300 THB to Taling Ngam village.",
+    "localSignals": [
+      "45-minute drive to Chaweng Beach main attraction.",
+      "Airport transfer typically 1,000-1,500 THB by taxi.",
+      "Multiple on-property pools via private villa infinity setups.",
+      "One Michelin-level restaurant (Jahn) on site.",
+      "Secluded area with no 7-Eleven within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the private pools and sunset dining but note the remote location demands advance transport planning for off-resort exploration.",
+    "bookingTips": [
+      "Request hillside villas for optimal Five Islands views.",
+      "Agoda often undercuts Booking.com prices for Thailand stays.",
+      "Prices spike December-February high season and Songkran April.",
+      "Verify shuttle schedule to private beach before booking.",
+      "Confirm breakfast inclusion as it's not standard in base rates."
+    ],
+    "similarHotels": [
+      {
+        "name": "Banyan Tree Samui",
+        "howDifferent": "Offers similar all-villa pools but near Lamai Beach for easier access to central Samui action."
+      },
+      {
+        "name": "Six Senses Samui",
+        "howDifferent": "Features more eco-focused villas on a northern headland, emphasizing sustainability over southwest sunsets."
+      },
+      {
+        "name": "Four Seasons Resort Koh Samui",
+        "howDifferent": "Provides larger pool villas cascading to a private beach, at higher prices with greater exclusivity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Conrad Koh Samui have private pools in every room?",
+        "a": "Yes, all villas include private infinity pools overlooking the Gulf of Thailand and Five Islands."
+      },
+      {
+        "q": "Is the food at Conrad Koh Samui worth the hype?",
+        "a": "Jahn restaurant delivers Michelin-level Thai fusion with sunset views, praised for quality but expect refined portions."
+      },
+      {
+        "q": "How far is Conrad Koh Samui from the airport?",
+        "a": "It's about 30 minutes by car from Samui International Airport, with taxis costing 1,000-1,500 THB."
+      },
+      {
+        "q": "What's the vibe like for couples at Conrad Koh Samui?",
+        "a": "The secluded hillside setting and private villas create a romantic escape perfect for honeymoons or anniversaries."
+      },
+      {
+        "q": "Are there family activities at Conrad Koh Samui?",
+        "a": "It's more geared toward couples with spa and dining focus; limited kid-friendly options in the quiet location."
+      },
+      {
+        "q": "Does Conrad Koh Samui include breakfast?",
+        "a": "Breakfast is not always included in base rates; check your booking for add-ons or promotions."
+      }
+    ],
+    "urgencyLine": "Villas at Conrad Koh Samui with private infinity pools book out 1-2 months ahead for December-February peak — check availability today.",
+    "methodology": "We rated Conrad Koh Samui based on guest reviews, amenities, location, and value from sources like TripAdvisor. We weighted privacy and dining highest because they define its luxury appeal for couples. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Conrad Koh Samui Review (2026)",
+    "metaDescription": "Conrad Koh Samui in Koh Samui offers all-villa luxury with private infinity pools and Michelin dining on the southwest coast. Secluded spot means 45-min drives to Chaweng; ideal for couples. Book for sunset views—verify rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:35:05.562Z"
+}

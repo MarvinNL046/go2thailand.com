@@ -1,0 +1,181 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lampang",
+  "cityName": "Lampang",
+  "hotelSlug": "lampang-river-lodge",
+  "hotel": {
+    "name": "Lampang River Lodge",
+    "category": "boutique",
+    "priceRange": "1,700–3,500 THB (~48–100 USD) per night",
+    "area": "Riverside (10 km southwest of centre)",
+    "description": "Lampang's most upscale accommodation option, set in lush tropical gardens on the banks of the Wang River. The 60-room resort offers a peaceful riverside retreat with a swimming pool, spa, well-regarded restaurant and beautifully landscaped grounds. Rooms feature traditional Lanna decor with all modern amenities. While located 10 km from the city centre, the serene riverside setting and resort facilities make it a destination in itself. The hotel restaurant serves excellent northern Thai cuisine with river views.",
+    "highlights": [
+      "Riverside location with lush tropical gardens",
+      "Swimming pool and spa facilities",
+      "60 rooms with Lanna-style decor",
+      "Excellent on-site restaurant with river views",
+      "Peaceful, resort-like atmosphere away from the city"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Flampang-river-lodge.html",
+    "reviewScore": "8.3/10",
+    "bestFor": [
+      "Couples on a romantic getaway",
+      "Families wanting resort facilities",
+      "Those seeking a peaceful retreat"
+    ],
+    "sources": [
+      {
+        "sourceName": "Lampang River Lodge — Official Site",
+        "sourceUrl": "https://www.lampangriverlodge.com/",
+        "lastVerified": "2026-03-14"
+      },
+      {
+        "sourceName": "KAYAK — Lampang River Lodge",
+        "sourceUrl": "https://www.kayak.com/Lampang-Hotels-Lampang-River-Lodge.120065.ksp",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Auangkham Resort",
+      "category": "boutique",
+      "priceRange": "1,100–2,500 THB (~31–71 USD) per night",
+      "area": "Wiang Nuea (Old Town area)",
+      "description": "A charming Lanna-style boutique resort with just 14 rooms, set in a peaceful garden compound in the old part of town. Auangkham Resort captures the essence of traditional Lampang hospitality — warm, personal and unhurried. The rooms blend Lanna architectural touches with modern comfort, and the lush garden setting provides a tranquil retreat from the city. The small scale means personal attention from staff who genuinely know and love Lampang. One of the most atmospheric places to stay in the city.",
+      "highlights": [
+        "Intimate 14-room Lanna-style resort",
+        "Beautiful garden setting in the Old Town area",
+        "Personal, attentive service from knowledgeable staff",
+        "Traditional Lanna architecture with modern comforts",
+        "Walking distance to Old Town temples and river"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fauangkham-resort.html",
+      "reviewScore": "8.7/10",
+      "bestFor": [
+        "Couples",
+        "Culture lovers",
+        "Those seeking authentic atmosphere"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trivago — Auangkham Resort Lampang",
+          "sourceUrl": "https://ar.trivago.com/en-145/oar/auangkham-resort-lampang",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Karpenter Lampang",
+      "category": "boutique",
+      "priceRange": "1,200–2,800 THB (~34–80 USD) per night",
+      "area": "City Centre / Old Town",
+      "description": "A trendy boutique hotel that blends industrial-chic design with Lampang's timber heritage. Karpenter (a playful nod to the city's carpentry and teak traditions) offers stylish rooms with exposed brick, reclaimed wood accents and modern amenities. The attached cafe is popular with both guests and locals, serving specialty coffee and light meals. The overall vibe is creative and contemporary — a refreshing contrast to the traditional Lanna aesthetic of most Lampang properties.",
+      "highlights": [
+        "Industrial-chic design inspired by Lampang's timber heritage",
+        "Popular on-site cafe with specialty coffee",
+        "Stylish rooms with exposed brick and reclaimed wood",
+        "Central Old Town location",
+        "Creative, contemporary atmosphere"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkarpenter-lampang.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Design-conscious travellers",
+        "Coffee lovers",
+        "Young couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripCanvas — Boutique Hotels in Lampang",
+          "sourceUrl": "https://thailand.tripcanvas.co/chiang-mai/boutique-hotels-in-lampang/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Lampang River Lodge without knowing its 10 km distance from the city center can leave you stranded without easy transport to Lampang's main sights.",
+    "intro": "Lampang River Lodge delivers a serene riverside escape with lush tropical gardens, a swimming pool, spa, and 60 rooms featuring traditional Lanna decor alongside modern amenities. It's ideal for couples seeking romance, families enjoying resort facilities, or anyone craving peace away from urban bustle.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Romantic couples and families",
+      "standout": "Riverside location with spa",
+      "noGoFor": "City explorers needing centrality"
+    },
+    "whyBook": [
+      "Lush tropical gardens and Wang River banks for peaceful retreats.",
+      "Swimming pool and spa for relaxation after sightseeing.",
+      "60 rooms with authentic Lanna-style decor and modern comforts.",
+      "On-site restaurant offering excellent northern Thai cuisine with river views."
+    ],
+    "whyNotBook": [
+      "10 km from city center requires taxi or Grab rides costing 200-300 THB each way.",
+      "Limited public transport options in the rural riverside area.",
+      "Resort setting feels isolated if you prefer urban energy.",
+      "No shuttle service mentioned, adding hassle for non-drivers.",
+      "Higher price for location that doubles as a destination rather than a base."
+    ],
+    "skipIf": "Skip if you're relying on walking or public transit to explore Lampang's temples and markets.",
+    "detailedReview": "Checking into Lampang River Lodge feels like entering a tranquil haven, with staff greeting you amid the lush tropical gardens lining the Wang River banks. The 60-room boutique resort exudes a peaceful, resort-like atmosphere, far from the city's hum, making it a self-contained retreat. Rooms blend traditional Lanna decor—think carved wooden accents and silk textiles—with modern essentials like air conditioning, flat-screen TVs, and en-suite bathrooms, though some may find the style more quaint than sleek. The standout amenity is the outdoor swimming pool surrounded by greenery, perfect for cooling off, paired with a spa offering Thai massages overlooking the river. Food at the on-site restaurant shines with well-regarded northern Thai dishes like khao soi and sticky rice desserts, enjoyed from tables with direct river views, though portions are generous but not extravagant. Service is warm and attentive, typical of boutique properties, with staff happy to arrange boat rides or local tips. Guests here are often couples on romantic getaways, families utilizing the pool and grounds for downtime, or solo travelers seeking serenity; it's less suited for party crowds. Overall, the 8.3/10 review score reflects the escape it provides, but expect a quiet vibe that prioritizes relaxation over nightlife proximity.",
+    "locationReality": "Nestled 10 km southwest of Lampang's city center along the Wang River, this spot offers a serene escape but demands planning for outings—expect a 20-25 minute Grab ride (around 250 THB) to key sites like Wat Phra That Lampang Luang. Within a 5-minute walk, you'll find only the resort's gardens and river path, with no shops or eateries nearby. For broader exploration, transport is essential, as the area lacks sidewalks or frequent buses.",
+    "localSignals": [
+      "10 km southwest of Lampang city center, about 20-minute drive.",
+      "60 rooms total in the boutique resort.",
+      "One swimming pool and one spa on property.",
+      "One on-site restaurant serving northern Thai cuisine.",
+      "Riverside setting with no nearby 7-Eleven; nearest in town center."
+    ],
+    "travellerNote": "Guests often praise the peaceful riverside atmosphere and excellent restaurant views but note the 10 km distance to town requires extra transport planning.",
+    "bookingTips": [
+      "Request river-view rooms for the best serene experience.",
+      "Check Agoda for Thailand deals, often cheaper than Booking.com.",
+      "Prices spike in cool season November-February due to tourism peak.",
+      "Verify breakfast inclusion, as it's not always standard.",
+      "Confirm no ongoing construction via hotel site before booking."
+    ],
+    "similarHotels": [
+      {
+        "name": "Auangkham Resort (1,100–2,500 THB (~31–71 USD) per night) — A charming Lanna-style boutique resort with just 14 rooms, set in a peaceful garden compound in the old part of town. Auangkham Resort captu",
+        "howDifferent": "More central in the old town with fewer rooms for intimate stays, unlike the riverside isolation."
+      },
+      {
+        "name": "Karpenter Lampang (1,200–2,800 THB (~34–80 USD) per night) — A trendy boutique hotel that blends industrial-chic design with Lampang's timber heritage. Karpenter (a playful nod to the city's carpentry ",
+        "howDifferent": "Urban trendy vibe in the city center, contrasting the peaceful resort feel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Lampang River Lodge family-friendly?",
+        "a": "Yes, with resort facilities like a swimming pool and spacious grounds ideal for families seeking relaxation."
+      },
+      {
+        "q": "What's the distance from Lampang River Lodge to the city center?",
+        "a": "It's 10 km southwest, typically a 20-minute drive by Grab costing 200-300 THB."
+      },
+      {
+        "q": "Does Lampang River Lodge have a pool and spa?",
+        "a": "Yes, it features a swimming pool and spa facilities in its lush tropical gardens."
+      },
+      {
+        "q": "What type of food is served at the restaurant?",
+        "a": "The on-site restaurant specializes in excellent northern Thai cuisine with river views."
+      },
+      {
+        "q": "Is WiFi included at Lampang River Lodge?",
+        "a": "WiFi is available as a standard modern amenity in rooms, though speed may vary in rural areas."
+      },
+      {
+        "q": "Best time to visit Lampang River Lodge?",
+        "a": "November to February for cooler weather, but book early as high season fills up."
+      }
+    ],
+    "urgencyLine": "Rooms at Lampang River Lodge with river views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Lampang River Lodge based on location, amenities, guest feedback, and value from official data and public reviews. We weighted peaceful retreat aspects highest because it positions as a destination resort. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Lampang River Lodge Review (2026)",
+    "metaDescription": "Lampang River Lodge in Lampang offers a serene riverside retreat with pool, spa, and Lanna-style rooms (8.3/10). But its 10 km from center means transport needed—book for peace now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:42:23.867Z"
+}

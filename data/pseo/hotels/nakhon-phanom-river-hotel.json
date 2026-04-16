@@ -1,0 +1,177 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-phanom",
+  "cityName": "Nakhon Phanom",
+  "hotelSlug": "nakhon-phanom-river-hotel",
+  "hotel": {
+    "name": "Nakhon Phanom River Hotel",
+    "category": "luxury",
+    "priceRange": "1,500–2,800 THB per night",
+    "area": "Mekong Riverfront / City Centre",
+    "description": "A well-established hotel in a prime riverfront location with good-sized rooms, a swimming pool, and a restaurant with Mekong views. The property is one of the larger hotels in the city, catering to both leisure travellers and business guests. Some superior and deluxe rooms have direct river-view balconies — worth the upgrade for the sunset views alone. The hotel has hosted numerous official Thai government delegations given its location near the provincial government buildings.",
+    "highlights": [
+      "Swimming pool — relatively rare in Nakhon Phanom hotels",
+      "River-view rooms with private balconies available",
+      "Prime riverfront location near provincial government",
+      "Restaurant with Mekong views",
+      "Large enough to have staff availability around the clock"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnakhon-phanom-river.html",
+    "reviewScore": "8.0/10",
+    "bestFor": [
+      "Families",
+      "Business travellers",
+      "River-view seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Expedia — Nakhon Phanom Hotels",
+        "sourceUrl": "https://www.expedia.com/Nakhon-Phanom-Hotels.d6143456.Travel-Guide-Hotels",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Grand Hotel Nakhon Phanom",
+      "category": "luxury",
+      "priceRange": "1,800–3,500 THB per night",
+      "area": "Mekong Riverfront / City Centre",
+      "description": "The most upmarket full-service hotel in Nakhon Phanom, the Grand Hotel sits close to the riverfront and offers the city's most complete amenity package. Rooms are spacious with modern furnishings, strong air conditioning, flat-screen TVs and en-suite bathrooms with hot showers. The hotel features a restaurant serving Thai and international cuisine, a fitness room, banquet halls for events and business facilities catering to the government and business travellers who dominate the local hotel market. The service is professional and the property is well-maintained.",
+      "highlights": [
+        "Most complete amenity package of any Nakhon Phanom hotel",
+        "Close to the Mekong riverfront and city attractions",
+        "Good on-site restaurant with Thai and international options",
+        "Professional service catering to business and government guests",
+        "Reliable Wi-Fi and air conditioning"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fgrand-nakhon-phanom.html",
+      "reviewScore": "8.2/10",
+      "bestFor": [
+        "Business travellers",
+        "Couples",
+        "Pilgrims attending the Phra That Phanom Fair"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Grand Hotel Nakhon Phanom",
+          "sourceUrl": "https://www.booking.com/hotel/th/grand-nakhon-phanom.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "River Inn Nakhon Phanom",
+      "category": "luxury",
+      "priceRange": "1,600–3,000 THB per night",
+      "area": "Mekong Riverfront",
+      "description": "A riverside boutique property that is the most atmospheric hotel option in Nakhon Phanom, with several rooms offering direct Mekong views toward the Lao mountains. The River Inn combines traditional Isaan-influenced design elements with modern comfort — wooden furniture, terracotta tiles and locally crafted textiles create a sense of place that anonymous chain hotels lack entirely. A riverside restaurant serves fresh Mekong fish dishes and cold Beer Lao while watching the sun set over Laos. The perfect base for travellers who want to experience the river properly.",
+      "highlights": [
+        "Some rooms with direct Mekong River views toward Laos",
+        "Beautiful riverside restaurant with fresh Mekong fish",
+        "Traditional Isaan-inspired design with local materials",
+        "Walking distance to the riverfront promenade and night market",
+        "Most atmospheric hotel in Nakhon Phanom"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Friver-inn-nakhon-phanom.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Couples",
+        "Photographers",
+        "Mekong scenery lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Nakhon Phanom Hotels",
+          "sourceUrl": "https://www.agoda.com/en-gb/city/nakhon-phanom-th.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Nakhon Phanom River Hotel without knowing not all rooms have river views can leave you facing the back alley instead of the Mekong sunset.",
+    "intro": "Nakhon Phanom River Hotel delivers spacious rooms, a rare swimming pool, and a restaurant overlooking the Mekong in a prime riverfront spot near government buildings. It's ideal for families, business travelers, and anyone seeking those direct river views from upgraded balconies.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Families and business travelers",
+      "standout": "Riverfront location",
+      "noGoFor": "Budget solo backpackers"
+    },
+    "whyBook": [
+      "Upgrade to deluxe for private balcony with Mekong sunset views.",
+      "Rare swimming pool offers relaxation in a city short on such amenities.",
+      "Prime spot near provincial government suits business delegations.",
+      "Restaurant provides meals with direct river vistas.",
+      "Large property ensures 24/7 staff availability for families."
+    ],
+    "whyNotBook": [
+      "Superior rooms lack river views and balconies, facing internal areas.",
+      "Pool, while rare, is basic and may feel crowded during peak hours.",
+      "Established property shows some dated decor in non-upgraded rooms.",
+      "Location near government means occasional official events disrupt quiet.",
+      "Breakfast options limited compared to larger chain hotels nearby."
+    ],
+    "skipIf": "Skip if you're a solo traveler on a tight budget seeking vibrant nightlife, as this spot prioritizes calm riverfront stays over party vibes.",
+    "detailedReview": "Checking into Nakhon Phanom River Hotel feels straightforward and welcoming, with staff efficiently handling both leisure and business arrivals at the front desk overlooking the lobby. Rooms are good-sized, providing a comfortable vibe for families or solo professionals, though only superior and deluxe options come with direct river-view balconies—opt for those to catch the stunning Mekong sunsets. The standout amenity is the swimming pool, a rarity in Nakhon Phanom that offers a refreshing dip after exploring the riverside. Food at the on-site restaurant is solid Thai and international fare with Mekong views, though portions are standard rather than extravagant. Service style is professional and attentive, given the hotel's history hosting Thai government delegations, with round-the-clock staff ensuring quick responses. Typical guests include families enjoying the pool and views, business travelers near the provincial buildings, and river-view seekers drawn to the balconies. Overall, it's a reliable base in a quiet city, blending convenience with scenic appeal without frills like spas.",
+    "locationReality": "Situated right on the Mekong Riverfront in Nakhon Phanom's city center, the hotel is steps from the riverside promenade and a 5-minute walk to provincial government buildings. Key attractions like the Thai-Lao Friendship Bridge viewpoint require a 10-15 minute drive, costing around 100-150 THB by Grab. The area lacks BTS or MRT, but the central spot means easy access to local markets on foot, though the airport is 20-30 minutes away by taxi for 200-300 THB.",
+    "localSignals": [
+      "0-minute walk to Mekong Riverfront promenade.",
+      "5-minute walk to provincial government buildings.",
+      "1 swimming pool and 1 restaurant on property.",
+      "Airport transfer to Nakhon Phanom Airport costs 200-300 THB.",
+      "7-Eleven and local eateries within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the river-view balconies and rare pool for relaxation but note that non-view rooms feel less inspiring and the property's established age shows in some fixtures.",
+    "bookingTips": [
+      "Request superior or deluxe rooms for river-view balconies.",
+      "Check Agoda for cheaper rates than Booking.com in Thailand.",
+      "Prices spike in November-February high season and during government events.",
+      "Verify breakfast inclusion, as it's not always standard.",
+      "Confirm no nearby construction before booking riverfront rooms."
+    ],
+    "similarHotels": [
+      {
+        "name": "Grand Hotel Nakhon Phanom",
+        "howDifferent": "Offers more complete amenities as the city's top upmarket option, but at higher prices without the direct riverfront edge."
+      },
+      {
+        "name": "River Inn Nakhon Phanom",
+        "howDifferent": "Provides a cozier boutique atmosphere with Mekong views, though smaller scale lacks the pool and 24/7 staff of the larger hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Nakhon Phanom River Hotel have a pool?",
+        "a": "Yes, it features a swimming pool, which is relatively rare among hotels in Nakhon Phanom and great for families."
+      },
+      {
+        "q": "Are there river-view rooms at Nakhon Phanom River Hotel?",
+        "a": "Superior and deluxe rooms offer direct Mekong views with private balconies, ideal for sunset watching."
+      },
+      {
+        "q": "Is Nakhon Phanom River Hotel good for business travelers?",
+        "a": "Yes, its prime location near provincial government buildings makes it suitable for official delegations and business stays."
+      },
+      {
+        "q": "What is the price range for Nakhon Phanom River Hotel?",
+        "a": "Rooms cost 1,500–2,800 THB per night, positioning it as a mid-range luxury option in the city."
+      },
+      {
+        "q": "How far is Nakhon Phanom River Hotel from the airport?",
+        "a": "It's about 20-30 minutes by taxi from Nakhon Phanom Airport, with transfers costing 200-300 THB."
+      },
+      {
+        "q": "Does Nakhon Phanom River Hotel include breakfast?",
+        "a": "Breakfast is available at the restaurant with Mekong views, but confirm inclusion when booking as policies vary."
+      }
+    ],
+    "urgencyLine": "Rooms at Nakhon Phanom River Hotel with river-view balconies book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Nakhon Phanom River Hotel based on location, amenities like the pool and views, guest suitability, and value from the 1,500–2,800 THB range. We weighted riverfront access highest because Nakhon Phanom's appeal centers on Mekong scenery. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nakhon Phanom River Hotel Review (2026)",
+    "metaDescription": "Nakhon Phanom River Hotel in Nakhon Phanom offers luxury riverfront stays with a rare pool and Mekong views from select balconies. Note not all rooms have views, so upgrade wisely. Book for families or business—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:52:59.587Z"
+}

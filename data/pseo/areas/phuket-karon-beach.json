@@ -1,0 +1,223 @@
+{
+  "template": "area-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "areaSlug": "karon-beach",
+  "areaName": "Karon Beach",
+  "neighborhood": {
+    "name": "Karon Beach",
+    "description": "A long, wide beach between Patong and Kata with a resort-town feel. More spacious and less hectic than either neighbor, with big international hotels lining the beachfront road. The beach itself is one of the longest on the island with relatively uncrowded sand.",
+    "bestFor": "Quiet beach holidays & couples",
+    "priceLevel": "Mid-Range to Luxury",
+    "highlights": [
+      "One of Phuket's longest beaches — never feels crowded",
+      "Wide selection of mid-range and luxury resorts",
+      "Quieter atmosphere than Patong but not isolated",
+      "Good restaurants along the main road",
+      "Between Patong (15 min) and Kata (5 min) by road"
+    ],
+    "recommendedHotels": [
+      "Karon Sea Sands Resort",
+      "Avista Grande Karon — MGallery"
+    ],
+    "walkingScore": "5/10",
+    "transportNotes": [
+      "Long beach road — walkable along the beachfront but spread out",
+      "Smart Bus stop available",
+      "Grab to Patong 150–200 THB (15 min)"
+    ],
+    "sources": [
+      {
+        "sourceName": "Agoda",
+        "sourceUrl": "https://www.agoda.com/travel-guides/thailand/phuket/where-to-stay-in-phuket-ultimate-guide-to-best-neighborhoods-areas/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Karon Sea Sands Resort",
+      "category": "mid-range",
+      "priceRange": "1,800–3,000 THB/night (~$50–84 USD)",
+      "area": "Karon Beach",
+      "description": "Beachfront resort directly on Karon Beach with a pool, restaurant, and sea-view rooms. One of the best value beachfront properties on the island — you're literally steps from the sand. Rooms are dated but clean and spacious.",
+      "highlights": [
+        "Directly on Karon Beach — zero walk to sand",
+        "Beachfront pool and restaurant",
+        "Excellent value for a beachfront location"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com",
+          "sourceUrl": "https://www.trip.com/hotels/phuket-hotels-list-725/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Avista Grande Karon — MGallery",
+      "category": "luxury",
+      "priceRange": "7,000–14,000 THB/night (~$196–392 USD)",
+      "area": "Karon Beach",
+      "description": "A boutique luxury hotel by Sofitel's MGallery collection, a short walk from Karon Beach. Ranked in TripAdvisor's top 10 hotels in Thailand. Elegant rooms with local design touches, rooftop pool, and personalized service that large resorts can't match.",
+      "highlights": [
+        "Ranked top 10 hotels in Thailand by TripAdvisor (2023)",
+        "Boutique feel with personalized service",
+        "Rooftop pool and bar with sea views"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvista%2520Grande%2520Karon%2520%25E2%2580%2594%2520MGallery%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Karon Resort",
+      "category": "budget",
+      "priceRange": "600–1,000 THB/night (~$17–28 USD)",
+      "area": "Karon Beach",
+      "description": "A family-run guesthouse set back from Karon Beach with clean rooms, a pool, and a garden atmosphere. Quieter and better value than anything comparable in Patong. The beach is a 5-minute walk away.",
+      "highlights": [
+        "Swimming pool in tropical garden setting",
+        "5-minute walk to Karon Beach",
+        "Family-run with personal service"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Karon%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Patong Beach",
+    "Kata Beach",
+    "Surin & Bang Tao (Laguna)",
+    "Rawai & Nai Harn",
+    "Phuket Old Town"
+  ],
+  "paaQuestions": [
+    "Is Karon Beach a good area to stay in Phuket?",
+    "Is Karon Beach better than Patong Beach?",
+    "Where is the nicest part of Phuket to stay?",
+    "Can you swim at Karon Beach, Phuket?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Karon Beach can strand you inland amid traffic — most first-timers overlook the spread-out layout and end up shuttling everywhere.",
+    "intro": "Karon Beach stands out for its expansive, uncrowded sands flanked by mid-range and luxury resorts, offering a resort-town escape that's calmer than Patong yet connected. We ranked it highly for quiet beach holidays and couples seeking space without isolation.",
+    "vibe": "Spacious + relaxed",
+    "quickStats": {
+      "priceBand": "€€-€€€",
+      "walkability": "Medium",
+      "bestFor": "Quiet beach holidays & couples",
+      "safetyNote": "Safe, standard tourist vigilance on main road."
+    },
+    "detailedDescription": "In Karon Beach, mornings start with locals jogging along the wide shoreline while resort staff set up beach chairs under swaying palms; the sand stretches over 5km, rarely packed even in high season, letting you claim a spot without elbowing crowds. Daytime buzz centers on the beachfront road, where Thai families run seafood stalls and international chains like Starbucks draw expat retirees sipping iced lattes. Workers here are mostly from Phuket's southern provinces, chatting in a mix of Thai and broken English as they ferry towels to sunbathers. As evening hits, the pace slows—families head to on-road eateries for pad thai or grilled snapper, with occasional live music from hotel bars filtering softly. Nights stay mellow, no thumping clubs like in Patong; instead, it's the hum of motorbikes and distant waves. Noise levels drop early, making it easy to sleep with windows open. Food leans practical: beachside shacks for fresh fruit shakes (50 THB) and the main drag's mix of Italian spots and Thai curry houses, nothing fancy but reliable. Getting around means strolling the beach path for 20-30 minutes to cover ends, but the area's length—over 3km of developed strip—often calls for Grab rides (50-100 THB within Karon) or the Smart Bus looping to Kata or Patong. It's functional for relaxed days, but plan for short hops if basing from one end.",
+    "localSignals": [
+      "No BTS/MRT; Smart Bus stop on Patak Road, 5 min walk from central beach.",
+      "Typical Grab from Phuket International Airport: 500–700 THB (45 min drive).",
+      "Distance to Karon Beach main stretch: 0–500m from most resorts on beachfront road.",
+      "Noise level at night: Quiet, mainly distant traffic on Patak Road.",
+      "Nearest 7-Eleven: Multiple clusters along Patak Road, under 5 min walk from hotels."
+    ],
+    "pros": [
+      "Expansive beach stays uncrowded year-round",
+      "Diverse mid-range to luxury resorts",
+      "Quieter vibe with easy Patong access",
+      "Reliable restaurants on main road",
+      "Short drives to Kata Beach"
+    ],
+    "cons": [
+      "Spread-out layout limits walking to everything",
+      "Main road traffic peaks evenings",
+      "Fewer budget eats than Patong",
+      "Beach gets rocky at low tide edges",
+      "Limited nightlife beyond hotel bars"
+    ],
+    "skipIf": "Skip if you're after non-stop partying or fully walkable urban energy.",
+    "stayRecommendations": [
+      {
+        "name": "Karon Sea Sands Resort",
+        "why": "This beachfront spot captures Karon's spacious feel with direct sand access and value pricing amid the uncrowded shore."
+      },
+      {
+        "name": "Avista Grande Karon — MGallery",
+        "why": "Its elegant seclusion fits Karon's quieter luxury side, just a short walk from the long beach without the Patong frenzy."
+      },
+      {
+        "name": "Baan Karon Resort",
+        "why": "The garden pool setup offers a calm, affordable retreat set back from Karon's main road, ideal for couples avoiding crowds."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Patong Beach",
+        "shortPitch": "Patong pulses with nightlife and crowds, contrasting Karon's mellow resort pace but sharing easy beach access.",
+        "recommendFor": "Party seekers & nightlife lovers"
+      },
+      {
+        "areaName": "Kata Beach",
+        "shortPitch": "Kata offers a similar calm but on a shorter beach with more surf action, closer-knit than Karon's spread.",
+        "recommendFor": "Surf enthusiasts & families"
+      },
+      {
+        "areaName": "Surin & Bang Tao (Laguna)",
+        "shortPitch": "Surin delivers upscale exclusivity with private sands, pricier and more isolated than Karon's accessible mid-range setup.",
+        "recommendFor": "High-end luxury seekers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the roomy, crowd-free beach and resort quality but note the need for transport due to the area's length and scattered amenities.",
+    "faq": [
+      {
+        "q": "Is Karon Beach a good area to stay in Phuket?",
+        "a": "Yes, Karon suits quiet beach getaways with its long uncrowded sands and solid resorts; we recommend it for couples over busier spots like Patong."
+      },
+      {
+        "q": "Is Karon Beach better than Patong Beach?",
+        "a": "Karon edges out for relaxation with less noise and more space, while Patong wins for nightlife—choose Karon if avoiding crowds."
+      },
+      {
+        "q": "Where is the nicest part of Phuket to stay?",
+        "a": "Karon ranks high for balanced beach luxury without isolation; for ultra-nice, consider Surin, but Karon offers better value and accessibility."
+      },
+      {
+        "q": "Can you swim at Karon Beach, Phuket?",
+        "a": "Yes, swimming is fine most days with lifeguard flags, though strong currents hit during monsoon—stick to marked zones near resorts."
+      },
+      {
+        "q": "How far is Karon Beach from Phuket Airport?",
+        "a": "It's about 45-60 minutes by Grab or taxi; book ahead for smoother rides during peak hours."
+      },
+      {
+        "q": "What's the best time to visit Karon Beach?",
+        "a": "November to April for dry weather and full beach access; avoid rainy May-October if swimming is key."
+      }
+    ],
+    "urgencyLine": "Beachfront rooms in Karon's resorts book out quickly during December-February peak—secure spots 3 months ahead for 2026.",
+    "methodology": "We compared Karon Beach to Patong Beach and Kata Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted quiet atmosphere highest because it defines the area's appeal over busier neighbors. Last updated: 2026-04.",
+    "metaTitle": "Staying in Karon Beach, Phuket (2026)",
+    "metaDescription": "Stay in Karon Beach, Phuket for uncrowded sands and mid-range luxury resorts in a relaxed vibe. Compare nearby areas and see top hotels for your 2026…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:23:04.975Z"
+}

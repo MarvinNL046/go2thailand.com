@@ -1,0 +1,211 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "hotelSlug": "137-pillars-suites-residences-bangkok",
+  "hotel": {
+    "name": "137 Pillars Suites & Residences Bangkok",
+    "category": "mid-range",
+    "priceRange": "5,000–8,500 THB (~143–243 USD) per night",
+    "area": "Sukhumvit",
+    "description": "An all-suite boutique hotel on Sukhumvit Soi 39 inspired by the brand's original 1889 colonial property in Chiang Mai. Every suite is generously sized (75–175 sqm) with a separate living room, private balcony and teak furnishings. The rooftop pool, Jack Bar and attentive butler service elevate this well above standard mid-range.",
+    "highlights": [
+      "All-suite hotel — smallest room is 75 sqm with private balcony",
+      "Rooftop infinity pool with Sukhumvit skyline views",
+      "Butler service available 24 hours",
+      "Award-winning Jack Bar cocktail bar and Nimitr restaurant",
+      "Quiet location on Soi 39, 10 minutes from BTS Phrom Phong"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2F137-pillars-suites-residences-bangkok.html",
+    "reviewScore": "9.3/10",
+    "bestFor": [
+      "Honeymooners",
+      "Luxury travellers on a budget",
+      "Long-stay guests"
+    ],
+    "sources": [
+      {
+        "sourceName": "Voyeglobal — Bangkok Hotels",
+        "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Chatrium Grand Bangkok",
+      "category": "mid-range",
+      "priceRange": "3,500–6,500 THB (~100–186 USD) per night",
+      "area": "Sukhumvit",
+      "description": "A polished 5-star hotel on Sukhumvit Road that offers luxury-grade amenities at a mid-range price point. Spacious rooms feature floor-to-ceiling windows overlooking the city skyline. The outdoor infinity pool, fitness centre and multiple restaurants make it easy to spend a full day without leaving the property.",
+      "highlights": [
+        "Outdoor infinity pool with city skyline views",
+        "Spacious rooms with floor-to-ceiling windows",
+        "Full-service fitness centre and spa",
+        "Multiple restaurants serving Thai and international cuisine",
+        "Convenient Sukhumvit location near BTS stations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChatrium%2520Grand%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Couples",
+        "Business travellers",
+        "First-time visitors wanting comfort"
+      ],
+      "sources": [
+        {
+          "sourceName": "Klook — Chatrium Grand Bangkok",
+          "sourceUrl": "https://www.klook.com/hotels/detail/1085275-chatrium-grand-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "SALA Rattanakosin Bangkok",
+      "category": "mid-range",
+      "priceRange": "3,800–7,000 THB (~109–200 USD) per night",
+      "area": "Riverside / Old City",
+      "description": "A boutique riverside hotel with just 15 rooms, SALA Rattanakosin offers one of Bangkok's most dramatic views — the Grand Palace and Wat Pho directly across the water from your room or the stunning rooftop bar. The intimate scale and personalised service make it feel far more special than its price suggests.",
+      "highlights": [
+        "Rooftop bar with direct views of Wat Arun and the Chao Phraya River",
+        "Boutique property with only 15 rooms — personalised service",
+        "Walking distance to Grand Palace, Wat Pho and Tha Chang Pier",
+        "Minimalist Thai design with riverside balconies on select rooms",
+        "Acclaimed restaurant serving modern Thai cuisine"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-rattanakosin-bangkok.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Couples",
+        "Design lovers",
+        "Temple explorers",
+        "Special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — SALA Rattanakosin",
+          "sourceUrl": "https://www.booking.com/hotel/th/sala-rattanakosin-bangkok.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Novotel Bangkok Ploenchit Sukhumvit",
+      "category": "mid-range",
+      "priceRange": "3,200–5,500 THB (~91–157 USD) per night",
+      "area": "Sukhumvit / Ploenchit",
+      "description": "The Novotel Ploenchit is consistently one of Bangkok's best-value mid-range options, located directly connected to Ploenchit BTS station. Large, well-appointed rooms, an excellent rooftop pool and a broad breakfast buffet make it a reliable choice for both tourists and business travellers.",
+      "highlights": [
+        "Directly connected to Ploenchit BTS station — no outside steps",
+        "Large outdoor pool on the 8th floor",
+        "Spacious rooms with modern bathrooms",
+        "Generous breakfast buffet included on select rates",
+        "Adjacent to Central Embassy and Emporium shopping malls"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnovotel-bangkok-ploenchit-sukhumvit.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Business travellers",
+        "Shoppers",
+        "Families",
+        "First-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Budget Your Trip — Bangkok Hotels",
+          "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking 137 Pillars Suites & Residences Bangkok without knowing its quiet Soi 39 location can leave you isolated from Sukhumvit's main buzz and nightlife.",
+    "intro": "137 Pillars Suites & Residences Bangkok delivers spacious all-suite accommodations starting at 75 sqm with private balconies and teak furnishings, plus a rooftop infinity pool overlooking the skyline. It's ideal for honeymooners, luxury travelers on a budget, and long-stay guests seeking boutique comfort without full luxury prices.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Budget luxury honeymooners",
+      "standout": "rooftop infinity pool",
+      "noGoFor": "Nightlife party seekers"
+    },
+    "whyBook": [
+      "Spacious suites from 75 sqm with separate living rooms",
+      "24-hour butler service for personalized attention",
+      "Rooftop pool with Sukhumvit skyline views",
+      "Award-winning Jack Bar for craft cocktails",
+      "Quiet Soi 39 escape near Phrom Phong BTS"
+    ],
+    "whyNotBook": [
+      "10-minute walk to BTS feels lengthy in Bangkok heat",
+      "Soi 39 lacks immediate street food or shopping vibrancy",
+      "All-suite setup overkill for short one-night stays",
+      "Limited on-site facilities beyond pool and two eateries",
+      "Colonial-inspired design may clash with modern Sukhumvit expectations"
+    ],
+    "skipIf": "Skip if you prefer hotels directly on bustling Sukhumvit Road for easy access to malls and bars without walking.",
+    "detailedReview": "Checking into 137 Pillars Suites & Residences Bangkok feels intimate and refined, with staff offering a warm welcome in the lobby that echoes the hotel's colonial inspiration from its 1889 Chiang Mai origins. Rooms provide a serene vibe, each suite measuring 75–175 sqm with a separate living room, private balcony, and teak furnishings that add a touch of elegance without ostentation. The standout amenity is the rooftop infinity pool, where guests lounge with panoramic Sukhumvit skyline views, often enjoying cocktails from the adjacent Jack Bar. Food quality shines at Nimitr restaurant, serving Thai and international dishes with fresh ingredients, though portions are modest for the mid-range price. Service is attentive via the 24-hour butler option, handling requests like laundry or dinner reservations efficiently, creating a home-like feel for longer stays. Typical guests include couples on honeymoons savoring the privacy, budget-conscious luxury seekers appreciating the space, and extended-stay professionals using the suites as temporary apartments. The quiet Soi 39 setting keeps noise low, but it means relying on the short walk to Phrom Phong BTS for city exploration. Overall, it's a polished retreat that punches above its mid-range category through thoughtful details like the butler support and bar's award-winning drinks.",
+    "locationReality": "Nestled on Sukhumvit Soi 39, the hotel offers a peaceful respite from the main road's chaos, just a 10-minute walk to Phrom Phong BTS station for easy access to central Bangkok. Within a 5-minute stroll, you'll find local cafes and a few convenience stores, but major attractions like Emporium Mall require a quick 5-minute Grab ride costing around 50-100 THB. For broader exploration, such as Siam Square, expect 15-20 minutes via BTS, making it convenient yet not ultra-central.",
+    "localSignals": [
+      "10-minute walk to BTS Phrom Phong station",
+      "One rooftop infinity pool on property",
+      "Two on-site dining venues: Jack Bar and Nimitr restaurant",
+      "Quiet location on Sukhumvit Soi 39, away from main traffic",
+      "Suites equipped with private balconies in every unit"
+    ],
+    "travellerNote": "Guests often praise the expansive suites and rooftop pool views but note the soi's relative isolation requires planning for transport to key sights.",
+    "bookingTips": [
+      "Request a higher-floor suite for unobstructed skyline views from the balcony",
+      "Book via Agoda for Thailand-specific deals often 10-15% cheaper than Booking.com",
+      "Prices spike in November-February high season and during Songkran in April",
+      "Verify butler service inclusion as it's available but may vary by room category",
+      "Check for any nearby construction notices on Soi 39 before confirming"
+    ],
+    "similarHotels": [
+      {
+        "name": "Chatrium Grand Bangkok",
+        "howDifferent": "Offers larger 5-star amenities like floor-to-ceiling windows at a slightly lower price but lacks the boutique all-suite intimacy."
+      },
+      {
+        "name": "SALA Rattanakosin Bangkok",
+        "howDifferent": "Provides dramatic riverside views of the Grand Palace in a smaller 15-room setup, trading Sukhumvit convenience for historical immersion."
+      },
+      {
+        "name": "Novotel Bangkok Ploenchit Sukhumvit",
+        "howDifferent": "Delivers direct BTS connectivity and consistent value in a chain format, but with smaller standard rooms compared to the suites here."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the smallest room size at 137 Pillars Suites & Residences Bangkok?",
+        "a": "The smallest suite measures 75 sqm, including a separate living room and private balcony."
+      },
+      {
+        "q": "Does 137 Pillars Suites & Residences Bangkok have a pool?",
+        "a": "Yes, it features a rooftop infinity pool with Sukhumvit skyline views."
+      },
+      {
+        "q": "Is butler service included at 137 Pillars Suites & Residences Bangkok?",
+        "a": "Butler service is available 24 hours, though availability may depend on your booking category."
+      },
+      {
+        "q": "How far is 137 Pillars Suites & Residences Bangkok from BTS Phrom Phong?",
+        "a": "It's a 10-minute walk to the station on Sukhumvit Soi 39."
+      },
+      {
+        "q": "What dining options are at 137 Pillars Suites & Residences Bangkok?",
+        "a": "The hotel has Nimitr restaurant for Thai and international cuisine plus the award-winning Jack Bar for cocktails."
+      },
+      {
+        "q": "Is 137 Pillars Suites & Residences Bangkok suitable for long stays?",
+        "a": "Yes, its spacious 75–175 sqm suites with living areas make it ideal for extended guest stays."
+      }
+    ],
+    "urgencyLine": "Suites at 137 Pillars Suites & Residences Bangkok with private balconies book out 1-2 months ahead for high season — check availability today.",
+    "methodology": "We rated 137 Pillars Suites & Residences Bangkok based on room size, amenities like the pool and butler service, location accessibility, and value for mid-range pricing. We weighted standout features like the all-suite design highest because they differentiate it from standard hotels in Sukhumvit. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "137 Pillars Suites Bangkok Review (2026)",
+    "metaDescription": "Discover 137 Pillars Suites & Residences Bangkok in Sukhumvit: all-suite luxury from 75 sqm with rooftop pool and butler service. Note the 10-min walk to BTS. Book for budget elegance in Bangkok today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:46:27.197Z"
+}

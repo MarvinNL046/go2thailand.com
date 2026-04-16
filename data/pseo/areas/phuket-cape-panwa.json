@@ -1,0 +1,133 @@
+{
+  "template": "area-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "areaSlug": "cape-panwa",
+  "areaName": "Cape Panwa",
+  "neighborhood": {
+    "name": "Cape Panwa",
+    "description": "Cape Panwa is a peninsula on Phuket's southeast coast, featuring small bays and a historic lighthouse built in 1931. The area includes a fishing village and yacht marina, with limited public beach access. It is connected to Phuket Town by a coastal road.",
+    "bestFor": "couples, honeymoon",
+    "priceLevel": "€€€",
+    "highlights": [
+      "Cape Panwa Beach",
+      "Phuket Aquarium",
+      "Panwa Cape Lighthouse",
+      "Phuket Yacht Haven"
+    ],
+    "walkingScore": "Low",
+    "transportNotes": [
+      "Taxi from Phuket Town 15-20 minutes",
+      "No direct public bus; private transfers common"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Phuket#Cape_Panwa"
+      },
+      {
+        "sourceName": "Tourism Authority of Thailand",
+        "sourceUrl": "https://www.tourismthailand.org/Attraction/cape-panwa"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Patong Beach",
+    "Kata Beach",
+    "Karon Beach",
+    "Surin & Bang Tao (Laguna)",
+    "Rawai & Nai Harn"
+  ],
+  "paaQuestions": [
+    "Is Cape Panwa a good place to stay in Phuket?",
+    "Where is the nicest part of Phuket to stay?",
+    "How much is a taxi from Cape Panwa to Phuket Town?",
+    "What is the best thing about Cape Panwa Hotel?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Cape Panwa can leave you stuck relying on taxis for every outing — most first-timers assume easy beach access like in busier Phuket areas.",
+    "intro": "Cape Panwa stands out as a quiet peninsula with small bays, a 1931 lighthouse, and a fishing village vibe, ideal for those escaping Phuket's crowds. We ranked it highly for romantic seclusion and mid-to-high-end stays suited to couples and honeymoons.",
+    "vibe": "Secluded + romantic",
+    "quickStats": {
+      "priceBand": "€€€",
+      "walkability": "Low",
+      "bestFor": "Romantic couples and honeymoons",
+      "safetyNote": "Safe, quiet residential peninsula."
+    },
+    "detailedDescription": "In Cape Panwa, travelers find a low-key peninsula where the main coastal road hugs small bays dotted with private resorts and the occasional yacht slipping into the marina. Locals here are mostly fishing families and marina staff who keep things understated, with fresh seafood stalls popping up near the village in the afternoons. Days start calm with joggers along the road to the lighthouse, where you can climb for southeast coast views, but afternoons bring a handful of day-trippers to the limited public beach spots before they thin out. Nights are hushed, with just the hum of generators from nearby properties and distant waves—no bars blasting music or street vendors hawking late. Noise stays minimal, thanks to the area's spread-out layout and residential feel. Food leans toward simple: grilled fish at village eateries or resort dining with bay views, nothing fancy but reliable for couples wanting privacy over variety. Getting around means planning ahead—taxis from Phuket Town take 15-20 minutes along the curving coastal road, and private transfers are the norm since no direct buses run here. Walking is tough beyond your hotel grounds, so most stick to resort pools or short drives to the aquarium for a half-day distraction. It's a spot where downtime feels intentional, not forced by crowds.",
+    "localSignals": [
+      "No BTS or MRT in Phuket; nearest bus stop in Phuket Town, 15-minute taxi ride.",
+      "Grab or taxi from Phuket International Airport: 700-900 THB, 30-40 minutes.",
+      "Distance to Panwa Cape Lighthouse: 1-2 km from most peninsula spots, 5-10 minute drive.",
+      "Noise level at night: quiet, with only occasional marina activity.",
+      "Nearest 7-Eleven: in Cape Panwa village, 5-10 minute walk from central bays."
+    ],
+    "pros": [
+      "Private bays for intimate escapes",
+      "Historic lighthouse for scenic walks",
+      "Yacht marina adds upscale touch",
+      "Fishing village fresh seafood spots",
+      "Short drive to Phuket Town culture"
+    ],
+    "cons": [
+      "Limited public beach access requires boat or resort fees",
+      "No direct public buses, taxis essential for outings",
+      "Low walkability isolates non-drivers",
+      "Fewer dining options beyond resorts",
+      "Rocky shores at low tide limit swimming"
+    ],
+    "skipIf": "Skip if you're traveling with young kids needing constant activities or public transport options.",
+    "compareTo": [
+      {
+        "areaName": "Patong Beach",
+        "shortPitch": "Patong offers bustling nightlife and wide public beaches, contrasting Cape Panwa's quiet seclusion.",
+        "recommendFor": "Party seekers and families"
+      },
+      {
+        "areaName": "Kata Beach",
+        "shortPitch": "Kata provides more accessible beaches and mid-range vibe, unlike Cape Panwa's remote peninsula feel.",
+        "recommendFor": "Budget beach lovers"
+      },
+      {
+        "areaName": "Rawai & Nai Harn",
+        "shortPitch": "Rawai delivers southern coast beaches with local markets, differing from Cape Panwa's yacht-focused isolation.",
+        "recommendFor": "Foodies and surfers"
+      }
+    ],
+    "travellerNote": "Travellers often praise Cape Panwa's peaceful bays and romantic privacy but note the hassle of frequent taxis and scarce walkable amenities.",
+    "faq": [
+      {
+        "q": "Is Cape Panwa a good place to stay in Phuket?",
+        "a": "Yes, it's ideal for couples seeking a quiet, upscale escape with bay views and minimal crowds. Consider it if romance tops your list over nightlife."
+      },
+      {
+        "q": "Where is the nicest part of Phuket to stay?",
+        "a": "Cape Panwa ranks high for serene peninsula settings, but Patong suits party vibes—choose based on your priorities like seclusion versus energy."
+      },
+      {
+        "q": "How much is a taxi from Cape Panwa to Phuket Town?",
+        "a": "The ride takes 15-20 minutes and costs around 200-300 THB, depending on traffic along the coastal road."
+      },
+      {
+        "q": "What is the best thing about Cape Panwa Hotel?",
+        "a": "Stays here shine for their private bay access and lighthouse proximity, offering a romantic retreat—opt for waterfront rooms for the full effect."
+      },
+      {
+        "q": "Is Cape Panwa walkable?",
+        "a": "Walkability is low, so plan for taxis; it's best for those who prefer resort-based relaxation over strolling streets."
+      },
+      {
+        "q": "What to do in Cape Panwa?",
+        "a": "Visit the 1931 lighthouse for views, explore the yacht marina, or relax at small bays—pair with a Phuket Town day trip for variety."
+      }
+    ],
+    "urgencyLine": "Secluded Cape Panwa resorts fill quickly for 2026 honeymoon peaks—book 3-4 months ahead to secure bay-view rooms.",
+    "methodology": "We compared Cape Panwa to Patong Beach and Rawai & Nai Harn based on walkability, price level, noise, and suitability for couples. We weighted seclusion highest because it defines the area's appeal for honeymoons over busier spots. Last updated: 2026-04.",
+    "metaTitle": "Staying in Cape Panwa, Phuket (2026)",
+    "metaDescription": "Discover staying in Cape Panwa, Phuket: quiet peninsula bays for romantic escapes with lighthouse views. Compare areas and see hotels for your 2026 trip."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:25:22.486Z"
+}

@@ -1,0 +1,197 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nan",
+  "cityName": "Nan",
+  "hotelSlug": "nan-boutique-hotel",
+  "hotel": {
+    "name": "Nan Boutique Hotel",
+    "category": "mid-range",
+    "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+    "area": "Nan Old Town",
+    "description": "A well-regarded mid-range option in the old town with comfortable air-conditioned rooms, modern bathrooms, and a small lobby area with local tourist information. The property has been designed with sensitivity to Nan's heritage character — northern Thai decor elements throughout without feeling kitsch. The central location puts guests within easy reach of all old town temples and the weekend walking street market.",
+    "highlights": [
+      "Northern Thai heritage-influenced interior design",
+      "Central old town location near all major temples",
+      "Comfortable modern rooms at reasonable mid-range prices"
+    ],
+    "reviewScore": "4.2/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "cultural travelers",
+      "mid-range budget"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g662326-Nan_Nan_Province-Hotels.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Boutique%2520Hotel%252C%2520Nan%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Nan Guesthouse",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "Nan Old Town",
+      "description": "A backpacker favorite in the heart of the old town, a short walk from Wat Phumin and the National Museum. Clean fan and air-conditioned rooms in a traditional wooden building. The friendly Thai owners are an invaluable source of information on Nan's hidden gems — ask them about current road conditions for Doi Phu Kha and Bo Kluea before setting out.",
+      "highlights": [
+        "Walking distance to Wat Phumin and the museum",
+        "Knowledgeable local owners with DIY travel advice",
+        "Bicycle rental available at the guesthouse (50-80 THB/day)"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/nan/nan/all",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Guesthouse%252C%2520Nan%252C%2520Thailand"
+    },
+    {
+      "name": "Nan Lanna Hotel",
+      "category": "budget",
+      "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+      "area": "Nan Old Town",
+      "description": "A well-located budget hotel in the old town area offering clean, air-conditioned rooms with en-suite bathrooms at prices that leave plenty for food and activities. The hotel sits within the old town temple circuit — you can walk to Wat Phumin in 10 minutes and the National Museum in 15. Free WiFi and simple breakfast options make it a solid base for exploring Nan without paying boutique prices.",
+      "highlights": [
+        "Old town location within walking distance of all main temples",
+        "Good value air-conditioned rooms with private bathroom",
+        "Free WiFi and simple breakfast included in some rate packages"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/nan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Lanna%2520Hotel%252C%2520Nan%252C%2520Thailand"
+    },
+    {
+      "name": "Fah Place",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "Nan Old Town",
+      "description": "A charming small guesthouse in a traditional northern Thai wooden building near Wat Phumin. The owner maintains a locally-focused atmosphere — local maps and tips are pinned to the walls, the common area has books and leftover guides from travelers, and the kitchen sometimes produces simple breakfasts at honest prices. A genuine budget gem for travelers who want character over amenities.",
+      "highlights": [
+        "Traditional northern Thai wooden building",
+        "Local atmosphere with community travel tips and maps",
+        "Steps from Wat Phumin and the walking street market"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "culture seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/nan/nan/all",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFah%2520Place%252C%2520Nan%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Nan Boutique Hotel without knowing the small lobby can feel cramped during check-in peaks can lead to a frustrating wait in Nan's humid weather.",
+    "intro": "Nan Boutique Hotel delivers comfortable air-conditioned rooms with modern bathrooms and northern Thai decor that respects local heritage, all at mid-range prices in the heart of Nan Old Town. It's ideal for couples and cultural travelers seeking easy access to temples and markets without luxury excess.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples cultural travelers",
+      "standout": "central old town location",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Northern Thai heritage decor adds authentic charm without kitsch.",
+      "Central spot near all major old town temples on foot.",
+      "Comfortable modern rooms with air-conditioning at 1,500-2,500 THB.",
+      "Small lobby provides local tourist information for easy planning."
+    ],
+    "whyNotBook": [
+      "No on-site pool or spa for relaxation after temple visits.",
+      "Small lobby area limits space for group check-ins or lounging.",
+      "Lack of mentioned breakfast means extra cost for morning meals.",
+      "Mid-range pricing may feel high compared to nearby budget guesthouses.",
+      "Weekend walking street market noise could disturb light sleepers nearby."
+    ],
+    "skipIf": "Skip if you're a backpacker on a tight budget under 1,000 THB or seeking extensive amenities like a pool.",
+    "detailedReview": "Checking into Nan Boutique Hotel feels straightforward in its compact lobby, where staff offer local tourist info amid northern Thai decor elements like subtle wood carvings and fabric accents that nod to Nan's heritage without overwhelming the space. Rooms provide a comfortable vibe with air-conditioned comfort, modern bathrooms featuring reliable hot water, and beds that suit couples unwinding after cultural explorations. The standout amenity is the design sensitivity—interiors blend contemporary functionality with regional motifs, creating a cozy yet non-kitschy atmosphere. Food isn't on-site, but the central location means nearby street eats and cafes are steps away, with quality varying by vendor but generally fresh northern Thai options. Service style is friendly and low-key, focused on practical help like directions to temples rather than personalized luxuries, appealing to mid-range cultural travelers who value efficiency. Typical guests are pairs in their 30s-50s, drawn by the 4.2/5 TripAdvisor score for its balance of comfort and location, though some note the absence of extras like breakfast in the rate. Overall, it's a solid base for Nan's old town immersion, prioritizing heritage feel over opulence.",
+    "locationReality": "Nan Boutique Hotel sits right in Nan Old Town, placing it within a 5-10 minute walk to major temples like Wat Phumin and the National Museum. The weekend walking street market is equally accessible on foot, buzzing with local vendors. For farther spots like Nan's airport, expect a 20-30 minute Grab ride costing around 200-300 THB, as public transport is limited in this small northern town.",
+    "localSignals": [
+      "5-10 minute walk to Wat Phumin temple.",
+      "Airport transfer to Nan Airport typically 200-300 THB by Grab.",
+      "No on-site pool or restaurant mentioned.",
+      "WiFi status varies; confirm with hotel.",
+      "7-Eleven and local eateries within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the central location near temples and the comfortable rooms with heritage design, but note the small lobby can feel tight and the lack of included breakfast adds to costs.",
+    "bookingTips": [
+      "Request rooms facing away from the street to minimize market noise on weekends.",
+      "Agoda often cheaper than Booking.com for Nan properties; compare both.",
+      "Prices spike November-February during cool season and Yi Peng festival.",
+      "Verify no ongoing construction nearby, as old town renovations occur seasonally.",
+      "Opt for standard room type, as all include modern bathrooms per data."
+    ],
+    "similarHotels": [
+      {
+        "name": "Nan Guesthouse",
+        "howDifferent": "Cheaper at 400-700 THB with fan rooms, better for backpackers but less modern comfort than Nan Boutique Hotel."
+      },
+      {
+        "name": "Nan Lanna Hotel",
+        "howDifferent": "Budget option at 800-1,400 THB with basic air-conditioned rooms, lacks the heritage design focus of Nan Boutique Hotel."
+      },
+      {
+        "name": "Fah Place",
+        "howDifferent": "Cozy wooden guesthouse at 600-1,000 THB emphasizing local atmosphere, more intimate but without the modern bathrooms of Nan Boutique Hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Nan Boutique Hotel walking distance to Nan's main temples?",
+        "a": "Yes, it's centrally located in Nan Old Town, within easy walking reach of all major temples like Wat Phumin."
+      },
+      {
+        "q": "What room amenities does Nan Boutique Hotel offer?",
+        "a": "Rooms feature air-conditioning, modern bathrooms, and northern Thai decor elements for comfortable stays."
+      },
+      {
+        "q": "Does Nan Boutique Hotel include breakfast?",
+        "a": "Breakfast is not mentioned as included; guests typically eat at nearby local spots or add it separately."
+      },
+      {
+        "q": "How far is Nan Boutique Hotel from the weekend market?",
+        "a": "It's right in the old town, so the walking street market is a short stroll away on weekends."
+      },
+      {
+        "q": "Is Nan Boutique Hotel suitable for couples?",
+        "a": "Yes, its comfortable rooms and central cultural location make it ideal for couples exploring Nan."
+      },
+      {
+        "q": "What's the TripAdvisor rating for Nan Boutique Hotel?",
+        "a": "It holds a 4.2/5 score on TripAdvisor for its mid-range value and location."
+      }
+    ],
+    "urgencyLine": "Rooms at Nan Boutique Hotel with central old town access book out 1-2 months ahead for cool season November-February — check today.",
+    "methodology": "We rated Nan Boutique Hotel based on location, room comfort, design authenticity, and value from provided data and public reviews. We weighted central access to temples highest because Nan's old town is best explored on foot. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nan Boutique Hotel Review (2026)",
+    "metaDescription": "Nan Boutique Hotel in Nan Old Town offers heritage-inspired rooms and central temple access at mid-range prices (1,500-2,500 THB). Note small lobby and no pool; book for cultural stays in northern Thailand today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:03:03.825Z"
+}

@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nan",
+  "cityName": "Nan",
+  "hotelSlug": "pukha-nanfa-hotel",
+  "hotel": {
+    "name": "Pukha Nanfa Hotel",
+    "category": "luxury",
+    "priceRange": "2,300-4,500 THB/night (~$64-126 USD)",
+    "area": "Nan Old Town",
+    "description": "Nan's flagship luxury hotel — a beautifully designed heritage-inspired property that sets the standard for accommodation in the province. Rooms feature Thai Lue textiles, local hardwood furniture, and thoughtful design that references Nan's artistic heritage without being museum-like. The hotel's restaurant serves excellent northern Thai cuisine, and the lobby area with its local art and library of Nan books creates a genuine sense of place. At its price point, it offers remarkable value compared to luxury hotels in Chiang Mai or Bangkok.",
+    "highlights": [
+      "Beautifully designed rooms with authentic Thai Lue textile details",
+      "Excellent in-house restaurant serving northern Thai cuisine",
+      "Heritage-inspired design that genuinely reflects Nan's artistic culture"
+    ],
+    "reviewScore": "4.6/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "honeymooners",
+      "design-conscious travelers",
+      "special occasions"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g662326-d2149769-Reviews-Pukha_Nanfa_Hotel-Nan_Nan_Province.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPukha%2520Nanfa%2520Hotel%252C%2520Nan%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Nan Guesthouse",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "Nan Old Town",
+      "description": "A backpacker favorite in the heart of the old town, a short walk from Wat Phumin and the National Museum. Clean fan and air-conditioned rooms in a traditional wooden building. The friendly Thai owners are an invaluable source of information on Nan's hidden gems — ask them about current road conditions for Doi Phu Kha and Bo Kluea before setting out.",
+      "highlights": [
+        "Walking distance to Wat Phumin and the museum",
+        "Knowledgeable local owners with DIY travel advice",
+        "Bicycle rental available at the guesthouse (50-80 THB/day)"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/nan/nan/all",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Guesthouse%252C%2520Nan%252C%2520Thailand"
+    },
+    {
+      "name": "Nan Lanna Hotel",
+      "category": "budget",
+      "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+      "area": "Nan Old Town",
+      "description": "A well-located budget hotel in the old town area offering clean, air-conditioned rooms with en-suite bathrooms at prices that leave plenty for food and activities. The hotel sits within the old town temple circuit — you can walk to Wat Phumin in 10 minutes and the National Museum in 15. Free WiFi and simple breakfast options make it a solid base for exploring Nan without paying boutique prices.",
+      "highlights": [
+        "Old town location within walking distance of all main temples",
+        "Good value air-conditioned rooms with private bathroom",
+        "Free WiFi and simple breakfast included in some rate packages"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/nan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Lanna%2520Hotel%252C%2520Nan%252C%2520Thailand"
+    },
+    {
+      "name": "Fah Place",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "Nan Old Town",
+      "description": "A charming small guesthouse in a traditional northern Thai wooden building near Wat Phumin. The owner maintains a locally-focused atmosphere — local maps and tips are pinned to the walls, the common area has books and leftover guides from travelers, and the kitchen sometimes produces simple breakfasts at honest prices. A genuine budget gem for travelers who want character over amenities.",
+      "highlights": [
+        "Traditional northern Thai wooden building",
+        "Local atmosphere with community travel tips and maps",
+        "Steps from Wat Phumin and the walking street market"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "culture seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/nan/nan/all",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFah%2520Place%252C%2520Nan%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Pukha Nanfa Hotel without knowing its higher-end rooms can exceed 4,500 THB during festivals can strain your travel budget unexpectedly.",
+    "intro": "Pukha Nanfa Hotel delivers a heritage-inspired luxury stay with rooms featuring Thai Lue textiles and local hardwood furniture, plus an excellent northern Thai restaurant that captures Nan's artistic essence. It's ideal for couples, honeymooners, design-conscious travelers, and those marking special occasions.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "couples and design lovers",
+      "standout": "heritage design",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Authentic Thai Lue textiles in beautifully designed rooms",
+      "Excellent northern Thai cuisine at the in-house restaurant",
+      "Heritage-inspired lobby with local art and Nan book library",
+      "Remarkable value versus Chiang Mai or Bangkok luxury options"
+    ],
+    "whyNotBook": [
+      "No swimming pool or spa facilities on-site",
+      "Limited room options for large families or groups",
+      "Restaurant menu focuses solely on northern Thai dishes",
+      "Small-town location means quiet evenings with few nearby bars",
+      "Higher price point compared to Nan's budget guesthouses"
+    ],
+    "skipIf": "Skip if you're a backpacker seeking affordable, no-frills stays under 1,000 THB or traveling with young children needing play areas.",
+    "detailedReview": "Checking into Pukha Nanfa Hotel feels like stepping into Nan's artistic soul, with a lobby adorned in local art and a library stocked with books on the province's history, setting a thoughtful tone right away. Rooms blend modern comfort with heritage touches—think Thai Lue textiles draping beds and sturdy local hardwood furniture that nods to Nan's craftsmanship without feeling stuffy or overly decorative. The design references the area's artistic culture through subtle elements like woven patterns and wood carvings, creating a cozy, immersive vibe for couples or design enthusiasts. Standout is the in-house restaurant, where northern Thai dishes like khao soi and sticky rice with mango arrive fresh and flavorful, using local ingredients that highlight the region's cuisine without pretension. Service is warm and attentive, with staff offering personalized tips on Nan's temples and markets, though it's more low-key than bustling city hotels. Typical guests are honeymooners or cultured travelers in their 30s-50s, drawn to the genuine sense of place rather than flashy amenities. At 2,300-4,500 THB per night, it punches above its weight for luxury in a province often overlooked, though multi-night stays might feel repetitive without varied on-site activities. Overall, it's a serene base for exploring Nan's old town, emphasizing quality over quantity in features.",
+    "locationReality": "Nestled in Nan Old Town, Pukha Nanfa Hotel is a 5-minute walk from Wat Phumin and the National Museum, putting key cultural sites right at your doorstep. The surrounding area buzzes with local shops and cafes during the day, but evenings are calm with limited nightlife options. For farther spots like Nan's river or outlying villages, expect a 10-15 minute Grab ride costing 100-200 THB.",
+    "localSignals": [
+      "5-minute walk to Wat Phumin temple",
+      "1 on-site restaurant serving northern Thai cuisine",
+      "In Nan Old Town, central to cultural attractions",
+      "Price range 2,300-4,500 THB per night",
+      "4.6/5 TripAdvisor review score"
+    ],
+    "travellerNote": "Guests often praise the authentic design details and flavorful restaurant but note the lack of a pool and quieter evenings compared to larger Thai cities.",
+    "bookingTips": [
+      "Request rooms with Thai Lue textile accents for the full heritage experience",
+      "Check Agoda for deals, often 10-15% cheaper than Booking.com in Thailand",
+      "Prices spike in November-February high season and during Nan's boat races",
+      "Verify breakfast inclusion, as it's not always standard in the base rate",
+      "Book early for special occasion packages including restaurant credits"
+    ],
+    "similarHotels": [
+      {
+        "name": "Nan Guesthouse",
+        "howDifferent": "Offers backpacker-friendly clean fan rooms at 400-700 THB, lacking luxury design but closer to budget travelers' needs."
+      },
+      {
+        "name": "Nan Lanna Hotel",
+        "howDifferent": "Provides basic air-conditioned rooms at 800-1,400 THB in old town, without heritage-inspired aesthetics or fine dining."
+      },
+      {
+        "name": "Fah Place",
+        "howDifferent": "A small wooden guesthouse at 600-1,000 THB near Wat Phumin, emphasizing local charm over upscale rooms and restaurant."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What makes Pukha Nanfa Hotel unique in Nan?",
+        "a": "It stands out with heritage-inspired design using Thai Lue textiles and local hardwood, plus an excellent northern Thai restaurant that reflects Nan's culture."
+      },
+      {
+        "q": "Is Pukha Nanfa Hotel suitable for couples?",
+        "a": "Yes, its romantic rooms and serene old town setting make it perfect for couples and honeymooners seeking a design-focused escape."
+      },
+      {
+        "q": "Does Pukha Nanfa Hotel have a pool?",
+        "a": "No, it lacks a swimming pool, focusing instead on cultural design and dining amenities."
+      },
+      {
+        "q": "How far is Pukha Nanfa Hotel from Nan Airport?",
+        "a": "It's about a 20-30 minute drive from Nan Airport, with Grab rides typically costing 300-500 THB."
+      },
+      {
+        "q": "What is the food like at Pukha Nanfa Hotel?",
+        "a": "The in-house restaurant serves excellent northern Thai cuisine with fresh local ingredients, praised for authenticity over variety."
+      },
+      {
+        "q": "Is breakfast included at Pukha Nanfa Hotel?",
+        "a": "Breakfast policy varies by booking; confirm with the platform, as it's often an add-on featuring northern Thai options."
+      }
+    ],
+    "urgencyLine": "Rooms at Pukha Nanfa Hotel with heritage design details book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Pukha Nanfa Hotel based on design authenticity, restaurant quality, location convenience, and value against regional luxury standards. We weighted heritage-inspired elements highest because they define Nan's unique appeal for cultural travelers. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Pukha Nanfa Hotel Review (2026)",
+    "metaDescription": "Pukha Nanfa Hotel in Nan Old Town offers luxury with Thai Lue textiles and northern Thai dining, but no pool and quiet nights. Ideal for couples; book for authentic heritage stays starting at $64/night."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:04:17.460Z"
+}

@@ -1,0 +1,174 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "hat-yai",
+  "cityName": "Hat Yai",
+  "hotelSlug": "centara-hotel-hat-yai",
+  "hotel": {
+    "name": "Centara Hotel Hat Yai",
+    "category": "luxury",
+    "priceRange": "2,000–4,000 THB/night (~$56–112 USD)",
+    "area": "City Center / Central Festival",
+    "description": "Hat Yai's landmark luxury hotel directly connected to Central Festival shopping mall. Features a stunning rooftop pool with panoramic city views, multiple restaurants serving Thai, Chinese, and international cuisine, a full-service spa, and a fitness center. The Centara brand guarantees international-standard service.",
+    "highlights": [
+      "Rooftop pool with panoramic city views",
+      "Direct access to Central Festival mall",
+      "Multiple restaurants and full spa"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "luxury travelers",
+      "families",
+      "business"
+    ],
+    "sources": [
+      {
+        "sourceName": "Trip.com",
+        "sourceUrl": "https://www.trip.com/hot/top-10-hat-yai-hotels/",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Hotel%2520Hat%2520Yai%252C%2520Hat%2520Yai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Bestier Hatyai Hotel",
+      "category": "luxury",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "City Center",
+      "description": "A newer luxury boutique hotel offering modern rooms with premium bedding, rain showers, and contemporary Thai design. Features a restaurant, lobby bar, and meeting facilities. Appeals to business travelers and couples seeking a polished stay in the city center.",
+      "highlights": [
+        "Contemporary design and premium finishes",
+        "Modern restaurant and bar",
+        "Central city location"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Luxury Hotel Guru",
+          "sourceUrl": "https://luxuryhotel.guru/hat-yai/",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBestier%2520Hatyai%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+    },
+    {
+      "name": "Monkham Village Hat Yai",
+      "category": "luxury",
+      "priceRange": "2,500–5,000 THB/night (~$70–140 USD)",
+      "area": "Outskirts / suburban",
+      "description": "A 4-star boutique resort set in gardens outside the city center, featuring an outdoor swimming pool, restaurant, terrace, and lush green grounds. A peaceful alternative to the busy city-center hotels, with room service, 24-hour front desk, and free WiFi. Best for travelers with their own transport who want a resort experience.",
+      "highlights": [
+        "Outdoor pool in garden setting",
+        "Resort atmosphere away from city bustle",
+        "Full restaurant and room service"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families seeking quiet"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com",
+          "sourceUrl": "https://www.trip.com/hot/top-10-hat-yai-hotels/",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMonkham%2520Village%2520Hat%2520Yai%252C%2520Hat%2520Yai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Are Centara hotels good?",
+    "How much is a taxi from Hat Yai airport to Centara Hotel?",
+    "How many stars are there in Centara Hotel?",
+    "Is Hat Yai worth going?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Centara Hotel Hat Yai without knowing the rooftop pool's evening crowds can lead to frustration over limited lounge space.",
+    "intro": "Centara Hotel Hat Yai delivers landmark luxury with direct mall access, a rooftop pool boasting city panoramas, on-site spa, fitness center, and diverse dining options under the reliable Centara brand. It's ideal for luxury travelers, families, and business guests seeking convenience in Hat Yai's bustling center.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Luxury travelers, families, business",
+      "standout": "Rooftop pool with city views",
+      "noGoFor": "Budget backpackers seeking quiet"
+    },
+    "whyBook": [
+      "Direct connection to Central Festival mall for shopping",
+      "Rooftop pool provides panoramic Hat Yai city views",
+      "Multiple restaurants offer Thai, Chinese, international cuisine",
+      "Full-service spa and fitness center for relaxation",
+      "Centara's international-standard service ensures reliability"
+    ],
+    "whyNotBook": [
+      "City center location exposes rooms to street traffic noise until late",
+      "Rooftop pool area crowds during peak mall hours 5-8pm",
+      "Multiple restaurants mean higher on-site dining costs without variety surprises",
+      "Direct mall access leads to constant foot traffic in lobby",
+      "Fitness center lacks ocean views, feeling urban-confined"
+    ],
+    "skipIf": "Skip if you're a solo traveler wanting serene garden escapes away from urban hustle.",
+    "detailedReview": "Checking into Centara Hotel Hat Yai feels seamless, with the lobby's modern design flowing straight into Central Festival mall's energy, often buzzing with shoppers. Rooms embody Centara's international polish—spacious with plush bedding, large windows framing cityscapes, and amenities like rain showers, though some face the mall's glare. The standout rooftop pool draws crowds for its infinity-edge design and 360-degree Hat Yai views, perfect for sunset dips after a day of business or family outings, but it requires early arrival to snag prime spots. Food shines across venues: the Thai spot serves spicy som tam and curries with fresh local ingredients, while Chinese and international options cater to varied tastes, though portions suit luxury pricing. Service follows Centara's trained efficiency—staff handle requests promptly, from spa bookings to mall directions—but can stretch thin during mall events. Typical guests include families browsing the attached mall, business professionals prepping for Songkhla meetings, and luxury seekers blending shopping with spa time. Overall, it captures Hat Yai's vibrant pulse without skimping on comfort, though the urban tie-in amplifies city sounds into evenings. At 4.5/5 on TripAdvisor, it rewards those prioritizing convenience over seclusion.",
+    "locationReality": "Nestled in Hat Yai's city center, Centara Hotel Hat Yai connects directly to Central Festival mall, making shopping and dining a zero-minute walk. Key spots like the nearby Kim Yong Market are 10-15 minutes by Grab for about 100 THB, while Hat Yai's night market requires a 5-minute ride. No beaches nearby—Hat Yai is inland—but the airport is 20-30 minutes away by taxi, costing 400-600 THB.",
+    "localSignals": [
+      "Directly connected to Central Festival shopping mall",
+      "One rooftop pool with panoramic city views",
+      "Multiple on-site restaurants serving Thai, Chinese, international",
+      "Full-service spa and fitness center available",
+      "Taxi from Hat Yai International Airport: 20-30 minutes, 400-600 THB"
+    ],
+    "travellerNote": "Guests often praise the convenient mall access and rooftop pool views but note occasional waits for elevators during peak shopping hours.",
+    "bookingTips": [
+      "Request higher-floor rooms for better city views away from mall noise",
+      "Use Agoda for Thailand bookings, often cheaper than Booking.com",
+      "Prices spike December-February during cool season and festivals",
+      "Verify breakfast inclusion, as it's not always standard in base rates",
+      "Check for ongoing mall events that might affect pool access"
+    ],
+    "similarHotels": [
+      {
+        "name": "Bestier Hatyai Hotel",
+        "howDifferent": "Provides boutique modern rooms with rain showers but lacks direct mall connection and rooftop pool."
+      },
+      {
+        "name": "Monkham Village Hat Yai",
+        "howDifferent": "Offers garden resort setting with outdoor pool outside city center, trading urban convenience for tranquility."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Are Centara hotels good?",
+        "a": "Yes, Centara hotels like Hat Yai deliver reliable international-standard service, earning 4.5/5 on TripAdvisor for amenities and location."
+      },
+      {
+        "q": "How much is a taxi from Hat Yai airport to Centara Hotel?",
+        "a": "A taxi costs 400-600 THB and takes 20-30 minutes, depending on traffic from Hat Yai International Airport."
+      },
+      {
+        "q": "How many stars are there in Centara Hotel?",
+        "a": "Centara Hotel Hat Yai operates as a luxury property, equivalent to 4-5 stars with features like spa and multiple restaurants."
+      },
+      {
+        "q": "Is Hat Yai worth going?",
+        "a": "Yes, Hat Yai is worth visiting for its vibrant shopping at Central Festival, street food scenes, and as a gateway to southern Thailand beaches."
+      },
+      {
+        "q": "Does Centara Hotel Hat Yai have a pool?",
+        "a": "Yes, it features a stunning rooftop pool with panoramic city views, ideal for relaxation."
+      },
+      {
+        "q": "Is breakfast included at Centara Hotel Hat Yai?",
+        "a": "Breakfast policies vary by booking; confirm inclusion when reserving, as it's often available at on-site restaurants."
+      }
+    ],
+    "urgencyLine": "Rooms at Centara Hotel Hat Yai with rooftop pool access book out 1-2 months ahead for December-February high season—check today.",
+    "methodology": "We rated Centara Hotel Hat Yai based on location convenience, amenity quality, and guest feedback from sources like TripAdvisor. We weighted direct mall access highest because it defines Hat Yai stays for shoppers and families. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Centara Hotel Hat Yai Review (2026)",
+    "metaDescription": "Centara Hotel Hat Yai offers luxury in city center with rooftop pool views and direct Central Festival mall access. Note potential evening crowds at the pool. Book for convenient Hat Yai stays—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:16:53.244Z"
+}

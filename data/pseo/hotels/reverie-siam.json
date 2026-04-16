@@ -1,0 +1,138 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pai",
+  "cityName": "Pai",
+  "hotelSlug": "reverie-siam",
+  "hotel": {
+    "name": "Reverie Siam",
+    "category": "luxury",
+    "priceRange": "4,000–8,000 THB/night (~$112–225 USD)",
+    "area": "Town Center (riverside)",
+    "description": "Pai's most stylish hotel, featuring white colonial-inspired buildings set in manicured gardens with a hedge maze, two swimming pools, and mountain views. Individual villas and hotel rooms are decorated with eclectic vintage furnishings, four-poster beds, and free-standing bathtubs. The restaurant and cocktail bar are among Pai's best.",
+    "highlights": [
+      "Hedge maze and manicured gardens",
+      "Two swimming pools",
+      "Stylish vintage-eclectic interior design",
+      "On-site restaurant and cocktail bar"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "honeymooners",
+      "luxury seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303916-d4876012-Reviews-Reverie_Siam-Pai_Mae_Hong_Son_Province.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DReverie%2520Siam%252C%2520Pai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Pai Island Resort",
+      "category": "luxury",
+      "priceRange": "5,000–10,000 THB/night (~$140–280 USD)",
+      "area": "Outside Town (riverside)",
+      "description": "A secluded luxury resort set on a private stretch of the Pai River, with spacious villas surrounded by tropical gardens and mountain views. Each villa features a private terrace, outdoor rain shower, and luxurious furnishings. The infinity pool overlooks the river and mountains — the most scenic pool setting in Pai.",
+      "highlights": [
+        "Infinity pool with river and mountain views",
+        "Private riverside villas",
+        "Secluded jungle setting",
+        "On-site spa and restaurant"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda",
+          "sourceUrl": "https://www.agoda.com/pai-island-resort/hotel/pai-th.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Island%2520Resort%252C%2520Pai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Reverie Siam without knowing its town center location can expose you to unexpected evening noise from nearby Pai bars.",
+    "intro": "Reverie Siam delivers Pai's most stylish stay with white colonial-inspired buildings, manicured gardens featuring a hedge maze, two swimming pools, and mountain views, plus villas and rooms with eclectic vintage furnishings, four-poster beds, and free-standing bathtubs. It's ideal for couples, honeymooners, and luxury seekers seeking a romantic, design-forward escape.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "couples honeymooners luxury",
+      "standout": "hedge maze gardens",
+      "noGoFor": "budget family travelers"
+    },
+    "whyBook": [
+      "Explore unique hedge maze in manicured gardens",
+      "Relax in two outdoor swimming pools with mountain views",
+      "Enjoy eclectic vintage rooms with four-poster beds",
+      "Dine at top-rated on-site restaurant and cocktail bar"
+    ],
+    "whyNotBook": [
+      "Town center riverside spot means hearing distant motorbike traffic at night",
+      "Vintage-eclectic decor may feel cluttered for minimalism fans",
+      "Gardens and pools attract mosquitoes during rainy season evenings",
+      "Villas book up fast, leaving standard rooms with less privacy",
+      "No dedicated spa, so wellness relies on pools and bathtubs only"
+    ],
+    "skipIf": "Skip if you're traveling with young kids who might get lost in the hedge maze or bored without family amenities.",
+    "detailedReview": "Checking into Reverie Siam feels like stepping into a boutique colonial retreat, with staff greeting you warmly amid white buildings and blooming gardens. The vibe is intimate and artistic, drawing couples and honeymooners who appreciate the thoughtful details. Rooms and villas showcase eclectic vintage furnishings—think mismatched antiques, four-poster beds draped in soft linens, and free-standing bathtubs perfect for soaking with mountain views through large windows. The standout amenity is the hedge maze in the manicured gardens, a whimsical path that leads to hidden benches for quiet moments, complemented by two swimming pools: one infinity-edge overlooking the river, the other a serene lap pool shaded by palms. Food at the on-site restaurant shines with fresh Thai-fusion dishes using local ingredients, like herb-infused curries and wood-fired pizzas, while the cocktail bar crafts inventive drinks with Pai herbs—both spots buzz gently in evenings without overwhelming the peace. Service is personalized yet unobtrusive, with staff remembering preferences like extra towels for pool dips. Typical guests are stylish 30-somethings or older pairs, chatting about nearby hot springs or temple hikes, creating a sophisticated but relaxed social hum. Overall, it's a polished hideaway that rewards those who value design and nature over high-energy nightlife.",
+    "locationReality": "Nestled in Pai's town center along the riverside, Reverie Siam is a 5-minute walk to the bustling Walking Street night market for street food and shops. The Pai River runs adjacent, offering scenic strolls, but main attractions like Yun Lai Temple require a 10-15 minute scooter ride or 100-200 THB Grab. No BTS or MRT here—Pai's compact layout means most eateries and cafes are within 10 minutes on foot, though waterfalls demand a 20-30 minute drive.",
+    "localSignals": [
+      "5-minute walk to Pai Walking Street night market",
+      "Two swimming pools and one restaurant on property",
+      "Riverside location with mountain views from gardens",
+      "Nearest 7-Eleven within 3-minute walk in town center",
+      "Typical Grab to Pai Airport: 200-300 THB, 15 minutes"
+    ],
+    "travellerNote": "Guests often praise the stylish vintage design and peaceful gardens but note occasional noise from town center activity and limited family-friendly features.",
+    "bookingTips": [
+      "Request a villa for more privacy and bathtub views",
+      "Use Agoda for better deals on Reverie Siam in Pai",
+      "Prices spike November to February during cool season",
+      "Verify breakfast inclusion as it's not always standard",
+      "Book early to secure hedge maze-facing rooms"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pai Island Resort",
+        "howDifferent": "Offers more seclusion on a private river stretch with spacious villas, unlike Reverie Siam's town center vibrancy."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Reverie Siam suitable for couples?",
+        "a": "Yes, its romantic villas with four-poster beds, private bathtubs, and hedge maze gardens make it perfect for couples and honeymooners."
+      },
+      {
+        "q": "What are the pool facilities at Reverie Siam?",
+        "a": "The hotel features two swimming pools: one with mountain views and another shaded for relaxation, ideal for luxury seekers."
+      },
+      {
+        "q": "How is the food at Reverie Siam?",
+        "a": "The on-site restaurant and cocktail bar serve some of Pai's best Thai-fusion meals and creative drinks using local ingredients."
+      },
+      {
+        "q": "Is Reverie Siam in a quiet area of Pai?",
+        "a": "It's in the town center riverside, offering convenience but with some evening noise from nearby bars and markets."
+      },
+      {
+        "q": "What room types does Reverie Siam offer?",
+        "a": "Options include individual villas and standard hotel rooms, all decorated with eclectic vintage furnishings and four-poster beds."
+      }
+    ],
+    "urgencyLine": "Villas at Reverie Siam with mountain-view pools book out 1-2 months ahead for Pai's high season—check availability today.",
+    "methodology": "We rated Reverie Siam based on design uniqueness, amenities like pools and gardens, location convenience, and guest feedback factors. We weighted standout features like the hedge maze highest because they set it apart in Pai's boutique scene. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Reverie Siam Review (2026)",
+    "metaDescription": "Reverie Siam in Pai offers stylish colonial villas, hedge maze gardens, and two pools for luxury couples—but expect town center noise. Discover if it's your Pai escape; book now for mountain views. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:10:17.935Z"
+}

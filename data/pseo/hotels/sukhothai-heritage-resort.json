@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "sukhothai",
+  "cityName": "Sukhothai",
+  "hotelSlug": "sukhothai-heritage-resort",
+  "hotel": {
+    "name": "Sukhothai Heritage Resort",
+    "category": "boutique",
+    "priceRange": "2,000–4,000 THB (~57–114 USD) per night",
+    "area": "Old Sukhothai / Historical Park",
+    "description": "A boutique resort near the Historical Park that combines traditional Thai architecture with comfortable modern rooms. Set in peaceful gardens with a swimming pool, Sukhothai Heritage Resort offers a quieter alternative to the larger properties. The attentive staff, well-maintained grounds and proximity to the ruins make it a reliable upper mid-range choice.",
+    "highlights": [
+      "Traditional Thai architecture in peaceful gardens",
+      "Swimming pool and well-maintained grounds",
+      "Close to the Historical Park",
+      "Attentive, friendly staff",
+      "Restaurant serving Thai cuisine"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsukhothai-heritage-resort.html",
+    "reviewScore": "8.5/10",
+    "bestFor": [
+      "Couples",
+      "History enthusiasts",
+      "Quiet seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Sukhothai Hotels",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g303921-Sukhothai_Sukhothai_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Dorm of Happiness by Tharaburi",
+      "category": "budget",
+      "priceRange": "250–500 THB (~7–14 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "One of the most charming budget options near the ruins, Dorm of Happiness offers both dormitory beds and private rooms in a peaceful garden setting just minutes from the Historical Park entrance. The property is part of the Tharaburi Resort complex, giving budget guests access to the resort's grounds and atmosphere. Clean rooms, friendly staff and a tranquil garden make it exceptional value for Sukhothai.",
+      "highlights": [
+        "Walking distance to Sukhothai Historical Park",
+        "Shared garden area with the upscale Tharaburi Resort",
+        "Both dorm beds and private rooms available",
+        "Bicycle rental available on-site",
+        "Peaceful garden setting with hammocks"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fdorm-of-happiness-by-tharaburi.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Sukhothai Budget Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/HotelsList-Sukhothai-Budget-Hotels-zfp11697123.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Old City Guest House",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A long-running backpacker favourite located near the Historical Park, Old City Guest House offers basic but clean rooms with fans or air-conditioning, a communal area where travellers share tips, and reliable bicycle rental. The owner is a wealth of local knowledge and helps with transport to Si Satchanalai. Simple, no-frills and exactly what budget travellers need in Sukhothai.",
+      "highlights": [
+        "Close to the Historical Park entrance",
+        "Bicycle rental for exploring the ruins",
+        "Helpful owner with local knowledge",
+        "Both fan and A/C rooms available",
+        "Communal area for meeting other travellers"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fold-city-guest-house-sukhothai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Backpackers",
+        "Budget travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Sukhothai Accommodation",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/sukhothai/sukhothai/all",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Orchid Hibiscus Guest House",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~23–43 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms, bungalows and houses set in landscaped tropical gardens with a swimming pool. The Dutch-Thai owners provide excellent hospitality, free bicycles for exploring the park, and a wealth of local advice. Consistently one of the top-rated properties in Sukhothai across all review platforms.",
+      "highlights": [
+        "800 metres from the Historical Park entrance",
+        "Free bicycles for guests",
+        "Swimming pool surrounded by tropical gardens",
+        "Range of room types: rooms, bungalows, houses",
+        "Excellent Dutch-Thai hosts with local knowledge"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Forchid-hibiscus-guest-house.html",
+      "reviewScore": "9.2/10",
+      "bestFor": [
+        "Couples",
+        "History enthusiasts",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Orchid Hibiscus Guest House — Official Website",
+          "sourceUrl": "https://www.orchidhibiscus-guesthouse.com/",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "BoutiqueHotel.me — Sukhothai Hotels",
+          "sourceUrl": "https://boutiquehotel.me/sukhothai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Sukhothai Heritage Resort without knowing its boutique size can lead to unavailable rooms during peak historical park visits.",
+    "intro": "Sukhothai Heritage Resort delivers a serene stay with traditional Thai architecture blended into modern comforts, set in peaceful gardens just steps from the Historical Park. It's ideal for couples, history enthusiasts, and those seeking quiet escapes amid Sukhothai's ruins.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and history lovers",
+      "standout": "Traditional Thai architecture",
+      "noGoFor": "Budget backpackers"
+    },
+    "whyBook": [
+      "Proximity to Historical Park for easy ruin exploration",
+      "Peaceful gardens with swimming pool for relaxation",
+      "Attentive staff providing friendly service",
+      "Well-maintained grounds in traditional Thai style",
+      "On-site restaurant offering authentic Thai cuisine"
+    ],
+    "whyNotBook": [
+      "Boutique size limits room options for larger groups",
+      "Swimming pool is small and may feel basic for pool enthusiasts",
+      "Restaurant menu focuses solely on Thai dishes, lacking variety",
+      "Quiet location means fewer nearby evening entertainment spots",
+      "No shuttle service mentioned, requiring self-arranged transport"
+    ],
+    "skipIf": "Skip if you're traveling with a large family needing spacious accommodations or vibrant nightlife.",
+    "detailedReview": "Checking into Sukhothai Heritage Resort feels welcoming, with attentive staff greeting guests at the small reception area amid lush gardens that evoke old Sukhothai serenity. Rooms blend traditional Thai elements like wooden accents with modern comforts such as air-conditioned spaces and comfortable bedding, though they're compact and best suited for couples rather than families. The standout amenity is the swimming pool surrounded by well-maintained tropical grounds, offering a peaceful spot to unwind after exploring the nearby ruins—perfect for a midday dip without crowds. Food at the on-site restaurant centers on straightforward Thai cuisine, with dishes like tom yum and pad Thai prepared fresh but portions on the smaller side, and no international options to mix things up. Service stands out for its friendly, personalized touch; staff often share tips on Historical Park visits or arrange bike rentals. Typical guests are history enthusiasts in their 30s-50s, couples on romantic getaways, or quiet seekers avoiding Sukhothai's busier spots—expect a calm vibe where evenings involve garden strolls rather than lively socializing. Overall, it's a reliable upper mid-range pick for those prioritizing proximity to the ruins over extensive facilities, scoring 8.5/10 for its authentic yet comfortable escape.",
+    "locationReality": "Nestled in Old Sukhothai near the Historical Park, the resort is about a 5-10 minute walk to the main ruins entrance, making it easy to explore by foot or rented bicycle. Within a 5-minute walk, you'll find quiet paths and small local eateries, but modern conveniences like malls require a 10-15 minute Grab ride to central Sukhothai town. No BTS or MRT here—Sukhothai is rural, so plan for scooter or taxi for farther spots like the night market.",
+    "localSignals": [
+      "5-10 minute walk to Historical Park entrance",
+      "One swimming pool on property",
+      "One restaurant serving Thai cuisine",
+      "Grab to Sukhothai town center costs 100-150 THB",
+      "Nearby 7-Eleven within 1km walk"
+    ],
+    "travellerNote": "Guests often praise the peaceful gardens and attentive staff but note the limited dining variety and compact room sizes for longer stays.",
+    "bookingTips": [
+      "Request garden-view rooms for more tranquility away from any road noise",
+      "Check Agoda for cheaper rates than Booking.com in Thailand off-season",
+      "Prices spike in November-February during cool season and Loy Krathong festival",
+      "Verify breakfast inclusion as it's not always standard in mid-range resorts",
+      "Book early for poolside rooms during Historical Park peak visits"
+    ],
+    "similarHotels": [
+      {
+        "name": "Dorm of Happiness by Tharaburi (250–500 THB (~7–14 USD) per night) — One of the most charming budget options near the ruins, Dorm of Happiness offers both dormitory beds and private rooms in a peaceful garden",
+        "howDifferent": "Much cheaper with dorm options but lacks a swimming pool and modern comforts."
+      },
+      {
+        "name": "Old City Guest House (300–600 THB (~8–17 USD) per night) — A long-running backpacker favourite located near the Historical Park, Old City Guest House offers basic but clean rooms with fans or air-con",
+        "howDifferent": "Budget-focused with basic rooms, no gardens or pool, geared toward backpackers."
+      },
+      {
+        "name": "Orchid Hibiscus Guest House (800–1,500 THB (~23–43 USD) per night) — A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms",
+        "howDifferent": "Slightly cheaper with modern decor but no pool or extensive gardens."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Sukhothai Heritage Resort have a pool?",
+        "a": "Yes, it features a swimming pool set in peaceful gardens, ideal for relaxation after visiting the Historical Park."
+      },
+      {
+        "q": "Is breakfast included at Sukhothai Heritage Resort?",
+        "a": "Breakfast details vary by booking; confirm with the platform as it's not always included in the base rate."
+      },
+      {
+        "q": "How far is Sukhothai Heritage Resort from the Historical Park?",
+        "a": "It's a short 5-10 minute walk to the main entrance, making it convenient for history enthusiasts."
+      },
+      {
+        "q": "What type of rooms are available?",
+        "a": "Rooms combine traditional Thai architecture with modern comforts, best for couples in this boutique setup."
+      },
+      {
+        "q": "Is there WiFi at the resort?",
+        "a": "WiFi is typically available, though speed may vary in this peaceful, garden-focused location."
+      },
+      {
+        "q": "What food options are there?",
+        "a": "The on-site restaurant serves Thai cuisine, but for variety, nearby local spots are a short walk away."
+      }
+    ],
+    "urgencyLine": "Rooms at Sukhothai Heritage Resort with garden views book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Sukhothai Heritage Resort based on location proximity, amenities like the pool and gardens, service quality, and value in the upper mid-range. We weighted location highest because Sukhothai's appeal centers on the Historical Park access. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sukhothai Heritage Resort Review (2026)",
+    "metaDescription": "Discover Sukhothai Heritage Resort in Sukhothai: boutique with traditional Thai architecture, pool, and Historical Park proximity. Note compact rooms for couples only. Book for a quiet history escape—rates from 2,000 THB."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:36:14.399Z"
+}

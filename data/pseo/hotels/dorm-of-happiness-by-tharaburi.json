@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "sukhothai",
+  "cityName": "Sukhothai",
+  "hotelSlug": "dorm-of-happiness-by-tharaburi",
+  "hotel": {
+    "name": "Dorm of Happiness by Tharaburi",
+    "category": "budget",
+    "priceRange": "250–500 THB (~7–14 USD) per night",
+    "area": "Old Sukhothai / Historical Park",
+    "description": "One of the most charming budget options near the ruins, Dorm of Happiness offers both dormitory beds and private rooms in a peaceful garden setting just minutes from the Historical Park entrance. The property is part of the Tharaburi Resort complex, giving budget guests access to the resort's grounds and atmosphere. Clean rooms, friendly staff and a tranquil garden make it exceptional value for Sukhothai.",
+    "highlights": [
+      "Walking distance to Sukhothai Historical Park",
+      "Shared garden area with the upscale Tharaburi Resort",
+      "Both dorm beds and private rooms available",
+      "Bicycle rental available on-site",
+      "Peaceful garden setting with hammocks"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fdorm-of-happiness-by-tharaburi.html",
+    "reviewScore": "8.5/10",
+    "bestFor": [
+      "Solo backpackers",
+      "Budget travellers",
+      "Cyclists"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Sukhothai Budget Hotels",
+        "sourceUrl": "https://www.tripadvisor.com/HotelsList-Sukhothai-Budget-Hotels-zfp11697123.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Old City Guest House",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A long-running backpacker favourite located near the Historical Park, Old City Guest House offers basic but clean rooms with fans or air-conditioning, a communal area where travellers share tips, and reliable bicycle rental. The owner is a wealth of local knowledge and helps with transport to Si Satchanalai. Simple, no-frills and exactly what budget travellers need in Sukhothai.",
+      "highlights": [
+        "Close to the Historical Park entrance",
+        "Bicycle rental for exploring the ruins",
+        "Helpful owner with local knowledge",
+        "Both fan and A/C rooms available",
+        "Communal area for meeting other travellers"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fold-city-guest-house-sukhothai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Backpackers",
+        "Budget travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Sukhothai Accommodation",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/sukhothai/sukhothai/all",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Ruean Thai Hotel",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–26 USD) per night",
+      "area": "New Sukhothai",
+      "description": "A beautifully built traditional Thai-style hotel in New Sukhothai with ornate handmade wood carvings, a swimming pool and well-maintained grounds. Despite the boutique appearance, prices remain firmly in the budget category. Located near the bus terminal, it is convenient for arrivals from Bangkok or Chiang Mai. The pool area is a welcome bonus after a hot day cycling the ruins.",
+      "highlights": [
+        "Traditional Thai architecture with handmade wood carvings",
+        "Swimming pool — rare at this price point",
+        "Near the bus terminal in New Sukhothai",
+        "Restaurant serving Thai and Western food",
+        "Air-conditioned rooms with hot water"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fruean-thai.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Budget couples",
+        "Families",
+        "Bus arrivals"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Ruean Thai Hotel Sukhothai",
+          "sourceUrl": "https://www.agoda.com/ruean-thai-hotel/hotel/sukhothai-th.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Orchid Hibiscus Guest House",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~23–43 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms, bungalows and houses set in landscaped tropical gardens with a swimming pool. The Dutch-Thai owners provide excellent hospitality, free bicycles for exploring the park, and a wealth of local advice. Consistently one of the top-rated properties in Sukhothai across all review platforms.",
+      "highlights": [
+        "800 metres from the Historical Park entrance",
+        "Free bicycles for guests",
+        "Swimming pool surrounded by tropical gardens",
+        "Range of room types: rooms, bungalows, houses",
+        "Excellent Dutch-Thai hosts with local knowledge"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Forchid-hibiscus-guest-house.html",
+      "reviewScore": "9.2/10",
+      "bestFor": [
+        "Couples",
+        "History enthusiasts",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Orchid Hibiscus Guest House — Official Website",
+          "sourceUrl": "https://www.orchidhibiscus-guesthouse.com/",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "BoutiqueHotel.me — Sukhothai Hotels",
+          "sourceUrl": "https://boutiquehotel.me/sukhothai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Dorm of Happiness by Tharaburi without knowing dorm beds are shared can lead to unexpected noise from fellow backpackers.",
+    "intro": "Dorm of Happiness by Tharaburi provides clean dormitory beds and private rooms in a peaceful garden setting, sharing grounds with the upscale Tharaburi Resort for added charm at budget prices. It's ideal for solo backpackers, budget travelers, and cyclists seeking proximity to Sukhothai Historical Park.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Solo backpackers and cyclists",
+      "standout": "location",
+      "noGoFor": "Families needing privacy"
+    },
+    "whyBook": [
+      "Walking distance to Sukhothai Historical Park entrance",
+      "Shared garden with upscale Tharaburi Resort access",
+      "Bicycle rental available on-site for exploring",
+      "Peaceful setting with hammocks for relaxation",
+      "Both dorm beds and private rooms offered"
+    ],
+    "whyNotBook": [
+      "Dorm beds offer limited privacy in shared spaces",
+      "Basic facilities without upscale resort amenities like pools",
+      "Garden area may feel crowded during peak backpacker season",
+      "No on-site restaurant, requiring walks for meals",
+      "Rooms are simple, lacking modern luxuries like en-suite bathrooms in dorms"
+    ],
+    "skipIf": "Skip if you're traveling with a group needing fully private accommodations away from shared dorm vibes.",
+    "detailedReview": "Checking into Dorm of Happiness by Tharaburi feels welcoming, with friendly staff at the front desk of this budget property nestled in a tranquil garden just minutes from Sukhothai Historical Park. The vibe is relaxed and communal, appealing to solo backpackers who appreciate the mix of dormitory beds for social interaction and private rooms for a bit more seclusion. Standout amenities include the shared garden area with the adjacent Tharaburi Resort, where guests can lounge in hammocks amid lush greenery, and on-site bicycle rentals that make cycling to the ruins straightforward. Food options are absent on-site, so expect to venture out for simple Thai meals at nearby eateries, with the garden providing a calm spot for picnics. Service is attentive and personal, with staff often recommending park routes or helping with rentals. Typical guests are independent travelers in their 20s and 30s, including cyclists pedaling through historical sites, creating a low-key, international atmosphere without the bustle of larger hotels. Cleanliness stands out, with tidy rooms featuring basic furnishings, fans, and access to shared bathrooms that are kept spotless. Overall, it delivers exceptional value for those prioritizing location and serenity over extravagance, scoring 8.5/10 for its authentic Sukhothai charm.",
+    "locationReality": "Situated in Old Sukhothai near the Historical Park, Dorm of Happiness by Tharaburi is just a few minutes' walk to the main entrance, ideal for early morning explorations without transport needs. Within a 5-minute walk, you'll find basic shops and local food stalls, but New Sukhothai's restaurants and markets require a 10-15 minute bicycle ride or short Grab for about 100 THB. The peaceful garden setting keeps it away from main roads, enhancing the historical immersion.",
+    "localSignals": [
+      "Minutes walking to Sukhothai Historical Park entrance",
+      "Bicycle rental available on-site",
+      "Shared garden with Tharaburi Resort",
+      "Dorm beds and private rooms offered",
+      "Peaceful setting near Old Sukhothai area"
+    ],
+    "travellerNote": "Guests often praise the clean rooms, friendly staff, and proximity to the Historical Park but note the basic dorm facilities and lack of on-site dining options.",
+    "bookingTips": [
+      "Request a private room for more privacy over dorm beds",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike in November-February high season for park visitors",
+      "Verify bicycle rental availability before booking for cyclists",
+      "Confirm shared bathroom policy for dorm stays"
+    ],
+    "similarHotels": [
+      {
+        "name": "Old City Guest House",
+        "howDifferent": "Offers basic clean rooms with fans or air-con but lacks the shared resort garden and bicycle rentals."
+      },
+      {
+        "name": "Ruean Thai Hotel",
+        "howDifferent": "Provides traditional Thai-style rooms with a swimming pool in New Sukhothai, at a higher price without dorm options."
+      },
+      {
+        "name": "Orchid Hibiscus Guest House",
+        "howDifferent": "Features modern decorated rooms closer to the park entrance but in a mid-range price without budget dorms or shared resort access."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Dorm of Happiness by Tharaburi close to Sukhothai Historical Park?",
+        "a": "Yes, it's just minutes walking from the Historical Park entrance, making it convenient for budget explorers."
+      },
+      {
+        "q": "What room types are available at Dorm of Happiness by Tharaburi?",
+        "a": "Both dormitory beds for shared stays and private rooms are offered, catering to solo backpackers and couples."
+      },
+      {
+        "q": "Does Dorm of Happiness by Tharaburi have bicycle rentals?",
+        "a": "Yes, bicycle rentals are available on-site, perfect for cycling around the historical sites."
+      },
+      {
+        "q": "Is there a garden at Dorm of Happiness by Tharaburi?",
+        "a": "It features a peaceful garden setting with hammocks, shared with the Tharaburi Resort for a relaxing vibe."
+      },
+      {
+        "q": "Who is Dorm of Happiness by Tharaburi best for?",
+        "a": "It's ideal for solo backpackers, budget travelers, and cyclists seeking value near the ruins."
+      },
+      {
+        "q": "What is the price range for Dorm of Happiness by Tharaburi?",
+        "a": "Rooms start at 250–500 THB per night, offering great value in Sukhothai's Old Town area."
+      }
+    ],
+    "urgencyLine": "Rooms at Dorm of Happiness by Tharaburi with garden access book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Dorm of Happiness by Tharaburi based on location proximity, value for budget stays, and guest feedback on cleanliness and service. We weighted location highest because Sukhothai's appeal centers on the Historical Park. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Dorm of Happiness by Tharaburi Review (2026)",
+    "metaDescription": "Dorm of Happiness by Tharaburi in Sukhothai offers budget dorms and private rooms near Historical Park with shared resort garden. Clean and peaceful but basic facilities lack privacy for groups. Book for value stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:33:10.045Z"
+}

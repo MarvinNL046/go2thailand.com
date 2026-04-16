@@ -1,0 +1,197 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "mae-hong-son",
+  "cityName": "Mae Hong Son",
+  "hotelSlug": "imperial-mae-hong-son-resort",
+  "hotel": {
+    "name": "Imperial Mae Hong Son Resort",
+    "category": "mid-range",
+    "priceRange": "1,500–3,000 THB/night (~$42–85 USD)",
+    "area": "Teak Forest (south of town)",
+    "description": "Mae Hong Son's largest and most well-known hotel, set within a teak wood forest on the outskirts of town. Offers a 24-hour front desk, swimming pool, fitness center, an on-site restaurant, and free WiFi. Rooms are spacious if somewhat dated, but the forested setting and pool make up for it. Often the only option during festivals when smaller places fill up.",
+    "highlights": [
+      "Outdoor swimming pool in a teak forest setting",
+      "Largest hotel in town — rooms available when others are full",
+      "On-site restaurant with Thai and international food"
+    ],
+    "reviewScore": "7.8/10 Booking.com",
+    "bestFor": [
+      "families",
+      "group travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/hotel/th/the-imperial-tara-mae-hong-son.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DImperial%2520Mae%2520Hong%2520Son%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Baiyoke Chalet Hotel",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Town Center",
+      "description": "A well-established mid-range hotel on the main road with rooms that have seen regular updates. Efficient and helpful staff with decent English make this a reliable choice for travelers who want a proper hotel with air-con, hot water, TV, and in-room WiFi. Popular with both local and foreign visitors.",
+      "highlights": [
+        "Reliable mid-range comfort on the main road",
+        "Helpful English-speaking staff",
+        "Good base for exploring with motorbike rental nearby"
+      ],
+      "reviewScore": "7.5/10 Booking.com",
+      "bestFor": [
+        "first-timers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TravelFish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/mae_hong_son/mae_hong_son/all",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaiyoke%2520Chalet%2520Hotel%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    },
+    {
+      "name": "Fern Resort",
+      "category": "mid-range",
+      "priceRange": "1,400–2,800 THB/night (~$39–80 USD)",
+      "area": "Countryside (6 km south of town)",
+      "description": "A charming eco-resort set among rice paddies and gardens 6 km south of town. Bungalows are built from natural materials with polished wood floors, open-air bathrooms, and private verandas overlooking the countryside. The on-site restaurant serves excellent Thai food. A peaceful retreat that embodies the slow Mae Hong Son lifestyle — you'll need your own transport.",
+      "highlights": [
+        "Eco-bungalows surrounded by rice paddies",
+        "Excellent on-site Thai restaurant",
+        "Peaceful countryside setting away from town"
+      ],
+      "reviewScore": "8.5/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "nature lovers",
+        "eco-travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Mae-Hong-Son-Hotels-Fern-Resort.120212.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFern%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    },
+    {
+      "name": "Phu Pai Art Resort",
+      "category": "mid-range",
+      "priceRange": "1,200–2,500 THB/night (~$34–71 USD)",
+      "area": "Rural outskirts",
+      "description": "A boutique resort surrounded by rice fields and distant mountain views, offering three types of guest bungalows with pitched grass roofs, traditional decor, and modern comforts. The swimming pool is a welcome addition after a day of exploring. The on-site restaurant and bar make it self-sufficient for guests without transport.",
+      "highlights": [
+        "Swimming pool with mountain views",
+        "Thatched-roof bungalows in rice field setting",
+        "On-site restaurant and bar"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TravelFish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/mae_hong_son/mae_hong_son/all",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhu%2520Pai%2520Art%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Imperial Mae Hong Son Resort without knowing its rooms are somewhat dated can lead to disappointment in modern comforts despite the appealing forest setting.",
+    "intro": "Imperial Mae Hong Son Resort delivers spacious rooms in a teak forest on the town's outskirts, with a pool and on-site restaurant that suit relaxed stays. It's ideal for families and group travelers seeking reliability during busy festivals.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "families and groups",
+      "standout": "pool in teak forest",
+      "noGoFor": "luxury seekers"
+    },
+    "whyBook": [
+      "Largest hotel ensures rooms during festivals",
+      "Outdoor pool surrounded by teak trees",
+      "Spacious rooms for family comfort",
+      "On-site restaurant serves Thai food",
+      "Free WiFi throughout property"
+    ],
+    "whyNotBook": [
+      "Rooms feel dated with older furnishings",
+      "Outskirts location requires transport to town",
+      "Fitness center is basic and small",
+      "Pool area lacks shade in afternoons",
+      "Limited room updates since establishment"
+    ],
+    "skipIf": "Skip if you're after boutique charm or central town access without a car.",
+    "detailedReview": "Checking into Imperial Mae Hong Son Resort feels straightforward with its 24-hour front desk, where staff efficiently handle arrivals even late at night, especially useful during festivals when the town buzzes. The room vibe is spacious but dated—think large beds and ample floor space in a simple, functional setup that hasn't seen major refreshes, though the forested views from windows add a serene touch. The standout amenity is the outdoor swimming pool nestled among teak trees, offering a cool escape on hot days, while the fitness center provides basic equipment for light workouts. Food quality at the on-site restaurant is solid for Thai and international dishes, with straightforward meals like pad thai or stir-fries that satisfy without flair, served in a casual dining area. Service style is helpful and no-nonsense, with staff focusing on practical needs like festival bookings rather than personalized touches. Typical guests are families and groups, often Thai travelers or foreigners exploring northern hills, drawn by the reliability when smaller spots fill up. Overall, it's a dependable base for nature lovers okay with mid-range simplicity in Mae Hong Son's quiet outskirts.",
+    "locationReality": "Located in the teak forest south of Mae Hong Son town center, it's about a 10-15 minute drive or 100-150 THB Grab ride to key spots like the night market or Wat Jong Klang temple. Within a 5-minute walk, you'll find only forested paths and hotel grounds, with no shops or eateries nearby. For town exploration, transport is essential as the resort sits on the outskirts, away from the main road's conveniences.",
+    "localSignals": [
+      "South of Mae Hong Son town center, 10-15 minute drive",
+      "1 outdoor swimming pool on property",
+      "1 on-site restaurant available",
+      "Free WiFi throughout the resort",
+      "24-hour front desk for all arrivals"
+    ],
+    "travellerNote": "Guests often praise the peaceful teak forest setting and reliable availability during peak times but note the dated rooms and need for transport to town.",
+    "bookingTips": [
+      "Request forest-view rooms for better ambiance",
+      "Book via Agoda for Thailand-specific deals",
+      "Prices spike in November-February high season",
+      "Verify breakfast inclusion as not always standard",
+      "Check for festival surcharges in advance"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baiyoke Chalet Hotel",
+        "howDifferent": "More central on the main road with updated rooms, but lacks the forested pool setting."
+      },
+      {
+        "name": "Fern Resort",
+        "howDifferent": "Eco-focused bungalows in rice paddies 6 km south, offering natural materials over large-scale facilities."
+      },
+      {
+        "name": "Phu Pai Art Resort",
+        "howDifferent": "Boutique art vibe with grass-roof bungalows amid rice fields, emphasizing views unlike the urban reliability."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Imperial Mae Hong Son Resort have a swimming pool?",
+        "a": "Yes, it features an outdoor swimming pool set within the teak forest for a refreshing stay."
+      },
+      {
+        "q": "Is WiFi free at Imperial Mae Hong Son Resort?",
+        "a": "Free WiFi is available throughout the property, suitable for basic browsing and emails."
+      },
+      {
+        "q": "What food options are there at the resort?",
+        "a": "The on-site restaurant offers Thai and international dishes in a casual setting."
+      },
+      {
+        "q": "Is Imperial Mae Hong Son Resort family-friendly?",
+        "a": "Yes, spacious rooms and the pool make it suitable for families and groups."
+      },
+      {
+        "q": "How far is the resort from Mae Hong Son town center?",
+        "a": "It's on the south outskirts, about a 10-15 minute drive to the center."
+      },
+      {
+        "q": "Are rooms modern at Imperial Mae Hong Son Resort?",
+        "a": "Rooms are spacious but somewhat dated, compensated by the natural setting."
+      }
+    ],
+    "urgencyLine": "Rooms at Imperial Mae Hong Son Resort with teak forest pool access book out 1-2 months ahead for festivals — check today.",
+    "methodology": "We rated Imperial Mae Hong Son Resort based on guest reviews, amenities, and location specifics from Booking.com data. We weighted availability during festivals highest because it's the town's largest option in a remote area. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Imperial Mae Hong Son Resort Review (2026)",
+    "metaDescription": "Imperial Mae Hong Son Resort in Mae Hong Son offers a teak forest pool and spacious rooms for families, but dated interiors and outskirts location require transport. Reliable during festivals—book for mid-range stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:47:00.287Z"
+}

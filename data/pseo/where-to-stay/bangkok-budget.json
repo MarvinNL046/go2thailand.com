@@ -1,0 +1,277 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "audience": "budget",
+  "neighborhoods": [
+    {
+      "name": "Khao San & Banglamphu (Old City North)",
+      "description": "Khao San Road is the world's most famous backpacker street — a non-stop parade of budget guesthouses, full-moon party merchandise, pad thai carts and buckets of rum. The surrounding Banglamphu neighbourhood is more relaxed, with a mix of low-cost guesthouses, local restaurants and the excellent Soi Rambuttri. The Grand Palace, Wat Pho and Wat Arun are all within 10–15 minutes walk.",
+      "bestFor": "Budget travellers, backpackers, temple explorers, social solo travellers",
+      "priceLevel": "Budget to lower mid-range (300–2,500 THB/night)",
+      "highlights": [
+        "Walking distance from Grand Palace, Wat Pho and Democracy Monument",
+        "Cheapest accommodation in Bangkok — 300 THB dorm beds to 1,500 THB guesthouses",
+        "Khao San Road energy and street food scene",
+        "Canal boats on Khlong Saen Saep link to the east side of the city",
+        "Local market culture in surrounding Banglamphu lanes"
+      ],
+      "recommendedHotels": [
+        "NapPark Hostel @ Khao San",
+        "Baan Dinso @ Ratanakosin"
+      ],
+      "walkingScore": "9/10 — dense network of lanes, best walking area in Bangkok",
+      "transportNotes": [
+        "No BTS/MRT station directly in Banglamphu — take a taxi or tuk-tuk to the nearest station",
+        "Khlong Saen Saep canal boats run from Banglamphu pier east to Silom/Asok area",
+        "Chao Phraya ferry from Maharaj Pier to riverside temples",
+        "Taxis to BTS Saphan Taksin take 15–25 minutes depending on traffic"
+      ],
+      "sources": [
+        {
+          "sourceName": "Midnight Blue Elephant — Where To Stay Bangkok",
+          "sourceUrl": "https://www.midnightblueelephant.com/where-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Thonburi (West Bank)",
+      "description": "Thonburi occupies the western bank of the Chao Phraya River, directly across from the Grand Palace. Far less touristy than the rest of Bangkok, it is a neighbourhood of traditional wooden houses, orchid farms, Buddhist temples and ancient canals. Wat Arun stands at its northern edge; Wongwian Yai BTS station provides surprisingly good Skytrain access to Silom and beyond.",
+      "bestFor": "Adventurous travellers, canal exploration, off-the-beaten-path Bangkok",
+      "priceLevel": "Budget to mid-range (500–4,000 THB/night)",
+      "highlights": [
+        "Wat Arun on the doorstep — spectacular at any time of day",
+        "Bangkok Noi canal network — genuine local klong life with few tourists",
+        "Talad Noi neighbourhood of historic merchant shophouses",
+        "Wongwian Yai Night Market for cheap local street food",
+        "Significantly quieter and cheaper than the east bank"
+      ],
+      "recommendedHotels": [
+        "Arun Residence (boutique, views of Grand Palace)",
+        "The Bhuthorn (boutique guesthouse)"
+      ],
+      "walkingScore": "6/10 — quieter streets but attractions spread out along the river",
+      "transportNotes": [
+        "Chao Phraya ferry from Tha Tien or Wang Lang piers to east bank temples",
+        "BTS Wongwian Yai station (BTS Silom Line) links to Silom in 20 minutes",
+        "River taxis and private long-tail boats available",
+        "No MRT access — Grab recommended for longer journeys"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Planet D — Bangkok Neighbourhood Guide",
+          "sourceUrl": "https://theplanetd.com/where-to-stay-in-bangkok-neighbourhoods/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chatuchak",
+      "description": "Chatuchak is situated in the Chatuchak district north of the city center, home to the large Chatuchak Weekend Market that operates on weekends. It includes parks and residential zones with access to MRT and BTS lines. The area serves as a hub for shopping and casual outings.",
+      "bestFor": "families, kids, budget, backpackers",
+      "priceLevel": "€",
+      "highlights": [
+        "Chatuchak Weekend Market",
+        "JJ Green Night Market",
+        "Chatuchak Park",
+        "Queen Sirikit 60th Anniversary Park",
+        "MRT Chatuchak Park station"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "BTS Mo Chit station",
+        "MRT Chatuchak Park station",
+        "Northern Bus Terminal nearby"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market"
+        }
+      ]
+    },
+    {
+      "name": "Pratunam",
+      "description": "Pratunam is a wholesale market district in the Ratchathewi area, adjacent to Siam, specializing in clothing and accessories. It features bustling streets with hotels and budget eateries. The neighborhood is linked by skybridges to nearby malls.",
+      "bestFor": "budget, backpackers, shopping",
+      "priceLevel": "€",
+      "highlights": [
+        "Pratunam Market",
+        "Baiyoke Tower II",
+        "Big C Rajdamri",
+        "Ratchaprasong Intersection",
+        "Platinum Fashion Mall"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "BTS Ratchathewi station",
+        "BTS Chit Lom station",
+        "Taxi hub for markets"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Pratunam"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where to stay in Bangkok budget friendly?",
+    "Where is the best location to stay in Bangkok for tourists?",
+    "Where to stay in Bangkok for first time travellers?",
+    "What neighborhood is best to stay in Bangkok?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Bangkok neighbourhood as a budget traveller can drain your wallet on constant taxis and overpriced eats — most travellers overspend by staying too far from cheap street food hubs.",
+    "intro": "For budget travellers in Bangkok, proximity to affordable eats and free attractions is the single most important factor to stretch your baht without sacrificing convenience. We ranked neighbourhoods based on price levels under 2,500 THB/night, walkability to markets and transport, and backpacker-friendly vibes.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Khao San & Banglamphu (Old City North)",
+        "why": "Iconic backpacker central with cheap guesthouses"
+      },
+      {
+        "label": "Best value",
+        "name": "Pratunam",
+        "why": "Wholesale markets keep costs low daily"
+      },
+      {
+        "label": "Best for backpackers",
+        "name": "Chatuchak",
+        "why": "Weekend market access on a shoestring"
+      }
+    ],
+    "urgencyLine": "Budget rooms in Bangkok's popular backpacker areas fill up fast during Songkran in April — secure spots 3 months ahead to avoid inflated rates.",
+    "comparisonTable": [
+      {
+        "name": "Khao San & Banglamphu (Old City North)",
+        "bestFor": "Backpackers and temple explorers",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "lively touristy",
+        "drawback": "Noisy nights from street parties"
+      },
+      {
+        "name": "Thonburi (West Bank)",
+        "bestFor": "Adventurous canal explorers",
+        "priceBand": "€",
+        "walkability": "Low",
+        "vibe": "laid-back traditional",
+        "drawback": "Frequent river crossings needed"
+      },
+      {
+        "name": "Chatuchak",
+        "bestFor": "Budget market shoppers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "buzzing local",
+        "drawback": "Quiet on weekdays without market"
+      },
+      {
+        "name": "Pratunam",
+        "bestFor": "Shopping backpackers",
+        "priceBand": "€",
+        "walkability": "High",
+        "vibe": "buzzing modern",
+        "drawback": "Crowded wholesale streets"
+      }
+    ],
+    "decisionGuide": [
+      "If you crave backpacker energy and cheap pad thai carts, choose Khao San & Banglamphu (Old City North).",
+      "If canal boat rides on a budget appeal, choose Thonburi (West Bank).",
+      "If weekend markets and parks suit your low-spend days, choose Chatuchak.",
+      "If daily wholesale shopping without breaking bank, choose Pratunam.",
+      "If you are on a tight budget avoiding tourist traps, choose Pratunam over Khao San & Banglamphu (Old City North).",
+      "If solo exploration trumps crowds, choose Thonburi (West Bank)."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Khao San & Banglamphu (Old City North)",
+        "why": "This backpacker epicentre offers the cheapest guesthouses at 300 THB/night and endless street food, beating Pratunam by being more walkable to free temples than shopping-focused areas. It tops for pure budget immersion without transport costs.",
+        "drawback": "The constant party atmosphere can disrupt sleep for light sleepers.",
+        "skipIf": "Skip if you prefer quiet residential vibes over non-stop social scenes.",
+        "localSignals": [
+          "Phra Arthit Pier (5 min walk)",
+          "Grab from Suvarnabhumi: 400-600 THB",
+          "To Khao San Road: 0 min (central)"
+        ],
+        "travellerNote": "Travellers often praise the vibrant community and dirt-cheap eats but note the overwhelming crowds and occasional scams from touts."
+      },
+      {
+        "rank": 2,
+        "name": "Pratunam",
+        "why": "Adjacent to Siam with budget hotels amid wholesale markets, it provides better daily shopping value than Chatuchak's weekend-only deals, keeping spends under 40 euros while linking to skytrains.",
+        "drawback": "Bustling streets lead to sensory overload during peak hours.",
+        "skipIf": "Skip if you dislike heavy traffic and vendor haggling.",
+        "localSignals": [
+          "BTS Ratchathewi (10 min walk)",
+          "Grab from Suvarnabhumi: 300-500 THB",
+          "To Pratunam Market: 5 min walk"
+        ],
+        "travellerNote": "Travellers often praise the affordable clothing hauls and eateries but note the chaotic traffic making short walks exhausting."
+      },
+      {
+        "rank": 3,
+        "name": "Chatuchak",
+        "why": "Home to the massive weekend market with budget hostels, it edges Thonburi for easier MRT access to city sights, ideal for low-cost family outings without river hassles.",
+        "drawback": "Limited attractions midweek make it feel isolated.",
+        "skipIf": "Skip if you need constant action beyond weekends.",
+        "localSignals": [
+          "MRT Chatuchak Park (2 min walk)",
+          "Grab from Suvarnabhumi: 250-400 THB",
+          "To Chatuchak Weekend Market: 10 min walk"
+        ],
+        "travellerNote": "Travellers often praise the bargain hunting and green spaces but note the heat and crowds turning market days tiring."
+      }
+    ],
+    "topPick": "Khao San & Banglamphu (Old City North)",
+    "topPickReason": "It delivers unbeatable backpacker value with walkable temples and 300 THB rooms, outshining others for first-timers on tight budgets.",
+    "bookingTips": [
+      "Book 2-3 months ahead for high season (Nov-Feb) to snag rooms under 1,000 THB in Khao San.",
+      "From Suvarnabhumi Airport, take Airport Rail Link to Phaya Thai then BTS to Ratchathewi for Pratunam (total 100 THB, 1 hour).",
+      "Avoid guesthouses on main Khao San Road for quieter blocks 5-10 min away to dodge noise and higher rates.",
+      "Steer clear of tuk-tuk scams near temples in Banglamphu — use Grab app for fixed fares.",
+      "Opt for fan rooms over AC in budget spots to save 200-500 THB/night during humid months.",
+      "Check for bedbug issues in older hostels via recent reviews before booking Chatuchak options."
+    ],
+    "methodology": "We compared Bangkok neighbourhoods based on walkability, price level under 2,500 THB, transport access via BTS/MRT, and suitability for budget travellers seeking cheap eats and attractions. We weighted price and walkability highest because they directly impact daily spending for backpackers. Rankings reflect reference data clusters plus typical priorities like avoiding tourist traps. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/bangkok/",
+      "/areas/bangkok/khao-san-banglamphu/",
+      "/guides/where-to-stay/bangkok/",
+      "/city/bangkok/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Bangkok'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Khao San & Banglamphu (Old City North)'"
+    ],
+    "faq": [
+      {
+        "q": "Where to stay in Bangkok budget friendly?",
+        "a": "Khao San & Banglamphu offers guesthouses from 300 THB/night with walkable street food; Pratunam provides similar value near markets for under 40 euros."
+      },
+      {
+        "q": "Where is the best location to stay in Bangkok for tourists?",
+        "a": "For budget tourists, Pratunam balances central skytrain access and cheap eats, beating farther spots like Chatuchak for daily convenience."
+      },
+      {
+        "q": "Where to stay in Bangkok for first time travellers?",
+        "a": "First-timers on a budget should pick Khao San & Banglamphu for its social vibe and proximity to Grand Palace without high transport costs."
+      },
+      {
+        "q": "What neighborhood is best to stay in Bangkok?",
+        "a": "Chatuchak suits budget families with market access via MRT, but choose based on needs like shopping in Pratunam for solo backpackers."
+      }
+    ],
+    "metaTitle": "Where to Stay in Bangkok for Budget (2026)",
+    "metaDescription": "Discover budget-friendly Bangkok neighbourhoods like Khao San for backpackers, with cheap guesthouses under 2,500 THB and walkable eats. Compare areas…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:30:12.470Z"
+}

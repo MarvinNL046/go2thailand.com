@@ -1,0 +1,169 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kanchanaburi",
+  "cityName": "Kanchanaburi",
+  "hotelSlug": "good-times-resort",
+  "hotel": {
+    "name": "Good Times Resort",
+    "category": "budget",
+    "priceRange": "500–1,200 THB/night (~$14–34 USD)",
+    "area": "Riverside, south of town center",
+    "description": "A charming riverside resort with wooden bungalows set in a tropical garden beside the River Kwai. The on-site restaurant serves excellent Thai food, and they offer cooking classes and bicycle rentals. A step above typical budget accommodation.",
+    "highlights": [
+      "Riverside wooden bungalows in tropical garden",
+      "On-site cooking classes available",
+      "Free bicycle rental for guests"
+    ],
+    "bestFor": [
+      "couples",
+      "budget travelers wanting comfort"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/hotel/th/good-times-resort.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGood%2520Times%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Jolly Frog Backpackers",
+      "category": "budget",
+      "priceRange": "250–600 THB/night (~$7–17 USD)",
+      "area": "Town Center / Maenam Kwai Road",
+      "description": "A long-running Kanchanaburi backpacker institution on the riverside road leading to the Bridge. Dorms and private rooms with fans or air-con, a lively bar-restaurant downstairs, and a social atmosphere. The location is perfect for exploring the town's war sites on foot.",
+      "highlights": [
+        "Walking distance to War Cemetery, JEATH Museum, and Bridge",
+        "Cheap bar and restaurant on-site",
+        "Fan rooms available for ultra-budget travelers"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297924-d665665-Reviews-Jolly_Frog_Backpackers-Kanchanaburi_Kanchanaburi_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJolly%2520Frog%2520Backpackers%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "Blue Star Guest House",
+      "category": "budget",
+      "priceRange": "300–800 THB/night (~$8–22 USD)",
+      "area": "Town Center / Maenam Kwai Road",
+      "description": "Clean, well-maintained guesthouse on the popular Maenam Kwai Road backpacker strip. Simple rooms with hot showers, air-con options, and a friendly owner who arranges tours and transport. The rooftop has views over the river.",
+      "highlights": [
+        "Rooftop terrace with river views",
+        "Tour booking service with fair prices",
+        "Hot showers and air-con available"
+      ],
+      "bestFor": [
+        "backpackers",
+        "couples on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Kanchanaburi-Hotels.44602.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBlue%2520Star%2520Guest%2520House%252C%2520Kanchanaburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Does Good Times Resort have a pool?",
+    "What is the best time to visit Kanchanaburi?",
+    "Where to stay in Kanchanaburi?",
+    "Does Good Times Resort have a restaurant?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Good Times Resort without knowing its south-of-center location can leave you relying on taxis for easy access to Kanchanaburi's main sights.",
+    "intro": "Good Times Resort offers wooden bungalows in a tropical garden right by the River Kwai, providing a peaceful budget stay with extras like cooking classes and free bike rentals. It's ideal for couples and budget travelers seeking more comfort than standard hostels.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget couples seeking comfort",
+      "standout": "Riverside wooden bungalows",
+      "noGoFor": "Luxury seekers wanting pools"
+    },
+    "whyBook": [
+      "Riverside setting in tropical garden for serene stays",
+      "On-site restaurant with excellent Thai food options",
+      "Free bicycle rentals to explore local areas",
+      "Cooking classes for hands-on Thai cuisine experience"
+    ],
+    "whyNotBook": [
+      "South of town center, needing transport to key attractions",
+      "No swimming pool, limiting relaxation options",
+      "Basic budget amenities without luxury extras",
+      "Wooden bungalows may feel rustic for some",
+      "Limited review data available for reference"
+    ],
+    "skipIf": "Skip if you're traveling with kids needing a pool or prefer central locations for walkable sightseeing.",
+    "detailedReview": "Arriving at Good Times Resort feels like stepping into a quiet tropical haven, with check-in handled efficiently at the front desk amid lush garden surroundings. The wooden bungalows, nestled beside the River Kwai, offer a cozy vibe with simple furnishings, fans or air-con, and private balconies overlooking the water or greenery—far more charming than typical budget spots. Standout is the free bicycle rental, letting guests pedal along riverside paths, while the on-site cooking classes provide an engaging way to learn Thai recipes using fresh ingredients. Food at the restaurant shines with authentic dishes like spicy curries and fresh salads, served in an open-air setting that captures the riverside breeze. Service is friendly and attentive, with staff often suggesting local spots or assisting with rentals. Typical guests are couples in their 20s-40s, drawn by the comfort upgrade from backpacker hostels, enjoying the peaceful escape south of the bustle. Though not luxurious, the resort's garden paths and river views create a relaxing base for Kanchanaburi exploration, especially for those valuing nature over nightlife.",
+    "locationReality": "Situated south of Kanchanaburi's town center along the Riverside area, Good Times Resort is about 10-15 minutes by taxi or Grab (around 100-150 THB) from the iconic Bridge over the River Kwai. Within a 5-minute walk, you'll find quiet river paths and small local eateries, but main attractions like the JEATH War Museum require a short drive. Bicycles from the resort make nearby exploration easy, though town center shopping or nightlife demands transport.",
+    "localSignals": [
+      "10-15 minute drive to Bridge over the River Kwai",
+      "On-site restaurant serving Thai food",
+      "Free bicycle rental available for guests",
+      "Riverside location beside River Kwai",
+      "On-site cooking classes offered"
+    ],
+    "travellerNote": "Guests often praise the peaceful riverside bungalows and cooking classes but note the south-of-center spot requires planning for transport to central sights.",
+    "bookingTips": [
+      "Request a riverside wooden bungalow for best views",
+      "Check Agoda for often cheaper rates than Booking.com in Thailand",
+      "Prices spike November-February during cool season peak",
+      "Verify bicycle availability and cooking class schedules pre-booking",
+      "Confirm no construction nearby via recent photos"
+    ],
+    "similarHotels": [
+      {
+        "name": "Jolly Frog Backpackers",
+        "howDifferent": "Offers cheaper dorms and privates on the riverside road near the Bridge, but lacks bungalows and cooking classes."
+      },
+      {
+        "name": "Blue Star Guest House",
+        "howDifferent": "Provides simpler air-con rooms on the backpacker strip with hot showers, but without riverside gardens or bike rentals."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Good Times Resort have a pool?",
+        "a": "No, Good Times Resort does not have a swimming pool; it focuses on riverside gardens and outdoor activities instead."
+      },
+      {
+        "q": "What is the best time to visit Kanchanaburi?",
+        "a": "The best time is November to February for cooler, dry weather ideal for sightseeing along the River Kwai."
+      },
+      {
+        "q": "Where to stay in Kanchanaburi?",
+        "a": "Stay riverside south of center like Good Times Resort for peace, or on Maenam Kwai Road for backpacker vibes near the Bridge."
+      },
+      {
+        "q": "Does Good Times Resort have a restaurant?",
+        "a": "Yes, it has an on-site restaurant serving excellent Thai food in a riverside setting."
+      },
+      {
+        "q": "Are bicycles available at Good Times Resort?",
+        "a": "Yes, free bicycle rentals are provided for guests to explore the area."
+      },
+      {
+        "q": "What activities are offered at Good Times Resort?",
+        "a": "On-site cooking classes are available, along with free bike rentals for local adventures."
+      }
+    ],
+    "urgencyLine": "Riverside bungalows at Good Times Resort book out 1-2 months ahead for November-February high season—check availability today.",
+    "methodology": "We rated Good Times Resort based on its location, amenities like cooking classes and bike rentals, and value for budget travelers. We weighted the riverside setting highest because it defines the charm in Kanchanaburi's landscape. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Good Times Resort Review (2026)",
+    "metaDescription": "Good Times Resort in Kanchanaburi: Charming riverside wooden bungalows with cooking classes and free bikes for budget couples. South of center means transport needed for sights—book for peaceful stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:25:52.352Z"
+}

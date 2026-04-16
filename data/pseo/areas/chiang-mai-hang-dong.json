@@ -1,0 +1,129 @@
+{
+  "template": "area-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "areaSlug": "hang-dong",
+  "areaName": "Hang Dong",
+  "neighborhood": {
+    "name": "Hang Dong",
+    "description": "Hang Dong is a district south of the city center, featuring residential areas and large shopping centers. It includes markets for local crafts and access to rural attractions. Tourists visit for modern amenities and day trips to nearby villages.",
+    "bestFor": "families, shoppers",
+    "priceLevel": "€€",
+    "highlights": [
+      "Central Festival Chiang Mai",
+      "Hang Dong Market",
+      "Baan Tawai Village nearby"
+    ],
+    "walkingScore": "Low",
+    "transportNotes": [
+      "Songthaews from Old City",
+      "Taxis to shopping malls",
+      "Near Chiang Mai International Airport"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hang_Dong_district"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Old City (Within the Moat)",
+    "Nimmanhaemin (Nimman)",
+    "Night Bazaar / Chang Khlan",
+    "Riverside (Wat Ket / Charoen Rat)",
+    "Santitham"
+  ],
+  "paaQuestions": [
+    "Is Hang Dong a good place to stay in Chiang Mai?",
+    "Which area of Chiang Mai is best to stay in?",
+    "Is Hang Dong a popular tourist destination?",
+    "Is Hang Dong a good place to live?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Hang Dong can leave you isolated without easy access to shops or transport — most first-timers overlook its spread-out layout and end up stuck in quiet suburbs.",
+    "intro": "Hang Dong stands out as a southern district blending residential calm with big-box shopping and quick escapes to rural villages, ideal for those prioritizing convenience over city buzz. We ranked it highly for families and shoppers seeking affordable stays near malls and the airport, but lower for walkability.",
+    "vibe": "Suburban + shopper-friendly",
+    "quickStats": {
+      "priceBand": "€€",
+      "walkability": "Low",
+      "bestFor": "Families and shoppers",
+      "safetyNote": "Safe residential district, low theft risk"
+    },
+    "detailedDescription": "In Hang Dong, travelers settle into wide, tree-lined streets lined with single-family homes and gated communities where local Thai families and expat retirees go about daily routines, often heading to nearby offices or markets. Days hum with activity around massive shopping centers like Central Festival, where families push carts through air-conditioned aisles stocked with international brands and Thai snacks, while roadside stalls sell fresh mango sticky rice. Evenings quiet down fast, with residential pockets falling silent by 9pm except for occasional motorbike hums on main roads; noise stays low compared to central Chiang Mai, making it easy to unwind in a hotel room without street racket. Food options cluster at malls and Hang Dong Market, offering everything from mall food courts with pad thai and bubble tea to market stalls grilling som tam—nothing fancy, but reliable and family-oriented. Getting around means relying on songthaews rattling in from the Old City or quick Grab rides to Baan Tawai Village for wood carvings; the low walking score reflects long stretches without sidewalks, so most visitors drive or taxi between spots, especially handy with the airport just 15 minutes north.",
+    "localSignals": [
+      "Songthaews from Old City, 20-30 minutes drive",
+      "Typical Grab from Chiang Mai International Airport: 200-300 THB",
+      "Distance to Central Festival Chiang Mai: 2-5 km within district",
+      "Noise level at night: quiet in residential areas",
+      "Nearest 7-Eleven: every 1-2 km along main roads"
+    ],
+    "pros": [
+      "Easy airport access for short trips",
+      "Large malls for family shopping",
+      "Affordable housing near markets",
+      "Quiet nights in suburbs",
+      "Proximity to Baan Tawai crafts"
+    ],
+    "cons": [
+      "Low walkability requires constant transport",
+      "Spread-out layout isolates non-drivers",
+      "Limited nightlife beyond mall eateries",
+      "Traffic jams on Route 108 during rush hour",
+      "Fewer street food options than central areas"
+    ],
+    "skipIf": "Skip if you prefer walkable streets and historic temples over suburban shopping.",
+    "compareTo": [
+      {
+        "areaName": "Old City (Within the Moat)",
+        "shortPitch": "Old City offers compact, walkable historic sites and temples right outside your door, unlike Hang Dong's car-dependent sprawl.",
+        "recommendFor": "Culture enthusiasts and walkers"
+      },
+      {
+        "areaName": "Nimmanhaemin (Nimman)",
+        "shortPitch": "Nimman buzzes with trendy cafes and nightlife in a compact urban grid, contrasting Hang Dong's quieter, mall-focused vibe.",
+        "recommendFor": "Young foodies and partygoers"
+      },
+      {
+        "areaName": "Night Bazaar / Chang Khlan",
+        "shortPitch": "Night Bazaar delivers non-stop market energy and street vendors, far more lively than Hang Dong's residential calm.",
+        "recommendFor": "Bargain hunters and evening explorers"
+      }
+    ],
+    "travellerNote": "Travellers often praise Hang Dong for its family-friendly malls and peaceful stays near the airport but note the hassle of needing rides everywhere due to poor walkability.",
+    "faq": [
+      {
+        "q": "Is Hang Dong a good place to stay in Chiang Mai?",
+        "a": "Yes, if you're a family or shopper wanting affordable access to malls and the airport, but skip it for central action. Opt for hotels near Central Festival for convenience."
+      },
+      {
+        "q": "Which area of Chiang Mai is best to stay in?",
+        "a": "It depends on your vibe—Hang Dong suits budget shoppers, while Old City fits history buffs. For families, Hang Dong's low-key setup often wins over pricier spots."
+      },
+      {
+        "q": "Is Hang Dong a popular tourist destination?",
+        "a": "It's not a top tourist hub like the Old City, but draws visitors for shopping at Central Festival and day trips to Baan Tawai. Most use it as a practical base rather than a main attraction."
+      },
+      {
+        "q": "Is Hang Dong a good place to live?",
+        "a": "Hang Dong appeals to families and expats for its safe, spacious homes and mall proximity, though commuting to central Chiang Mai adds time. It's ideal for long-term if you have a car."
+      },
+      {
+        "q": "How far is Hang Dong from Chiang Mai airport?",
+        "a": "It's about 10-15 km south, a 15-20 minute taxi ride. This makes it convenient for early flights without city traffic."
+      },
+      {
+        "q": "What to do in Hang Dong?",
+        "a": "Shop at Central Festival, browse Hang Dong Market for crafts, or visit nearby Baan Tawai Village. It's best for relaxed days rather than intense sightseeing."
+      }
+    ],
+    "urgencyLine": "Family suites near Central Festival in Hang Dong fill up fast during December holidays—book 2-3 months ahead for peak season deals.",
+    "methodology": "We compared Hang Dong to Old City (Within the Moat) and Nimmanhaemin (Nimman) based on walkability, price level, noise, and suitability for its typical travellers. We weighted proximity to shopping and airport highest because families and shoppers prioritize convenience over urban energy. Last updated: 2026-04.",
+    "metaTitle": "Staying in Hang Dong, Chiang Mai (2026)",
+    "metaDescription": "Discover staying in Hang Dong, Chiang Mai: affordable family base near malls and airport. Compare areas and see hotels for your 2026 trip. (142 chars)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:21:45.878Z"
+}

@@ -1,0 +1,135 @@
+{
+  "template": "area-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "areaSlug": "tonsai-koh-phi-phi",
+  "areaName": "Tonsai, Koh Phi Phi",
+  "neighborhood": {
+    "name": "Tonsai, Koh Phi Phi",
+    "description": "Tonsai is the main village and beach on Koh Phi Phi Don, serving as the island's commercial center. It has a harbor for longtail boats and longtail ferries from Krabi. The area includes guesthouses and eateries packed along narrow paths.",
+    "bestFor": "backpackers, nightlife, party",
+    "priceLevel": "€€",
+    "highlights": [
+      "Tonsai Beach",
+      "Phi Phi Island Pier",
+      "Loh Dalum Bay nearby",
+      "Jungle Beach trail",
+      "Local bars along the beach"
+    ],
+    "walkingScore": "High",
+    "transportNotes": [
+      "Longtail boats to other bays",
+      "Ferries from Krabi Town",
+      "No cars, foot or boat only"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Phi_Phi_Don"
+      },
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/thailand/phi_phi_islands/tonsai"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Ao Nang",
+    "Railay Beach",
+    "Krabi Town",
+    "Klong Muang",
+    "Tubkaek Beach"
+  ],
+  "paaQuestions": [
+    "Is it better to stay in Krabi or Koh Phi Phi?",
+    "How far is the Phi Phi Cabana Hotel from the Tonsai Pier?",
+    "Which part of Krabi is best to stay?",
+    "Is it worth staying overnight in Koh Phi Phi?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Tonsai, Koh Phi Phi can leave you dodging endless party crowds and missing quieter beach access — most first-timers end up in the noisiest pier-side paths without realizing.",
+    "intro": "Tonsai stands out as Koh Phi Phi Don's bustling core, where narrow paths link guesthouses, eateries, and the main harbor for ferries from Krabi. We ranked it high for backpackers seeking walkable access to nightlife and beaches, prioritizing its central location over more isolated spots.",
+    "vibe": "Bustling + party-central",
+    "quickStats": {
+      "priceBand": "€€",
+      "walkability": "High",
+      "bestFor": "backpackers, nightlife, party",
+      "safetyNote": "Safe overall, watch belongings in crowded bars."
+    },
+    "detailedDescription": "In Tonsai, travelers navigate a maze of narrow, concrete paths squeezed between the harbor and beachfront, where longtail boats bob in turquoise water and vendors hawk cold drinks from stalls. Locals and seasonal workers from mainland Thailand run the guesthouses and food spots, dishing out pad thai and fresh seafood to backpackers hauling daypacks. By day, it's a steady hum of foot traffic heading to Tonsai Beach for swimming or the short Jungle Beach trail, with ferries unloading groups every hour from Krabi Town. As evening hits, the area amps up with reggae beats from beach bars and fire shows drawing crowds until 2am, making sleep tricky without earplugs. Noise bounces off the surrounding cliffs, peaking around the pier where paths bottleneck. Food options cluster along the main drag: cheap curries at family-run shacks or grilled fish from beach carts, all within a 10-minute walk. Getting around means feet on uneven paths or hopping longtail boats for 100-200 baht to nearby bays like Loh Dalum—no cars clutter the scene, but expect waits for boats during peak hours. The commercial vibe suits short stays, with ATMs and dive shops handy, though paths flood slightly in rain, turning them slippery.",
+    "localSignals": [
+      "Phi Phi Island Pier: 2-5 min walk from central guesthouses",
+      "Ferry cost from Krabi Town pier: varies 300-400 THB one-way",
+      "Distance to Tonsai Beach: 1-3 min walk from village paths",
+      "Noise level at night: loud from bars until 2am",
+      "Nearest 7-Eleven: village center, 1-2 min walk along main path"
+    ],
+    "pros": [
+      "Walkable to pier and beach in minutes",
+      "Lively bars for easy nightlife",
+      "Affordable guesthouses near action",
+      "Quick longtail access to other bays",
+      "Central hub for island ferries"
+    ],
+    "cons": [
+      "Crowded paths bottleneck at pier during arrivals",
+      "Noise from parties disrupts sleep until late",
+      "Limited quiet spots amid constant foot traffic",
+      "Paths get muddy and slippery after rain",
+      "Guesthouses fill fast with backpacker groups"
+    ],
+    "skipIf": "Skip if you're traveling with young kids or seeking total tranquility away from party scenes.",
+    "compareTo": [
+      {
+        "areaName": "Ao Nang",
+        "shortPitch": "Ao Nang offers mainland convenience with more resorts and road access, unlike Tonsai's car-free island paths and ferry reliance.",
+        "recommendFor": "families, longer stays"
+      },
+      {
+        "areaName": "Railay Beach",
+        "shortPitch": "Railay provides secluded cliffs and rock climbing without Tonsai's commercial bustle, accessible only by boat but less crowded.",
+        "recommendFor": "adventure seekers, couples"
+      },
+      {
+        "areaName": "Krabi Town",
+        "shortPitch": "Krabi Town has urban markets and cheaper eats on wider streets, contrasting Tonsai's narrow, beach-focused village layout.",
+        "recommendFor": "budget travelers, day trips"
+      }
+    ],
+    "travellerNote": "Travellers often praise Tonsai's central energy and easy beach access but note the relentless noise from nightlife and crowded paths that make relaxing tough.",
+    "faq": [
+      {
+        "q": "Is it better to stay in Krabi or Koh Phi Phi?",
+        "a": "Stay in Krabi for mainland ease and variety, but choose Koh Phi Phi like Tonsai for immersive island vibes and snorkeling—book ferries early from Krabi Town."
+      },
+      {
+        "q": "Which part of Krabi is best to stay?",
+        "a": "Tonsai on Koh Phi Phi suits backpackers wanting nightlife, while Ao Nang or Railay Beach fit families seeking calmer beaches—pick based on your group size."
+      },
+      {
+        "q": "Is it worth staying overnight in Koh Phi Phi?",
+        "a": "Yes, for experiencing Tonsai's sunset bars and morning boat trips, but day trips suffice if you dislike crowds—overnight lets you avoid rushed ferry schedules."
+      },
+      {
+        "q": "How to get around Tonsai, Koh Phi Phi?",
+        "a": "Walk the narrow paths or take longtail boats to bays; no cars mean it's all foot or water transport, with ferries linking to Krabi."
+      },
+      {
+        "q": "What to do in Tonsai at night?",
+        "a": "Hit local beach bars for drinks and fire shows, or stroll to Loh Dalum Bay—it's party central, so pace yourself amid the lively scene."
+      },
+      {
+        "q": "Is Tonsai safe for solo travelers?",
+        "a": "Generally yes for backpackers, but stick to lit paths at night and secure valuables in crowded bars—join group tours for added comfort."
+      }
+    ],
+    "urgencyLine": "Guesthouses in Tonsai's core paths book out fast for Phi Phi high season—secure spots 3 months ahead via ferry schedules from Krabi.",
+    "methodology": "We compared Tonsai, Koh Phi Phi to Ao Nang and Railay Beach based on walkability, price level, noise, and suitability for backpackers and party-goers. We weighted walkability highest because the island's no-car setup makes foot access crucial for daily exploration. Last updated: 2026-04.",
+    "metaTitle": "Staying in Tonsai, Koh Phi Phi, Krabi (2026)",
+    "metaDescription": "Discover staying in Tonsai, Koh Phi Phi, Krabi: walkable backpacker hub with beach bars and ferries. Compare areas and see hotels for your 2026 trip."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:28:11.144Z"
+}

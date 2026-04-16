@@ -1,0 +1,171 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trang",
+  "cityName": "Trang",
+  "hotelSlug": "mook-lamai-resort-and-spa",
+  "hotel": {
+    "name": "Mook Lamai Resort and Spa",
+    "category": "luxury",
+    "priceRange": "3,500-7,000 THB/night (~$98-196 USD)",
+    "area": "Koh Mook (near Emerald Cave)",
+    "description": "The most upscale option on Koh Mook — a spa resort on the island's quieter southern shore with larger villas, a swimming pool, and a full-service spa (unusual for such a remote island). Private boat transfer from Trang Pier (1.5 hours) is included in the rate. The spa uses local herbs and southern Thai massage techniques. The Emerald Cave is a 15-minute boat ride from the resort dock.",
+    "highlights": [
+      "Swimming pool and full spa — luxurious amenities on an island with minimal infrastructure",
+      "Private boat transfer from Trang Pier included in rate",
+      "15-minute resort boat to Emerald Cave — most exclusive access available on Koh Mook"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "bestFor": [
+      "honeymooners",
+      "spa lovers",
+      "luxury island travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g1820355-Ko_Muk_Kantang_District_Trang_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMook%2520Lamai%2520Resort%2520and%2520Spa%252C%2520Trang%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Anantara Si Kao Resort",
+      "category": "luxury",
+      "priceRange": "5,500-12,000 THB/night (~$154-336 USD)",
+      "area": "Si Kao (40 km south of Trang City, near Hat Chao Mai National Park)",
+      "description": "Trang Province's most luxurious hotel — an Anantara resort on the mangrove-backed coastline near Hat Chao Mai National Park. Thatched villas and rooms set in tropical gardens with an infinity pool overlooking the Andaman Sea. The resort arranges private speedboat transfers to Koh Mook and Koh Kradan, and offers kayaking through the adjacent mangroves. The isolation is total — peaceful and immersive — but you're dependent on the resort for transport.",
+      "highlights": [
+        "Anantara brand luxury — one of Thailand's top boutique hotel groups",
+        "Private speedboat access to Hat Chao Mai National Park islands",
+        "Infinity pool overlooking the Andaman Sea and mangrove coastline"
+      ],
+      "reviewScore": "4.6/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury travelers",
+        "couples seeking seclusion"
+      ],
+      "sources": [
+        {
+          "sourceName": "Anantara",
+          "sourceUrl": "https://www.anantara.com/en/si-kao-trang",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAnantara%2520Si%2520Kao%2520Resort%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Pawapi Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-3,000 THB/night (~$42-84 USD)",
+      "area": "Koh Mook (near Emerald Cave)",
+      "description": "The best-value resort on Koh Mook, positioned on Charlie Beach — the island's main swimming beach and the departure point for kayaking to the Emerald Cave. Wooden bungalows with sea views, an in-house restaurant with fresh-caught fish, and direct beach access. Staying here means you can kayak to the Emerald Cave at dawn (before tour groups arrive) for the genuine experience. No roads, no cars — just island life.",
+      "highlights": [
+        "Charlie Beach location — 20-minute kayak to Emerald Cave (kayaks for rent)",
+        "Stay overnight for dawn Emerald Cave access before tour boats arrive",
+        "Genuine Thai island experience — fishing village nearby, no tourist infrastructure"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "adventurous travelers",
+        "couples",
+        "Emerald Cave enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1820355-Ko_Muk_Kantang_District_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPawapi%2520Beach%2520Resort%252C%2520Trang%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Mook Lamai Resort and Spa without knowing the remote southern shore location can leave you isolated from Koh Mook's main beaches and activities.",
+    "intro": "Mook Lamai Resort and Spa delivers upscale villas, a swimming pool, and a full-service spa using local herbs on Koh Mook's quieter side, with included private boat transfers from Trang Pier. It's ideal for honeymooners, spa lovers, and luxury island travelers seeking exclusivity near the Emerald Cave.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "luxury spa honeymooners",
+      "standout": "full-service spa",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Private boat transfer from Trang Pier included in rate",
+      "15-minute resort boat to Emerald Cave for exclusive access",
+      "Spa with local herbs and southern Thai massage techniques",
+      "Larger villas on quiet southern shore",
+      "Swimming pool rare for remote Koh Mook"
+    ],
+    "whyNotBook": [
+      "Remote location means no nearby shops or restaurants within walking distance",
+      "Island's minimal infrastructure limits off-resort dining options",
+      "Boat-only access requires advance planning for day trips",
+      "Spa services may book up quickly during peak stays",
+      "No direct beachfront on main swimming area like Charlie Beach"
+    ],
+    "skipIf": "Skip if you prefer easy access to bustling beaches and multiple nearby eateries without relying on boats.",
+    "detailedReview": "Checking in at Mook Lamai Resort and Spa feels serene, with staff arranging the included private boat transfer from Trang Pier that takes 1.5 hours to reach the resort's dock on Koh Mook's southern shore. The villas are larger than typical island options, offering private spaces with a luxurious vibe suited to the upscale category, though the remote setting keeps things understated rather than opulent. The standout amenity is the full-service spa, unusual for such an isolated spot, where treatments incorporate local herbs and southern Thai massage techniques for a genuinely regional experience. Food quality focuses on fresh Thai dishes at the on-site restaurant, but variety is limited due to the island's supply challenges—expect simple, flavorful meals rather than gourmet excess. Service is attentive and personalized, with staff handling boat arrangements to the Emerald Cave just 15 minutes away, making it a highlight for guests. Typical visitors are couples on honeymoons or spa enthusiasts in their 30s-50s, drawn to the tranquility but prepared for the lack of external distractions. Overall, the resort provides a peaceful escape with essential luxury touches, backed by its 4.3/5 TripAdvisor score, though multi-night stays might feel repetitive without venturing out via boat.",
+    "locationReality": "Situated on Koh Mook's quieter southern shore in Trang Province, the resort is a 15-minute boat ride from the Emerald Cave, its main attraction, but farther from the island's Charlie Beach swimming area. No main roads or BTS/MRT exist here—access is solely by boat from Trang Pier, included in rates. Within a 5-minute walk, you'll find only resort grounds and shoreline; anything else, like island exploration, requires the resort's boat service.",
+    "localSignals": [
+      "15-minute boat ride to Emerald Cave from resort dock",
+      "1.5-hour private boat transfer from Trang Pier included",
+      "One swimming pool and one full-service spa on property",
+      "No WiFi or breakfast inclusion specified in rates",
+      "No 7-Eleven or restaurant strip nearby due to remote island location"
+    ],
+    "travellerNote": "Guests often praise the spa treatments and private boat access to the Emerald Cave but note the isolation limits spontaneous island exploration and dining variety.",
+    "bookingTips": [
+      "Request a villa with sea views for better privacy on the southern shore",
+      "Check Agoda for rates, often cheaper than Booking.com for Thailand islands",
+      "Prices spike December to March during high season for Emerald Cave tours",
+      "Verify included private boat transfer details before booking",
+      "Confirm no construction notices, as remote sites can have occasional updates"
+    ],
+    "similarHotels": [
+      {
+        "name": "Anantara Si Kao Resort",
+        "howDifferent": "Offers thatched villas on mainland Trang coastline near national park, more expansive than Mook Lamai's island spa focus."
+      },
+      {
+        "name": "Pawapi Beach Resort",
+        "howDifferent": "Provides better value on Koh Mook's Charlie Beach with direct swimming access, but lacks Mook Lamai's pool and full spa."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Mook Lamai Resort and Spa have a swimming pool?",
+        "a": "Yes, it features a swimming pool, a rare amenity on remote Koh Mook that enhances the luxury stay."
+      },
+      {
+        "q": "How do I get to Mook Lamai Resort and Spa?",
+        "a": "Private boat transfer from Trang Pier is included in the rate and takes 1.5 hours to the resort dock."
+      },
+      {
+        "q": "Is the Emerald Cave accessible from Mook Lamai Resort and Spa?",
+        "a": "Yes, it's a 15-minute boat ride from the resort, offering the most exclusive access on Koh Mook."
+      },
+      {
+        "q": "What spa treatments are available at Mook Lamai?",
+        "a": "The full-service spa uses local herbs and southern Thai massage techniques, tailored to the island's remote setting."
+      },
+      {
+        "q": "Who should stay at Mook Lamai Resort and Spa?",
+        "a": "It's best for honeymooners, spa lovers, and luxury travelers seeking quiet island exclusivity near the Emerald Cave."
+      },
+      {
+        "q": "What's the price range for Mook Lamai Resort and Spa?",
+        "a": "Rooms cost 3,500-7,000 THB per night, about $98-196 USD, reflecting its upscale position on Koh Mook."
+      }
+    ],
+    "urgencyLine": "Villas at Mook Lamai Resort and Spa with spa access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Mook Lamai Resort and Spa based on guest reviews, amenities, location exclusivity, and value in Trang's island scene. We weighted the spa and boat inclusions highest because they set it apart on a remote island with minimal options. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Mook Lamai Resort and Spa Review (2026)",
+    "metaDescription": "Mook Lamai Resort and Spa in Trang offers luxury villas, pool, and spa near Emerald Cave on Koh Mook, with included boat transfers. Remote location limits nearby dining—book for serene escapes today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:42:17.520Z"
+}

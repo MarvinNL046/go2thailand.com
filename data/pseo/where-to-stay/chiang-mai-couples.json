@@ -1,0 +1,240 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "audience": "couples",
+  "neighborhoods": [
+    {
+      "name": "Nimmanhaemin (Nimman)",
+      "description": "Chiang Mai's trendiest neighborhood, located just west of the Old City near Chiang Mai University. Sois 1–17 are packed with specialty coffee shops, design boutiques, co-working spaces, art galleries, and international restaurants. This is where digital nomads and young professionals congregate.",
+      "bestFor": "Digital nomads & coffee lovers",
+      "priceLevel": "Mid-Range",
+      "highlights": [
+        "Thailand's highest concentration of specialty coffee shops",
+        "MAYA Lifestyle Shopping Center as the area hub",
+        "Co-working spaces: CAMP (free at MAYA), Punspace, Hub53",
+        "Excellent international dining — Japanese, Korean, Italian, vegan",
+        "Soi 9 and Soi 11 have the best nightlife options"
+      ],
+      "recommendedHotels": [
+        "Sireeampan Boutique Resort & Spa"
+      ],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "10-minute songthaew ride to Old City (30 THB)",
+        "Grab rides to Old City cost 50–80 THB",
+        "Very walkable within Nimman itself"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Riverside (Wat Ket / Charoen Rat)",
+      "description": "The quieter eastern bank of the Ping River, lined with old wooden shophouses, leafy restaurants, and boutique hotels. Charoen Rat Road has a growing brunch and cafe scene. More residential and peaceful than the Old City, with some of Chiang Mai's finest luxury properties.",
+      "bestFor": "Families & relaxation seekers",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Peaceful atmosphere away from tourist bustle",
+        "Riverside restaurants with garden settings",
+        "Home to 137 Pillars House and other luxury boutiques",
+        "Saturday evening Riverside Night Market (smaller, more local)",
+        "Morning mist over the Ping River is magical"
+      ],
+      "recommendedHotels": [
+        "137 Pillars House",
+        "Melia Chiang Mai"
+      ],
+      "walkingScore": "5/10",
+      "transportNotes": [
+        "15-minute walk or 5-minute Grab to Old City",
+        "Less songthaew coverage — Grab is more reliable here",
+        "Quieter but requires transport for temple-hopping"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Huay Kaew",
+      "description": "Huay Kaew is the area around Chiang Mai University and the road leading to Doi Suthep mountain. It features cafes, small eateries, and access to Huay Kaew Waterfall. The neighborhood is popular for its proximity to nature trails and university vibe.",
+      "bestFor": "digital nomads, couples",
+      "priceLevel": "€–€€",
+      "highlights": [
+        "Chiang Mai University",
+        "Huay Kaew Waterfall",
+        "Doi Suthep Road cafes"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Old City to university",
+        "Tuk-tuks to Doi Suthep Temple"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Huay_Kaew_Waterfall"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/bangkok_to_chiang_mai/chiang_mai_beyond_the_old_city/huay_kaew"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where to stay in Chiang Mai couples?",
+    "Which part of Chiang Mai is best to stay in?",
+    "Is Chiang Mai good for couples?",
+    "What to be careful of in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Chiang Mai neighbourhood as a couples traveller can lead to noisy crowds disrupting your romantic downtime — most travellers overlook quieter spots beyond the Old City.",
+    "intro": "For couples, the key factor is finding a balance of intimacy and accessibility without overt tourist bustle. We ranked neighbourhoods on walkability, vibe suitability for two, price-value for shared stays, and proximity to serene escapes like riverside walks or mountain views.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Huay Kaew",
+        "why": "Romantic nature access for couples"
+      },
+      {
+        "label": "Best value",
+        "name": "Huay Kaew",
+        "why": "Affordable cafes near university"
+      },
+      {
+        "label": "Best for intimate escapes",
+        "name": "Riverside (Wat Ket / Charoen Rat)",
+        "why": "Peaceful riverside boutique stays"
+      }
+    ],
+    "urgencyLine": "Chiang Mai's peak season from November to February fills romantic boutique hotels fast — couples should book in popular areas like Huay Kaew 3 months ahead for waterfall-view rooms.",
+    "comparisonTable": [
+      {
+        "name": "Nimmanhaemin (Nimman)",
+        "bestFor": "Digital nomads & coffee lovers",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "modern, lively",
+        "drawback": "Can feel too trendy and crowded"
+      },
+      {
+        "name": "Riverside (Wat Ket / Charoen Rat)",
+        "bestFor": "Families & relaxation seekers",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back, quiet",
+        "drawback": "Fewer evening entertainment options"
+      },
+      {
+        "name": "Huay Kaew",
+        "bestFor": "digital nomads, couples",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "modern, laid-back",
+        "drawback": "Uphill access to some attractions"
+      }
+    ],
+    "decisionGuide": [
+      "If you seek trendy cafes and boutique shopping walks, choose Nimmanhaemin (Nimman).",
+      "If relaxation by the river with brunch spots appeals, choose Riverside (Wat Ket / Charoen Rat).",
+      "If proximity to nature and university vibes suits your couple dynamic, choose Huay Kaew.",
+      "If you want mid-range prices without Old City hustle, avoid central areas and choose Riverside (Wat Ket / Charoen Rat).",
+      "If digital nomad spots with couple-friendly cafes are key, choose Huay Kaew over busier Nimmanhaemin (Nimman)."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Huay Kaew",
+        "why": "Huay Kaew tops for couples with its blend of affordable cafes, easy access to Doi Suthep trails for romantic hikes, and university-area calm that beats Nimmanhaemin's (Nimman) trendier crowds. It offers better nature proximity than Riverside's (Wat Ket / Charoen Rat) residential feel.",
+        "drawback": "Some areas require short uphill walks or songthaews to reach Doi Suthep.",
+        "skipIf": "Skip if you prefer urban energy over semi-rural mountain access.",
+        "localSignals": [
+          "Walking 5-10 min to Chiang Mai University",
+          "Grab from CNX airport ~250-350 THB, 20-30 min",
+          "2 km to Huay Kaew Waterfall trailhead"
+        ],
+        "travellerNote": "Travellers often praise the scenic waterfall access and cozy eateries but note occasional traffic near the university during term time."
+      },
+      {
+        "rank": 2,
+        "name": "Riverside (Wat Ket / Charoen Rat)",
+        "why": "This area excels in peaceful boutique hotel options along the Ping River, ideal for couples seeking downtime that feels more intimate than Huay Kaew's active trails. It provides luxury touches at mid-range prices without Nimmanhaemin's (Nimman) buzz.",
+        "drawback": "Transport to Old City sights needs 10-15 min tuk-tuk rides.",
+        "skipIf": "Skip if you want high-energy cafes over quiet residential lanes.",
+        "localSignals": [
+          "Walking 5 min to Charoen Rat Road cafes",
+          "Grab from CNX airport ~200-300 THB, 15-25 min",
+          "Directly along Ping River eastern bank"
+        ],
+        "travellerNote": "Travellers often praise the leafy restaurants and serene shophouses but note limited nightlife compared to central areas."
+      },
+      {
+        "rank": 3,
+        "name": "Nimmanhaemin (Nimman)",
+        "why": "Nimmanhaemin (Nimman) suits couples who enjoy modern vibes with coffee shops and galleries in walkable sois, offering more variety than Riverside's (Wat Ket / Charoen Rat) calm but less nature focus than Huay Kaew.",
+        "drawback": "Peak hours bring heavier foot traffic in the trendy core.",
+        "skipIf": "Skip if you avoid lively scenes for pure couple seclusion.",
+        "localSignals": [
+          "Walking 10 min to Soi 1 coffee shops",
+          "Grab from CNX airport ~300-400 THB, 25-35 min",
+          "Adjacent to Chiang Mai University west gate"
+        ],
+        "travellerNote": "Travellers often praise the design boutiques and international eats but note it can feel less authentic than riverside spots."
+      }
+    ],
+    "topPick": "Huay Kaew",
+    "topPickReason": "Huay Kaew best balances couple-friendly nature access, affordability, and laid-back vibes without the crowds of trendier areas.",
+    "bookingTips": [
+      "Book 2-3 months ahead for November-February to secure riverside or mountain-view rooms in Huay Kaew.",
+      "From CNX airport, take a Grab taxi to Huay Kaew for 250-350 THB, avoiding overpriced airport taxis.",
+      "Avoid booking on noisy main roads like Huay Kaew Road; opt for quieter sois near the waterfall trail.",
+      "Watch for Yi Peng Lantern Festival crowds in November, which spike prices in all areas.",
+      "Choose boutique hotels with private balconies for couples; mid-range options under €80 often include breakfast.",
+      "Steer clear of unverified tuk-tuk drivers near the university to avoid inflated fares."
+    ],
+    "methodology": "We compared Chiang Mai neighbourhoods based on walkability, price level, transport access, and suitability for couples. We weighted vibe and proximity to romantic spots highest because couples prioritize intimacy over hustle. Rankings reflect cluster data plus typical couples priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/areas/chiang-mai/huay-kaew/",
+      "/guides/where-to-stay/chiang-mai/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Chiang Mai'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Huay Kaew'"
+    ],
+    "faq": [
+      {
+        "q": "Where to stay in Chiang Mai couples?",
+        "a": "Huay Kaew stands out for couples with its cafes and access to Doi Suthep trails, offering intimate stays away from crowds. Consider Riverside (Wat Ket / Charoen Rat) for quieter riverside romance."
+      },
+      {
+        "q": "Which part of Chiang Mai is best to stay in?",
+        "a": "For couples, Huay Kaew provides the best mix of laid-back vibes and nature proximity. Nimmanhaemin (Nimman) works if you prefer trendy walks."
+      },
+      {
+        "q": "Is Chiang Mai good for couples?",
+        "a": "Yes, Chiang Mai offers romantic spots like riverside dinners and mountain hikes, especially in areas like Huay Kaew. It's ideal for relaxed getaways with affordable boutique options."
+      },
+      {
+        "q": "What to be careful of in Chiang Mai?",
+        "a": "Watch for tuk-tuk overcharging near tourist areas and traffic in Nimmanhaemin (Nimman) during evenings. Stick to Grab for safe, metered rides to your couple's stay."
+      }
+    ],
+    "metaTitle": "Where to Stay in Chiang Mai for Couples (2026)",
+    "metaDescription": "Discover top Chiang Mai neighborhoods for couples like Huay Kaew with nature access and intimate vibes. Compare areas for romantic stays, boutique…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:02:28.256Z"
+}

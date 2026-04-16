@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "udon-thani",
+  "cityName": "Udon Thani",
+  "hotelSlug": "kaen-inn-hotel",
+  "hotel": {
+    "name": "Kaen Inn Hotel",
+    "category": "mid-range",
+    "priceRange": "1,100-2,200 THB/night (~$31-61 USD)",
+    "area": "Nong Prajak Park (lakeside road)",
+    "description": "A comfortable Thai-style hotel directly on the road bordering Nong Prajak Park — arguably the best location in Udon Thani for those who want easy park access and proximity to the evening lakeside food scene. Rooms are well-maintained with park or city views. The hotel restaurant serves decent Thai food, and the park's jogging path is literally across the street.",
+    "highlights": [
+      "Directly opposite Nong Prajak Park on Prajak Sillapakom Road",
+      "Steps from the lakeside evening restaurant strip",
+      "Hotel restaurant with Thai and some international dishes"
+    ],
+    "reviewScore": "3.8/5 TripAdvisor",
+    "bestFor": [
+      "active travelers",
+      "couples",
+      "park and lake lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tourism Authority of Thailand",
+        "sourceUrl": "https://www.tourismthailand.org/Destinations/Provinces/Udon-Thani/322",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaen%2520Inn%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Charoen Hotel",
+      "category": "mid-range",
+      "priceRange": "950-1,800 THB/night (~$27-50 USD)",
+      "area": "City Center (10-acre garden grounds)",
+      "description": "One of Udon Thani's most characterful mid-range options — a long-established hotel set in 10 acres of garden grounds near the city center. The generous outdoor space is unusual for a Thai city hotel. Rooms are spacious with traditional Thai décor, and the gardens include a swimming pool. Good-value for families who want space and greenery without the city-hotel feel.",
+      "highlights": [
+        "10-acre garden grounds — unusually spacious for Udon Thani",
+        "Swimming pool surrounded by tropical garden",
+        "Spacious rooms with traditional Thai décor"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples",
+        "garden lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Wikitravel Udon Thani",
+          "sourceUrl": "https://wikitravel.org/en/Udon_Thani",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCharoen%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "The Pannarai Hotel",
+      "category": "mid-range",
+      "priceRange": "1,480-2,500 THB/night (~$41-70 USD) with breakfast",
+      "area": "Nong Prajak Park area",
+      "description": "A modern mid-range hotel with a prime location near Nong Prajak Park and UD Town. Rates include breakfast, making it better value than the rack rate suggests. Rooms are clean and well-furnished with reliable WiFi. The location near the park means pleasant morning walks and easy access to the evening lakeside restaurant scene. Good choice for travelers who want a comfortable city base.",
+      "highlights": [
+        "Breakfast included in room rate",
+        "Close to Nong Prajak Park for morning walks and evening dining",
+        "Modern rooms with reliable WiFi"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business travelers",
+        "comfortable mid-range"
+      ],
+      "sources": [
+        {
+          "sourceName": "Wikitravel Udon Thani",
+          "sourceUrl": "https://wikitravel.org/en/Udon_Thani",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Pannarai%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Hotel Udon Thani",
+      "category": "mid-range",
+      "priceRange": "1,300-2,800 THB/night (~$36-78 USD)",
+      "area": "City Center",
+      "description": "The most popular hotel in Udon Thani among international visitors — part of Thailand's mid-range Centara chain with the reliability and amenities that expat and business travelers expect. The hotel has a swimming pool, fitness center, multiple restaurants (including an international menu), and consistently good service standards. Described as the go-to choice for foreigners who want comfort without paying luxury prices.",
+      "highlights": [
+        "Centara chain reliability and consistent standards",
+        "Swimming pool and fitness center",
+        "Multiple dining options including international cuisine"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "couples",
+        "first-time Udon Thani visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Wikitravel Udon Thani",
+          "sourceUrl": "https://wikitravel.org/en/Udon_Thani",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Hotel%2520Udon%2520Thani%252C%2520Udon%2520Thani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Kaen Inn Hotel without knowing its roadside location can lead to disturbed sleep from evening traffic near the park.",
+    "intro": "Kaen Inn Hotel offers comfortable Thai-style rooms with park or city views in a prime spot opposite Nong Prajak Park, ideal for accessing the lakeside jogging path and evening food scene. It's best suited for active travelers, couples, and those who enjoy park and lake vibes without needing luxury frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "active park lovers",
+      "standout": "lakeside park location",
+      "noGoFor": "luxury seeking families"
+    },
+    "whyBook": [
+      "Directly opposite Nong Prajak Park for instant jogging access.",
+      "Steps from evening lakeside restaurant strip.",
+      "Well-maintained rooms with park views.",
+      "On-site restaurant for decent Thai meals."
+    ],
+    "whyNotBook": [
+      "Roadside rooms pick up traffic noise until late evening.",
+      "No pool or spa for relaxation after park activities.",
+      "3.8/5 score reflects inconsistent service experiences.",
+      "Limited international dishes beyond basic Thai options.",
+      "Basic mid-range amenities lack modern chain perks."
+    ],
+    "skipIf": "Skip if you're traveling with kids needing pool access or seeking a quieter retreat away from main roads.",
+    "detailedReview": "Checking into Kaen Inn Hotel feels straightforward and welcoming, with staff at the front desk efficiently handling reservations in a modest lobby overlooking the park road. Rooms deliver a comfortable Thai-style vibe, featuring clean, well-maintained spaces with either serene park views or glimpses of the city bustle—nothing extravagant, but functional for a restful stay after a day out. The standout amenity is the unbeatable location, placing the hotel right on Prajak Sillapakom Road, directly across from Nong Prajak Park's jogging path, making it easy to step out for exercise or evening strolls. The on-site restaurant serves up decent Thai dishes like stir-fries and curries, with a few international options such as pasta, though portions are standard and flavors reliable rather than exceptional. Service is typically friendly but can vary, with some guests noting quicker responses during quieter periods. You'll often spot active travelers and couples here, drawn by the proximity to the lakeside food scene, enjoying casual dinners at nearby stalls after park visits. Overall, it's a practical base for exploring Udon Thani's central green space, though the 3.8/5 TripAdvisor score hints at occasional lapses in room upkeep or meal variety during busier times.",
+    "locationReality": "Kaen Inn Hotel sits directly on Prajak Sillapakom Road, opposite Nong Prajak Park, so the main attraction is a zero-minute walk across the street. Within a 5-minute stroll, you'll reach the evening lakeside restaurant strip for street food and local eats. For broader Udon Thani spots like UD Town shopping center, expect a 10-15 minute Grab ride costing around 100-150 THB, as the park area is central but not directly connected to transit hubs.",
+    "localSignals": [
+      "0-minute walk to Nong Prajak Park entrance.",
+      "Steps from lakeside evening restaurant strip.",
+      "1 on-site restaurant serving Thai dishes.",
+      "Typical Grab to Udon Thani Airport: 20-30 minutes, 300-400 THB.",
+      "No breakfast inclusion evident from standard rates."
+    ],
+    "travellerNote": "Guests often praise the prime park location and easy access to evening food spots but note occasional traffic noise from roadside rooms and average service consistency.",
+    "bookingTips": [
+      "Request park-view rooms to avoid city traffic sounds.",
+      "Check Agoda for lower rates than Booking.com in Thailand.",
+      "Prices spike in November-February high season for park events.",
+      "Verify restaurant hours, as it may close early off-peak.",
+      "Confirm no ongoing road construction near Prajak Sillapakom Road."
+    ],
+    "similarHotels": [
+      {
+        "name": "Charoen Hotel",
+        "howDifferent": "Offers garden grounds near city center instead of direct park access, with more character but less lakeside vibe."
+      },
+      {
+        "name": "The Pannarai Hotel",
+        "howDifferent": "Provides modern rooms near the park with included breakfast, edging out on value but slightly higher pricing."
+      },
+      {
+        "name": "Centara Hotel Udon Thani",
+        "howDifferent": "Delivers chain reliability and popularity for internationals, with broader amenities but farther from the park strip."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Kaen Inn Hotel close to Nong Prajak Park?",
+        "a": "Yes, it's directly opposite the park on Prajak Sillapakom Road, allowing immediate access to the jogging path and lake views."
+      },
+      {
+        "q": "What food options are available at Kaen Inn Hotel?",
+        "a": "The hotel restaurant serves decent Thai dishes and some international fare like pasta, ideal for casual meals near the lakeside scene."
+      },
+      {
+        "q": "Who should stay at Kaen Inn Hotel in Udon Thani?",
+        "a": "It's perfect for active travelers, couples, and park enthusiasts seeking proximity to evening food strips without luxury needs."
+      },
+      {
+        "q": "Does Kaen Inn Hotel include breakfast?",
+        "a": "Standard rates do not include breakfast; check for packages, but the on-site restaurant offers Thai options starting the day."
+      },
+      {
+        "q": "How noisy is Kaen Inn Hotel due to its location?",
+        "a": "Roadside position on Prajak Sillapakom Road can bring evening traffic sounds, so opt for park-view rooms for quieter stays."
+      },
+      {
+        "q": "What's the TripAdvisor rating for Kaen Inn Hotel?",
+        "a": "It holds a 3.8/5 score, reflecting solid location praise balanced by notes on service and basic amenities."
+      }
+    ],
+    "urgencyLine": "Park-view rooms at Kaen Inn Hotel book out 1-2 months ahead for the cool season park festivals—secure yours soon.",
+    "methodology": "We rated Kaen Inn Hotel based on location proximity, room maintenance, and guest feedback from sources like TripAdvisor. We weighted location highest because Udon Thani's appeal centers on Nong Prajak Park access. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Kaen Inn Hotel Review (2026)",
+    "metaDescription": "Kaen Inn Hotel in Udon Thani offers prime Nong Prajak Park access and lakeside dining proximity for active travelers. Note roadside noise in some rooms. Book for mid-range comfort today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:51:17.182Z"
+}

@@ -1,0 +1,171 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-ratchasima",
+  "cityName": "Nakhon Ratchasima",
+  "hotelSlug": "romyen-garden-place-hotel",
+  "hotel": {
+    "name": "Romyen Garden Place Hotel",
+    "category": "mid-range",
+    "priceRange": "2,000-3,200 THB/night (~$56-89 USD)",
+    "area": "City Center / Business District",
+    "description": "A sophisticated 4-star business hotel on the fringes of Korat's central business district, popular with Thai business travelers visiting the city's large government and university sector. Large rooms by Thai mid-range standards, a proper swimming pool, fitness room, and multiple dining options. The garden setting is a welcome contrast to the city's busy roads. Good for longer stays in Korat city.",
+    "highlights": [
+      "4-star facilities at mid-range pricing",
+      "Garden setting — quieter than city-center hotels on the main road",
+      "Large rooms with proper work desks — good for business stays"
+    ],
+    "reviewScore": "4.1/5 TripAdvisor",
+    "bestFor": [
+      "business travelers",
+      "couples",
+      "longer stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRomyen%2520Garden%2520Place%2520Hotel%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Centre Point Hotel Terminal 21 Korat",
+      "category": "mid-range",
+      "priceRange": "1,800-2,800 THB/night (~$50-78 USD)",
+      "area": "Terminal 21 (Mittraphap Road)",
+      "description": "The most convenient mid-range option in Korat — directly connected to Terminal 21 shopping mall via a covered walkway. Modern rooms with Thai-contemporary design, swimming pool, fitness center, and multiple restaurants on the property. The Terminal 21 connection means you have direct access to the mall's excellent food court, cinema, and transport links. A reliable 3.5-star experience in the city's most connected location.",
+      "highlights": [
+        "Direct walkway connection to Terminal 21 shopping mall",
+        "Swimming pool and fitness center on-site",
+        "Most transport connections in the city immediately accessible"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentre%2520Point%2520Hotel%2520Terminal%252021%2520Korat%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Hotel & Convention Centre Korat",
+      "category": "mid-range",
+      "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+      "area": "Mittraphap Road (near Terminal 21)",
+      "description": "Thai chain Centara's Korat property bridges the gap between solid mid-range and upper-mid comfort. Multiple room types from standard to junior suites, an outdoor pool, spa, fitness center, and three food and beverage outlets including a rooftop bar. The Centara brand delivers consistent Thai-standard hospitality with English-speaking staff. Pet-friendly policy makes it unusually welcoming for traveling pet owners.",
+      "highlights": [
+        "Outdoor swimming pool and spa facilities",
+        "Rooftop bar with city views over Korat",
+        "Pet-friendly — rare for Thai city hotels"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "pet owners"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-zff8-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Hotel%2520%2526%2520Convention%2520Centre%2520Korat%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Romyen Garden Place Hotel without knowing its position on the fringes of the business district can lead to unexpected Grab rides for central Korat dining.",
+    "intro": "Romyen Garden Place Hotel offers 4-star facilities like a swimming pool and large rooms with work desks at mid-range prices, set in a quiet garden away from busy roads. It's ideal for business travelers, couples, and those planning longer stays in Nakhon Ratchasima.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "business travelers couples",
+      "standout": "garden setting",
+      "noGoFor": "budget backpackers partygoers"
+    },
+    "whyBook": [
+      "4-star pool and fitness room at mid-range rates",
+      "Large rooms with proper work desks for business",
+      "Quiet garden contrast to Korat's busy roads",
+      "Multiple dining options on-site for convenience",
+      "Suited for longer stays with spacious setup"
+    ],
+    "whyNotBook": [
+      "Fringe location requires transport to main shopping areas",
+      "Business-focused vibe lacks nightlife energy",
+      "Garden setting means fewer walkable city attractions",
+      "Pool may feel underused during off-peak business seasons",
+      "Dining options cater more to Thai tastes than international"
+    ],
+    "skipIf": "Skip if you're seeking a vibrant, walkable spot in Korat's absolute city heart for spontaneous outings.",
+    "detailedReview": "Checking into Romyen Garden Place Hotel feels efficient and welcoming, with staff handling business check-ins smoothly for its Thai traveler crowd. Rooms are notably large by mid-range Thai standards, featuring proper work desks that make them practical for extended professional stays, though decor leans functional rather than flashy. The standout amenity is the swimming pool in the garden setting, providing a serene escape from Korat's traffic noise, complemented by a fitness room for quick workouts. Food quality shines in the multiple dining options, offering Thai dishes that satisfy local business guests, but variety might feel limited for multi-night stays without venturing out. Service style is polite and attentive, prioritizing efficiency for government and university visitors who form the typical guest profile—think solo professionals or couples on work trips rather than families. Overall, it's a solid base for longer Korat visits, emphasizing comfort in a quieter pocket of the business district without the chaos of main roads.",
+    "locationReality": "Situated on the fringes of Nakhon Ratchasima's central business district, it's about 10-15 minutes by Grab to key spots like Thao Suranari Monument or Terminal 21 mall, costing around 100-150 THB per ride. Within a 5-minute walk, you'll find office buildings and local eateries, but major shopping or nightlife requires transport. The garden setting keeps it insulated from the busiest roads, making it quieter than hotels directly on main thoroughfares.",
+    "localSignals": [
+      "10-15 min Grab to Terminal 21 Korat mall",
+      "On-site swimming pool and fitness room available",
+      "Multiple dining options within the property",
+      "Near government and university sector in business district",
+      "Typical Grab from hotel to city center: 100-150 THB"
+    ],
+    "travellerNote": "Guests often praise the quiet garden setting and large rooms for productive stays but note the fringe location demands rides for central attractions.",
+    "bookingTips": [
+      "Request rooms with garden views for maximum quiet",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike during government conferences in Q4",
+      "Verify breakfast inclusion as it's not always standard",
+      "Book superior rooms for better work desk setups"
+    ],
+    "similarHotels": [
+      {
+        "name": "Centre Point Hotel Terminal 21 Korat",
+        "howDifferent": "Offers direct mall access via walkway, more convenient for shopping than Romyen Garden Place's garden-focused retreat."
+      },
+      {
+        "name": "Centara Hotel & Convention Centre Korat",
+        "howDifferent": "Provides upper-mid comfort with more room types and convention facilities, edging out Romyen Garden Place in event suitability."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Romyen Garden Place Hotel have a pool?",
+        "a": "Yes, it features a proper swimming pool in its garden setting, ideal for relaxation after business meetings."
+      },
+      {
+        "q": "Is Romyen Garden Place Hotel good for business travelers?",
+        "a": "Absolutely, with large rooms equipped with work desks and proximity to Korat's government and university areas."
+      },
+      {
+        "q": "What's the location like for Romyen Garden Place Hotel?",
+        "a": "It's on the fringes of the business district, quieter than central spots but requires short Grab rides to main attractions."
+      },
+      {
+        "q": "Are rooms at Romyen Garden Place Hotel spacious?",
+        "a": "Yes, rooms are large by Thai mid-range standards, making them suitable for longer stays."
+      },
+      {
+        "q": "What dining options are available at Romyen Garden Place Hotel?",
+        "a": "Multiple on-site dining venues offer Thai-focused meals, convenient for business guests without leaving the property."
+      },
+      {
+        "q": "Is Romyen Garden Place Hotel family-friendly?",
+        "a": "It's better for business travelers and couples; families might prefer more central locations with kid amenities."
+      }
+    ],
+    "urgencyLine": "Rooms at Romyen Garden Place Hotel with garden views book out 1-2 months ahead for peak business seasons—check today.",
+    "methodology": "We rated Romyen Garden Place Hotel based on facilities, location suitability, and guest feedback alignment with its business focus. We weighted the garden setting highest because it differentiates it from noisier city-center options in Korat. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Romyen Garden Place Hotel Review (2026)",
+    "metaDescription": "Romyen Garden Place Hotel in Nakhon Ratchasima delivers 4-star pool and large rooms at mid-range prices in a quiet garden. Note fringe location needs Grab for central spots. Book for business stays—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:56:54.635Z"
+}

@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "aonang-cliff-beach-resort",
+  "hotel": {
+    "name": "Aonang Cliff Beach Resort",
+    "category": "mid-range",
+    "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+    "area": "Ao Nang",
+    "description": "Set against the limestone cliffs at the eastern end of Ao Nang Beach with direct beach access and a dramatic cliff-backed pool. The location is prime — steps from the longtail boat pier for Railay and island tours. Rooms are comfortable with sea or cliff views. The natural cliff setting is unique among Ao Nang's hotels.",
+    "highlights": [
+      "Dramatic cliff-backed swimming pool",
+      "Direct beach access at eastern Ao Nang",
+      "Steps from longtail boat pier for island tours"
+    ],
+    "bestFor": [
+      "couples",
+      "photographers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAonang%2520Cliff%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sea Seeker Krabi Resort",
+      "category": "budget",
+      "priceRange": "800-1,200 THB/night (~$22-34 USD)",
+      "area": "Ao Nang",
+      "description": "A solid budget hotel in central Ao Nang with clean rooms, a swimming pool, and an unbeatable location near the beach and longtail boat pier. Rooms are basic but well-maintained with air conditioning and hot showers. The pool is a welcome bonus at this price point.",
+      "highlights": [
+        "Swimming pool — rare at budget prices in Ao Nang",
+        "5-minute walk to Ao Nang Beach and boat pier",
+        "Clean rooms with reliable AC and hot water"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSea%2520Seeker%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Panan Krabi Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Ao Nang",
+      "description": "A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to the beach and pier for easy island trips, but set back from the main road for quieter nights. Consistently good reviews for cleanliness and service.",
+      "highlights": [
+        "Large swimming pool with sun terrace",
+        "Modern rooms with balcony and minibar",
+        "10-minute walk to Ao Nang Beach and boat pier"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Ao_Nang_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanan%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+      "category": "mid-range",
+      "priceRange": "2,500-4,500 THB/night (~$70-126 USD)",
+      "area": "Ao Nang",
+      "description": "International chain quality right on Ao Nang's main strip. Two pools (including a kids' pool), fitness center, spa, and multiple dining options. The rooms are spacious and well-appointed with IHG's usual reliability. Ideal for families and travelers who want a predictable standard near the beach.",
+      "highlights": [
+        "Two swimming pools including children's pool",
+        "IHG brand reliability and loyalty program",
+        "Beachfront location on Ao Nang main road"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "IHG",
+          "sourceUrl": "https://www.ihg.com/holidayinn/hotels/us/en/krabi/kbvao/hoteldetail",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520Resort%2520Krabi%2520Ao%2520Nang%2520Beach%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Which part of Krabi is best to stay?",
+    "Is Ao Nang Krabi worth visiting?",
+    "What is aonang paradise resort krabi about?",
+    "Is breakfast included at Avani Ao Nang Cliff Krabi Resort?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Aonang Cliff Beach Resort without knowing its eastern Ao Nang position can leave you farther from central nightlife than expected.",
+    "intro": "Aonang Cliff Beach Resort delivers direct access to Ao Nang Beach from its cliffside perch, with comfortable rooms offering sea or cliff views and a unique natural setting. It's ideal for couples seeking romance and photographers capturing dramatic limestone backdrops.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "romantic couples photographers",
+      "standout": "cliff-backed pool",
+      "noGoFor": "families with young kids"
+    },
+    "whyBook": [
+      "Dramatic cliff-backed swimming pool for unique photos.",
+      "Direct beach access at eastern Ao Nang end.",
+      "Steps from longtail boat pier for Railay tours.",
+      "Comfortable rooms with sea or cliff views.",
+      "Prime location against limestone cliffs."
+    ],
+    "whyNotBook": [
+      "Eastern position means 10-15 minute walk to central Ao Nang shops.",
+      "Limited on-site dining options beyond basic resort fare.",
+      "Pool area shades unevenly due to cliff overhangs midday.",
+      "Rooms may feel isolated from main beach crowds.",
+      "No dedicated kids' facilities or play areas."
+    ],
+    "skipIf": "Skip if you're traveling with children or prefer bustling central locations over a quieter cliffside retreat.",
+    "detailedReview": "Checking into Aonang Cliff Beach Resort feels like stepping into a secluded nook, with staff greeting you at the lobby overlooking the cliff-backed pool. The vibe is relaxed and intimate, suiting couples who want privacy amid Krabi's limestone drama. Rooms are comfortable, featuring simple Thai-modern decor with options for sea views that catch the Andaman sunrise or cliff views for that rugged natural feel. The standout amenity is the dramatic swimming pool, wedged against towering cliffs, offering a cool dip with beach access just beyond—perfect for photographers framing shots of karst rock against turquoise water. Food quality leans straightforward: expect Thai and Western dishes at the resort's eatery, solid but not gourmet, with fresh seafood highlights from nearby piers. Service style is friendly and efficient, though not overly personalized, as staff juggle the mid-range crowd of mostly European couples and solo adventurers. Typical guests are photographers drawn to the unique setting or pairs escaping the Ao Nang hustle for quiet beach walks and boat trips to Railay. Overall, it's a spot where the natural cliff integration shines, but expect a more low-key stay without frills like spas or extensive activities.",
+    "locationReality": "Nestled at the eastern end of Ao Nang Beach, the resort provides direct access to the sand in under a minute, ideal for early morning swims. It's steps from the longtail boat pier, making island tours to Railay or the Four Islands a 5-minute walk away. Central Ao Nang's restaurants and shops require a 10-15 minute stroll westward along the beach, while Krabi Town is about 30 minutes by taxi for broader exploration.",
+    "localSignals": [
+      "Direct access to Ao Nang Beach: 0 minutes walk.",
+      "Steps from longtail boat pier for Railay tours.",
+      "One swimming pool on property.",
+      "One restaurant on site.",
+      "5-minute walk to nearby beachside eateries."
+    ],
+    "travellerNote": "Guests often praise the dramatic cliff-backed pool and direct beach access but note the eastern location feels removed from Ao Nang's lively central strip.",
+    "bookingTips": [
+      "Request sea-view rooms for better Andaman vistas.",
+      "Check Agoda for cheapest rates in Thailand bookings.",
+      "Prices spike December-February high season.",
+      "Verify breakfast inclusion as it varies by package.",
+      "Confirm no nearby construction before booking."
+    ],
+    "similarHotels": [
+      {
+        "name": "Sea Seeker Krabi Resort (800-1,200 THB/night (~$22-34 USD)) — A solid budget hotel in central Ao Nang with clean rooms, a swimming pool, and an unbeatable location near the beach and longtail boat pier.",
+        "howDifferent": "Cheaper and more central but lacks the unique cliff setting and direct beach access."
+      },
+      {
+        "name": "Panan Krabi Resort (2,000-3,500 THB/night (~$56-98 USD)) — A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to th",
+        "howDifferent": "Similar mid-range price with larger pool but in busier central spot without cliff views."
+      },
+      {
+        "name": "Holiday Inn Resort Krabi Ao Nang Beach (2,500-4,500 THB/night (~$70-126 USD)) — International chain quality right on Ao Nang's main strip. Two pools (including a kids' pool), fitness center, spa, and multiple dining opti",
+        "howDifferent": "Higher-end chain with more amenities like spa but on the crowded main strip, missing cliff drama."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which part of Krabi is best to stay?",
+        "a": "Ao Nang is ideal for most visitors due to its beach access and tour piers, while Railay suits seclusion seekers reachable only by boat."
+      },
+      {
+        "q": "Is Ao Nang Krabi worth visiting?",
+        "a": "Yes, Ao Nang offers prime beach vibes, longtail boat trips to islands, and limestone cliffs, making it a top Krabi base for day trips."
+      },
+      {
+        "q": "What is Aonang Cliff Beach Resort Krabi about?",
+        "a": "It's a mid-range hotel set against limestone cliffs at eastern Ao Nang Beach, featuring direct beach access, a cliff-backed pool, and proximity to tour piers for couples and photographers."
+      },
+      {
+        "q": "Is breakfast included at Aonang Cliff Beach Resort?",
+        "a": "Breakfast inclusion varies by booking package; confirm with your reservation details or the hotel directly."
+      },
+      {
+        "q": "Best time to visit Aonang Cliff Beach Resort?",
+        "a": "November to April for dry weather, though book early as cliff-view rooms fill fast in peak season."
+      },
+      {
+        "q": "How far is Aonang Cliff Beach Resort from Krabi Airport?",
+        "a": "About 40-50 minutes by taxi, costing around 800-1,000 THB depending on traffic."
+      }
+    ],
+    "urgencyLine": "Rooms at Aonang Cliff Beach Resort with cliff views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Aonang Cliff Beach Resort based on location, amenities, and guest feedback from public sources. We weighted the unique cliff setting highest because it differentiates it in crowded Ao Nang. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Aonang Cliff Beach Resort Review (2026)",
+    "metaDescription": "Discover Aonang Cliff Beach Resort in Ao Nang, Krabi: cliff-backed pool and direct beach access for couples. Eastern spot means walks to central action. Book mid-range stay for unique views today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:37:49.205Z"
+}

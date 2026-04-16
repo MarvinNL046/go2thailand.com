@@ -1,0 +1,212 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-khan",
+  "cityName": "Chiang Khan",
+  "hotelSlug": "chiang-khan-river-house",
+  "hotel": {
+    "name": "Chiang Khan River House",
+    "category": "budget",
+    "priceRange": "350–600 THB (~$10–$17 USD) per night",
+    "area": "Walking Street (Soi 1)",
+    "description": "A friendly, no-frills guesthouse in a traditional wooden shophouse right on the Walking Street. Rooms are basic but clean, with fans or air-conditioning, and the shared balcony overlooking the Mekong is the real draw. The owner speaks English and can arrange Phu Thok transport. Perfect for backpackers and solo travellers.",
+    "highlights": [
+      "Direct Walking Street location with Mekong views from shared balcony",
+      "Fan rooms from 350 THB; A/C rooms from 500 THB",
+      "Friendly English-speaking owner with local knowledge",
+      "Bicycle rental available on-site",
+      "Steps from the morning alms-giving route"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchiang-khan-river-house.html",
+    "reviewScore": "7.8/10",
+    "bestFor": [
+      "Solo backpackers",
+      "Budget travellers",
+      "Walking Street lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish — Chiang Khan Accommodation",
+        "sourceUrl": "https://www.travelfish.org/location/thailand/north_eastern_thailand/loei/chiang_khan",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Loei Village Hostel",
+      "category": "budget",
+      "priceRange": "250–450 THB (~$7–$13 USD) per bed/night",
+      "area": "Central Chiang Khan",
+      "description": "A modern hostel offering both dorm beds and private rooms in a clean, well-maintained building a short walk from the Walking Street. Common areas include a garden lounge and a communal kitchen. The hostel attracts a mix of Thai and international backpackers and runs regular social events.",
+      "highlights": [
+        "Dorm beds from 250 THB — cheapest option in town",
+        "Private rooms available from 600 THB",
+        "Communal kitchen and garden lounge",
+        "5-minute walk to Walking Street and Mekong riverside",
+        "Free WiFi and luggage storage"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Floei-village-hostel.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Social travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld — Chiang Khan",
+          "sourceUrl": "https://www.hostelworld.com/hostels/chiang-khan",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Khiang Hom Homestay",
+      "category": "budget",
+      "priceRange": "400–700 THB (~$11–$20 USD) per night",
+      "area": "Walking Street (Soi 2)",
+      "description": "A charming family-run homestay in a restored wooden house on Soi 2. Rooms are simple with wooden floors, ceiling fans and shared bathrooms, but the warm hospitality and home-cooked breakfast (included) make it feel like staying with a Thai family. The owners are locals who know every hidden corner of Chiang Khan.",
+      "highlights": [
+        "Home-cooked Thai breakfast included in the rate",
+        "Authentic wooden shophouse with traditional Lao-Thai character",
+        "Family-run with genuine local hospitality",
+        "On Soi 2 of the Walking Street — central location",
+        "Can arrange local tours and Phu Thok sunrise transport"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhiang-hom-homestay.html",
+      "reviewScore": "8.3/10",
+      "bestFor": [
+        "Cultural travellers",
+        "Couples on a budget",
+        "Families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Chiang Khan Guesthouses",
+          "sourceUrl": "https://www.travelfish.org/location/thailand/north_eastern_thailand/loei/chiang_khan",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Baan Rimkong",
+      "category": "mid-range",
+      "priceRange": "1,200–2,500 THB (~$35–$71 USD) per night",
+      "area": "Walking Street (Soi 1)",
+      "description": "A beautifully restored traditional wooden shophouse on the Walking Street that has been converted into a boutique guesthouse. Rooms feature original hardwood floors, high ceilings and antique Thai furnishings blended with modern comfort. The downstairs cafe serves excellent coffee and the location directly on Soi 1 is unbeatable for alms-giving and the night market.",
+      "highlights": [
+        "Restored heritage shophouse with original hardwood features",
+        "Prime Walking Street location on Soi 1",
+        "On-site cafe serving specialty coffee and Thai breakfast",
+        "Antique Thai decor blended with modern amenities",
+        "Steps from the morning alms-giving procession route"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-rimkong.html",
+      "reviewScore": "8.7/10",
+      "bestFor": [
+        "Heritage lovers",
+        "Couples",
+        "Photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Baan Rimkong",
+          "sourceUrl": "https://www.agoda.com/baan-rimkong/hotel/loei-th.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "What is the Chiang Khan Hill Resort about?",
+    "What to do around Chiang Khan?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Chiang Khan River House without knowing the rooms lack private balconies can lead to disappointment over shared Mekong views.",
+    "intro": "Chiang Khan River House offers clean, basic rooms in a traditional wooden shophouse on Walking Street, with fan or A/C options starting at 350 THB. It's ideal for solo backpackers and budget travelers seeking a no-frills stay with easy access to local sights.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Solo backpackers",
+      "standout": "Mekong views from shared balcony",
+      "noGoFor": "Luxury seekers"
+    },
+    "whyBook": [
+      "Direct location on Walking Street for easy exploration",
+      "Shared balcony with Mekong River views included",
+      "English-speaking owner arranges Phu Thok transport",
+      "Bicycle rental available right on-site",
+      "Steps from morning alms-giving route"
+    ],
+    "whyNotBook": [
+      "Basic rooms lack modern amenities like en-suite bathrooms",
+      "Shared balcony can get crowded during peak Walking Street hours",
+      "Fan rooms may feel stuffy in hot weather without A/C",
+      "No on-site restaurant means relying on street food nearby",
+      "Noise from Walking Street traffic audible until late evening"
+    ],
+    "skipIf": "Skip if you need private river views or air-conditioned comfort in every room.",
+    "detailedReview": "Checking into Chiang Khan River House feels welcoming, with the English-speaking owner greeting guests at the front desk in this traditional wooden shophouse on Walking Street. Rooms are straightforward and clean, featuring simple beds, fans from 350 THB or A/C from 500 THB, but they keep the no-frills vibe without extras like TVs or mini-fridges. The standout amenity is the shared balcony overlooking the Mekong River, where guests relax with views of the water and passing boats, though it's communal so privacy varies. Service is friendly and personal, with the owner sharing local tips and arranging transport to Phu Thok. Food isn't provided on-site, but the location puts street vendors and cafes within steps for affordable Thai meals. Typical guests are solo backpackers in their 20s and 30s, drawn by the budget price and central spot, mingling on the balcony or renting bicycles to explore. Overall, it's a practical base for those prioritizing location over luxury, scoring 7.8/10 for its authenticity and value in Chiang Khan's laid-back atmosphere.",
+    "locationReality": "Chiang Khan River House sits right on Walking Street in Soi 1, just steps from the morning alms-giving route and Mekong Riverfront. Within a 5-minute walk, you'll find street food stalls, local shops, and the vibrant night market atmosphere. For farther spots like Phu Thok, the owner can arrange transport, as it's about 30-40 minutes by motorbike or songthaew.",
+    "localSignals": [
+      "Steps from morning alms-giving route on Walking Street",
+      "Directly on Walking Street, 0-minute walk to main strip",
+      "Bicycle rental available on-site, no pool or restaurant",
+      "Mekong River views from shared balcony",
+      "No WiFi or breakfast details specified, varies by stay"
+    ],
+    "travellerNote": "Guests often praise the friendly owner and prime Walking Street location but note the basic rooms and occasional balcony crowding.",
+    "bookingTips": [
+      "Request A/C rooms for comfort above 500 THB during hot season",
+      "Use Agoda for potentially cheaper rates than Booking.com in Thailand",
+      "Prices spike in November-December for cool season peak",
+      "Verify balcony access and Phu Thok transport availability pre-booking",
+      "Book fan rooms early for lowest 350 THB rates"
+    ],
+    "similarHotels": [
+      {
+        "name": "Loei Village Hostel",
+        "howDifferent": "Offers dorm beds from 250 THB in a modern building short walk from Walking Street, unlike the traditional shophouse setup."
+      },
+      {
+        "name": "Khiang Hom Homestay",
+        "howDifferent": "Family-run on Soi 2 with wooden floors and shared bathrooms from 400 THB, providing a homier feel than the river-focused balcony."
+      },
+      {
+        "name": "Baan Rimkong",
+        "howDifferent": "Boutique conversion from 1,200 THB with restored wooden rooms, offering more upscale comfort than the budget basics."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the Chiang Khan River House best for?",
+        "a": "It's best for solo backpackers and budget travelers who want a clean, no-frills stay on Walking Street with Mekong views."
+      },
+      {
+        "q": "What to do around Chiang Khan?",
+        "a": "Explore Walking Street for street food and shops, join the morning alms-giving, rent a bicycle to see the Mekong River, or arrange a trip to Phu Thok viewpoint."
+      },
+      {
+        "q": "Does Chiang Khan River House have air-conditioning?",
+        "a": "Yes, A/C rooms start from 500 THB, while fan rooms are available from 350 THB."
+      },
+      {
+        "q": "Is breakfast included at Chiang Khan River House?",
+        "a": "Breakfast is not included; guests rely on nearby street food options on Walking Street."
+      },
+      {
+        "q": "How far is Chiang Khan River House from the Mekong River?",
+        "a": "It's right on Walking Street with direct access to the riverfront, and the shared balcony overlooks the Mekong."
+      },
+      {
+        "q": "What is the review score for Chiang Khan River House?",
+        "a": "It has a review score of 7.8/10 based on guest feedback for its location and value."
+      }
+    ],
+    "urgencyLine": "Rooms at Chiang Khan River House with Mekong balcony access book out 1-2 months ahead for November cool season — check today.",
+    "methodology": "We rated Chiang Khan River House based on location, value, cleanliness, and guest amenities from provided data. We weighted location highest because it's central to Walking Street and the Mekong. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Chiang Khan River House Review (2026)",
+    "metaDescription": "Chiang Khan River House in Chiang Khan: Budget guesthouse on Walking Street with Mekong balcony views and English-speaking owner. Basic rooms may lack privacy; ideal for backpackers. Book for authentic stays starting at 350 THB."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:57:28.855Z"
+}

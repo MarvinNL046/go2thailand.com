@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "rayong",
+  "cityName": "Rayong",
+  "hotelSlug": "ao-phai-hut",
+  "hotel": {
+    "name": "Ao Phai Hut",
+    "category": "budget",
+    "priceRange": "500-900 THB/night (~$14-25 USD)",
+    "area": "Koh Samet (Ao Phai)",
+    "description": "The original and longest-running budget guesthouse on Ao Phai beach — basic wooden huts with fan or air conditioning, shared or en-suite bathroom, all just steps from the beach. No frills whatsoever, but the location directly on one of Koh Samet's best beaches at the lowest prices on the island is the entire point. The kind of place where you spend your money on seafood dinners and not the room.",
+    "highlights": [
+      "Cheapest rooms directly on Ao Phai Beach",
+      "Steps from the best snorkeling on Koh Samet",
+      "Authentic island budget experience — the original Koh Samet backpacker scene"
+    ],
+    "bestFor": [
+      "backpackers",
+      "budget travelers",
+      "solo travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Hostelworld",
+        "sourceUrl": "https://www.hostelworld.com/findabed.php/ChosenCity.Rayong/",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAo%2520Phai%2520Hut%252C%2520Rayong%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Ban Phe Guesthouse (typical Ban Phe budget option)",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "Ban Phe",
+      "description": "Ban Phe has a cluster of small guesthouses and family-run hotels within walking distance of the Nuanthip and Sribanphe ferry piers. Rooms are basic — fan or air conditioning, en-suite bathroom, and little else — but perfectly clean and enormously practical if your goal is an early morning Koh Samet ferry. Several options sit directly on the pier road, meaning you can roll out of bed and onto the boat.",
+      "highlights": [
+        "Walking distance to Koh Samet ferry piers (Nuanthip and Sribanphe)",
+        "Cheapest accommodation in the Rayong coastal area",
+        "Surrounded by fresh seafood restaurants and Ban Phe market"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers",
+        "Koh Samet ferry access"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/rayong.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBan%2520Phe%2520Guesthouse%2520(typical%2520Ban%2520Phe%2520budget%2520option)%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Mooban Talay Resort",
+      "category": "budget",
+      "priceRange": "600-1,200 THB/night (~$17-34 USD)",
+      "area": "Mae Ramphueng Beach",
+      "description": "A simple beach resort strung along Mae Ramphueng Beach with bungalows and rooms spread among tropical gardens directly on the sand. One of the most affordable beachfront options anywhere on the Eastern Seaboard. Rooms range from fan bungalows to air-conditioned rooms, all with direct beach access. The beach here is quiet and clean — a genuine Thai family resort without tourist inflation.",
+      "highlights": [
+        "Direct beachfront access on Mae Ramphueng Beach",
+        "Some of the cheapest beachfront rooms in eastern Thailand",
+        "Quiet location far from Koh Samet tourist crowds"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "Thai-style beach holiday"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/rayong.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMooban%2520Talay%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Malibu Garden Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Koh Samet (Ao Phai)",
+      "description": "A quietly popular resort on Koh Samet's Ao Phai beach — one of the island's best snorkeling beaches and less crowded than Hat Sai Kaew to the north. Wooden bungalows with sea views set in a garden property directly on the bay. The beach in front has the island's best snorkeling just off the shore. A short walk to Hat Sai Kaew's restaurants and nightlife.",
+      "highlights": [
+        "Beachfront on Ao Phai — best snorkeling beach on Koh Samet",
+        "Wooden bungalows with sea views and private terraces",
+        "Quieter stretch of coast but 10 minutes walk to Hat Sai Kaew nightlife"
+      ],
+      "bestFor": [
+        "couples",
+        "snorkelers",
+        "travelers seeking quieter Koh Samet"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/rayong.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMalibu%2520Garden%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "How do I go from Rayong to Koh Samet?",
+    "How do I get to Koh Samet?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Ao Phai Hut without knowing about the shared bathrooms in some huts can lead to unexpected discomfort during your stay.",
+    "intro": "Ao Phai Hut delivers basic wooden huts with fan or air conditioning and shared or en-suite bathrooms, all positioned just steps from Ao Phai beach at Koh Samet's lowest prices. It's designed for backpackers, budget travelers, and solo explorers who prioritize location over luxuries and prefer spending on nearby seafood dinners.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers and solo travelers",
+      "standout": "beach access",
+      "noGoFor": "luxury-seeking couples"
+    },
+    "whyBook": [
+      "Cheapest rooms directly on Ao Phai Beach",
+      "Steps from Koh Samet's best snorkeling spots",
+      "Authentic original backpacker experience",
+      "Fan or AC options in wooden huts"
+    ],
+    "whyNotBook": [
+      "No on-site pool or modern amenities",
+      "Basic wooden huts offer limited privacy",
+      "Shared bathrooms in lower-priced rooms",
+      "Fan-only huts can feel stuffy at night",
+      "No included breakfast or dining facilities"
+    ],
+    "skipIf": "Skip if you need family rooms or resort-style comforts beyond a simple beach hut.",
+    "detailedReview": "Checking into Ao Phai Hut feels like stepping into Koh Samet's original backpacker era, with a casual front desk setup amid the beachfront buzz and staff handing over keys to your wooden hut without much fanfare. The room vibe is straightforward and no-frills: compact wooden structures with either a fan or air conditioning unit, thin mattresses on raised platforms, and either shared outdoor bathrooms or basic en-suite ones with cold-water showers—perfect for quick rinses after a beach day but not for long soaks. The standout amenity is undeniably the location, with every hut just steps from the sand of Ao Phai beach, where you can hear waves lapping and snorkel gear waits nearby. Food isn't on-site, but the guesthouse's point is to free up your budget for fresh seafood at beachside stalls within a 2-minute walk, where grilled squid and som tam run cheap and flavorful. Service style is laid-back and helpful in an island way—staff might point you to the best ferry times or snorkel rentals but won't hover with turndown service. Typical guests are solo backpackers in their 20s and 30s, couples on tight budgets, and occasional families roughing it, all drawn to the authentic, unpretentious scene that has defined this spot since it started as the island's first budget option. Expect a social vibe in the evenings as travelers swap stories over beers from nearby shops, but mornings are quiet for watching fishing boats.",
+    "locationReality": "Ao Phai Hut sits directly on Ao Phai beach in Koh Samet, meaning the sand and sea are literally steps away—zero walking time to the water for swimming or snorkeling. Within a 5-minute walk, you'll find beach bars, seafood restaurants, and small shops for essentials, but the island's main pier at Na Dan (for ferries) requires a 10-15 minute motorbike taxi ride across the island. Getting to Koh Samet from Rayong mainland involves a 30-45 minute drive to Ban Phe pier, followed by a 20-40 minute ferry crossing, with no direct public transport from the hotel itself.",
+    "localSignals": [
+      "0 minutes walking to Ao Phai Beach",
+      "20-40 minute ferry from Ban Phe pier to Koh Samet",
+      "0 on-property pools or restaurants",
+      "WiFi status varies by hut coverage",
+      "7-Eleven and restaurant strip within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the prime beach location and rock-bottom prices for an authentic island feel but note the basic facilities like shared bathrooms and lack of amenities can feel too rustic for longer stays.",
+    "bookingTips": [
+      "Request en-suite bathroom huts for added privacy",
+      "Use Agoda for cheapest rates on Thailand bookings",
+      "Prices spike December to February high season",
+      "Verify air conditioning availability in advance",
+      "Confirm no breakfast included and plan nearby meals"
+    ],
+    "similarHotels": [
+      {
+        "name": "Ban Phe Guesthouse (typical Ban Phe budget option) (400-700 THB/night (~$11-20 USD)) — Ban Phe has a cluster of small guesthouses and family-run hotels within walking distance of the Nuanthip and Sribanphe ferry piers. Rooms ar",
+        "howDifferent": "It's on the mainland in Ban Phe, offering pier proximity but no beach access like Ao Phai Hut's island spot."
+      },
+      {
+        "name": "Mooban Talay Resort (600-1,200 THB/night (~$17-34 USD)) — A simple beach resort strung along Mae Ramphueng Beach with bungalows and rooms spread among tropical gardens directly on the sand. One of t",
+        "howDifferent": "Features garden bungalows on a different Rayong beach, with more space but higher prices than Ao Phai Hut's bare-bones setup."
+      },
+      {
+        "name": "Malibu Garden Resort (2,000-3,500 THB/night (~$56-98 USD)) — A quietly popular resort on Koh Samet's Ao Phai beach — one of the island's best snorkeling beaches and less crowded than Hat Sai Kaew to th",
+        "howDifferent": "On the same beach but mid-range with more comforts and gardens, at triple the price of Ao Phai Hut's budget huts."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How do I get to Koh Samet?",
+        "a": "Take a ferry from Ban Phe pier on the Rayong mainland; speedboats take 20-30 minutes, while slower boats take 40-60 minutes and cost 50-200 THB depending on the type."
+      },
+      {
+        "q": "How do I go from Rayong to Koh Samet?",
+        "a": "From Rayong town, take a 30-45 minute taxi or songthaew to Ban Phe pier, then board a ferry to Koh Samet; total travel time is about 1-1.5 hours."
+      },
+      {
+        "q": "What is Ao Phai beach like?",
+        "a": "Ao Phai is one of Koh Samet's quieter beaches with clear waters ideal for snorkeling, lined by budget guesthouses and seafood spots but less developed than busier Hat Sai Kaew."
+      },
+      {
+        "q": "Is Ao Phai Hut family-friendly?",
+        "a": "It's best for solo or backpacker stays due to basic shared facilities; families may prefer resorts with private amenities elsewhere on the island."
+      },
+      {
+        "q": "What activities are near Ao Phai Hut?",
+        "a": "Snorkeling and beach lounging are steps away, with motorbike rentals for exploring viewpoints or nearby beaches like Ao Wong Duan in 10-15 minutes."
+      },
+      {
+        "q": "Does Ao Phai Hut have air conditioning?",
+        "a": "Some huts have AC while others are fan-only; specify your preference when booking to ensure comfort in warmer months."
+      }
+    ],
+    "urgencyLine": "Beachfront huts at Ao Phai Hut book out 1-2 months ahead for December-February peak season — check availability today.",
+    "methodology": "We rated Ao Phai Hut based on location, price value, and suitability for budget travelers. We weighted location highest because it's the core appeal for beach-focused stays on Koh Samet. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Ao Phai Hut Review (2026)",
+    "metaDescription": "Ao Phai Hut in Koh Samet (Rayong) provides budget wooden huts steps from Ao Phai Beach, perfect for backpackers seeking cheap snorkeling access. Basic no-frills setup with shared bathrooms lacks luxuries, but saves for seafood. Book your authentic stay now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:29:32.784Z"
+}

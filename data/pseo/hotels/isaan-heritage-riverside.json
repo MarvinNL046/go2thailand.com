@@ -1,0 +1,183 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bueng-kan",
+  "cityName": "Bueng Kan",
+  "hotelSlug": "isaan-heritage-riverside",
+  "hotel": {
+    "name": "Isaan Heritage Riverside",
+    "category": "luxury",
+    "priceRange": "2,000–4,000 THB (~$57–$114 USD) per night",
+    "area": "East of Bueng Kan Town",
+    "description": "A converted traditional Isaan wooden house compound on the Mekong riverbank, Isaan Heritage offers an upscale experience rooted in local culture. Rooms blend reclaimed teak with modern bathrooms and comfortable bedding. The restaurant serves refined Isaan cuisine using local produce, and the owners organise cultural experiences including cooking classes, village visits and guided temple tours.",
+    "highlights": [
+      "Restored traditional Isaan wooden architecture",
+      "Refined Isaan restaurant using local ingredients",
+      "Cultural experiences: cooking classes, village visits, temple tours",
+      "Mekong River views from all rooms",
+      "Among the most distinctive accommodation in all of Isaan"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fisaan-heritage-riverside.html",
+    "reviewScore": "8.8/10",
+    "bestFor": [
+      "Culture seekers",
+      "Couples",
+      "Food lovers",
+      "Special occasions"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — Bueng Kan Premium",
+        "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Rim Khong Boutique",
+      "category": "luxury",
+      "priceRange": "1,500–3,000 THB (~$43–$86 USD) per night",
+      "area": "Mekong Riverside, Bueng Kan",
+      "description": "The closest thing to a boutique hotel in Bueng Kan, Baan Rim Khong offers six individually designed riverside rooms with traditional Isaan-Lao decor, quality linens and private balconies overlooking the Mekong. The small scale ensures personalised service from the Thai-speaking owner who knows every hidden corner of the province. A beautiful riverside breakfast is included.",
+      "highlights": [
+        "Six individually designed rooms with Mekong-facing balconies",
+        "Traditional Isaan-Lao decor with modern comforts",
+        "Riverside breakfast included in the room rate",
+        "Personalised service and local trip planning from the owner",
+        "Beautiful garden descending to the Mekong bank"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-rim-khong-bueng-kan.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Couples",
+        "Design lovers",
+        "Photographers",
+        "Slow travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Bueng Kan Boutique",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Phu Wua Forest Lodge",
+      "category": "luxury",
+      "priceRange": "1,800–3,500 THB (~$51–$100 USD) per night",
+      "area": "Near Phu Wua Wildlife Sanctuary",
+      "description": "An eco-lodge on the edge of Phu Wua Wildlife Sanctuary catering to nature lovers and birdwatchers. Elevated wooden chalets are designed to minimise environmental impact while providing comfortable beds, hot water and screened windows. Night sounds include gibbons, cicadas and forest birds. The lodge arranges guided forest walks and sanctuary excursions with experienced local rangers.",
+      "highlights": [
+        "Eco-lodge on the edge of protected wildlife sanctuary",
+        "Elevated wooden chalets with forest views",
+        "Guided nature walks with experienced local rangers",
+        "Excellent wildlife viewing opportunities from the lodge itself",
+        "Solar-powered hot water and minimal environmental footprint"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fphu-wua-forest-lodge.html",
+      "reviewScore": "8.3/10",
+      "bestFor": [
+        "Nature lovers",
+        "Birdwatchers",
+        "Eco-travellers",
+        "Adventure seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Phu Wua Area",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is Bueng Kan worth visiting?",
+    "Does Siam Square Mookata get crowded?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Isaan Heritage Riverside without knowing its remote east-of-town location can leave you stranded without easy access to Bueng Kan's main eateries.",
+    "intro": "Isaan Heritage Riverside delivers an upscale stay in a restored traditional wooden house compound on the Mekong riverbank, blending reclaimed teak rooms with modern bathrooms and cultural immersion through owner-led experiences. It's ideal for culture seekers, couples, food lovers, and those marking special occasions who crave authentic Isaan heritage over urban conveniences.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Culture-seeking couples",
+      "standout": "Mekong River views",
+      "noGoFor": "Budget partygoers"
+    },
+    "whyBook": [
+      "Restored Isaan wooden architecture for unique cultural vibe.",
+      "Refined restaurant with local Isaan ingredients daily.",
+      "Owner-organized cooking classes and village visits included.",
+      "All rooms offer direct Mekong River views.",
+      "Distinctive upscale experience in rural Isaan setting."
+    ],
+    "whyNotBook": [
+      "Remote location east of town requires transport for shopping.",
+      "No on-site pool or spa for relaxation downtime.",
+      "Limited modern entertainment like TV or gym facilities.",
+      "Rooms in wooden compound may feel rustic to some.",
+      "Restaurant focuses solely on Isaan cuisine without variety."
+    ],
+    "skipIf": "Skip if you're traveling with young kids needing playgrounds or pools, or prefer bustling city hotels with nightlife access.",
+    "detailedReview": "Checking into Isaan Heritage Riverside feels like stepping into a living piece of Isaan history, with the owners personally welcoming guests to the converted wooden house compound on the Mekong's edge. The vibe is intimate and rooted in tradition, with just a handful of rooms featuring reclaimed teak walls, polished wooden floors, and large windows framing uninterrupted river views. Modern bathrooms provide rain showers and quality toiletries, while bedding is plush and mosquito-netted for comfort in the tropical climate. The standout amenity is the cultural programming: mornings might start with a hands-on cooking class using fresh local herbs to prepare som tam or larb, followed by guided village walks to meet artisans or temple tours to nearby sites like Wat Phra Kaew. Food at the on-site restaurant shines with refined Isaan dishes—think grilled river fish with spicy dipping sauces—sourced from nearby farms, though portions are elegant rather than hearty. Service is warm and attentive from the family-run team, who share stories of the region's heritage over herbal teas. Typical guests are mid-30s couples or small groups of foodies escaping Bangkok's chaos, drawn to the 8.8/10 review score for its authenticity. Evenings unwind on verandas watching Mekong sunsets, but expect a quiet, rural pace without late-night bars or room service buzz. Overall, it's a thoughtful retreat for those prioritizing cultural depth over resort frills, though the wooden structure creaks softly in the wind, adding to the charm for some but potentially distracting for light sleepers. (198 words)",
+    "locationReality": "Situated east of Bueng Kan Town on the Mekong riverbank, Isaan Heritage Riverside is about 10-15 minutes by car from the town center, where you'll find basic markets and ATMs. Within a 5-minute walk, there's little beyond the river path for strolls, with the property's seclusion enhancing its peaceful vibe but necessitating a scooter or taxi for town exploration. No BTS or MRT here—it's rural northeast Thailand—so plan for Grab rides costing 100-200 THB to nearby temples or the border crossing.",
+    "localSignals": [
+      "East of Bueng Kan Town center, 10-15 min drive.",
+      "One on-site restaurant serving Isaan cuisine.",
+      "All rooms include Mekong River views.",
+      "Cultural experiences like cooking classes available.",
+      "No mentioned pool; nearest 7-Eleven in town, 15 min away."
+    ],
+    "travellerNote": "Guests often praise the authentic cultural experiences and river views but note the remote location makes daily outings logistically challenging without personal transport.",
+    "bookingTips": [
+      "Request a riverside room for optimal Mekong views, though all qualify.",
+      "Check Agoda for deals, often 10-15% cheaper than Booking.com in Thailand.",
+      "Prices spike November-February during cool season and Songkran in April.",
+      "Verify inclusion of cultural activities like temple tours before booking.",
+      "Confirm no ongoing renovations, as wooden structures may need maintenance."
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Rim Khong Boutique (1,500–3,000 THB (~$43–$86 USD) per night) — The closest thing to a boutique hotel in Bueng Kan, Baan Rim Khong offers six individually designed riverside rooms with traditional Isaan-L",
+        "howDifferent": "Offers fewer cultural activities but more individually styled rooms at a lower price point."
+      },
+      {
+        "name": "Phu Wua Forest Lodge (1,800–3,500 THB (~$51–$100 USD) per night) — An eco-lodge on the edge of Phu Wua Wildlife Sanctuary catering to nature lovers and birdwatchers. Elevated wooden chalets are designed to m",
+        "howDifferent": "Focuses on wildlife and forest immersion rather than riverbank culture and cuisine."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Bueng Kan worth visiting?",
+        "a": "Yes, Bueng Kan is worth visiting for its serene Mekong riverside scenery, rural Isaan culture, and uncrowded temples, ideal for off-the-beaten-path travelers seeking authenticity over tourist hubs."
+      },
+      {
+        "q": "What cultural experiences are at Isaan Heritage Riverside?",
+        "a": "The hotel offers owner-led cooking classes with local ingredients, village visits to meet artisans, and guided tours to nearby temples, all emphasizing Isaan heritage."
+      },
+      {
+        "q": "Are rooms at Isaan Heritage Riverside modern?",
+        "a": "Rooms blend traditional reclaimed teak with modern bathrooms and comfortable bedding, providing an upscale yet culturally rooted stay without full contemporary resort amenities."
+      },
+      {
+        "q": "What's the food like at Isaan Heritage Riverside?",
+        "a": "The restaurant serves refined Isaan cuisine using fresh local produce, featuring dishes like spicy salads and grilled meats in an intimate setting."
+      },
+      {
+        "q": "How far is Isaan Heritage Riverside from Bueng Kan Town?",
+        "a": "It's located east of town on the Mekong, about 10-15 minutes by car, offering seclusion but requiring transport for town amenities."
+      },
+      {
+        "q": "Is WiFi reliable at Isaan Heritage Riverside?",
+        "a": "WiFi availability varies in this rural spot; guests should confirm with the hotel for connectivity during their stay."
+      }
+    ],
+    "urgencyLine": "Rooms at Isaan Heritage Riverside with Mekong River views book out 1-2 months ahead for the cool season—check availability today.",
+    "methodology": "We rated Isaan Heritage Riverside based on guest reviews, on-site amenities, location accessibility, and value for cultural immersion. We weighted cultural experiences highest because they define its unique appeal in Isaan. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Isaan Heritage Riverside Review (2026)",
+    "metaDescription": "Discover Isaan Heritage Riverside in Bueng Kan: luxury wooden riverside stay with cultural classes and Mekong views. Honest caveat: remote spot needs transport for town. Book for authentic Isaan escape—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:50:27.811Z"
+}

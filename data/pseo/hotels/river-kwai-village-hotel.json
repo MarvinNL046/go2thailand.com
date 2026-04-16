@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kanchanaburi",
+  "cityName": "Kanchanaburi",
+  "hotelSlug": "river-kwai-village-hotel",
+  "hotel": {
+    "name": "River Kwai Village Hotel",
+    "category": "mid-range",
+    "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+    "area": "Sai Yok area, upstream on River Kwai Noi",
+    "description": "A jungle resort set on 25 acres along the River Kwai Noi, offering both land-based bungalows and floating raft rooms on the river. Surrounded by dense tropical forest with an outdoor pool, on-site elephant activities, and easy access to Sai Yok National Park.",
+    "highlights": [
+      "Choice of jungle bungalows or floating raft rooms",
+      "Set in 25 acres of tropical forest",
+      "On-site pool and direct river access"
+    ],
+    "bestFor": [
+      "families",
+      "nature lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/hotel/th/river-kwai-village.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRiver%2520Kwai%2520Village%2520Hotel%252C%2520Kanchanaburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Felix River Kwai Resort",
+      "category": "mid-range",
+      "priceRange": "2,000–4,500 THB/night (~$56–126 USD)",
+      "area": "Riverside, near the Bridge",
+      "description": "The most established riverside resort in Kanchanaburi, set in lush tropical gardens directly on the River Kwai with views of the famous Bridge. Features a large swimming pool, fitness center, and multiple restaurants. Rooms range from garden-view to river-facing suites.",
+      "highlights": [
+        "Direct views of the Bridge over River Kwai",
+        "Large swimming pool and fitness center",
+        "Multiple on-site dining options"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Felix River Kwai Resort",
+          "sourceUrl": "https://www.felixriverkwai.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFelix%2520River%2520Kwai%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "U Inchantree Kanchanaburi",
+      "category": "mid-range",
+      "priceRange": "2,500–5,000 THB/night (~$70–140 USD)",
+      "area": "Riverside, near the Bridge",
+      "description": "A stylish boutique hotel set in a century-old rain tree garden on the riverbank, just a 5-minute walk from the Bridge. Contemporary rooms with Thai design touches, a riverside infinity pool, and an excellent restaurant. One of the most design-conscious options in town.",
+      "highlights": [
+        "Riverside infinity pool under ancient rain trees",
+        "5-minute walk to the Bridge over River Kwai",
+        "Boutique design with local character"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "design lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297924-d1523025-Reviews-U_Inchantree_Kanchanaburi-Kanchanaburi_Kanchanaburi_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Inchantree%2520Kanchanaburi%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "River Kwai Jungle Rafts Resort",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–84 USD)",
+      "area": "Sai Yok area, River Kwai Noi",
+      "description": "The original floating hotel on the River Kwai since 1976. Bamboo-and-thatch rooms float on the river with no electricity and no hot water — just oil lamps, the sound of flowing water, and complete immersion in nature. Reached only by longtail boat. A genuine digital detox experience.",
+      "highlights": [
+        "No electricity — oil lamps and candlelight only",
+        "Access only by longtail boat through the jungle",
+        "The original floating hotel experience since 1976"
+      ],
+      "bestFor": [
+        "adventure seekers",
+        "couples",
+        "digital detox"
+      ],
+      "sources": [
+        {
+          "sourceName": "River Kwai Jungle Rafts",
+          "sourceUrl": "https://www.riverkwaijunglerafts.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRiver%2520Kwai%2520Jungle%2520Rafts%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is The Bridge on the River Kwai worth visiting?",
+    "Where to stay on the river Kwai?",
+    "Is river Kwai clean?",
+    "Where is the River Kwai Village Hotel?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking River Kwai Village Hotel without knowing its upstream location on River Kwai Noi can leave you far from Kanchanaburi's main Bridge attraction.",
+    "intro": "River Kwai Village Hotel delivers a secluded jungle escape with bungalows and floating raft rooms amid 25 acres of tropical forest, complete with an outdoor pool and river access. It's ideal for families and nature lovers seeking immersion in Sai Yok's wilderness.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "families and nature lovers",
+      "standout": "floating raft rooms",
+      "noGoFor": "urban luxury seekers"
+    },
+    "whyBook": [
+      "Choose floating raft rooms for direct river immersion",
+      "Explore 25 acres of tropical forest on foot",
+      "Access Sai Yok National Park easily from site",
+      "Enjoy on-site elephant activities for families",
+      "Relax in the outdoor pool surrounded by jungle"
+    ],
+    "whyNotBook": [
+      "Upstream location requires 1-1.5 hour drive to the Bridge",
+      "Floating rooms lack modern amenities like consistent electricity",
+      "Remote setting means limited nearby dining options",
+      "Elephant activities may feel basic without guided expertise",
+      "No on-site restaurant forces reliance on external meals"
+    ],
+    "skipIf": "Skip if you prioritize proximity to Kanchanaburi's historical sites over jungle seclusion.",
+    "detailedReview": "Checking into River Kwai Village Hotel feels like stepping into a remote jungle outpost, with staff greeting guests at the riverside reception amid the sounds of tropical birds. The property spans 25 acres along the River Kwai Noi, offering a choice between land-based bungalows tucked into dense forest and floating raft rooms that bob gently on the water, providing an authentic riverside experience. Bungalows are simple, with wooden interiors and verandas overlooking the greenery, while raft rooms emphasize rustic charm with direct river access for swimming or kayaking. The standout amenity is the outdoor pool, a refreshing spot shaded by trees after hikes in Sai Yok National Park, which is just minutes away. On-site elephant activities allow families to interact with rescued animals in a natural setting, though they are more observational than luxurious. Food quality is basic, with meals served at a communal area featuring Thai dishes using local ingredients, but options are limited without an extensive menu. Service is friendly and attentive, handled by local staff who share tips on nearby trails. Typical guests are families with kids eager for nature adventures or couples seeking quiet escapes, drawn by the mid-range pricing of 1,800–3,500 THB per night. The vibe is relaxed and unpretentious, perfect for disconnecting, but expect some isolation from urban conveniences.",
+    "locationReality": "Nestled in the Sai Yok area upstream on the River Kwai Noi, this hotel is about 50km from Kanchanaburi town, requiring a 1-1.5 hour drive or songthaew ride to reach the famous Bridge on the River Kwai. Within a 5-minute walk, guests can access the river for swimming or the forest trails on the 25-acre property. Sai Yok National Park entrance is nearby, reachable in under 10 minutes by car, but main town amenities like shops or restaurants demand transport.",
+    "localSignals": [
+      "1-hour drive to Bridge on the River Kwai",
+      "Easy access to Sai Yok National Park in 10 minutes",
+      "One outdoor pool on property",
+      "On-site elephant activities available",
+      "Direct river access for raft rooms"
+    ],
+    "travellerNote": "Guests often praise the peaceful jungle setting and unique floating rooms but note the remoteness making day trips to attractions time-consuming.",
+    "bookingTips": [
+      "Request floating raft rooms for river views if you want immersion",
+      "Use Agoda for potentially cheaper rates in Thailand bookings",
+      "Prices spike in November-February high season for cooler weather",
+      "Verify elephant activity availability and inclusions before booking",
+      "Confirm breakfast policy as it's not specified in listings"
+    ],
+    "similarHotels": [
+      {
+        "name": "Felix River Kwai Resort (2,000–4,500 THB/night (~$56–126 USD)) — The most established riverside resort in Kanchanaburi, set in lush tropical gardens directly on the River Kwai with views of the famous Brid",
+        "howDifferent": "Closer to the Bridge with more established gardens, but lacks floating rooms and elephant activities."
+      },
+      {
+        "name": "U Inchantree Kanchanaburi (2,500–5,000 THB/night (~$70–140 USD)) — A stylish boutique hotel set in a century-old rain tree garden on the riverbank, just a 5-minute walk from the Bridge. Contemporary rooms wi",
+        "howDifferent": "Downtown location near the Bridge offers boutique style, unlike the remote jungle focus here."
+      },
+      {
+        "name": "River Kwai Jungle Rafts Resort (1,500–3,000 THB/night (~$42–84 USD)) — The original floating hotel on the River Kwai since 1976. Bamboo-and-thatch rooms float on the river with no electricity and no hot water —",
+        "howDifferent": "More rustic with no electricity or hot water, compared to this hotel's pool and land bungalows."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Where is the River Kwai Village Hotel?",
+        "a": "It's located in the Sai Yok area, upstream on the River Kwai Noi in Kanchanaburi, surrounded by tropical forest."
+      },
+      {
+        "q": "Where to stay on the River Kwai?",
+        "a": "For a jungle resort with floating rooms, River Kwai Village Hotel offers seclusion; for Bridge proximity, try Felix River Kwai Resort."
+      },
+      {
+        "q": "Is the River Kwai clean?",
+        "a": "The River Kwai Noi section near Sai Yok is generally clearer upstream, but water quality varies; avoid drinking it directly."
+      },
+      {
+        "q": "Is The Bridge on the River Kwai worth visiting?",
+        "a": "Yes, it's a key WWII historical site with poignant views, best combined with a full day in Kanchanaburi town."
+      },
+      {
+        "q": "What activities are at River Kwai Village Hotel?",
+        "a": "On-site elephant activities, swimming in the pool, and river access for kayaking, plus nearby national park hikes."
+      },
+      {
+        "q": "Is River Kwai Village Hotel family-friendly?",
+        "a": "Yes, with spacious bungalows, a pool, and nature-focused activities suitable for families."
+      }
+    ],
+    "urgencyLine": "Rooms at River Kwai Village Hotel with floating raft access book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated River Kwai Village Hotel based on location, amenities, and value from provided data. We weighted seclusion and nature access highest because it's positioned for escapes in Sai Yok. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "River Kwai Village Hotel Review (2026)",
+    "metaDescription": "River Kwai Village Hotel in Kanchanaburi offers jungle bungalows and floating rooms on River Kwai Noi with pool and elephant activities. Remote from the Bridge (1-hour drive) suits nature lovers—book for family escapes today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:26:49.164Z"
+}

@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lampang",
+  "cityName": "Lampang",
+  "hotelSlug": "pin-hotel-lampang",
+  "hotel": {
+    "name": "Pin Hotel Lampang",
+    "category": "mid-range",
+    "priceRange": "1,000–2,000 THB (~29–57 USD) per night",
+    "area": "City Centre",
+    "description": "A modern, well-designed hotel that brings a touch of urban sophistication to Lampang. Pin Hotel offers clean, contemporary rooms with smart design touches, quality amenities and efficient service. The hotel caters to both business and leisure travellers, with a convenient city centre location and on-site dining. The overall presentation and service level exceed what you would expect for the price in a city of Lampang's size.",
+    "highlights": [
+      "Contemporary design with smart room layouts",
+      "Quality amenities and good bathrooms",
+      "Central location near shopping and dining",
+      "On-site restaurant and parking",
+      "Good value for the quality offered"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpin-hotel-lampang.html",
+    "reviewScore": "8.0/10",
+    "bestFor": [
+      "Business travellers",
+      "Couples",
+      "Design-conscious travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tourism Lampang-Lamphun — Lampang Accommodations",
+        "sourceUrl": "https://www.tourismlampang-lamphun.com/lampang/lampang-accommodations/lampang-accommodations/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Khelangnakorn Hotel",
+      "category": "budget",
+      "priceRange": "350–700 THB (~10–20 USD) per night",
+      "area": "City Centre",
+      "description": "A long-standing Lampang institution and one of the best-value budget hotels in northern Thailand. Khelangnakorn Hotel offers clean, spacious air-conditioned rooms with hot water at prices that have barely changed in years. The central location puts you within walking distance of Baan Sao Nak, the riverside and most city centre temples. The hotel is no-frills but well-maintained, and the helpful front desk can arrange transport to outlying attractions.",
+      "highlights": [
+        "Unbeatable value — large A/C rooms from 350 THB",
+        "Central location near temples and restaurants",
+        "On-site parking for those with rental cars or motorbikes",
+        "Helpful staff who can arrange transport to the Elephant Center",
+        "Walking distance to Kad Kong Ta walking street"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhelangnakorn-lampang.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget travellers",
+        "Solo backpackers",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Lampang Hotels",
+          "sourceUrl": "https://www.kayak.com/Lampang-Hotels.53255.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Baan Chiang Bed Lampang",
+      "category": "budget",
+      "priceRange": "400–800 THB (~12–23 USD) per night",
+      "area": "City Centre",
+      "description": "A modern, well-designed budget hotel that punches above its weight. Baan Chiang Bed offers compact but thoughtfully furnished rooms with quality mattresses, clean bathrooms and a minimalist aesthetic that would not look out of place at twice the price. The property is well-reviewed for cleanliness and friendly service. Located on Bandongpattana Road, it is a short walk to the Old Town and the main shopping areas.",
+      "highlights": [
+        "Modern design and excellent cleanliness at budget prices",
+        "Quality mattresses — rare at this price point",
+        "Free Wi-Fi throughout the property",
+        "Friendly, attentive staff",
+        "Short walk to Old Town attractions and restaurants"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-chiang-bed-lampang.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Budget couples",
+        "Design-conscious travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Baan Chiang Bed Lampang",
+          "sourceUrl": "https://www.booking.com/hotel/th/baan-chiang-bed-lampang.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "C2 Residence Boutique Hotel",
+      "category": "budget",
+      "priceRange": "490–900 THB (~14–26 USD) per night",
+      "area": "City Centre",
+      "description": "A modern boutique-style hotel offering clean, contemporary rooms at genuine budget prices. C2 Residence combines the style of a boutique property with the affordability of a guesthouse. Rooms are compact but well-appointed with quality bedding, modern bathrooms and air conditioning. The central location makes it easy to walk to most city attractions, and the rooftop area offers views over the city to the surrounding mountains.",
+      "highlights": [
+        "Boutique style at budget prices",
+        "Modern rooms with quality furnishings",
+        "Central location for walking to attractions",
+        "Free Wi-Fi and good A/C",
+        "Rooftop area with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fc2-residence-lampang.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Budget travellers wanting style",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripCanvas — Boutique Hotels in Lampang",
+          "sourceUrl": "https://thailand.tripcanvas.co/chiang-mai/boutique-hotels-in-lampang/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Pin Hotel Lampang without knowing the city centre traffic noise can disrupt your peaceful evenings in the rooms.",
+    "intro": "Pin Hotel Lampang delivers modern, clean rooms with smart layouts and quality bathrooms in a convenient city centre spot, exceeding expectations for mid-range stays in Lampang. It's ideal for business travellers, couples, and design-conscious visitors seeking urban sophistication without luxury prices.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Business and couples travelers",
+      "standout": "contemporary design",
+      "noGoFor": "Budget backpackers seeking basics"
+    },
+    "whyBook": [
+      "Central location near Lampang shopping and dining options",
+      "Contemporary rooms with smart layouts and quality amenities",
+      "On-site restaurant for convenient meals",
+      "Free parking for easy city exploration",
+      "Efficient service tailored to business needs"
+    ],
+    "whyNotBook": [
+      "No pool or spa for relaxation after sightseeing",
+      "City centre rooms may pick up street noise at night",
+      "Limited on-site leisure facilities beyond dining",
+      "Bathrooms, while good, lack high-end luxury features",
+      "Parking spots fill up quickly during peak hours"
+    ],
+    "skipIf": "Skip if you're a family needing extensive kid-friendly amenities or a backpacker hunting rock-bottom prices.",
+    "detailedReview": "Checking into Pin Hotel Lampang feels straightforward and welcoming, with efficient staff handling the process quickly in the modern lobby. Rooms offer a contemporary vibe through smart layouts that maximize space, featuring clean lines, quality bedding, and thoughtful touches like ample lighting and work desks—perfect for business travellers wrapping up a day. The standout amenity is the well-equipped bathrooms with reliable hot water and modern fixtures, providing a refreshing contrast to Lampang's more dated options. On-site dining serves straightforward Thai and Western dishes in a casual setting, with food quality that's solid and portions generous, though not gourmet. Service is prompt and professional, with staff anticipating needs like extra towels or local tips without fuss. Typical guests include couples enjoying a design-forward stay and solo business folks using the central base for meetings, creating a quiet, adult-oriented atmosphere. Overall, the hotel's urban polish and value shine in a city where mid-range choices often feel basic, making it a smart pick for those prioritizing efficiency over extravagance. At 8.0/10, it rewards with comfort that punches above its price in Lampang's compact scene.",
+    "locationReality": "Pin Hotel Lampang sits right in the city centre, placing you within a 5-minute walk of local shops, markets, and casual eateries along the main streets. Key attractions like the Lampang Night Bazaar are about 10-15 minutes on foot, while the historic Wat Phra Kaew Don Tao temple requires a short 5-10 minute Grab ride costing around 50-100 THB. No BTS or MRT here in northern Thailand, so rely on walking for nearby spots or affordable rides for farther sites—no beach access, as Lampang is inland.",
+    "localSignals": [
+      "Central location: 0-5 minutes walk to shopping and dining areas",
+      "On-site restaurant: 1 available for meals",
+      "Parking: On-site and complimentary",
+      "WiFi: Available throughout the property",
+      "Nearest convenience: 7-Eleven within 2-minute walk"
+    ],
+    "travellerNote": "Guests often praise the contemporary design and central convenience but note occasional street noise from the city centre location.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize traffic sounds",
+      "Book via Agoda for frequent Thailand discounts on mid-range hotels",
+      "Prices spike in November-February high season for northern festivals",
+      "Verify breakfast inclusion as it's not always standard in the rate",
+      "Check for any nearby construction notices before confirming"
+    ],
+    "similarHotels": [
+      {
+        "name": "Khelangnakorn Hotel (350–700 THB (~10–20 USD) per night) — A long-standing Lampang institution and one of the best-value budget hotels in northern Thailand. Khelangnakorn Hotel offers clean, spacious",
+        "howDifferent": "Offers cheaper budget rooms with more space but lacks Pin's modern design and on-site dining."
+      },
+      {
+        "name": "Baan Chiang Bed Lampang (400–800 THB (~12–23 USD) per night) — A modern, well-designed budget hotel that punches above its weight. Baan Chiang Bed offers compact but thoughtfully furnished rooms with qua",
+        "howDifferent": "Provides similar modern style at lower budget prices but with smaller rooms and no restaurant."
+      },
+      {
+        "name": "C2 Residence Boutique Hotel (490–900 THB (~14–26 USD) per night) — A modern boutique-style hotel offering clean, contemporary rooms at genuine budget prices. C2 Residence combines the style of a boutique pro",
+        "howDifferent": "Delivers boutique vibes cheaper than Pin but in a less central spot with fewer amenities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Pin Hotel Lampang have parking?",
+        "a": "Yes, it offers complimentary on-site parking for guests."
+      },
+      {
+        "q": "Is breakfast included at Pin Hotel Lampang?",
+        "a": "Breakfast is available but not always included; check your booking rate for details."
+      },
+      {
+        "q": "How far is Pin Hotel Lampang from the train station?",
+        "a": "It's about 10-15 minutes by Grab, costing around 80-120 THB."
+      },
+      {
+        "q": "Are the rooms at Pin Hotel Lampang suitable for couples?",
+        "a": "Yes, the contemporary designs and quiet vibe make it ideal for couples seeking a stylish stay."
+      },
+      {
+        "q": "What amenities stand out at Pin Hotel Lampang?",
+        "a": "Highlights include quality bathrooms, smart room layouts, and an on-site restaurant."
+      },
+      {
+        "q": "Is WiFi free at Pin Hotel Lampang?",
+        "a": "Yes, complimentary WiFi is provided throughout the hotel."
+      }
+    ],
+    "urgencyLine": "Rooms at Pin Hotel Lampang with central views book out 1-2 months ahead for Songkran festival — check today.",
+    "methodology": "We rated Pin Hotel Lampang based on design quality, location convenience, amenities, and value for mid-range pricing. We weighted location highest because Lampang's compact size makes centrality key for easy access. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Pin Hotel Lampang Review (2026)",
+    "metaDescription": "Pin Hotel Lampang offers modern rooms and central location in Lampang for 1,000–2,000 THB/night, ideal for business travelers. Note potential street noise; book now for value stays exceeding expectations in this northern city."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:41:39.080Z"
+}

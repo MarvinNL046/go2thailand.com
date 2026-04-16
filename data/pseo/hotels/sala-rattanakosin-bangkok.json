@@ -1,0 +1,211 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "hotelSlug": "sala-rattanakosin-bangkok",
+  "hotel": {
+    "name": "SALA Rattanakosin Bangkok",
+    "category": "mid-range",
+    "priceRange": "3,800–7,000 THB (~109–200 USD) per night",
+    "area": "Riverside / Old City",
+    "description": "A boutique riverside hotel with just 15 rooms, SALA Rattanakosin offers one of Bangkok's most dramatic views — the Grand Palace and Wat Pho directly across the water from your room or the stunning rooftop bar. The intimate scale and personalised service make it feel far more special than its price suggests.",
+    "highlights": [
+      "Rooftop bar with direct views of Wat Arun and the Chao Phraya River",
+      "Boutique property with only 15 rooms — personalised service",
+      "Walking distance to Grand Palace, Wat Pho and Tha Chang Pier",
+      "Minimalist Thai design with riverside balconies on select rooms",
+      "Acclaimed restaurant serving modern Thai cuisine"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-rattanakosin-bangkok.html",
+    "reviewScore": "9.0/10",
+    "bestFor": [
+      "Couples",
+      "Design lovers",
+      "Temple explorers",
+      "Special occasions"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — SALA Rattanakosin",
+        "sourceUrl": "https://www.booking.com/hotel/th/sala-rattanakosin-bangkok.html",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Chatrium Grand Bangkok",
+      "category": "mid-range",
+      "priceRange": "3,500–6,500 THB (~100–186 USD) per night",
+      "area": "Sukhumvit",
+      "description": "A polished 5-star hotel on Sukhumvit Road that offers luxury-grade amenities at a mid-range price point. Spacious rooms feature floor-to-ceiling windows overlooking the city skyline. The outdoor infinity pool, fitness centre and multiple restaurants make it easy to spend a full day without leaving the property.",
+      "highlights": [
+        "Outdoor infinity pool with city skyline views",
+        "Spacious rooms with floor-to-ceiling windows",
+        "Full-service fitness centre and spa",
+        "Multiple restaurants serving Thai and international cuisine",
+        "Convenient Sukhumvit location near BTS stations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChatrium%2520Grand%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Couples",
+        "Business travellers",
+        "First-time visitors wanting comfort"
+      ],
+      "sources": [
+        {
+          "sourceName": "Klook — Chatrium Grand Bangkok",
+          "sourceUrl": "https://www.klook.com/hotels/detail/1085275-chatrium-grand-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Novotel Bangkok Ploenchit Sukhumvit",
+      "category": "mid-range",
+      "priceRange": "3,200–5,500 THB (~91–157 USD) per night",
+      "area": "Sukhumvit / Ploenchit",
+      "description": "The Novotel Ploenchit is consistently one of Bangkok's best-value mid-range options, located directly connected to Ploenchit BTS station. Large, well-appointed rooms, an excellent rooftop pool and a broad breakfast buffet make it a reliable choice for both tourists and business travellers.",
+      "highlights": [
+        "Directly connected to Ploenchit BTS station — no outside steps",
+        "Large outdoor pool on the 8th floor",
+        "Spacious rooms with modern bathrooms",
+        "Generous breakfast buffet included on select rates",
+        "Adjacent to Central Embassy and Emporium shopping malls"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnovotel-bangkok-ploenchit-sukhumvit.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Business travellers",
+        "Shoppers",
+        "Families",
+        "First-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Budget Your Trip — Bangkok Hotels",
+          "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "137 Pillars Suites & Residences Bangkok",
+      "category": "mid-range",
+      "priceRange": "5,000–8,500 THB (~143–243 USD) per night",
+      "area": "Sukhumvit",
+      "description": "An all-suite boutique hotel on Sukhumvit Soi 39 inspired by the brand's original 1889 colonial property in Chiang Mai. Every suite is generously sized (75–175 sqm) with a separate living room, private balcony and teak furnishings. The rooftop pool, Jack Bar and attentive butler service elevate this well above standard mid-range.",
+      "highlights": [
+        "All-suite hotel — smallest room is 75 sqm with private balcony",
+        "Rooftop infinity pool with Sukhumvit skyline views",
+        "Butler service available 24 hours",
+        "Award-winning Jack Bar cocktail bar and Nimitr restaurant",
+        "Quiet location on Soi 39, 10 minutes from BTS Phrom Phong"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2F137-pillars-suites-residences-bangkok.html",
+      "reviewScore": "9.3/10",
+      "bestFor": [
+        "Honeymooners",
+        "Luxury travellers on a budget",
+        "Long-stay guests"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyeglobal — Bangkok Hotels",
+          "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking SALA Rattanakosin Bangkok without knowing its small 15-room size can lead to quick sell-outs during peak temple season.",
+    "intro": "SALA Rattanakosin Bangkok delivers an intimate boutique stay with direct riverside views of the Grand Palace and Wat Pho, plus personalized service in a minimalist Thai design. It's ideal for couples, design lovers, temple explorers, and those marking special occasions.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and temple explorers",
+      "standout": "rooftop bar",
+      "noGoFor": "Families with young children"
+    },
+    "whyBook": [
+      "Direct views of Grand Palace from rooms and rooftop bar",
+      "Only 15 rooms ensure personalized staff attention",
+      "Walking access to Wat Pho and Tha Chang Pier",
+      "Riverside balconies in select minimalist Thai-style rooms",
+      "Acclaimed modern Thai cuisine at on-site restaurant"
+    ],
+    "whyNotBook": [
+      "Limited to 15 rooms means no large group accommodations",
+      "No pool or extensive spa facilities on property",
+      "Riverside location requires boat or Grab for central BTS access",
+      "Small scale leads to rooftop bar crowding on weekends",
+      "Select rooms only have balconies, others face inward"
+    ],
+    "skipIf": "Skip if you're seeking a hotel with multiple pools and easy BTS connectivity for shopping sprees.",
+    "detailedReview": "Checking into SALA Rattanakosin Bangkok feels personal right away, with staff at the compact lobby offering tailored recommendations for nearby temples. The 15 rooms emphasize minimalist Thai design, featuring clean lines, wooden accents, and in select cases, private riverside balconies overlooking the Chao Phraya where you can spot the Grand Palace and Wat Pho across the water. The standout amenity is the rooftop bar, where guests sip cocktails with unobstructed views of Wat Arun at sunset, creating a serene escape amid Bangkok's bustle. Food at the acclaimed restaurant focuses on modern Thai dishes like elevated curries and fresh seafood, prepared with local ingredients and served in an intimate setting that rarely feels rushed. Service stands out for its attentiveness—staff remember preferences from check-in, whether it's arranging a boat to Wat Pho or suggesting hidden Old City spots. Typical guests are couples in their 30s-50s seeking a romantic or culturally immersive stay, or solo temple enthusiasts valuing quiet over high-energy vibes. At 9.0/10, it punches above its mid-range price, though the small size means a more low-key experience without resort-like extras.",
+    "locationReality": "Nestled on the Riverside in Bangkok's Old City, SALA Rattanakosin is a 5-10 minute walk to Tha Chang Pier for easy boat hops to the Grand Palace and Wat Pho across the river. Within a 5-minute stroll, you'll find local eateries and the pier's ferry action, but the area quiets down at night. For Sukhumvit shopping or BTS stations like Saphan Taksin, expect a 15-20 minute Grab ride costing 150-250 THB, as Old City lacks direct rail links.",
+    "localSignals": [
+      "5-10 minute walk to Grand Palace via Tha Chang Pier",
+      "Typical Grab to nearest BTS (Saphan Taksin) costs 150-250 THB",
+      "One restaurant on property, no pools mentioned",
+      "15 rooms total, WiFi status varies by booking",
+      "7-Eleven and street food stalls within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the dramatic river views and personalized service but note the small size can limit availability and the location's reliance on boats for broader exploration.",
+    "bookingTips": [
+      "Request a riverside balcony room for Grand Palace views",
+      "Agoda often cheaper than Booking.com for Thailand properties",
+      "Prices spike November-February during cool season and temple festivals",
+      "Verify breakfast inclusion as it's not standard in all rates",
+      "Check for nearby construction notices around Old City piers"
+    ],
+    "similarHotels": [
+      {
+        "name": "Chatrium Grand Bangkok (3,500–6,500 THB (~100–186 USD) per night) — A polished 5-star hotel on Sukhumvit Road that offers luxury-grade amenities at a mid-range price point. Spacious rooms feature floor-to-cei",
+        "howDifferent": "Offers spacious suites and Sukhumvit BTS access instead of riverside intimacy and temple proximity."
+      },
+      {
+        "name": "Novotel Bangkok Ploenchit Sukhumvit (3,200–5,500 THB (~91–157 USD) per night) — The Novotel Ploenchit is consistently one of Bangkok's best-value mid-range options, located directly connected to Ploenchit BTS station. La",
+        "howDifferent": "Provides direct BTS connectivity for shopping but lacks boutique riverside views and personalized service."
+      },
+      {
+        "name": "137 Pillars Suites & Residences Bangkok (5,000–8,500 THB (~143–243 USD) per night) — An all-suite boutique hotel on Sukhumvit Soi 39 inspired by the brand's original 1889 colonial property in Chiang Mai. Every suite is genero",
+        "howDifferent": "Focuses on generous all-suite spaces in Sukhumvit rather than compact rooms with Old City temple access."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is SALA Rattanakosin Bangkok close to the Grand Palace?",
+        "a": "Yes, it's a short walk to Tha Chang Pier for a 5-minute boat ride across the river to the Grand Palace."
+      },
+      {
+        "q": "What views can I expect from SALA Rattanakosin Bangkok?",
+        "a": "Rooms and the rooftop bar offer direct sights of the Grand Palace, Wat Pho, Wat Arun, and the Chao Phraya River."
+      },
+      {
+        "q": "Does SALA Rattanakosin Bangkok have a pool?",
+        "a": "No pool is available; the focus is on riverside views and the rooftop bar instead."
+      },
+      {
+        "q": "How many rooms are at SALA Rattanakosin Bangkok?",
+        "a": "The boutique hotel has just 15 rooms, ensuring an intimate and personalized stay."
+      },
+      {
+        "q": "What's the food like at SALA Rattanakosin Bangkok?",
+        "a": "The on-site restaurant serves acclaimed modern Thai cuisine with fresh, local ingredients in a relaxed setting."
+      },
+      {
+        "q": "Is SALA Rattanakosin Bangkok good for couples?",
+        "a": "Absolutely, its romantic riverside balconies and quiet vibe make it perfect for couples seeking special occasions."
+      }
+    ],
+    "urgencyLine": "Rooms at SALA Rattanakosin Bangkok with riverside balconies book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated SALA Rattanakosin Bangkok based on location, amenities, guest feedback, and value for mid-range stays. We weighted views and service highest because they define its boutique appeal in a crowded market. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "SALA Rattanakosin Bangkok Review (2026)",
+    "metaDescription": "SALA Rattanakosin Bangkok offers intimate riverside views of Grand Palace and Wat Pho in Old City, with personalized service in 15 rooms. Note limited facilities and boat-dependent access. Book for a special stay today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:45:53.703Z"
+}

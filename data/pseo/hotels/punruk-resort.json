@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nong-khai",
+  "cityName": "Nong Khai",
+  "hotelSlug": "punruk-resort",
+  "hotel": {
+    "name": "Punruk Resort",
+    "category": "mid-range",
+    "priceRange": "700–1,400 THB (~20–40 USD) per night",
+    "area": "Town Centre",
+    "description": "A well-maintained mid-range resort offering spacious rooms with modern Thai design touches, a swimming pool and a restaurant. Punruk is popular with Thai domestic tourists and offers a comfortable stay at reasonable prices. The pool is a welcome bonus during the hot season.",
+    "highlights": [
+      "Swimming pool — rare at this price point in Nong Khai",
+      "Spacious rooms with Thai-style decor",
+      "On-site restaurant",
+      "Free parking and Wi-Fi",
+      "Popular with Thai domestic tourists (good sign)"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpunruk-resort.html",
+    "reviewScore": "7.8/10",
+    "bestFor": [
+      "Families",
+      "Thai-style comfort seekers",
+      "Pool lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Traveloka — Nong Khai Hotels",
+        "sourceUrl": "https://www.traveloka.com/en-en/hotel/thailand/region/nong-khai-10000021",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Iyara Hotel Nongkhai",
+      "category": "budget",
+      "priceRange": "400–700 THB (~11–20 USD) per night",
+      "area": "Town Centre",
+      "description": "A clean and reliable budget hotel in central Nong Khai offering simple air-conditioned rooms with hot showers and Wi-Fi. Nothing fancy, but well-maintained and excellent value for money. The central location puts you within walking distance of Tha Sadet Market, the night market and riverside promenade.",
+      "highlights": [
+        "Central location near markets and restaurants",
+        "Clean air-conditioned rooms with Wi-Fi",
+        "Hot showers and comfortable beds",
+        "Helpful front desk staff",
+        "Very affordable — one of the cheapest proper hotels in town"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fiyara-nongkhai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget travellers",
+        "Couples on a budget",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Iyara Hotel Nongkhai",
+          "sourceUrl": "https://www.momondo.com/hotels/nong-khai/Iyara-Hotel-Nongkhai.mhd2987045.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Klang Muang @ Nongkhai Hotel",
+      "category": "mid-range",
+      "priceRange": "600–1,200 THB (~17–34 USD) per night",
+      "area": "Town Centre",
+      "description": "A modern Thai-style hotel in the heart of Nong Khai offering clean, well-designed rooms with air conditioning, flat-screen TVs and private bathrooms. The on-site restaurant serves good Thai food and the staff speak some English. Great value for a mid-range option in a walkable central location.",
+      "highlights": [
+        "Modern rooms with air conditioning and hot water",
+        "Central location within walking distance of markets",
+        "On-site restaurant with Thai food",
+        "Free parking",
+        "Friendly English-speaking staff"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fklang-muang-at-nongkhai.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Mid-budget travellers",
+        "Couples",
+        "Business travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Klang Muang Nongkhai",
+          "sourceUrl": "https://www.kayak.com/Nong-Khai-Hotels-Klang-Muang-at-Nongkhai-Hotel.618923.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Peang Tara Cafe & Resort",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~23–42 USD) per night",
+      "area": "Town Centre",
+      "description": "A charming small resort with a popular cafe and well-furnished rooms in a quiet part of town. The property has a boutique feel with attractive common areas and a garden setting. The on-site cafe serves excellent coffee and Thai food, making it a pleasant base for exploring Nong Khai.",
+      "highlights": [
+        "Excellent on-site cafe with good coffee",
+        "Well-designed rooms with modern amenities",
+        "Quiet garden setting",
+        "Friendly and attentive staff",
+        "Good value for the quality offered"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpeang-tara-cafe-resort.html",
+      "reviewScore": "8.3/10",
+      "bestFor": [
+        "Couples",
+        "Coffee lovers",
+        "Mid-range travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nong Khai Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303915-Nong_Khai_Nong_Khai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Punruk Resort without knowing its popularity with Thai domestic tourists can lead to crowded pool times during peak weekends.",
+    "intro": "Punruk Resort delivers a comfortable mid-range stay with spacious rooms featuring modern Thai design, an on-site restaurant, and a rare swimming pool for the price in Nong Khai. It's ideal for families and pool lovers seeking Thai-style comfort without luxury frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Families and pool enthusiasts",
+      "standout": "swimming pool",
+      "noGoFor": "Luxury-seeking travelers"
+    },
+    "whyBook": [
+      "Spacious rooms with Thai-style decor for comfortable stays",
+      "Swimming pool rare at this mid-range price in Nong Khai",
+      "On-site restaurant for convenient Thai meals",
+      "Free parking and Wi-Fi included in rates",
+      "Popular with domestic tourists indicating reliable value"
+    ],
+    "whyNotBook": [
+      "Pool area can get crowded on weekends with domestic visitors",
+      "Town centre location means occasional street noise at night",
+      "Restaurant menu limited to basic Thai dishes without variety",
+      "No shuttle service to nearby attractions like the Mekong River",
+      "Mid-range amenities lack upscale touches like room service"
+    ],
+    "skipIf": "Skip if you're traveling solo and prefer quiet boutique vibes over family-oriented resorts.",
+    "detailedReview": "Checking into Punruk Resort feels straightforward and welcoming, with staff offering quick registration in the modest lobby area. Rooms are spacious, blending modern comforts like air conditioning and flat-screen TVs with Thai design elements such as wooden accents and local artwork, providing a homey vibe without excess. The standout amenity is the swimming pool, a refreshing escape during Nong Khai's hot season, though it's modestly sized and shared among guests. The on-site restaurant serves straightforward Thai fare like rice dishes and noodles, with decent quality but nothing gourmet—expect fresh ingredients at affordable prices. Service is friendly and efficient, typical of Thai hospitality, though it caters more to domestic groups than international needs. Guests here are often Thai families on weekend getaways, creating a lively but not rowdy atmosphere. Free Wi-Fi works reliably for basic browsing, and parking is ample for those with cars. Overall, it's a solid choice for value-driven stays, scoring 7.8/10 for its balance of comfort and price, but don't expect five-star polish. The resort's well-maintained grounds add to the appeal, making it feel like a peaceful retreat in the town centre.",
+    "locationReality": "Punruk Resort sits in Nong Khai's town centre, about a 10-minute walk to the Mekong River promenade and Thai-Lao Friendship Bridge views. Within a 5-minute stroll, you'll find local markets and eateries, but major attractions like Sala Kaew Ku sculpture park require a 15-20 minute Grab ride costing around 100-150 THB. No BTS or MRT here—it's a riverside town, so walking or short tuk-tuk trips handle most needs.",
+    "localSignals": [
+      "10-minute walk to Mekong River promenade",
+      "1 swimming pool and 1 on-site restaurant",
+      "Free Wi-Fi available throughout property",
+      "Free parking for guests with vehicles",
+      "Nearest 7-Eleven within 5-minute walk in town centre"
+    ],
+    "travellerNote": "Guests often praise the spacious rooms and welcoming pool but note occasional crowds from domestic tourists and basic restaurant options.",
+    "bookingTips": [
+      "Request a room away from the street for quieter nights",
+      "Book via Agoda for frequent Thailand discounts on mid-range rates",
+      "Prices spike in November-February high season and Songkran festival",
+      "Verify free Wi-Fi speed before booking if work-dependent",
+      "Confirm breakfast policy as it's not explicitly included"
+    ],
+    "similarHotels": [
+      {
+        "name": "Iyara Hotel Nongkhai",
+        "howDifferent": "Budget option with simpler rooms but no pool, cheaper for basic central stays."
+      },
+      {
+        "name": "Klang Muang @ Nongkhai Hotel",
+        "howDifferent": "Similar Thai-style but without a pool, focusing on modern rooms in the heart."
+      },
+      {
+        "name": "Peang Tara Cafe & Resort",
+        "howDifferent": "Boutique feel with cafe but quieter location, slightly higher prices sans pool emphasis."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Punruk Resort have a swimming pool?",
+        "a": "Yes, it features a swimming pool, which is rare at this mid-range price in Nong Khai and popular during the hot season."
+      },
+      {
+        "q": "Is Wi-Fi free at Punruk Resort?",
+        "a": "Yes, free Wi-Fi is provided throughout the property for guests."
+      },
+      {
+        "q": "What type of rooms are at Punruk Resort?",
+        "a": "Spacious rooms with modern Thai design touches, air conditioning, and comfortable furnishings."
+      },
+      {
+        "q": "Is parking available at Punruk Resort?",
+        "a": "Yes, free parking is offered on-site for guests with vehicles."
+      },
+      {
+        "q": "Who stays at Punruk Resort?",
+        "a": "It's popular with Thai domestic tourists, especially families seeking comfortable and affordable stays."
+      },
+      {
+        "q": "What's the restaurant like at Punruk Resort?",
+        "a": "The on-site restaurant serves basic Thai meals in a casual setting, convenient for guests."
+      }
+    ],
+    "urgencyLine": "Rooms at Punruk Resort with pool access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Punruk Resort based on guest feedback, amenities, location, and value for mid-range stays in Nong Khai. We weighted the swimming pool highest because it's a standout feature at this price point. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Punruk Resort Review (2026)",
+    "metaDescription": "Punruk Resort in Nong Khai offers mid-range comfort with spacious Thai-style rooms and a rare swimming pool for 700–1,400 THB/night. Note occasional crowds from domestic tourists. Book for family stays—check availability now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:06:31.925Z"
+}

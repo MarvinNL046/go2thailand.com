@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nan",
+  "cityName": "Nan",
+  "hotelSlug": "nan-river-hotel",
+  "hotel": {
+    "name": "Nan River Hotel",
+    "category": "mid-range",
+    "priceRange": "1,600-2,800 THB/night (~$44-78 USD)",
+    "area": "Nan Riverside",
+    "description": "A comfortable mid-range hotel positioned close to the Nan River, offering some rooms with partial river views. The hotel has a swimming pool — a rarity at this price point in Nan — making it especially attractive during the hot season (March-May). Clean, modern rooms with air conditioning and the amenities expected at this tier. A 10-minute walk to the old town puts it slightly further from temples than the old town-centered options but closer to the river and evening stalls.",
+    "highlights": [
+      "Swimming pool — unusual luxury at mid-range Nan prices",
+      "River proximity with partial river views from some rooms",
+      "10-minute walk to Nan old town and temple circuit"
+    ],
+    "reviewScore": "4.1/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "families",
+      "hot-season visitors"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/nan.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520River%2520Hotel%252C%2520Nan%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Nan Boutique Hotel",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "Nan Old Town",
+      "description": "A well-regarded mid-range option in the old town with comfortable air-conditioned rooms, modern bathrooms, and a small lobby area with local tourist information. The property has been designed with sensitivity to Nan's heritage character — northern Thai decor elements throughout without feeling kitsch. The central location puts guests within easy reach of all old town temples and the weekend walking street market.",
+      "highlights": [
+        "Northern Thai heritage-influenced interior design",
+        "Central old town location near all major temples",
+        "Comfortable modern rooms at reasonable mid-range prices"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "cultural travelers",
+        "mid-range budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g662326-Nan_Nan_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Boutique%2520Hotel%252C%2520Nan%252C%2520Thailand"
+    },
+    {
+      "name": "The Cross Nan",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Nan Old Town",
+      "description": "A stylish guesthouse in a restored traditional building near the old city center. Rooms feature a blend of contemporary comfort and northern Thai design elements — wooden floors, local textiles, and simple but beautiful furniture. The common areas are social and well-curated with Nan photography and local art. Well-reviewed for its breakfast and attentive staff who go beyond standard hospitality in helping guests plan their days.",
+      "highlights": [
+        "Restored traditional building with thoughtful northern Thai design",
+        "Excellent breakfast with local northern Thai dishes",
+        "Staff with deep local knowledge for trip planning assistance"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "design-conscious travelers",
+        "first-time visitors to Nan"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g662326-Nan_Nan_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Cross%2520Nan%252C%2520Nan%252C%2520Thailand"
+    },
+    {
+      "name": "Nan Manonchai Hotel",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Central Nan",
+      "description": "A reliable larger hotel in central Nan catering to both Thai business travelers and international tourists. Spacious rooms with standard hotel amenities, an in-house restaurant serving Thai and Chinese food, and a lobby that functions as an information hub for visiting Nan. The hotel can arrange private car hire and day trips to Doi Phu Kha and Bo Kluea — useful for travelers without motorbike licenses.",
+      "highlights": [
+        "In-house restaurant with Thai and Chinese food",
+        "Can arrange private car and driver for day trips",
+        "Spacious rooms with reliable hotel amenities"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "business travelers",
+        "travelers wanting organized day trips"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Nan-Hotels.d2583.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Manonchai%2520Hotel%252C%2520Nan%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Nan River Hotel without knowing only some rooms offer partial river views can lead to disappointment over obstructed scenery.",
+    "intro": "Nan River Hotel provides clean, modern rooms with air conditioning and a rare swimming pool for mid-range stays in Nan, ideal for cooling off during the hot season. It's best suited for couples and families seeking river proximity over central old town convenience.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples families hot season",
+      "standout": "swimming pool",
+      "noGoFor": "temple-focused explorers"
+    },
+    "whyBook": [
+      "Swimming pool offers relief in March-May heat",
+      "Partial river views from select rooms enhance stays",
+      "10-minute walk reaches old town evening stalls",
+      "Clean modern rooms include expected mid-range amenities"
+    ],
+    "whyNotBook": [
+      "Only partial river views available in some rooms",
+      "10-minute walk to temples feels longer in hot weather",
+      "Slightly further from central temple circuit than old town hotels",
+      "Pool rarity doesn't guarantee large size for families",
+      "Evening stalls proximity means occasional street noise"
+    ],
+    "skipIf": "Skip if you prioritize walking distance to Nan's main temples over river access.",
+    "detailedReview": "Checking into Nan River Hotel feels straightforward in its modest lobby, with staff efficiently handling reservations for a mix of Thai and international guests. Rooms deliver a clean, modern vibe with air conditioning keeping things comfortable even in Nan's humid climate; expect standard mid-range amenities like firm beds, basic toiletries, and functional desks, though nothing extravagant. The standout swimming pool, unusual for this price in Nan, provides a welcome dip after exploring, especially for families during the hot March-May period—it's clean but compact, suitable for laps or lounging rather than crowds. Food options are limited to a simple breakfast setup, focusing on Thai staples like rice porridge and fresh fruits, which guests find adequate but not memorable; no full restaurant on-site means relying on nearby stalls for dinners. Service is polite and responsive, typical of mid-range Thai hotels, with quick fixes for minor issues like AC adjustments. Typical guests include couples enjoying the river proximity for evening walks and families using the pool as a break from temple hopping, creating a relaxed atmosphere without much nightlife buzz. Overall, it suits those valuing quiet riverside recovery over urban energy, though the 10-minute trek to old town reminds you it's not fully central.",
+    "locationReality": "Nan River Hotel sits along the Nan Riverside, about a 10-minute walk from the old town area with its shops and evening stalls, but slightly further—around 15-20 minutes on foot—from key temples like Wat Phumin. The river location means easy access to scenic paths for morning strolls, with no need for transport within 5 minutes to basic eateries. For broader exploration, Grab rides to central temples cost 50-100 THB, as Nan lacks public transit like BTS.",
+    "localSignals": [
+      "10-minute walk to Nan old town",
+      "One swimming pool on property",
+      "Adjacent to Nan River for partial views",
+      "Evening stalls within 5-minute walk",
+      "15-20 minute walk to Wat Phumin temple"
+    ],
+    "travellerNote": "Guests often praise the swimming pool as a hot-season highlight and the clean rooms for comfort, but note the 10-minute walk to old town can feel inconvenient without transport.",
+    "bookingTips": [
+      "Request rooms with partial river views for better scenery",
+      "Agoda often cheaper than Booking.com for Nan hotels",
+      "Prices spike March-May during hot season peak",
+      "Verify breakfast inclusion as it varies by rate",
+      "Check for ongoing nearby construction notices"
+    ],
+    "similarHotels": [
+      {
+        "name": "Nan Boutique Hotel (1,500-2,500 THB/night (~$42-70 USD)) — A well-regarded mid-range option in the old town with comfortable air-conditioned rooms, modern bathrooms, and a small lobby area with local",
+        "howDifferent": "More central in old town for easier temple access but lacks a pool."
+      },
+      {
+        "name": "The Cross Nan (1,800-3,000 THB/night (~$50-84 USD)) — A stylish guesthouse in a restored traditional building near the old city center. Rooms feature a blend of contemporary comfort and northern",
+        "howDifferent": "Offers traditional design in old city center, closer to temples without river views or pool."
+      },
+      {
+        "name": "Nan Manonchai Hotel (2,000-3,500 THB/night (~$56-98 USD)) — A reliable larger hotel in central Nan catering to both Thai business travelers and international tourists. Spacious rooms with standard hot",
+        "howDifferent": "Larger central location suits business stays with more space but no pool or river proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Nan River Hotel have a swimming pool?",
+        "a": "Yes, it features a swimming pool, which is rare for mid-range hotels in Nan and ideal for hot season relief."
+      },
+      {
+        "q": "How far is Nan River Hotel from the old town?",
+        "a": "It's a 10-minute walk to Nan's old town, offering access to shops and stalls while staying riverside."
+      },
+      {
+        "q": "What rooms have river views at Nan River Hotel?",
+        "a": "Only some rooms provide partial river views; request them when booking to avoid disappointment."
+      },
+      {
+        "q": "Is Nan River Hotel good for families?",
+        "a": "Yes, the pool and spacious clean rooms make it suitable for families, especially during hot months."
+      },
+      {
+        "q": "What's the price range for Nan River Hotel?",
+        "a": "Rooms cost 1,600-2,800 THB per night, around $44-78 USD, fitting mid-range budgets in Nan."
+      },
+      {
+        "q": "How's the location for temple visits?",
+        "a": "It's slightly further from temples than old town options, requiring a 10-20 minute walk or short Grab ride."
+      }
+    ],
+    "urgencyLine": "Rooms at Nan River Hotel with partial river views book out 1-2 months ahead for March-May hot season—check today.",
+    "methodology": "We rated Nan River Hotel based on location, amenities like the pool, room quality, and guest feedback from sources like TripAdvisor. We weighted the pool highest because it's a standout rarity in Nan's mid-range market. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nan River Hotel Review (2026)",
+    "metaDescription": "Nan River Hotel in Nan offers mid-range comfort with a rare swimming pool and partial river views for couples and families. Note the 10-minute walk to old town temples. Book now for hot season stays at 1,600-2,800 THB/night."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:03:42.135Z"
+}

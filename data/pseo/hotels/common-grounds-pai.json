@@ -1,0 +1,193 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pai",
+  "cityName": "Pai",
+  "hotelSlug": "common-grounds-pai",
+  "hotel": {
+    "name": "Common Grounds Pai",
+    "category": "budget",
+    "priceRange": "250–600 THB/night (~$7–17 USD)",
+    "area": "Town Center",
+    "description": "A well-run social hostel with both dorm beds and private rooms. Clean, modern facilities with a communal kitchen, cozy lounge area, and organized pub crawls. The location on the edge of town center keeps noise manageable while remaining walkable to everything.",
+    "highlights": [
+      "Organized social events and pub crawls",
+      "Communal kitchen for budget cooking",
+      "Clean, modern dorm pods with privacy curtains"
+    ],
+    "bestFor": [
+      "backpackers",
+      "social travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "The Broke Backpacker",
+        "sourceUrl": "https://www.thebrokebackpacker.com/best-hostels-in-pai-thailand/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCommon%2520Grounds%2520Pai%252C%2520Pai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Pai Circus Hostel",
+      "category": "budget",
+      "priceRange": "220–800 THB/night (~$6–22 USD)",
+      "area": "Town Center",
+      "description": "Pai's most iconic hostel, famous for its circus-themed decor, fire shows, skate ramp, and nightly social events. Dorm beds and private bungalows are basic but clean. The real draw is the community vibe — hammocks, a pool, and a bar where backpackers share travel stories until late.",
+      "highlights": [
+        "Nightly fire shows and social events",
+        "Swimming pool and skate ramp",
+        "5-minute walk to Walking Street"
+      ],
+      "reviewScore": "8.2/10 Hostelworld",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hostels/p/91394/the-famous-pai-circus-hostel/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Circus%2520Hostel%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "UP2U Guesthouse",
+      "category": "budget",
+      "priceRange": "200–500 THB/night (~$5.50–14 USD)",
+      "area": "Town Center",
+      "description": "A charming traditional Thai-style guesthouse with beautiful wooden design, just a 5-minute walk from the bus station. Rooms are simple but characterful, with wooden floors and Thai textiles. One of the cheapest quality options in Pai with genuine Thai hospitality.",
+      "highlights": [
+        "Traditional Thai wooden architecture",
+        "Walking distance to bus station and Walking Street",
+        "Some of the cheapest rooms in Pai"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hotels/asia/thailand/pai/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUP2U%2520Guesthouse%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "Nolo Hub Pai",
+      "category": "budget",
+      "priceRange": "350–900 THB/night (~$10–25 USD)",
+      "area": "Town Center",
+      "description": "A newer hostel with a strong digital nomad vibe, offering reliable WiFi, co-working-friendly common areas, and both dorm and private rooms. Free bus station pickup is a nice touch. The social atmosphere is warm without being a party hostel.",
+      "highlights": [
+        "Free pickup from bus station",
+        "Good WiFi and co-working spaces",
+        "Modern facilities with air-conditioning"
+      ],
+      "bestFor": [
+        "digital nomads",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Nomadic Mick",
+          "sourceUrl": "https://www.nomadicmick.com/best-hostels-in-pai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNolo%2520Hub%2520Pai%252C%2520Pai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Common Grounds Pai without knowing its pub crawl focus can lead to disrupted sleep from late-night social noise.",
+    "intro": "Common Grounds Pai delivers a clean, modern hostel experience with dorm pods featuring privacy curtains and private rooms for budget-conscious stays. It's ideal for backpackers and social travelers seeking organized events in a walkable town spot.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers social travelers",
+      "standout": "organized pub crawls",
+      "noGoFor": "privacy-seeking families"
+    },
+    "whyBook": [
+      "Join organized pub crawls for easy nightlife access",
+      "Use communal kitchen to cook and save on meals",
+      "Stay in clean dorm pods with privacy curtains",
+      "Enjoy cozy lounge for meeting fellow travelers"
+    ],
+    "whyNotBook": [
+      "Edge location means 5-10 minute walk to main bars",
+      "Social events create noise until late evening",
+      "No private bathrooms in dorms, shared facilities only",
+      "Limited quiet spaces during peak social hours",
+      "Basic amenities without on-site dining options"
+    ],
+    "skipIf": "Skip if you're traveling with young children or prefer complete silence at night.",
+    "detailedReview": "Checking into Common Grounds Pai feels welcoming, with staff quickly assigning dorm beds or private rooms and explaining the communal kitchen setup. The room vibe is practical and modern: dorm pods offer curtained privacy in a clean, shared space, while private rooms provide basic comfort without frills. Standout amenity is the organized pub crawls, which start from the cozy lounge and connect guests to Pai's nightlife scene. Food quality relies on self-cooking in the communal kitchen, stocked with essentials for budget meals, though no on-site restaurant means venturing out for variety. Service style is friendly and hands-off, focused on facilitating social interactions rather than personalized attention. Typical guests are young backpackers and solo social travelers in their 20s, drawn by the events and walkable location. Overall, it's a well-run spot for those prioritizing connections over luxury, but the edge-of-center position keeps things quieter than deeper town stays. Facilities stay clean due to regular upkeep, and the lounge serves as a hub for planning day trips or evening outings. Expect a vibrant but not overwhelming atmosphere suited to group mingling.",
+    "locationReality": "Situated on the edge of Pai's town center, Common Grounds Pai is about a 5-10 minute walk to the bustling Walking Street night market. Within a 5-minute stroll, you'll find local cafes and small shops, but main attractions like temples or waterfalls require a scooter rental or short Grab ride costing 50-100 THB. The spot balances accessibility with reduced noise from central bars.",
+    "localSignals": [
+      "5-10 minute walk to Pai Walking Street",
+      "No beach access, inland town location",
+      "One communal kitchen as main on-property amenity",
+      "WiFi available in common areas, varies by room",
+      "7-Eleven within 5-minute walk nearby"
+    ],
+    "travellerNote": "Guests often praise the organized social events and clean facilities but note occasional noise from pub crawls spilling into evenings.",
+    "bookingTips": [
+      "Request dorm pods for better privacy curtains if solo",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike November to February during cool season",
+      "Verify pub crawl schedule before booking for social plans",
+      "Confirm no construction notices for quiet stays"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pai Circus Hostel",
+        "howDifferent": "Offers circus-themed decor and fire shows instead of straightforward social pub crawls."
+      },
+      {
+        "name": "UP2U Guesthouse",
+        "howDifferent": "Provides traditional Thai wooden rooms near the bus station, lacking the modern hostel social vibe."
+      },
+      {
+        "name": "Nolo Hub Pai",
+        "howDifferent": "Emphasizes co-working spaces and digital nomad amenities over organized nightlife events."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Common Grounds Pai suitable for solo backpackers?",
+        "a": "Yes, it's designed for social travelers with organized pub crawls and a communal lounge to meet others easily."
+      },
+      {
+        "q": "What types of rooms are available at Common Grounds Pai?",
+        "a": "Options include dorm beds with privacy curtains and basic private rooms, all in a clean, modern setup."
+      },
+      {
+        "q": "Does Common Grounds Pai have a kitchen for guests?",
+        "a": "It features a communal kitchen ideal for budget cooking, helping travelers save on meals."
+      },
+      {
+        "q": "How noisy is Common Grounds Pai at night?",
+        "a": "The edge-of-center location keeps general noise low, but pub crawls can create evening disturbances."
+      },
+      {
+        "q": "Is Common Grounds Pai walkable to Pai attractions?",
+        "a": "Yes, everything in town center is walkable within 10 minutes, including markets and cafes."
+      },
+      {
+        "q": "What makes Common Grounds Pai good for social travelers?",
+        "a": "Organized events like pub crawls and a cozy lounge foster connections among backpackers."
+      }
+    ],
+    "urgencyLine": "Dorm pods at Common Grounds Pai book out 1-2 months ahead for Pai's high season — check availability today.",
+    "methodology": "We rated Common Grounds Pai based on its facilities, location, and traveler suitability from provided data. We weighted social amenities highest because they define its budget hostel appeal for backpackers. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Common Grounds Pai Review (2026)",
+    "metaDescription": "Common Grounds Pai in Pai offers clean dorms, pub crawls, and a communal kitchen for backpackers at 250–600 THB/night. Note potential evening noise from events. Book now for social stays in town center."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:08:10.544Z"
+}

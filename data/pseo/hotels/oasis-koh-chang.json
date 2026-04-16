@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trat",
+  "cityName": "Trat",
+  "hotelSlug": "oasis-koh-chang",
+  "hotel": {
+    "name": "Oasis Koh Chang",
+    "category": "budget",
+    "priceRange": "500-1,200 THB/night (~$14-34 USD)",
+    "area": "Lonely Beach, Koh Chang",
+    "description": "Budget bungalows set on a hillside above Lonely Beach with a peaceful jungle atmosphere and swimming pool. Choice of fan bungalows (cheapest) or air-conditioned rooms. The restaurant serves good Thai food. Lonely Beach is Koh Chang's backpacker hub with beach bars and the island's best nightlife just a short walk downhill.",
+    "highlights": [
+      "Swimming pool — rare at budget prices on Koh Chang",
+      "Jungle hillside setting with peaceful atmosphere",
+      "Walking distance to Lonely Beach bars and restaurants"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "I Am Koh Chang",
+        "sourceUrl": "https://iamkohchang.com/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DOasis%2520Koh%2520Chang%252C%2520Trat%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Trat 101 Hotel",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "Trat Town",
+      "description": "A boutique hotel in the heart of Trat's old town on Thana Charoen Road, decorated with oriental vintage furniture and featuring original 100+ year-old wooden floors. Walking distance to the nightly food market, historical sites, and small restaurants. The perfect base for exploring Trat Town before heading to the islands. Rooms are clean and atmospheric with air conditioning.",
+      "highlights": [
+        "Located in historic old town with original wooden floors",
+        "Walking distance to Trat Night Market and ferry pier transport",
+        "Vintage boutique atmosphere at budget prices"
+      ],
+      "bestFor": [
+        "transit travelers",
+        "culture seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trat 101 Hotel",
+          "sourceUrl": "https://trat101hotel.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTrat%2520101%2520Hotel%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Rimklong Boutique Hotel",
+      "category": "budget",
+      "priceRange": "1,000-1,500 THB/night (~$28-42 USD)",
+      "area": "Trat Town",
+      "description": "One of Trat Town's first stylish small hotels, set in a renovated brick and wood shophouse in the old town area. The building's character shines through with exposed brick walls and wooden details. Central location near the river, night market, and local restaurants. A step up from basic transit hotels without luxury prices.",
+      "highlights": [
+        "Renovated historic shophouse with character",
+        "Central old town location near night market",
+        "Stylish rooms with air conditioning and hot water"
+      ],
+      "bestFor": [
+        "couples",
+        "culture seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/accommodation/trat-hotel-guide.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRimklong%2520Boutique%2520Hotel%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Nature Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-3,500 THB/night (~$42-98 USD)",
+      "area": "Lonely Beach, Koh Chang",
+      "description": "The top beachfront resort on Lonely Beach, recently replacing old log cabins with modern concrete villas right on the sand. One of just four resorts fronting the actual sand of Lonely Beach. Combines the relaxed backpacker-area atmosphere with proper resort comfort. The beach here is less crowded than White Sand Beach and has better swimming.",
+      "highlights": [
+        "Directly on Lonely Beach sand — one of only four beachfront properties",
+        "Newly built modern villas replacing old bungalows",
+        "Relaxed atmosphere with better swimming than northern beaches"
+      ],
+      "bestFor": [
+        "couples",
+        "beach lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNature%2520Beach%2520Resort%252C%2520Trat%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What area is best to stay in Koh Chang?",
+    "Is Koh Chang worth going to?",
+    "Is Koh Chang good for parties?",
+    "What is special about Koh Chang?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Oasis Koh Chang without knowing the steep hillside path can lead to exhausting walks back up after beach nights.",
+    "intro": "Oasis Koh Chang offers simple budget bungalows with a jungle vibe, a rare swimming pool, and easy access to Lonely Beach's backpacker scene. It's ideal for backpackers and solo travelers seeking affordable stays near nightlife without luxury frills.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers solo travelers",
+      "standout": "swimming pool",
+      "noGoFor": "luxury seeking families"
+    },
+    "whyBook": [
+      "Rare budget swimming pool for Koh Chang relaxation",
+      "Peaceful jungle hillside away from crowds",
+      "Short walk to Lonely Beach bars and nightlife",
+      "Choice of fan or air-conditioned bungalows",
+      "On-site restaurant with good Thai food"
+    ],
+    "whyNotBook": [
+      "Steep downhill walk to beach tires after dark",
+      "Fan bungalows get hot without AC upgrade",
+      "Hillside setting means no direct beach access",
+      "Basic budget rooms lack modern amenities",
+      "Pool may feel small during peak backpacker season"
+    ],
+    "skipIf": "Skip if you need flat terrain or family-friendly resort vibes.",
+    "detailedReview": "Checking into Oasis Koh Chang feels straightforward and low-key, with staff at the small reception area quickly assigning keys to your bungalow on the hillside. Rooms come in fan-cooled options for the tightest budgets or air-conditioned ones for a bit more comfort, all with simple wooden setups blending into the jungle surroundings—think mosquito nets, basic furnishings, and views of greenery rather than ocean vistas. The standout amenity is the swimming pool, a refreshing spot rare at these prices, where you can cool off amid the peaceful atmosphere after hiking the paths. Food at the on-site restaurant hits the spot with solid Thai dishes like pad thai or curries, served casually without pretension, perfect for unwinding. Service is friendly but hands-off, matching the backpacker crowd of solo travelers and groups in their 20s who fill the common areas chatting about island adventures. Typical guests are here for the vibe: laid-back days by the pool or poolside, evenings heading downhill to Lonely Beach's bars. It's not polished—paths can be uneven from the jungle setting—but delivers exactly on affordable, nature-immersed stays for those prioritizing location over extras. Overall, expect a no-fuss base that supports exploring Koh Chang's backpacker hub without breaking the bank.",
+    "locationReality": "Oasis Koh Chang sits on a hillside above Lonely Beach, with the sand and bars reachable in a 5-10 minute steep downhill walk. Within 5 minutes on foot, you'll hit the beachfront path lined with casual eateries and reggae bars. Getting to other Koh Chang spots like White Sand Beach requires a motorbike rental or songthaew ride costing 50-100 THB.",
+    "localSignals": [
+      "5-10 minute walk downhill to Lonely Beach",
+      "One swimming pool on property",
+      "One restaurant serving Thai food",
+      "Hillside above Lonely Beach in Koh Chang",
+      "Budget rates 500-1,200 THB per night"
+    ],
+    "travellerNote": "Guests often praise the peaceful jungle setting and rare budget pool but note the steep paths make returning uphill challenging after beach outings.",
+    "bookingTips": [
+      "Request air-conditioned rooms to avoid fan-only heat",
+      "Book via Agoda for Thailand-specific deals under 1,000 THB",
+      "Prices spike December-February high season",
+      "Verify hillside path condition for mobility needs",
+      "Confirm restaurant hours as it may close early"
+    ],
+    "similarHotels": [
+      {
+        "name": "Trat 101 Hotel (600-1,000 THB/night (~$17-28 USD)) — A boutique hotel in the heart of Trat's old town on Thana Charoen Road, decorated with oriental vintage furniture and featuring original 100",
+        "howDifferent": "Urban boutique in Trat town versus hillside bungalows on Koh Chang island."
+      },
+      {
+        "name": "Rimklong Boutique Hotel (1,000-1,500 THB/night (~$28-42 USD)) — One of Trat Town's first stylish small hotels, set in a renovated brick and wood shophouse in the old town area. The building's character sh",
+        "howDifferent": "Stylish shophouse in Trat old town, lacking Koh Chang's beach and pool access."
+      },
+      {
+        "name": "Nature Beach Resort (1,500-3,500 THB/night (~$42-98 USD)) — The top beachfront resort on Lonely Beach, recently replacing old log cabins with modern concrete villas right on the sand. One of just four",
+        "howDifferent": "Direct beachfront villas at higher price, more modern than Oasis's budget hillside setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What area is best to stay in Koh Chang?",
+        "a": "Lonely Beach is best for backpackers seeking affordable vibes and nightlife, while White Sand Beach suits families with calmer resorts."
+      },
+      {
+        "q": "Is Koh Chang worth going to?",
+        "a": "Yes, Koh Chang offers stunning beaches, jungles, and waterfalls at lower costs than Phuket, ideal for nature lovers on a budget."
+      },
+      {
+        "q": "Is Koh Chang good for parties?",
+        "a": "Koh Chang excels in parties at Lonely Beach's beach bars with fire shows and full moon vibes, though quieter than Koh Phangan."
+      },
+      {
+        "q": "What is special about Koh Chang?",
+        "a": "Koh Chang stands out for its lush national park interior, car-free hilly roads, and backpacker-friendly Lonely Beach scene."
+      },
+      {
+        "q": "Is Oasis Koh Chang budget-friendly?",
+        "a": "Yes, at 500-1,200 THB per night, it provides value with a pool and beach proximity for backpackers."
+      },
+      {
+        "q": "Does Oasis Koh Chang have air conditioning?",
+        "a": "Yes, air-conditioned rooms are available, though fan bungalows are the cheapest option."
+      }
+    ],
+    "urgencyLine": "Rooms at Oasis Koh Chang with pool access book out 1-2 months ahead for December-February peak — check today.",
+    "methodology": "We rated Oasis Koh Chang based on location, amenities, and value from provided data. We weighted the swimming pool highest because it's rare for budget stays on Koh Chang. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Oasis Koh Chang Review (2026)",
+    "metaDescription": "Oasis Koh Chang in Lonely Beach offers budget bungalows with a rare pool and jungle peace near backpacker bars. Steep hillside paths challenge easy access—book for solo value on Trat's island. Check rates now for your stay."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:43:01.464Z"
+}

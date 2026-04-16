@@ -1,0 +1,282 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "audience": "nightlife",
+  "neighborhoods": [
+    {
+      "name": "Patong Beach",
+      "description": "Phuket's most famous and busiest beach area. The epicenter of nightlife (Bangla Road), shopping (Jungceylon Mall), and mass tourism. The beach itself is wide but crowded, and the streets are chaotic with tuk-tuks, massage shops, and restaurants. If you want nonstop energy and the convenience of having everything at your doorstep, this is it.",
+      "bestFor": "Nightlife & first-timers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Bangla Road walking street — Phuket's nightlife epicenter",
+        "Widest range of hotels, restaurants, and tour operators on the island",
+        "Jungceylon Mall for shopping and rainy-day entertainment",
+        "Every tour operator picks up from Patong",
+        "Best public transport connections via Smart Bus"
+      ],
+      "recommendedHotels": [
+        "Lub d Phuket Patong",
+        "Beyond Patong",
+        "Millennium Resort Patong"
+      ],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "Smart Bus stop on the main road",
+        "Tuk-tuks everywhere but overpriced (400+ THB)",
+        "Walking distance to everything within Patong"
+      ],
+      "sources": [
+        {
+          "sourceName": "Bren on the Road",
+          "sourceUrl": "https://brenontheroad.com/where-to-stay-in-phuket-everything-you-need-to-know/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Surin & Bang Tao (Laguna)",
+      "description": "Phuket's upscale beach zone on the central-north west coast. Surin Beach has luxury resorts and beach clubs (including the famous Catch Beach Club at Twinpalms). Bang Tao is home to the massive Laguna Phuket resort complex with Banyan Tree, Angsana, and Outrigger properties connected by a lagoon shuttle.",
+      "bestFor": "Luxury travelers & golf lovers",
+      "priceLevel": "Luxury",
+      "highlights": [
+        "Catch Beach Club at Twinpalms — Phuket's most famous beach club",
+        "Laguna Phuket complex: golf, spa, and multiple resort brands",
+        "Beautiful beaches without the Patong crowds",
+        "Upscale dining and sunset cocktails",
+        "Gateway to quieter northern beaches (Layan, Nai Yang)"
+      ],
+      "recommendedHotels": [
+        "Twinpalms Phuket",
+        "Banyan Tree Phuket"
+      ],
+      "walkingScore": "3/10",
+      "transportNotes": [
+        "25–30 minutes from Patong by car",
+        "Own transport essential (scooter or car rental)",
+        "Laguna complex has internal shuttle boats between resorts"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Hotel Guru",
+          "sourceUrl": "https://www.thehotelguru.com/en-us/where-to-stay/phuket",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Phuket Old Town",
+      "description": "The historic heart of the island on the east coast, far from the beaches but rich in culture and cuisine. Colorful Sino-Portuguese shophouses, street art, independent cafes, museums, and the island's best local food scene. Increasingly popular with culture-focused travelers and those who want to experience the real Phuket beyond the beaches.",
+      "bestFor": "Culture lovers & foodies",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Sino-Portuguese architecture — Phuket's most photogenic streets",
+        "Sunday Walking Street Market on Thalang Road",
+        "Best and cheapest food on the island — mee hokkien, moo hong, kanom jeen",
+        "Thai Hua Museum and other cultural sites",
+        "Boutique guesthouses in restored shophouses"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": [
+        "30–40 minutes from Patong by Grab (250–350 THB)",
+        "No Smart Bus — need Grab or scooter to reach beaches",
+        "Very walkable within Old Town itself"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Routes",
+          "sourceUrl": "https://www.thailandroutes.com/en/where-to-stay-in-phuket-the-ultimate-guide-to-patong-kata-karon-old-town-and-beyond/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Cape Panwa",
+      "description": "Cape Panwa is a peninsula on Phuket's southeast coast, featuring small bays and a historic lighthouse built in 1931. The area includes a fishing village and yacht marina, with limited public beach access. It is connected to Phuket Town by a coastal road.",
+      "bestFor": "couples, honeymoon",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Cape Panwa Beach",
+        "Phuket Aquarium",
+        "Panwa Cape Lighthouse",
+        "Phuket Yacht Haven"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Taxi from Phuket Town 15-20 minutes",
+        "No direct public bus; private transfers common"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Phuket#Cape_Panwa"
+        },
+        {
+          "sourceName": "Tourism Authority of Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Attraction/cape-panwa"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Which part of Phuket has the best nightlife?",
+    "Is it better to stay in Phuket Town or Patong?",
+    "Where to stay in Phuket for travellers?",
+    "Where is the main party strip in Phuket?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Phuket neighbourhood as a nightlife traveller can leave you isolated from the action, missing out on spontaneous bar hops — most travellers end up overpaying for taxis to reach the real party zones.",
+    "intro": "Proximity to vibrant bars, clubs, and late-night spots is the single most important factor for nightlife travellers in Phuket, ensuring easy access without constant transport hassles. We ranked neighbourhoods based on nightlife density, walkability to entertainment, price accessibility, and overall vibe suitability for party-goers.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Patong Beach",
+        "why": "Epicenter of Phuket's nightlife scene"
+      },
+      {
+        "label": "Best value",
+        "name": "Phuket Old Town",
+        "why": "Affordable stays near foodie nightlife"
+      },
+      {
+        "label": "Best for beach clubs",
+        "name": "Surin & Bang Tao (Laguna)",
+        "why": "Upscale clubs with ocean views"
+      }
+    ],
+    "urgencyLine": "Phuket's peak nightlife season from November to April drives up Patong hotel rates by 50% — secure spots near Bangla Road 3-4 months in advance.",
+    "comparisonTable": [
+      {
+        "name": "Patong Beach",
+        "bestFor": "Nightlife & first-timers",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "lively touristy",
+        "drawback": "Crowded and chaotic streets"
+      },
+      {
+        "name": "Surin & Bang Tao (Laguna)",
+        "bestFor": "Luxury travelers & golf lovers",
+        "priceBand": "€€€",
+        "walkability": "Medium",
+        "vibe": "buzzing laid-back",
+        "drawback": "Higher costs limit budget options"
+      },
+      {
+        "name": "Phuket Old Town",
+        "bestFor": "Culture lovers & foodies",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "traditional local",
+        "drawback": "Far from beach nightlife hubs"
+      },
+      {
+        "name": "Cape Panwa",
+        "bestFor": "couples honeymoon",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet modern",
+        "drawback": "Limited nightlife access"
+      }
+    ],
+    "decisionGuide": [
+      "If you crave non-stop bars and clubs, choose Patong Beach.",
+      "If you prefer upscale beach club vibes, choose Surin & Bang Tao (Laguna).",
+      "If late-night street food matters most, choose Phuket Old Town.",
+      "If you are on a tight budget, avoid Cape Panwa and choose Patong Beach.",
+      "If easy walking to attractions is key, choose Phuket Old Town.",
+      "If luxury resorts with some partying appeal, choose Surin & Bang Tao (Laguna)."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Patong Beach",
+        "why": "As Phuket's nightlife epicenter with Bangla Road's endless bars and clubs, it beats Surin & Bang Tao by offering denser, more varied party options without needing transport. This makes it ideal for immersive nightlife experiences over scattered upscale spots.",
+        "drawback": "The area gets overwhelmingly crowded, especially on weekends, leading to long waits at popular venues.",
+        "skipIf": "Skip if you dislike mass tourism and prefer quieter evenings away from chaotic streets.",
+        "localSignals": [
+          "Phuket International Airport to Patong: 45-minute drive",
+          "Typical Grab taxi from airport: 800-1000 THB",
+          "Walking distance to Bangla Road: 5-10 minutes from central hotels"
+        ],
+        "travellerNote": "Travellers often praise the unbeatable energy and variety of nightlife but note the noise and touts as common hassles."
+      },
+      {
+        "rank": 2,
+        "name": "Surin & Bang Tao (Laguna)",
+        "why": "Home to trendy beach clubs like Catch Beach Club, it provides a sophisticated alternative to Patong's chaos, trading sheer volume for upscale, scenic partying that's better for those seeking relaxed yet lively nights.",
+        "drawback": "Nightlife options thin out after midnight, requiring drives to other areas for more action.",
+        "skipIf": "Skip if your budget doesn't stretch to luxury rates or if you want constant bar-hopping.",
+        "localSignals": [
+          "Phuket International Airport to Surin: 30-minute drive",
+          "Typical Grab taxi from airport: 600-800 THB",
+          "Distance to Catch Beach Club: 5 minutes walk from Surin resorts"
+        ],
+        "travellerNote": "Travellers often praise the elegant beachfront vibes but note the higher prices and limited late-night variety."
+      },
+      {
+        "rank": 3,
+        "name": "Phuket Old Town",
+        "why": "Its vibrant food scene and indie cafes extend into evening hours, offering a cultural twist on nightlife that edges out Cape Panwa by being more walkable and affordable for food-focused party-goers, though less club-oriented than Patong.",
+        "drawback": "True nightlife is subdued, with bars closing early compared to beach areas.",
+        "skipIf": "Skip if you prioritize beach clubs or high-energy dancing over cultural dining.",
+        "localSignals": [
+          "Phuket International Airport to Old Town: 40-minute drive",
+          "Typical Grab taxi from airport: 500-700 THB",
+          "Walking distance to Thalang Road: 10 minutes from central shophouses"
+        ],
+        "travellerNote": "Travellers often praise the authentic local atmosphere and cuisine but note the distance from major party strips."
+      }
+    ],
+    "topPick": "Patong Beach",
+    "topPickReason": "Patong Beach stands out for nightlife travellers due to its central location around Bangla Road, delivering the most accessible and diverse bar and club scene without compromises on energy or variety.",
+    "bookingTips": [
+      "Book 3-4 months ahead for Patong Beach hotels during high season (November-April) to avoid rate spikes near Bangla Road.",
+      "From Phuket Airport, take a metered taxi or Grab to Patong (45 minutes, 800-1000 THB) rather than overpriced private transfers.",
+      "Avoid hotels on soi side streets off Bangla Road to dodge noise from late-night revellers.",
+      "Steer clear of unregulated massage parlours on Patong's backstreets to prevent scams targeting tourists.",
+      "Opt for rooms with soundproofing in mid-range Patong spots if sensitive to party noise.",
+      "During Songkran in April, expect even more crowds in Patong — arrive early for better transport options."
+    ],
+    "methodology": "We compared Phuket neighbourhoods based on walkability, price level, transport access, and suitability for nightlife. We weighted nightlife density highest because it directly impacts spontaneous access to bars and clubs for this audience. Rankings reflect cluster data plus typical nightlife priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/areas/phuket/patong-beach/",
+      "/guides/where-to-stay/phuket/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Phuket'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Patong Beach'"
+    ],
+    "faq": [
+      {
+        "q": "Which part of Phuket has the best nightlife?",
+        "a": "Patong Beach hosts Phuket's top nightlife with Bangla Road's bars and clubs; choose it for the most vibrant scene over quieter areas like Cape Panwa."
+      },
+      {
+        "q": "Is it better to stay in Phuket Town or Patong?",
+        "a": "For nightlife, Patong beats Phuket Old Town (Phuket Town) with direct access to party strips, while Old Town suits calmer evenings with food focus."
+      },
+      {
+        "q": "Where to stay in Phuket for travellers?",
+        "a": "Nightlife travellers should base in Patong Beach for easy bar access; consider Surin & Bang Tao (Laguna) for upscale beach club alternatives."
+      },
+      {
+        "q": "Where is the main party strip in Phuket?",
+        "a": "Bangla Road in Patong Beach is Phuket's main party strip, packed with bars and clubs — stay nearby to walk to the action."
+      },
+      {
+        "q": "Best area for late-night food in Phuket?",
+        "a": "Phuket Old Town offers the best late-night street food scene among nightlife spots, complementing Patong's bars without the crowds."
+      }
+    ],
+    "metaTitle": "Where to Stay in Phuket for Nightlife (2026)",
+    "metaDescription": "Discover top Phuket neighbourhoods for nightlife travellers: Patong Beach for buzzing bars, Surin for beach clubs. Compare areas and see our picks for…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:34:34.405Z"
+}

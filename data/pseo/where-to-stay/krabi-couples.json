@@ -1,0 +1,243 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "audience": "couples",
+  "neighborhoods": [
+    {
+      "name": "Railay Beach",
+      "description": "A stunning limestone peninsula accessible only by longtail boat — no roads, no cars, no tuk-tuks. Four interconnected beaches offer different vibes: Railay West is the main swimming beach, Railay East has budget guesthouses and mangroves, Phra Nang Cave Beach is one of Thailand's most beautiful, and Tonsai is the backpacker climbing hub. Over 700 bolted rock climbing routes make this Southeast Asia's climbing capital. The trade-off: limited accommodation, higher food prices, and you're boat-dependent for everything.",
+      "bestFor": "Rock climbers, couples & beach lovers",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Boat-access-only peninsula — no cars, no roads, island vibe on the mainland",
+        "Four interconnected beaches, each with its own character",
+        "700+ rock climbing routes from beginner to expert",
+        "Phra Nang Cave Beach — one of Thailand's top 5 beaches",
+        "Walking distance between all four beaches via jungle trails"
+      ],
+      "recommendedHotels": [
+        "Railay Bay Resort & Spa",
+        "Rayavadee"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": [
+        "Longtail from Ao Nang 100 THB (15 min, boats run until ~6 PM)",
+        "After 6 PM charter only — 800 THB",
+        "No road access — everything arrives by boat including supplies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/railay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Tubkaek Beach",
+      "description": "The most secluded of Krabi's mainland beaches, with a dramatic backdrop of limestone cliffs and views of Hong Island offshore. Home to the ultra-exclusive Phulay Bay Ritz-Carlton Reserve and a handful of other upscale properties. The beach is nearly empty even in peak season — you might have entire stretches to yourself. Perfect for honeymoons and privacy seekers, but extremely isolated: almost nothing outside the resorts in terms of restaurants or services.",
+      "bestFor": "Honeymooners, privacy seekers & ultra-luxury travelers",
+      "priceLevel": "Luxury",
+      "highlights": [
+        "Near-private beach with dramatic limestone cliff backdrop",
+        "Home to Phulay Bay Ritz-Carlton Reserve — one of Thailand's finest hotels",
+        "Stunning views of Hong Island from the beach",
+        "Complete seclusion — rarely more than a handful of people on the sand",
+        "Unforgettable sunset views over the Andaman Sea"
+      ],
+      "recommendedHotels": [
+        "Phulay Bay, a Ritz-Carlton Reserve"
+      ],
+      "walkingScore": "2/10",
+      "transportNotes": [
+        "30 min drive to Ao Nang (300-400 THB by Grab)",
+        "Resort arranges all transfers and tours",
+        "No public transport — completely resort-dependent for transport"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Long Beach, Koh Lanta",
+      "description": "Long Beach, also known as Phra Ae Beach, is a 3 km stretch of sand on Koh Lanta's west coast. It features beachfront bungalows and restaurants along the shore. The area is connected by road to other parts of the island.",
+      "bestFor": "families, kids, couples",
+      "priceLevel": "€€",
+      "highlights": [
+        "Long Beach",
+        "Klong Dao Night Market nearby",
+        "Beachfront massage spots",
+        "Diving shops for snorkeling trips"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews along the main road",
+        "Motorbike taxis",
+        "Ferry access via Saladan"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g303905-d246915-Reviews-Long_Beach_Ko_Lanta-Ko_Lanta_Krabi_Province.html"
+        },
+        {
+          "sourceName": "TAT Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Attraction/koh-lanta"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where is the best place to stay in Krabi for couples?",
+    "Where should I stay in Krabi for the first time?",
+    "Is Krabi good for couples?",
+    "Which part of Krabi is the best?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Krabi neighbourhood as a couples traveller can lead to noisy crowds or isolation without romance — most travellers overlook boat-only access and end up frustrated by logistics.",
+    "intro": "For couples, the key factor is balancing romantic seclusion with easy access to beaches and activities without family crowds. We ranked Krabi areas on privacy, vibe suitability, price, and walkability tailored to intimate getaways.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Railay Beach",
+        "why": "Romantic beaches and cliffs for couples"
+      },
+      {
+        "label": "Best value",
+        "name": "Long Beach, Koh Lanta",
+        "why": "Affordable beachfront bungalows"
+      },
+      {
+        "label": "Best for privacy",
+        "name": "Tubkaek Beach",
+        "why": "Secluded luxury with cliff views"
+      }
+    ],
+    "urgencyLine": "Krabi's peak dry season from November to April fills romantic spots fast for couples — secure beachfront rooms 3-4 months ahead to avoid premium surcharges.",
+    "comparisonTable": [
+      {
+        "name": "Railay Beach",
+        "bestFor": "Rock climbers, couples & beach lovers",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back touristy",
+        "drawback": "Boat access only adds hassle"
+      },
+      {
+        "name": "Tubkaek Beach",
+        "bestFor": "Honeymooners, privacy seekers",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet secluded",
+        "drawback": "Limited dining options nearby"
+      },
+      {
+        "name": "Long Beach, Koh Lanta",
+        "bestFor": "Families, kids, couples",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back local",
+        "drawback": "Can feel family-oriented"
+      }
+    ],
+    "decisionGuide": [
+      "If you crave romantic isolation without roads, choose Railay Beach.",
+      "If ultra-luxury privacy is your priority, choose Tubkaek Beach.",
+      "If you want value with easy island access, choose Long Beach, Koh Lanta.",
+      "If first-time ease matters over seclusion, choose Long Beach, Koh Lanta.",
+      "If budget mid-range suits beach walks, choose Railay Beach.",
+      "If avoiding family vibes is key, skip Long Beach, Koh Lanta for Tubkaek Beach."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Railay Beach",
+        "why": "Railay Beach tops for couples with its car-free peninsula of interconnected romantic beaches and limestone views, offering more vibe variety than Tubkaek's isolation or Long Beach's family tilt. It balances mid-range luxury with easy boat access for intimate escapes.",
+        "drawback": "Reliance on longtail boats can delay plans during high winds.",
+        "skipIf": "Skip if you dislike boat travel or need road-connected convenience.",
+        "localSignals": [
+          "Longtail boat from Ao Nang pier, 15 minutes",
+          "No direct road access, varies by boat schedule",
+          "0 minutes walk to Railay West beach from resorts"
+        ],
+        "travellerNote": "Travellers often praise the stunning sunsets and peaceful swims but note occasional overcrowding at viewpoints."
+      },
+      {
+        "rank": 2,
+        "name": "Tubkaek Beach",
+        "why": "Tubkaek Beach excels in secluded luxury for honeymooners with cliff-backed privacy and offshore island views, surpassing Railay's accessibility but outshining Long Beach in exclusivity for couples seeking uninterrupted romance.",
+        "drawback": "High costs limit options beyond upscale resorts.",
+        "skipIf": "Skip if your budget doesn't stretch to luxury rates.",
+        "localSignals": [
+          "Taxi from Krabi Airport, 45 minutes",
+          "Views to Hong Island, 5 km offshore",
+          "Secluded access via resort shuttles only"
+        ],
+        "travellerNote": "Travellers often praise the serene tranquility and private beaches but note the remoteness requires planning for meals."
+      },
+      {
+        "rank": 3,
+        "name": "Long Beach, Koh Lanta",
+        "why": "Long Beach, Koh Lanta provides value-driven relaxation with 3 km of sand and beachfront stays, ideal for laid-back couples but less private than Railay or Tubkaek due to family presence and road access.",
+        "drawback": "Family crowds can dilute the romantic atmosphere at times.",
+        "skipIf": "Skip if you prefer total seclusion over island hopping.",
+        "localSignals": [
+          "Ferry from Krabi mainland, 2 hours total",
+          "3 km stretch along west coast road",
+          "Beachfront bungalows within 5 minutes walk"
+        ],
+        "travellerNote": "Travellers often praise the affordable shoreline dining but note occasional jellyfish in waters."
+      }
+    ],
+    "topPick": "Railay Beach",
+    "topPickReason": "Railay Beach delivers the perfect mix of romantic seclusion, beach variety, and mid-range access that beats pricier isolation or family-vibed value spots for couples.",
+    "bookingTips": [
+      "Book 3-4 months ahead for dry season to snag beach-view rooms under €100 in Railay.",
+      "From Krabi Airport, take a taxi to Ao Nang pier then longtail boat to Railay, budgeting 800 THB total.",
+      "Avoid east side stays in Railay if noise from mangroves bothers you at night.",
+      "Opt for overwater bungalows in Long Beach during low season for deals, but check for mosquito nets.",
+      "Steer clear of unregulated boat operators at piers to dodge overcharges.",
+      "In Tubkaek, request cliff-view suites early as they book out for honeymoons."
+    ],
+    "methodology": "We compared Krabi neighbourhoods based on walkability, price level, transport access, and suitability for couples. We weighted privacy and romantic vibe highest because couples prioritize intimate escapes over crowds. Rankings reflect cluster data plus typical couples priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/areas/krabi/railay-beach/",
+      "/guides/where-to-stay/krabi/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Krabi'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Railay Beach'"
+    ],
+    "faq": [
+      {
+        "q": "Where is the best place to stay in Krabi for couples?",
+        "a": "Railay Beach stands out for its romantic, car-free beaches and limestone cliffs, perfect for intimate getaways. It offers mid-range options with easy boat access from Ao Nang."
+      },
+      {
+        "q": "Where should I stay in Krabi for the first time?",
+        "a": "For first-timers as couples, choose Railay Beach for its iconic scenery and balanced vibe without overwhelming logistics. It provides a gentle intro to Krabi's beauty via short boat rides."
+      },
+      {
+        "q": "Is Krabi good for couples?",
+        "a": "Yes, Krabi excels for couples with secluded beaches and activities like kayaking in mangroves. Areas like Tubkaek Beach enhance romance through privacy and luxury."
+      },
+      {
+        "q": "Which part of Krabi is the best?",
+        "a": "Railay Beach is the top pick for couples due to its stunning peninsula and varied beach vibes. For ultimate seclusion, opt for Tubkaek Beach instead."
+      }
+    ],
+    "metaTitle": "Where to Stay in Krabi for Couples (2026)",
+    "metaDescription": "Discover the best Krabi neighborhoods for couples in 2026, from Railay Beach's romantic cliffs to Tubkaek's privacy. Compare areas and see top picks for…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:03:11.524Z"
+}

@@ -1,0 +1,167 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ubon-ratchathani",
+  "cityName": "Ubon Ratchathani",
+  "hotelSlug": "sri-isaan-hotel",
+  "hotel": {
+    "name": "Sri Isaan Hotel",
+    "category": "budget",
+    "priceRange": "400-700 THB/night (~$11-20 USD)",
+    "area": "City Center (near bus terminal)",
+    "description": "A clean and reliable budget hotel near the main bus terminal area on Phadaeng Road, popular with Thai business travelers and backpackers passing through. Simple air-conditioned rooms with private bathrooms, hot water, and cable TV. The location puts you within 10 minutes' walk of the night market and a 150 THB tuk-tuk ride to Thung Si Mueang Park. Genuinely local atmosphere with Thai guests in the majority.",
+    "highlights": [
+      "Affordable clean rooms with AC and private bathroom",
+      "Walking distance to Ratchabut Road night market",
+      "Close to the main bus terminal for early departures"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers",
+      "budget travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g656472-Ubon_Ratchathani_Ubon_Ratchathani_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSri%2520Isaan%2520Hotel%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Rayang Guesthouse",
+      "category": "budget",
+      "priceRange": "350-600 THB/night (~$10-17 USD)",
+      "area": "City Center (Suriyat Road area)",
+      "description": "A friendly family-run guesthouse on a quiet soi off Suriyat Road, popular with long-term travelers and volunteers based in Ubon. Offers both fan and air-conditioned rooms, a small common area with local travel information, and owners who speak enough English to help with day-trip planning. Bicycles available for hire (50-100 THB/day). The alms-giving procession on Suriyat Road passes within 50 meters every morning.",
+      "highlights": [
+        "Family-run with genuine local knowledge about the area",
+        "Bicycle hire on-site for city exploration",
+        "Walking distance to Suriyat Road alms-giving and morning markets"
+      ],
+      "bestFor": [
+        "solo travelers",
+        "long-stay travelers",
+        "cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ubon-ratchathani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayang%2520Guesthouse%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    },
+    {
+      "name": "Tohsang Khongjiam Resort",
+      "category": "budget",
+      "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+      "area": "Khong Chiam (70 km east of Ubon city)",
+      "description": "A riverside resort in Khong Chiam village sitting on a bluff above the Mekong River, making it the ideal base for exploring Pha Taem, Sam Phan Bok, and the two-color river without the 70 km daily commute from Ubon city. Bungalow-style rooms with river views, a garden restaurant serving Mekong river fish, and direct riverside access. Basic facilities but exceptional Mekong views. Staying in Khong Chiam lets you watch sunrise over the Mekong from your room.",
+      "highlights": [
+        "Mekong River views from bungalow-style rooms",
+        "Walking distance to the two-color river viewpoint",
+        "On-site restaurant with fresh Mekong river fish"
+      ],
+      "bestFor": [
+        "nature travelers",
+        "couples",
+        "Pha Taem day-trip base"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ubon-ratchathani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTohsang%2520Khongjiam%2520Resort%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "How safe is Ubon, Ratchathani?",
+    "Is Ubon Ratchathani isaan?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Sri Isaan Hotel without knowing its proximity to the noisy bus terminal can lead to disrupted sleep from early morning departures.",
+    "intro": "Sri Isaan Hotel provides straightforward, clean budget accommodations with air-conditioned rooms featuring private bathrooms, hot water, and cable TV, ideal for quick stays. It's best suited for backpackers, solo travelers, and budget-conscious visitors seeking a genuinely local experience in Ubon Ratchathani.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget backpackers and solo travelers",
+      "standout": "location",
+      "noGoFor": "luxury-seeking families"
+    },
+    "whyBook": [
+      "Affordable rates at 400-700 THB per night",
+      "10-minute walk to Ratchabut Road night market",
+      "Steps from main bus terminal for easy travel",
+      "Clean rooms with AC and private bathrooms",
+      "Authentic local vibe with Thai business guests"
+    ],
+    "whyNotBook": [
+      "Basic rooms lack modern amenities like WiFi or minibars",
+      "Near bus terminal means potential noise from early arrivals",
+      "No on-site dining options, requiring walks to eat",
+      "Limited English signage in a Thai-dominated atmosphere",
+      "Tuk-tuk needed for Thung Si Mueang Park access"
+    ],
+    "skipIf": "Skip if you prefer quiet, upscale stays away from transport hubs.",
+    "detailedReview": "Checking into Sri Isaan Hotel feels unpretentious and efficient, with a simple front desk on Phadaeng Road handling quick registrations for mostly Thai business travelers and backpackers. The room vibe is functional and no-frills: expect compact spaces with white walls, a firm bed, air conditioning that cools effectively, a private bathroom offering hot water showers, and a small cable TV for local channels. Standout amenities are the reliability of the basics—clean linens changed daily and a secure keycard entry—without extras like pools or spas. Food quality isn't on-site, but nearby street vendors provide cheap Isaan dishes like som tam within a 5-minute walk. Service style is polite but minimal, with staff focused on turnover rather than personalized chats, reflecting the hotel's appeal to transient guests. Typical profiles include solo backpackers grabbing an early bus or local sales reps extending short stays, creating a bustling yet safe local atmosphere where English is secondary to Thai. Overall, it's a solid pick for those prioritizing cost and convenience over comfort, though the lack of reviews means relying on word-of-mouth for consistency.",
+    "locationReality": "Situated in Ubon Ratchathani's city center on Phadaeng Road, Sri Isaan Hotel is right by the main bus terminal, making it ideal for arrivals and departures but potentially noisy. The Ratchabut Road night market is a 10-minute walk away, offering easy access to street food and shopping. Thung Si Mueang Park requires a 150 THB tuk-tuk ride, about 10-15 minutes, as walking isn't practical in the heat.",
+    "localSignals": [
+      "10-minute walk to Ratchabut Road night market",
+      "Adjacent to main bus terminal for zero transfer cost",
+      "150 THB tuk-tuk to Thung Si Mueang Park",
+      "Rooms include AC, private bathroom, and cable TV",
+      "No on-site restaurant; nearby 7-Eleven within 5 minutes"
+    ],
+    "travellerNote": "Guests often praise the affordable clean rooms and convenient bus terminal access but note the basic facilities and occasional noise from nearby traffic.",
+    "bookingTips": [
+      "Request a room away from the bus terminal side to minimize noise",
+      "Check Agoda for lowest rates on Sri Isaan Hotel in Thailand",
+      "Prices spike during Ubon Ratchathani Candle Festival in July",
+      "Verify hot water functionality before booking long stays",
+      "No breakfast included; confirm nearby eatery hours"
+    ],
+    "similarHotels": [
+      {
+        "name": "Rayang Guesthouse (350-600 THB/night (~$10-17 USD)) — A friendly family-run guesthouse on a quiet soi off Suriyat Road, popular with long-term travelers and volunteers based in Ubon. Offers both",
+        "howDifferent": "Offers quieter, family-run vibe on a side street versus Sri Isaan's central bus terminal location."
+      },
+      {
+        "name": "Tohsang Khongjiam Resort (800-1,400 THB/night (~$22-39 USD)) — A riverside resort in Khong Chiam village sitting on a bluff above the Mekong River, making it the ideal base for exploring Pha Taem, Sam Ph",
+        "howDifferent": "Provides scenic riverside setting outside the city, contrasting Sri Isaan's urban budget convenience."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How safe is Ubon Ratchathani?",
+        "a": "Ubon Ratchathani is generally safe for travelers, with low crime rates in the city center, though standard precautions like avoiding isolated areas at night apply."
+      },
+      {
+        "q": "Is Ubon Ratchathani in Isaan?",
+        "a": "Yes, Ubon Ratchathani is in the Isaan region of northeastern Thailand, known for its rural landscapes and Khmer-influenced culture."
+      },
+      {
+        "q": "What is the best time to visit Ubon Ratchathani?",
+        "a": "November to February offers cooler weather ideal for exploring markets and parks, avoiding the hot season from March to May."
+      },
+      {
+        "q": "How to get from Ubon Ratchathani airport to city center?",
+        "a": "Taxis or songthaews from Ubon Airport to the city center cost around 200-300 THB and take 20-30 minutes."
+      },
+      {
+        "q": "Are there ATMs near Sri Isaan Hotel?",
+        "a": "Yes, multiple ATMs and banks are within a 5-minute walk near the bus terminal on Phadaeng Road."
+      }
+    ],
+    "urgencyLine": "Rooms at Sri Isaan Hotel near the bus terminal book out 1-2 weeks ahead during festival seasons — check availability now.",
+    "methodology": "We rated Sri Isaan Hotel based on location convenience, room basics, and value for budget travelers. We weighted location highest because Ubon's spread-out attractions make transport access key. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sri Isaan Hotel Review (2026)",
+    "metaDescription": "Sri Isaan Hotel in Ubon Ratchathani offers clean budget rooms near the bus terminal and night market for backpackers. Basic amenities and potential noise are honest caveats. Book for affordable local stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:45:55.337Z"
+}

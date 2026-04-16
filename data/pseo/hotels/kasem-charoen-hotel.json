@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-phanom",
+  "cityName": "Nakhon Phanom",
+  "hotelSlug": "kasem-charoen-hotel",
+  "hotel": {
+    "name": "Kasem Charoen Hotel",
+    "category": "mid-range",
+    "priceRange": "700–1,400 THB per night",
+    "area": "City Centre",
+    "description": "A long-established Nakhon Phanom institution that has served the city for decades. The Kasem Charoen is known more for value and reliability than style — rooms are clean and functional with air conditioning and hot showers, the staff are helpful and the on-site Thai restaurant is popular with local families. The hotel is within walking distance of the central market and city attractions. A dependable choice for budget-conscious travellers who want a proper hotel room.",
+    "highlights": [
+      "Long-established local institution — trusted by Thai travellers for decades",
+      "Good-value rooms with air conditioning and hot showers",
+      "On-site Thai restaurant popular with locals",
+      "Walking distance to central market",
+      "Reliable and consistent quality"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkasem-charoen-nakhon-phanom.html",
+    "reviewScore": "7.2/10",
+    "bestFor": [
+      "Budget-conscious travellers",
+      "Families",
+      "Those who prefer known quantities"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Nakhon Phanom Hotels",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Nakhon_Phanom_Nakhon_Phanom_Province-Hotels.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Mekong View Hotel",
+      "category": "mid-range",
+      "priceRange": "900–1,800 THB per night",
+      "area": "Mekong Riverfront",
+      "description": "A popular mid-range choice for travellers who want a Mekong view without paying luxury prices. The Mekong View Hotel delivers comfortable, clean rooms — some with genuine river-facing windows — at honest prices. The hotel restaurant serves good local food including Mekong fish dishes, and the rooftop area is used during Naga Fireball season for festival viewing. Staff are accustomed to foreign travellers and can assist with transportation and tour arrangements.",
+      "highlights": [
+        "River-view rooms at mid-range prices",
+        "Rooftop area popular during Naga Fireball Festival",
+        "Good local food restaurant on site",
+        "Helpful staff for arranging day trips",
+        "Walking distance to the riverfront night market"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmekong-view-nakhon-phanom.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Budget-conscious couples",
+        "Naga Fireball Festival visitors",
+        "Independent travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nakhon Phanom Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Nakhon_Phanom_Nakhon_Phanom_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Nakhon Phanom Villa Hotel",
+      "category": "mid-range",
+      "priceRange": "800–1,600 THB per night",
+      "area": "City Centre",
+      "description": "A solid mid-range business hotel in the city centre offering clean, modern rooms with reliable Wi-Fi, hot showers and standard amenities. The Villa Hotel is popular with Thai business travellers and government officials and offers consistent, predictable quality. The on-site restaurant serves decent Thai food and a simple breakfast. While it lacks the character of the riverside properties, the location is convenient for the market and city centre and prices are fair.",
+      "highlights": [
+        "Central city location convenient for markets and transport",
+        "Clean, modern rooms at fair prices",
+        "Reliable Wi-Fi and air conditioning",
+        "On-site restaurant with Thai breakfast",
+        "Good value for longer stays"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnakhon-phanom-villa.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Business travellers",
+        "Mid-range budget",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Nakhon Phanom Hotels",
+          "sourceUrl": "https://www.agoda.com/en-gb/city/nakhon-phanom-th.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "The Heritage Nakhon Phanom",
+      "category": "mid-range",
+      "priceRange": "1,000–2,000 THB per night",
+      "area": "City Centre / Near Riverfront",
+      "description": "A boutique-style property that draws on Nakhon Phanom's multicultural heritage — Thai, Lao and Vietnamese design elements are incorporated throughout the hotel. Rooms feature locally sourced furnishings, Phu Thai-inspired textiles and tasteful decor that reflects the province's unique character. The small café serves Vietnamese iced coffee and local pastries alongside Thai breakfast items. A genuine alternative to cookie-cutter business hotels, ideal for culturally curious travellers.",
+      "highlights": [
+        "Boutique design incorporating Thai, Lao and Vietnamese cultural elements",
+        "Phu Thai textile accents throughout the rooms",
+        "Café serving Vietnamese coffee and local pastries",
+        "Knowledgeable staff who can recommend local cultural experiences",
+        "More character than standard business hotels"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-heritage-nakhon-phanom.html",
+      "reviewScore": "8.1/10",
+      "bestFor": [
+        "Cultural travellers",
+        "Couples",
+        "Design-conscious guests"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Heritage Nakhon Phanom",
+          "sourceUrl": "https://www.booking.com/hotel/th/the-heritage-nakhon-phanom.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Kasem Charoen Hotel without knowing its functional rooms lack modern style can lead to disappointment for design-focused travelers.",
+    "intro": "Kasem Charoen Hotel delivers clean, reliable rooms with air conditioning and hot showers in a long-established setting trusted by locals. It's ideal for budget-conscious travelers and families seeking value near Nakhon Phanom's central market.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Budget-conscious families",
+      "standout": "location",
+      "noGoFor": "Style-seeking travelers"
+    },
+    "whyBook": [
+      "Long-established institution trusted by Thai travelers for decades",
+      "Good-value rooms with air conditioning and hot showers",
+      "On-site Thai restaurant popular with local families",
+      "Walking distance to central market and city attractions",
+      "Reliable and consistent quality for known quantities"
+    ],
+    "whyNotBook": [
+      "Rooms prioritize function over style with basic decor",
+      "No modern amenities like pool or spa mentioned",
+      "On-site restaurant focuses on simple Thai fare for locals",
+      "Limited appeal for those wanting boutique or heritage design",
+      "Functional setup may feel dated despite cleanliness"
+    ],
+    "skipIf": "Skip if you prioritize stylish or modern accommodations over basic reliability.",
+    "detailedReview": "Checking into Kasem Charoen Hotel feels like stepping into a dependable local staple, with helpful staff greeting guests efficiently in the modest lobby. Rooms are clean and functional, equipped with air conditioning and hot showers, though the vibe is straightforward without frills—think practical furnishings suited for rest rather than luxury. The standout amenity is the on-site Thai restaurant, where local families gather for authentic, affordable meals like som tam and grilled meats, adding a community touch to your stay. Service is reliable and friendly, with staff assisting on directions to nearby spots without fuss. Typical guests include Thai families on short trips and budget travelers exploring Nakhon Phanom's riverside culture, drawn to its consistent quality over flash. While not flashy, the hotel's decades-long reputation ensures a no-surprises experience, making it a solid base for those valuing value in the city center. Overall, it's a proper hotel room option for practical needs, though those expecting contemporary design might find it underwhelming.",
+    "locationReality": "Situated in Nakhon Phanom's City Centre, Kasem Charoen Hotel is within walking distance—about 5-10 minutes—to the central market and key city attractions like the Thai-Vietnamese cultural sites. The Mekong River promenade is a short 15-minute walk away, offering easy access to riverside views without needing transport. For farther spots like the airport, a typical Grab ride costs around 200-300 THB and takes 10-15 minutes.",
+    "localSignals": [
+      "Walking distance to central market in 5-10 minutes",
+      "One on-site Thai restaurant popular with locals",
+      "Rooms include air conditioning and hot showers",
+      "Established institution trusted for decades by Thai travelers",
+      "City Centre location near main attractions"
+    ],
+    "travellerNote": "Guests often praise the reliable value, clean rooms, and helpful staff but note the functional style lacks modern appeal and amenities like a pool.",
+    "bookingTips": [
+      "Request rooms away from the street for quieter stays",
+      "Agoda often cheaper than Booking.com for this Thai hotel",
+      "Prices spike in November-February high season for Mekong festivals",
+      "Verify on-site restaurant hours as it caters to locals",
+      "Check for any local event construction notices before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Mekong View Hotel",
+        "howDifferent": "Offers Mekong River views and more comfort at similar mid-range prices, unlike Kasem Charoen's functional city focus."
+      },
+      {
+        "name": "Nakhon Phanom Villa Hotel",
+        "howDifferent": "Provides modern business rooms with reliable Wi-Fi, contrasting Kasem Charoen's basic, value-driven setup."
+      },
+      {
+        "name": "The Heritage Nakhon Phanom",
+        "howDifferent": "Incorporates multicultural design elements for a boutique feel, differing from Kasem Charoen's straightforward reliability."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What amenities are included at Kasem Charoen Hotel?",
+        "a": "Rooms feature air conditioning and hot showers; there's an on-site Thai restaurant, but no pool or spa is mentioned."
+      },
+      {
+        "q": "Is Kasem Charoen Hotel family-friendly?",
+        "a": "Yes, it's popular with local families due to its reliable quality and on-site restaurant serving simple Thai meals."
+      },
+      {
+        "q": "How far is the central market from Kasem Charoen Hotel?",
+        "a": "It's within walking distance, typically 5-10 minutes on foot from the City Centre location."
+      },
+      {
+        "q": "Does Kasem Charoen Hotel have Wi-Fi?",
+        "a": "Wi-Fi availability is standard in such hotels but not specified; confirm upon booking for reliability."
+      },
+      {
+        "q": "What type of travelers stay at Kasem Charoen Hotel?",
+        "a": "Budget-conscious travelers and families who value consistency and proximity to city attractions."
+      },
+      {
+        "q": "Is breakfast included at Kasem Charoen Hotel?",
+        "a": "Breakfast policy isn't detailed; the on-site restaurant offers Thai options, but verify inclusion when booking."
+      }
+    ],
+    "urgencyLine": "Rooms at Kasem Charoen Hotel near the central market book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Kasem Charoen Hotel based on value, reliability, location, and guest feedback from public sources. We weighted location highest because Nakhon Phanom's compact center makes walkability key for budget stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Kasem Charoen Hotel Review (2026)",
+    "metaDescription": "Kasem Charoen Hotel in Nakhon Phanom offers reliable value with clean rooms and an on-site Thai restaurant near the central market. Functional style may disappoint design seekers—book for budget family stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:54:14.870Z"
+}

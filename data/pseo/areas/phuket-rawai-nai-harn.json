@@ -1,0 +1,165 @@
+{
+  "template": "area-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "areaSlug": "rawai-nai-harn",
+  "areaName": "Rawai & Nai Harn",
+  "neighborhood": {
+    "name": "Rawai & Nai Harn",
+    "description": "The southern tip of Phuket with a distinctly local flavor. Rawai has no swimming beach but has the island's best seafood market and a community of long-stay expats. Nai Harn, 5 minutes away, has one of Phuket's most beautiful beaches backed by a Buddhist monastery. Quieter, more authentic, and significantly cheaper than the west coast tourist areas.",
+    "bestFor": "Long-stayers & food lovers",
+    "priceLevel": "Budget to Mid-Range",
+    "highlights": [
+      "Rawai Seafood Market — buy-and-cook fresh seafood at local prices",
+      "Nai Harn Beach — one of Phuket's prettiest and least developed beaches",
+      "Promthep Cape sunset viewpoint 5 minutes away",
+      "Strong expat community with monthly rental apartments",
+      "Local prices for food, massage, and daily expenses"
+    ],
+    "recommendedHotels": [
+      "The Nai Harn"
+    ],
+    "walkingScore": "4/10",
+    "transportNotes": [
+      "30–40 minutes from Patong",
+      "Own transport essential",
+      "Monthly scooter rentals popular with long-stayers (3,000–4,000 THB/month)"
+    ],
+    "sources": [
+      {
+        "sourceName": "Phuket Insider",
+        "sourceUrl": "https://phuket-insider.com/en/blog/14-popular-districts-of-phuket-how-to-choose/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "The Nai Harn",
+      "category": "luxury",
+      "priceRange": "7,000–15,000 THB/night (~$196–420 USD)",
+      "area": "Nai Harn Beach",
+      "description": "Phuket's only luxury hotel overlooking Nai Harn Beach — one of the island's prettiest and least developed beaches. Infinity pool with sea views, rooftop bar, and spacious rooms with floor-to-ceiling windows. A tranquil alternative to the Patong resort scene.",
+      "highlights": [
+        "Only luxury hotel on Nai Harn Beach",
+        "Infinity pool with Andaman Sea views",
+        "Rooftop bar with sunset panoramas"
+      ],
+      "bestFor": [
+        "couples",
+        "relaxation seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/Hotels-g293920-zff10-Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Nai%2520Harn%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Patong Beach",
+    "Kata Beach",
+    "Karon Beach",
+    "Surin & Bang Tao (Laguna)",
+    "Phuket Old Town"
+  ],
+  "paaQuestions": [
+    "Is Rawai, Phuket a good place to stay?",
+    "How far is Rawai from Nai Harn?",
+    "Where is the nicest part of Phuket to stay?",
+    "Is the nai harn good?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Rawai & Nai Harn can strand you far from Nai Harn Beach without a scooter — most first-timers skip rentals and end up relying on pricey taxis.",
+    "intro": "Rawai & Nai Harn stand out at Phuket's southern tip for their local flavor, with Rawai's seafood market drawing food lovers and Nai Harn's pristine beach attracting long-stayers seeking authenticity over crowds. We ranked this area high for budget-mid-range value, expat community ties, and access to uncrowded spots like Promthep Cape.",
+    "vibe": "Laid-back + local",
+    "quickStats": {
+      "priceBand": "€-€€",
+      "walkability": "Low",
+      "bestFor": "Long-stayers & food lovers",
+      "safetyNote": "Safe, low-key expat area."
+    },
+    "detailedDescription": "In Rawai, mornings start with locals and expats haggling at the seafood market, where fishermen unload the day's catch and vendors grill squid on-site for under 100 THB. The streets are lined with small Thai eateries serving som tam and fresh fish curries, mixed with expat-run cafes offering Western breakfasts. Daytime feels relaxed, with retirees on morning walks and scooter traffic picking up around noon as workers head to nearby shops. Nai Harn, just a 5-minute drive away, shifts to beach mode: families picnic on the soft sand, backed by a quiet Buddhist monastery where monks chant at dawn. Evenings in Rawai bring a low hum of motorbikes and chatter from beachside bars, but noise stays minimal compared to Patong—no thumping clubs, just occasional live music at expat haunts. Foodies thrive here, sourcing prawns from the market to cook in monthly apartment rentals, while daily expenses like 50 THB massages keep costs down. Getting around requires your own wheels; without a scooter, you're taxi-dependent for the 30-40 minute trek to Patong, but the expat community shares tips on reliable rental spots. Long-stayers settle into a routine of beach swims, market runs, and sunset views from Promthep Cape, feeling more like residents than tourists in this unpretentious pocket.",
+    "localSignals": [
+      "No BTS/MRT on Phuket; nearest is Phuket International Airport, 45-60 min taxi.",
+      "Grab/taxi from Phuket Airport to Rawai: 800-1,000 THB, 45-60 minutes.",
+      "Nai Harn Beach: 5 minutes drive from Rawai center.",
+      "Noise level at night: quiet, minimal traffic after 10pm.",
+      "Nearest 7-Eleven: in Rawai village, 2-5 min walk from most guesthouses."
+    ],
+    "pros": [
+      "Fresh seafood at local prices from Rawai Market.",
+      "Nai Harn Beach: pretty, uncrowded swims.",
+      "Strong expat community for long-stay tips.",
+      "Cheaper food and massages than west coast.",
+      "Quick access to Promthep Cape sunsets."
+    ],
+    "cons": [
+      "Rawai has no swimming beach, just rocky shores.",
+      "Own transport essential, no walkable core.",
+      "30-40 min drive to Patong nightlife.",
+      "Limited public buses, scooter rental needed.",
+      "Rainy season floods low-lying Rawai roads."
+    ],
+    "skipIf": "Skip if you prefer walkable beaches and nightlife without needing a scooter.",
+    "stayRecommendations": [
+      {
+        "name": "The Nai Harn",
+        "why": "This luxury spot overlooks Nai Harn Beach, blending high-end infinity pool views with the area's quiet authenticity for long-stayers seeking upscale comfort near the monastery."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Patong Beach",
+        "shortPitch": "Patong buzzes with nightlife and crowded beaches, unlike Rawai & Nai Harn's calm local vibe and lack of party scenes.",
+        "recommendFor": "Party-goers & short-stay tourists"
+      },
+      {
+        "areaName": "Kata Beach",
+        "shortPitch": "Kata offers more developed beaches and shops with easier walking, contrasting Rawai & Nai Harn's need for transport and expat focus.",
+        "recommendFor": "Families & mid-range beach lovers"
+      },
+      {
+        "areaName": "Phuket Old Town",
+        "shortPitch": "Old Town delivers walkable Sino-Portuguese streets and history, differing from Rawai & Nai Harn's beach-market emphasis and southern isolation.",
+        "recommendFor": "Culture seekers & walkers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the authentic seafood deals and serene Nai Harn Beach but note the transport challenges and distance from main tourist hubs.",
+    "faq": [
+      {
+        "q": "Is Rawai, Phuket a good place to stay?",
+        "a": "Yes, for long-stayers and food lovers seeking local flavor and budget prices, but skip if you need walkable beaches—opt for scooter rentals to reach Nai Harn."
+      },
+      {
+        "q": "How far is Rawai from Nai Harn?",
+        "a": "Just 5 minutes by scooter or taxi, making them easy to combine for stays focused on both the seafood market and the beach."
+      },
+      {
+        "q": "Where is the nicest part of Phuket to stay?",
+        "a": "Nai Harn edges out as one of Phuket's nicest for its pretty, least-developed beach; stay here if you want quiet over Patong's crowds."
+      },
+      {
+        "q": "Is the Nai Harn good?",
+        "a": "Nai Harn Beach is excellent for calm swims and picnics, backed by a monastery—ideal for relaxed days, though access requires transport from Rawai."
+      },
+      {
+        "q": "Is Rawai safe for tourists?",
+        "a": "Rawai is safe with a low-key expat presence, but watch for scooter traffic and use reputable rentals to avoid mishaps."
+      },
+      {
+        "q": "What to do in Rawai & Nai Harn?",
+        "a": "Hit the Rawai Seafood Market for fresh buys, swim at Nai Harn Beach, and catch sunsets at Promthep Cape—perfect for foodies and chill vibes."
+      }
+    ],
+    "urgencyLine": "Long-stay apartments in Rawai & Nai Harn fill up fast with expats during dry season—book scooters and rentals 2-3 months ahead for 2026.",
+    "methodology": "We compared Rawai & Nai Harn to Patong Beach and Kata Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted transport needs highest because own wheels define access here. Last updated: 2026-04.",
+    "metaTitle": "Staying in Rawai & Nai Harn, Phuket (2026)",
+    "metaDescription": "Discover Rawai & Nai Harn in Phuket: authentic southern tip with Nai Harn Beach and seafood markets at budget-mid prices. Compare areas and see hotels…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:23:35.121Z"
+}

@@ -1,0 +1,162 @@
+{
+  "template": "area-deep",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "areaSlug": "taling-ngam",
+  "areaName": "Taling Ngam",
+  "neighborhood": {
+    "name": "Taling Ngam",
+    "description": "Taling Ngam occupies the southwest coast of Koh Samui with long sandy beaches and hilly terrain. It hosts several high-end resorts with private beach access. The area offers views across to Ang Thong Marine Park.",
+    "bestFor": "couples, honeymoon",
+    "priceLevel": "€€€",
+    "highlights": [
+      "Taling Ngam Beach",
+      "Four Seasons Resort Koh Samui",
+      "Laem Sor Pagoda",
+      "Ang Thong viewpoint"
+    ],
+    "walkingScore": "Low",
+    "transportNotes": [
+      "Taxis from Lamai take 25 minutes",
+      "Songthaews less frequent in this area"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+      },
+      {
+        "sourceName": "TAT Thailand",
+        "sourceUrl": "https://www.tourismthailand.org/Destinations/Provinces/Koh-Samui/232"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Conrad Koh Samui",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB/night (~$336–980 USD)",
+      "area": "South coast (Taling Ngam)",
+      "description": "A modern luxury resort on Samui's quieter southwest coast with all-villa accommodation, each featuring a private infinity pool overlooking the Gulf of Thailand and the Five Islands. Michelin-level dining at Jahn restaurant, an award-winning spa, and a secluded hillside setting. Spectacular sunset views from every villa.",
+      "highlights": [
+        "All villas with private infinity pools",
+        "Michelin-level Jahn restaurant with sunset views",
+        "Dramatic southwest coast sunset location"
+      ],
+      "reviewScore": "4.6/5 TripAdvisor",
+      "bestFor": [
+        "luxury seekers",
+        "couples",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "LUXE Samui",
+          "sourceUrl": "https://luxesamui.com/best-fine-dining-restaurants-in-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DConrad%2520Koh%2520Samui%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Chaweng Beach",
+    "Lamai Beach",
+    "Bophut (Fisherman's Village)",
+    "Maenam Beach",
+    "Choeng Mon"
+  ],
+  "paaQuestions": [
+    "What area of Koh Samui is best to stay in?",
+    "What to do in taling ngam?",
+    "Which month to avoid Koh Samui?",
+    "What is the nicest town in Koh Samui?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Taling Ngam can trap you in hilly isolation far from the beach — most first-timers underestimate the low walkability and end up taxi-dependent.",
+    "intro": "Taling Ngam stands out on Koh Samui's southwest coast for its long sandy beaches backed by hills, high-end resorts with private access, and sweeping views to Ang Thong Marine Park. We ranked it highest for couples and honeymoons seeking seclusion over urban buzz.",
+    "vibe": "Secluded + luxurious",
+    "quickStats": {
+      "priceBand": "€€€",
+      "walkability": "Low",
+      "bestFor": "couples and honeymooners",
+      "safetyNote": "Very safe, resort-secured."
+    },
+    "detailedDescription": "In Taling Ngam, travelers settle into a quiet pocket where resort compounds dot the coastline, separated by steep hills that limit casual strolls. Locals are mostly resort staff commuting from nearby areas like Lamai, keeping the vibe staff-driven and low-key during the day with guests lounging on uncrowded sands or hiking short trails to viewpoints. Nights stay hushed, with minimal street activity beyond resort patios serving upscale Thai fusion—think fresh seafood grilled poolside rather than bustling markets. Noise is absent, save for occasional waves or distant boat motors, making it ideal for unwinding but challenging for spontaneous outings. Food options cluster inside resorts, featuring international buffets and spa cafes, while venturing out means a 10-15 minute taxi to basic Thai spots in Laem Sor. Getting around relies on taxis or infrequent songthaews; the 25-minute ride from Lamai highlights its remoteness, so most visitors rent scooters or stick to resort shuttles for beach hops or pagoda visits. It's a haven for privacy but demands planning for anything beyond the property gates.",
+    "localSignals": [
+      "Taxi from Samui International Airport: 40-50 minutes, 800-1200 THB",
+      "Distance to Taling Ngam Beach: 0-5 minutes walk from resorts",
+      "Nearest 7-Eleven: 5-10 minutes drive in Laem Sor",
+      "Noise level at night: quiet",
+      "Distance to Laem Sor Pagoda: 10 minutes drive"
+    ],
+    "pros": [
+      "Private beach access at resorts",
+      "Stunning Ang Thong Marine Park views",
+      "Peaceful for romantic escapes",
+      "High-end villa accommodations",
+      "Hilly trails for light hikes"
+    ],
+    "cons": [
+      "Songthaews infrequent, taxi-dependent",
+      "Limited dining outside resorts",
+      "Hilly terrain hinders walking",
+      "Few shops or markets nearby",
+      "Beach access varies by resort location"
+    ],
+    "skipIf": "Skip if you're on a budget or prefer lively nightlife and easy public transport.",
+    "stayRecommendations": [
+      {
+        "name": "Conrad Koh Samui",
+        "why": "This all-villa resort aligns perfectly with Taling Ngam's secluded southwest coast, offering private infinity pools that enhance the area's romantic, beachfront privacy."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Chaweng Beach",
+        "shortPitch": "Chaweng buzzes with nightlife and shops, contrasting Taling Ngam's quiet resort seclusion.",
+        "recommendFor": "partygoers and shoppers"
+      },
+      {
+        "areaName": "Lamai Beach",
+        "shortPitch": "Lamai offers more affordable beaches and markets, just a 25-minute taxi from Taling Ngam's hills.",
+        "recommendFor": "budget travelers and families"
+      },
+      {
+        "areaName": "Bophut (Fisherman's Village)",
+        "shortPitch": "Bophut delivers a charming, walkable village feel unlike Taling Ngam's isolated luxury.",
+        "recommendFor": "cultural explorers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the serene private beaches and resort views but note the hassle of relying on taxis for off-property exploration.",
+    "faq": [
+      {
+        "q": "What area of Koh Samui is best to stay in?",
+        "a": "The best area depends on your vibe—for couples seeking luxury seclusion, Taling Ngam tops the list with its private resorts; compare to Chaweng for nightlife."
+      },
+      {
+        "q": "What to do in Taling Ngam?",
+        "a": "Relax on Taling Ngam Beach, visit Laem Sor Pagoda, or hike to the Ang Thong viewpoint; book a resort spa day for the full honeymoon experience."
+      },
+      {
+        "q": "Which month to avoid Koh Samui?",
+        "a": "Avoid October to December for heavy rains and rough seas that disrupt beach time in Taling Ngam—opt for January to April instead."
+      },
+      {
+        "q": "What is the nicest town in Koh Samui?",
+        "a": "Bophut's Fisherman's Village is often called the nicest for its preserved charm and dining, though Taling Ngam suits those preferring resort tranquility over town bustle."
+      },
+      {
+        "q": "Is Taling Ngam good for couples?",
+        "a": "Yes, Taling Ngam excels for couples with its romantic beaches and high-end resorts—recommend the Conrad for private pool villas."
+      }
+    ],
+    "urgencyLine": "Luxury villas in Taling Ngam fill fast for peak dry season—secure spots 3-4 months ahead for 2026 honeymoons.",
+    "methodology": "We compared Taling Ngam to Chaweng Beach and Lamai Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted seclusion highest because couples prioritize privacy over convenience. Last updated: 2026-04.",
+    "metaTitle": "Staying in Taling Ngam, Koh Samui (2026)",
+    "metaDescription": "Stay in Taling Ngam, Koh Samui for luxurious private beaches and Ang Thong views ideal for couples in 2026. See hotels and compare areas for your trip."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:32:20.255Z"
+}

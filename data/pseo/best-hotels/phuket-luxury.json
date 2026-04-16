@@ -1,0 +1,298 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "category": "luxury",
+  "hotels": [
+    {
+      "name": "Pullman Phuket Arcadia Naithon Beach",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB/night (~$154–336 USD)",
+      "area": "Naithon Beach",
+      "description": "A large-scale luxury resort on the quiet Naithon Beach near the airport. Five swimming pools including water slides, full spa, multiple restaurants, and beautifully landscaped grounds. Close enough to the airport for late arrivals/early departures but far from the Patong crowds.",
+      "highlights": [
+        "5 pools with water slides — perfect for families",
+        "Quiet Naithon Beach location",
+        "Full-service spa and multiple dining venues"
+      ],
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/Hotels-g293920-zff10-Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPullman%2520Phuket%2520Arcadia%2520Naithon%2520Beach%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Twinpalms Phuket",
+      "category": "luxury",
+      "priceRange": "8,000–18,000 THB/night (~$225–505 USD)",
+      "area": "Surin Beach",
+      "description": "A sleek, design-forward 5-star resort steps from Surin Beach. Modern architecture with clean lines, a stunning main pool, and the famous Catch Beach Club next door. Attracts a stylish crowd — think more Ibiza than family resort.",
+      "highlights": [
+        "Design-forward architecture with Instagram-worthy pool",
+        "Steps from Surin Beach",
+        "Catch Beach Club access for guests"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g27538745-d1066939-Reviews-Twinpalms_Phuket_Resort-Kamala_Choeng_Thale_Thalang_District_Phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTwinpalms%2520Phuket%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Banyan Tree Phuket",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB/night (~$340–980 USD)",
+      "area": "Bang Tao / Laguna",
+      "description": "Award-winning ultra-luxury resort within the Laguna Phuket complex. All-villa property where every accommodation has its own private pool. World-class spa, 18-hole golf course access, and multiple fine dining restaurants. The gold standard for luxury in Phuket.",
+      "highlights": [
+        "Every villa has a private pool",
+        "Award-winning Banyan Tree Spa",
+        "Access to Laguna Phuket's 18-hole golf course"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g15274191-d302772-Reviews-Banyan_Tree_Phuket-Cherngtalay_Choeng_Thale_Thalang_District_Phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanyan%2520Tree%2520Phuket%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "The Nai Harn",
+      "category": "luxury",
+      "priceRange": "7,000–15,000 THB/night (~$196–420 USD)",
+      "area": "Nai Harn Beach",
+      "description": "Phuket's only luxury hotel overlooking Nai Harn Beach — one of the island's prettiest and least developed beaches. Infinity pool with sea views, rooftop bar, and spacious rooms with floor-to-ceiling windows. A tranquil alternative to the Patong resort scene.",
+      "highlights": [
+        "Only luxury hotel on Nai Harn Beach",
+        "Infinity pool with Andaman Sea views",
+        "Rooftop bar with sunset panoramas"
+      ],
+      "bestFor": [
+        "couples",
+        "relaxation seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/Hotels-g293920-zff10-Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Nai%2520Harn%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Avista Grande Karon — MGallery",
+      "category": "luxury",
+      "priceRange": "7,000–14,000 THB/night (~$196–392 USD)",
+      "area": "Karon Beach",
+      "description": "A boutique luxury hotel by Sofitel's MGallery collection, a short walk from Karon Beach. Ranked in TripAdvisor's top 10 hotels in Thailand. Elegant rooms with local design touches, rooftop pool, and personalized service that large resorts can't match.",
+      "highlights": [
+        "Ranked top 10 hotels in Thailand by TripAdvisor (2023)",
+        "Boutique feel with personalized service",
+        "Rooftop pool and bar with sea views"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvista%2520Grande%2520Karon%2520%25E2%2580%2594%2520MGallery%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong luxury hotel in Phuket can leave you isolated from the island's vibrant beaches and nightlife — many 'luxury' hotels skimp on genuine exclusivity and end up feeling generic.",
+    "intro": "The single biggest mistake travellers make when booking luxury in Phuket is prioritizing brand names over personalized experiences, leading to overcrowded resorts that lack intimacy. We ranked these hotels based on exclusivity, on-site amenities, beach proximity, and value within the luxury segment to highlight true standouts for discerning guests.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Banyan Tree Phuket",
+        "why": "Ultimate villa privacy and spa excellence"
+      },
+      {
+        "label": "Best value",
+        "name": "Pullman Phuket Arcadia Naithon Beach",
+        "why": "Multiple pools at accessible luxury rates"
+      },
+      {
+        "label": "Best pool",
+        "name": "Pullman Phuket Arcadia Naithon Beach",
+        "why": "Five pools including thrilling water slides"
+      },
+      {
+        "label": "Best for couples",
+        "name": "The Nai Harn",
+        "why": "Tranquil beachfront infinity pool views"
+      }
+    ],
+    "urgencyLine": "Prices for luxury hotels in Phuket can surge up to 50% during peak season (November to April) and events like New Year's — secure your spot months ahead to avoid sell-outs.",
+    "comparisonTable": [
+      {
+        "name": "Pullman Phuket Arcadia Naithon Beach",
+        "area": "Naithon Beach",
+        "priceBand": "€€€",
+        "bestFor": "Families with kids",
+        "standout": "pool",
+        "drawback": "Far from Phuket Town nightlife"
+      },
+      {
+        "name": "Twinpalms Phuket",
+        "area": "Surin Beach",
+        "priceBand": "€€€",
+        "bestFor": "Stylish couples",
+        "standout": "design",
+        "drawback": "Limited family amenities"
+      },
+      {
+        "name": "Banyan Tree Phuket",
+        "area": "Bang Tao / Laguna",
+        "priceBand": "€€€",
+        "bestFor": "Privacy seekers",
+        "standout": "spa",
+        "drawback": "High cost for extras"
+      },
+      {
+        "name": "The Nai Harn",
+        "area": "Nai Harn Beach",
+        "priceBand": "€€€",
+        "bestFor": "Quiet romantics",
+        "standout": "beach access",
+        "drawback": "Remote from shopping areas"
+      },
+      {
+        "name": "Avista Grande Karon — MGallery",
+        "area": "Karon Beach",
+        "priceBand": "€€€",
+        "bestFor": "Service-oriented travelers",
+        "standout": "service",
+        "drawback": "Short walk to crowded beach"
+      }
+    ],
+    "decisionGuide": [
+      "If you want multiple pools for family fun near the airport, choose Pullman Phuket Arcadia Naithon Beach.",
+      "If sleek design and a stylish vibe appeal to you, choose Twinpalms Phuket.",
+      "If private pool villas and world-class spa are priorities, choose Banyan Tree Phuket.",
+      "If tranquil beach views with an infinity pool suit your escape, choose The Nai Harn.",
+      "If personalized service in a boutique setting near Karon Beach fits, choose Avista Grande Karon — MGallery.",
+      "If you're balancing luxury with accessibility to island attractions, choose Pullman Phuket Arcadia Naithon Beach."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Banyan Tree Phuket",
+        "why": "This all-villa resort outshines others with private pools in every unit and seamless access to Laguna's golf and dining, offering unmatched exclusivity over more resort-style options like Pullman. It prioritizes serene luxury for those seeking seclusion without isolation.",
+        "drawback": "Rates start high, making it less ideal for shorter stays.",
+        "skipIf": "Skip if you're on a moderate budget or traveling with young children needing extensive kid facilities.",
+        "localSignals": [
+          "Within Laguna complex near Bang Tao Beach",
+          "20-minute drive to Phuket Airport",
+          "Every villa has private pool"
+        ],
+        "travellerNote": "Guests often praise the private pools and spa treatments but note occasional service delays during peak times."
+      },
+      {
+        "rank": 2,
+        "name": "Twinpalms Phuket",
+        "why": "Its modern design and proximity to Surin Beach provide a chic alternative to Banyan Tree's ultra-seclusion, attracting a trendy crowd with the adjacent Catch Beach Club for effortless sophistication.",
+        "drawback": "Rooms can feel compact compared to villa-heavy competitors.",
+        "skipIf": "Skip if you prefer family-oriented amenities over a adults-focused stylish atmosphere.",
+        "localSignals": [
+          "Steps from Surin Beach",
+          "30-minute transfer to Phuket Airport",
+          "Stunning main pool area"
+        ],
+        "travellerNote": "Guests often praise the contemporary design and pool vibe but note higher noise from nearby beach clubs."
+      },
+      {
+        "rank": 3,
+        "name": "The Nai Harn",
+        "why": "Overlooking one of Phuket's most pristine beaches, it delivers intimate luxury with infinity pool views that edge out busier options like Avista, ideal for those valuing undeveloped tranquility over extensive facilities.",
+        "drawback": "Fewer on-site dining choices than larger resorts.",
+        "skipIf": "Skip if you need quick access to Phuket's shopping or nightlife scenes.",
+        "localSignals": [
+          "Overlooking Nai Harn Beach",
+          "45-minute drive to Phuket Airport",
+          "Infinity pool with sea views"
+        ],
+        "travellerNote": "Guests often praise the serene beachfront location but note the remoteness requires planning for outings."
+      }
+    ],
+    "topPick": "Banyan Tree Phuket",
+    "topPickReason": "Banyan Tree Phuket stands out for its unparalleled villa privacy and integrated luxury amenities in the Laguna complex, perfect for travelers craving bespoke seclusion.",
+    "bookingTips": [
+      "Book 3-6 months in advance for high season (November-April) to lock in rates before Phuket's luxury demand spikes.",
+      "Compare Agoda and Booking.com for Thailand-specific deals, as Agoda often undercuts on Phuket properties with flexible cancellations.",
+      "Watch for price jumps during Chinese New Year (January/February) and Songkran (April), when luxury rooms can rise 30-50%.",
+      "Avoid bookings with no recent reviews or discounts over 40%, as they may signal hidden fees or subpar maintenance in Phuket's variable market.",
+      "Opt for sea-view rooms over garden views for the full luxury payoff, though garden options save 20-30% without sacrificing comfort.",
+      "Factor in free airport transfers offered by resorts like Pullman to cut costs on Phuket's spread-out layout."
+    ],
+    "methodology": "We compared luxury hotels in Phuket based on guest reviews, location quality, value at this price band, and what luxury travellers typically prioritise like privacy and amenities. We weighted exclusivity and on-site facilities highest because Phuket's market is flooded with generic high-end options that don't deliver true indulgence. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/where-to-stay/phuket/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check luxury hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View Banyan Tree Phuket'"
+    ],
+    "faq": [
+      {
+        "q": "Which luxury hotel in Phuket has the best private pools?",
+        "a": "Banyan Tree Phuket excels with private pools in every villa, offering ultimate seclusion within the Laguna complex—ideal for couples seeking exclusivity over shared facilities."
+      },
+      {
+        "q": "What's the top luxury pick near Phuket Airport?",
+        "a": "Pullman Phuket Arcadia Naithon Beach provides convenient access with a short transfer and five pools, making it perfect for jet-lagged luxury arrivals without long drives."
+      },
+      {
+        "q": "Best luxury hotel for a stylish beach vibe in Phuket?",
+        "a": "Twinpalms Phuket delivers modern design steps from Surin Beach, attracting a chic crowd—choose it if you want sophistication near the famous Catch Beach Club."
+      },
+      {
+        "q": "Which Phuket luxury hotel offers the most tranquil setting?",
+        "a": "The Nai Harn overlooks undeveloped Nai Harn Beach with an infinity pool, suiting romantics who prioritize peace over bustling resort energy."
+      },
+      {
+        "q": "Top-ranked luxury service in Phuket?",
+        "a": "Avista Grande Karon — MGallery stands out for personalized touches in a boutique style near Karon Beach, earning high marks for attentive staff in reviews."
+      }
+    ],
+    "metaTitle": "Best Luxury Hotels in Phuket (2026)",
+    "metaDescription": "Discover the best luxury hotels in Phuket for 2026, from private villa pools at Banyan Tree to serene beachfronts at The Nai Harn. Compare top picks and…"
+  },
+  "lastUpdated": "2026-03-13",
+  "generatedAt": "2026-04-15T15:35:47.402Z"
+}

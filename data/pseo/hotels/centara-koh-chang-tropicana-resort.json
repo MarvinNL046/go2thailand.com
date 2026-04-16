@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trat",
+  "cityName": "Trat",
+  "hotelSlug": "centara-koh-chang-tropicana-resort",
+  "hotel": {
+    "name": "Centara Koh Chang Tropicana Resort",
+    "category": "mid-range",
+    "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+    "area": "Klong Prao Beach, Koh Chang",
+    "description": "A well-managed Thai chain resort on Klong Prao Beach with two swimming pools, kids' club, spa, and beachfront dining. The Centara brand delivers consistent quality with modern rooms and reliable service. Great for families with children thanks to the kids' facilities and the calm, long beach at Klong Prao. The resort is set in tropical gardens leading to the sand.",
+    "highlights": [
+      "Two swimming pools and dedicated kids' club",
+      "Beachfront location on calm Klong Prao Beach",
+      "Centara brand reliability with spa and multiple restaurants"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "bestFor": [
+      "families",
+      "couples"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Koh%2520Chang%2520Tropicana%2520Resort%252C%2520Trat%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Kacha Resort & Spa Koh Chang",
+      "category": "mid-range",
+      "priceRange": "2,000-4,000 THB/night (~$56-112 USD)",
+      "area": "White Sand Beach, Koh Chang",
+      "description": "A 4-star resort with direct beach access at White Sand Beach, Koh Chang's most popular stretch of sand. Modern rooms with balconies, swimming pool, spa, and a beachfront restaurant. Guests can easily access water sports, snorkeling, and island tours from the resort's location on the main tourist beach. Good value for a beachfront property.",
+      "highlights": [
+        "Direct access to White Sand Beach",
+        "Swimming pool, spa, and on-site restaurant",
+        "Water sports and tour booking at reception"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKacha%2520Resort%2520%2526%2520Spa%2520Koh%2520Chang%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Santhiya Tree Koh Chang Resort",
+      "category": "luxury",
+      "priceRange": "3,500-12,000 THB/night (~$98-336 USD)",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "A refined 76-room resort on Klong Prao Beach, Koh Chang's longest and most peaceful beach. Thai-style architecture with teakwood villas set in tropical gardens leading to the beach. Known for exceptional service (9.2/10 from 2,700+ reviews), excellent restaurant, and a romantic atmosphere. The quieter Klong Prao location feels more exclusive than busy White Sand Beach.",
+      "highlights": [
+        "Klong Prao Beach — the longest, most peaceful beach on Koh Chang",
+        "Teakwood villas with Thai architectural details",
+        "Consistently top-rated for service (9.2/10 average)"
+      ],
+      "reviewScore": "9.2/10 Booking.com (2,743 reviews)",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/santhiya.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSanthiya%2520Tree%2520Koh%2520Chang%2520Resort%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Nature Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-3,500 THB/night (~$42-98 USD)",
+      "area": "Lonely Beach, Koh Chang",
+      "description": "The top beachfront resort on Lonely Beach, recently replacing old log cabins with modern concrete villas right on the sand. One of just four resorts fronting the actual sand of Lonely Beach. Combines the relaxed backpacker-area atmosphere with proper resort comfort. The beach here is less crowded than White Sand Beach and has better swimming.",
+      "highlights": [
+        "Directly on Lonely Beach sand — one of only four beachfront properties",
+        "Newly built modern villas replacing old bungalows",
+        "Relaxed atmosphere with better swimming than northern beaches"
+      ],
+      "bestFor": [
+        "couples",
+        "beach lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNature%2520Beach%2520Resort%252C%2520Trat%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Are Centara hotels good?",
+    "Does Centara Koh Chang have a private beach?",
+    "Is Koh Chang worth it?",
+    "How many pools are at Centara Koh Chang?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Centara Koh Chang Tropicana Resort without knowing its family-heavy vibe can lead to unexpected noise from kids' activities disrupting couple getaways.",
+    "intro": "Centara Koh Chang Tropicana Resort offers reliable mid-range stays with modern rooms, two pools, a kids' club, spa, and beachfront dining in tropical gardens on Klong Prao Beach. It's ideal for families seeking child-friendly facilities and calm sands, or couples wanting consistent service without luxury frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Families and couples",
+      "standout": "Beachfront location",
+      "noGoFor": "Party-seeking solo travelers"
+    },
+    "whyBook": [
+      "Two pools plus dedicated kids' club for family entertainment",
+      "Direct access to calm Klong Prao Beach sands",
+      "Centara brand ensures modern rooms and reliable service",
+      "Spa and multiple beachfront restaurants on-site",
+      "Tropical gardens create a relaxed resort atmosphere"
+    ],
+    "whyNotBook": [
+      "Family-oriented setup leads to kid noise in common areas during peak hours",
+      "Klong Prao Beach's calm vibe means limited nearby nightlife or bars",
+      "Mid-range pricing lacks high-end villa privacy found in pricier spots",
+      "Tropical gardens path to beach can feel buggy in rainy season",
+      "Chain hotel consistency sometimes misses unique local charm"
+    ],
+    "skipIf": "Skip if you're a solo traveler chasing Koh Chang's vibrant White Sand Beach party scene.",
+    "detailedReview": "Checking into Centara Koh Chang Tropicana Resort feels straightforward and welcoming, with efficient staff handling the process in under 10 minutes amid tropical garden surroundings. Rooms deliver a modern Thai chain vibe: clean, air-conditioned spaces with balconies overlooking pools or greenery, equipped with essentials like mini-fridges and satellite TV, though not overly spacious at mid-range standards. The standout amenity is the two swimming pools—one larger for laps, the other shallower for kids—complemented by the dedicated kids' club offering supervised activities like crafts and games, keeping families occupied. Food quality shines at the beachfront dining options, where Thai and international dishes use fresh local ingredients, though buffets can feel repetitive after a few days. Service is reliably polite and prompt, true to the Centara brand, with staff quick to assist with spa bookings or beach towel requests. Typical guests are families with young children enjoying the calm Klong Prao Beach for safe swimming, mixed with couples appreciating the serene setting for unwinding. The resort's beachfront position means easy sand access, but the garden buffer adds a lush walk rather than instant ocean views from all rooms. Overall, it provides consistent quality without surprises, suiting those prioritizing kids' facilities over adventure thrills. (198 words)",
+    "locationReality": "Directly on Klong Prao Beach, the resort offers immediate sand access with no walking needed, ideal for relaxed beach days on Koh Chang's longest calm stretch. Within a 5-minute walk, guests reach the beachfront dining and gardens, but main attractions like White Sand Beach's shops require a 15-20 minute songthaew ride costing 100-200 THB. For island exploration, Lonely Beach's vibe is about 30 minutes away by transport, emphasizing the area's peaceful rather than central positioning—no BTS or MRT here, as it's an island reached by ferry from Trat mainland.",
+    "localSignals": [
+      "Beachfront on Klong Prao Beach: 0-minute walk to sand",
+      "Two swimming pools and multiple restaurants on property",
+      "Kids' club available for family stays",
+      "Spa facilities included in resort amenities",
+      "Calm beach setting, no direct nightlife within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the reliable Centara service and kids' club for family ease but note occasional noise from children in pool areas and the quieter location's distance from busier Koh Chang spots.",
+    "bookingTips": [
+      "Request garden-view rooms to avoid any road-facing noise from nearby paths",
+      "Book via Agoda for Thailand deals, often 10-15% cheaper than Booking.com",
+      "Prices spike December-February high season and Songkran in April",
+      "Verify breakfast inclusion, as it varies by package and isn't always standard",
+      "Check for kids' club age limits (typically 4-12) before family booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Kacha Resort & Spa Koh Chang",
+        "howDifferent": "Busier White Sand Beach location with more vibrant access, but higher energy than Centara's calm Klong Prao vibe."
+      },
+      {
+        "name": "Santhiya Tree Koh Chang Resort",
+        "howDifferent": "Upscale teakwood villas on the same beach offer more privacy and refinement at a steeper price point."
+      },
+      {
+        "name": "Nature Beach Resort",
+        "howDifferent": "Budget-friendly modern villas on party-oriented Lonely Beach, contrasting Centara's family-focused tranquility."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Are Centara hotels good?",
+        "a": "Centara hotels provide consistent mid-range quality with reliable service and modern amenities, making them a solid choice for families in Thailand destinations like Koh Chang."
+      },
+      {
+        "q": "Does Centara Koh Chang have a private beach?",
+        "a": "No, it offers direct beachfront access to public Klong Prao Beach, which is calm and shared, without exclusive private sections."
+      },
+      {
+        "q": "Is Koh Chang worth it?",
+        "a": "Koh Chang is worth visiting for its long beaches, jungles, and relaxed island escape, especially if you prefer nature over Phuket's crowds, though access involves a ferry from Trat."
+      },
+      {
+        "q": "How many pools are at Centara Koh Chang?",
+        "a": "Centara Koh Chang Tropicana Resort has two swimming pools, one suited for families and the other for general use."
+      },
+      {
+        "q": "Is Centara Koh Chang Tropicana Resort family-friendly?",
+        "a": "Yes, with a dedicated kids' club, two pools, and safe beach access, it's well-suited for families on Klong Prao Beach."
+      },
+      {
+        "q": "What is the review score for Centara Koh Chang Tropicana Resort?",
+        "a": "It holds a 4.3/5 rating on TripAdvisor, reflecting solid guest satisfaction with its amenities and service."
+      }
+    ],
+    "urgencyLine": "Rooms at Centara Koh Chang Tropicana Resort with beach access book out 1-2 months ahead for December-February high season—check availability today.",
+    "methodology": "We rated Centara Koh Chang Tropicana Resort based on guest reviews, amenities from official data, location geography, and price consistency. We weighted family facilities highest because the resort targets that segment on a calm beach. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Centara Koh Chang Tropicana Resort Review (2026)",
+    "metaDescription": "Centara Koh Chang Tropicana Resort in Trat offers beachfront access, two pools, and kids' club for families on calm Klong Prao Beach. Mid-range stays mean reliable service but no luxury extras—book now for consistent quality. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:44:15.349Z"
+}

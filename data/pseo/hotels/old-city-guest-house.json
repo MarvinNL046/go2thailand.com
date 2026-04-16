@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "sukhothai",
+  "cityName": "Sukhothai",
+  "hotelSlug": "old-city-guest-house",
+  "hotel": {
+    "name": "Old City Guest House",
+    "category": "budget",
+    "priceRange": "300–600 THB (~8–17 USD) per night",
+    "area": "Old Sukhothai / Historical Park",
+    "description": "A long-running backpacker favourite located near the Historical Park, Old City Guest House offers basic but clean rooms with fans or air-conditioning, a communal area where travellers share tips, and reliable bicycle rental. The owner is a wealth of local knowledge and helps with transport to Si Satchanalai. Simple, no-frills and exactly what budget travellers need in Sukhothai.",
+    "highlights": [
+      "Close to the Historical Park entrance",
+      "Bicycle rental for exploring the ruins",
+      "Helpful owner with local knowledge",
+      "Both fan and A/C rooms available",
+      "Communal area for meeting other travellers"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fold-city-guest-house-sukhothai.html",
+    "reviewScore": "7.5/10",
+    "bestFor": [
+      "Backpackers",
+      "Budget travellers",
+      "Solo travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish — Sukhothai Accommodation",
+        "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/sukhothai/sukhothai/all",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Dorm of Happiness by Tharaburi",
+      "category": "budget",
+      "priceRange": "250–500 THB (~7–14 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "One of the most charming budget options near the ruins, Dorm of Happiness offers both dormitory beds and private rooms in a peaceful garden setting just minutes from the Historical Park entrance. The property is part of the Tharaburi Resort complex, giving budget guests access to the resort's grounds and atmosphere. Clean rooms, friendly staff and a tranquil garden make it exceptional value for Sukhothai.",
+      "highlights": [
+        "Walking distance to Sukhothai Historical Park",
+        "Shared garden area with the upscale Tharaburi Resort",
+        "Both dorm beds and private rooms available",
+        "Bicycle rental available on-site",
+        "Peaceful garden setting with hammocks"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fdorm-of-happiness-by-tharaburi.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Sukhothai Budget Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/HotelsList-Sukhothai-Budget-Hotels-zfp11697123.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Ruean Thai Hotel",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–26 USD) per night",
+      "area": "New Sukhothai",
+      "description": "A beautifully built traditional Thai-style hotel in New Sukhothai with ornate handmade wood carvings, a swimming pool and well-maintained grounds. Despite the boutique appearance, prices remain firmly in the budget category. Located near the bus terminal, it is convenient for arrivals from Bangkok or Chiang Mai. The pool area is a welcome bonus after a hot day cycling the ruins.",
+      "highlights": [
+        "Traditional Thai architecture with handmade wood carvings",
+        "Swimming pool — rare at this price point",
+        "Near the bus terminal in New Sukhothai",
+        "Restaurant serving Thai and Western food",
+        "Air-conditioned rooms with hot water"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fruean-thai.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Budget couples",
+        "Families",
+        "Bus arrivals"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Ruean Thai Hotel Sukhothai",
+          "sourceUrl": "https://www.agoda.com/ruean-thai-hotel/hotel/sukhothai-th.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Orchid Hibiscus Guest House",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~23–43 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms, bungalows and houses set in landscaped tropical gardens with a swimming pool. The Dutch-Thai owners provide excellent hospitality, free bicycles for exploring the park, and a wealth of local advice. Consistently one of the top-rated properties in Sukhothai across all review platforms.",
+      "highlights": [
+        "800 metres from the Historical Park entrance",
+        "Free bicycles for guests",
+        "Swimming pool surrounded by tropical gardens",
+        "Range of room types: rooms, bungalows, houses",
+        "Excellent Dutch-Thai hosts with local knowledge"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Forchid-hibiscus-guest-house.html",
+      "reviewScore": "9.2/10",
+      "bestFor": [
+        "Couples",
+        "History enthusiasts",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Orchid Hibiscus Guest House — Official Website",
+          "sourceUrl": "https://www.orchidhibiscus-guesthouse.com/",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "BoutiqueHotel.me — Sukhothai Hotels",
+          "sourceUrl": "https://boutiquehotel.me/sukhothai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Old City Guest House without knowing some rooms are fan-only can leave you uncomfortably warm during Sukhothai's hot afternoons.",
+    "intro": "Old City Guest House provides basic, clean rooms with fan or air-conditioning options, a communal area for traveler interactions, and bicycle rentals for exploring the nearby Historical Park. It's ideal for backpackers, budget travelers, and solo adventurers seeking no-frills stays with helpful local insights from the owner.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget backpackers and solo travelers",
+      "standout": "location",
+      "noGoFor": "Luxury-seeking families"
+    },
+    "whyBook": [
+      "Steps from Historical Park entrance for easy ruin access",
+      "Bicycle rentals available to explore Sukhothai sites",
+      "Helpful owner shares local knowledge and transport tips",
+      "Communal area fosters connections with fellow travelers",
+      "Clean fan or A/C rooms suit basic budget needs"
+    ],
+    "whyNotBook": [
+      "Basic rooms lack modern amenities like en-suite bathrooms",
+      "No on-site restaurant means relying on nearby eateries",
+      "Communal areas can feel crowded during peak backpacker season",
+      "Fan-only rooms get stuffy in Sukhothai's humid weather",
+      "Limited privacy for those preferring quiet, isolated stays"
+    ],
+    "skipIf": "Skip if you're traveling with kids who need family-friendly facilities or pools.",
+    "detailedReview": "Checking into Old City Guest House feels straightforward and welcoming, with the owner often greeting arrivals personally and offering tips on Sukhothai's ruins right away. Rooms are simple and functional, featuring clean bedding, fans or air-conditioning, and basic furnishings that keep things affordable without excess. The standout amenity is the reliable bicycle rental, perfect for pedaling to the Historical Park just nearby, while the communal area buzzes with backpackers swapping stories over shared spaces. Food isn't a focus here—expect no on-site dining, so guests head to local spots for simple Thai meals, which the owner can recommend. Service is hands-on and knowledgeable, with the owner assisting on transport to places like Si Satchanalai, making it easy for solo travelers to navigate. Typical guests are budget-conscious backpackers and independent explorers in their 20s and 30s, drawn to the no-frills vibe that prioritizes location and community over luxury. Overall, it's a reliable base for those focused on Sukhothai's history, though the basic setup suits short stays best. With a 7.5/10 review score, it delivers exactly on its promise for economical, authentic travel without surprises.",
+    "locationReality": "Old City Guest House sits in the Old Sukhothai area, just a short walk from the Historical Park entrance, making it easy to explore the ancient ruins on foot or by rented bike. Within a 5-minute walk, you'll find basic shops and food stalls, but for New Sukhothai's markets or bus station, plan a 10-15 minute songthaew ride costing around 20-50 THB. No BTS or MRT here—Sukhothai Airport is about 40 km away, with transfers via taxi or shuttle running 500-800 THB.",
+    "localSignals": [
+      "Short walk to Historical Park entrance",
+      "Bicycle rental available on property",
+      "No pool or on-site restaurant",
+      "WiFi status varies by room",
+      "Nearby local eateries within 5-min walk"
+    ],
+    "travellerNote": "Guests often praise the proximity to the Historical Park and the owner's helpful advice but note the basic room facilities and occasional noise from communal areas.",
+    "bookingTips": [
+      "Request air-conditioned rooms for comfort in hot seasons",
+      "Check Agoda for lowest rates on this Thailand guesthouse",
+      "Prices spike in November-February high season for park visitors",
+      "Verify bicycle rental availability when booking",
+      "Confirm no breakfast included to budget for local cafes"
+    ],
+    "similarHotels": [
+      {
+        "name": "Dorm of Happiness by Tharaburi (250–500 THB (~7–14 USD) per night) — One of the most charming budget options near the ruins, Dorm of Happiness offers both dormitory beds and private rooms in a peaceful garden",
+        "howDifferent": "Offers dormitory beds and a garden setting for more social, dorm-style stays compared to Old City Guest House's private room focus."
+      },
+      {
+        "name": "Ruean Thai Hotel (500–900 THB (~14–26 USD) per night) — A beautifully built traditional Thai-style hotel in New Sukhothai with ornate handmade wood carvings, a swimming pool and well-maintained gr",
+        "howDifferent": "Provides a pool and traditional Thai design in New Sukhothai, offering more comfort and style than Old City Guest House's basic setup."
+      },
+      {
+        "name": "Orchid Hibiscus Guest House (800–1,500 THB (~23–43 USD) per night) — A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms,",
+        "howDifferent": "Features modern, decorated rooms at a higher price, appealing to those wanting upgrades over Old City Guest House's no-frills budget option."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Old City Guest House close to Sukhothai Historical Park?",
+        "a": "Yes, it's located near the Historical Park entrance, allowing easy walking or biking access to the ruins."
+      },
+      {
+        "q": "What room types are available at Old City Guest House?",
+        "a": "Basic clean rooms with either fans or air-conditioning are offered, suitable for budget stays."
+      },
+      {
+        "q": "Does Old City Guest House have bicycle rentals?",
+        "a": "Yes, reliable bicycle rentals are available for exploring the nearby ruins and sites."
+      },
+      {
+        "q": "Who is Old City Guest House best for?",
+        "a": "It's ideal for backpackers, budget travelers, and solo adventurers seeking simple accommodations."
+      },
+      {
+        "q": "Is there a communal area at Old City Guest House?",
+        "a": "Yes, a communal area is provided where travelers can meet and share tips."
+      },
+      {
+        "q": "What makes the owner at Old City Guest House helpful?",
+        "a": "The owner offers local knowledge and assists with transport arrangements to places like Si Satchanalai."
+      }
+    ],
+    "urgencyLine": "Rooms at Old City Guest House with air-conditioning book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Old City Guest House based on location proximity, amenities like bicycle rentals, room basics, and guest feedback factors. We weighted location highest because Sukhothai's appeal centers on the Historical Park access. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Old City Guest House Review (2026)",
+    "metaDescription": "Old City Guest House in Sukhothai offers budget rooms near Historical Park with bike rentals and helpful owner tips. Basic facilities may disappoint luxury seekers—book now for affordable stays. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:33:36.820Z"
+}

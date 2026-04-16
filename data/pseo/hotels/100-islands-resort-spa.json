@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "surat-thani",
+  "cityName": "Surat Thani",
+  "hotelSlug": "100-islands-resort-spa",
+  "hotel": {
+    "name": "100 Islands Resort & Spa",
+    "category": "budget",
+    "priceRange": "900-1,500 THB/night (~$25-42 USD)",
+    "area": "City Center / Riverside",
+    "description": "A surprising find at the budget end — a resort property with swimming pool, spa, and complimentary buffet breakfast at a price point that undercuts most Bangkok budget hotels. The name references the 100 islands dotting the bay visible from Surat Thani's coast. Rooms are comfortable and well-maintained. The pool is the key differentiator at this price, making it a good choice for longer stays.",
+    "highlights": [
+      "Swimming pool — rare and valuable at this price in Surat Thani",
+      "Complimentary breakfast buffet included",
+      "Spa facilities at budget rates"
+    ],
+    "reviewScore": "8.0/10 Booking.com",
+    "bestFor": [
+      "budget travelers wanting amenities",
+      "couples",
+      "longer stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3D100%2520Islands%2520Resort%2520%2526%2520Spa%252C%2520Surat%2520Thani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sleep Box Hostel Suratthani",
+      "category": "budget",
+      "priceRange": "200-450 THB/night (~$6-13 USD)",
+      "area": "City Center (near Talad Kaset)",
+      "description": "The most popular budget option in Surat Thani, designed specifically for transit travelers who need a clean, central bed near the bus-ferry hub. Modern dorm pods with privacy curtains, individual reading lights, USB charging ports, and lockers. The location a few minutes' walk from Talad Kaset makes it ideal for early ferry departures — staff are well-versed in booking onward transport.",
+      "highlights": [
+        "Walking distance to Talad Kaset bus-ferry hub",
+        "Modern pod-style dorms with privacy and USB charging",
+        "Knowledgeable staff for onward island connections"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "transit stopovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSleep%2520Box%2520Hostel%2520Suratthani%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Rajthani Hotel",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "City Center",
+      "description": "A well-run mid-budget hotel in central Surat Thani with consistently high reviews for cleanliness and value. Air-conditioned rooms with hot showers, complimentary WiFi, and free self-parking. Not fancy, but reliable — the kind of place where everything works and staff are helpful with travel arrangements. Walking distance to the main markets, riverside, and transport offices.",
+      "highlights": [
+        "Consistent 8.6 review score for value and cleanliness",
+        "Free WiFi and self-parking",
+        "Central location within walking distance of markets and Tapi River"
+      ],
+      "reviewScore": "8.6/10 Booking.com",
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRajthani%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "S.22 Hotel Suratthani",
+      "category": "budget",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "City Center",
+      "description": "A modern budget hotel that stands out for including free breakfast — unusual at this price point in Surat Thani. Rooms are clean and functional with reliable air conditioning and good WiFi. The breakfast buffet is basic but useful for travelers with early ferry departures. Central location within easy walking distance of the Saturday Night Market and Tapi River.",
+      "highlights": [
+        "Free breakfast included — valuable for early departure days",
+        "Modern, clean rooms at budget prices",
+        "Central location near markets and transport connections"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "families on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Surat-Thani-Hotels.d6347509.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DS.22%2520Hotel%2520Suratthani%252C%2520Surat%2520Thani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking 100 Islands Resort & Spa without knowing it's in city center rather than on the islands can lead to disappointment over missing direct bay access.",
+    "intro": "100 Islands Resort & Spa delivers a resort-like stay with a swimming pool, spa, and complimentary buffet breakfast at budget prices undercutting many Bangkok options. It's ideal for budget travelers seeking amenities, couples, and those planning longer stays in Surat Thani.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget amenity seekers",
+      "standout": "Swimming pool",
+      "noGoFor": "Luxury expectation holders"
+    },
+    "whyBook": [
+      "Swimming pool rare at budget prices in Surat Thani",
+      "Complimentary buffet breakfast included daily",
+      "Spa facilities available at affordable rates",
+      "Comfortable, well-maintained rooms for longer stays"
+    ],
+    "whyNotBook": [
+      "Location in city center lacks direct island views or access",
+      "Pool may feel small compared to resort name expectations",
+      "Breakfast buffet variety limited for extended multi-night stays",
+      "Riverside area can be noisy from nearby transit traffic",
+      "Spa services basic, not full luxury treatments"
+    ],
+    "skipIf": "Skip if you're seeking beachfront access or upscale resort vibes in a coastal setting.",
+    "detailedReview": "Checking into 100 Islands Resort & Spa feels straightforward and welcoming, with staff efficiently handling the process in the city center lobby overlooking the riverside. Rooms are comfortable and well-maintained, featuring air-conditioned spaces with basic furnishings that suit budget stays without frills—think clean linens, functional desks, and views toward the bay dotted by the 100 islands that inspired the name. The standout amenity is the swimming pool, a rare find at this price point in Surat Thani, offering a refreshing spot for laps or relaxation after exploring the transit hub city. Spa facilities provide budget-rate massages and treatments, adding a touch of indulgence without breaking the bank. Food quality shines in the complimentary buffet breakfast, with a mix of Thai and Western options like rice porridge, fruits, and toast, served in a casual dining area—solid for starting the day but repetitive over longer stays. Service style is friendly and attentive, typical of Thai hospitality, with staff quick to assist with local transport tips. Guests here profile as budget-conscious travelers, including couples unwinding before island ferries and families on extended southern Thailand trips, drawn by the value of amenities in a practical location.",
+    "locationReality": "Situated in Surat Thani's City Center along the Riverside, the hotel is within a 5-10 minute walk to the main bus and ferry terminals for easy transit to Koh Samui or other islands. The area buzzes with local eateries and markets nearby, but the actual 100 islands are visible from the coast yet require a 20-30 minute drive or ferry to reach. For city exploration, everything central is walkable, though beach outings demand a Grab ride costing around 200-300 THB one way.",
+    "localSignals": [
+      "Walking distance to Surat Thani bus-ferry terminals: 5-10 minutes",
+      "One swimming pool on property",
+      "Complimentary breakfast buffet included",
+      "Spa facilities available at budget rates",
+      "Riverside location with bay views from rooms"
+    ],
+    "travellerNote": "Guests often praise the swimming pool and complimentary breakfast for adding value at budget prices but note the city center location feels more transit-oriented than resort-like.",
+    "bookingTips": [
+      "Request riverside rooms for bay views when available",
+      "Book via Agoda for frequent Thailand discounts over Booking.com",
+      "Prices spike in December-January high season for island ferries",
+      "Verify breakfast inclusion as it's complimentary per data",
+      "Check for any ongoing construction near riverside area"
+    ],
+    "similarHotels": [
+      {
+        "name": "Sleep Box Hostel Suratthani",
+        "howDifferent": "Ultra-cheap hostel focused on transit beds without pool or spa amenities."
+      },
+      {
+        "name": "Rajthani Hotel",
+        "howDifferent": "Mid-budget option emphasizing cleanliness over resort features like pool and spa."
+      },
+      {
+        "name": "S.22 Hotel Suratthani",
+        "howDifferent": "Modern budget spot with free breakfast but lacks pool and spa facilities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does 100 Islands Resort & Spa have a swimming pool?",
+        "a": "Yes, it features a swimming pool, which is rare and valuable at this budget price in Surat Thani."
+      },
+      {
+        "q": "Is breakfast included at 100 Islands Resort & Spa?",
+        "a": "Yes, a complimentary buffet breakfast is included with your stay."
+      },
+      {
+        "q": "What are the room prices at 100 Islands Resort & Spa?",
+        "a": "Rooms range from 900-1,500 THB per night, about $25-42 USD."
+      },
+      {
+        "q": "Is there a spa at 100 Islands Resort & Spa?",
+        "a": "Yes, spa facilities are available at budget rates for massages and treatments."
+      },
+      {
+        "q": "Where is 100 Islands Resort & Spa located?",
+        "a": "It's in the City Center / Riverside area of Surat Thani, near transit hubs."
+      },
+      {
+        "q": "What's the review score for 100 Islands Resort & Spa?",
+        "a": "It holds an 8.0/10 rating on Booking.com."
+      }
+    ],
+    "urgencyLine": "Rooms at 100 Islands Resort & Spa with pool access book out 1-2 months ahead for December high season—check today.",
+    "methodology": "We rated 100 Islands Resort & Spa based on price value, amenities like pool and spa, location convenience, and guest review scores from Booking.com. We weighted amenities highest because they differentiate it in the budget category for Surat Thani. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "100 Islands Resort & Spa Review (2026)",
+    "metaDescription": "100 Islands Resort & Spa in Surat Thani offers budget stays with pool, spa, and free breakfast for $25-42/night. City center location suits transit but lacks direct island access—book for value amenities now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:37:55.381Z"
+}

@@ -1,0 +1,128 @@
+{
+  "template": "area-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "areaSlug": "chang-phuak",
+  "areaName": "Chang Phuak",
+  "neighborhood": {
+    "name": "Chang Phuak",
+    "description": "Chang Phuak is a district located immediately north of the Old City moat in Chiang Mai. It includes the historic Chang Puak Gate and several temples such as Wat Phra That Doi Kham. The area hosts a Sunday walking street market that attracts locals and visitors for food and goods.",
+    "bestFor": "families, budget travelers",
+    "priceLevel": "€",
+    "highlights": [
+      "Chang Puak Gate",
+      "Wat Phra That Doi Kham",
+      "Chang Phuak Sunday Walking Street"
+    ],
+    "walkingScore": "Medium",
+    "transportNotes": [
+      "Songthaews from Old City gates",
+      "Near Chiang Mai Bus Terminal 2"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chang_Phuak_district"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Old City (Within the Moat)",
+    "Nimmanhaemin (Nimman)",
+    "Night Bazaar / Chang Khlan",
+    "Riverside (Wat Ket / Charoen Rat)",
+    "Santitham"
+  ],
+  "paaQuestions": [
+    "What area in Chiang Mai is the best to stay?",
+    "What is the nicest neighborhood in Chiang Mai?",
+    "What to be careful of in Chiang Mai?",
+    "Where to stay in Chiang Mai for first timers?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Chang Phuak can leave you far from songthaew routes and the Sunday market — most first-timers overlook its northern edge and end up walking extra in the heat.",
+    "intro": "Chang Phuak stands out for its immediate proximity to the Old City moat while offering a quieter residential feel with historic gates and temples like Wat Phra That Doi Kham. We ranked it highly for budget-friendly stays that suit families seeking easy access to local markets without the tourist crush.",
+    "vibe": "Historic + residential",
+    "quickStats": {
+      "priceBand": "€",
+      "walkability": "Medium",
+      "bestFor": "Families and budget travelers",
+      "safetyNote": "Safe overall, watch belongings at the Sunday market."
+    },
+    "detailedDescription": "In Chang Phuak, mornings start with locals heading to nearby temples or the Chang Puak Gate for quick commutes into the Old City via songthaews, which rumble along the main roads every few minutes. The area feels like a working-class extension of the historic core, with families living in low-rise shophouses and small eateries serving khao soi or sticky rice from street carts. Daytime brings moderate foot traffic around Wat Phra That Doi Kham, where monks chant and residents offer alms, but it's not crowded—perfect for parents with kids exploring without dodging tour groups. As evening hits, the vibe shifts slightly busier near the gate with food vendors setting up, though noise stays low except on Sundays when the walking street market fills the roads with stalls selling grilled meats, handicrafts, and fresh fruit until 9pm. Nights are calm, with residential streets quiet after 10pm, broken only by occasional motorbikes. Food options lean local: think no-frills noodle shops and coffee stands rather than trendy cafes, with prices under 50 THB per meal. Getting around is straightforward on foot for short hops to the moat or Bus Terminal 2, but songthaews are key for longer trips—flag one for 20-40 THB to central spots. Budget travelers appreciate the lack of upscale distractions, focusing instead on authentic neighborhood rhythms.",
+    "localSignals": [
+      "Songthaews from Old City gates: 5-10 minutes walk to main stops.",
+      "Typical Grab from Chiang Mai Airport: 200-300 THB, 20-30 minutes.",
+      "Distance to Chang Puak Gate: central areas within 5 minutes walk.",
+      "Noise level at night: moderate near gate, quiet in residential pockets.",
+      "Nearest 7-Eleven: every 200-300 meters along main roads."
+    ],
+    "pros": [
+      "Easy songthaew access to Old City.",
+      "Affordable local food stalls everywhere.",
+      "Family-friendly temple walks.",
+      "Sunday market for cheap goods.",
+      "Near Bus Terminal 2 for day trips."
+    ],
+    "cons": [
+      "Songthaews can be inconsistent after 8pm.",
+      "Limited nightlife beyond market days.",
+      "Main road traffic noise during rush hours.",
+      "Fewer English menus at eateries.",
+      "Hotter northern exposure in summer."
+    ],
+    "skipIf": "Skip if you're nightlife-focused or prefer upscale shopping districts.",
+    "compareTo": [
+      {
+        "areaName": "Old City (Within the Moat)",
+        "shortPitch": "Old City offers denser historic sites and more tourist amenities inside the moat, but at higher prices and crowds than Chang Phuak's relaxed outskirts.",
+        "recommendFor": "History buffs and first-timers"
+      },
+      {
+        "areaName": "Nimmanhaemin (Nimman)",
+        "shortPitch": "Nimman buzzes with trendy cafes and bars for a modern vibe, contrasting Chang Phuak's traditional residential calm and lower costs.",
+        "recommendFor": "Young adults and foodies"
+      },
+      {
+        "areaName": "Night Bazaar / Chang Khlan",
+        "shortPitch": "Night Bazaar delivers constant market energy and shopping, unlike Chang Phuak's weekly market and quieter evenings.",
+        "recommendFor": "Shoppers and evening explorers"
+      }
+    ],
+    "travellerNote": "Travellers often praise Chang Phuak for its authentic local feel and budget eats near temples, but note the need for songthaews to reach major attractions and occasional traffic disruptions on market days.",
+    "faq": [
+      {
+        "q": "What area in Chiang Mai is the best to stay?",
+        "a": "The best area depends on your style, but Chang Phuak suits budget families with its proximity to the Old City and local markets. For first-timers, consider it if you want calm over crowds."
+      },
+      {
+        "q": "What is the nicest neighborhood in Chiang Mai?",
+        "a": "Nicest is subjective, but Chang Phuak offers a charming historic edge with temples and gates, ideal for those valuing residential peace over Nimman's trendiness."
+      },
+      {
+        "q": "What to be careful of in Chiang Mai?",
+        "a": "In Chang Phuak, watch for pickpockets at the Sunday market and negotiate songthaew fares upfront. Stick to well-lit paths at night for safety."
+      },
+      {
+        "q": "Where to stay in Chiang Mai for first timers?",
+        "a": "First-timers should stay in Chang Phuak for easy access to the Old City via songthaews while keeping costs low. It balances convenience with a local vibe."
+      },
+      {
+        "q": "Is Chang Phuak safe for families?",
+        "a": "Yes, it's generally safe for families, with low crime and family-oriented spots like temples. Just supervise kids near busy roads and markets."
+      },
+      {
+        "q": "How to get around Chang Phuak?",
+        "a": "Use songthaews from the gate for cheap rides, or walk medium distances to highlights. Grabs work for airport transfers but vary in wait times."
+      }
+    ],
+    "urgencyLine": "Chang Phuak spots near the Sunday market fill up fast during cool season—book 1-2 months ahead for family rooms.",
+    "methodology": "We compared Chang Phuak to Old City (Within the Moat) and Nimmanhaemin (Nimman) based on walkability, price level, noise, and suitability for its typical travellers. We weighted proximity to transport highest because it eases navigation for budget families without cars. Last updated: 2026-04.",
+    "metaTitle": "Staying in Chang Phuak, Chiang Mai (2026)",
+    "metaDescription": "Discover staying in Chang Phuak, Chiang Mai: budget-friendly for families near historic gates and markets. Easy songthaew access to Old City—compare…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:20:21.367Z"
+}

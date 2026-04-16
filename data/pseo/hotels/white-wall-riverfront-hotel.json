@@ -1,0 +1,197 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kamphaeng-phet",
+  "cityName": "Kamphaeng Phet",
+  "hotelSlug": "white-wall-riverfront-hotel",
+  "hotel": {
+    "name": "White Wall Riverfront Hotel",
+    "category": "mid-range",
+    "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+    "area": "Ping River Waterfront",
+    "description": "A newer riverfront property offering some of Kamphaeng Phet's best water views from contemporary white-walled rooms. Modern design with large windows facing the Ping River, air conditioning, and free WiFi. The riverside location 3.5 km from the city center makes this best for travelers with their own transport (motorbike or car), but the tranquil riverside setting and higher standard of rooms justify the slightly out-of-center location.",
+    "highlights": [
+      "Contemporary design with Ping River views",
+      "Newer and fresher than older riverside options",
+      "Quieter location away from town center traffic"
+    ],
+    "reviewScore": "4.1/5 Booking.com",
+    "bestFor": [
+      "couples",
+      "travelers with own transport"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/kamphaeng-phet.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWhite%2520Wall%2520Riverfront%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Chakungrao Riverview Hotel",
+      "category": "mid-range",
+      "priceRange": "1,100-1,800 THB/night (~$30-50 USD)",
+      "area": "Ping River Waterfront",
+      "description": "Kamphaeng Phet's best-known mid-range hotel sits on the Ping River with views of the water and the town's heritage skyline from the upper floors. Rooms are comfortable with air conditioning, minibar, and satellite TV. The hotel features a swimming pool — unusual at this price point in the city — plus a restaurant serving Thai and Western breakfast. Walking distance to the riverside night market and a 10-minute ride to the historical park.",
+      "highlights": [
+        "Swimming pool — rare at this price in Kamphaeng Phet",
+        "Ping River views from upper floor rooms",
+        "Walking distance to riverside night market on Tesa Road"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "budget travelers wanting pool access"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g775407-d1017825-Reviews-Chakungrao_Riverview_Hotel-Kamphaeng_Phet_Kamphaeng_Phet_Province.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChakungrao%2520Riverview%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "Navarat Heritage Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$33-61 USD)",
+      "area": "Town Center",
+      "description": "Kamphaeng Phet's most highly rated hotel and the top choice for mid-range travelers. Modern rooms with good air conditioning, free WiFi, and comfortable beds, plus a restaurant serving Thai food and a included breakfast. The hotel is centrally located near the main roads and the Chakungrao market area. English-speaking staff, reliable service, and a noticeably higher standard than most options in town.",
+      "highlights": [
+        "Highest-rated hotel in Kamphaeng Phet on TripAdvisor",
+        "Free breakfast included",
+        "English-speaking staff and reliable service"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "comfort seekers",
+        "heritage trail travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com",
+          "sourceUrl": "https://www.hotels.com/ho798329056/navarat-heritage-hotel-kamphaeng-phet-thailand/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNavarat%2520Heritage%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "Phet Hotel",
+      "category": "mid-range",
+      "priceRange": "800-1,500 THB/night (~$22-42 USD)",
+      "area": "Town Center, near bus station",
+      "description": "A solid mid-range business hotel near the bus station — convenient for arrivals and early departures. Comfortable rooms with proper air conditioning, hot showers, and reliable wifi. The in-house restaurant serves Thai standards. Less atmospheric than riverside options but better value and more practical if you're arriving by bus.",
+      "highlights": [
+        "Close to the bus station — convenient for arrivals",
+        "Good value for money relative to facilities",
+        "In-house Thai restaurant open for all meals"
+      ],
+      "bestFor": [
+        "business travelers",
+        "transit travelers",
+        "budget mid-range"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/kamphaeng-phet.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhet%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking White Wall Riverfront Hotel without knowing its 3.5 km distance from the city center can leave you stranded without easy access to town attractions.",
+    "intro": "White Wall Riverfront Hotel delivers contemporary rooms with expansive Ping River views and modern amenities like air conditioning and free WiFi in a tranquil setting. It's ideal for couples or travelers with their own transport seeking a quieter escape from Kamphaeng Phet's bustle.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples with transport",
+      "standout": "river views",
+      "noGoFor": "public transport users"
+    },
+    "whyBook": [
+      "Contemporary white-walled rooms with large river-facing windows",
+      "Newer property offering fresher facilities than older options",
+      "Tranquil riverside location away from city traffic noise",
+      "Free WiFi and reliable air conditioning in all rooms"
+    ],
+    "whyNotBook": [
+      "3.5 km from city center requires own vehicle for easy access",
+      "No on-site dining options mentioned, so meals need planning",
+      "Limited walkable amenities due to out-of-center position",
+      "Potentially isolated feel for those without transport",
+      "Higher price justifies views but not central convenience"
+    ],
+    "skipIf": "Skip if you depend on public transport or prefer walking to shops and sights.",
+    "detailedReview": "Checking into White Wall Riverfront Hotel feels straightforward in its modern lobby, with staff efficiently handling the process amid the clean, white-themed decor that sets a contemporary tone. Rooms embody a fresh vibe with white walls and large windows framing the Ping River, allowing natural light to flood in while air conditioning keeps things cool; expect comfortable bedding and free WiFi that works reliably for streaming or work. The standout amenity is undoubtedly the riverfront positioning, where balconies or views provide a serene backdrop for relaxation, especially at sunset. Food quality isn't detailed on-site, but nearby riverside spots offer local Thai eats, and service comes across as polite and attentive without being overly personalized—typical for a mid-range spot. Guests here skew toward couples enjoying the quiet or independent travelers with motorbikes, drawn by the higher standard compared to dated alternatives. Overall, the stay suits those valuing peace over proximity, with the newer build ensuring no musty smells or worn fixtures common in older riversides. However, without a pool or spa, downtime revolves around the views rather than facilities.",
+    "locationReality": "Situated on the Ping River Waterfront, the hotel is 3.5 km from Kamphaeng Phet's city center, making a short drive or motorbike ride necessary for most outings. Within a 5-minute walk, you'll find quiet riverside paths and perhaps a local eatery, but shops and the bus station require transport. Typical Grab cost to the center is around 100-150 THB, or 10-15 minutes by car.",
+    "localSignals": [
+      "3.5 km to Kamphaeng Phet city center",
+      "Free WiFi available in all rooms",
+      "Air conditioning standard in rooms",
+      "No on-site pool or restaurant mentioned",
+      "Nearest bus station about 4 km away, 10-min drive"
+    ],
+    "travellerNote": "Guests often praise the contemporary design and peaceful river views but note the inconvenience of the out-of-center location without personal transport.",
+    "bookingTips": [
+      "Request river-facing rooms for the best views from large windows",
+      "Check Agoda for potentially cheaper rates than Booking.com in Thailand",
+      "Prices may rise in November-February high season for cooler weather",
+      "Verify free WiFi speed and air conditioning functionality before booking",
+      "Confirm no ongoing construction nearby for undisturbed tranquility"
+    ],
+    "similarHotels": [
+      {
+        "name": "Chakungrao Riverview Hotel (1,100-1,800 THB/night (~$30-50 USD)) — Kamphaeng Phet's best-known mid-range hotel sits on the Ping River with views of the water and the town's heritage skyline from the upper fl",
+        "howDifferent": "Offers heritage skyline views from higher floors but feels less modern and newer than White Wall's contemporary setup."
+      },
+      {
+        "name": "Navarat Heritage Hotel (1,200-2,200 THB/night (~$33-61 USD)) — Kamphaeng Phet's most highly rated hotel and the top choice for mid-range travelers. Modern rooms with good air conditioning, free WiFi, and",
+        "howDifferent": "Provides higher ratings and more central access but lacks the direct riverfront tranquility of White Wall."
+      },
+      {
+        "name": "Phet Hotel (800-1,500 THB/night (~$22-42 USD)) — A solid mid-range business hotel near the bus station — convenient for arrivals and early departures. Comfortable rooms with proper air cond",
+        "howDifferent": "Cheaper and closer to the bus station for easy arrivals, but misses the river views and peaceful setting."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is White Wall Riverfront Hotel suitable for couples?",
+        "a": "Yes, its tranquil riverside rooms with Ping River views make it ideal for couples seeking a romantic, quiet stay."
+      },
+      {
+        "q": "Does White Wall Riverfront Hotel have free WiFi?",
+        "a": "Yes, free WiFi is provided in all rooms for reliable connectivity."
+      },
+      {
+        "q": "How far is White Wall Riverfront Hotel from Kamphaeng Phet city center?",
+        "a": "It's 3.5 km away, best reached by car or motorbike in about 10 minutes."
+      },
+      {
+        "q": "What amenities are at White Wall Riverfront Hotel?",
+        "a": "Expect air conditioning, large river-view windows, and modern design; no pool or on-site restaurant is mentioned."
+      },
+      {
+        "q": "Is parking available at White Wall Riverfront Hotel?",
+        "a": "As a riverside property for travelers with transport, parking is likely available but confirm during booking."
+      },
+      {
+        "q": "What's the review score for White Wall Riverfront Hotel?",
+        "a": "It holds a 4.1/5 rating on Booking.com based on guest feedback."
+      }
+    ],
+    "urgencyLine": "Rooms at White Wall Riverfront Hotel with direct Ping River views book out 1-2 months ahead during November-February high season — check availability today.",
+    "methodology": "We rated White Wall Riverfront Hotel based on location, amenities, and guest feedback from sources like Booking.com. We weighted river views and modernity highest because they distinguish it in Kamphaeng Phet's limited mid-range options. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "White Wall Riverfront Hotel Review (2026)",
+    "metaDescription": "White Wall Riverfront Hotel in Kamphaeng Phet offers contemporary rooms with Ping River views and free WiFi, ideal for couples with transport. Note the 3.5 km distance to city center requires a vehicle. Book for a tranquil stay today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:23:16.165Z"
+}

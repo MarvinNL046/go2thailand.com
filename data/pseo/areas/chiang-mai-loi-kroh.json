@@ -1,0 +1,132 @@
+{
+  "template": "area-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "areaSlug": "loi-kroh",
+  "areaName": "Loi Kroh",
+  "neighborhood": {
+    "name": "Loi Kroh",
+    "description": "Loi Kroh Road is a street parallel to the Night Bazaar area, lined with bars, restaurants, and guesthouses. It is known for its evening entertainment options including live music and nightlife venues. The road connects to major tourist spots in Chang Khlan.",
+    "bestFor": "nightlife, party, bars",
+    "priceLevel": "€",
+    "highlights": [
+      "Loi Kroh Road bars",
+      "Gentlemen's clubs",
+      "Night Bazaar entrance"
+    ],
+    "walkingScore": "High",
+    "transportNotes": [
+      "Walking distance from Night Bazaar",
+      "Songthaews along Chang Klan Road"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g293917-d459423-Reviews-or10-Loi_Kroh_Road-Chiang_Mai.html"
+      },
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/bangkok_to_chiang_mai/chiang_mai_nightlife/loi_kroh"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Old City (Within the Moat)",
+    "Nimmanhaemin (Nimman)",
+    "Night Bazaar / Chang Khlan",
+    "Riverside (Wat Ket / Charoen Rat)",
+    "Santitham"
+  ],
+  "paaQuestions": [
+    "Which area of Chiang Mai is best to stay in?",
+    "Is Loi Kroh Road safe?",
+    "What is the nicest neighborhood in Chiang Mai?",
+    "Where do the wealthy live in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong end of Loi Kroh can leave you isolated from the action — most first-timers overlook how the street's bar cluster thins out toward quieter guesthouses.",
+    "intro": "Loi Kroh stands out as Chiang Mai's go-to strip for evening revelry, with its lineup of bars and live music spots just steps from the Night Bazaar. We ranked it highest for budget-conscious party seekers prioritizing walkable nightlife over serene escapes.",
+    "vibe": "Lively + boozy",
+    "quickStats": {
+      "priceBand": "€",
+      "walkability": "High",
+      "bestFor": "Nightlife party bars",
+      "safetyNote": "Lively nights, stick to well-lit areas"
+    },
+    "detailedDescription": "On Loi Kroh Road, mornings bring a subdued scene where locals run small shops and guesthouse staff tidy up after the previous night's crowds, with occasional motorbikes zipping along the parallel path to Chang Khlan. By afternoon, the street fills with backpackers grabbing cheap eats from roadside stalls offering pad thai or grilled skewers, while workers from nearby markets take breaks at no-frills coffee spots. As dusk hits, the atmosphere shifts: neon signs flicker on at bars like those clustered mid-road, drawing in groups for cold Chang beers and cover bands playing Thai pop mixed with Western rock. Gentlemen's clubs tucked into side alleys amp up the after-dark energy, with touts calling out to passersby until the wee hours. Noise levels peak around 10pm from laughter, music spills, and revving songthaews, making earplugs a must for light sleepers in nearby guesthouses. Food options lean toward bar grub—think spicy som tam salads and fried chicken wings—rather than fine dining, with a few Thai restaurants serving up to late crowds. Getting around is straightforward on foot to the Night Bazaar entrance, or hop a red songthaew along Chang Klan for quick jaunts to other tourist hubs, though the road's narrow sidewalks can feel cramped during peak hours. It's a spot where budget travelers and solo adventurers blend with short-term expats working remote gigs, but families or early risers might find the late-night hum disruptive.",
+    "localSignals": [
+      "Walking distance to Night Bazaar entrance: 5 minutes",
+      "Typical Grab from Chiang Mai International Airport: 15-20 minutes, fares vary by traffic",
+      "Distance to Loi Kroh Road bars: central strip within 200 meters of most guesthouses",
+      "Noise level at night: loud from live music and crowds until 2am",
+      "Nearest 7-Eleven: on Loi Kroh Road, open 24 hours"
+    ],
+    "pros": [
+      "Steps from Night Bazaar shopping",
+      "Affordable bars with live music",
+      "Easy songthaew access to city center",
+      "Budget guesthouses abundant",
+      "Lively evening people-watching"
+    ],
+    "cons": [
+      "Bar noise disrupts sleep until late",
+      "Crowded sidewalks during peak hours",
+      "Limited quiet daytime activities",
+      "Songthaews skip late-night runs",
+      "Few upscale dining options nearby"
+    ],
+    "skipIf": "Skip if you're traveling with young kids or prefer peaceful mornings away from bar districts.",
+    "compareTo": [
+      {
+        "areaName": "Night Bazaar / Chang Khlan",
+        "shortPitch": "This adjacent area expands on Loi Kroh's energy with more shopping stalls and markets, but less concentrated bar hopping.",
+        "recommendFor": "Shoppers seeking souvenirs"
+      },
+      {
+        "areaName": "Nimmanhaemin (Nimman)",
+        "shortPitch": "Nimman offers trendier cafes and boutiques over Loi Kroh's raw nightlife, with higher prices and a hipper crowd.",
+        "recommendFor": "Foodies and young professionals"
+      },
+      {
+        "areaName": "Old City (Within the Moat)",
+        "shortPitch": "The Old City provides temple-filled walks and history versus Loi Kroh's party focus, in a more contained walled area.",
+        "recommendFor": "Culture enthusiasts on foot"
+      }
+    ],
+    "travellerNote": "Travellers often praise the convenient access to nightlife and affordable stays but note the persistent evening noise and occasional overzealous touts near clubs.",
+    "faq": [
+      {
+        "q": "Which area of Chiang Mai is best to stay in?",
+        "a": "The best area depends on your vibe—Loi Kroh suits nightlife lovers, while Old City fits history buffs; we recommend Loi Kroh for budget party trips."
+      },
+      {
+        "q": "Is Loi Kroh Road safe?",
+        "a": "Loi Kroh is generally safe for tourists during the day and early evening, but stick to groups at night and avoid isolated alleys near clubs to minimize risks."
+      },
+      {
+        "q": "What is the nicest neighborhood in Chiang Mai?",
+        "a": "Nimmanhaemin (Nimman) is often called the nicest for its modern cafes and green spaces, though Loi Kroh wins for those prioritizing walkable entertainment."
+      },
+      {
+        "q": "Where do the wealthy live in Chiang Mai?",
+        "a": "Wealthy expats and locals gravitate to Riverside or Nimmanhaemin for upscale villas and privacy, far from Loi Kroh's bustling bar scene."
+      },
+      {
+        "q": "Is Loi Kroh good for families?",
+        "a": "No, Loi Kroh's late-night bars make it unsuitable for families; opt for Old City instead for calmer, temple-adjacent stays."
+      },
+      {
+        "q": "How walkable is Loi Kroh?",
+        "a": "Highly walkable to Night Bazaar and bars, but watch for uneven sidewalks; songthaews cover longer distances efficiently."
+      }
+    ],
+    "urgencyLine": "Loi Kroh's central guesthouses fill up fast during Yi Peng Lantern Festival—book three months ahead for November spots.",
+    "methodology": "We compared Loi Kroh to Night Bazaar / Chang Khlan and Nimmanhaemin (Nimman) based on walkability, price level, noise, and suitability for its typical travellers. We weighted nightlife access highest because it defines the area's appeal for short-term visitors. Last updated: 2026-04.",
+    "metaTitle": "Staying in Loi Kroh, Chiang Mai (2026)",
+    "metaDescription": "Discover staying in Loi Kroh, Chiang Mai: budget nightlife hub near Night Bazaar with high walkability. Compare areas and see hotels for your 2026 trip."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:21:29.002Z"
+}

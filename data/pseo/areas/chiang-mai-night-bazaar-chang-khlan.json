@@ -1,0 +1,165 @@
+{
+  "template": "area-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "areaSlug": "night-bazaar-chang-khlan",
+  "areaName": "Night Bazaar / Chang Khlan",
+  "neighborhood": {
+    "name": "Night Bazaar / Chang Khlan",
+    "description": "The area around Chiang Mai's famous Night Bazaar, located east of the Old City between the moat and the Ping River. This is the city's original tourist quarter with nightly market shopping, massage parlors, and a mix of Thai and international restaurants. More commercial than the Old City.",
+    "bestFor": "Shoppers & nightlife seekers",
+    "priceLevel": "Budget to Mid-Range",
+    "highlights": [
+      "Night Bazaar runs every evening along Chang Khlan Road",
+      "Anusarn Market has the best food court in the area",
+      "Several mid-range international hotels clustered here",
+      "Easy access to both Old City and Riverside",
+      "Good selection of beer bars and live music venues"
+    ],
+    "recommendedHotels": [
+      "ON Thapae Gate"
+    ],
+    "walkingScore": "7/10",
+    "transportNotes": [
+      "10-minute walk to Old City through Tha Phae Gate",
+      "Night Bazaar area is well-served by tuk-tuks and songthaews",
+      "Close to Warorot Market on the river"
+    ],
+    "sources": [
+      {
+        "sourceName": "PM Tours",
+        "sourceUrl": "https://www.pm-tours.com/pm-tours-blog/chiang-mai-neighborhood-guide-where-to-stay-during-your-trip",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "ON Thapae Gate",
+      "category": "mid-range",
+      "priceRange": "1,500–2,800 THB/night (~$42–80 USD)",
+      "area": "Old City / Tha Phae Gate",
+      "description": "Modern hotel with spacious rooms, 24/7 reception, and a prime location straddling the Old Town and Night Bazaar areas. Rooftop pool with city views and a stylish lobby cafe.",
+      "highlights": [
+        "Rooftop pool with panoramic views",
+        "Walking distance to both Old City and Night Bazaar",
+        "24-hour reception and concierge"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DON%2520Thapae%2520Gate%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Old City (Within the Moat)",
+    "Nimmanhaemin (Nimman)",
+    "Riverside (Wat Ket / Charoen Rat)",
+    "Santitham",
+    "Chang Phuak"
+  ],
+  "paaQuestions": [
+    "Where to stay in Chiang Mai Night Bazaar?",
+    "Is Chiang Mai Night Market worth it?",
+    "What area in Chiang Mai is the best to stay?",
+    "Which night market is best in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Night Bazaar / Chang Khlan can leave you stuck in noisy traffic without easy market access — most first-timers overlook the core strip along Chang Khlan Road.",
+    "intro": "Night Bazaar / Chang Khlan stands out as Chiang Mai's original tourist hub, packed with evening markets, affordable eats, and beer bars east of the Old City moat toward the Ping River. We ranked it high for shoppers and nightlife seekers based on its commercial energy, mid-range pricing, and walkable access to key spots like Anusarn Market.",
+    "vibe": "Commercial + bustling",
+    "quickStats": {
+      "priceBand": "€-€€",
+      "walkability": "Medium",
+      "bestFor": "Shoppers & nightlife seekers",
+      "safetyNote": "Safe overall, watch bags in market crowds"
+    },
+    "detailedDescription": "In Night Bazaar / Chang Khlan, evenings kick off with vendors lining Chang Khlan Road, hawking souvenirs and street food from 6pm until midnight, drawing backpackers and day-trippers from the Old City. Locals who work in shops and restaurants mix with tourists, creating a steady hum of bargaining and laughter, while daytime sees quieter streets with offices and guesthouses filling up. Noise ramps up after dark from market chatter and occasional live music spilling from nearby bars, but it quiets by 1am on side lanes. Food options cluster at Anusarn Market's open-air court, where Thai noodle stalls and international bites like pizza keep things casual and cheap, often under 100 THB a meal. Getting around means dodging songthaews on the main road or hopping tuk-tuks for short hops to the river; it's a 10-minute stroll to Tha Phae Gate for Old City entry, but pedestrian paths narrow during peak hours. Workers here are mostly young Thais running family stalls or mid-range hotels, and the area's commercial tilt means fewer temples but more practical spots like pharmacies near the market entrance.",
+    "localSignals": [
+      "No BTS/MRT; songthaews run along Chang Khlan Road every 5-10 minutes",
+      "Typical Grab/taxi from Chiang Mai Airport (CNX): 250-350 THB, 20-30 minutes",
+      "Distance to Night Bazaar: central along Chang Khlan Road, 0-5 minute walk",
+      "Noise level at night: loud from market vendors until midnight",
+      "Nearest convenience: 7-Eleven clusters every 200 meters on Chang Khlan Road"
+    ],
+    "pros": [
+      "Evening market shopping steps away",
+      "Affordable Thai and international food courts",
+      "Easy 10-minute walk to Old City",
+      "Lively beer bars and live music spots",
+      "Tuk-tuks readily available for short trips"
+    ],
+    "cons": [
+      "Crowded sidewalks during Night Bazaar hours",
+      "Traffic noise on Chang Khlan Road until 11pm",
+      "Fewer quiet cafes compared to Old City",
+      "Songthaews can be inconsistent after midnight",
+      "Pickpocketing risk in dense market crowds"
+    ],
+    "skipIf": "Skip if you want serene temple vibes away from tourist crowds.",
+    "stayRecommendations": [
+      {
+        "name": "ON Thapae Gate",
+        "why": "This mid-range hotel fits Night Bazaar / Chang Khlan with its prime spot bridging the market and Old City, offering spacious rooms and a rooftop pool for unwinding after evening shopping."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Old City (Within the Moat)",
+        "shortPitch": "Old City offers more historic temples and quieter lanes inside the moat, less commercial than Night Bazaar's market bustle.",
+        "recommendFor": "Culture seekers & families"
+      },
+      {
+        "areaName": "Nimmanhaemin (Nimman)",
+        "shortPitch": "Nimman delivers trendy cafes and upscale boutiques in a modern grid, contrasting Night Bazaar's budget shopping and nightlife focus.",
+        "recommendFor": "Trendy foodies & hipsters"
+      },
+      {
+        "areaName": "Riverside (Wat Ket / Charoen Rat)",
+        "shortPitch": "Riverside provides relaxed riverside dining and fewer crowds along the Ping, differing from Night Bazaar's energetic market streets.",
+        "recommendFor": "Laid-back diners & couples"
+      }
+    ],
+    "travellerNote": "Travellers often praise the convenient access to Night Bazaar shopping and affordable eats but note the evening crowds and street noise can overwhelm those seeking peace.",
+    "faq": [
+      {
+        "q": "Where to stay in Chiang Mai Night Bazaar?",
+        "a": "Opt for spots along Chang Khlan Road like mid-range hotels near Anusarn Market for easy access to stalls and food courts. We recommend ON Thapae Gate for its central location."
+      },
+      {
+        "q": "Is Chiang Mai Night Market worth it?",
+        "a": "Yes, Night Bazaar offers great bargains on souvenirs and street food every evening, making it ideal for shoppers, though arrive early to beat the crowds."
+      },
+      {
+        "q": "What area in Chiang Mai is the best to stay?",
+        "a": "It depends on your vibe; Night Bazaar / Chang Khlan suits budget nightlife seekers, while Old City fits history buffs—compare based on walkability and interests."
+      },
+      {
+        "q": "Which night market is best in Chiang Mai?",
+        "a": "Night Bazaar edges out others for its mix of shopping and food variety along Chang Khlan Road, perfect for first-timers, though Nimman has trendier options."
+      },
+      {
+        "q": "Is Night Bazaar safe at night?",
+        "a": "Generally safe with good lighting and crowds, but stay alert for pickpockets and stick to main paths after dark."
+      },
+      {
+        "q": "How to get to Night Bazaar from Old City?",
+        "a": "Walk 10 minutes through Tha Phae Gate or take a songthaew for 20 THB; it's the quickest way to evening markets."
+      }
+    ],
+    "urgencyLine": "Rooms near Night Bazaar's Chang Khlan Road strip book up fast during cool season—secure spots 2-3 months ahead for 2026.",
+    "methodology": "We compared Night Bazaar / Chang Khlan to Old City (Within the Moat) and Nimmanhaemin (Nimman) based on walkability, price level, noise, and suitability for its typical travellers. We weighted accessibility to markets highest because shoppers prioritize evening convenience over quiet retreats. Last updated: 2026-04.",
+    "metaTitle": "Staying in Night Bazaar / Chang Khlan, Chiang Mai (2026)",
+    "metaDescription": "Discover staying in Night Bazaar / Chang Khlan, Chiang Mai: budget-mid hotels near evening markets and food courts. Compare areas and see hotels for your…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:19:21.511Z"
+}

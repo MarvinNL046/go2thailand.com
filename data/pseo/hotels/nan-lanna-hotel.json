@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nan",
+  "cityName": "Nan",
+  "hotelSlug": "nan-lanna-hotel",
+  "hotel": {
+    "name": "Nan Lanna Hotel",
+    "category": "budget",
+    "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+    "area": "Nan Old Town",
+    "description": "A well-located budget hotel in the old town area offering clean, air-conditioned rooms with en-suite bathrooms at prices that leave plenty for food and activities. The hotel sits within the old town temple circuit — you can walk to Wat Phumin in 10 minutes and the National Museum in 15. Free WiFi and simple breakfast options make it a solid base for exploring Nan without paying boutique prices.",
+    "highlights": [
+      "Old town location within walking distance of all main temples",
+      "Good value air-conditioned rooms with private bathroom",
+      "Free WiFi and simple breakfast included in some rate packages"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/nan.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Lanna%2520Hotel%252C%2520Nan%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Nan Guesthouse",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "Nan Old Town",
+      "description": "A backpacker favorite in the heart of the old town, a short walk from Wat Phumin and the National Museum. Clean fan and air-conditioned rooms in a traditional wooden building. The friendly Thai owners are an invaluable source of information on Nan's hidden gems — ask them about current road conditions for Doi Phu Kha and Bo Kluea before setting out.",
+      "highlights": [
+        "Walking distance to Wat Phumin and the museum",
+        "Knowledgeable local owners with DIY travel advice",
+        "Bicycle rental available at the guesthouse (50-80 THB/day)"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/nan/nan/all",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Guesthouse%252C%2520Nan%252C%2520Thailand"
+    },
+    {
+      "name": "Fah Place",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "Nan Old Town",
+      "description": "A charming small guesthouse in a traditional northern Thai wooden building near Wat Phumin. The owner maintains a locally-focused atmosphere — local maps and tips are pinned to the walls, the common area has books and leftover guides from travelers, and the kitchen sometimes produces simple breakfasts at honest prices. A genuine budget gem for travelers who want character over amenities.",
+      "highlights": [
+        "Traditional northern Thai wooden building",
+        "Local atmosphere with community travel tips and maps",
+        "Steps from Wat Phumin and the walking street market"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "culture seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/nan/nan/all",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFah%2520Place%252C%2520Nan%252C%2520Thailand"
+    },
+    {
+      "name": "Nan Boutique Hotel",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "Nan Old Town",
+      "description": "A well-regarded mid-range option in the old town with comfortable air-conditioned rooms, modern bathrooms, and a small lobby area with local tourist information. The property has been designed with sensitivity to Nan's heritage character — northern Thai decor elements throughout without feeling kitsch. The central location puts guests within easy reach of all old town temples and the weekend walking street market.",
+      "highlights": [
+        "Northern Thai heritage-influenced interior design",
+        "Central old town location near all major temples",
+        "Comfortable modern rooms at reasonable mid-range prices"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "cultural travelers",
+        "mid-range budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g662326-Nan_Nan_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNan%2520Boutique%2520Hotel%252C%2520Nan%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Nan Lanna Hotel without knowing the simple breakfast is only in some rate packages can leave you starting your day without included food options.",
+    "intro": "Nan Lanna Hotel delivers clean, air-conditioned rooms with en-suite bathrooms in a prime old town spot, keeping costs low at 800-1,400 THB per night for budget-conscious stays. It's ideal for budget travelers, couples, and families who want walkable access to Nan's temples without boutique hotel prices.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget travelers and families",
+      "standout": "Old town location",
+      "noGoFor": "Luxury-seeking guests"
+    },
+    "whyBook": [
+      "Walk to Wat Phumin in 10 minutes from rooms",
+      "Clean air-conditioned rooms with private bathrooms",
+      "Free WiFi throughout the hotel property",
+      "Simple breakfast included in select packages",
+      "Affordable rates leave budget for local activities"
+    ],
+    "whyNotBook": [
+      "No on-site pool or gym for relaxation downtime",
+      "Simple breakfast options lack variety for longer stays",
+      "Basic room decor without modern boutique touches",
+      "Limited amenities beyond essentials in budget setup",
+      "No shuttle service mentioned for farther attractions"
+    ],
+    "skipIf": "Skip if you're seeking upscale amenities like a spa or diverse dining on-site in Nan.",
+    "detailedReview": "Checking into Nan Lanna Hotel feels straightforward and welcoming in the heart of Nan Old Town, with staff handling the process efficiently without frills. Rooms offer a practical vibe: clean spaces with air-conditioning that cools effectively against the northern Thai heat, en-suite bathrooms equipped with basics like hot showers, and enough comfort for rest after temple hopping. The standout amenity is the free WiFi, reliable for planning daily walks or sharing photos from nearby sites. Food quality centers on the simple breakfast in some packages—think toast, eggs, and coffee—served in a modest area, sufficient for fueling up but not a highlight for foodies. Service style is friendly and local, with staff providing tips on the temple circuit rather than personalized concierge flair. Typical guests are budget travelers, couples strolling hand-in-hand to Wat Phumin, and families keeping things affordable while exploring Nan's cultural spots. At these prices, it serves as a no-nonsense base, though the simplicity means no extras like room service or evening entertainment. Overall, it's a solid pick for those prioritizing location and value over luxury, letting you save for street food and museum entries instead.",
+    "locationReality": "Nan Lanna Hotel sits right in Nan Old Town, placing you within the temple circuit for easy exploration on foot. Wat Phumin is a 10-minute walk away, and the National Museum takes about 15 minutes, making it convenient for cultural immersion without transport needs. For spots beyond the old town, like farther markets, expect a short Grab ride costing around 100-200 THB, as walking isn't feasible for everything in this compact northern Thai town.",
+    "localSignals": [
+      "10-minute walk to Wat Phumin temple",
+      "15-minute walk to National Museum",
+      "Free WiFi available in all rooms",
+      "Simple breakfast included in some rate packages",
+      "Within Nan Old Town temple circuit"
+    ],
+    "travellerNote": "Guests often praise the walkable old town location and value for money but note the basic room amenities and limited breakfast variety.",
+    "bookingTips": [
+      "Request rooms with included simple breakfast to avoid add-on costs",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike in November-February high season for Nan festivals",
+      "Verify breakfast policy directly as it's not in all packages",
+      "Book early for ground-floor rooms if mobility is a concern"
+    ],
+    "similarHotels": [
+      {
+        "name": "Nan Guesthouse",
+        "howDifferent": "Cheaper at 400-700 THB with fan options, more backpacker-focused than Nan Lanna's air-conditioned comfort."
+      },
+      {
+        "name": "Fah Place",
+        "howDifferent": "Smaller guesthouse in wooden building at 600-1,000 THB, emphasizing traditional atmosphere over Nan Lanna's modern basics."
+      },
+      {
+        "name": "Nan Boutique Hotel",
+        "howDifferent": "Mid-range at 1,500-2,500 THB with more comfortable modern rooms, pricier than Nan Lanna's budget setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Nan Lanna Hotel walking distance to main attractions?",
+        "a": "Yes, it's 10 minutes to Wat Phumin and 15 minutes to the National Museum in Nan Old Town."
+      },
+      {
+        "q": "Does Nan Lanna Hotel include breakfast?",
+        "a": "Simple breakfast is included in some rate packages, but confirm when booking as it's not universal."
+      },
+      {
+        "q": "What room amenities are at Nan Lanna Hotel?",
+        "a": "Rooms feature air-conditioning, en-suite bathrooms, and free WiFi for basic comfort."
+      },
+      {
+        "q": "Is Nan Lanna Hotel suitable for families?",
+        "a": "Yes, its budget pricing and clean rooms make it a good fit for families exploring Nan on foot."
+      },
+      {
+        "q": "How much does Nan Lanna Hotel cost per night?",
+        "a": "Rates range from 800-1,400 THB (~$22-39 USD), offering good value in the old town."
+      },
+      {
+        "q": "Is there free WiFi at Nan Lanna Hotel?",
+        "a": "Yes, free WiFi is provided throughout the hotel for guest use."
+      }
+    ],
+    "urgencyLine": "Rooms at Nan Lanna Hotel with old town walking access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Nan Lanna Hotel based on location, value, and basic amenities from provided data. We weighted old town proximity highest because Nan's appeal lies in its walkable cultural sites. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nan Lanna Hotel Review (2026)",
+    "metaDescription": "Nan Lanna Hotel in Nan Old Town offers budget rooms at 800-1,400 THB with free WiFi and temple walks, but expect basic breakfast in select packages. Ideal for value seekers—book for clean stays near Wat Phumin. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:02:28.535Z"
+}

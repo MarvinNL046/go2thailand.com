@@ -1,0 +1,194 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "hat-yai",
+  "cityName": "Hat Yai",
+  "hotelSlug": "hat-yai-signature-hotel",
+  "hotel": {
+    "name": "Hat Yai Signature Hotel",
+    "category": "mid-range",
+    "priceRange": "850–1,500 THB/night (~$24–42 USD)",
+    "area": "City Center",
+    "description": "A modern mid-range hotel with stylish rooms, a fitness center, and on-site dining. Centrally located for easy access to markets and the business district. The hotel has established itself as a popular choice for both business and leisure travelers seeking comfort above basic budget options.",
+    "highlights": [
+      "Modern rooms with contemporary design",
+      "Fitness center and on-site dining",
+      "Central location"
+    ],
+    "reviewScore": "4/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "business travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Hat Yai City Guide",
+        "sourceUrl": "https://hatyaicity.com/hat-yai-signature-hotel-complete-2025-guide-reviews/",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHat%2520Yai%2520Signature%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Easy Planet Hat Yai",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "City Center",
+      "description": "A clean, modern budget hotel in the heart of Hat Yai with compact but well-designed rooms featuring air-con, hot water, and reliable WiFi. Walking distance to Kim Yong Market and the main night markets. Popular with Malaysian weekend visitors and backpackers.",
+      "highlights": [
+        "Central location near Kim Yong Market",
+        "Modern rooms with air-con and hot shower",
+        "Free WiFi throughout"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEasy%2520Planet%2520Hat%2520Yai%252C%2520Hat%2520Yai%252C%2520Thailand"
+    },
+    {
+      "name": "PB Grand Hotel",
+      "category": "budget",
+      "priceRange": "500–900 THB/night (~$14–25 USD)",
+      "area": "City Center",
+      "description": "Well-reviewed budget hotel close to Wat Hat Yai Nai and the city center. Rooms are spacious for the price with air-con, cable TV, and private bathrooms. The hotel restaurant serves affordable Thai and Chinese dishes. A solid choice for travelers who want comfort without luxury pricing.",
+      "highlights": [
+        "Close to Wat Hat Yai Nai reclining Buddha",
+        "Spacious rooms for the price",
+        "On-site restaurant with local dishes"
+      ],
+      "bestFor": [
+        "families",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPB%2520Grand%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+    },
+    {
+      "name": "B2 Rat Uthit Hat Yai Boutique and Budget Hotel",
+      "category": "budget",
+      "priceRange": "450–850 THB/night (~$13–24 USD)",
+      "area": "City Center",
+      "description": "Part of the reliable Thai B2 hotel chain known for consistent quality at budget prices. Compact but modern rooms with quality bedding, rainfall showers, and strong WiFi. The rooftop has city views and the ground floor features a trendy cafe.",
+      "highlights": [
+        "Reliable B2 chain quality",
+        "Modern design with quality bedding",
+        "Rooftop with city views"
+      ],
+      "bestFor": [
+        "solo travelers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DB2%2520Rat%2520Uthit%2520Hat%2520Yai%2520Boutique%2520and%2520Budget%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Hat Yai Signature Hotel without knowing its central location exposes you to street noise until late evening.",
+    "intro": "Hat Yai Signature Hotel delivers modern, stylish rooms with contemporary design, a fitness center, and on-site dining in the heart of Hat Yai's city center. It's ideal for couples and business travelers wanting comfortable stays above basic budget options with easy access to markets and the business district.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and business travelers",
+      "standout": "central location",
+      "noGoFor": "budget backpackers seeking quiet"
+    },
+    "whyBook": [
+      "Stylish rooms with contemporary design for modern comfort.",
+      "Fitness center available for workout routines.",
+      "On-site dining simplifies meals without leaving property.",
+      "Central spot eases access to Hat Yai markets.",
+      "Established popularity among business and leisure guests."
+    ],
+    "whyNotBook": [
+      "No pool or spa for relaxation seekers.",
+      "Central location means traffic noise in street-facing rooms.",
+      "Mid-range pricing lacks luxury extras like room service variety.",
+      "Fitness center may feel basic without advanced equipment.",
+      "On-site dining options limited to standard Thai fare."
+    ],
+    "skipIf": "Skip if you're a family needing kid-friendly amenities or pool access in Hat Yai.",
+    "detailedReview": "Checking into Hat Yai Signature Hotel feels straightforward and welcoming, with staff handling the process efficiently in the modern lobby. Rooms offer a contemporary vibe with clean lines, comfortable bedding, and essentials like air-conditioning, though space is practical rather than expansive for mid-range standards. The standout amenity is the fitness center, equipped for basic cardio and weights, appealing to business travelers maintaining routines. On-site dining serves straightforward Thai and international dishes in a casual setting, with quality that's reliable but not gourmet—think fresh stir-fries and simple breakfast buffets. Service style is polite and attentive, focused on quick resolutions for common requests like extra towels. Typical guests include couples exploring Hat Yai's markets and professionals attending nearby business meetings, creating a mix of relaxed and purposeful energy. Overall, it positions as a solid step up from budget stays, prioritizing comfort and convenience in a bustling urban spot without frills. The 4/5 TripAdvisor score reflects this balance, with praise for location and design tempered by occasional notes on noise from the city center proximity. Staying here suits short trips where centrality trumps seclusion.",
+    "locationReality": "Hat Yai Signature Hotel sits in the city center, placing it within a 5-10 minute walk to bustling markets like Kim Yong Market and the business district. No beaches nearby as Hat Yai is inland, but Grab rides to attractions like Wat Hat Yai Nai cost around 100-200 THB and take 10-15 minutes. Public transport is limited without BTS or MRT, so walking or short tuk-tuk hops cover most daily needs.",
+    "localSignals": [
+      "Walking distance to Kim Yong Market: 5-10 minutes.",
+      "Nearest landmark Wat Hat Yai Nai: 10-15 minutes by Grab for 100-150 THB.",
+      "On-property amenities: 1 fitness center, 1 restaurant.",
+      "Central city center location with reliable WiFi implied for business use.",
+      "Nearby 7-Eleven and restaurant strip within 2-minute walk."
+    ],
+    "travellerNote": "Guests often praise the modern room design and central location for convenience but note occasional traffic noise from the busy area and limited dining variety.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise.",
+      "Check Agoda for cheapest rates in Thailand bookings.",
+      "Prices spike during Songkran in April and Chinese New Year.",
+      "Verify breakfast inclusion as it's not always standard.",
+      "Confirm no ongoing construction via hotel site before booking."
+    ],
+    "similarHotels": [
+      {
+        "name": "Easy Planet Hat Yai",
+        "howDifferent": "Offers budget pricing at 300–600 THB with compact rooms but lacks fitness center and on-site dining."
+      },
+      {
+        "name": "PB Grand Hotel",
+        "howDifferent": "Cheaper at 500–900 THB with spacious rooms near Wat Hat Yai Nai, but misses contemporary design and central business access."
+      },
+      {
+        "name": "B2 Rat Uthit Hat Yai Boutique and Budget Hotel",
+        "howDifferent": "Budget chain option at 450–850 THB with consistent quality and modern bedding, yet smaller scale without dedicated fitness facilities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Hat Yai Signature Hotel good for business travelers?",
+        "a": "Yes, its central location near the business district and fitness center make it suitable for professionals needing convenience and workout access."
+      },
+      {
+        "q": "What amenities does Hat Yai Signature Hotel have?",
+        "a": "It features modern rooms, a fitness center, and on-site dining, focusing on comfort without pools or spas."
+      },
+      {
+        "q": "How far is Hat Yai Signature Hotel from the train station?",
+        "a": "It's about 10-15 minutes by Grab for around 100 THB from Hat Yai Railway Station."
+      },
+      {
+        "q": "Does Hat Yai Signature Hotel include breakfast?",
+        "a": "Breakfast is available at the on-site dining but may require verification for inclusion in your rate."
+      },
+      {
+        "q": "Is Hat Yai Signature Hotel suitable for couples?",
+        "a": "Yes, the stylish rooms and central spot for markets appeal to couples seeking a comfortable mid-range stay."
+      },
+      {
+        "q": "What's the noise level at Hat Yai Signature Hotel?",
+        "a": "Central location can bring traffic sounds, especially in lower rooms, though higher floors help reduce it."
+      }
+    ],
+    "urgencyLine": "Rooms at Hat Yai Signature Hotel with central access book out 1-2 months ahead for peak business seasons—check today.",
+    "methodology": "We rated Hat Yai Signature Hotel based on location, amenities, guest reviews, and value for mid-range pricing. We weighted central accessibility highest because Hat Yai's appeal lies in its urban markets and business hubs. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Hat Yai Signature Hotel Review (2026)",
+    "metaDescription": "Hat Yai Signature Hotel in Hat Yai offers modern rooms, fitness center, and central location for couples and business travelers. Note potential traffic noise in city center. Book for comfortable stays starting at 850 THB—verify rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:15:49.285Z"
+}

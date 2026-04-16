@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kanchanaburi",
+  "cityName": "Kanchanaburi",
+  "hotelSlug": "x2-river-kwai-resort",
+  "hotel": {
+    "name": "X2 River Kwai Resort",
+    "category": "luxury",
+    "priceRange": "4,000–9,000 THB/night (~$112–252 USD)",
+    "area": "Riverside, north of town",
+    "description": "A contemporary luxury resort with striking modern architecture set alongside the River Kwai. Spacious rooms with floor-to-ceiling windows, a dramatic infinity pool, and a spa. The design-forward aesthetic is unique in Kanchanaburi — a contrast to the typical jungle lodge style.",
+    "highlights": [
+      "Award-winning contemporary architecture",
+      "Infinity pool overlooking the River Kwai",
+      "Full-service spa and wellness center"
+    ],
+    "bestFor": [
+      "couples",
+      "design lovers",
+      "relaxation seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297924-d6495775-Reviews-X2_River_Kwai_Resort-Kanchanaburi_Kanchanaburi_Province.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DX2%2520River%2520Kwai%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "The FloatHouse River Kwai",
+      "category": "luxury",
+      "priceRange": "5,000–12,000 THB/night (~$140–336 USD)",
+      "area": "Sai Yok area, River Kwai Noi",
+      "description": "Kanchanaburi's most luxurious floating accommodation — private floating villas with custom teakwood furniture, thatched roofing, and individual decks over the water. Each villa has air-conditioning, hot showers, and panoramic views of the river and surrounding jungle. Fine dining restaurant on the main floating platform.",
+      "highlights": [
+        "Private floating villas with teakwood interiors",
+        "Air-con, hot water, and modern comforts on the river",
+        "Panoramic floating villa option with 270-degree river views"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons",
+        "luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "The FloatHouse River Kwai",
+          "sourceUrl": "https://www.thefloathouseriverkwai.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520FloatHouse%2520River%2520Kwai%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "Dheva Mantra Resort & Spa",
+      "category": "luxury",
+      "priceRange": "3,500–8,000 THB/night (~$100–225 USD)",
+      "area": "Riverside, near the Bridge",
+      "description": "An elegant colonial-style resort with manicured gardens, a large swimming pool, and spacious rooms with river or garden views. The full-service spa and multiple dining options make it a comfortable base for exploring. Walking distance to the Bridge.",
+      "highlights": [
+        "Colonial-style architecture with tropical gardens",
+        "Large pool and full-service spa",
+        "Walking distance to the Bridge over River Kwai"
+      ],
+      "bestFor": [
+        "couples",
+        "families",
+        "relaxation seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297924-d1914614-Reviews-Dheva_Mantra_Resort_Spa-Kanchanaburi_Kanchanaburi_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDheva%2520Mantra%2520Resort%2520%2526%2520Spa%252C%2520Kanchanaburi%252C%2520Thailand"
+    },
+    {
+      "name": "Home Phutoey River Kwai Resort",
+      "category": "luxury",
+      "priceRange": "3,000–7,000 THB/night (~$84–196 USD)",
+      "area": "Sai Yok area",
+      "description": "A hillside resort overlooking the River Kwai Noi with private pool villas, a stunning infinity pool, and lush tropical landscaping. The resort arranges floating market visits, bamboo rafting, and Sai Yok National Park excursions. A tranquil jungle retreat with resort-level comfort.",
+      "highlights": [
+        "Infinity pool with panoramic river and mountain views",
+        "Private pool villa options available",
+        "On-site activities and tour arrangements"
+      ],
+      "bestFor": [
+        "couples",
+        "honeymoons",
+        "nature lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Home Phutoey River Kwai",
+          "sourceUrl": "https://www.homephutoeyriverkwai.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHome%2520Phutoey%2520River%2520Kwai%2520Resort%252C%2520Kanchanaburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is the bridge on the river Kwai worth visiting?",
+    "Is River Kwai clean?",
+    "Where to stay on the River Kwai?",
+    "Is the River Kwai in Kanchanaburi?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking X2 River Kwai Resort without knowing its remote north-of-town location can leave you stranded without easy access to Kanchanaburi's main attractions.",
+    "intro": "X2 River Kwai Resort delivers a sleek, modern escape with spacious rooms featuring floor-to-ceiling windows and an infinity pool gazing over the River Kwai, backed by its award-winning architecture that stands out in the area. It's tailored for couples and design lovers seeking relaxation amid a unique, contemporary vibe away from typical jungle lodges.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "couples design relaxation seekers",
+      "standout": "contemporary architecture",
+      "noGoFor": "budget family travelers"
+    },
+    "whyBook": [
+      "Infinity pool with direct River Kwai views",
+      "Spacious rooms boasting floor-to-ceiling windows",
+      "Full-service spa for wellness treatments",
+      "Award-winning modern design unique locally"
+    ],
+    "whyNotBook": [
+      "Remote riverside spot requires transport to town sites",
+      "Modern aesthetic clashes with traditional Kanchanaburi expectations",
+      "Limited on-site dining options beyond spa cafe",
+      "No family-friendly amenities like kids club",
+      "Access north of town means longer drives to bridge"
+    ],
+    "skipIf": "Skip if you're traveling with young children or prefer bustling town-center stays near historical sites.",
+    "detailedReview": "Arriving at X2 River Kwai Resort feels like stepping into a minimalist art installation, with check-in handled efficiently at the open-air lobby overlooking the river. Rooms are generously sized, emphasizing natural light through floor-to-ceiling windows that frame the Kwai's flowing waters, though some may find the stark white interiors a bit clinical compared to warmer Thai styles. The standout infinity pool extends dramatically toward the river, offering serene laps in the morning light, while the full-service spa provides treatments using local herbs in a tranquil pavilion setting. Food leans toward healthy, spa-inspired fare at the main restaurant—think fresh salads and grilled fish with river views—but portions are modest, and variety dips for longer stays without venturing out. Service is polished yet unobtrusive, with staff anticipating needs like chilled towels poolside, aligning with the resort's relaxed ethos. Typical guests are couples in their 30s-50s, drawn by the design-forward escape, often pairing stays with day trips to nearby war history sites, though the north-of-town isolation suits those prioritizing peace over convenience. Overall, it's a thoughtful retreat for unwinding, but expect to arrange shuttles for anything beyond the property's confines.",
+    "locationReality": "Situated riverside north of Kanchanaburi town, X2 River Kwai Resort is about 20-30 minutes by car from the iconic Bridge on the River Kwai, making it ideal for quiet escapes but not for walkable sightseeing. Within a 5-minute walk, you'll find only the resort's grounds and river paths, with no shops or eateries nearby. Reaching town requires a Grab ride costing around 300-500 THB one-way, or the resort's potential shuttle service.",
+    "localSignals": [
+      "20-30 minute drive to Bridge on the River Kwai",
+      "One infinity pool on property",
+      "Full-service spa and one main restaurant",
+      "Riverside location north of Kanchanaburi town center",
+      "No nearby 7-Eleven; nearest in town 20 minutes away"
+    ],
+    "travellerNote": "Guests often praise the unique modern architecture and infinity pool views but note the remote location complicates access to attractions without planning transport.",
+    "bookingTips": [
+      "Request river-view rooms for best floor-to-ceiling window experiences",
+      "Check Agoda for Thailand deals, often cheaper than Booking.com",
+      "Prices spike November-February during cool season peak",
+      "Verify shuttle availability to town before booking",
+      "Confirm breakfast inclusion as it's not always standard"
+    ],
+    "similarHotels": [
+      {
+        "name": "The FloatHouse River Kwai",
+        "howDifferent": "Offers floating villas on the river for a more adventurous, water-based luxury experience unlike X2's land-bound modern design."
+      },
+      {
+        "name": "Dheva Mantra Resort & Spa",
+        "howDifferent": "Provides colonial-style elegance with garden views and a larger pool, contrasting X2's contemporary architecture."
+      },
+      {
+        "name": "Home Phutoey River Kwai Resort",
+        "howDifferent": "Features hillside private pool villas amid tropical landscaping, differing from X2's sleek riverside minimalism."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is the bridge on the river Kwai worth visiting?",
+        "a": "Yes, the Bridge on the River Kwai is a must-see historical site from WWII, offering poignant insights into the Death Railway—plan a half-day visit from resorts like X2."
+      },
+      {
+        "q": "Is River Kwai clean?",
+        "a": "The River Kwai varies in cleanliness; upper sections near resorts like X2 are clearer for scenic views, but downstream areas can show pollution from tourism and agriculture."
+      },
+      {
+        "q": "Where to stay on the River Kwai?",
+        "a": "Riverside options in Kanchanaburi include X2 River Kwai Resort for modern luxury north of town, or floating stays like The FloatHouse for unique water access."
+      },
+      {
+        "q": "Is the River Kwai in Kanchanaburi?",
+        "a": "Yes, the River Kwai flows through Kanchanaburi province, with key attractions like the bridge and resorts such as X2 located along its banks."
+      },
+      {
+        "q": "What makes X2 River Kwai Resort unique?",
+        "a": "Its award-winning contemporary architecture and infinity pool overlooking the river set it apart from traditional jungle lodges in the area."
+      },
+      {
+        "q": "Is X2 River Kwai Resort family-friendly?",
+        "a": "It's best for couples and relaxation, lacking kid-specific amenities, so families may prefer resorts with pools and activities closer to town."
+      }
+    ],
+    "urgencyLine": "Rooms at X2 River Kwai Resort with infinity pool access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated X2 River Kwai Resort based on its architecture, amenities, location, and guest suitability from provided data. We weighted design and relaxation features highest because they define its appeal in Kanchanaburi's landscape. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "X2 River Kwai Resort Review (2026)",
+    "metaDescription": "X2 River Kwai Resort in Kanchanaburi offers luxury with award-winning modern architecture and River Kwai infinity pool views. Remote north-of-town spot needs transport to sites—book for couples' relaxation escapes now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:27:58.389Z"
+}

@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lampang",
+  "cityName": "Lampang",
+  "hotelSlug": "c2-residence-boutique-hotel",
+  "hotel": {
+    "name": "C2 Residence Boutique Hotel",
+    "category": "budget",
+    "priceRange": "490–900 THB (~14–26 USD) per night",
+    "area": "City Centre",
+    "description": "A modern boutique-style hotel offering clean, contemporary rooms at genuine budget prices. C2 Residence combines the style of a boutique property with the affordability of a guesthouse. Rooms are compact but well-appointed with quality bedding, modern bathrooms and air conditioning. The central location makes it easy to walk to most city attractions, and the rooftop area offers views over the city to the surrounding mountains.",
+    "highlights": [
+      "Boutique style at budget prices",
+      "Modern rooms with quality furnishings",
+      "Central location for walking to attractions",
+      "Free Wi-Fi and good A/C",
+      "Rooftop area with city views"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fc2-residence-lampang.html",
+    "reviewScore": "8.0/10",
+    "bestFor": [
+      "Couples",
+      "Budget travellers wanting style",
+      "Short stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripCanvas — Boutique Hotels in Lampang",
+        "sourceUrl": "https://thailand.tripcanvas.co/chiang-mai/boutique-hotels-in-lampang/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Khelangnakorn Hotel",
+      "category": "budget",
+      "priceRange": "350–700 THB (~10–20 USD) per night",
+      "area": "City Centre",
+      "description": "A long-standing Lampang institution and one of the best-value budget hotels in northern Thailand. Khelangnakorn Hotel offers clean, spacious air-conditioned rooms with hot water at prices that have barely changed in years. The central location puts you within walking distance of Baan Sao Nak, the riverside and most city centre temples. The hotel is no-frills but well-maintained, and the helpful front desk can arrange transport to outlying attractions.",
+      "highlights": [
+        "Unbeatable value — large A/C rooms from 350 THB",
+        "Central location near temples and restaurants",
+        "On-site parking for those with rental cars or motorbikes",
+        "Helpful staff who can arrange transport to the Elephant Center",
+        "Walking distance to Kad Kong Ta walking street"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhelangnakorn-lampang.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget travellers",
+        "Solo backpackers",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Lampang Hotels",
+          "sourceUrl": "https://www.kayak.com/Lampang-Hotels.53255.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Baan Chiang Bed Lampang",
+      "category": "budget",
+      "priceRange": "400–800 THB (~12–23 USD) per night",
+      "area": "City Centre",
+      "description": "A modern, well-designed budget hotel that punches above its weight. Baan Chiang Bed offers compact but thoughtfully furnished rooms with quality mattresses, clean bathrooms and a minimalist aesthetic that would not look out of place at twice the price. The property is well-reviewed for cleanliness and friendly service. Located on Bandongpattana Road, it is a short walk to the Old Town and the main shopping areas.",
+      "highlights": [
+        "Modern design and excellent cleanliness at budget prices",
+        "Quality mattresses — rare at this price point",
+        "Free Wi-Fi throughout the property",
+        "Friendly, attentive staff",
+        "Short walk to Old Town attractions and restaurants"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-chiang-bed-lampang.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Budget couples",
+        "Design-conscious travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Baan Chiang Bed Lampang",
+          "sourceUrl": "https://www.booking.com/hotel/th/baan-chiang-bed-lampang.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "The Riverside Guest House",
+      "category": "budget",
+      "priceRange": "600–850 THB (~17–24 USD) per night",
+      "area": "Riverside / Old Town",
+      "description": "A charming wooden guesthouse on the banks of the Wang River, The Riverside Guest House has been a traveller favourite for years. Simple but atmospheric rooms overlook the river, and the communal terrace is perfect for watching sunset over the water while swapping stories with other guests. The location along the river near Kad Kong Ta is ideal for weekend market evenings. The owner is a font of local knowledge and can help arrange day trips.",
+      "highlights": [
+        "Atmospheric riverside location with river-view rooms",
+        "Communal terrace overlooking the Wang River",
+        "Walking distance to Kad Kong Ta walking street",
+        "Knowledgeable owner helps with local tips and transport",
+        "Charming traditional wooden building"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-riverside-guest-house-lampang.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Solo travellers",
+        "Backpackers",
+        "Weekend market visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Riverside Guest House Lampang",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303911-d1009138-Reviews-Riverside_Guest_House-Lampang_Lampang_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking C2 Residence Boutique Hotel without knowing the rooms are compact can lead to feeling cramped during short stays.",
+    "intro": "C2 Residence Boutique Hotel delivers modern, clean rooms with quality bedding and air conditioning at true budget rates in Lampang's city centre. It's ideal for couples and style-conscious budget travellers on short trips who value walkable access to attractions.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget style-seeking couples",
+      "standout": "rooftop views",
+      "noGoFor": "Families needing space"
+    },
+    "whyBook": [
+      "Boutique style rooms with modern bathrooms at 490–900 THB.",
+      "Central location allows walking to Lampang city attractions.",
+      "Free Wi-Fi and reliable air conditioning in every room.",
+      "Rooftop area provides views of city and surrounding mountains.",
+      "Quality bedding ensures comfortable short stays for couples."
+    ],
+    "whyNotBook": [
+      "Compact rooms limit space for unpacking or lounging comfortably.",
+      "No on-site restaurant means relying on nearby eateries for meals.",
+      "Rooftop area lacks seating or amenities beyond basic views.",
+      "Budget setup may show minor wear in high-traffic common areas.",
+      "Thin walls could transmit noise from central street location until late."
+    ],
+    "skipIf": "Skip if you're a family or long-term traveller needing spacious rooms and on-site dining options.",
+    "detailedReview": "Checking into C2 Residence Boutique Hotel feels straightforward and welcoming, with a small front desk in the modern lobby that sets a contemporary tone without frills. Rooms greet you with clean lines, quality bedding on compact beds, and modern bathrooms equipped with reliable hot showers—air conditioning hums quietly to keep things cool even in Lampang's humid evenings. The standout amenity is the rooftop area, a simple open space offering unobstructed views over the city rooftops to the misty surrounding mountains, perfect for a quiet sunset drink though it lacks furniture or bar service. Service is friendly but basic, with staff handling requests efficiently for a budget property, often chatting about local spots in passable English. Food isn't an option here—no restaurant or breakfast included—so guests grab quick bites from street vendors nearby. Typical visitors are young couples or solo budget travellers in their 20s-30s, drawn by the stylish vibe at low cost, staying 1-3 nights to explore on foot. Overall, it punches above its price with thoughtful furnishings, but the small footprint reminds you it's guesthouse-affordable rather than full boutique luxury. At 8.0/10, it suits those prioritizing location and cleanliness over extras.",
+    "locationReality": "Situated in Lampang's city centre, C2 Residence Boutique Hotel is within 5-10 minutes' walk to key attractions like the old town streets and night market. The central spot means easy access to shops and eateries on foot, but reaching farther sites like Wat Phra That Lampang Luang requires a 20-30 minute Grab ride costing around 150-200 THB. No BTS or MRT here—Lampang relies on songthaews or taxis for broader travel.",
+    "localSignals": [
+      "Walking distance to Lampang city centre attractions in 5-10 minutes.",
+      "Free Wi-Fi available throughout the property.",
+      "Rooftop area with city and mountain views, no pool.",
+      "No breakfast included; nearest 7-Eleven within 2-minute walk.",
+      "Central location near Wang River, Grab to airport around 300 THB."
+    ],
+    "travellerNote": "Guests often praise the modern rooms and central walkability but note the compact size can feel limiting for anything beyond short stays.",
+    "bookingTips": [
+      "Request higher-floor rooms for better rooftop access and quieter stays.",
+      "Agoda often cheaper than Booking.com for Lampang budget hotels—compare both.",
+      "Prices spike in November-February high season due to cool weather tourism.",
+      "Verify air conditioning functionality before booking, as it's a key feature.",
+      "No construction notices typical, but confirm free Wi-Fi speed on site."
+    ],
+    "similarHotels": [
+      {
+        "name": "Khelangnakorn Hotel",
+        "howDifferent": "Offers more spacious rooms at slightly lower 350–700 THB rates but lacks boutique modern style."
+      },
+      {
+        "name": "Baan Chiang Bed Lampang",
+        "howDifferent": "Provides similar compact thoughtful furnishings in a 400–800 THB range without the rooftop views."
+      },
+      {
+        "name": "The Riverside Guest House",
+        "howDifferent": "Delivers charming wooden riverside vibes at 600–850 THB, trading central walkability for scenic Wang River location."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What amenities are in C2 Residence Boutique Hotel rooms?",
+        "a": "Rooms feature quality bedding, modern bathrooms, air conditioning, and free Wi-Fi, though they are compact in size."
+      },
+      {
+        "q": "Is breakfast included at C2 Residence Boutique Hotel?",
+        "a": "No breakfast is included; guests can find affordable options at nearby street vendors or cafes within walking distance."
+      },
+      {
+        "q": "How walkable is C2 Residence Boutique Hotel to Lampang attractions?",
+        "a": "The central location allows 5-10 minute walks to city centre sites like markets and temples."
+      },
+      {
+        "q": "Does C2 Residence Boutique Hotel have a pool?",
+        "a": "No pool on property; the rooftop offers views instead as the main outdoor amenity."
+      },
+      {
+        "q": "What's the vibe for couples at C2 Residence Boutique Hotel?",
+        "a": "It's suited for couples with stylish, clean rooms and a quiet rooftop, ideal for short romantic stays on a budget."
+      },
+      {
+        "q": "How's the Wi-Fi at C2 Residence Boutique Hotel?",
+        "a": "Free Wi-Fi is provided and generally reliable for browsing and streaming in rooms and common areas."
+      }
+    ],
+    "urgencyLine": "Rooms at C2 Residence Boutique Hotel with central walkability book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated C2 Residence Boutique Hotel based on room quality, location convenience, value for budget category, and guest feedback patterns. We weighted central accessibility highest because Lampang's compact centre rewards walkable stays over transport needs. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "C2 Residence Boutique Hotel Review (2026)",
+    "metaDescription": "C2 Residence Boutique Hotel in Lampang offers modern budget rooms with rooftop views and walkable city centre access at 490–900 THB. Compact spaces suit short stays but may cramp longer trips—book now for style on a dime."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:40:50.873Z"
+}

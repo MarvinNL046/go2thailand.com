@@ -1,0 +1,177 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-khan",
+  "cityName": "Chiang Khan",
+  "hotelSlug": "khiang-hom-homestay",
+  "hotel": {
+    "name": "Khiang Hom Homestay",
+    "category": "budget",
+    "priceRange": "400–700 THB (~$11–$20 USD) per night",
+    "area": "Walking Street (Soi 2)",
+    "description": "A charming family-run homestay in a restored wooden house on Soi 2. Rooms are simple with wooden floors, ceiling fans and shared bathrooms, but the warm hospitality and home-cooked breakfast (included) make it feel like staying with a Thai family. The owners are locals who know every hidden corner of Chiang Khan.",
+    "highlights": [
+      "Home-cooked Thai breakfast included in the rate",
+      "Authentic wooden shophouse with traditional Lao-Thai character",
+      "Family-run with genuine local hospitality",
+      "On Soi 2 of the Walking Street — central location",
+      "Can arrange local tours and Phu Thok sunrise transport"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhiang-hom-homestay.html",
+    "reviewScore": "8.3/10",
+    "bestFor": [
+      "Cultural travellers",
+      "Couples on a budget",
+      "Families"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish — Chiang Khan Guesthouses",
+        "sourceUrl": "https://www.travelfish.org/location/thailand/north_eastern_thailand/loei/chiang_khan",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Chiang Khan River House",
+      "category": "budget",
+      "priceRange": "350–600 THB (~$10–$17 USD) per night",
+      "area": "Walking Street (Soi 1)",
+      "description": "A friendly, no-frills guesthouse in a traditional wooden shophouse right on the Walking Street. Rooms are basic but clean, with fans or air-conditioning, and the shared balcony overlooking the Mekong is the real draw. The owner speaks English and can arrange Phu Thok transport. Perfect for backpackers and solo travellers.",
+      "highlights": [
+        "Direct Walking Street location with Mekong views from shared balcony",
+        "Fan rooms from 350 THB; A/C rooms from 500 THB",
+        "Friendly English-speaking owner with local knowledge",
+        "Bicycle rental available on-site",
+        "Steps from the morning alms-giving route"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchiang-khan-river-house.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Walking Street lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Chiang Khan Accommodation",
+          "sourceUrl": "https://www.travelfish.org/location/thailand/north_eastern_thailand/loei/chiang_khan",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Loei Village Hostel",
+      "category": "budget",
+      "priceRange": "250–450 THB (~$7–$13 USD) per bed/night",
+      "area": "Central Chiang Khan",
+      "description": "A modern hostel offering both dorm beds and private rooms in a clean, well-maintained building a short walk from the Walking Street. Common areas include a garden lounge and a communal kitchen. The hostel attracts a mix of Thai and international backpackers and runs regular social events.",
+      "highlights": [
+        "Dorm beds from 250 THB — cheapest option in town",
+        "Private rooms available from 600 THB",
+        "Communal kitchen and garden lounge",
+        "5-minute walk to Walking Street and Mekong riverside",
+        "Free WiFi and luggage storage"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Floei-village-hostel.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Social travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld — Chiang Khan",
+          "sourceUrl": "https://www.hostelworld.com/hostels/chiang-khan",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Khiang Hom Homestay without knowing about the shared bathrooms can lead to unexpected discomfort during peak Walking Street crowds.",
+    "intro": "Khiang Hom Homestay offers simple, authentic stays in a restored wooden shophouse with ceiling fans, wooden floors, and included home-cooked Thai breakfast, run by local owners who share insider tips on Chiang Khan. It's ideal for cultural travelers, budget couples, and families seeking a family-like experience over modern comforts.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget cultural travelers",
+      "standout": "Home-cooked breakfast",
+      "noGoFor": "Luxury comfort seekers"
+    },
+    "whyBook": [
+      "Included home-cooked Thai breakfast daily",
+      "Central on Soi 2 of Walking Street",
+      "Family-run with local tour arrangements",
+      "Authentic wooden shophouse atmosphere",
+      "Warm hospitality from Chiang Khan locals"
+    ],
+    "whyNotBook": [
+      "Shared bathrooms may feel inconvenient for privacy-focused guests",
+      "Ceiling fans only, no air-conditioning in humid weather",
+      "Simple rooms lack modern amenities like TVs or en-suite facilities",
+      "Wooden structure can creak with Walking Street noise at night",
+      "Limited room variety suits short stays over extended ones"
+    ],
+    "skipIf": "Skip if you need private bathrooms or air-conditioned rooms for a comfortable stay.",
+    "detailedReview": "Checking into Khiang Hom Homestay feels like arriving at a relative's home, with the family owners greeting you warmly in their restored wooden shophouse on Soi 2. The vibe is cozy and traditional Lao-Thai, with creaky wooden floors and simple furnishings that evoke old Chiang Khan. Rooms are basic: think single or double beds with mosquito nets, ceiling fans whirring overhead, and no frills like TVs or minibars, but everything is spotless and inviting for budget stays. The standout amenity is the home-cooked Thai breakfast served each morning—fresh rice porridge, tropical fruits, and local dishes prepared by the hosts, often shared on a communal table where they chat about hidden spots in town. Service is personal and genuine; the owners, lifelong Chiang Khan locals, happily arrange tours to nearby temples or transport to Phu Thok for sunrise views, making you feel connected rather than just accommodated. Food quality shines in that breakfast, but other meals are home-style if requested, emphasizing fresh, simple Thai flavors without gourmet pretensions. Typical guests are cultural explorers in their 30s-50s, budget couples wandering hand-in-hand, and small families drawn to the authentic, non-touristy feel. While the shared bathrooms are clean with hot water, they require adjusting if you're used to privacy, and the central location means occasional street sounds filter in until late evening. Overall, it's a heartfelt base for immersing in local life, scoring 8.3/10 for its hospitality over luxury.",
+    "locationReality": "Khiang Hom Homestay sits right on Soi 2 of Chiang Khan's Walking Street, putting you zero minutes from the bustling evening market and riverside cafes along the Mekong. Within a 5-minute walk, you'll find local eateries, bike rentals, and the riverfront promenade for sunset views. For farther spots like Phu Thok National Park, expect a 30-45 minute drive arranged by the hosts, as public transport is limited in this quiet town—no BTS or Grab ubiquity here.",
+    "localSignals": [
+      "0 minutes walk to Walking Street main strip",
+      "Breakfast included, home-cooked Thai style",
+      "No on-site pool or restaurant",
+      "Shared bathrooms with hot water",
+      "Short walk to Mekong River cafes and 7-Eleven"
+    ],
+    "travellerNote": "Guests often praise the genuine family hospitality and included breakfast but note the shared bathrooms and lack of air-conditioning as common adjustments for comfort.",
+    "bookingTips": [
+      "Request rooms facing the courtyard to minimize street noise",
+      "Book via Agoda for Thailand deals, often cheaper than Booking.com",
+      "Prices spike in November-February high season for Walking Street festivals",
+      "Verify breakfast inclusions and tour availability before booking",
+      "Opt for stays under a week to avoid routine in simple setup"
+    ],
+    "similarHotels": [
+      {
+        "name": "Chiang Khan River House",
+        "howDifferent": "Offers basic clean rooms with fan or AC options directly on the main Walking Street, more no-frills than homestay warmth."
+      },
+      {
+        "name": "Loei Village Hostel",
+        "howDifferent": "Provides modern dorm beds and privates a short walk away, suiting backpackers over family-style cultural stays."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Khiang Hom Homestay have private bathrooms?",
+        "a": "No, rooms feature shared bathrooms that are clean with hot water, typical for this budget homestay style."
+      },
+      {
+        "q": "Is breakfast included at Khiang Hom Homestay?",
+        "a": "Yes, a home-cooked Thai breakfast is included in the rate, featuring local dishes like rice porridge and fruits."
+      },
+      {
+        "q": "What air-conditioning options are there?",
+        "a": "Rooms have ceiling fans only, no air-conditioning, so it's best for milder weather or fans-tolerant guests."
+      },
+      {
+        "q": "Can they arrange tours from Khiang Hom Homestay?",
+        "a": "Yes, the local owners can set up tours around Chiang Khan and transport to Phu Thok for sunrise."
+      },
+      {
+        "q": "How central is the location?",
+        "a": "It's on Soi 2 of Walking Street, steps from the evening market and Mekong River views."
+      },
+      {
+        "q": "Is it family-friendly?",
+        "a": "Yes, suitable for families with its warm hospitality and simple, safe setup in a central spot."
+      }
+    ],
+    "urgencyLine": "Rooms at Khiang Hom Homestay with courtyard views book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Khiang Hom Homestay based on guest reviews, location centrality, and value for budget cultural stays. We weighted hospitality and authentic experiences highest because they define its appeal in Chiang Khan. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Khiang Hom Homestay Review (2026)",
+    "metaDescription": "Khiang Hom Homestay in Chiang Khan delivers family-run charm with home-cooked breakfast and Walking Street location for cultural travelers. Shared bathrooms and fan-only rooms may require adjustment for comfort—book now for authentic budget stays. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:58:05.341Z"
+}

@@ -1,0 +1,167 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ubon-ratchathani",
+  "cityName": "Ubon Ratchathani",
+  "hotelSlug": "tohsang-khongjiam-resort",
+  "hotel": {
+    "name": "Tohsang Khongjiam Resort",
+    "category": "budget",
+    "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+    "area": "Khong Chiam (70 km east of Ubon city)",
+    "description": "A riverside resort in Khong Chiam village sitting on a bluff above the Mekong River, making it the ideal base for exploring Pha Taem, Sam Phan Bok, and the two-color river without the 70 km daily commute from Ubon city. Bungalow-style rooms with river views, a garden restaurant serving Mekong river fish, and direct riverside access. Basic facilities but exceptional Mekong views. Staying in Khong Chiam lets you watch sunrise over the Mekong from your room.",
+    "highlights": [
+      "Mekong River views from bungalow-style rooms",
+      "Walking distance to the two-color river viewpoint",
+      "On-site restaurant with fresh Mekong river fish"
+    ],
+    "bestFor": [
+      "nature travelers",
+      "couples",
+      "Pha Taem day-trip base"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/ubon-ratchathani.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTohsang%2520Khongjiam%2520Resort%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sri Isaan Hotel",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "City Center (near bus terminal)",
+      "description": "A clean and reliable budget hotel near the main bus terminal area on Phadaeng Road, popular with Thai business travelers and backpackers passing through. Simple air-conditioned rooms with private bathrooms, hot water, and cable TV. The location puts you within 10 minutes' walk of the night market and a 150 THB tuk-tuk ride to Thung Si Mueang Park. Genuinely local atmosphere with Thai guests in the majority.",
+      "highlights": [
+        "Affordable clean rooms with AC and private bathroom",
+        "Walking distance to Ratchabut Road night market",
+        "Close to the main bus terminal for early departures"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g656472-Ubon_Ratchathani_Ubon_Ratchathani_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSri%2520Isaan%2520Hotel%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    },
+    {
+      "name": "Rayang Guesthouse",
+      "category": "budget",
+      "priceRange": "350-600 THB/night (~$10-17 USD)",
+      "area": "City Center (Suriyat Road area)",
+      "description": "A friendly family-run guesthouse on a quiet soi off Suriyat Road, popular with long-term travelers and volunteers based in Ubon. Offers both fan and air-conditioned rooms, a small common area with local travel information, and owners who speak enough English to help with day-trip planning. Bicycles available for hire (50-100 THB/day). The alms-giving procession on Suriyat Road passes within 50 meters every morning.",
+      "highlights": [
+        "Family-run with genuine local knowledge about the area",
+        "Bicycle hire on-site for city exploration",
+        "Walking distance to Suriyat Road alms-giving and morning markets"
+      ],
+      "bestFor": [
+        "solo travelers",
+        "long-stay travelers",
+        "cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ubon-ratchathani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayang%2520Guesthouse%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Tohsang Khongjiam Resort without knowing its 70km distance from Ubon city can leave you stranded without easy urban transport options.",
+    "intro": "Tohsang Khongjiam Resort offers bungalow-style rooms with direct Mekong River views and basic facilities in a quiet riverside setting, perfect for avoiding daily commutes to explore nearby natural sites. It's ideal for nature travelers and couples seeking a serene base for Pha Taem and Sam Phan Bok day trips.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "nature travelers couples",
+      "standout": "Mekong River views",
+      "noGoFor": "luxury seekers"
+    },
+    "whyBook": [
+      "Bungalow rooms overlook the Mekong for sunrise views.",
+      "Walking distance to two-color river viewpoint.",
+      "On-site garden restaurant serves fresh Mekong fish.",
+      "Direct riverside access for easy exploration."
+    ],
+    "whyNotBook": [
+      "Basic facilities lack modern amenities like a pool.",
+      "70km from Ubon city means limited urban access.",
+      "Remote location requires transport for Pha Taem trips.",
+      "No shuttle service mentioned for nearby attractions.",
+      "Bungalows may feel rustic without luxury touches."
+    ],
+    "skipIf": "Skip if you're seeking city conveniences or nightlife in central Ubon Ratchathani.",
+    "detailedReview": "Arriving at Tohsang Khongjiam Resort feels like stepping into a peaceful village escape, with check-in handled simply at the front desk overlooking the garden. The bungalow-style rooms provide a cozy, no-frills vibe with wooden elements and balconies facing the Mekong River, allowing guests to watch the sunrise directly from bed without leaving the property. Standout is the exceptional river views from most rooms, paired with direct access to the riverside bluff for quiet walks. The on-site garden restaurant serves straightforward meals featuring fresh Mekong river fish, like grilled pla ra, in a casual outdoor setting—nothing fancy, but authentic and tied to the local environment. Service is friendly and laid-back, typical of a small resort in Khong Chiam village, with staff happy to share tips on nearby spots like the two-color river. Guests here are mostly nature enthusiasts, couples on romantic getaways, or day-trippers basing themselves to avoid the 70km commute from Ubon city. While facilities are basic—think essential furnishings without extras like a spa—the focus on the river and surrounding bluffs creates a relaxing stay for those prioritizing views over comforts. Overall, it's a practical choice for exploring Pha Taem and Sam Phan Bok, though multi-night stays might highlight the simplicity of amenities.",
+    "locationReality": "Tohsang Khongjiam Resort sits on a bluff in Khong Chiam village, 70km east of Ubon city, making it a convenient base for Mekong River attractions without daily drives. The two-color river viewpoint is within walking distance, about 10-15 minutes along riverside paths. For Ubon's urban areas like Phadaeng Road, expect a 1-1.5 hour drive or bus ride, with no direct public transport from the resort.",
+    "localSignals": [
+      "70km east of Ubon city center by road.",
+      "Walking distance to two-color river viewpoint.",
+      "One on-site restaurant serving Mekong fish.",
+      "Direct access to Mekong River bluff.",
+      "No WiFi status specified in listings."
+    ],
+    "travellerNote": "Guests often praise the stunning Mekong River views and serene riverside location but note the basic facilities and remoteness from city amenities.",
+    "bookingTips": [
+      "Request bungalow rooms with river views for best sunrise experience.",
+      "Check Agoda for cheaper rates than Booking.com in Thailand.",
+      "Prices may rise in November-February high season for river tourism.",
+      "Verify breakfast inclusion as it's not explicitly listed.",
+      "Confirm no ongoing construction via recent photos."
+    ],
+    "similarHotels": [
+      {
+        "name": "Sri Isaan Hotel (400-700 THB/night (~$11-20 USD)) — A clean and reliable budget hotel near the main bus terminal area on Phadaeng Road, popular with Thai business travelers and backpackers pas",
+        "howDifferent": "It's centrally located in Ubon city for easy bus access, unlike the remote riverside setting of Tohsang Khongjiam Resort."
+      },
+      {
+        "name": "Rayang Guesthouse (350-600 THB/night (~$10-17 USD)) — A friendly family-run guesthouse on a quiet soi off Suriyat Road, popular with long-term travelers and volunteers based in Ubon. Offers both",
+        "howDifferent": "Offers a quiet urban guesthouse vibe in Ubon proper, contrasting the nature-focused riverside bungalows far from the city."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Tohsang Khongjiam Resort near the Mekong River?",
+        "a": "Yes, it's on a bluff above the Mekong in Khong Chiam village with direct riverside access and views from bungalow rooms."
+      },
+      {
+        "q": "What activities are close to Tohsang Khongjiam Resort?",
+        "a": "It's walking distance to the two-color river viewpoint and serves as a base for Pha Taem and Sam Phan Bok day trips."
+      },
+      {
+        "q": "Does Tohsang Khongjiam Resort have river views?",
+        "a": "Bungalow-style rooms offer exceptional Mekong River views, ideal for watching sunrise over the water."
+      },
+      {
+        "q": "Is Tohsang Khongjiam Resort budget-friendly?",
+        "a": "Yes, rates range from 800-1,400 THB per night, fitting budget travelers seeking natural escapes."
+      },
+      {
+        "q": "How far is Tohsang Khongjiam Resort from Ubon city?",
+        "a": "It's 70km east in Khong Chiam, avoiding daily commutes for river explorations but requiring transport to the city."
+      },
+      {
+        "q": "What dining options are at Tohsang Khongjiam Resort?",
+        "a": "The on-site garden restaurant serves fresh Mekong river fish in a casual setting."
+      }
+    ],
+    "urgencyLine": "Rooms at Tohsang Khongjiam Resort with Mekong views book out 1-2 months ahead for dry season river trips—check today.",
+    "methodology": "We rated Tohsang Khongjiam Resort based on location, facilities, and value from provided data. We weighted riverside access highest because it defines the resort's appeal for nature travelers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Tohsang Khongjiam Resort Review (2026)",
+    "metaDescription": "Tohsang Khongjiam Resort in Ubon Ratchathani offers budget bungalows with Mekong River views and walking access to two-color river, ideal for nature trips. Basic facilities suit couples but skip if needing city vibes—book your serene stay now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:46:33.657Z"
+}

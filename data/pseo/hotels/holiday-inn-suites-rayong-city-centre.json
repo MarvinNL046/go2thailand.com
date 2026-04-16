@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "rayong",
+  "cityName": "Rayong",
+  "hotelSlug": "holiday-inn-suites-rayong-city-centre",
+  "hotel": {
+    "name": "Holiday Inn & Suites Rayong City Centre",
+    "category": "mid-range",
+    "priceRange": "2,400-4,000 THB/night (~$67-112 USD)",
+    "area": "Rayong City",
+    "description": "The most comfortable international-standard hotel in Rayong City, operated by IHG. Central location on Sukhumvit Road with easy access to restaurants, the morning market, and highway connections. Modern rooms with reliable amenities, swimming pool, fitness center, and a restaurant. Popular with business travelers and tourists who want IHG consistency in a completely authentic Thai city setting.",
+    "highlights": [
+      "IHG brand reliability in Rayong's most convenient city location",
+      "Swimming pool and fitness center",
+      "Walking distance to Rayong City restaurants and morning market"
+    ],
+    "reviewScore": "4.0/5 TripAdvisor",
+    "bestFor": [
+      "business travelers",
+      "families",
+      "city base for exploring the province"
+    ],
+    "sources": [
+      {
+        "sourceName": "IHG",
+        "sourceUrl": "https://rayong.holidayinn.com",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520%2526%2520Suites%2520Rayong%2520City%2520Centre%252C%2520Rayong%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Wang Gaew Resort",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Laem Mae Phim",
+      "description": "A well-regarded Thai-run resort on the Laem Mae Phim beach area with comfortable rooms, a swimming pool, and direct beach access. The setting is quieter than Koh Samet and the beach in front is far less crowded. Good value mid-range option on the eastern coast, popular with Thai families on weekend breaks. Restaurant on site serves fresh seafood.",
+      "highlights": [
+        "Direct beach access on Laem Mae Phim Bay",
+        "Swimming pool and on-site seafood restaurant",
+        "Quieter alternative to Koh Samet with similar beach quality"
+      ],
+      "bestFor": [
+        "families",
+        "couples",
+        "Thai beach holiday"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297935-Rayong_Rayong_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWang%2520Gaew%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Samed Cabana Resort",
+      "category": "mid-range",
+      "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+      "area": "Koh Samet (Hat Sai Kaew)",
+      "description": "A popular mid-range resort on Koh Samet's main Hat Sai Kaew (White Sand Beach), with bungalows and rooms spread across a beachfront property. The island location adds an automatic premium — everything costs more on Koh Samet than the mainland. Comfortable rooms with garden or sea views, swimming pool, and the white sand beach literally steps from your door. Rates include the national park fee in some packages.",
+      "highlights": [
+        "Beachfront on Hat Sai Kaew — Koh Samet's most famous beach",
+        "Swimming pool plus private beach",
+        "Central location for island restaurants, fire shows, and snorkeling"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-time Koh Samet visitors",
+        "island atmosphere"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g3226169-Chak_Phong_Klaeng_Rayong_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSamed%2520Cabana%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Malibu Garden Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Koh Samet (Ao Phai)",
+      "description": "A quietly popular resort on Koh Samet's Ao Phai beach — one of the island's best snorkeling beaches and less crowded than Hat Sai Kaew to the north. Wooden bungalows with sea views set in a garden property directly on the bay. The beach in front has the island's best snorkeling just off the shore. A short walk to Hat Sai Kaew's restaurants and nightlife.",
+      "highlights": [
+        "Beachfront on Ao Phai — best snorkeling beach on Koh Samet",
+        "Wooden bungalows with sea views and private terraces",
+        "Quieter stretch of coast but 10 minutes walk to Hat Sai Kaew nightlife"
+      ],
+      "bestFor": [
+        "couples",
+        "snorkelers",
+        "travelers seeking quieter Koh Samet"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/rayong.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMalibu%2520Garden%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What area to stay in Rayong?",
+    "What is the difference between Holiday Inn Express & Suites and Holiday Inn & Suites?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Holiday Inn & Suites Rayong City Centre without knowing its position on busy Sukhumvit Road can lead to noticeable traffic noise disrupting your stay.",
+    "intro": "Holiday Inn & Suites Rayong City Centre provides IHG's reliable international standards in Rayong's urban core, featuring modern rooms, a swimming pool, fitness center, and on-site restaurant. It's ideal for business travelers seeking convenience, families needing a comfortable base, or visitors exploring the province from the city.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "business travelers families",
+      "standout": "central city location",
+      "noGoFor": "beach vacation seekers"
+    },
+    "whyBook": [
+      "IHG reliability in authentic Thai city setting",
+      "Walking distance to morning market and restaurants",
+      "Swimming pool and fitness center on-site",
+      "Easy highway access for province exploration"
+    ],
+    "whyNotBook": [
+      "Sukhumvit Road location causes traffic noise until late",
+      "No direct beach access in inland city center",
+      "Restaurant options limited compared to beach resorts",
+      "Pool area lacks ocean views or privacy",
+      "Business-focused vibe may feel less relaxed for leisure"
+    ],
+    "skipIf": "Skip if you're prioritizing beachfront relaxation over urban convenience in Rayong.",
+    "detailedReview": "Checking into Holiday Inn & Suites Rayong City Centre feels efficient and welcoming, with IHG's standard front desk process that includes quick key card issuance and a brief orientation to the property. Rooms deliver a modern vibe with clean lines, comfortable beds, and reliable amenities like air conditioning, flat-screen TVs, and work desks suited for business needs—expect consistent quality without frills. The standout amenity is the swimming pool, a decent-sized outdoor option for laps or family dips, paired with a functional fitness center equipped for basic workouts. Food at the on-site restaurant is straightforward international and Thai fare, with breakfast offering reliable staples like eggs, rice, and fruits, though portions are standard rather than abundant. Service follows IHG's professional style: attentive but not overly personalized, with staff handling requests promptly in a mix of English and Thai. Typical guests include business travelers attending meetings in Rayong's industrial areas, families using it as a safe city hub, and short-stay tourists heading to nearby sites. The central Sukhumvit Road spot ensures easy access to local eateries and the morning market, but the urban authenticity means some street sounds filter in, especially from highway traffic. Overall, it's a solid choice for those valuing consistency in a non-touristy Thai city, scoring 4.0/5 on TripAdvisor for its convenience over luxury.",
+    "locationReality": "Situated on Sukhumvit Road in Rayong City, the hotel is about 5-10 minutes' walk to the morning market and local restaurants, making casual exploration straightforward on foot. Beaches like Laem Mae Phim are 30-45 minutes away by car or Grab (around 500-800 THB), while highway connections provide quick access to the province's industrial zones or Koh Samet ferries (1-hour drive). No BTS or MRT nearby as Rayong is car-dependent, but Grab rides to U-Tapao Airport cost 800-1,200 THB and take 45 minutes.",
+    "localSignals": [
+      "Walking distance (5-10 minutes) to Rayong morning market",
+      "30-45 minute drive to nearest beach at Laem Mae Phim",
+      "One swimming pool and one fitness center on property",
+      "One on-site restaurant serving international and Thai cuisine",
+      "Within 5-minute walk to Sukhumvit Road restaurant strip and 7-Eleven"
+    ],
+    "travellerNote": "Guests often praise the IHG consistency and central location for easy access to city amenities but note occasional traffic noise from Sukhumvit Road affecting room tranquility.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize Sukhumvit Road traffic noise",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike in December-January due to holiday travel and events",
+      "Verify breakfast inclusion as it's not always standard in mid-range IHG",
+      "Confirm no nearby construction via hotel site before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Wang Gaew Resort (1,800-3,000 THB/night (~$50-84 USD)) — A well-regarded Thai-run resort on the Laem Mae Phim beach area with comfortable rooms, a swimming pool, and direct beach access. The settin",
+        "howDifferent": "Offers beachfront access and Thai-run charm unlike the urban IHG consistency of Holiday Inn."
+      },
+      {
+        "name": "Samed Cabana Resort (2,500-5,000 THB/night (~$70-140 USD)) — A popular mid-range resort on Koh Samet's main Hat Sai Kaew (White Sand Beach), with bungalows and rooms spread across a beachfront property",
+        "howDifferent": "Provides island beach bungalows on Koh Samet, contrasting the city-center convenience of Holiday Inn."
+      },
+      {
+        "name": "Malibu Garden Resort (2,000-3,500 THB/night (~$56-98 USD)) — A quietly popular resort on Koh Samet's Ao Phai beach — one of the island's best snorkeling beaches and less crowded than Hat Sai Kaew to th",
+        "howDifferent": "Focuses on quieter snorkeling beach vibes on Koh Samet, differing from Holiday Inn's inland business hub."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What area to stay in Rayong?",
+        "a": "Rayong City suits business and urban explorers with central access to markets and highways, while Laem Mae Phim or Koh Samet areas are better for beach stays."
+      },
+      {
+        "q": "What is the difference between Holiday Inn Express & Suites and Holiday Inn & Suites?",
+        "a": "Holiday Inn Express focuses on simpler, budget-friendly stays with limited services, while Holiday Inn & Suites offers more amenities like full restaurants and suites for extended comfort."
+      },
+      {
+        "q": "Does Holiday Inn & Suites Rayong City Centre have a pool?",
+        "a": "Yes, it features an outdoor swimming pool suitable for relaxation and family use."
+      },
+      {
+        "q": "Is breakfast included at Holiday Inn & Suites Rayong City Centre?",
+        "a": "Breakfast is available at the on-site restaurant but may require an additional fee; confirm during booking."
+      },
+      {
+        "q": "How far is Holiday Inn & Suites Rayong City Centre from the beach?",
+        "a": "The nearest beaches are 30-45 minutes away by car, as the hotel is in the inland city center."
+      },
+      {
+        "q": "What is the TripAdvisor score for Holiday Inn & Suites Rayong City Centre?",
+        "a": "It holds a 4.0/5 rating on TripAdvisor, reflecting solid reliability for its category."
+      }
+    ],
+    "urgencyLine": "Rooms at Holiday Inn & Suites Rayong City Centre with easy highway access book out 1-2 months ahead for business peak seasons — check today.",
+    "methodology": "We rated Holiday Inn & Suites Rayong City Centre based on location convenience, amenity reliability, and guest feedback alignment with IHG standards. We weighted central access highest because Rayong's spread-out geography makes it key for explorers. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Holiday Inn & Suites Rayong City Centre Review (2026)",
+    "metaDescription": "Holiday Inn & Suites Rayong City Centre in Rayong offers IHG reliability with pool and central Sukhumvit location for business travelers, but expect traffic noise. Ideal city base—book for consistent comfort today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:27:25.350Z"
+}

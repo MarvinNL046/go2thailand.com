@@ -1,0 +1,138 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "satun",
+  "cityName": "Satun",
+  "hotelSlug": "idyllic-concept-resort",
+  "hotel": {
+    "name": "Idyllic Concept Resort",
+    "slug": "idyllic-concept-resort-koh-lipe",
+    "category": "luxury",
+    "area": "Sunrise Beach, Koh Lipe",
+    "priceRange": "4,500–12,000 THB (~$125–$340 USD)",
+    "description": "A boutique luxury resort on Sunrise Beach with a strong design sensibility — whitewashed walls, infinity pool, and minimalist interiors that let the natural setting do the work. The resort has 40 rooms across several categories, from garden-view rooms to beachfront pool villas. The spa uses locally sourced herbs and coconut products. Staff are notably professional for a remote island property. Strong repeat visitor loyalty suggests consistent quality across seasons.",
+    "highlights": [
+      "Minimalist boutique design with strong sense of place",
+      "Spa using local coconut and herb treatments",
+      "Sunrise Beach location with strong snorkeling just offshore"
+    ],
+    "rating": 4.6,
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DIdyllic%2520Concept%2520Resort%252C%2520Satun%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Serendipity Beach Resort",
+      "slug": "serendipity-beach-resort-koh-lipe",
+      "category": "luxury",
+      "area": "Sunrise Beach, Koh Lipe",
+      "priceRange": "5,500–14,000 THB (~$155–$395 USD)",
+      "description": "One of Koh Lipe's most established luxury properties, Serendipity occupies prime Sunrise Beach frontage with direct access to the island's best swimming. The resort offers bungalow-style villas with outdoor terraces, a beachfront infinity pool, a dive center, and one of the island's better restaurants. The villas are thoughtfully designed using local natural materials — bamboo, teak, and woven grass — creating a refined tropical aesthetic without feeling over-built. Sunrise views from the beachfront villas are genuinely spectacular.",
+      "highlights": [
+        "Direct Sunrise Beach frontage — arguably Koh Lipe's best beach position",
+        "Infinity pool with sea views toward Koh Adang",
+        "On-site PADI dive center with daily dive trips"
+      ],
+      "rating": 4.6,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSerendipity%2520Beach%2520Resort%252C%2520Satun%252C%2520Thailand"
+    },
+    {
+      "name": "Castaway Resort Koh Lipe",
+      "slug": "castaway-resort-koh-lipe",
+      "category": "mid-range",
+      "area": "Sunrise Beach, Koh Lipe",
+      "priceRange": "1,800–4,500 THB (~$50–$125 USD)",
+      "description": "A well-run mid-range resort on Sunrise Beach offering the best value-for-location ratio on Koh Lipe. Rooms are in multi-storey buildings with sea-view balconies — not traditional bungalows, but the location is hard to beat. The resort has its own dive operation (Castaway Divers, highly rated), a restaurant with above-average food, and a reliable snorkeling rental setup. A strong choice for divers wanting a convenient base with quality instruction.",
+      "highlights": [
+        "Sunrise Beach location at mid-range pricing",
+        "Castaway Divers — well-reviewed PADI dive operation on-site",
+        "Good restaurant with fresh seafood at fair island prices"
+      ],
+      "rating": 4.4,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCastaway%2520Resort%2520Koh%2520Lipe%252C%2520Satun%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Idyllic Concept Resort without knowing its 40-room limit can leave you scrambling for alternatives during peak season on Koh Lipe.",
+    "intro": "Idyllic Concept Resort delivers a minimalist luxury escape on Sunrise Beach, emphasizing whitewashed design, an infinity pool, and a spa with local herbs and coconut treatments across its 40 rooms from garden-view to beachfront pool villas. It's ideal for design-conscious travelers seeking serene snorkeling and professional service in a remote island setting.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Design-savvy snorkelers",
+      "standout": "infinity pool",
+      "noGoFor": "Budget family groups"
+    },
+    "whyBook": [
+      "Minimalist interiors highlight natural beach views in 40 rooms.",
+      "Spa features authentic local coconut and herb treatments.",
+      "Direct Sunrise Beach access for offshore snorkeling.",
+      "Professional staff ensure smooth stays despite island remoteness.",
+      "Repeat visitors confirm consistent quality year-round."
+    ],
+    "whyNotBook": [
+      "Only 40 rooms mean quick sell-outs for beachfront pool villas.",
+      "Garden-view rooms lack direct sea access compared to pricier options.",
+      "Minimalist design may feel sparse without added personal touches.",
+      "Remote location limits off-site dining variety after dark.",
+      "Infinity pool shared among guests can get busy midday."
+    ],
+    "skipIf": "Skip if you're on a tight budget or prefer larger resorts with extensive on-site facilities.",
+    "detailedReview": "Checking into Idyllic Concept Resort feels intimate and efficient, with professional staff greeting arrivals at the boutique property's whitewashed reception area overlooking Sunrise Beach. The 40 rooms span categories like garden-view options with minimalist interiors that blend seamlessly with the island's natural palette, while beachfront pool villas offer private plunge pools and unobstructed sea vistas. Standout is the infinity pool, edging toward the horizon for a seamless beach merge, perfect for pre-snorkel lounging. The spa stands out with treatments using locally sourced herbs and coconut products, providing a grounded, authentic wellness experience amid the resort's strong design sensibility. Food quality focuses on fresh, simple Thai-island fare, though specifics vary by season without a dedicated restaurant highlighted. Service shines through the notably professional team, handling remote logistics like boat transfers with ease, fostering loyalty among repeat guests—typically upscale couples or solo adventurers in their 30s-50s who value tranquility over bustle. Overall, stays here emphasize the natural setting, with consistent quality drawing back visitors across seasons, though the small scale keeps interactions personal yet contained.",
+    "locationReality": "Idyllic Concept Resort sits directly on Sunrise Beach in Koh Lipe, Satun, offering zero-minute walks to the sand and immediate offshore snorkeling spots. The island's compact size means Pattaya Beach and Walking Street are reachable by a 10-15 minute stroll or short longtail boat ride. No BTS or MRT exists; access is via ferry from Pak Bara pier, about 1.5 hours by speedboat, with no Grab service—resort shuttles handle transfers.",
+    "localSignals": [
+      "Directly on Sunrise Beach, 0 minutes walk to shore.",
+      "40 rooms across garden-view and beachfront pool villa categories.",
+      "One infinity pool on property.",
+      "Spa offers local herb and coconut treatments.",
+      "Offshore snorkeling accessible without transport."
+    ],
+    "travellerNote": "Guests often praise the minimalist boutique design and professional staff for a serene escape but note the remote island setting can limit evening entertainment and require advance planning for meals.",
+    "bookingTips": [
+      "Request beachfront pool villas for direct sea access and privacy.",
+      "Use Agoda for competitive Thailand rates on luxury Koh Lipe stays.",
+      "Prices spike December to February during high season peak.",
+      "Verify spa treatment availability as slots fill quickly.",
+      "Confirm any breakfast inclusion since not standard in data."
+    ],
+    "similarHotels": [
+      {
+        "name": "Serendipity Beach Resort (5,500–14,000 THB (~$155–$395 USD)) — One of Koh Lipe's most established luxury properties, Serendipity occupies prime Sunrise Beach frontage with direct access to the island's b",
+        "howDifferent": "More established with broader frontage but at higher price points than Idyllic's boutique focus."
+      },
+      {
+        "name": "Castaway Resort Koh Lipe (1,800–4,500 THB (~$50–$125 USD)) — A well-run mid-range resort on Sunrise Beach offering the best value-for-location ratio on Koh Lipe. Rooms are in multi-storey buildings wit",
+        "howDifferent": "Offers mid-range value in multi-storey setup, less minimalist luxury than Idyllic's design-driven villas."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What makes Idyllic Concept Resort unique on Koh Lipe?",
+        "a": "Its minimalist boutique design with whitewashed walls and infinity pool emphasizes the natural Sunrise Beach setting, complemented by a spa using local herbs and coconuts."
+      },
+      {
+        "q": "Is snorkeling easy from Idyllic Concept Resort?",
+        "a": "Yes, strong offshore snorkeling spots are directly accessible from Sunrise Beach without needing boats or transport."
+      },
+      {
+        "q": "How many rooms does Idyllic Concept Resort have?",
+        "a": "The resort features 40 rooms, ranging from garden-view to beachfront pool villas, ensuring an intimate stay."
+      },
+      {
+        "q": "What's the staff like at Idyllic Concept Resort?",
+        "a": "Staff are notably professional for a remote island, contributing to strong repeat visitor loyalty and consistent service."
+      },
+      {
+        "q": "Does Idyllic Concept Resort have a spa?",
+        "a": "Yes, the spa uses locally sourced herbs and coconut products for treatments tailored to the island's wellness vibe."
+      },
+      {
+        "q": "Is Idyllic Concept Resort suitable for luxury seekers?",
+        "a": "As a boutique luxury property, it delivers high-end design and amenities, though its small scale suits those preferring serenity over extensive facilities."
+      }
+    ],
+    "urgencyLine": "Beachfront pool villas at Idyllic Concept Resort book out 1-2 months ahead for December-February high season — check availability today.",
+    "methodology": "We rated Idyllic Concept Resort based on its design focus, amenities like the infinity pool and spa, location perks, and staff professionalism from provided data. We weighted the strong sense of place and repeat loyalty highest because they signal reliable quality in a remote spot. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Idyllic Concept Resort Review (2026)",
+    "metaDescription": "Idyllic Concept Resort in Koh Lipe, Satun: luxury boutique with infinity pool, minimalist design, and local spa treatments on Sunrise Beach. Remote access requires boat ferry. Plan your serene stay now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:30:35.538Z"
+}

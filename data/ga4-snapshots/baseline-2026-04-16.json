@@ -1,0 +1,89 @@
+{
+  "capturedAt": "2026-04-16T16:18:24.656Z",
+  "propertyId": "490597931",
+  "range": {
+    "startDate": "2026-04-08",
+    "endDate": "2026-04-15"
+  },
+  "totals": {
+    "metricValues": [
+      {
+        "value": "2250"
+      },
+      {
+        "value": "2124"
+      },
+      {
+        "value": "3186"
+      },
+      {
+        "value": "0.31422222222222224"
+      },
+      {
+        "value": "36758"
+      }
+    ]
+  },
+  "byBucket": {
+    "home": {
+      "pages": 1,
+      "sessions": 313,
+      "pageviews": 410,
+      "engagement": 4203
+    },
+    "other": {
+      "pages": 911,
+      "sessions": 2004,
+      "pageviews": 2201,
+      "engagement": 26747
+    },
+    "blog": {
+      "pages": 199,
+      "sessions": 486,
+      "pageviews": 565,
+      "engagement": 5796
+    },
+    "guide": {
+      "pages": 1,
+      "sessions": 2,
+      "pageviews": 2,
+      "engagement": 0
+    },
+    "best-hotels": {
+      "pages": 4,
+      "sessions": 4,
+      "pageviews": 8,
+      "engagement": 12
+    }
+  },
+  "bySource": [
+    {
+      "channel": "Direct",
+      "sessions": 923
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 440
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 67
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 60
+    },
+    {
+      "channel": "Referral",
+      "sessions": 24
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 12
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 1
+    }
+  ]
+}

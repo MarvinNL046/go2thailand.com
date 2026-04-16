@@ -1,0 +1,242 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "audience": "family",
+  "neighborhoods": [
+    {
+      "name": "Klong Muang",
+      "description": "A quiet, upscale beach area 20 minutes north of Ao Nang with a long stretch of peaceful sand backed by luxury resorts. The beach is uncrowded even in peak season and the water is calm and clean for swimming. Several 4-5 star resorts (Dusit Thani, Sofitel) line the beach with direct sand access. The trade-off: limited restaurants and nightlife outside the resorts, and you'll need transport to Ao Nang for tours and boat trips.",
+      "bestFor": "Families, luxury travelers & resort holidays",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Uncrowded beach even in peak season — perfect for families",
+        "High-end resorts with pools, spas, and beachfront dining",
+        "Calm, clean swimming water year-round (more sheltered than Ao Nang)",
+        "20 minutes to Ao Nang for island tours and restaurants",
+        "Peaceful setting without tourist-town hustle"
+      ],
+      "recommendedHotels": [
+        "Dusit Thani Krabi Beach Resort",
+        "Sofitel Krabi Phokeethra Golf & Spa Resort"
+      ],
+      "walkingScore": "3/10",
+      "transportNotes": [
+        "20 min drive to Ao Nang (200-300 THB by Grab)",
+        "Most resorts arrange island tours with hotel pickup",
+        "Scooter rental recommended for exploring beyond the beach"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Nopparat Thara Beach",
+      "description": "Nopparat Thara Beach stretches along the coast next to Ao Nang and is part of Mu Ko Nopparat Thara–Phi Phi National Park. The area includes residential zones and a market where local vendors sell food and goods. It serves as an entry point for boat trips to nearby islands.",
+      "bestFor": "families, budget travelers, first-time visitors",
+      "priceLevel": "€–€€€",
+      "highlights": [
+        "Nopparat Thara Beach",
+        "Ao Nang Night Market",
+        "Dragon Crest Mountain viewpoint",
+        "Muslim fishing village"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaew shuttles to Ao Nang",
+        "Local taxis available",
+        "Access to national park boats"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Mu_Ko_Nopparat_Thara%E2%80%93Phi_Phi_National_Park"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g297927-d1397188-Reviews-Nopparat_Tha_Beach-Krabi_Town_Krabi_Province.html"
+        }
+      ]
+    },
+    {
+      "name": "Long Beach, Koh Lanta",
+      "description": "Long Beach, also known as Phra Ae Beach, is a 3 km stretch of sand on Koh Lanta's west coast. It features beachfront bungalows and restaurants along the shore. The area is connected by road to other parts of the island.",
+      "bestFor": "families, kids, couples",
+      "priceLevel": "€€",
+      "highlights": [
+        "Long Beach",
+        "Klong Dao Night Market nearby",
+        "Beachfront massage spots",
+        "Diving shops for snorkeling trips"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews along the main road",
+        "Motorbike taxis",
+        "Ferry access via Saladan"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g303905-d246915-Reviews-Long_Beach_Ko_Lanta-Ko_Lanta_Krabi_Province.html"
+        },
+        {
+          "sourceName": "TAT Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Attraction/koh-lanta"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Krabi neighbourhood as a family traveller can lead to crowded beaches and noisy nights — most travellers overlook quieter spots beyond Ao Nang.",
+    "intro": "For family travellers in Krabi, the top priority is safe, calm beaches with easy access to kid-friendly amenities and minimal crowds. We ranked neighbourhoods based on family suitability, including uncrowded sands, resort quality, and value for money.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Klong Muang",
+        "why": "Quiet luxury resorts for relaxed family stays"
+      },
+      {
+        "label": "Best value",
+        "name": "Nopparat Thara Beach",
+        "why": "Budget options near family-friendly national park"
+      },
+      {
+        "label": "Best for young kids",
+        "name": "Long Beach, Koh Lanta",
+        "why": "Calm 3km sands with beachfront bungalows"
+      }
+    ],
+    "urgencyLine": "Krabi's family resorts fill up fast during school holidays like December — secure spots in peaceful areas 3-4 months in advance.",
+    "comparisonTable": [
+      {
+        "name": "Klong Muang",
+        "bestFor": "Families luxury resort holidays",
+        "priceBand": "€€€",
+        "walkability": "Medium",
+        "vibe": "quiet upscale",
+        "drawback": "20 min from main Ao Nang action"
+      },
+      {
+        "name": "Nopparat Thara Beach",
+        "bestFor": "Families budget first-timers",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "touristy local",
+        "drawback": "Busier near market areas"
+      },
+      {
+        "name": "Long Beach, Koh Lanta",
+        "bestFor": "Families with kids",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "laid-back beachy",
+        "drawback": "Requires ferry to island"
+      }
+    ],
+    "decisionGuide": [
+      "If you prioritize quiet beaches and luxury for kids, choose Klong Muang.",
+      "If you're on a budget with first-time family needs, choose Nopparat Thara Beach.",
+      "If you want long sandy stretches for young children, choose Long Beach, Koh Lanta.",
+      "If easy access to national park suits your family, choose Nopparat Thara Beach.",
+      "If resort-backed calm waters appeal to families, choose Klong Muang.",
+      "If island vibes with bungalows fit relaxed family trips, choose Long Beach, Koh Lanta."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Klong Muang",
+        "why": "Klong Muang tops for families with its uncrowded, calm beach ideal for swimming and backed by upscale resorts that offer more privacy than Nopparat Thara's busier vibe. It beats Long Beach by being mainland-accessible without ferries.",
+        "drawback": "It's a 20-minute drive from Ao Nang's shops and tours, requiring taxis for outings.",
+        "skipIf": "Skip if your family seeks vibrant markets and walkable budget eats nearby.",
+        "localSignals": [
+          "20 minutes north of Ao Nang by car",
+          "Direct access to long peaceful sand",
+          "Calm clean water for family swimming"
+        ],
+        "travellerNote": "Travellers often praise the serene uncrowded beaches but note limited evening dining options without driving."
+      },
+      {
+        "rank": 2,
+        "name": "Nopparat Thara Beach",
+        "why": "Nopparat Thara Beach suits budget-conscious families with its national park location and local market for affordable meals, offering better value than Klong Muang's luxury prices while being more central than Koh Lanta.",
+        "drawback": "The area can feel touristy with vendors, potentially overwhelming for very young kids during peak times.",
+        "skipIf": "Skip if your family prefers upscale quiet over mixed residential-tourist zones.",
+        "localSignals": [
+          "Stretches next to Ao Nang coast",
+          "Part of Mu Ko Nopparat Thara National Park",
+          "Local market for food and goods"
+        ],
+        "travellerNote": "Travellers often praise the convenient family access to beaches and markets but note occasional crowds near residential areas."
+      },
+      {
+        "rank": 3,
+        "name": "Long Beach, Koh Lanta",
+        "why": "Long Beach, Koh Lanta provides a 3km kid-friendly stretch with beachfront bungalows, ideal for relaxed family play, though it trades mainland convenience for island seclusion compared to the top two.",
+        "drawback": "Reaching the island involves a ferry from mainland Krabi, adding travel time for families.",
+        "skipIf": "Skip if your family wants quick airport access without island hopping logistics.",
+        "localSignals": [
+          "3 km stretch on Koh Lanta west coast",
+          "Beachfront bungalows along the shore",
+          "Road-connected to other island parts"
+        ],
+        "travellerNote": "Travellers often praise the laid-back sands for kids but note reliance on scooters or taxis for off-beach needs."
+      }
+    ],
+    "topPick": "Klong Muang",
+    "topPickReason": "Klong Muang excels for family travellers seeking peaceful, upscale beaches with calm waters over busier or island options.",
+    "bookingTips": [
+      "Book 3-4 months ahead for December family peak to snag resorts in Klong Muang before prices rise 20-30%.",
+      "From Krabi Airport, take a taxi or Grab for 45-60 minutes to Klong Muang, costing around 800-1200 THB to avoid shared minivan waits with kids.",
+      "Avoid booking near Ao Nang's main road extensions in Nopparat Thara to dodge noisy traffic blocks.",
+      "Opt for family suites or bungalows with pools in Long Beach resorts during rainy July-August to counter wet weather.",
+      "Steer clear of unverified ferry operators to Koh Lanta; use official piers to prevent family delays.",
+      "Choose ground-floor rooms in Klong Muang resorts for easy kid access to the beach without stairs."
+    ],
+    "methodology": "We compared Krabi neighbourhoods based on walkability, price level, transport access, and suitability for family. We weighted family-friendly beach calm highest because it ensures safe play and relaxation over urban buzz. Rankings reflect cluster data plus typical family priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/areas/krabi/klong-muang/",
+      "/guides/where-to-stay/krabi/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Krabi'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Klong Muang'"
+    ],
+    "faq": [
+      {
+        "q": "Is Krabi safe for families with young children?",
+        "a": "Yes, areas like Klong Muang offer calm uncrowded beaches perfect for kids; stick to resort zones and avoid remote hikes for safety."
+      },
+      {
+        "q": "What are the best family beaches in Krabi?",
+        "a": "Klong Muang and Nopparat Thara Beach stand out for clean, swimmable waters; choose Klong Muang for quieter family dips."
+      },
+      {
+        "q": "How to get around Krabi with kids?",
+        "a": "Use songthaews or Grab taxis from Ao Nang base; for Long Beach, Koh Lanta, rent family scooters cautiously or stick to resort shuttles."
+      },
+      {
+        "q": "Are there family resorts in Krabi?",
+        "a": "Klong Muang has upscale options with kids' pools; book Nopparat Thara for budget family stays near the national park."
+      },
+      {
+        "q": "When is the best time for family travel to Krabi?",
+        "a": "November to April avoids rain for beach time; target Klong Muang in shoulder months for fewer crowds and better rates."
+      }
+    ],
+    "metaTitle": "Where to Stay in Krabi for Families (2026)",
+    "metaDescription": "Discover top Krabi neighbourhoods like Klong Muang for family travellers, with calm beaches and resorts for safe kid fun. Compare areas and see our picks…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:36:51.460Z"
+}

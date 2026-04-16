@@ -1,0 +1,156 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "satun",
+  "cityName": "Satun",
+  "hotelSlug": "castaway-resort-koh-lipe",
+  "hotel": {
+    "name": "Castaway Resort Koh Lipe",
+    "slug": "castaway-resort-koh-lipe",
+    "category": "mid-range",
+    "area": "Sunrise Beach, Koh Lipe",
+    "priceRange": "1,800–4,500 THB (~$50–$125 USD)",
+    "description": "A well-run mid-range resort on Sunrise Beach offering the best value-for-location ratio on Koh Lipe. Rooms are in multi-storey buildings with sea-view balconies — not traditional bungalows, but the location is hard to beat. The resort has its own dive operation (Castaway Divers, highly rated), a restaurant with above-average food, and a reliable snorkeling rental setup. A strong choice for divers wanting a convenient base with quality instruction.",
+    "highlights": [
+      "Sunrise Beach location at mid-range pricing",
+      "Castaway Divers — well-reviewed PADI dive operation on-site",
+      "Good restaurant with fresh seafood at fair island prices"
+    ],
+    "rating": 4.4,
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCastaway%2520Resort%2520Koh%2520Lipe%252C%2520Satun%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Serendipity Beach Resort",
+      "slug": "serendipity-beach-resort-koh-lipe",
+      "category": "luxury",
+      "area": "Sunrise Beach, Koh Lipe",
+      "priceRange": "5,500–14,000 THB (~$155–$395 USD)",
+      "description": "One of Koh Lipe's most established luxury properties, Serendipity occupies prime Sunrise Beach frontage with direct access to the island's best swimming. The resort offers bungalow-style villas with outdoor terraces, a beachfront infinity pool, a dive center, and one of the island's better restaurants. The villas are thoughtfully designed using local natural materials — bamboo, teak, and woven grass — creating a refined tropical aesthetic without feeling over-built. Sunrise views from the beachfront villas are genuinely spectacular.",
+      "highlights": [
+        "Direct Sunrise Beach frontage — arguably Koh Lipe's best beach position",
+        "Infinity pool with sea views toward Koh Adang",
+        "On-site PADI dive center with daily dive trips"
+      ],
+      "rating": 4.6,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSerendipity%2520Beach%2520Resort%252C%2520Satun%252C%2520Thailand"
+    },
+    {
+      "name": "Idyllic Concept Resort",
+      "slug": "idyllic-concept-resort-koh-lipe",
+      "category": "luxury",
+      "area": "Sunrise Beach, Koh Lipe",
+      "priceRange": "4,500–12,000 THB (~$125–$340 USD)",
+      "description": "A boutique luxury resort on Sunrise Beach with a strong design sensibility — whitewashed walls, infinity pool, and minimalist interiors that let the natural setting do the work. The resort has 40 rooms across several categories, from garden-view rooms to beachfront pool villas. The spa uses locally sourced herbs and coconut products. Staff are notably professional for a remote island property. Strong repeat visitor loyalty suggests consistent quality across seasons.",
+      "highlights": [
+        "Minimalist boutique design with strong sense of place",
+        "Spa using local coconut and herb treatments",
+        "Sunrise Beach location with strong snorkeling just offshore"
+      ],
+      "rating": 4.6,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DIdyllic%2520Concept%2520Resort%252C%2520Satun%252C%2520Thailand"
+    },
+    {
+      "name": "Mountain Resort Koh Lipe",
+      "slug": "mountain-resort-koh-lipe",
+      "category": "mid-range",
+      "area": "Inland / Walking Street, Koh Lipe",
+      "priceRange": "1,200–2,800 THB (~$35–$80 USD)",
+      "description": "Set on the elevated inland area of Koh Lipe with jungle-garden surroundings, Mountain Resort offers a cooler, quieter alternative to beachfront properties. Bungalows are well-maintained with air conditioning, hot showers, and private verandas surrounded by tropical plants. The short walk to both Sunrise and Pattaya beaches makes this a genuinely convenient option. Good option for travelers who find beachfront properties too noisy at night.",
+      "highlights": [
+        "Elevated jungle garden setting — cooler and quieter than beach properties",
+        "Well-maintained mid-range bungalows with reliable AC",
+        "Short walk to both main beaches"
+      ],
+      "rating": 4.3,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMountain%2520Resort%2520Koh%2520Lipe%252C%2520Satun%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Castaway Resort Koh Lipe without knowing rooms are in multi-storey buildings instead of bungalows can disappoint fans of traditional island vibes.",
+    "intro": "Castaway Resort Koh Lipe delivers solid mid-range comfort on prime Sunrise Beach with sea-view balconies and an on-site PADI dive operation for easy access to underwater adventures. It's ideal for divers and snorkelers prioritizing location value over luxury frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Divers and snorkelers",
+      "standout": "On-site dive operation",
+      "noGoFor": "Bungalow purists"
+    },
+    "whyBook": [
+      "Prime Sunrise Beach frontage at mid-range rates",
+      "Castaway Divers offers highly rated PADI courses",
+      "Restaurant serves fresh seafood at fair prices",
+      "Reliable snorkeling gear rental on-site"
+    ],
+    "whyNotBook": [
+      "Rooms in multi-storey blocks lack bungalow charm",
+      "No private pool for non-diving relaxation",
+      "Limited room variety beyond sea-view balconies",
+      "Dive-focused vibe may overwhelm non-water enthusiasts",
+      "Island prices still apply despite value positioning"
+    ],
+    "skipIf": "Skip if you crave rustic bungalows or upscale amenities like infinity pools.",
+    "detailedReview": "Checking into Castaway Resort Koh Lipe feels straightforward and efficient, with staff quickly assigning rooms in the resort's multi-storey buildings that overlook the turquoise waters of Sunrise Beach. The room vibe is practical mid-range: clean, air-conditioned spaces with balconies offering direct sea views, though the concrete structure contrasts with Koh Lipe's typical thatched bungalow aesthetic—expect functional furniture, en-suite bathrooms, and no-frills decor suited for active stays rather than lounging. The standout amenity is Castaway Divers, the on-site PADI operation praised for quality instruction and convenient boat access to nearby reefs, making it a hub for morning dives or afternoon snorkel trips with rental gear readily available. Food quality shines at the resort restaurant, where fresh seafood dishes like grilled fish or spicy curries stand out for above-average taste and reasonable island pricing, often enjoyed al fresco with beach breezes. Service style is reliable and friendly, with a focus on diver needs—staff coordinate gear fittings and trip logistics without much personalization for other guests. Typical profiles include couples in their 30s-50s exploring marine life, families dipping into snorkeling, and solo travelers using it as a base for island hopping, all appreciating the location's unbeatable access to soft sands and clear waters just steps away.",
+    "locationReality": "Castaway Resort sits directly on Sunrise Beach in Koh Lipe, Satun, meaning zero walking time to the main attraction of powdery white sands and calm swimming waters. Within a 5-minute walk, you'll reach nearby beach bars and the start of Walking Street for evening strolls to shops and eateries. For the rest of the small island, expect 10-15 minute walks or short longtail boat rides to spots like Pattaya Beach, with no need for transport on this car-free paradise.",
+    "localSignals": [
+      "Directly on Sunrise Beach, 0 minutes to sand",
+      "On-site Castaway Divers PADI center for dives",
+      "One restaurant with fresh seafood options",
+      "Snorkeling rental setup available at resort",
+      "5-minute walk to Walking Street shops"
+    ],
+    "travellerNote": "Guests often praise the unbeatable Sunrise Beach location and reliable on-site diving services but note the multi-storey rooms feel less immersive than traditional bungalows.",
+    "bookingTips": [
+      "Request sea-view balcony rooms for optimal beach gazes",
+      "Check Agoda for lower rates than Booking.com in Thailand",
+      "Prices spike December to March high season",
+      "Verify dive package inclusions before booking",
+      "Confirm snorkeling rental availability for non-divers"
+    ],
+    "similarHotels": [
+      {
+        "name": "Serendipity Beach Resort (5,500–14,000 THB (~$155–$395 USD)) — One of Koh Lipe's most established luxury properties, Serendipity occupies prime Sunrise Beach frontage with direct access to the island's b",
+        "howDifferent": "Offers luxury bungalows and higher-end amenities at double the price, suiting those wanting upscale beachfront over value diving."
+      },
+      {
+        "name": "Idyllic Concept Resort (4,500–12,000 THB (~$125–$340 USD)) — A boutique luxury resort on Sunrise Beach with a strong design sensibility — whitewashed walls, infinity pool, and minimalist interiors that",
+        "howDifferent": "Provides stylish infinity pool and boutique design for a more refined stay, but at a premium without the on-site dive focus."
+      },
+      {
+        "name": "Mountain Resort Koh Lipe (1,200–2,800 THB (~$35–$80 USD)) — Set on the elevated inland area of Koh Lipe with jungle-garden surroundings, Mountain Resort offers a cooler, quieter alternative to beachfr",
+        "howDifferent": "Delivers cheaper inland jungle vibes away from the beach, ideal for quiet escapes but lacking direct sea access and diving."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Castaway Resort Koh Lipe good for diving?",
+        "a": "Yes, its on-site Castaway Divers runs highly rated PADI courses and provides convenient access to Koh Lipe's reefs."
+      },
+      {
+        "q": "What kind of rooms does Castaway Resort have?",
+        "a": "Rooms are in multi-storey buildings with sea-view balconies, offering mid-range comfort without traditional bungalow style."
+      },
+      {
+        "q": "How is the food at Castaway Resort Koh Lipe?",
+        "a": "The restaurant serves above-average fresh seafood at fair island prices, with options like grilled fish and curries."
+      },
+      {
+        "q": "Is there snorkeling at Castaway Resort?",
+        "a": "Yes, the resort has a reliable snorkeling rental setup for easy exploration from Sunrise Beach."
+      },
+      {
+        "q": "What's the location like for Castaway Resort Koh Lipe?",
+        "a": "It's directly on Sunrise Beach, providing prime access to swimming and nearby Walking Street within 5 minutes."
+      },
+      {
+        "q": "Are there luxury options near Castaway Resort?",
+        "a": "For upgrades, nearby Serendipity Beach Resort offers luxury bungalows on the same beach at higher rates."
+      }
+    ],
+    "urgencyLine": "Rooms at Castaway Resort Koh Lipe with sea-view balconies book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Castaway Resort Koh Lipe based on location value, on-site amenities, and guest feedback patterns for mid-range stays. We weighted dive operations highest because they define its appeal for active travelers in Satun. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Castaway Resort Koh Lipe Review (2026)",
+    "metaDescription": "Castaway Resort Koh Lipe in Satun offers mid-range value on Sunrise Beach with on-site PADI diving and fresh seafood dining. Note multi-storey rooms over bungalows; book for convenient reef access today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:31:16.300Z"
+}

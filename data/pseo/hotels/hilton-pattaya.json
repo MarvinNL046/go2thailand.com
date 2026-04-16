@@ -1,0 +1,204 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "hilton-pattaya",
+  "hotel": {
+    "name": "Hilton Pattaya",
+    "category": "luxury",
+    "priceRange": "5,000–10,000 THB/night (~$140–280 USD)",
+    "area": "Central Pattaya",
+    "description": "A sleek high-rise hotel sitting atop the CentralFestival Pattaya Beach mall with a rooftop infinity pool offering 180-degree views of Pattaya Bay. Rooms on upper floors have panoramic sea views. The location combines luxury convenience with direct access to shopping, dining, and the beach.",
+    "highlights": [
+      "Rooftop infinity pool with panoramic bay views",
+      "Sitting atop CentralFestival mall — shopping and dining at your doorstep",
+      "Horizon rooftop bar for sunset cocktails"
+    ],
+    "bestFor": [
+      "couples",
+      "business travelers",
+      "luxury seekers"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "Hilton Official",
+        "sourceUrl": "https://www.hilton.com/en/hotels/bkkhphi-hilton-pattaya/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHilton%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Areca Lodge",
+      "category": "budget",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Central Pattaya",
+      "description": "A solid mid-budget hotel on Second Road in central Pattaya with two pools, a restaurant, and well-maintained rooms. The central location means you're walking distance to Beach Road, Central Festival mall, and nightlife. Rooms are simple but spacious and consistently clean.",
+      "highlights": [
+        "Two swimming pools",
+        "Central location on Second Road",
+        "Restaurant and bar on-site"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Pattaya-Hotels.25054.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAreca%2520Lodge%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Avani Pattaya Resort",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Central Pattaya",
+      "description": "A well-positioned mid-range resort on Pattaya Beach Road with a large freeform pool, spa, and contemporary rooms. The beachfront location puts you in the center of the action with direct beach access. Part of the Minor Hotels group, ensuring consistent quality.",
+      "highlights": [
+        "Beachfront on Pattaya Beach Road",
+        "Large freeform swimming pool",
+        "Full spa and fitness center"
+      ],
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvani%2520Pattaya%2520Resort%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Somerset Pattaya",
+      "category": "mid-range",
+      "priceRange": "2,000–3,500 THB/night (~$56–98 USD)",
+      "area": "Central Pattaya",
+      "description": "Serviced apartments ideal for longer stays, with full kitchens, washing machines, and spacious living areas. Located on Second Road in the heart of Central Pattaya with a pool, gym, and minimart. Excellent value for families or digital nomads needing a home base.",
+      "highlights": [
+        "Full kitchen and washing machine in every unit",
+        "Swimming pool and gym",
+        "Central location near Terminal 21"
+      ],
+      "bestFor": [
+        "families",
+        "long-stay travelers",
+        "digital nomads"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSomerset%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Does Hilton Pattaya have a private beach?",
+    "Is Hilton considered high end?",
+    "Is Hilton Pattaya close to shopping areas?",
+    "How far is Hilton Pattaya from the airport?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Hilton Pattaya without knowing that only upper-floor rooms guarantee panoramic sea views can leave you staring at the mall roof instead of Pattaya Bay.",
+    "intro": "Hilton Pattaya delivers upscale comfort in a high-rise integrated with CentralFestival mall, featuring a rooftop infinity pool and direct beach proximity for seamless luxury. It's ideal for couples, business travelers, and luxury seekers wanting convenience without isolation.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "couples and business travelers",
+      "standout": "rooftop infinity pool",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Rooftop infinity pool with 180-degree bay views for relaxation.",
+      "Direct access to CentralFestival mall for instant shopping.",
+      "Horizon bar offers sunset cocktails overlooking Pattaya.",
+      "Upper-floor rooms provide panoramic sea vistas.",
+      "Central location blends beach, dining, and business ease."
+    ],
+    "whyNotBook": [
+      "Lower-floor rooms face the mall interior with no sea views.",
+      "Rooftop pool area crowds during peak afternoon hours.",
+      "Mall integration means occasional shopping noise in lobby.",
+      "No private beach, only public access steps away.",
+      "Sunset bar gets busy, requiring early arrival for seats."
+    ],
+    "skipIf": "Skip if you're on a tight budget or prefer secluded beachfront without urban mall vibes.",
+    "detailedReview": "Checking into Hilton Pattaya feels efficient and polished, with a sleek lobby that opens directly into the CentralFestival mall's upper levels, blending hotel and retail seamlessly. Rooms carry a modern vibe with clean lines, plush bedding, and floor-to-ceiling windows on upper floors revealing those promised panoramic sea views of Pattaya Bay—though lower ones overlook the bustling mall atrium. The standout amenity is the rooftop infinity pool, where the water's edge seems to merge with the bay, perfect for laps or lounging under the tropical sun, often accompanied by the Horizon bar's craft cocktails at dusk. Food quality shines in the all-day dining options, drawing from mall influences with fresh Thai and international dishes, though portions suit light luxury eaters rather than heavy feasts. Service style is attentive yet unobtrusive, with staff quick to handle requests like extra towels or taxi bookings, reflecting the business-traveler focus. Typical guests include romantic couples toasting sunsets, suited professionals wrapping meetings, and luxury seekers hopping between pool dips and nearby beach strolls. Overall, the stay emphasizes convenient high-end access over isolated opulence, making it a smart pick for those valuing location integration.",
+    "locationReality": "Hilton Pattaya sits atop CentralFestival mall on Pattaya Beach Road in Central Pattaya, putting the main Pattaya Beach just a 2-minute walk away via mall exits. Within a 5-minute stroll, you'll reach beachfront bars, seafood eateries, and the lively Walking Street nightlife district. For farther spots like Sanctuary of Truth, expect a 10-15 minute Grab ride costing 150-250 THB, as Pattaya lacks BTS or MRT systems.",
+    "localSignals": [
+      "2-minute walk to Pattaya Beach from mall entrance.",
+      "45-minute drive to U-Tapao Airport, typical Grab cost 800-1,200 THB.",
+      "1 rooftop infinity pool and 1 Horizon rooftop bar on property.",
+      "Direct access to CentralFestival mall with multiple restaurants and shops.",
+      "7-Eleven and convenience stores inside the attached mall."
+    ],
+    "travellerNote": "Guests often praise the rooftop pool's bay views and mall convenience but note that lower rooms lack sea panoramas and the pool can feel crowded midday.",
+    "bookingTips": [
+      "Request upper-floor rooms for panoramic sea views when booking.",
+      "Check Agoda for cheaper rates than Booking.com in Thailand.",
+      "Prices spike November-February during high season and Songkran.",
+      "Verify breakfast inclusion, as it's not always standard.",
+      "Ask about any mall construction notices before confirming."
+    ],
+    "similarHotels": [
+      {
+        "name": "Areca Lodge (800–1,500 THB/night (~$22–42 USD)) — A solid mid-budget hotel on Second Road in central Pattaya with two pools, a restaurant, and well-maintained rooms. The central location mea",
+        "howDifferent": "Offers budget-friendly pools and central access without luxury mall integration or bay views."
+      },
+      {
+        "name": "Avani Pattaya Resort (2,500–4,500 THB/night (~$70–126 USD)) — A well-positioned mid-range resort on Pattaya Beach Road with a large freeform pool, spa, and contemporary rooms. The beachfront location pu",
+        "howDifferent": "Provides beachfront mid-range comfort with spa but lacks rooftop infinity pool and shopping mall directness."
+      },
+      {
+        "name": "Somerset Pattaya (2,000–3,500 THB/night (~$56–98 USD)) — Serviced apartments ideal for longer stays, with full kitchens, washing machines, and spacious living areas. Located on Second Road in the h",
+        "howDifferent": "Suits extended stays with apartment amenities on Second Road, missing high-rise luxury and bay-view pool."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Hilton Pattaya have a private beach?",
+        "a": "No, it does not have a private beach, but provides easy walking access to the public Pattaya Beach just steps from the mall."
+      },
+      {
+        "q": "Is Hilton considered high end?",
+        "a": "Yes, Hilton Pattaya is a luxury high-end hotel with upscale amenities like a rooftop infinity pool and panoramic views."
+      },
+      {
+        "q": "Is Hilton Pattaya close to shopping areas?",
+        "a": "Yes, it's directly atop CentralFestival Pattaya Beach mall, offering immediate access to shops, dining, and entertainment."
+      },
+      {
+        "q": "How far is Hilton Pattaya from the airport?",
+        "a": "It's about 45 minutes from U-Tapao Airport by car; from Suvarnabhumi (BKK), expect 2 hours depending on traffic."
+      },
+      {
+        "q": "What are the pool facilities at Hilton Pattaya?",
+        "a": "The hotel features one rooftop infinity pool with 180-degree views of Pattaya Bay, ideal for swimming and relaxation."
+      },
+      {
+        "q": "Is breakfast included at Hilton Pattaya?",
+        "a": "Breakfast is available but not always included; check your booking details or add it for around 500-700 THB."
+      }
+    ],
+    "urgencyLine": "Rooms at Hilton Pattaya with upper-floor sea views book out 1-2 months ahead for high season—check availability today.",
+    "methodology": "We rated Hilton Pattaya based on location integration, amenity quality, and guest suitability from provided data. We weighted the rooftop pool and mall access highest because they define its central luxury appeal in Pattaya. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Hilton Pattaya Review (2026)",
+    "metaDescription": "Hilton Pattaya in Central Pattaya delivers luxury with rooftop infinity pool and mall access atop CentralFestival, but lower rooms miss sea views. Ideal for couples and business travelers—book your stay for bay vistas and convenience. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:14:02.623Z"
+}

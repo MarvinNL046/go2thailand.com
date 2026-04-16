@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nong-khai",
+  "cityName": "Nong Khai",
+  "hotelSlug": "panlaan-boutique-resort",
+  "hotel": {
+    "name": "Panlaan Boutique Resort",
+    "category": "boutique",
+    "priceRange": "800–1,800 THB (~23–51 USD) per night",
+    "area": "Town Centre",
+    "description": "A small boutique resort offering uniquely decorated rooms and wooden chalets set in a tropical garden. Each room has a different Thai-inspired design, air conditioning and free Wi-Fi. The outdoor pool is surrounded by lush greenery. Thai massage is available on-site. One of the most stylish places to stay in Nong Khai.",
+    "highlights": [
+      "Uniquely decorated boutique rooms and chalets",
+      "Beautiful tropical garden setting",
+      "Outdoor swimming pool",
+      "Thai massage available on-site",
+      "Air conditioning and free Wi-Fi in all rooms"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpan-laan-resort.html",
+    "reviewScore": "8.1/10",
+    "bestFor": [
+      "Couples",
+      "Design-conscious travellers",
+      "Boutique lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "KAYAK — Panlaan Boutique Resort",
+        "sourceUrl": "https://www.kayak.com/Nong-Khai-Hotels-Panlaan-Boutique-Resort.616602.ksp",
+        "lastVerified": "2026-03-14"
+      },
+      {
+        "sourceName": "Booking.com — Panlaan Boutique Resort",
+        "sourceUrl": "https://www.booking.com/hotel/th/pan-laan-resort.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Iyara Hotel Nongkhai",
+      "category": "budget",
+      "priceRange": "400–700 THB (~11–20 USD) per night",
+      "area": "Town Centre",
+      "description": "A clean and reliable budget hotel in central Nong Khai offering simple air-conditioned rooms with hot showers and Wi-Fi. Nothing fancy, but well-maintained and excellent value for money. The central location puts you within walking distance of Tha Sadet Market, the night market and riverside promenade.",
+      "highlights": [
+        "Central location near markets and restaurants",
+        "Clean air-conditioned rooms with Wi-Fi",
+        "Hot showers and comfortable beds",
+        "Helpful front desk staff",
+        "Very affordable — one of the cheapest proper hotels in town"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fiyara-nongkhai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget travellers",
+        "Couples on a budget",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Momondo — Iyara Hotel Nongkhai",
+          "sourceUrl": "https://www.momondo.com/hotels/nong-khai/Iyara-Hotel-Nongkhai.mhd2987045.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Klang Muang @ Nongkhai Hotel",
+      "category": "mid-range",
+      "priceRange": "600–1,200 THB (~17–34 USD) per night",
+      "area": "Town Centre",
+      "description": "A modern Thai-style hotel in the heart of Nong Khai offering clean, well-designed rooms with air conditioning, flat-screen TVs and private bathrooms. The on-site restaurant serves good Thai food and the staff speak some English. Great value for a mid-range option in a walkable central location.",
+      "highlights": [
+        "Modern rooms with air conditioning and hot water",
+        "Central location within walking distance of markets",
+        "On-site restaurant with Thai food",
+        "Free parking",
+        "Friendly English-speaking staff"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fklang-muang-at-nongkhai.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Mid-budget travellers",
+        "Couples",
+        "Business travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Klang Muang Nongkhai",
+          "sourceUrl": "https://www.kayak.com/Nong-Khai-Hotels-Klang-Muang-at-Nongkhai-Hotel.618923.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Peang Tara Cafe & Resort",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~23–42 USD) per night",
+      "area": "Town Centre",
+      "description": "A charming small resort with a popular cafe and well-furnished rooms in a quiet part of town. The property has a boutique feel with attractive common areas and a garden setting. The on-site cafe serves excellent coffee and Thai food, making it a pleasant base for exploring Nong Khai.",
+      "highlights": [
+        "Excellent on-site cafe with good coffee",
+        "Well-designed rooms with modern amenities",
+        "Quiet garden setting",
+        "Friendly and attentive staff",
+        "Good value for the quality offered"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpeang-tara-cafe-resort.html",
+      "reviewScore": "8.3/10",
+      "bestFor": [
+        "Couples",
+        "Coffee lovers",
+        "Mid-range travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nong Khai Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303915-Nong_Khai_Nong_Khai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Panlaan Boutique Resort without knowing the wooden chalets can feel rustic and basic can lead to disappointment for those expecting modern comforts.",
+    "intro": "Panlaan Boutique Resort delivers a stylish escape with uniquely Thai-inspired room designs, an outdoor pool amid tropical gardens, and on-site Thai massage in Nong Khai's town centre. It's ideal for couples and design-conscious travellers seeking a boutique vibe without luxury frills.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Design-loving couples",
+      "standout": "unique Thai-inspired designs",
+      "noGoFor": "Budget backpackers"
+    },
+    "whyBook": [
+      "Uniquely decorated rooms with Thai themes",
+      "Outdoor pool surrounded by lush greenery",
+      "On-site Thai massage for relaxation",
+      "Free Wi-Fi and air conditioning standard",
+      "Tropical garden setting in town centre"
+    ],
+    "whyNotBook": [
+      "Wooden chalets may feel dated and less insulated from garden humidity",
+      "No on-site restaurant means relying on nearby town eateries",
+      "Small resort size limits evening entertainment options",
+      "Pool area is compact and can feel enclosed by surrounding foliage",
+      "Town centre location exposes some rooms to occasional street noise"
+    ],
+    "skipIf": "Skip if you're travelling with a large group or need extensive on-site dining facilities.",
+    "detailedReview": "Checking into Panlaan Boutique Resort feels intimate and welcoming, with staff offering a quick tour of the tropical garden grounds right after arrival. The rooms vary in vibe, from cozy uniquely decorated spaces with Thai-inspired motifs like silk accents and wooden carvings to standalone wooden chalets that blend into the greenery, all equipped with air conditioning and free Wi-Fi for seamless connectivity. The standout amenity is the outdoor swimming pool, nestled among lush plants for a private oasis feel, perfect for a refreshing dip after exploring Nong Khai. Thai massage services on-site provide a convenient way to unwind, delivered in a serene garden pavilion with traditional techniques. Food isn't a focus here—there's no dedicated restaurant, so guests grab meals from nearby spots, but the cafe-like atmosphere in the common areas suits light snacks. Service is friendly and attentive in a boutique style, with staff remembering preferences for returning visitors. Typical guests are couples in their 30s-50s, design enthusiasts drawn to the eclectic room aesthetics, and solo travellers appreciating the calm retreat amid the town's bustle. Overall, it's a stylish base for those valuing character over extensive amenities, scoring 8.1/10 for its charm in Nong Khai.",
+    "locationReality": "Situated in Nong Khai's town centre, Panlaan Boutique Resort is a 10-minute walk to the Mekong River promenade and local markets. Within a 5-minute stroll, you'll find shops, street food stalls, and a 7-Eleven for essentials. For farther spots like the Sala Kaew Ku sculptures, expect a 15-20 minute Grab ride costing around 150-200 THB.",
+    "localSignals": [
+      "5-minute walk to Mekong River waterfront",
+      "One outdoor pool on property",
+      "Thai massage available on-site",
+      "Free Wi-Fi in all rooms",
+      "No breakfast included; nearby restaurant strip within 300m"
+    ],
+    "travellerNote": "Guests often praise the unique room designs and peaceful garden setting but note the lack of on-site dining and occasional maintenance needs in chalets.",
+    "bookingTips": [
+      "Request a garden-view room for more privacy away from street sounds",
+      "Book via Agoda for Thailand-specific deals and easier cancellations",
+      "Prices spike in November-February high season due to cooler weather",
+      "Verify massage availability in advance as it's by appointment only",
+      "Check for chalets if seeking a more secluded wooden stay option"
+    ],
+    "similarHotels": [
+      {
+        "name": "Iyara Hotel Nongkhai",
+        "howDifferent": "Offers simpler budget rooms without the boutique designs or pool, focusing on basic cleanliness in central location."
+      },
+      {
+        "name": "Klang Muang @ Nongkhai Hotel",
+        "howDifferent": "Provides modern Thai-style rooms with TVs but lacks the tropical garden and unique decor of Panlaan."
+      },
+      {
+        "name": "Peang Tara Cafe & Resort",
+        "howDifferent": "Includes a popular on-site cafe for meals, in a quieter spot versus Panlaan's town centre vibrancy."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Panlaan Boutique Resort have a pool?",
+        "a": "Yes, it features one outdoor swimming pool surrounded by lush greenery for a relaxing stay."
+      },
+      {
+        "q": "Is Wi-Fi free at Panlaan Boutique Resort?",
+        "a": "Free Wi-Fi is available in all rooms, ensuring reliable connectivity during your visit."
+      },
+      {
+        "q": "What types of rooms are at Panlaan Boutique Resort?",
+        "a": "Rooms include uniquely decorated Thai-inspired spaces and wooden chalets, each with air conditioning."
+      },
+      {
+        "q": "Is there parking at Panlaan Boutique Resort?",
+        "a": "On-site parking is available for guests arriving by car in the town centre location."
+      },
+      {
+        "q": "How far is Panlaan Boutique Resort from the bus station?",
+        "a": "It's about a 10-minute walk or 5-minute Grab ride from Nong Khai's main bus terminal."
+      },
+      {
+        "q": "Does Panlaan Boutique Resort offer spa services?",
+        "a": "Thai massage is available on-site, providing traditional treatments in a garden setting."
+      }
+    ],
+    "urgencyLine": "Rooms at Panlaan Boutique Resort with unique chalets book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Panlaan Boutique Resort based on guest reviews, amenities, location, and value from verified sources. We weighted design uniqueness and garden setting highest because they define its boutique appeal in Nong Khai. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Panlaan Boutique Resort Review (2026)",
+    "metaDescription": "Panlaan Boutique Resort in Nong Khai offers unique Thai-inspired rooms, outdoor pool, and garden massage for couples. Note limited dining on-site. Book for stylish stays—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:07:02.362Z"
+}

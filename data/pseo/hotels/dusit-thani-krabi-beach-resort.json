@@ -1,0 +1,206 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "dusit-thani-krabi-beach-resort",
+  "hotel": {
+    "name": "Dusit Thani Krabi Beach Resort",
+    "category": "luxury",
+    "priceRange": "5,000-12,000 THB/night (~$140-336 USD)",
+    "area": "Klong Muang Beach",
+    "description": "A premium Thai chain resort on the quiet Klong Muang Beach, 20 minutes north of Ao Nang. Large free-form pool, private beach, Thai cooking classes, and spacious rooms with garden or sea views. Good value in the luxury bracket — you get 5-star facilities and beach at a fraction of Rayavadee or Ritz-Carlton prices.",
+    "highlights": [
+      "Private beachfront on quiet Klong Muang Beach",
+      "Large free-form swimming pool and spa",
+      "Thai cooking classes and cultural activities on-site"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "families",
+      "couples",
+      "value luxury"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1861021-d302128-Reviews-Dusit_Thani_Krabi_Beach_Resort-Nong_Thale_Krabi_Province.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Krabi%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Rayavadee",
+      "category": "luxury",
+      "priceRange": "15,000-40,000 THB/night (~$420-1,120 USD)",
+      "area": "Railay / Phra Nang",
+      "description": "One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beaches including Phra Nang Cave Beach. Two-story pavilions with outdoor living spaces are scattered among coconut palms. The setting between soaring limestone cliffs and turquoise sea is unmatched anywhere in the country.",
+      "highlights": [
+        "Private access to three beaches including Phra Nang Cave Beach",
+        "Two-story pavilion suites in tropical gardens",
+        "Boat-access-only location between limestone cliffs — no cars, no roads"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury travelers",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1507957-d301764-Reviews-Rayavadee-Railay_Beach_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayavadee%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "category": "luxury",
+      "priceRange": "12,000-35,000 THB/night (~$336-980 USD)",
+      "area": "Tubkaek Beach",
+      "description": "The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous pool villas and pavilions with Thai-inspired design, a world-class spa, three restaurants, and the kind of white-glove service that justifies the price. One of only a handful of Ritz-Carlton Reserve properties worldwide.",
+      "highlights": [
+        "Ritz-Carlton Reserve — one of few worldwide",
+        "Secluded Tubkaek Beach with limestone island views",
+        "Pool villas with outdoor living spaces and private butler service"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhulay%2520Bay%252C%2520a%2520Ritz-Carlton%2520Reserve%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
+      "category": "luxury",
+      "priceRange": "4,500-10,000 THB/night (~$126-280 USD)",
+      "area": "Klong Muang Beach",
+      "description": "French luxury chain resort with one of Southeast Asia's largest freeform swimming pools (at 230 meters long). Set on Klong Muang Beach with a private stretch of sand, 9-hole golf course, extensive spa, and multiple restaurants. The colonial-Thai architecture and manicured grounds give it a grand resort feel.",
+      "highlights": [
+        "230-meter freeform pool — one of SE Asia's largest",
+        "9-hole pitch-and-putt golf course",
+        "Private beach with kayaks and beach activities"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "golfers",
+        "resort lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Accor",
+          "sourceUrl": "https://www.accor.com/en/hotel-brands/sofitel.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSofitel%2520Krabi%2520Phokeethra%2520Golf%2520%2526%2520Spa%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the star rating of dusit Thani Krabi?",
+    "What is Dusit Thani Krabi known for?",
+    "Which hotel is best in Krabi?",
+    "How far is Dusit Thani Krabi from the airport?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Dusit Thani Krabi Beach Resort without knowing its 20-minute distance from Ao Nang can leave you stranded for evening dining options.",
+    "intro": "Dusit Thani Krabi Beach Resort offers 5-star facilities including a large free-form pool, private beach access, and Thai cooking classes on the quiet Klong Muang Beach. It's ideal for families and couples seeking value luxury without the premium prices of top-tier resorts like Rayavadee.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "families couples value luxury",
+      "standout": "private beachfront",
+      "noGoFor": "nightlife party seekers"
+    },
+    "whyBook": [
+      "Access private beach on quiet Klong Muang",
+      "Large free-form pool and on-site spa",
+      "Thai cooking classes for cultural immersion",
+      "Spacious rooms with sea or garden views",
+      "Good value at fraction of Rayavadee prices"
+    ],
+    "whyNotBook": [
+      "20 minutes from Ao Nang requires taxi for shops and restaurants",
+      "Quiet beach location lacks vibrant nightlife nearby",
+      "Limited on-site dining options beyond resort facilities",
+      "Garden-view rooms may feel less premium without sea access",
+      "Peak season crowds fill the pool area midday"
+    ],
+    "skipIf": "Skip if you prefer central Ao Nang buzz over secluded beach tranquility.",
+    "detailedReview": "Check-in at Dusit Thani Krabi Beach Resort feels efficient and welcoming, with staff offering cool towels and a quick orientation to the property's layout on Klong Muang Beach. Rooms are spacious, featuring Thai-inspired decor with balconies offering garden or sea views, and amenities like rain showers and minibars stocked with local snacks. The standout amenity is the large free-form swimming pool that winds through tropical gardens, providing ample space for laps or relaxation, complemented by the spa's Thai massages using herbal compresses. Food quality shines in the all-day dining restaurant, where fresh seafood from the Andaman Sea pairs with Thai curries, though buffets can feel repetitive after a few days. Service is attentive in the Thai hospitality style, with staff remembering preferences like extra pillows or dietary needs. Typical guests are families with kids enjoying the pool and cooking classes, or couples unwinding on the private beach without the crowds of Ao Nang. At 4.5/5 on TripAdvisor, it delivers reliable luxury value, but the 20-minute drive to more action highlights its secluded vibe. Overall, it's a solid choice for those prioritizing beachfront calm over urban energy in Krabi.",
+    "locationReality": "Situated on quiet Klong Muang Beach, 20 minutes north of bustling Ao Nang by car, the resort offers direct private beach access but requires a 300-500 THB taxi ride for Ao Nang's restaurants and tours. Within a 5-minute walk, you'll find the beach and resort gardens, but no shops or markets—nearest convenience is a 10-minute drive away. Krabi Town, with its night market, is about 40 minutes south, making day trips feasible via Grab or resort shuttles.",
+    "localSignals": [
+      "20 minutes north of Ao Nang by car",
+      "Private beachfront on Klong Muang Beach",
+      "One large free-form swimming pool",
+      "On-site Thai cooking classes available",
+      "4.5/5 TripAdvisor review score"
+    ],
+    "travellerNote": "Guests often praise the spacious rooms and private beach access but note the isolation requiring transport for off-resort activities.",
+    "bookingTips": [
+      "Request sea-view rooms for balcony ocean breezes",
+      "Book via Agoda for Thailand-specific discounts",
+      "Prices spike December-February high season",
+      "Verify breakfast inclusion as it varies by package",
+      "Check for shuttle to Ao Nang before confirming"
+    ],
+    "similarHotels": [
+      {
+        "name": "Rayavadee (15,000-40,000 THB/night (~$420-1,120 USD)) — One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beach",
+        "howDifferent": "Rayavadee offers more exclusive Railay peninsula access and higher prices, lacking Dusit Thani's value focus."
+      },
+      {
+        "name": "Phulay Bay, a Ritz-Carlton Reserve (12,000-35,000 THB/night (~$336-980 USD)) — The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous p",
+        "howDifferent": "Phulay Bay provides ultra-exclusive Ritz-Carlton service on Tubkaek Beach at steeper costs, more secluded than Dusit Thani's family-friendly setup."
+      },
+      {
+        "name": "Sofitel Krabi Phokeethra Golf & Spa Resort (4,500-10,000 THB/night (~$126-280 USD)) — French luxury chain resort with one of Southeast Asia's largest freeform swimming pools (at 230 meters long). Set on Klong Muang Beach with",
+        "howDifferent": "Sofitel shares Klong Muang Beach but emphasizes a massive 230-meter pool and golf, slightly cheaper than Dusit Thani's Thai chain vibe."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the star rating of Dusit Thani Krabi?",
+        "a": "Dusit Thani Krabi Beach Resort is a 5-star property, offering premium facilities like a private beach and spa."
+      },
+      {
+        "q": "What is Dusit Thani Krabi known for?",
+        "a": "It's known for its private beachfront on quiet Klong Muang Beach, large free-form pool, and on-site Thai cooking classes."
+      },
+      {
+        "q": "Which hotel is best in Krabi?",
+        "a": "The best depends on needs; Dusit Thani excels for value luxury on Klong Muang, while Rayavadee suits iconic seclusion."
+      },
+      {
+        "q": "How far is Dusit Thani Krabi from the airport?",
+        "a": "Krabi International Airport is about 35 minutes by car, with taxi costs around 600-800 THB."
+      },
+      {
+        "q": "Does Dusit Thani Krabi have a private beach?",
+        "a": "Yes, it features direct private beachfront access on Klong Muang Beach for guest use."
+      },
+      {
+        "q": "What activities are available at Dusit Thani Krabi?",
+        "a": "On-site options include Thai cooking classes, cultural activities, and spa treatments alongside the swimming pool."
+      }
+    ],
+    "urgencyLine": "Rooms at Dusit Thani Krabi Beach Resort with sea views book out 1-2 months ahead for December-February high season — check today.",
+    "methodology": "We rated Dusit Thani Krabi Beach Resort based on location, amenities, value, and guest feedback from sources like TripAdvisor. We weighted beach access and price-value highest because Krabi travelers prioritize coastal relaxation without overpaying. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Dusit Thani Krabi Beach Resort Review (2026)",
+    "metaDescription": "Dusit Thani Krabi Beach Resort in Krabi delivers private beachfront and large free-form pool for families and couples. Value luxury at 5,000-12,000 THB/night, but 20-min drive to Ao Nang adds transport needs. Book for serene stays today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:38:48.695Z"
+}

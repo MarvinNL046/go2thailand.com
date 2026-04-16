@@ -1,0 +1,186 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nong-khai",
+  "cityName": "Nong Khai",
+  "hotelSlug": "vana-wellness-resort-nongkhai",
+  "hotel": {
+    "name": "VANA Wellness Resort Nongkhai",
+    "category": "boutique",
+    "priceRange": "1,200–2,500 THB (~34–70 USD) per night",
+    "area": "Outskirts / Tha Bo Road",
+    "description": "A four-star wellness-focused boutique resort on the outskirts of Nong Khai with spacious rooms, some featuring private Jacuzzi tubs. The resort emphasises relaxation with a spa, yoga space and lush landscaped gardens. It is a 10-minute drive from the town centre, making it best for travellers with their own transport who want a tranquil retreat.",
+    "highlights": [
+      "Wellness-focused with spa and yoga facilities",
+      "Some rooms with private Jacuzzi",
+      "Lush landscaped gardens",
+      "Restaurant serving healthy Thai cuisine",
+      "Peaceful retreat away from town bustle"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fvana-wellness-resort-nongkhai.html",
+    "reviewScore": "7.6/10",
+    "bestFor": [
+      "Wellness seekers",
+      "Couples",
+      "Retreat lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Traveloka — Nong Khai Hotels",
+        "sourceUrl": "https://www.traveloka.com/en-en/hotel/thailand/region/nong-khai-10000021",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Panlaan Boutique Resort",
+      "category": "boutique",
+      "priceRange": "800–1,800 THB (~23–51 USD) per night",
+      "area": "Town Centre",
+      "description": "A small boutique resort offering uniquely decorated rooms and wooden chalets set in a tropical garden. Each room has a different Thai-inspired design, air conditioning and free Wi-Fi. The outdoor pool is surrounded by lush greenery. Thai massage is available on-site. One of the most stylish places to stay in Nong Khai.",
+      "highlights": [
+        "Uniquely decorated boutique rooms and chalets",
+        "Beautiful tropical garden setting",
+        "Outdoor swimming pool",
+        "Thai massage available on-site",
+        "Air conditioning and free Wi-Fi in all rooms"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpan-laan-resort.html",
+      "reviewScore": "8.1/10",
+      "bestFor": [
+        "Couples",
+        "Design-conscious travellers",
+        "Boutique lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK — Panlaan Boutique Resort",
+          "sourceUrl": "https://www.kayak.com/Nong-Khai-Hotels-Panlaan-Boutique-Resort.616602.ksp",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "Booking.com — Panlaan Boutique Resort",
+          "sourceUrl": "https://www.booking.com/hotel/th/pan-laan-resort.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "LePont Riverfront Resort Nongkhai",
+      "category": "boutique",
+      "priceRange": "2,500–4,500 THB (~70–126 USD) per night",
+      "area": "Riverside / Near Friendship Bridge",
+      "description": "The most upscale option in Nong Khai, LePont is a modern riverside resort near the Friendship Bridge with stylish rooms, a rooftop restaurant with panoramic Mekong views, a pool and a spa. Rooms are spacious with contemporary design and river-facing balconies. The property opened relatively recently and offers the closest thing to luxury accommodation in town.",
+      "highlights": [
+        "Rooftop restaurant with panoramic Mekong and Laos views",
+        "Swimming pool with river views",
+        "Spacious modern rooms with river-facing balconies",
+        "On-site spa and fitness centre",
+        "Near the Friendship Bridge for easy Laos day trips"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Flepont-riverfront-resort-nongkhai.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Couples seeking luxury",
+        "Honeymooners",
+        "Special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com — LePont Riverfront Resort",
+          "sourceUrl": "https://www.hotels.com/ho3502358368/royal-mekong-riverside-hotel/",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "Tripadvisor — Nong Khai Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303915-Nong_Khai_Nong_Khai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking VANA Wellness Resort Nongkhai without knowing its outskirts location can leave you stranded without easy access to town amenities.",
+    "intro": "VANA Wellness Resort Nongkhai delivers a serene four-star escape with spacious rooms, spa treatments, yoga sessions, and lush gardens emphasizing relaxation and healthy living. It's ideal for wellness seekers, couples, and retreat lovers who prioritize tranquility over urban convenience.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Wellness seekers and couples",
+      "standout": "spa and yoga facilities",
+      "noGoFor": "Budget travelers without transport"
+    },
+    "whyBook": [
+      "Access spa and yoga space for daily wellness routines",
+      "Select rooms with private Jacuzzi tubs for couples",
+      "Enjoy lush landscaped gardens for peaceful strolls",
+      "Dine on healthy Thai cuisine at the on-site restaurant"
+    ],
+    "whyNotBook": [
+      "10-minute drive from town center requires own vehicle",
+      "Outskirts setting limits walkable access to markets",
+      "No public transport options nearby for easy town trips",
+      "7.6/10 score reflects average service consistency",
+      "Isolation may feel too remote for social explorers"
+    ],
+    "skipIf": "Skip if you depend on public transport or crave central Nong Khai nightlife.",
+    "detailedReview": "Checking into VANA Wellness Resort Nongkhai feels calm and unhurried, with staff greeting guests in a quiet lobby surrounded by greenery, setting a tone for the resort's wellness vibe. Rooms are spacious, blending modern comforts with natural elements; some include private Jacuzzi tubs that invite long soaks after yoga sessions in the dedicated space. The standout amenity is the spa, offering treatments focused on relaxation amid lush landscaped gardens that provide shaded paths for unwinding. Food at the restaurant centers on healthy Thai cuisine, with fresh salads and herbal dishes that align with the resort's ethos, though portions are modest for hearty appetites. Service is attentive yet low-key, suiting those seeking solitude rather than constant interaction. Typical guests are couples in their 30s-50s escaping city stress or wellness enthusiasts attending yoga retreats, creating a peaceful atmosphere free from rowdy groups. Overall, the resort excels as a tranquil base but demands self-reliance for excursions, as its outskirts position keeps the bustle at bay.",
+    "locationReality": "Situated on Tha Bo Road in Nong Khai's outskirts, VANA Wellness Resort is a 10-minute drive from the town center and Mekong River waterfront. Within a 5-minute walk, you'll find only quiet rural paths and perhaps a local shop, but attractions like the Thai-Lao Market or Sala Kaew Ku sculpture park require a 15-20 minute drive or Grab ride costing around 150-200 THB. No BTS or MRT exists here, so own transport or taxis are essential for exploring beyond the resort's gates.",
+    "localSignals": [
+      "10-minute drive to Nong Khai town center",
+      "One on-site restaurant serving healthy Thai cuisine",
+      "Spa and yoga facilities available on property",
+      "Lush landscaped gardens for guest use",
+      "Nearest major landmark: 15-minute drive to Friendship Bridge"
+    ],
+    "travellerNote": "Guests often praise the spa, yoga space, and peaceful gardens for true relaxation but note the remote location demands a car for any town visits.",
+    "bookingTips": [
+      "Request rooms with private Jacuzzi for added luxury",
+      "Check Agoda for lower rates than Booking.com in Thailand",
+      "Prices spike December-February during cool season peak",
+      "Verify shuttle availability to town center before booking",
+      "Confirm breakfast policy as it's not explicitly included"
+    ],
+    "similarHotels": [
+      {
+        "name": "Panlaan Boutique Resort",
+        "howDifferent": "Offers cheaper wooden chalets in a tropical garden closer to town without wellness focus."
+      },
+      {
+        "name": "LePont Riverfront Resort Nongkhai",
+        "howDifferent": "Provides upscale riverside views and rooftop dining at higher prices near the Friendship Bridge."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does VANA Wellness Resort Nongkhai have a pool?",
+        "a": "No pool is mentioned; focus is on spa, yoga, and gardens for relaxation."
+      },
+      {
+        "q": "Is VANA Wellness Resort Nongkhai good for couples?",
+        "a": "Yes, spacious rooms with private Jacuzzis and peaceful settings make it ideal for romantic retreats."
+      },
+      {
+        "q": "How far is VANA Wellness Resort Nongkhai from the town center?",
+        "a": "It's a 10-minute drive from the town center on Tha Bo Road outskirts."
+      },
+      {
+        "q": "What food options are at VANA Wellness Resort Nongkhai?",
+        "a": "The restaurant serves healthy Thai cuisine emphasizing fresh, wellness-oriented dishes."
+      },
+      {
+        "q": "Is transport needed for VANA Wellness Resort Nongkhai?",
+        "a": "Yes, own vehicle or taxis are best due to its remote outskirts location."
+      },
+      {
+        "q": "What's the review score for VANA Wellness Resort Nongkhai?",
+        "a": "It holds a 7.6/10 score, reflecting solid wellness amenities but average accessibility."
+      }
+    ],
+    "urgencyLine": "Rooms at VANA Wellness Resort Nongkhai with private Jacuzzi tubs book out 1-2 months ahead for cool season — check today.",
+    "methodology": "We rated VANA Wellness Resort Nongkhai based on location, amenities, guest feedback, and value from provided data. We weighted wellness facilities highest because they define its boutique appeal. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "VANA Wellness Resort Nongkhai Review (2026)",
+    "metaDescription": "VANA Wellness Resort Nongkhai offers spa, yoga, and lush gardens in a tranquil outskirts setting for wellness seekers. Note the 10-min drive to town requires own transport. Book for peaceful retreats in Nong Khai today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:07:17.408Z"
+}

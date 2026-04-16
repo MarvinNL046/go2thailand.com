@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "railay-bay-resort-spa",
+  "hotel": {
+    "name": "Railay Bay Resort & Spa",
+    "category": "mid-range",
+    "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+    "area": "Railay Beach",
+    "description": "The best-value resort on Railay, straddling the peninsula between Railay West (swimming beach) and Railay East. Two pools, a beachfront restaurant, and direct access to both sides of the peninsula. Rooms range from garden-view bungalows to beachfront cottages. The boat-access-only setting gives it an island-resort atmosphere.",
+    "highlights": [
+      "Access to both Railay West and East beaches",
+      "Two swimming pools and beachfront restaurant",
+      "Boat-access location creates exclusive island feel"
+    ],
+    "reviewScore": "4.0/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "honeymooners"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g1507957-Railay_Beach_Krabi_Town_Krabi_Province-Hotels.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRailay%2520Bay%2520Resort%2520%2526%2520Spa%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Panan Krabi Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Ao Nang",
+      "description": "A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to the beach and pier for easy island trips, but set back from the main road for quieter nights. Consistently good reviews for cleanliness and service.",
+      "highlights": [
+        "Large swimming pool with sun terrace",
+        "Modern rooms with balcony and minibar",
+        "10-minute walk to Ao Nang Beach and boat pier"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Ao_Nang_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanan%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+      "category": "mid-range",
+      "priceRange": "2,500-4,500 THB/night (~$70-126 USD)",
+      "area": "Ao Nang",
+      "description": "International chain quality right on Ao Nang's main strip. Two pools (including a kids' pool), fitness center, spa, and multiple dining options. The rooms are spacious and well-appointed with IHG's usual reliability. Ideal for families and travelers who want a predictable standard near the beach.",
+      "highlights": [
+        "Two swimming pools including children's pool",
+        "IHG brand reliability and loyalty program",
+        "Beachfront location on Ao Nang main road"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "IHG",
+          "sourceUrl": "https://www.ihg.com/holidayinn/hotels/us/en/krabi/kbvao/hoteldetail",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520Resort%2520Krabi%2520Ao%2520Nang%2520Beach%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Aonang Cliff Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Ao Nang",
+      "description": "Set against the limestone cliffs at the eastern end of Ao Nang Beach with direct beach access and a dramatic cliff-backed pool. The location is prime — steps from the longtail boat pier for Railay and island tours. Rooms are comfortable with sea or cliff views. The natural cliff setting is unique among Ao Nang's hotels.",
+      "highlights": [
+        "Dramatic cliff-backed swimming pool",
+        "Direct beach access at eastern Ao Nang",
+        "Steps from longtail boat pier for island tours"
+      ],
+      "bestFor": [
+        "couples",
+        "photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAonang%2520Cliff%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is it better to stay in Krabi or Railay Beach?",
+    "Is Railay Beach worth going to?",
+    "How far is Railay Bay Resort from the beach?",
+    "Is Railay Beach swimmable?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Railay Bay Resort & Spa without knowing its boat-access-only location can lead to stressful arrivals with heavy luggage on longtail boats.",
+    "intro": "Railay Bay Resort & Spa offers solid mid-range value with direct access to both Railay West and East beaches, two pools, and a beachfront restaurant in a secluded peninsula setting. It's ideal for couples and honeymooners seeking an exclusive island-like escape without venturing far from swimming spots.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and honeymooners",
+      "standout": "access to both beaches",
+      "noGoFor": "families with young kids"
+    },
+    "whyBook": [
+      "Straddles peninsula for easy walks to Railay West swimming beach",
+      "Two pools provide relaxation away from crowded sands",
+      "Beachfront restaurant serves meals with ocean views",
+      "Boat-access creates private island-resort atmosphere",
+      "Rooms include garden-view bungalows up to beachfront cottages"
+    ],
+    "whyNotBook": [
+      "Boat-only access means no direct road entry, complicating check-in with bags",
+      "Railay East side features mangroves, not ideal for swimming or sunbathing",
+      "Shared pools can feel busy during peak hours on the small peninsula",
+      "Limited on-site dining options beyond the single beachfront restaurant",
+      "Secluded location requires boat trips for Ao Nang shopping or nightlife"
+    ],
+    "skipIf": "Skip if you need car access or are traveling with bulky gear that doesn't fit longtail boats.",
+    "detailedReview": "Checking into Railay Bay Resort & Spa feels straightforward despite the boat ride from Ao Nang—staff meet arrivals at the dock and handle luggage via carts along the short path. The resort straddles the Railay peninsula, so rooms in garden-view bungalows offer quiet greenery, while beachfront cottages provide direct steps to the sand on the West side. Expect simple, functional decor with balconies overlooking pools or paths, nothing extravagant but comfortable for mid-range stays. The two swimming pools stand out: one near the restaurant for laps, the other tucked into gardens for a more private dip, both with loungers but no frills like barside service. Food at the beachfront restaurant focuses on Thai and Western dishes using fresh local seafood, with quality that's reliable but portions on the smaller side—guests often pair meals with beach views at sunset. Service runs efficient and friendly, typical of Thai resorts, with staff quick to arrange boat transfers or snorkel gear rentals. You'll spot mostly couples and honeymooners here, drawn by the 4.0/5 TripAdvisor score for its value, chatting over drinks while avoiding the busier Ao Nang crowds. The boat-access-only vibe amps up the exclusivity, but it means planning outings carefully to return before dark.",
+    "locationReality": "Railay Bay Resort & Spa sits right on the Railay peninsula, with direct walking access to Railay West Beach (swimmable sands) in under 2 minutes and Railay East (mangrove-lined) in 5 minutes. The area is boat-only from Ao Nang, a 10-15 minute longtail ride costing 100-200 THB per person round-trip. Within a 5-minute walk, find rock-climbing spots, basic shops, and bars, but anything beyond—like Ao Nang's restaurants or Krabi Town—requires that boat transfer.",
+    "localSignals": [
+      "Direct access to Railay West Beach: 0-2 minutes walk",
+      "Boat from Ao Nang: 10-15 minutes, 100-200 THB round-trip",
+      "On-property: 2 swimming pools",
+      "On-property: 1 beachfront restaurant",
+      "Nearby: Walking street with restaurants and shops within 5 minutes"
+    ],
+    "travellerNote": "Guests often praise the easy beach access and peaceful pools but note the boat logistics add hassle for short stays or bad weather.",
+    "bookingTips": [
+      "Request beachfront cottages for direct West Beach views and privacy",
+      "Use Agoda for Thailand bookings, often 10-15% cheaper than Booking.com",
+      "Prices spike December-March high season and around Songkran in April",
+      "Verify boat transfer inclusions, as they're extra for early flights",
+      "Check for low-season deals including breakfast, not always standard"
+    ],
+    "similarHotels": [
+      {
+        "name": "Panan Krabi Resort",
+        "howDifferent": "Offers road access in central Ao Nang with a large pool, unlike Railay Bay's boat-only seclusion."
+      },
+      {
+        "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+        "howDifferent": "Provides international chain amenities like a fitness center on Ao Nang's strip, contrasting Railay Bay's peninsula isolation."
+      },
+      {
+        "name": "Aonang Cliff Beach Resort",
+        "howDifferent": "Features cliff-backed pool with direct Ao Nang Beach access, differing from Railay Bay's dual-beach peninsula setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is it better to stay in Krabi or Railay Beach?",
+        "a": "Railay Beach suits those wanting seclusion and beach access without cars, while Krabi Town or Ao Nang offer more shops and easier transport—choose Railay for romance over convenience."
+      },
+      {
+        "q": "Is Railay Beach worth going to?",
+        "a": "Yes, for its dramatic cliffs, swimming on West Beach, and rock-climbing, but plan for boat access and limited evening options compared to Ao Nang."
+      },
+      {
+        "q": "How far is Railay Bay Resort from the beach?",
+        "a": "The resort has direct access, with Railay West Beach just steps away and East Beach a 5-minute walk across the peninsula."
+      },
+      {
+        "q": "Is Railay Beach swimmable?",
+        "a": "Railay West is swimmable with calm waters, but avoid East Beach due to mangroves and stronger currents—check tides for safety."
+      },
+      {
+        "q": "What is the best time to visit Railay Bay Resort?",
+        "a": "November to April for dry weather and full beach access, though December-March books fastest; avoid rainy May-October for potential boat disruptions."
+      },
+      {
+        "q": "Does Railay Bay Resort include breakfast?",
+        "a": "Breakfast is available at the beachfront restaurant but not always included in rates—confirm with your booking platform for inclusions."
+      }
+    ],
+    "urgencyLine": "Beachfront cottages at Railay Bay Resort & Spa book out 1-2 months ahead for December-March high season—check availability today.",
+    "methodology": "We rated Railay Bay Resort & Spa based on location access, amenities like pools and restaurant, value for mid-range pricing, and guest feedback from TripAdvisor's 4.0/5 score. We weighted beach proximity highest because Railay's appeal centers on its sands and seclusion. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Railay Bay Resort & Spa Review (2026)",
+    "metaDescription": "Railay Bay Resort & Spa in Krabi delivers mid-range value with dual-beach access and two pools for couples. Boat-only entry adds seclusion but complicates luggage—book now for high-season spots. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:37:25.470Z"
+}

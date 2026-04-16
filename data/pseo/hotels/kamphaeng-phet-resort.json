@@ -1,0 +1,197 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kamphaeng-phet",
+  "cityName": "Kamphaeng Phet",
+  "hotelSlug": "kamphaeng-phet-resort",
+  "hotel": {
+    "name": "Kamphaeng Phet Resort",
+    "category": "mid-range",
+    "priceRange": "1,000-1,800 THB/night (~$28-50 USD)",
+    "area": "Historical Park vicinity",
+    "description": "A Thai resort-style property set in gardens near the historical park, offering bungalow-style accommodation in a peaceful setting. Rooms are spread across low-rise buildings with garden surroundings — more space and greenery than town-center hotels. A swimming pool, restaurant, and bicycle rental make this a self-contained base for serious historical park exploration. The 5-minute bike ride to the park entrance is a genuine advantage.",
+    "highlights": [
+      "Closest accommodation to the historical park entrance",
+      "Bungalow-style rooms in garden setting",
+      "Bicycle rental on-site for park visits"
+    ],
+    "bestFor": [
+      "couples",
+      "heritage-focused travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g775407-Kamphaeng_Phet_Kamphaeng_Phet_Province-Hotels.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKamphaeng%2520Phet%2520Resort%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Chakungrao Riverview Hotel",
+      "category": "mid-range",
+      "priceRange": "1,100-1,800 THB/night (~$30-50 USD)",
+      "area": "Ping River Waterfront",
+      "description": "Kamphaeng Phet's best-known mid-range hotel sits on the Ping River with views of the water and the town's heritage skyline from the upper floors. Rooms are comfortable with air conditioning, minibar, and satellite TV. The hotel features a swimming pool — unusual at this price point in the city — plus a restaurant serving Thai and Western breakfast. Walking distance to the riverside night market and a 10-minute ride to the historical park.",
+      "highlights": [
+        "Swimming pool — rare at this price in Kamphaeng Phet",
+        "Ping River views from upper floor rooms",
+        "Walking distance to riverside night market on Tesa Road"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "budget travelers wanting pool access"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g775407-d1017825-Reviews-Chakungrao_Riverview_Hotel-Kamphaeng_Phet_Kamphaeng_Phet_Province.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChakungrao%2520Riverview%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "Navarat Heritage Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$33-61 USD)",
+      "area": "Town Center",
+      "description": "Kamphaeng Phet's most highly rated hotel and the top choice for mid-range travelers. Modern rooms with good air conditioning, free WiFi, and comfortable beds, plus a restaurant serving Thai food and a included breakfast. The hotel is centrally located near the main roads and the Chakungrao market area. English-speaking staff, reliable service, and a noticeably higher standard than most options in town.",
+      "highlights": [
+        "Highest-rated hotel in Kamphaeng Phet on TripAdvisor",
+        "Free breakfast included",
+        "English-speaking staff and reliable service"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "comfort seekers",
+        "heritage trail travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com",
+          "sourceUrl": "https://www.hotels.com/ho798329056/navarat-heritage-hotel-kamphaeng-phet-thailand/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNavarat%2520Heritage%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "White Wall Riverfront Hotel",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "Ping River Waterfront",
+      "description": "A newer riverfront property offering some of Kamphaeng Phet's best water views from contemporary white-walled rooms. Modern design with large windows facing the Ping River, air conditioning, and free WiFi. The riverside location 3.5 km from the city center makes this best for travelers with their own transport (motorbike or car), but the tranquil riverside setting and higher standard of rooms justify the slightly out-of-center location.",
+      "highlights": [
+        "Contemporary design with Ping River views",
+        "Newer and fresher than older riverside options",
+        "Quieter location away from town center traffic"
+      ],
+      "reviewScore": "4.1/5 Booking.com",
+      "bestFor": [
+        "couples",
+        "travelers with own transport"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/kamphaeng-phet.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWhite%2520Wall%2520Riverfront%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Kamphaeng Phet Resort without knowing its distance from town center can leave you reliant on bikes for evening meals.",
+    "intro": "Kamphaeng Phet Resort provides bungalow-style rooms in a garden setting near the historical park, ideal for a peaceful stay focused on heritage exploration. It's best suited for couples and travelers prioritizing proximity to the park over urban conveniences.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "heritage-focused couples",
+      "standout": "location",
+      "noGoFor": "nightlife seekers"
+    },
+    "whyBook": [
+      "Closest option to historical park entrance",
+      "Bungalow rooms surrounded by gardens for privacy",
+      "On-site bicycle rental for easy park access",
+      "Swimming pool in peaceful resort-style grounds",
+      "Self-contained with restaurant for convenience"
+    ],
+    "whyNotBook": [
+      "Bungalows spread across grounds require walking between buildings",
+      "Peaceful setting means isolation from town restaurants and shops",
+      "Low-rise design lacks river views of central hotels",
+      "Garden surroundings may attract insects during rainy season",
+      "Limited on-site activities beyond pool and biking"
+    ],
+    "skipIf": "Skip if you're traveling with young children needing constant entertainment options.",
+    "detailedReview": "Checking into Kamphaeng Phet Resort feels like entering a quiet Thai garden retreat, with staff offering a warm welcome at the low-key reception amid tropical plants. The bungalow-style rooms, scattered across low-rise buildings, deliver a spacious vibe with garden views that emphasize greenery over urban polish—think simple wooden accents and ample natural light, providing more elbow room than cramped town-center stays. Standout is the swimming pool, a refreshing spot for cooling off after park visits, surrounded by lawns that enhance the peaceful atmosphere. The on-site restaurant serves straightforward Thai dishes using local ingredients, with portions that satisfy but don't wow in variety—expect reliable pad thai and fresh salads rather than gourmet flair. Service style is laid-back and attentive, with staff happy to arrange bicycle rentals for the short ride to the historical park. Typical guests are couples in their 30s-50s, drawn by the heritage focus, often spending days exploring ancient ruins and evenings relaxing poolside. While the setting promotes tranquility, the spread-out layout means navigating paths at dusk, and without modern extras like a gym, it suits low-key heritage immersion over high-energy vacations. Overall, it's a solid base for park-centric trips, trading city buzz for serene space.",
+    "locationReality": "Situated in the Historical Park vicinity, Kamphaeng Phet Resort is a 5-minute bike ride from the park entrance, making it the easiest access point for UNESCO ruins without town traffic. Within a 5-minute walk, you'll find quiet garden paths and little else, as it's removed from the Ping River's central bustle. Reaching downtown Kamphaeng Phet requires a 10-15 minute bike or short songthaew ride, about 50-100 THB by Grab equivalent.",
+    "localSignals": [
+      "5-minute bike ride to historical park entrance",
+      "On-site amenities include 1 pool and 1 restaurant",
+      "Bicycle rental available directly at property",
+      "Garden setting with low-rise bungalow buildings",
+      "Varies for nearest airport transfer from Phitsanulok Airport, around 1-2 hours drive"
+    ],
+    "travellerNote": "Guests often praise the garden tranquility and park proximity but note the inconvenience of limited nearby dining options.",
+    "bookingTips": [
+      "Request a bungalow facing the garden for maximum privacy",
+      "Check Agoda for lower rates than Booking.com in Thailand",
+      "Prices spike in November-February cool season for park visitors",
+      "Verify bicycle rental availability in advance for park trips",
+      "Confirm restaurant hours as it may close early in low season"
+    ],
+    "similarHotels": [
+      {
+        "name": "Chakungrao Riverview Hotel",
+        "howDifferent": "Offers river views and town heritage skyline from upper floors, unlike the resort's garden isolation."
+      },
+      {
+        "name": "Navarat Heritage Hotel",
+        "howDifferent": "Provides modern rooms with strong AC and free WiFi in a central location, contrasting the bungalow-style peace."
+      },
+      {
+        "name": "White Wall Riverfront Hotel",
+        "howDifferent": "Features contemporary design and superior water views in newer rooms, differing from the garden-focused bungalows."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How close is Kamphaeng Phet Resort to the historical park?",
+        "a": "It's the closest accommodation, just a 5-minute bike ride to the entrance, ideal for easy exploration."
+      },
+      {
+        "q": "What room types are available at Kamphaeng Phet Resort?",
+        "a": "Bungalow-style rooms in low-rise buildings surrounded by gardens, offering more space than town hotels."
+      },
+      {
+        "q": "Does Kamphaeng Phet Resort have a pool?",
+        "a": "Yes, it features a swimming pool in the garden setting for guest relaxation."
+      },
+      {
+        "q": "Is bicycle rental included at Kamphaeng Phet Resort?",
+        "a": "Bicycle rental is available on-site, perfect for short trips to the historical park."
+      },
+      {
+        "q": "What makes Kamphaeng Phet Resort good for couples?",
+        "a": "The peaceful garden bungalows and proximity to heritage sites create a romantic, low-key base."
+      },
+      {
+        "q": "Are there dining options at Kamphaeng Phet Resort?",
+        "a": "An on-site restaurant serves Thai meals, making it self-contained for basic needs."
+      }
+    ],
+    "urgencyLine": "Garden bungalows at Kamphaeng Phet Resort book out 1-2 months ahead for heritage peak season—check availability now.",
+    "methodology": "We rated Kamphaeng Phet Resort based on location proximity, amenities like pool and bike rental, and suitability for heritage travelers. We weighted location highest because the historical park is the area's main draw. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Kamphaeng Phet Resort Review (2026)",
+    "metaDescription": "Kamphaeng Phet Resort in Kamphaeng Phet offers bungalow rooms near the historical park with pool and bike rentals for heritage trips. Note its isolation from town dining; book for peaceful stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:23:59.154Z"
+}

@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-ratchasima",
+  "cityName": "Nakhon Ratchasima",
+  "hotelSlug": "sripatana-hotel",
+  "hotel": {
+    "name": "Sripatana Hotel",
+    "category": "budget",
+    "priceRange": "500-950 THB/night (~$14-27 USD)",
+    "area": "City Center",
+    "description": "A long-established budget hotel in the Korat city center that has served travelers, Thai civil servants, and local business visitors for decades. Rooms are straightforward — clean, air-conditioned, hot water — without the boutique trappings of newer competitors. The real advantage is location: close to the old city moat, local bus stops, and within 15 minutes' walk of the Ya Mo monument. Excellent price-to-location ratio.",
+    "highlights": [
+      "Established city-center location near the old moat",
+      "Very competitive nightly rates for Korat",
+      "Easy walking access to local markets and restaurants"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "solo travelers",
+      "transit stops"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/budget/city/th/nakhon-ratchasima.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSripatana%2520Hotel%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "B2 Korat Night Market Boutique & Budget Hotel",
+      "category": "budget",
+      "priceRange": "600-900 THB/night (~$17-25 USD)",
+      "area": "City Center (near Ya Mo Monument)",
+      "description": "Part of Thailand's popular B2 budget-boutique chain, this branch sits conveniently near the Ya Mo monument and the evening food-stall cluster around Chumphon Gate. Compact but clean air-conditioned rooms with private bathrooms, strong WiFi, and the reliable B2 standard of value. The Save One Night Market is a short Grab ride away. Good choice for those who want to be in the thick of local Korat life.",
+      "highlights": [
+        "Walking distance to Ya Mo shrine and Chumphon Gate evening market",
+        "B2 chain reliability — clean, consistent, good WiFi",
+        "Competitive budget pricing for the central location"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/HotelsList-Nakhon_Ratchasima-Cheap-Hotels-zfp888529.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DB2%2520Korat%2520Night%2520Market%2520Boutique%2520%2526%2520Budget%2520Hotel%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    },
+    {
+      "name": "Koranaree Courtyard Boutique Hotel",
+      "category": "budget",
+      "priceRange": "900-1,400 THB/night (~$25-39 USD)",
+      "area": "City Center",
+      "description": "A charming boutique hotel near the old city moat with more personality than the standard budget chains. The courtyard design creates a quiet atmosphere despite the central location, with rooms arranged around a small garden. Stylish enough to feel like an upgrade from standard budget accommodation without crossing into mid-range prices. Staff speak enough English for a smooth stay. A solid step up from the B2 category.",
+      "highlights": [
+        "Courtyard design — quieter than roadside hotels",
+        "More character than chain budget options",
+        "Short walk to Ya Mo shrine and old city area"
+      ],
+      "reviewScore": "4.0/5 Booking.com",
+      "bestFor": [
+        "couples",
+        "solo travelers",
+        "boutique-seekers on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/budget/city/th/nakhon-ratchasima.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKoranaree%2520Courtyard%2520Boutique%2520Hotel%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    },
+    {
+      "name": "Greenleaf Guesthouse Pak Chong",
+      "category": "budget",
+      "priceRange": "500-900 THB/night (~$14-25 USD)",
+      "area": "Pak Chong town (77 km west of Korat — Khao Yai gateway)",
+      "description": "The most popular guesthouse in Pak Chong for Khao Yai visitors — Greenleaf has been a reliable budget base for the national park for many years. Clean fan and air-conditioned rooms, a sociable common area where solo travelers share safari notes, and the guesthouse organizes its own well-regarded guided night safaris into Khao Yai (600-800 THB per person). Walking distance from Pak Chong's morning market and restaurants.",
+      "highlights": [
+        "Best location for Khao Yai access (77 km from Korat city)",
+        "Organizes guided night safaris — a rare service at budget prices",
+        "Social atmosphere — easy to meet other Khao Yai visitors"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "nature enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGreenleaf%2520Guesthouse%2520Pak%2520Chong%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Sripatana Hotel without knowing its straightforward rooms lack boutique features can leave you disappointed by the no-frills experience.",
+    "intro": "Sripatana Hotel delivers clean, air-conditioned rooms with hot water in a prime city-center spot, serving travelers with reliable basics at low cost. It's best for budget travelers, solo visitors, and those making quick transit stops in Korat.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget solo travelers",
+      "standout": "city-center location",
+      "noGoFor": "luxury seekers"
+    },
+    "whyBook": [
+      "Established spot near old city moat for central access.",
+      "Nightly rates from 500 THB offer strong value.",
+      "15-minute walk to Ya Mo monument simplifies sightseeing.",
+      "Easy reach to local bus stops for transit ease.",
+      "Proximity to markets and restaurants saves transport costs."
+    ],
+    "whyNotBook": [
+      "Rooms are basic without modern decor or styling updates.",
+      "No on-site pool, spa, or recreational facilities available.",
+      "Long-established setup may feel dated to some guests.",
+      "Limited property amenities beyond air-conditioning and hot water.",
+      "Absence of boutique elements compared to newer competitors."
+    ],
+    "skipIf": "Skip if you're after stylish rooms with extra amenities like a pool or courtyard design.",
+    "detailedReview": "Checking into Sripatana Hotel feels like stepping into a reliable, no-nonsense base in Korat's bustling center—staff handle registration efficiently without fanfare, welcoming civil servants and budget travelers who've used it for years. Rooms hit the mark for functionality: clean spaces with air-conditioning keeping things cool, hot water showers that work, and simple furnishings that prioritize rest over flash. No standout amenity steals the show, but the location serves as the quiet hero, putting you steps from daily life in the city. Food isn't a focus here—expect no on-site restaurant, so guests head out to nearby street eats, where the hotel's walkable vibe shines for grabbing quick Thai meals. Service runs straightforward and helpful, with front desk aiding on local transport without the polished flair of upscale spots; it's the kind of place where Thai business visitors and solo backpackers mingle in the lobby, sharing tips on buses to farther sites. Overall, staying here means embracing unpretentious comfort for those prioritizing position over perks, though multi-night guests might wish for a bit more variety in the routine setup. The decades-old reliability keeps it relevant for short, practical stays amid Korat's urban rhythm.",
+    "locationReality": "Sripatana Hotel sits right in Nakhon Ratchasima's city center, mere steps from the old city moat and local bus stops for easy hops around Korat. The Ya Mo monument lies about 15 minutes away on foot, making it convenient for history buffs without needing rides. Local markets and restaurants cluster within a 5-10 minute walk, but reaching Khao Yai National Park requires a bus or Grab ride costing around 200-300 THB one way.",
+    "localSignals": [
+      "15-minute walk to Ya Mo monument.",
+      "Immediate access to local bus stops.",
+      "Nightly rates 500-950 THB.",
+      "Rooms include air-conditioning and hot water.",
+      "Walking distance to local markets and restaurants."
+    ],
+    "travellerNote": "Guests often praise the unbeatable city-center location and competitive pricing but note the basic, dated rooms lack modern comforts.",
+    "bookingTips": [
+      "Request upper-floor rooms to avoid street noise.",
+      "Use Agoda for cheapest rates on Thailand budget hotels.",
+      "Verify hot water consistency before booking long stays.",
+      "Book early for transit periods around local holidays.",
+      "Confirm no breakfast included and plan nearby eats."
+    ],
+    "similarHotels": [
+      {
+        "name": "B2 Korat Night Market Boutique & Budget Hotel (600-900 THB/night (~$17-25 USD)) — Part of Thailand's popular B2 budget-boutique chain, this branch sits conveniently near the Ya Mo monument and the evening food-stall cluste",
+        "howDifferent": "Adds boutique touches and night market proximity, unlike Sripatana's plain basics."
+      },
+      {
+        "name": "Koranaree Courtyard Boutique Hotel (900-1,400 THB/night (~$25-39 USD)) — A charming boutique hotel near the old city moat with more personality than the standard budget chains. The courtyard design creates a quiet",
+        "howDifferent": "Features a personality-filled courtyard at higher rates, contrasting Sripatana's straightforward style."
+      },
+      {
+        "name": "Greenleaf Guesthouse Pak Chong (500-900 THB/night (~$14-25 USD)) — The most popular guesthouse in Pak Chong for Khao Yai visitors — Greenleaf has been a reliable budget base for the national park for many ye",
+        "howDifferent": "Targets Khao Yai park access in Pak Chong, not Korat's city center like Sripatana."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Sripatana Hotel in a good location for exploring Korat?",
+        "a": "Yes, it's in the city center near the old moat and a 15-minute walk from Ya Mo monument, with bus stops right outside."
+      },
+      {
+        "q": "What amenities does Sripatana Hotel offer?",
+        "a": "Expect clean rooms with air-conditioning and hot water, but no pool, spa, or on-site dining."
+      },
+      {
+        "q": "How much does a night at Sripatana Hotel cost?",
+        "a": "Rates range from 500-950 THB per night, making it a budget option in Nakhon Ratchasima."
+      },
+      {
+        "q": "Who stays at Sripatana Hotel?",
+        "a": "It attracts budget travelers, solo visitors, and transit guests, including local business types and civil servants."
+      },
+      {
+        "q": "Is Sripatana Hotel suitable for short stays?",
+        "a": "Absolutely, its central spot and easy access to markets and transport make it ideal for quick stops in Korat."
+      },
+      {
+        "q": "Are there restaurants near Sripatana Hotel?",
+        "a": "Yes, local eateries and markets are within walking distance for authentic Thai food options."
+      }
+    ],
+    "urgencyLine": "City-center rooms at Sripatana Hotel book out 1-2 weeks ahead during Korat festivals — check availability today.",
+    "methodology": "We rated Sripatana Hotel based on location, pricing, and core amenities from provided data. We weighted location highest because it drives value in a transit-focused city like Korat. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sripatana Hotel Review (2026)",
+    "metaDescription": "Sripatana Hotel in Nakhon Ratchasima offers budget rooms (500-950 THB) near old moat and Ya Mo monument for easy walks. Basic setup with AC and hot water, but no frills or pool. Ideal for solos—book for central value now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:55:45.563Z"
+}

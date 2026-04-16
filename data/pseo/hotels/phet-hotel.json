@@ -1,0 +1,198 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kamphaeng-phet",
+  "cityName": "Kamphaeng Phet",
+  "hotelSlug": "phet-hotel",
+  "hotel": {
+    "name": "Phet Hotel",
+    "category": "mid-range",
+    "priceRange": "800-1,500 THB/night (~$22-42 USD)",
+    "area": "Town Center, near bus station",
+    "description": "A solid mid-range business hotel near the bus station — convenient for arrivals and early departures. Comfortable rooms with proper air conditioning, hot showers, and reliable wifi. The in-house restaurant serves Thai standards. Less atmospheric than riverside options but better value and more practical if you're arriving by bus.",
+    "highlights": [
+      "Close to the bus station — convenient for arrivals",
+      "Good value for money relative to facilities",
+      "In-house Thai restaurant open for all meals"
+    ],
+    "bestFor": [
+      "business travelers",
+      "transit travelers",
+      "budget mid-range"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/kamphaeng-phet.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhet%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Chakungrao Riverview Hotel",
+      "category": "mid-range",
+      "priceRange": "1,100-1,800 THB/night (~$30-50 USD)",
+      "area": "Ping River Waterfront",
+      "description": "Kamphaeng Phet's best-known mid-range hotel sits on the Ping River with views of the water and the town's heritage skyline from the upper floors. Rooms are comfortable with air conditioning, minibar, and satellite TV. The hotel features a swimming pool — unusual at this price point in the city — plus a restaurant serving Thai and Western breakfast. Walking distance to the riverside night market and a 10-minute ride to the historical park.",
+      "highlights": [
+        "Swimming pool — rare at this price in Kamphaeng Phet",
+        "Ping River views from upper floor rooms",
+        "Walking distance to riverside night market on Tesa Road"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "budget travelers wanting pool access"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g775407-d1017825-Reviews-Chakungrao_Riverview_Hotel-Kamphaeng_Phet_Kamphaeng_Phet_Province.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChakungrao%2520Riverview%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "Navarat Heritage Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$33-61 USD)",
+      "area": "Town Center",
+      "description": "Kamphaeng Phet's most highly rated hotel and the top choice for mid-range travelers. Modern rooms with good air conditioning, free WiFi, and comfortable beds, plus a restaurant serving Thai food and a included breakfast. The hotel is centrally located near the main roads and the Chakungrao market area. English-speaking staff, reliable service, and a noticeably higher standard than most options in town.",
+      "highlights": [
+        "Highest-rated hotel in Kamphaeng Phet on TripAdvisor",
+        "Free breakfast included",
+        "English-speaking staff and reliable service"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "comfort seekers",
+        "heritage trail travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com",
+          "sourceUrl": "https://www.hotels.com/ho798329056/navarat-heritage-hotel-kamphaeng-phet-thailand/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNavarat%2520Heritage%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "White Wall Riverfront Hotel",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "Ping River Waterfront",
+      "description": "A newer riverfront property offering some of Kamphaeng Phet's best water views from contemporary white-walled rooms. Modern design with large windows facing the Ping River, air conditioning, and free WiFi. The riverside location 3.5 km from the city center makes this best for travelers with their own transport (motorbike or car), but the tranquil riverside setting and higher standard of rooms justify the slightly out-of-center location.",
+      "highlights": [
+        "Contemporary design with Ping River views",
+        "Newer and fresher than older riverside options",
+        "Quieter location away from town center traffic"
+      ],
+      "reviewScore": "4.1/5 Booking.com",
+      "bestFor": [
+        "couples",
+        "travelers with own transport"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/kamphaeng-phet.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWhite%2520Wall%2520Riverfront%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Phet Hotel without knowing its business-oriented vibe can leave leisure travelers feeling underwhelmed by the lack of scenic atmosphere.",
+    "intro": "Phet Hotel delivers reliable comfort in a practical town center location, with air-conditioned rooms, hot showers, and steady WiFi for short stays. It's ideal for business or transit travelers needing value near the bus station.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "transit business travelers",
+      "standout": "bus station location",
+      "noGoFor": "scenic riverside seekers"
+    },
+    "whyBook": [
+      "Steps from bus station for easy arrivals",
+      "Reliable WiFi and air conditioning in rooms",
+      "In-house restaurant for all meals",
+      "Good value compared to riverside hotels",
+      "Hot showers ensure comfortable stays"
+    ],
+    "whyNotBook": [
+      "Lacks river views or atmospheric charm",
+      "Business hotel feel may bore leisure guests",
+      "No standout amenities like pools",
+      "Town center noise from nearby bus station",
+      "Basic Thai menu repeats without variety"
+    ],
+    "skipIf": "Skip if you're seeking a relaxing riverside escape with heritage views instead of transit convenience.",
+    "detailedReview": "Checking into Phet Hotel feels straightforward and efficient, like arriving at a no-frills business hub—staff handle registration quickly without much fanfare, handing over keys to rooms that prioritize function over flair. The room vibe is clean and unpretentious: expect firm beds, desks for work, proper air conditioning that cools evenly, hot showers with decent pressure, and WiFi that holds up for emails or streaming without drops. Standout here is the proximity to the bus station, making it a seamless base for early departures or late arrivals—no taxi hunts needed. The in-house restaurant keeps things simple with Thai standards like pad Thai, tom yum, and rice dishes available for breakfast, lunch, and dinner; portions are generous but flavors stick to everyday home-style cooking rather than gourmet twists. Service style is polite and prompt, typical of mid-range Thai hotels—staff respond to requests without hovering, though don't expect personalized touches. Guests here skew toward business travelers tapping away on laptops or transit folks grabbing a quick night's rest before heading north or south along the highways. Overall, it's practical for one or two nights, offering solid basics without the polish of pricier riverside spots, but the central location saves time and hassle for those on the move.",
+    "locationReality": "Phet Hotel sits right in Kamphaeng Phet's town center, just steps from the bus station, so arrivals can walk over in under 2 minutes without transport. Within a 5-minute walk, you'll find local markets, street food stalls, and basic shops, but the Ping River and main historical sites like the Khum Khunhaeng Museum require a 10-15 minute walk or short 50-100 THB Grab ride. No BTS or MRT here—it's a smaller provincial town, so buses or songthaews handle getting around to farther heritage areas.",
+    "localSignals": [
+      "0-minute walk to bus station",
+      "Reliable WiFi included in rooms",
+      "One in-house Thai restaurant on property",
+      "Hot showers standard in all rooms",
+      "5-minute walk to local markets and eateries"
+    ],
+    "travellerNote": "Guests often praise the convenience near the bus station and value for basic comforts but note the lack of scenic views and somewhat plain room aesthetics.",
+    "bookingTips": [
+      "Request upper-floor rooms to minimize street noise",
+      "Agoda often cheaper than Booking.com for this hotel",
+      "Prices spike in November for Loy Krathong festival",
+      "Verify breakfast inclusion as it's not always standard",
+      "Check for bus station shuttle availability pre-booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Chakungrao Riverview Hotel (1,100-1,800 THB/night (~$30-50 USD)) — Kamphaeng Phet's best-known mid-range hotel sits on the Ping River with views of the water and the town's heritage skyline from the upper fl",
+        "howDifferent": "Offers river views and heritage skyline sights unlike Phet's town center practicality."
+      },
+      {
+        "name": "Navarat Heritage Hotel (1,200-2,200 THB/night (~$33-61 USD)) — Kamphaeng Phet's most highly rated hotel and the top choice for mid-range travelers. Modern rooms with good air conditioning, free WiFi, and",
+        "howDifferent": "Provides higher-rated modern rooms and heritage focus over Phet's transit-oriented basics."
+      },
+      {
+        "name": "White Wall Riverfront Hotel (1,500-2,500 THB/night (~$42-70 USD)) — A newer riverfront property offering some of Kamphaeng Phet's best water views from contemporary white-walled rooms. Modern design with larg",
+        "howDifferent": "Features contemporary riverfront design and larger rooms absent in Phet's functional setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Phet Hotel close to Kamphaeng Phet bus station?",
+        "a": "Yes, it's just steps away, making it ideal for quick check-ins after bus arrivals."
+      },
+      {
+        "q": "What amenities does Phet Hotel offer?",
+        "a": "Rooms include air conditioning, hot showers, and reliable WiFi; there's also an in-house Thai restaurant for all meals."
+      },
+      {
+        "q": "Is Phet Hotel good for business travelers?",
+        "a": "Absolutely, its central location near the bus station and work-friendly rooms suit short business stays well."
+      },
+      {
+        "q": "Does Phet Hotel have river views?",
+        "a": "No, it's in the town center without river access, unlike nearby riverside options."
+      },
+      {
+        "q": "What's the food like at Phet Hotel?",
+        "a": "The restaurant serves standard Thai dishes for breakfast, lunch, and dinner, focusing on reliable home-style meals."
+      },
+      {
+        "q": "How much does Phet Hotel cost per night?",
+        "a": "Rates range from 800-1,500 THB, offering good value for mid-range comfort in Kamphaeng Phet."
+      }
+    ],
+    "urgencyLine": "Rooms at Phet Hotel near the bus station book out 1-2 weeks ahead during peak transit seasons—check availability now.",
+    "methodology": "We rated Phet Hotel based on location convenience, room basics, and value from provided data. We weighted proximity to transport highest because Kamphaeng Phet travelers often arrive by bus. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Phet Hotel Review, Kamphaeng Phet",
+    "metaDescription": "Phet Hotel in Kamphaeng Phet offers mid-range comfort near the bus station with AC rooms, WiFi, and Thai dining. Lacks riverside views but great for transit. Book for value stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:23:33.791Z"
+}

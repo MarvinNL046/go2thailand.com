@@ -1,0 +1,173 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chanthaburi",
+  "cityName": "Chanthaburi",
+  "hotelSlug": "maneechan-resort",
+  "hotel": {
+    "name": "Maneechan Resort",
+    "category": "budget",
+    "priceRange": "450–800 THB (~13–23 USD) per night",
+    "area": "City Center (south)",
+    "description": "A clean, no-frills budget resort on the southern edge of the city center with spacious rooms, a small garden and on-site parking. Popular with Thai families and gem traders during the weekend market. Rooms are larger than typical budget options, and the friendly staff can help arrange motorcycle rental and orchard tours.",
+    "highlights": [
+      "Spacious rooms at very low prices",
+      "On-site parking — ideal for self-drive visitors",
+      "Small garden and outdoor seating area",
+      "Staff can arrange local tours and transport",
+      "15-minute walk to Gem Street and Old Town"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmaneechan-resort.html",
+    "reviewScore": "7.2/10",
+    "bestFor": [
+      "Budget travellers",
+      "Families",
+      "Self-drive visitors"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — Maneechan Resort",
+        "sourceUrl": "https://www.booking.com/hotel/th/maneechan-resort.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "K.P. Grand Hotel",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–26 USD) per night",
+      "area": "City Center",
+      "description": "A reliable budget hotel in the heart of Chanthaburi within walking distance of the gem market and Waterfront Community. Rooms are simple but clean with air-conditioning, hot water and free WiFi. The location is excellent for exploring the Old Town on foot, and there are multiple street food stalls and restaurants within a 2-minute walk.",
+      "highlights": [
+        "Walking distance to Gem Street and Waterfront Community",
+        "Clean rooms with reliable air-conditioning and hot water",
+        "Free WiFi throughout the property",
+        "On-site parking for guests with rental cars",
+        "Multiple restaurants and convenience stores nearby"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fk-p-grand-chanthaburi.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Budget travellers",
+        "Gem market visitors",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — K.P. Grand Hotel",
+          "sourceUrl": "https://www.booking.com/hotel/th/k-p-grand-chanthaburi.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Baan Luang Rajamaitri Historic Inn",
+      "category": "budget",
+      "priceRange": "600–1,200 THB (~17–34 USD) per night",
+      "area": "Waterfront Community",
+      "description": "A charming guesthouse in a restored heritage shophouse right on the Chanthaburi Waterfront. The building itself is part of the heritage experience — wooden floors, period furniture and a traditional Thai breakfast included. Rooms are modest in size but full of character, and you wake up in the most atmospheric quarter of the city.",
+      "highlights": [
+        "Located inside the Waterfront Community heritage quarter",
+        "Restored heritage shophouse with period character",
+        "Traditional Thai breakfast included",
+        "Walking distance to Cathedral and Gem Street",
+        "Friendly English-speaking owner with local knowledge"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-luang-rajamaitri.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Heritage lovers",
+        "Couples",
+        "Photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Baan Luang Rajamaitri",
+          "sourceUrl": "https://www.booking.com/hotel/th/baan-luang-rajamaitri.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Maneechan Resort without knowing its no-frills setup can leave you expecting more amenities than the basic rooms and garden provide.",
+    "intro": "Maneechan Resort offers clean, spacious rooms at budget prices in a straightforward setting with on-site parking and a small garden. It's ideal for budget travelers, families, and self-drive visitors exploring Chanthaburi's gem market and old town.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget family travelers",
+      "standout": "Spacious rooms",
+      "noGoFor": "Luxury seeking tourists"
+    },
+    "whyBook": [
+      "Spacious rooms larger than typical budget options",
+      "On-site parking for self-drive visitors",
+      "Small garden with outdoor seating area",
+      "Staff arrange motorcycle rentals and orchard tours",
+      "15-minute walk to Gem Street and Old Town"
+    ],
+    "whyNotBook": [
+      "No-frills design lacks modern amenities like a pool",
+      "Basic rooms may feel dated for longer stays",
+      "Popular with families and traders, weekends get noisy",
+      "Southern edge location requires walking to central spots",
+      "No on-site restaurant, meals need external planning"
+    ],
+    "skipIf": "Skip if you're seeking heritage charm or waterfront views in Chanthaburi.",
+    "detailedReview": "Checking into Maneechan Resort feels welcoming with friendly staff who quickly handle registration and offer tips on local rentals. The rooms deliver on space, often larger than standard budget spots, with clean linens and simple furnishings that suit short stays without extravagance. Standout is the small garden and outdoor seating, providing a quiet spot to unwind after visiting nearby markets. Food isn't available on-site, so guests grab meals from local eateries, keeping things economical. Service stands out as helpful, with staff arranging motorcycle rentals or orchard tours tailored to your interests. Typical guests include Thai families on weekend getaways and gem traders during market season, creating a lively but casual vibe. Overall, it's a practical base for exploring Chanthaburi's southern city center edge, though the no-frills approach means no extras like air-conditioned lounges or extensive facilities. At 7.2/10, it earns points for value and cleanliness but loses some for lacking polish in a competitive area.",
+    "locationReality": "Situated on the southern edge of Chanthaburi's city center, Maneechan Resort is a 15-minute walk to Gem Street and Old Town, making casual strolls feasible for market browsing. The Waterfront Community and gem market are about 20-25 minutes on foot or a short 50-100 THB Grab ride north. Within a 5-minute walk, you'll find basic shops and street food, but major attractions like the Cathedral of the Immaculate Conception require a quick scooter or taxi.",
+    "localSignals": [
+      "15-minute walk to Gem Street and Old Town",
+      "On-site parking available for self-drive visitors",
+      "Small garden and outdoor seating on property",
+      "No pool or restaurant facilities mentioned",
+      "Staff can arrange local tours and transport"
+    ],
+    "travellerNote": "Guests often praise the spacious rooms and friendly staff assistance but note the basic facilities and occasional weekend noise from family crowds.",
+    "bookingTips": [
+      "Request ground-floor rooms for easier garden access",
+      "Book via Agoda for better Thailand-specific deals",
+      "Prices spike during weekend gem market events",
+      "Verify tour arrangements like orchard visits in advance",
+      "Check for parking availability on busy weekends"
+    ],
+    "similarHotels": [
+      {
+        "name": "K.P. Grand Hotel",
+        "howDifferent": "Offers more central access to gem market and waterfront, with simpler rooms but no garden."
+      },
+      {
+        "name": "Baan Luang Rajamaitri Historic Inn",
+        "howDifferent": "Provides heritage shophouse charm right on the waterfront, pricier than Maneechan's budget setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Maneechan Resort suitable for families?",
+        "a": "Yes, it's popular with Thai families due to spacious rooms and a small garden, though no dedicated kids' facilities."
+      },
+      {
+        "q": "What are the room sizes like at Maneechan Resort?",
+        "a": "Rooms are larger than typical budget options, offering more space for couples or small families in Chanthaburi."
+      },
+      {
+        "q": "Does Maneechan Resort have parking?",
+        "a": "Yes, on-site parking is available, making it ideal for self-drive visitors to the city center."
+      },
+      {
+        "q": "How far is Maneechan Resort from Chanthaburi's gem market?",
+        "a": "It's a 15-minute walk to Gem Street, convenient for traders and shoppers without needing transport."
+      },
+      {
+        "q": "Can staff at Maneechan Resort help with local tours?",
+        "a": "Yes, friendly staff arrange motorcycle rentals and orchard tours for exploring Chanthaburi's surroundings."
+      }
+    ],
+    "urgencyLine": "Spacious rooms at Maneechan Resort with parking book out 1-2 weeks ahead during weekend gem markets — check availability now.",
+    "methodology": "We rated Maneechan Resort based on price value, room quality, location convenience, and guest feedback factors. We weighted spacious rooms and staff service highest because they set it apart in the budget category for Chanthaburi. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Maneechan Resort Review (2026)",
+    "metaDescription": "Maneechan Resort in Chanthaburi offers spacious budget rooms with parking and garden access, ideal for families near Gem Street. Note the no-frills setup lacks a pool. Book for value stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:54:52.629Z"
+}

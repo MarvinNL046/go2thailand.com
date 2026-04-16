@@ -1,0 +1,287 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "category": "budget",
+  "hotels": [
+    {
+      "name": "NapPark Hostel @ Khao San",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per bed/night",
+      "area": "Khao San / Banglamphu",
+      "description": "A well-run, modern hostel on the doorstep of Khao San Road that stands out for its design-forward pod beds with individual privacy curtains, personal lighting and USB charging. Common areas are social without being chaotic, and the location puts you 10 minutes walk from the Grand Palace.",
+      "highlights": [
+        "Pod-style beds with privacy curtains and individual power points",
+        "Located 2 minutes walk from Khao San Road",
+        "Clean, modern bathrooms with reliable hot water",
+        "24-hour reception and luggage storage",
+        "Strong WiFi throughout"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnappark-hostel-khao-san.html",
+      "reviewScore": "8.2/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Party seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "NapPark Official Site",
+          "sourceUrl": "https://www.nappark.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Lub d Bangkok Siam",
+      "category": "budget",
+      "priceRange": "400–900 THB (~11–26 USD) dorm; 1,100–1,500 THB private",
+      "area": "Siam / Pathum Wan",
+      "description": "Lub d (pronounced 'lup dee' — Thai for 'sleep well') is a design-conscious hostel brand with a social lounge, co-working space and lively bar. The Siam branch sits above MBK Shopping Centre within walking distance of BTS National Stadium and Siam Square. Popular with digital nomads and sociable solo travellers.",
+      "highlights": [
+        "Central location 1 minute from BTS National Stadium",
+        "Social bar and lounge area with regular events",
+        "Both dorms and private rooms available",
+        "Co-working space with fast WiFi",
+        "Rooftop terrace with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Flub-d-bangkok-siam.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo travellers",
+        "Digital nomads",
+        "Social backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lub d Official",
+          "sourceUrl": "https://www.lubd.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "ibis Bangkok Siam",
+      "category": "budget",
+      "priceRange": "1,200–1,800 THB (~34–51 USD) per night",
+      "area": "Siam / Pathum Wan",
+      "description": "ibis Bangkok Siam is the benchmark budget hotel in central Bangkok — reliable, clean and strategically located next to National Stadium BTS Skytrain Station. Rooms are compact but well-designed with comfortable beds, blackout curtains and strong air-conditioning. Perfect for travellers who want a private room without paying mid-range prices.",
+      "highlights": [
+        "Right next to National Stadium BTS station",
+        "Private en-suite rooms with reliable A/C and WiFi",
+        "On-site restaurant serving Thai and international breakfast from 150 THB",
+        "24-hour front desk",
+        "5-minute walk to MBK Shopping Centre and Siam Square"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fibis-bangkok-siam.html",
+      "reviewScore": "8.1/10",
+      "bestFor": [
+        "Budget solo travellers",
+        "Couples on a budget",
+        "Business travellers watching costs"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — ibis Bangkok Siam",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293916-d3529175-Reviews-Ibis_Bangkok_Siam-Bangkok.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Baan Dinso @ Ratanakosin",
+      "category": "budget",
+      "priceRange": "900–1,400 THB (~26–40 USD) per night",
+      "area": "Old City / Rattanakosin",
+      "description": "A characterful guesthouse in a restored shophouse in the heart of the Old City, Baan Dinso is a 5-minute walk from the Grand Palace, Wat Pho and Khao San Road. Rooms are simple but spotless with wooden floors, en-suite bathrooms and good air-conditioning. Excellent value for the unbeatable location.",
+      "highlights": [
+        "5-minute walk from Grand Palace and Wat Pho",
+        "Restored shophouse with local character",
+        "Excellent value for Old City location",
+        "Daily housekeeping and free WiFi",
+        "Helpful staff with local restaurant recommendations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-dinso-at-rattanakosin.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Temple explorers",
+        "Couples",
+        "First-time Bangkok visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Budget Your Trip — Bangkok Hotels",
+          "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where to stay in Bangkok on a budget?",
+    "Which part of Bangkok is best to stay in?",
+    "How much should I pay for a hotel in Bangkok?",
+    "Is it better to stay in Sukhumvit or Siam?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong budget hotel in Bangkok can leave you in a noisy, rundown spot far from the action — many 'budget' hotels skimp on cleanliness and location to cut costs.",
+    "intro": "The single biggest mistake travellers make when booking budget hotels in Bangkok is prioritizing the lowest price over central access to BTS Skytrain or major sights, leading to wasted time and money on taxis. We ranked these options based on value for money, proximity to transport and attractions, cleanliness from guest feedback, and social or quiet vibes suited to budget stays.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "ibis Bangkok Siam",
+        "why": "Reliable, clean, central location"
+      },
+      {
+        "label": "Best value",
+        "name": "NapPark Hostel @ Khao San",
+        "why": "Cheapest pods with privacy"
+      },
+      {
+        "label": "Best for solo travelers",
+        "name": "Lub d Bangkok Siam",
+        "why": "Social lounge and bar"
+      },
+      {
+        "label": "Best for couples",
+        "name": "Baan Dinso @ Ratanakosin",
+        "why": "Quiet, characterful guesthouse"
+      }
+    ],
+    "urgencyLine": "Prices for budget hotels in Bangkok can surge 50-100% during Songkran (April) or high season (Nov-Feb) — book 2-3 months ahead for deals.",
+    "comparisonTable": [
+      {
+        "name": "NapPark Hostel @ Khao San",
+        "area": "Khao San / Banglamphu",
+        "priceBand": "€",
+        "bestFor": "Solo backpackers partying",
+        "standout": "design-forward pod beds",
+        "drawback": "Party area noise"
+      },
+      {
+        "name": "Lub d Bangkok Siam",
+        "area": "Siam / Pathum Wan",
+        "priceBand": "€",
+        "bestFor": "Social digital nomads",
+        "standout": "co-working space",
+        "drawback": "Dorms can fill fast"
+      },
+      {
+        "name": "ibis Bangkok Siam",
+        "area": "Siam / Pathum Wan",
+        "priceBand": "€",
+        "bestFor": "Couples wanting reliability",
+        "standout": "location",
+        "drawback": "Compact rooms"
+      },
+      {
+        "name": "Baan Dinso @ Ratanakosin",
+        "area": "Old City / Rattanakosin",
+        "priceBand": "€",
+        "bestFor": "History-seeking couples",
+        "standout": "proximity to Grand Palace",
+        "drawback": "Limited amenities"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the cheapest central crash with privacy, choose NapPark Hostel @ Khao San.",
+      "If you're a solo traveler seeking social vibes near shopping, choose Lub d Bangkok Siam.",
+      "If reliability and Skytrain access matter most on budget, choose ibis Bangkok Siam.",
+      "If you prefer quiet Old City charm near temples, choose Baan Dinso @ Ratanakosin.",
+      "If partying on Khao San is your plan but with modern pods, choose NapPark Hostel @ Khao San.",
+      "If you need a mix of dorm and private near BTS, choose Lub d Bangkok Siam."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "ibis Bangkok Siam",
+        "why": "As the benchmark for budget stays, it offers consistent cleanliness and unbeatable Skytrain access that beats hostels' chaos for travellers needing reliability without hassle. This edges out Lub d for those prioritizing comfort over socializing.",
+        "drawback": "Rooms are compact, which may feel tight for longer stays.",
+        "skipIf": "Skip if you crave a party atmosphere or ultra-cheap dorms under 10 USD.",
+        "localSignals": [
+          "Next to National Stadium BTS, 1-minute walk",
+          "No free airport transfer, 45-60 min taxi to Suvarnabhumi",
+          "Compact rooms with comfortable beds"
+        ],
+        "travellerNote": "Guests often praise the spotless rooms and prime location but note the small size and lack of views."
+      },
+      {
+        "rank": 2,
+        "name": "Lub d Bangkok Siam",
+        "why": "Its design-savvy spaces and social perks like the bar provide better value than basic guesthouses for nomads, though it trails ibis in private room comfort. Ideal for those balancing budget with community over NapPark's basic setup.",
+        "drawback": "Dorms get noisy during peak evenings from the lively bar.",
+        "skipIf": "Skip if you want total quiet or no shared facilities.",
+        "localSignals": [
+          "Above MBK Shopping Centre, walking distance to BTS",
+          "No free airport transfer, 40-50 min taxi ride",
+          "Dorms and private rooms available"
+        ],
+        "travellerNote": "Guests often praise the vibrant lounge and cleanliness but note occasional crowds in common areas."
+      },
+      {
+        "rank": 3,
+        "name": "NapPark Hostel @ Khao San",
+        "why": "The pod beds deliver privacy at rock-bottom prices that outvalue pricier options like Baan Dinso for backpackers, but it loses to ibis for overall polish. Great for short, social stays versus Lub d's more central shopping access.",
+        "drawback": "Common areas can feel chaotic during Khao San nightlife peaks.",
+        "skipIf": "Skip if you dislike hostels or need private hotel-like quiet.",
+        "localSignals": [
+          "On doorstep of Khao San Road, 1-minute walk",
+          "No free airport transfer, 50-70 min taxi to Suvarnabhumi",
+          "Pod beds with privacy curtains"
+        ],
+        "travellerNote": "Guests often praise the modern design and value but note noise from nearby street parties."
+      }
+    ],
+    "topPick": "ibis Bangkok Siam",
+    "topPickReason": "It combines reliability, cleanliness, and central Skytrain location for the best budget balance without hostel drawbacks.",
+    "bookingTips": [
+      "Book 2-3 months in advance for high season (Nov-Feb) to snag rates under 1,500 THB.",
+      "Agoda often has cheaper deals than Booking.com for Bangkok budget spots — compare both.",
+      "Avoid Songkran (mid-April) or Chinese New Year (Jan/Feb) when prices spike 50%+.",
+      "Watch for red flags like no recent reviews or discounts over 40% that signal scams.",
+      "Opt for higher-floor rooms in Siam hotels to minimize street noise trade-off.",
+      "Prioritize BTS-adjacent spots over Khao San if traffic frustrates you on tight budgets."
+    ],
+    "methodology": "We compared budget hotels in Bangkok based on guest reviews, location quality, value at this price band, and what budget travellers typically prioritise like transport access and cleanliness. We weighted location highest because Bangkok's traffic makes central spots save time and money over cheap outliers. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/bangkok/",
+      "/where-to-stay/bangkok/",
+      "/city/bangkok/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check budget hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View ibis Bangkok Siam'"
+    ],
+    "faq": [
+      {
+        "q": "Where to stay in Bangkok on a budget?",
+        "a": "Stick to Siam or Khao San for easy BTS access and sights; ibis Bangkok Siam offers the best reliable base under 1,800 THB."
+      },
+      {
+        "q": "Which part of Bangkok is best to stay in?",
+        "a": "Siam beats Sukhumvit for budget travellers due to shopping and Skytrain proximity; try Lub d Bangkok Siam for social vibes."
+      },
+      {
+        "q": "How much should I pay for a hotel in Bangkok?",
+        "a": "Aim for 300-1,800 THB nightly for clean budget options; NapPark Hostel @ Khao San delivers at the low end with pods."
+      },
+      {
+        "q": "Is it better to stay in Sukhumvit or Siam?",
+        "a": "Siam is superior for budget stays with direct BTS to sights versus Sukhumvit's pricier expat feel; choose ibis Bangkok Siam."
+      },
+      {
+        "q": "Are hostels safe in Bangkok?",
+        "a": "Yes, modern ones like Lub d Bangkok Siam are secure with lockers; opt for those with good reviews near transport."
+      },
+      {
+        "q": "What to avoid in budget Bangkok hotels?",
+        "a": "Skip places without en-suites or far from BTS; Baan Dinso @ Ratanakosin avoids this with Old City charm."
+      }
+    ],
+    "metaTitle": "Best Budget Hotels in Bangkok (2026)",
+    "metaDescription": "Discover top budget hotels in Bangkok under €40/night, from clean Siam spots to Khao San hostels with easy BTS access. Compare picks and see rates for…"
+  },
+  "lastUpdated": "2026-03-13",
+  "generatedAt": "2026-04-15T15:30:30.419Z"
+}

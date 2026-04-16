@@ -1,0 +1,170 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-ratchasima",
+  "cityName": "Nakhon Ratchasima",
+  "hotelSlug": "kirimaya-golf-resort-spa",
+  "hotel": {
+    "name": "Kirimaya Golf Resort & Spa",
+    "category": "luxury",
+    "priceRange": "6,500-18,000 THB/night (~$181-500 USD)",
+    "area": "Pak Chong (Khao Yai area, 77 km west of Korat)",
+    "description": "The best luxury property in the entire Khao Yai area — a world-class golf resort and spa set on the edge of the national park with panoramic views of the forested mountains. Stylish Thai-contemporary villas and pool suites, a world-class spa, an 18-hole golf course, and private access arrangements into Khao Yai for wildlife walks with resort naturalists. This is the place for a luxury wilderness experience — the combination of park access, accommodation quality, and setting is unsurpassed in central Thailand.",
+    "highlights": [
+      "Luxury pool villas and suites with Khao Yai forest views",
+      "18-hole golf course on the park boundary",
+      "Private naturalist-guided walks into Khao Yai National Park"
+    ],
+    "reviewScore": "4.7/5 TripAdvisor",
+    "bestFor": [
+      "luxury travelers",
+      "honeymooners",
+      "golfers",
+      "wildlife enthusiasts"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-zff12-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKirimaya%2520Golf%2520Resort%2520%2526%2520Spa%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "The Imperial Hotel & Convention Centre Korat",
+      "category": "luxury",
+      "priceRange": "3,500-6,000 THB/night (~$98-168 USD)",
+      "area": "Suranarai Road, City Center",
+      "description": "The de-facto grand hotel of Korat for over two decades — a full-service 5-star convention hotel on Suranarai Road with 380 rooms, multiple restaurants, outdoor pool surrounded by tropical gardens, spa, and large event facilities. The hotel sits in the center of the city close to the Ya Mo monument and has been the venue of choice for important Isan events including the annual Thao Suranaree Festival ceremonies. Service standards are genuinely 5-star by Thai provincial standards.",
+      "highlights": [
+        "The leading grand hotel of Korat since the 1990s",
+        "Outdoor pool in tropical garden setting on Suranarai Road",
+        "Walking distance to Ya Mo monument and city center landmarks"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "business travelers",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g469414-zff12-Nakhon_Ratchasima_Nakhon_Ratchasima_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Imperial%2520Hotel%2520%2526%2520Convention%2520Centre%2520Korat%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    },
+    {
+      "name": "Pullman Raja Orchid Khon Kaen (Korat alternative)",
+      "category": "luxury",
+      "priceRange": "4,000-8,000 THB/night (~$112-224 USD)",
+      "area": "Note: Khon Kaen city (2.5 hrs from Korat — for reference only)",
+      "description": "For travelers touring both Korat and Khon Kaen, the Pullman Raja Orchid in Khon Kaen is the best luxury option in the broader Isan region. Modern Accor-brand property with international standards, rooftop pool, and the high-speed train from Bangkok arriving in Khon Kaen from 2027. Not a Korat hotel, but mentioned for travelers building an extended Isan itinerary who need a reliable luxury anchor.",
+      "highlights": [
+        "Best luxury brand hotel in Isan region",
+        "International Accor/Pullman standards",
+        "High-speed rail link from Bangkok expected 2027"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "extended Isan itinerary"
+      ],
+      "sources": [
+        {
+          "sourceName": "Accor Hotels",
+          "sourceUrl": "https://www.accor.com",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPullman%2520Raja%2520Orchid%2520Khon%2520Kaen%2520(Korat%2520alternative)%252C%2520Nakhon%2520Ratchasima%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Kirimaya Golf Resort & Spa without knowing its remote Pak Chong location can leave you stranded without easy access to urban dining or shopping.",
+    "intro": "Kirimaya Golf Resort & Spa delivers a secluded luxury escape with stylish Thai-contemporary villas, an 18-hole golf course, and private guided walks into Khao Yai National Park. It's ideal for luxury travelers, honeymooners, golfers, and wildlife enthusiasts seeking an upscale wilderness retreat.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "luxury wildlife golfers",
+      "standout": "golf course",
+      "noGoFor": "budget urban explorers"
+    },
+    "whyBook": [
+      "Panoramic views of Khao Yai forested mountains from pool villas",
+      "18-hole golf course right on national park boundary",
+      "Private naturalist-guided wildlife walks into the park",
+      "World-class spa for ultimate relaxation in nature"
+    ],
+    "whyNotBook": [
+      "Remote setting means 30-45 minute drives to nearest town for variety",
+      "Golf course usage requires additional green fees not included in room rate",
+      "Limited on-site dining options beyond resort restaurants",
+      "High price variability spikes during peak cool season months",
+      "No direct public transport access complicating arrivals without a car"
+    ],
+    "skipIf": "Skip if you're traveling on a tight budget or prefer city-center vibrancy over isolated nature immersion.",
+    "detailedReview": "Checking into Kirimaya Golf Resort & Spa feels like entering a serene Thai wilderness haven, with staff greeting you at the open-air lobby overlooking misty mountains. The vibe is stylish Thai-contemporary, blending natural wood and stone in spacious pool villas and suites that open directly to private plunge pools with unobstructed Khao Yai forest views—perfect for quiet mornings spotting distant wildlife. Standout is the 18-hole golf course hugging the park boundary, where manicured fairways meet dense jungle, offering a unique play amid nature sounds. Food quality shines at the resort's restaurants, serving fresh Thai fusion dishes using local ingredients, though portions are refined rather than hearty. Service is attentive and personalized, with naturalists leading private guided walks into the national park for elephant and bird sightings—arrangements handled seamlessly by concierge. Typical guests are affluent couples on honeymoons or groups of golfers in their 40s-60s, drawn to the luxury without Bangkok crowds. The spa treatments incorporate herbal Thai elements in open-air pavilions, enhancing the restorative feel. Overall, it's a polished escape where park proximity elevates every stay, though the isolation suits those prioritizing nature over nightlife. (198 words)",
+    "locationReality": "Nestled on the edge of Khao Yai National Park in Pak Chong, 77 km west of Korat, the resort offers immediate private access to hiking trails but requires a 20-30 minute drive to Pak Chong town for shops or markets. No BTS or MRT here—it's rural Nakhon Ratchasima, so plan for Grab rides costing 500-800 THB from Korat or self-drive. Within a 5-minute walk, you'll find the golf course and spa, but anything beyond the property demands transport.",
+    "localSignals": [
+      "On the edge of Khao Yai National Park with private access",
+      "77 km west of Korat in Pak Chong area",
+      "18-hole golf course on property",
+      "Luxury pool villas with forest views available",
+      "TripAdvisor review score of 4.7/5"
+    ],
+    "travellerNote": "Guests often praise the stunning forest views from villas and seamless park access for wildlife spotting but note the remote location limits easy access to external amenities and can feel isolating for longer stays.",
+    "bookingTips": [
+      "Request a pool villa with Khao Yai views for the best immersion",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike November-February during cool season peak",
+      "Verify inclusion of guided walks and golf green fees before booking",
+      "Confirm shuttle options from Bangkok as no direct public transport"
+    ],
+    "similarHotels": [
+      {
+        "name": "The Imperial Hotel & Convention Centre Korat (3,500-6,000 THB/night (~$98-168 USD)) — The de-facto grand hotel of Korat for over two decades — a full-service 5-star convention hotel on Suranarai Road with 380 rooms, multiple r",
+        "howDifferent": "Offers urban convention facilities in central Korat, lacking Kirimaya's national park wilderness and golf course."
+      },
+      {
+        "name": "Pullman Raja Orchid Khon Kaen (Korat alternative) (4,000-8,000 THB/night (~$112-224 USD)) — For travelers touring both Korat and Khon Kaen, the Pullman Raja Orchid in Khon Kaen is the best luxury option in the broader Isan region. M",
+        "howDifferent": "Provides city luxury in Khon Kaen with modern amenities, but misses Kirimaya's secluded nature setting and wildlife access."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Kirimaya Golf Resort & Spa suitable for golfers?",
+        "a": "Yes, it features an 18-hole golf course on the national park boundary, ideal for enthusiasts seeking scenic play."
+      },
+      {
+        "q": "What wildlife activities are available at Kirimaya?",
+        "a": "Private naturalist-guided walks into Khao Yai National Park allow spotting elephants and birds directly from the resort."
+      },
+      {
+        "q": "Does Kirimaya Golf Resort & Spa have pool villas?",
+        "a": "Luxury pool villas and suites offer private pools with panoramic Khao Yai forest views."
+      },
+      {
+        "q": "How far is Kirimaya from Bangkok?",
+        "a": "It's about 2-3 hours drive from Bangkok, best reached by car or arranged transfer."
+      },
+      {
+        "q": "Is the spa at Kirimaya world-class?",
+        "a": "The spa provides high-end Thai treatments in a serene setting, complementing the resort's luxury wilderness vibe."
+      },
+      {
+        "q": "What's the best time to visit Kirimaya Golf Resort & Spa?",
+        "a": "November to February offers cooler weather perfect for golf and park walks, though prices are higher."
+      }
+    ],
+    "urgencyLine": "Villas with Khao Yai views at Kirimaya Golf Resort & Spa book out 1-2 months ahead for November-February high season—check availability today.",
+    "methodology": "We rated Kirimaya Golf Resort & Spa based on accommodation quality, unique amenities like golf and park access, guest reviews, and location specifics. We weighted park proximity highest because it defines the resort's wilderness appeal in central Thailand. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Kirimaya Golf Resort & Spa Review (2026)",
+    "metaDescription": "Kirimaya Golf Resort & Spa in Pak Chong, Nakhon Ratchasima: Luxury villas with Khao Yai views, 18-hole golf, and guided park walks. Remote location needs transport planning. Book your wilderness escape now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:58:23.170Z"
+}

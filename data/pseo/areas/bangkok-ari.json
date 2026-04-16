@@ -1,0 +1,130 @@
+{
+  "template": "area-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "areaSlug": "ari",
+  "areaName": "Ari",
+  "neighborhood": {
+    "name": "Ari",
+    "description": "Ari is a residential area in the Phaya Thai district, north of central Bangkok, known for its cafes, street food stalls, and proximity to Phra Ram 9. It features tree-lined streets and local markets. The neighborhood is popular among young professionals for its relaxed atmosphere.",
+    "bestFor": "families, foodies, digital nomads",
+    "priceLevel": "€–€€",
+    "highlights": [
+      "Ari Soi 1",
+      "Phra Arthit Market",
+      "Coffee Ari",
+      "BTS Ari station area",
+      "Saphan Khwai Market (nearby)"
+    ],
+    "walkingScore": "High",
+    "transportNotes": [
+      "BTS Ari station",
+      "MRT Phaya Thai nearby"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ari_(Bangkok)"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Sukhumvit",
+    "Silom & Sathorn",
+    "Khao San & Banglamphu (Old City North)",
+    "Riverside (Charoen Krung & Sathorn Pier)",
+    "Chinatown & Yaowarat"
+  ],
+  "paaQuestions": [
+    "Is Ari a nice area in Bangkok?",
+    "Which area of Bangkok is the best to stay in?",
+    "What is the Ari neighborhood in Bangkok?",
+    "What is the best time to visit Ari?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong soi in Ari can isolate you from cafes and markets — most first-timers skip the BTS Ari station area for quieter spots.",
+    "intro": "Ari stands out in Bangkok for its tree-lined residential streets dotted with local cafes and street food, offering a chilled escape north of the center. We ranked it high for walkability and affordability, ideal for those wanting everyday neighborhood life over tourist crowds.",
+    "vibe": "Relaxed + residential",
+    "quickStats": {
+      "priceBand": "€–€€",
+      "walkability": "High",
+      "bestFor": "families, foodies, digital nomads",
+      "safetyNote": "Safe residential zone, standard bag awareness in markets."
+    },
+    "detailedDescription": "In Ari, travelers wake to the hum of young professionals heading to co-working spots or the BTS, with tree-shaded sidewalks leading to pocket-sized cafes like Coffee Ari serving flat whites amid potted plants. Days unfold at local markets such as Phra Arthit, where stalls hawk fresh papaya salad and mango sticky rice, blending into the rhythm of families pushing strollers past parked scooters. The area feels like a suburban pocket in the city, with low-rise apartments housing expats and locals who chat over iced teas at street-side tables. Evenings bring a gentle shift: street food carts fire up along Ari Soi 1, offering grilled squid and som tam without the overwhelming crowds of central Bangkok, while noise stays minimal thanks to the residential layout—occasional motorbike revs fade by 10pm. Foodies thrive here, hopping between hidden noodle shops and dessert vendors, all within a 10-minute stroll. Getting around is straightforward via BTS Ari station, connecting you south to Phra Ram 9 in 15 minutes or north to Chatuchak, though some sois narrow, making wheeled luggage a minor hassle. Digital nomads settle into cafes with reliable Wi-Fi, balancing work with market browses, while families appreciate the calm parks and easy access to kid-friendly eats. Overall, Ari delivers unpretentious daily Bangkok life, far from the high-rises but close enough for day trips.",
+    "localSignals": [
+      "BTS Ari station, 2-5 minutes walk from central sois",
+      "Grab from Suvarnabhumi Airport, 350-450 THB, 45-60 minutes",
+      "Ari Soi 1 highlight, 3-7 minutes walk from station area",
+      "Quiet noise level at night in residential zones",
+      "7-Eleven and pharmacy clusters every 200-300 meters along main roads"
+    ],
+    "pros": [
+      "Abundant walkable cafes and markets",
+      "Relaxed vibe for families and nomads",
+      "Quick BTS access to central Bangkok",
+      "Affordable street food options",
+      "Tree-lined streets for easy strolling"
+    ],
+    "cons": [
+      "Limited direct nightlife beyond street stalls",
+      "20-30 minute BTS ride to major sights",
+      "Some sois too narrow for large groups",
+      "Fewer upscale dining choices",
+      "Peak hour BTS crowds from commuters"
+    ],
+    "skipIf": "Skip if you're chasing high-energy nightlife or proximity to grand palaces.",
+    "compareTo": [
+      {
+        "areaName": "Sukhumvit",
+        "shortPitch": "Sukhumvit buzzes with malls and expat bars, contrasting Ari's quiet residential feel.",
+        "recommendFor": "shoppers, party seekers"
+      },
+      {
+        "areaName": "Silom & Sathorn",
+        "shortPitch": "Silom & Sathorn offer business district energy and skyline views, less laid-back than Ari.",
+        "recommendFor": "corporate travelers, skyline lovers"
+      },
+      {
+        "areaName": "Khao San & Banglamphu (Old City North)",
+        "shortPitch": "Khao San pulses with backpacker chaos and temples, far noisier than Ari's calm streets.",
+        "recommendFor": "budget backpackers, history buffs"
+      }
+    ],
+    "travellerNote": "Travellers often praise Ari's easygoing cafes and family-friendly markets but note the extra travel time to iconic attractions like the Grand Palace.",
+    "faq": [
+      {
+        "q": "Is Ari a nice area in Bangkok?",
+        "a": "Yes, Ari offers a pleasant residential escape with tree-lined streets, cafes, and markets, perfect for a relaxed stay. We recommend it for foodies seeking authentic local eats near BTS Ari."
+      },
+      {
+        "q": "Which area of Bangkok is the best to stay in?",
+        "a": "The best depends on your vibe—Ari suits families and nomads for its walkability and calm, while Sukhumvit fits shoppers. For Ari specifically, base near the station for convenience."
+      },
+      {
+        "q": "What is the Ari neighborhood in Bangkok?",
+        "a": "Ari is a Phaya Thai district residential spot north of central Bangkok, famed for cafes, street food, and local markets like Phra Arthit. It's popular with young professionals for its chilled atmosphere."
+      },
+      {
+        "q": "What is the best time to visit Ari?",
+        "a": "November to February brings cooler weather ideal for strolling Ari's streets and markets. Avoid March-May heat if walking to cafes and BTS is key."
+      },
+      {
+        "q": "How safe is Ari for families?",
+        "a": "Ari is generally safe as a residential area, with low crime, but keep an eye on bags at busy markets. Families appreciate the calm sois and nearby parks."
+      },
+      {
+        "q": "What's the food scene like in Ari?",
+        "a": "Ari excels in casual street food stalls and cozy cafes along Soi 1, from Thai noodles to coffee spots. Foodies should try Phra Arthit Market for fresh local bites."
+      }
+    ],
+    "urgencyLine": "Ari's affordable guesthouses near BTS fill up fast during cool season—book 1-2 months ahead for family rooms.",
+    "methodology": "We compared Ari to Sukhumvit and Silom & Sathorn based on walkability, price level, noise, and suitability for families, foodies, and digital nomads. We weighted walkability highest because it enables easy access to cafes and markets without constant taxis. Last updated: 2026-04.",
+    "metaTitle": "Staying in Ari, Bangkok (2026)",
+    "metaDescription": "Discover staying in Ari, Bangkok: relaxed residential area with cafes, markets, and high walkability near BTS Ari. Compare areas and see hotels for your…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:17:17.423Z"
+}

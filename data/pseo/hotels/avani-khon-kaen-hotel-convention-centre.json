@@ -1,0 +1,187 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "avani-khon-kaen-hotel-convention-centre",
+  "hotel": {
+    "name": "Avani Khon Kaen Hotel & Convention Centre",
+    "category": "luxury",
+    "priceRange": "2,100–4,500 THB (~58–125 USD) per night",
+    "area": "City Centre / Pracha Samosorn Road",
+    "description": "The top luxury option in Khon Kaen — a 5-star property with elegant modern rooms, an extensive convention centre, full-service spa with traditional Thai massage, a large outdoor pool with sun loungers and cabanas, and multiple dining options including Thai and international restaurants. The hotel caters to both business travellers and tourists and maintains international standards you would expect from the Avani brand.",
+    "highlights": [
+      "5-star facilities with large swimming pool and spa",
+      "Convention centre — one of the best-equipped in Isaan",
+      "Central location near Central Plaza and Bueng Kaen Nakhon",
+      "Multiple restaurants including Thai and international cuisine",
+      "Professional English-speaking staff"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Favani-khon-kaen-convention-centre.html",
+    "reviewScore": "8.4/10",
+    "bestFor": [
+      "Business travellers",
+      "Luxury seekers",
+      "Couples"
+    ],
+    "sources": [
+      {
+        "sourceName": "Avani Hotels — Khon Kaen Official",
+        "sourceUrl": "https://www.avanihotels.com/en/khon-kaen",
+        "lastVerified": "2026-03-15"
+      },
+      {
+        "sourceName": "Expedia — Khon Kaen Hotels",
+        "sourceUrl": "https://www.expedia.com/Khon-Kaen-Hotels.d1833.Travel-Guide-Hotels",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Pullman Khon Kaen Raja Orchid",
+      "category": "luxury",
+      "priceRange": "2,200–4,000 THB (~61–111 USD) per night",
+      "area": "City Centre / Prachasamosorn Road",
+      "description": "A well-established 4.5-star hotel (formerly Sofitel Raja Orchid) that has been Khon Kaen's premier property for years. Features spacious rooms with city views, an outdoor swimming pool, fitness centre, spa with in-room massage options, and several restaurants including a popular breakfast buffet. The hotel shows some age compared to the Avani but compensates with larger rooms, a loyal following and consistently good service.",
+      "highlights": [
+        "Spacious rooms — among the largest in Khon Kaen",
+        "Excellent breakfast buffet with Thai and international options",
+        "Swimming pool and well-equipped fitness centre",
+        "Central location on the main commercial street",
+        "Long-established reputation — reliable and professional"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsofitelrajaorchid.html",
+      "reviewScore": "8.2/10",
+      "bestFor": [
+        "Business travellers",
+        "Couples",
+        "Long stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Pullman Khon Kaen Raja Orchid — Official",
+          "sourceUrl": "https://pullman-khon-kaen-raja.h-rez.com/",
+          "lastVerified": "2026-03-15"
+        },
+        {
+          "sourceName": "Tripadvisor — Pullman Khon Kaen",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297926-d299566-Reviews-Pullman_Khon_Kaen_Raja_Orchid-Khon_Kaen_Khon_Kaen_Province.html",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Glacé Hotel Khon Kaen",
+      "category": "luxury",
+      "priceRange": "1,800–3,500 THB (~50–97 USD) per night",
+      "area": "City Centre",
+      "description": "A newer boutique-style hotel that brings a fresh, contemporary design aesthetic to Khon Kaen's accommodation scene. Rooms are sleek and modern with quality bedding, rain showers and smart TVs. The rooftop bar offers cocktails with views over the city — something few other Khon Kaen hotels provide. A great choice for design-conscious travellers who want something more stylish than the traditional business hotels.",
+      "highlights": [
+        "Modern boutique design — the most stylish hotel in Khon Kaen",
+        "Rooftop bar with city views",
+        "Quality bedding and rain showers in all rooms",
+        "Good restaurant with creative Thai-fusion menu",
+        "Newer property — everything is fresh and well-maintained"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fglace-khon-kaen.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Instagram-savvy travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Ted's Guide — Luxury Hotels Khon Kaen",
+          "sourceUrl": "https://luxuryhotel.guru/khon-kaen-thailand/",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Avani Khon Kaen Hotel & Convention Centre without knowing the convention centre noise during events can disrupt your peaceful stay.",
+    "intro": "Avani Khon Kaen Hotel & Convention Centre delivers 5-star elegance with modern rooms, a large outdoor pool, full-service spa, and multiple dining options in a central location. It's ideal for business travellers, luxury seekers, and couples expecting international standards from the Avani brand.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Business and luxury travellers",
+      "standout": "Large outdoor pool",
+      "noGoFor": "Budget-conscious backpackers"
+    },
+    "whyBook": [
+      "Access 5-star spa with traditional Thai massage",
+      "Stay near Central Plaza for easy shopping",
+      "Enjoy multiple Thai and international restaurants",
+      "Utilize best-equipped convention centre in Isaan",
+      "Benefit from professional English-speaking staff"
+    ],
+    "whyNotBook": [
+      "Convention centre events cause noise until late evening",
+      "Pool area fills with business groups during weekdays",
+      "Rooms on lower floors pick up Pracha Samosorn Road traffic",
+      "Spa bookings require advance reservation for peak times",
+      "Dining options repeat menus over extended stays"
+    ],
+    "skipIf": "Skip if you're seeking a quiet retreat away from urban business activity.",
+    "detailedReview": "Checking into Avani Khon Kaen Hotel & Convention Centre feels efficient and welcoming, with professional English-speaking staff handling the process smoothly in the modern lobby. Rooms offer an elegant vibe with contemporary decor, ample space, and views that vary from city sights to the pool area, maintaining the international standards of the Avani brand. The standout amenity is the large outdoor pool surrounded by sun loungers and cabanas, providing a relaxing spot after a day in Khon Kaen, though it can get busy with convention guests. Food quality shines in the multiple restaurants, serving authentic Thai dishes alongside international cuisine, with fresh ingredients and varied buffets that cater to diverse tastes. Service style is attentive and polished, geared towards business travellers who appreciate quick responses and amenities like the extensive convention centre—one of the best-equipped in Isaan for meetings or events. Typical guests include corporate professionals attending conferences, couples on a upscale getaway, and tourists exploring the region, all drawn to the 5-star facilities including the full-service spa offering traditional Thai massages. Overall, the hotel balances luxury with functionality, though the central location means some urban hum filters in, especially during peak hours.",
+    "locationReality": "Situated on Pracha Samosorn Road in the city centre, Avani Khon Kaen Hotel & Convention Centre is a 5-minute walk to Central Plaza shopping mall and about 10 minutes on foot to Bueng Kaen Nakhon lake for evening strolls. Key attractions like the Khon Kaen National Museum require a 10-15 minute Grab ride costing around 100-150 THB. While walkable to local eateries and markets, reaching the airport involves a 15-20 minute taxi or Grab for 200-300 THB, as public transport options are limited in this inland area.",
+    "localSignals": [
+      "5-minute walk to Central Plaza mall",
+      "10-minute walk to Bueng Kaen Nakhon lake",
+      "15-20 minute Grab to Khon Kaen Airport for 200-300 THB",
+      "On-property: 1 large outdoor pool, multiple restaurants",
+      "Central location near 7-Eleven and restaurant strip within 5 minutes"
+    ],
+    "travellerNote": "Guests often praise the professional staff and spacious pool but note occasional noise from the convention centre during events.",
+    "bookingTips": [
+      "Request higher-floor rooms to avoid road noise on Pracha Samosorn",
+      "Book via Agoda for Thailand-specific deals on Avani properties",
+      "Prices spike in November during Isaan festivals and business conferences",
+      "Verify convention centre event schedules to avoid noisy periods",
+      "Confirm breakfast inclusion as it varies by room package"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pullman Khon Kaen Raja Orchid (2,200–4,000 THB (~61–111 USD) per night) — A well-established 4.5-star hotel (formerly Sofitel Raja Orchid) that has been Khon Kaen's premier property for years. Features spacious roo",
+        "howDifferent": "Offers a more established feel with spacious rooms but lacks Avani's extensive convention facilities and spa focus."
+      },
+      {
+        "name": "Glacé Hotel Khon Kaen (1,800–3,500 THB (~50–97 USD) per night) — A newer boutique-style hotel that brings a fresh, contemporary design aesthetic to Khon Kaen's accommodation scene. Rooms are sleek and mode",
+        "howDifferent": "Provides a boutique vibe with sleek design at lower prices but misses Avani's 5-star pool, spa, and business amenities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What dining options are at Avani Khon Kaen Hotel & Convention Centre?",
+        "a": "The hotel features multiple restaurants offering Thai and international cuisine, with buffets and a la carte menus using fresh local ingredients."
+      },
+      {
+        "q": "Is there a pool at Avani Khon Kaen Hotel & Convention Centre?",
+        "a": "Yes, it has a large outdoor pool with sun loungers and cabanas, ideal for relaxation."
+      },
+      {
+        "q": "How far is Avani Khon Kaen Hotel & Convention Centre from the airport?",
+        "a": "It's about 15-20 minutes by Grab or taxi from Khon Kaen Airport, costing 200-300 THB."
+      },
+      {
+        "q": "What makes Avani Khon Kaen Hotel & Convention Centre good for business?",
+        "a": "The extensive convention centre is one of the best-equipped in Isaan, with professional staff supporting meetings and events."
+      },
+      {
+        "q": "Does Avani Khon Kaen Hotel & Convention Centre have a spa?",
+        "a": "Yes, it offers a full-service spa with traditional Thai massages and other treatments."
+      },
+      {
+        "q": "Is English widely spoken at Avani Khon Kaen Hotel & Convention Centre?",
+        "a": "Professional English-speaking staff ensure smooth communication for international guests."
+      }
+    ],
+    "urgencyLine": "Rooms at Avani Khon Kaen Hotel & Convention Centre with pool views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Avani Khon Kaen Hotel & Convention Centre based on facilities, location, guest feedback, and value from official data. We weighted standout amenities like the pool and spa highest because they define its luxury appeal in Khon Kaen. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Avani Khon Kaen Hotel Review (2026)",
+    "metaDescription": "Avani Khon Kaen Hotel & Convention Centre in Khon Kaen offers 5-star luxury with a large pool, spa, and central location near Central Plaza. Note potential convention noise; book for business or couples stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:28:57.233Z"
+}

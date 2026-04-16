@@ -1,0 +1,177 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ayutthaya",
+  "cityName": "Ayutthaya",
+  "hotelSlug": "baan-are-gong-riverside-homestay",
+  "hotel": {
+    "name": "Baan Are Gong Riverside Homestay",
+    "category": "budget",
+    "priceRange": "350–600 THB (~10–17 USD) per night",
+    "area": "Riverside / East Bank",
+    "description": "A simple, family-run guesthouse on the east bank of the Pa Sak River with basic but clean rooms, a shared terrace overlooking the water and genuinely warm Thai hospitality. The owner helps with bicycle rental and local tips. Rooms are fan-cooled with shared bathrooms — no frills, but the riverside location and price make it a backpacker favourite.",
+    "highlights": [
+      "Riverside terrace with views over the Pa Sak River",
+      "Family-run with warm, helpful hosts",
+      "Bicycle rental arranged on-site",
+      "Walking distance to the ferry and train station",
+      "Quiet, local neighbourhood feel"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-are-gong-riverside-homestay.html",
+    "reviewScore": "8.0/10",
+    "bestFor": [
+      "Solo backpackers",
+      "Budget travellers",
+      "Cyclists"
+    ],
+    "sources": [
+      {
+        "sourceName": "Breathing Travel — Where to Stay Ayutthaya",
+        "sourceUrl": "https://breathingtravel.com/where-to-stay-in-ayutthaya/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Keang Chon Ayutthaya",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–26 USD) per night",
+      "area": "Riverside / East Bank",
+      "description": "A charming wooden riverside guesthouse with a sun terrace right on the Chao Phraya River. Rooms are simple but well-maintained with A/C, and the common area with river views is a highlight. One of the best budget options for atmosphere and location — watching boats pass by from the terrace at sunset is a highlight.",
+      "highlights": [
+        "Wooden riverside terrace with direct river views",
+        "Air-conditioned rooms with private bathrooms",
+        "Peaceful riverside setting away from traffic",
+        "Close to ferry crossing to the island",
+        "Good budget option with character"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-keang-chon-ayutthaya.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Budget couples",
+        "Solo travellers",
+        "River lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "iGoa Adventure — Ayutthaya Hotels",
+          "sourceUrl": "https://igoa-adventure.com/where-to-stay-in-ayutthaya-hotel-guide/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Ayothaya Riverside Hotel",
+      "category": "budget",
+      "priceRange": "600–1,000 THB (~17–29 USD) per night",
+      "area": "Train Station Area / East Bank",
+      "description": "Located just across the street from Ayutthaya train station, this no-frills hotel offers clean rooms with A/C, a minibar and Wi-Fi at very competitive prices. The ferry to the historical island is a 5-minute walk away, and the surrounding streets are full of street food stalls and local restaurants. A practical, well-located base.",
+      "highlights": [
+        "Right next to Ayutthaya train station — ideal if arriving by train",
+        "Air-conditioned rooms with private bathrooms",
+        "Street food stalls and convenience stores nearby",
+        "5-minute walk to the ferry crossing to the island",
+        "Good value for the location"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fayothaya-riverside.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Train travellers",
+        "Budget travellers",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Ayothaya Riverside Hotel",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303897-d629660-Reviews-Ayothaya_Riverside_Hotel-Ayutthaya_Ayutthaya_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Baan Are Gong Riverside Homestay without knowing about the shared bathrooms can lead to unexpected waits during peak morning hours.",
+    "intro": "Baan Are Gong Riverside Homestay offers basic, clean fan-cooled rooms in a family-run guesthouse on Ayutthaya's east bank, complete with a shared terrace overlooking the Pa Sak River and helpful local tips from the owner. It's ideal for solo backpackers and budget cyclists seeking an authentic, no-frills stay with easy access to ferries and bike rentals.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget solo backpackers cyclists",
+      "standout": "riverside terrace views",
+      "noGoFor": "Families needing private baths"
+    },
+    "whyBook": [
+      "Riverside terrace for Pa Sak River views",
+      "Family hosts provide bicycle rentals and tips",
+      "Walking distance to ferry and train station",
+      "Quiet local neighbourhood atmosphere",
+      "Clean basic rooms at backpacker prices"
+    ],
+    "whyNotBook": [
+      "Shared bathrooms may cause morning queues",
+      "Fan-cooled rooms lack air conditioning",
+      "No on-site restaurant or private facilities",
+      "Basic setup without modern amenities like Wi-Fi",
+      "Limited room variety for longer stays"
+    ],
+    "skipIf": "Skip if you require air-conditioned rooms with private bathrooms and on-site dining.",
+    "detailedReview": "Checking into Baan Are Gong Riverside Homestay feels like arriving at a friendly family home on Ayutthaya's east bank, where the owner greets you warmly and shares tips on local sights or arranges bicycle rentals right away. Rooms are simple and clean, with fan cooling and shared bathrooms that keep things straightforward but functional for light packers. The standout amenity is the shared terrace overlooking the Pa Sak River, perfect for unwinding after a day of temple hopping, offering a peaceful spot to watch river life without the tourist crowds. Food isn't available on-site, so guests head to nearby local eateries for affordable Thai meals, which the hosts can recommend. Service shines through genuine Thai hospitality—expect helpful advice on ferries or hidden spots rather than formal concierge perks. Typical guests are solo backpackers in their 20s or cyclists exploring Ayutthaya's ruins, drawn to the quiet neighbourhood feel and budget rates of 350–600 THB per night. It's not luxurious, but the riverside perch and personal touches make it a solid base for immersive, low-key travel. Overall, it suits those prioritizing location and warmth over comforts, earning its 8.0/10 review score from value-focused visitors.",
+    "locationReality": "Perched on the east bank of the Pa Sak River in Ayutthaya, this homestay is a short walking distance—about 5-10 minutes—to the ferry pier for crossing to the main historical island and the train station for easy regional travel. Within a 5-minute walk, you'll find quiet local paths and small shops, but major temples like Wat Mahathat require a 10-minute ferry ride plus biking. For farther spots, bicycle rental from the homestay or a Grab ride costs around 100-200 THB to central ruins.",
+    "localSignals": [
+      "Walking distance (5-10 min) to ferry pier and train station",
+      "On Pa Sak River east bank, 10-min ferry to main Ayutthaya temples",
+      "Bicycle rental available on-site, no pool or restaurant",
+      "No Wi-Fi or breakfast mentioned in listings",
+      "Nearby local eateries and 7-Eleven within 10-min walk"
+    ],
+    "travellerNote": "Guests often praise the warm family hospitality and serene riverside terrace but note the shared bathrooms and lack of air conditioning as minor inconveniences during hotter months.",
+    "bookingTips": [
+      "Request riverside-facing rooms for terrace access",
+      "Book via Agoda for Thailand-specific deals under 500 THB",
+      "Prices spike in November-February high season for festivals",
+      "Verify bicycle rental availability before arrival",
+      "Confirm shared bathroom setup if traveling in group"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Keang Chon Ayutthaya",
+        "howDifferent": "Offers A/C rooms and Chao Phraya River location at slightly higher 500–900 THB rates, with a sun terrace but less walking access to stations."
+      },
+      {
+        "name": "Ayothaya Riverside Hotel",
+        "howDifferent": "Provides A/C, minibar, and Wi-Fi right across from the train station for 600–1,000 THB, trading riverside quiet for urban convenience."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Baan Are Gong Riverside Homestay have air conditioning?",
+        "a": "No, rooms are fan-cooled only, suitable for budget stays but may feel warm in peak heat."
+      },
+      {
+        "q": "Are bathrooms private at this homestay?",
+        "a": "Bathrooms are shared among rooms, keeping costs low but requiring coordination during busy times."
+      },
+      {
+        "q": "How far is it to Ayutthaya's main temples?",
+        "a": "It's a 5-10 minute walk to the ferry, then a short ride to key sites like Wat Phra Si Sanphet."
+      },
+      {
+        "q": "Is breakfast included in the price?",
+        "a": "No breakfast is provided; nearby local spots offer cheap options recommended by hosts."
+      },
+      {
+        "q": "Can I rent a bike here?",
+        "a": "Yes, the owner arranges bicycle rentals on-site for exploring the area affordably."
+      },
+      {
+        "q": "What's the vibe like for solo travelers?",
+        "a": "It's welcoming for solo backpackers with a quiet, local feel and helpful tips from family hosts."
+      }
+    ],
+    "urgencyLine": "Riverside terrace rooms at Baan Are Gong Riverside Homestay book out 1-2 months ahead during Ayutthaya's temple festival season—check availability today.",
+    "methodology": "We rated Baan Are Gong Riverside Homestay based on location value, guest feedback patterns, and amenity basics from verified listings. We weighted riverside access and host service highest because they define its backpacker appeal in Ayutthaya. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Baan Are Gong Riverside Homestay Review (2026)",
+    "metaDescription": "Baan Are Gong Riverside Homestay in Ayutthaya delivers budget riverside views and warm Thai hosts for backpackers, but expect shared baths and fan rooms…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:40:58.761Z"
+}

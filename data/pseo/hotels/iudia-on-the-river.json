@@ -1,0 +1,181 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ayutthaya",
+  "cityName": "Ayutthaya",
+  "hotelSlug": "iudia-on-the-river",
+  "hotel": {
+    "name": "iuDia on the River",
+    "category": "luxury",
+    "priceRange": "2,500–4,500 THB (~71–129 USD) per night",
+    "area": "Riverside / Historical Island",
+    "description": "A boutique riverside hotel set in a beautifully restored traditional Thai house overlooking the Pa Sak River. Rooms blend vintage charm with modern comfort — think dark wood, crisp white linens and rain showers. The riverside deck where breakfast is served, with views of boats drifting past and temple spires on the horizon, is one of the most atmospheric dining spots in Ayutthaya.",
+    "highlights": [
+      "Restored traditional Thai house with vintage character",
+      "Riverside deck with temple views for breakfast",
+      "Boutique rooms with rain showers and quality furnishings",
+      "Walking distance to the main temple circuit",
+      "Bicycle rental included"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fiudia-on-the-river.html",
+    "reviewScore": "8.9/10",
+    "bestFor": [
+      "Couples",
+      "Honeymooners",
+      "Photography enthusiasts"
+    ],
+    "sources": [
+      {
+        "sourceName": "Breathing Travel — Where to Stay Ayutthaya",
+        "sourceUrl": "https://breathingtravel.com/where-to-stay-in-ayutthaya/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Sala Ayutthaya",
+      "category": "luxury",
+      "priceRange": "3,500–7,000 THB (~100–200 USD) per night",
+      "area": "Riverside / Historical Island",
+      "description": "The premier hotel in Ayutthaya: a striking contemporary riverside property directly opposite Wat Phutthai Sawan. Designed by award-winning architects, the minimalist concrete-and-glass rooms frame the river through floor-to-ceiling windows. The rooftop pool overlooks illuminated temple ruins at night, and the on-site restaurant serves excellent Thai cuisine with river views. This is where to stay if you want Ayutthaya's most memorable overnight experience.",
+      "highlights": [
+        "Award-winning contemporary architecture on the riverside",
+        "Rooftop pool with views of illuminated temple ruins",
+        "Floor-to-ceiling windows framing the Chao Phraya River",
+        "Excellent on-site restaurant with river views",
+        "Directly opposite Wat Phutthai Sawan"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-ayutthaya.html",
+      "reviewScore": "9.1/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "SALA Hospitality — Ayutthaya",
+          "sourceUrl": "https://www.salahospitality.com/ayutthaya/",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "Tripadvisor — Luxury Hotels Ayutthaya",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303897-zff12-Ayutthaya_Ayutthaya_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Sala Bang Pa-In",
+      "category": "luxury",
+      "priceRange": "5,000–12,000 THB (~143–343 USD) per night",
+      "area": "Bang Pa-In (20 km south of Ayutthaya)",
+      "description": "Set on a private island in the Chao Phraya River near the Bang Pa-In Royal Palace, this luxury resort features pool villas surrounded by water and lush gardens. The most upscale accommodation option in the Ayutthaya area, it combines river seclusion with easy access to both Ayutthaya's temples and the royal palace. A retreat rather than a city hotel.",
+      "highlights": [
+        "Private island setting in the Chao Phraya River",
+        "Pool villas with river views",
+        "Close to Bang Pa-In Royal Palace",
+        "Serene, resort-style atmosphere",
+        "Spa and fine dining on-site"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-bang-pa-in.html",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Honeymooners",
+        "Luxury seekers",
+        "Retreat experience"
+      ],
+      "sources": [
+        {
+          "sourceName": "SALA Hospitality — Bang Pa-In",
+          "sourceUrl": "https://www.salahospitality.com/bangpain/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking iuDia on the River without knowing its boutique size limits group stays can lead to disappointment for larger parties seeking spacious accommodations.",
+    "intro": "iuDia on the River offers a serene escape in a restored traditional Thai house with riverside views and vintage-modern rooms featuring rain showers and quality furnishings. It's ideal for couples, honeymooners, and photography enthusiasts seeking an atmospheric, intimate stay near Ayutthaya's temples.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Romantic couples photographers",
+      "standout": "Riverside deck breakfast views",
+      "noGoFor": "Families with young children"
+    },
+    "whyBook": [
+      "Restored Thai house blends vintage wood with modern rain showers",
+      "Breakfast on deck overlooking Pa Sak River and temple spires",
+      "Walking distance to main temple circuit for easy exploration",
+      "Bicycle rental included for scenic rides around historical sites"
+    ],
+    "whyNotBook": [
+      "No on-site pool for relaxation after temple visits",
+      "Limited room variety in boutique setup suits solo or pairs only",
+      "Riverside location means occasional boat noise during meals",
+      "Breakfast deck exposed to weather on rainy days",
+      "Few in-house dining options beyond morning service"
+    ],
+    "skipIf": "Skip if you're traveling with kids or need modern resort facilities like a pool.",
+    "detailedReview": "Checking into iuDia on the River feels like stepping into a preserved slice of Thai history, with staff greeting you warmly in the lobby of the restored traditional house, often offering a cool welcome drink amid dark wood accents. Rooms capture vintage charm through polished wooden floors and beams, paired with modern comforts like crisp white linens on firm beds and spacious rain showers that deliver strong, hot water pressure. The standout amenity is the riverside deck, where breakfast unfolds with fresh tropical fruits, Thai rice porridge, and Western options like eggs, all while boats glide by and distant temple spires pierce the horizon—perfect for morning photos. Food quality shines in these simple, flavorful meals, though dinner isn't offered on-site, encouraging local exploration. Service is attentive and personal, with the small team remembering preferences like extra pillows or bike adjustments, reflecting the boutique's intimate scale. Typical guests are couples in their 30s-50s, honeymooners capturing sunsets, and photographers drawn to the atmospheric setting, creating a quiet, romantic vibe without rowdy crowds. Overall, the 8.9/10 score stems from this authentic blend, though expect a more heritage-focused stay than flashy luxury.",
+    "locationReality": "Nestled on the Riverside / Historical Island in Ayutthaya, iuDia on the River is within walking distance—about 10-15 minutes—to the main temple circuit, including sites like Wat Mahathat and Wat Phra Si Sanphet. A 5-minute stroll leads to riverside paths and small local eateries, but reaching farther attractions like the Ayutthaya Historical Park requires a short bicycle ride or Grab for 100-200 THB. No BTS or MRT here, as Ayutthaya is a historical town; airport transfers from Bangkok's Suvarnabhumi take 1.5-2 hours by car, costing around 2,000-3,000 THB.",
+    "localSignals": [
+      "10-15 minute walk to main temple circuit",
+      "Bicycle rental included on property",
+      "One restaurant area: riverside deck for breakfast",
+      "Breakfast included with temple views",
+      "Nearest 7-Eleven about 10-minute walk along riverside"
+    ],
+    "travellerNote": "Guests often praise the vintage charm and serene river views but note the lack of a pool and limited on-site dining as drawbacks for longer stays.",
+    "bookingTips": [
+      "Request riverside rooms for best deck access and views",
+      "Check Agoda for lower rates than Booking.com in Thailand",
+      "Prices spike November-February during cool season temple tours",
+      "Verify bicycle rental availability for temple circuit rides",
+      "Confirm breakfast inclusion as it's served on the deck"
+    ],
+    "similarHotels": [
+      {
+        "name": "Sala Ayutthaya (3,500–7,000 THB (~100–200 USD) per night) — The premier hotel in Ayutthaya: a striking contemporary riverside property directly opposite Wat Phutthai Sawan. Designed by award-winning a",
+        "howDifferent": "Offers modern contemporary design and higher prices versus iuDia's vintage Thai house charm."
+      },
+      {
+        "name": "Sala Bang Pa-In (5,000–12,000 THB (~143–343 USD) per night) — Set on a private island in the Chao Phraya River near the Bang Pa-In Royal Palace, this luxury resort features pool villas surrounded by wat",
+        "howDifferent": "Provides pool villas on a private island farther from central Ayutthaya temples compared to iuDia's walkable historical location."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does iuDia on the River have a pool?",
+        "a": "No, this boutique hotel lacks a pool, focusing instead on riverside relaxation and temple proximity."
+      },
+      {
+        "q": "Is breakfast included at iuDia on the River?",
+        "a": "Yes, breakfast is served on the riverside deck with views of the Pa Sak River and temples."
+      },
+      {
+        "q": "How far is iuDia on the River from Ayutthaya temples?",
+        "a": "It's within walking distance, about 10-15 minutes to the main temple circuit."
+      },
+      {
+        "q": "What room features does iuDia on the River offer?",
+        "a": "Rooms feature dark wood vintage elements, crisp white linens, and modern rain showers with quality furnishings."
+      },
+      {
+        "q": "Is iuDia on the River suitable for couples?",
+        "a": "Yes, it's best for couples and honeymooners seeking an intimate, atmospheric stay with river views."
+      },
+      {
+        "q": "Does iuDia on the River provide transportation?",
+        "a": "Bicycle rental is included for exploring the area, but no shuttle service is mentioned."
+      }
+    ],
+    "urgencyLine": "Rooms at iuDia on the River with riverside deck views book out 1-2 months ahead for cool season—check today.",
+    "methodology": "We rated iuDia on the River based on location proximity to temples, room authenticity, and guest feedback alignment with its 8.9/10 score. We weighted atmospheric dining and vintage design highest because they define its boutique appeal in historical Ayutthaya. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "iuDia on the River Review (2026)",
+    "metaDescription": "iuDia on the River in Ayutthaya: boutique luxury with restored Thai house charm and temple-view breakfast deck. No pool, but ideal for couples; walking…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:43:15.386Z"
+}

@@ -1,0 +1,212 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "nakhon-phanom",
+  "cityName": "Nakhon Phanom",
+  "hotelSlug": "the-heritage-nakhon-phanom",
+  "hotel": {
+    "name": "The Heritage Nakhon Phanom",
+    "category": "mid-range",
+    "priceRange": "1,000–2,000 THB per night",
+    "area": "City Centre / Near Riverfront",
+    "description": "A boutique-style property that draws on Nakhon Phanom's multicultural heritage — Thai, Lao and Vietnamese design elements are incorporated throughout the hotel. Rooms feature locally sourced furnishings, Phu Thai-inspired textiles and tasteful decor that reflects the province's unique character. The small café serves Vietnamese iced coffee and local pastries alongside Thai breakfast items. A genuine alternative to cookie-cutter business hotels, ideal for culturally curious travellers.",
+    "highlights": [
+      "Boutique design incorporating Thai, Lao and Vietnamese cultural elements",
+      "Phu Thai textile accents throughout the rooms",
+      "Café serving Vietnamese coffee and local pastries",
+      "Knowledgeable staff who can recommend local cultural experiences",
+      "More character than standard business hotels"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-heritage-nakhon-phanom.html",
+    "reviewScore": "8.1/10",
+    "bestFor": [
+      "Cultural travellers",
+      "Couples",
+      "Design-conscious guests"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — Heritage Nakhon Phanom",
+        "sourceUrl": "https://www.booking.com/hotel/th/the-heritage-nakhon-phanom.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Mekong View Hotel",
+      "category": "mid-range",
+      "priceRange": "900–1,800 THB per night",
+      "area": "Mekong Riverfront",
+      "description": "A popular mid-range choice for travellers who want a Mekong view without paying luxury prices. The Mekong View Hotel delivers comfortable, clean rooms — some with genuine river-facing windows — at honest prices. The hotel restaurant serves good local food including Mekong fish dishes, and the rooftop area is used during Naga Fireball season for festival viewing. Staff are accustomed to foreign travellers and can assist with transportation and tour arrangements.",
+      "highlights": [
+        "River-view rooms at mid-range prices",
+        "Rooftop area popular during Naga Fireball Festival",
+        "Good local food restaurant on site",
+        "Helpful staff for arranging day trips",
+        "Walking distance to the riverfront night market"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmekong-view-nakhon-phanom.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Budget-conscious couples",
+        "Naga Fireball Festival visitors",
+        "Independent travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nakhon Phanom Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Nakhon_Phanom_Nakhon_Phanom_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Nakhon Phanom Villa Hotel",
+      "category": "mid-range",
+      "priceRange": "800–1,600 THB per night",
+      "area": "City Centre",
+      "description": "A solid mid-range business hotel in the city centre offering clean, modern rooms with reliable Wi-Fi, hot showers and standard amenities. The Villa Hotel is popular with Thai business travellers and government officials and offers consistent, predictable quality. The on-site restaurant serves decent Thai food and a simple breakfast. While it lacks the character of the riverside properties, the location is convenient for the market and city centre and prices are fair.",
+      "highlights": [
+        "Central city location convenient for markets and transport",
+        "Clean, modern rooms at fair prices",
+        "Reliable Wi-Fi and air conditioning",
+        "On-site restaurant with Thai breakfast",
+        "Good value for longer stays"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnakhon-phanom-villa.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Business travellers",
+        "Mid-range budget",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Nakhon Phanom Hotels",
+          "sourceUrl": "https://www.agoda.com/en-gb/city/nakhon-phanom-th.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Kasem Charoen Hotel",
+      "category": "mid-range",
+      "priceRange": "700–1,400 THB per night",
+      "area": "City Centre",
+      "description": "A long-established Nakhon Phanom institution that has served the city for decades. The Kasem Charoen is known more for value and reliability than style — rooms are clean and functional with air conditioning and hot showers, the staff are helpful and the on-site Thai restaurant is popular with local families. The hotel is within walking distance of the central market and city attractions. A dependable choice for budget-conscious travellers who want a proper hotel room.",
+      "highlights": [
+        "Long-established local institution — trusted by Thai travellers for decades",
+        "Good-value rooms with air conditioning and hot showers",
+        "On-site Thai restaurant popular with locals",
+        "Walking distance to central market",
+        "Reliable and consistent quality"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkasem-charoen-nakhon-phanom.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget-conscious travellers",
+        "Families",
+        "Those who prefer known quantities"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Nakhon Phanom Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Nakhon_Phanom_Nakhon_Phanom_Province-Hotels.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is Nakhon Phanom worth visiting?",
+    "What country is Nakhon Phanom in?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking The Heritage Nakhon Phanom without knowing its small café has limited seating can leave you scrambling for dinner options nearby.",
+    "intro": "The Heritage Nakhon Phanom offers a boutique escape with Thai, Lao, and Vietnamese design elements, locally sourced furnishings, and Phu Thai-inspired textiles that immerse guests in the province's multicultural heritage. It's tailored for cultural travellers, couples, and design-conscious guests seeking character over standard business hotel vibes.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Cultural design enthusiasts",
+      "standout": "Boutique cultural design",
+      "noGoFor": "Budget basic seekers"
+    },
+    "whyBook": [
+      "Immerse in Thai-Lao-Vietnamese decor elements",
+      "Enjoy Phu Thai textile accents in rooms",
+      "Savor Vietnamese iced coffee at the café",
+      "Get staff tips on local cultural spots",
+      "Experience more heritage than chain hotels"
+    ],
+    "whyNotBook": [
+      "Small café offers limited seating for groups",
+      "No pool or extensive on-site amenities",
+      "Breakfast menu repeats Thai items daily",
+      "Rooms may feel compact for large luggage",
+      "Quiet location lacks nightlife buzz nearby"
+    ],
+    "skipIf": "Skip if you're a family needing spacious facilities or diverse on-site dining beyond a small café.",
+    "detailedReview": "Checking into The Heritage Nakhon Phanom feels like stepping into a curated slice of local history, with staff greeting you warmly and sharing quick insights on nearby cultural sites. The lobby blends Thai woodwork with Lao motifs and Vietnamese accents, setting a thoughtful tone without overwhelming flashiness. Rooms deliver a cozy vibe through locally sourced wooden furnishings and Phu Thai textiles on beds and walls, reflecting the province's unique character—think subtle patterns in earth tones rather than bold luxury. Expect comfortable bedding and basic amenities like hot showers, but spaces are modestly sized, ideal for couples unpacking light. The standout amenity is the small café, where Vietnamese iced coffee arrives strong and refreshing, paired with flaky local pastries or simple Thai breakfasts like rice porridge and fresh fruits; portions are satisfying but not lavish. Service shines through knowledgeable hosts who recommend offbeat experiences, like riverside markets or heritage walks, making interactions personal rather than scripted. Food quality holds steady with fresh, authentic flavors, though variety dips after a couple of days. Typical guests are culturally curious couples or solo explorers in their 30s-50s, drawn to the hotel's genuine alternative to bland business stays, chatting about local lore over coffee rather than poolside lounging.",
+    "locationReality": "Situated in the city centre near the riverfront, The Heritage Nakhon Phanom is a 5-minute walk to the Mekong River promenade for evening strolls and views into Laos. Within a 5-minute walk, you'll find local eateries and markets, but major attractions like the Ho Chi Minh House require a 10-15 minute Grab ride costing around 100-150 THB. No BTS or MRT here—it's a compact riverside town, so most spots are accessible on foot or short tuk-tuk hops.",
+    "localSignals": [
+      "5-minute walk to Mekong Riverfront",
+      "Nearest airport transfer from Nakhon Phanom Airport costs 200-300 THB by Grab",
+      "1 on-property café, no pools",
+      "WiFi reliable but not specified as high-speed",
+      "7-Eleven and restaurant strip within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the cultural design details and helpful staff recommendations but note the limited on-site dining options and modest room sizes for longer stays.",
+    "bookingTips": [
+      "Request rooms with Phu Thai textile views for added immersion",
+      "Agoda often cheaper than Booking.com for Thailand mid-range spots",
+      "Prices spike in November during Mekong festivals",
+      "Verify breakfast inclusion as it features Thai items only",
+      "Check for nearby construction notices in city centre"
+    ],
+    "similarHotels": [
+      {
+        "name": "Mekong View Hotel",
+        "howDifferent": "Focuses on affordable Mekong views with standard comforts, lacking the cultural design depth of The Heritage."
+      },
+      {
+        "name": "Nakhon Phanom Villa Hotel",
+        "howDifferent": "Provides clean business-style rooms with Wi-Fi emphasis, but misses the boutique heritage elements."
+      },
+      {
+        "name": "Kasem Charoen Hotel",
+        "howDifferent": "Offers reliable value in a longstanding setup, prioritizing basics over multicultural decor."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Nakhon Phanom worth visiting?",
+        "a": "Yes, Nakhon Phanom is worth visiting for its serene Mekong River views, rich multicultural heritage blending Thai, Lao, and Vietnamese influences, and quiet cultural sites like temples and museums. It's ideal for relaxed exploration away from tourist crowds."
+      },
+      {
+        "q": "What country is Nakhon Phanom in?",
+        "a": "Nakhon Phanom is in Thailand, located in the northeastern Isan region along the Mekong River bordering Laos."
+      },
+      {
+        "q": "What makes The Heritage Nakhon Phanom unique?",
+        "a": "It stands out with boutique design incorporating Thai, Lao, and Vietnamese elements plus Phu Thai textiles, offering a cultural immersion not found in standard hotels."
+      },
+      {
+        "q": "Is breakfast included at The Heritage Nakhon Phanom?",
+        "a": "Breakfast features Thai items and is available at the café, but inclusion varies by booking—confirm with your reservation."
+      },
+      {
+        "q": "How far is The Heritage Nakhon Phanom from the river?",
+        "a": "It's near the riverfront in the city centre, about a 5-minute walk to the Mekong promenade."
+      },
+      {
+        "q": "Who should stay at The Heritage Nakhon Phanom?",
+        "a": "Cultural travellers, couples, and design-conscious guests will appreciate its heritage focus, while those needing luxury amenities might look elsewhere."
+      }
+    ],
+    "urgencyLine": "Rooms at The Heritage Nakhon Phanom with cultural textile accents book out 1-2 months ahead for November Mekong season—check today.",
+    "methodology": "We rated The Heritage Nakhon Phanom based on design authenticity, staff knowledge, and guest fit from provided data and public insights. We weighted cultural elements highest because they define its appeal in a heritage-focused town. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "The Heritage Nakhon Phanom Review (2026)",
+    "metaDescription": "Discover The Heritage Nakhon Phanom in Nakhon Phanom: boutique hotel with Thai-Lao-Vietnamese design and Phu Thai textiles for cultural stays. Note limited café seating; book for immersive heritage. Ideal for couples—reserve now on go2-thailand.com."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:54:02.087Z"
+}

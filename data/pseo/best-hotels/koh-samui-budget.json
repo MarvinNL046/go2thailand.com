@@ -1,0 +1,234 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "category": "budget",
+  "hotels": [
+    {
+      "name": "Lub d Koh Samui Chaweng Beach",
+      "category": "budget",
+      "priceRange": "350–700 THB/night (~$10–20 USD)",
+      "area": "Chaweng Beach",
+      "description": "A stylish modern hostel right on Chaweng Beach with pod-style dorms and sea-view private rooms. Two pools, a social bar area, and a reputation as one of Thailand's best-designed hostels. Part of the Thai Lub d chain known for quality budget stays. The beachfront location is unbeatable for the price.",
+      "highlights": [
+        "Beachfront location on Chaweng Beach",
+        "Two pools and lively common areas",
+        "Pod-style dorm beds with privacy curtains and USB charging"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelz",
+          "sourceUrl": "https://www.hostelz.com/cheapest-hostels-in-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Koh%2520Samui%2520Chaweng%2520Beach%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Samui Hostel",
+      "category": "budget",
+      "priceRange": "300–500 THB/night (~$8–14 USD)",
+      "area": "Chaweng Beach",
+      "description": "No-frills budget accommodation in central Chaweng with clean air-conditioned rooms and dorms. Walking distance to the beach, night market, and nightlife. Basic but functional — everything you need for a budget island stay without paying resort prices.",
+      "highlights": [
+        "Central Chaweng location",
+        "Clean AC rooms and dorms",
+        "Walking distance to beach and nightlife"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hotels/asia/thailand/koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSamui%2520Hostel%252C%2520Koh%2520Samui%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Talay Resort",
+      "category": "budget",
+      "priceRange": "600–1,200 THB/night (~$17–34 USD)",
+      "area": "Lamai Beach",
+      "description": "A family-run guesthouse near Lamai Beach with clean bungalow-style rooms set in a tropical garden. Small pool, friendly Thai owners, and significantly cheaper than Chaweng hotels of similar quality. The beach is a 5-minute walk away.",
+      "highlights": [
+        "Garden bungalows with pool",
+        "5-minute walk to Lamai Beach",
+        "Family-run with personal Thai hospitality"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/budget/region/th/koh-samui.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Talay%2520Resort%252C%2520Koh%2520Samui%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Where to stay in Koh Samui budget?",
+    "What area of Koh Samui is best to stay in?",
+    "How to get to Koh Samui on a budget?",
+    "Which is better Chaweng or Lamai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong budget hotel in Koh Samui can leave you in a noisy, rundown spot far from the beach — many 'budget' hotels skimp on cleanliness and location to cut costs.",
+    "intro": "The single biggest mistake travellers make booking budget in Koh Samui is prioritizing the lowest price over walkable beach access and basic comforts, ending up isolated or in subpar conditions. We ranked these based on value for money, proximity to key areas like Chaweng and Lamai, guest-friendly amenities, and real budget traveller priorities like clean dorms and social vibes.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Lub d Koh Samui Chaweng Beach",
+        "why": "Stylish design with two pools"
+      },
+      {
+        "label": "Best value",
+        "name": "Baan Talay Resort",
+        "why": "Quality bungalows under 1,200 THB"
+      },
+      {
+        "label": "Best for solo",
+        "name": "Lub d Koh Samui Chaweng Beach",
+        "why": "Social bar and pod dorms"
+      },
+      {
+        "label": "Best for couples",
+        "name": "Baan Talay Resort",
+        "why": "Quiet tropical garden setting"
+      }
+    ],
+    "urgencyLine": "Prices for budget hotels in Koh Samui can double during high season (Dec–Feb) and events like Songkran — book 3-6 months ahead for the best deals.",
+    "comparisonTable": [
+      {
+        "name": "Lub d Koh Samui Chaweng Beach",
+        "area": "Chaweng Beach",
+        "priceBand": "€",
+        "bestFor": "Solo backpackers partying",
+        "standout": "Two pools",
+        "drawback": "Can feel crowded socially"
+      },
+      {
+        "name": "Samui Hostel",
+        "area": "Chaweng Beach",
+        "priceBand": "€",
+        "bestFor": "Budget nightlife seekers",
+        "standout": "Central location",
+        "drawback": "Basic no-frills rooms"
+      },
+      {
+        "name": "Baan Talay Resort",
+        "area": "Lamai Beach",
+        "priceBand": "€",
+        "bestFor": "Couples seeking quiet",
+        "standout": "Friendly service",
+        "drawback": "5-minute walk to beach"
+      }
+    ],
+    "decisionGuide": [
+      "If you want stylish dorms with pools near Chaweng nightlife, choose Lub d Koh Samui Chaweng Beach.",
+      "If you're on a tight budget but need central access to markets and bars, choose Samui Hostel.",
+      "If you prefer a peaceful garden setting with a small pool away from crowds, choose Baan Talay Resort.",
+      "If solo travel with social vibes is key, choose Lub d Koh Samui Chaweng Beach.",
+      "If family-run charm and bungalows matter more than party scene, choose Baan Talay Resort."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Lub d Koh Samui Chaweng Beach",
+        "why": "This tops the list for blending modern design and amenities like two pools at rock-bottom prices, outshining basic options by offering sea-view privates without sacrificing budget appeal. It beats runners-up for travellers wanting more than just a bed in vibrant Chaweng.",
+        "drawback": "The social bar can get noisy at night.",
+        "skipIf": "Skip if you dislike hostel-style crowds or prefer total quiet.",
+        "localSignals": [
+          "Right on Chaweng Beach, 0-minute walk",
+          "Part of Thai Lub d chain with pod-style dorms",
+          "Two pools and sea-view private rooms"
+        ],
+        "travellerNote": "Guests often praise the clean, stylish design and pool access but note the party atmosphere can disrupt light sleepers."
+      },
+      {
+        "rank": 2,
+        "name": "Baan Talay Resort",
+        "why": "It edges out the basic hostels with bungalow-style rooms in a tropical garden and friendly owners, providing better quality and a small pool for the price compared to Chaweng's no-frills spots. Ideal for those valuing calm over centrality in budget stays.",
+        "drawback": "It's a short walk from the main beach action.",
+        "skipIf": "Skip if you need immediate beachfront or nightlife proximity.",
+        "localSignals": [
+          "5-minute walk to Lamai Beach",
+          "Small pool on property",
+          "Clean bungalow-style rooms in tropical garden"
+        ],
+        "travellerNote": "Guests often praise the welcoming Thai owners and garden peace but note the location requires a quick walk to reach the sand."
+      },
+      {
+        "rank": 3,
+        "name": "Samui Hostel",
+        "why": "As the cheapest option, it delivers functional clean rooms and dorms right in central Chaweng, suiting ultra-budget travellers who prioritize walkability to beach and markets over extras like pools. It trails the top picks in style but wins on pure affordability.",
+        "drawback": "Facilities are very basic without standout amenities.",
+        "skipIf": "Skip if you want any pool or garden relaxation.",
+        "localSignals": [
+          "Walking distance to Chaweng Beach, about 5-10 minutes",
+          "Clean air-conditioned rooms and dorms",
+          "Central to night market and nightlife"
+        ],
+        "travellerNote": "Guests often praise the unbeatable location for budget explorers but note the no-frills setup lacks comforts like pools."
+      }
+    ],
+    "topPick": "Lub d Koh Samui Chaweng Beach",
+    "topPickReason": "It offers the best mix of style, pools, and beach access for budget travellers without feeling cheap.",
+    "bookingTips": [
+      "Book 3-6 months in advance for high season (Nov–Apr) to snag rates under 700 THB at places like Lub d.",
+      "Agoda often has cheaper deals than Booking.com for Thai hostels — compare both for Koh Samui budget spots.",
+      "Prices spike 50-100% during Songkran (April) and Chinese New Year — avoid or book early.",
+      "Watch for red flags like no recent reviews or discounts over 50% that signal poor quality.",
+      "Opt for garden-view rooms to save 20-30% versus sea-view, especially at beachside budgets.",
+      "Check for free airport transfers, as Samui's airport is close but taxis add up quickly."
+    ],
+    "methodology": "We compared budget hotels in Koh Samui based on guest reviews, location quality, value at this price band, and what budget travellers typically prioritise like walkability and cleanliness. We weighted location highest because isolation kills budget trips on an island. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/koh-samui/",
+      "/where-to-stay/koh-samui/",
+      "/city/koh-samui/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check budget hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View Lub d Koh Samui Chaweng Beach'"
+    ],
+    "faq": [
+      {
+        "q": "Where to stay in Koh Samui budget?",
+        "a": "Focus on Chaweng Beach for nightlife access or Lamai for quieter vibes — Lub d Koh Samui Chaweng Beach offers the best stylish budget pick under 700 THB."
+      },
+      {
+        "q": "What area of Koh Samui is best to stay in?",
+        "a": "Chaweng suits party budgets with walkable bars, while Lamai provides cheaper calm; choose Baan Talay Resort in Lamai for garden bungalows near the beach."
+      },
+      {
+        "q": "How to get to Koh Samui on a budget?",
+        "a": "Fly budget airlines like AirAsia to Samui Airport then take shared songthaews for 50-100 THB to Chaweng hotels like Samui Hostel — avoid pricey taxis."
+      },
+      {
+        "q": "Which is better Chaweng or Lamai?",
+        "a": "Chaweng wins for vibrant budget energy and spots like Lub d, but Lamai is better for affordable quiet at Baan Talay Resort if crowds overwhelm you."
+      },
+      {
+        "q": "Are there budget hostels with pools in Koh Samui?",
+        "a": "Yes, Lub d Koh Samui Chaweng Beach stands out with two pools and dorms from 350 THB, perfect for social budget stays."
+      }
+    ],
+    "metaTitle": "Best Budget Hotels in Koh Samui (2026)",
+    "metaDescription": "Discover top budget hotels in Koh Samui under €40/night, from stylish hostels in Chaweng to quiet bungalows in Lamai. Get beach access and value —…"
+  },
+  "lastUpdated": "2026-03-14",
+  "generatedAt": "2026-04-15T15:40:55.176Z"
+}

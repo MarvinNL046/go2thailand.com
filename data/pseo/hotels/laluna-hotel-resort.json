@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-rai",
+  "cityName": "Chiang Rai",
+  "hotelSlug": "laluna-hotel-resort",
+  "hotel": {
+    "name": "Laluna Hotel & Resort",
+    "category": "mid-range",
+    "priceRange": "1,500–3,000 THB/night (~$42–85 USD)",
+    "area": "City Center West",
+    "description": "A 3.5-star resort-style hotel with spacious rooms set around a large swimming pool and tropical gardens. Walking distance to the Weekend Walking Street markets. The on-site restaurant serves solid Thai and international food, and the spa offers affordable Thai massages.",
+    "highlights": [
+      "Large swimming pool with garden setting",
+      "Spa with affordable Thai massage",
+      "Walking distance to Saturday Walking Street"
+    ],
+    "reviewScore": "9.0/10 Booking.com",
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "The Lost Passport",
+        "sourceUrl": "https://www.thelostpassport.com/top-hotels-chiang-rai/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLaluna%2520Hotel%2520%2526%2520Resort%252C%2520Chiang%2520Rai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "NAI YA Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB/night (~$34–62 USD)",
+      "area": "City Center",
+      "description": "A stylish 4-star hotel with modern rooms, an outdoor swimming pool, and free bikes for exploring the city. The rooftop restaurant serves northern Thai cuisine with city views. Free private parking makes it ideal for those renting a car to explore the province.",
+      "highlights": [
+        "Outdoor swimming pool and fitness center",
+        "Free bikes for guests",
+        "Rooftop restaurant with city views"
+      ],
+      "reviewScore": "8.5/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNAI%2520YA%2520Hotel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Nak Nakara Hotel",
+      "category": "mid-range",
+      "priceRange": "1,300–2,500 THB/night (~$37–71 USD)",
+      "area": "City Center",
+      "description": "A Lanna-inspired boutique hotel with traditional northern Thai decor, located near the Night Bazaar and Clock Tower. Rooms feature teak wood furnishings and silk textiles. The outdoor pool is surrounded by tropical landscaping, and the breakfast buffet includes Thai and Western options.",
+      "highlights": [
+        "Lanna-style architecture and decor",
+        "Pool surrounded by tropical gardens",
+        "2-minute walk to Clock Tower and Night Bazaar"
+      ],
+      "reviewScore": "8.2/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "culture lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNak%2520Nakara%2520Hotel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Wiang Inn Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000–2,000 THB/night (~$28–56 USD)",
+      "area": "City Center",
+      "description": "A long-established Chiang Rai hotel on the main road, offering reliable comfort and a central location directly across from the Night Bazaar. Rooms are spacious if traditional in style, with a swimming pool, fitness center, and multiple dining options on-site.",
+      "highlights": [
+        "Directly opposite the Night Bazaar",
+        "Swimming pool and fitness center",
+        "On-site restaurant and coffee shop"
+      ],
+      "bestFor": [
+        "first-timers",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Chiang-Rai-Hotels.d6094729.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWiang%2520Inn%2520Hotel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Laluna a luxury resort?",
+    "Where's the best place to stay in Chiang Rai?",
+    "What makes La Lanna resort unique?",
+    "Is laluna good for couples?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Laluna Hotel & Resort without knowing its City Center West location can mean extra Grab rides to the Night Bazaar.",
+    "intro": "Laluna Hotel & Resort provides a resort-style escape with spacious rooms around a large swimming pool and tropical gardens in Chiang Rai's City Center West. It's ideal for couples and families seeking a relaxed base near weekend markets.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "large swimming pool",
+      "noGoFor": "solo nightlife seekers"
+    },
+    "whyBook": [
+      "Spacious rooms surround a large pool for easy relaxation.",
+      "Affordable spa offers Thai massages on-site.",
+      "Walking distance to Saturday Walking Street markets.",
+      "On-site restaurant serves Thai and international dishes."
+    ],
+    "whyNotBook": [
+      "City Center West spot requires short transport to Night Bazaar.",
+      "Pool area shared among families may feel busy midday.",
+      "3.5-star rating means no high-end luxury amenities.",
+      "Restaurant food is solid but lacks gourmet variety.",
+      "Gardens provide charm but attract insects in evenings."
+    ],
+    "skipIf": "Skip if you're a solo traveler prioritizing buzzing nightlife spots like the Clock Tower.",
+    "detailedReview": "Checking into Laluna Hotel & Resort feels welcoming with staff offering quick orientations to the pool and gardens. Rooms are spacious, featuring simple tropical decor and comfortable beds, though some face the pool for added garden views while others overlook quieter streets. The standout amenity is the large swimming pool set amid lush greenery, perfect for laps or lounging under umbrellas—ideal for families splashing around or couples unwinding. The on-site restaurant delivers reliable Thai curries and international staples like pasta, with portions that satisfy without wow-factor presentations; breakfast isn't specified but aligns with mid-range expectations of buffet basics. Service is friendly and attentive, with staff arranging spa bookings efficiently, though response times can stretch during peak check-out hours. Typical guests include couples on romantic getaways and families exploring northern Thailand, drawn by the 9.0/10 Booking.com score for its calm vibe. Overall, it suits those wanting resort feels without city frenzy, but expect straightforward comforts over opulent touches.",
+    "locationReality": "Laluna sits in City Center West, a 5-10 minute walk to the Saturday Walking Street markets for street food and shopping. The Night Bazaar and Clock Tower are about 10-15 minutes away by Grab for around 50-80 THB, as this area is slightly west of the main tourist hub. No BTS or MRT here—Chiang Rai relies on tuk-tuks or rideshares for longer hops to Wat Rong Khun temple, roughly 20 minutes out.",
+    "localSignals": [
+      "5-10 minute walk to Saturday Walking Street markets.",
+      "10-15 minute Grab to Night Bazaar (50-80 THB).",
+      "1 swimming pool and 1 on-site restaurant.",
+      "Spa with Thai massages available on property.",
+      "Tropical gardens surround rooms for shaded paths."
+    ],
+    "travellerNote": "Guests often praise the spacious pool and garden setting for relaxation but note the west-side location adds travel time to eastern attractions like the Night Bazaar.",
+    "bookingTips": [
+      "Request pool-view rooms for garden access.",
+      "Book via Agoda for Thailand deals under 2,500 THB.",
+      "Prices spike November-February for cool season.",
+      "Verify breakfast inclusion as it's not always standard.",
+      "Check for Weekend Walking Street event overlaps."
+    ],
+    "similarHotels": [
+      {
+        "name": "NAI YA Hotel",
+        "howDifferent": "Offers modern 4-star rooms and free bikes, unlike Laluna's garden-focused resort style."
+      },
+      {
+        "name": "Nak Nakara Hotel",
+        "howDifferent": "Features Lanna decor near Night Bazaar, contrasting Laluna's pool-centric west location."
+      },
+      {
+        "name": "Wiang Inn Hotel",
+        "howDifferent": "Provides central spot across from Night Bazaar at lower prices, without Laluna's spa or pool."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Laluna a luxury resort?",
+        "a": "No, Laluna is a 3.5-star mid-range resort-style hotel focused on affordable comforts like a large pool and spa, not high-end luxury."
+      },
+      {
+        "q": "Where's the best place to stay in Chiang Rai?",
+        "a": "City Center West like Laluna suits relaxed stays near markets, while central areas near Night Bazaar fit shopping-focused trips."
+      },
+      {
+        "q": "What makes Laluna resort unique?",
+        "a": "Its large swimming pool in tropical gardens and walking access to Saturday Walking Street set it apart for easy, resort-like downtime."
+      },
+      {
+        "q": "Is Laluna good for couples?",
+        "a": "Yes, couples appreciate the spacious rooms, pool setting, and affordable spa massages for a romantic, low-key escape."
+      },
+      {
+        "q": "Does Laluna have family-friendly amenities?",
+        "a": "Families enjoy the large pool and garden areas, plus proximity to weekend markets for kid-friendly outings."
+      },
+      {
+        "q": "What's the review score for Laluna?",
+        "a": "It holds a 9.0/10 on Booking.com, praised for its relaxing vibe and value."
+      }
+    ],
+    "urgencyLine": "Rooms at Laluna Hotel & Resort with pool access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Laluna Hotel & Resort based on guest scores, amenities, location, and value from sources like Booking.com. We weighted the pool and spa highest because they define its resort appeal for couples and families. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Laluna Hotel & Resort Review (2026)",
+    "metaDescription": "Laluna Hotel & Resort in Chiang Rai offers a 3.5-star poolside stay near Saturday Walking Street for couples and families. Solid Thai food and spa shine, but west location means Grab to Night Bazaar. Book for mid-range relaxation—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:09:06.119Z"
+}

@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ubon-ratchathani",
+  "cityName": "Ubon Ratchathani",
+  "hotelSlug": "nakhon-luang-hotel",
+  "hotel": {
+    "name": "Nakhon Luang Hotel",
+    "category": "mid-range",
+    "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+    "area": "City Center (near Thung Si Mueang Park)",
+    "description": "A well-positioned mid-range hotel within walking distance of Thung Si Mueang Park — the Candle Festival venue and center of Ubon's cultural life. During the festival, guests can walk to the parade route in 5 minutes. Rooms are clean and comfortable with the expected mid-range amenities. The hotel's location near the park means it's also convenient for the National Museum and temple circuit. On-site parking for travelers who've rented a car for day trips.",
+    "highlights": [
+      "5-minute walk to Thung Si Mueang Park and Candle Festival venue",
+      "Walking distance to Wat Phra That Nong Bua and National Museum",
+      "On-site parking for day-trip car renters"
+    ],
+    "reviewScore": "3.9/5 TripAdvisor",
+    "bestFor": [
+      "Candle Festival visitors",
+      "temple-circuit travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/ubon-ratchathani.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNakhon%2520Luang%2520Hotel%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Ratchathani Hotel",
+      "category": "mid-range",
+      "priceRange": "900-1,600 THB/night (~$25-45 USD)",
+      "area": "City Center (Kheuan Thani Road)",
+      "description": "A well-established mid-range hotel on Kheuan Thani Road, one of Ubon's main commercial streets. Clean, spacious rooms with reliable AC, hot water, and free Wi-Fi. The hotel has an on-site restaurant serving both Thai and Western breakfast. Central location within walking distance of the Ubon Ratchathani National Museum, Thung Si Mueang Park (1 km), and several temple-viewing routes. Popular with Thai families and domestic business travelers.",
+      "highlights": [
+        "Central location close to main temples and Thung Si Mueang Park",
+        "On-site restaurant for convenient breakfast",
+        "Spacious rooms at good value for the location"
+      ],
+      "reviewScore": "3.8/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "domestic travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g656472-Ubon_Ratchathani_Ubon_Ratchathani_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRatchathani%2520Hotel%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    },
+    {
+      "name": "Sunee Grand Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,000 THB/night (~$34-56 USD)",
+      "area": "City Center (Jaeng Sanit Road)",
+      "description": "One of Ubon's most popular mid-range hotels, located near the main commercial area on Jaeng Sanit Road. Comfortable rooms with flat-screen TVs, minibar, and modern bathrooms. The hotel has a fitness center, coffee shop, and an on-site restaurant. Business-oriented but equally suited to leisure travelers. The location is central for accessing temples, the national museum, and the night market by tuk-tuk.",
+      "highlights": [
+        "Fitness center and coffee shop on-site",
+        "Modern rooms with reliable AC and Wi-Fi",
+        "Central location with easy tuk-tuk access to all major sights"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "couples",
+        "first-time Ubon visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g656472-Ubon_Ratchathani_Ubon_Ratchathani_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSunee%2520Grand%2520Hotel%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    },
+    {
+      "name": "Rapeepan Ville Hotel",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "City Center (near Ubon Night Market)",
+      "description": "A consistently well-reviewed mid-range hotel positioned conveniently near shopping areas and the Ratchabut Road night market. Buffet breakfast and dinner service on-site, comfortable rooms with good insulation from street noise, and helpful staff who speak workable English. The hotel is popular during the Candle Festival period — book 3-4 months ahead for July dates. Room rates are genuinely good value for the standard.",
+      "highlights": [
+        "Buffet breakfast and dinner available on-site",
+        "Near Ratchabut Road night market and shopping areas",
+        "Good English-speaking staff for trip planning assistance"
+      ],
+      "reviewScore": "4.1/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "Candle Festival visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g656472-Ubon_Ratchathani_Ubon_Ratchathani_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRapeepan%2520Ville%2520Hotel%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Ubon Ratchathani safe for tourists?",
+    "What is Ubon Ratchathani famous for?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Nakhon Luang Hotel without knowing its proximity to festival crowds can lead to noisy nights during the Candle Festival.",
+    "intro": "Nakhon Luang Hotel offers clean, comfortable mid-range rooms with basic amenities in Ubon Ratchathani's city center, just steps from Thung Si Mueang Park. It's ideal for Candle Festival visitors and those exploring the temple circuit on foot.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Candle Festival attendees",
+      "standout": "location",
+      "noGoFor": "Luxury seekers"
+    },
+    "whyBook": [
+      "5-minute walk to Thung Si Mueang Park for easy festival access",
+      "Walking distance to National Museum and Wat Phra That Nong Bua",
+      "On-site parking available for car renters on day trips",
+      "Clean rooms with reliable mid-range comforts like AC"
+    ],
+    "whyNotBook": [
+      "No pool or advanced amenities beyond basic mid-range setup",
+      "Rooms may face park and pick up festival noise at night",
+      "Limited on-site dining options, requiring walks to nearby eateries",
+      "3.9/5 score indicates inconsistent service during peak events",
+      "Parking spaces fill quickly during high-season temple visits"
+    ],
+    "skipIf": "Skip if you're seeking quiet stays away from cultural event hubs.",
+    "detailedReview": "Checking into Nakhon Luang Hotel feels straightforward and unpretentious, with a simple lobby that reflects its mid-range status in Ubon Ratchathani's city center. Rooms deliver on cleanliness and comfort, featuring the standard amenities like air conditioning, comfortable beds, and en-suite bathrooms expected at this level—no frills, but functional for short stays. The standout here is the location's convenience, allowing guests to step out for a 5-minute walk to Thung Si Mueang Park, the heart of the Candle Festival where parades and cultural events unfold. On-site parking is a practical perk for those renting cars to explore nearby temples or the National Museum, which is within easy walking distance. Food quality is basic; there's no mention of an extensive restaurant, so breakfast might be simple or off-site, with guests often heading to park-area vendors for local Thai dishes. Service style is friendly but efficient, suited to independent travelers rather than those wanting personalized attention. Typical guests include festival-goers in their 30s-50s, families on cultural trips, and budget-conscious explorers circling temples like Wat Phra That Nong Bua. Overall, it's a reliable base for active itineraries, though the 3.9/5 TripAdvisor score suggests occasional lapses in maintenance during busy periods. At 1,800-3,000 THB per night, it prioritizes position over luxury, making it a solid pick for those prioritizing walkability to Ubon's cultural core.",
+    "locationReality": "Nakhon Luang Hotel sits in the city center near Thung Si Mueang Park, putting the Candle Festival venue and parade route just a 5-minute walk away. The National Museum and Wat Phra That Nong Bua are also within 10-15 minutes on foot, ideal for temple-circuit travelers. For farther spots like the night market, expect a 10-15 minute Grab ride costing around 100-150 THB.",
+    "localSignals": [
+      "5-minute walk to Thung Si Mueang Park",
+      "Walking distance (10-15 minutes) to National Museum",
+      "On-site parking available",
+      "Near temple circuit including Wat Phra That Nong Bua",
+      "City center location with nearby commercial streets"
+    ],
+    "travellerNote": "Guests often praise the convenient location near Thung Si Mueang Park and clean rooms but note occasional noise from festival activities and basic amenities lacking extras like a pool.",
+    "bookingTips": [
+      "Request rooms away from the park side to minimize festival noise",
+      "Book via Agoda for Thailand-specific deals on mid-range hotels",
+      "Prices spike in July during Candle Festival—book 2-3 months ahead",
+      "Verify on-site parking availability before arrival for car renters",
+      "Confirm breakfast inclusion as it's not standard in mid-range listings"
+    ],
+    "similarHotels": [
+      {
+        "name": "Ratchathani Hotel",
+        "howDifferent": "Offers cheaper rates on a commercial street but lacks direct park access."
+      },
+      {
+        "name": "Sunee Grand Hotel",
+        "howDifferent": "Positioned near shopping areas with flat-screen TVs, farther from cultural sites."
+      },
+      {
+        "name": "Rapeepan Ville Hotel",
+        "howDifferent": "Includes buffet breakfast near night market, less focused on temple proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Ubon Ratchathani safe for tourists?",
+        "a": "Yes, Ubon Ratchathani is generally safe for tourists, with low crime rates and friendly locals, though standard precautions apply during crowded festivals."
+      },
+      {
+        "q": "What is Ubon Ratchathani famous for?",
+        "a": "Ubon Ratchathani is renowned for its annual Candle Festival at Thung Si Mueang Park, featuring elaborate wax sculptures, parades, and Buddhist cultural events."
+      },
+      {
+        "q": "How far is Nakhon Luang Hotel from the airport?",
+        "a": "It's about 15-20 km from Ubon Ratchathani Airport, with a typical taxi or Grab ride costing 300-400 THB and taking 20-30 minutes."
+      },
+      {
+        "q": "Does Nakhon Luang Hotel have parking?",
+        "a": "Yes, on-site parking is available for guests, especially useful for day trips to nearby temples."
+      },
+      {
+        "q": "What amenities are in Nakhon Luang Hotel rooms?",
+        "a": "Rooms include clean setups with AC, comfortable beds, and basic mid-range features, but no pool or spa."
+      },
+      {
+        "q": "Best time to visit Ubon Ratchathani?",
+        "a": "July for the Candle Festival, or November-February for cooler weather ideal for temple exploring."
+      }
+    ],
+    "urgencyLine": "Rooms at Nakhon Luang Hotel with park views book out 1-2 months ahead for Candle Festival—check today.",
+    "methodology": "We rated Nakhon Luang Hotel based on location convenience, room quality, and value from TripAdvisor scores and descriptions. We weighted location highest because Ubon's attractions like Thung Si Mueang Park are walkable, suiting cultural travelers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nakhon Luang Hotel Review (2026)",
+    "metaDescription": "Nakhon Luang Hotel in Ubon Ratchathani offers mid-range comfort near Thung Si Mueang Park for Candle Festival access, with on-site parking. Note basic amenities and potential festival noise. Book for temple trips today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:48:45.735Z"
+}

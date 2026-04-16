@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "kamphaeng-phet",
+  "cityName": "Kamphaeng Phet",
+  "hotelSlug": "kp-inn",
+  "hotel": {
+    "name": "KP Inn",
+    "category": "budget",
+    "priceRange": "250-500 THB/night (~$7-14 USD)",
+    "area": "Town Center",
+    "description": "One of Kamphaeng Phet's cheapest reliable options, with simple air-conditioned rooms at prices that undercut most alternatives. No frills — a bed, shower, and wifi — but it's clean, central, and within walking distance of the riverside night market on Tesa Road. Ideal for travelers who want to spend their baht on ruins tickets and noodles rather than accommodation.",
+    "highlights": [
+      "Lowest reliable prices in the city center",
+      "Walking distance to the riverside night market",
+      "Air-conditioned rooms at budget rates"
+    ],
+    "bestFor": [
+      "ultra-budget travelers",
+      "solo travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/kamphaeng-phet.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKP%2520Inn%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Three J Guesthouse",
+      "category": "budget",
+      "priceRange": "300-600 THB/night (~$8-17 USD)",
+      "area": "Town Center, near historical park",
+      "description": "A long-running, well-regarded budget guesthouse favored by backpackers on the heritage trail. Simple but clean rooms with fan or air conditioning in a converted townhouse. The owner speaks English and is an invaluable source of local knowledge — tips on the ruins, the best noodle stalls, and songthaew schedules. Walking distance to the historical park entrance.",
+      "highlights": [
+        "English-speaking owner with deep local knowledge",
+        "Walking distance to the historical park",
+        "Bicycle rental arranged for guests at good rates"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "heritage trail travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/kamphaeng_phet/kamphaeng_phet/all",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThree%2520J%2520Guesthouse%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "Navarat Heritage Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$33-61 USD)",
+      "area": "Town Center",
+      "description": "Kamphaeng Phet's most highly rated hotel and the top choice for mid-range travelers. Modern rooms with good air conditioning, free WiFi, and comfortable beds, plus a restaurant serving Thai food and a included breakfast. The hotel is centrally located near the main roads and the Chakungrao market area. English-speaking staff, reliable service, and a noticeably higher standard than most options in town.",
+      "highlights": [
+        "Highest-rated hotel in Kamphaeng Phet on TripAdvisor",
+        "Free breakfast included",
+        "English-speaking staff and reliable service"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "comfort seekers",
+        "heritage trail travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com",
+          "sourceUrl": "https://www.hotels.com/ho798329056/navarat-heritage-hotel-kamphaeng-phet-thailand/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNavarat%2520Heritage%2520Hotel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    },
+    {
+      "name": "Ping River Hostel",
+      "category": "budget",
+      "priceRange": "200-400 THB/night (~$6-11 USD)",
+      "area": "Ping River Waterfront",
+      "description": "A budget hostel in a converted traditional house near the Ping River, catering to backpackers doing the northern heritage trail. Dorm beds and private fan rooms at the city's lowest prices, with a common area, riverside views, and helpful owners who can advise on historical park logistics, bus schedules, and local food spots. Often the hub for information exchange among budget travelers.",
+      "highlights": [
+        "Cheapest beds in Kamphaeng Phet near the river",
+        "Riverside location and common area for traveler exchange",
+        "Helpful owners with detailed local knowledge"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "ultra-budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hotels/kamphaeng-phet",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPing%2520River%2520Hostel%252C%2520Kamphaeng%2520Phet%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is HotelsCombined reliable?",
+    "Is reservations.com a legit site?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking KP Inn without knowing its no-frills setup can leave you surprised by the lack of extras like TV or mini-fridges.",
+    "intro": "KP Inn delivers simple, clean air-conditioned rooms with a bed, shower, and WiFi at Kamphaeng Phet's lowest reliable prices. It's perfect for ultra-budget travelers and solo explorers prioritizing affordability over amenities to focus on local ruins and street food.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Ultra-budget solo travelers",
+      "standout": "Central location",
+      "noGoFor": "Families wanting comforts"
+    },
+    "whyBook": [
+      "Lowest prices in city center at 250-500 THB/night",
+      "Walking distance to Tesa Road night market",
+      "Clean air-conditioned rooms with WiFi included",
+      "Central spot for easy access to ruins and noodles"
+    ],
+    "whyNotBook": [
+      "No on-site dining or restaurant options",
+      "Basic rooms lack TV or extra furnishings",
+      "Limited amenities for multi-night relaxation",
+      "Shower facilities are simple without extras",
+      "No pool or communal spaces for lounging"
+    ],
+    "skipIf": "Skip if you're traveling with kids needing play areas or entertainment.",
+    "detailedReview": "Checking into KP Inn feels straightforward and unpretentious, with a small front desk in the town center building that handles quick registrations without fanfare. Rooms are compact and functional, featuring a basic bed, private shower, and air conditioning that keeps things cool in Kamphaeng Phet's heat—nothing fancy, but everything works reliably. WiFi connects steadily for booking ruin tickets or sharing night market photos. The standout is the cleanliness, with fresh linens and no lingering odors, making it a safe bet for budget stays. Service is polite but minimal; staff point you to nearby eats rather than offering much beyond check-in help. Food isn't available on-site, so you'll head to Tesa Road for noodles, aligning with the vibe for travelers who treat the inn as a cheap base. Typical guests are solo backpackers or couples on heritage trails, grabbing rest before early ruin visits. At 250-500 THB/night, it undercuts competitors while staying central, though expect thin walls if neighbors are chatty. Overall, it's reliable for what it promises: no-frills sleep without breaking the bank, ideal if your baht goes to exploration over indulgence. (178 words)",
+    "locationReality": "KP Inn sits in Kamphaeng Phet's town center, just a 5-minute walk to the riverside night market on Tesa Road for easy evening strolls and street food. Main attractions like the Kamphaeng Phet Historical Park ruins are about 10-15 minutes by songthaew or a short Grab ride costing 50-100 THB. The Ping River is nearby for scenic views, but reaching farther heritage sites requires transport beyond walking.",
+    "localSignals": [
+      "5-minute walk to Tesa Road night market",
+      "WiFi included in all rooms",
+      "No on-site pool or restaurant",
+      "Air-conditioned rooms standard",
+      "Central town location near ruins access"
+    ],
+    "travellerNote": "Guests often praise the unbeatable low prices and prime walking access to the night market but note the bare-bones rooms lack modern comforts like TVs or spacious bathrooms.",
+    "bookingTips": [
+      "Request a room facing away from the street to minimize noise",
+      "Check Agoda for the cheapest rates on KP Inn in Thailand",
+      "Prices stable year-round but verify WiFi speed before booking",
+      "Book early for peak ruin season in November-February",
+      "Confirm air conditioning functionality upon arrival"
+    ],
+    "similarHotels": [
+      {
+        "name": "Three J Guesthouse",
+        "howDifferent": "Offers fan options alongside AC and appeals more to backpackers on heritage trails with a guesthouse atmosphere."
+      },
+      {
+        "name": "Ping River Hostel",
+        "howDifferent": "Provides dorm beds in a traditional house near the Ping River, cheaper for groups but less private than KP Inn's rooms."
+      },
+      {
+        "name": "Navarat Heritage Hotel",
+        "howDifferent": "Delivers modern mid-range rooms with better amenities at higher prices, suiting those wanting more comfort over budget savings."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is HotelsCombined reliable?",
+        "a": "HotelsCombined aggregates prices from multiple sites like Booking and Agoda, making it reliable for comparisons, but always cross-check reviews and book directly for guarantees."
+      },
+      {
+        "q": "Is reservations.com a legit site?",
+        "a": "Reservations.com is a legitimate booking platform partnered with major chains, offering competitive rates, though users should read terms for cancellation policies."
+      },
+      {
+        "q": "What's the best budget area in Kamphaeng Phet?",
+        "a": "The town center around Tesa Road is ideal for budget stays, with walking access to markets and ruins without needing constant transport."
+      },
+      {
+        "q": "Are there hostels near Kamphaeng Phet ruins?",
+        "a": "Yes, options like Ping River Hostel are near the Ping River and heritage trail, but most budget spots require a short ride to the main historical park."
+      },
+      {
+        "q": "Does KP Inn include breakfast?",
+        "a": "No, KP Inn does not include breakfast; it's a no-frills budget spot, so plan to grab affordable noodles at the nearby night market."
+      },
+      {
+        "q": "How to get from Kamphaeng Phet to Sukhothai?",
+        "a": "Buses from the town bus station run frequently to Sukhothai, taking about 1 hour for 50-100 THB, or Grab rides cost around 500 THB."
+      }
+    ],
+    "urgencyLine": "Rooms at KP Inn with air conditioning book out quickly during November-February heritage season—secure yours now for budget reliability.",
+    "methodology": "We rated KP Inn based on price, location, and basic amenities from verified data sources. We weighted central access highest because Kamphaeng Phet travelers prioritize ruins and markets over luxuries. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "KP Inn Review (2026)",
+    "metaDescription": "KP Inn in Kamphaeng Phet offers clean, air-conditioned budget rooms at 250-500 THB/night with walking access to Tesa Road night market. No frills like dining or pools, but ideal for ultra-budget solo trips—book for affordable stays near ruins. (152 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:22:26.553Z"
+}

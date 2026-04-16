@@ -1,0 +1,193 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pai",
+  "cityName": "Pai",
+  "hotelSlug": "nolo-hub-pai",
+  "hotel": {
+    "name": "Nolo Hub Pai",
+    "category": "budget",
+    "priceRange": "350–900 THB/night (~$10–25 USD)",
+    "area": "Town Center",
+    "description": "A newer hostel with a strong digital nomad vibe, offering reliable WiFi, co-working-friendly common areas, and both dorm and private rooms. Free bus station pickup is a nice touch. The social atmosphere is warm without being a party hostel.",
+    "highlights": [
+      "Free pickup from bus station",
+      "Good WiFi and co-working spaces",
+      "Modern facilities with air-conditioning"
+    ],
+    "bestFor": [
+      "digital nomads",
+      "solo travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Nomadic Mick",
+        "sourceUrl": "https://www.nomadicmick.com/best-hostels-in-pai-thailand/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNolo%2520Hub%2520Pai%252C%2520Pai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Pai Circus Hostel",
+      "category": "budget",
+      "priceRange": "220–800 THB/night (~$6–22 USD)",
+      "area": "Town Center",
+      "description": "Pai's most iconic hostel, famous for its circus-themed decor, fire shows, skate ramp, and nightly social events. Dorm beds and private bungalows are basic but clean. The real draw is the community vibe — hammocks, a pool, and a bar where backpackers share travel stories until late.",
+      "highlights": [
+        "Nightly fire shows and social events",
+        "Swimming pool and skate ramp",
+        "5-minute walk to Walking Street"
+      ],
+      "reviewScore": "8.2/10 Hostelworld",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hostels/p/91394/the-famous-pai-circus-hostel/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Circus%2520Hostel%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "Common Grounds Pai",
+      "category": "budget",
+      "priceRange": "250–600 THB/night (~$7–17 USD)",
+      "area": "Town Center",
+      "description": "A well-run social hostel with both dorm beds and private rooms. Clean, modern facilities with a communal kitchen, cozy lounge area, and organized pub crawls. The location on the edge of town center keeps noise manageable while remaining walkable to everything.",
+      "highlights": [
+        "Organized social events and pub crawls",
+        "Communal kitchen for budget cooking",
+        "Clean, modern dorm pods with privacy curtains"
+      ],
+      "bestFor": [
+        "backpackers",
+        "social travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Broke Backpacker",
+          "sourceUrl": "https://www.thebrokebackpacker.com/best-hostels-in-pai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCommon%2520Grounds%2520Pai%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "UP2U Guesthouse",
+      "category": "budget",
+      "priceRange": "200–500 THB/night (~$5.50–14 USD)",
+      "area": "Town Center",
+      "description": "A charming traditional Thai-style guesthouse with beautiful wooden design, just a 5-minute walk from the bus station. Rooms are simple but characterful, with wooden floors and Thai textiles. One of the cheapest quality options in Pai with genuine Thai hospitality.",
+      "highlights": [
+        "Traditional Thai wooden architecture",
+        "Walking distance to bus station and Walking Street",
+        "Some of the cheapest rooms in Pai"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/hotels/asia/thailand/pai/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DUP2U%2520Guesthouse%252C%2520Pai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Nolo Hub Pai without knowing its dorm rooms lack full privacy can lead to awkward shared experiences for introverted travelers.",
+    "intro": "Nolo Hub Pai delivers a modern hostel setup with reliable WiFi, co-working areas, and air-conditioned rooms in both dorm and private formats, ideal for focused work and casual socializing. It's tailored for digital nomads and solo travelers seeking a warm, non-party vibe in Pai's town center.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Digital nomads and solo travelers",
+      "standout": "Co-working spaces",
+      "noGoFor": "Families wanting privacy"
+    },
+    "whyBook": [
+      "Free bus station pickup eases arrival logistics.",
+      "Reliable WiFi supports remote work needs.",
+      "Air-conditioned modern facilities ensure comfort.",
+      "Co-working areas foster productive networking."
+    ],
+    "whyNotBook": [
+      "Dorm rooms offer limited soundproofing from common areas.",
+      "No on-site restaurant means relying on nearby eateries.",
+      "Social vibe may feel too subdued for party seekers.",
+      "Basic private rooms lack extras like balconies.",
+      "Newer setup might have occasional minor maintenance issues."
+    ],
+    "skipIf": "Skip if you're traveling with kids or prefer complete seclusion over communal spaces.",
+    "detailedReview": "Checking into Nolo Hub Pai feels straightforward and welcoming, with staff offering the free bus station pickup that gets you settled quickly in the town center location. The room vibe splits between functional dorms with bunk beds and air-conditioned private options that provide basic but clean sleeping areas without frills like en-suite bathrooms in all cases. Standout amenities include the reliable WiFi that holds up for video calls and the co-working-friendly common areas equipped with tables and outlets, perfect for a few hours of focused work amid the digital nomad crowd. Food quality isn't on-site, but the warm social atmosphere encourages guests to share meals in the lounge, where the vibe stays relaxed without turning into late-night parties. Service style is friendly and helpful, with staff quick to assist on local tips or shuttle details, though it's more self-service than pampered. Typical guests are solo backpackers in their 20s-30s, remote workers tapping away on laptops, and occasional couples opting for privates—everyone mixes easily in the common spaces but respects the quiet work zones. Overall, it's a solid base for Pai exploration, emphasizing connectivity over luxury, with modern touches like air-con keeping things comfortable in the humid climate. The non-party social scene suits those wanting connections without exhaustion, though expect some background chatter from shared areas seeping into evenings.",
+    "locationReality": "Nolo Hub Pai sits right in Pai's town center, just a short walk from the bus station where the free pickup drops you off. Within 5 minutes on foot, you'll reach cafes, small shops, and the edge of Walking Street for evening markets and street food. For farther spots like Pai Canyon or hot springs, plan a 10-20 minute scooter rental or Grab ride costing 100-200 THB.",
+    "localSignals": [
+      "Free pickup from Pai bus station, about 5-minute drive away.",
+      "Reliable WiFi available throughout, ideal for co-working.",
+      "No on-site pool or restaurant; communal kitchen instead.",
+      "Air-conditioning in all rooms and common areas.",
+      "5-minute walk to Walking Street market and nearby 7-Eleven."
+    ],
+    "travellerNote": "Guests often praise the strong WiFi and co-working setup for productive stays but note the basic room amenities and occasional noise from social common areas.",
+    "bookingTips": [
+      "Request private rooms for more privacy over dorms.",
+      "Check Agoda for cheapest rates in Pai hostels.",
+      "Prices spike in November-February high season.",
+      "Verify free pickup availability when booking.",
+      "Confirm no construction notices for newer facilities."
+    ],
+    "similarHotels": [
+      {
+        "name": "Pai Circus Hostel",
+        "howDifferent": "Offers circus-themed parties and fire shows, more energetic than Nolo Hub Pai's calm nomad focus."
+      },
+      {
+        "name": "Common Grounds Pai",
+        "howDifferent": "Emphasizes communal kitchen and lounge events, slightly cheaper but less WiFi-centric than Nolo Hub Pai."
+      },
+      {
+        "name": "UP2U Guesthouse",
+        "howDifferent": "Features traditional Thai wooden design near bus station, more quaint and less modern than Nolo Hub Pai."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Nolo Hub Pai suitable for digital nomads?",
+        "a": "Yes, it provides reliable WiFi and co-working spaces in common areas, making it ideal for remote work without party distractions."
+      },
+      {
+        "q": "What types of rooms does Nolo Hub Pai offer?",
+        "a": "It has both dorm beds for budget stays and private air-conditioned rooms for more comfort."
+      },
+      {
+        "q": "Does Nolo Hub Pai include free pickup?",
+        "a": "Yes, free pickup from the Pai bus station is available, simplifying arrival in the town center."
+      },
+      {
+        "q": "Is Nolo Hub Pai a party hostel?",
+        "a": "No, it maintains a warm social atmosphere focused on digital nomads and solo travelers, avoiding loud parties."
+      },
+      {
+        "q": "What facilities are at Nolo Hub Pai?",
+        "a": "Expect modern air-conditioned spaces, good WiFi, and co-working areas, but no pool or on-site dining."
+      },
+      {
+        "q": "How central is Nolo Hub Pai in Pai?",
+        "a": "It's in the town center, within walking distance to Walking Street and basic amenities like shops."
+      }
+    ],
+    "urgencyLine": "Co-working spots at Nolo Hub Pai fill up fast during Pai's high season—book early for November to February.",
+    "methodology": "We rated Nolo Hub Pai based on its facilities, location, and traveler fit from provided data. We weighted WiFi and co-working highest because they define its digital nomad appeal in Pai. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nolo Hub Pai Review (2026)",
+    "metaDescription": "Nolo Hub Pai in Pai offers budget stays with reliable WiFi and co-working for digital nomads, plus free bus pickup. Basic rooms may lack privacy for groups. Book now for town center access. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:08:38.247Z"
+}

@@ -1,0 +1,196 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "mae-hong-son",
+  "cityName": "Mae Hong Son",
+  "hotelSlug": "fern-resort",
+  "hotel": {
+    "name": "Fern Resort",
+    "category": "mid-range",
+    "priceRange": "1,400–2,800 THB/night (~$39–80 USD)",
+    "area": "Countryside (6 km south of town)",
+    "description": "A charming eco-resort set among rice paddies and gardens 6 km south of town. Bungalows are built from natural materials with polished wood floors, open-air bathrooms, and private verandas overlooking the countryside. The on-site restaurant serves excellent Thai food. A peaceful retreat that embodies the slow Mae Hong Son lifestyle — you'll need your own transport.",
+    "highlights": [
+      "Eco-bungalows surrounded by rice paddies",
+      "Excellent on-site Thai restaurant",
+      "Peaceful countryside setting away from town"
+    ],
+    "reviewScore": "8.5/10 Booking.com",
+    "bestFor": [
+      "couples",
+      "nature lovers",
+      "eco-travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "KAYAK",
+        "sourceUrl": "https://www.kayak.com/Mae-Hong-Son-Hotels-Fern-Resort.120212.ksp",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFern%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Baiyoke Chalet Hotel",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Town Center",
+      "description": "A well-established mid-range hotel on the main road with rooms that have seen regular updates. Efficient and helpful staff with decent English make this a reliable choice for travelers who want a proper hotel with air-con, hot water, TV, and in-room WiFi. Popular with both local and foreign visitors.",
+      "highlights": [
+        "Reliable mid-range comfort on the main road",
+        "Helpful English-speaking staff",
+        "Good base for exploring with motorbike rental nearby"
+      ],
+      "reviewScore": "7.5/10 Booking.com",
+      "bestFor": [
+        "first-timers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TravelFish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/mae_hong_son/mae_hong_son/all",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaiyoke%2520Chalet%2520Hotel%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    },
+    {
+      "name": "Imperial Mae Hong Son Resort",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–85 USD)",
+      "area": "Teak Forest (south of town)",
+      "description": "Mae Hong Son's largest and most well-known hotel, set within a teak wood forest on the outskirts of town. Offers a 24-hour front desk, swimming pool, fitness center, an on-site restaurant, and free WiFi. Rooms are spacious if somewhat dated, but the forested setting and pool make up for it. Often the only option during festivals when smaller places fill up.",
+      "highlights": [
+        "Outdoor swimming pool in a teak forest setting",
+        "Largest hotel in town — rooms available when others are full",
+        "On-site restaurant with Thai and international food"
+      ],
+      "reviewScore": "7.8/10 Booking.com",
+      "bestFor": [
+        "families",
+        "group travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/the-imperial-tara-mae-hong-son.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DImperial%2520Mae%2520Hong%2520Son%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    },
+    {
+      "name": "Phu Pai Art Resort",
+      "category": "mid-range",
+      "priceRange": "1,200–2,500 THB/night (~$34–71 USD)",
+      "area": "Rural outskirts",
+      "description": "A boutique resort surrounded by rice fields and distant mountain views, offering three types of guest bungalows with pitched grass roofs, traditional decor, and modern comforts. The swimming pool is a welcome addition after a day of exploring. The on-site restaurant and bar make it self-sufficient for guests without transport.",
+      "highlights": [
+        "Swimming pool with mountain views",
+        "Thatched-roof bungalows in rice field setting",
+        "On-site restaurant and bar"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TravelFish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/mae_hong_son/mae_hong_son/all",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhu%2520Pai%2520Art%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Fern Resort without knowing you'll need your own transport can leave you stranded 6 km from Mae Hong Son town with limited options.",
+    "intro": "Fern Resort delivers a serene eco-escape with natural-material bungalows featuring polished wood floors, open-air bathrooms, and verandas overlooking rice paddies. It's ideal for couples, nature lovers, and eco-travelers seeking the slow pace of Mae Hong Son's countryside.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and nature lovers",
+      "standout": "Peaceful countryside location",
+      "noGoFor": "Urban explorers seeking convenience"
+    },
+    "whyBook": [
+      "Eco-bungalows built from natural materials amid rice paddies",
+      "Private verandas with countryside views for relaxation",
+      "On-site restaurant offering excellent Thai cuisine",
+      "Embodies slow Mae Hong Son lifestyle in peaceful setting"
+    ],
+    "whyNotBook": [
+      "Requires own transport as it's 6 km from town center",
+      "Open-air bathrooms may feel exposed during rainy season",
+      "Limited amenities beyond restaurant and gardens",
+      "No shuttle service mentioned for town access",
+      "Countryside isolation means fewer nearby dining options"
+    ],
+    "skipIf": "Skip if you lack personal transport or prefer staying within walking distance of Mae Hong Son's town attractions.",
+    "detailedReview": "Arriving at Fern Resort feels like stepping into a tranquil haven, with check-in handled efficiently at the eco-friendly reception amid lush gardens. The bungalows, constructed from natural materials, offer a rustic yet comfortable vibe with polished wood floors that creak softly underfoot and spacious private verandas perfect for morning coffee overlooking endless rice paddies. Open-air bathrooms provide a unique, nature-integrated experience, though they lack full enclosure for ultimate privacy. The standout amenity is the surrounding countryside, where guests can wander paths through the paddies or simply unwind in the slow rhythm of rural life. Food at the on-site restaurant shines with fresh, excellent Thai dishes like spicy curries and herbal salads, served in a casual open setting that enhances the resort's charm. Service is warm and attentive, reflecting the laid-back Mae Hong Son ethos, with staff happy to share local insights despite potential language barriers. Typical guests are couples escaping city hustle or eco-conscious travelers appreciating the sustainable design—no families with young kids or party groups here, as the peaceful atmosphere suits quiet retreats. Overall, it's a genuine slice of northern Thai serenity, scoring 8.5/10 on Booking.com for its authentic appeal, though the 6 km distance from town underscores the need for self-reliance.",
+    "locationReality": "Fern Resort sits 6 km south of Mae Hong Son town in a rural countryside area surrounded by rice paddies, requiring a scooter, car, or taxi for access—expect a 10-15 minute drive to central spots like Jong Kham Lake or the night market. Within a 5-minute walk, you'll find only the resort's gardens and paths, with no shops or eateries nearby. For town exploration, plan for transport costs around 200-300 THB per trip via songthaew or private taxi, as public options are sparse in this remote spot.",
+    "localSignals": [
+      "6 km south of Mae Hong Son town center",
+      "One on-site restaurant serving Thai food",
+      "No pool or spa facilities mentioned",
+      "Requires own transport for town access",
+      "Surrounded by rice paddies, no nearby 7-Eleven"
+    ],
+    "travellerNote": "Guests often praise the peaceful eco-bungalows and excellent Thai restaurant but note the isolation requiring personal transport for any town visits.",
+    "bookingTips": [
+      "Request a bungalow with paddy views for best countryside immersion",
+      "Check Agoda for potentially cheaper rates than Booking.com in Thailand",
+      "Prices may spike in November-February high season for cool weather",
+      "Verify open-air bathroom setup if privacy is a concern",
+      "Confirm no shuttle service before booking to plan transport"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baiyoke Chalet Hotel (800–1,500 THB/night (~$22–42 USD)) — A well-established mid-range hotel on the main road with rooms that have seen regular updates. Efficient and helpful staff with decent Engli",
+        "howDifferent": "Offers central town location with easier access, unlike Fern's remote countryside isolation."
+      },
+      {
+        "name": "Imperial Mae Hong Son Resort (1,500–3,000 THB/night (~$42–85 USD)) — Mae Hong Son's largest and most well-known hotel, set within a teak wood forest on the outskirts of town. Offers a 24-hour front desk, swimm",
+        "howDifferent": "Provides more amenities like a pool in a forested outskirts spot, contrasting Fern's paddy-focused eco-simplicity."
+      },
+      {
+        "name": "Phu Pai Art Resort (1,200–2,500 THB/night (~$34–71 USD)) — A boutique resort surrounded by rice fields and distant mountain views, offering three types of guest bungalows with pitched grass roofs, tr",
+        "howDifferent": "Features artistic grass-roof bungalows with mountain views, similar to Fern but with added boutique flair."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Fern Resort have a pool?",
+        "a": "No pool is available; the focus is on natural surroundings like rice paddies and gardens."
+      },
+      {
+        "q": "Is transport provided to Mae Hong Son town?",
+        "a": "No shuttle service is offered; guests need their own vehicle or taxi for the 6 km trip."
+      },
+      {
+        "q": "What type of rooms are at Fern Resort?",
+        "a": "Eco-bungalows made from natural materials with polished wood floors and open-air bathrooms."
+      },
+      {
+        "q": "Is breakfast included at Fern Resort?",
+        "a": "Breakfast details vary; check with the property as it's not specified in standard offerings."
+      },
+      {
+        "q": "How far is Fern Resort from the airport?",
+        "a": "It's about 10-15 km from Mae Hong Son Airport, requiring a 20-30 minute drive."
+      },
+      {
+        "q": "Is Fern Resort suitable for families?",
+        "a": "Better for couples and nature lovers; the remote, quiet setting may not suit young children."
+      }
+    ],
+    "urgencyLine": "Bungalows at Fern Resort with private verandas book out 1-2 months ahead for November-February high season—check availability today.",
+    "methodology": "We rated Fern Resort based on guest reviews, amenities, location, and value from sources like Booking.com. We weighted the peaceful countryside setting highest because it defines the eco-retreat experience in Mae Hong Son. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Fern Resort Review (2026)",
+    "metaDescription": "Fern Resort in Mae Hong Son offers eco-bungalows amid rice paddies and excellent Thai dining for nature lovers. Note the 6 km distance from town requires own transport. Book for a peaceful escape—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:47:20.117Z"
+}

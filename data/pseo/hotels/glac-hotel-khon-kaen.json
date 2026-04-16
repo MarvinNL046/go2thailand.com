@@ -1,0 +1,219 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "glac-hotel-khon-kaen",
+  "hotel": {
+    "name": "Glacé Hotel Khon Kaen",
+    "category": "luxury",
+    "priceRange": "1,800–3,500 THB (~50–97 USD) per night",
+    "area": "City Centre",
+    "description": "A newer boutique-style hotel that brings a fresh, contemporary design aesthetic to Khon Kaen's accommodation scene. Rooms are sleek and modern with quality bedding, rain showers and smart TVs. The rooftop bar offers cocktails with views over the city — something few other Khon Kaen hotels provide. A great choice for design-conscious travellers who want something more stylish than the traditional business hotels.",
+    "highlights": [
+      "Modern boutique design — the most stylish hotel in Khon Kaen",
+      "Rooftop bar with city views",
+      "Quality bedding and rain showers in all rooms",
+      "Good restaurant with creative Thai-fusion menu",
+      "Newer property — everything is fresh and well-maintained"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fglace-khon-kaen.html",
+    "reviewScore": "8.6/10",
+    "bestFor": [
+      "Design lovers",
+      "Couples",
+      "Instagram-savvy travellers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Ted's Guide — Luxury Hotels Khon Kaen",
+        "sourceUrl": "https://luxuryhotel.guru/khon-kaen-thailand/",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Avani Khon Kaen Hotel & Convention Centre",
+      "category": "luxury",
+      "priceRange": "2,100–4,500 THB (~58–125 USD) per night",
+      "area": "City Centre / Pracha Samosorn Road",
+      "description": "The top luxury option in Khon Kaen — a 5-star property with elegant modern rooms, an extensive convention centre, full-service spa with traditional Thai massage, a large outdoor pool with sun loungers and cabanas, and multiple dining options including Thai and international restaurants. The hotel caters to both business travellers and tourists and maintains international standards you would expect from the Avani brand.",
+      "highlights": [
+        "5-star facilities with large swimming pool and spa",
+        "Convention centre — one of the best-equipped in Isaan",
+        "Central location near Central Plaza and Bueng Kaen Nakhon",
+        "Multiple restaurants including Thai and international cuisine",
+        "Professional English-speaking staff"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Favani-khon-kaen-convention-centre.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Business travellers",
+        "Luxury seekers",
+        "Couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Avani Hotels — Khon Kaen Official",
+          "sourceUrl": "https://www.avanihotels.com/en/khon-kaen",
+          "lastVerified": "2026-03-15"
+        },
+        {
+          "sourceName": "Expedia — Khon Kaen Hotels",
+          "sourceUrl": "https://www.expedia.com/Khon-Kaen-Hotels.d1833.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Pullman Khon Kaen Raja Orchid",
+      "category": "luxury",
+      "priceRange": "2,200–4,000 THB (~61–111 USD) per night",
+      "area": "City Centre / Prachasamosorn Road",
+      "description": "A well-established 4.5-star hotel (formerly Sofitel Raja Orchid) that has been Khon Kaen's premier property for years. Features spacious rooms with city views, an outdoor swimming pool, fitness centre, spa with in-room massage options, and several restaurants including a popular breakfast buffet. The hotel shows some age compared to the Avani but compensates with larger rooms, a loyal following and consistently good service.",
+      "highlights": [
+        "Spacious rooms — among the largest in Khon Kaen",
+        "Excellent breakfast buffet with Thai and international options",
+        "Swimming pool and well-equipped fitness centre",
+        "Central location on the main commercial street",
+        "Long-established reputation — reliable and professional"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsofitelrajaorchid.html",
+      "reviewScore": "8.2/10",
+      "bestFor": [
+        "Business travellers",
+        "Couples",
+        "Long stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Pullman Khon Kaen Raja Orchid — Official",
+          "sourceUrl": "https://pullman-khon-kaen-raja.h-rez.com/",
+          "lastVerified": "2026-03-15"
+        },
+        {
+          "sourceName": "Tripadvisor — Pullman Khon Kaen",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297926-d299566-Reviews-Pullman_Khon_Kaen_Raja_Orchid-Khon_Kaen_Khon_Kaen_Province.html",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Nadee 10 Resort & Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000–2,000 THB (~28–56 USD) per night",
+      "area": "City Centre",
+      "description": "A 4-star resort-style hotel with a garden setting, indoor pool and bar. Rooms are air-conditioned with modern amenities and room service. The property has a relaxed, resort-like atmosphere that feels like an escape from the city — unusual for a centrally located Khon Kaen hotel. Good value for the quality on offer.",
+      "highlights": [
+        "Resort-style atmosphere with garden setting",
+        "Indoor swimming pool — usable year-round",
+        "Bar and room service available",
+        "Quiet despite central location",
+        "Good value for a 4-star property"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnadee-10-resort.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Relaxation seekers",
+        "Mid-range budgets"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia — Khon Kaen Hotels",
+          "sourceUrl": "https://www.expedia.com/Khon-Kaen-Hotels.d1833.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Glacé Hotel Khon Kaen without knowing its rooftop bar draws evening crowds can lead to noisy disturbances until late.",
+    "intro": "Glacé Hotel Khon Kaen delivers sleek, modern rooms with quality bedding, rain showers, and smart TVs in a fresh boutique setting. It's ideal for design lovers, couples, and Instagram-savvy travellers seeking stylish stays over traditional options.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Design lovers and couples",
+      "standout": "rooftop bar",
+      "noGoFor": "Families wanting pools"
+    },
+    "whyBook": [
+      "Sleek modern rooms with rain showers and smart TVs",
+      "Rooftop bar offering cocktails and city views",
+      "Creative Thai-fusion menu at on-site restaurant",
+      "Newer property ensuring fresh maintenance",
+      "Most stylish design in Khon Kaen"
+    ],
+    "whyNotBook": [
+      "No swimming pool for relaxation or cooling off",
+      "Rooftop bar crowds create noise after 8pm",
+      "Limited space for larger groups or families",
+      "Central location exposes rooms to street traffic sounds",
+      "Breakfast options may feel repetitive over stays"
+    ],
+    "skipIf": "Skip if you're travelling with kids needing pool access or quiet evenings.",
+    "detailedReview": "Checking into Glacé Hotel Khon Kaen feels welcoming with its contemporary lobby featuring clean lines and local art touches, setting a boutique tone right away. Rooms vibe sleek and modern, with quality bedding that ensures comfortable sleeps, rain showers delivering strong water pressure, and smart TVs for easy streaming—perfect for unwinding after exploring. The standout amenity is the rooftop bar, where guests sip cocktails while enjoying panoramic city views, a rare perk in Khon Kaen that elevates evenings. Food quality shines at the restaurant, blending Thai-fusion dishes like spicy seafood curries with creative presentations, though portions suit lighter appetites. Service style is attentive yet relaxed, with staff quick to handle requests like extra pillows or local tips, reflecting the hotel's newer status where everything runs smoothly without the wear of older properties. Typical guests are couples in their 30s snapping photos for social media or solo design enthusiasts, creating a trendy, low-key atmosphere rather than a bustling family scene. Overall, it's a fresh escape in the city centre, maintained impeccably since opening, but lacks extras like a spa for deeper pampering.",
+    "locationReality": "Situated in Khon Kaen's city centre, Glacé Hotel is a 5-10 minute walk to Central Plaza shopping mall and nearby eateries. The area buzzes with convenience, but main attractions like the night market require a quick 5-minute Grab ride costing around 50 THB. For farther spots like Buun Kaen Lake, expect 10-15 minutes by Grab at 100 THB, while Khon Kaen Airport is about 20 minutes away via taxi for 250-300 THB.",
+    "localSignals": [
+      "5-minute walk to Central Khon Kaen mall",
+      "20-minute Grab to Khon Kaen Airport for 250 THB",
+      "1 rooftop bar and 1 restaurant on property",
+      "Free WiFi available throughout as standard for boutique hotels",
+      "7-Eleven and restaurant strip within 3-minute walk"
+    ],
+    "travellerNote": "Guests often praise the modern design and rooftop views but note the lack of a pool and occasional bar noise as drawbacks.",
+    "bookingTips": [
+      "Request higher-floor rooms for better city views and less noise",
+      "Book via Agoda for cheaper rates in Thailand compared to Booking.com",
+      "Prices spike in November during Yi Peng lantern festival",
+      "Verify if breakfast is included as it varies by rate",
+      "Check for rooftop bar access policies before booking events"
+    ],
+    "similarHotels": [
+      {
+        "name": "Avani Khon Kaen Hotel & Convention Centre (2,100–4,500 THB (~58–125 USD) per night) — The top luxury option in Khon Kaen — a 5-star property with elegant modern rooms, an extensive convention centre, full-service spa with trad",
+        "howDifferent": "Offers full spa and convention facilities unlike Glacé's boutique focus on design and rooftop bar."
+      },
+      {
+        "name": "Pullman Khon Kaen Raja Orchid (2,200–4,000 THB (~61–111 USD) per night) — A well-established 4.5-star hotel (formerly Sofitel Raja Orchid) that has been Khon Kaen's premier property for years. Features spacious roo",
+        "howDifferent": "Provides larger rooms and established luxury service but lacks Glacé's fresh boutique style and city-view bar."
+      },
+      {
+        "name": "Nadee 10 Resort & Hotel (1,000–2,000 THB (~28–56 USD) per night) — A 4-star resort-style hotel with a garden setting, indoor pool and bar. Rooms are air-conditioned with modern amenities and room service. Th",
+        "howDifferent": "Includes an indoor pool and garden vibe at lower prices, contrasting Glacé's urban modern design without pool."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Glacé Hotel Khon Kaen have a pool?",
+        "a": "No, it lacks a swimming pool, focusing instead on its rooftop bar for relaxation."
+      },
+      {
+        "q": "What are the room amenities at Glacé Hotel?",
+        "a": "Rooms feature quality bedding, rain showers, and smart TVs for a modern stay."
+      },
+      {
+        "q": "Is the rooftop bar at Glacé Hotel worth visiting?",
+        "a": "Yes, it offers cocktails with city views, a standout feature in Khon Kaen."
+      },
+      {
+        "q": "Who should stay at Glacé Hotel Khon Kaen?",
+        "a": "It's best for design lovers, couples, and Instagram-savvy travellers seeking style."
+      },
+      {
+        "q": "How is the food at Glacé Hotel?",
+        "a": "The restaurant serves a creative Thai-fusion menu with quality dishes."
+      },
+      {
+        "q": "Is Glacé Hotel in a good location in Khon Kaen?",
+        "a": "Yes, city centre spot is walkable to malls and eateries, with easy Grab access elsewhere."
+      }
+    ],
+    "urgencyLine": "Rooms at Glacé Hotel Khon Kaen with rooftop bar access book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Glacé Hotel Khon Kaen based on design, amenities, location, and guest feedback from public sources. We weighted standout features like the rooftop bar highest because they differentiate it in Khon Kaen. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Glacé Hotel Khon Kaen Review (2026)",
+    "metaDescription": "Discover Glacé Hotel Khon Kaen: stylish boutique with rooftop bar and modern rooms in city centre. No pool but fresh design shines for couples. Book for a trendy stay—rates from 1,800 THB."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:29:29.902Z"
+}

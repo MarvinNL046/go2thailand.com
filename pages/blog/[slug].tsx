@@ -31,6 +31,7 @@ import { getAllPosts, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '.
 import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
 import InlineEngagementCTAs from '../../components/blog/InlineEngagementCTAs';
 import BuyerIntentNextStep from '../../components/blog/BuyerIntentNextStep';
+import TripFunnelBlock from '../../components/blog/TripFunnelBlock';
 import BookingHeroCTA from '../../components/BookingHeroCTA';
 import { useSubId } from '../../lib/useSubId';
 
@@ -338,6 +339,15 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
                   {/* Inline Engagement CTAs — injected client-side into content */}
                   <InlineEngagementCTAs />
+
+                  {/* End-of-article multi-intent funnel — adapts to blog type */}
+                  <div className="mt-10">
+                    <TripFunnelBlock
+                      post={{ slug: post.slug, title: post.title, tags: post.tags, contentHtml: post.contentHtml }}
+                      locale={locale}
+                      placement="bottom"
+                    />
+                  </div>
 
                   {/* Sources */}
                   {post.sources && post.sources.length > 0 && (

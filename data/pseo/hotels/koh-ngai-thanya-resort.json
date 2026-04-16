@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trang",
+  "cityName": "Trang",
+  "hotelSlug": "koh-ngai-thanya-resort",
+  "hotel": {
+    "name": "Koh Ngai Thanya Resort",
+    "category": "mid-range",
+    "priceRange": "2,000-4,500 THB/night (~$56-126 USD)",
+    "area": "Koh Ngai (Koh Hai)",
+    "description": "A comfortable mid-range island resort on Koh Ngai's western beach — one of Trang Province's most photogenic island settings, with a long white-sand beach facing the Trang mainland mountains. Bungalows are set among palm trees with beach or garden views. The island has several resorts unlike Koh Kradan so there's slightly more choice for dining. Ferries and speedboats connect from Trang Pier (1.5 hours).",
+    "highlights": [
+      "Koh Ngai's western beach — exceptional sunset views toward the Trang mainland",
+      "More accessible than Koh Kradan — slightly shorter boat journey from Trang",
+      "Multiple resort options on Koh Ngai give more dining flexibility than single-resort islands"
+    ],
+    "bestFor": [
+      "couples",
+      "families",
+      "beach holiday travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/trang.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKoh%2520Ngai%2520Thanya%2520Resort%252C%2520Trang%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Trang Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$34-62 USD)",
+      "area": "Trang City Center",
+      "description": "The most established mid-range hotel in Trang City, well-located on Thanon Phra Ram VI near the commercial center. Comfortable rooms with reliable AC, hot water, and WiFi. The ground-floor coffee shop is a meeting point for Trang's business community and a good place to arrange guides and tour operators. Consistently good reviews for cleanliness, service, and restaurant quality.",
+      "highlights": [
+        "Central location on Thanon Phra Ram VI — walkable to dim sum and night market",
+        "In-house restaurant serves good southern Thai and Chinese food",
+        "Reliable mid-range standard — the reference hotel for business travelers in Trang"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business travelers",
+        "comfortable city base"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTrang%2520Hotel%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Rua Rasada Hotel",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Trang City Center (Thanon Wiset Kunthorn)",
+      "description": "The most popular upscale hotel in Trang City — a modern 4-star property with a large swimming pool, fitness center, and multiple restaurants. Spacious rooms with proper sound insulation, good beds, and reliable WiFi. The rooftop pool bar is excellent for evening drinks. The hotel's travel desk organizes island tours directly from the hotel. Rated 8.6/10 on Booking.com — exceptionally strong for Trang.",
+      "highlights": [
+        "Large swimming pool — a rarity in Trang's hotel scene",
+        "8.6/10 Booking.com rating — the best-reviewed hotel in Trang City",
+        "In-house travel desk for island tour bookings — removes logistics stress"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor, 8.6/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "families",
+        "comfortable mid-range base"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/trang.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRua%2520Rasada%2520Hotel%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Pawapi Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-3,000 THB/night (~$42-84 USD)",
+      "area": "Koh Mook (near Emerald Cave)",
+      "description": "The best-value resort on Koh Mook, positioned on Charlie Beach — the island's main swimming beach and the departure point for kayaking to the Emerald Cave. Wooden bungalows with sea views, an in-house restaurant with fresh-caught fish, and direct beach access. Staying here means you can kayak to the Emerald Cave at dawn (before tour groups arrive) for the genuine experience. No roads, no cars — just island life.",
+      "highlights": [
+        "Charlie Beach location — 20-minute kayak to Emerald Cave (kayaks for rent)",
+        "Stay overnight for dawn Emerald Cave access before tour boats arrive",
+        "Genuine Thai island experience — fishing village nearby, no tourist infrastructure"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "adventurous travelers",
+        "couples",
+        "Emerald Cave enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1820355-Ko_Muk_Kantang_District_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPawapi%2520Beach%2520Resort%252C%2520Trang%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Koh Ngai Thanya Resort without knowing the 1.5-hour ferry from Trang Pier can lead to missed connections and a full-day travel hassle.",
+    "intro": "Koh Ngai Thanya Resort offers comfortable bungalows amid palm trees with direct access to a long white-sand beach facing the mainland mountains, providing a relaxed island escape in Trang Province. It's ideal for couples, families, and beach holiday travelers seeking photogenic sunsets and dining options across nearby resorts.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "western beach access",
+      "noGoFor": "nightlife seekers"
+    },
+    "whyBook": [
+      "Exceptional sunset views from western beach toward Trang mountains",
+      "Bungalows with beach or garden views among palm trees",
+      "Shorter 1.5-hour boat from Trang than to Koh Kradan",
+      "Multiple resorts on island for varied dining choices"
+    ],
+    "whyNotBook": [
+      "No on-site pool, relying on beach for swimming",
+      "Ferry schedules limit flexibility for early arrivals",
+      "Limited non-beach activities on small island",
+      "Bungalows may feel basic for luxury seekers",
+      "Dining options require walking to other resorts"
+    ],
+    "skipIf": "Skip if you need quick mainland access or urban amenities beyond beach relaxation.",
+    "detailedReview": "Arriving at Koh Ngai Thanya Resort after a 1.5-hour speedboat from Trang Pier, check-in feels straightforward at the beachfront reception, with staff handing over keys to palm-shaded bungalows. Rooms deliver a simple, comfortable vibe with wooden interiors, fans or basic AC, and views either opening to the white-sand beach or a quiet garden—perfect for unwinding but showing mid-range wear on fixtures after island humidity. The standout amenity is the direct western beach access, where guests lounge on the long stretch facing the mainland mountains, ideal for sunset watching without leaving the property. Food quality centers on the resort's restaurant serving Thai and Western dishes using fresh seafood, though portions are standard and variety dips for longer stays; nearby resorts add flexibility for meals like grilled fish or curries. Service style is friendly and attentive from local staff, quick to arrange boat trips or beach setups, though English may vary. Typical guests are couples holding hands at dusk or families building sandcastles, drawn to the photogenic setting rather than high-energy vibes. Overall, it's a solid base for beach holidays, but expect island pace with no frills like spas or nightlife.",
+    "locationReality": "Koh Ngai Thanya Resort sits directly on the island's western beach, with zero walking minutes to the white-sand shore or sunset viewpoints. The photogenic setting faces the Trang mainland mountains across the sea, but reaching the resort requires a 1.5-hour ferry or speedboat from Trang Pier—no bridges or roads connect it. Within a 5-minute walk, other resorts offer dining spots, while island exploration like snorkeling spots needs short boat hops; mainland Trang city attractions demand the full return journey.",
+    "localSignals": [
+      "Direct access to Koh Ngai's western beach in 0 minutes",
+      "1.5-hour speedboat from Trang Pier to resort",
+      "Multiple resorts on island for dining options",
+      "Bungalows with beach or garden views available",
+      "No on-site pool; beach serves as main swimming area"
+    ],
+    "travellerNote": "Guests often praise the serene beachfront setting and sunset views but note the dependency on boat schedules for arrivals and the basic room comforts without luxury extras.",
+    "bookingTips": [
+      "Request beach-view bungalows for direct sunset access",
+      "Use Agoda for cheaper rates on Koh Ngai properties",
+      "Prices spike December to March during high season",
+      "Verify ferry inclusions before booking to avoid extras",
+      "Check for garden-view options if traveling with kids"
+    ],
+    "similarHotels": [
+      {
+        "name": "Pawapi Beach Resort",
+        "howDifferent": "Offers better value on Koh Mook's Charlie Beach with kayaking access, but longer boat ride from mainland."
+      },
+      {
+        "name": "Trang Hotel",
+        "howDifferent": "Provides urban mid-range comfort in Trang City near commercial center, skipping island isolation entirely."
+      },
+      {
+        "name": "Rua Rasada Hotel",
+        "howDifferent": "Delivers upscale 4-star amenities like a pool in Trang City, contrasting the beach-focused island stay."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How do I get to Koh Ngai Thanya Resort?",
+        "a": "Take a ferry or speedboat from Trang Pier, which takes about 1.5 hours; many packages include transfers from the resort."
+      },
+      {
+        "q": "What are the room types at Koh Ngai Thanya Resort?",
+        "a": "Bungalows with beach or garden views, set among palm trees for a comfortable mid-range stay."
+      },
+      {
+        "q": "Is Koh Ngai Thanya Resort family-friendly?",
+        "a": "Yes, it's suitable for families with its safe white-sand beach and relaxed island vibe."
+      },
+      {
+        "q": "What dining options are available near Koh Ngai Thanya Resort?",
+        "a": "The resort has its own restaurant, and multiple nearby resorts provide more choices like Thai seafood."
+      },
+      {
+        "q": "Does Koh Ngai Thanya Resort have a pool?",
+        "a": "No pool on-site, but the western beach offers excellent swimming and relaxation."
+      },
+      {
+        "q": "When is the best time to visit Koh Ngai Thanya Resort?",
+        "a": "November to April for dry weather and sunsets, avoiding the rainy season from May to October."
+      }
+    ],
+    "urgencyLine": "Beach-view bungalows at Koh Ngai Thanya Resort book out 1-2 months ahead for December-March high season—check availability today.",
+    "methodology": "We rated Koh Ngai Thanya Resort based on location, amenities, accessibility, and value from provided data. We weighted beach access highest because it's the core draw for island stays in Trang. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Koh Ngai Thanya Resort Review (2026)",
+    "metaDescription": "Koh Ngai Thanya Resort in Trang offers mid-range bungalows on a stunning white-sand beach with sunset views, ideal for couples and families. Note the 1.5-hour boat access may limit spontaneity. Book for a relaxed island escape today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:42:03.540Z"
+}

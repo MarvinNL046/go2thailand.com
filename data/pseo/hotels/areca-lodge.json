@@ -1,0 +1,203 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "areca-lodge",
+  "hotel": {
+    "name": "Areca Lodge",
+    "category": "budget",
+    "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+    "area": "Central Pattaya",
+    "description": "A solid mid-budget hotel on Second Road in central Pattaya with two pools, a restaurant, and well-maintained rooms. The central location means you're walking distance to Beach Road, Central Festival mall, and nightlife. Rooms are simple but spacious and consistently clean.",
+    "highlights": [
+      "Two swimming pools",
+      "Central location on Second Road",
+      "Restaurant and bar on-site"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "couples"
+    ],
+    "reviewScore": "4.2/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "KAYAK",
+        "sourceUrl": "https://www.kayak.com/Pattaya-Hotels.25054.hotel.ksp",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAreca%2520Lodge%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Lub d Pattaya",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "North Pattaya",
+      "description": "Part of Thailand's best hostel chain, Lub d offers modern pod-style dorms and private rooms with clean design, fast wifi, and a social atmosphere. Common areas include a pool, coworking space, and bar. Walking distance to Terminal 21 mall and the beach.",
+      "highlights": [
+        "Swimming pool and social bar area",
+        "Pod beds with privacy curtains and USB charging",
+        "Walking distance to Terminal 21 Pattaya"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "digital nomads"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Sawasdee Siam Pattaya",
+      "category": "budget",
+      "priceRange": "500–900 THB/night (~$14–25 USD)",
+      "area": "South Pattaya",
+      "description": "A well-maintained budget hotel in central South Pattaya, minutes from Walking Street and Beach Road. Clean air-conditioned rooms with hot water, fridge, and TV. The rooftop pool is a bonus at this price point. Popular with repeat visitors who know the value.",
+      "highlights": [
+        "Rooftop swimming pool",
+        "5-minute walk to Walking Street",
+        "Clean rooms with air-con and hot water"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "nightlife seekers"
+      ],
+      "reviewScore": "4.0/5 Booking.com",
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/sawasdee-siam-pattaya.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSawasdee%2520Siam%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Avani Pattaya Resort",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Central Pattaya",
+      "description": "A well-positioned mid-range resort on Pattaya Beach Road with a large freeform pool, spa, and contemporary rooms. The beachfront location puts you in the center of the action with direct beach access. Part of the Minor Hotels group, ensuring consistent quality.",
+      "highlights": [
+        "Beachfront on Pattaya Beach Road",
+        "Large freeform swimming pool",
+        "Full spa and fitness center"
+      ],
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvani%2520Pattaya%2520Resort%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What time is breakfast at Areca Lodge Pattaya?",
+    "What are the do's and don'ts in Pattaya?",
+    "How many days in Pattaya is enough?",
+    "Why do couples go to Pattaya?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Areca Lodge without knowing the street noise from Second Road can disrupt your sleep until late evening.",
+    "intro": "Areca Lodge delivers clean, spacious rooms and two pools in a central spot on Second Road, ideal for easy access to Pattaya's attractions. It's best suited for budget travelers and couples who prioritize location over luxury.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Budget couples in central Pattaya",
+      "standout": "Central location on Second Road",
+      "noGoFor": "Luxury-seeking solo travelers"
+    },
+    "whyBook": [
+      "Two swimming pools for cooling off after exploring",
+      "Walking distance to Beach Road and Central Festival mall",
+      "On-site restaurant and bar for convenient meals",
+      "Spacious, consistently clean rooms at budget rates",
+      "Well-maintained property in lively central area"
+    ],
+    "whyNotBook": [
+      "Simple room decor lacks modern luxury touches",
+      "Second Road location exposes rooms to traffic noise",
+      "Pools are basic and can feel crowded midday",
+      "Breakfast options limited to standard buffet repeats",
+      "No direct beach access requires short walk"
+    ],
+    "skipIf": "Skip if you need quiet surroundings away from urban bustle.",
+    "detailedReview": "Checking into Areca Lodge feels straightforward and welcoming, with staff at the front desk efficiently handling bookings amid the buzz of central Pattaya. Rooms strike a practical vibe—simple furnishings in neutral tones, but they deliver on space with ample room for two, plus consistent cleanliness that guests appreciate after a day out. The standout amenity is the two swimming pools: one larger for laps and a smaller one for relaxation, both well-kept and surrounded by basic lounge chairs, offering a quick escape from the heat without venturing far. Food at the on-site restaurant is reliable Thai and Western fare, nothing gourmet but satisfying for breakfast or casual dinners, with the bar providing cold beers to unwind. Service runs efficient and friendly, typical of budget spots, where staff assist with local tips but don't hover. You'll spot mostly budget travelers and couples here—Scandinavians or Europeans in their 30s-50s, mixing pool time with nearby nightlife jaunts. Overall, it's a no-frills base that holds up for short stays focused on Pattaya's energy, backed by its 4.2/5 TripAdvisor score for value and location.",
+    "locationReality": "Areca Lodge sits on Second Road in central Pattaya, about a 10-minute walk to Beach Road for direct beach access. Within 5 minutes on foot, you'll reach Central Festival mall for shopping and dining, plus buzzing street food stalls. For farther spots like Walking Street, expect a 5-10 minute Grab ride costing 50-100 THB.",
+    "localSignals": [
+      "10-minute walk to Pattaya Beach on Beach Road",
+      "5-minute walk to Central Festival shopping mall",
+      "Two swimming pools on property",
+      "One restaurant and bar on-site",
+      "7-Eleven convenience store within 2-minute walk"
+    ],
+    "travellerNote": "Guests often praise the clean rooms and central location for easy access to attractions but note occasional street noise from Second Road affecting lighter sleepers.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize road noise",
+      "Book via Agoda for frequent Thailand discounts",
+      "Prices spike December-February during high season",
+      "Verify breakfast inclusion as it's not always standard",
+      "Check for pool-view rooms if swimming is key"
+    ],
+    "similarHotels": [
+      {
+        "name": "Lub d Pattaya",
+        "howDifferent": "Cheaper hostel-style with pod dorms and social vibe, lacking private pools."
+      },
+      {
+        "name": "Sawasdee Siam Pattaya",
+        "howDifferent": "Similar budget in South Pattaya, closer to Walking Street but without pools."
+      },
+      {
+        "name": "Avani Pattaya Resort",
+        "howDifferent": "Upscale beachfront with large pool and spa, pricier than Areca's budget setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What time is breakfast at Areca Lodge Pattaya?",
+        "a": "Breakfast is served at the on-site restaurant, typically from 7am to 10am; confirm exact times upon booking as they may vary."
+      },
+      {
+        "q": "What are the do's and don'ts in Pattaya?",
+        "a": "Do respect local customs by dressing modestly at temples and enjoying street food safely; don't engage in illegal activities like gambling or public intoxication, and avoid bargaining aggressively at markets."
+      },
+      {
+        "q": "How many days in Pattaya is enough?",
+        "a": "Three to five days suffice for most, covering beaches, nightlife, and day trips to islands; extend if focusing on relaxation or specific events."
+      },
+      {
+        "q": "Why do couples go to Pattaya?",
+        "a": "Couples visit for romantic beach walks, vibrant nightlife, and affordable spa treatments, blending relaxation with excitement in a tropical setting."
+      },
+      {
+        "q": "Is Areca Lodge good for couples?",
+        "a": "Yes, its spacious clean rooms and central location suit couples seeking budget convenience near Pattaya's attractions without luxury frills."
+      },
+      {
+        "q": "What amenities does Areca Lodge have?",
+        "a": "It features two swimming pools, an on-site restaurant and bar, plus well-maintained rooms in a walkable central spot."
+      }
+    ],
+    "urgencyLine": "Rooms at Areca Lodge with pool access book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Areca Lodge based on location, amenities, and guest feedback from sources like TripAdvisor. We weighted central access highest because Pattaya thrives on walkability to beaches and malls. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Areca Lodge Pattaya Review (2026)",
+    "metaDescription": "Areca Lodge in central Pattaya offers two pools and clean rooms for budget travelers and couples, steps from Beach Road. Note potential street noise from Second Road. Book now for value stays. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:12:17.714Z"
+}

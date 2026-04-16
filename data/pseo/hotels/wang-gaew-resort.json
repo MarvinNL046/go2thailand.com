@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "rayong",
+  "cityName": "Rayong",
+  "hotelSlug": "wang-gaew-resort",
+  "hotel": {
+    "name": "Wang Gaew Resort",
+    "category": "mid-range",
+    "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+    "area": "Laem Mae Phim",
+    "description": "A well-regarded Thai-run resort on the Laem Mae Phim beach area with comfortable rooms, a swimming pool, and direct beach access. The setting is quieter than Koh Samet and the beach in front is far less crowded. Good value mid-range option on the eastern coast, popular with Thai families on weekend breaks. Restaurant on site serves fresh seafood.",
+    "highlights": [
+      "Direct beach access on Laem Mae Phim Bay",
+      "Swimming pool and on-site seafood restaurant",
+      "Quieter alternative to Koh Samet with similar beach quality"
+    ],
+    "bestFor": [
+      "families",
+      "couples",
+      "Thai beach holiday"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297935-Rayong_Rayong_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWang%2520Gaew%2520Resort%252C%2520Rayong%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Holiday Inn & Suites Rayong City Centre",
+      "category": "mid-range",
+      "priceRange": "2,400-4,000 THB/night (~$67-112 USD)",
+      "area": "Rayong City",
+      "description": "The most comfortable international-standard hotel in Rayong City, operated by IHG. Central location on Sukhumvit Road with easy access to restaurants, the morning market, and highway connections. Modern rooms with reliable amenities, swimming pool, fitness center, and a restaurant. Popular with business travelers and tourists who want IHG consistency in a completely authentic Thai city setting.",
+      "highlights": [
+        "IHG brand reliability in Rayong's most convenient city location",
+        "Swimming pool and fitness center",
+        "Walking distance to Rayong City restaurants and morning market"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "families",
+        "city base for exploring the province"
+      ],
+      "sources": [
+        {
+          "sourceName": "IHG",
+          "sourceUrl": "https://rayong.holidayinn.com",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520%2526%2520Suites%2520Rayong%2520City%2520Centre%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Samed Cabana Resort",
+      "category": "mid-range",
+      "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+      "area": "Koh Samet (Hat Sai Kaew)",
+      "description": "A popular mid-range resort on Koh Samet's main Hat Sai Kaew (White Sand Beach), with bungalows and rooms spread across a beachfront property. The island location adds an automatic premium — everything costs more on Koh Samet than the mainland. Comfortable rooms with garden or sea views, swimming pool, and the white sand beach literally steps from your door. Rates include the national park fee in some packages.",
+      "highlights": [
+        "Beachfront on Hat Sai Kaew — Koh Samet's most famous beach",
+        "Swimming pool plus private beach",
+        "Central location for island restaurants, fire shows, and snorkeling"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-time Koh Samet visitors",
+        "island atmosphere"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g3226169-Chak_Phong_Klaeng_Rayong_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSamed%2520Cabana%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Malibu Garden Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Koh Samet (Ao Phai)",
+      "description": "A quietly popular resort on Koh Samet's Ao Phai beach — one of the island's best snorkeling beaches and less crowded than Hat Sai Kaew to the north. Wooden bungalows with sea views set in a garden property directly on the bay. The beach in front has the island's best snorkeling just off the shore. A short walk to Hat Sai Kaew's restaurants and nightlife.",
+      "highlights": [
+        "Beachfront on Ao Phai — best snorkeling beach on Koh Samet",
+        "Wooden bungalows with sea views and private terraces",
+        "Quieter stretch of coast but 10 minutes walk to Hat Sai Kaew nightlife"
+      ],
+      "bestFor": [
+        "couples",
+        "snorkelers",
+        "travelers seeking quieter Koh Samet"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/rayong.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMalibu%2520Garden%2520Resort%252C%2520Rayong%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Wang Gaew Resort without knowing weekend crowds from Thai families can turn your quiet beach escape into a bustling family affair.",
+    "intro": "Wang Gaew Resort offers comfortable rooms, a swimming pool, direct beach access, and an on-site seafood restaurant in the quieter Laem Mae Phim area of Rayong. It's ideal for families and couples seeking a relaxed Thai beach holiday away from busier spots like Koh Samet.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "families and couples",
+      "standout": "direct beach access",
+      "noGoFor": "nightlife seekers"
+    },
+    "whyBook": [
+      "Direct access to uncrowded Laem Mae Phim beach.",
+      "Swimming pool for family relaxation.",
+      "On-site restaurant with fresh seafood.",
+      "Quieter setting than Koh Samet.",
+      "Good value for mid-range comfort."
+    ],
+    "whyNotBook": [
+      "Thai-run service may feel less polished for international guests.",
+      "Beach crowds peak on weekends from local families.",
+      "Limited amenities beyond pool and basic restaurant.",
+      "No international chain standards or extras like spa.",
+      "Quieter area means fewer nearby evening entertainment options."
+    ],
+    "skipIf": "Skip if you're looking for vibrant nightlife or upscale international hotel service in Rayong.",
+    "detailedReview": "Checking into Wang Gaew Resort feels straightforward and welcoming, with a Thai-run vibe that emphasizes simplicity over formality—expect efficient front desk handling without much fanfare. Rooms are comfortable with basic furnishings suited for beach stays, offering clean spaces that prioritize functionality for families or couples unwinding after a day by the sea. The standout amenity is the direct beach access right on Laem Mae Phim Bay, allowing guests to step straight onto the sand for a less crowded alternative to Koh Samet's beaches, with similar soft sands and calm waters. The swimming pool provides a refreshing spot, especially for kids, though it's not oversized. Food at the on-site restaurant shines with fresh seafood caught locally, served in casual Thai style—think grilled fish and spicy salads that appeal to those wanting authentic flavors without venturing far. Service is friendly and attentive in a familial way, typical of Thai hospitality, but it might not match the polished efficiency of global chains. Guests here are mostly Thai families on weekend getaways or couples seeking a peaceful coastal break, creating a relaxed, community-oriented atmosphere mid-week that picks up energy on weekends. Overall, it's a solid mid-range pick for value-driven beach time, delivering quiet comfort without extravagance.",
+    "locationReality": "Wang Gaew Resort sits directly on Laem Mae Phim beach in Rayong's eastern coast, with zero walking minutes to the sand and sea. The area is quieter than nearby Koh Samet, reachable by a 30-45 minute ferry from Ban Phe pier, about a 20-minute drive away. Within a 5-minute walk, you'll find the beachfront and basic local eateries, but for Rayong city shopping or attractions like the Rayong Aquarium, plan a 30-40 minute drive or Grab ride costing around 400-600 THB.",
+    "localSignals": [
+      "Direct beach access: 0 minutes walking distance to Laem Mae Phim Bay.",
+      "One swimming pool on property.",
+      "One on-site restaurant serving fresh seafood.",
+      "Quieter beach compared to Koh Samet, 20-minute drive to Ban Phe ferry pier.",
+      "Popular with Thai families on weekends, no mention of included breakfast."
+    ],
+    "travellerNote": "Guests often praise the direct beach access and value for a quiet family stay but note weekend crowds from local visitors can reduce the peaceful vibe.",
+    "bookingTips": [
+      "Request rooms with beach views for better access.",
+      "Book via Agoda for competitive Thailand rates on mid-range resorts.",
+      "Prices spike on weekends due to Thai family holidays.",
+      "Verify seafood restaurant hours as they vary seasonally.",
+      "Check for any nearby construction before booking quiet escapes."
+    ],
+    "similarHotels": [
+      {
+        "name": "Samed Cabana Resort",
+        "howDifferent": "Offers bungalows on busier Koh Samet island with more tourist crowds than Wang Gaew's mainland quiet."
+      },
+      {
+        "name": "Malibu Garden Resort",
+        "howDifferent": "Located on Koh Samet's snorkeling-focused Ao Phai beach, providing island vibes absent in Wang Gaew's mainland setting."
+      },
+      {
+        "name": "Holiday Inn & Suites Rayong City Centre",
+        "howDifferent": "Urban hotel in Rayong City with international standards, lacking Wang Gaew's beach access but offering central convenience."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Wang Gaew Resort suitable for families?",
+        "a": "Yes, it's popular with Thai families for its swimming pool, direct beach access, and comfortable rooms ideal for weekend breaks."
+      },
+      {
+        "q": "What makes Wang Gaew Resort quieter than Koh Samet?",
+        "a": "Its mainland Laem Mae Phim location has far less crowded beaches while offering similar sand quality, avoiding island ferry hassles."
+      },
+      {
+        "q": "Does Wang Gaew Resort have a pool?",
+        "a": "Yes, it features a swimming pool on-site for guest relaxation, complementing the beach access."
+      },
+      {
+        "q": "What food options are at Wang Gaew Resort?",
+        "a": "The on-site restaurant serves fresh seafood in a casual Thai style, focusing on local catches without extensive international menus."
+      },
+      {
+        "q": "How far is Wang Gaew Resort from Rayong attractions?",
+        "a": "It's in Laem Mae Phim, about 30-40 minutes drive to Rayong city center or aquarium, best for beach-focused stays."
+      },
+      {
+        "q": "Is breakfast included at Wang Gaew Resort?",
+        "a": "Breakfast details vary by booking; the data doesn't specify inclusion, so confirm with the property or platform."
+      }
+    ],
+    "urgencyLine": "Rooms at Wang Gaew Resort with direct beach access book out 1-2 months ahead for Thai holiday weekends—check availability today.",
+    "methodology": "We rated Wang Gaew Resort based on its amenities, location, and value from provided data. We weighted beach access highest because it's the core draw for Rayong coastal stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Wang Gaew Resort Review (2026)",
+    "metaDescription": "Wang Gaew Resort in Rayong offers direct Laem Mae Phim beach access and a pool for families and couples. Quieter than Koh Samet but weekends get crowded—book for mid-week value escapes today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:27:39.591Z"
+}

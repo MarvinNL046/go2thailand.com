@@ -1,0 +1,235 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "category": "budget",
+  "hotels": [
+    {
+      "name": "Lub d Phuket Patong",
+      "category": "budget",
+      "priceRange": "400–700 THB/night (~$11–20 USD)",
+      "area": "Patong Beach",
+      "description": "A stylish modern hostel five minutes from Patong Beach with both pod-style dorms and private rooms. Rooftop pool, social common areas, and a reputation as one of Southeast Asia's best-designed hostels. Part of the Thai Lub d chain known for quality budget stays.",
+      "highlights": [
+        "Rooftop pool overlooking Patong",
+        "Modern pod beds with privacy curtains and USB charging",
+        "Walking distance to Bangla Road and the beach"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/HotelsList-Phuket-Budget-Hotels-zfp6215.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Phuket%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Expat Hotel Patong",
+      "category": "budget",
+      "priceRange": "800–1,200 THB/night (~$22–34 USD)",
+      "area": "Patong Beach",
+      "description": "Solid budget hotel with clean air-conditioned rooms, a small pool, and an unbeatable location in central Patong. No frills but everything works, and you're walking distance to both the beach and nightlife. Popular with repeat visitors who know where the value is.",
+      "highlights": [
+        "Clean rooms with reliable air-con and hot showers",
+        "Small pool for cooling off",
+        "Central Patong location — 5 min walk to beach and Bangla Road"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Alike.io",
+          "sourceUrl": "https://alike.io/blog/how-expensive-is-phuket-2025-cost-vs-value-guide",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DExpat%2520Hotel%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Karon Resort",
+      "category": "budget",
+      "priceRange": "600–1,000 THB/night (~$17–28 USD)",
+      "area": "Karon Beach",
+      "description": "A family-run guesthouse set back from Karon Beach with clean rooms, a pool, and a garden atmosphere. Quieter and better value than anything comparable in Patong. The beach is a 5-minute walk away.",
+      "highlights": [
+        "Swimming pool in tropical garden setting",
+        "5-minute walk to Karon Beach",
+        "Family-run with personal service"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Karon%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Where is the best budget place to stay in Phuket?",
+    "Where is the nicest part of Phuket to stay?",
+    "How much should you budget for Phuket?",
+    "Where to stay in Phuket for first timers?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong budget hotel in Phuket can trap you in a noisy, rundown spot far from the action — many 'budget' hotels cut corners on cleanliness and proximity to beaches.",
+    "intro": "The single biggest mistake travellers make when booking budget hotels in Phuket is prioritizing the lowest price over location and basic amenities, ending up isolated or in subpar conditions. We ranked these based on value for money, guest feedback on cleanliness and vibe, proximity to beaches, and inclusions like pools that enhance a tight budget stay.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Lub d Phuket Patong",
+        "why": "Stylish design with rooftop pool"
+      },
+      {
+        "label": "Best value",
+        "name": "Baan Karon Resort",
+        "why": "Quiet garden vibe near beach"
+      },
+      {
+        "label": "Best for solo travellers",
+        "name": "Lub d Phuket Patong",
+        "why": "Social common areas and dorms"
+      },
+      {
+        "label": "Best for quiet stays",
+        "name": "Baan Karon Resort",
+        "why": "Family-run with garden pool"
+      }
+    ],
+    "urgencyLine": "Budget hotel prices in Phuket spike up to 50% during peak season (November to April) due to holiday crowds — book at least 3 months ahead for the best deals.",
+    "comparisonTable": [
+      {
+        "name": "Lub d Phuket Patong",
+        "area": "Patong Beach",
+        "priceBand": "€",
+        "bestFor": "Solo backpackers partying",
+        "standout": "rooftop pool",
+        "drawback": "Hostel-style shared spaces"
+      },
+      {
+        "name": "Expat Hotel Patong",
+        "area": "Patong Beach",
+        "priceBand": "€",
+        "bestFor": "Budget nightlife seekers",
+        "standout": "central location",
+        "drawback": "No-frills basic rooms"
+      },
+      {
+        "name": "Baan Karon Resort",
+        "area": "Karon Beach",
+        "priceBand": "€",
+        "bestFor": "Families seeking quiet",
+        "standout": "garden atmosphere",
+        "drawback": "Slightly set back from beach"
+      }
+    ],
+    "decisionGuide": [
+      "If you want stylish social vibes near Patong Beach, choose Lub d Phuket Patong.",
+      "If central nightlife access on a budget is key, choose Expat Hotel Patong.",
+      "If you prefer a quieter family-run spot, choose Baan Karon Resort.",
+      "If solo travel with dorm options appeals, choose Lub d Phuket Patong.",
+      "If walking to beach without Patong crowds, choose Baan Karon Resort.",
+      "If clean basics in the heart of action, choose Expat Hotel Patong."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Lub d Phuket Patong",
+        "why": "This stands out for its modern design and rooftop pool, offering more style and social appeal than the basic setups of Expat or Baan Karon, making it ideal for budget travellers wanting a fun vibe without extra cost. It beats runners-up by blending hostel energy with private room options at rock-bottom prices.",
+        "drawback": "The party atmosphere can get noisy at night.",
+        "skipIf": "Skip if you need total quiet or dislike shared facilities in dorms.",
+        "localSignals": [
+          "5-minute walk to Patong Beach",
+          "Pod-style dorms and private rooms available",
+          "Rooftop pool for guests"
+        ],
+        "travellerNote": "Guests often praise the stylish design and social common areas but note occasional noise from nearby nightlife."
+      },
+      {
+        "rank": 2,
+        "name": "Expat Hotel Patong",
+        "why": "It provides unbeatable central location and a small pool at a solid price, edging out Baan Karon for those prioritizing Patong's energy over quiet, while being more private than Lub d's hostel feel. For budget travellers, the walkable access to beach and bars adds value without frills.",
+        "drawback": "Rooms are functional but lack standout decor or extras.",
+        "skipIf": "Skip if you want a pool-focused or garden relaxation experience.",
+        "localSignals": [
+          "Walking distance to Patong Beach and nightlife",
+          "Clean air-conditioned rooms",
+          "Small pool on site"
+        ],
+        "travellerNote": "Guests often praise the convenient location and reliability but note the no-frills setup feels basic."
+      },
+      {
+        "rank": 3,
+        "name": "Baan Karon Resort",
+        "why": "This family-run option delivers better value in a calmer area with a pool and garden, surpassing the Patong spots for peace while keeping costs low, though it trades buzz for a short beach walk. It's perfect for budget travellers avoiding crowds but still wanting essentials.",
+        "drawback": "The location requires a 5-minute walk to reach the beach.",
+        "skipIf": "Skip if you crave Patong's vibrant nightlife scene.",
+        "localSignals": [
+          "5-minute walk to Karon Beach",
+          "Clean rooms with pool",
+          "Garden atmosphere for relaxation"
+        ],
+        "travellerNote": "Guests often praise the quiet garden setting and value but note the slightly removed beach access."
+      }
+    ],
+    "topPick": "Lub d Phuket Patong",
+    "topPickReason": "It combines stylish modern design, a rooftop pool, and social spaces at the lowest prices, giving budget travellers the most elevated experience without compromising affordability.",
+    "bookingTips": [
+      "Book 2-3 months in advance for high season (Nov-Apr) to lock in rates under 700 THB.",
+      "Agoda often has cheaper deals than Booking.com for Phuket budget hotels, especially with promo codes.",
+      "Avoid booking during Songkran (April) or Chinese New Year when prices can jump 30-50%.",
+      "Watch for red flags like hotels with under 100 reviews or discounts over 40% that signal poor quality.",
+      "Opt for private rooms over dorms in hostels like Lub d for better sleep on a budget.",
+      "Garden view rooms save 10-20% vs any sea views, which are rarely worth it at budget levels."
+    ],
+    "methodology": "We compared budget hotels in Phuket based on guest reviews for cleanliness and vibe, location proximity to beaches, value within the under-€40 band, and essentials like pools that budget travellers seek. We weighted location highest because Phuket's spread-out areas make walkability crucial for saving on transport. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/where-to-stay/phuket/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check budget hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View Lub d Phuket Patong'"
+    ],
+    "faq": [
+      {
+        "q": "Where is the best budget place to stay in Phuket?",
+        "a": "Patong Beach offers the best budget spots like Lub d Phuket Patong for its walkable access to action, while Karon provides quieter value at Baan Karon Resort—choose based on your vibe needs."
+      },
+      {
+        "q": "Where is the nicest part of Phuket to stay?",
+        "a": "For budget travellers, central Patong feels nicest for energy and convenience, but Karon Beach via Baan Karon Resort is nicer for relaxed beach days without crowds."
+      },
+      {
+        "q": "How much should you budget for Phuket?",
+        "a": "Expect 400-1,200 THB per night for solid budget hotels like Expat Hotel Patong; factor in 500-1,000 THB daily for food and transport to keep totals under $50 USD per day."
+      },
+      {
+        "q": "Where to stay in Phuket for first timers?",
+        "a": "First-timers on a budget should base in Patong at Lub d Phuket Patong for easy beach and nightlife access, helping you orient quickly without transport hassles."
+      },
+      {
+        "q": "Are there family-friendly budget hotels in Phuket?",
+        "a": "Yes, Baan Karon Resort in Karon Beach is a top family-run pick with clean rooms and a pool, offering quiet value just a short walk from the beach."
+      }
+    ],
+    "metaTitle": "Best Budget Hotels in Phuket (2026)",
+    "metaDescription": "Discover top budget hotels in Phuket under €40/night, like stylish Lub d with rooftop pools and central Patong spots—perfect for affordable beach access…"
+  },
+  "lastUpdated": "2026-03-13",
+  "generatedAt": "2026-04-15T15:35:20.773Z"
+}

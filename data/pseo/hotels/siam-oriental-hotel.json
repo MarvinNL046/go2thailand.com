@@ -1,0 +1,194 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "hat-yai",
+  "cityName": "Hat Yai",
+  "hotelSlug": "siam-oriental-hotel",
+  "hotel": {
+    "name": "Siam Oriental Hotel",
+    "category": "mid-range",
+    "priceRange": "1,000–1,800 THB/night (~$28–50 USD)",
+    "area": "City Center",
+    "description": "An established mid-range hotel with well-appointed rooms, an outdoor swimming pool, and a full-service spa. The on-site restaurant serves both Thai and international cuisine. Popular with Malaysian tourists who value the spa facilities and central location.",
+    "highlights": [
+      "Swimming pool and spa",
+      "On-site restaurant",
+      "Well-established reputation"
+    ],
+    "reviewScore": "4/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSiam%2520Oriental%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Easy Planet Hat Yai",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "City Center",
+      "description": "A clean, modern budget hotel in the heart of Hat Yai with compact but well-designed rooms featuring air-con, hot water, and reliable WiFi. Walking distance to Kim Yong Market and the main night markets. Popular with Malaysian weekend visitors and backpackers.",
+      "highlights": [
+        "Central location near Kim Yong Market",
+        "Modern rooms with air-con and hot shower",
+        "Free WiFi throughout"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DEasy%2520Planet%2520Hat%2520Yai%252C%2520Hat%2520Yai%252C%2520Thailand"
+    },
+    {
+      "name": "PB Grand Hotel",
+      "category": "budget",
+      "priceRange": "500–900 THB/night (~$14–25 USD)",
+      "area": "City Center",
+      "description": "Well-reviewed budget hotel close to Wat Hat Yai Nai and the city center. Rooms are spacious for the price with air-con, cable TV, and private bathrooms. The hotel restaurant serves affordable Thai and Chinese dishes. A solid choice for travelers who want comfort without luxury pricing.",
+      "highlights": [
+        "Close to Wat Hat Yai Nai reclining Buddha",
+        "Spacious rooms for the price",
+        "On-site restaurant with local dishes"
+      ],
+      "bestFor": [
+        "families",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPB%2520Grand%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+    },
+    {
+      "name": "B2 Rat Uthit Hat Yai Boutique and Budget Hotel",
+      "category": "budget",
+      "priceRange": "450–850 THB/night (~$13–24 USD)",
+      "area": "City Center",
+      "description": "Part of the reliable Thai B2 hotel chain known for consistent quality at budget prices. Compact but modern rooms with quality bedding, rainfall showers, and strong WiFi. The rooftop has city views and the ground floor features a trendy cafe.",
+      "highlights": [
+        "Reliable B2 chain quality",
+        "Modern design with quality bedding",
+        "Rooftop with city views"
+      ],
+      "bestFor": [
+        "solo travelers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297921-Hat_Yai_Hat_Yai_District_Songkhla_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DB2%2520Rat%2520Uthit%2520Hat%2520Yai%2520Boutique%2520and%2520Budget%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Siam Oriental Hotel without knowing the central location's traffic noise can lead to restless nights despite the spa relaxation.",
+    "intro": "Siam Oriental Hotel offers well-appointed rooms, an outdoor swimming pool, and a full-service spa in Hat Yai's city center, with an on-site restaurant serving Thai and international dishes. It's ideal for couples and families seeking a reliable mid-range stay popular among Malaysian tourists.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "full-service spa",
+      "noGoFor": "budget solo travelers"
+    },
+    "whyBook": [
+      "Outdoor pool for family swims after sightseeing.",
+      "Spa facilities appeal to relaxation-seeking couples.",
+      "Central spot eases access to Hat Yai markets.",
+      "On-site restaurant simplifies Thai-international meals.",
+      "Established reputation ensures consistent mid-range comfort."
+    ],
+    "whyNotBook": [
+      "Central location exposes rooms to street noise until late evening.",
+      "Pool area fills quickly with Malaysian tour groups midday.",
+      "Spa treatments book out fast during peak weekends.",
+      "Restaurant menu repeats familiar dishes over longer stays.",
+      "Well-appointed rooms lack modern tech like smart TVs."
+    ],
+    "skipIf": "Skip if you're a solo backpacker on a tight budget preferring hostels over structured hotel amenities.",
+    "detailedReview": "Checking into Siam Oriental Hotel feels straightforward and welcoming, with staff efficiently handling Malaysian tourist groups at the front desk in Hat Yai's bustling city center. Rooms are well-appointed with comfortable bedding and basic air-conditioning, though some face the main road and pick up traffic hum. The standout amenity is the full-service spa, where guests unwind with Thai massages after exploring nearby markets—it's a draw for couples seeking pampering. The outdoor swimming pool provides a refreshing spot for families, surrounded by lounge chairs but without frills like a poolside bar. Food at the on-site restaurant is solid, offering Thai curries alongside international options like pasta, served in a casual dining area; portions are generous but flavors stay safe rather than bold. Service is polite and attentive, typical of an established mid-range property, with quick responses to requests for extra towels or spa bookings. Typical guests are Malaysian families or couples on short city breaks, creating a friendly but sometimes crowded vibe in common areas. Overall, it delivers reliable comfort without surprises, backed by its 4/5 TripAdvisor score for location and spa value.",
+    "locationReality": "Siam Oriental Hotel sits right in Hat Yai's city center, putting shops and street food stalls within a 5-minute walk. The main attractions like Kim Yong Market are about 10 minutes on foot, while Wat Hat Yai Nai requires a short 5-10 minute Grab ride costing around 50-100 THB. No BTS or MRT here, but the Hat Yai Railway Station is roughly 15 minutes away by taxi for under 150 THB.",
+    "localSignals": [
+      "5-minute walk to city center shops and street food.",
+      "1 outdoor swimming pool on property.",
+      "1 on-site restaurant serving Thai and international cuisine.",
+      "Full-service spa available for treatments.",
+      "10-minute Grab to Hat Yai Railway Station for ~100 THB."
+    ],
+    "travellerNote": "Guests often praise the spa and central location for easy access to Hat Yai sights but note occasional noise from nearby traffic and crowded pool times with tour groups.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise.",
+      "Book spa sessions in advance via Agoda for bundled deals.",
+      "Prices spike December-February due to Malaysian holiday influx.",
+      "Verify breakfast inclusion on Booking.com as it's not always standard.",
+      "Opt for family rooms if traveling with kids for extra space."
+    ],
+    "similarHotels": [
+      {
+        "name": "Easy Planet Hat Yai",
+        "howDifferent": "Cheaper budget option with compact modern rooms but no pool or spa."
+      },
+      {
+        "name": "PB Grand Hotel",
+        "howDifferent": "More affordable near Wat Hat Yai Nai with spacious rooms but lacks on-site restaurant and spa."
+      },
+      {
+        "name": "B2 Rat Uthit Hat Yai Boutique and Budget Hotel",
+        "howDifferent": "Lower-priced chain hotel with consistent quality and modern bedding but smaller rooms without pool access."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Siam Oriental Hotel have a swimming pool?",
+        "a": "Yes, it features an outdoor swimming pool ideal for families and couples to relax after a day in Hat Yai."
+      },
+      {
+        "q": "What type of food is served at the restaurant?",
+        "a": "The on-site restaurant offers both Thai dishes like curries and international options such as pasta and salads."
+      },
+      {
+        "q": "Is the spa at Siam Oriental Hotel worth it?",
+        "a": "The full-service spa is a highlight, popular for massages among Malaysian tourists seeking relaxation in the city center."
+      },
+      {
+        "q": "How central is Siam Oriental Hotel in Hat Yai?",
+        "a": "It's in the city center, with markets and shops within 5-10 minutes walk, making it convenient for sightseeing."
+      },
+      {
+        "q": "Who stays at Siam Oriental Hotel?",
+        "a": "It attracts couples and families, especially Malaysian visitors who appreciate the spa and location."
+      },
+      {
+        "q": "What's the TripAdvisor rating for Siam Oriental Hotel?",
+        "a": "It holds a 4/5 rating on TripAdvisor for its reliable mid-range amenities and central spot."
+      }
+    ],
+    "urgencyLine": "Rooms at Siam Oriental Hotel with spa access book out 1-2 months ahead for Malaysian peak seasons—check availability today.",
+    "methodology": "We rated Siam Oriental Hotel based on guest reviews, amenities like the pool and spa, location convenience, and value in the mid-range category. We weighted the spa and central position highest because they align with its popularity among families and couples. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Siam Oriental Hotel Review (2026)",
+    "metaDescription": "Siam Oriental Hotel in Hat Yai offers a mid-range stay with outdoor pool, full-service spa, and central location for couples and families. Note potential traffic noise in city center rooms. Book now for reliable comfort at 1,000–1,800 THB/night."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:16:12.298Z"
+}

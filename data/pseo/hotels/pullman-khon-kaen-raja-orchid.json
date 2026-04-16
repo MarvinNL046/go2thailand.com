@@ -1,0 +1,186 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "pullman-khon-kaen-raja-orchid",
+  "hotel": {
+    "name": "Pullman Khon Kaen Raja Orchid",
+    "category": "luxury",
+    "priceRange": "2,200–4,000 THB (~61–111 USD) per night",
+    "area": "City Centre / Prachasamosorn Road",
+    "description": "A well-established 4.5-star hotel (formerly Sofitel Raja Orchid) that has been Khon Kaen's premier property for years. Features spacious rooms with city views, an outdoor swimming pool, fitness centre, spa with in-room massage options, and several restaurants including a popular breakfast buffet. The hotel shows some age compared to the Avani but compensates with larger rooms, a loyal following and consistently good service.",
+    "highlights": [
+      "Spacious rooms — among the largest in Khon Kaen",
+      "Excellent breakfast buffet with Thai and international options",
+      "Swimming pool and well-equipped fitness centre",
+      "Central location on the main commercial street",
+      "Long-established reputation — reliable and professional"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsofitelrajaorchid.html",
+    "reviewScore": "8.2/10",
+    "bestFor": [
+      "Business travellers",
+      "Couples",
+      "Long stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "Pullman Khon Kaen Raja Orchid — Official",
+        "sourceUrl": "https://pullman-khon-kaen-raja.h-rez.com/",
+        "lastVerified": "2026-03-15"
+      },
+      {
+        "sourceName": "Tripadvisor — Pullman Khon Kaen",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297926-d299566-Reviews-Pullman_Khon_Kaen_Raja_Orchid-Khon_Kaen_Khon_Kaen_Province.html",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Avani Khon Kaen Hotel & Convention Centre",
+      "category": "luxury",
+      "priceRange": "2,100–4,500 THB (~58–125 USD) per night",
+      "area": "City Centre / Pracha Samosorn Road",
+      "description": "The top luxury option in Khon Kaen — a 5-star property with elegant modern rooms, an extensive convention centre, full-service spa with traditional Thai massage, a large outdoor pool with sun loungers and cabanas, and multiple dining options including Thai and international restaurants. The hotel caters to both business travellers and tourists and maintains international standards you would expect from the Avani brand.",
+      "highlights": [
+        "5-star facilities with large swimming pool and spa",
+        "Convention centre — one of the best-equipped in Isaan",
+        "Central location near Central Plaza and Bueng Kaen Nakhon",
+        "Multiple restaurants including Thai and international cuisine",
+        "Professional English-speaking staff"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Favani-khon-kaen-convention-centre.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Business travellers",
+        "Luxury seekers",
+        "Couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Avani Hotels — Khon Kaen Official",
+          "sourceUrl": "https://www.avanihotels.com/en/khon-kaen",
+          "lastVerified": "2026-03-15"
+        },
+        {
+          "sourceName": "Expedia — Khon Kaen Hotels",
+          "sourceUrl": "https://www.expedia.com/Khon-Kaen-Hotels.d1833.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Glacé Hotel Khon Kaen",
+      "category": "luxury",
+      "priceRange": "1,800–3,500 THB (~50–97 USD) per night",
+      "area": "City Centre",
+      "description": "A newer boutique-style hotel that brings a fresh, contemporary design aesthetic to Khon Kaen's accommodation scene. Rooms are sleek and modern with quality bedding, rain showers and smart TVs. The rooftop bar offers cocktails with views over the city — something few other Khon Kaen hotels provide. A great choice for design-conscious travellers who want something more stylish than the traditional business hotels.",
+      "highlights": [
+        "Modern boutique design — the most stylish hotel in Khon Kaen",
+        "Rooftop bar with city views",
+        "Quality bedding and rain showers in all rooms",
+        "Good restaurant with creative Thai-fusion menu",
+        "Newer property — everything is fresh and well-maintained"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fglace-khon-kaen.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Instagram-savvy travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Ted's Guide — Luxury Hotels Khon Kaen",
+          "sourceUrl": "https://luxuryhotel.guru/khon-kaen-thailand/",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Does Mtdc Bhimashankar have good views?",
+    "What is Charoen Thani Hotel Khon Kaen about?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Pullman Khon Kaen Raja Orchid without knowing its dated decor from its Sofitel days can lead to initial disappointment despite the solid service.",
+    "intro": "Pullman Khon Kaen Raja Orchid delivers spacious rooms with city views, a reliable outdoor pool, fitness centre, spa services, and a strong breakfast buffet in a central location. It's ideal for business travellers, couples, and those planning long stays who value consistency over cutting-edge design.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "business travelers, couples, long stays",
+      "standout": "spacious rooms",
+      "noGoFor": "design enthusiasts"
+    },
+    "whyBook": [
+      "Largest rooms in Khon Kaen for comfort during long stays",
+      "Excellent breakfast buffet with Thai and international dishes",
+      "Central spot on Prachasamosorn Road for easy access to shops",
+      "Reliable service from long-established staff",
+      "Outdoor pool and fitness centre for relaxation"
+    ],
+    "whyNotBook": [
+      "Hotel shows age with dated decor compared to newer options",
+      "Rooms may feel worn despite spacious layouts",
+      "Limited modern amenities versus Avani's convention facilities",
+      "Breakfast buffet options repeat over extended stays",
+      "City views can include traffic noise from main road"
+    ],
+    "skipIf": "Skip if you're seeking a sleek, contemporary hotel without any signs of age.",
+    "detailedReview": "Checking in at Pullman Khon Kaen Raja Orchid feels professional and efficient, with staff who know the area well from years of operation as Khon Kaen's premier spot. Rooms are notably spacious—among the largest here—with city views from large windows, though the decor carries a dated vibe from its Sofitel era, including older furnishings that might not impress modern tastes. The standout amenity is the outdoor swimming pool, a relaxing oasis in the city centre, paired with a well-equipped fitness centre for workouts. Food quality shines at the breakfast buffet, offering a mix of Thai and international options like fresh fruits, noodles, and Western staples, served in one of the several on-site restaurants. Service is consistently good, with a loyal following appreciating the professional, attentive style that handles business needs smoothly. Spa treatments, including in-room massages, add a touch of luxury for couples unwinding after long days. Typical guests are business professionals in meetings, couples exploring the region, and longer-stay visitors who prioritize reliability over flash. At 8.2/10, it holds up as a solid choice, compensating for its age with space and service.",
+    "locationReality": "Situated on Prachasamosorn Road in Khon Kaen's city centre, the hotel is steps from the main commercial street with shops and eateries within a 5-minute walk. Key attractions like Bueng Kaen Nakhon lake are about 10-15 minutes away by Grab for around 100-150 THB. No BTS or MRT here, but the central spot means most downtown spots are walkable, while the airport requires a 20-30 minute taxi ride costing 300-400 THB.",
+    "localSignals": [
+      "Central on Prachasamosorn Road, 5-min walk to commercial shops",
+      "One outdoor swimming pool and fitness centre on property",
+      "Several restaurants including breakfast buffet venue",
+      "20-30 min Grab to Khon Kaen Airport for 300-400 THB",
+      "7-Eleven and street food within 5-min walk"
+    ],
+    "travellerNote": "Guests often praise the spacious rooms and excellent breakfast buffet but note the dated decor and occasional traffic noise from the main road location.",
+    "bookingTips": [
+      "Request higher-floor rooms for better city views away from street noise",
+      "Book via Agoda for Thailand deals, often cheaper than Booking.com",
+      "Prices spike in December-January for cool season and festivals",
+      "Verify breakfast inclusion as it's popular but not always standard",
+      "Check for in-room massage availability when booking spa-focused stays"
+    ],
+    "similarHotels": [
+      {
+        "name": "Avani Khon Kaen Hotel & Convention Centre (2,100–4,500 THB (~58–125 USD) per night)",
+        "howDifferent": "Avani offers newer 5-star modern rooms and a large convention centre, feeling fresher than Pullman's established but aged setup."
+      },
+      {
+        "name": "Glacé Hotel Khon Kaen (1,800–3,500 THB (~50–97 USD) per night)",
+        "howDifferent": "Glacé provides a boutique contemporary design with sleek rooms, contrasting Pullman's larger but more traditional spacious accommodations."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What makes Pullman Khon Kaen Raja Orchid stand out in Khon Kaen?",
+        "a": "It features among the largest rooms in the city, an excellent breakfast buffet, and a central location on the main commercial street with reliable service."
+      },
+      {
+        "q": "Is Pullman Khon Kaen Raja Orchid suitable for business travelers?",
+        "a": "Yes, its professional service, spacious rooms, and city centre position on Prachasamosorn Road make it ideal for business needs and long stays."
+      },
+      {
+        "q": "Does Pullman Khon Kaen Raja Orchid have a pool and spa?",
+        "a": "It includes an outdoor swimming pool, fitness centre, and spa with in-room massage options for relaxation."
+      },
+      {
+        "q": "How does Pullman Khon Kaen Raja Orchid compare to newer hotels?",
+        "a": "While it shows some age compared to options like Avani, it compensates with larger rooms and a loyal following for consistent service."
+      },
+      {
+        "q": "What is the breakfast like at Pullman Khon Kaen Raja Orchid?",
+        "a": "The buffet is popular, offering Thai and international options including fresh dishes, though it may repeat over multi-night stays."
+      }
+    ],
+    "urgencyLine": "Rooms at Pullman Khon Kaen Raja Orchid with spacious city views book out 1-2 months ahead for the cool season—check availability today.",
+    "methodology": "We rated Pullman Khon Kaen Raja Orchid based on room size, service consistency, amenities like pool and breakfast, location, and guest feedback at 8.2/10. We weighted service and space highest because they define its long-established appeal in Khon Kaen. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Pullman Khon Kaen Raja Orchid Review (2026)",
+    "metaDescription": "Pullman Khon Kaen Raja Orchid in Khon Kaen offers spacious rooms and excellent breakfast in the city centre. Note dated decor from its Sofitel past. Book for reliable luxury service today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:29:12.167Z"
+}

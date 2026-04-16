@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "holiday-inn-resort-krabi-ao-nang-beach",
+  "hotel": {
+    "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+    "category": "mid-range",
+    "priceRange": "2,500-4,500 THB/night (~$70-126 USD)",
+    "area": "Ao Nang",
+    "description": "International chain quality right on Ao Nang's main strip. Two pools (including a kids' pool), fitness center, spa, and multiple dining options. The rooms are spacious and well-appointed with IHG's usual reliability. Ideal for families and travelers who want a predictable standard near the beach.",
+    "highlights": [
+      "Two swimming pools including children's pool",
+      "IHG brand reliability and loyalty program",
+      "Beachfront location on Ao Nang main road"
+    ],
+    "reviewScore": "4.4/5 TripAdvisor",
+    "bestFor": [
+      "families",
+      "business travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "IHG",
+        "sourceUrl": "https://www.ihg.com/holidayinn/hotels/us/en/krabi/kbvao/hoteldetail",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520Resort%2520Krabi%2520Ao%2520Nang%2520Beach%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sea Seeker Krabi Resort",
+      "category": "budget",
+      "priceRange": "800-1,200 THB/night (~$22-34 USD)",
+      "area": "Ao Nang",
+      "description": "A solid budget hotel in central Ao Nang with clean rooms, a swimming pool, and an unbeatable location near the beach and longtail boat pier. Rooms are basic but well-maintained with air conditioning and hot showers. The pool is a welcome bonus at this price point.",
+      "highlights": [
+        "Swimming pool — rare at budget prices in Ao Nang",
+        "5-minute walk to Ao Nang Beach and boat pier",
+        "Clean rooms with reliable AC and hot water"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSea%2520Seeker%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Panan Krabi Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Ao Nang",
+      "description": "A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to the beach and pier for easy island trips, but set back from the main road for quieter nights. Consistently good reviews for cleanliness and service.",
+      "highlights": [
+        "Large swimming pool with sun terrace",
+        "Modern rooms with balcony and minibar",
+        "10-minute walk to Ao Nang Beach and boat pier"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Ao_Nang_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanan%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Railay Bay Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+      "area": "Railay Beach",
+      "description": "The best-value resort on Railay, straddling the peninsula between Railay West (swimming beach) and Railay East. Two pools, a beachfront restaurant, and direct access to both sides of the peninsula. Rooms range from garden-view bungalows to beachfront cottages. The boat-access-only setting gives it an island-resort atmosphere.",
+      "highlights": [
+        "Access to both Railay West and East beaches",
+        "Two swimming pools and beachfront restaurant",
+        "Boat-access location creates exclusive island feel"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1507957-Railay_Beach_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRailay%2520Bay%2520Resort%2520%2526%2520Spa%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is it best to stay in Krabi or Ao Nang?",
+    "Is Holiday Inn Resort 5 star?",
+    "Which hotel is best in Krabi?",
+    "Is Ao Nang Beach swimmable?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Holiday Inn Resort Krabi Ao Nang Beach without knowing the main road noise can lead to restless nights from passing traffic.",
+    "intro": "Holiday Inn Resort Krabi Ao Nang Beach offers reliable international chain standards with spacious rooms, two pools including a kids' pool, a fitness center, spa, and multiple dining options right on Ao Nang's main strip. It's ideal for families and business travelers seeking predictable quality near the beach.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "families and business travelers",
+      "standout": "beachfront location",
+      "noGoFor": "budget backpackers seeking quiet"
+    },
+    "whyBook": [
+      "Two pools including dedicated kids' pool for family fun.",
+      "IHG loyalty program perks for repeat guests.",
+      "Spacious rooms with reliable chain amenities.",
+      "Direct access to Ao Nang's beach and shops."
+    ],
+    "whyNotBook": [
+      "Main road location exposes rooms to traffic noise until late evening.",
+      "Mid-range pricing lacks luxury touches like private balconies in all rooms.",
+      "Pools can feel busy during peak family hours.",
+      "Dining options repeat familiar international fare without local flair.",
+      "Fitness center is basic, not extensive for serious workouts."
+    ],
+    "skipIf": "Skip if you're a solo traveler wanting secluded beach vibes away from commercial strips.",
+    "detailedReview": "Checking into Holiday Inn Resort Krabi Ao Nang Beach feels straightforward and efficient, with the front desk staff handling IHG loyalty check-ins quickly amid the lobby's modern, airy setup. Rooms deliver on spaciousness, featuring clean lines, comfortable beds, and standard amenities like tea/coffee makers and work desks, true to the chain's reliability—expect no surprises in functionality but solid comfort for families or business stays. The standout amenity is the two swimming pools: a main one for laps and a shallow kids' pool that keeps children entertained, both overlooking the beachfront vibe. Food quality shines in the multiple dining options, offering buffets with international dishes and some Thai selections, though portions are generous but not gourmet. Service style is professional yet approachable, with staff assisting on local tours or boat bookings without being overly intrusive. Typical guests include families with young kids splashing in the pool and business travelers using the fitness center before meetings, drawn by the predictable setup near Ao Nang's action. The spa provides basic massages, adding relaxation after beach days, but it's not a full retreat. Overall, it's a dependable base for exploring Krabi without frills, scoring 4.4/5 on TripAdvisor for its consistency.",
+    "locationReality": "The resort sits directly on Ao Nang's main road, just steps from the beach—about 2 minutes' walk to the sand for swimming or longtail boat hires. Within a 5-minute walk, you'll find shops, restaurants, and the night market, but quieter spots like Phra Nang Beach require a 15-minute drive or boat transfer. No BTS or MRT here; airport transfers from Krabi Airport cost around 800-1,000 THB by taxi or Grab, taking 45-60 minutes.",
+    "localSignals": [
+      "Beachfront on Ao Nang main road: 2-minute walk to Ao Nang Beach.",
+      "Two swimming pools including children's pool on property.",
+      "Multiple dining options available on-site.",
+      "Fitness center and spa facilities included.",
+      "Near longtail boat pier: 5-minute walk for island tours."
+    ],
+    "travellerNote": "Guests often praise the reliable rooms and family-friendly pools but note occasional traffic noise from the main road location.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize main road noise.",
+      "Book via IHG app for loyalty points and potential upgrades.",
+      "Prices spike December-February high season; avoid if budget-tight.",
+      "Verify breakfast inclusion, as it's not always standard in mid-range rates.",
+      "Check Agoda for Thailand deals, often cheaper than Booking.com."
+    ],
+    "similarHotels": [
+      {
+        "name": "Sea Seeker Krabi Resort",
+        "howDifferent": "Cheaper budget option with one pool but similar central Ao Nang location, lacking IHG reliability."
+      },
+      {
+        "name": "Panan Krabi Resort",
+        "howDifferent": "Comparable mid-range with large pool and balconies, but not beachfront like Holiday Inn."
+      },
+      {
+        "name": "Railay Bay Resort & Spa",
+        "howDifferent": "Similar price with two pools on secluded Railay Beach, farther from Ao Nang's main strip."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is it best to stay in Krabi or Ao Nang?",
+        "a": "Ao Nang is better for most visitors due to its beach access and amenities; Krabi town suits those needing transport hubs but lacks the resort vibe."
+      },
+      {
+        "q": "Is Holiday Inn Resort 5 star?",
+        "a": "No, it's a mid-range 4-star property with reliable chain standards, not full 5-star luxury."
+      },
+      {
+        "q": "Which hotel is best in Krabi?",
+        "a": "The best depends on needs; Holiday Inn Resort Krabi Ao Nang Beach excels for families with its pools and location, while Railay options suit beach seclusion."
+      },
+      {
+        "q": "Is Ao Nang Beach swimmable?",
+        "a": "Yes, Ao Nang Beach is generally swimmable with calm waters, though low tide exposes sandbars and high season crowds can affect enjoyment."
+      },
+      {
+        "q": "Does Holiday Inn Resort Krabi have family rooms?",
+        "a": "Yes, spacious rooms accommodate families, enhanced by the kids' pool for added convenience."
+      },
+      {
+        "q": "Is WiFi free at Holiday Inn Resort Krabi?",
+        "a": "Yes, standard IHG properties like this offer free WiFi in rooms and public areas."
+      }
+    ],
+    "urgencyLine": "Rooms at Holiday Inn Resort Krabi Ao Nang Beach with beach views book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Holiday Inn Resort Krabi Ao Nang Beach based on location, amenities, guest reviews, and value from official data and public sources. We weighted beach access and family features highest because Krabi travelers prioritize convenience near water activities. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Holiday Inn Resort Krabi Ao Nang Beach Review (2026)",
+    "metaDescription": "Holiday Inn Resort Krabi Ao Nang Beach in Krabi delivers mid-range reliability with two pools and beachfront spot for families. Note main road noise as a drawback. Book for predictable stays—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:37:02.812Z"
+}

@@ -1,0 +1,197 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "surat-thani",
+  "cityName": "Surat Thani",
+  "hotelSlug": "maneerote-hotel",
+  "hotel": {
+    "name": "Maneerote Hotel",
+    "category": "mid-range",
+    "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+    "area": "City Center (Riverside)",
+    "description": "One of Surat Thani's better mid-range options with a riverside location near Tapee Pier — the most atmospheric setting in the city. Spacious rooms with balconies offering Tapi River views, a rooftop pool, and a restaurant serving Thai and seafood. The river views at sunset from the upper floors are genuinely beautiful. A step above the standard transit hotel — worth the extra 500-800 THB for the setting.",
+    "highlights": [
+      "Riverside location near Tapee Pier with Tapi River views",
+      "Rooftop swimming pool",
+      "Restaurant with Thai seafood and river atmosphere"
+    ],
+    "reviewScore": "7.8/10 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "those with more than one night in Surat Thani"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297917-Surat_Thani_Surat_Thani_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DManeerote%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Suan Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "City Outskirts (Garden setting)",
+      "description": "A pleasant mid-range resort set in tropical gardens on the outskirts of Surat Thani city. Wooden bungalows and garden rooms surrounded by fruit trees and plants — a much more atmospheric setting than the city-center concrete hotels. The resort has a swimming pool, restaurant, and a genuinely relaxed garden ambience that makes it feel further from the city than it actually is.",
+      "highlights": [
+        "Tropical garden setting with bungalow-style accommodation",
+        "Swimming pool in peaceful green surroundings",
+        "Good on-site restaurant serving Thai food"
+      ],
+      "bestFor": [
+        "couples",
+        "nature lovers",
+        "those wanting to decompress after island travel"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda",
+          "sourceUrl": "https://www.agoda.com/baansuan-resort-h20014080/hotel/suratthani-th.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Suan%2520Resort%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Muang Thong Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,000 THB/night (~$34-56 USD)",
+      "area": "City Center",
+      "description": "One of the more established mid-range options in Surat Thani city center, popular with business travelers and Thai visitors. Standard rooms are spacious and well-equipped with minibar, air conditioning, and reliable WiFi. The central location makes it one of the most convenient for exploring the city on foot — the Saturday Night Market, Tapi River, and Talad Kaset are all within 15 minutes' walk.",
+      "highlights": [
+        "Central location ideal for city exploration",
+        "Spacious rooms with minibar and reliable WiFi",
+        "Walking distance to Saturday Night Market and Tapi River waterfront"
+      ],
+      "bestFor": [
+        "business travelers",
+        "couples",
+        "city explorers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297917-Surat_Thani_Surat_Thani_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMuang%2520Thong%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Chomsurang Hotel",
+      "category": "mid-range",
+      "priceRange": "1,400-2,200 THB/night (~$39-62 USD)",
+      "area": "City Center",
+      "description": "A long-established hotel in the heart of Surat Thani, well-known to the traveler community as a reliable mid-range choice with genuinely helpful staff. The rooftop restaurant offers views over the city and decent Thai-Chinese food. Rooms are clean and functional. The hotel has its own travel desk for arranging ferry tickets, Khao Sok tours, and onward transport — particularly useful for travelers without smartphones or data plans.",
+      "highlights": [
+        "Rooftop restaurant with city views",
+        "In-house travel desk for transport and tours",
+        "Longstanding reputation for helpful, English-speaking staff"
+      ],
+      "bestFor": [
+        "solo travelers",
+        "couples",
+        "those needing transport assistance"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/southern_thailand/surat_thani/surat_thani/all",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChomsurang%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Maneerote Hotel without knowing its focus on multi-night stays can leave one-night transit travelers feeling overcharged for a riverside vibe they barely experience.",
+    "intro": "Maneerote Hotel delivers spacious rooms with Tapi River-view balconies, a rooftop pool, and atmospheric Thai seafood dining in Surat Thani's city center. It's ideal for couples or visitors planning more than one night to enjoy the pier-area setting.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples multi-night stays",
+      "standout": "rooftop pool",
+      "noGoFor": "one-night budget travelers"
+    },
+    "whyBook": [
+      "Riverside balconies with Tapi River sunset views",
+      "Rooftop pool for relaxing city escapes",
+      "On-site restaurant with fresh Thai seafood",
+      "Near Tapee Pier for easy island ferry access",
+      "Spacious rooms above standard transit options"
+    ],
+    "whyNotBook": [
+      "No direct beach access in inland Surat Thani",
+      "Extra 500-800 THB cost over basic hotels",
+      "Quiet location lacks nightlife within walking distance",
+      "Standard mid-range service without luxury perks",
+      "Limited room variety beyond river-facing options"
+    ],
+    "skipIf": "Skip if you're a solo backpacker rushing to Koh Samui ferries and need the absolute cheapest transit spot.",
+    "detailedReview": "Checking into Maneerote Hotel feels straightforward at the riverside front desk, with staff efficiently handling bookings amid the hum of Tapee Pier nearby. Rooms are genuinely spacious, featuring balconies that let in the Tapi River breeze—upper floors catch stunning sunsets over the water, turning evenings into a highlight. The rooftop pool stands out as a serene spot, elevated above the city with views that make it feel like a mini-resort escape, though it's modestly sized for laps rather than crowds. Downstairs, the restaurant serves reliable Thai dishes and fresh seafood, with riverside seating adding to the atmosphere; portions are hearty but flavors stick to familiar regional staples without innovation. Service is polite and functional, typical of mid-range Thai hotels—prompt for requests like extra towels but not overly personalized. Guests here skew toward couples on short getaways or longer-stay visitors exploring Surat Thani before island hops, drawn by the pier proximity rather than urban buzz. Overall, it's a solid upgrade from bare-bones transit hotels, justifying the price for those lingering to appreciate the riverside charm, but it won't wow luxury seekers.",
+    "locationReality": "Maneerote Hotel sits in Surat Thani's City Center Riverside, just a 5-minute walk from Tapee Pier, the hub for ferries to Koh Samui and other islands. Within a 5-minute stroll, you'll find local eateries and the riverfront promenade, but major shopping or markets require a 10-15 minute Grab ride costing 100-150 THB. No beaches nearby—Surat Thani Airport is about 25-30 minutes away by taxi for 400-500 THB, making it convenient for arrivals but not walkable to urban nightlife.",
+    "localSignals": [
+      "5-minute walk to Tapee Pier for island ferries",
+      "Airport transfer typically 400-500 THB by taxi",
+      "1 rooftop swimming pool on property",
+      "1 restaurant serving Thai seafood",
+      "Nearby 7-Eleven within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the Tapi River views and rooftop pool for creating a peaceful atmosphere but note the mid-range service feels basic compared to pricier resorts.",
+    "bookingTips": [
+      "Request upper-floor rooms for best river sunset views",
+      "Check Agoda for deals, often 10-15% cheaper than Booking.com in Thailand",
+      "Prices spike December-February during island travel peak",
+      "Verify balcony views when booking to avoid street-facing rooms",
+      "Confirm breakfast inclusion, as it's not always standard"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Suan Resort (1,500-2,500 THB/night (~$42-70 USD)) — A pleasant mid-range resort set in tropical gardens on the outskirts of Surat Thani city. Wooden bungalows and garden rooms surrounded by fr",
+        "howDifferent": "Offers garden bungalows on city outskirts instead of riverside urban views."
+      },
+      {
+        "name": "Muang Thong Hotel (1,200-2,000 THB/night (~$34-56 USD)) — One of the more established mid-range options in Surat Thani city center, popular with business travelers and Thai visitors. Standard rooms",
+        "howDifferent": "Provides cheaper standard rooms in city center without river views or pool."
+      },
+      {
+        "name": "Chomsurang Hotel (1,400-2,200 THB/night (~$39-62 USD)) — A long-established hotel in the heart of Surat Thani, well-known to the traveler community as a reliable mid-range choice with genuinely hel",
+        "howDifferent": "Focuses on central reliability and helpful service but lacks riverside pool amenities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Maneerote Hotel have a pool?",
+        "a": "Yes, it features a rooftop swimming pool with Tapi River views, ideal for relaxation."
+      },
+      {
+        "q": "Is Maneerote Hotel near the ferry pier?",
+        "a": "It's a short 5-minute walk from Tapee Pier, convenient for island connections."
+      },
+      {
+        "q": "What kind of rooms are at Maneerote Hotel?",
+        "a": "Spacious rooms with balconies offering Tapi River views from upper floors."
+      },
+      {
+        "q": "Is breakfast included at Maneerote Hotel?",
+        "a": "Breakfast policy varies by booking; confirm with the platform or hotel directly."
+      },
+      {
+        "q": "How far is Maneerote Hotel from Surat Thani Airport?",
+        "a": "It's about 25-30 minutes by taxi, costing around 400-500 THB."
+      },
+      {
+        "q": "What's the vibe at Maneerote Hotel's restaurant?",
+        "a": "It serves Thai and seafood in a riverside setting with atmospheric river views."
+      }
+    ],
+    "urgencyLine": "Rooms at Maneerote Hotel with river-view balconies book out 1-2 months ahead for December-February high season—check availability today.",
+    "methodology": "We rated Maneerote Hotel based on location, amenities, and value from verified data like TripAdvisor scores and descriptions. We weighted riverside setting highest because it differentiates it from standard transit options in Surat Thani. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Maneerote Hotel Review (2026)",
+    "metaDescription": "Maneerote Hotel in Surat Thani offers riverside views and a rooftop pool for couples staying multiple nights. Mid-range at 1,800-3,000 THB, but lacks beach access—book for the Tapi atmosphere if lingering. Check rates now for your trip."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:39:23.992Z"
+}

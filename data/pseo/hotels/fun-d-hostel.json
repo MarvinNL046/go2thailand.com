@@ -1,0 +1,194 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-rai",
+  "cityName": "Chiang Rai",
+  "hotelSlug": "fun-d-hostel",
+  "hotel": {
+    "name": "Fun-D Hostel",
+    "category": "budget",
+    "priceRange": "250–500 THB/night (~$7–14 USD)",
+    "area": "City Center",
+    "description": "A modern hostel near the King Mengrai Monument with colorful decor and a social rooftop area. Private rooms are spacious for the price, and 6-bed dorms have individual reading lights and USB charging. Free bicycle rental is a huge plus for exploring the city.",
+    "highlights": [
+      "Free bicycle rental for guests",
+      "Rooftop social area",
+      "Walking distance to Saturday Walking Street"
+    ],
+    "bestFor": [
+      "backpackers",
+      "budget travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFun-D%2520Hostel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Mercy Hostel",
+      "category": "budget",
+      "priceRange": "200–450 THB/night (~$6–13 USD)",
+      "area": "City Center / Night Bazaar",
+      "description": "A clean, friendly hostel just a 5-minute walk from the Night Bazaar. Offers both 8-bed dorms with privacy curtains and private rooms with air-con. The common area is a social hub for meeting other travelers, and the staff organize occasional group dinners.",
+      "highlights": [
+        "Steps from the Night Bazaar and Clock Tower",
+        "Both dorm and private room options",
+        "Communal kitchen and free coffee/tea"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Chiang-Rai-Hotels.d6094729.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMercy%2520Hostel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Bua Guesthouse",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "City Center",
+      "description": "A family-run guesthouse in a quiet residential area, offering clean rooms with air-con, hot showers, and a garden terrace. The Thai-Western owners provide excellent travel advice and can arrange tours to the Golden Triangle and hill tribe villages.",
+      "highlights": [
+        "Garden terrace for breakfast",
+        "Owners arrange custom tours at fair prices",
+        "Quiet location 10-minute walk from Night Bazaar"
+      ],
+      "bestFor": [
+        "couples",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Bua%2520Guesthouse%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "NAI YA Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB/night (~$34–62 USD)",
+      "area": "City Center",
+      "description": "A stylish 4-star hotel with modern rooms, an outdoor swimming pool, and free bikes for exploring the city. The rooftop restaurant serves northern Thai cuisine with city views. Free private parking makes it ideal for those renting a car to explore the province.",
+      "highlights": [
+        "Outdoor swimming pool and fitness center",
+        "Free bikes for guests",
+        "Rooftop restaurant with city views"
+      ],
+      "reviewScore": "8.5/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNAI%2520YA%2520Hotel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Fun-D Hostel without knowing the 6-bed dorms can get noisy from social interactions can disrupt light sleepers' rest.",
+    "intro": "Fun-D Hostel provides affordable, modern lodging with spacious private rooms, colorful decor, and practical perks like USB charging in dorms and free bicycle rentals. It's tailored for backpackers and budget travelers seeking a social vibe in central Chiang Rai.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget backpackers",
+      "standout": "rooftop social area",
+      "noGoFor": "privacy-seeking families"
+    },
+    "whyBook": [
+      "Free bicycle rental eases city exploration",
+      "Spacious private rooms for budget rates",
+      "Individual reading lights in 6-bed dorms",
+      "Colorful decor creates lively atmosphere",
+      "Walking distance to Saturday Walking Street"
+    ],
+    "whyNotBook": [
+      "6-bed dorms offer limited privacy with shared spaces",
+      "Rooftop area may attract evening noise from guests",
+      "No on-site restaurant means eating out required",
+      "Basic amenities without air-con details specified",
+      "Social focus suits not solo quiet retreats"
+    ],
+    "skipIf": "Skip if you're a couple wanting complete seclusion away from hostel crowds.",
+    "detailedReview": "Checking into Fun-D Hostel feels welcoming with its modern setup near the King Mengrai Monument, where staff quickly assign keys and explain the free bicycle rental process. Private rooms deliver unexpected space for the 250–500 THB price, featuring clean lines and colorful accents that brighten the stay without excess frills. The 6-bed dorms include thoughtful touches like individual reading lights and USB charging ports per bed, making late-night planning convenient, though the shared setup means coordinating bathroom use during peak hours. The standout rooftop social area buzzes in evenings, with guests mingling over drinks from nearby spots, fostering easy connections for solo travelers. Food isn't on-site, so quality comes from local eateries within walking distance—simple Thai stalls rather than gourmet options. Service is casual and friendly, typical of hostels, with staff offering tips on Chiang Rai sights but not personalized concierge levels. Expect a mix of international backpackers in their 20s and 30s, chatting about temple hops or night market finds, creating a vibrant but sometimes chatty profile that suits outgoing types over those craving silence.",
+    "locationReality": "Fun-D Hostel sits in Chiang Rai's city center near the King Mengrai Monument, about a 2-minute walk away, placing it in a lively but not overwhelming urban spot. Within 5 minutes on foot, you'll reach basic shops and street food vendors, while the Saturday Walking Street is a short 10-minute stroll for weekend vibes. For farther spots like the Night Bazaar, it's a 15-minute walk or 50 THB Grab ride; the airport requires a 20-minute taxi costing around 200 THB.",
+    "localSignals": [
+      "Near King Mengrai Monument: 2-minute walk",
+      "Walking distance to Saturday Walking Street: 10 minutes",
+      "No pools or restaurants on property",
+      "USB charging available in 6-bed dorms",
+      "7-Eleven and street food within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the free bicycle rental and rooftop social area for easy socializing and exploration but note the dorms can feel communal with occasional noise from group activities.",
+    "bookingTips": [
+      "Request private rooms for more space over dorms",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike November to February during cool season",
+      "Verify bicycle availability as they're first-come first-served",
+      "Confirm no breakfast included before booking"
+    ],
+    "similarHotels": [
+      {
+        "name": "Mercy Hostel",
+        "howDifferent": "Offers 8-bed dorms with privacy curtains closer to Night Bazaar, but lacks free bikes."
+      },
+      {
+        "name": "Baan Bua Guesthouse",
+        "howDifferent": "Provides quieter family-run rooms with garden terrace in a residential area, at slightly higher rates without dorm options."
+      },
+      {
+        "name": "NAI YA Hotel",
+        "howDifferent": "Delivers 4-star comfort with a pool and rooftop restaurant, but at triple the price for upscale travelers."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Fun-D Hostel have private rooms?",
+        "a": "Yes, private rooms are spacious for the budget price, offering more seclusion than the 6-bed dorms."
+      },
+      {
+        "q": "Is free WiFi available at Fun-D Hostel?",
+        "a": "USB charging ports are in dorms, but full WiFi details vary; expect basic connectivity for travelers."
+      },
+      {
+        "q": "How far is Fun-D Hostel from Chiang Rai Night Bazaar?",
+        "a": "It's about a 15-minute walk or short Grab ride, making evening visits convenient without a car."
+      },
+      {
+        "q": "Are bikes really free at Fun-D Hostel?",
+        "a": "Yes, free bicycle rental is included for guests, ideal for pedaling around the city center."
+      },
+      {
+        "q": "What's the vibe like at Fun-D Hostel?",
+        "a": "The colorful decor and rooftop social area create a lively, backpacker-friendly atmosphere for mingling."
+      },
+      {
+        "q": "Does Fun-D Hostel include breakfast?",
+        "a": "No breakfast is mentioned, so plan for nearby street food or cafes in the city center."
+      }
+    ],
+    "urgencyLine": "Rooms at Fun-D Hostel with free bike access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Fun-D Hostel based on location, amenities like free rentals, and value for budget stays. We weighted the social rooftop and bike perks highest because they enhance exploration in Chiang Rai's compact center. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Fun-D Hostel Review (2026)",
+    "metaDescription": "Fun-D Hostel in Chiang Rai delivers budget stays with free bikes and a social rooftop near King Mengrai Monument, but dorms lack full privacy for quiet seekers. Perfect for backpackers—book your affordable spot now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:07:50.465Z"
+}

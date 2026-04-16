@@ -20,10 +20,24 @@
         "Abundant cheap restaurants and massage shops",
         "Tha Phae Gate is the main landmark and social hub"
       ],
-      "recommendedHotels": ["Julie Guesthouse", "U Chiang Mai", "The Inside House"],
+      "recommendedHotels": [
+        "Julie Guesthouse",
+        "U Chiang Mai",
+        "The Inside House"
+      ],
       "walkingScore": "9/10",
-      "transportNotes": ["Everything inside the moat is walkable", "Songthaews circle the moat road — flag one down for 30 THB", "Can get noisy on Sunday nights during the market"],
-      "sources": [{"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "Everything inside the moat is walkable",
+        "Songthaews circle the moat road — flag one down for 30 THB",
+        "Can get noisy on Sunday nights during the market"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
     },
     {
       "name": "Nimmanhaemin (Nimman)",
@@ -37,10 +51,22 @@
         "Excellent international dining — Japanese, Korean, Italian, vegan",
         "Soi 9 and Soi 11 have the best nightlife options"
       ],
-      "recommendedHotels": ["Sireeampan Boutique Resort & Spa"],
+      "recommendedHotels": [
+        "Sireeampan Boutique Resort & Spa"
+      ],
       "walkingScore": "7/10",
-      "transportNotes": ["10-minute songthaew ride to Old City (30 THB)", "Grab rides to Old City cost 50–80 THB", "Very walkable within Nimman itself"],
-      "sources": [{"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "10-minute songthaew ride to Old City (30 THB)",
+        "Grab rides to Old City cost 50–80 THB",
+        "Very walkable within Nimman itself"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
     },
     {
       "name": "Night Bazaar / Chang Khlan",
@@ -54,10 +80,22 @@
         "Easy access to both Old City and Riverside",
         "Good selection of beer bars and live music venues"
       ],
-      "recommendedHotels": ["ON Thapae Gate"],
+      "recommendedHotels": [
+        "ON Thapae Gate"
+      ],
       "walkingScore": "7/10",
-      "transportNotes": ["10-minute walk to Old City through Tha Phae Gate", "Night Bazaar area is well-served by tuk-tuks and songthaews", "Close to Warorot Market on the river"],
-      "sources": [{"sourceName": "PM Tours", "sourceUrl": "https://www.pm-tours.com/pm-tours-blog/chiang-mai-neighborhood-guide-where-to-stay-during-your-trip", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "10-minute walk to Old City through Tha Phae Gate",
+        "Night Bazaar area is well-served by tuk-tuks and songthaews",
+        "Close to Warorot Market on the river"
+      ],
+      "sources": [
+        {
+          "sourceName": "PM Tours",
+          "sourceUrl": "https://www.pm-tours.com/pm-tours-blog/chiang-mai-neighborhood-guide-where-to-stay-during-your-trip",
+          "lastVerified": "2026-03-13"
+        }
+      ]
     },
     {
       "name": "Riverside (Wat Ket / Charoen Rat)",
@@ -71,10 +109,23 @@
         "Saturday evening Riverside Night Market (smaller, more local)",
         "Morning mist over the Ping River is magical"
       ],
-      "recommendedHotels": ["137 Pillars House", "Melia Chiang Mai"],
+      "recommendedHotels": [
+        "137 Pillars House",
+        "Melia Chiang Mai"
+      ],
       "walkingScore": "5/10",
-      "transportNotes": ["15-minute walk or 5-minute Grab to Old City", "Less songthaew coverage — Grab is more reliable here", "Quieter but requires transport for temple-hopping"],
-      "sources": [{"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "15-minute walk or 5-minute Grab to Old City",
+        "Less songthaew coverage — Grab is more reliable here",
+        "Quieter but requires transport for temple-hopping"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
     },
     {
       "name": "Santitham",
@@ -89,8 +140,146 @@
         "Quick access to the north gate and Chang Phueak night food stalls"
       ],
       "walkingScore": "6/10",
-      "transportNotes": ["5–10 minute songthaew to Old City north gate", "Good for cycling — flat and less traffic than Nimman", "Monthly scooter rental common among long-stayers"],
-      "sources": [{"sourceName": "Cat is Out of the Office", "sourceUrl": "https://catisoutoftheoffice.com/where-to-stay-in-chiang-mai/", "lastVerified": "2026-03-13"}]
+      "transportNotes": [
+        "5–10 minute songthaew to Old City north gate",
+        "Good for cycling — flat and less traffic than Nimman",
+        "Monthly scooter rental common among long-stayers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Cat is Out of the Office",
+          "sourceUrl": "https://catisoutoftheoffice.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chang Phuak",
+      "description": "Chang Phuak is a district located immediately north of the Old City moat in Chiang Mai. It includes the historic Chang Puak Gate and several temples such as Wat Phra That Doi Kham. The area hosts a Sunday walking street market that attracts locals and visitors for food and goods.",
+      "bestFor": "families, budget travelers",
+      "priceLevel": "€",
+      "highlights": [
+        "Chang Puak Gate",
+        "Wat Phra That Doi Kham",
+        "Chang Phuak Sunday Walking Street"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Old City gates",
+        "Near Chiang Mai Bus Terminal 2"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Chang_Phuak_district"
+        }
+      ]
+    },
+    {
+      "name": "Warorot / Kad Luang",
+      "description": "Warorot Market, also known as Kad Luang, is Chiang Mai's largest fresh market located along the Ping River. The surrounding area has Chinese influences with shops selling textiles, gold, and street food. It serves as a hub for local shopping and dining.",
+      "bestFor": "foodies, budget travelers, shoppers",
+      "priceLevel": "€",
+      "highlights": [
+        "Warorot Market",
+        "Ton Payom Market",
+        "Chiang Mai Gate Night Market nearby"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Songthaews along Charoen Rat Road",
+        "Close to Chiang Mai Railway Station"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Warorot_Market"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g293917-d2466190-Reviews-Warorot_Market-Chiang_Mai.html"
+        }
+      ]
+    },
+    {
+      "name": "Huay Kaew",
+      "description": "Huay Kaew is the area around Chiang Mai University and the road leading to Doi Suthep mountain. It features cafes, small eateries, and access to Huay Kaew Waterfall. The neighborhood is popular for its proximity to nature trails and university vibe.",
+      "bestFor": "digital nomads, couples",
+      "priceLevel": "€–€€",
+      "highlights": [
+        "Chiang Mai University",
+        "Huay Kaew Waterfall",
+        "Doi Suthep Road cafes"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Old City to university",
+        "Tuk-tuks to Doi Suthep Temple"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Huay_Kaew_Waterfall"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/bangkok_to_chiang_mai/chiang_mai_beyond_the_old_city/huay_kaew"
+        }
+      ]
+    },
+    {
+      "name": "Loi Kroh",
+      "description": "Loi Kroh Road is a street parallel to the Night Bazaar area, lined with bars, restaurants, and guesthouses. It is known for its evening entertainment options including live music and nightlife venues. The road connects to major tourist spots in Chang Khlan.",
+      "bestFor": "nightlife, party, bars",
+      "priceLevel": "€",
+      "highlights": [
+        "Loi Kroh Road bars",
+        "Gentlemen's clubs",
+        "Night Bazaar entrance"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Walking distance from Night Bazaar",
+        "Songthaews along Chang Klan Road"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g293917-d459423-Reviews-or10-Loi_Kroh_Road-Chiang_Mai.html"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/bangkok_to_chiang_mai/chiang_mai_nightlife/loi_kroh"
+        }
+      ]
+    },
+    {
+      "name": "Hang Dong",
+      "description": "Hang Dong is a district south of the city center, featuring residential areas and large shopping centers. It includes markets for local crafts and access to rural attractions. Tourists visit for modern amenities and day trips to nearby villages.",
+      "bestFor": "families, shoppers",
+      "priceLevel": "€€",
+      "highlights": [
+        "Central Festival Chiang Mai",
+        "Hang Dong Market",
+        "Baan Tawai Village nearby"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Songthaews from Old City",
+        "Taxis to shopping malls",
+        "Near Chiang Mai International Airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Hang_Dong_district"
+        }
+      ]
     }
   ],
   "generalTips": [
@@ -103,11 +292,41 @@
     "Most budget guesthouses in the Old City don't appear on booking sites — walk the streets and compare rooms in person for the best deals"
   ],
   "generatedAt": "2026-03-13",
-  "lastUpdated": "2026-03-13",
+  "lastUpdated": "2026-04-15",
   "sources": [
-    {"sourceName": "Lonely Planet", "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai", "lastVerified": "2026-03-13"},
-    {"sourceName": "Rough Guides", "sourceUrl": "https://www.roughguides.com/thailand/where-to-stay-in-chiang-mai/", "lastVerified": "2026-03-13"},
-    {"sourceName": "Cat is Out of the Office", "sourceUrl": "https://catisoutoftheoffice.com/where-to-stay-in-chiang-mai/", "lastVerified": "2026-03-13"},
-    {"sourceName": "Global Gallivanting", "sourceUrl": "https://www.global-gallivanting.com/where-to-stay-in-chiang-mai-thailand/", "lastVerified": "2026-03-13"}
+    {
+      "sourceName": "Lonely Planet",
+      "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+      "lastVerified": "2026-03-13"
+    },
+    {
+      "sourceName": "Rough Guides",
+      "sourceUrl": "https://www.roughguides.com/thailand/where-to-stay-in-chiang-mai/",
+      "lastVerified": "2026-03-13"
+    },
+    {
+      "sourceName": "Cat is Out of the Office",
+      "sourceUrl": "https://catisoutoftheoffice.com/where-to-stay-in-chiang-mai/",
+      "lastVerified": "2026-03-13"
+    },
+    {
+      "sourceName": "Global Gallivanting",
+      "sourceUrl": "https://www.global-gallivanting.com/where-to-stay-in-chiang-mai-thailand/",
+      "lastVerified": "2026-03-13"
+    }
+  ],
+  "enrichmentLog": [
+    {
+      "date": "2026-04-15T14:17:46.580Z",
+      "added": [
+        "Chang Phuak",
+        "Warorot / Kad Luang",
+        "Huay Kaew",
+        "Loi Kroh",
+        "Hang Dong"
+      ],
+      "tokensIn": 728,
+      "tokensOut": 3321
+    }
   ]
 }

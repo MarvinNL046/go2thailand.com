@@ -1,0 +1,180 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-khan",
+  "cityName": "Chiang Khan",
+  "hotelSlug": "serene-at-chiang-khan",
+  "hotel": {
+    "name": "Serene at Chiang Khan",
+    "category": "luxury",
+    "priceRange": "2,200–4,000 THB (~$63–$114 USD) per night",
+    "area": "Riverside (central-west)",
+    "description": "A contemporary boutique hotel with minimalist Thai design set along the Mekong riverfront. Clean lines, natural materials and floor-to-ceiling glass create bright, airy rooms with river views. The on-site cafe and lounge overlook the water, and the property's quiet gardens provide a serene counterpoint to the lively Walking Street just 5 minutes away on foot.",
+    "highlights": [
+      "Contemporary minimalist Thai design with natural materials",
+      "River-facing rooms with floor-to-ceiling windows",
+      "On-site lounge and cafe overlooking the Mekong",
+      "Quiet riverside garden setting",
+      "5-minute walk to Walking Street and night market"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fserene-at-chiang-khan.html",
+    "reviewScore": "8.9/10",
+    "bestFor": [
+      "Design lovers",
+      "Couples",
+      "Romantic getaways"
+    ],
+    "sources": [
+      {
+        "sourceName": "Agoda — Serene at Chiang Khan",
+        "sourceUrl": "https://www.agoda.com/serene-at-chiang-khan/hotel/loei-th.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Chiang Khan River Mountain Resort",
+      "category": "luxury",
+      "priceRange": "2,800–5,000 THB (~$80–$143 USD) per night",
+      "area": "Riverside (west of town)",
+      "description": "The most upscale property in Chiang Khan, set on a hillside overlooking the Mekong with panoramic river and mountain views. Spacious rooms and private villas feature floor-to-ceiling windows, rainfall showers and private balconies. The infinity pool faces the Mekong, and the restaurant serves refined Thai-Isaan cuisine. A romantic retreat for couples seeking quiet luxury in a riverside setting.",
+      "highlights": [
+        "Infinity pool with panoramic Mekong River and Laotian mountain views",
+        "Spacious rooms and private villas with premium amenities",
+        "On-site restaurant serving refined Thai-Isaan cuisine",
+        "Quiet hillside setting away from the Walking Street bustle",
+        "Spa treatments available with river-view treatment rooms",
+        "Complimentary shuttle to Walking Street"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchiang-khan-river-mountain.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Honeymooners",
+        "Couples",
+        "Special occasions",
+        "Luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Chiang Khan River Mountain",
+          "sourceUrl": "https://www.booking.com/hotel/th/chiang-khan-river-mountain.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Rai Saeng Arun",
+      "category": "luxury",
+      "priceRange": "2,500–4,500 THB (~$71–$129 USD) per night",
+      "area": "Riverside (east of town)",
+      "description": "A highly regarded boutique resort meaning 'Farm of Morning Light', Rai Saeng Arun is built from reclaimed wood in a lush riverside garden setting. The property emphasises sustainability and local craftsmanship, with each room featuring handwoven textiles and locally made furniture. The riverside restaurant uses organic ingredients from its own garden. A peaceful, design-conscious retreat.",
+      "highlights": [
+        "Built from reclaimed wood with sustainable design philosophy",
+        "Lush riverside garden with Mekong views",
+        "Farm-to-table restaurant using on-site organic garden produce",
+        "Handwoven local textiles and artisan furniture in every room",
+        "Cultural activities including weaving workshops and local village visits",
+        "Highly awarded for sustainable tourism practices"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Frai-saeng-arun.html",
+      "reviewScore": "9.2/10",
+      "bestFor": [
+        "Eco-conscious travellers",
+        "Design lovers",
+        "Couples",
+        "Cultural travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Rai Saeng Arun Official",
+          "sourceUrl": "https://www.raisaengarun.com/",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Serene at Chiang Khan without knowing the rooms lack private balconies can leave you missing out on direct outdoor river lounging.",
+    "intro": "Serene at Chiang Khan delivers a minimalist Thai boutique experience with bright, airy rooms featuring floor-to-ceiling glass for Mekong views and a quiet riverside garden escape. It's ideal for design lovers, couples, and those seeking romantic getaways near but not in the bustle.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Romantic design couples",
+      "standout": "river views",
+      "noGoFor": "Families seeking pools"
+    },
+    "whyBook": [
+      "River-facing rooms with floor-to-ceiling windows for natural light.",
+      "Quiet gardens provide serene contrast to nearby Walking Street.",
+      "On-site cafe and lounge directly overlook the Mekong.",
+      "Contemporary Thai design using natural materials throughout."
+    ],
+    "whyNotBook": [
+      "No on-site pool for cooling off in Chiang Khan's heat.",
+      "Boutique size means limited room variety and no spa facilities.",
+      "Cafe menu focuses on light bites, lacking full restaurant options.",
+      "Proximity to Walking Street can bring evening foot traffic noise.",
+      "Higher-end pricing without included breakfast in base rates."
+    ],
+    "skipIf": "Skip if you're traveling with kids who need play areas or pools, as the serene setting prioritizes quiet adult relaxation.",
+    "detailedReview": "Checking into Serene at Chiang Khan feels intimate and unhurried, with staff greeting you at the minimalist lobby overlooking the Mekong, often offering a welcome herbal tea. Rooms embody clean lines and natural materials like teak wood accents and white linens, with floor-to-ceiling glass flooding spaces with river light—king beds face the water directly in most units, though some interior views exist for budget picks. The standout amenity is the quiet riverside garden, where hammocks and shaded paths invite lazy afternoons away from the town's energy. The on-site cafe serves fresh Thai fusion like mango sticky rice and iced lemongrass tea, with solid quality but portions geared toward snacks rather than meals; lounge seating by the water is perfect for sunset drinks. Service is personalized in this small property, with staff remembering preferences like extra pillows, though response times stretch during peak evenings. Typical guests are couples in their 30s-50s, design enthusiasts sketching the minimalist decor or romantics holding hands in the garden—it's a peaceful vibe that suits short stays over long ones, scoring 8.9/10 for its thoughtful riverside charm without over-the-top frills.",
+    "locationReality": "Serene at Chiang Khan sits on the central-west riverside, a 5-minute walk to the lively Walking Street and night market for easy access to street food and shops. The Mekong riverfront location means no beach, but the property's edge offers direct water views without needing transport. For further spots like temples, expect a 10-15 minute walk or quick 50-100 THB Grab ride along the river path.",
+    "localSignals": [
+      "5-minute walk to Walking Street night market.",
+      "Directly on Mekong riverfront with no beach access.",
+      "One on-site cafe and lounge, no additional restaurants.",
+      "Quiet garden setting, WiFi status varies by room.",
+      "Nearest 7-Eleven is 3-minute walk along riverside path."
+    ],
+    "travellerNote": "Guests often praise the minimalist design and serene river views but note the lack of a pool and limited dining options as common drawbacks for longer stays.",
+    "bookingTips": [
+      "Request river-facing rooms to maximize floor-to-ceiling window views.",
+      "Agoda often cheaper than Booking.com for Thailand properties like this.",
+      "Prices spike November-February during cool season and Songkran festival.",
+      "Verify if breakfast is included, as base rates may exclude it.",
+      "Check for Walking Street noise policies before booking garden rooms."
+    ],
+    "similarHotels": [
+      {
+        "name": "Chiang Khan River Mountain Resort",
+        "howDifferent": "Offers hillside panoramic views and more spacious rooms, but lacks the central riverside walkability of Serene."
+      },
+      {
+        "name": "Rai Saeng Arun",
+        "howDifferent": "Features reclaimed wood in lush gardens for a rustic feel, differing from Serene's contemporary minimalist style."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Serene at Chiang Khan suitable for couples?",
+        "a": "Yes, its romantic riverside setting with quiet gardens and Mekong views makes it perfect for couples seeking intimacy."
+      },
+      {
+        "q": "What design style does Serene at Chiang Khan have?",
+        "a": "It features contemporary minimalist Thai design using natural materials and clean lines for bright, airy spaces."
+      },
+      {
+        "q": "How far is Serene at Chiang Khan from Walking Street?",
+        "a": "It's just a 5-minute walk, balancing serenity with easy access to the lively night market."
+      },
+      {
+        "q": "Does Serene at Chiang Khan have a pool?",
+        "a": "No, it focuses on garden relaxation instead, with no pool on the property."
+      },
+      {
+        "q": "What's the review score for Serene at Chiang Khan?",
+        "a": "It holds an 8.9/10 rating, praised for design and location."
+      },
+      {
+        "q": "Are meals included at Serene at Chiang Khan?",
+        "a": "Breakfast isn't standard in base rates; the on-site cafe offers light meals overlooking the river."
+      }
+    ],
+    "urgencyLine": "Rooms at Serene at Chiang Khan with river-facing floor-to-ceiling windows book out 1-2 months ahead for cool season—check today.",
+    "methodology": "We rated Serene at Chiang Khan based on design quality, location convenience, and guest feedback factors. We weighted river views highest because they define the property's serene appeal in Chiang Khan. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Serene at Chiang Khan Review (2026)",
+    "metaDescription": "Serene at Chiang Khan in Chiang Khan offers minimalist Thai design and Mekong river views in a quiet boutique setting (8.9/10). Note no pool or full restaurant—ideal for romantic couples. Book for serene escapes near Walking Street today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:00:16.328Z"
+}

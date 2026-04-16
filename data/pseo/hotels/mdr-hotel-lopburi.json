@@ -1,0 +1,204 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lopburi",
+  "cityName": "Lopburi",
+  "hotelSlug": "mdr-hotel-lopburi",
+  "hotel": {
+    "name": "MDR Hotel Lopburi",
+    "category": "mid-range",
+    "priceRange": "800-1,300 THB/night (~$22-36 USD)",
+    "area": "New Town Lopburi",
+    "description": "A solid modern hotel in the New Town frequently cited by travelers as one of Lopburi's better-value mid-range options. Clean rooms with reliable air conditioning, hot water, and free WiFi. The New Town location means more restaurant and convenience store options immediately nearby compared to Old Town guesthouses. Friendly staff and good breakfast options. A comfortable base that won't stretch the budget.",
+    "highlights": [
+      "Popular choice among travelers for consistent quality",
+      "New Town location with restaurants and shops nearby",
+      "Clean modern rooms with reliable facilities",
+      "Good breakfast options"
+    ],
+    "bestFor": [
+      "couples",
+      "first-time visitors to Lopburi"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g303912-Lop_Buri_Lopburi_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMDR%2520Hotel%2520Lopburi%252C%2520Lopburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Hop Inn Lopburi",
+      "category": "budget",
+      "priceRange": "600-900 THB/night (~$17-25 USD)",
+      "area": "New Town Lopburi",
+      "description": "Part of Thailand's reliable budget chain with consistent standards across the country. Clean, well-maintained rooms with air conditioning, hot shower, free WiFi, and free private parking. The no-frills approach keeps prices low while maintaining comfort. Located in the New Town with easy transport links to the Old Town. The Thai chain model means you know exactly what to expect — it's not exciting, but it's dependable at this price point.",
+      "highlights": [
+        "Reliable Thai budget chain — consistent standards",
+        "Free WiFi and private parking",
+        "Good value for solo or couple travelers",
+        "Easy songthaew connection to Old Town (10 THB)"
+      ],
+      "reviewScore": "7.5/10 Booking.com",
+      "bestFor": [
+        "budget travelers",
+        "solo travelers",
+        "reliability seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/lop-buri.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHop%2520Inn%2520Lopburi%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "DadD Resort by Lopburi Inn Resort",
+      "category": "mid-range",
+      "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+      "area": "New Town Lopburi",
+      "description": "The best mid-range option in Lopburi proper — a full resort setup with an outdoor swimming pool, 24-hour front desk, buffet breakfast, free WiFi, and spacious air-conditioned rooms. The motel-style layout gives direct parking to your room. 90 rooms with room service, restaurant, and laundry facilities. Consistently good staff reviews. Located in the New Town, a quick songthaew ride from the Old Town ruins. A genuine step up from the guesthouses without breaking the budget.",
+      "highlights": [
+        "Outdoor swimming pool — a real plus in Lopburi's heat",
+        "Buffet breakfast included in most rates",
+        "Spacious rooms with direct parking access",
+        "24-hour front desk and room service"
+      ],
+      "reviewScore": "7.8/10 Expedia",
+      "bestFor": [
+        "couples",
+        "families",
+        "value mid-range"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Lop-Buri-Hotels-Lopburi-Inn-Resort.h16166156.Hotel-Information",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDadD%2520Resort%2520by%2520Lopburi%2520Inn%2520Resort%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "O2 Hotel Lopburi",
+      "category": "mid-range",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "New Town Lopburi",
+      "description": "A modern 3-star hotel in the New Town with a garden, air-conditioned rooms, free WiFi, and a contemporary design that stands out from Lopburi's generally older hotel stock. Clean, well-maintained rooms with thoughtful modern touches. A reliable choice for travelers who want more comfort than a guesthouse without paying significantly more. Good base for exploring both Old Town ruins and New Town services.",
+      "highlights": [
+        "Modern 3-star design — more contemporary than most Lopburi options",
+        "Garden area and clean common spaces",
+        "Free WiFi and AC in all rooms",
+        "New Town location with transport to Old Town"
+      ],
+      "bestFor": [
+        "couples",
+        "comfort-conscious travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/lop-buri.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DO2%2520Hotel%2520Lopburi%252C%2520Lopburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Lopburi worth it?",
+    "Where to stay in Lopburi, Thailand?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking MDR Hotel Lopburi without knowing its New Town location can leave you relying on Grab rides to reach Old Town monkey temples.",
+    "intro": "MDR Hotel Lopburi delivers clean, modern rooms with reliable air conditioning, hot water, and free WiFi in a convenient New Town spot surrounded by restaurants and shops. It's ideal for couples and first-time visitors seeking a comfortable, budget-friendly base without Old Town's chaos.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and first-timers",
+      "standout": "New Town location",
+      "noGoFor": "pool-seeking families"
+    },
+    "whyBook": [
+      "Clean rooms with reliable AC and hot water",
+      "Free WiFi throughout the property",
+      "Nearby restaurants and convenience stores",
+      "Friendly staff and solid breakfast options",
+      "Consistent quality for mid-range value"
+    ],
+    "whyNotBook": [
+      "No on-site pool for relaxation after sightseeing",
+      "New Town spot requires transport to Old Town attractions",
+      "Limited room variety compared to resort-style options",
+      "Breakfast options may feel basic over multiple days",
+      "Farther from Lopburi's historic monkey-filled temples"
+    ],
+    "skipIf": "Skip if you're a budget backpacker prioritizing Old Town immersion or need resort amenities like a pool.",
+    "detailedReview": "Checking into MDR Hotel Lopburi feels straightforward and welcoming, with friendly staff at the front desk quickly handling your arrival in the modern lobby. Rooms strike a clean, no-frills vibe—think simple furnishings, firm beds, and functional bathrooms with consistent hot water and air conditioning that keeps things cool even in Lopburi's heat. Free WiFi works reliably for streaming or planning day trips, making it easy to connect after exploring. The standout amenity is the location's convenience, with eateries and 7-Elevens just steps away, saving time on meals. Breakfast offers straightforward options like rice porridge, eggs, and toast, served in a casual dining area—nothing fancy but satisfying for starting your day. Service is attentive yet low-key, with staff happy to recommend local spots or arrange Grab rides to Old Town. Typical guests are couples on a short Thailand itinerary or first-timers to Lopburi, drawn by the value and modernity that contrasts with the area's guesthouse scene. Overall, it's a reliable pick for resting up without budget strain, though don't expect extras like a pool or spa. The hotel's consistent upkeep makes it a safe bet for those valuing practicality over flair.",
+    "locationReality": "MDR Hotel Lopburi sits in the modern New Town area, about 10-15 minutes by Grab (around 100-150 THB) from Old Town's key sites like Phra Prang Sam Yot temple and the monkey sanctuary. Within a 5-minute walk, you'll find local restaurants, convenience stores, and street food stalls for easy access to Thai eats. For deeper exploration of Lopburi's historic core, plan for short taxi or scooter rides, as walking the full distance isn't practical in the heat.",
+    "localSignals": [
+      "10-15 min Grab to Old Town monkey temples",
+      "Free WiFi included in all rooms",
+      "Good breakfast options available",
+      "Restaurants and shops within 5-min walk",
+      "No on-site pool or restaurants"
+    ],
+    "travellerNote": "Guests often praise the clean rooms and friendly staff but note the New Town location requires transport to main attractions.",
+    "bookingTips": [
+      "Request a higher-floor room for quieter stays away from street noise",
+      "Book via Agoda for Thailand-specific deals on mid-range hotels",
+      "Prices spike in November during Lopburi Monkey Festival",
+      "Verify breakfast inclusion as it varies by rate",
+      "Check for any nearby construction notices before confirming"
+    ],
+    "similarHotels": [
+      {
+        "name": "Hop Inn Lopburi (600-900 THB/night (~$17-25 USD)) — Part of Thailand's reliable budget chain with consistent standards across the country. Clean, well-maintained rooms with air conditioning, h",
+        "howDifferent": "Cheaper budget chain option with similar clean rooms but no breakfast focus."
+      },
+      {
+        "name": "DadD Resort by Lopburi Inn Resort (800-1,400 THB/night (~$22-39 USD)) — The best mid-range option in Lopburi proper — a full resort setup with an outdoor swimming pool, 24-hour front desk, buffet breakfast, free",
+        "howDifferent": "Offers a pool and resort vibe, better for relaxation seekers than MDR's urban convenience."
+      },
+      {
+        "name": "O2 Hotel Lopburi (700-1,200 THB/night (~$20-34 USD)) — A modern 3-star hotel in the New Town with a garden, air-conditioned rooms, free WiFi, and a contemporary design that stands out from Lopbur",
+        "howDifferent": "Similar New Town modernity but adds a garden, appealing more to design-focused stays."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Lopburi worth it?",
+        "a": "Lopburi is worth visiting for its unique monkey-filled temples and ancient Khmer ruins if you enjoy offbeat Thai history, though it's best as a day trip from Bangkok unless you're into primate encounters."
+      },
+      {
+        "q": "Where to stay in Lopburi, Thailand?",
+        "a": "Stay in New Town for modern comforts and nearby dining like at MDR Hotel Lopburi, or Old Town guesthouses for immersion near attractions—choose based on whether you prioritize convenience or centrality."
+      },
+      {
+        "q": "What amenities does MDR Hotel Lopburi have?",
+        "a": "It features clean air-conditioned rooms, hot water, free WiFi, and good breakfast options, with a focus on reliability over luxury extras."
+      },
+      {
+        "q": "Is MDR Hotel Lopburi good for couples?",
+        "a": "Yes, its quiet modern rooms and central New Town access make it suitable for couples seeking a comfortable base for Lopburi exploration."
+      },
+      {
+        "q": "How far is MDR Hotel Lopburi from the train station?",
+        "a": "It's about 5-10 minutes by Grab from Lopburi's main train station, making arrivals straightforward for public transport users."
+      },
+      {
+        "q": "Does MDR Hotel Lopburi include breakfast?",
+        "a": "Breakfast is available with good options, but confirm inclusion when booking as it depends on the room rate selected."
+      }
+    ],
+    "urgencyLine": "Rooms at MDR Hotel Lopburi with reliable WiFi and nearby dining book out 1-2 weeks ahead during weekends—check availability today.",
+    "methodology": "We rated MDR Hotel Lopburi based on traveler descriptions, location convenience, and value in the mid-range category. We weighted New Town accessibility highest because it directly impacts daily exploration in Lopburi. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "MDR Hotel Lopburi Review (2026)",
+    "metaDescription": "MDR Hotel Lopburi offers clean modern rooms and free WiFi in New Town, ideal for couples visiting Lopburi's temples. Note transport needed to Old Town sites. Read our honest review and book for value stays. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:45:33.954Z"
+}

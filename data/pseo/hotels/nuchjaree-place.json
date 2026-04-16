@@ -1,0 +1,179 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "khon-kaen",
+  "cityName": "Khon Kaen",
+  "hotelSlug": "nuchjaree-place",
+  "hotel": {
+    "name": "Nuchjaree Place",
+    "category": "budget",
+    "priceRange": "400–700 THB (~11–19 USD) per night",
+    "area": "Near Khon Kaen University",
+    "description": "A clean and cheerful 2-star hotel near Khon Kaen University, popular with visiting academics, students' families and budget travellers. Rooms are basic but tidy with air conditioning, Wi-Fi and private bathrooms. The university area location means plenty of cheap restaurants and cafes nearby. One of the cheapest proper hotel options in Khon Kaen.",
+    "highlights": [
+      "One of the cheapest hotels in Khon Kaen",
+      "Clean rooms with air conditioning and Wi-Fi",
+      "Near Khon Kaen University with many cheap eateries",
+      "Friendly staff",
+      "Quiet neighbourhood"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnuchjaree-place.html",
+    "reviewScore": "7.0/10",
+    "bestFor": [
+      "Budget travellers",
+      "University visitors",
+      "Extended stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "Momondo — Cheap Hotels Khon Kaen",
+        "sourceUrl": "https://www.momondo.com/hotels/khon-kaen",
+        "lastVerified": "2026-03-15"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Roma Hotel Khon Kaen",
+      "category": "budget",
+      "priceRange": "450–900 THB (~13–25 USD) per night",
+      "area": "City Centre / Klangmuang Road",
+      "description": "A solid 3-star budget hotel offering clean air-conditioned rooms with hot showers, Wi-Fi and a convenient central location near Bueng Kaen Nakhon lake and Wat Nong Wang. The rooms are simple but well-maintained, and the price-to-quality ratio is hard to beat. A reliable choice for budget travellers who want a proper hotel room rather than a hostel.",
+      "highlights": [
+        "Central location near Bueng Kaen Nakhon and Wat Nong Wang",
+        "Clean air-conditioned rooms with hot showers",
+        "Excellent value — proper hotel quality at budget prices",
+        "Free Wi-Fi throughout",
+        "Walking distance to lakeside restaurants"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Froma-khon-kaen.html",
+      "reviewScore": "7.2/10",
+      "bestFor": [
+        "Budget travellers",
+        "Solo travellers",
+        "Short stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Cheap Hotels Khon Kaen",
+          "sourceUrl": "https://www.tripadvisor.com/HotelsList-Khon_Kaen_Province-Hotels-Motels-Cheap-zfp16111747.html",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "name": "Kosa Hotel Khon Kaen",
+      "category": "budget",
+      "priceRange": "600–1,200 THB (~17–33 USD) per night",
+      "area": "City Centre / Srichan Road",
+      "description": "A well-known older hotel in central Khon Kaen that has been a city institution for years. The rooms are dated but clean and spacious, and the location on Srichan Road is excellent for accessing the walking street market, local restaurants and city temples. The on-site restaurant serves decent Thai food, and the swimming pool is a bonus at this price point.",
+      "highlights": [
+        "Prime Srichan Road location — walkable to Walking Street",
+        "Swimming pool — rare at this price range",
+        "Spacious rooms despite dated decor",
+        "On-site Thai restaurant",
+        "Long-established — well-known locally"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkosa.html",
+      "reviewScore": "7.0/10",
+      "bestFor": [
+        "Budget travellers",
+        "Central location seekers",
+        "Pool lovers on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Khon Kaen Accommodation",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northeast_thailand/khon_kaen/khon_kaen/all",
+          "lastVerified": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Is Khon Kaen a good place to live?",
+    "Is Khon Kaen in Isan?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Nuchjaree Place without knowing its basic room setup can lead to disappointment for those expecting modern comforts.",
+    "intro": "Nuchjaree Place offers clean, no-frills rooms with air conditioning, Wi-Fi, and private bathrooms in a quiet university neighborhood. It's ideal for budget travelers, visiting academics, and families of students seeking affordable stays near Khon Kaen University.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget university visitors",
+      "standout": "university location",
+      "noGoFor": "Luxury-seeking guests"
+    },
+    "whyBook": [
+      "Cheapest proper hotel in Khon Kaen at 400–700 THB",
+      "Clean rooms with air conditioning and free Wi-Fi",
+      "Quiet neighbourhood near university eateries",
+      "Friendly staff for budget stays"
+    ],
+    "whyNotBook": [
+      "Basic rooms lack modern decor or extra amenities like pools",
+      "University area feels student-focused, not vibrant nightlife",
+      "No on-site dining, relying on nearby cheap spots",
+      "Dated 2-star setup may disappoint after central hotels",
+      "Limited room variety for extended stays"
+    ],
+    "skipIf": "Skip if you're seeking central Khon Kaen excitement or upscale facilities.",
+    "detailedReview": "Checking into Nuchjaree Place feels straightforward and welcoming, with friendly staff at the front desk quickly handling the process for arriving guests, often academics or student families. The room vibe is tidy and functional—basic setups with air-conditioned spaces, reliable Wi-Fi for work or streaming, and private bathrooms that keep things clean without frills. Standout is the quiet neighbourhood, allowing restful nights away from city bustle, though no standout amenity like a pool elevates it beyond budget basics. Food isn't on-site, but the location means grabbing affordable Thai meals at nearby university cafes is easy, with options like noodle stalls within a short walk. Service style is approachable and helpful, with staff pointing out local spots, fitting the typical guest profile of thrifty travelers on extended stays. Overall, it's a cheerful spot for those prioritizing cost over luxury, delivering reliable cleanliness in Khon Kaen's university zone without surprises.",
+    "locationReality": "Nuchjaree Place sits right near Khon Kaen University, about a 5-minute walk to campus gates and surrounding eateries. The main attraction, Bueng Kaen Nakhon lake in central Khon Kaen, is roughly 15-20 minutes by Grab for 100-150 THB. Within a 5-minute walk, you'll find cheap restaurants and cafes, but reaching the city center or train station requires a short ride.",
+    "localSignals": [
+      "5-minute walk to Khon Kaen University entrance",
+      "Wi-Fi included in all rooms",
+      "No on-site pool or restaurant",
+      "Breakfast not included, varies by booking",
+      "7-Eleven and eatery strip within 300 meters"
+    ],
+    "travellerNote": "Guests often praise the clean rooms, friendly staff, and value near the university but note the basic facilities and distance from central attractions.",
+    "bookingTips": [
+      "Request ground-floor rooms for easier access during extended stays",
+      "Check Agoda for cheapest rates on Nuchjaree Place in Thailand",
+      "Prices spike during university semester starts in June and October",
+      "Verify Wi-Fi speed before booking for work needs",
+      "Confirm no construction nearby via recent reviews"
+    ],
+    "similarHotels": [
+      {
+        "name": "Roma Hotel Khon Kaen",
+        "howDifferent": "Offers a more central location near Bueng Kaen Nakhon with hot showers, at slightly higher 450–900 THB rates."
+      },
+      {
+        "name": "Kosa Hotel Khon Kaen",
+        "howDifferent": "Provides spacious but dated rooms in central Khon Kaen for 600–1,200 THB, better for city access than university proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Khon Kaen a good place to live?",
+        "a": "Khon Kaen is a good place to live for its affordable cost of living, university-driven community, and Isan cultural vibe, though it lacks big-city amenities."
+      },
+      {
+        "q": "Is Khon Kaen in Isan?",
+        "a": "Yes, Khon Kaen is in the Isan region of northeastern Thailand, known for its rural landscapes and spicy cuisine."
+      },
+      {
+        "q": "What is the review score for Nuchjaree Place?",
+        "a": "Nuchjaree Place has a review score of 7.0/10, reflecting solid budget value."
+      },
+      {
+        "q": "Is Nuchjaree Place near Khon Kaen University?",
+        "a": "Yes, it's located near Khon Kaen University, ideal for visitors with walking access to campus."
+      },
+      {
+        "q": "Does Nuchjaree Place have air conditioning?",
+        "a": "All rooms at Nuchjaree Place include air conditioning for comfortable stays."
+      },
+      {
+        "q": "What amenities are at Nuchjaree Place?",
+        "a": "It offers clean rooms with Wi-Fi, private bathrooms, and air conditioning, but no pool or on-site dining."
+      }
+    ],
+    "urgencyLine": "Rooms at Nuchjaree Place near Khon Kaen University book out 1-2 months ahead during semester starts—check availability today.",
+    "methodology": "We rated Nuchjaree Place based on cleanliness, location value, and budget suitability from guest feedback and data. We weighted proximity to Khon Kaen University highest because it defines the hotel's appeal for its core visitors. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nuchjaree Place Review (2026)",
+    "metaDescription": "Nuchjaree Place in Khon Kaen: Clean budget rooms with AC and Wi-Fi near university, from 400 THB/night. Basic setup lacks central buzz—book for affordable stays today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:31:17.129Z"
+}

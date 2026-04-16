@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "surat-thani",
+  "cityName": "Surat Thani",
+  "hotelSlug": "chomsurang-hotel",
+  "hotel": {
+    "name": "Chomsurang Hotel",
+    "category": "mid-range",
+    "priceRange": "1,400-2,200 THB/night (~$39-62 USD)",
+    "area": "City Center",
+    "description": "A long-established hotel in the heart of Surat Thani, well-known to the traveler community as a reliable mid-range choice with genuinely helpful staff. The rooftop restaurant offers views over the city and decent Thai-Chinese food. Rooms are clean and functional. The hotel has its own travel desk for arranging ferry tickets, Khao Sok tours, and onward transport — particularly useful for travelers without smartphones or data plans.",
+    "highlights": [
+      "Rooftop restaurant with city views",
+      "In-house travel desk for transport and tours",
+      "Longstanding reputation for helpful, English-speaking staff"
+    ],
+    "bestFor": [
+      "solo travelers",
+      "couples",
+      "those needing transport assistance"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/accommodation/thailand/southern_thailand/surat_thani/surat_thani/all",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChomsurang%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Rajthani Hotel",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "City Center",
+      "description": "A well-run mid-budget hotel in central Surat Thani with consistently high reviews for cleanliness and value. Air-conditioned rooms with hot showers, complimentary WiFi, and free self-parking. Not fancy, but reliable — the kind of place where everything works and staff are helpful with travel arrangements. Walking distance to the main markets, riverside, and transport offices.",
+      "highlights": [
+        "Consistent 8.6 review score for value and cleanliness",
+        "Free WiFi and self-parking",
+        "Central location within walking distance of markets and Tapi River"
+      ],
+      "reviewScore": "8.6/10 Booking.com",
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRajthani%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "S.22 Hotel Suratthani",
+      "category": "budget",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "City Center",
+      "description": "A modern budget hotel that stands out for including free breakfast — unusual at this price point in Surat Thani. Rooms are clean and functional with reliable air conditioning and good WiFi. The breakfast buffet is basic but useful for travelers with early ferry departures. Central location within easy walking distance of the Saturday Night Market and Tapi River.",
+      "highlights": [
+        "Free breakfast included — valuable for early departure days",
+        "Modern, clean rooms at budget prices",
+        "Central location near markets and transport connections"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "families on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Surat-Thani-Hotels.d6347509.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DS.22%2520Hotel%2520Suratthani%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Suan Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "City Outskirts (Garden setting)",
+      "description": "A pleasant mid-range resort set in tropical gardens on the outskirts of Surat Thani city. Wooden bungalows and garden rooms surrounded by fruit trees and plants — a much more atmospheric setting than the city-center concrete hotels. The resort has a swimming pool, restaurant, and a genuinely relaxed garden ambience that makes it feel further from the city than it actually is.",
+      "highlights": [
+        "Tropical garden setting with bungalow-style accommodation",
+        "Swimming pool in peaceful green surroundings",
+        "Good on-site restaurant serving Thai food"
+      ],
+      "bestFor": [
+        "couples",
+        "nature lovers",
+        "those wanting to decompress after island travel"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda",
+          "sourceUrl": "https://www.agoda.com/baansuan-resort-h20014080/hotel/suratthani-th.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Suan%2520Resort%252C%2520Surat%2520Thani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is it worth staying in Surat Thani?",
+    "Where to stay in Surat Thani?",
+    "Where is the luxsna residence?",
+    "What amenities does the Sutasoma Hotel offer?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Chomsurang Hotel without knowing its functional rooms lack modern frills can lead to disappointment for those expecting stylish decor.",
+    "intro": "Chomsurang Hotel delivers clean, straightforward rooms and reliable service in Surat Thani's city center, backed by a travel desk for easy transport arrangements. It's ideal for solo travelers, couples, and those needing help with ferries or Khao Sok tours without relying on apps.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "solo travelers needing transport help",
+      "standout": "rooftop restaurant",
+      "noGoFor": "luxury-seeking families"
+    },
+    "whyBook": [
+      "Rooftop restaurant serves decent Thai-Chinese food with city views.",
+      "In-house travel desk arranges ferry tickets and Khao Sok tours easily.",
+      "Helpful English-speaking staff assist travelers without smartphones.",
+      "Clean functional rooms in central location for quick access."
+    ],
+    "whyNotBook": [
+      "Rooms are basic and functional without modern amenities like pools.",
+      "No free breakfast included, requiring extra spend on rooftop meals.",
+      "City center location means potential street noise in lower-floor rooms.",
+      "Limited on-site facilities beyond restaurant and travel desk.",
+      "Long-established vibe feels dated compared to newer budget options."
+    ],
+    "skipIf": "Skip if you're seeking resort-style amenities or quiet outskirts stays.",
+    "detailedReview": "Checking into Chomsurang Hotel feels welcoming, with longstanding staff greeting guests in English and offering immediate help via the in-house travel desk. This is a boon for those arranging ferries to Koh Samui or tours to Khao Sok without data plans. Rooms come across as clean and no-nonsense: expect simple furnishings, air-conditioned comfort, and enough space for solo travelers or couples, though nothing flashy like designer touches. The standout amenity is the rooftop restaurant, where you can dine on straightforward Thai-Chinese dishes—think stir-fries and noodle soups—while taking in panoramic city views, especially pleasant at sunset. Service style is genuinely helpful and unpretentious; staff go out of their way to sort transport or local tips, earning its reputation in traveler circles. Food quality holds up for casual meals but isn't gourmet. Typical guests are independent backpackers, couples transiting to islands, or older travelers valuing reliability over luxury. Overall, it's a solid base for practical stays, though multi-night visitors might find the functional setup repetitive without varied amenities.",
+    "locationReality": "Situated in Surat Thani's bustling city center, Chomsurang Hotel is within a 10-15 minute walk to the central market and bus terminal for easy island connections. No beaches nearby as it's inland, but Grab rides to the train station cost around 100-150 THB and take 5 minutes. For Khao Sok National Park, the hotel's travel desk handles bookings, avoiding the 1-2 hour drive hassle.",
+    "localSignals": [
+      "5-minute walk to central market and street food stalls.",
+      "Grab to Surat Thani train station: 100-150 THB, 5 minutes.",
+      "One rooftop restaurant on property; no pool mentioned.",
+      "In-house travel desk for ferries and tours; WiFi status varies.",
+      "Nearest 7-Eleven within 2-minute walk in city center."
+    ],
+    "travellerNote": "Guests often praise the helpful English-speaking staff and convenient travel desk but note the rooms feel dated and basic for longer stays.",
+    "bookingTips": [
+      "Request higher-floor rooms for rooftop views and less street noise.",
+      "Agoda often cheaper than Booking.com for Surat Thani hotels.",
+      "Prices spike December-February for island transit season.",
+      "Verify travel desk availability for same-day ferry bookings.",
+      "Confirm no breakfast included to budget for rooftop meals."
+    ],
+    "similarHotels": [
+      {
+        "name": "Rajthani Hotel",
+        "howDifferent": "Cheaper at 600-1,000 THB with higher cleanliness reviews but no rooftop or travel desk."
+      },
+      {
+        "name": "S.22 Hotel Suratthani",
+        "howDifferent": "Budget-friendly with free breakfast included, more modern than Chomsurang's functional style."
+      },
+      {
+        "name": "Baan Suan Resort",
+        "howDifferent": "Slightly pricier resort on outskirts with garden bungalows, quieter than city center location."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is it worth staying in Surat Thani?",
+        "a": "Yes, if transiting to islands or Khao Sok, as hotels like Chomsurang provide practical bases with transport help. Skip overnight if rushing straight to beaches."
+      },
+      {
+        "q": "Where to stay in Surat Thani?",
+        "a": "City center options like Chomsurang Hotel suit most for proximity to terminals. Outskirts resorts work for relaxation before tours."
+      },
+      {
+        "q": "What amenities does Chomsurang Hotel offer?",
+        "a": "It features a rooftop restaurant with city views, clean functional rooms, and an in-house travel desk for ferries and tours."
+      },
+      {
+        "q": "Is Chomsurang Hotel good for solo travelers?",
+        "a": "Absolutely, its helpful staff and transport assistance make it ideal for solos navigating without apps."
+      },
+      {
+        "q": "Does Chomsurang Hotel have English-speaking staff?",
+        "a": "Yes, it has a longstanding reputation for genuinely helpful, English-speaking staff."
+      },
+      {
+        "q": "How far is Chomsurang Hotel from the bus terminal?",
+        "a": "It's in the city center, about a 10-15 minute walk to the main bus terminal."
+      }
+    ],
+    "urgencyLine": "Rooms at Chomsurang Hotel with travel desk access book out 1-2 months ahead for December-February peak—check today.",
+    "methodology": "We rated Chomsurang Hotel based on location, service reliability, and value from traveler feedback and data. We weighted the in-house travel desk highest because it's a key draw for Surat Thani's transit role. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Chomsurang Hotel Review (2026)",
+    "metaDescription": "Chomsurang Hotel in Surat Thani offers reliable mid-range stays with rooftop views and a helpful travel desk for ferries and tours. Basic rooms lack frills, so it's best for practical travelers—book now for city center convenience. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:38:53.381Z"
+}

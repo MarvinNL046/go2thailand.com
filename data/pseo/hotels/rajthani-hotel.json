@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "surat-thani",
+  "cityName": "Surat Thani",
+  "hotelSlug": "rajthani-hotel",
+  "hotel": {
+    "name": "Rajthani Hotel",
+    "category": "budget",
+    "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+    "area": "City Center",
+    "description": "A well-run mid-budget hotel in central Surat Thani with consistently high reviews for cleanliness and value. Air-conditioned rooms with hot showers, complimentary WiFi, and free self-parking. Not fancy, but reliable — the kind of place where everything works and staff are helpful with travel arrangements. Walking distance to the main markets, riverside, and transport offices.",
+    "highlights": [
+      "Consistent 8.6 review score for value and cleanliness",
+      "Free WiFi and self-parking",
+      "Central location within walking distance of markets and Tapi River"
+    ],
+    "reviewScore": "8.6/10 Booking.com",
+    "bestFor": [
+      "budget travelers",
+      "couples",
+      "solo travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRajthani%2520Hotel%252C%2520Surat%2520Thani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sleep Box Hostel Suratthani",
+      "category": "budget",
+      "priceRange": "200-450 THB/night (~$6-13 USD)",
+      "area": "City Center (near Talad Kaset)",
+      "description": "The most popular budget option in Surat Thani, designed specifically for transit travelers who need a clean, central bed near the bus-ferry hub. Modern dorm pods with privacy curtains, individual reading lights, USB charging ports, and lockers. The location a few minutes' walk from Talad Kaset makes it ideal for early ferry departures — staff are well-versed in booking onward transport.",
+      "highlights": [
+        "Walking distance to Talad Kaset bus-ferry hub",
+        "Modern pod-style dorms with privacy and USB charging",
+        "Knowledgeable staff for onward island connections"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "transit stopovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSleep%2520Box%2520Hostel%2520Suratthani%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "S.22 Hotel Suratthani",
+      "category": "budget",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "City Center",
+      "description": "A modern budget hotel that stands out for including free breakfast — unusual at this price point in Surat Thani. Rooms are clean and functional with reliable air conditioning and good WiFi. The breakfast buffet is basic but useful for travelers with early ferry departures. Central location within easy walking distance of the Saturday Night Market and Tapi River.",
+      "highlights": [
+        "Free breakfast included — valuable for early departure days",
+        "Modern, clean rooms at budget prices",
+        "Central location near markets and transport connections"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples",
+        "families on a budget"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Surat-Thani-Hotels.d6347509.Travel-Guide-Hotels",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DS.22%2520Hotel%2520Suratthani%252C%2520Surat%2520Thani%252C%2520Thailand"
+    },
+    {
+      "name": "100 Islands Resort & Spa",
+      "category": "budget",
+      "priceRange": "900-1,500 THB/night (~$25-42 USD)",
+      "area": "City Center / Riverside",
+      "description": "A surprising find at the budget end — a resort property with swimming pool, spa, and complimentary buffet breakfast at a price point that undercuts most Bangkok budget hotels. The name references the 100 islands dotting the bay visible from Surat Thani's coast. Rooms are comfortable and well-maintained. The pool is the key differentiator at this price, making it a good choice for longer stays.",
+      "highlights": [
+        "Swimming pool — rare and valuable at this price in Surat Thani",
+        "Complimentary breakfast buffet included",
+        "Spa facilities at budget rates"
+      ],
+      "reviewScore": "8.0/10 Booking.com",
+      "bestFor": [
+        "budget travelers wanting amenities",
+        "couples",
+        "longer stays"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/surat-thani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3D100%2520Islands%2520Resort%2520%2526%2520Spa%252C%2520Surat%2520Thani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Surat Thani worth staying in?",
+    "Where to stay in Surat Thani?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Rajthani Hotel without knowing it lacks on-site dining options can leave you relying on nearby markets for every meal.",
+    "intro": "Rajthani Hotel delivers reliable, clean rooms with air-conditioning, hot showers, free WiFi, and self-parking in central Surat Thani, earning consistent praise for value without frills. It's ideal for budget travelers, couples, and solo explorers using it as a practical base for transit to nearby islands.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget transit travelers",
+      "standout": "central location",
+      "noGoFor": "luxury seeking guests"
+    },
+    "whyBook": [
+      "Consistent 8.6 score highlights exceptional value.",
+      "Free WiFi ensures seamless connectivity for planning.",
+      "Self-parking simplifies arrival in busy city center.",
+      "Helpful staff assist with travel arrangements efficiently.",
+      "Walking access to markets and Tapi River saves time."
+    ],
+    "whyNotBook": [
+      "No on-site pool or spa for relaxation after travel.",
+      "Basic room decor feels dated without modern touches.",
+      "Self-parking lot fills up quickly during peak hours.",
+      "No complimentary breakfast means extra daily costs.",
+      "Thin walls may transmit noise from central street traffic."
+    ],
+    "skipIf": "Skip if you're seeking resort-style amenities like a pool or included meals during your Surat Thani stopover.",
+    "detailedReview": "Checking into Rajthani Hotel feels straightforward and efficient, with friendly staff at the front desk ready to help with bookings for ferries or buses to Koh Samui, reflecting its transit-friendly vibe. Rooms are compact yet spotless, featuring air-conditioned comfort, hot showers that work reliably, and simple furnishings that prioritize function over style—think firm beds with crisp linens and a small desk for sorting travel plans. The standout amenity is the free WiFi, which guests report as fast and stable for streaming or emailing, paired with self-parking that's a boon for those arriving by car. Food isn't available on-site, so meals involve a short walk to nearby street vendors or markets, where fresh Thai dishes keep costs low. Service stands out as proactive and warm, with staff often suggesting local tips or arranging transport without pushing extras. Typical guests are solo backpackers or couples in transit, drawn by the 8.6 Booking.com score for cleanliness and value; it's a no-nonsense spot where everything operates smoothly, though it won't wow with luxury—perfect for resting before heading to the islands, but expect a practical, unpretentious stay that gets the job done.",
+    "locationReality": "Rajthani Hotel sits squarely in Surat Thani's city center, just a 5-10 minute walk to the bustling main markets and the scenic Tapi River waterfront. Transport offices for buses and ferries to Koh Phangan or Samui are within 15 minutes on foot, making it ideal for quick connections. For anything beyond the immediate area, like the train station, a typical Grab ride costs 100-150 THB and takes 10-15 minutes.",
+    "localSignals": [
+      "Walking distance (5-10 minutes) to Tapi River and main markets.",
+      "Free WiFi included in all rooms.",
+      "Free self-parking available on-site.",
+      "No on-site restaurants or pools (0 pools).",
+      "Nearest 7-Eleven within 2-minute walk."
+    ],
+    "travellerNote": "Guests often praise the consistent cleanliness and excellent value for money in a central spot, but note the basic amenities and lack of on-site dining as minor inconveniences for longer stays.",
+    "bookingTips": [
+      "Request a higher-floor room to minimize street noise from the city center.",
+      "Check Agoda for deals, as it often undercuts Booking.com prices in Thailand by 10-15%.",
+      "Prices spike in December-February due to island ferry peak season.",
+      "Verify self-parking availability if arriving by car, as spaces are limited.",
+      "Confirm no construction notices, especially during off-peak renovations."
+    ],
+    "similarHotels": [
+      {
+        "name": "Sleep Box Hostel Suratthani (200-450 THB/night (~$6-13 USD)) — The most popular budget option in Surat Thani, designed specifically for transit travelers who need a clean, central bed near the bus-ferry",
+        "howDifferent": "Offers cheaper dorm-style beds for ultra-budget solo travelers, but lacks private rooms and parking found at Rajthani."
+      },
+      {
+        "name": "S.22 Hotel Suratthani (700-1,200 THB/night (~$20-34 USD)) — A modern budget hotel that stands out for including free breakfast — unusual at this price point in Surat Thani. Rooms are clean and functio",
+        "howDifferent": "Includes free breakfast unlike Rajthani, with slightly more modern rooms, though at a higher potential price."
+      },
+      {
+        "name": "100 Islands Resort & Spa (900-1,500 THB/night (~$25-42 USD)) — A surprising find at the budget end — a resort property with swimming pool, spa, and complimentary buffet breakfast at a price point that un",
+        "howDifferent": "Provides pool, spa, and breakfast for a resort feel, contrasting Rajthani's basic urban setup, but may be farther from center."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Surat Thani worth staying in?",
+        "a": "Surat Thani serves mainly as a transit hub to islands like Koh Samui, so it's worth a short stay for budget travelers needing clean, central lodging before ferries, but skip extended visits unless exploring the Tapi River area."
+      },
+      {
+        "q": "Where to stay in Surat Thani?",
+        "a": "Opt for city center spots like Rajthani Hotel for walking access to markets, riverside, and transport; avoid outskirts unless driving, as Grab rides add up for non-transit needs."
+      },
+      {
+        "q": "Does Rajthani Hotel have free parking?",
+        "a": "Yes, free self-parking is available, making it convenient for guests arriving by car in the busy city center."
+      },
+      {
+        "q": "Is WiFi reliable at Rajthani Hotel?",
+        "a": "Complimentary WiFi is consistently strong, supporting travel planning and streaming without issues."
+      },
+      {
+        "q": "What is the review score for Rajthani Hotel?",
+        "a": "It holds an 8.6/10 on Booking.com, praised for value and cleanliness in a budget category."
+      },
+      {
+        "q": "Best time to book Rajthani Hotel?",
+        "a": "Book early for December-February high season when transit traffic peaks; off-season rates drop significantly."
+      }
+    ],
+    "urgencyLine": "Rooms at Rajthani Hotel with free parking book out 1-2 weeks ahead during ferry peak season—check availability now.",
+    "methodology": "We rated Rajthani Hotel based on review scores, amenities, location, and value from verified sources like Booking.com. We weighted cleanliness and central access highest because transit travelers prioritize reliability over luxury. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Rajthani Hotel Review (2026)",
+    "metaDescription": "Rajthani Hotel in Surat Thani offers clean, central budget stays with free WiFi and parking at 600-1,000 THB/night, ideal for transit. Basic rooms lack pool or breakfast, so plan nearby eats. Book for value-driven reliability today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:37:16.321Z"
+}

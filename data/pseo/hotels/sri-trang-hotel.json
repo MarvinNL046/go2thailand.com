@@ -1,0 +1,168 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trang",
+  "cityName": "Trang",
+  "hotelSlug": "sri-trang-hotel",
+  "hotel": {
+    "name": "Sri Trang Hotel",
+    "category": "budget",
+    "priceRange": "600-1,100 THB/night (~$17-31 USD)",
+    "area": "Trang City Center (opposite train station)",
+    "description": "Trang's most historic hotel, founded in 1952 and occupying a prominent position directly opposite Trang train station. The building has been modernized while retaining original southern Thai character. Rooms range from basic fan rooms to air-conditioned deluxe options. The location is the main selling point — step off the overnight train and you're already at your hotel, with dim sum restaurants a 3-minute walk away.",
+    "highlights": [
+      "Directly opposite Trang train station — perfect for overnight train arrivals",
+      "One of Trang's oldest operating hotels — 1952 heritage building",
+      "Walking distance to all city-center dim sum restaurants and the night market"
+    ],
+    "bestFor": [
+      "train travelers",
+      "budget travelers",
+      "Trang first-timers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/trang.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSri%2520Trang%2520Hotel%252C%2520Trang%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "A Local Something",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "Trang City Center (near train station)",
+      "description": "Trang's most popular hostel occupies a thoughtfully renovated shophouse with artistic design touches, smart dorm beds with privacy curtains and lockers, and a rooftop cafe with city views. The owner is known for exceptional local advice — insider tips on dim sum spots and organizing island tours at local prices. 5 minutes walk from the train station and the main dim sum strip on Thanon Ratchadamnoen.",
+      "highlights": [
+        "Rooftop cafe — great for planning morning dim sum routes",
+        "Hostel staff arrange island tours at local (non-tourist) prices",
+        "5-minute walk to Trang train station and Thanon Ratchadamnoen dim sum shophouses"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "budget-conscious couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DA%2520Local%2520Something%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Yamawa Guesthouse",
+      "category": "budget",
+      "priceRange": "500-900 THB/night (~$14-25 USD)",
+      "area": "Trang City Center",
+      "description": "A well-regarded budget guesthouse run by a friendly local family who know Trang Province inside out. Private rooms with air conditioning and hot water, clean bathrooms, and strong WiFi. The owner helps guests plan efficient itineraries combining dim sum breakfast, island day trips, and cave visits. Good value private rooms — a step up from dorm sleeping for only slightly more money.",
+      "highlights": [
+        "Knowledgeable local owner — invaluable for planning island logistics",
+        "Clean private rooms with AC at hostel-adjacent prices",
+        "Walking distance to Trang's main food streets"
+      ],
+      "bestFor": [
+        "solo travelers",
+        "budget couples",
+        "travelers prioritizing local knowledge"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/southern_thailand/trang/trang/all",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYamawa%2520Guesthouse%252C%2520Trang%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Sri Trang Hotel without knowing the basic fan rooms can feel dated can leave you uncomfortable in Trang's humidity.",
+    "intro": "Sri Trang Hotel delivers a no-frills stay in a historic 1952 building modernized with southern Thai touches, offering rooms from basic fan options to air-conditioned deluxe ones right opposite Trang train station. It's ideal for train travelers, budget seekers, and first-timers exploring Trang who prioritize location over luxury.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "train and budget travelers",
+      "standout": "location",
+      "noGoFor": "luxury-seeking guests"
+    },
+    "whyBook": [
+      "Directly opposite Trang train station for easy arrivals",
+      "Historic 1952 building with retained southern Thai character",
+      "3-minute walk to city-center dim sum restaurants",
+      "Walking distance to Trang night market",
+      "Budget rates from 600 THB per night"
+    ],
+    "whyNotBook": [
+      "Basic fan rooms lack air conditioning and modern comforts",
+      "No on-site pool or gym for relaxation",
+      "Potential noise from trains opposite the hotel",
+      "Historic structure may show wear in common areas",
+      "Limited deluxe room availability during peak times"
+    ],
+    "skipIf": "Skip if you're arriving by car or plane and want a quieter spot away from the train station bustle.",
+    "detailedReview": "Checking into Sri Trang Hotel feels straightforward and efficient, with staff quickly handling overnight train arrivals at the front desk in the lobby of this 1952 heritage building. The vibe is unpretentious, blending modern updates like updated wiring with original southern Thai architectural elements such as tiled floors and wooden accents that nod to its long history as one of Trang's oldest operating hotels. Rooms vary: basic fan options are simple with minimal furnishings, suitable for short stays but potentially stuffy without AC, while deluxe air-conditioned rooms offer more space and comfort with en-suite bathrooms. The standout amenity is undeniably the location—stepping off the train puts you right there, no transport needed. Food isn't a focus on-site, but service is friendly and practical, with staff pointing out nearby dim sum spots just a 3-minute walk away. Typical guests are backpackers, train hoppers from Bangkok or the south, and local business travelers who appreciate the central spot without frills. Overall, it's a functional base for Trang first-timers, emphasizing heritage and convenience over extras, though longer stays might highlight the absence of amenities like a breakfast buffet or lounge area. The night market within walking distance adds evening appeal, but expect a basic, history-driven experience rather than polished hospitality.",
+    "locationReality": "Sri Trang Hotel sits directly opposite Trang train station in the city center, making it a 0-minute walk for arrivals but potentially noisy from passing trains. Within a 5-minute walk, you'll find dim sum restaurants and the night market for easy meals and shopping. Reaching beaches like Pak Meng requires a 45-60 minute drive or Grab ride costing around 800-1,200 THB, as Trang's main attractions are spread out beyond the urban core.",
+    "localSignals": [
+      "0-minute walk to Trang train station",
+      "3-minute walk to nearest dim sum restaurants",
+      "Walking distance (under 10 minutes) to Trang night market",
+      "No on-site pools or restaurants (0 amenities of that type)",
+      "WiFi availability varies; breakfast not included per data"
+    ],
+    "travellerNote": "Guests often praise the unbeatable train station location and historic charm but note the basic rooms can feel outdated and noisy from station activity.",
+    "bookingTips": [
+      "Request air-conditioned deluxe rooms for comfort over basic fan options",
+      "Check Agoda for cheapest rates in Thailand versus Booking.com",
+      "Prices spike in December-January high season and during Trang festivals",
+      "Verify noise levels if booking street-facing rooms near the station",
+      "Confirm no construction notices as the historic building gets periodic updates"
+    ],
+    "similarHotels": [
+      {
+        "name": "A Local Something",
+        "howDifferent": "Offers hostel-style dorms with artistic shophouse design instead of private historic rooms."
+      },
+      {
+        "name": "Yamawa Guesthouse",
+        "howDifferent": "Provides family-run private AC rooms with local expertise, lacking the train station proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How far is Sri Trang Hotel from Trang train station?",
+        "a": "It's directly opposite, so arrivals can walk over in under 1 minute without any transport."
+      },
+      {
+        "q": "What room types are available at Sri Trang Hotel?",
+        "a": "Options range from basic fan rooms to air-conditioned deluxe rooms, all in a modernized historic building."
+      },
+      {
+        "q": "Is Sri Trang Hotel good for budget travelers?",
+        "a": "Yes, with rates from 600-1,100 THB per night, it's ideal for those prioritizing location on a tight budget."
+      },
+      {
+        "q": "What's nearby Sri Trang Hotel in Trang?",
+        "a": "Dim sum restaurants are a 3-minute walk away, and the night market is within walking distance in the city center."
+      },
+      {
+        "q": "Does Sri Trang Hotel have air-conditioned rooms?",
+        "a": "Yes, deluxe options include air conditioning, while basic rooms have fans only."
+      },
+      {
+        "q": "How old is Sri Trang Hotel?",
+        "a": "Founded in 1952, it's one of Trang's oldest operating hotels with retained southern Thai character."
+      }
+    ],
+    "urgencyLine": "Rooms at Sri Trang Hotel opposite the train station book out 1-2 months ahead for December high season—check availability today.",
+    "methodology": "We rated Sri Trang Hotel based on location, heritage value, room variety, and budget fit from provided data. We weighted location highest because it's the core selling point for train travelers in Trang. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sri Trang Hotel Review (2026)",
+    "metaDescription": "Sri Trang Hotel in Trang offers historic 1952 charm opposite the train station for easy arrivals and budget stays at 600-1,100 THB/night. Basic fan rooms may feel dated without AC, but dim sum spots are 3 minutes away. Book now for Trang first-timers seeking central convenience."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:40:25.258Z"
+}

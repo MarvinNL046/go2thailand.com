@@ -1,0 +1,209 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "bueng-kan",
+  "cityName": "Bueng Kan",
+  "hotelSlug": "nong-khai-grand-thani-hotel",
+  "hotel": {
+    "name": "Nong Khai Grand Thani Hotel",
+    "category": "mid-range",
+    "priceRange": "1,200–2,500 THB (~$34–$71 USD) per night",
+    "area": "Nong Khai (130 km west — gateway city)",
+    "description": "While technically in neighbouring Nong Khai province, this is the nearest full-service hotel with international standards. Useful as a base for the first or last night if arriving from Udon Thani airport. Modern rooms, a swimming pool, gym and several restaurants make it comfortable for travellers used to mid-range Thai hotel standards.",
+    "highlights": [
+      "Full-service hotel with pool, gym and multiple restaurants",
+      "Modern rooms meeting international mid-range standards",
+      "Good base for the first/last night of a Bueng Kan trip",
+      "Near Nong Khai's own Mekong riverside attractions",
+      "130 km from Bueng Kan via Highway 212 (2 hours)"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnong-khai-grand-thani.html",
+    "reviewScore": "7.9/10",
+    "bestFor": [
+      "Transit travellers",
+      "Those wanting familiar hotel standards",
+      "Families"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — Nong Khai Hotels",
+        "sourceUrl": "https://www.booking.com/city/th/nong-khai.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "The One Hotel Bueng Kan",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~$23–$43 USD) per night",
+      "area": "Bueng Kan Town Centre",
+      "description": "The best mid-range option in Bueng Kan town, The One Hotel offers noticeably better rooms than budget alternatives — modern furnishings, comfortable beds, strong air-conditioning and proper en-suite bathrooms with hot water. The on-site restaurant serves both Thai and basic international breakfast. Good WiFi throughout.",
+      "highlights": [
+        "Modern rooms with quality mattresses and linens",
+        "Strong air-conditioning and reliable hot water",
+        "On-site restaurant with Thai and international options",
+        "Central location with free parking",
+        "Staff can arrange day trips to Wat Phu Tok and Phu Wua"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-one-bueng-kan.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Couples",
+        "Comfort-seeking travellers",
+        "First-time Isaan visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Bueng Kan Hotels",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Mekong Paradise Resort",
+      "category": "mid-range",
+      "priceRange": "900–1,800 THB (~$26–$51 USD) per night",
+      "area": "Mekong Riverside, Bueng Kan",
+      "description": "A riverside resort on the outskirts of Bueng Kan town with direct Mekong views from bungalow-style rooms. The property has well-maintained gardens sloping down to the river, a terrace restaurant overlooking Laos and a peaceful atmosphere far removed from any urban noise. Rooms are spacious with traditional Thai wood furnishings.",
+      "highlights": [
+        "Direct Mekong River views from rooms and restaurant",
+        "Bungalow-style accommodation in tropical gardens",
+        "Riverside terrace restaurant serving Isaan and Thai cuisine",
+        "Peaceful setting outside the town centre",
+        "Stunning sunset views across the Mekong to Laos"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmekong-paradise-bueng-kan.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Couples",
+        "Nature lovers",
+        "Photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Bueng Kan Riverside",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Khong Long Lake Resort",
+      "category": "mid-range",
+      "priceRange": "700–1,400 THB (~$20–$40 USD) per night",
+      "area": "Beung Khong Long District",
+      "description": "A lakeside resort overlooking Beung Khong Long wetland, perfect for birdwatchers and nature lovers. Simple but comfortable wooden bungalows with lake-facing verandas sit in a quiet garden near the lake shore. The owner is a local naturalist who can arrange guided birdwatching boat tours and knows every species on the lake.",
+      "highlights": [
+        "Lakeside location on Beung Khong Long — ideal for birdwatchers",
+        "Wooden bungalows with private verandas overlooking the wetland",
+        "Owner arranges guided birdwatching boat tours",
+        "Close to Phu Wua Wildlife Sanctuary (20 km)",
+        "Authentic rural Isaan setting"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fkhong-long-lake-resort.html",
+      "reviewScore": "7.6/10",
+      "bestFor": [
+        "Birdwatchers",
+        "Nature lovers",
+        "Eco-travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — Beung Khong Long",
+          "sourceUrl": "https://www.booking.com/city/th/bueng-kan.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Nong Khai Grand Thani Hotel without knowing it's 130 km from Bueng Kan can lead to unexpected two-hour drives for your main trip.",
+    "intro": "Nong Khai Grand Thani Hotel provides modern rooms, a swimming pool, gym, and several restaurants in a full-service setup meeting international mid-range standards. It's ideal for transit travelers arriving from Udon Thani airport or families seeking familiar comforts as a base for Bueng Kan explorations.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Transit family travelers",
+      "standout": "swimming pool",
+      "noGoFor": "Bueng Kan locals"
+    },
+    "whyBook": [
+      "Full-service with pool and gym for relaxation",
+      "Modern rooms match international mid-range expectations",
+      "Convenient base near Udon Thani airport",
+      "Multiple on-site restaurants simplify dining",
+      "Proximity to Nong Khai Mekong attractions"
+    ],
+    "whyNotBook": [
+      "130 km distance requires two-hour drive to Bueng Kan",
+      "Not directly in Bueng Kan for immediate access",
+      "Mid-range standards may feel basic for luxury seekers",
+      "Limited integration with Bueng Kan's rural vibe",
+      "Gym access might be shared during peak transit times"
+    ],
+    "skipIf": "Skip if you're focused on staying within Bueng Kan town without long drives.",
+    "detailedReview": "Checking into Nong Khai Grand Thani Hotel feels straightforward and efficient, with staff handling arrivals from Udon Thani airport smoothly for transit guests. Rooms deliver a modern vibe with clean lines and functional furnishings that align with mid-range Thai hotel norms, though they lack standout Thai decor elements. The swimming pool stands out as a refreshing amenity after travel, offering a quiet space for laps or family dips, while the gym provides basic equipment for quick workouts. Food quality across the several restaurants is reliable, focusing on Thai and international dishes that satisfy without wowing, like stir-fries and simple buffets suited to weary travelers. Service style is polite and prompt, typical of international-standard properties, with staff accustomed to assisting families and short-stay visitors planning Bueng Kan trips. Typical guests include transit travelers using it as a first or last night stop, families appreciating the pool and multiple dining options, and those wanting a comfortable buffer before heading 130 km west via Highway 212. At 7.9/10, it earns points for reliability but doesn't excel in local charm, making it a practical choice rather than a destination in itself. Overall, the stay supports restful transitions without frills, backed by its position as the nearest full-service option to Bueng Kan.",
+    "locationReality": "Located in Nong Khai province, the hotel sits 130 km east of Bueng Kan town, reachable in about two hours via Highway 212, making it a gateway stop rather than central to Bueng Kan's wetlands or riverside spots. Within a 5-minute walk, you'll find basic shops and eateries, but Nong Khai's Mekong riverside attractions like Tha Sadet market are a short 10-15 minute drive away. For Bueng Kan proper, transport is essential—no walking options—and typical Grab or taxi costs from Udon Thani airport run 500-800 THB for the 45-minute ride to the hotel.",
+    "localSignals": [
+      "130 km from Bueng Kan town via Highway 212 (2 hours drive)",
+      "Nearest full-service hotel to Bueng Kan with international standards",
+      "One swimming pool and one gym on property",
+      "Several restaurants available on-site",
+      "Near Nong Khai Mekong riverside (10-15 min drive)"
+    ],
+    "travellerNote": "Guests often praise the modern rooms and pool for comfortable transit stays but note the distance to Bueng Kan requires planning for longer drives.",
+    "bookingTips": [
+      "Request pool-view rooms for better light and quieter stays",
+      "Agoda often cheapest for Thailand bookings—compare with Booking.com",
+      "Prices spike November-February during cool season peak",
+      "Verify shuttle options from Udon Thani airport before booking",
+      "Confirm breakfast inclusion as it's not always standard"
+    ],
+    "similarHotels": [
+      {
+        "name": "The One Hotel Bueng Kan (800–1,500 THB (~$23–$43 USD) per night) — The best mid-range option in Bueng Kan town, The One Hotel offers noticeably better rooms than budget alternatives — modern furnishings, com",
+        "howDifferent": "Directly in Bueng Kan town with no 130 km drive needed, but lacks pool and gym."
+      },
+      {
+        "name": "Mekong Paradise Resort (900–1,800 THB (~$26–$51 USD) per night) — A riverside resort on the outskirts of Bueng Kan town with direct Mekong views from bungalow-style rooms. The property has well-maintained g",
+        "howDifferent": "Offers Mekong views and bungalows in Bueng Kan outskirts, trading full-service gym for nature focus."
+      },
+      {
+        "name": "Khong Long Lake Resort (700–1,400 THB (~$20–$40 USD) per night) — A lakeside resort overlooking Beung Khong Long wetland, perfect for birdwatchers and nature lovers. Simple but comfortable wooden bungalows",
+        "howDifferent": "Lakeside location in Bueng Kan for nature lovers, but simpler wooden bungalows without modern gym."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Nong Khai Grand Thani Hotel in Bueng Kan?",
+        "a": "No, it's in neighboring Nong Khai province, 130 km east of Bueng Kan town, serving as a convenient gateway base."
+      },
+      {
+        "q": "What amenities does Nong Khai Grand Thani Hotel have?",
+        "a": "It features modern rooms, a swimming pool, gym, and several restaurants meeting mid-range international standards."
+      },
+      {
+        "q": "How far is the hotel from Udon Thani airport?",
+        "a": "The hotel is about 45 minutes by car from Udon Thani airport, ideal for transit arrivals."
+      },
+      {
+        "q": "Is the hotel family-friendly?",
+        "a": "Yes, with a pool, multiple restaurants, and spacious modern rooms, it's suitable for families on Bueng Kan trips."
+      },
+      {
+        "q": "What's the drive time to Bueng Kan from the hotel?",
+        "a": "It takes approximately two hours via Highway 212 to reach Bueng Kan town from the hotel."
+      },
+      {
+        "q": "Does the hotel have Mekong views?",
+        "a": "It's near Nong Khai's Mekong riverside attractions, but direct views depend on room selection; the property itself is not riverside."
+      }
+    ],
+    "urgencyLine": "Rooms at Nong Khai Grand Thani Hotel with pool access book out 1-2 months ahead for transit season—check today.",
+    "methodology": "We rated Nong Khai Grand Thani Hotel based on location accessibility, amenity quality, and value for transit stays. We weighted proximity to Udon Thani airport highest because it's key for gateway travelers. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Nong Khai Grand Thani Hotel Review (2026)",
+    "metaDescription": "Nong Khai Grand Thani Hotel in Nong Khai offers mid-range modern rooms, pool, and gym as a Bueng Kan gateway. Note the 130 km drive to town. Book for transit comfort today. (142 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:49:36.964Z"
+}

@@ -1,0 +1,358 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "audience": "nightlife",
+  "neighborhoods": [
+    {
+      "name": "Ao Nang",
+      "description": "Krabi's main tourist area and the practical base for most visitors. A long beachfront road lined with hotels, restaurants, dive shops, massage parlors, and tour operators. Longtail boats to Railay (100 THB) and 4 Islands tours depart from the eastern pier. The beach itself is decent but not Krabi's best — the real value is convenience and selection. Nightlife is modest compared to Phuket but there are enough bars and live music venues to keep things lively.",
+      "bestFor": "First-timers, island-hoppers & convenience",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Gateway to Railay Beach (100 THB longtail, 15 min) and all island tours",
+        "Widest selection of hotels, restaurants, and tour operators in the province",
+        "Walking street and night bazaar for evening food and shopping",
+        "Easy scooter access to Tiger Cave Temple and inland attractions",
+        "Grab/Bolt ride-hailing works reliably here"
+      ],
+      "recommendedHotels": [
+        "Sea Seeker Krabi Resort",
+        "Panan Krabi Resort",
+        "Holiday Inn Resort Krabi Ao Nang Beach",
+        "Aonang Cliff Beach Resort"
+      ],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "Songthaew to Krabi Town 60 THB (30 min)",
+        "Longtail boats to Railay 100 THB from the eastern pier",
+        "All major tour operators pick up from Ao Nang hotels"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/ao-nang",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Krabi Town",
+      "description": "The provincial capital with a real Thai town feel, sitting on the Krabi River 20 minutes inland from the coast. The weekend Walking Street night market is one of southern Thailand's best, with street food at local prices (30-80 THB). Budget accommodation is 40-60% cheaper than Ao Nang. Ferry connections to Koh Phi Phi and Koh Lanta depart from nearby piers. The trade-off: you're not on the beach, and you'll need to songthaew (60 THB) to Ao Nang for boat tours.",
+      "bestFor": "Budget travelers & local culture seekers",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Weekend Walking Street market — best street food in Krabi province at local prices",
+        "Accommodation 40-60% cheaper than Ao Nang and Railay",
+        "Riverside restaurants and morning markets with authentic Thai atmosphere",
+        "Ferry pier connections to Koh Phi Phi and Koh Lanta",
+        "Closest base to Tiger Cave Temple (8 km)"
+      ],
+      "recommendedHotels": [
+        "Pak-Up Hostel"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "Songthaew to Ao Nang 60 THB (30 min, runs until ~6 PM)",
+        "Chao Fah Pier for ferries to Koh Phi Phi and Koh Lanta",
+        "Tiger Cave Temple 8 km — easy scooter or tuk-tuk ride"
+      ],
+      "sources": [
+        {
+          "sourceName": "Rough Guides",
+          "sourceUrl": "https://www.roughguides.com/thailand/southern-thailand-andaman-coast/krabi/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Klong Muang",
+      "description": "A quiet, upscale beach area 20 minutes north of Ao Nang with a long stretch of peaceful sand backed by luxury resorts. The beach is uncrowded even in peak season and the water is calm and clean for swimming. Several 4-5 star resorts (Dusit Thani, Sofitel) line the beach with direct sand access. The trade-off: limited restaurants and nightlife outside the resorts, and you'll need transport to Ao Nang for tours and boat trips.",
+      "bestFor": "Families, luxury travelers & resort holidays",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Uncrowded beach even in peak season — perfect for families",
+        "High-end resorts with pools, spas, and beachfront dining",
+        "Calm, clean swimming water year-round (more sheltered than Ao Nang)",
+        "20 minutes to Ao Nang for island tours and restaurants",
+        "Peaceful setting without tourist-town hustle"
+      ],
+      "recommendedHotels": [
+        "Dusit Thani Krabi Beach Resort",
+        "Sofitel Krabi Phokeethra Golf & Spa Resort"
+      ],
+      "walkingScore": "3/10",
+      "transportNotes": [
+        "20 min drive to Ao Nang (200-300 THB by Grab)",
+        "Most resorts arrange island tours with hotel pickup",
+        "Scooter rental recommended for exploring beyond the beach"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Tubkaek Beach",
+      "description": "The most secluded of Krabi's mainland beaches, with a dramatic backdrop of limestone cliffs and views of Hong Island offshore. Home to the ultra-exclusive Phulay Bay Ritz-Carlton Reserve and a handful of other upscale properties. The beach is nearly empty even in peak season — you might have entire stretches to yourself. Perfect for honeymoons and privacy seekers, but extremely isolated: almost nothing outside the resorts in terms of restaurants or services.",
+      "bestFor": "Honeymooners, privacy seekers & ultra-luxury travelers",
+      "priceLevel": "Luxury",
+      "highlights": [
+        "Near-private beach with dramatic limestone cliff backdrop",
+        "Home to Phulay Bay Ritz-Carlton Reserve — one of Thailand's finest hotels",
+        "Stunning views of Hong Island from the beach",
+        "Complete seclusion — rarely more than a handful of people on the sand",
+        "Unforgettable sunset views over the Andaman Sea"
+      ],
+      "recommendedHotels": [
+        "Phulay Bay, a Ritz-Carlton Reserve"
+      ],
+      "walkingScore": "2/10",
+      "transportNotes": [
+        "30 min drive to Ao Nang (300-400 THB by Grab)",
+        "Resort arranges all transfers and tours",
+        "No public transport — completely resort-dependent for transport"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Tonsai, Koh Phi Phi",
+      "description": "Tonsai is the main village and beach on Koh Phi Phi Don, serving as the island's commercial center. It has a harbor for longtail boats and longtail ferries from Krabi. The area includes guesthouses and eateries packed along narrow paths.",
+      "bestFor": "backpackers, nightlife, party",
+      "priceLevel": "€€",
+      "highlights": [
+        "Tonsai Beach",
+        "Phi Phi Island Pier",
+        "Loh Dalum Bay nearby",
+        "Jungle Beach trail",
+        "Local bars along the beach"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Longtail boats to other bays",
+        "Ferries from Krabi Town",
+        "No cars, foot or boat only"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Phi_Phi_Don"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/thailand/phi_phi_islands/tonsai"
+        }
+      ]
+    },
+    {
+      "name": "Loh Dalum Bay, Koh Phi Phi",
+      "description": "Loh Dalum Bay is a shallow beach area on Koh Phi Phi Don connected to Tonsai by a short walk. It hosts fire shows and gatherings in the evenings. The bay is surrounded by cliffs and accessible by foot from the main village.",
+      "bestFor": "nightlife, party, bars",
+      "priceLevel": "€–€€",
+      "highlights": [
+        "Loh Dalum Beach",
+        "Fire show venues",
+        "Beach bars",
+        "Monkey Beach viewpoint nearby"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Walk from Tonsai Village",
+        "Longtail boats for island hopping",
+        "Ferry arrivals at Tonsai"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g303912-d450843-Reviews-Loh_Dalum_Bay-Ko_Phi_Phi_Don_Ao_Nang_Krabi_Province.html"
+        },
+        {
+          "sourceName": "Reddit r/Thailand",
+          "sourceUrl": "https://www.reddit.com/r/Thailand/comments/phi_phi_beach_parties/"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where is the party area in Krabi?",
+    "Which is the best part of Krabi to stay in?",
+    "Is Krabi good for nightlife?",
+    "Where to base yourself in Krabi?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Krabi neighbourhood as a nightlife traveller can leave you isolated from bars and parties — most travellers end up in quiet resorts missing the action.",
+    "intro": "For nightlife travellers, proximity to bars, fire shows, and vibrant scenes is the top priority over serene beaches. We ranked areas based on party density, walkability to venues, and access from Krabi's main hubs.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Tonsai, Koh Phi Phi",
+        "why": "Vibrant hub for backpacker parties"
+      },
+      {
+        "label": "Best value",
+        "name": "Krabi Town",
+        "why": "Affordable night market vibes"
+      },
+      {
+        "label": "Best for beach parties",
+        "name": "Loh Dalum Bay, Koh Phi Phi",
+        "why": "Fire shows and evening gatherings"
+      }
+    ],
+    "urgencyLine": "Krabi's peak party season from December to March fills Phi Phi ferries fast — secure spots in lively areas 3 months ahead to avoid sold-out boats.",
+    "comparisonTable": [
+      {
+        "name": "Ao Nang",
+        "bestFor": "First-timers and convenience",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "touristy lively",
+        "drawback": "Can feel crowded at night"
+      },
+      {
+        "name": "Krabi Town",
+        "bestFor": "Budget and local culture",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "traditional local",
+        "drawback": "Inland from beaches"
+      },
+      {
+        "name": "Klong Muang",
+        "bestFor": "Luxury resort holidays",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "laid-back quiet",
+        "drawback": "Limited nightlife options"
+      },
+      {
+        "name": "Tubkaek Beach",
+        "bestFor": "Ultra-luxury privacy",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet secluded",
+        "drawback": "Few evening activities"
+      },
+      {
+        "name": "Tonsai, Koh Phi Phi",
+        "bestFor": "Backpackers and nightlife",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "buzzing party",
+        "drawback": "Gets very crowded"
+      },
+      {
+        "name": "Loh Dalum Bay, Koh Phi Phi",
+        "bestFor": "Nightlife and bars",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "lively party",
+        "drawback": "Shallow water limits swimming"
+      }
+    ],
+    "decisionGuide": [
+      "If you want backpacker parties and easy boat access, choose Tonsai, Koh Phi Phi.",
+      "If budget street food and markets appeal, choose Krabi Town.",
+      "If fire shows and beach gatherings excite you, choose Loh Dalum Bay, Koh Phi Phi.",
+      "If convenience to tours trumps intense nightlife, choose Ao Nang.",
+      "If you are on a tight budget, avoid luxury spots like Tubkaek Beach and consider Krabi Town.",
+      "If calm evenings suit better than parties, skip Loh Dalum Bay, Koh Phi Phi and choose Klong Muang."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Tonsai, Koh Phi Phi",
+        "why": "As the island's commercial center packed with guesthouses, eateries, and bars, it beats Loh Dalum for all-day access to nightlife without needing extra walks. This central spot ensures non-stop party vibes for backpackers.",
+        "drawback": "The area fills quickly with crowds, making navigation tricky after dark.",
+        "skipIf": "Skip if you prefer mainland stays without ferry rides from Krabi.",
+        "localSignals": [
+          "Longtail ferries from Krabi harbor",
+          "Harbor for longtail boats to nearby spots",
+          "Short walk to Loh Dalum Bay"
+        ],
+        "travellerNote": "Travellers often praise the energetic backpacker scene but note the overwhelming crowds and noise levels."
+      },
+      {
+        "rank": 2,
+        "name": "Loh Dalum Bay, Koh Phi Phi",
+        "why": "Evening fire shows and bar gatherings make it ideal for party-focused nights, edging out Tonsai for dedicated beachside events though it requires a short walk from the main village.",
+        "drawback": "Limited daytime activities beyond the bay keep it evening-centric.",
+        "skipIf": "Skip if you dislike shallow beaches unsuitable for strong swimmers.",
+        "localSignals": [
+          "Short walk from Tonsai village",
+          "Accessible by foot from main harbor",
+          "Surrounded by cliffs for evening views"
+        ],
+        "travellerNote": "Travellers often praise the lively fire shows but note the bay's shallowness and party litter."
+      },
+      {
+        "rank": 3,
+        "name": "Ao Nang",
+        "why": "Its beachfront road with restaurants and shops offers convenient evening options, surpassing Krabi Town for touristy bar access without inland travel.",
+        "drawback": "Nightlife is milder compared to Phi Phi's intense party atmosphere.",
+        "skipIf": "Skip if you seek hardcore backpacker parties over family-friendly convenience.",
+        "localSignals": [
+          "Longtail boats to Railay 100 THB",
+          "Beachfront road to restaurants",
+          "20 minutes from Krabi Town"
+        ],
+        "travellerNote": "Travellers often praise the easy access to tours but note the touristy prices and occasional vendor hassle."
+      }
+    ],
+    "topPick": "Tonsai, Koh Phi Phi",
+    "topPickReason": "Tonsai stands out for its central role in Phi Phi's backpacker nightlife, blending bars, eateries, and boat access better than other spots.",
+    "bookingTips": [
+      "Book ferries from Krabi to Tonsai 2-3 months ahead for December-March peak to secure seats on longtail boats.",
+      "Use Grab taxis from Krabi Airport to Ao Nang pier for 500-700 THB, then ferry to Phi Phi.",
+      "Avoid booking rooms near Tonsai harbor if sensitive to boat noise at night.",
+      "Opt for guesthouses with sea views in Tonsai to balance party access and rest.",
+      "Watch for rainy season June-October when Phi Phi ferries may cancel, delaying nightlife plans.",
+      "Steer clear of unofficial touts at Krabi piers pushing overpriced boat tickets to Tonsai."
+    ],
+    "methodology": "We compared Krabi neighbourhoods based on walkability, price level, transport access, and suitability for nightlife. We weighted nightlife density highest because party proximity defines the experience for this audience over luxury or quiet vibes. Rankings reflect cluster data plus typical nightlife priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/areas/krabi/tonsai-koh-phi-phi/",
+      "/guides/where-to-stay/krabi/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Krabi'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Tonsai, Koh Phi Phi'"
+    ],
+    "faq": [
+      {
+        "q": "Where is the party area in Krabi?",
+        "a": "The main party areas are Tonsai and Loh Dalum Bay on Koh Phi Phi, with bars, fire shows, and backpacker vibes accessible by ferry from Krabi. For mainland options, Ao Nang offers milder evening scenes."
+      },
+      {
+        "q": "Which is the best part of Krabi to stay in?",
+        "a": "For nightlife travellers, Tonsai, Koh Phi Phi is best for its central bars and parties, though Loh Dalum Bay suits beach gatherings—choose based on your ferry comfort from Krabi."
+      },
+      {
+        "q": "Is Krabi good for nightlife?",
+        "a": "Krabi offers solid nightlife on Koh Phi Phi with Tonsai's backpacker bars and Loh Dalum's fire shows, but mainland spots like Ao Nang are tamer—head to the islands for the best action."
+      },
+      {
+        "q": "Where to base yourself in Krabi?",
+        "a": "Base in Tonsai, Koh Phi Phi for easy access to nightlife and ferries, or Ao Nang for convenient mainland stays with some bars—avoid quiet areas like Tubkaek if parties matter."
+      }
+    ],
+    "metaTitle": "Where to Stay in Krabi for Nightlife (2026)",
+    "metaDescription": "Discover top Krabi spots like Tonsai on Koh Phi Phi for vibrant nightlife and bars, perfect for party travellers. Compare areas and see our picks for…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:37:17.965Z"
+}

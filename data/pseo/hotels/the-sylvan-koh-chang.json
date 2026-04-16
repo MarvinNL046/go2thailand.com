@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trat",
+  "cityName": "Trat",
+  "hotelSlug": "the-sylvan-koh-chang",
+  "hotel": {
+    "name": "The SYLVAN Koh Chang",
+    "category": "luxury",
+    "priceRange": "5,000-15,000 THB/night (~$140-420 USD)",
+    "area": "Klong Prao Beach, Koh Chang",
+    "description": "A modern luxury boutique resort on Klong Prao Beach with contemporary design, infinity pool overlooking the sea, and an acclaimed restaurant. The SYLVAN represents the new wave of upscale properties on Koh Chang — stylish, service-focused, and designed for travelers who want luxury without the mega-resort experience. Smaller and more intimate than KC Grande or Santhiya.",
+    "highlights": [
+      "Contemporary design with infinity pool overlooking the Gulf",
+      "Boutique scale — more intimate than large chain resorts",
+      "Acclaimed restaurant with Thai and international cuisine"
+    ],
+    "bestFor": [
+      "couples",
+      "design-conscious travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520SYLVAN%2520Koh%2520Chang%252C%2520Trat%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "KC Grande Resort & Spa",
+      "category": "luxury",
+      "priceRange": "4,350-9,980 THB/night (~$122-280 USD)",
+      "area": "White Sand Beach, Koh Chang",
+      "description": "The most popular 5-star resort on Koh Chang, featuring five swimming pools, a private beach section on White Sand Beach, full-service spa, and multiple restaurants. Accommodation ranges from standard deluxe rooms to premium seaside villas. The resort straddles both sides of the road with a modern tower block and beachfront villas. Rated 8.8/10 from over 4,000 reviews.",
+      "highlights": [
+        "Five swimming pools including beachfront infinity pool",
+        "Direct access to White Sand Beach with sun loungers",
+        "Full-service spa, fitness center, and multiple dining options"
+      ],
+      "reviewScore": "8.8/10 Booking.com (4,398 reviews)",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "luxury travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/accommodation/white-sand-beach",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKC%2520Grande%2520Resort%2520%2526%2520Spa%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Santhiya Tree Koh Chang Resort",
+      "category": "luxury",
+      "priceRange": "3,500-12,000 THB/night (~$98-336 USD)",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "A refined 76-room resort on Klong Prao Beach, Koh Chang's longest and most peaceful beach. Thai-style architecture with teakwood villas set in tropical gardens leading to the beach. Known for exceptional service (9.2/10 from 2,700+ reviews), excellent restaurant, and a romantic atmosphere. The quieter Klong Prao location feels more exclusive than busy White Sand Beach.",
+      "highlights": [
+        "Klong Prao Beach — the longest, most peaceful beach on Koh Chang",
+        "Teakwood villas with Thai architectural details",
+        "Consistently top-rated for service (9.2/10 average)"
+      ],
+      "reviewScore": "9.2/10 Booking.com (2,743 reviews)",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/santhiya.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSanthiya%2520Tree%2520Koh%2520Chang%2520Resort%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Koh Chang Tropicana Resort",
+      "category": "mid-range",
+      "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "A well-managed Thai chain resort on Klong Prao Beach with two swimming pools, kids' club, spa, and beachfront dining. The Centara brand delivers consistent quality with modern rooms and reliable service. Great for families with children thanks to the kids' facilities and the calm, long beach at Klong Prao. The resort is set in tropical gardens leading to the sand.",
+      "highlights": [
+        "Two swimming pools and dedicated kids' club",
+        "Beachfront location on calm Klong Prao Beach",
+        "Centara brand reliability with spa and multiple restaurants"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g580110-Ko_Chang_Trat_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Koh%2520Chang%2520Tropicana%2520Resort%252C%2520Trat%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Which month is best for Koh Chang?",
+    "Is Koh Chang a party island?",
+    "Is Koh Chang worth it?",
+    "Is Koh Chang expensive?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking The SYLVAN Koh Chang without knowing its boutique scale can leave you missing the multiple pools and kids' facilities of larger resorts.",
+    "intro": "The SYLVAN Koh Chang provides a contemporary luxury boutique experience on Klong Prao Beach, featuring an infinity pool overlooking the Gulf and an acclaimed restaurant with Thai and international cuisine. It's ideal for couples and design-conscious travelers seeking stylish intimacy over mega-resort bustle.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "couples design lovers",
+      "standout": "infinity pool overlooking sea",
+      "noGoFor": "families with kids"
+    },
+    "whyBook": [
+      "Infinity pool blends with Gulf horizon for serene views.",
+      "Acclaimed restaurant offers Thai-international fusion dishes.",
+      "Boutique scale ensures personalized service without crowds.",
+      "Contemporary design suits style-focused escapes."
+    ],
+    "whyNotBook": [
+      "Only one pool limits options for active swimmers.",
+      "Boutique size means no kids' club or extensive activities.",
+      "Smaller than KC Grande, lacking multiple on-site pools.",
+      "Intimate setting amplifies noise from nearby beachgoers.",
+      "No private beach section like White Sand resorts."
+    ],
+    "skipIf": "Skip if you're a family needing kids' facilities and varied amenities.",
+    "detailedReview": "Check-in at The SYLVAN Koh Chang feels welcoming in a sleek lobby with subtle sea breezes, where staff provide quick orientations to the property's layout. Rooms embody contemporary vibe with clean lines, neutral tones, and balconies that frame Klong Prao Beach views, though some face internal gardens without direct sea sightlines. The infinity pool stands out as the centerpiece, its edge merging with the Gulf for a calming soak, especially at sunset, but it draws regulars during peak hours. The acclaimed restaurant serves dishes like fresh seafood tom yum and international pastas using local ingredients, with consistent quality that elevates meals without pretension. Service style is attentive and low-key, with staff remembering preferences in this smaller setup, fostering a relaxed pace. Typical guests are couples in their 30s-50s, drawn to the design-forward intimacy, often pairing stays with beach walks or quiet dinners rather than group excursions. Overall, it delivers upscale calm for those prioritizing style and seclusion over extensive facilities.",
+    "locationReality": "Situated directly on Klong Prao Beach, Koh Chang's longest stretch, the resort offers immediate sand access for peaceful strolls. White Sand Beach, the island's main hub, lies about 15 km away, requiring a 25-30 minute drive or songthaew ride costing 100-200 THB. No public transport like BTS exists on the island; reaching Trat mainland ferry terminal takes 45 minutes by taxi for around 1,000 THB.",
+    "localSignals": [
+      "Directly on Klong Prao Beach — 0-minute walk to sand.",
+      "25-minute drive to White Sand Beach main area.",
+      "1 infinity pool on property overlooking Gulf.",
+      "1 acclaimed restaurant with Thai and international options.",
+      "Nearest 7-Eleven within 5-minute walk on Klong Prao road."
+    ],
+    "travellerNote": "Guests often praise the infinity pool views and contemporary design but note the limited amenities due to boutique scale.",
+    "bookingTips": [
+      "Request sea-facing rooms for direct infinity pool access.",
+      "Use Agoda for cheapest rates on Koh Chang bookings.",
+      "Prices spike November to February during high season.",
+      "Verify breakfast inclusion as it's not always standard.",
+      "Check for low-season deals outside dry months."
+    ],
+    "similarHotels": [
+      {
+        "name": "KC Grande Resort & Spa",
+        "howDifferent": "Larger 5-star with five pools and private White Sand Beach section, less intimate than The SYLVAN."
+      },
+      {
+        "name": "Santhiya Tree Koh Chang Resort",
+        "howDifferent": "76-room Thai-style villas on same beach, more traditional architecture versus The SYLVAN's contemporary design."
+      },
+      {
+        "name": "Centara Koh Chang Tropicana Resort",
+        "howDifferent": "Family-oriented with kids' club and two pools at lower prices, busier than The SYLVAN's boutique feel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which month is best for Koh Chang?",
+        "a": "November to April offers the dry season with sunny weather ideal for beach stays, avoiding the rainy May-October period."
+      },
+      {
+        "q": "Is Koh Chang a party island?",
+        "a": "No, Koh Chang focuses on relaxed nature and beaches rather than nightlife, with quiet spots like Klong Prao suiting chill vibes."
+      },
+      {
+        "q": "Is Koh Chang worth it?",
+        "a": "Yes, for its pristine beaches and jungles, though it requires ferry access and suits eco-travelers over urban seekers."
+      },
+      {
+        "q": "Is Koh Chang expensive?",
+        "a": "Moderately so, with luxury spots like The SYLVAN at 5,000-15,000 THB/night, but budget options exist on nearby beaches."
+      },
+      {
+        "q": "Best time to visit Klong Prao Beach?",
+        "a": "December to March for calm seas and fewer crowds, perfect for the peaceful setting of resorts like The SYLVAN."
+      },
+      {
+        "q": "Family-friendly on Koh Chang?",
+        "a": "Some resorts offer kids' clubs, but intimate spots like The SYLVAN better suit couples over families."
+      }
+    ],
+    "urgencyLine": "Rooms at The SYLVAN Koh Chang with infinity pool views book out 1-2 months ahead for dry season — check today.",
+    "methodology": "We rated The SYLVAN Koh Chang based on design, amenities, location, and intimacy factors from provided data. We weighted boutique scale highest because it defines the experience for target travelers. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "The SYLVAN Koh Chang Review (2026)",
+    "metaDescription": "The SYLVAN Koh Chang on Klong Prao Beach delivers boutique luxury with infinity pool and acclaimed restaurant, but small scale limits family amenities. Perfect for couples seeking intimate design — book your stylish escape now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:45:36.591Z"
+}

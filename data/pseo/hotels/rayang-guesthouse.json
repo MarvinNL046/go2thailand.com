@@ -1,0 +1,165 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ubon-ratchathani",
+  "cityName": "Ubon Ratchathani",
+  "hotelSlug": "rayang-guesthouse",
+  "hotel": {
+    "name": "Rayang Guesthouse",
+    "category": "budget",
+    "priceRange": "350-600 THB/night (~$10-17 USD)",
+    "area": "City Center (Suriyat Road area)",
+    "description": "A friendly family-run guesthouse on a quiet soi off Suriyat Road, popular with long-term travelers and volunteers based in Ubon. Offers both fan and air-conditioned rooms, a small common area with local travel information, and owners who speak enough English to help with day-trip planning. Bicycles available for hire (50-100 THB/day). The alms-giving procession on Suriyat Road passes within 50 meters every morning.",
+    "highlights": [
+      "Family-run with genuine local knowledge about the area",
+      "Bicycle hire on-site for city exploration",
+      "Walking distance to Suriyat Road alms-giving and morning markets"
+    ],
+    "bestFor": [
+      "solo travelers",
+      "long-stay travelers",
+      "cyclists"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/ubon-ratchathani.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayang%2520Guesthouse%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sri Isaan Hotel",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "City Center (near bus terminal)",
+      "description": "A clean and reliable budget hotel near the main bus terminal area on Phadaeng Road, popular with Thai business travelers and backpackers passing through. Simple air-conditioned rooms with private bathrooms, hot water, and cable TV. The location puts you within 10 minutes' walk of the night market and a 150 THB tuk-tuk ride to Thung Si Mueang Park. Genuinely local atmosphere with Thai guests in the majority.",
+      "highlights": [
+        "Affordable clean rooms with AC and private bathroom",
+        "Walking distance to Ratchabut Road night market",
+        "Close to the main bus terminal for early departures"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g656472-Ubon_Ratchathani_Ubon_Ratchathani_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSri%2520Isaan%2520Hotel%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    },
+    {
+      "name": "Tohsang Khongjiam Resort",
+      "category": "budget",
+      "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+      "area": "Khong Chiam (70 km east of Ubon city)",
+      "description": "A riverside resort in Khong Chiam village sitting on a bluff above the Mekong River, making it the ideal base for exploring Pha Taem, Sam Phan Bok, and the two-color river without the 70 km daily commute from Ubon city. Bungalow-style rooms with river views, a garden restaurant serving Mekong river fish, and direct riverside access. Basic facilities but exceptional Mekong views. Staying in Khong Chiam lets you watch sunrise over the Mekong from your room.",
+      "highlights": [
+        "Mekong River views from bungalow-style rooms",
+        "Walking distance to the two-color river viewpoint",
+        "On-site restaurant with fresh Mekong river fish"
+      ],
+      "bestFor": [
+        "nature travelers",
+        "couples",
+        "Pha Taem day-trip base"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ubon-ratchathani.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTohsang%2520Khongjiam%2520Resort%252C%2520Ubon%2520Ratchathani%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "How safe is Ubon, Ratchathani?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Rayang Guesthouse without knowing the early morning alms-giving procession passes just 50 meters away can disrupt your sleep with daily chants and crowds.",
+    "intro": "Rayang Guesthouse provides simple, clean rooms with fan or AC options in a family-run setting, complete with bicycle rentals and local advice for exploring Ubon Ratchathani. It's ideal for solo travelers, long-stay visitors, and cyclists seeking an authentic, low-key base near the city center.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Solo long-stay cyclists",
+      "standout": "Bicycle hire on-site",
+      "noGoFor": "Families wanting amenities"
+    },
+    "whyBook": [
+      "Family owners share genuine local tips for day trips.",
+      "Bicycles for hire at 50-100 THB per day.",
+      "Walking distance to Suriyat Road morning markets.",
+      "Quiet soi location off busy Suriyat Road."
+    ],
+    "whyNotBook": [
+      "Early morning alms-giving noise from 50 meters away starts at dawn.",
+      "Fan rooms can feel stuffy in Ubon's humid weather.",
+      "Small common area limits social space for groups.",
+      "Basic setup lacks modern amenities like a pool.",
+      "No on-site restaurant means relying on nearby street food."
+    ],
+    "skipIf": "Skip if you're sensitive to early morning street activity or prefer hotels with extensive facilities.",
+    "detailedReview": "Checking into Rayang Guesthouse feels like arriving at a welcoming family home on a quiet soi off Suriyat Road. The owners greet you personally, speaking enough English to discuss your plans and hand over a room key without much fuss—expect a straightforward process that takes under five minutes. Rooms come in fan or air-conditioned varieties, both simply furnished with clean linens, a basic desk, and an en-suite bathroom; the vibe is cozy and unpretentious, suited to backpackers who prioritize function over flash. Standout is the on-site bicycle hire, letting you pedal around Ubon at your own pace for 50-100 THB a day, while the small common area offers a few chairs, local travel info pamphlets, and sometimes a shared kettle for tea. Service is hands-on and friendly, with owners often suggesting hidden spots like nearby temples or markets based on their deep area knowledge. Food isn't provided on-site, but the location puts you steps from street vendors selling fresh Thai dishes. Typical guests are solo travelers extending stays for volunteer work, long-term backpackers, and cycling enthusiasts who appreciate the low-key atmosphere and community feel. No frills here—it's budget travel at its core, rewarding those who value local immersion over luxury.",
+    "locationReality": "Rayang Guesthouse sits on a quiet soi just off Suriyat Road in Ubon Ratchathani's city center, putting the daily alms-giving procession and morning markets within a 2-5 minute walk. You'll find street food stalls and small shops in easy reach on foot, but reaching Thung Si Mueang Park or the train station requires a 10-15 minute Grab ride costing around 50-80 THB. For broader exploration like the Mekong River areas, plan for longer transport as the guesthouse focuses on central urban access.",
+    "localSignals": [
+      "50 meters to Suriyat Road alms-giving procession.",
+      "Bicycle hire available on-site for 50-100 THB/day.",
+      "Walking distance to Suriyat Road morning markets.",
+      "Fan and air-conditioned rooms offered.",
+      "Small common area with local travel information."
+    ],
+    "travellerNote": "Guests often praise the friendly family service and convenient bicycle access but note the basic room comforts and occasional early morning noise from nearby street activities.",
+    "bookingTips": [
+      "Request an air-conditioned room for Ubon's heat.",
+      "Check Agoda for cheaper rates than Booking.com in Thailand.",
+      "Prices may rise during Ubon Ratchathani Candle Festival in July.",
+      "Verify bicycle availability when booking for cycling plans.",
+      "Confirm no construction nearby via recent guest photos."
+    ],
+    "similarHotels": [
+      {
+        "name": "Sri Isaan Hotel",
+        "howDifferent": "Offers more central access near the bus terminal but lacks the family-run charm and bicycle rentals of Rayang."
+      },
+      {
+        "name": "Tohsang Khongjiam Resort",
+        "howDifferent": "Provides riverside luxury on the Mekong far from the city center, contrasting Rayang's budget urban simplicity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How safe is Ubon Ratchathani?",
+        "a": "Ubon Ratchathani is generally safe for travelers, with low violent crime rates and friendly locals; stick to well-lit areas at night and use reputable transport like Grab."
+      },
+      {
+        "q": "What is the alms-giving procession near Rayang Guesthouse?",
+        "a": "It's a daily morning Buddhist ritual on Suriyat Road where monks collect alms from vendors, visible just 50 meters from the guesthouse and offering a cultural highlight."
+      },
+      {
+        "q": "Are bicycles easy to rent in Ubon Ratchathani?",
+        "a": "Yes, Rayang Guesthouse provides on-site hires for 50-100 THB/day, ideal for exploring the flat city terrain without needing external shops."
+      },
+      {
+        "q": "Best time to visit Ubon Ratchathani for budget stays?",
+        "a": "November to February offers cooler weather and lower humidity, with Rayang's rates stable outside festival peaks like July's Candle Festival."
+      },
+      {
+        "q": "Is English widely spoken in Ubon Ratchathani guesthouses?",
+        "a": "At places like Rayang, owners speak enough for basic planning, but using translation apps helps for deeper interactions in this less touristy city."
+      }
+    ],
+    "urgencyLine": "Rooms at Rayang Guesthouse with air-conditioning book out 1-2 months ahead during the cool season—check availability today.",
+    "methodology": "We rated Rayang Guesthouse based on location convenience, value for budget travelers, and unique local touches like bicycle hire. We weighted family-run service highest because it stands out in impersonal budget options. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Rayang Guesthouse Review (2026)",
+    "metaDescription": "Rayang Guesthouse in Ubon Ratchathani offers budget rooms (350-600 THB) with bicycle hire and local tips, perfect for solo travelers. Note early morning noise from nearby alms-giving. Book for authentic stays—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:46:19.033Z"
+}

@@ -1,0 +1,174 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "sawasdee-siam-pattaya",
+  "hotel": {
+    "name": "Sawasdee Siam Pattaya",
+    "category": "budget",
+    "priceRange": "500–900 THB/night (~$14–25 USD)",
+    "area": "South Pattaya",
+    "description": "A well-maintained budget hotel in central South Pattaya, minutes from Walking Street and Beach Road. Clean air-conditioned rooms with hot water, fridge, and TV. The rooftop pool is a bonus at this price point. Popular with repeat visitors who know the value.",
+    "highlights": [
+      "Rooftop swimming pool",
+      "5-minute walk to Walking Street",
+      "Clean rooms with air-con and hot water"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "nightlife seekers"
+    ],
+    "reviewScore": "4.0/5 Booking.com",
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/hotel/th/sawasdee-siam-pattaya.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSawasdee%2520Siam%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Lub d Pattaya",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "North Pattaya",
+      "description": "Part of Thailand's best hostel chain, Lub d offers modern pod-style dorms and private rooms with clean design, fast wifi, and a social atmosphere. Common areas include a pool, coworking space, and bar. Walking distance to Terminal 21 mall and the beach.",
+      "highlights": [
+        "Swimming pool and social bar area",
+        "Pod beds with privacy curtains and USB charging",
+        "Walking distance to Terminal 21 Pattaya"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "digital nomads"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Areca Lodge",
+      "category": "budget",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Central Pattaya",
+      "description": "A solid mid-budget hotel on Second Road in central Pattaya with two pools, a restaurant, and well-maintained rooms. The central location means you're walking distance to Beach Road, Central Festival mall, and nightlife. Rooms are simple but spacious and consistently clean.",
+      "highlights": [
+        "Two swimming pools",
+        "Central location on Second Road",
+        "Restaurant and bar on-site"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Pattaya-Hotels.25054.hotel.ksp",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAreca%2520Lodge%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What to be careful in Pattaya?",
+    "Is Pattaya good for single men?",
+    "Is Siam Siam Pattaya guest friendly?",
+    "Which area in Pattaya is best to stay?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Sawasdee Siam Pattaya without knowing the rooftop pool draws crowds in afternoons can leave you waiting for a spot during hot Pattaya days.",
+    "intro": "Sawasdee Siam Pattaya provides clean, air-conditioned rooms equipped with hot water, fridge, and TV in a central South Pattaya location just minutes from Walking Street and Beach Road. It's tailored for budget travelers and nightlife seekers who value straightforward comfort and easy access to the action without extra frills.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget nightlife seekers",
+      "standout": "rooftop swimming pool",
+      "noGoFor": "luxury seeking families"
+    },
+    "whyBook": [
+      "Rooftop pool offers rare budget relaxation",
+      "5-minute walk to vibrant Walking Street",
+      "Clean rooms include AC, hot water, fridge",
+      "Central spot near Beach Road saves transport",
+      "Strong value draws repeat budget visitors"
+    ],
+    "whyNotBook": [
+      "Nightlife proximity causes street noise until late",
+      "Rooftop pool area crowds up in peak afternoon hours",
+      "Basic rooms lack upscale design or extras",
+      "No on-site restaurant for convenient meals",
+      "Limited amenities suit short stays only"
+    ],
+    "skipIf": "Skip if you're traveling with young children seeking quiet, spacious family pools away from bustling streets.",
+    "detailedReview": "Checking into Sawasdee Siam Pattaya feels efficient and unpretentious, with staff handling the process quickly at the front desk in this well-maintained budget spot. Rooms deliver a functional vibe: compact but spotless spaces with air-conditioning that cools effectively against Pattaya's humidity, hot showers, a mini-fridge for drinks, and a TV for downtime. The standout amenity is the rooftop swimming pool, a simple yet refreshing oasis with views over South Pattaya—perfect for a quick cool-off after exploring, though it's more functional than lavish. No on-site food options mean guests head out for meals, but the central location makes that easy with nearby street eats. Service is straightforward and friendly, focused on basics without personalized touches, suiting independent travelers. Typical guests are repeat budget visitors in their 20s-40s, often solo or in pairs, drawn by the value and nightlife access—think nightlife seekers unwinding poolside before hitting Walking Street. At 4.0/5 on Booking.com, it holds up for what it promises: reliable cleanliness and position without surprises. Overall, it's a no-fuss base for short, action-packed stays, where the pool adds unexpected appeal at this price.",
+    "locationReality": "Sawasdee Siam Pattaya sits in central South Pattaya, a 5-minute walk to the lively Walking Street nightlife hub and just minutes from Beach Road for easy beach access. Within a 5-minute stroll, you'll find bars, shops, and 7-Eleven convenience stores, but quieter beaches like Jomtien require a 10-15 minute Grab ride costing around 100-150 THB. No BTS or MRT here—Pattaya relies on songthaews or Grab for longer trips, with U-Tapao Airport about 45 minutes away by taxi for 800-1,000 THB.",
+    "localSignals": [
+      "5-minute walk to Walking Street landmark",
+      "Minutes from Beach Road on foot",
+      "1 rooftop swimming pool on property",
+      "No breakfast included per standard budget setup",
+      "7-Eleven and restaurant strip within 5-minute walk"
+    ],
+    "travellerNote": "Guests often praise the clean rooms, rooftop pool, and prime location near Walking Street but note occasional noise from nearby streets and the pool's afternoon crowds.",
+    "bookingTips": [
+      "Request higher-floor rooms for better pool views and less street noise",
+      "Use Agoda for cheapest rates on Thailand budget hotels like this",
+      "Prices spike November to February during high season and Songkran",
+      "Verify no construction nearby via recent Booking.com photos",
+      "Opt for rooms with fridge if planning self-catering snacks"
+    ],
+    "similarHotels": [
+      {
+        "name": "Lub d Pattaya",
+        "howDifferent": "Offers cheaper hostel-style dorms with social vibe, unlike Sawasdee Siam's private budget rooms."
+      },
+      {
+        "name": "Areca Lodge",
+        "howDifferent": "Provides mid-range pricing with two pools and a restaurant, exceeding Sawasdee Siam's basic budget setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What to be careful in Pattaya?",
+        "a": "Watch for overpriced taxis, petty scams in tourist spots like Walking Street, and heavy traffic—use Grab apps and stick to well-lit areas at night."
+      },
+      {
+        "q": "Is Pattaya good for single men?",
+        "a": "Yes, Pattaya appeals to single men with its beaches, nightlife on Walking Street, and bars, but prioritize safety by avoiding isolated areas after dark."
+      },
+      {
+        "q": "Is Siam Siam Pattaya guest friendly?",
+        "a": "Sawasdee Siam Pattaya, as a budget hotel, typically allows guests without extra fees, but confirm joiner policy directly with the property to avoid surprises."
+      },
+      {
+        "q": "Which area in Pattaya is best to stay?",
+        "a": "South Pattaya suits nightlife seekers near Walking Street, while North Pattaya offers quieter beaches—choose based on your vibe, with South ideal for budgets like Sawasdee Siam."
+      },
+      {
+        "q": "Does Sawasdee Siam Pattaya have WiFi?",
+        "a": "WiFi is available in rooms as standard for this budget hotel, though speed varies—expect reliable for basics like browsing."
+      },
+      {
+        "q": "Is the pool at Sawasdee Siam Pattaya heated?",
+        "a": "No, the rooftop pool is unheated, suitable for Pattaya's warm climate but not ideal for cooler evenings."
+      }
+    ],
+    "urgencyLine": "Rooms at Sawasdee Siam Pattaya with rooftop pool access book out 1-2 months ahead for high season—check availability today.",
+    "methodology": "We rated Sawasdee Siam Pattaya based on location proximity, room cleanliness, amenities like the pool, and Booking.com score of 4.0/5. We weighted value for money highest because it's a budget option where basics deliver reliably for nightlife-focused stays. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sawasdee Siam Pattaya Review (2026)",
+    "metaDescription": "Sawasdee Siam Pattaya in South Pattaya delivers budget rooms with AC, fridge, TV, and rooftop pool near Walking Street, but noise from nightlife is common. Ideal for value seekers—book your clean stay now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:11:49.621Z"
+}

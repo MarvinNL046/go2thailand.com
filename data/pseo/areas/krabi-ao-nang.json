@@ -1,0 +1,280 @@
+{
+  "template": "area-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "areaSlug": "ao-nang",
+  "areaName": "Ao Nang",
+  "neighborhood": {
+    "name": "Ao Nang",
+    "description": "Krabi's main tourist area and the practical base for most visitors. A long beachfront road lined with hotels, restaurants, dive shops, massage parlors, and tour operators. Longtail boats to Railay (100 THB) and 4 Islands tours depart from the eastern pier. The beach itself is decent but not Krabi's best — the real value is convenience and selection. Nightlife is modest compared to Phuket but there are enough bars and live music venues to keep things lively.",
+    "bestFor": "First-timers, island-hoppers & convenience",
+    "priceLevel": "Budget to Mid-Range",
+    "highlights": [
+      "Gateway to Railay Beach (100 THB longtail, 15 min) and all island tours",
+      "Widest selection of hotels, restaurants, and tour operators in the province",
+      "Walking street and night bazaar for evening food and shopping",
+      "Easy scooter access to Tiger Cave Temple and inland attractions",
+      "Grab/Bolt ride-hailing works reliably here"
+    ],
+    "recommendedHotels": [
+      "Sea Seeker Krabi Resort",
+      "Panan Krabi Resort",
+      "Holiday Inn Resort Krabi Ao Nang Beach",
+      "Aonang Cliff Beach Resort"
+    ],
+    "walkingScore": "7/10",
+    "transportNotes": [
+      "Songthaew to Krabi Town 60 THB (30 min)",
+      "Longtail boats to Railay 100 THB from the eastern pier",
+      "All major tour operators pick up from Ao Nang hotels"
+    ],
+    "sources": [
+      {
+        "sourceName": "Lonely Planet",
+        "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/ao-nang",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Sea Seeker Krabi Resort",
+      "category": "budget",
+      "priceRange": "800-1,200 THB/night (~$22-34 USD)",
+      "area": "Ao Nang",
+      "description": "A solid budget hotel in central Ao Nang with clean rooms, a swimming pool, and an unbeatable location near the beach and longtail boat pier. Rooms are basic but well-maintained with air conditioning and hot showers. The pool is a welcome bonus at this price point.",
+      "highlights": [
+        "Swimming pool — rare at budget prices in Ao Nang",
+        "5-minute walk to Ao Nang Beach and boat pier",
+        "Clean rooms with reliable AC and hot water"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSea%2520Seeker%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Panan Krabi Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Ao Nang",
+      "description": "A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to the beach and pier for easy island trips, but set back from the main road for quieter nights. Consistently good reviews for cleanliness and service.",
+      "highlights": [
+        "Large swimming pool with sun terrace",
+        "Modern rooms with balcony and minibar",
+        "10-minute walk to Ao Nang Beach and boat pier"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Ao_Nang_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanan%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+      "category": "mid-range",
+      "priceRange": "2,500-4,500 THB/night (~$70-126 USD)",
+      "area": "Ao Nang",
+      "description": "International chain quality right on Ao Nang's main strip. Two pools (including a kids' pool), fitness center, spa, and multiple dining options. The rooms are spacious and well-appointed with IHG's usual reliability. Ideal for families and travelers who want a predictable standard near the beach.",
+      "highlights": [
+        "Two swimming pools including children's pool",
+        "IHG brand reliability and loyalty program",
+        "Beachfront location on Ao Nang main road"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "IHG",
+          "sourceUrl": "https://www.ihg.com/holidayinn/hotels/us/en/krabi/kbvao/hoteldetail",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520Resort%2520Krabi%2520Ao%2520Nang%2520Beach%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Aonang Cliff Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Ao Nang",
+      "description": "Set against the limestone cliffs at the eastern end of Ao Nang Beach with direct beach access and a dramatic cliff-backed pool. The location is prime — steps from the longtail boat pier for Railay and island tours. Rooms are comfortable with sea or cliff views. The natural cliff setting is unique among Ao Nang's hotels.",
+      "highlights": [
+        "Dramatic cliff-backed swimming pool",
+        "Direct beach access at eastern Ao Nang",
+        "Steps from longtail boat pier for island tours"
+      ],
+      "bestFor": [
+        "couples",
+        "photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAonang%2520Cliff%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Grand Beach Resort & Villas Krabi",
+      "category": "luxury",
+      "priceRange": "6,000-15,000 THB/night (~$168-420 USD)",
+      "area": "Pai Plong Beach (near Ao Nang)",
+      "description": "A secluded luxury resort on its own private Pai Plong Beach, accessible by boat or a 150-step cliffside stairway from Ao Nang. The dramatic cliff-surrounded setting feels like a private cove while being minutes from Ao Nang's restaurants and tours. Pool villas, beachfront rooms, spa, and multiple dining options.",
+      "highlights": [
+        "Private Pai Plong Beach accessible only by boat or cliff stairway",
+        "Secluded cove setting surrounded by limestone cliffs",
+        "Close to Ao Nang but feels completely isolated"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297929-d627498-Reviews-Centara_Grand_Beach_Resort_Villas-Ao_Nang_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Grand%2520Beach%2520Resort%2520%2526%2520Villas%2520Krabi%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Railay Beach",
+    "Krabi Town",
+    "Klong Muang",
+    "Tubkaek Beach",
+    "Nopparat Thara Beach"
+  ],
+  "paaQuestions": [
+    "Is it best to stay in Krabi or Ao Nang?",
+    "Is Ao Nang a nice place to stay?",
+    "Where should you stay in Ao Nang?",
+    "How many days do you need in Ao Nang?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Ao Nang can mean constant traffic noise and overpriced tours — most first-timers cram into the busiest strip without checking quieter edges.",
+    "intro": "Ao Nang stands out as Krabi's bustling tourist hub, offering unmatched convenience for beach access and island hopping without the isolation of remoter spots. We ranked it highest for first-timers based on walkability, tour variety, and reliable transport links to Railay and beyond.",
+    "vibe": "Convenient + lively",
+    "quickStats": {
+      "priceBand": "€-€€",
+      "walkability": "Medium",
+      "bestFor": "First-timers, island-hoppers & convenience",
+      "safetyNote": "Safe overall, watch belongings in night markets."
+    },
+    "detailedDescription": "Ao Nang's main drag is a straight shot of low-rise hotels and eateries hugging the beachfront, where locals in dive shop uniforms hustle between boats and tourists in flip-flops haggle over snorkel gear. Daytime buzz comes from the eastern pier, where longtail captains shout departures for Railay or the 4 Islands, while the beach fills with sunbathers dodging vendors selling grilled squid. Workers here are mostly Thai families running guesthouses or Thai-Muslim spots serving spicy som tam, blending with expat bar owners prepping for evening crowds. As night falls, the walking street lights up with stalls hawking pad thai and cheap beer, live music spilling from open-air bars until midnight, but it quiets down quicker than Phuket's chaos—no all-night raves, just moderate chatter from groups at fire shows. Noise peaks around 10pm on the main road from scooter traffic, but side streets off the strip stay calmer for sleep. Food leans heavy on seafood curries and Western breakfasts, with options from street carts (50 THB) to resort buffets. Getting around is straightforward: walk the 2km beach road end-to-end in 30 minutes, rent scooters for 200 THB/day to hit Tiger Cave Temple 10km inland, or grab songthaews heading to Krabi Town. It's practical, not pristine—sand mixes with pebbles, and the water's clear but shallow for swimming.",
+    "localSignals": [
+      "Longtail boat to Railay Beach: 100 THB, 15 minutes from eastern pier.",
+      "Grab ride from Krabi Airport: 45 minutes, around 600 THB.",
+      "Distance to Ao Nang Beach main strip: central hotels are 1-5 minute walk.",
+      "Noise level at night: moderate from bars and scooters until 11pm.",
+      "Nearest 7-Eleven: multiple locations every 200-300 meters along the beach road."
+    ],
+    "pros": [
+      "Easiest access to Railay and island tours",
+      "Widest choice of hotels and restaurants",
+      "Reliable Grab and songthaew options",
+      "Night bazaar for affordable evening eats",
+      "Scooter-friendly to inland sites"
+    ],
+    "cons": [
+      "Beach crowds peak in high season",
+      "Main road traffic noise until late",
+      "Sand turns rocky at low tide",
+      "Limited luxury beyond mid-range resorts",
+      "Nightlife modest, closes by midnight"
+    ],
+    "skipIf": "Skip if you prefer car-free seclusion like Railay's no-road vibe.",
+    "stayRecommendations": [
+      {
+        "name": "Sea Seeker Krabi Resort",
+        "why": "Its central spot puts you steps from the longtail pier and beach, ideal for Ao Nang's tour-focused convenience without breaking the budget."
+      },
+      {
+        "name": "Panan Krabi Resort",
+        "why": "The large pool and balcony rooms offer a relaxing base amid Ao Nang's busy strip, close to restaurants and the night market."
+      },
+      {
+        "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+        "why": "Chain reliability on the main road means easy access to Ao Nang's dive shops and boats, with pools for downtime between tours."
+      },
+      {
+        "name": "Aonang Cliff Beach Resort",
+        "why": "Direct beach access at the quieter eastern end captures Ao Nang's cliff drama while staying walkable to the pier and bazaar."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Railay Beach",
+        "shortPitch": "Railay offers pristine sands and rock climbing without road access or crowds, reachable only by boat from Ao Nang.",
+        "recommendFor": "Adventure seekers, seclusion lovers"
+      },
+      {
+        "areaName": "Krabi Town",
+        "shortPitch": "Krabi Town is a budget urban hub with markets and ferries but lacks Ao Nang's beachfront and tour convenience.",
+        "recommendFor": "Backpackers, short layovers"
+      },
+      {
+        "areaName": "Nopparat Thara Beach",
+        "shortPitch": "Nopparat Thara provides a longer, less commercial beach adjacent to Ao Nang but with fewer hotels and operators.",
+        "recommendFor": "Beach relaxers, families"
+      }
+    ],
+    "travellerNote": "Travellers often praise Ao Nang's one-stop convenience for tours and dining but note the beach feels overcrowded and the main strip noisy during peak hours.",
+    "faq": [
+      {
+        "q": "Is it best to stay in Krabi or Ao Nang?",
+        "a": "Stay in Ao Nang for beach access and island tours; choose Krabi Town if you want cheaper urban vibes and easier airport runs."
+      },
+      {
+        "q": "Is Ao Nang a nice place to stay?",
+        "a": "Yes, it's a practical base with solid hotels and eateries, though the beach is more functional than stunning—great for first-timers."
+      },
+      {
+        "q": "Where should you stay in Ao Nang?",
+        "a": "Opt for central spots near the beach road for walkability to piers and markets; avoid the far west end if you hate scooter noise."
+      },
+      {
+        "q": "How many days do you need in Ao Nang?",
+        "a": "Three to four days covers key tours to Railay and the 4 Islands, plus downtime—extend if island-hopping nonstop."
+      },
+      {
+        "q": "Is Ao Nang good for families?",
+        "a": "It's decent with kid-friendly pools at resorts like Holiday Inn, but skip if crowds and boat rides overwhelm young kids."
+      },
+      {
+        "q": "What's the nightlife like in Ao Nang?",
+        "a": "Modest with bars and live music until midnight; head here for casual vibes over Phuket's party scene."
+      }
+    ],
+    "urgencyLine": "Ao Nang's central hotels book up fast for December-April high season—secure spots 3 months ahead for best rates.",
+    "methodology": "We compared Ao Nang to Railay Beach and Krabi Town based on walkability, price level, noise, and suitability for first-timers and island-hoppers. We weighted convenience highest because most visitors prioritize easy tour access over isolation. Last updated: 2026-04.",
+    "metaTitle": "Staying in Ao Nang, Krabi (2026)",
+    "metaDescription": "Ao Nang in Krabi: Convenient hub for Railay boats and island tours, budget to mid-range stays. Explore hotels and compare nearby areas like Railay."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:25:42.321Z"
+}

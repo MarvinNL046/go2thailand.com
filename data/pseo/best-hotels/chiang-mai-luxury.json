@@ -1,0 +1,270 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "category": "luxury",
+  "hotels": [
+    {
+      "name": "The Inside House",
+      "category": "luxury",
+      "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+      "area": "Old City",
+      "description": "A restored colonial-style boutique hotel with elegant white arches, leafy courtyards, and 14 private pools — the only Old City property offering this. Some suites feature private pools with glass walls. Intimate and beautifully designed.",
+      "highlights": [
+        "14 private pools across the property",
+        "Colonial-meets-Lanna architecture",
+        "Only luxury hotel inside the Old City walls with private pools"
+      ],
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Inside%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "137 Pillars House",
+      "category": "luxury",
+      "priceRange": "8,000–18,000 THB/night (~$225–505 USD)",
+      "area": "Riverside (east side)",
+      "description": "One of Chiang Mai's most prestigious boutique hotels, set in a restored 19th-century teak house. Just 30 suites with outdoor daybeds and some with private plunge pools. Colonial-inspired elegance with impeccable Lanna hospitality.",
+      "highlights": [
+        "Historic 1889 teak building",
+        "Select suites with private plunge pools",
+        "Award-winning restaurant and spa"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3D137%2520Pillars%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Four Seasons Resort Chiang Mai",
+      "category": "luxury",
+      "priceRange": "18,000–50,000 THB/night (~$505–1,400 USD)",
+      "area": "Mae Rim (30 min north of city)",
+      "description": "Northern Thailand's most luxurious resort, set among terraced rice paddies with Doi Suthep mountain as a backdrop. Traditional Lanna pavilions with private pools, a world-class spa, and activities including rice planting, cooking classes, and market tours.",
+      "highlights": [
+        "Private villas overlooking working rice paddies",
+        "Award-winning spa with Lanna treatments",
+        "Complimentary rice planting and harvest experiences"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293917-zff12-Chiang_Mai-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%2520Seasons%2520Resort%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Sireeampan Boutique Resort & Spa",
+      "category": "luxury",
+      "priceRange": "3,500–7,000 THB/night (~$100–196 USD)",
+      "area": "North of Nimman",
+      "description": "A beautifully designed boutique resort inspired by Thai temple architecture. Ornate Lanna craftsmanship throughout, a tranquil pool area, and a full-service spa. Quieter location north of the Nimman buzz but with easy access.",
+      "highlights": [
+        "Temple-inspired architecture unique to Chiang Mai",
+        "Full spa with traditional Thai treatments",
+        "Peaceful garden setting"
+      ],
+      "bestFor": [
+        "couples",
+        "relaxation seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSireeampan%2520Boutique%2520Resort%2520%2526%2520Spa%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What are the best hotels to stay in Chiang Mai?",
+    "What is the most luxurious place to stay in Thailand?",
+    "Where do celebs stay in Thailand?",
+    "Which part of Chiang Mai is best to stay in?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong luxury hotel in Chiang Mai can leave you isolated from the city's cultural heart or stuck in generic chains without authentic Lanna charm — many 'luxury' hotels prioritize flash over intimate Thai heritage.",
+    "intro": "The single biggest mistake travellers make booking luxury in Chiang Mai is overlooking location trade-offs, like remote resorts versus walkable urban gems that immerse you in the Old City's temples. We ranked these based on authentic Lanna design, private pool access, spa quality, and value within the luxury band, prioritizing properties that blend seclusion with cultural proximity.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Four Seasons Resort Chiang Mai",
+        "why": "Ultimate Lanna luxury with private pools"
+      },
+      {
+        "label": "Best value",
+        "name": "The Inside House",
+        "why": "Private pools at accessible luxury price"
+      },
+      {
+        "label": "Best for pools",
+        "name": "Four Seasons Resort Chiang Mai",
+        "why": "Private pools amid rice paddies"
+      },
+      {
+        "label": "Best for couples",
+        "name": "137 Pillars House",
+        "why": "Intimate colonial suites with plunge pools"
+      }
+    ],
+    "urgencyLine": "Prices for luxury hotels in Chiang Mai can surge 50-100% during Yi Peng Lantern Festival (November) or Songkran (April) — secure rooms 6-9 months ahead for peak dates.",
+    "comparisonTable": [
+      {
+        "name": "The Inside House",
+        "area": "Old City",
+        "priceBand": "€€€",
+        "bestFor": "Couples seeking intimacy",
+        "standout": "private pools",
+        "drawback": "Limited room variety"
+      },
+      {
+        "name": "137 Pillars House",
+        "area": "Riverside (east side)",
+        "priceBand": "€€€",
+        "bestFor": "History-loving romantics",
+        "standout": "colonial elegance",
+        "drawback": "Small property size"
+      },
+      {
+        "name": "Four Seasons Resort Chiang Mai",
+        "area": "Mae Rim (30 min north of city)",
+        "priceBand": "€€€",
+        "bestFor": "Wellness-focused escapes",
+        "standout": "private pools",
+        "drawback": "Distance from city center"
+      },
+      {
+        "name": "Sireeampan Boutique Resort & Spa",
+        "area": "North of Nimman",
+        "priceBand": "€€€",
+        "bestFor": "Design enthusiasts",
+        "standout": "spa",
+        "drawback": "Quieter off-main area"
+      }
+    ],
+    "decisionGuide": [
+      "If you crave walkable access to Old City temples with private pools, choose The Inside House.",
+      "If colonial teak heritage and riverside romance appeal, choose 137 Pillars House.",
+      "If you prioritize ultimate seclusion with rice paddy views and spa activities, choose Four Seasons Resort Chiang Mai.",
+      "If ornate Lanna design and a tranquil spa north of Nimman suit you, choose Sireeampan Boutique Resort & Spa.",
+      "If budget meets luxury with intimate boutique vibes, choose The Inside House.",
+      "If you're after prestigious prestige without city hustle, choose Four Seasons Resort Chiang Mai."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Four Seasons Resort Chiang Mai",
+        "why": "This tops the list for blending world-class Lanna pavilions with private pools and cultural activities like rice planting, outshining urban boutiques by offering profound rural immersion without sacrificing luxury depth. It beats 137 Pillars House for those seeking expansive grounds over intimate heritage.",
+        "drawback": "Its 30-minute drive from central Chiang Mai means relying on transfers for city exploration.",
+        "skipIf": "Skip if you need walkable access to night markets or temples, as the remote location adds travel time.",
+        "localSignals": [
+          "30 min north of city to Mae Rim area",
+          "No specific airport transfer time given but resort shuttles available",
+          "Traditional Lanna pavilions with private pools"
+        ],
+        "travellerNote": "Guests often praise the serene rice paddy setting and attentive service but note the distance from urban attractions requires planning."
+      },
+      {
+        "rank": 2,
+        "name": "137 Pillars House",
+        "why": "Restored 19th-century teak elegance with just 30 suites and plunge pools provides prestigious intimacy that edges out The Inside House for history buffs, though it trades broader activities for refined colonial charm.",
+        "drawback": "With only 30 suites, availability fills quickly during high season.",
+        "skipIf": "Skip if you prefer expansive resort facilities over a compact boutique experience.",
+        "localSignals": [
+          "Riverside east side location",
+          "No airport transfer details but riverside access noted",
+          "30 suites with outdoor daybeds and plunge pools"
+        ],
+        "travellerNote": "Guests often praise the impeccable Lanna hospitality and design but note limited on-site dining options."
+      },
+      {
+        "rank": 3,
+        "name": "The Inside House",
+        "why": "As the only Old City luxury with 14 private pools in a colonial boutique, it delivers central accessibility that surpasses Sireeampan for urban explorers, balancing cost and uniqueness better than pricier remote options.",
+        "drawback": "Its small scale means fewer amenities like multiple restaurants.",
+        "skipIf": "Skip if you want large resort vibes or extensive spa programs beyond basics.",
+        "localSignals": [
+          "Old City location",
+          "No specific airport transfer but central spot implies 15-20 min drive",
+          "14 private pools including glass-walled suites"
+        ],
+        "travellerNote": "Guests often praise the leafy courtyards and pool privacy but note the intimate size can feel exclusive to a fault."
+      }
+    ],
+    "topPick": "Four Seasons Resort Chiang Mai",
+    "topPickReason": "It sets the luxury benchmark with private pools, Lanna authenticity, and Doi Suthep views, ideal for immersive escapes.",
+    "bookingTips": [
+      "Book 6-9 months ahead for November-February high season when rates spike due to cool weather and festivals.",
+      "Agoda often undercuts Booking.com for Thailand luxury properties — compare both for flash sales.",
+      "Avoid Songkran (mid-April) bookings unless you want water festival chaos; prices double with crowds.",
+      "Watch for red flags like zero recent reviews or 50%+ discounts on unverified sites.",
+      "Opt for pool villa room types over standards for true luxury, trading higher cost for privacy.",
+      "Chinese New Year (January/February) sees demand from regional travellers, pushing premium suites to sell out fast."
+    ],
+    "methodology": "We compared luxury hotels in Chiang Mai based on guest reviews, location quality, value at this price band, and what luxury travellers typically prioritise like private pools and Lanna design. We weighted authentic cultural integration highest because generic chains dilute the Northern Thailand experience. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/where-to-stay/chiang-mai/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check luxury hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View Four Seasons Resort Chiang Mai'"
+    ],
+    "faq": [
+      {
+        "q": "What are the best hotels to stay in Chiang Mai?",
+        "a": "For luxury, Four Seasons Resort Chiang Mai leads with private pools and Lanna pavilions; in the city, The Inside House offers Old City access with intimate pools — compare based on your need for seclusion versus centrality."
+      },
+      {
+        "q": "What is the most luxurious place to stay in Thailand?",
+        "a": "While Thailand has icons like Amanpuri, Four Seasons Resort Chiang Mai stands out in the north for its rice paddy luxury and cultural activities — book if seeking authentic Lanna opulence."
+      },
+      {
+        "q": "Where do celebs stay in Thailand?",
+        "a": "Celebrities often choose secluded spots like Four Seasons Resort Chiang Mai for its privacy amid Doi Suthep views; 137 Pillars House attracts for its prestigious teak heritage in a quieter riverside setting."
+      },
+      {
+        "q": "Which part of Chiang Mai is best to stay in?",
+        "a": "Old City suits cultural immersion at The Inside House, while Mae Rim's Four Seasons offers rural luxury — choose Riverside's 137 Pillars for elegant downtime near the Ping River."
+      },
+      {
+        "q": "Best luxury hotels for couples in Chiang Mai?",
+        "a": "137 Pillars House excels with romantic plunge pools in colonial suites; for pool-focused intimacy, select The Inside House in the walkable Old City."
+      }
+    ],
+    "metaTitle": "Best Luxury Hotels in Chiang Mai (2026)",
+    "metaDescription": "Discover top luxury hotels in Chiang Mai like Four Seasons with private pools and Lanna charm. Compare picks for authentic stays amid temples and…"
+  },
+  "lastUpdated": "2026-03-13",
+  "generatedAt": "2026-04-15T15:33:27.184Z"
+}

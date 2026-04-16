@@ -1,0 +1,276 @@
+{
+  "template": "area-deep",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "areaSlug": "riverside-charoen-krung-sathorn-pier",
+  "areaName": "Riverside (Charoen Krung & Sathorn Pier)",
+  "neighborhood": {
+    "name": "Riverside (Charoen Krung & Sathorn Pier)",
+    "description": "The Chao Phraya riverfront stretches from the Grand Palace south to Asiatique, and this is where Bangkok's most storied luxury hotels stand — Mandarin Oriental, The Peninsula, Chatrium and Capella. A slower, more atmospheric Bangkok exists here: colonial warehouses converted to galleries, antique shops on Charoen Krung Road, and the river traffic of ferries, tugboats and long-tails passing your window.",
+    "bestFor": "Honeymoons, special occasions, luxury travel, temple lovers",
+    "priceLevel": "Luxury (5,000–35,000 THB/night); some boutique mid-range options",
+    "highlights": [
+      "The Mandarin Oriental, The Peninsula and Chatrium Riverside — three of Asia's great hotels",
+      "Asiatique The Riverfront — open-air night market and entertainment complex",
+      "SALA Rattanakosin boutique hotel with direct Wat Arun views",
+      "Icon Siam mega-mall and Surasak BTS right on the river",
+      "Calmer, more romantic atmosphere than Sukhumvit"
+    ],
+    "recommendedHotels": [
+      "Mandarin Oriental Bangkok",
+      "The Peninsula Bangkok",
+      "Chatrium Hotel Riverside Bangkok",
+      "SALA Rattanakosin Bangkok"
+    ],
+    "walkingScore": "5/10 — riverside is beautiful but gaps between attractions require transport",
+    "transportNotes": [
+      "BTS Saphan Taksin for Silom/Sathorn access; shuttle boats from hotels",
+      "Chao Phraya Express Boat for temple area (Tha Maharaj, Tha Chang, Pha Athit piers)",
+      "BTS Gold Line to Icon Siam and Charoen Krung",
+      "Hotel shuttle boats to BTS Taksin included at most luxury properties"
+    ],
+    "sources": [
+      {
+        "sourceName": "Adventurous Kate — Bangkok Neighborhoods",
+        "sourceUrl": "https://www.adventurouskate.com/where-to-stay-in-bangkok-best-neighborhoods-accommodation/",
+        "lastVerified": "2026-03-13"
+      },
+      {
+        "sourceName": "Nerd Nomads — Bangkok Areas",
+        "sourceUrl": "https://nerdnomads.com/where-to-stay-in-bangkok",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Mandarin Oriental Bangkok",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB (~343–1,000 USD) per night",
+      "area": "Riverside (Charoen Krung)",
+      "description": "Opened in 1876, the Mandarin Oriental is one of the world's great hotels and consistently rated Asia's finest. Its Authors' Wing houses legendary suites named after Somerset Maugham, Joseph Conrad and Noel Coward, who all stayed here. Two Michelin-starred Le Normandie restaurant, a world-class spa and timeless riverside elegance set it apart.",
+      "highlights": [
+        "One of the world's oldest and most celebrated hotels, opened 1876",
+        "Two Michelin-starred Le Normandie restaurant",
+        "Legendary Authors' Suites named after literary giants",
+        "Riverside pool with Chao Phraya views",
+        "Complimentary tuk-tuk and river ferry service for guests",
+        "Thai cooking school in a converted 1870s house"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMandarin%2520Oriental%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.4/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Special occasions",
+        "Foodies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Mandarin Oriental Bangkok Official",
+          "sourceUrl": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/stay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "The Peninsula Bangkok",
+      "category": "luxury",
+      "priceRange": "10,000–28,000 THB (~286–800 USD) per night",
+      "area": "Riverside (Silom)",
+      "description": "The Peninsula Bangkok commands a prime position on the west bank of the Chao Phraya River with three-tiered pool terraces descending to the water's edge. All rooms face the river, and the hotel's iconic sky-blue shuttle boats transport guests to the BTS Skytrain and shopping districts. Consistently ranked among Asia's top 10 hotels.",
+      "highlights": [
+        "Three-tier outdoor pool directly on the Chao Phraya River",
+        "All 370 rooms face the river — no bad views",
+        "Peninsula sky-blue boat shuttle to BTS Taksin station",
+        "Thai, Cantonese and Italian fine dining restaurants",
+        "Award-winning 1,200 sqm Peninsula Spa",
+        "Helipad for private arrivals"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Peninsula%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.5/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Family luxury",
+        "Business VIPs"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Peninsula Bangkok Official",
+          "sourceUrl": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chatrium Hotel Riverside Bangkok",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB (~157–343 USD) per night",
+      "area": "Riverside",
+      "description": "A 5-star riverfront hotel near Asiatique The Riverfront with spacious suites, multiple pools, a full spa and stunning Chao Phraya views. Chatrium Riverside is excellent value in the luxury segment — you get genuine 5-star facilities and a prime riverside location at prices well below Mandarin Oriental and The Peninsula.",
+      "highlights": [
+        "4 swimming pools including a children's pool",
+        "All riverside rooms have balconies with Chao Phraya views",
+        "Direct access to Asiatique The Riverfront night market",
+        "Full-service spa and gym",
+        "Multiple dining venues including a rooftop bar",
+        "Complimentary shuttle boat to BTS Taksin station"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchatrium-riverside-bangkok.html",
+      "reviewScore": "9.1/10",
+      "bestFor": [
+        "Families",
+        "Couples",
+        "Value luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com — Chatrium Riverside",
+          "sourceUrl": "https://www.hotels.com/ho311257/chatrium-hotel-riverside-bangkok-bangkok-thailand/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "SALA Rattanakosin Bangkok",
+      "category": "mid-range",
+      "priceRange": "3,800–7,000 THB (~109–200 USD) per night",
+      "area": "Riverside / Old City",
+      "description": "A boutique riverside hotel with just 15 rooms, SALA Rattanakosin offers one of Bangkok's most dramatic views — the Grand Palace and Wat Pho directly across the water from your room or the stunning rooftop bar. The intimate scale and personalised service make it feel far more special than its price suggests.",
+      "highlights": [
+        "Rooftop bar with direct views of Wat Arun and the Chao Phraya River",
+        "Boutique property with only 15 rooms — personalised service",
+        "Walking distance to Grand Palace, Wat Pho and Tha Chang Pier",
+        "Minimalist Thai design with riverside balconies on select rooms",
+        "Acclaimed restaurant serving modern Thai cuisine"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-rattanakosin-bangkok.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Couples",
+        "Design lovers",
+        "Temple explorers",
+        "Special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — SALA Rattanakosin",
+          "sourceUrl": "https://www.booking.com/hotel/th/sala-rattanakosin-bangkok.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "nearbyAreas": [
+    "Sukhumvit",
+    "Silom & Sathorn",
+    "Khao San & Banglamphu (Old City North)",
+    "Chinatown & Yaowarat",
+    "Thonburi (West Bank)"
+  ],
+  "paaQuestions": [
+    "Is Sathorn a good neighborhood in Bangkok?",
+    "How far is Chatrium Riverside from city center?",
+    "Which area of Bangkok is the best to stay in?",
+    "Is Chatrium Riverside Bangkok noisy?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Riverside (Charoen Krung & Sathorn Pier) can leave you stuck in traffic-choked backstreets away from the river — most first-timers overlook the pier access and end up shuttling endlessly.",
+    "intro": "Riverside (Charoen Krung & Sathorn Pier) offers Bangkok's most elegant riverfront escape, with historic luxury hotels overlooking the Chao Phraya and converted colonial warehouses along Charoen Krung Road. We ranked it highest for romantic stays and temple proximity, prioritizing serene views over urban bustle.",
+    "vibe": "Romantic + riverside",
+    "quickStats": {
+      "priceBand": "€€€",
+      "walkability": "Medium",
+      "bestFor": "Honeymoons, special occasions, luxury travel, temple lovers",
+      "safetyNote": "Safe overall, watch belongings near Asiatique crowds."
+    },
+    "detailedDescription": "In Riverside (Charoen Krung & Sathorn Pier), mornings start with the hum of long-tail boats and ferries slicing through the Chao Phraya, while office workers in Sathorn cross the river for high-rise jobs. Locals run antique shops and galleries in Charoen Krung's old warehouses, blending quiet commerce with riverside cafes serving khao tom rice porridge. Days feel unhurried: stroll to Iconsiam mall for air-conditioned shopping or hop a ferry to Wat Arun's spires across the water. Evenings shift to Asiatique's open-air market, where families and couples browse stalls under string lights, eating som tam papaya salad from vendors. Noise stays low— no blaring horns like Sukhumvit— but expect moderate ferry horns and occasional warehouse renovations. Food leans upscale: hotel buffets with river views or street stalls at Tha Maharaj pier offering grilled squid. Getting around means relying on hotel shuttles to BTS Saphan Taksin or the Chao Phraya Express Boat; walking gaps between spots like Chatrium and Peninsula require 15-20 minutes along uneven paths. It's a pocket of old Bangkok for expats in heritage homes and tourists seeking calm amid the city's sprawl.",
+    "localSignals": [
+      "Nearest BTS: Surasak station, 10-15 minutes walk from Charoen Krung hotels.",
+      "Typical Grab from Suvarnabhumi Airport: 45-60 minutes, 600-900 THB depending on traffic.",
+      "Distance to Wat Arun: 5-10 minutes by ferry from Sathorn Pier.",
+      "Noise level at night: Quiet, with only occasional boat traffic.",
+      "Nearest convenience: 7-Eleven at Asiatique entrance, open 24/7."
+    ],
+    "pros": [
+      "Stunning river views from luxury hotels.",
+      "Easy ferry access to temples.",
+      "Calmer atmosphere than central districts.",
+      "Shuttle boats included at top properties.",
+      "Proximity to Iconsiam for shopping."
+    ],
+    "cons": [
+      "Gaps between attractions need boats or taxis.",
+      "High prices limit mid-range dining options.",
+      "Limited nightlife beyond Asiatique.",
+      "Walking paths uneven along riverfront.",
+      "Ferry schedules vary with tides."
+    ],
+    "skipIf": "Skip if you're backpacking on a budget or crave constant street food energy.",
+    "stayRecommendations": [
+      {
+        "name": "Mandarin Oriental Bangkok",
+        "why": "This historic icon fits Riverside perfectly with its Authors' Wing suites offering timeless riverfront elegance and proximity to Charoen Krung's antique scene."
+      },
+      {
+        "name": "The Peninsula Bangkok",
+        "why": "Its tiered pools descending to the Chao Phraya capture Riverside's romantic essence, ideal for special occasions near Sathorn Pier shuttles."
+      },
+      {
+        "name": "Chatrium Hotel Riverside Bangkok",
+        "why": "Spacious suites with Chao Phraya views align with Riverside's luxury riverside vibe, conveniently close to Asiatique for evening outings."
+      },
+      {
+        "name": "SALA Rattanakosin Bangkok",
+        "why": "Its intimate rooms with direct Wat Arun sights embody Riverside's atmospheric charm, suiting temple lovers seeking boutique calm."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Sukhumvit",
+        "shortPitch": "Sukhumvit buzzes with skyscrapers and nightlife, lacking Riverside's serene riverfront and historic warehouses.",
+        "recommendFor": "Night owls and shoppers"
+      },
+      {
+        "areaName": "Silom & Sathorn",
+        "shortPitch": "Silom & Sathorn offers business energy and bars right next door, but without Riverside's watery romance and temple ferries.",
+        "recommendFor": "Foodies and professionals"
+      },
+      {
+        "areaName": "Thonburi (West Bank)",
+        "shortPitch": "Thonburi provides quieter west-bank temples like Wat Arun up close, differing from Riverside's east-side luxury hotels and malls.",
+        "recommendFor": "Budget temple explorers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the romantic river sunsets and hassle-free hotel shuttles but note the need for transport to bridge attraction gaps and higher costs for non-luxury eats.",
+    "faq": [
+      {
+        "q": "Is Sathorn a good neighborhood in Bangkok?",
+        "a": "Sathorn suits business travelers with BTS access and offices, but for romance, choose Riverside's adjacent pier area with river hotels like Peninsula. Stay here if you want calmer views over urban hustle."
+      },
+      {
+        "q": "How far is Chatrium Riverside from city center?",
+        "a": "Chatrium Riverside is about 20-30 minutes by boat or taxi from central spots like Grand Palace, making it convenient via Chao Phraya Express. It's ideal for luxury stays avoiding traffic jams."
+      },
+      {
+        "q": "Which area of Bangkok is the best to stay in?",
+        "a": "Riverside excels for honeymoons with its luxury riverfront, but Sukhumvit fits shopping trips—pick based on priorities like views versus walkability. We recommend Riverside for special occasions."
+      },
+      {
+        "q": "Is Chatrium Riverside Bangkok noisy?",
+        "a": "Chatrium Riverside remains quiet at night, with only soft river traffic, unlike noisier Sukhumvit—its pools and spa enhance the serene escape. Book a high-floor suite for minimal disturbance."
+      },
+      {
+        "q": "Best hotels in Riverside Bangkok?",
+        "a": "Top picks include Mandarin Oriental for history and Chatrium for value, both leveraging the area's river views. Compare options on go2-thailand.com for 2026 deals."
+      }
+    ],
+    "urgencyLine": "Luxury riverside rooms in Riverside (Charoen Krung & Sathorn Pier) book out fast for temple festivals—secure spots 3-4 months ahead for 2026.",
+    "methodology": "We compared Riverside (Charoen Krung & Sathorn Pier) to Sukhumvit and Silom & Sathorn based on walkability, price level, noise, and suitability for its typical travellers. We weighted river access highest because it defines the area's romantic appeal over urban convenience. Last updated: 2026-04.",
+    "metaTitle": "Staying in Riverside (Charoen Krung & Sathorn Pier), Bangkok (2026)",
+    "metaDescription": "Discover Riverside (Charoen Krung & Sathorn Pier) in Bangkok: luxury riverfront stays with temple ferries and serene views for honeymoons. See top hotels…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:16:10.568Z"
+}

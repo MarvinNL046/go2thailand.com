@@ -1,0 +1,131 @@
+{
+  "template": "area-deep",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "areaSlug": "phuket-old-town",
+  "areaName": "Phuket Old Town",
+  "neighborhood": {
+    "name": "Phuket Old Town",
+    "description": "The historic heart of the island on the east coast, far from the beaches but rich in culture and cuisine. Colorful Sino-Portuguese shophouses, street art, independent cafes, museums, and the island's best local food scene. Increasingly popular with culture-focused travelers and those who want to experience the real Phuket beyond the beaches.",
+    "bestFor": "Culture lovers & foodies",
+    "priceLevel": "Budget to Mid-Range",
+    "highlights": [
+      "Sino-Portuguese architecture — Phuket's most photogenic streets",
+      "Sunday Walking Street Market on Thalang Road",
+      "Best and cheapest food on the island — mee hokkien, moo hong, kanom jeen",
+      "Thai Hua Museum and other cultural sites",
+      "Boutique guesthouses in restored shophouses"
+    ],
+    "walkingScore": "8/10",
+    "transportNotes": [
+      "30–40 minutes from Patong by Grab (250–350 THB)",
+      "No Smart Bus — need Grab or scooter to reach beaches",
+      "Very walkable within Old Town itself"
+    ],
+    "sources": [
+      {
+        "sourceName": "Thailand Routes",
+        "sourceUrl": "https://www.thailandroutes.com/en/where-to-stay-in-phuket-the-ultimate-guide-to-patong-kata-karon-old-town-and-beyond/",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Patong Beach",
+    "Kata Beach",
+    "Karon Beach",
+    "Surin & Bang Tao (Laguna)",
+    "Rawai & Nai Harn"
+  ],
+  "paaQuestions": [
+    "Is it good to stay in Phuket Old Town?",
+    "Where to stay in Phuket Old Town?",
+    "Where is the nicest part of Phuket to stay?",
+    "Can you walk around Phuket Old Town?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Phuket Old Town can strand you far from beaches without easy transport — most first-timers assume it's beach-adjacent and end up relying on pricey Grabs.",
+    "intro": "Phuket Old Town stands out as the island's historic core on the east coast, packed with Sino-Portuguese shophouses, street art, and the best local eats like mee hokkien and moo hong. We ranked it highly for its walkability and cultural depth, ideal for those skipping the touristy sands.",
+    "vibe": "Historic + cultural",
+    "quickStats": {
+      "priceBand": "€-€€",
+      "walkability": "High",
+      "bestFor": "Culture lovers & foodies",
+      "safetyNote": "Safe daytime walks, watch pockets in markets."
+    },
+    "detailedDescription": "In Phuket Old Town, travelers navigate narrow streets lined with two-story Sino-Portuguese shophouses that double as cafes and galleries, where local Thai families and Peranakan descendants run family businesses selling antiques or fresh noodles. Days start with quiet museum visits at Thai Hua, exploring Peranakan history amid faded facades, then shift to browsing street art on Soi Romanee or haggling at independent shops; the air fills with scents from roadside stalls serving kanom jeen for breakfast. Locals, a mix of Hokkien Chinese-Thai heritage, chat in markets while tourists snap photos of murals depicting old Phuket life. By evening, Thalang Road transforms into a pedestrian zone with food carts offering cheap moo hong under string lights, drawing families and couples until 10pm. Noise stays moderate—occasional scooter hums and market chatter, but no blasting music like in Patong. Nights wind down early, with shophouse bars serving craft coffee rather than cocktails. Food scene thrives on authentic spots: hole-in-the-wall eateries with plastic stools for the island's cheapest Thai meals, no beachside markups. Getting around is straightforward on foot within the 1km grid of streets, but reaching beaches requires a 30-40 minute Grab ride (250-350 THB to Patong) or scooter rental, as no Smart Bus serves here. It's a compact hub for culture immersion, where days blend history walks with spontaneous noodle slurps, far from the island's coastal crowds.",
+    "localSignals": [
+      "No BTS/MRT on Phuket island — use airport transfers or Grabs.",
+      "Grab from Phuket International Airport: 500-700 THB, 45-60 minutes drive.",
+      "Thalang Road Sunday market: central to Old Town, 0-5 minute walk from most stays.",
+      "Noise level at night: moderate from market vendors until 10pm.",
+      "Nearest 7-Eleven: on Thalang Road, under 5-minute walk from shophouse core."
+    ],
+    "pros": [
+      "Photogenic Sino-Portuguese streets for easy exploring.",
+      "Cheapest local food like mee hokkien everywhere.",
+      "Very walkable 8/10 score within the area.",
+      "Cultural sites like Thai Hua Museum nearby.",
+      "Boutique guesthouses in restored buildings."
+    ],
+    "cons": [
+      "30-40 minutes by Grab to nearest beaches.",
+      "No Smart Bus access — scooter or taxi needed.",
+      "Quieter nights, limited bars after 10pm.",
+      "Weekends crowded on Thalang Road markets.",
+      "Hotter without sea breeze, no direct beach relief."
+    ],
+    "skipIf": "Skip if you're prioritizing beach access or nightlife over cultural walks.",
+    "compareTo": [
+      {
+        "areaName": "Patong Beach",
+        "shortPitch": "Patong offers direct beachfront and party vibes, unlike Old Town's inland cultural focus with no sand nearby.",
+        "recommendFor": "Nightlife seekers & beach partiers"
+      },
+      {
+        "areaName": "Kata Beach",
+        "shortPitch": "Kata provides family-oriented beaches and calmer seas, contrasting Old Town's shophouse streets far from water.",
+        "recommendFor": "Families & relaxed swimmers"
+      },
+      {
+        "areaName": "Rawai & Nai Harn",
+        "shortPitch": "Rawai delivers quiet southern beaches and seafood markets, differing from Old Town's urban history without coastal access.",
+        "recommendFor": "Secluded beach relaxers"
+      }
+    ],
+    "travellerNote": "Travellers often praise the authentic food scene and walkable historic streets but note the inconvenience of Grab rides to beaches and early evening closures.",
+    "faq": [
+      {
+        "q": "Is it good to stay in Phuket Old Town?",
+        "a": "Yes, if you seek culture and local cuisine—it's the island's historic heart with top eats. Recommend for foodies avoiding beach crowds."
+      },
+      {
+        "q": "Where to stay in Phuket Old Town?",
+        "a": "Opt for boutique guesthouses in restored Sino-Portuguese shophouses along Thalang or Dibuk Road for an immersive stay. Budget to mid-range options abound."
+      },
+      {
+        "q": "Where is the nicest part of Phuket to stay?",
+        "a": "Phuket Old Town ranks high for culture lovers with its photogenic streets and markets, though beach areas like Kata suit others better."
+      },
+      {
+        "q": "Can you walk around Phuket Old Town?",
+        "a": "Absolutely—its 8/10 walkability lets you cover shophouses, museums, and food stalls on foot in under 20 minutes. Ideal for car-free exploration."
+      },
+      {
+        "q": "How to get from Phuket Old Town to beaches?",
+        "a": "Take a Grab for 250-350 THB, 30-40 minutes to Patong; rent a scooter for flexibility, as no buses run here."
+      },
+      {
+        "q": "Best time to visit Phuket Old Town?",
+        "a": "November to April for dry weather and Sunday markets; avoid rainy season if walking is key. Book shophouses early for high season."
+      }
+    ],
+    "urgencyLine": "Boutique shophouse guesthouses in Phuket Old Town fill quickly for Sunday Walking Street Market weekends—secure spots 2 months ahead.",
+    "methodology": "We compared Phuket Old Town to Patong Beach and Kata Beach based on walkability, price level, noise, and suitability for its typical travellers. We weighted walkability highest because culture lovers prioritize foot exploration over beach proximity. Last updated: 2026-04.",
+    "metaTitle": "Staying in Phuket Old Town, Phuket (2026)",
+    "metaDescription": "Stay in Phuket Old Town, Phuket: explore Sino-Portuguese architecture and island's best local food, far from beaches. Compare areas and see hotels for…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:23:53.391Z"
+}

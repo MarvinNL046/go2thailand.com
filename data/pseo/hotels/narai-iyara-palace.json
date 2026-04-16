@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lopburi",
+  "cityName": "Lopburi",
+  "hotelSlug": "narai-iyara-palace",
+  "hotel": {
+    "name": "Narai Iyara Palace",
+    "category": "mid-range",
+    "priceRange": "650-1,100 THB/night (~$18-31 USD)",
+    "area": "Khao Sam Yot area, Lopburi",
+    "description": "A 41-room boutique hotel with balcony rooms, flat-screen TVs, and mountain views. Named appropriately after King Narai, this property delivers a more upscale feel than the price suggests — complimentary bottled water, dry cleaning service, and friendly staff. Guest reviews consistently praise the cleanliness, quiet atmosphere, and accommodating team. An excellent value option combining comfort and competitive pricing.",
+    "highlights": [
+      "All rooms have balconies with views",
+      "Quieter, more boutique feel than the chain hotels",
+      "Consistently praised for cleanliness and staff quality",
+      "Good value at the price point"
+    ],
+    "reviewScore": "8.2/10 Booking.com",
+    "bestFor": [
+      "couples",
+      "quality-conscious budget travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Hotels.com",
+        "sourceUrl": "https://www.hotels.com/ho752773952/narai-iyara-palace-lopburi-lop-buri-thailand/",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNarai%2520Iyara%2520Palace%252C%2520Lopburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "DadD Resort by Lopburi Inn Resort",
+      "category": "mid-range",
+      "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+      "area": "New Town Lopburi",
+      "description": "The best mid-range option in Lopburi proper — a full resort setup with an outdoor swimming pool, 24-hour front desk, buffet breakfast, free WiFi, and spacious air-conditioned rooms. The motel-style layout gives direct parking to your room. 90 rooms with room service, restaurant, and laundry facilities. Consistently good staff reviews. Located in the New Town, a quick songthaew ride from the Old Town ruins. A genuine step up from the guesthouses without breaking the budget.",
+      "highlights": [
+        "Outdoor swimming pool — a real plus in Lopburi's heat",
+        "Buffet breakfast included in most rates",
+        "Spacious rooms with direct parking access",
+        "24-hour front desk and room service"
+      ],
+      "reviewScore": "7.8/10 Expedia",
+      "bestFor": [
+        "couples",
+        "families",
+        "value mid-range"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Lop-Buri-Hotels-Lopburi-Inn-Resort.h16166156.Hotel-Information",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDadD%2520Resort%2520by%2520Lopburi%2520Inn%2520Resort%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "O2 Hotel Lopburi",
+      "category": "mid-range",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "New Town Lopburi",
+      "description": "A modern 3-star hotel in the New Town with a garden, air-conditioned rooms, free WiFi, and a contemporary design that stands out from Lopburi's generally older hotel stock. Clean, well-maintained rooms with thoughtful modern touches. A reliable choice for travelers who want more comfort than a guesthouse without paying significantly more. Good base for exploring both Old Town ruins and New Town services.",
+      "highlights": [
+        "Modern 3-star design — more contemporary than most Lopburi options",
+        "Garden area and clean common spaces",
+        "Free WiFi and AC in all rooms",
+        "New Town location with transport to Old Town"
+      ],
+      "bestFor": [
+        "couples",
+        "comfort-conscious travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/lop-buri.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DO2%2520Hotel%2520Lopburi%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "Sri Intra Hotel",
+      "category": "mid-range",
+      "priceRange": "950-1,500 THB/night (~$27-42 USD)",
+      "area": "Tha Hin, Lopburi Province",
+      "description": "One of Lopburi's newer mid-range properties, offering 24-hour front desk, luggage storage, and free WiFi in a clean modern facility. Spacious air-conditioned rooms with flat-screen TVs. Located slightly outside the city center in the Tha Hin area, making it a better fit for travelers with their own transport who want a quiet setting away from the Old Town bustle. Good option for those visiting the nearby Pasak Chonlasit Dam area.",
+      "highlights": [
+        "Modern facility with consistent standards",
+        "24-hour front desk with luggage storage",
+        "Quieter location away from the Old Town crowds",
+        "Free WiFi and parking"
+      ],
+      "bestFor": [
+        "travelers with own transport",
+        "quiet stay seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g27164363-d33666366-Reviews-Sriintra_Hotel-Tha_Hin_Lopburi_Province.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSri%2520Intra%2520Hotel%252C%2520Lopburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Narai Iyara Palace without knowing its quieter Khao Sam Yot location can leave you relying on Grab rides to Lopburi's monkey-filled town center.",
+    "intro": "Narai Iyara Palace offers a 41-room boutique stay with balcony rooms featuring flat-screen TVs and mountain views, delivering an upscale feel through complimentary bottled water, dry cleaning, and friendly staff. It's ideal for couples and quality-conscious budget travelers seeking cleanliness and quiet in Lopburi.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "quality-conscious budget couples",
+      "standout": "mountain views from balconies",
+      "noGoFor": "families wanting pools"
+    },
+    "whyBook": [
+      "Balcony rooms provide mountain views for relaxation.",
+      "Consistently clean rooms praised in reviews.",
+      "Friendly staff offer accommodating service.",
+      "Dry cleaning and bottled water included.",
+      "Boutique quietness beats chain hotel noise."
+    ],
+    "whyNotBook": [
+      "No on-site pool or resort facilities available.",
+      "Limited to 41 rooms, books out quickly.",
+      "Khao Sam Yot area feels isolated from town center.",
+      "No buffet breakfast or dining options mentioned.",
+      "Mountain views may disappoint on foggy days."
+    ],
+    "skipIf": "Skip if you're traveling with kids needing pool access or prefer central locations without transport needs.",
+    "detailedReview": "Checking into Narai Iyara Palace feels welcoming, with friendly staff at the front desk ready to assist, often praised for their accommodating nature. The 41-room boutique hotel, named after King Narai, exudes a more upscale vibe than its mid-range price suggests, starting from 650 THB per night. Rooms come with balconies offering mountain views, flat-screen TVs, and essentials like complimentary bottled water, ensuring a comfortable stay focused on cleanliness and quiet. The atmosphere is serene, away from Lopburi's bustling monkey zones, appealing to couples who value peace over action. Standout amenities include the balconies for private outdoor moments and dry cleaning service for longer trips. Food options are basic, with no on-site restaurant noted, so guests typically head out for local eats. Service stands out as a highlight, with the team handling requests promptly, contributing to the 8.2/10 Booking.com score. Typical guests are quality-conscious budget travelers, including pairs exploring Lopburi's temples, who appreciate the value without chain hotel generics. Overall, it's a solid pick for those prioritizing a tidy, quiet boutique experience over extensive facilities.",
+    "locationReality": "Nestled in the Khao Sam Yot area, Narai Iyara Palace sits near Phra Prang Sam Yot temple, a 5-10 minute walk to this ancient Khmer ruin and monkey habitat. The town center with shops and eateries requires a 10-15 minute Grab ride costing around 100-150 THB. No BTS or MRT here, as Lopburi is a provincial town; the nearest major transport is the train station, about 15 minutes away by taxi.",
+    "localSignals": [
+      "41 rooms total in the boutique property.",
+      "All rooms feature balconies with mountain views.",
+      "Complimentary bottled water provided daily.",
+      "Dry cleaning service available on request.",
+      "Near Phra Prang Sam Yot temple, 5-10 min walk."
+    ],
+    "travellerNote": "Guests often praise the cleanliness, quiet atmosphere, and friendly staff but note the lack of on-site pool or dining and the need for transport to central attractions.",
+    "bookingTips": [
+      "Request a balcony room for mountain views.",
+      "Check Booking.com for rates, often cheaper than Agoda in Lopburi.",
+      "Prices spike during Lopburi's National Masked Dance Festival in February.",
+      "Verify no construction nearby, as boutique spots can have occasional work.",
+      "Confirm bottled water inclusion, standard but good to double-check."
+    ],
+    "similarHotels": [
+      {
+        "name": "DadD Resort by Lopburi Inn Resort (800-1,400 THB/night (~$22-39 USD)) — The best mid-range option in Lopburi proper — a full resort setup with an outdoor swimming pool, 24-hour front desk, buffet breakfast, free",
+        "howDifferent": "Offers a pool and buffet breakfast, unlike Narai Iyara Palace's quieter boutique setup without resort amenities."
+      },
+      {
+        "name": "O2 Hotel Lopburi (700-1,200 THB/night (~$20-34 USD)) — A modern 3-star hotel in the New Town with a garden, air-conditioned rooms, free WiFi, and a contemporary design that stands out from Lopbur",
+        "howDifferent": "Features modern design and garden in New Town, contrasting Narai Iyara Palace's mountain-view balconies in a historic area."
+      },
+      {
+        "name": "Sri Intra Hotel (950-1,500 THB/night (~$27-42 USD)) — One of Lopburi's newer mid-range properties, offering 24-hour front desk, luggage storage, and free WiFi in a clean modern facility. Spaciou",
+        "howDifferent": "Provides spacious modern rooms with luggage storage, differing from Narai Iyara Palace's compact boutique feel and views."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Narai Iyara Palace have a swimming pool?",
+        "a": "No, it does not have a pool, focusing instead on a quiet boutique experience with balcony views."
+      },
+      {
+        "q": "What are the room amenities at Narai Iyara Palace?",
+        "a": "Rooms include flat-screen TVs, balconies with mountain views, and complimentary bottled water."
+      },
+      {
+        "q": "Is breakfast included at Narai Iyara Palace?",
+        "a": "Breakfast is not mentioned as included; guests typically eat out at nearby local spots."
+      },
+      {
+        "q": "How far is Narai Iyara Palace from Lopburi town center?",
+        "a": "It's in Khao Sam Yot area, about 10-15 minutes by Grab from the center."
+      },
+      {
+        "q": "Is Narai Iyara Palace suitable for couples?",
+        "a": "Yes, its quiet atmosphere and balcony views make it ideal for couples seeking value."
+      },
+      {
+        "q": "What is the review score for Narai Iyara Palace?",
+        "a": "It holds an 8.2/10 on Booking.com, praised for cleanliness and staff."
+      }
+    ],
+    "urgencyLine": "Rooms at Narai Iyara Palace with mountain-view balconies book out 1-2 months ahead for Lopburi's festival season — check today.",
+    "methodology": "We rated Narai Iyara Palace based on guest reviews, amenities, location, and value from sources like Booking.com. We weighted cleanliness and staff quality highest because they drive consistent praise in a budget context. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Narai Iyara Palace Review (2026)",
+    "metaDescription": "Narai Iyara Palace in Lopburi offers balcony mountain views and clean boutique rooms for 650-1,100 THB/night, ideal for couples. No pool or central location means Grab rides needed. Book for quiet value stays. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:44:39.214Z"
+}

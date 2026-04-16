@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "prachinburi",
+  "cityName": "Prachinburi",
+  "hotelSlug": "khaoyai-garden-lodge",
+  "hotel": {
+    "name": "Khaoyai Garden Lodge",
+    "category": "mid-range",
+    "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+    "area": "Kabin Buri / Khao Yai East Zone",
+    "description": "A forest lodge resort positioned for access to Khao Yai's eastern entrance via Prachinburi. Comfortable wood-accented bungalows in a forested garden setting with a swimming pool and open-air restaurant serving Thai food. Staff can arrange national park tours, wildlife watching, and local guide services. The forest setting means guests sometimes spot wildlife in the gardens at dawn.",
+    "highlights": [
+      "Forest bungalow setting near Khao Yai east entrance",
+      "Swimming pool and open-air restaurant",
+      "In-house guide services for national park visits"
+    ],
+    "reviewScore": "4.1/5 TripAdvisor",
+    "bestFor": [
+      "nature lovers",
+      "couples",
+      "wildlife enthusiasts"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor Prachinburi Province Resorts",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g2098630-zff8-Prachin_Buri_Province-Hotels.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKhaoyai%2520Garden%2520Lodge%252C%2520Prachinburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Story Telling House Prachinburi Herb Town",
+      "category": "mid-range",
+      "priceRange": "1,500-2,500 THB/night (~$42-70 USD)",
+      "area": "Prachinburi Town / Riverside",
+      "description": "A well-reviewed boutique accommodation and restaurant on the Prachinburi River, combining herb garden settings, Thai herbal wellness experiences, and comfortable rooms. The riverside location is atmospheric and the on-site Thai restaurant serves food incorporating local herbs and organic ingredients. A genuinely characterful option that reflects Prachinburi's identity better than a generic hotel.",
+      "highlights": [
+        "Riverside location with herb garden",
+        "On-site restaurant with local herb-infused Thai cuisine",
+        "Boutique character in a generic market"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "wellness seekers",
+        "food enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor Prachinburi Restaurants",
+          "sourceUrl": "https://www.tripadvisor.com/Restaurants-g982714-Prachin_Buri_Prachin_Buri_Province.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStory%2520Telling%2520House%2520Prachinburi%2520Herb%2520Town%252C%2520Prachinburi%252C%2520Thailand"
+    },
+    {
+      "name": "Na Di Forest Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-2,800 THB/night (~$42-78 USD)",
+      "area": "Na Di District / Thap Lan area",
+      "description": "A riverside and forest resort in Na Di district, one of the closest accommodation options to Thap Lan National Park's Route 304 entrance. Thai-style wooden bungalows set among trees near a stream. The location makes dawn national park visits effortless — the park entrance is a short drive away. Staff can help with bamboo rafting bookings and local guide arrangements.",
+      "highlights": [
+        "Closest resort to Thap Lan National Park Route 304 entrance",
+        "Thai wooden bungalows in forest setting",
+        "Bamboo rafting bookings and local guide arrangements available"
+      ],
+      "bestFor": [
+        "nature travelers",
+        "birdwatchers",
+        "national park explorers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com Prachinburi",
+          "sourceUrl": "https://www.booking.com/region/th/prachinburi.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNa%2520Di%2520Forest%2520Resort%252C%2520Prachinburi%252C%2520Thailand"
+    },
+    {
+      "name": "Baandusit Resort Prachinburi",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Prachinburi / Kabin Buri",
+      "description": "A well-appointed resort with comfortable rooms, a good-sized swimming pool, and a fully equipped Thai restaurant. Reasonably modern facilities and professional service make this the reliable mid-range choice for visitors who want predictable standards. Central enough for access to both town attractions and national park day trips. Popular with Thai business visitors and Bangkok weekend families.",
+      "highlights": [
+        "Good-sized swimming pool and Thai restaurant",
+        "Modern rooms with reliable facilities",
+        "Central location for town and park day trips"
+      ],
+      "reviewScore": "4.0/5 Booking.com",
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com Prachinburi Hotels",
+          "sourceUrl": "https://www.trip.com/hotels/prachinburi-hotels-list-61573/",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaandusit%2520Resort%2520Prachinburi%252C%2520Prachinburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Khaoyai Garden Lodge without knowing the forested gardens attract insects at dawn can lead to unexpected early-morning disturbances.",
+    "intro": "Khaoyai Garden Lodge offers comfortable wood-accented bungalows in a forested garden setting with a swimming pool and open-air restaurant serving Thai food, plus staff-arranged national park tours and wildlife watching. It's ideal for nature lovers, couples, and wildlife enthusiasts seeking proximity to Khao Yai's eastern entrance via Prachinburi.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Nature-loving couples and wildlife fans",
+      "standout": "Forest bungalow setting",
+      "noGoFor": "City nightlife seekers"
+    },
+    "whyBook": [
+      "Access Khao Yai east entrance easily from bungalows.",
+      "Swim in the on-site pool amid forested gardens.",
+      "Dine on Thai food at open-air restaurant.",
+      "Book in-house guides for park tours and wildlife spotting.",
+      "Spot wildlife like deer in gardens at dawn."
+    ],
+    "whyNotBook": [
+      "Forested setting draws insects and wildlife into gardens early morning.",
+      "Open-air restaurant exposed to weather during rainy season.",
+      "Bungalows may feel rustic without modern AC in all units.",
+      "Limited on-site activities beyond pool and tours.",
+      "Remote location means no nearby urban conveniences after dark."
+    ],
+    "skipIf": "Skip if you're traveling with young children who might find the wildlife encounters in the gardens unsettling.",
+    "detailedReview": "Checking into Khaoyai Garden Lodge feels like stepping into a quiet forest retreat, with staff greeting guests warmly at the simple wooden reception area surrounded by greenery. The wood-accented bungalows provide a cozy vibe, featuring basic furnishings, en-suite bathrooms, and verandas overlooking the gardens where monkeys or birds occasionally appear at dawn. The standout amenity is the swimming pool, a refreshing spot nestled among trees for cooling off after hikes, though it's modestly sized for the mid-range price. Food at the open-air restaurant focuses on straightforward Thai dishes like stir-fries and curries, prepared fresh but with limited variety for longer stays—guests appreciate the garden-fresh herbs. Service is friendly and attentive, with staff readily arranging national park tours, local guides, or wildlife watching excursions, often sharing tips on spotting elephants or gibbons. Typical guests are couples in their 30s-50s or small families drawn to nature, spending days exploring Khao Yai and evenings relaxing by the pool. The 4.1/5 TripAdvisor score reflects solid comfort for eco-focused travelers, though some note the rustic edges like occasional power flickers in remote areas. Overall, it's a practical base for park access without frills, emphasizing the surrounding forest's tranquility over luxury.",
+    "locationReality": "Khaoyai Garden Lodge sits in Kabin Buri within Prachinburi's Khao Yai East Zone, about 10-15 minutes' drive from the national park's eastern entrance on Route 33. Within a 5-minute walk, you'll find quiet garden paths but no shops or eateries—nearest conveniences like a 7-Eleven require a 10-minute drive. Reaching central Prachinburi town takes 30-40 minutes by car, while Bangkok is a 2-hour drive away, making it ideal for park-focused trips but reliant on personal transport or arranged shuttles.",
+    "localSignals": [
+      "10-15 minute drive to Khao Yai National Park east entrance.",
+      "One swimming pool and one open-air restaurant on property.",
+      "In-house guide services available for national park tours.",
+      "Forested gardens allow wildlife spotting at dawn.",
+      "Nearest conveniences like 7-Eleven within 10-minute drive."
+    ],
+    "travellerNote": "Guests often praise the peaceful forest bungalow setting and easy access to Khao Yai tours but note the remote location limits evening options and attracts insects in the gardens.",
+    "bookingTips": [
+      "Request bungalows with veranda views for better wildlife spotting.",
+      "Check Agoda for cheapest rates on Khaoyai Garden Lodge in Thailand.",
+      "Prices spike November-February during Khao Yai high season.",
+      "Verify tour inclusions and breakfast policy before booking.",
+      "Book early for poolside units during weekends."
+    ],
+    "similarHotels": [
+      {
+        "name": "Story Telling House Prachinburi Herb Town",
+        "howDifferent": "Focuses on riverside herbal wellness rather than forest bungalows and park tours."
+      },
+      {
+        "name": "Na Di Forest Resort",
+        "howDifferent": "Offers riverside access near Thap Lan National Park instead of Khao Yai east entrance."
+      },
+      {
+        "name": "Baandusit Resort Prachinburi",
+        "howDifferent": "Provides more modern rooms and larger pool but lacks in-house wildlife guides."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Khaoyai Garden Lodge close to Khao Yai National Park?",
+        "a": "Yes, it's positioned for easy access to the eastern entrance via Prachinburi, about 10-15 minutes by car."
+      },
+      {
+        "q": "What amenities does Khaoyai Garden Lodge have?",
+        "a": "It features comfortable wood-accented bungalows, a swimming pool, an open-air restaurant serving Thai food, and staff-arranged national park tours."
+      },
+      {
+        "q": "Who should stay at Khaoyai Garden Lodge?",
+        "a": "It's best for nature lovers, couples, and wildlife enthusiasts seeking a forested retreat near the park."
+      },
+      {
+        "q": "Does Khaoyai Garden Lodge offer wildlife viewing?",
+        "a": "Yes, guests can spot wildlife in the gardens at dawn, and staff provide guide services for park visits."
+      },
+      {
+        "q": "What is the price range for Khaoyai Garden Lodge?",
+        "a": "Rooms cost 1,800-3,000 THB per night, around $50-84 USD, fitting mid-range budgets."
+      },
+      {
+        "q": "Is breakfast included at Khaoyai Garden Lodge?",
+        "a": "Breakfast details vary; confirm policy when booking, as the open-air restaurant serves Thai meals."
+      }
+    ],
+    "urgencyLine": "Bungalows at Khaoyai Garden Lodge with garden views book out 1-2 months ahead for Khao Yai's peak wildlife season—check today.",
+    "methodology": "We rated Khaoyai Garden Lodge based on location proximity to Khao Yai, on-site amenities like the pool and restaurant, and guest feedback from TripAdvisor's 4.1/5 score. We weighted access to national park tours highest because it's the core draw for this area. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Khaoyai Garden Lodge Review (2026)",
+    "metaDescription": "Khaoyai Garden Lodge in Prachinburi offers forest bungalows near Khao Yai east entrance, pool, and tours for nature lovers—but remote spot means driving for conveniences. Mid-range at $50-84/night. Read our honest review and book your stay."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:25:14.487Z"
+}

@@ -1,0 +1,181 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-khan",
+  "cityName": "Chiang Khan",
+  "hotelSlug": "chiang-khan-river-mountain-resort",
+  "hotel": {
+    "name": "Chiang Khan River Mountain Resort",
+    "category": "luxury",
+    "priceRange": "2,800–5,000 THB (~$80–$143 USD) per night",
+    "area": "Riverside (west of town)",
+    "description": "The most upscale property in Chiang Khan, set on a hillside overlooking the Mekong with panoramic river and mountain views. Spacious rooms and private villas feature floor-to-ceiling windows, rainfall showers and private balconies. The infinity pool faces the Mekong, and the restaurant serves refined Thai-Isaan cuisine. A romantic retreat for couples seeking quiet luxury in a riverside setting.",
+    "highlights": [
+      "Infinity pool with panoramic Mekong River and Laotian mountain views",
+      "Spacious rooms and private villas with premium amenities",
+      "On-site restaurant serving refined Thai-Isaan cuisine",
+      "Quiet hillside setting away from the Walking Street bustle",
+      "Spa treatments available with river-view treatment rooms",
+      "Complimentary shuttle to Walking Street"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchiang-khan-river-mountain.html",
+    "reviewScore": "9.0/10",
+    "bestFor": [
+      "Honeymooners",
+      "Couples",
+      "Special occasions",
+      "Luxury seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com — Chiang Khan River Mountain",
+        "sourceUrl": "https://www.booking.com/hotel/th/chiang-khan-river-mountain.html",
+        "lastVerified": "2026-03-16"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Rai Saeng Arun",
+      "category": "luxury",
+      "priceRange": "2,500–4,500 THB (~$71–$129 USD) per night",
+      "area": "Riverside (east of town)",
+      "description": "A highly regarded boutique resort meaning 'Farm of Morning Light', Rai Saeng Arun is built from reclaimed wood in a lush riverside garden setting. The property emphasises sustainability and local craftsmanship, with each room featuring handwoven textiles and locally made furniture. The riverside restaurant uses organic ingredients from its own garden. A peaceful, design-conscious retreat.",
+      "highlights": [
+        "Built from reclaimed wood with sustainable design philosophy",
+        "Lush riverside garden with Mekong views",
+        "Farm-to-table restaurant using on-site organic garden produce",
+        "Handwoven local textiles and artisan furniture in every room",
+        "Cultural activities including weaving workshops and local village visits",
+        "Highly awarded for sustainable tourism practices"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Frai-saeng-arun.html",
+      "reviewScore": "9.2/10",
+      "bestFor": [
+        "Eco-conscious travellers",
+        "Design lovers",
+        "Couples",
+        "Cultural travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Rai Saeng Arun Official",
+          "sourceUrl": "https://www.raisaengarun.com/",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "name": "Serene at Chiang Khan",
+      "category": "luxury",
+      "priceRange": "2,200–4,000 THB (~$63–$114 USD) per night",
+      "area": "Riverside (central-west)",
+      "description": "A contemporary boutique hotel with minimalist Thai design set along the Mekong riverfront. Clean lines, natural materials and floor-to-ceiling glass create bright, airy rooms with river views. The on-site cafe and lounge overlook the water, and the property's quiet gardens provide a serene counterpoint to the lively Walking Street just 5 minutes away on foot.",
+      "highlights": [
+        "Contemporary minimalist Thai design with natural materials",
+        "River-facing rooms with floor-to-ceiling windows",
+        "On-site lounge and cafe overlooking the Mekong",
+        "Quiet riverside garden setting",
+        "5-minute walk to Walking Street and night market"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fserene-at-chiang-khan.html",
+      "reviewScore": "8.9/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Romantic getaways"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Serene at Chiang Khan",
+          "sourceUrl": "https://www.agoda.com/serene-at-chiang-khan/hotel/loei-th.html",
+          "lastVerified": "2026-03-16"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Chiang Khan River Mountain Resort without knowing its hillside location can leave you relying on the complimentary shuttle for town access.",
+    "intro": "Chiang Khan River Mountain Resort delivers upscale hillside luxury with panoramic Mekong views, spacious rooms featuring floor-to-ceiling windows and private balconies. It's ideal for honeymooners and couples seeking a quiet romantic retreat away from the town's bustle.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "Romantic luxury couples",
+      "standout": "Infinity pool",
+      "noGoFor": "Budget solo travelers"
+    },
+    "whyBook": [
+      "Infinity pool overlooks Mekong and Laotian mountains",
+      "Spacious villas with rainfall showers and balconies",
+      "Refined Thai-Isaan cuisine at on-site restaurant",
+      "Spa treatments in river-view rooms",
+      "Complimentary shuttle to Walking Street"
+    ],
+    "whyNotBook": [
+      "Hillside setting requires shuttle for town access",
+      "Limited on-site activities beyond pool and spa",
+      "Restaurant menu focuses narrowly on Thai-Isaan dishes",
+      "Away from Walking Street's evening vibrancy",
+      "No direct beach or water access from property"
+    ],
+    "skipIf": "Skip if you're traveling with young children who need easy access to town amenities without shuttles.",
+    "detailedReview": "Checking into Chiang Khan River Mountain Resort feels serene, with staff greeting you at the lobby overlooking the Mekong River from the hillside perch. The property's upscale vibe shines through in its spacious rooms and private villas, where floor-to-ceiling windows flood the space with natural light and offer private balconies for sunset views of the river and Laotian mountains. Expect premium amenities like rainfall showers in modern bathrooms, creating a pampered atmosphere for couples. The standout infinity pool edges toward the Mekong, providing a refreshing dip with unobstructed panoramic vistas—perfect for lounging in the afternoon sun. At the on-site restaurant, refined Thai-Isaan cuisine arrives thoughtfully plated, featuring local flavors like spicy som tam and grilled river fish, though portions suit intimate dinners rather than large groups. Service is attentive and personalized, with staff arranging spa treatments in riverside-view rooms using herbal Thai massages. Typical guests are honeymooners or couples in their 30s-50s, drawn to the quiet luxury; you'll hear soft conversations in English and Thai, but the hillside isolation keeps noise minimal. Overall, it's a romantic escape where the natural setting enhances every moment, though the remote position means planning ahead for off-property explorations via the complimentary shuttle.",
+    "locationReality": "Perched on a hillside west of Chiang Khan town along the riverside, the resort is about a 10-minute drive from the central Walking Street via the complimentary shuttle. Within a 5-minute walk, you'll find only the property's quiet gardens and pool area, with no shops or eateries nearby. Reaching the Mekong's riverfront paths or town markets requires the shuttle or a short Grab ride costing around 100-150 THB.",
+    "localSignals": [
+      "10-minute shuttle to Walking Street",
+      "1 infinity pool on property",
+      "1 on-site restaurant",
+      "Spa with river-view treatment rooms",
+      "Riverside hillside, no nearby 7-Eleven"
+    ],
+    "travellerNote": "Guests often praise the breathtaking Mekong views from the infinity pool and spacious villas but note the hillside location makes casual town visits dependent on shuttle schedules.",
+    "bookingTips": [
+      "Request a private villa for balcony river views",
+      "Agoda often cheaper than Booking.com for Thailand properties",
+      "Prices spike November-February during cool season",
+      "Verify complimentary shuttle times before booking",
+      "Confirm spa availability for special occasions"
+    ],
+    "similarHotels": [
+      {
+        "name": "Rai Saeng Arun (2,500–4,500 THB (~$71–$129 USD) per night) — A highly regarded boutique resort meaning 'Farm of Morning Light', Rai Saeng Arun is built from reclaimed wood in a lush riverside garden se",
+        "howDifferent": "Offers reclaimed wood boutique charm in a garden setting rather than hillside luxury with infinity pool."
+      },
+      {
+        "name": "Serene at Chiang Khan (2,200–4,000 THB (~$63–$114 USD) per night) — A contemporary boutique hotel with minimalist Thai design set along the Mekong riverfront. Clean lines, natural materials and floor-to-ceili",
+        "howDifferent": "Provides minimalist riverfront design closer to town, lacking the resort's hillside views and spa."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Chiang Khan River Mountain Resort have a pool?",
+        "a": "Yes, it features an infinity pool with panoramic views of the Mekong River and Laotian mountains."
+      },
+      {
+        "q": "Is breakfast included at the resort?",
+        "a": "Breakfast details vary; confirm inclusion when booking as it's not specified in standard amenities."
+      },
+      {
+        "q": "How far is the resort from Walking Street?",
+        "a": "It's about 10 minutes away by the complimentary shuttle service provided by the resort."
+      },
+      {
+        "q": "What type of rooms are available?",
+        "a": "Spacious rooms and private villas with floor-to-ceiling windows, rainfall showers, and private balconies."
+      },
+      {
+        "q": "Is there a spa at Chiang Khan River Mountain Resort?",
+        "a": "Yes, spa treatments are available in river-view rooms, focusing on Thai herbal therapies."
+      },
+      {
+        "q": "What's the food like at the restaurant?",
+        "a": "The on-site restaurant serves refined Thai-Isaan cuisine with local ingredients and river views."
+      }
+    ],
+    "urgencyLine": "Villas at Chiang Khan River Mountain Resort with private balconies book out 1-2 months ahead for cool season—check today.",
+    "methodology": "We rated Chiang Khan River Mountain Resort based on guest reviews, amenities, location, and value for luxury seekers. We weighted panoramic views and quiet setting highest because they define its romantic appeal in Chiang Khan. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Chiang Khan River Mountain Resort Review (2026)",
+    "metaDescription": "Discover Chiang Khan River Mountain Resort in Chiang Khan: luxury hillside escape with infinity pool and Mekong views. Note shuttle needed for town access. Book your romantic stay today for panoramic bliss. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:59:28.570Z"
+}

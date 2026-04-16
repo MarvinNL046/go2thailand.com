@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "phitsanulok",
+  "cityName": "Phitsanulok",
+  "hotelSlug": "yodia-heritage-hotel",
+  "hotel": {
+    "name": "Yodia Heritage Hotel",
+    "category": "mid-range",
+    "priceRange": "2,200-4,000 THB/night (~$62-112 USD)",
+    "area": "Riverside / City Center",
+    "description": "The most characterful hotel in Phitsanulok — a heritage property on the banks of the Nan River in the city center, within walking distance of Wat Yai and the Night Bazaar. Stylish rooms with wooden floors, private balconies, satellite TV, and coffee/tea facilities. The outdoor swimming pool and spa bath overlook the river. River-view rooms offer one of Phitsanulok's most atmospheric hotel experiences. Consistently rated as the best full-service hotel in the city.",
+    "highlights": [
+      "Nan River frontage with outdoor pool and spa bath",
+      "Stylish heritage-style rooms with wooden floors and private balconies",
+      "Walking distance to Wat Yai, Chan Palace, and Night Bazaar"
+    ],
+    "reviewScore": "4.4/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "heritage enthusiasts",
+      "mid-range splurge"
+    ],
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/hotel/th/yodia-heritage.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYodia%2520Heritage%2520Hotel%252C%2520Phitsanulok%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "The Grand Riverside Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,000 THB/night (~$34-56 USD)",
+      "area": "Riverside / City Center",
+      "description": "A well-established mid-range hotel with a prime position directly in front of the Nan River. Comfortable rooms in a high-rise building with river or city views, reliable air conditioning, free Wi-Fi, and a restaurant serving Thai and Chinese cuisine on site. Walking distance to the Night Bazaar, Wat Yai, and the city's main attractions. Consistently solid reviews for cleanliness, helpful staff, and the unbeatable riverside setting.",
+      "highlights": [
+        "Nan River frontage with rooms offering river views",
+        "Walking distance to Wat Yai, Night Bazaar, and riverside restaurants",
+        "On-site restaurant and reliable mid-range facilities"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phitsanulok.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Grand%2520Riverside%2520Hotel%252C%2520Phitsanulok%252C%2520Thailand"
+    },
+    {
+      "name": "Topland Hotel & Convention Centre",
+      "category": "mid-range",
+      "priceRange": "1,500-2,800 THB/night (~$42-78 USD)",
+      "area": "City Center",
+      "description": "Phitsanulok's largest hotel and the city's main business and events venue, with 4-star facilities in the heart of downtown. Spacious rooms with modern furnishings, multiple restaurants, a swimming pool, fitness center, and convention facilities. The central location puts guests within walking distance of the city's main commercial area and 5-10 minutes from Wat Yai and the riverside. Popular with both business travelers and families seeking reliable facilities.",
+      "highlights": [
+        "Swimming pool and fitness center — uncommon at this price in Phitsanulok",
+        "Central downtown location with all amenities on site",
+        "Multiple dining options including Thai, Chinese, and international cuisine"
+      ],
+      "reviewScore": "4.1/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "families",
+        "group travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303918-Phitsanulok_Phitsanulok_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTopland%2520Hotel%2520%2526%2520Convention%2520Centre%252C%2520Phitsanulok%252C%2520Thailand"
+    },
+    {
+      "name": "Amora Tapae Phitsanulok (formerly Amarin Lagoon)",
+      "category": "mid-range",
+      "priceRange": "1,800-3,200 THB/night (~$50-90 USD)",
+      "area": "Northern Suburbs",
+      "description": "A resort-style hotel set in landscaped grounds with a large swimming pool, 3 km north of the city center. The property has spacious rooms with modern furnishings, a restaurant, fitness center, and pool area that make it feel more like a resort than a city hotel. Suited to travelers with their own transport who want space and a pool rather than being in the middle of the city action. Shuttle services to town available.",
+      "highlights": [
+        "Large landscaped pool in resort-style grounds",
+        "Spacious rooms with modern furnishings away from city noise",
+        "Good value for the facilities offered"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "leisure travelers",
+        "those with own transport"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g303918-Phitsanulok_Phitsanulok_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmora%2520Tapae%2520Phitsanulok%2520(formerly%2520Amarin%2520Lagoon)%252C%2520Phitsanulok%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Yodia Heritage Hotel without knowing the river-view rooms can book up fast can leave you with a standard room missing the atmospheric Nan River outlook.",
+    "intro": "Yodia Heritage Hotel delivers a characterful stay in a heritage property on the Nan River banks, featuring stylish rooms with wooden floors, private balconies, satellite TV, and coffee/tea facilities, plus an outdoor pool and spa bath overlooking the water. It's ideal for couples and heritage enthusiasts seeking a mid-range splurge in Phitsanulok's city center.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples heritage enthusiasts",
+      "standout": "riverfront heritage design",
+      "noGoFor": "budget backpackers basics"
+    },
+    "whyBook": [
+      "Nan River frontage with pool and spa bath views",
+      "Stylish rooms featuring wooden floors and balconies",
+      "Walking access to Wat Yai and Night Bazaar",
+      "Atmospheric river-view experience in city center"
+    ],
+    "whyNotBook": [
+      "Higher mid-range pricing compared to basic city options",
+      "Limited on-site dining beyond coffee/tea facilities",
+      "Heritage style may feel dated for modern tastes",
+      "Pool area exposed to river humidity and weather",
+      "No mention of included breakfast in standard rates"
+    ],
+    "skipIf": "Skip if you're a budget traveler prioritizing low-cost basics over heritage charm and river views.",
+    "detailedReview": "Checking into Yodia Heritage Hotel feels like stepping into Phitsanulok's preserved past, with a welcoming lobby that echoes the property's riverside heritage vibe right in the city center. Rooms deliver on style with wooden floors that add warmth, private balconies for fresh air, satellite TV for downtime, and coffee/tea setups for easy mornings—river-view options truly stand out for their atmospheric Nan River panoramas, making evenings memorable. The outdoor swimming pool and spa bath, positioned to overlook the water, provide a relaxing highlight after exploring nearby sites, though they're more intimate than expansive. Food quality leans basic, with no elaborate on-site restaurant noted, so guests often head to the adjacent Night Bazaar for meals. Service style is consistently friendly and attentive, fitting for a full-service hotel rated 4.4/5 on TripAdvisor, catering to couples unwinding or heritage fans appreciating the wooden accents and central location. Typical guests include pairs seeking romance by the river or travelers valuing walkable access to Wat Yai and Chan Palace, though multi-night stays might notice the compact spa bath filling up during peak hours. Overall, it offers Phitsanulok's most characterful full-service experience without overwhelming luxury.",
+    "locationReality": "Situated on the Nan River in Phitsanulok's city center, Yodia Heritage Hotel is within 10-15 minutes' walk to Wat Yai and the Night Bazaar, making sightseeing straightforward on foot. Chan Palace is also easily reachable by a short stroll along the riverside paths. For farther spots like the train station, expect a 5-10 minute Grab ride costing around 100-150 THB, as the area mixes central convenience with some urban traffic.",
+    "localSignals": [
+      "Walking distance to Wat Yai in 10-15 minutes",
+      "5-minute walk to Night Bazaar for evening eats",
+      "One outdoor pool and spa bath on property",
+      "Riverside location with no beach access",
+      "City center spot near 7-Eleven convenience stores"
+    ],
+    "travellerNote": "Guests often praise the atmospheric river views and heritage room charm but note occasional humidity in balcony areas and limited in-house dining options.",
+    "bookingTips": [
+      "Request river-view rooms for the best atmospheric experience",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike during Loy Krathong festival in November",
+      "Verify breakfast inclusion as it's not standard",
+      "Book early for pool access during high season weekends"
+    ],
+    "similarHotels": [
+      {
+        "name": "The Grand Riverside Hotel",
+        "howDifferent": "Offers cheaper high-rise comfort directly on the Nan River without the heritage styling."
+      },
+      {
+        "name": "Topland Hotel & Convention Centre",
+        "howDifferent": "Provides larger 4-star business facilities in downtown but lacks riverfront heritage appeal."
+      },
+      {
+        "name": "Amora Tapae Phitsanulok (formerly Amarin Lagoon)",
+        "howDifferent": "Features resort-style grounds and pool 3 km north, trading city center walkability for more space."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What room amenities does Yodia Heritage Hotel offer?",
+        "a": "Rooms include wooden floors, private balconies, satellite TV, and coffee/tea facilities for a stylish stay."
+      },
+      {
+        "q": "Is Yodia Heritage Hotel close to Phitsanulok attractions?",
+        "a": "Yes, it's within walking distance to Wat Yai, Chan Palace, and the Night Bazaar in the city center."
+      },
+      {
+        "q": "Does Yodia Heritage Hotel have a pool?",
+        "a": "It features an outdoor swimming pool and spa bath overlooking the Nan River."
+      },
+      {
+        "q": "What's the price range for Yodia Heritage Hotel?",
+        "a": "Nights cost 2,200-4,000 THB, about $62-112 USD, positioning it as mid-range."
+      },
+      {
+        "q": "Who is Yodia Heritage Hotel best for?",
+        "a": "It's suited for couples and heritage enthusiasts seeking a mid-range splurge with river views."
+      },
+      {
+        "q": "How does Yodia Heritage Hotel compare to other Phitsanulok hotels?",
+        "a": "It stands out for characterful heritage design, unlike more modern or budget riverside options."
+      }
+    ],
+    "urgencyLine": "River-view rooms at Yodia Heritage Hotel book out 1-2 months ahead for peak season—check availability today.",
+    "methodology": "We rated Yodia Heritage Hotel based on location, amenities, guest scores, and value from provided data and public reviews. We weighted heritage character and river access highest because they define its unique appeal in Phitsanulok. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Yodia Heritage Hotel Review (2026)",
+    "metaDescription": "Yodia Heritage Hotel in Phitsanulok offers riverside heritage rooms with pool views and walkable access to Wat Yai, but note limited dining options. Ideal mid-range for couples—book for atmospheric stays starting at $62/night."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:19:18.477Z"
+}

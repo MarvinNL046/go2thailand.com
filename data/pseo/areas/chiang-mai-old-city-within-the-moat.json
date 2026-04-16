@@ -1,0 +1,277 @@
+{
+  "template": "area-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "areaSlug": "old-city-within-the-moat",
+  "areaName": "Old City (Within the Moat)",
+  "neighborhood": {
+    "name": "Old City (Within the Moat)",
+    "description": "The historic heart of Chiang Mai, enclosed by 700-year-old moat walls forming a near-perfect square. Dozens of temples, guesthouses, cafes, and restaurants packed into a walkable 1.5 km x 1.5 km area. The Sunday Walking Street Market runs right through it. Most tour pickups originate here.",
+    "bestFor": "First-timers & temple lovers",
+    "priceLevel": "Budget to Mid-Range",
+    "highlights": [
+      "Walk to Wat Chedi Luang, Wat Phra Singh, and 20+ other temples",
+      "Sunday Walking Street Market passes through the main road",
+      "Most tour operators pick up from Old City hotels",
+      "Abundant cheap restaurants and massage shops",
+      "Tha Phae Gate is the main landmark and social hub"
+    ],
+    "recommendedHotels": [
+      "Julie Guesthouse",
+      "U Chiang Mai",
+      "The Inside House"
+    ],
+    "walkingScore": "9/10",
+    "transportNotes": [
+      "Everything inside the moat is walkable",
+      "Songthaews circle the moat road — flag one down for 30 THB",
+      "Can get noisy on Sunday nights during the market"
+    ],
+    "sources": [
+      {
+        "sourceName": "Lonely Planet",
+        "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Julie Guesthouse",
+      "category": "budget",
+      "priceRange": "350–700 THB/night (~$10–20 USD)",
+      "area": "Old City",
+      "description": "A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant that doubles as a social hub. The location near Tha Phae Gate is unbeatable for market access.",
+      "highlights": [
+        "Steps from Tha Phae Gate and Sunday Market",
+        "Both fan and air-con rooms available",
+        "Reliable WiFi and airport pickup service"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d613049-Reviews-Julie_Guest_House-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJulie%2520Guesthouse%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "U Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Old City",
+      "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+      "highlights": [
+        "Front-row seats to Sunday Market from your balcony",
+        "Views of Wat Chedi Luang from select rooms",
+        "Pool and fitness center included"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "The Inside House",
+      "category": "luxury",
+      "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+      "area": "Old City",
+      "description": "A restored colonial-style boutique hotel with elegant white arches, leafy courtyards, and 14 private pools — the only Old City property offering this. Some suites feature private pools with glass walls. Intimate and beautifully designed.",
+      "highlights": [
+        "14 private pools across the property",
+        "Colonial-meets-Lanna architecture",
+        "Only luxury hotel inside the Old City walls with private pools"
+      ],
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Inside%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Hive 28",
+      "category": "budget",
+      "priceRange": "280–500 THB/night (~$8–14 USD)",
+      "area": "Old City",
+      "description": "A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains, personal reading lights, and USB charging. Great common areas for meeting other travelers.",
+      "highlights": [
+        "Rooftop bar with temple views",
+        "Pod-style dorm beds with privacy",
+        "Free breakfast included"
+      ],
+      "bestFor": [
+        "backpackers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Chiang-Mai-Hotels.6042.hotel.ksp",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHive%252028%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Stamps Backpackers",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Old City",
+      "description": "Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access to temples and the Night Bazaar. Both dorms and private rooms with air-con.",
+      "highlights": [
+        "Swimming pool — rare for this price range",
+        "Organized social events and tours",
+        "Quiet location despite being central"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStamps%2520Backpackers%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Nimmanhaemin (Nimman)",
+    "Night Bazaar / Chang Khlan",
+    "Riverside (Wat Ket / Charoen Rat)",
+    "Santitham",
+    "Chang Phuak"
+  ],
+  "paaQuestions": [
+    "Is it best to stay in Old Town, Chiang Mai?",
+    "Which part of Chiang Mai is best to stay in?",
+    "Where did Anthony Bourdain eat in Chiang Mai?",
+    "Where to stay in Old City, Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong spot in Old City (Within the Moat) can mean dodging market crowds on Sundays or walking extra to temples — most first-timers overlook spots near Tha Phae Gate and end up isolated.",
+    "intro": "Old City (Within the Moat) stands out as Chiang Mai's historic core, a compact square bounded by ancient moat walls packed with temples and eateries. We ranked it highest for walkability and temple access, ideal for newcomers seeking authentic immersion without transport hassles.",
+    "vibe": "Historic + walkable",
+    "quickStats": {
+      "priceBand": "€-€€",
+      "walkability": "High",
+      "bestFor": "First-timers & temple lovers",
+      "safetyNote": "Safe, watch bags during Sunday market."
+    },
+    "detailedDescription": "In Old City (Within the Moat), mornings start with locals cycling past weathered temple gates, while backpackers sip coffee at corner cafes overlooking the square's 1.5 km walls. Monks in saffron robes collect alms on side streets lined with family-run noodle shops, and guesthouse owners chat with repeat visitors from Europe and Australia. By afternoon, the area hums with temple tours—groups file into Wat Chedi Luang's cracked stupa or Wat Phra Singh's gilded halls—mixed with freelance guides hawking Doi Suthep trips. Evenings bring a casual pace: street vendors grill satay near Tha Phae Gate, where expats and Thais mingle at open-air bars until 10pm. Noise peaks Sundays with the Walking Street Market, when Ratchadamnoen Road floods with 1,000 stalls selling handicrafts and khao soi, spilling into alleys until midnight. Food leans affordable—think 50 THB plates of som tam at hole-in-the-wall spots or vegetarian buffets near temples. Getting around means strolling flat lanes or hopping songthaews looping the moat for 30 THB; no need for apps inside the square. Retirees and digital nomads linger in quiet sois, but the core stays lively without high-rises, preserving a grounded, temple-centric rhythm.",
+    "localSignals": [
+      "Typical Grab from Chiang Mai International Airport (CNX): 300-500 THB, 15-20 minutes drive.",
+      "Distance to Tha Phae Gate landmark: 0-10 minutes walk from most spots inside moat.",
+      "Noise level at night: moderate, louder on Sunday market evenings until midnight.",
+      "Nearest 7-Eleven: every 200-300 meters, 2-5 minutes walk.",
+      "Songthaew pickup on moat road: flag down for 30 THB to nearby areas."
+    ],
+    "pros": [
+      "Walk to 20+ temples easily",
+      "Sunday market right through center",
+      "Tour pickups from most hotels",
+      "Cheap eats and massages abound",
+      "Compact for first-time navigation"
+    ],
+    "cons": [
+      "Noisy Sundays from market crowds until late",
+      "Limited luxury options inside moat",
+      "Songthaews skip during peak market hours",
+      "Hot and dusty in dry season afternoons",
+      "Fewer nightlife spots than Nimman"
+    ],
+    "skipIf": "Skip if you prefer quiet nights away from weekend market bustle or modern shopping vibes.",
+    "stayRecommendations": [
+      {
+        "name": "Julie Guesthouse",
+        "why": "This backpacker staple sits in the heart of Old City, steps from temples and the Sunday market, with its social restaurant perfect for mingling near Tha Phae Gate."
+      },
+      {
+        "name": "U Chiang Mai",
+        "why": "Positioned on the main Sunday Walking Street route, it offers mid-range rooms with Wat Chedi Luang views, ideal for immersing in the area's temple and market energy."
+      },
+      {
+        "name": "The Inside House",
+        "why": "As the only Old City spot with private pools, this luxury boutique in a restored colonial building provides a serene escape amid the moat's historic walkability and temple proximity."
+      },
+      {
+        "name": "Hive 28",
+        "why": "Its rooftop bar overlooks the Old City temples, making it a budget-friendly base for first-timers to socialize while accessing the walkable moat area and market."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Nimmanhaemin (Nimman)",
+        "shortPitch": "Nimman trades Old City's temples for trendy cafes and boutiques, with higher prices and more nightlife but less walkable history.",
+        "recommendFor": "Trendy shoppers & partygoers"
+      },
+      {
+        "areaName": "Night Bazaar / Chang Khlan",
+        "shortPitch": "Night Bazaar focuses on shopping malls and riverside bars, busier with tourists but farther from temples and more spread out than the compact moat.",
+        "recommendFor": "Shoppers & bar hoppers"
+      },
+      {
+        "areaName": "Riverside (Wat Ket / Charoen Rat)",
+        "shortPitch": "Riverside offers calmer riverside dining and fewer crowds, quieter than Old City's market but requiring songthaews to reach temples.",
+        "recommendFor": "Relaxed foodies & families"
+      }
+    ],
+    "travellerNote": "Travellers often praise the effortless temple hopping and market access but note the weekend noise and occasional soi clutter from vendors.",
+    "faq": [
+      {
+        "q": "Is it best to stay in Old Town, Chiang Mai?",
+        "a": "Yes, for first-timers wanting walkable temples and central pickups, Old City (Within the Moat) tops choices. Opt for spots near Tha Phae Gate to maximize convenience."
+      },
+      {
+        "q": "Which part of Chiang Mai is best to stay in?",
+        "a": "Old City (Within the Moat) suits temple lovers with its budget-mid options and high walkability. Compare to Nimman for trendier vibes if shopping appeals more."
+      },
+      {
+        "q": "Where to stay in Old City, Chiang Mai?",
+        "a": "Budget picks like Julie Guesthouse or Hive 28 offer great value near temples; for mid-range, try U Chiang Mai on the market street. Book early for 2026 high season."
+      },
+      {
+        "q": "Where did Anthony Bourdain eat in Chiang Mai?",
+        "a": "Bourdain highlighted street food like khao soi near the Night Bazaar, but Old City's moat area has similar affordable stalls—try ones off Ratchadamnoen Road for authentic bites."
+      },
+      {
+        "q": "Is Old City safe for solo travelers?",
+        "a": "Generally safe with low crime, but solo travelers should watch bags at the Sunday market. Stick to well-lit paths near temples for peace of mind."
+      },
+      {
+        "q": "How walkable is Old City Chiang Mai?",
+        "a": "Extremely walkable at 9/10, covering 1.5 km square easily on foot to temples and eateries. Use songthaews for moat perimeter if needed."
+      }
+    ],
+    "urgencyLine": "Old City rooms near Tha Phae Gate fill fast for 2026's Sunday markets—secure bookings 2-3 months ahead to snag temple-view spots.",
+    "methodology": "We compared Old City (Within the Moat) to Nimmanhaemin (Nimman) and Night Bazaar / Chang Khlan based on walkability, price level, noise, and suitability for its typical travellers. We weighted walkability highest because first-timers prioritize easy temple access over nightlife. Last updated: 2026-04.",
+    "metaTitle": "Staying in Old City (Within the Moat), Chiang Mai (2026)",
+    "metaDescription": "Discover staying in Old City (Within the Moat), Chiang Mai: walk to temples and Sunday market in this historic square. Budget to mid-range options—see…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:18:39.471Z"
+}

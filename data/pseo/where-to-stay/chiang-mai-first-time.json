@@ -1,0 +1,188 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "audience": "first-time",
+  "neighborhoods": [
+    {
+      "name": "Old City (Within the Moat)",
+      "description": "The historic heart of Chiang Mai, enclosed by 700-year-old moat walls forming a near-perfect square. Dozens of temples, guesthouses, cafes, and restaurants packed into a walkable 1.5 km x 1.5 km area. The Sunday Walking Street Market runs right through it. Most tour pickups originate here.",
+      "bestFor": "First-timers & temple lovers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Walk to Wat Chedi Luang, Wat Phra Singh, and 20+ other temples",
+        "Sunday Walking Street Market passes through the main road",
+        "Most tour operators pick up from Old City hotels",
+        "Abundant cheap restaurants and massage shops",
+        "Tha Phae Gate is the main landmark and social hub"
+      ],
+      "recommendedHotels": [
+        "Julie Guesthouse",
+        "U Chiang Mai",
+        "The Inside House"
+      ],
+      "walkingScore": "9/10",
+      "transportNotes": [
+        "Everything inside the moat is walkable",
+        "Songthaews circle the moat road — flag one down for 30 THB",
+        "Can get noisy on Sunday nights during the market"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Hang Dong",
+      "description": "Hang Dong is a district south of the city center, featuring residential areas and large shopping centers. It includes markets for local crafts and access to rural attractions. Tourists visit for modern amenities and day trips to nearby villages.",
+      "bestFor": "families, shoppers",
+      "priceLevel": "€€",
+      "highlights": [
+        "Central Festival Chiang Mai",
+        "Hang Dong Market",
+        "Baan Tawai Village nearby"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Songthaews from Old City",
+        "Taxis to shopping malls",
+        "Near Chiang Mai International Airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Hang_Dong_district"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where should I stay in Chiang Mai for the first time?",
+    "Where do foreigners stay in Chiang Mai?",
+    "What are some hidden gems in Thailand?",
+    "Which part of Chiang Mai is best?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Chiang Mai neighbourhood as a first time traveller can mean endless commutes and missing the historic core — most travellers regret staying too far from the moat.",
+    "intro": "For first-time travellers, walkability to temples and markets is crucial to build confidence without relying on transport. We ranked areas on accessibility, price, and cultural immersion for newcomers.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Old City (Within the Moat)",
+        "why": "Walkable temples and central vibe"
+      },
+      {
+        "label": "Best value",
+        "name": "Old City (Within the Moat)",
+        "why": "Budget stays near key sights"
+      },
+      {
+        "label": "Best for sightseeing",
+        "name": "Old City (Within the Moat)",
+        "why": "Easy access to historic sites"
+      }
+    ],
+    "urgencyLine": "First-time demand surges in Chiang Mai's Old City during November festivals like Yi Peng — secure rooms 3 months ahead to avoid doubled rates.",
+    "comparisonTable": [
+      {
+        "name": "Old City (Within the Moat)",
+        "bestFor": "First-timers temple lovers",
+        "priceBand": "€-€€",
+        "walkability": "High",
+        "vibe": "traditional touristy",
+        "drawback": "Crowded with tourists"
+      },
+      {
+        "name": "Hang Dong",
+        "bestFor": "Families shoppers",
+        "priceBand": "€€",
+        "walkability": "Low",
+        "vibe": "modern local",
+        "drawback": "Far from center"
+      }
+    ],
+    "decisionGuide": [
+      "If you want walkable temples as a first-timer, choose Old City (Within the Moat).",
+      "If shopping and family space matter more, choose Hang Dong.",
+      "If on a budget near sights, choose Old City (Within the Moat).",
+      "If you need modern amenities over history, choose Hang Dong.",
+      "If avoiding commutes for sightseeing, choose Old City (Within the Moat)."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Old City (Within the Moat)",
+        "why": "This compact historic area packs temples, cafes, and the Sunday Walking Street into a walkable square, outperforming Hang Dong by keeping first-timers immersed without transport hassles.",
+        "drawback": "Peak seasons bring heavy tourist crowds and noise.",
+        "skipIf": "Skip if you seek quiet suburbs away from market bustle.",
+        "localSignals": [
+          "Walking to Sunday Walking Street: 5-10 minutes",
+          "Enclosed by 700-year-old moat walls: central access",
+          "Grab from Chiang Mai Airport: 15-25 minutes"
+        ],
+        "travellerNote": "Travellers often praise the easy cultural access and guesthouse variety but note rising traffic inside the moat."
+      },
+      {
+        "rank": 2,
+        "name": "Hang Dong",
+        "why": "It offers residential calm with shopping centers and craft markets, a solid pick over pricier centers if first-timers plan car rentals for day trips to sights.",
+        "drawback": "Daily transport needed for city exploration adds time and cost.",
+        "skipIf": "Skip if walkability to temples is your priority as a newcomer.",
+        "localSignals": [
+          "South of city center: 10km from moat",
+          "Near local craft markets: short drive",
+          "Grab from Chiang Mai Airport: 25-35 minutes"
+        ],
+        "travellerNote": "Travellers often praise the family-friendly shops and space but note isolation from main tourist action."
+      }
+    ],
+    "topPick": "Old City (Within the Moat)",
+    "topPickReason": "It delivers the most accessible intro to Chiang Mai's temples and markets for first-timers, balancing budget and convenience.",
+    "bookingTips": [
+      "Book 2-3 months ahead for November-December high season when Old City fills with festival-goers.",
+      "From Chiang Mai Airport, use Grab for a 15-25 minute ride to Old City gates to avoid airport taxi overcharges.",
+      "Steer clear of rooms on Ratchadamnoen Road for quieter stays away from evening market noise.",
+      "Beware tuk-tuk touts near Tha Phae Gate pushing overpriced tours.",
+      "Choose mid-range guesthouses with courtyards for a traditional feel without luxury prices.",
+      "Opt for upper floors in rainy July-September to dodge street flooding in low areas."
+    ],
+    "methodology": "We compared Chiang Mai neighbourhoods based on walkability, price level, transport access, and suitability for first time. We weighted walkability highest because newcomers need low-stress exploration of temples and markets. Rankings reflect reference data plus typical first time priorities. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/areas/chiang-mai/old-city-within-the-moat/",
+      "/guides/where-to-stay/chiang-mai/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Chiang Mai'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Old City (Within the Moat)'"
+    ],
+    "faq": [
+      {
+        "q": "Where should I stay in Chiang Mai for the first time?",
+        "a": "Opt for Old City (Within the Moat) to stay central with walkable temples and markets, easing your introduction to the city."
+      },
+      {
+        "q": "Where do foreigners stay in Chiang Mai?",
+        "a": "Foreigners flock to Old City (Within the Moat) for its historic charm and proximity to sights like the Sunday Walking Street."
+      },
+      {
+        "q": "Which part of Chiang Mai is best?",
+        "a": "For first-timers, Old City (Within the Moat) stands out as the best for sightseeing and budget stays near the moat."
+      },
+      {
+        "q": "What are some hidden gems in Thailand?",
+        "a": "In Chiang Mai, explore lesser-visited temples in Old City (Within the Moat) or craft markets in Hang Dong for authentic local vibes."
+      }
+    ],
+    "metaTitle": "Where to Stay in Chiang Mai for First Time (2026)",
+    "metaDescription": "Find top stays in Chiang Mai for first-time travellers in 2026, prioritizing walkable areas like Old City for temple access and ease. Compare…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:31:42.794Z"
+}

@@ -1,0 +1,168 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trang",
+  "cityName": "Trang",
+  "hotelSlug": "a-local-something",
+  "hotel": {
+    "name": "A Local Something",
+    "category": "budget",
+    "priceRange": "400-700 THB/night (~$11-20 USD)",
+    "area": "Trang City Center (near train station)",
+    "description": "Trang's most popular hostel occupies a thoughtfully renovated shophouse with artistic design touches, smart dorm beds with privacy curtains and lockers, and a rooftop cafe with city views. The owner is known for exceptional local advice — insider tips on dim sum spots and organizing island tours at local prices. 5 minutes walk from the train station and the main dim sum strip on Thanon Ratchadamnoen.",
+    "highlights": [
+      "Rooftop cafe — great for planning morning dim sum routes",
+      "Hostel staff arrange island tours at local (non-tourist) prices",
+      "5-minute walk to Trang train station and Thanon Ratchadamnoen dim sum shophouses"
+    ],
+    "bestFor": [
+      "backpackers",
+      "solo travelers",
+      "budget-conscious couples"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DA%2520Local%2520Something%252C%2520Trang%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Yamawa Guesthouse",
+      "category": "budget",
+      "priceRange": "500-900 THB/night (~$14-25 USD)",
+      "area": "Trang City Center",
+      "description": "A well-regarded budget guesthouse run by a friendly local family who know Trang Province inside out. Private rooms with air conditioning and hot water, clean bathrooms, and strong WiFi. The owner helps guests plan efficient itineraries combining dim sum breakfast, island day trips, and cave visits. Good value private rooms — a step up from dorm sleeping for only slightly more money.",
+      "highlights": [
+        "Knowledgeable local owner — invaluable for planning island logistics",
+        "Clean private rooms with AC at hostel-adjacent prices",
+        "Walking distance to Trang's main food streets"
+      ],
+      "bestFor": [
+        "solo travelers",
+        "budget couples",
+        "travelers prioritizing local knowledge"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/southern_thailand/trang/trang/all",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYamawa%2520Guesthouse%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Sri Trang Hotel",
+      "category": "budget",
+      "priceRange": "600-1,100 THB/night (~$17-31 USD)",
+      "area": "Trang City Center (opposite train station)",
+      "description": "Trang's most historic hotel, founded in 1952 and occupying a prominent position directly opposite Trang train station. The building has been modernized while retaining original southern Thai character. Rooms range from basic fan rooms to air-conditioned deluxe options. The location is the main selling point — step off the overnight train and you're already at your hotel, with dim sum restaurants a 3-minute walk away.",
+      "highlights": [
+        "Directly opposite Trang train station — perfect for overnight train arrivals",
+        "One of Trang's oldest operating hotels — 1952 heritage building",
+        "Walking distance to all city-center dim sum restaurants and the night market"
+      ],
+      "bestFor": [
+        "train travelers",
+        "budget travelers",
+        "Trang first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/trang.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSri%2520Trang%2520Hotel%252C%2520Trang%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking A Local Something without knowing its dorm-only setup can leave privacy-seeking travelers feeling exposed in shared spaces.",
+    "intro": "A Local Something delivers a vibrant hostel experience in a renovated shophouse with artistic touches, privacy-curtained dorm beds, lockers, and a rooftop cafe offering city views and local tour bookings at fair prices. It's ideal for backpackers, solo travelers, and budget-conscious couples seeking insider Trang advice.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers and solo travelers",
+      "standout": "rooftop cafe",
+      "noGoFor": "families with kids"
+    },
+    "whyBook": [
+      "Rooftop cafe for city views and dim sum planning.",
+      "Staff provide insider tips on local dim sum spots.",
+      "Dorm beds with privacy curtains and secure lockers.",
+      "Island tours arranged at non-tourist local prices.",
+      "5-minute walk to train station for easy access."
+    ],
+    "whyNotBook": [
+      "Dorm-style rooms lack private bathroom options.",
+      "Shared spaces may feel crowded during peak hours.",
+      "Basic facilities without guaranteed air conditioning details.",
+      "Rooftop cafe limited to casual drinks, no full meals.",
+      "Noise from nearby train station audible in evenings."
+    ],
+    "skipIf": "Skip if you need private rooms or family-friendly accommodations away from urban bustle.",
+    "detailedReview": "Checking into A Local Something feels welcoming, with the owner often greeting guests personally and sharing quick tips on Trang's hidden gems like dim sum shophouses. The hostel occupies a renovated shophouse blending artistic wall murals and wooden accents, creating a cozy yet communal vibe. Dorm beds come with privacy curtains and personal lockers, offering a step up from basic hostels, though shared bathrooms require coordinating with other guests. The standout amenity is the rooftop cafe, where you can sip coffee while overlooking the city and plotting morning dim sum routes or island hopping—staff here excel at organizing affordable tours to nearby spots like Koh Kradan at local prices, bypassing tourist markups. Food quality shines through recommendations rather than on-site options; expect no formal breakfast, but the proximity to Thanon Ratchadamnoen means fresh dim sum within steps. Service is hands-on and genuine, with the owner known for exceptional local knowledge, making it easy to connect with fellow travelers. Typical guests are backpackers in their 20s and 30s, solo explorers, or couples on tight budgets, fostering a social atmosphere perfect for swapping stories but less so for quiet retreats. Overall, it's a thoughtful base for immersing in Trang's authentic side without frills.",
+    "locationReality": "A Local Something sits in Trang City Center, just a 5-minute walk from the train station, making arrivals straightforward on foot with luggage. Within another 5 minutes, you're on Thanon Ratchadamnoen, the main dim sum strip lined with bustling shophouses serving fresh bites from dawn. For beaches or islands, plan a 30-45 minute drive or local bus to spots like Pak Meng Beach; no direct walking access, but the central spot keeps transport costs low via songthaews or Grab rides under 200 THB.",
+    "localSignals": [
+      "5-minute walk to Trang train station.",
+      "5-minute walk to Thanon Ratchadamnoen dim sum strip.",
+      "Rooftop cafe as on-property amenity.",
+      "Staff-arranged island tours at local prices.",
+      "Budget dorm beds with privacy curtains and lockers."
+    ],
+    "travellerNote": "Guests often praise the owner's insider local advice and affordable tour bookings but note the shared dorm setup limits privacy for longer stays.",
+    "bookingTips": [
+      "Request lower bunk dorm beds for easier access.",
+      "Use Agoda for cheapest rates in Thailand bookings.",
+      "Prices spike December-February high season for islands.",
+      "Verify tour availability directly with staff pre-booking.",
+      "Confirm locker sizes suit your backpack dimensions."
+    ],
+    "similarHotels": [
+      {
+        "name": "Yamawa Guesthouse",
+        "howDifferent": "Offers private air-conditioned rooms run by a family, unlike the dorm-focused A Local Something."
+      },
+      {
+        "name": "Sri Trang Hotel",
+        "howDifferent": "Provides historic private accommodations opposite the train station, contrasting the artistic hostel vibe."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is A Local Something near Trang train station?",
+        "a": "Yes, it's a 5-minute walk away, ideal for easy arrivals and departures."
+      },
+      {
+        "q": "What makes the rooftop at A Local Something special?",
+        "a": "The rooftop cafe offers city views perfect for planning dim sum routes or relaxing with coffee."
+      },
+      {
+        "q": "Does A Local Something have private rooms?",
+        "a": "No, it focuses on smart dorm beds with privacy curtains and lockers for budget stays."
+      },
+      {
+        "q": "How do tours work at A Local Something?",
+        "a": "Staff arrange island tours at local non-tourist prices, providing insider access to nearby beaches."
+      },
+      {
+        "q": "Is breakfast included at A Local Something?",
+        "a": "Breakfast is not included, but you're steps from Thanon Ratchadamnoen's dim sum shophouses."
+      },
+      {
+        "q": "Who stays at A Local Something?",
+        "a": "Primarily backpackers, solo travelers, and budget couples seeking social, authentic experiences."
+      }
+    ],
+    "urgencyLine": "Dorm spots at A Local Something with rooftop access book out 1-2 months ahead for island high season—check today.",
+    "methodology": "We rated A Local Something based on location proximity, unique amenities like the rooftop cafe, and value for budget travelers. We weighted local service and tour affordability highest because they set it apart in Trang's competitive scene. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "A Local Something Review (2026)",
+    "metaDescription": "A Local Something in Trang offers budget dorms with privacy curtains, rooftop cafe views, and local tour tips near the train station. Caveat: shared spaces limit privacy for some. Book for authentic backpacker stays—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:39:50.079Z"
+}

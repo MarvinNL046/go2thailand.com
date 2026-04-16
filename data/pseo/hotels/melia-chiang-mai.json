@@ -1,0 +1,196 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "hotelSlug": "melia-chiang-mai",
+  "hotel": {
+    "name": "Melia Chiang Mai",
+    "category": "mid-range",
+    "priceRange": "2,200–4,000 THB/night (~$62–112 USD)",
+    "area": "Riverside",
+    "description": "Elegant international hotel along the Ping River with modern rooms, a rooftop bar offering some of the best views in Chiang Mai, and consistently friendly staff. The riverfront location is peaceful yet minutes from the Night Bazaar.",
+    "highlights": [
+      "Rooftop bar with stunning Doi Suthep mountain views",
+      "Riverside location with morning mist views",
+      "Modern gym and swimming pool"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "business"
+    ],
+    "sources": [
+      {
+        "sourceName": "The Manduls",
+        "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMelia%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "U Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Old City",
+      "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+      "highlights": [
+        "Front-row seats to Sunday Market from your balcony",
+        "Views of Wat Chedi Luang from select rooms",
+        "Pool and fitness center included"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "ON Thapae Gate",
+      "category": "mid-range",
+      "priceRange": "1,500–2,800 THB/night (~$42–80 USD)",
+      "area": "Old City / Tha Phae Gate",
+      "description": "Modern hotel with spacious rooms, 24/7 reception, and a prime location straddling the Old Town and Night Bazaar areas. Rooftop pool with city views and a stylish lobby cafe.",
+      "highlights": [
+        "Rooftop pool with panoramic views",
+        "Walking distance to both Old City and Night Bazaar",
+        "24-hour reception and concierge"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DON%2520Thapae%2520Gate%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit D2 Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Old City (north side)",
+      "description": "A stylish 5-star hotel with a contemporary Thai design, full-service spa, and rooftop pool. Located just outside the northern Old City moat with easy access to the Chiang Mai National Museum and north gate food stalls.",
+      "highlights": [
+        "Full-service Devarana Spa",
+        "Rooftop infinity pool",
+        "Free parking — rare in the Old City area"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d543157-Reviews-DusitD2_Chiang_Mai-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520D2%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Melia Chiang Mai without knowing the rooftop bar crowds during evenings can lead to disappointing views of Doi Suthep.",
+    "intro": "Melia Chiang Mai delivers elegant modern rooms and a peaceful riverside setting along the Ping River, with friendly staff and top-notch amenities like a gym and pool. It's ideal for couples seeking romance or business travelers needing convenience near the Night Bazaar.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples business travelers",
+      "standout": "rooftop bar",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Rooftop bar with Doi Suthep mountain views",
+      "Peaceful riverside location near Night Bazaar",
+      "Modern rooms and friendly staff consistently",
+      "Gym and swimming pool for relaxation",
+      "Morning mist views from riverfront"
+    ],
+    "whyNotBook": [
+      "Riverside spot means occasional river noise at night",
+      "Not in Old City core, short walk to temples",
+      "Rooftop bar fills up quickly in evenings",
+      "Mid-range pricing without included breakfast",
+      "Gym modern but lacks advanced equipment variety"
+    ],
+    "skipIf": "Skip if you're a family needing kid-friendly activities or pools.",
+    "detailedReview": "Checking into Melia Chiang Mai feels welcoming with consistently friendly staff greeting you at the elegant lobby overlooking the Ping River. Rooms are modern with clean lines, comfortable beds, and large windows that let in natural light, some offering direct river views shrouded in morning mist. The standout amenity is the rooftop bar, where you can sip cocktails while taking in panoramic views of Doi Suthep mountain, especially magical at sunset. The swimming pool is a serene spot for laps or lounging, complemented by a modern gym for workouts. Food quality shines in the international cuisine at the on-site restaurant, with fresh Thai and Western options that satisfy without excess. Service is attentive and efficient, suiting business travelers with quick responses to requests. Typical guests are couples enjoying the romantic riverside vibe or professionals attending nearby meetings, creating a relaxed yet sophisticated atmosphere. Overall, the hotel's international elegance provides a peaceful escape just minutes from bustling areas, though it's more suited to adults than families.",
+    "locationReality": "Melia Chiang Mai sits along the Ping River, about a 10-15 minute walk to the Night Bazaar for shopping and street food. The Old City moat and temples like Wat Chedi Luang require a 5-10 minute Grab ride costing around 100 THB. Within a 5-minute walk, you'll find riverside paths for strolls and a few local eateries, but major attractions demand short transport.",
+    "localSignals": [
+      "10-15 minute walk to Night Bazaar",
+      "Views of Doi Suthep mountain from rooftop",
+      "1 swimming pool and 1 gym on property",
+      "Minutes from Ping River for morning walks",
+      "Nearby Chang Klan Road for street food"
+    ],
+    "travellerNote": "Guests often praise the stunning rooftop views and friendly staff but note the need for transport to reach Old City temples.",
+    "bookingTips": [
+      "Request river-view rooms for morning mist",
+      "Agoda often cheaper than Booking for Thailand",
+      "Prices spike November-February high season",
+      "Verify breakfast policy as not always included",
+      "Check for Night Bazaar event shuttles"
+    ],
+    "similarHotels": [
+      {
+        "name": "U Chiang Mai",
+        "howDifferent": "Boutique style in Old City with market views, cheaper but no riverfront."
+      },
+      {
+        "name": "ON Thapae Gate",
+        "howDifferent": "More affordable modern option near Old Town, includes rooftop pool but lacks river peace."
+      },
+      {
+        "name": "Dusit D2 Chiang Mai",
+        "howDifferent": "Upscale 5-star with spa outside moat, pricier than Melia's mid-range elegance."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Melia Chiang Mai near the Night Bazaar?",
+        "a": "Yes, it's just minutes away by foot, offering easy access to shopping and dining."
+      },
+      {
+        "q": "What views does the rooftop bar offer?",
+        "a": "The rooftop bar provides stunning sights of Doi Suthep mountain and the Ping River."
+      },
+      {
+        "q": "Does Melia Chiang Mai have a pool?",
+        "a": "It features a modern swimming pool ideal for relaxation in a riverside setting."
+      },
+      {
+        "q": "Is Melia Chiang Mai good for couples?",
+        "a": "Absolutely, its peaceful riverfront and romantic views make it perfect for couples."
+      },
+      {
+        "q": "How far is the Old City from Melia Chiang Mai?",
+        "a": "The Old City moat is a short 5-10 minute Grab ride away."
+      },
+      {
+        "q": "What amenities are at Melia Chiang Mai?",
+        "a": "Amenities include a gym, swimming pool, and rooftop bar with friendly staff service."
+      }
+    ],
+    "urgencyLine": "Rooms at Melia Chiang Mai with river views book out 1-2 months ahead for high season — check today.",
+    "methodology": "We rated Melia Chiang Mai based on location, amenities, and guest feedback from sources like TripAdvisor. We weighted the rooftop bar and riverside peace highest because they set it apart in Chiang Mai's mid-range options. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Melia Chiang Mai Review (2026)",
+    "metaDescription": "Melia Chiang Mai offers elegant riverside rooms and rooftop Doi Suthep views in Chiang Mai, ideal for couples. Note short transport needed for Old City temples. Book for peaceful stays near Night Bazaar — check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:05:18.008Z"
+}

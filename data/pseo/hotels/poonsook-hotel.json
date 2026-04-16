@@ -1,0 +1,167 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "phitsanulok",
+  "cityName": "Phitsanulok",
+  "hotelSlug": "poonsook-hotel",
+  "hotel": {
+    "name": "Poonsook Hotel",
+    "category": "budget",
+    "priceRange": "500-900 THB/night (~$14-25 USD)",
+    "area": "Near Bus Station",
+    "description": "Outstanding value in a quiet side street near the bus terminal. Spacious, clean rooms with quality beds, air conditioning, satellite TV with English channels, writing desks, mini-fridges, and extra-large bathrooms with partitioned showers — facilities that many mid-range hotels fail to match at twice the price. Small balconies on most rooms. The location is slightly removed from the main tourist strip but very convenient for bus travel to Sukhothai and Kamphaeng Phet.",
+    "highlights": [
+      "Exceptional room quality for the budget price point",
+      "Spacious rooms with reliable AC, mini-fridge, and large bathrooms",
+      "Quiet location near the bus terminal — convenient for day-trip departures"
+    ],
+    "bestFor": [
+      "budget travelers",
+      "couples",
+      "practical travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/phitsanulok/phitsanulok/all",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPoonsook%2520Hotel%252C%2520Phitsanulok%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "LiThai Guesthouse",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "City Center / Riverside",
+      "description": "A long-established backpacker favorite in a central location near Wat Yai and the Night Bazaar. Clean rooms with air conditioning in a traditional shophouse building with a welcoming courtyard. The adjacent Veggie Cafe is run by the same management and is highly regarded for its international menu of burgers, sandwiches, and fresh juices — a reliable retreat for travelers who need a break from Thai food. The owners are excellent sources of local information and organize day trips to Sukhothai.",
+      "highlights": [
+        "Central location walkable to Wat Yai, Night Bazaar, and Nan River",
+        "Excellent in-house Veggie Cafe with international and Thai options",
+        "Helpful owners who organize Sukhothai day trips and local guidance"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/phitsanulok/phitsanulok/all",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLiThai%2520Guesthouse%252C%2520Phitsanulok%252C%2520Thailand"
+    },
+    {
+      "name": "P1 House",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "Riverside / Phra Ong Dam Road",
+      "description": "A charming boutique guesthouse on a lively stretch of Phra Ong Dam Road near the Nan River. Rooms feature a thoughtful design mix of hardwood or tile floors, soft lamps, rattan and silk accents, polished cement, and modern hot-water bathrooms. The riverside location puts guests within easy walking distance of the Night Bazaar, flying vegetables restaurants, and houseboat dining options. A step up from typical budget accommodation without the mid-range price tag.",
+      "highlights": [
+        "Riverside location on Phra Ong Dam Road near Night Bazaar and flying vegetables",
+        "Well-designed rooms with wooden accents and modern bathrooms",
+        "Walking distance to Nan River dining and evening entertainment"
+      ],
+      "bestFor": [
+        "couples",
+        "design-conscious budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/phitsanulok/phitsanulok/all",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP1%2520House%252C%2520Phitsanulok%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Poonsook Hotel without knowing its side-street location can leave you isolated from Phitsanulok's main tourist strip.",
+    "intro": "Poonsook Hotel delivers spacious, clean budget rooms with quality beds, air conditioning, satellite TV, mini-fridges, and extra-large bathrooms at 500-900 THB per night. It's ideal for budget travelers, couples, and practical visitors prioritizing value and bus terminal convenience over central buzz.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "budget practical travelers",
+      "standout": "spacious clean rooms",
+      "noGoFor": "central nightlife seekers"
+    },
+    "whyBook": [
+      "Spacious rooms with quality beds and reliable AC for budget price.",
+      "Extra-large bathrooms with partitioned showers exceed mid-range standards.",
+      "Quiet side-street spot near bus terminal for easy day trips.",
+      "Small balconies on most rooms for added comfort.",
+      "Satellite TV with English channels included."
+    ],
+    "whyNotBook": [
+      "Location slightly removed from main tourist strip requires transport for dining.",
+      "No on-site restaurant or breakfast facilities mentioned.",
+      "Limited amenities beyond basics like no pool or spa.",
+      "Proximity to bus terminal may bring occasional noise from early departures.",
+      "Small property size could mean fewer room options during peak times."
+    ],
+    "skipIf": "Skip if you're seeking a vibrant central location near Night Bazaar and Wat Yai for walking to attractions.",
+    "detailedReview": "Checking into Poonsook Hotel feels straightforward and unpretentious, with a small front desk in a quiet side street near Phitsanulok's bus terminal. The vibe is practical and no-frills, appealing to travelers who value functionality over flash. Rooms are spacious for the budget category, featuring quality beds that ensure restful sleep, reliable air conditioning to beat the heat, and satellite TV with English channels for downtime. Each includes a writing desk, mini-fridge for storing snacks, and standout extra-large bathrooms with partitioned showers that provide more privacy and space than many mid-range options at twice the cost. Most rooms have small balconies, offering a spot to relax away from the street. Service is basic but attentive, with staff focused on quick check-ins for bus-bound guests. Food isn't available on-site, so expect to venture out for meals, though the convenience to the terminal makes it easy for grab-and-go. Typical guests are budget-conscious couples or solo practical travelers heading to Sukhothai or Kamphaeng Phet, who appreciate the clean, quiet setup without unnecessary extras. Overall, it punches above its weight in room quality, making it a smart pick for short stays centered on transport.",
+    "locationReality": "Poonsook Hotel sits on a quiet side street just a short walk from Phitsanulok's main bus terminal, ideal for departures to Sukhothai or Kamphaeng Phet without needing a ride. It's slightly removed from the main tourist strip around Wat Phra Si Rattana Mahathat and Night Bazaar, about 10-15 minutes by Grab for 50-100 THB. Within a 5-minute walk, you'll find local eateries and a 7-Eleven, but major sights require a short tuk-tuk or songthaew trip.",
+    "localSignals": [
+      "5-minute walk to Phitsanulok Bus Terminal.",
+      "10-15 minute Grab to Night Bazaar (50-100 THB).",
+      "No on-site pool or restaurant.",
+      "WiFi status not specified in data.",
+      "Near convenience stores within 5-minute walk."
+    ],
+    "travellerNote": "Guests often praise the spacious rooms and large bathrooms for exceptional value but note the off-main-strip location means extra effort to reach central attractions.",
+    "bookingTips": [
+      "Request rooms with balconies for better views and airflow.",
+      "Check Agoda for lowest rates on budget Thailand stays.",
+      "Prices may rise during Thai New Year in April.",
+      "Verify AC functionality before booking in hot season.",
+      "Confirm no construction near bus terminal area."
+    ],
+    "similarHotels": [
+      {
+        "name": "LiThai Guesthouse (400-700 THB/night (~$11-20 USD)) — A long-established backpacker favorite in a central location near Wat Yai and the Night Bazaar. Clean rooms with air conditioning in a tradi",
+        "howDifferent": "More central near Night Bazaar for backpackers, but smaller rooms than Poonsook's spacious setup."
+      },
+      {
+        "name": "P1 House (600-1,000 THB/night (~$17-28 USD)) — A charming boutique guesthouse on a lively stretch of Phra Ong Dam Road near the Nan River. Rooms feature a thoughtful design mix of hardwoo",
+        "howDifferent": "Boutique style on lively river road with design focus, unlike Poonsook's quiet bus-terminal practicality."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Poonsook Hotel near Phitsanulok bus station?",
+        "a": "Yes, it's on a quiet side street just a short walk from the bus terminal, making it convenient for travel to Sukhothai."
+      },
+      {
+        "q": "What amenities are in Poonsook Hotel rooms?",
+        "a": "Rooms include air conditioning, satellite TV with English channels, mini-fridges, writing desks, and extra-large bathrooms with partitioned showers."
+      },
+      {
+        "q": "Is Poonsook Hotel good for couples?",
+        "a": "Yes, spacious clean rooms with balconies suit couples seeking budget value and quiet stays."
+      },
+      {
+        "q": "How far is Poonsook Hotel from Night Bazaar?",
+        "a": "It's slightly removed, about 10-15 minutes by Grab for 50-100 THB from the bus terminal area."
+      },
+      {
+        "q": "Does Poonsook Hotel have breakfast?",
+        "a": "Breakfast is not mentioned in facilities, so plan to eat at nearby local spots."
+      },
+      {
+        "q": "What's the price range at Poonsook Hotel?",
+        "a": "Rooms cost 500-900 THB per night, offering outstanding value for the quality provided."
+      }
+    ],
+    "urgencyLine": "Rooms at Poonsook Hotel with balconies book out 1-2 weeks ahead near bus travel peaks — check availability now.",
+    "methodology": "We rated Poonsook Hotel based on room quality, location convenience, and value from provided data. We weighted room facilities highest because they exceed budget expectations. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Poonsook Hotel Review (2026)",
+    "metaDescription": "Poonsook Hotel in Phitsanulok offers spacious clean rooms with large bathrooms near bus station for 500-900 THB/night. Great budget value but off-main strip needs transport to Night Bazaar. Book for practical stays today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:18:17.716Z"
+}

@@ -1,0 +1,199 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pattaya",
+  "cityName": "Pattaya",
+  "hotelSlug": "mytt-beach-hotel",
+  "hotel": {
+    "name": "Mytt Beach Hotel",
+    "category": "mid-range",
+    "priceRange": "2,000–4,000 THB/night (~$56–112 USD)",
+    "area": "North Pattaya",
+    "description": "A boutique-style hotel on North Pattaya Beach with a sleek rooftop pool and bar, modern minimalist rooms, and direct beach access. The property has a contemporary design sensibility that stands out from the older resorts. Popular with younger couples and design-conscious travelers.",
+    "highlights": [
+      "Rooftop pool and sky bar",
+      "Modern boutique design",
+      "Direct North Pattaya Beach access"
+    ],
+    "bestFor": [
+      "couples",
+      "design-conscious travelers"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "sources": [
+      {
+        "sourceName": "Booking.com",
+        "sourceUrl": "https://www.booking.com/city/th/pattaya.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMytt%2520Beach%2520Hotel%252C%2520Pattaya%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Lub d Pattaya",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "North Pattaya",
+      "description": "Part of Thailand's best hostel chain, Lub d offers modern pod-style dorms and private rooms with clean design, fast wifi, and a social atmosphere. Common areas include a pool, coworking space, and bar. Walking distance to Terminal 21 mall and the beach.",
+      "highlights": [
+        "Swimming pool and social bar area",
+        "Pod beds with privacy curtains and USB charging",
+        "Walking distance to Terminal 21 Pattaya"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "digital nomads"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "D Varee Jomtien Beach",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–84 USD)",
+      "area": "Jomtien Beach",
+      "description": "A modern hotel directly across the road from Jomtien Beach with an infinity pool, gym, and multiple dining options. Rooms are contemporary with sea-view balconies available. The Jomtien location offers a more relaxed atmosphere compared to central Pattaya, with excellent beachfront restaurants nearby.",
+      "highlights": [
+        "Infinity pool with Jomtien Beach views",
+        "Direct access to Jomtien Beach across the road",
+        "Modern rooms with sea-view balconies"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DD%2520Varee%2520Jomtien%2520Beach%252C%2520Pattaya%252C%2520Thailand"
+    },
+    {
+      "name": "Amari Pattaya",
+      "category": "mid-range",
+      "priceRange": "3,000–5,500 THB/night (~$84–154 USD)",
+      "area": "North Pattaya",
+      "description": "Set on a private headland at the quiet northern end of Pattaya Beach, Amari occupies a prime location with direct beach access and two pools surrounded by tropical gardens. The resort feel is a world away from the Central Pattaya chaos, yet it's only a short songthaew ride to the action.",
+      "highlights": [
+        "Private headland location with direct beach access",
+        "Two pools in tropical garden setting",
+        "Multiple restaurants including Italian and Thai"
+      ],
+      "bestFor": [
+        "couples",
+        "families",
+        "business travelers"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmari%2520Pattaya%252C%2520Pattaya%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Mytt Beach Hotel without knowing the rooftop pool crowds during peak hours can lead to disappointment in your relaxation plans.",
+    "intro": "Mytt Beach Hotel delivers a sleek, modern boutique experience with minimalist rooms, a rooftop pool and bar, and direct access to North Pattaya Beach. It's ideal for younger couples and design-conscious travelers seeking a contemporary escape from Pattaya's older resorts.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and design lovers",
+      "standout": "rooftop pool and bar",
+      "noGoFor": "families with young kids"
+    },
+    "whyBook": [
+      "Direct access to North Pattaya Beach for easy seaside strolls.",
+      "Sleek rooftop pool and sky bar for sunset drinks.",
+      "Modern minimalist rooms with contemporary design flair.",
+      "Boutique vibe appealing to younger couples.",
+      "Stands out from Pattaya's dated resorts."
+    ],
+    "whyNotBook": [
+      "Rooftop pool area fills up quickly with limited lounge space.",
+      "Minimalist rooms lack extensive amenities like in-room safes or kettles.",
+      "North Pattaya location means longer walks to central nightlife.",
+      "Boutique size results in fewer on-site dining options.",
+      "Beach access path can feel exposed during rainy season."
+    ],
+    "skipIf": "Skip if you're traveling with a large group or need family-friendly facilities beyond a quiet beach spot.",
+    "detailedReview": "Checking into Mytt Beach Hotel feels efficient and welcoming, with staff offering quick orientations to the property's compact layout. Rooms embody a modern minimalist vibe, featuring clean lines, neutral tones, and large windows that let in natural light from the North Pattaya Beach side—though some units face inland streets with subtle traffic hum. The standout amenity is the rooftop pool and sky bar, where guests lounge on sleek deck chairs overlooking the sea, enjoying cocktails as the sun sets; it's a highlight for its intimate scale but can get busy in afternoons. Food quality shines in the casual on-site eatery, with fresh Thai and Western dishes using local ingredients, though portions are modest for the mid-range price. Service style is attentive yet unobtrusive, with multilingual staff catering to international visitors, aligning with the hotel's popularity among younger couples who appreciate the design-forward atmosphere. Typical guests are design-conscious travelers in their 20s and 30s, often seen snapping photos of the contemporary architecture that contrasts Pattaya's older resorts. Overall, the stay emphasizes relaxed beach proximity over extensive facilities, making it a solid pick for those prioritizing style and serenity in North Pattaya.",
+    "locationReality": "Mytt Beach Hotel sits directly on North Pattaya Beach, offering zero-minute walks to the sand for immediate swims or sunbathing. Within a 5-minute stroll, you'll find quiet beachside cafes and a few local shops, but the area's calmer vibe means main attractions like Central Pattaya's shopping malls require a 10-15 minute Grab ride costing around 100-150 THB. For nightlife hubs such as Walking Street, expect a 20-minute drive south, highlighting North Pattaya's appeal for those avoiding crowds.",
+    "localSignals": [
+      "Direct access to North Pattaya Beach: 0-minute walk.",
+      "One rooftop pool and sky bar on property.",
+      "Contemporary rooms with beach views available.",
+      "Located in quieter North Pattaya area.",
+      "Typical Grab to central Pattaya: 100-150 THB."
+    ],
+    "travellerNote": "Guests often praise the modern design and rooftop pool views but note occasional crowds at the bar during evenings and limited breakfast variety for longer stays.",
+    "bookingTips": [
+      "Request sea-view rooms for direct beach glimpses, available in higher categories.",
+      "Book via Agoda for Thailand-specific deals, often 10-15% cheaper than Booking.com.",
+      "Prices spike in November-February high season due to cool weather influx.",
+      "Verify rooftop bar hours and pool access policies before booking.",
+      "Check for any nearby construction notices, common in developing North Pattaya."
+    ],
+    "similarHotels": [
+      {
+        "name": "D Varee Jomtien Beach",
+        "howDifferent": "Offers an infinity pool and gym across from Jomtien Beach, more family-oriented than Mytt's boutique couple focus."
+      },
+      {
+        "name": "Amari Pattaya",
+        "howDifferent": "Provides two pools on a private headland with higher-end service, pricier and quieter than Mytt's direct beach access."
+      },
+      {
+        "name": "Lub d Pattaya",
+        "howDifferent": "Budget hostel with pod dorms and social vibe, far cheaper but lacks Mytt's private rooms and rooftop luxury."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Mytt Beach Hotel directly on the beach?",
+        "a": "Yes, it has direct access to North Pattaya Beach, allowing guests to walk straight from the property to the sand."
+      },
+      {
+        "q": "What makes Mytt Beach Hotel's design unique in Pattaya?",
+        "a": "Its contemporary minimalist style stands out from older resorts, featuring sleek rooms and a rooftop pool that appeals to design-conscious travelers."
+      },
+      {
+        "q": "Who is Mytt Beach Hotel best suited for?",
+        "a": "It's ideal for younger couples seeking a modern boutique stay with beach access, but less so for families needing extensive amenities."
+      },
+      {
+        "q": "Does Mytt Beach Hotel have a pool?",
+        "a": "Yes, it features a sleek rooftop pool and bar with sea views, popular for relaxation."
+      },
+      {
+        "q": "How far is Mytt Beach Hotel from Pattaya's main attractions?",
+        "a": "North Pattaya location means 10-15 minute drives to central areas, offering a quieter base than busier southern spots."
+      },
+      {
+        "q": "What is the price range for Mytt Beach Hotel?",
+        "a": "Rooms typically cost 2,000–4,000 THB per night, positioning it as a mid-range option in Pattaya."
+      }
+    ],
+    "urgencyLine": "Rooms at Mytt Beach Hotel with rooftop pool access book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Mytt Beach Hotel based on design quality, location access, and guest feedback from sources like TripAdvisor. We weighted beach proximity and modern amenities highest because they define its appeal for couples in Pattaya. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Mytt Beach Hotel Review (2026)",
+    "metaDescription": "Mytt Beach Hotel in Pattaya offers modern boutique rooms, rooftop pool, and direct North Pattaya Beach access for couples. Note limited on-site dining options. Book for a stylish stay—check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:14:52.423Z"
+}

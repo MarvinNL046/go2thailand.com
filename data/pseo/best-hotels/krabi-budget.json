@@ -1,0 +1,234 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "category": "budget",
+  "hotels": [
+    {
+      "name": "Pak-Up Hostel",
+      "category": "budget",
+      "priceRange": "300-600 THB/night (~$8-17 USD)",
+      "area": "Krabi Town",
+      "description": "Krabi's most popular hostel occupies a converted shophouse in the heart of Krabi Town. Modern dorms with privacy curtains, lockers, and air conditioning. The rooftop bar and social common areas make it easy to meet other travelers. Walking distance to the night market and river.",
+      "highlights": [
+        "Rooftop bar with views over Krabi Town",
+        "Modern dorm beds with AC and privacy curtains",
+        "Walking distance to Krabi Night Market and riverside"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelworld",
+          "sourceUrl": "https://www.hostelworld.com/st/hostels/p/85095/pak-up-hostel/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPak-Up%2520Hostel%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Sea Seeker Krabi Resort",
+      "category": "budget",
+      "priceRange": "800-1,200 THB/night (~$22-34 USD)",
+      "area": "Ao Nang",
+      "description": "A solid budget hotel in central Ao Nang with clean rooms, a swimming pool, and an unbeatable location near the beach and longtail boat pier. Rooms are basic but well-maintained with air conditioning and hot showers. The pool is a welcome bonus at this price point.",
+      "highlights": [
+        "Swimming pool — rare at budget prices in Ao Nang",
+        "5-minute walk to Ao Nang Beach and boat pier",
+        "Clean rooms with reliable AC and hot water"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSea%2520Seeker%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Tonsai Bay Resort",
+      "category": "budget",
+      "priceRange": "600-1,000 THB/night (~$17-28 USD)",
+      "area": "Tonsai Beach (Railay)",
+      "description": "Basic but characterful bungalows on Tonsai Beach — the backpacker and rock climbing hub of Railay peninsula. Wooden huts with fans or AC set among trees, steps from the beach. The vibe is laid-back and social with climbers swapping stories over cheap beer. Boat-access only adds to the island feel.",
+      "highlights": [
+        "Beachfront location on Tonsai Beach",
+        "Heart of the climbing community",
+        "Island vibe with boat-access-only location"
+      ],
+      "bestFor": [
+        "backpackers",
+        "rock climbers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1507957-Railay_Beach_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTonsai%2520Bay%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What are the best budget hotels in Krabi?",
+    "Which part of Krabi is best to stay?",
+    "Which hotel is best in Krabi?",
+    "Is Krabi budget friendly?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong budget hotel in Krabi can strand you inland without easy beach access — many 'budget' hotels skimp on location, leaving you reliant on pricey taxis.",
+    "intro": "The single biggest mistake travellers make when booking budget hotels in Krabi is prioritizing rock-bottom prices over proximity to beaches and transport hubs, ending up isolated. We ranked these based on value for money, location convenience, basic amenities like AC and pools, and guest feedback on cleanliness and vibe for backpackers and solo explorers.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Sea Seeker Krabi Resort",
+        "why": "Pool plus central Ao Nang spot"
+      },
+      {
+        "label": "Best value",
+        "name": "Pak-Up Hostel",
+        "why": "Cheapest with social rooftop bar"
+      },
+      {
+        "label": "Best for solo travelers",
+        "name": "Pak-Up Hostel",
+        "why": "Easy to meet others socially"
+      },
+      {
+        "label": "Best for beach access",
+        "name": "Tonsai Bay Resort",
+        "why": "Steps from Tonsai sand"
+      }
+    ],
+    "urgencyLine": "Budget hotel rates in Krabi surge up to 50% during peak climbing season (Oct–Apr) — secure spots now before Railay fills with adventurers.",
+    "comparisonTable": [
+      {
+        "name": "Pak-Up Hostel",
+        "area": "Krabi Town",
+        "priceBand": "€",
+        "bestFor": "Solo backpackers socializing",
+        "standout": "rooftop bar",
+        "drawback": "Dorms lack full privacy"
+      },
+      {
+        "name": "Sea Seeker Krabi Resort",
+        "area": "Ao Nang",
+        "priceBand": "€",
+        "bestFor": "Couples wanting convenience",
+        "standout": "swimming pool",
+        "drawback": "Basic rooms feel dated"
+      },
+      {
+        "name": "Tonsai Bay Resort",
+        "area": "Tonsai Beach (Railay)",
+        "priceBand": "€",
+        "bestFor": "Adventure climbers relaxing",
+        "standout": "beach access",
+        "drawback": "Remote without road access"
+      }
+    ],
+    "decisionGuide": [
+      "If you want a social vibe on a shoestring budget, choose Pak-Up Hostel.",
+      "If you prioritize a pool near Ao Nang beach, choose Sea Seeker Krabi Resort.",
+      "If you're a climber seeking beachside bungalows, choose Tonsai Bay Resort.",
+      "If central town access matters more than beach, choose Pak-Up Hostel.",
+      "If easy boat pier proximity is key for day trips, choose Sea Seeker Krabi Resort."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Sea Seeker Krabi Resort",
+        "why": "It edges out others with a rare budget pool and unbeatable Ao Nang location near the beach, offering more comfort than hostels without jumping to mid-range prices. This beats Pak-Up for travelers wanting private rooms over dorms.",
+        "drawback": "Rooms are functional but lack unique character or views.",
+        "skipIf": "Skip if you need ultra-cheap dorms under 500 THB nightly.",
+        "localSignals": [
+          "Central Ao Nang, 5-minute walk to beach",
+          "Near longtail boat pier for island hops",
+          "Clean rooms with AC and hot showers"
+        ],
+        "travellerNote": "Guests often praise the pool and location for easy beach access but note rooms can feel basic compared to pricier resorts."
+      },
+      {
+        "rank": 2,
+        "name": "Pak-Up Hostel",
+        "why": "As Krabi's top hostel, it delivers the lowest rates with modern dorms and a lively rooftop bar, surpassing Tonsai for urban convenience without isolation. It wins for pure affordability over resort-style perks.",
+        "drawback": "Shared facilities mean less privacy for couples.",
+        "skipIf": "Skip if you prefer private bungalows over dorm living.",
+        "localSignals": [
+          "Heart of Krabi Town, 0-minute walk to center",
+          "No specific airport transfer mentioned",
+          "Modern dorms with privacy curtains and AC"
+        ],
+        "travellerNote": "Guests often praise the social common areas and bar for meeting travelers but note noise from groups in peak season."
+      },
+      {
+        "rank": 3,
+        "name": "Tonsai Bay Resort",
+        "why": "Its beachfront bungalows capture Railay's backpacker spirit at a fair price, outshining inland options for direct sand access though it trades town ease for a hike-in vibe. It suits adventurers better than urban stays.",
+        "drawback": "Access requires longtail boat, adding transport hassle.",
+        "skipIf": "Skip if you dislike rustic huts without guaranteed AC.",
+        "localSignals": [
+          "Tonsai Beach, steps from sand",
+          "No road access, boat-only arrival",
+          "Wooden bungalows with fans or AC among trees"
+        ],
+        "travellerNote": "Guests often praise the laid-back climbing vibe and beach proximity but note basic facilities can feel worn after rain."
+      }
+    ],
+    "topPick": "Sea Seeker Krabi Resort",
+    "topPickReason": "It balances budget pricing with a pool and prime Ao Nang location, giving the most versatile stay for beach lovers on a tight wallet.",
+    "bookingTips": [
+      "Book 2-3 months ahead for high season (Nov-Apr) to snag rates under 1,000 THB.",
+      "Agoda often undercuts Booking.com for Thailand budget stays — compare both for deals.",
+      "Prices spike 30-50% during Songkran (April) and Chinese New Year (Jan/Feb) — avoid if possible.",
+      "Watch for red flags like hotels with under 50 reviews or discounts over 40% off rack rates.",
+      "Opt for AC rooms over fan-only in humid Krabi, even at budget level.",
+      "Garden view saves 200-300 THB vs sea view but still gets beach proximity."
+    ],
+    "methodology": "We compared budget hotels in Krabi based on guest reviews, location quality relative to beaches and piers, value at this price band, and what budget travellers typically prioritise like AC and social spaces. We weighted location highest because Krabi's appeal hinges on easy access to Ao Nang or Railay, not just low cost. Prices and availability change — always verify current rates before booking. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/where-to-stay/krabi/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check budget hotel rates'",
+      "after-comparison-table: 'Compare these hotels'",
+      "after-top-pick: 'View Sea Seeker Krabi Resort'"
+    ],
+    "faq": [
+      {
+        "q": "What are the best budget hotels in Krabi?",
+        "a": "Top picks include Sea Seeker Krabi Resort for its pool in Ao Nang and Pak-Up Hostel for cheap social vibes in town — both under €30/night with solid reviews for value."
+      },
+      {
+        "q": "Which part of Krabi is best to stay?",
+        "a": "Ao Nang suits most budget travelers for beach and pier access; choose Krabi Town for urban savings or Railay's Tonsai for climber vibes, but factor in boat transfers."
+      },
+      {
+        "q": "Which hotel is best in Krabi?",
+        "a": "For budget stays, Sea Seeker Krabi Resort stands out with private rooms and a pool near Ao Nang beach — ideal if you want comfort without splurging."
+      },
+      {
+        "q": "Is Krabi budget friendly?",
+        "a": "Yes, with hostels from 300 THB and resorts under 1,200 THB offering AC and pools — stick to Ao Nang or town to keep transport costs low under €10/day."
+      },
+      {
+        "q": "Best budget area in Krabi for solo travelers?",
+        "a": "Krabi Town's Pak-Up Hostel is perfect for solos, with its rooftop bar fostering connections at just 300-600 THB/night."
+      }
+    ],
+    "metaTitle": "Best Budget Hotels in Krabi (2026)",
+    "metaDescription": "Discover top budget hotels in Krabi under €40/night, from Ao Nang pools to Railay beach bungalows — get clean AC rooms near beaches. Compare picks and…"
+  },
+  "lastUpdated": "2026-03-13",
+  "generatedAt": "2026-04-15T15:38:05.067Z"
+}

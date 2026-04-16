@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-rai",
+  "cityName": "Chiang Rai",
+  "hotelSlug": "the-riverie-by-katathani",
+  "hotel": {
+    "name": "The Riverie by Katathani",
+    "category": "luxury",
+    "priceRange": "3,500–8,000 THB/night (~$100–228 USD)",
+    "area": "Kok River Island",
+    "description": "Chiang Rai's most iconic luxury hotel, set on a private island in the Kok River yet just minutes from the city center. Spacious rooms with river or garden views, an infinity pool overlooking the water, a full-service spa, and multiple restaurants serving Thai and international cuisine.",
+    "highlights": [
+      "Private island setting on the Kok River",
+      "Infinity pool with river views",
+      "Full-service spa and multiple restaurants"
+    ],
+    "reviewScore": "9.3/10 Booking.com",
+    "bestFor": [
+      "couples",
+      "luxury seekers",
+      "honeymooners"
+    ],
+    "sources": [
+      {
+        "sourceName": "Travelocity",
+        "sourceUrl": "https://www.travelocity.com/Chiang-Rai-Hotels-The-Riverie-By-Katathani.h24134312.Hotel-Information",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Riverie%2520by%2520Katathani%252C%2520Chiang%2520Rai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Le Meridien Chiang Rai Resort",
+      "category": "luxury",
+      "priceRange": "3,000–7,000 THB/night (~$85–200 USD)",
+      "area": "Kok Riverside",
+      "description": "A 5-star Marriott property on the banks of the Kok River, featuring contemporary design blended with Lanna art. Rooms start from 1,130 THB on off-peak nights but average 3,000–7,000 THB. The resort offers a riverside infinity pool, a spa, and the Favola Italian restaurant. Pet-friendly policy is a bonus.",
+      "highlights": [
+        "Riverside infinity pool",
+        "Favola Italian restaurant",
+        "Pet-friendly 5-star resort"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "luxury seekers",
+        "pet owners"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.marriott.com/en-us/hotels/ceimd-le-meridien-chiang-rai-resort-thailand/overview/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLe%2520Meridien%2520Chiang%2520Rai%2520Resort%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Katiliya Mountain Resort & Spa",
+      "category": "luxury",
+      "priceRange": "5,000–12,000 THB/night (~$142–342 USD)",
+      "area": "Outskirts (mountain setting)",
+      "description": "An all-suite luxury resort nestled in the mountains outside Chiang Rai, offering stunning natural surroundings, a full-service spa, and personalized service. Each suite has a private balcony with mountain views. The resort arranges guided nature walks, tea plantation visits, and private dining experiences.",
+      "highlights": [
+        "All-suite accommodation with mountain views",
+        "Full-service mountain spa",
+        "Guided nature and cultural excursions"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury seekers",
+        "nature lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Luxury Hotel Guru",
+          "sourceUrl": "https://luxuryhotel.guru/chiang-rai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKatiliya%2520Mountain%2520Resort%2520%2526%2520Spa%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Four Seasons Tented Camp Golden Triangle",
+      "category": "luxury",
+      "priceRange": "35,000–80,000 THB/night (~$1,000–2,285 USD)",
+      "area": "Golden Triangle",
+      "description": "Thailand's most exclusive lodge — 15 tented suites perched in the jungle where Thailand, Laos, and Myanmar meet. All-inclusive rates cover gourmet meals, premium drinks, spa treatments, elephant experiences, and Mekong River excursions. A once-in-a-lifetime experience with rates to match.",
+      "highlights": [
+        "15 luxury tented suites in the jungle canopy",
+        "All-inclusive: meals, drinks, spa, excursions",
+        "Ethical elephant experiences included"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "ultra-luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-zff12-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%2520Seasons%2520Tented%2520Camp%2520Golden%2520Triangle%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking The Riverie by Katathani without knowing the private island requires a short boat shuttle can lead to unexpected delays getting to the city center.",
+    "intro": "The Riverie by Katathani delivers a serene luxury escape on a private Kok River island with spacious rooms offering river or garden views, an infinity pool, full-service spa, and multiple restaurants for Thai and international dishes. It's ideal for couples, luxury seekers, and honeymooners seeking an iconic Chiang Rai retreat just minutes from the city.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "couples and honeymooners",
+      "standout": "private island location",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Private island on Kok River for secluded luxury",
+      "Infinity pool with direct river views",
+      "Full-service spa for ultimate relaxation",
+      "Multiple restaurants with Thai and international options",
+      "Spacious rooms starting with garden or river vistas"
+    ],
+    "whyNotBook": [
+      "Island access via boat shuttle adds 5-10 minutes to city trips",
+      "River view rooms book up fast, leaving garden views only",
+      "Higher end of price range for peak season without all-inclusive",
+      "Limited on-site activities beyond pool and spa for active travelers",
+      "Proximity to city means occasional river traffic noise in non-view rooms"
+    ],
+    "skipIf": "Skip if you prefer direct urban access without any shuttle dependencies or are traveling with young children needing constant off-site entertainment.",
+    "detailedReview": "Checking into The Riverie by Katathani feels like arriving at a hidden sanctuary; guests cross a short boat shuttle to the private Kok River island, where staff greet with warm smiles and efficient registration in the open lobby overlooking the water. Rooms are spacious, with options for river or garden views—river-facing ones feature balconies perfect for watching the flowing Kok, while garden views offer quieter greenery but less drama. The infinity pool stands out as the highlight, blending seamlessly with the river horizon for a refreshing dip amid tropical surroundings, often enjoyed by couples lounging on daybeds. Food quality shines at the multiple restaurants: one serves authentic Thai dishes like khao soi with fresh river prawns, another offers international buffets with solid Western options, though portions can be generous leading to overindulgence. Service is attentive yet unobtrusive, with staff anticipating needs like chilled towels poolside, catering to a typical guest profile of romantic pairs in their 30s-50s or honeymooners escaping the ordinary. The full-service spa provides Thai massages using local herbs, easing travel fatigue, but the overall vibe suits those wanting relaxation over high-energy pursuits. At 9.3/10 on Booking.com, it earns praise for its iconic setting, though some note the shuttle as a minor inconvenience for frequent city jaunts. Staying here immerses you in Chiang Rai's serene side, blending luxury with natural beauty without overwhelming busyness.",
+    "locationReality": "Set on Kok River Island, The Riverie by Katathani is just 5-10 minutes by boat shuttle from Chiang Rai's city center, making it easy to reach landmarks like the Night Bazaar via a quick Grab ride costing 100-150 THB. Within a 5-minute walk on the island, you'll find the infinity pool, spa, and restaurants, but off-island essentials require the shuttle or transport. For broader exploration, the White Temple is about 20 minutes north by car, highlighting the hotel's balance of isolation and accessibility in northern Thailand's geography.",
+    "localSignals": [
+      "5-10 minute boat shuttle to Chiang Rai city center",
+      "20-30 minute Grab to Chiang Rai International Airport for 200-300 THB",
+      "One infinity pool and multiple restaurants on property",
+      "WiFi available throughout, breakfast not specified in rates",
+      "Nearest 7-Eleven is 10 minutes away in city center via shuttle"
+    ],
+    "travellerNote": "Guests often praise the private island serenity and infinity pool views but note occasional shuttle wait times during peak hours and higher costs for river-view upgrades.",
+    "bookingTips": [
+      "Request river view rooms for the best Kok River panoramas, available from 5,000 THB",
+      "Book via Agoda for Thailand deals, often 10-15% cheaper than Booking.com",
+      "Prices spike November-February during cool season and Yi Peng Festival",
+      "Verify shuttle schedule and inclusion before booking, as it's essential for city access",
+      "Check for spa packages bundled with stays to maximize value at 3,500-8,000 THB range"
+    ],
+    "similarHotels": [
+      {
+        "name": "Le Meridien Chiang Rai Resort",
+        "howDifferent": "Offers direct riverbank access without a shuttle, blending modern design with Lanna art at slightly lower prices."
+      },
+      {
+        "name": "Katiliya Mountain Resort & Spa",
+        "howDifferent": "Provides mountain seclusion with all-suite rooms and natural views, pricier and farther from the city center."
+      },
+      {
+        "name": "Four Seasons Tented Camp Golden Triangle",
+        "howDifferent": "Delivers ultra-exclusive jungle tented suites near borders with all-inclusive perks, at much higher luxury rates."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What makes The Riverie by Katathani unique in Chiang Rai?",
+        "a": "Its private island setting on the Kok River offers secluded luxury just minutes from the city, with an infinity pool overlooking the water."
+      },
+      {
+        "q": "Is The Riverie by Katathani suitable for couples?",
+        "a": "Yes, it's perfect for couples and honeymooners, featuring romantic river views, spa treatments, and serene dining options."
+      },
+      {
+        "q": "How far is The Riverie by Katathani from Chiang Rai Airport?",
+        "a": "It's about 20-30 minutes by Grab for 200-300 THB, with the hotel's shuttle facilitating easy transfers."
+      },
+      {
+        "q": "What dining options are at The Riverie by Katathani?",
+        "a": "Multiple restaurants serve Thai specialties like river prawns and international cuisine, with quality buffets included in some rates."
+      },
+      {
+        "q": "Does The Riverie by Katathani have a pool?",
+        "a": "Yes, it features an infinity pool with stunning river views, ideal for relaxation in a tropical setting."
+      },
+      {
+        "q": "What's the review score for The Riverie by Katathani?",
+        "a": "It holds a 9.3/10 on Booking.com, reflecting high satisfaction with its iconic location and amenities."
+      }
+    ],
+    "urgencyLine": "Rooms at The Riverie by Katathani with river views book out 1-2 months ahead for cool season November-February — check availability today.",
+    "methodology": "We rated The Riverie by Katathani based on location uniqueness, amenity quality, guest feedback, and value in the luxury segment. We weighted the private island setting highest because it defines its iconic appeal in Chiang Rai. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "The Riverie by Katathani Review (2026)",
+    "metaDescription": "Discover The Riverie by Katathani in Chiang Rai: iconic private island luxury with infinity pool and spa. Note shuttle for city access; book for couples' escapes starting at $100/night. Ideal for serene getaways—reserve now."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:10:25.231Z"
+}

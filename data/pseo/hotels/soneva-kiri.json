@@ -1,0 +1,203 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trat",
+  "cityName": "Trat",
+  "hotelSlug": "soneva-kiri",
+  "hotel": {
+    "name": "Soneva Kiri",
+    "category": "luxury",
+    "priceRange": "35,000-120,000 THB/night (~$980-3,360 USD)",
+    "area": "Koh Kood",
+    "description": "One of Thailand's most exclusive luxury resorts, set on a private beach on Koh Kood. Pool villas with private beaches, a chocolate room, ice cream parlor, observatory, and the famous Treepod Dining experience — eating in a bamboo pod hoisted into the treetops with food delivered by zipline. The ultimate splurge in the Trat archipelago. Reached by private charter flight from Bangkok.",
+    "highlights": [
+      "Treepod Dining — eat in a bamboo pod served by zipline-riding waiters",
+      "Private beach pool villas on pristine Koh Kood",
+      "Private charter flight from Bangkok included"
+    ],
+    "reviewScore": "9.4/10 Booking.com",
+    "bestFor": [
+      "luxury travelers",
+      "honeymooners",
+      "special occasions"
+    ],
+    "sources": [
+      {
+        "sourceName": "Soneva",
+        "sourceUrl": "https://soneva.com/soneva-kiri/",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSoneva%2520Kiri%252C%2520Trat%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "KC Grande Resort & Spa",
+      "category": "luxury",
+      "priceRange": "4,350-9,980 THB/night (~$122-280 USD)",
+      "area": "White Sand Beach, Koh Chang",
+      "description": "The most popular 5-star resort on Koh Chang, featuring five swimming pools, a private beach section on White Sand Beach, full-service spa, and multiple restaurants. Accommodation ranges from standard deluxe rooms to premium seaside villas. The resort straddles both sides of the road with a modern tower block and beachfront villas. Rated 8.8/10 from over 4,000 reviews.",
+      "highlights": [
+        "Five swimming pools including beachfront infinity pool",
+        "Direct access to White Sand Beach with sun loungers",
+        "Full-service spa, fitness center, and multiple dining options"
+      ],
+      "reviewScore": "8.8/10 Booking.com (4,398 reviews)",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "luxury travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/accommodation/white-sand-beach",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKC%2520Grande%2520Resort%2520%2526%2520Spa%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Santhiya Tree Koh Chang Resort",
+      "category": "luxury",
+      "priceRange": "3,500-12,000 THB/night (~$98-336 USD)",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "A refined 76-room resort on Klong Prao Beach, Koh Chang's longest and most peaceful beach. Thai-style architecture with teakwood villas set in tropical gardens leading to the beach. Known for exceptional service (9.2/10 from 2,700+ reviews), excellent restaurant, and a romantic atmosphere. The quieter Klong Prao location feels more exclusive than busy White Sand Beach.",
+      "highlights": [
+        "Klong Prao Beach — the longest, most peaceful beach on Koh Chang",
+        "Teakwood villas with Thai architectural details",
+        "Consistently top-rated for service (9.2/10 average)"
+      ],
+      "reviewScore": "9.2/10 Booking.com (2,743 reviews)",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/santhiya.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSanthiya%2520Tree%2520Koh%2520Chang%2520Resort%252C%2520Trat%252C%2520Thailand"
+    },
+    {
+      "name": "Hideout Koh Kood",
+      "category": "mid-range",
+      "priceRange": "2,500-6,500 THB/night (~$70-182 USD)",
+      "area": "Koh Kood",
+      "description": "A comfortable mid-range resort on Koh Kood with modern bungalows set among tropical gardens near the beach. One of the better-value options on the island with air-conditioned rooms, restaurant, and organized snorkeling and kayaking trips. The island's quiet, unspoiled atmosphere makes even a mid-range property feel exclusive.",
+      "highlights": [
+        "Comfortable bungalows on Thailand's most unspoiled large island",
+        "On-site restaurant and organized water activities",
+        "Peaceful atmosphere far from Koh Chang crowds"
+      ],
+      "bestFor": [
+        "couples",
+        "nature lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "I Am Koh Chang",
+          "sourceUrl": "https://iamkohchang.com/guide/koh-kood-island.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHideout%2520Koh%2520Kood%252C%2520Trat%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Is Soneva Kiri closing down?",
+    "What is the new name for Soneva Kiri?",
+    "What is Kiri Private Reserve about?",
+    "Is Soneva Kiri all inclusive?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Soneva Kiri without knowing the private charter flight requirement can lead to unexpected travel logistics and added stress.",
+    "intro": "Soneva Kiri delivers ultra-exclusive pool villas with private beaches, unique experiences like Treepod Dining via zipline, and amenities including a chocolate room and observatory on Koh Kood's pristine shores. It's ideal for luxury travelers, honeymooners, and those seeking special occasions in remote seclusion.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "luxury honeymooners",
+      "standout": "Treepod Dining",
+      "noGoFor": "budget explorers"
+    },
+    "whyBook": [
+      "Experience Treepod Dining in a zipline-served bamboo pod",
+      "Stay in pool villas with direct private beach access",
+      "Enjoy included private charter flight from Bangkok",
+      "Indulge in on-site chocolate room and observatory",
+      "Unwind on Koh Kood's untouched Trat archipelago beaches"
+    ],
+    "whyNotBook": [
+      "Remote Koh Kood location restricts easy access to mainland Trat attractions",
+      "Private charter flight dependency complicates flexible travel itineraries",
+      "High nightly rates exclude many add-on experiences like observatory visits",
+      "Limited off-resort dining options due to island isolation",
+      "Villas may feel overly secluded for guests wanting nearby social scenes"
+    ],
+    "skipIf": "Skip if you're traveling on a budget or prefer vibrant island nightlife over total seclusion.",
+    "detailedReview": "Checking into Soneva Kiri feels like entering a private paradise, with barefoot staff greeting you on the wooden pathways leading to your pool villa, often after a scenic private charter flight from Bangkok. The room vibe is intimate and eco-luxurious, with spacious villas featuring plunge pools steps from your private beach stretch on Koh Kood's white sands, blending natural teak furnishings with modern comforts like outdoor showers amid tropical foliage. Standout amenities shine through the Treepod Dining, where waiters zipline meals to your elevated bamboo pod in the treetops, offering fresh seafood and Thai fusion with ocean views. Food quality is exceptional, from the dedicated chocolate room crafting bespoke treats to the ice cream parlor's artisanal scoops, all sourced sustainably. Service style is anticipatory and personalized, with 'barefoot guardians' handling everything from villa setup to stargazing at the observatory, ensuring a seamless escape. Typical guests are affluent couples on honeymoons or families celebrating milestones, drawn to the resort's no-news-no-shoes policy that fosters deep relaxation amid the Trat archipelago's quiet luxury. While the exclusivity thrills, the remote setting means days revolve around on-site activities, perfect for unplugging but less so for spontaneous adventures.",
+    "locationReality": "Soneva Kiri sits on a private beachfront along Koh Kood's northeastern coast in Trat province, with zero walking distance to its own pristine sands but requiring a 45-60 minute speedboat from the mainland pier for any off-island trips. The resort's isolation enhances seclusion, yet the nearest village or basic shops are a 20-30 minute drive away via resort shuttle. No public transport like BTS exists here; access hinges on the included private charter flight from Bangkok to the on-island airstrip.",
+    "localSignals": [
+      "Private beach access: 0 minutes walk from villas",
+      "Reached via included private charter flight from Bangkok",
+      "On-property amenities include pool villas, Treepod Dining, chocolate room, ice cream parlor, observatory",
+      "WiFi availability varies by villa; generally strong in common areas",
+      "No nearby 7-Eleven; nearest basic stores 20-30 minutes by resort transport"
+    ],
+    "travellerNote": "Guests often praise the unparalleled privacy and innovative Treepod Dining but note the high isolation limits external exploration and the steep costs for extras like spa treatments.",
+    "bookingTips": [
+      "Request a private beach pool villa for direct sand access",
+      "Check Agoda for potentially lower rates than Booking.com in Thailand",
+      "Prices spike December to February during high season and holidays",
+      "Verify private charter flight inclusion and schedule before booking",
+      "Confirm no ongoing construction via resort site for quiet stays"
+    ],
+    "similarHotels": [
+      {
+        "name": "KC Grande Resort & Spa (4,350-9,980 THB/night (~$122-280 USD)) — The most popular 5-star resort on Koh Chang, featuring five swimming pools, a private beach section on White Sand Beach, full-service spa, a",
+        "howDifferent": "More affordable on bustling Koh Chang with multiple pools, unlike Soneva Kiri's secluded Koh Kood exclusivity."
+      },
+      {
+        "name": "Santhiya Tree Koh Chang Resort (3,500-12,000 THB/night (~$98-336 USD)) — A refined 76-room resort on Klong Prao Beach, Koh Chang's longest and most peaceful beach. Thai-style architecture with teakwood villas set",
+        "howDifferent": "Offers peaceful beach vibes on Koh Chang at lower prices, contrasting Soneva Kiri's ultra-luxury remote pod dining."
+      },
+      {
+        "name": "Hideout Koh Kood (2,500-6,500 THB/night (~$70-182 USD)) — A comfortable mid-range resort on Koh Kood with modern bungalows set among tropical gardens near the beach. One of the better-value options",
+        "howDifferent": "Provides budget-friendly bungalows on the same island, missing Soneva Kiri's private charters and treetop experiences."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Soneva Kiri closing down?",
+        "a": "No, Soneva Kiri remains open and operational as one of Thailand's top luxury resorts on Koh Kood."
+      },
+      {
+        "q": "What is the new name for Soneva Kiri?",
+        "a": "Soneva Kiri retains its name; no rebranding has been announced in recent updates."
+      },
+      {
+        "q": "What is Kiri Private Reserve about?",
+        "a": "Kiri Private Reserve refers to exclusive villa rentals within Soneva Kiri, offering enhanced privacy and tailored services for high-end guests."
+      },
+      {
+        "q": "Is Soneva Kiri all inclusive?",
+        "a": "No, Soneva Kiri operates on a room-only basis; meals and experiences like Treepod Dining are additional charges."
+      },
+      {
+        "q": "How do I get to Soneva Kiri?",
+        "a": "Arrive via the included private charter flight from Bangkok to Koh Kood's airstrip, followed by a short resort transfer."
+      },
+      {
+        "q": "What activities are available at Soneva Kiri?",
+        "a": "Key activities include Treepod Dining, observatory stargazing, chocolate-making sessions, and beach relaxation in private villas."
+      }
+    ],
+    "urgencyLine": "Villas with private beach access at Soneva Kiri book out 1-2 months ahead for December-February high season — check availability today.",
+    "methodology": "We rated Soneva Kiri based on its Booking.com score, highlight features like Treepod Dining, and price positioning for luxury seekers. We weighted exclusivity and unique amenities highest because they define its splurge appeal in Trat. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Soneva Kiri Review (2026)",
+    "metaDescription": "Soneva Kiri in Koh Kood, Trat: exclusive pool villas, Treepod Dining by zipline, private beach. Remote access via charter flight adds travel planning. Ideal for luxury escapes—book your stay now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:44:34.884Z"
+}

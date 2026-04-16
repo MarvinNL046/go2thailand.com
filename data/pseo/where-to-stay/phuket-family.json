@@ -1,0 +1,231 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "audience": "family",
+  "neighborhoods": [
+    {
+      "name": "Kata Beach",
+      "description": "A beautiful crescent-shaped beach 15 minutes south of Patong with a more relaxed village atmosphere. Excellent for families with calm swimming waters (Nov–Apr), good restaurants, and easy access to surf schools during monsoon season. Kata Noi at the southern end is even quieter.",
+      "bestFor": "Families & couples",
+      "priceLevel": "Mid-Range",
+      "highlights": [
+        "One of Phuket's best swimming beaches (Nov–Apr)",
+        "Surf schools during monsoon season (Jun–Sep)",
+        "Family-friendly restaurants and night market",
+        "Karon Viewpoint nearby for three-beach panorama",
+        "Quieter than Patong but with enough restaurants and shops"
+      ],
+      "recommendedHotels": [
+        "Kata Beach Resort & Spa"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "15 minutes south of Patong by Grab (150–200 THB)",
+        "Smart Bus stop on the main road",
+        "Walkable within Kata village but scooter needed for exploring wider island"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travel Food Expert",
+          "sourceUrl": "https://travelfoodexpert.com/where-to-stay-in-phuket-for-the-first-time/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Kamala Beach",
+      "description": "Kamala Beach is a 2 km stretch of sand on Phuket's west coast, located between Patong and Surin beaches. The area includes residential zones and small hotels along the main road parallel to the beach. It has a 2004 tsunami memorial park commemorating the event.",
+      "bestFor": "families, couples",
+      "priceLevel": "€€",
+      "highlights": [
+        "Kamala Beach",
+        "Tsunami Memorial Park",
+        "Laem Singh Viewpoint",
+        "Phuket FantaSea"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews connect to Patong and Surin",
+        "Taxi from Phuket Airport takes about 40 minutes"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Kamala,_Phuket"
+        }
+      ]
+    },
+    {
+      "name": "Mai Khao Beach",
+      "description": "Mai Khao Beach is Phuket's longest continuous beach at 11 km, running parallel to the airport runway on the northwest coast. It is part of Sirinat National Park and serves as a nesting site for green sea turtles from November to March. The area has large resort developments along the shore.",
+      "bestFor": "families, couples",
+      "priceLevel": "€€€",
+      "highlights": [
+        "Mai Khao Beach",
+        "Sirinat National Park",
+        "Mai Khao Marine Turtle Foundation",
+        "Splash Jungle Water Park"
+      ],
+      "walkingScore": "Low",
+      "transportNotes": [
+        "Adjacent to Phuket International Airport runway",
+        "Songthaews from Nai Yang or airport transfers"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Mai_Khao_Beach"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Which area in Phuket is best for families?",
+    "Where to stay in Phuket for family with kids?",
+    "Which side of Phuket is best to stay on?",
+    "Where is best to stay in Phuket for first timers?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Phuket neighbourhood as a family traveller can lead to crowded, noisy spots unsuitable for kids — most travellers overlook calmer beaches and end up in party-heavy Patong.",
+    "intro": "For families, the top priority in Phuket is safe, calm beaches with easy access to kid-friendly activities like swimming and nature spots. We ranked areas based on family suitability, including water safety, residential vibes, and value for money.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Kata Beach",
+        "why": "Calm waters ideal for kids"
+      },
+      {
+        "label": "Best value",
+        "name": "Kamala Beach",
+        "why": "Mid-range with family focus"
+      },
+      {
+        "label": "Best for young kids",
+        "name": "Mai Khao Beach",
+        "why": "Turtle nesting nature spot"
+      }
+    ],
+    "urgencyLine": "Phuket's family-friendly beaches book up fast during November-April turtle season and school holidays — secure spots in Kata or Kamala 3-4 months ahead to avoid high prices.",
+    "comparisonTable": [
+      {
+        "name": "Kata Beach",
+        "bestFor": "Families with calm swimming",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "laid-back, touristy",
+        "drawback": "15 min from Patong"
+      },
+      {
+        "name": "Kamala Beach",
+        "bestFor": "Relaxed family residential",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "quiet, local",
+        "drawback": "Limited evening options"
+      },
+      {
+        "name": "Mai Khao Beach",
+        "bestFor": "Nature-loving families",
+        "priceBand": "€€€",
+        "walkability": "Low",
+        "vibe": "quiet, laid-back",
+        "drawback": "Remote from main areas"
+      }
+    ],
+    "decisionGuide": [
+      "If you prioritize calm swimming for kids, choose Kata Beach.",
+      "If you seek mid-range residential vibes, choose Kamala Beach.",
+      "If nature and turtle spotting appeal, choose Mai Khao Beach.",
+      "If on a tight budget with family needs, avoid Mai Khao Beach and choose Kamala Beach.",
+      "If first-time with young children, choose Kata Beach for easy access."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Kata Beach",
+        "why": "Kata Beach tops for families due to its relaxed village atmosphere and calm waters perfect for swimming from November to April, outperforming Kamala's residential feel by offering better on-site kid activities like surf schools. It balances accessibility without Mai Khao's remoteness.",
+        "drawback": "It can feel slightly touristy during peak family seasons.",
+        "skipIf": "Skip if you want total seclusion away from any village bustle.",
+        "localSignals": [
+          "15 minutes south of Patong Beach",
+          "Parallel to calm swimming waters Nov-Apr",
+          "Easy access to surf schools along beach road"
+        ],
+        "travellerNote": "Travellers often praise the family-safe beach and restaurants but note occasional peak-season crowds."
+      },
+      {
+        "rank": 2,
+        "name": "Kamala Beach",
+        "why": "Kamala Beach suits families with its quiet 2 km stretch of sand and small hotels in residential zones, providing better value than Kata's mid-range without Mai Khao's high-end prices or isolation.",
+        "drawback": "Evening entertainment is more limited compared to southern beaches.",
+        "skipIf": "Skip if you need high walkability to multiple attractions.",
+        "localSignals": [
+          "Between Patong and Surin beaches",
+          "Main road parallel to 2 km sand",
+          "Residential zones with small hotels"
+        ],
+        "travellerNote": "Travellers often praise the peaceful family atmosphere but note reliance on short taxi rides for variety."
+      },
+      {
+        "rank": 3,
+        "name": "Mai Khao Beach",
+        "why": "Mai Khao Beach excels for eco-focused families with its 11 km national park beach and turtle nesting from November, though it trades Kata's convenience for quieter nature over Kamala's mid-range accessibility.",
+        "drawback": "Transport is needed for most non-beach activities.",
+        "skipIf": "Skip if your family prefers village amenities over remote park vibes.",
+        "localSignals": [
+          "11 km parallel to airport runway",
+          "Part of Sirinat National Park",
+          "Nesting site for green sea turtles Nov"
+        ],
+        "travellerNote": "Travellers often praise the serene turtle spotting but note the area's remoteness from Phuket's main hubs."
+      }
+    ],
+    "topPick": "Kata Beach",
+    "topPickReason": "Kata Beach stands out for families with its calm, swimmable waters and relaxed vibe, directly addressing kid safety over the more remote or residential alternatives.",
+    "bookingTips": [
+      "Book 3-4 months ahead for November-April to catch calm seas without price surges in family areas like Kata.",
+      "From Phuket Airport, take a 45-60 minute Grab taxi to Kata Beach for about 800-1000 THB, avoiding overpriced airport taxis.",
+      "Avoid booking near Patong's southern edges to dodge spillover noise into family zones.",
+      "Steer clear of rainy May-October for Mai Khao turtle spots, as access can be tricky.",
+      "Opt for beachfront rooms in Kamala for kids' easy sand play, but check for tsunami history awareness in older builds.",
+      "Choose family suites with pools in mid-range Kata hotels to keep little ones entertained on non-beach days."
+    ],
+    "methodology": "We compared Phuket neighbourhoods based on family suitability, walkability, price level, and access to calm beaches or nature. We weighted water safety and kid activities highest because families prioritize safe play over nightlife or luxury. Rankings reflect reference data on these areas plus typical family priorities like residential calm. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/areas/phuket/kata-beach/",
+      "/guides/where-to-stay/phuket/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Phuket'",
+      "after-comparison-table: 'See hotels in these areas'",
+      "after-top-pick: 'View hotels in Kata Beach'"
+    ],
+    "faq": [
+      {
+        "q": "Which area in Phuket is best for families?",
+        "a": "Kata Beach is best for families, offering calm swimming waters and a relaxed village atmosphere ideal for kids. It edges out others for easy access to family activities."
+      },
+      {
+        "q": "Where to stay in Phuket for family with kids?",
+        "a": "Stay in Kata Beach or Kamala Beach for safe beaches and residential vibes suited to children. Avoid remote spots like Mai Khao if mobility is a concern."
+      },
+      {
+        "q": "Which side of Phuket is best to stay on?",
+        "a": "The west coast, particularly Kata Beach, is best for families seeking calm sands over the east's busier ports. It provides better kid-friendly relaxation."
+      },
+      {
+        "q": "Where is best to stay in Phuket for first timers?",
+        "a": "For first-time family travellers, choose Kata Beach for its balanced access to beaches and restaurants without overwhelming crowds. It's a gentle introduction to Phuket's family side."
+      }
+    ],
+    "metaTitle": "Where to Stay in Phuket for Families (2026)",
+    "metaDescription": "Discover top Phuket areas for family travellers like Kata Beach with calm waters and kid activities. Compare safe, relaxed neighbourhoods for your 2026…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T15:34:06.737Z"
+}

@@ -1,0 +1,195 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "hotelSlug": "julie-guesthouse",
+  "hotel": {
+    "name": "Julie Guesthouse",
+    "category": "budget",
+    "priceRange": "350–700 THB/night (~$10–20 USD)",
+    "area": "Old City",
+    "description": "A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant that doubles as a social hub. The location near Tha Phae Gate is unbeatable for market access.",
+    "highlights": [
+      "Steps from Tha Phae Gate and Sunday Market",
+      "Both fan and air-con rooms available",
+      "Reliable WiFi and airport pickup service"
+    ],
+    "reviewScore": "3.5/5 TripAdvisor",
+    "bestFor": [
+      "backpackers",
+      "solo travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d613049-Reviews-Julie_Guest_House-Chiang_Mai.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJulie%2520Guesthouse%252C%2520Chiang%2520Mai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Hive 28",
+      "category": "budget",
+      "priceRange": "280–500 THB/night (~$8–14 USD)",
+      "area": "Old City",
+      "description": "A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains, personal reading lights, and USB charging. Great common areas for meeting other travelers.",
+      "highlights": [
+        "Rooftop bar with temple views",
+        "Pod-style dorm beds with privacy",
+        "Free breakfast included"
+      ],
+      "bestFor": [
+        "backpackers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Chiang-Mai-Hotels.6042.hotel.ksp",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHive%252028%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Stamps Backpackers",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Old City",
+      "description": "Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access to temples and the Night Bazaar. Both dorms and private rooms with air-con.",
+      "highlights": [
+        "Swimming pool — rare for this price range",
+        "Organized social events and tours",
+        "Quiet location despite being central"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStamps%2520Backpackers%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "U Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Old City",
+      "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+      "highlights": [
+        "Front-row seats to Sunday Market from your balcony",
+        "Views of Wat Chedi Luang from select rooms",
+        "Pool and fitness center included"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Julie Guesthouse without knowing the ground-floor restaurant's evening crowds can lead to noisy nights in your room.",
+    "intro": "Julie's Guesthouse provides clean, no-frills rooms with air-con options and hot showers in a backpacker-friendly setup since the 1990s. It's ideal for solo travelers and backpackers seeking an affordable base near Chiang Mai's Old City markets.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "backpackers solo travelers",
+      "standout": "location",
+      "noGoFor": "families wanting quiet"
+    },
+    "whyBook": [
+      "Steps from Tha Phae Gate for easy market access.",
+      "Clean rooms with air-con and hot showers available.",
+      "Ground-floor restaurant serves as a social hub.",
+      "Reliable WiFi supports remote work or planning.",
+      "Airport pickup service simplifies arrival logistics."
+    ],
+    "whyNotBook": [
+      "Ground-floor restaurant creates noise until late evenings.",
+      "Fan rooms can feel stuffy in Chiang Mai's heat.",
+      "Basic decor reflects its 1990s backpacker origins.",
+      "Limited privacy in social-heavy common areas.",
+      "3.5/5 score indicates inconsistent room maintenance."
+    ],
+    "skipIf": "Skip if you're traveling with kids or prefer modern, quiet accommodations away from backpacker crowds.",
+    "detailedReview": "Checking into Julie Guesthouse feels like stepping into a longstanding backpacker haven, with a straightforward front desk in the lively ground-floor restaurant area where travelers swap stories over cheap Thai meals. Rooms are compact and clean, offering either fan or air-con setups with hot showers, though the 1990s vibe shows in simple tile floors and basic furnishings—no frills, but functional for short stays. The standout amenity is the restaurant itself, serving affordable pad Thai and breakfasts that draw a mix of solo backpackers and groups, fostering easy conversations. Service is casual and helpful, with staff arranging airport pickups reliably, but expect self-service for most needs in this low-key spot. Food quality is solid for budget eats—fresh and filling, though portions are modest. Typical guests are young solo travelers in their 20s and 30s, often here for the unbeatable Tha Phae Gate location, mingling in the evenings before heading to night markets. Overall, it's a reliable pick for those prioritizing social vibes and proximity over luxury, but the constant hum from the restaurant might disrupt light sleepers. With both room types, air-con upgrades are worth it during humid seasons.",
+    "locationReality": "Julie's sits just steps from Tha Phae Gate, making it a 1-minute walk to the East Gate entrance and under 5 minutes to the Sunday Walking Street Market's buzz. Within a 5-minute stroll, you'll find street food stalls, 7-Elevens, and cafes along the moat, but Wat Phra Singh requires a 15-minute walk or 50 THB Grab ride through the Old City walls. No BTS or MRT here—Chiang Mai Airport is about 20-30 minutes away by taxi for 150-200 THB, with the guesthouse's pickup service covering that reliably.",
+    "localSignals": [
+      "0-minute walk to Tha Phae Gate landmark.",
+      "Reliable WiFi available throughout property.",
+      "Airport pickup service offered for arrivals.",
+      "1 on-property restaurant for meals.",
+      "5-minute walk to Sunday Market entrance."
+    ],
+    "travellerNote": "Guests often praise the unbeatable location near Tha Phae Gate and the social restaurant atmosphere but note occasional noise from common areas and basic room comforts.",
+    "bookingTips": [
+      "Request air-con rooms to avoid fan-only heat issues.",
+      "Check Agoda for cheaper rates than Booking.com in Thailand.",
+      "Prices spike in November-February high season and Yi Peng Festival.",
+      "Verify airport pickup availability when booking.",
+      "Confirm no construction notices for quiet stays."
+    ],
+    "similarHotels": [
+      {
+        "name": "Hive 28",
+        "howDifferent": "Offers modern pod dorms and a rooftop bar, contrasting Julie's basic rooms and ground-floor social hub."
+      },
+      {
+        "name": "Stamps Backpackers",
+        "howDifferent": "Features a pool table and pub crawls in a quieter soi, differing from Julie's market-edge bustle."
+      },
+      {
+        "name": "U Chiang Mai",
+        "howDifferent": "Provides boutique luxury with market views at higher prices, unlike Julie's budget backpacker setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Julie Guesthouse suitable for solo travelers?",
+        "a": "Yes, it's a top pick for solo backpackers with its social restaurant and central Old City location fostering easy connections."
+      },
+      {
+        "q": "What room types are available at Julie Guesthouse?",
+        "a": "Both fan and air-con rooms with hot showers are offered, keeping things clean and affordable for budget stays."
+      },
+      {
+        "q": "How far is Julie Guesthouse from Chiang Mai Airport?",
+        "a": "It's about 20-30 minutes by car; the guesthouse provides a reliable pickup service for convenience."
+      },
+      {
+        "q": "Does Julie Guesthouse have WiFi?",
+        "a": "Reliable WiFi is available throughout, supporting travelers' needs for staying connected."
+      },
+      {
+        "q": "What's the vibe like at Julie Guesthouse?",
+        "a": "It's a lively backpacker spot with a ground-floor restaurant as a social hub, ideal for mingling near markets."
+      },
+      {
+        "q": "Is breakfast included at Julie Guesthouse?",
+        "a": "Breakfast is available at the on-site restaurant but not included; expect affordable Thai options."
+      }
+    ],
+    "urgencyLine": "Rooms at Julie Guesthouse steps from Tha Phae Gate book out 1-2 months ahead for high season—check today.",
+    "methodology": "We rated Julie Guesthouse based on location, amenities, and guest feedback from sources like TripAdvisor. We weighted location highest because it's core to Old City backpacking. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Julie Guesthouse Review (2026)",
+    "metaDescription": "Julie Guesthouse in Chiang Mai's Old City offers clean budget rooms near Tha Phae Gate with social vibes and WiFi, but expect basic decor and evening noise. Ideal for backpackers—book your stay now for market access."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:03:43.549Z"
+}

@@ -1,0 +1,200 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "lopburi",
+  "cityName": "Lopburi",
+  "hotelSlug": "sri-intra-hotel",
+  "hotel": {
+    "name": "Sri Intra Hotel",
+    "category": "mid-range",
+    "priceRange": "950-1,500 THB/night (~$27-42 USD)",
+    "area": "Tha Hin, Lopburi Province",
+    "description": "One of Lopburi's newer mid-range properties, offering 24-hour front desk, luggage storage, and free WiFi in a clean modern facility. Spacious air-conditioned rooms with flat-screen TVs. Located slightly outside the city center in the Tha Hin area, making it a better fit for travelers with their own transport who want a quiet setting away from the Old Town bustle. Good option for those visiting the nearby Pasak Chonlasit Dam area.",
+    "highlights": [
+      "Modern facility with consistent standards",
+      "24-hour front desk with luggage storage",
+      "Quieter location away from the Old Town crowds",
+      "Free WiFi and parking"
+    ],
+    "bestFor": [
+      "travelers with own transport",
+      "quiet stay seekers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g27164363-d33666366-Reviews-Sriintra_Hotel-Tha_Hin_Lopburi_Province.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSri%2520Intra%2520Hotel%252C%2520Lopburi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "DadD Resort by Lopburi Inn Resort",
+      "category": "mid-range",
+      "priceRange": "800-1,400 THB/night (~$22-39 USD)",
+      "area": "New Town Lopburi",
+      "description": "The best mid-range option in Lopburi proper — a full resort setup with an outdoor swimming pool, 24-hour front desk, buffet breakfast, free WiFi, and spacious air-conditioned rooms. The motel-style layout gives direct parking to your room. 90 rooms with room service, restaurant, and laundry facilities. Consistently good staff reviews. Located in the New Town, a quick songthaew ride from the Old Town ruins. A genuine step up from the guesthouses without breaking the budget.",
+      "highlights": [
+        "Outdoor swimming pool — a real plus in Lopburi's heat",
+        "Buffet breakfast included in most rates",
+        "Spacious rooms with direct parking access",
+        "24-hour front desk and room service"
+      ],
+      "reviewScore": "7.8/10 Expedia",
+      "bestFor": [
+        "couples",
+        "families",
+        "value mid-range"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia",
+          "sourceUrl": "https://www.expedia.com/Lop-Buri-Hotels-Lopburi-Inn-Resort.h16166156.Hotel-Information",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDadD%2520Resort%2520by%2520Lopburi%2520Inn%2520Resort%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "O2 Hotel Lopburi",
+      "category": "mid-range",
+      "priceRange": "700-1,200 THB/night (~$20-34 USD)",
+      "area": "New Town Lopburi",
+      "description": "A modern 3-star hotel in the New Town with a garden, air-conditioned rooms, free WiFi, and a contemporary design that stands out from Lopburi's generally older hotel stock. Clean, well-maintained rooms with thoughtful modern touches. A reliable choice for travelers who want more comfort than a guesthouse without paying significantly more. Good base for exploring both Old Town ruins and New Town services.",
+      "highlights": [
+        "Modern 3-star design — more contemporary than most Lopburi options",
+        "Garden area and clean common spaces",
+        "Free WiFi and AC in all rooms",
+        "New Town location with transport to Old Town"
+      ],
+      "bestFor": [
+        "couples",
+        "comfort-conscious travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/lop-buri.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DO2%2520Hotel%2520Lopburi%252C%2520Lopburi%252C%2520Thailand"
+    },
+    {
+      "name": "Narai Iyara Palace",
+      "category": "mid-range",
+      "priceRange": "650-1,100 THB/night (~$18-31 USD)",
+      "area": "Khao Sam Yot area, Lopburi",
+      "description": "A 41-room boutique hotel with balcony rooms, flat-screen TVs, and mountain views. Named appropriately after King Narai, this property delivers a more upscale feel than the price suggests — complimentary bottled water, dry cleaning service, and friendly staff. Guest reviews consistently praise the cleanliness, quiet atmosphere, and accommodating team. An excellent value option combining comfort and competitive pricing.",
+      "highlights": [
+        "All rooms have balconies with views",
+        "Quieter, more boutique feel than the chain hotels",
+        "Consistently praised for cleanliness and staff quality",
+        "Good value at the price point"
+      ],
+      "reviewScore": "8.2/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "quality-conscious budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com",
+          "sourceUrl": "https://www.hotels.com/ho752773952/narai-iyara-palace-lopburi-lop-buri-thailand/",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNarai%2520Iyara%2520Palace%252C%2520Lopburi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Sri Intra Hotel without knowing its location in Tha Hin requires own transport can leave you stranded from Old Town attractions.",
+    "intro": "Sri Intra Hotel delivers a clean, modern mid-range stay with spacious air-conditioned rooms, flat-screen TVs, free WiFi, and parking in a quiet setting. It's ideal for travelers with their own vehicle seeking peace away from Lopburi's Old Town bustle, especially those exploring the nearby Pasak Chonlasit Dam.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "travelers with own transport",
+      "standout": "quieter location",
+      "noGoFor": "public transport users"
+    },
+    "whyBook": [
+      "Modern facility ensures consistent cleanliness standards.",
+      "24-hour front desk offers reliable luggage storage.",
+      "Free WiFi and parking suit self-drive visitors.",
+      "Spacious rooms provide comfortable air-conditioned rest.",
+      "Proximity to Pasak Chonlasit Dam aids dam explorers."
+    ],
+    "whyNotBook": [
+      "Location in Tha Hin demands own vehicle for city access.",
+      "No on-site pool or restaurant limits leisure options.",
+      "Slightly outside center means longer trips to Old Town sites.",
+      "Absence of buffet breakfast requires off-site dining.",
+      "Quiet setting may feel isolated without nearby eateries."
+    ],
+    "skipIf": "Skip if you rely on public transport or prefer walking to Lopburi's historical attractions.",
+    "detailedReview": "Checking into Sri Intra Hotel feels straightforward with the 24-hour front desk handling arrivals efficiently, including luggage storage for early or late guests. The modern facility greets you with a clean, contemporary vibe, free from the wear seen in older Lopburi properties. Rooms are spacious and air-conditioned, equipped with flat-screen TVs for downtime after drives, though expect basic setups without frills like minibars. Standout amenities include reliable free WiFi throughout and complimentary parking, perfect for those arriving by car to explore the Pasak Chonlasit Dam area. Food options are absent on-site, so service staff point you to local spots, maintaining a helpful but hands-off style. Service is consistent and polite, focused on essentials rather than personalized touches. Typical guests are independent travelers with vehicles, families avoiding crowds, or dam visitors valuing the quiet Tha Hin retreat over urban energy. Overall, it suits short, low-key stays where modernity and peace trump central buzz, but multi-night visitors might tire of commuting to town for meals and sights.",
+    "locationReality": "Sri Intra Hotel sits in the Tha Hin area, slightly outside Lopburi's city center, about a 15-minute drive to the Old Town's key sites like Prang Sam Yot temple. This positioning offers a quiet escape but requires your own transport or a Grab ride costing around 200-300 THB to reach central attractions. Within a 5-minute walk, expect residential calm with limited options, though the nearby Pasak Chonlasit Dam is reachable in under 10 minutes by car for nature outings.",
+    "localSignals": [
+      "15-minute drive to Lopburi Old Town landmarks.",
+      "Free on-site parking available for guests.",
+      "Free WiFi provided throughout the property.",
+      "No breakfast included; dine off-site.",
+      "5-10 minute drive to Pasak Chonlasit Dam."
+    ],
+    "travellerNote": "Guests often praise the clean modern rooms and quiet location but note the inconvenience of needing personal transport to access main attractions.",
+    "bookingTips": [
+      "Request a room away from the road for maximum quiet.",
+      "Check Agoda for lower rates than Booking.com in Lopburi.",
+      "Prices rise in November during Loy Krathong festival.",
+      "Verify free parking availability before booking.",
+      "Confirm no construction noise via recent reviews."
+    ],
+    "similarHotels": [
+      {
+        "name": "DadD Resort by Lopburi Inn Resort (800-1,400 THB/night (~$22-39 USD)) — The best mid-range option in Lopburi proper — a full resort setup with an outdoor swimming pool, 24-hour front desk, buffet breakfast, free",
+        "howDifferent": "Offers an on-site pool and buffet breakfast in central Lopburi, unlike Sri Intra's quieter outskirts without these amenities."
+      },
+      {
+        "name": "O2 Hotel Lopburi (700-1,200 THB/night (~$20-34 USD)) — A modern 3-star hotel in the New Town with a garden, air-conditioned rooms, free WiFi, and a contemporary design that stands out from Lopbur",
+        "howDifferent": "Located in New Town with a garden for easier town access, contrasting Sri Intra's more remote Tha Hin position."
+      },
+      {
+        "name": "Narai Iyara Palace (650-1,100 THB/night (~$18-31 USD)) — A 41-room boutique hotel with balcony rooms, flat-screen TVs, and mountain views. Named appropriately after King Narai, this property delive",
+        "howDifferent": "Provides balcony rooms with mountain views in a boutique setup closer to historical sites, differing from Sri Intra's standard modern rooms in a quiet suburb."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Sri Intra Hotel have free parking?",
+        "a": "Yes, free parking is available on-site, making it convenient for travelers with their own vehicles."
+      },
+      {
+        "q": "Is breakfast included at Sri Intra Hotel?",
+        "a": "No, breakfast is not included; guests need to find options nearby or in town."
+      },
+      {
+        "q": "How far is Sri Intra Hotel from Lopburi Old Town?",
+        "a": "It's about a 15-minute drive away in the Tha Hin area, best suited for those with transport."
+      },
+      {
+        "q": "What amenities are at Sri Intra Hotel?",
+        "a": "Key features include 24-hour front desk, luggage storage, free WiFi, and spacious air-conditioned rooms with flat-screen TVs."
+      },
+      {
+        "q": "Is Sri Intra Hotel good for families?",
+        "a": "Yes, for families with a car seeking quiet stays, but the remote location may require planning for outings."
+      },
+      {
+        "q": "Does Sri Intra Hotel have a pool?",
+        "a": "No, there is no pool; it's a modern facility focused on basic comforts and quiet surroundings."
+      }
+    ],
+    "urgencyLine": "Rooms at Sri Intra Hotel with free parking book out 1-2 months ahead for dam season visits — check today.",
+    "methodology": "We rated Sri Intra Hotel based on its facilities, location suitability, and value for mid-range travelers in Lopburi. We weighted quieter setting highest because it differentiates from central options for self-drive guests. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Sri Intra Hotel Review (2026)",
+    "metaDescription": "Sri Intra Hotel in Lopburi's Tha Hin offers modern rooms, free WiFi, and quiet stays near Pasak Chonlasit Dam, but requires own transport for Old Town access. Ideal for drivers seeking peace. Book for a clean retreat today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:45:01.247Z"
+}

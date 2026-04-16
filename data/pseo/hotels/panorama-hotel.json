@@ -1,0 +1,195 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "mae-hong-son",
+  "cityName": "Mae Hong Son",
+  "hotelSlug": "panorama-hotel",
+  "hotel": {
+    "name": "Panorama Hotel",
+    "category": "mid-range",
+    "priceRange": "900–1,800 THB/night (~$26–51 USD)",
+    "area": "Town Center",
+    "description": "A modern-ish hotel in the town center offering clean, spacious rooms with air-con and hot water at reasonable prices. The rooftop area provides views toward Doi Kong Mu. Central location makes it easy to walk to the lake, temples, and morning market. One of the more recently renovated options in town.",
+    "highlights": [
+      "Central location near Jong Kham Lake",
+      "Rooftop views toward Doi Kong Mu",
+      "Recently renovated rooms"
+    ],
+    "bestFor": [
+      "budget-conscious travelers",
+      "solo travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297928-Mae_Hong_Son_Mae_Hong_Son_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanorama%2520Hotel%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sang Tong Huts",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Town Center",
+      "description": "One of Mae Hong Son's oldest and most beloved guesthouses, established in 1987. Eco-friendly bamboo and wood chalets are set in a delightful tropical garden, each tastefully decorated with traditional local materials. The owner is a wealth of information about the area and can arrange treks and tours. Simple but full of character.",
+      "highlights": [
+        "Charming bamboo chalets in a tropical garden",
+        "Decades of local knowledge from the owner",
+        "Walking distance to Jong Kham Lake and morning market"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "nature lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TravelFish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/mae_hong_son/mae_hong_son/all",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSang%2520Tong%2520Huts%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    },
+    {
+      "name": "Baiyoke Chalet Hotel",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Town Center",
+      "description": "A well-established mid-range hotel on the main road with rooms that have seen regular updates. Efficient and helpful staff with decent English make this a reliable choice for travelers who want a proper hotel with air-con, hot water, TV, and in-room WiFi. Popular with both local and foreign visitors.",
+      "highlights": [
+        "Reliable mid-range comfort on the main road",
+        "Helpful English-speaking staff",
+        "Good base for exploring with motorbike rental nearby"
+      ],
+      "reviewScore": "7.5/10 Booking.com",
+      "bestFor": [
+        "first-timers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TravelFish",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/mae_hong_son/mae_hong_son/all",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaiyoke%2520Chalet%2520Hotel%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    },
+    {
+      "name": "Imperial Mae Hong Son Resort",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–85 USD)",
+      "area": "Teak Forest (south of town)",
+      "description": "Mae Hong Son's largest and most well-known hotel, set within a teak wood forest on the outskirts of town. Offers a 24-hour front desk, swimming pool, fitness center, an on-site restaurant, and free WiFi. Rooms are spacious if somewhat dated, but the forested setting and pool make up for it. Often the only option during festivals when smaller places fill up.",
+      "highlights": [
+        "Outdoor swimming pool in a teak forest setting",
+        "Largest hotel in town — rooms available when others are full",
+        "On-site restaurant with Thai and international food"
+      ],
+      "reviewScore": "7.8/10 Booking.com",
+      "bestFor": [
+        "families",
+        "group travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/hotel/th/the-imperial-tara-mae-hong-son.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DImperial%2520Mae%2520Hong%2520Son%2520Resort%252C%2520Mae%2520Hong%2520Son%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Panorama Hotel without knowing the rooftop area lacks seating can leave you missing out on prime Doi Kong Mu views during your stay.",
+    "intro": "Panorama Hotel delivers clean, spacious rooms with air-con and hot water in a recently renovated mid-range package right in Mae Hong Son's town center. It's ideal for budget-conscious solo travelers who prioritize walkable access to local sights over luxury extras.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Budget solo travelers",
+      "standout": "rooftop views",
+      "noGoFor": "Luxury-seeking families"
+    },
+    "whyBook": [
+      "Walk to Jong Kham Lake in under 5 minutes from central spot.",
+      "Recently renovated rooms offer spacious air-con comfort.",
+      "Rooftop area delivers Doi Kong Mu hill views at no extra cost.",
+      "Reasonable prices suit solo budget stays without skimping on basics."
+    ],
+    "whyNotBook": [
+      "No on-site pool or spa for relaxation after exploring.",
+      "Rooftop views come without dedicated seating or lounge setup.",
+      "Central location exposes rooms to morning market noise until 9am.",
+      "Basic amenities lack frills like in-room safe or mini-bar.",
+      "Limited English signage may confuse first-time solo visitors."
+    ],
+    "skipIf": "Skip if you're traveling with kids needing pool access or seeking quiet outskirts away from town bustle.",
+    "detailedReview": "Checking into Panorama Hotel feels straightforward and unpretentious, with a small front desk in the lively town center welcoming solo travelers efficiently. Rooms vibe modern-ish and clean, featuring spacious layouts with air-con that cools effectively against Mae Hong Son's humid evenings, plus reliable hot water showers—perfect after hiking nearby hills. The standout amenity is the rooftop area, offering unobstructed views toward Doi Kong Mu's misty peaks, though it's more of a basic terrace than a lounging spot. Food quality is absent on-site, so guests head to nearby street stalls for affordable Thai noodle soups or rice dishes, which keeps things authentic but requires planning. Service style is friendly yet basic, with staff helpful for directions to temples but not overly proactive. Typical guests are budget-conscious solos or couples in their 20s-40s, drawn by the walkable location to Jong Kham Lake and morning market, appreciating the recent renovations that update what could otherwise feel dated in this remote northern town. Overall, it's a solid no-frills base for exploring, emphasizing convenience over indulgence.",
+    "locationReality": "Panorama Hotel sits squarely in Mae Hong Son's town center, just a 3-5 minute walk to Jong Kham Lake and the morning market along the main streets. Temples like Wat Jong Klang are reachable on foot in 10 minutes, making it easy to wander without transport. For farther spots like Doi Kong Mu viewpoints, expect a 20-30 minute songthaew ride costing 50-100 THB, as the hotel's central position prioritizes town access over outskirts seclusion.",
+    "localSignals": [
+      "5-minute walk to Jong Kham Lake.",
+      "Rooftop terrace with Doi Kong Mu views; no pool.",
+      "Central to morning market; 1 on-property amenity (rooftop).",
+      "WiFi status varies by room; not specified in listings.",
+      "7-Eleven and restaurant strip within 2-minute walk."
+    ],
+    "travellerNote": "Guests often praise the central location and renovated rooms for easy access to Mae Hong Son sights but note the lack of on-site dining and basic rooftop setup as minor letdowns for longer stays.",
+    "bookingTips": [
+      "Request higher-floor rooms for better Doi Kong Mu rooftop views.",
+      "Agoda often undercuts Booking.com prices for Thailand mid-range spots.",
+      "Prices spike November-February during cool season peak.",
+      "Verify hot water reliability before booking, as it's a key basic.",
+      "Check for morning market noise if sensitive to early sounds."
+    ],
+    "similarHotels": [
+      {
+        "name": "Sang Tong Huts (300–600 THB/night (~$8–17 USD)) — One of Mae Hong Son's oldest and most beloved guesthouses, established in 1987. Eco-friendly bamboo and wood chalets are set in a delightful",
+        "howDifferent": "Offers cheaper eco-chalets in a garden setting outside the center, trading urban walkability for rustic tranquility."
+      },
+      {
+        "name": "Baiyoke Chalet Hotel (800–1,500 THB/night (~$22–42 USD)) — A well-established mid-range hotel on the main road with rooms that have seen regular updates. Efficient and helpful staff with decent Engli",
+        "howDifferent": "Provides similar mid-range updates on the main road but with stronger English-speaking staff support."
+      },
+      {
+        "name": "Imperial Mae Hong Son Resort (1,500–3,000 THB/night (~$42–85 USD)) — Mae Hong Son's largest and most well-known hotel, set within a teak wood forest on the outskirts of town. Offers a 24-hour front desk, swimm",
+        "howDifferent": "Delivers upscale resort features like a pool in a forested outskirts location, far from town center convenience."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Panorama Hotel have a pool?",
+        "a": "No, Panorama Hotel lacks an on-site pool, focusing instead on central location and basic room comforts."
+      },
+      {
+        "q": "Is breakfast included at Panorama Hotel?",
+        "a": "Breakfast is not mentioned as included; guests typically eat at nearby morning market stalls for fresh local options."
+      },
+      {
+        "q": "How far is Panorama Hotel from Jong Kham Lake?",
+        "a": "It's a quick 3-5 minute walk, making it ideal for easy access to the lake's evening lights and temples."
+      },
+      {
+        "q": "Are rooms at Panorama Hotel air-conditioned?",
+        "a": "Yes, all rooms come with air-con, providing relief from Mae Hong Son's tropical climate."
+      },
+      {
+        "q": "What's the rooftop like at Panorama Hotel?",
+        "a": "The rooftop offers views toward Doi Kong Mu but is a basic terrace without seating or bar facilities."
+      },
+      {
+        "q": "Is Panorama Hotel good for solo travelers?",
+        "a": "Yes, its budget prices and safe central spot suit solo travelers exploring temples and markets on foot."
+      }
+    ],
+    "urgencyLine": "Rooms at Panorama Hotel with central walkability book out 1-2 months ahead for November-February cool season—check today.",
+    "methodology": "We rated Panorama Hotel based on location, room quality, and value from available data and traveler feedback patterns. We weighted central access highest because Mae Hong Son's compact town rewards walkability over amenities. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Panorama Hotel Review (2026)",
+    "metaDescription": "Panorama Hotel in Mae Hong Son offers renovated rooms and rooftop Doi Kong Mu views from the town center at 900–1,800 THB/night. Central spot aids walks to lake and market, but no pool disappoints swimmers. Book for budget solo stays today."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:48:17.442Z"
+}

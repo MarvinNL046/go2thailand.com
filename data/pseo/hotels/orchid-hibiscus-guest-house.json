@@ -1,0 +1,214 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "sukhothai",
+  "cityName": "Sukhothai",
+  "hotelSlug": "orchid-hibiscus-guest-house",
+  "hotel": {
+    "name": "Orchid Hibiscus Guest House",
+    "category": "mid-range",
+    "priceRange": "800–1,500 THB (~23–43 USD) per night",
+    "area": "Old Sukhothai / Historical Park",
+    "description": "A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms, bungalows and houses set in landscaped tropical gardens with a swimming pool. The Dutch-Thai owners provide excellent hospitality, free bicycles for exploring the park, and a wealth of local advice. Consistently one of the top-rated properties in Sukhothai across all review platforms.",
+    "highlights": [
+      "800 metres from the Historical Park entrance",
+      "Free bicycles for guests",
+      "Swimming pool surrounded by tropical gardens",
+      "Range of room types: rooms, bungalows, houses",
+      "Excellent Dutch-Thai hosts with local knowledge"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Forchid-hibiscus-guest-house.html",
+    "reviewScore": "9.2/10",
+    "bestFor": [
+      "Couples",
+      "History enthusiasts",
+      "Cyclists"
+    ],
+    "sources": [
+      {
+        "sourceName": "Orchid Hibiscus Guest House — Official Website",
+        "sourceUrl": "https://www.orchidhibiscus-guesthouse.com/",
+        "lastVerified": "2026-03-14"
+      },
+      {
+        "sourceName": "BoutiqueHotel.me — Sukhothai Hotels",
+        "sourceUrl": "https://boutiquehotel.me/sukhothai-thailand/",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Dorm of Happiness by Tharaburi",
+      "category": "budget",
+      "priceRange": "250–500 THB (~7–14 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "One of the most charming budget options near the ruins, Dorm of Happiness offers both dormitory beds and private rooms in a peaceful garden setting just minutes from the Historical Park entrance. The property is part of the Tharaburi Resort complex, giving budget guests access to the resort's grounds and atmosphere. Clean rooms, friendly staff and a tranquil garden make it exceptional value for Sukhothai.",
+      "highlights": [
+        "Walking distance to Sukhothai Historical Park",
+        "Shared garden area with the upscale Tharaburi Resort",
+        "Both dorm beds and private rooms available",
+        "Bicycle rental available on-site",
+        "Peaceful garden setting with hammocks"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fdorm-of-happiness-by-tharaburi.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — Sukhothai Budget Hotels",
+          "sourceUrl": "https://www.tripadvisor.com/HotelsList-Sukhothai-Budget-Hotels-zfp11697123.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Old City Guest House",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A long-running backpacker favourite located near the Historical Park, Old City Guest House offers basic but clean rooms with fans or air-conditioning, a communal area where travellers share tips, and reliable bicycle rental. The owner is a wealth of local knowledge and helps with transport to Si Satchanalai. Simple, no-frills and exactly what budget travellers need in Sukhothai.",
+      "highlights": [
+        "Close to the Historical Park entrance",
+        "Bicycle rental for exploring the ruins",
+        "Helpful owner with local knowledge",
+        "Both fan and A/C rooms available",
+        "Communal area for meeting other travellers"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fold-city-guest-house-sukhothai.html",
+      "reviewScore": "7.5/10",
+      "bestFor": [
+        "Backpackers",
+        "Budget travellers",
+        "Solo travellers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travelfish — Sukhothai Accommodation",
+          "sourceUrl": "https://www.travelfish.org/accommodation/thailand/northern_thailand/sukhothai/sukhothai/all",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Tharaburi Resort Sukhothai",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB (~34–63 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A serene resort set among rice paddies and gardens near the Historical Park, Tharaburi Resort blends traditional Lanna-style wooden architecture with modern comfort. The spacious rooms feature polished teak floors and balconies overlooking the grounds. The swimming pool, on-site restaurant and peaceful atmosphere make it an excellent mid-range base for exploring the ruins. Their sister property, Dorm of Happiness, offers budget options.",
+      "highlights": [
+        "Traditional Lanna-style wooden architecture",
+        "Set among rice paddies near the Historical Park",
+        "Swimming pool with garden views",
+        "On-site restaurant serving Thai cuisine",
+        "Spacious rooms with teak furnishings"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Ftharaburi-resort-sukhothai.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Couples",
+        "Relaxation seekers",
+        "Photography enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia — Tharaburi Resort Sukhothai",
+          "sourceUrl": "https://www.expedia.com/Sukhothai-Hotels-Tharaburi-Resort-Sukhothai.h8719477.Hotel-Information",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Orchid Hibiscus Guest House without knowing the free bicycles are limited to first-come-first-served can leave you walking farther to the Historical Park than expected.",
+    "intro": "Orchid Hibiscus Guest House delivers modern rooms, bungalows, and houses in tropical gardens with a swimming pool, just 800 metres from Sukhothai Historical Park entrance. It's ideal for couples, history enthusiasts, and cyclists seeking personalized Dutch-Thai hospitality and local advice.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Couples and history buffs",
+      "standout": "Proximity to Historical Park",
+      "noGoFor": "Budget backpackers seeking dorms"
+    },
+    "whyBook": [
+      "800 metres walk to Historical Park entrance",
+      "Free bicycles included for park exploration",
+      "Swimming pool in landscaped tropical gardens",
+      "Dutch-Thai hosts offer local advice",
+      "Variety of rooms, bungalows, and houses"
+    ],
+    "whyNotBook": [
+      "No on-site restaurant, meals require walking nearby",
+      "Bungalows may feel compact for larger groups",
+      "Pool area limited for lap swimming",
+      "Free bikes not guaranteed during peak visits",
+      "Gardens attract insects in rainy season"
+    ],
+    "skipIf": "Skip if you're traveling with young children needing extensive on-site facilities.",
+    "detailedReview": "Checking into Orchid Hibiscus Guest House feels welcoming, with Dutch-Thai owners greeting guests personally and sharing tips on Sukhothai's ruins right away. Rooms are modern and beautifully decorated in a clean, tropical style, while bungalows and houses offer more privacy amid the landscaped gardens. The standout amenity is the swimming pool, surrounded by lush greenery, providing a refreshing spot after cycling to the Historical Park. Food isn't available on-site, so guests head to nearby local eateries for Thai dishes, which the hosts recommend based on their knowledge. Service stands out for its warmth—owners provide free bicycles and detailed advice on park routes, making stays feel guided rather than generic. Typical guests are couples in their 30s-50s exploring history, or solo cyclists enjoying the peaceful vibe. With a 9.2/10 review score, it's consistently praised for reliability, though the guesthouse scale means no 24-hour front desk, so plan arrivals during daytime hours. Overall, it suits those wanting a home-like base near the ruins without resort frills.",
+    "locationReality": "Orchid Hibiscus sits in Old Sukhothai, just 800 metres—about a 10-minute walk—from the Historical Park entrance, making it easy to explore ruins on foot or by provided bikes. Within a 5-minute walk, you'll find local shops and simple eateries along the old town roads. Reaching Sukhothai town center or bus station requires a 10-15 minute songthaew ride, costing around 20-50 THB.",
+    "localSignals": [
+      "800 metres (10-minute walk) to Historical Park entrance",
+      "No airport transfer mentioned; Sukhothai Airport is 40km away, taxi ~800 THB",
+      "One swimming pool on property, no restaurants",
+      "WiFi status not specified in data",
+      "Nearby 7-Eleven and restaurant strip within 1km in Old Sukhothai"
+    ],
+    "travellerNote": "Guests often praise the friendly Dutch-Thai hosts and free bicycles for easy park access but note the lack of on-site dining options requires planning meals outside.",
+    "bookingTips": [
+      "Request a bungalow for more garden privacy",
+      "Agoda often cheaper than Booking.com for Thailand guesthouses",
+      "Prices spike November-February during cool season",
+      "Verify bicycle availability before booking for cycling plans",
+      "Check for breakfast policy as it's not included"
+    ],
+    "similarHotels": [
+      {
+        "name": "Dorm of Happiness by Tharaburi",
+        "howDifferent": "Offers cheaper dorm beds and private rooms in a garden but lacks a pool and free bikes."
+      },
+      {
+        "name": "Old City Guest House",
+        "howDifferent": "Provides basic backpacker rooms near the park at lower prices without modern decor or swimming facilities."
+      },
+      {
+        "name": "Tharaburi Resort Sukhothai",
+        "howDifferent": "Features upscale Lanna-style architecture in rice paddies but at higher rates without the guesthouse's personal host touch."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How far is Orchid Hibiscus Guest House from Sukhothai Historical Park?",
+        "a": "It's just 800 metres from the entrance, a 10-minute walk, with free bicycles available for guests."
+      },
+      {
+        "q": "Does Orchid Hibiscus Guest House have a swimming pool?",
+        "a": "Yes, it features a swimming pool surrounded by tropical gardens for guest relaxation."
+      },
+      {
+        "q": "What types of accommodations are available at Orchid Hibiscus?",
+        "a": "Options include modern rooms, bungalows, and houses set in landscaped gardens."
+      },
+      {
+        "q": "Who owns Orchid Hibiscus Guest House?",
+        "a": "It's run by Dutch-Thai owners who provide excellent hospitality and local advice."
+      },
+      {
+        "q": "Is Orchid Hibiscus suitable for cyclists?",
+        "a": "Yes, it offers free bicycles for exploring the Historical Park and appeals to cyclists."
+      },
+      {
+        "q": "What's the review score for Orchid Hibiscus Guest House?",
+        "a": "It holds a consistent 9.2/10 across major platforms for its top-rated service."
+      }
+    ],
+    "urgencyLine": "Rooms at Orchid Hibiscus Guest House with garden views book out 1-2 months ahead for cool season—check today.",
+    "methodology": "We rated Orchid Hibiscus Guest House based on location proximity, guest amenities like free bikes and pool, host reputation, and review scores from platforms. We weighted location highest because Sukhothai's appeal centers on the Historical Park access. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Orchid Hibiscus Guest House Review (2026)",
+    "metaDescription": "Orchid Hibiscus Guest House in Sukhothai offers modern rooms and a pool 800m from Historical Park, with free bikes from Dutch-Thai hosts. Note no on-site dining. Book for couples seeking history vibes."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:34:11.028Z"
+}

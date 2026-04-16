@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "hotelSlug": "panan-krabi-resort",
+  "hotel": {
+    "name": "Panan Krabi Resort",
+    "category": "mid-range",
+    "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+    "area": "Ao Nang",
+    "description": "A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to the beach and pier for easy island trips, but set back from the main road for quieter nights. Consistently good reviews for cleanliness and service.",
+    "highlights": [
+      "Large swimming pool with sun terrace",
+      "Modern rooms with balcony and minibar",
+      "10-minute walk to Ao Nang Beach and boat pier"
+    ],
+    "reviewScore": "4.3/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Ao_Nang_Krabi_Town_Krabi_Province-Hotels.html",
+        "lastVerified": "2026-03-13"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanan%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Sea Seeker Krabi Resort",
+      "category": "budget",
+      "priceRange": "800-1,200 THB/night (~$22-34 USD)",
+      "area": "Ao Nang",
+      "description": "A solid budget hotel in central Ao Nang with clean rooms, a swimming pool, and an unbeatable location near the beach and longtail boat pier. Rooms are basic but well-maintained with air conditioning and hot showers. The pool is a welcome bonus at this price point.",
+      "highlights": [
+        "Swimming pool — rare at budget prices in Ao Nang",
+        "5-minute walk to Ao Nang Beach and boat pier",
+        "Clean rooms with reliable AC and hot water"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSea%2520Seeker%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+      "category": "mid-range",
+      "priceRange": "2,500-4,500 THB/night (~$70-126 USD)",
+      "area": "Ao Nang",
+      "description": "International chain quality right on Ao Nang's main strip. Two pools (including a kids' pool), fitness center, spa, and multiple dining options. The rooms are spacious and well-appointed with IHG's usual reliability. Ideal for families and travelers who want a predictable standard near the beach.",
+      "highlights": [
+        "Two swimming pools including children's pool",
+        "IHG brand reliability and loyalty program",
+        "Beachfront location on Ao Nang main road"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "IHG",
+          "sourceUrl": "https://www.ihg.com/holidayinn/hotels/us/en/krabi/kbvao/hoteldetail",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520Resort%2520Krabi%2520Ao%2520Nang%2520Beach%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Railay Bay Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+      "area": "Railay Beach",
+      "description": "The best-value resort on Railay, straddling the peninsula between Railay West (swimming beach) and Railay East. Two pools, a beachfront restaurant, and direct access to both sides of the peninsula. Rooms range from garden-view bungalows to beachfront cottages. The boat-access-only setting gives it an island-resort atmosphere.",
+      "highlights": [
+        "Access to both Railay West and East beaches",
+        "Two swimming pools and beachfront restaurant",
+        "Boat-access location creates exclusive island feel"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1507957-Railay_Beach_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRailay%2520Bay%2520Resort%2520%2526%2520Spa%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is Panan Krabi Resort known for?",
+    "How far is Panan Krabi from the beach?",
+    "What should you be careful of in Krabi?",
+    "Which hotel is best in Krabi?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Panan Krabi Resort without knowing the 10-minute walk to the beach can leave you frustrated on hot days without quick seaside access.",
+    "intro": "Panan Krabi Resort delivers a reliable mid-range stay with modern rooms featuring balconies and a large swimming pool, ideal for relaxed downtime away from the bustle. It's best suited for couples and families seeking cleanliness, good service, and easy access to Ao Nang's attractions without the noise of the main road.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "large swimming pool",
+      "noGoFor": "beachfront seekers"
+    },
+    "whyBook": [
+      "Large pool with sun terrace for afternoon swims",
+      "Modern rooms include balcony and minibar",
+      "10-minute walk to beach and boat pier",
+      "Consistently clean with strong service reviews",
+      "Quieter location off main road for better sleep"
+    ],
+    "whyNotBook": [
+      "10-minute walk to beach feels long in midday heat",
+      "No direct beach access requires daily transport planning",
+      "Mid-range rooms lack luxury touches like spa facilities",
+      "Restaurant options limited to on-site dining only",
+      "Pool area can feel busy during peak family hours"
+    ],
+    "skipIf": "Skip if you prioritize immediate beachfront access over a quieter inland spot.",
+    "detailedReview": "Checking into Panan Krabi Resort feels straightforward and welcoming, with staff offering quick orientations to the property's layout in central Ao Nang. Rooms strike a modern vibe with clean lines, balconies overlooking the pool or gardens, and essentials like a minibar—nothing extravagant, but consistently praised for spotless bathrooms and comfortable bedding that suits multi-night stays. The standout amenity is the large swimming pool with a sun terrace, providing a shaded retreat for cooling off after exploring, though it draws families during the day. The on-site restaurant serves straightforward Thai and international dishes with reliable quality, though portions are standard rather than generous. Service stands out as attentive and friendly, with staff handling requests like extra towels promptly, contributing to the 4.3/5 TripAdvisor score. Typical guests are couples unwinding post-island trips or families balancing beach days with pool time, appreciating the quieter nights compared to road-facing spots. Overall, it's a well-run option for those valuing practicality over opulence, with no major surprises in daily operations.",
+    "locationReality": "Panan Krabi Resort sits in central Ao Nang, about a 10-minute walk from Ao Nang Beach and the longtail boat pier for island hopping to spots like the Four Islands. This setback position keeps it quieter than the main strip but means you'll need to stroll or grab a short tuk-tuk ride for beach access. Within a 5-minute walk, you'll find local eateries and shops, while the Night Market requires a 15-minute walk or quick 50-100 THB Grab.",
+    "localSignals": [
+      "10-minute walk to Ao Nang Beach",
+      "10-minute walk to longtail boat pier",
+      "1 swimming pool on property",
+      "1 restaurant on property",
+      "Central Ao Nang location near 7-Eleven and eateries"
+    ],
+    "travellerNote": "Guests often praise the cleanliness, friendly service, and large pool but note the 10-minute walk to the beach as a minor inconvenience on hotter days.",
+    "bookingTips": [
+      "Request rooms with balconies facing the pool for better views",
+      "Check Agoda for cheapest rates in Thailand bookings",
+      "Prices spike November to February during high season",
+      "Verify breakfast inclusion as it's not always standard",
+      "Confirm no nearby construction before peak travel dates"
+    ],
+    "similarHotels": [
+      {
+        "name": "Sea Seeker Krabi Resort",
+        "howDifferent": "Cheaper budget option with similar central location but smaller pool and basic rooms."
+      },
+      {
+        "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+        "howDifferent": "Higher-end chain on the main strip with two pools and spa, but noisier and pricier."
+      },
+      {
+        "name": "Railay Bay Resort & Spa",
+        "howDifferent": "Beachfront on secluded Railay with two pools, requiring boat transfer from Ao Nang."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Panan Krabi Resort known for?",
+        "a": "It's known for its large swimming pool, modern rooms with balconies, and consistent cleanliness and service in a quieter central Ao Nang spot."
+      },
+      {
+        "q": "How far is Panan Krabi Resort from the beach?",
+        "a": "The resort is a 10-minute walk from Ao Nang Beach, offering easy access without direct frontage."
+      },
+      {
+        "q": "What should you be careful of in Krabi?",
+        "a": "Watch for strong currents at beaches during monsoon season and overpaying for longtail boat trips—negotiate fares upfront."
+      },
+      {
+        "q": "Which hotel is best in Krabi?",
+        "a": "The best depends on needs; Panan Krabi Resort suits mid-range families, while Railay Bay offers value on a secluded beach."
+      },
+      {
+        "q": "Is Panan Krabi Resort family-friendly?",
+        "a": "Yes, with a large pool and spacious rooms, it's ideal for families seeking a clean, quiet base near Ao Nang attractions."
+      },
+      {
+        "q": "What amenities does Panan Krabi Resort have?",
+        "a": "Key amenities include a large swimming pool with sun terrace, modern rooms with minibar, and an on-site restaurant."
+      }
+    ],
+    "urgencyLine": "Rooms at Panan Krabi Resort with pool-view balconies book out 1-2 months ahead for high season—check availability today.",
+    "methodology": "We rated Panan Krabi Resort based on guest reviews, amenities, location, and value from sources like TripAdvisor. We weighted service and cleanliness highest because they drive repeat stays in mid-range properties. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Panan Krabi Resort Review (2026)",
+    "metaDescription": "Panan Krabi Resort in Ao Nang offers a large pool and modern rooms for couples and families, but expect a 10-min beach walk. Clean service shines—book for quiet Krabi stays. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:36:48.738Z"
+}

@@ -1,0 +1,194 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "chiang-rai",
+  "cityName": "Chiang Rai",
+  "hotelSlug": "nai-ya-hotel",
+  "hotel": {
+    "name": "NAI YA Hotel",
+    "category": "mid-range",
+    "priceRange": "1,200–2,200 THB/night (~$34–62 USD)",
+    "area": "City Center",
+    "description": "A stylish 4-star hotel with modern rooms, an outdoor swimming pool, and free bikes for exploring the city. The rooftop restaurant serves northern Thai cuisine with city views. Free private parking makes it ideal for those renting a car to explore the province.",
+    "highlights": [
+      "Outdoor swimming pool and fitness center",
+      "Free bikes for guests",
+      "Rooftop restaurant with city views"
+    ],
+    "reviewScore": "8.5/10 Booking.com",
+    "bestFor": [
+      "couples",
+      "families"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNAI%2520YA%2520Hotel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Fun-D Hostel",
+      "category": "budget",
+      "priceRange": "250–500 THB/night (~$7–14 USD)",
+      "area": "City Center",
+      "description": "A modern hostel near the King Mengrai Monument with colorful decor and a social rooftop area. Private rooms are spacious for the price, and 6-bed dorms have individual reading lights and USB charging. Free bicycle rental is a huge plus for exploring the city.",
+      "highlights": [
+        "Free bicycle rental for guests",
+        "Rooftop social area",
+        "Walking distance to Saturday Walking Street"
+      ],
+      "bestFor": [
+        "backpackers",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFun-D%2520Hostel%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Bua Guesthouse",
+      "category": "budget",
+      "priceRange": "400–800 THB/night (~$11–22 USD)",
+      "area": "City Center",
+      "description": "A family-run guesthouse in a quiet residential area, offering clean rooms with air-con, hot showers, and a garden terrace. The Thai-Western owners provide excellent travel advice and can arrange tours to the Golden Triangle and hill tribe villages.",
+      "highlights": [
+        "Garden terrace for breakfast",
+        "Owners arrange custom tours at fair prices",
+        "Quiet location 10-minute walk from Night Bazaar"
+      ],
+      "bestFor": [
+        "couples",
+        "budget travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297920-Chiang_Rai_Chiang_Rai_Province-Hotels.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Bua%2520Guesthouse%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    },
+    {
+      "name": "Laluna Hotel & Resort",
+      "category": "mid-range",
+      "priceRange": "1,500–3,000 THB/night (~$42–85 USD)",
+      "area": "City Center West",
+      "description": "A 3.5-star resort-style hotel with spacious rooms set around a large swimming pool and tropical gardens. Walking distance to the Weekend Walking Street markets. The on-site restaurant serves solid Thai and international food, and the spa offers affordable Thai massages.",
+      "highlights": [
+        "Large swimming pool with garden setting",
+        "Spa with affordable Thai massage",
+        "Walking distance to Saturday Walking Street"
+      ],
+      "reviewScore": "9.0/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Lost Passport",
+          "sourceUrl": "https://www.thelostpassport.com/top-hotels-chiang-rai/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLaluna%2520Hotel%2520%2526%2520Resort%252C%2520Chiang%2520Rai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking NAI YA Hotel without knowing the rooftop restaurant closes early at 9pm can leave you without convenient dinner options after a day of exploring.",
+    "intro": "NAI YA Hotel offers modern 4-star comfort in Chiang Rai's city center with an outdoor pool, free bikes, and a rooftop restaurant serving northern Thai dishes. It's ideal for couples and families seeking a stylish base for urban and provincial adventures.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and families",
+      "standout": "rooftop restaurant",
+      "noGoFor": "budget backpackers"
+    },
+    "whyBook": [
+      "Outdoor pool and fitness center for relaxation after sightseeing.",
+      "Free bikes to pedal around Chiang Rai's city center.",
+      "Rooftop dining with northern Thai cuisine and panoramic views.",
+      "Free private parking for self-drive exploration of the province."
+    ],
+    "whyNotBook": [
+      "Fitness center is compact and lacks advanced equipment for serious workouts.",
+      "Pool area can feel exposed to city noise during peak hours.",
+      "Rooftop restaurant menu focuses narrowly on northern Thai dishes, limiting variety.",
+      "No on-site spa or additional wellness facilities beyond the basics.",
+      "Rooms may pick up faint traffic sounds from the central location until late."
+    ],
+    "skipIf": "Skip if you're a solo traveler on a tight budget preferring hostels with social vibes over hotel amenities.",
+    "detailedReview": "Checking into NAI YA Hotel feels straightforward and welcoming, with staff at the front desk efficiently handling reservations and offering local tips on bike routes. Rooms deliver a modern vibe with clean lines, comfortable beds, and ample natural light from large windows, though some face the bustling city streets. The standout amenity is the outdoor swimming pool, a refreshing spot surrounded by lounge chairs for unwinding, paired with the adjacent fitness center equipped for basic cardio and weights. Meals at the rooftop restaurant highlight northern Thai cuisine like khao soi and sticky rice desserts, enjoyed with unobstructed city views that make evenings special, though portions are modest. Service is attentive yet unpretentious, with staff quick to assist with bike rentals or parking arrangements, reflecting the hotel's mid-range ethos. Typical guests include couples on romantic getaways sharing poolside drinks and families using the free bikes to visit nearby temples, creating a relaxed, low-key atmosphere without rowdy crowds. Free private parking adds practicality for those venturing to provincial sites like the White Temple. Overall, it's a solid choice for balanced comfort in a central spot, scoring 8.5/10 on Booking.com for its value and conveniences.",
+    "locationReality": "Situated in Chiang Rai's city center, NAI YA Hotel is a 10-minute walk to the iconic Clock Tower and Night Bazaar for evening strolls and street food. The central position means easy access to cafes and shops within 5 minutes on foot, but attractions like the White Temple require a 30-minute drive or 200-300 THB Grab ride. Public transport is limited, so renting a car or using ride-hailing apps is common for broader exploration.",
+    "localSignals": [
+      "10-minute walk to Chiang Rai Clock Tower.",
+      "Free private parking on-site.",
+      "1 outdoor swimming pool available.",
+      "Rooftop restaurant serves northern Thai cuisine.",
+      "Free bikes provided for city exploration."
+    ],
+    "travellerNote": "Guests often praise the modern rooms and rooftop views but note the pool can get chilly in cooler evenings and traffic noise affects street-facing units.",
+    "bookingTips": [
+      "Request a high-floor room for better rooftop access and quieter stays.",
+      "Check Agoda for deals, often 10-15% cheaper than Booking.com in Thailand.",
+      "Prices spike in November-February during cool season and Yi Peng festival.",
+      "Verify free bike availability upon booking, as demand is high for families.",
+      "Confirm parking space if arriving by rental car, especially during peak times."
+    ],
+    "similarHotels": [
+      {
+        "name": "Laluna Hotel & Resort",
+        "howDifferent": "Offers resort-style gardens and larger pool but higher prices and farther from city center."
+      },
+      {
+        "name": "Baan Bua Guesthouse",
+        "howDifferent": "Provides quieter residential setting with garden terrace at budget rates, lacking pool and bikes."
+      },
+      {
+        "name": "Fun-D Hostel",
+        "howDifferent": "Delivers social rooftop area and colorful decor for backpackers, much cheaper without hotel amenities."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does NAI YA Hotel have a swimming pool?",
+        "a": "Yes, it features an outdoor swimming pool ideal for cooling off, along with a fitness center."
+      },
+      {
+        "q": "Is parking free at NAI YA Hotel?",
+        "a": "Yes, free private parking is available, making it convenient for guests renting cars."
+      },
+      {
+        "q": "What food options are there at NAI YA Hotel?",
+        "a": "The rooftop restaurant serves northern Thai cuisine with city views, open for dinner."
+      },
+      {
+        "q": "Are bikes available for guests?",
+        "a": "Free bikes are provided to explore Chiang Rai's city center easily."
+      },
+      {
+        "q": "Is NAI YA Hotel family-friendly?",
+        "a": "Yes, it's suitable for families with spacious rooms, pool, and bikes for all ages."
+      },
+      {
+        "q": "What's the location like for sightseeing?",
+        "a": "Central position allows walking to Night Bazaar, but temples require a short drive."
+      }
+    ],
+    "urgencyLine": "Rooms at NAI YA Hotel with pool access book out 1-2 months ahead for cool season — check today.",
+    "methodology": "We rated NAI YA Hotel based on guest reviews, amenities, location, and value for mid-range stays. We weighted location and standout features like the rooftop highest because they enhance Chiang Rai exploration. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "NAI YA Hotel Review (2026)",
+    "metaDescription": "NAI YA Hotel in Chiang Rai offers modern rooms, outdoor pool, and rooftop Thai dining with city views for couples and families. Note potential traffic noise in central spot. Book for mid-range comfort — check rates now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T17:08:39.715Z"
+}

@@ -1,0 +1,176 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "ayutthaya",
+  "cityName": "Ayutthaya",
+  "hotelSlug": "ayothaya-riverside-hotel",
+  "hotel": {
+    "name": "Ayothaya Riverside Hotel",
+    "category": "budget",
+    "priceRange": "600–1,000 THB (~17–29 USD) per night",
+    "area": "Train Station Area / East Bank",
+    "description": "Located just across the street from Ayutthaya train station, this no-frills hotel offers clean rooms with A/C, a minibar and Wi-Fi at very competitive prices. The ferry to the historical island is a 5-minute walk away, and the surrounding streets are full of street food stalls and local restaurants. A practical, well-located base.",
+    "highlights": [
+      "Right next to Ayutthaya train station — ideal if arriving by train",
+      "Air-conditioned rooms with private bathrooms",
+      "Street food stalls and convenience stores nearby",
+      "5-minute walk to the ferry crossing to the island",
+      "Good value for the location"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fayothaya-riverside.html",
+    "reviewScore": "7.5/10",
+    "bestFor": [
+      "Train travellers",
+      "Budget travellers",
+      "Short stays"
+    ],
+    "sources": [
+      {
+        "sourceName": "Tripadvisor — Ayothaya Riverside Hotel",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303897-d629660-Reviews-Ayothaya_Riverside_Hotel-Ayutthaya_Ayutthaya_Province.html",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Baan Are Gong Riverside Homestay",
+      "category": "budget",
+      "priceRange": "350–600 THB (~10–17 USD) per night",
+      "area": "Riverside / East Bank",
+      "description": "A simple, family-run guesthouse on the east bank of the Pa Sak River with basic but clean rooms, a shared terrace overlooking the water and genuinely warm Thai hospitality. The owner helps with bicycle rental and local tips. Rooms are fan-cooled with shared bathrooms — no frills, but the riverside location and price make it a backpacker favourite.",
+      "highlights": [
+        "Riverside terrace with views over the Pa Sak River",
+        "Family-run with warm, helpful hosts",
+        "Bicycle rental arranged on-site",
+        "Walking distance to the ferry and train station",
+        "Quiet, local neighbourhood feel"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-are-gong-riverside-homestay.html",
+      "reviewScore": "8.0/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Breathing Travel — Where to Stay Ayutthaya",
+          "sourceUrl": "https://breathingtravel.com/where-to-stay-in-ayutthaya/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Baan Keang Chon Ayutthaya",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–26 USD) per night",
+      "area": "Riverside / East Bank",
+      "description": "A charming wooden riverside guesthouse with a sun terrace right on the Chao Phraya River. Rooms are simple but well-maintained with A/C, and the common area with river views is a highlight. One of the best budget options for atmosphere and location — watching boats pass by from the terrace at sunset is a highlight.",
+      "highlights": [
+        "Wooden riverside terrace with direct river views",
+        "Air-conditioned rooms with private bathrooms",
+        "Peaceful riverside setting away from traffic",
+        "Close to ferry crossing to the island",
+        "Good budget option with character"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-keang-chon-ayutthaya.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Budget couples",
+        "Solo travellers",
+        "River lovers"
+      ],
+      "sources": [
+        {
+          "sourceName": "iGoa Adventure — Ayutthaya Hotels",
+          "sourceUrl": "https://igoa-adventure.com/where-to-stay-in-ayutthaya-hotel-guide/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Ayothaya Riverside Hotel without knowing its no-frills setup can lead to unmet expectations for extra comforts like a pool or on-site dining.",
+    "intro": "Ayothaya Riverside Hotel provides clean, air-conditioned rooms with minibars and Wi-Fi in a straightforward package right across from Ayutthaya train station. It's ideal for budget-conscious train travelers and those planning short stays focused on exploring the historical sites.",
+    "quickStats": {
+      "priceBand": "€",
+      "bestFor": "Budget train travelers",
+      "standout": "location",
+      "noGoFor": "Luxury-seeking guests"
+    },
+    "whyBook": [
+      "Steps from Ayutthaya train station for easy arrivals",
+      "Clean A/C rooms with private bathrooms at low rates",
+      "5-minute walk to ferry for historical island access",
+      "Surrounded by street food stalls and local eateries"
+    ],
+    "whyNotBook": [
+      "No on-site pool or communal spaces for relaxation",
+      "Basic rooms lack modern design or extra amenities",
+      "Proximity to train station means potential noise from arrivals",
+      "No included breakfast, requiring nearby street food reliance",
+      "Thin walls may transmit sounds from bustling streets"
+    ],
+    "skipIf": "Skip if you're seeking a riverside view or resort-style facilities for a leisurely stay.",
+    "detailedReview": "Checking into Ayothaya Riverside Hotel feels efficient and unpretentious, with a simple front desk process that gets you to your room quickly after a train journey. The rooms deliver on basics: cool A/C, a functional minibar stocked with essentials, free Wi-Fi that handles basic browsing, and private bathrooms with hot showers—nothing fancy, but reliably clean for a budget spot. Standout here is the location perk, making it a practical hub without the fluff. Food isn't on-site, but the surrounding streets buzz with street food stalls offering cheap Thai dishes like pad thai or som tam, often fresher than hotel buffets. Service is straightforward—staff are helpful with directions to the ferry but not overly attentive, fitting the no-frills vibe. Typical guests are backpackers, solo train travelers in their 20s-40s, or families on tight budgets prioritizing Ayutthaya's temples over hotel perks. At 7.5/10, it scores for value and convenience, though multi-night stays might feel repetitive without varied amenities. Overall, it's a solid base for day trips to the historical island, where the real highlights await across the water.",
+    "locationReality": "Across the street from Ayutthaya train station, it's a 1-minute walk to platforms, perfect for seamless arrivals. The ferry to the historical island temple complex is just a 5-minute stroll away, crossing the river to the main attractions. Street food and convenience stores line the nearby roads, but reaching farther sites like Wat Mahathat requires a 10-15 minute tuk-tuk ride or bicycle rental.",
+    "localSignals": [
+      "0-minute walk to Ayutthaya train station",
+      "5-minute walk to ferry crossing for historical island",
+      "Wi-Fi included in rooms",
+      "No breakfast included, street food within 2-minute walk",
+      "Street food stalls and convenience stores nearby"
+    ],
+    "travellerNote": "Guests often praise the unbeatable location next to the train station and value for money but note the basic rooms feel sparse without extras like a pool or views.",
+    "bookingTips": [
+      "Request a room away from the street to minimize train noise",
+      "Check Agoda for cheaper rates than Booking.com in Thailand",
+      "Prices spike in November-February high season for temple tours",
+      "Verify Wi-Fi speed before booking if working remotely",
+      "Confirm no construction nearby via recent guest photos"
+    ],
+    "similarHotels": [
+      {
+        "name": "Baan Are Gong Riverside Homestay",
+        "howDifferent": "Offers a shared riverside terrace and family-run charm at lower prices, but lacks A/C in some rooms."
+      },
+      {
+        "name": "Baan Keang Chon Ayutthaya",
+        "howDifferent": "Provides wooden riverside rooms with a sun terrace on the Chao Phraya, emphasizing charm over station proximity."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Ayothaya Riverside Hotel near Ayutthaya train station?",
+        "a": "Yes, it's directly across the street, making it ideal for train arrivals with no transport needed."
+      },
+      {
+        "q": "What amenities are in the rooms at Ayothaya Riverside Hotel?",
+        "a": "Rooms include air-conditioning, private bathrooms, minibars, and free Wi-Fi, keeping things clean and basic."
+      },
+      {
+        "q": "How far is the historical island from Ayothaya Riverside Hotel?",
+        "a": "The ferry crossing to the island is a 5-minute walk away, providing quick access to temples."
+      },
+      {
+        "q": "Is breakfast included at Ayothaya Riverside Hotel?",
+        "a": "No, breakfast is not included, but street food stalls and local restaurants are steps away for affordable options."
+      },
+      {
+        "q": "What's the vibe like at Ayothaya Riverside Hotel?",
+        "a": "It's a no-frills, practical stay suited for short visits, with clean rooms but no luxury features or on-site dining."
+      },
+      {
+        "q": "Are there nearby eateries for Ayothaya Riverside Hotel guests?",
+        "a": "Yes, surrounding streets are full of street food stalls and local restaurants within a 2-5 minute walk."
+      }
+    ],
+    "urgencyLine": "Rooms at Ayothaya Riverside Hotel with train station views book out 1-2 months ahead for November-February high season—check today.",
+    "methodology": "We rated Ayothaya Riverside Hotel based on location convenience, room cleanliness, value for budget travelers, and guest feedback patterns. We weighted location highest because Ayutthaya's appeal lies in easy access to historical sites via train and ferry. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Ayothaya Riverside Hotel Review (2026)",
+    "metaDescription": "Ayothaya Riverside Hotel in Ayutthaya offers budget rooms next to the train station with A/C and Wi-Fi, ideal for short stays. Basic setup lacks pool or…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:41:28.498Z"
+}

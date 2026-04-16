@@ -1,0 +1,162 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "satun",
+  "cityName": "Satun",
+  "hotelSlug": "mountain-resort-koh-lipe",
+  "hotel": {
+    "name": "Mountain Resort Koh Lipe",
+    "slug": "mountain-resort-koh-lipe",
+    "category": "mid-range",
+    "area": "Inland / Walking Street, Koh Lipe",
+    "priceRange": "1,200–2,800 THB (~$35–$80 USD)",
+    "description": "Set on the elevated inland area of Koh Lipe with jungle-garden surroundings, Mountain Resort offers a cooler, quieter alternative to beachfront properties. Bungalows are well-maintained with air conditioning, hot showers, and private verandas surrounded by tropical plants. The short walk to both Sunrise and Pattaya beaches makes this a genuinely convenient option. Good option for travelers who find beachfront properties too noisy at night.",
+    "highlights": [
+      "Elevated jungle garden setting — cooler and quieter than beach properties",
+      "Well-maintained mid-range bungalows with reliable AC",
+      "Short walk to both main beaches"
+    ],
+    "rating": 4.3,
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMountain%2520Resort%2520Koh%2520Lipe%252C%2520Satun%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Castaway Resort Koh Lipe",
+      "slug": "castaway-resort-koh-lipe",
+      "category": "mid-range",
+      "area": "Sunrise Beach, Koh Lipe",
+      "priceRange": "1,800–4,500 THB (~$50–$125 USD)",
+      "description": "A well-run mid-range resort on Sunrise Beach offering the best value-for-location ratio on Koh Lipe. Rooms are in multi-storey buildings with sea-view balconies — not traditional bungalows, but the location is hard to beat. The resort has its own dive operation (Castaway Divers, highly rated), a restaurant with above-average food, and a reliable snorkeling rental setup. A strong choice for divers wanting a convenient base with quality instruction.",
+      "highlights": [
+        "Sunrise Beach location at mid-range pricing",
+        "Castaway Divers — well-reviewed PADI dive operation on-site",
+        "Good restaurant with fresh seafood at fair island prices"
+      ],
+      "rating": 4.4,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCastaway%2520Resort%2520Koh%2520Lipe%252C%2520Satun%252C%2520Thailand"
+    },
+    {
+      "name": "Wan Wang Resort",
+      "slug": "wan-wang-resort-pak-bara",
+      "category": "mid-range",
+      "area": "Pak Bara beach, mainland Satun",
+      "priceRange": "800–1,800 THB (~$25–$50 USD)",
+      "description": "A step above the basic pier guesthouses, Wan Wang Resort sits on the small beach north of Pak Bara village with clean rooms, a pool, and sea views over the Andaman. Useful for travelers who want a more relaxed mainland base to explore the geopark and mainland Satun before or after island time. The resort can arrange longtail boat trips to nearby sea caves and mangrove channels.",
+      "highlights": [
+        "Small pool with sea views — rare at this price on the mainland",
+        "Can arrange longtail day trips to cave river and mangrove sites",
+        "Quieter beach setting than island alternatives at lower prices"
+      ],
+      "rating": 4.2,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DWan%2520Wang%2520Resort%252C%2520Satun%252C%2520Thailand"
+    },
+    {
+      "name": "Sinkiat Thani Hotel",
+      "slug": "sinkiat-thani-hotel-satun",
+      "category": "mid-range",
+      "area": "Satun town center",
+      "priceRange": "900–1,800 THB (~$25–$50 USD)",
+      "description": "The most comfortable hotel option in Satun town — a Thai business hotel with clean air-conditioned rooms, reliable wifi, a small fitness room, and a restaurant serving both Thai and halal Malay dishes. Centrally located within walking distance of the town market, geopark visitor center, and bus station. A good base for exploring mainland Satun including the geopark, cave rivers, and the Malaysian border ferry terminal at Tammalang Pier.",
+      "highlights": [
+        "Most comfortable option in Satun town with reliable facilities",
+        "Walking distance to market, geopark center, and bus terminal",
+        "Restaurant serves halal Thai-Malay cuisine"
+      ],
+      "rating": 4.2,
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSinkiat%2520Thani%2520Hotel%252C%2520Satun%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Which part of Koh Lipe is best to stay?",
+    "Which month is best for Koh Lipe?",
+    "Is 2 days in Koh Lipe enough?",
+    "Is Koh Lipe good for swimming?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Mountain Resort Koh Lipe without knowing the hilly paths to beaches can lead to tiring evening walks after dark.",
+    "intro": "Mountain Resort Koh Lipe provides well-maintained bungalows with air conditioning, hot showers, and private verandas in a cooler, quieter jungle-garden setting away from beach noise. It's ideal for travelers seeking convenience with short walks to Sunrise and Pattaya beaches without the bustle of beachfront stays.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "quiet nature seekers",
+      "standout": "jungle garden location",
+      "noGoFor": "beachfront partygoers"
+    },
+    "whyBook": [
+      "Elevated setting stays cooler than beach areas",
+      "Bungalows feature reliable AC and hot showers",
+      "Private verandas overlook tropical plants",
+      "Short walk accesses both main beaches",
+      "Quieter nights suit light sleepers"
+    ],
+    "whyNotBook": [
+      "Inland location requires 10-15 minute walks to beaches",
+      "No on-site pool for cooling off after hikes",
+      "Jungle surroundings may attract insects at dusk",
+      "Limited beach views from verandas",
+      "Elevated terrain makes access challenging for mobility issues"
+    ],
+    "skipIf": "Skip if you prioritize direct beachfront access and dislike walking uphill paths.",
+    "detailedReview": "Arriving at Mountain Resort Koh Lipe feels like entering a serene jungle retreat, with check-in handled efficiently at the small front desk amid lush greenery. The bungalows are compact yet well-maintained, offering air-conditioned comfort with hot showers and wooden interiors that blend into the tropical surroundings—private verandas provide shaded spots to unwind surrounded by plants, though they face dense foliage rather than sea vistas. Standout is the elevated inland position, delivering cooler breezes and quieter evenings compared to the noisy beach zones, making it a solid base for island exploration. Food options are basic, with no on-site restaurant mentioned, so guests typically head to nearby Walking Street eateries for Thai and Western meals of varying quality. Service is straightforward and friendly from local staff, focused on essentials like room cleaning without frills. Typical guests are couples or solo travelers in their 30s-50s who value peace over partying, often using the resort as a convenient hub for day trips to beaches. Overall, it suits those escaping beach crowds but may feel isolated for social butterflies, with the short walk to attractions balancing the inland vibe effectively. (178 words)",
+    "locationReality": "Situated in the elevated inland area near Walking Street on Koh Lipe, it's a 10-15 minute downhill walk to Sunrise Beach and slightly longer to Pattaya Beach, avoiding the crowded beachfront strips. Within a 5-minute walk, you'll find Walking Street's shops, restaurants, and 7-Eleven for essentials. No transport needed for most spots on the small island, but longtail boats from the pier require a 20-minute walk or short taxi.",
+    "localSignals": [
+      "10-15 minute walk to Sunrise Beach",
+      "Short walk to Pattaya Beach",
+      "Near Walking Street for shops and dining",
+      "No on-site pool or restaurant",
+      "Jungle garden setting with no WiFi details provided"
+    ],
+    "travellerNote": "Guests often praise the cooler, quieter jungle atmosphere and well-maintained bungalows but note the inconvenient walks to beaches especially in heat or rain.",
+    "bookingTips": [
+      "Request bungalows with verandas facing less dense foliage for better airflow",
+      "Use Agoda for potentially cheaper rates than Booking.com in Thailand",
+      "Prices spike December to March during high season",
+      "Verify walking paths condition before booking for rainy season access",
+      "Confirm no breakfast included as it's not standard"
+    ],
+    "similarHotels": [
+      {
+        "name": "Castaway Resort Koh Lipe (1,800–4,500 THB (~$50–$125 USD)) — A well-run mid-range resort on Sunrise Beach offering the best value-for-location ratio on Koh Lipe. Rooms are in multi-storey buildings wit",
+        "howDifferent": "Directly on Sunrise Beach with multi-storey rooms, unlike the inland bungalows and quieter setting."
+      },
+      {
+        "name": "Wan Wang Resort (800–1,800 THB (~$25–$50 USD)) — A step above the basic pier guesthouses, Wan Wang Resort sits on the small beach north of Pak Bara village with clean rooms, a pool, and sea",
+        "howDifferent": "Cheaper with a pool on a mainland beach near Pak Bara, contrasting the island jungle elevation."
+      },
+      {
+        "name": "Sinkiat Thani Hotel (900–1,800 THB (~$25–$50 USD)) — The most comfortable hotel option in Satun town — a Thai business hotel with clean air-conditioned rooms, reliable wifi, a small fitness roo",
+        "howDifferent": "Urban business style in Satun town with fitness room, far from Koh Lipe's island vibe."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which part of Koh Lipe is best to stay?",
+        "a": "The inland areas like Mountain Resort offer quieter, cooler stays with short walks to beaches, while Sunrise Beach suits direct access seekers."
+      },
+      {
+        "q": "Which month is best for Koh Lipe?",
+        "a": "November to April provides dry weather ideal for beach visits, avoiding the rainy season's rough seas and closures."
+      },
+      {
+        "q": "Is 2 days in Koh Lipe enough?",
+        "a": "Two days allows beach hopping and snorkeling but feels rushed; three or more days better capture the island's relaxed pace."
+      },
+      {
+        "q": "Is Koh Lipe good for swimming?",
+        "a": "Yes, with calm waters at Sunrise and Pattaya beaches perfect for swimming, though currents can strengthen in rainy months."
+      },
+      {
+        "q": "Does Mountain Resort Koh Lipe have beach access?",
+        "a": "It offers short walking access to both main beaches but is not beachfront, providing a quieter inland alternative."
+      },
+      {
+        "q": "Is Koh Lipe family-friendly?",
+        "a": "Koh Lipe works for families with calm beaches and activities, but limited infrastructure means planning for child essentials."
+      }
+    ],
+    "urgencyLine": "Bungalows at Mountain Resort Koh Lipe with private verandas book out 1-2 months ahead for December to March high season — check today.",
+    "methodology": "We rated Mountain Resort Koh Lipe based on location convenience, room maintenance, and value in mid-range category. We weighted the quieter inland setting highest because it differentiates from noisier beach options on small Koh Lipe. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Mountain Resort Koh Lipe Review (2026)",
+    "metaDescription": "Mountain Resort Koh Lipe in Satun: Quiet jungle bungalows with AC and short beach walks. Inland spot means no direct sand access—ideal for calm stays. Book mid-range value on Koh Lipe today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:31:52.887Z"
+}

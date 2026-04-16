@@ -1,0 +1,132 @@
+{
+  "template": "area-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "areaSlug": "huay-kaew",
+  "areaName": "Huay Kaew",
+  "neighborhood": {
+    "name": "Huay Kaew",
+    "description": "Huay Kaew is the area around Chiang Mai University and the road leading to Doi Suthep mountain. It features cafes, small eateries, and access to Huay Kaew Waterfall. The neighborhood is popular for its proximity to nature trails and university vibe.",
+    "bestFor": "digital nomads, couples",
+    "priceLevel": "€–€€",
+    "highlights": [
+      "Chiang Mai University",
+      "Huay Kaew Waterfall",
+      "Doi Suthep Road cafes"
+    ],
+    "walkingScore": "Medium",
+    "transportNotes": [
+      "Songthaews from Old City to university",
+      "Tuk-tuks to Doi Suthep Temple"
+    ],
+    "recommendedHotels": [],
+    "sources": [
+      {
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Huay_Kaew_Waterfall"
+      },
+      {
+        "sourceName": "Travelfish",
+        "sourceUrl": "https://www.travelfish.org/bangkok_to_chiang_mai/chiang_mai_beyond_the_old_city/huay_kaew"
+      }
+    ]
+  },
+  "hotels": [],
+  "nearbyAreas": [
+    "Old City (Within the Moat)",
+    "Nimmanhaemin (Nimman)",
+    "Night Bazaar / Chang Khlan",
+    "Riverside (Wat Ket / Charoen Rat)",
+    "Santitham"
+  ],
+  "paaQuestions": [
+    "What area in Chiang Mai is the best to stay?",
+    "What is the nicest neighborhood in Chiang Mai?",
+    "What to be careful of in Chiang Mai?",
+    "Is homestay cheaper than hotel?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong part of Huay Kaew can isolate you from university cafes and nature trails — most first-timers book spots too far up Doi Suthep Road and miss the easy access.",
+    "intro": "Huay Kaew stands out for its blend of academic energy around Chiang Mai University and quick escapes to Doi Suthep mountain trails and Huay Kaew Waterfall. We ranked it highly for digital nomads and couples seeking a balanced, mid-range spot with medium walkability and a relaxed university vibe.",
+    "vibe": "Academic + trail-accessible",
+    "quickStats": {
+      "priceBand": "€-€€",
+      "walkability": "Medium",
+      "bestFor": "digital nomads and couples",
+      "safetyNote": "Safe overall, watch for road traffic near university."
+    },
+    "detailedDescription": "In Huay Kaew, mornings start with students cycling to Chiang Mai University classes, filling the streets with chatter and the smell of fresh coffee from roadside cafes along Doi Suthep Road. Locals include academics, young professionals, and families drawn to the area's affordability and green spaces, while daytime brings a steady hum of foot traffic to small eateries serving khao soi and sticky rice. As evening sets in, the pace slows; university crowds thin out, leaving quieter sidewalks where couples stroll toward trailheads for sunset views. Noise levels stay moderate—occasional motorbikes zip by, but it's far from the Old City's constant buzz, with residential pockets offering real calm after 9pm. The food scene revolves around casual spots: think hole-in-the-wall noodle shops near campus and cafes with Western-style brunch, all priced accessibly. Getting around means hopping songthaews from the Old City (red trucks that stop at university gates for 20-40 THB) or negotiating tuk-tuks for the 10-15 minute ride up to Doi Suthep Temple. Walks to the waterfall involve a short, shaded path that's popular on weekends, but the hilly terrain can feel steep without transport. Overall, it's a neighborhood where work-from-cafe days blend seamlessly into afternoon hikes, appealing to those who want substance over spectacle.",
+    "localSignals": [
+      "Songthaew stops at Chiang Mai University entrance, 0-5 minutes walk from central accommodations.",
+      "Typical Grab/taxi from Chiang Mai Airport (CNX): 30-45 minutes, cost varies around 250-400 THB.",
+      "Distance to Huay Kaew Waterfall: 2-3 km, 10-minute drive or 30-45 minute hike from university area.",
+      "Noise level at night: moderate, with occasional traffic on Doi Suthep Road until 10pm.",
+      "Nearest conveniences: 7-Eleven and Big C Mini clusters within 300-500m of Chiang Mai University gates."
+    ],
+    "pros": [
+      "Easy access to nature trails and waterfall.",
+      "University cafes ideal for remote work.",
+      "Affordable eateries with local flavors.",
+      "Relaxed vibe for couples' escapes.",
+      "Proximity to Doi Suthep Temple views."
+    ],
+    "cons": [
+      "Hilly roads make walking to trails tiring.",
+      "Student crowds peak during term time.",
+      "Limited nightlife options after 10pm.",
+      "Songthaews can be inconsistent on rainy days.",
+      "Fewer upscale dining spots than Nimman."
+    ],
+    "skipIf": "Skip if you're traveling with young kids who need flat terrain and constant entertainment.",
+    "compareTo": [
+      {
+        "areaName": "Old City (Within the Moat)",
+        "shortPitch": "Old City offers historic temples and higher walkability within fortified walls, unlike Huay Kaew's spread-out university and trail focus.",
+        "recommendFor": "history buffs and families"
+      },
+      {
+        "areaName": "Nimmanhaemin (Nimman)",
+        "shortPitch": "Nimman delivers trendy bars and shopping malls with more buzz, contrasting Huay Kaew's quieter academic and nature emphasis.",
+        "recommendFor": "party seekers and shoppers"
+      },
+      {
+        "areaName": "Santitham",
+        "shortPitch": "Santitham provides budget hostels and laid-back riverside feels, differing from Huay Kaew's university-driven cafes and hikes.",
+        "recommendFor": "backpackers on tight budgets"
+      }
+    ],
+    "travellerNote": "Travellers often praise Huay Kaew for its inspiring university atmosphere and convenient trail access but note the occasional inconvenience of relying on songthaews for city connections.",
+    "faq": [
+      {
+        "q": "What area in Chiang Mai is the best to stay?",
+        "a": "The best area depends on your vibe—Huay Kaew suits digital nomads and couples with its university cafes and nature trails; for history, try Old City instead."
+      },
+      {
+        "q": "What is the nicest neighborhood in Chiang Mai?",
+        "a": "Huay Kaew ranks as a nice pick for its relaxed academic feel and waterfall proximity, though Nimman edges it for upscale niceties like trendy spots."
+      },
+      {
+        "q": "What to be careful of in Chiang Mai?",
+        "a": "In Huay Kaew, watch for fast motorbikes on Doi Suthep Road and negotiate tuk-tuk fares upfront; overall, stick to well-lit paths at night."
+      },
+      {
+        "q": "Is homestay cheaper than hotel?",
+        "a": "Homestays in Huay Kaew often run 30-50% cheaper than mid-range hotels, offering family-run vibes near the university—book via Airbnb for deals."
+      },
+      {
+        "q": "How to get to Huay Kaew Waterfall?",
+        "a": "From central Huay Kaew, it's a 30-minute hike or 10-minute tuk-tuk ride; wear sturdy shoes for the trail and go early to avoid crowds."
+      },
+      {
+        "q": "Best cafes in Huay Kaew?",
+        "a": "Doi Suthep Road cafes near Chiang Mai University offer great coffee and workspaces—recommend trying those with outdoor seating for mountain views."
+      }
+    ],
+    "urgencyLine": "Accommodations near Chiang Mai University in Huay Kaew fill up fast during term starts and trekking season—secure spots 1-2 months ahead for 2026.",
+    "methodology": "We compared Huay Kaew to Old City (Within the Moat) and Nimmanhaemin (Nimman) based on walkability, price level, noise, and suitability for its typical travellers. We weighted proximity to nature highest because digital nomads and couples prioritize escapes from urban density. Last updated: 2026-04.",
+    "metaTitle": "Staying in Huay Kaew, Chiang Mai (2026)",
+    "metaDescription": "Discover staying in Huay Kaew, Chiang Mai: university vibe, cafes, and waterfall access at €-€€ prices. Ideal for digital nomads—compare areas and see…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:21:13.088Z"
+}

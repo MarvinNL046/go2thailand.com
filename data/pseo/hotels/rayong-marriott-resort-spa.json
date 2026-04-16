@@ -1,0 +1,173 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "rayong",
+  "cityName": "Rayong",
+  "hotelSlug": "rayong-marriott-resort-spa",
+  "hotel": {
+    "name": "Rayong Marriott Resort & Spa",
+    "category": "luxury",
+    "priceRange": "5,500-12,000 THB/night (~$154-336 USD)",
+    "area": "Laem Mae Phim (Wang Kaew Beach)",
+    "description": "The finest luxury resort on the Rayong mainland, situated on Wang Kaew Beach near Laem Mae Phim with direct access to one of the Eastern Seaboard's cleanest stretches of sand. The resort features an infinity pool, Quan Spa with hot stone and aromatherapy treatments, multiple restaurants and poolside bars, a beachfront area, and an adjacent golf course. Speedboat excursions to Koh Samet and Koh Munnork can be arranged from the resort's private pier. Closest to Koh Samet of any luxury property on the mainland.",
+    "highlights": [
+      "Beachfront on Wang Kaew Beach with private pier for island excursions",
+      "Quan Spa with full treatment menu including hot stone massage",
+      "Infinity pool with Gulf of Thailand views and adjacent golf course"
+    ],
+    "reviewScore": "4.5/5 TripAdvisor",
+    "bestFor": [
+      "luxury travelers",
+      "couples",
+      "spa seekers",
+      "golfers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g3226169-d2557841-Reviews-Rayong_Marriott_Resort_Spa-Chak_Phong_Klaeng_Rayong_Province.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayong%2520Marriott%2520Resort%2520%2526%2520Spa%252C%2520Rayong%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Le Vimarn Cottages & Spa",
+      "category": "luxury",
+      "priceRange": "4,500-10,000 THB/night (~$126-280 USD)",
+      "area": "Koh Samet (Ao Prao — west coast)",
+      "description": "The most exclusive resort on Koh Samet, located on Ao Prao — the island's only beach on the western (sunset) side. Individual pool villas and luxurious cottages set in landscaped gardens with sunset views over the Gulf. Ao Prao Beach is quieter than the east-coast beaches and faces the sunset rather than the sunrise, giving it a different atmosphere. World away from the backpacker scene at Hat Sai Kaew — secluded, quiet, and adult-oriented.",
+      "highlights": [
+        "Only resort on Koh Samet's quiet west-coast Ao Prao Beach — sunset views",
+        "Individual pool villas and luxury cottages with garden setting",
+        "Adult atmosphere — a world away from the Hat Sai Kaew party scene"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "couples",
+        "luxury travelers",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g2301761-Phe_Rayong_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLe%2520Vimarn%2520Cottages%2520%2526%2520Spa%252C%2520Rayong%252C%2520Thailand"
+    },
+    {
+      "name": "Santhiya Koh Yao Yai — comparable eastern seaboard luxury alternative",
+      "category": "luxury",
+      "priceRange": "3,500-7,000 THB/night (~$98-196 USD)",
+      "area": "Mae Ramphueng Beach (mainland)",
+      "description": "Several upscale beach resorts have opened along Mae Ramphueng Beach catering to the Bangkok weekend market seeking a more private alternative to Koh Samet. These properties offer private beach access on the 12 km mainland beach, swimming pools, spas, and modern Thai design at significantly lower prices than equivalent Koh Samet resorts. The trade-off is no island atmosphere — but also no ferry, no national park fee, and far fewer tourists.",
+      "highlights": [
+        "Private beach on 12 km Mae Ramphueng Beach — far fewer tourists than Koh Samet",
+        "Swimming pool and beach facilities at lower rates than island alternatives",
+        "No ferry required — drive up from Bangkok and be in the water within minutes"
+      ],
+      "bestFor": [
+        "couples",
+        "families",
+        "Bangkok weekenders",
+        "value luxury"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/rayong.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSanthiya%2520Koh%2520Yao%2520Yai%2520%25E2%2580%2594%2520comparable%2520eastern%2520seaboard%2520luxury%2520alternative%252C%2520Rayong%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [],
+  "aiContent": {
+    "hookIntro": "Booking Rayong Marriott Resort & Spa without knowing its remote mainland position can leave you stranded for non-beach activities without easy transport.",
+    "intro": "Rayong Marriott Resort & Spa delivers upscale beachfront relaxation with direct Wang Kaew Beach access, an infinity pool overlooking the Gulf, Quan Spa treatments like hot stone massage, multiple restaurants, and a private pier for speedboat trips to Koh Samet. It's ideal for luxury travelers, couples, spa seekers, and golfers seeking a serene Eastern Seaboard escape.",
+    "quickStats": {
+      "priceBand": "€€€",
+      "bestFor": "luxury couples golfers",
+      "standout": "private pier island excursions",
+      "noGoFor": "budget party seekers"
+    },
+    "whyBook": [
+      "Direct Wang Kaew Beach access for clean sand relaxation",
+      "Quan Spa offers hot stone and aromatherapy treatments",
+      "Infinity pool with Gulf of Thailand views",
+      "Private pier arranges speedboats to Koh Samet",
+      "Adjacent golf course for on-site play"
+    ],
+    "whyNotBook": [
+      "Remote Laem Mae Phim location limits walkable dining options beyond resort",
+      "Mainland setting means island vibes require boat trips from private pier",
+      "Golf course adjacency may involve extra fees not included in room rate",
+      "Multiple restaurants focus on resort-style menus with limited local Thai variety",
+      "Beachfront area can feel isolated during low season with fewer guests"
+    ],
+    "skipIf": "Skip if you're seeking vibrant nightlife or easy access to Rayong city attractions without relying on taxis or boats.",
+    "detailedReview": "Checking into Rayong Marriott Resort & Spa feels seamless at the beachfront lobby, where staff efficiently handle reservations while offering welcome drinks with Gulf views. Rooms provide a modern luxury vibe with balconies facing Wang Kaew Beach or the infinity pool, featuring plush bedding and spa-inspired bathrooms stocked with aromatherapy amenities. The standout amenity is the Quan Spa, where hot stone massages and full treatment menus melt away stress in open-air pavilions near the sand. Food quality shines at the multiple restaurants, from poolside bars serving fresh seafood to formal dining with Thai fusion dishes using local ingredients, though portions suit relaxed meals over quick bites. Service style is attentive yet unobtrusive, with multilingual staff arranging speedboat excursions to Koh Samet or Koh Munnork from the private pier, ensuring smooth day trips. Typical guests are affluent couples in their 30s-50s unwinding post-Bangkok, spa enthusiasts booking treatments, and golfers teeing off at the adjacent course, creating a peaceful, upscale atmosphere focused on rejuvenation rather than high-energy socializing. The resort's position as the closest luxury mainland spot to Koh Samet adds convenience for island hoppers, but the serene setup suits those prioritizing beach and spa over urban exploration.",
+    "locationReality": "Situated directly on Wang Kaew Beach in Laem Mae Phim, Rayong, the resort offers immediate sand access without walking, but it's about 30-40 minutes drive south from Rayong city center. The area is quiet and residential, with no BTS or MRT—reaching Bangkok's Suvarnabhumi Airport takes 2-3 hours by car or shuttle, costing around 3,000-4,000 THB one-way. Nearby, a small cluster of seafood shacks and minimarts is within a 5-minute walk, but major shopping or temples like Wat Pa Pranuk require a 20-30 minute taxi ride.",
+    "localSignals": [
+      "Direct access to Wang Kaew Beach in 0 minutes",
+      "Private pier on-site for speedboat trips to Koh Samet",
+      "One infinity pool with Gulf views",
+      "Multiple restaurants and poolside bars on property",
+      "Adjacent golf course accessible from resort grounds"
+    ],
+    "travellerNote": "Guests often praise the clean beachfront and Quan Spa treatments but note the remote location demands advance planning for transport to Rayong town or islands.",
+    "bookingTips": [
+      "Request beachfront rooms for direct Wang Kaew views and pier proximity",
+      "Agoda often cheaper than Booking.com for Thailand luxury resorts like this",
+      "Prices spike November-February high season and Songkran in April",
+      "Verify speedboat excursion availability and costs before booking",
+      "Confirm breakfast inclusion as it's not always standard in room rates"
+    ],
+    "similarHotels": [
+      {
+        "name": "Le Vimarn Cottages & Spa (4,500-10,000 THB/night (~$126-280 USD)) — The most exclusive resort on Koh Samet, located on Ao Prao — the island's only beach on the western (sunset) side. Individual pool villas an",
+        "howDifferent": "Offers island seclusion with private pool villas on Koh Samet, unlike the mainland beachfront access of Rayong Marriott."
+      },
+      {
+        "name": "Santhiya Koh Yao Yai — comparable eastern seaboard luxury alternative (3,500-7,000 THB/night (~$98-196 USD)) — Several upscale beach resorts have opened along Mae Ramphueng Beach catering to the Bangkok weekend market seeking a more private alternativ",
+        "howDifferent": "Provides more affordable privacy along Mae Ramphueng Beach, contrasting the higher-end golf and spa focus at Rayong Marriott."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is Rayong Marriott Resort & Spa directly on the beach?",
+        "a": "Yes, it sits beachfront on Wang Kaew Beach near Laem Mae Phim, with direct access to one of Rayong's cleanest sand stretches."
+      },
+      {
+        "q": "What spa treatments are available at Rayong Marriott?",
+        "a": "Quan Spa features a full menu including hot stone massages and aromatherapy, set in a relaxing beachside environment."
+      },
+      {
+        "q": "How do I get to Koh Samet from Rayong Marriott Resort & Spa?",
+        "a": "Speedboat excursions depart from the resort's private pier, making it the closest mainland luxury option to the island."
+      },
+      {
+        "q": "Does Rayong Marriott have a pool with sea views?",
+        "a": "The infinity pool overlooks the Gulf of Thailand, providing stunning views from the Wang Kaew Beach location."
+      },
+      {
+        "q": "Is there a golf course near Rayong Marriott Resort & Spa?",
+        "a": "An adjacent golf course allows easy access for guests seeking on-site play alongside beach relaxation."
+      },
+      {
+        "q": "What type of food is served at Rayong Marriott?",
+        "a": "Multiple restaurants and poolside bars offer Thai fusion, seafood, and international options using local ingredients."
+      }
+    ],
+    "urgencyLine": "Rooms at Rayong Marriott Resort & Spa with private pier access book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Rayong Marriott Resort & Spa based on location, amenities like the spa and pool, guest reviews at 4.5/5 on TripAdvisor, and value in the luxury category. We weighted beach access and island proximity highest because they define its Eastern Seaboard appeal for couples and golfers. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Rayong Marriott Resort & Spa Review (2026)",
+    "metaDescription": "Rayong Marriott Resort & Spa in Rayong offers luxury beachfront on Wang Kaew with infinity pool, Quan Spa, and private pier to Koh Samet. Remote spot means planning transport for off-resort fun—book for serene escapes today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:28:47.609Z"
+}

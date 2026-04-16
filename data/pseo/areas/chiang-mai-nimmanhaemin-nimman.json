@@ -1,0 +1,165 @@
+{
+  "template": "area-deep",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "areaSlug": "nimmanhaemin-nimman",
+  "areaName": "Nimmanhaemin (Nimman)",
+  "neighborhood": {
+    "name": "Nimmanhaemin (Nimman)",
+    "description": "Chiang Mai's trendiest neighborhood, located just west of the Old City near Chiang Mai University. Sois 1–17 are packed with specialty coffee shops, design boutiques, co-working spaces, art galleries, and international restaurants. This is where digital nomads and young professionals congregate.",
+    "bestFor": "Digital nomads & coffee lovers",
+    "priceLevel": "Mid-Range",
+    "highlights": [
+      "Thailand's highest concentration of specialty coffee shops",
+      "MAYA Lifestyle Shopping Center as the area hub",
+      "Co-working spaces: CAMP (free at MAYA), Punspace, Hub53",
+      "Excellent international dining — Japanese, Korean, Italian, vegan",
+      "Soi 9 and Soi 11 have the best nightlife options"
+    ],
+    "recommendedHotels": [
+      "Sireeampan Boutique Resort & Spa"
+    ],
+    "walkingScore": "7/10",
+    "transportNotes": [
+      "10-minute songthaew ride to Old City (30 THB)",
+      "Grab rides to Old City cost 50–80 THB",
+      "Very walkable within Nimman itself"
+    ],
+    "sources": [
+      {
+        "sourceName": "Lonely Planet",
+        "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+        "lastVerified": "2026-03-13"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Sireeampan Boutique Resort & Spa",
+      "category": "luxury",
+      "priceRange": "3,500–7,000 THB/night (~$100–196 USD)",
+      "area": "North of Nimman",
+      "description": "A beautifully designed boutique resort inspired by Thai temple architecture. Ornate Lanna craftsmanship throughout, a tranquil pool area, and a full-service spa. Quieter location north of the Nimman buzz but with easy access.",
+      "highlights": [
+        "Temple-inspired architecture unique to Chiang Mai",
+        "Full spa with traditional Thai treatments",
+        "Peaceful garden setting"
+      ],
+      "bestFor": [
+        "couples",
+        "relaxation seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSireeampan%2520Boutique%2520Resort%2520%2526%2520Spa%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "nearbyAreas": [
+    "Old City (Within the Moat)",
+    "Night Bazaar / Chang Khlan",
+    "Riverside (Wat Ket / Charoen Rat)",
+    "Santitham",
+    "Chang Phuak"
+  ],
+  "paaQuestions": [
+    "What area in Chiang Mai is the best to stay?",
+    "Is One Nimman worth visiting?",
+    "Where to stay in Chiang Mai, Nimmman?",
+    "What is the coolest neighborhood in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong soi in Nimmanhaemin (Nimman) can leave you isolated from the coffee shops and co-working spaces — most first-timers book too far from Soi 3 without realizing the area's spread-out layout.",
+    "intro": "Nimmanhaemin, or Nimman, stands out as Chiang Mai's trendiest spot for digital nomads and coffee enthusiasts, with sois packed with specialty cafes, boutiques, and international eats near Chiang Mai University. We ranked it high for its mid-range prices, solid walkability within the neighborhood, and concentration of modern amenities over more traditional areas.",
+    "vibe": "Trendy + nomadic",
+    "quickStats": {
+      "priceBand": "€€",
+      "walkability": "Medium",
+      "bestFor": "Digital nomads & coffee lovers",
+      "safetyNote": "Safe overall, watch belongings in crowded sois at night."
+    },
+    "detailedDescription": "In Nimmanhaemin, mornings start with the hum of laptops in specialty coffee shops like those on Soi 3, where digital nomads sip single-origin brews amid minimalist decor and free Wi-Fi. Young professionals and expats fill co-working spots like Punspace during the day, blending work with casual networking over avocado toast at vegan cafes. Streets like Soi 9 buzz with boutique shoppers eyeing Thai design pieces, while MAYA Lifestyle Shopping Center serves as the central anchor for grabbing groceries or a quick mall bite. As evening hits, the scene shifts to international dinners—think ramen joints or Italian trattorias—before Soi 11's bars draw crowds for craft cocktails until midnight. Noise levels stay moderate on main roads but pick up in nightlife pockets, rarely overwhelming the residential edges. Food options cater to global tastes with Korean BBQ or Japanese izakayas, all within a 10-minute walk for most. Getting around is easy on foot inside Nimman, but songthaews or Grabs are essential for the 10-minute hop to the Old City, costing 30 THB or 50-80 THB respectively. It's a self-contained hub where work, eat, and play overlap without the temple crowds elsewhere.",
+    "localSignals": [
+      "No BTS/MRT; nearest songthaew stop at Huay Kaew Road junction, 5-minute walk.",
+      "Typical Grab from Chiang Mai Airport: 200-300 THB, 20-30 minutes.",
+      "Distance to MAYA Lifestyle Shopping Center: central hub, 0-10 minute walk depending on soi.",
+      "Noise level at night: moderate on main sois, louder near Soi 9 and 11 bars until 1am.",
+      "Nearest convenience: 7-Eleven clusters every 200-300 meters on Soi 1-3, plus pharmacies at MAYA."
+    ],
+    "pros": [
+      "Abundant specialty coffee shops nearby",
+      "Co-working spaces like Punspace integrated",
+      "Diverse international dining options",
+      "Walkable to MAYA shopping center",
+      "Easy songthaew access to Old City"
+    ],
+    "cons": [
+      "Nightlife noise on Soi 9 until late",
+      "Higher mid-range prices than Old City",
+      "Songthaews can be inconsistent after 10pm",
+      "Limited street parking for longer stays",
+      "Crowded sidewalks during university rush hours"
+    ],
+    "skipIf": "Skip if you're seeking quiet temple vibes or ultra-budget guesthouses under 1,000 THB.",
+    "stayRecommendations": [
+      {
+        "name": "Sireeampan Boutique Resort & Spa",
+        "why": "This luxury boutique fits Nimman’s trendy aesthetic with its Lanna-inspired design and spa, offering a serene escape just steps from the neighborhood’s coffee and co-working hubs."
+      }
+    ],
+    "compareTo": [
+      {
+        "areaName": "Old City (Within the Moat)",
+        "shortPitch": "Old City offers historic temples and moat-side walks instead of Nimman's modern cafes and boutiques, with more traditional Thai eateries over international ones.",
+        "recommendFor": "Culture seekers and families"
+      },
+      {
+        "areaName": "Night Bazaar / Chang Khlan",
+        "shortPitch": "Night Bazaar focuses on shopping stalls and street food markets rather than Nimman's co-working and specialty coffee scene, with louder evening crowds.",
+        "recommendFor": "Shoppers and bargain hunters"
+      },
+      {
+        "areaName": "Riverside (Wat Ket / Charoen Rat)",
+        "shortPitch": "Riverside provides relaxed riverside cafes and local markets away from Nimman's urban nomad energy, emphasizing chill vibes over nightlife.",
+        "recommendFor": "Laid-back explorers"
+      }
+    ],
+    "travellerNote": "Travellers often praise Nimman's concentration of quality coffee shops and walkable international dining but note the occasional noise from nearby bars and higher costs compared to outer areas.",
+    "faq": [
+      {
+        "q": "What area in Chiang Mai is the best to stay?",
+        "a": "Nimmanhaemin suits digital nomads best for its coffee and co-working scene, but Old City is ideal for history lovers—choose based on your priorities like work or temples."
+      },
+      {
+        "q": "Is One Nimman worth visiting?",
+        "a": "Yes, One Nimman is a key spot in the neighborhood with trendy shops and cafes; visit for its modern vibe and grab a coffee while exploring Soi 1."
+      },
+      {
+        "q": "Where to stay in Chiang Mai, Nimman?",
+        "a": "Stay near Soi 3 for easy access to coffee shops and MAYA; consider Sireeampan Boutique Resort for a luxurious base in this mid-range area."
+      },
+      {
+        "q": "What is the coolest neighborhood in Chiang Mai?",
+        "a": "Nimmanhaemin is the coolest for its hip, nomadic atmosphere with art galleries and international eats—perfect if you want trendy over traditional."
+      },
+      {
+        "q": "How walkable is Nimman in Chiang Mai?",
+        "a": "With a 7/10 score, it's highly walkable within sois for cafes and shops, but use Grabs for Old City trips."
+      },
+      {
+        "q": "Best nightlife in Nimman?",
+        "a": "Soi 9 and Soi 11 offer the top bars and international spots; head there for cocktails after dinner at nearby restaurants."
+      }
+    ],
+    "urgencyLine": "Prime spots near Soi 3 in Nimmanhaemin book up fast with digital nomads during cool season—secure rooms 2-3 months ahead for 2026.",
+    "methodology": "We compared Nimmanhaemin to Old City (Within the Moat) and Night Bazaar / Chang Khlan based on walkability, price level, noise, and suitability for digital nomads and coffee lovers. We weighted walkability and co-working access highest because they define the area's appeal for its target crowd over sightseeing. Last updated: 2026-04.",
+    "metaTitle": "Staying in Nimmanhaemin (Nimman), Chiang Mai (2026)",
+    "metaDescription": "Discover staying in Nimmanhaemin (Nimman), Chiang Mai's trendy hub for digital nomads with top coffee shops and walkable sois. Mid-range vibe near…"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:19:04.752Z"
+}

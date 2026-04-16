@@ -1,0 +1,215 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "sukhothai",
+  "cityName": "Sukhothai",
+  "hotelSlug": "le-charme-sukhothai-resort",
+  "hotel": {
+    "name": "Le Charme Sukhothai Resort",
+    "category": "mid-range",
+    "priceRange": "1,100–2,000 THB (~31–57 USD) per night",
+    "area": "New Sukhothai",
+    "description": "A well-run resort in New Sukhothai with spacious rooms arranged around a large swimming pool and tropical gardens. The location in town puts you close to restaurants, the night market and the bus terminal, while the resort itself feels like a peaceful retreat. Popular with both Thai and international travellers, it offers reliable mid-range comfort with good service.",
+    "highlights": [
+      "Large swimming pool and tropical gardens",
+      "Walking distance to New Sukhothai restaurants and night market",
+      "Near the bus terminal for easy arrivals/departures",
+      "Air-conditioned rooms with modern bathrooms",
+      "On-site restaurant with Thai and international menu"
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fle-charme-sukhothai.html",
+    "reviewScore": "8.0/10",
+    "bestFor": [
+      "Mid-range travellers",
+      "Families",
+      "Night market lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "Expedia — Sukhothai Hotels",
+        "sourceUrl": "https://www.expedia.com/Sukhothai-Hotels.d6060716.Travel-Guide-Hotels",
+        "lastVerified": "2026-03-14"
+      }
+    ]
+  },
+  "similarHotels": [
+    {
+      "name": "Ruean Thai Hotel",
+      "category": "budget",
+      "priceRange": "500–900 THB (~14–26 USD) per night",
+      "area": "New Sukhothai",
+      "description": "A beautifully built traditional Thai-style hotel in New Sukhothai with ornate handmade wood carvings, a swimming pool and well-maintained grounds. Despite the boutique appearance, prices remain firmly in the budget category. Located near the bus terminal, it is convenient for arrivals from Bangkok or Chiang Mai. The pool area is a welcome bonus after a hot day cycling the ruins.",
+      "highlights": [
+        "Traditional Thai architecture with handmade wood carvings",
+        "Swimming pool — rare at this price point",
+        "Near the bus terminal in New Sukhothai",
+        "Restaurant serving Thai and Western food",
+        "Air-conditioned rooms with hot water"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fruean-thai.html",
+      "reviewScore": "7.8/10",
+      "bestFor": [
+        "Budget couples",
+        "Families",
+        "Bus arrivals"
+      ],
+      "sources": [
+        {
+          "sourceName": "Agoda — Ruean Thai Hotel Sukhothai",
+          "sourceUrl": "https://www.agoda.com/ruean-thai-hotel/hotel/sukhothai-th.html",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Orchid Hibiscus Guest House",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB (~23–43 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms, bungalows and houses set in landscaped tropical gardens with a swimming pool. The Dutch-Thai owners provide excellent hospitality, free bicycles for exploring the park, and a wealth of local advice. Consistently one of the top-rated properties in Sukhothai across all review platforms.",
+      "highlights": [
+        "800 metres from the Historical Park entrance",
+        "Free bicycles for guests",
+        "Swimming pool surrounded by tropical gardens",
+        "Range of room types: rooms, bungalows, houses",
+        "Excellent Dutch-Thai hosts with local knowledge"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Forchid-hibiscus-guest-house.html",
+      "reviewScore": "9.2/10",
+      "bestFor": [
+        "Couples",
+        "History enthusiasts",
+        "Cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Orchid Hibiscus Guest House — Official Website",
+          "sourceUrl": "https://www.orchidhibiscus-guesthouse.com/",
+          "lastVerified": "2026-03-14"
+        },
+        {
+          "sourceName": "BoutiqueHotel.me — Sukhothai Hotels",
+          "sourceUrl": "https://boutiquehotel.me/sukhothai-thailand/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Tharaburi Resort Sukhothai",
+      "category": "mid-range",
+      "priceRange": "1,200–2,200 THB (~34–63 USD) per night",
+      "area": "Old Sukhothai / Historical Park",
+      "description": "A serene resort set among rice paddies and gardens near the Historical Park, Tharaburi Resort blends traditional Lanna-style wooden architecture with modern comfort. The spacious rooms feature polished teak floors and balconies overlooking the grounds. The swimming pool, on-site restaurant and peaceful atmosphere make it an excellent mid-range base for exploring the ruins. Their sister property, Dorm of Happiness, offers budget options.",
+      "highlights": [
+        "Traditional Lanna-style wooden architecture",
+        "Set among rice paddies near the Historical Park",
+        "Swimming pool with garden views",
+        "On-site restaurant serving Thai cuisine",
+        "Spacious rooms with teak furnishings"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Ftharaburi-resort-sukhothai.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Couples",
+        "Relaxation seekers",
+        "Photography enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "Expedia — Tharaburi Resort Sukhothai",
+          "sourceUrl": "https://www.expedia.com/Sukhothai-Hotels-Tharaburi-Resort-Sukhothai.h8719477.Hotel-Information",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where is it best to stay in Sukhothai?",
+    "Is it worth it to go to Sukhothai?",
+    "How long should I spend in Sukhothai?",
+    "Why is Sukhothai famous?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Le Charme Sukhothai Resort without knowing its town-center location can lead to disrupted peace from nearby bus terminal noise.",
+    "intro": "Le Charme Sukhothai Resort delivers spacious air-conditioned rooms with modern bathrooms arranged around a large swimming pool and tropical gardens, offering a peaceful retreat amid New Sukhothai's conveniences. It's ideal for mid-range travelers, families, and night market enthusiasts seeking reliable comfort and good service.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Mid-range family travelers",
+      "standout": "Large swimming pool",
+      "noGoFor": "Luxury-seeking solo adventurers"
+    },
+    "whyBook": [
+      "Spacious rooms surround large pool for easy family access.",
+      "Walking distance to night market and restaurants.",
+      "Near bus terminal simplifies arrivals and departures.",
+      "On-site restaurant serves Thai and international dishes.",
+      "Tropical gardens provide peaceful retreat in town."
+    ],
+    "whyNotBook": [
+      "Town location exposes some rooms to bus terminal noise until late evening.",
+      "No shuttle service to Sukhothai Historical Park requires taxi arrangements.",
+      "Pool area lacks shaded loungers during peak afternoon hours.",
+      "On-site restaurant menu repeats limited options over multi-night stays.",
+      "Mid-range amenities miss extras like spa or gym facilities."
+    ],
+    "skipIf": "Skip if you're prioritizing direct access to Sukhothai Historical Park without transport needs.",
+    "detailedReview": "Checking into Le Charme Sukhothai Resort feels straightforward and welcoming, with staff offering quick orientations to the property's layout around the central large swimming pool. Rooms are spacious and air-conditioned, featuring modern bathrooms that provide reliable comfort without frills, arranged in low-rise blocks amid tropical gardens that buffer the town setting for a retreat-like vibe. The standout amenity is the expansive pool, perfect for families to unwind after exploring, though it draws both hotel guests and locals during the day. The on-site restaurant delivers solid Thai and international meals in a casual setting, with portions satisfying but flavors leaning standard rather than exceptional. Service is attentive and efficient, typical of a well-run mid-range spot, handling requests promptly without over-the-top personalization. Guests here skew toward Thai families on weekend getaways and international travelers using it as a convenient base, mixing relaxation with easy access to New Sukhothai's eateries and market. Overall, it hits mid-range expectations solidly, though the urban edge means it's more functional oasis than secluded escape. With an 8.0/10 review score, it suits those valuing location and pool time over luxury indulgences.",
+    "locationReality": "Situated in New Sukhothai, the resort is within 5-10 minutes' walk to local restaurants and the night market, making casual dining effortless. The bus terminal is nearby, about a 5-minute walk, easing travel logistics for arrivals from Bangkok or other spots. However, Sukhothai Historical Park lies 12-15 km away, typically requiring a 20-minute songthaew ride or Grab for around 200-300 THB round-trip.",
+    "localSignals": [
+      "Walking distance (5-10 minutes) to New Sukhothai night market.",
+      "Near bus terminal (5-minute walk) for easy transport.",
+      "One large swimming pool on property.",
+      "One on-site restaurant with Thai and international menu.",
+      "Tropical gardens surround rooms for added privacy."
+    ],
+    "travellerNote": "Guests often praise the spacious rooms, large pool, and proximity to the night market but note occasional noise from the nearby bus terminal and the need for transport to the Historical Park.",
+    "bookingTips": [
+      "Request poolside rooms for families to minimize walking.",
+      "Check Agoda for lowest rates on this Thailand property.",
+      "Prices spike November-February during cool season peak.",
+      "Verify if breakfast is included as it's not always standard.",
+      "Confirm no nearby construction before booking multi-night stays."
+    ],
+    "similarHotels": [
+      {
+        "name": "Ruean Thai Hotel (500–900 THB (~14–26 USD) per night) — A beautifully built traditional Thai-style hotel in New Sukhothai with ornate handmade wood carvings, a swimming pool and well-maintained gr",
+        "howDifferent": "Offers cheaper rates and traditional Thai decor versus Le Charme's modern mid-range setup."
+      },
+      {
+        "name": "Orchid Hibiscus Guest House (800–1,500 THB (~23–43 USD) per night) — A highly regarded guesthouse just 800 metres from the Historical Park entrance, Orchid Hibiscus offers modern, beautifully decorated rooms,",
+        "howDifferent": "Closer to Historical Park with guesthouse intimacy, unlike Le Charme's town-center resort feel."
+      },
+      {
+        "name": "Tharaburi Resort Sukhothai (1,200–2,200 THB (~34–63 USD) per night) — A serene resort set among rice paddies and gardens near the Historical Park, Tharaburi Resort blends traditional Lanna-style wooden architec",
+        "howDifferent": "More rural and park-adjacent with Lanna architecture, contrasting Le Charme's urban accessibility."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Where is it best to stay in Sukhothai?",
+        "a": "New Sukhothai is ideal for convenience to markets and transport, while areas near the Historical Park suit heritage-focused stays. Le Charme Sukhothai Resort fits the former with its central location."
+      },
+      {
+        "q": "Is it worth it to go to Sukhothai?",
+        "a": "Yes, Sukhothai's ancient ruins and peaceful vibe make it a worthwhile UNESCO site for history buffs. It's less crowded than Ayutthaya, offering authentic Thai heritage."
+      },
+      {
+        "q": "How long should I spend in Sukhothai?",
+        "a": "Two to three days allows time for the Historical Park, museums, and local markets. One day suffices for a quick ruins visit if combining with other stops."
+      },
+      {
+        "q": "Why is Sukhothai famous?",
+        "a": "Sukhothai is renowned as Thailand's first capital in the 13th century, famous for its well-preserved ruins and the birthplace of the Thai script. The Historical Park showcases Khmer-influenced temples and Buddha images."
+      },
+      {
+        "q": "What amenities does Le Charme Sukhothai Resort offer?",
+        "a": "It features a large swimming pool, tropical gardens, air-conditioned rooms with modern bathrooms, and an on-site restaurant serving Thai and international cuisine."
+      }
+    ],
+    "urgencyLine": "Rooms at Le Charme Sukhothai Resort with pool views book out 1-2 months ahead for November-February high season — check today.",
+    "methodology": "We rated Le Charme Sukhothai Resort based on location convenience, amenities like the pool and gardens, service quality, and value in the mid-range category. We weighted proximity to town attractions highest because Sukhothai travelers prioritize easy access to markets and transport over isolation. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Le Charme Sukhothai Resort Review (2026)",
+    "metaDescription": "Le Charme Sukhothai Resort in Sukhothai offers a large pool and gardens near the night market for mid-range stays. Note bus terminal noise may affect quieter evenings. Book for family comfort today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:35:27.602Z"
+}

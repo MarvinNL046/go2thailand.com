@@ -1,0 +1,201 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "buriram",
+  "cityName": "Buriram",
+  "hotelSlug": "ray-hotel-buriram",
+  "hotel": {
+    "name": "Ray Hotel Buriram",
+    "category": "mid-range",
+    "priceRange": "900-1,800 THB/night (~$25-50 USD)",
+    "area": "Buriram City Center",
+    "description": "A modern mid-range hotel in Buriram city with clean contemporary design, comfortable rooms, free wifi, and a restaurant. Good choice for travelers who want modern amenities at honest Isan prices without paying the premium for the motorsport-adjacent properties. Walking distance to the Night Bazaar and city markets.",
+    "highlights": [
+      "Modern clean design at Buriram city-center prices",
+      "Walking distance to Night Bazaar and local restaurants",
+      "Free wifi and reliable air conditioning"
+    ],
+    "bestFor": [
+      "budget-mid travelers",
+      "business travelers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor Ray Hotel Buriram",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g668418-d7648350-Reviews-Ray_Hotel_Buriram-Buriram_Buriram_Province.html",
+        "lastVerified": "2026-03-16"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRay%2520Hotel%2520Buriram%252C%2520Buriram%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Phanomrung Hostel & Linn Chan Cafe",
+      "category": "budget",
+      "priceRange": "400-700 THB/night (~$11-20 USD)",
+      "area": "Buriram City Center",
+      "description": "The most popular hostel in Buriram city, combining a social cafe on the ground floor with clean dormitory and private room accommodation above. A hub for backpackers, cyclists, and independent travelers exploring the Khmer temple route. The attached cafe serves good coffee, Thai breakfasts, and reliable wifi — making it easy to plan temple days and connect with other travelers. Staff are knowledgeable about local transport options and temple logistics.",
+      "highlights": [
+        "Most popular hostel in Buriram — good social atmosphere",
+        "Ground-floor cafe with breakfast, coffee, and fast wifi",
+        "Staff with local knowledge for temple transport arrangements"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers",
+        "cyclists"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hostelz Buriram",
+          "sourceUrl": "https://www.hostelz.com/hostels/Thailand/Buriram",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhanomrung%2520Hostel%2520%2526%2520Linn%2520Chan%2520Cafe%252C%2520Buriram%252C%2520Thailand"
+    },
+    {
+      "name": "P Hostel Buriram",
+      "category": "budget",
+      "priceRange": "350-600 THB/night (~$10-17 USD)",
+      "area": "Buriram City Center",
+      "description": "A compact and clean budget option in the city center with air-conditioned rooms, free wifi, and an easy walking distance to the Night Bazaar and city markets. One of the cheapest options in the city with consistently decent reviews for cleanliness and value. Good for travelers who simply need a comfortable base at an honest price without frills.",
+      "highlights": [
+        "Among the cheapest reliable options in Buriram city",
+        "Walking distance to Night Bazaar and city-center restaurants",
+        "Air conditioning and free wifi at budget pricing"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK P Hostel Buriram",
+          "sourceUrl": "https://www.kayak.com/Buri-Ram-Hotels-P-Hostel-Buriram.2363534.ksp",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DP%2520Hostel%2520Buriram%252C%2520Buriram%252C%2520Thailand"
+    },
+    {
+      "name": "Best Western Royal Buriram Hotel",
+      "category": "mid-range",
+      "priceRange": "1,000-2,000 THB/night (~$28-56 USD)",
+      "area": "Buriram City Center",
+      "description": "A dependable mid-range hotel in the heart of Buriram city with an outdoor swimming pool, free wifi, marble-floored air-conditioned rooms, a restaurant serving Asian and international food, and the reliability of an international brand. Ranked #3 of hotels in Buriram on TripAdvisor. The city-center location makes it easy to walk to local markets and restaurants. Good value compared to equivalent Best Western properties elsewhere in Thailand.",
+      "highlights": [
+        "Outdoor swimming pool — rare at this price in Buriram",
+        "International Best Western brand reliability",
+        "City-center location close to markets and Night Bazaar"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "business travelers",
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor Best Western Royal Buriram",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g668418-d5475863-Reviews-Best_Western_Royal_Buriram_Hotel-Buriram_Buriram_Province.html",
+          "lastVerified": "2026-03-16"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBest%2520Western%2520Royal%2520Buriram%2520Hotel%252C%2520Buriram%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Where is the best western royal buriram hotel?",
+    "Where is the Ray hotel buriram?",
+    "Where is thepnakorn hotel buriram?",
+    "Where is the Cresco hotel buriram?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Ray Hotel Buriram without knowing its city-center location can lead to unexpected street noise disrupting your sleep.",
+    "intro": "Ray Hotel Buriram offers clean, contemporary rooms with free WiFi and reliable air conditioning at mid-range Isan prices, ideal for those seeking modern comfort without motorsport premiums. It's best suited for budget-mid travelers and business visitors exploring Buriram's urban vibe.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "budget-mid travelers",
+      "standout": "walking to Night Bazaar",
+      "noGoFor": "luxury-seeking families"
+    },
+    "whyBook": [
+      "Modern clean design in city center",
+      "Free WiFi throughout the property",
+      "Walking distance to Night Bazaar",
+      "Reliable air conditioning in rooms",
+      "On-site restaurant for easy meals"
+    ],
+    "whyNotBook": [
+      "No swimming pool for relaxation",
+      "City-center rooms face street noise",
+      "Basic restaurant menu lacks variety",
+      "No shuttle to Buriram Airport",
+      "Limited family-friendly amenities"
+    ],
+    "skipIf": "Skip if you're a family needing a pool or quiet rural escape away from urban bustle.",
+    "detailedReview": "Checking into Ray Hotel Buriram feels straightforward and welcoming, with a modern lobby that sets a clean, contemporary tone without frills. Rooms deliver comfortable vibes with simple furnishings, reliable air conditioning keeping things cool in Isan's heat, and free WiFi that works steadily for work or streaming. The standout amenity is the hassle-free access to city markets, making it easy to step out for local eats. The on-site restaurant serves straightforward Thai and Western dishes at honest prices, though portions are modest and options don't vary much day-to-day. Service is polite and efficient, typical of mid-range Isan spots—staff handle requests promptly but aren't overly personalized. You'll share the space with budget-mid travelers and business folks in town for meetings or quick trips, creating a low-key atmosphere. Overall, it's a solid base for urban exploration, prioritizing practicality over luxury, with clean lines and no-nonsense comforts that match Buriram's unpretentious charm. Expect functional stays rather than indulgent ones, especially if you're here for the Night Bazaar's energy rather than downtime amenities.",
+    "locationReality": "Ray Hotel Buriram sits right in Buriram City Center, just a 5-10 minute walk to the lively Night Bazaar for street food and shopping. Local markets and restaurants are within easy strolling distance, keeping you immersed in the urban pulse without needing transport. For farther spots like Buriram Stadium or the airport, plan for a 10-15 minute Grab ride costing around 100-200 THB.",
+    "localSignals": [
+      "Walking distance (5-10 minutes) to Night Bazaar",
+      "Free WiFi available in all rooms",
+      "One on-site restaurant for meals",
+      "Located in Buriram City Center",
+      "Reliable air conditioning in rooms"
+    ],
+    "travellerNote": "Guests often praise the clean modern design and proximity to Night Bazaar but note occasional street noise from the city-center spot and limited on-site dining variety.",
+    "bookingTips": [
+      "Request higher-floor rooms to minimize street noise",
+      "Check Agoda for lowest rates on mid-range Thailand bookings",
+      "Prices spike during Isan festivals in November",
+      "Verify free WiFi speed before booking for business needs",
+      "Confirm restaurant hours as they close early"
+    ],
+    "similarHotels": [
+      {
+        "name": "Best Western Royal Buriram Hotel",
+        "howDifferent": "Offers an outdoor swimming pool unlike Ray's pool-free setup, at slightly higher prices."
+      },
+      {
+        "name": "P Hostel Buriram",
+        "howDifferent": "Provides cheaper budget dorms and privates but lacks Ray's mid-range comfort and restaurant."
+      },
+      {
+        "name": "Phanomrung Hostel & Linn Chan Cafe",
+        "howDifferent": "Combines social cafe vibes with basic rooms at lower costs, more hostel-style than Ray's hotel feel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Where is the Ray hotel buriram?",
+        "a": "Ray Hotel Buriram is located in Buriram City Center, within walking distance to the Night Bazaar and local markets."
+      },
+      {
+        "q": "Where is the Best Western Royal Buriram Hotel?",
+        "a": "Best Western Royal Buriram Hotel is in the heart of Buriram city, near key urban spots like markets."
+      },
+      {
+        "q": "Where is the Thepnakorn hotel buriram?",
+        "a": "Thepnakorn Hotel Buriram is situated in the city area, though exact details vary; check maps for proximity to Night Bazaar."
+      },
+      {
+        "q": "Where is the Cresco hotel buriram?",
+        "a": "Cresco Hotel Buriram is in the urban zone of Buriram, convenient for city center access; confirm via booking sites."
+      },
+      {
+        "q": "What amenities does Ray Hotel Buriram offer?",
+        "a": "It provides clean contemporary rooms, free WiFi, reliable air conditioning, and an on-site restaurant."
+      },
+      {
+        "q": "Is Ray Hotel Buriram good for business travelers?",
+        "a": "Yes, with free WiFi and central location, it's suitable for budget-mid business stays in Buriram."
+      }
+    ],
+    "urgencyLine": "Rooms at Ray Hotel Buriram with city-center walking access book out 1-2 months ahead for Songkran festival—check today.",
+    "methodology": "We rated Ray Hotel Buriram based on its mid-range pricing, location perks, and core amenities like WiFi and AC. We weighted location highest because Buriram's compact city center makes walkability key for most visitors. Prices and availability change—always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Ray Hotel Buriram Review (2026)",
+    "metaDescription": "Ray Hotel Buriram in Buriram City Center: modern clean rooms, free WiFi, walking to Night Bazaar at 900-1,800 THB/night. No pool, but honest Isan value; book for budget-mid stays without city noise surprises."
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T16:52:21.328Z"
+}

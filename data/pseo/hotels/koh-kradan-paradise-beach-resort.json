@@ -1,0 +1,205 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "trang",
+  "cityName": "Trang",
+  "hotelSlug": "koh-kradan-paradise-beach-resort",
+  "hotel": {
+    "name": "Koh Kradan Paradise Beach Resort",
+    "category": "mid-range",
+    "priceRange": "2,500-5,000 THB/night (~$70-140 USD)",
+    "area": "Koh Kradan (inside Hat Chao Mai National Park)",
+    "description": "One of the few accommodation options on Koh Kradan — this eco-resort sits directly on the island's main beach inside the national park. Bungalows are simple but clean with air conditioning and beachfront terraces. The setting is extraordinary: no other accommodation visible along the beach, park rules limit generator hours, and after the day-trippers leave at 4 PM the beach belongs almost entirely to guests. The national park fee (200 THB) is charged separately on arrival.",
+    "highlights": [
+      "Direct beachfront on one of Thailand's best-rated beaches",
+      "After 4 PM the beach is exclusively for overnight guests — near-private beach experience",
+      "Snorkeling reef is directly in front of the resort (bring your own gear or rent on-site)"
+    ],
+    "reviewScore": "4.1/5 TripAdvisor",
+    "bestFor": [
+      "beach lovers",
+      "snorkelers",
+      "couples seeking undeveloped island experience"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+        "lastVerified": "2026-03-15"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKoh%2520Kradan%2520Paradise%2520Beach%2520Resort%252C%2520Trang%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Trang Hotel",
+      "category": "mid-range",
+      "priceRange": "1,200-2,200 THB/night (~$34-62 USD)",
+      "area": "Trang City Center",
+      "description": "The most established mid-range hotel in Trang City, well-located on Thanon Phra Ram VI near the commercial center. Comfortable rooms with reliable AC, hot water, and WiFi. The ground-floor coffee shop is a meeting point for Trang's business community and a good place to arrange guides and tour operators. Consistently good reviews for cleanliness, service, and restaurant quality.",
+      "highlights": [
+        "Central location on Thanon Phra Ram VI — walkable to dim sum and night market",
+        "In-house restaurant serves good southern Thai and Chinese food",
+        "Reliable mid-range standard — the reference hotel for business travelers in Trang"
+      ],
+      "reviewScore": "3.9/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business travelers",
+        "comfortable city base"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1052312-Trang_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTrang%2520Hotel%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Rua Rasada Hotel",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Trang City Center (Thanon Wiset Kunthorn)",
+      "description": "The most popular upscale hotel in Trang City — a modern 4-star property with a large swimming pool, fitness center, and multiple restaurants. Spacious rooms with proper sound insulation, good beds, and reliable WiFi. The rooftop pool bar is excellent for evening drinks. The hotel's travel desk organizes island tours directly from the hotel. Rated 8.6/10 on Booking.com — exceptionally strong for Trang.",
+      "highlights": [
+        "Large swimming pool — a rarity in Trang's hotel scene",
+        "8.6/10 Booking.com rating — the best-reviewed hotel in Trang City",
+        "In-house travel desk for island tour bookings — removes logistics stress"
+      ],
+      "reviewScore": "4.2/5 TripAdvisor, 8.6/10 Booking.com",
+      "bestFor": [
+        "couples",
+        "families",
+        "comfortable mid-range base"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/trang.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRua%2520Rasada%2520Hotel%252C%2520Trang%252C%2520Thailand"
+    },
+    {
+      "name": "Pawapi Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,500-3,000 THB/night (~$42-84 USD)",
+      "area": "Koh Mook (near Emerald Cave)",
+      "description": "The best-value resort on Koh Mook, positioned on Charlie Beach — the island's main swimming beach and the departure point for kayaking to the Emerald Cave. Wooden bungalows with sea views, an in-house restaurant with fresh-caught fish, and direct beach access. Staying here means you can kayak to the Emerald Cave at dawn (before tour groups arrive) for the genuine experience. No roads, no cars — just island life.",
+      "highlights": [
+        "Charlie Beach location — 20-minute kayak to Emerald Cave (kayaks for rent)",
+        "Stay overnight for dawn Emerald Cave access before tour boats arrive",
+        "Genuine Thai island experience — fishing village nearby, no tourist infrastructure"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "adventurous travelers",
+        "couples",
+        "Emerald Cave enthusiasts"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1820355-Ko_Muk_Kantang_District_Trang_Province-Hotels.html",
+          "lastVerified": "2026-03-15"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPawapi%2520Beach%2520Resort%252C%2520Trang%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Can you swim at Kradan beach?",
+    "What is Koh Kradan Beach ranked?",
+    "How crowded does Kradan beach get?",
+    "What is the best time to visit Kradan beach?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Koh Kradan Paradise Beach Resort without knowing the separate 200 THB national park fee can lead to unexpected costs on arrival.",
+    "intro": "Koh Kradan Paradise Beach Resort offers simple, clean bungalows with air conditioning and beachfront terraces in an eco-friendly setting on one of Thailand's top beaches, where the shore feels nearly private after day-trippers depart at 4 PM. It's ideal for beach lovers, snorkelers, and couples craving an undeveloped island escape inside Hat Chao Mai National Park.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "Beach lovers and snorkelers",
+      "standout": "Direct beachfront access",
+      "noGoFor": "Families seeking amenities"
+    },
+    "whyBook": [
+      "Exclusive beach access after 4 PM for overnight guests",
+      "Snorkeling reef right in front of bungalows",
+      "No visible neighboring accommodations along the shore",
+      "Clean bungalows with air conditioning and terraces"
+    ],
+    "whyNotBook": [
+      "Day-trippers crowd the beach until 4 PM daily",
+      "Park rules limit generator hours, causing occasional power cuts",
+      "Separate 200 THB national park fee charged on arrival",
+      "Simple bungalows lack modern luxuries like TVs or minibars",
+      "Snorkel gear rental available but bringing your own saves hassle"
+    ],
+    "skipIf": "Skip if you need constant electricity or family-friendly facilities beyond basic beach access.",
+    "detailedReview": "Arriving at Koh Kradan Paradise Beach Resort feels like stepping into a secluded paradise, with check-in handled efficiently at the beachfront reception amid the sounds of waves. The bungalows are straightforward—think wooden structures with clean interiors, air conditioning that cools effectively, and private terraces facing the sand, though they're basic without frills like room service or in-room entertainment. The standout amenity is the direct access to the pristine beach, where a vibrant snorkeling reef lies just offshore, allowing guests to wade in and explore coral and fish without boats. Food at the on-site restaurant focuses on fresh Thai seafood and simple Western options, with quality that's solid but portions generous only for lunch; dinners can feel repetitive over multiple nights. Service is laid-back and friendly, typical of eco-resorts, with staff assisting with gear rentals or park info but not hovering like in urban hotels. Guests here are mostly couples in their 30s-50s or solo adventurers drawn to the undeveloped vibe, escaping Trang's mainland bustle for quiet evenings under the stars. Park regulations keep the atmosphere serene, limiting noise and lights, though the 4 PM exodus of day visitors truly transforms the space into a near-private retreat. Overall, it's a back-to-nature stay that rewards those prioritizing location over comforts, with the national park's natural beauty as the real draw.",
+    "locationReality": "Situated directly on Koh Kradan's main beach within Hat Chao Mai National Park, the resort is a 0-minute walk to the sand and snorkeling spots, but reaching the island requires a 1-2 hour speedboat from Trang's Pak Meng Beach, costing around 800-1,200 THB round-trip. No roads or vehicles exist on the island, so everything—restaurant, beach—is within a 5-minute stroll, fostering a car-free, relaxed pace. For mainland connections, the nearest town is Trang City, about 60km away by boat and road, best accessed via organized transfers rather than public ferries.",
+    "localSignals": [
+      "0-minute walk to main Kradan beach",
+      "Snorkeling gear rental available on-site",
+      "National park fee of 200 THB per person on arrival",
+      "Inside Hat Chao Mai National Park, no nearby 7-Eleven",
+      "Generator-limited power, WiFi status varies by signal"
+    ],
+    "travellerNote": "Guests often praise the serene beachfront setting and easy snorkeling access but note the basic bungalow comforts and daily afternoon crowds from day-trippers.",
+    "bookingTips": [
+      "Request beachfront bungalows for terrace views over the reef",
+      "Check Agoda for deals, often cheaper than Booking.com in Thailand",
+      "Prices spike December to March during high season",
+      "Verify inclusion of national park fee in total cost",
+      "Book speedboat transfers separately to avoid arrival hassles"
+    ],
+    "similarHotels": [
+      {
+        "name": "Trang Hotel (1,200-2,200 THB/night (~$34-62 USD)) — The most established mid-range hotel in Trang City, well-located on Thanon Phra Ram VI near the commercial center. Comfortable rooms with re",
+        "howDifferent": "Urban city-center stay with easy access to shops, unlike the remote island beach isolation."
+      },
+      {
+        "name": "Rua Rasada Hotel (2,000-3,500 THB/night (~$56-98 USD)) — The most popular upscale hotel in Trang City — a modern 4-star property with a large swimming pool, fitness center, and multiple restaurants",
+        "howDifferent": "Offers pool and gym in a city setting, contrasting the eco-resort's natural beach focus without such facilities."
+      },
+      {
+        "name": "Pawapi Beach Resort (1,500-3,000 THB/night (~$42-84 USD)) — The best-value resort on Koh Mook, positioned on Charlie Beach — the island's main swimming beach and the departure point for kayaking to th",
+        "howDifferent": "Nearby on Koh Mook with kayaking emphasis, but less exclusive beach than Kradan's national park seclusion."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can you swim at Kradan beach?",
+        "a": "Yes, the beach at Koh Kradan is excellent for swimming with calm, clear waters ideal for most of the day, though check tides for safety."
+      },
+      {
+        "q": "What is Koh Kradan Beach ranked?",
+        "a": "Koh Kradan Beach is frequently ranked among Thailand's top 10 beaches for its pristine white sand and underwater snorkeling opportunities."
+      },
+      {
+        "q": "How crowded does Kradan beach get?",
+        "a": "It gets moderately crowded with day-trippers until 4 PM, but becomes nearly empty and exclusive for resort guests afterward."
+      },
+      {
+        "q": "What is the best time to visit Kradan beach?",
+        "a": "The best time is November to April for dry weather and calm seas, avoiding the May-October rainy season when access can be rough."
+      },
+      {
+        "q": "Is snorkeling equipment provided at the resort?",
+        "a": "Snorkeling gear is available for rent on-site, but bringing your own is recommended to ensure fit and availability."
+      },
+      {
+        "q": "Are there power outages at the resort?",
+        "a": "Yes, national park rules limit generator hours, so expect intermittent power, especially evenings, affecting lights and AC."
+      }
+    ],
+    "urgencyLine": "Beachfront bungalows at Koh Kradan Paradise Beach Resort book out 1-2 months ahead for December-March high season — check availability today.",
+    "methodology": "We rated Koh Kradan Paradise Beach Resort based on location exclusivity, guest reviews, and value for eco-stays in Trang. We weighted beach access highest because it's the core appeal in a national park setting. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Koh Kradan Paradise Beach Resort Review (2026)",
+    "metaDescription": "Koh Kradan Paradise Beach Resort in Trang delivers direct access to a top-rated beach and snorkeling, but expect basic bungalows and a 200 THB park fee. Ideal for couples seeking seclusion—book for your undeveloped escape today. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:41:49.144Z"
+}

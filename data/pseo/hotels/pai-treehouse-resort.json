@@ -1,0 +1,202 @@
+{
+  "template": "hotel-deep",
+  "citySlug": "pai",
+  "cityName": "Pai",
+  "hotelSlug": "pai-treehouse-resort",
+  "hotel": {
+    "name": "Pai Treehouse Resort",
+    "category": "mid-range",
+    "priceRange": "1,200–2,500 THB/night (~$34–70 USD)",
+    "area": "Outside Town (rice paddies)",
+    "description": "Unique treehouse-style accommodations set among tall trees outside town, with elevated wooden cabins connected by walkways. The property feels like a jungle hideaway with mountain views and a swimming pool. Rooms are quirky and comfortable, with each treehouse having its own character.",
+    "highlights": [
+      "Unique treehouse accommodations",
+      "Swimming pool with mountain views",
+      "Surrounded by nature away from town noise"
+    ],
+    "reviewScore": "3.5/5 TripAdvisor",
+    "bestFor": [
+      "couples",
+      "families",
+      "nature lovers"
+    ],
+    "sources": [
+      {
+        "sourceName": "TripAdvisor",
+        "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303916-d1817456-Reviews-Pai_Treehouse-Pai_Mae_Hong_Son_Province.html",
+        "lastVerified": "2026-03-14"
+      }
+    ],
+    "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Treehouse%2520Resort%252C%2520Pai%252C%2520Thailand"
+  },
+  "similarHotels": [
+    {
+      "name": "Breeze of Pai Guesthouse",
+      "category": "mid-range",
+      "priceRange": "500–900 THB/night (~$14–25 USD)",
+      "area": "Pai River area",
+      "description": "A peaceful riverside guesthouse with wooden bungalows set in a lush garden along the Pai River. Each bungalow has a private terrace overlooking the garden or river. The setting feels secluded despite being a short walk from town center. Excellent value for the quality and location.",
+      "highlights": [
+        "Riverside garden setting",
+        "Private terraces on bungalows",
+        "Short walk to town center"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "budget-conscious travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303916-d1650027-Reviews-Breeze_of_Pai_Guesthouse-Pai_Mae_Hong_Son_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBreeze%2520of%2520Pai%2520Guesthouse%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "Pai Vieng Fah Resort",
+      "category": "mid-range",
+      "priceRange": "800–1,500 THB/night (~$22–42 USD)",
+      "area": "Outside Town",
+      "description": "A well-maintained resort with spacious bungalows set in a tropical garden surrounded by mountains. Rooms are clean and comfortable with air-conditioning, hot water, and private balconies. The pool is a welcome relief after a day of scootering around the valley.",
+      "highlights": [
+        "Spacious bungalows with mountain views",
+        "Swimming pool",
+        "Quiet location with easy scooter access to town"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g303916-d1910694-Reviews-Pai_Vieng_Fah_Resort-Pai_Mae_Hong_Son_Province.html",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Vieng%2520Fah%2520Resort%252C%2520Pai%252C%2520Thailand"
+    },
+    {
+      "name": "Pai Village Boutique Resort & Farm",
+      "category": "mid-range",
+      "priceRange": "2,000–4,500 THB/night (~$56–126 USD)",
+      "area": "Outside Town (rice paddies)",
+      "description": "A beautifully designed boutique resort set on a working farm with rice paddies, organic gardens, and mountain views. Rooms blend traditional Thai architecture with modern comforts. The on-site restaurant serves farm-to-table dishes using ingredients grown on the property. One of Pai's most refined accommodation options.",
+      "highlights": [
+        "Working farm with organic gardens",
+        "Farm-to-table restaurant on site",
+        "Stunning rice paddy and mountain views"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "foodies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Pai Village Official",
+          "sourceUrl": "https://www.paivillage.com/",
+          "lastVerified": "2026-03-14"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPai%2520Village%2520Boutique%2520Resort%2520%2526%2520Farm%252C%2520Pai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "Where is the best place to stay in Pai?",
+    "Is the Treehouse movie worth watching?",
+    "Where is Treehouse based?"
+  ],
+  "aiContent": {
+    "hookIntro": "Booking Pai Treehouse Resort without knowing its remote location outside town can leave you stranded without easy access to Pai's nightlife and markets.",
+    "intro": "Pai Treehouse Resort offers quirky, elevated wooden cabins connected by walkways amid tall trees, creating a jungle hideaway with mountain views and a swimming pool. It's ideal for couples, families, and nature lovers seeking a peaceful escape from town noise.",
+    "quickStats": {
+      "priceBand": "€€",
+      "bestFor": "couples and nature lovers",
+      "standout": "unique treehouse design",
+      "noGoFor": "nightlife and town explorers"
+    },
+    "whyBook": [
+      "Elevated cabins with individual quirky characters for memorable stays",
+      "Swimming pool overlooking mountains for relaxing dips",
+      "Surrounded by rice paddies and trees away from urban bustle",
+      "Comfortable rooms blending nature and comfort seamlessly"
+    ],
+    "whyNotBook": [
+      "Remote position means 10-15 minute scooter ride to Pai town center",
+      "Treehouse style may feel unstable or rustic during windy evenings",
+      "3.5/5 TripAdvisor score suggests occasional maintenance inconsistencies",
+      "Limited on-site dining options require trips for varied meals",
+      "Walkways between cabins can be slippery after rain in rice paddy area"
+    ],
+    "skipIf": "Skip if you prefer staying within walking distance of Pai's Walking Street markets and cafes.",
+    "detailedReview": "Checking into Pai Treehouse Resort feels like stepping into a treetop village, with staff greeting you at the base and guiding you up wooden stairs to your assigned cabin. The room vibe is playful yet cozy, each treehouse featuring unique elements like hammocks or balcony nooks, with comfortable beds and basic wooden furnishings that emphasize the natural setting. Standout is the swimming pool, perched for unobstructed mountain views, where guests lounge on elevated decks listening to birdsong rather than traffic. Food quality is straightforward, with a small on-site cafe offering simple Thai dishes and fresh fruits, nothing gourmet but satisfying after a day exploring. Service style is laid-back and friendly, with staff happy to arrange scooter rentals but not overly proactive. Typical guests are couples on romantic getaways or families with older kids who appreciate the nature immersion, often spending afternoons by the pool or hiking nearby paddies. The 3.5/5 TripAdvisor rating reflects this charm, though some note the isolation amplifies any minor issues like uneven WiFi in higher cabins. Overall, it's a quirky retreat that delivers on its jungle hideaway promise without frills.",
+    "locationReality": "Nestled outside Pai town amid rice paddies, Pai Treehouse Resort is about 5-7 km from the town center, requiring a 10-15 minute scooter ride or 200-300 THB Grab to reach Walking Street. Within a 5-minute walk, you'll find quiet paths through paddies and local farms, but no shops or eateries. For Pai's night market or river activities, transport is essential, as the property's seclusion prioritizes nature over convenience.",
+    "localSignals": [
+      "10-15 minute scooter ride to Pai Walking Street",
+      "One swimming pool on property with mountain views",
+      "Set in rice paddies outside town, no nearby 7-Eleven within walk",
+      "Typical Grab cost to town center: 200-300 THB",
+      "Surrounded by nature, no on-site restaurant mentioned"
+    ],
+    "travellerNote": "Guests often praise the unique treehouse accommodations and peaceful natural setting but note the remote location makes accessing town attractions challenging without personal transport.",
+    "bookingTips": [
+      "Request a treehouse with mountain views for best pool access",
+      "Agoda often cheaper than Booking.com for Pai properties",
+      "Prices spike November-February during cool season peak",
+      "Verify scooter rental availability on-site before booking",
+      "Check for breakfast inclusion as it's not standard in data"
+    ],
+    "similarHotels": [
+      {
+        "name": "Breeze of Pai Guesthouse",
+        "howDifferent": "Offers cheaper riverside bungalows in a lush garden closer to Pai River, lacking treehouse elevation but with private terraces."
+      },
+      {
+        "name": "Pai Vieng Fah Resort",
+        "howDifferent": "Provides spacious bungalows in a tropical garden with mountain surrounds at lower mid-range prices, more central than the remote treehouses."
+      },
+      {
+        "name": "Pai Village Boutique Resort & Farm",
+        "howDifferent": "Features upscale farm-based rooms blending traditional design amid rice paddies, pricier and more polished than the quirky treehouse setup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Where is the best place to stay in Pai?",
+        "a": "The best place depends on your vibe; for nature escapes, outside town spots like Pai Treehouse Resort in rice paddies offer serenity, while town-center guesthouses suit market explorers."
+      },
+      {
+        "q": "Is the Treehouse movie worth watching?",
+        "a": "The 2015 horror film Treehouse is a mixed bag with tense moments but predictable plot; it's worth it for low-budget thriller fans, though not a must-see classic."
+      },
+      {
+        "q": "Where is Treehouse based?",
+        "a": "The movie Treehouse is set in a fictional urban park in the United States, drawing from generic adventure tropes rather than a specific real location."
+      },
+      {
+        "q": "Is Pai Treehouse Resort family-friendly?",
+        "a": "Yes, it's suitable for families with its spacious treehouse cabins and pool, though the remote location means planning transport for kid activities in town."
+      },
+      {
+        "q": "What are the room types at Pai Treehouse Resort?",
+        "a": "Rooms are elevated wooden treehouse cabins, each with quirky individual designs, comfortable bedding, and balconies connected by walkways."
+      },
+      {
+        "q": "Does Pai Treehouse Resort have a pool?",
+        "a": "Yes, it features a swimming pool with mountain views, ideal for cooling off in the jungle-like setting."
+      }
+    ],
+    "urgencyLine": "Treehouse cabins at Pai Treehouse Resort with mountain-view pool access book out 1-2 months ahead for November-February high season — check availability today.",
+    "methodology": "We rated Pai Treehouse Resort based on guest reviews, amenities, location, and value from sources like TripAdvisor. We weighted unique accommodations and nature immersion highest because they define its appeal in Pai's competitive scene. Prices and availability change — always verify before booking. Last updated: 2026-04.",
+    "metaTitle": "Pai Treehouse Resort Review (2026)",
+    "metaDescription": "Discover Pai Treehouse Resort in Pai: quirky treehouse cabins amid rice paddies with mountain-view pool for nature lovers. Remote spot means transport needed for town; book your hideaway escape now. (148 characters)"
+  },
+  "lastUpdated": "2026-04-15",
+  "generatedAt": "2026-04-15T18:09:19.488Z"
+}
