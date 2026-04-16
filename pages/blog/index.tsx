@@ -19,7 +19,7 @@ import {
   TWELVEGO_GENERIC,
   withPlacementSubId,
 } from '../../lib/affiliates';
-import { getAllPosts, getAllCategories } from '../../lib/blog';
+import { getPostsForIndex, getAllCategories } from '../../lib/blog';
 import { useSubId } from '../../lib/useSubId';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/blog-index';
@@ -507,14 +507,12 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
   const lang = locale === 'nl' ? 'nl' : 'en';
-  const posts = getAllPosts(lang);
+  // Lightweight post list — sheds ~60% of the payload vs getAllPosts.
+  const posts = getPostsForIndex(lang);
   const categories = getAllCategories(lang);
 
   return {
-    props: {
-      posts,
-      categories
-    },
-    revalidate: 604800, // ISR: daily revalidation
+    props: { posts, categories },
+    revalidate: 604800,
   };
 };

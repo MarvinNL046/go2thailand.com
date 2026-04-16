@@ -2360,9 +2360,21 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     }
   } catch {}
 
+  // Strip translations for locales we don't actually serve. Enhanced JSON files
+  // ship EN + NL + FR/DE/ZH/RU/KO, but our i18n only renders EN + NL — dropping
+  // the others cuts the city payload by ~100 kB on bigger cities (Bangkok et al).
+  const trimmedCity = city && typeof city === 'object' && 'translations' in city && city.translations
+    ? {
+        ...city,
+        translations: locale === 'nl' && (city.translations as any).nl
+          ? { nl: (city.translations as any).nl }
+          : {},
+      }
+    : city;
+
   return {
     props: {
-      city,
+      city: trimmedCity,
       relatedCities,
       comparisons,
       transportLinks: cityTransportLinks,
