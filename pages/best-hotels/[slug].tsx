@@ -348,7 +348,16 @@ export default function BestHotelsPage({ data, affiliates }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  return { paths: [], fallback: 'blocking' };
+  // Enumerate every published cluster city so all /best-hotels/[city]/ pages
+  // are pre-rendered at build time. This matters because outputFileTracing
+  // can't follow the dynamic `data/clusters/{slug}/hotels.json` reads in
+  // getStaticProps — without pre-rendering, the deployed function bundle
+  // omits the data files and every request returns notFound.
+  const { getClusterCities, getHotelsPage } = await import('../../lib/clusters');
+  const paths = getClusterCities()
+    .filter(citySlug => getHotelsPage(citySlug) !== null)
+    .map(citySlug => ({ params: { slug: citySlug } }));
+  return { paths, fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
