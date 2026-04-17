@@ -28,6 +28,8 @@ import {
   withPlacementSubId,
 } from '../../lib/affiliates';
 import { getAllPosts, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
+import { useGsapBlogHero } from '../../components/animations/useGsapBlogHero';
+import { useGsapScrollReveal } from '../../components/animations/useGsapScrollReveal';
 import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
 import InlineEngagementCTAs from '../../components/blog/InlineEngagementCTAs';
 import BuyerIntentNextStep from '../../components/blog/BuyerIntentNextStep';
@@ -98,6 +100,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
   const { locale } = useRouter();
   const subId = useSubId();
   const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
+
+  // GSAP entrance animations — respects prefers-reduced-motion automatically
+  const heroRef = useGsapBlogHero<HTMLElement>();
+  useGsapScrollReveal('[data-blog-content]');
 
   // Hydrate widget placeholders with real Travelpayouts embed scripts on the client
   useEffect(() => {
@@ -253,7 +259,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
       <article className="bg-surface-cream min-h-screen">
         {/* Hero Section */}
-        <section className="relative h-[400px] lg:h-[500px]">
+        <section ref={heroRef} className="relative h-[400px] lg:h-[500px]">
           <Image
             src={post.image}
             alt={post.title}

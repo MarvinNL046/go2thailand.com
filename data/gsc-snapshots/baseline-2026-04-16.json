@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-04-16T16:11:16.665Z",
+  "capturedAt": "2026-04-16T19:54:24.946Z",
   "site": "sc-domain:go2-thailand.com",
   "range": {
     "start": "2026-04-07",
@@ -34,6 +34,12 @@
     }
   },
   "sitemaps": [
+    {
+      "path": "https://go2-thailand.com/sitemap-nl.xml",
+      "errors": "0",
+      "warnings": "0",
+      "lastSubmitted": "2026-04-16T16:11:15.922Z"
+    },
     {
       "path": "https://go2-thailand.com/sitemap-index.xml",
       "errors": "0",
