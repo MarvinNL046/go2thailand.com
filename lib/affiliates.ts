@@ -17,6 +17,7 @@ export const TWELVEGO_GENERIC = 'https://12go.tpo.lv/tNA80urD';
 export const SAILY_GENERIC = 'https://saily.tpo.lv/rf9lidnE';
 export const NORDVPN_GENERIC = 'https://nordvpn.tpo.lv/ekHF1i55';
 export const NORDPASS_GENERIC = 'https://nordvpn.tpo.lv/tp12zNjC';
+export const VIATOR_GENERIC = 'https://viator.tpo.lv/TUcQTS5u';
 
 // Append subid tracking parameter to affiliate URLs
 export function withSubId(url: string, subId: string): string {
