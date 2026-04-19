@@ -67,4 +67,11 @@ Requirements include a bank balance of at least **500,000 THB** and proof of rem
 
 For detailed monthly budgets, see our [Digital Nomad Thailand guide](https://go2-thailand.com/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/).
 
+## Beyond the visa — long-term money and pet setup
+
+For nomads planning a multi-year commitment to Thailand, two practical resources from our sister editorial sites:
+
+- **[How to start investing in ETFs as a European](https://zerotostocks.com/blog/how-to-start-investing-in-etfs-as-a-european)** — UCITS ETFs and EU-domiciled brokers for nomads who keep their investments in European jurisdictions while working abroad.
+- **[Best pet insurance 2026](https://zerotoinsurance.com/blog/best-pet-insurance-2026)** — honest provider comparisons for nomads bringing pets on long-stay DTV trips.
+
 *Sources: [Bangkok Heaven](https://bangkokheaven.com/bangkok-digital-nomad-guide-2026/), [Aster Lion](https://asterlion.com/thailand-ultimate-digital-nomad-hub/), [The Digital Nomad Asia](https://www.thedigitalnomad.asia/coworking-spaces/thailand/coworking-spaces-in-thailand/)*
