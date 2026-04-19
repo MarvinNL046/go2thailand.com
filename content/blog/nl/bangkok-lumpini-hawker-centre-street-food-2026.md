@@ -7,11 +7,15 @@ author:
 category: "food"
 tags: ["Bangkok streetfood", "Lumpini Park", "hawker centre Bangkok", "Bangkok eten 2026", "streetfood 2026", "Ratchadamri Road", "Bangkok hawker centre", "goedkoop eten Bangkok", "Bangkok food gids", "waar eten in Bangkok", "Pathum Wan eten", "Thailand tips", "vakantie Thailand", "Bangkok bezienswaardigheden"]
 image: "/images/blog/bangkok-lumpini-hawker-centre-street-food-2026.webp"
-description: "Complete gids voor Bangkoks eerste hawker centre bij Lumpini Park, opening mei 2026. 88 streetfoodstalletjes, openingstijden, route en praktische tips."
+description: "Complete gids voor Bangkoks eerste hawker centre bij Lumpini Park — soft-opened 10 april 2026 met 100+ roulerende verkopers. Echte prijzen uit de trial, beide shifts (5am–midnight), route en praktische tips."
 featured: false
 readingTime: 10
-lastUpdated: "2026-04-02"
+lastUpdated: "2026-04-19"
 sources:
+  - name: "Nation Thailand — Bangkok soft-opens Hawker Centre Suan Lumphini with LINE MAN"
+    url: "https://www.nationthailand.com/blogs/thailand/bangkok/40064920"
+  - name: "Bangkok Post — Street food hub opens near Lumpini Park"
+    url: "https://www.bangkokpost.com/thailand/general/3234784/street-food-hub-opens-near-lumpini-park"
   - name: "Bangkok Post — New hawker centre to open in 2026"
     url: "https://www.bangkokpost.com/thailand/general/3087052/new-hawker-centre-to-open-in-2026"
   - name: "Nation Thailand — New Hawker Centre to Modernise Bangkok's Street Food Scene"
@@ -28,9 +32,9 @@ sources:
 
 ## Bangkok krijgt zijn eerste hawker centre in Singaporese stijl
 
-Bangkok is al lang de onbetwiste hoofdstad van [Thaise streetfood](/blog/thai-street-food-guide-2026/), maar de straatverkopers van de stad opereerden altijd zonder een vast, georganiseerd onderkomen. Daar komt in mei 2026 verandering in met de opening van het Lumpini Park Hawker Centre — Bangkoks eerste hawker centre in Singaporese stijl, gelegen aan Ratchadamri Road pal naast een van de meest geliefde groene plekken van de stad.
+Bangkok is al lang de onbetwiste hoofdstad van [Thaise streetfood](/blog/thai-street-food-guide-2026/), maar de straatverkopers van de stad opereerden altijd zonder een vast, georganiseerd onderkomen. Daar kwam op **10 april 2026** verandering in met de [soft opening](https://www.nationthailand.com/blogs/thailand/bangkok/40064920) van het Lumpini Park Hawker Centre — Bangkoks eerste hawker centre in Singaporese stijl, gelegen aan Ratchadamri Road pal naast Gate 5 van een van de meest geliefde groene plekken van de stad. De formele grand-opening staat gepland voor mei 2026; de trial-fase draait al en is toegankelijk voor bezoekers.
 
-De Bangkok Metropolitan Administration (BMA) bouwde het centrum om de voedselveiligheid en hygiëne te verbeteren en straatverkopers met een laag inkomen een fatsoenlijke werkplek te bieden. De bouw startte op 27 juni 2025, en per april 2026 bevestigt de BMA dat het project vrijwel klaar is en [gepland voor opening in mei 2026](https://www.timeout.com/bangkok/news/bangkok-hawker-center-040126). De Lumpini-locatie is een pilotproject — bij succes wil de BMA het concept uitbreiden naar andere wijken van Bangkok.
+De Bangkok Metropolitan Administration (BMA) bouwde het centrum om de voedselveiligheid en hygiëne te verbeteren en straatverkopers met een laag inkomen een fatsoenlijke werkplek te bieden. De bouw startte op 27 juni 2025, en het project soft-opende in april 2026 in samenwerking met **LINE MAN Wongnai**, dat LINE Pay QR-betaalterminals en veel van de gemeenschappelijke uitrusting (servies, handenwas- en afwas-stations, rider-wachtplekken) leverde. De Lumpini-locatie is een pilotproject — bij succes wil de BMA het concept uitbreiden naar andere wijken van Bangkok.
 
 De buurt huisvest ook het recent geopende [Andaz One Bangkok hotel](/blog/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026/), wat de Lumphini-wijk een nieuwe golf aan bezoekers oplevert. Bangkok werd onlangs uitgeroepen tot [beste stad in Azië](/blog/bangkok-best-city-asia-2026-destinasian-award/), en projecten zoals dit hawker centre zijn daar mede de reden voor.
 
@@ -44,14 +48,14 @@ Grote bomen van de bouwplaats werden tijdens de bouw tijdelijk verplaatst binnen
 
 ### Capaciteit en shifts
 
-Het centrum heeft ruimte voor maximaal **88 verkopers per shift**, ieder werkend vanuit compacte 2×2 meter kraampjes met water, elektra en sanitaire voorzieningen. Twee shifts zorgen voor eten van vroeg in de ochtend tot middernacht:
+Het centrum is ontworpen voor maximaal **88 verkopers per shift** (met uitbreiding naar circa 130 kramen gerapporteerd sinds de start), ieder werkend vanuit compacte 2×2 meter kraampjes met water, elektra en sanitaire voorzieningen. Twee shifts zorgen voor eten van vroeg in de ochtend tot middernacht:
 
 | Shift | Uren | Beste voor |
 |---|---|---|
 | **Ochtendshift** | 05:00–16:00 | Ontbijt na een Lumpini Park rondje, lunch |
 | **Avondshift** | 16:00–00:00 | Diner en late night eten |
 
-Met 88 kramen per shift en twee shifts per dag ondersteunt het centrum maximaal **176 verkopersplekken** totaal.
+**Trial-realiteit** (medio april 2026): de BMA meldt "meer dan 100 roulerende verkopers" ingeschreven, maar nog niet elke kraam is actief. Bezoekers in de eerste soft-opening week melden dat de **ochtendshift al druk is** (rond lunchtijd bijna vol), terwijl de **avondshift schaarser is** — bij een vroeg bezoek draaiden maar zo'n 10 kramen in het avondblok. Verwacht dat dit tussen nu en de formele opening in mei vult.
 
 ### Wie krijgt een kraam
 
@@ -65,7 +69,7 @@ Dat betekent dat het eten van dezelfde ervaren verkopers komt die al jaren op de
 
 ## Wat voor eten kun je verwachten
 
-Hoewel specifieke namen en prijzen nog niet zijn aangekondigd, toont het hawker centre Bangkoks representatieve streetfoodgerechten. Op basis van typische Bangkok streetfoodprijzen en de gerechten die [BK Magazine bevestigde](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/), verwacht:
+Het hawker centre toont Bangkoks representatieve streetfoodgerechten. Typische klassiekers ([BK Magazine bevestigde](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/)):
 
 - **[Pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/)** — Thailand's beroemde roergebakken rijstnoedels
 - **[Som tam](/blog/som-tam-regional-variations-thailand/)** — groene papajasalade in diverse regionale stijlen
@@ -73,9 +77,23 @@ Hoewel specifieke namen en prijzen nog niet zijn aangekondigd, toont het hawker 
 - **Boat noodles** — noedelsoepen met rijke, donkere bouillon
 - **Khao man gai** — Hainanese kip met rijst
 - **Pad kra pao** — roergebakken heilige basilicum met varkensgehakt op rijst
+- **Khao kha moo** — gestoofde varkenspoot op rijst
 - **[Mango sticky rice](/blog/mango-sticky-rice-season-thailand/)** — hét ultieme Thaise nagerecht
 
-**Typische Bangkok streetfoodprijzen** ter referentie (het hawker centre wil de straatprijzen behouden):
+### Echte prijzen uit de trial-periode
+
+Dit zijn prijzen die ter plekke zijn waargenomen tijdens de soft opening in april 2026 — genuine street-vendor niveau:
+
+| Item | Waargenomen prijs |
+|---|---|
+| Khao kha moo (varkenspoot op rijst) | ฿50 |
+| Boat noodles (grote kom) | ฿55 |
+| Thaise buffet (all-you-can-eat, bordje) | ฿55 |
+| Gegrilde spiesjes (kip / varken / rund) | ฿10 per stokje (drie voor ฿30) |
+| Lemon tea (normaal) | ฿20 |
+| Honey lemon tea (vers gezet) | ฿25 |
+
+**Typische Bangkok streetfoodprijzen** ter bredere referentie:
 
 | Categorie | Typische prijsrange |
 |---|---|
@@ -92,17 +110,15 @@ Voor meer over goedkoop eten in Bangkok, zie onze gids over hoe je [als een loca
 
 Het hawker centre ligt bij **Gate 5 aan Ratchadamri Road**, recht tegenover het Chulalongkorn-ziekenhuis, in de wijk Pathum Wan.
 
-**Let op:** [BK Magazine merkt op](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/) dat het hawker centre **geen directe verbinding** heeft met het dichtstbijzijnde BTS-station. Toch is het goed bereikbaar:
+**Let op:** [BK Magazine merkt op](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/) dat het hawker centre **geen directe overdekte loopverbinding** heeft met een BTS-station. Meerdere stations liggen wel op comfortabele loopafstand:
 
-**Met BTS Skytrain:**
-- Neem de BTS naar **station Sala Daeng** (Silom-lijn)
-- Neem **uitgang 6** en loop zuidwaarts langs Ratchadamri Road richting het park
-- Ongeveer 10–15 minuten lopen
+**Met BTS Skytrain (dichtstbijzijnde opties):**
+- **BTS Ratchadamri** (Silom-lijn) — **uitgang 2**, een korte wandeling noordwaarts langs Ratchadamri Road naar Gate 5. Meest praktische BTS-optie.
+- **BTS Sala Daeng** (Silom-lijn) — **uitgang 6**, dan zuidwaarts langs Ratchadamri Road richting het park. Ongeveer 10–15 minuten lopen.
 
 **Met MRT:**
-- Neem de MRT naar **station Suan Lum** (Blauwe lijn)
-- Neem **uitgang 1** en loop richting Ratchadamri Road
-- Ongeveer 10 minuten lopen
+- **MRT Si Lom / Silom station** (Blauwe lijn) — **uitgang 1**, dan langs Ratchadamri Road. Ongeveer 10 minuten lopen.
+- **MRT Suan Lum / Lumphini station** (Blauwe lijn) — **uitgang 1**, ook zo'n 10 minuten lopen.
 
 **Met taxi of Grab:**
 - Zeg tegen de chauffeur: "ศูนย์อาหาร ลุมพินี ถนนราชดำริ" (Hawker Centre Lumpini, Thanon Ratchadamri)
@@ -156,11 +172,11 @@ Als het hawker centre je trek aanwakkert, heeft Bangkok nog veel meer te bieden:
 
 ### Wanneer opent het Lumpini Hawker Centre?
 
-De Bangkok Metropolitan Administration (BMA) heeft bevestigd dat het hawker centre **in mei 2026** opent. De bouw begon op 27 juni 2025. Per april 2026 is het project vrijwel klaar. We updaten deze gids met de exacte openingsdatum zodra die bekend is.
+Het centrum is [**soft-opened op 10 april 2026**](https://www.nationthailand.com/blogs/thailand/bangkok/40064920) in samenwerking met LINE MAN Wongnai. De formele grand-opening staat gepland voor **mei 2026**. De bouw begon op 27 juni 2025. Tijdens de soft-opening trial zijn nog niet alle kramen actief — verwacht dat de capaciteit tussen nu en de formele opening vult.
 
 ### Hoeveel kost eten in het hawker centre?
 
-Specifieke prijzen zijn nog niet bekendgemaakt, maar het hawker centre is zo ontworpen dat Bangkoks betaalbare streetfoodprijzen behouden blijven. Typische Bangkok streetfoodgerechten kosten ฿40–80 voor een hoofdgerecht. Omdat de verkopers dezelfde mensen zijn die eerder op de stoep kookten, verwacht je vergelijkbare prijzen als bij reguliere straatkraampjes.
+Echt betaalbaar. Echte prijzen waargenomen tijdens de april 2026 soft-opening: khao kha moo (varkenspoot op rijst) rond ฿50, grote kom boat noodles ฿55, gegrilde spiesjes ฿10 per stokje, lemon tea ฿20 (honey variant ฿25). Er is ook een aangegeven Thai buffet op ฿55 all-you-can-eat. De BMA ontwierp het project om straatprijzen te behouden, en de waargenomen prijzen matchen typische trottoir-verkopers.
 
 ### Wat zijn de openingstijden?
 
@@ -172,7 +188,7 @@ Nee. Het gebouw gebruikt bewust natuurlijke ventilatie. Het is gebouwd om milieu
 
 ### Hoe kom ik er met het openbaar vervoer?
 
-De dichtstbijzijnde stations zijn **BTS Sala Daeng (uitgang 6)** en **MRT Suan Lum (uitgang 1)**. Er is geen directe BTS-loopverbinding naar het hawker centre — je loopt ongeveer 10–15 minuten langs Ratchadamri Road. Het hawker centre zit bij Gate 5 van Lumpini Park, tegenover het Chulalongkorn-ziekenhuis.
+Meest praktisch is **BTS Ratchadamri (uitgang 2)** op de Silom-lijn — een korte wandeling noordwaarts langs Ratchadamri Road naar Gate 5. Andere nabije opties zijn **BTS Sala Daeng (uitgang 6)** en **MRT Si Lom / Suan Lum (uitgang 1)**, beide circa 10–15 minuten lopen. Er is geen directe overdekte loopverbinding vanaf een station; je loopt het laatste stuk langs Ratchadamri Road. Het hawker centre zit bij Gate 5 van Lumpini Park, tegenover het Chulalongkorn-ziekenhuis.
 
 ### Wie zijn de verkopers?
 
@@ -188,4 +204,4 @@ Het Lumpini Hawker Centre wordt waarschijnlijk een van de beste plekken voor toe
 
 ---
 
-*Deze gids wordt bijgewerkt zodra het Lumpini Hawker Centre in mei 2026 opent, met bevestigde details over verkopers, prijzen en foto's. Laatst geverifieerd: april 2026.*
+*Bijgewerkt met soft-opening details, echte prijzen en herziene transit-info. Het centrum soft-opende op 10 april 2026; formele lancering staat gepland voor mei 2026. We blijven deze gids updaten naarmate het verkopersaanbod en de avondshift aanvullen. Laatst geverifieerd: 19 april 2026.*

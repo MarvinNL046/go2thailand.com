@@ -7,11 +7,15 @@ author:
 category: "food"
 tags: ["Bangkok street food", "Lumpini Park", "hawker centre Bangkok", "Bangkok food 2026", "street food 2026", "Ratchadamri Road", "Bangkok hawker centre", "cheap eats Bangkok", "Bangkok food guide", "where to eat Bangkok", "Pathum Wan food"]
 image: "/images/blog/bangkok-lumpini-hawker-centre-street-food-2026.webp"
-description: "Complete guide to Bangkok's first hawker centre at Lumpini Park, opening May 2026. 88 street food stalls across two shifts (5am–midnight), how to get there, what to expect, and practical tips."
+description: "Complete guide to Bangkok's first hawker centre at Lumpini Park — soft-opened 10 April 2026 with 100+ rotating vendors. Real sample prices from the trial period, both-shift hours (5am–midnight), how to get there, practical tips."
 featured: false
 readingTime: 10
-lastUpdated: "2026-04-02"
+lastUpdated: "2026-04-19"
 sources:
+  - name: "Nation Thailand — Bangkok soft-opens Hawker Centre Suan Lumphini with LINE MAN"
+    url: "https://www.nationthailand.com/blogs/thailand/bangkok/40064920"
+  - name: "Bangkok Post — Street food hub opens near Lumpini Park"
+    url: "https://www.bangkokpost.com/thailand/general/3234784/street-food-hub-opens-near-lumpini-park"
   - name: "Bangkok Post — New hawker centre to open in 2026"
     url: "https://www.bangkokpost.com/thailand/general/3087052/new-hawker-centre-to-open-in-2026"
   - name: "Nation Thailand — New Hawker Centre to Modernise Bangkok's Street Food Scene"
@@ -28,9 +32,9 @@ sources:
 
 ## Bangkok Gets Its First Singapore-Style Hawker Centre
 
-Bangkok has long been the undisputed capital of [Thai street food](/blog/thai-street-food-guide-2026/), but the city's pavement vendors have always operated without a permanent, organized home. That changes in May 2026 with the opening of the Lumpini Park Hawker Centre — Bangkok's first Singapore-style hawker centre, located on Ratchadamri Road right next to one of the city's most beloved green spaces.
+Bangkok has long been the undisputed capital of [Thai street food](/blog/thai-street-food-guide-2026/), but the city's pavement vendors have always operated without a permanent, organized home. That changed on **10 April 2026** with the [soft opening](https://www.nationthailand.com/blogs/thailand/bangkok/40064920) of the Lumpini Park Hawker Centre — Bangkok's first Singapore-style hawker centre, located on Ratchadamri Road right next to Gate 5 of one of the city's most beloved green spaces. The formal launch is planned for May 2026; the trial phase is already live and open to visitors.
 
-The Bangkok Metropolitan Administration (BMA) built the centre to raise food safety and hygiene standards while giving low-income street vendors a proper place to cook and sell. Construction started on 27 June 2025, and as of April 2026, the BMA confirms the project is nearly complete and [set to open in May 2026](https://www.timeout.com/bangkok/news/bangkok-hawker-center-040126). The Lumpini location is a pilot project — if successful, the BMA plans to expand the hawker centre concept to other Bangkok districts.
+The Bangkok Metropolitan Administration (BMA) built the centre to raise food safety and hygiene standards while giving low-income street vendors a proper place to cook and sell. Construction started on 27 June 2025, and the project soft-opened in April 2026 in partnership with **LINE MAN Wongnai**, which supplied LINE Pay QR payment terminals and much of the communal equipment (crockery, hand-washing and dishwashing stations, rider waiting areas). The Lumpini location is a pilot project — if successful, the BMA plans to expand the hawker centre concept to other Bangkok districts.
 
 The area is also home to the newly opened [Andaz One Bangkok hotel](/blog/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026/), giving the Lumphini district a fresh wave of visitor interest. Bangkok has recently been named [best city in Asia](/blog/bangkok-best-city-asia-2026-destinasian-award/), and projects like this hawker centre are part of why.
 
@@ -44,14 +48,14 @@ Large trees from the construction site were temporarily relocated within Lumpini
 
 ### Capacity and Shifts
 
-The centre accommodates up to **88 vendors per shift**, each working from compact 2×2 metre stalls equipped with water, electricity and sanitation. Two shifts keep food flowing from early morning to midnight:
+The centre is designed for up to **88 vendors per shift** (with capacity expansion to around 130 stalls reported since launch), each working from compact 2×2 metre stalls equipped with water, electricity and sanitation. Two shifts keep food flowing from early morning to midnight:
 
 | Shift | Hours | Best for |
 |---|---|---|
 | **Morning shift** | 05:00–16:00 | Breakfast after a Lumpini Park jog, lunch |
 | **Evening shift** | 16:00–00:00 | Dinner and late-night eating |
 
-With 88 stalls per shift and two shifts daily, the centre supports up to **176 vendor slots** in total.
+**Trial-period reality check** (as of mid-April 2026): the BMA reports "more than 100 rotating vendors" are registered, but not every stall is active yet. Visitors in the first week of soft opening report **the morning shift is lively** (most stalls filled around lunchtime), while the **evening shift is sparser** — at one early visit only around 10 stalls were running in the evening block. Expect this to fill out steadily between now and the May formal opening.
 
 ### Who Gets a Stall
 
@@ -65,7 +69,7 @@ This means the food will come from the same experienced vendors who have been co
 
 ## What Food to Expect
 
-While specific vendor names and prices have not been announced yet, the hawker centre will showcase Bangkok's representative street food dishes. Based on typical Bangkok street food prices and the types of dishes [confirmed by BK Magazine](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/), expect to find:
+The hawker centre showcases Bangkok's representative street food dishes. Typical Bangkok staples [confirmed by BK Magazine](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/) include:
 
 - **[Pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/)** — Thailand's famous stir-fried rice noodles
 - **[Som tam](/blog/som-tam-regional-variations-thailand/)** — green papaya salad in various regional styles
@@ -73,9 +77,23 @@ While specific vendor names and prices have not been announced yet, the hawker c
 - **Boat noodles** — rich, dark-broth noodle soups
 - **Khao man gai** — Hainanese chicken rice
 - **Pad kra pao** — stir-fried holy basil with minced pork over rice
+- **Khao kha moo** — braised pork leg on rice
 - **[Mango sticky rice](/blog/mango-sticky-rice-season-thailand/)** — the ultimate Thai dessert
 
-**Typical Bangkok street food prices** for reference (the hawker centre aims to maintain street-level pricing):
+### Real sample prices from the trial period
+
+These are actual prices observed on-site during the April 2026 soft-opening trial — dishes and drinks are running at genuine street-vendor levels:
+
+| Item | Observed price |
+|---|---|
+| Khao kha moo (pork leg rice) | ฿50 |
+| Boat noodles (large bowl) | ฿55 |
+| Thai buffet (all-you-can-eat, signposted) | ฿55 |
+| Grilled skewers (chicken / pork / beef) | ฿10 per stick (three for ฿30) |
+| Lemon tea (regular) | ฿20 |
+| Honey lemon tea (freshly brewed) | ฿25 |
+
+**Typical Bangkok street food prices** for wider reference:
 
 | Category | Typical price range |
 |---|---|
@@ -92,17 +110,15 @@ For more on eating cheaply in Bangkok, see our guide on how to [eat like a local
 
 The hawker centre is at **Gate 5 on Ratchadamri Road**, directly opposite Chulalongkorn Hospital, in the Pathum Wan district.
 
-**Important:** [BK Magazine notes](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/) that the hawker centre does **not have a direct link** to the nearest BTS station. However, it is still easily reachable:
+**Important:** [BK Magazine notes](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/) that the hawker centre does **not have a direct covered walkway** to any BTS station. However, several stations are comfortably within walking distance:
 
-**By BTS Skytrain:**
-- Take the BTS to **Sala Daeng station** (Silom line)
-- Take **Exit 6** and walk south along Ratchadamri Road toward the park
-- Approximately 10–15 minutes on foot
+**By BTS Skytrain (closest options):**
+- **BTS Ratchadamri** (Silom line) — **Exit 2**, a short walk north along Ratchadamri Road to Gate 5. This is the most practical BTS option.
+- **BTS Sala Daeng** (Silom line) — **Exit 6**, then walk south along Ratchadamri Road toward the park. Approximately 10–15 minutes on foot.
 
 **By MRT:**
-- Take the MRT to **Suan Lum station** (Blue line)
-- Take **Exit 1** and walk toward Ratchadamri Road
-- Approximately 10 minutes on foot
+- **MRT Si Lom / Silom station** (Blue line) — **Exit 1**, then walk along Ratchadamri Road. Approximately 10 minutes on foot.
+- **MRT Suan Lum / Lumphini station** (Blue line) — **Exit 1**, also around 10 minutes on foot.
 
 **By taxi or Grab:**
 - Tell the driver: "ศูนย์อาหาร ลุมพินี ถนนราชดำริ" (Hawker Centre Lumpini, Thanon Ratchadamri)
@@ -156,11 +172,11 @@ If the hawker centre whets your appetite, Bangkok has plenty more to explore:
 
 ### When does the Lumpini Hawker Centre open?
 
-The Bangkok Metropolitan Administration (BMA) has confirmed the hawker centre is set to open in **May 2026**. Construction began on 27 June 2025. As of April 2026, the project is nearly complete. We will update this guide with the exact opening date once announced.
+The centre [**soft-opened on 10 April 2026**](https://www.nationthailand.com/blogs/thailand/bangkok/40064920) in partnership with LINE MAN Wongnai. The formal grand opening is planned for **May 2026**. Construction began on 27 June 2025. During the soft-opening trial, not all vendor stalls are active yet — expect capacity to keep filling out between now and the formal launch.
 
-### How much will food cost at the hawker centre?
+### How much does food cost at the hawker centre?
 
-Specific prices have not been announced yet, but the hawker centre is designed to maintain Bangkok's affordable street food pricing. Typical Bangkok street food dishes cost ฿40–80 for a main dish. Since the vendors are the same people who previously cooked on the pavement, expect similar prices to regular street stalls.
+Genuinely affordable. Real prices observed during the April 2026 soft-opening: pork leg rice around ฿50, a large bowl of boat noodles ฿55, grilled skewers ฿10 each, lemon tea ฿20 (honey version ฿25). There is also a signposted Thai buffet at ฿55 all-you-can-eat. The BMA designed the project to keep street-level pricing intact, and the observed prices match typical pavement-vendor rates.
 
 ### What are the opening hours?
 
@@ -172,7 +188,7 @@ No. The building uses natural ventilation by design. It was built to be environm
 
 ### How do I get there by public transport?
 
-The nearest stations are **BTS Sala Daeng (Exit 6)** and **MRT Suan Lum (Exit 1)**. Note that there is no direct BTS walkway to the hawker centre — you will need to walk approximately 10–15 minutes along Ratchadamri Road. The hawker centre is at Gate 5 of Lumpini Park, opposite Chulalongkorn Hospital.
+The most practical option is **BTS Ratchadamri (Exit 2)** on the Silom line — a short walk north along Ratchadamri Road to Gate 5. Other nearby options are **BTS Sala Daeng (Exit 6)** and **MRT Si Lom / Suan Lum (Exit 1)**, both about a 10–15 minute walk. There is no direct covered walkway from any station to the hawker centre; you'll walk the last stretch along Ratchadamri Road. The hawker centre is at Gate 5 of Lumpini Park, opposite Chulalongkorn Hospital.
 
 ### Who are the vendors?
 
@@ -188,4 +204,4 @@ The Lumpini Hawker Centre will likely be one of the best places for tourists to 
 
 ---
 
-*This guide will be updated once the Lumpini Hawker Centre opens in May 2026 with confirmed vendor details, food prices, and photos. Last verified: April 2026.*
+*Updated with soft-opening details, real sample prices, and revised transit guidance. The centre soft-opened on 10 April 2026; formal launch is planned for May 2026. We'll keep updating this guide as the vendor lineup and evening shift fill out. Last verified: 19 April 2026.*
