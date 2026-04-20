@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-04-20T05:00:16.863Z",
+  "period": {
+    "recent": "2026-04-10 to 2026-04-17",
+    "previous": "2026-04-03 to 2026-04-10"
+  },
+  "summary": {
+    "totalClicks": 3,
+    "totalImpressions": 1632,
+    "avgCTR": 0.2,
+    "avgPosition": 45,
+    "uniqueQueries": 501,
+    "uniquePages": 105
+  },
+  "cannibalization": [
+    {
+      "query": "phuket",
+      "pages": [
+        {
+          "page": "https://go2-thailand.com/ja/city/phuket/",
+          "clicks": 0,
+          "impressions": 1,
+          "position": 52
+        },
+        {
+          "page": "https://go2-thailand.com/city/phuket/",
+          "clicks": 0,
+          "impressions": 32,
+          "position": 68.9375
+        }
+      ]
+    }
+  ],
+  "contentDecay": [],
+  "quickWins": []
+}
