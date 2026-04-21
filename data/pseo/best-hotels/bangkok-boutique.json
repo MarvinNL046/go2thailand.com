@@ -1,0 +1,458 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "category": "boutique",
+  "hotels": [
+    {
+      "name": "NapPark Hostel @ Khao San",
+      "category": "budget",
+      "priceRange": "300–600 THB (~8–17 USD) per bed/night",
+      "area": "Khao San / Banglamphu",
+      "description": "A well-run, modern hostel on the doorstep of Khao San Road that stands out for its design-forward pod beds with individual privacy curtains, personal lighting and USB charging. Common areas are social without being chaotic, and the location puts you 10 minutes walk from the Grand Palace.",
+      "highlights": [
+        "Pod-style beds with privacy curtains and individual power points",
+        "Located 2 minutes walk from Khao San Road",
+        "Clean, modern bathrooms with reliable hot water",
+        "24-hour reception and luggage storage",
+        "Strong WiFi throughout"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnappark-hostel-khao-san.html",
+      "reviewScore": "8.2/10",
+      "bestFor": [
+        "Solo backpackers",
+        "Budget travellers",
+        "Party seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "NapPark Official Site",
+          "sourceUrl": "https://www.nappark.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Lub d Bangkok Siam",
+      "category": "budget",
+      "priceRange": "400–900 THB (~11–26 USD) dorm; 1,100–1,500 THB private",
+      "area": "Siam / Pathum Wan",
+      "description": "Lub d (pronounced 'lup dee' — Thai for 'sleep well') is a design-conscious hostel brand with a social lounge, co-working space and lively bar. The Siam branch sits above MBK Shopping Centre within walking distance of BTS National Stadium and Siam Square. Popular with digital nomads and sociable solo travellers.",
+      "highlights": [
+        "Central location 1 minute from BTS National Stadium",
+        "Social bar and lounge area with regular events",
+        "Both dorms and private rooms available",
+        "Co-working space with fast WiFi",
+        "Rooftop terrace with city views"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Flub-d-bangkok-siam.html",
+      "reviewScore": "8.5/10",
+      "bestFor": [
+        "Solo travellers",
+        "Digital nomads",
+        "Social backpackers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lub d Official",
+          "sourceUrl": "https://www.lubd.com/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "ibis Bangkok Siam",
+      "category": "budget",
+      "priceRange": "1,200–1,800 THB (~34–51 USD) per night",
+      "area": "Siam / Pathum Wan",
+      "description": "ibis Bangkok Siam is the benchmark budget hotel in central Bangkok — reliable, clean and strategically located next to National Stadium BTS Skytrain Station. Rooms are compact but well-designed with comfortable beds, blackout curtains and strong air-conditioning. Perfect for travellers who want a private room without paying mid-range prices.",
+      "highlights": [
+        "Right next to National Stadium BTS station",
+        "Private en-suite rooms with reliable A/C and WiFi",
+        "On-site restaurant serving Thai and international breakfast from 150 THB",
+        "24-hour front desk",
+        "5-minute walk to MBK Shopping Centre and Siam Square"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fibis-bangkok-siam.html",
+      "reviewScore": "8.1/10",
+      "bestFor": [
+        "Budget solo travellers",
+        "Couples on a budget",
+        "Business travellers watching costs"
+      ],
+      "sources": [
+        {
+          "sourceName": "Tripadvisor — ibis Bangkok Siam",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293916-d3529175-Reviews-Ibis_Bangkok_Siam-Bangkok.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Baan Dinso @ Ratanakosin",
+      "category": "budget",
+      "priceRange": "900–1,400 THB (~26–40 USD) per night",
+      "area": "Old City / Rattanakosin",
+      "description": "A characterful guesthouse in a restored shophouse in the heart of the Old City, Baan Dinso is a 5-minute walk from the Grand Palace, Wat Pho and Khao San Road. Rooms are simple but spotless with wooden floors, en-suite bathrooms and good air-conditioning. Excellent value for the unbeatable location.",
+      "highlights": [
+        "5-minute walk from Grand Palace and Wat Pho",
+        "Restored shophouse with local character",
+        "Excellent value for Old City location",
+        "Daily housekeeping and free WiFi",
+        "Helpful staff with local restaurant recommendations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-dinso-at-rattanakosin.html",
+      "reviewScore": "8.4/10",
+      "bestFor": [
+        "Temple explorers",
+        "Couples",
+        "First-time Bangkok visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Budget Your Trip — Bangkok Hotels",
+          "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "SALA Rattanakosin Bangkok",
+      "category": "mid-range",
+      "priceRange": "3,800–7,000 THB (~109–200 USD) per night",
+      "area": "Riverside / Old City",
+      "description": "A boutique riverside hotel with just 15 rooms, SALA Rattanakosin offers one of Bangkok's most dramatic views — the Grand Palace and Wat Pho directly across the water from your room or the stunning rooftop bar. The intimate scale and personalised service make it feel far more special than its price suggests.",
+      "highlights": [
+        "Rooftop bar with direct views of Wat Arun and the Chao Phraya River",
+        "Boutique property with only 15 rooms — personalised service",
+        "Walking distance to Grand Palace, Wat Pho and Tha Chang Pier",
+        "Minimalist Thai design with riverside balconies on select rooms",
+        "Acclaimed restaurant serving modern Thai cuisine"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-rattanakosin-bangkok.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Couples",
+        "Design lovers",
+        "Temple explorers",
+        "Special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — SALA Rattanakosin",
+          "sourceUrl": "https://www.booking.com/hotel/th/sala-rattanakosin-bangkok.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "137 Pillars Suites & Residences Bangkok",
+      "category": "mid-range",
+      "priceRange": "5,000–8,500 THB (~143–243 USD) per night",
+      "area": "Sukhumvit",
+      "description": "An all-suite boutique hotel on Sukhumvit Soi 39 inspired by the brand's original 1889 colonial property in Chiang Mai. Every suite is generously sized (75–175 sqm) with a separate living room, private balcony and teak furnishings. The rooftop pool, Jack Bar and attentive butler service elevate this well above standard mid-range.",
+      "highlights": [
+        "All-suite hotel — smallest room is 75 sqm with private balcony",
+        "Rooftop infinity pool with Sukhumvit skyline views",
+        "Butler service available 24 hours",
+        "Award-winning Jack Bar cocktail bar and Nimitr restaurant",
+        "Quiet location on Soi 39, 10 minutes from BTS Phrom Phong"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2F137-pillars-suites-residences-bangkok.html",
+      "reviewScore": "9.3/10",
+      "bestFor": [
+        "Honeymooners",
+        "Luxury travellers on a budget",
+        "Long-stay guests"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyeglobal — Bangkok Hotels",
+          "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Mandarin Oriental Bangkok",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB (~343–1,000 USD) per night",
+      "area": "Riverside (Charoen Krung)",
+      "description": "Opened in 1876, the Mandarin Oriental is one of the world's great hotels and consistently rated Asia's finest. Its Authors' Wing houses legendary suites named after Somerset Maugham, Joseph Conrad and Noel Coward, who all stayed here. Two Michelin-starred Le Normandie restaurant, a world-class spa and timeless riverside elegance set it apart.",
+      "highlights": [
+        "One of the world's oldest and most celebrated hotels, opened 1876",
+        "Two Michelin-starred Le Normandie restaurant",
+        "Legendary Authors' Suites named after literary giants",
+        "Riverside pool with Chao Phraya views",
+        "Complimentary tuk-tuk and river ferry service for guests",
+        "Thai cooking school in a converted 1870s house"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMandarin%2520Oriental%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.4/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Special occasions",
+        "Foodies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Mandarin Oriental Bangkok Official",
+          "sourceUrl": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/stay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chatrium Hotel Riverside Bangkok",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB (~157–343 USD) per night",
+      "area": "Riverside",
+      "description": "A 5-star riverfront hotel near Asiatique The Riverfront with spacious suites, multiple pools, a full spa and stunning Chao Phraya views. Chatrium Riverside is excellent value in the luxury segment — you get genuine 5-star facilities and a prime riverside location at prices well below Mandarin Oriental and The Peninsula.",
+      "highlights": [
+        "4 swimming pools including a children's pool",
+        "All riverside rooms have balconies with Chao Phraya views",
+        "Direct access to Asiatique The Riverfront night market",
+        "Full-service spa and gym",
+        "Multiple dining venues including a rooftop bar",
+        "Complimentary shuttle boat to BTS Taksin station"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchatrium-riverside-bangkok.html",
+      "reviewScore": "9.1/10",
+      "bestFor": [
+        "Families",
+        "Couples",
+        "Value luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com — Chatrium Riverside",
+          "sourceUrl": "https://www.hotels.com/ho311257/chatrium-hotel-riverside-bangkok-bangkok-thailand/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "SO/ Bangkok",
+      "category": "luxury",
+      "priceRange": "6,000–15,000 THB (~171–429 USD) per night",
+      "area": "Silom / Sathorn",
+      "description": "SO/ Bangkok is a design-forward 5-star hotel above Lumpini Park in the Silom financial district. Designed by five Thai designers (one per floor theme), the hotel's rooms are bold, colourful and memorable. The rooftop Park Society bar and the outdoor pool with park views are highlights, and the BTS/MRT stations are a 5-minute walk.",
+      "highlights": [
+        "Stunning design — rooms themed around Thai elements by local designers",
+        "Rooftop Park Society bar with views over Lumpini Park",
+        "Infinity pool overlooking the park",
+        "Connected to MRT Lumpini station",
+        "Michelin Bib Gourmand Thai restaurant HAV on the ground floor"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fso-sofitel-bangkok.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Business travellers",
+        "Nightlife seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyeglobal — Bangkok Hotels",
+          "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "What is the best boutique hotel in Bangkok?",
+    "Where should I stay in Bangkok for boutique hotels?",
+    "Which Bangkok boutique hotels are worth booking?",
+    "What area has the best boutique hotels in Bangkok?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong boutique hotel in Bangkok can mean paying for style while losing the location or comfort that actually improves the stay.",
+    "intro": "The best boutique hotels in Bangkok should fit the reason you are booking, not just the nightly price. We ranked these hotels by design character, room individuality, area fit, service feel, and booking value.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "NapPark Hostel @ Khao San",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Lub d Bangkok Siam",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Best design",
+        "name": "ibis Bangkok Siam",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Small boutique hotels in Bangkok have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory.",
+    "comparisonTable": [
+      {
+        "name": "NapPark Hostel @ Khao San",
+        "area": "Khao San / Banglamphu",
+        "priceBand": "€",
+        "bestFor": "Solo backpackers, Budget travellers",
+        "standout": "Pod-style beds with privacy curtains and individual power points",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "Lub d Bangkok Siam",
+        "area": "Siam / Pathum Wan",
+        "priceBand": "€",
+        "bestFor": "Solo travellers, Digital nomads",
+        "standout": "Central location 1 minute from BTS National Stadium",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "ibis Bangkok Siam",
+        "area": "Siam / Pathum Wan",
+        "priceBand": "€",
+        "bestFor": "Budget solo travellers, Couples on a budget",
+        "standout": "Right next to National Stadium BTS station",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "Baan Dinso @ Ratanakosin",
+        "area": "Old City / Rattanakosin",
+        "priceBand": "€",
+        "bestFor": "Temple explorers, Couples",
+        "standout": "5-minute walk from Grand Palace and Wat Pho",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "SALA Rattanakosin Bangkok",
+        "area": "Riverside / Old City",
+        "priceBand": "€€",
+        "bestFor": "Couples, Design lovers",
+        "standout": "Rooftop bar with direct views of Wat Arun and the Chao Phraya River",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "137 Pillars Suites & Residences Bangkok",
+        "area": "Sukhumvit",
+        "priceBand": "€€",
+        "bestFor": "Honeymooners, Luxury travellers on a budget",
+        "standout": "All-suite hotel — smallest room is 75 sqm with private balcony",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "Mandarin Oriental Bangkok",
+        "area": "Riverside (Charoen Krung)",
+        "priceBand": "€€€",
+        "bestFor": "Luxury travellers, Honeymooners",
+        "standout": "One of the world's oldest and most celebrated hotels, opened 1876",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "Chatrium Hotel Riverside Bangkok",
+        "area": "Riverside",
+        "priceBand": "€€€",
+        "bestFor": "Families, Couples",
+        "standout": "4 swimming pools including a children's pool",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "SO/ Bangkok",
+        "area": "Silom / Sathorn",
+        "priceBand": "€€€",
+        "bestFor": "Design lovers, Couples",
+        "standout": "Stunning design — rooms themed around Thai elements by local designers",
+        "drawback": "Traffic can affect plans"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest boutique pick, choose NapPark Hostel @ Khao San.",
+      "If you want a practical base with strong value, choose Lub d Bangkok Siam.",
+      "If the top pick is unavailable, compare ibis Bangkok Siam.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "NapPark Hostel @ Khao San",
+        "why": "NapPark Hostel @ Khao San is the strongest boutique pick because it balances character, location, and a more memorable stay better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Khao San / Banglamphu",
+          "Typical range: 300–600 THB (~8–17 USD) per bed/night",
+          "Small boutique hotels in Bangkok have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose NapPark Hostel @ Khao San for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Lub d Bangkok Siam",
+        "why": "Lub d Bangkok Siam is a good alternative when its area or room style fits your itinerary better than NapPark Hostel @ Khao San.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Siam / Pathum Wan",
+          "Typical range: 400–900 THB (~11–26 USD) dorm; 1,100–1,500 THB private",
+          "Small boutique hotels in Bangkok have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose Lub d Bangkok Siam for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "ibis Bangkok Siam",
+        "why": "ibis Bangkok Siam is a good alternative when its area or room style fits your itinerary better than NapPark Hostel @ Khao San.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Siam / Pathum Wan",
+          "Typical range: 1,200–1,800 THB (~34–51 USD) per night",
+          "Small boutique hotels in Bangkok have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose ibis Bangkok Siam for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "NapPark Hostel @ Khao San",
+    "topPickReason": "NapPark Hostel @ Khao San is the easiest boutique recommendation when you want character, location, and a more memorable stay.",
+    "bookingTips": [
+      "Compare rates for NapPark Hostel @ Khao San first, then check Lub d Bangkok Siam and ibis Bangkok Siam for refundable deals on the same dates.",
+      "Small boutique hotels in Bangkok have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory.",
+      "Use the exact area as a filter; a cheaper Bangkok hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing boutique over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Bangkok hotel inventory to boutique properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/bangkok/",
+      "/where-to-stay/bangkok/",
+      "/best-hotels/bangkok/mid-range/",
+      "/where-to-stay/bangkok/first-time/",
+      "/city/bangkok/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare boutique hotels in Bangkok'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View NapPark Hostel @ Khao San'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best boutique hotel in Bangkok?",
+        "a": "NapPark Hostel @ Khao San is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Lub d Bangkok Siam if your dates are expensive."
+      },
+      {
+        "q": "Which area has good boutique hotels in Bangkok?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are boutique hotels in Bangkok worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book boutique hotels in Bangkok?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Boutique Hotels in Bangkok (2026)",
+    "metaDescription": "Compare the best boutique hotels in Bangkok by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

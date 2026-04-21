@@ -91,7 +91,7 @@ export function getClusterLinks(citySlug: string, cityName: string) {
     hub: { href: `/destinations/${citySlug}/`, label: `${cityName} Travel Guide` },
     thingsToDo: { href: `/things-to-do/${citySlug}/`, label: `Things To Do in ${cityName}` },
     hotels: { href: `/best-hotels/${citySlug}/`, label: `Best Hotels in ${cityName}` },
-    whereToStay: { href: `/guides/where-to-stay/${citySlug}/`, label: `Where To Stay in ${cityName}` },
+    whereToStay: { href: `/where-to-stay/${citySlug}/`, label: `Where To Stay in ${cityName}` },
     travelGuide: { href: `/guides/travel-guide/${citySlug}/`, label: `${cityName} Travel Guide` },
     // Cross-links to existing /city/ pages
     cityHub: { href: `/city/${citySlug}/`, label: `Explore ${cityName}` },

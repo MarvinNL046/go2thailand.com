@@ -1,0 +1,455 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "category": "couples",
+  "hotels": [
+    {
+      "name": "Stamps Backpackers",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Old City",
+      "description": "Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access to temples and the Night Bazaar. Both dorms and private rooms with air-con.",
+      "highlights": [
+        "Swimming pool — rare for this price range",
+        "Organized social events and tours",
+        "Quiet location despite being central"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStamps%2520Backpackers%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "U Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Old City",
+      "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+      "highlights": [
+        "Front-row seats to Sunday Market from your balcony",
+        "Views of Wat Chedi Luang from select rooms",
+        "Pool and fitness center included"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "ON Thapae Gate",
+      "category": "mid-range",
+      "priceRange": "1,500–2,800 THB/night (~$42–80 USD)",
+      "area": "Old City / Tha Phae Gate",
+      "description": "Modern hotel with spacious rooms, 24/7 reception, and a prime location straddling the Old Town and Night Bazaar areas. Rooftop pool with city views and a stylish lobby cafe.",
+      "highlights": [
+        "Rooftop pool with panoramic views",
+        "Walking distance to both Old City and Night Bazaar",
+        "24-hour reception and concierge"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DON%2520Thapae%2520Gate%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Melia Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "2,200–4,000 THB/night (~$62–112 USD)",
+      "area": "Riverside",
+      "description": "Elegant international hotel along the Ping River with modern rooms, a rooftop bar offering some of the best views in Chiang Mai, and consistently friendly staff. The riverfront location is peaceful yet minutes from the Night Bazaar.",
+      "highlights": [
+        "Rooftop bar with stunning Doi Suthep mountain views",
+        "Riverside location with morning mist views",
+        "Modern gym and swimming pool"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMelia%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit D2 Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Old City (north side)",
+      "description": "A stylish 5-star hotel with a contemporary Thai design, full-service spa, and rooftop pool. Located just outside the northern Old City moat with easy access to the Chiang Mai National Museum and north gate food stalls.",
+      "highlights": [
+        "Full-service Devarana Spa",
+        "Rooftop infinity pool",
+        "Free parking — rare in the Old City area"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d543157-Reviews-DusitD2_Chiang_Mai-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520D2%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Yi's Garden Villa",
+      "category": "mid-range",
+      "priceRange": "1,200–2,500 THB/night (~$34–70 USD)",
+      "area": "Old City (northeast)",
+      "description": "A hidden gem on a quiet road in the northeast corner of the Old City. Large rooms with private balconies offering panoramic mountain views, a swimming pool, and service quality that punches well above its price.",
+      "highlights": [
+        "Mountain views from private balconies",
+        "Swimming pool in a garden setting",
+        "Exceptional value for the quality"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYi's%2520Garden%2520Villa%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "The Inside House",
+      "category": "luxury",
+      "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+      "area": "Old City",
+      "description": "A restored colonial-style boutique hotel with elegant white arches, leafy courtyards, and 14 private pools — the only Old City property offering this. Some suites feature private pools with glass walls. Intimate and beautifully designed.",
+      "highlights": [
+        "14 private pools across the property",
+        "Colonial-meets-Lanna architecture",
+        "Only luxury hotel inside the Old City walls with private pools"
+      ],
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Inside%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "137 Pillars House",
+      "category": "luxury",
+      "priceRange": "8,000–18,000 THB/night (~$225–505 USD)",
+      "area": "Riverside (east side)",
+      "description": "One of Chiang Mai's most prestigious boutique hotels, set in a restored 19th-century teak house. Just 30 suites with outdoor daybeds and some with private plunge pools. Colonial-inspired elegance with impeccable Lanna hospitality.",
+      "highlights": [
+        "Historic 1889 teak building",
+        "Select suites with private plunge pools",
+        "Award-winning restaurant and spa"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3D137%2520Pillars%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Four Seasons Resort Chiang Mai",
+      "category": "luxury",
+      "priceRange": "18,000–50,000 THB/night (~$505–1,400 USD)",
+      "area": "Mae Rim (30 min north of city)",
+      "description": "Northern Thailand's most luxurious resort, set among terraced rice paddies with Doi Suthep mountain as a backdrop. Traditional Lanna pavilions with private pools, a world-class spa, and activities including rice planting, cooking classes, and market tours.",
+      "highlights": [
+        "Private villas overlooking working rice paddies",
+        "Award-winning spa with Lanna treatments",
+        "Complimentary rice planting and harvest experiences"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293917-zff12-Chiang_Mai-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%2520Seasons%2520Resort%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Sireeampan Boutique Resort & Spa",
+      "category": "luxury",
+      "priceRange": "3,500–7,000 THB/night (~$100–196 USD)",
+      "area": "North of Nimman",
+      "description": "A beautifully designed boutique resort inspired by Thai temple architecture. Ornate Lanna craftsmanship throughout, a tranquil pool area, and a full-service spa. Quieter location north of the Nimman buzz but with easy access.",
+      "highlights": [
+        "Temple-inspired architecture unique to Chiang Mai",
+        "Full spa with traditional Thai treatments",
+        "Peaceful garden setting"
+      ],
+      "bestFor": [
+        "couples",
+        "relaxation seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSireeampan%2520Boutique%2520Resort%2520%2526%2520Spa%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best couples hotel in Chiang Mai?",
+    "Where should I stay in Chiang Mai for couples hotels?",
+    "Which Chiang Mai couples hotels are worth booking?",
+    "What area has the best couples hotels in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong couples hotel in Chiang Mai can mean booking a practical hotel that feels wrong for the mood of the trip.",
+    "intro": "The best couples hotels in Chiang Mai should fit the reason you are booking, not just the nightly price. We ranked these hotels by location feel, room comfort, quieter setting, dining access, and value for two-person trips.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Stamps Backpackers",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "U Chiang Mai",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Most romantic",
+        "name": "ON Thapae Gate",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Couples-focused hotels in Chiang Mai can jump during Christmas, New Year, and long weekends, so compare refundable rates early.",
+    "comparisonTable": [
+      {
+        "name": "Stamps Backpackers",
+        "area": "Old City",
+        "priceBand": "€",
+        "bestFor": "backpackers, solo travelers",
+        "standout": "Swimming pool — rare for this price range",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "U Chiang Mai",
+        "area": "Old City",
+        "priceBand": "€€",
+        "bestFor": "couples, first-timers",
+        "standout": "Front-row seats to Sunday Market from your balcony",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "ON Thapae Gate",
+        "area": "Old City / Tha Phae Gate",
+        "priceBand": "€€",
+        "bestFor": "couples, families",
+        "standout": "Rooftop pool with panoramic views",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Melia Chiang Mai",
+        "area": "Riverside",
+        "priceBand": "€€",
+        "bestFor": "couples, business",
+        "standout": "Rooftop bar with stunning Doi Suthep mountain views",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Dusit D2 Chiang Mai",
+        "area": "Old City (north side)",
+        "priceBand": "€€",
+        "bestFor": "couples, business",
+        "standout": "Full-service Devarana Spa",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Yi's Garden Villa",
+        "area": "Old City (northeast)",
+        "priceBand": "€€",
+        "bestFor": "couples, families",
+        "standout": "Mountain views from private balconies",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "The Inside House",
+        "area": "Old City",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "14 private pools across the property",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "137 Pillars House",
+        "area": "Riverside (east side)",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Historic 1889 teak building",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Four Seasons Resort Chiang Mai",
+        "area": "Mae Rim (30 min north of city)",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Private villas overlooking working rice paddies",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Sireeampan Boutique Resort & Spa",
+        "area": "North of Nimman",
+        "priceBand": "€€€",
+        "bestFor": "couples, relaxation seekers",
+        "standout": "Temple-inspired architecture unique to Chiang Mai",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest couples pick, choose Stamps Backpackers.",
+      "If you want a practical base with strong value, choose U Chiang Mai.",
+      "If the top pick is unavailable, compare ON Thapae Gate.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Stamps Backpackers",
+        "why": "Stamps Backpackers is the strongest couples pick because it balances atmosphere, comfort, and a better two-person base better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Old City",
+          "Typical range: 300–600 THB/night (~$8–17 USD)",
+          "Couples-focused hotels in Chiang Mai can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose Stamps Backpackers for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "U Chiang Mai",
+        "why": "U Chiang Mai is a good alternative when its area or room style fits your itinerary better than Stamps Backpackers.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Old City",
+          "Typical range: 1,800–3,500 THB/night (~$50–100 USD)",
+          "Couples-focused hotels in Chiang Mai can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose U Chiang Mai for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "ON Thapae Gate",
+        "why": "ON Thapae Gate is a good alternative when its area or room style fits your itinerary better than Stamps Backpackers.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Old City / Tha Phae Gate",
+          "Typical range: 1,500–2,800 THB/night (~$42–80 USD)",
+          "Couples-focused hotels in Chiang Mai can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose ON Thapae Gate for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Stamps Backpackers",
+    "topPickReason": "Stamps Backpackers is the easiest couples recommendation when you want atmosphere, comfort, and a better two-person base.",
+    "bookingTips": [
+      "Compare rates for Stamps Backpackers first, then check U Chiang Mai and ON Thapae Gate for refundable deals on the same dates.",
+      "Couples-focused hotels in Chiang Mai can jump during Christmas, New Year, and long weekends, so compare refundable rates early.",
+      "Use the exact area as a filter; a cheaper Chiang Mai hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing couples over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Chiang Mai hotel inventory to couples properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/where-to-stay/chiang-mai/",
+      "/best-hotels/chiang-mai/mid-range/",
+      "/where-to-stay/chiang-mai/first-time/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare couples hotels in Chiang Mai'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Stamps Backpackers'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best couples hotel in Chiang Mai?",
+        "a": "Stamps Backpackers is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with U Chiang Mai if your dates are expensive."
+      },
+      {
+        "q": "Which area has good couples hotels in Chiang Mai?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are couples hotels in Chiang Mai worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book couples hotels in Chiang Mai?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Couples Hotels in Chiang Mai (2026)",
+    "metaDescription": "Compare the best couples hotels in Chiang Mai by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

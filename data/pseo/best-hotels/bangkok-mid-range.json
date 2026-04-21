@@ -1,0 +1,275 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "category": "mid-range",
+  "hotels": [
+    {
+      "name": "Chatrium Grand Bangkok",
+      "category": "mid-range",
+      "priceRange": "3,500–6,500 THB (~100–186 USD) per night",
+      "area": "Sukhumvit",
+      "description": "A polished 5-star hotel on Sukhumvit Road that offers luxury-grade amenities at a mid-range price point. Spacious rooms feature floor-to-ceiling windows overlooking the city skyline. The outdoor infinity pool, fitness centre and multiple restaurants make it easy to spend a full day without leaving the property.",
+      "highlights": [
+        "Outdoor infinity pool with city skyline views",
+        "Spacious rooms with floor-to-ceiling windows",
+        "Full-service fitness centre and spa",
+        "Multiple restaurants serving Thai and international cuisine",
+        "Convenient Sukhumvit location near BTS stations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChatrium%2520Grand%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Couples",
+        "Business travellers",
+        "First-time visitors wanting comfort"
+      ],
+      "sources": [
+        {
+          "sourceName": "Klook — Chatrium Grand Bangkok",
+          "sourceUrl": "https://www.klook.com/hotels/detail/1085275-chatrium-grand-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "SALA Rattanakosin Bangkok",
+      "category": "mid-range",
+      "priceRange": "3,800–7,000 THB (~109–200 USD) per night",
+      "area": "Riverside / Old City",
+      "description": "A boutique riverside hotel with just 15 rooms, SALA Rattanakosin offers one of Bangkok's most dramatic views — the Grand Palace and Wat Pho directly across the water from your room or the stunning rooftop bar. The intimate scale and personalised service make it feel far more special than its price suggests.",
+      "highlights": [
+        "Rooftop bar with direct views of Wat Arun and the Chao Phraya River",
+        "Boutique property with only 15 rooms — personalised service",
+        "Walking distance to Grand Palace, Wat Pho and Tha Chang Pier",
+        "Minimalist Thai design with riverside balconies on select rooms",
+        "Acclaimed restaurant serving modern Thai cuisine"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-rattanakosin-bangkok.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Couples",
+        "Design lovers",
+        "Temple explorers",
+        "Special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com — SALA Rattanakosin",
+          "sourceUrl": "https://www.booking.com/hotel/th/sala-rattanakosin-bangkok.html",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Novotel Bangkok Ploenchit Sukhumvit",
+      "category": "mid-range",
+      "priceRange": "3,200–5,500 THB (~91–157 USD) per night",
+      "area": "Sukhumvit / Ploenchit",
+      "description": "The Novotel Ploenchit is consistently one of Bangkok's best-value mid-range options, located directly connected to Ploenchit BTS station. Large, well-appointed rooms, an excellent rooftop pool and a broad breakfast buffet make it a reliable choice for both tourists and business travellers.",
+      "highlights": [
+        "Directly connected to Ploenchit BTS station — no outside steps",
+        "Large outdoor pool on the 8th floor",
+        "Spacious rooms with modern bathrooms",
+        "Generous breakfast buffet included on select rates",
+        "Adjacent to Central Embassy and Emporium shopping malls"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnovotel-bangkok-ploenchit-sukhumvit.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Business travellers",
+        "Shoppers",
+        "Families",
+        "First-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Budget Your Trip — Bangkok Hotels",
+          "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "137 Pillars Suites & Residences Bangkok",
+      "category": "mid-range",
+      "priceRange": "5,000–8,500 THB (~143–243 USD) per night",
+      "area": "Sukhumvit",
+      "description": "An all-suite boutique hotel on Sukhumvit Soi 39 inspired by the brand's original 1889 colonial property in Chiang Mai. Every suite is generously sized (75–175 sqm) with a separate living room, private balcony and teak furnishings. The rooftop pool, Jack Bar and attentive butler service elevate this well above standard mid-range.",
+      "highlights": [
+        "All-suite hotel — smallest room is 75 sqm with private balcony",
+        "Rooftop infinity pool with Sukhumvit skyline views",
+        "Butler service available 24 hours",
+        "Award-winning Jack Bar cocktail bar and Nimitr restaurant",
+        "Quiet location on Soi 39, 10 minutes from BTS Phrom Phong"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2F137-pillars-suites-residences-bangkok.html",
+      "reviewScore": "9.3/10",
+      "bestFor": [
+        "Honeymooners",
+        "Luxury travellers on a budget",
+        "Long-stay guests"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyeglobal — Bangkok Hotels",
+          "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "What is the best mid-range hotel in Bangkok?",
+    "Where should I stay in Bangkok for mid-range hotels?",
+    "Which Bangkok mid-range hotels are worth booking?",
+    "What area has the best mid-range hotels in Bangkok?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong mid-range hotel in Bangkok can mean paying luxury-area prices for a room that still needs taxis every day.",
+    "intro": "The best mid-range hotels in Bangkok should fit the reason you are booking, not just the nightly price. We ranked these hotels by area practicality, price band, review signal, facilities, and how directly they help travellers solve the stay decision.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Chatrium Grand Bangkok",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "SALA Rattanakosin Bangkok",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Best comfort",
+        "name": "Novotel Bangkok Ploenchit Sukhumvit",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "BTS-adjacent hotels sell out first in November-February",
+    "comparisonTable": [
+      {
+        "name": "Chatrium Grand Bangkok",
+        "area": "Sukhumvit",
+        "priceBand": "€€",
+        "bestFor": "Couples, Business travellers",
+        "standout": "Outdoor infinity pool with city skyline views",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "SALA Rattanakosin Bangkok",
+        "area": "Riverside / Old City",
+        "priceBand": "€€",
+        "bestFor": "Couples, Design lovers",
+        "standout": "Rooftop bar with direct views of Wat Arun and the Chao Phraya River",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "Novotel Bangkok Ploenchit Sukhumvit",
+        "area": "Sukhumvit / Ploenchit",
+        "priceBand": "€€",
+        "bestFor": "Business travellers, Shoppers",
+        "standout": "Directly connected to Ploenchit BTS station — no outside steps",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "137 Pillars Suites & Residences Bangkok",
+        "area": "Sukhumvit",
+        "priceBand": "€€",
+        "bestFor": "Honeymooners, Luxury travellers on a budget",
+        "standout": "All-suite hotel — smallest room is 75 sqm with private balcony",
+        "drawback": "Traffic can affect plans"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest mid-range pick, choose Chatrium Grand Bangkok.",
+      "If you want a practical base with strong value, choose SALA Rattanakosin Bangkok.",
+      "If the top pick is unavailable, compare Novotel Bangkok Ploenchit Sukhumvit.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Chatrium Grand Bangkok",
+        "why": "Chatrium Grand Bangkok is the strongest mid-range pick because it balances location, comfort, and bookable value better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Sukhumvit",
+          "Typical range: 3,500–6,500 THB (~100–186 USD) per night",
+          "BTS-adjacent hotels sell out first in November-February"
+        ],
+        "travellerNote": "Travellers often choose Chatrium Grand Bangkok for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "SALA Rattanakosin Bangkok",
+        "why": "SALA Rattanakosin Bangkok is a good alternative when its area or room style fits your itinerary better than Chatrium Grand Bangkok.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Riverside / Old City",
+          "Typical range: 3,800–7,000 THB (~109–200 USD) per night",
+          "BTS-adjacent hotels sell out first in November-February"
+        ],
+        "travellerNote": "Travellers often choose SALA Rattanakosin Bangkok for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Novotel Bangkok Ploenchit Sukhumvit",
+        "why": "Novotel Bangkok Ploenchit Sukhumvit is a good alternative when its area or room style fits your itinerary better than Chatrium Grand Bangkok.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Sukhumvit / Ploenchit",
+          "Typical range: 3,200–5,500 THB (~91–157 USD) per night",
+          "BTS-adjacent hotels sell out first in November-February"
+        ],
+        "travellerNote": "Travellers often choose Novotel Bangkok Ploenchit Sukhumvit for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Chatrium Grand Bangkok",
+    "topPickReason": "Chatrium Grand Bangkok is the easiest mid-range recommendation when you want location, comfort, and bookable value.",
+    "bookingTips": [
+      "Compare rates for Chatrium Grand Bangkok first, then check SALA Rattanakosin Bangkok and Novotel Bangkok Ploenchit Sukhumvit for refundable deals on the same dates.",
+      "BTS-adjacent hotels sell out first in November-February",
+      "Use the exact area as a filter; a cheaper Bangkok hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing mid-range over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Bangkok hotel inventory to mid-range properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/bangkok/",
+      "/where-to-stay/bangkok/",
+      "/where-to-stay/bangkok/digital-nomads/",
+      "/where-to-stay/bangkok/first-time/",
+      "/city/bangkok/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare mid-range hotels in Bangkok'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Chatrium Grand Bangkok'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best mid-range hotel in Bangkok?",
+        "a": "Chatrium Grand Bangkok is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with SALA Rattanakosin Bangkok if your dates are expensive."
+      },
+      {
+        "q": "Which area has good mid-range hotels in Bangkok?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are mid-range hotels in Bangkok worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book mid-range hotels in Bangkok?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Mid Range Hotels in Bangkok (2026)",
+    "metaDescription": "Compare the best mid-range hotels in Bangkok by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

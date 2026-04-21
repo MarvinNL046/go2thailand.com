@@ -1,0 +1,274 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "audience": "digital-nomads",
+  "neighborhoods": [
+    {
+      "name": "Nimmanhaemin (Nimman)",
+      "description": "Chiang Mai's trendiest neighborhood, located just west of the Old City near Chiang Mai University. Sois 1–17 are packed with specialty coffee shops, design boutiques, co-working spaces, art galleries, and international restaurants. This is where digital nomads and young professionals congregate.",
+      "bestFor": "Digital nomads & coffee lovers",
+      "priceLevel": "Mid-Range",
+      "highlights": [
+        "Thailand's highest concentration of specialty coffee shops",
+        "MAYA Lifestyle Shopping Center as the area hub",
+        "Co-working spaces: CAMP (free at MAYA), Punspace, Hub53",
+        "Excellent international dining — Japanese, Korean, Italian, vegan",
+        "Soi 9 and Soi 11 have the best nightlife options"
+      ],
+      "recommendedHotels": [
+        "Sireeampan Boutique Resort & Spa"
+      ],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "10-minute songthaew ride to Old City (30 THB)",
+        "Grab rides to Old City cost 50–80 THB",
+        "Very walkable within Nimman itself"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Santitham",
+      "description": "A residential neighborhood north of the Old City with a distinctly local vibe — fewer tourists, more Thai families, and authentic street food stalls. Budget accommodation is plentiful, and several well-regarded cooking schools are based here. Increasingly popular with longer-stay travelers and those seeking an authentic daily life experience.",
+      "bestFor": "Budget travelers & long-stayers",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Authentic street food at Thai-local prices",
+        "Monthly rental apartments from 5,000–8,000 THB",
+        "Several local markets with no tourist markup",
+        "Quiet residential streets perfect for cycling",
+        "Quick access to the north gate and Chang Phueak night food stalls"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "5–10 minute songthaew to Old City north gate",
+        "Good for cycling — flat and less traffic than Nimman",
+        "Monthly scooter rental common among long-stayers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Cat is Out of the Office",
+          "sourceUrl": "https://catisoutoftheoffice.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Huay Kaew",
+      "description": "Huay Kaew is the area around Chiang Mai University and the road leading to Doi Suthep mountain. It features cafes, small eateries, and access to Huay Kaew Waterfall. The neighborhood is popular for its proximity to nature trails and university vibe.",
+      "bestFor": "digital nomads, couples",
+      "priceLevel": "€–€€",
+      "highlights": [
+        "Chiang Mai University",
+        "Huay Kaew Waterfall",
+        "Doi Suthep Road cafes"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Old City to university",
+        "Tuk-tuks to Doi Suthep Temple"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Huay_Kaew_Waterfall"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/bangkok_to_chiang_mai/chiang_mai_beyond_the_old_city/huay_kaew"
+        }
+      ]
+    },
+    {
+      "name": "Old City (Within the Moat)",
+      "description": "The historic heart of Chiang Mai, enclosed by 700-year-old moat walls forming a near-perfect square. Dozens of temples, guesthouses, cafes, and restaurants packed into a walkable 1.5 km x 1.5 km area. The Sunday Walking Street Market runs right through it. Most tour pickups originate here.",
+      "bestFor": "First-timers & temple lovers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Walk to Wat Chedi Luang, Wat Phra Singh, and 20+ other temples",
+        "Sunday Walking Street Market passes through the main road",
+        "Most tour operators pick up from Old City hotels",
+        "Abundant cheap restaurants and massage shops",
+        "Tha Phae Gate is the main landmark and social hub"
+      ],
+      "recommendedHotels": [
+        "Julie Guesthouse",
+        "U Chiang Mai",
+        "The Inside House"
+      ],
+      "walkingScore": "9/10",
+      "transportNotes": [
+        "Everything inside the moat is walkable",
+        "Songthaews circle the moat road — flag one down for 30 THB",
+        "Can get noisy on Sunday nights during the market"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-chiang-mai",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where should digital nomads stay in Chiang Mai?",
+    "Is Chiang Mai good for digital nomads?",
+    "Which area in Chiang Mai is best for long stays?",
+    "Where can remote workers stay in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Chiang Mai base as a digital nomad can turn every workday into transport friction and noisy nights.",
+    "intro": "For digital nomads in Chiang Mai, start with Nimmanhaemin (Nimman) if you want the strongest daily routine and compare it with Santitham if budget or pace matters more. We ranked areas by cafe rhythm, long-stay practicality, transport, noise trade-offs, and access to bookable hotels.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Nimmanhaemin (Nimman)",
+        "why": "Best work-life base"
+      },
+      {
+        "label": "Best value",
+        "name": "Santitham",
+        "why": "Better long-stay trade-off"
+      },
+      {
+        "label": "Best backup base",
+        "name": "Huay Kaew",
+        "why": "Useful alternative area"
+      }
+    ],
+    "urgencyLine": "Monthly-friendly rooms in Chiang Mai are easiest to compare before high season, especially around the most practical long-stay areas.",
+    "comparisonTable": [
+      {
+        "name": "Nimmanhaemin (Nimman)",
+        "bestFor": "digital nomads",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "work friendly",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Santitham",
+        "bestFor": "budget travelers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Huay Kaew",
+        "bestFor": "digital nomads",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Old City (Within the Moat)",
+        "bestFor": "first-timers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the simplest first digital nomad base, choose Nimmanhaemin (Nimman).",
+      "If you want a calmer routine with fewer tourist crowds, choose Santitham.",
+      "If you care most about food and local errands, choose Huay Kaew.",
+      "If you plan to move around often, avoid isolated resort zones and compare Nimmanhaemin (Nimman) first."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Nimmanhaemin (Nimman)",
+        "why": "Nimmanhaemin (Nimman) is the best all-round digital nomad base in Chiang Mai because it combines daily convenience with enough hotel choice to compare short stays before committing longer.",
+        "drawback": "Popular blocks can cost more in peak season.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Nimman and the Old City are the easiest bases without a car",
+          "The airport is close, so neighbourhood choice matters more than transfer time",
+          "Nimman has the densest cafe and remote-work rhythm"
+        ],
+        "travellerNote": "Travellers often praise Nimmanhaemin (Nimman) for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      },
+      {
+        "rank": 2,
+        "name": "Santitham",
+        "why": "Santitham works well when you want budget travelers and can accept a little more transport planning than Nimmanhaemin (Nimman).",
+        "drawback": "You may need more rides for cross-city plans.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Nimman and the Old City are the easiest bases without a car",
+          "The airport is close, so neighbourhood choice matters more than transfer time",
+          "Nimman has the densest cafe and remote-work rhythm"
+        ],
+        "travellerNote": "Travellers often praise Santitham for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      },
+      {
+        "rank": 3,
+        "name": "Huay Kaew",
+        "why": "Huay Kaew works well when you want digital nomads and can accept a little more transport planning than Nimmanhaemin (Nimman).",
+        "drawback": "You may need more rides for cross-city plans.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Nimman and the Old City are the easiest bases without a car",
+          "The airport is close, so neighbourhood choice matters more than transfer time",
+          "Nimman has the densest cafe and remote-work rhythm"
+        ],
+        "travellerNote": "Travellers often praise Huay Kaew for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      }
+    ],
+    "topPick": "Nimmanhaemin (Nimman)",
+    "topPickReason": "Nimmanhaemin (Nimman) gives digital nomads the cleanest balance of routine, food, transport, and hotel choice in Chiang Mai.",
+    "bookingTips": [
+      "Book 3-7 nights first in Nimmanhaemin (Nimman), then extend only after checking noise, desk space, and commute times in person.",
+      "Nimman and the Old City are the easiest bases without a car",
+      "The airport is close, so neighbourhood choice matters more than transfer time",
+      "Avoid choosing purely by beach or nightlife; for remote work in Chiang Mai, daily errands and evening transport matter more.",
+      "During high season, compare refundable rates early so you can switch areas without losing the best long-stay options."
+    ],
+    "methodology": "We compared Chiang Mai areas by long-stay practicality, transport access, cafe and food convenience, noise risk, and hotel density. We weighted daily routine highest because digital nomads usually care more about repeatable workdays than one-off sightseeing. Last updated: 2026-04.",
+    "internalLinks": [
+      "/where-to-stay/chiang-mai/",
+      "/best-hotels/chiang-mai/",
+      "/best-hotels/chiang-mai/mid-range/",
+      "/areas/chiang-mai/nimmanhaemin-nimman/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Chiang Mai'",
+      "after-comparison-table: 'See long-stay-friendly areas'",
+      "after-top-pick: 'View hotels in Nimmanhaemin (Nimman)'"
+    ],
+    "faq": [
+      {
+        "q": "Where should digital nomads stay in Chiang Mai?",
+        "a": "Nimmanhaemin (Nimman) is the safest first pick for most digital nomads because it balances daily convenience, food access, and hotel choice. Compare Santitham if you want a calmer or better-value base."
+      },
+      {
+        "q": "Is Chiang Mai good for digital nomads?",
+        "a": "Chiang Mai can work well for digital nomads if you choose the right area before optimizing for price. The best base depends on whether you need transport, quiet, beach access, or cafe density."
+      },
+      {
+        "q": "Which Chiang Mai area is best for a one-month stay?",
+        "a": "Nimmanhaemin (Nimman) is the easiest first-month base, while Santitham is worth comparing if you want a slower routine after you understand the city."
+      },
+      {
+        "q": "Should digital nomads book hotels or apartments in Chiang Mai?",
+        "a": "Start with a refundable hotel for the first few nights, then compare longer stays after testing noise, internet, desk comfort, and transport from the exact block."
+      }
+    ],
+    "metaTitle": "Where to Stay in Chiang Mai for Digital Nomads",
+    "metaDescription": "Compare the best Chiang Mai areas for digital nomads by work rhythm, transport, value and hotel choice. See where to stay first."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

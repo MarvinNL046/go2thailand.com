@@ -11,6 +11,7 @@ const PATH_SUBID_MAP: [RegExp, string][] = [
   [/^\/transport\/[^/]/, 'transport-route'],
   [/^\/transport\/?$/, 'transport'],
   [/^\/best-hotels\//, 'hotels'],
+  [/^\/where-to-stay\//, 'where-to-stay'],
   [/^\/guides\/where-to-stay\//, 'where-to-stay'],
   [/^\/guides\/travel-guide\//, 'travel-guide'],
   [/^\/things-to-do\//, 'things-to-do'],

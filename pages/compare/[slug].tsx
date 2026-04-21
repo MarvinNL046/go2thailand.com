@@ -92,6 +92,12 @@ interface ComparisonPageProps {
   transportRoute: TransportRouteInfo | null;
 }
 
+interface ComparisonIntentLink {
+  href: string;
+  label: string;
+  description: string;
+}
+
 // ---- Helper utilities ----
 
 function isIsland(item: Island | City, type: 'island' | 'city'): item is Island {
@@ -112,6 +118,47 @@ function getRelatedComparisonName(compSlug: string, lang: 'en' | 'nl'): string {
     return `${formatSlugToName(parts[0])} vs ${formatSlugToName(parts[1])}`;
   }
   return formatSlugToName(compSlug);
+}
+
+const INTENT_CLUSTER_DESTINATIONS = new Set(['bangkok', 'chiang-mai', 'phuket', 'krabi', 'koh-samui']);
+
+export function getComparisonIntentLinks(
+  item1: Pick<Island | City, 'slug' | 'name'>,
+  item2: Pick<Island | City, 'slug' | 'name'>,
+  _comparisonType: 'island' | 'city',
+  lang: 'en' | 'nl',
+): ComparisonIntentLink[] {
+  const labels = {
+    en: {
+      whereToStay: (name: string) => `Where to stay in ${name}`,
+      hotels: (name: string) => `Best hotels in ${name}`,
+      whereDesc: 'Compare areas before choosing a base.',
+      hotelDesc: 'See ranked hotel picks and booking links.',
+    },
+    nl: {
+      whereToStay: (name: string) => `Waar verblijven in ${name}`,
+      hotels: (name: string) => `Beste hotels in ${name}`,
+      whereDesc: 'Vergelijk wijken voordat je een uitvalsbasis kiest.',
+      hotelDesc: 'Bekijk hotelkeuzes en boekingslinks.',
+    },
+  }[lang];
+
+  return [item1, item2].flatMap(item => {
+    if (!INTENT_CLUSTER_DESTINATIONS.has(item.slug)) return [];
+    const name = item.name[lang] || item.name.en;
+    return [
+      {
+        href: `/where-to-stay/${item.slug}/`,
+        label: labels.whereToStay(name),
+        description: labels.whereDesc,
+      },
+      {
+        href: `/best-hotels/${item.slug}/`,
+        label: labels.hotels(name),
+        description: labels.hotelDesc,
+      },
+    ];
+  });
 }
 
 // ---- Score bar component ----
@@ -249,6 +296,7 @@ export default function ComparisonPage({
     : t.metaDescriptionFallback(item1Name, item2Name, comparisonType);
 
   const pageUrl = `https://go2-thailand.com/compare/${slug}/`;
+  const intentLinks = getComparisonIntentLinks(item1, item2, comparisonType, lang);
 
   // Breadcrumbs
   const breadcrumbs = [
@@ -601,6 +649,26 @@ export default function ComparisonPage({
               columns={3}
             />
           </section>
+
+          {intentLinks.length > 0 && (
+            <section className="mb-12">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-5">
+                {lang === 'nl' ? 'Kies je beste uitvalsbasis' : 'Choose your best base'}
+              </h2>
+              <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                {intentLinks.map(link => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="block bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-blue group"
+                  >
+                    <div className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors">{link.label}</div>
+                    <div className="text-sm text-gray-500 mt-1">{link.description}</div>
+                  </Link>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* Booking widgets */}
           <section className="mb-12">

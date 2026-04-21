@@ -1,0 +1,487 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "category": "couples",
+  "hotels": [
+    {
+      "name": "Expat Hotel Patong",
+      "category": "budget",
+      "priceRange": "800–1,200 THB/night (~$22–34 USD)",
+      "area": "Patong Beach",
+      "description": "Solid budget hotel with clean air-conditioned rooms, a small pool, and an unbeatable location in central Patong. No frills but everything works, and you're walking distance to both the beach and nightlife. Popular with repeat visitors who know where the value is.",
+      "highlights": [
+        "Clean rooms with reliable air-con and hot showers",
+        "Small pool for cooling off",
+        "Central Patong location — 5 min walk to beach and Bangla Road"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Alike.io",
+          "sourceUrl": "https://alike.io/blog/how-expensive-is-phuket-2025-cost-vs-value-guide",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DExpat%2520Hotel%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Baan Karon Resort",
+      "category": "budget",
+      "priceRange": "600–1,000 THB/night (~$17–28 USD)",
+      "area": "Karon Beach",
+      "description": "A family-run guesthouse set back from Karon Beach with clean rooms, a pool, and a garden atmosphere. Quieter and better value than anything comparable in Patong. The beach is a 5-minute walk away.",
+      "highlights": [
+        "Swimming pool in tropical garden setting",
+        "5-minute walk to Karon Beach",
+        "Family-run with personal service"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Karon%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Beyond Patong",
+      "category": "mid-range",
+      "priceRange": "3,400–5,500 THB/night (~$96–154 USD)",
+      "area": "Patong Beach",
+      "description": "Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with balconies. Close enough to the action but on a quieter side street for better sleep.",
+      "highlights": [
+        "3-minute walk to Patong Beach",
+        "Outdoor pool and modern gym",
+        "Free parking — rare in Patong"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Karon Sea Sands Resort",
+      "category": "mid-range",
+      "priceRange": "1,800–3,000 THB/night (~$50–84 USD)",
+      "area": "Karon Beach",
+      "description": "Beachfront resort directly on Karon Beach with a pool, restaurant, and sea-view rooms. One of the best value beachfront properties on the island — you're literally steps from the sand. Rooms are dated but clean and spacious.",
+      "highlights": [
+        "Directly on Karon Beach — zero walk to sand",
+        "Beachfront pool and restaurant",
+        "Excellent value for a beachfront location"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com",
+          "sourceUrl": "https://www.trip.com/hotels/phuket-hotels-list-725/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Kata Beach Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "2,500–4,000 THB/night (~$70–112 USD)",
+      "area": "Kata Beach",
+      "description": "A well-established resort spanning a large section of Kata Beach beachfront. Multiple pools, a spa, and several dining options. The beach-facing rooms have direct sunset views. Family-friendly with kids' pool and playground.",
+      "highlights": [
+        "Beachfront on Kata Beach",
+        "Multiple swimming pools including kids' pool",
+        "Full spa and multiple restaurants on-site"
+      ],
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKata%2520Beach%2520Resort%2520%2526%2520Spa%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Millennium Resort Patong",
+      "category": "mid-range",
+      "priceRange": "5,000–8,000 THB/night (~$140–225 USD)",
+      "area": "Patong Beach",
+      "description": "Five-star facilities directly on Patong Beach with multiple pools, full spa, and several restaurants. Rooms are large with modern furnishings. The beachfront location combined with resort-level amenities makes it the best upscale option in Patong.",
+      "highlights": [
+        "Direct beachfront on Patong Beach",
+        "Multiple pools and full-service spa",
+        "Five-star facilities at competitive rates"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMillennium%2520Resort%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Pullman Phuket Arcadia Naithon Beach",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB/night (~$154–336 USD)",
+      "area": "Naithon Beach",
+      "description": "A large-scale luxury resort on the quiet Naithon Beach near the airport. Five swimming pools including water slides, full spa, multiple restaurants, and beautifully landscaped grounds. Close enough to the airport for late arrivals/early departures but far from the Patong crowds.",
+      "highlights": [
+        "5 pools with water slides — perfect for families",
+        "Quiet Naithon Beach location",
+        "Full-service spa and multiple dining venues"
+      ],
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/Hotels-g293920-zff10-Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPullman%2520Phuket%2520Arcadia%2520Naithon%2520Beach%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Twinpalms Phuket",
+      "category": "luxury",
+      "priceRange": "8,000–18,000 THB/night (~$225–505 USD)",
+      "area": "Surin Beach",
+      "description": "A sleek, design-forward 5-star resort steps from Surin Beach. Modern architecture with clean lines, a stunning main pool, and the famous Catch Beach Club next door. Attracts a stylish crowd — think more Ibiza than family resort.",
+      "highlights": [
+        "Design-forward architecture with Instagram-worthy pool",
+        "Steps from Surin Beach",
+        "Catch Beach Club access for guests"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g27538745-d1066939-Reviews-Twinpalms_Phuket_Resort-Kamala_Choeng_Thale_Thalang_District_Phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTwinpalms%2520Phuket%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Banyan Tree Phuket",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB/night (~$340–980 USD)",
+      "area": "Bang Tao / Laguna",
+      "description": "Award-winning ultra-luxury resort within the Laguna Phuket complex. All-villa property where every accommodation has its own private pool. World-class spa, 18-hole golf course access, and multiple fine dining restaurants. The gold standard for luxury in Phuket.",
+      "highlights": [
+        "Every villa has a private pool",
+        "Award-winning Banyan Tree Spa",
+        "Access to Laguna Phuket's 18-hole golf course"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g15274191-d302772-Reviews-Banyan_Tree_Phuket-Cherngtalay_Choeng_Thale_Thalang_District_Phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanyan%2520Tree%2520Phuket%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "The Nai Harn",
+      "category": "luxury",
+      "priceRange": "7,000–15,000 THB/night (~$196–420 USD)",
+      "area": "Nai Harn Beach",
+      "description": "Phuket's only luxury hotel overlooking Nai Harn Beach — one of the island's prettiest and least developed beaches. Infinity pool with sea views, rooftop bar, and spacious rooms with floor-to-ceiling windows. A tranquil alternative to the Patong resort scene.",
+      "highlights": [
+        "Only luxury hotel on Nai Harn Beach",
+        "Infinity pool with Andaman Sea views",
+        "Rooftop bar with sunset panoramas"
+      ],
+      "bestFor": [
+        "couples",
+        "relaxation seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/Hotels-g293920-zff10-Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Nai%2520Harn%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Avista Grande Karon — MGallery",
+      "category": "luxury",
+      "priceRange": "7,000–14,000 THB/night (~$196–392 USD)",
+      "area": "Karon Beach",
+      "description": "A boutique luxury hotel by Sofitel's MGallery collection, a short walk from Karon Beach. Ranked in TripAdvisor's top 10 hotels in Thailand. Elegant rooms with local design touches, rooftop pool, and personalized service that large resorts can't match.",
+      "highlights": [
+        "Ranked top 10 hotels in Thailand by TripAdvisor (2023)",
+        "Boutique feel with personalized service",
+        "Rooftop pool and bar with sea views"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvista%2520Grande%2520Karon%2520%25E2%2580%2594%2520MGallery%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best couples hotel in Phuket?",
+    "Where should I stay in Phuket for couples hotels?",
+    "Which Phuket couples hotels are worth booking?",
+    "What area has the best couples hotels in Phuket?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong couples hotel in Phuket can mean booking a practical hotel that feels wrong for the mood of the trip.",
+    "intro": "The best couples hotels in Phuket should fit the reason you are booking, not just the nightly price. We ranked these hotels by location feel, room comfort, quieter setting, dining access, and value for two-person trips.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Expat Hotel Patong",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Baan Karon Resort",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Most romantic",
+        "name": "Beyond Patong",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early.",
+    "comparisonTable": [
+      {
+        "name": "Expat Hotel Patong",
+        "area": "Patong Beach",
+        "priceBand": "€",
+        "bestFor": "budget travelers, couples",
+        "standout": "Clean rooms with reliable air-con and hot showers",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Baan Karon Resort",
+        "area": "Karon Beach",
+        "priceBand": "€",
+        "bestFor": "budget travelers, families",
+        "standout": "Swimming pool in tropical garden setting",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Beyond Patong",
+        "area": "Patong Beach",
+        "priceBand": "€€",
+        "bestFor": "couples, first-timers",
+        "standout": "3-minute walk to Patong Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Karon Sea Sands Resort",
+        "area": "Karon Beach",
+        "priceBand": "€€",
+        "bestFor": "couples, families",
+        "standout": "Directly on Karon Beach — zero walk to sand",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Kata Beach Resort & Spa",
+        "area": "Kata Beach",
+        "priceBand": "€€",
+        "bestFor": "families, couples",
+        "standout": "Beachfront on Kata Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Millennium Resort Patong",
+        "area": "Patong Beach",
+        "priceBand": "€€",
+        "bestFor": "couples, business",
+        "standout": "Direct beachfront on Patong Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Pullman Phuket Arcadia Naithon Beach",
+        "area": "Naithon Beach",
+        "priceBand": "€€€",
+        "bestFor": "families, couples",
+        "standout": "5 pools with water slides — perfect for families",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Twinpalms Phuket",
+        "area": "Surin Beach",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Design-forward architecture with Instagram-worthy pool",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Banyan Tree Phuket",
+        "area": "Bang Tao / Laguna",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Every villa has a private pool",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "The Nai Harn",
+        "area": "Nai Harn Beach",
+        "priceBand": "€€€",
+        "bestFor": "couples, relaxation seekers",
+        "standout": "Only luxury hotel on Nai Harn Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Avista Grande Karon — MGallery",
+        "area": "Karon Beach",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Ranked top 10 hotels in Thailand by TripAdvisor (2023)",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest couples pick, choose Expat Hotel Patong.",
+      "If you want a practical base with strong value, choose Baan Karon Resort.",
+      "If the top pick is unavailable, compare Beyond Patong.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Expat Hotel Patong",
+        "why": "Expat Hotel Patong is the strongest couples pick because it balances atmosphere, comfort, and a better two-person base better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Patong Beach",
+          "Typical range: 800–1,200 THB/night (~$22–34 USD)",
+          "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose Expat Hotel Patong for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Baan Karon Resort",
+        "why": "Baan Karon Resort is a good alternative when its area or room style fits your itinerary better than Expat Hotel Patong.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Karon Beach",
+          "Typical range: 600–1,000 THB/night (~$17–28 USD)",
+          "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose Baan Karon Resort for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Beyond Patong",
+        "why": "Beyond Patong is a good alternative when its area or room style fits your itinerary better than Expat Hotel Patong.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Patong Beach",
+          "Typical range: 3,400–5,500 THB/night (~$96–154 USD)",
+          "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose Beyond Patong for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Expat Hotel Patong",
+    "topPickReason": "Expat Hotel Patong is the easiest couples recommendation when you want atmosphere, comfort, and a better two-person base.",
+    "bookingTips": [
+      "Compare rates for Expat Hotel Patong first, then check Baan Karon Resort and Beyond Patong for refundable deals on the same dates.",
+      "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early.",
+      "Use the exact area as a filter; a cheaper Phuket hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing couples over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Phuket hotel inventory to couples properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/where-to-stay/phuket/",
+      "/best-hotels/phuket/mid-range/",
+      "/where-to-stay/phuket/first-time/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare couples hotels in Phuket'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Expat Hotel Patong'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best couples hotel in Phuket?",
+        "a": "Expat Hotel Patong is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Baan Karon Resort if your dates are expensive."
+      },
+      {
+        "q": "Which area has good couples hotels in Phuket?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are couples hotels in Phuket worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book couples hotels in Phuket?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Couples Hotels in Phuket (2026)",
+    "metaDescription": "Compare the best couples hotels in Phuket by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

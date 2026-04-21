@@ -7,6 +7,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import FounderNote from '../../../components/editorial/FounderNote';
 import EditorialSchema from '../../../components/editorial/EditorialSchema';
 import EditorialMeta from '../../../components/editorial/EditorialMeta';
+import IntentInternalLinks, { IntentInternalLinkItem } from '../../../components/IntentInternalLinks';
 import { getAffiliates, withPlacementSubId } from '../../../lib/affiliates';
 import { getEditorialUpdatedAt } from '../../../lib/pseo-editorial-date';
 
@@ -71,20 +72,50 @@ interface PseoData {
   generatedAt: string;
 }
 
-interface Props { data: PseoData }
+interface Props {
+  data: PseoData;
+  relatedLinks?: IntentInternalLinkItem[];
+}
 
 const CATEGORY_LABELS: Record<string, string> = {
   budget: 'budget',
   luxury: 'luxury',
+  'mid-range': 'mid-range',
   beachfront: 'beachfront',
+  boutique: 'boutique',
   family: 'family',
   couples: 'couples',
   'private-pool': 'private pool',
   'old-town': 'old town',
 };
 
-export default function BestHotelsCategoryPage({ data }: Props) {
+function labelInternalLink(href: string, citySlug: string, cityName: string): string {
+  const normalized = href.replace(/^\/guides\/where-to-stay\//, '/where-to-stay/');
+  const audienceMatch = normalized.match(new RegExp(`^/where-to-stay/${citySlug}/([^/]+)/?$`));
+  if (audienceMatch) return `Where to stay for ${audienceMatch[1].replace(/-/g, ' ')}`;
+
+  const categoryMatch = normalized.match(new RegExp(`^/best-hotels/${citySlug}/([^/]+)/?$`));
+  if (categoryMatch) return `Best ${CATEGORY_LABELS[categoryMatch[1]] || categoryMatch[1].replace(/-/g, ' ')} hotels`;
+
+  const areaMatch = normalized.match(new RegExp(`^/areas/${citySlug}/([^/]+)/?$`));
+  if (areaMatch) return `Area guide: ${areaMatch[1].split('-').map(part => part.charAt(0).toUpperCase() + part.slice(1)).join(' ')}`;
+
+  if (normalized === `/where-to-stay/${citySlug}/`) return `Where to stay in ${cityName}`;
+  if (normalized === `/best-hotels/${citySlug}/`) return `Best hotels in ${cityName}`;
+  if (normalized === `/city/${citySlug}/`) return `${cityName} travel guide`;
+  return normalized;
+}
+
+function fallbackRelatedLinks(data: PseoData): IntentInternalLinkItem[] {
+  return (data.aiContent.internalLinks || []).map(href => ({
+    href,
+    label: labelInternalLink(href, data.citySlug, data.cityName),
+  }));
+}
+
+export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
   const categoryLabel = CATEGORY_LABELS[data.category] || data.category.replace(/-/g, ' ');
+  const renderedRelatedLinks = relatedLinks && relatedLinks.length > 0 ? relatedLinks : fallbackRelatedLinks(data);
   const editorialUpdatedAt = getEditorialUpdatedAt(data);
   // Lookup helper: find the affiliate URL of a hotel by its (verbatim) name.
   const norm = (s?: string) => (s || '').trim().toLowerCase();
@@ -461,13 +492,18 @@ export default function BestHotelsCategoryPage({ data }: Props) {
 
           <FounderNote updatedAt={editorialUpdatedAt} />
 
+          <IntentInternalLinks
+            title={`Related ${data.cityName} hotel decisions`}
+            links={renderedRelatedLinks}
+          />
+
           {/* Cross-link */}
           <section className="rounded-2xl bg-thailand-blue/10 p-6">
             <h2 className="font-heading text-xl font-bold text-gray-900">Compare more {data.cityName} hotels</h2>
             <p className="mt-2 text-gray-700">Browse every category, compare neighbourhoods, or read the full {data.cityName} travel guide.</p>
             <div className="mt-4 flex flex-wrap gap-3">
               <Link href={`/best-hotels/${data.citySlug}/`} className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">All hotels in {data.cityName}</Link>
-              <Link href={`/guides/where-to-stay/${data.citySlug}/`} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">Where to stay (areas)</Link>
+              <Link href={`/where-to-stay/${data.citySlug}/`} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">Where to stay (areas)</Link>
               <Link href={`/city/${data.citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{data.cityName} travel guide</Link>
             </div>
           </section>
@@ -525,5 +561,12 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'best-hotels', `${city}-${category}.json`);
   if (!fs.existsSync(file)) return { notFound: true, revalidate: 60 };
   const data = JSON.parse(fs.readFileSync(file, 'utf8')) as PseoData;
-  return { props: { data }, revalidate: 604800 };
+  const { getIntentInternalLinks } = await import('../../../lib/intent-pages');
+  const relatedLinks = getIntentInternalLinks({
+    pageType: 'best-hotels-category',
+    city: data.citySlug,
+    cityName: data.cityName,
+    category: data.category,
+  });
+  return { props: { data, relatedLinks }, revalidate: 604800 };
 };

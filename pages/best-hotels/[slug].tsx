@@ -204,7 +204,7 @@ export default function BestHotelsPage({ data, affiliates }: Props) {
               </div>
               <p className="text-sm text-gray-500 mt-4">
                 For a deeper dive into {data.cityName}'s neighbourhoods,{' '}
-                <Link href={`/guides/where-to-stay/${data.citySlug}/`} className="text-thailand-blue hover:underline">
+                <Link href={`/where-to-stay/${data.citySlug}/`} className="text-thailand-blue hover:underline">
                   {isNl ? 'lees onze volledige Waar Verblijven gids' : 'read our full Where to Stay guide'}
                 </Link>
                 .
@@ -276,7 +276,7 @@ export default function BestHotelsPage({ data, affiliates }: Props) {
             <h2 className="text-2xl font-bold text-gray-900 mb-5">{isNl ? `Meer ${data.cityName} Hotelgidsen` : `More ${data.cityName} Hotel Guides`}</h2>
             <div className="grid sm:grid-cols-2 gap-4">
               <Link
-                href={`/guides/where-to-stay/${data.citySlug}/`}
+                href={`/where-to-stay/${data.citySlug}/`}
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue mb-1">

@@ -84,6 +84,17 @@ const nextConfig = {
         destination: '/best-hotels/:slug/',
         permanent: true,
       },
+      // Canonical accommodation architecture lives under /where-to-stay/.
+      {
+        source: '/guides/where-to-stay/',
+        destination: '/where-to-stay/',
+        permanent: true,
+      },
+      {
+        source: '/guides/where-to-stay/:slug/',
+        destination: '/where-to-stay/:slug/',
+        permanent: true,
+      },
       // Travel insurance duplicate URL → canonical page
       {
         source: '/travel-insurance-thailand/',

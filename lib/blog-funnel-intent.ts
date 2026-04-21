@@ -187,7 +187,7 @@ function ctaStay(citySlug: string, cityName: string): FunnelCta {
   return {
     layer: 'stay',
     label: `Where to stay in ${cityName}`,
-    href: `/guides/where-to-stay/${citySlug}/`,
+    href: `/where-to-stay/${citySlug}/`,
     external: false,
     sub: 'Compare neighbourhoods, see top hotels.',
   };

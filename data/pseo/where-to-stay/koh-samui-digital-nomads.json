@@ -1,0 +1,278 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "koh-samui",
+  "cityName": "Koh Samui",
+  "audience": "digital-nomads",
+  "neighborhoods": [
+    {
+      "name": "Maenam Beach",
+      "description": "A long, quiet stretch of golden sand on the north coast with a relaxed village feel and almost no nightlife. Popular with families, long-stay travelers, and those who prefer hammock time to bar hopping. Simple beach restaurants, local Thai eateries, and wellness retreats set the tone. The Pralarn pier here is the main departure point for ferries to Koh Phangan and Koh Tao.",
+      "bestFor": "Families, long-stays & peace seekers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Samui's quietest major beach — peaceful and uncrowded",
+        "Budget-friendly accommodation and local Thai restaurants",
+        "Ferry pier for boats to Koh Phangan (30 min) and Koh Tao (2 hrs)",
+        "Excellent sunset views facing north-northwest",
+        "Several wellness retreats and yoga studios"
+      ],
+      "recommendedHotels": [
+        "Prana Resort Samui"
+      ],
+      "walkingScore": "5/10",
+      "transportNotes": [
+        "Spread out along the coast — scooter or songthaew needed",
+        "Ferry pier for Koh Phangan and Koh Tao",
+        "20 minutes from Chaweng via the ring road"
+      ],
+      "sources": [
+        {
+          "sourceName": "Santorinidave",
+          "sourceUrl": "https://santorinidave.com/best-places-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Bophut (Fisherman's Village)",
+      "description": "Samui's most charming area — converted Chinese-Thai shophouses along a waterfront strip housing boutique hotels, excellent restaurants, art galleries, and cocktail bars. The famous Friday Walking Street Market (5–11 PM) is the island's best night market. Bophut has more personality than any other area on Samui, and its restaurant scene rivals much larger tourist zones. Hotels are slightly pricier on average but the atmosphere justifies it.",
+      "bestFor": "Foodies, couples & charm seekers",
+      "priceLevel": "Mid-Range to Luxury",
+      "highlights": [
+        "Fisherman's Village — Samui's most atmospheric waterfront strip",
+        "Friday Walking Street Market (5–11 PM) with food, live music, and fire shows",
+        "Best restaurant concentration on the island (Zazen, Catch, etc.)",
+        "Boutique hotel scene with more character than chain resorts",
+        "Close to Big Buddha and Wat Plai Laem temples"
+      ],
+      "recommendedHotels": [
+        "Karma Resort",
+        "Zazen Boutique Resort & Spa"
+      ],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "Compact village — most things walkable along the waterfront",
+        "10 minutes to Chaweng by songthaew or Grab",
+        "Maenam pier (for Koh Phangan ferries) is 10 minutes west"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Koh Samui Guide",
+          "sourceUrl": "https://www.thekohsamuiguide.com/post/where-to-stay-koh-samui",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Lamai Beach",
+      "description": "Samui's second-largest beach offers a more laid-back alternative to Chaweng with good swimming, beach bars, and a mix of budget and mid-range hotels. The area has its own nightlife strip (though much smaller than Chaweng's) and is home to the famous Hin Ta & Hin Yai rocks. Hotels here are typically 20–30% cheaper than Chaweng equivalents, making it a value sweet spot.",
+      "bestFor": "Couples & relaxed travelers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "More relaxed than Chaweng but still lively enough with restaurants and nightlife",
+        "Hotels 20–30% cheaper than comparable Chaweng properties",
+        "Hin Ta & Hin Yai rocks and Overlap Stone viewpoint nearby",
+        "Good snorkeling at the rocky northern end of the beach",
+        "Smaller, less touristy night market with authentic local food"
+      ],
+      "recommendedHotels": [
+        "Baan Talay Resort",
+        "Banyan Tree Samui"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "15 minutes from Chaweng by songthaew (50–80 THB)",
+        "Ring road access to all other beaches",
+        "Scooter recommended for exploring beyond Lamai"
+      ],
+      "sources": [
+        {
+          "sourceName": "North Abroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-on-koh-samui/",
+          "lastVerified": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "name": "Bang Rak",
+      "description": "Bang Rak is a beachfront area in the northeast of Koh Samui, adjacent to Bophut. It serves as a gateway for visitors arriving by ferry and is home to the prominent Big Buddha temple. The area has a mix of resorts, shops, and restaurants catering to tourists.",
+      "bestFor": "first-time visitors, families",
+      "priceLevel": "€–€€€ (mixed)",
+      "highlights": [
+        "Big Buddha Temple",
+        "Bang Rak Beach",
+        "Wat Sila Nguem",
+        "Lipa Noi Pier"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews connect to Chaweng and airport",
+        "5-minute drive from Samui International Airport"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Tourism-g1905502-Bang_Rak_Ko_Samui_Surat_Thani_Province-Vacations.html"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where should digital nomads stay in Koh Samui?",
+    "Is Koh Samui good for digital nomads?",
+    "Which area in Koh Samui is best for long stays?",
+    "Where can remote workers stay in Koh Samui?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Koh Samui base as a digital nomad can turn every workday into transport friction and noisy nights.",
+    "intro": "For digital nomads in Koh Samui, start with Maenam Beach if you want the strongest daily routine and compare it with Bophut (Fisherman's Village) if budget or pace matters more. We ranked areas by cafe rhythm, long-stay practicality, transport, noise trade-offs, and access to bookable hotels.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Maenam Beach",
+        "why": "Best work-life base"
+      },
+      {
+        "label": "Best value",
+        "name": "Bophut (Fisherman's Village)",
+        "why": "Better long-stay trade-off"
+      },
+      {
+        "label": "Best backup base",
+        "name": "Lamai Beach",
+        "why": "Useful alternative area"
+      }
+    ],
+    "urgencyLine": "Monthly-friendly rooms in Koh Samui are easiest to compare before high season, especially around the most practical long-stay areas.",
+    "comparisonTable": [
+      {
+        "name": "Maenam Beach",
+        "bestFor": "families",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "work friendly",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Bophut (Fisherman's Village)",
+        "bestFor": "foodies",
+        "priceBand": "€€€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Lamai Beach",
+        "bestFor": "couples",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Bang Rak",
+        "bestFor": "first-time visitors",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the simplest first digital nomad base, choose Maenam Beach.",
+      "If you want a calmer routine with fewer tourist crowds, choose Bophut (Fisherman's Village).",
+      "If you care most about food and local errands, choose Lamai Beach.",
+      "If you plan to move around often, avoid isolated resort zones and compare Maenam Beach first."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Maenam Beach",
+        "why": "Maenam Beach is the best all-round digital nomad base in Koh Samui because it combines daily convenience with enough hotel choice to compare short stays before committing longer.",
+        "drawback": "Popular blocks can cost more in peak season.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Neighbourhood choice decides whether you can walk, ride, or need taxis every day",
+          "Northeast areas reduce transfer time; Maenam and Lamai feel calmer for longer stays",
+          "Maenam, Bophut, and Lamai balance food, beach access, and daily routine"
+        ],
+        "travellerNote": "Travellers often praise Maenam Beach for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      },
+      {
+        "rank": 2,
+        "name": "Bophut (Fisherman's Village)",
+        "why": "Bophut (Fisherman's Village) works well when you want foodies and can accept a little more transport planning than Maenam Beach.",
+        "drawback": "You may need more rides for cross-city plans.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Neighbourhood choice decides whether you can walk, ride, or need taxis every day",
+          "Northeast areas reduce transfer time; Maenam and Lamai feel calmer for longer stays",
+          "Maenam, Bophut, and Lamai balance food, beach access, and daily routine"
+        ],
+        "travellerNote": "Travellers often praise Bophut (Fisherman's Village) for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      },
+      {
+        "rank": 3,
+        "name": "Lamai Beach",
+        "why": "Lamai Beach works well when you want couples and can accept a little more transport planning than Maenam Beach.",
+        "drawback": "You may need more rides for cross-city plans.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Neighbourhood choice decides whether you can walk, ride, or need taxis every day",
+          "Northeast areas reduce transfer time; Maenam and Lamai feel calmer for longer stays",
+          "Maenam, Bophut, and Lamai balance food, beach access, and daily routine"
+        ],
+        "travellerNote": "Travellers often praise Lamai Beach for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      }
+    ],
+    "topPick": "Maenam Beach",
+    "topPickReason": "Maenam Beach gives digital nomads the cleanest balance of routine, food, transport, and hotel choice in Koh Samui.",
+    "bookingTips": [
+      "Book 3-7 nights first in Maenam Beach, then extend only after checking noise, desk space, and commute times in person.",
+      "Neighbourhood choice decides whether you can walk, ride, or need taxis every day",
+      "Northeast areas reduce transfer time; Maenam and Lamai feel calmer for longer stays",
+      "Avoid choosing purely by beach or nightlife; for remote work in Koh Samui, daily errands and evening transport matter more.",
+      "During high season, compare refundable rates early so you can switch areas without losing the best long-stay options."
+    ],
+    "methodology": "We compared Koh Samui areas by long-stay practicality, transport access, cafe and food convenience, noise risk, and hotel density. We weighted daily routine highest because digital nomads usually care more about repeatable workdays than one-off sightseeing. Last updated: 2026-04.",
+    "internalLinks": [
+      "/where-to-stay/koh-samui/",
+      "/best-hotels/koh-samui/",
+      "/best-hotels/koh-samui/mid-range/",
+      "/areas/koh-samui/maenam-beach/",
+      "/city/koh-samui/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Koh Samui'",
+      "after-comparison-table: 'See long-stay-friendly areas'",
+      "after-top-pick: 'View hotels in Maenam Beach'"
+    ],
+    "faq": [
+      {
+        "q": "Where should digital nomads stay in Koh Samui?",
+        "a": "Maenam Beach is the safest first pick for most digital nomads because it balances daily convenience, food access, and hotel choice. Compare Bophut (Fisherman's Village) if you want a calmer or better-value base."
+      },
+      {
+        "q": "Is Koh Samui good for digital nomads?",
+        "a": "Koh Samui can work well for digital nomads if you choose the right area before optimizing for price. The best base depends on whether you need transport, quiet, beach access, or cafe density."
+      },
+      {
+        "q": "Which Koh Samui area is best for a one-month stay?",
+        "a": "Maenam Beach is the easiest first-month base, while Bophut (Fisherman's Village) is worth comparing if you want a slower routine after you understand the city."
+      },
+      {
+        "q": "Should digital nomads book hotels or apartments in Koh Samui?",
+        "a": "Start with a refundable hotel for the first few nights, then compare longer stays after testing noise, internet, desk comfort, and transport from the exact block."
+      }
+    ],
+    "metaTitle": "Where to Stay in Koh Samui for Digital Nomads",
+    "metaDescription": "Compare the best Koh Samui areas for digital nomads by work rhythm, transport, value and hotel choice. See where to stay first."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

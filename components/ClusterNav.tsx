@@ -11,7 +11,7 @@ const pages = [
   { key: 'hub', label: 'Overview', icon: '📍', getHref: (s: string) => `/destinations/${s}/` },
   { key: 'things-to-do', label: 'Things To Do', icon: '🎯', getHref: (s: string) => `/things-to-do/${s}/` },
   { key: 'hotels', label: 'Best Hotels', icon: '🏨', getHref: (s: string) => `/best-hotels/${s}/` },
-  { key: 'where-to-stay', label: 'Where To Stay', icon: '📍', getHref: (s: string) => `/guides/where-to-stay/${s}/` },
+  { key: 'where-to-stay', label: 'Where To Stay', icon: '📍', getHref: (s: string) => `/where-to-stay/${s}/` },
   { key: 'travel-guide', label: 'Travel Guide', icon: '📖', getHref: (s: string) => `/guides/travel-guide/${s}/` },
 ];
 

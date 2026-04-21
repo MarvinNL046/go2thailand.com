@@ -1,0 +1,280 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "audience": "digital-nomads",
+  "neighborhoods": [
+    {
+      "name": "Saladan",
+      "description": "Saladan is the main pier and administrative town on Koh Lanta's northern end. It functions as the arrival point for ferries from Krabi and Phuket. The area has shops, restaurants, and basic accommodations catering to arrivals.",
+      "bestFor": "backpackers, budget travelers, digital nomads",
+      "priceLevel": "€",
+      "highlights": [
+        "Saladan Pier",
+        "Lanta Old Town nearby",
+        "Saladan Night Market",
+        "Local seafood restaurants"
+      ],
+      "walkingScore": "High",
+      "transportNotes": [
+        "Ferry pier for inter-island travel",
+        "Motorbike rentals common",
+        "Songthaews to other Lanta beaches"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Lanta_District"
+        },
+        {
+          "sourceName": "Travelfish",
+          "sourceUrl": "https://www.travelfish.org/thailand/koh_lanta/saladan"
+        }
+      ]
+    },
+    {
+      "name": "Krabi Town",
+      "description": "The provincial capital with a real Thai town feel, sitting on the Krabi River 20 minutes inland from the coast. The weekend Walking Street night market is one of southern Thailand's best, with street food at local prices (30-80 THB). Budget accommodation is 40-60% cheaper than Ao Nang. Ferry connections to Koh Phi Phi and Koh Lanta depart from nearby piers. The trade-off: you're not on the beach, and you'll need to songthaew (60 THB) to Ao Nang for boat tours.",
+      "bestFor": "Budget travelers & local culture seekers",
+      "priceLevel": "Budget",
+      "highlights": [
+        "Weekend Walking Street market — best street food in Krabi province at local prices",
+        "Accommodation 40-60% cheaper than Ao Nang and Railay",
+        "Riverside restaurants and morning markets with authentic Thai atmosphere",
+        "Ferry pier connections to Koh Phi Phi and Koh Lanta",
+        "Closest base to Tiger Cave Temple (8 km)"
+      ],
+      "recommendedHotels": [
+        "Pak-Up Hostel"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "Songthaew to Ao Nang 60 THB (30 min, runs until ~6 PM)",
+        "Chao Fah Pier for ferries to Koh Phi Phi and Koh Lanta",
+        "Tiger Cave Temple 8 km — easy scooter or tuk-tuk ride"
+      ],
+      "sources": [
+        {
+          "sourceName": "Rough Guides",
+          "sourceUrl": "https://www.roughguides.com/thailand/southern-thailand-andaman-coast/krabi/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Ao Nang",
+      "description": "Krabi's main tourist area and the practical base for most visitors. A long beachfront road lined with hotels, restaurants, dive shops, massage parlors, and tour operators. Longtail boats to Railay (100 THB) and 4 Islands tours depart from the eastern pier. The beach itself is decent but not Krabi's best — the real value is convenience and selection. Nightlife is modest compared to Phuket but there are enough bars and live music venues to keep things lively.",
+      "bestFor": "First-timers, island-hoppers & convenience",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Gateway to Railay Beach (100 THB longtail, 15 min) and all island tours",
+        "Widest selection of hotels, restaurants, and tour operators in the province",
+        "Walking street and night bazaar for evening food and shopping",
+        "Easy scooter access to Tiger Cave Temple and inland attractions",
+        "Grab/Bolt ride-hailing works reliably here"
+      ],
+      "recommendedHotels": [
+        "Sea Seeker Krabi Resort",
+        "Panan Krabi Resort",
+        "Holiday Inn Resort Krabi Ao Nang Beach",
+        "Aonang Cliff Beach Resort"
+      ],
+      "walkingScore": "7/10",
+      "transportNotes": [
+        "Songthaew to Krabi Town 60 THB (30 min)",
+        "Longtail boats to Railay 100 THB from the eastern pier",
+        "All major tour operators pick up from Ao Nang hotels"
+      ],
+      "sources": [
+        {
+          "sourceName": "Lonely Planet",
+          "sourceUrl": "https://www.lonelyplanet.com/thailand/ko-phi-phi-and-the-southern-andaman-coast/ao-nang",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Long Beach, Koh Lanta",
+      "description": "Long Beach, also known as Phra Ae Beach, is a 3 km stretch of sand on Koh Lanta's west coast. It features beachfront bungalows and restaurants along the shore. The area is connected by road to other parts of the island.",
+      "bestFor": "families, kids, couples",
+      "priceLevel": "€€",
+      "highlights": [
+        "Long Beach",
+        "Klong Dao Night Market nearby",
+        "Beachfront massage spots",
+        "Diving shops for snorkeling trips"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews along the main road",
+        "Motorbike taxis",
+        "Ferry access via Saladan"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g303905-d246915-Reviews-Long_Beach_Ko_Lanta-Ko_Lanta_Krabi_Province.html"
+        },
+        {
+          "sourceName": "TAT Thailand",
+          "sourceUrl": "https://www.tourismthailand.org/Attraction/koh-lanta"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where should digital nomads stay in Krabi?",
+    "Is Krabi good for digital nomads?",
+    "Which area in Krabi is best for long stays?",
+    "Where can remote workers stay in Krabi?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Krabi base as a digital nomad can turn every workday into transport friction and noisy nights.",
+    "intro": "For digital nomads in Krabi, start with Saladan if you want the strongest daily routine and compare it with Krabi Town if budget or pace matters more. We ranked areas by cafe rhythm, long-stay practicality, transport, noise trade-offs, and access to bookable hotels.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Saladan",
+        "why": "Best work-life base"
+      },
+      {
+        "label": "Best value",
+        "name": "Krabi Town",
+        "why": "Better long-stay trade-off"
+      },
+      {
+        "label": "Best backup base",
+        "name": "Ao Nang",
+        "why": "Useful alternative area"
+      }
+    ],
+    "urgencyLine": "Monthly-friendly rooms in Krabi are easiest to compare before high season, especially around the most practical long-stay areas.",
+    "comparisonTable": [
+      {
+        "name": "Saladan",
+        "bestFor": "backpackers",
+        "priceBand": "€€",
+        "walkability": "High",
+        "vibe": "work friendly",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Krabi Town",
+        "bestFor": "budget travelers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Ao Nang",
+        "bestFor": "first-timers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Long Beach, Koh Lanta",
+        "bestFor": "families",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the simplest first digital nomad base, choose Saladan.",
+      "If you want a calmer routine with fewer tourist crowds, choose Krabi Town.",
+      "If you care most about food and local errands, choose Ao Nang.",
+      "If you plan to move around often, avoid isolated resort zones and compare Saladan first."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Saladan",
+        "why": "Saladan is the best all-round digital nomad base in Krabi because it combines daily convenience with enough hotel choice to compare short stays before committing longer.",
+        "drawback": "Popular blocks can cost more in peak season.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Ao Nang is the easiest mainland base; Koh Lanta is better for slower stays",
+          "Krabi airport transfers are simpler from Ao Nang and Krabi Town than the islands",
+          "Saladan and Krabi Town suit longer stays better than remote resort beaches"
+        ],
+        "travellerNote": "Travellers often praise Saladan for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      },
+      {
+        "rank": 2,
+        "name": "Krabi Town",
+        "why": "Krabi Town works well when you want budget travelers and can accept a little more transport planning than Saladan.",
+        "drawback": "You may need more rides for cross-city plans.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Ao Nang is the easiest mainland base; Koh Lanta is better for slower stays",
+          "Krabi airport transfers are simpler from Ao Nang and Krabi Town than the islands",
+          "Saladan and Krabi Town suit longer stays better than remote resort beaches"
+        ],
+        "travellerNote": "Travellers often praise Krabi Town for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      },
+      {
+        "rank": 3,
+        "name": "Ao Nang",
+        "why": "Ao Nang works well when you want first-timers and can accept a little more transport planning than Saladan.",
+        "drawback": "You may need more rides for cross-city plans.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Ao Nang is the easiest mainland base; Koh Lanta is better for slower stays",
+          "Krabi airport transfers are simpler from Ao Nang and Krabi Town than the islands",
+          "Saladan and Krabi Town suit longer stays better than remote resort beaches"
+        ],
+        "travellerNote": "Travellers often praise Ao Nang for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      }
+    ],
+    "topPick": "Saladan",
+    "topPickReason": "Saladan gives digital nomads the cleanest balance of routine, food, transport, and hotel choice in Krabi.",
+    "bookingTips": [
+      "Book 3-7 nights first in Saladan, then extend only after checking noise, desk space, and commute times in person.",
+      "Ao Nang is the easiest mainland base; Koh Lanta is better for slower stays",
+      "Krabi airport transfers are simpler from Ao Nang and Krabi Town than the islands",
+      "Avoid choosing purely by beach or nightlife; for remote work in Krabi, daily errands and evening transport matter more.",
+      "During high season, compare refundable rates early so you can switch areas without losing the best long-stay options."
+    ],
+    "methodology": "We compared Krabi areas by long-stay practicality, transport access, cafe and food convenience, noise risk, and hotel density. We weighted daily routine highest because digital nomads usually care more about repeatable workdays than one-off sightseeing. Last updated: 2026-04.",
+    "internalLinks": [
+      "/where-to-stay/krabi/",
+      "/best-hotels/krabi/",
+      "/best-hotels/krabi/mid-range/",
+      "/areas/krabi/saladan/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Krabi'",
+      "after-comparison-table: 'See long-stay-friendly areas'",
+      "after-top-pick: 'View hotels in Saladan'"
+    ],
+    "faq": [
+      {
+        "q": "Where should digital nomads stay in Krabi?",
+        "a": "Saladan is the safest first pick for most digital nomads because it balances daily convenience, food access, and hotel choice. Compare Krabi Town if you want a calmer or better-value base."
+      },
+      {
+        "q": "Is Krabi good for digital nomads?",
+        "a": "Krabi can work well for digital nomads if you choose the right area before optimizing for price. The best base depends on whether you need transport, quiet, beach access, or cafe density."
+      },
+      {
+        "q": "Which Krabi area is best for a one-month stay?",
+        "a": "Saladan is the easiest first-month base, while Krabi Town is worth comparing if you want a slower routine after you understand the city."
+      },
+      {
+        "q": "Should digital nomads book hotels or apartments in Krabi?",
+        "a": "Start with a refundable hotel for the first few nights, then compare longer stays after testing noise, internet, desk comfort, and transport from the exact block."
+      }
+    ],
+    "metaTitle": "Where to Stay in Krabi for Digital Nomads",
+    "metaDescription": "Compare the best Krabi areas for digital nomads by work rhythm, transport, value and hotel choice. See where to stay first."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

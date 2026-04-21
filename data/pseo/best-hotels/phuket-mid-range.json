@@ -1,0 +1,259 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "category": "mid-range",
+  "hotels": [
+    {
+      "name": "Beyond Patong",
+      "category": "mid-range",
+      "priceRange": "3,400–5,500 THB/night (~$96–154 USD)",
+      "area": "Patong Beach",
+      "description": "Modern hotel just a 3-minute walk from Patong Beach with an outdoor pool, gym, and free parking. Rooms are contemporary and spacious with balconies. Close enough to the action but on a quieter side street for better sleep.",
+      "highlights": [
+        "3-minute walk to Patong Beach",
+        "Outdoor pool and modern gym",
+        "Free parking — rare in Patong"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Karon Sea Sands Resort",
+      "category": "mid-range",
+      "priceRange": "1,800–3,000 THB/night (~$50–84 USD)",
+      "area": "Karon Beach",
+      "description": "Beachfront resort directly on Karon Beach with a pool, restaurant, and sea-view rooms. One of the best value beachfront properties on the island — you're literally steps from the sand. Rooms are dated but clean and spacious.",
+      "highlights": [
+        "Directly on Karon Beach — zero walk to sand",
+        "Beachfront pool and restaurant",
+        "Excellent value for a beachfront location"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Trip.com",
+          "sourceUrl": "https://www.trip.com/hotels/phuket-hotels-list-725/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Kata Beach Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "2,500–4,000 THB/night (~$70–112 USD)",
+      "area": "Kata Beach",
+      "description": "A well-established resort spanning a large section of Kata Beach beachfront. Multiple pools, a spa, and several dining options. The beach-facing rooms have direct sunset views. Family-friendly with kids' pool and playground.",
+      "highlights": [
+        "Beachfront on Kata Beach",
+        "Multiple swimming pools including kids' pool",
+        "Full spa and multiple restaurants on-site"
+      ],
+      "bestFor": [
+        "families",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKata%2520Beach%2520Resort%2520%2526%2520Spa%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Millennium Resort Patong",
+      "category": "mid-range",
+      "priceRange": "5,000–8,000 THB/night (~$140–225 USD)",
+      "area": "Patong Beach",
+      "description": "Five-star facilities directly on Patong Beach with multiple pools, full spa, and several restaurants. Rooms are large with modern furnishings. The beachfront location combined with resort-level amenities makes it the best upscale option in Patong.",
+      "highlights": [
+        "Direct beachfront on Patong Beach",
+        "Multiple pools and full-service spa",
+        "Five-star facilities at competitive rates"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMillennium%2520Resort%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best mid-range hotel in Phuket?",
+    "Where should I stay in Phuket for mid-range hotels?",
+    "Which Phuket mid-range hotels are worth booking?",
+    "What area has the best mid-range hotels in Phuket?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong mid-range hotel in Phuket can mean paying luxury-area prices for a room that still needs taxis every day.",
+    "intro": "The best mid-range hotels in Phuket should fit the reason you are booking, not just the nightly price. We ranked these hotels by area practicality, price band, review signal, facilities, and how directly they help travellers solve the stay decision.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Beyond Patong",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Karon Sea Sands Resort",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Best comfort",
+        "name": "Kata Beach Resort & Spa",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Beach-area mid-range hotels jump in price during Christmas and New Year",
+    "comparisonTable": [
+      {
+        "name": "Beyond Patong",
+        "area": "Patong Beach",
+        "priceBand": "€€",
+        "bestFor": "couples, first-timers",
+        "standout": "3-minute walk to Patong Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Karon Sea Sands Resort",
+        "area": "Karon Beach",
+        "priceBand": "€€",
+        "bestFor": "couples, families",
+        "standout": "Directly on Karon Beach — zero walk to sand",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Kata Beach Resort & Spa",
+        "area": "Kata Beach",
+        "priceBand": "€€",
+        "bestFor": "families, couples",
+        "standout": "Beachfront on Kata Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Millennium Resort Patong",
+        "area": "Patong Beach",
+        "priceBand": "€€",
+        "bestFor": "couples, business",
+        "standout": "Direct beachfront on Patong Beach",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest mid-range pick, choose Beyond Patong.",
+      "If you want a practical base with strong value, choose Karon Sea Sands Resort.",
+      "If the top pick is unavailable, compare Kata Beach Resort & Spa.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Beyond Patong",
+        "why": "Beyond Patong is the strongest mid-range pick because it balances location, comfort, and bookable value better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Patong Beach",
+          "Typical range: 3,400–5,500 THB/night (~$96–154 USD)",
+          "Beach-area mid-range hotels jump in price during Christmas and New Year"
+        ],
+        "travellerNote": "Travellers often choose Beyond Patong for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Karon Sea Sands Resort",
+        "why": "Karon Sea Sands Resort is a good alternative when its area or room style fits your itinerary better than Beyond Patong.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Karon Beach",
+          "Typical range: 1,800–3,000 THB/night (~$50–84 USD)",
+          "Beach-area mid-range hotels jump in price during Christmas and New Year"
+        ],
+        "travellerNote": "Travellers often choose Karon Sea Sands Resort for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Kata Beach Resort & Spa",
+        "why": "Kata Beach Resort & Spa is a good alternative when its area or room style fits your itinerary better than Beyond Patong.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Kata Beach",
+          "Typical range: 2,500–4,000 THB/night (~$70–112 USD)",
+          "Beach-area mid-range hotels jump in price during Christmas and New Year"
+        ],
+        "travellerNote": "Travellers often choose Kata Beach Resort & Spa for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Beyond Patong",
+    "topPickReason": "Beyond Patong is the easiest mid-range recommendation when you want location, comfort, and bookable value.",
+    "bookingTips": [
+      "Compare rates for Beyond Patong first, then check Karon Sea Sands Resort and Kata Beach Resort & Spa for refundable deals on the same dates.",
+      "Beach-area mid-range hotels jump in price during Christmas and New Year",
+      "Use the exact area as a filter; a cheaper Phuket hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing mid-range over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Phuket hotel inventory to mid-range properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/where-to-stay/phuket/",
+      "/where-to-stay/phuket/digital-nomads/",
+      "/where-to-stay/phuket/first-time/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare mid-range hotels in Phuket'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Beyond Patong'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best mid-range hotel in Phuket?",
+        "a": "Beyond Patong is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Karon Sea Sands Resort if your dates are expensive."
+      },
+      {
+        "q": "Which area has good mid-range hotels in Phuket?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are mid-range hotels in Phuket worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book mid-range hotels in Phuket?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Mid Range Hotels in Phuket (2026)",
+    "metaDescription": "Compare the best mid-range hotels in Phuket by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

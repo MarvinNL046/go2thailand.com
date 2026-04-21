@@ -220,7 +220,7 @@ export default function DestinationHubPage({ data, affiliates }: Props) {
                 <span className="text-thailand-blue text-sm font-semibold mt-2 inline-block">{isNl ? 'Lees gids →' : 'Read guide →'}</span>
               </Link>
               <Link
-                href={`/guides/where-to-stay/${data.citySlug}/`}
+                href={`/where-to-stay/${data.citySlug}/`}
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <div className="text-2xl mb-2">📍</div>

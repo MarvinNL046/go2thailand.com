@@ -98,8 +98,8 @@ export default function AreaPage({ data }: Props) {
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Where to Stay', href: '/guides/where-to-stay/' },
-    { name: cityName, href: `/guides/where-to-stay/${citySlug}/` },
+    { name: 'Where to Stay', href: '/where-to-stay/' },
+    { name: cityName, href: `/where-to-stay/${citySlug}/` },
     { name: areaName, href: `/areas/${citySlug}/${data.areaSlug}/` },
   ];
 
@@ -342,7 +342,7 @@ export default function AreaPage({ data }: Props) {
             <h2 className="font-heading text-xl font-bold text-gray-900">Still planning your {cityName} trip?</h2>
             <p className="mt-2 text-gray-700">Broader picks for the whole city:</p>
             <div className="mt-4 flex flex-wrap gap-3">
-              <Link href={`/guides/where-to-stay/${citySlug}/`} className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">All {cityName} neighbourhoods</Link>
+              <Link href={`/where-to-stay/${citySlug}/`} className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">All {cityName} neighbourhoods</Link>
               <Link href={`/best-hotels/${citySlug}/`} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">Best hotels in {cityName}</Link>
               <Link href={`/city/${citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{cityName} travel guide</Link>
             </div>

@@ -7,6 +7,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import FounderNote from '../../../components/editorial/FounderNote';
 import EditorialSchema from '../../../components/editorial/EditorialSchema';
 import EditorialMeta from '../../../components/editorial/EditorialMeta';
+import IntentInternalLinks, { IntentInternalLinkItem } from '../../../components/IntentInternalLinks';
 import { getAffiliates, withPlacementSubId } from '../../../lib/affiliates';
 import { getEditorialUpdatedAt } from '../../../lib/pseo-editorial-date';
 
@@ -69,6 +70,7 @@ interface PseoData {
 
 interface Props {
   data: PseoData;
+  relatedLinks?: IntentInternalLinkItem[];
 }
 
 const AUDIENCE_LABELS: Record<string, string> = {
@@ -81,16 +83,41 @@ const AUDIENCE_LABELS: Record<string, string> = {
   'digital-nomads': 'digital nomads',
 };
 
-export default function WhereToStayAudiencePage({ data }: Props) {
+function labelInternalLink(href: string, citySlug: string, cityName: string): string {
+  const normalized = href.replace(/^\/guides\/where-to-stay\//, '/where-to-stay/');
+  const audienceMatch = normalized.match(new RegExp(`^/where-to-stay/${citySlug}/([^/]+)/?$`));
+  if (audienceMatch) return `Where to stay for ${AUDIENCE_LABELS[audienceMatch[1]] || audienceMatch[1].replace(/-/g, ' ')}`;
+
+  const categoryMatch = normalized.match(new RegExp(`^/best-hotels/${citySlug}/([^/]+)/?$`));
+  if (categoryMatch) return `Best ${categoryMatch[1].replace(/-/g, ' ')} hotels`;
+
+  const areaMatch = normalized.match(new RegExp(`^/areas/${citySlug}/([^/]+)/?$`));
+  if (areaMatch) return `Area guide: ${areaMatch[1].split('-').map(part => part.charAt(0).toUpperCase() + part.slice(1)).join(' ')}`;
+
+  if (normalized === `/where-to-stay/${citySlug}/`) return `Where to stay in ${cityName}`;
+  if (normalized === `/best-hotels/${citySlug}/`) return `Best hotels in ${cityName}`;
+  if (normalized === `/city/${citySlug}/`) return `${cityName} travel guide`;
+  return normalized;
+}
+
+function fallbackRelatedLinks(data: PseoData): IntentInternalLinkItem[] {
+  return (data.aiContent.internalLinks || []).map(href => ({
+    href,
+    label: labelInternalLink(href, data.citySlug, data.cityName),
+  }));
+}
+
+export default function WhereToStayAudiencePage({ data, relatedLinks }: Props) {
   const audienceLabel = AUDIENCE_LABELS[data.audience] || data.audience.replace(/-/g, ' ');
   const editorialUpdatedAt = getEditorialUpdatedAt(data);
   const aff = getAffiliates(data.citySlug);
   const subId = `pseo-where-to-stay-${data.citySlug}-${data.audience}`;
   const bookingFor = (placement: string) => aff?.booking ? withPlacementSubId(aff.booking, subId, placement) : null;
+  const renderedRelatedLinks = relatedLinks && relatedLinks.length > 0 ? relatedLinks : fallbackRelatedLinks(data);
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Where to Stay', href: '/guides/where-to-stay/' },
-    { name: data.cityName, href: `/guides/where-to-stay/${data.citySlug}/` },
+    { name: 'Where to Stay', href: '/where-to-stay/' },
+    { name: data.cityName, href: `/where-to-stay/${data.citySlug}/` },
     { name: `For ${audienceLabel}`, href: `/where-to-stay/${data.citySlug}/${data.audience}/` },
   ];
 
@@ -371,12 +398,17 @@ export default function WhereToStayAudiencePage({ data }: Props) {
 
           <FounderNote updatedAt={editorialUpdatedAt} />
 
+          <IntentInternalLinks
+            title={`Related ${data.cityName} stay decisions`}
+            links={renderedRelatedLinks}
+          />
+
           {/* Cross-link */}
           <section className="rounded-2xl bg-thailand-blue/10 p-6">
             <h2 className="font-heading text-xl font-bold text-gray-900">Need more {data.cityName} planning help?</h2>
             <p className="mt-2 text-gray-700">Compare every neighbourhood, see best hotels, or read our full {data.cityName} travel guide.</p>
             <div className="mt-4 flex flex-wrap gap-3">
-              <Link href={`/guides/where-to-stay/${data.citySlug}/`} className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">All {data.cityName} neighbourhoods</Link>
+              <Link href={`/where-to-stay/${data.citySlug}/`} className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">All {data.cityName} neighbourhoods</Link>
               <Link href={`/best-hotels/${data.citySlug}/`} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">Best hotels in {data.cityName}</Link>
               <Link href={`/city/${data.citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{data.cityName} travel guide</Link>
             </div>
@@ -450,5 +482,12 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'where-to-stay', `${city}-${audience}.json`);
   if (!fs.existsSync(file)) return { notFound: true, revalidate: 60 };
   const data = JSON.parse(fs.readFileSync(file, 'utf8')) as PseoData;
-  return { props: { data }, revalidate: 604800 };
+  const { getIntentInternalLinks } = await import('../../../lib/intent-pages');
+  const relatedLinks = getIntentInternalLinks({
+    pageType: 'where-to-stay-audience',
+    city: data.citySlug,
+    cityName: data.cityName,
+    audience: data.audience,
+  });
+  return { props: { data, relatedLinks }, revalidate: 604800 };
 };

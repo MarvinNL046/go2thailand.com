@@ -324,7 +324,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
 
           {/* Four intent cards */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mb-14">
-            <Link href="/guides/where-to-stay/bangkok/" className="group rounded-2xl bg-white p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all">
+            <Link href="/where-to-stay/bangkok/" className="group rounded-2xl bg-white p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all">
               <div className="text-3xl mb-3">🗺️</div>
               <h3 className="font-heading text-lg font-bold text-gray-900 mb-1 group-hover:text-thailand-red transition-colors">
                 {locale === 'nl' ? 'Waar te verblijven' : 'Where to stay'}

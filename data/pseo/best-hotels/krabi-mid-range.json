@@ -1,0 +1,260 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "category": "mid-range",
+  "hotels": [
+    {
+      "name": "Panan Krabi Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Ao Nang",
+      "description": "A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to the beach and pier for easy island trips, but set back from the main road for quieter nights. Consistently good reviews for cleanliness and service.",
+      "highlights": [
+        "Large swimming pool with sun terrace",
+        "Modern rooms with balcony and minibar",
+        "10-minute walk to Ao Nang Beach and boat pier"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Ao_Nang_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanan%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+      "category": "mid-range",
+      "priceRange": "2,500-4,500 THB/night (~$70-126 USD)",
+      "area": "Ao Nang",
+      "description": "International chain quality right on Ao Nang's main strip. Two pools (including a kids' pool), fitness center, spa, and multiple dining options. The rooms are spacious and well-appointed with IHG's usual reliability. Ideal for families and travelers who want a predictable standard near the beach.",
+      "highlights": [
+        "Two swimming pools including children's pool",
+        "IHG brand reliability and loyalty program",
+        "Beachfront location on Ao Nang main road"
+      ],
+      "reviewScore": "4.4/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "business travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "IHG",
+          "sourceUrl": "https://www.ihg.com/holidayinn/hotels/us/en/krabi/kbvao/hoteldetail",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHoliday%2520Inn%2520Resort%2520Krabi%2520Ao%2520Nang%2520Beach%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Railay Bay Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+      "area": "Railay Beach",
+      "description": "The best-value resort on Railay, straddling the peninsula between Railay West (swimming beach) and Railay East. Two pools, a beachfront restaurant, and direct access to both sides of the peninsula. Rooms range from garden-view bungalows to beachfront cottages. The boat-access-only setting gives it an island-resort atmosphere.",
+      "highlights": [
+        "Access to both Railay West and East beaches",
+        "Two swimming pools and beachfront restaurant",
+        "Boat-access location creates exclusive island feel"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1507957-Railay_Beach_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRailay%2520Bay%2520Resort%2520%2526%2520Spa%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Aonang Cliff Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Ao Nang",
+      "description": "Set against the limestone cliffs at the eastern end of Ao Nang Beach with direct beach access and a dramatic cliff-backed pool. The location is prime — steps from the longtail boat pier for Railay and island tours. Rooms are comfortable with sea or cliff views. The natural cliff setting is unique among Ao Nang's hotels.",
+      "highlights": [
+        "Dramatic cliff-backed swimming pool",
+        "Direct beach access at eastern Ao Nang",
+        "Steps from longtail boat pier for island tours"
+      ],
+      "bestFor": [
+        "couples",
+        "photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAonang%2520Cliff%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best mid-range hotel in Krabi?",
+    "Where should I stay in Krabi for mid-range hotels?",
+    "Which Krabi mid-range hotels are worth booking?",
+    "What area has the best mid-range hotels in Krabi?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong mid-range hotel in Krabi can mean paying luxury-area prices for a room that still needs taxis every day.",
+    "intro": "The best mid-range hotels in Krabi should fit the reason you are booking, not just the nightly price. We ranked these hotels by area practicality, price band, review signal, facilities, and how directly they help travellers solve the stay decision.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Panan Krabi Resort",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Best comfort",
+        "name": "Railay Bay Resort & Spa",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Ao Nang mid-range hotels fill when island tours peak in dry season",
+    "comparisonTable": [
+      {
+        "name": "Panan Krabi Resort",
+        "area": "Ao Nang",
+        "priceBand": "€€",
+        "bestFor": "couples, families",
+        "standout": "Large swimming pool with sun terrace",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+        "area": "Ao Nang",
+        "priceBand": "€€",
+        "bestFor": "families, business travelers",
+        "standout": "Two swimming pools including children's pool",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Railay Bay Resort & Spa",
+        "area": "Railay Beach",
+        "priceBand": "€€",
+        "bestFor": "couples, honeymooners",
+        "standout": "Access to both Railay West and East beaches",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Aonang Cliff Beach Resort",
+        "area": "Ao Nang",
+        "priceBand": "€€",
+        "bestFor": "couples, photographers",
+        "standout": "Dramatic cliff-backed swimming pool",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest mid-range pick, choose Panan Krabi Resort.",
+      "If you want a practical base with strong value, choose Holiday Inn Resort Krabi Ao Nang Beach.",
+      "If the top pick is unavailable, compare Railay Bay Resort & Spa.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Panan Krabi Resort",
+        "why": "Panan Krabi Resort is the strongest mid-range pick because it balances location, comfort, and bookable value better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Ao Nang",
+          "Typical range: 2,000-3,500 THB/night (~$56-98 USD)",
+          "Ao Nang mid-range hotels fill when island tours peak in dry season"
+        ],
+        "travellerNote": "Travellers often choose Panan Krabi Resort for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Holiday Inn Resort Krabi Ao Nang Beach",
+        "why": "Holiday Inn Resort Krabi Ao Nang Beach is a good alternative when its area or room style fits your itinerary better than Panan Krabi Resort.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Ao Nang",
+          "Typical range: 2,500-4,500 THB/night (~$70-126 USD)",
+          "Ao Nang mid-range hotels fill when island tours peak in dry season"
+        ],
+        "travellerNote": "Travellers often choose Holiday Inn Resort Krabi Ao Nang Beach for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Railay Bay Resort & Spa",
+        "why": "Railay Bay Resort & Spa is a good alternative when its area or room style fits your itinerary better than Panan Krabi Resort.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want either hostel-level pricing or full luxury resort facilities.",
+        "localSignals": [
+          "Area: Railay Beach",
+          "Typical range: 2,500-4,000 THB/night (~$70-112 USD)",
+          "Ao Nang mid-range hotels fill when island tours peak in dry season"
+        ],
+        "travellerNote": "Travellers often choose Railay Bay Resort & Spa for its fit with mid-range stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Panan Krabi Resort",
+    "topPickReason": "Panan Krabi Resort is the easiest mid-range recommendation when you want location, comfort, and bookable value.",
+    "bookingTips": [
+      "Compare rates for Panan Krabi Resort first, then check Holiday Inn Resort Krabi Ao Nang Beach and Railay Bay Resort & Spa for refundable deals on the same dates.",
+      "Ao Nang mid-range hotels fill when island tours peak in dry season",
+      "Use the exact area as a filter; a cheaper Krabi hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing mid-range over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Krabi hotel inventory to mid-range properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/where-to-stay/krabi/",
+      "/where-to-stay/krabi/digital-nomads/",
+      "/where-to-stay/krabi/first-time/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare mid-range hotels in Krabi'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Panan Krabi Resort'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best mid-range hotel in Krabi?",
+        "a": "Panan Krabi Resort is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Holiday Inn Resort Krabi Ao Nang Beach if your dates are expensive."
+      },
+      {
+        "q": "Which area has good mid-range hotels in Krabi?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are mid-range hotels in Krabi worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book mid-range hotels in Krabi?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Mid Range Hotels in Krabi (2026)",
+    "metaDescription": "Compare the best mid-range hotels in Krabi by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

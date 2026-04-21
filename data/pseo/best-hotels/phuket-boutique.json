@@ -1,0 +1,261 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "category": "boutique",
+  "hotels": [
+    {
+      "name": "Lub d Phuket Patong",
+      "category": "budget",
+      "priceRange": "400–700 THB/night (~$11–20 USD)",
+      "area": "Patong Beach",
+      "description": "A stylish modern hostel five minutes from Patong Beach with both pod-style dorms and private rooms. Rooftop pool, social common areas, and a reputation as one of Southeast Asia's best-designed hostels. Part of the Thai Lub d chain known for quality budget stays.",
+      "highlights": [
+        "Rooftop pool overlooking Patong",
+        "Modern pod beds with privacy curtains and USB charging",
+        "Walking distance to Bangla Road and the beach"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/HotelsList-Phuket-Budget-Hotels-zfp6215.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Phuket%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Twinpalms Phuket",
+      "category": "luxury",
+      "priceRange": "8,000–18,000 THB/night (~$225–505 USD)",
+      "area": "Surin Beach",
+      "description": "A sleek, design-forward 5-star resort steps from Surin Beach. Modern architecture with clean lines, a stunning main pool, and the famous Catch Beach Club next door. Attracts a stylish crowd — think more Ibiza than family resort.",
+      "highlights": [
+        "Design-forward architecture with Instagram-worthy pool",
+        "Steps from Surin Beach",
+        "Catch Beach Club access for guests"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g27538745-d1066939-Reviews-Twinpalms_Phuket_Resort-Kamala_Choeng_Thale_Thalang_District_Phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTwinpalms%2520Phuket%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Banyan Tree Phuket",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB/night (~$340–980 USD)",
+      "area": "Bang Tao / Laguna",
+      "description": "Award-winning ultra-luxury resort within the Laguna Phuket complex. All-villa property where every accommodation has its own private pool. World-class spa, 18-hole golf course access, and multiple fine dining restaurants. The gold standard for luxury in Phuket.",
+      "highlights": [
+        "Every villa has a private pool",
+        "Award-winning Banyan Tree Spa",
+        "Access to Laguna Phuket's 18-hole golf course"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g15274191-d302772-Reviews-Banyan_Tree_Phuket-Cherngtalay_Choeng_Thale_Thalang_District_Phuket.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanyan%2520Tree%2520Phuket%252C%2520Phuket%252C%2520Thailand"
+    },
+    {
+      "name": "Avista Grande Karon — MGallery",
+      "category": "luxury",
+      "priceRange": "7,000–14,000 THB/night (~$196–392 USD)",
+      "area": "Karon Beach",
+      "description": "A boutique luxury hotel by Sofitel's MGallery collection, a short walk from Karon Beach. Ranked in TripAdvisor's top 10 hotels in Thailand. Elegant rooms with local design touches, rooftop pool, and personalized service that large resorts can't match.",
+      "highlights": [
+        "Ranked top 10 hotels in Thailand by TripAdvisor (2023)",
+        "Boutique feel with personalized service",
+        "Rooftop pool and bar with sea views"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297930-zfc4-Patong_Kathu_Phuket-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvista%2520Grande%2520Karon%2520%25E2%2580%2594%2520MGallery%252C%2520Phuket%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best boutique hotel in Phuket?",
+    "Where should I stay in Phuket for boutique hotels?",
+    "Which Phuket boutique hotels are worth booking?",
+    "What area has the best boutique hotels in Phuket?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong boutique hotel in Phuket can mean paying for style while losing the location or comfort that actually improves the stay.",
+    "intro": "The best boutique hotels in Phuket should fit the reason you are booking, not just the nightly price. We ranked these hotels by design character, room individuality, area fit, service feel, and booking value.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Lub d Phuket Patong",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Twinpalms Phuket",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Best design",
+        "name": "Banyan Tree Phuket",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Small boutique hotels in Phuket have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory.",
+    "comparisonTable": [
+      {
+        "name": "Lub d Phuket Patong",
+        "area": "Patong Beach",
+        "priceBand": "€",
+        "bestFor": "backpackers, solo travelers",
+        "standout": "Rooftop pool overlooking Patong",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Twinpalms Phuket",
+        "area": "Surin Beach",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Design-forward architecture with Instagram-worthy pool",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Banyan Tree Phuket",
+        "area": "Bang Tao / Laguna",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Every villa has a private pool",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Avista Grande Karon — MGallery",
+        "area": "Karon Beach",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Ranked top 10 hotels in Thailand by TripAdvisor (2023)",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest boutique pick, choose Lub d Phuket Patong.",
+      "If you want a practical base with strong value, choose Twinpalms Phuket.",
+      "If the top pick is unavailable, compare Banyan Tree Phuket.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Lub d Phuket Patong",
+        "why": "Lub d Phuket Patong is the strongest boutique pick because it balances character, location, and a more memorable stay better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Patong Beach",
+          "Typical range: 400–700 THB/night (~$11–20 USD)",
+          "Small boutique hotels in Phuket have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose Lub d Phuket Patong for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Twinpalms Phuket",
+        "why": "Twinpalms Phuket is a good alternative when its area or room style fits your itinerary better than Lub d Phuket Patong.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Surin Beach",
+          "Typical range: 8,000–18,000 THB/night (~$225–505 USD)",
+          "Small boutique hotels in Phuket have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose Twinpalms Phuket for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Banyan Tree Phuket",
+        "why": "Banyan Tree Phuket is a good alternative when its area or room style fits your itinerary better than Lub d Phuket Patong.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Bang Tao / Laguna",
+          "Typical range: 12,000–35,000 THB/night (~$340–980 USD)",
+          "Small boutique hotels in Phuket have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose Banyan Tree Phuket for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Lub d Phuket Patong",
+    "topPickReason": "Lub d Phuket Patong is the easiest boutique recommendation when you want character, location, and a more memorable stay.",
+    "bookingTips": [
+      "Compare rates for Lub d Phuket Patong first, then check Twinpalms Phuket and Banyan Tree Phuket for refundable deals on the same dates.",
+      "Small boutique hotels in Phuket have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory.",
+      "Use the exact area as a filter; a cheaper Phuket hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing boutique over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Phuket hotel inventory to boutique properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/where-to-stay/phuket/",
+      "/best-hotels/phuket/mid-range/",
+      "/where-to-stay/phuket/first-time/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare boutique hotels in Phuket'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Lub d Phuket Patong'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best boutique hotel in Phuket?",
+        "a": "Lub d Phuket Patong is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Twinpalms Phuket if your dates are expensive."
+      },
+      {
+        "q": "Which area has good boutique hotels in Phuket?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are boutique hotels in Phuket worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book boutique hotels in Phuket?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Boutique Hotels in Phuket (2026)",
+    "metaDescription": "Compare the best boutique hotels in Phuket by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

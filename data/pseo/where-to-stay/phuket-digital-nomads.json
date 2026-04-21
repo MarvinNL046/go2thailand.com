@@ -1,0 +1,273 @@
+{
+  "template": "where-to-stay-audience",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "audience": "digital-nomads",
+  "neighborhoods": [
+    {
+      "name": "Rawai & Nai Harn",
+      "description": "The southern tip of Phuket with a distinctly local flavor. Rawai has no swimming beach but has the island's best seafood market and a community of long-stay expats. Nai Harn, 5 minutes away, has one of Phuket's most beautiful beaches backed by a Buddhist monastery. Quieter, more authentic, and significantly cheaper than the west coast tourist areas.",
+      "bestFor": "Long-stayers & food lovers",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Rawai Seafood Market — buy-and-cook fresh seafood at local prices",
+        "Nai Harn Beach — one of Phuket's prettiest and least developed beaches",
+        "Promthep Cape sunset viewpoint 5 minutes away",
+        "Strong expat community with monthly rental apartments",
+        "Local prices for food, massage, and daily expenses"
+      ],
+      "recommendedHotels": [
+        "The Nai Harn"
+      ],
+      "walkingScore": "4/10",
+      "transportNotes": [
+        "30–40 minutes from Patong",
+        "Own transport essential",
+        "Monthly scooter rentals popular with long-stayers (3,000–4,000 THB/month)"
+      ],
+      "sources": [
+        {
+          "sourceName": "Phuket Insider",
+          "sourceUrl": "https://phuket-insider.com/en/blog/14-popular-districts-of-phuket-how-to-choose/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Phuket Old Town",
+      "description": "The historic heart of the island on the east coast, far from the beaches but rich in culture and cuisine. Colorful Sino-Portuguese shophouses, street art, independent cafes, museums, and the island's best local food scene. Increasingly popular with culture-focused travelers and those who want to experience the real Phuket beyond the beaches.",
+      "bestFor": "Culture lovers & foodies",
+      "priceLevel": "Budget to Mid-Range",
+      "highlights": [
+        "Sino-Portuguese architecture — Phuket's most photogenic streets",
+        "Sunday Walking Street Market on Thalang Road",
+        "Best and cheapest food on the island — mee hokkien, moo hong, kanom jeen",
+        "Thai Hua Museum and other cultural sites",
+        "Boutique guesthouses in restored shophouses"
+      ],
+      "walkingScore": "8/10",
+      "transportNotes": [
+        "30–40 minutes from Patong by Grab (250–350 THB)",
+        "No Smart Bus — need Grab or scooter to reach beaches",
+        "Very walkable within Old Town itself"
+      ],
+      "sources": [
+        {
+          "sourceName": "Thailand Routes",
+          "sourceUrl": "https://www.thailandroutes.com/en/where-to-stay-in-phuket-the-ultimate-guide-to-patong-kata-karon-old-town-and-beyond/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chalong",
+      "description": "Chalong is a southern inland district in Phuket, serving as a departure point for boat trips to Koh Phi Phi and other islands from Chalong Pier. It features local markets and temples, including Wat Chalong, one of the island's most visited shrines. The area has budget guesthouses and repair shops.",
+      "bestFor": "budget, backpackers, first-time visitors",
+      "priceLevel": "€",
+      "highlights": [
+        "Wat Chalong",
+        "Big Buddha",
+        "Chalong Pier",
+        "Chalong Night Market"
+      ],
+      "walkingScore": "Medium",
+      "transportNotes": [
+        "Songthaews from Phuket Town",
+        "Taxi from airport about 45 minutes"
+      ],
+      "recommendedHotels": [],
+      "sources": [
+        {
+          "sourceName": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Chalong"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g297934-d5984567-Reviews-Chalong_Pier-Chalong_Phuket.html"
+        }
+      ]
+    },
+    {
+      "name": "Kata Beach",
+      "description": "A beautiful crescent-shaped beach 15 minutes south of Patong with a more relaxed village atmosphere. Excellent for families with calm swimming waters (Nov–Apr), good restaurants, and easy access to surf schools during monsoon season. Kata Noi at the southern end is even quieter.",
+      "bestFor": "Families & couples",
+      "priceLevel": "Mid-Range",
+      "highlights": [
+        "One of Phuket's best swimming beaches (Nov–Apr)",
+        "Surf schools during monsoon season (Jun–Sep)",
+        "Family-friendly restaurants and night market",
+        "Karon Viewpoint nearby for three-beach panorama",
+        "Quieter than Patong but with enough restaurants and shops"
+      ],
+      "recommendedHotels": [
+        "Kata Beach Resort & Spa"
+      ],
+      "walkingScore": "6/10",
+      "transportNotes": [
+        "15 minutes south of Patong by Grab (150–200 THB)",
+        "Smart Bus stop on the main road",
+        "Walkable within Kata village but scooter needed for exploring wider island"
+      ],
+      "sources": [
+        {
+          "sourceName": "Travel Food Expert",
+          "sourceUrl": "https://travelfoodexpert.com/where-to-stay-in-phuket-for-the-first-time/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "Where should digital nomads stay in Phuket?",
+    "Is Phuket good for digital nomads?",
+    "Which area in Phuket is best for long stays?",
+    "Where can remote workers stay in Phuket?"
+  ],
+  "aiContent": {
+    "hookIntro": "Picking the wrong Phuket base as a digital nomad can turn every workday into transport friction and noisy nights.",
+    "intro": "For digital nomads in Phuket, start with Rawai & Nai Harn if you want the strongest daily routine and compare it with Phuket Old Town if budget or pace matters more. We ranked areas by cafe rhythm, long-stay practicality, transport, noise trade-offs, and access to bookable hotels.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Rawai & Nai Harn",
+        "why": "Best work-life base"
+      },
+      {
+        "label": "Best value",
+        "name": "Phuket Old Town",
+        "why": "Better long-stay trade-off"
+      },
+      {
+        "label": "Best backup base",
+        "name": "Chalong",
+        "why": "Useful alternative area"
+      }
+    ],
+    "urgencyLine": "Monthly-friendly rooms in Phuket are easiest to compare before high season, especially around the most practical long-stay areas.",
+    "comparisonTable": [
+      {
+        "name": "Rawai & Nai Harn",
+        "bestFor": "long-stayers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "work friendly",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Phuket Old Town",
+        "bestFor": "culture lovers",
+        "priceBand": "€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Chalong",
+        "bestFor": "budget",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      },
+      {
+        "name": "Kata Beach",
+        "bestFor": "families",
+        "priceBand": "€€",
+        "walkability": "Medium",
+        "vibe": "local relaxed",
+        "drawback": "Transport varies at night"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the simplest first digital nomad base, choose Rawai & Nai Harn.",
+      "If you want a calmer routine with fewer tourist crowds, choose Phuket Old Town.",
+      "If you care most about food and local errands, choose Chalong.",
+      "If you plan to move around often, avoid isolated resort zones and compare Rawai & Nai Harn first."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Rawai & Nai Harn",
+        "why": "Rawai & Nai Harn is the best all-round digital nomad base in Phuket because it combines daily convenience with enough hotel choice to compare short stays before committing longer.",
+        "drawback": "Popular blocks can cost more in peak season.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Expect to use Grab, taxis, or a scooter between beaches",
+          "Staying south means a longer transfer but better long-stay food and beach options",
+          "Rawai and Old Town work better for routines than Patong party blocks"
+        ],
+        "travellerNote": "Travellers often praise Rawai & Nai Harn for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      },
+      {
+        "rank": 2,
+        "name": "Phuket Old Town",
+        "why": "Phuket Old Town works well when you want culture lovers and can accept a little more transport planning than Rawai & Nai Harn.",
+        "drawback": "You may need more rides for cross-city plans.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Expect to use Grab, taxis, or a scooter between beaches",
+          "Staying south means a longer transfer but better long-stay food and beach options",
+          "Rawai and Old Town work better for routines than Patong party blocks"
+        ],
+        "travellerNote": "Travellers often praise Phuket Old Town for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      },
+      {
+        "rank": 3,
+        "name": "Chalong",
+        "why": "Chalong works well when you want budget and can accept a little more transport planning than Rawai & Nai Harn.",
+        "drawback": "You may need more rides for cross-city plans.",
+        "skipIf": "Skip if you need every errand, meal, and meeting within a five-minute walk.",
+        "localSignals": [
+          "Expect to use Grab, taxis, or a scooter between beaches",
+          "Staying south means a longer transfer but better long-stay food and beach options",
+          "Rawai and Old Town work better for routines than Patong party blocks"
+        ],
+        "travellerNote": "Travellers often praise Chalong for convenience and daily rhythm but note that monthly value depends heavily on the exact street and season."
+      }
+    ],
+    "topPick": "Rawai & Nai Harn",
+    "topPickReason": "Rawai & Nai Harn gives digital nomads the cleanest balance of routine, food, transport, and hotel choice in Phuket.",
+    "bookingTips": [
+      "Book 3-7 nights first in Rawai & Nai Harn, then extend only after checking noise, desk space, and commute times in person.",
+      "Expect to use Grab, taxis, or a scooter between beaches",
+      "Staying south means a longer transfer but better long-stay food and beach options",
+      "Avoid choosing purely by beach or nightlife; for remote work in Phuket, daily errands and evening transport matter more.",
+      "During high season, compare refundable rates early so you can switch areas without losing the best long-stay options."
+    ],
+    "methodology": "We compared Phuket areas by long-stay practicality, transport access, cafe and food convenience, noise risk, and hotel density. We weighted daily routine highest because digital nomads usually care more about repeatable workdays than one-off sightseeing. Last updated: 2026-04.",
+    "internalLinks": [
+      "/where-to-stay/phuket/",
+      "/best-hotels/phuket/",
+      "/best-hotels/phuket/mid-range/",
+      "/areas/phuket/rawai-nai-harn/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare hotels in Phuket'",
+      "after-comparison-table: 'See long-stay-friendly areas'",
+      "after-top-pick: 'View hotels in Rawai & Nai Harn'"
+    ],
+    "faq": [
+      {
+        "q": "Where should digital nomads stay in Phuket?",
+        "a": "Rawai & Nai Harn is the safest first pick for most digital nomads because it balances daily convenience, food access, and hotel choice. Compare Phuket Old Town if you want a calmer or better-value base."
+      },
+      {
+        "q": "Is Phuket good for digital nomads?",
+        "a": "Phuket can work well for digital nomads if you choose the right area before optimizing for price. The best base depends on whether you need transport, quiet, beach access, or cafe density."
+      },
+      {
+        "q": "Which Phuket area is best for a one-month stay?",
+        "a": "Rawai & Nai Harn is the easiest first-month base, while Phuket Old Town is worth comparing if you want a slower routine after you understand the city."
+      },
+      {
+        "q": "Should digital nomads book hotels or apartments in Phuket?",
+        "a": "Start with a refundable hotel for the first few nights, then compare longer stays after testing noise, internet, desk comfort, and transport from the exact block."
+      }
+    ],
+    "metaTitle": "Where to Stay in Phuket for Digital Nomads",
+    "metaDescription": "Compare the best Phuket areas for digital nomads by work rhythm, transport, value and hotel choice. See where to stay first."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

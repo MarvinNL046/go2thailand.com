@@ -1,0 +1,388 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "bangkok",
+  "cityName": "Bangkok",
+  "category": "family",
+  "hotels": [
+    {
+      "name": "Chatrium Grand Bangkok",
+      "category": "mid-range",
+      "priceRange": "3,500–6,500 THB (~100–186 USD) per night",
+      "area": "Sukhumvit",
+      "description": "A polished 5-star hotel on Sukhumvit Road that offers luxury-grade amenities at a mid-range price point. Spacious rooms feature floor-to-ceiling windows overlooking the city skyline. The outdoor infinity pool, fitness centre and multiple restaurants make it easy to spend a full day without leaving the property.",
+      "highlights": [
+        "Outdoor infinity pool with city skyline views",
+        "Spacious rooms with floor-to-ceiling windows",
+        "Full-service fitness centre and spa",
+        "Multiple restaurants serving Thai and international cuisine",
+        "Convenient Sukhumvit location near BTS stations"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChatrium%2520Grand%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "8.8/10",
+      "bestFor": [
+        "Couples",
+        "Business travellers",
+        "First-time visitors wanting comfort"
+      ],
+      "sources": [
+        {
+          "sourceName": "Klook — Chatrium Grand Bangkok",
+          "sourceUrl": "https://www.klook.com/hotels/detail/1085275-chatrium-grand-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Novotel Bangkok Ploenchit Sukhumvit",
+      "category": "mid-range",
+      "priceRange": "3,200–5,500 THB (~91–157 USD) per night",
+      "area": "Sukhumvit / Ploenchit",
+      "description": "The Novotel Ploenchit is consistently one of Bangkok's best-value mid-range options, located directly connected to Ploenchit BTS station. Large, well-appointed rooms, an excellent rooftop pool and a broad breakfast buffet make it a reliable choice for both tourists and business travellers.",
+      "highlights": [
+        "Directly connected to Ploenchit BTS station — no outside steps",
+        "Large outdoor pool on the 8th floor",
+        "Spacious rooms with modern bathrooms",
+        "Generous breakfast buffet included on select rates",
+        "Adjacent to Central Embassy and Emporium shopping malls"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fnovotel-bangkok-ploenchit-sukhumvit.html",
+      "reviewScore": "8.6/10",
+      "bestFor": [
+        "Business travellers",
+        "Shoppers",
+        "Families",
+        "First-time visitors"
+      ],
+      "sources": [
+        {
+          "sourceName": "Budget Your Trip — Bangkok Hotels",
+          "sourceUrl": "https://www.budgetyourtrip.com/hotels/thailand/bangkok-1609350",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "137 Pillars Suites & Residences Bangkok",
+      "category": "mid-range",
+      "priceRange": "5,000–8,500 THB (~143–243 USD) per night",
+      "area": "Sukhumvit",
+      "description": "An all-suite boutique hotel on Sukhumvit Soi 39 inspired by the brand's original 1889 colonial property in Chiang Mai. Every suite is generously sized (75–175 sqm) with a separate living room, private balcony and teak furnishings. The rooftop pool, Jack Bar and attentive butler service elevate this well above standard mid-range.",
+      "highlights": [
+        "All-suite hotel — smallest room is 75 sqm with private balcony",
+        "Rooftop infinity pool with Sukhumvit skyline views",
+        "Butler service available 24 hours",
+        "Award-winning Jack Bar cocktail bar and Nimitr restaurant",
+        "Quiet location on Soi 39, 10 minutes from BTS Phrom Phong"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2F137-pillars-suites-residences-bangkok.html",
+      "reviewScore": "9.3/10",
+      "bestFor": [
+        "Honeymooners",
+        "Luxury travellers on a budget",
+        "Long-stay guests"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyeglobal — Bangkok Hotels",
+          "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Mandarin Oriental Bangkok",
+      "category": "luxury",
+      "priceRange": "12,000–35,000 THB (~343–1,000 USD) per night",
+      "area": "Riverside (Charoen Krung)",
+      "description": "Opened in 1876, the Mandarin Oriental is one of the world's great hotels and consistently rated Asia's finest. Its Authors' Wing houses legendary suites named after Somerset Maugham, Joseph Conrad and Noel Coward, who all stayed here. Two Michelin-starred Le Normandie restaurant, a world-class spa and timeless riverside elegance set it apart.",
+      "highlights": [
+        "One of the world's oldest and most celebrated hotels, opened 1876",
+        "Two Michelin-starred Le Normandie restaurant",
+        "Legendary Authors' Suites named after literary giants",
+        "Riverside pool with Chao Phraya views",
+        "Complimentary tuk-tuk and river ferry service for guests",
+        "Thai cooking school in a converted 1870s house"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMandarin%2520Oriental%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.4/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Special occasions",
+        "Foodies"
+      ],
+      "sources": [
+        {
+          "sourceName": "Mandarin Oriental Bangkok Official",
+          "sourceUrl": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/stay",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "The Peninsula Bangkok",
+      "category": "luxury",
+      "priceRange": "10,000–28,000 THB (~286–800 USD) per night",
+      "area": "Riverside (Silom)",
+      "description": "The Peninsula Bangkok commands a prime position on the west bank of the Chao Phraya River with three-tiered pool terraces descending to the water's edge. All rooms face the river, and the hotel's iconic sky-blue shuttle boats transport guests to the BTS Skytrain and shopping districts. Consistently ranked among Asia's top 10 hotels.",
+      "highlights": [
+        "Three-tier outdoor pool directly on the Chao Phraya River",
+        "All 370 rooms face the river — no bad views",
+        "Peninsula sky-blue boat shuttle to BTS Taksin station",
+        "Thai, Cantonese and Italian fine dining restaurants",
+        "Award-winning 1,200 sqm Peninsula Spa",
+        "Helipad for private arrivals"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Peninsula%2520Bangkok%252C%2520Bangkok%252C%2520Thailand",
+      "reviewScore": "9.5/10",
+      "bestFor": [
+        "Luxury travellers",
+        "Honeymooners",
+        "Family luxury",
+        "Business VIPs"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Peninsula Bangkok Official",
+          "sourceUrl": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "Chatrium Hotel Riverside Bangkok",
+      "category": "luxury",
+      "priceRange": "5,500–12,000 THB (~157–343 USD) per night",
+      "area": "Riverside",
+      "description": "A 5-star riverfront hotel near Asiatique The Riverfront with spacious suites, multiple pools, a full spa and stunning Chao Phraya views. Chatrium Riverside is excellent value in the luxury segment — you get genuine 5-star facilities and a prime riverside location at prices well below Mandarin Oriental and The Peninsula.",
+      "highlights": [
+        "4 swimming pools including a children's pool",
+        "All riverside rooms have balconies with Chao Phraya views",
+        "Direct access to Asiatique The Riverfront night market",
+        "Full-service spa and gym",
+        "Multiple dining venues including a rooftop bar",
+        "Complimentary shuttle boat to BTS Taksin station"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchatrium-riverside-bangkok.html",
+      "reviewScore": "9.1/10",
+      "bestFor": [
+        "Families",
+        "Couples",
+        "Value luxury seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Hotels.com — Chatrium Riverside",
+          "sourceUrl": "https://www.hotels.com/ho311257/chatrium-hotel-riverside-bangkok-bangkok-thailand/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "name": "SO/ Bangkok",
+      "category": "luxury",
+      "priceRange": "6,000–15,000 THB (~171–429 USD) per night",
+      "area": "Silom / Sathorn",
+      "description": "SO/ Bangkok is a design-forward 5-star hotel above Lumpini Park in the Silom financial district. Designed by five Thai designers (one per floor theme), the hotel's rooms are bold, colourful and memorable. The rooftop Park Society bar and the outdoor pool with park views are highlights, and the BTS/MRT stations are a 5-minute walk.",
+      "highlights": [
+        "Stunning design — rooms themed around Thai elements by local designers",
+        "Rooftop Park Society bar with views over Lumpini Park",
+        "Infinity pool overlooking the park",
+        "Connected to MRT Lumpini station",
+        "Michelin Bib Gourmand Thai restaurant HAV on the ground floor"
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fso-sofitel-bangkok.html",
+      "reviewScore": "9.0/10",
+      "bestFor": [
+        "Design lovers",
+        "Couples",
+        "Business travellers",
+        "Nightlife seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Voyeglobal — Bangkok Hotels",
+          "sourceUrl": "https://voyeglobal.com/hotels-to-stay-in-bangkok/",
+          "lastVerified": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "paaQuestions": [
+    "What is the best family hotel in Bangkok?",
+    "Where should I stay in Bangkok for family hotels?",
+    "Which Bangkok family hotels are worth booking?",
+    "What area has the best family hotels in Bangkok?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong family hotel in Bangkok can mean ending up somewhere noisy, cramped, or too hard to move around with kids.",
+    "intro": "The best family hotels in Bangkok should fit the reason you are booking, not just the nightly price. We ranked these hotels by room practicality, pool and resort facilities, area convenience, transport friction, and family-friendly value.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Chatrium Grand Bangkok",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Novotel Bangkok Ploenchit Sukhumvit",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Best for kids",
+        "name": "137 Pillars Suites & Residences Bangkok",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Family-friendly rooms in Bangkok are easiest to compare early for school holidays and winter high season.",
+    "comparisonTable": [
+      {
+        "name": "Chatrium Grand Bangkok",
+        "area": "Sukhumvit",
+        "priceBand": "€€",
+        "bestFor": "Couples, Business travellers",
+        "standout": "Outdoor infinity pool with city skyline views",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "Novotel Bangkok Ploenchit Sukhumvit",
+        "area": "Sukhumvit / Ploenchit",
+        "priceBand": "€€",
+        "bestFor": "Business travellers, Shoppers",
+        "standout": "Directly connected to Ploenchit BTS station — no outside steps",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "137 Pillars Suites & Residences Bangkok",
+        "area": "Sukhumvit",
+        "priceBand": "€€",
+        "bestFor": "Honeymooners, Luxury travellers on a budget",
+        "standout": "All-suite hotel — smallest room is 75 sqm with private balcony",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "Mandarin Oriental Bangkok",
+        "area": "Riverside (Charoen Krung)",
+        "priceBand": "€€€",
+        "bestFor": "Luxury travellers, Honeymooners",
+        "standout": "One of the world's oldest and most celebrated hotels, opened 1876",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "The Peninsula Bangkok",
+        "area": "Riverside (Silom)",
+        "priceBand": "€€€",
+        "bestFor": "Luxury travellers, Honeymooners",
+        "standout": "Three-tier outdoor pool directly on the Chao Phraya River",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "Chatrium Hotel Riverside Bangkok",
+        "area": "Riverside",
+        "priceBand": "€€€",
+        "bestFor": "Families, Couples",
+        "standout": "4 swimming pools including a children's pool",
+        "drawback": "Traffic can affect plans"
+      },
+      {
+        "name": "SO/ Bangkok",
+        "area": "Silom / Sathorn",
+        "priceBand": "€€€",
+        "bestFor": "Design lovers, Couples",
+        "standout": "Stunning design — rooms themed around Thai elements by local designers",
+        "drawback": "Traffic can affect plans"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest family pick, choose Chatrium Grand Bangkok.",
+      "If you want a practical base with strong value, choose Novotel Bangkok Ploenchit Sukhumvit.",
+      "If the top pick is unavailable, compare 137 Pillars Suites & Residences Bangkok.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Chatrium Grand Bangkok",
+        "why": "Chatrium Grand Bangkok is the strongest family pick because it balances comfort, facilities, and easier logistics better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you want an adults-only atmosphere or late-night nightlife on the doorstep.",
+        "localSignals": [
+          "Area: Sukhumvit",
+          "Typical range: 3,500–6,500 THB (~100–186 USD) per night",
+          "Family-friendly rooms in Bangkok are easiest to compare early for school holidays and winter high season."
+        ],
+        "travellerNote": "Travellers often choose Chatrium Grand Bangkok for its fit with family stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Novotel Bangkok Ploenchit Sukhumvit",
+        "why": "Novotel Bangkok Ploenchit Sukhumvit is a good alternative when its area or room style fits your itinerary better than Chatrium Grand Bangkok.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want an adults-only atmosphere or late-night nightlife on the doorstep.",
+        "localSignals": [
+          "Area: Sukhumvit / Ploenchit",
+          "Typical range: 3,200–5,500 THB (~91–157 USD) per night",
+          "Family-friendly rooms in Bangkok are easiest to compare early for school holidays and winter high season."
+        ],
+        "travellerNote": "Travellers often choose Novotel Bangkok Ploenchit Sukhumvit for its fit with family stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "137 Pillars Suites & Residences Bangkok",
+        "why": "137 Pillars Suites & Residences Bangkok is a good alternative when its area or room style fits your itinerary better than Chatrium Grand Bangkok.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want an adults-only atmosphere or late-night nightlife on the doorstep.",
+        "localSignals": [
+          "Area: Sukhumvit",
+          "Typical range: 5,000–8,500 THB (~143–243 USD) per night",
+          "Family-friendly rooms in Bangkok are easiest to compare early for school holidays and winter high season."
+        ],
+        "travellerNote": "Travellers often choose 137 Pillars Suites & Residences Bangkok for its fit with family stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Chatrium Grand Bangkok",
+    "topPickReason": "Chatrium Grand Bangkok is the easiest family recommendation when you want comfort, facilities, and easier logistics.",
+    "bookingTips": [
+      "Compare rates for Chatrium Grand Bangkok first, then check Novotel Bangkok Ploenchit Sukhumvit and 137 Pillars Suites & Residences Bangkok for refundable deals on the same dates.",
+      "Family-friendly rooms in Bangkok are easiest to compare early for school holidays and winter high season.",
+      "Use the exact area as a filter; a cheaper Bangkok hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing family over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Bangkok hotel inventory to family properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/bangkok/",
+      "/where-to-stay/bangkok/",
+      "/best-hotels/bangkok/mid-range/",
+      "/where-to-stay/bangkok/first-time/",
+      "/city/bangkok/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare family hotels in Bangkok'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Chatrium Grand Bangkok'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best family hotel in Bangkok?",
+        "a": "Chatrium Grand Bangkok is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Novotel Bangkok Ploenchit Sukhumvit if your dates are expensive."
+      },
+      {
+        "q": "Which area has good family hotels in Bangkok?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are family hotels in Bangkok worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book family hotels in Bangkok?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Family Hotels in Bangkok (2026)",
+    "metaDescription": "Compare the best family hotels in Bangkok by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

@@ -200,7 +200,7 @@ OUTPUT — strict JSON with these fields, no markdown fences, no preamble:
   "internalLinks": [
     "/best-hotels/${city}/",
     "/areas/${city}/<top-pick-slug>/",
-    "/guides/where-to-stay/${city}/",
+    "/where-to-stay/${city}/",
     "/city/${city}/"
   ],
   "ctaPlacements": [

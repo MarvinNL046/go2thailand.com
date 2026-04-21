@@ -341,7 +341,7 @@ export default function HotelPage({ data }: Props) {
                 <Link href={`/best-hotels/${citySlug}/${hotel.category}/`} className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">Best {hotel.category} hotels in {cityName}</Link>
               )}
               <Link href={`/best-hotels/${citySlug}/`} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">All hotels in {cityName}</Link>
-              <Link href={`/guides/where-to-stay/${citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">Where to stay (areas)</Link>
+              <Link href={`/where-to-stay/${citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">Where to stay (areas)</Link>
             </div>
           </section>
         </main>

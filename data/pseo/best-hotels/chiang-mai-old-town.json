@@ -1,0 +1,453 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "category": "old-town",
+  "hotels": [
+    {
+      "name": "Julie Guesthouse",
+      "category": "budget",
+      "priceRange": "350–700 THB/night (~$10–20 USD)",
+      "area": "Old City",
+      "description": "A Chiang Mai backpacker institution since the 1990s, Julie's offers clean rooms with air-con, hot showers, and a ground-floor restaurant that doubles as a social hub. The location near Tha Phae Gate is unbeatable for market access.",
+      "highlights": [
+        "Steps from Tha Phae Gate and Sunday Market",
+        "Both fan and air-con rooms available",
+        "Reliable WiFi and airport pickup service"
+      ],
+      "reviewScore": "3.5/5 TripAdvisor",
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d613049-Reviews-Julie_Guest_House-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DJulie%2520Guesthouse%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Hive 28",
+      "category": "budget",
+      "priceRange": "280–500 THB/night (~$8–14 USD)",
+      "area": "Old City",
+      "description": "A modern hostel with both dorms and private rooms, featuring a rooftop bar with Old City views. Clean pod-style beds with privacy curtains, personal reading lights, and USB charging. Great common areas for meeting other travelers.",
+      "highlights": [
+        "Rooftop bar with temple views",
+        "Pod-style dorm beds with privacy",
+        "Free breakfast included"
+      ],
+      "bestFor": [
+        "backpackers",
+        "digital nomads"
+      ],
+      "sources": [
+        {
+          "sourceName": "KAYAK",
+          "sourceUrl": "https://www.kayak.com/Chiang-Mai-Hotels.6042.hotel.ksp",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHive%252028%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Stamps Backpackers",
+      "category": "budget",
+      "priceRange": "300–600 THB/night (~$8–17 USD)",
+      "area": "Old City",
+      "description": "Popular hostel with a social atmosphere, pool table, and organized pub crawls. Located in a quiet soi off Moon Muang Road with easy access to temples and the Night Bazaar. Both dorms and private rooms with air-con.",
+      "highlights": [
+        "Swimming pool — rare for this price range",
+        "Organized social events and tours",
+        "Quiet location despite being central"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DStamps%2520Backpackers%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "U Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "1,800–3,500 THB/night (~$50–100 USD)",
+      "area": "Old City",
+      "description": "Boutique hotel right on the main street where the Sunday Walking Street Market takes place. Some rooms have direct views of Wat Chedi Luang. Features a shared pool, fitness room, and excellent buffet breakfast with Thai and Western options.",
+      "highlights": [
+        "Front-row seats to Sunday Market from your balcony",
+        "Views of Wat Chedi Luang from select rooms",
+        "Pool and fitness center included"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "first-timers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DU%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "ON Thapae Gate",
+      "category": "mid-range",
+      "priceRange": "1,500–2,800 THB/night (~$42–80 USD)",
+      "area": "Old City / Tha Phae Gate",
+      "description": "Modern hotel with spacious rooms, 24/7 reception, and a prime location straddling the Old Town and Night Bazaar areas. Rooftop pool with city views and a stylish lobby cafe.",
+      "highlights": [
+        "Rooftop pool with panoramic views",
+        "Walking distance to both Old City and Night Bazaar",
+        "24-hour reception and concierge"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "The Manduls",
+          "sourceUrl": "https://themanduls.com/where-to-stay-in-chiang-mai/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DON%2520Thapae%2520Gate%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit D2 Chiang Mai",
+      "category": "mid-range",
+      "priceRange": "2,500–4,500 THB/night (~$70–126 USD)",
+      "area": "Old City (north side)",
+      "description": "A stylish 5-star hotel with a contemporary Thai design, full-service spa, and rooftop pool. Located just outside the northern Old City moat with easy access to the Chiang Mai National Museum and north gate food stalls.",
+      "highlights": [
+        "Full-service Devarana Spa",
+        "Rooftop infinity pool",
+        "Free parking — rare in the Old City area"
+      ],
+      "reviewScore": "4/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "business"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g293917-d543157-Reviews-DusitD2_Chiang_Mai-Chiang_Mai.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520D2%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Yi's Garden Villa",
+      "category": "mid-range",
+      "priceRange": "1,200–2,500 THB/night (~$34–70 USD)",
+      "area": "Old City (northeast)",
+      "description": "A hidden gem on a quiet road in the northeast corner of the Old City. Large rooms with private balconies offering panoramic mountain views, a swimming pool, and service quality that punches well above its price.",
+      "highlights": [
+        "Mountain views from private balconies",
+        "Swimming pool in a garden setting",
+        "Exceptional value for the quality"
+      ],
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DYi's%2520Garden%2520Villa%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "The Inside House",
+      "category": "luxury",
+      "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+      "area": "Old City",
+      "description": "A restored colonial-style boutique hotel with elegant white arches, leafy courtyards, and 14 private pools — the only Old City property offering this. Some suites feature private pools with glass walls. Intimate and beautifully designed.",
+      "highlights": [
+        "14 private pools across the property",
+        "Colonial-meets-Lanna architecture",
+        "Only luxury hotel inside the Old City walls with private pools"
+      ],
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Inside%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "137 Pillars House",
+      "category": "luxury",
+      "priceRange": "8,000–18,000 THB/night (~$225–505 USD)",
+      "area": "Riverside (east side)",
+      "description": "One of Chiang Mai's most prestigious boutique hotels, set in a restored 19th-century teak house. Just 30 suites with outdoor daybeds and some with private plunge pools. Colonial-inspired elegance with impeccable Lanna hospitality.",
+      "highlights": [
+        "Historic 1889 teak building",
+        "Select suites with private plunge pools",
+        "Award-winning restaurant and spa"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3D137%2520Pillars%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Sireeampan Boutique Resort & Spa",
+      "category": "luxury",
+      "priceRange": "3,500–7,000 THB/night (~$100–196 USD)",
+      "area": "North of Nimman",
+      "description": "A beautifully designed boutique resort inspired by Thai temple architecture. Ornate Lanna craftsmanship throughout, a tranquil pool area, and a full-service spa. Quieter location north of the Nimman buzz but with easy access.",
+      "highlights": [
+        "Temple-inspired architecture unique to Chiang Mai",
+        "Full spa with traditional Thai treatments",
+        "Peaceful garden setting"
+      ],
+      "bestFor": [
+        "couples",
+        "relaxation seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSireeampan%2520Boutique%2520Resort%2520%2526%2520Spa%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best old town hotel in Chiang Mai?",
+    "Where should I stay in Chiang Mai for old town hotels?",
+    "Which Chiang Mai old town hotels are worth booking?",
+    "What area has the best old town hotels in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong old town hotel in Chiang Mai can mean staying too far from the historic core when your trip is built around temples, food, and walkable streets.",
+    "intro": "The best old town hotels in Chiang Mai should fit the reason you are booking, not just the nightly price. We ranked these hotels by historic access, walkability, room value, atmosphere, and how easily the hotel supports short sightseeing stays.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Julie Guesthouse",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Hive 28",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Best location",
+        "name": "Stamps Backpackers",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Old-town hotels in Chiang Mai book quickly around festivals and cool-season sightseeing months.",
+    "comparisonTable": [
+      {
+        "name": "Julie Guesthouse",
+        "area": "Old City",
+        "priceBand": "€",
+        "bestFor": "backpackers, solo travelers",
+        "standout": "Steps from Tha Phae Gate and Sunday Market",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Hive 28",
+        "area": "Old City",
+        "priceBand": "€",
+        "bestFor": "backpackers, digital nomads",
+        "standout": "Rooftop bar with temple views",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Stamps Backpackers",
+        "area": "Old City",
+        "priceBand": "€",
+        "bestFor": "backpackers, solo travelers",
+        "standout": "Swimming pool — rare for this price range",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "U Chiang Mai",
+        "area": "Old City",
+        "priceBand": "€€",
+        "bestFor": "couples, first-timers",
+        "standout": "Front-row seats to Sunday Market from your balcony",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "ON Thapae Gate",
+        "area": "Old City / Tha Phae Gate",
+        "priceBand": "€€",
+        "bestFor": "couples, families",
+        "standout": "Rooftop pool with panoramic views",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Dusit D2 Chiang Mai",
+        "area": "Old City (north side)",
+        "priceBand": "€€",
+        "bestFor": "couples, business",
+        "standout": "Full-service Devarana Spa",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Yi's Garden Villa",
+        "area": "Old City (northeast)",
+        "priceBand": "€€",
+        "bestFor": "couples, families",
+        "standout": "Mountain views from private balconies",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "The Inside House",
+        "area": "Old City",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "14 private pools across the property",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "137 Pillars House",
+        "area": "Riverside (east side)",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Historic 1889 teak building",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Sireeampan Boutique Resort & Spa",
+        "area": "North of Nimman",
+        "priceBand": "€€€",
+        "bestFor": "couples, relaxation seekers",
+        "standout": "Temple-inspired architecture unique to Chiang Mai",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest old town pick, choose Julie Guesthouse.",
+      "If you want a practical base with strong value, choose Hive 28.",
+      "If the top pick is unavailable, compare Stamps Backpackers.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Julie Guesthouse",
+        "why": "Julie Guesthouse is the strongest old town pick because it balances historic access, walkability, and practical sightseeing value better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you want resort space, beach access, or a quiet rural setting.",
+        "localSignals": [
+          "Area: Old City",
+          "Typical range: 350–700 THB/night (~$10–20 USD)",
+          "Old-town hotels in Chiang Mai book quickly around festivals and cool-season sightseeing months."
+        ],
+        "travellerNote": "Travellers often choose Julie Guesthouse for its fit with old town stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Hive 28",
+        "why": "Hive 28 is a good alternative when its area or room style fits your itinerary better than Julie Guesthouse.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want resort space, beach access, or a quiet rural setting.",
+        "localSignals": [
+          "Area: Old City",
+          "Typical range: 280–500 THB/night (~$8–14 USD)",
+          "Old-town hotels in Chiang Mai book quickly around festivals and cool-season sightseeing months."
+        ],
+        "travellerNote": "Travellers often choose Hive 28 for its fit with old town stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Stamps Backpackers",
+        "why": "Stamps Backpackers is a good alternative when its area or room style fits your itinerary better than Julie Guesthouse.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you want resort space, beach access, or a quiet rural setting.",
+        "localSignals": [
+          "Area: Old City",
+          "Typical range: 300–600 THB/night (~$8–17 USD)",
+          "Old-town hotels in Chiang Mai book quickly around festivals and cool-season sightseeing months."
+        ],
+        "travellerNote": "Travellers often choose Stamps Backpackers for its fit with old town stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Julie Guesthouse",
+    "topPickReason": "Julie Guesthouse is the easiest old town recommendation when you want historic access, walkability, and practical sightseeing value.",
+    "bookingTips": [
+      "Compare rates for Julie Guesthouse first, then check Hive 28 and Stamps Backpackers for refundable deals on the same dates.",
+      "Old-town hotels in Chiang Mai book quickly around festivals and cool-season sightseeing months.",
+      "Use the exact area as a filter; a cheaper Chiang Mai hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing old town over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Chiang Mai hotel inventory to old town properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/where-to-stay/chiang-mai/",
+      "/best-hotels/chiang-mai/mid-range/",
+      "/where-to-stay/chiang-mai/first-time/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare old town hotels in Chiang Mai'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Julie Guesthouse'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best old town hotel in Chiang Mai?",
+        "a": "Julie Guesthouse is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Hive 28 if your dates are expensive."
+      },
+      {
+        "q": "Which area has good old town hotels in Chiang Mai?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are old town hotels in Chiang Mai worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book old town hotels in Chiang Mai?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Old Town Hotels in Chiang Mai (2026)",
+    "metaDescription": "Compare the best old town hotels in Chiang Mai by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

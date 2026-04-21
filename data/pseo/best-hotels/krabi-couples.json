@@ -1,0 +1,395 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "category": "couples",
+  "hotels": [
+    {
+      "name": "Sea Seeker Krabi Resort",
+      "category": "budget",
+      "priceRange": "800-1,200 THB/night (~$22-34 USD)",
+      "area": "Ao Nang",
+      "description": "A solid budget hotel in central Ao Nang with clean rooms, a swimming pool, and an unbeatable location near the beach and longtail boat pier. Rooms are basic but well-maintained with air conditioning and hot showers. The pool is a welcome bonus at this price point.",
+      "highlights": [
+        "Swimming pool — rare at budget prices in Ao Nang",
+        "5-minute walk to Ao Nang Beach and boat pier",
+        "Clean rooms with reliable AC and hot water"
+      ],
+      "bestFor": [
+        "budget travelers",
+        "couples"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSea%2520Seeker%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Panan Krabi Resort",
+      "category": "mid-range",
+      "priceRange": "2,000-3,500 THB/night (~$56-98 USD)",
+      "area": "Ao Nang",
+      "description": "A well-run mid-range resort in central Ao Nang with a large swimming pool, modern rooms with balconies, and a restaurant. Close enough to the beach and pier for easy island trips, but set back from the main road for quieter nights. Consistently good reviews for cleanliness and service.",
+      "highlights": [
+        "Large swimming pool with sun terrace",
+        "Modern rooms with balcony and minibar",
+        "10-minute walk to Ao Nang Beach and boat pier"
+      ],
+      "reviewScore": "4.3/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g297929-Ao_Nang_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanan%2520Krabi%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Railay Bay Resort & Spa",
+      "category": "mid-range",
+      "priceRange": "2,500-4,000 THB/night (~$70-112 USD)",
+      "area": "Railay Beach",
+      "description": "The best-value resort on Railay, straddling the peninsula between Railay West (swimming beach) and Railay East. Two pools, a beachfront restaurant, and direct access to both sides of the peninsula. Rooms range from garden-view bungalows to beachfront cottages. The boat-access-only setting gives it an island-resort atmosphere.",
+      "highlights": [
+        "Access to both Railay West and East beaches",
+        "Two swimming pools and beachfront restaurant",
+        "Boat-access location creates exclusive island feel"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g1507957-Railay_Beach_Krabi_Town_Krabi_Province-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRailay%2520Bay%2520Resort%2520%2526%2520Spa%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Aonang Cliff Beach Resort",
+      "category": "mid-range",
+      "priceRange": "1,800-3,000 THB/night (~$50-84 USD)",
+      "area": "Ao Nang",
+      "description": "Set against the limestone cliffs at the eastern end of Ao Nang Beach with direct beach access and a dramatic cliff-backed pool. The location is prime — steps from the longtail boat pier for Railay and island tours. Rooms are comfortable with sea or cliff views. The natural cliff setting is unique among Ao Nang's hotels.",
+      "highlights": [
+        "Dramatic cliff-backed swimming pool",
+        "Direct beach access at eastern Ao Nang",
+        "Steps from longtail boat pier for island tours"
+      ],
+      "bestFor": [
+        "couples",
+        "photographers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Booking.com",
+          "sourceUrl": "https://www.booking.com/city/th/ao-nang.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAonang%2520Cliff%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Rayavadee",
+      "category": "luxury",
+      "priceRange": "15,000-40,000 THB/night (~$420-1,120 USD)",
+      "area": "Railay / Phra Nang",
+      "description": "One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beaches including Phra Nang Cave Beach. Two-story pavilions with outdoor living spaces are scattered among coconut palms. The setting between soaring limestone cliffs and turquoise sea is unmatched anywhere in the country.",
+      "highlights": [
+        "Private access to three beaches including Phra Nang Cave Beach",
+        "Two-story pavilion suites in tropical gardens",
+        "Boat-access-only location between limestone cliffs — no cars, no roads"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury travelers",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1507957-d301764-Reviews-Rayavadee-Railay_Beach_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayavadee%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "category": "luxury",
+      "priceRange": "12,000-35,000 THB/night (~$336-980 USD)",
+      "area": "Tubkaek Beach",
+      "description": "The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous pool villas and pavilions with Thai-inspired design, a world-class spa, three restaurants, and the kind of white-glove service that justifies the price. One of only a handful of Ritz-Carlton Reserve properties worldwide.",
+      "highlights": [
+        "Ritz-Carlton Reserve — one of few worldwide",
+        "Secluded Tubkaek Beach with limestone island views",
+        "Pool villas with outdoor living spaces and private butler service"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhulay%2520Bay%252C%2520a%2520Ritz-Carlton%2520Reserve%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Dusit Thani Krabi Beach Resort",
+      "category": "luxury",
+      "priceRange": "5,000-12,000 THB/night (~$140-336 USD)",
+      "area": "Klong Muang Beach",
+      "description": "A premium Thai chain resort on the quiet Klong Muang Beach, 20 minutes north of Ao Nang. Large free-form pool, private beach, Thai cooking classes, and spacious rooms with garden or sea views. Good value in the luxury bracket — you get 5-star facilities and beach at a fraction of Rayavadee or Ritz-Carlton prices.",
+      "highlights": [
+        "Private beachfront on quiet Klong Muang Beach",
+        "Large free-form swimming pool and spa",
+        "Thai cooking classes and cultural activities on-site"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "families",
+        "couples",
+        "value luxury"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1861021-d302128-Reviews-Dusit_Thani_Krabi_Beach_Resort-Nong_Thale_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Krabi%2520Beach%2520Resort%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Grand Beach Resort & Villas Krabi",
+      "category": "luxury",
+      "priceRange": "6,000-15,000 THB/night (~$168-420 USD)",
+      "area": "Pai Plong Beach (near Ao Nang)",
+      "description": "A secluded luxury resort on its own private Pai Plong Beach, accessible by boat or a 150-step cliffside stairway from Ao Nang. The dramatic cliff-surrounded setting feels like a private cove while being minutes from Ao Nang's restaurants and tours. Pool villas, beachfront rooms, spa, and multiple dining options.",
+      "highlights": [
+        "Private Pai Plong Beach accessible only by boat or cliff stairway",
+        "Secluded cove setting surrounded by limestone cliffs",
+        "Close to Ao Nang but feels completely isolated"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297929-d627498-Reviews-Centara_Grand_Beach_Resort_Villas-Ao_Nang_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Grand%2520Beach%2520Resort%2520%2526%2520Villas%2520Krabi%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best couples hotel in Krabi?",
+    "Where should I stay in Krabi for couples hotels?",
+    "Which Krabi couples hotels are worth booking?",
+    "What area has the best couples hotels in Krabi?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong couples hotel in Krabi can mean booking a practical hotel that feels wrong for the mood of the trip.",
+    "intro": "The best couples hotels in Krabi should fit the reason you are booking, not just the nightly price. We ranked these hotels by location feel, room comfort, quieter setting, dining access, and value for two-person trips.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Sea Seeker Krabi Resort",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Panan Krabi Resort",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Most romantic",
+        "name": "Railay Bay Resort & Spa",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Couples-focused hotels in Krabi can jump during Christmas, New Year, and long weekends, so compare refundable rates early.",
+    "comparisonTable": [
+      {
+        "name": "Sea Seeker Krabi Resort",
+        "area": "Ao Nang",
+        "priceBand": "€",
+        "bestFor": "budget travelers, couples",
+        "standout": "Swimming pool — rare at budget prices in Ao Nang",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Panan Krabi Resort",
+        "area": "Ao Nang",
+        "priceBand": "€€",
+        "bestFor": "couples, families",
+        "standout": "Large swimming pool with sun terrace",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Railay Bay Resort & Spa",
+        "area": "Railay Beach",
+        "priceBand": "€€",
+        "bestFor": "couples, honeymooners",
+        "standout": "Access to both Railay West and East beaches",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Aonang Cliff Beach Resort",
+        "area": "Ao Nang",
+        "priceBand": "€€",
+        "bestFor": "couples, photographers",
+        "standout": "Dramatic cliff-backed swimming pool",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Rayavadee",
+        "area": "Railay / Phra Nang",
+        "priceBand": "€€€",
+        "bestFor": "honeymooners, luxury travelers",
+        "standout": "Private access to three beaches including Phra Nang Cave Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Phulay Bay, a Ritz-Carlton Reserve",
+        "area": "Tubkaek Beach",
+        "priceBand": "€€€",
+        "bestFor": "luxury travelers, honeymooners",
+        "standout": "Ritz-Carlton Reserve — one of few worldwide",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Dusit Thani Krabi Beach Resort",
+        "area": "Klong Muang Beach",
+        "priceBand": "€€€",
+        "bestFor": "families, couples",
+        "standout": "Private beachfront on quiet Klong Muang Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Centara Grand Beach Resort & Villas Krabi",
+        "area": "Pai Plong Beach (near Ao Nang)",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymooners",
+        "standout": "Private Pai Plong Beach accessible only by boat or cliff stairway",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest couples pick, choose Sea Seeker Krabi Resort.",
+      "If you want a practical base with strong value, choose Panan Krabi Resort.",
+      "If the top pick is unavailable, compare Railay Bay Resort & Spa.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Sea Seeker Krabi Resort",
+        "why": "Sea Seeker Krabi Resort is the strongest couples pick because it balances atmosphere, comfort, and a better two-person base better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Ao Nang",
+          "Typical range: 800-1,200 THB/night (~$22-34 USD)",
+          "Couples-focused hotels in Krabi can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose Sea Seeker Krabi Resort for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Panan Krabi Resort",
+        "why": "Panan Krabi Resort is a good alternative when its area or room style fits your itinerary better than Sea Seeker Krabi Resort.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Ao Nang",
+          "Typical range: 2,000-3,500 THB/night (~$56-98 USD)",
+          "Couples-focused hotels in Krabi can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose Panan Krabi Resort for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Railay Bay Resort & Spa",
+        "why": "Railay Bay Resort & Spa is a good alternative when its area or room style fits your itinerary better than Sea Seeker Krabi Resort.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "localSignals": [
+          "Area: Railay Beach",
+          "Typical range: 2,500-4,000 THB/night (~$70-112 USD)",
+          "Couples-focused hotels in Krabi can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+        ],
+        "travellerNote": "Travellers often choose Railay Bay Resort & Spa for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Sea Seeker Krabi Resort",
+    "topPickReason": "Sea Seeker Krabi Resort is the easiest couples recommendation when you want atmosphere, comfort, and a better two-person base.",
+    "bookingTips": [
+      "Compare rates for Sea Seeker Krabi Resort first, then check Panan Krabi Resort and Railay Bay Resort & Spa for refundable deals on the same dates.",
+      "Couples-focused hotels in Krabi can jump during Christmas, New Year, and long weekends, so compare refundable rates early.",
+      "Use the exact area as a filter; a cheaper Krabi hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing couples over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Krabi hotel inventory to couples properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/where-to-stay/krabi/",
+      "/best-hotels/krabi/mid-range/",
+      "/where-to-stay/krabi/first-time/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare couples hotels in Krabi'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Sea Seeker Krabi Resort'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best couples hotel in Krabi?",
+        "a": "Sea Seeker Krabi Resort is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Panan Krabi Resort if your dates are expensive."
+      },
+      {
+        "q": "Which area has good couples hotels in Krabi?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are couples hotels in Krabi worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book couples hotels in Krabi?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Couples Hotels in Krabi (2026)",
+    "metaDescription": "Compare the best couples hotels in Krabi by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

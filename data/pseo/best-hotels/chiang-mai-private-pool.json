@@ -1,0 +1,228 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "chiang-mai",
+  "cityName": "Chiang Mai",
+  "category": "private-pool",
+  "hotels": [
+    {
+      "name": "The Inside House",
+      "category": "luxury",
+      "priceRange": "4,500–9,000 THB/night (~$126–252 USD)",
+      "area": "Old City",
+      "description": "A restored colonial-style boutique hotel with elegant white arches, leafy courtyards, and 14 private pools — the only Old City property offering this. Some suites feature private pools with glass walls. Intimate and beautifully designed.",
+      "highlights": [
+        "14 private pools across the property",
+        "Colonial-meets-Lanna architecture",
+        "Only luxury hotel inside the Old City walls with private pools"
+      ],
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Inside%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "137 Pillars House",
+      "category": "luxury",
+      "priceRange": "8,000–18,000 THB/night (~$225–505 USD)",
+      "area": "Riverside (east side)",
+      "description": "One of Chiang Mai's most prestigious boutique hotels, set in a restored 19th-century teak house. Just 30 suites with outdoor daybeds and some with private plunge pools. Colonial-inspired elegance with impeccable Lanna hospitality.",
+      "highlights": [
+        "Historic 1889 teak building",
+        "Select suites with private plunge pools",
+        "Award-winning restaurant and spa"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons"
+      ],
+      "sources": [
+        {
+          "sourceName": "Northabroad",
+          "sourceUrl": "https://northabroad.com/where-to-stay-chiang-mai-best-hotels/",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3D137%2520Pillars%2520House%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    },
+    {
+      "name": "Four Seasons Resort Chiang Mai",
+      "category": "luxury",
+      "priceRange": "18,000–50,000 THB/night (~$505–1,400 USD)",
+      "area": "Mae Rim (30 min north of city)",
+      "description": "Northern Thailand's most luxurious resort, set among terraced rice paddies with Doi Suthep mountain as a backdrop. Traditional Lanna pavilions with private pools, a world-class spa, and activities including rice planting, cooking classes, and market tours.",
+      "highlights": [
+        "Private villas overlooking working rice paddies",
+        "Award-winning spa with Lanna treatments",
+        "Complimentary rice planting and harvest experiences"
+      ],
+      "reviewScore": "5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymoons",
+        "families"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotels-g293917-zff12-Chiang_Mai-Hotels.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DFour%2520Seasons%2520Resort%2520Chiang%2520Mai%252C%2520Chiang%2520Mai%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best private pool hotel in Chiang Mai?",
+    "Where should I stay in Chiang Mai for private pool hotels?",
+    "Which Chiang Mai private pool hotels are worth booking?",
+    "What area has the best private pool hotels in Chiang Mai?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong private pool hotel in Chiang Mai can mean booking an expensive villa-style stay without enough privacy, space, or location fit.",
+    "intro": "The best private pool hotels in Chiang Mai should fit the reason you are booking, not just the nightly price. We ranked these hotels by villa feel, privacy, pool or resort facilities, area trade-offs, and special-occasion value.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "The Inside House",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "137 Pillars House",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Most private",
+        "name": "Four Seasons Resort Chiang Mai",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Private-pool style stays in Chiang Mai have limited inventory, especially around honeymoons and winter holidays.",
+    "comparisonTable": [
+      {
+        "name": "The Inside House",
+        "area": "Old City",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "14 private pools across the property",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "137 Pillars House",
+        "area": "Riverside (east side)",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Historic 1889 teak building",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Four Seasons Resort Chiang Mai",
+        "area": "Mae Rim (30 min north of city)",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymoons",
+        "standout": "Private villas overlooking working rice paddies",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest private pool pick, choose The Inside House.",
+      "If you want a practical base with strong value, choose 137 Pillars House.",
+      "If the top pick is unavailable, compare Four Seasons Resort Chiang Mai.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "The Inside House",
+        "why": "The Inside House is the strongest private pool pick because it balances privacy, space, and special-occasion value better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you will spend most days out touring and only need a simple room.",
+        "localSignals": [
+          "Area: Old City",
+          "Typical range: 4,500–9,000 THB/night (~$126–252 USD)",
+          "Private-pool style stays in Chiang Mai have limited inventory, especially around honeymoons and winter holidays."
+        ],
+        "travellerNote": "Travellers often choose The Inside House for its fit with private pool stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "137 Pillars House",
+        "why": "137 Pillars House is a good alternative when its area or room style fits your itinerary better than The Inside House.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you will spend most days out touring and only need a simple room.",
+        "localSignals": [
+          "Area: Riverside (east side)",
+          "Typical range: 8,000–18,000 THB/night (~$225–505 USD)",
+          "Private-pool style stays in Chiang Mai have limited inventory, especially around honeymoons and winter holidays."
+        ],
+        "travellerNote": "Travellers often choose 137 Pillars House for its fit with private pool stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Four Seasons Resort Chiang Mai",
+        "why": "Four Seasons Resort Chiang Mai is a good alternative when its area or room style fits your itinerary better than The Inside House.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you will spend most days out touring and only need a simple room.",
+        "localSignals": [
+          "Area: Mae Rim (30 min north of city)",
+          "Typical range: 18,000–50,000 THB/night (~$505–1,400 USD)",
+          "Private-pool style stays in Chiang Mai have limited inventory, especially around honeymoons and winter holidays."
+        ],
+        "travellerNote": "Travellers often choose Four Seasons Resort Chiang Mai for its fit with private pool stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "The Inside House",
+    "topPickReason": "The Inside House is the easiest private pool recommendation when you want privacy, space, and special-occasion value.",
+    "bookingTips": [
+      "Compare rates for The Inside House first, then check 137 Pillars House and Four Seasons Resort Chiang Mai for refundable deals on the same dates.",
+      "Private-pool style stays in Chiang Mai have limited inventory, especially around honeymoons and winter holidays.",
+      "Use the exact area as a filter; a cheaper Chiang Mai hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing private pool over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Chiang Mai hotel inventory to private pool properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/chiang-mai/",
+      "/where-to-stay/chiang-mai/",
+      "/best-hotels/chiang-mai/mid-range/",
+      "/where-to-stay/chiang-mai/first-time/",
+      "/city/chiang-mai/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare private pool hotels in Chiang Mai'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View The Inside House'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best private pool hotel in Chiang Mai?",
+        "a": "The Inside House is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with 137 Pillars House if your dates are expensive."
+      },
+      {
+        "q": "Which area has good private pool hotels in Chiang Mai?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are private pool hotels in Chiang Mai worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book private pool hotels in Chiang Mai?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Private Pool Hotels in Chiang Mai (2026)",
+    "metaDescription": "Compare the best private pool hotels in Chiang Mai by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}

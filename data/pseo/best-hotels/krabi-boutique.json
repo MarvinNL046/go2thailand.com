@@ -1,0 +1,231 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "krabi",
+  "cityName": "Krabi",
+  "category": "boutique",
+  "hotels": [
+    {
+      "name": "Rayavadee",
+      "category": "luxury",
+      "priceRange": "15,000-40,000 THB/night (~$420-1,120 USD)",
+      "area": "Railay / Phra Nang",
+      "description": "One of Thailand's most iconic luxury resorts, set in 26 acres of tropical gardens on the Railay peninsula with private access to three beaches including Phra Nang Cave Beach. Two-story pavilions with outdoor living spaces are scattered among coconut palms. The setting between soaring limestone cliffs and turquoise sea is unmatched anywhere in the country.",
+      "highlights": [
+        "Private access to three beaches including Phra Nang Cave Beach",
+        "Two-story pavilion suites in tropical gardens",
+        "Boat-access-only location between limestone cliffs — no cars, no roads"
+      ],
+      "reviewScore": "4.8/5 TripAdvisor",
+      "bestFor": [
+        "honeymooners",
+        "luxury travelers",
+        "special occasions"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1507957-d301764-Reviews-Rayavadee-Railay_Beach_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRayavadee%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "category": "luxury",
+      "priceRange": "12,000-35,000 THB/night (~$336-980 USD)",
+      "area": "Tubkaek Beach",
+      "description": "The Ritz-Carlton's ultra-exclusive Reserve brand set on secluded Tubkaek Beach with dramatic views of limestone islands offshore. Enormous pool villas and pavilions with Thai-inspired design, a world-class spa, three restaurants, and the kind of white-glove service that justifies the price. One of only a handful of Ritz-Carlton Reserve properties worldwide.",
+      "highlights": [
+        "Ritz-Carlton Reserve — one of few worldwide",
+        "Secluded Tubkaek Beach with limestone island views",
+        "Pool villas with outdoor living spaces and private butler service"
+      ],
+      "reviewScore": "4.7/5 TripAdvisor",
+      "bestFor": [
+        "luxury travelers",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott",
+          "sourceUrl": "https://www.ritzcarlton.com/en/hotels/thailand/krabi",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhulay%2520Bay%252C%2520a%2520Ritz-Carlton%2520Reserve%252C%2520Krabi%252C%2520Thailand"
+    },
+    {
+      "name": "Centara Grand Beach Resort & Villas Krabi",
+      "category": "luxury",
+      "priceRange": "6,000-15,000 THB/night (~$168-420 USD)",
+      "area": "Pai Plong Beach (near Ao Nang)",
+      "description": "A secluded luxury resort on its own private Pai Plong Beach, accessible by boat or a 150-step cliffside stairway from Ao Nang. The dramatic cliff-surrounded setting feels like a private cove while being minutes from Ao Nang's restaurants and tours. Pool villas, beachfront rooms, spa, and multiple dining options.",
+      "highlights": [
+        "Private Pai Plong Beach accessible only by boat or cliff stairway",
+        "Secluded cove setting surrounded by limestone cliffs",
+        "Close to Ao Nang but feels completely isolated"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "privacy seekers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297929-d627498-Reviews-Centara_Grand_Beach_Resort_Villas-Ao_Nang_Krabi_Town_Krabi_Province.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Grand%2520Beach%2520Resort%2520%2526%2520Villas%2520Krabi%252C%2520Krabi%252C%2520Thailand"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best boutique hotel in Krabi?",
+    "Where should I stay in Krabi for boutique hotels?",
+    "Which Krabi boutique hotels are worth booking?",
+    "What area has the best boutique hotels in Krabi?"
+  ],
+  "aiContent": {
+    "hookIntro": "Choosing the wrong boutique hotel in Krabi can mean paying for style while losing the location or comfort that actually improves the stay.",
+    "intro": "The best boutique hotels in Krabi should fit the reason you are booking, not just the nightly price. We ranked these hotels by design character, room individuality, area fit, service feel, and booking value.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Rayavadee",
+        "why": "Best overall fit"
+      },
+      {
+        "label": "Best value",
+        "name": "Phulay Bay, a Ritz-Carlton Reserve",
+        "why": "Strong practical value"
+      },
+      {
+        "label": "Best design",
+        "name": "Centara Grand Beach Resort & Villas Krabi",
+        "why": "Useful alternative pick"
+      }
+    ],
+    "urgencyLine": "Small boutique hotels in Krabi have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory.",
+    "comparisonTable": [
+      {
+        "name": "Rayavadee",
+        "area": "Railay / Phra Nang",
+        "priceBand": "€€€",
+        "bestFor": "honeymooners, luxury travelers",
+        "standout": "Private access to three beaches including Phra Nang Cave Beach",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Phulay Bay, a Ritz-Carlton Reserve",
+        "area": "Tubkaek Beach",
+        "priceBand": "€€€",
+        "bestFor": "luxury travelers, honeymooners",
+        "standout": "Ritz-Carlton Reserve — one of few worldwide",
+        "drawback": "Rates vary by season"
+      },
+      {
+        "name": "Centara Grand Beach Resort & Villas Krabi",
+        "area": "Pai Plong Beach (near Ao Nang)",
+        "priceBand": "€€€",
+        "bestFor": "couples, honeymooners",
+        "standout": "Private Pai Plong Beach accessible only by boat or cliff stairway",
+        "drawback": "Rates vary by season"
+      }
+    ],
+    "decisionGuide": [
+      "If you want the safest boutique pick, choose Rayavadee.",
+      "If you want a practical base with strong value, choose Phulay Bay, a Ritz-Carlton Reserve.",
+      "If the top pick is unavailable, compare Centara Grand Beach Resort & Villas Krabi.",
+      "If your dates fall in peak season, compare refundable rates before narrowing by area."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Rayavadee",
+        "why": "Rayavadee is the strongest boutique pick because it balances character, location, and a more memorable stay better than the alternatives.",
+        "drawback": "Best-value rates may disappear first.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Railay / Phra Nang",
+          "Typical range: 15,000-40,000 THB/night (~$420-1,120 USD)",
+          "Small boutique hotels in Krabi have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose Rayavadee for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 2,
+        "name": "Phulay Bay, a Ritz-Carlton Reserve",
+        "why": "Phulay Bay, a Ritz-Carlton Reserve is a good alternative when its area or room style fits your itinerary better than Rayavadee.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Tubkaek Beach",
+          "Typical range: 12,000-35,000 THB/night (~$336-980 USD)",
+          "Small boutique hotels in Krabi have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose Phulay Bay, a Ritz-Carlton Reserve for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      },
+      {
+        "rank": 3,
+        "name": "Centara Grand Beach Resort & Villas Krabi",
+        "why": "Centara Grand Beach Resort & Villas Krabi is a good alternative when its area or room style fits your itinerary better than Rayavadee.",
+        "drawback": "It is less universal than the top pick.",
+        "skipIf": "Skip if you prefer large resort facilities or standardized chain-hotel predictability.",
+        "localSignals": [
+          "Area: Pai Plong Beach (near Ao Nang)",
+          "Typical range: 6,000-15,000 THB/night (~$168-420 USD)",
+          "Small boutique hotels in Krabi have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory."
+        ],
+        "travellerNote": "Travellers often choose Centara Grand Beach Resort & Villas Krabi for its fit with boutique stays but should compare recent room types and cancellation terms before booking."
+      }
+    ],
+    "topPick": "Rayavadee",
+    "topPickReason": "Rayavadee is the easiest boutique recommendation when you want character, location, and a more memorable stay.",
+    "bookingTips": [
+      "Compare rates for Rayavadee first, then check Phulay Bay, a Ritz-Carlton Reserve and Centara Grand Beach Resort & Villas Krabi for refundable deals on the same dates.",
+      "Small boutique hotels in Krabi have fewer comparable rooms, so the best-value dates disappear faster than large chain inventory.",
+      "Use the exact area as a filter; a cheaper Krabi hotel can cost more once daily transport is included.",
+      "For stays longer than three nights, prioritize the reason you are choosing boutique over a small nightly discount.",
+      "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
+    ],
+    "methodology": "We filtered the Krabi hotel inventory to boutique properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "internalLinks": [
+      "/best-hotels/krabi/",
+      "/where-to-stay/krabi/",
+      "/best-hotels/krabi/mid-range/",
+      "/where-to-stay/krabi/first-time/",
+      "/city/krabi/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Compare boutique hotels in Krabi'",
+      "after-comparison-table: 'Check rates for top picks'",
+      "after-top-pick: 'View Rayavadee'"
+    ],
+    "faq": [
+      {
+        "q": "What is the best boutique hotel in Krabi?",
+        "a": "Rayavadee is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Phulay Bay, a Ritz-Carlton Reserve if your dates are expensive."
+      },
+      {
+        "q": "Which area has good boutique hotels in Krabi?",
+        "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
+      },
+      {
+        "q": "Are boutique hotels in Krabi worth it?",
+        "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
+      },
+      {
+        "q": "When should I book boutique hotels in Krabi?",
+        "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
+      }
+    ],
+    "metaTitle": "Best Boutique Hotels in Krabi (2026)",
+    "metaDescription": "Compare the best boutique hotels in Krabi by area, value, comfort and booking fit. See top picks before you reserve."
+  },
+  "lastUpdated": "2026-04-21",
+  "generatedAt": "2026-04-21T00:00:00.000Z"
+}
