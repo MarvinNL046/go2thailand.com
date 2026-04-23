@@ -16,6 +16,16 @@ export default class MyDocument extends Document<MyDocumentProps> {
     return (
       <Html lang={this.props.locale}>
       <Head>
+        {/* Travelpayouts Drive */}
+        <script
+          data-noptimize="1"
+          data-cfasync="false"
+          data-wpfc-render="false"
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var s=document.createElement("script");s.async=1;s.src="https://emrldco.com/NDIxODg4.js?t=421888";document.head.appendChild(s);})();`,
+          }}
+        />
+
         {/* Google Fonts preconnect */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
