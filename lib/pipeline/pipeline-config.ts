@@ -55,6 +55,7 @@ const DEFAULT_CONFIG: PipelineConfig = {
   ],
   repoOwner: 'MarvinNL046',
   repoName: 'go2thailand.com',
+  branch: 'main',
 };
 
 let cached: PipelineConfig | null = null;
