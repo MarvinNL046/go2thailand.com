@@ -278,8 +278,7 @@ ${candidate.sourceContent}
 
 REQUIREMENTS:
 
-1. FRONTMATTER (YAML — fill the values exactly):
-\`\`\`yaml
+1. FRONTMATTER (YAML — start the file with the first --- delimiter on line 1, do NOT wrap the frontmatter in triple-backticks or any code fence):
 ---
 title: "Compelling, accurate English title (max 90 chars)"
 slug: "${today}-url-friendly-slug"
@@ -292,7 +291,7 @@ source:
 tags: ["tag1", "tag2", "tag3", "tag4"]
 description: "1-2 sentence meta description (140-155 chars) summarising the news"
 ---
-\`\`\`
+
 The slug after the date prefix should be 4-8 lowercase words separated by hyphens, no stop words.
 
 2. BODY (~500-800 words of Markdown):
@@ -354,6 +353,18 @@ function extractFrontmatterField(raw: string, field: string): string {
   return m ? m[1].trim() : '';
 }
 
+// Some models (notably Grok 4 Fast) wrap the frontmatter in a ```yaml ... ```
+// code fence even when told not to. gray-matter then can't parse the YAML
+// and getStaticProps crashes on `undefined` source. Strip a leading fence
+// (and optional trailing one if it shows up) before storing.
+function stripFrontmatterFence(raw: string): string {
+  let out = raw.replace(/^\s*```[a-zA-Z]*\s*\n/, '');
+  // If the frontmatter was wrapped, the closing fence sits right after the
+  // second `---` — drop it but keep the body that follows.
+  out = out.replace(/^(---[\s\S]*?\n---)\s*\n```\s*\n?/, '$1\n\n');
+  return out;
+}
+
 // -------------------------------------------------------------------
 // Public: pick the next candidate + generate EN + NL articles.
 // -------------------------------------------------------------------
@@ -389,11 +400,11 @@ export async function generateNextNewsArticle(): Promise<GenerateNewsResult | nu
   console.log(`[news-generator] Writing news for: "${chosen.rawTitle}"`);
 
   // 1. Generate EN article
-  const enRaw = await generateContent(buildEnNewsPrompt(chosen, today), {
+  const enRaw = stripFrontmatterFence(await generateContent(buildEnNewsPrompt(chosen, today), {
     model: 'grok-writer',
     maxTokens: 4000,
     temperature: 0.4,
-  });
+  }));
 
   const enTitle = extractFrontmatterField(enRaw, 'title') || chosen.rawTitle;
   const enSlug = extractFrontmatterField(enRaw, 'slug') || slugifyTitle(chosen.rawTitle, today);
@@ -418,11 +429,11 @@ export async function generateNextNewsArticle(): Promise<GenerateNewsResult | nu
     return { candidate: chosen, en };
   }
 
-  const nlRaw = await generateContent(buildNlTranslatePrompt(enRaw, today, chosen), {
+  const nlRaw = stripFrontmatterFence(await generateContent(buildNlTranslatePrompt(enRaw, today, chosen), {
     model: 'grok-translator',
     maxTokens: 4000,
     temperature: 0.3,
-  });
+  }));
 
   const nlTitle = extractFrontmatterField(nlRaw, 'title') || enTitle;
   const nlDescription = extractFrontmatterField(nlRaw, 'description') || enDescription;
