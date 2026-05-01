@@ -290,18 +290,17 @@ async function getNextQueuedTopic(): Promise<(QueuedTopic & { category: PostCate
 
       // Check if any existing slug matches:
       // - Keyword match: need ALL keyword words to match (exact topic duplicate)
-      // - Topic match: 4+ words AND 50%+ ratio (broader title match)
-      // - Skip matching for very short keywords (1 word) — too many false positives
+      // - Topic match: 4+ words AND 50%+ ratio (broader title match) — used as fallback
+      //   even for short keywords, since stemming misses variants like
+      //   "retirement" vs "retirees" or "diving" vs "divers"
       const alreadyPublished = existingSlugList.some((slug) => {
         const keywordMatchCount = keywordWords.filter((word) => wordMatchesSlug(word, slug)).length;
         const keywordMatchRatio = keywordWords.length > 0 ? keywordMatchCount / keywordWords.length : 0;
         const topicMatchCount = topicWords.filter((word) => wordMatchesSlug(word, slug)).length;
         const topicMatchRatio = topicWords.length > 0 ? topicMatchCount / topicWords.length : 0;
-        // For short keywords (1-2 words), require exact match
-        if (keywordWords.length <= 2) {
-          return keywordMatchRatio === 1.0;
-        }
-        return (keywordMatchRatio >= 0.85) || (topicMatchCount >= 4 && topicMatchRatio >= 0.5);
+        if (keywordMatchRatio === 1.0) return true;
+        if (keywordWords.length > 2 && keywordMatchRatio >= 0.85) return true;
+        return topicMatchCount >= 4 && topicMatchRatio >= 0.5;
       });
 
       if (!alreadyPublished) {
