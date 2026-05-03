@@ -786,6 +786,24 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
             </div>
           </section>
 
+          {/* 12Go ferry alternative — only for Phi Phi cluster spokes */}
+          {isPhiPhi(spoke) && (
+            <section className="rounded-2xl bg-blue-50 border-2 border-thailand-blue p-6">
+              <span className="inline-block rounded-full bg-thailand-blue text-white text-xs font-bold uppercase tracking-wide px-3 py-1 mb-3">⛴️ {isNl ? 'Plan B' : 'Plan B'}</span>
+              <h2 className="font-heading text-xl font-bold text-gray-900 mb-2">
+                {isNl ? 'Geen tour? Boek de ferry zelf' : 'Skip the tour? Book the ferry yourself'}
+              </h2>
+              <p className="text-gray-700 leading-relaxed mb-3">
+                {isNl
+                  ? 'Wil je liever zelf naar Phi Phi en niet aan een tour-schema vastzitten? Phuket heeft directe ferries naar Phi Phi Don (Tonsai Pier) — gemiddeld $15-30 enkele reis, 90 min varen. Vergelijk schedules en boek live tickets via 12Go.'
+                  : "Want to go to Phi Phi on your own schedule instead of joining a tour? Phuket has direct ferries to Phi Phi Don (Tonsai Pier) — typically $15-30 one-way, 90-min crossing. Compare schedules and book live tickets via 12Go."}
+              </p>
+              <a href={withSubId('https://12go.tpo.lv/bng1il3g', place('plan-b-12go-ferry'))} target="_blank" rel="noopener noreferrer nofollow sponsored" className="inline-flex items-center rounded-full bg-thailand-blue text-white px-5 py-2.5 text-sm font-semibold hover:bg-blue-700">
+                {isNl ? '🎫 Phuket → Phi Phi ferry op 12Go' : '🎫 Phuket → Phi Phi ferry on 12Go'} →
+              </a>
+            </section>
+          )}
+
           {/* Methodology */}
           <section className="rounded-2xl bg-gray-50 border border-gray-200 p-6 text-sm text-gray-700">
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>

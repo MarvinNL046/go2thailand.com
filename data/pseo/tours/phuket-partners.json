@@ -1,166 +1,170 @@
 {
-  "lastUpdated": "2026-05-03",
+  "lastUpdated": "2026-05-04",
   "cluster": "cluster-7-phuket-tours",
   "partners": {
     "klook_pillar": {
       "partnerUrl": "https://klook.tpo.lv/mAjDtMMP",
-      "label": "Klook — Phuket tours"
+      "label": "Klook \u2014 Phuket tours"
     },
     "gyg_pillar": {
       "partnerUrl": "https://getyourguide.tpo.lv/nKn5mW2a",
-      "label": "GetYourGuide — Phuket tours"
+      "label": "GetYourGuide \u2014 Phuket tours"
     },
     "viator_pillar": {
       "partnerUrl": "https://viator.tpo.lv/FPFzEYIA",
-      "label": "Viator — Phuket tours"
+      "label": "Viator \u2014 Phuket tours"
     },
     "tiqets_pillar": {
       "partnerUrl": "https://tiqets.tpo.lv/TWDyop2W",
-      "label": "Tiqets — Phuket attractions"
+      "label": "Tiqets \u2014 Phuket attractions"
     },
     "klook_big_buddha": {
       "partnerUrl": "https://klook.tpo.lv/tLDPIxX5",
-      "label": "Klook — Phuket Big Buddha"
+      "label": "Klook \u2014 Phuket Big Buddha"
     },
     "gyg_big_buddha": {
       "partnerUrl": "https://getyourguide.tpo.lv/k7aPG14i",
-      "label": "GetYourGuide — Phuket Big Buddha"
+      "label": "GetYourGuide \u2014 Phuket Big Buddha"
     },
     "viator_big_buddha": {
       "partnerUrl": "https://viator.tpo.lv/GuRHq2AN",
-      "label": "Viator — Big Buddha"
+      "label": "Viator \u2014 Big Buddha"
     },
     "klook_elephant": {
       "partnerUrl": "https://klook.tpo.lv/1O2lVymE",
-      "label": "Klook — Phuket elephants"
+      "label": "Klook \u2014 Phuket elephants"
     },
     "gyg_elephant": {
       "partnerUrl": "https://getyourguide.tpo.lv/3xwEK6xf",
-      "label": "GetYourGuide — Phuket elephants"
+      "label": "GetYourGuide \u2014 Phuket elephants"
     },
     "viator_elephant": {
       "partnerUrl": "https://viator.tpo.lv/q1xIOwGZ",
-      "label": "Viator — Phuket elephants"
+      "label": "Viator \u2014 Phuket elephants"
     },
     "klook_cooking": {
       "partnerUrl": "https://klook.tpo.lv/CNNy7l2z",
-      "label": "Klook — Phuket cooking class"
+      "label": "Klook \u2014 Phuket cooking class"
     },
     "gyg_cooking": {
       "partnerUrl": "https://getyourguide.tpo.lv/4PQX0bgG",
-      "label": "GetYourGuide — Phuket cooking"
+      "label": "GetYourGuide \u2014 Phuket cooking"
     },
     "viator_cooking": {
       "partnerUrl": "https://viator.tpo.lv/L9C2uo55",
-      "label": "Viator — Phuket cooking"
+      "label": "Viator \u2014 Phuket cooking"
     },
     "klook_snorkeling": {
       "partnerUrl": "https://klook.tpo.lv/E1RZiSTf",
-      "label": "Klook — Phuket snorkeling"
+      "label": "Klook \u2014 Phuket snorkeling"
     },
     "gyg_snorkeling": {
       "partnerUrl": "https://getyourguide.tpo.lv/22Qd9xE4",
-      "label": "GetYourGuide — Phuket snorkeling"
+      "label": "GetYourGuide \u2014 Phuket snorkeling"
     },
     "viator_snorkeling": {
       "partnerUrl": "https://viator.tpo.lv/UVpyLMhR",
-      "label": "Viator — Phuket snorkeling"
+      "label": "Viator \u2014 Phuket snorkeling"
     },
     "klook_old_town": {
       "partnerUrl": "https://klook.tpo.lv/7v55Hbv8",
-      "label": "Klook — Phuket Old Town"
+      "label": "Klook \u2014 Phuket Old Town"
     },
     "gyg_old_town": {
       "partnerUrl": "https://getyourguide.tpo.lv/zy0QNxhg",
-      "label": "GetYourGuide — Phuket Old Town"
+      "label": "GetYourGuide \u2014 Phuket Old Town"
     },
     "viator_old_town": {
       "partnerUrl": "https://viator.tpo.lv/Bklq9ili",
-      "label": "Viator — Phuket Old Town"
+      "label": "Viator \u2014 Phuket Old Town"
     },
     "klook_phi_phi_day_trip": {
       "partnerUrl": "https://klook.tpo.lv/LcpkVVQ6",
-      "label": "Klook — Phi Phi day trip"
+      "label": "Klook \u2014 Phi Phi day trip"
     },
     "gyg_phi_phi_day_trip": {
       "partnerUrl": "https://getyourguide.tpo.lv/JclCL2uu",
-      "label": "GetYourGuide — Phi Phi day trip"
+      "label": "GetYourGuide \u2014 Phi Phi day trip"
     },
     "viator_phi_phi_day_trip": {
       "partnerUrl": "https://viator.tpo.lv/eXv6CQQm",
-      "label": "Viator — Phi Phi day trip"
+      "label": "Viator \u2014 Phi Phi day trip"
     },
     "klook_maya_bay": {
       "partnerUrl": "https://klook.tpo.lv/FhO2Z8PF",
-      "label": "Klook — Maya Bay tour"
+      "label": "Klook \u2014 Maya Bay tour"
     },
     "gyg_maya_bay": {
       "partnerUrl": "https://getyourguide.tpo.lv/QJ5JjF8B",
-      "label": "GetYourGuide — Maya Bay tour"
+      "label": "GetYourGuide \u2014 Maya Bay tour"
     },
     "viator_maya_bay": {
       "partnerUrl": "https://viator.tpo.lv/2eLab3BJ",
-      "label": "Viator — Maya Bay tour"
+      "label": "Viator \u2014 Maya Bay tour"
     },
     "klook_phi_phi_snorkeling": {
       "partnerUrl": "https://klook.tpo.lv/qPhnLg72",
-      "label": "Klook — Phi Phi snorkeling"
+      "label": "Klook \u2014 Phi Phi snorkeling"
     },
     "gyg_phi_phi_snorkeling": {
       "partnerUrl": "https://getyourguide.tpo.lv/6JAPpuHX",
-      "label": "GetYourGuide — Phi Phi snorkeling"
+      "label": "GetYourGuide \u2014 Phi Phi snorkeling"
     },
     "viator_phi_phi_snorkeling": {
       "partnerUrl": "https://viator.tpo.lv/v82Abey8",
-      "label": "Viator — Phi Phi snorkeling"
+      "label": "Viator \u2014 Phi Phi snorkeling"
     },
     "klook_phi_phi_sunset": {
       "partnerUrl": "https://klook.tpo.lv/91GVWTjq",
-      "label": "Klook — Phi Phi sunset"
+      "label": "Klook \u2014 Phi Phi sunset"
     },
     "gyg_phi_phi_sunset": {
       "partnerUrl": "https://getyourguide.tpo.lv/K3eJnJk2",
-      "label": "GetYourGuide — Phi Phi sunset"
+      "label": "GetYourGuide \u2014 Phi Phi sunset"
     },
     "viator_phi_phi_sunset": {
       "partnerUrl": "https://viator.tpo.lv/jlNm16vn",
-      "label": "Viator — Phi Phi sunset"
+      "label": "Viator \u2014 Phi Phi sunset"
     },
     "klook_phi_phi_speedboat": {
       "partnerUrl": "https://klook.tpo.lv/r8dr8cvA",
-      "label": "Klook — Phi Phi speedboat"
+      "label": "Klook \u2014 Phi Phi speedboat"
     },
     "gyg_phi_phi_speedboat": {
       "partnerUrl": "https://getyourguide.tpo.lv/8gN13aZV",
-      "label": "GetYourGuide — Phi Phi speedboat"
+      "label": "GetYourGuide \u2014 Phi Phi speedboat"
     },
     "viator_phi_phi_speedboat": {
       "partnerUrl": "https://viator.tpo.lv/o8tlJWa9",
-      "label": "Viator — Phi Phi speedboat"
+      "label": "Viator \u2014 Phi Phi speedboat"
     },
     "klook_khai_islands": {
       "partnerUrl": "https://klook.tpo.lv/PHF7mOCF",
-      "label": "Klook — Khai Islands"
+      "label": "Klook \u2014 Khai Islands"
     },
     "gyg_khai_islands": {
       "partnerUrl": "https://getyourguide.tpo.lv/AlcIWAEj",
-      "label": "GetYourGuide — Khai Islands"
+      "label": "GetYourGuide \u2014 Khai Islands"
     },
     "viator_khai_islands": {
       "partnerUrl": "https://viator.tpo.lv/201PX8iH",
-      "label": "Viator — Khai Islands"
+      "label": "Viator \u2014 Khai Islands"
     },
     "klook_bamboo_island": {
       "partnerUrl": "https://klook.tpo.lv/BKTkKcTV",
-      "label": "Klook — Bamboo Island"
+      "label": "Klook \u2014 Bamboo Island"
     },
     "gyg_bamboo_island": {
       "partnerUrl": "https://getyourguide.tpo.lv/Wp2gIPJJ",
-      "label": "GetYourGuide — Bamboo Island"
+      "label": "GetYourGuide \u2014 Bamboo Island"
     },
     "viator_bamboo_island": {
       "partnerUrl": "https://viator.tpo.lv/azC4L9GP",
-      "label": "Viator — Bamboo Island"
+      "label": "Viator \u2014 Bamboo Island"
+    },
+    "twelvego_phi_phi_ferry": {
+      "partnerUrl": "https://12go.tpo.lv/bng1il3g",
+      "label": "12Go \u2014 Phuket to Phi Phi ferry"
     }
   }
 }

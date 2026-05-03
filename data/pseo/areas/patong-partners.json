@@ -1,21 +1,25 @@
 {
-  "lastUpdated": "2026-05-03",
+  "lastUpdated": "2026-05-04",
   "partners": {
     "trip_patong_pillar": {
       "partnerUrl": "https://trip.tpo.lv/K7wsuUth",
-      "label": "Trip.com — Patong city hotels"
+      "label": "Trip.com \u2014 Patong city hotels"
     },
     "trip_patong_hotels_hub": {
       "partnerUrl": "https://trip.tpo.lv/qXfjPEGa",
-      "label": "Trip.com — Patong hotels search"
+      "label": "Trip.com \u2014 Patong hotels search"
     },
     "trip_patong_nightlife": {
       "partnerUrl": "https://trip.tpo.lv/Yac3g8l9",
-      "label": "Trip.com — Patong nightlife activities"
+      "label": "Trip.com \u2014 Patong nightlife activities"
     },
     "trip_patong_restaurants": {
       "partnerUrl": "https://trip.tpo.lv/59dpjGdA",
-      "label": "Trip.com — Patong restaurants"
+      "label": "Trip.com \u2014 Patong restaurants"
+    },
+    "twelvego_airport_patong": {
+      "partnerUrl": "https://12go.tpo.lv/3aLNBOQk",
+      "label": "12Go \u2014 Phuket Airport to Patong transfer"
     }
   },
   "hotels": [
@@ -41,7 +45,7 @@
     },
     {
       "slug": "movenpick-myth-hotel-patong-phuket",
-      "name": "Mövenpick Myth Hotel Patong Phuket",
+      "name": "M\u00f6venpick Myth Hotel Patong Phuket",
       "tripPartnerUrl": "https://trip.tpo.lv/OLXCnOkN"
     },
     {
