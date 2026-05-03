@@ -6,6 +6,7 @@ import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/best-beaches-in-thailand';
+import { getIslandAffiliates, TRIP_GENERIC, withPlacementSubId } from '../lib/affiliates';
 
 interface BeachData {
   rank: number;
@@ -459,20 +460,39 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                     </p>
                   </div>
 
-                  <div className="mt-5 flex flex-wrap gap-3">
-                    <Link
-                      href={`/islands/${beach.island_slug}/`}
-                      className="inline-flex items-center rounded-full bg-thailand-blue px-4 py-2 text-sm font-semibold text-white hover:bg-thailand-red transition-colors"
-                    >
-                      {lang === 'nl' ? `Lees over ${beach.island_name[lang]}` : `Read the ${beach.island_name[lang]} guide`}
-                    </Link>
-                    <Link
-                      href="/islands/"
-                      className="inline-flex items-center rounded-full bg-surface-cream px-4 py-2 text-sm font-semibold text-gray-800 hover:bg-gray-200 transition-colors"
-                    >
-                      {lang === 'nl' ? 'Bekijk alle eilanden' : 'Browse all island guides'}
-                    </Link>
-                  </div>
+                  {(() => {
+                    const aff = getIslandAffiliates(beach.island_slug);
+                    const tripUrl = withPlacementSubId(aff?.trip ?? TRIP_GENERIC, `best-beaches-${beach.island_slug}`, `beach-${beach.rank}-trip`);
+                    const klookUrl = aff?.klook ? withPlacementSubId(aff.klook, `best-beaches-${beach.island_slug}`, `beach-${beach.rank}-klook`) : null;
+                    return (
+                      <div className="mt-5 flex flex-wrap gap-3">
+                        <a
+                          href={tripUrl}
+                          target="_blank"
+                          rel="noopener noreferrer nofollow sponsored"
+                          className="inline-flex items-center rounded-full bg-thailand-red px-4 py-2 text-sm font-semibold text-white hover:bg-red-700 transition-colors"
+                        >
+                          {lang === 'nl' ? `Hotels bij ${beach.name} →` : `Hotels near ${beach.name} →`}
+                        </a>
+                        {klookUrl && (
+                          <a
+                            href={klookUrl}
+                            target="_blank"
+                            rel="noopener noreferrer nofollow sponsored"
+                            className="inline-flex items-center rounded-full bg-thailand-gold px-4 py-2 text-sm font-semibold text-white hover:bg-yellow-600 transition-colors"
+                          >
+                            {lang === 'nl' ? `Tours vanaf ${beach.island_name[lang]} →` : `Tours from ${beach.island_name[lang]} →`}
+                          </a>
+                        )}
+                        <Link
+                          href={`/islands/${beach.island_slug}/`}
+                          className="inline-flex items-center rounded-full bg-thailand-blue px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700 transition-colors"
+                        >
+                          {lang === 'nl' ? `${beach.island_name[lang]} gids` : `${beach.island_name[lang]} guide`}
+                        </Link>
+                      </div>
+                    );
+                  })()}
                 </article>
               ))}
             </div>

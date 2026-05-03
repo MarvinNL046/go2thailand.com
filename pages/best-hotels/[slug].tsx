@@ -7,7 +7,7 @@ import ClusterNav from '../../components/ClusterNav';
 import AffiliateBox from '../../components/AffiliateBox';
 import IntentInternalLinks, { IntentInternalLinkItem } from '../../components/IntentInternalLinks';
 import type { HotelsPage, ClusterHotel } from '../../lib/cluster-types';
-import { getAffiliates, CityAffiliates } from '../../lib/affiliates';
+import { getAffiliates, CityAffiliates, TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
@@ -95,12 +95,14 @@ function categoryLabel(cat: string): string {
   return cat;
 }
 
-function HotelCard({ hotel }: { hotel: ClusterHotel }) {
+function HotelCard({ hotel, citySlug, tripBaseUrl }: { hotel: ClusterHotel; citySlug: string; tripBaseUrl: string }) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const conf = categoryConfig[hotel.category];
+  const slugSegment = (hotel.name || 'hotel').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 50);
+  const tripUrl = withPlacementSubId(tripBaseUrl, `best-hotels-${citySlug}`, `card-${slugSegment}`);
   return (
-    <div className={`bg-white rounded-xl shadow-sm border border-gray-100 p-5 ${conf.borderTop}`}>
+    <div className={`bg-white rounded-xl shadow-sm border border-gray-100 p-5 ${conf.borderTop} flex flex-col`}>
       <div className="flex items-start justify-between gap-3 mb-2">
         <h3 className="font-bold text-gray-900 text-lg leading-tight">{hotel.name}</h3>
         <span className={`shrink-0 text-sm font-semibold px-3 py-1 rounded-full ${conf.badgeBg}`}>
@@ -131,6 +133,14 @@ function HotelCard({ hotel }: { hotel: ClusterHotel }) {
           ))}
         </ul>
       )}
+      <a
+        href={tripUrl}
+        target="_blank"
+        rel="noopener noreferrer nofollow sponsored"
+        className="mt-4 inline-flex items-center justify-center rounded-full bg-thailand-red px-4 py-2.5 text-sm font-semibold text-white hover:bg-red-700 transition-colors"
+      >
+        {isNl ? `Bekijk prijzen op Trip.com →` : `Check rates on Trip.com →`}
+      </a>
     </div>
   );
 }
@@ -239,7 +249,7 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks }: Props
 
                 <div className="grid md:grid-cols-2 gap-5">
                   {hotels.map((hotel, i) => (
-                    <HotelCard key={i} hotel={hotel} />
+                    <HotelCard key={i} hotel={hotel} citySlug={data.citySlug} tripBaseUrl={affiliates?.trip ?? TRIP_GENERIC} />
                   ))}
                 </div>
               </section>
