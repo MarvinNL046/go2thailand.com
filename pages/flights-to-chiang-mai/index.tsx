@@ -121,7 +121,8 @@ export default function FlightsToChiangMaiPage({ routes, lastUpdated }: Props) {
             <Breadcrumbs items={breadcrumbs} />
             <p className="mt-4 text-sm font-semibold uppercase tracking-wide text-white/75">Flight comparison</p>
             <h1 className="font-heading text-3xl lg:text-5xl font-bold mt-2">
-              Flights to Chiang Mai: {nonSearchCount} Routes Compared (2026)
+              {/* H1 different from title per SEO playbook */}
+              How to Fly to Chiang Mai: {nonSearchCount} Routes & Honest Connection Tips
             </h1>
             <p className="mt-4 text-lg lg:text-xl max-w-3xl opacity-95">
               Chiang Mai International (CNX) handles 11+ million passengers a year, with 60+ daily flights from Bangkok alone. Most international travel is 1–2 stops via Bangkok or another Asian hub — here&apos;s every route worth knowing, with realistic durations and prices.

@@ -121,7 +121,8 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
             <Breadcrumbs items={breadcrumbs} />
             <p className="mt-4 text-sm font-semibold uppercase tracking-wide text-white/75">Flight comparison</p>
             <h1 className="font-heading text-3xl lg:text-5xl font-bold mt-2">
-              Flights to Bangkok: {nonSearchCount} Routes Compared (2026)
+              {/* H1 different from title per SEO playbook */}
+              How to Fly to Bangkok: {nonSearchCount} Direct & Connecting Routes
             </h1>
             <p className="mt-4 text-lg lg:text-xl max-w-3xl opacity-95">
               Suvarnabhumi (BKK) handled 60+ million passengers in 2024 and Don Mueang (DMK) another 30+ million — together Thailand&apos;s primary global gateway. Here&apos;s every route worth knowing — durations, airlines, typical fares, and when to book.

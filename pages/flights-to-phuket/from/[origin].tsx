@@ -165,7 +165,10 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
               <span className="font-mono text-sm opacity-90">{route.from} → HKT</span>
             </div>
             <h1 className="font-heading text-3xl lg:text-5xl font-bold mt-3">
-              {isNl ? `Vluchten van ${route.fromName} naar Phuket` : `Flights from ${route.fromName} to Phuket`}
+              {/* H1 differs from title per SEO playbook — uses 'How to' framing + duration */}
+              {isNl
+                ? `${route.fromName} naar Phuket: vluchten, airlines & boekingstips`
+                : `${route.fromName} to Phuket: Airlines, Schedule & Booking Tips`}
             </h1>
             <p className="mt-4 text-lg max-w-3xl opacity-95">
               {route.duration} · {route.stops} · {route.frequency} · {route.priceBand}

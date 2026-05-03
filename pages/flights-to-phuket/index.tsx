@@ -169,9 +169,10 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
               {isNl ? 'Vluchten vergelijken' : 'Flight comparison'}
             </p>
             <h1 className="font-heading text-3xl lg:text-5xl font-bold mt-2">
+              {/* H1 different from title to vary keyword variations per SEO playbook */}
               {isNl
-                ? 'Vluchten naar Phuket: 15 Routes Vergeleken (2026)'
-                : 'Flights to Phuket: 15 Routes Compared (2026)'}
+                ? 'Hoe vlieg je naar Phuket? 15 Routes vanuit de hele wereld'
+                : 'How to Fly to Phuket: 15 Routes from Around the World'}
             </h1>
             <p className="mt-4 text-lg lg:text-xl max-w-3xl opacity-95">
               {isNl
