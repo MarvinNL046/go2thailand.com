@@ -3,7 +3,10 @@ import { useRouter } from 'next/router';
 import { withSubId } from '../lib/affiliates';
 import { useSubId } from '../lib/useSubId';
 
-const COOKING_CATEGORIES = ['main-dish', 'soup', 'curry', 'salad', 'stir-fry', 'noodle'];
+// All Thai-food categories get the cooking-class CTA — desserts, drinks and
+// regional specialities also have hands-on classes available (mango-sticky-rice,
+// dessert workshops, curry-paste classes, etc).
+const SKIP_CATEGORIES: string[] = [];
 
 interface FoodAffiliateCTAProps {
   category: string;
@@ -15,7 +18,7 @@ export default function FoodAffiliateCTA({ category, dishName }: FoodAffiliateCT
   const nl = locale === 'nl';
   const subId = useSubId();
 
-  if (!COOKING_CATEGORIES.includes(category)) return null;
+  if (SKIP_CATEGORIES.includes(category)) return null;
 
   return (
     <div className="bg-thailand-blue/5 border border-thailand-blue/20 rounded-2xl p-6 my-6">

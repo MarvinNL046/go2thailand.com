@@ -99,6 +99,31 @@ export default function SimCardThailandPage({ data }: SimCardGuideProps) {
                   {isNl ? 'Vergelijk eSIM aanbieders & prijzen \u2192' : 'Compare eSIM providers & prices \u2192'}
                 </Link>
               </p>
+
+              {/* Saily eSIM affiliate banner \u2014 direct buy for ready-to-purchase users */}
+              <div className="mt-8 max-w-3xl mx-auto bg-gradient-to-r from-thailand-blue to-blue-600 rounded-2xl p-6 text-white shadow-lg">
+                <div className="flex flex-col sm:flex-row items-center gap-4">
+                  <div className="flex-1">
+                    <p className="text-xs uppercase tracking-wide font-semibold opacity-80 mb-1">
+                      {isNl ? 'Aanbevolen voor reizigers' : 'Recommended for travelers'}
+                    </p>
+                    <h3 className="text-xl font-bold font-heading mb-1">
+                      {isNl ? 'Saily eSIM \u2014 kies en activeer in minuten' : 'Saily eSIM \u2014 pick and activate in minutes'}
+                    </h3>
+                    <p className="text-sm opacity-90">
+                      {isNl ? 'Geen winkel, geen wachten op de luchthaven. Werkt op alle moderne iPhones en Android-toestellen.' : 'No store, no airport waiting. Works on all modern iPhones and Android devices.'}
+                    </p>
+                  </div>
+                  <a
+                    href="https://saily.tpo.lv/rf9lidnE?subid=travel-guides-sim-card-thailand-banner"
+                    target="_blank"
+                    rel="noopener noreferrer nofollow sponsored"
+                    className="inline-flex items-center gap-2 bg-white text-thailand-blue font-semibold px-6 py-3 rounded-full hover:bg-gray-100 transition-colors whitespace-nowrap"
+                  >
+                    {isNl ? 'Bekijk Saily \u2192' : 'See Saily plans \u2192'}
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </section>

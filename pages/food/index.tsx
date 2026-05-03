@@ -829,19 +829,33 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
           </div>
         </section>
 
-        {/* Cooking Classes Cross-Link */}
+        {/* Cooking Classes — direct affiliate CTAs */}
         <section className="bg-white section-padding">
-          <div className="container-custom text-center">
+          <div className="container-custom text-center max-w-4xl">
             <h2 className="text-2xl font-heading font-bold text-gray-900 mb-3">{isNl ? 'Leer Thais Koken' : 'Learn to Cook Thai Food'}</h2>
             <p className="text-gray-600 mb-6">{isNl ? 'Volg een hands-on kookles en leer deze gerechten thuis na te maken. Bangkok en Chiang Mai hebben de beste opties.' : 'Take a hands-on cooking class and learn to recreate these dishes at home. Bangkok and Chiang Mai have the best options.'}</p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/best-cooking-classes-in-thailand/" className="inline-flex items-center gap-2 bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors">
-                Compare Cooking Classes Across Thailand
-              </Link>
-              <Link href="/blog/best-cooking-classes-bangkok-market-tour-2026/" className="inline-flex items-center gap-2 bg-surface-cream text-gray-900 px-6 py-3 rounded-xl font-semibold hover:shadow-md transition-all">
-                Bangkok Cooking Classes &amp; Market Tours
+            <div className="flex flex-wrap gap-3 justify-center">
+              <a
+                href="https://klook.tpo.lv/aq6ZFxvc?subid=food-hub-cooking-class"
+                target="_blank"
+                rel="noopener noreferrer nofollow sponsored"
+                className="inline-flex items-center gap-2 bg-[#FF5722] text-white px-6 py-3 rounded-xl font-semibold hover:bg-[#e64a19] transition-colors shadow-md"
+              >
+                {isNl ? 'Kooklessen op Klook →' : 'Cooking Classes on Klook →'}
+              </a>
+              <a
+                href="https://getyourguide.tpo.lv/GuAFfGGK?subid=food-hub-cooking-class"
+                target="_blank"
+                rel="noopener noreferrer nofollow sponsored"
+                className="inline-flex items-center gap-2 bg-[#1B9E3E] text-white px-6 py-3 rounded-xl font-semibold hover:bg-[#157a30] transition-colors shadow-md"
+              >
+                {isNl ? 'Food Tours op GetYourGuide →' : 'Food Tours on GetYourGuide →'}
+              </a>
+              <Link href="/best-cooking-classes-in-thailand/" className="inline-flex items-center gap-2 bg-surface-cream text-gray-900 px-6 py-3 rounded-xl font-semibold hover:shadow-md transition-all border border-gray-200">
+                {isNl ? 'Onze gids vergelijken' : 'Compare our picks'}
               </Link>
             </div>
+            <p className="text-xs text-gray-500 mt-4">{isNl ? 'We kunnen een commissie verdienen zonder extra kosten voor jou.' : 'We may earn a commission at no extra cost to you.'}</p>
           </div>
         </section>
 

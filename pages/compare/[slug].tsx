@@ -447,13 +447,14 @@ export default function ComparisonPage({
           />
         )}
       </SEOHead>
-      {/* Override canonical for non-translated locales to point to EN + noindex */}
-      {!isTranslated && (
-        <Head>
-          <meta name="robots" content="noindex, follow" />
-          <link key="canonical" rel="canonical" href={`${SITE_URL}/compare/${slug}/`} />
-        </Head>
-      )}
+      {/* Comparisons cron retired 2026-03-14. Cluster (285 pages) drives 0.6s
+          avg engagement and ~1 view per page — content has not aged well and
+          eats crawl budget. Noindex the entire cluster while we keep the URLs
+          accessible for any deep links. */}
+      <Head>
+        <meta name="robots" content="noindex, follow" />
+        <link key="canonical" rel="canonical" href={`${SITE_URL}/compare/${slug}/`} />
+      </Head>
 
       <div className="bg-surface-cream min-h-screen">
 

@@ -396,6 +396,7 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
           {guide.slug === 'health-hospitals-thailand' && <InsuranceCTA context="health" />}
           {guide.slug === 'hidden-gems-off-beaten-path-thailand' && <InsuranceCTA context="general" />}
           {guide.slug === 'first-time-thailand' && <InsuranceCTA context="general" />}
+          {guide.slug === 'vaccinations-travel-health-thailand' && <InsuranceCTA context="health" />}
         </div>
 
         {/* FAQs */}
