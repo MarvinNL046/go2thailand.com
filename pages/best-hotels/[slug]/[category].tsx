@@ -8,7 +8,7 @@ import FounderNote from '../../../components/editorial/FounderNote';
 import EditorialSchema from '../../../components/editorial/EditorialSchema';
 import EditorialMeta from '../../../components/editorial/EditorialMeta';
 import IntentInternalLinks, { IntentInternalLinkItem } from '../../../components/IntentInternalLinks';
-import { getAffiliates, withPlacementSubId, TIQETS_GENERIC } from '../../../lib/affiliates';
+import { getAffiliates, withPlacementSubId, TIQETS_GENERIC, TRIP_GENERIC } from '../../../lib/affiliates';
 import { getEditorialUpdatedAt } from '../../../lib/pseo-editorial-date';
 
 /**
@@ -134,8 +134,8 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
   // expect to land on that hotel's Booking page, not the city search.
   const bookingFor = (h: Hotel | undefined, placement: string): { url: string; specific: boolean } | null => {
     if (h?.bookingUrl) return { url: withPlacementSubId(h.bookingUrl, subId, placement), specific: true };
-    if (aff?.booking) return { url: withPlacementSubId(aff.booking, subId, placement), specific: false };
-    return null;
+    // Fallback: Trip.com generic (30-day cookie). User explicitly excluded Booking on hotel CTAs.
+    return { url: withPlacementSubId(aff?.trip ?? TRIP_GENERIC, subId, placement), specific: false };
   };
 
   const renderHotelCard = (h: Hotel, idx: number) => {
