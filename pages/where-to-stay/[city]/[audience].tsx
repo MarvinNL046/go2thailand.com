@@ -8,7 +8,7 @@ import FounderNote from '../../../components/editorial/FounderNote';
 import EditorialSchema from '../../../components/editorial/EditorialSchema';
 import EditorialMeta from '../../../components/editorial/EditorialMeta';
 import IntentInternalLinks, { IntentInternalLinkItem } from '../../../components/IntentInternalLinks';
-import { getAffiliates, withPlacementSubId } from '../../../lib/affiliates';
+import { getAffiliates, withPlacementSubId, TRIP_GENERIC } from '../../../lib/affiliates';
 import { getEditorialUpdatedAt } from '../../../lib/pseo-editorial-date';
 
 /**
@@ -112,7 +112,9 @@ export default function WhereToStayAudiencePage({ data, relatedLinks }: Props) {
   const editorialUpdatedAt = getEditorialUpdatedAt(data);
   const aff = getAffiliates(data.citySlug);
   const subId = `pseo-where-to-stay-${data.citySlug}-${data.audience}`;
-  const bookingFor = (placement: string) => aff?.booking ? withPlacementSubId(aff.booking, subId, placement) : null;
+  // User excluded Booking on hotel CTAs — switch to Trip.com (30-day cookie, tracked via TRIP_GENERIC).
+  const tripBase = aff?.trip ?? TRIP_GENERIC;
+  const bookingFor = (placement: string) => withPlacementSubId(tripBase, subId, placement);
   const renderedRelatedLinks = relatedLinks && relatedLinks.length > 0 ? relatedLinks : fallbackRelatedLinks(data);
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -165,9 +167,10 @@ export default function WhereToStayAudiencePage({ data, relatedLinks }: Props) {
                 {(() => {
                   const aff = getAffiliates(data.citySlug);
                   const subId = `pseo-where-to-stay-${data.citySlug}-${data.audience}`;
-                  return aff?.booking ? (
-                    <a href={withPlacementSubId(aff.booking, subId, 'hero')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-4 py-1.5 text-sm font-semibold hover:bg-red-700">Check rates in {data.cityName} →</a>
-                  ) : null;
+                  const url = withPlacementSubId(aff?.trip ?? TRIP_GENERIC, subId, 'hero');
+                  return (
+                    <a href={url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-4 py-1.5 text-sm font-semibold hover:bg-red-700">Check rates in {data.cityName} →</a>
+                  );
                 })()}
               </div>
             )}
@@ -422,7 +425,7 @@ export default function WhereToStayAudiencePage({ data, relatedLinks }: Props) {
                 <h2 className="font-heading text-xl font-bold text-gray-900">Plan the rest of your {data.cityName} trip</h2>
                 <p className="mt-2 text-gray-700">Once you've picked an area, sort hotels, activities, and transport.</p>
                 <div className="mt-4 flex flex-wrap gap-3">
-                  <a href={withPlacementSubId(aff.booking, subId, 'plan-booking')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-5 py-2 text-sm font-semibold hover:bg-red-700">🏨 Hotels in {data.cityName} (Booking)</a>
+                  <a href={withPlacementSubId(aff.trip ?? TRIP_GENERIC, subId, 'plan-trip')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-5 py-2 text-sm font-semibold hover:bg-red-700">🏨 Hotels in {data.cityName} (Trip.com)</a>
                   <a href={withPlacementSubId(aff.klook, subId, 'plan-klook')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-white text-thailand-red border border-thailand-red px-5 py-2 text-sm font-semibold hover:bg-thailand-red hover:text-white">🎟️ Activities (Klook)</a>
                   <a href={withPlacementSubId(aff.twelveGo, subId, 'plan-12go')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">🚌 Transport (12Go)</a>
                 </div>
