@@ -107,7 +107,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
     <>
       <SEOHead
         title="Flights to Bangkok: 19 Routes Compared (2026)"
-        description="Compare flights to Bangkok (BKK + DMK) from Singapore, KL, Hong Kong, Tokyo, LAX, JFK, London, Amsterdam and 11 more origins. Durations, airlines, fares."
+        description="Looking for flights to Bangkok? Compare 19 routes from Singapore, KL, Hong Kong, Tokyo, LAX, JFK, London & more — durations, fares, tips."
       >
         <link rel="canonical" href="https://go2-thailand.com/flights-to-bangkok/" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />

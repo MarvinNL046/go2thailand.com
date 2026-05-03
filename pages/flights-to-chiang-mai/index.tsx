@@ -107,7 +107,7 @@ export default function FlightsToChiangMaiPage({ routes, lastUpdated }: Props) {
     <>
       <SEOHead
         title="Flights to Chiang Mai: 14 Routes Compared (2026)"
-        description="Compare flights to Chiang Mai (CNX) from Bangkok, Singapore, KL, Hong Kong, Seoul, plus 1+2-stop long-haul from LHR, JFK, LAX. Durations, airlines, fares."
+        description="Need a flight to Chiang Mai? Compare 14 routes — direct from BKK & SIN, 1-stop from LAX, JFK, LHR. Durations, airlines, fares, honest tips."
       >
         <link rel="canonical" href="https://go2-thailand.com/flights-to-chiang-mai/" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />

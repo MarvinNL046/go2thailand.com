@@ -35,9 +35,10 @@ export default function CarRentalPhuketPage({ partners, lastUpdated }: Props) {
   const seoTitle = isNl
     ? 'Auto Huren in Phuket (2026): Vergelijken & Boeken'
     : 'Car Rental Phuket (2026): Compare Prices & 7 Companies';
+  // Question hook + keyword + variations — under 155 chars
   const seoDescription = isNl
-    ? 'Auto huren in Phuket: vergelijk Discover Cars en Trip.com, lokale vs internationale aanbieders, prijzen vanaf $20/dag, wat je nodig hebt en boekingstips.'
-    : 'Car rental in Phuket: compare Discover Cars and Trip.com, local vs international brands, prices from $20/day, what you need to bring, and booking tips.';
+    ? 'Auto huren in Phuket? Vergelijk Discover Cars en Trip.com, lokaal vs internationaal, prijzen vanaf $20/dag, IDP-regels en boekingstips.'
+    : 'Looking to rent a car in Phuket? Compare Discover Cars + Trip.com, local vs international brands, prices from $20/day, IDP rules + tips.';
   const canonical = `https://go2-thailand.com${isNl ? '/nl' : ''}/car-rental-phuket/`;
 
   const breadcrumbJsonLd = {

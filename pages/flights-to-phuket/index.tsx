@@ -142,9 +142,10 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
   const seoTitle = isNl
     ? 'Vluchten naar Phuket: 15 Routes Vergeleken (2026)'
     : 'Flights to Phuket Thailand: 15 Routes Compared (2026)';
+  // Question hook + keyword + variations — under 155 chars per playbook
   const seoDescription = isNl
-    ? 'Vergelijk vluchten naar Phuket (HKT) vanuit Amsterdam, Bangkok, Singapore, Dubai en 11 andere steden. Reistijden, airlines, typische prijzen en wanneer boeken.'
-    : 'Compare flights to Phuket (HKT) from Bangkok, Chiang Mai, Singapore, LAX, JFK and 11 more origins. Durations, airlines, typical price bands, when to book.';
+    ? 'Op zoek naar vluchten naar Phuket? Vergelijk 15 routes vanuit Bangkok, Amsterdam, Dubai, Singapore en LAX — reistijd, prijs, boekingstips.'
+    : 'Looking for flights to Phuket? Compare 15 routes from Bangkok, Chiang Mai, Singapore, LAX, JFK & more — durations, airlines, fares & tips.';
 
   const dateLocale = isNl ? 'nl-NL' : 'en';
   const updatedLabel = isNl ? 'Bijgewerkt' : 'Updated';
