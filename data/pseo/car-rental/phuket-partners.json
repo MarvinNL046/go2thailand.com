@@ -1,0 +1,29 @@
+{
+  "lastUpdated": "2026-05-03",
+  "partners": {
+    "trip_thailand": {
+      "partnerUrl": "https://trip.tpo.lv/9fQPsxl8",
+      "sourceUrl": "https://www.trip.com/carhire/online?country=Thailand"
+    },
+    "trip_phuket": {
+      "partnerUrl": "https://trip.tpo.lv/ndo5Copq",
+      "sourceUrl": "https://www.trip.com/carhire/list/?city=phuket"
+    },
+    "trip_generic": {
+      "partnerUrl": "https://trip.tpo.lv/6J5vjbzI",
+      "sourceUrl": "https://www.trip.com/carhire/?ScenarioCode=PCH"
+    },
+    "dc_phuket": {
+      "partnerUrl": "https://discovercars.tpo.lv/7kDOcWAp",
+      "sourceUrl": "https://www.discovercars.com/thailand/phuket"
+    },
+    "dc_thailand": {
+      "partnerUrl": "https://discovercars.tpo.lv/ILnM2SSw",
+      "sourceUrl": "https://www.discovercars.com/thailand"
+    },
+    "dc_airport": {
+      "partnerUrl": "https://discovercars.tpo.lv/XBwhqTgd",
+      "sourceUrl": "https://www.discovercars.com/thailand/phuket-airport"
+    }
+  }
+}
