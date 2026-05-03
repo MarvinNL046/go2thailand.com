@@ -20,15 +20,18 @@ export const NORDPASS_GENERIC = 'https://nordvpn.tpo.lv/tp12zNjC';
 export const VIATOR_GENERIC = 'https://viator.tpo.lv/TUcQTS5u';
 export const TIQETS_GENERIC = 'https://tiqets.tpo.lv/MdiS5eUO';
 
-// Wrap any tiqets.com URL with Travelpayouts affiliate params for attribution.
-// Tiqets uses direct-redirect (not tp.media/r?...). 8-11% commission tier.
-// Marker 602467 must appear in tq_campaign for TPO to credit the click.
-export function tiqetsAffiliate(tiqetsUrl: string, placement: string): string {
+// Wrap any tiqets.com URL with Travelpayouts middleware redirect for tracking.
+// Tiqets program at TPO: p=2074, campaign_id=89. 8-11% commission tier.
+// Same tp.media/r? pattern as Booking (p=4114) and Trip.com (p=7631).
+// TPO captures the click first, generates a dynamic click_id, then forwards
+// to tiqets.com with partner=travelpayouts.com + tq_campaign + tq_click_id
+// query params automatically appended.
+export function tiqetsAffiliate(tiqetsUrl: string, placement?: string): string {
   if (!tiqetsUrl.includes('tiqets.com')) return tiqetsUrl;
-  if (tiqetsUrl.includes('partner=travelpayouts.com')) return tiqetsUrl;
-  const sep = tiqetsUrl.includes('?') ? '&' : '?';
-  const safe = encodeURIComponent(placement || 'site');
-  return `${tiqetsUrl}${sep}partner=travelpayouts.com&tq_campaign=602467-${safe}&tq_click_id=602467-${safe}`;
+  if (tiqetsUrl.includes('tp.media/r')) return tiqetsUrl;
+  const encoded = encodeURIComponent(tiqetsUrl);
+  const subParam = placement ? `&subid=${encodeURIComponent(placement)}` : '';
+  return `https://tp.media/r?campaign_id=89&marker=602467&p=2074&trs=421888&u=${encoded}${subParam}`;
 }
 
 // Append subid tracking parameter to affiliate URLs
