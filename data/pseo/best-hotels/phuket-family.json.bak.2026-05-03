@@ -2,8 +2,32 @@
   "template": "best-hotels-category",
   "citySlug": "phuket",
   "cityName": "Phuket",
-  "category": "couples",
+  "category": "family",
   "hotels": [
+    {
+      "name": "Lub d Phuket Patong",
+      "category": "budget",
+      "priceRange": "400–700 THB/night (~$11–20 USD)",
+      "area": "Patong Beach",
+      "description": "A stylish modern hostel five minutes from Patong Beach with both pod-style dorms and private rooms. Rooftop pool, social common areas, and a reputation as one of Southeast Asia's best-designed hostels. Part of the Thai Lub d chain known for quality budget stays.",
+      "highlights": [
+        "Rooftop pool overlooking Patong",
+        "Modern pod beds with privacy curtains and USB charging",
+        "Walking distance to Bangla Road and the beach"
+      ],
+      "bestFor": [
+        "backpackers",
+        "solo travelers"
+      ],
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.in/HotelsList-Phuket-Budget-Hotels-zfp6215.html",
+          "lastVerified": "2026-03-13"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLub%2520d%2520Phuket%2520Patong%252C%2520Phuket%252C%2520Thailand"
+    },
     {
       "name": "Expat Hotel Patong",
       "category": "budget",
@@ -26,8 +50,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DExpat%2520Hotel%2520Patong%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/fzf5zYNb"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DExpat%2520Hotel%2520Patong%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Baan Karon Resort",
@@ -51,8 +74,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Karon%2520Resort%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/neXU9JVf"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520Karon%2520Resort%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Beyond Patong",
@@ -77,8 +99,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/RWl5JStX"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBeyond%2520Patong%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Karon Sea Sands Resort",
@@ -102,8 +123,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/Dur3pKTH"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKaron%2520Sea%2520Sands%2520Resort%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Kata Beach Resort & Spa",
@@ -127,8 +147,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKata%2520Beach%2520Resort%2520%2526%2520Spa%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/wH9mP31P"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DKata%2520Beach%2520Resort%2520%2526%2520Spa%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Millennium Resort Patong",
@@ -153,8 +172,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMillennium%2520Resort%2520Patong%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/JWPm2k2L"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMillennium%2520Resort%2520Patong%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Pullman Phuket Arcadia Naithon Beach",
@@ -178,8 +196,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPullman%2520Phuket%2520Arcadia%2520Naithon%2520Beach%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/BtgfxU5g"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPullman%2520Phuket%2520Arcadia%2520Naithon%2520Beach%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Twinpalms Phuket",
@@ -204,8 +221,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTwinpalms%2520Phuket%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/iTLyGfX1"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTwinpalms%2520Phuket%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Banyan Tree Phuket",
@@ -231,8 +247,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanyan%2520Tree%2520Phuket%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/21bwh7kP"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanyan%2520Tree%2520Phuket%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "The Nai Harn",
@@ -256,8 +271,7 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Nai%2520Harn%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/3876HgwS"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Nai%2520Harn%252C%2520Phuket%252C%2520Thailand"
     },
     {
       "name": "Avista Grande Karon — MGallery",
@@ -282,38 +296,45 @@
           "lastVerified": "2026-03-13"
         }
       ],
-      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvista%2520Grande%2520Karon%2520%25E2%2580%2594%2520MGallery%252C%2520Phuket%252C%2520Thailand",
-      "tripPartnerUrl": "https://trip.tpo.lv/dNNFEIcJ"
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvista%2520Grande%2520Karon%2520%25E2%2580%2594%2520MGallery%252C%2520Phuket%252C%2520Thailand"
     }
   ],
   "paaQuestions": [
-    "What is the best couples hotel in Phuket?",
-    "Where should I stay in Phuket for couples hotels?",
-    "Which Phuket couples hotels are worth booking?",
-    "What area has the best couples hotels in Phuket?"
+    "What is the best family hotel in Phuket?",
+    "Where should I stay in Phuket for family hotels?",
+    "Which Phuket family hotels are worth booking?",
+    "What area has the best family hotels in Phuket?"
   ],
   "aiContent": {
-    "hookIntro": "Choosing the wrong couples hotel in Phuket can mean booking a practical hotel that feels wrong for the mood of the trip.",
-    "intro": "The best couples hotels in Phuket should fit the reason you are booking, not just the nightly price. We ranked these hotels by location feel, room comfort, quieter setting, dining access, and value for two-person trips.",
+    "hookIntro": "Choosing the wrong family hotel in Phuket can mean ending up somewhere noisy, cramped, or too hard to move around with kids.",
+    "intro": "The best family hotels in Phuket should fit the reason you are booking, not just the nightly price. We ranked these hotels by room practicality, pool and resort facilities, area convenience, transport friction, and family-friendly value.",
     "quickAnswers": [
       {
         "label": "Best overall",
-        "name": "Expat Hotel Patong",
+        "name": "Lub d Phuket Patong",
         "why": "Best overall fit"
       },
       {
         "label": "Best value",
-        "name": "Baan Karon Resort",
+        "name": "Expat Hotel Patong",
         "why": "Strong practical value"
       },
       {
-        "label": "Most romantic",
-        "name": "Beyond Patong",
+        "label": "Best for kids",
+        "name": "Baan Karon Resort",
         "why": "Useful alternative pick"
       }
     ],
-    "urgencyLine": "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early.",
+    "urgencyLine": "Family-friendly rooms in Phuket are easiest to compare early for school holidays and winter high season.",
     "comparisonTable": [
+      {
+        "name": "Lub d Phuket Patong",
+        "area": "Patong Beach",
+        "priceBand": "€",
+        "bestFor": "backpackers, solo travelers",
+        "standout": "Rooftop pool overlooking Patong",
+        "drawback": "Rates vary by season"
+      },
       {
         "name": "Expat Hotel Patong",
         "area": "Patong Beach",
@@ -404,62 +425,62 @@
       }
     ],
     "decisionGuide": [
-      "If you want the safest couples pick, choose Expat Hotel Patong.",
-      "If you want a practical base with strong value, choose Baan Karon Resort.",
-      "If the top pick is unavailable, compare Beyond Patong.",
+      "If you want the safest family pick, choose Lub d Phuket Patong.",
+      "If you want a practical base with strong value, choose Expat Hotel Patong.",
+      "If the top pick is unavailable, compare Baan Karon Resort.",
       "If your dates fall in peak season, compare refundable rates before narrowing by area."
     ],
     "ranking": [
       {
         "rank": 1,
-        "name": "Expat Hotel Patong",
-        "why": "Expat Hotel Patong is the strongest couples pick because it balances atmosphere, comfort, and a better two-person base better than the alternatives.",
+        "name": "Lub d Phuket Patong",
+        "why": "Lub d Phuket Patong is the strongest family pick because it balances comfort, facilities, and easier logistics better than the alternatives.",
         "drawback": "Best-value rates may disappear first.",
-        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "skipIf": "Skip if you want an adults-only atmosphere or late-night nightlife on the doorstep.",
         "localSignals": [
           "Area: Patong Beach",
-          "Typical range: 800–1,200 THB/night (~$22–34 USD)",
-          "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+          "Typical range: 400–700 THB/night (~$11–20 USD)",
+          "Family-friendly rooms in Phuket are easiest to compare early for school holidays and winter high season."
         ],
-        "travellerNote": "Travellers often choose Expat Hotel Patong for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+        "travellerNote": "Travellers often choose Lub d Phuket Patong for its fit with family stays but should compare recent room types and cancellation terms before booking."
       },
       {
         "rank": 2,
-        "name": "Baan Karon Resort",
-        "why": "Baan Karon Resort is a good alternative when its area or room style fits your itinerary better than Expat Hotel Patong.",
+        "name": "Expat Hotel Patong",
+        "why": "Expat Hotel Patong is a good alternative when its area or room style fits your itinerary better than Lub d Phuket Patong.",
         "drawback": "It is less universal than the top pick.",
-        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "skipIf": "Skip if you want an adults-only atmosphere or late-night nightlife on the doorstep.",
         "localSignals": [
-          "Area: Karon Beach",
-          "Typical range: 600–1,000 THB/night (~$17–28 USD)",
-          "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+          "Area: Patong Beach",
+          "Typical range: 800–1,200 THB/night (~$22–34 USD)",
+          "Family-friendly rooms in Phuket are easiest to compare early for school holidays and winter high season."
         ],
-        "travellerNote": "Travellers often choose Baan Karon Resort for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+        "travellerNote": "Travellers often choose Expat Hotel Patong for its fit with family stays but should compare recent room types and cancellation terms before booking."
       },
       {
         "rank": 3,
-        "name": "Beyond Patong",
-        "why": "Beyond Patong is a good alternative when its area or room style fits your itinerary better than Expat Hotel Patong.",
+        "name": "Baan Karon Resort",
+        "why": "Baan Karon Resort is a good alternative when its area or room style fits your itinerary better than Lub d Phuket Patong.",
         "drawback": "It is less universal than the top pick.",
-        "skipIf": "Skip if your priority is the cheapest possible room over atmosphere or location.",
+        "skipIf": "Skip if you want an adults-only atmosphere or late-night nightlife on the doorstep.",
         "localSignals": [
-          "Area: Patong Beach",
-          "Typical range: 3,400–5,500 THB/night (~$96–154 USD)",
-          "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early."
+          "Area: Karon Beach",
+          "Typical range: 600–1,000 THB/night (~$17–28 USD)",
+          "Family-friendly rooms in Phuket are easiest to compare early for school holidays and winter high season."
         ],
-        "travellerNote": "Travellers often choose Beyond Patong for its fit with couples stays but should compare recent room types and cancellation terms before booking."
+        "travellerNote": "Travellers often choose Baan Karon Resort for its fit with family stays but should compare recent room types and cancellation terms before booking."
       }
     ],
-    "topPick": "Expat Hotel Patong",
-    "topPickReason": "Expat Hotel Patong is the easiest couples recommendation when you want atmosphere, comfort, and a better two-person base.",
+    "topPick": "Lub d Phuket Patong",
+    "topPickReason": "Lub d Phuket Patong is the easiest family recommendation when you want comfort, facilities, and easier logistics.",
     "bookingTips": [
-      "Compare rates for Expat Hotel Patong first, then check Baan Karon Resort and Beyond Patong for refundable deals on the same dates.",
-      "Couples-focused hotels in Phuket can jump during Christmas, New Year, and long weekends, so compare refundable rates early.",
+      "Compare rates for Lub d Phuket Patong first, then check Expat Hotel Patong and Baan Karon Resort for refundable deals on the same dates.",
+      "Family-friendly rooms in Phuket are easiest to compare early for school holidays and winter high season.",
       "Use the exact area as a filter; a cheaper Phuket hotel can cost more once daily transport is included.",
-      "For stays longer than three nights, prioritize the reason you are choosing couples over a small nightly discount.",
+      "For stays longer than three nights, prioritize the reason you are choosing family over a small nightly discount.",
       "Check cancellation terms before booking peak-season dates so you can rebook if a better area opens up."
     ],
-    "methodology": "We filtered the Phuket hotel inventory to couples properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
+    "methodology": "We filtered the Phuket hotel inventory to family properties and compared them by area, price band, facilities, practical traveller fit, and booking usefulness. We publish this category only when at least three data-backed hotels are available. Last updated: 2026-04.",
     "internalLinks": [
       "/best-hotels/phuket/",
       "/where-to-stay/phuket/",
@@ -468,30 +489,30 @@
       "/city/phuket/"
     ],
     "ctaPlacements": [
-      "after-intro: 'Compare couples hotels in Phuket'",
+      "after-intro: 'Compare family hotels in Phuket'",
       "after-comparison-table: 'Check rates for top picks'",
-      "after-top-pick: 'View Expat Hotel Patong'"
+      "after-top-pick: 'View Lub d Phuket Patong'"
     ],
     "faq": [
       {
-        "q": "What is the best couples hotel in Phuket?",
-        "a": "Expat Hotel Patong is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Baan Karon Resort if your dates are expensive."
+        "q": "What is the best family hotel in Phuket?",
+        "a": "Lub d Phuket Patong is the best first comparison point because it gives a strong balance of location, comfort, and price. Compare it with Expat Hotel Patong if your dates are expensive."
       },
       {
-        "q": "Which area has good couples hotels in Phuket?",
+        "q": "Which area has good family hotels in Phuket?",
         "a": "Start with the areas attached to the top picks on this page, then compare them against the main where-to-stay guide before booking."
       },
       {
-        "q": "Are couples hotels in Phuket worth it?",
+        "q": "Are family hotels in Phuket worth it?",
         "a": "Yes, if the hotel matches your trip style and area needs. Compare the trade-offs in the table before choosing only by price."
       },
       {
-        "q": "When should I book couples hotels in Phuket?",
+        "q": "When should I book family hotels in Phuket?",
         "a": "Book earlier for peak season and festival dates, especially if you need refundable rates in the most practical areas."
       }
     ],
-    "metaTitle": "Best Couples Hotels in Phuket (2026)",
-    "metaDescription": "Compare the best couples hotels in Phuket by area, value, comfort and booking fit. See top picks before you reserve."
+    "metaTitle": "Best Family Hotels in Phuket (2026)",
+    "metaDescription": "Compare the best family hotels in Phuket by area, value, comfort and booking fit. See top picks before you reserve."
   },
   "lastUpdated": "2026-04-21",
   "generatedAt": "2026-04-21T00:00:00.000Z"

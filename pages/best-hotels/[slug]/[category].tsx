@@ -29,6 +29,7 @@ interface Hotel {
   description: string;
   highlights?: string[];
   bookingUrl?: string;
+  tripPartnerUrl?: string;
   reviewScore?: string;
   bestFor?: string[];
   sources?: { sourceName?: string; sourceUrl?: string }[];
@@ -133,8 +134,12 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
   // promising "Check rates – <hotel name>" which would mislead users who
   // expect to land on that hotel's Booking page, not the city search.
   const bookingFor = (h: Hotel | undefined, placement: string): { url: string; specific: boolean } | null => {
+    // Prefer tracked Trip.com partner link from TPO links/v1/create API (includes campaign_id 121).
+    if (h?.tripPartnerUrl) {
+      return { url: withPlacementSubId(h.tripPartnerUrl, subId, placement), specific: true };
+    }
     if (h?.bookingUrl) {
-      // Auto-correct old broken tp.media/r?p=7631 → proper Trip.com SID/allianceid URL
+      // Legacy: auto-correct old broken tp.media/r?p=7631 → direct Trip.com URL
       const fixed = tripcomAffiliate(h.bookingUrl, placement);
       return { url: withPlacementSubId(fixed, subId, placement), specific: true };
     }
