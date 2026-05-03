@@ -3,10 +3,10 @@ import { useRouter } from 'next/router';
 import Link from 'next/link';
 import fs from 'fs';
 import path from 'path';
-import SEOHead from '../../../components/SEOHead';
-import Breadcrumbs from '../../../components/Breadcrumbs';
-import { withSubId, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../../lib/affiliates';
-import { useSubId } from '../../../lib/useSubId';
+import SEOHead from '../../components/SEOHead';
+import Breadcrumbs from '../../components/Breadcrumbs';
+import { withSubId, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
+import { useSubId } from '../../lib/useSubId';
 
 interface Route {
   code: string;
@@ -66,7 +66,7 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Vluchten naar Phuket' : 'Flights to Phuket', href: '/flights-to-phuket/' },
-    { name: route.fromName, href: `/flights-to-phuket/from/${slug}/` },
+    { name: route.fromName, href: `/flights-to-phuket/${slug}/` },
   ];
 
   // Strip parenthetical airport names ('Bangkok (Suvarnabhumi)' → 'Bangkok')
@@ -79,7 +79,7 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
     ? `Vluchten van ${route.fromName} naar Phuket: ${route.duration}, ${route.stops}, ${route.priceBand}. Vergelijk airlines en boek via Trip.com.`.slice(0, 160)
     : `Flights from ${route.fromName} to Phuket: ${route.duration}, ${route.stops}, typical fares ${route.priceBand}. Compare airlines and book via Trip.com.`.slice(0, 160);
 
-  const canonical = `https://go2-thailand.com${isNl ? '/nl' : ''}/flights-to-phuket/from/${slug}/`;
+  const canonical = `https://go2-thailand.com${isNl ? '/nl' : ''}/flights-to-phuket/${slug}/`;
 
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
@@ -243,7 +243,7 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
                   return (
                     <Link
                       key={s.code}
-                      href={`/flights-to-phuket/from/${sSlug}/`}
+                      href={`/flights-to-phuket/${sSlug}/`}
                       className="block rounded-2xl bg-white p-4 shadow-sm border border-gray-200 hover:border-thailand-blue transition-colors"
                     >
                       <p className="text-xs font-mono text-gray-500">{s.from} → HKT</p>

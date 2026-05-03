@@ -36,6 +36,12 @@ const nextConfig = {
         destination: '/city/:slug*/',
         permanent: true,
       },
+      // Flights spoke URLs — dropped /from/ filler (was /flights-to-phuket/from/<X>/)
+      {
+        source: '/flights-to-phuket/from/:origin/',
+        destination: '/flights-to-phuket/:origin/',
+        permanent: true,
+      },
       {
         source: '/about/',
         destination: '/',
