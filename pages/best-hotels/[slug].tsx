@@ -5,6 +5,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import ClusterNav from '../../components/ClusterNav';
 import AffiliateBox from '../../components/AffiliateBox';
+import IntentInternalLinks, { IntentInternalLinkItem } from '../../components/IntentInternalLinks';
 import type { HotelsPage, ClusterHotel } from '../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../lib/affiliates';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
@@ -12,6 +13,7 @@ import { getAffiliates, CityAffiliates } from '../../lib/affiliates';
 interface Props {
   data: HotelsPage;
   affiliates: CityAffiliates | null;
+  relatedLinks: IntentInternalLinkItem[];
 }
 
 const categoryConfig = {
@@ -135,7 +137,7 @@ function HotelCard({ hotel }: { hotel: ClusterHotel }) {
 
 const categoryOrder: Array<'budget' | 'mid-range' | 'luxury'> = ['budget', 'mid-range', 'luxury'];
 
-export default function BestHotelsPage({ data, affiliates }: Props) {
+export default function BestHotelsPage({ data, affiliates, relatedLinks }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const breadcrumbs = [
@@ -271,9 +273,18 @@ export default function BestHotelsPage({ data, affiliates }: Props) {
             </section>
           )}
 
-          {/* Cross-links */}
+          {/* Cluster links — pillar links DOWN to category/audience/area spokes for full hub-and-spoke topical authority */}
+          {relatedLinks && relatedLinks.length > 0 && (
+            <div className="mb-12">
+              <IntentInternalLinks
+                title={isNl ? `Meer ${data.cityName} Hotelgidsen` : `More ${data.cityName} Hotel Guides`}
+                links={relatedLinks}
+              />
+            </div>
+          )}
+
+          {/* Cross-links — additional manual entry points beyond the cluster mesh */}
           <section className="mb-12">
-            <h2 className="text-2xl font-bold text-gray-900 mb-5">{isNl ? `Meer ${data.cityName} Hotelgidsen` : `More ${data.cityName} Hotel Guides`}</h2>
             <div className="grid sm:grid-cols-2 gap-4">
               <Link
                 href={`/where-to-stay/${data.citySlug}/`}
@@ -362,11 +373,17 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const { getHotelsPage } = await import('../../lib/clusters');
+  const { getIntentInternalLinks } = await import('../../lib/intent-pages');
   const slug = params?.slug as string;
   const data = getHotelsPage(slug);
   if (!data) return { notFound: true };
+  const relatedLinks = getIntentInternalLinks({
+    pageType: 'best-hotels',
+    city: slug,
+    cityName: data.cityName,
+  });
   return {
-    props: { data, affiliates: getAffiliates(slug) },
+    props: { data, affiliates: getAffiliates(slug), relatedLinks },
     revalidate: 604800,
   };
 };
