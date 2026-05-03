@@ -8,7 +8,7 @@ import FounderNote from '../../../components/editorial/FounderNote';
 import EditorialSchema from '../../../components/editorial/EditorialSchema';
 import EditorialMeta from '../../../components/editorial/EditorialMeta';
 import IntentInternalLinks, { IntentInternalLinkItem } from '../../../components/IntentInternalLinks';
-import { getAffiliates, withPlacementSubId } from '../../../lib/affiliates';
+import { getAffiliates, withPlacementSubId, TIQETS_GENERIC } from '../../../lib/affiliates';
 import { getEditorialUpdatedAt } from '../../../lib/pseo-editorial-date';
 
 /**
@@ -518,6 +518,7 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
               <div className="mt-4 flex flex-wrap gap-3">
                 <a href={withPlacementSubId(aff.klook, subId, 'activities-klook')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-5 py-2 text-sm font-semibold hover:bg-red-700">🎟️ Activities & tours (Klook)</a>
                 <a href={withPlacementSubId(aff.getyourguide, subId, 'activities-gyg')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-white text-thailand-red border border-thailand-red px-5 py-2 text-sm font-semibold hover:bg-thailand-red hover:text-white">🎫 Tours (GetYourGuide)</a>
+                <a href={withPlacementSubId(TIQETS_GENERIC, subId, 'tickets-tiqets')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-[#5C0FB1] text-white px-5 py-2 text-sm font-semibold hover:bg-[#4a0d8e]">🎟️ Attraction tickets (Tiqets)</a>
                 <a href={withPlacementSubId(aff.twelveGo, subId, 'transport-12go')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">🚌 Transport (12Go)</a>
               </div>
             </section>
