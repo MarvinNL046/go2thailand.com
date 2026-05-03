@@ -1,6 +1,6 @@
 // components/AffiliateBox.tsx
 import { useRouter } from 'next/router';
-import { CityAffiliates, withSubId, TIQETS_GENERIC } from '../lib/affiliates';
+import { CityAffiliates, withSubId, TIQETS_GENERIC, TRIP_GENERIC } from '../lib/affiliates';
 import { useSubId } from '../lib/useSubId';
 
 interface AffiliateBoxProps {
@@ -12,7 +12,7 @@ interface AffiliateBoxProps {
 const config = (nl: boolean) => ({
   hotels: {
     heading: nl ? 'Boek je Hotel' : 'Book Your Hotel',
-    bookingLabel: (nl ? 'Zoek Hotels op Booking.com' : 'Search Hotels on Booking.com') as string | null,
+    tripLabel: (nl ? 'Zoek Hotels op Trip.com' : 'Search Hotels on Trip.com') as string | null,
     klookLabel: null as string | null,
     gygLabel: null as string | null,
     tiqetsLabel: null as string | null,
@@ -20,7 +20,7 @@ const config = (nl: boolean) => ({
   },
   tours: {
     heading: nl ? 'Boek Tours & Ervaringen' : 'Book Tours & Experiences',
-    bookingLabel: null as string | null,
+    tripLabel: null as string | null,
     klookLabel: (nl ? 'Bekijk Tours op Klook' : 'Browse Tours on Klook') as string | null,
     gygLabel: (nl ? 'Bekijk Tours op GetYourGuide' : 'See Tours on GetYourGuide') as string | null,
     tiqetsLabel: (nl ? 'Tickets via Tiqets' : 'Tickets on Tiqets') as string | null,
@@ -28,7 +28,7 @@ const config = (nl: boolean) => ({
   },
   activities: {
     heading: nl ? 'Boek deze Activiteit' : 'Book This Activity',
-    bookingLabel: null as string | null,
+    tripLabel: null as string | null,
     klookLabel: (nl ? 'Boek op Klook' : 'Book on Klook') as string | null,
     gygLabel: (nl ? 'Boek op GetYourGuide' : 'Book on GetYourGuide') as string | null,
     tiqetsLabel: (nl ? 'Boek op Tiqets' : 'Book on Tiqets') as string | null,
@@ -36,7 +36,7 @@ const config = (nl: boolean) => ({
   },
   transport: {
     heading: nl ? 'Boek Transport' : 'Book Transport',
-    bookingLabel: null as string | null,
+    tripLabel: null as string | null,
     klookLabel: null as string | null,
     gygLabel: null as string | null,
     tiqetsLabel: null as string | null,
@@ -53,14 +53,14 @@ export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBo
     <div className="bg-thailand-blue/5 border border-thailand-blue/20 rounded-2xl p-6 my-6">
       <h3 className="text-lg font-bold font-heading text-gray-900 mb-4">{c.heading} in {cityName}</h3>
       <div className="flex flex-wrap gap-3">
-        {c.bookingLabel && (
+        {c.tripLabel && (
           <a
-            href={withSubId(affiliates.booking, subId)}
+            href={withSubId(affiliates.trip ?? TRIP_GENERIC, subId)}
             target="_blank"
             rel="noopener noreferrer sponsored"
-            className="inline-flex items-center gap-2 bg-[#003580] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#00224f] transition-colors"
+            className="inline-flex items-center gap-2 bg-[#287dfa] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#1a5ec4] transition-colors"
           >
-            {c.bookingLabel}
+            {c.tripLabel}
           </a>
         )}
         {c.klookLabel && (

@@ -1,10 +1,11 @@
 // lib/affiliates.ts
 
 export interface CityAffiliates {
-  booking: string;   // Booking.com search URL with affiliate tag
+  booking: string;   // Booking.com search URL with affiliate tag (legacy — Trip.com preferred for hotels)
   klook: string;     // Klook search URL with affiliate tag
   getyourguide: string; // GetYourGuide search URL
   twelveGo: string;  // 12Go transport URL with affiliate tag
+  trip?: string;     // Optional per-city Trip.com deeplink — falls back to TRIP_GENERIC (30-day cookie)
 }
 
 // Travelpayouts affiliate links (marker: 602467, trs: 421888)
