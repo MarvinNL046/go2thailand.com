@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-03",
+  "cluster": "phuket-beach-bang-tao-hotels",
+  "hotels": [
+    {
+      "slug": "hilton-garden-inn-phuket-bang-tao",
+      "name": "Hilton Garden Inn Phuket Bang Tao",
+      "primaryKeyword": "hilton garden inn phuket bang tao",
+      "tier": "Upper-mid",
+      "stars": 4,
+      "priceFrom": 90,
+      "priceTo": 200,
+      "rooms": 282,
+      "yearBuilt": 2019,
+      "renovated": 2024,
+      "beachDistance": "350 m / 5 min walk to Bang Tao Beach (free shuttle)",
+      "tripPartnerKey": "trip_hilton_garden",
+      "summary": {
+        "en": "Hilton's reliable mid-tier brand on Bang Tao — $90–200/night, large pool, 5-min walk to the beach, 10-min walk to Boat Avenue (Phuket's best dining strip), Hilton Honors points stack normally — the smart-value pick on Bang Tao's Laguna corridor.",
+        "nl": "Hilton's betrouwbare mid-merk op Bang Tao — $90–200/nacht, groot zwembad, 5 min lopen naar het strand, 10 min naar Boat Avenue (Phuket's beste dining-strip), Hilton Honors-punten gewoon — de slimme keuze op Bang Tao's Laguna-strook."
+      },
+      "pros": {
+        "en": [
+          "Top Hilton Honors earner in the Laguna area — stacks elite night credits",
+          "10-min walk to Boat Avenue (Catch Beach Club, Tasting Room, Som Tam Den)",
+          "Free Bang Tao Beach shuttle every 30 min during the day",
+          "King studio rooms feel newer than the 2019 build (2024 refresh)",
+          "Dedicated workspace + fast Wi-Fi makes this the digital-nomad pick"
+        ],
+        "nl": [
+          "Top Hilton Honors-puntenmaker in Laguna — stapelt elite-nachten goed",
+          "10 min lopen naar Boat Avenue (Catch Beach Club, Tasting Room, Som Tam Den)",
+          "Gratis Bang Tao Beach-shuttle elke 30 min overdag",
+          "King studio's voelen nieuwer dan bouwjaar 2019 (2024 refresh)",
+          "Echte werkplek + snelle Wi-Fi — top voor digital nomads"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not beachfront — 5–7 min walk past Laguna villas to the sand",
+          "Limited on-site dining (1 restaurant, 1 bar) — most guests eat at Boat Avenue",
+          "Pool can get loud with families on weekends",
+          "Twin-bed options are scarce — book 2–3 weeks ahead if needed"
+        ],
+        "nl": [
+          "Niet aan zee — 5–7 min lopen langs Laguna-villa's naar het strand",
+          "Weinig dining ter plaatse (1 restaurant, 1 bar) — meeste gasten eten op Boat Avenue",
+          "Zwembad kan in weekenden druk worden met families",
+          "Twin-kamers zijn schaars — boek 2–3 weken vooruit indien nodig"
+        ]
+      }
+    }
+  ]
+}

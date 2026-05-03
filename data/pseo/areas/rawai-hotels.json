@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-03",
+  "area": "rawai",
+  "hotels": [
+    {
+      "slug": "selina-serenity-rawai-phuket",
+      "name": "Selina Serenity Rawai",
+      "fullName": "Selina Serenity Rawai Phuket",
+      "tier": "midrange",
+      "stars": 4,
+      "primaryKeywords": ["selina serenity rawai phuket", "selina rawai"],
+      "primaryPartnerKey": "trip_selina",
+      "secondaryPartnerKey": "trip_pillar",
+      "summary": {
+        "en": "Selina Serenity sits 200m from Rawai pier — a hostel-hybrid built for digital nomads and backpackers, with shared and private rooms, a coworking space, large pool and a strong community vibe rare in Phuket.",
+        "nl": "Selina Serenity ligt 200m van Rawai-pier — een hostel-hybride voor digital nomads en backpackers, met gedeelde en privékamers, een coworking-ruimte, groot zwembad en een community-sfeer die zeldzaam is in Phuket."
+      },
+      "highlights": {
+        "en": [
+          "Coworking space with high-speed wifi (100+ Mbps verified)",
+          "Mix of dorm beds ($15–25), private rooms ($55–110) and suites ($120+)",
+          "Onsite yoga shala + daily classes included for stay",
+          "Large pool, beach club nights 2× weekly",
+          "Walk to Rawai pier seafood market + Sea-Gypsy village"
+        ],
+        "nl": [
+          "Coworking-ruimte met snel wifi (100+ Mbps geverifieerd)",
+          "Mix van dorms ($15–25), privékamers ($55–110) en suites ($120+)",
+          "Eigen yoga-shala + dagelijkse lessen inbegrepen",
+          "Groot zwembad, beach club-avonden 2× per week",
+          "Lopen naar Rawai-pier vismarkt + Sea Gypsy-dorp"
+        ]
+      },
+      "watchOuts": {
+        "en": [
+          "Not a beach hotel — Rawai beach is rocky and shallow, swimmable beaches need a tuk-tuk",
+          "Party/social vibe means weekend evenings can be loud — request a room away from pool deck",
+          "Shared spaces stay busy — quiet introverts may prefer The Nai Harn or Wyndham instead"
+        ],
+        "nl": [
+          "Geen strandhotel — Rawai-strand is rotsig en ondiep, zwembare stranden vereisen een tuk-tuk",
+          "Sfeer is sociaal/party — weekendavonden kunnen luid zijn, vraag een kamer weg van het pooldek",
+          "Gemeenschappelijke ruimtes blijven druk — rustige introverte reizigers kiezen The Nai Harn of Wyndham"
+        ]
+      },
+      "bestFor": {
+        "en": "Digital nomads, solo travellers, backpackers, long-stay (1 month+) work-and-explore",
+        "nl": "Digital nomads, soloreizigers, backpackers, long-stay (1+ maand) work-and-explore"
+      },
+      "priceBand": "$",
+      "rooms": 90
+    }
+  ]
+}

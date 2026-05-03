@@ -1,0 +1,26 @@
+{
+  "lastUpdated": "2026-05-03",
+  "spokes": [
+    {
+      "slug": "beach",
+      "tier": "venue",
+      "primaryKeyword": "phuket beach wedding venues",
+      "primaryPartnerKey": "trip_beach_resort",
+      "secondaryPartnerKey": "trip_wedding_venue"
+    },
+    {
+      "slug": "resort-packages",
+      "tier": "package",
+      "primaryKeyword": "phuket wedding packages resort",
+      "primaryPartnerKey": "trip_wedding_venue",
+      "secondaryPartnerKey": "trip_luxury_honeymoon"
+    },
+    {
+      "slug": "villa",
+      "tier": "venue",
+      "primaryKeyword": "phuket villa wedding",
+      "primaryPartnerKey": "trip_pool_villa",
+      "secondaryPartnerKey": "trip_wedding_venue"
+    }
+  ]
+}

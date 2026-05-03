@@ -1,0 +1,26 @@
+{
+  "lastUpdated": "2026-05-03",
+  "spokes": [
+    {
+      "slug": "private-pool",
+      "tier": "type",
+      "primaryKeyword": "phuket private pool villa",
+      "primaryPartnerKey": "trip_private_pool",
+      "secondaryPartnerKey": "trip_villa_search"
+    },
+    {
+      "slug": "oceanfront",
+      "tier": "type",
+      "primaryKeyword": "phuket oceanfront villa",
+      "primaryPartnerKey": "trip_oceanfront",
+      "secondaryPartnerKey": "trip_luxury"
+    },
+    {
+      "slug": "family",
+      "tier": "audience",
+      "primaryKeyword": "phuket family villa",
+      "primaryPartnerKey": "trip_family",
+      "secondaryPartnerKey": "trip_villa_search"
+    }
+  ]
+}

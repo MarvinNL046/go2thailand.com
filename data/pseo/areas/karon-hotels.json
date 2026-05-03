@@ -1,0 +1,226 @@
+{
+  "areaSlug": "karon",
+  "areaName": "Karon Beach",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "lastUpdated": "2026-05-03",
+  "hotels": [
+    {
+      "slug": "pullman-phuket-arcadia-karon-beach-resort",
+      "name": "Pullman Phuket Arcadia Karon Beach Resort",
+      "shortName": "Pullman Arcadia Karon",
+      "partnerKey": "trip_pullman",
+      "category": "Luxury family resort",
+      "tier": "luxury",
+      "priceBand": "$180–$340/night",
+      "rooms": 277,
+      "beachDistance": "200 m / 3 min walk",
+      "pools": "5 outdoor pools (incl. lagoon + kids')",
+      "breakfast": "Buffet, included in most rates",
+      "valueProp": "Phuket's biggest hilltop family resort with five pools, ocean-view rooms and a 3-minute walk down to the south end of Karon Beach.",
+      "aiSeoNote": "Rebranded in 2018 from Hilton Phuket Arcadia. Some older booking listings still use the old name.",
+      "pros": [
+        "Five separate pools spread across 75 acres — kids', lagoon, infinity, lap, family",
+        "All rooms have private balconies with sea or pool views (no parking-lot rooms)",
+        "Free shuttle every 30 minutes down to Karon Beach + into Karon village",
+        "Strong kids' club + dedicated family floors",
+        "Three on-site restaurants + two bars — fine to never leave the resort"
+      ],
+      "cons": [
+        "It's a hilltop resort, not beachfront — every beach trip needs the shuttle or a taxi",
+        "Resort is huge — 10-min walk between farthest rooms and lobby/restaurants",
+        "Dinner buffet pricing trends $45–60 pp without alcohol",
+        "Wi-Fi reliable in rooms, patchy at the far pool decks",
+        "Peak season can mean 30-min wait at breakfast 8–9am"
+      ],
+      "bestRoomTypes": [
+        { "name": "Deluxe Ocean View King", "priceBand": "$200–$260", "for": "Couples wanting Andaman sunsets from the balcony" },
+        { "name": "Deluxe Family Room", "priceBand": "$240–$310", "for": "Two adults + two kids, sleeps 4 with twin layout" },
+        { "name": "Junior Suite Pool Access", "priceBand": "$280–$340", "for": "Direct walk-out to the lagoon pool from the terrace" },
+        { "name": "Pullman Suite", "priceBand": "$420–$580", "for": "Honeymoons or special-occasion stays — separate living area" }
+      ],
+      "location": "Hilltop on the south side of Karon, between Karon Beach and Kata Beach. Address: 99 Patak Road, Karon, Phuket 83100.",
+      "transfer": "Phuket International Airport (HKT) → 50–60 min by Grab (~600–800 THB). Resort airport limousine $35 one-way. Beach shuttle every 30 min from 08:00 to 23:00.",
+      "faq": [
+        { "q": "Is Pullman Phuket Arcadia on Karon Beach?", "a": "It's a hilltop resort 200 m back from the south end of Karon Beach — about 3 minutes downhill on foot or one stop on the free 30-minute shuttle. No private beach access; you join the public sand like everyone else." },
+        { "q": "What was Pullman Phuket Arcadia called before?", "a": "Until 2018 it was Hilton Phuket Arcadia Resort & Spa. Accor (Pullman's parent) took over the management and rebranded; the buildings and grounds are the same." },
+        { "q": "How many pools does Pullman Arcadia Karon have?", "a": "Five — a 65 m lagoon pool, a kids' pool with shallow zone, an adults-only infinity pool, a lap pool, and a smaller pool near the family wing." },
+        { "q": "Is Pullman Phuket Arcadia good for families?", "a": "Yes — it's one of Phuket's strongest family picks. Dedicated kids' club (4–12 yrs, included), connecting family rooms, kids' menu in every restaurant, and the spread-out grounds let kids burn energy without bothering other guests." },
+        { "q": "Does Pullman Karon include breakfast?", "a": "Most published rates include the buffet breakfast. Check the rate name — \"Standard\" or \"Bed & Breakfast\" includes it; \"Room Only\" does not. Add-on breakfast at the door is roughly $25–30 pp." }
+      ]
+    },
+    {
+      "slug": "centara-grand-beach-resort-phuket",
+      "name": "Centara Grand Beach Resort Phuket",
+      "shortName": "Centara Grand Karon",
+      "partnerKey": "trip_centara",
+      "category": "Beachfront family resort",
+      "tier": "luxury",
+      "priceBand": "$160–$300/night",
+      "rooms": 262,
+      "beachDistance": "Direct beachfront — 0 m",
+      "pools": "Lagoon pool with water slides + adult pool",
+      "breakfast": "Buffet, included in most rates",
+      "valueProp": "Karon's only true beachfront five-star — the lagoon pool meets the sand and kids can run from breakfast to the surf in two minutes.",
+      "aiSeoNote": "Often searched as \"Centara Karon Resort Phuket\". The full Centara Grand is the beachfront flagship; not to be confused with the smaller Centara Karon Resort (a separate sister property up the road).",
+      "pros": [
+        "Only resort with private beachfront access on Karon — step from your sun lounger into the Andaman",
+        "Lagoon pool with three water slides — the unofficial winner with kids 6–12",
+        "Camp Safari kids' club included; teen room with consoles + pool table",
+        "Beachfront restaurant The Cove for sunset seafood",
+        "Five-minute walk to Karon village + Wednesday/Saturday night markets"
+      ],
+      "cons": [
+        "Sea-view rooms cost $50–80 more than identical mountain-view; in the resort itself the difference is mostly bragging rights",
+        "Beachfront location means surf-noise — light sleepers should request rooms above the 4th floor",
+        "Restaurant prices on the high side ($35–55 pp dinner without alcohol)",
+        "Lobby and main pool can feel busy in Dec–Feb peak with package tour groups",
+        "Spa pricing aimed at hotel guests — same massage costs 2× a Karon Road shop"
+      ],
+      "bestRoomTypes": [
+        { "name": "Deluxe Mountain View", "priceBand": "$160–$210", "for": "Couples or solo travelers fine without a sea view" },
+        { "name": "Deluxe Ocean Facing", "priceBand": "$220–$280", "for": "Sunset chasers — west-facing balconies above the pool deck" },
+        { "name": "Deluxe Family Suite", "priceBand": "$260–$320", "for": "Two-bedroom layout with bunk room for kids" },
+        { "name": "Royal Cabana", "priceBand": "$420–$540", "for": "Direct lagoon-pool walkout — premium pick for couples" }
+      ],
+      "location": "Directly on the central stretch of Karon Beach — the wide white-sand section, 5 min walk from Karon Circle and the night markets.",
+      "transfer": "Phuket International Airport (HKT) → 45–55 min by Grab (~550–750 THB). Resort airport transfer 1,800 THB one-way for 1–3 pax. Patong Beach 15–20 min by Grab.",
+      "faq": [
+        { "q": "Is Centara Grand directly on Karon Beach?", "a": "Yes — it's the only beachfront five-star on Karon. The lagoon pool meets the beach edge; you walk through a small wooden gate and you're on the sand." },
+        { "q": "Does Centara Grand Karon have water slides?", "a": "Yes — the lagoon pool has three water slides aimed at kids age 6+. Smaller children have a dedicated shallow splash area beside the main pool." },
+        { "q": "Is Centara Karon adults-only?", "a": "No — it's family-focused with a kids' club, water slides and family suites. Centara Grand Karon does have a separate quiet adults-only pool if you want a break from the noise." },
+        { "q": "How far is Centara Grand from Phuket Old Town?", "a": "About 22 km — 35–45 min by Grab depending on traffic, around 350–450 THB. Old Town is a worthwhile half-day trip from Karon." },
+        { "q": "Centara Grand Karon vs Centara Karon Resort — what's the difference?", "a": "Centara Grand is the beachfront flagship (this page). Centara Karon Resort is a sister property a few streets back — quieter, smaller, no direct beach access. Same brand, different products." }
+      ]
+    },
+    {
+      "slug": "mandarava-resort-and-spa-karon-beach",
+      "name": "Mandarava Resort and Spa Karon Beach",
+      "shortName": "Mandarava Karon",
+      "partnerKey": "trip_mandarava",
+      "category": "Hilltop boutique pool resort",
+      "tier": "upscale",
+      "priceBand": "$120–$220/night",
+      "rooms": 222,
+      "beachDistance": "850 m / 12-min walk or 3-min shuttle",
+      "pools": "9 cascading pools across the hillside",
+      "breakfast": "Buffet, included in most rates",
+      "valueProp": "Nine cascading pools tumbling down a forested hillside — Karon's most photogenic property and a steal for the price tier.",
+      "pros": [
+        "Nine connected pools on terraced hillside — every section has a private pool feel",
+        "Free shuttle every 20 min to Karon Beach (3-min ride)",
+        "Strong spa — 90-min Thai massage $35 vs $50+ at the bigger five-stars",
+        "Quieter atmosphere than the beachfront resorts — guests skew older couples",
+        "Pool-access rooms genuinely walk straight into water from the terrace"
+      ],
+      "cons": [
+        "It's a 12-min walk down (and back up) to the beach — the shuttle is essential",
+        "Hilltop location means lots of steps between the lobby and far rooms — not ideal for limited-mobility guests",
+        "Restaurants OK but not destination-worthy — most guests Grab to Karon for dinner",
+        "Wi-Fi can be weak in the lower-numbered villas",
+        "Buffet breakfast smaller selection than Pullman or Centara"
+      ],
+      "bestRoomTypes": [
+        { "name": "Deluxe Garden View", "priceBand": "$120–$155", "for": "Best value — full pool access via shared deck steps away" },
+        { "name": "Deluxe Pool Access", "priceBand": "$150–$190", "for": "Walk straight from terrace into one of the cascading pools" },
+        { "name": "Junior Suite Pool Access", "priceBand": "$180–$220", "for": "Larger room + dedicated semi-private pool section" },
+        { "name": "Two-Bedroom Pool Suite", "priceBand": "$300–$420", "for": "Families of 4 — two bedrooms with a shared pool terrace" }
+      ],
+      "location": "Hilltop above Karon, accessed via a winding driveway off Patak Road. Below the resort the hillside drops to the beach via the village.",
+      "transfer": "Phuket International Airport (HKT) → 50 min by Grab (~600 THB). Beach shuttle every 20 min from 08:00 to 22:00. To Patong: 20 min by Grab.",
+      "faq": [
+        { "q": "How many pools does Mandarava Karon have?", "a": "Nine connected pools cascading down the hillside. Many rooms have direct pool access, and the design means you can usually find an empty pool section even in peak season." },
+        { "q": "Is Mandarava on Karon Beach?", "a": "No — it's a hilltop resort 850 m back from Karon Beach (about a 12-min walk down or a 3-min ride on the free shuttle, which runs every 20 min until 10pm)." },
+        { "q": "Is Mandarava Resort Karon family-friendly?", "a": "Yes, but it leans more toward couples and small families with kids 7+. The hillside layout has lots of steps and isn't ideal for strollers or toddlers." },
+        { "q": "What's the difference between pool-access and standard rooms at Mandarava?", "a": "Pool-access rooms have a terrace that opens directly onto a shared pool — three steps and you're swimming. Standard rooms have garden or hillside views and use the central pools, a 1–2 minute walk away." },
+        { "q": "How is the Mandarava spa priced?", "a": "Treatments run roughly $35–60 — significantly cheaper than the major five-stars on Karon. A 90-min Thai massage is around $35; aromatherapy oil massage $45–55." }
+      ]
+    },
+    {
+      "slug": "beyond-resort-karon",
+      "name": "Beyond Resort Karon",
+      "shortName": "Beyond Resort Karon",
+      "partnerKey": "trip_beyond",
+      "category": "Adults-only beachfront resort",
+      "tier": "upscale",
+      "priceBand": "$130–$240/night",
+      "rooms": 192,
+      "beachDistance": "Direct beachfront — 0 m",
+      "pools": "Two adults-only pools",
+      "breakfast": "Buffet, included in most rates",
+      "valueProp": "Adults-only beachfront resort on the quieter north end of Karon — couples-only crowd, no kids' splashing, direct access to the sand.",
+      "pros": [
+        "Adults-only (16+) — no kids splashing in the pool or running through the lobby",
+        "True beachfront — sun loungers on the sand are part of the resort, not the public beach",
+        "North-end Karon location is the quietest part of the beach",
+        "Sunset bar over the sand — drinks and Andaman views without leaving the property",
+        "Smaller scale (192 rooms) means quicker service than 250+ room neighbors"
+      ],
+      "cons": [
+        "Adults-only means hotel skews honeymooners + 50+ couples — solo travelers can feel out of place",
+        "North end of Karon is a 10–15 min walk from the village + restaurants",
+        "Beach here gets rocky at low tide — better for sunset walks than swimming at 7am",
+        "A/C in older rooms can be noisy — request newly renovated wing",
+        "Only two pools — peak season they fill up by 10am"
+      ],
+      "bestRoomTypes": [
+        { "name": "Deluxe Garden View", "priceBand": "$130–$165", "for": "Couples on a tighter budget — same beach access as pricier rooms" },
+        { "name": "Deluxe Pool View", "priceBand": "$160–$200", "for": "Mid-tier — quiet inner pool side" },
+        { "name": "Deluxe Sea View", "priceBand": "$190–$240", "for": "Sunset balconies — book at least 2 months ahead in high season" },
+        { "name": "Beyond Suite", "priceBand": "$280–$380", "for": "Anniversaries + honeymoons — separate lounge, terrace and outdoor bath" }
+      ],
+      "location": "North-end Karon Beach, where the beach is widest and quietest. About 15 min walk south to Karon Circle and the main village.",
+      "transfer": "Phuket International Airport (HKT) → 45–55 min by Grab (~550–750 THB). Patong Beach 12–15 min by Grab. No direct shuttle to Patong/Old Town — Grab is the move.",
+      "faq": [
+        { "q": "Is Beyond Resort Karon adults-only?", "a": "Yes — the minimum age is 16. It's one of the few true adults-only resorts on Karon Beach and the only beachfront one in this price tier." },
+        { "q": "Where on Karon Beach is Beyond Resort located?", "a": "North end of Karon — the wider, quieter section of the beach. About a 15-minute beach-side walk to Karon Circle (the main village area)." },
+        { "q": "Is the beach at Beyond Resort good for swimming?", "a": "Yes during the November–April high season. May–October the Andaman gets rough on the west coast; lifeguards post red flags and swimming is restricted on bigger-surf days." },
+        { "q": "Does Beyond Resort Karon include breakfast?", "a": "Most rates include the buffet breakfast. The Sea View terrace breakfast is the highlight — book a sunrise table the day before." },
+        { "q": "Is Beyond Resort good for honeymooners?", "a": "Yes — adults-only, beachfront, and the Beyond Suite category is built around couples (separate lounge, outdoor bath, sunset terrace). Mention you're celebrating when booking — most stays get a fruit plate or sparkling wine on arrival." }
+      ]
+    },
+    {
+      "slug": "avista-grande-karon-mgallery",
+      "name": "Avista Grande Phuket Karon — MGallery",
+      "shortName": "Avista Grande MGallery",
+      "partnerKey": "trip_avista",
+      "category": "Boutique design hotel",
+      "tier": "luxury",
+      "priceBand": "$170–$320/night",
+      "rooms": 158,
+      "beachDistance": "650 m / 8-min walk",
+      "pools": "Rooftop infinity pool + main pool + kids' pool",
+      "breakfast": "Buffet, included in most rates",
+      "valueProp": "Sofitel's MGallery boutique line — design-led rooms, a rooftop infinity pool with Andaman views, and personalised service the big resorts can't match.",
+      "pros": [
+        "Ranked top 10 hotels in Thailand by TripAdvisor (2023) — service consistently the highlight",
+        "Rooftop infinity pool with sunset Andaman views — a Karon highlight",
+        "Boutique scale (158 rooms) means staff remember names by day two",
+        "Strong design — concrete + teak + local Phuket-Hokkien art accents in every room",
+        "Upper floors get genuine sea views over the village rooftops"
+      ],
+      "cons": [
+        "Not beachfront — 8 min walk to Karon Beach via main road (no shuttle)",
+        "Pool deck is shaded by mid-afternoon — sun-seekers go elsewhere after 3pm",
+        "Boutique pricing means breakfast adds $25 if you skip the inclusive rate",
+        "Spa is small (4 rooms) — book your treatment when you book the room",
+        "Lobby restaurant has limited Thai options — most guests Grab into the village for variety"
+      ],
+      "bestRoomTypes": [
+        { "name": "Superior Room", "priceBand": "$170–$210", "for": "Couples — base pick, all the design and service, no balcony" },
+        { "name": "Deluxe Balcony Room", "priceBand": "$210–$260", "for": "Higher floors with private balconies — light sleepers want the back of the building" },
+        { "name": "Junior Suite", "priceBand": "$260–$320", "for": "Honeymoons — separate lounge area, freestanding tub" },
+        { "name": "Grande Pool Suite", "priceBand": "$340–$460", "for": "Splurge — semi-private plunge pool on terrace" }
+      ],
+      "location": "Off Patak Road in Karon's central area, a quick 8-min walk to the wide central beach section and 3 min to Karon Circle's restaurants.",
+      "transfer": "Phuket International Airport (HKT) → 50 min by Grab (~600–700 THB). To Phuket Old Town 35 min, to Patong 15 min. Hotel arranges airport transfer for 1,500 THB.",
+      "faq": [
+        { "q": "Is Avista Grande Karon on the beach?", "a": "Not directly — it's an 8-minute walk (about 650 m) along well-lit roads to the central section of Karon Beach. The rooftop pool gives you Andaman views from inside the property." },
+        { "q": "What's the rooftop pool at Avista Grande like?", "a": "It's an infinity-edge pool 8 floors up with full Andaman sunset views. Pool bar attached. Quiet at sunrise, busy 4–6pm during sunset hour." },
+        { "q": "Is Avista Grande Karon part of Sofitel?", "a": "It's part of MGallery — Accor's boutique collection that sits under the Sofitel umbrella. Each MGallery property has its own design; here the theme is contemporary Thai with Phuket Sino-Portuguese accents." },
+        { "q": "Is Avista Grande good for honeymooners?", "a": "Yes — the boutique scale, rooftop pool and spa make it a strong honeymoon pick. The Junior Suite category is the sweet spot for couples celebrating something." },
+        { "q": "How does Avista Grande compare to Pullman Arcadia?", "a": "Avista is smaller, more design-led, more suited to couples. Pullman is bigger, more family-oriented, more pools but less service-personality. If you want kids' clubs and water slides — Pullman. If you want a quieter boutique stay — Avista." }
+      ]
+    }
+  ]
+}

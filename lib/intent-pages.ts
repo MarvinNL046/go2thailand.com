@@ -345,6 +345,10 @@ export function getIntentInternalLinks(context: LinkContext): IntentLink[] {
   const FLIGHTS_PILLAR_CITIES = new Set(['phuket', 'bangkok', 'chiang-mai']);
   const CAR_RENTAL_PILLAR_CITIES = new Set(['phuket']);
   const YACHT_CHARTER_PILLAR_CITIES = new Set(['phuket']);
+  const WEDDING_PILLAR_CITIES = new Set(['phuket']);
+  const HONEYMOON_PILLAR_CITIES = new Set(['phuket']);
+  const VILLA_PILLAR_CITIES = new Set(['phuket']);
+  const TOURS_PILLAR_CITIES = new Set(['phuket']);
   if (FLIGHTS_PILLAR_CITIES.has(city)) {
     links.push({
       href: `/flights-to-${city}/`,
@@ -365,6 +369,38 @@ export function getIntentInternalLinks(context: LinkContext): IntentLink[] {
     links.push({
       href: `/yacht-charter-${city}/`,
       label: `Yacht charter ${cityName}`,
+      intent: 'city-guide',
+      pageType: 'city-guide',
+    });
+  }
+  if (WEDDING_PILLAR_CITIES.has(city)) {
+    links.push({
+      href: `/${city}-wedding-venues/`,
+      label: `${cityName} wedding venues`,
+      intent: 'city-guide',
+      pageType: 'city-guide',
+    });
+  }
+  if (HONEYMOON_PILLAR_CITIES.has(city)) {
+    links.push({
+      href: `/${city}-honeymoon/`,
+      label: `${cityName} honeymoon`,
+      intent: 'city-guide',
+      pageType: 'city-guide',
+    });
+  }
+  if (VILLA_PILLAR_CITIES.has(city)) {
+    links.push({
+      href: `/${city}-luxury-villas/`,
+      label: `${cityName} luxury villas`,
+      intent: 'city-guide',
+      pageType: 'city-guide',
+    });
+  }
+  if (TOURS_PILLAR_CITIES.has(city)) {
+    links.push({
+      href: `/${city}-tours/`,
+      label: `${cityName} tours & day trips`,
       intent: 'city-guide',
       pageType: 'city-guide',
     });

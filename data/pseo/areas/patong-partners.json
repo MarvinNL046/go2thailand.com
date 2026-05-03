@@ -1,0 +1,48 @@
+{
+  "lastUpdated": "2026-05-03",
+  "partners": {
+    "trip_patong_pillar": {
+      "partnerUrl": "https://trip.tpo.lv/K7wsuUth",
+      "label": "Trip.com — Patong city hotels"
+    },
+    "trip_patong_hotels_hub": {
+      "partnerUrl": "https://trip.tpo.lv/qXfjPEGa",
+      "label": "Trip.com — Patong hotels search"
+    },
+    "trip_patong_nightlife": {
+      "partnerUrl": "https://trip.tpo.lv/Yac3g8l9",
+      "label": "Trip.com — Patong nightlife activities"
+    },
+    "trip_patong_restaurants": {
+      "partnerUrl": "https://trip.tpo.lv/59dpjGdA",
+      "label": "Trip.com — Patong restaurants"
+    }
+  },
+  "hotels": [
+    {
+      "slug": "grand-mercure-phuket-patong",
+      "name": "Grand Mercure Phuket Patong",
+      "tripPartnerUrl": "https://trip.tpo.lv/AC4iOmp0"
+    },
+    {
+      "slug": "four-points-by-sheraton-phuket-patong-beach-resort",
+      "name": "Four Points by Sheraton Phuket Patong Beach Resort",
+      "tripPartnerUrl": "https://trip.tpo.lv/iHMxuDTH"
+    },
+    {
+      "slug": "hotel-indigo-phuket-patong",
+      "name": "Hotel Indigo Phuket Patong",
+      "tripPartnerUrl": "https://trip.tpo.lv/rOQNebMZ"
+    },
+    {
+      "slug": "hotel-clover-patong-phuket",
+      "name": "Hotel Clover Patong Phuket",
+      "tripPartnerUrl": "https://trip.tpo.lv/62fhg1VM"
+    },
+    {
+      "slug": "movenpick-myth-hotel-patong-phuket",
+      "name": "Mövenpick Myth Hotel Patong Phuket",
+      "tripPartnerUrl": "https://trip.tpo.lv/9mu358la"
+    }
+  ]
+}

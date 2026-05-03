@@ -1,0 +1,42 @@
+{
+  "lastUpdated": "2026-05-03",
+  "cluster": "phuket-old-town",
+  "partners": {
+    "klook_pillar": {
+      "partnerUrl": "https://klook.tpo.lv/m2rhpPlo",
+      "label": "Klook — Phuket Old Town"
+    },
+    "gyg_pillar": {
+      "partnerUrl": "https://getyourguide.tpo.lv/BZEnQRTN",
+      "label": "GetYourGuide — Phuket Old Town"
+    },
+    "tiqets_pillar": {
+      "partnerUrl": "https://tiqets.tpo.lv/yZQZuLFZ",
+      "label": "Tiqets — Phuket attractions"
+    },
+    "klook_things": {
+      "partnerUrl": "https://klook.tpo.lv/PyAUeB3L",
+      "label": "Klook — Old Town walking tour"
+    },
+    "gyg_things": {
+      "partnerUrl": "https://getyourguide.tpo.lv/Phl9SxQS",
+      "label": "GetYourGuide — Old Town walking tour"
+    },
+    "tiqets_things": {
+      "partnerUrl": "https://tiqets.tpo.lv/Vx5vpHoN",
+      "label": "Tiqets — Phuket attractions"
+    },
+    "klook_market": {
+      "partnerUrl": "https://klook.tpo.lv/7UEgTz3Y",
+      "label": "Klook — Phuket night market food tour"
+    },
+    "gyg_market": {
+      "partnerUrl": "https://getyourguide.tpo.lv/56n5cB2P",
+      "label": "GetYourGuide — Phuket night market"
+    },
+    "viator_market": {
+      "partnerUrl": "https://viator.tpo.lv/szlgExLe",
+      "label": "Viator — Phuket night market"
+    }
+  }
+}

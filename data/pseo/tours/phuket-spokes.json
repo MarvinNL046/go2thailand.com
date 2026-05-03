@@ -1,0 +1,46 @@
+{
+  "lastUpdated": "2026-05-03",
+  "cluster": "cluster-7-phuket-tours",
+  "spokes": [
+    {
+      "slug": "big-buddha",
+      "tier": "attraction",
+      "primaryKeyword": "phuket big buddha tour",
+      "primaryPartnerKey": "klook_big_buddha",
+      "secondaryPartnerKey": "gyg_big_buddha",
+      "tertiaryPartnerKey": "viator_big_buddha"
+    },
+    {
+      "slug": "elephant-sanctuary",
+      "tier": "ethical-experience",
+      "primaryKeyword": "phuket elephant sanctuary tour",
+      "primaryPartnerKey": "klook_elephant",
+      "secondaryPartnerKey": "gyg_elephant",
+      "tertiaryPartnerKey": "viator_elephant"
+    },
+    {
+      "slug": "cooking-class",
+      "tier": "experience",
+      "primaryKeyword": "phuket cooking class",
+      "primaryPartnerKey": "klook_cooking",
+      "secondaryPartnerKey": "gyg_cooking",
+      "tertiaryPartnerKey": "viator_cooking"
+    },
+    {
+      "slug": "snorkeling",
+      "tier": "day-trip",
+      "primaryKeyword": "phuket snorkeling tour",
+      "primaryPartnerKey": "klook_snorkeling",
+      "secondaryPartnerKey": "gyg_snorkeling",
+      "tertiaryPartnerKey": "viator_snorkeling"
+    },
+    {
+      "slug": "old-town",
+      "tier": "cultural",
+      "primaryKeyword": "phuket old town walking tour",
+      "primaryPartnerKey": "klook_old_town",
+      "secondaryPartnerKey": "gyg_old_town",
+      "tertiaryPartnerKey": "viator_old_town"
+    }
+  ]
+}

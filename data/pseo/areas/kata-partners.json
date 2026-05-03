@@ -1,0 +1,42 @@
+{
+  "lastUpdated": "2026-05-03",
+  "cluster": "phuket-beach-kata",
+  "partners": {
+    "trip_pillar": {
+      "partnerUrl": "https://trip.tpo.lv/pygt2HTW",
+      "label": "Trip.com — Kata Beach hotels"
+    },
+    "trip_hotels": {
+      "partnerUrl": "https://trip.tpo.lv/dsYaPt3M",
+      "label": "Trip.com — Kata Beach hotels hub"
+    },
+    "klook_pillar": {
+      "partnerUrl": "https://klook.tpo.lv/61gQyiHS",
+      "label": "Klook — Kata activities"
+    },
+    "gyg_pillar": {
+      "partnerUrl": "https://getyourguide.tpo.lv/icZdQgWA",
+      "label": "GetYourGuide — Kata"
+    },
+    "viator_pillar": {
+      "partnerUrl": "https://viator.tpo.lv/P8bGanqK",
+      "label": "Viator — Kata"
+    },
+    "klook_surfing": {
+      "partnerUrl": "https://klook.tpo.lv/tWt7Caqk",
+      "label": "Klook — Phuket surfing lessons"
+    },
+    "gyg_surfing": {
+      "partnerUrl": "https://getyourguide.tpo.lv/KzHhhRFl",
+      "label": "GetYourGuide — Phuket surfing"
+    },
+    "trip_kata_noi": {
+      "partnerUrl": "https://trip.tpo.lv/yFpUXjvL",
+      "label": "Trip.com — Kata Noi hotels"
+    },
+    "klook_kata_noi": {
+      "partnerUrl": "https://klook.tpo.lv/vudEj5ja",
+      "label": "Klook — Kata Noi"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "lastUpdated": "2026-05-03",
+  "cluster": "phuket-beach-kamala-hotels",
+  "hotels": [
+    {
+      "slug": "novotel-phuket-kamala-beach",
+      "name": "Novotel Phuket Kamala Beach",
+      "primaryKeyword": "novotel phuket kamala beach",
+      "tier": "Upper-mid",
+      "stars": 4,
+      "priceFrom": 95,
+      "priceTo": 220,
+      "rooms": 198,
+      "yearBuilt": 2010,
+      "renovated": 2022,
+      "beachDistance": "Across the road (60 m / 1 min walk)",
+      "tripPartnerKey": "trip_novotel",
+      "summary": {
+        "en": "A 4-star Accor-managed beachfront resort right on Kamala's quiet northern strip, $95–220/night, two pools, kid's club, decent buffet — the safe family pick when you don't want to overthink Kamala.",
+        "nl": "4-sterren Accor-resort aan het rustige noordelijke deel van Kamala, $95–220/nacht, twee zwembaden, kinderclub en degelijk buffet — de veilige familiekeuze als je Kamala simpel wilt houden."
+      },
+      "pros": {
+        "en": [
+          "Direct beach access across a quiet residential lane",
+          "Two pools (kids' pool + main lap pool)",
+          "Reliable Accor service standard, multilingual front desk",
+          "20 min from Patong but feels worlds away",
+          "Family rooms sleep 4, free for under-12s on existing bedding"
+        ],
+        "nl": [
+          "Directe stranddoorgang via een rustig zijstraatje",
+          "Twee zwembaden (kinderbad + hoofdbad)",
+          "Vertrouwde Accor service, meertalige receptie",
+          "20 min van Patong maar voelt totaal anders aan",
+          "Familiekamers voor 4, gratis voor kinderen <12 op bestaand bed"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Buffet variety thins out by week 2 — eat out 2–3 nights",
+          "Older wing rooms feel dated despite 2022 refresh",
+          "Limited nightlife within walking distance (good or bad depending on you)",
+          "Resort fee + Wi-Fi sometimes added on arrival — confirm at check-in"
+        ],
+        "nl": [
+          "Buffetvariatie wordt na een week dun — eet 2–3 avonden buiten de deur",
+          "Oudere kamers voelen ondanks 2022-renovatie gedateerd",
+          "Weinig nachtleven op loopafstand (afhankelijk van wat je wilt)",
+          "Soms resort-fee + Wi-Fi-toeslag bij inchecken — controleer"
+        ]
+      }
+    },
+    {
+      "slug": "sunwing-kamala-beach",
+      "name": "Sunwing Kamala Beach",
+      "primaryKeyword": "sunwing kamala beach",
+      "tier": "Family all-inclusive",
+      "stars": 4,
+      "priceFrom": 130,
+      "priceTo": 260,
+      "rooms": 296,
+      "yearBuilt": 2014,
+      "renovated": 2021,
+      "beachDistance": "On the beach (0 m, beachfront)",
+      "tripPartnerKey": "trip_sunwing",
+      "summary": {
+        "en": "Scandinavian charter-favourite all-inclusive on the south end of Kamala, $130–260/night, six pools, kids' club + Lopburi-themed activity programme, mostly Swedish/Norwegian guests — the easy family pick.",
+        "nl": "Scandinavische charterfavoriet, all-inclusive aan het zuidelijke eind van Kamala, $130–260/nacht, zes zwembaden, kinderclub + activiteitenprogramma, vooral Zweedse/Noorse gasten — de makkelijke familiekeuze."
+      },
+      "pros": {
+        "en": [
+          "True beachfront — open the pool gate and you're on Kamala sand",
+          "Six pools across the resort means kids never wait",
+          "Half-board and all-inclusive packages priced 20–30% under Phuket average",
+          "Daily kids' programme in 4 languages (Sv/No/Da/En)",
+          "Rooms sleep up to 5 — biggest family rooms in Kamala"
+        ],
+        "nl": [
+          "Echt aan zee — door het zwembadhek en je staat op Kamala-zand",
+          "Zes zwembaden, kinderen wachten nooit",
+          "Halfpension en all-in 20–30% onder Phuket-gemiddelde",
+          "Kinderprogramma dagelijks in 4 talen (Sv/No/Da/En)",
+          "Kamers slapen tot 5 — grootste familiekamers in Kamala"
+        ]
+      },
+      "cons": {
+        "en": [
+          "All-inclusive food is solid but international — limited authentic Thai",
+          "Heavy charter occupancy means peak-week kids' club is full",
+          "Walking distance to Kamala village is 15 min — taxi for evenings",
+          "Wi-Fi in older blocks is slow; pay-upgrade not always worth it"
+        ],
+        "nl": [
+          "All-in-eten is degelijk maar internationaal — weinig authentiek Thais",
+          "Veel charteroccupatie: kinderclub piekweken vol",
+          "Naar Kamala-dorp 15 min lopen — 's avonds taxi nemen",
+          "Wi-Fi in oudere blokken traag; betaalde upgrade niet altijd waard"
+        ]
+      }
+    },
+    {
+      "slug": "sunprime-kamala-beach",
+      "name": "Sunprime Kamala Beach",
+      "primaryKeyword": "sunprime kamala beach",
+      "tier": "Adults-only",
+      "stars": 4,
+      "priceFrom": 140,
+      "priceTo": 280,
+      "rooms": 220,
+      "yearBuilt": 2016,
+      "renovated": 2023,
+      "beachDistance": "On the beach (0 m, shares plot with Sunwing)",
+      "tripPartnerKey": "trip_sunprime",
+      "summary": {
+        "en": "Adults-only sister property to Sunwing — same beachfront plot, no kids, quieter pools, $140–280/night, daily yoga, mostly couples 30–55 — Kamala's quiet alternative when you want beach + spa, no kids' club soundtrack.",
+        "nl": "Adults-only zusterproperty van Sunwing — zelfde strand, geen kinderen, rustigere zwembaden, $140–280/nacht, dagelijks yoga, vooral koppels 30–55 — de rustige Kamala-keuze als je strand + spa wilt zonder kindergeluiden."
+      },
+      "pros": {
+        "en": [
+          "16+ adults-only — proper quiet from sunrise to sunset",
+          "Beachfront plot on south Kamala, fewer day-trippers than central beach",
+          "Daily yoga + Pilates included, decent in-house spa",
+          "Sunset bar deck is one of west Phuket's best for golden-hour drinks",
+          "Walking access to Sunwing's restaurants if you want variety"
+        ],
+        "nl": [
+          "16+ adults-only — echt rustig van zonsopgang tot zonsondergang",
+          "Strandplek op zuidelijke Kamala, minder dagtoeristen",
+          "Dagelijks yoga + pilates inbegrepen, goede in-house spa",
+          "Sunset-bardek is een van de beste van West-Phuket voor golden hour",
+          "Loop-toegang tot Sunwing-restaurants voor variatie"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Smaller than Sunwing — books out 6–8 weeks ahead in high season",
+          "Half-board upgrade ($25/night pp) recommended — area dining is limited",
+          "Beach itself can get busy with day-trippers from neighbouring resorts",
+          "Single-traveller supplement is steep — best for couples/duos"
+        ],
+        "nl": [
+          "Kleiner dan Sunwing — hoogseizoen 6–8 weken vooruit volgeboekt",
+          "Halfpension upgrade ($25/nacht pp) aanbevolen — weinig restaurants in de buurt",
+          "Strand zelf kan druk worden door dagtoeristen uit nabije resorts",
+          "Single-toeslag is fors — beste voor koppels/duo's"
+        ]
+      }
+    }
+  ]
+}

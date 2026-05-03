@@ -1,0 +1,19 @@
+{
+  "lastUpdated": "2026-05-03",
+  "spokes": [
+    {
+      "slug": "private-pool-villas",
+      "tier": "accommodation",
+      "primaryKeyword": "phuket honeymoon private pool villa",
+      "primaryPartnerKey": "trip_pool_villa",
+      "secondaryPartnerKey": "trip_luxury_honeymoon"
+    },
+    {
+      "slug": "all-inclusive",
+      "tier": "package",
+      "primaryKeyword": "phuket all inclusive honeymoon",
+      "primaryPartnerKey": "trip_all_inclusive",
+      "secondaryPartnerKey": "trip_honeymoon_resort"
+    }
+  ]
+}

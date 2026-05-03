@@ -1,0 +1,34 @@
+{
+  "lastUpdated": "2026-05-03",
+  "cluster": "phuket-nai-harn",
+  "partners": {
+    "trip_pillar": {
+      "partnerUrl": "https://trip.tpo.lv/fbbYVuSB",
+      "label": "Trip.com — Nai Harn hotels"
+    },
+    "klook_pillar": {
+      "partnerUrl": "https://klook.tpo.lv/4D48J1ib",
+      "label": "Klook — Nai Harn activities"
+    },
+    "trip_hotels": {
+      "partnerUrl": "https://trip.tpo.lv/v1kpZRPv",
+      "label": "Trip.com — Nai Harn beach hotels"
+    },
+    "trip_the_nai_harn": {
+      "partnerUrl": "https://trip.tpo.lv/mS21tsRK",
+      "label": "Trip.com — The Nai Harn hotel"
+    },
+    "trip_wyndham": {
+      "partnerUrl": "https://trip.tpo.lv/GjK895xl",
+      "label": "Trip.com — Wyndham Grand Nai Harn"
+    },
+    "klook_activities": {
+      "partnerUrl": "https://klook.tpo.lv/sf4pt6Vd",
+      "label": "Klook — South Phuket activities"
+    },
+    "gyg_activities": {
+      "partnerUrl": "https://getyourguide.tpo.lv/UcsZZIHH",
+      "label": "GetYourGuide — Promthep Cape"
+    }
+  }
+}

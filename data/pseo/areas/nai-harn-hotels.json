@@ -1,0 +1,102 @@
+{
+  "lastUpdated": "2026-05-03",
+  "area": "nai-harn",
+  "hotels": [
+    {
+      "slug": "the-nai-harn-phuket",
+      "name": "The Nai Harn",
+      "fullName": "The Nai Harn, Phuket",
+      "tier": "luxury",
+      "stars": 5,
+      "primaryKeywords": ["the nai harn", "the nai harn phuket"],
+      "primaryPartnerKey": "trip_the_nai_harn",
+      "secondaryPartnerKey": "trip_hotels",
+      "summary": {
+        "en": "The Nai Harn is the cliff-top luxury anchor of the bay — a refurbished 1980s landmark with 130 sea-view rooms, an infinity pool over the beach, two restaurants and direct beach access via a private path.",
+        "nl": "The Nai Harn is het luxe-anker op de klif boven de baai — een gerenoveerde 5-sterren uit de jaren 80 met 130 zeezicht-kamers, een infinity-pool boven het strand en een eigen pad naar het zand."
+      },
+      "highlights": {
+        "en": [
+          "Direct sea views from every room — uninterrupted Andaman sunset",
+          "Cliff-top infinity pool 30m above Nai Harn beach",
+          "Private staircase + path to beach (no road crossing)",
+          "Cosmo restaurant + Rock Salt beachfront — both worth booking outside guests",
+          "Quiet adults-leaning crowd (still kid-friendly, just calmer than Patong resorts)"
+        ],
+        "nl": [
+          "Zeezicht uit elke kamer — onbelemmerde Andaman-zonsondergang",
+          "Infinity-pool 30m boven het strand op de klif",
+          "Privétrap + pad naar het strand (geen weg oversteken)",
+          "Cosmo-restaurant + Rock Salt aan het strand — beide ook door niet-gasten te reserveren",
+          "Rustige, volwassen sfeer (kinderen welkom, maar veel kalmer dan Patong)"
+        ]
+      },
+      "watchOuts": {
+        "en": [
+          "Steep cliff property — kids under 5 need supervision near pool decks",
+          "Beach access path is a 2-min walk down + steps back up",
+          "No nightlife within 10 min walk — Nai Harn is intentionally quiet"
+        ],
+        "nl": [
+          "Steile klif — kinderen onder 5 hebben begeleiding nodig bij de zwembaden",
+          "Stranddpad is 2 min lopen omlaag + trap terug omhoog",
+          "Geen nightlife binnen 10 min lopen — Nai Harn is bewust rustig"
+        ]
+      },
+      "bestFor": {
+        "en": "Couples, honeymooners, families with kids 8+",
+        "nl": "Stellen, honeymooners, families met kinderen 8+"
+      },
+      "priceBand": "$$$",
+      "rooms": 130
+    },
+    {
+      "slug": "wyndham-grand-nai-harn-beach-phuket",
+      "name": "Wyndham Grand Nai Harn Beach Phuket",
+      "fullName": "Wyndham Grand Nai Harn Beach Phuket",
+      "tier": "upscale",
+      "stars": 5,
+      "primaryKeywords": ["wyndham grand nai harn beach phuket", "wyndham nai harn"],
+      "primaryPartnerKey": "trip_wyndham",
+      "secondaryPartnerKey": "trip_hotels",
+      "summary": {
+        "en": "Wyndham Grand sits on a hillside above Nai Harn with 226 rooms, multiple pools, kids' club and the largest family-resort footprint in the area — ideal for travellers who want resort amenities without staying in Patong.",
+        "nl": "Wyndham Grand ligt op een heuvel boven Nai Harn met 226 kamers, meerdere zwembaden, kids' club en de grootste familie-resortfacilieten in het gebied — perfect voor wie resort-luxe wil zonder Patong-drukte."
+      },
+      "highlights": {
+        "en": [
+          "Largest pool complex in Nai Harn (3 pools incl. lap pool + kids' splash)",
+          "Free shuttle to Nai Harn beach (~5 min) and Rawai pier",
+          "Kids' club + babysitting — strongest family option in the bay",
+          "Half-board package competitive vs Patong upscale resorts",
+          "Resort-style breakfast buffet, in-room dining 24/7"
+        ],
+        "nl": [
+          "Grootste poolcomplex in Nai Harn (3 zwembaden incl. lap-pool + kinderbad)",
+          "Gratis shuttle naar Nai Harn-strand (~5 min) en Rawai-pier",
+          "Kids' club + babysitting — sterkste familiekeuze in de baai",
+          "Half-pension competitief vs Patong-upscale",
+          "Resort-ontbijtbuffet, 24/7 roomservice"
+        ]
+      },
+      "watchOuts": {
+        "en": [
+          "Not on the beach — shuttle or 5-min walk required",
+          "Hillside terrain has lots of stairs (less mobility-friendly than The Nai Harn)",
+          "F&B can feel resort-priced — Rawai seafood market is 8 min taxi for value meals"
+        ],
+        "nl": [
+          "Niet aan het strand — shuttle of 5 min lopen",
+          "Heuvelterrein met veel trappen (minder mobiliteits-vriendelijk dan The Nai Harn)",
+          "F&B is resort-prijs — Rawai-vismarkt is 8 min taxi voor goedkoper eten"
+        ]
+      },
+      "bestFor": {
+        "en": "Families with young kids, multi-generational groups, travellers who want full resort facilities",
+        "nl": "Families met jonge kinderen, meerdere generaties, wie complete resort-faciliteiten wil"
+      },
+      "priceBand": "$$$",
+      "rooms": 226
+    }
+  ]
+}
