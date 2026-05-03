@@ -2,7 +2,7 @@ import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
 import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import { getAffiliates, withPlacementSubId } from '../../../lib/affiliates';
+import { getAffiliates, withPlacementSubId, TRIP_GENERIC } from '../../../lib/affiliates';
 import type { CityAffiliates } from '../../../lib/affiliates';
 import type { TravelIntentPage } from '../../../lib/intent-pages';
 
@@ -24,10 +24,9 @@ export default function WhereToStayCityPage({ page, affiliates }: Props) {
   const city = page.city || '';
   const cityName = page.cityName || city;
   const links = groupLinks(page);
-  const bookingBaseUrl = affiliates?.booking || null;
-  const heroBookingUrl = bookingBaseUrl
-    ? withPlacementSubId(bookingBaseUrl, `intent-where-to-stay-${city}`, 'hero')
-    : null;
+  // User excluded Booking on hotel CTAs — switch to Trip.com (30-day cookie attribution).
+  const bookingBaseUrl = affiliates?.trip ?? TRIP_GENERIC;
+  const heroBookingUrl = withPlacementSubId(bookingBaseUrl, `intent-where-to-stay-${city}`, 'hero');
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

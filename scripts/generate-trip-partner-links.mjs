@@ -23,6 +23,8 @@ const ENDPOINT = 'https://api.travelpayouts.com/links/v1/create';
 const TARGETS = [
   path.join(ROOT, 'data/pseo/best-hotels'),
   path.join(ROOT, 'data/pseo/best-hotels/nl'),
+  path.join(ROOT, 'data/pseo/areas'),
+  path.join(ROOT, 'data/pseo/hotels'),
 ];
 
 const args = process.argv.slice(2);
@@ -69,21 +71,29 @@ function listJsonFiles() {
 
 async function processFile(filePath) {
   const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-  if (!Array.isArray(data.hotels)) return { file: filePath, processed: 0 };
+  // Normalise: best-hotels has data.hotels[], hotels has data.hotel + data.similarHotels[],
+  // areas has data.hotels[]. Build a unified list of hotel objects to update.
+  const hotelObjs = [];
+  if (Array.isArray(data.hotels)) hotelObjs.push(...data.hotels);
+  if (data.hotel && data.hotel.name) hotelObjs.push(data.hotel);
+  if (Array.isArray(data.similarHotels)) hotelObjs.push(...data.similarHotels);
+  if (hotelObjs.length === 0) return { file: filePath, processed: 0 };
   const isNl = filePath.includes('/nl/');
-  const cityCategory = `${data.citySlug}-${data.category}${isNl ? '-nl' : ''}`;
+  const ctx = data.areaSlug ? `area-${data.areaSlug}` : data.hotelSlug ? `hotel-${data.hotelSlug}` : `${data.citySlug}-${data.category || ''}`;
+  const cityCategory = `${ctx}${isNl ? '-nl' : ''}`;
 
   // Build batch — skip hotels that already have tripPartnerUrl
   const items = [];
-  for (const h of data.hotels) {
+  for (const h of hotelObjs) {
     if (h.tripPartnerUrl && h.tripPartnerUrl.includes('tpo.lv')) continue;
+    if (!h.name) continue;
     items.push({
       url: tripKeywordUrl(h.name),
-      sub_id: `pseo-best-hotels-${cityCategory}-${h.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 40)}`,
+      sub_id: `pseo-${cityCategory}-${h.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 40)}`,
       _ref: h,
     });
   }
-  if (items.length === 0) return { file: path.relative(ROOT, filePath), processed: 0, skipped: data.hotels.length };
+  if (items.length === 0) return { file: path.relative(ROOT, filePath), processed: 0, skipped: hotelObjs.length };
 
   // API limit: max 10 links per request
   let processed = 0;
@@ -108,14 +118,16 @@ async function processFile(filePath) {
     } catch (e) {
       console.error(`  ✗ Batch failed: ${e.message}`);
     }
-    // Rate limit safety: 100/min, sleep 600ms between batches
-    if (i + 10 < items.length) await new Promise(r => setTimeout(r, 600));
+    // Rate limit safety: 100/min cap. 1200ms sleep = 50/min, very safe.
+    if (i + 10 < items.length) await new Promise(r => setTimeout(r, 1200));
   }
+  // Extra cooldown between files
+  await new Promise(r => setTimeout(r, 200));
 
   if (!DRY && processed > 0) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n');
   }
-  return { file: path.relative(ROOT, filePath), processed, total: data.hotels.length };
+  return { file: path.relative(ROOT, filePath), processed, total: hotelObjs.length };
 }
 
 (async () => {

@@ -22,6 +22,7 @@ interface Hotel {
   description: string;
   highlights?: string[];
   bookingUrl?: string;
+  tripPartnerUrl?: string;
   reviewScore?: string;
   bestFor?: string[];
 }
@@ -89,6 +90,7 @@ export default function AreaPage({ data }: Props) {
   const norm = (s?: string) => (s || '').trim().toLowerCase();
 
   const bookingForHotel = (h: Hotel | undefined, placement: string): { url: string; specific: boolean } | null => {
+    if (h?.tripPartnerUrl) return { url: withPlacementSubId(h.tripPartnerUrl, subId, placement), specific: true };
     if (h?.bookingUrl) {
       const fixed = tripcomAffiliate(h.bookingUrl, placement);
       return { url: withPlacementSubId(fixed, subId, placement), specific: true };

@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import { getAffiliates, withPlacementSubId } from '../../lib/affiliates';
+import { getAffiliates, withPlacementSubId, TRIP_GENERIC, tripcomAffiliate } from '../../lib/affiliates';
 
 /**
  * PSEO Fase 3: /hotel/[slug]/
@@ -21,6 +21,7 @@ interface Hotel {
   description: string;
   highlights?: string[];
   bookingUrl?: string;
+  tripPartnerUrl?: string;
   reviewScore?: string;
   bestFor?: string[];
   sources?: { sourceName?: string; sourceUrl?: string; lastVerified?: string }[];
@@ -72,9 +73,12 @@ export default function HotelPage({ data }: Props) {
   const norm = (s?: string) => (s || '').trim().toLowerCase();
 
   const bookingFor = (h: Hotel | undefined, placement: string): { url: string; specific: boolean } | null => {
-    if (h?.bookingUrl) return { url: withPlacementSubId(h.bookingUrl, subId, placement), specific: true };
-    if (aff?.booking) return { url: withPlacementSubId(aff.booking, subId, placement), specific: false };
-    return null;
+    if (h?.tripPartnerUrl) return { url: withPlacementSubId(h.tripPartnerUrl, subId, placement), specific: true };
+    if (h?.bookingUrl) {
+      const fixed = tripcomAffiliate(h.bookingUrl, placement);
+      return { url: withPlacementSubId(fixed, subId, placement), specific: true };
+    }
+    return { url: withPlacementSubId(aff?.trip ?? TRIP_GENERIC, subId, placement), specific: false };
   };
   const heroCta = bookingFor(hotel, 'hero');
   const similarBySlug = new Map(data.similarHotels.map(h => [norm(h.name), h]));
