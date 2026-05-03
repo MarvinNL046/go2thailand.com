@@ -1,0 +1,267 @@
+{
+  "lastUpdated": "2026-05-03",
+  "routes": [
+    {
+      "code": "bkk-to-cnx",
+      "from": "BKK",
+      "fromName": "Bangkok (Suvarnabhumi)",
+      "kw": "Bangkok",
+      "duration": "1h 15m",
+      "stops": "Direct",
+      "frequency": "20+ daily",
+      "airlines": [
+        "Thai Airways",
+        "Bangkok Airways",
+        "Thai Smile",
+        "Thai VietJet"
+      ],
+      "priceBand": "$40–110 (~1,400–3,900 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/O6lnHlXu",
+      "notes": "Thai Airways and Bangkok Airways for full-service connections. Thai VietJet competitive on price. Best option if you're connecting from an international long-haul into BKK."
+    },
+    {
+      "code": "dmk-to-cnx",
+      "from": "DMK",
+      "fromName": "Bangkok (Don Mueang)",
+      "kw": "Bangkok DMK",
+      "duration": "1h 15m",
+      "stops": "Direct",
+      "frequency": "15+ daily",
+      "airlines": [
+        "AirAsia",
+        "Nok Air",
+        "Thai Lion Air"
+      ],
+      "priceBand": "$25–80 (~900–2,800 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/dHh715xV",
+      "notes": "Cheapest way north. AirAsia and Thai Lion Air frequently $25–35 one-way mid-week. Watch the baggage trap — checked bag adds 500–800 THB and may erase the savings."
+    },
+    {
+      "code": "hkt-to-cnx",
+      "from": "HKT",
+      "fromName": "Phuket",
+      "kw": "Phuket",
+      "duration": "2h 5m",
+      "stops": "Direct (some via BKK)",
+      "frequency": "3–5 daily",
+      "airlines": [
+        "AirAsia",
+        "Thai VietJet",
+        "Bangkok Airways"
+      ],
+      "priceBand": "$45–120 (~1,600–4,200 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/8fO9anhA",
+      "notes": "Direct flights ~3x daily; many slots routed via Bangkok adding 4–5 hours total. Book direct option 4–6 weeks ahead, especially during November–February high season."
+    },
+    {
+      "code": "usm-to-cnx",
+      "from": "USM",
+      "fromName": "Koh Samui",
+      "kw": "Koh Samui",
+      "duration": "1h 50m",
+      "stops": "Direct",
+      "frequency": "1 daily",
+      "airlines": [
+        "Bangkok Airways"
+      ],
+      "priceBand": "$140–280 (~5,000–9,900 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/eXuI3dHI",
+      "notes": "Bangkok Airways monopoly. Single daily flight, expensive but the only direct option. Alternative: ferry to Surat Thani + budget flight to DMK + transfer to CNX (12+ hours)."
+    },
+    {
+      "code": "kbv-to-cnx",
+      "from": "KBV",
+      "fromName": "Krabi",
+      "kw": "Krabi",
+      "duration": "2h 10m",
+      "stops": "Direct (limited)",
+      "frequency": "3–4 weekly",
+      "airlines": [
+        "Thai AirAsia"
+      ],
+      "priceBand": "$50–130 (~1,800–4,600 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/xPftFuUd",
+      "notes": "AirAsia operates 3–4 direct flights per week — schedule varies seasonally. Most travelers connect via DMK adding 4–5 hours total. Confirm direct schedule before booking."
+    },
+    {
+      "code": "sin-to-cnx",
+      "from": "SIN",
+      "fromName": "Singapore (Changi)",
+      "kw": "Singapore",
+      "duration": "3h 5m",
+      "stops": "Direct",
+      "frequency": "1–2 daily",
+      "airlines": [
+        "Scoot",
+        "AirAsia"
+      ],
+      "priceBand": "$120–280 (~4,200–9,900 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/fv59xyBP",
+      "notes": "Scoot daily; AirAsia adds capacity in high season. No full-service direct option — connect via Bangkok on Singapore Airlines/Thai if you want Star Alliance miles or premium cabin."
+    },
+    {
+      "code": "kul-to-cnx",
+      "from": "KUL",
+      "fromName": "Kuala Lumpur",
+      "kw": "Kuala Lumpur",
+      "duration": "2h 50m",
+      "stops": "Direct",
+      "frequency": "1–2 daily",
+      "airlines": [
+        "AirAsia"
+      ],
+      "priceBand": "$80–200 (~2,800–7,100 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/8yXBnVok",
+      "notes": "AirAsia direct daily — promo fares under $50 one-way appear regularly in low season. Malaysia Airlines requires a connection through Bangkok."
+    },
+    {
+      "code": "hkg-to-cnx",
+      "from": "HKG",
+      "fromName": "Hong Kong",
+      "kw": "Hong Kong",
+      "duration": "3h 5m",
+      "stops": "Direct",
+      "frequency": "1 daily (seasonal)",
+      "airlines": [
+        "HK Express",
+        "Cathay Pacific"
+      ],
+      "priceBand": "$250–550 (~8,800–19,400 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/PY5nnTdD",
+      "notes": "HK Express runs daily; Cathay Pacific operates seasonally. In shoulder seasons many flights become 1-stop via Bangkok — confirm before booking."
+    },
+    {
+      "code": "icn-to-cnx",
+      "from": "ICN",
+      "fromName": "Seoul (Incheon)",
+      "kw": "Seoul",
+      "duration": "5h 30m",
+      "stops": "Direct (seasonal)",
+      "frequency": "1 daily (Nov–Mar) / via BKK rest of year",
+      "airlines": [
+        "Korean Air",
+        "Jin Air",
+        "T'way Air"
+      ],
+      "priceBand": "$400–800 (~14,200–28,300 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/dgOq7NQ7",
+      "notes": "Direct flights mainly run November to March (peak Korean tourist season). In low season most routings become 1-stop via Bangkok adding 4–6 hours total."
+    },
+    {
+      "code": "kmg-to-cnx",
+      "from": "KMG",
+      "fromName": "Kunming",
+      "kw": "Kunming",
+      "duration": "1h 50m",
+      "stops": "Direct",
+      "frequency": "3–5 weekly",
+      "airlines": [
+        "China Eastern",
+        "Lucky Air"
+      ],
+      "priceBand": "$200–450 (~7,100–15,900 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/DwBWFq4a",
+      "notes": "Closest mainland China gateway by direct flight. Schedules vary heavily by season — confirm operating days before booking. Useful for combining Yunnan + northern Thailand trips."
+    },
+    {
+      "code": "tpe-to-cnx",
+      "from": "TPE",
+      "fromName": "Taipei",
+      "kw": "Taipei",
+      "duration": "3h 50m",
+      "stops": "Direct (limited)",
+      "frequency": "3–4 weekly",
+      "airlines": [
+        "EVA Air",
+        "China Airlines"
+      ],
+      "priceBand": "$280–550 (~9,900–19,400 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/BVgjx3OD",
+      "notes": "Direct service is seasonal and limited. Most travelers from Taipei connect via Bangkok on EVA Air, with smooth ~6 hour total transit including layover."
+    },
+    {
+      "code": "lhr-to-cnx",
+      "from": "LHR",
+      "fromName": "London (Heathrow)",
+      "kw": "London",
+      "duration": "14–19h",
+      "stops": "1–2 stops (via BKK / DOH / DXB)",
+      "frequency": "Multiple daily via connections",
+      "airlines": [
+        "Thai Airways",
+        "Qatar Airways",
+        "Emirates",
+        "EVA Air"
+      ],
+      "priceBand": "$800–1,600 (~28,300–56,600 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/3Hsxyuvj",
+      "notes": "No non-stop. Cheapest is Qatar via Doha + Bangkok — total ~16h with reasonable layover. Thai Airways direct LHR-BKK + short hop to CNX is the smoothest option."
+    },
+    {
+      "code": "lax-to-cnx",
+      "from": "LAX",
+      "fromName": "Los Angeles",
+      "kw": "Los Angeles",
+      "duration": "20–26h",
+      "stops": "2 stops (via TPE / BKK or HKG / BKK)",
+      "frequency": "Multiple daily via connections",
+      "airlines": [
+        "EVA Air",
+        "Cathay Pacific",
+        "Korean Air",
+        "ANA"
+      ],
+      "priceBand": "$900–1,700 (~31,900–60,200 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/4EynT1mX",
+      "notes": "Almost always 2 stops. EVA Air via Taipei + Bangkok is most common; Korean Air via Seoul + Bangkok is the alternative. Plan for 22+ hour total journey including layovers."
+    },
+    {
+      "code": "jfk-to-cnx",
+      "from": "JFK",
+      "fromName": "New York (JFK)",
+      "kw": "New York",
+      "duration": "22–28h",
+      "stops": "2 stops (via DOH / BKK or HKG / BKK)",
+      "frequency": "Multiple daily via connections",
+      "airlines": [
+        "Qatar Airways",
+        "Cathay Pacific",
+        "Emirates",
+        "EVA Air"
+      ],
+      "priceBand": "$1,000–1,900 (~35,400–67,300 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/0jSSbXH1",
+      "notes": "2-stop reality. Qatar via Doha + Bangkok consistently cheapest and fastest. Many travelers book JFK-BKK separately on Qatar/Emirates and add a $40 BKK-CNX flight on AirAsia."
+    },
+    {
+      "code": "generic",
+      "from": "ANY",
+      "fromName": "Any city",
+      "kw": "any",
+      "duration": "varies",
+      "stops": "varies",
+      "frequency": "varies",
+      "airlines": [
+        "all"
+      ],
+      "priceBand": "varies",
+      "tier": "search",
+      "partnerUrl": "https://trip.tpo.lv/mQ7dETqF",
+      "notes": "Generic search — use this when you want to compare from any departure airport."
+    }
+  ]
+}

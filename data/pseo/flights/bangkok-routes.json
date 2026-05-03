@@ -1,0 +1,390 @@
+{
+  "lastUpdated": "2026-05-03",
+  "routes": [
+    {
+      "code": "cnx-to-bkk",
+      "from": "CNX",
+      "fromName": "Chiang Mai",
+      "kw": "Chiang Mai",
+      "duration": "1h 15m",
+      "stops": "Direct",
+      "frequency": "20+ daily",
+      "airlines": [
+        "Thai Airways",
+        "Bangkok Airways",
+        "AirAsia",
+        "Thai VietJet",
+        "Nok Air",
+        "Thai Lion Air"
+      ],
+      "priceBand": "$40–100 (~1,400–3,500 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/c8zTJxjc",
+      "notes": "Thailand's busiest domestic corridor. AirAsia + Thai Lion Air (DMK) cheapest; Bangkok Airways and Thai Airways serve Suvarnabhumi for international connections."
+    },
+    {
+      "code": "hkt-to-bkk",
+      "from": "HKT",
+      "fromName": "Phuket",
+      "kw": "Phuket",
+      "duration": "1h 30m",
+      "stops": "Direct",
+      "frequency": "30+ daily",
+      "airlines": [
+        "Thai Airways",
+        "Bangkok Airways",
+        "Thai VietJet",
+        "AirAsia",
+        "Nok Air",
+        "Thai Lion Air"
+      ],
+      "priceBand": "$30–95 (~1,100–3,400 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/9DRTUNg7",
+      "notes": "Frequent service to both BKK and DMK. Thai VietJet typically cheapest; Bangkok Airways the only carrier serving USM and offering best schedule reliability."
+    },
+    {
+      "code": "usm-to-bkk",
+      "from": "USM",
+      "fromName": "Koh Samui",
+      "kw": "Koh Samui",
+      "duration": "1h 10m",
+      "stops": "Direct",
+      "frequency": "10+ daily",
+      "airlines": [
+        "Bangkok Airways"
+      ],
+      "priceBand": "$110–220 (~3,900–7,800 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/xn3GflNg",
+      "notes": "Bangkok Airways monopoly — owns the airport. Expensive but only direct option. Alternative: AirAsia/Thai Lion Air to Surat Thani (URT) + ferry, half the price but adds 4–5 hours."
+    },
+    {
+      "code": "kbv-to-bkk",
+      "from": "KBV",
+      "fromName": "Krabi",
+      "kw": "Krabi",
+      "duration": "1h 25m",
+      "stops": "Direct",
+      "frequency": "8–10 daily",
+      "airlines": [
+        "Thai AirAsia",
+        "Thai VietJet",
+        "Thai Lion Air",
+        "Thai Airways"
+      ],
+      "priceBand": "$35–95 (~1,250–3,400 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/S3Ye83b1",
+      "notes": "Most flights land at DMK on AirAsia/Lion Air. Cheaper alternative to Phuket flights for Andaman-coast travelers. Book direct options 4–6 weeks ahead in high season."
+    },
+    {
+      "code": "hdy-to-bkk",
+      "from": "HDY",
+      "fromName": "Hat Yai",
+      "kw": "Hat Yai",
+      "duration": "1h 30m",
+      "stops": "Direct",
+      "frequency": "8–10 daily",
+      "airlines": [
+        "Thai AirAsia",
+        "Thai VietJet",
+        "Thai Lion Air",
+        "Nok Air",
+        "Thai Airways"
+      ],
+      "priceBand": "$35–90 (~1,250–3,200 THB)",
+      "tier": "domestic",
+      "partnerUrl": "https://trip.tpo.lv/bwWVwFCK",
+      "notes": "Gateway to deep south Thailand and northern Malaysia overland routes. Heavily served by budget carriers from DMK. Strong demand around Chinese New Year — book early."
+    },
+    {
+      "code": "sin-to-bkk",
+      "from": "SIN",
+      "fromName": "Singapore (Changi)",
+      "kw": "Singapore",
+      "duration": "2h 30m",
+      "stops": "Direct",
+      "frequency": "25+ daily",
+      "airlines": [
+        "Singapore Airlines",
+        "Scoot",
+        "Thai Airways",
+        "Jetstar Asia",
+        "Thai VietJet"
+      ],
+      "priceBand": "$100–250 (~3,500–8,800 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/q0zcBcsq",
+      "notes": "One of Asia's busiest air corridors. Scoot and Jetstar are budget; Singapore Airlines includes baggage and meals. Easy to find $100 round-trip mid-week in shoulder season."
+    },
+    {
+      "code": "kul-to-bkk",
+      "from": "KUL",
+      "fromName": "Kuala Lumpur",
+      "kw": "Kuala Lumpur",
+      "duration": "2h 10m",
+      "stops": "Direct",
+      "frequency": "20+ daily",
+      "airlines": [
+        "AirAsia",
+        "Malaysia Airlines",
+        "Thai Airways",
+        "Batik Air",
+        "Thai Lion Air"
+      ],
+      "priceBand": "$70–180 (~2,500–6,400 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/9GWfReUw",
+      "notes": "AirAsia's flagship route — frequent promo fares under $50 one-way. Malaysia Airlines for full service. Most budget flights land at DMK; Malaysia Airlines and Thai serve Suvarnabhumi."
+    },
+    {
+      "code": "hkg-to-bkk",
+      "from": "HKG",
+      "fromName": "Hong Kong",
+      "kw": "Hong Kong",
+      "duration": "2h 50m",
+      "stops": "Direct",
+      "frequency": "10+ daily",
+      "airlines": [
+        "Cathay Pacific",
+        "HK Express",
+        "Thai Airways",
+        "Greater Bay Airlines"
+      ],
+      "priceBand": "$200–500 (~7,100–17,700 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/Asy7KK5d",
+      "notes": "Cathay Pacific premium service; HK Express budget option roughly half the price. Strong onward connectivity from BKK to Phuket, Samui and the islands."
+    },
+    {
+      "code": "icn-to-bkk",
+      "from": "ICN",
+      "fromName": "Seoul (Incheon)",
+      "kw": "Seoul",
+      "duration": "5h 50m",
+      "stops": "Direct",
+      "frequency": "10+ daily",
+      "airlines": [
+        "Korean Air",
+        "Asiana",
+        "Thai Airways",
+        "Jin Air",
+        "T'way Air"
+      ],
+      "priceBand": "$350–750 (~12,400–26,500 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/yWrTRi44",
+      "notes": "Massive Korean tourist market — flights run year-round, multiple daily. Budget LCCs (Jin Air, T'way) often half the price of Korean Air with no baggage included."
+    },
+    {
+      "code": "nrt-to-bkk",
+      "from": "NRT",
+      "fromName": "Tokyo (Narita)",
+      "kw": "Tokyo",
+      "duration": "6h 30m",
+      "stops": "Direct",
+      "frequency": "5–7 daily",
+      "airlines": [
+        "Thai Airways",
+        "ANA",
+        "Japan Airlines",
+        "Zipair",
+        "Thai AirAsia X"
+      ],
+      "priceBand": "$400–900 (~14,200–31,900 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/HmTnicA1",
+      "notes": "Zipair (JAL low-cost) and Thai AirAsia X cheapest; ANA and JAL premium. Haneda (HND) also offered by Thai and ANA — usually $50–100 more but better for Tokyo center."
+    },
+    {
+      "code": "dxb-to-bkk",
+      "from": "DXB",
+      "fromName": "Dubai",
+      "kw": "Dubai",
+      "duration": "6h 20m",
+      "stops": "Direct",
+      "frequency": "5–6 daily",
+      "airlines": [
+        "Emirates",
+        "Thai Airways",
+        "Flydubai"
+      ],
+      "priceBand": "$350–800 (~12,400–28,300 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/mvXbgD7e",
+      "notes": "Emirates A380 multiple daily — premium choice. Flydubai is the budget alternative. Major stopover route for Europe-to-Bangkok travelers."
+    },
+    {
+      "code": "del-to-bkk",
+      "from": "DEL",
+      "fromName": "Delhi",
+      "kw": "Delhi",
+      "duration": "4h 20m",
+      "stops": "Direct",
+      "frequency": "8–10 daily",
+      "airlines": [
+        "IndiGo",
+        "Air India",
+        "Thai Airways",
+        "Vistara"
+      ],
+      "priceBand": "$200–500 (~7,100–17,700 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/i2YYCABc",
+      "notes": "IndiGo cheapest, lands at DMK. Thai Airways and Air India serve BKK. Heavily booked in November–February (Indian winter holidays) — book 2 months ahead."
+    },
+    {
+      "code": "doh-to-bkk",
+      "from": "DOH",
+      "fromName": "Doha",
+      "kw": "Doha",
+      "duration": "6h 30m",
+      "stops": "Direct",
+      "frequency": "3–4 daily",
+      "airlines": [
+        "Qatar Airways"
+      ],
+      "priceBand": "$400–900 (~14,200–31,900 THB)",
+      "tier": "regional",
+      "partnerUrl": "https://trip.tpo.lv/XZSDObqG",
+      "notes": "Qatar Airways monopoly. Doha is the cheapest 1-stop hub for most European cities — strong onward fares to LHR, AMS, FRA, CDG, MAD."
+    },
+    {
+      "code": "lax-to-bkk",
+      "from": "LAX",
+      "fromName": "Los Angeles",
+      "kw": "Los Angeles",
+      "duration": "18–22h",
+      "stops": "1 stop (via TPE / NRT / ICN / HKG)",
+      "frequency": "Multiple daily via connections",
+      "airlines": [
+        "EVA Air",
+        "ANA",
+        "Korean Air",
+        "Cathay Pacific",
+        "China Airlines"
+      ],
+      "priceBand": "$800–1,600 (~28,300–56,600 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/JtEip6pG",
+      "notes": "No non-stop service. Cheapest is usually EVA Air via Taipei (TPE) — $800–1,000 in low season. ANA via Tokyo and Korean Air via Seoul both deliver excellent service."
+    },
+    {
+      "code": "jfk-to-bkk",
+      "from": "JFK",
+      "fromName": "New York (JFK)",
+      "kw": "New York",
+      "duration": "19–24h",
+      "stops": "1 stop (via DOH / DXB / HKG / TPE)",
+      "frequency": "Multiple daily via connections",
+      "airlines": [
+        "Qatar Airways",
+        "Emirates",
+        "Cathay Pacific",
+        "EVA Air",
+        "Korean Air"
+      ],
+      "priceBand": "$900–1,800 (~31,900–63,700 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/vXQtprth",
+      "notes": "Qatar via Doha consistently cheapest; Emirates via Dubai best premium economy. Cathay via Hong Kong has shorter total transit time (19–20h) than Middle East routings."
+    },
+    {
+      "code": "sfo-to-bkk",
+      "from": "SFO",
+      "fromName": "San Francisco",
+      "kw": "San Francisco",
+      "duration": "18–22h",
+      "stops": "1 stop (via TPE / ICN / HKG / SIN)",
+      "frequency": "Multiple daily via connections",
+      "airlines": [
+        "EVA Air",
+        "Singapore Airlines",
+        "Cathay Pacific",
+        "Korean Air",
+        "ANA"
+      ],
+      "priceBand": "$850–1,600 (~30,000–56,600 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/0e86F46P",
+      "notes": "EVA Air via Taipei usually cheapest. Singapore Airlines via SIN has the best service onboard and offers the rare seamless 2-flight A380 experience."
+    },
+    {
+      "code": "lhr-to-bkk",
+      "from": "LHR",
+      "fromName": "London (Heathrow)",
+      "kw": "London",
+      "duration": "11–17h",
+      "stops": "Direct or 1 stop (via DOH / DXB / SIN)",
+      "frequency": "Multiple daily, several non-stop",
+      "airlines": [
+        "Thai Airways",
+        "British Airways",
+        "EVA Air",
+        "Qatar Airways",
+        "Emirates"
+      ],
+      "priceBand": "$700–1,500 (~24,800–53,100 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/GqbFuWLD",
+      "notes": "Thai Airways and EVA Air operate non-stop daily (~11.5h). Qatar via Doha consistently cheapest 1-stop. Avoid Dubai layovers in Jul-Aug due to extreme heat in transit terminal walks."
+    },
+    {
+      "code": "ams-to-bkk",
+      "from": "AMS",
+      "fromName": "Amsterdam (Schiphol)",
+      "kw": "Amsterdam",
+      "duration": "11–16h",
+      "stops": "Direct or 1 stop (via DOH / DXB / IST)",
+      "frequency": "1–2 non-stop daily + multiple via connections",
+      "airlines": [
+        "KLM",
+        "Thai Airways",
+        "Qatar Airways",
+        "Emirates",
+        "Turkish Airlines"
+      ],
+      "priceBand": "€600–1,300 (~21,200–46,000 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/Xiq9qcaz",
+      "notes": "KLM operates non-stop daily (~11h). Thai Airways resumed non-stop AMS service. Qatar via Doha often cheapest in low season — under €600 round-trip is achievable May–June."
+    },
+    {
+      "code": "fra-to-bkk",
+      "from": "FRA",
+      "fromName": "Frankfurt",
+      "kw": "Frankfurt",
+      "duration": "10–16h",
+      "stops": "Direct or 1 stop (via DOH / DXB / IST / SIN)",
+      "frequency": "1 non-stop daily + multiple via connections",
+      "airlines": [
+        "Lufthansa",
+        "Thai Airways",
+        "Qatar Airways",
+        "Emirates",
+        "Turkish Airlines"
+      ],
+      "priceBand": "€600–1,300 (~21,200–46,000 THB)",
+      "tier": "long-haul",
+      "partnerUrl": "https://trip.tpo.lv/297fUXUX",
+      "notes": "Lufthansa and Thai Airways both fly non-stop daily (~10.5h). Strongest European hub for onward Europe-Asia connections. Turkish via Istanbul often cheapest 1-stop in low season."
+    },
+    {
+      "code": "generic",
+      "from": "ANY",
+      "fromName": "Any city",
+      "kw": "any",
+      "duration": "varies",
+      "stops": "varies",
+      "frequency": "varies",
+      "airlines": [
+        "all"
+      ],
+      "priceBand": "varies",
+      "tier": "search",
+      "partnerUrl": "https://trip.tpo.lv/0GTBO5DF",
+      "notes": "Generic search — use this when you want to compare from any departure airport."
+    }
+  ]
+}
