@@ -339,6 +339,28 @@ export function getIntentInternalLinks(context: LinkContext): IntentLink[] {
     pageType: 'city-guide',
   });
 
+  // Cross-cluster mesh — relevant pillars for cities that have them.
+  // Only include when the page actually exists; otherwise skip (no broken
+  // internal links). Anchor text varied per playbook.
+  const FLIGHTS_PILLAR_CITIES = new Set(['phuket', 'bangkok', 'chiang-mai']);
+  const CAR_RENTAL_PILLAR_CITIES = new Set(['phuket']);
+  if (FLIGHTS_PILLAR_CITIES.has(city)) {
+    links.push({
+      href: `/flights-to-${city}/`,
+      label: `Flights to ${cityName}`,
+      intent: 'city-guide',
+      pageType: 'city-guide',
+    });
+  }
+  if (CAR_RENTAL_PILLAR_CITIES.has(city)) {
+    links.push({
+      href: `/car-rental-${city}/`,
+      label: `Car rental in ${cityName}`,
+      intent: 'city-guide',
+      pageType: 'city-guide',
+    });
+  }
+
   return uniqueLinks(links);
 }
 

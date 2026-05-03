@@ -410,6 +410,9 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
               <Link href="/best-hotels/phuket/all-inclusive/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
                 {isNl ? 'All-inclusive resorts' : 'All-inclusive resorts'}
               </Link>
+              <Link href="/car-rental-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
+                {isNl ? '🚗 Auto huren in Phuket' : '🚗 Rent a car in Phuket'}
+              </Link>
               <Link href="/transport/bangkok-to-phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">
                 {isNl ? 'Bangkok → Phuket alternatieven' : 'Bangkok → Phuket alternatives'}
               </Link>

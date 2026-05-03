@@ -286,6 +286,9 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
               <Link href="/where-to-stay/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
                 {isNl ? 'Waar verblijven (gebieden)' : 'Where to stay (areas)'}
               </Link>
+              <Link href="/car-rental-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
+                {isNl ? '🚗 Auto huren bij aankomst' : '🚗 Rent a car at the airport'}
+              </Link>
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">
                 {isNl ? 'Phuket reisgids' : 'Phuket travel guide'}
               </Link>
