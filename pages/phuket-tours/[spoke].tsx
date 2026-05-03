@@ -7,11 +7,37 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import phiPhiContentData from '../../data/pseo/tours/phi-phi-content.json';
 
 interface PartnerEntry { partnerUrl: string; label?: string }
 interface Partners { [key: string]: PartnerEntry }
 
-type SpokeSlug = 'big-buddha' | 'elephant-sanctuary' | 'cooking-class' | 'snorkeling' | 'old-town';
+type LegacySlug = 'big-buddha' | 'elephant-sanctuary' | 'cooking-class' | 'snorkeling' | 'old-town';
+type PhiPhiSlug = 'phi-phi-day-trip' | 'maya-bay' | 'phi-phi-snorkeling' | 'phi-phi-sunset' | 'phi-phi-speedboat' | 'khai-islands' | 'bamboo-island';
+type SpokeSlug = LegacySlug | PhiPhiSlug;
+
+// Data-driven content for the 7 Phi Phi cluster spokes (loaded from JSON).
+// Existing 5 legacy spokes (big-buddha, etc.) keep their hardcoded if-else
+// blocks below for now — refactor pending.
+interface PhiPhiSpokeContent {
+  labelEn: string; labelNl: string;
+  seoTitle: string; seoTitleNl: string;
+  h1En: string; h1Nl: string;
+  descEn: string; descNl: string;
+  kicker: string; kickerNl: string;
+  heroIntroEn: string; heroIntroNl: string;
+  heroStats: Array<{ label: string; labelNl: string; value: string; valueNl: string }>;
+  tableRows: Array<{ label: string; labelNl: string; spec: string; specNl: string; price: string; best: string; bestNl: string }>;
+  sections: Array<{ title: string; titleNl: string; body: string; bodyNl: string }>;
+  tips: Array<{ strong: string; strongNl: string; body: string; bodyNl: string }>;
+  faqEn: Array<{ q: string; a: string }>;
+  faqNl: Array<{ q: string; a: string }>;
+}
+const PHI_PHI_CONTENT = phiPhiContentData as Record<PhiPhiSlug, PhiPhiSpokeContent>;
+const PHI_PHI_SLUGS: ReadonlySet<PhiPhiSlug> = new Set(Object.keys(PHI_PHI_CONTENT) as PhiPhiSlug[]);
+function isPhiPhi(slug: SpokeSlug): slug is PhiPhiSlug {
+  return PHI_PHI_SLUGS.has(slug as PhiPhiSlug);
+}
 
 interface SpokeMeta {
   slug: SpokeSlug;
@@ -35,6 +61,13 @@ const SPOKE_LABELS: Record<SpokeSlug, { en: string; nl: string }> = {
   'cooking-class':      { en: 'Cooking class',            nl: 'Kookcursus' },
   'snorkeling':         { en: 'Snorkeling tours',         nl: 'Snorkel-dagtochten' },
   'old-town':           { en: 'Old Town walking tour',    nl: 'Old Town wandeltour' },
+  'phi-phi-day-trip':   { en: 'Phi Phi day trip',         nl: 'Phi Phi dagtocht' },
+  'maya-bay':           { en: 'Maya Bay',                 nl: 'Maya Bay' },
+  'phi-phi-snorkeling': { en: 'Phi Phi snorkeling',       nl: 'Phi Phi snorkelen' },
+  'phi-phi-sunset':     { en: 'Phi Phi sunset',           nl: 'Phi Phi zonsondergang' },
+  'phi-phi-speedboat':  { en: 'Phi Phi speedboat',        nl: 'Phi Phi speedboot' },
+  'khai-islands':       { en: 'Khai Islands',             nl: 'Khai-eilanden' },
+  'bamboo-island':      { en: 'Bamboo Island',            nl: 'Bamboo Island' },
 };
 
 export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, tertiaryUrl, siblings, lastUpdated }: Props) {
@@ -60,7 +93,19 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
   let kicker = ''; let kickerNl = '';
   let heroIntroEn = ''; let heroIntroNl = '';
 
-  if (spoke === 'big-buddha') {
+  if (isPhiPhi(spoke)) {
+    const c = PHI_PHI_CONTENT[spoke];
+    seoTitle = c.seoTitle;
+    seoTitleNl = c.seoTitleNl;
+    h1En = c.h1En;
+    h1Nl = c.h1Nl;
+    descEn = c.descEn;
+    descNl = c.descNl;
+    kicker = c.kicker;
+    kickerNl = c.kickerNl;
+    heroIntroEn = c.heroIntroEn;
+    heroIntroNl = c.heroIntroNl;
+  } else if (spoke === 'big-buddha') {
     seoTitle =   'Phuket Big Buddha Tour (2026): Half-Day Picks';        // 47
     seoTitleNl = 'Phuket Big Buddha Tour (2026): Halve Dag Tips';        // 45
     h1En = 'Big Buddha Tour Phuket: Half-Day Temples & Viewpoints';
@@ -135,6 +180,12 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
 
   // ---------- HERO STATS ----------
   const heroStats = (() => {
+    if (isPhiPhi(spoke)) {
+      return PHI_PHI_CONTENT[spoke].heroStats.map(s => ({
+        label: isNl ? s.labelNl : s.label,
+        value: isNl ? s.valueNl : s.value,
+      }));
+    }
     if (spoke === 'big-buddha') return [
       { label: isNl ? 'Duur' : 'Duration', value: isNl ? '4–5 uur' : '4–5 hours' },
       { label: isNl ? 'Prijs p.p.' : 'Price pp', value: '$25–60' },
@@ -169,6 +220,14 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
 
   // ---------- COMPARISON TABLE ROWS ----------
   const tableRows = (() => {
+    if (isPhiPhi(spoke)) {
+      return PHI_PHI_CONTENT[spoke].tableRows.map(r => ({
+        label: isNl ? r.labelNl : r.label,
+        spec: isNl ? r.specNl : r.spec,
+        price: r.price,
+        best: isNl ? r.bestNl : r.best,
+      }));
+    }
     if (spoke === 'big-buddha') return [
       { label: isNl ? 'Half-day Big Buddha + Wat Chalong' : 'Half-day Big Buddha + Wat Chalong', spec: isNl ? 'Minibus, 4 stops' : 'Minibus, 4 stops', price: '$25–45', best: isNl ? 'Eerste reis, korte tijd' : 'First-timers, short on time' },
       { label: isNl ? 'Half-day + Karon Viewpoint' : 'Half-day + Karon Viewpoint', spec: isNl ? 'Minibus, 5 stops' : 'Minibus, 5 stops', price: '$35–60', best: isNl ? 'Foto-fanaten' : 'Photo enthusiasts' },
@@ -203,6 +262,12 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
 
   // ---------- DETAILED SECTION CARDS ----------
   const sections = (() => {
+    if (isPhiPhi(spoke)) {
+      return PHI_PHI_CONTENT[spoke].sections.map(s => ({
+        title: isNl ? s.titleNl : s.title,
+        body: isNl ? s.bodyNl : s.body,
+      }));
+    }
     if (spoke === 'big-buddha') {
       return [
         {
@@ -315,6 +380,12 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
 
   // ---------- TIPS ----------
   const tips = (() => {
+    if (isPhiPhi(spoke)) {
+      return PHI_PHI_CONTENT[spoke].tips.map(t => ({
+        strong: isNl ? t.strongNl : t.strong,
+        body: isNl ? t.bodyNl : t.body,
+      }));
+    }
     if (spoke === 'big-buddha') return [
       { strong: isNl ? 'Vroeg of laat (07:00 of 15:00)' : 'Early or late (07:00 or 15:00)', body: isNl ? '— vermijd 11:00–14:00 als de zon op het top-platform fel is en de meeste bus-tours arriveren.' : '— avoid 11:00–14:00 when the sun on the top platform is brutal and most bus tours arrive.' },
       { strong: isNl ? 'Sarong of long-pants meenemen' : 'Bring a sarong or long pants', body: isNl ? '— $1 sarong-huur op locatie, maar je eigen kleding bespaart 5 minuten en is comfortabeler.' : '— sarong rental at site costs $1, but your own clothing saves 5 minutes and is more comfortable.' },
@@ -360,6 +431,7 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
 
   // ---------- FAQ ----------
   const faqEn = (() => {
+    if (isPhiPhi(spoke)) return PHI_PHI_CONTENT[spoke].faqEn;
     if (spoke === 'big-buddha') return [
       { q: 'How long does a Phuket Big Buddha tour take?', a: 'A typical half-day tour runs 4–5 hours from hotel pickup to drop-off. Big Buddha itself takes 45–60 minutes (climb, photos, optional gold-tile inscription). Wat Chalong adds 30 minutes. Karon viewpoint and an optional fourth stop bring it to 4–5 hours total. Private tours can stretch to 6–8 hours if you add Promthep Cape sunset and Old Town.' },
       { q: 'Is the Big Buddha tour worth it on a rain day?', a: 'Yes — better than most rain alternatives. Big Buddha\'s top platform is exposed, so a poncho helps, but the 360° view of southern Phuket is dramatic in moody weather. Wat Chalong is fully covered. Skip Karon viewpoint in heavy rain (zero view) and ask the operator to substitute with Phuket Town heritage walk or a market.' },
@@ -398,6 +470,7 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
   })();
 
   const faqNl = (() => {
+    if (isPhiPhi(spoke)) return PHI_PHI_CONTENT[spoke].faqNl;
     if (spoke === 'big-buddha') return [
       { q: 'Hoe lang duurt een Phuket Big Buddha-tour?', a: 'Een typische halve-dag-tour duurt 4–5 uur van hoteltransfer tot drop-off. Big Buddha zelf neemt 45–60 min (klimmen, foto\'s, optioneel gouden tegel-graveren). Wat Chalong: 30 min. Karon viewpoint en eventueel een vierde stop brengt het op 4–5 uur. Privé-tours kunnen 6–8 uur worden met Promthep Cape-zonsondergang en Old Town.' },
       { q: 'Is Big Buddha-tour de moeite waard op een regen-dag?', a: 'Ja — beter dan de meeste regen-alternatieven. Big Buddha\'s top-platform is open, dus poncho mee, maar het 360°-uitzicht over zuid-Phuket is dramatisch in mistig weer. Wat Chalong is overdekt. Skip Karon viewpoint bij hevige regen (geen zicht) en vraag de operator om Old Town heritage-walk of een markt als vervanging.' },
@@ -451,8 +524,18 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
     if (spoke === 'elephant-sanctuary') return { href: '/best-elephant-sanctuaries-in-thailand/', labelEn: 'Thailand-wide elephant sanctuaries guide', labelNl: 'Thailand-brede olifantenopvang-gids' };
     if (spoke === 'cooking-class')      return { href: '/best-cooking-classes-in-thailand/',      labelEn: 'Thailand-wide cooking classes guide',      labelNl: 'Thailand-brede kookcursus-gids' };
     if (spoke === 'snorkeling')         return { href: '/best-diving-snorkeling-in-thailand/',     labelEn: 'Thailand-wide diving + snorkeling guide',  labelNl: 'Thailand-brede duik + snorkel-gids' };
+    // Phi Phi cluster — point at /best-diving-snorkeling/ for water-focused trips, /islands/ for the rest
+    if (spoke === 'phi-phi-snorkeling' || spoke === 'phi-phi-day-trip' || spoke === 'maya-bay' || spoke === 'phi-phi-sunset' || spoke === 'phi-phi-speedboat') {
+      return { href: '/islands/koh-phi-phi/', labelEn: 'Koh Phi Phi island guide', labelNl: 'Koh Phi Phi eilandgids' };
+    }
+    if (spoke === 'khai-islands' || spoke === 'bamboo-island') {
+      return { href: '/islands/koh-phi-phi/', labelEn: 'Koh Phi Phi island guide', labelNl: 'Koh Phi Phi eilandgids' };
+    }
     return null;
   })();
+
+  // Localised spoke label for use in render-layer headings
+  const spokeLabel = isNl ? SPOKE_LABELS[spoke].nl : SPOKE_LABELS[spoke].en;
 
   return (
     <>
@@ -511,6 +594,7 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
               {spoke === 'cooking-class'      && (isNl ? 'Phuket-kookscholen vergeleken' : 'Phuket cooking schools compared')}
               {spoke === 'snorkeling'         && (isNl ? 'Snorkel-bestemmingen vergeleken' : 'Snorkel destinations compared')}
               {spoke === 'old-town'           && (isNl ? 'Old Town tour-opties vergeleken' : 'Old Town tour options compared')}
+              {isPhiPhi(spoke)                && (isNl ? `${spokeLabel} opties vergeleken` : `${spokeLabel} options compared`)}
             </h2>
             <p className="text-gray-600 mb-6">{isNl ? 'Klik om live aanbiedingen te zien (we verdienen een kleine commissie zonder dat het jou iets extra kost).' : 'Click to see live availability (we earn a small commission at no extra cost to you).'}</p>
             <div className="overflow-x-auto rounded-2xl border border-gray-200 bg-white shadow-sm">
@@ -549,6 +633,10 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
               {spoke === 'cooking-class'      && (isNl ? 'Phuket Thai Cookery School (4 uur, met markt)'         : 'Phuket Thai Cookery School (4 hours, with market)')}
               {spoke === 'snorkeling'         && (isNl ? 'Racha Yai + Racha Noi via Klook (full-day)'             : 'Racha Yai + Racha Noi via Klook (full-day)')}
               {spoke === 'old-town'           && (isNl ? 'Old Town heritage walk + 4 food-stops, 3 uur'          : 'Old Town heritage walk + 4 food stops, 3 hours')}
+              {isPhiPhi(spoke)                && (() => {
+                const r = tableRows[0];
+                return isNl ? `${r.label} (${r.spec})` : `${r.label} (${r.spec})`;
+              })()}
             </h2>
             <p className="text-gray-700 leading-relaxed mb-3">
               {spoke === 'big-buddha' && (isNl
@@ -566,6 +654,7 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
               {spoke === 'old-town' && (isNl
                 ? '3-uurs heritage walking tour ($30–45 pp) met gids, 4 food-stops (kanom jin, oester-omelet, Phuket-koffie, kaffir-mandala), Krabi Road murals, Thalang Road shophouses, Soi Romanee, Sang Tham shrine. Beste in late namiddag (16:00).'
                 : '3-hour heritage walking tour ($30–45 pp) with guide, 4 food stops (kanom jin, oyster omelette, Phuket coffee, kaffir-coconut dessert), Krabi Road murals, Thalang Road shophouses, Soi Romanee, Sang Tham shrine. Best late afternoon (16:00).')}
+              {isPhiPhi(spoke)                && sections[0] && (isNl ? sections[0].body : sections[0].body)}
             </p>
             <div className="flex flex-wrap gap-3">
               <a href={withSubId(primaryUrl, place('toppick-primary'))} target="_blank" rel="noopener noreferrer nofollow sponsored" className="inline-flex items-center rounded-full bg-thailand-red text-white px-5 py-2 text-sm font-semibold hover:bg-red-700">
@@ -595,6 +684,7 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
               {spoke === 'cooking-class'      && (isNl ? 'Boekingstips kookcursus'      : 'Booking tips for cooking class')}
               {spoke === 'snorkeling'         && (isNl ? 'Boekingstips snorkel-tour'    : 'Booking tips for snorkeling tour')}
               {spoke === 'old-town'           && (isNl ? 'Boekingstips Old Town walk'   : 'Booking tips for Old Town walk')}
+              {isPhiPhi(spoke)                && (isNl ? `Boekingstips ${spokeLabel}` : `Booking tips for ${spokeLabel}`)}
             </h2>
             <ul className="space-y-3 text-gray-800">
               {tips.map((t, i) => (
@@ -650,6 +740,11 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
                       {s === 'cooking-class'      && (isNl ? '3–4 uur, $40–80, markt + 4 gerechten' : '3–4 hours, $40–80, market + 4 dishes')}
                       {s === 'snorkeling'         && (isNl ? 'Coral / Racha / Phi Phi, $60–110' : 'Coral / Racha / Phi Phi, $60–110')}
                       {s === 'old-town'           && (isNl ? 'Sino-Portugees, 2–3 uur, $20–40' : 'Sino-Portuguese, 2–3 hours, $20–40')}
+                      {isPhiPhi(s)                && (() => {
+                        const c = PHI_PHI_CONTENT[s];
+                        const stat = c.heroStats[2] ?? c.heroStats[1] ?? c.heroStats[0];
+                        return isNl ? `${stat.labelNl}: ${stat.valueNl}` : `${stat.label}: ${stat.value}`;
+                      })()}
                     </p>
                     <p className="text-xs text-thailand-blue mt-2 font-semibold">{isNl ? 'Bekijk gids' : 'See guide'} →</p>
                   </Link>
@@ -667,7 +762,7 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
             <div className="mt-4 flex flex-wrap gap-3">
               {/* UP to pillar — anchor variation */}
               <Link href="/phuket-tours/" className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">
-                {isNl ? '🎟️ Alle 9 Phuket tours vergelijken' : '🎟️ Compare all 9 Phuket tours'}
+                {isNl ? '🎟️ Alle Phuket tours vergelijken' : '🎟️ Compare all Phuket tours'}
               </Link>
               {/* Cross-cluster */}
               <Link href="/yacht-charter-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">

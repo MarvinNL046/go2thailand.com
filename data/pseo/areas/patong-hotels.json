@@ -28,8 +28,16 @@
         "nl": "Wil je beachfront, dan zit je hier mis: er ligt nog een drukke straat en 3 min lopen tussen jou en het zand. De lobby en zwembad voelen in hoogseizoen druk aan — 800+ gasten bij volle bezetting. Tourbussen laden en lossen al om 6:30 voor de ingang."
       },
       "bestRoomTypes": {
-        "en": ["Privilege Pool View — for the lounge access", "Deluxe Family Room — separate kids' bunk + sofa bed", "Superior Twin — cheapest, still gets all amenities"],
-        "nl": ["Privilege Pool View — vanwege de loungetoegang", "Deluxe Family Room — apart kinder-stapelbed + slaapbank", "Superior Twin — goedkoopst, krijgt alle voorzieningen"]
+        "en": [
+          "Privilege Pool View — for the lounge access",
+          "Deluxe Family Room — separate kids' bunk + sofa bed",
+          "Superior Twin — cheapest, still gets all amenities"
+        ],
+        "nl": [
+          "Privilege Pool View — vanwege de loungetoegang",
+          "Deluxe Family Room — apart kinder-stapelbed + slaapbank",
+          "Superior Twin — goedkoopst, krijgt alle voorzieningen"
+        ]
       },
       "rating": "4.4/5 (Trip.com, 2,800+ reviews)"
     },
@@ -57,8 +65,16 @@
         "nl": "Helemaal noordkant van Patong = 20 minuten lopen of 200 THB taxi naar Bangla Road. De renovatie van 2018 heeft de kamers gemoderniseerd, maar het gebouw stamt uit de jaren 90 — kleine badkamers en dunne muren tussen kamers. Wifi is OK in lobby, traag op hogere verdiepingen."
       },
       "bestRoomTypes": {
-        "en": ["Deluxe Sea View — direct beachfront balcony", "Family Suite — connecting rooms + 2 bathrooms", "Pool Access — walk-out to the infinity pool"],
-        "nl": ["Deluxe Sea View — direct beachfront balkon", "Family Suite — connecting rooms + 2 badkamers", "Pool Access — direct vanuit kamer in infinity pool"]
+        "en": [
+          "Deluxe Sea View — direct beachfront balcony",
+          "Family Suite — connecting rooms + 2 bathrooms",
+          "Pool Access — walk-out to the infinity pool"
+        ],
+        "nl": [
+          "Deluxe Sea View — direct beachfront balkon",
+          "Family Suite — connecting rooms + 2 badkamers",
+          "Pool Access — direct vanuit kamer in infinity pool"
+        ]
       },
       "rating": "4.3/5 (Trip.com, 1,900+ reviews)"
     },
@@ -86,8 +102,16 @@
         "nl": "Kleiner (178 kamers) betekent dat het zwembad in hoogseizoen om 11:00 al vol is — ligbedden weg om 10:00. Ontbijt is apart ($25 pp) en niet bijzonder — eerder ergens ontbijten. De 'boutique' charme is duurder: je betaalt ca. 30% meer dan Grand Mercure voor vergelijkbare locatie."
       },
       "bestRoomTypes": {
-        "en": ["Indigo Suite — corner room, biggest balcony", "Premier King — best value, top-floor pool view", "Deluxe Twin — quietest, faces inner courtyard"],
-        "nl": ["Indigo Suite — hoekkamer, grootste balkon", "Premier King — beste value, topverdieping met poolview", "Deluxe Twin — rustigst, kijkt op binnenpatio"]
+        "en": [
+          "Indigo Suite — corner room, biggest balcony",
+          "Premier King — best value, top-floor pool view",
+          "Deluxe Twin — quietest, faces inner courtyard"
+        ],
+        "nl": [
+          "Indigo Suite — hoekkamer, grootste balkon",
+          "Premier King — beste value, topverdieping met poolview",
+          "Deluxe Twin — rustigst, kijkt op binnenpatio"
+        ]
       },
       "rating": "4.5/5 (Trip.com, 1,400+ reviews)"
     },
@@ -115,8 +139,16 @@
         "nl": "Zwembad klein (10m × 5m) — vanaf 11:00 vol. Ontbijt is $12 extra en mag overgeslagen. Geen gym, geen kinderclub, geen activiteitenbalie — dit is slaap + werk + buiten-eten hotel, geen resort. Lagere verdiepingen horen tot 03:00 de Soi Bangla taxi's."
       },
       "bestRoomTypes": {
-        "en": ["Studio Loft — 32m² mezzanine, top value", "Deluxe King — bigger bathroom, top floors", "Twin Standard — couples or friends sharing"],
-        "nl": ["Studio Loft — 32m² mezzanine, beste deal", "Deluxe King — grotere badkamer, topverdiepingen", "Twin Standard — koppels of vrienden samen"]
+        "en": [
+          "Studio Loft — 32m² mezzanine, top value",
+          "Deluxe King — bigger bathroom, top floors",
+          "Twin Standard — couples or friends sharing"
+        ],
+        "nl": [
+          "Studio Loft — 32m² mezzanine, beste deal",
+          "Deluxe King — grotere badkamer, topverdiepingen",
+          "Twin Standard — koppels of vrienden samen"
+        ]
       },
       "rating": "4.4/5 (Trip.com, 1,100+ reviews)"
     },
@@ -144,18 +176,550 @@
         "nl": "Koppels en party-reizigers moeten skippen — overal kinderen, ontbijt is familieluid, avondentertainment is family-show. Het Griekse-mythologie-thema komt op foto's in 2026 wat kitscherig over. 5 min lopen naar strand kruist 2 hoofdwegen — niet kinderwagen-vriendelijk."
       },
       "bestRoomTypes": {
-        "en": ["Family Lazy River Access — direct pool walkout", "Suite King Pool View — biggest balcony, sunset side", "Twin Garden — quietest, back of property"],
-        "nl": ["Family Lazy River Access — direct in pool vanuit kamer", "Suite King Pool View — grootste balkon, zonsondergang-zijde", "Twin Garden — rustigst, achterkant van het pand"]
+        "en": [
+          "Family Lazy River Access — direct pool walkout",
+          "Suite King Pool View — biggest balcony, sunset side",
+          "Twin Garden — quietest, back of property"
+        ],
+        "nl": [
+          "Family Lazy River Access — direct in pool vanuit kamer",
+          "Suite King Pool View — grootste balkon, zonsondergang-zijde",
+          "Twin Garden — rustigst, achterkant van het pand"
+        ]
       },
       "rating": "4.5/5 (Trip.com, 950+ reviews)"
+    },
+    {
+      "slug": "lub-d-phuket-patong",
+      "name": "Lub D Phuket Patong",
+      "brand": "Lub D",
+      "tier": "upper-budget",
+      "priceBand": "$35-90/night",
+      "stars": 3,
+      "rooms": 250,
+      "beachMinutes": 3,
+      "breakfast": "Available, highly-rated (Western, Asian, Continental)",
+      "pool": "1 outdoor pool",
+      "valueProp": {
+        "en": "Design-forward Thai poshtel mixing dorms and privates with a social pool deck three minutes from Patong Beach.",
+        "nl": "Designgerichte Thaise poshtel met dorms en privekamers en een sociaal zwembaddek op drie minuten lopen van het strand van Patong."
+      },
+      "whyBook": {
+        "en": "Lub D sits in central Patong, a three-minute walk to the sand on Thawewong Road and roughly seven minutes from Bangla Road, so you get the nightlife without sleeping on top of it. The brand's signature is design-led common areas: the pool deck doubles as the property's social hub, with a co-working corner, 24-hour front desk and bicycle rental that solo travellers and digital nomads actually use. Room mix runs from 4-bed female-only and mixed dorms with privacy curtains and personal lockers up to private queen and twin rooms with their own bathrooms, so couples don't have to commit to hostel life. Breakfast is paid but unusually well-reviewed for this price tier, with Western, Asian and continental options. The Thai-modern build is newer than most Patong budget stock, which means better mattresses, working aircon and decent water pressure.",
+        "nl": "Lub D ligt in het centrum van Patong, op drie minuten lopen van het zand aan Thawewong Road en ongeveer zeven minuten van de drukke uitgaansstraat Bangla Road, dus je hebt het nachtleven dichtbij zonder erbovenop te slapen. Het handelsmerk van het merk zijn de designgerichte gemeenschappelijke ruimtes: het zwembaddek fungeert ook als sociaal hart van het pand, met een co-workinghoek, 24-uurs receptie en fietsverhuur waar solo-reizigers en digital nomads echt gebruik van maken. De kamermix loopt van vrouwen-only en gemengde 4-persoons dorms met privacygordijnen en persoonlijke lockers tot private queen- en twinkamers met eigen badkamer, zodat stellen niet hoeven te kiezen voor het hostelleven. Het ontbijt is tegen betaling maar krijgt voor deze prijsklasse opvallend goede recensies, met westerse, Aziatische en continentale opties. Het Thais-moderne gebouw is nieuwer dan de meeste budgetopties in Patong, wat zich vertaalt in betere matrassen, werkende airco en behoorlijke waterdruk."
+      },
+      "whySkip": {
+        "en": "Lub D leans into hostel energy: the pool deck and bar can stay loud well past midnight, and dorm guests come and go at all hours. If you're a light sleeper, a family with kids, or just want a quiet beach holiday, this isn't your match. The standard private rooms are also compact by hotel standards.",
+        "nl": "Lub D leunt sterk op hostelsfeer: het zwembaddek en de bar blijven vaak tot na middernacht luidruchtig en dorm-gasten lopen op alle uren in en uit. Ben je een lichte slaper, reis je met kinderen of wil je gewoon een rustige strandvakantie, dan is dit niet jouw plek. De standaard privekamers zijn naar hotelmaatstaven ook compact."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Female-only Dorm — for solo female travellers wanting security and social vibes",
+          "Private Queen — for couples who want hostel pricing without bunk beds",
+          "Mixed Dorm — for digital nomads and backpackers chasing the cheapest Patong base"
+        ],
+        "nl": [
+          "Vrouwen-only Dorm — voor vrouwelijke solo-reizigers die veiligheid en sociale sfeer zoeken",
+          "Private Queen — voor stellen die hostelprijzen willen zonder stapelbed",
+          "Mixed Dorm — voor digital nomads en backpackers die de goedkoopste basis in Patong zoeken"
+        ]
+      },
+      "rating": "4.3/5 (Trip.com, 800+ reviews)",
+      "area": "Central Patong, 3-min walk to beach, 7-min walk to Bangla Road"
+    },
+    {
+      "slug": "la-flora-resort-patong",
+      "name": "La Flora Resort Patong",
+      "brand": "La Flora Resort & Spa",
+      "tier": "luxury",
+      "priceBand": "$180-380/night",
+      "stars": 5,
+      "rooms": 67,
+      "beachMinutes": 1,
+      "breakfast": "Continental, optional fee (6:30-11 AM)",
+      "pool": "1 outdoor pool",
+      "valueProp": {
+        "en": "A 67-room boutique beachfront resort on Thawewong Road with Thai-contemporary design and no cruise-ship lobby crush.",
+        "nl": "Een boetiek-strandresort met 67 kamers aan Thawewong Road, met hedendaags Thais design en zonder de drukte van een mega-resortlobby."
+      },
+      "whyBook": {
+        "en": "La Flora is a rare beachfront property on Thawewong Road, meaning the sand is genuinely a one-minute walk and you can watch sunset from the pool deck without crossing traffic. With only 67 rooms it stays intimate — check-in is fast, the pool never feels packed, and staff actually remember your name by day two. The design language is Thai-contemporary: dark woods, indoor-outdoor bathrooms in higher categories, and Deluxe Pool Access rooms that step straight into the lagoon-style pool. Bangla Road is a five-minute walk south, so you keep nightlife access without sleeping inside the noise. Spa, fitness and a beachfront bar round out a property that feels like a 5-star without behaving like a chain.",
+        "nl": "La Flora is een zeldzaam strandhotel aan Thawewong Road: het zand ligt op echt een minuut lopen en je kijkt naar de zonsondergang vanaf het zwembaddek zonder een drukke straat over te steken. Met slechts 67 kamers blijft het intiem — inchecken gaat snel, het zwembad voelt nooit vol en het personeel kent op dag twee je naam. De ontwerptaal is hedendaags Thais: donker hout, indoor-outdoor badkamers in de hogere categorieen, en Deluxe Pool Access-kamers die direct uitkomen op het lagune-zwembad. Bangla Road ligt vijf minuten lopen naar het zuiden, dus je hebt het nachtleven binnen handbereik zonder er middenin te slapen. Spa, fitness en een strandbar maken het geheel af tot een 5-sterrenhotel dat niet aanvoelt als een keten."
+      },
+      "whySkip": {
+        "en": "Breakfast is optional and paid even on most rates, which is unusual for a 5-star and adds up over a week. Bangla Road is close, which means bass-heavy nightclub thump can carry to street-side rooms on weekends. And the price band sits firmly in luxury territory — if you don't care about beachfront positioning, you'll pay less elsewhere.",
+        "nl": "Ontbijt is optioneel en op de meeste tarieven betaald, wat ongebruikelijk is voor een 5-sterrenhotel en in een week flink oploopt. Bangla Road is dichtbij, wat betekent dat de bas van nachtclubs in het weekend doordringt tot kamers aan de straatkant. En het prijsniveau zit stevig in het luxesegment — als je niets om de strandligging geeft, betaal je elders minder."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Deluxe Pool Access — for couples who want to slide straight into the pool",
+          "Grand Deluxe Sea View — for honeymooners chasing sunset balconies",
+          "Deluxe Room — for travellers who want La Flora design without the pool-access premium"
+        ],
+        "nl": [
+          "Deluxe Pool Access — voor stellen die direct het zwembad in willen stappen",
+          "Grand Deluxe Sea View — voor huwelijksreizigers die zonsondergangen vanaf het balkon willen",
+          "Deluxe Room — voor reizigers die het La Flora-design willen zonder de pool-access toeslag"
+        ]
+      },
+      "rating": "4.6/5 (Trip.com, 600+ reviews)",
+      "area": "Beachfront on Thawewong Rd, steps to Patong Beach and Bangla Road"
+    },
+    {
+      "slug": "7q-patong-beach-hotel",
+      "name": "7Q Patong Beach Hotel",
+      "brand": "7Q",
+      "tier": "midscale",
+      "priceBand": "$55-130/night",
+      "stars": 4,
+      "rooms": 180,
+      "beachMinutes": 3,
+      "breakfast": "Available, highly-rated (Chinese, American, Continental, Halal)",
+      "pool": "Rooftop infinity pool (outdoor)",
+      "valueProp": {
+        "en": "Mid-priced Patong base with a rooftop infinity pool and one of the few Halal breakfast spreads in the area.",
+        "nl": "Middenklasse-hotel in Patong met een rooftop infinity pool en een van de weinige Halal-ontbijten in de omgeving."
+      },
+      "whyBook": {
+        "en": "7Q sits three minutes' walk from Patong Beach and is physically connected to a small shopping arcade, so you can pick up sunscreen, SIM cards or a quick massage without leaving the building. The headline feature is the rooftop infinity pool, which catches the sunset over the Andaman and stays open until evening — a real upgrade for the price tier. The breakfast buffet is unusually broad, covering Chinese (the property is popular with Chinese tour groups), American, continental and a proper Halal section, which is rare anywhere in Patong. Bangla Road is a four-minute drive or 12-minute walk, close enough for a night out, far enough that you actually sleep. Rooms are functional rather than fashionable, but the bedding and aircon perform.",
+        "nl": "7Q ligt op drie minuten lopen van het strand van Patong en is fysiek verbonden met een kleine winkelpassage, dus zonnebrand, simkaarten of een snelle massage haal je zonder het gebouw te verlaten. Het paradepaardje is het rooftop infinity zwembad, dat de zonsondergang boven de Andamanzee vangt en tot in de avond open blijft — een echte opwaardering voor deze prijsklasse. Het ontbijtbuffet is opvallend breed, met Chinese gerechten (het hotel is populair bij Chinese tourgroepen), Amerikaans, continentaal en een echte Halal-sectie, wat zeldzaam is in Patong. Bangla Road ligt vier minuten rijden of twaalf minuten lopen, dichtbij genoeg voor een avondje uit en ver genoeg om echt te slapen. De kamers zijn functioneel in plaats van trendy, maar het beddengoed en de airco doen hun werk."
+      },
+      "whySkip": {
+        "en": "The standard rooms feel dated and decor hasn't been refreshed in a while, so don't expect Instagram interiors. In peak season the breakfast hall queues at 8 AM with tour groups, and the lobby is small for a 180-room property. There's no spa on-site and no full dinner restaurant — you'll be eating out every night.",
+        "nl": "De standaardkamers ogen gedateerd en het interieur is al een tijd niet vernieuwd, dus verwacht geen Instagram-waardige inrichting. In het hoogseizoen staan er om 8 uur 's ochtends rijen voor het ontbijt door tourgroepen en is de lobby klein voor een hotel met 180 kamers. Er is geen spa en geen volwaardig restaurant voor het diner — je eet elke avond buiten de deur."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Deluxe Room — for couples wanting the rooftop pool without spending big",
+          "Family Room — for parents who need two beds and breakfast included",
+          "Superior Room — for solo travellers chasing the cheapest 7Q rate"
+        ],
+        "nl": [
+          "Deluxe Room — voor stellen die het dakzwembad willen zonder veel uit te geven",
+          "Family Room — voor ouders die twee bedden en ontbijt inbegrepen nodig hebben",
+          "Superior Room — voor solo-reizigers die het goedkoopste 7Q-tarief zoeken"
+        ]
+      },
+      "rating": "4.2/5 (Trip.com, 1,500+ reviews)",
+      "area": "Connected to shopping center, 3-min walk to beach, 4-min drive to Bangla"
+    },
+    {
+      "slug": "holiday-inn-express-phuket-patong-beach-central",
+      "name": "Holiday Inn Express Phuket Patong Beach Central",
+      "brand": "IHG",
+      "tier": "upper-midscale",
+      "priceBand": "$70-150/night",
+      "stars": 3,
+      "rooms": 269,
+      "beachMinutes": 7,
+      "breakfast": "Complimentary buffet, included (6:30-10:30 AM)",
+      "pool": "1 outdoor pool",
+      "valueProp": {
+        "en": "Predictable IHG quality in central Patong with the Express Start breakfast genuinely included on every rate.",
+        "nl": "Voorspelbare IHG-kwaliteit in centraal Patong met het Express Start ontbijt echt inbegrepen bij elk tarief."
+      },
+      "whyBook": {
+        "en": "This Holiday Inn Express sits on Hat Patong Road in the middle of town, putting Bangla Road, Jungceylon mall and the beach all within a 5-7 minute walk. With 269 rooms across the IHG-standard footprint, it absorbs groups and families easily, and bookings tied to IHG One Rewards earn points without surprise resort fees. The headline value is the Express Start breakfast: a hot-and-cold buffet included on every rate, which is genuinely uncommon in Patong's midscale stock and saves a couple roughly $20-30 a day. Rooms are compact but new, with rainfall showers, fast Wi-Fi and proper blackout curtains — exactly what you want after a long-haul flight. The outdoor pool is small but well-maintained.",
+        "nl": "Deze Holiday Inn Express ligt aan Hat Patong Road midden in de stad, waardoor Bangla Road, winkelcentrum Jungceylon en het strand allemaal op 5 tot 7 minuten lopen liggen. Met 269 kamers in de standaard IHG-opzet vangt het hotel groepen en gezinnen makkelijk op, en boekingen via IHG One Rewards leveren punten op zonder verrassende resorttoeslagen. De grote winst zit in het Express Start ontbijt: een warm-en-koud buffet inbegrepen bij elk tarief, wat in de middenklasse van Patong echt ongebruikelijk is en een stel zo'n 20-30 dollar per dag bespaart. De kamers zijn compact maar nieuw, met regendouches, snelle wifi en goede verduisteringsgordijnen — precies wat je nodig hebt na een lange vlucht. Het buitenzwembad is klein maar netjes onderhouden."
+      },
+      "whySkip": {
+        "en": "It's a 5-7 minute walk to Patong Beach, not beachfront, and you'll feel that in the midday heat. The pool is small for a 269-room property and fills up quickly in peak season. \"Express\" also means there's no full-service dinner restaurant on-site, so evenings mean walking out to find food.",
+        "nl": "Het is 5 tot 7 minuten lopen naar het strand van Patong, geen strandligging dus, en dat voel je in de middaghitte. Het zwembad is klein voor een hotel met 269 kamers en zit in het hoogseizoen snel vol. \"Express\" betekent ook dat er geen volwaardig avondrestaurant in het hotel is, dus 's avonds loop je naar buiten voor eten."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Standard Queen — for solo travellers who want IHG points and breakfast included",
+          "Standard Twin — for friends sharing without sharing a bed",
+          "Family Room — for parents needing space for two adults and two kids"
+        ],
+        "nl": [
+          "Standard Queen — voor solo-reizigers die IHG-punten en ontbijt inbegrepen willen",
+          "Standard Twin — voor vrienden die een kamer delen maar geen bed",
+          "Family Room — voor ouders die ruimte nodig hebben voor twee volwassenen en twee kinderen"
+        ]
+      },
+      "rating": "4.4/5 (Trip.com, 1,200+ reviews)",
+      "area": "Hat Patong Road, central Patong"
+    },
+    {
+      "slug": "andaman-embrace-patong",
+      "name": "Andaman Embrace Patong",
+      "brand": "Independent",
+      "tier": "upscale",
+      "priceBand": "$80-170/night",
+      "stars": 5,
+      "rooms": 297,
+      "beachMinutes": 15,
+      "breakfast": "Buffet, optional fee (6:30-9:30 AM)",
+      "pool": "Outdoor pool with kids section",
+      "valueProp": {
+        "en": "Large family-friendly resort in the heart of Patong with a kid-friendly pool and Jungceylon mall on the doorstep.",
+        "nl": "Groot gezinsvriendelijk resort in het hart van Patong met een kindvriendelijk zwembad en winkelcentrum Jungceylon om de hoek."
+      },
+      "whyBook": {
+        "en": "Andaman Embrace is a 297-room independent resort recently rebranded from its previous name and now positioned as the family-friendly upscale option in central Patong. The pool layout is the headline: a main outdoor pool with a dedicated shallow kids section, which is harder to find in this price band than you'd think. Jungceylon shopping mall is a 5-minute walk for restaurants, supermarket runs and rainy-day backup, and Bangla Road sits within reasonable walking range. Rooms are larger than the Patong average, with proper family configurations including connecting doors, and the kids' club gives parents an actual break. For groups and multi-generational trips, the scale of the property — large lobby, multiple lifts, several F&B outlets — works in your favour.",
+        "nl": "Andaman Embrace is een onafhankelijk resort met 297 kamers dat recent is omgedoopt vanuit zijn vorige naam en zich nu profileert als de gezinsvriendelijke upscale-optie in centraal Patong. De zwembadopzet is het paradepaardje: een groot buitenzwembad met een apart ondiep kindergedeelte, wat in deze prijsklasse zeldzamer is dan je zou denken. Winkelcentrum Jungceylon ligt op 5 minuten lopen voor restaurants, supermarkt en regendag-back-up, en Bangla Road is binnen redelijke loopafstand. De kamers zijn groter dan het Patong-gemiddelde, met echte gezinsconfiguraties inclusief tussendeuren, en de kidsclub geeft ouders een echte adempauze. Voor groepen en meerdere generaties werkt de schaal van het pand — grote lobby, meerdere liften, verschillende restaurants — duidelijk in je voordeel."
+      },
+      "whySkip": {
+        "en": "The 15-minute walk to Patong Beach is real, and in midday heat with kids you'll end up grabbing a tuk-tuk or songthaew. Breakfast is paid on cheaper rates, which stings on a 5-star booking. And at 297 rooms the property loses the intimate, boutique feel — expect queues at check-in during peak season and a generic large-resort vibe rather than personal service.",
+        "nl": "De 15 minuten lopen naar het strand van Patong is echt, en in de middaghitte met kinderen pak je uiteindelijk een tuktuk of songthaew. Op de goedkopere tarieven moet je voor het ontbijt betalen, wat op een 5-sterrenboeking tegenvalt. En met 297 kamers verliest het pand de intieme boetiekgevoel — verwacht in het hoogseizoen rijen bij de check-in en een algemene grootresort-sfeer in plaats van persoonlijke service."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Family Room — for parents with kids using the shallow pool section",
+          "Deluxe Room — for couples who want upscale square footage at midscale prices",
+          "Connecting Rooms — for multi-generational trips needing two units side by side"
+        ],
+        "nl": [
+          "Family Room — voor ouders met kinderen die het ondiepe zwembadgedeelte gebruiken",
+          "Deluxe Room — voor stellen die upscale vierkante meters willen tegen middenklasseprijzen",
+          "Connecting Rooms — voor meergeneratiereizen die twee kamers naast elkaar nodig hebben"
+        ]
+      },
+      "rating": "4.0/5 (Trip.com, 700+ reviews)",
+      "area": "Heart of Patong, 15-min walk to Patong Beach and Bangla Road"
+    },
+    {
+      "slug": "best-western-patong-beach",
+      "name": "Best Western Patong Beach",
+      "brand": "Best Western",
+      "tier": "midscale",
+      "priceBand": "$55-110/night",
+      "stars": 4,
+      "rooms": null,
+      "beachMinutes": 15,
+      "breakfast": "Available, optional",
+      "pool": "1 outdoor pool",
+      "valueProp": {
+        "en": "Predictable mid-range chain comfort near Jungceylon mall, with BWR rewards earning and a quieter walk-back from the beach.",
+        "nl": "Voorspelbaar middenklasse-comfort van een vertrouwde keten naast Jungceylon, met BWR-spaarpunten en een rustigere terugweg vanaf het strand."
+      },
+      "whyBook": {
+        "en": "Best Western Patong sits in Patong's shopping district, a few minutes from Jungceylon mall and roughly 15 minutes on foot to the beach and Bangla Road. That distance is a feature, not a bug: rooms are noticeably quieter at night than properties closer to the bar strip, so light sleepers actually rest. The pool is modest but uncrowded, and the on-site restaurant means you don't need to hunt for breakfast on travel mornings. Loyalty travelers can earn and redeem BWR points here, which is rare in independent-heavy Patong. Standard rooms are clean and functional; pay up one tier for a refurbished room if photos of dated decor put you off.",
+        "nl": "Best Western Patong ligt in het winkelgebied van Patong, op een paar minuten van Jungceylon en ongeveer een kwartier lopen naar het strand en Bangla Road. Die afstand werkt in je voordeel: de kamers zijn 's nachts merkbaar rustiger dan hotels dichter bij de uitgaansstraat, dus lichte slapers slapen hier echt door. Het zwembad is bescheiden maar zelden druk, en het restaurant ter plekke scheelt zoeken op reisochtenden. Voor BWR-leden is dit een van de weinige plekken in Patong waar je punten spaart of verzilvert. Standaardkamers zijn schoon en functioneel; boek een categorie hoger als je gerenoveerde kamers wilt in plaats van iets oudere inrichting."
+      },
+      "whySkip": {
+        "en": "It's not beachfront — 15 minutes walking with bags or in heat is real, and most guests end up taking a tuk-tuk to and from the beach daily. Some standard rooms feel dated, the pool is small for a 4-star, and breakfast isn't included on every rate.",
+        "nl": "Het is geen hotel aan zee — een kwartier lopen met bagage of in de hitte is fors, en de meeste gasten nemen dagelijks een tuk-tuk van en naar het strand. Sommige standaardkamers ogen wat gedateerd, het zwembad is klein voor een 4-sterren, en ontbijt zit niet bij elk tarief inbegrepen."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Deluxe Room — refurbished category, worth the upgrade",
+          "Family Room — extra space for parents with kids near the mall",
+          "Superior Room — cheapest entry for BWR points-collectors"
+        ],
+        "nl": [
+          "Deluxe Room — gerenoveerde categorie, de upgrade waard",
+          "Family Room — extra ruimte voor gezinnen, vlak bij het winkelcentrum",
+          "Superior Room — goedkoopste instap voor BWR-puntenspaarders"
+        ]
+      },
+      "rating": "8.4/10 (Trip.com, 669+ reviews)",
+      "area": "Shopping district, 15-min walk to Patong Beach and Bangla Road"
+    },
+    {
+      "slug": "mt-hotel-patong",
+      "name": "MT Hotel Patong",
+      "brand": "Independent (MT Hotel)",
+      "tier": "upper-budget",
+      "priceBand": "$35-70/night",
+      "stars": 3,
+      "rooms": 27,
+      "beachMinutes": 20,
+      "breakfast": "Available; check rates",
+      "pool": "1 outdoor pool",
+      "valueProp": {
+        "en": "27-room boutique in Patong's quiet business district — cheap, calm, and built for value-seekers who don't need to be near the beach.",
+        "nl": "Boetiekhotel met 27 kamers in de zakelijke wijk van Patong — goedkoop, rustig en bedoeld voor reizigers die prijs belangrijker vinden dan een ligging aan zee."
+      },
+      "whyBook": {
+        "en": "MT Hotel is a small 27-room property tucked into Patong's business district, away from the bar noise and the beach crowds. The trade for low prices is location: at this size you get personal service, a real outdoor pool to yourself most afternoons, and rooms that are simple but clean. It's a strong pick for solo travelers, long-stay budget visitors, or anyone in town for work who'd rather sleep in silence than walk out into Bangla Road. Staff are responsive in a way bigger hotels can't match, and the small footprint means check-in is fast. If your trip is mainly about Phuket beyond Patong Beach itself, the savings here are real.",
+        "nl": "MT Hotel is een klein hotel met 27 kamers, weggestopt in de zakelijke wijk van Patong, weg van de uitgaansherrie en de strandmenigte. De prijs zegt alles over de locatie: voor dat geld krijg je persoonlijke service, een echt buitenzwembad dat je 's middags vaak voor jezelf hebt, en kamers die simpel maar netjes zijn. Een sterke keuze voor solo-reizigers, langverblijvers met budget of zakenreizigers die liever in stilte slapen dan recht op Bangla Road uitkijken. De staf reageert sneller en persoonlijker dan in grote hotels, en in- en uitchecken gaat vlot. Als je reis vooral over Phuket buiten Patong Beach zelf gaat, levert dit hotel echt geld op."
+      },
+      "whySkip": {
+        "en": "It's a 10-minute drive to Patong Beach and Bangla Road, which means a taxi or tuk-tuk every single day — that adds up fast and kills the budget advantage if you're a daily beachgoer. There's no spa, no gym, and facilities are basic. Honeymooners and guests who expect resort amenities should book elsewhere.",
+        "nl": "Het is 10 minuten rijden naar Patong Beach en Bangla Road, dus elke dag een taxi of tuk-tuk — die kosten lopen snel op en eten je prijsvoordeel op als je dagelijks naar het strand gaat. Er is geen spa, geen sportschool en de voorzieningen zijn basic. Voor huwelijksreizen of gasten die resortcomfort verwachten is dit niet het juiste adres."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Deluxe Room — best price-to-comfort balance",
+          "Superior Room — cheapest entry for solo budget travelers",
+          "Family Room — extra space when the low rate matters more than location"
+        ],
+        "nl": [
+          "Deluxe Room — beste verhouding prijs en comfort",
+          "Superior Room — goedkoopste instap voor solo-reizigers met budget",
+          "Family Room — extra ruimte als het lage tarief zwaarder weegt dan ligging"
+        ]
+      },
+      "rating": "4.0+/5 (Trip.com)",
+      "area": "Business district, 10-min drive to Patong Beach and Bangla Road"
+    },
+    {
+      "slug": "ramada-by-wyndham-phuket-deevana-patong",
+      "name": "Ramada by Wyndham Phuket Deevana Patong",
+      "brand": "Wyndham",
+      "tier": "upper-midscale",
+      "priceBand": "$85-160/night",
+      "stars": 4,
+      "rooms": null,
+      "beachMinutes": 5,
+      "breakfast": "Buffet, included on most rates (Western and Thai options)",
+      "pool": "Multiple pools, spa, 2 bars and a restaurant with terrace",
+      "valueProp": {
+        "en": "Large Wyndham resort with multiple pools, spa, and included breakfast — a 5-minute drive from the beach without paying beachfront rates.",
+        "nl": "Groot Wyndham-resort met meerdere zwembaden, spa en inbegrepen ontbijt — vijf minuten rijden van het strand zonder strandtoeslag."
+      },
+      "whyBook": {
+        "en": "Ramada Deevana sits a 5-minute drive (or about 15 minutes on foot) from Patong Beach and Bangla Road, right next to Jungceylon mall — close enough to walk for shopping and food, far enough to sleep through the bar noise. The resort layout actually delivers on its size: multiple pools mean you can usually find a quiet one, the spa is on-site, and there are two bars plus a restaurant with terrace seating. Breakfast is included on most rates and covers both Western and Thai sides properly, which sounds basic but matters for week-long stays. Wyndham Rewards members earn points here. Book a room in the renovated tower — the difference between updated and original-decor rooms is visible.",
+        "nl": "Ramada Deevana ligt vijf minuten rijden (ongeveer een kwartier lopen) van Patong Beach en Bangla Road, pal naast Jungceylon — dichtbij genoeg om te lopen voor shoppen en eten, ver genoeg om door de uitgaansherrie heen te slapen. De opzet maakt de grootte waar: door meerdere zwembaden vind je bijna altijd een rustige plek, er is een spa op het terrein en twee bars plus een restaurant met terras. Ontbijt zit bij de meeste tarieven inbegrepen en biedt zowel een serieuze westerse als Thaise hoek, wat klinkt als detail maar bij een week verblijf het verschil maakt. Wyndham Rewards-leden sparen hier punten. Boek een kamer in de gerenoveerde toren — het verschil met de originele inrichting is duidelijk zichtbaar."
+      },
+      "whySkip": {
+        "en": "You're not on the beach — 5 minutes by taxi or 15 minutes walking, and that walk is hot and traffic-heavy in season. The property can feel busy with tour groups at peak times, the lobby and pool decks get loud around check-in waves, and rooms outside the renovated tower have dated decor that doesn't match the marketing photos.",
+        "nl": "Je zit niet aan zee — vijf minuten met de taxi of een kwartier lopen, en die wandeling is in het hoogseizoen heet en druk. Het hotel kan op piekmomenten erg vol aanvoelen met groepen, de lobby en het zwembad worden luidruchtig rond check-intijden, en kamers buiten de gerenoveerde toren ogen gedateerd en niet zoals op de marketingfoto's."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Deluxe Tower Room — renovated category, biggest quality jump",
+          "Family Suite — separate space for parents and kids",
+          "Pool Access Room — short walk to the pool for couples"
+        ],
+        "nl": [
+          "Deluxe Tower Room — gerenoveerde categorie, grootste kwaliteitssprong",
+          "Family Suite — aparte ruimte voor ouders en kinderen",
+          "Pool Access Room — vlak aan het zwembad, ideaal voor stellen"
+        ]
+      },
+      "rating": "4.3/5 (Trip.com, 1,000+ reviews)",
+      "area": "5-min drive to Patong Beach and Bangla Road, near Jungceylon"
+    },
+    {
+      "slug": "patong-signature-boutique-hotel",
+      "name": "Patong Signature Boutique Hotel",
+      "brand": "Independent (Signature Hotels)",
+      "tier": "upscale",
+      "priceBand": "$120-230/night",
+      "stars": 4,
+      "rooms": null,
+      "beachMinutes": 1,
+      "breakfast": "Available, check rates",
+      "pool": "2 outdoor pools",
+      "valueProp": {
+        "en": "Beachfront boutique at the quiet end of Patong, far enough from Bangla Road to sleep but close enough to visit on your terms.",
+        "nl": "Boetiekhotel direct aan zee, aan de rustige kant van Patong — ver genoeg van Bangla Road om te slapen, dichtbij genoeg om er op je eigen moment heen te gaan."
+      },
+      "whyBook": {
+        "en": "Patong Signature is a small beachfront property at the quieter northern end of Patong Beach, where the sand is calmer and the soundtrack is waves instead of bass. Two outdoor pools sound modest until you realize the property's small size means they're rarely crowded. The 14-minute walk to Bangla Road is the real selling point: you're close enough to walk in for a night out, far enough that the noise doesn't reach your room. Couples who want a beach base without full party-zone immersion are the obvious fit, and the boutique scale gives you staff who actually remember your name by day two. Sunrise on the beach without the daytime crowds is the kind of detail you only get at this end of Patong.",
+        "nl": "Patong Signature is een klein hotel direct aan zee, aan de rustigere noordkant van Patong Beach, waar het strand kalmer is en je 's nachts golven hoort in plaats van bassen. Twee buitenzwembaden klinkt bescheiden, maar door de kleine omvang van het hotel zijn ze zelden vol. De wandeling van veertien minuten naar Bangla Road is het echte pluspunt: dichtbij genoeg om naartoe te lopen voor een avondje uit, ver genoeg om er op je kamer niets van te merken. Stellen die een strandbasis zoeken zonder midden in de uitgaanszone te zitten, vinden hier hun plek, en op deze schaal kent het personeel je naam vanaf de tweede dag. Zonsopgang aan het strand zonder de drukte overdag krijg je alleen aan deze kant van Patong."
+      },
+      "whySkip": {
+        "en": "The 14-minute walk to Bangla Road sounds fine in daylight but means a tuk-tuk back at 1am if nightlife is a big part of your plan. Smaller property = thinner amenities (no big spa, limited dining options), and there's no chain loyalty program, so points-collectors get nothing here.",
+        "nl": "Veertien minuten lopen naar Bangla Road klinkt prima overdag, maar betekent een tuk-tuk terug om één uur 's nachts als uitgaan een groot deel van je plan is. Een klein hotel betekent ook minder voorzieningen (geen grote spa, beperkte eetopties), en er is geen ketenloyaliteitsprogramma, dus puntenspaarders krijgen hier niets terug."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Beachfront Deluxe — sea view is the whole point",
+          "Pool Access Room — couples wanting privacy without a beach walk",
+          "Family Room — extra space for parents who want quiet over party"
+        ],
+        "nl": [
+          "Beachfront Deluxe — het zeezicht is waar je voor komt",
+          "Pool Access Room — stellen die privacy willen zonder eerst naar het strand te lopen",
+          "Family Room — extra ruimte voor ouders die rust boven feest kiezen"
+        ]
+      },
+      "rating": "4.4/5 (Trip.com, 800+ reviews)",
+      "area": "Quieter end of Patong Beach, beachfront, 14-min walk to Bangla Road"
+    },
+    {
+      "slug": "deevana-patong-resort-and-spa",
+      "name": "Deevana Patong Resort & Spa",
+      "brand": "Deevana Hotels",
+      "tier": "upper-midscale",
+      "priceBand": "$70-140/night",
+      "stars": 4,
+      "rooms": 235,
+      "beachMinutes": 8,
+      "breakfast": "Buffet, available (diverse menu)",
+      "pool": "1 large outdoor pool with separate kids' section",
+      "valueProp": {
+        "en": "Family-friendly Thai-design resort near Jungceylon with a generous pool and on-site spa.",
+        "nl": "Familievriendelijk resort in Thaise stijl bij Jungceylon met een ruim zwembad en eigen spa."
+      },
+      "whyBook": {
+        "en": "Deevana Patong Resort & Spa sits in the shopping district near Jungceylon mall, which makes it a practical base for families who don't want to be on top of Bangla Road's nightlife. The 235 rooms are wrapped around a tropical garden with a large free-form pool that includes a dedicated kids' section, so parents can actually relax. Standard Superior rooms are compact but well kept, while Deluxe and Pool Access categories give you more space and a step straight into the water. The buffet breakfast is broad, with Thai, Western and a few Indian options, and the on-site spa is reasonably priced for in-house guests. Because you're set back from the beach road, sleep quality at night is noticeably better than at hotels right on Bangla.",
+        "nl": "Deevana Patong Resort & Spa ligt in het winkelgebied bij Jungceylon mall, een prettige uitvalsbasis voor gezinnen die niet bovenop het uitgaansleven van Bangla Road willen zitten. De 235 kamers liggen rond een tropische tuin met een groot zwembad in vrije vorm en een apart kindergedeelte, zodat ouders ook echt tot rust komen. Superior kamers zijn compact maar netjes onderhouden, Deluxe en Pool Access categorieën bieden meer ruimte en directe toegang tot het water. Het ontbijtbuffet is uitgebreid met Thaise, westerse en wat Indiase gerechten, en de spa op het terrein is redelijk geprijsd voor hotelgasten. Omdat je iets achter de strandweg ligt, slaap je 's nachts merkbaar beter dan bij hotels direct aan Bangla."
+      },
+      "whySkip": {
+        "en": "It's a 5-minute tuk-tuk ride or a 15-minute walk to the sand, so daily beach trips add a small transport cost. The property is older and some Superior rooms feel dated, and during peak season tour groups can make the lobby and breakfast room busy.",
+        "nl": "Het is 5 minuten met de tuk-tuk of 15 minuten lopen naar het strand, dus dagelijks naar zee gaan kost iets aan vervoer. Het hotel is wat ouder en sommige Superior kamers ogen gedateerd, en in het hoogseizoen kan het door touristengroepen druk zijn in de lobby en bij het ontbijt."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Deluxe Room — best balance of price and space for couples",
+          "Pool Access Room — direct pool entry, ideal for families with kids",
+          "Family Suite — separate sleeping area for parents travelling with two children"
+        ],
+        "nl": [
+          "Deluxe Room — beste balans van prijs en ruimte voor stellen",
+          "Pool Access Room — directe toegang tot het zwembad, ideaal voor gezinnen",
+          "Family Suite — aparte slaapruimte voor ouders met twee kinderen"
+        ]
+      },
+      "rating": "4.5/5 (Trip.com, 148+ reviews)",
+      "area": "Connected to shopping center, 5-min drive to beach, near Jungceylon"
+    },
+    {
+      "slug": "deevana-plaza-phuket-patong",
+      "name": "Deevana Plaza Phuket Patong",
+      "brand": "Deevana Hotels",
+      "tier": "upper-midscale",
+      "priceBand": "$80-160/night",
+      "stars": 4,
+      "rooms": 240,
+      "beachMinutes": 10,
+      "breakfast": "Included",
+      "pool": "1 large outdoor pool (central, surrounded by mature trees)",
+      "valueProp": {
+        "en": "Central Patong four-star with a tree-shaded pool and breakfast included on most rates.",
+        "nl": "Centraal gelegen viersterrenhotel in Patong met een zwembad onder bomen en ontbijt inbegrepen op de meeste tarieven."
+      },
+      "whyBook": {
+        "en": "Deevana Plaza is the sister property to Deevana Patong Resort & Spa and sits closer to the heart of Patong, within a short walk of Jungceylon, Banzaan Market and Walking Street. The standout feature is the central pool: it's genuinely large and surrounded by mature trees, which is rare in Patong where most pools are exposed concrete decks. Rooms across Superior, Deluxe and Grand Deluxe tiers are well sized, and breakfast is included on most rate types, which keeps the daily budget honest. The location strikes a useful balance — close enough to Bangla Road to walk back from dinner, far enough that sleep isn't ruined by the bass. For couples and small families who want a real four-star feel without paying upscale prices, it's one of Patong's steadier picks.",
+        "nl": "Deevana Plaza is het zusterhotel van Deevana Patong Resort & Spa en ligt dichter bij het hart van Patong, op loopafstand van Jungceylon, Banzaan Market en Walking Street. Wat opvalt is het centrale zwembad: het is echt groot en omringd door volwassen bomen, een zeldzaamheid in Patong waar de meeste zwembaden op kale betonnen terrassen liggen. De kamers in Superior, Deluxe en Grand Deluxe categorie zijn ruim opgezet en bij de meeste tarieven is ontbijt inbegrepen, wat het dagbudget eerlijker houdt. De locatie is goed gekozen — dichtbij genoeg om na het diner terug te lopen vanaf Bangla Road, ver genoeg dat de bass je nachtrust niet verpest. Voor stellen en kleine gezinnen die echt viersterrencomfort willen zonder upscale prijzen is dit een van de stabielste keuzes in Patong."
+      },
+      "whySkip": {
+        "en": "It's still a 10-minute walk to the actual beach, and the pool can feel crowded between 11:00 and 15:00 in high season. The lobby and some public-area furniture look a little tired and could use a refresh.",
+        "nl": "Het is alsnog 10 minuten lopen naar het echte strand, en het zwembad kan tussen 11:00 en 15:00 in het hoogseizoen druk aanvoelen. De lobby en wat meubilair in de algemene ruimtes zien er wat gedateerd uit en zijn aan een opfrisbeurt toe."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Superior Room — entry-level, fine for short city-break stays",
+          "Deluxe Pool View — best value for couples wanting a view",
+          "Grand Deluxe — extra space for longer stays or small families"
+        ],
+        "nl": [
+          "Superior Room — instapcategorie, prima voor korte stedentrips",
+          "Deluxe Pool View — beste prijs-kwaliteit voor stellen die uitzicht willen",
+          "Grand Deluxe — extra ruimte voor langere verblijven of kleine gezinnen"
+        ]
+      },
+      "rating": "4.3/5 (Trip.com, 900+ reviews)",
+      "area": "Heart of Patong, near Walking Street and shopping malls"
+    },
+    {
+      "slug": "icheck-inn-residences-patong",
+      "name": "iCheck inn Residences Patong",
+      "brand": "iCheck inn",
+      "tier": "midscale",
+      "priceBand": "$55-110/night",
+      "stars": 3,
+      "rooms": 33,
+      "beachMinutes": 15,
+      "breakfast": "Buffet, optional fee (6:30-10:30 AM)",
+      "pool": "1 outdoor pool",
+      "valueProp": {
+        "en": "Compact 33-room serviced-apartment with kitchenettes — best for mid-length stays in central Patong.",
+        "nl": "Compacte 33-kamers serviced apartment met kitchenettes — ideaal voor middellange verblijven in centraal Patong."
+      },
+      "whyBook": {
+        "en": "iCheck inn Residences Patong is a small 33-unit serviced-apartment block, which makes it feel less like a hotel and more like a base. Every studio and one-bedroom comes with a kitchenette (microwave, fridge, kettle, basic utensils), which is genuinely useful if you're staying five to fourteen nights and don't want to eat out for every meal. The location is central Patong, roughly a 15-minute walk to the beach and 5 minutes to Jungceylon, so you're in the action without paying beach-front prices. There's a small outdoor pool and an optional buffet breakfast for those who want it. Because it's a residences-style property, the vibe is quieter than full-service hotels and you'll see more long-stay guests, digital nomads and returning regulars than first-time tourists.",
+        "nl": "iCheck inn Residences Patong is een klein appartementencomplex van 33 units, waardoor het minder als een hotel en meer als een uitvalsbasis aanvoelt. Elke studio en eenkamerappartement heeft een kitchenette (magnetron, koelkast, waterkoker, basisbestek), wat echt handig is als je vijf tot veertien nachten blijft en niet voor elke maaltijd uit eten wilt. De locatie is centraal Patong, ongeveer 15 minuten lopen naar het strand en 5 minuten naar Jungceylon, dus je zit in het centrum zonder strandprijzen te betalen. Er is een klein buitenzwembad en een optioneel ontbijtbuffet voor wie dat wil. Omdat het een residences-concept is, is de sfeer rustiger dan in hotels met volledige service en zie je meer lang-verblijvers, digital nomads en terugkerende gasten dan eerste-keer toeristen."
+      },
+      "whySkip": {
+        "en": "The kitchenette is basic — microwave and fridge only, no stove or oven — so real cooking isn't realistic. There's no full on-site restaurant, breakfast costs extra, and 15 minutes to the sand is a stretch in midday heat.",
+        "nl": "De kitchenette is basaal — alleen magnetron en koelkast, geen kookplaat of oven — dus echt koken is niet realistisch. Er is geen volwaardig restaurant op het terrein, ontbijt kost extra en 15 minuten naar het strand is veel in de middaghitte."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Studio Suite — solo travellers and digital nomads on 1-2 week stays",
+          "One-Bedroom Suite — couples wanting a separate living area",
+          "Deluxe Suite — extra space for longer stays of 10+ nights"
+        ],
+        "nl": [
+          "Studio Suite — alleenreizenden en digital nomads voor 1-2 weken",
+          "One-Bedroom Suite — stellen die een aparte zithoek willen",
+          "Deluxe Suite — extra ruimte voor verblijven van 10+ nachten"
+        ]
+      },
+      "rating": "4.2/5 (Trip.com, 600+ reviews)",
+      "area": "Heart of Patong, 15-min walk to Patong Beach and Jungceylon"
+    },
+    {
+      "slug": "woovo-phuket-patong",
+      "name": "Woovo Phuket Patong",
+      "brand": "Independent (Woovo Hotels)",
+      "tier": "midscale",
+      "priceBand": "$50-100/night",
+      "stars": 3,
+      "rooms": 90,
+      "beachMinutes": 15,
+      "breakfast": "Buffet, optional fee (7:00-10:00 AM)",
+      "pool": "1 outdoor pool",
+      "valueProp": {
+        "en": "Newer design-led hotel on Patong's shopping street — quieter sleep, modern rooms, walkable to Bangla.",
+        "nl": "Nieuwer designhotel aan de winkelstraat van Patong — rustige nachten, moderne kamers en op loopafstand van Bangla."
+      },
+      "whyBook": {
+        "en": "Woovo Phuket Patong is a newer Thai brand and it shows in the rooms: clean modern lines, decent mattresses, walk-in showers and a contemporary feel that most older Patong three-stars don't have. It sits on Rajpathanusorn Road in the shopping and dining district, which means you're walking distance to restaurants and Bangla Road but a meaningful step removed from the late-night noise — a real plus if you actually plan to sleep. The outdoor pool is small but well kept, and breakfast is offered as an optional buffet so light eaters aren't paying for food they skip. The 15-minute walk to the beach is honestly a bit much in midday heat; most guests grab a tuk-tuk for 100-150 THB. For travellers who care more about good design and a quiet room than beach-front access, it's a strong-value pick.",
+        "nl": "Woovo Phuket Patong is een nieuwer Thais merk en dat merk je aan de kamers: strakke moderne vormgeving, prima matrassen, inloopdouches en een eigentijdse uitstraling die de meeste oudere driesterrenhotels in Patong missen. Het ligt aan Rajpathanusorn Road in het winkel- en uitgaansgebied, dus je loopt makkelijk naar restaurants en Bangla Road maar zit net genoeg verwijderd van het lawaai 's avonds laat — een echte plus als je ook wilt slapen. Het buitenzwembad is klein maar netjes onderhouden, en ontbijt wordt als optioneel buffet aangeboden zodat lichte eters niet betalen voor wat ze overslaan. De 15 minuten lopen naar het strand zijn in de middaghitte eerlijk gezegd flink; de meeste gasten pakken een tuk-tuk voor 100-150 THB. Voor reizigers die meer waarde hechten aan goed design en een stille kamer dan aan een strandlocatie is dit een sterke prijs-kwaliteit keuze."
+      },
+      "whySkip": {
+        "en": "It's a smaller property without full resort facilities, so no kids' club, no spa and only one modest pool. Breakfast costs extra, the brand is still building its reputation, and the 15-minute walk to the sand makes it a poor fit for beach-first travellers.",
+        "nl": "Het is een kleiner hotel zonder volledige resortvoorzieningen, dus geen kinderclub, geen spa en maar één bescheiden zwembad. Ontbijt kost extra, het merk is nog bezig zijn reputatie op te bouwen, en de 15 minuten lopen naar het strand maken het ongeschikt voor strand-eerst-reizigers."
+      },
+      "bestRoomTypes": {
+        "en": [
+          "Superior Room — alleenreizenden die modern design tegen een eerlijke prijs willen",
+          "Deluxe Room — stellen die een rustige, goed ontworpen slaapkamer voorop zetten",
+          "Family Room — kleine gezinnen met een midscale budget"
+        ],
+        "nl": [
+          "Superior Room — alleenreizenden die modern design tegen een eerlijke prijs willen",
+          "Deluxe Room — stellen die een rustige, goed ontworpen slaapkamer voorop zetten",
+          "Family Room — kleine gezinnen met een midscale budget"
+        ]
+      },
+      "rating": "4.4/5 (Trip.com, 400+ reviews)",
+      "area": "Shopping district on Rajpathanusorn Rd, 15-min walk to beach and Bangla"
     }
   ],
   "extraHubHotels": [
-    { "name": "Lub d Phuket Patong", "tier": "hostel", "priceBand": "$11–25/night", "bestFor": "Solo & backpackers — best-designed hostel in Patong" },
-    { "name": "Holiday Inn Express Phuket Patong Beach Central", "tier": "midscale", "priceBand": "$70–130/night", "bestFor": "Reliable IHG basics + free breakfast" },
-    { "name": "Deevana Patong Resort & Spa", "tier": "upscale", "priceBand": "$110–200/night", "bestFor": "Quietest patch of central Patong, lush gardens" },
-    { "name": "Ramada by Wyndham Phuket Deevana Patong", "tier": "upper-midscale", "priceBand": "$80–150/night", "bestFor": "Wyndham-points + family pool layout" },
-    { "name": "La Flora Resort Patong", "tier": "upper-upscale", "priceBand": "$180–360/night", "bestFor": "Beachfront luxury, adults-leaning crowd" },
-    { "name": "Best Western Patong Beach", "tier": "midscale", "priceBand": "$70–140/night", "bestFor": "Reliable mid-tier near Jungceylon Mall" }
+    {
+      "name": "Lub d Phuket Patong",
+      "tier": "hostel",
+      "priceBand": "$11–25/night",
+      "bestFor": "Solo & backpackers — best-designed hostel in Patong"
+    },
+    {
+      "name": "Holiday Inn Express Phuket Patong Beach Central",
+      "tier": "midscale",
+      "priceBand": "$70–130/night",
+      "bestFor": "Reliable IHG basics + free breakfast"
+    },
+    {
+      "name": "Deevana Patong Resort & Spa",
+      "tier": "upscale",
+      "priceBand": "$110–200/night",
+      "bestFor": "Quietest patch of central Patong, lush gardens"
+    },
+    {
+      "name": "Ramada by Wyndham Phuket Deevana Patong",
+      "tier": "upper-midscale",
+      "priceBand": "$80–150/night",
+      "bestFor": "Wyndham-points + family pool layout"
+    },
+    {
+      "name": "La Flora Resort Patong",
+      "tier": "upper-upscale",
+      "priceBand": "$180–360/night",
+      "bestFor": "Beachfront luxury, adults-leaning crowd"
+    },
+    {
+      "name": "Best Western Patong Beach",
+      "tier": "midscale",
+      "priceBand": "$70–140/night",
+      "bestFor": "Reliable mid-tier near Jungceylon Mall"
+    }
   ]
 }

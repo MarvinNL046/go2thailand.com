@@ -41,6 +41,62 @@
       "primaryPartnerKey": "klook_old_town",
       "secondaryPartnerKey": "gyg_old_town",
       "tertiaryPartnerKey": "viator_old_town"
+    },
+    {
+      "slug": "phi-phi-day-trip",
+      "tier": "island-day-trip",
+      "primaryKeyword": "phi phi island day trip from phuket",
+      "primaryPartnerKey": "klook_phi_phi_day_trip",
+      "secondaryPartnerKey": "gyg_phi_phi_day_trip",
+      "tertiaryPartnerKey": "viator_phi_phi_day_trip"
+    },
+    {
+      "slug": "maya-bay",
+      "tier": "iconic-attraction",
+      "primaryKeyword": "maya bay tour phuket",
+      "primaryPartnerKey": "klook_maya_bay",
+      "secondaryPartnerKey": "gyg_maya_bay",
+      "tertiaryPartnerKey": "viator_maya_bay"
+    },
+    {
+      "slug": "phi-phi-snorkeling",
+      "tier": "snorkeling-day-trip",
+      "primaryKeyword": "phi phi snorkeling tour",
+      "primaryPartnerKey": "klook_phi_phi_snorkeling",
+      "secondaryPartnerKey": "gyg_phi_phi_snorkeling",
+      "tertiaryPartnerKey": "viator_phi_phi_snorkeling"
+    },
+    {
+      "slug": "phi-phi-sunset",
+      "tier": "sunset-cruise",
+      "primaryKeyword": "phi phi sunset tour",
+      "primaryPartnerKey": "klook_phi_phi_sunset",
+      "secondaryPartnerKey": "gyg_phi_phi_sunset",
+      "tertiaryPartnerKey": "viator_phi_phi_sunset"
+    },
+    {
+      "slug": "phi-phi-speedboat",
+      "tier": "speedboat-tour",
+      "primaryKeyword": "phi phi speedboat tour from phuket",
+      "primaryPartnerKey": "klook_phi_phi_speedboat",
+      "secondaryPartnerKey": "gyg_phi_phi_speedboat",
+      "tertiaryPartnerKey": "viator_phi_phi_speedboat"
+    },
+    {
+      "slug": "khai-islands",
+      "tier": "snorkeling-day-trip",
+      "primaryKeyword": "khai islands tour phuket",
+      "primaryPartnerKey": "klook_khai_islands",
+      "secondaryPartnerKey": "gyg_khai_islands",
+      "tertiaryPartnerKey": "viator_khai_islands"
+    },
+    {
+      "slug": "bamboo-island",
+      "tier": "island-stop",
+      "primaryKeyword": "phi phi bamboo island tour",
+      "primaryPartnerKey": "klook_bamboo_island",
+      "secondaryPartnerKey": "gyg_bamboo_island",
+      "tertiaryPartnerKey": "viator_bamboo_island"
     }
   ]
 }

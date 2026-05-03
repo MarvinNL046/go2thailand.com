@@ -14,11 +14,12 @@ interface Hotel {
   brand: string;
   tier: string;
   priceBand: string;
-  stars: number;
-  rooms: number;
-  beachMinutes: number;
+  stars?: number | null;
+  rooms?: number | null;
+  beachMinutes?: number | null;
   breakfast: string;
   pool: string;
+  area?: string;
   valueProp: { en: string; nl: string };
   whyBook: { en: string; nl: string };
   whySkip: { en: string; nl: string };
@@ -143,8 +144,13 @@ export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings,
     'movenpick-myth-hotel-patong-phuket': { en: 'Mövenpick Myth Patong: Family Resort Stay Review', nl: 'Mövenpick Myth Patong: Familieresort Review' },
   };
 
-  const seoTitle = isNl ? titleByHotel[hotel.slug].nl : titleByHotel[hotel.slug].en;
-  const h1 = isNl ? h1ByHotel[hotel.slug].nl : h1ByHotel[hotel.slug].en;
+  // Fallback for hotels not in the hand-curated title/h1 maps — derive from hotel.name.
+  const fallbackTitleEn = `${hotel.name} (2026): Honest Review`.slice(0, 60);
+  const fallbackTitleNl = `${hotel.name} (2026): Eerlijke Review`.slice(0, 60);
+  const fallbackH1En = `${hotel.name}: Patong Stay Review with Pricing & Tips`.slice(0, 70);
+  const fallbackH1Nl = `${hotel.name}: Patong-verblijf Review met Prijzen en Tips`.slice(0, 80);
+  const seoTitle = isNl ? (titleByHotel[hotel.slug]?.nl ?? fallbackTitleNl) : (titleByHotel[hotel.slug]?.en ?? fallbackTitleEn);
+  const h1 = isNl ? (h1ByHotel[hotel.slug]?.nl ?? fallbackH1Nl) : (h1ByHotel[hotel.slug]?.en ?? fallbackH1En);
 
   const seoDescription = isNl
     ? `Op zoek naar ${hotel.name} in Patong? Eerlijke review van prijzen (${hotel.priceBand}), kamers, locatie + 5 FAQ — geboekt en geverifieerd in 2026.`.slice(0, 155)
@@ -152,7 +158,28 @@ export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings,
 
   const canonical = `https://go2-thailand.com${isNl ? '/nl' : ''}/phuket/patong/hotels/${hotel.slug}/`;
 
-  const faqList = isNl ? FAQS_NL[hotel.slug] : FAQS_EN[hotel.slug];
+  // Auto-generate a 5-FAQ fallback for hotels not yet in the curated FAQ maps,
+  // pulling real data fields (subZone, priceBand, breakfast, pool, rating) so
+  // the page still gets per-hotel FAQ schema + visible answers.
+  function buildFallbackFaq(nlMode: boolean): { q: string; a: string }[] {
+    const beach = hotel.beachMinutes != null ? `${hotel.beachMinutes}-minute walk` : 'a short walk';
+    const beachNl = hotel.beachMinutes != null ? `${hotel.beachMinutes} min lopen` : 'op loopafstand';
+    if (nlMode) return [
+      { q: `Hoe ver is ${hotel.name} van Patong Beach?`, a: `${hotel.name} ligt op ${beachNl} van het strand van Patong en in ${hotel.area || 'centraal Patong'}. ${hotel.whySkip.nl}` },
+      { q: `Is ontbijt inbegrepen bij ${hotel.name}?`, a: `Ontbijt-status: ${hotel.breakfast}. Bekijk altijd het tarief — sommige rates inkluderen ontbijt, andere niet.` },
+      { q: `Wat kost een nacht bij ${hotel.name}?`, a: `De gemiddelde prijsklasse is ${hotel.priceBand}. Hoog-seizoen (dec–feb) en lange weekenden zitten aan de bovenkant; mei–oktober vaak 20–30% lager.` },
+      { q: `Welke kamer kan ik het beste boeken bij ${hotel.name}?`, a: `Aanbevolen kamerkeuzes: ${hotel.bestRoomTypes.nl.join('; ')}.` },
+      { q: `Wat zijn de pluspunten van ${hotel.name}?`, a: hotel.whyBook.nl },
+    ];
+    return [
+      { q: `How far is ${hotel.name} from Patong Beach?`, a: `${hotel.name} sits about a ${beach} from Patong Beach and is in ${hotel.area || 'central Patong'}. ${hotel.whySkip.en}` },
+      { q: `Is breakfast included at ${hotel.name}?`, a: `Breakfast status: ${hotel.breakfast}. Always check the rate — some include breakfast, others don't.` },
+      { q: `How much does a night at ${hotel.name} cost?`, a: `Typical price range is ${hotel.priceBand}. High season (Dec–Feb) and long weekends sit at the upper end; May–October is often 20–30% lower.` },
+      { q: `Which room should I book at ${hotel.name}?`, a: `Recommended room picks: ${hotel.bestRoomTypes.en.join('; ')}.` },
+      { q: `What's the case for booking ${hotel.name}?`, a: hotel.whyBook.en },
+    ];
+  }
+  const faqList = (isNl ? FAQS_NL[hotel.slug] : FAQS_EN[hotel.slug]) ?? buildFallbackFaq(isNl);
 
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org', '@type': 'BreadcrumbList',
