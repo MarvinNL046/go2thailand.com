@@ -1,0 +1,344 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "category": "all-inclusive",
+  "hotels": [
+    {
+      "name": "Club Med Phuket",
+      "category": "all-inclusive",
+      "priceRange": "6,300–10,000 THB pp/night (~$175–280 USD pp/night)",
+      "area": "Kata Beach (south-west Phuket)",
+      "description": "The only purpose-built all-inclusive resort on the entire island and the benchmark by which every other Phuket package is measured. Recently renovated pool deck. You pay one price at booking and effectively don't open your wallet on resort — meals, drinks (full open bar), and 30+ activities including flying trapeze, archery, pickleball, and snorkelling are all bundled in.",
+      "highlights": [
+        "Genuine all-inclusive — not an add-on like elsewhere",
+        "30+ activities incl. flying trapeze, circus school, watersports",
+        "Kids clubs (4+) — Petit, Mini, Junior tiers built into rate",
+        "Walking distance to Kata Beach surf and night market",
+        "Open bar — beer, wine, spirits, soft drinks, cocktails"
+      ],
+      "bestFor": [
+        "families",
+        "active travellers",
+        "first-time Thailand visitors who want zero hassle"
+      ],
+      "reviewScore": "4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Club Med Official",
+          "sourceUrl": "https://www.clubmed.us/r/phuket/y",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1215780-d595720-Reviews-Club_Med_Phuket-Karon_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DClub%20Med%20Phuket"
+    },
+    {
+      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+      "category": "all-inclusive",
+      "priceRange": "Base ~6,000 THB/night (~$167) + 1,500 THB/adult/night for AI add-on (~$42); kids 4–11: 1,000 THB (~$28)",
+      "area": "Tri Trang / Merlin Beach (just south of Patong)",
+      "description": "The most flexible 'true' all-inclusive on Phuket — book the room then layer the AI plan on top. Set on a private cove between Patong and Karon, accessible only by hotel road. You get unlimited lunch and dinner at multiple restaurants and unlimited drinks from a curated AI menu (11:00–23:00, includes alcohol).",
+      "highlights": [
+        "Private cove beach you can't access by public road",
+        "AI add-on covers alcohol (curated menu, 11:00–23:00)",
+        "10-min hotel shuttle to Patong without the noise",
+        "Multiple restaurants — variety beyond a single buffet",
+        "Free non-motorised watersports included"
+      ],
+      "bestFor": [
+        "couples",
+        "families wanting Patong access without Patong noise"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott Official AI Offer",
+          "sourceUrl": "https://www.marriott.com/offers/ultimate-all-inclusive-package-at-phuket-marriott-merlin-beach-OFF-39431/HKTMB-phuket-marriott-resort-and-spa-merlin-beach",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297930-d315568-Reviews-Phuket_Marriott_Resort_Spa_Merlin_Beach-Patong_Kathu_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPhuket%20Marriott%20Merlin%20Beach"
+    },
+    {
+      "name": "Renaissance Phuket Resort & Spa",
+      "category": "all-inclusive",
+      "priceRange": "Base from ~5,000 THB/night (~$138) + AI add-on $60–90 pp/day. Total all-in for two: ~$280–400/night",
+      "area": "Mai Khao Beach (north Phuket, ~20 min from airport)",
+      "description": "Marriott's quieter, design-led option on Mai Khao bordering Sirinat National Park. Great for couples and families who want Mai Khao's empty beach with a more boutique feel than the mega-resorts. AI menu covers breakfast plus unlimited lunch/dinner from a curated list, with handcrafted drinks 11:00–23:00 (premium menu has a surcharge).",
+      "highlights": [
+        "Pool villa accommodation options",
+        "Quan Spa and the Michelin-Guide-listed Takieng restaurant",
+        "Right next to Sirinat National Park — turtle nesting beach",
+        "Family pool with waterslide and arcade",
+        "Quieter alternative to Mai Khao's mega-resorts"
+      ],
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "design-conscious families"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott Official",
+          "sourceUrl": "https://www.marriott.com/en-us/hotels/hktbr-renaissance-phuket-resort-and-spa/overview/",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1223683-d1634352-Reviews-Renaissance_Phuket_Resort_Spa-Mai_Khao_Thalang_District_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRenaissance%20Phuket%20Resort"
+    },
+    {
+      "name": "Le Méridien Phuket Mai Khao Beach Resort",
+      "category": "all-inclusive",
+      "priceRange": "$200–350/night for the All-Inclusive Indulgence package (room category dependent)",
+      "area": "Mai Khao Beach (north Phuket)",
+      "description": "Marriott's lifestyle brand on Mai Khao with a 'lite' all-inclusive — leans toward experiences (cooking class, Muay Thai session, paddleboarding) rather than unlimited food and drink. Best read as a value-add bundle, not a Caribbean-style full AI. Package valid through 31 December 2026.",
+      "highlights": [
+        "AI Indulgence package valid through end of 2026",
+        "Includes Thai cooking class and Muay Thai session",
+        "Airport transfers and kayak/paddleboard use included",
+        "Quieter Mai Khao stretch with national-park beach",
+        "Strong cultural angle — experiences over buffets"
+      ],
+      "bestFor": [
+        "couples and families who want bundled experiences, not endless buffets"
+      ],
+      "sources": [
+        {
+          "sourceName": "Marriott AI Offer",
+          "sourceUrl": "https://www.marriott.com/offers/all-inclusive-indulgence-OFF-186248/HKTMM-hktmm-le-meridien-phuket-mai-khao-beach-resort",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "Marriott Property Page",
+          "sourceUrl": "https://www.marriott.com/en-us/hotels/hktmm-le-meridien-phuket-mai-khao-beach-resort/overview/",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DLe%20Meridien%20Phuket%20Mai%20Khao"
+    },
+    {
+      "name": "Centara Grand West Sands Resort & Villas (Splash Beach Resort)",
+      "category": "all-inclusive",
+      "priceRange": "Base from 2,632 THB/night (~$73). AI add-on rate not public — estimate $150–280/night total for two adults all-in",
+      "area": "Mai Khao Beach (15 min from airport)",
+      "description": "Phuket's biggest family/water-park resort — 47 acres, 500m of Mai Khao beachfront. Big enough that you genuinely don't need to leave. AI is an add-on rate (not the standard sale), so confirm scope when booking. Also marketed as 'Splash Beach Resort' on some channels — same property.",
+      "highlights": [
+        "Best water park on Phuket — slides, lazy river, Super Bowl",
+        "Camp Safari kids' club (4–9), E-Zone teen club",
+        "Two-bedroom suites with kitchens — strong for multi-gen families",
+        "15 min to airport — minimum transfer hassle",
+        "Beach volleyball, Thai boxing, sunset bike tours, scuba initiation"
+      ],
+      "bestFor": [
+        "families with kids 4–14",
+        "groups",
+        "long-haul travellers wanting one-stop"
+      ],
+      "sources": [
+        {
+          "sourceName": "Centara Direct Booking",
+          "sourceUrl": "https://centaragrwestsands-phuket.h-rez.com/",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "Tropical Sky",
+          "sourceUrl": "https://www.tropicalsky.co.uk/far-east-holidays/thailand/phuket/centara-grand-west-sands-resort-villas-hotel",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCentara%20Grand%20West%20Sands%20Phuket"
+    }
+  ],
+  "paaQuestions": [
+    "Does Phuket have all-inclusive resorts like the Caribbean?",
+    "Is Club Med Phuket open in 2026?",
+    "What does 'all-inclusive' actually include in Thailand?",
+    "Is it cheaper to book all-inclusive or eat out in Phuket?",
+    "Which Phuket resort has the best all-inclusive for families?"
+  ],
+  "aiContent": {
+    "hookIntro": "Most 'all-inclusive' resorts in Phuket aren't actually all-inclusive — they bundle breakfast and one set dinner, then charge you full price for everything else. We checked every property advertised as AI on the island and verified what's genuinely included versus what's marketing.",
+    "intro": "Thailand isn't a traditional all-inclusive destination — most Phuket hotels are sold room-only or bed-and-breakfast because the off-resort food scene is famously cheap and varied. Only a handful of properties on the entire island offer a true 'meals + drinks + activities' bundle, and most sell it as an optional add-on layered on top of the room rate (not a single bundled price like in the Caribbean). We verified every property below in May 2026 — what's genuinely all-inclusive, what's a marketing label, and which property to choose for your travel style.",
+    "quickAnswers": [
+      {
+        "label": "Best overall",
+        "name": "Club Med Phuket",
+        "why": "Only purpose-built all-inclusive on the island"
+      },
+      {
+        "label": "Best value",
+        "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+        "why": "Lowest entry point for true AI in low season"
+      },
+      {
+        "label": "Best for families with kids",
+        "name": "Centara Grand West Sands Resort & Villas",
+        "why": "Phuket's biggest water park and kids' club"
+      },
+      {
+        "label": "Best for couples",
+        "name": "Renaissance Phuket Resort & Spa",
+        "why": "Boutique feel with Mai Khao's empty beach"
+      }
+    ],
+    "urgencyLine": "Thailand's 300 THB tourist tax is still postponed as of May 2026 — but rollout for air arrivals is targeted for mid-2026, so factor it into your budget if booking later in the year. Source: Tourism Ministry, July 2025 statement.",
+    "comparisonTable": [
+      {
+        "name": "Club Med Phuket",
+        "area": "Kata Beach",
+        "priceBand": "€€€",
+        "bestFor": "Active families & first-timers",
+        "standout": "true all-inclusive (open bar + 30 activities)",
+        "drawback": "Spa, premium spirits and excursions cost extra"
+      },
+      {
+        "name": "Phuket Marriott Merlin Beach",
+        "area": "Tri Trang / Merlin Beach",
+        "priceBand": "€€",
+        "bestFor": "Couples wanting Patong access",
+        "standout": "private cove + AI add-on covers alcohol",
+        "drawback": "Total all-in cost swings with seasonal room rate"
+      },
+      {
+        "name": "Renaissance Phuket Mai Khao",
+        "area": "Mai Khao Beach",
+        "priceBand": "€€€",
+        "bestFor": "Couples & honeymooners",
+        "standout": "design-led, Michelin-listed restaurant",
+        "drawback": "Mai Khao is remote — taxi to anywhere off resort"
+      },
+      {
+        "name": "Le Méridien Mai Khao",
+        "area": "Mai Khao Beach",
+        "priceBand": "€€€",
+        "bestFor": "Experience-seekers (cooking class, Muay Thai)",
+        "standout": "experience-led AI bundle",
+        "drawback": "Lunch, dinner and bar drinks NOT in the AI package"
+      },
+      {
+        "name": "Centara Grand West Sands",
+        "area": "Mai Khao Beach",
+        "priceBand": "€€",
+        "bestFor": "Families with kids 4–14",
+        "standout": "Phuket's biggest water park",
+        "drawback": "AI scope varies by booking platform — confirm at booking"
+      }
+    ],
+    "decisionGuide": [
+      "If you want a true Caribbean-style all-inclusive without thinking about your wallet, choose Club Med Phuket.",
+      "If you want flexibility to add AI to a regular room booking and you drink alcohol, choose Phuket Marriott Merlin Beach.",
+      "If you want Mai Khao's empty beach with a boutique feel, choose Renaissance Phuket.",
+      "If you want included experiences (cooking class, Muay Thai) over endless buffets, choose Le Méridien Mai Khao.",
+      "If you have kids 4–14 and a water park is non-negotiable, choose Centara Grand West Sands.",
+      "If alcohol is included is a deal-breaker, only Club Med and Marriott Merlin Beach qualify — the others either skip it or charge separately."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Club Med Phuket",
+        "why": "The only purpose-built all-inclusive on Phuket — every other property on this list sells AI as an add-on layered on a regular room rate. Club Med is structured top-to-bottom on the all-inclusive model, which means meals, drinks, kids' clubs and 30+ activities are baked into the price you book.",
+        "drawback": "Buffet-heavy dining can feel repetitive on stays of 7+ nights. Spa, premium wines/spirits, off-resort excursions and childcare for under-4s are extra.",
+        "skipIf": "Skip if you're a couple who wants a quiet honeymoon — Club Med leans family/active and the activity programme runs all day.",
+        "localSignals": [
+          "On Kata Beach, south-west Phuket",
+          "20-min drive to Phuket Old Town",
+          "Walking distance to Kata night market"
+        ],
+        "travellerNote": "Recently renovated pool deck. Reviewers consistently praise the activity range and kids' clubs but flag that off-resort excursions are pricey if you book through the resort."
+      },
+      {
+        "rank": 2,
+        "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+        "why": "The most flexible AI on Phuket — book the room first, then add the AI plan as a 1,500 THB/adult/night top-up. Crucially, the AI menu includes alcohol (most other Phuket 'AI' bundles don't). Set on a private cove that you can't reach by public road, with shuttle access to Patong when you want the chaos.",
+        "drawback": "Premium spirits and bottled wine are still extra. Total cost swings with the underlying room rate, which is high in peak season.",
+        "skipIf": "Skip if you don't drink alcohol — at that point Centara West Sands or a B&B + street food gives much better value.",
+        "localSignals": [
+          "Private cove between Patong and Karon",
+          "10-min hotel shuttle to Patong",
+          "Three restaurants on resort"
+        ],
+        "travellerNote": "Reviewers like the secluded beach and the fact that AI includes drinks, but a few mention that the curated drinks list is shorter than expected."
+      },
+      {
+        "rank": 3,
+        "name": "Centara Grand West Sands Resort & Villas",
+        "why": "If you have kids 4–14 and care more about the water park than the all-inclusive label, this is the play. AI scope varies by season and channel, so confirm exactly what's included when you book. The base rate is the lowest on this list, which gives you headroom in the budget for the AI top-up or à la carte dining.",
+        "drawback": "AI scope is not standardised — you'll see different inclusions on Booking.com vs. direct booking vs. UK tour operators. Massive resort feel — not for couples seeking intimacy.",
+        "skipIf": "Skip if you want true bundled-pricing AI without surprises at check-in — go to Club Med instead.",
+        "localSignals": [
+          "47-acre resort on Mai Khao",
+          "15 min to Phuket Airport",
+          "Best water park on the island"
+        ],
+        "travellerNote": "Often marketed as both 'Centara Grand West Sands' and 'Splash Beach Resort' — same property. Reviewers love the water park; some flag that meals outside the buffet feel expensive even with AI."
+      }
+    ],
+    "topPick": "Club Med Phuket",
+    "topPickReason": "Club Med Phuket is the only purpose-built all-inclusive on the island — every other property sells AI as an optional add-on. If you want a genuine all-inclusive experience without small-print surprises, this is the only true choice.",
+    "bookingTips": [
+      "Always read the beverage clause. Most Phuket 'all-inclusive' packages cap drinks to a curated list and time window (e.g. Marriott Merlin Beach 11:00–23:00). Premium spirits and bottled wine are usually extra.",
+      "Book AI add-ons direct (Marriott, Centara, Renaissance own sites) — OTAs often only show the base room rate without the AI top-up cost surfaced.",
+      "Mai Khao is remote — you're 30+ minutes by taxi to Patong or Old Town. If you book AI in Mai Khao, lean into the resort; leaving gets expensive fast.",
+      "Compare AI vs. B&B + eating out. Phuket street food costs 60–100 THB per meal. For two adults who don't drink, B&B usually wins. For drinkers and families with picky kids, AI wins.",
+      "Children's AI rates aren't always advertised — ask. Marriott Merlin Beach: 1,000 THB/child/day for ages 4–11. Club Med has separate Petit/Mini/Junior Club tiers built into the rate.",
+      "Low-season (May–October) is when AI value peaks. Resort discounts of 30–40% stack on the AI add-on; that's when Club Med slides under $200 pp/night.",
+      "Factor 7% VAT + 10% service charge. Thai resort rates are commonly quoted '++'. A 1,500 THB AI add-on becomes ~1,765 THB at the till."
+    ],
+    "methodology": "We verified every property advertised as 'all-inclusive' on Phuket in May 2026 by checking the official hotel offer page, recent TripAdvisor reviews, and the AI menu inclusions in writing. We excluded properties that sell 'packages' covering only breakfast plus a set dinner (Katathani, Holiday Inn Mai Khao, SAii Laguna, Centara Karon) — these aren't all-inclusive in any meaningful sense, regardless of what the listing says. We weighted (1) genuine bundled pricing over à-la-carte add-ons, (2) drinks-included clauses (alcohol or none), (3) recent guest reviews, (4) value relative to the AI add-on rate. Prices and inclusions change — confirm current scope in writing before booking. Last verified May 2026.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/best-hotels/phuket/family/",
+      "/best-hotels/phuket/luxury/",
+      "/where-to-stay/phuket/",
+      "/where-to-stay/phuket/family/",
+      "/areas/phuket/mai-khao-beach/",
+      "/areas/phuket/kata-beach/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check Club Med Phuket rates'",
+      "after-comparison-table: 'Compare these resorts'",
+      "after-top-pick: 'View Club Med Phuket'"
+    ],
+    "faq": [
+      {
+        "q": "Is Phuket really an all-inclusive destination?",
+        "a": "Not in the Caribbean or Mexico sense. Only one purpose-built AI resort exists on the island (Club Med Phuket), plus a handful of properties that sell AI as an optional add-on (Marriott Merlin Beach, Renaissance, Le Méridien, Centara). Most Phuket hotels are bed-and-breakfast because Thai food off-resort is cheap and excellent — most travellers prefer the freedom to wander."
+      },
+      {
+        "q": "Does Holiday Inn Resort Phuket Mai Khao have all-inclusive?",
+        "a": "No. Despite frequent Google searches, Holiday Inn Mai Khao does not sell a true all-inclusive plan. Kids eat free at buffets and some rate plans include adult breakfast — that's it. We checked the IHG official site in May 2026."
+      },
+      {
+        "q": "Are drinks (alcohol) included at Phuket all-inclusive resorts?",
+        "a": "Only at Club Med Phuket (full open bar) and Phuket Marriott Merlin Beach (curated AI menu, 11:00–23:00). Le Méridien's 'All-Inclusive Indulgence' is experience-led and does NOT include unlimited bar. Centara West Sands and Renaissance vary by package."
+      },
+      {
+        "q": "What's the cheapest true all-inclusive on Phuket?",
+        "a": "Phuket Marriott Resort & Spa, Merlin Beach in low season — base room around $167 + 1,500 THB (~$42) per adult per night for the AI add-on. Two adults, low season: roughly $250 total per night all-in including drinks."
+      },
+      {
+        "q": "Is Club Med Phuket worth the price?",
+        "a": "For families and active travellers, yes — it's the only true all-inclusive with kids' clubs, 30+ activities, and unlimited food and drink in one bundled price. For couples on a budget, you'll often get better value at a 5-star B&B and eating out — Phuket's street food and beach restaurants are world-class."
+      }
+    ],
+    "metaTitle": "Best All-Inclusive Resorts in Phuket (2026)",
+    "metaDescription": "Only ~5 true all-inclusive resorts exist in Phuket. We verified each in May 2026 — what's actually included, what's marketing fluff, and which to choose."
+  },
+  "lastUpdated": "2026-05-03",
+  "generatedAt": "2026-05-03T12:00:00.000Z"
+}

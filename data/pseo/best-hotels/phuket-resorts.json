@@ -1,0 +1,572 @@
+{
+  "template": "best-hotels-category",
+  "citySlug": "phuket",
+  "cityName": "Phuket",
+  "category": "resorts",
+  "hotels": [
+    {
+      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+      "category": "upscale",
+      "priceRange": "5,500–12,000 THB/night (~$160–340 USD)",
+      "area": "Tri Trang / Merlin Beach (private cove south of Patong)",
+      "description": "A 414-room family resort on a private horseshoe-shaped cove just 10 minutes from Patong's nightlife but worlds removed from its chaos. Three outdoor pools (with waterslides), kids' pool, supervised childcare and five restaurants including Japanese. The Patong-proximity-without-Patong-noise pick.",
+      "highlights": [
+        "Private cove (Tri Trang) all to itself",
+        "Three pools with waterslides + dedicated kids' pool",
+        "10-min hotel shuttle to Patong nightlife",
+        "Five on-site restaurants including Japanese",
+        "Friday night fights and live music programming"
+      ],
+      "bestFor": [
+        "families",
+        "couples wanting Patong access without the noise",
+        "Marriott Bonvoy members"
+      ],
+      "reviewScore": "Strong on Booking.com (2,843 verified reviews)",
+      "sources": [
+        {
+          "sourceName": "Marriott Official",
+          "sourceUrl": "https://www.marriott.com/en-us/hotels/hktmb-phuket-marriott-resort-and-spa-merlin-beach/overview/",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g297930-d315568-Reviews-Phuket_Marriott_Resort_Spa_Merlin_Beach-Patong_Kathu_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPhuket%20Marriott%20Merlin%20Beach"
+    },
+    {
+      "name": "JW Marriott Phuket Resort & Spa",
+      "category": "luxury",
+      "priceRange": "5,500–15,500 THB/night (~$158–443 USD)",
+      "area": "Mai Khao Beach (north, 20 min from airport)",
+      "description": "The flagship Marriott resort on Mai Khao with 265 rooms and suites set in tropical gardens fronting one of Phuket's longest, quietest beaches. A go-to for North American luxury travellers. Co-located with Marriott's Phuket Beach Club so guests share facilities — multiple pools, full Mandara Spa, seven restaurants.",
+      "highlights": [
+        "Long, uncrowded Mai Khao Beach (sea-turtle nesting beach)",
+        "Multiple pools, full Mandara Spa, 7 restaurants",
+        "Strong family infrastructure and kids' programming",
+        "Co-located with Marriott Phuket Beach Club (shared facilities)",
+        "20-min drive to Phuket Airport — easy arrivals"
+      ],
+      "bestFor": [
+        "families",
+        "Marriott Bonvoy members",
+        "travellers wanting quiet luxury near the airport"
+      ],
+      "reviewScore": "Strong 2026 TripAdvisor reviews",
+      "sources": [
+        {
+          "sourceName": "Marriott Official",
+          "sourceUrl": "https://www.marriott.com/en-us/hotels/hktjw-jw-marriott-phuket-resort-and-spa/overview/",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1223683-d519702-Reviews-JW_Marriott_Phuket_Resort_Spa-Mai_Khao_Thalang_District_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DJW%20Marriott%20Phuket%20Resort"
+    },
+    {
+      "name": "The Slate, Phuket",
+      "category": "upscale",
+      "priceRange": "7,000–18,000 THB/night (~$200–520 USD)",
+      "area": "Nai Yang Beach (north, 10 min from airport)",
+      "description": "Formerly Indigo Pearl, The Slate is a 177-room (plus 7 pool villas) design-led resort built around Phuket's tin-mining heritage. Industrial-chic aesthetic that's polarising — you'll either love the moody design or wish you went somewhere brighter. Eight restaurants and bars, three pools, the renowned COQOON Spa, and a private beach club on Nai Yang.",
+      "highlights": [
+        "Award-winning industrial-chic design (tin-mining theme)",
+        "8 restaurants & bars, 3 pools, private beach club",
+        "Tin Box kids' club + COQOON Spa (one of Phuket's best)",
+        "Private pool villas available",
+        "10 min from airport — quietest of the design-led resorts"
+      ],
+      "bestFor": [
+        "couples",
+        "design-focused travellers",
+        "honeymooners wanting style over sterile luxury"
+      ],
+      "reviewScore": "9.2/10 Booking.com; 4.5/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Official Site",
+          "sourceUrl": "https://theslatephuket.com/",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1215773-d315573-Reviews-The_Slate_Phuket-Nai_Yang_Sakhu_Thalang_District_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%20Slate%20Phuket"
+    },
+    {
+      "name": "Renaissance Phuket Resort & Spa",
+      "category": "upscale",
+      "priceRange": "5,500–13,000 THB/night (~$160–375 USD)",
+      "area": "Mai Khao Beach (north Phuket, near airport)",
+      "description": "A villa-style Marriott Bonvoy resort spread along the long, quiet expanse of Mai Khao Beach. 181 rooms and pool villas, a 20–25m main pool, five restaurants (the beachfront BBQ is the standout). Pool villa accommodation makes this a strong honeymoon pick at upscale rather than ultra-luxury rates.",
+      "highlights": [
+        "Pool villa accommodation options",
+        "Outstanding beachfront BBQ in the evenings",
+        "Quan Spa and Michelin-Guide-listed Takieng restaurant",
+        "Right next to Sirinat National Park (turtle nesting beach)",
+        "4.6/5 TripAdvisor average across 1,547 reviews"
+      ],
+      "bestFor": [
+        "couples",
+        "honeymooners",
+        "travellers wanting peace, not party"
+      ],
+      "reviewScore": "4.6/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Marriott Official",
+          "sourceUrl": "https://www.marriott.com/en-us/hotels/hktbr-renaissance-phuket-resort-and-spa/overview/",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1223683-d1634352-Reviews-Renaissance_Phuket_Resort_Spa-Mai_Khao_Thalang_District_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRenaissance%20Phuket%20Resort"
+    },
+    {
+      "name": "Pullman Phuket Arcadia Karon Beach Resort",
+      "category": "mid-range",
+      "priceRange": "3,000–9,500 THB/night (~$85–270 USD)",
+      "area": "Karon Beach (across the road from the beach)",
+      "description": "REBRAND ALERT: this is the resort formerly known as Hilton Phuket Arcadia — Accor took over and rebranded it to Pullman in 2023. Currently mid-way through a phased renovation that finishes December 2026 (Sails Restaurant, Andaman Lobby and Andaman Lounge are being upgraded), so book aware. 662 rooms, five outdoor pools, three tennis courts, six restaurants — true mega-resort.",
+      "highlights": [
+        "Five pools spread across landscaped grounds",
+        "eforea Spa and full fitness facilities",
+        "Sea-view balconies in every room",
+        "662 rooms — biggest resort scale on Karon",
+        "Three tennis courts and full activity programming"
+      ],
+      "bestFor": [
+        "families",
+        "groups wanting space",
+        "mid-range buyers who want big-resort amenities"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "Accor Press Release on Rebrand",
+          "sourceUrl": "https://press.accor.com/middle-east-africa-turkey-asia-pacific/accor-to-rebrand-legendary-phuket-beach-resort-as-pullman-phuket-arcadia-karon-beach-resort/",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1215780-d305270-Reviews-Pullman_Phuket_Karon_Beach_Resort-Karon_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPullman%20Phuket%20Arcadia%20Karon"
+    },
+    {
+      "name": "Centara Grand Beach Resort Phuket",
+      "category": "mid-range",
+      "priceRange": "3,800–9,000 THB/night (~$109–260 USD)",
+      "area": "Karon Beach (south end, on a private cove)",
+      "description": "A Thai-owned resort on a private cove between Karon and Kata, best known for its lazy river and free water-park access for guests. Three on-site restaurants, swim-up bar, kayaking off the beach. Honest warning: the on-site F&B is widely flagged as the most expensive in Thailand — eat off-resort or you'll burn through your budget.",
+      "highlights": [
+        "Lazy river and dedicated waterslides",
+        "Free water-park access included for guests",
+        "Beachfront dining and direct cove access",
+        "Swim-up bar at the main pool",
+        "Strong family-resort programming"
+      ],
+      "bestFor": [
+        "families with kids",
+        "first-time visitors who want kid-pleasing pools"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor (5,725 reviews)",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1215780-d1793896-Reviews-Centara_Grand_Beach_Resort_Phuket-Karon_Phuket.html",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "Centara Direct",
+          "sourceUrl": "https://www.centarahotelsresorts.com/centaragrand/cps/",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCentara%20Grand%20Beach%20Resort%20Phuket"
+    },
+    {
+      "name": "Anantara Layan Phuket Resort",
+      "category": "ultra-luxury",
+      "priceRange": "9,500–32,000 THB/night (~$261–911 USD); pool villas higher",
+      "area": "Layan Beach (north of Bang Tao, inside Sirinat National Park)",
+      "description": "A 77-key resort opened 2014 on a beach inside a national park, with rooms, suites and standalone pool villas spread up a forested hillside. Three pools, beachfront yoga, full Anantara Spa, and a Thai medicine retreat programme. Layan is genuinely remote — 45 min from Patong — which is precisely the appeal.",
+      "highlights": [
+        "Pool villas with standalone privacy",
+        "Beach inside Sirinat National Park (tightly protected)",
+        "Beachfront yoga + Thai medicine wellness retreats",
+        "Free breakfast included on most rates",
+        "Forested hillside setting — low density"
+      ],
+      "bestFor": [
+        "honeymooners",
+        "wellness travellers",
+        "couples wanting villa-level privacy"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1224250-d641478-Reviews-Anantara_Layan_Phuket_Resort-Choeng_Thale_Thalang_District_Phuket.html",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "Business Traveller Review",
+          "sourceUrl": "https://www.businesstraveller.com/tried-tested/hotel-review-anantara-layan-phuket-resort/",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DAnantara%20Layan%20Phuket"
+    },
+    {
+      "name": "Le Méridien Phuket Beach Resort",
+      "category": "upscale",
+      "priceRange": "3,600–10,000 THB/night (~$104–290 USD)",
+      "area": "Karon Noi (Relax Bay) — a private beach south of Patong",
+      "description": "A 470-room classic-format Marriott resort that occupies almost the entire Karon Noi (Relax Bay) cove, giving it a de-facto private beach. Four pools, eight restaurants, tennis, squash, archery, mini golf — the full big-resort offering. Note: ongoing renovation work daily 10:00–17:00 with several outlets closed; check before booking.",
+      "highlights": [
+        "De-facto private beach (the whole Relax Bay)",
+        "Four pools, 8–10 dining outlets",
+        "Tennis, squash, archery, mini golf — exceptional activity range",
+        "Strong family programming and kids' clubs",
+        "Recent rooms recently renovated; some outlets still under work"
+      ],
+      "bestFor": [
+        "families",
+        "multi-generation travel",
+        "activity-focused holidays"
+      ],
+      "reviewScore": "4.0/5 TripAdvisor",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1215780-d302525-Reviews-Le_Meridien_Phuket_Beach_Resort-Karon_Phuket.html",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "Marriott Official",
+          "sourceUrl": "https://www.marriott.com/en-us/hotels/hktmd-le-meridien-phuket-beach-resort/overview/",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DLe%20Meridien%20Phuket%20Beach%20Resort"
+    },
+    {
+      "name": "Trisara Phuket",
+      "category": "ultra-luxury",
+      "priceRange": "31,000–100,000+ THB/night (~$876–2,800+ USD)",
+      "area": "Nai Thon (private peninsula, north-west Phuket)",
+      "description": "48 ocean-facing pool villas and 2–6 bedroom private residences on a secluded private bay. Free roundtrip airport shuttle, Michelin-quality dining at PRU restaurant on-property, and a level of staff-to-guest ratio that puts it among Asia's top-tier resorts. The 'don't leave the property' option for honeymooners with budget.",
+      "highlights": [
+        "Every villa has its own private pool with ocean view",
+        "PRU restaurant (Michelin-starred) on-site",
+        "Private beach in a sheltered bay",
+        "Free airport shuttle included",
+        "Staff-to-guest ratio matches the rate"
+      ],
+      "bestFor": [
+        "honeymooners with budget",
+        "privacy-seeking luxury travellers",
+        "special-occasion stays"
+      ],
+      "reviewScore": "Consistently top-rated on TripAdvisor and Luxury Escapes",
+      "sources": [
+        {
+          "sourceName": "Trisara Official",
+          "sourceUrl": "https://trisara.com/",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "TripAdvisor",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g1224250-d503191-Reviews-Trisara-Choeng_Thale_Thalang_District_Phuket.html",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DTrisara%20Phuket"
+    },
+    {
+      "name": "Mövenpick Resort & Spa Karon Beach Phuket",
+      "category": "mid-range",
+      "priceRange": "2,000–5,500 THB/night (~$59–160 USD)",
+      "area": "Karon Beach",
+      "description": "A 5-star family resort steps from Karon Beach with four pools, four restaurants and Mövenpick's signature kids' programming. Dual-branding alert: the property also markets under the name 'Paradox Resort Phuket' on several OTAs — same building, dual branding, just confusion. Best entry-level resort price on Karon.",
+      "highlights": [
+        "Four pools incl. kids' pool and indoor play area",
+        "Spa and breakfast buffet included",
+        "Strong kids' club and family programming",
+        "Best entry-level resort price on Karon",
+        "Steps from Karon Beach"
+      ],
+      "bestFor": [
+        "families with young children",
+        "budget-conscious resort buyers"
+      ],
+      "reviewScore": "Recent Feb 2026 TripAdvisor reviews positive",
+      "sources": [
+        {
+          "sourceName": "TripAdvisor (Paradox listing)",
+          "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g10804710-d309081-Reviews-Paradox_Resort_Phuket-Karon_Beach_Karon_Phuket.html",
+          "lastVerified": "2026-05-03"
+        },
+        {
+          "sourceName": "Planet of Hotels",
+          "sourceUrl": "https://en.planetofhotels.com/thailand/karon-beach/movenpick-resort-spa-karon-beach-phuket",
+          "lastVerified": "2026-05-03"
+        }
+      ],
+      "bookingUrl": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMovenpick%20Resort%20Karon%20Beach%20Phuket"
+    }
+  ],
+  "paaQuestions": [
+    "What is the best resort in Phuket?",
+    "How much does a Phuket resort cost per night in 2026?",
+    "Which area of Phuket is best for resort holidays?",
+    "Are Phuket resorts kid-friendly?",
+    "Is Phuket safe for resort holidays in 2026?"
+  ],
+  "aiContent": {
+    "hookIntro": "Most 'best Phuket resort' lists copy each other and miss the property that the resort actually rebranded into. We checked every major resort on Phuket in May 2026 — verified what's open, what's renovating, and what's worth the rate.",
+    "intro": "A Phuket resort is a self-contained holiday destination, not just a place to sleep. Where a hotel rents you a room, a resort sells you an experience: direct beach access, multiple swimming pools, three to eight on-site restaurants, a full-service spa, a kids' club, water sports, and acres of grounds you can wander without ever needing a tuk-tuk. The trade-off is that resorts are usually built outside town, so you exchange walkable nightlife for tranquillity. We picked 10 resorts spanning mid-range to ultra-luxury, all verified operating in May 2026 — and we flagged the ones that are mid-renovation so you don't get caught out.",
+    "quickAnswers": [
+      {
+        "label": "Best overall resort",
+        "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+        "why": "Private cove, three pools, 10 min from Patong"
+      },
+      {
+        "label": "Best for families",
+        "name": "JW Marriott Phuket Resort & Spa",
+        "why": "Mai Khao beach, kids' clubs, multiple pools"
+      },
+      {
+        "label": "Best mid-range value",
+        "name": "Mövenpick Resort & Spa Karon Beach",
+        "why": "Four pools, family programming, sub-$100/night possible"
+      },
+      {
+        "label": "Best for honeymoons",
+        "name": "Trisara Phuket",
+        "why": "Private pool villas on a private bay"
+      },
+      {
+        "label": "Best design-led",
+        "name": "The Slate, Phuket",
+        "why": "Industrial-chic, COQOON Spa, near airport"
+      }
+    ],
+    "urgencyLine": "Phuket Airport hit 300 daily flights in March 2026 and hotel occupancy on the island has surged 20% in recent months — TAT is targeting 6.7 million Chinese arrivals (40% growth), 1.9M Russians and 600K+ Indians in 2026. Top resorts at Mai Khao, Layan, Surin and Bang Tao are filling up faster for Christmas/New Year 2026–2027 than they have since pre-pandemic. Lock in 4–6 months out.",
+    "comparisonTable": [
+      {
+        "name": "Phuket Marriott Merlin Beach",
+        "area": "Tri Trang (south of Patong)",
+        "priceBand": "€€",
+        "bestFor": "Families, Patong-adjacent",
+        "standout": "private cove + 3 pools",
+        "drawback": "Some 2026 reviews flag 'tired' rooms"
+      },
+      {
+        "name": "JW Marriott Phuket",
+        "area": "Mai Khao Beach",
+        "priceBand": "€€€",
+        "bestFor": "Quiet luxury near airport",
+        "standout": "long uncrowded beach + 7 restaurants",
+        "drawback": "40+ min from Patong nightlife"
+      },
+      {
+        "name": "The Slate, Phuket",
+        "area": "Nai Yang Beach",
+        "priceBand": "€€€",
+        "bestFor": "Design-focused couples",
+        "standout": "industrial-chic + COQOON Spa",
+        "drawback": "Aesthetic is polarising"
+      },
+      {
+        "name": "Renaissance Phuket",
+        "area": "Mai Khao Beach",
+        "priceBand": "€€€",
+        "bestFor": "Couples, honeymooners",
+        "standout": "pool villas + beachfront BBQ",
+        "drawback": "Mai Khao is genuinely remote"
+      },
+      {
+        "name": "Pullman Phuket Arcadia Karon",
+        "area": "Karon Beach",
+        "priceBand": "€€",
+        "bestFor": "Families, mega-resort scale",
+        "standout": "5 pools, 662 rooms, big-resort feel",
+        "drawback": "Mid-renovation through Dec 2026"
+      },
+      {
+        "name": "Centara Grand Beach Resort",
+        "area": "Karon Beach",
+        "priceBand": "€€",
+        "bestFor": "Families, water park lovers",
+        "standout": "lazy river + free water park",
+        "drawback": "On-site F&B priced very high"
+      },
+      {
+        "name": "Anantara Layan",
+        "area": "Layan Beach",
+        "priceBand": "€€€€",
+        "bestFor": "Honeymooners, wellness",
+        "standout": "national-park beach + wellness retreats",
+        "drawback": "45 min from Patong (the appeal)"
+      },
+      {
+        "name": "Le Méridien Phuket Beach",
+        "area": "Karon Noi (Relax Bay)",
+        "priceBand": "€€€",
+        "bestFor": "Multi-gen, activity-focused",
+        "standout": "de-facto private beach + 8 restaurants",
+        "drawback": "Daily renovation work 10:00–17:00"
+      },
+      {
+        "name": "Trisara Phuket",
+        "area": "Nai Thon",
+        "priceBand": "€€€€€",
+        "bestFor": "Honeymooners with budget",
+        "standout": "private pool villas + Michelin PRU",
+        "drawback": "Eye-watering rates"
+      },
+      {
+        "name": "Mövenpick Karon (Paradox)",
+        "area": "Karon Beach",
+        "priceBand": "€",
+        "bestFor": "Budget-conscious families",
+        "standout": "4 pools, sub-$100/night possible",
+        "drawback": "Dual branding can confuse bookings"
+      }
+    ],
+    "decisionGuide": [
+      "If you want a private beach 10 minutes from Patong, choose Phuket Marriott Merlin Beach.",
+      "If you want quiet luxury near the airport with strong family infrastructure, choose JW Marriott Phuket.",
+      "If you care about design and want something other than generic 5-star, choose The Slate.",
+      "If you want a Mai Khao pool villa for honeymoon at upscale (not ultra-lux) rates, choose Renaissance Phuket.",
+      "If you want big-resort scale on Karon and don't mind some renovation noise, choose Pullman Phuket Arcadia Karon.",
+      "If you have kids 4–14 and a water park is non-negotiable, choose Centara Grand Beach Resort.",
+      "If you want villa privacy in a national park, choose Anantara Layan.",
+      "If you want the most activities (tennis, archery, mini golf) on a private cove, choose Le Méridien Phuket.",
+      "If money is no object and you want the gold standard, choose Trisara.",
+      "If you want resort amenities under $100/night, choose Mövenpick Karon (also marketed as Paradox)."
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+        "why": "The best balance on the island: private cove beach you can't access by road, three pools with waterslides, kids' clubs and Patong only 10 minutes by hotel shuttle. Mid-range pricing (~$160 base) with upscale facilities means it scales for solo couples through to extended families. The Tri Trang location is the genuine secret of this resort — most travellers never realise it exists because you can't reach it without going through the resort road.",
+        "drawback": "Some 2026 TripAdvisor reviews flag rooms as 'tired' and food as average for the price. Marriott Bonvoy upgrades are the workaround.",
+        "skipIf": "Skip if you want pure luxury — this is upscale family-resort, not five-star indulgence. For that, JW Marriott or Trisara fits better.",
+        "localSignals": [
+          "Private Tri Trang cove (no public road access)",
+          "10-min hotel shuttle to Patong",
+          "414 rooms across three buildings"
+        ],
+        "travellerNote": "Reviewers consistently praise the private beach and family programming; the food rating is the most polarised metric — you'll either love the variety across five restaurants or feel the prices are steep."
+      },
+      {
+        "rank": 2,
+        "name": "JW Marriott Phuket Resort & Spa",
+        "why": "If you want the quiet end of luxury and don't mind being 40+ minutes from Patong, this is Phuket's strongest big-resort luxury bet. Mai Khao Beach is genuinely uncrowded (sea-turtle nesting beach), the 265 rooms are spread across tropical gardens, and you share facilities with Marriott's Phuket Beach Club next door — effectively doubling the resort experience for free.",
+        "drawback": "Mai Khao is genuinely remote. If you want to bar-hop in Patong on a Tuesday, this isn't it. Rates spike steeply at Christmas/New Year.",
+        "skipIf": "Skip if you wanted Patong walking distance — pick Phuket Marriott Merlin Beach instead.",
+        "localSignals": [
+          "Long uncrowded Mai Khao Beach",
+          "20-min drive to Phuket Airport",
+          "Co-located with Marriott's Phuket Beach Club"
+        ],
+        "travellerNote": "2026 reviews specifically called out 'Unbelievable New Year 2026' which gives a sense of the special-occasion factor — but lock in early."
+      },
+      {
+        "rank": 3,
+        "name": "Trisara Phuket",
+        "why": "When budget isn't the constraint, Trisara is the resort. Forty-eight ocean-facing pool villas, Michelin-starred PRU on property, and a staff-to-guest ratio that makes 'private island' feel like an understatement on a peninsula you can only enter through the resort gate. Couples celebrating something specific: this is where you go.",
+        "drawback": "Rates start at ~$876/night and easily exceed $2,800. Nai Thon is remote — you really aren't leaving the property unless you need an emergency dentist.",
+        "skipIf": "Skip if you want big-resort programming and activity choice — Trisara is intentionally minimal in that direction. Go to Le Méridien for more variety.",
+        "localSignals": [
+          "Private peninsula at Nai Thon",
+          "Free roundtrip airport shuttle",
+          "PRU (Michelin-starred) on-site"
+        ],
+        "travellerNote": "Repeat guests will tell you the staff-to-guest ratio is the genuine reason they come back. The villas are the headline; the operational precision is the reason."
+      }
+    ],
+    "topPick": "Phuket Marriott Resort & Spa, Merlin Beach",
+    "topPickReason": "The best resort balance on Phuket: private cove beach, multiple pools and kids' clubs, but only 10 minutes from Patong nightlife by hotel shuttle. Mid-range pricing with upscale facilities and the Tri Trang setting that most travellers never know exists.",
+    "bookingTips": [
+      "Book high season (Nov–Apr) 4–6 months out. Top resorts on Bang Tao, Surin, Mai Khao and Layan sell out for Christmas/New Year by July, and rates jump 30–40% over low-season prices.",
+      "Travel May–October for 30–50% off the same rooms. Rain comes in short afternoon bursts, not all-day, and resorts run aggressive deals — especially May, June and September.",
+      "Most Phuket resorts charge for airport transfers separately. Free transfers exist at remote properties (Trisara, Anantara Layan, often Renaissance) but Karon/Patong resorts charge ~700–1,500 THB one way. Always confirm.",
+      "Half-board (HB) almost always beats all-inclusive on Phuket. Resorts like Centara Grand have famously expensive on-site F&B, so locking in breakfast + dinner via HB usually saves more than going full all-inclusive.",
+      "Use Marriott Bonvoy / Accor ALL points strategically. Phuket has six Marriott resorts (JW Marriott, Renaissance, Marriott Merlin, Le Méridien, Phuket Beach Club, Autograph Collection Viranda) and several Accor (Pullman, Mövenpick, Novotel) — points stays often beat cash rates outside peak weeks.",
+      "Watch for renovation disclosures. Pullman Phuket Arcadia has phased upgrades through Dec 1, 2026, and Le Méridien has daily renovation work 10:00–17:00. Read the property's 'important info' tab on Booking.com before locking in.",
+      "Factor a 300 THB tourist entry fee into your 2026 budget. Thailand's tourist tax is being fast-tracked under the new administration; air arrivals will pay 300 THB collected by the airline (with 70 THB covering accident/medical insurance). Confirm whether it's active at time of travel."
+    ],
+    "methodology": "We reviewed every major resort listed by TripAdvisor, Booking.com and Phuket-specialist editorial sites in May 2026. Selection criteria: (1) genuinely operating in 2026 (we caught the Hilton Arcadia → Pullman rebrand and the Mövenpick/Paradox dual-branding that many older lists still get wrong); (2) true 'resort' format with on-site beach, multiple pools, multi-restaurant operation, spa and activity programming; (3) verified review scores from current 2026 guest data, not aggregated scores from 2019; (4) honest renovation disclosure where relevant. We deliberately avoided overlap with our luxury-hotels page — Banyan Tree, Twinpalms and Avista Grande Karon already feature there. Last verified May 2026.",
+    "internalLinks": [
+      "/best-hotels/phuket/",
+      "/best-hotels/phuket/luxury/",
+      "/best-hotels/phuket/family/",
+      "/best-hotels/phuket/all-inclusive/",
+      "/where-to-stay/phuket/",
+      "/areas/phuket/karon-beach/",
+      "/areas/phuket/mai-khao-beach/",
+      "/areas/phuket/surin-bang-tao-laguna/",
+      "/city/phuket/"
+    ],
+    "ctaPlacements": [
+      "after-intro: 'Check Phuket Marriott Merlin rates'",
+      "after-comparison-table: 'Compare these resorts'",
+      "after-top-pick: 'View Phuket Marriott Merlin'"
+    ],
+    "faq": [
+      {
+        "q": "What's the best Phuket beach for resorts?",
+        "a": "For pure resort experience: Mai Khao (quietest — JW Marriott, Renaissance), Layan (remote luxury — Anantara), and Surin/Bang Tao (chic mid-luxury). For pools-and-amenities-on-a-busy-beach: Karon (Centara Grand, Pullman Arcadia, Mövenpick). Patong itself doesn't have many true resorts; the closest is Phuket Marriott Merlin Beach which sits on a private cove just south."
+      },
+      {
+        "q": "Are Phuket resorts walking distance to restaurants?",
+        "a": "Mostly no. Resorts on Mai Khao, Layan, Nai Thon and Pansea are deliberately isolated. Karon, Patong-adjacent, and Surin resorts often have a short walk to outside dining; Mai Khao resorts are 5–10 minutes by car or tuk-tuk to anything off-property."
+      },
+      {
+        "q": "Which Phuket resorts are best for families with kids?",
+        "a": "JW Marriott, Renaissance, Phuket Marriott Merlin Beach, Mövenpick Karon (Paradox), Centara Grand and The Slate all have strong kids' clubs, kids' pools and supervised programming. Phuket Marriott Merlin is the family favourite because it combines kids' programming with Patong proximity for parents who still want a night out."
+      },
+      {
+        "q": "Is all-inclusive common on Phuket resorts?",
+        "a": "No — half-board (breakfast + dinner) is the standard premium add-on. True all-inclusive is rare on Phuket; for the few options that genuinely qualify, see our dedicated /best-hotels/phuket/all-inclusive/ page."
+      },
+      {
+        "q": "What's the difference between a Phuket resort and a luxury hotel?",
+        "a": "Resorts are sprawling (10–60+ acres), beach-oriented, and built around the assumption you'll stay on-property. Luxury hotels can be smaller boutique properties focused on rooms and one or two outstanding restaurants. Trisara and JW Marriott are both — many Karon resorts are not 'luxury hotels' despite high prices."
+      },
+      {
+        "q": "Are renovations affecting Phuket resorts in 2026?",
+        "a": "Yes — Pullman Phuket Arcadia (until Dec 1, 2026) has Sails Restaurant, Andaman Lobby and Andaman Lounge under renovation; Le Méridien Phuket Beach Resort has daily renovation work 10:00–17:00 with several outlets closed. Always check the property's renovation notice before booking."
+      },
+      {
+        "q": "Has Hilton Phuket Arcadia closed?",
+        "a": "No — Accor took over the property in 2023 and rebranded it as Pullman Phuket Arcadia Karon Beach Resort. Same building, same beach, same room count (662). If you booked Hilton in 2022 expecting Hilton on arrival in 2026, you'll find a Pullman."
+      }
+    ],
+    "metaTitle": "Best Resorts in Phuket (2026): 10 Verified Picks",
+    "metaDescription": "10 best Phuket resorts for 2026 — from $59 mid-range to $876+ ultra-luxury. Verified May 2026 with renovation alerts and rebrand corrections."
+  },
+  "lastUpdated": "2026-05-03",
+  "generatedAt": "2026-05-03T12:00:00.000Z"
+}

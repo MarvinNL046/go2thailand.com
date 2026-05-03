@@ -87,6 +87,8 @@ const CATEGORY_LABELS: Record<string, string> = {
   couples: 'couples',
   'private-pool': 'private pool',
   'old-town': 'old town',
+  'all-inclusive': 'all-inclusive',
+  resorts: 'resort',
 };
 
 function labelInternalLink(href: string, citySlug: string, cityName: string): string {
@@ -555,10 +557,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths, fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
+export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) => {
   const city = params?.slug as string;
   const category = params?.category as string;
-  const file = path.join(process.cwd(), 'data', 'pseo', 'best-hotels', `${city}-${category}.json`);
+  const enFile = path.join(process.cwd(), 'data', 'pseo', 'best-hotels', `${city}-${category}.json`);
+  const nlFile = path.join(process.cwd(), 'data', 'pseo', 'best-hotels', 'nl', `${city}-${category}.json`);
+  const file = locale === 'nl' && fs.existsSync(nlFile) ? nlFile : enFile;
   if (!fs.existsSync(file)) return { notFound: true, revalidate: 60 };
   const data = JSON.parse(fs.readFileSync(file, 'utf8')) as PseoData;
   const { getIntentInternalLinks } = await import('../../../lib/intent-pages');
