@@ -320,16 +320,24 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
                   <tbody className="divide-y divide-gray-100">
                     {data.aiContent.comparisonTable.map((r, i) => {
                       const cta = bookingFor(hotelByName(r.name), `table-${i}`);
+                      // Hotel name itself is clickable — biggest single source of clicks per affiliate playbook
+                      const nameCell = cta ? (
+                        <a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="font-semibold text-thailand-blue hover:text-thailand-red hover:underline">
+                          {r.name}
+                        </a>
+                      ) : (
+                        <span className="font-semibold text-gray-900">{r.name}</span>
+                      );
                       return (
                         <tr key={i} className="hover:bg-gray-50">
-                          <td className="px-4 py-3 font-semibold text-gray-900">{r.name}</td>
+                          <td className="px-4 py-3">{nameCell}</td>
                           <td className="px-4 py-3 text-gray-700">{r.area}</td>
                           <td className="px-4 py-3 text-gray-700">{r.priceBand}</td>
                           <td className="px-4 py-3 text-gray-700">{r.bestFor}</td>
                           <td className="px-4 py-3 text-gray-700">{r.standout}</td>
                           <td className="px-4 py-3 text-gray-600 italic">{r.drawback}</td>
                           <td className="px-4 py-3">
-                            {cta && (<a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-thailand-red font-semibold hover:underline whitespace-nowrap">{cta.specific ? 'View deal →' : 'Search →'}</a>)}
+                            {cta && (<a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-thailand-red font-semibold hover:underline whitespace-nowrap">{cta.specific ? 'Check price →' : 'Search →'}</a>)}
                           </td>
                         </tr>
                       );
