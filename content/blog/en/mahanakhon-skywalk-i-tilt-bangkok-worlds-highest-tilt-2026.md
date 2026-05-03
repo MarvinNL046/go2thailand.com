@@ -17,7 +17,7 @@ sources:
   - name: "King Power Mahanakhon — SkyWalk"
     url: "https://kingpowermahanakhon.co.th/skywalk/"
   - name: "Tiqets — Mahanakhon Bangkok I-Tilt Tickets"
-    url: "https://www.tiqets.com/en/mahanakhon-skywalk-tickets-l147600/mahanakhon-bangkok-i-tilt-e75648/"
+    url: "https://www.tiqets.com/en/mahanakhon-skywalk-tickets-l147600/mahanakhon-bangkok-i-tilt-e75648/?partner=travelpayouts.com&tq_campaign=602467-blog-mahanakhon&tq_click_id=602467-blog-mahanakhon"
   - name: "Klook — Mahanakhon SkyWalk Ticket"
     url: "https://www.klook.com/en-US/activity/16870-king-power-mahanakhon-skywalk-ticket-bangkok/"
 ---

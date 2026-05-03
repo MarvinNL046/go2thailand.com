@@ -18,6 +18,18 @@ export const SAILY_GENERIC = 'https://saily.tpo.lv/rf9lidnE';
 export const NORDVPN_GENERIC = 'https://nordvpn.tpo.lv/ekHF1i55';
 export const NORDPASS_GENERIC = 'https://nordvpn.tpo.lv/tp12zNjC';
 export const VIATOR_GENERIC = 'https://viator.tpo.lv/TUcQTS5u';
+export const TIQETS_GENERIC = 'https://tiqets.tpo.lv/MdiS5eUO';
+
+// Wrap any tiqets.com URL with Travelpayouts affiliate params for attribution.
+// Tiqets uses direct-redirect (not tp.media/r?...). 8-11% commission tier.
+// Marker 602467 must appear in tq_campaign for TPO to credit the click.
+export function tiqetsAffiliate(tiqetsUrl: string, placement: string): string {
+  if (!tiqetsUrl.includes('tiqets.com')) return tiqetsUrl;
+  if (tiqetsUrl.includes('partner=travelpayouts.com')) return tiqetsUrl;
+  const sep = tiqetsUrl.includes('?') ? '&' : '?';
+  const safe = encodeURIComponent(placement || 'site');
+  return `${tiqetsUrl}${sep}partner=travelpayouts.com&tq_campaign=602467-${safe}&tq_click_id=602467-${safe}`;
+}
 
 // Append subid tracking parameter to affiliate URLs
 export function withSubId(url: string, subId: string): string {
