@@ -69,9 +69,12 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
     { name: route.fromName, href: `/flights-to-phuket/from/${slug}/` },
   ];
 
+  // Strip parenthetical airport names ('Bangkok (Suvarnabhumi)' → 'Bangkok')
+  // to keep title under 60 chars per Google truncation limit.
+  const shortFromName = route.fromName.replace(/\s*\([^)]*\)\s*/g, '').trim();
   const seoTitle = isNl
-    ? `Vluchten van ${route.fromName} naar Phuket (2026)`
-    : `Flights from ${route.fromName} to Phuket (${route.from}→HKT) — 2026`;
+    ? `Vluchten ${shortFromName} naar Phuket: ${route.from}→HKT Gids 2026`
+    : `Flights ${shortFromName} to Phuket: ${route.from}→HKT Guide 2026`;
   const seoDescription = isNl
     ? `Vluchten van ${route.fromName} naar Phuket: ${route.duration}, ${route.stops}, ${route.priceBand}. Vergelijk airlines en boek via Trip.com.`.slice(0, 160)
     : `Flights from ${route.fromName} to Phuket: ${route.duration}, ${route.stops}, typical fares ${route.priceBand}. Compare airlines and book via Trip.com.`.slice(0, 160);
