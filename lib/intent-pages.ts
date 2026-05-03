@@ -344,6 +344,7 @@ export function getIntentInternalLinks(context: LinkContext): IntentLink[] {
   // internal links). Anchor text varied per playbook.
   const FLIGHTS_PILLAR_CITIES = new Set(['phuket', 'bangkok', 'chiang-mai']);
   const CAR_RENTAL_PILLAR_CITIES = new Set(['phuket']);
+  const YACHT_CHARTER_PILLAR_CITIES = new Set(['phuket']);
   if (FLIGHTS_PILLAR_CITIES.has(city)) {
     links.push({
       href: `/flights-to-${city}/`,
@@ -356,6 +357,14 @@ export function getIntentInternalLinks(context: LinkContext): IntentLink[] {
     links.push({
       href: `/car-rental-${city}/`,
       label: `Car rental in ${cityName}`,
+      intent: 'city-guide',
+      pageType: 'city-guide',
+    });
+  }
+  if (YACHT_CHARTER_PILLAR_CITIES.has(city)) {
+    links.push({
+      href: `/yacht-charter-${city}/`,
+      label: `Yacht charter ${cityName}`,
       intent: 'city-guide',
       pageType: 'city-guide',
     });
