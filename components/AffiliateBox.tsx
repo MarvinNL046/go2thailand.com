@@ -1,6 +1,6 @@
 // components/AffiliateBox.tsx
 import { useRouter } from 'next/router';
-import { CityAffiliates, withSubId } from '../lib/affiliates';
+import { CityAffiliates, withSubId, TIQETS_GENERIC } from '../lib/affiliates';
 import { useSubId } from '../lib/useSubId';
 
 interface AffiliateBoxProps {
@@ -15,6 +15,7 @@ const config = (nl: boolean) => ({
     bookingLabel: (nl ? 'Zoek Hotels op Booking.com' : 'Search Hotels on Booking.com') as string | null,
     klookLabel: null as string | null,
     gygLabel: null as string | null,
+    tiqetsLabel: null as string | null,
     twelveGoLabel: null as string | null,
   },
   tours: {
@@ -22,6 +23,7 @@ const config = (nl: boolean) => ({
     bookingLabel: null as string | null,
     klookLabel: (nl ? 'Bekijk Tours op Klook' : 'Browse Tours on Klook') as string | null,
     gygLabel: (nl ? 'Bekijk Tours op GetYourGuide' : 'See Tours on GetYourGuide') as string | null,
+    tiqetsLabel: (nl ? 'Tickets via Tiqets' : 'Tickets on Tiqets') as string | null,
     twelveGoLabel: null as string | null,
   },
   activities: {
@@ -29,6 +31,7 @@ const config = (nl: boolean) => ({
     bookingLabel: null as string | null,
     klookLabel: (nl ? 'Boek op Klook' : 'Book on Klook') as string | null,
     gygLabel: (nl ? 'Boek op GetYourGuide' : 'Book on GetYourGuide') as string | null,
+    tiqetsLabel: (nl ? 'Boek op Tiqets' : 'Book on Tiqets') as string | null,
     twelveGoLabel: null as string | null,
   },
   transport: {
@@ -36,6 +39,7 @@ const config = (nl: boolean) => ({
     bookingLabel: null as string | null,
     klookLabel: null as string | null,
     gygLabel: null as string | null,
+    tiqetsLabel: null as string | null,
     twelveGoLabel: (nl ? 'Boek Bussen, Treinen & Veerboten op 12Go' : 'Book Buses, Trains & Ferries on 12Go') as string | null,
   },
 });
@@ -77,6 +81,16 @@ export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBo
             className="inline-flex items-center gap-2 bg-[#1B9E3E] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#157a30] transition-colors"
           >
             {c.gygLabel}
+          </a>
+        )}
+        {c.tiqetsLabel && (
+          <a
+            href={withSubId(TIQETS_GENERIC, subId)}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            className="inline-flex items-center gap-2 bg-[#5C0FB1] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#4a0d8e] transition-colors"
+          >
+            {c.tiqetsLabel}
           </a>
         )}
         {c.twelveGoLabel && (
