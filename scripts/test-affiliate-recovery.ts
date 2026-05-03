@@ -19,7 +19,7 @@ const visaConfig = getTravelpayoutsRecoveryConfig({
 });
 
 assert.equal(visaConfig.intent, 'visa');
-assert.deepEqual(visaConfig.buttonIds.slice(0, 4), ['trip_hotels', 'booking_hotels', 'twelvego_transport', 'nordvpn']);
+assert.deepEqual(visaConfig.buttonIds.slice(0, 4), ['trip_hotels', 'twelvego_transport', 'nordvpn']);
 
 const transportConfig = getTravelpayoutsRecoveryConfig({
   pageType: 'transport',
@@ -28,14 +28,14 @@ const transportConfig = getTravelpayoutsRecoveryConfig({
 });
 
 assert.equal(transportConfig.intent, 'transport');
-assert.deepEqual(transportConfig.buttonIds.slice(0, 3), ['twelvego_transport', 'trip_hotels', 'booking_hotels']);
+assert.deepEqual(transportConfig.buttonIds.slice(0, 3), ['twelvego_transport', 'trip_hotels']);
 
 const homeConfig = getTravelpayoutsRecoveryConfig({
   pageType: 'home',
 });
 
 assert.equal(homeConfig.intent, 'default');
-assert.deepEqual(homeConfig.buttonIds.slice(0, 5), ['trip_hotels', 'booking_hotels', 'klook_tours', 'twelvego_transport', 'nordvpn']);
+assert.deepEqual(homeConfig.buttonIds.slice(0, 5), ['trip_hotels', 'klook_tours', 'twelvego_transport', 'nordvpn']);
 
 const guideConfig = getTravelpayoutsRecoveryConfig({
   pageType: 'guide',
@@ -43,7 +43,7 @@ const guideConfig = getTravelpayoutsRecoveryConfig({
 });
 
 assert.equal(guideConfig.intent, 'default');
-assert.deepEqual(guideConfig.buttonIds.slice(0, 4), ['trip_hotels', 'booking_hotels', 'klook_tours', 'saily_esim']);
+assert.deepEqual(guideConfig.buttonIds.slice(0, 4), ['trip_hotels', 'klook_tours', 'saily_esim']);
 
 const compareConfig = getTravelpayoutsRecoveryConfig({
   pageType: 'compare',
@@ -51,7 +51,7 @@ const compareConfig = getTravelpayoutsRecoveryConfig({
 });
 
 assert.equal(compareConfig.intent, 'default');
-assert.deepEqual(compareConfig.buttonIds.slice(0, 4), ['trip_hotels', 'booking_hotels', 'twelvego_transport', 'klook_tours']);
+assert.deepEqual(compareConfig.buttonIds.slice(0, 4), ['trip_hotels', 'twelvego_transport', 'klook_tours']);
 
 const cityConfig = getTravelpayoutsRecoveryConfig({
   pageType: 'city',
@@ -60,7 +60,7 @@ const cityConfig = getTravelpayoutsRecoveryConfig({
 });
 
 assert.equal(cityConfig.intent, 'hotels');
-assert.deepEqual(cityConfig.buttonIds.slice(0, 4), ['trip_hotels', 'booking_hotels', 'klook_tours', 'twelvego_transport']);
+assert.deepEqual(cityConfig.buttonIds.slice(0, 4), ['trip_hotels', 'klook_tours', 'twelvego_transport']);
 
 const practicalConfig = getTravelpayoutsRecoveryConfig({
   pageType: 'practical',
@@ -68,7 +68,7 @@ const practicalConfig = getTravelpayoutsRecoveryConfig({
 });
 
 assert.equal(practicalConfig.intent, 'default');
-assert.deepEqual(practicalConfig.buttonIds.slice(0, 5), ['trip_hotels', 'booking_hotels', 'twelvego_transport', 'saily_esim', 'nordvpn']);
+assert.deepEqual(practicalConfig.buttonIds.slice(0, 5), ['trip_hotels', 'twelvego_transport', 'saily_esim', 'nordvpn']);
 
 const itineraryConfig = getTravelpayoutsRecoveryConfig({
   pageType: 'itinerary',
@@ -77,7 +77,7 @@ const itineraryConfig = getTravelpayoutsRecoveryConfig({
 });
 
 assert.equal(itineraryConfig.intent, 'default');
-assert.deepEqual(itineraryConfig.buttonIds.slice(0, 5), ['trip_hotels', 'booking_hotels', 'twelvego_transport', 'klook_tours', 'saily_esim']);
+assert.deepEqual(itineraryConfig.buttonIds.slice(0, 5), ['trip_hotels', 'twelvego_transport', 'klook_tours', 'saily_esim']);
 
 const archiveConfig = getTravelpayoutsRecoveryConfig({
   pageType: 'blog',
@@ -86,7 +86,7 @@ const archiveConfig = getTravelpayoutsRecoveryConfig({
 });
 
 assert.equal(archiveConfig.intent, 'transport');
-assert.deepEqual(archiveConfig.buttonIds.slice(0, 4), ['twelvego_transport', 'trip_hotels', 'booking_hotels', 'klook_tours']);
+assert.deepEqual(archiveConfig.buttonIds.slice(0, 4), ['twelvego_transport', 'trip_hotels', 'klook_tours']);
 
 assert.equal(
   withSubId('https://booking.tpo.lv/2PT1kR82?subid=blog-index', 'blog-index-prefooter'),

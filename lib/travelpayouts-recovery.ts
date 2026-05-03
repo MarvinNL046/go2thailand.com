@@ -88,7 +88,7 @@ export function getTravelpayoutsRecoveryConfig(
         en: 'Quick exits for hotels, tours, transport, eSIM, and travel security.',
         nl: 'Snelle exits voor hotels, tours, transport, eSIM en reisveiligheid.',
       },
-      buttonIds: ['trip_hotels', 'booking_hotels', 'klook_tours', 'twelvego_transport', 'nordvpn', 'saily_esim'],
+      buttonIds: ['trip_hotels', 'klook_tours', 'twelvego_transport', 'nordvpn', 'saily_esim'],
     };
   }
 
@@ -103,7 +103,7 @@ export function getTravelpayoutsRecoveryConfig(
         en: 'Surface the fastest hotel, activities, and transport exits before readers scroll deep into the guide.',
         nl: 'Toon de snelste exits voor hotels, activiteiten en transport voordat lezers diep in de gids scrollen.',
       },
-      buttonIds: ['trip_hotels', 'booking_hotels', 'klook_tours', 'twelvego_transport', 'saily_esim'],
+      buttonIds: ['trip_hotels', 'klook_tours', 'twelvego_transport', 'saily_esim'],
     };
   }
 
@@ -118,7 +118,7 @@ export function getTravelpayoutsRecoveryConfig(
         en: 'Practical planning pages should still drive quick clicks into hotels, transport, eSIM, and travel security.',
         nl: 'Praktische pagina’s moeten nog steeds snelle clicks sturen naar hotels, transport, eSIM en reisveiligheid.',
       },
-      buttonIds: ['trip_hotels', 'booking_hotels', 'twelvego_transport', 'saily_esim', 'nordvpn', 'nordpass'],
+      buttonIds: ['trip_hotels', 'twelvego_transport', 'saily_esim', 'nordvpn', 'nordpass'],
     };
   }
 
@@ -133,7 +133,7 @@ export function getTravelpayoutsRecoveryConfig(
         en: 'Once readers choose a destination, give them a direct path to hotels, transport, and tours.',
         nl: 'Zodra lezers een bestemming kiezen, geef ze een directe route naar hotels, transport en tours.',
       },
-      buttonIds: ['trip_hotels', 'booking_hotels', 'twelvego_transport', 'klook_tours', 'nordvpn'],
+      buttonIds: ['trip_hotels', 'twelvego_transport', 'klook_tours', 'nordvpn'],
     };
   }
 
@@ -148,7 +148,7 @@ export function getTravelpayoutsRecoveryConfig(
         en: 'Itinerary readers already have a route. Convert that planning intent into hotels, transport, tours, and connectivity.',
         nl: 'Reisroutelezers hebben hun route al. Zet die planning-intent om in hotels, transport, tours en connectiviteit.',
       },
-      buttonIds: ['trip_hotels', 'booking_hotels', 'twelvego_transport', 'klook_tours', 'saily_esim', 'nordvpn'],
+      buttonIds: ['trip_hotels', 'twelvego_transport', 'klook_tours', 'saily_esim', 'nordvpn'],
     };
   }
 
@@ -163,7 +163,7 @@ export function getTravelpayoutsRecoveryConfig(
         en: 'Practical guides should still lead into hotels, tours, and connected travel tools.',
         nl: 'Praktische gidsen moeten nog steeds doorleiden naar hotels, tours en verbonden reishulpmiddelen.',
       },
-      buttonIds: ['trip_hotels', 'booking_hotels', 'klook_tours', 'saily_esim', 'nordvpn'],
+      buttonIds: ['trip_hotels', 'klook_tours', 'saily_esim', 'nordvpn'],
     };
   }
 
@@ -178,7 +178,7 @@ export function getTravelpayoutsRecoveryConfig(
         en: 'Visa sorted. Keep your hotels, transport, and online security in one place.',
         nl: 'Visum geregeld. Houd je hotels, transport en online veiligheid bij elkaar.',
       },
-      buttonIds: ['trip_hotels', 'booking_hotels', 'twelvego_transport', 'nordvpn', 'nordpass', 'klook_tours'],
+      buttonIds: ['trip_hotels', 'twelvego_transport', 'nordvpn', 'nordpass', 'klook_tours'],
     };
   }
 
@@ -193,7 +193,7 @@ export function getTravelpayoutsRecoveryConfig(
         en: 'Capture the route click, then line up hotels and activities at your destination.',
         nl: 'Pak de routeklik mee en regel daarna hotels en activiteiten op je bestemming.',
       },
-      buttonIds: ['twelvego_transport', 'trip_hotels', 'booking_hotels', 'klook_tours'],
+      buttonIds: ['twelvego_transport', 'trip_hotels', 'klook_tours'],
     };
   }
 
@@ -209,7 +209,7 @@ export function getTravelpayoutsRecoveryConfig(
           en: 'Protect your trip, then line up hotels and transport before you go.',
           nl: 'Bescherm je reis en regel daarna je hotels en transport voor vertrek.',
         },
-        buttonIds: ['nordvpn', 'nordpass', 'trip_hotels', 'booking_hotels', 'twelvego_transport'],
+        buttonIds: ['nordvpn', 'nordpass', 'trip_hotels', 'twelvego_transport'],
       };
     case 'transport':
       return {
@@ -222,7 +222,7 @@ export function getTravelpayoutsRecoveryConfig(
           en: 'Start with transport, then compare hotels nearby for the arrival city.',
           nl: 'Begin met transport en vergelijk daarna hotels in de aankomststad.',
         },
-        buttonIds: ['twelvego_transport', 'trip_hotels', 'booking_hotels', 'klook_tours'],
+        buttonIds: ['twelvego_transport', 'trip_hotels', 'klook_tours'],
       };
     case 'food':
     case 'beach':
@@ -236,7 +236,7 @@ export function getTravelpayoutsRecoveryConfig(
           en: 'Keep tours first, then support them with hotels and onward transport.',
           nl: 'Zet tours voorop en ondersteun die daarna met hotels en vervolgtransport.',
         },
-        buttonIds: ['klook_tours', 'gyg_tours', 'trip_hotels', 'booking_hotels', 'twelvego_transport'],
+        buttonIds: ['klook_tours', 'gyg_tours', 'trip_hotels', 'twelvego_transport'],
       };
     case 'hotels':
       return {
@@ -249,7 +249,7 @@ export function getTravelpayoutsRecoveryConfig(
           en: 'Keep the hotel decision fast, then offer tours and transport as follow-on clicks.',
           nl: 'Houd de hotelkeuze snel en bied daarna tours en transport aan als vervolgklik.',
         },
-        buttonIds: ['trip_hotels', 'booking_hotels', 'klook_tours', 'twelvego_transport', 'nordvpn'],
+        buttonIds: ['trip_hotels', 'klook_tours', 'twelvego_transport', 'nordvpn'],
       };
     default:
       return {
@@ -262,7 +262,7 @@ export function getTravelpayoutsRecoveryConfig(
           en: 'Give readers a fast path to hotels, tours, transport, and travel security.',
           nl: 'Geef lezers een snelle route naar hotels, tours, transport en reisveiligheid.',
         },
-        buttonIds: ['trip_hotels', 'booking_hotels', 'klook_tours', 'twelvego_transport', 'nordvpn'],
+        buttonIds: ['trip_hotels', 'klook_tours', 'twelvego_transport', 'nordvpn'],
       };
   }
 }

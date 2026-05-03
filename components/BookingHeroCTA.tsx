@@ -60,9 +60,6 @@ function getCtaContent(intent: BookingIntent, cityName?: string, locale?: string
         primaryHref: TRIP_GENERIC,
         primaryPlacement: 'hero-hotels-primary',
         primaryLabel: nl ? 'Zoeken op Trip.com' : 'Search on Trip.com',
-        secondaryHref: BOOKING_GENERIC,
-        secondaryPlacement: 'hero-hotels-secondary',
-        secondaryLabel: 'Booking.com',
       };
     case 'transport':
       return {
