@@ -1,0 +1,26 @@
+{
+  "lastUpdated": "2026-05-03",
+  "spokes": [
+    {
+      "slug": "luxury",
+      "tier": "luxury",
+      "primaryKeyword": "luxury yacht charter phuket",
+      "primaryPartnerKey": "klook_luxury",
+      "secondaryPartnerKey": "viator_yacht_search"
+    },
+    {
+      "slug": "phi-phi",
+      "tier": "destination",
+      "primaryKeyword": "yacht charter phuket phi phi",
+      "primaryPartnerKey": "klook_yacht",
+      "secondaryPartnerKey": "viator_daycruise"
+    },
+    {
+      "slug": "similan",
+      "tier": "destination",
+      "primaryKeyword": "yacht charter phuket similan",
+      "primaryPartnerKey": "klook_luxury",
+      "secondaryPartnerKey": "viator_yacht_search"
+    }
+  ]
+}

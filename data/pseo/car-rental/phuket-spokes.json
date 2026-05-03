@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "2026-05-03",
+  "spokes": [
+    {
+      "slug": "airport",
+      "primaryPartner": "dc_airport",
+      "primaryKeyword": "phuket airport car rental",
+      "primaryKeywordNl": "huurauto Phuket Airport"
+    },
+    {
+      "slug": "long-term",
+      "primaryPartner": "dc_phuket",
+      "primaryKeyword": "long term car rental phuket",
+      "primaryKeywordNl": "auto huren Phuket lange termijn"
+    },
+    {
+      "slug": "automatic",
+      "primaryPartner": "dc_phuket",
+      "primaryKeyword": "automatic car rental phuket",
+      "primaryKeywordNl": "automaat huren Phuket"
+    }
+  ]
+}
