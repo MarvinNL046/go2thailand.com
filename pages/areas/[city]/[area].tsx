@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import { getAffiliates, withPlacementSubId, TRIP_GENERIC } from '../../../lib/affiliates';
+import { getAffiliates, withPlacementSubId, TRIP_GENERIC, tripcomAffiliate } from '../../../lib/affiliates';
 
 /**
  * PSEO Fase 2: /areas/[city]/[area]/
@@ -89,7 +89,10 @@ export default function AreaPage({ data }: Props) {
   const norm = (s?: string) => (s || '').trim().toLowerCase();
 
   const bookingForHotel = (h: Hotel | undefined, placement: string): { url: string; specific: boolean } | null => {
-    if (h?.bookingUrl) return { url: withPlacementSubId(h.bookingUrl, subId, placement), specific: true };
+    if (h?.bookingUrl) {
+      const fixed = tripcomAffiliate(h.bookingUrl, placement);
+      return { url: withPlacementSubId(fixed, subId, placement), specific: true };
+    }
     // Fallback: Trip.com generic (30-day cookie). User excluded Booking on hotel CTAs.
     return { url: withPlacementSubId(aff?.trip ?? TRIP_GENERIC, subId, placement), specific: false };
   };

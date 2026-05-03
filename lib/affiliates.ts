@@ -21,6 +21,30 @@ export const NORDPASS_GENERIC = 'https://nordvpn.tpo.lv/tp12zNjC';
 export const VIATOR_GENERIC = 'https://viator.tpo.lv/TUcQTS5u';
 export const TIQETS_GENERIC = 'https://tiqets.tpo.lv/MdiS5eUO';
 
+// Wrap any trip.com URL with Travelpayouts affiliate params (SID + allianceid).
+// Trip.com uses direct query-string params (NOT tp.media/r? — confirmed via
+// TRIP_GENERIC short link redirect chain). 30-day cookie attribution.
+// Fixes legacy tp.media/r?p=7631&u=trip.com... URLs by extracting and rebuilding.
+const TRIP_SID = '2209817';
+const TRIP_ALLIANCE_ID = '1094387';
+const TRIP_MARKER = '602467';
+export function tripcomAffiliate(url: string, placement?: string): string {
+  if (!url) return url;
+  let target = url;
+  // Recover trip.com URL from old broken tp.media/r?p=7631&u=... format
+  if (url.includes('tp.media/r')) {
+    const m = url.match(/[?&]u=([^&]+)/);
+    if (m) {
+      try { target = decodeURIComponent(m[1]); } catch { return url; }
+    }
+  }
+  if (!target.includes('trip.com')) return url;
+  if (target.includes('SID=' + TRIP_SID)) return target;
+  const sep = target.includes('?') ? '&' : '?';
+  const sub = encodeURIComponent(placement || 'site');
+  return `${target}${sep}SID=${TRIP_SID}&allianceid=${TRIP_ALLIANCE_ID}&trip_sub1=${TRIP_MARKER}-${sub}&utm_campaign=${TRIP_MARKER}`;
+}
+
 // Wrap any tiqets.com URL with Travelpayouts middleware redirect for tracking.
 // Tiqets program at TPO: p=2074, campaign_id=89. 8-11% commission tier.
 // Same tp.media/r? pattern as Booking (p=4114) and Trip.com (p=7631).

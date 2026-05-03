@@ -8,7 +8,7 @@ import FounderNote from '../../../components/editorial/FounderNote';
 import EditorialSchema from '../../../components/editorial/EditorialSchema';
 import EditorialMeta from '../../../components/editorial/EditorialMeta';
 import IntentInternalLinks, { IntentInternalLinkItem } from '../../../components/IntentInternalLinks';
-import { getAffiliates, withPlacementSubId, TIQETS_GENERIC, TRIP_GENERIC } from '../../../lib/affiliates';
+import { getAffiliates, withPlacementSubId, TIQETS_GENERIC, TRIP_GENERIC, tripcomAffiliate } from '../../../lib/affiliates';
 import { getEditorialUpdatedAt } from '../../../lib/pseo-editorial-date';
 
 /**
@@ -133,7 +133,11 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
   // promising "Check rates – <hotel name>" which would mislead users who
   // expect to land on that hotel's Booking page, not the city search.
   const bookingFor = (h: Hotel | undefined, placement: string): { url: string; specific: boolean } | null => {
-    if (h?.bookingUrl) return { url: withPlacementSubId(h.bookingUrl, subId, placement), specific: true };
+    if (h?.bookingUrl) {
+      // Auto-correct old broken tp.media/r?p=7631 → proper Trip.com SID/allianceid URL
+      const fixed = tripcomAffiliate(h.bookingUrl, placement);
+      return { url: withPlacementSubId(fixed, subId, placement), specific: true };
+    }
     // Fallback: Trip.com generic (30-day cookie). User explicitly excluded Booking on hotel CTAs.
     return { url: withPlacementSubId(aff?.trip ?? TRIP_GENERIC, subId, placement), specific: false };
   };
