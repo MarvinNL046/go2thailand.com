@@ -17,6 +17,18 @@ import citiesData from '../../data/cities/index.json';
 import ContentBridge from '../../components/ContentBridge';
 import BookingHeroCTA from '../../components/BookingHeroCTA';
 
+interface RouteData {
+  from: string;
+  to: string;
+  slug: string;
+  distance: string;
+  duration: { flight?: string; bus?: string; train?: string; ferry?: string; car?: string; taxi?: string };
+  popular?: boolean;
+  flightPartnerUrl?: string;
+  fromIata?: string;
+  toIata?: string;
+}
+
 interface TransportOption {
   method: string;
   duration: string;
@@ -289,18 +301,32 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                     </ul>
                   </div>
 
-                  <div className="mt-4 bg-surface-cream p-3 rounded-xl flex items-center justify-between">
+                  <div className="mt-4 bg-surface-cream p-3 rounded-xl flex flex-wrap items-center justify-between gap-2">
                     <span className="text-sm text-gray-600">
                       <strong>{t('Frequency:', 'Frequentie:')}</strong> {option.frequency}
                     </span>
-                    <a
-                      href={twelveGoUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
-                    >
-                      {t('Book on 12Go', 'Boek op 12Go')} →
-                    </a>
+                    {/* Flight options use Trip.com partner URL; everything else uses 12Go */}
+                    {option.method.toLowerCase().includes('flight') || option.method.toLowerCase().includes('vlucht') ? (
+                      route.flightPartnerUrl ? (
+                        <a
+                          href={route.flightPartnerUrl}
+                          target="_blank"
+                          rel="noopener noreferrer nofollow sponsored"
+                          className="bg-[#287dfa] text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-[#1a5ec4] transition-colors"
+                        >
+                          {t('Find flights on Trip.com', 'Vluchten op Trip.com')} →
+                        </a>
+                      ) : null
+                    ) : (
+                      <a
+                        href={twelveGoUrl}
+                        target="_blank"
+                        rel="noopener noreferrer nofollow sponsored"
+                        className="bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
+                      >
+                        {t('Book on 12Go', 'Boek op 12Go')} →
+                      </a>
+                    )}
                   </div>
                 </div>
               ))}

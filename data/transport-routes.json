@@ -97,7 +97,10 @@
         "train": "12-15 hours",
         "car": "9-10 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/cfaCcS8n",
+      "fromIata": "BKK",
+      "toIata": "CNX"
     },
     {
       "from": "bangkok",
@@ -109,7 +112,10 @@
         "bus": "10-12 hours",
         "train": "15+ hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/A0iZ5aIy",
+      "fromIata": "BKK",
+      "toIata": "CEI"
     },
     {
       "from": "bangkok",
@@ -146,7 +152,10 @@
         "bus": "12-14 hours",
         "train": "12-15 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/P5O9SGBh",
+      "fromIata": "BKK",
+      "toIata": "USM"
     },
     {
       "from": "bangkok",
@@ -158,7 +167,10 @@
         "bus": "11-13 hours",
         "car": "10-11 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/TteaAVYi",
+      "fromIata": "BKK",
+      "toIata": "KBV"
     },
     {
       "from": "bangkok",
@@ -193,7 +205,10 @@
         "bus": "12-14 hours",
         "car": "10-12 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/Udffgvxj",
+      "fromIata": "BKK",
+      "toIata": "HKT"
     },
     {
       "from": "chiang-mai",
@@ -218,7 +233,10 @@
         "train": "12-15 hours",
         "car": "9-10 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/fD8BrqnC",
+      "fromIata": "CNX",
+      "toIata": "BKK"
     },
     {
       "from": "chiang-mai",
@@ -243,7 +261,10 @@
         "train": "19-27 hours",
         "car": "10-13 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/dX5V72zc",
+      "fromIata": "CNX",
+      "toIata": "HHQ"
     },
     {
       "from": "chiang-mai",
@@ -266,7 +287,10 @@
         "bus": "19-26 hours",
         "car": "15-19 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/igu11efl",
+      "fromIata": "CNX",
+      "toIata": "USM"
     },
     {
       "from": "chiang-mai",
@@ -276,7 +300,10 @@
       "duration": {
         "flight": "2 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/Hl9lcmnk",
+      "fromIata": "CNX",
+      "toIata": "KBV"
     },
     {
       "from": "chiang-mai",
@@ -300,7 +327,10 @@
         "bus": "13-17 hours",
         "car": "10-13 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/ljulDsE6",
+      "fromIata": "CNX",
+      "toIata": "UTP"
     },
     {
       "from": "chiang-rai",
@@ -312,7 +342,10 @@
         "bus": "13-17 hours",
         "car": "10-13 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/Z0rpohI8",
+      "fromIata": "CEI",
+      "toIata": "BKK"
     },
     {
       "from": "chiang-rai",
@@ -325,7 +358,10 @@
         "taxi": "2-3 hours",
         "car": "2-3 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/3Dns6gOt",
+      "fromIata": "CEI",
+      "toIata": "CNX"
     },
     {
       "from": "chiang-rai",
@@ -347,7 +383,10 @@
       "duration": {
         "flight": "2 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/U9VzsFh1",
+      "fromIata": "CEI",
+      "toIata": "HKT"
     },
     {
       "from": "hua-hin",
@@ -386,7 +425,10 @@
         "train": "19-27 hours",
         "car": "10-13 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/Dl6YYjkN",
+      "fromIata": "HHQ",
+      "toIata": "CNX"
     },
     {
       "from": "hua-hin",
@@ -410,7 +452,10 @@
         "bus": "10-13 hours",
         "car": "7-9 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/zCUpm5Fb",
+      "fromIata": "HHQ",
+      "toIata": "KBV"
     },
     {
       "from": "hua-hin",
@@ -434,7 +479,10 @@
         "bus": "10-14 hours",
         "car": "8-10 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/d1KuN3tx",
+      "fromIata": "HHQ",
+      "toIata": "HKT"
     },
     {
       "from": "kanchanaburi",
@@ -516,7 +564,10 @@
         "bus": "9-12 hours",
         "car": "7-9 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/LEWJNpCF",
+      "fromIata": "USM",
+      "toIata": "BKK"
     },
     {
       "from": "koh-samui",
@@ -528,7 +579,10 @@
         "bus": "19-26 hours",
         "car": "15-19 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/mAi0fdLS",
+      "fromIata": "USM",
+      "toIata": "CNX"
     },
     {
       "from": "koh-samui",
@@ -542,7 +596,10 @@
         "car": "3-4 hours",
         "ferry": "3-5 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/EzOBU7ft",
+      "fromIata": "USM",
+      "toIata": "KBV"
     },
     {
       "from": "koh-samui",
@@ -556,7 +613,10 @@
         "car": "4-5 hours",
         "ferry": "3-5 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/Yc6FuVFs",
+      "fromIata": "USM",
+      "toIata": "HKT"
     },
     {
       "from": "krabi",
@@ -568,7 +628,10 @@
         "bus": "11-13 hours",
         "car": "10-11 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/pM7fhCyy",
+      "fromIata": "KBV",
+      "toIata": "BKK"
     },
     {
       "from": "krabi",
@@ -578,7 +641,10 @@
       "duration": {
         "flight": "2 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/9dvexo8v",
+      "fromIata": "KBV",
+      "toIata": "CNX"
     },
     {
       "from": "krabi",
@@ -590,7 +656,10 @@
         "bus": "10-13 hours",
         "car": "7-9 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/b0yEYUIN",
+      "fromIata": "KBV",
+      "toIata": "HHQ"
     },
     {
       "from": "krabi",
@@ -604,7 +673,10 @@
         "car": "3-4 hours",
         "ferry": "3-5 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/nNJ6tXeq",
+      "fromIata": "KBV",
+      "toIata": "USM"
     },
     {
       "from": "krabi",
@@ -616,7 +688,10 @@
         "bus": "11-14 hours",
         "car": "8-11 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/y4RSVPgF",
+      "fromIata": "KBV",
+      "toIata": "UTP"
     },
     {
       "from": "krabi",
@@ -722,7 +797,10 @@
         "bus": "13-17 hours",
         "car": "10-13 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/NORlk5mk",
+      "fromIata": "UTP",
+      "toIata": "CNX"
     },
     {
       "from": "pattaya",
@@ -758,7 +836,10 @@
         "bus": "11-14 hours",
         "car": "8-11 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/LdJFIy3w",
+      "fromIata": "UTP",
+      "toIata": "KBV"
     },
     {
       "from": "phuket",
@@ -781,7 +862,10 @@
         "bus": "12-14 hours",
         "car": "10-12 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/YAAkuhfI",
+      "fromIata": "HKT",
+      "toIata": "BKK"
     },
     {
       "from": "phuket",
@@ -791,7 +875,10 @@
       "duration": {
         "flight": "2 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/nbXIJRFK",
+      "fromIata": "HKT",
+      "toIata": "CNX"
     },
     {
       "from": "phuket",
@@ -801,7 +888,10 @@
       "duration": {
         "flight": "2 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/GKHCfnGL",
+      "fromIata": "HKT",
+      "toIata": "CEI"
     },
     {
       "from": "phuket",
@@ -813,7 +903,10 @@
         "bus": "10-14 hours",
         "car": "8-10 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/3UkXHgqX",
+      "fromIata": "HKT",
+      "toIata": "HHQ"
     },
     {
       "from": "phuket",
@@ -838,7 +931,10 @@
         "car": "4-5 hours",
         "ferry": "3-5 hours"
       },
-      "popular": true
+      "popular": true,
+      "flightPartnerUrl": "https://trip.tpo.lv/IABGVEao",
+      "fromIata": "HKT",
+      "toIata": "USM"
     },
     {
       "from": "phuket",
@@ -961,7 +1057,10 @@
         "train": "11-15 hours",
         "car": "6-7 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/zGjYmiIO",
+      "fromIata": "BKK",
+      "toIata": "CJM"
     },
     {
       "from": "bangkok",
@@ -974,7 +1073,10 @@
         "train": "15-17 hours",
         "car": "11-12 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/4avEkusr",
+      "fromIata": "BKK",
+      "toIata": "HDY"
     },
     {
       "from": "bangkok",
@@ -987,7 +1089,10 @@
         "train": "10-15 hours",
         "car": "6-7 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/8JYG8EVc",
+      "fromIata": "BKK",
+      "toIata": "KKC"
     },
     {
       "from": "bangkok",
@@ -1000,7 +1105,10 @@
         "train": "14-20 hours",
         "car": "7-9 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/bUELgnSI",
+      "fromIata": "BKK",
+      "toIata": "LPT"
     },
     {
       "from": "bangkok",
@@ -1025,7 +1133,10 @@
         "bus": "13-17 hours",
         "car": "10-12 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/oh5vFnfz",
+      "fromIata": "BKK",
+      "toIata": "HGN"
     },
     {
       "from": "bangkok",
@@ -1048,7 +1159,10 @@
         "bus": "11-15 hours",
         "car": "9-11 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/UwaJD8rA",
+      "fromIata": "BKK",
+      "toIata": "KOP"
     },
     {
       "from": "bangkok",
@@ -1075,7 +1189,10 @@
         "train": "16-23 hours",
         "car": "9-11 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/Cn7uv9af",
+      "fromIata": "BKK",
+      "toIata": "NST"
     },
     {
       "from": "bangkok",
@@ -1100,7 +1217,10 @@
         "train": "9-13 hours",
         "car": "5-6 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/oxVFk6jD",
+      "fromIata": "BKK",
+      "toIata": "PHS"
     },
     {
       "from": "bangkok",
@@ -1124,7 +1244,10 @@
         "bus": "7-8 hours",
         "car": "6-7 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/gOxuv2Kj",
+      "fromIata": "BKK",
+      "toIata": "THS"
     },
     {
       "from": "bangkok",
@@ -1137,7 +1260,10 @@
         "train": "11-13 hours",
         "car": "8-9 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/FGFRXqkW",
+      "fromIata": "BKK",
+      "toIata": "URT"
     },
     {
       "from": "bangkok",
@@ -1150,7 +1276,10 @@
         "train": "19-27 hours",
         "car": "10-13 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/xCA3nhW6",
+      "fromIata": "BKK",
+      "toIata": "TST"
     },
     {
       "from": "bangkok",
@@ -1175,7 +1304,10 @@
         "train": "13-19 hours",
         "car": "7-9 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/9Pv9jZ9B",
+      "fromIata": "BKK",
+      "toIata": "UBP"
     },
     {
       "from": "bangkok",
@@ -1188,7 +1320,10 @@
         "train": "13-19 hours",
         "car": "7-9 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/pkzZyynh",
+      "fromIata": "BKK",
+      "toIata": "UTH"
     },
     {
       "from": "bueng-kan",
@@ -1368,7 +1503,10 @@
         "train": "13-19 hours",
         "car": "7-9 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/iX1OF54w",
+      "fromIata": "CNX",
+      "toIata": "KKC"
     },
     {
       "from": "chiang-mai",
@@ -1407,7 +1545,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/3uLdS9B9",
+      "fromIata": "CNX",
+      "toIata": "PHS"
     },
     {
       "from": "chiang-mai",
@@ -1419,7 +1560,10 @@
         "bus": "20-24 hours",
         "car": "16-18 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/JE6opoUZ",
+      "fromIata": "CNX",
+      "toIata": "HKT"
     },
     {
       "from": "chiang-mai",
@@ -1443,7 +1587,10 @@
         "train": "12-17 hours",
         "car": "6-8 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/ocOS4ylu",
+      "fromIata": "CNX",
+      "toIata": "UTH"
     },
     {
       "from": "chiang-rai",
@@ -1468,7 +1615,10 @@
         "taxi": "3 hours",
         "car": "3 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/dyEEI5WH",
+      "fromIata": "CEI",
+      "toIata": "LPT"
     },
     {
       "from": "chiang-rai",
@@ -1481,7 +1631,10 @@
         "taxi": "3-4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/HHSDop7g",
+      "fromIata": "CEI",
+      "toIata": "HGN"
     },
     {
       "from": "chumphon",
@@ -1495,7 +1648,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/Vrucidko",
+      "fromIata": "CJM",
+      "toIata": "HHQ"
     },
     {
       "from": "chumphon",
@@ -1522,7 +1678,10 @@
         "car": "4-5 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/z0v9WpYP",
+      "fromIata": "CJM",
+      "toIata": "KBV"
     },
     {
       "from": "hat-yai",
@@ -1535,7 +1694,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/DuHNmOuZ",
+      "fromIata": "HDY",
+      "toIata": "USM"
     },
     {
       "from": "hat-yai",
@@ -1548,7 +1710,10 @@
         "taxi": "3-4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/Sn6zOE2H",
+      "fromIata": "HDY",
+      "toIata": "KBV"
     },
     {
       "from": "hat-yai",
@@ -1562,7 +1727,10 @@
         "taxi": "3 hours",
         "car": "2-3 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/i5FcgkHK",
+      "fromIata": "HDY",
+      "toIata": "NST"
     },
     {
       "from": "hat-yai",
@@ -1575,7 +1743,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/MykTnOm7",
+      "fromIata": "HDY",
+      "toIata": "HKT"
     },
     {
       "from": "hat-yai",
@@ -1589,7 +1760,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/9B8I1vl2",
+      "fromIata": "HDY",
+      "toIata": "URT"
     },
     {
       "from": "hat-yai",
@@ -1628,7 +1802,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/apn1YJ9J",
+      "fromIata": "HHQ",
+      "toIata": "CJM"
     },
     {
       "from": "hua-hin",
@@ -1737,7 +1914,10 @@
         "train": "13-19 hours",
         "car": "7-9 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/cY6Ivefk",
+      "fromIata": "KKC",
+      "toIata": "CNX"
     },
     {
       "from": "khon-kaen",
@@ -1775,7 +1955,10 @@
         "taxi": "4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/kfF3219R",
+      "fromIata": "KKC",
+      "toIata": "KOP"
     },
     {
       "from": "khon-kaen",
@@ -1816,7 +1999,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/AOX4h2Yw",
+      "fromIata": "KKC",
+      "toIata": "PHS"
     },
     {
       "from": "khon-kaen",
@@ -1830,7 +2016,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/VeYCkKGP",
+      "fromIata": "KKC",
+      "toIata": "UBP"
     },
     {
       "from": "khon-kaen",
@@ -1869,7 +2058,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/PlnDhZF2",
+      "fromIata": "USM",
+      "toIata": "HDY"
     },
     {
       "from": "koh-samui",
@@ -1908,7 +2100,10 @@
         "car": "3-4 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/IsYR9yn7",
+      "fromIata": "USM",
+      "toIata": "TST"
     },
     {
       "from": "krabi",
@@ -1922,7 +2117,10 @@
         "car": "4-5 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/SkGgZWL5",
+      "fromIata": "KBV",
+      "toIata": "CJM"
     },
     {
       "from": "krabi",
@@ -1935,7 +2133,10 @@
         "taxi": "3-4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/qaYI3zZk",
+      "fromIata": "KBV",
+      "toIata": "HDY"
     },
     {
       "from": "krabi",
@@ -2011,7 +2212,10 @@
         "taxi": "3 hours",
         "car": "3 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/VitBD9hJ",
+      "fromIata": "LPT",
+      "toIata": "CEI"
     },
     {
       "from": "lampang",
@@ -2037,7 +2241,10 @@
         "taxi": "3 hours",
         "car": "3 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/BakSwEHI",
+      "fromIata": "LPT",
+      "toIata": "PHS"
     },
     {
       "from": "lopburi",
@@ -2162,7 +2369,10 @@
         "taxi": "3-4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/2T2cLYjs",
+      "fromIata": "HGN",
+      "toIata": "CEI"
     },
     {
       "from": "mae-hong-son",
@@ -2175,7 +2385,10 @@
         "taxi": "3-4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/xXwEXRKF",
+      "fromIata": "HGN",
+      "toIata": "LPT"
     },
     {
       "from": "mae-hong-son",
@@ -2329,7 +2542,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/NP2sUK4Y",
+      "fromIata": "NST",
+      "toIata": "CJM"
     },
     {
       "from": "nakhon-si-thammarat",
@@ -2366,7 +2582,10 @@
         "taxi": "3 hours",
         "car": "3 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/eLdwksA9",
+      "fromIata": "NST",
+      "toIata": "HKT"
     },
     {
       "from": "nakhon-si-thammarat",
@@ -2499,7 +2718,10 @@
         "bus": "15-18 hours",
         "car": "12-14 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/XcXHDuVY",
+      "fromIata": "UTP",
+      "toIata": "HKT"
     },
     {
       "from": "pattaya",
@@ -2562,7 +2784,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/jUOnpOtH",
+      "fromIata": "PHS",
+      "toIata": "CNX"
     },
     {
       "from": "phitsanulok",
@@ -2588,7 +2813,10 @@
         "car": "4-6 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/JBTTJOT7",
+      "fromIata": "HKT",
+      "toIata": "CJM"
     },
     {
       "from": "phuket",
@@ -2601,7 +2829,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/FZYJtXjS",
+      "fromIata": "HKT",
+      "toIata": "HDY"
     },
     {
       "from": "phuket",
@@ -2614,7 +2845,10 @@
         "taxi": "3 hours",
         "car": "3 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/iWxYcdkZ",
+      "fromIata": "HKT",
+      "toIata": "NST"
     },
     {
       "from": "phuket",
@@ -2626,7 +2860,10 @@
         "bus": "15-18 hours",
         "car": "12-14 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/IfVoSprp",
+      "fromIata": "HKT",
+      "toIata": "UTP"
     },
     {
       "from": "phuket",
@@ -2640,7 +2877,10 @@
         "car": "3 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/WJ1Wtutp",
+      "fromIata": "HKT",
+      "toIata": "URT"
     },
     {
       "from": "phuket",
@@ -2751,7 +2991,10 @@
         "taxi": "3-4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/JHyKnUsS",
+      "fromIata": "THS",
+      "toIata": "CNX"
     },
     {
       "from": "sukhothai",
@@ -2816,7 +3059,10 @@
         "car": "2-3 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/yC75HrXH",
+      "fromIata": "URT",
+      "toIata": "CJM"
     },
     {
       "from": "surat-thani",
@@ -2869,7 +3115,10 @@
         "car": "3 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/9tBkEtUb",
+      "fromIata": "URT",
+      "toIata": "HKT"
     },
     {
       "from": "surat-thani",
@@ -2884,7 +3133,10 @@
         "car": "3 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/oJemDtSs",
+      "fromIata": "URT",
+      "toIata": "TST"
     },
     {
       "from": "trang",
@@ -2898,7 +3150,10 @@
         "car": "3-4 hours",
         "ferry": "3-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/3NZK8rBL",
+      "fromIata": "TST",
+      "toIata": "USM"
     },
     {
       "from": "trang",
@@ -3010,7 +3265,10 @@
         "taxi": "4-5 hours",
         "car": "4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/2hdF5dC1",
+      "fromIata": "UBP",
+      "toIata": "KOP"
     },
     {
       "from": "udon-thani",
@@ -3047,7 +3305,10 @@
         "train": "12-17 hours",
         "car": "6-8 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/NIFPd133",
+      "fromIata": "UTH",
+      "toIata": "CNX"
     },
     {
       "from": "udon-thani",
@@ -3072,7 +3333,10 @@
         "taxi": "3-4 hours",
         "car": "3-4 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/ChclD9SU",
+      "fromIata": "UTH",
+      "toIata": "KOP"
     },
     {
       "from": "udon-thani",
@@ -3113,7 +3377,10 @@
         "taxi": "4-5 hours",
         "car": "4-5 hours"
       },
-      "popular": false
+      "popular": false,
+      "flightPartnerUrl": "https://trip.tpo.lv/A3mM6YRN",
+      "fromIata": "UTH",
+      "toIata": "PHS"
     }
   ]
 }
