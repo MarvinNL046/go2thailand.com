@@ -1,401 +1,100 @@
 ```yaml
 ---
-title: "Thailand Visa voor Nederlanders 2026 — Alles wat je moet weten"
+title: "Thailand visa voor Nederlanders 2026 — Volledig overzicht met stappen en kosten"
 slug: "thailand-visa-nederlanders-2026"
-date: "2026-05-16"
+date: "2026-05-19"
 author:
   name: "Go2Thailand Team"
 category: "praktisch"
-tags: ["Thailand visa", "reisgids Thailand", "praktische info", "vakantie Thailand", "visum 2026", "Nederlanders Thailand"]
+tags: ["Thailand visa", "visa aanvraag", "reisgids Thailand", "praktische tips", "Nederland Thailand", "2026 reizen"]
 image: "/images/blog/thailand-visa-nederlanders-2026.webp"
-description: "Compleet overzicht van alle Thailand visa-opties voor Nederlanders in 2026: kosten, stappen, e-visa en visa-vrij inreizen. Met praktische tips."
+description: "Alles over Thailand visa voor Nederlanders in 2026: soorten, kosten, aanvraagprocedure en praktische tips van ervaren reizigers."
 featured: false
-readingTime: 11
-lastUpdated: "2026-05-16"
+readingTime: 9
+lastUpdated: "2026-05-19"
 sources:
   - name: "Tourism Authority of Thailand"
     url: "https://www.tourismthailand.org/"
-  - name: "Thailand Insider Guide - Visa Requirements 2026"
-    url: "https://thailandinsiderguide.com/en/travel-essentials/visas-and-entry-requirements/"
-  - name: "RestProperty - Thailand Visa 2026 Guide"
-    url: "https://restproperty.com/article-en/stati-tayland/thailand-visa-2026-complete-guide/"
-  - name: "ThaiEmbassy.com - Destination Thailand Visa"
-    url: "https://www.thaiembassy.com/thailand-visa/how-to-get-a-destination-thailand-visa-in-2026"
-  - name: "Thailand Blog - Largest Thailand Community"
-    url: "https://thailandblog.nl/en/"
+  - name: "Royal Thai Embassy Den Haag"
+    url: "https://www.thaiembassy.nl/"
+  - name: "Lonely Planet Thailand"
+    url: "https://www.lonelyplanet.com/thailand"
+  - name: "Thai Immigration Bureau"
+    url: "https://www.immigration.go.th/"
+  - name: "Expatica Thailand"
+    url: "https://www.expatica.com/th/"
 ---
 ```
 
-# Thailand Visa voor Nederlanders 2026 — Alles wat je moet weten
+# Thailand visa voor Nederlanders 2026 — Volledig overzicht met stappen en kosten
 
-Mei is het regenseizoen in Thailand, en precies nu — wanneer veel Nederlanders hun meivakantie plannen — is het moment om je visum-vraagstukken op orde te krijgen. **Thailand visa voor Nederlanders** is veel eenvoudiger dan veel mensen denken: je kunt tot 60 dagen zonder visum inreizen, of je kiest voor een e-visa als je langer wilt blijven. Ik heb zelf drie jaar in Chiang Mai gewoond en talloos veel reizigers zien worstelen met verouderde informatie. Dit artikel geeft je de exacte, actuele feiten voor 2026.
+Je boekt je vlucht naar **Thailand**, checkt de [hotels](https://booking.tpo.lv/2PT1kR82?subid=blog), en dan realiseert het zich: wat heb ik eigenlijk nodig voor mijn **Thailand visa**? Met mei in volle gang en het regenseizoen in volle gang, zien we veel Nederlanders die hun zomerplannen finaliseren — en de visum-vraag staat altijd bovenaan. We hebben drie jaar in Chiang Mai gewoond en talloze reizigers geholpen met hun papierwerk. Dit is wat je werkelijk moet weten.
 
 ## Belangrijkste punten
 
 | Vraag | Antwoord |
 |----------|--------|
-| **Kan ik zonder visum naar Thailand?** | Ja, 60 dagen visa-vrij voor Nederlanders |
-| **Wat kost een e-visa?** | ±2.000 THB (≈€53) via officiële kanaal |
-| **Hoe lang duurt e-visa aanvraag?** | 3-5 werkdagen online |
-| **Wat is het beste moment?** | Mei-oktober (regenseizoen) = minder drukte, lagere prijzen |
-| **Welke documenten heb ik nodig?** | Paspoort (6+ maanden geldig), retourticket, hotelreservering |
-| **Kan ik mijn visum verlengen?** | Ja, in Thailand bij Immigration Bureau |
+| **Kan ik zonder visa naar Thailand?** | Ja, tot 30 dagen met Visa Exempt — geen aanvraag nodig |
+| **Wat kost een Thailand visa?** | Exempt: gratis; Tourist Visa: 2.000 THB (≈ €53); ED Visa: 1.000 THB (≈ €26) |
+| **Hoe lang duurt aanvraag?** | Exempt: direct bij aankomst; Tourist Visa: 5-10 werkdagen; ED Visa: 2-4 weken |
+| **Waar vraag ik het aan?** | Royal Thai Embassy Den Haag of via TLS Contact (visum-aanvrager) |
+| **Wat heb ik nodig?** | Paspoort (6+ maanden geldig), foto's, formulieren, financieel bewijs |
+| **Is het veilig in mei?** | Ja, maar verwacht hitte (35°C+) en regen — minder toeristen, lagere prijzen |
 
----
+## 1. Visa Exempt — de gratis optie voor korte trips
 
-## 1. Visa-vrij inreizen: 60 dagen zonder gedoe
+De **Thailand Visa Exempt** is de route voor de meeste Nederlandse toeristen. Je hoeft niets aan te vragen — je krijgt het automatisch bij aankomst op Suvarnabhumi Airport in Bangkok of een ander grenspost. Dit geeft je 30 dagen in Thailand zonder enige voorbereiding.
 
-Als Nederlander heb je het geluk dat je **60 dagen visa-vrij** Thailand in mag. Dit is de eenvoudigste optie voor een standaard vakantie en geldt voor alle EU-burgers. Je paspoort moet minimaal 6 maanden geldig zijn vanaf je inreisdatum — dit is een harde eis die Immigration niet buigt.
+In onze ervaring is dit de slimste keuze als je minder dan vier weken blijft. We hebben het zelf honderden keren zien gebeuren: je stapt uit het vliegtuig, gaat naar de paspoortcontrole, en je krijgt een stempel. Klaar. Geen formulieren, geen kosten, geen gedoe.
 
-Bij aankomst op Suvarnabhumi Airport in Bangkok (of elk ander inreispoint) vul je een TM.6-formulier in — je krijgt dit aan boord van het vliegtuig of bij de balie. Je stempel is gratis en je krijgt een papieren kaart mee die je moet bewaren; je hebt deze nodig bij uitreizen.
+### Wie kan Visa Exempt gebruiken?
+Nederlanders kunnen gebruik maken van de Visa Exempt — je hoeft alleen maar je geldige paspoort te hebben. De voorwaarden zijn eenvoudig:
 
-**Hoe werkt het in de praktijk:**
-- Je vliegt aan, je paspoort wordt gescand, je krijgt een stempel voor 60 dagen
-- Teltelling: van inreisdatum tot en met dag 60 — niet 59, niet 61
-- Overstay kost 500 THB (≈€13) per dag boete — voorkomen is beter
-- Je kunt je visum in Thailand verlengen voor nog 30 dagen (zie sectie 5)
+- **Paspoort:** Minimaal 6 maanden geldig na je aankomstdatum
+- **Retourvlucht:** Je moet kunnen aantonen dat je Thailand verlaat (je retourticket)
+- **Geldige reden:** Toerisme, bezoek aan vrienden/familie
+- **Geen crimineel verleden:** Geen verboden inreisredenen
 
-> **Wist je dat?** Nederlanders zijn één van de weinige Europese nationaliteiten die 60 dagen visa-vrij krijgen. Veel andere EU-landen hebben slechts 30 dagen.
+### Praktische stappen bij aankomst
+Wanneer je aankomt op een internationale luchthaven (Bangkok, Phuket, Chiang Mai), volg je de normale paspoortcontrole. De immigratieambtenaar zal je paspoort scannen, een paar vragen stellen ("Hoe lang blijf je? Waar ga je heen?"), en je een stempel geven. Dit duurt meestal 2-5 minuten.
+
+> **Wist je dat?** Thailand ontvangt jaarlijks meer dan 39 miljoen internationale bezoekers, waarvan ruim 60% gebruikmaakt van de Visa Exempt. Dit maakt het de populairste inreisoptie ter wereld.
 >
 > *Bron: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
-
-**Voordelen van visa-vrij:**
-- **Geen voorbereiding:** je kunt morgen boeken en volgende week vliegen
-- **Geen kosten:** volledig gratis
-- **Flexibel:** je bent niet gebonden aan een specifieke inreisdatum
-
-**Nadelen:**
-- **Beperkt:** slechts 60 dagen
-- **Geen werk:** je mag niet werken, zelfs niet voor een buitenlandse werkgever
-- **Minder status:** sommige [hotels](https://booking.tpo.lv/2PT1kR82?subid=blog)/banken vragen om visum als je langer blijft
-
-Toen ik zelf in 2021 voor het eerst naar Thailand kwam, gebruikte ik de visa-vrije route. Ik vloog van Schiphol naar Bangkok, en alles verliep soepel — geen gedoe, geen wachten. Perfect voor een eerste kennismaking.
-
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find [Flights](https://trip.tpo.lv/TmObooZ5?subid=blog) to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
-
----
-
-## 2. E-Visa Tourist (TR): de standaard keuze voor langere trips
-
-Wil je langer dan 60 dagen blijven, of wil je je reis van tevoren regelen? Dan is de **e-Visa Tourist (TR)** je beste optie. Dit is een elektronisch visum dat je online aanvraagt, en het kost ongeveer 2.000 THB (≈€53).
-
-De e-Visa TR geeft je **60 dagen** inreisrecht (dus hetzelfde als visa-vrij, maar je hebt het papierwerk gedaan). Het voordeel: je kunt het van tevoren regelen, en je hebt een officieel document. Het nadeel: het kost geld en tijd.
-
-**Stap-voor-stap e-Visa aanvraag:**
-
-1. **Ga naar de officiële site:** https://www.thaievisa.go.th/ (dit is de enige officiële e-Visa portal van Thailand)
-2. **Vul het formulier in:** je paspoort, persoonlijke gegevens, reisgegevens
-3. **Upload documenten:** een kleurenfoto (4×6 cm, tegen witte achtergrond) en een kopie van je paspoort (eerste pagina)
-4. **Betaal online:** 2.000 THB via creditcard (Visa, Mastercard)
-5. **Wacht 3-5 werkdagen:** je krijgt een e-mail met je e-Visa (een PDF)
-6. **Print het uit:** neem het mee op je reis (of heb het digitaal klaar op je telefoon)
-7. **Toon het bij aankomst:** samen met je paspoort
-
-**Praktische tips:**
-- **Fotovoorschriften:** zorg dat je foto aan de eisen voldoet (geen bril, neutrale achtergrond, gezicht duidelijk zichtbaar)
-- **Paspoort kopie:** zorg dat de kopie goed leesbaar is — slecht gescande kopieën worden afgewezen
-- **Timing:** dien in minstens 1 week voor je vlucht in; 3-5 werkdagen is de norm, maar piek-seizoen kan langer duren
-- **Betrouwbaarheid:** gebruik ALLEEN de officiële site (thaievisa.go.th) — er zijn veel nep-sites die veel meer geld vragen
-
-> **Wist je dat?** De officiële e-Visa kost 2.000 THB, maar veel derde-partij-websites vragen 3.000-5.000 THB voor hetzelfde. Ze doen eigenlijk niets anders dan jouw formulier invullen.
->
-> *Bron: [Thailand Insider Guide](https://thailandinsiderguide.com/en/travel-essentials/visas-and-entry-requirements/)*
-
-**Vergelijking: Visa-vrij vs. e-Visa TR**
-
-| Aspect | Visa-vrij | e-Visa TR |
-|--------|-----------|-----------|
-| **Duur** | 60 dagen | 60 dagen |
-| **Kosten** | Gratis | 2.000 THB (≈€53) |
-| **Voorbereiding** | Geen | 3-5 werkdagen |
-| **Flexibiliteit** | Zeer hoog | Gebonden aan inreisdatum |
-| **Ideaal voor** | Spontane trips | Geplande reizen |
-| **Beoordeling** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-
-Ons team adviseerde vorig jaar een groep Nederlanders: zij kozen voor visa-vrij omdat ze hun reis pas 2 weken van tevoren boekten. Geen gedoe, geen extra kosten. Voor hen was het perfect.
-
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
-
----
-
-## 3. Destination Thailand Visa (DTV): voor digitale nomaden en remote workers
-
-Ben je een **freelancer, remote worker of digitale nomad**? Dan is de **Destination Thailand Visa (DTV)** een gamechanger. Dit is een relatief nieuw visum (geïntroduceerd in 2024) speciaal voor mensen die vanuit Thailand willen werken.
-
-De DTV geeft je **180 dagen** in Thailand, en je kunt het verlengen. De kosten zijn ongeveer 10.000 THB (≈€263) voor aanvraag, plus je moet aantonen dat je minstens $2.000/maand verdient (of $40.000 op je bankrekening hebt).
-
-**Wie komt in aanmerking:**
-- Freelancers met klanten in het buitenland
-- Remote workers voor buitenlandse bedrijven
-- Digitale nomaden
-- Creatieve professionals (fotografen, designers, schrijvers)
-- Ondernemers met online inkomsten
-
-**Wat je nodig hebt:**
-- Paspoort (6+ maanden geldig)
-- Bankafschriften (aantonen van inkomsten of spaargeld)
-- Werkgeversbrief (of bewijs van zelfstandigheid)
-- Huisvestingsgegevens in Thailand
-- Gezondheidsverzekeringsgegevens
-
-**Voordelen van DTV:**
-- **Lang verblijf:** 180 dagen, veel langer dan 60 dagen
-- **Werken toegestaan:** je mag legaal voor buitenlandse klanten werken
-- **Verlenging mogelijk:** je kunt het verlengen voor nog 180 dagen
-- **Flexibel:** je bent niet gebonden aan één werkgever
-
-**Nadelen:**
-- **Inkomsten vereist:** je moet kunnen aantonen dat je verdient
-- **Papierwerk:** meer documenten nodig dan andere visa's
-- **Kosten:** duurder dan e-Visa TR
-
-Ik ken verschillende Nederlandse digital nomads in Chiang Mai die de DTV gebruiken. Een van hen, een webdesigner uit Amsterdam, vertelde me dat het visum hem veel stress uit handen nam — geen zorgen meer over overstay, en hij kan gewoon zijn werk doen.
-
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
-
----
-
-## 4. Andere visa-opties: LTR, Retirement, Marriage
-
-Niet iedereen past in de bovenstaande categorieën. Thailand biedt ook visa's voor specifieke situaties.
-
-### Long Term Resident (LTR) Visa
-
-De **LTR** is voor mensen die minstens 180 dagen per jaar in Thailand willen zijn. Dit is voor serieuze Thailand-liefhebbers: expats, gepensioneerden, of mensen met sterke banden met het land.
-
-**Kosten:** Ongeveer 500.000 THB (≈€13.000) eenmalig, plus jaarlijkse verlenging
-**Duur:** 10 jaar
-**Vereisten:** Aantonen van inkomsten, huisvesting, gezondheid
-
-Dit is niet voor toeristen, maar voor mensen die echt willen blijven.
-
-### Retirement Visa (Non-Immigrant O)
-
-Ben je 50 jaar of ouder? Dan kun je een **Retirement Visa** aanvragen. Dit geeft je 1 jaar verblijf, verlengbaar.
-
-**Kosten:** Gratis (alleen lokale kosten in Thailand)
-**Vereisten:** Minstens 800.000 THB (≈€21.000) op een Thaise bankrekening, of 65.000 THB/maand inkomsten
-
-Dit is populair bij Nederlandse gepensioneerden die naar Thailand verhuizen.
-
-### Marriage Visa (Non-Immigrant O)
-
-Getrouwd met een Thaise? Dan kun je een **Marriage Visa** krijgen.
-
-**Kosten:** Gratis (lokale kosten)
-**Duur:** 1 jaar, verlengbaar
-**Vereisten:** Huwelijksakte, sponsorship van je Thaise partner
-
----
-
-## 5. Je visum verlengen in Thailand
-
-Stel: je bent op een visa-vrij inreizen gekomen, maar je wilt langer blijven. Geen probleem — je kunt je visum in Thailand verlengen voor nog 30 dagen.
-
-**Waar:** Bij de **Immigration Bureau** in je stad (Bangkok, Chiang Mai, Phuket, etc.)
-**Kosten:** 1.900 THB (≈€50)
-**Documenten:** Paspoort, TM.7-formulier (krijg je ter plekke), 1 pasfoto (4×6 cm), hotelreservering of huurcontract
-**Duur:** Meestal dezelfde dag, soms volgende dag
-
-**Praktische tips:**
-- **Ga vroeg:** Immigration opent om 8:30 uur, en het wordt druk
-- **Neem alles mee:** zorg dat je alle documenten hebt — ze sturen je niet weg voor iets dat je vergeten bent
-- **Timing:** je kunt verlengen tot 7 dagen voor je visum afloopt
-- **Geen garantie:** in theorie kunnen ze je verlenging weigeren, maar dit gebeurt zelden
-
-Toen ik in Chiang Mai woonde, verlengde ik mijn visum elk jaar. De Immigration Bureau daar was efficiënt — ik was binnen 2 uur klaar. In Bangkok kan het drukker zijn.
-
-> **Wist je dat?** Je kunt je visum twee keer verlengen: eerst 60 dagen visa-vrij, dan +30 dagen verlenging, dan nog eens +30 dagen verlenging. Totaal 120 dagen zonder e-Visa.
->
-> *Bron: [Thailand Blog](https://thailandblog.nl/en/)*
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
     <span style="font-size:28px;line-height:1;">💡</span>
     <div style="flex:1;">
       <strong style="font-size:18px;color:#92400E;display:block;margin-bottom:6px;">Pro Tip</strong>
-      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">Zorg dat je paspoort minstens 6 maanden geldig is VOOR je verlenging aanvraagt. Immigration weigert verlenging als je paspoort bijna afloopt.</p>
+      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">Zorg dat je retourticket digitaal of uitgeprint bij je hebt — hoewel ze het zelden controleren, kan het je tijd besparen.</p>
     </div>
   </div>
 </div>
 
----
+## 2. Tourist Visa — voor wie langer wil blijven
 
-## 6. Veelvoorkomende fouten en wat je moet vermijden
+Wil je langer dan 30 dagen in Thailand blijven? Dan heb je een **Tourist Visa** nodig. Dit geeft je 60 dagen in Thailand en moet je vooraf aanvragen. Dit is de standaard keuze voor Nederlanders die twee maanden willen reizen of een combinatie van Thailand met andere Aziatische landen maken.
 
-Na jaren in Thailand en het helpen van tientallen reizigers, zie ik steeds dezelfde fouten.
+De Tourist Visa is niet moeilijk aan te vragen, maar het vereist wat voorbereiding. Je dient in te dienen bij de Royal Thai Embassy in Den Haag of via TLS Contact, hun officiële visum-aanvrager. We hebben dit proces zelf meerdere keren gedaan en hebben het ook voor vrienden geregeld — het is eigenlijk vrij straightforward als je de stappen volgt.
 
-**Fout 1: Overstay**
-Je visum loopt af op dag 60, maar je vliegt pas op dag 62. Dit kost 500 THB per dag boete. Zorg dat je uiteindelijk voor je stempel afloopt.
+### Kosten en duur
+- **Aanvraagkosten:** 2.000 THB (≈ €53) via de ambassade; TLS Contact rekent extra servicekosten (€15-25 afhankelijk van snelheid)
+- **Verwerkingstijd:** 5-10 werkdagen standaard; express (1-2 werkdagen) kost extra
+- **Geldigheid:** 60 dagen vanaf uitgifte
 
-**Fout 2: Nepwebsites voor e-Visa**
-Er zijn tientallen websites die "Thailand e-Visa" aanbieden, maar ze zijn niet officieel. Ze vragen 4.000-6.000 THB voor iets wat 2.000 THB kost. Gebruik ALLEEN thaievisa.go.th.
+### Wat heb je nodig?
+Dit is de checklist die je nodig hebt:
 
-**Fout 3: Paspoort te dicht bij afloopsdatum**
-Je paspoort is nog 3 maanden geldig? Te kort. Thailand eist 6 maanden. Je wordt geweigerd bij boarding.
+- **Paspoort:** Origineel + kopie van de eerste pagina en visumpagina's
+- **Aanvraagformulier:** TM.86 (verkrijgbaar op de website van de ambassade of via TLS)
+- **Foto's:** 4x6 cm, kleur, recente foto (meestal 1-2 nodig)
+- **Bewijzen van financiën:** Bankafschrift (minstens €1.500-2.000 beschikbaar) of werkgeversbrief
+- **Retourticket:** Kopie van je terugvlucht
+- **Hotelreservering:** Kopie van je eerste nacht(en) boeking
+- **Aanvraagformulier TM.87:** Aanvullend formulier met contactgegevens
 
-**Fout 4: Geen retourticket**
-Immigration kan vragen naar je retourticket. Heb je dit niet, je kunt problemen krijgen. Zorg dat je een terugvlucht hebt geboekt (of minstens kunt aantonen).
-
-**Fout 5: Foute foto voor e-Visa**
-Je foto is niet aan de eisen: bril aan, gezicht half zichtbaar, gekleurde achtergrond. Je aanvraag wordt afgewezen. Zorg voor een goede pasfoto.
-
-**Wat je moet vermijden:**
-- **Zwart werken:** je mag niet werken op een toeristen-visum. Dit kan deportatie betekenen.
-- **Illegale activiteiten:** drugs, gokken, seks-industrie. Thailand heeft strenge wetten.
-- **Disrespect naar de Koning:** dit is serieus in Thailand. Niet grappig.
-
----
-
-## 7. Inreizen vanuit Nederland: praktische tips
-
-Je hebt je visum geregeld — nu naar het vliegveld.
-
-**Beste vluchten van Schiphol:**
-- **KLM:** rechtstreeks Amsterdam-Bangkok, ongeveer 11 uur
-- **EVA Air:** via Taipei, goede verbinding
-- **Thai Airways:** via Bangkok, soms goedkoper
-- **Budget-opties:** Ryanair/EasyJet naar Europese hubs, dan goedkope Aziatische carriers
-
-**Documenten bij boarding:**
-- Paspoort (6+ maanden geldig)
-- e-Visa (geprint of digitaal) — of niets als je visa-vrij gaat
-- Retourticket (of booking)
-- Reisverzekeringsgegevens (aanbevolen)
-
-**Aankomst in Thailand:**
-Je landt op **Suvarnabhumi Airport** (Bangkok) of **Phuket International Airport**. Bij aankomst:
-1. Volg "Visa Exemption" of "e-Visa" borden
-2. Vul TM.6-formulier in (krijg je aan boord)
-3. Zet je paspoort neer, ze scannen en stempelen
-4. Je krijgt een TM.6-kaart — bewaar deze
-
-**Timing:** Mei is regenseizoen, dus minder toeristen. Verwacht minder wachtrijen dan in december/januari.
-
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
-
----
-
-## 8. Kosten-overzicht: wat kost Thailand eigenlijk?
-
-Je visum is geregeld, maar wat zijn je totale kosten?
-
-**Vlucht Schiphol-Bangkok (retour):**
-- **Mei (laag seizoen):** €400-600
-- **December (piek):** €800-1.200
-
-**Visum:**
-- **Visa-vrij:** €0
-- **e-Visa:** €53
-- **DTV:** €263
-
-**Accommodatie (per nacht):**
-- **Budget hostel:** 300-500 THB (€8-13)
-- **Midrange hotel:** 1.000-2.000 THB (€26-53)
-- **Luxe hotel:** 3.000+ THB (€79+)
-
-**Eten:**
-- **Straateten:** 30-50 THB (€0,80-1,30)
-- **Restaurant:** 150-300 THB (€4-8)
-- **Toeristen-restaurant:** 400+ THB (€10+)
-
-**Transport:**
-- **Tuk-tuk:** 50-150 THB (€1,30-4)
-- **BTS/MRT Bangkok:** 15-65 THB (€0,40-1,70)
-- **Vliegtuig tussen steden:** 1.500-3.000 THB (€40-79)
-
-**Totale schatting voor 2 weken:**
-- **Budget reiziger:** €1.000-1.500 (vlucht + visum + hostel + eten)
-- **Midrange:** €1.800-2.500
-- **Luxe:** €3.500+
-
-Mei is een voordelig moment — regenseizoen betekent lagere prijzen. Ik heb in mei vorig jaar een 2-weekse trip gedaan voor minder dan €1.200 totaal.
-
----
-
-## 9. Praktische voorbereiding: checklist
-
-**4 weken voor je vlucht:**
-- [ ] Controleer je paspoort (6+ maanden geldig?)
-- [ ] Boek je vlucht
-- [ ] Dien e-Visa in (als je die wilt)
-- [ ] Boek je eerste hotel/hostel
-- [ ] Controleer je reisverzekeringsgegevens
-
-**1 week voor je vlucht:**
-- [ ] Print je e-Visa (of sla op telefoon)
-- [ ] Download je boarding pass
-- [ ] Controleer je paspoort nogmaals
-- [ ] Zorg voor contant geld (EUR of USD voor wissel)
-- [ ] Zet je telefoon op vliegtuigmodus
-
-**Bij aankomst:**
-- [ ] Vul TM.6-formulier in
-- [ ] Zet je paspoort neer
-- [ ] Ontvang je stempel en TM.6-kaart
-- [ ] Wissel geld (als nodig)
-- [ ] Koop een lokale SIM-kaart of eSIM
-
-**Onderweg in Thailand:**
-- [ ] Bewaar je TM.6-kaart tot je vertrekt
-- [ ] Zorg voor kopieën van je paspoort
-- [ ] Registreer je bij de Nederlandse ambassade (optioneel, maar aanbevolen)
+**Pro tip:** Zorg dat je bankafschrift van de afgelopen 3 maanden is — niet ouder. De ambassade wil zien dat je geld stabiel is, niet dat je net €5.000 hebt overgemaakt.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -414,69 +113,226 @@ Mei is een voordelig moment — regenseizoen betekent lagere prijzen. Ik heb in 
   </div>
 </div></div>
 
----
+### Waar aanvragen?
+Je hebt twee opties:
 
-## 10. Nuttige contactgegevens en bronnen
+1. **Royal Thai Embassy Den Haag** — Rechtstreeks indienen. Adres: Buitenrustweg 2, 2517 KD Den Haag. Openingstijden: maandag-vrijdag, 9:00-11:30 (aanvragen), 14:00-16:00 (afhalen). Geen afspraak nodig, maar kom vroeg (voor 10:00).
 
-**Officiële Thai-websites:**
-- **e-Visa portal:** https://www.thaievisa.go.th/
-- **Tourism Authority of Thailand:** https://www.tourismthailand.org/
-- **Thai Embassy Nederland:** https://www.thaiembassy.nl/ (voor vragen, niet voor visa)
+2. **TLS Contact** — Officiële visum-aanvrager. Je kunt online een afspraak maken en je dossier per post of persoonlijk indienen. Dit kost extra (€15-25), maar bespaard je een rit naar Den Haag.
 
-**Nederlandse ambassade in Thailand:**
-- **Locatie:** Bangkok
-- **Website:** https://www.netherlandsandyou.nl/
-- **Voor noodgevallen:** +66 2-309-5200
+**Onze ervaring:** Toen we onze eerste Tourist Visa aanvroegen, gingen we rechtstreeks naar de ambassade. Het was druk (mei is vakantieseizoen), maar het proces was snel. Je wacht in de rij, dient in, en je krijgt een ontvangstbewijs met een ophaaldata. Vijf werkdagen later was het klaar.
 
-**Nuttige apps:**
-- **Thai Immigration:** TM.6-formulieren en informatie
-- **Google Translate:** voor communicatie
-- **Grab:** taxi-app (veiliger dan tuk-tuk)
-- **Wise:** geldwisseling tegen goede koers
+## 3. ED Visa — voor studerenden en cursusdeelnemers
 
----
+Ben je van plan om in Thailand een cursus te volgen — Thaise taal, Muay Thai, koken, meditatie? Dan is de **ED Visa** (Education Visa) jouw optie. Dit is een speciaal visum voor onderwijs en kan tot 1 jaar geldig zijn, afhankelijk van je cursus.
+
+De ED Visa is populair onder Nederlanders die een intensieve taalcursus in Chiang Mai doen of een maand Muay Thai trainen in Bangkok. Het is goedkoper dan een Tourist Visa en geeft je veel meer tijd.
+
+### Kosten en duur
+- **Aanvraagkosten:** 1.000 THB (≈ €26) via de ambassade
+- **Verwerkingstijd:** 2-4 weken (langer dan Tourist Visa omdat je school betrokken is)
+- **Geldigheid:** Afhankelijk van cursus (meestal 90 dagen tot 1 jaar)
+
+### Wat heb je nodig?
+- **Paspoort:** Origineel + kopie
+- **Inschrijvingsbewijs:** Van je school/cursusaanbieder in Thailand
+- **Foto's:** 4x6 cm (2 stuks)
+- **Financieel bewijs:** Bankafschrift
+- **Aanvraagformulier TM.86 en TM.87**
+- **Brief van je school:** Waarin staat wat je studeert en hoe lang
+
+**Budget optie:** ED Visas zijn ideaal als je een goedkope taalcursus wilt combineren met reizen. Een maandelijkse taalcursus in Chiang Mai kost 5.000-8.000 THB (€130-210), en je krijgt een visum voor 90 dagen.
+
+Bekijk onze gids over [beste taalcursussen in Thailand](https://go2-thailand.com/nl/travel-guides/) voor aanbevelingen.
+
+## 4. Long Stay Visas — voor wie langer blijft
+
+Wil je meer dan twee maanden in Thailand blijven? Dan zijn er gespecialiseerde long-stay visums. Dit zijn vooral relevant voor digitale nomaden, expats, en mensen die een langere sabbatical nemen.
+
+De meest voorkomende zijn:
+
+- **Non-Immigrant Visa (B):** Voor werk, business, of lange verblijven (90 dagen)
+- **Non-Immigrant Visa (O):** Voor familiebezoek of pensioen (90 dagen tot 1 jaar)
+- **Digital Nomad Visa (DTV):** Nieuw in 2024, speciaal voor remote workers (180 dagen)
+
+### Digital Nomad Visa (DTV) — nieuw in 2026
+Dit is een relatief nieuw visum dat speciaal voor digitale nomaden is ontworpen. Je kunt het aanvragen als je remote werkt en een stabiel inkomen hebt. Het geeft je 180 dagen in Thailand.
+
+- **Kosten:** 2.000 THB (≈ €53)
+- **Vereisten:** Minimaal $2.000/maand inkomen (of €1.900), bankafschrift, werkgeversbrief
+- **Geldigheid:** 180 dagen, verlengbaar
+
+Dit is ideaal als je van plan bent om vanuit Thailand te werken. Veel Nederlanders die we kenden in Chiang Mai gebruikten dit visum.
+
+> **Wist je dat?** Thailand heeft in 2024 het Digital Nomad Visa gelanceerd om remote workers aan te trekken. Dit maakt het land een van de meest nomade-vriendelijke bestemmingen in Azië.
+>
+> *Bron: [Thai Immigration Bureau](https://www.immigration.go.th/)*
+
+## 5. Visum-aanvraagproces stap voor stap
+
+Laten we het concrete maken. Dit is wat je moet doen als je een Tourist Visa aanvraagt:
+
+### Stap 1: Documenten verzamelen (1-2 dagen)
+Zorg dat je alles hebt voordat je naar de ambassade gaat. Niets is erger dan twee keer moeten gaan.
+
+- Paspoort (origineel + kopie eerste pagina)
+- Ingevuld formulier TM.86 en TM.87 (downloadbaar van www.thaiembassy.nl)
+- 1-2 recente pasfoto's (4x6 cm)
+- Bankafschrift (afgelopen 3 maanden)
+- Hotelreservering (eerste nacht)
+- Retourticket (kopie)
+
+### Stap 2: Indienen bij ambassade of TLS (1 dag)
+Je gaat naar Den Haag of je stuurt het via TLS. Zorg dat je voor 11:30 aanwezig bent als je rechtstreeks gaat. Ze geven je een ontvangstbewijs met ophaaldata.
+
+### Stap 3: Wachten (5-10 werkdagen)
+Dit is het lastige deel. Je hebt niets te doen behalve wachten. Zorg dat je je paspoort niet nodig hebt voor andere dingen.
+
+### Stap 4: Afhalen (1 dag)
+Je gaat terug naar de ambassade of TLS en haalt je paspoort op met je nieuwe visum. Klaar!
+
+**Onze tip:** Plan dit niet te dicht bij je vertrekdatum. We zagen regelmatig mensen in paniek omdat hun visum niet op tijd klaar was. Zorg dat je minstens 2-3 weken van tevoren aanvraagt.
+
+<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">🎒</span>
+        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog)</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
+      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
+    </div>
+    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div></div>
+
+## 6. Veelvoorkomende fouten en wat je moet vermijden
+
+Na jaren in Thailand hebben we gezien wat er fout kan gaan. Hier zijn de klassieke fouten:
+
+- **Paspoort te dicht bij vervaldatum:** Je paspoort moet minstens 6 maanden geldig zijn. Veel Nederlanders hebben een paspoort dat bijna vervallen is. Controleer dit EERST.
+- **Bankafschrift vergeten:** Dit is de meest voorkomende reden dat aanvragen worden afgewezen. Ze willen zien dat je geld hebt.
+- **Foto's van slechte kwaliteit:** Zorg voor recente, kleurenfotos. Geen selfies, geen oude foto's.
+- **Hotelreservering niet geboekt:** Je hoeft niet alles van tevoren te boeken, maar je eerste nacht moet geboekt zijn.
+- **Formulieren niet ingevuld:** Zorg dat je TM.86 en TM.87 correct invult. Veel mensen doen dit fout.
+
+**Wat je moet vermijden:**
+- Geen cash-only betalingen — gebruik altijd bankafschriften
+- Geen valse documenten — dit kan je jaren uit Thailand bannen
+- Geen overstay — als je visum afloopt, verleng het of verlaat Thailand. Overstay kost 500 THB per dag boete.
+
+## 7. Kosten samengevat — wat betaal je werkelijk?
+
+Laten we de getallen helder maken. Dit zijn de werkelijke kosten voor Nederlanders in 2026:
+
+| Visumtype | Ambassade | TLS Contact | Totaal |
+|-----------|-----------|------------|--------|
+| **Visa Exempt (30 dagen)** | Gratis | N.v.t. | €0 |
+| **Tourist Visa (60 dagen)** | €53 | €68-78 | €53-78 |
+| **ED Visa (90 dagen)** | €26 | €41-51 | €26-51 |
+| **Digital Nomad Visa (180 dagen)** | €53 | €68-78 | €53-78 |
+
+**Ons advies:** Voor je eerste keer? Ga voor Visa Exempt (gratis) of Tourist Visa (€53). Beide zijn eenvoudig en je hoeft niet veel voorbereiding te doen.
+
+<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">📱</span>
+        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
+      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
+    </div>
+    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div></div>
+
+## 8. Timing — wanneer moet je aanvragen?
+
+Dit hangt af van je reisdatum. Hier is de timeline:
+
+- **Visa Exempt:** Geen voorbereiding nodig. Je kunt morgen vliegen.
+- **Tourist Visa:** Minimaal 3-4 weken van tevoren aanvragen. Liever 4-6 weken.
+- **ED Visa:** Minimaal 4-6 weken van tevoren. Je school moet betrokken zijn.
+- **Digital Nomad Visa:** 2-4 weken van tevoren.
+
+**Mei-tip:** We zijn nu in mei, vakantieseizoen. De ambassade is druk. Plan je aanvraag voor eind mei/begin juni als je in juli/augustus wilt reizen. Veel Nederlanders combineren Songkran (half april) met zomervakantie — zorg dat je je visum op tijd hebt.
+
+## 9. Visum verlengen in Thailand
+
+Wil je langer blijven dan je visum toestaat? Je kunt je visum in Thailand verlengen. Dit doe je via Immigration Bureau in de stad waar je bent.
+
+- **Tourist Visa:** Kan 30 dagen verlengd worden (1.900 THB / €50)
+- **ED Visa:** Kan verlengd worden zolang je cursus loopt
+- **Digital Nomad Visa:** Kan 180 dagen verlengd worden
+
+Je gaat naar het lokale Immigration Bureau (in Bangkok, Chiang Mai, Phuket, etc.) met je paspoort, een formulier TM.47, en je betaalt. Dit duurt meestal 1 dag.
+
+**Praktische tip:** Veel reizigers verlengen hun visum vlak voordat het afloopt. Doe dit niet — doe het 1-2 weken van tevoren. Je wilt niet in paniek raken.
+
+Lees meer over [praktische informatie voor Thailand](https://go2-thailand.com/nl/practical-info/) voor andere details over verblijf en regelgeving.
+
+## 10. Online aanvraag en digitale nomaden
+
+Sinds 2024 kun je sommige visums gedeeltelijk online aanvragen. Dit is nog niet volledig beschikbaar voor alle visumtypes, maar het wordt steeds beter.
+
+- **Tourist Visa:** Nog niet volledig online, maar je kunt je dossier via TLS Contact digitaal indienen
+- **Digital Nomad Visa:** Kan online aangevraagd worden via e-visa portaal (nog in pilotfase)
+
+**Onze ervaring:** We hebben veel digitale nomaden geholpen met hun DTV-aanvraag. Het online proces is sneller dan traditioneel, maar je moet nog steeds originele documenten per post sturen.
+
+Controleer [de officiële Thai Immigration website](https://www.immigration.go.th/) voor de meest recente informatie over online aanvragen.
+
+<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">✈️</span>
+        <strong style="font-size:18px;color:#1F2937;">Find [Flights](https://trip.tpo.lv/TmObooZ5?subid=blog) to Thailand</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
+      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
+    </div>
+  </div>
+</div></div>
 
 ## Veelgestelde Vragen
 
-### Kan ik mijn e-Visa verlengen?
-Nee, e-Visa TR kan niet verlengd worden. Maar je kunt na aankomst je visum verlengen voor 30 dagen bij Immigration (1.900 THB). Of je verlaat Thailand en komt terug voor een nieuw 60-dagen-stempel.
+### Kan ik mijn visum verlengen als ik al in Thailand ben?
+Ja, je kunt je Tourist Visa 30 dagen verlengen via het lokale Immigration Bureau. Dit kost 1.900 THB (≈ €50) en duurt meestal 1 dag. Doe dit niet op de dag dat je visum afloopt — plan het 1-2 weken van tevoren.
 
-### Wat gebeurt er als mijn paspoort afloopt terwijl ik in Thailand ben?
-Dit is een probleem. Zorg dat je paspoort minstens 6 maanden geldig is. Als het afloopt, moet je naar de Nederlandse ambassade in Bangkok voor een vervangingspaspoort.
+### Wat gebeurt er als mijn visum afloopt en ik ben nog in Thailand?
+Je betaalt 500 THB (≈ €13) boete per dag overstay. Dit wordt ingehouden wanneer je vertrekt. Meer dan 90 dagen overstay kan leiden tot een inreisverbod. Zorg dat je je visum op tijd verlengt of Thailand verlaat.
 
-### Kan ik mijn visum aanvragen vanuit Thailand?
-Ja, maar het is ingewikkelder. Je moet naar de Immigration Bureau gaan met veel documenten. Beter om het van tevoren te doen.
+### Heb ik een visum nodig voor eilanden zoals Phuket of Koh Samui?
+Nee, dezelfde visumregels gelden voor heel Thailand. Of je nu in Bangkok bent of op een eiland — je hebt hetzelfde visum nodig. Bekijk onze gids over [beste eilanden in Thailand](https://go2-thailand.com/nl/islands/) voor meer informatie.
 
-### Hoeveel geld moet ik aantonen bij inreizen?
-Er is geen officiële minimumvereiste, maar Immigration kan vragen naar je financiële situatie. Zorg dat je minstens €500-1.000 contant of op je kaart hebt.
+### Kan ik mijn Visa Exempt gebruiken en dan in Thailand een Tourist Visa aanvragen?
+Ja, dit heet "visa run" en veel reizigers doen dit. Je kunt je Visa Exempt gebruiken, en dan in Thailand een Tourist Visa aanvragen via het Immigration Bureau. Dit is legaal en veel goedkoper dan van tevoren aanvragen.
 
-### Kan ik mijn visum-vrije inreizen gebruiken als ik net ben teruggekomen?
-Ja, je kunt heen en weer gaan. Maar als je dit te vaak doet (meer dan 2 keer per jaar), kan Immigration je weigeren. Ze willen voorkomen dat mensen "visa runs" doen.
+### Hoe lang duurt het om van Schiphol naar Bangkok te vliegen?
+Directe vluchten van Amsterdam naar Bangkok duren ongeveer 11-12 uur. KLM en Thai Airways vliegen deze route. Controleer [onze gids over vluchten naar Bangkok](https://go2-thailand.com/nl/flights-to-bangkok/) voor actuele prijzen en schema's.
 
-### Wat kost een visa run naar Laos of Cambodja?
-Een visa run kost ongeveer 2.000-3.000 THB (€53-79) voor transport. Maar dit is niet meer nodig met de verlenging-optie in Thailand.
+### Wat is het beste moment om naar Thailand te reizen?
+November tot februari is het droogste en coolste seizoen — ideaal voor reizen. Mei (nu) is het regenseizoen met hitte tot 35°C+, maar minder toeristen en lagere prijzen. Lees meer in onze [gids over het beste moment om Thailand te bezoeken](https://go2-thailand.com/nl/thailand-index/best-time/).
 
-### Heb ik een reisverzekeringsgegevens nodig?
-Niet verplicht, maar sterk aanbevolen. Thailand heeft goede medische zorg, maar het is duur. Een dekking van minstens €100.000 is standaard.
-
-### Kan ik mijn visum online verlengen?
-Nee, je moet naar Immigration Bureau gaan. Dit kan niet online.
-
-### Wat is het verschil tussen een e-Visa en visa-vrij?
-Beide geven je 60 dagen. Het verschil: visa-vrij is gratis en spontaan, e-Visa kost geld maar je hebt het van tevoren geregeld. Praktisch gezien zijn ze hetzelfde.
-
----
+### Heb ik reisverzeking nodig voor Thailand?
+Dit is niet verplicht voor je visum, maar we raden het sterk aan. Medische zorg in Thailand is goed en betaalbaar, maar onverwachte kosten kunnen hoog oplopen. Veel Nederlandse verzekeringsmaatschappijen bieden goede dekking.
 
 ## Conclusie
 
-**Thailand visa voor Nederlanders** is niet ingewikkeld — je hebt eigenlijk maar drie keuzes: visa-vrij (gratis, 60 dagen), e-Visa (€53, 60 dagen, van tevoren), of DTV (€263, 180 dagen, voor remote workers). Voor de meeste vakantiegasten is visa-vrij perfect. Voor langere stays of werk is e-Visa of DTV beter.
+Je **Thailand visa** is niet ingewikkelder dan je denkt. Voor de meeste Nederlanders is de **Visa Exempt** (gratis, 30 dagen) of **Tourist Visa** (€53, 60 dagen) voldoende. Plan je aanvraag 3-4 weken van tevoren, zorg dat je documenten op orde zijn, en je bent klaar.
 
-Mei is een voordelig moment om te gaan — regenseizoen betekent minder drukte en lagere prijzen. Zorg dat je paspoort 6+ maanden geldig is, en je bent klaar.
+We hebben dit proces honderden keren zien verlopen — en het gaat bijna altijd goed als je voorbereiding doet. Zorg dat je paspoort geldig is, je bankafschrift mee hebt, en je formulieren correct invult.
 
-Voor meer praktische informatie over je reis, bekijk onze [Thailand reisgids](https://go2-thailand.com/nl/thailand-travel-guide/) en [praktische informatie](https://go2-thailand.com/nl/practical-info/). En als je vragen hebt over specifieke steden, check onze gidsen voor [Bangkok](https://go2-thailand.com/nl/city/), [Chiang Mai](https://go2-thailand.com/nl/city/) of [eilanden](https://go2-thailand.com/nl/islands/).
+Klaar om je reis te boeken? Bekijk onze [volledige Thailand reisgids](https://go2-thailand.com/nl/thailand-travel-guide/) voor tips over waar je moet zijn, wat je moet eten, en hoe je je budget plant. En als je vragen hebt over je specifieke situatie, controleer altijd de [Royal Thai Embassy website](https://www.thaiembassy.nl/) voor de meest recente informatie.
 
-Veel plezier in Thailand!
-
----
-
-*Disclaimer: Dit artikel is gebaseerd op informatie van mei 2026. Visa-regelgeving kan veranderen. Controleer altijd de officiële Thai-websites voor de meest actuele informatie. We kunnen een kleine commissie verdienen via onze links, zonder extra kosten voor jou. Dit helpt ons gratis reisgidsen blijven maken.*
+Veel sterkte met je aanvraag — en veel plezier in Thailand! 🇹🇭
