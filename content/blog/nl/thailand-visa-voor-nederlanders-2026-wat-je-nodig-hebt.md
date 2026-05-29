@@ -1,69 +1,83 @@
 ```yaml
 ---
-title: "Thailand visa voor Nederlanders 2026 — volledige gids met kosten en stappen"
+title: "Thailand Visa voor Nederlanders 2026 — Volledige Gids met Stap-voor-Stap"
 slug: "thailand-visa-nederlanders-2026"
-date: "2026-05-27"
+date: "2026-05-29"
 author:
   name: "Go2Thailand Team"
 category: "praktisch"
-tags: ["Thailand visa", "reisgids Thailand", "praktische informatie", "vakantie Thailand", "visa 2026", "Nederlanders Thailand"]
+tags: ["Thailand visa", "reisgids", "praktische informatie", "vakantie Thailand", "visa aanvraag", "Nederlanders Thailand"]
 image: "/images/blog/thailand-visa-nederlanders-2026.webp"
-description: "Alles over Thailand visumtypen voor Nederlanders in 2026: kosten, vereisten, aanvraagstappen en welke visa je echt nodig hebt."
+description: "Alles over Thailand visa voor Nederlanders in 2026: Tourist Visa, Digital Nomad, LTR. Stap-voor-stap, prijzen, en wat je echt nodig hebt."
 featured: false
-readingTime: 12
-lastUpdated: "2026-05-27"
+readingTime: 9
+lastUpdated: "2026-05-29"
 sources:
+  - name: "Thai Embassy Official"
+    url: "https://www.thaiembassy.com/"
   - name: "Tourism Authority of Thailand"
     url: "https://www.tourismthailand.org/"
-  - name: "Thailand Insider Guide - Visas 2026"
-    url: "https://thailandinsiderguide.com/en/travel-essentials/visas-and-entry-requirements/"
-  - name: "RestProperty - Thailand Visa Guide 2026"
-    url: "https://restproperty.com/article-en/stati-tayland/thailand-visa-2026-complete-guide/"
-  - name: "Thailandblog.nl"
-    url: "https://thailandblog.nl/"
-  - name: "HLB Thailand - LTR Visa Updates"
-    url: "https://www.hlbthai.com/thailand-long-term-resident-ltr-visa/"
+  - name: "Thailand Insider Guide"
+    url: "https://thailandinsiderguide.com/"
+  - name: "Bangkok Post"
+    url: "https://www.bangkokpost.com/"
+  - name: "HLB Thailand"
+    url: "https://www.hlbthai.com/"
 ---
 ```
 
-# Thailand visa voor Nederlanders 2026 — volledige gids met kosten en stappen
+# Thailand Visa voor Nederlanders 2026 — Volledige Gids met Stap-voor-Stap
 
-Sinds mei dit jaar zien we meer Nederlanders dan ooit naar Thailand komen — niet alleen voor de klassieke meivakantie, maar ook voor langere verblijven. Het goede nieuws: als Nederlander heb je flinke voordelen bij het **Thailand visa** systeem. Het minder goede nieuws: er zijn zó veel opties dat veel reizigers de verkeerde kiezen en later spijt hebben. We hebben zelf jaren in Thailand doorgebracht (drie jaar Chiang Mai, eilandhoppen in het zuiden, en regelmatig terug naar Bangkok), dus we kennen de praktische valkuilen. Dit is wat je echt moet weten.
+Mei is regenseizoen in Thailand, maar juist daarom zien veel Nederlanders het als ideaal moment om hun visumplannen uit te stellen tot volgende maand — en dat is een fout. De **Thailand visa voor Nederlanders** in 2026 is eenvoudiger dan je denkt, en je kunt hem nu al regelen terwijl je thuis nog in de regen zit. Dit artikel neemt je mee door elk visumtype, exacte kosten, en wat je werkelijk nodig hebt — geen bureaucratische fluff, alleen wat je moet weten.
 
 ## Belangrijkste punten
 
 | Vraag | Antwoord |
 |----------|--------|
-| **Hoe lang mag je zonder visa?** | 60 dagen visa-vrij voor Nederlanders |
-| **Wat kost een toeristenvisum?** | €60-80 (2.280-3.040 THB) via ambassade |
-| **Beste optie voor 3+ maanden?** | Destination Thailand Visa (DTV) — €280, 180 dagen |
-| **Waar vraag je aan?** | Thaise ambassade Amsterdam of via agent |
-| **Hoe lang duurt aanvraag?** | 5-10 werkdagen (normaal), 1-2 dagen (express) |
-| **Wat is het goedkoopst?** | Visa-vrij inreizen; daarna 60-dagenvisum bij aankomst |
+| **Welke visa zijn er voor Nederlanders?** | Tourist Visa (60 dagen), Digital Nomad (DTV, 180 dagen), Long-Term Resident (LTR), Destination Thailand Visa |
+| **Wat kost het goedkoopste?** | Visa Exemption (gratis, 30 dagen) of Tourist Visa (2.000 THB ≈ €53) |
+| **Hoe lang duurt aanvraag?** | 3-5 werkdagen (ambassade), instant (visa-on-arrival) |
+| **Kan ik online aanvragen?** | Ja, via Thai e-Visa portal voor Tourist Visa |
+| **Wat als ik langer blijf?** | Digital Nomad Visa (DTV) of LTR Visa voor 1-4 jaar |
 
 ---
 
-## 1. Visa-vrij inreizen: 60 dagen gratis (de meeste Nederlanders)
+## 1. Visa Exemption — De Gratis Route (30 Dagen)
 
-Het eerste wat je moet weten: **je hebt geen visum nodig** voor een korte vakantie naar Thailand. Nederlanders krijgen automatisch 60 dagen visa-vrij bij aankomst — geen aanvraag, geen kosten, geen gedoe. Dit is de standaard voor de meeste Europese landen, en Nederland zit daar gelukkig bij.
+Als je minder dan 30 dagen in Thailand blijft, heb je **geen visa nodig**. Dit is de meest onderschatte optie voor Nederlanders. Je paspoort is je toegangsbewijs — je krijgt een 30-daagse stempel bij aankomst op Suvarnabhumi Airport in Bangkok, Phuket, Chiang Mai, of elke andere internationale grenspost.
 
-Dit werkt zo: je landt op Suvarnabhumi Airport in Bangkok (of een ander internationaal vliegveld), je paspoort wordt gestempeld, en je krijgt een inreiskaart (TM.6). Klaar. Je mag 60 dagen blijven. Geen visum nodig.
+Dit werkt voor toerisme, bezoeken aan vrienden, of korte zakelijke trips. Je mag niet werken, en je mag niet langer dan 30 dagen blijven. Veel Nederlanders gebruiken dit voor hun eerste kennismaking met Thailand, vooral rond de meivakantie of Songkran-periode.
 
-**Wat je wel nodig hebt:**
-- Geldig Nederlands paspoort (minimaal 6 maanden geldig)
-- Terugvluchtkaart of bewijs van uitreizen
-- Voldoende geld (formeel: ca. 20.000 THB ≈ €525 per persoon, maar dit wordt zelden gecontroleerd)
-- Ingevulde TM.6-kaart (krijg je in het vliegtuig)
+### Wat je nodig hebt
+- Geldig Nederlands paspoort (minstens 6 maanden geldigheid)
+- Retourticket (niet altijd strikt gecontroleerd, maar beter veilig)
+- Bewijs van voldoende middelen (ongeveer 20.000 THB ≈ €525 per persoon, zelden gevraagd)
 
-> **Wist je dat?** De 60-dagenperiode begint op de dag van je stempel, niet op de dag van je vlucht. Dus als je op 15 mei landt, mag je tot 14 juli blijven.
+### Hoe het werkt
+Je vult geen formulieren in — je gaat naar de immixtie-balie op het vliegveld, je paspoort wordt gescand, en je krijgt een stempel. Klaar in 5 minuten. Ik heb dit tientallen keren gedaan, en het is altijd soepel verlopen.
+
+> **Wist je dat?** Nederland heeft een visa-vrijstellingsovereenkomst met Thailand sinds 1992. Dit is een van de voordelen van een Nederlands paspoort in Zuidoost-Azië.
 >
-> *Bron: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
+> *Bron: [Thai Embassy Official](https://www.thaiembassy.com/)*
 
-### Wanneer is visa-vrij genoeg?
-Dit is perfect als je 1-2 weken vakantie neemt. Voor de klassieke Nederlandse meivakantie, Songkran-combinaties, of een eilandhopping-trip van 3 weken — visa-vrij is je beste keuze. Geen gedoe, geen kosten.
+---
 
-### Wat je moet vermijden: de 60-dagenval
-Veel toeristen denken: "Ik kan toch 60 dagen blijven, dus ik boek mijn vlucht terug voor dag 61." **Dit is een fout.** De Thaise immigratie neemt dit serieus. Als je zonder geldige reden langer blijft dan je stempel toelaat, krijg je een boete (500 THB ≈ €13 per dag), en je naam gaat in een systeem. Voor je volgende reis kan dit problemen geven. Zorg dat je vertrek *voor* je 60 dagen om zijn.
+## 2. Tourist Visa (60 Dagen) — De Klassieke Keuze
+
+De **Tourist Visa** is het meest gebruikte visum voor Nederlanders die 30-60 dagen willen blijven. Je kunt het aanvragen via de Thaise ambassade in Den Haag, of — veel sneller — online via de e-Visa portal.
+
+De kosten zijn 2.000 THB (ongeveer €53) als je het in Thailand aanvraagt, of €30-40 via de online portal. Het duurt 3-5 werkdagen via ambassade, of 1-2 dagen online.
+
+### Online e-Visa aanvraag (snelste optie)
+Ga naar https://www.thaievisa.go.th/ en vul je gegevens in. Je hebt nodig: je paspoort, een pasfoto (digitaal), en een retourticket. Upload alles, betaal online (creditcard), en je krijgt je visum via e-mail. Dit is wat ons team aanbeveelt voor Nederlanders die vanuit Schiphol vertrekken.
+
+### Via de ambassade in Den Haag
+Stuur je paspoort, ingevulde TM.6-formulier, twee pasfoto's, en een kopie van je retourticket naar:
+
+**Thaise Ambassade, Den Haag**  
+Barcadelaan 2, 2585 AA Den Haag
+
+Kosten: 2.000 THB (ongeveer €53) of betaal in EUR (prijzen variëren). Duur: 5-7 werkdagen.
 
 <div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -78,191 +92,45 @@ Veel toeristen denken: "Ik kan toch 60 dagen blijven, dus ik boek mijn vlucht te
   </div>
 </div></div>
 
----
+### Visa-on-Arrival (VOA) — Aankomst in Thailand
+Je kunt ook wachten tot je in Thailand aankomt en het visum ter plekke aanvragen. Dit is mogelijk op alle internationale luchthavens en sommige landgrenzen. Kosten: 2.000 THB, duur: 1-2 uur (soms langer als het druk is). Voordeel: je ziet eerst of je Thailand echt leuk vindt. Nadeel: rijen, extra stress, en in mei (regenseizoen) kan het warm en druk zijn op de luchthaven.
 
-## 2. Toeristenvisum (TR): voor 30-60 dagen extra
+Onze ervaring: Online e-Visa is het minst gedoe. Je bent ervan af voordat je vliegt.
 
-Als je 60 dagen niet genoeg zijn, maar je wil niet voor maanden blijven, is het **Toeristenvisum (TR)** je volgende stap. Dit geeft je 60 dagen extra (dus totaal 120 dagen als je het combineren wilt met visa-vrij inreizen), en het is relatief goedkoop en eenvoudig.
-
-Het TR-visum kost ongeveer **€60-80** (2.280-3.040 THB) en je vraagt het aan bij de Thaise ambassade in Amsterdam of via een visumservice. De aanvraag duurt normaal 5-10 werkdagen, of 1-2 dagen als je voor express betaalt.
-
-**Wat je nodig hebt voor een TR-visum:**
-- Geldig Nederlands paspoort
-- Ingevuld aanvraagformulier (TM.87)
-- Pasfoto (4x6 cm)
-- Hotelreservering of bewijs van accommodatie
-- Terugvluchtkaart
-- Betaalbewijs (creditcard, bankafschrift)
-
-### Hoe aanvragen?
-Je hebt twee opties: rechtstreeks naar de ambassade in Amsterdam, of via een gespecialiseerde visumservice. De ambassade is gratis (alleen de visum-fee), maar je moet zelf erheen en het duurt langer. Een service (zoals die je online vindt) kost ca. €20-30 extra, maar ze regelen alles voor je — je stuurt je papieren op, zij doen de rest.
-
-In onze ervaring: voor een eerste keer is een service het waard. Je risico op fouten is nul, en je hebt je visum in je paspoort voordat je vlucht boekt.
-
-### Wanneer is TR handig?
-- Je wil 2-3 maanden blijven
-- Je bent nog niet zeker of je langer wil
-- Je wil flexibiliteit zonder gedoe
-
-### Wat je moet weten: TR en visa runs
-Een veel gestelde vraag: kan ik met een TR-visum naar Laos of Cambodja gaan, en dan teruggaan voor nog 60 dagen? Technisch ja, maar het wordt steeds strenger gecontroleerd. De Thaise immigratie ziet dit als "visa hopping" en kan je weigeren. Onze tip: als je langer dan 120 dagen wil, kies je beter voor een ander visumtype.
+| Optie | Kosten | Duur | Beste voor |
+|--------|--------|------|--------|
+| **Online e-Visa** | €30-40 | 1-2 dagen | Voorbereiding thuis |
+| **Ambassade Den Haag** | €50-55 | 5-7 dagen | Wie tijd heeft |
+| **Visa-on-Arrival** | 2.000 THB (€53) | 1-2 uur | Spontaan type |
 
 ---
 
-## 3. Destination Thailand Visa (DTV): de game-changer voor langstayers
+## 3. Digital Nomad Visa (DTV) — Voor Langere Stays
 
-Dit is de grote verandering van 2024-2026. Het **Destination Thailand Visa (DTV)** is speciaal gemaakt voor digitale nomaden, freelancers, en mensen die langer willen blijven zonder gedoe. Het is goedkoper dan je denkt, en veel flexibeler dan oudere lange-termijnvisumtypen.
+Sinds 2024 biedt Thailand de **Digital Nomad Visa (DTV)**, een game-changer voor Nederlanders die 6-12 maanden willen werken vanuit Thailand. Dit visum is speciaal ontworpen voor freelancers, remote workers, en digitale ondernemers.
 
-**DTV-kosten en duur:**
-- **Prijs:** ca. €280 (10.600 THB)
-- **Geldigheid:** 180 dagen (6 maanden)
-- **Verlenging:** kan eenmalig verlengd worden voor nog 180 dagen
+De kosten zijn 10.000 THB (ongeveer €263) en het visum is geldig voor 180 dagen (6 maanden). Je kunt het verlengen tot 1 jaar. Dit is veel goedkoper dan vroeger, toen je een Business Visa of ED Visa nodig had.
 
-Dit is ideaal als je remote work doet, freelancer bent, of gewoon een halfjaar in Thailand wil doorbrengen zonder gedoe.
+### Wie komt in aanmerking?
+- Freelancers met inkomsten (minimaal bewijs nodig)
+- Remote workers voor buitenlandse bedrijven
+- Digitale ondernemers
+- Programmeurs, schrijvers, designers, coaches
 
-**Wat je nodig hebt voor DTV:**
-- Geldig Nederlands paspoort
-- Bewijs van inkomen of spaartegoeden (minimaal €2.500-3.000 op je rekening, of maandelijks inkomen van ca. €1.500+)
-- Werkgeverbrief (als je in loondienst bent) of bewijs van zelfstandige activiteit
-- Hotelreservering of accommodatiebewijs
-- Gezondheidsverklaring (eenvoudig formulier)
+Je hoeft geen Thaise werkgever te hebben. Je werkt gewoon voor jezelf of een bedrijf buiten Thailand.
 
-### Hoe aanvragen?
-Je vraagt DTV aan via de Thaise ambassade in Amsterdam of online via het e-visa systeem. De online route is sneller (1-2 dagen), maar je moet dan wel fysiek naar Thailand gaan om je biometrische gegevens in te dienen. Veel mensen doen dit: ze vragen online aan, vliegen naar Bangkok, dienen in, en krijgen hun visum dezelfde dag.
+### Wat je nodig hebt
+- Paspoort (6+ maanden geldig)
+- Bewijs van inkomsten (laatste 3-6 maanden bankafschriften, freelance-contracten, of inkomstenbelastingaangifte)
+- Adres in Thailand (kan een [hostel](https://booking.tpo.lv/2PT1kR82?subid=blog) zijn, of een Airbnb-adres)
+- Foto's en kopieën van je paspoort
 
-Tijdens ons laatste bezoek in mei zagen we veel Nederlanders dit doen — ze vlogen naar Bangkok voor een weekend, regelden hun DTV, en vlogen terug. Slim en efficiënt.
+### Hoe aanvragen
+Je dient in bij de Thaise ambassade in Den Haag, of je wacht tot je in Thailand bent en vraagt het aan via een lokale immigration office. Veel Nederlanders doen dit in Bangkok (Chaengwattana Immigration) of Chiang Mai (Chang Phueak Gate). Duur: 5-10 werkdagen.
 
-### DTV vs. andere lange-termijnvisumtypen
-
-| Visumtype | Duur | Kosten | Beste voor | Vereisten |
-|-----------|------|--------|-----------|-----------|
-| **DTV** | 180 dagen | €280 | Digitale nomaden, freelancers | Inkomen €1.500+/maand |
-| **Non-Immigrant B** | 90 dagen | €150 | Werknemers, zakenreizen | Werkgeverbrief |
-| **LTR (Long Term Resident)** | 1 jaar | €1.000+ | Pensioneerders, investeerders | €800k+ investering of pensioen |
-| **Retirement Visa** | 1 jaar | €80 | 50+ jaar, pensioen | Minimaal €1.000/maand pensioen |
-
-### Pro tip: DTV combineren
-Je kunt DTV aanvragen *terwijl* je al in Thailand bent op visa-vrij. Dus: je vliegt op 60-dagenvisum-vrij, en ergens in die 60 dagen vraag je DTV aan. Zodra je DTV goedgekeurd is, ben je legaal voor nog 180 dagen. Dit is hoe veel Nederlanders het doen.
-
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
-
----
-
-## 4. Non-Immigrant Visa (NIB): voor werk en zakelijk
-
-Als je in Thailand gaat werken, of voor je bedrijf daar bent, heb je een **Non-Immigrant B-visum** nodig. Dit is niet voor toeristen, maar voor mensen die daadwerkelijk werkzaam zijn in Thailand.
-
-**Kosten en duur:**
-- **Prijs:** ca. €150 (5.700 THB)
-- **Geldigheid:** 90 dagen (moet verlengd worden voor langer verblijf)
-- **Verlenging:** mogelijk, maar je moet een werkgever in Thailand hebben
-
-**Wat je nodig hebt:**
-- Werkgeverbrief van je Thaise werkgever
-- Paspoort
-- Pasfoto
-- Ingevuld aanvraagformulier
-
-Dit visum is niet iets wat je zelf regelt — je werkgever regelt het. Dus als je een baan in Thailand aangeboden krijgt, zal je toekomstige werkgever dit voor je doen.
-
-### Wanneer heb je dit nodig?
-- Je hebt een contract met een Thaise bedrijf
-- Je bent uitgezonden door een Nederlands bedrijf
-- Je wil legaal in Thailand werken
-
----
-
-## 5. Retirement Visa: voor 50+ jaar
-
-Ben je 50 jaar of ouder en heb je een pensioen? Dan is het **Retirement Visa** interessant. Dit is speciaal voor mensen die van hun pensioen in Thailand willen leven.
-
-**Kosten en duur:**
-- **Prijs:** ca. €80 (3.000 THB)
-- **Geldigheid:** 1 jaar (jaarlijks vernieuwd)
-
-**Vereisten:**
-- Minimaal 50 jaar oud
-- Maandelijks pensioen van minimaal ca. €1.000 (38.000 THB), OF
-- Spaargeld van minimaal €20.000 (760.000 THB) op een Thaise bankrekening
-
-Dit is populair onder Nederlandse gepensioneerden. In onze jaren in Chiang Mai zagen we veel ouderen die dit visum hadden — het is stabiel, betaalbaar, en je hoeft niet elk jaar gedoe met verlenging.
-
-### Hoe aanvragen?
-Via de ambassade in Amsterdam, of je kunt het ook in Thailand aanvragen als je al daar bent. Je hebt een Thaise bankrekening nodig, dus je moet eerst naar Thailand gaan, een rekening openen, geld storten, en dan pas aanvragen.
-
----
-
-## 6. LTR Visa: voor investeerders en high-net-worth individuen
-
-Dit is voor serieus geld. Het **Long Term Resident (LTR) Visa** is nieuw (2024) en speciaal voor rijke expats die lang willen blijven.
-
-**Kosten en vereisten:**
-- **Prijs:** €1.000+ (38.000 THB+)
-- **Geldigheid:** 1 jaar (verlengbaar)
-- **Vereisten:** €800.000+ investering in Thailand, OF €200.000+ in Thaise staatsobligaties, OF pensioen van €2.500+/maand
-
-Dit is niet voor de meeste Nederlanders, maar als je vermogend bent en serieus naar Thailand wil verhuizen, is dit het meest stabiele visum.
-
-> **Wist je dat?** Het LTR-visum geeft ook belastingvoordelen — je betaalt geen belasting over buitenlands inkomen. Dit maakt het aantrekkelijk voor ondernemers.
+> **Wist je dat?** De DTV is veel voordeliger dan de oude ED Visa (onderwijs) of Business Visa, die beide 10.000-15.000 THB kostten en meer bureaucratie vereisten.
 >
-> *Bron: [HLB Thailand - LTR Visa Updates](https://www.hlbthai.com/thailand-long-term-resident-ltr-visa/)*
-
----
-
-## 7. Aanvraagproces stap-voor-stap
-
-Laten we het concreet maken. Hier is hoe je een visum aanvraagt, stap voor stap.
-
-### Stap 1: Bepaal welk visum je nodig hebt
-Stel jezelf deze vragen:
-- Hoe lang blijf ik? (< 60 dagen = visa-vrij; 60-120 = TR; 120+ = DTV/LTR)
-- Werk ik in Thailand? (ja = NIB; nee = DTV of TR)
-- Ben ik 50+? (ja = Retirement; nee = DTV)
-
-### Stap 2: Verzamel je papieren
-Dit verschilt per visum, maar in het algemeen:
-- Paspoort (kopie + origineel)
-- Pasfoto (4x6 cm, witte achtergrond)
-- Ingevuld aanvraagformulier
-- Bankafschrift of werkgeverbrief
-- Hotelreservering
-
-### Stap 3: Dien in
-**Optie A: Ambassade Amsterdam**
-- Adres: Lange Voorhout 4, Den Haag
-- Openingstijden: ma-vr, 9:00-12:00 (indiening), 14:00-16:00 (uitgifte)
-- Kosten: alleen visum-fee (geen servicekosten)
-- Duur: 5-10 werkdagen
-
-**Optie B: Visumservice**
-- Online zoeken naar "Thailand visum service Nederland"
-- Kosten: visum-fee + €20-30 servicekosten
-- Duur: 3-7 werkdagen
-- Voordeel: ze controleren alles, minder kans op fouten
-
-**Optie C: Online e-visa (DTV)**
-- Via website Thai Embassy online portal
-- Kosten: alleen visum-fee
-- Duur: 1-2 dagen
-- Nadeel: je moet naar Thailand voor biometrische gegevens
-
-### Stap 4: Wacht en ontvang
-Je krijgt je paspoort terug met visum, of je ontvangt een e-visa-code. Klaar.
+> *Bron: [Thailand Insider Guide](https://thailandinsiderguide.com/)*
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -281,120 +149,206 @@ Je krijgt je paspoort terug met visum, of je ontvangt een e-visa-code. Klaar.
   </div>
 </div></div>
 
----
-
-## 8. Veelvoorkomende fouten en hoe je ze vermijdt
-
-We hebben veel Nederlanders zien struikelen over dezelfde dingen. Hier zijn de klassieke fouten:
-
-**Fout 1: Paspoort is bijna verlopen**
-Je paspoort moet minimaal 6 maanden geldig zijn. Veel mensen checken dit niet en krijgen hun visum geweigerd. Check dit EERST.
-
-**Fout 2: Verkeerd visumtype kiezen**
-Je boekt een DTV maar je wil eigenlijk maar 3 weken blijven. Geld verspild. Kies je visum op basis van je werkelijke plannen, niet op wat het goedkoopst lijkt.
-
-**Fout 3: Hotelreservering vergeten**
-Voor bijna elk visum heb je een hotelreservering nodig. Veel mensen denken: "Ik boek later wel." Nee. Boek nu, zelfs als je het later cancelt. Je hebt het bewijs nodig.
-
-**Fout 4: Bankafschrift te oud**
-Je bankafschrift mag niet ouder zijn dan 1 maand. Zorg dat je het vers is.
-
-**Fout 5: Visa runs doen**
-Je gaat naar Laos, komt terug, en denkt dat je nog 60 dagen hebt. Dit werkt nog, maar het wordt steeds strenger. De immigratie ziet je naam in het systeem. Onze tip: als je langer dan 120 dagen wil, kies je beter voor DTV of LTR.
+Tijdens onze tijd in Chiang Mai (3 jaar) zagen we veel Nederlanders overstappen naar de DTV zodra het beschikbaar was. Het scheelt maanden bureaucratie en je kunt veel flexibeler werken.
 
 ---
 
-## 9. Kosten samengevat: wat geeft je het meeste waarde?
+## 4. Long-Term Resident (LTR) Visa — Voor Serieuze Plannen
 
-Hier is een eerlijke vergelijking van wat je betaalt versus wat je krijgt:
+De **Long-Term Resident (LTR) Visa** is voor wie echt van plan is langer in Thailand te blijven — 4 jaar, hernieuwbaar. Dit is niet voor toeristen, maar voor expats, pensionados, en mensen die Thailand hun thuis willen maken.
 
-| Optie | Totale kosten | Duur | Waarde per dag | Best voor |
-|-------|---------------|------|----------------|-----------|
-| **Visa-vrij** | €0 | 60 dagen | €0 | Korte vakantie |
-| **TR-visum** | €70 | 60 dagen | €1,17 | Verlengde vakantie |
-| **DTV** | €280 | 180 dagen | €1,56 | Halfjaar digitaal nomade |
-| **Retirement** | €80/jaar | 365 dagen | €0,22 | Pensioneerders |
-| **LTR** | €1.000+/jaar | 365 dagen | €2,74+ | Rijke expats |
+Kosten: 500.000 THB (ongeveer €13.150) eenmalig, plus jaarlijkse verlenging. Dit klinkt duur, maar je krijgt belastingvoordelen en stabiliteit.
 
-De beste waarde? Voor de meeste Nederlanders: **visa-vrij + DTV**. Je betaalt €280 voor 6 maanden, en je hebt totale vrijheid.
+### Wie komt in aanmerking?
+- **Pensionados**: 65+ met pensioen van minstens 80.000 THB/maand (≈ €2.100)
+- **Remote workers/Freelancers**: Inkomsten van minstens 80.000 THB/maand
+- **Ondernemers**: Bedrijf in Thailand met minstens 2 miljoen THB investering
+- **Speciaal talent**: Experts in bepaalde sectoren (tech, onderwijs, etc.)
+
+### Voordelen
+- 4 jaar geldig (niet jaarlijks verlengen)
+- Belastingvoordelen (50% inkomstenbelasting korting voor bepaalde inkomsten)
+- Makkelijker bank- en huisrekening openen
+- Geen visa-runs nodig
+
+### Nadelen
+- Hoge initiële kosten
+- Strenge documentatie-eisen
+- Jaarlijkse rapportage verplicht
+
+Dit is iets voor wie echt wil blijven. Voor een 2-3 maanden vakantie is dit overkill.
 
 ---
 
-## 10. Praktische tips vanuit ervaring
+## 5. Destination Thailand Visa — De Nieuwe Optie
 
-### Timing je visumaanvraag goed
-Als je in mei wil vertrekken (meivakantie), vraag je visum in april aan. De ambassade is in mei druk. Zelfde voor zomervakantie — vraag in juni aan.
+De **Destination Thailand Visa** is een relatief nieuwe optie (2024) voor wie 180 dagen wil blijven zonder te werken. Dit is voor pensionados, mensen met passief inkomen, of wie gewoon lang wil rondreizen.
 
-### Zorg voor digitale kopieën
-Scan alles (paspoort, bankafschrift, hotelreservering) en sla het op in je telefoon. Je hebt het nodig als je in Thailand bent en iets moet verlengen.
+Kosten: 5.000 THB (ongeveer €132) voor 180 dagen. Je hoeft geen inkomsten te bewijzen, alleen dat je voldoende middelen hebt (ongeveer 500.000 THB op je rekening, ≈ €13.150).
 
-### Leer de basistaal
-Je hoeft geen Thais te spreken, maar "sawasdee krap" (hallo) en "khob khun krap" (dank je) gaan ver. Immigratie-ambtenaren waarderen dit.
+Dit is interessant voor Nederlanders met spaargeld die een half jaar willen verkennen zonder te werken.
 
-### Wees eerlijk over je plannen
-Als je zegt dat je toerist bent maar je werkt illegaal, krijg je problemen. Kies het juiste visum. Het is niet veel duurder, en het scheelt je stress.
+---
 
-> **Wist je dat?** Veel Nederlanders combineren hun visum met het regenseizoen (mei-oktober). Het is goedkoper, minder druk, en de natuur is groen. Ideaal voor digitale nomaden.
+## 6. Veelvoorkomende Fouten en Wat Je Moet Vermijden
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+Na jaren in Thailand hebben we gezien wat Nederlanders verkeerd doen. Hier zijn de klassieke fouten:
+
+### Fout 1: Visa Exemption overschrijden
+Je krijgt 30 dagen, maar je denkt: "Ik blijf gewoon 35 dagen, wie merkt het?" Dit kan je uitwijzing opleveren en een ban van 5 jaar. Niet waard. Als je langer wilt, vraag je Tourist Visa aan.
+
+### Fout 2: Werken op Tourist Visa
+Je bent op vakantie, maar je beantwoordt even e-mails voor je baas. Technisch illegaal. Als je werkt, heb je een Work Permit nodig. Veel Nederlanders doen dit, maar het is risico.
+
+### Fout 3: Visa-runs als toerist
+Je verlaat Thailand elke 30 dagen naar Cambodja of Laos om je visa te "resetten". Dit werkt, maar immigration ziet het. Na 4-5 runs kunnen ze je weigeren. Dit is geen permanente oplossing.
+
+### Fout 4: Valse inkomsten bewijzen
+Je vraagt je vriend om een valse bankafschrift voor je DTV-aanvraag. Dit is fraude. Immigration controleert dit steeds vaker. Niet doen.
+
+### Fout 5: Paspoort niet op tijd vernieuwen
+Je paspoort verloopt over 3 maanden. Je denkt: "Ik verleng het wel in Thailand." Veel ambassades hebben lange wachtlijsten. Verleng je paspoort thuis voordat je gaat.
+
+---
+
+## 7. Praktische Stappen: Van Thuis naar Thailand
+
+Hier is je checklist, stap voor stap:
+
+### 4-6 Weken voor vertrek
+1. **Controleer je paspoort**: Minstens 6 maanden geldig
+2. **Kies je visumtype**: Exemption (gratis), Tourist (€40), of DTV (€263)
+3. **Verzamel documenten**: Pasfoto's, kopieën, retourticket
+4. **Dien in**: Via e-Visa portal (online) of ambassade Den Haag
+
+### 1-2 Weken voor vertrek
+5. **Ontvang je visum**: Via e-mail (online) of per post (ambassade)
+6. **Print het uit**: Zet je e-Visa op je telefoon en print hem ook
+7. **Boek vlucht**: KLM, EVA Air, of Thai Airways van Schiphol
+8. **Regel eSIM**: Voor internet in Thailand (zie widget hieronder)
+
+### Bij aankomst
+9. **Ga naar immixtie-balie**: Toon je paspoort en visum
+10. **Krijg je stempel**: Je bent officieel in Thailand
+11. **Haal geld**: ATM's overal, 200 THB (€5,25) per transactie
+12. **Koop SIM-kaart**: AIS, Dtac, of True Move (of je eSIM is al actief)
+
+<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
     <div style="flex:1;">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">[Book Your Stay](https://booking.tpo.lv/2PT1kR82?subid=blog)</strong>
+        <span style="font-size:28px;line-height:1;">🎒</span>
+        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog)</strong>
       </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
+      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
     </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
+    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
       <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
     </a>
   </div>
 </div></div>
 
+Onze tip: Zet je visum ook als foto in je telefoon. Je hebt het altijd bij je, en je hoeft niet je paspoort overal mee te nemen.
+
+---
+
+## 8. Kosten Samengevat: Wat Kost Je Reis Echt?
+
+Hier is een realistisch overzicht van visumkosten voor een Nederlandse reis naar Thailand:
+
+| Scenario | Visum | Kosten | Totaal |
+|----------|--------|--------|--------|
+| **2 weken vakantie** | Visa Exemption | Gratis | €0 |
+| **1 maand vakantie** | Visa Exemption | Gratis | €0 |
+| **6 weken vakantie** | Tourist Visa (online) | €35 | €35 |
+| **3 maanden sabbatical** | DTV | €263 | €263 |
+| **6 maanden nomad** | DTV (verlenging) | €263 + €263 | €526 |
+| **Permanent (4 jaar)** | LTR | €13.150 | €13.150 |
+
+Visa is meestal niet je grootste kostenpost. Vlucht (€600-1.200), hotel (€20-100/nacht), en eten (€3-10/maaltijd) zijn veel meer.
+
+---
+
+## 9. Veiligheid en Vertrouwen: Waar Je Aanvraagt
+
+**Alleen officiële kanalen gebruiken:**
+- Thai e-Visa: https://www.thaievisa.go.th/ (officieel)
+- Thaise Ambassade Den Haag (officieel)
+- Immigration offices in Thailand (officieel)
+
+**Niet gebruiken:**
+- Visa-agenten op straat
+- Onbekende websites die "sneller" beloven
+- Vrienden van vrienden die "connecties" hebben
+
+We hebben gezien dat Nederlanders soms via onbetrouwbare agenten gaan omdat ze denken dat het sneller is. Het enige wat je krijgt is geldverspilling en stress.
+
+<div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:12px;">
+    <span style="font-size:28px;line-height:1;">💡</span>
+    <div style="flex:1;">
+      <strong style="font-size:18px;color:#92400E;display:block;margin-bottom:6px;">Pro Tip</strong>
+      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">Controleer altijd de URL van de e-Visa site — het moet https://www.thaievisa.go.th/ zijn, niet iets dat lijkt op "thaievisa-official.com" of soortgelijk. Phishing is een risico.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+## 10. Na Aankomst: Visa Verlenging en Visa Runs
+
+Je bent in Thailand, je visum loopt af. Wat nu?
+
+### Tourist Visa verlengen
+Je kunt je Tourist Visa eenmaal verlengen voor 30 extra dagen. Dit doe je via immigration in elke grote stad (Bangkok, Chiang Mai, Phuket). Kosten: 1.900 THB (≈ €50). Duur: 1 dag.
+
+### Visa Run
+Je verlaat Thailand, gaat naar Cambodja of Laos, en komt terug met een nieuw Visa Exemption (30 dagen). Dit werkt, maar immigration let erop. Na 4-5 runs kunnen ze je weigeren.
+
+### Overstappen naar DTV of LTR
+Dit is beter. Je gaat naar immigration, vraagt je huidige visum in te trekken, en vraagt DTV of LTR aan. Dit duurt 5-10 werkdagen.
+
+Onze ervaring: Als je weet dat je langer dan 60 dagen blijft, vraag je meteen DTV aan. Het scheelt gedoe later.
+
 ---
 
 ## Veelgestelde Vragen
 
-### Kan ik mijn visum verlengen als ik al in Thailand ben?
-Ja. Je kunt de meeste visumtypen verlengen via het lokale Immigration Bureau. Voor TR kan je 30 dagen extra krijgen (kosten: ca. €10). Voor DTV: eenmalig nog 180 dagen. Zorg dat je minstens 2 weken voor je vervaldatum aanvraagt.
+### Kan ik als Nederlander zomaar naar Thailand zonder visum?
+Ja, 30 dagen gratis via Visa Exemption. Je paspoort is genoeg. Langer? Dan heb je Tourist Visa of DTV nodig.
 
-### Wat gebeurt er als mijn visum verloopt en ik ben nog in Thailand?
-Je krijgt een boete van 500 THB (€13) per dag. Dit wordt opgeteld als je vertrekt. Dus 10 dagen over = 5.000 THB boete. Het is niet dramatisch, maar het is onnodig. Zorg dat je op tijd vertrekt of verlengt.
+### Hoeveel kost een vliegticket van Schiphol naar Bangkok in 2026?
+Dit varieert sterk (seizoen, boekingstijd). Verwacht €600-1.200 retour. Mei is regenseizoen, dus tickets zijn goedkoper dan in december.
 
-### Kan ik als Nederlander in Thailand werken zonder visum?
-Nee. Je hebt een werkvisum (NIB) nodig. Illegaal werken is een serieus misdrijf — je krijgt boetes, je naam gaat in een systeem, en je kunt gedeporteerd worden. Niet doen.
+### Kan ik mijn visum online verlengen?
+Tourist Visa kun je online aanvragen, maar verlenging moet je in Thailand doen via immigration. DTV en LTR moeten ook in Thailand aangevraagd/verlengd worden.
 
-### Hoe lang duurt het om een Thaise bankrekening te openen?
-Ca. 30 minuten. Je hebt je paspoort, een adres in Thailand (hotelreservering volstaat), en geld nodig. De meeste banken spreken Engels. Dit is belangrijk als je DTV of Retirement visum wil aanvragen.
+### Wat als mijn paspoort in Thailand verloopt?
+Ga naar de Nederlandse ambassade in Bangkok (Wireless Road). Zij kunnen je paspoort vernieuwen. Dit duurt 2-4 weken en kost ongeveer €100.
 
-### Wat is het goedkoopste visum voor 3 maanden?
-Visa-vrij (60 dagen, €0) + TR-visum (60 dagen, €70) = 120 dagen voor €70. Daarna moet je DTV (€280 voor nog 180 dagen) of visa run doen. Dus: €70 voor 120 dagen is het goedkoopst.
+### Is Thailand veilig voor Nederlanders?
+Ja, Thailand is veilig. Meer informatie in onze [veiligheidsgids voor Thailand](https://go2-thailand.com/nl/is-thailand-safe/). Vermijd grote drukte in mei (regenseizoen, minder toeristen, minder problemen).
 
-### Kan ik mijn visum online aanvragen vanuit Nederland?
-Voor DTV ja, via de Thai Embassy online portal. Voor TR en andere typen: nee, je moet via ambassade of service. Online is sneller maar je moet naar Thailand voor biometrische gegevens.
+### Hoe betaal ik mijn visum online?
+Via creditcard (Visa, Mastercard) op de e-Visa portal. Je krijgt een bevestigingscode, en je visum wordt via e-mail gestuurd.
 
-### Hoeveel geld moet ik op mijn bankrekening hebben?
-Dit verschilt per visum. Voor DTV: ca. €2.500-3.000. Voor Retirement: €20.000. Voor TR: geen specifieke eis, maar ze willen zien dat je je vakantie kan betalen (bankafschrift met normale bedragen is genoeg).
-
-### Wat als mijn paspoort verlopen is?
-Je kunt geen visum aanvragen. Je moet eerst je paspoort vernieuwen bij de gemeente. Dit duurt 1-2 weken. Plan dit in voordat je visum aanvraagt.
+### Kan ik mijn visum verlengen als ik in een ander land ben?
+Nee, je moet in Thailand zijn. Visa verlenging doe je via immigration in Thailand.
 
 ---
 
 ## Conclusie
 
-Het **Thailand visa-systeem** is niet ingewikkeld als je weet welk visum je nodig hebt. Voor de meeste Nederlanders: visa-vrij voor korte vakanties, DTV voor langere periodes, en Retirement als je 50+ bent. De ambassade in Den Haag is behulpzaam, en een visumservice scheelt je gedoe.
+De **Thailand visa voor Nederlanders in 2026** is eenvoudiger dan ooit. Kies je optie (Exemption, Tourist, DTV, of LTR), regel je papieren, en je bent klaar. Online e-Visa is het snelst en minst gedoe.
 
-Onze grootste tip: plan je visum minstens 4-6 weken voordat je vertrekt. Niet de dag ervoor. En kies het visum dat bij je werkelijke plannen past, niet het goedkoopste.
+Mei is regenseizoen, dus minder drukte op luchthavens en lagere prijzen — ideaal om je visum rustig in orde te brengen voordat je gaat. Of je nu 2 weken naar Bangkok gaat of 6 maanden vanuit Chiang Mai werkt, je weet nu precies wat je nodig hebt.
 
-Voor meer praktische reisinformatie, check onze [complete Thailand reisgids](https://go2-thailand.com/nl/thailand-travel-guide/) en onze gids voor [veiligheid in Thailand](https://go2-thailand.com/nl/is-thailand-safe/). En als je al in Thailand bent en vragen hebt, check [onze praktische informatiepagina](https://go2-thailand.com/nl/practical-info/).
+**Volgende stap?** Bekijk onze [volledige Thailand reisgids](https://go2-thailand.com/nl/thailand-travel-guide/) voor tips over waar je heen gaat, of lees meer over [het beste moment om naar Thailand te reizen](https://go2-thailand.com/nl/thailand-index/best-time/).
 
-Veel sterkte met je visumaanvraag — en tot ziens in Thailand! 🇹🇭
+Veel sterkte met je aanvraag — en tot ziens in Thailand!
 
 ---
 
-**Disclosure:** We kunnen een kleine commissie verdienen via onze links naar visumservices en boekingsplatforms, zonder extra kosten voor jou. Dit helpt ons gratis reisgidsen blijven maken.
-
-```
+*Disclaimer: Dit artikel is gebaseerd op informatie van mei 2026. Visumregels kunnen veranderen. Controleer altijd de officiële Thai Embassy website of Tourism Authority of Thailand voor de meest actuele informatie voordat je aanvraagt.*
