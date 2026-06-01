@@ -62,6 +62,15 @@
       },
       "locale": "en",
       "subscribedAt": "2026-04-03T14:17:05.802Z"
+    },
+    {
+      "endpoint": "https://updates.push.services.mozilla.com/wpush/v2/gAAAAABqHVKnx8K8jgKpRy9r0rAHna9t3XQHkTeFjv_QYKZVT4z7eD14zXwCiXJ1ybwo5s-BuNKef5flRc59Na2WQbWAj8qla6GbkT0xoUNIjMbUJu25TrjqILHs8AEJofoYQh84BHZH2L1P8HRDf5UgtctK1JjC91Sx7ji3wmYUdq9ST-5iAgg",
+      "keys": {
+        "p256dh": "BLwOrY4NtY0JvvhbavIlHnaVFUa681kVptEYRotgich-DKPSvIhflEPSsSvGiZqdBJvdLTX-8Kqpb1tLMv9MUHw",
+        "auth": "HVIRcBV9d4PW8BtPqYz5UQ"
+      },
+      "locale": "en",
+      "subscribedAt": "2026-06-01T09:36:40.435Z"
     }
   ]
 }
