@@ -1,5 +1,19 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  experimental: {
+    // Houd zware statische assets uit de serverless-function-bundles.
+    // Een cron pin-generator tracede ~256MB public/images en overschreed de
+    // 250MB-functielimiet, waardoor élke productie-deploy faalde.
+    outputFileTracingExcludes: {
+      '*': [
+        'public/images/**',
+        'public/qrcodes/**',
+        'public/affiliate-qrcodes/**',
+        'public/pinterest/**',
+        'content/blog/**',
+      ],
+    },
+  },
   reactStrictMode: true,
   swcMinify: true,
   trailingSlash: true,
