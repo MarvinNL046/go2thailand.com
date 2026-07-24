@@ -196,6 +196,15 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // DFS found no rankings or backlink signal for the duplicate NL Ubon
+      // Ratchathani travel-guide route. Consolidate broad destination intent
+      // into the researched city owner and keep the English route untouched.
+      {
+        source: '/nl/guides/travel-guide/ubon-ratchathani/',
+        destination: '/nl/city/ubon-ratchathani/',
+        permanent: true,
+        locale: false,
+      },
       // Broad Koh Samet intent belongs to the island pillar, not to a Rayong
       // attraction-detail duplicate. Preserve its existing ranking signal.
       {
