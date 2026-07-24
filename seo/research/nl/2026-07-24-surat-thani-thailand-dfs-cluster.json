@@ -1,0 +1,1245 @@
+{
+  "captured_at": "2026-07-24T13:51:27.601Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "surat thani thailand",
+  "costs": {
+    "suggestions": 0.01512,
+    "related": 0.0204,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "surat thani thailand",
+    "koh tao surat thani thailand",
+    "koh phangan surat thani thailand",
+    "thailand surat thani",
+    "surat thani naar koh samui",
+    "surat thani naar koh tao",
+    "ko samui ko samui district changwat surat thani thailand",
+    "surat thani naar koh phangan",
+    "van surat thani naar khao sok",
+    "surat thani mueang surat thani district changwat surat thani thailand",
+    "van surat thani naar koh tao",
+    "wat te doen in surat thani",
+    "khao sok naar surat thani",
+    "nachttrein bangkok surat thani ervaringen",
+    "surat thani stad",
+    "things to do in surat thani thailand",
+    "what to do in surat thani thailand",
+    "chang wat surat thani thailand",
+    "is surat thani leuk"
+  ],
+  "keywords": [
+    {
+      "keyword": "koh tao surat thani thailand",
+      "volume": 9900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh phangan surat thani thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok airport",
+      "volume": 1900,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kbv airport",
+      "volume": 1300,
+      "kd": 7,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "samui airport",
+      "volume": 1300,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani vliegveld",
+      "volume": 720,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand surat thani",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui naar bangkok",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao naar bangkok",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vlucht koh samui naar bangkok",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok national park surat thani thailand",
+      "volume": 110,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui airport arrivals",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui airport departures",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aankomst bangkok airport",
+      "volume": 90,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai airport",
+      "volume": 90,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani naar bangkok",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand hat yai airport",
+      "volume": 90,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vertrektijden bangkok schiphol",
+      "volume": 90,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok naar khao sok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani naar koh samui",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani naar koh tao",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van khao sok naar krabi",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van koh samui naar koh tao",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vertrek bangkok airport",
+      "volume": 70,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh phangan naar bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van khao sok naar koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van koh samui naar bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ko samui ko samui district changwat surat thani thailand",
+      "volume": 40,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani naar koh phangan",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van khao sok naar koh tao",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van surat thani naar khao sok",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok naar bangkok",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nachttrein bangkok khao sok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "plattegrond vliegveld bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani mueang surat thani district changwat surat thani thailand",
+      "volume": 30,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "van surat thani naar koh tao",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat te doen in surat thani",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok surat thani trein",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon naar bangkok",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok naar koh lanta",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok naar surat thani",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nachttrein bangkok surat thani eerste klas",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nachttrein bangkok surat thani ervaringen",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani stad",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in surat thani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "van khao sok naar koh phangan",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in surat thani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok airport facilities",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok airport transport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chang wat surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "foto's van luchthaven ko samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai airport arrivals",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai airport departures",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai airport google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai airport hotel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai airport map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai airport to koh lipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is surat thani leuk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok national park phanom district changwat surat thani thailand",
+      "volume": 10,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok national park phanom district surat thani thailand",
+      "volume": 10,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok to surat thani airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ko tao ko pha ngan district surat thani thailand",
+      "volume": 10,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ko tao ko pha-ngan district surat thani thailand",
+      "volume": 10,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui airport airlines",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui airport wiki",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui surat thani 84140 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui surat thani 84320 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lamai coconut beach resort koh samui surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nachttrein chiang mai surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nachttrein thailand bangkok surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "overlap stone maret amphoe ko samui surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ratchaprapha dam reservoir amphoe ban ta khun surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "samui airport map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani airport maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani airport restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani airport taxi",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani airport wiki",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani arrivals",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani bezienswaardigheden",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani map thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani naar bangkok vliegen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani strand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani tips thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi koh samui airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "taxi surat thani airport to khao sok",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand sleeper train bangkok to surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tips thailand surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veerboot naar koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "veerboot surat thani naar koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vertrek bangkok brussel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vliegveld bangkok don mueang",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bophut bay koh samui surat thani 84320 thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "elephant hills surat thani thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 291.84
+    },
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 155.52
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 93.408
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 63.264
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 38.736
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 34.8
+    },
+    {
+      "domain": "www.vakantiediscounter.nl",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 28.511999999999997
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 18.912
+    },
+    {
+      "domain": "www.bmair.nl",
+      "avgPosition": 9,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 14.399999999999999
+    },
+    {
+      "domain": "www.tuimusement.com",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 9.792
+    },
+    {
+      "domain": "www.expedia.nl",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 9.024
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.664
+    },
+    {
+      "domain": "www.caracterereizen.nl",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.288
+    },
+    {
+      "domain": "www.thailandblog.nl",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.5120000000000005
+    },
+    {
+      "domain": "dekleinewereldreizigers.nl",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.5120000000000005
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.128
+    },
+    {
+      "domain": "www.alltrails.com",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.168
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.4000000000000004
+    },
+    {
+      "domain": "www.polarsteps.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.208
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.3040000000000003
+    },
+    {
+      "domain": "www.vakantiewoningen.nl",
+      "avgPosition": 26.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 26.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.064
+    },
+    {
+      "domain": "vakantiethailand.nl",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 34,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.sawadiscovery.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "thailandtidbits.com",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.thailandholidaygroup.com",
+      "avgPosition": 43,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "phuketvakantieinfo.nl",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.tiptoptravel.nl",
+      "avgPosition": 50.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.turismotailandes.com",
+      "avgPosition": 51.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.khaosok.com",
+      "avgPosition": 54.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.104
+    },
+    {
+      "domain": "www.skyscanner.nl",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.geckoroutes.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "my.trip.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.takeyourbackpack.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "nl.wikivoyage.org",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.hashcorner.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.kkday.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "it.hotels.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.thailand-spezialisten.com",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    }
+  ]
+}

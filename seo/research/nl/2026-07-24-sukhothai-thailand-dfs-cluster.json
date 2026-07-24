@@ -1,0 +1,712 @@
+{
+  "captured_at": "2026-07-24T13:51:27.930Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "sukhothai thailand",
+  "costs": {
+    "suggestions": 0.0144,
+    "related": 0.01404,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "sukhothai thailand",
+    "sukhothai thanee",
+    "thailand sukhothai",
+    "sukhothai bussum",
+    "sukhothai of ayutthaya",
+    "sukhothai thanee amsterdam",
+    "sukhothai thanee bussum",
+    "hotels in sukhothai thailand",
+    "hotels sukhothai thailand",
+    "sukhothai restaurant menu",
+    "sukhothai thailand things to do",
+    "sukhothai thailand to chiang mai",
+    "sukhothai thanee menu",
+    "sukhothai tips thailand",
+    "thailand sukhothai tempel",
+    "van bangkok naar sukhothai",
+    "what to do in sukhothai thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "sukhothai thanee",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand sukhothai",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai naarden",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai restaurant",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "herenstraat 26 bussum",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai hotel",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai bussum kapelstraat",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai bussum",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai massage",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai of ayutthaya",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thanee amsterdam",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thanee bussum",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aen guy boutique hotel sukhothai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "baan georges hotel sukhothai thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel sukhothai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in sukhothai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels sukhothai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nieuw thais restaurant bussum",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai restaurant menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand hotel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thanee menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai tips thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai weer",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand sukhothai tempel",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "van bangkok naar sukhothai",
+      "volume": 10,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in sukhothai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "historisch park sukhothai thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels sukhothai thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai capital thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tips thailand sukhothai",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7,
+      "estimatedTraffic": 114.934
+    },
+    {
+      "domain": "reisgenie.nl",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 2,
+      "estimatedTraffic": 198.55
+    },
+    {
+      "domain": "www.sawadee.nl",
+      "avgPosition": 13.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.7,
+      "estimatedTraffic": 18.485999999999997
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.8,
+      "estimatedTraffic": 107.67000000000002
+    },
+    {
+      "domain": "www.vanverre.nl",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 11.03
+    },
+    {
+      "domain": "verrassendthailand.nl",
+      "avgPosition": 21.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 9.494
+    },
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 31.904
+    },
+    {
+      "domain": "www.naturescanner.nl",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 18.624
+    },
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 31.904
+    },
+    {
+      "domain": "www.riksjatravel.nl",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.288
+    },
+    {
+      "domain": "www.333travel.nl",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.287999999999999
+    },
+    {
+      "domain": "unesco.nl",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.622
+    },
+    {
+      "domain": "www.geckoroutes.com",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.464
+    },
+    {
+      "domain": "veggiewayfarer.com",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.5599999999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.045999999999999
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.048
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.072
+    },
+    {
+      "domain": "www.sukhothaithanee.nl",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 577.6
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 307.8
+    },
+    {
+      "domain": "kleineglobetrotter.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 31.136
+    },
+    {
+      "domain": "www.debuik.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 184.87
+    },
+    {
+      "domain": "www.asiadirect.nl",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 21.088
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 125.21
+    },
+    {
+      "domain": "www.gooieneemlander.nl",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 64.22
+    },
+    {
+      "domain": "www.reisroutes.nl",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 8.192
+    },
+    {
+      "domain": "crowdaboutnow.nl",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 48.64
+    },
+    {
+      "domain": "nl.linkedin.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 37.43
+    },
+    {
+      "domain": "travelrumors.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 4.8
+    },
+    {
+      "domain": "www.parool.nl",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 28.5
+    },
+    {
+      "domain": "www.yelp.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 21.47
+    },
+    {
+      "domain": "www.noordhollandsdagblad.nl",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.29
+    },
+    {
+      "domain": "www.theblondtravels.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.4
+    },
+    {
+      "domain": "www.pangeatravel.nl",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.888
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.209999999999999
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.792
+    },
+    {
+      "domain": "www.mapquest.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 10.64
+    },
+    {
+      "domain": "prettyplaces.nl",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.6320000000000001
+    },
+    {
+      "domain": "www.backpackenzuidoostazie.nl",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.376
+    },
+    {
+      "domain": "www.het-menu.nl",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.17
+    },
+    {
+      "domain": "sukhothai-thanee.res-discover.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.17
+    },
+    {
+      "domain": "www.volkskrant.nl",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.27
+    },
+    {
+      "domain": "jtravel.nl",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8640000000000001
+    },
+    {
+      "domain": "www.corner.inc",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.56
+    },
+    {
+      "domain": "www.nieuwskoerier.nl",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 4.180000000000001
+    },
+    {
+      "domain": "www.backpackblog.nl",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.columbusmagazine.nl",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "fr.restaurantguru.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "karlijntravels.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.timetravelturtle.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "whc.unesco.org",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    }
+  ]
+}
