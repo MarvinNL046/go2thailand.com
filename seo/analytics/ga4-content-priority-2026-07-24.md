@@ -9,9 +9,9 @@
 
 GA4 bepaalt welke bestaande URLs beschermd en geprioriteerd worden; DataForSEO bepaalt de actuele zoekvraag, SERP-vorm, concurrenten en echte PAA’s. Een route met verkeer wordt niet verwijderd of geconsolideerd zonder aanvullende ranking-, backlink- en inhoudscontrole. Een korte engagementduur is een diagnose-aanleiding, geen automatisch bewijs van slechte content.
 
-## Nederlandse eerstvolgende owner
+## Nederlandse GA4-route
 
-- `/nl/blog/el-nino-2026-thailand-weather-heatwave-travel-tips/`: 22 weergaven, 14 actieve gebruikers en 24 seconden engagement. Deze route krijgt zelfstandige Nederlandse DataForSEO-research en een visuele editorial-upgrade of wordt — als de zoekintentie aantoonbaar structureler is — gecontroleerd geconsolideerd naar een passende weerowner.
+- `/nl/blog/el-nino-2026-thailand-weather-heatwave-travel-tips/`: 22 weergaven, 14 actieve gebruikers en 24 seconden engagement. Deze route is inmiddels volledig vernieuwd met zelfstandige Nederlandse DataForSEO-research, twee live SERP's, twaalf echte PAA's, WMO/TMD-bronhiërarchie, een premium climate-update-template, twee unieke assets, Amazon-paklijst en groene desktop-/mobiele QA. De URL en zoekintentie zijn behouden; er was geen inhoudelijke reden om het verkeer via consolidatie te riskeren.
 
 ## Beschermde Engelse updatebatch na afronding NL
 
@@ -49,4 +49,3 @@ Het rapport toont nul belangrijke gebeurtenissen en nul omzet. Voor production-r
 ## Visuele kwaliteitslat
 
 Iedere geselecteerde route wordt niet alleen tekstueel bijgewerkt. De acceptatie vereist ook een passende premium hero, heldere antwoordhiërarchie, mobiele sectienavigatie waar nuttig, relevante unieke beelden of visualisaties, zichtbare bron-/freshnessinformatie, interne routekaarten en transparante affiliate-CTA’s.
-
