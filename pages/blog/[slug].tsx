@@ -27,7 +27,7 @@ import {
   TWELVEGO_GENERIC,
   withPlacementSubId,
 } from '../../lib/affiliates';
-import { getAllPosts, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
+import { getAllPosts, getBlogConsolidation, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
 import { useGsapBlogHero } from '../../components/animations/useGsapBlogHero';
 import { useGsapScrollReveal } from '../../components/animations/useGsapScrollReveal';
 import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
@@ -579,6 +579,16 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const lang = locale === 'nl' ? 'nl' : 'en';
+
+  const consolidationDestination = getBlogConsolidation(lang, slug);
+  if (consolidationDestination) {
+    return {
+      redirect: {
+        destination: consolidationDestination,
+        permanent: true,
+      },
+    };
+  }
 
   const post = await getPostBySlug(slug, lang);
 

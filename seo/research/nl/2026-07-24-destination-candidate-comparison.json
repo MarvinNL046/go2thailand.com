@@ -1,0 +1,97 @@
+{
+  "captured_at": "2026-07-24T18:18:00.007Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "cost": 0.01308,
+  "requested_keywords": [
+    "ban krut thailand",
+    "bueng kan thailand",
+    "chanthaburi thailand",
+    "chiang khan thailand",
+    "lopburi thailand",
+    "mae hong son thailand",
+    "mukdahan thailand",
+    "nakhon phanom thailand",
+    "nakhon ratchasima thailand",
+    "nakhon si thammarat thailand",
+    "nong khai thailand",
+    "ubon ratchathani thailand"
+  ],
+  "rows": [
+    {
+      "keyword": "ban krut thailand",
+      "volume": 170,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 2.23
+    },
+    {
+      "keyword": "mae hong son thailand",
+      "volume": 110,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.96
+    },
+    {
+      "keyword": "chanthaburi thailand",
+      "volume": 90,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.79
+    },
+    {
+      "keyword": "lopburi thailand",
+      "volume": 90,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "nakhon ratchasima thailand",
+      "volume": 90,
+      "difficulty": 7,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "ubon ratchathani thailand",
+      "volume": 90,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "nong khai thailand",
+      "volume": 70,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "bueng kan thailand",
+      "volume": 30,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "mukdahan thailand",
+      "volume": 20,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 2.24
+    }
+  ]
+}

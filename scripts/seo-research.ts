@@ -4,6 +4,7 @@
  * Paid/live modes:
  *   npm run seo:research -- serp nl "krabi vakantie"
  *   npm run seo:research -- overview en
+ *   npm run seo:research -- compare nl "nakhon ratchasima thailand|ubon ratchathani thailand"
  *   npm run seo:research -- update nl
  *   npm run seo:research -- quickwins en go2-thailand.com
  *   npm run seo:research -- cluster nl "krabi tips"
@@ -166,6 +167,64 @@ async function keywordOverview(locale: SeoLocale, write = false): Promise<void> 
     writeFileSync(keywordFile(locale), content);
     console.log(`Updated ${keywordFile(locale)}.`);
   }
+}
+
+async function keywordComparison(locale: SeoLocale, rawKeywords: string): Promise<void> {
+  const keywords = [...new Set(rawKeywords.split('|').map(item => item.trim()).filter(Boolean))];
+  if (keywords.length < 2) throw new Error('Supply at least two pipe-separated keywords for comparison.');
+  if (keywords.length > 100) throw new Error('A comparison supports at most 100 keywords.');
+
+  const config = market(locale);
+  const json = await post('/dataforseo_labs/google/keyword_overview/live', [{
+    keywords,
+    ...config,
+  }]);
+  const task = json.tasks?.[0];
+  const items: any[] = task?.result?.[0]?.items || [];
+  const rows = items.map(item => ({
+    keyword: String(item.keyword || ''),
+    volume: item.keyword_info?.search_volume ?? null,
+    difficulty: item.keyword_properties?.keyword_difficulty ?? null,
+    intent: item.search_intent_info?.main_intent || '',
+    competition: item.keyword_info?.competition_level || '',
+    cpc: item.keyword_info?.cpc ?? null,
+  })).sort((a, b) => (b.volume ?? -1) - (a.volume ?? -1));
+
+  const date = new Date().toISOString().slice(0, 10);
+  const outputDir = resolve(SEO_ROOT, 'research', locale);
+  mkdirSync(outputDir, { recursive: true });
+  const basename = `${date}-destination-candidate-comparison`;
+  writeFileSync(resolve(outputDir, `${basename}.json`), JSON.stringify({
+    captured_at: new Date().toISOString(),
+    locale,
+    market: config,
+    cost: task?.cost ?? null,
+    requested_keywords: keywords,
+    rows,
+  }, null, 2));
+  writeFileSync(resolve(outputDir, `${basename}.md`), [
+    '# Destination candidate comparison',
+    '',
+    `**Captured:** ${new Date().toISOString()}  `,
+    `**Locale:** ${locale}  `,
+    `**Market:** ${config.location_name}  `,
+    `**DFS cost:** ${task?.cost ?? '—'}`,
+    '',
+    '| Keyword | Volume | KD | Intent | Competition | CPC |',
+    '|---|---:|---:|---|---|---:|',
+    ...(rows.length
+      ? rows.map(row => `| ${row.keyword} | ${row.volume ?? '—'} | ${row.difficulty ?? '—'} | ${row.intent || '—'} | ${row.competition || '—'} | ${row.cpc ?? '—'} |`)
+      : ['| No results | — | — | — | — | — |']),
+    '',
+    'This comparison only prioritises the next research target. It does not replace a full cluster, SERP, competitor, PAA, ranking and backlink analysis.',
+    '',
+  ].join('\n'));
+
+  console.log(`Saved ${rows.length} candidate metrics; DFS cost ${task?.cost ?? '—'}.`);
+  for (const row of rows) {
+    console.log(`${row.keyword} | vol ${row.volume ?? '—'} | kd ${row.difficulty ?? '—'} | ${row.intent || 'unknown intent'}`);
+  }
+  console.log(resolve(outputDir, `${basename}.md`));
 }
 
 async function quickwins(locale: SeoLocale, domain: string): Promise<void> {
@@ -497,13 +556,14 @@ const keyword = rest.join(' ').trim();
 
 const run = mode === 'serp' ? serp(locale, keyword)
   : mode === 'overview' ? keywordOverview(locale, false)
-    : mode === 'update' ? keywordOverview(locale, true)
-      : mode === 'quickwins' ? quickwins(locale, rest[0] || 'go2-thailand.com')
-        : mode === 'cluster' ? keywordCluster(locale, keyword)
-          : mode === 'parse' ? parsePage(locale, keyword)
-            : mode === 'rankings' ? rankings(locale, keyword)
-              : mode === 'backlinks' ? backlinkSummary(locale, keyword)
-                : Promise.reject(new Error('Usage: seo-research.ts <serp|cluster|parse|rankings|backlinks|overview|update|quickwins> <nl|en> [keyword|domain]'));
+    : mode === 'compare' ? keywordComparison(locale, keyword)
+      : mode === 'update' ? keywordOverview(locale, true)
+        : mode === 'quickwins' ? quickwins(locale, rest[0] || 'go2-thailand.com')
+          : mode === 'cluster' ? keywordCluster(locale, keyword)
+            : mode === 'parse' ? parsePage(locale, keyword)
+              : mode === 'rankings' ? rankings(locale, keyword)
+                : mode === 'backlinks' ? backlinkSummary(locale, keyword)
+                  : Promise.reject(new Error('Usage: seo-research.ts <serp|cluster|parse|rankings|backlinks|overview|update|quickwins|compare> <nl|en> [keyword|domain]'));
 
 run.catch(error => {
   console.error(error instanceof Error ? error.message : error);
