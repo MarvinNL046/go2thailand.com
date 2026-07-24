@@ -1,0 +1,527 @@
+{
+  "captured_at": "2026-07-24T20:00:04.979Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "lopburi thailand",
+  "costs": {
+    "suggestions": 0.01332,
+    "related": 0.01284,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "lopburi thailand",
+    "thailand lopburi",
+    "lopburi monkeys",
+    "hotels in lopburi thailand",
+    "hotels lopburi thailand",
+    "lopburi monkey problem",
+    "lopburi population",
+    "lopburi thailand monkey festival",
+    "lopburi thailand monkeys",
+    "lopburi thailand to bangkok",
+    "what to do in lopburi thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "thailand lopburi",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi monkeys",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi apen",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi monkey problem",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi population",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand #monkeys",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand monkey festival",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand monkeys",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 106.39999999999999
+    },
+    {
+      "domain": "www.metderugzakom.nl",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 56.7
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 34.055
+    },
+    {
+      "domain": "www.azie.nl",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 23.065
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 10.877
+    },
+    {
+      "domain": "thailande-et-asie.com",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 6.895
+    },
+    {
+      "domain": "thailand-elite.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 4.917
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.3
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.209
+    },
+    {
+      "domain": "www.alltrails.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9370000000000003
+    },
+    {
+      "domain": "www.thaisereizen.nl",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.713
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.057
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.869
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.hln.be",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.744
+    },
+    {
+      "domain": "nashaplaneta.net",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.experiencetravelgroup.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 34,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.85
+    },
+    {
+      "domain": "www.wheresidewalksend.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9329999999999999
+    },
+    {
+      "domain": "www.alexinwanderland.com",
+      "avgPosition": 39.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.traveltoasiaandback.com",
+      "avgPosition": 43,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.rtl.nl",
+      "avgPosition": 45,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "theo-courant.com",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "thailandreizenspecialist.nl",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.voyagethailande.fr",
+      "avgPosition": 48,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.placesofjuma.com",
+      "avgPosition": 48.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.thailand.org",
+      "avgPosition": 49.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 51,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 51.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 12.193999999999999
+    },
+    {
+      "domain": "www.nieuwskoerier.nl",
+      "avgPosition": 54.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.9379999999999997
+    },
+    {
+      "domain": "nos.nl",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.366
+    },
+    {
+      "domain": "www.thailand-property.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.531
+    },
+    {
+      "domain": "thetempletrail.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.456
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 57,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "live-less-ordinary.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.118
+    },
+    {
+      "domain": "www.thailandblog.nl",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.858
+    },
+    {
+      "domain": "www.istockphoto.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.7020000000000001
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.24300000000000002
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.624
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.207
+    },
+    {
+      "domain": "www.myfootprints.nl",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "completecityguides.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "thailandforvisitors.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "jonistravelling.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.tourismethai.fr",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.theguardian.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    }
+  ]
+}

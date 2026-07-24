@@ -187,6 +187,15 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // DFS found no rankings or backlink signal for the duplicate NL
+      // Lopburi travel-guide route. The researched city owner now carries
+      // broad destination intent; keep the English route untouched.
+      {
+        source: '/nl/guides/travel-guide/lopburi/',
+        destination: '/nl/city/lopburi/',
+        permanent: true,
+        locale: false,
+      },
       // Broad Koh Samet intent belongs to the island pillar, not to a Rayong
       // attraction-detail duplicate. Preserve its existing ranking signal.
       {

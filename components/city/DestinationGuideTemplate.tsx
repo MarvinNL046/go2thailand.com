@@ -156,8 +156,8 @@ export function DestinationGuideTemplate({ data }: DestinationGuideTemplateProps
           imageAlt={data.hero.imageAlt}
           breadcrumbs={breadcrumbs}
           eyebrow={data.hero.eyebrow}
-          title={<>{data.hero.title}<span className="sr-only"> </span><span className="mt-2 block text-[2.3rem] leading-none text-saffron-dark sm:mt-1 sm:text-[3.2rem] lg:text-[3.75rem]">{data.hero.accent}</span></>}
-          titleClassName="max-w-[610px] text-[4.2rem] leading-[0.9] sm:text-[5.6rem] sm:leading-[0.84] lg:text-[6.4rem]"
+          title={<>{data.hero.title}<span className="sr-only"> </span><span className="mt-3 block text-[2.3rem] leading-none text-saffron-dark sm:mt-1 sm:text-[3.2rem] lg:text-[3.75rem]">{data.hero.accent}</span></>}
+          titleClassName="max-w-[610px] text-[4.2rem] leading-[0.96] sm:text-[5.6rem] sm:leading-[0.84] lg:text-[6.4rem]"
           subtitle={data.hero.subtitle}
           subtitleClassName="max-w-[580px] text-[1.45rem] leading-[1.08] sm:text-[1.78rem]"
           description={data.hero.description}

@@ -112,9 +112,9 @@ async function serp(locale: SeoLocale, keyword: string): Promise<void> {
 
   const lines = [
     `# ${keyword} — SERP research`, '',
-    `**Date:** ${date}  `,
-    `**Locale:** ${locale}  `,
-    `**Market:** ${config.location_name}  `,
+    `**Date:** ${date}`,
+    `**Locale:** ${locale}`,
+    `**Market:** ${config.location_name}`,
     `**SERP features:** ${extracted.features.join(', ') || 'none captured'}`, '',
     '## Top organic results', '',
     ...extracted.organic.slice(0, 3).flatMap(item => [
@@ -205,9 +205,9 @@ async function keywordComparison(locale: SeoLocale, rawKeywords: string): Promis
   writeFileSync(resolve(outputDir, `${basename}.md`), [
     '# Destination candidate comparison',
     '',
-    `**Captured:** ${new Date().toISOString()}  `,
-    `**Locale:** ${locale}  `,
-    `**Market:** ${config.location_name}  `,
+    `**Captured:** ${new Date().toISOString()}`,
+    `**Locale:** ${locale}`,
+    `**Market:** ${config.location_name}`,
     `**DFS cost:** ${task?.cost ?? '—'}`,
     '',
     '| Keyword | Volume | KD | Intent | Competition | CPC |',
@@ -276,8 +276,8 @@ async function rankings(locale: SeoLocale, target: string): Promise<void> {
   }, null, 2));
   writeFileSync(resolve(outputDir, `${basename}.md`), [
     `# DFS rankings — ${target}`, '',
-    `**Captured:** ${new Date().toISOString()}  `,
-    `**Cost:** ${task?.cost ?? '—'}  `,
+    `**Captured:** ${new Date().toISOString()}`,
+    `**Cost:** ${task?.cost ?? '—'}`,
     `**Keywords returned:** ${rows.length}`, '',
     '| Keyword | Positie | Volume | Intentie | URL |',
     '|---|---:|---:|---|---|',
@@ -319,7 +319,7 @@ async function backlinkSummary(locale: SeoLocale, target: string): Promise<void>
   }, null, 2));
   writeFileSync(resolve(outputDir, `${basename}.md`), [
     `# DFS backlink summary — ${target}`, '',
-    `**Captured:** ${new Date().toISOString()}  `,
+    `**Captured:** ${new Date().toISOString()}`,
     `**Cost:** ${task?.cost ?? '—'}`, '',
     `- Rank: ${summary.rank ?? '—'}`,
     `- Backlinks: ${summary.backlinks ?? '—'}`,
@@ -489,8 +489,8 @@ async function keywordCluster(locale: SeoLocale, seed: string): Promise<void> {
   writeFileSync(resolve(outputDir, `${basename}.md`), [
     `# DFS keyword cluster — ${seed}`,
     '',
-    `**Captured:** ${new Date().toISOString()}  `,
-    `**Market:** ${config.location_name} / ${locale}  `,
+    `**Captured:** ${new Date().toISOString()}`,
+    `**Market:** ${config.location_name} / ${locale}`,
     `**DFS costs:** suggestions ${costs.suggestions ?? '—'}, related ${costs.related ?? '—'}, competitors ${costs.competitors ?? '—'}`,
     '',
     '## Keywords',
@@ -539,8 +539,8 @@ async function parsePage(locale: SeoLocale, url: string): Promise<void> {
   writeFileSync(resolve(outputDir, `${name}.md`), [
     `# DFS parsed source — ${url}`,
     '',
-    `**Captured:** ${new Date().toISOString()}  `,
-    `**Cost:** ${task?.cost ?? '—'}  `,
+    `**Captured:** ${new Date().toISOString()}`,
+    `**Cost:** ${task?.cost ?? '—'}`,
     `**HTTP status:** ${item?.status_code ?? '—'}`,
     '',
     markdown || '_DFS returned no markdown content._',
