@@ -1,0 +1,921 @@
+{
+  "captured_at": "2026-07-22T18:24:30.188Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "krabi tips",
+  "costs": {
+    "suggestions": 0.01308,
+    "related": 0.01812,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "krabi tips",
+    "krabi thailand",
+    "ao nang beach",
+    "ao nang krabi",
+    "krabi thailand ao nang",
+    "wat te doen in krabi",
+    "krabi stad",
+    "krabi bezienswaardigheden",
+    "activiteiten krabi",
+    "krabi strand",
+    "krabi thailand vakantie",
+    "is krabi een eiland",
+    "waar ligt krabi in thailand",
+    "wat te doen in ao nang",
+    "ao nang wat te doen",
+    "krabi thailand tips",
+    "krabi waar verblijven",
+    "mooiste eilanden krabi",
+    "reisjunk ao nang"
+  ],
+  "keywords": [
+    {
+      "keyword": "krabi thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weer",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ao nang beach",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kbv airport",
+      "volume": 1300,
+      "kd": 7,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi airport",
+      "volume": 1300,
+      "kd": 12,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weer koh samui",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ao nang krabi",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand ao nang",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weer",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat te doen in krabi",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand kaart",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weer koh lanta",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "departures krabi airport",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi airport arrivals",
+      "volume": 90,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi stad",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weer",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weer koh phi phi",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi bezienswaardigheden",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "activiteiten krabi",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi strand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi centrum",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi google maps",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand booking",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand vakantie",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ao nang centrum",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is krabi een eiland",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "waar ligt krabi in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat te doen in ao nang",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weer krabi november",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ao nang wat te doen",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi airport maps",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi reisjunk",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand tips",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi tips",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi waar verblijven",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mooiste eilanden krabi",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "reisjunk ao nang",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand krabi tips",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tips krabi",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "waar verblijven in krabi",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat te doen in krabi town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "avondmarkt krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "het weer krabi 14 dagen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi airport destinations",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi airport lounge",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi airport wiki",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi stad bezienswaardigheden",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand tijd",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi tips thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi weer december",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mooiste strand krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tips krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tips thailand krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel tips krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat te doen in krabi ao nang",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat te doen in krabi met kinderen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat te doen in krabi met regen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weer krabi ao nang",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi tips blog",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.reisjunk.nl",
+      "avgPosition": 2.2857142857142856,
+      "keywordCount": 7,
+      "visibility": 6.1000000000000005,
+      "estimatedTraffic": 1770.4819999999997
+    },
+    {
+      "domain": "www.backpackblog.nl",
+      "avgPosition": 6.285714285714286,
+      "keywordCount": 7,
+      "visibility": 3.6500000000000004,
+      "estimatedTraffic": 294.58799999999997
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 7.142857142857143,
+      "keywordCount": 7,
+      "visibility": 2.9,
+      "estimatedTraffic": 594.254
+    },
+    {
+      "domain": "www.reis-expert.nl",
+      "avgPosition": 13.285714285714286,
+      "keywordCount": 7,
+      "visibility": 1.15,
+      "estimatedTraffic": 285.349
+    },
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 17.571428571428573,
+      "keywordCount": 7,
+      "visibility": 1.1,
+      "estimatedTraffic": 105.70899999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 19.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.8,
+      "estimatedTraffic": 191.84199999999998
+    },
+    {
+      "domain": "www.sawadee.nl",
+      "avgPosition": 12.5,
+      "keywordCount": 6,
+      "visibility": 1.25,
+      "estimatedTraffic": 150.377
+    },
+    {
+      "domain": "www.vanverre.nl",
+      "avgPosition": 13.5,
+      "keywordCount": 6,
+      "visibility": 1.75,
+      "estimatedTraffic": 256.15999999999997
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 29,
+      "keywordCount": 7,
+      "visibility": 1.05,
+      "estimatedTraffic": 68.236
+    },
+    {
+      "domain": "www.reisjevrij.nl",
+      "avgPosition": 18,
+      "keywordCount": 6,
+      "visibility": 0.4,
+      "estimatedTraffic": 39.229
+    },
+    {
+      "domain": "thailandtravel.nl",
+      "avgPosition": 31.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 25.572
+    },
+    {
+      "domain": "reisgenie.nl",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 6,
+      "visibility": 1.55,
+      "estimatedTraffic": 44.452999999999996
+    },
+    {
+      "domain": "www.27vakantiedagen.nl",
+      "avgPosition": 22.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.35,
+      "estimatedTraffic": 36.702
+    },
+    {
+      "domain": "www.wearetravellers.nl",
+      "avgPosition": 7.2,
+      "keywordCount": 5,
+      "visibility": 2.5,
+      "estimatedTraffic": 88.78099999999999
+    },
+    {
+      "domain": "sandinourbackpacks.com",
+      "avgPosition": 9.2,
+      "keywordCount": 5,
+      "visibility": 1.25,
+      "estimatedTraffic": 44.993
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 37,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 21.701999999999998
+    },
+    {
+      "domain": "reisplaatje.nl",
+      "avgPosition": 12.4,
+      "keywordCount": 5,
+      "visibility": 1.8,
+      "estimatedTraffic": 218.581
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 16.2,
+      "keywordCount": 5,
+      "visibility": 3.2,
+      "estimatedTraffic": 649.321
+    },
+    {
+      "domain": "www.bmair.nl",
+      "avgPosition": 43.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 21.983999999999998
+    },
+    {
+      "domain": "www.333travel.nl",
+      "avgPosition": 20.8,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 38.392
+    },
+    {
+      "domain": "www.saltinourhair.com",
+      "avgPosition": 43.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 22.084999999999997
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 25.8,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 16.665
+    },
+    {
+      "domain": "www.naturescanner.nl",
+      "avgPosition": 29.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 16.611
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 12.5,
+      "keywordCount": 4,
+      "visibility": 0.55,
+      "estimatedTraffic": 21.888
+    },
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 13.5,
+      "keywordCount": 4,
+      "visibility": 1.4500000000000002,
+      "estimatedTraffic": 2009.517
+    },
+    {
+      "domain": "www.devoyageurs.be",
+      "avgPosition": 33.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.542999999999999
+    },
+    {
+      "domain": "www.traveljunks.nl",
+      "avgPosition": 17.5,
+      "keywordCount": 4,
+      "visibility": 1.05,
+      "estimatedTraffic": 42.735
+    },
+    {
+      "domain": "www.travelalut.com",
+      "avgPosition": 34.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.455
+    },
+    {
+      "domain": "www.theworldtrippers.com",
+      "avgPosition": 34.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.511
+    },
+    {
+      "domain": "reiswijven.nl",
+      "avgPosition": 19.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 11.254
+    },
+    {
+      "domain": "youngwildfree.be",
+      "avgPosition": 36.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.455
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 20.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 28.852
+    },
+    {
+      "domain": "travelaar.nl",
+      "avgPosition": 22.25,
+      "keywordCount": 4,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 19.242
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 55.857142857142854,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 21.503999999999998
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 39.6,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 22.748999999999995
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 40,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 16.296
+    },
+    {
+      "domain": "www.brotherlouis.nl",
+      "avgPosition": 26.5,
+      "keywordCount": 4,
+      "visibility": 0.6,
+      "estimatedTraffic": 310.49
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 51.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 21.314999999999998
+    },
+    {
+      "domain": "www.joeba.nl",
+      "avgPosition": 28,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 14.793
+    },
+    {
+      "domain": "www.soetkees.nl",
+      "avgPosition": 4.333333333333333,
+      "keywordCount": 3,
+      "visibility": 2,
+      "estimatedTraffic": 180.48
+    },
+    {
+      "domain": "www.traveldicted.com",
+      "avgPosition": 53.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 21.578999999999997
+    },
+    {
+      "domain": "www.vakantiediscounter.nl",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 103.548
+    },
+    {
+      "domain": "www.tui.nl",
+      "avgPosition": 11,
+      "keywordCount": 3,
+      "visibility": 0.9000000000000001,
+      "estimatedTraffic": 648.1349999999999
+    },
+    {
+      "domain": "www.kiladera.be",
+      "avgPosition": 48.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.455
+    },
+    {
+      "domain": "www.riksjatravel.nl",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 41.556
+    },
+    {
+      "domain": "www.globehopper.nl",
+      "avgPosition": 37,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 20.58
+    },
+    {
+      "domain": "www.skyetravels.com",
+      "avgPosition": 18.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 18.784
+    },
+    {
+      "domain": "www.reislogger.nl",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.88
+    },
+    {
+      "domain": "www.dutchieontheroad.nl",
+      "avgPosition": 29,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.72
+    },
+    {
+      "domain": "www.asiadirect.nl",
+      "avgPosition": 32,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 22.515
+    }
+  ]
+}

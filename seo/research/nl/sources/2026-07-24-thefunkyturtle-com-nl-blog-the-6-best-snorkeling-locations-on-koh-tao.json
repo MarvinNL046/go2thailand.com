@@ -1,0 +1,4452 @@
+{
+  "captured_at": "2026-07-24T08:50:17.174Z",
+  "locale": "nl",
+  "url": "https://www.thefunkyturtle.com/nl/blog/the-6-best-snorkeling-locations-on-koh-tao/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Koh Tao",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Welkom! Log in op je account",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Vind je wachtwoord terug",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Er zal een wachtwoord naar je gemaild worden",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Het Weer op Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/weather/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/weather/",
+              "anchor_text": "Het Weer op Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Ananda Villa Hotel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/ananda-villa-hotel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/ananda-villa-hotel/",
+              "anchor_text": "Ananda Villa Hotel"
+            }
+          ]
+        },
+        {
+          "text": "Bed & Ink Hostel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/bed-ink-hostel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/bed-ink-hostel/",
+              "anchor_text": "Bed & Ink Hostel"
+            }
+          ]
+        },
+        {
+          "text": "Beach Club Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/beach-club-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/beach-club-koh-tao/",
+              "anchor_text": "Beach Club Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Blue Tao Beach Hotel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/blue-tao-beach-hotel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/blue-tao-beach-hotel/",
+              "anchor_text": "Blue Tao Beach Hotel"
+            }
+          ]
+        },
+        {
+          "text": "Coral View Resort",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/coral-view-resort/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/coral-view-resort/",
+              "anchor_text": "Coral View Resort"
+            }
+          ]
+        },
+        {
+          "text": "Hakuna Matata",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/hakuna-matata/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/hakuna-matata/",
+              "anchor_text": "Hakuna Matata"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Hostel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/koh-tao-hostel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/koh-tao-hostel/",
+              "anchor_text": "Koh Tao Hostel"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Regal Resort",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/koh-tao-regal-resort/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/koh-tao-regal-resort/",
+              "anchor_text": "Koh Tao Regal Resort"
+            }
+          ]
+        },
+        {
+          "text": "Thalassa Hotel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/thalassa-hotel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/thalassa-hotel/",
+              "anchor_text": "Thalassa Hotel"
+            }
+          ]
+        },
+        {
+          "text": "Utopia Guesthouse",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/utopia-guesthouse/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/utopia-guesthouse/",
+              "anchor_text": "Utopia Guesthouse"
+            }
+          ]
+        },
+        {
+          "text": "Aow Leuk Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/aow-leuk-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/aow-leuk-bay/",
+              "anchor_text": "Aow Leuk Bay"
+            }
+          ]
+        },
+        {
+          "text": "Aow Mao Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/aow-mao-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/aow-mao-bay/",
+              "anchor_text": "Aow Mao Bay"
+            }
+          ]
+        },
+        {
+          "text": "Chalok Baan Kao Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/chalok-baan-kao-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/chalok-baan-kao-bay/",
+              "anchor_text": "Chalok Baan Kao Bay"
+            }
+          ]
+        },
+        {
+          "text": "Hin Wong Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/hin-wong-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/hin-wong-bay/",
+              "anchor_text": "Hin Wong Bay"
+            }
+          ]
+        },
+        {
+          "text": "June Juea Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/june-juea-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/june-juea-bay/",
+              "anchor_text": "June Juea Bay"
+            }
+          ]
+        },
+        {
+          "text": "Lang Khai Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/lang-khai-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/lang-khai-bay/",
+              "anchor_text": "Lang Khai Bay"
+            }
+          ]
+        },
+        {
+          "text": "Lighthouse Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/lighthouse-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/lighthouse-bay/",
+              "anchor_text": "Lighthouse Bay"
+            }
+          ]
+        },
+        {
+          "text": "Mae Haad Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/mae-haad-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/mae-haad-bay/",
+              "anchor_text": "Mae Haad Bay"
+            }
+          ]
+        },
+        {
+          "text": "Mango Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/mango-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/mango-bay/",
+              "anchor_text": "Mango Bay"
+            }
+          ]
+        },
+        {
+          "text": "Tanote Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/tanote-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/tanote-bay/",
+              "anchor_text": "Tanote Bay"
+            }
+          ]
+        },
+        {
+          "text": "Het strand van Aow Leuk",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/aow-leuk-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/aow-leuk-beach/",
+              "anchor_text": "Het strand van Aow Leuk"
+            }
+          ]
+        },
+        {
+          "text": "Freedom Beach",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/freedom-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/freedom-beach/",
+              "anchor_text": "Freedom Beach"
+            }
+          ]
+        },
+        {
+          "text": "Koh Nang Yuan strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/koh-nang-yuan-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/koh-nang-yuan-beach/",
+              "anchor_text": "Koh Nang Yuan strand"
+            }
+          ]
+        },
+        {
+          "text": "Mae Haad strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/mae-haad-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/mae-haad-beach/",
+              "anchor_text": "Mae Haad strand"
+            }
+          ]
+        },
+        {
+          "text": "Saan Jao strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/saan-jao-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/saan-jao-beach/",
+              "anchor_text": "Saan Jao strand"
+            }
+          ]
+        },
+        {
+          "text": "Sai Daeng strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sai-daeng-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sai-daeng-beach/",
+              "anchor_text": "Sai Daeng strand"
+            }
+          ]
+        },
+        {
+          "text": "Sai Nuan strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sainuan-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sainuan-beach/",
+              "anchor_text": "Sai Nuan strand"
+            }
+          ]
+        },
+        {
+          "text": "Sairee strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sairee-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sairee-beach/",
+              "anchor_text": "Sairee strand"
+            }
+          ]
+        },
+        {
+          "text": "Tanote strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/tanote-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/tanote-beach/",
+              "anchor_text": "Tanote strand"
+            }
+          ]
+        },
+        {
+          "text": "Tao Thong strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/tao-thong-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/tao-thong-beach/",
+              "anchor_text": "Tao Thong strand"
+            }
+          ]
+        },
+        {
+          "text": "Deisha uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/deisha-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/deisha-viewpoint/",
+              "anchor_text": "Deisha uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Fraggle Rock uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/fraggle-rock-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/fraggle-rock-viewpoint/",
+              "anchor_text": "Fraggle Rock uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "John Suwan uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/john-suwan-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/john-suwan-viewpoint/",
+              "anchor_text": "John Suwan uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Koh Nang Yuan uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/koh-nang-yuan-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/koh-nang-yuan-viewpoint/",
+              "anchor_text": "Koh Nang Yuan uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Love Koh Tao uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/love-koh-tao-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/love-koh-tao-viewpoint/",
+              "anchor_text": "Love Koh Tao uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Mango Bay uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/mango-bay-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/mango-bay-viewpoint/",
+              "anchor_text": "Mango Bay uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Sai Nuan uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/sai-nuan-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/sai-nuan-viewpoint/",
+              "anchor_text": "Sai Nuan uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Sun Suwan 360 Bar",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/sun-suwan-360-bar/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/sun-suwan-360-bar/",
+              "anchor_text": "Sun Suwan 360 Bar"
+            }
+          ]
+        },
+        {
+          "text": "Tanote Peak uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/tanote-peak-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/tanote-peak-viewpoint/",
+              "anchor_text": "Tanote Peak uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "West Coast uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/west-coast-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/west-coast-viewpoint/",
+              "anchor_text": "West Coast uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Sairee Beach naar John Suwan Uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/things-to-do/sairee-beach-to-john-suwan-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/things-to-do/sairee-beach-to-john-suwan-viewpoint/",
+              "anchor_text": "Sairee Beach naar John Suwan Uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Baia Burger",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/baia-burger/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/baia-burger/",
+              "anchor_text": "Baia Burger"
+            }
+          ]
+        },
+        {
+          "text": "Baia Taco Concept",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/baia-taco-concept/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/baia-taco-concept/",
+              "anchor_text": "Baia Taco Concept"
+            }
+          ]
+        },
+        {
+          "text": "Barracuda Darawan",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/barracuda-darawan/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/barracuda-darawan/",
+              "anchor_text": "Barracuda Darawan"
+            }
+          ]
+        },
+        {
+          "text": "Barracuda Roof Top Sairee",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/barracuda-roof-top-sairee/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/barracuda-roof-top-sairee/",
+              "anchor_text": "Barracuda Roof Top Sairee"
+            }
+          ]
+        },
+        {
+          "text": "Blue Heaven Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/blue-heaven-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/blue-heaven-koh-tao/",
+              "anchor_text": "Blue Heaven Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Blue Water Cafe & Restaurant",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/blue-water-cafe-restaurant/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/blue-water-cafe-restaurant/",
+              "anchor_text": "Blue Water Cafe & Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Breeze Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/breeze-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/breeze-koh-tao/",
+              "anchor_text": "Breeze Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Hacienda Bar en Grill",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/hacienda-bar-and-grill/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/hacienda-bar-and-grill/",
+              "anchor_text": "Hacienda Bar en Grill"
+            }
+          ]
+        },
+        {
+          "text": "Hippo Burger Bistro",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/hippo-burger-bistro/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/hippo-burger-bistro/",
+              "anchor_text": "Hippo Burger Bistro"
+            }
+          ]
+        },
+        {
+          "text": "Pranees Kitchen",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/pranees-kitchen/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/pranees-kitchen/",
+              "anchor_text": "Pranees Kitchen"
+            }
+          ]
+        },
+        {
+          "text": "Shalimar Indiase keuken",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/shalimar-indian-cuisine/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/shalimar-indian-cuisine/",
+              "anchor_text": "Shalimar Indiase keuken"
+            }
+          ]
+        },
+        {
+          "text": "Thaita Italiaanse keuken",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/thaita-italian/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/thaita-italian/",
+              "anchor_text": "Thaita Italiaanse keuken"
+            }
+          ]
+        },
+        {
+          "text": "The Gallery Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/the-gallery-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/the-gallery-koh-tao/",
+              "anchor_text": "The Gallery Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Whitening Bar en Restaurant",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/whitening-bar-and-restaurant/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/whitening-bar-and-restaurant/",
+              "anchor_text": "Whitening Bar en Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Beer Masons Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/beer-masons-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/beer-masons-koh-tao/",
+              "anchor_text": "Beer Masons Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Choppers Sports Bar",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/choppers-sports-bar/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/choppers-sports-bar/",
+              "anchor_text": "Choppers Sports Bar"
+            }
+          ]
+        },
+        {
+          "text": "Fizz Beach Lounge",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/fizz-beach-lounge/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/fizz-beach-lounge/",
+              "anchor_text": "Fizz Beach Lounge"
+            }
+          ]
+        },
+        {
+          "text": "Maya Beach Club",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/maya-beach-club/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/maya-beach-club/",
+              "anchor_text": "Maya Beach Club"
+            }
+          ]
+        },
+        {
+          "text": "Reef Sports Bar & Restaurant",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/reef-bar-sports-bar-restaurant/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/reef-bar-sports-bar-restaurant/",
+              "anchor_text": "Reef Sports Bar & Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Café Culture",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/cafe-culture/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/cafe-culture/",
+              "anchor_text": "Café Culture"
+            }
+          ]
+        },
+        {
+          "text": "Coconut Monkey",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/coconut-monkey/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/coconut-monkey/",
+              "anchor_text": "Coconut Monkey"
+            }
+          ]
+        },
+        {
+          "text": "Living Juices",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/living-juices/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/living-juices/",
+              "anchor_text": "Living Juices"
+            }
+          ]
+        },
+        {
+          "text": "Nui Bakery Sairee",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/nui-bakery-sairee/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/nui-bakery-sairee/",
+              "anchor_text": "Nui Bakery Sairee"
+            }
+          ]
+        },
+        {
+          "text": "Snorkeltrip van een hele dag",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/full-day-snorkel-trips/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/full-day-snorkel-trips/",
+              "anchor_text": "Snorkeltrip van een hele dag"
+            }
+          ]
+        },
+        {
+          "text": "Snorkeltrip van een halve dag",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/half-day-snorkel-trips/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/half-day-snorkel-trips/",
+              "anchor_text": "Snorkeltrip van een halve dag"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen in Aow Leuk Bay",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/aow-leuk-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/aow-leuk-bay/",
+              "anchor_text": "Snorkelen in Aow Leuk Bay"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen in Hin Wong Bay",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/hin-wong-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/hin-wong-bay/",
+              "anchor_text": "Snorkelen in Hin Wong Bay"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen bij Koh Nang Yuan",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/koh-nang-yuan/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/koh-nang-yuan/",
+              "anchor_text": "Snorkelen bij Koh Nang Yuan"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen in Mango Bay",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/mango-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/mango-bay/",
+              "anchor_text": "Snorkelen in Mango Bay"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen in Shark Bay",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/shark-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/shark-bay/",
+              "anchor_text": "Snorkelen in Shark Bay"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Snorkeltochten",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+              "anchor_text": "Koh Tao Snorkeltochten"
+            }
+          ]
+        },
+        {
+          "text": "Top tips voor snorkelveiligheid",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/top-tips-for-safety/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/top-tips-for-safety/",
+              "anchor_text": "Top tips voor snorkelveiligheid"
+            }
+          ]
+        },
+        {
+          "text": "Open Water cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/open-water-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/open-water-course/",
+              "anchor_text": "Open Water cursus"
+            }
+          ]
+        },
+        {
+          "text": "Discover Scuba Diving",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/discover-scuba-diving/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/discover-scuba-diving/",
+              "anchor_text": "Discover Scuba Diving"
+            }
+          ]
+        },
+        {
+          "text": "Scuba Diver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-diver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-diver-course/",
+              "anchor_text": "Scuba Diver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Scuba Review",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-review/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-review/",
+              "anchor_text": "Scuba Review"
+            }
+          ]
+        },
+        {
+          "text": "Advanced Open Water cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/advanced-open-water-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/advanced-open-water-course/",
+              "anchor_text": "Advanced Open Water cursus"
+            }
+          ]
+        },
+        {
+          "text": "Rescue Diver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/rescue-diver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/rescue-diver-course/",
+              "anchor_text": "Rescue Diver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Specialisatie cursussen",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/specialty-courses/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/specialty-courses/",
+              "anchor_text": "Specialisatie cursussen"
+            }
+          ]
+        },
+        {
+          "text": "Divemaster cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/divemaster-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/divemaster-course/",
+              "anchor_text": "Divemaster cursus"
+            }
+          ]
+        },
+        {
+          "text": "Instructor Development cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/instructor-development-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/instructor-development-course/",
+              "anchor_text": "Instructor Development cursus"
+            }
+          ]
+        },
+        {
+          "text": "Onderwater videografie cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/underwater-videography-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/underwater-videography-course/",
+              "anchor_text": "Onderwater videografie cursus"
+            }
+          ]
+        },
+        {
+          "text": "Emergency First Response (EHBO) cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/emergency-first-response-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/emergency-first-response-course/",
+              "anchor_text": "Emergency First Response (EHBO) cursus"
+            }
+          ]
+        },
+        {
+          "text": "Aow Leuk Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/aow-leuk-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/aow-leuk-dive-site/",
+              "anchor_text": "Aow Leuk Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Buoyancy World Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/buoyancy-world-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/buoyancy-world-dive-site/",
+              "anchor_text": "Buoyancy World Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Chumphon Pinnacle Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/chumphon-pinnacle-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/chumphon-pinnacle-dive-site/",
+              "anchor_text": "Chumphon Pinnacle Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Green Rock Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/green-rock-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/green-rock-dive-site/",
+              "anchor_text": "Green Rock Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Hin Pee Wee Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/hin-pee-wee-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/hin-pee-wee-dive-site/",
+              "anchor_text": "Hin Pee Wee Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Hin Wong Pinnacle Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/hin-wong-pinnacle-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/hin-wong-pinnacle-dive-site/",
+              "anchor_text": "Hin Wong Pinnacle Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "HTMS Sattakut Wrakduik",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/htms-sattakut-wreck-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/htms-sattakut-wreck-dive-site/",
+              "anchor_text": "HTMS Sattakut Wrakduik"
+            }
+          ]
+        },
+        {
+          "text": "Japanese Gardens Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/japanese-gardens-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/japanese-gardens-dive-site/",
+              "anchor_text": "Japanese Gardens Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Junkyard Reef Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/junkyard-reef-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/junkyard-reef-dive-site/",
+              "anchor_text": "Junkyard Reef Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Laem Thian Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/laem-thian-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/laem-thian-dive-site/",
+              "anchor_text": "Laem Thian Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Lighthouse Bay Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/lighthouse-bay-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/lighthouse-bay-dive-site/",
+              "anchor_text": "Lighthouse Bay Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Mango Bay Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/mango-bay-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/mango-bay-dive-site/",
+              "anchor_text": "Mango Bay Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Pottery Pinnacle & Three Rocks Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/pottery-pinnacle-three-rocks-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/pottery-pinnacle-three-rocks-dive-site/",
+              "anchor_text": "Pottery Pinnacle & Three Rocks Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Red Rock Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/red-rock-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/red-rock-dive-site/",
+              "anchor_text": "Red Rock Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Sail Rock Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/sail-rock-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/sail-rock-dive-site/",
+              "anchor_text": "Sail Rock Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Shark Island Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/shark-island-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/shark-island-dive-site/",
+              "anchor_text": "Shark Island Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "South West Pinnacle Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/south-west-pinnacle-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/south-west-pinnacle-dive-site/",
+              "anchor_text": "South West Pinnacle Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Tanote Bay Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/tanote-bay-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/tanote-bay-dive-site/",
+              "anchor_text": "Tanote Bay Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Twins Pinnacles Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/twins-pinnacles-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/twins-pinnacles-dive-site/",
+              "anchor_text": "Twins Pinnacles Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "White Rock Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/white-rock-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/white-rock-dive-site/",
+              "anchor_text": "White Rock Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Seal Team",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-for-kids/seal-team/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-for-kids/seal-team/",
+              "anchor_text": "Seal Team"
+            }
+          ]
+        },
+        {
+          "text": "Junior Open Water cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-for-kids/junior-open-water-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-for-kids/junior-open-water-course/",
+              "anchor_text": "Junior Open Water cursus"
+            }
+          ]
+        },
+        {
+          "text": "Junior Advanced Open Water cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-for-kids/advanced-junior-open-water-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-for-kids/advanced-junior-open-water-course/",
+              "anchor_text": "Junior Advanced Open Water cursus"
+            }
+          ]
+        },
+        {
+          "text": "Basic Freediver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/basic-freediver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/basic-freediver-course/",
+              "anchor_text": "Basic Freediver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Freediver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/freediver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/freediver-course/",
+              "anchor_text": "Freediver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Advanced Freediver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/advanced-freediver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/advanced-freediver-course/",
+              "anchor_text": "Advanced Freediver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Master Freediver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/master-freediver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/master-freediver-course/",
+              "anchor_text": "Master Freediver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Freediver Instructeur",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/freediver-instructor/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/freediver-instructor/",
+              "anchor_text": "Freediver Instructeur"
+            }
+          ]
+        },
+        {
+          "text": "Freediving Instructeur voor duikinstructeurs",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/freediving-instructor-for-scuba-instructors/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/freediving-instructor-for-scuba-instructors/",
+              "anchor_text": "Freediving Instructeur voor duikinstructeurs"
+            }
+          ]
+        },
+        {
+          "text": "Adopteer Een Koraal",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/adopt-a-coral/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/adopt-a-coral/",
+              "anchor_text": "Adopteer Een Koraal"
+            }
+          ]
+        },
+        {
+          "text": "Kunstmatige duiklocaties",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/artificial-dive-sites/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/artificial-dive-sites/",
+              "anchor_text": "Kunstmatige duiklocaties"
+            }
+          ]
+        },
+        {
+          "text": "Buoyancy World",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/buoyancy-world/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/buoyancy-world/",
+              "anchor_text": "Buoyancy World"
+            }
+          ]
+        },
+        {
+          "text": "Koraal restoratie",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-restoration/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-restoration/",
+              "anchor_text": "Koraal restoratie"
+            }
+          ]
+        },
+        {
+          "text": "Coral Watch",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-watch/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-watch/",
+              "anchor_text": "Coral Watch"
+            }
+          ]
+        },
+        {
+          "text": "Dive Against Debris",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/dive-against-debris/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/dive-against-debris/",
+              "anchor_text": "Dive Against Debris"
+            }
+          ]
+        },
+        {
+          "text": "Bedreigde soorten haaien en schildpadden",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/endangered-species-sharks-turtles/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/endangered-species-sharks-turtles/",
+              "anchor_text": "Bedreigde soorten haaien en schildpadden"
+            }
+          ]
+        },
+        {
+          "text": "Giant Clam kwekerij",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/giant-clam-nursery/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/giant-clam-nursery/",
+              "anchor_text": "Giant Clam kwekerij"
+            }
+          ]
+        },
+        {
+          "text": "Junkyard Reef",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/junkyard-reef/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/junkyard-reef/",
+              "anchor_text": "Junkyard Reef"
+            }
+          ]
+        },
+        {
+          "text": "Interactie met het leven in de zee",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/marine-life-interaction/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/marine-life-interaction/",
+              "anchor_text": "Interactie met het leven in de zee"
+            }
+          ]
+        },
+        {
+          "text": "Beheer van mariene hulpbronnen",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/marine-resource-management/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/marine-resource-management/",
+              "anchor_text": "Beheer van mariene hulpbronnen"
+            }
+          ]
+        },
+        {
+          "text": "Aanbrengen van ankerlijnen",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/mooring-buoy-lines/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/mooring-buoy-lines/",
+              "anchor_text": "Aanbrengen van ankerlijnen"
+            }
+          ]
+        },
+        {
+          "text": "Reef Check Surveys EMP",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/reef-check-surveys-emp/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/reef-check-surveys-emp/",
+              "anchor_text": "Reef Check Surveys EMP"
+            }
+          ]
+        },
+        {
+          "text": "Zonnebrandcrème en koraalriffen",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/sunscreen-and-coral-reefs/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/sunscreen-and-coral-reefs/",
+              "anchor_text": "Zonnebrandcrème en koraalriffen"
+            }
+          ]
+        },
+        {
+          "text": "Cigarette Butt Challenge",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/cigarette-butt-challenge/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/cigarette-butt-challenge/",
+              "anchor_text": "Cigarette Butt Challenge"
+            }
+          ]
+        },
+        {
+          "text": "Plastic voor eenmalig gebruik",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/single-use-plastics/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/single-use-plastics/",
+              "anchor_text": "Plastic voor eenmalig gebruik"
+            }
+          ]
+        },
+        {
+          "text": "S & S Water Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/s-and-s-water-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/s-and-s-water-koh-tao/",
+              "anchor_text": "S & S Water Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Angthong National Marine Park",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/angthong-national-marine-park/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/angthong-national-marine-park/",
+              "anchor_text": "Angthong National Marine Park"
+            }
+          ]
+        },
+        {
+          "text": "Full Moon Party Koh Phangan",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/full-moon-party-koh-phangan/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/full-moon-party-koh-phangan/",
+              "anchor_text": "Full Moon Party Koh Phangan"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Leisure Park",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-leisure-park/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-leisure-park/",
+              "anchor_text": "Koh Tao Leisure Park"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Pub Crawl",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-pub-crawl/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-pub-crawl/",
+              "anchor_text": "Koh Tao Pub Crawl"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao scooterverhuur",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-scooter-rental/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-scooter-rental/",
+              "anchor_text": "Koh Tao scooterverhuur"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao watersporten",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-watersports/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-watersports/",
+              "anchor_text": "Koh Tao watersporten"
+            }
+          ]
+        },
+        {
+          "text": "Muay Thai Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/muay-thai-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/muay-thai-koh-tao/",
+              "anchor_text": "Muay Thai Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Rotsklimmen Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/rock-climbing-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/rock-climbing-koh-tao/",
+              "anchor_text": "Rotsklimmen Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Paddleboarding Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/paddleboarding-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/paddleboarding-koh-tao/",
+              "anchor_text": "Paddleboarding Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "SUP TAO Paddleboarding",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/sup-tao-paddleboarding/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/sup-tao-paddleboarding/",
+              "anchor_text": "SUP TAO Paddleboarding"
+            }
+          ]
+        },
+        {
+          "text": "Zwemlessen Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/swimming-classes-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/swimming-classes-koh-tao/",
+              "anchor_text": "Zwemlessen Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Taallessen Thais Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/thai-language-lessons-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/thai-language-lessons-koh-tao/",
+              "anchor_text": "Taallessen Thais Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Gym & Fitness Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/gym-and-fitness-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/gym-and-fitness-koh-tao/",
+              "anchor_text": "Gym & Fitness Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Parawan Thaise kookles",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/parawan-thai-cooking-class/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/parawan-thai-cooking-class/",
+              "anchor_text": "Parawan Thaise kookles"
+            }
+          ]
+        },
+        {
+          "text": "Spa & Massage",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/spa-massage/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/spa-massage/",
+              "anchor_text": "Spa & Massage"
+            }
+          ]
+        },
+        {
+          "text": "Thais koken",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/thai-cooking/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/thai-cooking/",
+              "anchor_text": "Thais koken"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Dierenkliniek",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-animal-clinic/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-animal-clinic/",
+              "anchor_text": "Koh Tao Dierenkliniek"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Banken en Geldautomaten",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-banks-and-atm/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-banks-and-atm/",
+              "anchor_text": "Koh Tao Banken en Geldautomaten"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Tandarts",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-dentist/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-dentist/",
+              "anchor_text": "Koh Tao Tandarts"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Dokters",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-doctors/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-doctors/",
+              "anchor_text": "Koh Tao Dokters"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Ziekenhuis",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-hospital/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-hospital/",
+              "anchor_text": "Koh Tao Ziekenhuis"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Rescue",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-rescue/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-rescue/",
+              "anchor_text": "Koh Tao Rescue"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Scholen",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-schools/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-schools/",
+              "anchor_text": "Koh Tao Scholen"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Winkels",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-shops/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-shops/",
+              "anchor_text": "Koh Tao Winkels"
+            }
+          ]
+        },
+        {
+          "text": "Nachtboten naar Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/night-boats/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/night-boats/",
+              "anchor_text": "Nachtboten naar Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Songserm Express",
+          "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/songserm-ferries/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/songserm-ferries/",
+              "anchor_text": "Songserm Express"
+            }
+          ]
+        },
+        {
+          "text": "Seatran Veerboten",
+          "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/seatran-ferries/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/seatran-ferries/",
+              "anchor_text": "Seatran Veerboten"
+            }
+          ]
+        },
+        {
+          "text": "Lomprayah Veerboten",
+          "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/lomprayah-ferries/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/lomprayah-ferries/",
+              "anchor_text": "Lomprayah Veerboten"
+            }
+          ]
+        },
+        {
+          "text": "dinsdag, juli 14, 2026",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "SIGN IN",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Boek Activiteiten",
+          "url": "https://www.thefunkyturtle.com/nl/book-activities/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/book-activities/",
+              "anchor_text": "Boek Activiteiten"
+            }
+          ]
+        },
+        {
+          "text": "Contacteer ons",
+          "url": "https://www.thefunkyturtle.com/nl/contact/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/contact/",
+              "anchor_text": "Contacteer ons"
+            }
+          ]
+        },
+        {
+          "text": "Sign in",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Password recovery",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Het Weer op Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/weather/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/weather/",
+              "anchor_text": "Het Weer op Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Ananda Villa Hotel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/ananda-villa-hotel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/ananda-villa-hotel/",
+              "anchor_text": "Ananda Villa Hotel"
+            }
+          ]
+        },
+        {
+          "text": "Bed & Ink Hostel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/bed-ink-hostel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/bed-ink-hostel/",
+              "anchor_text": "Bed & Ink Hostel"
+            }
+          ]
+        },
+        {
+          "text": "Beach Club Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/beach-club-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/beach-club-koh-tao/",
+              "anchor_text": "Beach Club Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Blue Tao Beach Hotel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/blue-tao-beach-hotel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/blue-tao-beach-hotel/",
+              "anchor_text": "Blue Tao Beach Hotel"
+            }
+          ]
+        },
+        {
+          "text": "Coral View Resort",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/coral-view-resort/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/coral-view-resort/",
+              "anchor_text": "Coral View Resort"
+            }
+          ]
+        },
+        {
+          "text": "Hakuna Matata",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/hakuna-matata/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/hakuna-matata/",
+              "anchor_text": "Hakuna Matata"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Hostel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/koh-tao-hostel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/koh-tao-hostel/",
+              "anchor_text": "Koh Tao Hostel"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Regal Resort",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/koh-tao-regal-resort/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/koh-tao-regal-resort/",
+              "anchor_text": "Koh Tao Regal Resort"
+            }
+          ]
+        },
+        {
+          "text": "Thalassa Hotel",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/thalassa-hotel/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/thalassa-hotel/",
+              "anchor_text": "Thalassa Hotel"
+            }
+          ]
+        },
+        {
+          "text": "Utopia Guesthouse",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/utopia-guesthouse/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/accommodation/utopia-guesthouse/",
+              "anchor_text": "Utopia Guesthouse"
+            }
+          ]
+        },
+        {
+          "text": "Aow Leuk Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/aow-leuk-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/aow-leuk-bay/",
+              "anchor_text": "Aow Leuk Bay"
+            }
+          ]
+        },
+        {
+          "text": "Aow Mao Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/aow-mao-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/aow-mao-bay/",
+              "anchor_text": "Aow Mao Bay"
+            }
+          ]
+        },
+        {
+          "text": "Chalok Baan Kao Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/chalok-baan-kao-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/chalok-baan-kao-bay/",
+              "anchor_text": "Chalok Baan Kao Bay"
+            }
+          ]
+        },
+        {
+          "text": "Hin Wong Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/hin-wong-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/hin-wong-bay/",
+              "anchor_text": "Hin Wong Bay"
+            }
+          ]
+        },
+        {
+          "text": "June Juea Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/june-juea-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/june-juea-bay/",
+              "anchor_text": "June Juea Bay"
+            }
+          ]
+        },
+        {
+          "text": "Lang Khai Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/lang-khai-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/lang-khai-bay/",
+              "anchor_text": "Lang Khai Bay"
+            }
+          ]
+        },
+        {
+          "text": "Lighthouse Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/lighthouse-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/lighthouse-bay/",
+              "anchor_text": "Lighthouse Bay"
+            }
+          ]
+        },
+        {
+          "text": "Mae Haad Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/mae-haad-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/mae-haad-bay/",
+              "anchor_text": "Mae Haad Bay"
+            }
+          ]
+        },
+        {
+          "text": "Mango Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/mango-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/mango-bay/",
+              "anchor_text": "Mango Bay"
+            }
+          ]
+        },
+        {
+          "text": "Tanote Bay",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/tanote-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/tanote-bay/",
+              "anchor_text": "Tanote Bay"
+            }
+          ]
+        },
+        {
+          "text": "Het strand van Aow Leuk",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/aow-leuk-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/aow-leuk-beach/",
+              "anchor_text": "Het strand van Aow Leuk"
+            }
+          ]
+        },
+        {
+          "text": "Freedom Beach",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/freedom-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/freedom-beach/",
+              "anchor_text": "Freedom Beach"
+            }
+          ]
+        },
+        {
+          "text": "Koh Nang Yuan strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/koh-nang-yuan-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/koh-nang-yuan-beach/",
+              "anchor_text": "Koh Nang Yuan strand"
+            }
+          ]
+        },
+        {
+          "text": "Mae Haad strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/mae-haad-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/mae-haad-beach/",
+              "anchor_text": "Mae Haad strand"
+            }
+          ]
+        },
+        {
+          "text": "Saan Jao strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/saan-jao-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/saan-jao-beach/",
+              "anchor_text": "Saan Jao strand"
+            }
+          ]
+        },
+        {
+          "text": "Sai Daeng strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sai-daeng-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sai-daeng-beach/",
+              "anchor_text": "Sai Daeng strand"
+            }
+          ]
+        },
+        {
+          "text": "Sai Nuan strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sainuan-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sainuan-beach/",
+              "anchor_text": "Sai Nuan strand"
+            }
+          ]
+        },
+        {
+          "text": "Sairee strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sairee-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/sairee-beach/",
+              "anchor_text": "Sairee strand"
+            }
+          ]
+        },
+        {
+          "text": "Tanote strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/tanote-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/tanote-beach/",
+              "anchor_text": "Tanote strand"
+            }
+          ]
+        },
+        {
+          "text": "Tao Thong strand",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/tao-thong-beach/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/tao-thong-beach/",
+              "anchor_text": "Tao Thong strand"
+            }
+          ]
+        },
+        {
+          "text": "Deisha uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/deisha-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/deisha-viewpoint/",
+              "anchor_text": "Deisha uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Fraggle Rock uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/fraggle-rock-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/fraggle-rock-viewpoint/",
+              "anchor_text": "Fraggle Rock uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "John Suwan uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/john-suwan-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/john-suwan-viewpoint/",
+              "anchor_text": "John Suwan uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Koh Nang Yuan uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/koh-nang-yuan-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/koh-nang-yuan-viewpoint/",
+              "anchor_text": "Koh Nang Yuan uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Love Koh Tao uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/love-koh-tao-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/love-koh-tao-viewpoint/",
+              "anchor_text": "Love Koh Tao uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Mango Bay uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/mango-bay-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/mango-bay-viewpoint/",
+              "anchor_text": "Mango Bay uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Sai Nuan uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/sai-nuan-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/sai-nuan-viewpoint/",
+              "anchor_text": "Sai Nuan uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Sun Suwan 360 Bar",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/sun-suwan-360-bar/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/sun-suwan-360-bar/",
+              "anchor_text": "Sun Suwan 360 Bar"
+            }
+          ]
+        },
+        {
+          "text": "Tanote Peak uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/tanote-peak-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/tanote-peak-viewpoint/",
+              "anchor_text": "Tanote Peak uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "West Coast uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/west-coast-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/west-coast-viewpoint/",
+              "anchor_text": "West Coast uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Sairee Beach naar John Suwan Uitkijkpunt",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao/things-to-do/sairee-beach-to-john-suwan-viewpoint/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao/things-to-do/sairee-beach-to-john-suwan-viewpoint/",
+              "anchor_text": "Sairee Beach naar John Suwan Uitkijkpunt"
+            }
+          ]
+        },
+        {
+          "text": "Baia Burger",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/baia-burger/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/baia-burger/",
+              "anchor_text": "Baia Burger"
+            }
+          ]
+        },
+        {
+          "text": "Baia Taco Concept",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/baia-taco-concept/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/baia-taco-concept/",
+              "anchor_text": "Baia Taco Concept"
+            }
+          ]
+        },
+        {
+          "text": "Barracuda Darawan",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/barracuda-darawan/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/barracuda-darawan/",
+              "anchor_text": "Barracuda Darawan"
+            }
+          ]
+        },
+        {
+          "text": "Barracuda Roof Top Sairee",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/barracuda-roof-top-sairee/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/barracuda-roof-top-sairee/",
+              "anchor_text": "Barracuda Roof Top Sairee"
+            }
+          ]
+        },
+        {
+          "text": "Blue Heaven Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/blue-heaven-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/blue-heaven-koh-tao/",
+              "anchor_text": "Blue Heaven Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Blue Water Cafe & Restaurant",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/blue-water-cafe-restaurant/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/blue-water-cafe-restaurant/",
+              "anchor_text": "Blue Water Cafe & Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Breeze Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/breeze-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/breeze-koh-tao/",
+              "anchor_text": "Breeze Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Hacienda Bar en Grill",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/hacienda-bar-and-grill/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/hacienda-bar-and-grill/",
+              "anchor_text": "Hacienda Bar en Grill"
+            }
+          ]
+        },
+        {
+          "text": "Hippo Burger Bistro",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/hippo-burger-bistro/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/hippo-burger-bistro/",
+              "anchor_text": "Hippo Burger Bistro"
+            }
+          ]
+        },
+        {
+          "text": "Pranees Kitchen",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/pranees-kitchen/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/pranees-kitchen/",
+              "anchor_text": "Pranees Kitchen"
+            }
+          ]
+        },
+        {
+          "text": "Shalimar Indiase keuken",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/shalimar-indian-cuisine/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/shalimar-indian-cuisine/",
+              "anchor_text": "Shalimar Indiase keuken"
+            }
+          ]
+        },
+        {
+          "text": "Thaita Italiaanse keuken",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/thaita-italian/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/thaita-italian/",
+              "anchor_text": "Thaita Italiaanse keuken"
+            }
+          ]
+        },
+        {
+          "text": "The Gallery Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/the-gallery-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/the-gallery-koh-tao/",
+              "anchor_text": "The Gallery Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Whitening Bar en Restaurant",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/whitening-bar-and-restaurant/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/whitening-bar-and-restaurant/",
+              "anchor_text": "Whitening Bar en Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Beer Masons Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/beer-masons-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/beer-masons-koh-tao/",
+              "anchor_text": "Beer Masons Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Choppers Sports Bar",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/choppers-sports-bar/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/choppers-sports-bar/",
+              "anchor_text": "Choppers Sports Bar"
+            }
+          ]
+        },
+        {
+          "text": "Fizz Beach Lounge",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/fizz-beach-lounge/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/fizz-beach-lounge/",
+              "anchor_text": "Fizz Beach Lounge"
+            }
+          ]
+        },
+        {
+          "text": "Maya Beach Club",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/maya-beach-club/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/maya-beach-club/",
+              "anchor_text": "Maya Beach Club"
+            }
+          ]
+        },
+        {
+          "text": "Reef Sports Bar & Restaurant",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/reef-bar-sports-bar-restaurant/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-bars/reef-bar-sports-bar-restaurant/",
+              "anchor_text": "Reef Sports Bar & Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Café Culture",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/cafe-culture/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/cafe-culture/",
+              "anchor_text": "Café Culture"
+            }
+          ]
+        },
+        {
+          "text": "Coconut Monkey",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/coconut-monkey/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/coconut-monkey/",
+              "anchor_text": "Coconut Monkey"
+            }
+          ]
+        },
+        {
+          "text": "Living Juices",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/living-juices/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/living-juices/",
+              "anchor_text": "Living Juices"
+            }
+          ]
+        },
+        {
+          "text": "Nui Bakery Sairee",
+          "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/nui-bakery-sairee/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-cafes-and-coffee-shops/nui-bakery-sairee/",
+              "anchor_text": "Nui Bakery Sairee"
+            }
+          ]
+        },
+        {
+          "text": "Snorkeltrip van een hele dag",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/full-day-snorkel-trips/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/full-day-snorkel-trips/",
+              "anchor_text": "Snorkeltrip van een hele dag"
+            }
+          ]
+        },
+        {
+          "text": "Snorkeltrip van een halve dag",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/half-day-snorkel-trips/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/half-day-snorkel-trips/",
+              "anchor_text": "Snorkeltrip van een halve dag"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen in Aow Leuk Bay",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/aow-leuk-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/aow-leuk-bay/",
+              "anchor_text": "Snorkelen in Aow Leuk Bay"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen in Hin Wong Bay",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/hin-wong-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/hin-wong-bay/",
+              "anchor_text": "Snorkelen in Hin Wong Bay"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen bij Koh Nang Yuan",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/koh-nang-yuan/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/koh-nang-yuan/",
+              "anchor_text": "Snorkelen bij Koh Nang Yuan"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen in Mango Bay",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/mango-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/mango-bay/",
+              "anchor_text": "Snorkelen in Mango Bay"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelen in Shark Bay",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/shark-bay/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/shark-bay/",
+              "anchor_text": "Snorkelen in Shark Bay"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Snorkeltochten",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+              "anchor_text": "Koh Tao Snorkeltochten"
+            }
+          ]
+        },
+        {
+          "text": "Top tips voor snorkelveiligheid",
+          "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/top-tips-for-safety/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/top-tips-for-safety/",
+              "anchor_text": "Top tips voor snorkelveiligheid"
+            }
+          ]
+        },
+        {
+          "text": "Open Water cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/open-water-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/open-water-course/",
+              "anchor_text": "Open Water cursus"
+            }
+          ]
+        },
+        {
+          "text": "Discover Scuba Diving",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/discover-scuba-diving/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/discover-scuba-diving/",
+              "anchor_text": "Discover Scuba Diving"
+            }
+          ]
+        },
+        {
+          "text": "Scuba Diver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-diver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-diver-course/",
+              "anchor_text": "Scuba Diver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Scuba Review",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-review/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/scuba-review/",
+              "anchor_text": "Scuba Review"
+            }
+          ]
+        },
+        {
+          "text": "Advanced Open Water cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/advanced-open-water-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/advanced-open-water-course/",
+              "anchor_text": "Advanced Open Water cursus"
+            }
+          ]
+        },
+        {
+          "text": "Rescue Diver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/rescue-diver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/rescue-diver-course/",
+              "anchor_text": "Rescue Diver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Specialisatie cursussen",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/specialty-courses/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/specialty-courses/",
+              "anchor_text": "Specialisatie cursussen"
+            }
+          ]
+        },
+        {
+          "text": "Divemaster cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/divemaster-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/divemaster-course/",
+              "anchor_text": "Divemaster cursus"
+            }
+          ]
+        },
+        {
+          "text": "Instructor Development cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/instructor-development-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/instructor-development-course/",
+              "anchor_text": "Instructor Development cursus"
+            }
+          ]
+        },
+        {
+          "text": "Onderwater videografie cursus",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/underwater-videography-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/underwater-videography-course/",
+              "anchor_text": "Onderwater videografie cursus"
+            }
+          ]
+        },
+        {
+          "text": "Emergency First Response (EHBO) Cursussen",
+          "url": "https://www.thefunkyturtle.com/nl/diving-courses/emergency-first-response-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/diving-courses/emergency-first-response-course/",
+              "anchor_text": "Emergency First Response (EHBO) Cursussen"
+            }
+          ]
+        },
+        {
+          "text": "Aow Leuk Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/aow-leuk-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/aow-leuk-dive-site/",
+              "anchor_text": "Aow Leuk Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Buoyancy World Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/buoyancy-world-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/buoyancy-world-dive-site/",
+              "anchor_text": "Buoyancy World Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Chumphon Pinnacle Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/chumphon-pinnacle-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/chumphon-pinnacle-dive-site/",
+              "anchor_text": "Chumphon Pinnacle Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Green Rock Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/green-rock-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/green-rock-dive-site/",
+              "anchor_text": "Green Rock Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Hin Pee Wee Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/hin-pee-wee-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/hin-pee-wee-dive-site/",
+              "anchor_text": "Hin Pee Wee Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Hin Wong Pinnacle Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/hin-wong-pinnacle-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/hin-wong-pinnacle-dive-site/",
+              "anchor_text": "Hin Wong Pinnacle Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "HTMS Sattakut Wrakduik",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/htms-sattakut-wreck-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/htms-sattakut-wreck-dive-site/",
+              "anchor_text": "HTMS Sattakut Wrakduik"
+            }
+          ]
+        },
+        {
+          "text": "Japanese Gardens Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/japanese-gardens-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/japanese-gardens-dive-site/",
+              "anchor_text": "Japanese Gardens Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Junkyard Reef Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/junkyard-reef-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/junkyard-reef-dive-site/",
+              "anchor_text": "Junkyard Reef Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Laem Thian Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/laem-thian-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/laem-thian-dive-site/",
+              "anchor_text": "Laem Thian Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Lighthouse Bay Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/lighthouse-bay-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/lighthouse-bay-dive-site/",
+              "anchor_text": "Lighthouse Bay Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Mango Bay Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/mango-bay-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/mango-bay-dive-site/",
+              "anchor_text": "Mango Bay Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Pottery Pinnacle & Three Rocks Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/pottery-pinnacle-three-rocks-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/pottery-pinnacle-three-rocks-dive-site/",
+              "anchor_text": "Pottery Pinnacle & Three Rocks Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Red Rock Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/red-rock-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/red-rock-dive-site/",
+              "anchor_text": "Red Rock Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Sail Rock Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/sail-rock-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/sail-rock-dive-site/",
+              "anchor_text": "Sail Rock Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Shark Island Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/shark-island-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/shark-island-dive-site/",
+              "anchor_text": "Shark Island Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "South West Pinnacle Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/south-west-pinnacle-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/south-west-pinnacle-dive-site/",
+              "anchor_text": "South West Pinnacle Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Tanote Bay Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/tanote-bay-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/tanote-bay-dive-site/",
+              "anchor_text": "Tanote Bay Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Twins Pinnacles Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/twins-pinnacles-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/twins-pinnacles-dive-site/",
+              "anchor_text": "Twins Pinnacles Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "White Rock Duikplek",
+          "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/white-rock-dive-site/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/white-rock-dive-site/",
+              "anchor_text": "White Rock Duikplek"
+            }
+          ]
+        },
+        {
+          "text": "Basic Freediver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/basic-freediver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/basic-freediver-course/",
+              "anchor_text": "Basic Freediver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Freediver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/freediver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/freediver-course/",
+              "anchor_text": "Freediver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Advanced Freediver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/advanced-freediver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/advanced-freediver-course/",
+              "anchor_text": "Advanced Freediver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Master Freediver cursus",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/master-freediver-course/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/master-freediver-course/",
+              "anchor_text": "Master Freediver cursus"
+            }
+          ]
+        },
+        {
+          "text": "Freediver Instructeur",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/freediver-instructor/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/freediver-instructor/",
+              "anchor_text": "Freediver Instructeur"
+            }
+          ]
+        },
+        {
+          "text": "Freediving Instructeur voor duikinstructeurs",
+          "url": "https://www.thefunkyturtle.com/nl/freediving/freediving-instructor-for-scuba-instructors/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/freediving/freediving-instructor-for-scuba-instructors/",
+              "anchor_text": "Freediving Instructeur voor duikinstructeurs"
+            }
+          ]
+        },
+        {
+          "text": "Adopteer Een Koraal",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/adopt-a-coral/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/adopt-a-coral/",
+              "anchor_text": "Adopteer Een Koraal"
+            }
+          ]
+        },
+        {
+          "text": "Kunstmatige duiklocaties",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/artificial-dive-sites/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/artificial-dive-sites/",
+              "anchor_text": "Kunstmatige duiklocaties"
+            }
+          ]
+        },
+        {
+          "text": "Buoyancy World",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/buoyancy-world/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/buoyancy-world/",
+              "anchor_text": "Buoyancy World"
+            }
+          ]
+        },
+        {
+          "text": "Koraal restoratie",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-restoration/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-restoration/",
+              "anchor_text": "Koraal restoratie"
+            }
+          ]
+        },
+        {
+          "text": "Coral Watch",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-watch/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-watch/",
+              "anchor_text": "Coral Watch"
+            }
+          ]
+        },
+        {
+          "text": "Dive Against Debris",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/dive-against-debris/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/dive-against-debris/",
+              "anchor_text": "Dive Against Debris"
+            }
+          ]
+        },
+        {
+          "text": "Bedreigde soorten haaien en schildpadden",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/endangered-species-sharks-turtles/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/endangered-species-sharks-turtles/",
+              "anchor_text": "Bedreigde soorten haaien en schildpadden"
+            }
+          ]
+        },
+        {
+          "text": "Giant Clam kwekerij",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/giant-clam-nursery/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/giant-clam-nursery/",
+              "anchor_text": "Giant Clam kwekerij"
+            }
+          ]
+        },
+        {
+          "text": "Junkyard Reef",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/junkyard-reef/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/junkyard-reef/",
+              "anchor_text": "Junkyard Reef"
+            }
+          ]
+        },
+        {
+          "text": "Interactie met het leven in de zee",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/marine-life-interaction/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/marine-life-interaction/",
+              "anchor_text": "Interactie met het leven in de zee"
+            }
+          ]
+        },
+        {
+          "text": "Beheer van mariene hulpbronnen",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/marine-resource-management/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/marine-resource-management/",
+              "anchor_text": "Beheer van mariene hulpbronnen"
+            }
+          ]
+        },
+        {
+          "text": "Aanbrengen van ankerlijnen",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/mooring-buoy-lines/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/mooring-buoy-lines/",
+              "anchor_text": "Aanbrengen van ankerlijnen"
+            }
+          ]
+        },
+        {
+          "text": "Reef Check Surveys EMP",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/reef-check-surveys-emp/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/reef-check-surveys-emp/",
+              "anchor_text": "Reef Check Surveys EMP"
+            }
+          ]
+        },
+        {
+          "text": "Zonnebrandcrème en koraalriffen",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/sunscreen-and-coral-reefs/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/sunscreen-and-coral-reefs/",
+              "anchor_text": "Zonnebrandcrème en koraalriffen"
+            }
+          ]
+        },
+        {
+          "text": "Cigarette Butt Challenge",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/cigarette-butt-challenge/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/cigarette-butt-challenge/",
+              "anchor_text": "Cigarette Butt Challenge"
+            }
+          ]
+        },
+        {
+          "text": "S & S Water Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/s-and-s-water-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/s-and-s-water-koh-tao/",
+              "anchor_text": "S & S Water Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Plastic voor eenmalig gebruik",
+          "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/single-use-plastics/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/conservation/land-conservation/single-use-plastics/",
+              "anchor_text": "Plastic voor eenmalig gebruik"
+            }
+          ]
+        },
+        {
+          "text": "Angthong National Marine Park",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/angthong-national-marine-park/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/angthong-national-marine-park/",
+              "anchor_text": "Angthong National Marine Park"
+            }
+          ]
+        },
+        {
+          "text": "Full Moon Party Koh Phangan",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/full-moon-party-koh-phangan/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/full-moon-party-koh-phangan/",
+              "anchor_text": "Full Moon Party Koh Phangan"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Leisure Park",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-leisure-park/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-leisure-park/",
+              "anchor_text": "Koh Tao Leisure Park"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Pub Crawl",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-pub-crawl/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-pub-crawl/",
+              "anchor_text": "Koh Tao Pub Crawl"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao scooterverhuur",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-scooter-rental/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-scooter-rental/",
+              "anchor_text": "Koh Tao scooterverhuur"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao watersporten",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-watersports/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-watersports/",
+              "anchor_text": "Koh Tao watersporten"
+            }
+          ]
+        },
+        {
+          "text": "Muay Thai Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/muay-thai-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/muay-thai-koh-tao/",
+              "anchor_text": "Muay Thai Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Rotsklimmen Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/rock-climbing-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/rock-climbing-koh-tao/",
+              "anchor_text": "Rotsklimmen Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Paddleboarding Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/paddleboarding-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/paddleboarding-koh-tao/",
+              "anchor_text": "Paddleboarding Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "SUP TAO Paddleboarding",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/sup-tao-paddleboarding/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/sup-tao-paddleboarding/",
+              "anchor_text": "SUP TAO Paddleboarding"
+            }
+          ]
+        },
+        {
+          "text": "Zwemlessen Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/swimming-classes-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/swimming-classes-koh-tao/",
+              "anchor_text": "Zwemlessen Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Taallessen Thais Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/thai-language-lessons-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/thai-language-lessons-koh-tao/",
+              "anchor_text": "Taallessen Thais Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Gym & Fitness Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/gym-and-fitness-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/gym-and-fitness-koh-tao/",
+              "anchor_text": "Gym & Fitness Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Parawan Thaise kookles",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/parawan-thai-cooking-class/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/parawan-thai-cooking-class/",
+              "anchor_text": "Parawan Thaise kookles"
+            }
+          ]
+        },
+        {
+          "text": "Spa & Massage",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/spa-massage/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/spa-massage/",
+              "anchor_text": "Spa & Massage"
+            }
+          ]
+        },
+        {
+          "text": "Thais koken",
+          "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/thai-cooking/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/thai-cooking/",
+              "anchor_text": "Thais koken"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Dierenkliniek",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-animal-clinic/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-animal-clinic/",
+              "anchor_text": "Koh Tao Dierenkliniek"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Banken en Geldautomaten",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-banks-and-atm/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-banks-and-atm/",
+              "anchor_text": "Koh Tao Banken en Geldautomaten"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Tandarts",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-dentist/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-dentist/",
+              "anchor_text": "Koh Tao Tandarts"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Dokters",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-doctors/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-doctors/",
+              "anchor_text": "Koh Tao Dokters"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Ziekenhuis",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-hospital/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-hospital/",
+              "anchor_text": "Koh Tao Ziekenhuis"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Rescue",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-rescue/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-rescue/",
+              "anchor_text": "Koh Tao Rescue"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Scholen",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-schools/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-schools/",
+              "anchor_text": "Koh Tao Scholen"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Winkels",
+          "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-shops/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/information/koh-tao-shops/",
+              "anchor_text": "Koh Tao Winkels"
+            }
+          ]
+        },
+        {
+          "text": "Nachtboten naar Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/night-boats/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/night-boats/",
+              "anchor_text": "Nachtboten naar Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Songserm Express",
+          "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/songserm-ferries/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/songserm-ferries/",
+              "anchor_text": "Songserm Express"
+            }
+          ]
+        },
+        {
+          "text": "Seatran Veerboten",
+          "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/seatran-ferries/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/seatran-ferries/",
+              "anchor_text": "Seatran Veerboten"
+            }
+          ]
+        },
+        {
+          "text": "Lomprayah Veerboten",
+          "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/lomprayah-ferries/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/travel-to-koh-tao/lomprayah-ferries/",
+              "anchor_text": "Lomprayah Veerboten"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao",
+          "url": "https://www.thefunkyturtle.com/nl/blog/category/koh-tao-nl/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/blog/category/koh-tao-nl/",
+              "anchor_text": "Koh Tao"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "koh tao",
+          "url": "https://www.thefunkyturtle.com/nl/blog/tag/koh-tao-nl/",
+          "urls": [
+            {
+              "url": "https://www.thefunkyturtle.com/nl/blog/tag/koh-tao-nl/",
+              "anchor_text": "koh tao"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Waar te gaan snorkelen als je Koh Tao bezoekt",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Als een van ’s werelds meest populaire duikbestemmingen voor duiktraining, is het geen verrassing dat het onderwaterlandschap rond Koh Tao geweldig is.",
+            "url": "https://www.thefunkyturtle.com/nl/diving-courses/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/diving-courses/",
+                "anchor_text": "duiktraining"
+              }
+            ]
+          },
+          {
+            "text": "Niet elke bezoeker heeft echter de tijd of zin om te duiken en wat maar weinig mensen beseffen is dat Koh Tao eigenlijk populairder is voor bezoekers die van snorkelen houden.",
+            "url": "https://www.thefunkyturtle.com/nl/scuba-diving/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/scuba-diving/",
+                "anchor_text": "duiken"
+              },
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/",
+                "anchor_text": "snorkelen houden"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Koh Tao is omgeven door meer dan 8 kilometer koraalrif en biedt een enorme diversiteit aan zeeleven.",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Tel daar het kalme, ondiepe water rond het grootste deel van het eiland bij op en snorkelen is een perfect alternatief voor elke bezoeker.",
+            "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-watersports/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/lifestyle/activities/koh-tao-watersports/",
+                "anchor_text": "snorkelen is een perfect alternatief"
+              }
+            ]
+          },
+          {
+            "text": "Snorkelen biedt een ideale manier voor het grote aantal bezoekers om te genieten van de schoonheid van het koraalrif en de overvloed aan zeeleven.",
+            "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/",
+                "anchor_text": "overvloed aan zeeleven"
+              }
+            ]
+          },
+          {
+            "text": "Koh Tao heeft schoonheid verborgen in veel van zijn stranden en baaien, en biedt verschillende landschappen en de onderwaterrotsformaties op sommige van deze locaties zijn fantastisch om te snorkelen.",
+            "url": "https://www.thefunkyturtle.com/nl/blog/10-best-reasons-to-visit-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/10-best-reasons-to-visit-koh-tao/",
+                "anchor_text": "stranden en baaien"
+              },
+              {
+                "url": "https://www.thefunkyturtle.com/nl/book-activities/",
+                "anchor_text": "fantastisch om te snorkelen"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Snorkelen op het beroemde eiland Koh Nangyuan",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Koh Nangyuan ligt ongeveer 800 meter van de noordwestpunt van Koh Tao en is alleen per boot bereikbaar.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het privé-eiland is tussen 9.00u en 17.00u geopend voor publiek. Om er te komen, kun je een longtailboot met chauffeur huren voor een terugreis vanaf veel van de stranden op Koh Tao.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Omdat Koh Nangyuan een privé eiland is, wordt er een entreeprijs van 100 THB in rekening gebracht, die wordt betaald bij aankomst op het eiland.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Er is ook een restaurant en een café waar je eten en drinken kunt kopen of misschien wil je je eigen eten en drinken meenemen.",
+            "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/food-drink/koh-tao-restaurants/",
+                "anchor_text": "restaurant en een café"
+              }
+            ]
+          },
+          {
+            "text": "GEEN PLASTIC",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Plastic wegwerpflessen zijn echter niet toegestaan op het eiland, dus neem zeker een herbruikbare mee.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nadat je de toegangsprijs hebt betaald, begeef je je naar de oostkant van het eiland en vind je een zandstrand dat uitkijkt op een watergebied dat bekend staat als Japanese Gardens.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit is een aangewezen snorkelgebied en is afgezet om te voorkomen dat boten binnenkomen.",
+            "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/koh-nang-yuan-beach/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/koh-tao/beaches/koh-nang-yuan-beach/",
+                "anchor_text": "aangewezen snorkelgebied"
+              }
+            ]
+          },
+          {
+            "text": "Het water heeft een maximale diepte tot 15 meter naarmate je verder weg snorkelt en het grootste deel van het jaar is er weinig stroming, wat het ideaal maakt voor beginnende snorkelaars.",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/koh-nang-yuan/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/koh-nang-yuan/",
+                "anchor_text": "snorkelt"
+              }
+            ]
+          },
+          {
+            "text": "Snorkelend in Japanse tuinen ontdek je kristalhelder water en grote granieten rotsen die door de jaren heen door het water zijn gepolijst.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "De rotsformaties onder water bij Koh Nangyuan wemelen van de kleurrijke vissen.",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Er is ook een mix van harde en zachte koralen, die hebben bijgedragen aan de naam van deze locatie, omdat het een panorama heeft dat lijkt op een Japanse tuin.",
+            "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/japanese-gardens-dive-site/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/koh-tao-fun-diving/japanese-gardens-dive-site/",
+                "anchor_text": "lijkt op een Japanse tuin"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Snorkelen in het noorden van Koh Tao bij Mango Bay",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Mango Bay ligt aan de noordkust van Koh Tao en is bereikbaar per boot, taxi of een offroad motor.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het pad naar het strand is slechts een klein onverharde weg, dus het kan moeilijk zijn om te navigeren als je een onervaren rijder bent.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Aangezien het pad door een privéresort loopt, is er een toegangsprijs van 100 THB, dus het kan gemakkelijker zijn om Mango Bay te bezoeken met een longtailboot vanuit Sairee of Mae Haad.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De brede baai zelf heeft koraalriffen die aan weerszijden naar beneden lopen en het water dat de baai vult is meestal kristalhelder en turkoois van kleur.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De zeebodem in het midden van de baai bestaat uit fijn wit zand en afhankelijk van de heersende windrichting is het water kalm en glad, waardoor het voor iedereen een geweldige locatie is om te snorkelen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De baai wordt ook vaak gebruikt door Koh Tao duikscholen voor beginnerscursussen, plezierduikers en dagjesmensen komen aan vanuit Koh Phangan en Koh Samui, dus het is populair.",
+            "url": "https://www.thefunkyturtle.com/nl/blog/how-to-get-from-koh-samui-to-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/how-to-get-from-koh-samui-to-koh-tao/",
+                "anchor_text": "Koh Samui"
+              }
+            ]
+          },
+          {
+            "text": "ONTDEK & SNORKEL",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Laat de gedachte aan andere bezoekers je niet afschrikken, want het koraalrif strekt zich honderden meters uit aan beide kanten, dus je hoeft niet te ver te zoeken om het spectaculaire onderwaterleven te zien.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Er is veel te zien snorkelen in Mango Bay, waaronder: barracuda, damselfish, trekkervis, lipvis, eenhoornvis om er maar een paar te noemen.",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/mango-bay/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/mango-bay/",
+                "anchor_text": "snorkelen in Mango Bay"
+              }
+            ]
+          },
+          {
+            "text": "Mango Bay is heel gemakkelijk om te snorkelen en misschien heb je het geluk om een paar zeepaardjes in de zanderige zeebodem te vinden.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Snorkelen bij Lighthouse Bay Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Lighthouse Bay ligt in het noordoosten van Koh Tao en biedt nog een geweldige locatie om te snorkelen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Er is geen directe toegang via de weg tot de baai, maar je kunt binnen een paar honderd meter met de pick-up of scooter naar een gedeeltelijk gebouwd resort komen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Vanaf het resort moet je te voet het steile, rotsachtige pad aflopen dat naar de baai leidt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het belangrijkste snorkelgebied ligt net buiten de kust, dus je zult een beetje moeten zwemmen om het prachtige koraalrif en de onderwaterrotsformaties te vinden die wemelen van het leven.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Je kunt ook naar Lighthouse Bay gaan met een snorkeltripboot of longtailboot en rechtstreeks naar de beste gebieden duiken.",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+                "anchor_text": "snorkeltripboot"
+              }
+            ]
+          },
+          {
+            "text": "Hoewel de vuurtoren niet meer in gebruik is, biedt het een uitstekende referentie voor de boten om de beste snorkelplekken te vinden.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Lighthouse Bay is beschut met goed zicht, waardoor het het grootste deel van het jaar een geweldige locatie is om te snorkelen.",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "De koraalriffen zijn enkele van de beste die je op Koh Tao zult zien en omvatten tafelkoralen, staghorn koralen en grote tonvormige sponzen.",
+            "url": "https://www.thefunkyturtle.com/nl/koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/koh-tao/",
+                "anchor_text": "Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "De snorkellocatie wordt verlicht door de vele kleurrijke kerstboomwormen die hier te vinden zijn, terwijl de koralen een ideale habitat bieden voor veel kleine rifvissen om te gedijen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Je kunt veel kleurrijke vissen zien, waaronder papegaaivissen, lipvissen, maanvissen, vlindervissen en langvin-bannervissen, evenals scholen geelstaartbarracuda’s.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Snorkelen aan de oostkust van Koh Tao bij Tanote Bay",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Tanote Bay is gemakkelijk te vinden en ligt aan de oostkant van Koh Tao en is het best te bereiken per scooter of taxiboot.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De route vanaf Mae Haad gaat over de centrale heuvel Koh Tao en beloont je met een spectaculair uitzicht op de oostkust en het duurt ongeveer 15 minuten om daar te komen.",
+            "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/love-koh-tao-viewpoint/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/koh-tao/viewpoints/love-koh-tao-viewpoint/",
+                "anchor_text": "spectaculair uitzicht op de oostkust"
+              }
+            ]
+          },
+          {
+            "text": "Net als bij veel andere baaien op het eiland, is de weg naar de baai steil en dus niet ideaal voor beginnende chauffeurs.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Tanote Bay is omgeven door hoge heuvels en is een perfecte plek om te snorkelen.",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "De koraalriffen beginnen minder dan 2 meter onder het oppervlak en dalen nog eens 15 meter verder af.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Naast het natuurlijke rif is er ook een kunstmatig rifproject met een koraalkwekerij die wordt ondernomen om de druk van bezoekers op het natuurlijke koraalrif te verlichten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De baai is omgeven door enorme rotsblokken en er zijn er veel in het water, waardoor het fantastisch is om te snorkelen.",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/top-tips-for-safety/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/top-tips-for-safety/",
+                "anchor_text": "fantastisch is om te snorkelen"
+              }
+            ]
+          },
+          {
+            "text": "Deze grote granieten rotsblokken zijn bedekt met koraal en herbergen vele soorten zeeleven, waaronder papegaaivissen, murenen, konijnenvissen en geelstaartbarracuda.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De diepere gebieden in het midden van de baai worden ook bezocht door zwartpuntrifhaaien en schildpadden.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "GROTE GRANIETEN ROTSEN",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoewel de rotsblokken geweldige plekken zijn om rond te snorkelen, bieden ze ook de mogelijkheid voor rotsspringers.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Aan minstens één van hen is permanent een touw vastgemaakt om mensen in staat te stellen omhoog en omlaag te klimmen in het heldere, warme water.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Als je in dit gebied aan het snorkelen bent, moet je uitkijken naar mensen die springen, zodat je plezier kunt blijven hebben en op verkenning kunt gaan.",
+            "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/tanote-bay/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/koh-tao/bays/tanote-bay/",
+                "anchor_text": "dit gebied aan het snorkelen bent"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Snorkel in de ‘diepe baai’ bij Aow Leuk op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Aow Leuk, of “diepe baai”, ligt in de zuidoostelijke hoek van het eiland. Een afgelegen baai, de naam komt van de diepe, concave vorm van de baai en de diepte van het water.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De baai is gemakkelijk te voet of met de auto te bereiken, hoewel je wel door Aow Leuk Grand Resort moet en een entreeprijs van 50 THB moet betalen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Aan beide kanten van de baai liggen koraalriffen die beginnen in het ondiepe water voor het strand, dus je hoeft niet ver te zwemmen om het onderwaterleven op deze prachtige locatie te ervaren.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ONDERWATER AQUARIUM",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Onder water kun je een grote verscheidenheid aan vissoorten verwachten, waaronder vlindervissen, clownvissen, koraalduivels, brasem en Jenkins-roggen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tijdens de juiste tijd van het jaar kun je het geluk hebben baby-zwartpuntrifhaaien te zien die de ondiepten gebruiken als kraamkamer, terwijl de volwassen haaien meestal iets verder uit de kust worden gevonden.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Houd er rekening mee dat het resort het niet toestaat dat je eigen eten en drinken meebrengt op het strand en het is mogelijk dat je bagage wordt gecontroleerd om dit af te dwingen.",
+            "url": "https://www.thefunkyturtle.com/nl/food-drink/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/food-drink/",
+                "anchor_text": "eten en drinken"
+              }
+            ]
+          },
+          {
+            "text": "Er zijn 2 restaurants op het strand die eten en drinken aan een goede prijs serveren, evenals een locatie om te relaxen in de schaduw als je eenmaal klaar bent om uit te rusten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "De waterdiepte maakt het een perfecte locatie om te snorkelen, ook bij laag water.",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/aow-leuk-bay/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/aow-leuk-bay/",
+                "anchor_text": "perfecte locatie om te snorkelen"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Snorkel met zwartpunt rifhaaien bij Shark Bay Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Shark Bay is een privébaai gelegen aan de zuidkust van Koh Tao. Over de weg is het het beste bereikbaar door te parkeren voor het Haad Tien Beach Resort en de borden te volgen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Er is een toegangsprijs van 200 THB die je moet betalen als je doorkomt. Het is mogelijk om per boot of kajak toegang te krijgen tot de baai om te snorkelen, waardoor je die kost kunt vermijden.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Shark Bay is vernoemd naar de bezoekende zwartpuntrifhaaien die het gebruiken als kraamkamer voor hun jongen.",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Dit maakt Shark Bay een van de beste locaties om ze op het eiland te zien.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De beste tijd van de dag is ’s ochtends na zonsopgang langs de noordkustvan de baai en ze kunnen tot 1,8 meter lang worden. Als je van plan bent om vroeg te komen, probeer dan tussen 7.00u en 10.00u aan te komen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Shark Bay is ook een van de weinige locaties op Koh Tao waar je dagelijks groene zeeschildpadden kunt zien.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De schildpadden worden gevonden rond het koraalrif, ondanks het feit dat het rif in het midden van de baai erg beschadigd is door een eerdere bleekperiode en nooit is hersteld.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "GROENE ZEESCHILDPADDEN",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Schildpadden in de baai kunnen meer dan een meter lang worden en zijn niet bang voor mensen, dus ze zullen heel dicht bij je komen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Pas op dat je schildpadden of enig ander zeeleven niet aanraakt, aangezien bacteriën op onze huid schadelijk kunnen zijn.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Laat je tijdens het snorkelen in Shark Bay niet ontmoedigen door het beschadigde koraal dat je overal in het centrale gebied zult zien, want er is veel te zien, vooral aan de noordkant van de baai.",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/shark-bay/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/shark-bay/",
+                "anchor_text": "snorkelen in Shark Bay"
+              }
+            ]
+          },
+          {
+            "text": "De laatste massale bleking heeft de Shark Bay zeer zwaar getroffen, dus het koraal is in grote gebieden niet hersteld en verscheidene studies volgen momenteel de situatie.",
+            "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-bleaching/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/conservation/marine-conservation/coral-bleaching/",
+                "anchor_text": "laatste massale bleking"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "De 6 beste snorkellocaties op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Onze 6 beste locaties om te snorkelen rond Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "GERELATEERDE ARTIKELEN MEER VAN DEZE AUTEUR",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "6 Redenen om een Open Water cursus op Koh Tao te volgen",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "6 Redenen om een Open Water cursus op Koh Tao te volgen",
+            "url": "https://www.thefunkyturtle.com/nl/blog/6-reasons-to-do-open-water-course-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/6-reasons-to-do-open-water-course-on-koh-tao/",
+                "anchor_text": "6 Redenen om een Open Water cursus op Koh Tao te volgen"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "De 6 beste restaurants op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "De 6 beste restaurants op Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/6-best-restaurants-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/6-best-restaurants-on-koh-tao/",
+                "anchor_text": "De 6 beste restaurants op Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "De 5 beste wandelroutes op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "De 5 beste wandelroutes op Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/5-best-hiking-trails-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/5-best-hiking-trails-on-koh-tao/",
+                "anchor_text": "De 5 beste wandelroutes op Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "5 Redenen om Koh Nang Yuan te bezoeken",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "5 Redenen om Koh Nang Yuan te bezoeken",
+            "url": "https://www.thefunkyturtle.com/nl/blog/5-reasons-to-visit-koh-nang-yuan/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/5-reasons-to-visit-koh-nang-yuan/",
+                "anchor_text": "5 Redenen om Koh Nang Yuan te bezoeken"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "10 Redenen om je Divemaster cursus op Koh Tao te doen",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "10 Redenen om je Divemaster cursus op Koh Tao te doen",
+            "url": "https://www.thefunkyturtle.com/nl/blog/10-reasons-to-do-a-divemaster-course-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/10-reasons-to-do-a-divemaster-course-on-koh-tao/",
+                "anchor_text": "10 Redenen om je Divemaster cursus op Koh Tao te doen"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Hoe kom je van Koh Samui naar Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Hoe kom je van Koh Samui naar Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/how-to-get-from-koh-samui-to-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/how-to-get-from-koh-samui-to-koh-tao/",
+                "anchor_text": "Hoe kom je van Koh Samui naar Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "LAAT EEN REACTIE ACHTER",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Please enter your comment!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Please enter your name here",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You have entered an incorrect email address!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Please enter your email address here",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Save my name, email, and website in this browser for the next time I comment.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "LAAT EEN REACTIE ACHTER",
+            "url": "https://www.thefunkyturtle.com/nl/blog/the-6-best-snorkeling-locations-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/the-6-best-snorkeling-locations-on-koh-tao/",
+                "anchor_text": "Annuleer reactie"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "CHECK HET WEER",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "BOEK EEN SNORKELTOUR",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "BOEK EEN SNORKELTOUR",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+                "anchor_text": "BOEK EEN SNORKELTOUR"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Koh Tao Snorkeltochten",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Koh Tao Snorkeltochten",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+                "anchor_text": "Koh Tao Snorkeltochten"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "BOOK A SNORKEL TOUR",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "BOOK A SNORKEL TOUR",
+            "url": "https://www.thefunkyturtle.com/snorkeling-koh-tao/snorkel-tour/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/snorkeling-koh-tao/snorkel-tour/",
+                "anchor_text": "BOOK A SNORKEL TOUR"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Koh Tao Snorkeltochten",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Koh Tao Snorkeltochten",
+            "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/snorkeling-koh-tao/snorkel-tour/",
+                "anchor_text": "Koh Tao Snorkeltochten"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "THAISE MASSAGE – VERWEN JEZELF",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "THAISE MASSAGE – VERWEN JEZELF",
+            "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/spa-massage/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/spa-massage/",
+                "anchor_text": "THAISE MASSAGE – VERWEN JEZELF"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Spa & Massage",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Spa & Massage",
+            "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/spa-massage/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/lifestyle/health/spa-massage/",
+                "anchor_text": "Spa & Massage"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Keuze van de Redacteur",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "10 Tips om een scooter te huren op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "10 Tips om een scooter te huren op Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/10-tips-to-rent-a-scooter-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/10-tips-to-rent-a-scooter-on-koh-tao/",
+                "anchor_text": "10 Tips om een scooter te huren op Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "Scooterverhuur op Koh Tao en veiligheid\nHet huren van een scooter is een geweldige manier om zoveel mogelijk van Koh Tao te zien. Er zijn...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Populaire Posts",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "De 6 beste snorkellocaties op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "De 6 beste snorkellocaties op Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/the-6-best-snorkeling-locations-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/the-6-best-snorkeling-locations-on-koh-tao/",
+                "anchor_text": "De 6 beste snorkellocaties op Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "De beste periode om een walvishaai te zien op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "De beste periode om een walvishaai te zien op Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/the-best-time-to-see-a-whaleshark-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/the-best-time-to-see-a-whaleshark-on-koh-tao/",
+                "anchor_text": "De beste periode om een walvishaai te zien op Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Waar te verblijven op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Waar te verblijven op Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/where-to-stay-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/where-to-stay-on-koh-tao/",
+                "anchor_text": "Waar te verblijven op Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "Algemene voorwaarden",
+            "url": "https://www.thefunkyturtle.com/nl/terms/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/terms/",
+                "anchor_text": "Algemene voorwaarden"
+              }
+            ]
+          },
+          {
+            "text": "Contacteer ons",
+            "url": "https://www.thefunkyturtle.com/nl/contact/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/contact/",
+                "anchor_text": "Contacteer ons"
+              }
+            ]
+          },
+          {
+            "text": "© Copyright 2026 The Funky Turtle - Alle rechten voorbehouden",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Populaire Categorie",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Koh Tao 15",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/koh-tao-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/koh-tao-nl/",
+                "anchor_text": "Koh Tao15"
+              }
+            ]
+          },
+          {
+            "text": "Lifestyle 13",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/lifestyle-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/lifestyle-nl/",
+                "anchor_text": "Lifestyle13"
+              }
+            ]
+          },
+          {
+            "text": "Activities 9",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/lifestyle-nl/activities-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/lifestyle-nl/activities-nl/",
+                "anchor_text": "Activities9"
+              }
+            ]
+          },
+          {
+            "text": "Travel 5",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/travel-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/travel-nl/",
+                "anchor_text": "Travel5"
+              }
+            ]
+          },
+          {
+            "text": "Scuba Diving 3",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/scuba-diving-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/scuba-diving-nl/",
+                "anchor_text": "Scuba Diving3"
+              }
+            ]
+          },
+          {
+            "text": "Food & Drink 2",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/lifestyle-nl/food-drink-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/lifestyle-nl/food-drink-nl/",
+                "anchor_text": "Food & Drink2"
+              }
+            ]
+          },
+          {
+            "text": "Snorkeling 2",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/snorkeling-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/snorkeling-nl/",
+                "anchor_text": "Snorkeling2"
+              }
+            ]
+          },
+          {
+            "text": "Accommodation 2",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/koh-tao-nl/accommodation-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/koh-tao-nl/accommodation-nl/",
+                "anchor_text": "Accommodation2"
+              }
+            ]
+          },
+          {
+            "text": "Things to do 2",
+            "url": "https://www.thefunkyturtle.com/nl/blog/category/things-to-do-nl/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/category/things-to-do-nl/",
+                "anchor_text": "Things to do2"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "De kosten van een hostel op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "De kosten van een hostel op Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/the-cost-of-a-hostel-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/the-cost-of-a-hostel-on-koh-tao/",
+                "anchor_text": "De kosten van een hostel op Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Het beste nachtleven op Koh Tao",
+        "main_title": "De 6 beste snorkellocaties op Koh Tao",
+        "author": "The Funky Turtle",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Het beste nachtleven op Koh Tao",
+            "url": "https://www.thefunkyturtle.com/nl/blog/the-best-nightlife-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.thefunkyturtle.com/nl/blog/the-best-nightlife-on-koh-tao/",
+                "anchor_text": "Het beste nachtleven op Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

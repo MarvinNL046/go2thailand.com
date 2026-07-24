@@ -640,7 +640,7 @@ export default function GrandPalaceTicketsPage() {
                   </p>
                 </Link>
                 <Link
-                  href="/blog/is-thailand-safe-tourists-2026/"
+                  href="/is-thailand-safe/"
                   className="rounded-2xl bg-white p-5 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
                 >
                   <h3 className="mb-1 font-bold font-heading text-gray-900">Is Thailand Safe for Tourists in 2026?</h3>

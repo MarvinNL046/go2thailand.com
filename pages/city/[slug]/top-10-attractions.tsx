@@ -426,6 +426,15 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   if (!city) return { notFound: true };
 
+  if (locale === 'nl') {
+    return {
+      redirect: {
+        destination: `/nl/city/${slug}/attractions/`,
+        permanent: true,
+      },
+    };
+  }
+
   // Try to load locale-specific top 10 attractions data, fallback to English
   let attractionsData = null;
   try {

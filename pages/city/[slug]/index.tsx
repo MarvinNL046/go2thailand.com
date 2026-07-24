@@ -1,9 +1,8 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
-import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getRelatedCities, getCityImageForSection, getAllCities, toAbsoluteImageUrl } from '../../../lib/cities';
+import { getCityBySlug, getCityStaticPaths, generateCityMetadata, getRelatedCities, getCityImageForSection, getAllCities, toAbsoluteImageUrl } from '../../../lib/cities';
 import { getComparisonsForItem, getComparisonPair } from '../../../lib/comparisons';
-import Breadcrumbs from '../../../components/Breadcrumbs';
 import CityCard from '../../../components/CityCard';
 import Sidebar from '../../../components/Sidebar';
 import TripcomWidget from '../../../components/TripcomWidget';
@@ -17,11 +16,25 @@ import AffiliateWidget from '../../../components/AffiliateWidget';
 import InlineAd from '../../../components/ads/InlineAd';
 import BookingHeroCTA from '../../../components/BookingHeroCTA';
 import TravelpayoutsRecoveryPanel from '../../../components/TravelpayoutsRecoveryPanel';
-import { TWELVEGO_GENERIC, withPlacementSubId } from '../../../lib/affiliates';
+import { cityAffiliates, KLOOK_GENERIC, SAILY_GENERIC, TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../../lib/affiliates';
 import { useSubId } from '../../../lib/useSubId';
 import transportRoutes from '../../../data/transport-routes.json';
 import { useT } from '../../../lib/i18n';
 import { strings as i18nStrings } from '../../../lib/i18n/city-slug-index';
+import { CityDestinationHero } from '../../../components/city/CityDestinationHero';
+import { CityEditorialIntro } from '../../../components/city/CityEditorialIntro';
+import { CityExperienceHighlights } from '../../../components/city/CityExperienceHighlights';
+import { CityPlaceHighlights } from '../../../components/city/CityPlaceHighlights';
+import { CityAdventureBanner } from '../../../components/city/CityAdventureBanner';
+import { CityHotelHighlights } from '../../../components/city/CityHotelHighlights';
+import { CityWeatherOverview } from '../../../components/city/CityWeatherOverview';
+import { CityItineraryOverview } from '../../../components/city/CityItineraryOverview';
+import { CityPracticalCards } from '../../../components/city/CityPracticalCards';
+import { CityFaqOverview } from '../../../components/city/CityFaqOverview';
+import { CityBookingPlanner } from '../../../components/city/CityBookingPlanner';
+import { CityCompleteGuide } from '../../../components/city/CityCompleteGuide';
+import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
+import { getNlDestinationGuide } from '../../../data/destinations/nl';
 
 interface City {
   id: number;
@@ -246,12 +259,39 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const [showAllTravelTips, setShowAllTravelTips] = useState(false);
   const [showAllAttractions, setShowAllAttractions] = useState(false);
   const [showAllRestaurants, setShowAllRestaurants] = useState(false);
+
+  const nlDestinationGuide = locale === 'nl' && city ? getNlDestinationGuide(city.slug) : undefined;
   
-  // Load translated content
-  const { content: translatedContent, loading: translationLoading } = useTranslatedContent('city', city?.slug);
+  // Premium NL guides already contain their final locale copy. Skipping the
+  // legacy client loader avoids a redundant dynamic import and its error path.
+  const { content: translatedContent, loading: translationLoading } = useTranslatedContent('city', nlDestinationGuide ? undefined : city?.slug);
+
+  // Keep hooks unconditional; the loader can briefly render without city data.
+  useEffect(() => {
+    if (!city || city.slug === 'krabi') return;
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://tpembd.com/content?trs=384595&shmarker=602467&lang=www&layout=S10391&powered_by=true&campaign_id=121&promo_id=4038';
+    script.charset = 'utf-8';
+
+    const widgetContainer = document.getElementById('trip-com-widget');
+    if (widgetContainer && widgetContainer.children.length === 0) {
+      widgetContainer.appendChild(script);
+    }
+
+    return () => {
+      if (widgetContainer && script.parentNode) {
+        widgetContainer.removeChild(script);
+      }
+    };
+  }, [city]);
   
   if (!city) {
     return <div>{t("s001_city_not_found")}</div>;
+  }
+
+  if (nlDestinationGuide) {
+    return <DestinationGuideTemplate data={nlDestinationGuide} />;
   }
 
   // Merge translated content with base city data
@@ -287,52 +327,47 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
     ? translatedContent.highlights 
     : city.highlights;
 
-  const breadcrumbs = generateBreadcrumbs(city);
-  const baseMetadata = generateCityMetadata(city);
+  const baseMetadata = generateCityMetadata(city, '', locale);
   const introText = city.overview || city.description.en;
   const introSnippet = introText.length > 200 ? `${introText.substring(0, 200)}...` : introText;
   const aboutParagraphs = (city.overview || city.enhanced_description || city.description.en)
     .split('\n\n')
     .filter(Boolean);
   const reviewedDate = city.enhanced_at
-    ? new Date(city.enhanced_at).toLocaleDateString('en-US', {
+    ? new Date(city.enhanced_at).toLocaleDateString(locale === 'nl' ? 'nl-NL' : 'en-US', {
         year: 'numeric',
         month: 'long',
         day: 'numeric',
       })
     : null;
+  const languageCode = locale === 'nl' ? 'nl-NL' : 'en';
+  const localizedCityName = locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en;
+  const pageUrl = `https://go2-thailand.com${locale === 'nl' ? '/nl' : ''}/city/${city.slug}/`;
+  const destinationDescription = city.slug === 'krabi' && locale === 'nl'
+    ? 'Krabi is een provincie in Zuid-Thailand én de naam van Krabi Town. Ao Nang is meestal de handigste eerste basis voor boten en restaurants. Met vier dagen heb je tijd voor Railay, een eilandtour en één dag op het vasteland.'
+    : locale === 'nl'
+      ? (city.description.nl || city.overview || city.description.en)
+      : (city.overview || city.description.en);
+  const destinationImage = toAbsoluteImageUrl(city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : city.image);
+  const visibleFaq = (city.faq || []).slice(0, 6);
 
   const metadata = {
     ...baseMetadata,
     title: baseMetadata.title || `${cityName}, Thailand Travel Guide: Best Areas, Attractions, Food & Hotels`,
     description: baseMetadata.description || `Plan a smarter ${cityName} trip with curated attractions, neighborhood advice, food picks, hotel recommendations, and practical local tips.`,
   };
-  const featureCardClass = "group relative overflow-hidden rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_16px_48px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_54px_rgba(15,23,42,0.10)]";
-  const sidebarPanelClass = "rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_14px_38px_rgba(15,23,42,0.06)]";
-  const exploreCardClass = "group relative overflow-hidden rounded-[30px] border border-gray-100 bg-white p-6 shadow-[0_18px_44px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_24px_56px_rgba(15,23,42,0.10)]";
+  const featureCardClass = city.slug === 'krabi'
+    ? "group relative overflow-hidden rounded-xl border border-jade/10 bg-white p-6 shadow-[0_6px_22px_rgba(18,63,54,0.045)] transition-all duration-300 hover:-translate-y-1 hover:border-saffron/30 hover:shadow-[0_14px_34px_rgba(18,63,54,0.09)]"
+    : "group relative overflow-hidden rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_16px_48px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_54px_rgba(15,23,42,0.10)]";
+  const sidebarPanelClass = city.slug === 'krabi'
+    ? "rounded-xl border border-jade/10 bg-white p-6 shadow-[0_6px_22px_rgba(18,63,54,0.045)]"
+    : "rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_14px_38px_rgba(15,23,42,0.06)]";
+  const exploreCardClass = city.slug === 'krabi'
+    ? "group relative h-full overflow-hidden rounded-xl border border-jade/10 bg-white p-6 shadow-[0_6px_22px_rgba(18,63,54,0.045)] transition-all duration-300 hover:-translate-y-1 hover:border-saffron/30 hover:shadow-[0_14px_34px_rgba(18,63,54,0.09)]"
+    : "group relative overflow-hidden rounded-[30px] border border-gray-100 bg-white p-6 shadow-[0_18px_44px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_24px_56px_rgba(15,23,42,0.10)]";
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, subId, placement);
   
-  // Load Trip.com widget on client side
-  useEffect(() => {
-    const script = document.createElement('script');
-    script.async = true;
-    script.src = 'https://tpembd.com/content?trs=384595&shmarker=602467&lang=www&layout=S10391&powered_by=true&campaign_id=121&promo_id=4038';
-    script.charset = 'utf-8';
-    
-    const widgetContainer = document.getElementById('trip-com-widget');
-    if (widgetContainer && widgetContainer.children.length === 0) {
-      widgetContainer.appendChild(script);
-    }
-    
-    // Cleanup
-    return () => {
-      if (widgetContainer && script.parentNode) {
-        widgetContainer.removeChild(script);
-      }
-    };
-  }, []);
-
   return (
     <>
       <SEOHead
@@ -346,9 +381,10 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "TouristDestination",
-              "name": locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en,
-              "description": locale === 'nl' ? (city.description.nl || city.overview || city.description.en) : (city.overview || city.description.en),
-              "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`,
+              "name": localizedCityName,
+              "description": destinationDescription,
+              "image": destinationImage,
+              "inLanguage": languageCode,
               "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": city.location.lat,
@@ -362,33 +398,26 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 "@type": "Audience",
                 "audienceType": tag
               })),
-              "url": `https://go2-thailand.com/city/${city.slug}/`,
+              "url": pageUrl,
               "hasMap": `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(city.name.en + ' Thailand')}`,
               ...(city.top_attractions && city.top_attractions.length > 0 ? {
-                "containsPlace": city.top_attractions.map((attraction: { name: string; description: string }) => ({
+                "includesAttraction": city.top_attractions.map((attraction: { name: string; description: string }) => ({
                   "@type": "TouristAttraction",
                   "name": attraction.name,
                   "description": attraction.description
-                }))
-              } : {}),
-              ...(city.top_hotels && city.top_hotels.length > 0 ? {
-                "amenityFeature": city.top_hotels.map((hotel: { name: string; category?: string; price_range?: string; area?: string }) => ({
-                  "@type": "LocationFeatureSpecification",
-                  "name": hotel.name,
-                  "value": `${hotel.category || 'hotel'} in ${hotel.area || city.name.en}${hotel.price_range ? ` - ${hotel.price_range}` : ''}`
                 }))
               } : {})
             })
           }}
         />
-        {city.faq && city.faq.length > 0 && (
+        {visibleFaq.length > 0 && (
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{
               __html: JSON.stringify({
                 "@context": "https://schema.org",
                 "@type": "FAQPage",
-                "mainEntity": city.faq.map((item: { question: string; answer: string }) => ({
+                "mainEntity": visibleFaq.map((item: { question: string; answer: string }) => ({
                   "@type": "Question",
                   "name": item.question,
                   "acceptedAnswer": {
@@ -405,12 +434,13 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "TravelGuide",
-              "name": locale === 'nl' ? `${city.name.nl || city.name.en} Reisgids` : `${city.name.en} Travel Guide`,
-              "description": locale === 'nl' ? (city.description.nl || city.overview || city.description.en) : (city.overview || city.description.en),
+              "@type": "WebPage",
+              "name": metadata.title,
+              "description": metadata.description,
+              "url": pageUrl,
               "about": {
-                "@type": "City",
-                "name": locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en,
+                "@type": "TouristDestination",
+                "name": localizedCityName,
                 "containedInPlace": {
                   "@type": "Country",
                   "name": "Thailand"
@@ -427,71 +457,112 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 "url": "https://go2-thailand.com"
               },
               ...(reviewedDate ? { "dateModified": city.enhanced_at } : {}),
-              "inLanguage": locale || 'en',
-              "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`
+              "inLanguage": languageCode,
+              "image": destinationImage
+            })
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": `https://go2-thailand.com${locale === 'nl' ? '/nl/' : '/'}`
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": locale === 'nl' ? "Bestemmingen" : "Destinations",
+                  "item": `https://go2-thailand.com${locale === 'nl' ? '/nl' : ''}/city/`
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": localizedCityName,
+                  "item": pageUrl
+                }
+              ]
             })
           }}
         />
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
-        {/* Hero Section */}
-        <section className="relative h-96 lg:h-[500px] overflow-hidden">
-          <div className="absolute inset-0">
-            <Image
-              src={getCityImageForSection(city, 'hero')}
-              alt={`${cityName}, Thailand`}
-              fill
-              className="object-cover"
-              priority
+        <CityDestinationHero
+          activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-hero-activities')}
+          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
+          cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
+          citySlug={city.slug}
+          description={introSnippet}
+          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : getCityImageForSection(city, 'hero')}
+          hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-hero-hotels')}
+          idealFor={city.slug === 'krabi' ? 'Ao Nang' : (city.tags || []).slice(0, 2).join(' & ')}
+          isNl={locale === 'nl'}
+          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
+        />
+
+
+        <CityEditorialIntro
+          cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
+          citySlug={city.slug}
+          editorial={editorial || cityDescription}
+          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : getCityImageForSection(city, 'attractions')}
+          isNl={locale === 'nl'}
+        />
+
+        {city.slug === 'krabi' && (
+          <>
+            <CityExperienceHighlights
+              affiliateHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-experiences')}
+              isNl={locale === 'nl'}
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent"></div>
-          </div>
-          
-          <div className="relative z-10 h-full flex items-end">
-            <div className="container-custom pb-12 text-white">
-              <div className="max-w-4xl">
-                <div className="flex items-center mb-4">
-                  <span className="bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-semibold mr-3">
-                    {city.region}
-                  </span>
-                  <span className="text-gray-200 text-sm">
-                    {city.province} Province
-                  </span>
-                </div>
-                <span className="font-script text-thailand-gold text-lg mb-2 block">{t("s002_travel_guide")}</span>
-                <h1 className="font-heading text-4xl lg:text-6xl font-bold mb-4">
-                  {cityName}
-                </h1>
-                <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
-                  {introSnippet}
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-
-        {/* Editorial Introduction */}
-        {editorial && (
-          <section className="bg-white border-b">
-            <div className="container-custom py-8">
-              <p className="text-lg text-gray-700 leading-relaxed max-w-4xl">
-                {editorial}
-              </p>
-            </div>
-          </section>
+            <CityPlaceHighlights isNl={locale === 'nl'} />
+            <CityAdventureBanner
+              affiliateHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-island-banner')}
+              isNl={locale === 'nl'}
+            />
+            <CityHotelHighlights
+              affiliateHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-hotels')}
+              isNl={locale === 'nl'}
+            />
+            <CityItineraryOverview
+              affiliateHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-itinerary-islands')}
+              isNl={locale === 'nl'}
+            />
+            <CityWeatherOverview isNl={locale === 'nl'} />
+            <CityPracticalCards isNl={locale === 'nl'} />
+            <CityFaqOverview faq={city.faq || []} isNl={locale === 'nl'} />
+            <CityBookingPlanner
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-planner-hotels')}
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-planner-activities')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-planner-transport')}
+              esimHref={trackAffiliate(SAILY_GENERIC, 'city-planner-esim')}
+              isNl={locale === 'nl'}
+            />
+            <CityCompleteGuide
+              city={city}
+              comparisons={comparisons || []}
+              transportLinks={transportLinks || []}
+              reviewedDate={reviewedDate}
+              isNl={locale === 'nl'}
+            />
+          </>
         )}
 
         {/* Content */}
-        <section className="bg-white">
-          <div className="container-custom py-8">
-            <Breadcrumbs items={breadcrumbs} />
-
+        {city.slug !== 'krabi' && (
+        <section className={city.slug === 'krabi' ? 'krabi-longform bg-[#fcfaf6]' : 'bg-white'}>
+          <div className={city.slug === 'krabi' ? 'container-custom py-0' : 'container-custom py-8'}>
             {/* Booking Hero CTA — contextual, referrer-aware */}
-            <BookingHeroCTA slug={city.slug} cityName={city.name.en} citySlug={city.slug} pageType="city" />
+            {city.slug !== 'krabi' && <BookingHeroCTA slug={city.slug} cityName={city.name.en} citySlug={city.slug} pageType="city" />}
 
-            <div className="mt-8">
+            <div className={city.slug === 'krabi' ? 'hidden' : 'mt-8'}>
               <TravelpayoutsRecoveryPanel
                 pageType="city"
                 placement="city-panel"
@@ -502,11 +573,12 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               />
             </div>
 
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
+            <div className={city.slug === 'krabi' ? 'grid grid-cols-1 gap-0 lg:grid-cols-3' : 'grid grid-cols-1 lg:grid-cols-3 gap-12'}>
               {/* Main Content */}
-              <div className="lg:col-span-2 order-last lg:order-first">
+              <div className={city.slug === 'krabi' ? 'krabi-main order-first lg:col-span-3' : 'lg:col-span-2 order-last lg:order-first'}>
                 {/* City Description */}
-                <div className="mb-12">
+                {city.slug !== 'krabi' && (
+                <div className={city.slug === 'krabi' ? 'hidden' : 'mb-12'}>
                   <div className="mb-6">
                     <span className="inline-flex items-center rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-slate-700">
                       Overview
@@ -550,6 +622,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     </div>
                   </div>
                 </div>
+                )}
 
                 {/* Hidden Gems */}
                 {city.hidden_gems && city.hidden_gems.length > 0 && (
@@ -912,7 +985,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       </div>
                     </Link>
                     <Link
-                      href={`/city/${city.slug}/top-10-attractions/`}
+                      href={locale === 'nl' ? `/city/${city.slug}/attractions/` : `/city/${city.slug}/top-10-attractions/`}
                       className="group rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 transition-all hover:-translate-y-1 hover:bg-white hover:shadow-md"
                     >
                       <div className="flex items-start gap-3">
@@ -969,7 +1042,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 </div>
 
                 {/* Travel Services Section */}
-                <div className="mb-12">
+                <div className={city.slug === 'krabi' ? 'hidden' : 'mb-12'}>
                   <div className="mb-6">
                     <span className="inline-flex items-center rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-slate-700">
                       Travel Smarter
@@ -1059,7 +1132,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 </div>
 
                 {/* 12Go Transport Widget */}
-                <div className="mb-12">
+                <div className={city.slug === 'krabi' ? 'hidden' : 'mb-12'}>
                   <div className="mb-6">
                     <span className="inline-flex items-center rounded-full bg-violet-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-violet-700">
                       Onward Travel
@@ -1090,7 +1163,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                 </div>
 
                 {/* Activities & Tours Section */}
-                <div className="mb-12">
+                <div className={city.slug === 'krabi' ? 'hidden' : 'mb-12'}>
                   <div className="mb-6">
                     <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">
                       Bookable Experiences
@@ -1891,8 +1964,9 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               </div>
 
               {/* Sidebar */}
-              <Sidebar mobilePosition="top">
+              <Sidebar mobilePosition={city.slug === 'krabi' ? 'bottom' : 'top'} className={city.slug === 'krabi' ? 'krabi-supporting-sidebar lg:!col-span-3' : ''}>
                 {/* Quick Facts */}
+                {city.slug !== 'krabi' && (
                 <div className={sidebarPanelClass}>
                   <div className="flex items-center gap-3 mb-5">
                     <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-thailand-blue text-white shadow-sm">
@@ -1931,9 +2005,10 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     </div>
                   </div>
                 </div>
+                )}
 
                 {/* Trip.com Search Widget */}
-                <div className="mb-8">
+                <div className={city.slug === 'krabi' ? 'hidden' : 'mb-8'}>
                   <TripcomWidget 
                     city={city.name.en} 
                     type="searchbox" 
@@ -2178,9 +2253,10 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
             </div>
           </div>
         </section>
+        )}
 
         {/* Feedback Form */}
-        <section className="section-padding">
+        <section className={city.slug === 'krabi' ? 'krabi-feedback bg-[#fcfaf6] py-14' : 'section-padding'}>
           <div className="container-custom max-w-3xl mx-auto">
             <FeedbackForm 
               pageTitle={`${city.name.en} Travel Guide`}
@@ -2191,7 +2267,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
         {/* Related Cities */}
         {relatedCities && relatedCities.length > 0 && (
-          <section className="section-padding bg-surface-cream">
+          <section className={city.slug === 'krabi' ? 'krabi-related section-divider-top bg-[#fcfaf6] py-14 lg:py-16' : 'section-padding bg-surface-cream'}>
             <div className="container-custom">
               <div className="text-center mb-8">
                 <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">

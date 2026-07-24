@@ -172,6 +172,9 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
           <link key="canonical" rel="canonical" href={`${SITE_URL}/compare/`} />
         </Head>
       )}
+      <Head>
+        <meta name="robots" content="noindex, follow" />
+      </Head>
 
       <div className="bg-surface-cream min-h-screen">
 

@@ -1,0 +1,774 @@
+{
+  "captured_at": "2026-07-23T20:35:15.693Z",
+  "locale": "nl",
+  "url": "https://thailandtravel.nl/hotels/phuket/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Sri Lanka",
+          "url": "http://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "http://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Favorieten 0",
+          "url": "https://thailandtravel.nl/mijn-reisplan/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/mijn-reisplan/",
+              "anchor_text": "Favorieten0"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Favorieten 0",
+          "url": "https://thailandtravel.nl/mijn-reisplan/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/mijn-reisplan/",
+              "anchor_text": "Favorieten0"
+            }
+          ]
+        },
+        {
+          "text": "Whatsapp: +31 (0)10 21 31 444",
+          "url": "https://wa.me/31102131444",
+          "urls": [
+            {
+              "url": "https://wa.me/31102131444",
+              "anchor_text": "Whatsapp:\n+31 (0)10 21 31 444"
+            }
+          ]
+        },
+        {
+          "text": "Overige bestemmingen",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "http://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "http://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Bali & Indonesië",
+          "url": "https://balitravel.nl/",
+          "urls": [
+            {
+              "url": "https://balitravel.nl/",
+              "anchor_text": "Bali & Indonesië"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka & Malediven",
+          "url": "https://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "https://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka & Malediven"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Over Thailand Travel",
+          "url": "https://thailandtravel.nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/over-ons/",
+              "anchor_text": "Over Thailand Travel"
+            }
+          ]
+        },
+        {
+          "text": "Ervaringen Thailand Travel",
+          "url": "https://thailandtravel.nl/ervaringen-thailand-travel/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/ervaringen-thailand-travel/",
+              "anchor_text": "Ervaringen Thailand Travel"
+            }
+          ]
+        },
+        {
+          "text": "Veelgestelde vragen",
+          "url": "https://thailandtravel.nl/veelgestelde-vragen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/veelgestelde-vragen/",
+              "anchor_text": "Veelgestelde vragen"
+            }
+          ]
+        },
+        {
+          "text": "© 2026 Thailand Travel",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Privacy policy",
+          "url": "https://thailandtravel.nl/privacy-policy/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/privacy-policy/",
+              "anchor_text": "Privacy policy"
+            }
+          ]
+        },
+        {
+          "text": "Copyright & disclaimer",
+          "url": "https://thailandtravel.nl/copyright-disclaimer/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/copyright-disclaimer/",
+              "anchor_text": "Copyright & disclaimer"
+            }
+          ]
+        },
+        {
+          "text": "Algemene voorwaarden",
+          "url": "https://thailandtravel.nl/algemene-voorwaarden/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/algemene-voorwaarden/",
+              "anchor_text": "Algemene voorwaarden"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "De beste hotels en resorts in Phuket",
+        "main_title": "Hotels in Phuket",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Phuket is het grootste eiland en één van de mooiste badplaatsen van Thailand. Aan de kristalheldere Andamanzee vindt u talloze mooie baaien en stranden, omringd door glooiende, groene heuvels. De bekendste is het levendige Patong Beach. Kamala, Karon en Kata zijn wat rustiger. In Phuket zijn ook veel watersport en excursie-mogelijkheden. Kortom, alle ingrediënten voor een heerlijke strandvakantie of om heerlijk een paar dagen tot rust te komen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hotels en resorts op Phuket van de hoogste kwaliteit",
+        "main_title": "Hotels in Phuket",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Thailand Travel heeft een ruim aanbod aan hotels en resorts in verschillende steden en aan diverse stranden van Phuket. Of u nu op zoek bent naar ultieme luxe of naar gewoon een degelijk en goed hotel, u vindt het bij ons. De hotels en resorts die u bij ons kunt boeken hebben tenminste drie sterren en hebben een uitstekende prijs-kwaliteitverhouding. U slaapt al in een comfortabel en verzorgd resort of hotel vanaf €31,- per persoon. Wij hebben ons aanbod voor u met zorg uitgekozen, zodat u verzekerd bent van een heerlijk verblijf op dit prachtige eiland.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hotels en resorts in Patong",
+        "main_title": "Hotels in Phuket",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Wij hebben in ons aanbod hotels en resorts in verschillende plaatsen en aan de mooiste stranden en baaien. Een deel van de hotels die u bij Thailand Travel boekt bevinden zich in het populaire en levendige Patong aan de westkust van Phuket. Het strand - Patong Beach - is er prachtig wit en het water helder blauw. In het centrum van Patong is veel te doen. U kunt heerlijk uit gaan in het rijke nachtleven, winkelen in een van de vele winkels en er zijn veel restaurants en bars. Perfect om overdag heerlijk te ontspannen en ‘s avonds er lekker op uit te gaan. Thailand Travel biedt verschillende hotels en resorts aan in Patong en aan Patong Beach.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Karon Beach hotels en resorts",
+        "main_title": "Hotels in Phuket",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Op een kleine tien kilometer ten noorden van Patong bevindt zich het plaatsje Karon. Karon is een wat rustigere plaats met eveneens een prachtig wit strand. In het centrum is genoeg te doen, u vindt er leuke restaurants, barretjes en uitgaansgelegenheden. Aan het strand kunt u heerlijk genieten van een zonvakantie of lekker een paar dagen bijkomen. Wilt u een avondje de echte drukte alsnog opzoeken? Dan bent u met een taxi of tuktuk in een klein kwartiertje in het centrum van Patong. Bij ons vindt u verschillende hotels voor een heerlijk verblijf in Karon.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Ultra luxe hotels op Phuket",
+        "main_title": "Hotels in Phuket",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Als u zich helemaal in de watten wilt laten leggen op Phuket, dan kunt u bij ons het Banyan Tree Phuket resort boeken. Dit is een exclusief vijfsterren resort waar u even helemaal tot rust kunt komen. Het resort biedt uitgebreide faciliteiten, een heerlijk zwembad, een privé zwembad, prachtig luxe kamers en is gelegen aan een privéstrand in Bang Tao Beach. Er is een schitterende tropische tuin aangelegd en u kunt lekker wellnessen in de prijswinnende luxe spa.",
+            "url": "https://thailandtravel.nl/hotels/phuket/banyan-tree-phuket/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/hotels/phuket/banyan-tree-phuket/",
+                "anchor_text": "Banyan Tree Phuket resort"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Zonnen, winkelen, uitgaan en sightseeën op Phuket",
+        "main_title": "Hotels in Phuket",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Op Phuket kunt u van alles beleven. Alle onze hotels en resorts bevinden zich aan of nabij stranden en we hebben zelfs een aantal met een privé strand. Zo bent u via Thailand Travel verzekerd van een heerlijke zonvakantie aan de mooiste stranden. De hotels en resorts van Thailand Travel bevinden zich ook allemaal in of in de buurt van steden. Zo kunt u het zonnen aan het strand afwisselen met uitstapjes naar bezienswaardigheden of het levendige nachtleven ontdekken.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Boek uw hotel in Phuket bij Thailand Travel",
+        "main_title": "Hotels in Phuket",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Via Thailand Travel boekt u gemakkelijk een hotel in Phuket tegen de scherpste prijs. Bekijk in ons aanbod de verschillende hotels die we aanbieden. Door te boeken via Thailand Travel weet u zeker dat u het beste hotel boekt, profiteert u van optimale zekerheid zodat u zorgeloos kunt genieten van uw vakantie in Thailand. Naast hotels is het ook mogelijk om een excursie in Phuket, een meerdaagse tour of een rondreis in Phuket te boeken via Thailand Travel.",
+            "url": "https://thailandtravel.nl/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/",
+                "anchor_text": "vakantie in Thailand"
+              },
+              {
+                "url": "https://thailandtravel.nl/excursies/phuket/",
+                "anchor_text": "excursie in Phuket"
+              },
+              {
+                "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/phuket/",
+                "anchor_text": "rondreis in Phuket"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Hotels in Phuket",
+        "main_title": "Hotels in Phuket",
+        "author": null,
+        "language": null,
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "+31102131444"
+      ],
+      "emails": null
+    }
+  }
+}

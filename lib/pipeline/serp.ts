@@ -12,10 +12,10 @@
 import * as brd from './brightdata-serp';
 import * as serp from './serpapi';
 
-const useBright = () => !!process.env.BRIGHTDATA_API_KEY;
+const isBrightDataEnabled = () => !!process.env.BRIGHTDATA_API_KEY;
 
 export async function getPeopleAlsoAsk(query: string, opts?: { hl?: string; gl?: string }): Promise<string[]> {
-  if (useBright()) return brd.getPeopleAlsoAsk(query, opts);
+  if (isBrightDataEnabled()) return brd.getPeopleAlsoAsk(query, opts);
   // SerpAPI flow — inline here because the old code did this ad-hoc in each script.
   const SERPAPI_KEY = process.env.SERPAPI_KEY;
   if (!SERPAPI_KEY) return [];
@@ -35,12 +35,12 @@ export async function getPeopleAlsoAsk(query: string, opts?: { hl?: string; gl?:
 }
 
 export async function getAutocompleteSuggestions(seed: string, opts?: { hl?: string; gl?: string }) {
-  if (useBright()) return brd.getAutocompleteSuggestions(seed, opts);
+  if (isBrightDataEnabled()) return brd.getAutocompleteSuggestions(seed, opts);
   return serp.getAutocompleteSuggestions(seed, opts);
 }
 
 export async function getGoogleNews(query: string, opts?: { hl?: string; gl?: string }) {
-  if (useBright()) return brd.getGoogleNews(query, opts);
+  if (isBrightDataEnabled()) return brd.getGoogleNews(query, opts);
   return serp.getGoogleNews(query, opts);
 }
 

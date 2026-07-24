@@ -8,12 +8,15 @@ import AffiliateBox from '../../components/AffiliateBox';
 import IntentInternalLinks, { IntentInternalLinkItem } from '../../components/IntentInternalLinks';
 import type { HotelsPage, ClusterHotel } from '../../lib/cluster-types';
 import { getAffiliates, CityAffiliates, TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
+import HotelGuideTemplate from '../../components/hotels/HotelGuideTemplate';
+import type { HotelGuideData } from '../../data/hotels/types';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
-  data: HotelsPage;
+  data: HotelsPage | null;
   affiliates: CityAffiliates | null;
   relatedLinks: IntentInternalLinkItem[];
+  redesignData: HotelGuideData | null;
 }
 
 const categoryConfig = {
@@ -147,8 +150,11 @@ function HotelCard({ hotel, citySlug, tripBaseUrl }: { hotel: ClusterHotel; city
 
 const categoryOrder: Array<'budget' | 'mid-range' | 'luxury'> = ['budget', 'mid-range', 'luxury'];
 
-export default function BestHotelsPage({ data, affiliates, relatedLinks }: Props) {
+export default function BestHotelsPage({ data, affiliates, relatedLinks, redesignData }: Props) {
   const { locale } = useRouter();
+  if (redesignData) return <HotelGuideTemplate data={redesignData} />;
+  if (!data) return null;
+
   const isNl = locale === 'nl';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -381,19 +387,24 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths, fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const { getHotelsPage } = await import('../../lib/clusters');
   const { getIntentInternalLinks } = await import('../../lib/intent-pages');
   const slug = params?.slug as string;
+  let redesignData: HotelGuideData | null = null;
+  if (locale === 'nl') {
+    const { getNlHotelGuide } = await import('../../data/hotels/nl');
+    redesignData = getNlHotelGuide(slug);
+  }
   const data = getHotelsPage(slug);
-  if (!data) return { notFound: true };
-  const relatedLinks = getIntentInternalLinks({
+  if (!data && !redesignData) return { notFound: true };
+  const relatedLinks = data ? getIntentInternalLinks({
     pageType: 'best-hotels',
     city: slug,
     cityName: data.cityName,
-  });
+  }) : [];
   return {
-    props: { data, affiliates: getAffiliates(slug), relatedLinks },
+    props: { data, affiliates: getAffiliates(slug), relatedLinks, redesignData },
     revalidate: 604800,
   };
 };

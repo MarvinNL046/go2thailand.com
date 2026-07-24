@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import unpairedRoutes from '../seo/inventory/unpaired-routes.json';
 
 const SITE_URL = 'https://go2-thailand.com';
 const CANONICAL_PATH_MAP: Record<string, string> = {
@@ -22,6 +23,7 @@ export default function Hreflang() {
   // Remove query string and hash from path
   const cleanPath = asPath.split('?')[0].split('#')[0];
   const seoPath = CANONICAL_PATH_MAP[cleanPath] || cleanPath;
+  const registryPath = seoPath === '/' || seoPath.endsWith('/') ? seoPath : `${seoPath}/`;
 
   // All pages use EN + NL only
   const isTransportRoute = seoPath.startsWith('/transport/') && seoPath !== '/transport/';
@@ -29,12 +31,25 @@ export default function Hreflang() {
   let activeLocales = locales;
   if (isTransportRoute) {
     activeLocales = locales?.filter(l => l === 'en');
+  } else if (unpairedRoutes.enOnly.includes(registryPath)) {
+    activeLocales = locales.filter(locale => locale === 'en');
+  } else if (unpairedRoutes.nlOnly.includes(registryPath)) {
+    activeLocales = locales.filter(locale => locale === 'nl');
   }
 
+  const canonicalLocale = unpairedRoutes.enOnly.includes(registryPath)
+    ? 'en'
+    : unpairedRoutes.nlOnly.includes(registryPath)
+      ? 'nl'
+      : currentLocale;
+
   const canonicalUrl =
-    currentLocale === 'en'
+    canonicalLocale === 'en'
       ? `${SITE_URL}${seoPath}`
-      : `${SITE_URL}/${currentLocale}${seoPath}`;
+      : `${SITE_URL}/${canonicalLocale}${seoPath}`;
+  const defaultUrl = unpairedRoutes.nlOnly.includes(registryPath)
+    ? `${SITE_URL}/nl${seoPath}`
+    : `${SITE_URL}${seoPath}`;
 
   return (
     <Head>
@@ -55,7 +70,7 @@ export default function Hreflang() {
         );
       })}
       {/* x-default points to the English (default) version */}
-      <link rel="alternate" hrefLang="x-default" href={`${SITE_URL}${seoPath}`} />
+      <link rel="alternate" hrefLang="x-default" href={defaultUrl} />
       {/* Canonical always points to current locale version */}
       <link key="canonical" rel="canonical" href={canonicalUrl} />
       {/* Open Graph defaults - page components provide their own image tags via SEOHead */}

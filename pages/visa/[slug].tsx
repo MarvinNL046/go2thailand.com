@@ -21,6 +21,14 @@ import { getAllVisas, getVisaBySlug, generateVisaBreadcrumbs } from '../../lib/v
 import ContentBridge from '../../components/ContentBridge';
 import InsuranceCTA from '../../components/InsuranceCTA';
 import { useSubId } from '../../lib/useSubId';
+import ThailandTdacGuide from '../../components/visa/ThailandTdacGuide';
+import ThailandDtvGuide from '../../components/visa/ThailandDtvGuide';
+import ThailandRetirementVisaGuide from '../../components/visa/ThailandRetirementVisaGuide';
+import ThailandTouristVisaGuide from '../../components/visa/ThailandTouristVisaGuide';
+import ThailandVisaExtensionGuide from '../../components/visa/ThailandVisaExtensionGuide';
+import ThailandEducationVisaGuide from '../../components/visa/ThailandEducationVisaGuide';
+import ThailandLtrVisaGuide from '../../components/visa/ThailandLtrVisaGuide';
+import ThailandPrivilegeGuide from '../../components/visa/ThailandPrivilegeGuide';
 
 interface Requirement {
   item: { en: string; nl: string };
@@ -74,6 +82,14 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
   const { locale } = useRouter();
   const subId = useSubId();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
+  if (locale === 'nl' && visa.slug === 'digital-arrival-card') return <ThailandTdacGuide />;
+  if (locale === 'nl' && visa.slug === 'digital-nomad-visa') return <ThailandDtvGuide />;
+  if (locale === 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuide />;
+  if (locale === 'nl' && visa.slug === 'tourist-visa') return <ThailandTouristVisaGuide />;
+  if (locale === 'nl' && visa.slug === 'visa-extension') return <ThailandVisaExtensionGuide />;
+  if (locale === 'nl' && visa.slug === 'education-visa') return <ThailandEducationVisaGuide />;
+  if (locale === 'nl' && visa.slug === 'ltr-visa') return <ThailandLtrVisaGuide />;
+  if (locale === 'nl' && visa.slug === 'thailand-elite-visa') return <ThailandPrivilegeGuide />;
   const breadcrumbs = generateVisaBreadcrumbs(visa);
   const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
 
@@ -515,8 +531,18 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
+
+  if (locale === 'nl' && slug === 'visa-free-entry') {
+    return {
+      redirect: {
+        destination: '/nl/visa/',
+        permanent: true,
+      },
+    };
+  }
+
   const visa = getVisaBySlug(slug);
 
   if (!visa) {

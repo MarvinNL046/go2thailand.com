@@ -3,6 +3,7 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import EmailCapture from '../components/EmailCapture';
+import FirstTimeThailandGuide from '../components/editorial/FirstTimeThailandGuide';
 
 const classicRoute = {
   en: [
@@ -84,6 +85,8 @@ function getFaqJsonLd(locale: string) {
 export default function ThailandForFirstTimers() {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) return <FirstTimeThailandGuide />;
 
   const route = isNl ? classicRoute.nl : classicRoute.en;
   const byg = isNl ? beforeYouGo.nl : beforeYouGo.en;

@@ -5,6 +5,9 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { useState } from 'react';
+import type { AmazonAffiliateSlug } from '../../lib/amazon-affiliates';
+import PackingGuideTemplate from '../../components/gear/PackingGuideTemplate';
+import { thailandPackingGuide } from '../../data/gear/nl/thailand-packing';
 
 interface GearItem {
   id: number;
@@ -14,7 +17,7 @@ interface GearItem {
   price: string;
   image: string;
   features: string[];
-  amazonLink: string;
+  amazonSlug: AmazonAffiliateSlug;
   rating: number;
   reviews: number;
   essential: boolean;
@@ -45,6 +48,8 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
   const filteredItems = selectedCategory === 'all'
     ? gearItems
     : gearItems.filter(item => item.category === selectedCategory);
+
+  if (isNl) return <PackingGuideTemplate data={thailandPackingGuide} />;
 
   return (
     <>
@@ -244,9 +249,9 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
 
                     {/* CTA Button */}
                     <a
-                      href={item.amazonLink}
+                      href={`/go/${item.amazonSlug}/`}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors"
                     >
                       {isNl ? 'Bekijk op Amazon \u2192' : 'View on Amazon \u2192'}
@@ -520,7 +525,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Water-resistant material",
         "USB charging port"
       ],
-      amazonLink: "https://www.amazon.com/dp/B0DQD8FVJB?tag=go2thailand-20",
+      amazonSlug: "airvault-vacuum-backpack",
       rating: 4.3,
       reviews: 250,
       essential: true
@@ -539,7 +544,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Digital display shows battery %",
         "Charges laptop, phone, tablet"
       ],
-      amazonLink: "https://www.amazon.com/dp/B0BJQ7F16T?tag=go2thailand-20",
+      amazonSlug: "ugreen-25000-power-bank",
       rating: 4.5,
       reviews: 3000,
       essential: true
@@ -558,7 +563,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "20W fast charging",
         "Charges phone 2+ times"
       ],
-      amazonLink: "https://www.amazon.com/dp/B0CX4992Z8?tag=go2thailand-20",
+      amazonSlug: "anker-powercore-10k",
       rating: 4.5,
       reviews: 1500,
       essential: true
@@ -577,7 +582,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Simultaneous 5-device charging",
         "Safety certified with fuse"
       ],
-      amazonLink: "https://www.amazon.com/dp/B0BHQNMDNC?tag=go2thailand-20",
+      amazonSlug: "momax-travel-adapter",
       rating: 4.6,
       reviews: 1200,
       essential: true
@@ -596,7 +601,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Moisture-wicking band",
         "Folds for packing"
       ],
-      amazonLink: "https://www.amazon.com/dp/B09WHGZ46G?tag=go2thailand-20",
+      amazonSlug: "sun-cube-wide-brim-hat",
       rating: 4.4,
       reviews: 2100,
       essential: false
@@ -615,7 +620,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Oil-free formula",
         "Fast-absorbing"
       ],
-      amazonLink: "https://www.amazon.com/dp/B00AEN4QZ8?tag=go2thailand-20",
+      amazonSlug: "neutrogena-beach-defense-spf70",
       rating: 4.3,
       reviews: 9800,
       essential: true
@@ -634,7 +639,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Safe for children",
         "Eco-friendly aluminum bottle"
       ],
-      amazonLink: "https://www.amazon.com/dp/B003FBPFJW?tag=go2thailand-20",
+      amazonSlug: "badger-anti-bug-spray",
       rating: 4.0,
       reviews: 1800,
       essential: true
@@ -653,7 +658,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Comes with carry bag",
         "Snap loop for hanging"
       ],
-      amazonLink: "https://www.amazon.com/dp/B01K1TX77W?tag=go2thailand-20",
+      amazonSlug: "rainleaf-travel-towel",
       rating: 4.3,
       reviews: 28000,
       essential: false
@@ -672,7 +677,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Water resistant coating",
         "Lifetime warranty"
       ],
-      amazonLink: "https://www.amazon.com/dp/B07PY3D9M7?tag=go2thailand-20",
+      amazonSlug: "venture-pal-packable-backpack",
       rating: 4.3,
       reviews: 24000,
       essential: false
@@ -691,7 +696,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Multiple colors",
         "Folds flat for packing"
       ],
-      amazonLink: "https://www.amazon.com/dp/B08SJ4JQWD?tag=go2thailand-20",
+      amazonSlug: "simari-water-shoes",
       rating: 4.2,
       reviews: 18000,
       essential: false
@@ -710,7 +715,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Roll-top closure system",
         "Includes shoulder strap"
       ],
-      amazonLink: "https://www.amazon.com/dp/B01GZCUCO0?tag=go2thailand-20",
+      amazonSlug: "earth-pak-dry-bag",
       rating: 4.4,
       reviews: 32000,
       essential: true
@@ -729,7 +734,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Anti-odor treatment",
         "Athletic fit design"
       ],
-      amazonLink: "https://www.amazon.com/dp/B0D266SMGD?tag=go2thailand-20",
+      amazonSlug: "hovsiyla-quick-dry-shirt",
       rating: 4.3,
       reviews: 5500,
       essential: false
@@ -748,7 +753,7 @@ export const getStaticProps: GetStaticProps = async () => {
         "Lightweight & packable",
         "Drawstring hood"
       ],
-      amazonLink: "https://www.amazon.com/dp/B076ZHMR3S?tag=go2thailand-20",
+      amazonSlug: "hagon-rain-ponchos",
       rating: 4.4,
       reviews: 3200,
       essential: true

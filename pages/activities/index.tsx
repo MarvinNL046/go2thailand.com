@@ -10,6 +10,7 @@ import { formatPrice } from '../../lib/price';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import AffiliateWidget from '../../components/AffiliateWidget';
 import SEOHead from '../../components/SEOHead';
+import ThailandExcursionsGuide from '../../components/activities/ThailandExcursionsGuide';
 
 interface CityEntry {
   slug: string;
@@ -56,6 +57,8 @@ export default function ActivitiesPage({ activities }: Props) {
   const loc = locale || 'en';
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+
+  if (isNl) return <ThailandExcursionsGuide />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

@@ -1,0 +1,712 @@
+{
+  "captured_at": "2026-07-23T21:57:43.550Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "go2-thailand.com/nl/city/bangkok/",
+  "cost": 0.024,
+  "rankings": [
+    {
+      "keyword": "bangkok",
+      "position": 105,
+      "volume": 33100,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/"
+    },
+    {
+      "keyword": "chiang mai",
+      "position": 108,
+      "volume": 14800,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    },
+    {
+      "keyword": "phuket",
+      "position": 99,
+      "volume": 14800,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    },
+    {
+      "keyword": "pattaya",
+      "position": 87,
+      "volume": 8100,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/pattaya/"
+    },
+    {
+      "keyword": "thailand #pattaya",
+      "position": 48,
+      "volume": 8100,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/things-to-do/pattaya/"
+    },
+    {
+      "keyword": "krabi",
+      "position": 52,
+      "volume": 6600,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/krabi/"
+    },
+    {
+      "keyword": "krabi province thailand",
+      "position": 56,
+      "volume": 6600,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/krabi/"
+    },
+    {
+      "keyword": "krabi thailand",
+      "position": 43,
+      "volume": 6600,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/krabi/"
+    },
+    {
+      "keyword": "mango sticky rice",
+      "position": 110,
+      "volume": 5400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/food/mango-sticky-rice/"
+    },
+    {
+      "keyword": "ayutthaya",
+      "position": 88,
+      "volume": 4400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/ayutthaya/"
+    },
+    {
+      "keyword": "pad kra pao",
+      "position": 98,
+      "volume": 4400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/food/pad-krapow/"
+    },
+    {
+      "keyword": "thailand ayutthaya",
+      "position": 24,
+      "volume": 4400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/ayutthaya/"
+    },
+    {
+      "keyword": "chiang mai thailand",
+      "position": 93,
+      "volume": 2900,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    },
+    {
+      "keyword": "thailand blogger",
+      "position": 40,
+      "volume": 2900,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/social/"
+    },
+    {
+      "keyword": "thailand chiang mai",
+      "position": 76,
+      "volume": 2900,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    },
+    {
+      "keyword": "hoofdstad van thailand",
+      "position": 87,
+      "volume": 2400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/ayutthaya/"
+    },
+    {
+      "keyword": "pai mae hong son",
+      "position": 66,
+      "volume": 2400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/compare/pai-vs-mae-hong-son/"
+    },
+    {
+      "keyword": "beste reistijd thailand",
+      "position": 74,
+      "volume": 1900,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "beste reistijd voor thailand",
+      "position": 73,
+      "volume": 1900,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "krabi tiger cave temple",
+      "position": 77,
+      "volume": 1900,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/krabi/attractions/tiger-cave-temple/"
+    },
+    {
+      "keyword": "bangkok thailand restaurant",
+      "position": 55,
+      "volume": 1600,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "restaurant bangkok thailand",
+      "position": 52,
+      "volume": 1600,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "green curry in thai",
+      "position": 53,
+      "volume": 1000,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/food/green-curry/"
+    },
+    {
+      "keyword": "paragon bangkok",
+      "position": 59,
+      "volume": 1000,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/city/bangkok/attractions/siam-paragon/"
+    },
+    {
+      "keyword": "paragon mall bangkok",
+      "position": 57,
+      "volume": 1000,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/city/bangkok/attractions/siam-paragon/"
+    },
+    {
+      "keyword": "siam paragon mall thailand",
+      "position": 55,
+      "volume": 1000,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/city/bangkok/attractions/siam-paragon/"
+    },
+    {
+      "keyword": "thai green curry",
+      "position": 73,
+      "volume": 1000,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/food/green-curry/"
+    },
+    {
+      "keyword": "thailand eilanden",
+      "position": 85,
+      "volume": 1000,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/islands/"
+    },
+    {
+      "keyword": "thailand phuket",
+      "position": 86,
+      "volume": 1000,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    },
+    {
+      "keyword": "chiang mai thailand elephant nature park",
+      "position": 48,
+      "volume": 720,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/chiang-mai-elephant-sanctuary/"
+    },
+    {
+      "keyword": "elephant nature park chiang mai",
+      "position": 49,
+      "volume": 720,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/chiang-mai-elephant-sanctuary/"
+    },
+    {
+      "keyword": "thailand ao nang",
+      "position": 66,
+      "volume": 720,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/krabi/"
+    },
+    {
+      "keyword": "thailand krabi ao nang",
+      "position": 57,
+      "volume": 720,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/krabi/"
+    },
+    {
+      "keyword": "elephant nature park",
+      "position": 45,
+      "volume": 590,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/chiang-mai-elephant-sanctuary/"
+    },
+    {
+      "keyword": "ko samet",
+      "position": 100,
+      "volume": 590,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/rayong/attractions/koh-samet/"
+    },
+    {
+      "keyword": "mandarin oriental bangkok",
+      "position": 57,
+      "volume": 590,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/"
+    },
+    {
+      "keyword": "mandarin oriental hotel bangkok",
+      "position": 59,
+      "volume": 590,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/"
+    },
+    {
+      "keyword": "thailand krabi",
+      "position": 50,
+      "volume": 590,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/krabi/"
+    },
+    {
+      "keyword": "chiang mai thailand elephant sanctuary",
+      "position": 68,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/chiang-mai-elephant-sanctuary/"
+    },
+    {
+      "keyword": "elephant sanctuary chiang mai",
+      "position": 68,
+      "volume": 480,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/chiang-mai-elephant-sanctuary/"
+    },
+    {
+      "keyword": "is thailand veilig",
+      "position": 70,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    },
+    {
+      "keyword": "koh samui lamai",
+      "position": 74,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/areas/koh-samui/lamai-beach/"
+    },
+    {
+      "keyword": "thailand beste reistijd",
+      "position": 74,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "thailand in oktober weer",
+      "position": 74,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "thailand koh samui lamai",
+      "position": 72,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/areas/koh-samui/lamai-beach/"
+    },
+    {
+      "keyword": "weer thailand december",
+      "position": 89,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "weer thailand januari",
+      "position": 67,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "weer thailand november",
+      "position": 52,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "weer thailand oktober",
+      "position": 82,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "elephant sanctuary",
+      "position": 72,
+      "volume": 390,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/chiang-mai-elephant-sanctuary/"
+    },
+    {
+      "keyword": "koh samui wat plai laem",
+      "position": 31,
+      "volume": 390,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/koh-samui/attractions/wat-plai-laem/"
+    },
+    {
+      "keyword": "krabi town",
+      "position": 42,
+      "volume": 390,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/krabi/"
+    },
+    {
+      "keyword": "night market phuket",
+      "position": 88,
+      "volume": 390,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/phuket/old-town/night-market/"
+    },
+    {
+      "keyword": "restaurant bangkok",
+      "position": 56,
+      "volume": 390,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "tonsai beach",
+      "position": 81,
+      "volume": 390,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/tonsai-bay-resort/"
+    },
+    {
+      "keyword": "weer thailand september",
+      "position": 69,
+      "volume": 390,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "beste tijd thailand",
+      "position": 84,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "beste tijd voor thailand",
+      "position": 98,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "korat thailand",
+      "position": 62,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/compare/nakhon-ratchasima-vs-bangkok/"
+    },
+    {
+      "keyword": "regenseizoen thailand wanneer",
+      "position": 87,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "thailand mei weer",
+      "position": 78,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "thailand veiligheid",
+      "position": 71,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    },
+    {
+      "keyword": "veiligheid thailand",
+      "position": 62,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    },
+    {
+      "keyword": "wanneer regenseizoen thailand",
+      "position": 76,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "andaman sea",
+      "position": 43,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/islands/"
+    },
+    {
+      "keyword": "bangkok top hotel",
+      "position": 63,
+      "volume": 260,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/best-hotels/bangkok/luxury/"
+    },
+    {
+      "keyword": "best hotels bangkok",
+      "position": 58,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/best-hotels/bangkok/"
+    },
+    {
+      "keyword": "best hotels bangkok thailand",
+      "position": 62,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/best-hotels/bangkok/luxury/"
+    },
+    {
+      "keyword": "best hotels in bangkok",
+      "position": 53,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/best-hotels/bangkok/luxury/"
+    },
+    {
+      "keyword": "chiang mai elephant sanctuary",
+      "position": 65,
+      "volume": 260,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/chiang-mai-elephant-sanctuary/"
+    },
+    {
+      "keyword": "fisherman village",
+      "position": 71,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/koh-samui/attractions/fishermans-village-bophut/"
+    },
+    {
+      "keyword": "kata beach phuket",
+      "position": 79,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/phuket/kata/"
+    },
+    {
+      "keyword": "phuket resort",
+      "position": 66,
+      "volume": 260,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/best-hotels/phuket/resorts/"
+    },
+    {
+      "keyword": "resorts in thailand phuket",
+      "position": 50,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/best-hotels/phuket/resorts/"
+    },
+    {
+      "keyword": "thailand best hotels bangkok",
+      "position": 62,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/best-hotels/bangkok/luxury/"
+    },
+    {
+      "keyword": "thailand phuket patong",
+      "position": 67,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/phuket/patong/"
+    },
+    {
+      "keyword": "thailand resort phuket",
+      "position": 68,
+      "volume": 260,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/best-hotels/phuket/resorts/"
+    },
+    {
+      "keyword": "the surin phuket",
+      "position": 67,
+      "volume": 260,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/phuket/surin/"
+    },
+    {
+      "keyword": "top hotel bangkok",
+      "position": 65,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/best-hotels/bangkok/luxury/"
+    },
+    {
+      "keyword": "wanneer is het regenseizoen in thailand",
+      "position": 74,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "wat te doen in krabi",
+      "position": 60,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/krabi/"
+    },
+    {
+      "keyword": "wat te doen krabi",
+      "position": 55,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/krabi/"
+    },
+    {
+      "keyword": "chiang mai restaurants",
+      "position": 47,
+      "volume": 210,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/chiang-mai/top-10-restaurants/"
+    },
+    {
+      "keyword": "chiang mai to pai",
+      "position": 64,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/transport/chiang-mai-to-pai/"
+    },
+    {
+      "keyword": "chiang rai blue temple",
+      "position": 76,
+      "volume": 210,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/city/chiang-rai/attractions/blue-temple/"
+    },
+    {
+      "keyword": "chiangmai",
+      "position": 96,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    },
+    {
+      "keyword": "duiken thailand",
+      "position": 70,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/best-diving-snorkeling-in-thailand/"
+    },
+    {
+      "keyword": "jodd fair night market",
+      "position": 25,
+      "volume": 210,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/blog/jodd-fairs-bangkok-night-market-guide/"
+    },
+    {
+      "keyword": "reisgids thailand",
+      "position": 62,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/thailand-travel-guide/"
+    },
+    {
+      "keyword": "reisgidsen thailand",
+      "position": 59,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/thailand-travel-guide/"
+    },
+    {
+      "keyword": "reistijd thailand",
+      "position": 87,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "restaurants in chiang mai",
+      "position": 47,
+      "volume": 210,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/chiang-mai/top-10-restaurants/"
+    },
+    {
+      "keyword": "restaurants in chiang mai thailand",
+      "position": 54,
+      "volume": 210,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/chiang-mai/top-10-restaurants/"
+    },
+    {
+      "keyword": "thailand beste seizoen",
+      "position": 91,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "thailand eiland",
+      "position": 87,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/islands/"
+    },
+    {
+      "keyword": "thailand hoogseizoen",
+      "position": 74,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "thailand steden",
+      "position": 61,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/best-places-to-visit-thailand/"
+    },
+    {
+      "keyword": "thailand weer april",
+      "position": 84,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "thailand weer maart",
+      "position": 76,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    },
+    {
+      "keyword": "weer thailand april",
+      "position": 83,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/weather/"
+    }
+  ]
+}

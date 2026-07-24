@@ -41,6 +41,7 @@ coverage/
 # Cache
 .cache/
 .temp/
+/tmp/
 
 # Optional npm cache directory
 .npm

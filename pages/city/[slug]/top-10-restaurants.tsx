@@ -475,6 +475,15 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   if (!city) return { notFound: true };
 
+  if (locale === 'nl') {
+    return {
+      redirect: {
+        destination: `/nl/city/${slug}/food/`,
+        permanent: true,
+      },
+    };
+  }
+
   // Try to load locale-specific top 10 restaurants data, fallback to English
   let restaurantsData = null;
   try {

@@ -6,6 +6,7 @@ import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import citiesData from '../../data/cities/index.json';
+import ThailandWeatherHub from '../../components/weather/ThailandWeatherHub';
 
 interface WeatherIndexProps {
   cities: Array<{
@@ -105,6 +106,9 @@ const weatherFaqs = {
 const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (locale === 'nl') return <ThailandWeatherHub />;
+
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, 'weather', placement);
 

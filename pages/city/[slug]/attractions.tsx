@@ -6,6 +6,9 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CitySupportSources from '../../../components/CitySupportSources';
+import { KrabiAttractionsGuide } from '../../../components/city/KrabiAttractionsGuide';
+import { AttractionsGuideTemplate } from '../../../components/city/AttractionsGuideTemplate';
+import { getNlAttractionsGuide } from '../../../data/attractions/nl';
 
 interface Attraction {
   id: number;
@@ -85,9 +88,18 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
     return <div>{isNl ? 'Stad niet gevonden' : 'City not found'}</div>;
   }
 
+  if (isNl && city.slug === 'krabi') {
+    return <KrabiAttractionsGuide ogImage={toAbsoluteImageUrl('/images/redesign/krabi-destination-hero.webp')} />;
+  }
+
+  const nlAttractionsGuide = isNl ? getNlAttractionsGuide(city.slug) : undefined;
+  if (nlAttractionsGuide) {
+    return <AttractionsGuideTemplate data={nlAttractionsGuide} />;
+  }
+
   const cityName = city.name[lang] || city.name.en;
   const breadcrumbs = generateBreadcrumbs(city, 'attractions');
-  const baseMetadata = generateCityMetadata(city, 'attractions');
+  const baseMetadata = generateCityMetadata(city, 'attractions', locale);
 
   // SEO-optimized title & description for attractions pages
   const metadata = {
@@ -572,7 +584,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     editorialPositioning: rawCity.editorialPositioning ?? null,
     sourceSummary: rawCity.sourceSummary ?? null,
   };
-  const attractions = getEnhancedAttractionsByCity(slug).map((attraction) => ({
+  const attractions = locale === 'nl' && slug === 'krabi' ? [] : getEnhancedAttractionsByCity(slug).map((attraction) => ({
     id: attraction.id,
     slug: attraction.slug,
     name: attraction.name,

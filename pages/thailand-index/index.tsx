@@ -590,7 +590,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                     ))}
                   </div>
                   <div className="mt-4">
-                    <Link href="/thailand-index/safety/" className="text-thailand-blue hover:underline font-medium">
+                    <Link href="/is-thailand-safe/" className="text-thailand-blue hover:underline font-medium">
                       {lang === 'en' ? 'Complete safety guide \u2192' : 'Volledige veiligheidsgids \u2192'}
                     </Link>
                   </div>
@@ -698,7 +698,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                   </Link>
                   {/* Safety Guide */}
                   <Link
-                    href="/thailand-index/safety/"
+                    href="/is-thailand-safe/"
                     className="group bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md hover:-translate-y-0.5 transition-all"
                   >
                     <div className="w-12 h-12 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center mb-4">

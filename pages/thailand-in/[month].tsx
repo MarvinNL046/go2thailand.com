@@ -173,7 +173,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 </Link>
               ) : <div />}
               
-              <Link href="/travel-guides/thailand-weather/" className="text-gray-600 hover:text-thailand-blue">
+              <Link href={isNl ? '/weather/' : '/travel-guides/thailand-weather/'} className="text-gray-600 hover:text-thailand-blue">
                 {isNl ? 'Alle Maanden' : 'View All Months'}
               </Link>
               
@@ -397,7 +397,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                       </div>
                     </Link>
                     <Link
-                      href="/thailand-index/best-time"
+                      href={isNl ? '/weather/' : '/thailand-index/best-time/'}
                       className="flex items-center gap-3 bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all group"
                     >
                       <span className="text-2xl">📅</span>

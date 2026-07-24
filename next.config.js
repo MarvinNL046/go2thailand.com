@@ -1,21 +1,20 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
-    // Houd zware statische assets uit de serverless-function-bundles.
-    // Een cron pin-generator tracede ~256MB public/images en overschreed de
-    // 250MB-functielimiet, waardoor élke productie-deploy faalde.
-    outputFileTracingExcludes: {
-      '*': [
-        'public/images/**',
-        'public/qrcodes/**',
-        'public/affiliate-qrcodes/**',
-        'public/pinterest/**',
-        'content/blog/**',
-      ],
-    },
+    optimizeCss: true,
+  },
+  // Houd zware statische assets uit de serverless-function-bundles. Een
+  // eerdere cron traceerde circa 256 MB en overschreed de functielimiet.
+  outputFileTracingExcludes: {
+    '*': [
+      'public/images/**',
+      'public/qrcodes/**',
+      'public/affiliate-qrcodes/**',
+      'public/pinterest/**',
+      'content/blog/**',
+    ],
   },
   reactStrictMode: true,
-  swcMinify: true,
   trailingSlash: true,
   i18n: {
     locales: ['en', 'nl'],
@@ -44,6 +43,158 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // The researched NL visa hub owns broad visa and entry-requirement
+      // intent. TDAC keeps one dedicated structured spoke; generated blog
+      // duplicates consolidate without changing any English route.
+      {
+        source: '/nl/blog/thailand-visa-voor-nederlanders-2026-wat-je-nodig-hebt/',
+        destination: '/nl/visa/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-visa-nederlanders-2026/',
+        destination: '/nl/visa/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-visa-nederlanders-2026-wat-je-nodig-hebt/',
+        destination: '/nl/visa/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-visa-guide-2026/',
+        destination: '/nl/visa/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-digital-arrival-card-tdac-guide/',
+        destination: '/nl/visa/digital-arrival-card/',
+        permanent: true,
+        locale: false,
+      },
+      // DTV requirements stay on the visa spoke. The broader nomad-city,
+      // cost and infrastructure intent belongs to the existing NL index.
+      {
+        source: '/nl/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/',
+        destination: '/nl/thailand-index/digital-nomad/',
+        permanent: true,
+        locale: false,
+      },
+      // Consolidate broad NL safety intent into the researched owner while
+      // retaining the dedicated scams guide as its supporting spoke.
+      {
+        source: '/nl/thailand-index/safety/',
+        destination: '/nl/is-thailand-safe/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/is-thailand-safe-tourists-2026/',
+        destination: '/nl/is-thailand-safe/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-travel-scams-2026/',
+        destination: '/nl/practical-info/scams-safety/',
+        permanent: true,
+        locale: false,
+      },
+      // The established NL weather URL owns the broad weather, climate,
+      // rainy-season and best-time intent. Preserve all English routes until
+      // their separate research phase.
+      {
+        source: '/nl/travel-guides/thailand-weather/',
+        destination: '/nl/weather/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/thailand-index/best-time/',
+        destination: '/nl/weather/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/best-time-to-visit/',
+        destination: '/nl/weather/',
+        permanent: true,
+        locale: false,
+      },
+      // NL itinerary intent is owned by the researched pillar. Keep EN
+      // untouched until the separate English research and redesign phase.
+      {
+        source: '/nl/itinerary/',
+        destination: '/nl/thailand-itinerary/',
+        permanent: true,
+        locale: false,
+      },
+      // Consolidate broad NL Thailand-cost intent into the researched,
+      // interactive budget owner. Duration-specific spokes stay separate.
+      {
+        source: '/nl/budget-travel/',
+        destination: '/nl/thailand-index/budget/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-budget-2026-daily-costs/',
+        destination: '/nl/thailand-index/budget/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-cheap-2026-travel-costs/',
+        destination: '/nl/thailand-index/budget/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-budget-vs-comfort-travel/',
+        destination: '/nl/thailand-index/budget/',
+        permanent: true,
+        locale: false,
+      },
+      // NL Krabi accommodation intent is consolidated into the researched
+      // area-first hotel guide. Keep EN untouched until its own DFS phase.
+      {
+        source: '/nl/where-to-stay/krabi/',
+        destination: '/nl/best-hotels/krabi/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/where-to-stay/phuket/',
+        destination: '/nl/best-hotels/phuket/',
+        permanent: true,
+        locale: false,
+      },
+      // The researched NL Phuket owner is the richer attractions guide.
+      // Keep the English ranking route untouched until the English DFS phase.
+      {
+        source: '/nl/city/phuket/top-10-attractions/',
+        destination: '/nl/city/phuket/attractions/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/bangkok/top-10-attractions/',
+        destination: '/nl/city/bangkok/attractions/',
+        permanent: true,
+        locale: false,
+      },
+      // Broad Koh Samet intent belongs to the island pillar, not to a Rayong
+      // attraction-detail duplicate. Preserve its existing ranking signal.
+      {
+        source: '/nl/city/rayong/attractions/koh-samet/',
+        destination: '/nl/islands/koh-samet/',
+        permanent: true,
+        locale: false,
+      },
       // Old URL patterns
       {
         source: '/cities/:slug*/',
@@ -129,10 +280,6 @@ const nextConfig = {
       { source: '/th/:path*', destination: '/:path*', permanent: true },
     ]
   },
-  // Optimize for Vercel deployment
-  experimental: {
-    optimizeCss: true,
-  }
 }
 
 module.exports = nextConfig

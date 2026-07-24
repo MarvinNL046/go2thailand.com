@@ -9,6 +9,8 @@ import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../../../
 import { useSubId } from '../../../../lib/useSubId';
 import cityWeatherData from '../../../../data/city-weather.json';
 import citiesData from '../../../../data/cities/index.json';
+import WeatherGuideTemplate from '../../../../components/weather/WeatherGuideTemplate';
+import { getNlWeatherGuide } from '../../../../data/weather/nl';
 
 interface CityWeatherIndexProps {
   city: any;
@@ -79,6 +81,11 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
   const cityName = city.name[lang] || city.name.en;
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, subId, placement);
+
+  const nlWeatherGuide = isNl ? getNlWeatherGuide(city.slug) : undefined;
+  if (nlWeatherGuide) {
+    return <WeatherGuideTemplate data={nlWeatherGuide} />;
+  }
 
   const breadcrumbs = [
     { name: isNl ? 'Home' : 'Home', href: '/' },
@@ -323,12 +330,28 @@ export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ pa
   const cityWeather = cityWeatherData as Record<string, any>;
   
   const city = citiesData.find(c => c.slug === slug);
-  if (!city || !cityWeather[slug]) {
+  const nlGuide = locale === 'nl' ? getNlWeatherGuide(slug) : undefined;
+  if (!city || (!cityWeather[slug] && !nlGuide)) {
     return { notFound: true };
   }
 
   // Handle both data structures - some cities have nested monthly_weather, others don't
   const cityData = cityWeather[slug];
+  if (!cityData && nlGuide) {
+    return {
+      props: {
+        city,
+        monthlyWeather: nlGuide.months.map(month => ({
+          month: month.slug,
+          monthName: month.name,
+          temperature: { high: month.meanHigh, low: month.meanLow },
+          rainfall: month.rainfall,
+          description: month.travelLabel,
+        })),
+      },
+      revalidate: 604800,
+    };
+  }
   const monthlyData = cityData.monthly_weather || cityData;
 
   const monthlyWeather = Object.entries(monthNamesEN).map(([monthSlug, monthName]) => {

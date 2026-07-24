@@ -493,5 +493,20 @@
       "Naga Temple & Big Buddha",
       "Loy Krathong Festival"
     ]
+  },
+  {
+    "id": 34,
+    "slug": "khao-sok",
+    "name": {
+      "en": "Khao Sok",
+      "nl": "Khao Sok"
+    },
+    "region": "Southern",
+    "province": "Surat Thani",
+    "image": "/images/redesign/khao-sok-destination-hero.webp",
+    "highlights": [
+      "Khao Sok National Park",
+      "Cheow Lan Lake"
+    ]
   }
 ]

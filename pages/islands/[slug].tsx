@@ -8,6 +8,8 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllIslands, getIslandBySlug, getRelatedIslands, generateIslandBreadcrumbs } from '../../lib/islands';
 import { getComparisonsForItem, getComparisonPair } from '../../lib/comparisons';
+import { DestinationGuideTemplate } from '../../components/city/DestinationGuideTemplate';
+import { getNlIslandGuide } from '../../data/islands/nl-guides';
 
 interface Beach {
   name: string;
@@ -175,6 +177,10 @@ function getBudgetContext(island: Island, lang: Lang) {
 export default function IslandPage({ island, relatedIslands, comparisons, relevantRoutes }: IslandPageProps) {
   const { locale } = useRouter();
   const lang: Lang = locale === 'nl' ? 'nl' : 'en';
+  const nlIslandGuide = lang === 'nl' ? getNlIslandGuide(island.slug) : undefined;
+  if (nlIslandGuide) {
+    return <DestinationGuideTemplate data={nlIslandGuide} />;
+  }
   const breadcrumbs = generateIslandBreadcrumbs(island);
   const sourceLinks = getSourceLinks(island.slug);
 

@@ -4,7 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { useMemo } from 'react';
-import type { ThailandIndex, BilingualText, IndexCity } from '../../lib/thailand-index';
+import type { ThailandIndex, BilingualText } from '../../lib/thailand-index';
 import {
   formatBudgetMedian,
   formatBudgetRange,
@@ -13,6 +13,7 @@ import {
   summarizeRegionBudgets,
 } from '../../lib/thailand-index-budget';
 import { RankingCard } from '../../components/index';
+import ThailandBudgetGuide from '../../components/budget/ThailandBudgetGuide';
 
 interface BudgetPageProps {
   data: ThailandIndex;
@@ -93,6 +94,8 @@ export default function BudgetPage({ data }: BudgetPageProps) {
       return aValue - bValue;
     });
   }, [data.cities, data.regions]);
+
+  if (locale === 'nl') return <ThailandBudgetGuide />;
 
   // FAQ schema
   const faqSchema = {

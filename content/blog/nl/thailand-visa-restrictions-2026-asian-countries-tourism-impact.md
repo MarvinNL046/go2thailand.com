@@ -31,7 +31,7 @@ In februari 2026 kondigde de Thaise overheid bijgewerkte visumregels aan, gerich
 - **Strengere handhaving** van de bestaande [60-daagse visumvrijstelling](/blog/thailand-visa-guide-2026/), waarbij immigratiebeambten kritischer kijken naar het reisdoel en de plannen
 - **Strakkere grenscontroles** bij landgrenzen en luchthavens
 - **Uitgebreide Visa on Arrival (VoA)** voor sommige nationaliteiten, maar met strengere documentvereisten
-- **Mogelijke verkorting** van de visumvrije verblijfsduur van 60 naar 30 dagen, wat nu wordt beoordeeld — zie onze [gids voor visumvrije toegang](/visa/visa-free-entry/) voor de laatste stand van zaken
+- **Mogelijke verkorting** van de visumvrije verblijfsduur van 60 naar 30 dagen, wat nu wordt beoordeeld — zie onze [actuele visumgids](/visa/) voor de laatste stand van zaken
 
 Volgens [Travel And Tour World](https://www.travelandtourworld.com/news/article/japan-joins-china-south-korea-malaysia-vietnam-uzbekistan-singapore-and-more-fifteen-countries-in-asia-as-thailands-new-visa-restrictions-spark-fear-of-a-tourism-crisis-in-2026/) leiden deze maatregelen tot vrees voor een toerismecrisis, vooral uit belangrijke Aziatische markten die een groot deel van de Thaise bezoekersaantallen uitmaken.
 

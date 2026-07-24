@@ -1,0 +1,54 @@
+{
+  "captured_at": "2026-07-24T03:02:21.513Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/is-thailand-safe/",
+  "cost": 0.01272,
+  "rankings": [
+    {
+      "keyword": "is thailand veilig",
+      "position": 70,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    },
+    {
+      "keyword": "thailand veiligheid",
+      "position": 71,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    },
+    {
+      "keyword": "veiligheid thailand",
+      "position": 62,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    },
+    {
+      "keyword": "reizen naar thailand veilig",
+      "position": 95,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    },
+    {
+      "keyword": "veilig reizen thailand",
+      "position": 93,
+      "volume": 110,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    },
+    {
+      "keyword": "reizen thailand veilig",
+      "position": 97,
+      "volume": 90,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/is-thailand-safe/"
+    }
+  ]
+}

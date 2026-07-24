@@ -1,0 +1,998 @@
+{
+  "summary": {
+    "captured_at": "2026-07-24T09:45:25.374Z",
+    "locale": "nl",
+    "market": {
+      "language_code": "nl",
+      "location_name": "Netherlands"
+    },
+    "keyword": "mandarin oriental bangkok",
+    "cost": 0.00215,
+    "organic": [
+      {
+        "position": 1,
+        "title": "Luxury 5-Star Hotel | Mandarin Oriental, Bangkok",
+        "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+        "domain": "www.mandarinoriental.com",
+        "description": "Mandarin Oriental, Bangkok is located at 48 Oriental Avenue, Bangkok 10500, Thailand, on the banks of the Chao Phraya River in the historic Bang Rak district."
+      },
+      {
+        "position": 2,
+        "title": "Mandarin Oriental, Bangkok",
+        "url": "https://www.booking.com/hotel/th/mandarin-oriental-bangkok.nl.html",
+        "domain": "www.booking.com",
+        "description": "Mandarin Oriental, Bangkok heeft een restaurant dat Chinese, Franse en Italiaanse gerechten serveert. Op aanvraag kun je er ook terecht voor vegatarische, ..."
+      },
+      {
+        "position": 4,
+        "title": "Hotel Mandarin Oriental, Bangkok, Thailand",
+        "url": "https://www.trivago.nl/nl/oar/hotel-mandarin-oriental-bangkok?search=100-15524",
+        "domain": "www.trivago.nl",
+        "description": "Dit hotel is een levendige plek voor gezinnen en luxereizigers die een mix zoeken van historische charme en modern comfort. Het heeft een uitzonderlijke ligging ..."
+      },
+      {
+        "position": 6,
+        "title": "Mandarin Oriental, Bangkok - Thailand",
+        "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d301411-Reviews-Mandarin_Oriental_Bangkok-Bangkok.html",
+        "domain": "www.tripadvisor.com",
+        "description": "Mandarin Oriental, Bangkok is lauded by many travelers for its exceptional service, which is often described as attentive and warm, though minor lapses are ..."
+      },
+      {
+        "position": 7,
+        "title": "Mandarin Oriental, Bangkok",
+        "url": "https://en.wikipedia.org/wiki/Mandarin_Oriental,_Bangkok",
+        "domain": "en.wikipedia.org",
+        "description": "Mandarin Oriental, Bangkok is a five-star hotel in Bangkok owned in part and managed by Mandarin Oriental Hotel Group. Located on the Chao Phraya River."
+      },
+      {
+        "position": 8,
+        "title": "Mandarin Oriental, Bangkok",
+        "url": "https://nl.hotels.com/ho109288/mandarin-oriental-bangkok-bangkok-thailand/",
+        "domain": "nl.hotels.com",
+        "description": "Mandarin Oriental, Bangkok ligt aan het water in Stadscentrum, een kleine 10 minuten lopen van BTS-station Saphan Taksin en 14 minuten loopafstand van Chao ..."
+      },
+      {
+        "position": 9,
+        "title": "Mandarin Oriental Bangkok",
+        "url": "https://www.agoda.com/mandarin-oriental-bangkok_12/hotel/bangkok-th.html",
+        "domain": "www.agoda.com",
+        "description": "Located in the heart of Bangkok Riverside, Mandarin Oriental Bangkok (SHA Extra Plus) is a luxurious hotel that offers a perfect blend of traditional Thai charm ..."
+      },
+      {
+        "position": 10,
+        "title": "Mandarin Oriental, Bangkok Hotel",
+        "url": "https://mandarin-oriental.bangkokshotels.com/nl/",
+        "domain": "mandarin-oriental.bangkokshotels.com",
+        "description": "Dit hotel ligt binnen handbereik van de State Tower en beschikt over 11 restaurants met Chinese keuken, veganistische keuken en Thaise keuken. Met uitzicht op ..."
+      }
+    ],
+    "peopleAlsoAsk": [
+      "Who owns the Mandarin Oriental in Bangkok?",
+      "Where do celebrities stay in Bangkok?",
+      "How much is a room in Mandarin Oriental, Bangkok?",
+      "How old is the Mandarin Oriental Bangkok?",
+      "Who is the manager of Mandarin Oriental, Bangkok?",
+      "Why did they destroy the Mandarin Oriental hotel?"
+    ],
+    "relatedSearches": [],
+    "features": [
+      "organic",
+      "people_also_ask",
+      "short_videos",
+      "related_searches",
+      "knowledge_graph",
+      "third_party_reviews",
+      "google_reviews"
+    ]
+  },
+  "raw": {
+    "keyword": "mandarin oriental bangkok",
+    "type": "organic",
+    "se_domain": "google.com",
+    "location_code": 2528,
+    "language_code": "nl",
+    "check_url": "https://www.google.com/search?q=mandarin%20oriental%20bangkok&hl=nl&gl=NL&ie=UTF-8&uule=w+CAIQIFISCbvkh9vDCcZHEZ8Kvf_OdaGz",
+    "datetime": "2026-07-24 09:45:26 +00:00",
+    "spell": null,
+    "refinement_chips": {
+      "type": "refinement_chips",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "items": [
+        {
+          "type": "refinement_chips_element",
+          "title": "Datums",
+          "url": null,
+          "domain": null,
+          "options": null
+        },
+        {
+          "type": "refinement_chips_element",
+          "title": "Gasten",
+          "url": null,
+          "domain": null,
+          "options": null
+        },
+        {
+          "type": "refinement_chips_element",
+          "title": "Gasten",
+          "url": null,
+          "domain": null,
+          "options": null
+        },
+        {
+          "type": "refinement_chips_element",
+          "title": "Bbq buffet",
+          "url": "https://www.google.com/search?sca_esv=7653edd048582144&hl=nl&gl=NL&q=Mandarin+oriental+bangkok+bbq+buffet&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raKSLYyw4dOLnaAouEoyC1Aum-gcJUep5YJA-9S5N1hKFd2ZLU2n_wjGqR_iR7z7y5fl2Cd58ZOkZ5fgkqScINBcnpjB8n-YvjbJPwnCiUCywVbEHNBrjsJrkVVdjTneLxoboN15WZHIBb1S4T1WYDgu2ZE59FJPdlnD-6F0LM7nX4Q40fivVdGCga1F5ZP-g16NU05OWMEMq3wVrsJWdOLrPfNIxvBpKKZ38shJtUMVAAgTn&sa=X&ved=2ahUKEwjcs73ag-uVAxU3KRAIHc3NKzUQxKsJKAJ6BAggEAE&ictx=0",
+          "domain": "www.google.com",
+          "options": null
+        },
+        {
+          "type": "refinement_chips_element",
+          "title": "Email address",
+          "url": "https://www.google.com/search?sca_esv=7653edd048582144&hl=nl&gl=NL&q=Mandarin+oriental+bangkok+email+address&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rLhEPINishL_VPPGBVMZi-NKHPV1mfZQPlHnvO5iNspql7T5YtsjiuCCaDxqOiA5TAHVS0JmOtuP5CgeISkaSrN0K_bDbcmpf9hu1juCiEPu_qO6GZlxyd_9ovBP-3C-_uupiIoKmFEboi6bQkfoVdcUqFNuwBQdgxIcnGKDuRAkRP_2ZMrgiotbfcvPZsWodUzJkvjDFRS_Yctq3e7yjYjBWH6JuzdfScFWdLitcUhfsJLFK&sa=X&ved=2ahUKEwjcs73ag-uVAxU3KRAIHc3NKzUQxKsJKAN6BAgfEAE&ictx=0",
+          "domain": "www.google.com",
+          "options": null
+        },
+        {
+          "type": "refinement_chips_element",
+          "title": "Gallery",
+          "url": "https://www.google.com/search?sca_esv=7653edd048582144&hl=nl&gl=NL&q=Mandarin+oriental+bangkok+gallery&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNhqn_Wuw92pQLndXQtd3Nj32Scdw6BNXwEVjJ3_6QI58ouoA0hFL8abMMqbuxByh0aoOugE4nEfF7Sl8UO1obxZIoQY3Pf5O1oO8vqkqpr06kEmiRuznhLGMKPeQLnMl1e7BHKhCRTwAeuJXYjpwphJr83CSQLvtGJRjK3Y3vE-829I3rGBFog5--Tlh3seLDvfsVKzMqQRkWnCIlDkiD4mRVGc&sa=X&ved=2ahUKEwjcs73ag-uVAxU3KRAIHc3NKzUQxKsJKAR6BAgeEAE&ictx=0",
+          "domain": "www.google.com",
+          "options": null
+        },
+        {
+          "type": "refinement_chips_element",
+          "title": "Menu",
+          "url": "https://www.google.com/search?sca_esv=7653edd048582144&hl=nl&gl=NL&q=Mandarin+oriental+bangkok+menu&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryfuH3jDSg32wgoQPn_iTDHb7mfOPCZl2OZRzIaULkl3Kf1FjKYnUfDQ4gi7jRVyeFNbdMeIYY-t1vBR98vJ-LOf6LgmuUK6sy2MBKPecwDtZ96SGb2OU90OFMINdZvJIr6M-hDg0BfCs9aTZ7luCLMUOROOjIjyBFvC77PE09sjfWqPo9MVwb8cKeDqFkZrrtyWyapYJkamhiv_oPU4Eouapk3g&sa=X&ved=2ahUKEwjcs73ag-uVAxU3KRAIHc3NKzUQxKsJKAV6BQiwARAB&ictx=0",
+          "domain": "www.google.com",
+          "options": null
+        },
+        {
+          "type": "refinement_chips_element",
+          "title": "Restaurant",
+          "url": "https://www.google.com/search?sca_esv=7653edd048582144&hl=nl&gl=NL&q=Mandarin+oriental+bangkok+restaurant&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raKSLYyw4dOLnaAouEoyC1Aum-gcJUep5YJA-9S5N1hKFd2ZLU2n_wjGqR_iR7z7ymvwDIfolA0FkDStAv9mDI9O7EIfOE13MpvH1VDIyzjq6tVWKgqGS5TCPKIdQ348gu2D5UOrXl7HkDSwj-GVWHGA43YYswXZTl40qbIFo00MzRNmPT7bdaqr6gBx8duFhGFkIqbGOEjQeRp4FbyVyHz7aZMA5OBoJ0ObD5h7hPI9xVDcS&sa=X&ved=2ahUKEwjcs73ag-uVAxU3KRAIHc3NKzUQxKsJKAZ6BQiqARAB&ictx=0",
+          "domain": "www.google.com",
+          "options": null
+        }
+      ]
+    },
+    "item_types": [
+      "organic",
+      "people_also_ask",
+      "short_videos",
+      "related_searches",
+      "third_party_reviews",
+      "google_reviews",
+      "knowledge_graph"
+    ],
+    "se_results_count": 101,
+    "pages_count": 1,
+    "items_count": 15,
+    "items": [
+      {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.mandarinoriental.com",
+        "title": "Luxury 5-Star Hotel | Mandarin Oriental, Bangkok",
+        "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.mandarinoriental.com › ...",
+        "website_name": "Mandarin Oriental",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Mandarin Oriental, Bangkok is located at 48 Oriental Avenue, Bangkok 10500, Thailand, on the banks of the Chao Phraya River in the historic Bang Rak district.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Mandarin Oriental",
+          "Bangkok"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Offers",
+            "description": "Explore luxury hotel offers in Bangkok, from suite stays to ...",
+            "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/offers",
+            "domain": "www.mandarinoriental.com"
+          },
+          {
+            "type": "link_element",
+            "title": "Dine",
+            "description": "Fine dining at Mandarin Oriental, Bangkok. Enjoy riverside Thai ...",
+            "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/dine",
+            "domain": "www.mandarinoriental.com"
+          },
+          {
+            "type": "link_element",
+            "title": "Stay",
+            "description": "Discover luxury rooms and suites on the Chao Phraya River with ...",
+            "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/stay",
+            "domain": "www.mandarinoriental.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.booking.com",
+        "title": "Mandarin Oriental, Bangkok",
+        "url": "https://www.booking.com/hotel/th/mandarin-oriental-bangkok.nl.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.booking.com › ... › Hotels in Bang Rak",
+        "website_name": "Booking.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Mandarin Oriental, Bangkok heeft een restaurant dat Chinese, Franse en Italiaanse gerechten serveert. Op aanvraag kun je er ook terecht voor vegatarische, ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Mandarin Oriental, Bangkok"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "items": [
+          {
+            "type": "people_also_ask_element",
+            "title": "Who owns the Mandarin Oriental in Bangkok?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://en.wikipedia.org/wiki/Mandarin_Oriental,_Bangkok",
+                "domain": "en.wikipedia.org",
+                "title": "Mandarin Oriental, Bangkok - Wikipedia",
+                "description": "Mandarin Oriental, Bangkok is a five-star hotel in Bangkok owned in part and managed by Mandarin Oriental Hotel Group.",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Where do celebrities stay in Bangkok?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "How much is a room in Mandarin Oriental, Bangkok?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "How old is the Mandarin Oriental Bangkok?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/150-anniversary/chapter-1",
+                "domain": "www.mandarinoriental.com",
+                "title": "Unveiling Our Origins | Mandarin Oriental, Bangkok",
+                "description": "Since 1876, travellers have journeyed along the River of Kings to the legendary Mandarin Oriental, Bangkok. A haven of calm on its banks, the hotel has long been a truly remarkable place, knowing Bangkok as intimately as it knows its guests.",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Who is the manager of Mandarin Oriental, Bangkok?",
+            "seed_question": "Who owns the Mandarin Oriental in Bangkok?",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://photos.mandarinoriental.com/is/content/MandarinOriental/corporate-bangkok-6PK-general-manager-bio",
+                "domain": "photos.mandarinoriental.com",
+                "title": "information - Mandarin Oriental",
+                "description": "ANTHONY TYLER, GENERAL MANAGER OF MANDARIN ORIENTAL, BANGKOK\n Mr.",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Why did they destroy the Mandarin Oriental hotel?",
+            "seed_question": "Who owns the Mandarin Oriental in Bangkok?",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[8]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://www.bbc.com/news/videos/cdrm2m15786o",
+                "domain": "www.bbc.com",
+                "title": "Controlled demolition brings down luxury Miami hotel in seconds - BBC",
+                "description": "A hotel at one of Miami's most exclusive locations was demolished to make way for something even bigger. Demolition experts conducted the controlled implosion of the former Mandarin Oriental, Miami on Brickell Key, on 12 April. The human-made island is at the mouth of the Miami River, across from downtown.",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.trivago.nl",
+        "title": "Hotel Mandarin Oriental, Bangkok, Thailand",
+        "url": "https://www.trivago.nl/nl/oar/hotel-mandarin-oriental-bangkok?search=100-15524",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.trivago.nl › ... › Centrale Regio › Bangkok",
+        "website_name": "trivago",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Dit hotel is een levendige plek voor gezinnen en luxereizigers die een mix zoeken van historische charme en modern comfort. Het heeft een uitzonderlijke ligging ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "hotel"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "short_videos",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[14]",
+        "title": "Korte video's",
+        "items": [
+          {
+            "type": "short_videos_element",
+            "title": "Thailand's first luxury hotel and still its finest – Mandarin ...",
+            "url": "https://www.facebook.com/luxuryescapes/videos/thailands-first-luxury-hotel-and-still-its-finest-mandarin-oriental-bangkok-has-/1789041228507334/",
+            "domain": "www.facebook.com",
+            "source": "Luxury Escapes"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "One of the most iconic hotels in Thailand and a true legend on ...",
+            "url": "https://www.facebook.com/luxtidpro/videos/there-are-luxury-hotels-and-then-there-is-mandarin-oriental-bangkok-timeless-ele/1479042370102187/",
+            "domain": "www.facebook.com",
+            "source": "Lux Tid Pro - เที่ยวให้ถูก กินให้คุ้ม"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "Thailand's first luxury hotel and still its finest – Mandarin ...",
+            "url": "https://www.instagram.com/reel/DY_ZKdMhZjB/",
+            "domain": "www.instagram.com",
+            "source": "Luxury Escapes"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "For 150 years, Mandarin Oriental, Bangkok has stood as a ...",
+            "url": "https://www.facebook.com/61557144261298/videos/for-150-years-mandarin-oriental-bangkok-has-stood-as-a-sanctuary-on-the-banks-of/759941780493820/",
+            "domain": "www.facebook.com",
+            "source": "TAT New Delhi"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "Mandarin Oriental Bangkok, One Of The World's Most Iconic ...",
+            "url": "https://www.instagram.com/reel/DVEE87WDDsF/",
+            "domain": "www.instagram.com",
+            "source": "Thys Smits | Travel & Hotel Content Creator"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "Now I see why people say The Mandarin Oriental in Bangkok ...",
+            "url": "https://www.instagram.com/reel/DWWcrudE67x/",
+            "domain": "www.instagram.com",
+            "source": "Jonathan Vega"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "A legacy that has unfolded over 150 years, an essential part of ...",
+            "url": "https://www.facebook.com/MandarinOrientalBangkok/posts/a-legacy-that-has-unfolded-over-150-years-an-essential-part-of-our-dual-asian-ro/1338235295010858/",
+            "domain": "www.facebook.com",
+            "source": "Mandarin Oriental, Bangkok"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "Mandarin Oriental | Bangkok, Thailand | Hotel Peek",
+            "url": "https://www.youtube.com/shorts/7AV0GNvkrss",
+            "domain": "www.youtube.com",
+            "source": "North Star Destinations"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "Enjoy the perfect night view of Bangkok with @sunny_rung at ...",
+            "url": "https://www.instagram.com/reel/DYuw2NeMHWw/",
+            "domain": "www.instagram.com",
+            "source": "Thailand 🇹🇭 Travel | Hotels | Food | Tips"
+          },
+          {
+            "type": "short_videos_element",
+            "title": "MANDARIN ORIENTAL BANGKOK - the iconic luxury property ...",
+            "url": "https://www.instagram.com/reel/DXKM8Ilku0M/",
+            "domain": "www.instagram.com",
+            "source": "Oliver N. Petcu"
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.tripadvisor.com",
+        "title": "Mandarin Oriental, Bangkok - Thailand",
+        "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d301411-Reviews-Mandarin_Oriental_Bangkok-Bangkok.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.tripadvisor.com › H...",
+        "website_name": "Tripadvisor",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Mandarin Oriental, Bangkok is lauded by many travelers for its exceptional service, which is often described as attentive and warm, though minor lapses are ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Mandarin Oriental, Bangkok"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "en.wikipedia.org",
+        "title": "Mandarin Oriental, Bangkok",
+        "url": "https://en.wikipedia.org/wiki/Mandarin_Oriental,_Bangkok",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://en.wikipedia.org › wiki",
+        "website_name": "Wikipedia",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Mandarin Oriental, Bangkok is a five-star hotel in Bangkok owned in part and managed by Mandarin Oriental Hotel Group. Located on the Chao Phraya River.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "five-star hotel in Bangkok"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "nl.hotels.com",
+        "title": "Mandarin Oriental, Bangkok",
+        "url": "https://nl.hotels.com/ho109288/mandarin-oriental-bangkok-bangkok-thailand/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://nl.hotels.com › ... › Bangkok › Hotels in Bangkok",
+        "website_name": "Hotels.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Mandarin Oriental, Bangkok ligt aan het water in Stadscentrum, een kleine 10 minuten lopen van BTS-station Saphan Taksin en 14 minuten loopafstand van Chao ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Mandarin Oriental, Bangkok"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.agoda.com",
+        "title": "Mandarin Oriental Bangkok",
+        "url": "https://www.agoda.com/mandarin-oriental-bangkok_12/hotel/bangkok-th.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.agoda.com › hotel",
+        "website_name": "Agoda.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Located in the heart of Bangkok Riverside, Mandarin Oriental Bangkok (SHA Extra Plus) is a luxurious hotel that offers a perfect blend of traditional Thai charm ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Located in the heart of Bangkok Riverside"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "mandarin-oriental.bangkokshotels.com",
+        "title": "Mandarin Oriental, Bangkok Hotel",
+        "url": "https://mandarin-oriental.bangkokshotels.com/nl/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://mandarin-oriental.bangkokshotels.com › ... › Hotels",
+        "website_name": "bangkokshotels.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Dit hotel ligt binnen handbereik van de State Tower en beschikt over 11 restaurants met Chinese keuken, veganistische keuken en Thaise keuken. Met uitzicht op ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "hotel"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+          "Mandarin oriental bangkok bbq buffet",
+          "Mandarin oriental bangkok email address",
+          "Mandarin oriental bangkok gallery",
+          "Mandarin oriental bangkok restaurant",
+          "Mandarin oriental bangkok menu",
+          "Oriental Hotel Bangkok",
+          "Mandarin hotel",
+          "Mandarin hotel group"
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "knowledge_graph",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "right",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]",
+        "title": "Mandarin Oriental Bangkok",
+        "subtitle": "5-sterrenhotel",
+        "description": null,
+        "card_id": null,
+        "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river?src=loc.yext.mobkk.ggl",
+        "image_url": null,
+        "logo_url": null,
+        "cid": "842962800430664421",
+        "items": [
+          {
+            "type": "knowledge_graph_images_item",
+            "rank_group": 0,
+            "rank_absolute": 0,
+            "page": 1,
+            "position": "left",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+            "link": null,
+            "items": [
+              {
+                "type": "knowledge_graph_images_element",
+                "url": null,
+                "domain": null,
+                "alt": null,
+                "image_url": "https://api.dataforseo.com/cdn/i/07241245-1672-0139-0000-f66ebc6b6b16:0",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+              },
+              {
+                "type": "knowledge_graph_images_element",
+                "url": null,
+                "domain": null,
+                "alt": "Kaart van Mandarin Oriental",
+                "image_url": "https://api.dataforseo.com/cdn/i/07241245-1672-0139-0000-f66ebc6b6b16:1",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+              },
+              {
+                "type": "knowledge_graph_images_element",
+                "url": "https://www.google.com/local/place/fid/0x30e298c4c9a7a0b3:0xbb2ce336689cae5/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3Dy5CJ685oqob_EH734ljT0Q%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D278.72305%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFnk1Q0o2ODVvcW9iX0VINzM0bGpUMFE%3D&sa=X&ved=2ahUKEwjcs73ag-uVAxU3KRAIHc3NKzUQpx96BAgVEBA",
+                "domain": "www.google.com",
+                "alt": null,
+                "image_url": "https://api.dataforseo.com/cdn/i/07241245-1672-0139-0000-f66ebc6b6b16:2",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]"
+              }
+            ],
+            "rectangle": null
+          },
+          {
+            "type": "knowledge_graph_row_item",
+            "rank_group": 0,
+            "rank_absolute": 0,
+            "page": 1,
+            "position": "left",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "title": "Adres",
+            "data_attrid": "kc:/location/location:address",
+            "text": "48 Oriental Ave, Khwaeng Bang Rak, Bang Rak, Bangkok 10500, Thailand",
+            "links": [
+              {
+                "type": "link_element",
+                "title": "Adres",
+                "url": "https://www.google.com/search?sca_esv=7653edd048582144&hl=nl&gl=NL&q=mandarin+oriental+bangkok+adres&ludocid=842962800430664421&sa=X&ved=2ahUKEwjcs73ag-uVAxU3KRAIHc3NKzUQ6BN6BAgwEAI",
+                "domain": "www.google.com",
+                "description": null,
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]/a[1]"
+              },
+              {
+                "type": "link_element",
+                "title": "48 Oriental Ave, Khwaeng Bang Rak, Bang Rak, Bangkok 10500, Thailand",
+                "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x30e298c4c9a7a0b3:0xbb2ce336689cae5?sa=X&ved=1t:8290&hl=nl&gl=NL&ictx=111",
+                "domain": "www.google.com",
+                "description": null,
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]"
+              }
+            ],
+            "rectangle": null
+          },
+          {
+            "type": "knowledge_graph_row_item",
+            "rank_group": 0,
+            "rank_absolute": 0,
+            "page": 1,
+            "position": "left",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+            "title": "Telefoon",
+            "data_attrid": "kc:/local:alt phone",
+            "text": "Telefoon : +66 2 659 9000",
+            "links": [
+              {
+                "type": "link_element",
+                "title": "+66 2 659 9000",
+                "url": "https://www.google.com/#",
+                "domain": "www.google.com",
+                "description": null,
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+              }
+            ],
+            "rectangle": null
+          },
+          {
+            "type": "knowledge_graph_hotels_booking_item",
+            "rank_group": 0,
+            "rank_absolute": 0,
+            "page": 1,
+            "position": "left",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+            "title": "Prijzen vergelijken",
+            "date_from": null,
+            "date_to": null,
+            "data_attrid": "kc:/local:hotel booking",
+            "items": [
+              {
+                "type": "knowledge_graph_hotels_booking_element",
+                "source": "trivago.nl",
+                "description": null,
+                "url": "https://www.google.com/aclk?sa%3Dl%26ai%3DDChsSEwjGvsTag-uVAxUQUpEFHXuMFM4YACICCAEQBBoCbHI%26co%3D1%26ase%3D2%26gclid%3DEAIaIQobChMIxr7E2oPrlQMVEFKRBR17jBTOEAoYASABEgJB8_D_BwE%26category%3Dacrcp_v1_48%26sig%3DAOD64_1pgJIaJgn9F_NUEs2J0Pnf2tt0Qg%26adurl%26nis%3D4",
+                "domain": "www.google.com",
+                "price": {
+                  "current": 442,
+                  "regular": null,
+                  "max_value": null,
+                  "currency": "EUR",
+                  "is_price_range": false,
+                  "displayed_price": "€ 442"
+                },
+                "is_paid": true
+              },
+              {
+                "type": "knowledge_graph_hotels_booking_element",
+                "source": "Booking.com",
+                "description": null,
+                "url": "https://www.google.com/aclk?sa%3Dl%26ai%3DDChsSEwjGvsTag-uVAxUQUpEFHXuMFM4YACICCAEQAxoCbHI%26co%3D1%26ase%3D2%26gclid%3DEAIaIQobChMIxr7E2oPrlQMVEFKRBR17jBTOEAoYAiABEgKX-PD_BwE%26category%3Dacrcp_v1_48%26sig%3DAOD64_34aCY3hrU0GJIkUQX9xkri01HeQQ%26adurl%26nis%3D4",
+                "domain": "www.google.com",
+                "price": {
+                  "current": 443,
+                  "regular": null,
+                  "max_value": null,
+                  "currency": "EUR",
+                  "is_price_range": false,
+                  "displayed_price": "€ 443"
+                },
+                "is_paid": true
+              },
+              {
+                "type": "knowledge_graph_hotels_booking_element",
+                "source": "Mandarinoriental.com",
+                "description": null,
+                "url": "https://www.google.com/aclk?sa%3Dl%26ai%3DDChsSEwjGvsTag-uVAxUQUpEFHXuMFM4YACICCAEQBRoCbHI%26co%3D1%26ase%3D2%26gclid%3DEAIaIQobChMIxr7E2oPrlQMVEFKRBR17jBTOEAoYAyABEgJxuPD_BwE%26category%3Dacrcp_v1_48%26sig%3DAOD64_3yunsD6PeJpEBSVJ3gwN_3LS1Wrw%26adurl%26nis%3D4",
+                "domain": "www.google.com",
+                "price": {
+                  "current": 443,
+                  "regular": null,
+                  "max_value": null,
+                  "currency": "EUR",
+                  "is_price_range": false,
+                  "displayed_price": "€ 443"
+                },
+                "is_paid": true
+              },
+              {
+                "type": "knowledge_graph_hotels_booking_element",
+                "source": "Mandarinoriental.com",
+                "description": null,
+                "url": "https://linkcenterus.derbysoftca.com/dplatform-linkcenter/booking.htm?hotelCode%3DMANDARINORIENTAL-510%26providerHotelCode%3DMANDARINORIENTAL-510%26checkInDate%3D2026-08-27%26checkOutDate%3D2026-08-28%26identifier%3Ddh-google%26price%3D17007.65%26roomTypeCode%3DRO3K%26ratePlanCode%3D20PLA6%26currency%3DTHB%26userCurrency%3DEUR%26language%3Dnl%26userCountry%3DNL%26testClick%3Dfalse%26sitetype%3Dlocaluniversal%26deviceType%3Ddesktop%26priceDisplayedTax%3D66.64%26priceDisplayedTotal%3D443.13%26partnerId%3Dderby-mandarinoriental%26campaignid%3D%26userlistid%3D%26ifDefaultDate%3Ddefault%26isPromoted%3Dfalse%26s_is_ad%3Dfalse%26adults%3D2%26children%3D0%26clk_src%3D%26is_ds_account%3Dtrue",
+                "domain": "linkcenterus.derbysoftca.com",
+                "price": {
+                  "current": 443,
+                  "regular": null,
+                  "max_value": null,
+                  "currency": "EUR",
+                  "is_price_range": false,
+                  "displayed_price": "€ 443"
+                },
+                "is_paid": false
+              },
+              {
+                "type": "knowledge_graph_hotels_booking_element",
+                "source": "Lion Travel 雄獅旅遊",
+                "description": null,
+                "url": "https://hotel.liontravel.com/detail/lion-hotel-detail?hotelCode%3DTHBKKT23%26checkIn%3D2026/08/27%26checkOut%3D2026/08/28%26roomsData%3D%5B%5D%26allotment%3D1%26mtl%3Dghtad",
+                "domain": "hotel.liontravel.com",
+                "price": {
+                  "current": 414,
+                  "regular": null,
+                  "max_value": null,
+                  "currency": "EUR",
+                  "is_price_range": false,
+                  "displayed_price": "€ 414"
+                },
+                "is_paid": false
+              }
+            ],
+            "rectangle": null
+          },
+          {
+            "type": "knowledge_graph_carousel_item",
+            "rank_group": 0,
+            "rank_absolute": 0,
+            "page": 1,
+            "position": "left",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "title": "Profielen",
+            "data_attrid": "kc:/common/topic:social media presence",
+            "link": null,
+            "items": [
+              {
+                "type": "knowledge_graph_carousel_element",
+                "title": "Facebook",
+                "subtitle": null,
+                "url": "https://www.facebook.com/MandarinOrientalBangkok",
+                "domain": "www.facebook.com",
+                "image_url": "https://api.dataforseo.com/cdn/i/07241245-1672-0139-0000-f66ebc6b6b16:3",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]"
+              },
+              {
+                "type": "knowledge_graph_carousel_element",
+                "title": "Instagram",
+                "subtitle": null,
+                "url": "https://www.instagram.com/mo_bangkok",
+                "domain": "www.instagram.com",
+                "image_url": "https://api.dataforseo.com/cdn/i/07241245-1672-0139-0000-f66ebc6b6b16:4",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/g-link[1]"
+              }
+            ],
+            "rectangle": null
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "third_party_reviews",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "right",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/c-wiz[1]/c-data[1]",
+        "reviews_count": 6506,
+        "title": "Tripadvisor",
+        "url": "https://www.tripadvisor.nl/ShowUserReviews-g293916-d301411-r965213996?m=68573&staydates=2026_08_02_2026_08_03&uguests=1_2_0&supdv=desktop&supuc=NL&supul=nl",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.8,
+          "votes_count": 6506,
+          "rating_max": 5
+        },
+        "rectangle": null
+      },
+      {
+        "type": "third_party_reviews",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "right",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/c-wiz[1]/c-data[1]",
+        "reviews_count": 263,
+        "title": "Trip.com",
+        "url": "https://hk.trip.com/hotels/detail?hotelid=995162&Allianceid=810504&Sid=1394411&utm_medium=cpc&utm_campaign=HPA&utm_source=google#review",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.7,
+          "votes_count": 263,
+          "rating_max": 5
+        },
+        "rectangle": null
+      },
+      {
+        "type": "google_reviews",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "right",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/c-wiz[1]/c-data[1]",
+        "reviews_count": 6632,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.7,
+          "votes_count": 6632,
+          "rating_max": 5
+        },
+        "place_id": "ChIJs6CnycSY4jAR5cqJZjPOsgs",
+        "feature": "0x30e298c4c9a7a0b3:0xbb2ce336689cae5",
+        "cid": "842962800430664421",
+        "rectangle": null
+      }
+    ]
+  }
+}

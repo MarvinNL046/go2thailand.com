@@ -7,6 +7,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import AffiliateWidget from '../../components/AffiliateWidget';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
+import TransportHubGuide from '../../components/transport/TransportHubGuide';
 
 const TWELVEGO_SEARCH_WIDGET = '<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=Bangkok&to=Phuket&from_en=Bangkok&to_en=Phuket&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506" charset="utf-8"></script>';
 
@@ -29,6 +30,7 @@ interface City {
   slug: string;
   name: {
     en: string;
+    nl?: string;
   };
   region: string;
 }
@@ -42,10 +44,11 @@ interface TransportIndexProps {
 const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoutes, cities }) => {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
-  const lang = isNl ? 'nl' : 'en';
 
   const [fromCity, setFromCity] = useState('');
   const [toCity, setToCity] = useState('');
+
+  if (isNl) return <TransportHubGuide allRoutes={allRoutes} cities={cities} />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

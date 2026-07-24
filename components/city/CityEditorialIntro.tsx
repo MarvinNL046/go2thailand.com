@@ -1,0 +1,48 @@
+import Image from 'next/image';
+import { StoryDottedRoute } from '../visuals/StoryDottedRoute';
+
+interface CityEditorialIntroProps {
+  cityName: string;
+  citySlug: string;
+  editorial: string;
+  imageSrc: string;
+  isNl: boolean;
+}
+
+export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, isNl }: CityEditorialIntroProps) {
+  const isKrabi = citySlug === 'krabi';
+  const title = isKrabi
+    ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
+    : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
+  const paragraphs = isKrabi
+    ? isNl
+      ? [
+          'Krabi is een provincie aan de Andamanse kust van Zuid-Thailand. De naam wordt ook gebruikt voor Krabi Town, de provinciehoofdstad. De meeste strandreizigers slapen niet in de stad, maar in Ao Nang, Railay of aan de rustigere kust bij Klong Muang en Tubkaek.',
+          'Ao Nang is voor een eerste bezoek de praktischste uitvalsbasis: boten naar Railay en de eilanden vertrekken dichtbij en je hebt veel keuze uit restaurants en hotels. Railay past beter bij een bijzonder strandverblijf, terwijl Krabi Town aantrekkelijk is voor markten en een lokalere sfeer. Vier dagen is voor de meeste reizigers een goede balans tussen zee, vasteland en rust.',
+        ]
+      : [
+          'Krabi is where limestone cliffs rise dramatically from the sea, hidden bays beckon and tropical islands invite you to explore. Adventure and relaxation go hand in hand here.',
+          editorial || 'From iconic beaches to quiet lagoons and lush jungles, Krabi lets you experience Thailand at its purest.',
+        ]
+    : [editorial].filter(Boolean);
+
+  return (
+    <section id="over-bestemming" className="section-divider-bottom scroll-mt-24 bg-[#fcfaf6]">
+      <div className="container-custom grid items-center gap-8 py-12 lg:grid-cols-[0.72fr_1.55fr] lg:gap-14 lg:py-16">
+        <div className="relative self-stretch lg:flex lg:flex-col lg:justify-center">
+          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
+          <h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.7rem]">{title}</h2>
+          <div className="mt-6 max-w-[31rem] space-y-4 text-sm leading-7 text-charcoal/62">
+            {paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}
+          </div>
+          <StoryDottedRoute className="mt-1 ml-auto hidden h-[112px] w-[145px] opacity-85 sm:block lg:mr-3" />
+        </div>
+
+        <div className="relative aspect-[16/10] overflow-hidden rounded-xl border border-jade/10 bg-jade/5 shadow-[0_8px_28px_rgba(18,63,54,0.06)] lg:aspect-[16/8.8]">
+          <Image src={imageSrc} alt={`${cityName} vanuit de lucht`} fill sizes="(min-width: 1024px) 65vw, 100vw" className="object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-t from-jade/10 via-transparent to-white/5" />
+        </div>
+      </div>
+    </section>
+  );
+}

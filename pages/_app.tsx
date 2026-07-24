@@ -92,7 +92,7 @@ export default function App({ Component, pageProps }: AppProps) {
       <Hreflang />
       <GoogleConsent />
       <ToastProvider>
-        <div className="min-h-screen flex flex-col overflow-x-hidden">
+        <div className="min-h-screen flex flex-col overflow-x-hidden pb-[calc(4.25rem+env(safe-area-inset-bottom))] lg:pb-0">
           <PushBanner />
           <Header />
           <main className="flex-grow overflow-x-hidden">

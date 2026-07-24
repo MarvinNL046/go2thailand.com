@@ -9,6 +9,7 @@ import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPa
 import { getAllVisas } from '../../lib/visas';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/visa-index';
+import ThailandVisaGuide from '../../components/visa/ThailandVisaGuide';
 
 interface Visa {
   id: number;
@@ -27,6 +28,11 @@ interface VisaPageProps {
 export default function VisaIndexPage({ visas }: VisaPageProps) {
   const t = useT(i18nStrings);
   const { locale } = useRouter();
+
+  if (locale === 'nl') {
+    return <ThailandVisaGuide />;
+  }
+
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
   const isNl = lang === 'nl';

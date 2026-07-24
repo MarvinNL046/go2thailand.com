@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-24T05:20:50.745Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "visumvrij thailand",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "visumvrij thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "visumvrij thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

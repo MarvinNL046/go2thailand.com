@@ -2,11 +2,14 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generateAttractionBreadcrumbs, getAllAttractionStaticPaths, toAbsoluteImageUrl } from '../../../../lib/cities';
+import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generateAttractionBreadcrumbs, toAbsoluteImageUrl } from '../../../../lib/cities';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
 import SEOHead from '../../../../components/SEOHead';
 import Sources from '../../../../components/blog/Sources';
+import AttractionDetailGuideTemplate from '../../../../components/attractions/AttractionDetailGuideTemplate';
+import { getNlAttractionDetailGuide } from '../../../../data/attraction-details/nl';
+import { getAffiliates, KLOOK_GENERIC, withPlacementSubId } from '../../../../lib/affiliates';
 
 interface Attraction {
   id: number;
@@ -92,6 +95,12 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
   const cityName = city.name[lang] || city.name.en;
   const attractionName = attraction.name[lang] || attraction.name.en;
   const attractionDesc = attraction.description[lang] || attraction.description.en;
+  const nlGuide = isNl ? getNlAttractionDetailGuide(city.slug, attraction.slug) : undefined;
+  if (nlGuide) {
+    const klookBase = getAffiliates(city.slug)?.klook || KLOOK_GENERIC;
+    const klookHref = withPlacementSubId(klookBase, `nl-attraction-${city.slug}-${attraction.slug}`, 'detail');
+    return <AttractionDetailGuideTemplate data={nlGuide} klookHref={klookHref} />;
+  }
   const breadcrumbs = generateAttractionBreadcrumbs(city, attraction);
   const metadata = generateAttractionMetadata(attraction, city);
 
@@ -701,6 +710,10 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const citySlug = params?.slug as string;
   const attractionSlug = params?.attraction as string;
+
+  if (locale === 'nl' && !getNlAttractionDetailGuide(citySlug, attractionSlug)) {
+    return { notFound: true, revalidate: 604800 };
+  }
   
   const city = getCityBySlug(citySlug, locale);
   const attraction = getAttractionBySlug(citySlug, attractionSlug, locale);

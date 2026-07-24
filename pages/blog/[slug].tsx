@@ -36,6 +36,8 @@ import BuyerIntentNextStep from '../../components/blog/BuyerIntentNextStep';
 import TripFunnelBlock from '../../components/blog/TripFunnelBlock';
 import BookingHeroCTA from '../../components/BookingHeroCTA';
 import { useSubId } from '../../lib/useSubId';
+import { ClimateUpdateGuideTemplate } from '../../components/blog/ClimateUpdateGuideTemplate';
+import { getNlClimateUpdateGuide } from '../../data/climate/nl';
 
 interface Source {
   name: string;
@@ -166,6 +168,12 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
       cleanupFns.forEach((cleanup) => cleanup());
     };
   }, []);
+
+  const nlClimateGuide = locale === 'nl' ? getNlClimateUpdateGuide(post.slug) : undefined;
+
+  if (nlClimateGuide) {
+    return <ClimateUpdateGuideTemplate data={nlClimateGuide} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

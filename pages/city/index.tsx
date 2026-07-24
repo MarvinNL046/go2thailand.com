@@ -10,6 +10,7 @@ import AnimatedCounter from '../../components/AnimatedCounter';
 import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import { BOOKING_GENERIC, TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
+import DestinationIndexGuide from '../../components/destinations/DestinationIndexGuide';
 
 interface City {
   id: number;
@@ -60,6 +61,10 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
   const statsAnim = useScrollAnimation(0.2);
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, 'city-index', placement);
+
+  if (isNl) {
+    return <DestinationIndexGuide cities={cities} />;
+  }
 
   return (
     <>

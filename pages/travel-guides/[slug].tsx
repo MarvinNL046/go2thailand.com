@@ -468,6 +468,16 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
+
+  if (locale === 'nl' && slug === 'first-time-thailand') {
+    return {
+      redirect: {
+        destination: '/nl/thailand-for-first-timers/',
+        permanent: true,
+      },
+    };
+  }
+
   const guide = getTravelGuideBySlug(slug, locale);
 
   if (!guide) {

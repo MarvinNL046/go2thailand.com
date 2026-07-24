@@ -8,6 +8,21 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        canvas: '#FCFAF6',
+        tonal: '#F4EEE4',
+        mist: '#E8EFEB',
+        ivory: '#F7F1E7',
+        jade: {
+          DEFAULT: '#123F36',
+          light: '#1D5A4D',
+          dark: '#0B2F29',
+        },
+        saffron: {
+          DEFAULT: '#F29A38',
+          light: '#FFC36B',
+          dark: '#D77B1F',
+        },
+        charcoal: '#293531',
         thailand: {
           red: {
             DEFAULT: '#ED1C24',
@@ -64,12 +79,17 @@ module.exports = {
         }
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
+        sans: ['Manrope', 'Inter', 'system-ui', 'sans-serif'],
         heading: ['DM Sans', 'Inter', 'system-ui', 'sans-serif'],
+        display: ['Cormorant Garamond', 'Georgia', 'serif'],
         script: ['Kalam', 'cursive'],
       },
       backdropBlur: {
         xs: '2px',
+      },
+      boxShadow: {
+        'editorial-card': '0 14px 40px rgba(18, 63, 54, 0.06)',
+        'editorial-lift': '0 18px 55px rgba(18, 63, 54, 0.07)',
       },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',

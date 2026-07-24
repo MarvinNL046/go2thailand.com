@@ -1,0 +1,117 @@
+import Image from 'next/image';
+import Link from 'next/link';
+import { ArrowRight, Building2, CalendarDays, Clock3, Compass, MapPin, Palmtree, Sparkles } from 'lucide-react';
+
+interface CityDestinationHeroProps {
+  activitiesHref: string;
+  bestTime: string;
+  cityName: string;
+  citySlug: string;
+  description: string;
+  heroImage: string;
+  hotelsHref: string;
+  idealFor: string;
+  isNl: boolean;
+  stayLength: string;
+}
+
+export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySlug, description, heroImage, hotelsHref, idealFor, isNl, stayLength }: CityDestinationHeroProps) {
+  const isKrabi = citySlug === 'krabi';
+  const subtitle = isKrabi
+    ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
+    : description;
+  const directAnswer = isKrabi
+    ? isNl
+      ? 'Krabi is een provincie in Zuid-Thailand én de naam van Krabi Town. Voor een eerste reis is Ao Nang meestal de handigste basis voor boten en restaurants. Met vier dagen heb je tijd voor Railay, een eilandtour en één dag op het vasteland.'
+      : 'Krabi is both a province in southern Thailand and the name of Krabi Town. Ao Nang is usually the most convenient first base for boats and restaurants. Four days gives you time for Railay, an island tour and one day on the mainland.'
+    : '';
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : (isNl ? 'Thailand' : 'Thailand');
+
+  const navigation = [
+    { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
+    { href: `/city/${citySlug}/attractions/`, label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
+    { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
+    { href: `/best-hotels/${citySlug}/`, label: 'Hotels', icon: Building2 },
+    { href: `/city/${citySlug}/budget/`, label: isNl ? 'Praktisch' : 'Practical', icon: MapPin },
+  ];
+
+  return (
+    <>
+      <section className="relative min-h-[650px] overflow-hidden bg-[#eaf1ef] lg:h-[610px] lg:min-h-0">
+        <Image
+          src={heroImage}
+          alt={`${cityName}, Thailand`}
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-[61%_center] lg:object-center"
+        />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(252,250,246,0.05)_0%,rgba(252,250,246,0.18)_48%,rgba(252,250,246,0.96)_100%)] lg:bg-[linear-gradient(90deg,rgba(252,250,246,0.97)_0%,rgba(252,250,246,0.88)_28%,rgba(252,250,246,0.18)_57%,rgba(6,54,47,0.04)_100%)]" />
+        <div className="absolute inset-0 bg-gradient-to-r from-[#fcfaf6]/90 via-[#fcfaf6]/45 to-transparent lg:hidden" />
+
+        <div className="container-custom relative z-10 flex h-full min-h-[650px] items-end pb-8 pt-32 lg:min-h-0 lg:items-center lg:pb-0 lg:pt-16">
+          <div className="max-w-[590px]">
+            <nav aria-label={isNl ? 'Kruimelpad' : 'Breadcrumb'} className="mb-5 flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-[0.13em] text-jade/65">
+              <Link href="/" className="transition hover:text-saffron-dark">Thailand</Link>
+              <span aria-hidden="true">/</span>
+              <span>{regionLabel}</span>
+              <span aria-hidden="true">/</span>
+              <span className="text-jade">{cityName}</span>
+            </nav>
+
+            <h1 className="font-display font-semibold leading-[0.82] tracking-[-0.045em] text-jade">
+              <span className="block text-[4.5rem] sm:text-[5.6rem] lg:text-[6.6rem]">{cityName}<span className="sr-only">, </span></span>
+              {isKrabi && <span className="mt-2 block text-[2.35rem] tracking-[-0.03em] sm:text-[2.8rem] lg:text-[3.25rem]">Thailand</span>}
+            </h1>
+            <p className="mt-5 max-w-[530px] font-display text-[1.55rem] font-semibold leading-[1.05] text-jade sm:text-[1.85rem]">{subtitle}</p>
+            {directAnswer && <p className="mt-4 max-w-[540px] text-sm font-medium leading-6 text-charcoal/72">{directAnswer}</p>}
+
+            <div className="mt-7 flex flex-wrap gap-3">
+              <a href={activitiesHref} target="_blank" rel="noopener noreferrer sponsored" className="btn-jade btn-jade-pattern group min-h-12 px-6">
+                {isNl ? 'Bekijk uitjes' : 'View experiences'}
+                <ArrowRight size={17} className="text-saffron transition-transform group-hover:translate-x-1" />
+              </a>
+              <a href={hotelsHref} target="_blank" rel="noopener noreferrer sponsored" className="btn-cream group min-h-12 px-6 text-saffron-dark">
+                {isNl ? 'Vind een hotel' : 'Find a hotel'}
+                <span className="grid h-6 w-6 place-items-center rounded-md border border-saffron/45"><ArrowRight size={14} className="transition-transform group-hover:translate-x-0.5" /></span>
+              </a>
+            </div>
+            {isKrabi && (
+              <p className="mt-3 max-w-[540px] text-[9px] leading-4 text-charcoal/48">
+                {isNl
+                  ? 'De hotel- en uitjesknoppen zijn affiliatelinks. Bij een boeking ontvangen wij mogelijk een commissie; jij betaalt niets extra.'
+                  : 'Hotel and experience buttons are affiliate links. We may earn a commission when you book, at no extra cost to you.'}
+              </p>
+            )}
+
+            <dl className="mt-8 grid max-w-[570px] grid-cols-1 gap-3 border-t border-jade/12 pt-5 text-jade sm:grid-cols-3 sm:gap-0">
+              <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:pr-4">
+                <CalendarDays size={18} className="shrink-0 text-jade/65" />
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isNl ? 'Beste reistijd' : 'Best time'}</dt><dd className="text-xs font-bold">{bestTime}</dd></div>
+              </div>
+              <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
+                <Palmtree size={18} className="shrink-0 text-jade/65" />
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+              </div>
+              <div className="flex items-center gap-3 sm:pl-4">
+                <Clock3 size={18} className="shrink-0 text-jade/65" />
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Ideale reisduur' : 'Ideal trip length') : (isNl ? 'Verblijf' : 'Stay')}</dt><dd className="text-xs font-bold">{stayLength}</dd></div>
+              </div>
+            </dl>
+          </div>
+        </div>
+      </section>
+
+      <nav aria-label={isNl ? 'Op deze bestemmingspagina' : 'On this destination page'} className="section-divider-bottom bg-[#fcfaf6]">
+        <div className="container-custom scrollbar-hide flex snap-x items-stretch overflow-x-auto py-1 lg:justify-center">
+          {navigation.map(({ href, label, icon: Icon }, index) => (
+            <Link key={href} href={href} className={`group flex min-w-[145px] snap-start items-center justify-center gap-2 border-b-2 px-5 py-4 text-xs font-bold transition ${index === 0 ? 'border-jade text-jade' : 'border-transparent text-charcoal/55 hover:border-saffron/45 hover:text-jade'}`}>
+              <Icon size={16} className={index === 0 ? 'text-jade' : 'text-charcoal/40 group-hover:text-saffron'} />
+              {label}
+            </Link>
+          ))}
+        </div>
+      </nav>
+    </>
+  );
+}

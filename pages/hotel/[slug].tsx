@@ -4,6 +4,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../components/hotels/HotelDetailGuideTemplate';
+import { getNlHotelDetailGuide } from '../../data/hotel-details/nl';
+import type { HotelDetailGuideData } from '../../data/hotel-details/types';
 import { getAffiliates, withPlacementSubId, TRIP_GENERIC, tripcomAffiliate } from '../../lib/affiliates';
 
 /**
@@ -64,11 +67,21 @@ interface PseoHotelData {
   generatedAt: string;
 }
 
-interface Props { data: PseoHotelData }
+interface Props {
+  data: PseoHotelData;
+  nlGuide: HotelDetailGuideData | null;
+}
 
-export default function HotelPage({ data }: Props) {
+export default function HotelPage({ data, nlGuide }: Props) {
   const { hotel, cityName, citySlug } = data;
   const aff = getAffiliates(citySlug);
+
+  if (nlGuide) {
+    const tripBaseUrl = hotel.tripPartnerUrl || aff?.trip || TRIP_GENERIC;
+    const tripHref = withPlacementSubId(tripBaseUrl, `nl-hotel-${data.hotelSlug}`, 'hotel-detail');
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={tripHref} />;
+  }
+
   const subId = `pseo-hotel-${data.hotelSlug}`;
   const norm = (s?: string) => (s || '').trim().toLowerCase();
 
@@ -218,7 +231,7 @@ export default function HotelPage({ data }: Props) {
           {/* Detailed review */}
           {data.aiContent.detailedReview && (
             <section id="review">
-              <h2 className="font-heading text-2xl font-bold text-gray-900 mb-3">What it's actually like to stay here</h2>
+              <h2 className="font-heading text-2xl font-bold text-gray-900 mb-3">What it&apos;s actually like to stay here</h2>
               <p className="text-gray-700 leading-relaxed whitespace-pre-line">{data.aiContent.detailedReview}</p>
             </section>
           )}
@@ -377,10 +390,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths, fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
+export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const file = path.join(process.cwd(), 'data', 'pseo', 'hotels', `${slug}.json`);
   if (!fs.existsSync(file)) return { notFound: true, revalidate: 60 };
   const data = JSON.parse(fs.readFileSync(file, 'utf8')) as PseoHotelData;
-  return { props: { data }, revalidate: 604800 };
+  const nlGuide = locale === 'nl' ? getNlHotelDetailGuide(slug) : null;
+  if (locale === 'nl' && !nlGuide) return { notFound: true, revalidate: 604800 };
+  return { props: { data, nlGuide }, revalidate: 604800 };
 };

@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
+import ThailandRouteGuide from '../components/itineraries/ThailandRouteGuide';
 
 interface ItineraryItem {
   slug: string;
@@ -60,6 +61,8 @@ function getFaqJsonLd(locale: string) {
 export default function ThailandItineraryPage({ itineraries }: PageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) return <ThailandRouteGuide />;
 
   const dur = isNl ? durations.nl : durations.en;
   const faq = isNl ? faqItems.nl : faqItems.en;

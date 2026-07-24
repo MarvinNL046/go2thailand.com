@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-24T10:57:01.141Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "hitte thailand reis",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "hitte thailand reis"
+  ],
+  "keywords": [
+    {
+      "keyword": "hitte thailand reis",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

@@ -3,6 +3,7 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import EmailCapture from '../components/EmailCapture';
+import ThailandSafetyGuide from '../components/safety/ThailandSafetyGuide';
 
 const faqItemsBilingual = [
   {
@@ -85,6 +86,11 @@ const risksBilingual = [
 
 export default function IsThailandSafePage() {
   const { locale } = useRouter();
+
+  if (locale === 'nl') {
+    return <ThailandSafetyGuide />;
+  }
+
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
 

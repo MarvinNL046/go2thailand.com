@@ -58,7 +58,7 @@ export default function AffiliateDisclosure() {
               <h1 className="text-3xl font-bold font-heading text-gray-900 mb-2">
                 {isNl ? 'Affiliate Verklaring' : 'Affiliate Disclosure'}
               </h1>
-              <p className="text-sm text-gray-500">{isNl ? 'Laatst bijgewerkt: maart 2026' : 'Last updated: March 2026'}</p>
+              <p className="text-sm text-gray-500">{isNl ? 'Laatst bijgewerkt: juli 2026' : 'Last updated: July 2026'}</p>
               <p className="text-gray-700 mt-4">
                 {isNl
                   ? 'Go2Thailand.com is een onafhankelijke reisgids. Om deze site gratis te houden voor lezers, nemen we deel aan affiliate programma\'s. Deze pagina legt precies uit hoe dat werkt, welke partners erbij betrokken zijn en wat het voor u betekent.'
@@ -121,6 +121,11 @@ export default function AffiliateDisclosure() {
                   <span><strong>Amazon</strong> — {isNl ? 'reisuitrusting en accessoires' : 'travel gear and accessories'}</span>
                 </li>
               </ul>
+              <p className="text-gray-700 mb-4">
+                {isNl
+                  ? 'Amazon-productlinks kunnen via Amazon OneLink worden doorgestuurd naar een lokale Amazon-webwinkel. Productbeschikbaarheid en de uiteindelijke bestemming verschillen per land.'
+                  : 'Amazon product links may be redirected to a local Amazon store through Amazon OneLink. Product availability and the final destination vary by country.'}
+              </p>
               <p className="text-gray-700">
                 {isNl
                   ? 'Deze verklaring voldoet aan de FTC-richtlijnen inzake aanbevelingen en getuigenissen, en aan de toepasselijke consumentenbeschermingsregelgeving in andere rechtsgebieden.'
