@@ -1,42 +1,24 @@
 {
-  "captured_at": "2026-07-24T18:18:00.007Z",
+  "captured_at": "2026-07-24T19:29:21.722Z",
   "locale": "nl",
   "market": {
     "language_code": "nl",
     "location_name": "Netherlands"
   },
-  "cost": 0.01308,
+  "cost": 0.01284,
   "requested_keywords": [
-    "ban krut thailand",
-    "bueng kan thailand",
     "chanthaburi thailand",
-    "chiang khan thailand",
     "lopburi thailand",
-    "mae hong son thailand",
-    "mukdahan thailand",
-    "nakhon phanom thailand",
     "nakhon ratchasima thailand",
+    "ubon ratchathani thailand",
     "nakhon si thammarat thailand",
     "nong khai thailand",
-    "ubon ratchathani thailand"
+    "nakhon phanom thailand",
+    "mukdahan thailand",
+    "bueng kan thailand",
+    "chiang khan thailand"
   ],
   "rows": [
-    {
-      "keyword": "ban krut thailand",
-      "volume": 170,
-      "difficulty": 0,
-      "intent": "informational",
-      "competition": "LOW",
-      "cpc": 2.23
-    },
-    {
-      "keyword": "mae hong son thailand",
-      "volume": 110,
-      "difficulty": 0,
-      "intent": "informational",
-      "competition": "LOW",
-      "cpc": 0.96
-    },
     {
       "keyword": "chanthaburi thailand",
       "volume": 90,
