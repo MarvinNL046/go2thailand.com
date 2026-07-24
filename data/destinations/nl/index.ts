@@ -10,6 +10,7 @@ import { paiDestinationGuide } from './pai';
 import { pattayaDestinationGuide } from './pattaya';
 import { huaHinDestinationGuide } from './hua-hin';
 import { chumphonDestinationGuide } from './chumphon';
+import { rayongDestinationGuide } from './rayong';
 
 export const destinationIndexNl = {
   seo: {
@@ -79,10 +80,11 @@ const guides: Record<string, DestinationGuideData> = {
   pattaya: pattayaDestinationGuide,
   'hua-hin': huaHinDestinationGuide,
   chumphon: chumphonDestinationGuide,
+  rayong: rayongDestinationGuide,
 };
 
 export function getNlDestinationGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { ayutthayaDestinationGuide, bangkokDestinationGuide, chiangMaiDestinationGuide, chiangRaiDestinationGuide, chumphonDestinationGuide, huaHinDestinationGuide, paiDestinationGuide, pattayaDestinationGuide, phuketDestinationGuide, kohSamuiDestinationGuide, khaoSokDestinationGuide };
+export { ayutthayaDestinationGuide, bangkokDestinationGuide, chiangMaiDestinationGuide, chiangRaiDestinationGuide, chumphonDestinationGuide, huaHinDestinationGuide, paiDestinationGuide, pattayaDestinationGuide, phuketDestinationGuide, rayongDestinationGuide, kohSamuiDestinationGuide, khaoSokDestinationGuide };

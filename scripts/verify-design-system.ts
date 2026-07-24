@@ -422,7 +422,7 @@ for (const asset of [
 }
 
 const destinationRegistry = read('data/destinations/nl/index.ts');
-for (const city of ['ayutthaya', 'bangkok', 'chumphon', "'chiang-mai'", "'chiang-rai'", "'hua-hin'", 'pai', 'pattaya', 'phuket', "'koh-samui'", "'khao-sok'"]) {
+for (const city of ['ayutthaya', 'bangkok', 'chumphon', "'chiang-mai'", "'chiang-rai'", "'hua-hin'", 'pai', 'pattaya', 'phuket', 'rayong', "'koh-samui'", "'khao-sok'"]) {
   if (!destinationRegistry.includes(`${city}:`)) failures.push(`The NL destination registry does not include ${city}`);
 }
 for (const asset of ['thailand-excursions-hero.webp', 'transport-thailand-hero.webp']) {
@@ -504,6 +504,19 @@ for (const asset of [
 }
 for (const proof of ['touristType:', 'quickAnswer:', 'zones:', 'itinerary:', 'faqs:', 'sources:', 'Thung Wua Laen', 'Mu Ko Chumphon', 'Thung Makham Noi', '1 uur en 45 minuten']) {
   if (!chumphonDestinationData.includes(proof)) failures.push(`Chumphon destination data does not define ${proof}`);
+}
+const rayongDestinationData = read('data/destinations/nl/rayong.ts');
+for (const asset of [
+  'rayong-destination-hero.webp',
+  'rayong-yomjinda-old-town.webp',
+  'rayong-mangrove-route.webp',
+  'rayong-fruit-orchard.webp',
+]) {
+  if (!rayongDestinationData.includes(asset)) failures.push(`Rayong destination data does not use ${asset}`);
+  read(`public/images/redesign/${asset}`);
+}
+for (const proof of ['touristType:', 'quickAnswer:', 'zones:', 'itinerary:', 'faqs:', 'sources:', 'Mae Ramphueng', 'Yomjinda', 'Ban Phe', 'Thung Prong Thong', '/islands/koh-samet/']) {
+  if (!rayongDestinationData.includes(proof)) failures.push(`Rayong destination data does not define ${proof}`);
 }
 const destinationGuideTemplate = read('components/city/DestinationGuideTemplate.tsx');
 if (destinationGuideTemplate.includes('cultuur, karst of eilanden')) failures.push('Destination guide template still contains Krabi-specific Klook copy');
