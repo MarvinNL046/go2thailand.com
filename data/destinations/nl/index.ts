@@ -20,6 +20,7 @@ import { trangDestinationGuide } from './trang';
 import { suratThaniDestinationGuide } from './surat-thani';
 import { hatYaiDestinationGuide } from './hat-yai';
 import { tratDestinationGuide } from './trat';
+import { khonKaenDestinationGuide } from './khon-kaen';
 
 export const destinationIndexNl = {
   seo: {
@@ -99,10 +100,11 @@ const guides: Record<string, DestinationGuideData> = {
   'surat-thani': suratThaniDestinationGuide,
   'hat-yai': hatYaiDestinationGuide,
   trat: tratDestinationGuide,
+  'khon-kaen': khonKaenDestinationGuide,
 };
 
 export function getNlDestinationGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { ayutthayaDestinationGuide, bangkokDestinationGuide, chiangMaiDestinationGuide, chiangRaiDestinationGuide, chumphonDestinationGuide, hatYaiDestinationGuide, huaHinDestinationGuide, kanchanaburiDestinationGuide, lampangDestinationGuide, paiDestinationGuide, pattayaDestinationGuide, phitsanulokDestinationGuide, phuketDestinationGuide, rayongDestinationGuide, sukhothaiDestinationGuide, suratThaniDestinationGuide, trangDestinationGuide, tratDestinationGuide, udonThaniDestinationGuide, kohSamuiDestinationGuide, khaoSokDestinationGuide };
+export { ayutthayaDestinationGuide, bangkokDestinationGuide, chiangMaiDestinationGuide, chiangRaiDestinationGuide, chumphonDestinationGuide, hatYaiDestinationGuide, huaHinDestinationGuide, kanchanaburiDestinationGuide, khonKaenDestinationGuide, lampangDestinationGuide, paiDestinationGuide, pattayaDestinationGuide, phitsanulokDestinationGuide, phuketDestinationGuide, rayongDestinationGuide, sukhothaiDestinationGuide, suratThaniDestinationGuide, trangDestinationGuide, tratDestinationGuide, udonThaniDestinationGuide, kohSamuiDestinationGuide, khaoSokDestinationGuide };

@@ -1,0 +1,3882 @@
+{
+  "captured_at": "2026-07-24T17:49:03.715Z",
+  "locale": "nl",
+  "url": "https://packlightly.nl/thailand/khon-kaen/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "No destinations match your search.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Plan en bouw je route",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Volg live waar je bent",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Deel je reis met vrienden",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Ontmoet andere reizigers onderweg",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Home » Thailand » Top 6 beste plekken in Khon Kaen",
+          "url": "https://packlightly.nl/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/",
+              "anchor_text": "Home"
+            },
+            {
+              "url": "https://packlightly.nl/thailand/",
+              "anchor_text": "Thailand"
+            }
+          ]
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "TH Thailand",
+          "url": "https://packlightly.nl/thailand/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/thailand/",
+              "anchor_text": "TH\nThailand"
+            }
+          ]
+        },
+        {
+          "text": "VN Vietnam",
+          "url": "https://packlightly.nl/vietnam/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/vietnam/",
+              "anchor_text": "VN\nVietnam"
+            }
+          ]
+        },
+        {
+          "text": "ID Indonesië",
+          "url": "https://packlightly.nl/indonesie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/indonesie/",
+              "anchor_text": "ID\nIndonesië"
+            }
+          ]
+        },
+        {
+          "text": "JP Japan",
+          "url": "https://packlightly.nl/japan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/japan/",
+              "anchor_text": "JP\nJapan"
+            }
+          ]
+        },
+        {
+          "text": "PH Filipijnen",
+          "url": "https://packlightly.nl/filipijnen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/filipijnen/",
+              "anchor_text": "PH\nFilipijnen"
+            }
+          ]
+        },
+        {
+          "text": "MY Maleisië",
+          "url": "https://packlightly.nl/maleisie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/maleisie/",
+              "anchor_text": "MY\nMaleisië"
+            }
+          ]
+        },
+        {
+          "text": "KH Cambodja",
+          "url": "https://packlightly.nl/cambodja/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/cambodja/",
+              "anchor_text": "KH\nCambodja"
+            }
+          ]
+        },
+        {
+          "text": "LA Laos",
+          "url": "https://packlightly.nl/laos/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/laos/",
+              "anchor_text": "LA\nLaos"
+            }
+          ]
+        },
+        {
+          "text": "SG Singapore",
+          "url": "https://packlightly.nl/singapore/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/singapore/",
+              "anchor_text": "SG\nSingapore"
+            }
+          ]
+        },
+        {
+          "text": "BN Brunei",
+          "url": "https://packlightly.nl/brunei/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/brunei/",
+              "anchor_text": "BN\nBrunei"
+            }
+          ]
+        },
+        {
+          "text": "KR Zuid-Korea",
+          "url": "https://packlightly.nl/zuid-korea/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/zuid-korea/",
+              "anchor_text": "KR\nZuid-Korea"
+            }
+          ]
+        },
+        {
+          "text": "TW Taiwan",
+          "url": "https://packlightly.nl/taiwan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/taiwan/",
+              "anchor_text": "TW\nTaiwan"
+            }
+          ]
+        },
+        {
+          "text": "CN China",
+          "url": "https://packlightly.nl/china/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/china/",
+              "anchor_text": "CN\nChina"
+            }
+          ]
+        },
+        {
+          "text": "NP Nepal",
+          "url": "https://packlightly.nl/nepal/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/nepal/",
+              "anchor_text": "NP\nNepal"
+            }
+          ]
+        },
+        {
+          "text": "IN India",
+          "url": "https://packlightly.nl/india/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/india/",
+              "anchor_text": "IN\nIndia"
+            }
+          ]
+        },
+        {
+          "text": "BT Bhutan",
+          "url": "https://packlightly.nl/bhutan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bhutan/",
+              "anchor_text": "BT\nBhutan"
+            }
+          ]
+        },
+        {
+          "text": "MV Malediven",
+          "url": "https://packlightly.nl/malediven/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/malediven/",
+              "anchor_text": "MV\nMalediven"
+            }
+          ]
+        },
+        {
+          "text": "AE VAE",
+          "url": "https://packlightly.nl/verenigde-arabische-emiraten/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/verenigde-arabische-emiraten/",
+              "anchor_text": "AE\nVAE"
+            }
+          ]
+        },
+        {
+          "text": "JO Jordanië",
+          "url": "https://packlightly.nl/jordanie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/jordanie/",
+              "anchor_text": "JO\nJordanië"
+            }
+          ]
+        },
+        {
+          "text": "OM Oman",
+          "url": "https://packlightly.nl/oman/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/oman/",
+              "anchor_text": "OM\nOman"
+            }
+          ]
+        },
+        {
+          "text": "BH Bahrein",
+          "url": "https://packlightly.nl/bahrein/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bahrein/",
+              "anchor_text": "BH\nBahrein"
+            }
+          ]
+        },
+        {
+          "text": "KW Koeweit",
+          "url": "https://packlightly.nl/koeweit/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/koeweit/",
+              "anchor_text": "KW\nKoeweit"
+            }
+          ]
+        },
+        {
+          "text": "UZ Oezbekistan",
+          "url": "https://packlightly.nl/oezbekistan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/oezbekistan/",
+              "anchor_text": "UZ\nOezbekistan"
+            }
+          ]
+        },
+        {
+          "text": "KZ Kazachstan",
+          "url": "https://packlightly.nl/kazachstan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/kazachstan/",
+              "anchor_text": "KZ\nKazachstan"
+            }
+          ]
+        },
+        {
+          "text": "KG Kirgizië",
+          "url": "https://packlightly.nl/kirgizie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/kirgizie/",
+              "anchor_text": "KG\nKirgizië"
+            }
+          ]
+        },
+        {
+          "text": "GE Georgië",
+          "url": "https://packlightly.nl/georgie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/georgie/",
+              "anchor_text": "GE\nGeorgië"
+            }
+          ]
+        },
+        {
+          "text": "AM Armenië",
+          "url": "https://packlightly.nl/armenie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/armenie/",
+              "anchor_text": "AM\nArmenië"
+            }
+          ]
+        },
+        {
+          "text": "AZ Azerbeidzjan",
+          "url": "https://packlightly.nl/azerbeidzjan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/azerbeidzjan/",
+              "anchor_text": "AZ\nAzerbeidzjan"
+            }
+          ]
+        },
+        {
+          "text": "BS Bahamas",
+          "url": "https://packlightly.nl/bahamas/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bahamas/",
+              "anchor_text": "BS\nBahamas"
+            }
+          ]
+        },
+        {
+          "text": "PR Puerto Rico",
+          "url": "https://packlightly.nl/puerto-rico/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/puerto-rico/",
+              "anchor_text": "PR\nPuerto Rico"
+            }
+          ]
+        },
+        {
+          "text": "JM Jamaica",
+          "url": "https://packlightly.nl/jamaica/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/jamaica/",
+              "anchor_text": "JM\nJamaica"
+            }
+          ]
+        },
+        {
+          "text": "DO Dominicaanse Republiek",
+          "url": "https://packlightly.nl/dominicaanse-republiek/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/dominicaanse-republiek/",
+              "anchor_text": "DO\nDominicaanse Republiek"
+            }
+          ]
+        },
+        {
+          "text": "CU Cuba",
+          "url": "https://packlightly.nl/cuba/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/cuba/",
+              "anchor_text": "CU\nCuba"
+            }
+          ]
+        },
+        {
+          "text": "CW Curaçao",
+          "url": "https://packlightly.nl/curacao/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/curacao/",
+              "anchor_text": "CW\nCuraçao"
+            }
+          ]
+        },
+        {
+          "text": "BQ Bonaire",
+          "url": "https://packlightly.nl/bonaire/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bonaire/",
+              "anchor_text": "BQ\nBonaire"
+            }
+          ]
+        },
+        {
+          "text": "AW Aruba",
+          "url": "https://packlightly.nl/aruba/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/aruba/",
+              "anchor_text": "AW\nAruba"
+            }
+          ]
+        },
+        {
+          "text": "MF Sint-Maarten",
+          "url": "https://packlightly.nl/sint-maarten/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sint-maarten/",
+              "anchor_text": "MF\nSint-Maarten"
+            }
+          ]
+        },
+        {
+          "text": "LC Saint Lucia",
+          "url": "https://packlightly.nl/saint-lucia/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/saint-lucia/",
+              "anchor_text": "LC\nSaint Lucia"
+            }
+          ]
+        },
+        {
+          "text": "GD Grenada",
+          "url": "https://packlightly.nl/grenada/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/grenada/",
+              "anchor_text": "GD\nGrenada"
+            }
+          ]
+        },
+        {
+          "text": "MX Mexico",
+          "url": "https://packlightly.nl/mexico/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/mexico/",
+              "anchor_text": "MX\nMexico"
+            }
+          ]
+        },
+        {
+          "text": "BZ Belize",
+          "url": "https://packlightly.nl/belize/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/belize/",
+              "anchor_text": "BZ\nBelize"
+            }
+          ]
+        },
+        {
+          "text": "GT Guatemala",
+          "url": "https://packlightly.nl/guatemala/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/guatemala/",
+              "anchor_text": "GT\nGuatemala"
+            }
+          ]
+        },
+        {
+          "text": "SV El Salvador",
+          "url": "https://packlightly.nl/el-salvador/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/el-salvador/",
+              "anchor_text": "SV\nEl Salvador"
+            }
+          ]
+        },
+        {
+          "text": "HN Honduras",
+          "url": "https://packlightly.nl/honduras/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/honduras/",
+              "anchor_text": "HN\nHonduras"
+            }
+          ]
+        },
+        {
+          "text": "NI Nicaragua",
+          "url": "https://packlightly.nl/nicaragua/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/nicaragua/",
+              "anchor_text": "NI\nNicaragua"
+            }
+          ]
+        },
+        {
+          "text": "CR Costa Rica",
+          "url": "https://packlightly.nl/costa-rica/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/costa-rica/",
+              "anchor_text": "CR\nCosta Rica"
+            }
+          ]
+        },
+        {
+          "text": "PA Panama",
+          "url": "https://packlightly.nl/panama/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/panama/",
+              "anchor_text": "PA\nPanama"
+            }
+          ]
+        },
+        {
+          "text": "CO Colombia",
+          "url": "https://packlightly.nl/colombia/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/colombia/",
+              "anchor_text": "CO\nColombia"
+            }
+          ]
+        },
+        {
+          "text": "EC Ecuador",
+          "url": "https://packlightly.nl/ecuador/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/ecuador/",
+              "anchor_text": "EC\nEcuador"
+            }
+          ]
+        },
+        {
+          "text": "PE Peru",
+          "url": "https://packlightly.nl/peru/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/peru/",
+              "anchor_text": "PE\nPeru"
+            }
+          ]
+        },
+        {
+          "text": "BO Bolivia",
+          "url": "https://packlightly.nl/bolivia/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bolivia/",
+              "anchor_text": "BO\nBolivia"
+            }
+          ]
+        },
+        {
+          "text": "CL Chili",
+          "url": "https://packlightly.nl/chili/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/chili/",
+              "anchor_text": "CL\nChili"
+            }
+          ]
+        },
+        {
+          "text": "AR Argentinië",
+          "url": "https://packlightly.nl/argentinie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/argentinie/",
+              "anchor_text": "AR\nArgentinië"
+            }
+          ]
+        },
+        {
+          "text": "PY Paraguay",
+          "url": "https://packlightly.nl/paraguay/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/paraguay/",
+              "anchor_text": "PY\nParaguay"
+            }
+          ]
+        },
+        {
+          "text": "UY Uruguay",
+          "url": "https://packlightly.nl/uruguay/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/uruguay/",
+              "anchor_text": "UY\nUruguay"
+            }
+          ]
+        },
+        {
+          "text": "BR Brazilië",
+          "url": "https://packlightly.nl/brazilie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/brazilie/",
+              "anchor_text": "BR\nBrazilië"
+            }
+          ]
+        },
+        {
+          "text": "SR Suriname",
+          "url": "https://packlightly.nl/suriname/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/suriname/",
+              "anchor_text": "SR\nSuriname"
+            }
+          ]
+        },
+        {
+          "text": "GF Frans-Guyana",
+          "url": "https://packlightly.nl/frans-guyana/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/frans-guyana/",
+              "anchor_text": "GF\nFrans-Guyana"
+            }
+          ]
+        },
+        {
+          "text": "AU Australië",
+          "url": "https://packlightly.nl/australie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/australie/",
+              "anchor_text": "AU\nAustralië"
+            }
+          ]
+        },
+        {
+          "text": "NZ Nieuw-Zeeland",
+          "url": "https://packlightly.nl/nieuw-zeeland/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/nieuw-zeeland/",
+              "anchor_text": "NZ\nNieuw-Zeeland"
+            }
+          ]
+        },
+        {
+          "text": "Paklijst Generator Op maat per bestemming, seizoen en stijl",
+          "url": "https://packlightly.nl/tool/paklijst-generator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/paklijst-generator/",
+              "anchor_text": "Paklijst Generator\nOp maat per bestemming, seizoen en stijl"
+            }
+          ]
+        },
+        {
+          "text": "Budget Calculator Gedetailleerde kosten voor 146 landen",
+          "url": "https://packlightly.nl/tool/budget-calculator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/budget-calculator/",
+              "anchor_text": "Budget Calculator\nGedetailleerde kosten voor 146 landen"
+            }
+          ]
+        },
+        {
+          "text": "Beste Reistijd Kies een maand, vind het beste weer",
+          "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+              "anchor_text": "Beste Reistijd\nKies een maand, vind het beste weer"
+            }
+          ]
+        },
+        {
+          "text": "Interactieve Reiskaart Ontdek de mooiste plekken per land",
+          "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+              "anchor_text": "Interactieve Reiskaart\nOntdek de mooiste plekken per land"
+            }
+          ]
+        },
+        {
+          "text": "Landen Vergelijker Vergelijk maximaal 4 bestemmingen",
+          "url": "https://packlightly.nl/tool/landen-vergelijker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/landen-vergelijker/",
+              "anchor_text": "Landen Vergelijker\nVergelijk maximaal 4 bestemmingen"
+            }
+          ]
+        },
+        {
+          "text": "Lokaal Eten & Drinken Wat locals bestellen, per land",
+          "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+              "anchor_text": "Lokaal Eten & Drinken\nWat locals bestellen, per land"
+            }
+          ]
+        },
+        {
+          "text": "Vaccinatie Wereldkaart Vaccins, risico's en wat je meeneemt",
+          "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+              "anchor_text": "Vaccinatie Wereldkaart\nVaccins, risico's en wat je meeneemt"
+            }
+          ]
+        },
+        {
+          "text": "Mobiele Data Berekenen Hoeveel data heb je echt nodig",
+          "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+              "anchor_text": "Mobiele Data Berekenen\nHoeveel data heb je echt nodig"
+            }
+          ]
+        },
+        {
+          "text": "Reismarktplaats Vergelijk verblijven, tours en spullen op één plek",
+          "url": "https://packlightly.nl/tool/reis-marktplaats/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reis-marktplaats/",
+              "anchor_text": "Reismarktplaats\nVergelijk verblijven, tours en spullen op één plek"
+            }
+          ]
+        },
+        {
+          "text": "Dieren Wereldkaart Welke dieren leven waar",
+          "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+              "anchor_text": "Dieren Wereldkaart\nWelke dieren leven waar"
+            }
+          ]
+        },
+        {
+          "text": "Keuzehulp Land Kiezen Vind jouw volgende bestemming",
+          "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+              "anchor_text": "Keuzehulp Land Kiezen\nVind jouw volgende bestemming"
+            }
+          ]
+        },
+        {
+          "text": "Backpack Kiezer Vind de juiste rugzak voor je reis",
+          "url": "https://packlightly.nl/tool/backpack-kiezer/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/backpack-kiezer/",
+              "anchor_text": "Backpack Kiezer\nVind de juiste rugzak voor je reis"
+            }
+          ]
+        },
+        {
+          "text": "Hotel & Hostel Zoeker Vergelijk verblijven over boekingssites",
+          "url": "https://packlightly.nl/tool/hotel-hostel-zoeker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/hotel-hostel-zoeker/",
+              "anchor_text": "Hotel & Hostel Zoeker\nVergelijk verblijven over boekingssites"
+            }
+          ]
+        },
+        {
+          "text": "Reisverzekering Vergelijken Dekking afgestemd op reis en budget",
+          "url": "https://packlightly.nl/tool/reisverzekering-vergelijken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reisverzekering-vergelijken/",
+              "anchor_text": "Reisverzekering Vergelijken\nDekking afgestemd op reis en budget"
+            }
+          ]
+        },
+        {
+          "text": "Visum Checker Toegangsregels voor jouw paspoort",
+          "url": "https://packlightly.nl/tool/visum-checker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/visum-checker/",
+              "anchor_text": "Visum Checker\nToegangsregels voor jouw paspoort"
+            }
+          ]
+        },
+        {
+          "text": "Reisveiligheidskaart Risiconiveaus en waar je op moet letten",
+          "url": "https://packlightly.nl/tool/reisveiligheidskaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reisveiligheidskaart/",
+              "anchor_text": "Reisveiligheidskaart\nRisiconiveaus en waar je op moet letten"
+            }
+          ]
+        },
+        {
+          "text": "Activiteiten Marktplaats Tours, tickets en dagtripjes per land",
+          "url": "https://packlightly.nl/tool/activiteiten-marktplaats/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/activiteiten-marktplaats/",
+              "anchor_text": "Activiteiten Marktplaats\nTours, tickets en dagtripjes per land"
+            }
+          ]
+        },
+        {
+          "text": "Vervoer Vergelijken Vlieg, trein, bus of ferry naast elkaar",
+          "url": "https://packlightly.nl/tool/vervoer-vergelijken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/vervoer-vergelijken/",
+              "anchor_text": "Vervoer Vergelijken\nVlieg, trein, bus of ferry naast elkaar"
+            }
+          ]
+        },
+        {
+          "text": "Klimaatgericht, persona-gericht, met mening. Geen 'voor de zekerheid' chaos meer.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Stranden, tempels, verborgen plekken en uitzichtpunten: per land in kaart gebracht.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://packlightly.nl/sri-lanka/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Beste reistijd wereldkaart",
+          "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+              "anchor_text": "Beste reistijd wereldkaart"
+            }
+          ]
+        },
+        {
+          "text": "Budget calculator",
+          "url": "https://packlightly.nl/tool/budget-calculator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/budget-calculator/",
+              "anchor_text": "Budget calculator"
+            }
+          ]
+        },
+        {
+          "text": "Dieren wereldkaart",
+          "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+              "anchor_text": "Dieren wereldkaart"
+            }
+          ]
+        },
+        {
+          "text": "Keuzehulp land",
+          "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+              "anchor_text": "Keuzehulp land"
+            }
+          ]
+        },
+        {
+          "text": "Landen vergelijker",
+          "url": "https://packlightly.nl/tool/landen-vergelijker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/landen-vergelijker/",
+              "anchor_text": "Landen vergelijker"
+            }
+          ]
+        },
+        {
+          "text": "Lokaal eten en drinken",
+          "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+              "anchor_text": "Lokaal eten en drinken"
+            }
+          ]
+        },
+        {
+          "text": "Mobiele data berekenen",
+          "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+              "anchor_text": "Mobiele data berekenen"
+            }
+          ]
+        },
+        {
+          "text": "Paklijst generator",
+          "url": "https://packlightly.nl/tool/paklijst-generator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/paklijst-generator/",
+              "anchor_text": "Paklijst generator"
+            }
+          ]
+        },
+        {
+          "text": "Vaccinatie wereldkaart",
+          "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+              "anchor_text": "Vaccinatie wereldkaart"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Travel prepared, not overpacked.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Onafhankelijke reistools en eerlijke bestemmingsgidsen voor wie zijn reis zelf plant.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Cookies laten ons zien welke gidsen en tools reizigers echt gebruiken, zodat we ze beter kunnen maken. We tonen geen advertenties en verkopen je gegevens nooit. Jij bepaalt wat we mogen gebruiken. Lees ons cookiebeleid",
+          "url": "https://packlightly.nl/privacyverklaring/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/privacyverklaring/",
+              "anchor_text": "Lees ons cookiebeleid"
+            }
+          ]
+        },
+        {
+          "text": "Noodzakelijke cookies houden de site werkend en staan altijd aan. Zet de rest aan of uit en sla op. Je kunt dit op elk moment wijzigen.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Deze houden Pack Lightly werkend: ze onthouden je cookiekeuze en sturen je naar de juiste pagina. De site kan niet goed functioneren zonder deze cookies, daarom is hiervoor geen toestemming nodig.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Deze helpen ons zien welke tools en gidsen reizigers daadwerkelijk gebruiken, zodat we ze kunnen verbeteren. We gebruiken Google Analytics 4 en Microsoft Clarity. Geen advertenties, geen verkoop van je gegevens.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We tonen geen advertentiebanners op Pack Lightly. Klik je op een partnerlink voor een hotel, vlucht of activiteit, dan kan de partner een cookie plaatsen zodat wij krediet krijgen voor de verwijzing, zonder extra kosten voor jou. Zet dit uit om je af te melden.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Pack Lightly is een platform voor reisplanning. Onze eigen analytics zijn first-party en bevatten geen persoonlijke gegevens. Voor het volledige overzicht: lees de documenten hieronder. Wil je je toestemming later wijzigen of intrekken, open dan Cookie-instellingen via de knop onderaan elke pagina.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Sri Lanka",
+          "url": "https://packlightly.nl/sri-lanka/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Verenigd Koninkrijk",
+          "url": "https://packlightly.nl/verenigd-koninkrijk/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/verenigd-koninkrijk/",
+              "anchor_text": "Verenigd Koninkrijk"
+            }
+          ]
+        },
+        {
+          "text": "Verenigde Staten",
+          "url": "https://packlightly.nl/verenigde-staten/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/verenigde-staten/",
+              "anchor_text": "Verenigde Staten"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica",
+          "url": "https://packlightly.nl/costa-rica/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/costa-rica/",
+              "anchor_text": "Costa Rica"
+            }
+          ]
+        },
+        {
+          "text": "Dominicaanse Republiek",
+          "url": "https://packlightly.nl/dominicaanse-republiek/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/dominicaanse-republiek/",
+              "anchor_text": "Dominicaanse Republiek"
+            }
+          ]
+        },
+        {
+          "text": "Keuzehulp landen",
+          "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+              "anchor_text": "Keuzehulp landen"
+            }
+          ]
+        },
+        {
+          "text": "Landen vergelijken",
+          "url": "https://packlightly.nl/tool/landen-vergelijker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/landen-vergelijker/",
+              "anchor_text": "Landen vergelijken"
+            }
+          ]
+        },
+        {
+          "text": "Beste reistijd",
+          "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+              "anchor_text": "Beste reistijd"
+            }
+          ]
+        },
+        {
+          "text": "Vervoer vergelijken",
+          "url": "https://packlightly.nl/tool/vervoer-vergelijken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/vervoer-vergelijken/",
+              "anchor_text": "Vervoer vergelijken"
+            }
+          ]
+        },
+        {
+          "text": "Reisvaluta omrekenen",
+          "url": "https://packlightly.nl/tool/reisvaluta-omrekenen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reisvaluta-omrekenen/",
+              "anchor_text": "Reisvaluta omrekenen"
+            }
+          ]
+        },
+        {
+          "text": "Slimme vluchtsplitser",
+          "url": "https://packlightly.nl/tool/slimme-vluchtsplitser/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/slimme-vluchtsplitser/",
+              "anchor_text": "Slimme vluchtsplitser"
+            }
+          ]
+        },
+        {
+          "text": "Hotel- en hostelzoeker",
+          "url": "https://packlightly.nl/tool/hotel-hostel-zoeker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/hotel-hostel-zoeker/",
+              "anchor_text": "Hotel- en hostelzoeker"
+            }
+          ]
+        },
+        {
+          "text": "Backpack kiezer",
+          "url": "https://packlightly.nl/tool/backpack-kiezer/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/backpack-kiezer/",
+              "anchor_text": "Backpack kiezer"
+            }
+          ]
+        },
+        {
+          "text": "Paklijst generator",
+          "url": "https://packlightly.nl/tool/paklijst-generator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/paklijst-generator/",
+              "anchor_text": "Paklijst generator"
+            }
+          ]
+        },
+        {
+          "text": "Activiteiten marktplaats",
+          "url": "https://packlightly.nl/tool/activiteiten-marktplaats/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/activiteiten-marktplaats/",
+              "anchor_text": "Activiteiten marktplaats"
+            }
+          ]
+        },
+        {
+          "text": "Mobiele data en eSIM",
+          "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+              "anchor_text": "Mobiele data en eSIM"
+            }
+          ]
+        },
+        {
+          "text": "Reisverzekering vergelijken",
+          "url": "https://packlightly.nl/tool/reisverzekering-vergelijken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reisverzekering-vergelijken/",
+              "anchor_text": "Reisverzekering vergelijken"
+            }
+          ]
+        },
+        {
+          "text": "Interactieve reiskaart",
+          "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+              "anchor_text": "Interactieve reiskaart"
+            }
+          ]
+        },
+        {
+          "text": "Lokaal eten en drinken",
+          "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+              "anchor_text": "Lokaal eten en drinken"
+            }
+          ]
+        },
+        {
+          "text": "Dieren wereldkaart",
+          "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+              "anchor_text": "Dieren wereldkaart"
+            }
+          ]
+        },
+        {
+          "text": "Over Pack Lightly",
+          "url": "https://packlightly.nl/over-pack-lightly/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/over-pack-lightly/",
+              "anchor_text": "Over Pack Lightly"
+            }
+          ]
+        },
+        {
+          "text": "Veelgestelde vragen",
+          "url": "https://packlightly.nl/veelgestelde-vragen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/veelgestelde-vragen/",
+              "anchor_text": "Veelgestelde vragen"
+            }
+          ]
+        },
+        {
+          "text": "Alle reistools",
+          "url": "https://packlightly.nl/tool/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/",
+              "anchor_text": "Alle reistools"
+            }
+          ]
+        },
+        {
+          "text": "Reisplanner app",
+          "url": "https://app.pack-lightly.com/plan",
+          "urls": [
+            {
+              "url": "https://app.pack-lightly.com/plan",
+              "anchor_text": "Reisplanner app"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelplekken Sri Lanka",
+          "url": "https://packlightly.nl/sri-lanka/snorkelen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sri-lanka/snorkelen/",
+              "anchor_text": "Snorkelplekken Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Wat te doen in Chongqing",
+          "url": "https://packlightly.nl/china/chongqing/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/china/chongqing/",
+              "anchor_text": "Wat te doen in Chongqing"
+            }
+          ]
+        },
+        {
+          "text": "Verkeer in de Filipijnen",
+          "url": "https://packlightly.nl/filipijnen/verkeer/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/filipijnen/verkeer/",
+              "anchor_text": "Verkeer in de Filipijnen"
+            }
+          ]
+        },
+        {
+          "text": "Reiskosten Kazachstan",
+          "url": "https://packlightly.nl/kazachstan/kosten/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/kazachstan/kosten/",
+              "anchor_text": "Reiskosten Kazachstan"
+            }
+          ]
+        },
+        {
+          "text": "Niet-toeristische plekken Indonesie",
+          "url": "https://packlightly.nl/indonesie/niet-toeristisch/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/indonesie/niet-toeristisch/",
+              "anchor_text": "Niet-toeristische plekken Indonesie"
+            }
+          ]
+        },
+        {
+          "text": "Oman eten en drinken",
+          "url": "https://packlightly.nl/oman/eten-drinken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/oman/eten-drinken/",
+              "anchor_text": "Oman eten en drinken"
+            }
+          ]
+        },
+        {
+          "text": "Beste reistijd Sri Lanka",
+          "url": "https://packlightly.nl/sri-lanka/beste-reistijd/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sri-lanka/beste-reistijd/",
+              "anchor_text": "Beste reistijd Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "De complete paklijst",
+          "url": "https://packlightly.nl/paklijst/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/paklijst/",
+              "anchor_text": "De complete paklijst"
+            }
+          ]
+        },
+        {
+          "text": "Wat kost reizen",
+          "url": "https://packlightly.nl/wat-kost-reizen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/wat-kost-reizen/",
+              "anchor_text": "Wat kost reizen"
+            }
+          ]
+        },
+        {
+          "text": "Beste reisbestemmingen per maand",
+          "url": "https://packlightly.nl/beste-reisbestemmingen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/beste-reisbestemmingen/",
+              "anchor_text": "Beste reisbestemmingen per maand"
+            }
+          ]
+        },
+        {
+          "text": "Dieren spotten wereldwijd",
+          "url": "https://packlightly.nl/dieren-spotten-wereldwijd/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/dieren-spotten-wereldwijd/",
+              "anchor_text": "Dieren spotten wereldwijd"
+            }
+          ]
+        },
+        {
+          "text": "Wat te eten wereldwijd",
+          "url": "https://packlightly.nl/wat-te-eten-wereldwijd/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/wat-te-eten-wereldwijd/",
+              "anchor_text": "Wat te eten wereldwijd"
+            }
+          ]
+        },
+        {
+          "text": "Mooiste plekken wereldwijd",
+          "url": "https://packlightly.nl/mooiste-plekken-wereldwijd/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/mooiste-plekken-wereldwijd/",
+              "anchor_text": "Mooiste plekken wereldwijd"
+            }
+          ]
+        },
+        {
+          "text": "Visum en toegangseisen",
+          "url": "https://packlightly.nl/visum-en-toegangseisen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/visum-en-toegangseisen/",
+              "anchor_text": "Visum en toegangseisen"
+            }
+          ]
+        },
+        {
+          "text": "Veilig reizen",
+          "url": "https://packlightly.nl/veilig-reizen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/veilig-reizen/",
+              "anchor_text": "Veilig reizen"
+            }
+          ]
+        },
+        {
+          "text": "Solo reizen",
+          "url": "https://packlightly.nl/solo-reizen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/solo-reizen/",
+              "anchor_text": "Solo reizen"
+            }
+          ]
+        },
+        {
+          "text": "Reizen met gezin",
+          "url": "https://packlightly.nl/reizen-met-gezin/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/reizen-met-gezin/",
+              "anchor_text": "Reizen met gezin"
+            }
+          ]
+        },
+        {
+          "text": "Reizen met partner",
+          "url": "https://packlightly.nl/reizen-met-partner/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/reizen-met-partner/",
+              "anchor_text": "Reizen met partner"
+            }
+          ]
+        },
+        {
+          "text": "Reizen met vrienden",
+          "url": "https://packlightly.nl/reizen-met-vrienden/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/reizen-met-vrienden/",
+              "anchor_text": "Reizen met vrienden"
+            }
+          ]
+        },
+        {
+          "text": "Reizen 50-plus",
+          "url": "https://packlightly.nl/reizen-50-plus/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/reizen-50-plus/",
+              "anchor_text": "Reizen 50-plus"
+            }
+          ]
+        },
+        {
+          "text": "Zermatt vs St Moritz: Welke kies je voor een wintertrip?",
+          "url": "https://packlightly.nl/zermatt-vs-st-moritz/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/zermatt-vs-st-moritz/",
+              "anchor_text": "Zermatt vs St Moritz: Welke kies je voor een wintertrip?"
+            }
+          ]
+        },
+        {
+          "text": "Wroclaw vs Krakau: Welke past bij jouw reisplannen?",
+          "url": "https://packlightly.nl/wroclaw-vs-krakau/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/wroclaw-vs-krakau/",
+              "anchor_text": "Wroclaw vs Krakau: Welke past bij jouw reisplannen?"
+            }
+          ]
+        },
+        {
+          "text": "Vilnius vs Riga: Welke stad past het beste bij jouw weekend?",
+          "url": "https://packlightly.nl/vilnius-vs-riga/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/vilnius-vs-riga/",
+              "anchor_text": "Vilnius vs Riga: Welke stad past het beste bij jouw weekend?"
+            }
+          ]
+        },
+        {
+          "text": "San Sebastian versus Bilbao: Welke past het beste bij jouw reis?",
+          "url": "https://packlightly.nl/san-sebastian-vs-bilbao/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/san-sebastian-vs-bilbao/",
+              "anchor_text": "San Sebastian versus Bilbao: Welke past het beste bij jouw reis?"
+            }
+          ]
+        },
+        {
+          "text": "Parijs vs Milaan: Welke past het beste bij jou?",
+          "url": "https://packlightly.nl/parijs-vs-milaan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/parijs-vs-milaan/",
+              "anchor_text": "Parijs vs Milaan: Welke past het beste bij jou?"
+            }
+          ]
+        },
+        {
+          "text": "Algemene voorwaarden",
+          "url": "https://packlightly.nl/algemene-voorwaarden/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/algemene-voorwaarden/",
+              "anchor_text": "Algemene voorwaarden"
+            }
+          ]
+        },
+        {
+          "text": "Affiliate referral cookies",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Algemene voorwaarden",
+          "url": "https://packlightly.nl/algemene-voorwaarden/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/algemene-voorwaarden/",
+              "anchor_text": "Algemene voorwaarden"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Top 6 beste plekken in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "De geur van versgebakken kleefrijst waait door de straten van de Phra Lap-markt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Khon Kaen is een grote studentenstad in Isaan, Thailand, met een moderne uitstraling en een bloeiende eetcultuur. De stad heeft een bevolking van ongeveer 200.000 en ligt op 450 km van Bangkok. Bezoekers komen voor de lokale markten, de unieke gerechten en de nabijgelegen dinosaurussites. De combinatie van cultuur en gastronomie maakt het een interessante bestemming voor reizigers.",
+            "url": "https://packlightly.nl/thailand/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/",
+                "anchor_text": "Thailand"
+              },
+              {
+                "url": "https://packlightly.nl/thailand/bangkok/",
+                "anchor_text": "Bangkok"
+              },
+              {
+                "url": "https://packlightly.nl/thailand/cultuur/",
+                "anchor_text": "cultuur"
+              }
+            ]
+          },
+          {
+            "text": "In Khon Kaen zijn de Phra Lap-markt, het dinosaurussite en het negen-tiers tempelcomplex de belangrijkste attracties die je niet wilt missen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Waarom Khon Kaen bezoeken",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Top things to do in Khon Kaen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "24 hours in Khon Kaen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Best time to visit Khon Kaen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe kom je in Khon Kaen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waar te verblijven in Khon Kaen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waar te eten en drinken in Khon Kaen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dagelijkse kosten voor Khon Kaen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Praktische tips voor Khon Kaen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Veelgestelde vragen over Khon Kaen",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Belangrijkste punten",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Bezoek de Phra Lap-markt op zaterdag voor lokale delicatessen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het dinosaurussite ligt op 60 km van het stadscentrum.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De negen-tiers tempel is dagelijks geopend van 08:00 tot 17:00.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Probeer de lokale specialiteit ‘som tam’ voor ~€2.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Khon Kaen heeft jaarlijks een foodfestival in december.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waarom Khon Kaen bezoeken",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Khon Kaen onderscheidt zich van nabijgelegen bestemmingen zoals Udon Thani en Nakhon Ratchasima door zijn moderne uitstraling en levendige eetcultuur. De stad is een belangrijk centrum voor studenten en biedt unieke ervaringen, zoals de negenlaagse tempel aan het meer. Dit maakt het een ideale plek voor reizigers die willen genieten van lokale gerechten en cultuur.",
+            "url": "https://packlightly.nl/thailand/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/",
+                "anchor_text": "Udon Thani"
+              },
+              {
+                "url": "https://packlightly.nl/thailand/nakhon-ratchasima/",
+                "anchor_text": "Nakhon Ratchasima"
+              }
+            ]
+          },
+          {
+            "text": "De negenlaagse Wat Nong Wang tempel met uitzicht op het Khon Kaen-meer.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Lokale markten zoals de Ton Tann-markt, perfect voor authentieke streetfood.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dinosaurussites in de buurt, zoals Phu Wiang, voor een unieke dagtrip.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De stad heeft een bloeiende koffiecultuur met lokale branderijen die unieke smaken aanbieden.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Geschikt voor",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Foodies en cultuurliefhebbers zullen Khon Kaen waarderen, vooral koppels en gezinnen die op zoek zijn naar authentieke ervaringen zonder de drukte van toeristische hotspots.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Top things to do in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Khon Kaen biedt een unieke mix van cultuur en lokale levensstijl, met een bloeiende eetcultuur die de regio weerspiegelt. Begin met een bezoek aan de indrukwekkende Wat Nong Wang, een tempel die het hart van de stad en zijn tradities belichaamt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Deze negen verdiepingen tellende tempel is een must-see voor zijn architectuur en spirituele betekenis.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bij Wat Nong Wang beklim je de trappen naar de top voor een panoramisch uitzicht over het Khon Kaen-meer. De tempel is rijk aan kunst en geschiedenis, met prachtige muurschilderingen die het leven van Boeddha uitbeelden. Het is een plek waar zowel lokale bewoners als toeristen samenkomen om te bidden en te mediteren.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit is de meest iconische tempel van de stad, terwijl andere tempels minder bekend zijn en vaak minder bezoekers trekken.",
+            "url": "https://packlightly.nl/thailand/tempel/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/tempel/",
+                "anchor_text": "tempels"
+              }
+            ]
+          },
+          {
+            "text": "Wanneer: Bezoek in de vroege ochtend of late namiddag voor de mooiste lichtomstandigheden en minder drukte.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: Free",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Duur: 1-2 uur",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: De tempel ligt op ongeveer 10 minuten lopen van het stadscentrum, bereikbaar via de Thanon Pracha Uthit.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een levendige markt waar je de lokale keuken kunt proeven en de cultuur kunt ervaren.",
+            "url": "https://packlightly.nl/thailand/eten-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/eten-drinken/",
+                "anchor_text": "lokale keuken"
+              }
+            ]
+          },
+          {
+            "text": "De Khon Kaen Food Market is een waar festijn voor de zintuigen, met kraampjes vol vers bereide gerechten zoals som tam (papajasalade) en khao soi (noedelsoep). Hier ontmoet je lokale verkopers die trots hun ambachtelijke producten aanbieden, en je kunt zelfs deelnemen aan kookdemonstraties.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Deze markt biedt een authentieke ervaring die je niet vindt in toeristische restaurants, met de kans om met locals te praten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Ga in de avond, wanneer de markt het drukst en levendigst is, meestal van 17:00 tot 22:00.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: ~$5",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Duur: 2-3 uur",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: De markt ligt op ongeveer 15 minuten met de taxi van het stadscentrum, aan de Thanon Mittraphap.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een historische stupa met een prachtig uitzicht over de stad en omgeving.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Phra That Khao Noi is een belangrijke boeddhistische site die je bereikt via een korte klim. Bovenaan geniet je van een adembenemend uitzicht over Khon Kaen en het omliggende landschap. De serene sfeer maakt het een ideale plek voor reflectie en fotografie.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit is een rustige plek vergeleken met andere toeristische attracties, perfect voor een ontsnapping aan de drukte.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Het beste is om in de vroege ochtend of late namiddag te gaan voor het mooiste licht.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: Neem een taxi of huur een scooter vanuit het centrum, het ligt op ongeveer 20 minuten rijden.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een unieke kans om meer te leren over de prehistorische geschiedenis van de regio.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De Dinosaur Fossil Site, gelegen net buiten Khon Kaen, biedt een fascinerende blik op fossielen die miljoenen jaren oud zijn. Je kunt deelnemen aan een rondleiding die je meeneemt langs de opgravingen en leert over de soorten dinosaurussen die hier ooit leefden.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit is een van de weinige plekken in Thailand waar je zo’n directe connectie met de prehistorie kunt ervaren.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Bezoek in de ochtend voor de beste ervaring, vooral in de koelere maanden van november tot februari.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: ~$10",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Duur: Half day",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: Neem een taxi of huur een auto voor de 30 minuten durende rit naar de site.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Top things to do in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Een groene oase in de stad, perfect voor een ontspannen wandeling of picknick.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nong Prajak Park is een groot park met een prachtig meer, waar je kunt wandelen, fietsen of gewoon genieten van de natuur. Het park is populair bij locals voor joggen en biedt verschillende zitplaatsen om te ontspannen en te genieten van het uitzicht.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit park biedt een rustige ontsnapping uit de drukte van de stad, iets wat andere attracties niet bieden.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Het is het beste om in de vroege ochtend of late namiddag te gaan om de hitte te vermijden.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: Free",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Duur: 1-2 uur",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: Het park ligt op ongeveer 10 minuten lopen van het stadscentrum, bereikbaar via de Thanon Pracha Uthit.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een levendige avondmarkt waar je kunt genieten van lokale snacks en handwerk.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De Khon Kaen Night Bazaar is een populaire plek voor zowel locals als toeristen, met een breed scala aan eetkraampjes en souvenirwinkels. Hier kun je genieten van lokale lekkernijen zoals gegrilde vis en vers fruit, terwijl je door de kraampjes slentert.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het biedt een informele sfeer en de kans om de lokale cultuur te ervaren zonder grote drukte.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Bezoek in de avond, van 17:00 tot 23:00, voor de beste ervaring.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: ~$5",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: De bazaar ligt op ongeveer 15 minuten lopen van het stadscentrum, aan de Thanon Mittraphap.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "24 hours in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Deze dag in Khon Kaen is perfect voor de nieuwsgierige reiziger die de lokale cultuur en de levendige eetcultuur wil ervaren. Het biedt een mix van markten, authentieke gerechten en een ontspannen avondwandeling.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Ochtend",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Begin de dag vroeg met een bezoek aan de Talat Khao Markt, waar je rond 08:00 de levendige sfeer kunt proeven. Hier vind je lokale producten en streetfood; probeer zeker de kleefrijst met mango van een van de kraampjes. De ochtendlicht maakt de kleuren van de groenten en fruit extra levendig, perfect voor een paar foto’s. Na de markt is een stop bij een lokaal café voor een kopje koffie aan te raden, zoals Café de Niche, waar je kunt genieten van een rustige sfeer.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Middag",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Rond 12:00 is het tijd voor een lunch bij een van de populaire restaurants in de buurt, zoals de Isaan Food Corner, waar je kunt genieten van gerechten zoals som tam (papajasalade) en laab (gekruid vlees). Na de lunch is een bezoek aan het Khon Kaen Museum of Fine Arts een goede keuze; het biedt inzicht in de lokale kunst en cultuur. Dit museum is niet druk, dus je kunt in alle rust rondkijken en de unieke exposities waarderen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Avond",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Na een ontspannen middag, ga je rond 18:00 naar het Bueng Kaen Nakhon, een prachtig meer waar je een mooie zonsondergang kunt zien. Neem een wandeling langs de oever en geniet van de rust. Voor het diner kun je terecht bij een van de visrestaurants aan het meer, zoals het populaire Seafood Restaurant, waar je verse visgerechten kunt proeven. De avond is perfect om te ontspannen en de lokale sfeer op te snuiven.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Als je een tweede dag hebt",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Als er een tweede dag is, bezoek dan de Phra That Khao Noi, een indrukwekkende tempel met uitzicht over de stad. Daarnaast is een trip naar het Dinosaur Museum in de buurt een interessante optie voor een unieke ervaring.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Best time to visit Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "In Khon Kaen zijn de maanden van november tot februari ideaal voor buitenactiviteiten, met gemiddelde temperaturen tussen 68°F en 86°F. De hitte in maart en april kan de activiteiten beperken, terwijl de regenseizoenen van mei tot oktober vaak leiden tot onbetrouwbaar weer. Dit kan invloed hebben op de toegankelijkheid van lokale markten en buitenlocaties. De regenval is het hoogst in september, wat kan leiden tot gesloten paden en minder mogelijkheden voor verkenning.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Weer per maand",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "koel en droog, ideaal voor verkenning",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "warm en droog, perfect voor buitenactiviteiten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "heet, minder comfortabel voor lange dagen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "zeer heet, vermijd lange buitenactiviteiten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "warm en nat, minder geschikt voor buiten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "vochtig en nat, beperkte activiteiten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "koeler, maar veel regen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "vochtig en nat, niet ideaal voor verkenning",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "hoogste regenval, activiteiten vaak beperkt",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "afnemende regen, begin van het hoogseizoen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "koel en droog, perfect voor buitenactiviteiten",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vanaf de luchthaven",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "De snelste en meest praktische optie is een taxi of Grab vanaf de luchthaven, die ongeveer €6-€8 kost en 20 minuten duurt. Er is geen directe shuttle, dus taxi’s zijn ter plekke te regelen bij de aankomsthal, zonder vooraf boeken.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vervoer in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "De stad is overzichtelijk en de meeste lokale verplaatsingen gaan per songthaew (gedeelde pickup). Voor reizigers die gericht op eten en cultuur zijn, is het huren van een scooter de beste keuze om flexibel te blijven. Wandelen kan in het centrum, maar voor markten en tempels net buiten het centrum is een scooter handiger.",
+            "url": "https://packlightly.nl/thailand/phuket/tempels/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/phuket/tempels/",
+                "anchor_text": "tempels"
+              }
+            ]
+          },
+          {
+            "text": "Songthaew: goedkoop en lokaal, ideaal voor korte ritten binnen de stad, kosten ~ $0,50-$1 per rit",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Scooter huren: beste optie voor zelfstandige food- en cultuurliefhebbers, €6-€8 per dag, tankkosten laag",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Taxi of Grab: handig voor comfort of avondvervoer, €3-€5 per rit binnen de stad",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Phu Wiang Nationaal Park",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Dinosaurusskeletten en fossielen bekijken in een rustig natuurgebied.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waarom: Hier ligt een van de belangrijkste fossiele vindplaatsen van Thailand, met een klein museum en wandelroutes die het verhaal van de regio vertellen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sla over als: Als je weinig tijd hebt en vooral in de stad wilt blijven.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Wat Nong Wang",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De negen verdiepingen tellende tempel met uitzicht over de stad en een lokale markt ernaast.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waarom: De tempel is een symbool van Khon Kaen en combineert religie met een levendige buurtmarkt die lokale snacks en ambachten aanbiedt.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Ban Phai Food Market",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Een authentieke Isaan-markt met regionale gerechten en verse producten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waarom: De markt is minder toeristisch dan die in het centrum en biedt een diepere blik in de lokale eetcultuur en ingrediënten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sla over als: Als je al veel markten in Khon Kaen hebt bezocht.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "7-daagse Isaan cultuurroute Udon Thani → Khon Kaen → Nakhon Ratchasima",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Deze route volgt de grote steden in Isaan met elk een eigen culturele focus, goed bereikbaar per bus of trein, en biedt een mix van moderne stadslevensstijl en archeologische sites.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waar te verblijven in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "In Khon Kaen kiezen reizigers vaak voor de wijken rondom het stadscentrum en de universiteit, waar een levendige sfeer heerst en veel eetgelegenheden te vinden zijn. De gebieden nabij het Khon Kaen Lake bieden rust en een mooi uitzicht, terwijl de oude stad meer culturele ervaringen biedt.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Budget — Centrum van Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "$10-$20 per nacht, 2026 · Hostelworld",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hostels en eenvoudige guesthouses bieden een betaalbare optie voor backpackers en budgetreizigers. Deze accommodaties zijn vaak basic, maar bieden de mogelijkheid om andere reizigers te ontmoeten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Vraag naar de kamers aan de achterkant voor minder geluid van de straat.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Middenklasse — Rondom Khon Kaen Lake",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "$30-$60 per nacht, 2026 · Booking.com",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Familie-run hotels en boutique hotels bieden een comfortabele ervaring met lokale charme. Ze zijn vaak goed gelegen en hebben extra voorzieningen zoals een restaurant of zwembad.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Boek een kamer met uitzicht op het meer voor een prachtig uitzicht bij zonsopgang.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waar te eten en drinken in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Khon Kaen staat bekend om zijn unieke Isaan-keuken, die zich onderscheidt door het gebruik van lokale ingrediënten zoals sticky rice en verse kruiden. De stad heeft een levendige eetcultuur, met markten en eetgelegenheden die de authentieke smaken van de regio weerspiegelen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Lokale dranken",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Nam Manao (Limoenwater) Te vinden bij bijna elke eetgelegenheid of straatkraam.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een verfrissende drank gemaakt van limoensap, suiker en water.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Cha Yen (Thaise ijsthee) Probeer het bij de lokale cafés in de buurt van de universiteit.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een zoete, gekoelde thee met een vleugje melk en suiker.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hoe eet je als een local in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De meeste locals eten hun hoofdmaaltijd rond 12:00 uur, wanneer de meeste eetgelegenheden druk zijn. Veel restaurants sluiten ’s avonds vroeg, dus plan je diner vroeg of geniet van een late lunch.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dagelijkse kosten voor Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Khon Kaen biedt over het algemeen lage kosten in Thailand, vooral door de aanwezigheid van lokale markten en een minder toeristische infrastructuur. Dit maakt het een aantrekkelijke bestemming voor reizigers die op hun budget willen letten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bare botten",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "lodging — eenvoudige guesthouse of hostel",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "food — lokale eetgelegenheden en straatvoedsel",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "transport — openbaar vervoer of fietsen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "activities — toegang tot lokale markten of tempels",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "buffer — kleine uitgaven",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat je inlevert: Bij deze kosten moet je inleveren op comfort en luxe.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Comfort",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "lodging — middenklasse hotel",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "food — restaurants met lokale en internationale gerechten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "transport — taxi’s of huurauto",
+            "url": "https://packlightly.nl/thailand/verkeer/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/verkeer/",
+                "anchor_text": "huurauto"
+              }
+            ]
+          },
+          {
+            "text": "activities — georganiseerde tours of toegang tot attracties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "buffer — extra uitgaven",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat je inlevert: Je geeft op deze manier wat lokale authenticiteit op voor meer comfort.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Luxe",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "lodging — luxe hotel of resort",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "food — dineren in chique restaurants",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "transport — privévervoer of luxe taxi’s",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "activities — exclusieve ervaringen of privé tours",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "buffer — extra uitgaven",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat je inlevert: Bij deze prijs krijg je luxe, maar minder interactie met de lokale cultuur.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Alleen-reizende vrouwen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Solo vrouwelijke reizigers kunnen zich over het algemeen veilig voelen in Khon Kaen, maar het is altijd goed om voorzichtig te zijn, vooral ’s avonds.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Buurt",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "De buurt rond het Khon Kaen University is levendig en biedt veel eet- en uitgaansmogelijkheden.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Vervoer",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Gebruik taxi’s of ride-sharing apps zoals Grab voor veilige ritten ’s avonds.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Mensen ontmoeten",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Bezoek lokale markten of cafés waar je andere reizigers kunt ontmoeten en ervaringen kunt delen.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Veelgestelde vragen over Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Ja, Khon Kaen heeft een levendigere food scene en meer culturele activiteiten. Udon Thani is groter, maar Khon Kaen biedt unieke lokale gerechten en markten die de moeite waard zijn.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De beste tijd is van november tot februari. Dan zijn de temperaturen aangenaam, rond de 25-30°C, en zijn er minder regenbuien.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Twee dagen zijn ideaal. Gebruik de eerste dag voor het verkennen van de stad en de tweede dag voor een bezoek aan de nabijgelegen dinosaurussites.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het eten in Khon Kaen is rijk aan smaken, met een focus op Isaan-gerechten zoals som tam (papajasalade) en laab (gehakt vlees). Probeer ook de lokale rijstgerechten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ja, het is over het algemeen veilig om ’s nachts te wandelen in Khon Kaen, vooral in drukke gebieden. Blijf echter alert en vermijd afgelegen straten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ja, zwemmen in Bueng Kaen Nakhon is mogelijk, maar let op de drukte en de kwaliteit van het water. Het meer is populair voor recreatie.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bereken je mobiele data",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Hoeveel data heb je echt nodig op reis?",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Bereken je mobiele data →",
+            "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+                "anchor_text": "Bereken je mobiele data →"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Sla over als",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Reizigers die op zoek zijn naar bruisend nachtleven of stranden kunnen beter naar Pattaya of Phuket gaan.",
+            "url": "https://packlightly.nl/thailand/stranden/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/stranden/",
+                "anchor_text": "stranden"
+              },
+              {
+                "url": "https://packlightly.nl/thailand/phuket/",
+                "anchor_text": "Phuket"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Insider-tip: Als gesloten",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Bezoek de nabijgelegen Talad Khao Khon Kaen voor een vergelijkbare ervaring.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Insider-tip: Als gesloten",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Bezoek het Khon Kaen Museum voor meer informatie over de lokale geschiedenis.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Boek tours en tickets",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Boeken via deze links steunt Pack Lightly zonder extra kosten voor jou.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Bekijk tours op GetYourGuide →",
+            "url": "https://www.getyourguide.com/s/?q=Khon%20Kaen%20Thailand&partner_id=DOAOTOV",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.com/s/?q=Khon%20Kaen%20Thailand&partner_id=DOAOTOV",
+                "anchor_text": "Bekijk tours op GetYourGuide →"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Kort antwoord",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De beste maanden om Khon Kaen te bezoeken zijn van november tot februari vanwege het milde weer.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Beste maanden",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "November tot februari",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Maanden om te mijden",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Maart tot oktober vanwege de hitte en regen.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Gemiddelde temperatuur (°F)",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hoe kom je in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dichtstbijzijnde luchthaven",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Khon Kaen International Airport (KKC), 15 km / 20 minuten van het centrum",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Andere manieren om er te komen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Bangkok, bus, 5 uur, $10-$15, 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Udon Thani, trein, 2 uur, $5-$8, 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nakhon Ratchasima, bus, 3 uur, $7-$10, 2026",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vermijden",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Vermijd taxi’s zonder meter of vaste prijsafspraken, die kunnen onnodig duur uitvallen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dagtrips vanuit Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Rond Khon Kaen liggen culturele en natuuruitstapjes die de moderne stad afwisselen met lokale tradities en archeologie.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Combineer Khon Kaen met",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Khon Kaen past goed in een reis door het noordoosten van Thailand, met focus op cultuur, eten en regionale historie.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "10-daagse Noordoost Thailand foodtrip Khon Kaen → Roi Et → Ubon Ratchathani",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Voor liefhebbers van regionale gerechten en markten is dit een logische route die steeds verder de authentieke Isaan-keuken laat zien, met korte reistijden tussen steden.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waar je niet moet verblijven",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De buurt rond de drukke markten kan chaotisch zijn en is minder geschikt voor een rustige nachtrust.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vrouwen die alleen reizen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Kies voor een hostel in het centrum met een sterke sociale vibe, waar andere reizigers vaak samenkomen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Boek je verblijf",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Boeken via deze links steunt Pack Lightly zonder extra kosten voor jou.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Gerechten die je moet proberen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Som Tum (Papajasalade)",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Een pittige salade gemaakt van groene papaja, tomaten, pinda’s en een mix van kruiden en specerijen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Ga voor de versie met gedroogde garnalen voor een authentieke smaak.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Larb (Kruidige gehakt salade)",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Een salade van gekruid gehakt (vaak rundvlees of kip), gemengd met limoen, munt en geroosterde rijstpoeder.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Vraag om het extra pittig voor de authentieke Isaan-ervaring.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Khao Niew Mamuang (Mango met kleefrijst)",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Een dessert van zoete mango geserveerd met kleefrijst en kokosmelk.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Probeer het met extra kokosmelk voor een romige smaak.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dieetinfo",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Vegetariërs kunnen het moeilijk hebben, aangezien veel gerechten vlees bevatten; vraag altijd om aanpassingen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bespaartip",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Koop je lokale SIM-kaart bij de 7-Eleven in plaats van op de luchthaven — dat scheelt aanzienlijk in kosten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Luxe die het waard is",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Een diner in een lokaal restaurant dat gespecialiseerd is in Isaan-gerechten, zoals som tam of laab, is de extra kosten waard.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sla over om te besparen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Vermijd dure georganiseerde tours naar de dinosaurussites — zelf met de auto gaan is veel goedkoper en biedt meer flexibiliteit.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Praktische tips voor Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Geld",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Cash of kaart",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "In Khon Kaen is het handig om zowel contant geld als een pinpas bij je te hebben, aangezien niet alle plaatsen creditcards accepteren.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Geldautomaten",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Er zijn voldoende geldautomaten in de stad die werken met buitenlandse kaarten, maar let op dat sommige een extra vergoeding kunnen vragen.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Fooi",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Het is gebruikelijk om een fooi van ongeveer 10% te geven in restaurants, vooral als de service goed is.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Veiligheid",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Khon Kaen is over het algemeen veilig voor reizigers, maar zoals in elke stad is het verstandig om alert te blijven, vooral in drukke gebieden.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Internet",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Mobiele data",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "De mobiele dekking in Khon Kaen is goed, met opties voor lokale SIM-kaarten van providers zoals AIS of TrueMove.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Wi-Fi",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "De meeste cafés en accommodaties bieden gratis wifi, maar de snelheid kan variëren.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Taal",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Hoofdtaal",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Thai",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Engels-niveau",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Engels wordt door sommige mensen gesproken, vooral in toeristische gebieden, maar niet iedereen spreekt het vloeiend.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Top 6 beste plekken in Khon Kaen",
+        "main_title": "Top 6 beste plekken in Khon Kaen",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Copyright © 2026 Pack Lightly",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Hoi, ik ben Wouter",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Oprichter van Pack Lightly",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ik reisde 11 maanden de wereld rond en liep steeds tegen reisinfo aan die verouderd was, ontbrak of gewoon niet klopte. Dus bouwde ik de gids die ik zelf wilde: praktisch, actueel en gratis.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Stranden, tempels en streetfood voor elk budget. Elke Thailand-pagina hier is gemaakt voor first-timers die toch de minder bekende plekken willen zien.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "606+ Thailand-pagina's, in detail Van Bangkok tot de zuidelijke eilanden: elke regio uitgediept, geen dunne samenvatting.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Geen betaalde rankings Keuzes komen uit onderzoek en reizen, niet uit wie betaalt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Elk seizoen bijgewerkt Elke gids heeft een datum, zo zie je dat het nog klopt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Gratis, geen account Geen betaalmuur en geen premium-versie die er later bij komt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Visueel en interactief: tik, vergelijk en krijg snel een echt antwoord.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Budget calculator Kosten per dag in Thailand",
+            "url": "https://packlightly.nl/tool/budget-calculator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/budget-calculator/",
+                "anchor_text": "Budget calculatorKosten per dag in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Paklijst generator Op bestemming en seizoen",
+            "url": "https://packlightly.nl/tool/paklijst-generator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/paklijst-generator/",
+                "anchor_text": "Paklijst generatorOp bestemming en seizoen"
+              }
+            ]
+          },
+          {
+            "text": "Lokaal eten en drinken Typische gerechten van Thailand",
+            "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+                "anchor_text": "Lokaal eten en drinkenTypische gerechten van Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Dieren wereldkaart Olifanten, gibbons en meer",
+            "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+                "anchor_text": "Dieren wereldkaartOlifanten, gibbons en meer"
+              }
+            ]
+          },
+          {
+            "text": "Interactieve reiskaart Ontdek landen op een live kaart",
+            "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+                "anchor_text": "Interactieve reiskaartOntdek landen op een live kaart"
+              }
+            ]
+          },
+          {
+            "text": "Tours & dagtrips via Viator",
+            "url": "https://www.viator.com/?pid=P00246314&mcid=42383&medium=link",
+            "urls": [
+              {
+                "url": "https://www.viator.com/?pid=P00246314&mcid=42383&medium=link",
+                "anchor_text": "Tours & dagtripsvia Viator"
+              }
+            ]
+          },
+          {
+            "text": "Treinen, bussen & veerboten via 12Go",
+            "url": "https://12go.tpx.lv/hSe38fE8",
+            "urls": [
+              {
+                "url": "https://12go.tpx.lv/hSe38fE8",
+                "anchor_text": "Treinen, bussen & veerbotenvia 12Go"
+              }
+            ]
+          },
+          {
+            "text": "Vluchten naar Thailand via Aviasales",
+            "url": "https://aviasales.tpx.lv/F53r6yel",
+            "urls": [
+              {
+                "url": "https://aviasales.tpx.lv/F53r6yel",
+                "anchor_text": "Vluchten naar Thailandvia Aviasales"
+              }
+            ]
+          },
+          {
+            "text": "Hostels & guesthouses via Hostelworld",
+            "url": "https://tp.media/r?campaign_id=93&marker=619687&p=3518&trs=403649&u=https%3A%2F%2Fwww.hostelworld.com%2F",
+            "urls": [
+              {
+                "url": "https://tp.media/r?campaign_id=93&marker=619687&p=3518&trs=403649&u=https%3A%2F%2Fwww.hostelworld.com%2F",
+                "anchor_text": "Hostels & guesthousesvia Hostelworld"
+              }
+            ]
+          },
+          {
+            "text": "Thailand eSIM via Saily",
+            "url": "https://tp.media/r?campaign_id=629&marker=619687&p=8979&trs=403649&u=https%3A%2F%2Fsaily.com%2Fesim-thailand%2F",
+            "urls": [
+              {
+                "url": "https://tp.media/r?campaign_id=629&marker=619687&p=8979&trs=403649&u=https%3A%2F%2Fsaily.com%2Fesim-thailand%2F",
+                "anchor_text": "Thailand eSIMvia Saily"
+              }
+            ]
+          },
+          {
+            "text": "We verdienen mogelijk een commissie, zonder extra kosten voor jou.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dieren spotten",
+            "url": "https://packlightly.nl/thailand/wilde-dieren/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/wilde-dieren/",
+                "anchor_text": "Dieren spotten"
+              }
+            ]
+          },
+          {
+            "text": "Tempels & monumenten",
+            "url": "https://packlightly.nl/thailand/tempel/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/tempel/",
+                "anchor_text": "Tempels & monumenten"
+              }
+            ]
+          },
+          {
+            "text": "Nationale parken",
+            "url": "https://packlightly.nl/thailand/national-parken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/national-parken/",
+                "anchor_text": "Nationale parken"
+              }
+            ]
+          },
+          {
+            "text": "Mooiste eilanden",
+            "url": "https://packlightly.nl/thailand/eilanden/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/eilanden/",
+                "anchor_text": "Mooiste eilanden"
+              }
+            ]
+          },
+          {
+            "text": "Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/",
+                "anchor_text": "Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Beste reistijd wereldkaart",
+            "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+                "anchor_text": "Beste reistijd wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Budget calculator",
+            "url": "https://packlightly.nl/tool/budget-calculator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/budget-calculator/",
+                "anchor_text": "Budget calculator"
+              }
+            ]
+          },
+          {
+            "text": "Dieren wereldkaart",
+            "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+                "anchor_text": "Dieren wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Keuzehulp land",
+            "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+                "anchor_text": "Keuzehulp land"
+              }
+            ]
+          },
+          {
+            "text": "Landen vergelijker",
+            "url": "https://packlightly.nl/tool/landen-vergelijker/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/landen-vergelijker/",
+                "anchor_text": "Landen vergelijker"
+              }
+            ]
+          },
+          {
+            "text": "Lokaal eten en drinken",
+            "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+                "anchor_text": "Lokaal eten en drinken"
+              }
+            ]
+          },
+          {
+            "text": "Mobiele data berekenen",
+            "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+                "anchor_text": "Mobiele data berekenen"
+              }
+            ]
+          },
+          {
+            "text": "Paklijst generator",
+            "url": "https://packlightly.nl/tool/paklijst-generator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/paklijst-generator/",
+                "anchor_text": "Paklijst generator"
+              }
+            ]
+          },
+          {
+            "text": "Vaccinatie wereldkaart",
+            "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+                "anchor_text": "Vaccinatie wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/",
+                "anchor_text": "Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Beste reistijd wereldkaart",
+            "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+                "anchor_text": "Beste reistijd wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Budget calculator",
+            "url": "https://packlightly.nl/tool/budget-calculator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/budget-calculator/",
+                "anchor_text": "Budget calculator"
+              }
+            ]
+          },
+          {
+            "text": "Dieren wereldkaart",
+            "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+                "anchor_text": "Dieren wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Keuzehulp land",
+            "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+                "anchor_text": "Keuzehulp land"
+              }
+            ]
+          },
+          {
+            "text": "Landen vergelijker",
+            "url": "https://packlightly.nl/tool/landen-vergelijker/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/landen-vergelijker/",
+                "anchor_text": "Landen vergelijker"
+              }
+            ]
+          },
+          {
+            "text": "Lokaal eten en drinken",
+            "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+                "anchor_text": "Lokaal eten en drinken"
+              }
+            ]
+          },
+          {
+            "text": "Mobiele data berekenen",
+            "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+                "anchor_text": "Mobiele data berekenen"
+              }
+            ]
+          },
+          {
+            "text": "Paklijst generator",
+            "url": "https://packlightly.nl/tool/paklijst-generator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/paklijst-generator/",
+                "anchor_text": "Paklijst generator"
+              }
+            ]
+          },
+          {
+            "text": "Vaccinatie wereldkaart",
+            "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+                "anchor_text": "Vaccinatie wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Pack Lightly - Travel prepared, Not overpacked",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Opkomende landen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Verenigde Arabische Emiraten",
+            "url": "https://packlightly.nl/verenigde-arabische-emiraten/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/verenigde-arabische-emiraten/",
+                "anchor_text": "Verenigde Arabische Emiraten"
+              }
+            ]
+          },
+          {
+            "text": "Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/",
+                "anchor_text": "Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Alle bestemmingen",
+            "url": "https://packlightly.nl/bestemmingen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/bestemmingen/",
+                "anchor_text": "Alle bestemmingen"
+              }
+            ]
+          },
+          {
+            "text": "Snorkelplekken Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/snorkelen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/snorkelen/",
+                "anchor_text": "Snorkelplekken Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Veelgestelde vragen",
+            "url": "https://packlightly.nl/veelgestelde-vragen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/veelgestelde-vragen/",
+                "anchor_text": "Veelgestelde vragen"
+              }
+            ]
+          },
+          {
+            "text": "Wat te doen in Chongqing",
+            "url": "https://packlightly.nl/china/chongqing/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/china/chongqing/",
+                "anchor_text": "Wat te doen in Chongqing"
+              }
+            ]
+          },
+          {
+            "text": "Verkeer in de Filipijnen",
+            "url": "https://packlightly.nl/filipijnen/verkeer/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/filipijnen/verkeer/",
+                "anchor_text": "Verkeer in de Filipijnen"
+              }
+            ]
+          },
+          {
+            "text": "Kazachstan kosten",
+            "url": "https://packlightly.nl/kazachstan/kosten/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/kazachstan/kosten/",
+                "anchor_text": "Kazachstan kosten"
+              }
+            ]
+          },
+          {
+            "text": "Wat te doen in Nialvelli Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/nilaveli/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/nilaveli/",
+                "anchor_text": "Wat te doen in Nialvelli Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Niet toeristische plekken Indonesië",
+            "url": "https://packlightly.nl/indonesie/niet-toeristisch/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/indonesie/niet-toeristisch/",
+                "anchor_text": "Niet toeristische plekken Indonesië"
+              }
+            ]
+          },
+          {
+            "text": "Matara Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/matara/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/matara/",
+                "anchor_text": "Matara Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Oman eten en drinken",
+            "url": "https://packlightly.nl/oman/eten-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/oman/eten-drinken/",
+                "anchor_text": "Oman eten en drinken"
+              }
+            ]
+          },
+          {
+            "text": "Beste Nederlandse karaoke nummers",
+            "url": "https://packlightly.nl/beste-nederlandse-karaoke-nummers/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/beste-nederlandse-karaoke-nummers/",
+                "anchor_text": "Beste Nederlandse karaoke nummers"
+              }
+            ]
+          },
+          {
+            "text": "Simkaart gegevens overzetten Samsung",
+            "url": "https://packlightly.nl/simkaart-plaatsen-en-gegevens-overzetten-op-je-samsung-smartphone/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/simkaart-plaatsen-en-gegevens-overzetten-op-je-samsung-smartphone/",
+                "anchor_text": "Simkaart gegevens overzetten Samsung"
+              }
+            ]
+          },
+          {
+            "text": "Huurscooter rijden Sri Lanka",
+            "url": "https://packlightly.nl/huurscooter-rijden-sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/huurscooter-rijden-sri-lanka/",
+                "anchor_text": "Huurscooter rijden Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Vergelijking Thailand vs Vietnam",
+            "url": "https://packlightly.nl/vergelijking-thailand-vietnam/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/vergelijking-thailand-vietnam/",
+                "anchor_text": "Vergelijking Thailand vs Vietnam"
+              }
+            ]
+          },
+          {
+            "text": "Beste duet karaoke nummers",
+            "url": "https://packlightly.nl/beste-duet-karaoke-nummers/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/beste-duet-karaoke-nummers/",
+                "anchor_text": "Beste duet karaoke nummers"
+              }
+            ]
+          },
+          {
+            "text": "Vergelijking Thailand vs Sri Lanka",
+            "url": "https://packlightly.nl/vergelijking-thailand-vs-sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/vergelijking-thailand-vs-sri-lanka/",
+                "anchor_text": "Vergelijking Thailand vs Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Algemene voorwaarden | Privacyverklaring | Cookie-instellingen",
+            "url": "https://packlightly.nl/algemene-voorwaarden/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/algemene-voorwaarden/",
+                "anchor_text": "Algemene voorwaarden"
+              },
+              {
+                "url": "https://packlightly.nl/privacyverklaring/",
+                "anchor_text": "Privacyverklaring"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}
