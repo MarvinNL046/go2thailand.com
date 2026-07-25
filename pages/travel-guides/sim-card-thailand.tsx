@@ -4,6 +4,7 @@ import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import guideData from '../../data/travel-guides/sim-card-thailand.json';
+import ThailandEsimSimGuide from '../../components/connectivity/ThailandEsimSimGuide';
 
 interface FAQ {
   question: string;
@@ -17,6 +18,10 @@ interface SimCardGuideProps {
 export default function SimCardThailandPage({ data }: SimCardGuideProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) {
+    return <ThailandEsimSimGuide />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
