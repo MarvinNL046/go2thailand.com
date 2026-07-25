@@ -31,6 +31,7 @@ import { nongKhaiDestinationGuide } from './nong-khai';
 import { chiangKhanDestinationGuide } from './chiang-khan';
 import { nakhonSiThammaratDestinationGuide } from './nakhon-si-thammarat';
 import { nakhonPhanomDestinationGuide } from './nakhon-phanom';
+import { mukdahanDestinationGuide } from './mukdahan';
 
 export const destinationIndexNl = {
   seo: {
@@ -121,10 +122,11 @@ const guides: Record<string, DestinationGuideData> = {
   'chiang-khan': chiangKhanDestinationGuide,
   'nakhon-si-thammarat': nakhonSiThammaratDestinationGuide,
   'nakhon-phanom': nakhonPhanomDestinationGuide,
+  mukdahan: mukdahanDestinationGuide,
 };
 
 export function getNlDestinationGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { ayutthayaDestinationGuide, banKrutDestinationGuide, bangkokDestinationGuide, chanthaburiDestinationGuide, chiangKhanDestinationGuide, chiangMaiDestinationGuide, chiangRaiDestinationGuide, chumphonDestinationGuide, hatYaiDestinationGuide, huaHinDestinationGuide, kanchanaburiDestinationGuide, khonKaenDestinationGuide, lampangDestinationGuide, lopburiDestinationGuide, maeHongSonDestinationGuide, nakhonPhanomDestinationGuide, nakhonRatchasimaDestinationGuide, nakhonSiThammaratDestinationGuide, nongKhaiDestinationGuide, paiDestinationGuide, pattayaDestinationGuide, phitsanulokDestinationGuide, phuketDestinationGuide, rayongDestinationGuide, sukhothaiDestinationGuide, suratThaniDestinationGuide, trangDestinationGuide, tratDestinationGuide, ubonRatchathaniDestinationGuide, udonThaniDestinationGuide, kohSamuiDestinationGuide, khaoSokDestinationGuide };
+export { ayutthayaDestinationGuide, banKrutDestinationGuide, bangkokDestinationGuide, chanthaburiDestinationGuide, chiangKhanDestinationGuide, chiangMaiDestinationGuide, chiangRaiDestinationGuide, chumphonDestinationGuide, hatYaiDestinationGuide, huaHinDestinationGuide, kanchanaburiDestinationGuide, khonKaenDestinationGuide, lampangDestinationGuide, lopburiDestinationGuide, maeHongSonDestinationGuide, mukdahanDestinationGuide, nakhonPhanomDestinationGuide, nakhonRatchasimaDestinationGuide, nakhonSiThammaratDestinationGuide, nongKhaiDestinationGuide, paiDestinationGuide, pattayaDestinationGuide, phitsanulokDestinationGuide, phuketDestinationGuide, rayongDestinationGuide, sukhothaiDestinationGuide, suratThaniDestinationGuide, trangDestinationGuide, tratDestinationGuide, ubonRatchathaniDestinationGuide, udonThaniDestinationGuide, kohSamuiDestinationGuide, khaoSokDestinationGuide };
