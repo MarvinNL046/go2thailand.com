@@ -47,6 +47,7 @@ import { NewLuxuryResortsThailandGuide } from '../../components/hotels/NewLuxury
 import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
 import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
+import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
 
 interface Source {
   name: string;
@@ -218,6 +219,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'thai-massage-guide-types-prices') {
     return <ThaiMassageThailandGuide />;
+  }
+
+  if (locale === 'nl' && post.slug === 'muay-thai-training-camps-thailand-beginners-guide-2026') {
+    return <MuayThaiBeginnerTrainingGuide />;
   }
 
   const breadcrumbs = [
