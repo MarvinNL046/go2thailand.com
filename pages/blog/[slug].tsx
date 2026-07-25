@@ -41,6 +41,7 @@ import { getNlClimateUpdateGuide } from '../../data/climate/nl';
 import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
 import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
+import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
 
 interface Source {
   name: string;
@@ -188,6 +189,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'chatuchak-weekend-market-food-guide') {
     return <ChatuchakFoodGuide />;
+  }
+
+  if (locale === 'nl' && post.slug === 'thai-massage-guide-types-prices') {
+    return <ThaiMassageThailandGuide />;
   }
 
   const breadcrumbs = [
