@@ -4,8 +4,10 @@ import Link from 'next/link';
 import {
   ArrowRight,
   BadgeEuro,
+  Ban,
   CalendarClock,
   Check,
+  Clock3,
   CircleAlert,
   ExternalLink,
   FileCheck2,
@@ -13,6 +15,7 @@ import {
   Home,
   Landmark,
   PlaneTakeoff,
+  RefreshCw,
   Route,
   ShieldCheck,
   Smartphone,
@@ -36,6 +39,7 @@ const sectionNav = [
   { href: '#route' as const, label: 'Kies je route', icon: Route },
   { href: '#bewijs' as const, label: 'Bewijs', icon: FileCheck2 },
   { href: '#aanvragen' as const, label: 'Aanvragen', icon: PlaneTakeoff },
+  { href: '#na-aankomst' as const, label: 'Na aankomst', icon: CalendarClock },
   { href: '#vragen' as const, label: 'Vragen', icon: CircleAlert },
 ];
 
@@ -101,6 +105,11 @@ const faqs = [
   { question: 'Is €100.000 genoeg om in Thailand met pensioen te gaan?', answer: 'Een spaarsaldo zegt niet automatisch of je duurzaam in Thailand kunt wonen. Voor visumgeschiktheid telt de officiële drempel van jouw route; voor je leefplan tellen daarnaast woning, zorgverzekering, inflatie, wisselkoers, belastingen, noodbuffer en gewenste levensstijl. Maak die twee berekeningen los van elkaar.' },
   { question: 'Mag je werken met een retirement visa?', answer: 'De officiële O-A-omschrijving noemt verblijf zonder de intentie om te werken. Behandel een pensioenroute daarom niet als werkvergunning. Voor betaalde werkzaamheden of een andere feitelijke situatie kunnen andere visa en werkregels gelden; laat je situatie officieel beoordelen.' },
   { question: 'Moet je iedere 90 dagen Thailand verlaten?', answer: 'Een 90-dagenadresmelding en de duur van je toegestane verblijf zijn verschillende zaken. Bij een langer toegestaan verblijf kan een meldplicht gelden zonder dat je daardoor automatisch moet uitreizen. Kijk naar je concrete immigratiestempel, verblijfsstatus en actuele Immigration Bureau-regels.' },
+  { question: 'Wat is het verschil tussen visumgeldigheid en toegestane verblijfsduur?', answer: 'De geldigheid van een visum bepaalt in welke periode je het visum voor binnenkomst kunt gebruiken; de toegestane verblijfsduur staat in de toelatingsstempel of bijbehorende immigratiestatus. Een visum dat nog op papier geldig lijkt, geeft daarom niet automatisch dezelfde einddatum als je huidige verblijf. Controleer na iedere binnenkomst de stempel en laat een onduidelijkheid direct door Immigration uitleggen.' },
+  { question: 'Heb je een re-entry permit nodig met een pensioenstatus?', answer: 'Dat hangt af van de precieze status waarmee je Thailand wilt verlaten en terugkeren. Een re-entry permit via formulier TM.8 kan single of multiple worden aangevraagd, maar een multiple-entry visum, een extension of stay en een re-entry permit zijn niet hetzelfde. Vraag vóór vertrek bij Immigration wat jouw huidige stempel nodig heeft; ga niet uit van de naam “retirement visa” alleen.' },
+  { question: 'Kan mijn partner mee op mijn pensioenvisum?', answer: 'Een partner wordt niet automatisch onderdeel van jouw pensioenroute. Is de partner zelf 50+ en voldoet die aan de voorwaarden, dan kan een eigen route mogelijk zijn. De officiële O-A-pagina vermeldt daarnaast dat een niet-kwalificerende echtgenoot of echtgenote voor een tijdelijke Non-O-route kan worden beoordeeld met een gelegaliseerde huwelijksakte. Laat de exacte categorie en documenten door de ambassade bevestigen.' },
+  { question: 'Kun je een Non-O in Thailand verlengen naar een jaar?', answer: 'Een verlenging van verblijf in Thailand is een aparte immigratiebeslissing en niet hetzelfde als de oorspronkelijke Haagse visumaanvraag. De officiële O-A-informatie zegt expliciet dat een jaarverlenging ter beoordeling van de immigratieambtenaar staat. Financiële bewijsperioden, bankdocumenten, adresinformatie en lokale werkwijze kunnen relevant zijn. Controleer daarom vroeg bij het Immigration-kantoor dat jouw aanvraag behandelt.' },
+  { question: 'Is een visumbureau noodzakelijk?', answer: 'Nee, de officiële e-Visa-route is rechtstreeks beschikbaar. Een professionele dienstverlener kan helpen met planning, vertaling of documentcontrole, maar kan goedkeuring niet garanderen en vervangt de ambassade of Immigration niet. Vraag vooraf welke concrete dienst wordt geleverd, welke overheidskosten apart zijn, wie je originele documenten bewaart en of je een schriftelijke factuur en dossierkopie krijgt.' },
 ];
 
 export default function ThailandRetirementVisaGuide() {
@@ -110,7 +119,7 @@ export default function ThailandRetirementVisaGuide() {
   const esimHref = withPlacementSubId(SAILY_GENERIC, 'nl-retirement-visa', 'arrival-connectivity');
 
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Pensioenvisum Thailand: Non-O, O-A en O-X vergelijken', description: 'Nederlandse beslisgids voor de drie belangrijkste Thaise pensioenvisumroutes, met officiële eisen, kosten en bewijsstukken.', url: 'https://go2-thailand.com/nl/visa/retirement-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Pensioenvisum Thailand: Non-O, O-A en O-X vergelijken', description: 'Nederlandse beslisgids voor de drie belangrijkste Thaise pensioenvisumroutes, met officiële eisen, kosten en bewijsstukken.', url: 'https://go2-thailand.com/nl/visa/retirement-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-25' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' },
     { '@type': 'ListItem', position: 2, name: 'Visum Thailand', item: 'https://go2-thailand.com/nl/visa/' },
@@ -166,6 +175,54 @@ export default function ThailandRetirementVisaGuide() {
           { icon: PlaneTakeoff, label: '04', title: 'Controleer vóór vertrek', text: 'Check e-Visa, verzekering, TDAC en de documenten die je bij aankomst nodig hebt.' },
         ].map((step) => { const Icon = step.icon; return <article key={step.title} className="relative rounded-2xl border border-jade/10 bg-white p-6 shadow-editorial-card"><span className="relative z-10 grid h-12 w-12 place-items-center rounded-full border-4 border-canvas bg-jade text-white"><Icon size={19} /></span><p className="mt-5 text-[9px] font-extrabold uppercase tracking-[0.13em] text-saffron-dark">Stap {step.label}</p><h2 className="mt-2 font-display text-2xl font-semibold leading-tight text-jade">{step.title}</h2><p className="mt-3 text-xs font-medium leading-5 text-charcoal/62">{step.text}</p></article>; })}</div><div className="mt-5 grid gap-4 lg:grid-cols-[1.2fr_0.8fr]"><div className="rounded-2xl border border-saffron/25 bg-tonal p-6"><strong className="font-display text-2xl font-semibold text-jade">Betaal pas als route en dossier kloppen.</strong><p className="mt-2 text-xs font-medium leading-6 text-charcoal/64">Aanvraagkosten worden volgens de algemene voorwaarden niet terugbetaald. De ambassade adviseert doorgaans ruim vóór vertrek aan te vragen; controleer de actuele doorlooptijd en vakantiedagen.</p></div><a href={THAI_E_VISA} target="_blank" rel="noopener noreferrer" className="flex items-center justify-between gap-4 rounded-2xl bg-jade p-6 text-white"><span><strong className="block text-sm">Start via Thai e-Visa</strong><span className="mt-1 block text-[10px] text-white/52">Officieel aanvraagplatform</span></span><ExternalLink size={18} className="text-saffron-light" /></a></div></div></section>
 
+        <section id="na-aankomst" className="section-divider-bottom scroll-mt-24 bg-tonal py-16 lg:py-24">
+          <div className="container-custom">
+            <div className="grid overflow-hidden rounded-[30px] border border-jade/10 bg-white shadow-editorial-lift lg:grid-cols-[1.04fr_0.96fr]">
+              <div className="relative min-h-[390px] lg:min-h-[620px]">
+                <Image src="/images/redesign/thailand-retirement-after-arrival.webp" alt="Stel plant verblijfsstempel, adresmelding, verlenging en reizen tijdens een lang verblijf in Thailand" fill sizes="(max-width: 1024px) 100vw, 52vw" className="object-cover object-center" />
+                <div className="absolute inset-0 bg-gradient-to-t from-jade/32 via-transparent to-transparent lg:bg-gradient-to-r" />
+              </div>
+              <div className="p-7 sm:p-10 lg:p-12">
+                <p className="eyebrow">Vier aparte agenda’s</p>
+                <h2 className="font-display text-[2.85rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.55rem]">Na aankomst begint het dossier pas echt.</h2>
+                <p className="mt-5 text-sm font-medium leading-7 text-charcoal/68">De woorden visum, verblijf, melding en terugkeer worden online vaak door elkaar gebruikt. Houd ze als vier afzonderlijke processen bij. De datum in je paspoort en de instructie van de bevoegde instantie gaan altijd vóór een algemene webgids.</p>
+                <div className="mt-7 grid gap-3">
+                  {[
+                    { icon: PlaneTakeoff, label: 'Bij binnenkomst', title: 'Toegelaten verblijf', text: 'Controleer de toegestane einddatum in je toelatingsstempel voordat je de luchthaven verlaat. Visumgeldigheid en verblijfsduur zijn niet automatisch dezelfde klok.' },
+                    { icon: Clock3, label: 'Bij langer verblijf', title: '90-dagenmelding', text: 'Formulier TM.47 noemt de periodieke adresmelding voor wie langer dan 90 dagen blijft en vermeldt expliciet dat deze melding géén verlenging van verblijf is.' },
+                    { icon: RefreshCw, label: 'Vóór de einddatum', title: 'Verlenging van verblijf', text: 'Een verlenging is een nieuwe beoordeling door Immigration. Bereid bank-, adres- en andere actuele stukken ruim op tijd voor en volg het kantoor dat jouw dossier behandelt.' },
+                    { icon: Route, label: 'Vóór uitreizen', title: 'Re-entry beoordelen', text: 'Vraag of jouw huidige status een single of multiple re-entry permit via TM.8 nodig heeft. Vertrek niet op de aanname dat een oude visumsticker je verlengde verblijf vanzelf beschermt.' },
+                  ].map((item) => { const Icon = item.icon; return <article key={item.title} className="grid grid-cols-[42px_1fr] gap-4 rounded-xl border border-jade/10 bg-mist/45 p-4"><span className="grid h-10 w-10 place-items-center rounded-lg border border-saffron/25 bg-canvas text-jade"><Icon size={18} /></span><div><p className="text-[9px] font-extrabold uppercase tracking-[0.13em] text-saffron-dark">{item.label}</p><h3 className="mt-1 text-sm font-extrabold text-jade">{item.title}</h3><p className="mt-2 text-[10px] font-medium leading-5 text-charcoal/64">{item.text}</p></div></article>; })}
+                </div>
+              </div>
+            </div>
+
+            <div className="mt-10 grid gap-5 lg:grid-cols-[0.7fr_1.3fr]">
+              <div>
+                <SectionHeading eyebrow="Werk met een controledatum" title="Niet ieder document leeft even lang." description="Bij O-A en O-X kan een inhoudelijk juist document toch onbruikbaar zijn door leeftijd, vorm of ontbrekende legalisatie. Bouw je dossier daarom terug vanaf de indienweek." />
+                <aside className="mt-7 rounded-2xl border border-saffron/30 bg-canvas p-5"><p className="flex gap-3 text-xs font-extrabold leading-6 text-jade"><CalendarClock size={19} className="mt-0.5 shrink-0 text-saffron-dark" />De Haagse O-A-checklist noemt voor onder meer verblijfsbewijs, medische verklaring en strafregisterverklaring een verificatie van maximaal drie maanden, met legalisatie waar aangegeven.</p></aside>
+              </div>
+              <div className="grid gap-4 sm:grid-cols-2">
+                {[
+                  { title: 'Eerst bevestigen', text: 'Open de actuele categoriechecklist en noteer routecode, bewijsvereiste, geldigheidsduur en vereiste legalisatie. Gebruik geen oude download als enige bron.' },
+                  { title: 'Daarna afspraken', text: 'Plan medische verklaring, strafregister en legalisatie zo dat ze binnen het vereiste venster bij indiening nog bruikbaar zijn. Houd ruimte voor herstel.' },
+                  { title: 'Dan pas uploaden', text: 'Controleer namen, datums, valuta, paginavolgorde en leesbaarheid. Een scan van een verkeerd document wordt niet juist doordat het technisch uploadt.' },
+                  { title: 'Bewaar één dossierkopie', text: 'Sla aanvraag, ontvangstbewijs, polis, betaalbewijs en gebruikte documenten veilig op. Neem geen originelen af zonder schriftelijke afspraken over teruggave.' },
+                ].map((item, index) => <article key={item.title} className={`rounded-2xl border p-6 shadow-editorial-card ${index === 0 ? 'border-saffron/30 bg-tonal' : 'border-jade/10 bg-white'}`}><span className="font-display text-[2.4rem] font-semibold leading-none text-jade/13">0{index + 1}</span><h3 className="mt-3 font-display text-[1.75rem] font-semibold leading-none text-jade">{item.title}</h3><p className="mt-4 text-xs font-medium leading-6 text-charcoal/66">{item.text}</p></article>)}
+              </div>
+            </div>
+
+            <div className="mt-10 rounded-[26px] bg-jade p-7 text-white shadow-editorial-lift sm:p-9">
+              <div className="grid gap-7 lg:grid-cols-[0.68fr_1.32fr] lg:items-center">
+                <div><p className="eyebrow !text-saffron-light">Hulp mag uitleggen, niet beloven</p><h2 className="font-display text-[2.8rem] font-semibold leading-[0.92] tracking-[-0.035em]">Herken een onveilige shortcut.</h2></div>
+                <div className="grid gap-3 sm:grid-cols-2">
+                  {['“Gegarandeerde” goedkeuring zonder dossierbeoordeling', 'Een route kiezen vóór leeftijd, duur en financiën zijn gecontroleerd', 'Geld of paspoort afgeven zonder schriftelijke ontvangst', 'Een constructie gebruiken die je zelf niet aan Immigration kunt uitleggen'].map((warning) => <p key={warning} className="flex gap-3 rounded-xl border border-white/13 bg-white/[0.06] p-4 text-[11px] font-bold leading-5 text-white/72"><Ban size={16} className="mt-0.5 shrink-0 text-saffron-light" />{warning}</p>)}
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="section-divider-bottom bg-tonal py-16 lg:py-24"><div className="container-custom"><div className="overflow-hidden rounded-[30px] bg-jade text-white shadow-editorial-lift"><div className="grid lg:grid-cols-[0.82fr_1.18fr]"><div className="p-8 sm:p-11"><p className="eyebrow !text-saffron-light">Na het visum</p><h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em]">Plan je eerste maand flexibel, niet permanent.</h2><p className="mt-5 text-sm font-medium leading-7 text-white/60">Gebruik je aankomst om wijk, zorg, vervoer en dagelijkse routine te testen voordat je een lange woonverplichting aangaat.</p><Link href="/visa/digital-arrival-card/" className="btn-cream mt-7">Regel daarna je TDAC <ArrowRight size={15} /></Link></div><div className="grid gap-3 bg-white/[0.055] p-7 sm:grid-cols-2 sm:p-10"><a href={hotelHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-2xl border border-white/14 bg-white/[0.07] p-5"><Home size={20} className="text-saffron-light" /><strong className="mt-4 block text-sm">Eerste verblijf vergelijken</strong><span className="mt-1 block text-[10px] text-white/50">Flexibel starten via Trip.com</span></a><a href={esimHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-2xl border border-white/14 bg-white/[0.07] p-5"><Smartphone size={20} className="text-saffron-light" /><strong className="mt-4 block text-sm">Bereikbaar bij aankomst</strong><span className="mt-1 block text-[10px] text-white/50">eSIM vergelijken via Saily</span></a><AffiliateDisclosure className="sm:col-span-2 !border-white/12 !bg-white/[0.04] !text-white/55">Trip.com en Saily zijn affiliate-links voor je praktische aankomst. Ze hebben geen invloed op visumgeschiktheid of goedkeuring.</AffiliateDisclosure></div></div></div></div></section>
 
         <FaqSplitSection id="vragen" eyebrow="Echte pensioenvisum-zoekvragen" title="Veelgestelde vragen over retirement visa Thailand" description="Deze vragen komen uit de actuele Nederlandse DataForSEO-SERP. De antwoorden scheiden officiële toelatingseisen bewust van bredere pensioen- en leefbudgetvragen." items={faqs} />
@@ -181,6 +238,8 @@ export default function ThailandRetirementVisaGuide() {
           { title: 'Non-Immigrant Visa O-A (Long Stay)', creator: 'Royal Thai Embassy The Hague', url: 'https://hague.thaiembassy.org/th/page/76475-non-immigrant-visa-o-a-(long-stay)', note: 'Officiële toelichting op de O-A-long-stayroute voor aanvragers van 50 jaar of ouder.' },
           { title: 'E-Visa General Conditions', creator: 'Royal Thai Embassy The Hague', url: 'https://hague.thaiembassy.org/th/publicservice/e-visa-general-conditions/', note: 'Primaire bron voor aanvraag vanuit Nederland, online behandeling en niet-terugbetaalbare aanvraagkosten.' },
           { title: 'Revised Fees for Consular Services', creator: 'Royal Thai Embassy The Hague', url: 'https://hague.thaiembassy.org/th/content/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A5-2567', note: 'Officiële Nederlandse tarieven voor Non-Immigrant single entry, O-A en O-X.' },
+          { title: 'TM.47 — Notification of staying longer than 90 days', creator: 'Thailand Immigration Bureau', url: 'https://www.immigration.go.th/wp-content/uploads/2022/10/18.Form-TM-47.pdf', note: 'Officieel formulier dat de periodieke adresmelding benoemt en expliciet vermeldt dat dit geen extension of stay is.' },
+          { title: 'Public Handbook: Application for Re-Entry Permit', creator: 'Thailand Immigration Bureau', url: 'https://www.immigration.go.th/citizen_manual/guid_en5.pdf', note: 'Officiële handleiding voor de TM.8-aanvraag, documenten en single- of multiple-re-entry permit.' },
         ]} />
       </main>
     </>
