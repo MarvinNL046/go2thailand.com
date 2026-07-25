@@ -90,7 +90,7 @@ const readinessChecks = [
   {
     title: 'Gezondheid',
     text: 'Laat je advies afhangen van route, reisduur en persoonlijke gezondheid; plan dit niet op de laatste dag.',
-    href: '/travel-guides/vaccinations-travel-health-thailand/',
+    href: '/practical-info/health-vaccinations/',
     label: 'Gezondheid voorbereiden',
     icon: HeartPulse,
   },

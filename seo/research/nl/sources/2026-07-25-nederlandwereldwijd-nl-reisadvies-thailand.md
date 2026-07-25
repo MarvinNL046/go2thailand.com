@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.nederlandwereldwijd.nl/reisadvies/thailand
 
-**Captured:** 2026-07-25T21:05:12.715Z
+**Captured:** 2026-07-25T23:16:19.928Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
@@ -17,7 +17,6 @@ Laatst gewijzigd op: 24-07-2026
 [Over NederlandWereldwijd](https://www.nederlandwereldwijd.nl/over-nederland-wereldwijd)
 
 [Over de website](https://www.nederlandwereldwijd.nl/over-de-website)
-
 ## In het kort
 
 De situatie in het Midden-Oosten kan gevolgen hebben voor
@@ -43,7 +42,6 @@ Het is niet veilig er op vakantie te gaan.
 Voor de rest
 van Thailand geldt kleurcode geel. U kunt hierheen reizen. Maar let
 op: er zijn bijzondere veiligheidsrisico’s.
-
 #### Vliegreis via Midden-Oosten
 
 Heeft u een overstap in het Midden-Oosten tijdens uw reis naar
@@ -53,7 +51,6 @@ reisadvies geldt ook als u het vliegveld niet verlaat. Neem bij vragen
 over uw vlucht contact op met uw reisorganisatie,
 luchtvaartmaatschappij of reisverzekeraar. De Nederlandse ambassade
 kan u hier niet bij helpen.
-
 #### Grens met Cambodja
 
 Sinds eind december 2025 is er een staakt-het-vuren tussen
@@ -67,7 +64,6 @@ grensgebieden op de wegen en paden. Er kunnen landmijnen in het gebied liggen.
 Volg altijd de aanwijzingen van de Thaise autoriteiten. Blijf op
 de hoogte van de laatste ontwikkelingen. Bijvoorbeeld door het
 nieuws te volgen. Of vraag informatie bij uw hotel.
-
 #### Rood: niet reizen
 
 Let op: Wat uw situatie ook is: reis niet
@@ -80,7 +76,6 @@ Cambodja: een strook van 5 kilometer vanaf de grens.
 Reis niet naar de grensstrook. De grens is gesloten. Ondanks het
 staakt-het-vuren zijn er checkpoints van het leger. Er kunnen ook
 landmijnen in het gebied liggen.
-
 #### Oranje: alleen noodzakelijke reizen
 
 Let op: Reis alleen naar gebieden met
@@ -165,7 +160,6 @@ informatie bij uw hotel.
 
 Volg de aanwijzingen van de
 lokale autoriteiten.
-
 #### Geel: let op, er zijn risico’s
 
 Let op: U kunt reizen naar gebieden met
@@ -202,19 +196,16 @@ Bereid u goed voor.
 
 Reis met een betrouwbare
 (lokale) gids.
-
 ### Terrorisme
 
 Ook in de delen van Thailand waarvoor kleurcode geel geldt, kan een
 terroristische aanslag plaatsvinden. Wees alert op drukke plaatsen en
 volg altijd de aanwijzingen van de lokale autoriteiten.
-
 #### Zakkenrollers en diefstal
 
 Wees in Thailand alert op zakkenrollers en oplichters. Vooral in
 de grote steden en drukke toeristische gebieden. Pas ook op voor
 dieven die tassen of sieraden stelen vanaf een brommer of motor.
-
 #### Oplichting rondom scooterverhuur
 
 Veel verhuurders van scooters vragen uw paspoort of rijbewijs als
@@ -240,7 +231,6 @@ Zet de scooter altijd op slot als u parkeert.
 
 Er gebeuren veel ongelukken met scooters in Thailand. Lees meer
 onder Verkeersongevallen.
-
 #### Oplichting en dwangarbeid
 
 Krijgt u een goedbetaalde baan in Thailand aangeboden? Pas op voor
@@ -250,13 +240,11 @@ organisatie illegaal naar een buurland vervoerd en daar onder dwang
 aan het werk gezet. Hierbij worden paspoorten ingenomen, zodat de
 slachtoffers niet kunnen vluchten. Of slachtoffers moeten veel geld
 betalen om vrij te komen.
-
 #### Voorkom dat u slachtoffer wordt van criminaliteit
 
 Door een goede voorbereiding verkleint u de kans dat u wordt
 beroofd of opgelicht. Lees meer op de pagina [Hoe
 voorkom ik dat ik slachtoffer word van criminaliteit in het buitenland?](https://www.nederlandwereldwijd.nl/reisadvies/criminaliteit)
-
 #### Dodelijke verkeersongevallen
 
 In Thailand vallen elk jaar veel doden en (zwaar)gewonden in het
@@ -280,14 +268,12 @@ Accident Data Center of Thailand (informatie in het Thais).
 [Lees
 meer informatie over het verkeer in Thailand](https://www.anwb.nl/vakantie/thailand/reisvoorbereiding/verkeer) op de website van
 de ANWB.
-
 #### Risico's bij reizen met bus of veerboot
 
 Reizen met de bus of veerboot kan gevaarlijk zijn in Thailand.
 Veel bussen en veerboten zijn van slechte kwaliteit en niet goed
 onderhouden. Veerboten zitten vaak overvol en hebben te weinig of geen
 reddingsvesten aan boord.
-
 #### Drugs
 
 U mag in Thailand geen drugs gebruiken, bezitten of verkopen. De
@@ -295,7 +281,6 @@ straffen zijn veel zwaarder dan in Nederland. Ook als u een kleine
 hoeveelheid drugs bij u heeft, kunt u zware boetes of een lange
 gevangenisstraf krijgen. Het bezit van sommige soorten harddrugs kan
 zelfs leiden tot de doodstraf.
-
 #### Cannabis
 
 Recreatief gebruik van cannabis is in Thailand verboden.
@@ -316,7 +301,6 @@ cannabisproducten aan die illegaal en onveilig zijn om te gebruiken.
 Houd hier rekening mee.
 
 Heeft u een vraag over cannabisregels? Vraag dit na bij de lokale autoriteiten.
-
 #### Drones
 
 In Thailand gelden strenge regels voor het gebruik van drones. U
@@ -324,13 +308,11 @@ kunt een hoge boete of gevangenisstraf krijgen als u zich niet aan
 deze regels houdt. [Lees meer
 informatie over het gebruik van drones](https://uasportal.caat.or.th/) op de website van de
 Civilian Aviation Authority in Thailand (informatie in het Engels).
-
 #### Roken op stranden
 
 Roken is op veel stranden in Thailand strafbaar. U kunt een
 gevangenisstraf krijgen van maximaal 1 jaar als u op het strand rookt.
 Of een boete van maximaal 100.000 Thaise baht (ongeveer € 2.500).
-
 #### Seks met minderjarigen
 
 U mag in Thailand geen seks hebben met iemand jonger dan 18 jaar.
@@ -338,28 +320,24 @@ Ook niet als de minderjarige zegt dit te willen. U bent dan strafbaar.
 En u kunt hiervoor een lange gevangenisstraf krijgen. Het is moeilijk
 om iemands leeftijd te schatten. U kunt om een identiteitsbewijs
 vragen. Maar let op: dit kan vervalst zijn.
-
 #### Hoge straffen en zware omstandigheden in gevangenissen
 
 In Thailand worden zware straffen opgelegd. Voor bijvoorbeeld
 winkeldiefstal, of als u op straat optreedt als artiest of muzikant,
 kunt u al een aantal weken gevangenisstraf krijgen. En u wordt het
 land uitgezet. De omstandigheden in de Thaise gevangenissen zijn erg zwaar.
-
 #### Belediging Thaise koningshuis
 
 Doe geen kritische uitspraken en vermijd discussies over het
 Thaise koningshuis. In Thailand geldt een verbod op het beledigen
 van het koningshuis. U kunt een zware straf krijgen. De Thaise
 autoriteiten handhaven het verbod strikt.
-
 #### Lhbtiq+
 
 Bent u een lhbtiq+ persoon? En wilt u naar Thailand reizen? De
 wetten en de gebruiken in dit land tegenover lhbtiq+ personen zijn
 vergelijkbaar met die van Nederland. Lees de tips op de pagina [Kan ik
 veilig reizen als lhbtiq+ persoon?](https://www.nederlandwereldwijd.nl/reisadvies/lhbtiq) om risico’s te verkleinen.
-
 #### Regenseizoen
 
 In het regenseizoen (mei tot oktober) regent het vaak kort maar
@@ -393,7 +371,6 @@ nieuws in de gaten.
 
 Volg altijd de aanwijzingen van de
 lokale autoriteiten.
-
 #### Sterke stromingen
 
 In Thailand komen sterke stromingen en hoge golven voor. Vooral in
@@ -413,7 +390,6 @@ wildwatervaren.
 
 Volg de aanwijzingen van de lokale
 autoriteiten. Of vraag informatie bij uw hotel.
-
 #### Aardbevingen
 
 In Thailand is een risico op aardbevingen, aardverschuivingen en
@@ -430,7 +406,6 @@ Warning Centre](https://www.tsunami.gov/)
 
 [US Federal Emergency
 Management Agency](https://www.ready.gov/earthquakes)
-
 #### Luchtvervuiling
 
 Houd in Thailand rekening met luchtvervuiling, vooral tussen
@@ -441,13 +416,11 @@ voor mensen met gevoelige luchtwegen, zwangere vrouwen en kinderen.
 de luchtkwaliteit](https://aqicn.org/map/thailand/) op de World Air Quality Index website
 (informatie in het Engels). Bij een hoge fijnstofconcentratie
 (PM2.5) is het aan te raden om een KN95 mondkapje te dragen.
-
 ### Demonstraties
 
 In Thailand kunnen demonstraties voorkomen, vooral in de grote
 steden. Vermijd samenscholingen, mensenmassa’s en demonstraties. Volg
 het nieuws via de (lokale) media. Of vraag bij uw hotel om informatie.
-
 #### Lokale hulpdiensten
 
 Heeft u direct hulp nodig in Thailand? Neem contact op met de
@@ -458,7 +431,6 @@ Algemeen alarmnummer: 191
 Medische noodgevallen regio Bangkok: 1646
 
 Medische noodgevallen Thailand: 1669
-
 #### Nood- of crisissituatie
 
 Bent u in Thailand en bent u in nood? Bijvoorbeeld: u bent
@@ -481,7 +453,6 @@ georganiseerde reis? Houd contact met uw reisorganisatie.
 
 Heeft u hulp nodig? Neem contact op met uw reisverzekeraar of
 met de Nederlandse ambassade.
-
 #### Contactgegevens Nederlandse ambassade in geval van nood
 
 Nederlandse ambassades en consulaten-generaal zijn 24 uur per dag,
@@ -491,12 +462,10 @@ NederlandWereldwijd op telefoonnummer +31 247 247 247 of via WhatsApp: [+31 857 
 Bent u in Thailand en heeft u een lokaal telefoonnummer? Bel het
 lokale nummer van de Nederlandse ambassade in Bangkok. U betaalt dan
 het lokale tarief.
-
 #### Nederlandse ambassade in Thailand
 
 Bekijk de [contactgegevens
 van de Nederlandse ambassade in Bangkok](https://www.nederlandwereldwijd.nl/contact/ambassades-consulaten-generaal/thailand/ambassade-bangkok).
-
 ### Reisverzekering
 
 Sluit altijd een goede reisverzekering af die extra kosten
@@ -522,7 +491,6 @@ na bij uw verzekeraar.
 Let op: Laat familie in Nederland weten hoe
 en waar u bent verzekerd. In een noodgeval kan uw familie dan hulp
 inschakelen van uw verzekeraar.
-
 #### Paspoort
 
 U heeft een geldig paspoort nodig om naar Thailand te
@@ -545,7 +513,6 @@ iets overkomt, is het belangrijk dat anderen uw paspoortgegevens
 hebben. [Lees
 hoe u een veilige kopie maakt van uw paspoort](https://www.rijksoverheid.nl/onderwerpen/identiteitsfraude/vraag-en-antwoord/veilige-kopie-identiteitsbewijs) op de website van
 de Rijksoverheid.
-
 #### Visum
 
 Of u een visum nodig heeft, hangt af van hoelang u in Thailand blijft.
@@ -574,7 +541,6 @@ U kunt de [geldigheid
 van uw visum online verlengen](https://www.immigration.go.th/en/) via de website van de Thaise
 immigratiedienst (informatie in het Engels). Of neem hiervoor
 contact op met de ambassade van Thailand in Den Haag.
-
 #### Thailand Digital Arrival Card
 
 Reist u naar Thailand? En reist u met een Nederlands paspoort? Dan
@@ -586,7 +552,6 @@ het Engels).
 
 Wilt u meer weten? [Bekijk de
 instructievideo](https://www.youtube.com/watch?v=QSEoVloM5A0) van de Thaise overheid (informatie in het Engels).
-
 #### Reizen met kinderen
 
 Kinderen hebben ook een geldig paspoort, een Thailand Digital
@@ -595,7 +560,6 @@ Thailand. Reist u alleen met 1 of meer kinderen jonger dan 18 jaar? [Check
 welke documenten u nodig heeft om te reizen met een minderjarig
 kind](https://www.rijksoverheid.nl/documenten/formulieren/2014/02/06/formulier-toestemming-reizen-met-minderjarige-naar-het-buitenland) en neem die mee. Zo voorkomt u problemen en lange wachttijden
 bij grenscontroles.
-
 #### Rijbewijs
 
 In Thailand is uw Nederlandse rijbewijs alleen geldig als u ook
@@ -604,7 +568,6 @@ scooter of motor huren? Dan heeft u een motorrijbewijs nodig.
 
 [Lees
 meer over rijden in Thailand](https://www.anwb.nl/vakantie/thailand/reisvoorbereiding/reisdocumenten) op de website van de ANWB.
-
 ### Reisvaccinaties
 
 [Check
@@ -619,7 +582,6 @@ Maak een
 vaccinatie-afspraak bij u in de buurt. [Check alle
 aanbieders van reisvaccinaties](https://www.lcr.nl/Vaccinatie-adressen) op de website van het Landelijk
 Coördinatiecentrum Reizigersadvisering (LCR).
-
 ### Medicijnen
 
 Gebruikt u medicijnen?
@@ -632,13 +594,11 @@ mogen nemen naar Thailand.
 
 Neem de medicijnen altijd mee
 in de originele verpakking.
-
 #### Medicijnen zonder doktersrecept
 
 Koopt u in Thailand (slaap)medicijnen zonder doktersrecept?
 Bijvoorbeeld bij een lokale apotheek? U riskeert arrestatie, een
 geldboete of gevangenisstraf.
-
 #### Wat mag ik niet meenemen naar Thailand?
 
 Elektronische sigaretten (vapes) en navulverpakkingen zijn
@@ -654,13 +614,11 @@ boete en worden de sigaretten in beslag genomen.
 [Check
 wat u nog meer wel en niet mag meenemen naar Thailand](https://www.iatatravelcentre.com/TH-thailand-customs-currency-airport-tax-regulations-details.htm) op de
 website van IATA (informatie in het Engels).
-
 #### Wat mag ik mee terugnemen naar Nederland?
 
 Bekijk wat u vanuit Thailand mee terug mag nemen naar Nederland op
 de pagina [Wat
 mag ik meenemen naar Nederland?](https://www.nederlandwereldwijd.nl/reizen-naar-nederland/meenemen-nederland)
-
 ## Ook nuttig
 
 [Lees

@@ -113,6 +113,21 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // The practical-info guide owns broad NL Thailand vaccination and
+      // travel-health preparation intent. Keep the hospital-care spoke and
+      // every English route untouched until their own research phase.
+      {
+        source: '/nl/travel-guides/vaccinations-travel-health-thailand/',
+        destination: '/nl/practical-info/health-vaccinations/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/blog/thailand-health-vaccinations/',
+        destination: '/nl/practical-info/health-vaccinations/',
+        permanent: true,
+        locale: false,
+      },
       // The established NL weather URL owns the broad weather, climate,
       // rainy-season and best-time intent. Preserve all English routes until
       // their separate research phase.

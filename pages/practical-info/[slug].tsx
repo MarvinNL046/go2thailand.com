@@ -19,6 +19,7 @@ import {
 import { getAllPracticalInfo, getPracticalInfoBySlug, generatePracticalInfoBreadcrumbs } from '../../lib/practical-info';
 import { useSubId } from '../../lib/useSubId';
 import ThailandEtiquetteGuide from '../../components/practical/ThailandEtiquetteGuide';
+import ThailandVaccinationsGuide from '../../components/practical/ThailandVaccinationsGuide';
 
 interface SectionItem {
   name: { en: string; nl: string };
@@ -88,6 +89,10 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
 
   if (lang === 'nl' && info.slug === 'etiquette-culture') {
     return <ThailandEtiquetteGuide />;
+  }
+
+  if (lang === 'nl' && info.slug === 'health-vaccinations') {
+    return <ThailandVaccinationsGuide />;
   }
 
   return (

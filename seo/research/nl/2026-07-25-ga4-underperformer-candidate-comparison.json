@@ -1,0 +1,43 @@
+{
+  "captured_at": "2026-07-25T23:12:23.685Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "cost": 0.01236,
+  "requested_keywords": [
+    "hoeveel dagen thailand",
+    "vaccinaties thailand",
+    "thais eten",
+    "vpn thailand",
+    "chiang rai of chiang mai",
+    "bts bangkok 2026"
+  ],
+  "rows": [
+    {
+      "keyword": "thais eten",
+      "volume": 4400,
+      "difficulty": 2,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.66
+    },
+    {
+      "keyword": "vaccinaties thailand",
+      "volume": 3600,
+      "difficulty": 34,
+      "intent": "informational",
+      "competition": "HIGH",
+      "cpc": 1.58
+    },
+    {
+      "keyword": "vpn thailand",
+      "volume": null,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "",
+      "cpc": null
+    }
+  ]
+}
