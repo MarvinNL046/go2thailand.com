@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import { ThailandNightlifeGuide } from '../../components/nightlife/ThailandNightlifeGuide';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/nightlife-index';
 
@@ -62,6 +63,10 @@ export default function NightlifeIndex() {
   const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) {
+    return <ThailandNightlifeGuide />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
