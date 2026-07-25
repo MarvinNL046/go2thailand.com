@@ -40,6 +40,7 @@ import { ClimateUpdateGuideTemplate } from '../../components/blog/ClimateUpdateG
 import { getNlClimateUpdateGuide } from '../../data/climate/nl';
 import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
 import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
+import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
 
 interface Source {
   name: string;
@@ -183,6 +184,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'jodd-fairs-bangkok-night-market-guide') {
     return <JoddFairsRatchadaGuide />;
+  }
+
+  if (locale === 'nl' && post.slug === 'chatuchak-weekend-market-food-guide') {
+    return <ChatuchakFoodGuide />;
   }
 
   const breadcrumbs = [

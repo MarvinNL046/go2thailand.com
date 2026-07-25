@@ -1,0 +1,49 @@
+{
+  "captured_at": "2026-07-25T16:59:27.085Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "chatuchak market food",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "chatuchak market food",
+    "chatuchak weekend market best food",
+    "chatuchak weekend market food"
+  ],
+  "keywords": [
+    {
+      "keyword": "chatuchak weekend market best food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

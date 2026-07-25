@@ -1,0 +1,1833 @@
+{
+  "captured_at": "2026-07-25T16:59:44.207Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "chatuchak market",
+  "costs": {
+    "suggestions": 0.02964,
+    "related": 0.01584,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "chatuchak market",
+    "chatuchak weekend market",
+    "chatuchak weekend market bkk",
+    "chatuchak weekend market thailand",
+    "chatuchak weekend market kamphaeng phet 2 road chatuchak bangkok thailand",
+    "chatuchak market bangkok opening hours",
+    "chatuchak market bangkok timings",
+    "chatuchak market opening hours",
+    "chatuchak market opening times",
+    "chatuchak night market",
+    "chatuchak weekend market opening hours",
+    "bangkok market chatuchak",
+    "chatuchak market openingstijden",
+    "chatuchak weekend market photos",
+    "chatuchak friday night market",
+    "chatuchak market best stalls",
+    "chatuchak market fire",
+    "chatuchak market friday",
+    "chatuchak market friday night",
+    "chatuchak market guide"
+  ],
+  "keywords": [
+    {
+      "keyword": "chatuchak weekend market",
+      "volume": 1600,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok markets chatuchak market",
+      "volume": 1300,
+      "kd": 14,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market",
+      "volume": 1300,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market bangkok",
+      "volume": 1300,
+      "kd": 7,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market bangkok thailand",
+      "volume": 1300,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market bkk",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market in bangkok",
+      "volume": 1300,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market location",
+      "volume": 1300,
+      "kd": 7,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market thailand",
+      "volume": 1300,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market bangkok",
+      "volume": 210,
+      "kd": 18,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market location",
+      "volume": 210,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market map",
+      "volume": 210,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map chatuchak market",
+      "volume": 210,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "map of chatuchak weekend market",
+      "volume": 210,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "market bangkok chatuchak",
+      "volume": 210,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weekend markt bangkok",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "or tor kor market",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market kamphaeng phet 2 road chatuchak bangkok thailand",
+      "volume": 90,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market bangkok opening hours",
+      "volume": 70,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market bangkok timings",
+      "volume": 70,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market opening hours",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market opening times",
+      "volume": 70,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok night market chatuchak",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak night market",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market opening hours",
+      "volume": 30,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "avondmarkt bangkok",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok market chatuchak",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market openingstijden",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "al meroz hotel to chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak fish market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak floating market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak flower market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak friday night market",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak map market",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market best stalls",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market electronics",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market fire",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market friday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak market friday night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak market how to get there",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market in bangkok",
+      "volume": 10,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map 2025 pdf download",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map app",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map app free download",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map download",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map high resolution",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market map pdf free download",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market metro",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market online",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market opening hours friday",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market opening hours sunday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market pet section",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market saturday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market sections",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak market shooting",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market skytrain",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market sunday opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market timings",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market tips",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market weekday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market wiki",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak night market opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak night market timings",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak plant market online",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak plant market opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market animals",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market best food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market bts station",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market chatuchak bangkok thailand",
+      "volume": 10,
+      "kd": 35,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market closing time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market directory",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market foto",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market foto's",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market friday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market friday night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market how to get there",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market map 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market map 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market mrt",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market muslim prayers room",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market open on weekdays",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market opening days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market pet section",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market sections",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market sunday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market timings",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market what to buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "floating market chatuchak",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "foto's van chatuchak weekend market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "high resolution chatuchak market map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels near chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels near chatuchak weekend market",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how big is chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open at night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open everyday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open on friday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open on fridays",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open on monday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open on thursday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open on weekdays",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open today",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market open tomorrow",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market worth it",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chatuchak market worth visiting",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao san road to chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kleding markt bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "night market bangkok chatuchak",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "openingstijden chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "or tor kor market directory",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "or tor kor market food court",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "or tor kor market how to go",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "or tor kor market opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "or tor kor market photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "or tor kor market reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "or tor kor market shooting",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pdf chatuchak weekend market map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "plattegrond chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "reviews voor chatuchak weekend market",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sampeng market vs chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist map of chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what time does chatuchak market close on sunday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what time does chatuchak market open",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what time does chatuchak market open on saturday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to buy at chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when does chatuchak market open",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when to go to chatuchak market",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is chatuchak market in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok city hotel to chatuchak market",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market online shop",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market opening hours today",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market ouvert en semaine",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market tripadvisor",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market bts",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market chatuchak bangkok",
+      "volume": 0,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market gate",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market map 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market map 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak weekend market opening hours 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flower market chatuchak",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao san road chatuchak market",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "artificial flowers chatuchak market",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatuchak market tips thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wikipedia chatuchak market",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.chatuchakmarket.org",
+      "avgPosition": 1.75,
+      "keywordCount": 8,
+      "visibility": 11.100000000000001,
+      "estimatedTraffic": 1143.6090000000004
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 6.454545454545454,
+      "keywordCount": 8,
+      "visibility": 6.2,
+      "estimatedTraffic": 997.1299999999999
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 10.875,
+      "keywordCount": 8,
+      "visibility": 2.55,
+      "estimatedTraffic": 88.59599999999999
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 7.571428571428571,
+      "keywordCount": 7,
+      "visibility": 3.8,
+      "estimatedTraffic": 86.32300000000001
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 5.166666666666667,
+      "keywordCount": 6,
+      "visibility": 3.75,
+      "estimatedTraffic": 47.34700000000001
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 19.857142857142858,
+      "keywordCount": 7,
+      "visibility": 2.0500000000000003,
+      "estimatedTraffic": 32.138
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 9.833333333333334,
+      "keywordCount": 6,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 18.296999999999997
+    },
+    {
+      "domain": "theculturetrip.com",
+      "avgPosition": 13,
+      "keywordCount": 6,
+      "visibility": 1.6,
+      "estimatedTraffic": 43.952
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 15,
+      "keywordCount": 6,
+      "visibility": 1.5,
+      "estimatedTraffic": 84.853
+    },
+    {
+      "domain": "www.becoming-carmen.com",
+      "avgPosition": 15.166666666666666,
+      "keywordCount": 6,
+      "visibility": 0.7000000000000002,
+      "estimatedTraffic": 37.08800000000001
+    },
+    {
+      "domain": "www.bangkok-travel-guide.com",
+      "avgPosition": 19.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.55,
+      "estimatedTraffic": 35.735
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.65,
+      "estimatedTraffic": 62.713
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 7.8,
+      "keywordCount": 5,
+      "visibility": 3.3,
+      "estimatedTraffic": 52.65899999999999
+    },
+    {
+      "domain": "www.timeout.com",
+      "avgPosition": 23.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 16.05
+    },
+    {
+      "domain": "touristbangkok.com",
+      "avgPosition": 26.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.404999999999999
+    },
+    {
+      "domain": "www.mixtchatuchak.com",
+      "avgPosition": 18.6,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 6.866
+    },
+    {
+      "domain": "www.voyagethailande.fr",
+      "avgPosition": 37.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.843
+    },
+    {
+      "domain": "www.laughtraveleat.com",
+      "avgPosition": 38.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.852
+    },
+    {
+      "domain": "covid.fabriciano.mg.gov.br",
+      "avgPosition": 11.75,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.6190000000000007
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 14,
+      "keywordCount": 4,
+      "visibility": 2,
+      "estimatedTraffic": 882.02
+    },
+    {
+      "domain": "themanduls.com",
+      "avgPosition": 39.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.tripsavvy.com",
+      "avgPosition": 27.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.166
+    },
+    {
+      "domain": "www.odynovotours.com",
+      "avgPosition": 28,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.4879999999999995
+    },
+    {
+      "domain": "forevervacation.com",
+      "avgPosition": 29,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.223
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 61.580999999999996
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 30.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "yourthaiguide.com",
+      "avgPosition": 32.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.3810000000000002
+    },
+    {
+      "domain": "karlijntravels.com",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 3,
+      "visibility": 1.3,
+      "estimatedTraffic": 199.809
+    },
+    {
+      "domain": "www.cktravels.com",
+      "avgPosition": 12.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 8.865
+    },
+    {
+      "domain": "www.flyingfoodie.nl",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 18.505
+    },
+    {
+      "domain": "www.bkmagazine.com",
+      "avgPosition": 40,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "traveltriangle.com",
+      "avgPosition": 22,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 33.902
+    },
+    {
+      "domain": "thaiest.com",
+      "avgPosition": 43.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 3.5,
+      "keywordCount": 2,
+      "visibility": 1.5,
+      "estimatedTraffic": 231.93
+    },
+    {
+      "domain": "www.ramadaplazabangkokriverside.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.007
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 6.4479999999999995
+    },
+    {
+      "domain": "en.itravelblog.net",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.469
+    },
+    {
+      "domain": "www.thaisereizen.nl",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.69
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.919
+    },
+    {
+      "domain": "www.placesofjuma.com",
+      "avgPosition": 65,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.423
+    },
+    {
+      "domain": "www.steden.net",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 10.89
+    },
+    {
+      "domain": "www.bijzondereplaatsen.nl",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.17
+    },
+    {
+      "domain": "discoverthailand.de",
+      "avgPosition": 74,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.612
+    },
+    {
+      "domain": "thewayfaringsoul.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.919
+    },
+    {
+      "domain": "bangkokattractions.com",
+      "avgPosition": 70.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.423
+    },
+    {
+      "domain": "www.destinationbangkok-fr.com",
+      "avgPosition": 62,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.192
+    },
+    {
+      "domain": "advantiko.com",
+      "avgPosition": 71.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "www.take-a-trip.eu",
+      "avgPosition": 44,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 9.61
+    },
+    {
+      "domain": "www.travelandleisureasia.com",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.961
+    },
+    {
+      "domain": "phiphibrazuca.com",
+      "avgPosition": 63.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    }
+  ]
+}
