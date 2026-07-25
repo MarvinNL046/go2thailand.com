@@ -1,0 +1,464 @@
+{
+  "captured_at": "2026-07-25T18:18:17.893Z",
+  "locale": "nl",
+  "url": "https://www.timeout.com/bangkok/news/hawker-center-lumphini-042226",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Thanks for subscribing! Look out for your first newsletter in your inbox soon!",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "The best of Bangkok straight to your inbox",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We help you navigate a myriad of possibilities. Sign up for our newsletter for the best of the city.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Déjà vu! We already have this email. Try another?",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "By entering your email address you agree to our Terms of Use and Privacy Policy and consent to receive emails from Time Out about news, events, offers and partner promotions.",
+          "url": "https://www.timeout.com/terms-of-use",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/terms-of-use",
+              "anchor_text": "Terms of Use"
+            },
+            {
+              "url": "https://www.timeout.com/privacy-notice",
+              "anchor_text": "Privacy Policy"
+            }
+          ]
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Awesome, you're subscribed!",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Explore Cities",
+          "url": "https://www.timeout.com/",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/",
+              "anchor_text": "Explore Cities"
+            }
+          ]
+        },
+        {
+          "text": "Time Out Markets",
+          "url": "https://www.timeout.com/time-out-market",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market",
+              "anchor_text": "Time Out Markets"
+            }
+          ]
+        },
+        {
+          "text": "Things to Do",
+          "url": "https://www.timeout.com/bangkok/things-to-do",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/things-to-do",
+              "anchor_text": "Things to Do"
+            }
+          ]
+        },
+        {
+          "text": "Food & Drink",
+          "url": "https://www.timeout.com/bangkok/food-drink",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/food-drink",
+              "anchor_text": "Food & Drink"
+            }
+          ]
+        },
+        {
+          "text": "Music & Nightlife",
+          "url": "https://www.timeout.com/bangkok/music-nightlife",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/music-nightlife",
+              "anchor_text": "Music & Nightlife"
+            }
+          ]
+        },
+        {
+          "text": "Sports & Fitness",
+          "url": "https://www.timeout.com/bangkok/sports-fitness",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/sports-fitness",
+              "anchor_text": "Sports & Fitness"
+            }
+          ]
+        },
+        {
+          "text": "City Guide",
+          "url": "https://www.timeout.com/bangkok/city-guide",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/city-guide",
+              "anchor_text": "City Guide"
+            }
+          ]
+        },
+        {
+          "text": "New York",
+          "url": "https://www.timeout.com/newyork",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/newyork",
+              "anchor_text": "New York"
+            }
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "url": "https://www.timeout.com/los-angeles",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/los-angeles",
+              "anchor_text": "Los Angeles"
+            }
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "url": "https://www.timeout.com/hong-kong",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/hong-kong",
+              "anchor_text": "Hong Kong"
+            }
+          ]
+        },
+        {
+          "text": "See all destinations",
+          "url": "https://www.timeout.com/about/time-out-destinations",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/about/time-out-destinations",
+              "anchor_text": "See all destinations"
+            }
+          ]
+        },
+        {
+          "text": "New York Brooklyn",
+          "url": "https://www.timeout.com/time-out-market-new-york",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market-new-york",
+              "anchor_text": "New York Brooklyn"
+            }
+          ]
+        },
+        {
+          "text": "Cape Town",
+          "url": "https://www.timeout.com/time-out-market-cape-town",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market-cape-town",
+              "anchor_text": "Cape Town"
+            }
+          ]
+        },
+        {
+          "text": "New York Union Square",
+          "url": "https://www.timeout.com/time-out-market-union-square",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market-union-square",
+              "anchor_text": "New York Union Square"
+            }
+          ]
+        },
+        {
+          "text": "All Markets",
+          "url": "https://www.timeout.com/time-out-market",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market",
+              "anchor_text": "All Markets"
+            }
+          ]
+        },
+        {
+          "text": "Explore Cities",
+          "url": "https://www.timeout.com/",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/",
+              "anchor_text": "Explore Cities"
+            }
+          ]
+        },
+        {
+          "text": "Time Out Markets",
+          "url": "https://www.timeout.com/time-out-market",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market",
+              "anchor_text": "Time Out Markets"
+            }
+          ]
+        },
+        {
+          "text": "Explore Cities",
+          "url": "https://www.timeout.com/",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/",
+              "anchor_text": "Explore Cities"
+            }
+          ]
+        },
+        {
+          "text": "Time Out Markets",
+          "url": "https://www.timeout.com/time-out-market",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market",
+              "anchor_text": "Time Out Markets"
+            }
+          ]
+        },
+        {
+          "text": "Things to Do",
+          "url": "https://www.timeout.com/bangkok/things-to-do",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/things-to-do",
+              "anchor_text": "Things to Do"
+            }
+          ]
+        },
+        {
+          "text": "Food & Drink",
+          "url": "https://www.timeout.com/bangkok/food-drink",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/food-drink",
+              "anchor_text": "Food & Drink"
+            }
+          ]
+        },
+        {
+          "text": "Music & Nightlife",
+          "url": "https://www.timeout.com/bangkok/music-nightlife",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/music-nightlife",
+              "anchor_text": "Music & Nightlife"
+            }
+          ]
+        },
+        {
+          "text": "Sports & Fitness",
+          "url": "https://www.timeout.com/bangkok/sports-fitness",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/sports-fitness",
+              "anchor_text": "Sports & Fitness"
+            }
+          ]
+        },
+        {
+          "text": "City Guide",
+          "url": "https://www.timeout.com/bangkok/city-guide",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/city-guide",
+              "anchor_text": "City Guide"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "About us",
+          "url": "https://www.timeout.com/about",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/about",
+              "anchor_text": "About us"
+            }
+          ]
+        },
+        {
+          "text": "Work for Time Out",
+          "url": "https://www.timeout.com/bangkok/time-out-bangkok-careers",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/time-out-bangkok-careers",
+              "anchor_text": "Work for Time Out"
+            }
+          ]
+        },
+        {
+          "text": "Privacy policy",
+          "url": "https://www.timeout.com/bangkok/privacy-policy",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/privacy-policy",
+              "anchor_text": "Privacy policy"
+            }
+          ]
+        },
+        {
+          "text": "Website terms of use",
+          "url": "https://www.timeout.com/bangkok/terms-conditions",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/terms-conditions",
+              "anchor_text": "Website terms of use"
+            }
+          ]
+        },
+        {
+          "text": "Modern slavery statement",
+          "url": "https://assets.timeout.com/application/pdf/1d50b1f88ff2e3350a3204f2321d9671/modern_slavery_statement.pdf",
+          "urls": [
+            {
+              "url": "https://assets.timeout.com/application/pdf/1d50b1f88ff2e3350a3204f2321d9671/modern_slavery_statement.pdf",
+              "anchor_text": "Modern slavery statement"
+            }
+          ]
+        },
+        {
+          "text": "Manage cookies",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Contact us",
+          "url": "https://www.timeout.com/bangkok/contact-us",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/contact-us",
+              "anchor_text": "Contact us"
+            }
+          ]
+        },
+        {
+          "text": "Time Out products",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Time Out global",
+          "url": "http://www.timeout.com/",
+          "urls": [
+            {
+              "url": "http://www.timeout.com/",
+              "anchor_text": "Time Out global"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Lumpini Park's Hawker Center is now open!",
+        "main_title": "Lumpini Park's Hawker Center is now open!",
+        "author": "Kaweewat Siwanartwong",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "A modern food centre and public space that prioritises the environment opens unofficially",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "So, the news everyone's been waiting for: Bangkok's Hawker Center at Lumphini Park is finally open – well, soft-opened on April 10, with the full thing kicking off properly in May.",
+            "url": "https://www.timeout.com/bangkok/news/bangkok-hawker-center-040126",
+            "urls": [
+              {
+                "url": "https://www.timeout.com/bangkok/news/bangkok-hawker-center-040126",
+                "anchor_text": "Hawker Center"
+              },
+              {
+                "url": "https://www.timeout.com/bangkok/attractions/lumphini-park",
+                "anchor_text": "Lumphini Park"
+              }
+            ]
+          },
+          {
+            "text": "It's pitched as a ‘central hub for street food’ slap bang in the heart of the city, running on a ‘not for profit’ model that's meant to benefit urban residents rather than make anyone rich.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Head to Gate 5 along Ratchadamri Road and you’ll find it, taking heavy inspiration from Singapore's hawker centres – which, if we're being honest, might feel a bit odd for Thais who love street food exactly as it is: messy, spontaneous, brilliantly chaotic. In fact, netizens have shown a cautiously optimistic response, excited about the set-up, but also worried about the fate of other street food zones in the city.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Vendors rotate in morning shifts (5am-4pm) and evening shifts (4pm-midnight), pulling together the local favourites people already know from around the park. There's infrastructure now: clean water, drainage, dishwashing stations, standardised seating. Natural ventilation keeps energy use down, trees get relocated then replanted and private partners like delivery platforms offer digital payments to help vendors earn more.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "So here's the thing: does organising street food this way strip out what makes it special? The organisers reckon it doesn't replace the charm, it just gives vendors a cleaner, safer space while keeping their flavours intact.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "But is that what Bangkok actually needs? Singapore's model works brilliantly for Singapore. Our street food thrives on its own terms – a bit rough, fiercely independent, totally alive. Whether this new system preserves that spirit or polishes it away remains to be seen. If it works, expect more centres across the city. Whether that's progress or something lost, we’ll let you decide.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Discover Time Out original video",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Popular on Time Out",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Latest news",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": null,
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "?subject=Lumpini%20Park&#x27;s%20Hawker%20Center%20is%20now%20open!&amp;body=Lumpini%20Park&#x27;s%20Hawker%20Center%20is%20now%20open! https://www.timeout.com/bangkok/news/hawker-center-lumphini-042226."
+      ]
+    }
+  }
+}

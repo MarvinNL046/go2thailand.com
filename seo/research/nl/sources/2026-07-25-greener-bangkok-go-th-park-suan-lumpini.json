@@ -1,0 +1,873 @@
+{
+  "captured_at": "2026-07-25T18:18:20.593Z",
+  "locale": "nl",
+  "url": "https://greener.bangkok.go.th/park/suan-lumpini/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "สำรวจข้อมูลสวนสาธารณะ, โครงการปลูกต้นไม้, และวิธีเพิ่มพื้นที่สีเขียวให้กับเมืองของเราได้ ร่วมมือกับเราเพื่อสร้างสิ่งแวดล้อมที่ดีขึ้นด้วยมือของคุณเอง",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "ติดตามค่าฝุ่นละอองเพื่อปกป้องสุขภาพค้นหาวิธีลดผลกระทบจาก PM2.5, รับการแจ้งเตือนคุณภาพอากาศ, และเข้าร่วมโครงการที่มีส่วนร่วมในการต่อสู้กับมลพิษทางอากาศ",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "สำรวจสาเหตุและผลกระทบของการเปลี่ยนแปลงสภาพอากาศต่อกรุงเทพฯ ร่วมมือกับเราผ่านโครงการต่างๆ และค้นหา วิธีที่คุณสามารถช่วยลดการเปลี่ยนแปลงสภาพอากาศได้",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "เรียนรู้วิธีการจัดการและลดขยะผ่านโครงการต่างๆ พร้อมสำรวจวิธีที่คุณสามารถมีส่วนร่วมในการทำให้กรุงเทพมหานครสะอาดและยั่งยืนได้",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "How to ทิ้ง",
+          "url": "https://greener.bangkok.go.th/waste-recycle/how-to-ting/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/waste-recycle/how-to-ting/",
+              "anchor_text": "How to ทิ้ง"
+            }
+          ]
+        },
+        {
+          "text": "โครงการบ้านนี้ไม่เทรวม แยกขยะเพื่อลดค่าธรรมเนียม",
+          "url": "https://greener.bangkok.go.th/baan-nee-mai-te-ruam/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/baan-nee-mai-te-ruam/",
+              "anchor_text": "โครงการบ้านนี้ไม่เทรวม แยกขยะเพื่อลดค่าธรรมเนียม"
+            }
+          ]
+        },
+        {
+          "text": "Dog Park ในกทม.",
+          "url": "https://greener.bangkok.go.th/dog-park/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/dog-park/",
+              "anchor_text": "Dog Park ในกทม."
+            }
+          ]
+        },
+        {
+          "text": "สวน 15 นาที",
+          "url": "https://greener.bangkok.go.th/map-15-minute-garden/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/map-15-minute-garden/",
+              "anchor_text": "สวน 15 นาที"
+            }
+          ]
+        },
+        {
+          "text": "โครงการสวน 15 นาที",
+          "url": "https://greener.bangkok.go.th/green-space/15-minute-garden/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/green-space/15-minute-garden/",
+              "anchor_text": "โครงการสวน 15 นาที"
+            }
+          ]
+        },
+        {
+          "text": "รับการแจ้งเตือนฝุ่น PM2.5",
+          "url": "https://greener.bangkok.go.th/pm2-5/line-alert/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/pm2-5/line-alert/",
+              "anchor_text": "รับการแจ้งเตือนฝุ่น PM2.5"
+            }
+          ]
+        },
+        {
+          "text": "คู่มือดูแลตัวเอง จาก PM 2.5",
+          "url": "https://greener.bangkok.go.th/pm2-5/pm-2-5-dust-protection-and-health-tips/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/pm2-5/pm-2-5-dust-protection-and-health-tips/",
+              "anchor_text": "คู่มือดูแลตัวเอง จาก PM 2.5"
+            }
+          ]
+        },
+        {
+          "text": "Bus vs PM2.5",
+          "url": "https://bus-vs-pm25.com/",
+          "urls": [
+            {
+              "url": "https://bus-vs-pm25.com/",
+              "anchor_text": "Bus vs PM2.5"
+            }
+          ]
+        },
+        {
+          "text": "BKK Clean Air Area",
+          "url": "https://greener.bangkok.go.th/pm2-5/bkk-clean-air-area/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/pm2-5/bkk-clean-air-area/",
+              "anchor_text": "BKK Clean Air Area"
+            }
+          ]
+        },
+        {
+          "text": "โครงการ Low Emission Zone",
+          "url": "https://greener.bangkok.go.th/pm2-5/low-emission-zone/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/pm2-5/low-emission-zone/",
+              "anchor_text": "โครงการ Low Emission Zone"
+            }
+          ]
+        },
+        {
+          "text": "โครงการเครือข่าย Work From Home",
+          "url": "https://greener.bangkok.go.th/pm2-5/wfh/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/pm2-5/wfh/",
+              "anchor_text": "โครงการเครือข่าย Work From Home"
+            }
+          ]
+        },
+        {
+          "text": "สาเหตุและผลกระทบจาก Climate Change ต่อกรุงเทพมหานคร",
+          "url": "https://greener.bangkok.go.th/climate-change/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/climate-change/",
+              "anchor_text": "สาเหตุและผลกระทบจาก Climate Change ต่อกรุงเทพมหานคร"
+            }
+          ]
+        },
+        {
+          "text": "Bike Sharing",
+          "url": "https://greener.bangkok.go.th/bike-sharing/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/bike-sharing/",
+              "anchor_text": "Bike Sharing"
+            }
+          ]
+        },
+        {
+          "text": "โครงการ Bangkok Green Office",
+          "url": "https://greener.bangkok.go.th/climate-change/bangkok-green-office/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/climate-change/bangkok-green-office/",
+              "anchor_text": "โครงการ Bangkok Green Office"
+            }
+          ]
+        },
+        {
+          "text": "โครงการ BMA Net Zero",
+          "url": "https://greener.bangkok.go.th/climate-change/bma-net-zero/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/climate-change/bma-net-zero/",
+              "anchor_text": "โครงการ BMA Net Zero"
+            }
+          ]
+        },
+        {
+          "text": "โครงการ Bangkok Solar City",
+          "url": "https://greener.bangkok.go.th/solarcity",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/solarcity",
+              "anchor_text": "โครงการ Bangkok Solar City"
+            }
+          ]
+        },
+        {
+          "text": "คำนวณ Carbon Footprint ของคุณ",
+          "url": "https://games.greenerbangkok.com/carbon-footprint",
+          "urls": [
+            {
+              "url": "https://games.greenerbangkok.com/carbon-footprint",
+              "anchor_text": "คำนวณ Carbon Footprint ของคุณ"
+            }
+          ]
+        },
+        {
+          "text": "ฝุ่น PM 2.5",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Climate Change",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Food Bank",
+          "url": "https://greener.bangkok.go.th/bkk-food-bank/",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/bkk-food-bank/",
+              "anchor_text": "Food Bank"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "นโยบายของผู้ว่าชัชชาติทั้ง 216 ข้อ",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "กทม. ส่งการบ้าน ติดตามการทำงานของ กทม.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "เริ่มแยกขยะตั้งแต่วันนี้ เดี๋ยวลุงสอนให้",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "แจ้งปัญหาของเมือง เพื่อให้หน่วยงานแก้ไข",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "เรื่องราวสิ่งแวดล้อม เพื่อสร้างความตระหนัก",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "นำเสนอเรื่องราวเกี่ยวกับขยะ ที่เข้าถึงง่าย",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Everything about our planet and more",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "ภาคีจักรยานเมือง กรุงเทพฯ",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Thailand Walking and Cycling Institute",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "แจ้งปัญหาขยะ เพื่อให้หน่วยงานแก้ไข",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "เริ่มแยกขยะตั้งแต่วันนี้ เดี๋ยวลุงสอนให้",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "นำเสนอเรื่องราวเกี่ยวกับขยะ ที่เข้าถึงง่าย",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "แหล่งข้อมูลเกี่ยวกับมาตรฐานคุณภาพอากาศ น้ำ และเสียง",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Platform เปลี่ยนพฤติกรรมการแยกขยะ",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "กำจัด E-waste อย่างถูกวิธี ตามจุดรับ และไปรษณีย์",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "แจ้งปัญหาฝุ่น เพื่อให้หน่วยงานแก้ไข",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "แหล่งข้อมูลเกี่ยวกับมาตรฐานคุณภาพอากาศ น้ำ และเสียง",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "แจ้งเตือนฝุ่นผ่านไลน์ เมื่อค่าฝุ่นสูง",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "แอปพลิเคชั่น \"หมอชัวร์\" จากกรมควบคุมโรค",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "ศูนย์ข้อมูลกระจายข่าวส่งเสริมอนุรักษ์พลังงาน กทม.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "โครงการเพิ่มพื้นที่สีเขียวภายในปี 2030",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "แหล่งข้อมูลเกี่ยวกับมาตรฐานคุณภาพอากาศ น้ำ และเสียง",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "ศูนย์ข้อมูลกระจายข่าวส่งเสริมอนุรักษ์พลังงาน กทม.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Everything about our planet and more",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Environmental Justice Foundation Thailand",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "โครงการ 35 ชั่วโมงการเรียนรู้ธรรมชาติผ่านการเล่น",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "ฝุ่น PM2.5",
+          "url": "https://greener.bangkok.go.th/pm2-5",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/pm2-5",
+              "anchor_text": "ฝุ่น PM2.5"
+            }
+          ]
+        },
+        {
+          "text": "Climate Change",
+          "url": "https://greener.bangkok.go.th/climate-change",
+          "urls": [
+            {
+              "url": "https://greener.bangkok.go.th/climate-change",
+              "anchor_text": "Climate Change"
+            }
+          ]
+        },
+        {
+          "text": "ศาลาว่าการกรุงเทพมหานคร 2",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "ถ.มิตรไมตรี เขตดินแดง กรุงเทพมหานคร 10400",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Facebook Facebook",
+          "url": "https://www.facebook.com/bangkokbma/",
+          "urls": [
+            {
+              "url": "https://www.facebook.com/bangkokbma/",
+              "anchor_text": "Facebook\nFacebook"
+            }
+          ]
+        },
+        {
+          "text": "Instagram Instagram",
+          "url": "https://www.instagram.com/bangkok_bma/",
+          "urls": [
+            {
+              "url": "https://www.instagram.com/bangkok_bma/",
+              "anchor_text": "Instagram\nInstagram"
+            }
+          ]
+        },
+        {
+          "text": "Youtube Youtube",
+          "url": "https://www.youtube.com/channel/UCfnXi_yAPjgWUaFRqoiD45A",
+          "urls": [
+            {
+              "url": "https://www.youtube.com/channel/UCfnXi_yAPjgWUaFRqoiD45A",
+              "anchor_text": "Youtube\nYoutube"
+            }
+          ]
+        },
+        {
+          "text": "X X",
+          "url": "https://twitter.com/bangkokbma",
+          "urls": [
+            {
+              "url": "https://twitter.com/bangkokbma",
+              "anchor_text": "X\nX"
+            }
+          ]
+        },
+        {
+          "text": "TikTok TikTok",
+          "url": "https://www.tiktok.com/@bangkok_bma",
+          "urls": [
+            {
+              "url": "https://www.tiktok.com/@bangkok_bma",
+              "anchor_text": "TikTok\nTikTok"
+            }
+          ]
+        },
+        {
+          "text": "© กรุงเทพมหานคร 2026",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": null,
+    "secondary_topic": [
+      {
+        "h_title": "สวนลุมพินี",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "สวนสาธารณะแห่งแรกของกรุงเทพฯ จะอายุครบ 100 ปีในปี 2568 ที่ไม่เพียงเป็นสัญลักษณ์ปอดกลางกรุงที่มีพื้นที่กิจกรรมรองรับคนทุกเพศทุกวัย แต่ยังเป็นสถานที่ที่มีคุณค่าทั้งด้านประวัติศาสตร์ วัฒนธรรมและสิ่งแวดล้อม",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "ข้อมูลสวน",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "ที่ตั้ง",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "เวลาเปิด-ปิด",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "ทุกวัน 04.30 - 22.00 น.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ช่วงเวลาเปิดให้ปั่นจักรยาน 10.00 - 15.00 น.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ค่าบริการ",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "ค่าเข้า ฟรี",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ติดต่อ",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "จุดเด่นและกิจกรรม",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "ปั่นจักรยาน ช่วงเวลา 10.00-15.00 น.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "พายเรือคายัค ปั่นเรือเป็ด ซัพบอร์ด",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "มีลานสำหรับโยคะ แอโรบิก",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "มีห้องน้ำ และล็อกเกอร์เก็บของ",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "มี Pet Park",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ยังไม่อนุญาต",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "ห้ามซื้อขาย สับเปลี่ยน",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ภายในสวน",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "ลานพระบรมราชานุสาวรีย์รัชกาลที่ 6",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "เพื่อระลึกถึงพระมหากรุณาธิคุณขององค์ผู้ให้กำเนิดสวนลุมพินี",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Pet Park",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "ห้องสมุดประชาชน",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "ศูนย์ฝึกอาชีพ",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "ศูนย์นันทนาการ",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "ให้บริการด้านกีฬาและนันทนาการแก่สมาชิกทุกเพศทุกวัย ไม่ว่าจะเป็นดนตรี กีฬา คหกรรม ศิลปะ นาฎศิลป์",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ศาลาภิรมย์ภักดี",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "หอนาฬิกา",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "การเดินทางมายังสวนลุมพินี",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "โดยรถยนต์ส่วนตัว",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "สวนลุมพินีตั้งอยู่ตรงข้ามกับโรงพยาบาลจุฬาลงกรณ์ ฝั่งถนนราชดำริ โดยสามารถนำรถเข้าจอดภายในสวนลุมฯได้ ทางประตูโรงเรียนสวนลุมพินี ฝั่งถนนวิทยุ หรือเปิดตาม Google maps",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "โดยรถประจำทาง",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "ถนนพระราม 4 สาย 4 14 45 46 47 50 67 74 76 141 167 505 507 A3",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ถนนวิทยุ สาย 13 17 62 76 106",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ถนนราชดำริ สาย 14 15 74 77 119",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "โดยรถไฟฟ้า BTS/MRT",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "BTS ลงสถานีศาลาแดง แล้วเดินตามทาง Sky walk ข้ามถนนพระราม4",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "MRT ลงสถานีสีลมหรือลุมพินี",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "สวนสาธารณะอื่นๆที่คุณอาจจะสนใจ",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "สวนเฉลิมพระเกียรติ 80 พรรษา พระบาทสมเด็จพระเจ้าอยู่หัว (บางกอกน้อย)",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "สวนเฉลิมพระเกียรติ 80 พรรษา พระบาทสมเด็จพระเจ้าอยู่หัว (บางกอกน้อย)",
+            "url": "https://greener.bangkok.go.th/park/suan-chaloem-phra-kian-80-phansa-phra-bat-somdet-phra-jao-yu-hua-bangkok-noi/",
+            "urls": [
+              {
+                "url": "https://greener.bangkok.go.th/park/suan-chaloem-phra-kian-80-phansa-phra-bat-somdet-phra-jao-yu-hua-bangkok-noi/",
+                "anchor_text": "สวนเฉลิมพระเกียรติ 80 พรรษา พระบาทสมเด็จพระเจ้าอยู่หัว (บางกอกน้อย)"
+              }
+            ]
+          },
+          {
+            "text": "พื้นที่สีเขียวริมคลองบางกอกน้อย ที่ไม่เพียงเป็นสถานที่พักผ่อนชื่นชมธรรมชาติ ออกกำลังกายและสถานที่ท่องเที่ยว แต่ยังเป็นสวนสาธารณะแห่งการเรียนรู้ด้านพฤกษศาสตร์และวัฒนธรรมด้วย",
+            "url": "https://greener.bangkok.go.th/park/suan-chaloem-phra-kian-80-phansa-phra-bat-somdet-phra-jao-yu-hua-bangkok-noi/",
+            "urls": [
+              {
+                "url": "https://greener.bangkok.go.th/park/suan-chaloem-phra-kian-80-phansa-phra-bat-somdet-phra-jao-yu-hua-bangkok-noi/",
+                "anchor_text": "พื้นที่สีเขียวริมคลองบางกอกน้อย ที่ไม่เพียงเป็นสถานที่พักผ่อนชื่นชมธรรมชาติ ออกกำลังกายและสถานที่ท่องเที่ยว แต่ยังเป็นสวนสาธารณะแห่งการเรียนรู้ด้านพฤกษศาสตร์และวัฒนธรรมด้วย"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "สวนรมณีนาถ",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "สวนรมณีนาถ",
+            "url": "https://greener.bangkok.go.th/park/suan-romanee-nat/",
+            "urls": [
+              {
+                "url": "https://greener.bangkok.go.th/park/suan-romanee-nat/",
+                "anchor_text": "สวนรมณีนาถ"
+              }
+            ]
+          },
+          {
+            "text": "จากเรือนจำอายุกว่า 100 ปีที่เรียกติดปากกันว่า “คุกเก่า” ถูกดัดแปลงเป็นสวนสาธารณะและสวนสุขภาพใจกลางเมืองสำหรับทุกเพศทุกวัย เพื่อน้อมเกล้าถวายแด่สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ ในวโรกาสทรงมีพระชนมายุ 60 พรรษา และเป็นโบราณสถานในที่เดียวกัน",
+            "url": "https://greener.bangkok.go.th/park/suan-romanee-nat/",
+            "urls": [
+              {
+                "url": "https://greener.bangkok.go.th/park/suan-romanee-nat/",
+                "anchor_text": "จากเรือนจำอายุกว่า 100 ปีที่เรียกติดปากกันว่า “คุกเก่า” ถูกดัดแปลงเป็นสวนสาธารณะและสวนสุขภาพใจกลางเมืองสำหรับทุกเพศทุกวัย เพื่อน้อมเกล้าถวายแด่สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ ในวโรกาสทรงมีพระชนมายุ 60 พรรษา และเป็นโบราณสถานในที่เดียวกัน"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "สวนปิยะภิรมย์",
+        "main_title": "สวนลุมพินี",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "สวนปิยะภิรมย์",
+            "url": "https://greener.bangkok.go.th/park/suan-piya-phiroam/",
+            "urls": [
+              {
+                "url": "https://greener.bangkok.go.th/park/suan-piya-phiroam/",
+                "anchor_text": "สวนปิยะภิรมย์"
+              }
+            ]
+          },
+          {
+            "text": "พื้นที่สีเขียวขนาดย่อมใจกลางเมือง เขตบางกะปิด้วยเนื้อที่ไม่ถึง 12 ไร่ แต่ลงตัวในรูปแบบของสวนสุขภาพและลานกิจกรรมสำหรับชุมชน เหมาะกับการใช้ประโยชน์ได้ทั้งครอบครัว",
+            "url": "https://greener.bangkok.go.th/park/suan-piya-phiroam/",
+            "urls": [
+              {
+                "url": "https://greener.bangkok.go.th/park/suan-piya-phiroam/",
+                "anchor_text": "พื้นที่สีเขียวขนาดย่อมใจกลางเมือง เขตบางกะปิด้วยเนื้อที่ไม่ถึง 12 ไร่ แต่ลงตัวในรูปแบบของสวนสุขภาพและลานกิจกรรมสำหรับชุมชน เหมาะกับการใช้ประโยชน์ได้ทั้งครอบครัว"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "saraban.doe@bangkok.go.th"
+      ]
+    }
+  }
+}
