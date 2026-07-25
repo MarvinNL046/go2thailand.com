@@ -39,6 +39,7 @@ import { useSubId } from '../../lib/useSubId';
 import { ClimateUpdateGuideTemplate } from '../../components/blog/ClimateUpdateGuideTemplate';
 import { getNlClimateUpdateGuide } from '../../data/climate/nl';
 import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
+import { DurianThailandGuide } from '../../components/food/DurianThailandGuide';
 import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
 import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
@@ -181,6 +182,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'thai-curry-guide-green-red-yellow-massaman-panang') {
     return <ThaiCurryGuide />;
+  }
+
+  if (locale === 'nl' && post.slug === 'durian-season-thailand-2026-where-to-eat-buy-guide') {
+    return <DurianThailandGuide />;
   }
 
   if (locale === 'nl' && post.slug === 'jodd-fairs-bangkok-night-market-guide') {
