@@ -39,6 +39,7 @@ import { useSubId } from '../../lib/useSubId';
 import { ClimateUpdateGuideTemplate } from '../../components/blog/ClimateUpdateGuideTemplate';
 import { getNlClimateUpdateGuide } from '../../data/climate/nl';
 import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
+import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
 
 interface Source {
   name: string;
@@ -178,6 +179,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'thai-curry-guide-green-red-yellow-massaman-panang') {
     return <ThaiCurryGuide />;
+  }
+
+  if (locale === 'nl' && post.slug === 'jodd-fairs-bangkok-night-market-guide') {
+    return <JoddFairsRatchadaGuide />;
   }
 
   const breadcrumbs = [
