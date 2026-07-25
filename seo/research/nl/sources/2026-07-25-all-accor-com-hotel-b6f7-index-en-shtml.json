@@ -1,0 +1,1609 @@
+{
+  "captured_at": "2026-07-25T18:44:14.044Z",
+  "locale": "nl",
+  "url": "https://all.accor.com/hotel/B6F7/index.en.shtml",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Book your Flight + Hotel",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Planning your holiday just got easier",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "All you have to do is relax",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Relax. Unwind. De-stress. Repeat.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "15% OFF all year round on your stays in + 30 brands",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "15% discount all year round in ibis brands",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "15% OFF all year round on your stays in +30 brands",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "15% OFF all year round on your stays at ibis",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Grand Mercure Krabi Ao Nang",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Find a hotel",
+          "url": "https://all.accor.com/gb/booking/advanced-search.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/gb/booking/advanced-search.shtml",
+              "anchor_text": "Find a hotel"
+            }
+          ]
+        },
+        {
+          "text": "Sustainable travel",
+          "url": "https://all.accor.com/a/en/sustainability.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/sustainability.html",
+              "anchor_text": "Sustainable travel"
+            }
+          ]
+        },
+        {
+          "text": "Flight + Hotel",
+          "url": "https://www.allholidays.uk/",
+          "urls": [
+            {
+              "url": "https://www.allholidays.uk/",
+              "anchor_text": "Flight + Hotel"
+            }
+          ]
+        },
+        {
+          "text": "Our brands",
+          "url": "https://all.accor.com/a/en/brands.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/brands.html",
+              "anchor_text": "Our brands"
+            }
+          ]
+        },
+        {
+          "text": "A room during the day",
+          "url": "https://all.accor.com/a/en/offers/room-for-a-day.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/offers/room-for-a-day.html",
+              "anchor_text": "A room during the day"
+            }
+          ]
+        },
+        {
+          "text": "New Openings",
+          "url": "https://all.accor.com/a/en/experiences/ena-new-openings.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/experiences/ena-new-openings.html",
+              "anchor_text": "New Openings"
+            }
+          ]
+        },
+        {
+          "text": "Destinations of the month",
+          "url": "https://all.accor.com/a/en/experiences/ena-destinations-of-the-month.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/experiences/ena-destinations-of-the-month.html",
+              "anchor_text": "Destinations of the month"
+            }
+          ]
+        },
+        {
+          "text": "Family trips",
+          "url": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+              "anchor_text": "Family trips"
+            }
+          ]
+        },
+        {
+          "text": "See more",
+          "url": "https://all.accor.com/a/en/limitless/thematics.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/limitless/thematics.html",
+              "anchor_text": "See more"
+            }
+          ]
+        },
+        {
+          "text": "See all destinations",
+          "url": "https://all.accor.com/a/en/destination/world/hotels.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/destination/world/hotels.html",
+              "anchor_text": "See all destinations"
+            }
+          ]
+        },
+        {
+          "text": "Discover the programme",
+          "url": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+              "anchor_text": "Discover the programme"
+            }
+          ]
+        },
+        {
+          "text": "Benefits and status",
+          "url": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+              "anchor_text": "Benefits and status"
+            }
+          ]
+        },
+        {
+          "text": "Earn and redeem points",
+          "url": "https://all.accor.com/loyalty-program/earn-and-use/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/loyalty-program/earn-and-use/index.en.shtml",
+              "anchor_text": "Earn and redeem points"
+            }
+          ]
+        },
+        {
+          "text": "ALL Accor+ Subscriptions",
+          "url": "https://all.accor.com/a/en/loyalty-program/subscription-hub.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/loyalty-program/subscription-hub.html",
+              "anchor_text": "ALL Accor+ Subscriptions"
+            }
+          ]
+        },
+        {
+          "text": "ALL Accor+ Voyager",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "ALL Accor+ ibis",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Deals Back",
+          "url": "https://all.accor.com/a/en/deals-corner.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/deals-corner.html",
+              "anchor_text": "Deals"
+            }
+          ]
+        },
+        {
+          "text": "Our partners Back",
+          "url": "https://all.accor.com/loyalty-program/partners/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/loyalty-program/partners/index.en.shtml",
+              "anchor_text": "Our partners"
+            }
+          ]
+        },
+        {
+          "text": "Activities Back",
+          "url": "https://all.accor.com/a/en/loyalty-program/activities-and-events.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/loyalty-program/activities-and-events.html",
+              "anchor_text": "Activities"
+            }
+          ]
+        },
+        {
+          "text": "Tailored events",
+          "url": "https://meetings.accor.com/united-kingdom/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://meetings.accor.com/united-kingdom/index.en.shtml",
+              "anchor_text": "Tailored events"
+            }
+          ]
+        },
+        {
+          "text": "Loyalty programme benefits",
+          "url": "https://permalink.accor.com/loyalty-program/meetings-and-events?client=allheader",
+          "urls": [
+            {
+              "url": "https://permalink.accor.com/loyalty-program/meetings-and-events?client=allheader",
+              "anchor_text": "Loyalty programme benefits"
+            }
+          ]
+        },
+        {
+          "text": "Private events",
+          "url": "https://meetings.accor.com/our-event-types/private_events/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://meetings.accor.com/our-event-types/private_events/index.en.shtml",
+              "anchor_text": "Private events"
+            }
+          ]
+        },
+        {
+          "text": "Hybrid Meetings",
+          "url": "https://meetings.accor.com/promotions-offers/hybrid-meetings.en.shtml",
+          "urls": [
+            {
+              "url": "https://meetings.accor.com/promotions-offers/hybrid-meetings.en.shtml",
+              "anchor_text": "Hybrid Meetings"
+            }
+          ]
+        },
+        {
+          "text": "Training sessions",
+          "url": "https://meetings.accor.com/our-event-types/training_session/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://meetings.accor.com/our-event-types/training_session/index.en.shtml",
+              "anchor_text": "Training sessions"
+            }
+          ]
+        },
+        {
+          "text": "See more",
+          "url": "https://meetings.accor.com/united-kingdom/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://meetings.accor.com/united-kingdom/index.en.shtml",
+              "anchor_text": "See more"
+            }
+          ]
+        },
+        {
+          "text": "Event Organizers",
+          "url": "https://meetings.accor.com/our-event-types/private_events/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://meetings.accor.com/our-event-types/private_events/index.en.shtml",
+              "anchor_text": "Event Organizers"
+            }
+          ]
+        },
+        {
+          "text": "Travel Professionals",
+          "url": "https://travelpros.accor.com/gb/united-kingdom/index.shtml",
+          "urls": [
+            {
+              "url": "https://travelpros.accor.com/gb/united-kingdom/index.shtml",
+              "anchor_text": "Travel Professionals"
+            }
+          ]
+        },
+        {
+          "text": "Business Travellers",
+          "url": "https://businesstravel.accor.com/gb/united-kingdom/index.shtml",
+          "urls": [
+            {
+              "url": "https://businesstravel.accor.com/gb/united-kingdom/index.shtml",
+              "anchor_text": "Business Travellers"
+            }
+          ]
+        },
+        {
+          "text": "ALL Accor+ Voyager",
+          "url": "https://businesstravel.accor.com/promotions-offers/all-plus-voyageur.en.shtml",
+          "urls": [
+            {
+              "url": "https://businesstravel.accor.com/promotions-offers/all-plus-voyageur.en.shtml",
+              "anchor_text": "ALL Accor+ Voyager"
+            }
+          ]
+        },
+        {
+          "text": "ALL Accor+ ibis",
+          "url": "https://businesstravel.accor.com/promotions-offers/all-plus-ibis.en.shtml",
+          "urls": [
+            {
+              "url": "https://businesstravel.accor.com/promotions-offers/all-plus-ibis.en.shtml",
+              "anchor_text": "ALL Accor+ ibis"
+            }
+          ]
+        },
+        {
+          "text": "ALL Accor+ Voyager",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "ALL Accor+ ibis",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Krabi Hotels",
+          "url": "https://all.accor.com/a/en/destination/city/hotels-krabi-v14464.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/destination/city/hotels-krabi-v14464.html",
+              "anchor_text": "Krabi Hotels"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Manage booking",
+          "url": "https://all.accor.com/my-stay/en/search",
+          "urls": [
+            {
+              "url": "https://all.accor.com/my-stay/en/search",
+              "anchor_text": "Manage booking"
+            }
+          ]
+        },
+        {
+          "text": "Accor Group",
+          "url": "https://group.accor.com/",
+          "urls": [
+            {
+              "url": "https://group.accor.com/",
+              "anchor_text": "Accor Group"
+            }
+          ]
+        },
+        {
+          "text": "Management & franchises",
+          "url": "https://group.accor.com/hotel-development/",
+          "urls": [
+            {
+              "url": "https://group.accor.com/hotel-development/",
+              "anchor_text": "Management & franchises"
+            }
+          ]
+        },
+        {
+          "text": "Sustainable development",
+          "url": "https://all.accor.com/a/en/sustainability.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/sustainability.html",
+              "anchor_text": "Sustainable development"
+            }
+          ]
+        },
+        {
+          "text": "Affiliate programme",
+          "url": "https://all.accor.com/a/en/affiliate-program.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/affiliate-program.html",
+              "anchor_text": "Affiliate programme"
+            }
+          ]
+        },
+        {
+          "text": "Business travel",
+          "url": "https://businesstravel.accor.com/",
+          "urls": [
+            {
+              "url": "https://businesstravel.accor.com/",
+              "anchor_text": "Business travel"
+            }
+          ]
+        },
+        {
+          "text": "Meetings & events",
+          "url": "https://meetings.accor.com/",
+          "urls": [
+            {
+              "url": "https://meetings.accor.com/",
+              "anchor_text": "Meetings & events"
+            }
+          ]
+        },
+        {
+          "text": "Travel professionals",
+          "url": "https://travelpros.accor.com/portal/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://travelpros.accor.com/portal/index.en.shtml",
+              "anchor_text": "Travel professionals"
+            }
+          ]
+        },
+        {
+          "text": "Web accessibility",
+          "url": "https://all.accor.com/web-accessibility/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/web-accessibility/index.en.shtml",
+              "anchor_text": "Web accessibility"
+            }
+          ]
+        },
+        {
+          "text": "All languages",
+          "url": "https://all.accor.com/geoloc/selectdisplayzone/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/geoloc/selectdisplayzone/index.en.shtml",
+              "anchor_text": "All languages"
+            }
+          ]
+        },
+        {
+          "text": "Mobile services",
+          "url": "https://all.accor.com/a/en/mobile-app.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/mobile-app.html",
+              "anchor_text": "Mobile services"
+            }
+          ]
+        },
+        {
+          "text": "iOS app",
+          "url": "https://apps.apple.com/app/accorhotels-com/id489472613",
+          "urls": [
+            {
+              "url": "https://apps.apple.com/app/accorhotels-com/id489472613",
+              "anchor_text": "iOS app"
+            }
+          ]
+        },
+        {
+          "text": "Android app",
+          "url": "https://play.google.com/store/apps/details?id=com.accor.appli.hybrid",
+          "urls": [
+            {
+              "url": "https://play.google.com/store/apps/details?id=com.accor.appli.hybrid",
+              "anchor_text": "Android app"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Description",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Grand Mercure Krabi Ao Nang",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Upscale hotel for business and leisure",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Located in the heart of Ao Nang, Grand Mercure Krabi Ao Nang offers a tranquil retreat with stunning limestone cliff and lush garden views, just moments from Ao Nang Beach. Enjoy all-day dining at Chill Kitchen or savour authentic Italian cuisine at Da Vino Trattoria. Relax by two inviting swimming pools, including a kids' pool, recharge at the fitness centre, or unwind at the rooftop bar with panoramic views. With versatile event spaces, it is an ideal base for an unforgettable Krabi escape.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Discover Ao Nang, Krabi's most vibrant beachside district, where limestone cliffs meet turquoise seas. Embrace the vivid sights, tropical aromas and local culture, with island-hopping adventures and a lively coastal energy that inspires lasting memories.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Welcome to Grand Mercure Krabi Ao Nang, where Southern Thai charm meets modern comfort. Just steps from the beach, enjoy limestone vistas, sparkling pools, fun Kids Club and an enchanting stay with attentive, cultured service. - David, General Manager",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Enjoy a prime Ao Nang location with stunning limestone cliffs, family-friendly Kids Club and pools, plus diverse dining including rooftop and pool bars. Modern design and spacious accommodation complete a sophisticated and remarkable Krabi stay.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hotel location",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Grand Mercure Krabi Ao Nang",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "9-9 Moo 2, Tambon Aonang, Muang Krabi",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Click to copy the email address",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "GPS : 8.0349583, 98.829215",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Contact email HB6F7-RE1@accor.com",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Chill Kitchen",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Enjoy lunch and dinner at Chill Kitchen with much-loved Thai classics and international light dishes in a casual yet tastefully elegant space. Blending modern style with local character, it's an inviting setting for relaxed meals throughout the day.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Da Vino",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Da Vino brings the true essence of Italy to Krabi with handmade pasta, wood-fired pizzas and fine wines. Inspired by family traditions, this charming trattoria blends warmth, authenticity and elegance for memorable evenings full of flavor.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "IRD",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Available from 7:00 to 23:00, our in-room dining offers Thai favourites and international comfort dishes. Crafted with care and quality ingredients, each plate delivers the finest local and global flavours for a private, enriching culinary journey.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The SAN",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Escape to The SAN Pool Bar, where tropical flavours and enveloping aromas meet sun-soaked relaxation. Choose handcrafted cocktails, chilled beers and light bites by the pool, and enjoy a truly immersive retreat in the fabulous sunshine or cool shade.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Currently unavailable",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Typsy Bar",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Embrace your new locale at Typsy Rooftop Bar, with sweeping vistas of Krabi's iconic cliffs. A stylish hideaway for signature cocktails and social evenings, it's the ideal setting to gather, relax, or just enjoy the view from a fresh perspective.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Currently unavailable",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Pool",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Relax in our free-form swimming pool with an inviting pool bar nearby, while little ones enjoy safe splashes in the children's pool beside the Kids Club. A sun-kissed retreat that nourishes curiosity, celebrates local joy and offers fun family moments.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Our guest reviews",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "100% genuine reviews from our guests",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Atul V. Families\n- 7/18/2026 Confirmed reviews ALL",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sawasdee Kha!\nDear Valued Guest,\nThank you very much for your loyalty and for taking the time to share such a wonderful review following your recent stay at Grand Mercure Krabi Ao Nang.\nWe are truly delighted to know that you had such an amazing experience at Grand Mercure Krabi Ao Nang. Your kind words mean a great deal to our entire team and serve as a wonderful encouragement for us to continue delivering memorable stays.\nWe sincerely appreciate your support and look forward to welcoming you back for another exceptional stay in the near future.\nBest regards,\nMs. Supaporn Srichay\nGuest Experience Manager",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bodhisattwa N. Couples\n- 7/18/2026 Confirmed reviews ALL",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The experience was overall nice. The hotel is nicely located and has warm staff members who made us feel at home. In terms of amenities - the pool and the breakfast buffet spread were great. The disappointing part on Day 1 was that the washbasin was clogged with lot of hair, which felt extremely strange for a hotel of Grand mercure’s repute and overall the washroom ventilation needs definite improvements.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dear Valued Guest,\nThank you very much for your loyalty and for taking the time to share such a wonderful review following your recent stay at Grand Mercure Krabi Ao Nang.\nWe are delighted to know that you had an overall enjoyable experience and appreciated our convenient location, warm hospitality, swimming pool, and breakfast buffet. It is wonderful to hear that our team made you feel at home, as creating memorable experiences for our guests is our highest priority.\nAt the same time, we sincerely apologize for the condition of the washbasin upon your arrival. Finding a clogged washbasin with hair is certainly not the standard of cleanliness we strive to provide, and we completely understand your disappointment. Please rest assured that your comments have been shared with our Housekeeping and Engineering teams for immediate review and corrective action to prevent this from happening again.\nWe also appreciate your feedback regarding the bathroom ventilation. Your valuable comments will be taken into consideration as we continue to improve our facilities and enhance the comfort of our guests.\nThank you once again for your constructive feedback. We truly value your support and hope to have the pleasure of welcoming you back for a much-improved experience in the near future.\nBest regards,\nMs. Supaporn Srichay\nGuest Experience Manager",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ismail B. O. Families\n- 7/17/2026 Confirmed reviews ALL",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Overall is abive then expectation. Especially the buggy service team was super and beyod the expected especially on their punctuality, courtesy and very servuce oriented, reflected the brand image of Accor Group, specifically under Mercure group. Well done to the higher management on the continious effort taken to sustain this such achievement.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dear Valued Guest,\nThank you very much for your loyalty and for taking the time to share such a wonderful review following your recent stay at Grand Mercure Krabi Ao Nang.\nWe are truly delighted to know that your overall experience exceeded your expectations. It is especially rewarding to hear your kind recognition of our buggy service team. Your compliments regarding their punctuality, courtesy, and service-oriented attitude mean a great deal to us. We are proud that their dedication reflected the hospitality and values of the Accor family and the Grand Mercure brand.\nYour thoughtful appreciation will be shared with our buggy team and the entire management team, as it serves as a great source of motivation to continue delivering exceptional service to all our guests.\nThank you once again for your encouraging words and support. We sincerely look forward to welcoming you back for another memorable stay at Grand Mercure Krabi Ao Nang.\nBest regards,\nMs. Supaporn Srichay\nGuest Experience Manager",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Patoo P. Couples\n- 7/16/2026 Confirmed reviews ALL",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "We were not terribly impressed with the layout of the hotel, with several buildings, (and several stairs or elevators required) to navigate to our allocated room. Whilst being initially escorted to our room, I did notice that several rooms were undergoing some kind of construction or renovation, which was surprising for a hotel of this standard which (apparently) only opened 7 months ago. The same with the bar & restaurant 'Typsy' which was also full of workmen inside too. I realise that due to space constraints Accor have / had in this location, there is little choice in the design of the hotel layout, but just saying that it wasn't to our taste.\nFirst impressions on opening the door of our allocated room were good. Light, airy and well furnished. But:\nThe balcony sliding glass door had the upper weather seal literally hanging down from the door rail. At first we thought it was a snake, but closer inspection showed approximately 6-8 inches of seal displaced.\nThe hanging lights at either side of the bed have been placed at head height and I lost count how many times I hit my head on the light, particularly when trying to use the telephone next to the bed.\nThe bottle of hair conditioner in the shower was empty when we checked into the room, and we had to call to request it was filled up.\nThe coffee sachets in the room are 3in1 (only), even though the hotel also supplies packets of sugar too. You can easily add more sugar if you have a sweet tooth, but you cannot remove sugar from 3in1 coffee.\nThe tea and coffee in the room, was NOT replenished by Housekeeping during daily cleaning the next day.\nAlso, during daily cleaning the next day, the waste bin next to the refrigerator was NOT emptied and still contained the stuff we had thrown away the day before.\nWhen using the room shower for the first time after checking in, we were pretty surprised and disappointed to see a thin layer of yellow soap scum on the lower walls and floor of the tiles near to the actual shower, particularly in the corners. To prove how easy it is to clean this soap scum off - I used one of the hotel's toothbrushes to clean the tiles and grout and restore it to its natural colour. It only took a few seconds but isn't really something one expects to have to do when checking into a hotel of this standard. I do have a phone video clip if anyone would like to see it. On the first day in the room, I dropped a few coins from my pocket, one of which managed to roll behind the bedside cabinet where the telephone sits on. As I went to retrieve my coins, what I saw behind the cabinet was 'disgusting'. I can't be sure if what I saw amongst the piles of dirt was actually insect droppings but it certainly looked like it, and then my eyes wandered to behind, and under the bed - which was just as bad and even had a plastic bag under the bed mixed in with all the dust and dirt. One of the things in the room that concerned me was the placement of the room's smoke detector about 50cm in front of the air-conditioner vents. It is normal to install a smoke detector in the centre of a room and/or at the highest point of the ceiling, to be able to detect smoke from all areas of the room, and accounting for the fact that smoke rises. To place a smoke detector less than 2 feet away from an air conditioning vent which could affect the smoke detection capabilities is extremely 'surprising'. And whilst looking at this situation I also noticed that the normal flashing LEDs on the detector to show it is working / has power, were not flashing. This could mean that there is either no power to the detector OR that is malfunctioning. I looked at several other smoke detectors in the hotel in various buildings and all of them seemed to be of the same type/design and all of them had working (flashing) green LED's which flashed approximately every minute or so - unlike the one in our room.\nI also noticed that something HAD been fitted in the exact centre of our room at some stage (above the bed) but had since been removed and a blanking plate fitted in its place. Could this be where the smoke detector was originally fitted, I wonder?\nOn the first day of our stay, my partner decided to spend an hour or so at the hotel pool. I'm not much of a pool person so elected to lie on the sun lounger instead whilst she got her swimming exercise in. It is normal to shower before swimming, but we couldn't see any shower at or near the pool, although we were told there IS one.\nI noticed that on the surface of the water close to the entry/exit stairs, there was something floating on the surface of the water which looked like a film of sand or perhaps even soil/compost from the trees and shrubs around. Closer investigation revealed this yellow substance to have thinly coated the surface of the tiles and tile edging near the top of the pool water. I concluded (rightly or wrongly) that this was similar to the soap scum that I had discovered in the room shower, and to see if I was correct, I ran my finger over the tiles and it was like drawing a picture with a crayon on the tiles, and where my finger went over the tiles, the white of the tile and tile edging strips was exposed underneath. (See above Re \"pre swim shower\") I have never seen this in a swimming pool before, but it confirmed to me that I will never be setting foot in that swimming pool for sure, I can't imagine that stuff going into your mouth as you swim, play and have fun in the water.\nFinally, and possibly the most serious.\nOn our first (and only) full day at your hotel, we had planned to have breakfast at the hotel and then go off to one of the islands for a boat day trip.\nWe went down to the breakfast buffet around 08…. The selection was impressive.\nAfter a delightful breakfast and a couple of cups of coffee, we went back up to our room to plan where we would go that day. Around 45 minutes after getting back to the room, I began to feel some discomfort in my stomach and assumed I merely had some trapped wind or similar. After another 45 minutes or so, I began to take up residence in the toilet and knew something was not right. We decided to put the day trip plan on hold for a while and see how I was feeling. By 11.30am I had really strong stomach pains and even began discussing if I might need medical attention. In the early afternoon I began vomiting and by this point I was completely drained of energy. We ventured out to find a pharmacy and found one near the hotel. I was given medicines to try to stop the vomiting and stop the pain, and told that if it continued, I should seek emergency care at a hospital. After taking the given medicines I slept for several hours and felt disappointed that our short stay in Krabi had been spent mostly in a hotel room. I suggested to my partner that we go to walk or swim or something - just to get out of the room, as we had been in the room all day, so we went down to the pool area where she had a drink at the pool bar whilst I lay on the sun bed and slept (again). We were due to leave the next day back to Bangkok and had to make a decision to carry on with the flight or to stay in Krabi until I felt better. I insisted to get on the plane the next day, back to Bangkok, which is home territory and then, if still feeling bad - to seek further medical treatment then. Our flight was in the afternoon so we asked the front desk if we could have a late check-out \"as I was sick and didn't want to be far from a toilet or somewhere to lie down\". We were told that a 1pm checkout (1 hr late) was NOT possible as \"the hotel was busy and had many check-ins that day\", but - they would allow us an extra 30 minutes!\nAfter landing in Bangkok, we went directly to the Hospital. I spent several hours being given treatment and was told that I had \"a severe bacterial infection caused by something I had digested\". The only thing I had eaten at all in the last 48 hours was the hotel breakfast the previous morning.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Chenzhen W. Couples\n- 7/12/2026 Confirmed reviews ALL",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This stay was specifically arranged to experience the newly-opened hotel.\nSurprisingly, the bath towels and hand towels looked as if they had been used for two years, yet this is a brand-new hotel that has only been open for six months.\nSecondly, hotel's recognition of ALL loyalty needs improvement: there is no list of member benefits provided, and breakfast does not offer any special privileges. Apart from room upgrades and a welcome drink, there seems to be little else offered.\nThirdly, the cleanliness needs to be improved. There are obvious stains on the glass in the bathroom, for example.\nI honestly can't find any particularly praiseworthy features, besides the new facilities that a new hotel should have, and the passable service. I don't want to give a low score to damage the hotel's reputation, but hopefully for a better experience next time for my stay",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Our guest reviews",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ALL Rating 4.4/5 190 reviews",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating 5.0/5",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Simply amazing experience",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating 4.0/5",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating 5.0/5",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating 1.5/5",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating 5.0/5",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "When making a booking at this hotel:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I earn Status & Rewards points",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I can use my Rewards points",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I can take advantage of the Members' rate",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Free: become a member",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I benefit from advantages",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Our other establishments nearby",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "ibis Styles Krabi Ao Nang 4 stars",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating (ALL Rating) 3.7/5 (358 reviews )",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sofitel Krabi Phokeethra Golf & Spa Resort 5 stars",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating (ALL Rating) 4.5/5 (1152 reviews )",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Banyan Tree Krabi 5 stars",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Novotel Phuket City Phokeethra 5 stars",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating (ALL Rating) 4.6/5 (747 reviews )",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ibis Styles Phuket City 3 stars",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating (ALL Rating) 4.5/5 (851 reviews )",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Pullman Phuket Panwa Beach Resort 5 stars",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating (ALL Rating) 4.6/5 (1766 reviews )",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "V Villas Phuket - MGallery Collection 5 stars",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer review rating (ALL Rating) 4.8/5 (249 reviews )",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Splash Beach Resort Phuket 5 stars",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Page out of",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At 222 m",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At 9.681 km",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At 11.202 km",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At 50.924 km",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At 51.004 km",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At 53.254 km",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At 53.994 km",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At 58.317 km",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Customer review rating (ALL Rating) 4.4/5 190 reviews",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "21 21 photos",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "20 20 photos",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hotel services",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Customer reviews",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Hotel extras",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Modern Design & Thai Charm",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Diverse Dining & Rooftop Bar",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Nature & Scenic Views",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Family-Friendly Kids Club",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Exclusive Family Suites",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Our accommodation(s)",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Page out of",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Page out of",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Superior Room with 1 King Bed",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "3 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "33 m² / 355 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedding 1 x Double bed(s)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Accessible room",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Superior Room with Twin Bed",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "3 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "33 m² / 355 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedding 1 x Twin bed(s)",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Deluxe Rooom with 1 King Bed",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Most of the accommodation: Balcony",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "3 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "38 m² / 409 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedding 1 x Double bed(s)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Views: Pool side",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Deluxe Rooom with Twin Beds",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "3 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "38 m² / 409 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedding 1 x Twin bed(s)",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Premier Room with 1 King Plus bed",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "3 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "43 m² / 462 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedding 1 x Double bed(s)",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Premier Room with Twin beds",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "3 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "43 m² / 462 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedding 1 x Twin bed(s)",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Junior Suite with 1 King Plus bed",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "4 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "58 m² / 624 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedding 1 x Double bed(s)",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Executive Suite with 1 king-size bed and 2 single beds, Jacuzzi, terrace",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Bedding 1 x Double bed(s) and 1 x Twin bed(s)",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "5 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "120 m² / 1291 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Views: Panorama view",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Superior Room with 1 King Bed",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "3 pers. max",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "33 m² / 355 sq ft",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedding 1 x Double bed(s)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Accessible room",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Access and transport",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Access: 40 km / 24.85 mi 1 hrs 39 min walk / 1 hrs 39 min drive",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Access: 164 km / 101.9 mi 19 hrs walk / 2 hrs 20 min drive",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Railway station",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Page out of",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "PHI PHI ISLANDS",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Additional charge",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Shuttle scheduled",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "SURAT THANI",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Railway station",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Additional charge",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Shuttle on call",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Hotel services",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Check-in from 02:00 PM -\nCheck out up to 12:00 PM",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "On site",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Swimming pool",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Car park",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wheelchair accessible",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Fitness center",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Air conditioning",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Meeting rooms",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "100% Non Smoking Property",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Page out of",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Page out of",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Breakfast",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Fitness center",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Meetings & Events",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Number of Meeting Room 1 Surface of the largest room 100 m² / 1076.39 sq ft Maximum seats capacity 80 Maximum capacity for banquets 80",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Non contractual photo",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Web-users rating",
+        "main_title": "Grand Mercure Krabi Ao Nang 5 stars",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Other web-users rate our hotel",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Powered by",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": [
+      {
+        "name": null,
+        "rating_value": 4.4,
+        "max_rating_value": 5,
+        "rating_count": 190,
+        "relative_rating": 0.8800000000000001
+      }
+    ],
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "+6675628799",
+        "+66-75-628-799"
+      ],
+      "emails": null
+    }
+  }
+}

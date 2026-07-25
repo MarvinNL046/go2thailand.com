@@ -1,0 +1,1250 @@
+{
+  "captured_at": "2026-07-25T18:45:11.050Z",
+  "locale": "nl",
+  "url": "https://www.d-reizen.nl/inspiratie/nieuwe-hotels-van-dit-jaar",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "JavaScript staat uit in je instellingen. Zet JavaScript aan om gebruik te maken van D-reizen.nl.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Mijn D-reizen",
+          "url": "https://mijn.d-reizen.nl/Login",
+          "urls": [
+            {
+              "url": "https://mijn.d-reizen.nl/Login",
+              "anchor_text": "Mijn D-reizen"
+            }
+          ]
+        },
+        {
+          "text": "Last minute",
+          "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie",
+          "urls": [
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie",
+              "anchor_text": "Last minute"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-spanje",
+              "anchor_text": "Spanje"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-griekenland",
+              "anchor_text": "Griekenland"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-turkije",
+              "anchor_text": "Turkije"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-egypte",
+              "anchor_text": "Egypte"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-portugal",
+              "anchor_text": "Portugal"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-mallorca",
+              "anchor_text": "Mallorca"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-ibiza",
+              "anchor_text": "Ibiza"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute-valencia",
+              "anchor_text": "Valencia"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute-malaga",
+              "anchor_text": "Malaga"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute/sevilla",
+              "anchor_text": "Sevilla"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-gran-canaria",
+              "anchor_text": "Gran Canaria"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-tenerife",
+              "anchor_text": "Tenerife"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-lanzarote",
+              "anchor_text": "Lanzarote"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-fuerteventura",
+              "anchor_text": "Fuerteventura"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-canarische-eilanden",
+              "anchor_text": "Canarische Eilanden"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-curacao",
+              "anchor_text": "Curaçao"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-kaapverdische-eilanden",
+              "anchor_text": "Kaapverdië"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-mexico",
+              "anchor_text": "Mexico"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute-dubai",
+              "anchor_text": "Dubai"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-bonaire",
+              "anchor_text": "Bonaire"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie/last-minute-dominicaanse-republiek",
+              "anchor_text": "Dom. Republiek"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute-rome",
+              "anchor_text": "Rome"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute-barcelona",
+              "anchor_text": "Barcelona"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute/marrakech",
+              "anchor_text": "Marrakech"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute-lissabon",
+              "anchor_text": "Lissabon"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute-londen",
+              "anchor_text": "Londen"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute/new-york",
+              "anchor_text": "New York"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie",
+              "anchor_text": "Zonvakantie"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/all-inclusive-zonvakanties/last-minute",
+              "anchor_text": "All inclusive"
+            },
+            {
+              "url": "https://www.d-reizen.nl/stedentrip/last-minute",
+              "anchor_text": "Stedentrip"
+            },
+            {
+              "url": "https://www.d-reizen.nl/last-minute/weekend-weg",
+              "anchor_text": "Weekend weg"
+            },
+            {
+              "url": "https://www.d-reizen.nl/wintersport/last-minute-wintersport",
+              "anchor_text": "Wintersport"
+            },
+            {
+              "url": "https://www.d-reizen.nl/autovakantie/last-minute-autovakantie",
+              "anchor_text": "Autovakantie"
+            }
+          ]
+        },
+        {
+          "text": "Verre reizen",
+          "url": "https://www.d-reizen.nl/verre-reizen",
+          "urls": [
+            {
+              "url": "https://www.d-reizen.nl/verre-reizen",
+              "anchor_text": "Verre reizen"
+            },
+            {
+              "url": "https://www.d-reizen.nl/rondreis",
+              "anchor_text": "Rondreis"
+            },
+            {
+              "url": "https://www.d-reizen.nl/rondreis/rondreizen-op-maat",
+              "anchor_text": "Rondreis op maat"
+            },
+            {
+              "url": "https://www.d-reizen.nl/groepsreizen",
+              "anchor_text": "Groepsreizen"
+            },
+            {
+              "url": "https://www.d-reizen.nl/cruise",
+              "anchor_text": "Cruisevakanties"
+            },
+            {
+              "url": "https://www.d-reizen.nl/zonvakantie/verre-zonvakantie",
+              "anchor_text": "Verre zonvakantie"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/aruba",
+              "anchor_text": "Aruba"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/bonaire",
+              "anchor_text": "Bonaire"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/curacao",
+              "anchor_text": "Curaçao"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/dominicaanse-republiek",
+              "anchor_text": "Dom. Republiek"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/jamaica",
+              "anchor_text": "Jamaica"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/verenigde-staten/florida",
+              "anchor_text": "Florida"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/mexico",
+              "anchor_text": "Mexico"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/verenigde-staten/las-vegas",
+              "anchor_text": "Las Vegas"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/canada",
+              "anchor_text": "Canada"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/barbados",
+              "anchor_text": "Barbados"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/indonesie/bali",
+              "anchor_text": "Bali"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/verenigde-arabische-emiraten/dubai",
+              "anchor_text": "Dubai"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/thailand",
+              "anchor_text": "Thailand"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/malediven",
+              "anchor_text": "Malediven"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/sri-lanka",
+              "anchor_text": "Sri Lanka"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/kaapverdische-eilanden",
+              "anchor_text": "Kaapverdië"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/gambia",
+              "anchor_text": "Gambia"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/mauritius",
+              "anchor_text": "Mauritius"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/tanzania/zanzibar",
+              "anchor_text": "Zanzibar"
+            },
+            {
+              "url": "https://www.d-reizen.nl/vakantie/zuid-afrika",
+              "anchor_text": "Zuid-Afrika"
+            },
+            {
+              "url": "https://www.d-reizen.nl/inspiratie/tips-curacao",
+              "anchor_text": "Tips Curaçao"
+            },
+            {
+              "url": "https://www.d-reizen.nl/inspiratie/mooiste-eilanden-thailand",
+              "anchor_text": "Eilanden Thailand"
+            },
+            {
+              "url": "https://www.d-reizen.nl/inspiratie/mooiste-plekken-mauritius",
+              "anchor_text": "Mooi op Mauritius"
+            },
+            {
+              "url": "https://www.d-reizen.nl/inspiratie/leukste-plekken-bali",
+              "anchor_text": "Leuke tips Bali"
+            },
+            {
+              "url": "https://www.d-reizen.nl/inspiratie/snorkelen-kaapverdie",
+              "anchor_text": "Snorkelen Kaapverdië"
+            }
+          ]
+        },
+        {
+          "text": "D-reizen.nl >",
+          "url": "https://www.d-reizen.nl/",
+          "urls": [
+            {
+              "url": "https://www.d-reizen.nl/",
+              "anchor_text": "D-reizen.nl"
+            }
+          ]
+        },
+        {
+          "text": "Inspiratie >",
+          "url": "https://www.d-reizen.nl/inspiratie",
+          "urls": [
+            {
+              "url": "https://www.d-reizen.nl/inspiratie",
+              "anchor_text": "Inspiratie"
+            }
+          ]
+        },
+        {
+          "text": "Nieuwe hotels 2026",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "[{\"Name\":\"D-reizen.nl\",\"Url\":\"https://www.d-reizen.nl/\"},{\"Name\":\"Inspiratie\",\"Url\":\"https://www.d-reizen.nl/inspiratie\"}]",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "footer": null,
+    "main_topic": [
+      {
+        "h_title": "1: TUI BLUE Maviss - Serik, Turkije",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Waterliefhebbers zitten hier helemaal op hun plek! TUI BLUE Maviss is een splinternieuw all inclusive resort aan de Turkse Rivièra en geeft jouw vakantie in 2026 direct een upgrade. Dankzij meerdere zwembaden, vijf glijbanen en stijlvolle swim-up kamers is er altijd iets te doen. Via een brug sta je zo op het privéstrand, en ook voor sportfans is er genoeg keuze met padel, tennis en fitness. Wie op zoek is naar een nieuw hotel in Turkije waar zowel gezinnen als actieve reizigers volop aan hun trekken komen, vindt in dit resort precies wat hij zoekt. Vanaf april 2026 ben je hier van harte welkom.",
+            "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/serik/hotel-tui-blue-maviss",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/serik/hotel-tui-blue-maviss",
+                "anchor_text": "TUI BLUE Maviss"
+              },
+              {
+                "url": "https://www.d-reizen.nl/all-inclusive",
+                "anchor_text": "all inclusive"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera",
+                "anchor_text": "Turkse Rivièra"
+              },
+              {
+                "url": "https://www.d-reizen.nl/hotels-met-swim-up-kamers",
+                "anchor_text": "swim-up kamers"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/turkije",
+                "anchor_text": "Turkije"
+              }
+            ]
+          },
+          {
+            "text": "Stijlvol genieten bij je swim-up kamer onder de Turkse zon",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu TUI BLUE Maviss",
+            "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/serik/hotel-tui-blue-maviss",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/serik/hotel-tui-blue-maviss",
+                "anchor_text": "Boek nu TUI BLUE Maviss"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "2: RIU Palace Phuket – Phuket, Thailand",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "RIU Palace is pure verwennerij. Het nieuwe RIU Palace Phuket in Thailand is een volledig all inclusive resort dat in april 2026 zal openen. Het hotel ligt direct aan het rustige Mai Khao Beach. Je verblijft hier in een tropische omgeving met alle comfort en luxe die je van deze hotelketen gewend bent. Denk aan meerdere restaurants, royale zwembaden en een zwembadbar die het vakantiegevoel compleet maakt. Wie graag extra exclusiviteit wil, kan kiezen voor de Elite Club met swim‑up suites. Voor een luxe verre reis in 2026 die perfect op je wensenlijst past, is RIU Palace Phuket een ideale keuze.",
+            "url": "https://www.d-reizen.nl/vakantie/thailand/phuket/mai-khao-beach/hotel-riu-palace-phuket",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/thailand/phuket/mai-khao-beach/hotel-riu-palace-phuket",
+                "anchor_text": "RIU Palace Phuket"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/thailand",
+                "anchor_text": "Thailand"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/thailand/phuket/mai-khao-beach",
+                "anchor_text": "Mai Khao Beach"
+              }
+            ]
+          },
+          {
+            "text": "Vakantiegevoel aan de swim‑up bar van RIU Palace Phuket",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu RIU Palace Phuket",
+            "url": "https://www.d-reizen.nl/vakantie/thailand/phuket/mai-khao-beach/hotel-riu-palace-phuket",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/thailand/phuket/mai-khao-beach/hotel-riu-palace-phuket",
+                "anchor_text": "Boek nu RIU Palace Phuket"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "3: RIU Palace Swahili – Zanzibar, Tanzania",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Nog een topper van RIU Palace: dit is een verblijf zonder kinderen, uitzicht op zwembaden die lijken op te gaan in de horizon en een strand dat bijna onwerkelijk wit is. Het nieuwe resort op Zanzibar zet meteen de toon. RIU Palace Swahili verwelkomt vanaf januari 2026 zijn eerste gasten aan het beroemde Nungwi Beach. Overdag dompel je jezelf onder in de rust bij een van de drie infinity pools, terwijl je ’s avonds kiest uit zeven restaurants en live-optredens onder de open hemel. Wie zijn vakantie graag nog exclusiever maakt, kan upgraden naar de Elite Club. Voor koppels die in 2026 een bijzonder, stijlvol en gloednieuw adults only hotel op Zanzibar zoeken, is dit een droomlocatie.",
+            "url": "https://www.d-reizen.nl/vakantie/tanzania/zanzibar",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/tanzania/zanzibar",
+                "anchor_text": "Zanzibar"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/tanzania/zanzibar/kendwa/hotel-riu-palace-swahili",
+                "anchor_text": "RIU Palace"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/tanzania/zanzibar/kendwa/hotel-riu-palace-swahili",
+                "anchor_text": "Swahili"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/tanzania/zanzibar/nungwi",
+                "anchor_text": "Nungwi"
+              }
+            ]
+          },
+          {
+            "text": "RIU Palace Swahili: paradijs aan het zwembad in Zanzibar",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu RIU Palace Swahili",
+            "url": "https://www.d-reizen.nl/vakantie/tanzania/zanzibar/kendwa/hotel-riu-palace-swahili",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/tanzania/zanzibar/kendwa/hotel-riu-palace-swahili",
+                "anchor_text": "Boek nu RIU Palace Swahili"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "4: Ikos Kissamos – Kreta, Griekenland",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Ikos staat al jaren bekend om zijn hoogwaardige all inclusive‑ervaring, en in april 2026 breidt de hotelketen uit met een schitterende nieuwkomer: Ikos Kissamos. Dit gloednieuwe resort op Kreta wordt gebouwd op een bijzonder rustige plek, aan een beschutte baai met golvende heuvels en glashelder water als decor. Gasten verblijven in eigentijdse kamers en elegante suites, genieten van culinaire verfijning en ervaren de kenmerkende, ongeëvenaarde service waar Ikos wereldwijd om geroemd wordt. Elk detail is tot in de puntjes geregeld, waardoor je moeiteloos dagenlang geniet van rust en comfort.",
+            "url": "https://www.d-reizen.nl/vakantie/griekenland/kreta/kissamos/hotel-ikos-kissamos",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/griekenland/kreta/kissamos/hotel-ikos-kissamos",
+                "anchor_text": "Ikos Kissamos"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/griekenland/kreta",
+                "anchor_text": "Kreta"
+              }
+            ]
+          },
+          {
+            "text": "Kreta op z’n chicst bij Ikos Kissamos",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu Ikos Kissamos",
+            "url": "https://www.d-reizen.nl/vakantie/griekenland/kreta/kissamos/hotel-ikos-kissamos",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/griekenland/kreta/kissamos/hotel-ikos-kissamos",
+                "anchor_text": "Boek nu Ikos Kissamos"
+              }
+            ]
+          },
+          {
+            "text": "> Leestip : Ontdek meer nieuwe hotels die in 2026 hun deuren openen in Griekenland!",
+            "url": "https://www.d-reizen.nl/inspiratie/nieuwe-hotels-griekenland-2026",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/inspiratie/nieuwe-hotels-griekenland-2026",
+                "anchor_text": "Ontdek meer nieuwe hotels die in 2026 hun deuren openen in Griekenland!"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "5: Serenity Aqua – Rhodos, Griekenland",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Serenity Aqua is een fantastische nieuwkomer op Rhodos voor gezinnen die samen willen genieten. Het resort draait om ontspanning én vermaak, waardoor zowel kinderen als volwassenen zich moeiteloos de hele dag bezighouden. De kamers zijn ruim opgezet en modern vormgegeven, zodat je alle ruimte hebt om comfortabel samen te verblijven. Dankzij de lichte bouwstijl en frisse sfeer voelt het hotel uitnodigend en ontspannen aan: ideaal voor wie houdt van gemak en een rustige omgeving. Alles is overzichtelijk opgezet, waardoor je vakantie vanzelf draait om quality time. Als alles volgens planning verloopt, opent Serenity Aqua in mei 2026 opnieuw de deuren, precies op tijd voor de meivakantie of zomer. Zo kun jij als een van de eersten kennismaken met alle splinternieuwe faciliteiten!",
+            "url": "https://www.d-reizen.nl/vakantie/griekenland/rhodos/kolymbia/hotel-serenity-aqua",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/griekenland/rhodos/kolymbia/hotel-serenity-aqua",
+                "anchor_text": "Serenity Aqua"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/griekenland/rhodos",
+                "anchor_text": "Rhodos"
+              }
+            ]
+          },
+          {
+            "text": "Een oase van rust en ontspanning",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu Serenity Aqua",
+            "url": "https://www.d-reizen.nl/vakantie/griekenland/rhodos/kolymbia/hotel-serenity-aqua",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/griekenland/rhodos/kolymbia/hotel-serenity-aqua",
+                "anchor_text": "Boek nu Serenity Aqua"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "6: Nomada House by SH Hoteles – Costa Blanca, Spanje",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Nomada House by SH Hoteles is een splinternieuw boutiquehotel waar strak design moeiteloos samengaat met een mediterrane, warme uitstraling van de Costa Blanca. De lichte kamers, het gebruik van natuurlijke materialen en de rustige, persoonlijke sfeer maken het een ideale plek voor liefhebbers van kleinschalige hotels met elegantie. Met sfeervolle patio’s, prachtige zwembaden en een unieke inrichting kom je hier meteen in een ontspannen vakantiestemming. Zodra je hier binnenstapt wil je voorlopig nog niet naar huis.",
+            "url": "https://www.d-reizen.nl/vakantie/spanje/costa-blanca/denia/hotel-nomada-house-by-sh-hoteles",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/costa-blanca/denia/hotel-nomada-house-by-sh-hoteles",
+                "anchor_text": "Nomada House by SH Hoteles"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/costa-blanca",
+                "anchor_text": "Costa Blanca"
+              }
+            ]
+          },
+          {
+            "text": "Sfeervolle avonden op het terras van Nomada House",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu Nomada House by SH Hoteles",
+            "url": "https://www.d-reizen.nl/vakantie/spanje/costa-blanca/denia/hotel-nomada-house-by-sh-hoteles",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/costa-blanca/denia/hotel-nomada-house-by-sh-hoteles",
+                "anchor_text": "Boek nu Nomada House by SH Hoteles"
+              }
+            ]
+          },
+          {
+            "text": "> Leestip : Ontdek meer nieuwe hotels die in 2026 hun deuren openen in Spanje!",
+            "url": "https://www.d-reizen.nl/inspiratie/nieuwe-hotels-spanje-2026",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/inspiratie/nieuwe-hotels-spanje-2026",
+                "anchor_text": "Ontdek meer nieuwe hotels die in 2026 hun deuren openen in Spanje!"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "7: The Site Hotel – Ibiza, Balearen",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Een nieuwe aanwinst op het bruisende Ibiza : The Site Hotel, waar hedendaagse luxe hand in hand gaat met een ontspannen sfeer. De kamers zijn ruim opgezet, het interieur is strak en modern, en buiten voelt meteen uitnodigend aan: perfect voor stellen en vriendengroepen die houden van comfort en eenvoud. Met een fijn zwembad, stijlvolle loungehoeken en een moderne uitstraling voelt het alsof je terechtkomt op een hippe, eigentijdse plek. Een hotel dat uitblinkt in smaak en een ontspannen vakantiesfeer.",
+            "url": "https://www.d-reizen.nl/vakantie/spanje/ibiza",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/ibiza",
+                "anchor_text": "Ibiza"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/ibiza/playa-den-bossa/hotel-the-site-hotel-ibiza",
+                "anchor_text": "The Site Hotel"
+              }
+            ]
+          },
+          {
+            "text": "Zon, loungen bij het zwembad en pure Ibiza‑sferen",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu The Site Hotel",
+            "url": "https://www.d-reizen.nl/vakantie/spanje/ibiza/playa-den-bossa/hotel-the-site-hotel-ibiza",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/ibiza/playa-den-bossa/hotel-the-site-hotel-ibiza",
+                "anchor_text": "Boek nu The Site Hotel"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "8: Nalu Latchi Leonardo - Paphos, Cyprus",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Toe aan pure ontspanning op een droomlocatie in Paphos ? Dan wil je Nalu Latchi Leonardo Limited Edition absoluut op je lijstje zetten. Dit gloednieuwe all inclusive resort, gepland om te openen rond juni 2026, ligt op een plek waar je hart meteen sneller van gaat kloppen. Je wandelt zó het strand op, terwijl een natuurreservaat en een botanische tuin letterlijk je achtertuin vormen. Kinderen en tieners vermaken zich in hun eigen clubs, waardoor jij alle tijd hebt om te genieten van de spa, het zwembad of een heerlijk diner in een van de vier restaurants. Voor iedereen die houdt van comfort, luxe faciliteiten en een groene, rustige omgeving op Cyprus is dit dé plek om helemaal op te laden.",
+            "url": "https://www.d-reizen.nl/vakantie/cyprus/paphos/paphos",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/cyprus/paphos/paphos",
+                "anchor_text": "Paphos"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/cyprus/paphos/polis/hotel-nalu-latchi-leonardo-limited-edition",
+                "anchor_text": "Nalu Latchi Leonardo Limited Edition"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/cyprus",
+                "anchor_text": "Cyprus"
+              }
+            ]
+          },
+          {
+            "text": "Wegdromen aan het kleurrijke zwembad met zeezicht",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu Nalu Latchi Leonardo",
+            "url": "https://www.d-reizen.nl/vakantie/cyprus/paphos/polis/hotel-nalu-latchi-leonardo-limited-edition",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/cyprus/paphos/polis/hotel-nalu-latchi-leonardo-limited-edition",
+                "anchor_text": "Boek nu Nalu Latchi Leonardo"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "9: HVD Reina del Mar - Zwarte Zeekust, Bulgarije",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "HVD Reina del Mar is zo’n hotel waar je binnenkomt en meteen denkt: ja, dit wordt een topvakantie. Met wel zeven zwembaden, inclusief een adults‑only zwembad waar je ultiem kunt ontspannen, voelt elke dag als een nieuwe ontdekkingstocht. Het wellnesscentrum is een paradijsje op zich en het strand ligt letterlijk voor de deur. Terwijl de kinderen zich uitleven bij de animatie en in de clubs, geniet jij van een cocktail, een goed boek of gewoon van het niets‑moeten. Aan de Zwarte Zeekust vind je niet snel een plek waar luxe, ontspanning en betaalbaarheid zo lekker samenkomen. Dit is zorgeloos genieten op z’n best.",
+            "url": "https://www.d-reizen.nl/vakantie/bulgarije/zwarte-zeekust/obzor/hotel-hvd-reina-del-mar",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/bulgarije/zwarte-zeekust/obzor/hotel-hvd-reina-del-mar",
+                "anchor_text": "HVD Reina del Mar"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/bulgarije/zwarte-zeekust",
+                "anchor_text": "Zwarte Zeekust"
+              }
+            ]
+          },
+          {
+            "text": "Reina del Mar is elegantie aan de kust waar je helemaal tot rust komt",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu HVD Reina del Mar",
+            "url": "https://www.d-reizen.nl/vakantie/bulgarije/zwarte-zeekust/obzor/hotel-hvd-reina-del-mar",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/bulgarije/zwarte-zeekust/obzor/hotel-hvd-reina-del-mar",
+                "anchor_text": "Boek nu HVD Reina del Mar"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "10: Eftalia Sol – Alanya, Turkije",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Als jij het liefst een vakantie hebt waar geen dag hetzelfde is, dan zit je bij Eftalia Sol helemaal goed. Dit gloednieuwe all inclusive resort in Alanya ligt pal naast het beroemde Eftalia Island : hét waterparadijs vol glijbanen, splashzones en entertainment direct aan zee. Overdag leef je je uit tussen alle actie, ’s avonds geniet je van de gezellige sfeer en tussendoor kun je heerlijk bijkomen in de spa of aan het zwembad. Vanaf april 2026 is dit dé plek aan de Turkse Rivièra voor iedereen die houdt van gemak, fun en alles binnen handbereik.",
+            "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/alanya/hotel-eftalia-sol",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/alanya/hotel-eftalia-sol",
+                "anchor_text": "Eftalia Sol"
+              },
+              {
+                "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/alanya",
+                "anchor_text": "Alanya"
+              }
+            ]
+          },
+          {
+            "text": "Eftalia Sol: waar je niet meer weg wilt",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Boek nu Eftalia Sol",
+            "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/alanya/hotel-eftalia-sol",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/alanya/hotel-eftalia-sol",
+                "anchor_text": "Boek nu Eftalia Sol"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Waarom in 2026 kiezen voor een nieuw hotel?",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Een nieuw hotel staat gelijk aan vakantie vieren met een vleugje extra stijl. Alles voelt nieuw en eigentijds aan, van de kamers tot de faciliteiten. Omdat moderne hotels worden gebouwd volgens de nieuwste trends en technologische snufjes, beleef je er vaak iets wat je nergens anders vindt. En hoe leuk is het om een plek te ontdekken nog vóór de massa dat doet? Of je nu valt voor luxe, vernieuwing of simpelweg een rustige omgeving om helemaal tot jezelf te komen, de nieuwe hotels van 2026 hebben voor iedere reiziger iets bijzonders in petto.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Boek een nieuw hotel gemakkelijk bij D-reizen",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Een splinternieuw hotel boeken voelt soms een beetje als een sprong in het diepe. Er zijn vaak nog nauwelijks ervaringen van andere reizigers beschikbaar, en dat maakt het misschien een beetje spannend, maar juist ook verrassend leuk! Je bent namelijk een van de eersten die deze plek ontdekt. Perfect voor reizigers die graag iets nieuws proberen. Behoort het hotel tot een bekende keten, dan zegt dat meestal ook iets over de kwaliteit. En natuurlijk kun je altijd terecht bij een reisadviseur van D-reizen voor persoonlijk advies dat aansluit op jouw wensen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nieuwsgierig naar welke hotels in 2026, of de afgelopen jaren, hun deuren hebben geopend? Duik in onze Brand New Hotels en laat je inspireren!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "alle nieuwe hotels",
+            "url": "https://www.d-reizen.nl/vakantie/resultaten?thema=thema_brandnew",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/resultaten?thema=thema_brandnew",
+                "anchor_text": "alle nieuwe hotels"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Meer over zonvakanties",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": "d-reizen.nl",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Reisinspiratie in je inbox!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Direct op de hoogte van de beste deals",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Maak kans op €250,- reistegoed!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Alle Brand New hotels",
+            "url": "https://www.d-reizen.nl/vakantie/resultaten?reisduur=6_10&transport=FL&thema=thema_brandnew",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/resultaten?reisduur=6_10&transport=FL&thema=thema_brandnew",
+                "anchor_text": "Alle Brand New hotels"
+              }
+            ]
+          },
+          {
+            "text": "Alle zonvakanties",
+            "url": "https://www.d-reizen.nl/zonvakantie",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/zonvakantie",
+                "anchor_text": "Alle zonvakanties"
+              }
+            ]
+          },
+          {
+            "text": "Verre reizen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dominicaanse Republiek",
+            "url": "https://www.d-reizen.nl/vakantie/dominicaanse-republiek",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/dominicaanse-republiek",
+                "anchor_text": "Dominicaanse Republiek"
+              }
+            ]
+          },
+          {
+            "text": "Alle verre reizen",
+            "url": "https://www.d-reizen.nl/verre-reizen",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/verre-reizen",
+                "anchor_text": "Alle verre reizen"
+              }
+            ]
+          },
+          {
+            "text": "Populaire vakanties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Canarische eilanden",
+            "url": "https://www.d-reizen.nl/zonvakantie/canarische-eilanden",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/zonvakantie/canarische-eilanden",
+                "anchor_text": "Canarische eilanden"
+              }
+            ]
+          },
+          {
+            "text": "Vakantie deals",
+            "url": "https://www.d-reizen.nl/veilingen",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/veilingen",
+                "anchor_text": "Vakantie deals"
+              }
+            ]
+          },
+          {
+            "text": "Waar schijnt de zon?",
+            "url": "https://www.d-reizen.nl/waar-schijnt-de-zon",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/waar-schijnt-de-zon",
+                "anchor_text": "Waar schijnt de zon?"
+              }
+            ]
+          },
+          {
+            "text": "Populaire bestemmingen",
+            "url": "https://www.d-reizen.nl/inspiratie/vakantiebestemmingen",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/inspiratie/vakantiebestemmingen",
+                "anchor_text": "Populaire bestemmingen"
+              }
+            ]
+          },
+          {
+            "text": "Mijn D-reizen",
+            "url": "https://mijn.d-reizen.nl/Login",
+            "urls": [
+              {
+                "url": "https://mijn.d-reizen.nl/Login",
+                "anchor_text": "Mijn D-reizen"
+              }
+            ]
+          },
+          {
+            "text": "Over D-reizen",
+            "url": "https://www.d-reizen.nl/informatie/over-d-reizen",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/informatie/over-d-reizen",
+                "anchor_text": "Over D-reizen"
+              }
+            ]
+          },
+          {
+            "text": "Veelgestelde vragen",
+            "url": "https://service.d-reizen.nl/hc/nl",
+            "urls": [
+              {
+                "url": "https://service.d-reizen.nl/hc/nl",
+                "anchor_text": "Veelgestelde vragen"
+              }
+            ]
+          },
+          {
+            "text": "All Inclusive",
+            "url": "https://www.d-reizen.nl/all-inclusive",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/all-inclusive",
+                "anchor_text": "All Inclusive"
+              }
+            ]
+          },
+          {
+            "text": "Last Minute",
+            "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/zonvakantie/last-minute-zonvakantie",
+                "anchor_text": "Last Minute"
+              }
+            ]
+          },
+          {
+            "text": "Adults Only",
+            "url": "https://www.d-reizen.nl/adults-only",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/adults-only",
+                "anchor_text": "Adults Only"
+              }
+            ]
+          },
+          {
+            "text": "Top accommodaties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sindbad Club",
+            "url": "https://www.d-reizen.nl/vakantie/egypte/rode-zee/hurghada/hotel-sindbad-club",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/egypte/rode-zee/hurghada/hotel-sindbad-club",
+                "anchor_text": "Sindbad Club"
+              }
+            ]
+          },
+          {
+            "text": "Long Beach Alanya",
+            "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/alanya/hotel-long-beach-alanya",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/turkije/turkse-riviera/alanya/hotel-long-beach-alanya",
+                "anchor_text": "Long Beach Alanya"
+              }
+            ]
+          },
+          {
+            "text": "Lopesan Baobab Resort",
+            "url": "https://www.d-reizen.nl/vakantie/spanje/gran-canaria/meloneras/hotel-lopesan-baobab-resort",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/gran-canaria/meloneras/hotel-lopesan-baobab-resort",
+                "anchor_text": "Lopesan Baobab Resort"
+              }
+            ]
+          },
+          {
+            "text": "SUNRISE Mamlouk Palace",
+            "url": "https://www.d-reizen.nl/vakantie/egypte/rode-zee/hurghada/hotel-sunrise-mamlouk-palace-resort",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/egypte/rode-zee/hurghada/hotel-sunrise-mamlouk-palace-resort",
+                "anchor_text": "SUNRISE Mamlouk Palace"
+              }
+            ]
+          },
+          {
+            "text": "Pickalbatros Jungle Aqua Park",
+            "url": "https://www.d-reizen.nl/vakantie/egypte/rode-zee/hurghada/resort-pickalbatros-jungle-aqua-park-neverland-hurghada",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/egypte/rode-zee/hurghada/resort-pickalbatros-jungle-aqua-park-neverland-hurghada",
+                "anchor_text": "Pickalbatros Jungle Aqua Park"
+              }
+            ]
+          },
+          {
+            "text": "Reisbureau & meer",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Alle reisbureaus",
+            "url": "https://www.d-reizen.nl/reisbureau",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/reisbureau",
+                "anchor_text": "Alle reisbureaus"
+              }
+            ]
+          },
+          {
+            "text": "Afspraak maken",
+            "url": "https://www.d-reizen.nl/contact/afspraak",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/contact/afspraak",
+                "anchor_text": "Afspraak maken"
+              }
+            ]
+          },
+          {
+            "text": "Nieuws & persberichten",
+            "url": "https://www.d-reizen.nl/nieuws",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/nieuws",
+                "anchor_text": "Nieuws & persberichten"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Nieuwe hotels 2026",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Populaire nieuwe hotels",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hotel Doubletree by Hilton London Docklands Riverside",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Hotel Doubletree by Hilton London Docklands Riverside",
+            "url": "https://www.d-reizen.nl/vakantie/groot-brittannie/londen/londen/hotel-doubletree-by-hilton-london-docklands-riverside",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/groot-brittannie/londen/londen/hotel-doubletree-by-hilton-london-docklands-riverside",
+                "anchor_text": "Hotel Doubletree by Hilton London Docklands Riverside"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Appartement Salou Pacific",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Appartement Salou Pacific",
+            "url": "https://www.d-reizen.nl/vakantie/spanje/costa-dorada/salou/appartement-salou-pacific",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/costa-dorada/salou/appartement-salou-pacific",
+                "anchor_text": "Appartement Salou Pacific"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Hostel Isabel",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Hostel Isabel",
+            "url": "https://www.d-reizen.nl/vakantie/spanje/costa-brava/blanes/hostel-isabel",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/spanje/costa-brava/blanes/hostel-isabel",
+                "anchor_text": "Hostel Isabel"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Hotel Tarik by Atlantichotels",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Hotel Tarik by Atlantichotels",
+            "url": "https://www.d-reizen.nl/vakantie/portugal/algarve/portimao/hotel-tarik-by-atlantichotels",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/portugal/algarve/portimao/hotel-tarik-by-atlantichotels",
+                "anchor_text": "Hotel Tarik by Atlantichotels"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Camping Gitavillage Le Marze",
+        "main_title": "Gloednieuw: deze hotels openen in 2026 hun deuren!",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Camping Gitavillage Le Marze",
+            "url": "https://www.d-reizen.nl/vakantie/italie/toscane/marina-di-grosseto/camping-gitavillage-le-marze",
+            "urls": [
+              {
+                "url": "https://www.d-reizen.nl/vakantie/italie/toscane/marina-di-grosseto/camping-gitavillage-le-marze",
+                "anchor_text": "Camping Gitavillage Le Marze"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}
