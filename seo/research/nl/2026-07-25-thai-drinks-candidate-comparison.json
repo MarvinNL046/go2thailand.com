@@ -1,0 +1,60 @@
+{
+  "captured_at": "2026-07-25T21:59:16.263Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "cost": 0.0126,
+  "requested_keywords": [
+    "thaise dranken",
+    "populaire drankjes thailand",
+    "wat drinken ze in thailand",
+    "beste thaise drankjes",
+    "thais bier",
+    "thai iced tea",
+    "thaise ijsthee"
+  ],
+  "rows": [
+    {
+      "keyword": "thais bier",
+      "volume": 590,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 0.33
+    },
+    {
+      "keyword": "thai iced tea",
+      "volume": 260,
+      "difficulty": 1,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 0.19
+    },
+    {
+      "keyword": "thaise dranken",
+      "volume": 20,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 0.41
+    },
+    {
+      "keyword": "thaise ijsthee",
+      "volume": 20,
+      "difficulty": 43,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 0.16
+    },
+    {
+      "keyword": "wat drinken ze in thailand",
+      "volume": null,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "",
+      "cpc": null
+    }
+  ]
+}

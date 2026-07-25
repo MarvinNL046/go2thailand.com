@@ -23,6 +23,8 @@ export const amazonAffiliateLinks = {
   'simple-thai-food-cookbook': 'https://www.amazon.com/dp/1607745232',
   'zojirushi-six-cup-rice-cooker': 'https://www.amazon.com/dp/B00004S576',
   'thai-granite-mortar-eight-inch': 'https://www.amazon.com/dp/B0747DHS6T',
+  'chatramue-original-thai-tea': 'https://www.amazon.com/dp/B00712N6II',
+  'owala-freesip-24oz': 'https://www.amazon.com/dp/B0BZYCJK89',
 } as const;
 
 export type AmazonAffiliateSlug = keyof typeof amazonAffiliateLinks;

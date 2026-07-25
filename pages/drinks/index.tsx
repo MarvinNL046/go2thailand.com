@@ -6,8 +6,8 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import FadeInText from '../../components/FadeInText';
 import HighlightedText from '../../components/HighlightedText';
 import { getAllDrinks } from '../../lib/drinks';
-import { useTranslation } from '../../hooks/useTranslation';
 import SEOHead from '../../components/SEOHead';
+import { ThaiDrinksGuide } from '../../components/food/ThaiDrinksGuide';
 
 interface Drink {
   id: number;
@@ -68,7 +68,9 @@ export default function DrinksPage({ drinks }: DrinksPageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
-  const { t } = useTranslation('common');
+  if (isNl) {
+    return <ThaiDrinksGuide drinks={drinks} />;
+  }
 
   // Group drinks by category
   const drinksByCategory = drinks.reduce((acc, drink) => {
