@@ -20,6 +20,9 @@ export const amazonAffiliateLinks = {
   'earth-pak-dry-bag': 'https://www.amazon.com/dp/B01GZCUCO0',
   'hovsiyla-quick-dry-shirt': 'https://www.amazon.com/dp/B0D266SMGD',
   'hagon-rain-ponchos': 'https://www.amazon.com/dp/B076ZHMR3S',
+  'simple-thai-food-cookbook': 'https://www.amazon.com/dp/1607745232',
+  'zojirushi-six-cup-rice-cooker': 'https://www.amazon.com/dp/B00004S576',
+  'thai-granite-mortar-eight-inch': 'https://www.amazon.com/dp/B0747DHS6T',
 } as const;
 
 export type AmazonAffiliateSlug = keyof typeof amazonAffiliateLinks;

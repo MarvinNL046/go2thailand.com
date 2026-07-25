@@ -27,7 +27,7 @@ import {
   TWELVEGO_GENERIC,
   withPlacementSubId,
 } from '../../lib/affiliates';
-import { getAllPosts, getBlogConsolidation, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
+import { getBlogConsolidation, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
 import { useGsapBlogHero } from '../../components/animations/useGsapBlogHero';
 import { useGsapScrollReveal } from '../../components/animations/useGsapScrollReveal';
 import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
@@ -38,6 +38,7 @@ import BookingHeroCTA from '../../components/BookingHeroCTA';
 import { useSubId } from '../../lib/useSubId';
 import { ClimateUpdateGuideTemplate } from '../../components/blog/ClimateUpdateGuideTemplate';
 import { getNlClimateUpdateGuide } from '../../data/climate/nl';
+import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
 
 interface Source {
   name: string;
@@ -173,6 +174,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (nlClimateGuide) {
     return <ClimateUpdateGuideTemplate data={nlClimateGuide} />;
+  }
+
+  if (locale === 'nl' && post.slug === 'thai-curry-guide-green-red-yellow-massaman-panang') {
+    return <ThaiCurryGuide />;
   }
 
   const breadcrumbs = [
