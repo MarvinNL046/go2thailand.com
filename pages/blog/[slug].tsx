@@ -42,6 +42,7 @@ import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
 import { DurianThailandGuide } from '../../components/food/DurianThailandGuide';
 import { LumpiniHawkerCentreGuide } from '../../components/food/LumpiniHawkerCentreGuide';
 import { BangkokSpecialtyCoffeeGuide } from '../../components/food/BangkokSpecialtyCoffeeGuide';
+import { CaveFantasyBangkokGuide } from '../../components/attractions/CaveFantasyBangkokGuide';
 import { NewLuxuryResortsThailandGuide } from '../../components/hotels/NewLuxuryResortsThailandGuide';
 import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
@@ -197,6 +198,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'bangkok-specialty-coffee-cafe-guide-2026') {
     return <BangkokSpecialtyCoffeeGuide />;
+  }
+
+  if (locale === 'nl' && post.slug === 'cave-fantasy-mbk-center-bangkok-immersive-art-2026') {
+    return <CaveFantasyBangkokGuide />;
   }
 
   if (locale === 'nl' && post.slug === 'new-luxury-resorts-thailand-2026-marriott-hilton-mercure') {
