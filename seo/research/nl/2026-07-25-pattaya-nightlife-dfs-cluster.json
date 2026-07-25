@@ -1,0 +1,990 @@
+{
+  "captured_at": "2026-07-25T21:02:28.370Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "pattaya nightlife",
+  "costs": {
+    "suggestions": 0.01896,
+    "related": 0.0138,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "pattaya nightlife",
+    "pattaya city nightlife",
+    "pattaya thailand nightlife",
+    "thailand nightlife in pattaya",
+    "thailand nightlife pattaya",
+    "thailand pattaya nightlife",
+    "nightlife pattaya walking street",
+    "pattaya nightlife walking street",
+    "pattaya walking street nightlife",
+    "walking street nightlife pattaya",
+    "walking street pattaya nightlife",
+    "bangkok vs pattaya vs phuket nightlife",
+    "best places in pattaya for nightlife",
+    "free nightlife in pattaya for singles",
+    "images of pattaya nightlife",
+    "jomtien beach pattaya nightlife",
+    "nightlife in pattaya for couples",
+    "nightlife in pattaya for singles",
+    "nightlife pattaya 2022"
+  ],
+  "keywords": [
+    {
+      "keyword": "nightlife pattaya",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya city nightlife",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife in pattaya",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife pattaya",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya nightlife",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife club",
+      "volume": 90,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya nightlife",
+      "volume": 70,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife pattaya walking street",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife walking street",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street nightlife pattaya",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best disco in pattaya",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jalwa club pattaya",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "republic club pattaya",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok vs pattaya vs phuket nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best club in pattaya for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best night club pattaya for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best nightclubs in pattaya walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best places in pattaya for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "edm club pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "free nightlife in pattaya for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hip hop club pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "images of pattaya nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "jomtien beach pattaya nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lk metro pattaya nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in pattaya for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in pattaya for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife pattaya 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya beach nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya beach road nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya clubs nightlife",
+      "volume": 10,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife 2023",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife areas",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife now",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife places",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife street",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife tips",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife video",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife vlog",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife youtube",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya soi 6 nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya vs bangkok nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "soi buakhao pattaya nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya nightlife video",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "youtube pattaya nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife pattaya 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya beach nightlife 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife 2020",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife 2021",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife forum",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife videos youtube",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife pattaya 2021",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife december 2021",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "youtube nightlife pattaya",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 6.375,
+      "keywordCount": 6,
+      "visibility": 4.3999999999999995,
+      "estimatedTraffic": 133.74400000000003
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 1.1666666666666667,
+      "keywordCount": 6,
+      "visibility": 5.9,
+      "estimatedTraffic": 437.31999999999994
+    },
+    {
+      "domain": "www.republic-nightclub.com",
+      "avgPosition": 4,
+      "keywordCount": 6,
+      "visibility": 4.199999999999999,
+      "estimatedTraffic": 160.67999999999998
+    },
+    {
+      "domain": "toasttothailand.com",
+      "avgPosition": 5.166666666666667,
+      "keywordCount": 6,
+      "visibility": 3.5000000000000004,
+      "estimatedTraffic": 96.40799999999999
+    },
+    {
+      "domain": "yourthaiguide.com",
+      "avgPosition": 6.833333333333333,
+      "keywordCount": 6,
+      "visibility": 2.5,
+      "estimatedTraffic": 54.418
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 7.833333333333333,
+      "keywordCount": 6,
+      "visibility": 3.5,
+      "estimatedTraffic": 101.32200000000002
+    },
+    {
+      "domain": "pattayacitytourcoltd.com",
+      "avgPosition": 11.166666666666666,
+      "keywordCount": 6,
+      "visibility": 1.1,
+      "estimatedTraffic": 23.451999999999998
+    },
+    {
+      "domain": "www.pattayaunlimited.com",
+      "avgPosition": 12.166666666666666,
+      "keywordCount": 6,
+      "visibility": 1.2,
+      "estimatedTraffic": 24.232
+    },
+    {
+      "domain": "www.travelfika.com",
+      "avgPosition": 13.333333333333334,
+      "keywordCount": 6,
+      "visibility": 1,
+      "estimatedTraffic": 18.278
+    },
+    {
+      "domain": "www.journeyrouters.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 6,
+      "visibility": 0.4,
+      "estimatedTraffic": 9.879999999999999
+    },
+    {
+      "domain": "clubjalwa.com",
+      "avgPosition": 1,
+      "keywordCount": 5,
+      "visibility": 5,
+      "estimatedTraffic": 395.19999999999993
+    },
+    {
+      "domain": "travel.earth",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 7.02
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 18.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 9.308
+    },
+    {
+      "domain": "jannaatclub.com",
+      "avgPosition": 3.8,
+      "keywordCount": 5,
+      "visibility": 3.5999999999999996,
+      "estimatedTraffic": 110.474
+    },
+    {
+      "domain": "www.showgirlspattaya.com",
+      "avgPosition": 5.4,
+      "keywordCount": 5,
+      "visibility": 2.8,
+      "estimatedTraffic": 76.414
+    },
+    {
+      "domain": "saritachaletandspa.com",
+      "avgPosition": 6.6,
+      "keywordCount": 5,
+      "visibility": 2.2,
+      "estimatedTraffic": 49.763999999999996
+    },
+    {
+      "domain": "ultimatepattaya.com",
+      "avgPosition": 23,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.42
+    },
+    {
+      "domain": "atmindgroup.com",
+      "avgPosition": 23.5,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.8999999999999995
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 27,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.3019999999999996
+    },
+    {
+      "domain": "wanderon.in",
+      "avgPosition": 30.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.328
+    },
+    {
+      "domain": "www.trulythai.com",
+      "avgPosition": 31.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.2759999999999994
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 20.2,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.07
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 21.8,
+      "keywordCount": 5,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 69.056
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 3.25,
+      "keywordCount": 4,
+      "visibility": 3.0999999999999996,
+      "estimatedTraffic": 118.32600000000001
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 24.2,
+      "keywordCount": 5,
+      "visibility": 0.75,
+      "estimatedTraffic": 19.395999999999997
+    },
+    {
+      "domain": "www.clubinsomniapattaya.com",
+      "avgPosition": 6.75,
+      "keywordCount": 4,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 31.538
+    },
+    {
+      "domain": "www.rubyclubpattaya.com",
+      "avgPosition": 7.25,
+      "keywordCount": 4,
+      "visibility": 1.4999999999999998,
+      "estimatedTraffic": 32.76
+    },
+    {
+      "domain": "illusiontravel.gr",
+      "avgPosition": 26.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.756
+    },
+    {
+      "domain": "akirapattaya.com",
+      "avgPosition": 10.25,
+      "keywordCount": 4,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 11.57
+    },
+    {
+      "domain": "www.thrillophilia.com",
+      "avgPosition": 10.5,
+      "keywordCount": 4,
+      "visibility": 0.7,
+      "estimatedTraffic": 13.649999999999999
+    },
+    {
+      "domain": "www.ceediz.com",
+      "avgPosition": 40.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.2759999999999994
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 15.5,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.927999999999999
+    },
+    {
+      "domain": "www.hoteis.com",
+      "avgPosition": 19.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.0680000000000005
+    },
+    {
+      "domain": "thainomadnetwork.com",
+      "avgPosition": 20.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.5220000000000002
+    },
+    {
+      "domain": "www.siam2nite.com",
+      "avgPosition": 23,
+      "keywordCount": 4,
+      "visibility": 0.35,
+      "estimatedTraffic": 8.164
+    },
+    {
+      "domain": "www.tngholidays.com",
+      "avgPosition": 38.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.timeout.com",
+      "avgPosition": 23.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.4959999999999996
+    },
+    {
+      "domain": "www.tagthai.com",
+      "avgPosition": 39.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 2.3333333333333335,
+      "keywordCount": 3,
+      "visibility": 2.6,
+      "estimatedTraffic": 138.29399999999998
+    },
+    {
+      "domain": "travelasiaandbeyond.tv",
+      "avgPosition": 41.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "tw.hotels.com",
+      "avgPosition": 30,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.1839999999999997
+    },
+    {
+      "domain": "www.cleverthai.com",
+      "avgPosition": 54.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.2759999999999994
+    },
+    {
+      "domain": "apattaya.com",
+      "avgPosition": 57,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.2759999999999994
+    },
+    {
+      "domain": "www.nightflow.com",
+      "avgPosition": 58.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.2759999999999994
+    },
+    {
+      "domain": "all.accor.com",
+      "avgPosition": 38.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.1839999999999997
+    },
+    {
+      "domain": "bangkokheaven.com",
+      "avgPosition": 44.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.1839999999999997
+    },
+    {
+      "domain": "www.bookyourown.net",
+      "avgPosition": 45.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.1839999999999997
+    },
+    {
+      "domain": "www.tripsavvy.com",
+      "avgPosition": 46.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.1839999999999997
+    },
+    {
+      "domain": "backpackersunited.in",
+      "avgPosition": 47,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.1839999999999997
+    },
+    {
+      "domain": "gray-eagle-869430.hostingersite.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 59.254000000000005
+    }
+  ]
+}

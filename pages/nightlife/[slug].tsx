@@ -5,6 +5,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
+import { PattayaNightlifeGuide } from '../../components/nightlife/PattayaNightlifeGuide';
 
 interface Venue {
   name: string;
@@ -98,6 +99,10 @@ function generateFAQs(data: NightlifeData, cityName: string) {
 export default function NightlifePage({ nightlifeData, slug, cityName }: NightlifePageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl && slug === 'pattaya') {
+    return <PattayaNightlifeGuide />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -390,7 +395,10 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = CITY_SLUGS.map((slug) => ({ params: { slug } }));
+  const paths = CITY_SLUGS.flatMap((slug) => [
+    { params: { slug }, locale: 'en' },
+    { params: { slug }, locale: 'nl' },
+  ]);
   return { paths, fallback: false };
 };
 
@@ -411,7 +419,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       const fileContent = fs.readFileSync(dataPath, 'utf8');
       nightlifeData = JSON.parse(fileContent);
     }
-  } catch (error) {
+  } catch {
     // Data file not found
   }
 
