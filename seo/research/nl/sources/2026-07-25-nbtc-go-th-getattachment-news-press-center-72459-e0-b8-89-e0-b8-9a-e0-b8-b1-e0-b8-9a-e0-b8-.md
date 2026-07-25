@@ -1,0 +1,7 @@
+# DFS parsed source — https://www.nbtc.go.th/getattachment/News/Press-Center/72459/%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88-16-NBTC-Press-Release-30062568-%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B8%8A-%E0%B9%84%E0%B8%9F%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-8-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1.pdf?lang=th-TH
+
+**Captured:** 2026-07-25T14:41:44.206Z
+**Cost:** 0.00015
+**HTTP status:** —
+
+_DFS returned no markdown content._

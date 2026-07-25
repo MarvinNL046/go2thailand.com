@@ -1,0 +1,1824 @@
+{
+  "captured_at": "2026-07-25T14:33:39.718Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "7 eleven thailand",
+  "costs": {
+    "suggestions": 0.02604,
+    "related": 0.01932,
+    "competitors": 0.01608
+  },
+  "competitorKeywords": [
+    "7 eleven thailand",
+    "hoeveel 7 eleven in thailand",
+    "hoeveel 7-eleven in thailand",
+    "7-eleven franchise",
+    "7 eleven alcohol hours thailand",
+    "7 eleven franchise thailand price",
+    "7 eleven japan jobs",
+    "7 eleven thailand alcohol",
+    "7 eleven thailand alkohol",
+    "7 eleven thailand cigarette price list online",
+    "7 eleven thailand cigarette price list reddit",
+    "7 eleven thailand drink",
+    "7 eleven thailand drinks",
+    "7 eleven thailand halal",
+    "7 eleven thailand halal food",
+    "7 eleven thailand how many",
+    "7 eleven thailand ice cream",
+    "7 eleven thailand logo",
+    "7 eleven thailand milk",
+    "7 eleven thailand opening hours"
+  ],
+  "keywords": [
+    {
+      "keyword": "seven eleven",
+      "volume": 5400,
+      "kd": 80,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "esim thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven near me",
+      "volume": 480,
+      "kd": 26,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven nederland",
+      "volume": 480,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven in thailand",
+      "volume": 390,
+      "kd": 22,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand",
+      "volume": 390,
+      "kd": 17,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand",
+      "volume": 390,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven japan",
+      "volume": 260,
+      "kd": 24,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven amsterdam",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "esim thailand kopen",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven rotterdam",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais esim thailand",
+      "volume": 140,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven vietnam",
+      "volume": 110,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven europe",
+      "volume": 90,
+      "kd": 31,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven bangkok",
+      "volume": 90,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven europe",
+      "volume": 90,
+      "kd": 21,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simkaart thailand onbeperkt internet",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais thailand tourist sim",
+      "volume": 70,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven wiki",
+      "volume": 50,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand sim card for tourist",
+      "volume": 50,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven tokyo",
+      "volume": 40,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais simkaart thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "circle k vietnam",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simkaart thailand kopen in nederland",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand products",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven korea",
+      "volume": 30,
+      "kd": 7,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand products",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hoeveel 7 eleven in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hoeveel 7-eleven in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven",
+      "volume": 30,
+      "kd": 22,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7-eleven",
+      "volume": 30,
+      "kd": 22,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 11 thailand website",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven nederland rotterdam",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven sim card thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand app",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven europa",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven franchise",
+      "volume": 20,
+      "kd": 19,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven hanoi",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven muggenspray",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven sim card thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand app",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dtac tourist sim",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sim card 7 eleven thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand 30 days",
+      "volume": 20,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simkaart thailand eigen nummer",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simkaart thailand kosten",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "true esim thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 11 tosti thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven alcohol hours thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven franchise thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven hoi an",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven jacket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven japan instagram",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven japan jobs",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven online shop thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven store in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven stores in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand alcohol",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand alkohol",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand apk",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand banana cake",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand beer",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand candy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand cigarette price list online",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand cigarette price list reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand coffee",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand credit card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand drink",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand drinks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand english",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand esim",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand food",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand franchise",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand halal",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand halal food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand how many",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand ice cream",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand khao lak",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand logo",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand medicine",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand must buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand online shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand owner",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand payment methods",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand price list",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand products price list",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand sandwich",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand sim card",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand snacks",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand sound",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand stamps",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand toasties",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand vegan",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand website",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand wine",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-11 sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven belgium",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven delivery thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven fridge magnet thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven japan food",
+      "volume": 10,
+      "kd": 7,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven japan prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven japan products",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven magnet #thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven magnet thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven online",
+      "volume": 10,
+      "kd": 80,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand alcohol",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand beauty products review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand english",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand online shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand price list",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand sim card",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven vietnam locations",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven winkel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "after sun thailand 7 eleven",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais sim card 7/11",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais top up 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beer 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 7 eleven food thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card in thailand for tourist",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "burger 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "coffee 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "electrolytes 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "esim 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "esim 7-eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "food 7 eleven thailand products",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "franchise 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many 7-11 in vietnam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ibuprofen 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is 7 eleven from thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is there 7 11 in vietnam da nang",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kamagra thailand 7 eleven",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "magnesium 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mochi 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "must buy 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "onigiri 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "onigiri 7-eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simkaart 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simkaart thailand bestellen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simkaart thailand online kopen",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simkaart thailand vliegveld",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven alcohol",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven food",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven mosquito spray",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven must buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven sandwich",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven snacks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegan 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "viagra thailand 7 eleven price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to buy 7 eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to buy from 7-eleven thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "who owns 7 eleven in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "who owns 7-eleven in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven sim card thailand review",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand best food",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand minion",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand minions",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand tosti",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven thailand tosti",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven tosti bestellen",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.7-eleven.com.ph",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 118.56
+    },
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 63.18
+    },
+    {
+      "domain": "7eleven.co.th",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 63.18
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 37.946999999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 25.701
+    },
+    {
+      "domain": "www.wearetravellers.nl",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 18.291
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 13.181999999999999
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 9.984
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 7.683
+    },
+    {
+      "domain": "www.7eleven.co.th",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.85
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.407
+    },
+    {
+      "domain": "lubd.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.5490000000000004
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.925
+    },
+    {
+      "domain": "www.jorishermans.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.301
+    },
+    {
+      "domain": "live-less-ordinary.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.184
+    },
+    {
+      "domain": "www.shutterstock.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.989
+    },
+    {
+      "domain": "www.cktravels.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.287
+    },
+    {
+      "domain": "www.thaizeit.de",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.0530000000000002
+    },
+    {
+      "domain": "thailand.tripcanvas.co",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9359999999999999
+    },
+    {
+      "domain": "thethaiger.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.897
+    },
+    {
+      "domain": "www.thailandblog.nl",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.8580000000000001
+    },
+    {
+      "domain": "phuket-tropic-tours.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.kinnso.ai",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "asoinfinity.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.youthailandia.it",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "lannalife264520817.wordpress.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "gotothailand.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.typischthailand.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "kr.pinterest.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "nl.aroundtravels.com",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "thailandtouristplaces.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.visit-thailand.org",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "hallothailand.de",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    }
+  ]
+}

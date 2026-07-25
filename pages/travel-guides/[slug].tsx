@@ -6,6 +6,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import { getTravelGuideStaticPaths, getTravelGuideBySlug } from '../../lib/travel-guides';
 import InsuranceCTA from '../../components/InsuranceCTA';
 import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
+import SevenElevenThailandGuide from '../../components/practical/SevenElevenThailandGuide';
 
 // --- Type definitions ---
 
@@ -308,6 +309,10 @@ interface TravelGuidePageProps {
 export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as Lang;
+
+  if (lang === 'nl' && guide.slug === '7-eleven-thailand') {
+    return <SevenElevenThailandGuide />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
