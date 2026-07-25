@@ -214,6 +214,15 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // DFS found no rankings or backlink signal for the duplicate NL Nong
+      // Khai travel-guide route. Consolidate broad destination intent into the
+      // researched city owner and keep the English route untouched.
+      {
+        source: '/nl/guides/travel-guide/nong-khai/',
+        destination: '/nl/city/nong-khai/',
+        permanent: true,
+        locale: false,
+      },
       // Broad Koh Samet intent belongs to the island pillar, not to a Rayong
       // attraction-detail duplicate. Preserve its existing ranking signal.
       {
