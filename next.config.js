@@ -104,6 +104,15 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // The researched practical-info owner carries broad NL etiquette,
+      // temple, wai and social-custom intent. Preserve the English guide
+      // until its own English research and redesign phase.
+      {
+        source: '/nl/travel-guides/thai-etiquette-dos-donts/',
+        destination: '/nl/practical-info/etiquette-culture/',
+        permanent: true,
+        locale: false,
+      },
       // The established NL weather URL owns the broad weather, climate,
       // rainy-season and best-time intent. Preserve all English routes until
       // their separate research phase.

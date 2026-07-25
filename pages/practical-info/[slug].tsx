@@ -18,6 +18,7 @@ import {
 } from '../../lib/affiliates';
 import { getAllPracticalInfo, getPracticalInfoBySlug, generatePracticalInfoBreadcrumbs } from '../../lib/practical-info';
 import { useSubId } from '../../lib/useSubId';
+import ThailandEtiquetteGuide from '../../components/practical/ThailandEtiquetteGuide';
 
 interface SectionItem {
   name: { en: string; nl: string };
@@ -84,6 +85,10 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
       "item": `https://go2-thailand.com${crumb.href}`
     }))
   };
+
+  if (lang === 'nl' && info.slug === 'etiquette-culture') {
+    return <ThailandEtiquetteGuide />;
+  }
 
   return (
     <>

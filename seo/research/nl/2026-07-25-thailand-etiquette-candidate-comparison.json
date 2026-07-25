@@ -1,0 +1,53 @@
+{
+  "captured_at": "2026-07-25T22:39:46.443Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "cost": 0.01248,
+  "requested_keywords": [
+    "thaise etiquette",
+    "thailand etiquette",
+    "thaise gewoonten",
+    "wat mag je niet doen in thailand",
+    "do's en don'ts thailand",
+    "tempel thailand kleding",
+    "fooi thailand",
+    "wai thailand betekenis"
+  ],
+  "rows": [
+    {
+      "keyword": "fooi thailand",
+      "volume": 50,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.07
+    },
+    {
+      "keyword": "tempel thailand kleding",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "commercial",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "thailand etiquette",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "thaise gewoonten",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    }
+  ]
+}
