@@ -251,7 +251,7 @@ export function DestinationGuideTemplate({ data }: DestinationGuideTemplateProps
           </div>
         </section>
 
-        <FaqSplitSection eyebrow="Echte vragen uit de zoekresultaten" title={`Veelgestelde vragen over ${data.cityName}`} description={`Deze vragen zijn letterlijk verzameld uit de Nederlandse People Also Ask-resultaten voor ${data.cityName}. Verdiepende weer-, hotel- en activiteitenvragen verwijzen bewust naar hun eigen gids.`} items={data.faqs} />
+        <FaqSplitSection eyebrow="Echte zoekvragen & reisbeslissingen" title={`Veelgestelde vragen over ${data.cityName}`} description={`Dit blok combineert echte Nederlandse People Also Ask-vragen voor ${data.cityName} met noodzakelijke planningsvragen. Alleen vragen die daadwerkelijk in DataForSEO zijn aangetroffen, worden in de onderzoeksbrief als letterlijke PAA gemarkeerd; weer-, hotel- en activiteitenintentie blijft bewust bij de eigen gids.`} items={data.faqs} />
 
         <RelatedGuidesSection title={`Bouw je ${data.cityName}-reis verder uit`} guides={data.relatedGuides} sideLink={{ label: 'Uitjes via Klook', href: klookHref, affiliate: true }} disclosure="Klook is een affiliatepartner. Een eventuele commissie verandert jouw prijs niet." />
 
