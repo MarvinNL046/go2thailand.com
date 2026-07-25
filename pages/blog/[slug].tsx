@@ -48,6 +48,7 @@ import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatcha
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
 import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
 import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
+import { HarborIslandBangkapiGuide } from '../../components/attractions/HarborIslandBangkapiGuide';
 
 interface Source {
   name: string;
@@ -223,6 +224,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'muay-thai-training-camps-thailand-beginners-guide-2026') {
     return <MuayThaiBeginnerTrainingGuide />;
+  }
+
+  if (locale === 'nl' && post.slug === 'harbor-island-bangkok-rooftop-waterpark-2026') {
+    return <HarborIslandBangkapiGuide />;
   }
 
   const breadcrumbs = [
