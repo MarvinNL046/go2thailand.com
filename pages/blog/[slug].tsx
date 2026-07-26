@@ -57,6 +57,7 @@ import { ChatuchakFoodGuideEn } from '../../components/markets/ChatuchakFoodGuid
 import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
 import { ThaiMassageThailandGuideEn } from '../../components/wellness/ThaiMassageThailandGuideEn';
 import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
+import { MuayThaiBeginnerTrainingGuideEn } from '../../components/activities/MuayThaiBeginnerTrainingGuideEn';
 import { HarborIslandBangkapiGuide } from '../../components/attractions/HarborIslandBangkapiGuide';
 import { HarborIslandBangkapiGuideEn } from '../../components/attractions/HarborIslandBangkapiGuideEn';
 
@@ -270,6 +271,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'muay-thai-training-camps-thailand-beginners-guide-2026') {
     return <MuayThaiBeginnerTrainingGuide />;
+  }
+  if (locale === 'en' && post.slug === 'muay-thai-training-camps-thailand-beginners-guide-2026') {
+    return <MuayThaiBeginnerTrainingGuideEn />;
   }
 
   if (locale === 'nl' && post.slug === 'harbor-island-bangkok-rooftop-waterpark-2026') {
