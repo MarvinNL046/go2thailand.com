@@ -41,6 +41,7 @@ import { getNlClimateUpdateGuide } from '../../data/climate/nl';
 import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
 import { ThaiCurryGuideEn } from '../../components/food/ThaiCurryGuideEn';
 import { DurianThailandGuide } from '../../components/food/DurianThailandGuide';
+import { DurianThailandGuideEn } from '../../components/food/DurianThailandGuideEn';
 import { LumpiniHawkerCentreGuide } from '../../components/food/LumpiniHawkerCentreGuide';
 import { BangkokSpecialtyCoffeeGuide } from '../../components/food/BangkokSpecialtyCoffeeGuide';
 import { CaveFantasyBangkokGuide } from '../../components/attractions/CaveFantasyBangkokGuide';
@@ -200,6 +201,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'durian-season-thailand-2026-where-to-eat-buy-guide') {
     return <DurianThailandGuide />;
+  }
+
+  if (locale !== 'nl' && post.slug === 'durian-season-thailand-2026-where-to-eat-buy-guide') {
+    return <DurianThailandGuideEn />;
   }
 
   if (locale === 'nl' && post.slug === 'bangkok-lumpini-hawker-centre-street-food-2026') {

@@ -25,6 +25,7 @@ export const amazonAffiliateLinks = {
   'thai-granite-mortar-eight-inch': 'https://www.amazon.com/dp/B0747DHS6T',
   'chatramue-original-thai-tea': 'https://www.amazon.com/dp/B00712N6II',
   'owala-freesip-24oz': 'https://www.amazon.com/dp/B0BZYCJK89',
+  'kooky-freeze-dried-monthong-durian': 'https://www.amazon.com/dp/B0CYHBSNSV',
 } as const;
 
 export type AmazonAffiliateSlug = keyof typeof amazonAffiliateLinks;
