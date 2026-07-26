@@ -14,6 +14,7 @@ export interface ConnectivitySource {
 
 export interface ConnectivityGuideData {
   slug: string;
+  language?: 'nl' | 'en';
   publishedAt: string;
   updatedAt: string;
   seo: { title: string; description: string; image: string; keywords: string };
