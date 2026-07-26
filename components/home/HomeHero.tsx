@@ -2,10 +2,9 @@ import { FormEvent, useMemo, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { ArrowRight, MapPin, Search, Star } from 'lucide-react';
+import { ArrowRight, BookOpenCheck, MapPin, Search, ShieldCheck } from 'lucide-react';
 import { TRIP_GENERIC } from '../../lib/affiliates';
 import { destinationOptions, DestinationOption } from '../../lib/destination-search';
-import { TravellerAvatarStack } from './TravellerAvatarStack';
 
 export function HomeHero() {
   const router = useRouter();
@@ -144,19 +143,14 @@ export function HomeHero() {
 
       <section className="section-divider-bottom bg-[#fcfaf6] py-5 lg:py-[18px]">
         <div className="container-custom flex flex-col items-center justify-center gap-4 text-xs sm:flex-row sm:gap-6">
-          <span className="flex items-center justify-center gap-4">
-            <span className="flex items-center gap-1 text-saffron" aria-label={isNl ? 'Vijf sterren' : 'Five stars'}>
-              {[1, 2, 3, 4, 5].map(item => <Star key={item} size={17} fill="currentColor" strokeWidth={1.5} />)}
-            </span>
-            <span className="text-center text-charcoal/55">
-              <strong className="font-bold text-jade">{isNl ? '4,8/5' : '4.8/5'}</strong>{' '}
-              {isNl ? 'op basis van 1.246 reviews' : 'based on 1,246 reviews'}
-            </span>
+          <span className="flex items-center justify-center gap-3 text-charcoal/65">
+            <span className="grid h-9 w-9 place-items-center rounded-full border border-saffron/30 bg-white text-saffron"><BookOpenCheck size={18} strokeWidth={1.7} /></span>
+            <span><strong className="font-bold text-jade">{isNl ? 'Zelfstandig samengesteld' : 'Independently curated'}</strong><br />{isNl ? 'praktische Thailand-reisgidsen' : 'practical Thailand travel guides'}</span>
           </span>
           <span className="hidden h-7 w-px bg-jade/15 sm:block" />
           <span className="flex items-center gap-3 text-charcoal/65">
-            <TravellerAvatarStack label={isNl ? 'Thailand-reizigers' : 'Thailand travellers'} />
-            <span>{isNl ? 'Gekozen door duizenden Thailand-reizigers' : 'Chosen by thousands of Thailand travellers'}</span>
+            <span className="grid h-9 w-9 place-items-center rounded-full border border-saffron/30 bg-white text-jade"><ShieldCheck size={18} strokeWidth={1.7} /></span>
+            <span><strong className="font-bold text-jade">{isNl ? 'Duidelijke partnerlinks' : 'Transparent partner links'}</strong><br />{isNl ? 'geen extra kosten voor jou' : 'at no extra cost to you'}</span>
           </span>
         </div>
       </section>

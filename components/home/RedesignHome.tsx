@@ -9,7 +9,6 @@ import {
   Compass,
   MapPin,
   ShieldCheck,
-  Star,
 } from 'lucide-react';
 import { KLOOK_GENERIC, TRIP_GENERIC } from '../../lib/affiliates';
 import { DottedRoute } from '../visuals/DottedRoute';
@@ -27,16 +26,16 @@ const destinations = [
 ];
 
 const experiences = [
-  { title: { nl: 'Ayutthaya dagtour vanuit Bangkok', en: 'Ayutthaya day trip from Bangkok' }, image: '/images/redesign/experience-ayutthaya.webp', duration: '9 uur', rating: '4,8', reviews: '1.234', price: '€ 42' },
-  { title: { nl: 'Snorkelen bij de Similan Islands', en: 'Snorkel the Similan Islands' }, image: '/images/redesign/experience-snorkelling.webp', duration: '10 uur', rating: '4,7', reviews: '856', price: '€ 89' },
-  { title: { nl: 'Thaise kookcursus in Chiang Mai', en: 'Thai cooking class in Chiang Mai' }, image: '/images/redesign/experience-cooking.webp', duration: '4 uur', rating: '4,9', reviews: '1.102', price: '€ 55' },
-  { title: { nl: 'Ethische olifantenopvang', en: 'Ethical elephant sanctuary' }, image: '/images/redesign/experience-elephants.webp', duration: '5 uur', rating: '4,9', reviews: '934', price: '€ 65' },
+  { title: { nl: 'Ayutthaya dagtour vanuit Bangkok', en: 'Ayutthaya day trip from Bangkok' }, image: '/images/redesign/experience-ayutthaya.webp', duration: { nl: '9 uur', en: '9 hours' } },
+  { title: { nl: 'Snorkelen bij de Similan Islands', en: 'Snorkel the Similan Islands' }, image: '/images/redesign/experience-snorkelling.webp', duration: { nl: '10 uur', en: '10 hours' } },
+  { title: { nl: 'Thaise kookcursus in Chiang Mai', en: 'Thai cooking class in Chiang Mai' }, image: '/images/redesign/experience-cooking.webp', duration: { nl: '4 uur', en: '4 hours' } },
+  { title: { nl: 'Ethische olifantenopvang', en: 'Ethical elephant sanctuary' }, image: '/images/redesign/experience-elephants.webp', duration: { nl: '5 uur', en: '5 hours' } },
 ];
 
 const hotels = [
-  { name: { nl: 'Eilandhideaways', en: 'Island hideaways' }, location: 'Koh Samui', image: '/images/redesign/stay-island-hideaway.webp', rating: '4,8/5', price: '€ 176' },
-  { name: { nl: 'Rooftop hotels', en: 'Rooftop hotels' }, location: 'Bangkok', image: '/images/redesign/stay-bangkok-rooftop.webp', rating: '4,7/5', price: '€ 128' },
-  { name: { nl: 'Barefoot beach resorts', en: 'Barefoot beach resorts' }, location: 'Krabi & Phi Phi', image: '/images/redesign/stay-beach-retreat.webp', rating: '4,7/5', price: '€ 152' },
+  { name: { nl: 'Eilandhideaways', en: 'Island hideaways' }, location: 'Koh Samui', image: '/images/redesign/stay-island-hideaway.webp' },
+  { name: { nl: 'Rooftop hotels', en: 'Rooftop hotels' }, location: 'Bangkok', image: '/images/redesign/stay-bangkok-rooftop.webp' },
+  { name: { nl: 'Barefoot beach resorts', en: 'Barefoot beach resorts' }, location: 'Krabi & Phi Phi', image: '/images/redesign/stay-beach-retreat.webp' },
 ];
 
 const articles = [
@@ -70,10 +69,10 @@ function ExperienceCard({ item }: { item: typeof experiences[number] }) {
       <div className="p-4">
         <h3 className="min-h-[2.5rem] text-sm font-bold leading-snug text-jade">{item.title[lang]}</h3>
         <div className="mt-2.5 flex items-center gap-3 text-[11px] text-charcoal/50">
-          <span className="flex items-center gap-1"><Star className="text-saffron" size={13} fill="currentColor" /> <strong className="font-semibold text-charcoal/70">{item.rating}</strong> ({item.reviews})</span>
-          <span className="flex items-center gap-1"><Clock size={13} strokeWidth={1.7} />{item.duration}</span>
+          <span className="flex items-center gap-1"><Clock size={13} strokeWidth={1.7} />{item.duration[lang]}</span>
+          <span className="flex items-center gap-1"><ShieldCheck size={13} strokeWidth={1.7} />{lang === 'nl' ? 'Via Klook' : 'Via Klook'}</span>
         </div>
-        <div className="mt-4 flex items-end justify-between"><div><span className="text-lg font-bold text-jade">{item.price}</span><span className="ml-1.5 text-[10px] text-charcoal/45">{lang === 'nl' ? 'per persoon' : 'per person'}</span></div><ArrowRight className="mb-1 text-jade transition-transform duration-300 group-hover:translate-x-1" size={17} /></div>
+        <div className="mt-4 flex items-center justify-between gap-3"><span className="text-xs font-bold text-jade">{lang === 'nl' ? 'Bekijk beschikbaarheid op Klook' : 'Check availability on Klook'}</span><ArrowRight className="shrink-0 text-saffron transition-transform duration-300 group-hover:translate-x-1" size={17} /></div>
       </div>
     </a>
   );
@@ -154,13 +153,11 @@ export default function RedesignHome() {
                   <div className="min-w-0">
                     <h3 className="truncate font-display text-xl font-semibold leading-none text-jade">{hotel.name[lang]}</h3>
                     <p className="mt-2 flex items-center gap-1 text-[11px] text-charcoal/50"><MapPin size={12} strokeWidth={1.7} />{hotel.location}</p>
-                    <p className="mt-1 text-[10px] text-charcoal/50"><span className="text-saffron">★</span> {hotel.rating} · {c('Uitstekend', 'Excellent')}</p>
+                    <p className="mt-1 text-[10px] text-charcoal/50">{c('Hotels vergelijken via Trip.com', 'Compare hotels on Trip.com')}</p>
                   </div>
-                  <div className="shrink-0 text-right">
-                    <small className="block text-[10px] text-charcoal/40">{c('Vanaf', 'From')}</small>
-                    <strong className="text-lg font-bold leading-tight text-jade">{hotel.price}</strong>
-                    <small className="block text-[10px] text-charcoal/40">{c('per nacht', 'per night')}</small>
-                  </div>
+                  <span className="inline-flex max-w-[116px] shrink-0 items-center gap-1.5 text-right text-[11px] font-bold leading-snug text-jade">
+                    {c('Bekijk actuele prijs', 'Check current price')} <ArrowRight className="shrink-0 text-saffron transition-transform duration-300 group-hover:translate-x-1" size={15} />
+                  </span>
                 </div>
               </a>
             ))}

@@ -53,7 +53,7 @@ export default function Footer() {
           <div className="newsletter-botanical-background relative z-10 overflow-hidden rounded-t-xl border border-b-0 border-jade/10 bg-white px-6 py-6 sm:px-10 lg:py-5">
             <div className="relative z-10 grid items-center gap-5 sm:px-10 lg:grid-cols-[0.9fr_1.15fr] lg:gap-12 lg:px-24">
               <div>
-                <h2 className="font-display text-[2rem] font-semibold leading-none text-jade sm:text-[2.2rem]">Thailand in je inbox</h2>
+                <h2 className="font-display text-[2rem] font-semibold leading-none text-jade sm:text-[2.2rem]">{isNl ? 'Thailand in je inbox' : 'Thailand in your inbox'}</h2>
                 <p className="mt-2 max-w-md text-xs leading-relaxed text-charcoal/55">{isNl ? 'Ontvang reisinspiratie, exclusieve tips en de beste deals direct in je mailbox.' : 'Get travel inspiration, exclusive tips and the best deals in your inbox.'}</p>
               </div>
               <form onSubmit={subscribe} className="flex flex-col gap-2.5 sm:flex-row">
@@ -77,7 +77,7 @@ export default function Footer() {
             </Link>
             <p className="mt-3 max-w-[15rem] text-xs leading-relaxed text-white/55">{isNl ? 'Jouw inspiratie voor een onvergetelijke reis door Thailand.' : 'Your inspiration for an unforgettable journey through Thailand.'}</p>
             <div className="mt-5 flex items-center gap-3">
-              <a href="https://www.instagram.com/go2thailand" aria-label="Go2 Thailand op Instagram" className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-white/20 text-white/65 transition hover:border-saffron-light hover:text-saffron-light"><Instagram size={14} /></a>
+              <a href="https://www.instagram.com/go2thailand" aria-label={isNl ? 'Go2 Thailand op Instagram' : 'Go2 Thailand on Instagram'} className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-white/20 text-white/65 transition hover:border-saffron-light hover:text-saffron-light"><Instagram size={14} /></a>
               <span className="text-[10px] uppercase tracking-[0.13em] text-white/35">{isNl ? 'Volg onze reis' : 'Follow our journey'}</span>
             </div>
           </div>
