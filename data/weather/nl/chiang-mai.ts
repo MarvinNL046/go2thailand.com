@@ -157,5 +157,5 @@ export const chiangMaiWeatherGuide: WeatherGuideData = {
       note: 'Actueel reisadvies met gezondheids- en veiligheidscontext, waaronder luchtvervuiling en zwaar weer.',
     },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };

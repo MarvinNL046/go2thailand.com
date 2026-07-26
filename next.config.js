@@ -159,6 +159,39 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // The five researched NL city weather pages combine climate, monthly
+      // weather and best-time intent. Consolidate their legacy duplicate
+      // owners while leaving every English route untouched.
+      {
+        source: '/nl/city/bangkok/best-time-to-visit/',
+        destination: '/nl/city/bangkok/weather/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/chiang-mai/best-time-to-visit/',
+        destination: '/nl/city/chiang-mai/weather/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/krabi/best-time-to-visit/',
+        destination: '/nl/city/krabi/weather/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/phuket/best-time-to-visit/',
+        destination: '/nl/city/phuket/weather/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/koh-samui/best-time-to-visit/',
+        destination: '/nl/city/koh-samui/weather/',
+        permanent: true,
+        locale: false,
+      },
       // NL itinerary intent is owned by the researched pillar. Keep EN
       // untouched until the separate English research and redesign phase.
       {

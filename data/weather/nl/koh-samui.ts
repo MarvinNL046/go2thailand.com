@@ -144,5 +144,5 @@ export const kohSamuiWeatherGuide: WeatherGuideData = {
       note: 'Officiële bestemmingscontext voor eilanden, stranden en lokaal vervoer.',
     },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };

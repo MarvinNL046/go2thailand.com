@@ -44,7 +44,7 @@ export function CityWeatherOverview({ isNl }: CityWeatherOverviewProps) {
               {isNl ? 'Beste reistijd voor Krabi' : 'Best time to visit Krabi'}
             </h2>
           </div>
-          <Link href="/city/krabi/best-time-to-visit/" className="hidden items-center gap-2 text-xs font-bold text-jade transition hover:text-saffron-dark sm:flex">
+          <Link href="/city/krabi/weather/" className="hidden items-center gap-2 text-xs font-bold text-jade transition hover:text-saffron-dark sm:flex">
             {isNl ? 'Bekijk de volledige klimaatgids' : 'View the full climate guide'} <ArrowRight size={15} />
           </Link>
         </div>
@@ -104,7 +104,7 @@ export function CityWeatherOverview({ isNl }: CityWeatherOverviewProps) {
                 ? 'Dit is meestal de prettigste periode voor strand- en bootdagen. Ook dan blijft het verstandig om de lokale verwachting en waarschuwingen te controleren.'
                 : 'This is usually the most comfortable period for beach and boat days. Local forecasts and warnings still matter.'}
             </p>
-            <Link href="/city/krabi/best-time-to-visit/" className="mt-6 inline-flex items-center gap-2 text-xs font-bold text-jade transition hover:text-saffron-dark">
+            <Link href="/city/krabi/weather/" className="mt-6 inline-flex items-center gap-2 text-xs font-bold text-jade transition hover:text-saffron-dark">
               {isNl ? 'Lees de seizoensgids' : 'Read the seasonal guide'} <ArrowRight size={14} />
             </Link>
           </aside>
@@ -114,7 +114,7 @@ export function CityWeatherOverview({ isNl }: CityWeatherOverviewProps) {
           <Link href="/city/krabi/weather/" className="inline-flex items-center gap-2 transition hover:text-saffron-dark">
             {isNl ? 'Het weer in Krabi per maand' : 'Krabi weather by month'} <ArrowRight size={14} />
           </Link>
-          <Link href="/city/krabi/best-time-to-visit/" className="inline-flex items-center gap-2 transition hover:text-saffron-dark">
+          <Link href="/city/krabi/weather/" className="inline-flex items-center gap-2 transition hover:text-saffron-dark">
             {isNl ? 'Lees de beste-reistijdgids' : 'Read the best-time guide'} <ArrowRight size={14} />
           </Link>
         </div>

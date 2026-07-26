@@ -154,5 +154,5 @@ export const phuketWeatherGuide: WeatherGuideData = {
       note: 'Bestemmingscontext over Phuket, stranden en veiligheidswaarschuwingen zoals rode vlaggen.',
     },
   ],
-  dateModified: '2026-07-23',
+  dateModified: '2026-07-26',
 };

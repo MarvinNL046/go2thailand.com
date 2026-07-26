@@ -534,7 +534,7 @@ export function KrabiAttractionsGuide({ ogImage }: KrabiAttractionsGuideProps) {
                 {[
                   ['Complete Krabi-gids', '/city/krabi/', Compass],
                   ['Waar verblijven?', '/best-hotels/krabi/', MapPin],
-                  ['Beste reistijd', '/city/krabi/best-time-to-visit/', CalendarDays],
+                  ['Beste reistijd', '/city/krabi/weather/', CalendarDays],
                 ].map(([label, href, Icon]) => {
                   const CardIcon = Icon as typeof Compass;
                   return <Link key={href as string} href={href as string} className="group flex min-h-[145px] flex-col rounded-xl border border-white/12 bg-white/8 p-5 transition hover:-translate-y-1 hover:bg-white/12"><CardIcon size={25} className="text-saffron-light" /><span className="mt-auto flex items-end justify-between gap-3 text-xs font-bold"><span>{label as string}</span><ArrowRight size={14} className="transition group-hover:translate-x-1" /></span></Link>;

@@ -152,5 +152,5 @@ export const bangkokWeatherGuide: WeatherGuideData = {
       note: 'Officiële bestemmingscontext voor Bangkok en de mix van buiten- en binnenactiviteiten.',
     },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };

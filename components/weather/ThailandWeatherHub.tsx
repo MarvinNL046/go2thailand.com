@@ -29,6 +29,7 @@ import { KLOOK_GENERIC, TRIP_GENERIC, withPlacementSubId } from '../../lib/affil
 import {
   bangkokWeatherGuide,
   chiangMaiWeatherGuide,
+  kohSamuiWeatherGuide,
   krabiWeatherGuide,
   phuketWeatherGuide,
 } from '../../data/weather/nl';
@@ -54,7 +55,8 @@ const representativeRegions = [
   { label: 'Noord', city: 'Chiang Mai', href: '/city/chiang-mai/weather/', icon: Mountain, data: chiangMaiWeatherGuide },
   { label: 'Centraal', city: 'Bangkok', href: '/city/bangkok/weather/', icon: MapPinned, data: bangkokWeatherGuide },
   { label: 'Andaman', city: 'Krabi', href: '/city/krabi/weather/', icon: Waves, data: krabiWeatherGuide },
-  { label: 'Andaman', city: 'Phuket', href: '/city/phuket/weather/', icon: Wind, data: phuketWeatherGuide },
+  { label: 'Andaman', city: 'Phuket', href: '/city/phuket/weather/', icon: Waves, data: phuketWeatherGuide },
+  { label: 'Golf', city: 'Koh Samui', href: '/city/koh-samui/weather/', icon: Wind, data: kohSamuiWeatherGuide },
 ] as const;
 
 const faqs = [
@@ -96,8 +98,9 @@ export default function ThailandWeatherHub() {
   })), [monthIndex]);
 
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Beste reistijd Thailand: weer, klimaat en regenseizoen', description: 'Kies de beste reistijd voor jouw Thailand-route met een interactieve maand- en regiovergelijking, kustverschillen en officiële klimaatnormalen.', url: 'https://go2-thailand.com/nl/weather/', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Beste reistijd Thailand: weer, klimaat en regenseizoen', description: 'Kies de beste reistijd voor jouw Thailand-route met een interactieve maand- en regiovergelijking, kustverschillen en officiële klimaatnormalen.', url: 'https://go2-thailand.com/nl/weather/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' }, { '@type': 'ListItem', position: 2, name: 'Weer en beste reistijd', item: 'https://go2-thailand.com/nl/weather/' }] };
+  const datasetSchema = { '@context': 'https://schema.org', '@type': 'Dataset', name: 'Klimaatnormalen Thailand per maand en regio', description: 'Interactieve vergelijking van maandgemiddelden voor Chiang Mai, Bangkok, Krabi, Phuket en Koh Samui op basis van officiële TMD-klimaatnormalen 1991–2020.', url: 'https://go2-thailand.com/nl/weather/', temporalCoverage: '1991/2020', spatialCoverage: representativeRegions.map((region) => ({ '@type': 'Place', name: `${region.city}, Thailand` })), creator: { '@type': 'Organization', name: 'Thai Meteorological Department', url: 'https://www.tmd.go.th/' }, variableMeasured: ['Gemiddelde maximumtemperatuur', 'Gemiddelde maandneerslag', 'Gemiddeld aantal regendagen'] };
 
   return (
     <>
@@ -109,9 +112,10 @@ export default function ThailandWeatherHub() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-weather-hub-hero.webp"
           imageAlt="Thailand van mistig noorden via Bangkok naar een tropische kust met wisselend weer"
@@ -119,7 +123,7 @@ export default function ThailandWeatherHub() {
           eyebrow="Kies je route vóór je een maand kiest"
           title={<>Beste reistijd<br /><span className="text-saffron">Thailand?</span></>}
           subtitle="Niet één seizoen. Wel de juiste regio op het juiste moment."
-          description="Vergelijk twaalf maanden met officiële klimaatnormalen voor vier bestemmingen. Zie daarna waarom Andaman en de Golf nooit in één simpel regenlabel passen."
+          description="Vergelijk twaalf maanden met officiële klimaatnormalen voor vijf bestemmingen. Zie daarna waarom Andaman en de Golf nooit in één simpel regenlabel passen."
           actions={[{ label: 'Vergelijk jouw maand', href: '#maandkiezer', kind: 'primary' }, { label: 'Begrijp de kustwissel', href: '#kustwissel', kind: 'secondary' }]}
           minHeightClassName="min-h-[720px] lg:min-h-[710px]"
           titleClassName="max-w-[720px] text-[4rem] leading-[0.86] !text-white sm:text-[5.5rem] lg:text-[6.25rem]"
@@ -163,7 +167,7 @@ export default function ThailandWeatherHub() {
                   <Link href={`/thailand-in/${monthSlugs[monthIndex]}/`} className="mt-7 inline-flex items-center gap-2 text-xs font-extrabold text-white">Bekijk de volledige maandgids <ExternalLink size={13} className="text-saffron-light" /></Link>
                 </div>
                 <div className="grid gap-px bg-jade/10 sm:grid-cols-2">
-                  {regionRows.map((region) => { const Icon = region.icon; return <article key={region.city} className="bg-white p-6 sm:p-7"><div className="flex items-start justify-between gap-4"><div><p className="text-[9px] font-extrabold uppercase tracking-[0.14em] text-saffron-dark">{region.label}</p><h3 className="mt-2 font-display text-2xl font-semibold text-jade">{region.city}</h3></div><span className={`grid h-10 w-10 place-items-center rounded-xl ${toneClasses(region.month.travelTone)}`}><Icon size={18} /></span></div><div className="mt-5 grid grid-cols-3 gap-3 border-y border-jade/8 py-4"><div><span className="block text-[9px] font-bold text-charcoal/42">max</span><strong className="font-display text-xl text-jade">{region.month.meanHigh}°</strong></div><div><span className="block text-[9px] font-bold text-charcoal/42">regen</span><strong className="font-display text-xl text-jade">{region.month.rainfall}</strong><span className="ml-0.5 text-[9px] text-charcoal/42">mm</span></div><div><span className="block text-[9px] font-bold text-charcoal/42">dagen</span><strong className="font-display text-xl text-jade">{region.month.rainDays}</strong></div></div><div className="mt-4 flex items-center justify-between gap-3"><span className={`rounded-full px-3 py-1 text-[9px] font-extrabold ${toneClasses(region.month.travelTone)}`}>{region.month.travelLabel}</span><Link href={region.href} className="text-[10px] font-extrabold text-jade">Lokale gids →</Link></div></article>; })}
+                  {regionRows.map((region, index) => { const Icon = region.icon; return <article key={region.city} className={`bg-white p-6 sm:p-7 ${index === regionRows.length - 1 ? 'sm:col-span-2' : ''}`}><div className="flex items-start justify-between gap-4"><div><p className="text-[9px] font-extrabold uppercase tracking-[0.14em] text-saffron-dark">{region.label}</p><h3 className="mt-2 font-display text-2xl font-semibold text-jade">{region.city}</h3></div><span className={`grid h-10 w-10 place-items-center rounded-xl ${toneClasses(region.month.travelTone)}`}><Icon size={18} /></span></div><div className="mt-5 grid grid-cols-3 gap-3 border-y border-jade/8 py-4"><div><span className="block text-[9px] font-bold text-charcoal/42">max</span><strong className="font-display text-xl text-jade">{region.month.meanHigh}°</strong></div><div><span className="block text-[9px] font-bold text-charcoal/42">regen</span><strong className="font-display text-xl text-jade">{region.month.rainfall}</strong><span className="ml-0.5 text-[9px] text-charcoal/42">mm</span></div><div><span className="block text-[9px] font-bold text-charcoal/42">dagen</span><strong className="font-display text-xl text-jade">{region.month.rainDays}</strong></div></div><div className="mt-4 flex items-center justify-between gap-3"><span className={`rounded-full px-3 py-1 text-[9px] font-extrabold ${toneClasses(region.month.travelTone)}`}>{region.month.travelLabel}</span><Link href={region.href} className="text-[10px] font-extrabold text-jade">Lokale gids →</Link></div></article>; })}
                 </div>
               </div>
             </div>
@@ -240,13 +244,13 @@ export default function ThailandWeatherHub() {
           { title: 'Weer in Krabi', description: 'Andamanseizoen, bootdagen en plan B per maand.', href: '/city/krabi/weather/', image: '/images/redesign/krabi-destination-hero.webp', imageAlt: 'Krabi-kust en kalksteenrotsen' },
         ]} />
 
-        <SourceMethodSection eyebrow="Bronnen & methode" title="Klimaat is meetbaar. Jouw reisdag blijft lokaal." description="Zoektermen, concurrenten en echte PAA-vragen zijn op 24 juli 2026 via DataForSEO voor Nederland onderzocht. De maandvergelijker toont officiële TMD-klimaatnormalen 1991–2020 van vier representatieve stations. Voor een concrete reisdag verwijzen we naar de actuele lokale TMD-dienst." sources={[
-          { title: 'Climate normals 1991–2020', creator: 'Thai Meteorological Department', url: 'https://ubonmet.tmd.go.th/files/MetInfo/climate_normal.pdf', note: 'Primaire bron voor maandgemiddelden van temperatuur, neerslag en regendagen bij Chiang Mai, Bangkok, Krabi en Phuket.' },
+        <SourceMethodSection eyebrow="Bronnen & methode" title="Klimaat is meetbaar. Jouw reisdag blijft lokaal." description="Zoektermen, concurrenten en echte PAA-vragen zijn op 24 juli 2026 via DataForSEO voor Nederland onderzocht; ranking- en backlinksignalen zijn op 26 juli 2026 opnieuw gecontroleerd. De maandvergelijker toont officiële TMD-klimaatnormalen 1991–2020 van vijf representatieve stations. Voor een concrete reisdag verwijzen we naar de actuele lokale TMD-dienst." sources={[
+          { title: 'Climate normals 1991–2020', creator: 'Thai Meteorological Department', url: 'https://ubonmet.tmd.go.th/files/MetInfo/climate_normal.pdf', note: 'Primaire bron voor maandgemiddelden van temperatuur, neerslag en regendagen bij Chiang Mai, Bangkok, Krabi, Phuket en Koh Samui.' },
           { title: 'Actuele verwachting en waarschuwingen', creator: 'Thai Meteorological Department', url: 'https://www.tmd.go.th/en', note: 'Gebruik voor de concrete reisdag; klimaatnormalen zijn nadrukkelijk geen live forecast.' },
           { title: 'Beste reistijd Thailand', creator: 'ANWB', url: 'https://www.anwb.nl/vakantie/thailand/beste-reistijd', note: 'Nederlandse concurrentiebenchmark voor droge periode, regenseizoen en eilanden.' },
           { title: 'Wanneer is het regenseizoen in Thailand?', creator: 'AsiaDirect', url: 'https://www.asiadirect.nl/blog/wanneer-is-het-regenseizoen-in-thailand/', note: 'Nederlandse concurrentiebenchmark voor regionale verschillen en reizen in het groene seizoen.' },
         ]} />
-      </main>
+      </div>
     </>
   );
 }

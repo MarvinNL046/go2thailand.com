@@ -162,5 +162,5 @@ export const krabiWeatherGuide: WeatherGuideData = {
       note: 'Context over moesson en het reisseizoen aan de Andamanse westkust.',
     },
   ],
-  dateModified: '2026-07-23',
+  dateModified: '2026-07-26',
 };
