@@ -371,7 +371,7 @@ De meeste nationaliteiten krijgen 30-60 dagen visumvrij in Thailand. Voor langer
 
 ### Verbonden Blijven
 
-Hoewel velen naar wellness-retreats komen om te ontkoppelen, wil je misschien wat connectiviteit behouden. Overweeg een [Thailand eSIM](https://go2-thailand.com/esim/) voor aankomst voor betrouwbaar internet – onze [SIM-kaart en eSIM-gids](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) dekt alle providers en prijzen voor 2026. De meeste retreats bieden WiFi, hoewel sommige bewust connectiviteit beperken voor digitale detox.
+Hoewel velen naar wellness-retreats komen om te ontkoppelen, wil je misschien wat connectiviteit behouden. Overweeg een [Thailand eSIM](https://go2-thailand.com/esim/) voor aankomst voor betrouwbaar internet – onze [SIM-kaart en eSIM-gids](/nl/travel-guides/sim-card-thailand/) dekt alle providers en prijzen voor 2026. De meeste retreats bieden WiFi, hoewel sommige bewust connectiviteit beperken voor digitale detox.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

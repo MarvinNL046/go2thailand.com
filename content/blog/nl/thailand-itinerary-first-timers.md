@@ -208,7 +208,7 @@ Voor een gedetailleerd dagbudget, check onze [Thailand budgetgids](https://go2-t
 
 - **Grab-app** is je beste vriend. Werkt voor taxi's, motorfiets-taxi's en etenbezorging. Altijd goedkoper en veiliger dan onderhandelen met willekeurige chauffeurs.
 - **Valuta:** Thaise Baht (THB). 1 euro is ruwweg 38 THB (2026 koersen). Geldautomaten zijn overal maar rekenen 220 THB (€6,30) per opname. Gebruik automaten in bankfilialen voor veiligheid. Neem een reiskaart mee met lage buitenlandse transactiekosten.
-- **SIM-kaart of eSIM:** Koop er een op het vliegveld bij aankomst. Je hebt mobiele data nodig voor kaarten, Grab en vertaal-apps. Budget 299–599 THB (€8–17) voor 15–30 dagen. Zie onze [gids voor beste SIM-kaarten en eSIM's in Thailand](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/).
+- **SIM-kaart of eSIM:** Koop er een op het vliegveld bij aankomst. Je hebt mobiele data nodig voor kaarten, Grab en vertaal-apps. Budget 299–599 THB (€8–17) voor 15–30 dagen. Zie onze [gids voor beste SIM-kaarten en eSIM's in Thailand](/nl/travel-guides/sim-card-thailand/).
 - **Vervoer-apps:** Google Maps werkt prima in Thailand. Voor intercity-bussen en treinen, boek via [12Go Asia](https://12go.tpo.lv/tNA80urD) — het bundelt routes en laat je opties vergelijken.
 - **[Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/):** Vul dit online minstens 3 dagen voor je vlucht in. Het is gratis en verplicht.
 

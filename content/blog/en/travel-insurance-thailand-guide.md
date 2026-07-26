@@ -193,7 +193,7 @@ Some premium credit cards (Chase Sapphire Reserve, Amex Platinum) offer travel i
 
 ### What if I need to go to the hospital?
 
-Go to the nearest hospital. In an emergency, call 1669 (Thai emergency number) or 1155 (Tourist Police). Private hospitals like Bumrungrad, Bangkok Hospital, and Samitivej have English-speaking staff and international patient departments. Contact your insurer as soon as possible. See our [best SIM card and eSIM guide for Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) to ensure you always have connectivity in an emergency.
+Go to the nearest hospital. In an emergency, call 1669 (Thai emergency number) or 1155 (Tourist Police). Private hospitals like Bumrungrad, Bangkok Hospital, and Samitivej have English-speaking staff and international patient departments. Contact your insurer as soon as possible. See our [best SIM card and eSIM guide for Thailand](/travel-guides/sim-card-thailand/) to ensure you always have connectivity in an emergency.
 
 ### How much does travel insurance cost for a 2-week Thailand trip?
 

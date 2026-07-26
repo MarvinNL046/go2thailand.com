@@ -48,7 +48,7 @@ The Pink Line, officially called the Wiwat Nakhon Line, runs from Khae Rai in No
 
 ### Airport Rail Link (ARL)
 
-The ARL connects [Suvarnabhumi Airport](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) to Phaya Thai station in central Bangkok in about 30 minutes. From Phaya Thai you can transfer to the BTS. A one-way ticket to Phaya Thai costs 45 baht — far cheaper than a taxi.
+The ARL connects [Suvarnabhumi Airport](/travel-guides/sim-card-thailand/) to Phaya Thai station in central Bangkok in about 30 minutes. From Phaya Thai you can transfer to the BTS. A one-way ticket to Phaya Thai costs 45 baht — far cheaper than a taxi.
 
 ## Paying for Your Ride
 

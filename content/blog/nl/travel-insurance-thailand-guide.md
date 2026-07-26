@@ -193,7 +193,7 @@ Sommige premium creditcards (Chase Sapphire Reserve, Amex Platinum) bieden reisv
 
 ### Wat als ik naar het ziekenhuis moet?
 
-Ga naar het dichtstbijzijnde ziekenhuis. Bij spoed bel je 1669 (Thais noodnummer) of 1155 (Tourist Police). Particuliere ziekenhuizen zoals Bumrungrad, Bangkok Hospital en Samitivej hebben Engelstalig personeel en internationale afdelingen voor patiënten. Neem zo snel mogelijk contact op met je verzekeraar. Bekijk onze [beste SIM-kaart en eSIM-gids voor Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) om altijd bereikbaar te zijn in noodgevallen.
+Ga naar het dichtstbijzijnde ziekenhuis. Bij spoed bel je 1669 (Thais noodnummer) of 1155 (Tourist Police). Particuliere ziekenhuizen zoals Bumrungrad, Bangkok Hospital en Samitivej hebben Engelstalig personeel en internationale afdelingen voor patiënten. Neem zo snel mogelijk contact op met je verzekeraar. Bekijk onze [beste SIM-kaart en eSIM-gids voor Thailand](/nl/travel-guides/sim-card-thailand/) om altijd bereikbaar te zijn in noodgevallen.
 
 ### Hoeveel kost een reisverzekering voor een 2-weekse Thailand-vakantie?
 

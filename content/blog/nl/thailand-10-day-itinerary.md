@@ -50,7 +50,7 @@ Deze reisroute volgt een logisch pad van noord naar zuid: vlieg naar Bangkok, ga
 
 ### Dag 1: Aankomst en acclimatiseren
 
-Vlieg naar Suvarnabhumi Airport (BKK) en neem een taxi of de Airport Rail Link naar je hotel. Als je voor de middag landt, breng de middag door met wandelen in je buurt. Koop een [eSIM](https://saily.tpo.lv/rf9lidnE) of [lokale SIM-kaart](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/) op het vliegveld — data kost ongeveer 300 THB (€8,50) voor een week.
+Vlieg naar Suvarnabhumi Airport (BKK) en neem een taxi of de Airport Rail Link naar je hotel. Als je voor de middag landt, breng de middag door met wandelen in je buurt. Koop een [eSIM](https://saily.tpo.lv/rf9lidnE) of [lokale SIM-kaart](/nl/travel-guides/sim-card-thailand/) op het vliegveld — data kost ongeveer 300 THB (€8,50) voor een week.
 
 Voor het diner ga je naar een lokale streetfood-stal. Een bord pad thai of kip met rijst kost 50–80 THB (€1,40–2,30). Wil je een goede inleiding, lees dan onze [Bangkok streetfood gids](https://go2-thailand.com/blog/bangkok-street-food-beginners/).
 

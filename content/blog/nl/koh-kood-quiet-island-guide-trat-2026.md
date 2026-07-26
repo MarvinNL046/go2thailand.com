@@ -28,7 +28,7 @@ The Guardian noemde Koh Kood ooit "het laatste ongerepte eiland van Thailand", e
 
 ## Wat maakt Koh Kood zo bijzonder
 
-Zelfs in het hoogseizoen van januari en februari voelt het eiland rustig aan. Lange stroken strand blijven leeg, en de sfeer draait om hangmatten en zonsondergangen in plaats van beachclubs en souvenirwinkels. Elk seizoen duiken er nieuwe boetiekresorts, cafés en restaurants op, maar de relaxte charme blijft behouden. Mobiele dekking bereikt nu de meeste hoofstranden met 4G en zelfs 5G – met de juiste [SIM-kaart of eSIM vooraf regelen](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) blijf je zonder gedoe online. [Remote workers en digital nomads](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) ontdekken het eiland steeds meer als een vredige uitvalsbasis, ver van de co-workinghypes in Chiang Mai.
+Zelfs in het hoogseizoen van januari en februari voelt het eiland rustig aan. Lange stroken strand blijven leeg, en de sfeer draait om hangmatten en zonsondergangen in plaats van beachclubs en souvenirwinkels. Elk seizoen duiken er nieuwe boetiekresorts, cafés en restaurants op, maar de relaxte charme blijft behouden. Mobiele dekking bereikt nu de meeste hoofstranden met 4G en zelfs 5G – met de juiste [SIM-kaart of eSIM vooraf regelen](/nl/travel-guides/sim-card-thailand/) blijf je zonder gedoe online. [Remote workers en digital nomads](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) ontdekken het eiland steeds meer als een vredige uitvalsbasis, ver van de co-workinghypes in Chiang Mai.
 
 ## De mooiste stranden
 

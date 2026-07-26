@@ -433,7 +433,7 @@ Koh Tao is over het algemeen veilig. Kleindiefstal komt voor maar is zeldzaam. V
 
 ### Connectiviteit en eSIM
 
-Mobiele netwerken (AIS, Dtac, True Move) werken op het eiland. Overweeg een lokale SIM-kaart te kopen (100–200 THB) of een [eSIM](https://go2-thailand.com/esim/) vooraf voor betrouwbare data. WiFi is beschikbaar maar inconsistent. Onze [beste SIM-kaart en eSIM-gids voor Thailand-toeristen](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) vergelijkt alle huidige opties en prijzen.
+Mobiele netwerken (AIS, Dtac, True Move) werken op het eiland. Overweeg een lokale SIM-kaart te kopen (100–200 THB) of een [eSIM](https://go2-thailand.com/esim/) vooraf voor betrouwbare data. WiFi is beschikbaar maar inconsistent. Onze [beste SIM-kaart en eSIM-gids voor Thailand-toeristen](/nl/travel-guides/sim-card-thailand/) vergelijkt alle huidige opties en prijzen.
 
 ## Veelgestelde Vragen
 

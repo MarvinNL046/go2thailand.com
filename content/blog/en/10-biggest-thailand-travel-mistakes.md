@@ -314,7 +314,7 @@ The mistake: buying a SIM with too little data, then running out halfway through
 
 ### Best SIM Card Strategy
 
-**Buy a local [SIM card](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) at the airport or in any 7-Eleven.** You'll need your passport. Popular providers are AIS, Dtac, and True Move. A 7-day plan with 4G data costs 200-300 THB (~$6-9 USD). A 30-day plan costs 500-800 THB (~$14-23 USD).
+**Buy a local [SIM card](/travel-guides/sim-card-thailand/) at the airport or in any 7-Eleven.** You'll need your passport. Popular providers are AIS, Dtac, and True Move. A 7-day plan with 4G data costs 200-300 THB (~$6-9 USD). A 30-day plan costs 500-800 THB (~$14-23 USD).
 
 Alternatively, use an **eSIM** before you arrive. Services like Saily offer Thailand data plans (typically $15-25 USD for 2 weeks) with no physical card. This works if your phone supports eSIM (most modern phones do).
 

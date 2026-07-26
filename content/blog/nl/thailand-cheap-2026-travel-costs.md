@@ -501,7 +501,7 @@ Na jaren leven en reizen in Thailand hebben we specifieke strategieën geleerd d
 
 ### Vervoer hacks
 
-- **Koop een [Thailand eSIM](https://go2-thailand.com/esim/):** Grab Maps werkt offline; je hebt geen data nodig voor navigatie. Een lokale SIM kost 50-100 baht voor 8GB data. Onze [beste SIM-kaart en eSIM gids voor Thailand 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) vergelijkt alle opties.
+- **Koop een [Thailand eSIM](https://go2-thailand.com/esim/):** Grab Maps werkt offline; je hebt geen data nodig voor navigatie. Een lokale SIM kost 50-100 baht voor 8GB data. Onze [beste SIM-kaart en eSIM gids voor Thailand 2026](/nl/travel-guides/sim-card-thailand/) vergelijkt alle opties.
 - **Gebruik BTS/MRT in Bangkok:** Taxi’s zijn goedkoop maar BTS is sneller en goedkoper voor langere afstanden. Zie de volledige [Bangkok openbaar vervoer gids 2026](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) voor routes en tarieven.
 - **Nachtbussen besparen accommodatie:** Reis 's nachts, slaap in de bus, arriveer uitgerust. Bespaart een hotelnacht.
 - **Boek bussen op het station:** Agentschappen voegen 100-200 baht commissie toe.

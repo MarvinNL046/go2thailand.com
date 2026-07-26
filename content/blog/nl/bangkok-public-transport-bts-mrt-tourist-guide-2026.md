@@ -48,7 +48,7 @@ De Pink Line, officieel de Wiwat Nakhon Line, rijdt van Khae Rai in Nonthaburi n
 
 ### Airport Rail Link (ARL)
 
-De ARL verbindt [Suvarnabhumi Airport](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) in ongeveer 30 minuten met station Phaya Thai in het centrum van Bangkok. Vanaf Phaya Thai stap je over op de BTS. Een enkele rit naar Phaya Thai kost 45 baht, veel goedkoper dan een taxi en ideaal als je net geland bent vanuit Nederland.
+De ARL verbindt [Suvarnabhumi Airport](/nl/travel-guides/sim-card-thailand/) in ongeveer 30 minuten met station Phaya Thai in het centrum van Bangkok. Vanaf Phaya Thai stap je over op de BTS. Een enkele rit naar Phaya Thai kost 45 baht, veel goedkoper dan een taxi en ideaal als je net geland bent vanuit Nederland.
 
 ## Betalen voor je reis
 

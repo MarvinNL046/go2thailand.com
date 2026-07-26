@@ -401,7 +401,7 @@ Voor een breder overzicht van Thailand-reiskosten breekt onze [Thailand budget g
 
 ### Internet en connectiviteit
 
-WiFi is beschikbaar bij de meeste hotels en restaurants, maar kan traag zijn. Overweeg een lokale SIM of eSIM voor betrouwbare mobiele data – onze [beste SIM-kaart en eSIM gids voor Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) vergelijkt de topopties. Lokale SIM-kaarten zijn verkrijgbaar in Tonsai-winkels (50–100 THB) met datapakketten vanaf 100 THB.
+WiFi is beschikbaar bij de meeste hotels en restaurants, maar kan traag zijn. Overweeg een lokale SIM of eSIM voor betrouwbare mobiele data – onze [beste SIM-kaart en eSIM gids voor Thailand](/nl/travel-guides/sim-card-thailand/) vergelijkt de topopties. Lokale SIM-kaarten zijn verkrijgbaar in Tonsai-winkels (50–100 THB) met datapakketten vanaf 100 THB.
 
 ### Respect en culturele overwegingen
 

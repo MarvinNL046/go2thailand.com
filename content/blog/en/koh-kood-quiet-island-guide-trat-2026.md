@@ -28,7 +28,7 @@ The Guardian once called Koh Kood "Thailand's last unspoilt island," and in 2026
 
 ## What Makes Koh Kood Different
 
-Even during peak season in January and February, the island feels calm. Long stretches of beach remain empty, and the atmosphere is more about hammocks and sunsets than beach clubs and souvenir shopping. New boutique resorts, cafes, and restaurants appear each season, but the island's low-key charm stays intact. Mobile coverage now reaches most main beaches with 4G and even 5G — picking up the right [SIM card or eSIM before you arrive](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) will keep you connected without hassle. [Remote workers and digital nomads](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) are beginning to discover the island as a peaceful base far from the co-working crowds of Chiang Mai.
+Even during peak season in January and February, the island feels calm. Long stretches of beach remain empty, and the atmosphere is more about hammocks and sunsets than beach clubs and souvenir shopping. New boutique resorts, cafes, and restaurants appear each season, but the island's low-key charm stays intact. Mobile coverage now reaches most main beaches with 4G and even 5G — picking up the right [SIM card or eSIM before you arrive](/travel-guides/sim-card-thailand/) will keep you connected without hassle. [Remote workers and digital nomads](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) are beginning to discover the island as a peaceful base far from the co-working crowds of Chiang Mai.
 
 ## Best Beaches
 

@@ -371,7 +371,7 @@ Most nationalities receive 30-60 days visa-free entry to Thailand. For longer we
 
 ### Staying Connected
 
-While many people come to wellness retreats specifically to disconnect, you may want to maintain some connectivity. Consider getting a [Thailand eSIM](https://go2-thailand.com/esim/) before arrival for reliable internet access — our [SIM card and eSIM guide](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) covers all providers and prices for 2026. Most retreats offer WiFi, though some intentionally limit connectivity to encourage digital detoxing.
+While many people come to wellness retreats specifically to disconnect, you may want to maintain some connectivity. Consider getting a [Thailand eSIM](https://go2-thailand.com/esim/) before arrival for reliable internet access — our [SIM card and eSIM guide](/travel-guides/sim-card-thailand/) covers all providers and prices for 2026. Most retreats offer WiFi, though some intentionally limit connectivity to encourage digital detoxing.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

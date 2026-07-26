@@ -401,7 +401,7 @@ For a broader look at Thailand travel costs, our [Thailand budget guide 2026](/b
 
 ### Internet and Connectivity
 
-WiFi is available at most hotels and restaurants but can be slow. Consider a local SIM or eSIM for reliable mobile data — our [best SIM card and eSIM guide for Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) compares the top options. Local SIM cards are available at Tonsai shops (50–100 THB) with data packages from 100 THB upward.
+WiFi is available at most hotels and restaurants but can be slow. Consider a local SIM or eSIM for reliable mobile data — our [best SIM card and eSIM guide for Thailand](/travel-guides/sim-card-thailand/) compares the top options. Local SIM cards are available at Tonsai shops (50–100 THB) with data packages from 100 THB upward.
 
 ### Respect and Cultural Considerations
 

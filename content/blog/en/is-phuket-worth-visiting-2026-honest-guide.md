@@ -383,7 +383,7 @@ Most nationalities receive 30 days visa-free entry to Thailand. Check our [Thail
 
 ### Internet & Connectivity
 
-WiFi is widely available in hotels, cafes, and restaurants. For mobile data, our [best SIM card and eSIM guide for Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) covers all the top options and pricing for 2026.
+WiFi is widely available in hotels, cafes, and restaurants. For mobile data, our [best SIM card and eSIM guide for Thailand](/travel-guides/sim-card-thailand/) covers all the top options and pricing for 2026.
 
 ## 9. 1-Day Phuket Itinerary
 

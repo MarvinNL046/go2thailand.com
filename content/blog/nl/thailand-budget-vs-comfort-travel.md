@@ -374,7 +374,7 @@ Als je langer dan 30 dagen blijft, heb je een [Thailand visum](https://go2-thail
 ### Onverwachte kosten
 
 - **Geldautomaten:** Thaise banken rekenen ฿180–220 per opname. Pinnen grotere bedragen minder vaak
-- **SIM-kaarten:** ฿99–199 voor een [lokale SIM met data](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/). Reken dit als eenmalige kosten
+- **SIM-kaarten:** ฿99–199 voor een [lokale SIM met data](/nl/travel-guides/sim-card-thailand/). Reken dit als eenmalige kosten
 - **Luchthaven transfers:** ฿300–500 van luchthaven naar stad. Gebruik openbaar vervoer (฿35 bus) als je budgetbewust bent
 
 ### Alcohol & uitgaan

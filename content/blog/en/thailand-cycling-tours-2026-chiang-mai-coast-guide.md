@@ -50,7 +50,7 @@ Most multi-day tours include an air-conditioned support vehicle carrying water, 
 
 ## Practical Tips for Independent Cyclists
 
-If you prefer to ride solo, convenience stores and roadside noodle shops appear every few kilometres on most Thai highways. Bike repair shops are common in provincial towns. Wear a helmet, carry a rain jacket during shoulder season, and avoid Highway 4 south of Chumphon where truck traffic is heavy. Touring cyclists often praise the quieter Route 1095 loop between [Chiang Mai](/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/) and Pai as one of Southeast Asia's most scenic rides. A reliable data connection matters for navigation on remote roads—our [best SIM card and eSIM guide for Thailand 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) helps you pick the right option before you leave home.
+If you prefer to ride solo, convenience stores and roadside noodle shops appear every few kilometres on most Thai highways. Bike repair shops are common in provincial towns. Wear a helmet, carry a rain jacket during shoulder season, and avoid Highway 4 south of Chumphon where truck traffic is heavy. Touring cyclists often praise the quieter Route 1095 loop between [Chiang Mai](/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/) and Pai as one of Southeast Asia's most scenic rides. A reliable data connection matters for navigation on remote roads—our [best SIM card and eSIM guide for Thailand 2026](/travel-guides/sim-card-thailand/) helps you pick the right option before you leave home.
 
 ## Plan Ahead
 

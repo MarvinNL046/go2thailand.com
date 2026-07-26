@@ -374,7 +374,7 @@ If you're staying longer than 30 days, you'll need a [Thailand visa](https://go2
 ### Unexpected Fees
 
 - **ATM withdrawals:** Thai banks charge ฿180–220 per withdrawal. Withdraw larger amounts less frequently
-- **SIM cards:** ฿99–199 for a [local SIM with data](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/). Budget this as a one-time cost
+- **SIM cards:** ฿99–199 for a [local SIM with data](/travel-guides/sim-card-thailand/). Budget this as a one-time cost
 - **Airport transfers:** ฿300–500 from airport to city. Use public transport (฿35 bus) if you're budget-conscious
 
 ### Alcohol & Nightlife

@@ -546,7 +546,7 @@ Before you book, use this checklist to estimate your real costs.
 - [ ] Notify your bank of travel dates
 - [ ] Book first 3–4 nights accommodation
 - [ ] Research [Thailand weather](https://go2-thailand.com/weather/) for your travel dates
-- [ ] Get an [eSIM or SIM card](https://go2-thailand.com/esim/) — see [best SIM card guide for 2026](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/)
+- [ ] Get an [eSIM or SIM card](https://go2-thailand.com/esim/) — see [best SIM card guide for 2026](/travel-guides/sim-card-thailand/)
 - [ ] Read about [Thailand travel scams to avoid](https://go2-thailand.com/blog/thailand-travel-scams-2026/)
 - [ ] Download offline maps and translation apps
 - [ ] Check [vaccination requirements](https://go2-thailand.com/travel-guides/health-hospitals-thailand/)

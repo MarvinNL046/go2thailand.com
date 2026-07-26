@@ -540,7 +540,7 @@ Gebruik deze checklist voor je boeking om je echte kosten in te schatten.
 - [ ] Meld je bank van je reisdata
 - [ ] Boek eerste 3–4 nachten accommodatie
 - [ ] Onderzoek [Thailand weer](https://go2-thailand.com/weather/) voor je reisdata
-- [ ] Regel een [eSIM of SIM-kaart](https://go2-thailand.com/esim/) – bekijk de [beste SIM-kaart gids voor 2026](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/)
+- [ ] Regel een [eSIM of SIM-kaart](https://go2-thailand.com/esim/) – bekijk de [beste SIM-kaart gids voor 2026](/nl/travel-guides/sim-card-thailand/)
 - [ ] Lees over [Thailand reisscams om te vermijden](https://go2-thailand.com/blog/thailand-travel-scams-2026/)
 - [ ] Download offline kaarten en vertaal-apps
 - [ ] Check [vaccinatievereisten](https://go2-thailand.com/travel-guides/health-hospitals-thailand/)

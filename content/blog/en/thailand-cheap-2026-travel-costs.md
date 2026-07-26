@@ -501,7 +501,7 @@ After years living and traveling in Thailand, we've learned specific strategies 
 
 ### Transport Hacks
 
-- **Get a [Thailand eSIM](https://go2-thailand.com/esim/):** Grab Maps works offline; you don't need data for navigation. A local SIM costs 50-100 baht for 8GB data. Our [best SIM card and eSIM guide for Thailand 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) compares all options.
+- **Get a [Thailand eSIM](https://go2-thailand.com/esim/):** Grab Maps works offline; you don't need data for navigation. A local SIM costs 50-100 baht for 8GB data. Our [best SIM card and eSIM guide for Thailand 2026](/travel-guides/sim-card-thailand/) compares all options.
 - **Use BTS/MRT in Bangkok:** Taxis are cheap but BTS is faster and cheaper for longer distances. See the full [Bangkok public transport guide 2026](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) for routes and fares.
 - **Night buses save accommodation:** Travel overnight, sleep on the bus, arrive refreshed. Saves a hotel night.
 - **Book buses at the station:** Booking agencies add 100-200 baht commission.

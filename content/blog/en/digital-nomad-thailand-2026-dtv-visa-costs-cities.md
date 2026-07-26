@@ -243,7 +243,7 @@ When we set up internet in our Chiang Mai apartment, we got 100 Mbps fiber for 9
 
 Thailand's mobile networks (AIS, Dtac, True Move) offer excellent 4G coverage in cities and towns, with 5G increasingly available in Bangkok and Chiang Mai. A monthly unlimited 4G data plan costs 200–500 THB ($5–$14), making it an incredibly cheap backup option.
 
-For staying connected while traveling between cities or as a backup to home internet, consider getting a local [Thailand eSIM](https://go2-thailand.com/esim/) or SIM card. Our [best SIM card & eSIM guide 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) compares all the top options. You can buy a SIM at the airport, convenience stores, or mobile shops. Activation takes 5 minutes, and you're online immediately.
+For staying connected while traveling between cities or as a backup to home internet, consider getting a local [Thailand eSIM](https://go2-thailand.com/esim/) or SIM card. Our [best SIM card & eSIM guide 2026](/travel-guides/sim-card-thailand/) compares all the top options. You can buy a SIM at the airport, convenience stores, or mobile shops. Activation takes 5 minutes, and you're online immediately.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

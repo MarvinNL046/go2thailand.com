@@ -50,7 +50,7 @@ This itinerary follows a logical north-to-south path: fly into Bangkok, head nor
 
 ### Day 1: Arrive and Ease In
 
-Fly into Suvarnabhumi Airport (BKK) and grab a taxi or the Airport Rail Link to your hotel. If you land before noon, spend the afternoon exploring your neighborhood on foot. Pick up an [eSIM](https://saily.tpo.lv/rf9lidnE) or [local SIM card](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/) at the airport — data costs about 300 THB ($8.50) for a week.
+Fly into Suvarnabhumi Airport (BKK) and grab a taxi or the Airport Rail Link to your hotel. If you land before noon, spend the afternoon exploring your neighborhood on foot. Pick up an [eSIM](https://saily.tpo.lv/rf9lidnE) or [local SIM card](/travel-guides/sim-card-thailand/) at the airport — data costs about 300 THB ($8.50) for a week.
 
 For dinner, head to a local street food stall. A plate of pad thai or chicken over rice costs 50–80 THB ($1.40–2.30). If you want a curated introduction, read our [Bangkok street food guide](https://go2-thailand.com/blog/bangkok-street-food-beginners/).
 

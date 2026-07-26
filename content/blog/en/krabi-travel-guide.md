@@ -346,7 +346,7 @@ Krabi is generally very safe for tourists. Standard precautions apply:
 
 ### Internet & Connectivity
 
-Thailand's internet is generally reliable. Most hotels, restaurants, and cafes offer free WiFi. For continuous connectivity, consider purchasing a local [SIM card](https://saily.tpo.lv/rf9lidnE) (AIS, Dtac, True Move) or an [eSIM](https://go2-thailand.com/esim/) before arrival. Our [best SIM card guide for Thailand](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/) compares all major options.
+Thailand's internet is generally reliable. Most hotels, restaurants, and cafes offer free WiFi. For continuous connectivity, consider purchasing a local [SIM card](https://saily.tpo.lv/rf9lidnE) (AIS, Dtac, True Move) or an [eSIM](https://go2-thailand.com/esim/) before arrival. Our [best SIM card guide for Thailand](/travel-guides/sim-card-thailand/) compares all major options.
 
 **Local SIM cards:** Available at 7-Eleven and airport kiosks; plans cost 300–500 THB ($8–14 USD) for 7–30 days of data.
 

@@ -346,7 +346,7 @@ Krabi is over het algemeen zeer veilig voor toeristen. Standaard voorzorgsmaatre
 
 ### Internet & Connectiviteit
 
-Internet in Thailand is betrouwbaar. De meeste hotels, restaurants en cafés bieden gratis wifi. Voor continue connectie overweeg een lokale [SIM-kaart](https://saily.tpo.lv/rf9lidnE) (AIS, Dtac, True Move) of een [eSIM](https://go2-thailand.com/esim/) voor aankomst. Onze [beste SIM-kaart gids voor Thailand](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/) vergelijkt alle opties.
+Internet in Thailand is betrouwbaar. De meeste hotels, restaurants en cafés bieden gratis wifi. Voor continue connectie overweeg een lokale [SIM-kaart](https://saily.tpo.lv/rf9lidnE) (AIS, Dtac, True Move) of een [eSIM](https://go2-thailand.com/esim/) voor aankomst. Onze [beste SIM-kaart gids voor Thailand](/nl/travel-guides/sim-card-thailand/) vergelijkt alle opties.
 
 **Lokale SIM-kaarten:** Verkrijgbaar bij 7-Eleven en luchthavenkiosken; plannen kosten 300–500 THB (€8–13) voor 7–30 dagen data.
 

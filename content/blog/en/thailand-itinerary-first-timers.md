@@ -208,7 +208,7 @@ For a detailed daily cost breakdown, check our [Thailand budget guide](https://g
 
 - **Grab app** is your best friend. Works for taxis, motorbike taxis, and food delivery. Always cheaper and safer than negotiating with random drivers.
 - **Currency:** Thai Baht (THB). 1 USD is roughly 35 THB (2026 rates). ATMs are everywhere but charge 220 THB ($6.30) per withdrawal. Use ATMs inside bank branches for security. Bring a travel card with low foreign transaction fees.
-- **SIM card or eSIM:** Get one at the airport on arrival. You need mobile data for maps, Grab, and translation apps. Budget 299–599 THB ($8–17) for 15–30 days. See our [best SIM card and eSIM guide for Thailand](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/).
+- **SIM card or eSIM:** Get one at the airport on arrival. You need mobile data for maps, Grab, and translation apps. Budget 299–599 THB ($8–17) for 15–30 days. See our [best SIM card and eSIM guide for Thailand](/travel-guides/sim-card-thailand/).
 - **Transport apps:** Google Maps works well in Thailand. For intercity buses and trains, book through [12Go Asia](https://12go.tpo.lv/tNA80urD) — it aggregates routes and lets you compare options.
 - **[Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/):** Complete this online at least 3 days before your flight. It's free and mandatory.
 

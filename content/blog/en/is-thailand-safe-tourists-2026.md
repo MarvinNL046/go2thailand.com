@@ -390,7 +390,7 @@ Internet safety is often overlooked but critical in Thailand. Public WiFi is ubi
 
 ### Getting Connected Safely
 
-Purchase a local eSIM or SIM card upon arrival. Major providers (AIS, Dtac, True Move) offer tourist packages: 7-day plans with 4-8GB data cost 300-500 baht ($8-14 USD). This is cheaper and more secure than relying on public WiFi. See our [best SIM card & eSIM guide for Thailand 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) for a full comparison.
+Purchase a local eSIM or SIM card upon arrival. Major providers (AIS, Dtac, True Move) offer tourist packages: 7-day plans with 4-8GB data cost 300-500 baht ($8-14 USD). This is cheaper and more secure than relying on public WiFi. See our [best SIM card & eSIM guide for Thailand 2026](/travel-guides/sim-card-thailand/) for a full comparison.
 
 Alternatively, arrange an eSIM before departure through services like Saily. Rates are slightly higher but convenient.
 
