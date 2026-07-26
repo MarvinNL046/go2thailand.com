@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-26T17:14:51.457Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "pattaya nightlife areas",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "pattaya nightlife areas"
+  ],
+  "keywords": [
+    {
+      "keyword": "pattaya nightlife areas",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
