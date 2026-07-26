@@ -14,6 +14,7 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
   const isBangkok = citySlug === 'bangkok' && !isNl;
   const isChiangMai = citySlug === 'chiang-mai' && !isNl;
   const isPhuket = citySlug === 'phuket' && !isNl;
+  const isAyutthaya = citySlug === 'ayutthaya' && !isNl;
   const title = isKrabi
     ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
     : isBangkok
@@ -22,6 +23,8 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
       ? 'Chiang Mai at a glance'
     : isPhuket
       ? 'Phuket at a glance'
+    : isAyutthaya
+      ? 'Ayutthaya at a glance'
       : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
   const paragraphs = isKrabi
     ? isNl
@@ -48,13 +51,18 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
           'Phuket is Thailand’s largest island and the centre of a province with the same name. The west coast holds the best-known beach zones; Phuket Town and Old Town sit inland on the southeast side; piers, temples and viewpoints form separate clusters across a much larger island than many first-time visitors expect.',
           'For a first visit, choose one coast base, reserve a focused block for Old Town and add one boat or bay day. Four full days creates a useful balance of beach, food, culture and sea without making traffic the main experience.',
         ]
+    : isAyutthaya
+      ? [
+          'Ayutthaya was founded in the 14th century and became a major Siamese capital before its destruction in the 18th century. The UNESCO-listed historic city preserves the central royal and religious core, while important temples and river landscapes extend beyond the island circuit.',
+          'A full day can cover one coherent central cluster, a shaded food or museum pause and one outer temple. Staying overnight removes the Bangkok deadline and creates room for early light, a second historical layer and a quieter river evening.',
+        ]
       : [editorial].filter(Boolean);
 
   return (
     <section id="over-bestemming" className="section-divider-bottom scroll-mt-24 bg-[#fcfaf6]">
       <div className="container-custom grid items-center gap-8 py-12 lg:grid-cols-[0.72fr_1.55fr] lg:gap-14 lg:py-16">
         <div className="relative self-stretch lg:flex lg:flex-col lg:justify-center">
-          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai ? 'Start with the city and mountain' : isPhuket ? 'Start with the island structure' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
+          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai ? 'Start with the city and mountain' : isPhuket ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
           <h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.7rem]">{title}</h2>
           <div className="mt-6 max-w-[31rem] space-y-4 text-sm leading-7 text-charcoal/62">
             {paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}

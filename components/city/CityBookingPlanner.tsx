@@ -19,6 +19,24 @@ export function CityBookingPlanner({
   esimHref,
   isNl,
 }: CityBookingPlannerProps) {
+  const activityDescription = isNl
+    ? 'Eilandtours, natuur en lokale belevenissen.'
+    : ({
+        Bangkok: 'Temple, food, river and local experiences.',
+        'Chiang Mai': 'Temple, food, mountain and local experiences.',
+        Phuket: 'Beach, boat, Old Town and local experiences.',
+        Ayutthaya: 'Temple, heritage, river and local experiences.',
+        Krabi: 'Island, coast, nature and local experiences.',
+      }[cityName] || 'Tours, culture, nature and local experiences.');
+  const transportDescription = isNl
+    ? 'Veerboten, transfers, bussen en treinen.'
+    : ({
+        Bangkok: 'Airport, train, bus and onward connections.',
+        'Chiang Mai': 'Airport, train, bus and onward connections.',
+        Phuket: 'Airport, ferry, transfer and onward connections.',
+        Ayutthaya: 'Train, transfer and Bangkok return connections.',
+        Krabi: 'Ferry, transfer, bus and onward connections.',
+      }[cityName] || 'Transfers, buses, trains and onward connections.');
   const items = [
     {
       icon: BedDouble,
@@ -31,18 +49,14 @@ export function CityBookingPlanner({
       icon: MapPinned,
       eyebrow: 'Klook',
       title: isNl ? 'Boek een ervaring' : 'Book an experience',
-      description: cityName === 'Bangkok'
-        ? 'Temple, food, river and local experiences.'
-        : isNl ? 'Eilandtours, natuur en lokale belevenissen.' : 'Island tours, nature and local experiences.',
+      description: activityDescription,
       href: activitiesHref,
     },
     {
       icon: BusFront,
       eyebrow: '12Go',
       title: isNl ? 'Regel je vervoer' : 'Arrange transport',
-      description: cityName === 'Bangkok'
-        ? 'Airport, train, bus and onward connections.'
-        : isNl ? 'Veerboten, transfers, bussen en treinen.' : 'Ferries, transfers, buses and trains.',
+      description: transportDescription,
       href: transportHref,
     },
     {
