@@ -27,6 +27,7 @@ export function CityBookingPlanner({
         Phuket: 'Beach, boat, Old Town and local experiences.',
         Ayutthaya: 'Temple, heritage, river and local experiences.',
         'Koh Samui': 'Beach, temple, marine park and local experiences.',
+        'Chiang Rai': 'Temple art, city culture and northern day routes.',
         Krabi: 'Island, coast, nature and local experiences.',
       }[cityName] || 'Tours, culture, nature and local experiences.');
   const transportDescription = isNl
@@ -37,6 +38,7 @@ export function CityBookingPlanner({
         Phuket: 'Airport, ferry, transfer and onward connections.',
         Ayutthaya: 'Train, transfer and Bangkok return connections.',
         'Koh Samui': 'Airport, ferry, transfer and onward connections.',
+        'Chiang Rai': 'Airport, bus, transfer and Chiang Mai connections.',
         Krabi: 'Ferry, transfer, bus and onward connections.',
       }[cityName] || 'Transfers, buses, trains and onward connections.');
   const items = [

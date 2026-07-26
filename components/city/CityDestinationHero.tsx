@@ -24,7 +24,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
   const isPhuket = citySlug === 'phuket' && !isNl;
   const isAyutthaya = citySlug === 'ayutthaya' && !isNl;
   const isKohSamui = citySlug === 'koh-samui' && !isNl;
-  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui;
+  const isChiangRai = citySlug === 'chiang-rai' && !isNl;
+  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai;
   const subtitle = isKrabi
     ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
     : isBangkok
@@ -37,6 +38,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'Ancient-capital ruins, river history and a route worth slowing down for.'
     : isKohSamui
       ? 'Distinct beach zones, Gulf weather and one island loop—planned at a slower pace.'
+    : isChiangRai
+      ? 'Contemporary temple art, quiet city evenings and one northern route—without the checklist.'
       : description;
   const directAnswer = isKrabi
     ? isNl
@@ -52,14 +55,16 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'Ayutthaya was a major Siamese capital and its protected historic city is now a UNESCO World Heritage Site. A focused day trip can cover the central ruin cluster and one outer temple; an overnight adds early light, a museum and a slower river evening.'
     : isKohSamui
       ? 'Koh Samui is a Gulf of Thailand island with very different stay zones. Choose Chaweng, Lamai, Bophut or a quieter coast first, then plan one island loop and one sea day. Four to five days gives a first trip enough room for beach time and changing conditions.'
+    : isChiangRai
+      ? 'Chiang Rai is a compact Northern Thai city and a practical base for a much larger province. Two nights covers the city and main art-temple circuit without rushing; add a third full day for one mountain, tea or border-history route.'
       : '';
-  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok || isAyutthaya ? 'Central Thailand' : isChiangMai ? 'Northern Thailand' : isPhuket || isKohSamui ? 'Southern Thailand' : 'Thailand';
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok || isAyutthaya ? 'Central Thailand' : isChiangMai || isChiangRai ? 'Northern Thailand' : isPhuket || isKohSamui ? 'Southern Thailand' : 'Thailand';
   const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
     { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
-    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui
+    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai
       ? { href: ownerHref(`/city/${citySlug}/food/`), label: 'Food', icon: Utensils }
       : { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
     { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
@@ -122,7 +127,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
               </div>
               <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
                 <Palmtree size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
               </div>
               <div className="flex items-center gap-3 sm:pl-4">
                 <Clock3 size={18} className="shrink-0 text-jade/65" />
