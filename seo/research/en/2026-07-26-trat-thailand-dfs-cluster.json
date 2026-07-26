@@ -1,0 +1,908 @@
+{
+  "captured_at": "2026-07-26T22:06:01.935Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "trat thailand",
+  "costs": {
+    "suggestions": 0.01788,
+    "related": 0.01368,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "trat thailand",
+    "koh chang trat thailand",
+    "bangkok to trat",
+    "trat province thailand",
+    "trat thailand weather",
+    "weather in trat thailand",
+    "weather trat thailand",
+    "bangkok to trat by train",
+    "trat islands thailand",
+    "things to do in trat thailand",
+    "where is trat in thailand",
+    "bangkok to trat by car",
+    "bangkok to trat distance",
+    "bangkok to trat flight schedule",
+    "how to get to trat thailand",
+    "is it safe to travel to trat thailand now",
+    "is trat thailand safe",
+    "islands near trat thailand",
+    "koh chang trat thailand hotels"
+  ],
+  "keywords": [
+    {
+      "keyword": "koh chang trat thailand",
+      "volume": 8100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "ko kut trat thailand",
+      "volume": 260,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "trat province thailand",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat bus",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "trat thailand weather",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in trat thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather trat thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat by train",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "peter pan resort koh kood trat thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat islands thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat province thailand map",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand map",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in trat thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is trat in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat by car",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat ferry",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat taxi",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights from bangkok to trat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to trat airport thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get to trat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to trat thailand now",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is trat thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "islands near trat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh chang trat thailand hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat center hotel thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat city thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat hotels thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat province thailand hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand beaches",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand cambodia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trat thailand hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trat thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trat thailand things to do",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trat thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand-cambodia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat town thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather ko chang district trat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in trat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay in trat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand real estate",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to trat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bbc weather trat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of living in trat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "houses for sale trat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "land for sale trat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retire in trat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat border crossing thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand to sihanoukville",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand tripadvisor",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel to trat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather radar trat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 5.5,
+      "keywordCount": 4,
+      "visibility": 2.1999999999999997,
+      "estimatedTraffic": 568.6239999999999
+    },
+    {
+      "domain": "tratairportguide.com",
+      "avgPosition": 12.25,
+      "keywordCount": 4,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 791.355
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 13.5,
+      "keywordCount": 4,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 382.71799999999996
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 14,
+      "keywordCount": 4,
+      "visibility": 0.75,
+      "estimatedTraffic": 125.623
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 18.75,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 76.805
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 19.75,
+      "keywordCount": 4,
+      "visibility": 0.35,
+      "estimatedTraffic": 29.290999999999997
+    },
+    {
+      "domain": "iamkohchang.com",
+      "avgPosition": 24.5,
+      "keywordCount": 4,
+      "visibility": 1.2999999999999998,
+      "estimatedTraffic": 59.531
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 3,
+      "keywordCount": 3,
+      "visibility": 2.4,
+      "estimatedTraffic": 2493.6820000000002
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 8,
+      "keywordCount": 3,
+      "visibility": 1.25,
+      "estimatedTraffic": 142.31900000000002
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 8.666666666666666,
+      "keywordCount": 3,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 1369.998
+    },
+    {
+      "domain": "12go.asia",
+      "avgPosition": 32,
+      "keywordCount": 4,
+      "visibility": 0.7,
+      "estimatedTraffic": 29.598999999999997
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 38.925
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 0.65,
+      "estimatedTraffic": 30.083999999999996
+    },
+    {
+      "domain": "thaiislandquest.substack.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 208.991
+    },
+    {
+      "domain": "cutlooseadventure.com",
+      "avgPosition": 23.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 52.362
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 7.132
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 5.738
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 200.64
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 35,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.395999999999997
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 8.459
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 39.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 20.165999999999997
+    },
+    {
+      "domain": "blog.bangkokair.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.726
+    },
+    {
+      "domain": "onebluehat.com",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 21.124
+    },
+    {
+      "domain": "www.google.com",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.028
+    },
+    {
+      "domain": "kochangisland.com",
+      "avgPosition": 45.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 275.166
+    },
+    {
+      "domain": "explorekohchang.com",
+      "avgPosition": 22,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 36.068999999999996
+    },
+    {
+      "domain": "www.asiatours.com",
+      "avgPosition": 48.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.395999999999997
+    },
+    {
+      "domain": "amazingthailand.com.au",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.3929999999999998
+    },
+    {
+      "domain": "www.rome2rio.com",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 33.551
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.652
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 25,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.563
+    },
+    {
+      "domain": "www.theblondtravels.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.6839999999999997
+    },
+    {
+      "domain": "www.sayhithailand.com",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 17.156999999999996
+    },
+    {
+      "domain": "www.signatureluxurytravel.com.au",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 18.249
+    },
+    {
+      "domain": "maketimetoseetheworld.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 18.249
+    },
+    {
+      "domain": "www.takemetour.com",
+      "avgPosition": 43,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "allpointseast.com",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 51.68
+    },
+    {
+      "domain": "www.bangkokair.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 27.54
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 159.57
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 3.3489999999999998
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 8.85
+    },
+    {
+      "domain": "www.thailandredcat.com",
+      "avgPosition": 54.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "mapy.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.05
+    },
+    {
+      "domain": "www.checkmybus.co.uk",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9209999999999998
+    },
+    {
+      "domain": "www.thaiairways.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.5470000000000002
+    },
+    {
+      "domain": "www.thailand-property.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 60.75
+    },
+    {
+      "domain": "www.baolau.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.003
+    },
+    {
+      "domain": "www.notquitenigella.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 34.83
+    }
+  ]
+}

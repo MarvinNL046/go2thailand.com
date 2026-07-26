@@ -22,6 +22,7 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
   const isPai = citySlug === 'pai' && !isNl;
   const isHuaHin = citySlug === 'hua-hin' && !isNl;
   const isPattaya = citySlug === 'pattaya' && !isNl;
+  const isTrat = citySlug === 'trat' && !isNl;
   const title = isKrabi
     ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
     : isBangkok
@@ -46,6 +47,8 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
       ? 'Hua Hin at a glance'
     : isPattaya
       ? 'Pattaya at a glance'
+    : isTrat
+      ? 'Trat at a glance'
       : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
   const paragraphs = isKrabi
     ? isNl
@@ -112,13 +115,18 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
           'Pattaya is a coastal city in Chon Buri province on Thailand’s eastern Gulf coast, connected to Bangkok by a practical overland corridor. Central Pattaya is the commercial and nightlife-heavy core; Naklua and the north add the Sanctuary of Truth and resort stays; Pratumnak creates a quieter edge; Jomtien runs at a slower beachfront pace.',
           'For a first visit, choose the area before the hotel, then separate the cultural north, one island or south-coast day and the evening atmosphere you actually want. Two nights can work, while three days creates enough room for Koh Larn or Jomtien without reducing the whole city to Walking Street.',
         ]
+    : isTrat
+      ? [
+          'Trat is both a compact provincial town in eastern Thailand and the mainland gateway to an island-rich province. The centre has an old wooden quarter, the Bang Phra canal community, a city museum and a useful local food-and-market layer; Laem Ngop and Ban Nam Chiao form separate coastal extensions beyond town.',
+          'For a first visit, one night works as a sensible transfer buffer, while two nights creates room for the old centre and one mainland route. Koh Chang, Koh Mak and Koh Kood are specialist island trips with different piers, stay styles and transfer chains—choose the island before booking the connection.',
+        ]
       : [editorial].filter(Boolean);
 
   return (
     <section id="over-bestemming" className="section-divider-bottom scroll-mt-24 bg-[#fcfaf6]">
       <div className="container-custom grid items-center gap-8 py-12 lg:grid-cols-[0.72fr_1.55fr] lg:gap-14 lg:py-16">
         <div className="relative self-stretch lg:flex lg:flex-col lg:justify-center">
-          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi ? 'Start with the city and province' : isSukhothai ? 'Start with the old-city structure' : isPai ? 'Start with the town and valley' : isHuaHin || isPattaya ? 'Start with the city and coast' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
+          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi || isTrat ? 'Start with the city and province' : isSukhothai ? 'Start with the old-city structure' : isPai ? 'Start with the town and valley' : isHuaHin || isPattaya ? 'Start with the city and coast' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
           <h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.7rem]">{title}</h2>
           <div className="mt-6 max-w-[31rem] space-y-4 text-sm leading-7 text-charcoal/62">
             {paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}

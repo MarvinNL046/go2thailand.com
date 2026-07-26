@@ -30,7 +30,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
   const isPai = citySlug === 'pai' && !isNl;
   const isHuaHin = citySlug === 'hua-hin' && !isNl;
   const isPattaya = citySlug === 'pattaya' && !isNl;
-  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya;
+  const isTrat = citySlug === 'trat' && !isNl;
+  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat;
   const subtitle = isKrabi
     ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
     : isBangkok
@@ -55,6 +56,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'A long city beach, market evenings and one wild limestone day—within easy reach of Bangkok.'
     : isPattaya
       ? 'Four coastal zones, one cultural anchor and an evening for every kind of traveller.'
+    : isTrat
+      ? 'Old wooden streets, eastern food and three very different island routes—planned from the mainland first.'
       : description;
   const directAnswer = isKrabi
     ? isNl
@@ -82,14 +85,16 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'Hua Hin is a coastal city in Prachuap Khiri Khan province, not one continuous resort strip. Choose the older centre, Nong Kae or Khao Takiab first, then separate the beach-and-market rhythm from any full-day nature route. Two to three nights is a strong first balance.'
     : isPattaya
       ? 'Where is Pattaya in Thailand? Pattaya is a coastal city in Chon Buri province on the eastern Gulf coast, within practical overland reach of Bangkok. Choose Central Pattaya, Naklua, Pratumnak or Jomtien first, then build separate culture, island and evening chapters. Two to three days is a strong first balance.'
+    : isTrat
+      ? 'Where is Trat in Thailand? Trat is a provincial town in eastern Thailand and the mainland gateway to Koh Chang, Koh Mak and Koh Kood. One night is a useful transfer buffer; two nights gives the old quarter, local food and one coastal community their own chapter before the island journey.'
       : '';
-  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok || isAyutthaya || isKanchanaburi || isHuaHin || isPattaya ? 'Central Thailand' : isChiangMai || isChiangRai || isSukhothai || isPai ? 'Northern Thailand' : isPhuket || isKohSamui ? 'Southern Thailand' : 'Thailand';
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isTrat ? 'Eastern Thailand' : isBangkok || isAyutthaya || isKanchanaburi || isHuaHin || isPattaya ? 'Central Thailand' : isChiangMai || isChiangRai || isSukhothai || isPai ? 'Northern Thailand' : isPhuket || isKohSamui ? 'Southern Thailand' : 'Thailand';
   const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
     { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
-    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya
+    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat
       ? { href: ownerHref(`/city/${citySlug}/food/`), label: 'Food', icon: Utensils }
       : { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
     { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
@@ -152,7 +157,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
               </div>
               <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
                 <Palmtree size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
               </div>
               <div className="flex items-center gap-3 sm:pl-4">
                 <Clock3 size={18} className="shrink-0 text-jade/65" />
