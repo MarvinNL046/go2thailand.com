@@ -41,6 +41,7 @@
     "seo:verify:nl-dishes": "tsx scripts/verify-nl-dish-family.ts",
     "seo:verify:nl-visas": "tsx scripts/verify-nl-visa-family.ts",
     "seo:verify:nl-destinations": "tsx scripts/verify-nl-destination-family.ts",
+    "seo:verify:nl-attraction-overviews": "tsx scripts/verify-nl-attraction-overviews.ts",
     "seo:audit:nl-hotels": "tsx scripts/audit-nl-hotel-family.ts",
     "seo:audit:nl-attractions": "tsx scripts/audit-nl-attraction-family.ts",
     "affiliate:verify": "tsx scripts/verify-amazon-affiliates.ts",

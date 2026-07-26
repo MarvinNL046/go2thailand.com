@@ -318,7 +318,7 @@ export function KrabiAttractionsGuide({ ogImage }: KrabiAttractionsGuideProps) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={heroImage}
           imageAlt="Kalksteenkliffen en een longtailboot in Krabi"
@@ -558,7 +558,7 @@ export function KrabiAttractionsGuide({ ogImage }: KrabiAttractionsGuideProps) {
             <FeedbackForm pageTitle={pageTitle} pageUrl={pageUrl} />
           </div>
         </section>
-      </main>
+      </div>
     </>
   );
 }

@@ -152,7 +152,7 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -231,7 +231,7 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
         <SourceMethodSection title="Hoe is deze selectie samengesteld?" description="We combineren officiële bestemmingsinformatie, actuele toegangs- en veiligheidscontext, logische dagroutes en echte zoekvragen. Bekende plekken zonder duidelijke meerwaarde of met onduidelijke actuele toegang krijgen geen automatische topnotering." sources={data.sources} />
 
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
-      </main>
+      </div>
     </>
   );
 }
