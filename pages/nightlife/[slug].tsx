@@ -6,6 +6,7 @@ import SEOHead from '../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
 import { PattayaNightlifeGuide } from '../../components/nightlife/PattayaNightlifeGuide';
+import { PattayaNightlifeGuideEn } from '../../components/nightlife/PattayaNightlifeGuideEn';
 
 interface Venue {
   name: string;
@@ -102,6 +103,10 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
 
   if (isNl && slug === 'pattaya') {
     return <PattayaNightlifeGuide />;
+  }
+
+  if (!isNl && slug === 'pattaya') {
+    return <PattayaNightlifeGuideEn />;
   }
 
   const breadcrumbs = [
