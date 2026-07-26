@@ -58,6 +58,7 @@ import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageT
 import { ThaiMassageThailandGuideEn } from '../../components/wellness/ThaiMassageThailandGuideEn';
 import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
 import { HarborIslandBangkapiGuide } from '../../components/attractions/HarborIslandBangkapiGuide';
+import { HarborIslandBangkapiGuideEn } from '../../components/attractions/HarborIslandBangkapiGuideEn';
 
 interface Source {
   name: string;
@@ -273,6 +274,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'harbor-island-bangkok-rooftop-waterpark-2026') {
     return <HarborIslandBangkapiGuide />;
+  }
+  if (locale === 'en' && post.slug === 'harbor-island-bangkok-rooftop-waterpark-2026') {
+    return <HarborIslandBangkapiGuideEn />;
   }
 
   const breadcrumbs = [
