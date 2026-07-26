@@ -7,6 +7,7 @@ import { getTravelGuideStaticPaths, getTravelGuideBySlug } from '../../lib/trave
 import InsuranceCTA from '../../components/InsuranceCTA';
 import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import SevenElevenThailandGuide from '../../components/practical/SevenElevenThailandGuide';
+import VegetarianThailandGuide from '../../components/food/VegetarianThailandGuide';
 
 // --- Type definitions ---
 
@@ -312,6 +313,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (lang === 'nl' && guide.slug === '7-eleven-thailand') {
     return <SevenElevenThailandGuide />;
+  }
+
+  if (lang === 'nl' && guide.slug === 'vegetarian-vegan-thailand') {
+    return <VegetarianThailandGuide />;
   }
 
   const breadcrumbs = [
