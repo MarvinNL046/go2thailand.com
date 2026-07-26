@@ -229,5 +229,5 @@ export const thailandPackingGuide: PackingGuideData = {
     { title: 'Prohibited and restricted goods', creator: 'Thai Customs Department', url: 'https://www.customs.go.th/cont_strc_simple.php?ini_content=individual_160426_01&lang=en&left_menu=menu_individual_submenu_03_01', note: 'Officiële voorbeelden van verboden en vergunningplichtige goederen bij invoer.' },
     { title: 'Temple and sacred site etiquette', creator: 'Tourism Authority of Thailand', url: 'https://www.tatnews.org/2018/08/observing-temple-and-sacred-site-etiquette-while-in-thailand/', note: 'Officiële kleding- en gedragsrichtlijnen voor tempelbezoek.' },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };

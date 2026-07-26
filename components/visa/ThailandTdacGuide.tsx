@@ -338,7 +338,7 @@ export default function ThailandTdacGuide() {
           title="Maak je aankomst compleet"
           guides={[
             { title: 'Visum & inreisregels', description: 'Controleer verblijfsduur, paspoort en bewijs van vertrek.', href: '/visa/', image: '/images/redesign/thailand-visa-hero.webp', imageAlt: 'Reisdocumenten voor Thailand' },
-            { title: 'Paklijst Thailand', description: 'Van handbagage en tempelkleding tot documenten en elektronica.', href: '/packing-list-thailand/', image: '/images/redesign/travel-gear-hero.webp', imageAlt: 'Bagage en reisbenodigdheden voor Thailand' },
+            { title: 'Paklijst Thailand', description: 'Van handbagage en tempelkleding tot documenten en elektronica.', href: '/travel-gear/', image: '/images/redesign/travel-gear-hero.webp', imageAlt: 'Bagage en reisbenodigdheden voor Thailand' },
             { title: 'Eerste keer Thailand', description: 'Een rustige beslisvolgorde van route tot aankomst.', href: '/thailand-for-first-timers/', image: '/images/redesign/thailand-first-time-hero.webp', imageAlt: 'Eerste reis naar Thailand' },
           ]}
         />

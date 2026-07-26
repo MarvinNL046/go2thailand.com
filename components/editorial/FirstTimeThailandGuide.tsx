@@ -34,7 +34,7 @@ import { SectionHeading } from '../design/SectionHeading';
 import { SourceMethodSection } from '../design/SourceMethodSection';
 import { SAILY_GENERIC, TWELVEGO_GENERIC, withSubId } from '../../lib/affiliates';
 
-const UPDATED_AT = '2026-07-23';
+const UPDATED_AT = '2026-07-26';
 const routeGuideHref = '/itineraries/';
 
 const sectionNav = [
@@ -353,7 +353,7 @@ export default function FirstTimeThailandGuide() {
         ))}
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/first-time-thailand-hero.webp"
           imageAlt="Reiziger die voor het eerst aankomt aan de Chao Phraya-rivier in Bangkok"
@@ -380,7 +380,7 @@ export default function FirstTimeThailandGuide() {
               <div className="mt-4 grid grid-cols-2 gap-2 text-[11px] font-extrabold text-jade">
                 {['Paspoort', 'TDAC', 'Dekking', 'Eerste nacht'].map((item) => <span key={item} className="flex items-center gap-2 rounded-lg bg-canvas px-3 py-2"><Check size={12} className="text-saffron" />{item}</span>)}
               </div>
-              <p className="mt-4 border-t border-jade/10 pt-4 text-[10px] font-medium leading-4 text-charcoal/55">Bronnen laatst gecontroleerd op 23 juli 2026. Controleer officiële regels opnieuw vlak voor vertrek.</p>
+              <p className="mt-4 border-t border-jade/10 pt-4 text-[10px] font-medium leading-4 text-charcoal/55">Bronnen laatst gecontroleerd op 26 juli 2026. Controleer officiële regels opnieuw vlak voor vertrek.</p>
             </aside>
           )}
         />
@@ -606,7 +606,7 @@ export default function FirstTimeThailandGuide() {
           description={`Deze gids is inhoudelijk gecontroleerd op ${UPDATED_AT.split('-').reverse().join('-')}. Inreisregels, gezondheidsadvies en regionale veiligheid kunnen veranderen. Daarom linken we rechtstreeks naar de verantwoordelijke instanties en vermijden we tijdloze claims over tijdelijke regels.`}
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

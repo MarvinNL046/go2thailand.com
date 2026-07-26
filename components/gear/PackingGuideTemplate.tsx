@@ -1,8 +1,6 @@
 import { useMemo, useState } from 'react';
 import Image from 'next/image';
-import Link from 'next/link';
 import {
-  ArrowRight,
   Backpack,
   BadgeCheck,
   BatteryCharging,
@@ -169,7 +167,7 @@ export default function PackingGuideTemplate({ data }: PackingGuideTemplateProps
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal print:bg-white">
+      <div className="bg-canvas text-charcoal print:bg-white">
         <div className="print:hidden">
           <EditorialHero
             image={data.heroImage}
@@ -291,7 +289,7 @@ export default function PackingGuideTemplate({ data }: PackingGuideTemplateProps
           <SourceMethodSection title="Waarop baseren we deze paklijst?" description="De checklist combineert Nederlandse zoekvragen met actuele informatie van immigratie, douane, luchthaven-, luchtvaart- en toerismeautoriteiten. Productvoorbeelden staan los van de redactionele basislijst." sources={data.sources} />
           <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
         </div>
-      </main>
+      </div>
     </>
   );
 }

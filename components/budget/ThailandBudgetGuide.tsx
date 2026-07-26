@@ -124,7 +124,7 @@ export default function ThailandBudgetGuide() {
   const klookHref = withPlacementSubId(KLOOK_GENERIC, subId, 'activities');
 
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Is Thailand duur? Budget en kosten per dag', description: 'Interactieve Thailand-budgetcalculator met planningsbanden per reisstijl, reisduur en regio.', url: 'https://go2-thailand.com/nl/thailand-index/budget/', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Is Thailand duur? Budget en kosten per dag', description: 'Interactieve Thailand-budgetcalculator met planningsbanden per reisstijl, reisduur en regio.', url: 'https://go2-thailand.com/nl/thailand-index/budget/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' }, { '@type': 'ListItem', position: 2, name: 'Thailand budget', item: 'https://go2-thailand.com/nl/thailand-index/budget/' }] };
 
   return (
@@ -135,7 +135,7 @@ export default function ThailandBudgetGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-budget-hero.webp"
           imageAlt="Thaise maaltijd, vervoer en reisnotitie aan de rivier als onderdelen van een reisbudget"
@@ -244,7 +244,7 @@ export default function ThailandBudgetGuide() {
           { title: 'Kosten van reizen in Thailand', creator: 'Reisjunk', url: 'https://www.reisjunk.nl/thailand/kosten/', note: 'Nederlandse concurrentiebenchmark voor categorieën en backpackercontext; niet als live prijslijst overgenomen.' },
           { title: 'Kosten Thailand en dagbudget', creator: 'Travelalut', url: 'https://www.travelalut.com/thailand/kosten-thailand-budget/', note: 'Nederlandse concurrentiebenchmark voor dagbudget, eten, vervoer, verblijf en excursies.' },
         ]} />
-      </main>
+      </div>
     </>
   );
 }
