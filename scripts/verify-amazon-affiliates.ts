@@ -34,6 +34,10 @@ for (const file of sourceFiles) {
   for (const match of content.matchAll(/amazonSlug:\s*['"]([a-z0-9-]+)['"]/g)) {
     usages.add(match[1]);
   }
+
+  for (const match of content.matchAll(/:\s*AmazonAffiliateSlug\s*=\s*['"]([a-z0-9-]+)['"]/g)) {
+    usages.add(match[1]);
+  }
 }
 
 for (const slug of usages) {

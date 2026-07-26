@@ -26,6 +26,7 @@ export const amazonAffiliateLinks = {
   'chatramue-original-thai-tea': 'https://www.amazon.com/dp/B00712N6II',
   'owala-freesip-24oz': 'https://www.amazon.com/dp/B0BZYCJK89',
   'kooky-freeze-dried-monthong-durian': 'https://www.amazon.com/dp/B0CYHBSNSV',
+  'aeropress-go-travel-coffee-maker': 'https://www.amazon.com/dp/B07YVL8SF3',
 } as const;
 
 export type AmazonAffiliateSlug = keyof typeof amazonAffiliateLinks;
