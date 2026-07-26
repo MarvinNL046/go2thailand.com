@@ -189,5 +189,5 @@ export const khaoSokHotelGuide: HotelGuideData = {
     { title: 'Panvaree The Greenery', creator: 'Officiële accommodatiesite', url: 'https://www.thegreenerypanvaree.com/?lang=en', note: 'Controle van floating rooms, kleinschaligheid, restaurant, activiteiten en pakketten.' },
     { title: '500 Rai Floating Resort', creator: 'Officiële accommodatiesite', url: 'https://www.500rai.com/destination', note: 'Controle van de bereikbaarheid via Rajjaprabha Pier, bootduur en afgelegen meerlocatie.' },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };

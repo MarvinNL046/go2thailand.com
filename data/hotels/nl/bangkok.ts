@@ -217,5 +217,5 @@ export const bangkokHotelGuide: HotelGuideData = {
     { title: 'Sindhorn Midtown Hotel Bangkok', creator: 'Officiële hotelsite', url: 'https://www.sindhornmidtown.com/', note: 'Controle van de ligging aan Langsuan Road en afstand tot BTS Chit Lom en Ratchadamri.' },
     { title: 'Public House Bangkok', creator: 'Officiële hotelsite', url: 'https://publichouse-hotels.com/', note: 'Controle van de locatie in Sukhumvit 31 en de wandeling naar Phrom Phong BTS.' },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };

@@ -190,5 +190,5 @@ export const kohSamuiHotelGuide: HotelGuideData = {
     { title: 'Santiburi Koh Samui', creator: 'Officiële hotelsite', url: 'https://santiburisamui.com/', note: 'Controle van de ligging aan Maenam Beach, suites, villa’s en familie- en sportfaciliteiten.' },
     { title: 'InterContinental Koh Samui Resort', creator: 'Officiële hotelsite', url: 'https://www.ihg.com/intercontinental/hotels/us/en/koh-samui/usmks/hoteldetail', note: 'Controle van de ligging bij Taling Ngam, westkustuitzicht en accommodatievormen.' },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };

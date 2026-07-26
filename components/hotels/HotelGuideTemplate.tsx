@@ -148,7 +148,7 @@ export default function HotelGuideTemplate({ data }: HotelGuideTemplateProps) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={data.heroImage}
           imageAlt={data.heroAlt}
@@ -269,7 +269,7 @@ export default function HotelGuideTemplate({ data }: HotelGuideTemplateProps) {
         />
 
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
-      </main>
+      </div>
     </>
   );
 }

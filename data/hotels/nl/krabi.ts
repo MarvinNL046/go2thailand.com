@@ -199,5 +199,5 @@ export const krabiHotelGuide: HotelGuideData = {
     { title: 'Banyan Tree Krabi', creator: 'Officiële hotelsite', url: 'https://www.banyantree.com/thailand/krabi', note: 'Controle van ligging en resortfaciliteiten bij Tubkaek.' },
     { title: 'Dusit Thani Krabi Beach Resort', creator: 'Officiële hotelsite', url: 'https://www.dusit.com/dusitthani-krabibeachresort/', note: 'Controle van ligging en resortfaciliteiten bij Klong Muang.' },
   ],
-  dateModified: '2026-07-23',
+  dateModified: '2026-07-26',
 };

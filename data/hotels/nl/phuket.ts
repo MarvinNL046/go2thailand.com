@@ -209,5 +209,5 @@ export const phuketHotelGuide: HotelGuideData = {
     { title: 'The Nai Harn Phuket', creator: 'Officiële hotelsite', url: 'https://www.thenaiharn.com/', note: 'Controle van de ligging boven Nai Harn Bay en accommodatievormen.' },
     { title: 'The Memory at On On Hotel', creator: 'Officiële hotelsite', url: 'https://www.thememoryhotel.com/', note: 'Controle van het adres en de ligging in Phuket Old Town.' },
   ],
-  dateModified: '2026-07-23',
+  dateModified: '2026-07-26',
 };

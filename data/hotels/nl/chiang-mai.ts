@@ -228,5 +228,5 @@ export const chiangMaiHotelGuide: HotelGuideData = {
     { title: 'InterContinental Chiang Mai The Mae Ping', creator: 'Officiële hotelsite', url: 'https://chiangmai.intercontinental.com/', note: 'Controle van adres, bereikbaarheid en hotelpositionering in Chang Khlan.' },
     { title: 'POR Santitham', creator: 'Officiële hotelsite', url: 'https://www.porhotel.com/', note: 'Controle van ligging en positionering in de wijk Santitham.' },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };

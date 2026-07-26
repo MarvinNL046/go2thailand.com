@@ -226,8 +226,9 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
-      // NL Krabi accommodation intent is consolidated into the researched
-      // area-first hotel guide. Keep EN untouched until its own DFS phase.
+      // The seven researched NL accommodation owners combine area choice and
+      // hotel selection. Consolidate old where-to-stay aliases while keeping
+      // all English routes untouched until their independent DFS phase.
       {
         source: '/nl/where-to-stay/krabi/',
         destination: '/nl/best-hotels/krabi/',
@@ -237,6 +238,36 @@ const nextConfig = {
       {
         source: '/nl/where-to-stay/phuket/',
         destination: '/nl/best-hotels/phuket/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/where-to-stay/bangkok/',
+        destination: '/nl/best-hotels/bangkok/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/where-to-stay/chiang-mai/',
+        destination: '/nl/best-hotels/chiang-mai/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/where-to-stay/koh-samui/',
+        destination: '/nl/best-hotels/koh-samui/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/where-to-stay/khao-sok/',
+        destination: '/nl/best-hotels/khao-sok/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/where-to-stay/koh-tao/',
+        destination: '/nl/best-hotels/koh-tao/',
         permanent: true,
         locale: false,
       },

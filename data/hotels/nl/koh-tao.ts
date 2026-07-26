@@ -74,8 +74,8 @@ export const kohTaoHotelGuide: HotelGuideData = {
       name: 'Zuidwestelijke baaien',
       shortLabel: 'Scenisch & afgezonderd',
       tone: 'scenic',
-      image: '/images/redesign/koh-tao-hotels-hero.webp',
-      imageAlt: 'Groen heuvelresort boven granietrotsen en zee op Koh Tao',
+      image: '/images/redesign/koh-tao-destination-hero.webp',
+      imageAlt: 'Groene zuidwestkust met baaien en granietrotsen op Koh Tao',
       bestFor: 'Stellen, langzaam reizen en een verblijf dat zelf een groot deel van de eilandervaring is',
       summary: 'Rond June Juea en de zuidwestkust liggen kleinschalige verblijven tussen hellingen, rotsen en rustigere strandjes. Het uitzicht kan sterk zijn, maar je bent minder spontaan mobiel.',
       advantage: 'Veel sfeer, zonsondergang en afstand van de drukste centra zonder het eiland te verlaten.',
@@ -178,7 +178,7 @@ export const kohTaoHotelGuide: HotelGuideData = {
   ],
   relatedGuides: [
     { title: 'Koh Tao reisgids', description: 'Plan duiken, stranden, vervoer en een realistische eilandroute.', href: '/islands/koh-tao/', image: '/images/redesign/koh-tao-destination-hero.webp' },
-    { title: 'Koh Tao of Koh Samui?', description: 'Vergelijk een compact duikeiland met een groter eiland vol verschillende badplaatsen.', href: '/islands/koh-samui/', image: '/images/redesign/koh-samui-destination-hero.webp' },
+    { title: 'Koh Tao of Koh Samui?', description: 'Vergelijk een compact duikeiland met een groter eiland vol verschillende badplaatsen.', href: '/city/koh-samui/', image: '/images/redesign/koh-samui-destination-hero.webp' },
     { title: 'Vervoer in Thailand', description: 'Koppel ferry en vervolgroute zonder een te krappe overstap.', href: '/transport/', image: '/images/redesign/koh-tao-sairee-sunset.webp' },
   ],
   sources: [
@@ -191,5 +191,5 @@ export const kohTaoHotelGuide: HotelGuideData = {
     { title: 'Pinnacle Koh Tao Resort', creator: 'Officiële accommodatiesite', url: 'https://kohtao.pinnaclehotels.com/', note: 'Controle van de ligging bij June Juea en de heuvel-/resortopzet.' },
     { title: 'Tanote Villa', creator: 'Officiële accommodatiesite', url: 'https://www.tanotevilla.com/', note: 'Controle van ligging boven Tanote Bay en het kamer- en villaprofiel.' },
   ],
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
 };
