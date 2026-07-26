@@ -50,6 +50,7 @@ import { JoddFairsRatchadaGuideEn } from '../../components/markets/JoddFairsRatc
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
 import { ChatuchakFoodGuideEn } from '../../components/markets/ChatuchakFoodGuideEn';
 import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
+import { ThaiMassageThailandGuideEn } from '../../components/wellness/ThaiMassageThailandGuideEn';
 import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
 import { HarborIslandBangkapiGuide } from '../../components/attractions/HarborIslandBangkapiGuide';
 
@@ -235,6 +236,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'thai-massage-guide-types-prices') {
     return <ThaiMassageThailandGuide />;
+  }
+
+  if (locale !== 'nl' && post.slug === 'thai-massage-guide-types-prices') {
+    return <ThaiMassageThailandGuideEn />;
   }
 
   if (locale === 'nl' && post.slug === 'muay-thai-training-camps-thailand-beginners-guide-2026') {
