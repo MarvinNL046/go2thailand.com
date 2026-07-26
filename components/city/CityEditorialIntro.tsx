@@ -20,6 +20,7 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
   const isKanchanaburi = citySlug === 'kanchanaburi' && !isNl;
   const isSukhothai = citySlug === 'sukhothai' && !isNl;
   const isPai = citySlug === 'pai' && !isNl;
+  const isHuaHin = citySlug === 'hua-hin' && !isNl;
   const title = isKrabi
     ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
     : isBangkok
@@ -40,6 +41,8 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
       ? 'Sukhothai at a glance'
     : isPai
       ? 'Pai at a glance'
+    : isHuaHin
+      ? 'Hua Hin at a glance'
       : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
   const paragraphs = isKrabi
     ? isNl
@@ -96,13 +99,18 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
           'Where is Pai in Thailand? Pai is a small town in Mae Hong Son province, set in a wider northern valley beyond a winding mountain journey from Chiang Mai. The centre around Walking Street is compact and easy to understand; Pai Canyon, hot springs, viewpoints and community stops sit in separate outer clusters.',
           'For a first visit, use the arrival day for the town, then give one full day to a coherent valley route. Two nights is workable, while three nights creates room for road recovery, changing weather and a no-scooter plan without turning every viewpoint into a timed transfer.',
         ]
+    : isHuaHin
+      ? [
+          'Hua Hin is a coastal city in Prachuap Khiri Khan province and one of Thailand’s long-established seaside escapes from Bangkok. The older centre combines railway-era heritage, Chat Chai Market, the main night market and a long urban beach; Nong Kae and Khao Takiab create a more resort-led south-coast stay.',
+          'For a first visit, use one morning for the centre and beach, one late day for Khao Takiab and the south-side markets, then decide whether a third day belongs to the resort or Khao Sam Roi Yot. Hua Hin works best when the city coast and outer nature routes remain separate chapters.',
+        ]
       : [editorial].filter(Boolean);
 
   return (
     <section id="over-bestemming" className="section-divider-bottom scroll-mt-24 bg-[#fcfaf6]">
       <div className="container-custom grid items-center gap-8 py-12 lg:grid-cols-[0.72fr_1.55fr] lg:gap-14 lg:py-16">
         <div className="relative self-stretch lg:flex lg:flex-col lg:justify-center">
-          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi ? 'Start with the city and province' : isSukhothai ? 'Start with the old-city structure' : isPai ? 'Start with the town and valley' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
+          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi ? 'Start with the city and province' : isSukhothai ? 'Start with the old-city structure' : isPai ? 'Start with the town and valley' : isHuaHin ? 'Start with the city and coast' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
           <h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.7rem]">{title}</h2>
           <div className="mt-6 max-w-[31rem] space-y-4 text-sm leading-7 text-charcoal/62">
             {paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}
