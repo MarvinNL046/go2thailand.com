@@ -34,6 +34,7 @@ import { CityFaqOverview } from '../../../components/city/CityFaqOverview';
 import { CityBookingPlanner } from '../../../components/city/CityBookingPlanner';
 import { CityCompleteGuide } from '../../../components/city/CityCompleteGuide';
 import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
+import { getEnDestinationGuide } from '../../../data/destinations/en';
 import { getNlDestinationGuide } from '../../../data/destinations/nl';
 import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 import { normalizeNlInternalHref } from '../../../lib/nl-route-owners';
@@ -263,11 +264,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const [showAllAttractions, setShowAllAttractions] = useState(false);
   const [showAllRestaurants, setShowAllRestaurants] = useState(false);
 
-  const nlDestinationGuide = locale === 'nl' && city ? getNlDestinationGuide(city.slug) : undefined;
+  const premiumDestinationGuide = city
+    ? locale === 'nl'
+      ? getNlDestinationGuide(city.slug)
+      : getEnDestinationGuide(city.slug)
+    : undefined;
 
   // Premium NL guides already contain their final locale copy. Skipping the
   // legacy client loader avoids a redundant dynamic import and its error path.
-  const { content: translatedContent, loading: translationLoading } = useTranslatedContent('city', nlDestinationGuide ? undefined : city?.slug);
+  const { content: translatedContent, loading: translationLoading } = useTranslatedContent('city', premiumDestinationGuide ? undefined : city?.slug);
 
   // Keep hooks unconditional; the loader can briefly render without city data.
   useEffect(() => {
@@ -293,8 +298,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
     return <div>{t("s001_city_not_found")}</div>;
   }
 
-  if (nlDestinationGuide) {
-    return <DestinationGuideTemplate data={nlDestinationGuide} />;
+  if (premiumDestinationGuide) {
+    return <DestinationGuideTemplate data={premiumDestinationGuide} />;
   }
 
   // Merge translated content with base city data

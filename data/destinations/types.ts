@@ -1,9 +1,19 @@
-export type DestinationIcon = 'calendar' | 'car' | 'compass' | 'food' | 'hotel' | 'map' | 'ship' | 'sparkles' | 'sun' | 'waves';
+export type DestinationIcon =
+  | "calendar"
+  | "car"
+  | "compass"
+  | "food"
+  | "hotel"
+  | "map"
+  | "ship"
+  | "sparkles"
+  | "sun"
+  | "waves";
 
 export interface DestinationGuideData {
   citySlug: string;
   cityName: string;
-  locale: 'nl';
+  locale: "nl" | "en";
   pageTitle: string;
   pageDescription: string;
   pageUrl: string;
@@ -28,7 +38,12 @@ export interface DestinationGuideData {
     eyebrow: string;
     title: string;
     paragraphs: string[];
-    verdicts: Array<{ label: string; value: string; description: string; icon: DestinationIcon }>;
+    verdicts: Array<{
+      label: string;
+      value: string;
+      description: string;
+      icon: DestinationIcon;
+    }>;
   };
   zones: Array<{
     slug: string;
@@ -68,14 +83,43 @@ export interface DestinationGuideData {
     eyebrow: string;
     title: string;
     description: string;
-    days: Array<{ day: string; title: string; description: string; href: string }>;
+    days: Array<{
+      day: string;
+      title: string;
+      description: string;
+      href: string;
+    }>;
   };
   planning: {
-    weather: { title: string; summary: string; best: string; tradeoff: string; href: string; image: string; imageAlt: string };
-    transport: { title: string; summary: string; facts: string[]; image: string; imageAlt: string };
+    weather: {
+      title: string;
+      summary: string;
+      best: string;
+      tradeoff: string;
+      href: string;
+      image: string;
+      imageAlt: string;
+    };
+    transport: {
+      title: string;
+      summary: string;
+      facts: string[];
+      image: string;
+      imageAlt: string;
+    };
   };
-  practicalTips: Array<{ icon: DestinationIcon; title: string; description: string }>;
+  practicalTips: Array<{
+    icon: DestinationIcon;
+    title: string;
+    description: string;
+  }>;
   faqs: Array<{ question: string; answer: string }>;
-  relatedGuides: Array<{ title: string; description: string; href: string; image: string; imageAlt?: string }>;
+  relatedGuides: Array<{
+    title: string;
+    description: string;
+    href: string;
+    image: string;
+    imageAlt?: string;
+  }>;
   sources: Array<{ title: string; creator: string; url: string; note: string }>;
 }

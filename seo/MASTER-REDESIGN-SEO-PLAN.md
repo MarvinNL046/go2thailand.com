@@ -166,6 +166,10 @@ en sitemap, canonical, hreflang, schema en interne links samen kloppen.
 - Disclosure staat vóór of direct bij de eerste affiliate-CTA.
 - Externe commerciële links gebruiken `sponsored nofollow noopener`.
 - Amazon-links lopen via de centrale `/go/`-registry en zijn OneLink-compatible.
+- Foodowners mogen één compact Amazon-cross-sellblok tonen wanneer kookgerei,
+  een kookboek of ingrediënt de zichtbare kooktaak aantoonbaar ondersteunt.
+  Productkeuze volgt het gerecht; generieke carrousels en irrelevante reisgear
+  horen niet op foodpagina's. De CTA verwijst altijd naar het actuele aanbod.
 - Geen verzonnen ervaring, tests, prijzen, ratings of urgentie.
 
 ### Verificatie
