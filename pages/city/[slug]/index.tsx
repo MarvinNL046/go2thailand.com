@@ -37,6 +37,7 @@ import { BangkokDestinationOverview } from '../../../components/city/BangkokDest
 import { ChiangMaiDestinationOverview } from '../../../components/city/ChiangMaiDestinationOverview';
 import { PhuketDestinationOverview } from '../../../components/city/PhuketDestinationOverview';
 import { AyutthayaDestinationOverview } from '../../../components/city/AyutthayaDestinationOverview';
+import { KohSamuiDestinationOverview } from '../../../components/city/KohSamuiDestinationOverview';
 import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
 import { getEnDestinationGuide } from '../../../data/destinations/en';
 import { getNlDestinationGuide } from '../../../data/destinations/nl';
@@ -357,7 +358,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const isChiangMaiEn = city.slug === 'chiang-mai' && locale !== 'nl';
   const isPhuketEn = city.slug === 'phuket' && locale !== 'nl';
   const isAyutthayaEn = city.slug === 'ayutthaya' && locale !== 'nl';
-  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn;
+  const isKohSamuiEn = city.slug === 'koh-samui' && locale !== 'nl';
+  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn;
   const localizedCityName = locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en;
   const pageUrl = `https://go2-thailand.com${locale === 'nl' ? '/nl' : ''}/city/${city.slug}/`;
   const destinationDescription = city.slug === 'krabi' && locale === 'nl'
@@ -370,6 +372,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       ? 'Phuket is Thailand’s largest island and a province; Phuket Town is its urban centre. Choose one coast base, give Old Town its own block and plan one boat day.'
     : isAyutthayaEn
       ? 'Ayutthaya was a major Siamese capital. A focused day covers one central ruin cluster and one outer temple; an overnight adds context and a slower river evening.'
+    : isKohSamuiEn
+      ? 'Koh Samui is a Gulf island with distinct beach zones. Choose the coast first, plan one island loop and one sea day, then leave room for the beach and weather.'
     : locale === 'nl'
       ? (city.description.nl || city.overview || city.description.en)
       : (city.overview || city.description.en);
@@ -384,9 +388,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
         ? '/images/redesign/phuket-destination-hero-v2.webp'
       : isAyutthayaEn
         ? '/images/redesign/ayutthaya-destination-hero.webp'
+      : isKohSamuiEn
+        ? '/images/redesign/koh-samui-destination-hero.webp'
         : city.image,
   );
-  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn ? 10 : 6);
+  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn ? 10 : 6);
 
   const metadata = {
     ...baseMetadata,
@@ -533,15 +539,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       <div className="bg-surface-cream min-h-screen">
         <CityDestinationHero
           activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-hero-activities')}
-          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn || isAyutthayaEn ? 'Nov – Feb' : isPhuketEn ? 'Nov – Mar' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
+          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn || isAyutthayaEn ? 'Nov – Feb' : isPhuketEn ? 'Nov – Mar' : isKohSamuiEn ? 'Jan – Aug' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           description={introSnippet}
-          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : isPhuketEn ? '/images/redesign/phuket-destination-hero-v2.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-destination-hero.webp' : getCityImageForSection(city, 'hero')}
+          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : isPhuketEn ? '/images/redesign/phuket-destination-hero-v2.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-destination-hero.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-destination-hero.webp' : getCityImageForSection(city, 'hero')}
           hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-hero-hotels')}
-          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : isPhuketEn ? 'Kata / Karon' : isAyutthayaEn ? 'Historical island' : (city.tags || []).slice(0, 2).join(' & ')}
+          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : isPhuketEn ? 'Kata / Karon' : isAyutthayaEn ? 'Historical island' : isKohSamuiEn ? 'Chaweng / Lamai / Bophut' : (city.tags || []).slice(0, 2).join(' & ')}
           isNl={locale === 'nl'}
-          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : isPhuketEn ? '4 – 5 days' : isAyutthayaEn ? '1 – 2 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
+          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : isPhuketEn || isKohSamuiEn ? '4 – 5 days' : isAyutthayaEn ? '1 – 2 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
         />
 
 
@@ -549,7 +555,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           editorial={editorial || cityDescription}
-          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : isPhuketEn ? '/images/redesign/phuket-zones-banner.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-river-heritage.webp' : getCityImageForSection(city, 'attractions')}
+          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : isPhuketEn ? '/images/redesign/phuket-zones-banner.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-river-heritage.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-zones-banner.webp' : getCityImageForSection(city, 'attractions')}
           isNl={locale === 'nl'}
         />
 
@@ -667,6 +673,25 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-ayutthaya-planner-activities')}
               transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-ayutthaya-planner-transport')}
               esimHref={trackAffiliate(SAILY_GENERIC, 'city-ayutthaya-planner-esim')}
+              isNl={false}
+            />
+          </>
+        )}
+
+        {isKohSamuiEn && (
+          <>
+            <KohSamuiDestinationOverview
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-koh-samui-experiences')}
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-koh-samui-hotels')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-koh-samui-transport')}
+            />
+            <CityFaqOverview faq={city.faq || []} isNl={false} limit={10} />
+            <CityBookingPlanner
+              cityName="Koh Samui"
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-koh-samui-planner-hotels')}
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-koh-samui-planner-activities')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-koh-samui-planner-transport')}
+              esimHref={trackAffiliate(SAILY_GENERIC, 'city-koh-samui-planner-esim')}
               isNl={false}
             />
           </>
