@@ -17,6 +17,7 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
   const isAyutthaya = citySlug === 'ayutthaya' && !isNl;
   const isKohSamui = citySlug === 'koh-samui' && !isNl;
   const isChiangRai = citySlug === 'chiang-rai' && !isNl;
+  const isKanchanaburi = citySlug === 'kanchanaburi' && !isNl;
   const title = isKrabi
     ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
     : isBangkok
@@ -31,6 +32,8 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
       ? 'Koh Samui at a glance'
     : isChiangRai
       ? 'Chiang Rai at a glance'
+    : isKanchanaburi
+      ? 'Kanchanaburi at a glance'
       : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
   const paragraphs = isKrabi
     ? isNl
@@ -72,13 +75,18 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
           'Chiang Rai is both a compact Northern Thai city and the gateway to a much larger province. The centre gives you an easy evening around the clock tower and market area, while Wat Rong Khun, Wat Rong Suea Ten, Baan Dam and the mountain routes sit in different road clusters.',
           'For a first visit, two nights can combine the city, contemporary art-temple circuit and one unhurried evening. Add a third full day for Doi Tung, Mae Salong or Golden Triangle history, and treat live air quality as a real planning input during northern haze periods.',
         ]
+    : isKanchanaburi
+      ? [
+          'Kanchanaburi is both a city and a large western Thai province. The city holds the bridge, cemetery and important interpretation sites, while Erawan, Sai Yok, Hellfire Pass and far-west river stays extend along a much larger road and railway corridor.',
+          'A focused day trip can introduce the town’s remembrance layer, but two or three days creates a more responsible balance: history with context, one separate nature or railway day, and—if it matters to you—a slower upriver night. Treat current park and transport conditions as live inputs.',
+        ]
       : [editorial].filter(Boolean);
 
   return (
     <section id="over-bestemming" className="section-divider-bottom scroll-mt-24 bg-[#fcfaf6]">
       <div className="container-custom grid items-center gap-8 py-12 lg:grid-cols-[0.72fr_1.55fr] lg:gap-14 lg:py-16">
         <div className="relative self-stretch lg:flex lg:flex-col lg:justify-center">
-          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai ? 'Start with the city and province' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
+          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi ? 'Start with the city and province' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
           <h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.7rem]">{title}</h2>
           <div className="mt-6 max-w-[31rem] space-y-4 text-sm leading-7 text-charcoal/62">
             {paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}
