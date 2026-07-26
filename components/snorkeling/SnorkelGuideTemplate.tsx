@@ -114,7 +114,7 @@ export function SnorkelGuideTemplate({ data }: SnorkelGuideTemplateProps) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -228,7 +228,7 @@ export function SnorkelGuideTemplate({ data }: SnorkelGuideTemplateProps) {
         <SourceMethodSection title="Hoe is deze snorkelgids samengesteld?" description="We combineren Nederlandse DFS-zoekdata met lokale toerisme-informatie, officiële bestemmingscontext en rifmonitoring. De pagina rangschikt geen baai op betaalde plaatsing en behandelt wildlife nooit als garantie." sources={data.sources} />
 
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
-      </main>
+      </div>
     </>
   );
 }

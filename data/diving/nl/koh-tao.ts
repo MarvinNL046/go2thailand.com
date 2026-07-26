@@ -9,7 +9,7 @@ export const kohTaoDiveGuide: DiveGuideData = {
   pageTitle: 'Duiken op Koh Tao: cursus, school & veiligheid',
   pageDescription: 'Kies een duikcursus of duikschool op Koh Tao met een eerlijke scorecard. Vergelijk PADI, SSI, cursusverloop, duikspots en vlieg-na-duikbuffer.',
   pageUrl: 'https://go2-thailand.com/nl/islands/koh-tao/diving/',
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
   hero: {
     image: '/images/redesign/koh-tao-diving-hero.webp',
     imageAlt: 'Instructeur helpt drie beginnende duikers met hun materiaal op een kleine duikboot bij Koh Tao',
@@ -191,6 +191,7 @@ export const kohTaoDiveGuide: DiveGuideData = {
   ],
   relatedGuides: [
     { title: 'Wat te doen op Koh Tao?', description: 'Combineer duiken met boot, viewpoint, baai en een flexibele driedaagse route.', href: '/islands/koh-tao/attractions/', image: '/images/redesign/koh-tao-attractions-hero.webp', imageAlt: 'Kleinschalige boot langs de granietkust van Koh Tao' },
+    { title: 'Snorkelen op Koh Tao', description: 'Vergelijk beschutte baaien, kusttoegang, bootroutes en verantwoordelijk wildlife kijken.', href: '/islands/koh-tao/snorkeling/', image: '/images/redesign/koh-tao-snorkeling-hero.webp', imageAlt: 'Snorkelaar boven helder water aan Koh Tao' },
     { title: 'Complete Koh Tao-reisgids', description: 'Kies verblijfzone, ferryroute, reisduur en het juiste eilandritme.', href: '/islands/koh-tao/', image: '/images/redesign/koh-tao-destination-hero.webp', imageAlt: 'Rustige granietbaai op Koh Tao' },
     { title: 'Waar verblijven op Koh Tao?', description: 'Vergelijk Sairee, Mae Haad, Chalok en de rustige baaien rond je duikplan.', href: '/best-hotels/koh-tao/', image: '/images/redesign/koh-tao-hotels-hero.webp', imageAlt: 'Kleinschalig resort boven een baai op Koh Tao' },
   ],

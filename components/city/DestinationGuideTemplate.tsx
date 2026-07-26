@@ -83,6 +83,8 @@ function ZoneCard({ citySlug, stayGuideHref, zone, index, zoneCount }: { citySlu
 
 export function DestinationGuideTemplate({ data }: DestinationGuideTemplateProps) {
   const cityAffiliate = cityAffiliates[data.citySlug] || getIslandAffiliates(data.citySlug);
+  const rootBreadcrumb = data.breadcrumbsRoot || { label: 'Bestemmingen', href: '/city/' };
+  const foodGuideHref = data.foodGuideHref === null ? null : (data.foodGuideHref || `/city/${data.citySlug}/food/`);
   const klookHref = withPlacementSubId(cityAffiliate?.klook || KLOOK_GENERIC, `${data.citySlug}-destination`, 'experiences');
   const tripHref = withPlacementSubId(cityAffiliate?.trip || TRIP_GENERIC, `${data.citySlug}-destination`, 'hotels');
   const transportHref = withPlacementSubId(cityAffiliate?.twelveGo || TWELVEGO_GENERIC, `${data.citySlug}-destination`, 'transport');
@@ -92,7 +94,7 @@ export function DestinationGuideTemplate({ data }: DestinationGuideTemplateProps
   ];
   const breadcrumbs = [
     { label: 'Thailand', href: '/' },
-    data.breadcrumbsRoot || { label: 'Bestemmingen', href: '/city/' },
+    rootBreadcrumb,
     { label: data.cityName },
   ];
   const faqSchema = {
@@ -124,7 +126,7 @@ export function DestinationGuideTemplate({ data }: DestinationGuideTemplateProps
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Thailand', item: 'https://go2-thailand.com/nl/' },
-      { '@type': 'ListItem', position: 2, name: 'Bestemmingen', item: 'https://go2-thailand.com/nl/city/' },
+      { '@type': 'ListItem', position: 2, name: rootBreadcrumb.label, item: `https://go2-thailand.com/nl${rootBreadcrumb.href}` },
       { '@type': 'ListItem', position: 3, name: data.cityName, item: data.pageUrl },
     ],
   };
@@ -229,7 +231,7 @@ export function DestinationGuideTemplate({ data }: DestinationGuideTemplateProps
         <section className="section-divider-bottom overflow-hidden bg-jade-dark py-14 text-white lg:py-20">
           <div className="container-custom grid items-stretch gap-9 lg:grid-cols-[0.92fr_1.08fr]">
             <div className="relative min-h-[430px] overflow-hidden rounded-2xl border border-white/10"><Image src={data.food.image} alt={data.food.imageAlt} fill sizes="(max-width: 1024px) 100vw, 46vw" className="object-cover" /><div className="absolute inset-0 bg-gradient-to-t from-jade-dark/55 via-transparent to-transparent" /></div>
-            <div className="flex flex-col justify-center"><p className="text-[10px] font-extrabold uppercase tracking-[0.2em] text-saffron-light">{data.food.eyebrow}</p><h2 className="mt-3 font-display text-[3.2rem] font-semibold leading-[0.9] tracking-[-0.035em] sm:text-[4rem]">{data.food.title}</h2><p className="mt-5 max-w-xl text-sm font-medium leading-7 text-white/72">{data.food.description}</p><div className="mt-7 divide-y divide-white/12 border-y border-white/12">{data.food.dishes.map((dish) => <div key={dish.name} className="grid gap-2 py-4 sm:grid-cols-[8rem_1fr]"><h3 className="font-display text-xl font-semibold text-saffron-light">{dish.name}</h3><p className="text-xs leading-5 text-white/66">{dish.description}</p></div>)}</div><Link href={`/city/${data.citySlug}/food/`} className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-white transition hover:text-saffron-light">Bekijk de eetgids <ArrowRight size={14} /></Link></div>
+            <div className="flex flex-col justify-center"><p className="text-[10px] font-extrabold uppercase tracking-[0.2em] text-saffron-light">{data.food.eyebrow}</p><h2 className="mt-3 font-display text-[3.2rem] font-semibold leading-[0.9] tracking-[-0.035em] sm:text-[4rem]">{data.food.title}</h2><p className="mt-5 max-w-xl text-sm font-medium leading-7 text-white/72">{data.food.description}</p><div className="mt-7 divide-y divide-white/12 border-y border-white/12">{data.food.dishes.map((dish) => <div key={dish.name} className="grid gap-2 py-4 sm:grid-cols-[8rem_1fr]"><h3 className="font-display text-xl font-semibold text-saffron-light">{dish.name}</h3><p className="text-xs leading-5 text-white/66">{dish.description}</p></div>)}</div>{foodGuideHref ? <Link href={foodGuideHref} className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-white transition hover:text-saffron-light">Bekijk de eetgids <ArrowRight size={14} /></Link> : null}</div>
           </div>
         </section>
 

@@ -10,7 +10,7 @@ export const kohTaoSnorkelGuide: SnorkelGuideData = {
   pageTitle: 'Snorkelen op Koh Tao: baaien, boot & beste moment',
   pageDescription: 'Kies waar je gaat snorkelen op Koh Tao op basis van wind, golven, toegang en niveau. Vergelijk baaien, boottour, wildlife en veilig rifgedrag.',
   pageUrl: 'https://go2-thailand.com/nl/islands/koh-tao/snorkeling/',
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
   hero: {
     image: '/images/redesign/koh-tao-snorkeling-hero.webp',
     imageAlt: 'Twee reizigers snorkelen in een rustige granietbaai met een kleine Thaise boot op Koh Tao',

@@ -113,7 +113,7 @@ export function DiveGuideTemplate({ data }: DiveGuideTemplateProps) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -212,7 +212,7 @@ export function DiveGuideTemplate({ data }: DiveGuideTemplateProps) {
         <SourceMethodSection title="Hoe is deze duikgids samengesteld?" description="We combineren Nederlandse DFS-zoekdata met officiële opleidings-, medische, lokale bestemmings- en duikveiligheidsbronnen. De pagina rangschikt geen school op betaalde plaatsing en publiceert geen vaste cursusprijs die morgen verouderd kan zijn." sources={data.sources} />
 
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
-      </main>
+      </div>
     </>
   );
 }

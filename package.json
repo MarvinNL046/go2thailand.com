@@ -44,6 +44,7 @@
     "seo:verify:nl-attraction-overviews": "tsx scripts/verify-nl-attraction-overviews.ts",
     "seo:verify:nl-weather": "tsx scripts/verify-nl-weather-family.ts",
     "seo:verify:nl-hotel-overviews": "tsx scripts/verify-nl-hotel-overviews.ts",
+    "seo:verify:nl-koh-tao": "tsx scripts/verify-nl-koh-tao-family.ts",
     "seo:audit:nl-hotels": "tsx scripts/audit-nl-hotel-family.ts",
     "seo:audit:nl-attractions": "tsx scripts/audit-nl-attraction-family.ts",
     "affiliate:verify": "tsx scripts/verify-amazon-affiliates.ts",

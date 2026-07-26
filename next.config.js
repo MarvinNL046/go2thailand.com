@@ -271,6 +271,45 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // Koh Tao is an island owner, not a city owner. DFS found no ranking or
+      // backlink signal on the old city URL. Consolidate the former route
+      // family into the researched NL island cluster; keep EN untouched.
+      {
+        source: '/nl/city/koh-tao/',
+        destination: '/nl/islands/koh-tao/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/koh-tao/attractions/',
+        destination: '/nl/islands/koh-tao/attractions/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/koh-tao/top-10-attractions/',
+        destination: '/nl/islands/koh-tao/attractions/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/koh-tao/diving/',
+        destination: '/nl/islands/koh-tao/diving/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/city/koh-tao/snorkeling/',
+        destination: '/nl/islands/koh-tao/snorkeling/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/travel-guides/koh-tao/',
+        destination: '/nl/islands/koh-tao/',
+        permanent: true,
+        locale: false,
+      },
       // The researched NL Phuket owner is the richer attractions guide.
       // Keep the English ranking route untouched until the English DFS phase.
       {

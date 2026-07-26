@@ -12,6 +12,7 @@ export interface DestinationGuideData {
   touristType?: string[];
   breadcrumbsRoot?: { label: string; href: string };
   stayGuideHref?: string | null;
+  foodGuideHref?: string | null;
   hero: {
     image: string;
     imageAlt: string;
