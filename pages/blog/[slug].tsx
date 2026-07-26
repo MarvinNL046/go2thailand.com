@@ -43,6 +43,7 @@ import { ThaiCurryGuideEn } from '../../components/food/ThaiCurryGuideEn';
 import { DurianThailandGuide } from '../../components/food/DurianThailandGuide';
 import { DurianThailandGuideEn } from '../../components/food/DurianThailandGuideEn';
 import { LumpiniHawkerCentreGuide } from '../../components/food/LumpiniHawkerCentreGuide';
+import { LumpiniHawkerCentreGuideEn } from '../../components/food/LumpiniHawkerCentreGuideEn';
 import { BangkokSpecialtyCoffeeGuide } from '../../components/food/BangkokSpecialtyCoffeeGuide';
 import { CaveFantasyBangkokGuide } from '../../components/attractions/CaveFantasyBangkokGuide';
 import { NewLuxuryResortsThailandGuide } from '../../components/hotels/NewLuxuryResortsThailandGuide';
@@ -209,6 +210,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'bangkok-lumpini-hawker-centre-street-food-2026') {
     return <LumpiniHawkerCentreGuide />;
+  }
+
+  if (locale !== 'nl' && post.slug === 'bangkok-lumpini-hawker-centre-street-food-2026') {
+    return <LumpiniHawkerCentreGuideEn />;
   }
 
   if (locale === 'nl' && post.slug === 'bangkok-specialty-coffee-cafe-guide-2026') {
