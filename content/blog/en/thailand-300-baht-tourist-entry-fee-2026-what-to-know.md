@@ -38,7 +38,7 @@ The fee is not just a cash grab. The Thai government has earmarked the revenue f
 
 ## How Will It Be Collected?
 
-Details on the exact collection method are still being finalized. Earlier proposals suggested integrating the fee into airline ticket purchases or collecting it at immigration checkpoints. The government has hinted at a digital payment system to keep queues moving smoothly at airports like Suvarnabhumi and Don Mueang. You will likely need to complete the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) as part of the same entry process.
+Details on the exact collection method are still being finalized. Earlier proposals suggested integrating the fee into airline ticket purchases or collecting it at immigration checkpoints. The government has hinted at a digital payment system to keep queues moving smoothly at airports like Suvarnabhumi and Don Mueang. You will likely need to complete the [Thailand Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) as part of the same entry process.
 
 ## Should You Be Worried?
 

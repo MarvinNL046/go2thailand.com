@@ -38,7 +38,7 @@ All visa data is now stored in the Immigration Bureau's electronic database. For
 
 ## The TDAC Replaces Paper Arrival Cards
 
-Alongside the e-visa rollout, Thailand introduced the **Thailand Digital Arrival Card (TDAC)** on May 1, 2025. This replaces both the old paper TM.6 arrival card and the earlier-proposed Electronic Travel Authorization (ETA) system. For a step-by-step walkthrough, see our [Thailand TDAC guide](/blog/thailand-digital-arrival-card-tdac-guide/).
+Alongside the e-visa rollout, Thailand introduced the **Thailand Digital Arrival Card (TDAC)** on May 1, 2025. This replaces both the old paper TM.6 arrival card and the earlier-proposed Electronic Travel Authorization (ETA) system. For a step-by-step walkthrough, see our [Thailand TDAC guide](/visa/digital-arrival-card/).
 
 Travelers can submit their arrival details online up to **72 hours before entering Thailand**. At the airport, immigration officers simply scan your passport — your TDAC data is already linked in the system.
 

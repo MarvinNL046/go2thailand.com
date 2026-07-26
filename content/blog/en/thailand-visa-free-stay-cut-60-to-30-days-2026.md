@@ -54,7 +54,7 @@ If you are planning a trip to Thailand longer than 30 days and relying on visa-f
 
 For digital nomads and long-stay visitors who have been relying on visa-exempt entries, the [era of visa runs is also coming to an end in 2026](/blog/thailand-visa-run-era-ending-2026-expat-guide/) — making it even more important to secure the right long-term visa from the start.
 
-When you arrive, you will also need to complete the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) online before boarding your flight. It is a quick process, but skipping it can cause delays at immigration.
+When you arrive, you will also need to complete the [Thailand Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) online before boarding your flight. It is a quick process, but skipping it can cause delays at immigration.
 
 For trips of 30 days or less, nothing changes. Thailand remains one of the easiest countries in Southeast Asia to visit, and the entry process at airports like Suvarnabhumi and Phuket stays the same. Before you travel, make sure you have sorted your [SIM card or eSIM for Thailand](/travel-guides/sim-card-thailand/) so you have connectivity from the moment you land. It is also worth reviewing [Thailand's most common travel scams](/blog/thailand-travel-scams-2026/) and making sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) in place — both become more important when plans change due to visa issues.
 

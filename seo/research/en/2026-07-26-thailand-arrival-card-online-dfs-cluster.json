@@ -1,0 +1,904 @@
+{
+  "captured_at": "2026-07-26T16:58:52.863Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand arrival card online",
+  "costs": {
+    "suggestions": 0.01332,
+    "related": 0.01812,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand arrival card online",
+    "thailand digital arrival card online",
+    "thailand online arrival card",
+    "tdac thailand arrival card online",
+    "arrival card thailand online",
+    "online arrival card thailand",
+    "thailand arrival card online 2022",
+    "thailand arrival card online 2024"
+  ],
+  "keywords": [
+    {
+      "keyword": "thailand digital arrival card",
+      "volume": 14800,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand",
+      "volume": 6600,
+      "kd": 37,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card",
+      "volume": 6600,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac immigration",
+      "volume": 720,
+      "kd": 24,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tdac",
+      "volume": 720,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac form",
+      "volume": 590,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac form thailand",
+      "volume": 590,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand form",
+      "volume": 590,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card free",
+      "volume": 590,
+      "kd": 32,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card official website",
+      "volume": 480,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival form",
+      "volume": 390,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card online",
+      "volume": 210,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card online",
+      "volume": 210,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac immigration thailand",
+      "volume": 170,
+      "kd": 22,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand official site",
+      "volume": 170,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "https tdac immigration go th arrival card/#/home",
+      "volume": 140,
+      "kd": 22,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand digital arrival card",
+      "volume": 140,
+      "kd": 12,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card cost",
+      "volume": 140,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai immigration website",
+      "volume": 110,
+      "kd": 46,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card 2025",
+      "volume": 110,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card app",
+      "volume": 110,
+      "kd": 30,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card when to apply",
+      "volume": 110,
+      "kd": 13,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand online arrival card",
+      "volume": 110,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card official website",
+      "volume": 90,
+      "kd": 31,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card uk",
+      "volume": 90,
+      "kd": 17,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card website",
+      "volume": 90,
+      "kd": 29,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "free tdac thailand",
+      "volume": 70,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac online",
+      "volume": 70,
+      "kd": 31,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai immigration bureau",
+      "volume": 70,
+      "kd": 34,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card form",
+      "volume": 70,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card online free",
+      "volume": 70,
+      "kd": 37,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is tdac free",
+      "volume": 50,
+      "kd": 25,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "official thailand arrival card",
+      "volume": 50,
+      "kd": 32,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card 2025",
+      "volume": 50,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card cost",
+      "volume": 50,
+      "kd": 37,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "official tdac thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac immigration arrival card",
+      "volume": 40,
+      "kd": 31,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand online",
+      "volume": 30,
+      "kd": 20,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand when to apply",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card when to apply",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand arrival card online",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card country where you boarded",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "arrival card thailand online",
+      "volume": 10,
+      "kd": 32,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "family name in thailand arrival card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to fill tdac",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "occupation thailand arrival card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "online arrival card thailand",
+      "volume": 10,
+      "kd": 32,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tdac immigration official website",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand country where you boarded",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card for indians",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card online 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card online 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card online 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card tm6 online",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand arrival card website not working",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card official website reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card sample pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.gov.uk",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 84.68
+    },
+    {
+      "domain": "tdac.immigration.go.th",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 101.72
+    },
+    {
+      "domain": "tdac.in.th",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 21.866
+    },
+    {
+      "domain": "th.usembassy.gov",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 8.706
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 10.887999999999998
+    },
+    {
+      "domain": "www.siam-legal.com",
+      "avgPosition": 9,
+      "keywordCount": 2,
+      "visibility": 0.65,
+      "estimatedTraffic": 13.02
+    },
+    {
+      "domain": "www.thaiairways.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.45,
+      "estimatedTraffic": 7.706
+    },
+    {
+      "domain": "www.elal.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 4.084
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 4.614
+    },
+    {
+      "domain": "travelweekly.co.uk",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.496
+    },
+    {
+      "domain": "www.travelcenter.uk",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.828
+    },
+    {
+      "domain": "www.thaiembassy.ch",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.66
+    },
+    {
+      "domain": "blog.wego.com",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8919999999999999
+    },
+    {
+      "domain": "any-visa.com",
+      "avgPosition": 29.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "www.thethaipass.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "eta.in.th",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "thailandtouristarrivalcard.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "thailand.digital-arrival-card.com",
+      "avgPosition": 43,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "e-visa-express.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "visitthailandonline.com",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "thailanddigitalarrivalapp.com",
+      "avgPosition": 47,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "thailanddigitalarrivalcard.com",
+      "avgPosition": 47.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "thaiest.com",
+      "avgPosition": 48.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "buenos-aires.thaiembassy.org",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 13.622
+    },
+    {
+      "domain": "london.thaiembassy.org",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 25.298
+    },
+    {
+      "domain": "www.thaiembassy.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 9.226
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 6.566
+    },
+    {
+      "domain": "www.thaiembassy.fr",
+      "avgPosition": 52.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "tdac.info",
+      "avgPosition": 53,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "www.thaievisa.go.th",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.274
+    },
+    {
+      "domain": "my.trip.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.95
+    },
+    {
+      "domain": "embassyofindiabangkok.gov.in",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.784
+    },
+    {
+      "domain": "thailand-elite.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.602
+    },
+    {
+      "domain": "thailand-card-tdac.org",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.7020000000000001
+    },
+    {
+      "domain": "unitednations.sharepoint.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.308
+    },
+    {
+      "domain": "thailandonarrivalcard.com",
+      "avgPosition": 62,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "www.thethailandlife.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "pinweima.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.atlys.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "tdacthailand.net",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "tdac.travelimmigration.com",
+      "avgPosition": 64.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "www.universalweather.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.tdacthailand.org",
+      "avgPosition": 65.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "www.outboundvisa.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "visament.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "thailandarrivalcards.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "m.economictimes.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "digitalarrivalcardthailand.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.bangkokpost.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "thailandtravelhelp.co.uk",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    }
+  ]
+}

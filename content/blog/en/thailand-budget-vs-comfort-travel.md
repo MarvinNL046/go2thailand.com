@@ -369,7 +369,7 @@ After years in Thailand, we've identified the sneaky expenses that derail budget
 
 ### Visa & Entry Costs
 
-If you're staying longer than 30 days, you'll need a [Thailand visa](https://go2-thailand.com/blog/thailand-visa-guide-2026/). Tourist visas cost ฿2,000–3,000 ($57–86 USD) depending on your nationality. Budget this in advance—it's not optional. Also check the [Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/) requirements before you fly.
+If you're staying longer than 30 days, you'll need a [Thailand visa](https://go2-thailand.com/blog/thailand-visa-guide-2026/). Tourist visas cost ฿2,000–3,000 ($57–86 USD) depending on your nationality. Budget this in advance—it's not optional. Also check the [Thailand Digital Arrival Card](https://go2-thailand.com/visa/digital-arrival-card/) requirements before you fly.
 
 ### Unexpected Fees
 

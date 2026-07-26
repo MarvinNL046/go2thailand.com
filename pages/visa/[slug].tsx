@@ -22,6 +22,7 @@ import ContentBridge from '../../components/ContentBridge';
 import InsuranceCTA from '../../components/InsuranceCTA';
 import { useSubId } from '../../lib/useSubId';
 import ThailandTdacGuide from '../../components/visa/ThailandTdacGuide';
+import ThailandTdacGuideEn from '../../components/visa/ThailandTdacGuideEn';
 import ThailandDtvGuide from '../../components/visa/ThailandDtvGuide';
 import ThailandRetirementVisaGuide from '../../components/visa/ThailandRetirementVisaGuide';
 import ThailandRetirementVisaGuideEn from '../../components/visa/ThailandRetirementVisaGuideEn';
@@ -84,6 +85,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
   const subId = useSubId();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   if (locale === 'nl' && visa.slug === 'digital-arrival-card') return <ThailandTdacGuide />;
+  if (locale !== 'nl' && visa.slug === 'digital-arrival-card') return <ThailandTdacGuideEn />;
   if (locale === 'nl' && visa.slug === 'digital-nomad-visa') return <ThailandDtvGuide />;
   if (locale === 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuide />;
   if (locale !== 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuideEn />;

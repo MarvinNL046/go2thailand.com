@@ -52,4 +52,4 @@ If you are planning a Pattaya, Rayong, or [Koh Samet](https://go2-thailand.com/i
 
 For more on what to do once you arrive, read our guides on [Pattaya's reinvention in 2026](/blog/pattaya-tourism-paradox-quality-over-quantity-2026/) and the [Koh Larn island day trip from Pattaya](/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/). If you are flying in from a new AirAsia route, our [new airline routes to Thailand in 2026](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/) has the latest additions across the country.
 
-Before you travel, make sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) and check the [Thailand Digital Arrival Card](/blog/thailand-digital-arrival-card-tdac-guide/) requirements.
+Before you travel, make sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) and check the [Thailand Digital Arrival Card](/visa/digital-arrival-card/) requirements.

@@ -57,7 +57,7 @@ If you are planning a trip to Thailand in 2026, here are some practical steps:
 1. **Check your visa status** before booking — confirm your country's current entry requirements on the [Thai Immigration Bureau website](https://www.immigration.go.th/)
 2. **Carry proof of onward travel** — a return ticket or ticket to a next destination is increasingly being checked
 3. **Have accommodation bookings ready** — immigration officers may ask for hotel confirmations
-4. **Register via the Thailand Digital Arrival Card (TDAC)** system before arrival to speed up the process — see our [TDAC guide](/blog/thailand-digital-arrival-card-tdac-guide/) for step-by-step instructions
+4. **Register via the Thailand Digital Arrival Card (TDAC)** system before arrival to speed up the process — see our [TDAC guide](/visa/digital-arrival-card/) for step-by-step instructions
 5. **Consider a proper visa for longer stays** — if you plan more than 30 days, explore the [Tourist Visa](/visa/tourist-visa/) or [Destination Thailand Visa (DTV)](/visa/digital-nomad-visa/) options
 
 The situation is evolving, so it is worth checking for updates close to your travel date. For a full breakdown of visa options, see our [Thailand visa guide for 2026](/blog/thailand-visa-guide-2026/). If you are still in the planning stage, our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything you need to know before arrival. Travelers also affected by these changes are those from countries with [ongoing Middle East tensions impacting visitor numbers](/blog/thailand-tourism-2026-middle-east-impact-visitor-numbers/).

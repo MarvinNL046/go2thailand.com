@@ -58,7 +58,7 @@ If you are currently in Thailand or planning to travel soon:
 - **Call the TAT hotline at 1672** (available 24/7) for tourism-related assistance in English and other languages.
 - **Check the TAT Newsroom** at [tatnews.org](https://www.tatnews.org) for official updates.
 - **Make sure you have travel insurance** — our [Thailand travel insurance guide](/blog/travel-insurance-thailand-guide/) explains what to look for in a policy that covers flight disruptions.
-- **Consider a Thailand Digital Arrival Card (TDAC)** if you haven't already — the [TDAC guide](/blog/thailand-digital-arrival-card-tdac-guide/) explains the process for smooth entry when you do eventually land.
+- **Consider a Thailand Digital Arrival Card (TDAC)** if you haven't already — the [TDAC guide](/visa/digital-arrival-card/) explains the process for smooth entry when you do eventually land.
 
 ## Thailand remains open and safe
 

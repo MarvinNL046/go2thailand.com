@@ -24,7 +24,7 @@ sources:
 
 ## What Is TAGTHAi?
 
-TAGTHAi — short for Thailand All-in-One Guide — is a travel platform backed by the Tourism Authority of Thailand (TAT). Available on both iOS and Android, the app bundles hotel bookings, attraction tickets, restaurant deals and curated travel routes into a single interface. Think of it as Thailand's official answer to the scattered mix of booking apps most tourists juggle on holiday. It complements tools like the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) that have streamlined the arrival process in recent years.
+TAGTHAi — short for Thailand All-in-One Guide — is a travel platform backed by the Tourism Authority of Thailand (TAT). Available on both iOS and Android, the app bundles hotel bookings, attraction tickets, restaurant deals and curated travel routes into a single interface. Think of it as Thailand's official answer to the scattered mix of booking apps most tourists juggle on holiday. It complements tools like the [Thailand Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) that have streamlined the arrival process in recent years.
 
 The platform now connects over 3,000 local partners, from boutique guesthouses and hidden-gem restaurants to luxury spas and traditional craft workshops. In 2025 alone, TAGTHAi saw a 100 percent increase in downloads, surpassing four million, and a 170 percent jump in purchases.
 

@@ -38,7 +38,7 @@ After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-ma
 
 ## 1. Ignoring the Visa Requirements and Arrival Card Process
 
-**Thailand visa rules** are straightforward but easy to misunderstand, and mistakes here can mean denied entry or fines. Many travelers assume they can "figure it out at the airport," only to discover their passport validity is insufficient or they haven't completed required documentation. Check our [Thailand Digital Arrival Card guide](/blog/thailand-digital-arrival-card-tdac-guide/) before you fly.
+**Thailand visa rules** are straightforward but easy to misunderstand, and mistakes here can mean denied entry or fines. Many travelers assume they can "figure it out at the airport," only to discover their passport validity is insufficient or they haven't completed required documentation. Check our [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/) before you fly.
 
 Thailand's **Digital Arrival Card** (TM.6) is now mandatory and must be submitted **3 days before arrival**. This isn't optional—it's a legal requirement under the Immigration Act, B.E. 2522. You can submit it free at [https://tdac.immigration.go.th/arrival-card/#/home](https://tdac.immigration.go.th/arrival-card/#/home). Processing takes minutes, but skipping this step can result in delays, fines, or even deportation.
 

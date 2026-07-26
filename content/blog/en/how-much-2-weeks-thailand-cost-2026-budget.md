@@ -385,7 +385,7 @@ After years navigating Thailand, we've learned where money disappears. Here are 
 
 ### Visa & Entry Fees
 
-Most nationalities get 60 days visa-free. If you need a visa, tourist visas cost around ฿2,000–3,000 depending on your nationality. Check [Thailand visa requirements](https://go2-thailand.com/visa/) before booking. See our [2026 visa guide](https://go2-thailand.com/blog/thailand-visa-guide-2026/) for the latest rules and the [Thailand digital arrival card (TDAC) guide](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/).
+Most nationalities get 60 days visa-free. If you need a visa, tourist visas cost around ฿2,000–3,000 depending on your nationality. Check [Thailand visa requirements](https://go2-thailand.com/visa/) before booking. See our [2026 visa guide](https://go2-thailand.com/blog/thailand-visa-guide-2026/) for the latest rules and the [Thailand digital arrival card (TDAC) guide](https://go2-thailand.com/visa/digital-arrival-card/).
 
 ### Airport Transfers
 

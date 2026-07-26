@@ -210,7 +210,7 @@ The [best time to visit Thailand](https://go2-thailand.com/blog/best-time-to-vis
 
 ## Essential Tips
 
-1. **Fill out the [Thailand Digital Arrival Card (TDAC)](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/)** online before you arrive — it's free and saves time at immigration.
+1. **Fill out the [Thailand Digital Arrival Card (TDAC)](https://go2-thailand.com/visa/digital-arrival-card/)** online before you arrive — it's free and saves time at immigration.
 2. **Carry cash.** Street food stalls, tuk-tuks, and small shops rarely accept cards. ATMs charge 220 THB ($6.30) per withdrawal — withdraw larger amounts less often.
 3. **Dress respectfully at temples.** Cover your shoulders and knees. Many temples provide wraps, but bringing your own saves time.
 4. **Don't ride elephants.** Visit ethical sanctuaries instead. Our [Thailand travel mistakes guide](https://go2-thailand.com/blog/10-biggest-thailand-travel-mistakes/) covers this and other common pitfalls.

@@ -1,0 +1,100 @@
+# DFS parsed source — https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements
+
+**Captured:** 2026-07-26T16:59:53.924Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+# Thailand
+
+[Warnings and insurance](https://www.gov.uk/foreign-travel-advice/thailand)
+
+Entry requirements
+
+[Safety and security](https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security)
+
+[Regional risks](https://www.gov.uk/foreign-travel-advice/thailand/regional-risks)
+
+[Getting help](https://www.gov.uk/foreign-travel-advice/thailand/getting-help)
+## Subscriptions
+
+[Get email alerts](https://www.gov.uk/foreign-travel-advice/thailand/email-signup)
+# Entry requirements
+
+This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of the current rules for the most common types of travel.
+
+The authorities in Thailand set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Thai Embassy in the UK](https://london.thaiembassy.org/en/index).
+## Passport validity requirements
+
+To enter Thailand, your passport must have an ‘expiry date’ at least 6 months after the date you arrive and have at least 1 blank page.
+
+Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
+
+You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+If you’re a dual national, it is best to leave Thailand on the same passport you used to enter – this will avoid problems at immigration.
+## Visa requirements
+
+You can visit Thailand for a period of 60 days for the purpose of tourism, business engagements, and urgent or ad-hoc work. This visa category can be extended for another period not exceeding 30 days.
+
+You can also apply in advance for a [multiple-entry visa for up to 60 days](https://london.thaiembassy.org/en/page/tourist-multiple-entries-visa).
+
+For work, study or other reasons, you need a [visa before you travel](https://www.thaievisa.go.th/).
+### Digital Arrival Card
+
+From 1 May 2025, all foreign nationals entering Thailand, whether by air, land or sea must complete a digital arrival card online before arrival. Travellers can [register for an arrival card](https://tdac.immigration.go.th/) within 3 days before they arrive.
+### Overstaying your visa
+
+If you overstay the period of your visa, you will get a fine of 500 Thai baht a day up to a maximum of 20,000 baht. You risk being:
+
+held in detention
+
+deported at your own expense
+
+banned from re-entering Thailand for up to 10 years
+
+Conditions in detention centres can be harsh.
+## Vaccine requirements
+
+To enter Thailand, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission).
+
+For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Thailand guide](https://travelhealthpro.org.uk/country/221/thailand).
+## Ebola
+
+As a public health measure, Thailand has introduced health screening for travellers arriving from affected regions. [Travellers are subject to a mandatory quarantine or self-isolation period of at least 21 days](https://x.com/prdthailand/status/2059480037406191802?s=46).
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+## Customs rules
+
+There are strict rules about [goods you can take into or out of Thailand](https://www.customs.go.th/list_strc_simple_neted.php?ini_content=individual_160503_03_160905_01&lang=en&left_menu=menu_individual_submenu_01_160421_01). You must declare anything that may be prohibited or subject to tax or duty.
+### Taking cigarettes into Thailand
+
+It is illegal to take more than 200 cigarettes per person into Thailand. This is enforced at customs on arrival. If you go over the limit, you could be fined 10 times the value. Your cigarettes will likely be confiscated.
+## Related content
+
+[About Foreign, Commonwealth & Development Office travel advice](https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice)
+
+[Support for British nationals abroad](https://www.gov.uk/government/collections/support-for-british-nationals-abroad)
+
+[Foreign travel checklist](https://www.gov.uk/guidance/foreign-travel-checklist)
+
+[UK help and services in Thailand](https://www.gov.uk/world/thailand)
+## Explore the topic
+
+[Living in Thailand](https://www.gov.uk/world/living-in-thailand)
+
+[Travelling to Thailand](https://www.gov.uk/world/travelling-to-thailand)
+# Entry requirements
+
+Yes this page is useful
+
+No this page is not useful
+
+Thank you for your feedback
+
+Do not include personal or financial information like your National Insurance number or credit card details.
+
+To help us improve GOV.UK, we’d like to know more about your visit today. Please fill in this survey (opens in a new tab [and requires JavaScript](https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js) ).
+

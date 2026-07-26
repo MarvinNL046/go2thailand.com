@@ -170,7 +170,7 @@ Yes. Group packages are actually one of the safest ways for [solo female travele
 
 ### Do packages include visa costs?
 
-Almost never. Most Western nationalities get 30–60 days visa-free entry to Thailand, so it's not a major expense. Check our [Thailand visa guide](https://go2-thailand.com/blog/thailand-visa-guide-2026/) for current requirements and don't forget the [Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/).
+Almost never. Most Western nationalities get 30–60 days visa-free entry to Thailand, so it's not a major expense. Check our [Thailand visa guide](https://go2-thailand.com/blog/thailand-visa-guide-2026/) for current requirements and don't forget the [Thailand Digital Arrival Card](https://go2-thailand.com/visa/digital-arrival-card/).
 
 ## The Bottom Line
 
