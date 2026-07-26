@@ -1,0 +1,1577 @@
+{
+  "captured_at": "2026-07-26T18:08:59.836Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand travel guide",
+  "costs": {
+    "suggestions": 0.02508,
+    "related": 0.01572,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand travel guide",
+    "thailand travel packages",
+    "travel warning thailand today",
+    "thailand guide travel",
+    "travel guide for thailand",
+    "travel guide in thailand",
+    "travel guide of thailand",
+    "travel guide thailand",
+    "travel guide to thailand",
+    "travel thailand guide",
+    "bangkok thailand travel guide",
+    "thailand bangkok travel guide",
+    "travel guide bangkok thailand",
+    "phuket thailand travel guide",
+    "thailand phuket travel guide",
+    "travel guide phuket thailand",
+    "best thailand travel guide",
+    "best thailand travel guide book",
+    "best travel guide book thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "bad news for tourists in thailand",
+      "volume": 2400,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel packages",
+      "volume": 1300,
+      "kd": 9,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "travel warning thailand today",
+      "volume": 1300,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand itinerary 3 weeks",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand guide travel",
+      "volume": 390,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide",
+      "volume": 390,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide map",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide for thailand",
+      "volume": 390,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide in thailand",
+      "volume": 390,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide of thailand",
+      "volume": 390,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide thailand",
+      "volume": 390,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "travel guide to thailand",
+      "volume": 390,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel thailand guide",
+      "volume": 390,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand travel guide",
+      "volume": 110,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand bangkok travel guide",
+      "volume": 110,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide bangkok thailand",
+      "volume": 110,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travelling thailand for beginners",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket thailand travel guide",
+      "volume": 90,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand itinerary 4 weeks",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand phuket travel guide",
+      "volume": 90,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide phuket thailand",
+      "volume": 90,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rules in thailand for tourists",
+      "volume": 70,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "10 laws in thailand to be aware of",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thailand travel guide",
+      "volume": 50,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thailand travel guide book",
+      "volume": 50,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best travel guide book thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best travel guide for thailand",
+      "volume": 50,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best travel guide thailand",
+      "volume": 50,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "strange laws in thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel blog",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traveling to thailand for the first time",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand travel guide",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel thailand itinerary",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "legal drinking age in thailand for foreigners",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is illegal in thailand for tourists",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do before traveling to thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "first time to thailand where should i go",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand itinerary 15 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand new rules for tourist 2026",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide book",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "a travel guide to thailand",
+      "volume": 10,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amazon thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thailand travel blog",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best travel guide to thailand",
+      "volume": 10,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dangers in thailand for tourists",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dk eyewitness travel guide thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dk eyewitness travel guide: thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dk thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "eyewitness travel guide thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "female travel guide in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "friends from thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gay thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "guide to thailand travel",
+      "volume": 10,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lonely planet thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lonely planet thailand travel guide pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lost leblanc thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "north thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "northern thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "south thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "southern thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand backpacking travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand for couples travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand islands travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand lonely planet travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand solo travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tips restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel blog 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2017",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2023",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide amazon",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide app",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide book 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide book pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide for indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide lonely planet",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide pdf free download",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel information guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel weather guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide thailand cambodia vietnam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide thailand pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide to phuket thailand",
+      "volume": 10,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide to thailand pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel to thailand guide",
+      "volume": 10,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vietnam cambodia laos & northern thailand travel guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "world travel guide thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airbnb travel guide 2022 thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok nightlife thailand travel guide & tours",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand travel guide 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thailand travel guide 2016",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "free thailand travel guide pdf",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lonely planet thailand travel guide pdf free download",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand travel guide 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "satun thailand travel guide",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 2023 travel guide",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ladyboy travel guide",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel destination guide",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2018 pdf",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2021",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide blog",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide book 2018",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide book 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide covid",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel video guide",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "updated thailand travel guide 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vietnam cambodia laos & northern thailand travel guide pdf",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "anthony bourdain thailand travel guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thailand travel guide book 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dk eyewitness travel guide thailand 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pdf thailand travel guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand beach travel guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand female travel guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide book free",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel guide youtube",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the ultimate thailand travel guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel guide thailand vietnam and cambodia",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel thailand rough guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ultimate thailand travel guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan travel guide thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vogue thailand travel guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.amazon.co.uk",
+      "avgPosition": 10.714285714285714,
+      "keywordCount": 7,
+      "visibility": 2,
+      "estimatedTraffic": 24.171999999999997
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 15.285714285714286,
+      "keywordCount": 7,
+      "visibility": 3.9,
+      "estimatedTraffic": 145.127
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 15.571428571428571,
+      "keywordCount": 7,
+      "visibility": 0.55,
+      "estimatedTraffic": 15.349
+    },
+    {
+      "domain": "www.nomadicmatt.com",
+      "avgPosition": 7.833333333333333,
+      "keywordCount": 6,
+      "visibility": 2.4000000000000004,
+      "estimatedTraffic": 48.81099999999999
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 8,
+      "keywordCount": 6,
+      "visibility": 1.8,
+      "estimatedTraffic": 11.16
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 15.166666666666666,
+      "keywordCount": 6,
+      "visibility": 1.6,
+      "estimatedTraffic": 13.868000000000002
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 4.4,
+      "keywordCount": 5,
+      "visibility": 3.3,
+      "estimatedTraffic": 43.297
+    },
+    {
+      "domain": "www.thetimes.com",
+      "avgPosition": 20.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 6.8500000000000005
+    },
+    {
+      "domain": "www.responsibletravel.com",
+      "avgPosition": 15.6,
+      "keywordCount": 5,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 44.363
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 16,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.858
+    },
+    {
+      "domain": "northabroad.com",
+      "avgPosition": 1.5,
+      "keywordCount": 4,
+      "visibility": 3.8,
+      "estimatedTraffic": 98.863
+    },
+    {
+      "domain": "kelseyinlondon.com",
+      "avgPosition": 3,
+      "keywordCount": 4,
+      "visibility": 3.2,
+      "estimatedTraffic": 43.658
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 25.4,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.8400000000000003
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 26,
+      "keywordCount": 5,
+      "visibility": 0.5,
+      "estimatedTraffic": 44.78
+    },
+    {
+      "domain": "travel.usnews.com",
+      "avgPosition": 23,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.092
+    },
+    {
+      "domain": "www.theblondeabroad.com",
+      "avgPosition": 25.75,
+      "keywordCount": 4,
+      "visibility": 0.7999999999999999,
+      "estimatedTraffic": 26.422
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 33,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.503
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 34,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.851
+    },
+    {
+      "domain": "www.independent.co.uk",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 6.547
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.401
+    },
+    {
+      "domain": "www.thepoortraveler.net",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.2189999999999999
+    },
+    {
+      "domain": "courtneymuro.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 6.1579999999999995
+    },
+    {
+      "domain": "www.helenabradbury.com",
+      "avgPosition": 42.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.3529999999999998
+    },
+    {
+      "domain": "www.flightcentre.co.uk",
+      "avgPosition": 42.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.84
+    },
+    {
+      "domain": "www.waterstones.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.8,
+      "estimatedTraffic": 3.773
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 49,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.84
+    },
+    {
+      "domain": "www.thekohsamuiguide.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 42.56
+    },
+    {
+      "domain": "wheretogoin.net",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 35.64
+    },
+    {
+      "domain": "tripwis.com",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 44.143
+    },
+    {
+      "domain": "thailandinsiderguide.com",
+      "avgPosition": 51.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.84
+    },
+    {
+      "domain": "www.etsy.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.359
+    },
+    {
+      "domain": "dauntbooks.co.uk",
+      "avgPosition": 3.5,
+      "keywordCount": 2,
+      "visibility": 1.5,
+      "estimatedTraffic": 11.424
+    },
+    {
+      "domain": "www.gov.uk",
+      "avgPosition": 3.5,
+      "keywordCount": 2,
+      "visibility": 1.5,
+      "estimatedTraffic": 408.382
+    },
+    {
+      "domain": "shop.lonelyplanet.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 6.566
+    },
+    {
+      "domain": "www.willflyforfood.net",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 9.774
+    },
+    {
+      "domain": "jyoshankar.com",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 4.8149999999999995
+    },
+    {
+      "domain": "shop.roughguides.com",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 3.7449999999999997
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 54.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.84
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 2.025
+    },
+    {
+      "domain": "www.volunteerfdip.org",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 1.736
+    },
+    {
+      "domain": "swissmissontour.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.162
+    },
+    {
+      "domain": "migrationology.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.65
+    },
+    {
+      "domain": "nerdnomads.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.6500000000000001
+    },
+    {
+      "domain": "fionabeckett.substack.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.8039999999999998
+    },
+    {
+      "domain": "community.ricksteves.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.917
+    },
+    {
+      "domain": "www.mrandmrssmith.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.4740000000000002
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.0350000000000001
+    },
+    {
+      "domain": "www.passportsandpreemies.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.9179999999999999
+    },
+    {
+      "domain": "travellinghan.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.026
+    },
+    {
+      "domain": "www.midnightblueelephant.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.979
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-07-26T18:09:02.047Z",
+  "locale": "en",
+  "target": "https://go2-thailand.com/",
+  "cost": 0.024036,
+  "summary": {
+    "rank": 40,
+    "backlinks": 910,
+    "referringDomains": 21,
+    "referringPages": 461,
+    "referringMainDomains": 21,
+    "dofollow": null,
+    "firstSeen": "2025-08-21 07:34:21 +00:00"
+  },
+  "raw": {
+    "target": "https://go2-thailand.com/",
+    "first_seen": "2025-08-21 07:34:21 +00:00",
+    "lost_date": null,
+    "rank": 40,
+    "backlinks": 910,
+    "backlinks_spam_score": 2,
+    "crawled_pages": 1,
+    "info": {
+      "server": "Vercel",
+      "cms": null,
+      "platform_type": [
+        "organization"
+      ],
+      "ip_address": "216.150.16.129",
+      "country": "WW",
+      "is_ip": false,
+      "target_spam_score": 0
+    },
+    "internal_links_count": 80,
+    "external_links_count": 20,
+    "broken_backlinks": 0,
+    "broken_pages": 0,
+    "referring_domains": 21,
+    "referring_domains_nofollow": 9,
+    "referring_main_domains": 21,
+    "referring_main_domains_nofollow": 9,
+    "referring_ips": 14,
+    "referring_subnets": 9,
+    "referring_pages": 461,
+    "referring_pages_nofollow": 10,
+    "referring_links_tld": {
+      "com": 451,
+      "eu": 3,
+      "wiki": 2,
+      "org": 1,
+      "xyz": 1,
+      "world": 1,
+      "co.in": 1,
+      "pro": 1
+    },
+    "referring_links_types": {
+      "anchor": 461
+    },
+    "referring_links_attributes": {
+      "noopener": 452,
+      "noreferrer": 140,
+      "nofollow": 10
+    },
+    "referring_links_platform_types": {
+      "organization": 294,
+      "unknown": 143,
+      "message-boards": 22,
+      "ecommerce": 15,
+      "blogs": 4,
+      "cms": 1
+    },
+    "referring_links_semantic_locations": {
+      "footer": 449,
+      "": 11,
+      "main": 1
+    },
+    "referring_links_countries": {
+      "": 367,
+      "GB": 89,
+      "DE": 1,
+      "WW": 1,
+      "AU": 1,
+      "US": 1,
+      "IN": 1
+    }
+  }
+}

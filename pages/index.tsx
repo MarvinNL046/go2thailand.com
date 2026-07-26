@@ -9,12 +9,11 @@ export default function Home() {
   return (
     <>
       <SEOHead
-        title={isNl ? 'Thailand reizen, uitjes & hotels | Go2 Thailand' : 'Thailand travel, experiences & hotels | Go2 Thailand'}
+        title={isNl ? 'Thailand reizen, uitjes & hotels | Go2 Thailand' : 'Thailand Travel: Places, Things to Do & Trip Ideas'}
         description={isNl
           ? 'Ontdek bijzondere bestemmingen, onvergetelijke uitjes en de mooiste hotels voor jouw reis door Thailand.'
-          : 'Discover remarkable destinations, unforgettable experiences and beautiful hotels for your Thailand journey.'}
+          : 'Explore Thailand travel by style: compare destinations, build an itinerary, find things to do and check current hotel availability.'}
       >
-        <meta name="keywords" content={isNl ? 'Thailand reizen, Thailand uitjes, hotels Thailand, Thailand bestemmingen' : 'Thailand travel, Thailand tours, Thailand hotels, Thailand destinations'} />
         <meta property="og:type" content="website" />
         <link rel="preload" as="image" href="/images/redesign/homepage-hero.webp" type="image/webp" />
         <script
@@ -28,11 +27,6 @@ export default function Home() {
               description: isNl
                 ? 'Reisinspiratie, activiteiten en hotels voor Thailand.'
                 : 'Travel inspiration, activities and hotels for Thailand.',
-              potentialAction: {
-                '@type': 'SearchAction',
-                target: 'https://go2-thailand.com/search?q={search_term_string}',
-                'query-input': 'required name=search_term_string',
-              },
             }),
           }}
         />

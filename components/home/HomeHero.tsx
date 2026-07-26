@@ -3,12 +3,14 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { ArrowRight, BookOpenCheck, MapPin, Search, ShieldCheck } from 'lucide-react';
-import { TRIP_GENERIC } from '../../lib/affiliates';
+import { TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import { destinationOptions, DestinationOption } from '../../lib/destination-search';
+import { useSubId } from '../../lib/useSubId';
 
 export function HomeHero() {
   const router = useRouter();
   const isNl = router.locale === 'nl';
+  const subId = useSubId();
   const [query, setQuery] = useState('');
   const [isOpen, setIsOpen] = useState(false);
 
@@ -69,9 +71,9 @@ export function HomeHero() {
                 />
               </Link>
               <a
-                href={TRIP_GENERIC}
+                href={withPlacementSubId(TRIP_GENERIC, subId, 'hero-hotels')}
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="noopener noreferrer nofollow sponsored"
                 className="btn-cream group border-saffron/55 px-7 text-saffron-dark hover:border-saffron"
               >
                 {isNl ? 'Vind een hotel' : 'Find a hotel'}

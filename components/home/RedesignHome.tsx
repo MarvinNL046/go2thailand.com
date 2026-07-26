@@ -10,7 +10,8 @@ import {
   MapPin,
   ShieldCheck,
 } from 'lucide-react';
-import { KLOOK_GENERIC, TRIP_GENERIC } from '../../lib/affiliates';
+import { cityAffiliates, KLOOK_GENERIC, TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
+import { useSubId } from '../../lib/useSubId';
 import { DottedRoute } from '../visuals/DottedRoute';
 import { StoryDottedRoute } from '../visuals/StoryDottedRoute';
 import { ThailandMapGraphic } from '../visuals/ThailandMapGraphic';
@@ -26,10 +27,10 @@ const destinations = [
 ];
 
 const experiences = [
-  { title: { nl: 'Ayutthaya dagtour vanuit Bangkok', en: 'Ayutthaya day trip from Bangkok' }, image: '/images/redesign/experience-ayutthaya.webp', duration: { nl: '9 uur', en: '9 hours' } },
-  { title: { nl: 'Snorkelen bij de Similan Islands', en: 'Snorkel the Similan Islands' }, image: '/images/redesign/experience-snorkelling.webp', duration: { nl: '10 uur', en: '10 hours' } },
-  { title: { nl: 'Thaise kookcursus in Chiang Mai', en: 'Thai cooking class in Chiang Mai' }, image: '/images/redesign/experience-cooking.webp', duration: { nl: '4 uur', en: '4 hours' } },
-  { title: { nl: 'Ethische olifantenopvang', en: 'Ethical elephant sanctuary' }, image: '/images/redesign/experience-elephants.webp', duration: { nl: '5 uur', en: '5 hours' } },
+  { title: { nl: 'Ayutthaya dagtour vanuit Bangkok', en: 'Ayutthaya day trip from Bangkok' }, image: '/images/redesign/experience-ayutthaya.webp', duration: { nl: '9 uur', en: '9 hours' }, href: cityAffiliates.ayutthaya?.klook || KLOOK_GENERIC, placement: 'ayutthaya-day-trip' },
+  { title: { nl: 'Snorkelen bij de Similan Islands', en: 'Snorkel the Similan Islands' }, image: '/images/redesign/experience-snorkelling.webp', duration: { nl: '10 uur', en: '10 hours' }, href: cityAffiliates.phuket?.klook || KLOOK_GENERIC, placement: 'similan-snorkelling' },
+  { title: { nl: 'Thaise kookcursus in Chiang Mai', en: 'Thai cooking class in Chiang Mai' }, image: '/images/redesign/experience-cooking.webp', duration: { nl: '4 uur', en: '4 hours' }, href: cityAffiliates['chiang-mai']?.klook || KLOOK_GENERIC, placement: 'chiang-mai-cooking-class' },
+  { title: { nl: 'Ethische olifantenopvang', en: 'Ethical elephant sanctuary' }, image: '/images/redesign/experience-elephants.webp', duration: { nl: '5 uur', en: '5 hours' }, href: cityAffiliates['chiang-mai']?.klook || KLOOK_GENERIC, placement: 'ethical-elephant-sanctuary' },
 ];
 
 const hotels = [
@@ -39,7 +40,7 @@ const hotels = [
 ];
 
 const articles = [
-  { category: { nl: 'Reisgids', en: 'Travel guide' }, title: { nl: 'De mooiste eilanden van Thailand', en: 'Thailand\'s most beautiful islands' }, copy: { nl: 'Van bekende hotspots tot verborgen parels die je gezien wilt hebben.', en: 'From famous hotspots to hidden gems worth discovering.' }, image: '/images/blog/phuket-vs-koh-samui-for-tourists.webp', href: '/thailand-islands/' },
+  { category: { nl: 'Begin hier', en: 'Start here' }, title: { nl: 'Complete Thailand-reisgids', en: 'Thailand travel guide for first-timers' }, copy: { nl: 'Maak eerst de juiste keuzes voor route, seizoen, budget en praktische voorbereiding.', en: 'Make the key route, season, budget and practical decisions before you book.' }, image: '/images/blog/phuket-vs-koh-samui-for-tourists.webp', href: '/thailand-travel-guide/' },
   { category: { nl: 'Tips', en: 'Tips' }, title: { nl: 'Beste reistijd voor Thailand', en: 'The best time to visit Thailand' }, copy: { nl: 'Per regio en seizoen: zo haal je het meeste uit je reis.', en: 'Plan by region and season to make the most of your trip.' }, image: '/images/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket.webp', href: '/weather/' },
   { category: { nl: 'Stedentrip', en: 'City trip' }, title: { nl: '48 uur in Bangkok', en: '48 hours in Bangkok' }, copy: { nl: 'Sla de highlights niet over tijdens een kort verblijf in de hoofdstad.', en: 'Make the most of a short stay in Thailand\'s capital.' }, image: '/images/blog/bangkok-best-city-asia-2026-destinasian-award.webp', href: '/city/bangkok/' },
   { category: { nl: 'Overnachten', en: 'Stay' }, title: { nl: 'De beste hotels aan het strand', en: 'The best beachfront hotels' }, copy: { nl: 'Onze favoriete strandhotels voor ieder budget en elke reisstijl.', en: 'Our favourite beachfront stays for every budget and travel style.' }, image: '/images/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure.webp', href: '/top-10/hotels/' },
@@ -63,8 +64,9 @@ function DestinationCard({ item }: { item: typeof destinations[number] }) {
 function ExperienceCard({ item }: { item: typeof experiences[number] }) {
   const { locale } = useRouter();
   const lang = locale === 'nl' ? 'nl' : 'en';
+  const subId = useSubId();
   return (
-    <a href={KLOOK_GENERIC} target="_blank" rel="noopener noreferrer sponsored" className="group min-w-[82vw] snap-start overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_4px_16px_rgba(18,63,54,0.04)] transition hover:-translate-y-1 hover:shadow-xl sm:min-w-0">
+    <a href={withPlacementSubId(item.href, subId, item.placement)} target="_blank" rel="noopener noreferrer nofollow sponsored" className="group min-w-[82vw] snap-start overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_4px_16px_rgba(18,63,54,0.04)] transition hover:-translate-y-1 hover:shadow-xl sm:min-w-0">
       <div className="relative aspect-[3/2] overflow-hidden"><Image src={item.image} alt={item.title[lang]} fill className="object-cover transition duration-700 group-hover:scale-105" sizes="(max-width: 768px) 82vw, 25vw" /></div>
       <div className="p-4">
         <h3 className="min-h-[2.5rem] text-sm font-bold leading-snug text-jade">{item.title[lang]}</h3>
@@ -81,6 +83,7 @@ function ExperienceCard({ item }: { item: typeof experiences[number] }) {
 export default function RedesignHome() {
   const { locale } = useRouter();
   const lang: keyof LocalizedCopy = locale === 'nl' ? 'nl' : 'en';
+  const subId = useSubId();
   const c = (nl: string, en: string) => (lang === 'nl' ? nl : en);
 
   return (
@@ -128,7 +131,7 @@ export default function RedesignHome() {
       <section className="bg-[#fcfaf6] pb-10 pt-1">
         <div className="container-custom">
           <div className="relative min-h-[420px] overflow-hidden rounded-xl text-white lg:min-h-[260px]">
-            <Image src="/images/redesign/midpage-jungle.webp" alt="Reiziger ontdekt een verborgen waterval in Thailand" fill className="object-cover object-[67%_center] lg:object-center" sizes="(max-width: 1280px) 100vw, 1216px" />
+            <Image src="/images/redesign/midpage-jungle.webp" alt={c('Reiziger ontdekt een verborgen waterval in Thailand', 'Traveller discovering a hidden waterfall in Thailand')} fill className="object-cover object-[67%_center] lg:object-center" sizes="(max-width: 1280px) 100vw, 1216px" />
             <div className="absolute inset-0 bg-gradient-to-r from-[#07372f]/95 via-[#07372f]/72 to-[#07372f]/5 lg:via-[#07372f]/52 lg:to-transparent" />
             <div className="relative flex min-h-[420px] max-w-[470px] flex-col justify-center px-7 py-10 lg:min-h-[260px] lg:px-10 lg:py-8">
               <h2 className="font-display text-[3rem] font-semibold leading-[0.86] tracking-[-0.025em] lg:text-[3.4rem]">{c('Verder dan de bekende route', 'Go beyond the familiar route')}</h2>
@@ -147,7 +150,7 @@ export default function RedesignHome() {
           </div>
           <div className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden sm:mx-0 sm:grid sm:grid-cols-2 sm:overflow-visible sm:px-0 sm:pb-0 lg:grid-cols-3">
             {hotels.map(hotel => (
-              <a key={hotel.name.en} href={TRIP_GENERIC} target="_blank" rel="noopener noreferrer sponsored" className="group min-w-[88vw] snap-start overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_4px_16px_rgba(18,63,54,0.04)] transition hover:-translate-y-1 hover:shadow-xl sm:min-w-0">
+              <a key={hotel.name.en} href={withPlacementSubId(TRIP_GENERIC, subId, `hotels-${hotel.location.toLowerCase().replace(/[^a-z]+/g, '-')}`)} target="_blank" rel="noopener noreferrer nofollow sponsored" className="group min-w-[88vw] snap-start overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_4px_16px_rgba(18,63,54,0.04)] transition hover:-translate-y-1 hover:shadow-xl sm:min-w-0">
                 <div className="relative aspect-[8/3] overflow-hidden"><Image src={hotel.image} alt={hotel.name[lang]} fill className="object-cover transition duration-700 group-hover:scale-105" sizes="(max-width: 640px) 88vw, (max-width: 1024px) 50vw, 33vw" /></div>
                 <div className="flex items-start justify-between gap-4 p-4">
                   <div className="min-w-0">
@@ -181,7 +184,7 @@ export default function RedesignHome() {
               <Link href="/itineraries/" className="group mt-5 inline-flex items-center gap-3 rounded-xl bg-saffron px-5 py-3 text-sm font-bold text-white transition hover:bg-saffron-dark">{c('Bekijk onze reisroutes', 'Explore our itineraries')} <ArrowRight className="transition-transform group-hover:translate-x-1" size={16} /></Link>
             </div>
             <div className="relative mt-5 min-h-[210px] lg:mt-0 lg:min-h-[230px]">
-              <ThailandMapGraphic className="absolute bottom-[-35px] left-1/2 h-[300px] w-auto -translate-x-1/2 opacity-[0.34] lg:bottom-[-25px] lg:left-auto lg:right-20 lg:h-[300px] lg:translate-x-0" />
+              <ThailandMapGraphic label={c('Geografische kaart van Thailand', 'Geographic map of Thailand')} className="absolute bottom-[-35px] left-1/2 h-[300px] w-auto -translate-x-1/2 opacity-[0.34] lg:bottom-[-25px] lg:left-auto lg:right-20 lg:h-[300px] lg:translate-x-0" />
               <DottedRoute light className="absolute bottom-2 left-1/2 w-[min(112%,390px)] -translate-x-1/2 lg:bottom-3 lg:left-auto lg:right-0 lg:w-[min(100%,460px)] lg:translate-x-0" />
             </div>
             <div className="pointer-events-none absolute inset-0 opacity-[0.065]" style={{ backgroundImage: 'radial-gradient(circle at 1px 1px, white 1px, transparent 0)', backgroundSize: '22px 22px' }} />
