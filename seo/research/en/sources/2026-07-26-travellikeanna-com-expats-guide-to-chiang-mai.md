@@ -1,0 +1,401 @@
+# DFS parsed source — https://www.travellikeanna.com/expats-guide-to-chiang-mai/
+
+**Captured:** 2026-07-26T19:40:54.711Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+# I Live in Chiang Mai, Thailand Every Winter—Here’s the Best Things to Do
+
+Jan 23, 2026
+
+I fell in love with [Thailand](https://www.travellikeanna.com/photo-guide-to-thailand/) in 2009 when I was running photo trips for a student travel company in [Southeast Asia](https://www.travellikeanna.com/where-to-go-in-southeast-asia/). While the Chiang Mai has changed a bit over the years, I still love the city. Now, I spend every winter in Chiang Mai for a few months and decided it was finally time to write a guide about the best things to do in Chiang Mai!
+
+Chiang Mai is the smaller laid-back sister to the chaotic madness of [Bangkok](https://www.travellikeanna.com/things-to-do-in-bangkok/). It has a population of 200,000 and centers around the old city, which is lined by a moat and the crumbling remains of retaining wall from its 13th century heyday as the capital of the Lanna Kingdom. It’s a foodie town filled with temples and a great base for day trips for waterfalls, trekking and ethical elephant experiences.
+
+Outside of the old city walls, the eastern area ( Tha Phae Gate ) along the Ping River is the commercial hub filled with markets. The western part is the trendy, hip area along Nimmanhaemin Road (known as Nimman) that’s popular with both the digital nomad community and Chinese tourists for the shopping, cool cafes and coworking spaces.
+
+Whether you’re here for two days or two months, this guide will answer ALL your questions about the best things to do in Chiang Mai, including day trips and the [best hotels and hostels](https://www.travellikeanna.com/expats-guide-to-chiang-mai/).
+
+Affiliate links are used in this post. If you make a purchase, I earn a small commission at no cost to you, which goes toward the cost of maintaining this blog.
+## In This Post
+
+[The Best Temples in Chiang Mai](https://www.travellikeanna.com/expats-guide-to-chiang-mai/)
+
+[The Best Day Trips from Chiang Mai](https://www.travellikeanna.com/expats-guide-to-chiang-mai/)
+
+The Best Public Parks in Chiang Mai
+
+The Best Chiang Mai Museums
+
+[The Best Places to Eat in Chiang Mai](https://www.travellikeanna.com/expats-guide-to-chiang-mai/)
+
+[Where to Stay in Chiang Mai](https://www.travellikeanna.com/expats-guide-to-chiang-mai/)
+
+[The Best Gyms in Chiang Mai](https://www.travellikeanna.com/expats-guide-to-chiang-mai/)
+
+[The Best Shopping and Markets in Chiang Mai](https://www.travellikeanna.com/expats-guide-to-chiang-mai/)
+
+[Chiang Mai FAQ: Insurance, eSIMs, Hospitals](https://www.travellikeanna.com/expats-guide-to-chiang-mai/)
+## Plan Your Trip
+
+Currency: Thai Baht (THB)
+
+When to Go: October to January has the best weather. Avoid the smokey season from February to April.
+
+Travel Insurance: Protect yourself with [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=24747560&campaign=chiang-mai-post&utm_campaign=chiang-mai-post&utm_source=24747560&utm_medium=Ambassador) travel medical insurance to cover accidents and travel delays.
+
+Mobile eSIM Card: Get seamless connectivity with [Airalo](https://airalo.tp.st/ek1e3rU6) minus the hassle of physical SIM card. (Save 10% with code [AIRALOESIM10!](https://airalo.tp.st/ek1e3rU6) )
+## The Best Chiang Mai Temples
+
+Wat Chiang Man in Chiang Mai’s old city
+
+There’s literally a temple on every corner in Chiang Mai. Please be sure to dress appropriately when visiting temples —cover your shoulders and knees; remove hats and shoes. Avoiding pointing your feet at anyone or the Buddha statues because it is considered disrespectful. I’ve marked my favorite photogenic temples with asterisks! The famous temples charge 20-30 baht for entry, and the smaller ones are usually free. It’s often free if you go early or late.
+### Temples Inside Chiang Mai’s Old City Gates
+
+**I added two asterisks to notate my favorite temples below.
+
+**Wat Phan Tao – This teak temple is one of my favorites and was renovated just a few years ago.
+
+Wat Phra Singh – This is one of the most popular and crowded in town. It’s famous for Lion Buddha Image and golden chedis (a mound-like structure containing relics) with elephants.
+
+Wat Chedi Luang – This is the second most popular and one of tallest structures in town. The brick chedi ruins dates back to 1441 and features a few remaining elephant statues.
+
+**Wat Chiang Man – This is the oldest in town and known for elephant chedi from 1297. It’s one of the best for photography.
+
+**Wat Saen Muang Ma Luang (Wat Hua Khuang) – This small and slightly hidden temple is down a small road near north gate of the city. It’s also stunning for photographs.
+### Temples Outside the Chiang Mai Old City Gates
+
+Wat Lok Molee – This temple is one of one of city’s older temples. It’s just outside of the north gate to the old city. It’s popular during the lantern festival and always has cool decorations.
+
+Wat Sri Suphan – The silver temple is just south of city walls. It’s stunning except for the fact that women can’t go inside the main temple.
+
+**Wat Buppharam and Wat Mahawan – These are two of the three stunningly beautiful Burmese temples near Tha Phae Gate.
+
+Left: Chiang Mai Old City; Right: Wat Suan Dok
+### Temples in Driving Distance of Chiang Mai
+
+Wat Doi Suthep – This is the most important temple in Chiang Mai and home to a Buddha relic. It’s located on top of a mountain just outside of town. It’s accessible by songthaew or a rideshare from the city or by foot via the [Monk’s Trail](https://www.alltrails.com/trail/thailand/chiang-mai/doi-suthep-monk-trail). Be prepared to climb the 300+ steps to reach the temple.
+
+Wat Pha Lat – This is a small jungle temple on the way to Doi Suthep. It’s accessible by car and foot via the [Monk’s Trail](https://www.alltrails.com/trail/thailand/chiang-mai/doi-suthep-monk-trail).
+
+Wat Umong – This cave temple is a couple kilometers out of city and one of the most unique ones.
+
+Wat Phra That Doi Kham – You can’t miss this big white buddha temple on hilltop.
+
+Wat Suan Dok – This temple is located in the Nimman area and known for the photogenic white stupas/chedis. They offer one-day and multi-day mediation retreats that I totally recommend and regular monk chats!
+## Traveling in Southeast Asia
+
+Read my guides to [Thailand](https://www.travellikeanna.com/photo-guide-to-thailand/), [Bangkok](https://www.travellikeanna.com/things-to-do-in-bangkok/), [Vietnam](https://www.travellikeanna.com/where-to-go-in-vietnam/), [Hanoi](https://www.travellikeanna.com/things-to-do-hanoi/) and [Singapore](https://www.travellikeanna.com/best-things-to-do-in-singapore/) !
+
+Left: Doi Inthanon National Park; Right: Sticky Waterfalls (Bua Thong)
+## The Best Day Trips from Chiang Mai
+
+If you don’t have a motorbike or car for day trips, I’d recommend booking transfers or tours through [Klook](https://klook.tp.st/Dzm8QC5d), an online travel booking site with the best deals in Asia. You get 5% off your first booking and [discounts off future bookings](https://klook.tp.st/Dzm8QC5d) just for leaving reviews!
+
+[Cooking Classes](https://klook.tpk.ro/WKS9Ggos) – Chiang Mai is a total foodie town, so it’s a great place for a cooking class. I really loved the full-day cooking class at [Grandma’s Cooking School](https://klook.tpk.ro/WKS9Ggos), which I booked on [Klook](https://klook.tpk.ro/WKS9Ggos). We made six dishes, including dessert. They even have a photographer shooting the entire time and give you the photos for free along with the recipes! I’ve also heard good things about [Asia Scenic](https://www.asiascenic.com/). (1,200-800 baht/$50-65 USD).
+
+Grand Canyon – This former limestone quarry carved out of red clay soil is a stunning place to relax and swim. It’s broken into three separate sections and two appear to be commercial – one [waterpark/wake park](https://www.facebook.com/Grandcanyonwaterpark/) on the far left of the canyon and a smaller water park in the center. Both have inflatable obstacle courses, cliff jumping and bamboo rafts for floating. Be careful with cliff jumping as deaths have been reported. Entry 300-150 baht depending on which park you visit.
+
+Sticky Waterfall (Bua Thong) – This multi-tiered waterfall (my favorite!) is made of limestone and mineral deposits. The rocks are easy to walk on without slipping, hence, the name “sticky waterfalls.” It’s fed by a natural spring that’s connected to the parking lot by a path. There’s a series of ropes and wooden railings to assist with climbing. Entry is currently free. It a 90-minute drive from town so a [day tour through Klook](https://klook.tp.st/lqlOp5C9), motorbike, rental car or [Grab](https://www.grab.com/) (ride share app) are your best options. Go early to have the place to yourself.
+
+Monk’s Trail – This hiking trail leads up to the city’s most famous temple – Doi Suthep and passes a smaller temple Wat Pha Lat. The first portion of the trail is easy but after the first temple, it gets steep. You can take a songthaew down after the end of the hike. Depending on your fitness level, it can take roughly 90 minutes one-way. Check [AllTrails for the route](https://www.alltrails.com/trail/thailand/chiang-mai/doi-suthep-monk-trail).
+
+A two-week old baby elephant and her mother at Journey to Freedom, an ethically-run elephant experience near Chiang Mai. Photos by Chris Rufflo.
+
+Ethical Elephant Sanctuaries – While there’s no shortage of elephant activities around Chiang Mai, only book with ethical companies that don’t allow riding like [Elephant Nature Park,](https://www.elephantnaturepark.org/) an elephant rescue and rehabilitation center that offers half, full and overnight tours along with volunteer opportunities. For an intimate wilderness adventure experience with jungle treks and volunteering, consider the four- or seven-day overnight programs at [Journey to Freedom](https://www.asianelephantprojects.com/journey-to-freedom/).
+
+Meditation Retreat – Wat Suan Dok offers weekly meditation retreats ranging from a one-day retreat on Monday and Fridays; weekly two-day retreats Tuesday to Wednesday and monthly four-day retreats. The one-day retreats are free but donations are appreciated. Two-day retreats are 800 baht. For more information, visit [monkchat.net](https://www.monkchat.net/) or stop by the monk chat office at the temple. (I personally LOVED the one-day retreat!)
+
+Monk Chat – Wat Suan Dok offer chats on weekdays from 5-7 p.m. and Wat Chedi Luang in the old city offers it weekdays from 9 a.m. – 6 p.m. Both are organized by Wat Suan Dok’s Buddhist university, [monkchat.net](https://www.monkchat.net/).
+
+Doi Inthanon National Park– This national park is home to Thailand’s tallest peak at 8,415 feet! It’s also filled with hiking trails and waterfalls. It’s popular with cyclists as well. It’s located 70 kilometers from Chiang Mai, but there’s no public transport unfortunately. (I usually rent a car or hire a [Grab](https://www.grab.com/) driver for the day and split it with friends for day trips.) If you don’t feel comfortable renting a car, consider booking a [day trip through Klook](https://klook.tp.st/zd4biB7E).
+## The Best Public Parks in Chiang Mai
+
+The Chiang Mai Flower Festival is held at Chiang Mai Chaloem Phrakiat Park (Chiang Mai PAO Public Park) from November to early January.
+
+Chiang Mai has some hidden parks that are a must-visit. My favorite is the well-manicured Buak Hard Public Park, the only greenspace in the old city that acts as a public gym. At sunset, the park comes alive— locals play takraw (foot volleyball on a badminton court) and foreigners slackline in the acroyoga corner, while runners loop the track. There’ s stationary workout equipment and a nightly 20 Baht aerobics class, which is tougher than it looks! A flower festival is held here every February.
+
+Chiang Mai Chaloem Phrakiat Park (also known as Chiang Mai PAO Public Park) is the city’s largest public park with immaculate paved trails and photogenic green spaces. It opened in late 2024 and hosts a free annual flower festival from November to early January. It’s the best place to go for a run in the city.
+## The Best Chiang Mai Museums
+
+FAM Fahlanna Art Museum is Chiang Mai’s newest with rotating art and historical exhibits.
+
+For a deeper insight into the history of Chiang Mai and the Lanna culture, stop by the [Chiang Mai City Arts and Cultural Center](https://cmocity.com/chiang-mai-art-cultural-centre/) and [Lanna Folklife Center](https://cmocity.com/lanna-folklife-museum/) (my favorite of the two) in the central part of the old city by the Three Kings Monument plaza, a favorite nighttime haunt of local teenage skateboarders. Entry to each is 90 Baht ($2.89 USD). These are great spots to escape the heat.
+
+Newly opened in late 2025, the modern [FAM Fahlanna Art Museum](https://www.fahlannaartmuseum.com/) features both historical and rotating art exhibitions on the Lanna culture. The entry fee is steep (999 Baht/$32 USD), but there’s a promotional rate of 555 Baht currently, with a free cafe drink included. While I enjoyed the museum, it did feel overpriced.
+
+[Kalm Village](https://www.kalmvillage.com/) is a free arts, crafts and culture center housed in a serene three-story complex tucked in a quiet lane in the old city. It offers a series of paid yoga and craft workshops. If you just want to chill, there’s a restaurant, coffee shop and a series of comfy chairs for lounging in the shaded courtyard.
+## The Best Places to Eat in Chiang Mai
+
+Left: Mango sticky rice; Right: Coconut yogurt bowl from Goodsouls Kitchen.
+### Budget Meals in Chiang Mai Under 100 Baht / $3 USD
+
+Moo Ping Khun Por – This breakfast and lunch spot in Nimman serves up one of my favorite Thai dishes — moo ping (grilled pork usually in coconut milk) and khao niew (sticky rice). They also have chicken as well. 27 Nimmana Haeminda Rd Lane 11
+
+Anchan Noodle – This local spot is famous for blue noodles, which get the hue from butterfly pea tea. The noodles are served with a variety of meat choices and spicy dipping sauce. Only open for breakfast and lunch. 19/1 Siri Mangkalajarn Rd Lane 9.
+
+Ming Kwan Vegetarian Restaurant – The vegan khao soi might just be my favorite khao soi in town (and I’m not vegan!)! This spot is budget-friendly and super tasty. I also recommend the veggie Northern Thai sausage! 98 Rachadamnoen Rd Soi 4 (Near Wat Phra Sing)
+
+Mall Food Courts – All malls in Thailand have cheap (and super tasty) food courts with local stalls serving fresh food. The basement level of the Maya Mall and Central Festival are two good ones. The 4th floor of Central Festival is nice as well. I usually eat a meal for 50-60 baht ($2 USD).
+
+[Khao Tom Baht Diao](https://www.facebook.com/pages/Khao-Tom-Baht-Diao/506048913235398) – This is the cheapest spot in town for both food and beer with the most convenient hours. Portions are small, but it’s so cheap it doesn’t matter so just order a second dish. It’s open from 5 p.m. to 2 a.m. daily so it’s good any time of day!
+
+Ploen Ruedee Night Market – This hip food truck market is located right beside the sprawling night market. It’s filled with tons of options for eating and small shops. There’s usually live music and cold beer readily available. 28/3-4 Changklan Rd.
+
+Chang Phueak (North Gate) Market – Every night there’s a sprawling local food market located outside the walls of the old city across from the north gate. It winds down around 9 p.m. Highlights are the pork rice lady who wears a cowboy hat at Chang Phueak Pork Leg Rice, which was on Anthony Bourdain, and the sukiyaki spot (Suki Changphuak) that’s just over a few stalls from her. (The sukiyaki spot was on a Netflix show, so it’s always got a line. Get a number when you arrive and expect at least an hour wait!) I also love the roti pancake guy by the stoplight.
+
+Left: Northern Thai dishes from Huen Muan Jai. Right: The purple butterfly pea noodles from Anchan Noodle.
+### Meals from 100 baht/$3 USD and higher
+
+(Most of these spots are around 200-250 baht ($7 USD) depending on what you order.)
+
+[Goodsouls Kitchen](https://www.facebook.com/goodsoulskitchen/) – This vegan spot is my go-to breakfast spot. (I’m far from vegan but love the fruit bowl and homemade coconut yogurt and granola.) The dinner options and mains are also delicious. I dream of this place when I’m not in Thailand. 52/2 Singharat Rd.
+
+Khao Soi Nimman (Michelin-Guide listed)– This is my next favorite khao soi spot in town. It’s open much later than the others. The northern Thai sausage is the best and spiciest option, but the fried pork is also good. 22 Nimmana Haeminda Rd Lane 7.
+
+Goodneighbor Cafe – This hidden breakfast spot is one of the best in town for bagels and coffee. The chill vibe is also great. 149, 49 M.2 Soi. Ban Pae, Chang Phueak.
+
+[SP Chicken](https://share.google/BHM7ep1WA2hm838Gx) – Rotisserie chicken, sticky rice and spicy stir-fried morning glory are my favorite meal at this local spot in the old city near Wat Phra Singh. Only open for breakfast and lunch.
+
+Night & Day Resturant – For craft beer and northern Thai food, there’s no better place than this local favorite. This is off the tourist trail, which is why I love it. The hang lay curry is amazing, too. 34, 13, Suthep. (They opened a second location near Nimman called [LaabReun Home Cuisine.](https://www.facebook.com/profile.php?id=61571200291909&mibextid=wwXIfr&rdid=j3dQzhQCAYh0amkw&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1B3C7j7nFx%2F%3Fmibextid%3DwwXIfr) )
+
+Khao Soy Maesai (Michelin-Guide listed) – This local spot serves up the best khao soi (northern Thai soup curry) in town. It’s only open from 8 a.m. to 4 p.m. Arrive early for the best selection. I recommend the chicken and to get extra pickled veggies to add in! 29, 1 Ratchaphuek Alley
+
+[Klay Cafe](https://www.klaythailand.com/), [Groon Bread & Brunch Cafe](https://www.instagram.com/groon.cafe/?hl=en) and [The Moon Eatery](https://www.instagram.com/themooncnx_cafe/?hl=en) are three of my favorite brunch spots in Nimman area. They all open around 8:30 a.m., which is early for the neighborhood! They each have homemade bread or bagels! [Rob’s Berry](https://maps.app.goo.gl/SNYQedrUWXozQgNeA) does excellent homemade yogurt bowls.
+
+A tray of four meats (brisket, pork ribs, pulled pork and sausage) with sides of fried okra slaw and a mustard-based potato salad at Dinky’s BBQ.
+
+[Dinky’s BBQ](https://dinkysbbq.com/) – That’s right Chiang Mai has authentic Texas barbecue made by an Austinite! Choose from brisket, pulled pork and sausage. The side dishes (slaw, potato salad and fried okra) are tasty just like their homemade tortillas for their tacos. There are several sauce choices, but the mustard is my favorite, which is crazy because I normally hate mustard. For more about Dinky’s, read the [Texas Monthly story](https://www.texasmonthly.com/bbq/how-one-austinite-is-bringing-central-texas-style-bbq-to-thailand/) I wrote and photographed.
+
+Huen Muan Jai (Michelin-Guide listed) – Located diagonally from Khao Soy Maesai, this is another popular restaurant specializing in Northern Thai food. I recommend their sampler platter and the hung lay curry with pork. 24 Ratchaphuek Alley.
+
+Cherng Doi Roast Chicken (Michelin-Guide listed) – There will be a line at this hole-in-the-wall spot. The roast chicken with tamarind sauce is amazing! The menu offers a lot of other chicken dishes along with creative somtam (green papaya salad) options. 2/8 Suk Kasame Rd.
+
+Tong Tem Toh (Michelin-Guide listed) – There’s always a line at this Nimman spot that serves up traditional northern Thai favorites like Hang Lay curry and red ant dishes. The chicken wings are perfection. 11/ 13 Nimmanahaeminda Road.
+
+[The Salad Concept](https://www.thesaladconcept.com/) – If you’re missing your veggies or are sick, this is the best spot in town. There’s a massive selection of build-your-own salads and wraps. The portions are huge and range from 100-150 baht/$4-5 USD for a main. There are two locations.
+
+The FACES Gallery & Gastro Bar – Hidden in the southern corner of the old city, this fancy spot serves up tasty Thai food in a beautiful setting. Terracotta carvings line the walls. The atmosphere of this spot is 10/10! 33 ถนน Ratchamanka Soi 6.
+
+[The Hide Out](https://thehideoutcm.com/) – With homemade bagels, this is one of the best western breakfast and brunch spots in Chiang Mai. It’s not far from Tha Phae Gate.
+## Where to Stay in Chiang Mai
+
+The [Amanor Hotel](https://booking.tp.st/6pVHLwFa) is one of the nicest hotels in the Nimman neighborhood and has my favorite rooftop bar. Photo courtesy of Expedia.
+### The Best Hotels in Chiang Mai
+
+For the best hotels in Chiang Mai’s Nimman neighborhood, I recommend [Hotel YaYee](https://tidd.ly/4gUhysX) ( $38 USD/night) or Amano r Hotel ($138 USD/night) that both have great rooftop bars. The latter has an infinity pool. Both hotels bars are open to the public if you decide to stay elsewhere. A quiet, family-run option is the modern and sleek [Chern Chiangmai Boutique Hotel](https://booking.tpk.ro/vjpxovtB?trs=363506&journey_id=0bGcy-QWJvw_fE6Z627kn&trace_id=Zzac280aa72f6146cbb9394e6-584387&promo_kind=tp_short&page_url=https%3A%2F%2Fwww.travellikeanna.com%2Fphoto-guide-to-thailand%2F&product_type=tp_manual&install_type=partner) ($65 USD/night).
+
+In Chiang Mai’s Old City, [Baan Hanibah](https://booking.tp.st/pStm767F) ($82/night) is a lovely family-run guesthouse with comfortable rooms in the northeast corner, while [Marigold Lanna Hotel](https://booking.tpk.ro/jdCk9giL) is a cute comfy spot in the southwest corner. [Smile Lanna Hotel](https://booking.tpk.ro/klnqbMtB?trs=363506&journey_id=Snao1sZekUKyfgxXcMBdF&trace_id=Zzac280aa72f6146cbb9394e6-584387&promo_kind=tp_short&page_url=https%3A%2F%2Fwww.travellikeanna.com%2Fphoto-guide-to-thailand%2F&product_type=tp_manual&install_type=partner) ($82/ USD night) has a stunning pool. Hotel rates vary by season.
+### The Best Hostels in the Old City
+
+For the best hostels in Chiang Mai’s old city, try the sleek rooms at [The Common Hostel](https://tidd.ly/3ZVVfgJ) ($10 USD/night) or [Pakping Hostel,](https://tidd.ly/3NcOUFS) which have private bunks with curtains and individual plugs. In Nimman, the highest rated hostels with the best location are [Ray Hostel](https://tidd.ly/4eR9pDM) and [Bed Addict Hostel](https://tidd.ly/47RmIC4). Both are around $13-14 USD/night. (Things are always slightly pricer in Nimman than the old city.)
+### Weekly & Monthly Room Rentals in Chiang Mai
+
+There’s no shortage of monthly rentals in town. The best ones book out in advance. I’ve included several locations to show the wide variety of options. I prefer to pay $300-400/month personally depending on if I get a studio or a one-bedroom. Electric and water is usually not included. (I pay around $50USD/month for utilities.) A one-month deposit is also required.
+
+[Mirror Chiang Mai](https://themirrorchiangmai.com/) – These apartments are family-owned with both one- and two-bedroom units ranging from $540-840 USD/month. The same company owns PT Residences next door, which offers clean but dated apartments starting at $300/month. Weekly cleanings are included.
+
+[Huay Kaew Residence –](https://www.huaykaewresidence.com/) This is the most budget friendly and centrally located spot in town for both the old city and Nimman. The good news: there’s a pool and the complex is huge so there’s always availability. The bad news: the beds are literally like sleeping on a wooden board. Studios start around 3,500 baht/$117 USD per month for 24 square meters.
+
+[Liv@Nimman](https://perfecthomes.co.th/livnimman-chiang-mais-trendiest-condos/) – This modern condo building is swanky and includes a stunning pool. It’s located in the heart of Nimman near Maya Mall. One bedroom apartments start at $672/month.
+
+[Green Hill Place –](https://greenhillplace.com/) This modern apartment building has two NICE pools and a gym. It’s located by Maya Mall. One bedroom units start at 10,000 baht/$336 USD.
+## Live Music & Free Events in Chiang Mai
+
+North Gate Jazz in Chiang Mai’s Old City
+
+There’s no shortage of live music spots and open mic nights in Chiang Mai. My three favorite live music spots are [North Gate Jazz Co-op](https://www.facebook.com/northgate.jazzcoop/) (open mic night is Tuesdays), [Boy Blues Bar](https://www.facebook.com/pages/Boy-Blues-Bar/171176179567635) in the Night Bazaar and [Thapae East](https://www.instagram.com/thapae_east/?hl=en), a chill spot not far from the Ping River.
+
+[One Nimman](http://instagram.com/onenimman_chiangmai/?hl=en) – This huge shopping complex offers free events, including dance classes (salsa, swing and tango) and yoga classes. Check timings before visiting as events can change often. There’s always an event or market in the courtyard on weekends, and the White Market is set up along the side street Thursday to Sunday afternoons and evenings.
+
+[Jing Jai Farmer’s Market –](https://www.facebook.com/jjmarketchiangmai/) This weekly farmer’s market is a must-visit! Aside from fresh produce, there’s a whole section of food stalls ranging from freshly baked banana bread to dumplings. The vendors are also really unique artists and not touristy at all. Open every Saturday and Sunday from roughly 6:30 a.m. to 2 p.m.
+## The Best Coworking Spaces in Chiang Mai
+
+Left: Punspace Nimman is closed but their Wiang Kaew location is great. ; Right: The Coco Club coworking in Chiang Mai.
+
+There’s new coworking spaces opening all the time, and it’s best to choose a place based on where you live. Cafes are always a great backup option. I’ve always gone to [Punspace](https://www.punspace.com/), which has only two locations in old town because their Nimman branch closed during the pandemic. (Wiang Kaew is the most social of the two branches.)
+
+In Nimman, there is [Yellow](https://www.yellowincubator.com/coworking), a large space that’s always packed, and the newest addition is [OpenHub](https://openhub.co.th/) near Maya Mall is great for coworking and private offices. [CAMP,](https://www.facebook.com/p/CAMP-100063653855955/) a 24-hour cafe in Maya Mall, is a popular workspace.
+
+Other options include [Hub53](https://www.hub53.com/) (offers unlimited and hourly plans) and the Bali-style luxury of [The Coco Club](https://www.facebook.com/cocokala.co/) offering day passes and a swanky pool!
+## The Best Gyms in Chiang Mai
+
+Maxx Fitness at Maya Mall
+
+These gyms are located around the Nimman area and I’ve tried them all! (I am picky about gyms when it comes to equipment and air conditioning.) Prices can change frequently so be sure to check with the gyms directly!
+
+[Maxx Fitness –](https://www.facebook.com/maxxprofessionalfitness) This is the nicest gym in the Nimman area and the priciest. It’s located in the Maya Mall and has excellent air circulation and climate control. The equipment is all new and classes are offered. The monthly membership fee is 1,699 baht ($50 USD).
+
+[Jett Fitness](https://www.jetts.co.th/) – This chain gym is located in the One Nimman shopping complex. It’s actually a fairly small and awkward space, so I decided to stick to Maxx Fitness instead. They have a good amount of equipment, but Maxx is still best in my opinion.
+
+[Playground Fitness Chiang Mai](https://pgcnx.com/gym/p) – When this gym opened, I initially didn’t like it because it was a small space, and the main floor area was used for classes in the mornings and evenings. It’s moved to a new space, so perhaps things are better. Monthly memberships start at 2,000 baht/ $64 USD. Sai 26 Road Suthep.
+
+[Harris Fitness Center](https://www.facebook.com/pages/category/Sports---Fitness-Instruction/Harris-Fitness-Center-407921262617464/) – This is one of the most budget options in town located in the Lotus Hotel. It’s a cramped space with older equipment but lots of options. Classes are also included for free. The staff is really friendly. It doesn’t have great airflow or a/c. Rates are 1,250 baht/month ($42 USD) and 600 baht weekly ($20). 21 Huaykaew Rd.
+
+[Gold Hillside Gym & Fitness](https://www.facebook.com/GoldHillsideGymandFitness) – (1,100 baht/$37 USD month) This gym is located in the bottom of Hillside Condo 3. It’s a nice-sized space but a bit dated. It’s got good airflow but just didn’t have the equipment I wanted. 25 Huaykaew Rd.
+
+[The Wall Fitness Studio](https://thewallfitnessstudio.com/) – (1,600 baht/$50 USD month or 200 baht/$6 USD day) This new modern gym is located behind the Maya Mall. It’s a large space filled with lots of equipment. Daily and monthly passes are available. (This is the only one I haven’t tried yet because I just love Maxx so much.) 49/22 Huay Kaew Rd.
+
+[Vira Yoga Studio](https://www.virayogastudio.com/) – My friend Wee has a great yoga studio that I recommend. Class schedules can be found [online](https://www.virayogastudio.com/). He also teaches the 8:30 a.m. class Maxx Fitness on Wednesdays, too.
+## Best Muay Thai Gyms in Chiang Mai
+
+There is a Muay Thai gym in every corner of the city, but I love [Heavy Hit Boxing Gym](https://www.facebook.com/heavyhitboxing/) located southeast of the city. This gym is only pad work and by appointment only (1.5 hours, 350 baht), so it feels like more one-on-one training. There’s never more than a handful of people here. I feel like there’s more individual instruction here to help me improve my form. I’d recommend Heavy Hit first if you’re new to Muay Thai. Book via Facebook or Line.
+
+[Bear Fight Club Chiang Mai](https://www.thebearfightclub.com/) is another spot I frequent because I like the trainers. (They just moved to a bigger location south of town.) Classes are roughly 2.5 hours and 400 baht. It’s the most intense and also the most crowded, which is intimidating if you’re new. It can get too crowded for me, so I will only go early on weekdays. If you want to train to fight, this is the spot.
+
+The other option I’ve tired is [Chiang Mai Muay Thai](https://www.facebook.com/Chiangmai.Muay.Thai.Gym/), which has the most frequent class times. Classes are shorter (1.5 hours) for 390 baht. It’s located in the old city and can also get slammed with people.
+## The Best Shopping & Markets in Chiang Mai
+
+The art galleries of Baan Kan Wat are just a few miles from Chiang Mai’s old city.
+
+[Baan Kan Wat](https://www.facebook.com/Baankangwat) – An adorable artist village just a few miles from Chiang Mai’s old town filled with galleries and cute cafes. Many spots offer workshops and classes. The village is a winding pathway through some cool building designs. It’s a lovely way to spend a few hours. Open Tuesday to Sunday 10 a.m. to 6 p.m.
+
+[Jing Jai Farmer’s Market –](https://www.instagram.com/jingjaimarketchiangmai/) The best place for shopping for unique items is Chiang Mai’s weekly farmer’s market! It’s a must-visit spot. There are no elephant pants or tourist trinkets here, which is part of the appeal. Most of the clothing is homemade. There’s an entire food court serving up everything from popsicles to dumplings. Open every Saturday and Sunday from roughly 6:30 a.m. to 2 p.m.
+
+Chiang Mai Night Bazaar – This is the main night market in town and runs every night from 6 -11:30 p.m. It’s a good place for food, souvenirs, clothing, luggage, etc. Intersection of Chang Khlan Road and Loi Khro Road.
+
+Talat Warorot – This is where all the locals go to shop – a sprawling complex with food, cheap (not quality) suitcases, clothes, etc. Cnr Th Chang Moi & Th Praisani
+
+Sunday Walking Street – This is a haven for street food and basic souvenirs, but it’s so crowded you feel like you’re at a music festival smashed against the person in front of you. Rachadamnoen Rd.
+
+Ploen Ruedee Night Market – This food truck market is located near/in the night bazaar. It’s got a wide variety of food options, alcohol, live music and clothing vendors. It’s my favorite spot in the night bazaar. 28/3-4 Changklan Rd
+## The Best Shopping Malls in Chiang Mai
+
+The largest mall in town is [Central Festival](https://www.central.co.th/en/store/central-festival-chiangmai), which is outside the city center. [Maya Mall](https://mayashoppingcenter.com/) in Nimman and [Central Chiang Mai Airport](https://www.centralpattana.co.th/en/our-business/shopping-center/309/central-chiangmai-airport), largest mall in Northern Thailand.
+
+All three have movie theaters and pharmacies – the British chains Boots and Watsons along with a Pharmacare Plus (usually the cheapest). From a shopping standpoint, there’s every chain from H&M to Zara to Uniqlo in at least one of these malls. Each mall has a food court with cheap and tasty eats (all homecooked Thai food), which I always frequent. Maya and Central Festival have a Daiso, the Japanese dollar store which is the most useful store on the planet.
+## Where to get a haircut in Chiang Mai
+
+While there’s plenty of places around to get a haircut, I like [New York New York](https://newyorknewyorkstudio.com/) in Nimman. It’s an Aveda salon, and they do a good job. (I’ve had so many terrible haircuts abroad that I’m really picky about places since I have short hair!) Prices range from 550-850 baht ($18-28 USD) for a wash and cut.
+## The Best Thai Massage in Chiang Mai
+
+Oasis Spa Nimman branch is one of the nicest spas in Chiang Mai.
+
+[Oasis Spa](https://oasisspa.net/) is hands down the best and nicest place to get a massage in Chiang Mai but also one of the priciest. Book an appointment before 1 p.m. online to save 20 percent! (I got a 90-minute hot oil massage there last week for roughly $1,900 Baht/ $61 USD after the discount.)There are two locations (Nimman and Old City).
+
+The runner up is [Fah Lanna Spa](https://fahlanna.com/) with three locations in the Old City, Night Market and Nimman. It’s about 25 percent cheaper than Oasis, but the facilities aren’t as nice. (Don’t get me wrong—they are really nice but nothing compared to Oasis.) A 90-minute Thai massage is 1,150 Baht. Check [Klook for massage deals](https://klook.tp.st/un2vTqRP) at both Fah Lanna and Oasis!
+
+My favorite budget-friendly massage spot is [Phuphaya Massage and Spa](https://maps.app.goo.gl/izKt8F4N5aKhECDG9) in Nimman for a 300-baht, hour-long Thai massage. The nicest budget-friendly spot is [Sense Massage & Spa](https://www.facebook.com/profile.php?id=61567200894910), which has multiple locations, and charges 450 Baht for a 60-minute Thai massage. (The Nimaman one books out in advance, so reserve early.) In the Old City, [Chinola Massage](https://chinolamassage.com/) is a solid option starting at 450 Baht.
+# Chiang Mai FAQ
+
+[SafetyWing travel medical insurance](https://safetywing.com/nomad-insurance/?referenceID=24747560&campaign=chiang-mai-post&utm_campaign=chiang-mai-post&utm_source=24747560&utm_medium=Ambassador) covers Thailand and over 180 countries
+## Do you need travel medical insurance for Thailand?
+
+Yes, travel medical insurance is one of the most important things to purchase for any trip abroad, especially Thailand. It covers all the things that could go wrong from injuries to travel delays, so that you don’t have to worry and can focus on traveling!
+
+[SafetyWing’s Nomad Insurance](https://safetywing.com/nomad-insurance/?referenceID=24747560&campaign=chiang-mai-post&utm_campaign=chiang-mai-post&utm_source=24747560&utm_medium=Ambassador) offers $0 deductible travel medical insurance coverage for over 180 countries for people aged 69 and under when traveling outside their home country. The best part is that it only costs a few dollars a day! If you get sick or injured abroad, you can visit any hospital or doctor.
+
+Other [benefits of Nomad Insurance](https://safetywing.com/nomad-insurance) include coverage for lost checked luggage, travel delays over 12 hours, motor accidents (if properly licensed, wearing all safety equipment and not intoxicated) and injuries from sports or leisure activities. You can even add adventure sports, electronics theft and U.S. coverage (for non-residents) to your policy.
+
+One of the best things about [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=24747560&campaign=chiang-mai-post&utm_campaign=chiang-mai-post&utm_source=24747560&utm_medium=Ambassador) is that you can buy policies abroad and speak to a REAL human from the 24/7 customer support team if you have questions! (I can vouch that they are excellent at assisting and will follow up with you afterward.) Pay in full or choose an auto-renewing plan that can be canceled anytime.
+
+Plus, every single part of the process from purchasing a policy to filing a claim is easy, which is why [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=24747560&utm_source=24747560&utm_medium=Ambassador) has been the best travel medical insurance policy for me. Read my [review of using SafetyWing in Thailand](https://www.travellikeanna.com/safetywing-travel-insurance-review/).
+
+Wat Doi Suthep, Chiang Mai, Thailand
+## When to Go to Chiang Mai
+
+The best time to visit Chiang Mai is in the dry, cooler months from November to February. Temperatures are in the 70s/80s with lows in 60s. Beware of the burning season when the fields in the north are burned and the smoke heavily pollutes the city to unsafe air quality levels, which is normally February and March. (Download the free [Air Visual](https://www.airvisual.com/air-quality-app) app to check air quality levels!) It can start as early as late December. April and May are steaming hot. The monsoon rains arrive in June but peak in August/September.
+## How to get to Chiang Mai
+
+The easiest way to get to Chiang Mai is to fly! International flight options are expanding with direct routes to Singapore on Scoot Airways (love this airline!) and Hong Kong via Cathy Pacific. Domestic flights are available from Bangkok and other large cities. There’s a train to Bangkok that takes roughly 12 hours and is always late. (I love the sleeper car. A bottom bunk is roughly $50.) [Buses are the cheapest](https://12go.tpk.ro/dhUaEb8h) ($20ish) and take about 10 hours from Bangkok. For prices, check at the station directly or buy in advance from [12Go.Asia](https://12go.tpk.ro/dhUaEb8h).
+## Local Transport in Chiang Mai
+
+Flag down a red songthaew, a pickup truck with benches in the back, for a cheap lift around town. It’s 30 Baht flat rate.
+
+The local transport in Chiang Mai revolves around a system of songthaews—pickup trucks with two benches in the back —that are constantly on the prowl for business. There’s a few different color truck lines (yellow, red, etc.) but the red ones will take you just about anywhere in the city for 30 baht ($1). I use these a lot and find it’s best to tell the driver a large landmark near where I want to go like Maya Mall or Tha Phae Gate. It’s really important to support the songthaews, so they don’t get replaced by Grab or other rideshare apps!
+
+Chiang Mai City Bus Map. Source: [https://www.facebook.com/rtccmcitybus](https://www.facebook.com/rtccmcitybus)
+
+There are currently two city bus lines that both service the airport. Fare is 30 baht. It’s hard to find a good English map, so refer to maps posted in airport when you arrive. The bus line has a [Facebook page](https://www.facebook.com/rtccmcitybus) that’s mostly in Thai, but the [airport website](https://chiangmai.airportthai.co.th/service/transportation/detail/139) lists the stops. Don’t expect buses to run on time. (The previous system, which disappeared during the pandemic, was only consistent at the terminal stops from my experience.)
+
+There are several rideshare apps, including [Grab](https://www.grab.com/) (most reliable) that offers both car, bike taxi and food delivery options. Helmets aren’t always provided for bike taxis. [Maxim](https://taximaxim.com/th/en/9335-chiang+mai/order-a-taxi-online) is a new rideshare app that’s a bit cheaper than Grab but less relaible. Bolt works in Chiang Mai, too, but I’ve never had good experience with it.
+
+Tuk tuks are a total tourist trap and outrageously expensive. Avoid them across Thailand, unless you can get them to match the pricing in a rideshare app.
+## Car & Motorbike Rentals in Chiang Mai
+
+Motorbikes can be rented just about anywhere in town for roughly 200 baht/day ($6.60 USD). There’s several places along Huay Kaew Road.
+
+SAFETY ALERT: If you don’t have a Thai license or an international motorcycle license, most [travel insurance companies](https://www.travellikeanna.com/travel-insurance-101/) will NOT cover you if there’s an accident. The police also set up regular check points around the city and fines are 500 baht ($16.50 USD) if you don’t have a proper license.
+
+I’ve rented a car from [Budgetcatcher Car and Scooter Rental](https://www.budgetcatcher.com/) in Nimman and had a great experience. It was roughly $30/day for a car.
+## Where’s the best place to buy an eSIM card
+in Chiang Mai?
+
+The easiest thing to do is buy a [Thailand specific eSIM card](https://www.airalo.com/thailand-esim) from [Airalo](https://airalo.pxf.io/c/2700461/1268485/15608) that will work instantly when you arrive. If you are traveling to multiple countries in Southeast Asia on a short trip, then consider one of their [Asia Regional eSIM cards](https://airalo.tpk.ro/4BitBf84). (Both the country-specific and regional eSIMs have worked wonderfully for me and even have a mobile hotspot option that’s critical for me because I’m always working remotely.) Keep in mind it’s always cheaper to buy a country specific eSIM than a regional one. For more details, read my [Airalo review for Southeast Asia.](https://www.travellikeanna.com/airalo-international-esim-review-for-iphone/)
+
+Be sure to join the free [Airalo Loyalty Program](https://airalo.tpk.ro/7F6ISGYV) to earn 5% cash back for every purchase, which can be redeemed on future purchases. For more about eSIM cards, check out [this post!!](https://www.travellikeanna.com/pros-cons-of-esim-cards-for-travel/) Airalo Promo Codes: New customers save [15% off with NEWTOAIRALO15](https://airalo.tp.st/ek1e3rU6?trs=363506&journey_id=u9erWed2J7lnU8uB8KLxI&trace_id=Zz0ed21530aafe42cabb59cd2-584387&promo_kind=tp_short&page_url=https%3A%2F%2Fwww.travellikeanna.com%2Fpros-cons-of-esim-cards-for-travel%2F) and existing users [save 10% with AIRALOESIM10.](https://airalo.tp.st/ek1e3rU6/?trs=363506&journey_id=xfg8dMKWphH5aqq7qZT9v&trace_id=Zz0ed21530aafe42cabb59cd2-584387&promo_kind=tp_short&page_url=https%3A%2F%2Fwww.travellikeanna.com%2Fpros-cons-of-esim-cards-for-travel%2F)
+
+If you’re going to be traveling in Thailand for while, then buying a local SIM or eSIM when you arrive will offer the best value and maximum data. The main carriers are [AIS](https://www.ais.co.th/en/), [DTAC](https://www.dtac.co.th/home.html) and [TrueMove](https://truemoveh.truecorp.co.th/?ln=en). I’ve always used AIS so that’s my preference since coverage is good everywhere I’ve been in the country. You have to show your passport to get a SIM card, which is pretty common in most countries. It’s always more expensive to buy it at the airport.
+
+When I arrived in Thailand, I bought a 30-day plan with 6 GB from AIS in airport for $19 USD. When I topped it up at the AIS in Maya Mall, they offered me a new sim card with a better plan with unlimited data for $8.28 USD. You can top up at machines at 7Elevens or at the retail stores for all the main carriers.
+# The Chiang Mai Lantern Festival
+
+The monk ceremony during the Yee Peng Festival at Wat Phaotao in Chiang Mai. (This temple was remodeled, and this pond no longer exists sadly.)
+
+One of the big festivals in Chiang Mai is the Yee Peng (also spelled Yi Peng) Festival that’s held during the full moon of the twelfth lunar month every year (usually in November). This festival of lights is known as the lantern festival and also coincides with Loy Krathong. The best locations for the festival are the Three Kings Monument, Ping River to launch the krathongs (small floats made from banana leaves and flowers) and the bridge over the Ping River.
+
+Events vary every year. Many temples like Wat Phantao and Wat Chedi Luang will have ceremonies. In 2022 and 2024, Wat Chedi Lunag had a cool light show reflected on the temple. There’s always a parade by Tha Phae Gate one night.
+
+Before COVID, people were releasing lanterns everywhere, which was a real fire hazard. I literally saw a roof on fire by Tha Phae gate! The city seems to be cracking down on the lanterns for safety reasons. Every year it seems to vary. Sometimes, I’ve seen them release them across the Ping River but away from the buildings.
+
+The [main “lantern” release is an overpriced event](https://yipengchiangmailanternfestival.com/) outside of the city that sells out months in advance. It’s a nightmare to get to because it’s far from the city and you have to take shuttles. When you see photos online of a mass lantern release with no buildings in the background, this is what you are seeing photos of, not central Chiang Mai.
+## Where to get Medical Care in Chiang Mai
+
+The medical care in Thailand’s private hospitals is FANTASTIC, efficient and affordable. In Chiang Mai, [Chiang Mai RAM](https://www.chiangmairam.com/) near the old city and [Bangkok Hospital Chiang Mai](https://www.bangkokhospital-chiangmai.com/) near Central Festival mall are the two main hospitals. I’ve been to Bangkok Hospital many times and the facilities are really nice. (I get all of my routine annual health checks done in Thailand every year, which I’ve written about in [this blog post with a full cost breakdown](https://www.travellikeanna.com/why-you-should-go-abroad-for-medical-care/). I even get travel vaccines in Thailand because it’s easier and cheaper than the U.S.)
+
+For medicine, [Dara Pharmacy](https://www.facebook.com/p/DARA-Pharmacy-100064728757309/) near Central Festival Mall will have any medication you need and it will be at least half the price of Bangkok Hospital.
+## How to get Thailand Visa Extensions in Chiang Mai
+
+On July 15, 2024, Thailand implemented at 60-day visa upon entry for Americans and 92 other countries. Previously, a 30-day stamp was issued on arrival. After 60 days, you can extend your visa for 30 days at an immigration office. If you need more than 60 days, you’ll have to do a visa run, which I talk about below. There is also a new online system for applying for the extension.
+
+As of late 2025, immigration was cracking down on people doing visa runs. Due to this, I’m unsure how this will affect the 30-day extensions! Make sure to prepare in advance.
+### How to do a 30-Day Visa Extension in Chiang Mai (In-Person)
+
+These instructions apply to people who need to extend their 60-day visa stamp for another 30 days.
+
+The main Chiang Mai Immigration Office is located near the airport. (Address: 71 ถนนสนามบิน Mueang Chiang Mai District, Chiang Mai 50200) Hours are 8:30 a.m. – 4:30 p.m. There is also an immigration office at Central Festival mall.
+
+When you arrive, grab a number at the booth by the entrance. You’ll have to fill out the applications forms in the outdoor area to the left. For 30-day visa extensions, you’ll need bring following documents with you : a copy of your passport photo page, a copy of your entry stamp in your passport, a copy of where your accommodation listed you in the government registry, a passport-sized photo and the correct application form (TM.7 form provided at the entrance).
+
+If you forget copies or the photo, the gas station across the street has a booth set up to help. The cost for a 30-day extension is 1,900 baht cash. (Don’t worry – they give change if you don’t have exact change!) There are volunteer staff at a table to help make sure you have the correct paperwork, so be sure to have them look over your papers.
+
+When your number is called, you’ll go up to a window outside, and they’ll check your paperwork. You’ll be given a new number for the inside. Unless you arrive when they open, you’ll likely have to come back after lunch for the inside portion. They will give you the timing to come back when they give you your inside number.
+
+When they call your second number, you go inside, you’ll hand your forms to the main counter. They will give you a ticket with a number and barcode then you’ll be called up to the counter. Your number shows up on a screen. They will take your picture and get any other information they need. They’ll call your name a few minutes later to give you your passport with a blue receipt, which you need to show when you exit the country. The second part is really quick. It’s just the first part that’s so long. Set aside a whole day just to be safe and arrive when they open! The last time I did this it took almost the whole day. Please check their [website](https://www.chiangmaiimm.com/) for holiday closings.
+### How to do an 30-Day Visa Extension in Chiang Mai Online
+
+As of January 2025, you can now apply for an electronic extension for tourist visas. Book an [appointment online](https://thaiextension.vfsevisa.com/), upload the required documents (same as above), book an appointment and pay online. Once your extension is approved, you still have to physically go to immigration to get the extension stamp. The visa fee is 1,900 Baht. There are additional service fees: Regular (7 business days) 500 Baht; Express (3 business days) 1,500 Baht; and Urgent (next day but only if next day is a business day) 5,000 Baht. (I physically got this information off the sign at immigration.)
+### How to do a Border Visa Run from Chiang Mai
+
+If you need more than the 30-day extension or you have already done a 30-day extension, you’ll need to do a visa run to a land border or fly to another country. I recently did this and wanted to share my experience.
+
+IMPORTANT NOTE: Since the 60-day stamp was implemented in July 2024, land borders to Laos (closest crossing to Chiang Mai) require you spend two nights in Laos before reentering Thailand unless you go through an agency. (If you arrive at any Laos land border by yourself, you’ll likely have to spend two nights in Laos.) I saw signs at the Huay Xai crossing on my recent trip.
+
+I used [Chiang Mai Visa Run](https://chiangmaivisarun.com/) to take a full-day trip to the border and retuned the same day with a new 60-day stamp. I was picked up at Maya Mall at 6:30 a.m. and we returned around 5:30 p.m. The drive was close to five hours each way with one toilet stop. You send roughly an hour at the border. A immigration official mets the group and escorted us through the entire process, which took about an hour. Traffic getting back into Chiang Mai slowed things down a bit but otherwise it was pretty efficient. There were seven people on my trip total. Many people used this service to transfer to other visas like the Digital Nomad Visa, etc. The company screens all customers to make sure the visa run will work for your visa.
+
+The cost of the visa run is 4,300 baht ($127 USD) and an additional 2,000 baht ($59.14) for the Laos visa. You also have to pay 25 baht (74 cents USD) each way for the bus shuttle to cross the border bridge. (I booked through PayPal so there were some extra fees. In PayPal, make sure to select the option to let your bank do the currency conversion to save a few dollars.)
+
+Due to the visa change, it’s best to use an agency if you’re doing a visa run to the Cambodia border as well or fly out of the country.
+
+For more about Southeast Asia, check out these posts:
+
+[Where to go (and NOT go) in Vietnam](https://www.travellikeanna.com/where-to-go-in-vietnam/)
+
+[Where to go in Southeast Asia](https://www.travellikeanna.com/where-to-go-in-southeast-asia/)
+
+[A Photo Guide to Thailand](https://www.travellikeanna.com/photo-guide-to-thailand/) and [Bangkok](https://www.travellikeanna.com/things-to-do-in-bangkok/)
+
+[How to get to Cu Chi Tunnels by Public Bus in Vietnam](https://www.travellikeanna.com/how-to-get-to-the-cu-chu-tunnels-ben-douc-by-public-bus/)
+# The Chiang Mai Lantern Festival
+
+Hi, I’m Anna — a vagabond writer and photographer with bylines in [National Geographic, The Washington Post](https://www.nationalgeographic.com/travel/article/alternatives-to-angkor-wat) and [AFAR.](https://www.afar.com/authors/anna-mazurek) I’ve been traveling solo full-time for more than a decade and built this blog to help you (and your wallet) make the most of your adventures.
+#### Recent Posts
+
+[How to Stay Connected While Traveling](https://www.travellikeanna.com/stay-connected-traveling/)
+
+[SafetyWing Review: What Happened When My Flight Was Delayed 24 Hours](https://www.travellikeanna.com/safetywing-review-travel-delay/)
+
+[2-Week Eurail Itinerary: How to Travel Europe by Train (Budapest, Bratislava, Lake Bled & More)](https://www.travellikeanna.com/eurail-itinerary/)
+## Let's Swap TRAVEL Stories!
+
+Sign up for travel tips, location guides, expert interviews and updates from my adventures!

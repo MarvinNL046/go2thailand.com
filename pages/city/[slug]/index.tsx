@@ -34,6 +34,7 @@ import { CityFaqOverview } from '../../../components/city/CityFaqOverview';
 import { CityBookingPlanner } from '../../../components/city/CityBookingPlanner';
 import { CityCompleteGuide } from '../../../components/city/CityCompleteGuide';
 import { BangkokDestinationOverview } from '../../../components/city/BangkokDestinationOverview';
+import { ChiangMaiDestinationOverview } from '../../../components/city/ChiangMaiDestinationOverview';
 import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
 import { getEnDestinationGuide } from '../../../data/destinations/en';
 import { getNlDestinationGuide } from '../../../data/destinations/nl';
@@ -351,13 +352,16 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
     : null;
   const languageCode = locale === 'nl' ? 'nl-NL' : 'en';
   const isBangkokEn = city.slug === 'bangkok' && locale !== 'nl';
-  const isPremiumCity = city.slug === 'krabi' || isBangkokEn;
+  const isChiangMaiEn = city.slug === 'chiang-mai' && locale !== 'nl';
+  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn;
   const localizedCityName = locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en;
   const pageUrl = `https://go2-thailand.com${locale === 'nl' ? '/nl' : ''}/city/${city.slug}/`;
   const destinationDescription = city.slug === 'krabi' && locale === 'nl'
     ? 'Krabi is een provincie in Zuid-Thailand én de naam van Krabi Town. Ao Nang is meestal de handigste eerste basis voor boten en restaurants. Met vier dagen heb je tijd voor Railay, een eilandtour en één dag op het vasteland.'
     : isBangkokEn
       ? 'Bangkok is Thailand’s capital, but not one compact centre. Plan the Old Town and river, Chinatown and the BTS/MRT corridor as separate clusters; three full days gives a strong first introduction.'
+    : isChiangMaiEn
+      ? 'Chiang Mai is Northern Thailand’s cultural hub. Plan the Old City, Nimman and the mountain side as connected clusters; three full days gives a strong first introduction.'
     : locale === 'nl'
       ? (city.description.nl || city.overview || city.description.en)
       : (city.overview || city.description.en);
@@ -366,9 +370,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       ? '/images/redesign/krabi-destination-hero.webp'
       : isBangkokEn
         ? '/images/redesign/bangkok-destination-hero.webp'
+      : isChiangMaiEn
+        ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp'
         : city.image,
   );
-  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn ? 10 : 6);
+  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn ? 10 : 6);
 
   const metadata = {
     ...baseMetadata,
@@ -515,15 +521,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       <div className="bg-surface-cream min-h-screen">
         <CityDestinationHero
           activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-hero-activities')}
-          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn ? 'Nov – Feb' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
+          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn ? 'Nov – Feb' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           description={introSnippet}
-          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : getCityImageForSection(city, 'hero')}
+          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : getCityImageForSection(city, 'hero')}
           hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-hero-hotels')}
-          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : (city.tags || []).slice(0, 2).join(' & ')}
+          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : (city.tags || []).slice(0, 2).join(' & ')}
           isNl={locale === 'nl'}
-          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn ? '3 – 4 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
+          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
         />
 
 
@@ -531,7 +537,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           editorial={editorial || cityDescription}
-          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : getCityImageForSection(city, 'attractions')}
+          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : getCityImageForSection(city, 'attractions')}
           isNl={locale === 'nl'}
         />
 
@@ -592,6 +598,25 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-bangkok-planner-activities')}
               transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-bangkok-planner-transport')}
               esimHref={trackAffiliate(SAILY_GENERIC, 'city-bangkok-planner-esim')}
+              isNl={false}
+            />
+          </>
+        )}
+
+        {isChiangMaiEn && (
+          <>
+            <ChiangMaiDestinationOverview
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-chiang-mai-experiences')}
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-chiang-mai-hotels')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-chiang-mai-transport')}
+            />
+            <CityFaqOverview faq={city.faq || []} isNl={false} limit={10} />
+            <CityBookingPlanner
+              cityName="Chiang Mai"
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-chiang-mai-planner-hotels')}
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-chiang-mai-planner-activities')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-chiang-mai-planner-transport')}
+              esimHref={trackAffiliate(SAILY_GENERIC, 'city-chiang-mai-planner-esim')}
               isNl={false}
             />
           </>

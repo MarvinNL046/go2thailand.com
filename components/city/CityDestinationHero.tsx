@@ -20,26 +20,31 @@ interface CityDestinationHeroProps {
 export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySlug, description, heroImage, hotelsHref, idealFor, isNl, stayLength }: CityDestinationHeroProps) {
   const isKrabi = citySlug === 'krabi';
   const isBangkok = citySlug === 'bangkok' && !isNl;
-  const isPremiumOwner = isKrabi || isBangkok;
+  const isChiangMai = citySlug === 'chiang-mai' && !isNl;
+  const isPremiumOwner = isKrabi || isBangkok || isChiangMai;
   const subtitle = isKrabi
     ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
     : isBangkok
       ? 'Temples, river neighbourhoods and modern city energy—best explored by cluster.'
-    : description;
+    : isChiangMai
+      ? 'Lanna temples, Northern food and mountain edges—with a base for every rhythm.'
+      : description;
   const directAnswer = isKrabi
     ? isNl
       ? 'Krabi is een provincie in Zuid-Thailand én de naam van Krabi Town. Voor een eerste reis is Ao Nang meestal de handigste basis voor boten en restaurants. Met vier dagen heb je tijd voor Railay, een eilandtour en één dag op het vasteland.'
       : 'Krabi is both a province in southern Thailand and the name of Krabi Town. Ao Nang is usually the most convenient first base for boats and restaurants. Four days gives you time for Railay, an island tour and one day on the mainland.'
     : isBangkok
       ? 'Bangkok is Thailand’s capital, but it is not one compact centre. Plan the Old Town and river, Chinatown and the BTS/MRT corridor as separate clusters. Three full days gives most first-time visitors a strong introduction without turning every transfer into a race.'
+    : isChiangMai
+      ? 'Chiang Mai is Northern Thailand’s cultural hub, but the visitor experience extends beyond the moat. Plan the Old City, Nimman and the mountain side as connected clusters. Three full days gives you temples, Northern food and one deeper experience without rushing.'
       : '';
-  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok ? 'Central Thailand' : (isNl ? 'Thailand' : 'Thailand');
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok ? 'Central Thailand' : isChiangMai ? 'Northern Thailand' : 'Thailand';
   const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
     { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
-    isBangkok
+    isBangkok || isChiangMai
       ? { href: ownerHref(`/city/${citySlug}/food/`), label: 'Food', icon: Utensils }
       : { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
     { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
@@ -102,7 +107,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
               </div>
               <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
                 <Palmtree size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
               </div>
               <div className="flex items-center gap-3 sm:pl-4">
                 <Clock3 size={18} className="shrink-0 text-jade/65" />
