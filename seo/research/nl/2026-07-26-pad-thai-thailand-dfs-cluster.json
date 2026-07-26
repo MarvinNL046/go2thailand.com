@@ -1,0 +1,804 @@
+{
+  "captured_at": "2026-07-26T00:37:54.500Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "pad thai thailand",
+  "costs": {
+    "suggestions": 0.01248,
+    "related": 0.01716,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "pad thai thailand",
+    "pad thai recept",
+    "pad thai origineel recept",
+    "pad thai saus",
+    "pad thai ah",
+    "pad thai garnalen",
+    "pad thai jumbo",
+    "pad thai recept garnalen",
+    "pad thai met kip",
+    "pad thai saus maken",
+    "pad thai miljuschka",
+    "pad thai saus ah",
+    "pad thai groenten",
+    "pad thai kruiden",
+    "pad thai recept kip",
+    "pad thai recept vega",
+    "pad thai origineel recept kip",
+    "pad thai saus recept",
+    "pad thai woksaus"
+  ],
+  "keywords": [
+    {
+      "keyword": "pad thai recept",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai origineel recept",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ah",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai garnalen",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai jumbo",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept garnalen",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai met kip",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus maken",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai miljuschka",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus ah",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus jumbo",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai groenten",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai kruiden",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ah verspakket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept kip",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept vega",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai verspakket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai origineel recept kip",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus recept",
+      "volume": 50,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai woksaus",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus kopen",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai garnalen leuke recepten",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai origineel recept garnalen",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept tamarinde",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thaise garnalen recept",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai garnalen ah",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai jumbo verspakket",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai met rijst",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai pakket ah",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept ah",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept garnalen paksoi",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept tofu",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "so thai pad thai paste",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ah recept",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ah verspakket review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai in thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai jumbo recept",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai met kip en garnalen",
+      "volume": 10,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai pasta gebruiken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus kant en klaar",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus plus",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai thailand street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai vegetarisch ah",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand pad thai",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.eefkooktzo.nl",
+      "avgPosition": 6.625,
+      "keywordCount": 16,
+      "visibility": 10.35,
+      "estimatedTraffic": 1992.324
+    },
+    {
+      "domain": "www.leukerecepten.nl",
+      "avgPosition": 10.75,
+      "keywordCount": 16,
+      "visibility": 6.799999999999999,
+      "estimatedTraffic": 843.2429999999998
+    },
+    {
+      "domain": "www.ah.nl",
+      "avgPosition": 12.9375,
+      "keywordCount": 16,
+      "visibility": 8.95,
+      "estimatedTraffic": 701.5060000000001
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 21.3125,
+      "keywordCount": 16,
+      "visibility": 2.9000000000000004,
+      "estimatedTraffic": 63.61600000000001
+    },
+    {
+      "domain": "miljuschka.nl",
+      "avgPosition": 18.8,
+      "keywordCount": 15,
+      "visibility": 4.9,
+      "estimatedTraffic": 123.92200000000001
+    },
+    {
+      "domain": "restaurantpattaya.nl",
+      "avgPosition": 11.923076923076923,
+      "keywordCount": 13,
+      "visibility": 6.7,
+      "estimatedTraffic": 1188.0620000000001
+    },
+    {
+      "domain": "www.24kitchen.nl",
+      "avgPosition": 19,
+      "keywordCount": 14,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 50.237
+    },
+    {
+      "domain": "www.jumbo.com",
+      "avgPosition": 21.357142857142858,
+      "keywordCount": 14,
+      "visibility": 1.5,
+      "estimatedTraffic": 83.579
+    },
+    {
+      "domain": "ohmyfoodness.nl",
+      "avgPosition": 11,
+      "keywordCount": 12,
+      "visibility": 3.8,
+      "estimatedTraffic": 550.013
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 21.384615384615383,
+      "keywordCount": 13,
+      "visibility": 0.3,
+      "estimatedTraffic": 32.998
+    },
+    {
+      "domain": "dagelijksekost.vrt.be",
+      "avgPosition": 36.266666666666666,
+      "keywordCount": 15,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 70.66999999999997
+    },
+    {
+      "domain": "www.ah.be",
+      "avgPosition": 32.15384615384615,
+      "keywordCount": 13,
+      "visibility": 0.7500000000000001,
+      "estimatedTraffic": 40.019999999999996
+    },
+    {
+      "domain": "www.libelle-lekker.be",
+      "avgPosition": 27,
+      "keywordCount": 12,
+      "visibility": 0.25,
+      "estimatedTraffic": 18.959999999999994
+    },
+    {
+      "domain": "uitpaulineskeuken.nl",
+      "avgPosition": 33,
+      "keywordCount": 13,
+      "visibility": 0.1,
+      "estimatedTraffic": 19.432
+    },
+    {
+      "domain": "culinessa.com",
+      "avgPosition": 15.9,
+      "keywordCount": 10,
+      "visibility": 2.8,
+      "estimatedTraffic": 240.724
+    },
+    {
+      "domain": "www.hellofresh.nl",
+      "avgPosition": 23.727272727272727,
+      "keywordCount": 11,
+      "visibility": 2.3499999999999996,
+      "estimatedTraffic": 299.99
+    },
+    {
+      "domain": "keukenvansou.be",
+      "avgPosition": 27.545454545454547,
+      "keywordCount": 11,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 25.795
+    },
+    {
+      "domain": "www.mindyourfeed.nl",
+      "avgPosition": 36.75,
+      "keywordCount": 12,
+      "visibility": 0.1,
+      "estimatedTraffic": 17.865000000000006
+    },
+    {
+      "domain": "www.asianfoodlovers.nl",
+      "avgPosition": 32.90909090909091,
+      "keywordCount": 11,
+      "visibility": 0.25,
+      "estimatedTraffic": 19.541999999999998
+    },
+    {
+      "domain": "deliciousmagazine.nl",
+      "avgPosition": 25.444444444444443,
+      "keywordCount": 9,
+      "visibility": 0.65,
+      "estimatedTraffic": 147.831
+    },
+    {
+      "domain": "www.veganrevolutie.nl",
+      "avgPosition": 20.375,
+      "keywordCount": 8,
+      "visibility": 0.7,
+      "estimatedTraffic": 38.96900000000001
+    },
+    {
+      "domain": "www.lekkerensimpel.com",
+      "avgPosition": 43.54545454545455,
+      "keywordCount": 11,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.149
+    },
+    {
+      "domain": "eviekookt.nl",
+      "avgPosition": 44.72727272727273,
+      "keywordCount": 11,
+      "visibility": 0.05,
+      "estimatedTraffic": 16.681
+    },
+    {
+      "domain": "njam.tv",
+      "avgPosition": 40.2,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 15.078
+    },
+    {
+      "domain": "www.kohthai.nl",
+      "avgPosition": 41.2,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 16.854
+    },
+    {
+      "domain": "www.culy.nl",
+      "avgPosition": 47.9,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 16.401
+    },
+    {
+      "domain": "www.boodschappen.nl",
+      "avgPosition": 42.22222222222222,
+      "keywordCount": 9,
+      "visibility": 0.1,
+      "estimatedTraffic": 17.061000000000003
+    },
+    {
+      "domain": "www.dekrat.nl",
+      "avgPosition": 27.142857142857142,
+      "keywordCount": 7,
+      "visibility": 1,
+      "estimatedTraffic": 30.789
+    },
+    {
+      "domain": "www.ad.nl",
+      "avgPosition": 43.55555555555556,
+      "keywordCount": 9,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.126
+    },
+    {
+      "domain": "stephaniebex.be",
+      "avgPosition": 16.5,
+      "keywordCount": 6,
+      "visibility": 1.6,
+      "estimatedTraffic": 77.903
+    },
+    {
+      "domain": "www.francescakookt.nl",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 51.86800000000001
+    },
+    {
+      "domain": "www.arla.nl",
+      "avgPosition": 39,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 15.330000000000002
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 39.125,
+      "keywordCount": 8,
+      "visibility": 0.65,
+      "estimatedTraffic": 47.495000000000005
+    },
+    {
+      "domain": "www.wijnspijs.nl",
+      "avgPosition": 41.25,
+      "keywordCount": 8,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 30.736000000000004
+    },
+    {
+      "domain": "www.knoestjeugdhulp.nl",
+      "avgPosition": 33.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 14.252
+    },
+    {
+      "domain": "nl.pinterest.com",
+      "avgPosition": 34.42857142857143,
+      "keywordCount": 7,
+      "visibility": 0.75,
+      "estimatedTraffic": 23.637999999999998
+    },
+    {
+      "domain": "www.greenwoodtravel.nl",
+      "avgPosition": 9.6,
+      "keywordCount": 5,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 53.8
+    },
+    {
+      "domain": "www.flyingfoodie.nl",
+      "avgPosition": 49.625,
+      "keywordCount": 8,
+      "visibility": 0.75,
+      "estimatedTraffic": 62.428000000000004
+    },
+    {
+      "domain": "life.allcrea.nl",
+      "avgPosition": 37.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.3439999999999999
+    },
+    {
+      "domain": "www.fairtradeoriginal.nl",
+      "avgPosition": 25.8,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 14.413
+    },
+    {
+      "domain": "www.kookjij.nl",
+      "avgPosition": 66.45454545454545,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 15.897
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 26.2,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.0140000000000002
+    },
+    {
+      "domain": "www.foodiesmagazine.nl",
+      "avgPosition": 26.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 13.755
+    },
+    {
+      "domain": "megafoodstunter.nl",
+      "avgPosition": 9,
+      "keywordCount": 4,
+      "visibility": 1.35,
+      "estimatedTraffic": 29.700000000000003
+    },
+    {
+      "domain": "smaakmenutie.nl",
+      "avgPosition": 39.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.593
+    },
+    {
+      "domain": "familieoverdekook.nl",
+      "avgPosition": 28,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 12.327
+    },
+    {
+      "domain": "favorflav.com",
+      "avgPosition": 55.125,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 16.548000000000002
+    },
+    {
+      "domain": "uitdekeukenvanfatima.nl",
+      "avgPosition": 29.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 13.559000000000001
+    },
+    {
+      "domain": "lekkertafelen.nl",
+      "avgPosition": 12.75,
+      "keywordCount": 4,
+      "visibility": 0.35,
+      "estimatedTraffic": 88.69500000000001
+    },
+    {
+      "domain": "simoneskitchen.nl",
+      "avgPosition": 30.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.9690000000000003
+    }
+  ]
+}

@@ -38,6 +38,7 @@
     "seo:research": "tsx scripts/seo-research.ts",
     "seo:verify": "npm run seo:cannibalization && npm run seo:status",
     "seo:verify:nl-runtime": "tsx scripts/verify-nl-owners.ts",
+    "seo:verify:nl-dishes": "tsx scripts/verify-nl-dish-family.ts",
     "seo:audit:nl-hotels": "tsx scripts/audit-nl-hotel-family.ts",
     "seo:audit:nl-attractions": "tsx scripts/audit-nl-attraction-family.ts",
     "affiliate:verify": "tsx scripts/verify-amazon-affiliates.ts",

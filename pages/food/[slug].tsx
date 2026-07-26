@@ -3,11 +3,12 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import fs from 'fs';
 import path from 'path';
-import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
+import { getDishBySlug, getEnhancedDishBySlug, getRelatedDishes } from '../../lib/food';
 import SEOHead from '../../components/SEOHead';
 import FoodCityLinks from '../../components/FoodCityLinks';
 import FoodAffiliateCTA from '../../components/FoodAffiliateCTA';
 import InlineAd from '../../components/ads/InlineAd';
+import { DutchDishGuide } from '../../components/food/DutchDishGuide';
 
 interface EnhancedDish {
   id: number;
@@ -70,6 +71,10 @@ interface EnhancedDish {
     serves: string;
   };
   ai_generated?: boolean;
+  seo?: {
+    metaTitle?: { en?: string };
+    metaDescription?: { en?: string };
+  };
 }
 
 interface CityLink {
@@ -91,15 +96,16 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (!dish) return <div>Dish not found</div>;
 
-  const metadata = generateDishMetadata(dish);
+  if (isNl) {
+    return <DutchDishGuide dish={dish} relatedDishes={relatedDishes} />;
+  }
 
   // Optimized SEO title and description (overrides lib defaults)
-  const categoryLabel = dish.category.replace('-', ' ');
   // Use custom SEO title from JSON if available, otherwise generate
-  const dishAny = dish as Record<string, any>;
-  const seoTitle = dishAny.seo?.metaTitle?.en || `${dish.name.en} (${dish.name.thai}) — What It Is, Where to Eat It & Prices`;
+  const seoTitle = dish.seo?.metaTitle?.en || `${dish.name.en} (${dish.name.thai}) — What It Is, Where to Eat It & Prices`;
   const descriptionBase = (dish.enhanced_description || dish.description.en).substring(0, 100);
-  const seoDescription = dishAny.seo?.metaDescription?.en || `${dish.name.en} (${dish.name.thai}) — ${descriptionBase}. Where to find it, prices, and what makes it special.`;
+  const seoDescription = dish.seo?.metaDescription?.en || `${dish.name.en} (${dish.name.thai}) — ${descriptionBase}. Where to find it, prices, and what makes it special.`;
+  const seoKeywords = [dish.name.en, dish.name.thai, 'Thai food', 'Thai cuisine', dish.category, dish.region, ...dish.ingredients.slice(0, 5)].join(', ');
 
   const getSpiceLevelColor = (level: string) => {
     switch (level) {
@@ -127,7 +133,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
         description={seoDescription}
         ogImage={dish.image?.startsWith('http') ? dish.image : `https://go2-thailand.com${dish.image}`}
       >
-        <meta name="keywords" content={metadata.keywords} />
+        <meta name="keywords" content={seoKeywords} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -587,7 +593,10 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const dish = getEnhancedDishBySlug(slug, locale);
+  // Dutch dish pages use the verified base records and their dedicated
+  // editorial profiles. This avoids leaking stale English enhanced content,
+  // generated prices and unsupported health or restaurant claims into NL.
+  const dish = locale === 'nl' ? getDishBySlug(slug) : getEnhancedDishBySlug(slug, locale);
   if (!dish) return { notFound: true };
 
   const relatedDishes = getRelatedDishes(dish, 4);

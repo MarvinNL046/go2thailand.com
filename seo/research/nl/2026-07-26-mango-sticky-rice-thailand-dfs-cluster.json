@@ -1,0 +1,803 @@
+{
+  "captured_at": "2026-07-26T00:37:59.789Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "mango sticky rice thailand",
+  "costs": {
+    "suggestions": 0.0126,
+    "related": 0.01716,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "mango sticky rice thailand",
+    "mango sticky rice recept",
+    "mango sticky rice rotterdam",
+    "mango sticky rice ah",
+    "welke rijst voor mango sticky rice",
+    "mango sticky rice met dessertrijst",
+    "mango with sticky rice thailand",
+    "sticky rice with mango thailand recipe",
+    "thailand famous food mango sticky rice"
+  ],
+  "keywords": [
+    {
+      "keyword": "sticky bar",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rijst ah",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice recept",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst ah",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ah witte rijst",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice rotterdam",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst jumbo",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ketan rijst ah",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst kopen",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice thailand",
+      "volume": 140,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "ketan rijst jumbo",
+      "volume": 110,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice ah",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst maken",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "stickybar rotterdam",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst kopen ah",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "magnetron rijst ah",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rijst kopen 20 kilo",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thaise kleefrijst ah",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ah rijst 5 kilo",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst kopen supermarkt",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "reviews voor stickybar",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ketan rijst kopen",
+      "volume": 40,
+      "kd": 10,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ketan rijst recept",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst kopen jumbo",
+      "volume": 30,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst oriental",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst plus",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice kopen",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "voorburgstraat 209 rotterdam",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "welke rijst voor mango sticky rice",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "foto's van stickybar",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "gebroken rijst waar te koop",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst amazing oriental",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "stickybar menu",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ketan rijst waar te koop",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst delhaize",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst in rijstkoker",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice met dessertrijst",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango with sticky rice thailand",
+      "volume": 10,
+      "kd": 60,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rijst ah kant en klaar",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sticky bar menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sticky bar rotterdam menu",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sticky rice with mango thailand recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand famous food mango sticky rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thaise kleefrijst kopen",
+      "volume": 10,
+      "kd": 43,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand street food mango sticky rice",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ketan rijst oriental",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kleefrijst lidl",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "uitpaulineskeuken.nl",
+      "avgPosition": 11.5,
+      "keywordCount": 4,
+      "visibility": 2,
+      "estimatedTraffic": 53.812
+    },
+    {
+      "domain": "www.thegreenlist.nl",
+      "avgPosition": 14,
+      "keywordCount": 4,
+      "visibility": 1.9,
+      "estimatedTraffic": 187.45399999999998
+    },
+    {
+      "domain": "www.culy.nl",
+      "avgPosition": 17.75,
+      "keywordCount": 4,
+      "visibility": 0.6,
+      "estimatedTraffic": 10.499
+    },
+    {
+      "domain": "brendakookt.nl",
+      "avgPosition": 16.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.796
+    },
+    {
+      "domain": "www.heelhollandbakt.nl",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 12.432999999999998
+    },
+    {
+      "domain": "thaistafelen.nl",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 58.315999999999995
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 1.05,
+      "estimatedTraffic": 46.272000000000006
+    },
+    {
+      "domain": "www.24kitchen.nl",
+      "avgPosition": 27,
+      "keywordCount": 3,
+      "visibility": 0.9,
+      "estimatedTraffic": 96.379
+    },
+    {
+      "domain": "eatertainment.nl",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.2049999999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 33.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.0719999999999996
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 52.968999999999994
+    },
+    {
+      "domain": "www.restaurantthailand.nl",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 9.414000000000001
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 20.502999999999997
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 41.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7639999999999998
+    },
+    {
+      "domain": "www.casathairotterdam.nl",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 42.69200000000001
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 42,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7639999999999998
+    },
+    {
+      "domain": "www.boodschappen.nl",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.01
+    },
+    {
+      "domain": "dagelijksekost.vrt.be",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.3,
+      "estimatedTraffic": 2.461
+    },
+    {
+      "domain": "www.libelle-lekker.be",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.5349999999999997
+    },
+    {
+      "domain": "scientificallysweet.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.dekamarkt.nl",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.7119999999999997
+    },
+    {
+      "domain": "www.ah.nl",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 34.678999999999995
+    },
+    {
+      "domain": "edeneats.com",
+      "avgPosition": 25.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.768
+    },
+    {
+      "domain": "www.cook-and-book.nl",
+      "avgPosition": 26.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.4699999999999998
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.513
+    },
+    {
+      "domain": "ccasianmarket.nl",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "thefoodietakesflight.com",
+      "avgPosition": 29.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.8209999999999997
+    },
+    {
+      "domain": "mustbeyummie.com",
+      "avgPosition": 29.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.7849999999999997
+    },
+    {
+      "domain": "marcwiner.com",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 7.213
+    },
+    {
+      "domain": "culinaireambiance.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.7849999999999997
+    },
+    {
+      "domain": "theforkedspoon.com",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.5749999999999997
+    },
+    {
+      "domain": "www.epicurious.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.5249999999999999
+    },
+    {
+      "domain": "favorflav.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.903
+    },
+    {
+      "domain": "www.joyousapron.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.547
+    },
+    {
+      "domain": "www.orientalwebshop.nl",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.geertkookt.nl",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.7849999999999997
+    },
+    {
+      "domain": "www.elle.com",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.7849999999999997
+    },
+    {
+      "domain": "andreasrecipes.com",
+      "avgPosition": 48,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.5249999999999999
+    },
+    {
+      "domain": "www.sticky-bar.nl",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 79.03999999999999
+    },
+    {
+      "domain": "sticky-bar.nl",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 79.03999999999999
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 22.68
+    },
+    {
+      "domain": "indebuurt.nl",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 42.120000000000005
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 13.622
+    },
+    {
+      "domain": "www.alicethaistreetfood.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 25.298
+    },
+    {
+      "domain": "www.siriporn.nl",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 17.134
+    },
+    {
+      "domain": "www.thuisbezorgd.nl",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 17.134
+    },
+    {
+      "domain": "rakskitchen.net",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 6.566
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 12.193999999999999
+    },
+    {
+      "domain": "www.delibird.nl",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 8.787999999999998
+    },
+    {
+      "domain": "www.yummytummyaarthi.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 3.584
+    }
+  ]
+}
