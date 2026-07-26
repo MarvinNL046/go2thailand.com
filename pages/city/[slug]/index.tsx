@@ -43,6 +43,7 @@ import { KanchanaburiDestinationOverview } from '../../../components/city/Kancha
 import { SukhothaiDestinationOverview } from '../../../components/city/SukhothaiDestinationOverview';
 import { PaiDestinationOverview } from '../../../components/city/PaiDestinationOverview';
 import { HuaHinDestinationOverview } from '../../../components/city/HuaHinDestinationOverview';
+import { PattayaDestinationOverview } from '../../../components/city/PattayaDestinationOverview';
 import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
 import { getEnDestinationGuide } from '../../../data/destinations/en';
 import { getNlDestinationGuide } from '../../../data/destinations/nl';
@@ -369,7 +370,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const isSukhothaiEn = city.slug === 'sukhothai' && locale !== 'nl';
   const isPaiEn = city.slug === 'pai' && locale !== 'nl';
   const isHuaHinEn = city.slug === 'hua-hin' && locale !== 'nl';
-  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn;
+  const isPattayaEn = city.slug === 'pattaya' && locale !== 'nl';
+  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn;
   const localizedCityName = locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en;
   const pageUrl = `https://go2-thailand.com${locale === 'nl' ? '/nl' : ''}/city/${city.slug}/`;
   const destinationDescription = city.slug === 'krabi' && locale === 'nl'
@@ -394,6 +396,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       ? 'Pai is a compact valley town in Mae Hong Son province, reached most often by a winding mountain journey from Chiang Mai. Two or three nights lets you separate arrival, one outer-valley route and the walkable town.'
     : isHuaHinEn
       ? 'Hua Hin is a coastal city in Prachuap Khiri Khan province, combining a long urban beach, an older market centre and distinct resort zones. Two or three nights lets you separate the town, south coast and one real nature day.'
+    : isPattayaEn
+      ? 'Pattaya is a coastal city in Chon Buri province on Thailand’s eastern Gulf coast. Two or three days lets you separate the cultural north, central city, Jomtien and one deliberate island or nightlife chapter.'
     : locale === 'nl'
       ? (city.description.nl || city.overview || city.description.en)
       : (city.overview || city.description.en);
@@ -420,9 +424,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
         ? '/images/redesign/pai-destination-hero.webp'
       : isHuaHinEn
         ? '/images/redesign/hua-hin-destination-hero.webp'
+      : isPattayaEn
+        ? '/images/redesign/pattaya-destination-hero.webp'
         : city.image,
   );
-  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn ? 10 : 6);
+  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn ? 10 : 6);
 
   const metadata = {
     ...baseMetadata,
@@ -569,15 +575,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       <div className="bg-surface-cream min-h-screen">
         <CityDestinationHero
           activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-hero-activities')}
-          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn || isAyutthayaEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn ? 'Nov – Feb' : isPhuketEn ? 'Nov – Mar' : isKohSamuiEn ? 'Jan – Aug' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
+          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn || isAyutthayaEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn ? 'Nov – Feb' : isPhuketEn ? 'Nov – Mar' : isKohSamuiEn ? 'Jan – Aug' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           description={introSnippet}
-          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : isPhuketEn ? '/images/redesign/phuket-destination-hero-v2.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-destination-hero.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-destination-hero.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-destination-hero.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-destination-hero.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-destination-hero.webp' : isPaiEn ? '/images/redesign/pai-destination-hero.webp' : isHuaHinEn ? '/images/redesign/hua-hin-destination-hero.webp' : getCityImageForSection(city, 'hero')}
+          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : isPhuketEn ? '/images/redesign/phuket-destination-hero-v2.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-destination-hero.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-destination-hero.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-destination-hero.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-destination-hero.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-destination-hero.webp' : isPaiEn ? '/images/redesign/pai-destination-hero.webp' : isHuaHinEn ? '/images/redesign/hua-hin-destination-hero.webp' : isPattayaEn ? '/images/redesign/pattaya-destination-hero.webp' : getCityImageForSection(city, 'hero')}
           hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-hero-hotels')}
-          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : isPhuketEn ? 'Kata / Karon' : isAyutthayaEn ? 'Historical island' : isKohSamuiEn ? 'Chaweng / Lamai / Bophut' : isChiangRaiEn ? 'Clock tower / Night bazaar' : isKanchanaburiEn ? 'Town first / river second' : isSukhothaiEn ? 'Mueang Kao / old city' : isPaiEn ? 'Town centre / river edge' : isHuaHinEn ? 'Centre / Nong Kae / Khao Takiab' : (city.tags || []).slice(0, 2).join(' & ')}
+          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : isPhuketEn ? 'Kata / Karon' : isAyutthayaEn ? 'Historical island' : isKohSamuiEn ? 'Chaweng / Lamai / Bophut' : isChiangRaiEn ? 'Clock tower / Night bazaar' : isKanchanaburiEn ? 'Town first / river second' : isSukhothaiEn ? 'Mueang Kao / old city' : isPaiEn ? 'Town centre / river edge' : isHuaHinEn ? 'Centre / Nong Kae / Khao Takiab' : isPattayaEn ? 'Central / Naklua / Jomtien' : (city.tags || []).slice(0, 2).join(' & ')}
           isNl={locale === 'nl'}
-          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : isPhuketEn || isKohSamuiEn ? '4 – 5 days' : isAyutthayaEn ? '1 – 2 days' : isChiangRaiEn || isKanchanaburiEn || isPaiEn || isHuaHinEn ? '2 – 3 days' : isSukhothaiEn ? '1 – 2 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
+          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : isPhuketEn || isKohSamuiEn ? '4 – 5 days' : isAyutthayaEn ? '1 – 2 days' : isChiangRaiEn || isKanchanaburiEn || isPaiEn || isHuaHinEn || isPattayaEn ? '2 – 3 days' : isSukhothaiEn ? '1 – 2 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
         />
 
 
@@ -585,7 +591,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           editorial={editorial || cityDescription}
-          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : isPhuketEn ? '/images/redesign/phuket-zones-banner.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-river-heritage.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-zones-banner.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-mountain-route.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-history-route-v2.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-cycling-central.webp' : isPaiEn ? '/images/redesign/pai-valley-riverside-v2.webp' : isHuaHinEn ? '/images/redesign/hua-hin-night-market-seafood.webp' : getCityImageForSection(city, 'attractions')}
+          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : isPhuketEn ? '/images/redesign/phuket-zones-banner.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-river-heritage.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-zones-banner.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-mountain-route.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-history-route-v2.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-cycling-central.webp' : isPaiEn ? '/images/redesign/pai-valley-riverside-v2.webp' : isHuaHinEn ? '/images/redesign/hua-hin-night-market-seafood.webp' : isPattayaEn ? '/images/redesign/pattaya-sanctuary-route.webp' : getCityImageForSection(city, 'attractions')}
           isNl={locale === 'nl'}
         />
 
@@ -817,6 +823,25 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-hua-hin-planner-activities')}
               transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-hua-hin-planner-transport')}
               esimHref={trackAffiliate(SAILY_GENERIC, 'city-hua-hin-planner-esim')}
+              isNl={false}
+            />
+          </>
+        )}
+
+        {isPattayaEn && (
+          <>
+            <PattayaDestinationOverview
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-pattaya-experiences')}
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-pattaya-hotels')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-pattaya-transport')}
+            />
+            <CityFaqOverview faq={city.faq || []} isNl={false} limit={10} />
+            <CityBookingPlanner
+              cityName="Pattaya"
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-pattaya-planner-hotels')}
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-pattaya-planner-activities')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-pattaya-planner-transport')}
+              esimHref={trackAffiliate(SAILY_GENERIC, 'city-pattaya-planner-esim')}
               isNl={false}
             />
           </>

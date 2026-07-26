@@ -1,0 +1,61 @@
+{
+  "captured_at": "2026-07-26T21:52:28.461Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/city/pattaya/",
+  "cost": 0.01284,
+  "rankings": [
+    {
+      "keyword": "pattaya",
+      "position": 36,
+      "volume": 22200,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/pattaya/"
+    },
+    {
+      "keyword": "pattaya thailand",
+      "position": 29,
+      "volume": 4400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/pattaya/"
+    },
+    {
+      "keyword": "where is pattaya",
+      "position": 28,
+      "volume": 720,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/pattaya/"
+    },
+    {
+      "keyword": "where is pattaya thailand",
+      "position": 42,
+      "volume": 720,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/pattaya/"
+    },
+    {
+      "keyword": "pattaya thailand travel",
+      "position": 40,
+      "volume": 70,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/pattaya/"
+    },
+    {
+      "keyword": "pattaya travel",
+      "position": 45,
+      "volume": 70,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/pattaya/"
+    },
+    {
+      "keyword": "in pattaya",
+      "position": 41,
+      "volume": 50,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/city/pattaya/"
+    }
+  ]
+}

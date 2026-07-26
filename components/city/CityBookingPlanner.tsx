@@ -32,6 +32,7 @@ export function CityBookingPlanner({
         Sukhothai: 'Historical park, cycling, heritage and local experiences.',
         Pai: 'Canyon, valley, food and small-group local experiences.',
         'Hua Hin': 'Coast, market, heritage and national-park day experiences.',
+        Pattaya: 'Culture, island, coast and carefully selected evening experiences.',
         Krabi: 'Island, coast, nature and local experiences.',
       }[cityName] || 'Tours, culture, nature and local experiences.');
   const transportDescription = isNl
@@ -47,6 +48,7 @@ export function CityBookingPlanner({
         Sukhothai: 'Bus, transfer, airport and onward northern connections.',
         Pai: 'Chiang Mai van, transfer and onward mountain connections.',
         'Hua Hin': 'Bangkok train, bus, transfer and onward coast connections.',
+        Pattaya: 'Bangkok bus, transfer, airport and onward Gulf connections.',
         Krabi: 'Ferry, transfer, bus and onward connections.',
       }[cityName] || 'Transfers, buses, trains and onward connections.');
   const items = [

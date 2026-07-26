@@ -29,7 +29,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
   const isSukhothai = citySlug === 'sukhothai' && !isNl;
   const isPai = citySlug === 'pai' && !isNl;
   const isHuaHin = citySlug === 'hua-hin' && !isNl;
-  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin;
+  const isPattaya = citySlug === 'pattaya' && !isNl;
+  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya;
   const subtitle = isKrabi
     ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
     : isBangkok
@@ -52,6 +53,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'A walkable mountain town, a wider valley and one winding arrival—planned without scooter pressure.'
     : isHuaHin
       ? 'A long city beach, market evenings and one wild limestone day—within easy reach of Bangkok.'
+    : isPattaya
+      ? 'Four coastal zones, one cultural anchor and an evening for every kind of traveller.'
       : description;
   const directAnswer = isKrabi
     ? isNl
@@ -77,14 +80,16 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'Pai is a compact valley town in Mae Hong Son province, most commonly reached from Chiang Mai by a winding mountain road. Stay near the centre for a walkable evening, then plan one outer-valley day by driver, organised route or suitable legal transport. Two to three nights is a strong first balance.'
     : isHuaHin
       ? 'Hua Hin is a coastal city in Prachuap Khiri Khan province, not one continuous resort strip. Choose the older centre, Nong Kae or Khao Takiab first, then separate the beach-and-market rhythm from any full-day nature route. Two to three nights is a strong first balance.'
+    : isPattaya
+      ? 'Where is Pattaya in Thailand? Pattaya is a coastal city in Chon Buri province on the eastern Gulf coast, within practical overland reach of Bangkok. Choose Central Pattaya, Naklua, Pratumnak or Jomtien first, then build separate culture, island and evening chapters. Two to three days is a strong first balance.'
       : '';
-  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok || isAyutthaya || isKanchanaburi || isHuaHin ? 'Central Thailand' : isChiangMai || isChiangRai || isSukhothai || isPai ? 'Northern Thailand' : isPhuket || isKohSamui ? 'Southern Thailand' : 'Thailand';
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok || isAyutthaya || isKanchanaburi || isHuaHin || isPattaya ? 'Central Thailand' : isChiangMai || isChiangRai || isSukhothai || isPai ? 'Northern Thailand' : isPhuket || isKohSamui ? 'Southern Thailand' : 'Thailand';
   const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
     { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
-    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin
+    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya
       ? { href: ownerHref(`/city/${citySlug}/food/`), label: 'Food', icon: Utensils }
       : { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
     { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
@@ -147,7 +152,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
               </div>
               <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
                 <Palmtree size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
               </div>
               <div className="flex items-center gap-3 sm:pl-4">
                 <Clock3 size={18} className="shrink-0 text-jade/65" />
