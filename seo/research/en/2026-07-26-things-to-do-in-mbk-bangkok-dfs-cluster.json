@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-26T13:54:56.443Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "things to do in mbk bangkok",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "things to do in mbk bangkok"
+  ],
+  "keywords": [
+    {
+      "keyword": "things to do in mbk bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}
