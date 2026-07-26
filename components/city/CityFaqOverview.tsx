@@ -7,9 +7,10 @@ interface CityFaqOverviewProps {
     answer: string;
   }>;
   isNl: boolean;
+  limit?: number;
 }
 
-export function CityFaqOverview({ faq, isNl }: CityFaqOverviewProps) {
+export function CityFaqOverview({ faq, isNl, limit = 6 }: CityFaqOverviewProps) {
   if (!faq.length) return null;
 
   return (
@@ -28,7 +29,7 @@ export function CityFaqOverview({ faq, isNl }: CityFaqOverviewProps) {
         </div>
 
         <div className="overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_5px_18px_rgba(18,63,54,0.035)]">
-          {faq.slice(0, 6).map((item) => (
+          {faq.slice(0, limit).map((item) => (
             <details key={item.question} className="group border-b border-jade/10 last:border-b-0">
               <summary className="flex cursor-pointer list-none items-center justify-between gap-5 px-5 py-4 text-sm font-bold text-jade transition hover:bg-jade/[0.025] focus:outline-none sm:px-6 [&::-webkit-details-marker]:hidden">
                 <span>{item.question}</span>

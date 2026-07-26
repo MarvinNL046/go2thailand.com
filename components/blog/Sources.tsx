@@ -8,6 +8,16 @@ interface SourcesProps {
   locale?: string;
 }
 
+function sourceLabel(source: Source): string {
+  if (source.name?.trim()) return source.name.trim();
+
+  try {
+    return new URL(source.url).hostname.replace(/^www\./, '');
+  } catch {
+    return 'Source';
+  }
+}
+
 export default function Sources({ sources, locale = 'en' }: SourcesProps) {
   if (!sources || sources.length === 0) return null;
 
@@ -34,7 +44,7 @@ export default function Sources({ sources, locale = 'en' }: SourcesProps) {
               rel={sourceRel(source.url)}
               className="text-thailand-blue hover:underline"
             >
-              {source.name}
+              {sourceLabel(source)}
             </a>
             <span className="text-gray-400 ml-1 text-xs">&#8599;</span>
           </li>

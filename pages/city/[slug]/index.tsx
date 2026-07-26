@@ -357,7 +357,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       ? (city.description.nl || city.overview || city.description.en)
       : (city.overview || city.description.en);
   const destinationImage = toAbsoluteImageUrl(city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : city.image);
-  const visibleFaq = (city.faq || []).slice(0, 6);
+  const visibleFaq = (city.faq || []).slice(0, city.slug === 'krabi' && locale !== 'nl' ? 10 : 6);
 
   const metadata = {
     ...baseMetadata,
@@ -545,7 +545,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
             />
             <CityWeatherOverview isNl={locale === 'nl'} />
             <CityPracticalCards isNl={locale === 'nl'} />
-            <CityFaqOverview faq={city.faq || []} isNl={locale === 'nl'} />
+            <CityFaqOverview
+              faq={city.faq || []}
+              isNl={locale === 'nl'}
+              limit={city.slug === 'krabi' && locale !== 'nl' ? 10 : 6}
+            />
             <CityBookingPlanner
               hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-planner-hotels')}
               activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-planner-activities')}

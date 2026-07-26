@@ -21,8 +21,8 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
           'Ao Nang is voor een eerste bezoek de praktischste uitvalsbasis: boten naar Railay en de eilanden vertrekken dichtbij en je hebt veel keuze uit restaurants en hotels. Railay past beter bij een bijzonder strandverblijf, terwijl Krabi Town aantrekkelijk is voor markten en een lokalere sfeer. Vier dagen is voor de meeste reizigers een goede balans tussen zee, vasteland en rust.',
         ]
       : [
-          'Krabi is where limestone cliffs rise dramatically from the sea, hidden bays beckon and tropical islands invite you to explore. Adventure and relaxation go hand in hand here.',
-          editorial || 'From iconic beaches to quiet lagoons and lush jungles, Krabi lets you experience Thailand at its purest.',
+          'Krabi is a province on southern Thailand’s Andaman coast, and Krabi Town is its provincial capital. Most beach travellers stay outside the town in Ao Nang, Railay or along the quieter Klong Muang and Tubkaak coast.',
+          'Ao Nang is usually the easiest first base because boats, transfers, restaurants and hotels are close at hand. Railay suits a scenery-led beach stay, while Krabi Town is stronger for markets and a more local evening. Four days gives most first-time visitors a useful balance of coast, mainland and breathing room.',
         ]
     : [editorial].filter(Boolean);
 

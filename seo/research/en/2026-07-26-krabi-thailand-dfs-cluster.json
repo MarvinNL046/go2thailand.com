@@ -1,0 +1,3267 @@
+{
+  "captured_at": "2026-07-26T18:30:13.464Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "krabi thailand",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.02712,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "krabi thailand",
+    "phi phi krabi thailand",
+    "koh lanta krabi thailand",
+    "krabi in thailand",
+    "krabi province thailand",
+    "krabi south thailand",
+    "krabi southern thailand",
+    "southern thailand krabi",
+    "thailand krabi province",
+    "krabi thailand railay beach",
+    "railay beach krabi thailand",
+    "krabi thailand ao nang beach",
+    "krabi thailand weather",
+    "krabi weather thailand",
+    "thailand krabi ao nang beach",
+    "thailand krabi weather",
+    "thailand weather krabi",
+    "weather at krabi thailand",
+    "weather for krabi thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "google flights uk",
+      "volume": 33100,
+      "kd": 17,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phi phi krabi thailand",
+      "volume": 22200,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh lanta krabi thailand",
+      "volume": 14800,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi in thailand",
+      "volume": 14800,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi province thailand",
+      "volume": 14800,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi south thailand",
+      "volume": 14800,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi southern thailand",
+      "volume": 14800,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand",
+      "volume": 14800,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "southern thailand krabi",
+      "volume": 14800,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi province",
+      "volume": 14800,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand railay beach",
+      "volume": 9900,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "railay beach krabi thailand",
+      "volume": 9900,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ao nang beach",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand ao nang beach",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi ao nang beach",
+      "volume": 4400,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather krabi",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather at krabi thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather for krabi thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in krabi thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand krabi",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather krabi thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dusit krabi thailand",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pimalai resort & spa krabi thailand",
+      "volume": 3600,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi airport",
+      "volume": 3600,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in phuket",
+      "volume": 3600,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel in krabi thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel krabi thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel thailand krabi",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in krabi thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in thailand krabi",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels krabi thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi hotel thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi hotels",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi hotels thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi province thailand hotels",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand hotels",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand hotels krabi",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi hotels",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ao nang krabi thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "banyan tree thailand krabi",
+      "volume": 1900,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel rayavadee resort krabi thailand",
+      "volume": 1900,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi ao nang thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand ao nang",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand attractions",
+      "volume": 1900,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand rayavadee resort",
+      "volume": 1900,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rayavadee in krabi thailand",
+      "volume": 1900,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rayavadee krabi thailand",
+      "volume": 1900,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rayavadee resort in krabi thailand",
+      "volume": 1900,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi ao nang",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do at krabi thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in krabi thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in thailand krabi",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi la playa resort thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amari krabi thailand",
+      "volume": 1300,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ao nang hotel krabi thailand",
+      "volume": 1300,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ao nang krabi thailand hotels",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday krabi thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday to krabi thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays krabi thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays to krabi thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays to thailand krabi",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hong island krabi thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel ao nang krabi thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in ao nang krabi thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in krabi thailand ao nang",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel krabi thailand ao nang",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh lanta weather",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand holiday",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand holidays",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand krabi holiday",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi holidays",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tubkaak hotel krabi thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi beach thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi beaches thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi in thailand beaches",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi islands in thailand",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand beach",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand beaches",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand city",
+      "volume": 1000,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand town",
+      "volume": 1000,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi town",
+      "volume": 1000,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phi phi islands krabi thailand hotels",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phulay bay ritz carlton krabi thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand beaches krabi",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi beach",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi island",
+      "volume": 1000,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara ao nang beach resort & spa krabi",
+      "volume": 880,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "centara grand resort krabi thailand",
+      "volume": 880,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "direct flights to phuket from uk",
+      "volume": 880,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in railay krabi thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi in thailand map",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi location thailand map",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi map thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi maps thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi on map of thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi resort thailand",
+      "volume": 880,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi resorts thailand",
+      "volume": 880,
+      "kd": 30,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand map",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand on map",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand resort",
+      "volume": 880,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand resorts",
+      "volume": 880,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "location of krabi in thailand map",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of krabi province thailand",
+      "volume": 880,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of krabi thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phi phi weather",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "railay beach hotels",
+      "volume": 880,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "railay beach krabi thailand hotels",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resort in krabi thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resort krabi thailand",
+      "volume": 880,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resorts in krabi thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi map",
+      "volume": 880,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi resorts",
+      "volume": 880,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand map krabi",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand resort krabi",
+      "volume": 880,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand resorts krabi",
+      "volume": 880,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tonsai beach krabi thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotel in krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best krabi hotels thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place to stay in krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places to stay in krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thailand hotels krabi",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights from london to anywhere",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to thailand krabi",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "good hotels in krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand best hotels",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand or phuket",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand vs phuket",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "railay beach ao nang krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi",
+      "volume": 720,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay in krabi",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay krabi thailand",
+      "volume": 720,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bamboo island krabi thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bluesotel krabi thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "elephant sanctuary thailand krabi",
+      "volume": 590,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi nightlife",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand nightlife",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand november weather",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather november",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi to bangkok flight",
+      "volume": 590,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nightlife in krabi thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi nightlife",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi weather november",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather november krabi",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather krabi thailand november",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is there to do in krabi thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in krabi thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights from london to krabi thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to krabi from london",
+      "volume": 480,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "island of krabi thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "islands in krabi thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi island in thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi island thailand",
+      "volume": 480,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi islands thailand",
+      "volume": 480,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand islands",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand things to do",
+      "volume": 480,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand to do",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand what to do",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi town things to do",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand islands krabi",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi things to do",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is krabi in thailand",
+      "volume": 480,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is krabi thailand",
+      "volume": 480,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where krabi in thailand",
+      "volume": 480,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ao nang beach resort krabi thailand",
+      "volume": 390,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to krabi thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "glow ao nang krabi thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand elephant sanctuary",
+      "volume": 390,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand flight",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand flights",
+      "volume": 390,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather december",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather in december",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 30 days",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand krabi flights",
+      "volume": 390,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi weather december",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather forecast for krabi thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in krabi today",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bbc weather krabi thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to go to krabi thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap flights from london to anywhere",
+      "volume": 320,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken island krabi thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hot springs thailand krabi",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in ao nang beach krabi thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in krabi ao nang beach",
+      "volume": 320,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand night market",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand time",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather in april",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket by ferry",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket ferry",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "railay great view resort krabi thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sugar marina resort cliffhanger aonang krabi thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star hotel in krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star hotels krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5-star hotel krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in krabi thailand",
+      "volume": 260,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach hotel krabi thailand",
+      "volume": 260,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beachfront hotels in krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beachfront hotels krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort krabi ao nang beach krabi thailand",
+      "volume": 260,
+      "kd": 4,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels krabi thailand 5 star",
+      "volume": 260,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi heritage hotel ao nang thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand 5 star hotels",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand hotels 5 star",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand hotels 5-star",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand muay thai",
+      "volume": 260,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand villas",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather august",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather in august",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather january",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather october",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ritz-carlton thailand krabi",
+      "volume": 260,
+      "kd": 5,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand villas krabi",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villas krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in krabi thailand in august",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in krabi thailand in october",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to krabi from manchester",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi town night market",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in krabi ao nang",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather 14 days",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather forecast 14 days",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket to krabi speedboat",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket airport",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket distance",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather forecast 30 days",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to anywhere google flights",
+      "volume": 110,
+      "kd": 3,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in krabi 10 days",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket flight",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "map krabi ao nang",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap flights to krabi",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi town hotels",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "direct flights to krabi",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "direct flights to krabi from uk",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights from london to anywhere in europe",
+      "volume": 50,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights from uk to anywhere",
+      "volume": 50,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh lanta weather december",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi google map",
+      "volume": 50,
+      "kd": 12,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi map google",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand map google",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi town centre",
+      "volume": 50,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to krabi google flights",
+      "volume": 50,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh lanta weather by month",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket bus",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "map of krabi and phuket",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in krabi town",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best way to get from krabi to phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap flights to krabi from london",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh lanta weather january",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi town airport",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to krabi flight time",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "map of krabi beaches",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights from london to anywhere today",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "heathrow to krabi flights",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand hotels on the beach",
+      "volume": 20,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket ferry price",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket speedboat",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather forecast 15 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in krabi at night",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "unique things to do in krabi",
+      "volume": 20,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in krabi ao nang beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ao nang maps google",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi ao nang beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in krabi ao nang beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "direct flights to krabi from europe",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "emirates flights to krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "free things to do in krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "google map krabi ao nang",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh lanta weather 14 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh lanta weather bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh lanta weather forecast 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh lanta weather radar",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh phi phi weather by month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi airport to phuket airport distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi bus terminal to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi map tourist",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi old town things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi on world map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand hotels all inclusive",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather by month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket airport bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket airport taxi fare",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket bus timetable",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket distance by bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket distance by car",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket distance by ferry",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket distance by flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket drive",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket ferry distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket ferry tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket ferry time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket ferry with luggage",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket flight time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi to phuket train",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi tourist map pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi town map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi town restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi town shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather forecast 30 days accuweather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to phuket google flights",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phi phi island weather accuweather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phi phi island weather forecast 15 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phi phi island weather radar",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phi phi weather 14 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phi phi weather bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phi phi weather forecast 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in krabi with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 places to visit in krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in ko lanta 10 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in krabi tomorrow",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in phi phi islands 10 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where is krabi located in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 12,
+      "visibility": 4.8,
+      "estimatedTraffic": 4594.22
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 9.7,
+      "keywordCount": 10,
+      "visibility": 2.7999999999999994,
+      "estimatedTraffic": 2617.4399999999996
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 9,
+      "visibility": 4.8999999999999995,
+      "estimatedTraffic": 7650.280000000001
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 10.444444444444445,
+      "keywordCount": 9,
+      "visibility": 6.8,
+      "estimatedTraffic": 20780.620000000003
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 5.125,
+      "keywordCount": 8,
+      "visibility": 4.9,
+      "estimatedTraffic": 13912.14
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 6,
+      "keywordCount": 8,
+      "visibility": 4,
+      "estimatedTraffic": 5753.82
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 7.75,
+      "keywordCount": 8,
+      "visibility": 4.5,
+      "estimatedTraffic": 5371.13
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 29.77777777777778,
+      "keywordCount": 9,
+      "visibility": 0.3,
+      "estimatedTraffic": 495.49
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 24.875,
+      "keywordCount": 8,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 457
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 1.5,
+      "keywordCount": 6,
+      "visibility": 5.7,
+      "estimatedTraffic": 7549.2
+    },
+    {
+      "domain": "weather.metoffice.gov.uk",
+      "avgPosition": 1.5,
+      "keywordCount": 6,
+      "visibility": 5.7,
+      "estimatedTraffic": 7549.199999999999
+    },
+    {
+      "domain": "passport-for-living.com",
+      "avgPosition": 16.142857142857142,
+      "keywordCount": 7,
+      "visibility": 3.3,
+      "estimatedTraffic": 10785.869999999999
+    },
+    {
+      "domain": "www.accuweather.com",
+      "avgPosition": 3,
+      "keywordCount": 6,
+      "visibility": 4.8,
+      "estimatedTraffic": 3152.52
+    },
+    {
+      "domain": "www.timeanddate.com",
+      "avgPosition": 4.666666666666667,
+      "keywordCount": 6,
+      "visibility": 3.8000000000000003,
+      "estimatedTraffic": 1756.6200000000001
+    },
+    {
+      "domain": "www.holiday-weather.com",
+      "avgPosition": 5,
+      "keywordCount": 6,
+      "visibility": 3.5999999999999996,
+      "estimatedTraffic": 1641.6
+    },
+    {
+      "domain": "www.tmd.go.th",
+      "avgPosition": 8.666666666666666,
+      "keywordCount": 6,
+      "visibility": 1.4,
+      "estimatedTraffic": 554.04
+    },
+    {
+      "domain": "weather.com",
+      "avgPosition": 11.5,
+      "keywordCount": 6,
+      "visibility": 1.3,
+      "estimatedTraffic": 464.4
+    },
+    {
+      "domain": "thebackpackinghousewife.com",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 6,
+      "visibility": 1.85,
+      "estimatedTraffic": 2009.6
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 25.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.2,
+      "estimatedTraffic": 331.44
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 25.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.5,
+      "estimatedTraffic": 629.5200000000001
+    },
+    {
+      "domain": "www.msn.com",
+      "avgPosition": 13.5,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 196.56
+    },
+    {
+      "domain": "www.theweathernetwork.com",
+      "avgPosition": 16.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 197.64
+    },
+    {
+      "domain": "www.yr.no",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 6,
+      "visibility": 1.2,
+      "estimatedTraffic": 473.5799999999999
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 18,
+      "keywordCount": 6,
+      "visibility": 0.55,
+      "estimatedTraffic": 751.98
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 21,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 423.09999999999997
+    },
+    {
+      "domain": "www.barcelo.com",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.45,
+      "estimatedTraffic": 665.4200000000001
+    },
+    {
+      "domain": "www.thailandretreats.com",
+      "avgPosition": 23.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 274.2
+    },
+    {
+      "domain": "www.weather-forecast.com",
+      "avgPosition": 24.5,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 88.56
+    },
+    {
+      "domain": "www.predictwind.com",
+      "avgPosition": 10.8,
+      "keywordCount": 5,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 308.88
+    },
+    {
+      "domain": "www.weather2travel.com",
+      "avgPosition": 26.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 72.89999999999999
+    },
+    {
+      "domain": "www.wunderground.com",
+      "avgPosition": 11.8,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 211.14
+    },
+    {
+      "domain": "yandex.com.tr",
+      "avgPosition": 28.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 79.92
+    },
+    {
+      "domain": "www.netweather.tv",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 117.72
+    },
+    {
+      "domain": "www.virginatlantic.com",
+      "avgPosition": 39,
+      "keywordCount": 7,
+      "visibility": 0.65,
+      "estimatedTraffic": 439.25999999999993
+    },
+    {
+      "domain": "www.worldweatheronline.com",
+      "avgPosition": 16,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 123.11999999999999
+    },
+    {
+      "domain": "www.meteoblue.com",
+      "avgPosition": 31.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 84.24000000000001
+    },
+    {
+      "domain": "www.weatherapi.com",
+      "avgPosition": 18.8,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 81.53999999999999
+    },
+    {
+      "domain": "www.audleytravel.com",
+      "avgPosition": 32.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 252.14
+    },
+    {
+      "domain": "carolinerosetravel.com",
+      "avgPosition": 19.6,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 302.93
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 23.6,
+      "keywordCount": 5,
+      "visibility": 0.7,
+      "estimatedTraffic": 1327
+    },
+    {
+      "domain": "www.destination2.co.uk",
+      "avgPosition": 24.2,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 241.64999999999998
+    },
+    {
+      "domain": "en.ilmatieteenlaitos.fi",
+      "avgPosition": 27.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 56.7
+    },
+    {
+      "domain": "intermeteo.com",
+      "avgPosition": 39.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 79.92
+    },
+    {
+      "domain": "www.tuljak.com",
+      "avgPosition": 28.6,
+      "keywordCount": 5,
+      "visibility": 0.55,
+      "estimatedTraffic": 766.8299999999999
+    },
+    {
+      "domain": "www.yourweather.co.uk",
+      "avgPosition": 31.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 56.7
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 32.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 184.59999999999997
+    },
+    {
+      "domain": "www.climatestotravel.com",
+      "avgPosition": 17,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 101.52000000000001
+    },
+    {
+      "domain": "www.qweather.com",
+      "avgPosition": 35.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 56.7
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 46,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 200.33999999999997
+    },
+    {
+      "domain": "www.insightguides.com",
+      "avgPosition": 46.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 200.33999999999997
+    }
+  ]
+}
