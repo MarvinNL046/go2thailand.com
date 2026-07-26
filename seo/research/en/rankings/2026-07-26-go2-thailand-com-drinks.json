@@ -1,0 +1,68 @@
+{
+  "captured_at": "2026-07-26T15:36:22.438Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/drinks/",
+  "cost": 0.01296,
+  "rankings": [
+    {
+      "keyword": "thai drinks",
+      "position": 62,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/drinks/"
+    },
+    {
+      "keyword": "thailand beverages",
+      "position": 55,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/drinks/"
+    },
+    {
+      "keyword": "thailand drinks",
+      "position": 80,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/drinks/"
+    },
+    {
+      "keyword": "thai beverages",
+      "position": 72,
+      "volume": 90,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/drinks/"
+    },
+    {
+      "keyword": "thailand bucket drinks",
+      "position": 68,
+      "volume": 70,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/drinks/"
+    },
+    {
+      "keyword": "thai alcoholic beverages",
+      "position": 65,
+      "volume": 50,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/drinks/"
+    },
+    {
+      "keyword": "thai alcoholic drinks",
+      "position": 69,
+      "volume": 50,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/drinks/"
+    },
+    {
+      "keyword": "thai brew",
+      "position": 79,
+      "volume": 10,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/drinks/"
+    }
+  ]
+}
