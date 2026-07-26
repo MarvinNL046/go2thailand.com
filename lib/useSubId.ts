@@ -19,6 +19,7 @@ const PATH_SUBID_MAP: [RegExp, string][] = [
   [/^\/itineraries\//, "itinerary"],
   [/^\/compare\//, "compare"],
   [/^\/food\//, "food"],
+  [/^\/practical-info\//, "practical-info"],
   [/^\/region\//, "region"],
   [/^\/province\//, "province"],
   [/^\/visa\//, "visa"],
