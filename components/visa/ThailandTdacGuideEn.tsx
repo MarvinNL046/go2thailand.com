@@ -316,7 +316,7 @@ export default function ThailandTdacGuideEn() {
         ))}
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-tdac-hero.webp"
           imageAlt="Passport and phone beside a digital arrival workflow in a Thailand airport lounge"
@@ -898,7 +898,7 @@ export default function ThailandTdacGuideEn() {
             },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

@@ -31,6 +31,7 @@
 - Runtime alternates include English, Dutch and x-default.
 - WebPage, FAQPage, BreadcrumbList, HowTo and ItemList schema match visible content; global Organization schema remains present.
 - Ten visible exact PAA questions match FAQPage schema.
+- Sitewide semantic follow-up: the page-level wrapper is now a `div`, leaving the application layout as the single `<main>` landmark. A fresh local response returned HTTP 200 with exactly one `<main>` element.
 
 ## Sources and claims
 
