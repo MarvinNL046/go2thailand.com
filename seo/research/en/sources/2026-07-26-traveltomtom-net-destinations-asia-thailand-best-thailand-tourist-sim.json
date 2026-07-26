@@ -1,0 +1,2019 @@
+{
+  "captured_at": "2026-07-26T17:50:05.520Z",
+  "locale": "en",
+  "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Jump to main area",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Czech Republic",
+          "url": "https://www.traveltomtom.net/destinations/europe/czech-republic",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/europe/czech-republic",
+              "anchor_text": "Czech Republic"
+            }
+          ]
+        },
+        {
+          "text": "United Kingdom",
+          "url": "https://www.traveltomtom.net/destinations/europe/united-kingdom",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/europe/united-kingdom",
+              "anchor_text": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "url": "https://www.traveltomtom.net/destinations/asia/hong-kong",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/hong-kong",
+              "anchor_text": "Hong Kong"
+            }
+          ]
+        },
+        {
+          "text": "South Korea",
+          "url": "https://www.traveltomtom.net/destinations/asia/south-korea",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/south-korea",
+              "anchor_text": "South Korea"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://www.traveltomtom.net/destinations/asia/sri-lanka",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/sri-lanka",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Burkina Faso",
+          "url": "https://www.traveltomtom.net/destinations/africa/burkina-faso",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/burkina-faso",
+              "anchor_text": "Burkina Faso"
+            }
+          ]
+        },
+        {
+          "text": "Ivory Coast",
+          "url": "https://www.traveltomtom.net/destinations/africa/ivory-coast",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/ivory-coast",
+              "anchor_text": "Ivory Coast"
+            }
+          ]
+        },
+        {
+          "text": "Republic of Congo",
+          "url": "https://www.traveltomtom.net/destinations/africa/republic-of-congo",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/republic-of-congo",
+              "anchor_text": "Republic of Congo"
+            }
+          ]
+        },
+        {
+          "text": "Sao Tome & Principe",
+          "url": "https://www.traveltomtom.net/destinations/africa/sao-tome-principe",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/sao-tome-principe",
+              "anchor_text": "Sao Tome & Principe"
+            }
+          ]
+        },
+        {
+          "text": "South Africa",
+          "url": "https://www.traveltomtom.net/destinations/africa/south-africa",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/south-africa",
+              "anchor_text": "South Africa"
+            }
+          ]
+        },
+        {
+          "text": "The Gambia",
+          "url": "https://www.traveltomtom.net/destinations/africa/the-gambia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/the-gambia",
+              "anchor_text": "The Gambia"
+            }
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "url": "https://www.traveltomtom.net/destinations/middle-east/saudi-arabia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/middle-east/saudi-arabia",
+              "anchor_text": "Saudi Arabia"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica",
+          "url": "https://www.traveltomtom.net/destinations/north-america/costa-rica",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/north-america/costa-rica",
+              "anchor_text": "Costa Rica"
+            }
+          ]
+        },
+        {
+          "text": "El Salvador",
+          "url": "https://www.traveltomtom.net/destinations/north-america/el-salvador",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/north-america/el-salvador",
+              "anchor_text": "El Salvador"
+            }
+          ]
+        },
+        {
+          "text": "French Polynesia",
+          "url": "https://www.traveltomtom.net/destinations/oceania/french-polynesia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/french-polynesia",
+              "anchor_text": "French Polynesia"
+            }
+          ]
+        },
+        {
+          "text": "Marshall Islands",
+          "url": "https://www.traveltomtom.net/destinations/oceania/marshall-islands",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/marshall-islands",
+              "anchor_text": "Marshall Islands"
+            }
+          ]
+        },
+        {
+          "text": "New Zealand",
+          "url": "https://www.traveltomtom.net/destinations/oceania/new-zealand",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/new-zealand",
+              "anchor_text": "New Zealand"
+            }
+          ]
+        },
+        {
+          "text": "Papua New Guinea",
+          "url": "https://www.traveltomtom.net/destinations/oceania/papua-new-guinea",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/papua-new-guinea",
+              "anchor_text": "Papua New Guinea"
+            }
+          ]
+        },
+        {
+          "text": "Solomon Islands",
+          "url": "https://www.traveltomtom.net/destinations/oceania/solomon-islands",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/solomon-islands",
+              "anchor_text": "Solomon Islands"
+            }
+          ]
+        },
+        {
+          "text": "Antigua & Barbuda",
+          "url": "https://www.traveltomtom.net/destinations/caribbean/antigua-barbuda",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/caribbean/antigua-barbuda",
+              "anchor_text": "Antigua & Barbuda"
+            }
+          ]
+        },
+        {
+          "text": "Dominican Republic",
+          "url": "https://www.traveltomtom.net/destinations/caribbean/dominican-republic",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/caribbean/dominican-republic",
+              "anchor_text": "Dominican Republic"
+            }
+          ]
+        },
+        {
+          "text": "Group Trips",
+          "url": "https://www.traveltomtom.net/group-trips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/group-trips",
+              "anchor_text": "Group Trips"
+            }
+          ]
+        },
+        {
+          "text": "Travel Gear",
+          "url": "https://www.traveltomtom.net/travel-gear",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/travel-gear",
+              "anchor_text": "Travel Gear"
+            }
+          ]
+        },
+        {
+          "text": "Travel Tips",
+          "url": "https://www.traveltomtom.net/travel-tips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/travel-tips",
+              "anchor_text": "Travel Tips"
+            }
+          ]
+        },
+        {
+          "text": "Tech Tips",
+          "url": "https://www.traveltomtom.net/tech-tips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/tech-tips",
+              "anchor_text": "Tech Tips"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "I turned my life into a Journey.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Traveltomtom is where I share my story.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Privacy & Disclaimer",
+          "url": "https://www.traveltomtom.net/about/privacy-disclaimer",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/about/privacy-disclaimer",
+              "anchor_text": "Privacy & Disclaimer"
+            }
+          ]
+        },
+        {
+          "text": "Media Kit",
+          "url": "https://www.traveltomtom.net/medias/media-kit",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/medias/media-kit",
+              "anchor_text": "Media Kit"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "By Tom, an avid adventure traveler from The Netherlands continuously traveling the world since 2012, living a full time nomadic life.",
+            "url": "https://www.traveltomtom.net/team/tom",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/team/tom",
+                "anchor_text": "Tom"
+              }
+            ]
+          },
+          {
+            "text": "Looking for the best SIM card for Thailand in 2026? In this guide I show you exactly how to buy a prepaid SIM card in Thailand, what tourist SIM plans cost, where to buy them at the airport or in the city and which network gives the most reliable coverage for real travel routes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I have traveled to Thailand more than 25 times and spent almost a full year exploring the country. From Bangkok to Chiang Mai, from long-distance bus rides down south to Krabi and the islands, and even places like Khao Sok National Park and Pai, I have tested SIM cards while being on the move.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "One thing that still impresses me every time is how strong the mobile internet is. On most tourist routes you will have 5G coverage almost the entire way, including on trains, buses and on popular islands like Koh Samui, Koh Phangan, Koh Tao, Koh Lanta, Koh Chang and even Koh Lipe.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Prefer the convenience of setting everything up before you fly? Then also check my guide to the best eSIM for Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+                "anchor_text": "best eSIM for Thailand"
+              }
+            ]
+          },
+          {
+            "text": "For everyone else, below is my quick recommendation for the best tourist prepaid SIM cards, followed by a detailed breakdown of where to buy them, current prices and which network to choose.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Quick Recommendation – Thailand SIM Card 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "💰 Price indication: ~$9 to ~$22 USD for tourist SIM cards",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "📡 Best overall networks: AIS and True both offer excellent coverage across Thailand, including cities, islands and major travel routes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "🏝️ Best for rural travel: AIS has a slight edge in remote areas and mountains, but for most travelers the difference with True is minimal.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "⚡ Real-world performance: Even with full 5G signal, speeds are not always perfect. My recent AIS test showed occasional slowdowns and buffering on apps like Instagram and TikTok.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "💳 Where to buy: The easiest option is at the airport on arrival. Read my guide on buying a SIM card at Bangkok Airport for exact locations and prices.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+                "anchor_text": "buying a SIM card at Bangkok Airport"
+              }
+            ]
+          },
+          {
+            "text": "This article contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. All recommendations are based on independent research and personal experience.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Last updated: April 2026.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "📲 eSIM alternative: Want to be connected instantly? Check out my guide to the best eSIM for Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+                "anchor_text": "best eSIM for Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Do you need a SIM card for Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Yes, if you want to travel comfortably in Thailand it is highly recommended to get a SIM card for Thailand. Although WiFi is widely available in hotels, cafés and restaurants, you will quickly notice that mobile data makes traveling around the country much easier.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thailand is a country where you constantly rely on your phone. Ordering a Grab taxi, navigating with Google Maps, booking buses or ferries to the islands, checking train schedules, translating menus or simply staying in touch with friends and family all require a stable internet connection.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During my more than 25 trips to Thailand I have used mobile data everywhere from Bangkok and Chiang Mai to long bus rides through the countryside, train journeys across the country and even while island hopping in the south.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+                "anchor_text": "island hopping"
+              }
+            ]
+          },
+          {
+            "text": "Thailand has one of the strongest mobile infrastructures in Southeast Asia and in most tourist areas you will have 4G and even 5G coverage almost everywhere.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This includes long distance routes like Bangkok to Chiang Mai, buses heading south towards Krabi and Chumphon and even popular islands such as Koh Samui, Koh Phangan, Koh Tao, Koh Lanta and Koh Chang. Even when exploring more remote areas like Pai or parts of Khao Sok National Park you will often still have a strong signal.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-do-in-koh-tao",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-do-in-koh-tao",
+                "anchor_text": "Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "Because of this excellent coverage, buying a prepaid SIM card in Thailand is usually the easiest and cheapest way to stay connected during your trip.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Buying a SIM card at Bangkok Airport",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "The easiest place to buy a prepaid SIM card in Thailand is right after landing at the airport. All international airports have official stores from the three Thai mobile operators: AIS, True and dtac.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You will find these SIM card kiosks directly in the arrival halls near baggage claim or right after customs. Staff will help you choose a data package, register your passport and activate the SIM card for you within a couple minutes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Buying a tourist SIM card at the airport is usually slightly more expensive than in the city, but the convenience is often worth the small price difference.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you arrive in Bangkok at Suvarnabhumi Airport (BKK) then read my complete guide about buying a SIM card at Bangkok Airport where I explain exactly where to find the stores and what the latest prices are.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+                "anchor_text": "buying a SIM card at Bangkok Airport"
+              }
+            ]
+          },
+          {
+            "text": "Other airports in Thailand where you can easily buy a tourist SIM card include:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Phuket International Airport (HKT) – International Terminal arrivals hall",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Samui International Airport (USM) – Arrival Hall",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Chiang Mai International Airport (CNX) – Arrival Hall",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Chiang Rai International Airport (CEI) – Passenger Terminal arrivals area",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don Mueang Airport Bangkok (DMK) – Arrival Floor between Terminal 1 and Terminal 2",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you are curious what the process looks like, watch my vlog below where I show exactly what it is like buying a tourist SIM card after arriving at Bangkok Airport.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Buying a SIM card in Thailand city centers",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "If you don't want to buy a SIM card at the airport you can easily get one later in the city. Thailand has official mobile phone stores everywhere and they are very easy to find in all major tourist destinations.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Every large shopping mall in cities like Bangkok, Chiang Mai, Phuket, Krabi and Koh Samui has official AIS, True or dtac stores where you can buy a Thailand prepaid SIM card for tourists.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The advantage of buying your SIM card in an official store is that everything is very straightforward. Staff speak decent English, prices are fixed and they will activate the SIM card and data package for you on the spot.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If there is no line, you will be out in 5 minutes. You simply show your passport, choose a tourist SIM plan and within no-time your phone will be connected to the Thai mobile network.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Buying a SIM card from convenience stores",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "You can also buy a prepaid SIM card in convenience stores like 7-Eleven, Family Mart and Tesco Lotus. These stores are everywhere in Thailand and often open 24 hours.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "However, buying a SIM card here is not always the most convenient option. Convenience stores usually sell SIM starter packs from True or dtac, but activation and choosing the correct data package can be confusing.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The registration process requires your passport and the staff often cannot help much with the activation steps. Most packages are displayed in Thai and you may have to set everything up yourself.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Because of this Traveltomtom generally recommends buying your tourist SIM card at the airport or in an official mobile operator store instead.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "That said, convenience stores can still be useful if you arrive late at night or quickly need a SIM card while traveling.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "If this is your first time visiting Thailand, you may also want to read my guide with things to know before traveling to Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+                "anchor_text": "things to know before traveling to Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Buying an eSIM for Thailand online",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "If you prefer to avoid visiting a shop entirely you can also install an eSIM for Thailand before your trip. This means your phone connects to the network immediately after landing.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The best eSIM for Thailand in 2026 is offered by SimOptions (clear winner). Jetpac and Nomad are good alternatives.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "SimOptions"
+              },
+              {
+                "url": "https://circleslife.pxf.io/rQYXEj",
+                "anchor_text": "Jetpac"
+              },
+              {
+                "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                "anchor_text": "Nomad"
+              }
+            ]
+          },
+          {
+            "text": "If you want a full comparison of prices, data allowances and networks read my detailed guide about the best eSIM for Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+                "anchor_text": "best eSIM for Thailand"
+              }
+            ]
+          },
+          {
+            "text": "For short trips an eSIM can sometimes even be cheaper than buying a physical tourist SIM card after arrival.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "If you are planning a longer trip through Southeast Asia you may also want to look at my guide with the best SIM cards for traveling in Asia.",
+            "url": "https://www.traveltomtom.net/travel-tips/asia-sim-card",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/travel-tips/asia-sim-card",
+                "anchor_text": "best SIM cards for traveling in Asia"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Prepaid SIM card providers in Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "There are three main mobile network operators in Thailand that sell prepaid SIM cards for tourists : AIS, True and dtac. These three companies operate the nationwide mobile networks and all tourist SIM cards connect directly to one of these networks.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Coverage across Thailand is excellent. On most popular travel routes you will have fast 4G or even 5G signal almost everywhere, whether you are exploring the unusual things to do in Bangkok, traveling through northern Thailand or island hopping in the south.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/unusual-things-to-do-in-bangkok",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/unusual-things-to-do-in-bangkok",
+                "anchor_text": "unusual things to do in Bangkok"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+                "anchor_text": "island hopping in the south"
+              }
+            ]
+          },
+          {
+            "text": "Below is a quick overview of the three mobile operators in Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "AIS",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "AIS (Advanced Info Service) is the largest mobile network operator in Thailand and has long been known for its strong nationwide coverage.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Largest telecom provider in Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Excellent coverage in cities and rural areas",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Strong performance on travel routes and islands",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Very reliable 4G and 5G network",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tourist SIM cards widely available at airports and shopping malls",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "AIS works very well in major tourist destinations such as Bangkok, Chiang Mai, Phuket, Krabi and Koh Samui, but also along long travel routes like the train connection between Chiang Mai and Bangkok.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "On my most recent trip to Thailand I tested the AIS unlimited data tourist SIM for 15 days. Overall the experience was good, but not perfect.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Although I had a 5G signal almost everywhere, the data speed was not always consistent. Around 70% of the time data speeds were fast, but there were also moments when I had full 5G coverage and still experienced slower loading times, especially when using apps like Instagram and TikTok where videos sometimes buffered.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This was a bit surprising because AIS markets these plans as unlimited data at maximum speed (often advertised as 100 Mbps to 500 Mbps). In reality, performance can fluctuate depending on network congestion and location.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "That said, for general travel use like navigation, messaging and browsing it still worked well. Just don’t expect flawless high-speed performance at all times, even when your phone shows full 5G signal.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "True",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "TrueMove H, usually called True, is another major mobile network operator in Thailand and offers excellent coverage across the country.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Second largest mobile operator in Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Very strong 4G and 5G coverage in cities",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Excellent performance in beach destinations and islands",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Large number of official retail stores",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Popular tourist SIM card packages",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "True has invested heavily in expanding its network over the past years and performs very well in tourist hotspots such as Phuket, Koh Samui, Koh Phangan and Koh Lanta.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "dtac",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "dtac used to be the third major telecom operator in Thailand, but the company merged with True in 2023. Both brands now operate under the same company called True Corporation.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Part of True Corporation after the 2023 merger",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Uses the combined infrastructure of the True network",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Very strong nationwide 4G and 5G coverage",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tourist SIM cards widely available at airports",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Often competitive tourist data plans",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The merger between True and dtac was a big shift in the Thai telecom market because it combined two large networks. For travelers this means that both True and dtac SIM cards now offer excellent coverage across Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In the next section we take a closer look at the mobile internet coverage in Thailand and how the AIS and True/dtac networks perform across the country.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Mobile internet in Thailand: 4G and 5G coverage",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Thailand has one of the best mobile internet networks in Southeast Asia. Whether you are exploring big cities, traveling by train across the country or island hopping in the south, mobile coverage is extremely reliable.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Based on my personal experience traveling to Thailand more than 25 times and spending almost a full year in the country, I can confidently say that both the AIS network and the True / dtac network perform very well across the country.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "On most tourist routes you will have strong 4G or even 5G signal almost everywhere.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Network coverage across Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Mobile internet coverage in Thailand is excellent in all major travel destinations.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bangkok, Chiang Mai and Phuket all have extremely strong 4G and 5G coverage.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Train routes such as Bangkok to Chiang Mai maintain stable mobile signal for most of the journey.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Long distance bus routes from Bangkok towards Krabi, Surat Thani and the southern islands also have continuous coverage.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Popular islands such as Koh Samui, Koh Phangan, Koh Tao, Koh Lanta and Koh Chang all have strong mobile networks.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Even remote places like Koh Lipe in the far south now have excellent coverage.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During my trips I often work while traveling and use a lot of mobile data. Even on long train rides or overnight buses I was able to stream videos, upload videos to YouTube and work online without major connectivity issues.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Coverage in rural areas and national parks",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Even when traveling outside major cities the mobile internet network in Thailand performs surprisingly well.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For example when exploring the mountains around Pai in Northern Thailand, I still had strong 4G and often even 5G signal while riding around the countryside by scooter.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Traveling around Thailand is very easy and renting a scooter is common in many destinations. If you plan to do this, read my tips on how to rent a motorbike in Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/tips-on-how-to-rent-a-motorbike-in-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/tips-on-how-to-rent-a-motorbike-in-thailand",
+                "anchor_text": "how to rent a motorbike in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "The same applies when traveling through Khao Sok National Park or when island hopping in southern Thailand. Mobile coverage is generally available in villages, towns and along main roads.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Of course in deep jungle areas or remote mountain valleys signal can sometimes disappear temporarily, but overall coverage across Thailand is extremely impressive.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Is there 5G in Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes, 5G is widely available in Thailand and coverage continues to expand rapidly.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "All three operators (AIS, True and dtac) offer extensive 5G coverage in major cities, airports, transport routes and tourist destinations.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "On many travel routes you will see a constant 5G signal. For example:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Train journeys between Bangkok and Chiang Mai",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bus routes from Bangkok to Krabi and southern Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Popular islands such as Koh Samui, Koh Phangan and Koh Tao",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Beach destinations like Phuket and Krabi",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Even smaller islands such as Koh Lipe",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This makes Thailand a great destination for travelers who rely heavily on mobile data for navigation, remote work, social media or streaming.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In the next section we will take a closer look at the latest prepaid SIM card prices in Thailand in 2026.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Prices of prepaid SIM cards in Thailand in 2026",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The price of a prepaid tourist SIM card in Thailand depends mainly on the validity period of the plan. All three mobile operators ( AIS, True and dtac) offer special tourist SIM packages that include large data allowances or unlimited data for short trips.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Based on the official tourist SIM offers from the Thai mobile operators, prices typically range between 299 THB and 1,199 THB depending on how long you stay in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Below is an overview of the current tourist SIM plans offered by the Thai networks.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "AIS tourist SIM prices",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "AIS sells its tourist packages under the name AIS Lucky Tourist SIM. These plans are widely available at airports and AIS stores across Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "These tourist SIM cards include unlimited data at max speed on the AIS network, free calls within the AIS network, a 100 THB call bonus for domestic or international calls and access to AIS Super WiFi.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "5 days – 399 THB",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "8 days – 499 THB",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "15 days – 699 THB",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "30 days – 1,199 THB",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "60 days – 1,599 THB",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "True tourist SIM prices",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "True offers several tourist SIM packages including the standard Thailand Tourist SIM and the Thailand Tourist Infinite SIM.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "True tourist SIM plans include unlimited 5G internet at max speed, unlimited WiFi access and unlimited calls to all networks in Thailand. Some plans also include 100 THB calling credit for international calls.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "8 days – 499 THB",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "10 days – 349 THB",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "15 days – 699 THB",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "30 days – 1,199 THB",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "dtac tourist SIM prices",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "dtac offers tourist packages under the name Happy Tourist SIM. These plans are available as both physical SIM cards and eSIM.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "8 days – 299 THB (15 GB at max speed)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "15 days – 599 THB (30 GB at max speed)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Both dtac tourist plans include unlimited internet usage at a reduces data speed after the high-speed allowance, free call credit and unlimited calls within the dtac network.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "As you can see, tourist SIM cards in Thailand are affordable and there are plans available for short trips of a few days as well as longer stays of several weeks.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "What is the best prepaid SIM card for tourists in Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The good news is that it is actually hard to choose a bad prepaid SIM card in Thailand. The country has one of the strongest mobile networks in Southeast Asia and both AIS and True / dtac perform very well across the country.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Based on my experience traveling to Thailand more than 25 times, most tourists will be perfectly fine with either AIS or True. Whether you are exploring Bangkok, heading north to Chiang Mai, traveling south to Krabi or island hopping between Koh Samui, Koh Phangan and Koh Tao, you will generally have strong 4G and often even 5G coverage.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+                "anchor_text": "island hopping between Koh Samui, Koh Phangan and Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "That said, after recently testing the AIS unlimited data tourist SIM for 15 days, I would add one important nuance.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Overall the experience was good, but it was definitely not perfect. Even though I had 5G signal almost everywhere, the data speed was not always as impressive as expected. Around 70% of the time the connection was fast, but there were also moments when I had full 5G coverage and still noticed slower performance, especially when using Instagram and TikTok where videos sometimes buffered.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "That was a little disappointing because AIS sells these tourist SIM cards as unlimited data at maximum speed, often suggesting speeds of more than 100 Mbps up to 500 Mbps.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In real life, performance clearly still depends on network congestion and location. So while AIS remains one of the best networks in Thailand, do not expect flawless high-speed performance all the time just because your phone shows full 5G signal.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This is also why I would say the best tourist SIM card in Thailand is no longer just about which network has the strongest signal on paper. It is more about choosing the right package for your trip and setting realistic expectations. AIS still has a slight edge for rural travel and remote areas, but True is an equally strong alternative for most tourists and may deliver a very similar overall experience.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "📱 Best overall network: AIS and True are both excellent choices for traveling in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "🏝️ Best for rural travel: AIS has a slight edge in more remote areas, mountains and long overland travel routes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "⚡ Best for realistic expectations: Even with full 5G signal, data speeds are not always perfect. My recent AIS experience showed that social media apps like Instagram and TikTok can still buffer at times.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "💡 Best advice: For most travelers the choice simply comes down to which tourist SIM plan fits your trip length and budget best.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you want the safest choice, buy either an AIS or True tourist SIM at the airport when you arrive. Both are easy to set up in official stores and both work very well across Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Another convenient option is installing an Thailand eSIM before your trip, which allows you to connect to the internet immediately after landing without visiting a mobile store.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+                "anchor_text": "Thailand eSIM"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Best eSIM for Thailand in 2026",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "If your phone supports eSIM you can also install a data plan before traveling to Thailand. This allows you to connect to the internet immediately after landing without visiting a mobile store or swapping SIM cards.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In the past buying a local prepaid SIM card in Thailand was always the cheapest option. But in recent years eSIM prices have dropped significantly and some plans are now very competitive compared to local tourist SIM cards.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Based on my research SimOptions, Jetpac and Nomad offer the best eSIMs for Thailand in 2026.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+                "anchor_text": "best eSIMs for Thailand in 2026"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "SimOptions",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "SimOptions offers one of the most interesting eSIM plans for Thailand because the eSIM connects directly to the dtac/True network in Thailand.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "SimOptions"
+              }
+            ]
+          },
+          {
+            "text": "Works directly on the Thai network",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Because this eSIM operates directly on a Thai network instead of using international roaming infrastructure, it often delivers very strong speeds.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Unlimited data",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Includes calls",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "10 & 15 days validity",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Price: ~$10 - $20 USD",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Jetpac",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Jetpac is known for offering very competitive prices and large data packages.",
+            "url": "https://circleslife.pxf.io/rQYXEj",
+            "urls": [
+              {
+                "url": "https://circleslife.pxf.io/rQYXEj",
+                "anchor_text": "Jetpac"
+              }
+            ]
+          },
+          {
+            "text": "Reliable connection in Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Easy installation through the Jetpac app",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Jetpac is often one of the best value eSIMs if you want a large amount of data for a relatively low price.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Large data allowances",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Very competitive pricing",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Nomad",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Nomad is another well known eSIM provider with good coverage across Thailand.",
+            "url": "https://lotusflareinc.pxf.io/X4YxWo",
+            "urls": [
+              {
+                "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                "anchor_text": "Nomad"
+              }
+            ]
+          },
+          {
+            "text": "Good option for short trips",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nomad eSIMs are easy to install, but in some cases the connection only activates after arriving in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you want to compare all plans in detail you can read my complete guide to the best eSIM for Thailand where I compare all providers, prices and data allowances.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+                "anchor_text": "best eSIM for Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Affordable plans",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Simple installation",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Reliable network connection",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "eSIMs vs local prepaid SIM cards in Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Both local prepaid SIM cards and eSIMs are good options for staying connected while traveling in Thailand. Which one is best for you mostly depends on convenience, price and how you prefer to set up your internet connection.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In general, buying a local SIM card after arriving in Thailand is still the most traditional option. But eSIM technology has become very popular in recent years because it allows travelers to activate mobile data before their trip.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Advantages of buying a local SIM card in Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Usually the cheapest option for longer trips",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Direct connection to the Thai mobile network",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Very easy to buy at airports or official stores",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Staff will activate the SIM card for you",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You receive a Thai phone number starting with +66",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you arrive at Bangkok Airport for example, you can walk into an AIS, True or dtac shop and be connected within a few minutes.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+                "anchor_text": "Bangkok Airport"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Advantages of using an eSIM",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Install your mobile data plan before your trip",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "No need to visit a phone store after arrival",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Keep your physical SIM card in your phone",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Instant internet connection when landing",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Perfect for short trips",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "An eSIM can be especially convenient if you arrive late at night, have a short connection time at the airport or simply prefer to have internet immediately when your plane lands.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you are planning a trip around the country, check out my complete Thailand itinerary for 2 weeks to see how to combine the most popular destinations.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-itinerary-for-2-weeks",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-itinerary-for-2-weeks",
+                "anchor_text": "Thailand itinerary for 2 weeks"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Which option should you choose?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "If you want the cheapest option and don't mind visiting a mobile shop, buying a prepaid SIM card in Thailand is usually the best choice.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you prefer maximum convenience, installing an eSIM before traveling to Thailand is the easiest solution.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Both options work very well in Thailand thanks to the excellent nationwide coverage of the AIS and True / dtac networks.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Things to know before buying a SIM card in Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Buying a prepaid SIM card in Thailand is very straightforward, but there are a few things tourists should know before getting one.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Below are some practical tips based on my own experiences traveling around Thailand and buying SIM cards many times over the years.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "SIM card registration in Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "In the past it was possible to buy a prepaid SIM card in Thailand without showing identification. That is no longer the case.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Today all SIM cards must be registered with a passport. When buying a tourist SIM card the staff will take a copy of your passport and register the SIM card under your name.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You can register up to five SIM cards per passport. The registration process only takes a couple minutes and is normally handled directly by the shop staff.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Once activated, your SIM card will come with a Thai phone number starting with +66.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Free SIM cards in Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "You may sometimes see promotions offering a free SIM card in Thailand. Airlines or airport stands occasionally hand out these SIM cards to arriving travelers.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "However, these SIM cards usually contain almost no usable data.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For example, Thai Airways has previously distributed dtac SIM cards that advertise free 8 GB of data, but in reality the SIM card initially only includes a very small amount of credit and you still need to top up to activate the full data package.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In other words, the SIM card itself may be free, but the actual mobile data plan is not.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Make sure your phone is unlocked",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Before buying a prepaid SIM card for Thailand it is important that your phone is SIM unlocked.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If your phone is locked to your mobile provider from your home country, a Thai SIM card will not work. Most modern smartphones are unlocked, but if you are unsure it is best to check with your mobile provider before traveling.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Can tourists get a Thai phone number?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes. When you buy a prepaid SIM card in Thailand you automatically receive a Thai phone number. These numbers always start with the country code +66.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This can be useful for local calls, restaurant reservations or verifying certain apps that require a local phone number.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Can tourists buy a SIM card in Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes. Tourists can easily buy a prepaid SIM card in Thailand at airports, official mobile stores and many shopping malls. You only need to show your passport to register the SIM card.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Which SIM card is best for tourists in Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Both AIS and True / dtac offer excellent coverage across Thailand. For most travelers there is little difference between the networks, so the best tourist SIM card usually depends on which package fits your trip length and data needs.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Can I buy a SIM card at Bangkok Airport?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes. All major international airports in Thailand have official AIS, True and dtac stores in the arrival halls. Buying a SIM card at the airport is the easiest option and staff will activate the SIM card for you within a few minutes.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "You can read my full guide about buying a SIM card at Bangkok Airport for exact locations and prices.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+                "anchor_text": "buying a SIM card at Bangkok Airport"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Do I need a passport to buy a SIM card in Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes. Thai law requires SIM card registration, so you must show your passport when buying a prepaid SIM card. The store will register the SIM card under your name and passport number.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Is there 5G in Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes. Thailand has excellent 5G coverage in major cities, airports and most tourist destinations. On many travel routes such as Bangkok to Chiang Mai or Bangkok to Krabi you will have strong 4G or 5G signal for most of the journey.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Can I use an eSIM in Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes, if your phone supports eSIM you can install a data plan before traveling to Thailand. This allows you to connect to the internet immediately after landing without visiting a mobile store.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "For a full comparison of providers and prices read my guide about the best eSIM for Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+                "anchor_text": "best eSIM for Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Are SIM cards in Thailand expensive?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "No. Thailand is known for affordable mobile data. Tourist SIM cards typically cost between 299 THB and 1,199 THB (~$10 - $40 USD) depending on the validity period and data allowance.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "What should you try when visiting Thailand?",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "One of the best parts of traveling in Thailand is the food. Don’t miss trying some of the amazing Thai street foods while exploring the country.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-street-foods",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-street-foods",
+                "anchor_text": "Thai street foods"
+              }
+            ]
+          },
+          {
+            "text": "How to get around Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Let me help you getting around Thailand and find the best with train, bus, ferry and even domestic flight tickets. Try the search engine below and get all the options in one overview, including time tables and prices.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "No more paper tickets and tour agencies, simply book your ticket online!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Powered by 12Go system",
+            "url": "https://12go.com/?z=589469&sub_id=prepaid-sim-card-thailand",
+            "urls": [
+              {
+                "url": "https://12go.com/?z=589469&sub_id=prepaid-sim-card-thailand",
+                "anchor_text": "12Go system"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Final thoughts",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Buying a prepaid SIM card in Thailand is one of the easiest travel essentials to arrange. With excellent mobile coverage across the country and affordable tourist packages from AIS, True and dtac, staying connected while traveling in Thailand is simple and reliable.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "After visiting Thailand more than 25 times, I can honestly say the country has one of the best mobile networks in Southeast Asia. Whether you are exploring Bangkok, taking the train to Chiang Mai, relaxing on tropical islands or traveling through national parks, you will almost always have fast mobile internet available.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If this is your first time visiting the country, I highly recommend reading my guide with things to know before traveling to Thailand. And if you are planning a longer trip around the country, check out my suggested Thailand itinerary for 2 weeks to see how to combine the best destinations.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+                "anchor_text": "things to know before traveling to Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-itinerary-for-2-weeks",
+                "anchor_text": "Thailand itinerary for 2 weeks"
+              }
+            ]
+          },
+          {
+            "text": "If you have questions about buying a SIM card in Thailand feel free to leave a comment below. I'm always happy to help fellow travelers stay connected on the road.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For more Thailand travel tips and wanderlust inspiration check out my Instagram account @traveltomtom.",
+            "url": "https://www.instagram.com/traveltomtom",
+            "urls": [
+              {
+                "url": "https://www.instagram.com/traveltomtom",
+                "anchor_text": "@traveltomtom"
+              }
+            ]
+          },
+          {
+            "text": "Enjoy your trip to Thailand!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Where to buy a prepaid SIM card in Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "FAQ about SIM cards in Thailand",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Popular tags",
+        "main_title": "Best Prepaid SIM Card for Thailand (2026 Tourist Guide)",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "info@traveltomtom.net"
+      ]
+    }
+  }
+}

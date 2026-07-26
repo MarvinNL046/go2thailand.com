@@ -1,5 +1,11 @@
 # NL eSIM en simkaart Thailand — acceptance audit
 
+## Routewiring hersteld — 26 juli 2026
+
+- De bestaande typed premium owner stond wel in de codebase maar werd niet vanuit `pages/travel-guides/[slug].tsx` aangeroepen. De route is nu expliciet gekoppeld aan `ThailandEsimSimGuide` voor zowel NL als EN.
+- `/nl/travel-guides/sim-card-thailand/` rendert daardoor weer de hieronder geaudite premium connectiviteitspagina in plaats van de generieke legacy travel-guide-template.
+- De gedeelde OneLink-kaarten tonen drie gelokaliseerde actuele-prijs-CTA’s; runtime geeft HTTP 200.
+
 **Route:** `/nl/travel-guides/sim-card-thailand/`
 
 **Datum:** 25 juli 2026
