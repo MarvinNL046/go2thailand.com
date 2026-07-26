@@ -38,6 +38,7 @@ interface EditorialHeroProps {
   descriptionClassName?: string;
   imageClassName?: string;
   gradientClassName?: string;
+  breadcrumbAriaLabel?: string;
 }
 
 const defaultGradient = 'bg-[linear-gradient(180deg,rgba(252,250,246,0.08)_0%,rgba(252,250,246,0.38)_42%,rgba(252,250,246,0.98)_100%)] lg:bg-[linear-gradient(90deg,rgba(252,250,246,0.98)_0%,rgba(252,250,246,0.91)_35%,rgba(252,250,246,0.28)_63%,rgba(18,63,54,0.08)_100%)]';
@@ -61,6 +62,7 @@ export function EditorialHero({
   descriptionClassName = 'mt-4 max-w-[580px] text-sm leading-7',
   imageClassName = 'object-cover object-[65%_center] lg:object-center',
   gradientClassName = defaultGradient,
+  breadcrumbAriaLabel = 'Kruimelpad',
 }: EditorialHeroProps) {
   return (
     <section className={`relative overflow-hidden bg-mist ${minHeightClassName}`}>
@@ -70,7 +72,7 @@ export function EditorialHero({
 
       <div className={`container-custom relative z-10 flex items-end pb-10 pt-32 lg:items-center lg:pb-0 lg:pt-20 ${minHeightClassName}`}>
         <div className={contentClassName}>
-          <nav aria-label="Kruimelpad" className="mb-5 flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-[0.13em] text-jade/65">
+          <nav aria-label={breadcrumbAriaLabel} className="mb-5 flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-[0.13em] text-jade/65">
             {breadcrumbs.map((breadcrumb, index) => (
               <span key={`${breadcrumb.label}-${index}`} className="contents">
                 {index > 0 ? <span aria-hidden="true">/</span> : null}

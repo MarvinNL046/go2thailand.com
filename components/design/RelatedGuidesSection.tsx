@@ -22,9 +22,10 @@ interface RelatedGuidesSectionProps {
     affiliate?: boolean;
   };
   disclosure?: string;
+  readLabel?: string;
 }
 
-export function RelatedGuidesSection({ eyebrow = 'Verder plannen', title, guides, sideLink, disclosure }: RelatedGuidesSectionProps) {
+export function RelatedGuidesSection({ eyebrow = 'Verder plannen', title, guides, sideLink, disclosure, readLabel = 'Lees de gids' }: RelatedGuidesSectionProps) {
   const sideLinkRel = sideLink?.affiliate ? 'noopener noreferrer nofollow sponsored' : 'noopener noreferrer';
   const sideLinkIsExternal = Boolean(sideLink && (sideLink.affiliate || /^https?:\/\//i.test(sideLink.href)));
   const sideLinkContent = sideLink ? <>{sideLink.label} {sideLinkIsExternal ? <ExternalLink size={14} aria-hidden="true" /> : <ArrowRight size={14} aria-hidden="true" />}</> : null;
@@ -55,7 +56,7 @@ export function RelatedGuidesSection({ eyebrow = 'Verder plannen', title, guides
               <div className="p-5">
                 <h3 className="font-display text-[1.65rem] font-semibold leading-none text-jade">{guide.title}</h3>
                 <p className="mt-3 text-xs leading-5 text-charcoal/60">{guide.description}</p>
-                <span className="mt-4 inline-flex items-center gap-2 text-xs font-extrabold text-jade">Lees de gids <ArrowRight size={14} aria-hidden="true" className="text-saffron transition group-hover:translate-x-1" /></span>
+                <span className="mt-4 inline-flex items-center gap-2 text-xs font-extrabold text-jade">{readLabel} <ArrowRight size={14} aria-hidden="true" className="text-saffron transition group-hover:translate-x-1" /></span>
               </div>
             </Link>
           ))}

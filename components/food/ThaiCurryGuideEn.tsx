@@ -280,6 +280,7 @@ export function ThaiCurryGuideEn() {
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Five bowls of Thai curry served beside fresh herbs and rice"
+          breadcrumbAriaLabel="Breadcrumb"
           breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Food', href: '/food/' }, { label: 'Thai curry guide' }]}
           eyebrow="Choose by flavour, not colour"
           title={<>Thai curry.</>}
@@ -311,7 +312,7 @@ export function ThaiCurryGuideEn() {
           )}
         />
 
-        <PageSectionNav items={navItems} />
+        <PageSectionNav label="On this page" items={navItems} />
 
         <section id="choose" className="section-divider-bottom scroll-mt-24 py-16 lg:py-24">
           <div className="container-custom">
@@ -526,7 +527,7 @@ export function ThaiCurryGuideEn() {
             <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between"><SectionHeading eyebrow="Keep tasting" title="Build your own Thailand food route" /><a href={cookingClassHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="inline-flex items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">Check current class price at Klook <ExternalLink size={14} /></a></div>
             <div className="mt-8 grid gap-5 md:grid-cols-3">
               {[
-                { title: 'Thai food guide', description: 'Move beyond the best-known curries and build a balanced list of dishes to try.', href: '/food/', image: HERO_IMAGE },
+                { title: 'Thai food guide', description: 'Move beyond the best-known curries and build a balanced list of dishes to try.', href: '/food/', image: '/images/redesign/thailand-food-hub-hero.webp' },
                 { title: 'Thailand street food', description: 'Choose between stalls, food courts and markets without trying to eat everything in one evening.', href: '/thailand-street-food/', image: '/images/redesign/thai-curry-ordering.webp' },
                 { title: 'Thai cooking classes', description: 'Compare destinations and class styles when you want to practise techniques during your trip.', href: '/best-cooking-classes-in-thailand/', image: '/images/redesign/thai-curry-home-cooking.webp' },
               ].map((guide) => <Link key={guide.href} href={guide.href} className="group overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-editorial-card"><div className="relative h-44 overflow-hidden"><Image src={guide.image} alt={guide.title} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover transition duration-500 group-hover:scale-[1.035]" /></div><div className="p-5"><h3 className="font-display text-[1.65rem] font-semibold leading-none text-jade">{guide.title}</h3><p className="mt-3 text-xs leading-5 text-charcoal/62">{guide.description}</p><span className="mt-4 inline-flex items-center gap-2 text-xs font-extrabold text-jade">Read the guide <ArrowRight size={14} className="text-saffron transition group-hover:translate-x-1" /></span></div></Link>)}

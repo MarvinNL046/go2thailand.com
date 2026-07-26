@@ -46,6 +46,7 @@ import { BangkokSpecialtyCoffeeGuide } from '../../components/food/BangkokSpecia
 import { CaveFantasyBangkokGuide } from '../../components/attractions/CaveFantasyBangkokGuide';
 import { NewLuxuryResortsThailandGuide } from '../../components/hotels/NewLuxuryResortsThailandGuide';
 import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
+import { JoddFairsRatchadaGuideEn } from '../../components/markets/JoddFairsRatchadaGuideEn';
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
 import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
 import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
@@ -217,6 +218,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'jodd-fairs-bangkok-night-market-guide') {
     return <JoddFairsRatchadaGuide />;
+  }
+
+  if (locale !== 'nl' && post.slug === 'jodd-fairs-bangkok-night-market-guide') {
+    return <JoddFairsRatchadaGuideEn />;
   }
 
   if (locale === 'nl' && post.slug === 'chatuchak-weekend-market-food-guide') {
