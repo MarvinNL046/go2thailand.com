@@ -103,7 +103,7 @@ const evidenceItems = [
 ];
 
 const faqs = [
-  { question: 'Heb je een toeristenvisum nodig voor Thailand?', answer: 'Bij de broncontrole op 24 juli 2026 vermelden NederlandWereldwijd en de Thaise ambassade in Den Haag voor een Nederlands paspoort nog maximaal 60 dagen visumvrije toegang. Voor een langere reis, meerdere binnenkomsten of na een formele regelwijziging kan een Tourist Visa passend zijn. Controleer de live regel opnieuw vlak voor vertrek.' },
+  { question: 'Heb je een toeristenvisum nodig voor Thailand?', answer: 'Bij de broncontrole op 26 juli 2026 vermelden NederlandWereldwijd en de Thaise ambassade in Den Haag voor een Nederlands paspoort nog maximaal 60 dagen visumvrije toegang. Voor een langere reis, meerdere binnenkomsten of na een formele regelwijziging kan een Tourist Visa passend zijn. Controleer de live regel opnieuw vlak voor vertrek.' },
   { question: 'Hoe lang mag je zonder visum in Thailand verblijven?', answer: 'De actuele Nederlandse overheidsbron vermeldt bij onze controle maximaal 60 dagen voor Nederlandse paspoorthouders. Thailand heeft een terugkeer naar 30 dagen aangekondigd, maar de formele publicatie en ingangsdatum zijn bepalend. De stempel bij aankomst bevat altijd je concrete uiterste vertrekdatum.' },
   { question: 'Wat kost een toeristenvisum voor Thailand vanuit Nederland?', answer: 'De officiële tarieflijst van de Thaise ambassade in Den Haag noemt €35 voor een single-entry Tourist Visa van drie maanden en €175 voor een multiple-entry Tourist Visa van zes maanden. De aanvraagkosten zijn volgens de algemene voorwaarden niet terugbetaalbaar.' },
   { question: 'Hoe lang is een Thailand Tourist Visa geldig?', answer: 'Voor TR1 toont de officiële categoriechecklist een visumgeldigheid van drie maanden voor single entry en zes maanden voor multiple entry. Dat is het venster waarin je het visum gebruikt. De toegestane verblijfsperiode is 60 dagen per binnenkomst en staat los van die geldigheidsklok.' },
@@ -119,7 +119,7 @@ export default function ThailandTouristVisaGuide() {
   const transportHref = withPlacementSubId(TWELVEGO_GENERIC, 'nl-tourist-visa', 'onward-proof');
 
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Toeristenvisum Thailand vanuit Nederland', description: 'Beslis- en aanvraaggids voor visumvrij reizen, single-entry en multiple-entry Tourist Visa Thailand.', url: 'https://go2-thailand.com/nl/visa/tourist-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Toeristenvisum Thailand vanuit Nederland', description: 'Beslis- en aanvraaggids voor visumvrij reizen, single-entry en multiple-entry Tourist Visa Thailand.', url: 'https://go2-thailand.com/nl/visa/tourist-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' },
     { '@type': 'ListItem', position: 2, name: 'Visum Thailand', item: 'https://go2-thailand.com/nl/visa/' },
@@ -134,7 +134,7 @@ export default function ThailandTouristVisaGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-tourist-visa-hero.webp"
           imageAlt="Reiziger controleert paspoort en reisplan voor een toeristische reis naar Thailand"
@@ -151,7 +151,7 @@ export default function ThailandTouristVisaGuide() {
           imageClassName="object-cover object-[70%_center] lg:object-center"
           gradientClassName="bg-[linear-gradient(180deg,rgba(4,42,34,0.22)_0%,rgba(4,42,34,0.56)_43%,rgba(4,42,34,0.99)_100%)] lg:bg-[linear-gradient(90deg,rgba(4,42,34,0.99)_0%,rgba(4,42,34,0.95)_43%,rgba(4,42,34,0.15)_69%,rgba(4,42,34,0.01)_100%)]"
           contentClassName="max-w-[840px] [&_nav]:!text-white/60 [&_nav_span]:!text-white/75"
-          sideCard={<div className="absolute bottom-8 right-[max(2rem,calc((100vw-1280px)/2))] z-10 hidden w-[320px] rounded-2xl border border-white/25 bg-jade/82 p-5 text-white shadow-editorial-card backdrop-blur-lg xl:block"><p className="text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Actuele status · 24 juli 2026</p><strong className="mt-3 block font-display text-3xl font-semibold">Nu: tot 60 dagen visumvrij</strong><p className="mt-3 text-[10px] font-semibold leading-5 text-white/58">30 dagen is aangekondigd, maar de formele ingangsdatum blijft leidend. Controleer opnieuw vóór vertrek.</p></div>}
+          sideCard={<div className="absolute bottom-8 right-[max(2rem,calc((100vw-1280px)/2))] z-10 hidden w-[320px] rounded-2xl border border-white/25 bg-jade/82 p-5 text-white shadow-editorial-card backdrop-blur-lg xl:block"><p className="text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Actuele status · 26 juli 2026</p><strong className="mt-3 block font-display text-3xl font-semibold">Nu: tot 60 dagen visumvrij</strong><p className="mt-3 text-[10px] font-semibold leading-5 text-white/58">30 dagen is aangekondigd, maar de formele ingangsdatum blijft leidend. Controleer opnieuw vóór vertrek.</p></div>}
         />
 
         <PageSectionNav items={sectionNav} />
@@ -187,7 +187,7 @@ export default function ThailandTouristVisaGuide() {
           { title: 'E-Visa General Conditions', creator: 'Royal Thai Embassy The Hague', url: 'https://hague.thaiembassy.org/th/publicservice/e-visa-general-conditions/', note: 'Primaire bron voor aanvraag vanuit Nederland, niet-terugbetaalbare kosten, indicatieve behandeling en aanvraagmoment.' },
           { title: 'Revised Fees for Consular Services', creator: 'Royal Thai Embassy The Hague', url: 'https://hague.thaiembassy.org/th/content/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A5-2567', note: 'Officiële Nederlandse tarieven: €35 single-entry Tourist Visa en €175 multiple entry.' },
         ]} />
-      </main>
+      </div>
     </>
   );
 }

@@ -108,7 +108,7 @@ const visaRoutes = [
 ];
 
 const faqs = [
-  { question: 'Heb ik een visum nodig voor Thailand?', answer: 'Bij de broncontrole op 24 juli 2026 vermeldt NederlandWereldwijd dat je met een Nederlands paspoort voor maximaal 60 dagen geen visum nodig hebt. Thailand heeft een wijziging naar 30 dagen goedgekeurd, maar die wordt pas van kracht na de vereiste formele publicatie en termijn. Controleer daarom vlak voor vertrek opnieuw de live bron.' },
+  { question: 'Heb ik een visum nodig voor Thailand?', answer: 'Bij de broncontrole op 26 juli 2026 vermelden NederlandWereldwijd en de Thaise ambassade in Den Haag dat je met een Nederlands paspoort voor maximaal 60 dagen geen visum nodig hebt. Thailand heeft een wijziging naar 30 dagen goedgekeurd, maar die wordt pas van kracht na de vereiste formele publicatie en termijn. Controleer daarom vlak voor vertrek opnieuw de live bron.' },
   { question: 'Hoe lang mag je in Thailand verblijven zonder visum?', answer: 'Voor Nederlandse paspoorthouders vermeldt de actuele Nederlandse overheidsbron bij onze controle maximaal 60 dagen. De stempel bij aankomst bevat je uiterste vertrekdatum. Een aangekondigde terugkeer naar 30 dagen is nog geen reden om zelf een ingangsdatum te verzinnen; de officiële publicatie is leidend.' },
   { question: 'Welke documenten heb je nodig om naar Thailand te reizen?', answer: 'Neem een onbeschadigd Nederlands paspoort mee dat bij aankomst nog minimaal zes maanden geldig is. Je moet je vertrek binnen de toegestane periode kunnen aantonen en je vult binnen drie dagen inclusief de aankomstdag een TDAC in. Kinderen hebben een eigen paspoort en TDAC nodig.' },
   { question: 'Hoe lang van tevoren kun je de TDAC invullen?', answer: 'De officiële TDAC-FAQ zegt dat indienen kan binnen drie dagen vóór aankomst, waarbij de aankomstdag meetelt. “Vijf tot zeven dagen vooraf” is dus onjuist. Verzamel je paspoort-, vlucht- en adresgegevens eerder, maar dien pas in wanneer het officiële venster open is.' },
@@ -134,7 +134,7 @@ export default function ThailandVisaGuide() {
     description: 'Beslisgids voor Nederlandse reizigers over visumvrij verblijf, paspoort, TDAC, bewijs van vertrek en langere visumroutes.',
     url: 'https://go2-thailand.com/nl/visa/',
     inLanguage: 'nl-NL',
-    dateModified: '2026-07-24',
+    dateModified: '2026-07-26',
   };
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -157,7 +157,7 @@ export default function ThailandVisaGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-visa-hero.webp"
           imageAlt="Reiziger controleert telefoon en reisdocumenten voor vertrek naar Thailand"
@@ -179,7 +179,7 @@ export default function ThailandVisaGuide() {
           contentClassName="max-w-[700px] [&_nav]:!text-white/60 [&_nav_span]:!text-white/75"
           sideCard={
             <div className="absolute bottom-8 right-[max(2rem,calc((100vw-1280px)/2))] z-10 hidden w-[320px] rounded-2xl border border-white/25 bg-jade/80 p-5 text-white shadow-editorial-card backdrop-blur-lg xl:block">
-              <p className="text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Broncontrole · 24 juli 2026</p>
+              <p className="text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Broncontrole · 26 juli 2026</p>
               <p className="mt-3 font-display text-2xl font-semibold leading-tight">Nu: 60 dagen. Aangekondigd: 30 dagen, ingangsdatum nog formeel te bevestigen.</p>
               <div className="mt-4 flex items-center gap-3 border-t border-white/12 pt-4 text-[10px] font-semibold text-white/58"><RefreshCw size={16} className="text-saffron-light" />Controleer opnieuw vóór boeken en vertrek.</div>
             </div>
@@ -451,7 +451,7 @@ export default function ThailandVisaGuide() {
         <SourceMethodSection
           eyebrow="Bronnen & regelstatus"
           title="Een visumpagina moet verschil maken tussen nu, aangekondigd en ingegaan."
-          description="DataForSEO-zoektermen, concurrenten en echte PAA-vragen zijn op 24 juli 2026 voor Nederland onderzocht. Voor actuele regels gebruikt Go2Thailand alleen officiële Nederlandse en Thaise bronnen; aankondigingen krijgen geen zelfbedachte ingangsdatum."
+          description="DataForSEO-zoektermen, concurrenten en echte PAA-vragen zijn op 24 juli 2026 voor Nederland onderzocht. De officiële Nederlandse en Thaise regels zijn op 26 juli opnieuw gecontroleerd; aankondigingen krijgen geen zelfbedachte ingangsdatum."
           sources={[
             { title: 'Reisadvies Thailand', creator: 'Ministerie van Buitenlandse Zaken · NederlandWereldwijd', url: 'https://www.nederlandwereldwijd.nl/reisadvies/thailand', note: 'Actuele Nederlandse bron voor paspoortgeldigheid, huidige visumvrije termijn, bewijs van vertrek en TDAC.' },
             { title: 'Revision of visa exemption schemes', creator: 'Ministry of Foreign Affairs Thailand · 19 mei 2026', url: 'https://www.mfa.go.th/en/content/summary-press-briefing-190526', note: 'Primaire bron voor de goedgekeurde wijziging en de voorwaarde dat deze na Royal Gazette-publicatie en de formele termijn ingaat.' },
@@ -459,7 +459,7 @@ export default function ThailandVisaGuide() {
             { title: 'TDAC Official FAQ', creator: 'Thailand Immigration Bureau', url: 'https://tdac.immigration.go.th/manual/en/faq.html', note: 'Primaire bron voor termijn, kosten, kinderen, transit, herhaalde binnenkomsten, benodigde gegevens en correcties.' },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

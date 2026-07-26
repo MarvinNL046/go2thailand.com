@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 import {
   Baby,
   CalendarDays,
@@ -110,7 +111,7 @@ export default function ThailandTdacGuide() {
     description: 'Nederlandse stap-voor-stapgids voor de Thailand Digital Arrival Card met indienmoment, benodigde gegevens, kinderen, groepen en fouten herstellen.',
     url: 'https://go2-thailand.com/nl/visa/digital-arrival-card/',
     inLanguage: 'nl-NL',
-    dateModified: '2026-07-24',
+    dateModified: '2026-07-26',
   };
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -134,7 +135,7 @@ export default function ThailandTdacGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-tdac-hero.webp"
           imageAlt="Paspoort en telefoon met een digitale aankomstworkflow in een Thaise luchthavenlounge"
@@ -184,6 +185,9 @@ export default function ThailandTdacGuide() {
                 );
               })}
             </div>
+            <p className="mt-6 max-w-3xl text-xs font-medium leading-6 text-charcoal/62">
+              De TDAC staat los van je verblijfsrecht. Controleer daarom ook de <Link href="/visa/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4">actuele inreis- en visumregels</Link>; reis je langer of met meerdere binnenkomsten, vergelijk dan afzonderlijk het <Link href="/visa/tourist-visa/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4">toeristenvisum voor Thailand</Link>.
+            </p>
             <a href={OFFICIAL_TDAC} target="_blank" rel="noopener noreferrer" className="mt-5 flex items-center justify-between gap-4 rounded-2xl border border-jade/10 bg-jade px-5 py-4 text-white shadow-editorial-card">
               <span><strong className="block text-sm">Officiële website: tdac.immigration.go.th</strong><span className="mt-1 block text-[10px] font-medium text-white/55">Gratis · Thailand Immigration Bureau · controleer het domein letter voor letter.</span></span>
               <ExternalLink size={18} className="shrink-0 text-saffron-light" />
@@ -342,14 +346,14 @@ export default function ThailandTdacGuide() {
         <SourceMethodSection
           eyebrow="Bron & onderzoek"
           title="De officiële handleiding bepaalt de stappen."
-          description="Nederlandse zoektermen, concurrenten en echte PAA-vragen zijn op 24 juli 2026 met DataForSEO onderzocht. Vereisten, uitzonderingen, groepslimiet, correcties en invultijd komen rechtstreeks uit de actuele TDAC-handleiding en FAQ van Thailand Immigration Bureau."
+          description="Nederlandse zoektermen, concurrenten en echte PAA-vragen zijn op 24 juli 2026 met DataForSEO onderzocht. Vereisten, uitzonderingen, groepslimiet, correcties en invultijd zijn op 26 juli opnieuw gecontroleerd tegen de actuele TDAC-handleiding en FAQ van Thailand Immigration Bureau."
           sources={[
             { title: 'TDAC User Guide', creator: 'Thailand Immigration Bureau', url: 'https://tdac.immigration.go.th/manual/en/', note: 'Primaire stap-voor-stapbron voor individuele en groepsindiening, gegevensvelden, preview, download en wijzigingen.' },
             { title: 'TDAC FAQ & Updates', creator: 'Thailand Immigration Bureau', url: 'https://tdac.immigration.go.th/manual/en/faq.html', note: 'Primaire bron voor termijn, kosten, kinderen, transit, vervoer, geldigheid, groepen, invultijd en herstel van fouten.' },
             { title: 'Reisadvies Thailand', creator: 'NederlandWereldwijd', url: 'https://www.nederlandwereldwijd.nl/reisadvies/thailand', note: 'Nederlandse overheidscontext voor paspoort, aankomstvoorwaarden en controle vlak voor vertrek.' },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

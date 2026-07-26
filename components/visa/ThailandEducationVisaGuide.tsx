@@ -118,7 +118,7 @@ export default function ThailandEducationVisaGuide() {
   const hotelHref = withPlacementSubId(TRIP_GENERIC, 'nl-education-visa', 'first-weeks');
 
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Studievisum Thailand: Non-Immigrant ED', description: 'Beslisgids voor ED1, ED2, ED3, ED4, ED6 en ED Plus vanuit Nederland.', url: 'https://go2-thailand.com/nl/visa/education-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Studievisum Thailand: Non-Immigrant ED', description: 'Beslisgids voor ED1, ED2, ED3, ED4, ED6 en ED Plus vanuit Nederland.', url: 'https://go2-thailand.com/nl/visa/education-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' },
     { '@type': 'ListItem', position: 2, name: 'Visum Thailand', item: 'https://go2-thailand.com/nl/visa/' },
@@ -131,7 +131,7 @@ export default function ThailandEducationVisaGuide() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
     </SEOHead>
-    <main className="bg-canvas text-charcoal">
+    <div className="bg-canvas text-charcoal">
       <EditorialHero image="/images/redesign/thailand-education-visa-hero.webp" imageAlt="Internationale student volgt een Thaise taalles in een groene binnenplaats in Chiang Mai" breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Visum', href: '/visa/' }, { label: 'Studievisum' }]} eyebrow="ED1 · ED2 · ED3 · ED6 · ED Plus" title={<>Studievisum Thailand.<br /><span className="text-saffron">Je opleiding kiest de route.</span></>} subtitle="Begin bij de schoolbrief, niet bij het formulier." description="Taalstudie, Muay Thai, universiteit en een curriculaire stage vallen niet vanzelf onder dezelfde ED-categorie. Vergelijk eerst doel, onderwijsniveau en de partij die jouw inschrijving officieel kan bevestigen." actions={[{ label: 'Kies je studieroute', href: '#keuze', kind: 'primary' }, { label: 'Open officiële checklist', href: EMBASSY_CATEGORIES, kind: 'secondary', newTab: true }]} minHeightClassName="min-h-[760px] lg:min-h-[720px]" titleClassName="max-w-[900px] text-[3.25rem] leading-[0.88] !text-white sm:text-[4.55rem] lg:text-[5.05rem]" subtitleClassName="max-w-[650px] !text-white" descriptionClassName="mt-4 max-w-[590px] text-sm leading-7 !text-white opacity-72" imageClassName="object-cover object-[73%_center] lg:object-center" gradientClassName="bg-[linear-gradient(180deg,rgba(4,42,34,0.18)_0%,rgba(4,42,34,0.58)_46%,rgba(4,42,34,0.99)_100%)] lg:bg-[linear-gradient(90deg,rgba(4,42,34,0.99)_0%,rgba(4,42,34,0.96)_44%,rgba(4,42,34,0.18)_70%,rgba(4,42,34,0.02)_100%)]" contentClassName="max-w-[900px] [&_nav]:!text-white/60 [&_nav_span]:!text-white/75" sideCard={<div className="absolute bottom-8 right-[max(2rem,calc((100vw-1280px)/2))] z-10 hidden w-[315px] rounded-2xl border border-white/22 bg-jade/82 p-5 text-white shadow-editorial-card backdrop-blur-lg xl:block"><p className="text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Belangrijkste controle</p><strong className="mt-3 block font-display text-3xl font-semibold">Kan de school dit bewijzen?</strong><p className="mt-3 text-[10px] font-semibold leading-5 text-white/58">Een mooie cursuspagina is geen bevoegd ondertekende inschrijvings- en autoriteitsbrief.</p></div>} />
       <PageSectionNav items={sectionNav} />
 
@@ -169,6 +169,6 @@ export default function ThailandEducationVisaGuide() {
         {title:'Revised Fees for Consular Services',creator:'Royal Thai Embassy The Hague · sinds 15 juli 2024',url:EMBASSY_FEES,note:'Primaire bron voor €70 Non-Immigrant Visa single entry met drie maanden geldigheid.'},
         {title:'Public handbooks · study in public/private education',creator:'Thailand Immigration Bureau',url:IMMIGRATION_STUDY,note:'Primaire bron voor afzonderlijke verlengingsroutes, schoolbevestiging, voortgang, aanwezigheid en 1.900 THB Immigration-tarief.'},
       ]}/>
-    </main>
+    </div>
   </>;
 }

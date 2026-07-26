@@ -112,7 +112,7 @@ export default function ThailandLtrVisaGuide() {
   const hotelHref = withPlacementSubId(TRIP_GENERIC, 'nl-ltr-visa', 'first-month');
   const esimHref = withPlacementSubId(SAILY_GENERIC, 'nl-ltr-visa', 'arrival');
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Thailand LTR Visa vanuit Nederland', description: 'Kwalificatiegids voor LTR-W, LTR-P, LTR-T en LTR-H met 2025-criteria, 5+5 jaar en afgiftekosten.', url: 'https://go2-thailand.com/nl/visa/ltr-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Thailand LTR Visa vanuit Nederland', description: 'Kwalificatiegids voor LTR-W, LTR-P, LTR-T en LTR-H met 2025-criteria, 5+5 jaar en afgiftekosten.', url: 'https://go2-thailand.com/nl/visa/ltr-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' },
     { '@type': 'ListItem', position: 2, name: 'Visum Thailand', item: 'https://go2-thailand.com/nl/visa/' },
@@ -123,7 +123,7 @@ export default function ThailandLtrVisaGuide() {
     <SEOHead title="Thailand LTR Visa: eisen, 5+5 jaar en kosten" description="Thailand LTR Visa aanvragen? Vergelijk LTR-W, LTR-P, LTR-T en LTR-H, de actuele 2025-eisen, 5+5 jaar, 50.000 THB of €1.750 kosten en BOI-proces." ogImage="https://go2-thailand.com/images/redesign/thailand-ltr-visa-hero.webp">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} /><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} /><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
     </SEOHead>
-    <main className="bg-canvas text-charcoal">
+    <div className="bg-canvas text-charcoal">
       <EditorialHero image="/images/redesign/thailand-ltr-visa-hero.webp" imageAlt="Internationale professionals bespreken hun langverblijf vanuit een woning in Bangkok" breadcrumbs={[{label:'Thailand',href:'/'},{label:'Visum',href:'/visa/'},{label:'LTR Visa'}]} eyebrow="LTR-W · LTR-P · LTR-T · LTR-H" title={<>Thailand LTR Visa.<br/><span className="text-saffron">Kwalificeer je echt?</span></>} subtitle="Tien jaar begint met vier strenge bewijsroutes." description="Vermogen, passief inkomen, een buitenlandse werkgever of expertise in een doelsector: jouw route bepaalt wat BOI controleert. Vergelijk eerst de drempels en bouw daarna pas je dossier." actions={[{label:'Vergelijk de vier routes',href:'#route',kind:'primary'},{label:'Open officiële BOI-check',href:BOI_LTR,kind:'secondary',newTab:true}]} minHeightClassName="min-h-[760px] lg:min-h-[720px]" titleClassName="max-w-[880px] text-[3.35rem] leading-[0.88] !text-white sm:text-[4.7rem] lg:text-[5.2rem]" subtitleClassName="max-w-[650px] !text-white" descriptionClassName="mt-4 max-w-[590px] text-sm leading-7 !text-white opacity-72" imageClassName="object-cover object-[73%_center] lg:object-center" gradientClassName="bg-[linear-gradient(180deg,rgba(4,42,34,0.18)_0%,rgba(4,42,34,0.6)_46%,rgba(4,42,34,0.99)_100%)] lg:bg-[linear-gradient(90deg,rgba(4,42,34,0.99)_0%,rgba(4,42,34,0.96)_44%,rgba(4,42,34,0.17)_70%,rgba(4,42,34,0.02)_100%)]" contentClassName="max-w-[900px] [&_nav]:!text-white/60 [&_nav_span]:!text-white/75" sideCard={<div className="absolute bottom-8 right-[max(2rem,calc((100vw-1280px)/2))] z-10 hidden w-[315px] rounded-2xl border border-white/22 bg-jade/82 p-5 text-white shadow-editorial-card backdrop-blur-lg xl:block"><p className="text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">De echte looptijd</p><strong className="mt-3 block font-display text-3xl font-semibold">5 jaar + hercheck + 5 jaar</strong><p className="mt-3 text-[10px] font-semibold leading-5 text-white/58">Vermogen, investering, werk en verzekering moeten tijdens het programma blijven kloppen.</p></div>} />
       <PageSectionNav items={sectionNav}/>
 
@@ -165,6 +165,6 @@ export default function ThailandLtrVisaGuide() {
         {title:'LTR Visa issuance information',creator:'Thailand Board of Investment',url:BOI_ISSUANCE,note:'Primaire bron voor endorsement van 60 dagen, 50.000 THB bij TIESC, e-Visa-afgifte, herbeoordeling en work-permitverschillen.'},
         {title:'Revised Fees for Consular Services',creator:'Royal Thai Embassy The Hague',url:EMBASSY_FEES,note:'Primaire Nederlandse bron voor €1.750 afgiftekosten van een tienjarig LTR multiple-entryvisum.'},
       ]}/>
-    </main>
+    </div>
   </>;
 }

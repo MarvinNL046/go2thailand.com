@@ -121,7 +121,7 @@ export default function ThailandDtvGuide() {
     description: 'Beslis- en aanvraaggids voor het Destination Thailand Visa met officiële categorieën, duur, financiële eis en Nederlandse e-Visa-route.',
     url: 'https://go2-thailand.com/nl/visa/digital-nomad-visa/',
     inLanguage: 'nl-NL',
-    dateModified: '2026-07-24',
+    dateModified: '2026-07-26',
   };
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -145,7 +145,7 @@ export default function ThailandDtvGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-dtv-hero.webp"
           imageAlt="Remote professional werkt vanuit een Thaise kustomgeving met paspoort en bewijsmap"
@@ -326,7 +326,7 @@ export default function ThailandDtvGuide() {
             { title: 'Thailand New Visa Measures', creator: 'Department of Consular Affairs · Thailand MFA', url: 'https://image.mfa.go.th/mfa/0/4a5AsMHake/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C_%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%A5%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%B2_Visa_%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%94%E0%B8%95/New_Measures_as_of_29_May_2024_-_1955.pdf', note: 'Primaire bron voor maximaal 180 dagen per entry en één mogelijke verlenging tot maximaal 180 dagen.' },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

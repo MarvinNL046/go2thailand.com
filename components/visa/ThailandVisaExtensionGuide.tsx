@@ -129,7 +129,7 @@ export default function ThailandVisaExtensionGuide() {
   const transportHref = withPlacementSubId(TWELVEGO_GENERIC, 'nl-visa-extension', 'onward-plan');
 
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Visum Thailand verlengen', description: 'Praktische beslisgids voor een toeristische verblijfsverlenging, TM.7, 1.900 THB, e-Extension en het verschil met een border run.', url: 'https://go2-thailand.com/nl/visa/visa-extension/', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Visum Thailand verlengen', description: 'Praktische beslisgids voor een toeristische verblijfsverlenging, TM.7, 1.900 THB, e-Extension en het verschil met een border run.', url: 'https://go2-thailand.com/nl/visa/visa-extension/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' },
     { '@type': 'ListItem', position: 2, name: 'Visum Thailand', item: 'https://go2-thailand.com/nl/visa/' },
@@ -144,7 +144,7 @@ export default function ThailandVisaExtensionGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-visa-extension-hero.webp"
           imageAlt="Reiziger controleert de datum in zijn paspoort voor een verblijfsverlenging in Thailand"
@@ -196,7 +196,7 @@ export default function ThailandVisaExtensionGuide() {
           { title: 'Official Thailand e-Extension', creator: 'Immigration Bureau via officiële provinciale E-Service', url: IMMIGRATION_E_EXTENSION, note: 'Bevestigt het officiële VFS-kanaal voor online indiening, betaling en afspraak bij geselecteerde categorieën.' },
           { title: 'Criteria for extension of stay', creator: 'Royal Thai Police · Order 327/2557 en aanvullingen', url: 'https://www.immigration.go.th/?page_id=1666', note: 'Juridische grondslag voor de afzonderlijke verlengingsredenen en individuele beoordeling.' },
         ]} />
-      </main>
+      </div>
     </>
   );
 }

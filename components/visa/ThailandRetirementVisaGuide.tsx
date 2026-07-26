@@ -119,7 +119,7 @@ export default function ThailandRetirementVisaGuide() {
   const esimHref = withPlacementSubId(SAILY_GENERIC, 'nl-retirement-visa', 'arrival-connectivity');
 
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Pensioenvisum Thailand: Non-O, O-A en O-X vergelijken', description: 'Nederlandse beslisgids voor de drie belangrijkste Thaise pensioenvisumroutes, met officiële eisen, kosten en bewijsstukken.', url: 'https://go2-thailand.com/nl/visa/retirement-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-25' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Pensioenvisum Thailand: Non-O, O-A en O-X vergelijken', description: 'Nederlandse beslisgids voor de drie belangrijkste Thaise pensioenvisumroutes, met officiële eisen, kosten en bewijsstukken.', url: 'https://go2-thailand.com/nl/visa/retirement-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' },
     { '@type': 'ListItem', position: 2, name: 'Visum Thailand', item: 'https://go2-thailand.com/nl/visa/' },
@@ -134,7 +134,7 @@ export default function ThailandRetirementVisaGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-retirement-visa-hero.webp"
           imageAlt="Nederlands stel bereidt op een rustige Thaise veranda een lang verblijf voor"
@@ -241,7 +241,7 @@ export default function ThailandRetirementVisaGuide() {
           { title: 'TM.47 — Notification of staying longer than 90 days', creator: 'Thailand Immigration Bureau', url: 'https://www.immigration.go.th/wp-content/uploads/2022/10/18.Form-TM-47.pdf', note: 'Officieel formulier dat de periodieke adresmelding benoemt en expliciet vermeldt dat dit geen extension of stay is.' },
           { title: 'Public Handbook: Application for Re-Entry Permit', creator: 'Thailand Immigration Bureau', url: 'https://www.immigration.go.th/citizen_manual/guid_en5.pdf', note: 'Officiële handleiding voor de TM.8-aanvraag, documenten en single- of multiple-re-entry permit.' },
         ]} />
-      </main>
+      </div>
     </>
   );
 }

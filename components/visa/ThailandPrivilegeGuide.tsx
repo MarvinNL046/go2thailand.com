@@ -97,7 +97,7 @@ export default function ThailandPrivilegeGuide() {
   const esimHref = withPlacementSubId(SAILY_GENERIC, 'nl-thailand-privilege', 'arrival');
 
   const faqJsonLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageJsonLd = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Thailand Privilege Card: actuele kosten en eerlijke vergelijking', description: 'Vergelijk Bronze, Gold, Platinum, Diamond en Reserve, de werkelijke verblijfsregels, aanvraag en alternatieven.', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageJsonLd = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Thailand Privilege Card: actuele kosten en eerlijke vergelijking', description: 'Vergelijk Bronze, Gold, Platinum, Diamond en Reserve, de werkelijke verblijfsregels, aanvraag en alternatieven.', url: 'https://go2-thailand.com/nl/visa/thailand-elite-visa/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbJsonLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Thailand', item: 'https://go2-thailand.com/nl/' },
     { '@type': 'ListItem', position: 2, name: 'Visum', item: 'https://go2-thailand.com/nl/visa/' },
