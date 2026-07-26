@@ -34,6 +34,7 @@ export function CityBookingPlanner({
         'Hua Hin': 'Coast, market, heritage and national-park day experiences.',
         Pattaya: 'Culture, island, coast and carefully selected evening experiences.',
         Trat: 'Old town, food, community and carefully selected island experiences.',
+        Rayong: 'Mainland coast, old town, fruit season and selected island experiences.',
         Krabi: 'Island, coast, nature and local experiences.',
       }[cityName] || 'Tours, culture, nature and local experiences.');
   const transportDescription = isNl
@@ -51,6 +52,7 @@ export function CityBookingPlanner({
         'Hua Hin': 'Bangkok train, bus, transfer and onward coast connections.',
         Pattaya: 'Bangkok bus, transfer, airport and onward Gulf connections.',
         Trat: 'Bangkok bus, airport, pier and onward island connections.',
+        Rayong: 'Bangkok bus, mainland transfer, Ban Phe and onward island connections.',
         Krabi: 'Ferry, transfer, bus and onward connections.',
       }[cityName] || 'Transfers, buses, trains and onward connections.');
   const items = [

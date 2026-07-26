@@ -12,7 +12,7 @@
     "ru": "Rayong",
     "zh": "罗勇"
   },
-  "region": "Central",
+  "region": "Eastern",
   "province": "Rayong",
   "description": {
     "en": "Rayong works best as an eastern Gulf coast base built around Khao Laem Ya, Ban Phe and Mae Ramphueng first, then one deliberate Koh Samet or Prasae-side extension. The province gets stronger when you keep the mainland coast, old-town layer and fruit-season identity visible instead of treating everything as a ferry stop.",
@@ -42,7 +42,7 @@
   "image": "/images/cities/generated/rayong.webp",
   "seo": {
     "metaTitle": {
-      "en": "Rayong Thailand Guide 2026 | Mainland Coast, Koh Samet, Food, Hotels",
+      "en": "Rayong Thailand Travel Guide: Coast, City & Koh Samet",
       "nl": "Rayong Thailand gids 2026 | Vastelandkust, Koh Samet, food en hotels",
       "ja": "ラヨーンを満喫 | ラヨーンの観光・見どころガイド",
       "ko": "라용 태국 여행 가이드 2026",
@@ -53,7 +53,7 @@
       "zh": "发现罗勇 | 在罗勇做什么？"
     },
     "metaDescription": {
-      "en": "Plan Rayong around Khao Laem Ya, Ban Phe, Mae Ramphueng, the Prasae mangrove side, and one deliberate Koh Samet extension instead of thin ferry-only copy.",
+      "en": "Plan Rayong with the right mainland base, Khao Laem Ya, Mae Ramphueng, Ban Phe and one deliberate Koh Samet, fruit or mangrove extension.",
       "nl": "Plan Rayong rond Khao Laem Ya, Ban Phe, Mae Ramphueng, de Prasae-mangrovekant en hooguit één bewuste Koh Samet-uitstap, in plaats van dunne ferry-only copy.",
       "ja": "タイ・ラヨーンの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
       "ko": "라용(태국) 완벽 여행 가이드: 꼬사멧 섬, 과일 농장, 해산물, 해변. 팁과 동선을 정리한 실전형 가이드.",
@@ -593,24 +593,44 @@
   "safetyTips": "Rayong is generally straightforward, but coastal common sense still matters. Recheck sea conditions before any island transfer, respect active temple and shrine spaces when you add town stops, and do not treat mangrove boardwalks, wetland boat routes, or rocky sunset points as places to rush in poor weather or low light.",
   "faq": [
     {
-      "question": "Is Rayong only worth visiting for Koh Samet?",
-      "answer": "No. Koh Samet is the best-known extension, but Rayong is stronger when you also give time to Khao Laem Ya, Ban Phe, Mae Ramphueng, and either Yomjinda or the Prasae-side wetland route."
+      "question": "Is Rayong worth visiting in Thailand?",
+      "answer": "Yes, especially for travellers who want a quieter mainland coast, seafood, an old-town evening and access to Khao Laem Ya without Pattaya's denser urban pace. Rayong is strongest as a two- or three-day coast trip rather than only a ferry stop for Koh Samet."
     },
     {
-      "question": "How many nights do you need in Rayong?",
-      "answer": "Two or three nights is the strongest first trip. That gives you one mainland coast day, one edited extension day, and enough room for a city or old-town evening if you are staying in town."
+      "question": "What is Rayong Thailand known for?",
+      "answer": "Rayong is known for its mainland Gulf coast, Khao Laem Ya, the Ban Phe gateway to Koh Samet, seafood and seasonal fruit growing. Yomjinda Road and the Prasae-side mangroves add an old-town and ecological layer beyond the beaches."
     },
     {
-      "question": "Do you need to stay on Koh Samet?",
-      "answer": "Not always. A mainland stay often works better if you want Rayong itself to remain visible. An island night only makes sense when west-coast beach time or a fuller Samet day is genuinely part of the plan."
+      "question": "How long to spend in Rayong?",
+      "answer": "Two nights is a useful first minimum: one evening in Rayong City and one full mainland-coast day. Add a third day for either the Prasae mangroves, a currently operating fruit orchard or Koh Samet; each extension needs its own transport and timing."
     },
     {
-      "question": "What food should you prioritize in Rayong?",
-      "answer": "Keep seafood, Ban Phe market products, and one proper local or old-town meal visible. Rayong gets weaker when every meal becomes generic hotel or ranking-list copy."
+      "question": "What is there to do in Rayong?",
+      "answer": "A coherent first route combines Yomjinda Road, Khao Laem Ya, Mae Ramphueng Beach and Ban Phe. With another day, choose one eastern-coast mangrove route, seasonal orchard visit or Koh Samet stay instead of trying to combine all three."
     },
     {
-      "question": "When should you plan a fruit-garden stop in Rayong?",
-      "answer": "Fruit gardens matter most from April to June, when TAT still frames Rayong through orchard visits and fruit-season travel. Outside those months, coast and wetland stops usually deserve more weight."
+      "question": "Is Rayong better than Pattaya?",
+      "answer": "Neither is universally better. Rayong suits a quieter mainland-coast, seafood and road-trip brief; Pattaya offers denser city infrastructure, nightlife and a larger attraction mix. Choose by the atmosphere and transport pattern you actually want."
+    },
+    {
+      "question": "How to get from BKK to Rayong?",
+      "answer": "Rayong is commonly reached overland from Bangkok by bus, minivan or private transfer. Compare the exact departure point and final stop because Rayong City, Mae Ramphueng and Ban Phe are different bases; check current schedules and connection details before travel."
+    },
+    {
+      "question": "Which area to stay in Rayong?",
+      "answer": "Stay in Rayong City for Yomjinda, food and a practical urban base; Mae Ramphueng for the most useful first mainland beach; Ban Phe for a verified Koh Samet connection; or Mae Phim and the Prasae side for a slower east-coast road trip."
+    },
+    {
+      "question": "What Thai food is Rayong famous for?",
+      "answer": "Rayong is closely associated with seafood and seasonal tropical fruit. Ban Phe and coastal markets are useful for seafood, while orchard experiences depend on the current harvest; ask prices before ordering seafood sold by weight and verify orchard availability."
+    },
+    {
+      "question": "What is the best beach in Rayong, Thailand?",
+      "answer": "Mae Ramphueng is the most practical first mainland choice because it pairs well with Khao Laem Ya and Ban Phe. Laem Mae Phim suits a quieter eastern resort stay, while Koh Samet is a separate island trip. Check live sea and local beach conditions before swimming."
+    },
+    {
+      "question": "Is it worth going to Koh Samet?",
+      "answer": "Koh Samet can be worth it when island beach time is a main purpose of the trip and you have enough time for the Ban Phe pier, boat and island-side transfer. Stay on the mainland when Rayong's city, coast, food or mangrove route matters more than an island night."
     }
   ],
   "practicalInfo": {
@@ -726,7 +746,7 @@
     }
   ],
   "reviewed_by": "Go2Thailand Editorial Team",
-  "enhanced_at": "2026-03-27T00:00:00.000Z",
-  "factchecked_at": "2026-03-27T00:00:00.000Z",
-  "enrichedAt": "2026-03-27T00:00:00.000Z"
+  "enhanced_at": "2026-07-27T00:00:00.000Z",
+  "factchecked_at": "2026-07-27T00:00:00.000Z",
+  "enrichedAt": "2026-07-27T00:00:00.000Z"
 }
