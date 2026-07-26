@@ -47,7 +47,7 @@ This pillar leverages Thailand's **soft power** — its [food](/blog/thai-street
 
 ## Spreading Tourists Beyond Bangkok and Phuket
 
-A core part of the strategy involves **decentralizing tourism**. TAT wants to redirect visitor flows toward secondary cities and lesser-known provinces. Community-based tourism in places like [Nan](/city/nan/), [Lampang](/city/lampang/), [Trat](/city/trat/), and [Buriram](/city/buriram/) is getting significant promotional backing.
+A core part of the strategy involves **decentralizing tourism**. TAT wants to redirect visitor flows toward secondary cities and lesser-known provinces. Community-based tourism in places such as Nan and Buriram, alongside published guides for [Lampang](/city/lampang/) and [Trat](/city/trat/), is getting significant promotional backing.
 
 The goal is twofold: reduce overcrowding in hotspots like [Bangkok](/city/bangkok/) and [Phuket](/city/phuket/), while boosting economies in regions that have traditionally seen fewer international visitors.
 

@@ -63,7 +63,7 @@ So reframe the question. Instead of "how much of Thailand can I cram into 3 days
 
 Here is the uncomfortable truth no one writes about in itinerary articles. Your first day in Thailand is barely a day. Even if you land at 7am, you are running on 14+ hours of transit, two in-flight meals, and whatever sleep you managed in economy. Thailand is GMT+7, meaning +7 hours from London, +12 from New York, +4 from Dubai. Your body is a mess.
 
-Realistic day 1 timeline if you land at 8am at [Suvarnabhumi Airport](https://go2-thailand.com/airport/bangkok-suvarnabhumi/):
+Realistic day 1 timeline if you land at 8am at Suvarnabhumi Airport; our [Bangkok airport transfer guide](/blog/bangkok-airport-transfer-guide-2026/) explains the main ways into the city:
 
 | Time | Activity | Notes |
 |------|----------|-------|
@@ -75,7 +75,7 @@ Realistic day 1 timeline if you land at 8am at [Suvarnabhumi Airport](https://go
 | 17:00-19:00 | Chao Phraya river sunset | Tourist boat ~200 THB ($5.70) |
 | 19:00-21:00 | Dinner near hotel, then sleep | Do not push through to 11pm, you will regret it |
 
-Forget sunrise markets on day 1. Forget [Khao San Road](https://go2-thailand.com/district/khao-san-road/) at midnight. You will faceplant into your pad thai. Sleep early, get up early, and day 2 becomes your real first day. This is why we say a 3-day trip is really a 2.5-day trip.
+Forget sunrise markets on day 1. Forget [Khao San Road](/blog/khao-san-road-bangkok-is-it-still-worth-visiting-2026-guide/) at midnight. You will faceplant into your pad thai. Sleep early, get up early, and day 2 becomes your real first day. This is why we say a 3-day trip is really a 2.5-day trip.
 
 For getting around without burning hours, our [Bangkok public transport BTS MRT tourist guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) explains why the Sukhumvit and Silom BTS lines save you from sitting in traffic that kills short itineraries.
 
@@ -92,7 +92,7 @@ Assuming a Tuesday arrival and Friday departure, here is what actually works. Th
 - Sunset: Chao Phraya river tourist boat, one-stop cruise
 - Evening: dinner near hotel, bed by 9pm
 
-Stay near the river (Saphan Taksin BTS) or along the Sukhumvit line (Asok, Phrom Phong, Thong Lo). Booking a riverside hotel on [Booking.com](https://booking.tpo.lv/9edfcbf) pays itself back in commute time on a short trip. Do not stay at the airport, do not stay in [Chatuchak](https://go2-thailand.com/market/chatuchak/) far north, and do not stay in [Khao San](https://go2-thailand.com/district/khao-san-road/) unless you love 4am karaoke.
+Stay near the river (Saphan Taksin BTS) or along the Sukhumvit line (Asok, Phrom Phong, Thong Lo). A riverside hotel can pay back some of its cost in saved commute time on a short trip. Do not stay at the airport, do not stay in [Chatuchak](/areas/bangkok/chatuchak/) far north, and do not stay in [Khao San](/areas/bangkok/khao-san-banglamphu-old-city-north/) unless you love 4am karaoke.
 
 ### Day 2: Grand Palace + Day Trip OR Floating Market
 
@@ -121,8 +121,8 @@ Option C (floating market):
 
 ### Day 3: Chinatown, Rooftop, Flight Out
 
-- Morning: MBK or [Chatuchak Weekend Market](https://go2-thailand.com/market/chatuchak/) (if weekend)
-- Afternoon: [Chinatown (Yaowarat)](https://go2-thailand.com/district/yaowarat/) for dim sum and gold shops
+- Morning: MBK or [Chatuchak Weekend Market](/blog/chatuchak-market-bangkok-guide/) (if weekend)
+- Afternoon: [Chinatown (Yaowarat)](/areas/bangkok/chinatown-yaowarat/) for dim sum and gold shops
 - Late afternoon: hotel pickup of luggage
 - Evening: one rooftop dinner or river dinner cruise, then airport
 - Overnight flight back

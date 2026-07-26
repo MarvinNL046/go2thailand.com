@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import type { ClusterHotel, ClusterNeighborhood, HotelsPage, WhereToStayPage } from './cluster-types';
 import { normalizeWhereToStay } from './normalize-cluster';
+import { normalizeEnInternalHref } from './en-route-owners';
 
 export const SITE_URL = 'https://go2-thailand.com';
 
@@ -242,11 +243,24 @@ function listHotelCategoryPages(city: string): Array<{ slug: string; label: stri
 }
 
 function listAreaPages(city: string): Array<{ slug: string; name: string }> {
-  return listPseoRecords<{ citySlug?: string; areaSlug?: string; areaName?: string }>('areas')
-    .filter(record => record.citySlug === city && typeof record.areaSlug === 'string')
-    .map(record => ({
-      slug: record.areaSlug as string,
-      name: (record.areaName as string) || slugifyAreaName(record.areaSlug as string),
+  const dir = path.join(PSEO_DIR, 'areas');
+  if (!fs.existsSync(dir)) return [];
+
+  return fs.readdirSync(dir)
+    .filter(file => file.endsWith('.json'))
+    .map(file => ({
+      file,
+      record: readJson<{ template?: string; citySlug?: string; areaSlug?: string; areaName?: string }>(path.join(dir, file)),
+    }))
+    .filter(({ file, record }) =>
+      record?.template === 'area-deep'
+      && record.citySlug === city
+      && typeof record.areaSlug === 'string'
+      && file === `${city}-${record.areaSlug}.json`
+    )
+    .map(({ record }) => ({
+      slug: record!.areaSlug as string,
+      name: (record!.areaName as string) || slugifyAreaName(record!.areaSlug as string),
     }))
     .sort((a, b) => a.name.localeCompare(b.name));
 }
@@ -254,16 +268,26 @@ function listAreaPages(city: string): Array<{ slug: string; name: string }> {
 function listClusterAreaPages(city: string): Array<{ slug: string; name: string }> {
   const data = getClusterFile<WhereToStayPage>(city, 'where-to-stay.json');
   const neighborhoods = data?.neighborhoods || [];
-  return neighborhoods.map(neighborhood => ({
-    slug: getAreaSlugByName(city, neighborhood.name),
-    name: neighborhood.name,
-  }));
+  const publishedAreas = new Map(listAreaPages(city).map(area => [area.slug, area]));
+  return neighborhoods
+    .map(neighborhood => ({
+      slug: getAreaSlugByName(city, neighborhood.name),
+      name: neighborhood.name,
+    }))
+    .filter(area => publishedAreas.has(area.slug));
 }
 
 function getAreaSlugByName(city: string, areaName: string): string {
   const normalizedName = areaName.trim().toLowerCase();
   const exact = listAreaPages(city).find(area => area.name.trim().toLowerCase() === normalizedName);
   return exact?.slug || slugifyAreaName(areaName);
+}
+
+function getPublishedAreaHref(city: string, areaName: string): string | undefined {
+  const areaSlug = getAreaSlugByName(city, areaName);
+  return listAreaPages(city).some(area => area.slug === areaSlug)
+    ? getCanonicalPath({ pageType: 'area', city, area: areaSlug })
+    : undefined;
 }
 
 export function listIntentPaths(pageType: 'where-to-stay' | 'best-hotels'): Array<{ params: { city: string } }> {
@@ -332,9 +356,10 @@ export function getIntentInternalLinks(context: LinkContext): IntentLink[] {
     });
   }
 
+  const cityGuideHref = normalizeEnInternalHref(`/city/${city}/`);
   links.push({
-    href: `/city/${city}/`,
-    label: `${cityName} travel guide`,
+    href: cityGuideHref,
+    label: cityGuideHref === '/city/' ? 'Explore Thailand destinations' : `${cityName} travel guide`,
     intent: 'city-guide',
     pageType: 'city-guide',
   });
@@ -410,38 +435,50 @@ export function getIntentInternalLinks(context: LinkContext): IntentLink[] {
 }
 
 function buildWhereToStayQuickAnswers(city: string, neighborhoods: ClusterNeighborhood[]): QuickAnswer[] {
-  return neighborhoods.slice(0, 4).map((neighborhood, index) => ({
-    label: index === 0 ? 'Best overall area' : neighborhood.bestFor.split(',')[0]?.trim() || 'Good fit',
-    answer: neighborhood.name,
-    href: getCanonicalPath({ pageType: 'area', city, area: getAreaSlugByName(city, neighborhood.name) }),
-  }));
+  return neighborhoods.slice(0, 4).map((neighborhood, index) => {
+    const href = getPublishedAreaHref(city, neighborhood.name);
+    return {
+      label: index === 0 ? 'Best overall area' : neighborhood.bestFor.split(',')[0]?.trim() || 'Good fit',
+      answer: neighborhood.name,
+      ...(href ? { href } : {}),
+    };
+  });
 }
 
 function buildWhereToStayComparison(city: string, neighborhoods: ClusterNeighborhood[]): ComparisonRow[] {
-  return neighborhoods.map(neighborhood => ({
-    label: neighborhood.name,
-    bestFor: neighborhood.bestFor,
-    priceBand: neighborhood.priceLevel,
-    strength: neighborhood.highlights?.[0] || neighborhood.description,
-    watchOut: neighborhood.transportNotes?.[0],
-    href: getCanonicalPath({ pageType: 'area', city, area: getAreaSlugByName(city, neighborhood.name) }),
-  }));
+  return neighborhoods.map(neighborhood => {
+    const href = getPublishedAreaHref(city, neighborhood.name);
+    return {
+      label: neighborhood.name,
+      bestFor: neighborhood.bestFor,
+      priceBand: neighborhood.priceLevel,
+      strength: neighborhood.highlights?.[0] || neighborhood.description,
+      watchOut: neighborhood.transportNotes?.[0],
+      ...(href ? { href } : {}),
+    };
+  });
 }
 
 function buildWhereToStayDecisionGuide(city: string, neighborhoods: ClusterNeighborhood[]): DecisionGuideItem[] {
-  return neighborhoods.slice(0, 6).map(neighborhood => ({
-    condition: `If you want ${neighborhood.bestFor.toLowerCase()}`,
-    recommendation: `choose ${neighborhood.name}`,
-    href: getCanonicalPath({ pageType: 'area', city, area: getAreaSlugByName(city, neighborhood.name) }),
-  }));
+  return neighborhoods.slice(0, 6).map(neighborhood => {
+    const href = getPublishedAreaHref(city, neighborhood.name);
+    return {
+      condition: `If you want ${neighborhood.bestFor.toLowerCase()}`,
+      recommendation: `choose ${neighborhood.name}`,
+      ...(href ? { href } : {}),
+    };
+  });
 }
 
 function buildWhereToStayTopPicks(city: string, neighborhoods: ClusterNeighborhood[]): TopPick[] {
-  return neighborhoods.slice(0, 5).map(neighborhood => ({
-    name: neighborhood.name,
-    reason: neighborhood.description,
-    href: getCanonicalPath({ pageType: 'area', city, area: getAreaSlugByName(city, neighborhood.name) }),
-  }));
+  return neighborhoods.slice(0, 5).map(neighborhood => {
+    const href = getPublishedAreaHref(city, neighborhood.name);
+    return {
+      name: neighborhood.name,
+      reason: neighborhood.description,
+      ...(href ? { href } : {}),
+    };
+  });
 }
 
 function buildHotelTopPicks(hotels: ClusterHotel[]): TopPick[] {

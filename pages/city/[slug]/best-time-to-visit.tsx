@@ -8,6 +8,7 @@ import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
 import transportRoutes from '../../../data/transport-routes.json';
 import { normalizeNlInternalHref } from '../../../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 
 interface PracticalInfo {
   bestMonths?: string[];
@@ -473,7 +474,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                   {isNl ? `Ontdek Meer van ${cityName}` : `Explore More of ${cityName}`}
                 </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  <Link href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                  <Link href={isNl ? `/best-hotels/${city.slug}/` : normalizeEnInternalHref(`/best-hotels/${city.slug}/`)} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                     <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                       <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />

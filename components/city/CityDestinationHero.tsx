@@ -1,6 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight, Building2, CalendarDays, Clock3, Compass, MapPin, Palmtree, Sparkles } from 'lucide-react';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 interface CityDestinationHeroProps {
   activitiesHref: string;
@@ -26,13 +28,14 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       : 'Krabi is both a province in southern Thailand and the name of Krabi Town. Ao Nang is usually the most convenient first base for boats and restaurants. Four days gives you time for Railay, an island tour and one day on the mainland.'
     : '';
   const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : (isNl ? 'Thailand' : 'Thailand');
+  const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
-    { href: `/city/${citySlug}/attractions/`, label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
+    { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
     { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
-    { href: `/best-hotels/${citySlug}/`, label: 'Hotels', icon: Building2 },
-    { href: `/city/${citySlug}/budget/`, label: isNl ? 'Praktisch' : 'Practical', icon: MapPin },
+    { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
+    { href: ownerHref(`/city/${citySlug}/budget/`), label: isNl ? 'Praktisch' : 'Practical', icon: MapPin },
   ];
 
   return (

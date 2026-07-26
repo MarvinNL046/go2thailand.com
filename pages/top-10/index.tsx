@@ -5,6 +5,8 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
 import { getAllCities } from '../../lib/cities';
 import { rootHubContent, type Top10Category } from '../../lib/top10-hub-content';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 interface Top10IndexProps {
   totalGuides: {
@@ -22,12 +24,13 @@ interface CityRecord {
 }
 
 function getSectionCityHref(slug: string, category?: Top10Category) {
-  return category ? `/city/${slug}/top-10-${category}/` : `/city/${slug}/`;
+  return category === 'hotels' ? `/best-hotels/${slug}/` : category ? `/city/${slug}/top-10-${category}/` : `/city/${slug}/`;
 }
 
 export default function Top10Index({ totalGuides }: Top10IndexProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -147,7 +150,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
                   const city = featured.city!;
                   return (
                     <div key={featured.slug} className="flex flex-col">
-                      <Link href={featured.primaryHref} className="group block">
+                      <Link href={ownerHref(featured.primaryHref)} className="group block">
                         <div className="bg-white rounded-2xl shadow-md p-6 h-full transition-shadow group-hover:shadow-lg">
                           <div className="text-sm font-semibold text-thailand-red mb-2">{featured.kicker}</div>
                           <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{city.name.en}</h3>
@@ -156,7 +159,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
                       </Link>
                       {featured.secondaryHref ? (
                         <Link
-                          href={featured.secondaryHref}
+                          href={ownerHref(featured.secondaryHref)}
                           className="mt-3 inline-flex items-center text-sm font-semibold text-thailand-blue hover:underline"
                         >
                           {isNl ? 'Bekijk stadsoverzicht' : 'View city overview'}
@@ -198,7 +201,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
                         return (
                           <Link
                             key={slug}
-                            href={getSectionCityHref(slug, section.linkCategory)}
+                            href={ownerHref(getSectionCityHref(slug, section.linkCategory))}
                             className="rounded-full bg-white px-3 py-1.5 text-sm font-medium text-gray-700 shadow-sm transition-colors hover:bg-gray-50 hover:text-thailand-red"
                           >
                             {city.name.en}

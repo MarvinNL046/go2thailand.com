@@ -253,7 +253,7 @@ For the level of service, the riverside location, the facilities (infinity pool,
 
 ### What's the best area in Bangkok for budget hotels?
 
-[Khao San Road](https://go2-thailand.com/city/bangkok/attractions/khao-san-road/) and its surrounding sois (side streets) remain the backpacker hub with the most budget options. However, neighborhoods like Ari, Saphan Khwai, and areas along the MRT line offer better value with more authentic Thai surroundings. Our [Bangkok neighborhood guide for stays](https://go2-thailand.com/guides/where-to-stay/bangkok/) breaks down every area in detail.
+[Khao San Road](https://go2-thailand.com/city/bangkok/attractions/khao-san-road/) and its surrounding sois (side streets) remain the backpacker hub with the most budget options. However, neighborhoods like Ari, Saphan Khwai, and areas along the MRT line offer better value with more authentic Thai surroundings. Our [Bangkok neighbourhood guide for stays](/where-to-stay/bangkok/) breaks down every area in detail.
 
 ### How far in advance should I book luxury hotels in Bangkok?
 

@@ -365,7 +365,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
                     {regionCities.map((city) => (
                       <Link
                         key={city.slug}
-                        href={`/city/${city.slug}/weather/`}
+                        href={`/city/${city.slug}/best-time-to-visit/`}
                         className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-thailand-blue/5 transition-colors group"
                       >
                         <span className="font-medium text-gray-700 group-hover:text-thailand-blue">
@@ -542,7 +542,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
             <a
               href={trackAffiliate(TRIP_GENERIC, 'hotels')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="bg-white text-thailand-blue rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block"
             >
               <div className="text-3xl mb-3"></div>

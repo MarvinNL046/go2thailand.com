@@ -366,5 +366,5 @@ Yes, especially in peak season—popular Phuket camps fill weeks ahead. Use onli
 ### Are there Muay Thai experiences for non-fighters?
 Spectator packages include guided stadium tours or demo classes without full training. In Bangkok, combine with [Attractions travel guide](https://go2-thailand.com/city/bangkok/attractions/) for a full day. Costs start at 1,500 THB for combos.
 
-In wrapping up, **Muay Thai** in Thailand delivers pulse-pounding action whether you're cheering from the stands or throwing your first punch— from Bangkok's historic rings to Chiang Mai's serene camps, it's an essential experience. Plan your session today via our [activities](https://go2-thailand.com/category/activities) section or [Thailand Travel Guide](https://go2-thailand.com/thailand-travel-guide/) for seamless integration. As the Go2Thailand Team, we've vetted these spots through rigorous research to ensure your adventure is safe, authentic, and unforgettable.
+Muay Thai in Thailand can mean watching a stadium bout or joining a beginner class. Compare those options in our [Thailand activities guide](/activities/) and fit the session into your wider [Thailand travel plan](/thailand-travel-guide/) before booking.
 ---

@@ -37,7 +37,7 @@ The monsoon, which normally arrives in May and runs through October, may be dela
 - **Bangkok and Central Thailand** — Expect intense heat from March through May. Rain, when it comes, tends to arrive in short, heavy bursts in the late afternoon or evening, clearing quickly. Bangkok's [BTS and MRT](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) are fully air-conditioned and a good way to move around during peak heat hours.
 - **Northern Thailand (Chiang Mai, Chiang Rai)** — The hottest and most drought-prone region. Burning season (crop burning and haze) typically peaks in March and April, and El Nino conditions may worsen air quality. See our [Chiang Mai cheapest digital nomad city guide](/blog/chiang-mai-cheapest-digital-nomad-city-2026/) for tips on living and working there through the hot season.
 - **Andaman Coast ([Phuket](/blog/phuket-travel-guide-2026/), [Krabi](/blog/krabi-travel-guide/), Koh Lanta)** — Heavier rainfall usually runs from May through October, but a delayed monsoon could mean a drier start to the wet season.
-- **Gulf of Thailand ([Koh Samui](/blog/best-hotels/koh-samui/), Koh Phangan, [Koh Tao](/blog/koh-tao-guide-diving-beaches-budget-travel/))** — These islands often stay relatively dry during the early monsoon months, with the wettest period falling between October and December. El Nino may reinforce this pattern.
+- **Gulf of Thailand ([Koh Samui](/best-hotels/koh-samui/), Koh Phangan, [Koh Tao](/blog/koh-tao-guide-diving-beaches-budget-travel/))** — These islands often stay relatively dry during the early monsoon months, with the wettest period falling between October and December. El Nino may reinforce this pattern.
 
 ## Practical Tips for Travelling in the Heat
 

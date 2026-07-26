@@ -26,7 +26,7 @@ sources:
 
 [Pattaya's](/city/pattaya/) own beachfront is busy and the water is not the clearest. Koh Larn, a small island just 7 km offshore, fixes both problems. The water is turquoise, the sand is white, and the whole island is only about 4 km long — small enough to explore in a single day. Locals call it [Coral Island](/city/pattaya/attractions/coral-island/), and it has been a favourite escape from Pattaya for decades.
 
-The island has six named beaches, a fishing village, seafood restaurants, convenience stores and enough infrastructure to spend a comfortable day without roughing it. If you are planning a longer stay in the area, check our [Pattaya travel guide](/guides/travel-guide/pattaya/) or browse [where to stay in Pattaya](/guides/where-to-stay/pattaya/).
+The island has six named beaches, a fishing village, seafood restaurants, convenience stores and enough infrastructure to spend a comfortable day without roughing it. If you are planning a longer stay in the area, check our [Pattaya travel guide](/guides/travel-guide/pattaya/) or browse [where to stay in Pattaya](/where-to-stay/pattaya/).
 
 ## Getting There: Ferry or Speedboat
 

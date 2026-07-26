@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 import { normalizeNlInternalHref } from '../lib/nl-route-owners';
 
 export interface IntentInternalLinkItem {
@@ -15,7 +16,7 @@ interface Props {
 
 function normalizeHref(href: string, isNl: boolean): string {
   const normalized = href.replace(/^\/guides\/where-to-stay\//, '/where-to-stay/');
-  return isNl ? normalizeNlInternalHref(normalized) : normalized;
+  return isNl ? normalizeNlInternalHref(normalized) : normalizeEnInternalHref(normalized);
 }
 
 export default function IntentInternalLinks({ title, links }: Props) {

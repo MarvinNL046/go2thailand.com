@@ -47,6 +47,9 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
   const [fromCity, setFromCity] = useState('');
   const [toCity, setToCity] = useState('');
+  const routeHref = (slug: string) => slug === 'bangkok-to-koh-samui'
+    ? '/blog/bangkok-to-koh-samui-guide/'
+    : `/transport/${slug}/`;
 
   if (isNl) return <TransportHubGuide allRoutes={allRoutes} cities={cities} />;
 
@@ -60,7 +63,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
       const routeSlug = `${fromCity}-to-${toCity}`;
       const route = allRoutes.find(r => r.slug === routeSlug);
       if (route) {
-        window.location.href = `/transport/${routeSlug}`;
+        window.location.href = routeHref(routeSlug);
       } else {
         alert(isNl ? 'Deze route is nog niet beschikbaar. Probeer een andere route.' : 'This route is not available yet. Please try a different route.');
       }
@@ -183,7 +186,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               return (
                 <Link
                   key={route.slug}
-                  href={`/transport/${route.slug}`}
+                  href={routeHref(route.slug)}
                   className="bg-white rounded-2xl shadow-sm p-4 hover:shadow-md transition-shadow"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -222,7 +225,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                     return (
                       <Link
                         key={route.slug}
-                        href={`/transport/${route.slug}`}
+                        href={routeHref(route.slug)}
                         className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors"
                       >
                         <span className="font-medium">
@@ -263,7 +266,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               <a
                 href="https://12go.tpo.lv/tNA80urD?subid=transport"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow sponsored"
                 className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors shadow-md"
               >
                 {isNl ? 'Zoek Routes op 12Go' : 'Search Routes on 12Go'} →

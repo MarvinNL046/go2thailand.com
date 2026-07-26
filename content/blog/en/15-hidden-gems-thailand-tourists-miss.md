@@ -135,7 +135,7 @@ The park offers guided jungle treks ranging from 2 to 8 hours. During our visit 
 
 ## 4. Nan Province — The Forgotten North
 
-[Nan](/destinations/nan/) is a northern province that most tourists never reach. It sits between [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and Laos, and the town of Nan itself is a living museum of Lanna architecture and culture. The province has fewer tourists than any comparable region in Thailand, which means lower prices, authentic interactions, and a genuine sense of discovery.
+Nan is a northern province that most tourists never reach. It sits east of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) near Laos, and the town of Nan itself is known for Lanna architecture and culture. Use our [northern Thailand guide](/region/northern/) to compare it with other stops in the region before adding the long detour.
 
 ### What Makes Nan Special
 

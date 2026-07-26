@@ -7,6 +7,7 @@ import ClusterNav from '../../../components/ClusterNav';
 import AffiliateBox from '../../../components/AffiliateBox';
 import type { TravelGuidePage } from '../../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
+import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 import { normalizeTravelGuide } from '../../../lib/normalize-cluster';
 import { nlCityOwner, normalizeNlInternalHref } from '../../../lib/nl-route-owners';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
@@ -129,7 +130,7 @@ export default function TravelGuidePage({ data, affiliates }: Props) {
               </div>
             </div>
             <Link
-              href={isNl ? normalizeNlInternalHref(`/city/${data.citySlug}/food/`) : `/city/${data.citySlug}/food/`}
+              href={isNl ? normalizeNlInternalHref(`/city/${data.citySlug}/food/`) : normalizeEnInternalHref(`/city/${data.citySlug}/food/`)}
               className="inline-block text-thailand-blue font-semibold hover:underline"
             >
               {isNl ? `Volledige ${data.cityName} Eetgids →` : `Full ${data.cityName} Food Guide →`}

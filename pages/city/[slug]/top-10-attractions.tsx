@@ -257,7 +257,7 @@ export default function Top10AttractionsPage({ city, attractionsData, editorial 
                       <Link href={`/city/${city.slug}/top-10-restaurants/`} className="block text-thailand-blue hover:underline">
                         Top 10 Restaurants
                       </Link>
-                      <Link href={`/city/${city.slug}/top-10-hotels/`} className="block text-thailand-blue hover:underline">
+                      <Link href={`/best-hotels/${city.slug}/`} className="block text-thailand-blue hover:underline">
                         Top 10 Hotels
                       </Link>
                     </div>

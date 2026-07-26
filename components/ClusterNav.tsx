@@ -1,6 +1,7 @@
 // components/ClusterNav.tsx
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 import { nlAttractionsOwner, nlCityOwner } from '../lib/nl-route-owners';
 
 interface ClusterNavProps {
@@ -31,10 +32,10 @@ export default function ClusterNav({ citySlug, cityName, currentPage }: ClusterN
   const seen = new Set<string>();
   const otherPages = localizedPages
     .filter(p => p.key !== currentPage)
+    .map(p => ({ ...p, href: isNl ? p.getHref(citySlug) : normalizeEnInternalHref(p.getHref(citySlug)) }))
     .filter(p => {
-      const href = p.getHref(citySlug);
-      if (seen.has(href)) return false;
-      seen.add(href);
+      if (seen.has(p.href)) return false;
+      seen.add(p.href);
       return true;
     });
 
@@ -47,7 +48,7 @@ export default function ClusterNav({ citySlug, cityName, currentPage }: ClusterN
         {otherPages.map(page => (
           <Link
             key={page.key}
-            href={page.getHref(citySlug)}
+            href={page.href}
             className="flex items-center gap-2 bg-white rounded-xl px-4 py-3 text-sm font-medium text-gray-700 hover:shadow-md hover:text-thailand-blue transition-all duration-200 border border-gray-100"
           >
             <span role="img" aria-hidden="true">{page.icon}</span>
@@ -58,7 +59,7 @@ export default function ClusterNav({ citySlug, cityName, currentPage }: ClusterN
       {/* Cross-link to existing city hub */}
       <div className="mt-3 pt-3 border-t border-gray-200/50">
         <Link
-          href={isNl ? nlCityOwner(citySlug) : `/city/${citySlug}/`}
+          href={isNl ? nlCityOwner(citySlug) : normalizeEnInternalHref(`/city/${citySlug}/`)}
           className="text-sm text-thailand-blue hover:underline"
         >
           {isNl ? `Bekijk alle pagina's over ${cityName} →` : `See all ${cityName} pages →`}

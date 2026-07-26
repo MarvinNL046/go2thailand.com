@@ -35,6 +35,7 @@ import { CityBookingPlanner } from '../../../components/city/CityBookingPlanner'
 import { CityCompleteGuide } from '../../../components/city/CityCompleteGuide';
 import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
 import { getNlDestinationGuide } from '../../../data/destinations/nl';
+import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 import { normalizeNlInternalHref } from '../../../lib/nl-route-owners';
 
 interface City {
@@ -252,7 +253,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const t = useT(i18nStrings);
   const router = useRouter();
   const { locale = 'en' } = router;
-  const ownerHref = (href: string) => locale === 'nl' ? normalizeNlInternalHref(href) : href;
+  const ownerHref = (href: string) => locale === 'nl' ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
   const subId = useSubId();
   const [showAllHiddenGems, setShowAllHiddenGems] = useState(false);
   const [showAllExperiences, setShowAllExperiences] = useState(false);
@@ -824,7 +825,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                               {experience.href && experience.cta_label && (
                                 <div className="mt-4">
                                   <Link
-                                    href={experience.href}
+                                    href={ownerHref(experience.href)}
                                     className="inline-flex items-center gap-2 text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
                                   >
                                     {experience.cta_label}
@@ -911,7 +912,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                               {attraction.href && attraction.cta_label && (
                                 <Link
-                                  href={attraction.href}
+                                  href={ownerHref(attraction.href)}
                                   className="inline-flex items-center gap-2 text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
                                 >
                                   {attraction.cta_label}
@@ -1066,7 +1067,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <a
                           href={trackAffiliate('https://trip.tpo.lv/iP1HSint', 'service-bundle')}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="noopener noreferrer nofollow sponsored"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600"
                         >
                           Book Bundle <span aria-hidden="true">→</span>
@@ -1083,7 +1084,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <a
                           href={trackAffiliate('https://trip.tpo.lv/iP1HSint', 'service-transfer')}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="noopener noreferrer nofollow sponsored"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-blue hover:text-cyan-600"
                         >
                           Book Transfer <span aria-hidden="true">→</span>
@@ -1100,7 +1101,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <a
                           href={trackAffiliate('https://trip.tpo.lv/fzIWyBhW', 'service-car-rental')}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="noopener noreferrer nofollow sponsored"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-emerald-700 hover:text-teal-600"
                         >
                           Rent a Car <span aria-hidden="true">→</span>
@@ -1117,7 +1118,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <a
                           href={trackAffiliate(TWELVEGO_GENERIC, 'service-transport')}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="noopener noreferrer nofollow sponsored"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-violet-700 hover:text-indigo-600"
                         >
                           Book Transport <span aria-hidden="true">→</span>
@@ -1152,7 +1153,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       <a
                         href={trackAffiliate(TWELVEGO_GENERIC, 'transport-widget')}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer nofollow sponsored"
                         className="inline-flex items-center gap-2 rounded-full bg-violet-600 px-6 py-3 font-semibold text-white hover:bg-violet-700 transition-colors"
                       >
                         View All Routes on 12Go <span aria-hidden="true">→</span>
@@ -1187,7 +1188,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         return trackAffiliate(klookLinks[city.slug] || 'https://klook.tpo.lv/aq6ZFxvc', 'activities-klook');
                       })()}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className={featureCardClass + " block"}
                     >
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red to-orange-400" />
@@ -1216,7 +1217,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         return trackAffiliate(gygLinks[city.slug] || 'https://getyourguide.tpo.lv/GuAFfGGK', 'activities-gyg');
                       })()}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className={featureCardClass + " block"}
                     >
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-blue to-cyan-400" />
@@ -1312,7 +1313,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                               {food.href && food.cta_label && (
                                 <div className="mt-4">
                                   <Link
-                                    href={food.href}
+                                    href={ownerHref(food.href)}
                                     className="inline-flex items-center gap-2 text-thailand-red hover:text-thailand-red-600 font-medium text-sm"
                                   >
                                     {food.cta_label}
@@ -1435,7 +1436,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             {restaurant.href && (
                               <div className="pt-5">
                                 <Link
-                                  href={restaurant.href}
+                                  href={ownerHref(restaurant.href)}
                                   className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600"
                                 >
                                   {restaurant.cta_label || 'See more restaurant picks'}
@@ -1530,7 +1531,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             {hotel.href && (
                               <div className="pt-5">
                                 <Link
-                                  href={hotel.href}
+                                  href={ownerHref(hotel.href)}
                                   className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600"
                                 >
                                   {hotel.cta_label || 'See more hotel picks'}
@@ -1885,7 +1886,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       {transportLinks.slice(0, 12).map((route) => (
                         <Link
                           key={route.slug}
-                          href={`/transport/${route.slug}/`}
+                          href={ownerHref(`/transport/${route.slug}/`)}
                           className="rounded-[24px] border border-gray-100 bg-white p-5 shadow-[0_12px_30px_rgba(15,23,42,0.05)] transition-all hover:-translate-y-1 hover:shadow-[0_18px_40px_rgba(15,23,42,0.08)]"
                         >
                           <div className="font-medium text-gray-900 mb-2">
@@ -1984,7 +1985,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   <div className="space-y-3">
                     <div className="flex items-start justify-between gap-4 rounded-2xl bg-slate-50 px-4 py-3">
                       <span className="text-sm text-gray-500">Region</span>
-                      <Link href={`/region/${city.region}/`} className="text-right font-semibold text-thailand-blue hover:underline capitalize">{city.region}</Link>
+                      <Link href={ownerHref(`/region/${city.region}/`)} className="text-right font-semibold text-thailand-blue hover:underline capitalize">{city.region}</Link>
                     </div>
                     <div className="flex items-start justify-between gap-4 rounded-2xl bg-slate-50 px-4 py-3">
                       <span className="text-sm text-gray-500">Province</span>

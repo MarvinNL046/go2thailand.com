@@ -11,6 +11,7 @@ import { getComparisonsForItem, getComparisonPair } from '../../lib/comparisons'
 import { DestinationGuideTemplate } from '../../components/city/DestinationGuideTemplate';
 import { getNlIslandGuide } from '../../data/islands/nl-guides';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 
 interface Beach {
   name: string;
@@ -420,7 +421,7 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                     </h3>
                     <div className="flex flex-wrap gap-3">
                       {relevantRoutes.map(route => (
-                        <Link key={route.slug} href={lang === 'nl' ? normalizeNlInternalHref(`/transport/${route.slug}/`) : `/transport/${route.slug}/`} className="text-sm font-semibold text-thailand-blue hover:underline">
+                        <Link key={route.slug} href={lang === 'nl' ? normalizeNlInternalHref(`/transport/${route.slug}/`) : normalizeEnInternalHref(`/transport/${route.slug}/`)} className="text-sm font-semibold text-thailand-blue hover:underline">
                           {route.from} → {route.to}
                         </Link>
                       ))}

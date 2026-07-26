@@ -1,50 +1,50 @@
 # Route inventory
 
-Generated: 2026-07-24T11:30:14.135Z
+Generated: 2026-07-26T10:49:26.003Z
 
-- Total sitemap URLs: 2820
-- English URLs: 1840
-- Dutch URLs: 980
-- URLs without a language pair: 890
+- Total sitemap URLs: 2302
+- English URLs: 1605
+- Dutch URLs: 697
+- URLs without a language pair: 938
 
 ## Page families
 
 | page type | URLs |
 |---|---:|
-| attraction-detail | 274 |
-| blog | 573 |
+| attraction-detail | 71 |
+| blog | 555 |
 | commercial-activity | 106 |
 | comparison | 1 |
 | destination-detail | 66 |
 | destination-index | 2 |
 | destination-pillar | 68 |
-| destination-subpillar | 272 |
+| destination-subpillar | 185 |
 | food-drink | 146 |
 | homepage | 2 |
-| hotel-commercial | 229 |
-| hotel-detail | 430 |
-| island | 24 |
+| hotel-commercial | 194 |
+| hotel-detail | 429 |
+| island | 22 |
 | itinerary | 30 |
-| location-directory | 110 |
+| location-directory | 54 |
 | other | 55 |
 | phuket-location | 30 |
-| practical | 32 |
+| practical | 31 |
 | region | 10 |
-| transport | 71 |
-| travel-guide | 149 |
-| where-to-stay | 140 |
+| transport | 70 |
+| travel-guide | 103 |
+| where-to-stay | 72 |
 
 ## Provisional actions
 
 | recommended action | URLs |
 |---|---:|
-| freshness-audit | 722 |
-| indexation-audit | 430 |
-| keep-improve | 605 |
+| freshness-audit | 658 |
+| indexation-audit | 429 |
+| keep-improve | 468 |
 | manual-audit | 55 |
-| merge-candidate | 108 |
-| template-audit | 382 |
-| template-improve | 518 |
+| merge-candidate | 55 |
+| template-audit | 323 |
+| template-improve | 314 |
 
 ## Decision rules
 

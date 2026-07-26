@@ -368,7 +368,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 <a
                   href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
                 >
                   Saily eSIM
@@ -397,7 +397,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                   <a
                     href={trackAffiliate(KLOOK_GENERIC, 'sidebar-activities-primary')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm"
                   >
                     Klook Activities
@@ -405,7 +405,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                   <a
                     href={trackAffiliate(GYG_GENERIC, 'sidebar-activities-secondary')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
                   >
                     GetYourGuide Tours

@@ -253,7 +253,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                       <Link href={`/city/${city.slug}/`} className="block text-thailand-blue hover:underline">
                         {city.name.en} Guide
                       </Link>
-                      <Link href={`/city/${city.slug}/top-10-hotels/`} className="block text-thailand-blue hover:underline">
+                      <Link href={`/best-hotels/${city.slug}/`} className="block text-thailand-blue hover:underline">
                         {t("s006_top_10_hotels")}
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-attractions/`} className="block text-thailand-blue hover:underline">
@@ -387,7 +387,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                       <Link href={`/city/${city.slug}/`} className="btn-primary">
                         Complete {city.name.en} Guide
                       </Link>
-                      <Link href={`/city/${city.slug}/top-10-hotels/`} className="btn-secondary">
+                      <Link href={`/best-hotels/${city.slug}/`} className="btn-secondary">
                         {t("s006_top_10_hotels")}
                       </Link>
                     </div>

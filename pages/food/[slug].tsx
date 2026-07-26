@@ -233,7 +233,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                     <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">{isNl ? 'Regio' : 'Region'}</div>
                     <div className="font-semibold capitalize">
-                      <Link href={`/region/${dish.region}/`} className="text-thailand-blue hover:underline">
+                      <Link href={`/region/${dish.region === 'northeastern' ? 'isaan' : dish.region}/`} className="text-thailand-blue hover:underline">
                         {dish.region === 'isaan' ? 'Isaan (Northeast)' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}
                       </Link>
                     </div>
@@ -554,7 +554,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
             </p>
             <div className="flex flex-wrap gap-3 justify-center">
               <Link
-                href={`/region/${dish.region}/`}
+                href={`/region/${dish.region === 'northeastern' ? 'isaan' : dish.region}/`}
                 className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
               >
                 {isNl ? 'Ontdek' : 'Explore'} {dish.region === 'isaan' ? 'Isaan' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}

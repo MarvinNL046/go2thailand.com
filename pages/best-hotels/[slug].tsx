@@ -11,6 +11,7 @@ import { getAffiliates, CityAffiliates, TRIP_GENERIC, withPlacementSubId } from 
 import HotelGuideTemplate from '../../components/hotels/HotelGuideTemplate';
 import type { HotelGuideData } from '../../data/hotels/types';
 import { nlAttractionsOwner, nlCityOwner } from '../../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
@@ -157,6 +158,8 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
   if (!data) return null;
 
   const isNl = locale === 'nl';
+  const attractionsHref = isNl ? nlAttractionsOwner(data.citySlug) : normalizeEnInternalHref(`/city/${data.citySlug}/attractions/`);
+  const hasCityOwner = attractionsHref !== '/city/';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Hotels' : 'Hotels', href: '/where-to-stay/' },
@@ -318,17 +321,17 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
                 </span>
               </Link>
               <Link
-                href={isNl ? nlAttractionsOwner(data.citySlug) : `/city/${data.citySlug}/top-10-hotels/`}
+                href={attractionsHref}
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue mb-1">
-                  {isNl ? `Wat te doen in ${data.cityName}` : `Top 10 Hotels in ${data.cityName}`}
+                  {isNl ? `Wat te doen in ${data.cityName}` : hasCityOwner ? `Things to Do in ${data.cityName}` : 'Explore Thailand destinations'}
                 </h3>
                 <p className="text-sm text-gray-500">
-                  {isNl ? 'Vergelijk de belangrijkste bezienswaardigheden en bouw een logische dagplanning.' : 'Our curated top 10 list with ratings and reviews.'}
+                  {isNl ? 'Vergelijk de belangrijkste bezienswaardigheden en bouw een logische dagplanning.' : hasCityOwner ? 'Compare the main attractions and turn them into a practical day plan.' : 'Compare published destination guides and choose the right base for your route.'}
                 </p>
                 <span className="text-thailand-blue text-sm font-semibold mt-2 inline-block">
-                  {isNl ? 'Bekijk bezienswaardigheden →' : 'See top 10 →'}
+                  {isNl ? 'Bekijk bezienswaardigheden →' : hasCityOwner ? 'Explore attractions →' : 'Browse destinations →'}
                 </span>
               </Link>
             </div>

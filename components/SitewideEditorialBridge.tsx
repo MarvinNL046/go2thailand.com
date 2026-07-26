@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { ArrowRight, Compass, MapPin, ShieldCheck } from 'lucide-react';
 import { useRouter } from 'next/router';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 import { nlAttractionsOwner, nlCityOwner, normalizeNlInternalHref } from '../lib/nl-route-owners';
 
 interface EditorialLink {
@@ -47,6 +48,10 @@ function routePath(asPath: string): string {
 
 function link(href: string, label: string, shortLabel: string): EditorialLink {
   return { href: normalizeNlInternalHref(href), label, shortLabel };
+}
+
+function englishLink(href: string, label: string, shortLabel: string): EditorialLink {
+  return { href: normalizeEnInternalHref(href), label, shortLabel };
 }
 
 function buildContent(path: string): BridgeContent {
@@ -228,16 +233,176 @@ function buildContent(path: string): BridgeContent {
   };
 }
 
+function buildEnglishContent(path: string): BridgeContent {
+  const cityMatch = path.match(/^\/city\/([^/]+)\//);
+  const hotelMatch = path.match(/^\/best-hotels\/([^/]+)\//);
+
+  if (cityMatch) {
+    const slug = cityMatch[1];
+    const name = cityName(slug);
+    return {
+      eyebrow: 'Complete your route',
+      title: `Travel further from ${name}`,
+      intro: 'A good itinerary connects what you want to see with where you stay and the season in which you travel.',
+      links: [
+        englishLink(`/city/${slug}/attractions/`, `the best things to do in ${name}`, 'Things to do'),
+        englishLink(`/best-hotels/${slug}/`, `the best hotels in ${name}`, 'Places to stay'),
+        englishLink(`/city/${slug}/best-time-to-visit/`, `the weather and best time to visit ${name}`, 'Weather & timing'),
+      ],
+    };
+  }
+
+  if (hotelMatch) {
+    const slug = hotelMatch[1];
+    const name = cityName(slug);
+    const cityHref = normalizeEnInternalHref(`/city/${slug}/`);
+    const hasCityOwner = cityHref !== '/city/';
+    return {
+      eyebrow: 'From hotel shortlist to itinerary',
+      title: `Discover more of ${name}`,
+      intro: 'The right base depends on your route, daily pace and the experiences that matter most to you.',
+      links: hasCityOwner
+        ? [
+            englishLink(`/city/${slug}/`, `our complete ${name} travel guide`, 'Destination guide'),
+            englishLink(`/city/${slug}/attractions/`, `the best things to do in ${name}`, 'Things to do'),
+            englishLink('/transport/', 'our practical guide to transport in Thailand', 'Getting around'),
+          ]
+        : [
+            englishLink(`/where-to-stay/${slug}/`, `the best areas to stay in ${name}`, 'Area guide'),
+            englishLink('/city/', 'our published Thailand destination guides', 'Destinations'),
+            englishLink('/transport/', 'our practical guide to transport in Thailand', 'Getting around'),
+          ],
+    };
+  }
+
+  if (path.startsWith('/phuket') || path.includes('-phuket/')) {
+    return {
+      eyebrow: 'Plan Phuket as one trip',
+      title: 'Connect your beach days, base and adventures',
+      intro: 'Phuket is easier to plan when you treat its beaches, neighbourhoods and day trips as one connected route.',
+      links: [
+        englishLink('/city/phuket/', 'our complete Phuket travel guide', 'Phuket guide'),
+        englishLink('/best-hotels/phuket/', 'the best hotels and resorts in Phuket', 'Where to stay'),
+        englishLink('/phuket-tours/', 'trusted tours and activities in Phuket', 'Tours & activities'),
+      ],
+    };
+  }
+
+  if (path.startsWith('/islands/') || path === '/thailand-islands/' || path.includes('beaches')) {
+    return {
+      eyebrow: 'Turn an island idea into a route',
+      title: 'Choose an island that fits your trip',
+      intro: 'Atmosphere, connections and seasonal weather vary more between Thai islands than the map suggests.',
+      links: [
+        englishLink('/thailand-islands/', 'our comparison of Thailand’s islands', 'Compare islands'),
+        englishLink('/transport/', 'the guide to ferries, trains and transfers', 'Route & transport'),
+        englishLink('/weather/', 'weather by region and travel period', 'Weather & seasons'),
+      ],
+    };
+  }
+
+  if (path.startsWith('/food/') || path.startsWith('/drinks/') || path.includes('street-food')) {
+    return {
+      eyebrow: 'Keep tasting',
+      title: 'Let food shape your route through Thailand',
+      intro: 'Regional cooking, local markets and neighbourhood favourites give every destination a different flavour.',
+      links: [
+        englishLink('/food/', 'our complete guide to Thai food', 'Thai food guide'),
+        englishLink('/city/', 'our destinations and local food ideas', 'Destinations'),
+        englishLink('/travel-guides/', 'practical guides for travelling in Thailand', 'Travel guides'),
+      ],
+    };
+  }
+
+  if (path.startsWith('/visa/') || path.includes('first-timer') || path.includes('first-time')) {
+    return {
+      eyebrow: 'Prepare before you leave',
+      title: 'Get the practical foundations right',
+      intro: 'Check entry rules, insurance and your first days in Thailand before committing to separate bookings.',
+      links: [
+        englishLink('/visa/', 'our current overview of Thailand visa routes', 'Visa overview'),
+        englishLink('/travel-insurance/', 'our guide to Thailand travel insurance', 'Travel insurance'),
+        englishLink('/thailand-for-first-timers/', 'the Thailand guide for first-time visitors', 'First trip guide'),
+      ],
+    };
+  }
+
+  if (path.startsWith('/transport/') || path.startsWith('/flights-to-')) {
+    return {
+      eyebrow: 'Build the next leg',
+      title: 'Make Thailand’s distances work for you',
+      intro: 'A smart sequence reduces travel time and leaves enough room for unplanned days along the way.',
+      links: [
+        englishLink('/transport/', 'the main transport routes across Thailand', 'Compare transport'),
+        englishLink('/itineraries/', 'our complete Thailand itineraries', 'Itineraries'),
+        englishLink('/city/', 'destinations that fit naturally into your route', 'Next destination'),
+      ],
+    };
+  }
+
+  if (path.startsWith('/itinerar') || path.includes('itinerary')) {
+    return {
+      eyebrow: 'From idea to day plan',
+      title: 'Turn separate places into one coherent route',
+      intro: 'Balance pace, season and destinations before booking long-distance transport and hotels.',
+      links: [
+        englishLink('/itineraries/', 'our complete itineraries through Thailand', 'Thailand itineraries'),
+        englishLink('/weather/', 'the best time to visit each region', 'Best time to go'),
+        englishLink('/city/', 'all destinations for your route', 'Destinations'),
+      ],
+    };
+  }
+
+  if (path.startsWith('/travel-gear/') || path.startsWith('/travel-security/')) {
+    return {
+      eyebrow: 'Pack with purpose',
+      title: 'Bring only what improves your trip',
+      intro: 'Choose gear for your climate, route and activities instead of following a generic packing list.',
+      links: [
+        englishLink('/travel-gear/', 'our practical Thailand packing guide', 'Packing guide'),
+        englishLink('/travel-insurance/', 'travel insurance for your plans', 'Travel insurance'),
+        englishLink('/is-thailand-safe/', 'our current Thailand safety guide', 'Travel safely'),
+      ],
+    };
+  }
+
+  if (path.startsWith('/blog/')) {
+    return {
+      eyebrow: 'From story to itinerary',
+      title: 'Connect inspiration to the rest of your trip',
+      intro: 'Use this story as a starting point, then match new ideas to your route and practical preparation.',
+      links: [
+        englishLink('/travel-guides/', 'our practical Thailand travel guides', 'Practical guides'),
+        englishLink('/city/', 'our destination guides across Thailand', 'Destinations'),
+        englishLink('/itineraries/', 'our complete Thailand itineraries', 'Itineraries'),
+      ],
+    };
+  }
+
+  return {
+    eyebrow: 'Your next step',
+    title: 'Turn inspiration into a trip that works',
+    intro: 'Start with the big decisions, then shape the details one destination at a time.',
+    links: [
+      englishLink('/thailand-travel-guide/', 'our complete Thailand travel guide', 'Thailand guide'),
+      englishLink('/city/', 'all destinations and what makes them different', 'Destinations'),
+      englishLink('/itineraries/', 'our complete Thailand itineraries', 'Itineraries'),
+    ],
+  };
+}
+
 export default function SitewideEditorialBridge() {
   const router = useRouter();
-  if (router.locale !== 'nl') return null;
+  const isNl = router.locale === 'nl';
 
   const currentPath = routePath(router.asPath);
   // The homepage newsletter is deliberately connected directly to the footer.
   if (currentPath === '/') return null;
 
-  const content = buildContent(currentPath);
-  const fallback = link('/travel-guides/', 'onze praktische Thailand-reisgidsen', 'Reisgidsen');
+  const content = isNl ? buildContent(currentPath) : buildEnglishContent(currentPath);
+  const fallback = isNl
+    ? link('/travel-guides/', 'onze praktische Thailand-reisgidsen', 'Reisgidsen')
+    : englishLink('/travel-guides/', 'our practical Thailand travel guides', 'Travel guides');
   const visibleLinks = content.links
     .filter((item, index, items) => item.href !== currentPath && items.findIndex(other => other.href === item.href) === index);
   if (visibleLinks.length < 3 && fallback.href !== currentPath && !visibleLinks.some(item => item.href === fallback.href)) {
@@ -259,9 +424,15 @@ export default function SitewideEditorialBridge() {
             </h2>
             <p className="mt-5 max-w-xl text-sm leading-7 text-charcoal/70">
               {content.intro}{' '}
-              Begin met <Link href={links[0].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[0].label}</Link>,
-              {' '}leg dat naast <Link href={links[1].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[1].label}</Link>
-              {links[2] ? <> en gebruik <Link href={links[2].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[2].label}</Link> om de details goed op elkaar af te stemmen.</> : '.'}
+              {isNl ? <>
+                Begin met <Link href={links[0].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[0].label}</Link>,
+                {' '}leg dat naast <Link href={links[1].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[1].label}</Link>
+                {links[2] ? <> en gebruik <Link href={links[2].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[2].label}</Link> om de details goed op elkaar af te stemmen.</> : '.'}
+              </> : <>
+                Start with <Link href={links[0].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[0].label}</Link>,
+                {' '}compare it with <Link href={links[1].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[1].label}</Link>
+                {links[2] ? <> and use <Link href={links[2].href} className="font-bold text-jade underline decoration-saffron/55 decoration-2 underline-offset-4 transition hover:text-saffron-dark">{links[2].label}</Link> to align the practical details.</> : '.'}
+              </>}
             </p>
           </div>
 
@@ -286,10 +457,12 @@ export default function SitewideEditorialBridge() {
         </div>
 
         <div className="relative flex flex-col gap-2 border-t border-jade/10 bg-jade px-6 py-4 text-white sm:flex-row sm:items-center sm:justify-between sm:px-9 lg:px-11">
-          <span className="inline-flex items-center gap-2 text-xs font-bold"><Compass size={15} aria-hidden="true" className="text-saffron" /> Onafhankelijk samengesteld voor jouw reisplanning</span>
+          <span className="inline-flex items-center gap-2 text-xs font-bold"><Compass size={15} aria-hidden="true" className="text-saffron" /> {isNl ? 'Onafhankelijk samengesteld voor jouw reisplanning' : 'Independently selected for your travel planning'}</span>
           <p className="inline-flex max-w-xl items-start gap-2 text-[11px] leading-5 text-white/72 sm:text-right">
             <ShieldCheck size={15} aria-hidden="true" className="mt-0.5 shrink-0 text-saffron-light" />
-            Sommige boekings- en productlinks zijn affiliatelinks. Wij kunnen een commissie ontvangen, zonder extra kosten voor jou; onze redactionele keuzes blijven onafhankelijk.
+            {isNl
+              ? 'Sommige boekings- en productlinks zijn affiliatelinks. Wij kunnen een commissie ontvangen, zonder extra kosten voor jou; onze redactionele keuzes blijven onafhankelijk.'
+              : 'Some booking and product links are affiliate links. We may earn a commission at no extra cost to you; our editorial choices remain independent.'}
           </p>
         </div>
       </div>

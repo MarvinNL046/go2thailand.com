@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 import { normalizeNlInternalHref } from '../lib/nl-route-owners';
 
 interface BridgeLink {
@@ -53,7 +54,7 @@ export default function ContentBridge({ context, citySlug, cityName }: ContentBr
   if (!getLinks) return null;
   const links = getLinks({ context, citySlug, cityName }).map(link => ({
     ...link,
-    href: locale === 'nl' ? normalizeNlInternalHref(link.href) : link.href,
+    href: locale === 'nl' ? normalizeNlInternalHref(link.href) : normalizeEnInternalHref(link.href),
   }));
 
   return (

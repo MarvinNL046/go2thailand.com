@@ -31,7 +31,7 @@ Imagine waking up to Phuket's turquoise waters, then hopping on a speedboat for 
 |----------|--------|
 | **What is the best time to visit?** | **Day trips from Phuket** shine in the dry season (**November to April**), with calm seas and low rain—perfect for speedboats. |
 | **How much does it cost?** | Expect 1,000-3,000 THB ($30-90 USD) per person for group tours including lunch and gear; private charters run 10,000+ THB ($300+ USD). |
-| **How do I get there?** | Speedboats from Chalong, Rawai, or Patong piers (15-90 mins); [book ferries via [12Go](https://go2-thailand.com/transport](https://12go.tpo.lv/tNA80urD?subid=blog)/) for longer hops. |
+| **How do I get there?** | Speedboats leave from Chalong, Rawai, or Patong piers (15–90 minutes); compare longer connections in our [Thailand transport guide](/transport/). |
 | **Is it safe?** | Generally yes for organized trips, but rough seas in green season (May-Oct) cancel outings—check forecasts and stick to reputable operators. |
 | **What should I book in advance?** | Popular spots like Phi Phi or Similans during peak season; ethical elephant experiences too. |
 | **Best base in Phuket?** | Southern beaches like [Where To Stay Phuket Beaches Areas Budget](https://go2-thailand.com/blog/where-to-stay-phuket-beaches-areas-budget/) for quick pier access. |

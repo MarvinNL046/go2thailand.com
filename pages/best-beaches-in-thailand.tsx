@@ -6,6 +6,7 @@ import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import { useT } from '../lib/i18n';
 import { normalizeNlInternalHref } from '../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 import { strings as i18nStrings } from '../lib/i18n/best-beaches-in-thailand';
 import { getIslandAffiliates, TRIP_GENERIC, withPlacementSubId } from '../lib/affiliates';
 
@@ -122,7 +123,7 @@ const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Arr
       coast: 'Andaman Sea',
       body: 'Best for iconic scenery, headline beaches, and multi-stop island trips. TAT\'s Phuket and Phi Phi pages support the basic pattern here: headline beaches are easier to reach, but crowd pressure is highest on the best-known stretches.',
       routes: [
-        { href: '/islands/phuket/', label: 'Phuket guide' },
+        { href: '/city/phuket/', label: 'Phuket guide' },
         { href: '/islands/koh-phi-phi/', label: 'Koh Phi Phi guide' },
         { href: '/islands/koh-lanta/', label: 'Koh Lanta guide' }
       ]
@@ -486,7 +487,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                           </a>
                         )}
                         <Link
-                          href={lang === 'nl' ? normalizeNlInternalHref(`/islands/${beach.island_slug}/`) : `/islands/${beach.island_slug}/`}
+                          href={lang === 'nl' ? normalizeNlInternalHref(`/islands/${beach.island_slug}/`) : normalizeEnInternalHref(`/islands/${beach.island_slug}/`)}
                           className="inline-flex items-center rounded-full bg-thailand-blue px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700 transition-colors"
                         >
                           {lang === 'nl' ? `${beach.island_name[lang]} gids` : `${beach.island_name[lang]} guide`}

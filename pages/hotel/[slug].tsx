@@ -8,6 +8,7 @@ import HotelDetailGuideTemplate from '../../components/hotels/HotelDetailGuideTe
 import { getNlHotelDetailGuide } from '../../data/hotel-details/nl';
 import type { HotelDetailGuideData } from '../../data/hotel-details/types';
 import { getAffiliates, withPlacementSubId, TRIP_GENERIC, tripcomAffiliate } from '../../lib/affiliates';
+import { getCityBySlug } from '../../lib/cities';
 
 /**
  * PSEO Fase 3: /hotel/[slug]/
@@ -70,9 +71,12 @@ interface PseoHotelData {
 interface Props {
   data: PseoHotelData;
   nlGuide: HotelDetailGuideData | null;
+  hasCategoryPage: boolean;
+  hasWhereToStayPage: boolean;
+  hasCityPage: boolean;
 }
 
-export default function HotelPage({ data, nlGuide }: Props) {
+export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToStayPage, hasCityPage }: Props) {
   const { hotel, cityName, citySlug } = data;
   const aff = getAffiliates(citySlug);
 
@@ -354,11 +358,11 @@ export default function HotelPage({ data, nlGuide }: Props) {
             <h2 className="font-heading text-xl font-bold text-gray-900">Still comparing?</h2>
             <p className="mt-2 text-gray-700">Zoom out to find more options in {cityName}:</p>
             <div className="mt-4 flex flex-wrap gap-3">
-              {hotel.category && (
+              {hotel.category && hasCategoryPage && (
                 <Link href={`/best-hotels/${citySlug}/${hotel.category}/`} className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">Best {hotel.category} hotels in {cityName}</Link>
               )}
               <Link href={`/best-hotels/${citySlug}/`} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">All hotels in {cityName}</Link>
-              <Link href={`/where-to-stay/${citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">Where to stay (areas)</Link>
+              <Link href={hasWhereToStayPage ? `/where-to-stay/${citySlug}/` : hasCityPage ? `/city/${citySlug}/` : '/city/'} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{hasWhereToStayPage ? 'Where to stay (areas)' : hasCityPage ? `${cityName} travel guide` : 'Explore Thailand destinations'}</Link>
             </div>
           </section>
         </div>
@@ -397,5 +401,18 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) 
   const data = JSON.parse(fs.readFileSync(file, 'utf8')) as PseoHotelData;
   const nlGuide = locale === 'nl' ? getNlHotelDetailGuide(slug) : null;
   if (locale === 'nl' && !nlGuide) return { notFound: true, revalidate: 604800 };
-  return { props: { data, nlGuide }, revalidate: 604800 };
+  const categoryFile = data.hotel.category
+    ? path.join(process.cwd(), 'data', 'pseo', 'best-hotels', `${data.citySlug}-${data.hotel.category}.json`)
+    : '';
+  const whereToStayFile = path.join(process.cwd(), 'data', 'clusters', data.citySlug, 'where-to-stay.json');
+  return {
+    props: {
+      data,
+      nlGuide,
+      hasCategoryPage: Boolean(categoryFile && fs.existsSync(categoryFile)),
+      hasWhereToStayPage: fs.existsSync(whereToStayFile),
+      hasCityPage: Boolean(getCityBySlug(data.citySlug, 'en')),
+    },
+    revalidate: 604800,
+  };
 };

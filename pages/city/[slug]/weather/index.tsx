@@ -273,7 +273,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
                   </Link>
                 </li>
                 <li>
-                  <Link href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`} className="text-thailand-red hover:text-thailand-blue">
+                  <Link href={`/best-hotels/${city.slug}/`} className="text-thailand-red hover:text-thailand-blue">
                     {isNl ? 'Waar Verblijven' : 'Where to Stay'}
                   </Link>
                 </li>
@@ -298,7 +298,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             <a
               href={trackAffiliate(TRIP_GENERIC, 'hotels')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors"
             >
               {isNl ? 'Boek Hotels' : 'Book Hotels'}
@@ -306,7 +306,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             <a
               href={trackAffiliate(TWELVEGO_GENERIC, 'transport')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl hover:bg-thailand-blue-600 font-semibold transition-colors"
             >
               {isNl ? 'Boek Transport' : 'Book Transport'}

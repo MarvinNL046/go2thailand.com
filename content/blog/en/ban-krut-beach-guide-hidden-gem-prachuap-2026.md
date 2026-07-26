@@ -26,7 +26,7 @@ sources:
     url: "https://12go.asia/en/travel/bus-terminal-southern-bangkok/ban-krut"
 ---
 
-There's a stretch of coastline in southern Thailand that most tourists drive straight past on the way to the islands — without realizing they just missed one of the most beautiful beaches in the country. Ban Krut sits in the Bang Saphan district of [Prachuap Khiri Khan province](/city/prachuap-khiri-khan/), about 400 km south of [Bangkok](/city/bangkok/) on the Gulf of Thailand. No party scene, no beach clubs, no high-rise hotels. Just approximately 8 kilometers of white sand lined with coconut palms, crystal-clear water, an active fishing village, and some of the cheapest fresh seafood you'll find anywhere in Thailand.
+There's a stretch of coastline in southern Thailand that most tourists drive straight past on the way to the islands — without realizing they just missed one of the most beautiful beaches in the country. Ban Krut sits in Prachuap Khiri Khan province, between [Bangkok](/city/bangkok/) and the islands of southern Thailand. No party scene, no beach clubs, no high-rise hotels. Just a long palm-lined beach, an active fishing village and a much quieter rhythm than Thailand's major resorts.
 
 The town's name comes from the bergamot oranges (มะกรูด, *má grùut*) that once grew abundantly in the area. At the northern end of the beach, Thong Chai Mountain rises up with the striking [Wat Tang Sai](/city/ban-krut/) temple — built in 1996 with 9 pagodas to honor King Bhumibol's 50th anniversary — and its 15-metre golden Buddha overlooking the coastline.
 

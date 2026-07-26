@@ -4,6 +4,8 @@ import { PROJECT_ROOT } from './seo-utils';
 
 const baseUrl = process.env.SITE_AUDIT_BASE_URL || 'http://localhost:3000';
 const publicOrigin = 'https://go2-thailand.com';
+const locale = process.env.SITE_AUDIT_LOCALE === 'en' ? 'en' : 'nl';
+const sitemapFile = locale === 'nl' ? 'sitemap-nl.xml' : 'sitemap.xml';
 const concurrency = Math.max(1, Number(process.env.SITE_AUDIT_CONCURRENCY || 3));
 const targetConcurrency = Math.max(1, Number(process.env.SITE_AUDIT_TARGET_CONCURRENCY || concurrency));
 const routeLimit = Math.max(0, Number(process.env.SITE_AUDIT_LIMIT || 0));
@@ -102,10 +104,10 @@ function localUrl(path: string): string {
 }
 
 function parseSitemap(): string[] {
-  const source = readFileSync(resolve(PROJECT_ROOT, 'public', 'sitemap-nl.xml'), 'utf8');
+  const source = readFileSync(resolve(PROJECT_ROOT, 'public', sitemapFile), 'utf8');
   const routes = [...source.matchAll(/<loc>([^<]+)<\/loc>/gi)]
     .map(match => normalizedPath(match[1]))
-    .filter(route => route.startsWith('/nl/'));
+    .filter(route => locale === 'nl' ? route.startsWith('/nl/') : !route.startsWith('/nl/'));
   const unique = [...new Set(routes)];
   let selected = unique;
   if (recheckReport) {
@@ -122,10 +124,11 @@ function parseSitemap(): string[] {
   return routeLimit ? selected.slice(0, routeLimit) : selected;
 }
 
-function loadNlOnlyRoutes(): Set<string> {
+function loadLocaleOnlyRoutes(): Set<string> {
   const path = resolve(PROJECT_ROOT, 'seo', 'inventory', 'unpaired-routes.json');
-  const data = JSON.parse(readFileSync(path, 'utf8')) as { nlOnly?: string[] };
-  return new Set((data.nlOnly || []).map(normalizedPath));
+  const data = JSON.parse(readFileSync(path, 'utf8')) as { nlOnly?: string[]; enOnly?: string[] };
+  const routes = locale === 'nl' ? data.nlOnly : data.enOnly;
+  return new Set((routes || []).map(normalizedPath));
 }
 
 function loadReusedPageResults(routes: string[]): RouteAudit[] | undefined {
@@ -294,7 +297,7 @@ async function fetchWithTimeout(url: string, redirect: RequestRedirect = 'manual
   }
 }
 
-async function auditRoute(route: string, nlOnlyRoutes: Set<string>): Promise<RouteAudit> {
+async function auditRoute(route: string, localeOnlyRoutes: Set<string>): Promise<RouteAudit> {
   const result: RouteAudit = {
     route,
     schemaTypes: [],
@@ -335,7 +338,9 @@ async function auditRoute(route: string, nlOnlyRoutes: Set<string>): Promise<Rou
   if (result.mainCount !== 1) result.errors.push({ code: 'main_count', message: `${result.mainCount} main-elementen` });
 
   const htmlTag = html.match(/<html\b[^>]*>/i)?.[0] || '';
-  if (getAttribute(htmlTag, 'lang') !== 'nl') result.errors.push({ code: 'html_lang', message: 'html[lang] is niet nl' });
+  if (getAttribute(htmlTag, 'lang') !== locale) {
+    result.errors.push({ code: 'html_lang', message: `html[lang] is niet ${locale}` });
+  }
 
   result.title = textContent(head.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i)?.[1] || '');
   if (!result.title) result.errors.push({ code: 'missing_title', message: 'title ontbreekt' });
@@ -376,20 +381,31 @@ async function auditRoute(route: string, nlOnlyRoutes: Set<string>): Promise<Rou
     if (rel.includes('alternate') && hreflang && href) alternates.set(hreflang, href);
   }
   const suffix = normalizedPath(route.replace(/^\/nl(?=\/)/, '') || '/');
-  const isNlOnly = nlOnlyRoutes.has(suffix);
-  const expectedNl = publicUrl(route);
+  const isLocaleOnly = localeOnlyRoutes.has(suffix);
+  const expectedNl = publicUrl(suffix === '/' ? '/nl/' : `/nl${suffix}`);
   const expectedEn = publicUrl(suffix);
-  if (!alternates.has('nl')) result.errors.push({ code: 'missing_hreflang_nl', message: 'hreflang nl ontbreekt' });
-  else if (publicUrl(alternates.get('nl')!) !== expectedNl) result.errors.push({ code: 'hreflang_nl_mismatch', message: alternates.get('nl')! });
+  const expectedSelf = locale === 'nl' ? expectedNl : expectedEn;
+  const pairedLocale = locale === 'nl' ? 'en' : 'nl';
+  const expectedPaired = locale === 'nl' ? expectedEn : expectedNl;
+  if (!alternates.has(locale)) {
+    result.errors.push({ code: `missing_hreflang_${locale}`, message: `hreflang ${locale} ontbreekt` });
+  } else if (publicUrl(alternates.get(locale)!) !== expectedSelf) {
+    result.errors.push({ code: `hreflang_${locale}_mismatch`, message: `${alternates.get(locale)} in plaats van ${expectedSelf}` });
+  }
   if (!alternates.has('x-default')) result.errors.push({ code: 'missing_hreflang_default', message: 'hreflang x-default ontbreekt' });
-  if (isNlOnly) {
-    if (alternates.has('en')) result.errors.push({ code: 'nl_only_has_en_hreflang', message: alternates.get('en')! });
-    if (alternates.has('x-default') && publicUrl(alternates.get('x-default')!) !== expectedNl) {
-      result.errors.push({ code: 'hreflang_default_mismatch', message: `${alternates.get('x-default')} in plaats van NL self` });
+  if (isLocaleOnly) {
+    if (alternates.has(pairedLocale)) {
+      result.errors.push({ code: `${locale}_only_has_${pairedLocale}_hreflang`, message: alternates.get(pairedLocale)! });
+    }
+    if (alternates.has('x-default') && publicUrl(alternates.get('x-default')!) !== expectedSelf) {
+      result.errors.push({ code: 'hreflang_default_mismatch', message: `${alternates.get('x-default')} in plaats van ${locale.toUpperCase()} self` });
     }
   } else {
-    if (!alternates.has('en')) result.errors.push({ code: 'missing_hreflang_en', message: 'hreflang en ontbreekt' });
-    else if (publicUrl(alternates.get('en')!) !== expectedEn) result.errors.push({ code: 'hreflang_en_mismatch', message: `${alternates.get('en')} in plaats van ${expectedEn}` });
+    if (!alternates.has(pairedLocale)) {
+      result.errors.push({ code: `missing_hreflang_${pairedLocale}`, message: `hreflang ${pairedLocale} ontbreekt` });
+    } else if (publicUrl(alternates.get(pairedLocale)!) !== expectedPaired) {
+      result.errors.push({ code: `hreflang_${pairedLocale}_mismatch`, message: `${alternates.get(pairedLocale)} in plaats van ${expectedPaired}` });
+    }
     if (alternates.has('x-default') && publicUrl(alternates.get('x-default')!) !== expectedEn) {
       result.errors.push({ code: 'hreflang_default_mismatch', message: `${alternates.get('x-default')} in plaats van ${expectedEn}` });
     }
@@ -424,10 +440,13 @@ async function auditRoute(route: string, nlOnlyRoutes: Set<string>): Promise<Rou
   }
   const localeEscapes = mainInternal.filter(link => {
     const target = internalTarget(link.href);
-    return target && !target.startsWith('/nl/') && !target.startsWith('/go/');
+    return target && (locale === 'nl' ? !target.startsWith('/nl/') : target.startsWith('/nl/'));
   });
   if (localeEscapes.length) {
-    result.errors.push({ code: 'nl_link_to_en', message: `${localeEscapes.length} main-link(s) verlaten onbedoeld de NL-locale` });
+    result.errors.push({
+      code: `${locale}_link_to_${locale === 'nl' ? 'en' : 'nl'}`,
+      message: `${localeEscapes.length} main-link(s) verlaten onbedoeld de ${locale.toUpperCase()}-locale`,
+    });
   }
 
   const affiliateLinks = result.links.filter(link => link.affiliate);
@@ -492,16 +511,16 @@ function countFindings(routes: RouteAudit[], kind: 'errors' | 'warnings'): Map<s
 
 async function main(): Promise<void> {
   const routes = parseSitemap();
-  const nlOnlyRoutes = loadNlOnlyRoutes();
+  const localeOnlyRoutes = loadLocaleOnlyRoutes();
   const reusedResults = loadReusedPageResults(routes);
   const queue = reusedResults ? [] : [...routes];
   const results: RouteAudit[] = reusedResults || [];
   let completed = 0;
-  console.log(`NL sitewide audit: ${routes.length} sitemap-routes op ${baseUrl} (pagina’s ${concurrency}, doelen ${targetConcurrency}).`);
+  console.log(`${locale.toUpperCase()} sitewide audit: ${routes.length} sitemap-routes op ${baseUrl} (pagina’s ${concurrency}, doelen ${targetConcurrency}).`);
   const workers = Array.from({ length: Math.min(concurrency, queue.length) }, async () => {
     while (queue.length) {
       const route = queue.shift()!;
-      results.push(await auditRoute(route, nlOnlyRoutes));
+      results.push(await auditRoute(route, localeOnlyRoutes));
       completed++;
       if (completed % 50 === 0 || completed === routes.length) console.log(`  routes ${completed}/${routes.length}`);
     }
@@ -567,7 +586,7 @@ async function main(): Promise<void> {
 
   if (!partialAudit) {
     for (const route of routes) {
-      if (route === '/nl/') continue;
+      if (route === (locale === 'nl' ? '/nl/' : '/')) continue;
       if (!incomingMain.has(route)) {
         results.find(result => result.route === route)?.warnings.push({
           code: 'no_main_incoming_link',
@@ -619,7 +638,8 @@ async function main(): Promise<void> {
   const report = {
     generatedAt: new Date().toISOString(),
     baseUrl,
-    sitemap: 'public/sitemap-nl.xml',
+    locale,
+    sitemap: `public/${sitemapFile}`,
     routeCount: routes.length,
     passedRoutes: routes.length - failed.length,
     failedRoutes: failed.length,

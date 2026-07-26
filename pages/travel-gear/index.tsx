@@ -456,7 +456,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                   </p>
                 </div>
               </Link>
-              <a href="https://trip.tpo.lv/TmObooZ5?subid=travel-gear" target="_blank" rel="noopener noreferrer" className="group">
+              <a href="https://trip.tpo.lv/TmObooZ5?subid=travel-gear" target="_blank" rel="noopener noreferrer nofollow sponsored" className="group">
                 <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
                   <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">

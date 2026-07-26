@@ -16,6 +16,7 @@ import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
 import ContentBridge from '../../components/ContentBridge';
 import BookingHeroCTA from '../../components/BookingHeroCTA';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 
 interface RouteData {
   from: string;
@@ -69,6 +70,7 @@ const getComfortStars = (rating: number) => {
 const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions, comparisonSlug, twelveGoUrl }) => {
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
+  const routeHref = (slug: string) => locale === 'nl' ? `/transport/${slug}/` : normalizeEnInternalHref(`/transport/${slug}/`);
 
   const t = (en: string, nl: string) => locale === 'nl' ? nl : en;
 
@@ -415,7 +417,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       const otherSlug = r.from === fromCity.slug ? r.to : r.from;
                       const otherCity = citiesData.find(c => c.slug === otherSlug);
                       return (
-                        <Link key={r.slug} href={`/transport/${r.slug}/`} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors mb-1">
+                        <Link key={r.slug} href={routeHref(r.slug)} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors mb-1">
                           <span className="font-medium text-sm">{fromCity.name.en} → {otherCity?.name.en || otherSlug}</span>
                           <span className="text-xs text-gray-500">{r.distance}</span>
                         </Link>
@@ -431,7 +433,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       const otherSlug = r.from === toCity.slug ? r.to : r.from;
                       const otherCity = citiesData.find(c => c.slug === otherSlug);
                       return (
-                        <Link key={r.slug} href={`/transport/${r.slug}/`} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors mb-1">
+                        <Link key={r.slug} href={routeHref(r.slug)} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors mb-1">
                           <span className="font-medium text-sm">{toCity.name.en} → {otherCity?.name.en || otherSlug}</span>
                           <span className="text-xs text-gray-500">{r.distance}</span>
                         </Link>
@@ -484,7 +486,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               <a
                 href={twelveGoUrl}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow sponsored"
                 className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors"
               >
                 {t('Search on 12Go', 'Zoek op 12Go')} →
@@ -547,12 +549,12 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               <h3 className="text-lg font-semibold font-heading mb-4">{t('Plan Your Trip', 'Plan Je Reis')}</h3>
               <ul className="space-y-2">
                 <li>
-                  <Link href={`/city/${fromCity.slug}/weather`} className="text-thailand-red hover:text-thailand-red-600">
+                  <Link href={`/city/${fromCity.slug}/best-time-to-visit/`} className="text-thailand-red hover:text-thailand-red-600">
                     {fromCity.name.en} {t('Weather', 'Weer')}
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${toCity.slug}/weather`} className="text-thailand-red hover:text-thailand-red-600">
+                  <Link href={`/city/${toCity.slug}/best-time-to-visit/`} className="text-thailand-red hover:text-thailand-red-600">
                     {toCity.name.en} {t('Weather', 'Weer')}
                   </Link>
                 </li>

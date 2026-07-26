@@ -324,7 +324,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   </Link>
                 </li>
                 <li>
-                  <Link href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`} className="text-thailand-red hover:text-thailand-blue">
+                  <Link href={`/best-hotels/${city.slug}/`} className="text-thailand-red hover:text-thailand-blue">
                     {isNl ? 'Waar Verblijven' : 'Where to Stay'}
                   </Link>
                 </li>

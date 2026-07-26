@@ -117,7 +117,7 @@ The Full Moon Party itself is cheap. The surrounding logistics are what add up. 
 | Songthaew transport | $5 | $10 | If not staying in Haad Rin |
 | Total one night | **$102 to $134** | **$234 to $330** | Excludes flights |
 
-Pre-book your ferry and stay through [Klook](https://www.klook.com/en-US/?aid=go2thailand) for ferry tickets and [Booking.com](https://www.booking.com/?aid=go2thailand) for rooms. Paying on the day at the Haad Rin pier works but costs 20 to 30 percent more and gives you no room guarantee.
+If you travel around a Full Moon Party date, compare ferry connections in our [Thailand transport guide](/transport/) and shortlist your base with the [Koh Phangan island guide](/islands/koh-phangan/). Availability changes quickly around event dates, so confirm the live fare and booking terms before paying.
 
 Stretching the trip to a week of backpacker travel? Our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) breaks down daily costs for a proper multi-island loop.
 

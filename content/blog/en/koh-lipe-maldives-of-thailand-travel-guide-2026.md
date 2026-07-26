@@ -24,7 +24,7 @@ sources:
 
 ## Why Koh Lipe Deserves the Hype
 
-Tucked into the far southwest corner of Thailand, Koh Lipe is the smallest inhabited island in [Satun province](/destinations/satun/) and part of the protected Tarutao National Marine Park. Crystal-clear turquoise water, powdery white sand and vibrant coral just metres from shore have earned it the nickname "Maldives of Thailand" — without the Maldives price tag.
+Tucked into the far southwest corner of Thailand, Koh Lipe is a small inhabited island in Satun province and part of the protected Tarutao National Marine Park. Compare its connections and character with the other destinations in our [Thailand islands guide](/thailand-islands/) before committing to the long journey south.
 
 ## Three Beaches, Three Vibes
 

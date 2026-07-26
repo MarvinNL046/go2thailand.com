@@ -10,6 +10,7 @@ import { KrabiAttractionsGuide } from '../../../components/city/KrabiAttractions
 import { AttractionsGuideTemplate } from '../../../components/city/AttractionsGuideTemplate';
 import { getNlAttractionsGuide } from '../../../data/attractions/nl';
 import { getNlAttractionDetailGuide } from '../../../data/attraction-details/nl';
+import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 
 interface Attraction {
   id: number;
@@ -449,7 +450,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                           ? 'Kies een uitvalsbasis die het reizen door de stad beperkt.'
                           : 'Choose a base that cuts down cross-city transfers.'}
                       </p>
-                      <Link href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
+                      <Link href={isNl ? `/best-hotels/${city.slug}/` : normalizeEnInternalHref(`/best-hotels/${city.slug}/`)} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
                         {isNl ? 'Bekijk Hotelgids' : 'See Hotel Guide'}
                       </Link>
                     </div>
@@ -478,7 +479,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     </Link>
 
                     <Link
-                      href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`}
+                      href={isNl ? `/best-hotels/${city.slug}/` : normalizeEnInternalHref(`/best-hotels/${city.slug}/`)}
                       className="group flex items-center p-6 border-0 bg-surface-cream rounded-2xl hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
                     >
                       <div className="w-16 h-16 bg-thailand-red rounded-xl flex items-center justify-center mr-4 group-hover:scale-110 transition-transform">

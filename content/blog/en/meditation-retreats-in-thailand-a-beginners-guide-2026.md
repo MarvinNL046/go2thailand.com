@@ -33,7 +33,7 @@ Imagine sitting cross-legged under a banyan tree in northern Thailand's misty hi
 | **How much does it cost?** | 2,000-15,000 THB ($55-415 USD) per person for 3-10 days, including meals and basic [lodging](https://booking.tpo.lv/2PT1kR82?subid=blog); donation-based options start at 500 THB ($14 USD). |
 | **How do I get there?** | [Fly to](https://trip.tpo.lv/TmObooZ5?subid=blog) [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or [Phuket](https://go2-thailand.com/city/phuket/), then bus/taxi (1-3 hours); use [getting around Thailand](https://go2-thailand.com/practical-info/) for routes. |
 | **Is it safe?** | Very safe for retreats in established centers; minor risks like insects or dietary issues—follow [health vaccinations guide](https://go2-thailand.com/practical-info/health-vaccinations/). |
-| **What should I [book in advance?** | All retreats (spots fill fast Nov-Feb); transport via [12go](https://go2-thailand.com/transport](https://12go.tpo.lv/tNA80urD?subid=blog)/); [eSIM](https://saily.tpo.lv/rf9lidnE?subid=blog) for coordination. |
+| **What should I book in advance?** | Contact the retreat directly about availability and requirements; then compare onward travel in our [Thailand transport guide](/transport/) and arrange an eSIM if you need one for coordination. |
 | **Beginner-friendly?** | Yes, most offer guided sessions in English; no prior [experience](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog) needed. |
 | **Duration for first-timers?** | Start with 3-7 days to avoid overwhelm. |
 

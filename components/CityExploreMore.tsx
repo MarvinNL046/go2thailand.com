@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { useTranslation } from '../hooks/useTranslation';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 import { nlAttractionsOwner, nlCityOwner, normalizeNlInternalHref } from '../lib/nl-route-owners';
 
 interface CityExploreMoreProps {
@@ -49,8 +50,8 @@ export default function CityExploreMore({
 
   const clusterLinks = hasCluster
     ? [
-        { href: isNl ? nlCityOwner(citySlug) : `/destinations/${citySlug}/`, icon: '🗺️', tKey: 'nav.destinationGuide' },
-        { href: isNl ? nlAttractionsOwner(citySlug) : `/things-to-do/${citySlug}/`, icon: '🎯', tKey: 'nav.thingsToDo' },
+        { href: isNl ? nlCityOwner(citySlug) : `/city/${citySlug}/`, icon: '🗺️', tKey: 'nav.destinationGuide' },
+        { href: isNl ? nlAttractionsOwner(citySlug) : `/city/${citySlug}/attractions/`, icon: '🎯', tKey: 'nav.thingsToDo' },
       ]
     : [];
 
@@ -79,7 +80,7 @@ export default function CityExploreMore({
         {pages.map((page) => (
           <Link
             key={page.slug}
-            href={isNl ? normalizeNlInternalHref(`/city/${citySlug}/${page.slug}/`) : `/city/${citySlug}/${page.slug}/`}
+            href={isNl ? normalizeNlInternalHref(`/city/${citySlug}/${page.slug}/`) : normalizeEnInternalHref(`/city/${citySlug}/${page.slug}/`)}
             className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 flex items-center gap-3 hover:shadow-md hover:border-blue-200 transition-all duration-200"
           >
             <span className="text-2xl flex-shrink-0" role="img" aria-hidden="true">

@@ -43,6 +43,34 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // English duplicate owners consolidate into the stronger, more recent
+      // editorial route while preserving signals from the older URL.
+      {
+        source: '/blog/thailand-health-vaccinations/',
+        destination: '/blog/thailand-health-vaccinations-doctors-recommend/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/blog/thailand-king-cobra-season/',
+        destination: '/blog/thailand-king-cobra-season-travelers-guide/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/blog/where-to-stay-chiang-mai-neighborhoods/',
+        destination: '/where-to-stay/chiang-mai/',
+        permanent: true,
+        locale: false,
+      },
+      // This generated record points to a Kanchanaburi property under a Nan
+      // slug. Send visitors to the verified Nan hotel shortlist instead.
+      {
+        source: '/hotel/dheva-mantra-resort-spa-nan/',
+        destination: '/best-hotels/nan/',
+        permanent: true,
+        locale: false,
+      },
       // The researched NL visa hub owns broad visa and entry-requirement
       // intent. TDAC keeps one dedicated structured spoke; generated blog
       // duplicates consolidate without changing any English route.

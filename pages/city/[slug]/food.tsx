@@ -9,6 +9,7 @@ import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
+import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 
 function flattenBilingual(data: any): any {
   if (data === null || data === undefined) return data;
@@ -422,7 +423,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                     <p className="text-gray-600 text-sm">{lang === 'nl' ? 'Bekijk top bezienswaardigheden' : 'See top attractions'}</p>
                   </div>
                 </Link>
-                <Link href={lang === 'nl' ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                <Link href={lang === 'nl' ? `/best-hotels/${city.slug}/` : normalizeEnInternalHref(`/best-hotels/${city.slug}/`)} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16" />

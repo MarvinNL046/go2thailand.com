@@ -43,7 +43,7 @@ Thailand consistently ranks as one of the most solo-friendly countries in Asia, 
 
 **Koh Tao** — Small enough to feel safe, big enough to stay interesting. [Diving certifications and eco-friendly reefs](/blog/koh-tao-guide-diving-beaches-budget-travel/) and beach bars create a built-in social scene.
 
-**Pai** — A laid-back mountain town in Mae Hong Son province, perfect for solo travelers who want quiet evenings and motorbike day trips through rice paddies and hot springs. Easily reached by [overnight bus from Bangkok](/blog/best-hotels/pai/).
+**Pai** — A laid-back mountain town in Mae Hong Son province, suited to solo travellers who want quiet evenings and day trips through rice paddies and hot springs. Compare current routes in our [Thailand transport guide](/transport/) before adding Pai to a short itinerary.
 
 ## Tips for Going Solo
 

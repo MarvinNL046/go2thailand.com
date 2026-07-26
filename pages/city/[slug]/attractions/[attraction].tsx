@@ -526,7 +526,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <a
                         href="https://klook.tpo.lv/aq6ZFxvc?subid=city-attraction"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer nofollow sponsored"
                         className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors shadow-md hover:shadow-xl"
                       >
                         <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -537,7 +537,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <a
                         href="https://getyourguide.tpo.lv/GuAFfGGK?subid=city-attraction"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer nofollow sponsored"
                         className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md hover:shadow-xl"
                       >
                         <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

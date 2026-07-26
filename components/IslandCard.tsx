@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import { useTranslation } from '../hooks/useTranslation';
 import { normalizeNlInternalHref } from '../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 
 interface Island {
   id: number;
@@ -26,7 +27,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
   const { locale } = useRouter();
   const islandHref = locale === 'nl'
     ? normalizeNlInternalHref(`/islands/${island.slug}/`)
-    : `/islands/${island.slug}/`;
+    : normalizeEnInternalHref(`/islands/${island.slug}/`);
 
   const regionColor = island.region === 'Gulf of Thailand'
     ? 'bg-thailand-blue'

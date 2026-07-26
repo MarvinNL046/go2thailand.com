@@ -405,7 +405,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                         {(city.hasTop10Hotels || city.hasTop10Restaurants || city.hasTop10Attractions) && (
                           <div className="flex flex-wrap gap-2 mt-2 px-1">
                             {city.hasTop10Hotels && (
-                              <Link href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/top-10-hotels/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
+                              <Link href={`/best-hotels/${city.slug}/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
                             )}
                             {city.hasTop10Hotels && city.hasTop10Restaurants && <span className="text-gray-300">·</span>}
                             {city.hasTop10Restaurants && (

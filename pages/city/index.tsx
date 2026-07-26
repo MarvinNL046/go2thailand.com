@@ -337,7 +337,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
             <a
               href={trackAffiliate(TRIP_GENERIC, 'hotels-primary')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-thailand-blue text-white font-medium rounded-xl hover:bg-thailand-blue-600 transition-all shadow-md hover:shadow-lg text-sm"
             >
               <span className="text-lg">🏨</span>
@@ -347,7 +347,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
             <a
               href={trackAffiliate(BOOKING_GENERIC, 'hotels-secondary')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-blue-700 text-white font-medium rounded-xl hover:bg-blue-800 transition-all shadow-md hover:shadow-lg text-sm"
             >
               <span className="text-lg">📋</span>
@@ -357,7 +357,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
             <a
               href={trackAffiliate(TWELVEGO_GENERIC, 'transport')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-purple-600 text-white font-medium rounded-xl hover:bg-purple-700 transition-all shadow-md hover:shadow-lg text-sm"
             >
               <span className="text-lg">🚂</span>
