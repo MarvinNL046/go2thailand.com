@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowRight, Building2, CalendarDays, Clock3, Compass, MapPin, Palmtree, Sparkles } from 'lucide-react';
+import { ArrowRight, Building2, CalendarDays, Clock3, Compass, MapPin, Palmtree, Sparkles, Utensils } from 'lucide-react';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
@@ -19,28 +19,36 @@ interface CityDestinationHeroProps {
 
 export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySlug, description, heroImage, hotelsHref, idealFor, isNl, stayLength }: CityDestinationHeroProps) {
   const isKrabi = citySlug === 'krabi';
+  const isBangkok = citySlug === 'bangkok' && !isNl;
+  const isPremiumOwner = isKrabi || isBangkok;
   const subtitle = isKrabi
     ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
+    : isBangkok
+      ? 'Temples, river neighbourhoods and modern city energy—best explored by cluster.'
     : description;
   const directAnswer = isKrabi
     ? isNl
       ? 'Krabi is een provincie in Zuid-Thailand én de naam van Krabi Town. Voor een eerste reis is Ao Nang meestal de handigste basis voor boten en restaurants. Met vier dagen heb je tijd voor Railay, een eilandtour en één dag op het vasteland.'
       : 'Krabi is both a province in southern Thailand and the name of Krabi Town. Ao Nang is usually the most convenient first base for boats and restaurants. Four days gives you time for Railay, an island tour and one day on the mainland.'
-    : '';
-  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : (isNl ? 'Thailand' : 'Thailand');
+    : isBangkok
+      ? 'Bangkok is Thailand’s capital, but it is not one compact centre. Plan the Old Town and river, Chinatown and the BTS/MRT corridor as separate clusters. Three full days gives most first-time visitors a strong introduction without turning every transfer into a race.'
+      : '';
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok ? 'Central Thailand' : (isNl ? 'Thailand' : 'Thailand');
   const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
     { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
-    { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
+    isBangkok
+      ? { href: ownerHref(`/city/${citySlug}/food/`), label: 'Food', icon: Utensils }
+      : { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
     { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
     { href: ownerHref(`/city/${citySlug}/budget/`), label: isNl ? 'Praktisch' : 'Practical', icon: MapPin },
   ];
 
   return (
     <>
-      <section className="relative min-h-[650px] overflow-hidden bg-[#eaf1ef] lg:h-[610px] lg:min-h-0">
+      <section className={`relative min-h-[650px] overflow-hidden bg-[#eaf1ef] lg:min-h-0 ${isPremiumOwner ? 'lg:h-[650px]' : 'lg:h-[610px]'}`}>
         <Image
           src={heroImage}
           alt={`${cityName}, Thailand`}
@@ -64,7 +72,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
 
             <h1 className="font-display font-semibold leading-[0.82] tracking-[-0.045em] text-jade">
               <span className="block text-[4.5rem] sm:text-[5.6rem] lg:text-[6.6rem]">{cityName}<span className="sr-only">, </span></span>
-              {isKrabi && <span className="mt-2 block text-[2.35rem] tracking-[-0.03em] sm:text-[2.8rem] lg:text-[3.25rem]">Thailand</span>}
+              {isPremiumOwner && <span className="mt-2 block text-[2.35rem] tracking-[-0.03em] sm:text-[2.8rem] lg:text-[3.25rem]">Thailand</span>}
             </h1>
             <p className="mt-5 max-w-[530px] font-display text-[1.55rem] font-semibold leading-[1.05] text-jade sm:text-[1.85rem]">{subtitle}</p>
             {directAnswer && <p className="mt-4 max-w-[540px] text-sm font-medium leading-6 text-charcoal/72">{directAnswer}</p>}
@@ -79,7 +87,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
                 <span className="grid h-6 w-6 place-items-center rounded-md border border-saffron/45"><ArrowRight size={14} className="transition-transform group-hover:translate-x-0.5" /></span>
               </a>
             </div>
-            {isKrabi && (
+            {isPremiumOwner && (
               <p className="mt-3 max-w-[540px] text-[9px] leading-4 text-charcoal/48">
                 {isNl
                   ? 'De hotel- en uitjesknoppen zijn affiliatelinks. Bij een boeking ontvangen wij mogelijk een commissie; jij betaalt niets extra.'
@@ -94,11 +102,11 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
               </div>
               <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
                 <Palmtree size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
               </div>
               <div className="flex items-center gap-3 sm:pl-4">
                 <Clock3 size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Ideale reisduur' : 'Ideal trip length') : (isNl ? 'Verblijf' : 'Stay')}</dt><dd className="text-xs font-bold">{stayLength}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isPremiumOwner ? (isNl ? 'Ideale reisduur' : 'Ideal trip length') : (isNl ? 'Verblijf' : 'Stay')}</dt><dd className="text-xs font-bold">{stayLength}</dd></div>
               </div>
             </dl>
           </div>

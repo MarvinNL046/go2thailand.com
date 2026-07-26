@@ -11,8 +11,11 @@ interface CityEditorialIntroProps {
 
 export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, isNl }: CityEditorialIntroProps) {
   const isKrabi = citySlug === 'krabi';
+  const isBangkok = citySlug === 'bangkok' && !isNl;
   const title = isKrabi
     ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
+    : isBangkok
+      ? 'Bangkok at a glance'
     : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
   const paragraphs = isKrabi
     ? isNl
@@ -24,13 +27,18 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
           'Krabi is a province on southern Thailand’s Andaman coast, and Krabi Town is its provincial capital. Most beach travellers stay outside the town in Ao Nang, Railay or along the quieter Klong Muang and Tubkaak coast.',
           'Ao Nang is usually the easiest first base because boats, transfers, restaurants and hotels are close at hand. Railay suits a scenery-led beach stay, while Krabi Town is stronger for markets and a more local evening. Four days gives most first-time visitors a useful balance of coast, mainland and breathing room.',
         ]
-    : [editorial].filter(Boolean);
+    : isBangkok
+      ? [
+          'Bangkok is Thailand’s capital and its largest urban region, but the visitor experience is split across distinct clusters. Rattanakosin and Thonburi hold the royal and temple core; the Chao Phraya links heritage districts; Chinatown is a food and trade city of its own; Siam, Sukhumvit, Silom and Sathorn follow different rail and evening rhythms.',
+          'For a first visit, choose one well-connected base and build days by neighbourhood rather than by a citywide attraction list. Three full days can combine old Bangkok and the river, Chinatown and local food, then the modern city with green space. A fourth or fifth day adds depth rather than urgency.',
+        ]
+      : [editorial].filter(Boolean);
 
   return (
     <section id="over-bestemming" className="section-divider-bottom scroll-mt-24 bg-[#fcfaf6]">
       <div className="container-custom grid items-center gap-8 py-12 lg:grid-cols-[0.72fr_1.55fr] lg:gap-14 lg:py-16">
         <div className="relative self-stretch lg:flex lg:flex-col lg:justify-center">
-          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
+          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
           <h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.7rem]">{title}</h2>
           <div className="mt-6 max-w-[31rem] space-y-4 text-sm leading-7 text-charcoal/62">
             {paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}
@@ -39,7 +47,7 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
         </div>
 
         <div className="relative aspect-[16/10] overflow-hidden rounded-xl border border-jade/10 bg-jade/5 shadow-[0_8px_28px_rgba(18,63,54,0.06)] lg:aspect-[16/8.8]">
-          <Image src={imageSrc} alt={`${cityName} vanuit de lucht`} fill sizes="(min-width: 1024px) 65vw, 100vw" className="object-cover" />
+          <Image src={imageSrc} alt={isNl ? `${cityName} vanuit de lucht` : `${cityName} city overview`} fill sizes="(min-width: 1024px) 65vw, 100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-jade/10 via-transparent to-white/5" />
         </div>
       </div>

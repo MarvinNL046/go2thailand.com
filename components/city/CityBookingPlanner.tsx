@@ -1,6 +1,7 @@
 import { ArrowUpRight, BedDouble, BusFront, MapPinned, Smartphone } from 'lucide-react';
 
 interface CityBookingPlannerProps {
+  cityName?: string;
   hotelsHref: string;
   activitiesHref: string;
   transportHref: string;
@@ -11,6 +12,7 @@ interface CityBookingPlannerProps {
 const AFFILIATE_REL = 'noopener noreferrer nofollow sponsored';
 
 export function CityBookingPlanner({
+  cityName = 'Krabi',
   hotelsHref,
   activitiesHref,
   transportHref,
@@ -22,21 +24,25 @@ export function CityBookingPlanner({
       icon: BedDouble,
       eyebrow: 'Trip.com',
       title: isNl ? 'Vind je verblijf' : 'Find your stay',
-      description: isNl ? 'Vergelijk hotels en resorts in Krabi.' : 'Compare hotels and resorts in Krabi.',
+      description: isNl ? `Vergelijk hotels en resorts in ${cityName}.` : `Compare hotels and stays in ${cityName}.`,
       href: hotelsHref,
     },
     {
       icon: MapPinned,
       eyebrow: 'Klook',
       title: isNl ? 'Boek een ervaring' : 'Book an experience',
-      description: isNl ? 'Eilandtours, natuur en lokale belevenissen.' : 'Island tours, nature and local experiences.',
+      description: cityName === 'Bangkok'
+        ? 'Temple, food, river and local experiences.'
+        : isNl ? 'Eilandtours, natuur en lokale belevenissen.' : 'Island tours, nature and local experiences.',
       href: activitiesHref,
     },
     {
       icon: BusFront,
       eyebrow: '12Go',
       title: isNl ? 'Regel je vervoer' : 'Arrange transport',
-      description: isNl ? 'Veerboten, transfers, bussen en treinen.' : 'Ferries, transfers, buses and trains.',
+      description: cityName === 'Bangkok'
+        ? 'Airport, train, bus and onward connections.'
+        : isNl ? 'Veerboten, transfers, bussen en treinen.' : 'Ferries, transfers, buses and trains.',
       href: transportHref,
     },
     {
@@ -62,7 +68,7 @@ export function CityBookingPlanner({
                 {isNl ? 'Alles geregeld' : 'Everything arranged'}
               </p>
               <h2 className="mt-3 max-w-md font-display text-[2.5rem] font-semibold leading-[0.98] tracking-[-0.035em] sm:text-[3rem]">
-                {isNl ? 'Maak je Krabi-reis compleet.' : 'Complete your Krabi trip.'}
+                {isNl ? `Maak je ${cityName}-reis compleet.` : `Complete your ${cityName} trip.`}
               </h2>
               <p className="mt-4 max-w-sm text-sm leading-6 text-white/68">
                 {isNl
