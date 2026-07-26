@@ -16,12 +16,11 @@
 
 ## People Also Ask — verbatim
 
+- Wat moet je zeker eten in Thailand?
+- Wat kun je als toerist in Thailand eten?
 - Wat zijn de 10 beste Thaise gerechten?
 - Wat moet je vermijden in Thailand?
-- Wat is een typisch Thais gerecht?
-- Is het eten in Thailand gezond?
-- Wat eten ze veel in Thailand?
-- Wat is een typisch Thais diner?
+- Wat is in Thailand onbeleefd aan tafel?
 
 ## Related searches
 

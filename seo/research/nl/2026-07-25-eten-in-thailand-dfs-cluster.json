@@ -1,0 +1,1097 @@
+{
+  "captured_at": "2026-07-25T23:46:34.054Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "eten in thailand",
+  "costs": {
+    "suggestions": 0.01608,
+    "related": 0.018,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "eten in thailand",
+    "wat eten ze in thailand",
+    "eten en drinken in thailand",
+    "thailand eten en drinken",
+    "wat kost eten in thailand",
+    "eten ze in thailand hond",
+    "eten ze in thailand met stokjes",
+    "wat niet eten in thailand",
+    "eten thailand prijs",
+    "thailand eten op straat",
+    "wat eten ze in thailand als ontbijt",
+    "wat kost uit eten in thailand",
+    "eten in thailand prijs",
+    "eten in thailand veilig",
+    "eten ze hond in thailand",
+    "hoe duur is eten in thailand",
+    "hoe laat eten ze in thailand",
+    "hoeveel kost eten in thailand",
+    "prijzen eten in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "pad thai",
+      "volume": 27100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai origineel recept",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ah",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai garnalen",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "eten in thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai jumbo",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept garnalen",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus maken",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai miljuschka",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus ah",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus jumbo",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat eten ze in thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai groenten",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai kruiden",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ah verspakket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept kip",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept vega",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai verspakket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai origineel recept kip",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus recept",
+      "volume": 50,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "eten en drinken in thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai saus kopen",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand eten en drinken",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat kost eten in thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "eten ze in thailand hond",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "eten ze in thailand met stokjes",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai garnalen leuke recepten",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai origineel recept garnalen",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept tamarinde",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thaise garnalen recept",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat niet eten in thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "eten thailand prijs",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai garnalen ah",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai jumbo verspakket",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai met rijst",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai pakket ah",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept ah",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept garnalen paksoi",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recept tofu",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand eten op straat",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat eten ze in thailand als ontbijt",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat kost uit eten in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "eten in thailand prijs",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "eten in thailand veilig",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "eten ze hond in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hoe duur is eten in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hoe laat eten ze in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hoeveel kost eten in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai ah recept",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ah verspakket review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai jumbo recept",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai met kip en garnalen",
+      "volume": 10,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai pasta gebruiken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus kant en klaar",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai saus plus",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai vegetarisch ah",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "prijzen eten in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat eten in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat moet je eten in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dingen die je moet eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "eten in thailand wikipedia",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fruit eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gezond eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "halal eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hoe eten ze in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hond eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koolhydraatarm eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kreeft eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lekkerste eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "niet eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sushi eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "uit eten in zuid thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarisch eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarisch eten thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "veilig eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat niet te eten in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "awaywego.nl",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 105.74000000000001
+    },
+    {
+      "domain": "www.reis-expert.nl",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 132.18200000000002
+    },
+    {
+      "domain": "www.asiadirect.nl",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 12.742
+    },
+    {
+      "domain": "betterplaces.nl",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.75,
+      "estimatedTraffic": 26.751
+    },
+    {
+      "domain": "www.tourcompass.nl",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 24.357
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 7.0329999999999995
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 7.4319999999999995
+    },
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.65,
+      "estimatedTraffic": 19.005
+    },
+    {
+      "domain": "www.carinpool.nl",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 4.089
+    },
+    {
+      "domain": "reisgenie.nl",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.333
+    },
+    {
+      "domain": "shoestring.nl",
+      "avgPosition": 13.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.951
+    },
+    {
+      "domain": "www.thailandvoorbeginners.info",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.869
+    },
+    {
+      "domain": "travelthailand.nl",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 4.4030000000000005
+    },
+    {
+      "domain": "www.dim-sum.nl",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.6550000000000002
+    },
+    {
+      "domain": "thaistafelen.nl",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.219
+    },
+    {
+      "domain": "www.unive.nl",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.665
+    },
+    {
+      "domain": "www.localherotravel.nl",
+      "avgPosition": 21.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.478
+    },
+    {
+      "domain": "www.roadtowander.nl",
+      "avgPosition": 22,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.1660000000000001
+    },
+    {
+      "domain": "siamkitchen.nl",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.djoser.nl",
+      "avgPosition": 26.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.1549999999999998
+    },
+    {
+      "domain": "siam.recipes",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.reisroutes.nl",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.141
+    },
+    {
+      "domain": "backpackerdeals.nl",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.4209999999999998
+    },
+    {
+      "domain": "www.thaisereizen.nl",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "koningaap.nl",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.reisvormen.nl",
+      "avgPosition": 35.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.azie.nl",
+      "avgPosition": 42.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "thailandinsiderguide.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "lifestylespot.be",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "hipontrip.nl",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.reizennaarthailand.nl",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.yourtourdesk.com",
+      "avgPosition": 48,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.ah.nl",
+      "avgPosition": 49,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.priyalovesfood.nl",
+      "avgPosition": 49.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "travellegends.nl",
+      "avgPosition": 51,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.27vakantiedagen.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 37.946999999999996
+    },
+    {
+      "domain": "deliciousmagazine.nl",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 9.226
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 6.566
+    },
+    {
+      "domain": "www.proud2bme.nl",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 13.181999999999999
+    },
+    {
+      "domain": "www.pangeatravel.nl",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 7.683
+    },
+    {
+      "domain": "thailand.jouwweb.nl",
+      "avgPosition": 55.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.thuisbezorgd.nl",
+      "avgPosition": 55.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "fontdelllop.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.826
+    },
+    {
+      "domain": "homemadeadventures.nl",
+      "avgPosition": 56.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.sabai-sabai.nl",
+      "avgPosition": 60,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    }
+  ]
+}

@@ -9,10 +9,10 @@
 
 3. [De 10 lekkerste gerechten van Thailand - AWAY WE GO](https://awaywego.nl/lekkerste-gerechten-van-thailand/) — awaywego.nl
    - 1. Pad Thai – het bekendste Thaise gerecht · 2. Som Tam – papajasalade · 3. Tom Yam – de bekendste Thaise soep · 4. Penang curry · 5. Massaman curry · 6. Pad Kra ...
-4. [10 iconische gerechten uit de Thaise keuken](https://15gram.be/artikelen/10-iconische-gerechten-uit-de-thaise-keuken) — 15gram.be
-   - 16 aug 2022 — Thaise viskoekjes · Som tam, Thaise groene papayasalade · Thaise kippensoep tom kha gai · Laab · Pad Thai · Kip met Thaise basilicum · Panang curry ...
-5. [Eten in Thailand](https://www.tourcompass.nl/blog/eten-in-thailand.htm) — www.tourcompass.nl
+4. [Eten in Thailand](https://www.tourcompass.nl/blog/eten-in-thailand.htm) — www.tourcompass.nl
    - 29 jul 2024 — Eten in Thailand · 1. Pad Thai · 2. Khao Pad · 3. Khao Soi · 4. Tom Yum · 5. Tom Kha Gai · 6. Gele, rode en groene curry · 7. Panang · 8. Moo Satay.
+5. [10 iconische gerechten uit de Thaise keuken](https://15gram.be/artikelen/10-iconische-gerechten-uit-de-thaise-keuken) — 15gram.be
+   - 16 aug 2022 — Thaise viskoekjes · Som tam, Thaise groene papayasalade · Thaise kippensoep tom kha gai · Laab · Pad Thai · Kip met Thaise basilicum · Panang curry ...
 
 ## People Also Ask — verbatim
 

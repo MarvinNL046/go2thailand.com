@@ -1,6 +1,6 @@
 {
   "summary": {
-    "captured_at": "2026-07-25T23:13:06.709Z",
+    "captured_at": "2026-07-25T23:46:58.099Z",
     "locale": "nl",
     "market": {
       "language_code": "nl",
@@ -56,14 +56,14 @@
         "title": "De lekkerste Thaise gerechten in 2026 – TravelThailand.nl",
         "url": "https://travelthailand.nl/eten-en-drinken/thaise-gerechten/",
         "domain": "travelthailand.nl",
-        "description": "Wat is het? Pad Thai is misschien wel het bekendste Thaise gerecht en door velen gezien als hét nationale gerecht. Het zijn gebakken rijstnoedels met eieren, ..."
+        "description": "De lekkerste Thaise gerechten die je moet proeven in 2026 · Thailand Eten Panang curry · Thailand Eten Pad See ew · Thailand Eten Noedelsoep met wonton · Thailand ..."
       },
       {
         "position": 10,
         "title": "Thais eten en drinken",
         "url": "https://www.asiadirect.nl/blog/thais-eten-en-drinken/",
         "domain": "www.asiadirect.nl",
-        "description": "Oh ja, in Thailand eten ze niet met mes en vork, maar met een vork en een lepel. Eerlijk gezegd is dat best vreemd als je al heel je leven een mes bij je ..."
+        "description": "Streetfood is goedkoop en lekker ! Maar wat wij iedereen aanraden om te proberen, omdat het écht Thais is, is toch het proberen van street food. Pak een plastic ..."
       },
       {
         "position": 11,
@@ -74,12 +74,11 @@
       }
     ],
     "peopleAlsoAsk": [
+      "Wat moet je zeker eten in Thailand?",
+      "Wat kun je als toerist in Thailand eten?",
       "Wat zijn de 10 beste Thaise gerechten?",
       "Wat moet je vermijden in Thailand?",
-      "Wat is een typisch Thais gerecht?",
-      "Is het eten in Thailand gezond?",
-      "Wat eten ze veel in Thailand?",
-      "Wat is een typisch Thais diner?"
+      "Wat is in Thailand onbeleefd aan tafel?"
     ],
     "relatedSearches": [],
     "features": [
@@ -96,7 +95,7 @@
     "location_code": 2528,
     "language_code": "nl",
     "check_url": "https://www.google.com/search?q=wat%20eten%20in%20thailand&hl=nl&gl=NL&ie=UTF-8&uule=w+CAIQIFISCbvkh9vDCcZHEZ8Kvf_OdaGz",
-    "datetime": "2026-07-25 23:13:09 +00:00",
+    "datetime": "2026-07-25 23:47:01 +00:00",
     "spell": null,
     "refinement_chips": null,
     "item_types": [
@@ -320,7 +319,7 @@
         "items": [
           {
             "type": "people_also_ask_element",
-            "title": "Wat zijn de 10 beste Thaise gerechten?",
+            "title": "Wat moet je zeker eten in Thailand?",
             "seed_question": null,
             "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
             "expanded_element": [
@@ -334,21 +333,26 @@
           },
           {
             "type": "people_also_ask_element",
-            "title": "Wat moet je vermijden in Thailand?",
+            "title": "Wat kun je als toerist in Thailand eten?",
             "seed_question": null,
             "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
             "expanded_element": [
               {
-                "type": "people_also_ask_ai_overview_expanded_element",
-                "items": null,
-                "references": null,
-                "asynchronous_ai_overview": true
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://www.tourismthailand.org/Experiences/Details/local-food/31",
+                "domain": "www.tourismthailand.org",
+                "title": "Lokale gerechten - De officiële website van de Thaise toerismeautoriteit.",
+                "description": "Populaire gerechten zijn curry's, roergebakken groenten of vlees, heldere soep en pittige salade . À la carte restaurants zijn een uniek onderdeel van de Thaise eetcultuur, waar klanten gerechten geserveerd krijgen die ze zelf van de menukaart hebben gekozen.",
+                "images": null,
+                "timestamp": null,
+                "table": null
               }
             ]
           },
           {
             "type": "people_also_ask_element",
-            "title": "Wat is een typisch Thais gerecht?",
+            "title": "Wat zijn de 10 beste Thaise gerechten?",
             "seed_question": null,
             "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
             "expanded_element": [
@@ -362,7 +366,7 @@
           },
           {
             "type": "people_also_ask_element",
-            "title": "Is het eten in Thailand gezond?",
+            "title": "Wat moet je vermijden in Thailand?",
             "seed_question": null,
             "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
             "expanded_element": [
@@ -376,8 +380,8 @@
           },
           {
             "type": "people_also_ask_element",
-            "title": "Wat eten ze veel in Thailand?",
-            "seed_question": "Wat zijn de 10 beste Thaise gerechten?",
+            "title": "Wat moet je vermijden in Thailand?",
+            "seed_question": "Wat moet je zeker eten in Thailand?",
             "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[7]",
             "expanded_element": [
               {
@@ -390,17 +394,17 @@
           },
           {
             "type": "people_also_ask_element",
-            "title": "Wat is een typisch Thais diner?",
-            "seed_question": "Wat zijn de 10 beste Thaise gerechten?",
+            "title": "Wat is in Thailand onbeleefd aan tafel?",
+            "seed_question": "Wat moet je zeker eten in Thailand?",
             "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[8]",
             "expanded_element": [
               {
                 "type": "people_also_ask_expanded_element",
                 "featured_title": null,
-                "url": "https://en.wikipedia.org/wiki/Thai_cuisine",
-                "domain": "en.wikipedia.org",
-                "title": "Thaise keuken - Wikipedia",
-                "description": "Roergebakken noedelgerechten zoals drunken noodles, pad see ew en pad thai, en currynoedelgerechten zoals khanom chin nam ngiao, worden ook op de Thaise manier met een vork en lepel gegeten. Thaise maaltijden bestaan ​​doorgaans uit rijst (khao in het Thais) met veel bijgerechten die door iedereen worden gedeeld .",
+                "url": "https://www.forbesandpartners.com/thailand-fine-dining-etiquette-guide/",
+                "domain": "www.forbesandpartners.com",
+                "title": "Thaise eetgewoonten: een gids voor een gastronomische ervaring in Thailand",
+                "description": "Wat is in Thailand onbeleefd aan tafel? Het wordt als onbeleefd beschouwd om je vork in je mond te steken, met je bestek naar anderen te wijzen en om met je eigen lepel eten uit een gedeelde schaal te scheppen .",
                 "images": null,
                 "timestamp": null,
                 "table": null
@@ -651,7 +655,7 @@
         "is_featured_snippet": false,
         "is_malicious": false,
         "is_web_story": false,
-        "description": "Wat is het? Pad Thai is misschien wel het bekendste Thaise gerecht en door velen gezien als hét nationale gerecht. Het zijn gebakken rijstnoedels met eieren, ...",
+        "description": "De lekkerste Thaise gerechten die je moet proeven in 2026 · Thailand Eten Panang curry · Thailand Eten Pad See ew · Thailand Eten Noedelsoep met wonton · Thailand ...",
         "pre_snippet": null,
         "extended_snippet": null,
         "images": null,
@@ -659,7 +663,7 @@
         "rating": null,
         "price": null,
         "highlighted": [
-          "Pad Thai is misschien wel het bekendste Thaise gerecht"
+          "Thailand Eten Panang curry"
         ],
         "links": null,
         "faq": null,
@@ -688,7 +692,7 @@
         "is_featured_snippet": false,
         "is_malicious": false,
         "is_web_story": false,
-        "description": "Oh ja, in Thailand eten ze niet met mes en vork, maar met een vork en een lepel. Eerlijk gezegd is dat best vreemd als je al heel je leven een mes bij je ...",
+        "description": "Streetfood is goedkoop en lekker ! Maar wat wij iedereen aanraden om te proberen, omdat het écht Thais is, is toch het proberen van street food. Pak een plastic ...",
         "pre_snippet": null,
         "extended_snippet": null,
         "images": null,
@@ -696,7 +700,7 @@
         "rating": null,
         "price": null,
         "highlighted": [
-          "in Thailand eten ze niet met mes en vork, maar met een vork en een lepel"
+          "Streetfood is goedkoop en lekker"
         ],
         "links": null,
         "faq": null,
@@ -754,11 +758,11 @@
           "Wat niet eten in Thailand",
           "Thailand eten op straat",
           "Wat eten ze in Thailand als ontbijt",
-          "Authentieke Thaise recepten",
-          "Populairste thaise gerechten",
           "Eten Thailand prijs",
-          "Lekkerste thaise gerechten",
-          "Wat is Thais eten"
+          "Wat is Thais eten",
+          "Authentieke Thaise recepten",
+          "Populairste Thaise gerechten",
+          "Thailand eten en drinken"
         ],
         "rectangle": null
       }

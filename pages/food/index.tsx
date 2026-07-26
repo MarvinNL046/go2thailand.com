@@ -9,6 +9,7 @@ import SEOHead from '../../components/SEOHead';
 import EmailCapture from '../../components/EmailCapture';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/food-index';
+import ThailandFoodHub from '../../components/food/ThailandFoodHub';
 
 interface Dish {
   id: number;
@@ -29,7 +30,7 @@ interface FoodIndexPageProps {
   categories: string[];
 }
 
-export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps) {
+export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
   const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
@@ -180,6 +181,10 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
     datePublished: '2025-06-15',
     dateModified: '2026-04-02',
   };
+
+  if (isNl) {
+    return <ThailandFoodHub dishes={dishes} />;
+  }
 
   return (
     <>

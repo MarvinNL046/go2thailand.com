@@ -128,6 +128,16 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // The researched food hub owns broad NL Thai-food and eating-in-
+      // Thailand intent. Keep vegetarian, drink, dish and city-food pages as
+      // focused spokes, and preserve the English cuisine guide for its own
+      // English research phase.
+      {
+        source: '/nl/travel-guides/thai-cuisine-food-guide/',
+        destination: '/nl/food/',
+        permanent: true,
+        locale: false,
+      },
       // The established NL weather URL owns the broad weather, climate,
       // rainy-season and best-time intent. Preserve all English routes until
       // their separate research phase.
