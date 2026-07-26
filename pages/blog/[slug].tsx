@@ -49,6 +49,7 @@ import { BangkokSpecialtyCoffeeGuideEn } from '../../components/food/BangkokSpec
 import { CaveFantasyBangkokGuide } from '../../components/attractions/CaveFantasyBangkokGuide';
 import { CaveFantasyBangkokGuideEn } from '../../components/attractions/CaveFantasyBangkokGuideEn';
 import { NewLuxuryResortsThailandGuide } from '../../components/hotels/NewLuxuryResortsThailandGuide';
+import { NewLuxuryResortsThailandGuideEn } from '../../components/hotels/NewLuxuryResortsThailandGuideEn';
 import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
 import { JoddFairsRatchadaGuideEn } from '../../components/markets/JoddFairsRatchadaGuideEn';
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
@@ -236,6 +237,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'new-luxury-resorts-thailand-2026-marriott-hilton-mercure') {
     return <NewLuxuryResortsThailandGuide />;
+  }
+
+  if (locale !== 'nl' && post.slug === 'new-luxury-resorts-thailand-2026-marriott-hilton-mercure') {
+    return <NewLuxuryResortsThailandGuideEn />;
   }
 
   if (locale === 'nl' && post.slug === 'jodd-fairs-bangkok-night-market-guide') {
