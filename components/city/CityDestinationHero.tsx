@@ -27,7 +27,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
   const isChiangRai = citySlug === 'chiang-rai' && !isNl;
   const isKanchanaburi = citySlug === 'kanchanaburi' && !isNl;
   const isSukhothai = citySlug === 'sukhothai' && !isNl;
-  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai;
+  const isPai = citySlug === 'pai' && !isNl;
+  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai;
   const subtitle = isKrabi
     ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
     : isBangkok
@@ -46,6 +47,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'River Kwai history, waterfall country and upriver nights—planned as separate chapters.'
     : isSukhothai
       ? 'UNESCO ruins, quiet cycling loops and a second heritage landscape—read in the right order.'
+    : isPai
+      ? 'A walkable mountain town, a wider valley and one winding arrival—planned without scooter pressure.'
       : description;
   const directAnswer = isKrabi
     ? isNl
@@ -67,14 +70,16 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'Kanchanaburi is both a provincial city and the gateway to a long western corridor. Use one day for documented history and remembrance, then give Erawan, the surviving railway or an upriver stay its own chapter. Two to three days is a strong first balance.'
     : isSukhothai
       ? 'Sukhothai is both a modern provincial town and a UNESCO-listed old-capital landscape. Start in the central zone, add Wat Si Chum or the west only after that orientation, and give Si Satchanalai a separate day. One night is a strong minimum; two full days adds real depth.'
+    : isPai
+      ? 'Pai is a compact valley town in Mae Hong Son province, most commonly reached from Chiang Mai by a winding mountain road. Stay near the centre for a walkable evening, then plan one outer-valley day by driver, organised route or suitable legal transport. Two to three nights is a strong first balance.'
       : '';
-  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok || isAyutthaya || isKanchanaburi ? 'Central Thailand' : isChiangMai || isChiangRai || isSukhothai ? 'Northern Thailand' : isPhuket || isKohSamui ? 'Southern Thailand' : 'Thailand';
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok || isAyutthaya || isKanchanaburi ? 'Central Thailand' : isChiangMai || isChiangRai || isSukhothai || isPai ? 'Northern Thailand' : isPhuket || isKohSamui ? 'Southern Thailand' : 'Thailand';
   const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
     { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
-    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai
+    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai
       ? { href: ownerHref(`/city/${citySlug}/food/`), label: 'Food', icon: Utensils }
       : { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
     { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
@@ -137,7 +142,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
               </div>
               <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
                 <Palmtree size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
               </div>
               <div className="flex items-center gap-3 sm:pl-4">
                 <Clock3 size={18} className="shrink-0 text-jade/65" />

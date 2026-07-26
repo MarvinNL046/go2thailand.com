@@ -19,6 +19,7 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
   const isChiangRai = citySlug === 'chiang-rai' && !isNl;
   const isKanchanaburi = citySlug === 'kanchanaburi' && !isNl;
   const isSukhothai = citySlug === 'sukhothai' && !isNl;
+  const isPai = citySlug === 'pai' && !isNl;
   const title = isKrabi
     ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
     : isBangkok
@@ -37,6 +38,8 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
       ? 'Kanchanaburi at a glance'
     : isSukhothai
       ? 'Sukhothai at a glance'
+    : isPai
+      ? 'Pai at a glance'
       : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
   const paragraphs = isKrabi
     ? isNl
@@ -88,13 +91,18 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
           'Sukhothai is both a modern provincial town and the wider landscape of Thailand’s early old capital. The UNESCO World Heritage property links Sukhothai with Si Satchanalai and Kamphaeng Phet, while the visitor experience starts with a much clearer distinction: New Sukhothai for practical town life, and Mueang Kao for the historical park.',
           'For a first visit, use the central zone to understand Wat Mahathat, the ponds, walls and overall city plan. Add Wat Si Chum or the west as a second layer, then decide whether another day should deepen the local park or go to Si Satchanalai. One night works; two full days creates a calmer and more legible trip.',
         ]
+    : isPai
+      ? [
+          'Where is Pai in Thailand? Pai is a small town in Mae Hong Son province, set in a wider northern valley beyond a winding mountain journey from Chiang Mai. The centre around Walking Street is compact and easy to understand; Pai Canyon, hot springs, viewpoints and community stops sit in separate outer clusters.',
+          'For a first visit, use the arrival day for the town, then give one full day to a coherent valley route. Two nights is workable, while three nights creates room for road recovery, changing weather and a no-scooter plan without turning every viewpoint into a timed transfer.',
+        ]
       : [editorial].filter(Boolean);
 
   return (
     <section id="over-bestemming" className="section-divider-bottom scroll-mt-24 bg-[#fcfaf6]">
       <div className="container-custom grid items-center gap-8 py-12 lg:grid-cols-[0.72fr_1.55fr] lg:gap-14 lg:py-16">
         <div className="relative self-stretch lg:flex lg:flex-col lg:justify-center">
-          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi ? 'Start with the city and province' : isSukhothai ? 'Start with the old-city structure' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
+          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi ? 'Start with the city and province' : isSukhothai ? 'Start with the old-city structure' : isPai ? 'Start with the town and valley' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
           <h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.7rem]">{title}</h2>
           <div className="mt-6 max-w-[31rem] space-y-4 text-sm leading-7 text-charcoal/62">
             {paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}
