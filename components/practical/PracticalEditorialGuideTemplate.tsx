@@ -48,7 +48,9 @@ const iconMap: Record<PracticalGuideIcon, LucideIcon> = {
 };
 
 function createSchemas(data: PracticalEditorialGuideData) {
-  const pageUrl = `https://go2-thailand.com/nl/travel-guides/${data.slug}/`;
+  const isEn = data.language === 'en';
+  const localePath = isEn ? '' : '/nl';
+  const pageUrl = `https://go2-thailand.com${localePath}/travel-guides/${data.slug}/`;
   return [
     {
       '@context': 'https://schema.org',
@@ -58,7 +60,7 @@ function createSchemas(data: PracticalEditorialGuideData) {
       image: data.seo.image,
       datePublished: data.publishedAt,
       dateModified: data.updatedAt,
-      inLanguage: 'nl-NL',
+      inLanguage: isEn ? 'en' : 'nl-NL',
       mainEntityOfPage: pageUrl,
       author: { '@type': 'Organization', name: 'Go2 Thailand', url: 'https://go2-thailand.com/' },
       publisher: { '@type': 'Organization', name: 'Go2 Thailand', url: 'https://go2-thailand.com/' },
@@ -76,15 +78,15 @@ function createSchemas(data: PracticalEditorialGuideData) {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' },
-        { '@type': 'ListItem', position: 2, name: 'Reisgidsen', item: 'https://go2-thailand.com/nl/travel-guides/' },
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `https://go2-thailand.com${localePath}/` },
+        { '@type': 'ListItem', position: 2, name: isEn ? 'Travel Guides' : 'Reisgidsen', item: `https://go2-thailand.com${localePath}/travel-guides/` },
         { '@type': 'ListItem', position: 3, name: '7-Eleven Thailand', item: pageUrl },
       ],
     },
     {
       '@context': 'https://schema.org',
       '@type': 'ItemList',
-      name: 'Wat koop je bij 7-Eleven Thailand?',
+      name: isEn ? 'What should you buy at 7-Eleven Thailand?' : 'Wat koop je bij 7-Eleven Thailand?',
       itemListElement: data.products.cards.map((product, index) => ({
         '@type': 'ListItem',
         position: index + 1,
@@ -96,21 +98,53 @@ function createSchemas(data: PracticalEditorialGuideData) {
 }
 
 export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEditorialGuideData }) {
+  const isEn = data.language === 'en';
+  const copy = isEn ? {
+    nav: ['Choose', 'Food', 'Prices', 'Services', 'Rules', 'Pack', 'FAQs'], guides: 'Travel Guides',
+    heroPrimary: 'What should you buy?', heroSecondary: 'See price ranges', quick: 'Quick decision',
+    now: 'Need now', later: 'For later', conditions: 'Check rules',
+    quickNote: 'Prices and stock vary. The checkout price and current official guidance remain decisive.',
+    firstStop: 'Your first stop', verdict: 'Quick verdict', bestFor: 'Best for', caution: 'Watch for',
+    tableCaption: 'Indicative prices for products at 7-Eleven Thailand', tableHeaders: ['Product', 'Typical range', 'Why it varies'],
+    afterArrival: 'After arrival', beforeDeparture: 'Before departure',
+    affiliate: 'Affiliate disclosure: we may earn commission from qualifying Amazon purchases at no extra cost to you. OneLink may send you to a local Amazon store; availability and delivery vary by country.',
+    packingList: 'View the full Thailand packing list', faqEyebrow: 'Real search questions',
+    faqTitle: 'Frequently asked questions about 7-Eleven Thailand',
+    faqDescription: 'These questions come from current English-language People Also Ask results. The answers separate stable store information from rules and services that can change.',
+    relatedEyebrow: 'Keep planning', relatedTitle: 'From a quick stop to a smarter trip',
+    sourceEyebrow: 'Verifiable information', sourceTitle: 'Sources & method',
+    sourceDescription: `This owner was rebuilt on ${data.updatedAt} after live DataForSEO keyword, SERP, competitor, PAA, ranking and backlink research. Official sources support store counts, services, alcohol rules and telecom guidance. Price bands are editorial orientation, not a checkout guarantee.`,
+  } : {
+    nav: ['Kiezen', 'Eten', 'Prijzen', 'Diensten', 'Regels', 'Meenemen', 'Vragen'], guides: 'Reisgidsen',
+    heroPrimary: 'Wat koop je?', heroSecondary: 'Bekijk prijsbanden', quick: 'Snel beslissen',
+    now: 'Nu nodig', later: 'Voor later', conditions: 'Met regels',
+    quickNote: 'Prijzen en voorraad wisselen. De kassa en actuele overheidsinformatie blijven leidend.',
+    firstStop: 'De eerste stop', verdict: 'Kort oordeel', bestFor: 'Goed voor', caution: 'Let op',
+    tableCaption: 'Indicatieve prijzen voor producten bij 7-Eleven Thailand', tableHeaders: ['Product', 'Oriëntatie', 'Waarom het verschilt'],
+    afterArrival: 'Na aankomst', beforeDeparture: 'Voor vertrek',
+    affiliate: 'Affiliate: bij een aankoop via deze Amazon-links ontvangen wij mogelijk commissie, zonder extra kosten voor jou. OneLink kan je doorsturen naar een lokale Amazon-winkel; aanbod en bestemming verschillen per land.',
+    packingList: 'Bekijk de volledige Thailand-paklijst', faqEyebrow: 'Echte zoekvragen',
+    faqTitle: 'Veelgestelde vragen over 7-Eleven Thailand',
+    faqDescription: 'De vragen zijn gebaseerd op actuele Nederlandse People Also Ask-resultaten. Antwoorden scheiden stabiele winkelinformatie van regels en diensten die kunnen veranderen.',
+    relatedEyebrow: 'Verder voorbereiden', relatedTitle: 'Van snelle stop naar slimme reis',
+    sourceEyebrow: 'Controleerbare informatie', sourceTitle: 'Bronnen & methode',
+    sourceDescription: `De owner is op ${data.updatedAt.split('-').reverse().join('-')} herbouwd na live DataForSEO-keyword-, SERP-, concurrent-, PAA-, ranking- en backlinkonderzoek. We gebruiken officiële bronnen voor winkelaantal, diensten, alcoholregels en telecom. Prijsbanden zijn redactionele oriëntatie en geen kassagarantie.`,
+  };
   const schemas = createSchemas(data);
   const sectionNav = [
-    { href: '#kiezen' as const, label: 'Kiezen', icon: ShoppingBasket },
-    { href: '#eten' as const, label: 'Eten', icon: Coffee },
-    { href: '#prijzen' as const, label: 'Prijzen', icon: WalletCards },
-    { href: '#diensten' as const, label: 'Diensten', icon: Smartphone },
-    { href: '#regels' as const, label: 'Regels', icon: Clock3 },
-    { href: '#meenemen' as const, label: 'Meenemen', icon: Package },
-    { href: '#vragen' as const, label: 'Vragen', icon: ShieldCheck },
+    { href: '#kiezen' as const, label: copy.nav[0], icon: ShoppingBasket },
+    { href: '#eten' as const, label: copy.nav[1], icon: Coffee },
+    { href: '#prijzen' as const, label: copy.nav[2], icon: WalletCards },
+    { href: '#diensten' as const, label: copy.nav[3], icon: Smartphone },
+    { href: '#regels' as const, label: copy.nav[4], icon: Clock3 },
+    { href: '#meenemen' as const, label: copy.nav[5], icon: Package },
+    { href: '#vragen' as const, label: copy.nav[6], icon: ShieldCheck },
   ];
 
   return (
     <>
       <SEOHead title={data.seo.title} description={data.seo.description} ogImage={data.seo.image}>
-        <meta name="keywords" content="7 eleven thailand, 7-eleven thailand, 7 eleven thailand snacks, wat kopen bij 7 eleven thailand, prijzen 7 eleven thailand, simkaart thailand" />
+        <meta name="keywords" content={data.seo.keywords || '7 eleven thailand, 7-eleven thailand, 7 eleven thailand snacks, wat kopen bij 7 eleven thailand, prijzen 7 eleven thailand, simkaart thailand'} />
         {schemas.map((schema) => <script key={schema['@type']} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
@@ -118,14 +152,14 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
-          breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Reisgidsen', href: '/travel-guides/' }, { label: '7-Eleven' }]}
+          breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: copy.guides, href: '/travel-guides/' }, { label: '7-Eleven' }]}
           eyebrow={data.hero.eyebrow}
           title={<>{data.hero.title}</>}
           subtitle={<>{data.hero.accent}</>}
           description={data.hero.description}
           actions={[
-            { label: 'Wat koop je?', href: '#kiezen', kind: 'primary' },
-            { label: 'Bekijk prijsbanden', href: '#prijzen', kind: 'secondary' },
+            { label: copy.heroPrimary, href: '#kiezen', kind: 'primary' },
+            { label: copy.heroSecondary, href: '#prijzen', kind: 'secondary' },
           ]}
           minHeightClassName="min-h-[790px] lg:min-h-[720px]"
           contentClassName="max-w-[690px]"
@@ -136,15 +170,15 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
           sideCard={(
             <aside className="absolute bottom-8 right-[max(2rem,calc((100vw-1280px)/2))] z-10 hidden w-[315px] overflow-hidden rounded-2xl border border-white/60 bg-white/82 shadow-editorial-lift backdrop-blur-xl xl:block">
               <div className="flex items-center justify-between border-b border-jade/10 px-5 py-4">
-                <p className="text-[9px] font-extrabold uppercase tracking-[0.16em] text-saffron-dark">Snel beslissen</p>
+                <p className="text-[9px] font-extrabold uppercase tracking-[0.16em] text-saffron-dark">{copy.quick}</p>
                 <span className="grid h-9 w-9 place-items-center rounded-full border border-saffron/30 bg-canvas text-jade"><ShoppingBasket size={17} /></span>
               </div>
               <div className="grid grid-cols-3 divide-x divide-jade/10 px-2 py-5 text-center">
-                <div><strong className="block font-display text-2xl text-jade">A</strong><span className="text-[9px] font-bold text-charcoal/52">Nu nodig</span></div>
-                <div><strong className="block font-display text-2xl text-jade">B</strong><span className="text-[9px] font-bold text-charcoal/52">Voor later</span></div>
-                <div><strong className="block font-display text-2xl text-jade">C</strong><span className="text-[9px] font-bold text-charcoal/52">Met regels</span></div>
+                <div><strong className="block font-display text-2xl text-jade">A</strong><span className="text-[9px] font-bold text-charcoal/52">{copy.now}</span></div>
+                <div><strong className="block font-display text-2xl text-jade">B</strong><span className="text-[9px] font-bold text-charcoal/52">{copy.later}</span></div>
+                <div><strong className="block font-display text-2xl text-jade">C</strong><span className="text-[9px] font-bold text-charcoal/52">{copy.conditions}</span></div>
               </div>
-              <p className="border-t border-jade/10 px-5 py-4 text-[10px] font-medium leading-4 text-charcoal/55">Prijzen en voorraad wisselen. De kassa en actuele overheidsinformatie blijven leidend.</p>
+              <p className="border-t border-jade/10 px-5 py-4 text-[10px] font-medium leading-4 text-charcoal/55">{copy.quickNote}</p>
             </aside>
           )}
         />
@@ -187,7 +221,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
                 <div className="absolute inset-0 bg-gradient-to-t from-jade/38 via-transparent to-transparent lg:bg-gradient-to-r" />
               </div>
               <div className="p-7 sm:p-10 lg:p-12">
-                <p className="eyebrow">De eerste stop</p>
+                <p className="eyebrow">{copy.firstStop}</p>
                 <h2 className="font-display text-[2.65rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.3rem]">{data.basket.title}</h2>
                 <p className="mt-5 text-sm font-medium leading-7 text-charcoal/66">{data.basket.intro}</p>
                 <div className="mt-7 grid gap-4 sm:grid-cols-2">
@@ -203,7 +237,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
 
             <aside className="mt-6 rounded-2xl border border-saffron/25 bg-tonal px-6 py-5 sm:flex sm:items-center sm:gap-6">
               <span className="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-jade text-saffron-light"><BadgeCheck size={20} /></span>
-              <div className="mt-3 sm:mt-0"><strong className="text-sm font-extrabold text-jade">Kort oordeel</strong><p className="mt-1 text-xs font-medium leading-5 text-charcoal/66">{data.intro.verdict}</p></div>
+              <div className="mt-3 sm:mt-0"><strong className="text-sm font-extrabold text-jade">{copy.verdict}</strong><p className="mt-1 text-xs font-medium leading-5 text-charcoal/66">{data.intro.verdict}</p></div>
             </aside>
           </div>
         </section>
@@ -222,8 +256,8 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
                     <h2 className="font-display text-[1.9rem] font-semibold leading-none text-jade">{card.title}</h2>
                     <p className="mt-4 text-xs font-medium leading-6 text-charcoal/66">{card.description}</p>
                     <dl className="mt-5 space-y-3 border-t border-jade/10 pt-5 text-[11px] leading-5">
-                      <div><dt className="font-extrabold text-jade">Goed voor</dt><dd className="text-charcoal/60">{card.bestFor}</dd></div>
-                      <div><dt className="font-extrabold text-saffron-dark">Let op</dt><dd className="text-charcoal/60">{card.caution}</dd></div>
+                      <div><dt className="font-extrabold text-jade">{copy.bestFor}</dt><dd className="text-charcoal/60">{card.bestFor}</dd></div>
+                      <div><dt className="font-extrabold text-saffron-dark">{copy.caution}</dt><dd className="text-charcoal/60">{card.caution}</dd></div>
                     </dl>
                   </div>
                 </article>
@@ -266,9 +300,9 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
               <div className="min-w-0">
                 <div className="w-full max-w-full overflow-x-auto rounded-2xl border border-jade/10 bg-white shadow-editorial-card">
                   <table className="w-full min-w-[680px] border-collapse text-left">
-                    <caption className="sr-only">Indicatieve prijzen voor producten bij 7-Eleven Thailand</caption>
+                    <caption className="sr-only">{copy.tableCaption}</caption>
                     <thead className="bg-jade text-[10px] font-extrabold uppercase tracking-[0.12em] text-white">
-                      <tr><th scope="col" className="px-5 py-4">Product</th><th scope="col" className="px-5 py-4">Oriëntatie</th><th scope="col" className="px-5 py-4">Waarom het verschilt</th></tr>
+                      <tr>{copy.tableHeaders.map((header) => <th key={header} scope="col" className="px-5 py-4">{header}</th>)}</tr>
                     </thead>
                     <tbody className="divide-y divide-jade/8">
                       {data.prices.rows.map((row, index) => (
@@ -339,7 +373,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
             <SectionHeading eyebrow={data.pack.eyebrow} title={data.pack.title} description={data.pack.description} />
             <div className="mt-10 grid gap-5 lg:grid-cols-2">
               <article className="relative overflow-hidden rounded-[26px] border border-jade/10 bg-white p-7 shadow-editorial-card sm:p-9">
-                <div className="flex items-center justify-between"><p className="eyebrow">Na aankomst</p><span className="grid h-12 w-12 place-items-center rounded-full border border-saffron/30 bg-tonal text-jade"><ShoppingBasket size={22} /></span></div>
+                <div className="flex items-center justify-between"><p className="eyebrow">{copy.afterArrival}</p><span className="grid h-12 w-12 place-items-center rounded-full border border-saffron/30 bg-tonal text-jade"><ShoppingBasket size={22} /></span></div>
                 <h3 className="font-display text-[2.45rem] font-semibold leading-none text-jade">{data.pack.localTitle}</h3>
                 <div className="mt-7 space-y-5">
                   {data.pack.localItems.map((item) => (
@@ -350,10 +384,10 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
               </article>
 
               <article className="rounded-[26px] bg-jade p-7 text-white shadow-editorial-lift sm:p-9">
-                <div className="flex items-center justify-between"><p className="eyebrow !text-saffron-light">Voor vertrek</p><span className="grid h-12 w-12 place-items-center rounded-full border border-white/15 bg-white/[0.07] text-saffron-light"><Package size={22} /></span></div>
+                <div className="flex items-center justify-between"><p className="eyebrow !text-saffron-light">{copy.beforeDeparture}</p><span className="grid h-12 w-12 place-items-center rounded-full border border-white/15 bg-white/[0.07] text-saffron-light"><Package size={22} /></span></div>
                 <h3 className="font-display text-[2.45rem] font-semibold leading-none">{data.pack.amazonTitle}</h3>
                 <p className="mt-4 text-xs font-medium leading-6 text-white/64">{data.pack.amazonDescription}</p>
-                <AffiliateDisclosure className="mt-4 !text-white/55">Affiliate: bij een aankoop via deze Amazon-links ontvangen wij mogelijk commissie, zonder extra kosten voor jou. OneLink kan je doorsturen naar een lokale Amazon-winkel; aanbod en bestemming verschillen per land.</AffiliateDisclosure>
+                <AffiliateDisclosure className="mt-4 !text-white/55">{copy.affiliate}</AffiliateDisclosure>
                 <div className="mt-6 grid gap-3">
                   {data.pack.amazonProducts.map((product, index) => (
                     <a key={product.amazonSlug} href={`/go/${product.amazonSlug}/`} target="_blank" rel="noopener noreferrer nofollow sponsored" className="group grid grid-cols-[36px_1fr_36px] items-start gap-3 rounded-xl border border-white/13 bg-white/[0.065] p-4 transition hover:border-saffron/45 hover:bg-white/[0.1]">
@@ -363,7 +397,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
                     </a>
                   ))}
                 </div>
-                <Link href="/travel-gear/" className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-saffron-light">Bekijk de volledige Thailand-paklijst <ArrowRight size={14} /></Link>
+                <Link href="/travel-gear/" className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-saffron-light">{copy.packingList} <ArrowRight size={14} /></Link>
               </article>
             </div>
           </div>
@@ -381,11 +415,11 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
           </div>
         </section>
 
-        <FaqSplitSection id="vragen" eyebrow="Echte zoekvragen" title="Veelgestelde vragen over 7-Eleven Thailand" description="De vragen zijn gebaseerd op actuele Nederlandse People Also Ask-resultaten. Antwoorden scheiden stabiele winkelinformatie van regels en diensten die kunnen veranderen." items={data.faqs} />
+        <FaqSplitSection id="vragen" eyebrow={copy.faqEyebrow} title={copy.faqTitle} description={copy.faqDescription} items={data.faqs} />
 
-        <RelatedGuidesSection eyebrow="Verder voorbereiden" title="Van snelle stop naar slimme reis" guides={data.related} />
+        <RelatedGuidesSection eyebrow={copy.relatedEyebrow} title={copy.relatedTitle} guides={data.related} />
 
-        <SourceMethodSection eyebrow="Controleerbare informatie" title="Bronnen & methode" description={`De owner is op ${data.updatedAt.split('-').reverse().join('-')} herbouwd na live DataForSEO-keyword-, SERP-, concurrent-, PAA-, ranking- en backlinkonderzoek. We gebruiken officiële bronnen voor winkelaantal, diensten, alcoholregels en telecom. Prijsbanden zijn redactionele oriëntatie en geen kassagarantie.`} sources={data.sources} />
+        <SourceMethodSection eyebrow={copy.sourceEyebrow} title={copy.sourceTitle} description={copy.sourceDescription} sources={data.sources} />
       </div>
     </>
   );

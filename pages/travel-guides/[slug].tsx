@@ -313,8 +313,8 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as Lang;
 
-  if (lang === 'nl' && guide.slug === '7-eleven-thailand') {
-    return <SevenElevenThailandGuide />;
+  if (guide.slug === '7-eleven-thailand') {
+    return <SevenElevenThailandGuide language={lang} />;
   }
 
   if (lang === 'nl' && guide.slug === 'vegetarian-vegan-thailand') {

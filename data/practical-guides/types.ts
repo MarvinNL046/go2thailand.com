@@ -67,9 +67,10 @@ export interface PracticalGuideSource {
 
 export interface PracticalEditorialGuideData {
   slug: string;
+  language?: 'nl' | 'en';
   updatedAt: string;
   publishedAt: string;
-  seo: { title: string; description: string; image: string };
+  seo: { title: string; description: string; image: string; keywords?: string };
   hero: {
     eyebrow: string;
     title: string;
