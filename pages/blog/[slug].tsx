@@ -48,6 +48,7 @@ import { NewLuxuryResortsThailandGuide } from '../../components/hotels/NewLuxury
 import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
 import { JoddFairsRatchadaGuideEn } from '../../components/markets/JoddFairsRatchadaGuideEn';
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
+import { ChatuchakFoodGuideEn } from '../../components/markets/ChatuchakFoodGuideEn';
 import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
 import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
 import { HarborIslandBangkapiGuide } from '../../components/attractions/HarborIslandBangkapiGuide';
@@ -226,6 +227,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'nl' && post.slug === 'chatuchak-weekend-market-food-guide') {
     return <ChatuchakFoodGuide />;
+  }
+
+  if (locale !== 'nl' && post.slug === 'chatuchak-weekend-market-food-guide') {
+    return <ChatuchakFoodGuideEn />;
   }
 
   if (locale === 'nl' && post.slug === 'thai-massage-guide-types-prices') {
