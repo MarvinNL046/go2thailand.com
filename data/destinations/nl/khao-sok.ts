@@ -177,8 +177,8 @@ export const khaoSokDestinationGuide: DestinationGuideData = {
   ],
   relatedGuides: [
     { title: 'Vervoer in Thailand', description: 'Vergelijk minivan, privétransfer, trein en ferry als één doorlopende route.', href: '/transport/', image: '/images/redesign/transport-thailand-hero.webp', imageAlt: 'Vervoer door een groen landschap in Thailand' },
-    { title: 'Paklijst Thailand', description: 'Maak je basispaklijst regenwoudproof zonder te veel mee te slepen.', href: '/travel-gear/', image: '/images/redesign/thailand-packing-hero.webp', imageAlt: 'Geordende Thailand-paklijst voor een tropische reis' },
-    { title: 'Weer in Thailand', description: 'Vergelijk de Andamankust, Golf en het natte zuiden per reismaand.', href: '/weather/', image: '/images/redesign/thailand-weather-hero.webp', imageAlt: 'Wisselende tropische lucht boven Thailand' },
+    { title: 'Paklijst Thailand', description: 'Maak je basispaklijst regenwoudproof zonder te veel mee te slepen.', href: '/travel-gear/', image: '/images/redesign/travel-gear-hero.webp', imageAlt: 'Geordende Thailand-paklijst voor een tropische reis' },
+    { title: 'Weer in Thailand', description: 'Vergelijk de Andamankust, Golf en het natte zuiden per reismaand.', href: '/weather/', image: '/images/redesign/thailand-weather-hub-hero.webp', imageAlt: 'Wisselende tropische lucht boven Thailand' },
   ],
   sources: [
     { title: 'Khao Sok National Park', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Attraction/khao-sok-national-park', note: 'Officiële bestemmingsinformatie en parkcontext.' },

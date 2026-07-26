@@ -101,7 +101,7 @@ export function CityItineraryOverview({ affiliateHref, isNl }: CityItineraryOver
               );
 
               return day.external ? (
-                <a key={day.day} href={href} target="_blank" rel="noopener noreferrer sponsored">{body}</a>
+                <a key={day.day} href={href} target="_blank" rel="noopener noreferrer nofollow sponsored">{body}</a>
               ) : (
                 <Link key={day.day} href={href}>{body}</Link>
               );

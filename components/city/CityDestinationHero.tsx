@@ -67,11 +67,11 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
             {directAnswer && <p className="mt-4 max-w-[540px] text-sm font-medium leading-6 text-charcoal/72">{directAnswer}</p>}
 
             <div className="mt-7 flex flex-wrap gap-3">
-              <a href={activitiesHref} target="_blank" rel="noopener noreferrer sponsored" className="btn-jade btn-jade-pattern group min-h-12 px-6">
+              <a href={activitiesHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-jade btn-jade-pattern group min-h-12 px-6">
                 {isNl ? 'Bekijk uitjes' : 'View experiences'}
                 <ArrowRight size={17} className="text-saffron transition-transform group-hover:translate-x-1" />
               </a>
-              <a href={hotelsHref} target="_blank" rel="noopener noreferrer sponsored" className="btn-cream group min-h-12 px-6 text-saffron-dark">
+              <a href={hotelsHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-cream group min-h-12 px-6 text-saffron-dark">
                 {isNl ? 'Vind een hotel' : 'Find a hotel'}
                 <span className="grid h-6 w-6 place-items-center rounded-md border border-saffron/45"><ArrowRight size={14} className="transition-transform group-hover:translate-x-0.5" /></span>
               </a>

@@ -150,7 +150,7 @@ export function DestinationGuideTemplate({ data }: DestinationGuideTemplateProps
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -258,7 +258,7 @@ export function DestinationGuideTemplate({ data }: DestinationGuideTemplateProps
         <SourceMethodSection title={`Hoe is deze ${data.cityName}-gids samengesteld?`} description="De pagina combineert Nederlandse DataForSEO-resultaten, zichtbare concurrentiepatronen en primaire bronnen. De hoofdpagina helpt je kiezen; weer, verblijf en bezienswaardigheden worden alleen samengevat en naar hun eigen verdiepende gids doorgelinkt." sources={data.sources} />
 
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
-      </main>
+      </div>
     </>
   );
 }

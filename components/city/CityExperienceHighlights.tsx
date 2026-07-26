@@ -52,7 +52,7 @@ export function CityExperienceHighlights({ affiliateHref, isNl }: CityExperience
 
         <div className="scrollbar-hide flex snap-x gap-4 overflow-x-auto pb-2 sm:grid sm:grid-cols-2 sm:overflow-visible lg:grid-cols-4">
           {experiences.map(experience => (
-            <a key={experience.title.en} href={affiliateHref} target="_blank" rel="noopener noreferrer sponsored" className="group min-w-[79vw] snap-start overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_4px_16px_rgba(18,63,54,0.04)] transition hover:-translate-y-1 hover:shadow-xl sm:min-w-0">
+            <a key={experience.title.en} href={affiliateHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="group min-w-[79vw] snap-start overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_4px_16px_rgba(18,63,54,0.04)] transition hover:-translate-y-1 hover:shadow-xl sm:min-w-0">
               <div className="relative aspect-[4/2.65] overflow-hidden bg-jade/5">
                 <Image src={experience.image} alt={isNl ? experience.title.nl : experience.title.en} fill sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 79vw" className="object-cover transition duration-500 group-hover:scale-[1.035]" />
               </div>
@@ -74,7 +74,7 @@ export function CityExperienceHighlights({ affiliateHref, isNl }: CityExperience
           <Link href="/city/krabi/attractions/" className="inline-flex items-center gap-2 text-jade transition hover:text-saffron-dark">
             {isNl ? 'Alle bezienswaardigheden in Krabi' : 'All attractions in Krabi'} <ArrowRight size={14} />
           </Link>
-          <a href={affiliateHref} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 text-jade transition hover:text-saffron-dark">
+          <a href={affiliateHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="inline-flex items-center gap-2 text-jade transition hover:text-saffron-dark">
             <ShieldCheck size={15} /> {isNl ? 'Uitjes bekijken via Klook' : 'View experiences on Klook'} <ArrowRight size={14} />
           </a>
         </div>

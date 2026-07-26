@@ -73,7 +73,7 @@ export function CityHotelHighlights({ affiliateHref, isNl }: CityHotelHighlights
               key={hotel.name}
               href={affiliateHref}
               target="_blank"
-              rel="noopener noreferrer sponsored"
+              rel="noopener noreferrer nofollow sponsored"
               className="group min-w-[84vw] snap-start overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_5px_18px_rgba(18,63,54,0.045)] transition duration-300 hover:-translate-y-1 hover:shadow-xl sm:min-w-0"
             >
               <div className="relative aspect-[16/8.8] overflow-hidden bg-jade/5">
@@ -108,7 +108,7 @@ export function CityHotelHighlights({ affiliateHref, isNl }: CityHotelHighlights
           <Link href="/best-hotels/krabi/" className="inline-flex items-center gap-2 text-jade transition hover:text-saffron-dark">
             {isNl ? 'Waar verblijven in Krabi?' : 'Where to stay in Krabi'} <ArrowRight size={14} />
           </Link>
-          <a href={affiliateHref} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 text-jade transition hover:text-saffron-dark">
+          <a href={affiliateHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="inline-flex items-center gap-2 text-jade transition hover:text-saffron-dark">
             <Building2 size={15} /> {isNl ? 'Hotels bekijken via Trip.com' : 'View hotels on Trip.com'} <ArrowRight size={14} />
           </a>
         </div>

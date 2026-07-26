@@ -57,7 +57,7 @@ export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBo
           <a
             href={withSubId(affiliates.trip ?? TRIP_GENERIC, subId)}
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="noopener noreferrer nofollow sponsored"
             className="inline-flex items-center gap-2 bg-[#287dfa] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#1a5ec4] transition-colors"
           >
             {c.tripLabel}
@@ -67,7 +67,7 @@ export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBo
           <a
             href={withSubId(affiliates.klook, subId)}
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="noopener noreferrer nofollow sponsored"
             className="inline-flex items-center gap-2 bg-[#FF5722] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#e64a19] transition-colors"
           >
             {c.klookLabel}
@@ -77,7 +77,7 @@ export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBo
           <a
             href={withSubId(affiliates.getyourguide, subId)}
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="noopener noreferrer nofollow sponsored"
             className="inline-flex items-center gap-2 bg-[#1B9E3E] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#157a30] transition-colors"
           >
             {c.gygLabel}
@@ -87,7 +87,7 @@ export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBo
           <a
             href={withSubId(TIQETS_GENERIC, subId)}
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="noopener noreferrer nofollow sponsored"
             className="inline-flex items-center gap-2 bg-[#5C0FB1] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#4a0d8e] transition-colors"
           >
             {c.tiqetsLabel}
@@ -97,7 +97,7 @@ export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBo
           <a
             href={withSubId(affiliates.twelveGo, subId)}
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="noopener noreferrer nofollow sponsored"
             className="inline-flex items-center gap-2 bg-[#F59E0B] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#D97706] transition-colors"
           >
             {c.twelveGoLabel}

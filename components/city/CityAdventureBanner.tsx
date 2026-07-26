@@ -39,7 +39,7 @@ export function CityAdventureBanner({ affiliateHref, isNl }: CityAdventureBanner
             <a
               href={affiliateHref}
               target="_blank"
-              rel="noopener noreferrer sponsored"
+              rel="noopener noreferrer nofollow sponsored"
               className="mt-6 inline-flex w-fit items-center gap-3 rounded-lg border border-saffron-light/35 bg-saffron px-5 py-3 text-xs font-extrabold text-white shadow-[0_8px_24px_rgba(242,145,30,0.22)] transition hover:-translate-y-0.5 hover:bg-saffron-dark"
             >
               {isNl ? 'Ontdek de eilanden' : 'Discover the islands'}
