@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import type { LucideIcon } from 'lucide-react';
 import {
   ArrowRight,
@@ -104,7 +105,7 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -156,6 +157,21 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
           </div>
         </section>
 
+        <section className="section-divider-bottom py-10 lg:py-14">
+          <div className="container-custom">
+            <div className="relative min-h-[470px] overflow-hidden rounded-[28px] bg-jade shadow-[0_24px_70px_rgba(18,63,54,0.16)] sm:min-h-[420px]">
+              <Image src={data.feature.image} alt={data.feature.imageAlt} fill sizes="(min-width: 1280px) 1216px, 100vw" className="object-cover" />
+              <div aria-hidden="true" className="absolute inset-0 bg-[linear-gradient(90deg,rgba(6,54,47,.96)_0%,rgba(6,54,47,.83)_38%,rgba(6,54,47,.2)_72%,rgba(6,54,47,.08)_100%)]" />
+              <div className="relative flex min-h-[470px] max-w-2xl flex-col justify-center px-6 py-12 text-white sm:min-h-[420px] sm:px-10 lg:px-14">
+                <p className="text-[10px] font-extrabold uppercase tracking-[0.2em] text-saffron-light">{data.feature.eyebrow}</p>
+                <h2 className="mt-4 font-display text-[2.9rem] font-semibold leading-[0.92] tracking-[-0.035em] sm:text-[3.8rem]">{data.feature.title}</h2>
+                <p className="mt-5 max-w-xl text-sm font-medium leading-7 text-white/78">{data.feature.description}</p>
+                <p className="mt-7 text-[9px] font-bold uppercase tracking-[0.16em] text-white/46">AI-sfeerbeeld · actuele tempelregels gaan altijd voor</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section id="plan" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20">
           <div className="container-custom">
             <div className="grid gap-6 lg:grid-cols-[0.7fr_1.3fr] lg:items-end"><div><p className="eyebrow">{data.visitPlan.eyebrow}</p><h2 className="heading-redesign">{data.visitPlan.title}</h2></div><p className="max-w-2xl text-sm font-medium leading-7 text-charcoal/68 lg:justify-self-end">{data.visitPlan.description}</p></div>
@@ -178,7 +194,7 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
         <RelatedGuidesSection title={`Plan de rest van je ${data.cityName}-route`} guides={data.relatedGuides} sideLink={{ label: 'Passende tours via Klook', href: klookHref, affiliate: true }} disclosure="De externe tourknop is een affiliatelink. Redactionele opname en volgorde zijn niet te koop." />
         <SourceMethodSection title="Hoe is deze bezoekgids onderzocht?" description="De zoekvraag, concurrenten en echte PAA’s komen uit DataForSEO voor Google Nederland. Historie, symboliek en ligging zijn gecontroleerd met officiële of primaire regionale bronnen en duidelijk benoemde secundaire bronnen." sources={data.sources} />
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
-      </main>
+      </div>
     </>
   );
 }

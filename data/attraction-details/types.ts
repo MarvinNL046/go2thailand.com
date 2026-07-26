@@ -41,6 +41,13 @@ export interface AttractionDetailGuideData {
     goodFor: string[];
     skipIf: string[];
   };
+  feature: {
+    image: string;
+    imageAlt: string;
+    eyebrow: string;
+    title: string;
+    description: string;
+  };
   visitPlan: {
     eyebrow: string;
     title: string;

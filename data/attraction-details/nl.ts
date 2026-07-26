@@ -9,7 +9,7 @@ export const nlAttractionDetailGuides: Record<string, AttractionDetailGuideData>
     pageTitle: 'Wat Plai Laem Koh Samui: bezoek, dresscode & route',
     pageDescription: 'Plan Wat Plai Laem op Koh Samui: wat je ziet, respectvolle kleding, beste moment, bezoekduur en de slimme combinatie met Big Buddha en Choeng Mon.',
     pageUrl: 'https://go2-thailand.com/nl/city/koh-samui/attractions/wat-plai-laem/',
-    dateModified: '2026-07-24',
+    dateModified: '2026-07-26',
     coordinates: { latitude: 9.5716, longitude: 100.0666 },
     hero: {
       image: '/images/redesign/wat-plai-laem-hero.webp',
@@ -47,6 +47,13 @@ export const nlAttractionDetailGuides: Record<string, AttractionDetailGuideData>
       ],
       goodFor: ['Architectuur- en cultuurliefhebbers', 'Gezinnen die een korte, overzichtelijke tempelstop zoeken', 'Fotografie in rustig ochtend- of namiddaglicht', 'Reizigers die Big Buddha en Choeng Mon logisch combineren'],
       skipIf: ['Je alleen voor één snelle selfie komt en geen tempelregels wilt volgen', 'Je planning al meerdere vergelijkbare tempels op dezelfde dag bevat', 'Je slecht tegen hitte kunt en alleen rond het middaguur beschikbaar bent'],
+    },
+    feature: {
+      image: '/images/redesign/wat-plai-laem-reflection-banner.webp',
+      imageAlt: 'Tempelmeer, brug en een wit Guanyin-beeld in zacht ochtendlicht bij Wat Plai Laem',
+      eyebrow: 'Kijken met context',
+      title: 'Zie Guanyin als betekenis — niet als decor.',
+      description: 'De vele armen verbeelden mededogen en het vermogen om hulp te bieden. Neem afstand voor het geheel, laat gebed voorgaan en gebruik fotografie om beter te kijken in plaats van de plek stil te zetten.',
     },
     visitPlan: {
       eyebrow: 'Plan je bezoek',
@@ -91,7 +98,7 @@ export const nlAttractionDetailGuides: Record<string, AttractionDetailGuideData>
     relatedGuides: [
       { title: 'Koh Samui reisgids', description: 'Vergelijk zones, stranden, tempels, eilandroutes en verblijf.', href: '/islands/koh-samui/', image: '/images/redesign/koh-samui-destination-hero.webp', imageAlt: 'Tropische kust en heuvels van Koh Samui' },
       { title: 'Wat te doen op Koh Samui', description: 'Bouw tempels, kust, dorp en bootdag tot een haalbare route.', href: '/city/koh-samui/attractions/', image: '/images/redesign/koh-samui-attractions-hero.webp', imageAlt: 'Tempel- en kustlandschap van Koh Samui' },
-      { title: 'Waar verblijven op Koh Samui?', description: 'Kies Chaweng, Bophut, Lamai of een rustige kust op reisstijl.', href: '/best-hotels/koh-samui/', image: '/images/redesign/koh-samui-hotel-hero.webp', imageAlt: 'Resort en strand op Koh Samui' },
+      { title: 'Waar verblijven op Koh Samui?', description: 'Kies Chaweng, Bophut, Lamai of een rustige kust op reisstijl.', href: '/best-hotels/koh-samui/', image: '/images/redesign/koh-samui-hotels-hero.webp', imageAlt: 'Resort en strand op Koh Samui' },
     ],
     sources: [
       { title: 'Wat Plai Laem', creator: 'Wikipedia met bronverwijzingen', url: 'https://en.wikipedia.org/wiki/Wat_Plai_Laem', note: 'Basiscontext voor de moderne tempel, Thais-Chinese stijl, Guanyin, Budai en ligging in het tempelmeer.' },
@@ -108,7 +115,7 @@ export const nlAttractionDetailGuides: Record<string, AttractionDetailGuideData>
     pageTitle: 'Blue Temple Chiang Rai: bezoek Wat Rong Suea Ten',
     pageDescription: 'Bezoek de Blue Temple in Chiang Rai: betekenis, kleding, beste fotomoment, bezoekduur en slimme route met de White Temple en Baan Dam.',
     pageUrl: 'https://go2-thailand.com/nl/city/chiang-rai/attractions/blue-temple/',
-    dateModified: '2026-07-24',
+    dateModified: '2026-07-26',
     coordinates: { latitude: 19.92338, longitude: 99.84171 },
     hero: {
       image: '/images/redesign/blue-temple-chiang-rai-hero.webp',
@@ -146,6 +153,13 @@ export const nlAttractionDetailGuides: Record<string, AttractionDetailGuideData>
       ],
       goodFor: ['Hedendaagse Thaise kunst en architectuur', 'Een compacte halve dag rond Chiang Rai', 'Fotografie vroeg of laat op de dag', 'Reizigers die White Temple en Baan Dam inhoudelijk willen vergelijken'],
       skipIf: ['Je drie kleurtempels alleen als identieke fotostops behandelt', 'Je geen respectvolle tempelkleding bij je hebt', 'Je planning zo krap is dat je het interieur en de naga’s moet overslaan'],
+    },
+    feature: {
+      image: '/images/redesign/blue-temple-rain-banner.webp',
+      imageAlt: 'Blauw-gouden tempelgevel en naga-balustrade weerspiegeld op een nat plein in Chiang Rai',
+      eyebrow: 'Van kleur naar betekenis',
+      title: 'Blauw is de ingang. Het ontwerp vertelt het verhaal.',
+      description: 'Volg de naga’s, gevelritmes en goudlijnen voordat je naar binnen gaat. Dan wordt het witte Boeddhabeeld geen losse fotostop, maar het rustige middelpunt van één hedendaagse compositie.',
     },
     visitPlan: {
       eyebrow: 'Plan je bezoek',
@@ -188,9 +202,9 @@ export const nlAttractionDetailGuides: Record<string, AttractionDetailGuideData>
       { question: 'Wat is het verschil tussen Blue Temple en White Temple?', answer: 'De White Temple is het veel grotere kunstcomplex van Chalermchai Kositpipat ten zuiden van Chiang Rai. De Blue Temple is een actieve, compactere tempel in Rim Kok, ontworpen door Phuttha Kabkaew, die eerder aan Wat Rong Khun werkte. Bezoek beide voor het contrast, niet alsof ze uitwisselbaar zijn.' },
     ],
     relatedGuides: [
-      { title: 'Chiang Rai reisgids', description: 'Plan tempels, stad, theebergen en een haalbare route.', href: '/city/chiang-rai/', image: '/images/cities/generated/chiang-rai.webp', imageAlt: 'Landschap en tempelarchitectuur rond Chiang Rai' },
+      { title: 'Chiang Rai reisgids', description: 'Plan tempels, stad, theebergen en een haalbare route.', href: '/city/chiang-rai/', image: '/images/redesign/chiang-rai-destination-hero.webp', imageAlt: 'Landschap en tempelarchitectuur rond Chiang Rai' },
       { title: 'Chiang Rai bezienswaardigheden', description: 'Vergelijk White Temple, Blue Temple, Baan Dam en het centrum.', href: '/city/chiang-rai/attractions/', image: '/images/cities/chiang-rai/attractions/Chiang rai Blue Temple (Wat Rong Suea Ten).webp', imageAlt: 'Blauwe tempelarchitectuur in Chiang Rai' },
-      { title: 'Noord-Thailand route', description: 'Combineer Chiang Mai en Chiang Rai zonder iedere dag te verplaatsen.', href: '/region/northern/', image: '/images/redesign/chiang-mai-destination-hero.webp', imageAlt: 'Berglandschap en tempels in Noord-Thailand' },
+      { title: 'Noord-Thailand route', description: 'Combineer Chiang Mai en Chiang Rai zonder iedere dag te verplaatsen.', href: '/region/northern/', image: '/images/redesign/destination-chiang-mai.webp', imageAlt: 'Berglandschap en tempels in Noord-Thailand' },
     ],
     sources: [
       { title: 'The Blue Temple — Wat Rong Suea Ten', creator: 'Tourism Authority of Thailand Chiang Rai Office', url: 'https://www.tourismchiangrai-phayao.com/en/2022/05/11/the-blue-temple-wat-rong-suea-ten/', note: 'Officiële regionale context voor ligging, voltooiing in 2016, ontwerpstijl, naam en bereikbaarheid.' },
