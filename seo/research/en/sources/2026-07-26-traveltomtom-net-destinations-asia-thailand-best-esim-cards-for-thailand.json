@@ -1,0 +1,1638 @@
+{
+  "captured_at": "2026-07-26T16:24:03.391Z",
+  "locale": "en",
+  "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Jump to main area",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Czech Republic",
+          "url": "https://www.traveltomtom.net/destinations/europe/czech-republic",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/europe/czech-republic",
+              "anchor_text": "Czech Republic"
+            }
+          ]
+        },
+        {
+          "text": "United Kingdom",
+          "url": "https://www.traveltomtom.net/destinations/europe/united-kingdom",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/europe/united-kingdom",
+              "anchor_text": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "url": "https://www.traveltomtom.net/destinations/asia/hong-kong",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/hong-kong",
+              "anchor_text": "Hong Kong"
+            }
+          ]
+        },
+        {
+          "text": "South Korea",
+          "url": "https://www.traveltomtom.net/destinations/asia/south-korea",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/south-korea",
+              "anchor_text": "South Korea"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://www.traveltomtom.net/destinations/asia/sri-lanka",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/sri-lanka",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Burkina Faso",
+          "url": "https://www.traveltomtom.net/destinations/africa/burkina-faso",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/burkina-faso",
+              "anchor_text": "Burkina Faso"
+            }
+          ]
+        },
+        {
+          "text": "Ivory Coast",
+          "url": "https://www.traveltomtom.net/destinations/africa/ivory-coast",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/ivory-coast",
+              "anchor_text": "Ivory Coast"
+            }
+          ]
+        },
+        {
+          "text": "Republic of Congo",
+          "url": "https://www.traveltomtom.net/destinations/africa/republic-of-congo",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/republic-of-congo",
+              "anchor_text": "Republic of Congo"
+            }
+          ]
+        },
+        {
+          "text": "Sao Tome & Principe",
+          "url": "https://www.traveltomtom.net/destinations/africa/sao-tome-principe",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/sao-tome-principe",
+              "anchor_text": "Sao Tome & Principe"
+            }
+          ]
+        },
+        {
+          "text": "South Africa",
+          "url": "https://www.traveltomtom.net/destinations/africa/south-africa",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/south-africa",
+              "anchor_text": "South Africa"
+            }
+          ]
+        },
+        {
+          "text": "The Gambia",
+          "url": "https://www.traveltomtom.net/destinations/africa/the-gambia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/the-gambia",
+              "anchor_text": "The Gambia"
+            }
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "url": "https://www.traveltomtom.net/destinations/middle-east/saudi-arabia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/middle-east/saudi-arabia",
+              "anchor_text": "Saudi Arabia"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica",
+          "url": "https://www.traveltomtom.net/destinations/north-america/costa-rica",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/north-america/costa-rica",
+              "anchor_text": "Costa Rica"
+            }
+          ]
+        },
+        {
+          "text": "El Salvador",
+          "url": "https://www.traveltomtom.net/destinations/north-america/el-salvador",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/north-america/el-salvador",
+              "anchor_text": "El Salvador"
+            }
+          ]
+        },
+        {
+          "text": "French Polynesia",
+          "url": "https://www.traveltomtom.net/destinations/oceania/french-polynesia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/french-polynesia",
+              "anchor_text": "French Polynesia"
+            }
+          ]
+        },
+        {
+          "text": "Marshall Islands",
+          "url": "https://www.traveltomtom.net/destinations/oceania/marshall-islands",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/marshall-islands",
+              "anchor_text": "Marshall Islands"
+            }
+          ]
+        },
+        {
+          "text": "New Zealand",
+          "url": "https://www.traveltomtom.net/destinations/oceania/new-zealand",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/new-zealand",
+              "anchor_text": "New Zealand"
+            }
+          ]
+        },
+        {
+          "text": "Papua New Guinea",
+          "url": "https://www.traveltomtom.net/destinations/oceania/papua-new-guinea",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/papua-new-guinea",
+              "anchor_text": "Papua New Guinea"
+            }
+          ]
+        },
+        {
+          "text": "Solomon Islands",
+          "url": "https://www.traveltomtom.net/destinations/oceania/solomon-islands",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/solomon-islands",
+              "anchor_text": "Solomon Islands"
+            }
+          ]
+        },
+        {
+          "text": "Antigua & Barbuda",
+          "url": "https://www.traveltomtom.net/destinations/caribbean/antigua-barbuda",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/caribbean/antigua-barbuda",
+              "anchor_text": "Antigua & Barbuda"
+            }
+          ]
+        },
+        {
+          "text": "Dominican Republic",
+          "url": "https://www.traveltomtom.net/destinations/caribbean/dominican-republic",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/caribbean/dominican-republic",
+              "anchor_text": "Dominican Republic"
+            }
+          ]
+        },
+        {
+          "text": "Group Trips",
+          "url": "https://www.traveltomtom.net/group-trips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/group-trips",
+              "anchor_text": "Group Trips"
+            }
+          ]
+        },
+        {
+          "text": "Travel Gear",
+          "url": "https://www.traveltomtom.net/travel-gear",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/travel-gear",
+              "anchor_text": "Travel Gear"
+            }
+          ]
+        },
+        {
+          "text": "Travel Tips",
+          "url": "https://www.traveltomtom.net/travel-tips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/travel-tips",
+              "anchor_text": "Travel Tips"
+            }
+          ]
+        },
+        {
+          "text": "Tech Tips",
+          "url": "https://www.traveltomtom.net/tech-tips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/tech-tips",
+              "anchor_text": "Tech Tips"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "I turned my life into a Journey.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Traveltomtom is where I share my story.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Privacy & Disclaimer",
+          "url": "https://www.traveltomtom.net/about/privacy-disclaimer",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/about/privacy-disclaimer",
+              "anchor_text": "Privacy & Disclaimer"
+            }
+          ]
+        },
+        {
+          "text": "Media Kit",
+          "url": "https://www.traveltomtom.net/medias/media-kit",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/medias/media-kit",
+              "anchor_text": "Media Kit"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "By Tom, an avid adventure traveler from The Netherlands continuously traveling the world since 2012, living a full time nomadic life.",
+            "url": "https://www.traveltomtom.net/team/tom",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/team/tom",
+                "anchor_text": "Tom"
+              }
+            ]
+          },
+          {
+            "text": "Planning a trip to Thailand and wondering what is the best eSIM for Thailand in 2026 ? In this updated guide I compare the best Thailand eSIM plans based on price, network coverage, data allowance, Fair Use Policy and real travel value.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "After comparing the latest eSIM plans for Thailand, my top recommendation is the DTAC Happy Tourist eSIM from S imOptions. It connects directly to the local DTAC network in Thailand, includes truly high speed unlimited data, comes with a Thai phone number for calls and SMS and starts from around ~$10 USD for 10 days.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "DTAC Happy Tourist eSIM from SimOptions"
+              }
+            ]
+          },
+          {
+            "text": "I have traveled to Thailand more than 25 times and in total spent almost one full year exploring the country. From Bangkok and Chiang Mai to Phuket, Krabi, Koh Samui and remote national parks, reliable mobile data has always been essential for navigation, booking transport, ordering taxis and staying connected.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "As a full-time travel blogger I use a lot of mobile data when traveling. Over the years I have tested dozens of SIM cards and eSIM providers in Thailand as well as in more than 160 countries around the world.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In this article you will find a complete comparison of the best eSIM cards for Thailand, including SimOptions, Nomad, Airalo, Sim Local, Jetpac and Holafly. I compare prices, networks, unlimited data claims, Fair Use Policies and which Thailand eSIM is best for different types of travelers.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Quick Recommendation - Thailand eSIM 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "💰 Price indication: A Thailand eSIM plan with unlimited data for 10 days is ~$10 USD.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "🏆 Best overall eSIM for Thailand: SimOptions. Their DTAC Happy Tourist eSIM connects directly to the local DTAC network, includes unlimited data and comes with a Thai phone number for calls and SMS.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "SimOptions"
+              }
+            ]
+          },
+          {
+            "text": "📲 Best value for larger data pack: Nomad. Great for travelers who want the cheapest large data bundle, with plans like 50 GB for ~$12 USD.",
+            "url": "https://lotusflareinc.pxf.io/X4YxWo",
+            "urls": [
+              {
+                "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                "anchor_text": "Nomad"
+              }
+            ]
+          },
+          {
+            "text": "🔒 Most reliable global provider: Airalo. Not the cheapest Thailand eSIM, but one of the most consistent eSIM providers I have used around the world.",
+            "url": "https://airalo.pxf.io/e4ZdoO",
+            "urls": [
+              {
+                "url": "https://airalo.pxf.io/e4ZdoO",
+                "anchor_text": "Airalo"
+              }
+            ]
+          },
+          {
+            "text": "This article contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. All recommendations are based on independent research and personal experience.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "If your phone is not eSIM compatible or you prefer buying a physical SIM card on arrival, read my detailed guide about buying a prepaid tourist SIM card in Thailand or my step-by-step guide on how to buy a SIM card at Bangkok Airport.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+                "anchor_text": "buying a prepaid tourist SIM card in Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+                "anchor_text": "how to buy a SIM card at Bangkok Airport"
+              }
+            ]
+          },
+          {
+            "text": "Last update : July 2026.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "📱 Physical SIM alternative: If your phone is not eSIM compatible, read my guide about the best tourist SIM cards for Thailand or my guide for buying a SIM card at Bangkok Airport.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+                "anchor_text": "best tourist SIM cards for Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+                "anchor_text": "buying a SIM card at Bangkok Airport"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Comparison of the best eSIM cards for Thailand",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "There are a lot of eSIM providers selling Thailand plans, but the differences are bigger than they first appear. Some Thailand eSIMs are cheap fixed-data plans, some are unlimited data plans with a daily high-speed cap and some connect directly to a local Thai mobile operator.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For this comparison I focused on the most important things travelers actually care about: price, network, data allowance, Fair Use Policy, validity, calls and SMS. To keep the comparison fair I used 10-day Thailand eSIM plans where available.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "My recommendation: the DTAC Happy Tourist eSIM from SimOptions is the best overall eSIM for Thailand because it offers the strongest balance of price, local network access, unlimited data and included calls and SMS.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "💰 SimOptions discount code",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you only care about getting the largest amount of data for the lowest price, Nomad is a very interesting alternative. However, for most travelers I still prefer SimOptions because it is basically like buying a local Thailand tourist SIM card, but with the convenience of an eSIM.",
+            "url": "https://lotusflareinc.pxf.io/X4YxWo",
+            "urls": [
+              {
+                "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                "anchor_text": "Nomad"
+              }
+            ]
+          },
+          {
+            "text": "What does FUP mean? FUP stands for Fair Use Policy. Many providers advertise unlimited data, but only include a certain amount of high-speed data per day. After that limit, your speed can be reduced. This is why it is important to compare the actual high-speed data allowance, not just the word “unlimited”.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Get 10% off all SimOptions eSIMs with discount code TOM10. Check the Thailand eSIM plans here.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "Check the Thailand eSIM plans here"
+              }
+            ]
+          }
+        ],
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Provider",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Network in Thailand",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Data / FUP",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Calls & SMS",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Validity",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Price",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Best for",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "SimOptions",
+                    "urls": [
+                      {
+                        "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                        "anchor_text": "SimOptions"
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "text": "DTAC",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Unlimited data",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Thai phone number, calls and SMS included",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "10 days",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "~$9.90 USD",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Best overall eSIM for Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Nomad",
+                    "urls": [
+                      {
+                        "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                        "anchor_text": "Nomad"
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "text": "True",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "50 GB fixed data plan",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Data only",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "10 days",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "~$12 USD",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Best value for large data",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Airalo",
+                    "urls": [
+                      {
+                        "url": "https://airalo.pxf.io/e4ZdoO",
+                        "anchor_text": "Airalo"
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "text": "AIS + True",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Multiple fixed data plans + unlimited data 3 GB/day high-speed",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Data only",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "10 days",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "~$31 USD",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Most reliable global eSIM provider",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Sim Local",
+                    "urls": [
+                      {
+                        "url": "https://tidd.ly/3OKOJ8U",
+                        "anchor_text": "Sim Local"
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "text": "True",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Unlimited data",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Data only",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "10 days",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "~$13 USD",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Best unlimited data alternative",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Jetpac",
+                    "urls": [
+                      {
+                        "url": "https://circleslife.pxf.io/rQYXEj",
+                        "anchor_text": "Jetpac"
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "text": "AIS",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Multiple fixed data plans + unlimited data 3 GB/day high-speed",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Data only",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "10 days",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "~$34 USD",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Expensive alternative",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Holafly",
+                    "urls": [
+                      {
+                        "url": "https://holafly.sjv.io/RGK3eb",
+                        "anchor_text": "Holafly"
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "text": "True / DTAC",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Unlimited data, but FUP is not clearly disclosed",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Data only",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "10 days",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "~$37 USD",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Expensive unlimited option",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Why SimOptions is the best eSIM for Thailand in 2026",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "After comparing the latest Thailand eSIM plans, prices, networks and Fair Use Policies, I recommend the DTAC Happy Tourist eSIM from SimOptions as the best eSIM for Thailand in 2026.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "DTAC Happy Tourist eSIM from SimOptions"
+              }
+            ]
+          },
+          {
+            "text": "The biggest reason is that this is not just another generic travel eSIM. The SimOptions eSIM connects directly to the local DTAC network in Thailand, which makes it feel much closer to buying a local Thai tourist SIM card, but with the convenience of ordering everything online before your trip.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Another major advantage is the network behind it. DTAC and True have merged in Thailand, creating one of the strongest combined mobile network infrastructures in the country. Since the DTAC Happy Tourist eSIM connects directly to this local operator network, it gives travelers excellent coverage and reliable data performance in popular destinations like Bangkok, Chiang Mai, Phuket, Krabi, Koh Samui and the Thai islands.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For around ~$9.90 USD you get unlimited data for 10 days, a Thai phone number and local calls and SMS included. That combination is hard to beat, especially when many other Thailand eSIMs are either more expensive, data-only, limited by a Fair Use Policy or less transparent about their actual high-speed data allowance.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For most travelers this is exactly what you want: install the eSIM before departure, land in Thailand, switch on mobile data and be connected straight away. No airport SIM card queues, no searching for free WiFi and no need to visit a phone shop after a long flight.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nomad is a great option if you mainly want a lot of data for the lowest possible price, and Sim Local is a strong unlimited data alternative. However, for most tourists traveling to Thailand, SimOptions offers the best overall balance of price, convenience, local network access, unlimited data and included calls and SMS.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "That is why SimOptions is my top pick for Thailand, especially if you want a simple, reliable eSIM that works like a local tourist SIM card without needing to buy one after arrival.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "💰 SimOptions discount code",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Get 10% off all SimOptions eSIMs with discount code TOM10. Check the Thailand eSIM plans here.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "Check the Thailand eSIM plans here"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Best unlimited data eSIM for Thailand",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Thailand is one of those countries where an unlimited data eSIM can actually make sense. Mobile networks are fast, 5G is widely available in tourist destinations and it is very easy to use a lot of data while traveling around the country.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you are streaming videos on long bus rides, uploading content from the islands, using Google Maps all day or working online while traveling, then choosing an unlimited eSIM for Thailand can be more convenient than constantly checking your remaining data balance.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The DTAC Happy Tourist eSIM from SimOptions is my top choice for an unlimited data eSIM in Thailand. For around ~$9.90 USD you get unlimited data for 10 days, a Thai phone number and local calls and SMS included.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "DTAC Happy Tourist eSIM from SimOptions"
+              }
+            ]
+          },
+          {
+            "text": "That is a much stronger deal than most other unlimited Thailand eSIMs. Sim Local is the best unlimited data alternative at around ~$13 USD, but it is data-only and does not include a Thai phone number.",
+            "url": "https://tidd.ly/3OKOJ8U",
+            "urls": [
+              {
+                "url": "https://tidd.ly/3OKOJ8U",
+                "anchor_text": "Sim Local"
+              }
+            ]
+          },
+          {
+            "text": "Airalo and Jetpac also sell unlimited data plans for Thailand, but their unlimited plans include around 3 GB/day high-speed data before speeds are reduced. They are also much more expensive, with Airalo around ~$31 USD and Jetpac around ~$34 USD for 10 days.",
+            "url": "https://airalo.pxf.io/e4ZdoO",
+            "urls": [
+              {
+                "url": "https://airalo.pxf.io/e4ZdoO",
+                "anchor_text": "Airalo"
+              },
+              {
+                "url": "https://circleslife.pxf.io/rQYXEj",
+                "anchor_text": "Jetpac"
+              }
+            ]
+          },
+          {
+            "text": "Holafly is another unlimited data option, but it costs around ~$37 USD for 10 days and the Fair Use Policy is not clearly disclosed. For that reason, Holafly is not one of my top recommendations for Thailand.",
+            "url": "https://holafly.sjv.io/RGK3eb",
+            "urls": [
+              {
+                "url": "https://holafly.sjv.io/RGK3eb",
+                "anchor_text": "Holafly"
+              }
+            ]
+          },
+          {
+            "text": "My conclusion: if you want the best unlimited data eSIM for Thailand, choose SimOptions. If you want a cheaper data-only unlimited alternative, Sim Local is the next best option.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "SimOptions"
+              },
+              {
+                "url": "https://tidd.ly/3OKOJ8U",
+                "anchor_text": "Sim Local"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "SimOptions vs other Thailand eSIM providers",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "SimOptions is my top recommendation for Thailand, but there are several other eSIM providers worth considering: Nomad, Airalo, Sim Local, Jetpac and Holafly.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The main difference is that most alternatives are either data-only, more expensive or less clear about their Fair Use Policy.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "🔒 Airalo - most reliable global provider",
+            "url": "https://airalo.pxf.io/e4ZdoO",
+            "urls": [
+              {
+                "url": "https://airalo.pxf.io/e4ZdoO",
+                "anchor_text": "Airalo"
+              }
+            ]
+          },
+          {
+            "text": "Airalo uses the AIS + True networks in Thailand and is one of the most reliable eSIM providers I have used worldwide.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "However, the Airalo fixed data plans are expensive and the unlimited data plan is ~$31 USD for 10 days and includes only 3 GB/day high-speed data. Reliable, but much more expensive than SimOptions.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "🎁 Exclusive Airalo discount for Traveltomtom readers: get 20% off with coupon code TT20. Valid until mid July 2026 and only for first-time Airalo users.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "💾 Nomad - best value for large data plans",
+            "url": "https://lotusflareinc.pxf.io/X4YxWo",
+            "urls": [
+              {
+                "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                "anchor_text": "Nomad"
+              }
+            ]
+          },
+          {
+            "text": "Nomad offers a 50 GB Thailand eSIM for ~$12 USD. It runs on the True network and is a great option if you simply want a lot of data for a low price. The downside is that it is data-only and does not include a Thai phone number, calls or SMS.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sim Local runs on the True network, includes unlimited data and costs around ~$13 USD for 10 days. It is a strong alternative for heavy data users, but it is also data-only.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Jetpac uses the AIS network and offers fixed data plans as well as unlimited data plans with around 3 GB/day high-speed data. At around ~$34 USD for 10 days, it is expensive compared to the better-value Thailand eSIMs above.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "⚠️ Holafly - expensive unlimited option",
+            "url": "https://holafly.sjv.io/RGK3eb",
+            "urls": [
+              {
+                "url": "https://holafly.sjv.io/RGK3eb",
+                "anchor_text": "Holafly"
+              }
+            ]
+          },
+          {
+            "text": "Holafly offers unlimited data for Thailand, but costs around ~$37 USD for 10 days. The biggest downside is that the Fair Use Policy is not clearly disclosed, so I find it hard to recommend over SimOptions or Sim Local.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "My conclusion: Airalo is reliable, Nomad is great for large data and Sim Local is a strong unlimited data alternative. But for most travelers, SimOptions still gives the best overall deal because it combines unlimited data, local DTAC network access, a Thai phone number, calls, SMS and a very competitive price.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "SimOptions"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "🔥 Sim Local - best unlimited data alternative",
+            "url": "https://tidd.ly/3OKOJ8U",
+            "urls": [
+              {
+                "url": "https://tidd.ly/3OKOJ8U",
+                "anchor_text": "Sim Local"
+              }
+            ]
+          },
+          {
+            "text": "✈️ Jetpac - expensive alternative",
+            "url": "https://circleslife.pxf.io/rQYXEj",
+            "urls": [
+              {
+                "url": "https://circleslife.pxf.io/rQYXEj",
+                "anchor_text": "Jetpac"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Mobile network coverage in Thailand",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Thailand has one of the best mobile networks in Southeast Asia. 4G coverage is excellent in almost all tourist destinations and 5G is widely available in cities, beach towns, islands and popular travel routes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For most travelers, mobile data works very well in places like Bangkok, Chiang Mai, Phuket, Krabi, Koh Samui, Pattaya and many of the Thai islands. Even on long bus rides, train journeys and domestic travel routes, I usually find mobile coverage in Thailand very reliable.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The main mobile operators in Thailand are AIS, True and DTAC. All three networks are strong, and for a normal tourist trip the difference between them is usually not something to worry too much about. Choosing the right eSIM plan is often more important than obsessing over the network name.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "That said, it is still useful to know which network your Thailand eSIM uses:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "SimOptions uses the DTAC network.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nomad and Sim Local use the True network.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Airalo uses the AIS + True networks.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Jetpac uses the AIS network.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Holafly uses the True / DTAC networks.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A major advantage for SimOptions is that the DTAC Happy Tourist eSIM connects directly to a local Thai operator network. Since DTAC and True have merged in Thailand, this gives travelers access to one of the strongest combined mobile network infrastructures in the country.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "My advice: do not overthink mobile network coverage in Thailand. AIS, True and DTAC are all strong enough for most travelers. Focus instead on the eSIM package itself: price, data allowance, Fair Use Policy, validity, hotspot use and whether calls or SMS are included.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "How much mobile data do you need when traveling in Thailand?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "How much data you need in Thailand depends mostly on how you travel. Thailand has fast mobile networks, so it is very easy to use a lot of data without realizing it, especially if you stream videos, upload content or use your phone as a hotspot.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For most tourists, a Thailand eSIM with around 10 GB to 20 GB of data is enough for a normal 1 to 2 week trip. That covers Google Maps, WhatsApp, Grab, social media, restaurant searches, hotel bookings and general browsing.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Light users: 5 GB to 10 GB is usually enough for maps, messaging and basic browsing.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Average travelers: 10 GB to 20 GB is a comfortable amount for a 1 to 2 week Thailand trip.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Heavy data users: choose unlimited data or a large fixed data plan if you stream videos, upload content, work online or use hotspot regularly.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "As a full-time travel blogger, I use much more mobile data than the average traveler. Uploading videos, backing up photos, using cloud storage and working online can easily use several gigabytes per day. On some travel days in Thailand, especially during long bus rides or when uploading content, I can use up to 5 GB per day.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This is why I like unlimited data eSIMs for Thailand. The DTAC Happy Tourist eSIM from SimOptions is the best overall choice if you want unlimited data with a Thai phone number included. Sim Local is a strong data-only unlimited alternative, while Nomad is the best option if you prefer a large fixed data package like 50 GB for around ~$12 USD.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "DTAC Happy Tourist eSIM from SimOptions"
+              },
+              {
+                "url": "https://tidd.ly/3OKOJ8U",
+                "anchor_text": "Sim Local"
+              },
+              {
+                "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                "anchor_text": "Nomad"
+              }
+            ]
+          },
+          {
+            "text": "My advice: if you are a regular tourist, do not overpay for unlimited data unless you really need it. But if you are a heavy user, digital nomad, content creator or you simply do not want to worry about running out of data, Thailand is one of the countries where an unlimited eSIM makes a lot of sense.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "eSIM vs prepaid SIM card in Thailand",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Thailand is one of the easiest countries in the world to buy a local prepaid SIM card, especially at airports like Bangkok Suvarnabhumi, Bangkok Don Mueang and Phuket. The mobile networks are excellent, tourist SIM cards are widely available and staff usually help you activate everything on the spot.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "However, for most travelers I still think an eSIM for Thailand is the easiest option. You can order it online before your trip, install it in a couple of minutes and be connected as soon as you land. No airport queues, no passport registration at a SIM card counter and no need to swap physical SIM cards.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If your phone supports eSIM, I recommend ordering an eSIM before traveling to Thailand. The DTAC Happy Tourist eSIM from SimOptions gives you the best of both worlds: the convenience of an eSIM and the benefits of a local Thailand tourist SIM card, including unlimited data, a Thai phone number, calls and SMS.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "DTAC Happy Tourist eSIM from SimOptions"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "If your phone is not eSIM compatible or you prefer buying a physical SIM card after arrival, check my detailed guide about the best prepaid tourist SIM cards in Thailand or my step-by-step guide for buying a SIM card at Bangkok Airport.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+                "anchor_text": "best prepaid tourist SIM cards in Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+                "anchor_text": "buying a SIM card at Bangkok Airport"
+              }
+            ]
+          }
+        ],
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Option",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Best for",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Main advantage",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Downside",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Thailand eSIM",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Most tourists",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Buy online, install before your trip and connect instantly after landing",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Your phone must support eSIM",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Local prepaid SIM card",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Travelers without eSIM-compatible phones",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Easy to buy at airports and mobile phone shops in Thailand",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Requires passport registration and sometimes waiting in line",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "What is the best eSIM for Thailand in 2026?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "The best eSIM for Thailand in 2026 is the DTAC Happy Tourist eSIM from SimOptions. It offers unlimited data for around ~$9.90 USD for 10 days, connects directly to the local DTAC network and includes a Thai phone number, calls and SMS.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "DTAC Happy Tourist eSIM from SimOptions"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Is SimOptions better than Airalo for Thailand?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "For most travelers, yes. Airalo is a very reliable global eSIM provider and uses the AIS + True networks in Thailand, but its unlimited plan costs around ~$31 USD for 10 days and includes 3 GB/day high-speed data. SimOptions is cheaper, includes unlimited data, a Thai phone number, calls and SMS.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Does an eSIM work everywhere in Thailand?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes, eSIMs work very well in Thailand. Mobile coverage is excellent in popular destinations like Bangkok, Chiang Mai, Phuket, Krabi, Koh Samui, Pattaya and many of the Thai islands. In very remote mountain areas, national parks or smaller islands, coverage can vary, but overall Thailand has one of the best mobile networks in Southeast Asia.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Which mobile network is best in Thailand?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "The main mobile networks in Thailand are AIS, True and DTAC. All three are strong and most tourists will have good coverage with any of them. The SimOptions DTAC Happy Tourist eSIM uses the DTAC network, and since DTAC and True merged in Thailand, it benefits from one of the strongest combined mobile network infrastructures in the country.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Can I install my Thailand eSIM before arriving?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes. In most cases you can install your Thailand eSIM before departure by scanning the QR code or following the provider’s installation instructions. The eSIM usually activates once your phone connects to a supported mobile network in Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Do I need a passport to buy an eSIM for Thailand?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "No, you normally do not need to show your passport when buying a Thailand eSIM online. Passport registration is usually only required when buying a physical prepaid SIM card from a mobile shop or airport SIM card counter in Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Is unlimited data really unlimited?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Not always. Some Thailand eSIM providers advertise unlimited data but include a Fair Use Policy. This means you may only get a certain amount of high-speed data per day before speeds are reduced. Always check the actual data terms before buying an unlimited eSIM.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Can I use hotspot with a Thailand eSIM?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes, most Thailand eSIMs allow hotspot use, but it depends on the provider and plan. If you want to share data with your laptop or travel companions, always check the hotspot policy before buying your eSIM.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Is it better to buy an eSIM or a prepaid SIM card in Thailand?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "If your phone supports eSIM, buying an eSIM before your trip is usually the easiest option. You can install it before departure and connect as soon as you land. A local prepaid SIM card can also be a good option, but it requires passport registration and sometimes waiting in line at the airport or mobile shop.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "What is the cheapest eSIM for Thailand?",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "One of the best value eSIMs for Thailand is Nomad, with a 50 GB data-only eSIM for around ~$12 USD. It is a great option if you mainly want a lot of data for a low price, but it does not include a Thai phone number, calls or SMS.",
+            "url": "https://lotusflareinc.pxf.io/X4YxWo",
+            "urls": [
+              {
+                "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                "anchor_text": "Nomad"
+              }
+            ]
+          },
+          {
+            "text": "Useful Thailand travel tool",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Planning to travel around Thailand by bus, train, ferry or domestic flight? I often use 12Go to compare routes and book transport online in Thailand. It is especially useful for popular routes like Bangkok to Chiang Mai, Bangkok to Koh Samui, Phuket to Krabi or island-hopping trips in the south.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Use the search box below to compare transport options and find tickets for your Thailand trip.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Powered by 12Go system",
+            "url": "https://12go.com/?z=589469&sub_id=thailand-esim",
+            "urls": [
+              {
+                "url": "https://12go.com/?z=589469&sub_id=thailand-esim",
+                "anchor_text": "12Go system"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Final thoughts on the best eSIM for Thailand in 2026",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Staying connected while traveling in Thailand is easy, but choosing the right eSIM still matters. Thailand has excellent mobile networks, fast 4G/5G data and lots of tourist SIM options, but not every eSIM gives you the same value, convenience or transparency.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "After comparing the latest Thailand eSIM plans, my top recommendation is the DTAC Happy Tourist eSIM from SimOptions. For around ~$9.90 USD you get unlimited data for 10 days, a Thai phone number, local calls and SMS included. That combination makes it the best overall eSIM for Thailand in 2026.",
+            "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+            "urls": [
+              {
+                "url": "https://www.simoptions.com/esim-thailand/?wpam_id=74",
+                "anchor_text": "DTAC Happy Tourist eSIM from SimOptions"
+              }
+            ]
+          },
+          {
+            "text": "What I like most is that it feels very close to buying a local Thailand tourist SIM card, but without the airport queues, passport registration or hassle after a long flight. You order it online, install the eSIM before your trip and connect as soon as you arrive in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you mainly want a lot of data for the lowest possible price, Nomad is a great alternative with 50 GB for around ~$12 USD. If you prefer a data-only unlimited eSIM, Sim Local is also a strong option at around ~$13 USD for 10 days.",
+            "url": "https://lotusflareinc.pxf.io/X4YxWo",
+            "urls": [
+              {
+                "url": "https://lotusflareinc.pxf.io/X4YxWo",
+                "anchor_text": "Nomad"
+              },
+              {
+                "url": "https://tidd.ly/3OKOJ8U",
+                "anchor_text": "Sim Local"
+              }
+            ]
+          },
+          {
+            "text": "However, for most travelers visiting Thailand, SimOptions gives the best balance of price, convenience, unlimited data, local DTAC network access and included calls and SMS. Whether you are landing in Bangkok, heading north to Chiang Mai, relaxing in Phuket, island hopping around Krabi or traveling to Koh Samui, having mobile data ready on arrival makes your trip much easier.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thailand is one of my favorite travel destinations in the world and after more than 25 visits I still keep going back. I hope this guide helped you choose the best eSIM for your Thailand trip and made planning your travels a little easier.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Enjoy your trip to Thailand!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "If your phone is not eSIM compatible or you prefer buying a physical SIM card after arrival, check my guide about the best prepaid tourist SIM cards in Thailand or my step-by-step guide for buying a SIM card at Bangkok Airport.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+                "anchor_text": "best prepaid tourist SIM cards in Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/sim-card-bangkok",
+                "anchor_text": "buying a SIM card at Bangkok Airport"
+              }
+            ]
+          },
+          {
+            "text": "e-sim cards",
+            "url": "https://www.traveltomtom.net/list-all-tags/e-sim-cards",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/list-all-tags/e-sim-cards",
+                "anchor_text": "e-sim cards"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "FAQ about eSIM cards for Thailand",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Popular tags",
+        "main_title": "Best eSIM for Thailand in 2026: Why I Use SimOptions",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "info@traveltomtom.net"
+      ]
+    }
+  }
+}

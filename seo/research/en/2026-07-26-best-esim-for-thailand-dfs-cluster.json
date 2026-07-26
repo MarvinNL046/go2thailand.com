@@ -1,0 +1,883 @@
+{
+  "captured_at": "2026-07-26T16:08:20.316Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best esim for thailand",
+  "costs": {
+    "suggestions": 0.01512,
+    "related": 0.01632,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "best esim for thailand",
+    "best esim for thailand uk",
+    "best esim for thailand from uk",
+    "best esim card for thailand",
+    "best esim for thailand and vietnam",
+    "best esim for thailand reddit",
+    "best esim for thailand tourist",
+    "best esim for thailand unlimited data",
+    "the best esim for thailand",
+    "best esim app for thailand",
+    "best esim for vietnam and thailand",
+    "best esim in thailand for tourist",
+    "best esim for malaysia and thailand",
+    "best esim for phuket thailand",
+    "best esim for thailand 30 days",
+    "best esim for thailand ais",
+    "best esim for thailand and cambodia",
+    "best esim for thailand and malaysia",
+    "best esim for thailand calls and data"
+  ],
+  "keywords": [
+    {
+      "keyword": "best esim for thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac thailand",
+      "volume": 880,
+      "kd": 37,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais esim thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand uk",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best esim thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "esim for thailand from uk",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais tourist sim",
+      "volume": 170,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "saily esim thailand",
+      "volume": 140,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "airalo esim thailand",
+      "volume": 110,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac esim",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac esim thailand",
+      "volume": 110,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand from uk",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "esim thailand 30 days",
+      "volume": 90,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais esim tourist",
+      "volume": 50,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holafly esim thailand",
+      "volume": 50,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holafly thailand",
+      "volume": 50,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best esim card for thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand and vietnam",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand reddit",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand tourist",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand unlimited data",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "revolut esim thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the best esim for thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim app for thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for vietnam and thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim in thailand for tourist",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais esim thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais esim thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais esim thailand review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais esim thailand unlimited data",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais esim tourist thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best esim for malaysia and thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand ais",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand and cambodia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand and malaysia",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand calls and data",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand iphone",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for thailand saily",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for tourist in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim for travel to thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best esim provider for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "buy ais esim thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "buy dtac esim online",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac esim 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac esim thailand review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac esim tourist thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holafly esim thailand review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "saily esim thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "saily esim thailand review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ubigi esim thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is best esim for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "which esim is best for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "wheretogoin.net",
+      "avgPosition": 1.6666666666666667,
+      "keywordCount": 3,
+      "visibility": 2.8,
+      "estimatedTraffic": 535
+    },
+    {
+      "domain": "www.tomhentystravel.co.uk",
+      "avgPosition": 2.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.5,
+      "estimatedTraffic": 145.27999999999997
+    },
+    {
+      "domain": "www.airalo.com",
+      "avgPosition": 2.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.5,
+      "estimatedTraffic": 288.39
+    },
+    {
+      "domain": "www.revolut.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 38.07
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 48.139
+    },
+    {
+      "domain": "esim.holafly.com",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.2,
+      "estimatedTraffic": 110.11699999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 7.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.1,
+      "estimatedTraffic": 33.692
+    },
+    {
+      "domain": "www.finder.com",
+      "avgPosition": 8.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.95,
+      "estimatedTraffic": 21.081
+    },
+    {
+      "domain": "www.traveltomtom.net",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.7,
+      "estimatedTraffic": 76.40199999999999
+    },
+    {
+      "domain": "www.theanxioustravelguy.com",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 16.240000000000002
+    },
+    {
+      "domain": "www.belaroundtheworld.com",
+      "avgPosition": 13.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 32.81
+    },
+    {
+      "domain": "myvegantravels.com",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 10.346
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 9.753
+    },
+    {
+      "domain": "www.techradar.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.449999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 10.145
+    },
+    {
+      "domain": "voilacreators.com",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 8.644
+    },
+    {
+      "domain": "simify.com",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.106
+    },
+    {
+      "domain": "mobimatter.com",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.01
+    },
+    {
+      "domain": "shippedaway.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.91
+    },
+    {
+      "domain": "saily.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.348
+    },
+    {
+      "domain": "abackpackersworld.com",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.0169999999999995
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.053
+    },
+    {
+      "domain": "wise.com",
+      "avgPosition": 30.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9989999999999997
+    },
+    {
+      "domain": "findyouresim.co.uk",
+      "avgPosition": 33,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "zensim.com.au",
+      "avgPosition": 36,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.47
+    },
+    {
+      "domain": "www.wanderlustchloe.com",
+      "avgPosition": 4.5,
+      "keywordCount": 2,
+      "visibility": 1.3,
+      "estimatedTraffic": 162.77800000000002
+    },
+    {
+      "domain": "esimprime.com",
+      "avgPosition": 36.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.midnightblueelephant.com",
+      "avgPosition": 37,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "cybernews.com",
+      "avgPosition": 37,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.monito.com",
+      "avgPosition": 38,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "simpackers.com",
+      "avgPosition": 38,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "esimdb.com",
+      "avgPosition": 40,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "esimthailand.com",
+      "avgPosition": 40.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.tripsim.co.uk",
+      "avgPosition": 41.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 10.071
+    },
+    {
+      "domain": "www.dreambigtravelfarblog.com",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.549
+    },
+    {
+      "domain": "esims.io",
+      "avgPosition": 52.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "travelsimasia.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.6299999999999999
+    },
+    {
+      "domain": "gizmodo.com",
+      "avgPosition": 54.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.esim4.com",
+      "avgPosition": 34,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.549
+    },
+    {
+      "domain": "www.nomadwise.io",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.549
+    },
+    {
+      "domain": "simcorner.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.549
+    },
+    {
+      "domain": "www.helloroam.com",
+      "avgPosition": 39.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.6299999999999999
+    },
+    {
+      "domain": "simsima.io",
+      "avgPosition": 61,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.nomadesim.com",
+      "avgPosition": 42,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.321
+    },
+    {
+      "domain": "myroami.com",
+      "avgPosition": 61.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "thailandesim.com",
+      "avgPosition": 47,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.549
+    },
+    {
+      "domain": "blog.gohub.com",
+      "avgPosition": 48,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.8009999999999997
+    },
+    {
+      "domain": "rocketesims.com",
+      "avgPosition": 50,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.6299999999999999
+    },
+    {
+      "domain": "ezyesim.com",
+      "avgPosition": 50.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.6299999999999999
+    }
+  ]
+}
