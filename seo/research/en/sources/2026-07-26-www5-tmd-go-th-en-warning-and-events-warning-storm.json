@@ -1,0 +1,849 @@
+{
+  "captured_at": "2026-07-26T15:34:48.505Z",
+  "locale": "en",
+  "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Daily Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/daily",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/daily",
+              "anchor_text": "Daily Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "7 Day Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/sevenday",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/sevenday",
+              "anchor_text": "7 Day Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Monthly Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/monthly",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/monthly",
+              "anchor_text": "Monthly Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "3 Months Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/threemonthcountry",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/threemonthcountry",
+              "anchor_text": "3 Months Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Seasonal Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/seasonal",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/seasonal",
+              "anchor_text": "Seasonal Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Weather Forecast Map",
+          "url": "https://www5.tmd.go.th/en/storms",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/storms",
+              "anchor_text": "Weather Forecast Map"
+            }
+          ]
+        },
+        {
+          "text": "Storm Tracking",
+          "url": "https://www5.tmd.go.th/en/storms",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/storms",
+              "anchor_text": "Storm Tracking"
+            }
+          ]
+        },
+        {
+          "text": "Earthquake Report",
+          "url": "https://www5.tmd.go.th/en/EarthQuake",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/EarthQuake",
+              "anchor_text": "Earthquake Report"
+            }
+          ]
+        },
+        {
+          "text": "World Weather Report",
+          "url": "https://www5.tmd.go.th/en/weathers/worldweatherreport",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/weathers/worldweatherreport",
+              "anchor_text": "World Weather Report"
+            }
+          ]
+        },
+        {
+          "text": "Shipping Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/shipping",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/shipping",
+              "anchor_text": "Shipping Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Ocean Wave Forecast",
+          "url": "http://www.marine.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www.marine.tmd.go.th/",
+              "anchor_text": "Ocean Wave Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Wave Risk",
+          "url": "http://www.marine.tmd.go.th/waverisk/waveriskloop.html",
+          "urls": [
+            {
+              "url": "http://www.marine.tmd.go.th/waverisk/waveriskloop.html",
+              "anchor_text": "Wave Risk"
+            }
+          ]
+        },
+        {
+          "text": "Agromet Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/agromet",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/agromet",
+              "anchor_text": "Agromet Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Daily Agromet Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/dailyweatheragro",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/dailyweatheragro",
+              "anchor_text": "Daily Agromet Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Moisture Available Index in Thailand",
+          "url": "http://www.arcims.tmd.go.th/DailyDATA/MAI10day.php",
+          "urls": [
+            {
+              "url": "http://www.arcims.tmd.go.th/DailyDATA/MAI10day.php",
+              "anchor_text": "Moisture Available Index in Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Weather Radar",
+          "url": "https://weather.tmd.go.th/",
+          "urls": [
+            {
+              "url": "https://weather.tmd.go.th/",
+              "anchor_text": "Weather Radar"
+            }
+          ]
+        },
+        {
+          "text": "Radar GIS",
+          "url": "http://www2.radargis.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www2.radargis.tmd.go.th/",
+              "anchor_text": "Radar GIS"
+            }
+          ]
+        },
+        {
+          "text": "Radar Composite",
+          "url": "https://weather.tmd.go.th/THA_loop.php",
+          "urls": [
+            {
+              "url": "https://weather.tmd.go.th/THA_loop.php",
+              "anchor_text": "Radar Composite"
+            }
+          ]
+        },
+        {
+          "text": "Satellite Images",
+          "url": "http://www.sattmet.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www.sattmet.tmd.go.th/",
+              "anchor_text": "Satellite Images"
+            }
+          ]
+        },
+        {
+          "text": "Satellite Image Analysis",
+          "url": "http://www.satda.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www.satda.tmd.go.th/",
+              "anchor_text": "Satellite Image Analysis"
+            }
+          ]
+        },
+        {
+          "text": "Weather Charts",
+          "url": "https://www5.tmd.go.th/en/supportData/synopticChartsEn",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/supportData/synopticChartsEn",
+              "anchor_text": "Weather Charts"
+            }
+          ]
+        },
+        {
+          "text": "Climate Products",
+          "url": "http://climate.tmd.go.th/gge/index.html",
+          "urls": [
+            {
+              "url": "http://climate.tmd.go.th/gge/index.html",
+              "anchor_text": "Climate Products"
+            }
+          ]
+        },
+        {
+          "text": "GIS & Agromet",
+          "url": "http://www.arcims.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www.arcims.tmd.go.th/",
+              "anchor_text": "GIS & Agromet"
+            }
+          ]
+        },
+        {
+          "text": "Automatic Weather System (AWS)",
+          "url": "http://www.aws-observation.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www.aws-observation.tmd.go.th/",
+              "anchor_text": "Automatic Weather System (AWS)"
+            }
+          ]
+        },
+        {
+          "text": "High Performance Computing Forecast",
+          "url": "https://hpc.tmd.go.th/",
+          "urls": [
+            {
+              "url": "https://hpc.tmd.go.th/",
+              "anchor_text": "High Performance Computing Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Rainfall Forecast with HPC",
+          "url": "http://www.model.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www.model.tmd.go.th/",
+              "anchor_text": "Rainfall Forecast with HPC"
+            }
+          ]
+        },
+        {
+          "text": "WRF BKK Model",
+          "url": "http://www2.tmd.go.th/wrf_tmd/images/BKK_WRFDA1/zoom_bkk_prec3h.html",
+          "urls": [
+            {
+              "url": "http://www2.tmd.go.th/wrf_tmd/images/BKK_WRFDA1/zoom_bkk_prec3h.html",
+              "anchor_text": "WRF BKK Model"
+            }
+          ]
+        },
+        {
+          "text": "Minimum Temperature",
+          "url": "https://www5.tmd.go.th/en/climate/tempminstatlatest",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/climate/tempminstatlatest",
+              "anchor_text": "Minimum Temperature"
+            }
+          ]
+        },
+        {
+          "text": "Maximum Temperature",
+          "url": "https://www5.tmd.go.th/en/climate/tempmaxstatlatest",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/climate/tempmaxstatlatest",
+              "anchor_text": "Maximum Temperature"
+            }
+          ]
+        },
+        {
+          "text": "Daily Maximum Temperature",
+          "url": "https://www5.tmd.go.th/en/climate/hightemperaturemap",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/climate/hightemperaturemap",
+              "anchor_text": "Daily Maximum Temperature"
+            }
+          ]
+        },
+        {
+          "text": "Climate Chart",
+          "url": "https://www5.tmd.go.th/en/ClimateChart/monthly-mean-rainfall-in-thailand-mm-30-years",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/ClimateChart/monthly-mean-rainfall-in-thailand-mm-30-years",
+              "anchor_text": "Climate Chart"
+            }
+          ]
+        },
+        {
+          "text": "Climatological Center",
+          "url": "http://climate.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://climate.tmd.go.th/",
+              "anchor_text": "Climatological Center"
+            }
+          ]
+        },
+        {
+          "text": "Daily Observation Report",
+          "url": "https://www5.tmd.go.th/en/service/downloadableDocuments",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/service/downloadableDocuments",
+              "anchor_text": "Daily Observation Report"
+            }
+          ]
+        },
+        {
+          "text": "Daily Rainfall Report",
+          "url": "https://www5.tmd.go.th/en/service/downloadableDocuments",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/service/downloadableDocuments",
+              "anchor_text": "Daily Rainfall Report"
+            }
+          ]
+        },
+        {
+          "text": "Daily Weather Forecast Report",
+          "url": "https://www5.tmd.go.th/en/service/downloadableDocuments",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/service/downloadableDocuments",
+              "anchor_text": "Daily Weather Forecast Report"
+            }
+          ]
+        },
+        {
+          "text": "Weather Forecast by Region",
+          "url": "https://www5.tmd.go.th/en/service/downloadableDocuments",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/service/downloadableDocuments",
+              "anchor_text": "Weather Forecast by Region"
+            }
+          ]
+        },
+        {
+          "text": "Weather Widget",
+          "url": "https://www5.tmd.go.th/en/weatherwidget/7DaysForecast",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/weatherwidget/7DaysForecast",
+              "anchor_text": "Weather Widget"
+            }
+          ]
+        },
+        {
+          "text": "TMD Open Data",
+          "url": "https://data.tmd.go.th/dataset/index.php",
+          "urls": [
+            {
+              "url": "https://data.tmd.go.th/dataset/index.php",
+              "anchor_text": "TMD Open Data"
+            }
+          ]
+        },
+        {
+          "text": "Warning and Earthquake",
+          "url": "https://www5.tmd.go.th/en/forecast/forecastWarning",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/forecastWarning",
+              "anchor_text": "Warning and Earthquake"
+            }
+          ]
+        },
+        {
+          "text": "Warning and Events",
+          "url": "https://www5.tmd.go.th/en/warning-and-events",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/warning-and-events",
+              "anchor_text": "Warning and Events"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "4353 Sukhumvit Road",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Bangna, Bangkok",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Call center",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Weather Information",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Thailand Weather",
+          "url": "https://www5.tmd.go.th/en/weather/weatherthailand",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/weather/weatherthailand",
+              "anchor_text": "Thailand Weather"
+            }
+          ]
+        },
+        {
+          "text": "Daily Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/daily",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/daily",
+              "anchor_text": "Daily Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "7-day Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/sevenday",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/sevenday",
+              "anchor_text": "7-day Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "PM 2.5",
+          "url": "http://ozone.tmd.go.th/wi.htm",
+          "urls": [
+            {
+              "url": "http://ozone.tmd.go.th/wi.htm",
+              "anchor_text": "PM 2.5"
+            }
+          ]
+        },
+        {
+          "text": "Heavy Rain Area",
+          "url": "https://www5.tmd.go.th/en/forecast/heavyrainriskarea",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/heavyrainriskarea",
+              "anchor_text": "Heavy Rain Area"
+            }
+          ]
+        },
+        {
+          "text": "Weather Charts",
+          "url": "https://www5.tmd.go.th/en/supportData/synopticChartsEn",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/supportData/synopticChartsEn",
+              "anchor_text": "Weather Charts"
+            }
+          ]
+        },
+        {
+          "text": "Weather Radar",
+          "url": "https://weather.tmd.go.th/",
+          "urls": [
+            {
+              "url": "https://weather.tmd.go.th/",
+              "anchor_text": "Weather Radar"
+            }
+          ]
+        },
+        {
+          "text": "Satellite Images",
+          "url": "http://www.sattmet.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www.sattmet.tmd.go.th/",
+              "anchor_text": "Satellite Images"
+            }
+          ]
+        },
+        {
+          "text": "Agromet Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/agromet",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/agromet",
+              "anchor_text": "Agromet Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Thai Weather Radio",
+          "url": "http://www.radio.tmd.go.th/radio_online.html",
+          "urls": [
+            {
+              "url": "http://www.radio.tmd.go.th/radio_online.html",
+              "anchor_text": "Thai Weather Radio"
+            }
+          ]
+        },
+        {
+          "text": "About TMD",
+          "url": "https://www5.tmd.go.th/en/department/subpage-department",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/department/subpage-department",
+              "anchor_text": "About TMD"
+            }
+          ]
+        },
+        {
+          "text": "Weather Information",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Thailand Weather",
+          "url": "https://www5.tmd.go.th/en/weather/weatherthailand",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/weather/weatherthailand",
+              "anchor_text": "Thailand Weather"
+            }
+          ]
+        },
+        {
+          "text": "Daily Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/daily",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/daily",
+              "anchor_text": "Daily Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "7-day Weather Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/sevenday",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/sevenday",
+              "anchor_text": "7-day Weather Forecast"
+            }
+          ]
+        },
+        {
+          "text": "PM 2.5",
+          "url": "http://ozone.tmd.go.th/wi.htm",
+          "urls": [
+            {
+              "url": "http://ozone.tmd.go.th/wi.htm",
+              "anchor_text": "PM 2.5"
+            }
+          ]
+        },
+        {
+          "text": "Heavy Rain Area",
+          "url": "https://www5.tmd.go.th/en/forecast/heavyrainriskarea",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/heavyrainriskarea",
+              "anchor_text": "Heavy Rain Area"
+            }
+          ]
+        },
+        {
+          "text": "Weather Charts",
+          "url": "https://www5.tmd.go.th/en/supportData/synopticChartsEn",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/supportData/synopticChartsEn",
+              "anchor_text": "Weather Charts"
+            }
+          ]
+        },
+        {
+          "text": "Weather Radar",
+          "url": "https://weather.tmd.go.th/",
+          "urls": [
+            {
+              "url": "https://weather.tmd.go.th/",
+              "anchor_text": "Weather Radar"
+            }
+          ]
+        },
+        {
+          "text": "Satellite Images",
+          "url": "http://www.sattmet.tmd.go.th/",
+          "urls": [
+            {
+              "url": "http://www.sattmet.tmd.go.th/",
+              "anchor_text": "Satellite Images"
+            }
+          ]
+        },
+        {
+          "text": "Agromet Forecast",
+          "url": "https://www5.tmd.go.th/en/forecast/agromet",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/forecast/agromet",
+              "anchor_text": "Agromet Forecast"
+            }
+          ]
+        },
+        {
+          "text": "Thai Weather Radio",
+          "url": "http://www.radio.tmd.go.th/radio_online.html",
+          "urls": [
+            {
+              "url": "http://www.radio.tmd.go.th/radio_online.html",
+              "anchor_text": "Thai Weather Radio"
+            }
+          ]
+        },
+        {
+          "text": "About TMD",
+          "url": "https://www5.tmd.go.th/en/department/subpage-department",
+          "urls": [
+            {
+              "url": "https://www5.tmd.go.th/en/department/subpage-department",
+              "anchor_text": "About TMD"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": null,
+    "secondary_topic": [
+      {
+        "h_title": "Warning",
+        "main_title": "Warning",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Link Copied",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Special events",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/special-events",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/special-events",
+                "anchor_text": "Special events"
+              }
+            ]
+          },
+          {
+            "text": "Special events",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/special-events",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/special-events",
+                "anchor_text": "Special events"
+              }
+            ]
+          },
+          {
+            "text": "During 26–30 July 2026, the monsoon trough will lie across the upper North and the Northeast, while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy to very heavy rains are possible in the country. P",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-7-134-2026",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-7-134-2026",
+                "anchor_text": "During 26–30 July 2026, the monsoon trough will lie across the upper North and the Northeast, while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy to very heavy rains are possible in the country. P"
+              }
+            ]
+          },
+          {
+            "text": "26 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During 26–30 July 2026, the monsoon trough will lie across the upper North and the Northeast, while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy to very heavy rains are possible in the country.",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-6-133-2026",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-6-133-2026",
+                "anchor_text": "During 26–30 July 2026, the monsoon trough will lie across the upper North and the Northeast, while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy to very heavy rains are possible in the country."
+              }
+            ]
+          },
+          {
+            "text": "26 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During 26–30 July 2026, the monsoon trough will lie across the upper North and the Northeast, while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy to very heavy rains are possible in the country.",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-5-132-2026",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-5-132-2026",
+                "anchor_text": "During 26–30 July 2026, the monsoon trough will lie across the upper North and the Northeast, while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy to very heavy rains are possible in the country."
+              }
+            ]
+          },
+          {
+            "text": "25 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During 26–30 July 2026, the monsoon trough will lie across the upper North and the Northeast, while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy to very heavy rains are possible in the country.",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-4-131-2026",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-4-131-2026",
+                "anchor_text": "During 26–30 July 2026, the monsoon trough will lie across the upper North and the Northeast, while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy to very heavy rains are possible in the country."
+              }
+            ]
+          },
+          {
+            "text": "25 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "24 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During 26–30 July 2026, the monsoon trough will lie across Myanmar, Laos and upper Vietnam while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy rains are forecast in Thailand and isolated very heavy rains are possible in the East and the South (west coast) regions.",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-2-129-2026",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-2-129-2026",
+                "anchor_text": "During 26–30 July 2026, the monsoon trough will lie across Myanmar, Laos and upper Vietnam while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy rains are forecast in Thailand and isolated very heavy rains are possible in the East and the South (west coast) regions."
+              }
+            ]
+          },
+          {
+            "text": "24 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During 26–30 July 2026, the monsoon trough will lie across Myanmar, Laos and upper Vietnam while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy rains are forecast in Thailand and isolated very heavy rains are possible in the East and the South (west coast) regions.",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-1-128-2026",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/heavy-to-very-heavy-rain-in-thailand-no-1-128-2026",
+                "anchor_text": "During 26–30 July 2026, the monsoon trough will lie across Myanmar, Laos and upper Vietnam while the strengthening southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf. Isolated heavy rains are forecast in Thailand and isolated very heavy rains are possible in the East and the South (west coast) regions."
+              }
+            ]
+          },
+          {
+            "text": "23 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "13 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During 13–15 July 2026, the strong southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf of Thailand. The strengthening wind force the waves in the upper Andaman Sea up to 2–4 meters and above 4 meters high in thundershowers. In the upper Gulf and the lower Andaman Sea, the wave are likely 2-3 meters and above 3 meters high in thundershowers. All ships in the Andaman Sea and the Gulf should proceed with caution and keep off thundershowers, small boats should keep ashore.",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/strong-wind-waves-in-the-andaman-sea-and-the-upper-gulf-heavy-to-very-heavy-rain-in-the-central-the-east-and-the-south-west-coast-no-10-126-2026",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/strong-wind-waves-in-the-andaman-sea-and-the-upper-gulf-heavy-to-very-heavy-rain-in-the-central-the-east-and-the-south-west-coast-no-10-126-2026",
+                "anchor_text": "During 13–15 July 2026, the strong southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf of Thailand. The strengthening wind force the waves in the upper Andaman Sea up to 2–4 meters and above 4 meters high in thundershowers. In the upper Gulf and the lower Andaman Sea, the wave are likely 2-3 meters and above 3 meters high in thundershowers. All ships in the Andaman Sea and the Gulf should proceed with caution and keep off thundershowers, small boats should keep ashore."
+              }
+            ]
+          },
+          {
+            "text": "13 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During 12–15 July 2026, the strong southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf of Thailand. The strengthening wind force the waves in the upper Andaman Sea up to 2–4 meters and above 4 meters high in thundershowers. In the upper Gulf and the lower Andaman Sea, the wave are likely 2-3 meters and above 3 meters high in thundershowers. All ships in the Andaman Sea and the Gulf should proceed with caution and keep off thundershowers, small boats should keep ashore.",
+            "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/strong-wind-waves-in-the-andaman-sea-and-the-upper-gulf-heavy-to-very-heavy-rain-in-the-central-the-east-and-the-south-west-coast-no-9-125-2026",
+            "urls": [
+              {
+                "url": "https://www5.tmd.go.th/en/warning-and-events/warning-storm/strong-wind-waves-in-the-andaman-sea-and-the-upper-gulf-heavy-to-very-heavy-rain-in-the-central-the-east-and-the-south-west-coast-no-9-125-2026",
+                "anchor_text": "During 12–15 July 2026, the strong southwest monsoon prevails over the Andaman Sea, Thailand and the Gulf of Thailand. The strengthening wind force the waves in the upper Andaman Sea up to 2–4 meters and above 4 meters high in thundershowers. In the upper Gulf and the lower Andaman Sea, the wave are likely 2-3 meters and above 3 meters high in thundershowers. All ships in the Andaman Sea and the Gulf should proceed with caution and keep off thundershowers, small boats should keep ashore."
+              }
+            ]
+          },
+          {
+            "text": "12 July 2026",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Data Type:",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "1182"
+      ],
+      "emails": null
+    }
+  }
+}

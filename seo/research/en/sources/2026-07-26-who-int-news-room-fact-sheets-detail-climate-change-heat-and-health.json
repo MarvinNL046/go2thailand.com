@@ -1,0 +1,1381 @@
+{
+  "captured_at": "2026-07-26T15:22:41.395Z",
+  "locale": "en",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Heat and health",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "South-East Asia",
+          "url": "https://www.who.int/southeastasia",
+          "urls": [
+            {
+              "url": "https://www.who.int/southeastasia",
+              "anchor_text": "South-East Asia"
+            }
+          ]
+        },
+        {
+          "text": "Eastern Mediterranean",
+          "url": "http://www.emro.who.int/index.html",
+          "urls": [
+            {
+              "url": "http://www.emro.who.int/index.html",
+              "anchor_text": "Eastern Mediterranean"
+            }
+          ]
+        },
+        {
+          "text": "Western Pacific",
+          "url": "https://www.who.int/westernpacific/",
+          "urls": [
+            {
+              "url": "https://www.who.int/westernpacific/",
+              "anchor_text": "Western Pacific"
+            }
+          ]
+        },
+        {
+          "text": "Health Topics",
+          "url": "https://www.who.int/mega-menu/health-topics",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/health-topics",
+              "anchor_text": "Health Topics"
+            }
+          ]
+        },
+        {
+          "text": "All topics",
+          "url": "https://www.who.int/health-topics/",
+          "urls": [
+            {
+              "url": "https://www.who.int/health-topics/",
+              "anchor_text": "All topics"
+            }
+          ]
+        },
+        {
+          "text": "Fact sheets",
+          "url": "https://www.who.int/mega-menu/health-topics/resources/fact-sheets",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/health-topics/resources/fact-sheets",
+              "anchor_text": "Fact sheets"
+            }
+          ]
+        },
+        {
+          "text": "Facts in pictures",
+          "url": "https://www.who.int/mega-menu/health-topics/resources/facts-in-pictures",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/health-topics/resources/facts-in-pictures",
+              "anchor_text": "Facts in pictures"
+            }
+          ]
+        },
+        {
+          "text": "Questions and answers",
+          "url": "https://www.who.int/mega-menu/health-topics/resources/questions-and-answers",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/health-topics/resources/questions-and-answers",
+              "anchor_text": "Questions and answers"
+            }
+          ]
+        },
+        {
+          "text": "Tools and toolkits",
+          "url": "https://www.who.int/mega-menu/health-topics/resources/tools-and-toolkits",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/health-topics/resources/tools-and-toolkits",
+              "anchor_text": "Tools and toolkits"
+            }
+          ]
+        },
+        {
+          "text": "Excessive heat",
+          "url": "https://www.who.int/mega-menu/health-topics/popular/excessive-heat",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/health-topics/popular/excessive-heat",
+              "anchor_text": "Excessive heat"
+            }
+          ]
+        },
+        {
+          "text": "Mental disorders",
+          "url": "https://www.who.int/mega-menu/health-topics/popular/mental-disorders",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/health-topics/popular/mental-disorders",
+              "anchor_text": "Mental disorders"
+            }
+          ]
+        },
+        {
+          "text": "All countries",
+          "url": "https://www.who.int/countries",
+          "urls": [
+            {
+              "url": "https://www.who.int/countries",
+              "anchor_text": "All countries"
+            }
+          ]
+        },
+        {
+          "text": "Eastern Mediterranean",
+          "url": "https://www.who.int/mega-menu/countries/regions/eastern-mediterranean",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/countries/regions/eastern-mediterranean",
+              "anchor_text": "Eastern Mediterranean"
+            }
+          ]
+        },
+        {
+          "text": "South-East Asia",
+          "url": "https://www.who.int/mega-menu/countries/regions/south-east-asia",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/countries/regions/south-east-asia",
+              "anchor_text": "South-East Asia"
+            }
+          ]
+        },
+        {
+          "text": "Western Pacific",
+          "url": "https://www.who.int/mega-menu/countries/regions/western-pacific",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/countries/regions/western-pacific",
+              "anchor_text": "Western Pacific"
+            }
+          ]
+        },
+        {
+          "text": "Data by country",
+          "url": "https://www.who.int/mega-menu/countries/who-in-countries/data-by-country",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/countries/who-in-countries/data-by-country",
+              "anchor_text": "Data by country"
+            }
+          ]
+        },
+        {
+          "text": "Country presence",
+          "url": "https://www.who.int/mega-menu/countries/who-in-countries/country-presence",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/countries/who-in-countries/country-presence",
+              "anchor_text": "Country presence"
+            }
+          ]
+        },
+        {
+          "text": "Country cooperation strategies",
+          "url": "https://www.who.int/mega-menu/countries/who-in-countries/country-cooperation-strategies",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/countries/who-in-countries/country-cooperation-strategies",
+              "anchor_text": "Country cooperation strategies"
+            }
+          ]
+        },
+        {
+          "text": "Country office profiles",
+          "url": "https://www.who.int/mega-menu/countries/who-in-countries/country-office-profiles",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/countries/who-in-countries/country-office-profiles",
+              "anchor_text": "Country office profiles"
+            }
+          ]
+        },
+        {
+          "text": "Strengthening country offices",
+          "url": "https://www.who.int/mega-menu/countries/who-in-countries/country-strengthening",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/countries/who-in-countries/country-strengthening",
+              "anchor_text": "Strengthening country offices"
+            }
+          ]
+        },
+        {
+          "text": "News releases",
+          "url": "https://www.who.int/mega-menu/news/all-news/releases",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/news/all-news/releases",
+              "anchor_text": "News releases"
+            }
+          ]
+        },
+        {
+          "text": "Feature stories",
+          "url": "https://www.who.int/mega-menu/news/all-news/feature-stories",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/news/all-news/feature-stories",
+              "anchor_text": "Feature stories"
+            }
+          ]
+        },
+        {
+          "text": "Photo library",
+          "url": "https://www.who.int/mega-menu/news/all-news/photo-library",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/news/all-news/photo-library",
+              "anchor_text": "Photo library"
+            }
+          ]
+        },
+        {
+          "text": "Ebola disease",
+          "url": "https://www.who.int/mega-menu/emergencies/emergencies/ebola-disease",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/emergencies/ebola-disease",
+              "anchor_text": "Ebola disease"
+            }
+          ]
+        },
+        {
+          "text": "Israel and the occupied Palestinian territory",
+          "url": "https://www.who.int/mega-menu/emergencies/emergencies/israel-and-occupied-palestinian-territory",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/emergencies/israel-and-occupied-palestinian-territory",
+              "anchor_text": "Israel and the occupied Palestinian territory"
+            }
+          ]
+        },
+        {
+          "text": "Middle East",
+          "url": "https://www.who.int/mega-menu/emergencies/emergencies/middle-east",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/emergencies/middle-east",
+              "anchor_text": "Middle East"
+            }
+          ]
+        },
+        {
+          "text": "Disease Outbreak News",
+          "url": "https://www.who.int/mega-menu/emergencies/news/disease-outbreak-news",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/news/disease-outbreak-news",
+              "anchor_text": "Disease Outbreak News"
+            }
+          ]
+        },
+        {
+          "text": "Situation reports",
+          "url": "https://www.who.int/mega-menu/emergencies/news/situation-reports",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/news/situation-reports",
+              "anchor_text": "Situation reports"
+            }
+          ]
+        },
+        {
+          "text": "Rapid risk assessments",
+          "url": "https://www.who.int/mega-menu/emergencies/news/rapid-risk-assessment",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/news/rapid-risk-assessment",
+              "anchor_text": "Rapid risk assessments"
+            }
+          ]
+        },
+        {
+          "text": "Weekly Epidemiological Record",
+          "url": "https://www.who.int/mega-menu/emergencies/news/weekly-epidemiological-record",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/news/weekly-epidemiological-record",
+              "anchor_text": "Weekly Epidemiological Record"
+            }
+          ]
+        },
+        {
+          "text": "Alert and response",
+          "url": "https://www.who.int/mega-menu/emergencies/who-in-emergencies/alert-and-response",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/who-in-emergencies/alert-and-response",
+              "anchor_text": "Alert and response"
+            }
+          ]
+        },
+        {
+          "text": "Health emergency appeals",
+          "url": "https://www.who.int/mega-menu/emergencies/who-in-emergencies/health-emergency-appeal",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/who-in-emergencies/health-emergency-appeal",
+              "anchor_text": "Health emergency appeals"
+            }
+          ]
+        },
+        {
+          "text": "International Health Regulations",
+          "url": "https://www.who.int/mega-menu/emergencies/who-in-emergencies/international-health-regulations",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/who-in-emergencies/international-health-regulations",
+              "anchor_text": "International Health Regulations"
+            }
+          ]
+        },
+        {
+          "text": "Independent Oversight and Advisory Committee",
+          "url": "https://www.who.int/mega-menu/emergencies/who-in-emergencies/independent-oversight-and-advisory-committee",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/emergencies/who-in-emergencies/independent-oversight-and-advisory-committee",
+              "anchor_text": "Independent Oversight and Advisory Committee"
+            }
+          ]
+        },
+        {
+          "text": "Data hub",
+          "url": "https://www.who.int/mega-menu/data/data-who/data-hub",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/data-who/data-hub",
+              "anchor_text": "Data hub"
+            }
+          ]
+        },
+        {
+          "text": "Global Health Estimates",
+          "url": "https://www.who.int/mega-menu/data/data-who/global-health-estimates",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/data-who/global-health-estimates",
+              "anchor_text": "Global Health Estimates"
+            }
+          ]
+        },
+        {
+          "text": "Health inequality",
+          "url": "https://www.who.int/mega-menu/data/data-who/health-inequality",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/data-who/health-inequality",
+              "anchor_text": "Health inequality"
+            }
+          ]
+        },
+        {
+          "text": "Global Health Observatory",
+          "url": "https://www.who.int/mega-menu/data/data-who/global-health-obsevatory",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/data-who/global-health-obsevatory",
+              "anchor_text": "Global Health Observatory"
+            }
+          ]
+        },
+        {
+          "text": "Triple Billion Progress",
+          "url": "https://www.who.int/mega-menu/data/dashboards/triple-billion-progress",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/dashboards/triple-billion-progress",
+              "anchor_text": "Triple Billion Progress"
+            }
+          ]
+        },
+        {
+          "text": "Health Inequality Monitor",
+          "url": "https://www.who.int/mega-menu/data/dashboards/health-inequality-monitor",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/dashboards/health-inequality-monitor",
+              "anchor_text": "Health Inequality Monitor"
+            }
+          ]
+        },
+        {
+          "text": "Delivery for impact",
+          "url": "https://www.who.int/mega-menu/data/dashboards/delivery-for-impact",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/dashboards/delivery-for-impact",
+              "anchor_text": "Delivery for impact"
+            }
+          ]
+        },
+        {
+          "text": "COVID-19 dashboard",
+          "url": "https://www.who.int/mega-menu/data/dashboards/covid-19-dashboard",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/dashboards/covid-19-dashboard",
+              "anchor_text": "COVID-19 dashboard"
+            }
+          ]
+        },
+        {
+          "text": "Civil registration and vital statistics",
+          "url": "https://www.who.int/mega-menu/data/data-collection/civil-registration-and-vital-statistics",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/data-collection/civil-registration-and-vital-statistics",
+              "anchor_text": "Civil registration and vital statistics"
+            }
+          ]
+        },
+        {
+          "text": "Routine health information systems",
+          "url": "https://www.who.int/mega-menu/data/data-collection/routine-health-information-systems",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/data-collection/routine-health-information-systems",
+              "anchor_text": "Routine health information systems"
+            }
+          ]
+        },
+        {
+          "text": "Harmonized health facility assessment",
+          "url": "https://www.who.int/mega-menu/data/data-collection/harmonized-health-facility-assessment",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/data-collection/harmonized-health-facility-assessment",
+              "anchor_text": "Harmonized health facility assessment"
+            }
+          ]
+        },
+        {
+          "text": "GIS centre for health",
+          "url": "https://www.who.int/mega-menu/data/data-collection/gis-centre-for-health",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/data-collection/gis-centre-for-health",
+              "anchor_text": "GIS centre for health"
+            }
+          ]
+        },
+        {
+          "text": "World Health Statistics",
+          "url": "https://www.who.int/mega-menu/data/reports/world-health-statistics",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/reports/world-health-statistics",
+              "anchor_text": "World Health Statistics"
+            }
+          ]
+        },
+        {
+          "text": "UHC global monitoring report",
+          "url": "https://www.who.int/mega-menu/data/reports/uhc-global-monitoring-report",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/data/reports/uhc-global-monitoring-report",
+              "anchor_text": "UHC global monitoring report"
+            }
+          ]
+        },
+        {
+          "text": "About WHO",
+          "url": "https://www.who.int/mega-menu/about-us",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us",
+              "anchor_text": "About WHO"
+            }
+          ]
+        },
+        {
+          "text": "Committees and advisory groups",
+          "url": "https://www.who.int/mega-menu/about-us/about/expert-groups",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/about/expert-groups",
+              "anchor_text": "Committees and advisory groups"
+            }
+          ]
+        },
+        {
+          "text": "Collaborating centres",
+          "url": "https://www.who.int/mega-menu/about-us/about/collaborating-centres",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/about/collaborating-centres",
+              "anchor_text": "Collaborating centres"
+            }
+          ]
+        },
+        {
+          "text": "Technical teams",
+          "url": "https://www.who.int/mega-menu/about-us/about/teams",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/about/teams",
+              "anchor_text": "Technical teams"
+            }
+          ]
+        },
+        {
+          "text": "Organizational structure",
+          "url": "https://www.who.int/mega-menu/about-us/about/structure",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/about/structure",
+              "anchor_text": "Organizational structure"
+            }
+          ]
+        },
+        {
+          "text": "Who we are",
+          "url": "https://www.who.int/mega-menu/about-us/about/who-we-are",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/about/who-we-are",
+              "anchor_text": "Who we are"
+            }
+          ]
+        },
+        {
+          "text": "General Programme of Work",
+          "url": "https://www.who.int/mega-menu/about-us/our-work/global-programme-of-work",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/our-work/global-programme-of-work",
+              "anchor_text": "General Programme of Work"
+            }
+          ]
+        },
+        {
+          "text": "WHO Academy",
+          "url": "https://www.who.int/mega-menu/about-us/our-work/who-academy",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/our-work/who-academy",
+              "anchor_text": "WHO Academy"
+            }
+          ]
+        },
+        {
+          "text": "Investment in WHO",
+          "url": "https://www.who.int/mega-menu/about-us/who-funding/investment-case",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/who-funding/investment-case",
+              "anchor_text": "Investment in WHO"
+            }
+          ]
+        },
+        {
+          "text": "WHO Foundation",
+          "url": "https://www.who.int/mega-menu/about-us/who-funding/who-foundation",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/who-funding/who-foundation",
+              "anchor_text": "WHO Foundation"
+            }
+          ]
+        },
+        {
+          "text": "External audit",
+          "url": "https://www.who.int/mega-menu/about-us/accountability/audit",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/accountability/audit",
+              "anchor_text": "External audit"
+            }
+          ]
+        },
+        {
+          "text": "Financial statements",
+          "url": "https://www.who.int/mega-menu/about-us/accountability/financial-statements",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/accountability/financial-statements",
+              "anchor_text": "Financial statements"
+            }
+          ]
+        },
+        {
+          "text": "Internal audit and investigations",
+          "url": "https://www.who.int/mega-menu/about-us/accountability/internal-audit-and-investigations",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/accountability/internal-audit-and-investigations",
+              "anchor_text": "Internal audit and investigations"
+            }
+          ]
+        },
+        {
+          "text": "Programme Budget",
+          "url": "https://www.who.int/mega-menu/about-us/accountability/budget",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/accountability/budget",
+              "anchor_text": "Programme Budget"
+            }
+          ]
+        },
+        {
+          "text": "Results reports",
+          "url": "https://www.who.int/mega-menu/about-us/accountability/results-report",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/accountability/results-report",
+              "anchor_text": "Results reports"
+            }
+          ]
+        },
+        {
+          "text": "Governing bodies",
+          "url": "https://www.who.int/mega-menu/about-us/governance/governing-bodies-website",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/governance/governing-bodies-website",
+              "anchor_text": "Governing bodies"
+            }
+          ]
+        },
+        {
+          "text": "World Health Assembly",
+          "url": "https://www.who.int/mega-menu/about-us/governance/wha",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/governance/wha",
+              "anchor_text": "World Health Assembly"
+            }
+          ]
+        },
+        {
+          "text": "Executive Board",
+          "url": "https://www.who.int/mega-menu/about-us/governance/eb",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/governance/eb",
+              "anchor_text": "Executive Board"
+            }
+          ]
+        },
+        {
+          "text": "Member States Portal",
+          "url": "https://www.who.int/mega-menu/about-us/governance/member-states-portal",
+          "urls": [
+            {
+              "url": "https://www.who.int/mega-menu/about-us/governance/member-states-portal",
+              "anchor_text": "Member States Portal"
+            }
+          ]
+        },
+        {
+          "text": "Home /",
+          "url": "https://www.who.int/",
+          "urls": [
+            {
+              "url": "https://www.who.int/",
+              "anchor_text": "Home"
+            }
+          ]
+        },
+        {
+          "text": "Newsroom /",
+          "url": "https://www.who.int/news-room",
+          "urls": [
+            {
+              "url": "https://www.who.int/news-room",
+              "anchor_text": "Newsroom"
+            }
+          ]
+        },
+        {
+          "text": "Fact sheets /",
+          "url": "https://www.who.int/news-room/fact-sheets",
+          "urls": [
+            {
+              "url": "https://www.who.int/news-room/fact-sheets",
+              "anchor_text": "Fact sheets"
+            }
+          ]
+        },
+        {
+          "text": "Detail /",
+          "url": "https://www.who.int/news-room/fact-sheets/detail",
+          "urls": [
+            {
+              "url": "https://www.who.int/news-room/fact-sheets/detail",
+              "anchor_text": "Detail"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Eastern Mediterranean",
+          "url": "https://www.who.int/redirect-pages/footer/regions/eastern-mediterranen",
+          "urls": [
+            {
+              "url": "https://www.who.int/redirect-pages/footer/regions/eastern-mediterranen",
+              "anchor_text": "Eastern Mediterranean"
+            }
+          ]
+        },
+        {
+          "text": "South-East Asia",
+          "url": "https://www.who.int/redirect-pages/footer/regions/south-east-asia",
+          "urls": [
+            {
+              "url": "https://www.who.int/redirect-pages/footer/regions/south-east-asia",
+              "anchor_text": "South-East Asia"
+            }
+          ]
+        },
+        {
+          "text": "Western Pacific",
+          "url": "https://www.who.int/redirect-pages/footer/regions/western-pacific",
+          "urls": [
+            {
+              "url": "https://www.who.int/redirect-pages/footer/regions/western-pacific",
+              "anchor_text": "Western Pacific"
+            }
+          ]
+        },
+        {
+          "text": "Information disclosure",
+          "url": "https://www.who.int/redirect-pages/footer/who-policies/information-disclosure",
+          "urls": [
+            {
+              "url": "https://www.who.int/redirect-pages/footer/who-policies/information-disclosure",
+              "anchor_text": "Information disclosure"
+            }
+          ]
+        },
+        {
+          "text": "Permissions and licensing",
+          "url": "https://www.who.int/redirect-pages/footer/who-policies/permissions-and-licensing",
+          "urls": [
+            {
+              "url": "https://www.who.int/redirect-pages/footer/who-policies/permissions-and-licensing",
+              "anchor_text": "Permissions and licensing"
+            }
+          ]
+        },
+        {
+          "text": "Preventing sexual exploitation",
+          "url": "https://www.who.int/redirect-pages/footer/who-policies/preventing-sexual-exploitation",
+          "urls": [
+            {
+              "url": "https://www.who.int/redirect-pages/footer/who-policies/preventing-sexual-exploitation",
+              "anchor_text": "Preventing sexual exploitation"
+            }
+          ]
+        },
+        {
+          "text": "Terms of use",
+          "url": "https://www.who.int/redirect-pages/footer/who-policies/terms-of-use",
+          "urls": [
+            {
+              "url": "https://www.who.int/redirect-pages/footer/who-policies/terms-of-use",
+              "anchor_text": "Terms of use"
+            }
+          ]
+        },
+        {
+          "text": "Frequently asked questions",
+          "url": "https://www.who.int/redirect-pages/footer/about-us/frequently-asked-questions",
+          "urls": [
+            {
+              "url": "https://www.who.int/redirect-pages/footer/about-us/frequently-asked-questions",
+              "anchor_text": "Frequently asked questions"
+            }
+          ]
+        },
+        {
+          "text": "Contact us",
+          "url": "https://www.who.int/about/contact-us",
+          "urls": [
+            {
+              "url": "https://www.who.int/about/contact-us",
+              "anchor_text": "Contact us"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Key facts",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Heat is an important environmental and occupational health hazard. Heat stress is a leading cause of weather-related deaths and can exacerbate underlying illnesses including cardiovascular disease, diabetes, mental health, asthma, and can increase the risk of accidents and transmission of some infectious diseases. Heatstroke is a medical emergency with a high-case fatality rate.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The number of people exposed to extreme heat is growing exponentially due to climate change in all world regions. Heat-related mortality for people over 65 years of age increased by approximately 85% between 2000–2004 and 2017–2021 (1).",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Between 2000–2019 studies show approximately 489 000 heat-related deaths occur each year, with 45% of these in Asia and 36% in Europe (2). In Europe alone in the summer of 2022, an estimated 61 672 heat-related excess deaths occurred (3). High intensity heatwave events can bring high acute mortality; in 2003, 70 000 people in Europe died as a result of the June–August event. In 2010, 56 000 excess deaths occurred during a 44–day heatwave in the Russian Federation.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Vulnerability to heat is shaped by both physiological factors, such as age and health status, and exposure factors such as occupation and socio-economic conditions.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The negative health impacts of heat are predictable and largely preventable with specific public health and multi-sectoral policies and interventions. WHO has issued guidance for public health institutions to identify and manage extreme heat risks. Action on climate change combined with comprehensive preparedness and risk management can save lives now and in the future.",
+            "url": "https://www.who.int/publications/i/item/9789289071918",
+            "urls": [
+              {
+                "url": "https://www.who.int/publications/i/item/9789289071918",
+                "anchor_text": "guidance for public health institutions"
+              },
+              {
+                "url": "https://iris.paho.org/handle/10665.2/54979",
+                "anchor_text": "manage"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Overview",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "A heatwave is a period where local excess heat accumulates over a sequence of unusually hot days and nights. Heatwaves and prolonged excess heat conditions are increasing in frequency, duration, intensity and magnitude due to climate change. Even low and moderate intensity heat waves can impact the health and well-being of vulnerable populations.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The frequency and intensity of extreme heat and heat waves will continue to rise in the 21st century because of climate change. Extended periods of high day and nighttime temperature conditions create cumulative stress on the human body, increasing the risk of illness and death from heat exposure. Heatwaves can acutely impact large populations for short periods of time, often trigger public health emergencies, and result in excess mortality and cascading socioeconomic impacts (for example, lost work capacity and labour productivity). They can also cause loss of health service delivery capacity, when power shortages accompany heatwaves and disrupt health facilities, transport and water infrastructure.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Population ageing and the growing prevalence of non-communicable diseases (respiratory and cardiovascular diseases, diabetes, dementia, renal disease and musculoskeletal disease) means that populations are becoming more susceptible to negative heat impacts. Cities are not being designed to minimize the accumulation and generation of urban heat, with a loss of greenspace and inappropriate housing materials (for example, metal roofs) that amplify human exposure to excess heat.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Awareness among health workers and the public remains insufficient of the health risks posed by heat. Health professionals should adjust their guidance, planning and interventions to account for increasing heat exposures, as well as to manage acute increases in admissions associated with heatwaves. Practical, feasible and often low-cost interventions at the individual, community, organizational, governmental and societal levels can save lives.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Who is affected?",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Many populations in tropical and subtropical climates are chronically exposed to high temperatures. In mid to high latitudes, population exposure excess heat is seasonal.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Individual vulnerability to heat for physiological or clinical factors in adults is well described (4). Heat can affect health through a variety of direct and indirect mechanisms. There is limited research on the impact of chronic (sustained) exposure to high temperatures and humidity.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Outdoor and manual workers, athletes and civil protection employees are exposed to excess heat because of their work and susceptible to exertional heat stress.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Urban and rural poor are often disproportionately exposed to overheating due to low quality housing and lack of access to cooling. Due to building materials, informal settlements are often hotter than other urban areas in some cities. Gender can play an important role in determining heat exposure, for example where women are primarily responsible for cooking indoors during hot weather.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Infographic: Main heat vulnerability factors",
+            "url": "https://www.who.int/multi-media/details/main-heat-vulnerability-factors",
+            "urls": [
+              {
+                "url": "https://www.who.int/multi-media/details/main-heat-vulnerability-factors",
+                "anchor_text": "Infographic: Main heat vulnerability factors"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "How does heat impact health?",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The amount of heat stored in the human body is determined by a combination of (a) an inability to eliminate internally generated heat from metabolic processes due to environmental heat stress (for example, high temperature, high humidity, low wind, high thermal radiation), (b) clothing creating a barrier to heat loss, (c) external heat gain from the environment.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The body’s inability to regulate internal temperature and eliminate heat gain in such conditions increases the risk of heat exhaustion and heatstroke. The strain put on the body as it tries to cool itself also stresses the heart and kidneys. As a result, heat extremes can worsen health risks from chronic conditions (cardiovascular, mental, respiratory and diabetes related conditions) and cause acute kidney injury.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Deaths and hospitalizations triggered by extreme hot weather occur rapidly (same day and following days), which means interventions also need to be rapid when a heat alert is issued.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Heat can also disrupt and compromise essential health services, such as the loss of power supply and transport. Heat will reduce working productivity and increases the risk of accidents. It is difficult to complete work or learning in very hot weather and heatwaves may lead schools and other institutions to close. Heatwaves can also be associated with hazardous air pollution events.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The scale and nature of the health impacts of heat depend on the timing, intensity and duration of a heat event, and the level of acclimatization and adaptability of the local population, infrastructure and institutions to the prevailing climate.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Infographic: Scale and nature of the health impacts of heat",
+            "url": "https://www.who.int/multi-media/details/scale-and-nature-of-the-health-impacts-of-heat",
+            "urls": [
+              {
+                "url": "https://www.who.int/multi-media/details/scale-and-nature-of-the-health-impacts-of-heat",
+                "anchor_text": "Infographic: Scale and nature of the health impacts of heat"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Stay out of the heat",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Avoid going outside and doing strenuous activity during the hottest time of day.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Stay in the shade. Remember that perceived temperatures in the sun can be 10–15˚C higher.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Spend 2–3 hours during the day in a cool place.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Be aware of the risk of drowning. Never swim alone.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Stay informed about official heat warnings.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Keep your home cool",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Use the night air to cool down your home by opening windows after dark when the outdoor temperature is lower than the indoor temperature.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During the day when outdoor temperatures are higher than indoors, close windows and cover them with blinds or shutters to block direct sunlight. Turn off as many electrical devices as possible.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Use electric fans only when temperatures are below 40˚C / 104˚F. In temperatures above 40˚C / 104˚F, fans will heat the body.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If using air conditioning, set the thermostat to 27˚C / 81˚F and turn on an electric fan – this will make the room feel 4˚C cooler. It can also save up to 70% on your electricity bill for cooling.",
+            "url": "https://ghhin.org/keep-cool/",
+            "urls": [
+              {
+                "url": "https://ghhin.org/keep-cool/",
+                "anchor_text": "this will make the room feel 4˚C cooler"
+              }
+            ]
+          },
+          {
+            "text": "Remember that it may be cooler outdoors in the shade.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Keep your body cool and hydrated",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Use light and loose-fitting clothing and bed linens.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Take cool showers or baths.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wet your skin using a damp cloth, spray, or wet light clothing.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Drink water regularly (1 cup of water per hour and at least 2–3 litres per day).",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Regularly check in with vulnerable people in your circle – especially people over 65 years old and those with heart, lung or kidney conditions, a disability, and living alone.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Protect infants and children",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Never leave children or animals in parked vehicles for any amount of time, as temperatures can quickly become dangerously high.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Avoid direct exposure to the sun during peak hours, seeking shade or staying indoors instead. Shade can reduce how hot you feel by more than 10 °C.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dress children in lightweight, loose-fitting clothing that covers their skin, and use wide-brimmed hats, sunglasses and sunscreen to protect them from the sun’s rays.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Follow the guidance on keeping your home cool to maintain a safe indoor temperature.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Never cover an infant stroller / pram with dry fabric – this makes it hotter inside the carriage. Instead, use a wet, thin cloth and re-wet as necessary to lower the temperature. Combine with a portable fan for even greater cooling.",
+            "url": "https://ghhin.org/news/covering-an-infant-stroller-in-hot-weather-heres-what-you-need-to-know/",
+            "urls": [
+              {
+                "url": "https://ghhin.org/news/covering-an-infant-stroller-in-hot-weather-heres-what-you-need-to-know/",
+                "anchor_text": "Never cover an infant stroller / pram with dry fabric – this makes it hotter inside the carriage"
+              }
+            ]
+          },
+          {
+            "text": "Download: Signs of heat stroke",
+            "url": "https://cdn.who.int/media/docs/default-source/environment-climate-change-and-health/signs-of-heat-stroke.pdf?sfvrsn=96800ae4_5",
+            "urls": [
+              {
+                "url": "https://cdn.who.int/media/docs/default-source/environment-climate-change-and-health/signs-of-heat-stroke.pdf?sfvrsn=96800ae4_5",
+                "anchor_text": "Download: Signs of heat stroke"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "WHO response",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Mitigating climate change by reducing greenhouse gas emissions is imperative and urgent to limit the magnitude of human costs from extreme heat. WHO is addressing climate change through the Alliance for Transformational Change in Climate and Health (ATACH), as well as country support of technical and policy resources to help the health sector and communities adapt to the risks of climate change.",
+            "url": "https://www.who.int/initiatives/alliance-for-transformative-action-on-climate-and-health",
+            "urls": [
+              {
+                "url": "https://www.who.int/initiatives/alliance-for-transformative-action-on-climate-and-health",
+                "anchor_text": "Alliance for Transformational Change in Climate and Health (ATACH)"
+              }
+            ]
+          },
+          {
+            "text": "WHO works with the health sector to strengthen governance, preparedness and response to acute impacts of heatwaves by developing heat action plans, heat early warning systems and advisories, and emergency response plans that map the risks, vulnerable populations, available capacities and resources. These plans protect high risk populations such as those in health facilities, nursing homes and schools which do not have access to cooling.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "WHO co-sponsors the Global Heat Health Information Network to accelerate sharing and learning about the risks and solutions to address extreme heat. WHO partners closely with the World Meteorological Organization on the development of Heat Health Warning Systems.",
+            "url": "https://www.ghhin.org/",
+            "urls": [
+              {
+                "url": "https://www.ghhin.org/",
+                "anchor_text": "Global Heat Health Information Network"
+              }
+            ]
+          },
+          {
+            "text": "Aligned with World Health Assembly resolution WHA77.12, WHO’s initiative “ Beat the Heat ” aims to protect the health and safety of workers, spectators, and communities by addressing rising risks from extreme heat, air pollution, and UV exposure at workplaces, sporting and other mass gatherings events.",
+            "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA77/A77_R12-en.pdf",
+            "urls": [
+              {
+                "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA77/A77_R12-en.pdf",
+                "anchor_text": "WHA77.12"
+              },
+              {
+                "url": "https://www.who.int/initiatives/initiative-against-extreme-heat-and-health-risks-in-workplaces-and-major-events",
+                "anchor_text": "Beat the Heat"
+              }
+            ]
+          },
+          {
+            "text": "Lancet Countdown: Heat-related Mortality. 2023. https://lancetcountdown.org/explore-our-data/",
+            "url": "https://lancetcountdown.org/explore-our-data/",
+            "urls": [
+              {
+                "url": "https://lancetcountdown.org/explore-our-data/",
+                "anchor_text": "https://lancetcountdown.org/explore-our-data/"
+              }
+            ]
+          },
+          {
+            "text": "Zhao et al, 2021 Global, regional, and national burden of mortality associated with non-optimal ambient temperatures from 2000 to 2019: a three-stage modelling study https://pubmed.ncbi.nlm.nih.gov/34245712/",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34245712/",
+            "urls": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34245712/",
+                "anchor_text": "https://pubmed.ncbi.nlm.nih.gov/34245712/"
+              }
+            ]
+          },
+          {
+            "text": "Heat-related mortality in Europe during the summer of 2022 https://www.nature.com/articles/s41591-023-02419-z",
+            "url": "https://www.nature.com/articles/s41591-023-02419-z",
+            "urls": [
+              {
+                "url": "https://www.nature.com/articles/s41591-023-02419-z",
+                "anchor_text": "https://www.nature.com/articles/s41591-023-02419-z"
+              }
+            ]
+          },
+          {
+            "text": "Hot weather and heat extremes: health risks. The Lancet. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01208-3/fulltext",
+            "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01208-3/fulltext",
+            "urls": [
+              {
+                "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01208-3/fulltext",
+                "anchor_text": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01208-3/fulltext"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Heat and health",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Signs of heat stroke",
+            "url": "https://cdn.who.int/media/docs/default-source/environment-climate-change-and-health/signs-of-heat-stroke.pdf?sfvrsn=96800ae4_5",
+            "urls": [
+              {
+                "url": "https://cdn.who.int/media/docs/default-source/environment-climate-change-and-health/signs-of-heat-stroke.pdf?sfvrsn=96800ae4_5",
+                "anchor_text": "Signs of heat stroke"
+              }
+            ]
+          },
+          {
+            "text": "WHO's work on heatwaves",
+            "url": "https://www.who.int/health-topics/heatwaves",
+            "urls": [
+              {
+                "url": "https://www.who.int/health-topics/heatwaves",
+                "anchor_text": "WHO's work on heatwaves"
+              }
+            ]
+          },
+          {
+            "text": "Global Heat Health Information Network",
+            "url": "http://www.heathealth.info/",
+            "urls": [
+              {
+                "url": "http://www.heathealth.info/",
+                "anchor_text": "Global Heat Health Information Network"
+              }
+            ]
+          },
+          {
+            "text": "WHO's work on climate change",
+            "url": "https://www.who.int/health-topics/climate-change",
+            "urls": [
+              {
+                "url": "https://www.who.int/health-topics/climate-change",
+                "anchor_text": "WHO's work on climate change"
+              }
+            ]
+          },
+          {
+            "text": "World Meteorological Organization: Heatwave",
+            "url": "https://wmo.int/topics/heatwave",
+            "urls": [
+              {
+                "url": "https://wmo.int/topics/heatwave",
+                "anchor_text": "World Meteorological Organization: Heatwave"
+              }
+            ]
+          },
+          {
+            "text": "Initiative against extreme heat and related environmental health risks in workplaces and major events",
+            "url": "https://www.who.int/initiatives/initiative-against-extreme-heat-and-health-risks-in-workplaces-and-major-events",
+            "urls": [
+              {
+                "url": "https://www.who.int/initiatives/initiative-against-extreme-heat-and-health-risks-in-workplaces-and-major-events",
+                "anchor_text": "Initiative against extreme heat and related environmental health risks in workplaces and major events"
+              }
+            ]
+          },
+          {
+            "text": "Preparing for warm and dry summers",
+            "url": "https://www.who.int/europe/news/item/17-05-2022-climate-change-is-increasing-the-risk-of-heatwaves--preparing-for-a-warm-and-dry-summer-in-the-european-region",
+            "urls": [
+              {
+                "url": "https://www.who.int/europe/news/item/17-05-2022-climate-change-is-increasing-the-risk-of-heatwaves--preparing-for-a-warm-and-dry-summer-in-the-european-region",
+                "anchor_text": "Preparing for warm and dry summers"
+              }
+            ]
+          },
+          {
+            "text": "Evidence for effective protection",
+            "url": "https://www.who.int/europe/publications/i/item/9789289055406",
+            "urls": [
+              {
+                "url": "https://www.who.int/europe/publications/i/item/9789289055406",
+                "anchor_text": "Evidence for effective protection"
+              }
+            ]
+          },
+          {
+            "text": "#KeepCool videos",
+            "url": "https://www.youtube.com/watch?v=Q2N4vVf5DFE&list=PLL4_zLP7J_mjqWnqvIUSnQ13NcSuSDgU3",
+            "urls": [
+              {
+                "url": "https://www.youtube.com/watch?v=Q2N4vVf5DFE&list=PLL4_zLP7J_mjqWnqvIUSnQ13NcSuSDgU3",
+                "anchor_text": "#KeepCool videos"
+              }
+            ]
+          },
+          {
+            "text": "WHO’s “Beat the Heat” initiative making strides to protect workers and event participants from extreme heat and related environmental hazards 12 June 2025",
+            "url": "https://www.who.int/news/item/12-06-2025-who-s--beat-the-heat--initiative-making-strides-to-protect-workers-and-event-participants-from-extreme-heat-and-related-environmental-hazards",
+            "urls": [
+              {
+                "url": "https://www.who.int/news/item/12-06-2025-who-s--beat-the-heat--initiative-making-strides-to-protect-workers-and-event-participants-from-extreme-heat-and-related-environmental-hazards",
+                "anchor_text": "WHO’s “Beat the Heat” initiative making strides to protect workers and event participants from extreme heat and related environmental hazards\n12 June 2025"
+              }
+            ]
+          },
+          {
+            "text": "Fact sheets",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "What actions should the public take?",
+        "main_title": "Heat and health",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

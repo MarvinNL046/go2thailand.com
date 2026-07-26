@@ -2,6 +2,7 @@ import type { ClimateUpdateGuideData } from '../types';
 
 export const elNinoThailand2026Guide: ClimateUpdateGuideData = {
   slug: 'el-nino-2026-thailand-weather-heatwave-travel-tips',
+  locale: 'nl',
   pageTitle: 'El Niño 2026 in Thailand: weer, hitte & reistips',
   pageDescription: 'El Niño heeft zich in 2026 ontwikkeld. Lees wat dat wel en niet betekent voor je Thailand-reis, met actuele bronstatus, regiokeuze en een praktisch hitte- en regenplan.',
   pageUrl: 'https://go2-thailand.com/nl/blog/el-nino-2026-thailand-weather-heatwave-travel-tips/',

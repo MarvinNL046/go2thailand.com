@@ -37,6 +37,7 @@ import TripFunnelBlock from '../../components/blog/TripFunnelBlock';
 import BookingHeroCTA from '../../components/BookingHeroCTA';
 import { useSubId } from '../../lib/useSubId';
 import { ClimateUpdateGuideTemplate } from '../../components/blog/ClimateUpdateGuideTemplate';
+import { getEnClimateUpdateGuide } from '../../data/climate/en';
 import { getNlClimateUpdateGuide } from '../../data/climate/nl';
 import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
 import { ThaiCurryGuideEn } from '../../components/food/ThaiCurryGuideEn';
@@ -191,10 +192,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
     };
   }, []);
 
-  const nlClimateGuide = locale === 'nl' ? getNlClimateUpdateGuide(post.slug) : undefined;
+  const climateGuide = locale === 'nl' ? getNlClimateUpdateGuide(post.slug) : getEnClimateUpdateGuide(post.slug);
 
-  if (nlClimateGuide) {
-    return <ClimateUpdateGuideTemplate data={nlClimateGuide} />;
+  if (climateGuide) {
+    return <ClimateUpdateGuideTemplate data={climateGuide} />;
   }
 
   if (locale === 'nl' && post.slug === 'thai-curry-guide-green-red-yellow-massaman-panang') {

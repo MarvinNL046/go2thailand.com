@@ -4,6 +4,7 @@ export type ClimateGuideIcon = 'cloud' | 'heat' | 'map' | 'rain' | 'shield' | 's
 
 export interface ClimateUpdateGuideData {
   slug: string;
+  locale: 'nl' | 'en';
   pageTitle: string;
   pageDescription: string;
   pageUrl: string;
