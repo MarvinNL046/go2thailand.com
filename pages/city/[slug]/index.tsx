@@ -47,6 +47,7 @@ import { PattayaDestinationOverview } from '../../../components/city/PattayaDest
 import { TratDestinationOverview } from '../../../components/city/TratDestinationOverview';
 import { RayongDestinationOverview } from '../../../components/city/RayongDestinationOverview';
 import { SuratThaniDestinationOverview } from '../../../components/city/SuratThaniDestinationOverview';
+import { ChumphonDestinationOverview } from '../../../components/city/ChumphonDestinationOverview';
 import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
 import { getEnDestinationGuide } from '../../../data/destinations/en';
 import { getNlDestinationGuide } from '../../../data/destinations/nl';
@@ -377,7 +378,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const isTratEn = city.slug === 'trat' && locale !== 'nl';
   const isRayongEn = city.slug === 'rayong' && locale !== 'nl';
   const isSuratThaniEn = city.slug === 'surat-thani' && locale !== 'nl';
-  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn || isTratEn || isRayongEn || isSuratThaniEn;
+  const isChumphonEn = city.slug === 'chumphon' && locale !== 'nl';
+  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn || isTratEn || isRayongEn || isSuratThaniEn || isChumphonEn;
   const localizedCityName = locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en;
   const pageUrl = `https://go2-thailand.com${locale === 'nl' ? '/nl' : ''}/city/${city.slug}/`;
   const destinationDescription = city.slug === 'krabi' && locale === 'nl'
@@ -410,6 +412,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       ? 'Rayong is both a provincial city and a long mainland coast east of Bangkok. Two nights covers Yomjinda, Khao Laem Ya and Mae Ramphueng; use a third day for one deliberate fruit, mangrove or Koh Samet extension.'
     : isSuratThaniEn
       ? 'Surat Thani is a southern river city and the capital of a province containing famous Gulf islands. One night reveals the old town and food scene; two nights adds a canal route before one separately planned onward chapter.'
+    : isChumphonEn
+      ? 'Chumphon is a southern mainland city and long Gulf coast with a distinct town, beaches, marine park and Koh Tao ferry role. Two nights balances town and coast; a third day belongs to one sea chapter.'
     : locale === 'nl'
       ? (city.description.nl || city.overview || city.description.en)
       : (city.overview || city.description.en);
@@ -444,9 +448,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
         ? '/images/redesign/rayong-destination-hero.webp'
       : isSuratThaniEn
         ? '/images/redesign/surat-thani-destination-hero.webp'
+      : isChumphonEn
+        ? '/images/redesign/chumphon-destination-hero.webp'
         : city.image,
   );
-  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn || isTratEn || isRayongEn || isSuratThaniEn ? 10 : 6);
+  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn || isTratEn || isRayongEn || isSuratThaniEn || isChumphonEn ? 10 : 6);
 
   const metadata = {
     ...baseMetadata,
@@ -593,15 +599,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       <div className="bg-surface-cream min-h-screen">
         <CityDestinationHero
           activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-hero-activities')}
-          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn || isAyutthayaEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn || isSuratThaniEn ? 'Nov – Feb' : isTratEn || isRayongEn ? 'Nov – Apr' : isPhuketEn ? 'Nov – Mar' : isKohSamuiEn ? 'Jan – Aug' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
+          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn || isAyutthayaEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn || isPaiEn || isHuaHinEn || isPattayaEn || isSuratThaniEn || isChumphonEn ? 'Nov – Feb' : isTratEn || isRayongEn ? 'Nov – Apr' : isPhuketEn ? 'Nov – Mar' : isKohSamuiEn ? 'Jan – Aug' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           description={introSnippet}
-          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : isPhuketEn ? '/images/redesign/phuket-destination-hero-v2.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-destination-hero.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-destination-hero.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-destination-hero.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-destination-hero.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-destination-hero.webp' : isPaiEn ? '/images/redesign/pai-destination-hero.webp' : isHuaHinEn ? '/images/redesign/hua-hin-destination-hero.webp' : isPattayaEn ? '/images/redesign/pattaya-destination-hero.webp' : isTratEn ? '/images/redesign/trat-destination-hero.webp' : isRayongEn ? '/images/redesign/rayong-destination-hero.webp' : isSuratThaniEn ? '/images/redesign/surat-thani-destination-hero.webp' : getCityImageForSection(city, 'hero')}
+          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : isPhuketEn ? '/images/redesign/phuket-destination-hero-v2.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-destination-hero.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-destination-hero.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-destination-hero.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-destination-hero.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-destination-hero.webp' : isPaiEn ? '/images/redesign/pai-destination-hero.webp' : isHuaHinEn ? '/images/redesign/hua-hin-destination-hero.webp' : isPattayaEn ? '/images/redesign/pattaya-destination-hero.webp' : isTratEn ? '/images/redesign/trat-destination-hero.webp' : isRayongEn ? '/images/redesign/rayong-destination-hero.webp' : isSuratThaniEn ? '/images/redesign/surat-thani-destination-hero.webp' : isChumphonEn ? '/images/redesign/chumphon-destination-hero.webp' : getCityImageForSection(city, 'hero')}
           hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-hero-hotels')}
-          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : isPhuketEn ? 'Kata / Karon' : isAyutthayaEn ? 'Historical island' : isKohSamuiEn ? 'Chaweng / Lamai / Bophut' : isChiangRaiEn ? 'Clock tower / Night bazaar' : isKanchanaburiEn ? 'Town first / river second' : isSukhothaiEn ? 'Mueang Kao / old city' : isPaiEn ? 'Town centre / river edge' : isHuaHinEn ? 'Centre / Nong Kae / Khao Takiab' : isPattayaEn ? 'Central / Naklua / Jomtien' : isTratEn ? 'Old town / Laem Ngop / island pier' : isRayongEn ? 'City / Mae Ramphueng / Ban Phe' : isSuratThaniEn ? 'Old town / riverfront / night market' : (city.tags || []).slice(0, 2).join(' & ')}
+          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : isPhuketEn ? 'Kata / Karon' : isAyutthayaEn ? 'Historical island' : isKohSamuiEn ? 'Chaweng / Lamai / Bophut' : isChiangRaiEn ? 'Clock tower / Night bazaar' : isKanchanaburiEn ? 'Town first / river second' : isSukhothaiEn ? 'Mueang Kao / old city' : isPaiEn ? 'Town centre / river edge' : isHuaHinEn ? 'Centre / Nong Kae / Khao Takiab' : isPattayaEn ? 'Central / Naklua / Jomtien' : isTratEn ? 'Old town / Laem Ngop / island pier' : isRayongEn ? 'City / Mae Ramphueng / Ban Phe' : isSuratThaniEn ? 'Old town / riverfront / night market' : isChumphonEn ? 'Town / Thung Wua Laen / Sairee' : (city.tags || []).slice(0, 2).join(' & ')}
           isNl={locale === 'nl'}
-          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : isPhuketEn || isKohSamuiEn ? '4 – 5 days' : isAyutthayaEn ? '1 – 2 days' : isTratEn || isSuratThaniEn ? '1 – 2 nights' : isRayongEn ? '2 – 3 days' : isChiangRaiEn || isKanchanaburiEn || isPaiEn || isHuaHinEn || isPattayaEn ? '2 – 3 days' : isSukhothaiEn ? '1 – 2 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
+          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : isPhuketEn || isKohSamuiEn ? '4 – 5 days' : isAyutthayaEn ? '1 – 2 days' : isTratEn || isSuratThaniEn ? '1 – 2 nights' : isRayongEn || isChumphonEn ? '2 – 3 days' : isChiangRaiEn || isKanchanaburiEn || isPaiEn || isHuaHinEn || isPattayaEn ? '2 – 3 days' : isSukhothaiEn ? '1 – 2 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
         />
 
 
@@ -609,7 +615,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           editorial={editorial || cityDescription}
-          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : isPhuketEn ? '/images/redesign/phuket-zones-banner.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-river-heritage.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-zones-banner.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-mountain-route.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-history-route-v2.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-cycling-central.webp' : isPaiEn ? '/images/redesign/pai-valley-riverside-v2.webp' : isHuaHinEn ? '/images/redesign/hua-hin-night-market-seafood.webp' : isPattayaEn ? '/images/redesign/pattaya-sanctuary-route.webp' : isTratEn ? '/images/redesign/trat-old-town.webp' : isRayongEn ? '/images/redesign/rayong-yomjinda-old-town.webp' : isSuratThaniEn ? '/images/redesign/surat-thani-old-town.webp' : getCityImageForSection(city, 'attractions')}
+          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : isPhuketEn ? '/images/redesign/phuket-zones-banner.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-river-heritage.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-zones-banner.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-mountain-route.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-history-route-v2.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-cycling-central.webp' : isPaiEn ? '/images/redesign/pai-valley-riverside-v2.webp' : isHuaHinEn ? '/images/redesign/hua-hin-night-market-seafood.webp' : isPattayaEn ? '/images/redesign/pattaya-sanctuary-route.webp' : isTratEn ? '/images/redesign/trat-old-town.webp' : isRayongEn ? '/images/redesign/rayong-yomjinda-old-town.webp' : isSuratThaniEn ? '/images/redesign/surat-thani-old-town.webp' : isChumphonEn ? '/images/redesign/chumphon-city-night-market.webp' : getCityImageForSection(city, 'attractions')}
           isNl={locale === 'nl'}
         />
 
@@ -917,6 +923,25 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-surat-thani-planner-activities')}
               transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-surat-thani-planner-transport')}
               esimHref={trackAffiliate(SAILY_GENERIC, 'city-surat-thani-planner-esim')}
+              isNl={false}
+            />
+          </>
+        )}
+
+        {isChumphonEn && (
+          <>
+            <ChumphonDestinationOverview
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-chumphon-experiences')}
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-chumphon-hotels')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-chumphon-transport')}
+            />
+            <CityFaqOverview faq={city.faq || []} isNl={false} limit={10} />
+            <CityBookingPlanner
+              cityName="Chumphon"
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-chumphon-planner-hotels')}
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-chumphon-planner-activities')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-chumphon-planner-transport')}
+              esimHref={trackAffiliate(SAILY_GENERIC, 'city-chumphon-planner-esim')}
               isNl={false}
             />
           </>

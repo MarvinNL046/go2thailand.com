@@ -33,7 +33,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
   const isTrat = citySlug === 'trat' && !isNl;
   const isRayong = citySlug === 'rayong' && !isNl;
   const isSuratThani = citySlug === 'surat-thani' && !isNl;
-  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat || isRayong || isSuratThani;
+  const isChumphon = citySlug === 'chumphon' && !isNl;
+  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat || isRayong || isSuratThani || isChumphon;
   const subtitle = isKrabi
     ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
     : isBangkok
@@ -64,6 +65,8 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'A real mainland coast, an old-town evening and one deliberate island or mangrove extension.'
     : isSuratThani
       ? 'A southern river city, serious food and one onward island, jungle or heritage chapter.'
+    : isChumphon
+      ? 'A quiet mainland coast, a real provincial evening and one deliberate sea chapter.'
       : description;
   const directAnswer = isKrabi
     ? isNl
@@ -97,14 +100,16 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'Where is Rayong in Thailand? Rayong is a provincial city and a long mainland coast east of Bangkok, while Koh Samet is a separate island in the same province. Two nights covers Yomjinda, Khao Laem Ya and Mae Ramphueng; use a third day for one fruit, mangrove or island extension.'
     : isSuratThani
       ? 'Where is Surat Thani in Thailand? Surat Thani is a southern river city and the capital of a province that also contains Koh Samui, Koh Phangan and Koh Tao. One night reveals the old town and food scene; two nights adds a canal route before a separately planned island, Khao Sok or Chaiya chapter.'
+    : isChumphon
+      ? 'Where is Chumphon in Thailand? Chumphon is a southern mainland province and city on the Gulf of Thailand, with a long coast, Mu Ko Chumphon National Park and ferry connections to Koh Tao. Two nights gives town and the mainland coast their own shape; add a third day for one weather-dependent sea chapter.'
       : '';
-  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isTrat || isRayong ? 'Eastern Thailand' : isBangkok || isAyutthaya || isKanchanaburi || isHuaHin || isPattaya ? 'Central Thailand' : isChiangMai || isChiangRai || isSukhothai || isPai ? 'Northern Thailand' : isPhuket || isKohSamui || isSuratThani ? 'Southern Thailand' : 'Thailand';
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isTrat || isRayong ? 'Eastern Thailand' : isBangkok || isAyutthaya || isKanchanaburi || isHuaHin || isPattaya ? 'Central Thailand' : isChiangMai || isChiangRai || isSukhothai || isPai ? 'Northern Thailand' : isPhuket || isKohSamui || isSuratThani || isChumphon ? 'Southern Thailand' : 'Thailand';
   const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
     { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
-    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat || isRayong || isSuratThani
+    isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat || isRayong || isSuratThani || isChumphon
       ? { href: ownerHref(`/city/${citySlug}/food/`), label: 'Food', icon: Utensils }
       : { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
     { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
@@ -167,7 +172,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
               </div>
               <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
                 <Palmtree size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat || isRayong || isSuratThani ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket || isAyutthaya || isKohSamui || isChiangRai || isKanchanaburi || isSukhothai || isPai || isHuaHin || isPattaya || isTrat || isRayong || isSuratThani || isChumphon ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
               </div>
               <div className="flex items-center gap-3 sm:pl-4">
                 <Clock3 size={18} className="shrink-0 text-jade/65" />

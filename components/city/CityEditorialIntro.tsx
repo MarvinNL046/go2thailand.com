@@ -25,6 +25,7 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
   const isTrat = citySlug === 'trat' && !isNl;
   const isRayong = citySlug === 'rayong' && !isNl;
   const isSuratThani = citySlug === 'surat-thani' && !isNl;
+  const isChumphon = citySlug === 'chumphon' && !isNl;
   const title = isKrabi
     ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
     : isBangkok
@@ -55,6 +56,8 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
       ? 'Rayong at a glance'
     : isSuratThani
       ? 'Surat Thani at a glance'
+    : isChumphon
+      ? 'Chumphon at a glance'
       : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
   const paragraphs = isKrabi
     ? isNl
@@ -136,13 +139,18 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
           'Surat Thani is both a southern river city and the capital of a very large province. The centre sits on the Tapi River and has an old-town, shrine and market layer of its own; Koh Samui, Koh Phangan, Koh Tao, Khao Sok and Don Sak are separate destinations or transport points beyond that city core.',
           'For a first visit, one night can combine the City Pillar Shrine, Talat Lang and market food. Two nights creates room for Bang Bai Mai and Khlong Roi Sai. Any island, Khao Sok or Chaiya continuation should begin as a new trip chapter with its own transfer checks.',
         ]
+    : isChumphon
+      ? [
+          'Chumphon is both a provincial city and a long Gulf-coast mainland destination. The railway-centred town, Thung Wua Laen beach, Sairee and Pak Nam coast, Mu Ko Chumphon National Park and ferry piers are separate planning points rather than one compact resort.',
+          'For a first visit, use one evening for town and food, then one full daylight route for the mainland coast. A marine-park trip returns to Chumphon, while Koh Tao begins a separate island stay; both depend on current sea and operator conditions.',
+        ]
       : [editorial].filter(Boolean);
 
   return (
     <section id="over-bestemming" className="section-divider-bottom scroll-mt-24 bg-[#fcfaf6]">
       <div className="container-custom grid items-center gap-8 py-12 lg:grid-cols-[0.72fr_1.55fr] lg:gap-14 lg:py-16">
         <div className="relative self-stretch lg:flex lg:flex-col lg:justify-center">
-          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi || isTrat || isSuratThani ? 'Start with the city and province' : isRayong ? 'Start with the city and mainland coast' : isSukhothai ? 'Start with the old-city structure' : isPai ? 'Start with the town and valley' : isHuaHin || isPattaya ? 'Start with the city and coast' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
+          <p className="eyebrow">{isKrabi ? (isNl ? 'Eerst even oriënteren' : 'Start with the essentials') : isBangkok ? 'Start with the city structure' : isChiangMai || isChiangRai || isKanchanaburi || isTrat || isSuratThani ? 'Start with the city and province' : isRayong || isChumphon ? 'Start with the city and mainland coast' : isSukhothai ? 'Start with the old-city structure' : isPai ? 'Start with the town and valley' : isHuaHin || isPattaya ? 'Start with the city and coast' : isPhuket || isKohSamui ? 'Start with the island structure' : isAyutthaya ? 'Start with the historical layers' : (isNl ? 'Ontdek de bestemming' : 'Discover the destination')}</p>
           <h2 className="font-display text-[3.1rem] font-semibold leading-[0.9] tracking-[-0.035em] text-jade sm:text-[3.7rem]">{title}</h2>
           <div className="mt-6 max-w-[31rem] space-y-4 text-sm leading-7 text-charcoal/62">
             {paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}

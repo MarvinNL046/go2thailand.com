@@ -1,0 +1,898 @@
+{
+  "captured_at": "2026-07-26T23:21:57.193Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "chumphon thailand",
+  "costs": {
+    "suggestions": 0.01644,
+    "related": 0.01488,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "chumphon thailand",
+    "chumphon in thailand",
+    "chumphon province thailand",
+    "thailand chumphon",
+    "hotel in chumphon thailand",
+    "hotels in chumphon thailand",
+    "chumphon beach",
+    "chumphon thailand beaches",
+    "chumphon thailand nightlife",
+    "chumphon thailand weather",
+    "things to do in chumphon",
+    "things to do in chumphon thailand",
+    "accommodation chumphon thailand",
+    "best area to stay in chumphon",
+    "cabana beach chumphon thailand",
+    "chumphon city thailand",
+    "chumphon national park thailand",
+    "chumphon thailand hotels",
+    "chumphon thailand real estate"
+  ],
+  "keywords": [
+    {
+      "keyword": "chumphon in thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon province thailand",
+      "volume": 1300,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand chumphon",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon to koh tao",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to bangkok",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to koh tao ferry",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to bangkok train",
+      "volume": 40,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to koh samui",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel in chumphon thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in chumphon thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon beach",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon nightlife",
+      "volume": 30,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand beaches",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand weather",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in chumphon",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in chumphon thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "accommodation chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ban ko tao chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best area to stay in chumphon",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cabana beach chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cabana beach thailand chumphon",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cabana chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon buri surin thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon cabana beach resort thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon city thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon fishing resort thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon national park thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand hotels",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand real estate",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand to koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon to bangkok bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to bangkok distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to bangkok sleeper train",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to koh tao distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to koh tao ferry cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to koh tao ferry time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to koh tao ferry timetable",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to koh tao speed boat",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon to phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lamae chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "land for sale chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife chumphon thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sawi chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wetter chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand sehenswürdigkeiten",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand tourism",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 395.2
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 210.6
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 126.49
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 85.67
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 60.97
+    },
+    {
+      "domain": "www.chumphon.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 43.94
+    },
+    {
+      "domain": "thailande-et-asie.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 33.28
+    },
+    {
+      "domain": "mapy.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 25.61
+    },
+    {
+      "domain": "thefittraveller.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 19.5
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 14.69
+    },
+    {
+      "domain": "www.jamiesphuketblog.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.83
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.67
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.28
+    },
+    {
+      "domain": "www.goodridestories.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.630000000000001
+    },
+    {
+      "domain": "thecoloursofthailand.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.59
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.29
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.5100000000000002
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.1199999999999997
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.9899999999999998
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "pattayacitytourcoltd.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "homeiswhereyourbagis.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.ticket2attraction.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.routeperfect.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.worldholidayvibes.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "evendo.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.thailand.org",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.minube.net",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "nashaplaneta.net",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "kids.kiddle.co",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.kayak.co.in",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.frommers.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "en.wiktionary.org",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "wtp.travel",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "visit-thailand.net",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.visit.guide",
+      "avgPosition": 55,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.evaneos.co.uk",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.kupi.com",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "news.cision.com",
+      "avgPosition": 59,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.youknowthailand.com",
+      "avgPosition": 61,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "www.expedia.co.th",
+      "avgPosition": 62,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    },
+    {
+      "domain": "mrdefinite.wordpress.com",
+      "avgPosition": 65,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.73
+    }
+  ]
+}
