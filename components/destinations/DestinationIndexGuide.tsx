@@ -33,6 +33,10 @@ const regionLabels: Record<string, string> = {
 
 const styleIcons = [Compass, Waves, Trees, Sparkles];
 
+function destinationHref(slug: string) {
+  return slug === 'koh-lanta' ? '/islands/koh-lanta/' : `/city/${slug}/`;
+}
+
 export default function DestinationIndexGuide({ cities }: DestinationIndexGuideProps) {
   const [region, setRegion] = useState('all');
   const [query, setQuery] = useState('');
@@ -66,7 +70,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
       '@type': 'ListItem',
       position: index + 1,
       name: destination.name,
-      url: `https://go2-thailand.com/nl/city/${destination.slug}/`,
+      url: `https://go2-thailand.com/nl${destinationHref(destination.slug)}`,
     })),
   };
   const collectionPageSchema = {
@@ -76,6 +80,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
     description: content.seo.description,
     url: 'https://go2-thailand.com/nl/city/',
     inLanguage: 'nl-NL',
+    dateModified: '2026-07-26',
     mainEntity: { '@id': 'https://go2-thailand.com/nl/city/#mooiste-plekken' },
   };
   const breadcrumbSchema = {
@@ -96,7 +101,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <section className="section-divider-bottom relative overflow-hidden bg-tonal pt-28 lg:min-h-[700px] lg:pt-20">
           <div aria-hidden="true" className="absolute inset-0 bg-[radial-gradient(circle_at_72%_12%,rgba(242,154,56,0.16),transparent_24%),linear-gradient(135deg,rgba(255,255,255,0.72),transparent_48%)]" />
           <div className="container-custom relative z-10 grid min-h-[620px] items-center gap-12 pb-16 lg:grid-cols-[0.85fr_1.15fr] lg:gap-16 lg:pb-12">
@@ -148,13 +153,13 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
           <div className="container-custom">
             <div className="grid gap-8 lg:grid-cols-[0.72fr_1.28fr] lg:items-end">
               <SectionHeading eyebrow="Eerst kiezen" title={<>Tien plekken.<br />Tien andere reizen.</>} description="Dit is geen objectieve ranglijst. Iedere plek staat hier omdat ze een duidelijk ander type reis mogelijk maakt. Let vooral op de keerzijde: die bepaalt vaak beter of een bestemming bij je past." />
-              <div className="rounded-2xl border border-jade/10 bg-tonal p-5 text-sm font-medium leading-6 text-charcoal/65"><strong className="text-jade">Snelle keuze:</strong> eerste keer? Combineer Bangkok, Chiang Mai en één kustbasis. Minder verplaatsen levert meestal meer reis op.</div>
+              <div className="rounded-2xl border border-jade/10 bg-tonal p-5 text-sm font-medium leading-6 text-charcoal/65"><strong className="text-jade">Snelle keuze:</strong> eerste keer? Combineer Bangkok, Chiang Mai en één kustbasis. Minder verplaatsen levert meestal meer reis op. <Link href="/weather/" className="font-extrabold text-jade underline decoration-saffron/45 underline-offset-4">Vergelijk daarna het weer per regio.</Link></div>
             </div>
 
             <div className="mt-12 grid gap-6 md:grid-cols-2">
               {content.featured.map((destination, index) => (
                 <article key={destination.slug} className="group grid overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-editorial-card sm:grid-cols-[0.9fr_1.1fr]">
-                  <Link href={`/city/${destination.slug}/`} className="relative min-h-[260px] overflow-hidden sm:min-h-full" aria-label={`Lees de gids voor ${destination.name}`}>
+                  <Link href={destinationHref(destination.slug)} className="relative min-h-[260px] overflow-hidden sm:min-h-full" aria-label={`Lees de gids voor ${destination.name}`}>
                     <Image src={destination.image} alt={destination.alt} fill sizes="(max-width: 768px) 100vw, 28vw" className="object-cover transition duration-700 group-hover:scale-[1.035]" />
                     <div className="absolute inset-0 bg-gradient-to-t from-jade/45 via-transparent to-transparent" />
                     <span className="absolute left-5 top-5 grid h-9 w-9 place-items-center rounded-full bg-white/90 text-xs font-extrabold text-jade shadow-sm">{String(index + 1).padStart(2, '0')}</span>
@@ -167,7 +172,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
                       <div className="flex gap-3"><Check size={15} className="mt-0.5 shrink-0 text-saffron-dark" /><div><dt className="font-extrabold text-jade">Past goed bij</dt><dd className="mt-0.5 text-charcoal/58">{destination.bestFor}</dd></div></div>
                       <div className="flex gap-3"><MapPin size={15} className="mt-0.5 shrink-0 text-saffron-dark" /><div><dt className="font-extrabold text-jade">Houd rekening met</dt><dd className="mt-0.5 text-charcoal/58">{destination.tradeoff}</dd></div></div>
                     </dl>
-                    <Link href={`/city/${destination.slug}/`} className="mt-6 inline-flex items-center gap-2 self-start text-xs font-extrabold text-jade">Bekijk {destination.name} <ArrowRight size={14} className="text-saffron transition group-hover:translate-x-1" /></Link>
+                    <Link href={destinationHref(destination.slug)} className="mt-6 inline-flex items-center gap-2 self-start text-xs font-extrabold text-jade">Bekijk {destination.name} <ArrowRight size={14} className="text-saffron transition group-hover:translate-x-1" /></Link>
                   </div>
                 </article>
               ))}
@@ -215,7 +220,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
             </div>
 
             <div className="mt-9 flex items-center justify-between text-[10px] font-extrabold uppercase tracking-[0.12em] text-charcoal/43"><span>{filteredCities.length} bestemmingen</span>{region !== 'all' ? <button type="button" onClick={() => setRegion('all')} className="text-saffron-dark">Wis regiofilter</button> : null}</div>
-            {visibleCities.length ? <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">{visibleCities.map((city) => <Link key={city.slug} href={`/city/${city.slug}/`} className="group overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-editorial-card"><div className="relative h-40 overflow-hidden"><Image src={city.image} alt={`${city.name.nl || city.name.en} in Thailand`} fill sizes="(max-width: 640px) 100vw, (max-width: 1280px) 33vw, 25vw" className="object-cover transition duration-500 group-hover:scale-[1.035]" /><div className="absolute inset-0 bg-gradient-to-t from-jade/55 via-transparent to-transparent" /><span className="absolute bottom-3 left-4 rounded-full bg-white/90 px-2.5 py-1 text-[9px] font-extrabold text-jade">{regionLabels[city.region] || city.region}</span></div><div className="flex items-center justify-between gap-4 p-4"><div><h3 className="font-display text-[1.55rem] font-semibold leading-none text-jade">{city.name.nl || city.name.en}</h3><p className="mt-1 text-[10px] text-charcoal/46">{city.province}</p></div><span className="grid h-9 w-9 shrink-0 place-items-center rounded-full border border-jade/10 text-saffron-dark transition group-hover:border-saffron/35 group-hover:bg-[#fff8ee]"><ArrowRight size={14} /></span></div></Link>)}</div> : <div className="mt-8 rounded-2xl border border-jade/10 bg-white p-10 text-center"><Map size={28} className="mx-auto text-jade/35" /><h3 className="mt-4 font-display text-2xl font-semibold text-jade">Geen bestemming gevonden</h3><p className="mt-2 text-sm text-charcoal/55">Probeer een andere schrijfwijze of wis je regiofilter.</p></div>}
+            {visibleCities.length ? <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">{visibleCities.map((city) => <Link key={city.slug} href={destinationHref(city.slug)} className="group overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-editorial-card"><div className="relative h-40 overflow-hidden"><Image src={city.image} alt={`${city.name.nl || city.name.en} in Thailand`} fill sizes="(max-width: 640px) 100vw, (max-width: 1280px) 33vw, 25vw" className="object-cover transition duration-500 group-hover:scale-[1.035]" /><div className="absolute inset-0 bg-gradient-to-t from-jade/55 via-transparent to-transparent" /><span className="absolute bottom-3 left-4 rounded-full bg-white/90 px-2.5 py-1 text-[9px] font-extrabold text-jade">{regionLabels[city.region] || city.region}</span></div><div className="flex items-center justify-between gap-4 p-4"><div><h3 className="font-display text-[1.55rem] font-semibold leading-none text-jade">{city.name.nl || city.name.en}</h3><p className="mt-1 text-[10px] text-charcoal/46">{city.province}</p></div><span className="grid h-9 w-9 shrink-0 place-items-center rounded-full border border-jade/10 text-saffron-dark transition group-hover:border-saffron/35 group-hover:bg-[#fff8ee]"><ArrowRight size={14} /></span></div></Link>)}</div> : <div className="mt-8 rounded-2xl border border-jade/10 bg-white p-10 text-center"><Map size={28} className="mx-auto text-jade/35" /><h3 className="mt-4 font-display text-2xl font-semibold text-jade">Geen bestemming gevonden</h3><p className="mt-2 text-sm text-charcoal/55">Probeer een andere schrijfwijze of wis je regiofilter.</p></div>}
             {!showAll && !query && region === 'all' && filteredCities.length > 12 ? <div className="mt-8 text-center"><button type="button" onClick={() => setShowAll(true)} className="btn-cream min-h-12 px-6 text-saffron-dark">Toon alle {filteredCities.length} bestemmingen <ArrowRight size={15} /></button></div> : null}
           </div>
         </section>
@@ -223,7 +228,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
         <FaqSplitSection eyebrow="Echte zoekvragen" title="Veelgestelde vragen over Thailand" description="Korte antwoorden op vragen die Nederlandse reizigers nu daadwerkelijk in Google stellen. Voor budget, veiligheid en seizoen linken we door naar de gids die dat onderwerp volledig bezit." items={[...content.faqs]} />
         <RelatedGuidesSection eyebrow="Maak er een reis van" title="Plan de volgende stap" guides={[...content.relatedGuides]} />
         <SourceMethodSection title="Hoe deze selectie is gemaakt" description="We combineren actuele Nederlandse zoekintentie met officiële bestemmingsinformatie en onze bestaande Thailand-datasets. De shortlist is redactioneel: praktisch reisfit weegt zwaarder dan alleen een mooi beeld." sources={[...content.sources]} />
-      </main>
+      </div>
     </>
   );
 }

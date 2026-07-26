@@ -133,7 +133,7 @@ export default function TransportHubGuide({ allRoutes, cities }: TransportHubGui
   };
   const collectionSchema = {
     '@context': 'https://schema.org', '@type': 'CollectionPage', name: content.seo.title,
-    description: content.seo.description, url: 'https://go2-thailand.com/nl/transport/', inLanguage: 'nl-NL',
+    description: content.seo.description, url: 'https://go2-thailand.com/nl/transport/', inLanguage: 'nl-NL', dateModified: '2026-07-26',
     mainEntity: { '@id': 'https://go2-thailand.com/nl/transport/#routes' },
   };
   const breadcrumbSchema = {
@@ -152,7 +152,7 @@ export default function TransportHubGuide({ allRoutes, cities }: TransportHubGui
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/blog/bangkok-chiang-mai-sleeper-train-guide-2026.webp"
           imageAlt="Nachttrein op het spoor tussen Bangkok en Chiang Mai"
@@ -260,7 +260,7 @@ export default function TransportHubGuide({ allRoutes, cities }: TransportHubGui
         ]} />
 
         <SourceMethodSection eyebrow="Bronnen & actualiteit" title="Hoe deze vervoersgids is opgebouwd" description="De zoekintentie, concurrenten en echte PAA-vragen zijn op 23 juli 2026 met DataForSEO voor Nederland vastgelegd. Voor treinreserveringen verwijzen we naar de officiële SRT-kanalen. Routeprijzen en dienstregelingen worden niet als vaste feiten in de tekst gezet." sources={[...content.sources]} />
-      </main>
+      </div>
     </>
   );
 }

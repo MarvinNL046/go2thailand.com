@@ -67,6 +67,7 @@ export default function ThailandExcursionsGuide() {
     description: content.seo.description,
     url: 'https://go2-thailand.com/nl/activities/',
     inLanguage: 'nl-NL',
+    dateModified: '2026-07-26',
     mainEntity: { '@id': 'https://go2-thailand.com/nl/activities/#ervaringen' },
   };
   const breadcrumbSchema = {
@@ -87,7 +88,7 @@ export default function ThailandExcursionsGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/blog/best-day-trips-from-bangkok.webp"
           imageAlt="Rivier, tempels en skyline van Bangkok bij zonsondergang"
@@ -255,7 +256,7 @@ export default function ThailandExcursionsGuide() {
         />
 
         <SourceMethodSection eyebrow="Onderzoek & transparantie" title="Hoe deze keuzehulp is gemaakt" description="De zoekintentie, concurrenten en letterlijke PAA-vragen zijn op 23 juli 2026 met DataForSEO voor Nederland vastgelegd. We gebruiken officiële bestemmingsinformatie voor context en tonen geen vaste productprijs of reviewscore zonder actuele productbron." sources={[...content.sources]} />
-      </main>
+      </div>
     </>
   );
 }
