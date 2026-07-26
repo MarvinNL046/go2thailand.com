@@ -239,7 +239,7 @@ export default function ThailandTravelGuide({ topCities, itineraryCount }: Trave
                   ? 'November tot april is ideaal voor het grootste deel van Thailand. Elke regio heeft zijn eigen weerpatronen — het zuiden is verdeeld in twee kusten met tegenovergestelde seizoenen.'
                   : 'November to April is ideal for most of Thailand. Each region has its own weather patterns — the south is split into two coasts with opposite seasons.'}
               </p>
-              <Link href="/thailand-index/best-time/" className="text-thailand-blue hover:underline font-semibold">
+              <Link href={isNl ? '/weather/' : '/thailand-index/best-time/'} className="text-thailand-blue hover:underline font-semibold">
                 {isNl ? 'Volledige maand-per-maand gids →' : 'Full month-by-month guide →'}
               </Link>
             </section>
@@ -281,7 +281,7 @@ export default function ThailandTravelGuide({ topCities, itineraryCount }: Trave
                   ? 'Sla de reisverzekering voor Thailand niet over. Privéziekenhuisrekeningen lopen snel op, en scooter-ongelukken zijn de nummer één oorzaak van toeristenclaims. We vergeleken twee goede opties — één voor korte trips, één voor digital nomads.'
                   : 'Do not skip travel insurance for Thailand. Private hospital bills add up fast, and scooter accidents are the number one cause of tourist claims. We compared two solid options — one for short trips, one for digital nomads.'}
               </p>
-              <Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline font-semibold">
+              <Link href="/travel-insurance/" className="text-thailand-blue hover:underline font-semibold">
                 {isNl ? 'Vergelijk reisverzekeringen voor Thailand →' : 'Compare travel insurance for Thailand →'}
               </Link>
             </section>

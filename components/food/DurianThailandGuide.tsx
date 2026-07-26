@@ -204,7 +204,7 @@ export function DurianThailandGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Thaise fruitverkoper opent durian in een boomgaard in Oost-Thailand"
@@ -480,7 +480,7 @@ export function DurianThailandGuide() {
           description="DFS bepaalde de Nederlandse zoekvragen, PAA en SERP-gaten. Seizoen, cultivar en BTS-regels zijn teruggebracht naar Thaise overheids-, ambassade-, TAT- en operatorbronnen. Oude bronprijzen en ongeverifieerde festivals of buffetten zijn niet overgenomen. Laatst gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

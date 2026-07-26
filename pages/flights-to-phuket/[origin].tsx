@@ -187,7 +187,7 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
           </div>
         </section>
 
-        <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Route in cijfers' : 'Route at a glance'}</h2>
@@ -283,7 +283,7 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
               <Link href="/best-hotels/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
                 {isNl ? 'Beste hotels in Phuket' : 'Best hotels in Phuket'}
               </Link>
-              <Link href="/where-to-stay/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
+              <Link href="/best-hotels/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
                 {isNl ? 'Waar verblijven (gebieden)' : 'Where to stay (areas)'}
               </Link>
               <Link href="/car-rental-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
@@ -300,7 +300,7 @@ export default function FlightFromOriginPage({ route, siblings, generic, lastUpd
               </a>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

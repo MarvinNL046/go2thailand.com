@@ -19,7 +19,7 @@ interface ESIMProvider {
   id: number;
   name: string;
   slug: string;
-  logo: string;
+  logo?: string;
   badge: string;
   bestFor: string;
   description: string;
@@ -374,13 +374,17 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
               {providers.map((provider) => (
                 <div key={provider.id} className="rounded-2xl bg-white shadow-md overflow-hidden">
                   <div className="p-6">
-                    <div className="relative h-9 w-32 mb-5">
-                      <Image
-                        src={provider.logo}
-                        alt={`${provider.name} logo`}
-                        fill
-                        className="object-contain object-left"
-                      />
+                    <div className="relative mb-5 flex h-9 w-32 items-center">
+                      {provider.logo ? (
+                        <Image
+                          src={provider.logo}
+                          alt={`${provider.name} logo`}
+                          fill
+                          className="object-contain object-left"
+                        />
+                      ) : (
+                        <span className="font-heading text-2xl font-bold tracking-tight text-thailand-blue" aria-label={`${provider.name} logo`}>{provider.name}</span>
+                      )}
                     </div>
                     <div className="inline-flex rounded-full bg-surface-cream px-3 py-1 text-sm font-medium text-gray-700 mb-4">
                       {provider.badge}
@@ -647,7 +651,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                   ),
                 },
                 {
-                  href: '/travel-insurance-thailand/',
+                  href: '/travel-insurance/',
                   title: t('Travel insurance guide', 'Reisverzekeringsgids'),
                   text: t(
                     'Medical and cancellation cover explained in a separate guide.',
@@ -694,7 +698,6 @@ export const getStaticProps: GetStaticProps = async () => {
       id: 1,
       name: 'Airalo',
       slug: 'airalo',
-      logo: '/images/esim/airalo-logo.png',
       badge: 'Best for light-to-medium trips',
       bestFor: 'Good fit if you want a familiar eSIM marketplace and several Thailand package sizes.',
       description:
@@ -727,7 +730,6 @@ export const getStaticProps: GetStaticProps = async () => {
       id: 2,
       name: 'Yesim',
       slug: 'yesim',
-      logo: '/images/esim/yesim-logo.png',
       badge: 'Best for unlimited options',
       bestFor: 'Worth a look if you want unlimited-plan choices or more app-led flexibility.',
       description:

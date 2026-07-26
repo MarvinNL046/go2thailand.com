@@ -1,5 +1,7 @@
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { useTranslation } from '../hooks/useTranslation';
+import { nlAttractionsOwner, nlCityOwner, normalizeNlInternalHref } from '../lib/nl-route-owners';
 
 interface CityExploreMoreProps {
   citySlug: string;
@@ -37,6 +39,8 @@ export default function CityExploreMore({
   hasCluster = false,
 }: CityExploreMoreProps) {
   const { t } = useTranslation('common');
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const isNichePage = nicheSubPages.some((p) => p.slug === currentPage);
 
   // Show core pages always; include niche pages only if current page is a niche one
@@ -45,8 +49,8 @@ export default function CityExploreMore({
 
   const clusterLinks = hasCluster
     ? [
-        { href: `/destinations/${citySlug}/`, icon: '🗺️', tKey: 'nav.destinationGuide' },
-        { href: `/things-to-do/${citySlug}/`, icon: '🎯', tKey: 'nav.thingsToDo' },
+        { href: isNl ? nlCityOwner(citySlug) : `/destinations/${citySlug}/`, icon: '🗺️', tKey: 'nav.destinationGuide' },
+        { href: isNl ? nlAttractionsOwner(citySlug) : `/things-to-do/${citySlug}/`, icon: '🎯', tKey: 'nav.thingsToDo' },
       ]
     : [];
 
@@ -75,7 +79,7 @@ export default function CityExploreMore({
         {pages.map((page) => (
           <Link
             key={page.slug}
-            href={`/city/${citySlug}/${page.slug}/`}
+            href={isNl ? normalizeNlInternalHref(`/city/${citySlug}/${page.slug}/`) : `/city/${citySlug}/${page.slug}/`}
             className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 flex items-center gap-3 hover:shadow-md hover:border-blue-200 transition-all duration-200"
           >
             <span className="text-2xl flex-shrink-0" role="img" aria-hidden="true">

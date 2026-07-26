@@ -161,7 +161,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
         />
       </SEOHead>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <p className="font-script text-thailand-gold mb-2">{isNl ? 'Klimaatgids' : 'Climate Guide'}</p>
@@ -558,7 +558,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               <p className="text-sm text-gray-600">{isNl ? 'Koop een eSIM voor Thailand' : 'Get an eSIM for Thailand'}</p>
             </Link>
             <Link
-              href="/travel-insurance-thailand/"
+              href="/travel-insurance/"
               className="bg-white text-thailand-blue rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block"
             >
               <div className="text-3xl mb-3"></div>
@@ -572,7 +572,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               : 'External links are affiliate links. We may earn a small commission at no extra cost to you.'}
           </p>
         </section>
-      </main>
+      </div>
     </div>
   );
 };

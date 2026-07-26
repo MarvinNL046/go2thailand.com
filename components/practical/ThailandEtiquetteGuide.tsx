@@ -386,7 +386,7 @@ export default function ThailandEtiquetteGuide() {
         ))}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas">
+      <div className="overflow-hidden bg-canvas">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Nederlandse reizigers beantwoorden een wai bij een Thaise tempel"
@@ -694,7 +694,7 @@ export default function ThailandEtiquetteGuide() {
           description="Deze Nederlandse owner is op 26 juli 2026 herbouwd na DataForSEO-keyword-, SERP-, concurrent-, PAA-, ranking- en backlinkonderzoek. We gebruiken officiële bronnen voor tempeltoegang, culturele context en wetgeving. Waar normen per plek of persoon verschillen, geven we een beslisregel in plaats van schijnzekerheid."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

@@ -398,7 +398,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 <a
                   href={GYG_AFFILIATE}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
@@ -406,7 +406,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 <a
                   href={KLOOK_AFFILIATE}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook
@@ -440,7 +440,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 {isNl ? 'Gerelateerde Gidsen' : 'Related Guides'}
               </h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-                <Link href="/travel-insurance-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                <Link href="/travel-insurance/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
                   <div className="font-semibold text-gray-900">{t("s005_travel_insurance")}</div>
                   <div className="text-xs text-gray-600">{t("s006_essential_for_activities")}</div>
                 </Link>

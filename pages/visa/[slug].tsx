@@ -316,7 +316,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                   <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">
                     ← {lang === 'nl' ? 'Alle visum types' : 'All visa types'}
                   </Link>
-                  <Link href="/travel-insurance-thailand/" className="block text-thailand-blue hover:underline text-sm">
+                  <Link href="/travel-insurance/" className="block text-thailand-blue hover:underline text-sm">
                     {lang === 'nl' ? 'Reisverzekering Thailand' : 'Travel Insurance Thailand'}
                   </Link>
                   <Link href="/esim/" className="block text-thailand-blue hover:underline text-sm">
@@ -342,7 +342,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     : 'Some visas require travel insurance. Compare the best options.'}
                 </p>
                 <Link
-                  href="/travel-insurance-thailand/"
+                  href="/travel-insurance/"
                   className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors"
                 >
                   {lang === 'nl' ? 'Vergelijk Verzekeringen' : 'Compare Insurance'}
@@ -440,7 +440,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 </div>
               </Link>
               <Link
-                href="/travel-insurance-thailand/"
+                href="/travel-insurance/"
                 className="bg-surface-cream rounded-2xl border border-gray-200 hover:shadow-lg hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
               >
                 <span className="text-3xl"></span>
@@ -507,7 +507,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
           links={[
             { label: 'Booking.com', href: BOOKING_GENERIC },
             { label: 'Trip.com', href: TRIP_GENERIC },
-            { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'Insurance', href: '/travel-insurance/', internal: true },
             { label: 'eSIM', href: SAILY_GENERIC },
             { label: 'Transport', href: TWELVEGO_GENERIC },
             { label: 'NordVPN', href: NORDVPN_GENERIC },

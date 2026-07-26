@@ -158,7 +158,7 @@ export default function KaronHotelsHubPage({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Intro stat */}
           <section className="rounded-2xl bg-amber-50 border border-amber-200 p-5">
             <p className="text-gray-800 leading-relaxed">
@@ -289,7 +289,7 @@ export default function KaronHotelsHubPage({ partners, lastUpdated }: Props) {
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

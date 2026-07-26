@@ -5,6 +5,7 @@ import { useState } from 'react';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import { useT } from '../lib/i18n';
+import { normalizeNlInternalHref } from '../lib/nl-route-owners';
 import { strings as i18nStrings } from '../lib/i18n/best-beaches-in-thailand';
 import { getIslandAffiliates, TRIP_GENERIC, withPlacementSubId } from '../lib/affiliates';
 
@@ -141,7 +142,7 @@ const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Arr
       coast: 'Andamanzee',
       body: 'Het sterkst voor iconische landschappen, bekende stranden en eilandroutes met meerdere stops. De officiële TAT-pagina\'s voor Phuket en Phi Phi ondersteunen hetzelfde patroon: de bekendste stranden zijn het makkelijkst bereikbaar, maar ook het drukst.',
       routes: [
-        { href: '/islands/phuket/', label: 'Phuket-gids' },
+        { href: '/city/phuket/', label: 'Phuket-gids' },
         { href: '/islands/koh-phi-phi/', label: 'Koh Phi Phi-gids' },
         { href: '/islands/koh-lanta/', label: 'Koh Lanta-gids' }
       ]
@@ -485,7 +486,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                           </a>
                         )}
                         <Link
-                          href={`/islands/${beach.island_slug}/`}
+                          href={lang === 'nl' ? normalizeNlInternalHref(`/islands/${beach.island_slug}/`) : `/islands/${beach.island_slug}/`}
                           className="inline-flex items-center rounded-full bg-thailand-blue px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700 transition-colors"
                         >
                           {lang === 'nl' ? `${beach.island_name[lang]} gids` : `${beach.island_name[lang]} guide`}

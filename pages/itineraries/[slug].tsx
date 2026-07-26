@@ -589,7 +589,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                     <a
                                       href={day.accommodation[activeAccomTab]!.link}
                                       target="_blank"
-                                      rel="noopener noreferrer"
+                                      rel="noopener noreferrer nofollow sponsored"
                                       className="inline-block mt-2 text-sm text-thailand-blue font-medium hover:underline"
                                     >
                                       {tr('Check availability', 'Beschikbaarheid bekijken')} &rarr;
@@ -646,7 +646,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                     <a
                                       href={option.bookingLink}
                                       target="_blank"
-                                      rel="noopener noreferrer"
+                                      rel="noopener noreferrer nofollow sponsored"
                                       className="text-xs text-thailand-blue hover:underline"
                                     >
                                       {tr('Book now', 'Boek nu')}
@@ -663,7 +663,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       <a
                         href={trackAffiliate(TWELVEGO_GENERIC, 'content-transport')}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer nofollow sponsored"
                         className="inline-block bg-thailand-blue text-white px-6 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                       >
                         {tr('Compare all routes on 12Go Asia', 'Vergelijk alle routes op 12Go Asia')}
@@ -952,7 +952,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     <a
                       href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
                     >
                       Saily eSIM
@@ -968,7 +968,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     <p className="text-sm opacity-90 mb-4">
                       {tr('Protect yourself while traveling Thailand. Compare the best travel insurance.', 'Bescherm jezelf tijdens je reis door Thailand. Vergelijk de beste reisverzekeringen.')}
                     </p>
-                    <Link href="/travel-insurance-thailand/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
+                    <Link href="/travel-insurance/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
                       {tr('Compare Now', 'Vergelijk Nu')}
                     </Link>
                   </div>

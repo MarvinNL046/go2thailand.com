@@ -221,7 +221,7 @@ export function JoddFairsRatchadaGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Jodd Fairs Ratchada in Bangkok met verlichte eetkramen en bezoekers in de avond"
@@ -571,7 +571,7 @@ export function JoddFairsRatchadaGuide() {
             </div>
           </div>
         </section>
-      </main>
+      </div>
     </>
   );
 }

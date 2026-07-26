@@ -1,5 +1,7 @@
 // components/ClusterNav.tsx
 import Link from 'next/link';
+import { useRouter } from 'next/router';
+import { nlAttractionsOwner, nlCityOwner } from '../lib/nl-route-owners';
 
 interface ClusterNavProps {
   citySlug: string;
@@ -16,12 +18,30 @@ const pages = [
 ];
 
 export default function ClusterNav({ citySlug, cityName, currentPage }: ClusterNavProps) {
-  const otherPages = pages.filter(p => p.key !== currentPage);
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const localizedPages = isNl
+    ? [
+        { key: 'hub', label: 'Overzicht', icon: '📍', getHref: (s: string) => nlCityOwner(s) },
+        { key: 'things-to-do', label: 'Bezienswaardigheden', icon: '🎯', getHref: (s: string) => nlAttractionsOwner(s) },
+        { key: 'hotels', label: 'Beste hotels', icon: '🏨', getHref: (s: string) => `/best-hotels/${s}/` },
+        { key: 'travel-guide', label: 'Alle reisgidsen', icon: '📖', getHref: () => '/travel-guides/' },
+      ]
+    : pages;
+  const seen = new Set<string>();
+  const otherPages = localizedPages
+    .filter(p => p.key !== currentPage)
+    .filter(p => {
+      const href = p.getHref(citySlug);
+      if (seen.has(href)) return false;
+      seen.add(href);
+      return true;
+    });
 
   return (
     <nav className="bg-gradient-to-r from-thailand-blue/5 to-thailand-gold/5 border border-thailand-blue/10 rounded-2xl p-5 my-8">
       <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
-        More about {cityName}
+        {isNl ? `Meer over ${cityName}` : `More about ${cityName}`}
       </h3>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
         {otherPages.map(page => (
@@ -38,10 +58,10 @@ export default function ClusterNav({ citySlug, cityName, currentPage }: ClusterN
       {/* Cross-link to existing city hub */}
       <div className="mt-3 pt-3 border-t border-gray-200/50">
         <Link
-          href={`/city/${citySlug}/`}
+          href={isNl ? nlCityOwner(citySlug) : `/city/${citySlug}/`}
           className="text-sm text-thailand-blue hover:underline"
         >
-          See all {cityName} pages →
+          {isNl ? `Bekijk alle pagina's over ${cityName} →` : `See all ${cityName} pages →`}
         </Link>
       </div>
     </nav>

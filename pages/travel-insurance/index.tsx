@@ -252,7 +252,7 @@ export default function TravelInsurancePage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://go2-thailand.com/travel-insurance-thailand/',
+      '@id': 'https://go2-thailand.com/travel-insurance/',
     },
   };
 

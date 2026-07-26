@@ -63,7 +63,7 @@ export const chiangMaiAttractionsGuide: AttractionGuideData = {
       description: 'Wat Pha Lat voelt stil en bebost; Wat Phra That Doi Suthep is het grote religieuze en visuele anker boven de stad. Samen geven ze een sterker bergverhaal dan alleen een snelle viewpointstop.',
       bestFor: 'Tempels met natuur, uitzicht en een duidelijk contrast met de stad',
       tradeoff: 'De Monk’s Trail vraagt goede schoenen en een actuele conditiecheck. Regel bij wegvervoer ook je terugrit en respecteer de tempel als religieuze plek.',
-      href: '/city/chiang-mai/attractions/doi-suthep/',
+      href: '/city/chiang-mai/attractions/',
     },
     {
       slug: 'sunday-walking-street',
@@ -153,7 +153,7 @@ export const chiangMaiAttractionsGuide: AttractionGuideData = {
     description: 'De volgorde kan verschuiven met marktdata, weer en luchtkwaliteit. Houd vooral de schaalniveaus intact: één stadsdag, één berghelling en één grote buitenstaddag.',
     days: [
       { day: 'Dag 1', title: 'Old City, tempels & avondmarkt', description: 'Begin bij Wat Chedi Luang en Wat Phra Singh. Bouw daarna rust in en kies ’s avonds de markt die werkelijk bij de weekdag past.', href: '/city/chiang-mai/attractions/wat-chedi-luang/' },
-      { day: 'Dag 2', title: 'Wat Pha Lat, Doi Suthep & westkant', description: 'Plan de bergtempels als één ochtend of halve dag. Keer terug via Baan Kang Wat of Nimman en houd het avondprogramma licht.', href: '/city/chiang-mai/attractions/doi-suthep/' },
+      { day: 'Dag 2', title: 'Wat Pha Lat, Doi Suthep & westkant', description: 'Plan de bergtempels als één ochtend of halve dag. Keer terug via Baan Kang Wat of Nimman en houd het avondprogramma licht.', href: '/city/chiang-mai/attractions/' },
       { day: 'Dag 3', title: 'Eén bewuste buitenstaddag', description: 'Kies Doi Inthanon voor bergen, Bua Tong voor een actieve watervaldag of een onafhankelijk beoordeelde olifantenervaring voor observatie.', href: '/city/chiang-mai/attractions/doi-inthanon/' },
     ],
   },

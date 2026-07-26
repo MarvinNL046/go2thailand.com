@@ -20,6 +20,7 @@ import {
 } from 'lucide-react';
 import type { AttractionGuideData, AttractionHighlight, AttractionIcon } from '../../data/attractions/types';
 import { cityAffiliates, KLOOK_GENERIC, withPlacementSubId } from '../../lib/affiliates';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import FeedbackForm from '../FeedbackForm';
 import SEOHead from '../SEOHead';
 import { EditorialHero, type EditorialHeroAction } from '../design/EditorialHero';
@@ -54,13 +55,26 @@ const sectionNavItems: PageSectionNavItem[] = [
   { href: '#vragen', label: 'Vragen', icon: BookOpenText },
 ];
 
+const nlAttractionDetailOwners = new Set([
+  '/city/chiang-rai/attractions/blue-temple/',
+  '/city/koh-samui/attractions/wat-plai-laem/',
+]);
+
+function publishedAttractionHref(href?: string) {
+  if (!href) return undefined;
+  if (/^\/city\/[^/]+\/attractions\/[^/]+\/$/.test(href) && !nlAttractionDetailOwners.has(href)) return undefined;
+  return href;
+}
+
 function schemaItemUrl(data: AttractionGuideData, item: AttractionHighlight) {
-  if (item.href?.startsWith('https://')) return item.href;
-  if (item.href?.startsWith('/')) return `https://go2-thailand.com/nl${item.href}`;
+  const href = publishedAttractionHref(item.href);
+  if (href?.startsWith('https://')) return href;
+  if (href?.startsWith('/')) return `https://go2-thailand.com/nl${href}`;
   return `${data.pageUrl}#${item.slug}`;
 }
 
 function HighlightCard({ cityName, item, index }: { cityName: string; item: AttractionHighlight; index: number }) {
+  const href = publishedAttractionHref(item.href);
   const content = (
     <>
       <div className="relative min-h-[235px] overflow-hidden sm:min-h-full">
@@ -77,14 +91,14 @@ function HighlightCard({ cityName, item, index }: { cityName: string; item: Attr
           <p className="flex gap-2 text-jade"><Check size={13} className="mt-0.5 shrink-0 text-saffron-dark" /><span><strong>Past goed bij:</strong> {item.bestFor}</span></p>
           <p className="flex gap-2 text-charcoal/58"><span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-jade/30" /><span>{item.tradeoff}</span></p>
         </div>
-        {item.href ? <span className="mt-auto inline-flex items-center justify-end gap-2 pt-5 text-xs font-extrabold text-jade transition group-hover:text-saffron-dark">Lees de gids <ArrowRight size={14} className="transition group-hover:translate-x-1" /></span> : <span className="mt-auto pt-5 text-[9px] font-extrabold uppercase tracking-[0.14em] text-charcoal/38">Onderdeel van deze {cityName}-route</span>}
+        {href ? <span className="mt-auto inline-flex items-center justify-end gap-2 pt-5 text-xs font-extrabold text-jade transition group-hover:text-saffron-dark">Lees de gids <ArrowRight size={14} className="transition group-hover:translate-x-1" /></span> : <span className="mt-auto pt-5 text-[9px] font-extrabold uppercase tracking-[0.14em] text-charcoal/38">Onderdeel van deze {cityName}-route</span>}
       </div>
     </>
   );
 
   return (
     <article id={item.slug} className="group scroll-mt-24 overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-[0_8px_28px_rgba(18,63,54,0.045)] transition hover:-translate-y-1 hover:shadow-[0_16px_38px_rgba(18,63,54,0.09)]">
-      {item.href ? <Link href={item.href} className="grid h-full sm:grid-cols-[42%_58%]">{content}</Link> : <div className="grid h-full sm:grid-cols-[42%_58%]">{content}</div>}
+      {href ? <Link href={href} className="grid h-full sm:grid-cols-[42%_58%]">{content}</Link> : <div className="grid h-full sm:grid-cols-[42%_58%]">{content}</div>}
     </article>
   );
 }
@@ -217,7 +231,7 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
         </section>
 
         <section id="route" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20">
-          <div className="container-custom"><div className="mb-8 max-w-3xl"><p className="eyebrow">{data.route.eyebrow}</p><h2 className="heading-redesign">{data.route.title}</h2><p className="mt-5 text-sm font-medium leading-7 text-charcoal/68">{data.route.description}</p></div><div className="relative grid gap-5 lg:grid-cols-3"><div aria-hidden="true" className="absolute left-[12%] right-[12%] top-7 hidden border-t-2 border-dashed border-saffron/50 lg:block" />{data.route.days.map((day, index) => <Link key={day.day} href={day.href} className="group relative rounded-2xl border border-jade/10 bg-white p-6 shadow-[0_7px_24px_rgba(18,63,54,0.045)] transition hover:-translate-y-1 hover:border-saffron/35"><div className="relative z-10 flex items-center justify-between"><span className="grid h-14 w-14 place-items-center rounded-full border-4 border-canvas bg-saffron text-sm font-extrabold text-white shadow-sm">{index + 1}</span><ArrowRight size={16} className="text-jade transition group-hover:translate-x-1 group-hover:text-saffron-dark" /></div><p className="mt-5 text-[10px] font-extrabold uppercase tracking-[0.16em] text-saffron-dark">{day.day}</p><h3 className="mt-2 font-display text-[1.8rem] font-semibold leading-none text-jade">{day.title}</h3><p className="mt-4 text-xs leading-5 text-charcoal/62">{day.description}</p></Link>)}</div></div>
+          <div className="container-custom"><div className="mb-8 max-w-3xl"><p className="eyebrow">{data.route.eyebrow}</p><h2 className="heading-redesign">{data.route.title}</h2><p className="mt-5 text-sm font-medium leading-7 text-charcoal/68">{data.route.description}</p></div><div className="relative grid gap-5 lg:grid-cols-3"><div aria-hidden="true" className="absolute left-[12%] right-[12%] top-7 hidden border-t-2 border-dashed border-saffron/50 lg:block" />{data.route.days.map((day, index) => <Link key={day.day} href={normalizeNlInternalHref(day.href)} className="group relative rounded-2xl border border-jade/10 bg-white p-6 shadow-[0_7px_24px_rgba(18,63,54,0.045)] transition hover:-translate-y-1 hover:border-saffron/35"><div className="relative z-10 flex items-center justify-between"><span className="grid h-14 w-14 place-items-center rounded-full border-4 border-canvas bg-saffron text-sm font-extrabold text-white shadow-sm">{index + 1}</span><ArrowRight size={16} className="text-jade transition group-hover:translate-x-1 group-hover:text-saffron-dark" /></div><p className="mt-5 text-[10px] font-extrabold uppercase tracking-[0.16em] text-saffron-dark">{day.day}</p><h3 className="mt-2 font-display text-[1.8rem] font-semibold leading-none text-jade">{day.title}</h3><p className="mt-4 text-xs leading-5 text-charcoal/62">{day.description}</p></Link>)}</div></div>
         </section>
 
         <section className="section-divider-bottom bg-tonal py-14 lg:py-20">

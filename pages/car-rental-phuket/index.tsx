@@ -145,7 +145,7 @@ export default function CarRentalPhuketPage({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table — biggest click driver */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Snelle vergelijking: 7 verhuurders' : 'Quick comparison: 7 companies'}</h2>
@@ -323,7 +323,7 @@ export default function CarRentalPhuketPage({ partners, lastUpdated }: Props) {
             <div className="mt-4 flex flex-wrap gap-3">
               <Link href="/flights-to-phuket/" className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">{isNl ? '✈️ Vluchten naar Phuket' : '✈️ Flights to Phuket'}</Link>
               <Link href="/best-hotels/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🏨 Beste hotels' : '🏨 Best hotels'}</Link>
-              <Link href="/where-to-stay/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🗺️ Waar verblijven' : '🗺️ Where to stay'}</Link>
+              <Link href="/best-hotels/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🗺️ Waar verblijven' : '🗺️ Where to stay'}</Link>
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
               <a href={withSubId(KLOOK_GENERIC, subId)} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-5 py-2 text-sm font-semibold hover:bg-red-700">{isNl ? '🎟️ Activiteiten (Klook)' : '🎟️ Activities (Klook)'}</a>
               <a href={withSubId(TWELVEGO_GENERIC, subId)} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '🚌 Bus/ferry alternatieven' : '🚌 Bus/ferry alternatives'}</a>
@@ -335,7 +335,7 @@ export default function CarRentalPhuketPage({ partners, lastUpdated }: Props) {
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we dit vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Prijzen geverifieerd in mei 2026 op zowel Discover Cars als Trip.com voor pickup begin juni 2026 (Phuket Airport, 7 dagen, economy klasse). Verzekering-add-on prijzen vergeleken aan dezelfde voorwaarden. Lokaal merken-input via Phuket-recensies (Tripadvisor, Trustpilot) en steekproef in Patong/Karon. We verdienen een commissie wanneer lezers via Discover Cars of Trip.com boeken — dit verandert niets aan de prijs die jij betaalt of welke bedrijven we hier noemen.' : "Prices verified May 2026 on both Discover Cars and Trip.com for early June 2026 pickup (Phuket Airport, 7 days, economy class). Insurance add-on prices compared at matching coverage terms. Local-brand intel from Phuket reviews (Tripadvisor, Trustpilot) and on-the-ground spot checks in Patong/Karon. We earn a commission when readers book via Discover Cars or Trip.com — this never changes the price you pay or which companies we cover here."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

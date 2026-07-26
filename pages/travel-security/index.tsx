@@ -692,7 +692,7 @@ export default function TravelSecurityPage() {
                   text: { en: 'Compare travel eSIM options if you want mobile data from day one.', nl: 'Vergelijk reis-eSIM opties als je mobiele data wilt vanaf dag \u00e9\u00e9n.' },
                 },
                 {
-                  href: '/travel-insurance-thailand/',
+                  href: '/travel-insurance/',
                   title: { en: 'Travel insurance guide', nl: 'Reisverzekeringsgids' },
                   text: { en: 'A separate guide for medical, cancellation, and baggage cover.', nl: 'Een aparte gids voor medische, annulerings- en bagagedekking.' },
                 },

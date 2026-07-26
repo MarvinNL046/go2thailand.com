@@ -130,7 +130,7 @@ export default function PhuketLuxuryVillasPillar({ partners, lastUpdated }: Prop
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Snelle vergelijking: 8 luxe villa-resorts' : 'Quick comparison: 8 luxury villa resorts'}</h2>
@@ -332,7 +332,7 @@ export default function PhuketLuxuryVillasPillar({ partners, lastUpdated }: Prop
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Tarieven en villa-specs geverifieerd in mei 2026 op Trip.com, Booking.com en de officiële website van elke resort voor early-juni 2026 boekingen. Resort-categorieën gevalideerd via Tripadvisor + recente Google reviews. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke resorts we aanraden.' : "Rates and villa specs verified May 2026 on Trip.com, Booking.com and each resort's official website for early-June 2026 bookings. Resort categorisations validated via Tripadvisor + recent Google reviews. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which resorts we recommend."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

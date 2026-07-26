@@ -204,7 +204,7 @@ export function MuayThaiBeginnerTrainingGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           eyebrow="Van eerste padsessie tot trainingskamp"
           title={<>Muay Thai trainen<br />in Thailand.</>}
@@ -490,7 +490,7 @@ export function MuayThaiBeginnerTrainingGuide() {
           description="DFS bepaalde de Nederlandse zoekintentie, echte PAA en concurrentie. De lesopbouw, roosters, uitrusting en prijsbenchmark komen vervolgens uit actuele primaire gymbronnen. Verzekeringstekst is getoetst aan Nederlandse verzekerings- en overheidsinformatie. Vaste euroconversies, verlopen acties, rankings, gegarandeerde veiligheid en onbewezen certificeringsclaims zijn verwijderd. Laatst gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

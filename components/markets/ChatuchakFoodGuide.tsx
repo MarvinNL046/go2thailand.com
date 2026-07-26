@@ -270,7 +270,7 @@ export function ChatuchakFoodGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Foodstalls en bezoekers op Chatuchak Weekend Market in Bangkok"
@@ -604,7 +604,7 @@ export function ChatuchakFoodGuide() {
             </div>
           </div>
         </section>
-      </main>
+      </div>
     </>
   );
 }

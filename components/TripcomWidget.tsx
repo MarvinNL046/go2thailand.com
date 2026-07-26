@@ -91,7 +91,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
           <a
             href={affiliateLinks.main}
             target="_blank"
-            rel="noopener noreferrer nofollow"
+            rel="noopener noreferrer nofollow sponsored"
             className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
             Hotels
@@ -99,7 +99,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
           <a
             href={affiliateLinks.bundle}
             target="_blank"
-            rel="noopener noreferrer nofollow"
+            rel="noopener noreferrer nofollow sponsored"
             className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
             {isNl ? 'Hotel + Vlucht' : 'Hotel + Flight'}
@@ -107,7 +107,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
           <a
             href={affiliateLinks.transfers}
             target="_blank"
-            rel="noopener noreferrer nofollow"
+            rel="noopener noreferrer nofollow sponsored"
             className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
             Transfers
@@ -115,7 +115,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
           <a
             href={affiliateLinks['car-rental']}
             target="_blank"
-            rel="noopener noreferrer nofollow"
+            rel="noopener noreferrer nofollow sponsored"
             className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
             {isNl ? 'Autoverhuur' : 'Car Rental'}
@@ -131,7 +131,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             <a
               href="https://www.travelpayouts.com/?marker=602467"
               target="_blank"
-              rel="noopener noreferrer nofollow"
+              rel="noopener noreferrer nofollow sponsored"
               className="text-thailand-blue hover:text-thailand-blue-600 underline transition-colors"
             >
               Travelpayouts

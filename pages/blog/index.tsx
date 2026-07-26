@@ -1,4 +1,4 @@
-import { GetStaticProps } from 'next';
+﻿import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
@@ -235,7 +235,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                           {featuredPost.category}
                         </span>
                         <Link href={`/blog/${featuredPost.slug}/`} className="text-thailand-blue font-medium hover:underline">
-                          {locale === 'nl' ? 'Lees Meer' : 'Read More'} →
+                          {locale === 'nl' ? 'Lees Meer' : 'Read More'} â†’
                         </Link>
                       </div>
                     </div>
@@ -290,7 +290,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       disabled={currentPage === 1}
                       className="px-4 py-2 rounded-lg bg-white shadow-sm border border-gray-200 text-gray-700 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
                     >
-                      {locale === 'nl' ? '← Vorige' : '← Previous'}
+                      {locale === 'nl' ? 'â† Vorige' : 'â† Previous'}
                     </button>
 
                     {Array.from({ length: totalPages }, (_, i) => i + 1)
@@ -323,7 +323,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       disabled={currentPage === totalPages}
                       className="px-4 py-2 rounded-lg bg-white shadow-sm border border-gray-200 text-gray-700 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
                     >
-                      {locale === 'nl' ? 'Volgende →' : 'Next →'}
+                      {locale === 'nl' ? 'Volgende â†’' : 'Next â†’'}
                     </button>
                   </nav>
                 )}
@@ -332,8 +332,8 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                 {filteredPosts.length > 0 && (
                   <p className="text-center text-sm text-gray-500 mt-4">
                     {locale === 'nl'
-                      ? `${(currentPage - 1) * POSTS_PER_PAGE + 1}–${Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} van ${filteredPosts.length} posts weergegeven`
-                      : `Showing ${(currentPage - 1) * POSTS_PER_PAGE + 1}–${Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} of ${filteredPosts.length} posts`}
+                      ? `${(currentPage - 1) * POSTS_PER_PAGE + 1}â€“${Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} van ${filteredPosts.length} posts weergegeven`
+                      : `Showing ${(currentPage - 1) * POSTS_PER_PAGE + 1}â€“${Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} of ${filteredPosts.length} posts`}
                   </p>
                 )}
               </div>
@@ -392,7 +392,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     <a
                       href={trackAffiliate(BOOKING_GENERIC, 'sidebar-hotels-primary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
                     >
                       Booking.com
@@ -400,7 +400,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     <a
                       href={trackAffiliate(TRIP_GENERIC, 'sidebar-hotels-secondary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
                     >
                       Trip.com
@@ -416,7 +416,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     <a
                       href={trackAffiliate(KLOOK_GENERIC, 'sidebar-tours-primary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
                       {t("s006_klook_activities")}
@@ -424,7 +424,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     <a
                       href={trackAffiliate(GYG_GENERIC, 'sidebar-tours-secondary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
                       {t("s007_getyourguide_tours")}
@@ -442,13 +442,13 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   <a
                     href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
                   >
                     {t("s010_saily_esim")}
                   </a>
                   <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
-                    {locale === 'nl' ? 'Meer eSIM opties' : 'More eSIM options'} →
+                    {locale === 'nl' ? 'Meer eSIM opties' : 'More eSIM options'} â†’
                   </Link>
                 </div>
 
@@ -460,7 +460,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   <p className="text-sm opacity-90 mb-4">
                     {locale === 'nl' ? 'Bescherm jezelf tijdens het reizen. Vergelijk de beste reisverzekeringen.' : 'Protect yourself while traveling. Compare the best travel insurance.'}
                   </p>
-                  <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
+                  <Link href="/travel-insurance/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
                     {locale === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
                   </Link>
                 </div>
@@ -471,13 +471,13 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   <a
                     href={trackAffiliate(TWELVEGO_GENERIC, 'sidebar-transport')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
                   >
                     {locale === 'nl' ? '12Go Asia - Boek Transport' : '12Go Asia - Book Transport'}
                   </a>
                   <Link href="/transport/" className="block text-thailand-blue text-center text-sm hover:underline">
-                    {locale === 'nl' ? 'Bekijk alle routes' : 'View all routes'} →
+                    {locale === 'nl' ? 'Bekijk alle routes' : 'View all routes'} â†’
                   </Link>
                 </div>
                 </div>
@@ -507,7 +507,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
   const lang = locale === 'nl' ? 'nl' : 'en';
-  // Lightweight post list — sheds ~60% of the payload vs getAllPosts.
+  // Lightweight post list â€” sheds ~60% of the payload vs getAllPosts.
   const posts = getPostsForIndex(lang);
   const categories = getAllCategories(lang);
 

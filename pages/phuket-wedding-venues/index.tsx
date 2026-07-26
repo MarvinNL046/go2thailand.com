@@ -142,7 +142,7 @@ export default function PhuketWeddingVenuesPillar({ partners, lastUpdated }: Pro
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table — 9 venues */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? '9 trouwlocaties Phuket vergeleken' : '9 Phuket wedding venues compared'}</h2>
@@ -295,7 +295,7 @@ export default function PhuketWeddingVenuesPillar({ partners, lastUpdated }: Pro
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Pakket-prijzen geverifieerd in mei 2026 op resort-websites + Trip.com voor 2026–2027 boekingen. Wedding-planner-prijzen gevalideerd via PhuketWedding.net, Wedding-Phuket.com en BlissEvents reviews. Juridische eisen via Royal Thai Embassy + MFA-portal. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke venues we noemen.' : "Package prices verified May 2026 on resort websites + Trip.com for 2026–2027 bookings. Wedding planner pricing validated via PhuketWedding.net, Wedding-Phuket.com and BlissEvents reviews. Legal requirements via Royal Thai Embassy + MFA portal. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which venues we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

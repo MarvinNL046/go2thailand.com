@@ -116,6 +116,13 @@ export default function RedesignHome() {
           <div className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden sm:mx-0 sm:grid sm:grid-cols-2 sm:overflow-visible sm:px-0 sm:pb-0 lg:grid-cols-4">
             {experiences.map(item => <ExperienceCard item={item} key={item.title.nl} />)}
           </div>
+          <p className="mt-5 max-w-4xl text-[11px] leading-5 text-charcoal/50">
+            {lang === 'nl' ? <>
+              Kies eerst je plek in onze <Link href="/city/" className="font-bold text-jade underline decoration-saffron/45 underline-offset-4">bestemmingengids</Link> en plaats het uitje daarna in een logische <Link href="/itineraries/" className="font-bold text-jade underline decoration-saffron/45 underline-offset-4">Thailand-reisroute</Link>. De uitjes hierboven bevatten affiliatelinks; bij een boeking kunnen wij een commissie ontvangen zonder extra kosten voor jou.
+            </> : <>
+              Choose your place in our <Link href="/city/" className="font-bold text-jade underline decoration-saffron/45 underline-offset-4">destination guide</Link>, then fit the experience into a logical <Link href="/itineraries/" className="font-bold text-jade underline decoration-saffron/45 underline-offset-4">Thailand itinerary</Link>. The experiences above contain affiliate links; we may earn a commission at no extra cost to you.
+            </>}
+          </p>
         </div>
       </section>
 

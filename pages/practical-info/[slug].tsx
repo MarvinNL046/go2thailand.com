@@ -234,7 +234,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     ? 'Bescherm jezelf op reis. Vergelijk de beste reisverzekeringen.'
                     : 'Protect yourself while traveling. Compare the best travel insurance.'}
                 </p>
-                <Link href="/travel-insurance-thailand/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
+                <Link href="/travel-insurance/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
                   {lang === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
                 </Link>
               </div>
@@ -250,7 +250,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                 <a
                   href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
                 >
                   Saily eSIM
@@ -269,7 +269,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                   <a
                     href={trackAffiliate(BOOKING_GENERIC, 'sidebar-hotels-primary')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                   >
                     Booking.com
@@ -277,7 +277,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                   <a
                     href={trackAffiliate(TRIP_GENERIC, 'sidebar-hotels-secondary')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                   >
                     Trip.com
@@ -295,7 +295,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                   <a
                     href={trackAffiliate(KLOOK_GENERIC, 'sidebar-activities-primary')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                   >
                     Klook Activities
@@ -303,7 +303,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                   <a
                     href={trackAffiliate(GYG_GENERIC, 'sidebar-activities-secondary')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                   >
                     GetYourGuide Tours

@@ -142,7 +142,7 @@ export default function PhuketHoneymoonPillar({ partners, lastUpdated }: Props) 
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table — 8 honeymoon resorts */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? '8 honeymoon-resorts in Phuket vergeleken' : '8 Phuket honeymoon resorts compared'}</h2>
@@ -303,7 +303,7 @@ export default function PhuketHoneymoonPillar({ partners, lastUpdated }: Props) 
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Tarieven en honeymoon-perks geverifieerd in mei 2026 op resort-websites + Trip.com voor 2026 boekingen. Activity-prijzen via Klook, Viator en GetYourGuide. Gebied-tips gevalideerd via recente Tripadvisor-reviews. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke resorts we noemen.' : "Rates and honeymoon perks verified May 2026 on resort websites + Trip.com for 2026 bookings. Activity pricing via Klook, Viator and GetYourGuide. Area tips validated via recent Tripadvisor reviews. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which resorts we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

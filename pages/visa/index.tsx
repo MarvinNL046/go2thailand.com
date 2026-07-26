@@ -450,7 +450,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
             </h2>
             <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-4">
               <Link
-                href="/travel-insurance-thailand/"
+                href="/travel-insurance/"
                 className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
               >
                 <span className="text-3xl"></span>
@@ -530,7 +530,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Travel Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'Travel Insurance', href: '/travel-insurance/', internal: true },
             { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
             { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
             { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },

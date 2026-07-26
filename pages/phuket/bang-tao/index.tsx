@@ -81,7 +81,7 @@ export default function BangTaoPillar({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
@@ -183,7 +183,7 @@ export default function BangTaoPillar({ partners, lastUpdated }: Props) {
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we Bang Tao beoordelen' : 'How we evaluate Bang Tao'}</h2>
             <p>{isNl ? 'Tarieven en hotelinformatie geverifieerd in mei 2026 op Trip.com, Klook, GetYourGuide en Viator. Strand-condities op basis van DNP-data 2020–2025. Boat Avenue restaurant-info gevalideerd via 2024–2025 Tripadvisor reviews.' : "Rates and hotel info verified May 2026 on Trip.com, Klook, GetYourGuide and Viator. Beach conditions from DNP data 2020–2025. Boat Avenue restaurant info validated via 2024–2025 Tripadvisor reviews."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

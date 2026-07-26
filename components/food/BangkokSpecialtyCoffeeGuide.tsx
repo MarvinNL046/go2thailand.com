@@ -198,7 +198,7 @@ export function BangkokSpecialtyCoffeeGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Sfeerbeeld van een barista die specialty filterkoffie zet naast de BTS in Bangkok"
@@ -330,7 +330,7 @@ export function BangkokSpecialtyCoffeeGuide() {
                 ))}
               </div>
             </div>
-            <p className="mt-8 max-w-4xl text-sm font-medium leading-7 text-charcoal/64">Wil je de bronregio’s later in dezelfde reis zien, combineer deze koffiekennis dan met onze gidsen voor <InlineLink href="/city/chiang-mai/">Chiang Mai</InlineLink>, <InlineLink href="/city/chiang-rai/">Chiang Rai</InlineLink> en <InlineLink href="/guides/travel-guide/nan/">Nan</InlineLink>. Een café in Bangkok blijft de eenvoudigste plek om meerdere regio’s naast elkaar te proeven zonder een plantageclaim te romantiseren.</p>
+            <p className="mt-8 max-w-4xl text-sm font-medium leading-7 text-charcoal/64">Wil je de bronregio’s later in dezelfde reis zien, combineer deze koffiekennis dan met onze gidsen voor <InlineLink href="/city/chiang-mai/">Chiang Mai</InlineLink>, <InlineLink href="/city/chiang-rai/">Chiang Rai</InlineLink> en de provincie Nan in onze <InlineLink href="/region/northern/">Noord-Thailand-gids</InlineLink>. Een café in Bangkok blijft de eenvoudigste plek om meerdere regio’s naast elkaar te proeven zonder een plantageclaim te romantiseren.</p>
           </div>
         </section>
 
@@ -400,7 +400,7 @@ export function BangkokSpecialtyCoffeeGuide() {
           description="DFS bepaalde de Nederlandse zoekintentie, concurrentie en echte PAA. Drie rankingconcurrenten zijn volledig geparseerd; locaties en uren komen vervolgens uit officiële café- en venuepagina’s. Google-scores, reviewaantallen en oude prijstabellen zijn bewust niet als selectiecriterium overgenomen. World of Coffee Bangkok wordt als afgelopen evenement gemarkeerd. Laatst gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

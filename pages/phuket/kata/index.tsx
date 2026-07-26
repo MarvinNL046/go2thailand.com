@@ -114,7 +114,7 @@ export default function KataBeachPillar({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
@@ -263,7 +263,7 @@ export default function KataBeachPillar({ partners, lastUpdated }: Props) {
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we Kata beoordelen' : 'How we evaluate Kata'}</h2>
             <p>{isNl ? 'Tarieven en hotelinformatie geverifieerd in mei 2026 op Trip.com, Klook, GetYourGuide en Viator. Surfseizoen-data uit 12 jaar Magic Seaweed-records. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke hotels we noemen.' : "Rates and hotel info verified May 2026 on Trip.com, Klook, GetYourGuide and Viator. Surf season data from 12 years of Magic Seaweed records. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which hotels we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

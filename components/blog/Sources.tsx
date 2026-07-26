@@ -16,6 +16,10 @@ export default function Sources({ sources, locale = 'en' }: SourcesProps) {
   const note = lang === 'nl'
     ? 'Dit artikel is samengesteld op basis van redactioneel onderzoek en geverifieerd met de volgende bronnen:'
     : 'This article is based on editorial research and verified with the following sources:';
+  const sourceRel = (url: string) =>
+    /(?:\.tpo\.lv\/|tp\.media\/|[?&]tag=[^&]+|amazon\.[a-z.]+\/)/i.test(url)
+      ? 'noopener noreferrer nofollow sponsored'
+      : 'noopener noreferrer nofollow';
 
   return (
     <div className="mt-8 pt-8 border-t">
@@ -27,7 +31,7 @@ export default function Sources({ sources, locale = 'en' }: SourcesProps) {
             <a
               href={source.url}
               target="_blank"
-              rel="noopener noreferrer nofollow"
+              rel={sourceRel(source.url)}
               className="text-thailand-blue hover:underline"
             >
               {source.name}

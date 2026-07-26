@@ -455,7 +455,7 @@ export function ThailandNightlifeGuide() {
         ))}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           eyebrow="Thailand na zonsondergang"
           title={
@@ -1243,7 +1243,7 @@ export function ThailandNightlifeGuide() {
           description="DataForSEO bepaalde de Nederlandse bestemming-, nightlife-, uitgaan-, Full Moon-, nachtmarkt- en veiligheidsintentie en legde echte PAA vast. Officiële TAT-, Tourist Police- en NederlandWereldwijd-bronnen dragen de tijdgevoelige regels en veiligheidsgrenzen. De evenementwebsite wordt alleen gebruikt voor datumcontrole en praktische eventinformatie. Vaste prijzen, onbewezen populariteitsclaims, universele sluitingstijden en vluchtige venue-rankings zijn verwijderd. Laatst gecontroleerd: 26 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

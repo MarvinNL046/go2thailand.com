@@ -10,6 +10,7 @@ import type { HotelsPage, ClusterHotel } from '../../lib/cluster-types';
 import { getAffiliates, CityAffiliates, TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import HotelGuideTemplate from '../../components/hotels/HotelGuideTemplate';
 import type { HotelGuideData } from '../../data/hotels/types';
+import { nlAttractionsOwner, nlCityOwner } from '../../lib/nl-route-owners';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
@@ -158,7 +159,7 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
   const isNl = locale === 'nl';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: isNl ? 'Beste Hotels' : 'Best Hotels', href: '/best-hotels/' },
+    { name: isNl ? 'Hotels' : 'Hotels', href: '/where-to-stay/' },
     { name: isNl ? `Hotels in ${data.cityName}` : `Hotels in ${data.cityName}`, href: `/best-hotels/${data.citySlug}/` },
   ];
 
@@ -221,9 +222,9 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
                 ))}
               </div>
               <p className="text-sm text-gray-500 mt-4">
-                For a deeper dive into {data.cityName}'s neighbourhoods,{' '}
-                <Link href={`/where-to-stay/${data.citySlug}/`} className="text-thailand-blue hover:underline">
-                  {isNl ? 'lees onze volledige Waar Verblijven gids' : 'read our full Where to Stay guide'}
+                {isNl ? `Wil je ook je dagen in ${data.cityName} plannen? ` : `For a deeper dive into ${data.cityName}'s neighbourhoods, `}
+                <Link href={isNl ? nlCityOwner(data.citySlug) : `/where-to-stay/${data.citySlug}/`} className="text-thailand-blue hover:underline">
+                  {isNl ? `Lees de complete reisgids voor ${data.cityName}` : 'read our full Where to Stay guide'}
                 </Link>
                 .
               </p>
@@ -303,31 +304,31 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
           <section className="mb-12">
             <div className="grid sm:grid-cols-2 gap-4">
               <Link
-                href={`/where-to-stay/${data.citySlug}/`}
+                href={isNl ? nlCityOwner(data.citySlug) : `/where-to-stay/${data.citySlug}/`}
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue mb-1">
-                  {isNl ? `Waar Verblijven in ${data.cityName}` : `Where to Stay in ${data.cityName}`}
+                  {isNl ? `${data.cityName} reisgids` : `Where to Stay in ${data.cityName}`}
                 </h3>
                 <p className="text-sm text-gray-500">
-                  {isNl ? 'Wijkgids — vind het beste gebied voor jouw reisstijl.' : 'Neighbourhood guide — find the best area for your trip style.'}
+                  {isNl ? 'Plan bezienswaardigheden, vervoer en de beste reisperiode vanuit één overzicht.' : 'Neighbourhood guide — find the best area for your trip style.'}
                 </p>
                 <span className="text-thailand-blue text-sm font-semibold mt-2 inline-block">
                   {isNl ? 'Lees gids →' : 'Read guide →'}
                 </span>
               </Link>
               <Link
-                href={`/city/${data.citySlug}/top-10-hotels/`}
+                href={isNl ? nlAttractionsOwner(data.citySlug) : `/city/${data.citySlug}/top-10-hotels/`}
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue mb-1">
-                  Top 10 Hotels in {data.cityName}
+                  {isNl ? `Wat te doen in ${data.cityName}` : `Top 10 Hotels in ${data.cityName}`}
                 </h3>
                 <p className="text-sm text-gray-500">
-                  {isNl ? 'Onze samengestelde top 10 lijst met beoordelingen en reviews.' : 'Our curated top 10 list with ratings and reviews.'}
+                  {isNl ? 'Vergelijk de belangrijkste bezienswaardigheden en bouw een logische dagplanning.' : 'Our curated top 10 list with ratings and reviews.'}
                 </p>
                 <span className="text-thailand-blue text-sm font-semibold mt-2 inline-block">
-                  {isNl ? 'Bekijk top 10 →' : 'See top 10 →'}
+                  {isNl ? 'Bekijk bezienswaardigheden →' : 'See top 10 →'}
                 </span>
               </Link>
             </div>

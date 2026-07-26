@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { getBlogBuyerIntentContext } from '../../lib/blog-buyer-intent';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 interface BuyerIntentNextStepProps {
   post: {
@@ -46,15 +47,18 @@ export default function BuyerIntentNextStep({ post, locale = 'en' }: BuyerIntent
       </p>
 
       <div className="mt-5 grid gap-3 sm:grid-cols-2">
-        {context.links.map((link) => (
+        {context.links.map((link) => {
+          const href = locale === 'nl' ? normalizeNlInternalHref(link.href) : link.href;
+          return (
           <Link
-            key={link.href}
-            href={link.href}
+            key={href}
+            href={href}
             className="rounded-xl bg-white px-4 py-3 text-sm font-medium text-gray-800 shadow-sm ring-1 ring-gray-200 transition-colors hover:bg-thailand-blue hover:text-white hover:ring-thailand-blue"
           >
             {link.label}
           </Link>
-        ))}
+          );
+        })}
       </div>
     </section>
   );

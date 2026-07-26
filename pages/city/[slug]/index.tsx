@@ -35,6 +35,7 @@ import { CityBookingPlanner } from '../../../components/city/CityBookingPlanner'
 import { CityCompleteGuide } from '../../../components/city/CityCompleteGuide';
 import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
 import { getNlDestinationGuide } from '../../../data/destinations/nl';
+import { normalizeNlInternalHref } from '../../../lib/nl-route-owners';
 
 interface City {
   id: number;
@@ -251,6 +252,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const t = useT(i18nStrings);
   const router = useRouter();
   const { locale = 'en' } = router;
+  const ownerHref = (href: string) => locale === 'nl' ? normalizeNlInternalHref(href) : href;
   const subId = useSubId();
   const [showAllHiddenGems, setShowAllHiddenGems] = useState(false);
   const [showAllExperiences, setShowAllExperiences] = useState(false);
@@ -261,7 +263,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const [showAllRestaurants, setShowAllRestaurants] = useState(false);
 
   const nlDestinationGuide = locale === 'nl' && city ? getNlDestinationGuide(city.slug) : undefined;
-  
+
   // Premium NL guides already contain their final locale copy. Skipping the
   // legacy client loader avoids a redundant dynamic import and its error path.
   const { content: translatedContent, loading: translationLoading } = useTranslatedContent('city', nlDestinationGuide ? undefined : city?.slug);
@@ -285,7 +287,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       }
     };
   }, [city]);
-  
+
   if (!city) {
     return <div>{t("s001_city_not_found")}</div>;
   }
@@ -296,11 +298,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
   // Merge translated content with base city data
   const displayCity = translatedContent || city;
-  
+
   // Ensure we always get strings, not objects
   let cityName: string;
   let cityDescription: string;
-  
+
   // Handle city name
   if (typeof translatedContent?.name === 'string') {
     cityName = translatedContent.name;
@@ -311,7 +313,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   } else {
     cityName = 'Unknown City'; // Fallback
   }
-  
+
   // Handle city description
   if (typeof translatedContent?.description === 'string') {
     cityDescription = translatedContent.description;
@@ -322,9 +324,9 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   } else {
     cityDescription = ''; // Fallback
   }
-  
-  const cityHighlights = Array.isArray(translatedContent?.highlights) 
-    ? translatedContent.highlights 
+
+  const cityHighlights = Array.isArray(translatedContent?.highlights)
+    ? translatedContent.highlights
     : city.highlights;
 
   const baseMetadata = generateCityMetadata(city, '', locale);
@@ -367,7 +369,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
     : "group relative overflow-hidden rounded-[30px] border border-gray-100 bg-white p-6 shadow-[0_18px_44px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_24px_56px_rgba(15,23,42,0.10)]";
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, subId, placement);
-  
+
   return (
     <>
       <SEOHead
@@ -653,10 +655,10 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                               <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">{gem.name}</h3>
                             </div>
                           </div>
-                          
+
                           <div className="space-y-4">
                             <p className="text-gray-700 leading-7">{gem.story}</p>
-                            
+
                             {gem.how_to_find && (
                               <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                 <p className="text-sm text-gray-600">
@@ -672,7 +674,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                 </p>
                               </div>
                             )}
-                            
+
                             {gem.local_insights && gem.local_insights.length > 0 && (
                               <div className="flex flex-wrap gap-2">
                                 {gem.local_insights.map((insight, i) => (
@@ -789,7 +791,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                 {experience.name || experience.activity}
                               </h3>
                               <p className="text-gray-700 text-lg leading-8 mb-5">{experience.story}</p>
-                              
+
                               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                                 {experience.cultural_significance && (
                                   <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
@@ -805,7 +807,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                   </div>
                                 )}
                               </div>
-                              
+
                               {experience.insights && experience.insights.length > 0 && (
                                 <div className="mt-4">
                                   <h4 className="font-semibold text-gray-900 mb-2">{t("s007_insider_tips")}</h4>
@@ -953,7 +955,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                   <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                     <Link
-                      href={`/city/${city.slug}/top-10-restaurants/`}
+                      href={ownerHref(`/city/${city.slug}/top-10-restaurants/`)}
                       className="group rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 transition-all hover:-translate-y-1 hover:bg-white hover:shadow-md"
                     >
                       <div className="flex items-start gap-3">
@@ -969,7 +971,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       </div>
                     </Link>
                     <Link
-                      href={`/city/${city.slug}/top-10-hotels/`}
+                      href={ownerHref(`/city/${city.slug}/top-10-hotels/`)}
                       className="group rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 transition-all hover:-translate-y-1 hover:bg-white hover:shadow-md"
                     >
                       <div className="flex items-start gap-3">
@@ -1015,7 +1017,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                   <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
                     <Link
-                      href={`/city/${city.slug}/best-time-to-visit/`}
+                      href={ownerHref(`/city/${city.slug}/best-time-to-visit/`)}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
                       <span className="text-lg">🗓️</span><span>{t("s012_best_time")}</span>
@@ -1033,7 +1035,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       <span className="text-lg">🍽️</span><span>{t("s014_where_to_eat")}</span>
                     </Link>
                     <Link
-                      href={`/city/${city.slug}/hotels/`}
+                      href={ownerHref(`/city/${city.slug}/hotels/`)}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
                       <span className="text-lg">🛏️</span><span>{t("s015_where_to_stay")}</span>
@@ -1071,7 +1073,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         </a>
                       </div>
                     </div>
-                    
+
                     {/* Airport Transfers */}
                     <div className={featureCardClass}>
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-blue to-cyan-400" />
@@ -1088,7 +1090,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         </a>
                       </div>
                     </div>
-                    
+
                     {/* Car Rental */}
                     <div className={featureCardClass}>
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-emerald-500 to-teal-400" />
@@ -1105,7 +1107,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         </a>
                       </div>
                     </div>
-                    
+
                     {/* 12Go Transport */}
                     <div className={featureCardClass}>
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-violet-500 to-indigo-400" />
@@ -1123,7 +1125,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       </div>
                     </div>
                   </div>
-                  
+
                   <div className="mt-4 text-center">
                     <p className="text-xs text-gray-500">
                       Book with confidence - 24/7 customer support & best price guarantee
@@ -1273,9 +1275,9 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                   </span>
                                 )}
                               </div>
-                              
+
                               <p className="text-gray-700 text-lg leading-8 mb-5">{food.story}</p>
-                              
+
                               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
                                 {food.dish && (
                                   <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
@@ -1293,7 +1295,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                   </div>
                                 )}
                               </div>
-                              
+
                               {food.ordering_tips && food.ordering_tips.length > 0 && (
                                 <div>
                                   <h4 className="font-semibold text-gray-900 mb-2">{t("s025_ordering_tips")}</h4>
@@ -1751,7 +1753,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     </Link>
 
                     {/* Hotels */}
-                    <Link href={`/city/${city.slug}/hotels/`}>
+                    <Link href={ownerHref(`/city/${city.slug}/hotels/`)}>
                       <div className={exploreCardClass}>
                         <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-emerald-500 to-teal-400" />
                         <div className="relative text-left">
@@ -1796,7 +1798,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     </Link>
 
                     {/* Best Time to Visit */}
-                    <Link href={`/city/${city.slug}/best-time-to-visit/`}>
+                    <Link href={ownerHref(`/city/${city.slug}/best-time-to-visit/`)}>
                       <div className={exploreCardClass}>
                         <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-violet-500 to-indigo-400" />
                         <div className="relative text-left">
@@ -2009,12 +2011,12 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                 {/* Trip.com Search Widget */}
                 <div className={city.slug === 'krabi' ? 'hidden' : 'mb-8'}>
-                  <TripcomWidget 
-                    city={city.name.en} 
-                    type="searchbox" 
+                  <TripcomWidget
+                    city={city.name.en}
+                    type="searchbox"
                     className=""
                   />
-                  
+
                   {/* Trip.com Features */}
                   <div className={`${sidebarPanelClass} mt-4`}>
                     <div className="mb-4">
@@ -2066,7 +2068,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-heading text-xl font-bold text-gray-900">{t("s030_best_time_to_visit")}</h3>
                       </div>
                     </div>
-                    
+
                     <div className="space-y-4">
                       <div className="rounded-[22px] bg-gradient-to-br from-blue-50 to-slate-50 p-4 border border-blue-100">
                         <div className="flex items-center justify-between mb-2">
@@ -2149,7 +2151,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-heading text-xl font-bold text-gray-900">{t("s040_budget_reality")}</h3>
                       </div>
                     </div>
-                    
+
                     <div className="space-y-4">
                       <div className="grid grid-cols-1 gap-3">
                         <div className="flex items-center justify-between rounded-2xl border border-emerald-100 bg-emerald-50 px-4 py-3">
@@ -2239,7 +2241,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">Tags</h3>
                     <div className="flex flex-wrap gap-2.5">
                       {city.tags.map((tag, index) => (
-                        <span 
+                        <span
                           key={index}
                           className="rounded-full border border-gray-200 bg-slate-50 px-3 py-1.5 text-sm text-gray-700"
                         >
@@ -2258,7 +2260,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
         {/* Feedback Form */}
         <section className={city.slug === 'krabi' ? 'krabi-feedback bg-[#fcfaf6] py-14' : 'section-padding'}>
           <div className="container-custom max-w-3xl mx-auto">
-            <FeedbackForm 
+            <FeedbackForm
               pageTitle={`${city.name.en} Travel Guide`}
               pageUrl={`/city/${city.slug}`}
             />
@@ -2295,7 +2297,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 export const getStaticPaths: GetStaticPaths = async () => {
   const cities = getCityStaticPaths();
   const locales = ['en', 'nl'];
-  
+
   // Generate paths for all locales
   const paths = [];
   for (const city of cities) {
@@ -2306,7 +2308,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
       });
     }
   }
-  
+
   return {
     paths,
     fallback: 'blocking',

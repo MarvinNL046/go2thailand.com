@@ -1,4 +1,6 @@
 import Link from 'next/link';
+import { useRouter } from 'next/router';
+import { normalizeNlInternalHref } from '../lib/nl-route-owners';
 
 export interface IntentInternalLinkItem {
   href: string;
@@ -11,14 +13,16 @@ interface Props {
   links: IntentInternalLinkItem[];
 }
 
-function normalizeHref(href: string): string {
-  return href.replace(/^\/guides\/where-to-stay\//, '/where-to-stay/');
+function normalizeHref(href: string, isNl: boolean): string {
+  const normalized = href.replace(/^\/guides\/where-to-stay\//, '/where-to-stay/');
+  return isNl ? normalizeNlInternalHref(normalized) : normalized;
 }
 
 export default function IntentInternalLinks({ title, links }: Props) {
+  const { locale } = useRouter();
   const seen = new Set<string>();
   const normalizedLinks = links
-    .map(link => ({ ...link, href: normalizeHref(link.href) }))
+    .map(link => ({ ...link, href: normalizeHref(link.href, locale === 'nl') }))
     .filter(link => {
       if (!link.href.startsWith('/') || seen.has(link.href)) return false;
       seen.add(link.href);

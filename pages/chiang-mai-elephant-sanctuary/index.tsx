@@ -141,7 +141,7 @@ function AffiliateLink({ href, children }: { href: string; children: React.React
     <a
       href={href}
       target="_blank"
-      rel="noopener noreferrer nofollow"
+      rel="noopener noreferrer nofollow sponsored"
       className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
     >
       {children}
@@ -806,7 +806,7 @@ export default function ChiangMaiElephantSanctuaryPage() {
                   <p className="text-sm text-gray-700">
                     Slippery river rocks, unfamiliar terrain, and a 3-tonne animal means small
                     injuries happen. See our{' '}
-                    <Link href="/travel-insurance-thailand" className="text-thailand-blue underline">
+                    <Link href="/travel-insurance/" className="text-thailand-blue underline">
                       Thailand travel insurance guide
                     </Link>{' '}
                     before you fly.

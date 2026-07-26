@@ -3,12 +3,6 @@ import { useRouter } from 'next/router';
 import unpairedRoutes from '../seo/inventory/unpaired-routes.json';
 
 const SITE_URL = 'https://go2-thailand.com';
-const CANONICAL_PATH_MAP: Record<string, string> = {
-  '/travel-insurance': '/travel-insurance-thailand',
-  '/travel-insurance/': '/travel-insurance-thailand',
-  '/travel-insurance-thailand/': '/travel-insurance-thailand',
-};
-
 // Map Next.js locale codes to hreflang language codes
 const LOCALE_TO_HREFLANG: Record<string, string> = {
   en: 'en',
@@ -22,7 +16,7 @@ export default function Hreflang() {
 
   // Remove query string and hash from path
   const cleanPath = asPath.split('?')[0].split('#')[0];
-  const seoPath = CANONICAL_PATH_MAP[cleanPath] || cleanPath;
+  const seoPath = cleanPath;
   const registryPath = seoPath === '/' || seoPath.endsWith('/') ? seoPath : `${seoPath}/`;
 
   // All pages use EN + NL only

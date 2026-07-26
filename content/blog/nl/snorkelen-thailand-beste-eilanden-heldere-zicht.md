@@ -132,7 +132,7 @@ De Similan Eilanden staan bovenaan voor **snorkelen in Thailand** met exceptione
 
 ### Toegang en Seizoensinvloeden
 
-Vanaf Phuket per speedboat (90 minuten), maar in mei check je parkregels – het eiland sluit vaak in de moesson. Voor [vluchten naar Phuket](https://go2-thailand.com/nl/[flights](https://trip.tpo.lv/TmObooZ5?subid=blog)-to-phuket/) is mei ideaal door lagere tarieven.
+Vanaf Phuket per speedboat (90 minuten), maar in mei check je parkregels – het eiland sluit vaak in de moesson. Bekijk voor je reis ook onze pagina over [vluchten naar Phuket](/flights-to-phuket/); in mei liggen tarieven vaak lager, maar controleer altijd de actuele verbinding en voorwaarden.
 
 ### Operator Vergelijking voor Similan Trips
 

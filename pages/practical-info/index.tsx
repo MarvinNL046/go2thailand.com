@@ -146,7 +146,7 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'Insurance', href: '/travel-insurance/', internal: true },
             { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
             { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
             { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },

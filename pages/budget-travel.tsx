@@ -341,7 +341,7 @@ export default function BudgetTravelPage() {
                       Most travelers associate Koh Phangan with the Full Moon Party, but the island&apos;s northern and western coasts are a haven for budget travelers and yoga enthusiasts. Away from Haad Rin, you will find basic bungalows for ฿300-600 per night, beachside restaurants with ฿50-80 meals, and yoga retreats offering drop-in classes for ฿200-300. The island has a slower, more relaxed energy than Koh Samui next door, with a fraction of the cost. Bottle Beach on the north coast is one of the most beautiful and affordable beaches in the Gulf of Thailand.
                     </p>
                     <p className="mt-2 text-sm">
-                      <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s019_explore_koh_phangan")}</Link>
+                      <Link href="/islands/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s019_explore_koh_phangan")}</Link>
                     </p>
                   </div>
                   <div className="bg-white rounded-xl shadow-sm p-5">

@@ -379,7 +379,7 @@ export default function PhuketLuxuryVillasSpokePage({ spoke, primaryUrl, seconda
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
@@ -562,7 +562,7 @@ export default function PhuketLuxuryVillasSpokePage({ spoke, primaryUrl, seconda
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Tarieven en villa-specs geverifieerd in mei 2026 op Trip.com, Booking.com en de officiële website van elke resort. Privacy- en oceanfront-criteria gevalideerd via floorplans en recente Tripadvisor-foto\'s. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke resorts we noemen.' : "Rates and villa specs verified May 2026 on Trip.com, Booking.com and each resort's official website. Privacy and oceanfront criteria validated via floorplans and recent Tripadvisor photos. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which resorts we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -571,7 +571,9 @@ export default function PhuketLuxuryVillasSpokePage({ spoke, primaryUrl, seconda
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'villas', 'phuket-spokes.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.spokes as SpokeMeta[]).map(s => ({ params: { spoke: s.slug } }));
+  const paths = (data.spokes as SpokeMeta[]).flatMap(s =>
+    ['en', 'nl'].map(locale => ({ params: { spoke: s.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 

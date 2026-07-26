@@ -130,7 +130,7 @@ export default function PrivatePoolVillaPhuketPage({ partners, lastUpdated }: Pr
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Snelle vergelijking: 7 echte private pool villa-resorts' : 'Quick comparison: 7 truly private pool villa resorts'}</h2>
@@ -261,7 +261,7 @@ export default function PrivatePoolVillaPhuketPage({ partners, lastUpdated }: Pr
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Privacy-criteria geverifieerd in mei 2026: zwembad-formaat, omsluiting (muur/hek), gedeelde toegang ja/nee — gecheckt via resort-floorplan + recente Tripadvisor-foto\'s. Tarieven van Trip.com en Booking.com voor early-juni 2026 boekingen. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke resorts we noemen.' : "Privacy criteria verified May 2026: pool size, enclosure (wall/fence), shared access yes/no — checked via resort floorplans and recent Tripadvisor photos. Rates from Trip.com and Booking.com for early-June 2026 bookings. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which resorts we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

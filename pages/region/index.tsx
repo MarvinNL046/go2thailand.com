@@ -81,7 +81,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                       className="w-full h-64 object-cover"
                     />
                   </div>
-                  
+
                   {/* Region Content */}
                   <div className="p-6">
                     <h2 className="text-2xl font-bold text-gray-900 mb-3">
@@ -242,7 +242,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
               <a
                 href={trackAffiliate(TRIP_GENERIC, 'index-hotels')}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow sponsored"
                 className="flex items-center justify-center px-6 py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl text-center"
               >
                 <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -264,7 +264,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
               <a
                 href={trackAffiliate(TWELVEGO_GENERIC, 'index-transport')}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow sponsored"
                 className="flex items-center justify-center px-6 py-4 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors shadow-lg hover:shadow-xl text-center"
               >
                 <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -395,7 +395,7 @@ export const getStaticProps: GetStaticProps = async () => {
   // Read regions index file directly
   const regionsIndexPath = path.join(process.cwd(), 'data', 'regions', 'index.json');
   const regions = JSON.parse(fs.readFileSync(regionsIndexPath, 'utf8'));
-  
+
   return {
     props: {
       regions,

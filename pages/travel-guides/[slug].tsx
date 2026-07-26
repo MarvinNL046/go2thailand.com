@@ -8,6 +8,7 @@ import InsuranceCTA from '../../components/InsuranceCTA';
 import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import SevenElevenThailandGuide from '../../components/practical/SevenElevenThailandGuide';
 import VegetarianThailandGuide from '../../components/food/VegetarianThailandGuide';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 // --- Type definitions ---
 
@@ -133,7 +134,7 @@ function CardsRenderer({ section, lang }: { section: CardsSection; lang: Lang })
               <div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">
                   {item.link ? (
-                    <Link href={item.link} className="text-thailand-blue hover:underline">{item.name[lang]}</Link>
+                    <Link href={lang === 'nl' ? normalizeNlInternalHref(item.link) : item.link} className="text-thailand-blue hover:underline">{item.name[lang]}</Link>
                   ) : (
                     item.name[lang]
                   )}
@@ -448,7 +449,7 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
               </h2>
               <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto mt-8">
                 {guide.relatedLinks.map((link, i) => (
-                  <Link key={i} href={link.href} className="group">
+                  <Link key={i} href={lang === 'nl' ? normalizeNlInternalHref(link.href) : link.href} className="group">
                     <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                       <h3 className="font-bold font-heading text-lg group-hover:text-thailand-blue transition-colors">
                         {link.label[lang]}

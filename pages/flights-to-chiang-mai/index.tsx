@@ -149,7 +149,7 @@ export default function FlightsToChiangMaiPage({ routes, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">Quick comparison: {nonSearchCount} routes to Chiang Mai</h2>
@@ -284,8 +284,8 @@ export default function FlightsToChiangMaiPage({ routes, lastUpdated }: Props) {
             <p className="mt-2 text-gray-700">Plan the rest of your Chiang Mai trip:</p>
             <div className="mt-4 flex flex-wrap gap-3">
               <Link href="/best-hotels/chiang-mai/" className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">🏨 Best hotels in Chiang Mai</Link>
-              <Link href="/where-to-stay/chiang-mai/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">🗺️ Where to stay (areas)</Link>
-              <Link href="/best-hotels/chiang-mai/family/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">👨‍👩‍👧 Family hotels</Link>
+              <Link href="/best-hotels/chiang-mai/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">🗺️ Where to stay (areas)</Link>
+              <Link href={isNl ? '/best-hotels/chiang-mai/' : '/best-hotels/chiang-mai/family/'} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">👨‍👩‍👧 Family hotels</Link>
               <Link href="/chiang-mai-elephant-sanctuary/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">🐘 Elephant sanctuary</Link>
               <Link href="/transport/bangkok-to-chiang-mai/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">Bangkok → Chiang Mai alternatives</Link>
               <Link href="/city/chiang-mai/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">Chiang Mai travel guide</Link>
@@ -312,7 +312,7 @@ export default function FlightsToChiangMaiPage({ routes, lastUpdated }: Props) {
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">Methodology</h2>
             <p>Routes verified May 2026 against Trip.com schedules and airline timetables. Price bands are typical economy fares (low-to-high) outside peak weeks, not promotional sales. Duration ranges include minimum reasonable layover time for 1- and 2-stop options. We earn a commission when readers book through Trip.com — this never changes the price you pay or the routes we recommend. Last verified May 2026.</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

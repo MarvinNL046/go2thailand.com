@@ -87,21 +87,17 @@ export function EditorialHero({
           <div className="mt-7 flex flex-wrap gap-3">
             {actions.map((action) => {
               const rel = action.affiliate ? 'noopener noreferrer nofollow sponsored' : action.newTab ? 'noopener noreferrer' : undefined;
-              return (
-                <a
-                  key={`${action.kind}-${action.href}`}
-                  href={action.href}
-                  target={action.newTab ? '_blank' : undefined}
-                  rel={rel}
-                  aria-label={action.ariaLabel}
-                  className={`${action.kind === 'primary' ? 'btn-jade btn-jade-pattern' : 'btn-cream text-saffron-dark'} group min-h-12 w-full justify-center px-6 sm:w-auto`}
-                >
+              const className = `${action.kind === 'primary' ? 'btn-jade btn-jade-pattern' : 'btn-cream text-saffron-dark'} group min-h-12 w-full justify-center px-6 sm:w-auto`;
+              const content = <>
                   {action.label}
                   {action.icon || (action.kind === 'primary'
                     ? <ArrowRight size={17} aria-hidden="true" className="text-saffron transition-transform group-hover:translate-x-1" />
                     : <span className="grid h-6 w-6 place-items-center rounded-md border border-saffron/45"><ArrowRight size={14} aria-hidden="true" /></span>)}
-                </a>
-              );
+                </>;
+              if (action.href.startsWith('/') && !action.newTab) {
+                return <Link key={`${action.kind}-${action.href}`} href={action.href} aria-label={action.ariaLabel} className={className}>{content}</Link>;
+              }
+              return <a key={`${action.kind}-${action.href}`} href={action.href} target={action.newTab ? '_blank' : undefined} rel={rel} aria-label={action.ariaLabel} className={className}>{content}</a>;
             })}
           </div>
           {disclosure ? <AffiliateDisclosure className="mt-3 max-w-[550px]">{disclosure}</AffiliateDisclosure> : null}

@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Bangkok Travel Tips Reddit: Ultieme Stadsgids voor Nederlandse Reizigers in 2026"
 slug: "bangkok-travel-tips-reddit"

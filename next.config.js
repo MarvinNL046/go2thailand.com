@@ -425,11 +425,6 @@ const nextConfig = {
         destination: '/flights-to-phuket/:origin/',
         permanent: true,
       },
-      {
-        source: '/about/',
-        destination: '/',
-        permanent: true,
-      },
       // Self-referencing transport route bug
       {
         source: '/transport/bangkok-to-bangkok/',

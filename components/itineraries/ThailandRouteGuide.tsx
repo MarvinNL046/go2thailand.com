@@ -176,7 +176,7 @@ export default function ThailandRouteGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-route-hero.webp"
           imageAlt="Reisroute door Thailand langs Bangkok, bergen, trein en zuidelijke kust"
@@ -332,7 +332,7 @@ export default function ThailandRouteGuide() {
             { title: 'Voorspellingen en waarschuwingen voor Thailand', creator: 'Thai Meteorological Department', url: 'https://www.tmd.go.th/en', note: 'Voor actuele regen-, wind- en golfwaarschuwingen bij kust- en bootplanning.' },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

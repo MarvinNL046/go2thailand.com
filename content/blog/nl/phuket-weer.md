@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Phuket weer: per maand en seizoen het complete overzicht voor je reis in 2026"
 slug: "phuket-weer"

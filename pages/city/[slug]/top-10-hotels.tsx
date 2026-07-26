@@ -182,7 +182,7 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-6">
                 {hotelsData.title}
               </h1>
-              
+
               <div className="text-lg text-gray-600 mb-8 leading-relaxed">
                 {hotelsData.intro}
               </div>
@@ -221,12 +221,12 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
         <section className="section-padding">
           <div className="container-custom">
             <div className="lg:grid lg:grid-cols-12 lg:gap-8">
-              
+
               {/* Sidebar - Desktop */}
               <aside className="hidden lg:block lg:col-span-3">
                 <div className="sticky top-4 space-y-6">
                   {/* Sticky Sidebar Ad */}
-                  
+
                   {/* Quick Navigation */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Quick Jump</h3>
@@ -273,12 +273,12 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
               </aside>
 
               {/* Main Content */}
-              <main className="lg:col-span-9">
+              <div className="lg:col-span-9">
                 <div className="space-y-8">
                   {hotelsData.items.map((hotel, index) => (
                     <div key={hotel.rank}>
                       {/* Hotel Item */}
-                      <article 
+                      <article
                         id={`hotel-${hotel.rank}`}
                         className="bg-white rounded-2xl shadow-md overflow-hidden"
                       >
@@ -357,7 +357,7 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
                         <div className="my-8">
                         </div>
                       )}
-                      
+
                       {index === 6 && (
                         <div className="my-8">
                         </div>
@@ -412,7 +412,7 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
                     </div>
                   )}
                 </div>
-              </main>
+              </div>
             </div>
           </div>
         </section>

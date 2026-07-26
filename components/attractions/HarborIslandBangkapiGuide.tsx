@@ -198,7 +198,7 @@ export function HarborIslandBangkapiGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           eyebrow="Rooftopwaterpark aan de Yellow Line"
           title={<>Harbor Island<br />Bangkapi.</>}
@@ -403,7 +403,7 @@ export function HarborIslandBangkapiGuide() {
           description="DFS bepaalde de Nederlandse merk-, ticket-, prijs-, tijd-, kind-, route-, regel- en reviewintentie. Officiële HarborLand-pagina’s dragen de zone-, locatie- en branchfeiten; The Mall Group draagt Exit 3 en de skywalk. Secundaire bronnen zijn alleen gebruikt om productverwarring en sessievormen te toetsen. Oude vaste prijzen, euroconversies, onzekere inclusies, Happy Care en tijdloze grootste-claims zijn verwijderd. Laatst gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

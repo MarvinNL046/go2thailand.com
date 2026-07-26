@@ -112,7 +112,7 @@ export default function NaiHarnHotelsHubPage({ partners, hotels, lastUpdated }: 
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Snelle vergelijking: 6 opties' : 'Quick compare: 6 picks'}</h2>
@@ -221,7 +221,7 @@ export default function NaiHarnHotelsHubPage({ partners, hotels, lastUpdated }: 
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

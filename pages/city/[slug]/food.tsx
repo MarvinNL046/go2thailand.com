@@ -113,7 +113,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
   };
 
   // Get popular dishes (main dishes, soups, and curries)
-  const popularDishes = (foodData as Food[]).filter(food => 
+  const popularDishes = (foodData as Food[]).filter(food =>
     ['main-dish', 'soup', 'curry'].includes(food.category)
   ).slice(0, 8);
 
@@ -187,8 +187,8 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
               {popularDishes.map((dish) => (
-                <Link 
-                  key={dish.id} 
+                <Link
+                  key={dish.id}
                   href={`/food/${dish.slug}`}
                   className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden group"
                 >
@@ -295,7 +295,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 {lang === 'nl' ? `Waar Vind je het Beste Eten in ${cityName}` : `Where to Find the Best Food in ${cityName}`}
               </h2>
-              
+
               {cityFoodData && cityFoodData.markets.length > 0 ? (
                 <>
                   {/* Markets Section */}
@@ -399,7 +399,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                   : `Ready to explore the best restaurants and food experiences in ${cityName}? Check out our curated list of top dining destinations.`}
               </p>
               <Link
-                href={`/city/${city.slug}/top-10-restaurants`}
+                href={lang === 'nl' ? `/city/${city.slug}/food/` : `/city/${city.slug}/top-10-restaurants/`}
                 className="btn-primary inline-block"
               >
                 {lang === 'nl' ? 'Bekijk Top 10 Restaurants →' : 'View Top 10 Restaurants →'}
@@ -422,7 +422,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                     <p className="text-gray-600 text-sm">{lang === 'nl' ? 'Bekijk top bezienswaardigheden' : 'See top attractions'}</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                <Link href={lang === 'nl' ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16" />

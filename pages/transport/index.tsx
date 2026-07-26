@@ -70,21 +70,21 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
   const getRouteIcon = (from: string, to: string) => {
     const fromCity = cities.find(c => c.slug === from);
     const toCity = cities.find(c => c.slug === to);
-    
+
     if (!fromCity || !toCity) return '';
-    
+
     // Check if it's an island route
-    if (['phuket', 'koh-samui', 'koh-phangan', 'koh-tao'].includes(from) || 
+    if (['phuket', 'koh-samui', 'koh-phangan', 'koh-tao'].includes(from) ||
         ['phuket', 'koh-samui', 'koh-phangan', 'koh-tao'].includes(to)) {
       return '';
     }
-    
+
     // Check distance for flight icon
     const route = allRoutes.find(r => r.slug === `${from}-to-${to}`);
     if (route && parseInt(route.distance) > 500) {
       return '';
     }
-    
+
     return '';
   };
 
@@ -107,7 +107,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         <meta name="keywords" content="thailand transport, thailand bus routes, thailand flights, thailand trains, bangkok to chiang mai, bangkok to phuket, transport in thailand" />
       </SEOHead>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Thailand Transportroutes' : 'Thailand Transport Routes'}</h1>
@@ -341,7 +341,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
           </div>
         </section>
 
-      </main>
+      </div>
     </div>
   );
 };

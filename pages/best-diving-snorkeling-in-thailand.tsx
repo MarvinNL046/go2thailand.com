@@ -730,7 +730,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
               <p className="text-sm text-amber-800 mb-3">
                 Standard travel insurance policies typically exclude scuba diving below 10 metres. Decompression sickness (DCS) treatment in a hyperbaric chamber costs USD 2,000–10,000 or more and is not covered by most general travel policies. Divers Alert Network (DAN) offers diving-specific medical insurance that covers hyperbaric treatment, medical evacuation, and diving-related injuries globally. DAN Asia-Pacific coverage starts from around USD 75 per year for recreational divers.
               </p>
-              <Link href="/travel-insurance-thailand/" className="text-sm font-semibold text-thailand-blue hover:underline">
+              <Link href="/travel-insurance/" className="text-sm font-semibold text-thailand-blue hover:underline">
                 {isNl ? 'Vergelijk reisverzekeringen voor Thailand' : 'Compare travel insurance options for Thailand'} &rarr;
               </Link>
             </div>
@@ -780,7 +780,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                   { href: '/best-places-to-visit-thailand/', title: 'Best Places to Visit', description: 'Thailand\'s top destinations ranked by experience type — beaches, culture, value, and adventure.' },
                   { href: '/thailand-for-first-timers/', title: "First Timer's Guide", description: 'Essential orientation for first-time visitors: safety, etiquette, transport, health, and must-do experiences.' },
                   { href: '/best-elephant-sanctuaries-in-thailand/', title: 'Elephant Sanctuaries', description: 'Ethical elephant experiences that prioritise animal welfare — with details on what to look for and what to avoid.' },
-                  { href: '/travel-insurance-thailand/', title: 'Travel Insurance for Thailand', description: 'How to choose a policy that covers scuba diving, adventure activities, and medical evacuation.' },
+                  { href: '/travel-insurance/', title: 'Travel Insurance for Thailand', description: 'How to choose a policy that covers scuba diving, adventure activities, and medical evacuation.' },
                 ].map((guide) => (
                   <Link
                     key={guide.href}

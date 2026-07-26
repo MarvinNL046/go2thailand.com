@@ -147,7 +147,7 @@ export default function PhuketOldTownThingsToDoPage({ partners, lastUpdated }: P
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
           {/* The 10 things */}
           <section className="space-y-4">
             {things.map((t, i) => (
@@ -208,7 +208,7 @@ export default function PhuketOldTownThingsToDoPage({ partners, lastUpdated }: P
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

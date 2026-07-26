@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Snorkelen in Thailand: Beste Eilanden voor Helder Zicht"
 slug: "snorkelen-thailand-beste-eilanden-heldere-zicht"

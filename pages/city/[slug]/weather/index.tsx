@@ -57,7 +57,7 @@ const getSeasonColor = (month: string) => {
   const coolSeason = ['november', 'december', 'january', 'february'];
   const hotSeason = ['march', 'april', 'may'];
   const rainySeason = ['june', 'july', 'august', 'september', 'october'];
-  
+
   if (coolSeason.includes(month)) return 'bg-blue-100 border-blue-300';
   if (hotSeason.includes(month)) return 'bg-orange-100 border-orange-300';
   return 'bg-green-100 border-green-300';
@@ -108,7 +108,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
           : `${cityName} weather, ${cityName} climate, ${cityName} temperature, ${cityName} rainfall, ${cityName} best time to visit, ${cityName} seasons`} />
       </SEOHead>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-8">
@@ -211,7 +211,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             {/* City Weather Selector */}
             <div className="bg-white rounded-2xl shadow-md p-6">
               <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Weer in Andere Steden' : 'Other Cities Weather'}</h3>
-              <select 
+              <select
                 className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red"
                 value={city.slug}
                 onChange={(e) => window.location.href = `/city/${e.target.value}/weather/`}
@@ -273,7 +273,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${city.slug}/hotels`} className="text-thailand-red hover:text-thailand-blue">
+                  <Link href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`} className="text-thailand-red hover:text-thailand-blue">
                     {isNl ? 'Waar Verblijven' : 'Where to Stay'}
                   </Link>
                 </li>
@@ -316,7 +316,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             {isNl ? 'Affiliate links. We kunnen een kleine commissie verdienen zonder extra kosten voor jou.' : 'Affiliate links. We may earn a small commission at no extra cost to you.'}
           </p>
         </section>
-      </main>
+      </div>
     </div>
   );
 };
@@ -328,7 +328,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ params, locale }) => {
   const { slug } = params as { slug: string };
   const cityWeather = cityWeatherData as Record<string, any>;
-  
+
   const city = citiesData.find(c => c.slug === slug);
   const nlGuide = locale === 'nl' ? getNlWeatherGuide(slug) : undefined;
   if (!city || (!cityWeather[slug] && !nlGuide)) {
@@ -356,10 +356,10 @@ export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ pa
 
   const monthlyWeather = Object.entries(monthNamesEN).map(([monthSlug, monthName]) => {
     const data = monthlyData[monthSlug];
-    
+
     // Handle different data structures
     let temperature, rainfall, description;
-    
+
     if (data.temperature) {
       // New structure (ayutthaya, chiang-rai, etc.)
       temperature = data.temperature;
@@ -371,7 +371,7 @@ export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ pa
       rainfall = data.rainfall_mm;
       description = data.description;
     }
-    
+
     return {
       month: monthSlug,
       monthName,

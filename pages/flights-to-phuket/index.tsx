@@ -206,7 +206,7 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table — biggest click driver per affiliate playbook */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">
@@ -401,7 +401,7 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
               <Link href="/best-hotels/phuket/" className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">
                 🏨 {isNl ? 'Beste hotels in Phuket' : 'Best hotels in Phuket'}
               </Link>
-              <Link href="/where-to-stay/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
+              <Link href="/best-hotels/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
                 🗺️ {isNl ? 'Waar overnachten (wijken)' : 'Where to stay (areas)'}
               </Link>
               <Link href="/best-hotels/phuket/family/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">
@@ -454,7 +454,7 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
                 : 'Routes verified May 2026 against Trip.com schedules and airline timetables. Price bands are typical economy fares (low-to-high) outside peak weeks, not promotional sales. Duration ranges include minimum reasonable layover time for 1-stop options. We earn a commission when readers book through Trip.com — this never changes the price you pay or the routes we recommend. Last verified May 2026.'}
             </p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

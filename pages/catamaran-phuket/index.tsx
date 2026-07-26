@@ -126,7 +126,7 @@ export default function CatamaranPhuketPage({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table — 5 catamaran trip types */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Snelle vergelijking: 5 catamaran-trip types' : 'Quick comparison: 5 catamaran trip types'}</h2>
@@ -299,7 +299,7 @@ export default function CatamaranPhuketPage({ partners, lastUpdated }: Props) {
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Tarieven en operators geverifieerd in mei 2026 op Klook, GetYourGuide en Viator voor early-juni 2026 boekingen vanuit Phuket. Boot-merken (Lagoon, Leopard) en operator-namen (Tropical Sailing, Phuket Sail Tours) zijn cross-checked tegen recente Tripadvisor-reviews + de eigen websites van de operators. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke catamarans we noemen.' : "Rates and operators verified May 2026 on Klook, GetYourGuide and Viator for early-June 2026 bookings from Phuket. Boat brands (Lagoon, Leopard) and operator names (Tropical Sailing, Phuket Sail Tours) cross-checked against recent Tripadvisor reviews + each operator's own site. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which catamarans we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

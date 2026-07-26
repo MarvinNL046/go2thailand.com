@@ -97,6 +97,21 @@ const moodDishSlugs: Record<MoodKey, string[]> = {
   'zonder-vlees': ['pad-thai', 'som-tam', 'mango-sticky-rice'],
 };
 
+const discoveryDishSlugs = [
+  'gaeng-tai-pla',
+  'goong-pad-sator',
+  'hoy-tod',
+  'kaeng-liang',
+  'khao-pad-sapparot',
+  'moo-palo',
+  'nam-prik-kapi',
+  'nam-prik-noom',
+  'pla-pao',
+  'roti-canai',
+  'roti-sai-mai',
+  'tom-yum-noodles',
+];
+
 const regionalRoute = [
   {
     region: 'Noord',
@@ -333,6 +348,7 @@ export default function ThailandFoodHub({ dishes }: ThailandFoodHubProps) {
   const dishMap = useMemo(() => new Map(dishes.map((dish) => [dish.slug, dish])), [dishes]);
   const featuredDishes = Object.keys(dishProfiles).map((slug) => dishMap.get(slug)).filter((dish): dish is Dish => Boolean(dish));
   const moodDishes = moodDishSlugs[activeMood].map((slug) => dishMap.get(slug)).filter((dish): dish is Dish => Boolean(dish));
+  const discoveryDishes = discoveryDishSlugs.map((slug) => dishMap.get(slug)).filter((dish): dish is Dish => Boolean(dish));
 
   return (
     <>
@@ -342,7 +358,7 @@ export default function ThailandFoodHub({ dishes }: ThailandFoodHubProps) {
         ))}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Reizigers kiezen gerechten bij een Thaise open keuken"
@@ -448,6 +464,22 @@ export default function ThailandFoodHub({ dishes }: ThailandFoodHubProps) {
                   </Link>
                 );
               })}
+            </div>
+
+            <div className="mt-10 overflow-hidden rounded-2xl border border-jade/10 bg-tonal/55">
+              <div className="grid gap-5 border-b border-jade/10 px-6 py-6 sm:grid-cols-[0.72fr_1.28fr] sm:items-end lg:px-8">
+                <div><p className="eyebrow">Verder proeven</p><h3 className="font-display text-[2rem] font-semibold leading-none text-jade">Twaalf regionale sporen buiten de klassiekers</h3></div>
+                <p className="text-xs font-medium leading-6 text-charcoal/62">Van gegrilde vis en noedelsoep tot zuidelijke curry en Ayutthaya’s zoete roti. Open een gerecht voor ingrediënten, herkomst, pittigheid en bestelcontext.</p>
+              </div>
+              <div className="grid gap-px bg-jade/10 sm:grid-cols-2 lg:grid-cols-3">
+                {discoveryDishes.map((dish, index) => (
+                  <Link key={dish.slug} href={`/food/${dish.slug}/`} className="group flex min-h-[84px] items-center gap-4 bg-white/90 px-5 py-4 transition hover:bg-white">
+                    <span className="grid h-9 w-9 shrink-0 place-items-center rounded-full border border-saffron/35 bg-canvas text-[10px] font-extrabold text-saffron-dark">{String(index + 1).padStart(2, '0')}</span>
+                    <span className="min-w-0 flex-1"><strong className="block font-display text-xl font-semibold leading-none text-jade">{dish.name.nl}</strong><span className="mt-1.5 block text-[9px] font-bold uppercase tracking-[0.12em] text-charcoal/42">{dish.region} · {dish.category}</span></span>
+                    <ArrowRight size={14} className="shrink-0 text-saffron-dark transition group-hover:translate-x-1" />
+                  </Link>
+                ))}
+              </div>
             </div>
           </div>
         </section>
@@ -579,7 +611,7 @@ export default function ThailandFoodHub({ dishes }: ThailandFoodHubProps) {
           description="Laatst inhoudelijk gecontroleerd op 26 juli 2026. We combineerden zelfstandige Nederlandse DFS-, SERP-, concurrent- en PAA-research met officiële Thaise cultuur- en toerismebronnen, de WHO-richtlijn en FARE. Gerechten, ingrediënten en gewoonten verschillen per kok, regio en context; medische dieetbeslissingen blijven buiten deze reisgids."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

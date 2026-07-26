@@ -200,7 +200,7 @@ export function NewLuxuryResortsThailandGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Sfeerbeeld van een eigentijds Thais kustresort bij zonsopkomst"
@@ -426,7 +426,7 @@ export function NewLuxuryResortsThailandGuide() {
           description="DFS bepaalde de Nederlandse zoekintentie, concurrentie en echte PAA. Hotelstatus en kerngegevens zijn daarna teruggebracht tot actuele primaire merkpagina’s. We behandelen aankondigingen als planning, officiële hotelpagina’s als bron en een echte boekbare kamer als beslissend bewijs. Laatst gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

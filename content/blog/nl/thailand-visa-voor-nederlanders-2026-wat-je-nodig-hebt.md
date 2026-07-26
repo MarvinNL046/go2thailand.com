@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Thailand visa voor Nederlanders 2026 — volledige gids met stappen en kosten"
 slug: "thailand-visa-nederlanders-2026"

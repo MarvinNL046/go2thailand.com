@@ -405,15 +405,15 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                         {(city.hasTop10Hotels || city.hasTop10Restaurants || city.hasTop10Attractions) && (
                           <div className="flex flex-wrap gap-2 mt-2 px-1">
                             {city.hasTop10Hotels && (
-                              <Link href={`/city/${city.slug}/top-10-hotels/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
+                              <Link href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/top-10-hotels/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
                             )}
                             {city.hasTop10Hotels && city.hasTop10Restaurants && <span className="text-gray-300">·</span>}
                             {city.hasTop10Restaurants && (
-                              <Link href={`/city/${city.slug}/top-10-restaurants/`} className="text-xs text-thailand-blue hover:underline">Restaurants</Link>
+                              <Link href={isNl ? `/city/${city.slug}/food/` : `/city/${city.slug}/top-10-restaurants/`} className="text-xs text-thailand-blue hover:underline">Restaurants</Link>
                             )}
                             {(city.hasTop10Hotels || city.hasTop10Restaurants) && city.hasTop10Attractions && <span className="text-gray-300">·</span>}
                             {city.hasTop10Attractions && (
-                              <Link href={`/city/${city.slug}/top-10-attractions/`} className="text-xs text-thailand-blue hover:underline">Attractions</Link>
+                              <Link href={isNl ? `/city/${city.slug}/attractions/` : `/city/${city.slug}/top-10-attractions/`} className="text-xs text-thailand-blue hover:underline">{isNl ? 'Bezienswaardigheden' : 'Attractions'}</Link>
                             )}
                           </div>
                         )}
@@ -889,7 +889,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 </div>
                 <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Vervoer & Transfers' : 'Transport & Transfers'}</h3>
                 <p className="text-gray-600 text-sm mb-4">Book buses, trains, ferries, and flights across {(region.name[lang] || region.name.en)}.</p>
-                <a href={trackAffiliate(TWELVEGO_GENERIC, 'transport-card')} target="_blank" rel="noopener noreferrer" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
+                <a href={trackAffiliate(TWELVEGO_GENERIC, 'transport-card')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
                   Book on 12Go Asia
                 </a>
               </div>

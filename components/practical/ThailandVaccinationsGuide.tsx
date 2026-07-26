@@ -337,7 +337,7 @@ export default function ThailandVaccinationsGuide() {
         ))}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Reizigers bespreken hun Thailand-route tijdens een reisgezondheidsconsult"
@@ -628,7 +628,7 @@ export default function ThailandVaccinationsGuide() {
           description="Laatst inhoudelijk gecontroleerd op 26 juli 2026. We combineerden Nederlandse zoekdata en echte PAA-vragen met officiële gezondheidsbronnen. Omdat risicozones, toegangseisen en medische adviezen wijzigen, verwijzen we voor de beslissing altijd door naar een erkende reisvaccinatieprofessional."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

@@ -382,7 +382,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
                 <div className="text-sm text-gray-500 mt-1">{t.hotelGuidesDesc}</div>
               </Link>
               <Link
-                href="/travel-insurance-thailand/"
+                href="/travel-insurance/"
                 className="block bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 border-l-4 border-thailand-red group"
               >
                 <div className="text-2xl mb-2">🛡️</div>

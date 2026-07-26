@@ -519,7 +519,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                   ? 'De meeste reisverzekeringen sluiten vechtsporten uit. SafetyWing\'s polisvoorwaarden vermelden vechtsporten als uitgesloten activiteiten. Als training of vechten deel uitmaakt van je reis, vraag dan schriftelijke bevestiging van de verzekeraar voordat je koopt.'
                   : 'Most travel insurance policies exclude martial arts. SafetyWing\'s Description of Coverage lists martial arts among excluded activities. If training or fighting is part of your trip, get written confirmation from the insurer before you buy.'}
               </p>
-              <Link href="/travel-insurance-thailand/" className="text-sm font-semibold text-thailand-blue hover:underline">
+              <Link href="/travel-insurance/" className="text-sm font-semibold text-thailand-blue hover:underline">
                 {isNl ? 'Vergelijk reisverzekeringen voor Thailand →' : 'Compare travel insurance for Thailand →'}
               </Link>
             </div>
@@ -535,7 +535,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                 <a
                   href={GYG_AFFILIATE}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-red font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
@@ -543,7 +543,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                 <a
                   href={KLOOK_AFFILIATE}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook

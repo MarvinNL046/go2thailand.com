@@ -14,7 +14,7 @@ const days = [
       nl: ['Boottocht vanuit Ao Nang', 'Verken Phra Nang Cave Beach', 'Klimmen of relaxen op het strand'],
       en: ['Boat trip from Ao Nang', 'Explore Phra Nang Cave Beach', 'Climb or relax on the beach'],
     },
-    href: '/city/krabi/attractions/railay-beach/',
+    href: '/city/krabi/attractions/',
     external: false,
   },
   {

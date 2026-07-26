@@ -206,7 +206,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
         </Head>
       )}
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         {/* Booking Hero CTA — contextual, referrer-aware */}
@@ -215,7 +215,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">
           {fromCity.name.en} {t('to', 'naar')} {toCity.name.en}
         </h1>
-        
+
         <div className="flex flex-wrap gap-4 mb-8">
           <div className="bg-surface-cream px-4 py-2 rounded-xl">
             <span className="text-sm text-gray-600">{t('Distance:', 'Afstand:')}</span>
@@ -503,7 +503,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             {/* Other Routes Selector */}
             <div className="bg-white rounded-2xl shadow-md p-6">
               <h3 className="text-lg font-semibold font-heading mb-4">{t('Popular Routes', 'Populaire Routes')}</h3>
-              <select 
+              <select
                 className="w-full p-2 border border-gray-300 rounded-xl text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red mb-4"
                 value={route.slug}
                 onChange={(e) => window.location.href = `/transport/${e.target.value}`}
@@ -557,7 +557,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                   </Link>
                 </li>
                 <li>
-                  <Link href="/travel-insurance-thailand/" className="text-thailand-red hover:text-thailand-red-600">
+                  <Link href="/travel-insurance/" className="text-thailand-red hover:text-thailand-red-600">
                     {t('Travel Insurance', 'Reisverzekering')}
                   </Link>
                 </li>
@@ -577,7 +577,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
           citySlug={toCity.slug}
           cityName={toCity.name.en}
         />
-      </main>
+      </div>
     </div>
   );
 };

@@ -242,7 +242,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
             { label: 'Trip.com', href: TRIP_GENERIC },
             { label: 'Activities', href: KLOOK_GENERIC },
             { label: 'Transport', href: TWELVEGO_GENERIC },
-            { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'Insurance', href: '/travel-insurance/', internal: true },
             { label: 'NordVPN', href: NORDVPN_GENERIC },
             { label: 'NordPass', href: NORDPASS_GENERIC },
           ]}

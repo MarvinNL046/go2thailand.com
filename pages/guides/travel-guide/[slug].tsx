@@ -8,6 +8,7 @@ import AffiliateBox from '../../../components/AffiliateBox';
 import type { TravelGuidePage } from '../../../lib/cluster-types';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 import { normalizeTravelGuide } from '../../../lib/normalize-cluster';
+import { nlCityOwner, normalizeNlInternalHref } from '../../../lib/nl-route-owners';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
@@ -20,7 +21,7 @@ export default function TravelGuidePage({ data, affiliates }: Props) {
   const isNl = locale === 'nl';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: isNl ? 'Gidsen' : 'Guides', href: '/guides/' },
+    { name: isNl ? 'Reisgidsen' : 'Travel guides', href: '/travel-guides/' },
     { name: isNl ? `${data.cityName} Reisgids` : `${data.cityName} Travel Guide`, href: `/guides/travel-guide/${data.citySlug}/` },
   ];
 
@@ -128,7 +129,7 @@ export default function TravelGuidePage({ data, affiliates }: Props) {
               </div>
             </div>
             <Link
-              href={`/city/${data.citySlug}/food/`}
+              href={isNl ? normalizeNlInternalHref(`/city/${data.citySlug}/food/`) : `/city/${data.citySlug}/food/`}
               className="inline-block text-thailand-blue font-semibold hover:underline"
             >
               {isNl ? `Volledige ${data.cityName} Eetgids →` : `Full ${data.cityName} Food Guide →`}
@@ -210,7 +211,7 @@ export default function TravelGuidePage({ data, affiliates }: Props) {
                 <p className="text-sm text-gray-500">{isNl ? 'Gerechten, street food & eettips →' : 'Dishes, street food & dining tips →'}</p>
               </Link>
               <Link
-                href="/travel-insurance-thailand/"
+                href="/travel-insurance/"
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
@@ -241,9 +242,17 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths: [], fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const { getTravelGuide } = await import('../../../lib/clusters');
   const slug = params?.slug as string;
+  if (locale === 'nl') {
+    return {
+      redirect: {
+        destination: `/nl${nlCityOwner(slug)}`,
+        permanent: true,
+      },
+    };
+  }
   const raw = getTravelGuide(slug);
   if (!raw) return { notFound: true };
   const data = normalizeTravelGuide(raw);

@@ -1,4 +1,4 @@
-import Link from 'next/link';
+﻿import Link from 'next/link';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC } from '../../lib/affiliates';
@@ -177,7 +177,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={GYG_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                 >
                   Skip-the-Line Tours on GetYourGuide
@@ -185,7 +185,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={VIATOR_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Compare on Viator
@@ -279,7 +279,7 @@ export default function GrandPalaceTicketsPage() {
                   <a
                     href={OFFICIAL_SITE}
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="noopener noreferrer"
                     className="text-sm font-semibold text-thailand-blue hover:underline"
                   >
                     Official Royal Grand Palace website
@@ -293,7 +293,7 @@ export default function GrandPalaceTicketsPage() {
                   <a
                     href={GYG_GENERIC}
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                   >
                     Check GetYourGuide
@@ -307,7 +307,7 @@ export default function GrandPalaceTicketsPage() {
                   <a
                     href={VIATOR_GENERIC}
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                   >
                     Check Viator
@@ -321,7 +321,7 @@ export default function GrandPalaceTicketsPage() {
                   <a
                     href={KLOOK_GENERIC}
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                   >
                     Check Klook
@@ -667,7 +667,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={GYG_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-semibold text-thailand-blue transition-colors hover:bg-slate-100"
                 >
                   Book on GetYourGuide
@@ -675,7 +675,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={VIATOR_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Compare on Viator
@@ -683,7 +683,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={KLOOK_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Check Klook

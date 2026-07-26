@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 import { formatEditorialUpdatedAt } from '../../lib/pseo-editorial-date';
 
 interface FounderNoteProps {
@@ -44,12 +45,12 @@ export default function FounderNote({ updatedAt }: FounderNoteProps) {
           </p>
 
           <div className="mt-4 flex flex-wrap gap-3 text-sm">
-            <a href="/about/" className="font-semibold text-thailand-blue hover:underline">
+            <Link href="/about/" className="font-semibold text-thailand-blue hover:underline">
               Meet the founder
-            </a>
-            <a href="/editorial-policy/" className="font-semibold text-thailand-blue hover:underline">
+            </Link>
+            <Link href="/editorial-policy/" className="font-semibold text-thailand-blue hover:underline">
               Read our editorial policy
-            </a>
+            </Link>
           </div>
         </div>
       </div>

@@ -513,7 +513,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     <a
                       href={trackAffiliate(BOOKING_GENERIC, 'sidebar-hotels-primary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
                     >
                       Booking.com
@@ -521,7 +521,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     <a
                       href={trackAffiliate(TRIP_GENERIC, 'sidebar-hotels-secondary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
                     >
                       Trip.com
@@ -537,7 +537,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     <a
                       href={trackAffiliate(KLOOK_GENERIC, 'sidebar-tours-primary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
                       {locale === 'nl' ? 'Klook Activiteiten' : 'Klook Activities'}
@@ -545,7 +545,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     <a
                       href={trackAffiliate(GYG_GENERIC, 'sidebar-tours-secondary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
                       GetYourGuide Tours
@@ -563,7 +563,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                   <a
                     href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
                   >
                     Saily eSIM
@@ -579,7 +579,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                   <p className="text-sm opacity-90 mb-4">
                     {locale === 'nl' ? 'Bescherm jezelf tijdens het reizen. Vergelijk de beste reisverzekeringen.' : 'Protect yourself while traveling. Compare the best travel insurance.'}
                   </p>
-                  <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
+                  <Link href="/travel-insurance/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
                     {locale === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
                   </Link>
                 </div>
@@ -590,7 +590,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                   <a
                     href={trackAffiliate(TWELVEGO_GENERIC, 'sidebar-transport')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
                   >
                     {locale === 'nl' ? '12Go Asia - Boek Transport' : '12Go Asia - Book Transport'}

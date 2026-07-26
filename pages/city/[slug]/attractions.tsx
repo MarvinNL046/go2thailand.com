@@ -9,6 +9,7 @@ import CitySupportSources from '../../../components/CitySupportSources';
 import { KrabiAttractionsGuide } from '../../../components/city/KrabiAttractionsGuide';
 import { AttractionsGuideTemplate } from '../../../components/city/AttractionsGuideTemplate';
 import { getNlAttractionsGuide } from '../../../data/attractions/nl';
+import { getNlAttractionDetailGuide } from '../../../data/attraction-details/nl';
 
 interface Attraction {
   id: number;
@@ -216,10 +217,13 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                   {/* Attractions Grid */}
                   {attractions.length > 0 ? (
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                      {attractions.map((attraction, index) => (
-                        <Link 
-                          key={attraction.id} 
-                          href={`/city/${city.slug}/attractions/${attraction.slug}/`}
+                      {attractions.map((attraction, index) => {
+                        const hasDetailOwner = !isNl || Boolean(getNlAttractionDetailGuide(city.slug, attraction.slug));
+                        return (
+                        <Link
+                          key={attraction.id}
+                          id={attraction.slug}
+                          href={hasDetailOwner ? `/city/${city.slug}/attractions/${attraction.slug}/` : `/city/${city.slug}/attractions/#${attraction.slug}`}
                           className="group bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border-0"
                         >
                           {/* Attraction Image */}
@@ -231,7 +235,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                               className="object-cover group-hover:scale-110 transition-transform duration-300"
                             />
                             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                            
+
                             {/* Ranking Badge */}
                             <div className="absolute top-4 left-4">
                               <div className="w-8 h-8 bg-white/95 backdrop-blur-sm rounded-full flex items-center justify-center">
@@ -255,7 +259,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                               </div>
                             )}
                           </div>
-                          
+
                           {/* Content */}
                           <div className="p-6">
                             <h3 className="text-xl font-bold font-heading text-thailand-blue-900 mb-3 group-hover:text-thailand-red transition-colors">
@@ -265,12 +269,12 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                               {attraction.enhanced_description?.substring(0, 150) || (attraction.description[lang] || attraction.description.en)}
                               {(attraction.enhanced_description?.length > 150 || (attraction.description[lang] || attraction.description.en).length > 150) && '...'}
                             </p>
-                            
+
                             {/* Highlights */}
                             {attraction.highlights.length > 0 && (
                               <div className="flex flex-wrap gap-1 mb-4">
                                 {attraction.highlights.slice(0, 3).map((highlight, idx) => (
-                                  <span 
+                                  <span
                                     key={idx}
                                     className="bg-thailand-blue-50 text-thailand-blue-700 px-2 py-1 rounded text-xs"
                                   >
@@ -279,7 +283,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                 ))}
                               </div>
                             )}
-                            
+
                             {/* Action Bar */}
                             <div className="flex items-center justify-between pt-4 border-t border-gray-100">
                               <div className="flex items-center gap-3">
@@ -306,7 +310,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                 )}
                               </div>
                               <div className="text-thailand-blue hover:text-thailand-red font-medium text-sm flex items-center transition-colors group">
-                                <span>{isNl ? 'Lees Meer' : 'Learn More'}</span>
+                                <span>{isNl ? (hasDetailOwner ? 'Lees meer' : 'In deze gids') : 'Learn More'}</span>
                                 <svg className="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                                 </svg>
@@ -314,7 +318,8 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             </div>
                           </div>
                         </Link>
-                      ))}
+                        );
+                      })}
                     </div>
                   ) : (
                     <div className="text-center py-16">
@@ -444,7 +449,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                           ? 'Kies een uitvalsbasis die het reizen door de stad beperkt.'
                           : 'Choose a base that cuts down cross-city transfers.'}
                       </p>
-                      <Link href={`/city/${city.slug}/hotels/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
+                      <Link href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
                         {isNl ? 'Bekijk Hotelgids' : 'See Hotel Guide'}
                       </Link>
                     </div>
@@ -473,7 +478,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     </Link>
 
                     <Link
-                      href={`/city/${city.slug}/hotels/`}
+                      href={isNl ? `/best-hotels/${city.slug}/` : `/city/${city.slug}/hotels/`}
                       className="group flex items-center p-6 border-0 bg-surface-cream rounded-2xl hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
                     >
                       <div className="w-16 h-16 bg-thailand-red rounded-xl flex items-center justify-center mr-4 group-hover:scale-110 transition-transform">
@@ -557,7 +562,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug, locale);
-  
+
   if (!city) {
     return {
       notFound: true,

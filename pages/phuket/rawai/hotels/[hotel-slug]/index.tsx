@@ -118,7 +118,7 @@ export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: P
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
@@ -186,7 +186,7 @@ export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: P
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -195,7 +195,9 @@ export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: P
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'areas', 'rawai-hotels.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.hotels || []).map((h: any) => ({ params: { 'hotel-slug': h.slug } }));
+  const paths = (data.hotels || []).flatMap((h: any) =>
+    ['en', 'nl'].map(locale => ({ params: { 'hotel-slug': h.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 

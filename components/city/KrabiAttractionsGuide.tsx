@@ -172,19 +172,19 @@ const routeDays = [
     day: 'Dag 1',
     title: 'Railay op eigen tempo',
     description: 'Vaar vroeg naar Railay, loop door naar Phra Nang en blijf lang genoeg om de drukste aankomsten niet je hele bezoek te laten bepalen.',
-    href: '/city/krabi/attractions/railay-beach/',
+    href: '/city/krabi/attractions/',
   },
   {
     day: 'Dag 2',
     title: 'Kies één eilandroute',
     description: 'Ga voor Four Islands als je een klassieke Krabi-dag wilt, of kies Phi Phi wanneer die eilanden hoog op je wensenlijst staan.',
-    href: '/city/krabi/attractions/four-islands-tour/',
+    href: '#mooiste-plekken',
   },
   {
     day: 'Dag 3',
     title: 'Vasteland of mangroven',
     description: 'Combineer Emerald Pool met de warmwaterbronnen, of kies Tiger Cave Temple en Krabi Town voor minder reistijd.',
-    href: '/city/krabi/attractions/emerald-pool/',
+    href: '#mooiste-plekken',
   },
 ];
 
@@ -376,7 +376,7 @@ export function KrabiAttractionsGuide({ ogImage }: KrabiAttractionsGuideProps) {
             <div className="grid gap-5 md:grid-cols-2">
               {highlights.map((item) => (
                 <article key={item.slug} className="group overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-[0_8px_28px_rgba(18,63,54,0.045)] transition hover:-translate-y-1 hover:shadow-[0_16px_38px_rgba(18,63,54,0.09)]">
-                  <Link href={`/city/krabi/attractions/${item.slug}/`} className="grid h-full sm:grid-cols-[42%_58%]">
+                  <Link href="#kiezen" className="grid h-full sm:grid-cols-[42%_58%]">
                     <div className="relative min-h-[235px] overflow-hidden sm:min-h-full">
                       <Image src={item.image} alt={`${item.title} in Krabi`} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 42vw, 24vw" className="object-cover transition duration-500 group-hover:scale-[1.035]" />
                       <div className="absolute inset-0 bg-gradient-to-t from-jade-dark/55 via-transparent to-transparent" />
@@ -391,7 +391,7 @@ export function KrabiAttractionsGuide({ ogImage }: KrabiAttractionsGuideProps) {
                         <p className="flex gap-2 text-jade"><Check size={13} className="mt-0.5 shrink-0 text-saffron-dark" /><span><strong>Past goed bij:</strong> {item.bestFor}</span></p>
                         <p className="flex gap-2 text-charcoal/55"><span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-jade/30" /><span>{item.tradeoff}</span></p>
                       </div>
-                      <span className="mt-auto inline-flex items-center justify-end gap-2 pt-5 text-xs font-bold text-jade transition group-hover:text-saffron-dark">Lees de gids <ArrowRight size={14} className="transition group-hover:translate-x-1" /></span>
+                      <span className="mt-auto inline-flex items-center justify-end gap-2 pt-5 text-xs font-bold text-jade transition group-hover:text-saffron-dark">Vergelijk in deze gids <ArrowRight size={14} className="transition group-hover:translate-x-1" /></span>
                     </div>
                   </Link>
                 </article>

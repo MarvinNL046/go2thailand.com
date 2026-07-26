@@ -84,7 +84,7 @@ export default function KamalaBeachPillar({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
@@ -186,7 +186,7 @@ export default function KamalaBeachPillar({ partners, lastUpdated }: Props) {
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we Kamala beoordelen' : 'How we evaluate Kamala'}</h2>
             <p>{isNl ? 'Tarieven en hotelinformatie geverifieerd in mei 2026 op Trip.com, Klook, GetYourGuide en Viator. Strand-condities op basis van DNP-data en lifeguard-records 2020–2025. Commissies via genoemde platforms — geen invloed op prijzen of welke hotels we noemen.' : "Rates and hotel info verified May 2026 on Trip.com, Klook, GetYourGuide and Viator. Beach conditions from DNP data and lifeguard records 2020–2025. Commissions via the listed platforms — no impact on prices or which hotels we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

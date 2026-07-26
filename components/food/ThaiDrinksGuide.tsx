@@ -159,7 +159,7 @@ export function ThaiDrinksGuide({ drinks }: ThaiDrinksGuideProps) {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           eyebrow="Thailand proef je in lagen"
           title={<>Vijfentwintig glazen.<br />Eén smaakroute.</>}
@@ -310,7 +310,7 @@ export function ThaiDrinksGuide({ drinks }: ThaiDrinksGuideProps) {
                 <p className="eyebrow !text-saffron-light">Hydratatie is de basisroute</p>
                 <h2 className="font-display text-[3rem] font-semibold leading-[0.9] tracking-[-0.04em] sm:text-[4rem]">Een mooi glas vervangt geen veilig water.</h2>
                 <p className="mt-5 max-w-[560px] text-sm font-medium leading-7 text-white/68">De CDC adviseert reizigers in Thailand geen kraanwater te drinken. Kies verzegeld of betrouwbaar gefilterd water en gebruik dat bij twijfel ook voor tandenpoetsen. Een fles is alleen herbruikbaar wanneer je weet waarmee je haar vult.</p>
-                <Link href="/practical-info/health/" className="btn-cream mt-7 w-fit">Bekijk gezondheid & voorbereiding <ArrowRight size={15} className="text-saffron" /></Link>
+                <Link href="/practical-info/health-vaccinations/" className="btn-cream mt-7 w-fit">Bekijk gezondheid & voorbereiding <ArrowRight size={15} className="text-saffron" /></Link>
               </div>
             </div>
 
@@ -365,7 +365,7 @@ export function ThaiDrinksGuide({ drinks }: ThaiDrinksGuideProps) {
           description="Voor deze NL-owner zijn een DFS-cluster met 115 records, tien Nederlandse SERP/PAA-sets, drie concurrentpagina’s, een primaire Thaise theebron en actuele officiële water- en alcoholbronnen gebruikt. Vluchtige prijzen, onbewezen populariteitsranglijsten en gezondheidsbeloftes zijn verwijderd."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

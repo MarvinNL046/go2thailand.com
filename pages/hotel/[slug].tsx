@@ -98,7 +98,7 @@ export default function HotelPage({ data, nlGuide }: Props) {
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Hotels', href: '/best-hotels/' },
+    { name: 'Hotels', href: '/where-to-stay/' },
     { name: cityName, href: `/best-hotels/${citySlug}/` },
     { name: hotel.name, href: `/hotel/${data.hotelSlug}/` },
   ];
@@ -171,7 +171,7 @@ export default function HotelPage({ data, nlGuide }: Props) {
           </div>
         </section>
 
-        <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats card */}
           {data.aiContent.quickStats && (
             <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
@@ -361,7 +361,7 @@ export default function HotelPage({ data, nlGuide }: Props) {
               <Link href={`/where-to-stay/${citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">Where to stay (areas)</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
 
       {/* Sticky mobile CTA */}

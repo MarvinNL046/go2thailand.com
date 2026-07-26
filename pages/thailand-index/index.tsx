@@ -522,7 +522,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                 )}
                 <div className="text-center mt-8">
                   <Link
-                    href="/thailand-index/best-time/"
+                    href={lang === 'nl' ? '/weather/' : '/thailand-index/best-time/'}
                     className="inline-flex items-center gap-2 bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors"
                   >
                     {lang === 'nl'

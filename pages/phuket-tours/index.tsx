@@ -145,7 +145,7 @@ export default function PhuketToursPillarPage({ partners, lastUpdated }: Props) 
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table — 9 tours */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Snelle vergelijking: 9 Phuket tours' : 'Quick comparison: 9 Phuket tours'}</h2>
@@ -353,7 +353,7 @@ export default function PhuketToursPillarPage({ partners, lastUpdated }: Props) 
               <Link href="/flights-to-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '✈️ Vluchten naar Phuket' : '✈️ Flights to Phuket'}</Link>
               <Link href="/yacht-charter-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '⛵ Privé jacht-charter' : '⛵ Private yacht charter'}</Link>
               <Link href="/car-rental-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🚗 Auto huren' : '🚗 Rent a car'}</Link>
-              <Link href="/where-to-stay/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🗺️ Waar overnachten' : '🗺️ Where to stay'}</Link>
+              <Link href="/best-hotels/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🗺️ Waar overnachten' : '🗺️ Where to stay'}</Link>
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
               <a href={withSubId(KLOOK_GENERIC, placement('mesh-klook'))} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-5 py-2 text-sm font-semibold hover:bg-red-700">{isNl ? '🎟️ Andere Phuket activiteiten' : '🎟️ Other Phuket activities'}</a>
             </div>
@@ -364,7 +364,7 @@ export default function PhuketToursPillarPage({ partners, lastUpdated }: Props) 
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Tarieven en route-info geverifieerd in mei 2026 op Klook, GetYourGuide, Viator en Tiqets voor early-juni 2026 boekingen vanuit Phuket. Operator-reviews gevalideerd via Tripadvisor (>200 reviews, 4.5+ rating). We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke operators we noemen.' : "Rates and route info verified May 2026 on Klook, GetYourGuide, Viator and Tiqets for early-June 2026 bookings from Phuket. Operator reviews validated via Tripadvisor (>200 reviews, 4.5+ rating). We earn a commission on bookings via the listed platforms — this never changes the price you pay or which operators we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

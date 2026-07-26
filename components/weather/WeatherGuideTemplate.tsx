@@ -249,9 +249,13 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
                     {data.months.map((month) => (
                       <tr key={month.slug} className="border-b border-jade/8 last:border-0 hover:bg-canvas">
                         <th scope="row" className="px-5 py-4">
-                          <Link href={`/city/${data.citySlug}/weather/${month.slug}/`} className="group inline-flex items-center gap-2 font-extrabold text-jade hover:text-saffron-dark">
-                            {month.name} <ArrowRight size={13} className="opacity-45 transition group-hover:translate-x-0.5 group-hover:opacity-100" />
-                          </Link>
+                          {data.monthDetailRoutes === false ? (
+                            <span className="font-extrabold text-jade">{month.name}</span>
+                          ) : (
+                            <Link href={`/city/${data.citySlug}/weather/${month.slug}/`} className="group inline-flex items-center gap-2 font-extrabold text-jade hover:text-saffron-dark">
+                              {month.name} <ArrowRight size={13} className="opacity-45 transition group-hover:translate-x-0.5 group-hover:opacity-100" />
+                            </Link>
+                          )}
                         </th>
                         <td className="px-4 py-4 text-sm font-bold text-charcoal/78">{formatDecimal(month.meanHigh)} °C</td>
                         <td className="px-4 py-4 text-sm text-charcoal/65">{formatDecimal(month.meanLow)} °C</td>

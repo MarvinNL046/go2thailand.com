@@ -102,6 +102,7 @@ export interface WeatherGuideData {
   climateStation: string;
   stats: Array<{ label: string; value: string; detail: string }>;
   months: WeatherMonth[];
+  monthDetailRoutes?: boolean;
   seasons: WeatherSeason[];
   greenSeason: {
     image: string;

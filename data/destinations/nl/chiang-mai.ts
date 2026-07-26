@@ -108,7 +108,7 @@ export const chiangMaiDestinationGuide: DestinationGuideData = {
       imageAlt: 'Gouden tempelarchitectuur van Wat Phra That Doi Suthep boven Chiang Mai',
       description: 'De berghelling geeft een ander perspectief op Chiang Mai. Wat Pha Lat voelt bebost en ingetogen; Doi Suthep brengt uitzicht, pelgrimsroute en een belangrijk tempelcomplex samen.',
       decision: 'Maak er één halve dag van en regel je terugrit vooraf. De berg is geen verlengde stadswandeling.',
-      href: '/city/chiang-mai/attractions/doi-suthep/',
+      href: '/city/chiang-mai/attractions/',
     },
     {
       title: 'Geef Doi Inthanon een volledige dag',
@@ -145,7 +145,7 @@ export const chiangMaiDestinationGuide: DestinationGuideData = {
     description: 'Houd stad en provincie als aparte blokken. De volgorde kan schuiven met marktdata, weer en luchtkwaliteit; de dagclusters blijven bruikbaar.',
     days: [
       { day: 'Dag 1', title: 'Old City & tempelritme', description: 'Start vroeg bij Wat Phra Singh en Wat Chedi Luang, lunch rustig en kies later een kleine tempel of markt. Bewaar de Sunday Walking Street alleen voor zondag.', href: '/city/chiang-mai/attractions/' },
-      { day: 'Dag 2', title: 'Wat Pha Lat, Doi Suthep & Nimman', description: 'Ga in de ochtend de berghelling op en keer via de Suthep-kant terug. Gebruik de middag voor Baan Kang Wat, koffie of een langzaam diner in Nimman.', href: '/city/chiang-mai/attractions/doi-suthep/' },
+      { day: 'Dag 2', title: 'Wat Pha Lat, Doi Suthep & Nimman', description: 'Ga in de ochtend de berghelling op en keer via de Suthep-kant terug. Gebruik de middag voor Baan Kang Wat, koffie of een langzaam diner in Nimman.', href: '/city/chiang-mai/attractions/' },
       { day: 'Dag 3', title: 'Eén grote buitenstaddag', description: 'Kies Doi Inthanon voor bergnatuur óf een aantoonbaar welzijnsgerichte olifantenopvang. Beide op dezelfde dag maakt reistijd belangrijker dan de ervaring.', href: '/city/chiang-mai/elephant-sanctuaries/' },
       { day: 'Dag 4', title: 'Markt, ambacht & rivier', description: 'Begin in het weekend bij Jing Jai, of kies Warorot op een andere dag. Combineer daarna Wat Ket, de Ping-rivier en een Noord-Thaise maaltijd zonder nog een verre excursie.', href: '/city/chiang-mai/food/' },
     ],

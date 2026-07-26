@@ -204,7 +204,7 @@ export default function IsThailandSafePage() {
                 <li><Link href="/thailand-for-first-timers/" className="text-thailand-blue hover:underline">{isNl ? 'Thailand voor Beginners' : 'Thailand for First Timers'}</Link></li>
                 <li><Link href="/visa/" className="text-thailand-blue hover:underline">{isNl ? 'Thailand Visum Gids' : 'Thailand Visa Guide'}</Link></li>
                 <li><Link href="/travel-security/" className="text-thailand-blue hover:underline">{isNl ? 'Reisbeveiliging Tips' : 'Travel Security Tips'}</Link></li>
-                <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">{isNl ? 'Reisverzekering voor Thailand' : 'Travel Insurance for Thailand'}</Link></li>
+                <li><Link href="/travel-insurance/" className="text-thailand-blue hover:underline">{isNl ? 'Reisverzekering voor Thailand' : 'Travel Insurance for Thailand'}</Link></li>
               </ul>
             </div>
 

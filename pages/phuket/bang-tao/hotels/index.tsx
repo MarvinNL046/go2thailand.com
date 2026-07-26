@@ -87,7 +87,7 @@ export default function BangTaoHotelsHub({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           <section>
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? '8 Bang Tao Beach hotels vergeleken' : '8 Bang Tao Beach hotels compared'}</h2>
             <p className="text-gray-600 mb-6">{isNl ? 'Klik om live tarieven of onze diepgaande review te zien.' : 'Click for live rates or our in-depth review.'}</p>
@@ -156,7 +156,7 @@ export default function BangTaoHotelsHub({ partners, lastUpdated }: Props) {
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

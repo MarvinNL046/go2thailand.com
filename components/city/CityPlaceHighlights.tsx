@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 interface CityPlaceHighlightsProps {
   isNl: boolean;
@@ -9,7 +10,7 @@ interface CityPlaceHighlightsProps {
 const places = [
   {
     title: 'Railay Beach',
-    href: '/city/krabi/attractions/railay-beach/',
+    href: '/city/krabi/attractions/',
     image: '/images/cities/krabi/attractions/railayBeach.webp',
     description: {
       nl: 'Iconische kalkstenen kliffen, wit zand en kristalhelder water. Alleen bereikbaar per boot vanuit Ao Nang.',
@@ -56,7 +57,7 @@ export function CityPlaceHighlights({ isNl }: CityPlaceHighlightsProps) {
           {places.map(place => (
             <Link
               key={place.title}
-              href={place.href}
+              href={isNl ? normalizeNlInternalHref(place.href) : place.href}
               className="group min-w-[84vw] snap-start overflow-hidden rounded-xl border border-jade/10 bg-white shadow-[0_5px_18px_rgba(18,63,54,0.045)] transition duration-300 hover:-translate-y-1 hover:shadow-xl sm:min-w-0"
             >
               <div className="relative aspect-[16/9.2] overflow-hidden bg-jade/5">

@@ -175,7 +175,7 @@ export function PattayaNightlifeGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           eyebrow="Pattaya na zonsondergang"
           title={<>Kies je avond.<br />Niet alleen een straat.</>}
@@ -386,7 +386,7 @@ export function PattayaNightlifeGuide() {
           description="DataForSEO bepaalde de Nederlandse gebieds-, kosten-, openingsuren-, club-, Walking Street-, Soi Buakhao- en veiligheidsintentie en legde de echte PAA vast. Officiële TAT-, Tourist Police- en NederlandWereldwijd-bronnen dragen de regels en veiligheidsgrenzen. Secundaire nightlifebronnen zijn alleen gebruikt om avondtypes en informatiegaten te toetsen. Vaste prijzen, vermeende universele sluitingstijden, absolute veiligheidslabels en vluchtige clubrankings zijn verwijderd. Laatst gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

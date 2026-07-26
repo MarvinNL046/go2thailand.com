@@ -11,29 +11,50 @@ interface SEOHeadProps {
 const DEFAULT_OG_IMAGE = 'https://go2-thailand.com/og-default.webp';
 
 /**
- * SEOHead - Wraps Next.js Head with automatic OG + Twitter meta tags.
- * Title and description are mirrored to og:title, og:description,
- * twitter:title, and twitter:description.
- *
- * The global Hreflang component (in _app.tsx) already provides:
- * - og:url, og:site_name, og:type, og:locale, og:image (default)
- * - twitter:card, twitter:site, twitter:image (default)
- * - canonical, hreflang tags
- *
- * Pages can override og:image/twitter:image via the ogImage prop
- * or by adding their own meta tags in children.
+ * Keep search snippets inside a predictable range without changing the page
+ * heading or article copy. The cut is made on a natural word boundary.
+ */
+function clampMetadata(value: string, maxLength: number, stripBrand = false): string {
+  let normalized = value.replace(/\s+/g, ' ').trim();
+  if (stripBrand && normalized.length > maxLength) {
+    normalized = normalized
+      .replace(new RegExp(`\\s*[|\\u2013\\u2014\\-:]\\s*Go2Thailand(?:\\.com)?\\s*$`, 'i'), '')
+      .trim();
+  }
+  if (normalized.length <= maxLength) return normalized;
+
+  const available = maxLength - 1;
+  const candidate = normalized.slice(0, available + 1);
+  const boundary = Math.max(
+    candidate.lastIndexOf(' '),
+    candidate.lastIndexOf('\u2013'),
+    candidate.lastIndexOf('\u2014'),
+  );
+  const cutAt = boundary >= Math.floor(available * 0.68) ? boundary : available;
+  const trimmed = candidate
+    .slice(0, cutAt)
+    .replace(new RegExp(`[\\s,;:\\u2013\\u2014\\-]+$`, 'g'), '');
+
+  return `${trimmed}\u2026`;
+}
+
+/**
+ * Wraps Next.js Head with matching search, Open Graph and Twitter metadata.
+ * Canonical and hreflang tags are provided globally by Hreflang in _app.tsx.
  */
 export default function SEOHead({ title, description, ogImage, children }: SEOHeadProps) {
   const resolvedOgImage = ogImage || DEFAULT_OG_IMAGE;
+  const resolvedTitle = clampMetadata(title, 65, true);
+  const resolvedDescription = clampMetadata(description, 165);
 
   return (
     <Head>
-      <title>{title}</title>
-      <meta name="description" content={description} />
-      <meta property="og:title" content={title} />
-      <meta property="og:description" content={description} />
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:description" content={description} />
+      <title>{resolvedTitle}</title>
+      <meta name="description" content={resolvedDescription} />
+      <meta property="og:title" content={resolvedTitle} />
+      <meta property="og:description" content={resolvedDescription} />
+      <meta name="twitter:title" content={resolvedTitle} />
+      <meta name="twitter:description" content={resolvedDescription} />
       <meta property="og:image" content={resolvedOgImage} />
       <meta name="twitter:image" content={resolvedOgImage} />
       <link rel="alternate" type="application/rss+xml" title="Go2 Thailand Blog RSS Feed" href="https://go2-thailand.com/feed.xml" />

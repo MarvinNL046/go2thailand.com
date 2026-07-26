@@ -280,7 +280,7 @@ export function ThaiCurryGuide() {
         {schemas.map((schema) => <script key={schema['@type']} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Vijf kommen Thaise curry bij een eetkraam aan de rivier in Bangkok"
@@ -648,7 +648,7 @@ export function ThaiCurryGuide() {
             </div>
           </div>
         </section>
-      </main>
+      </div>
     </>
   );
 }

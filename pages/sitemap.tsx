@@ -54,7 +54,7 @@ const sections: (SitemapSection & { titleNl: string })[] = [
       { label: 'Transport Routes', href: '/transport/' },
       { label: 'Weather Guide', href: '/weather/' },
       { label: 'Visa Guide', href: '/visa/' },
-      { label: 'Travel Insurance Thailand', href: '/travel-insurance-thailand/' },
+      { label: 'Travel Insurance Thailand', href: '/travel-insurance/' },
       { label: 'eSIM Guide', href: '/esim/' },
       { label: 'Travel Gear', href: '/travel-gear/' },
       { label: 'VPN & Security', href: '/travel-security/' },

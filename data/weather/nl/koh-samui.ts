@@ -1,6 +1,7 @@
 import type { WeatherGuideData } from '../types';
 
 export const kohSamuiWeatherGuide: WeatherGuideData = {
+  monthDetailRoutes: false,
   citySlug: 'koh-samui',
   cityName: 'Koh Samui',
   locale: 'nl',

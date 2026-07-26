@@ -205,7 +205,7 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
               <ul className="space-y-2">
                 <li><Link href="/thailand-travel-guide/" className="text-thailand-blue hover:underline">{isNl ? 'Complete Thailand Reisgids' : 'Complete Thailand Travel Guide'}</Link></li>
                 <li><Link href="/best-places-to-visit-thailand/" className="text-thailand-blue hover:underline">{isNl ? 'Beste Plekken om te Bezoeken' : 'Best Places to Visit'}</Link></li>
-                <li><Link href="/thailand-index/best-time/" className="text-thailand-blue hover:underline">{isNl ? 'Beste Tijd om te Bezoeken' : 'Best Time to Visit'}</Link></li>
+                <li><Link href={isNl ? '/weather/' : '/thailand-index/best-time/'} className="text-thailand-blue hover:underline">{isNl ? 'Beste Tijd om te Bezoeken' : 'Best Time to Visit'}</Link></li>
                 <li><Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline">{isNl ? 'Budgetgids' : 'Budget Guide'}</Link></li>
               </ul>
             </div>
@@ -220,7 +220,7 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
                 <li><Link href="/best-cooking-classes-in-thailand/" className="text-thailand-blue hover:underline">{isNl ? 'Kooklessen' : 'Cooking Classes'}</Link></li>
                 <li><Link href="/transport/" className="text-thailand-blue hover:underline">{isNl ? 'Vervoersroutes' : 'Transport Routes'}</Link></li>
                 <li><Link href="/region/" className="text-thailand-blue hover:underline">{isNl ? 'Ontdek per Regio' : 'Explore by Region'}</Link></li>
-                <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">{isNl ? 'Reisverzekering' : 'Travel Insurance'}</Link></li>
+                <li><Link href="/travel-insurance/" className="text-thailand-blue hover:underline">{isNl ? 'Reisverzekering' : 'Travel Insurance'}</Link></li>
               </ul>
             </div>
 

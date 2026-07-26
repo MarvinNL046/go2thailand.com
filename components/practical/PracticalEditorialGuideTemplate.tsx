@@ -114,7 +114,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
         {schemas.map((schema) => <script key={schema['@type']} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -386,7 +386,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
         <RelatedGuidesSection eyebrow="Verder voorbereiden" title="Van snelle stop naar slimme reis" guides={data.related} />
 
         <SourceMethodSection eyebrow="Controleerbare informatie" title="Bronnen & methode" description={`De owner is op ${data.updatedAt.split('-').reverse().join('-')} herbouwd na live DataForSEO-keyword-, SERP-, concurrent-, PAA-, ranking- en backlinkonderzoek. We gebruiken officiële bronnen voor winkelaantal, diensten, alcoholregels en telecom. Prijsbanden zijn redactionele oriëntatie en geen kassagarantie.`} sources={data.sources} />
-      </main>
+      </div>
     </>
   );
 }

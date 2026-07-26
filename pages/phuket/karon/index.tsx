@@ -151,7 +151,7 @@ export default function KaronBeachPillarPage({ partners, yachtPartners, lastUpda
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div className="rounded-2xl bg-white p-4 shadow-sm border border-gray-100">
@@ -341,7 +341,7 @@ export default function KaronBeachPillarPage({ partners, yachtPartners, lastUpda
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe deze gids tot stand kwam' : 'How this guide was built'}</h2>
             <p>{isNl ? 'Veldobservaties en beach-afstanden kruisgecheckt met TripAdvisor (laatste 100 reviews per resort, 2024–2026), Booking.com en Trip.com listings. Vervoersinformatie geverifieerd met de Smart Bus operator (PhuketSmartBus.com) en Grab tarieven gecheckt mei 2026. Wij verdienen commissie op boekingen via Trip.com, Klook en GetYourGuide — dit verandert niets aan welke hotels of opties we noemen.' : "Field observations and beach distances cross-checked against TripAdvisor (last 100 reviews per resort, 2024–2026), Booking.com and Trip.com listings. Transport info verified with the Smart Bus operator (PhuketSmartBus.com) and Grab fares checked May 2026. We earn commission on bookings through Trip.com, Klook and GetYourGuide — this never changes which hotels or options we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

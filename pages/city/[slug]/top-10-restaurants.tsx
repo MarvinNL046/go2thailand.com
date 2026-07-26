@@ -185,7 +185,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-6">
                 {restaurantsData.title}
               </h1>
-              
+
               <div className="text-lg text-gray-600 mb-8 leading-relaxed">
                 {restaurantsData.intro}
               </div>
@@ -281,12 +281,12 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
               </aside>
 
               {/* Main Content */}
-              <main className="lg:col-span-9">
+              <div className="lg:col-span-9">
                 <div className="space-y-8">
                   {restaurantsData.items.map((restaurant, index) => (
                     <div key={restaurant.rank}>
                       {/* Restaurant Item */}
-                      <article 
+                      <article
                         id={`restaurant-${restaurant.rank}`}
                         className="bg-white rounded-2xl shadow-md overflow-hidden"
                       >
@@ -454,7 +454,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                     </div>
                   )}
                 </div>
-              </main>
+              </div>
             </div>
           </div>
         </section>

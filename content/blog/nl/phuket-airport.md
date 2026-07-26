@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Phuket Airport Gids 2026: Aankomst, Transfers, Nieuwe Taxes en Praktische Tips"
 slug: "phuket-airport"

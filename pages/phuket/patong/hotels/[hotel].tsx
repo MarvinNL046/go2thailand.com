@@ -227,7 +227,7 @@ export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings,
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
@@ -318,7 +318,7 @@ export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings,
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -326,7 +326,10 @@ export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings,
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const hotelsData = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data/pseo/areas/patong-hotels.json'), 'utf8'));
-  const paths = hotelsData.hotels.map((h: Hotel) => ({ params: { hotel: h.slug } }));
+  const paths = hotelsData.hotels.flatMap((h: Hotel) => [
+    { params: { hotel: h.slug }, locale: 'en' },
+    { params: { hotel: h.slug }, locale: 'nl' },
+  ]);
   return { paths, fallback: false };
 };
 

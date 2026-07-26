@@ -174,7 +174,7 @@ export default function Top10AttractionsPage({ city, attractionsData, editorial 
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-6">
                 {attractionsData.title}
               </h1>
-              
+
               <div className="text-lg text-gray-600 mb-8 leading-relaxed">
                 {attractionsData.intro}
               </div>
@@ -266,12 +266,12 @@ export default function Top10AttractionsPage({ city, attractionsData, editorial 
               </aside>
 
               {/* Main Content */}
-              <main className="lg:col-span-9">
+              <div className="lg:col-span-9">
                 <div className="space-y-8">
                   {attractionsData.items.map((attraction, index) => (
                     <div key={attraction.rank}>
                       {/* Attraction Item */}
-                      <article 
+                      <article
                         id={`attraction-${attraction.rank}`}
                         className="bg-white rounded-2xl shadow-md overflow-hidden"
                       >
@@ -350,7 +350,7 @@ export default function Top10AttractionsPage({ city, attractionsData, editorial 
                         <div className="my-8">
                         </div>
                       )}
-                      
+
                       {index === 6 && (
                         <div className="my-8">
                         </div>
@@ -405,7 +405,7 @@ export default function Top10AttractionsPage({ city, attractionsData, editorial 
                     </div>
                   )}
                 </div>
-              </main>
+              </div>
             </div>
           </div>
         </section>

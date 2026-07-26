@@ -11,6 +11,7 @@ import {
   Utensils,
   WalletCards,
 } from 'lucide-react';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 type HiddenGem = {
   name: string;
@@ -246,14 +247,14 @@ export function CityCompleteGuide({ city, comparisons, transportLinks, reviewedD
                     </div>
                   </details>
                 )}
-                {food.href && <Link href={food.href} className="mt-5 inline-flex items-center gap-2 text-xs font-bold text-saffron-light">{food.cta_label || (isNl ? 'Meer informatie' : 'More information')} <ArrowRight size={14} /></Link>}
+                {food.href && <Link href={isNl ? normalizeNlInternalHref(food.href) : food.href} className="mt-5 inline-flex items-center gap-2 text-xs font-bold text-saffron-light">{food.cta_label || (isNl ? 'Meer informatie' : 'More information')} <ArrowRight size={14} /></Link>}
               </article>
             ))}
           </div>
 
           <div className="mt-8 flex flex-wrap items-center justify-end gap-x-5 gap-y-3 border-t border-white/10 pt-7 text-xs font-bold text-saffron-light">
             <Link href={`/city/${city.slug}/food/`} className="inline-flex items-center gap-2">{isNl ? 'Lees de gids over eten in Krabi' : 'Read the Krabi food guide'} <ArrowRight size={14} /></Link>
-            <Link href={`/city/${city.slug}/top-10-restaurants/`} className="inline-flex items-center gap-2">{isNl ? 'Bekijk de restaurantgids' : 'View the restaurant guide'} <ArrowRight size={14} /></Link>
+            <Link href={isNl ? `/city/${city.slug}/food/` : `/city/${city.slug}/top-10-restaurants/`} className="inline-flex items-center gap-2">{isNl ? 'Bekijk de restaurantgids' : 'View the restaurant guide'} <ArrowRight size={14} /></Link>
           </div>
         </div>
       </section>
@@ -263,7 +264,7 @@ export function CityCompleteGuide({ city, comparisons, transportLinks, reviewedD
           <SectionHeading eyebrow={isNl ? 'Plan verder' : 'Continue planning'} title={isNl ? `Meer uit je ${cityName}-reis halen` : `Get more from your ${cityName} trip`} />
           <div className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
             {explore.map(({ icon: Icon, title, description, href }) => (
-              <Link key={title} href={href} className="group rounded-xl border border-jade/10 bg-white p-5 transition hover:-translate-y-0.5 hover:border-saffron/35">
+              <Link key={title} href={isNl ? normalizeNlInternalHref(href) : href} className="group rounded-xl border border-jade/10 bg-white p-5 transition hover:-translate-y-0.5 hover:border-saffron/35">
                 <Icon size={21} strokeWidth={1.55} className="text-saffron-dark" />
                 <h3 className="mt-4 font-display text-xl font-semibold text-jade">{title}</h3>
                 <p className="mt-2 line-clamp-3 text-[11px] leading-5 text-charcoal/58">{description}</p>

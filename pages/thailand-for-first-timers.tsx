@@ -23,14 +23,14 @@ const beforeYouGo = {
     { title: 'Visa', detail: 'Most nationalities get 30 days visa-free on arrival. Check your specific country.', link: { href: '/visa/', label: 'Visa guide' } },
     { title: 'SIM card / eSIM', detail: 'Buy a local SIM at the airport or get an eSIM before you leave.', link: { href: '/esim/', label: 'eSIM guide' } },
     { title: 'Currency', detail: 'Thai Baht (THB). ATMs are everywhere but charge ~200 THB fee. Use Wise or Revolut to minimize fees.' },
-    { title: 'Health', detail: 'No mandatory vaccinations. Consider Hep A, Typhoid, and malaria prevention for rural areas. Travel insurance is strongly recommended.', link: { href: '/travel-insurance-thailand/', label: 'Travel insurance guide' } },
+    { title: 'Health', detail: 'No mandatory vaccinations. Consider Hep A, Typhoid, and malaria prevention for rural areas. Travel insurance is strongly recommended.', link: { href: '/travel-insurance/', label: 'Travel insurance guide' } },
     { title: 'Language', detail: 'Thai is the official language. English is widely spoken in tourist areas. Learn a few Thai words — locals appreciate it.' },
   ],
   nl: [
     { title: 'Visum', detail: 'De meeste nationaliteiten krijgen 30 dagen visumvrij bij aankomst. Controleer je specifieke land.', link: { href: '/visa/', label: 'Visumgids' } },
     { title: 'SIM-kaart / eSIM', detail: 'Koop een lokale SIM op de luchthaven of neem een eSIM voordat je vertrekt.', link: { href: '/esim/', label: 'eSIM-gids' } },
     { title: 'Valuta', detail: 'Thaise Baht (THB). Geldautomaten zijn overal maar rekenen ~200 THB kosten. Gebruik Wise of Revolut om kosten te beperken.' },
-    { title: 'Gezondheid', detail: 'Geen verplichte vaccinaties. Overweeg Hep A, Tyfus en malariaprofylaxe voor landelijke gebieden. Reisverzekering wordt sterk aanbevolen.', link: { href: '/travel-insurance-thailand/', label: 'Reisverzekeringsgids' } },
+    { title: 'Gezondheid', detail: 'Geen verplichte vaccinaties. Overweeg Hep A, Tyfus en malariaprofylaxe voor landelijke gebieden. Reisverzekering wordt sterk aanbevolen.', link: { href: '/travel-insurance/', label: 'Reisverzekeringsgids' } },
     { title: 'Taal', detail: 'Thai is de officiële taal. Engels wordt veel gesproken in toeristische gebieden. Leer een paar Thaise woorden — locals waarderen het.' },
   ],
 };
@@ -220,7 +220,7 @@ export default function ThailandForFirstTimers() {
                 <li><Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline">{isNl ? 'Thailand Budgetgids' : 'Thailand Budget Guide'}</Link></li>
                 <li><Link href="/city/bangkok/" className="text-thailand-blue hover:underline">{isNl ? 'Bangkok Gids' : 'Bangkok Guide'}</Link></li>
                 <li><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">{isNl ? 'Chiang Mai Gids' : 'Chiang Mai Guide'}</Link></li>
-                <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">{isNl ? 'Reisverzekering voor Thailand' : 'Travel Insurance for Thailand'}</Link></li>
+                <li><Link href="/travel-insurance/" className="text-thailand-blue hover:underline">{isNl ? 'Reisverzekering voor Thailand' : 'Travel Insurance for Thailand'}</Link></li>
               </ul>
             </div>
 

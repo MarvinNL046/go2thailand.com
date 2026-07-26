@@ -102,7 +102,7 @@ export function ConnectivityGuideTemplate({ data }: { data: ConnectivityGuideDat
         {schemas.map((schema) => <script key={schema['@type']} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -396,7 +396,7 @@ export function ConnectivityGuideTemplate({ data }: { data: ConnectivityGuideDat
         <RelatedGuidesSection eyebrow="Blijf slim verbonden" title="Plan de rest van je Thailandreis" guides={data.related} />
 
         <SourceMethodSection eyebrow="Gecontroleerd, niet gegokt" title="Bronnen & redactionele methode" description="Deze gids is op 25 juli 2026 herzien aan de hand van officiële telecom- en providerbronnen, actuele DFS-zoekdata, echte Nederlandse zoekvragen en een inhoudsanalyse van concurrerende gidsen. We rangschikken netwerken niet zonder routegebonden bewijs en tonen veranderlijke prijzen niet als tijdloze feiten." sources={data.sources} />
-      </main>
+      </div>
     </>
   );
 }

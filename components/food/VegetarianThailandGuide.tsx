@@ -186,7 +186,7 @@ export default function VegetarianThailandGuide() {
         {[articleSchema, breadcrumbSchema, faqSchema, howToSchema, itemListSchema].map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/vegetarian-thailand-hero.webp"
           imageAlt="Reiziger bespreekt een plantaardige Thaise maaltijd met de kok"
@@ -324,7 +324,7 @@ export default function VegetarianThailandGuide() {
         ]} sideLink={{ label: 'Bekijk Thaise gerechten', href: '/food/' }} />
 
         <SourceMethodSection title="Research vóór geruststelling" description="Laatst inhoudelijk gecontroleerd op 26 juli 2026. We combineerden zelfstandige Nederlandse DFS-, SERP-, concurrent- en PAA-research met Thaise toerisme-, cultuur- en overheidsbronnen. Restaurantaanbod en festivaldata veranderen; dieet en allergie blijven persoonlijke grenzen die je ter plekke opnieuw controleert." sources={sources} />
-      </main>
+      </div>
     </>
   );
 }

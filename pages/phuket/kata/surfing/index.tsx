@@ -85,7 +85,7 @@ export default function KataSurfingPage({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Surf op Kata in cijfers' : 'Kata surf at a glance'}</h2>
@@ -164,7 +164,7 @@ export default function KataSurfingPage({ partners, lastUpdated }: Props) {
               <a href={withSubId(KLOOK_GENERIC, placement('mesh'))} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-5 py-2 text-sm font-semibold hover:bg-red-700">{isNl ? '🎟️ Andere activiteiten' : '🎟️ Other activities'}</a>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

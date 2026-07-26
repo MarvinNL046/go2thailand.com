@@ -355,7 +355,7 @@ export default function PhuketWeddingSpokePage({ spoke, primaryUrl, secondaryUrl
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
@@ -514,7 +514,7 @@ export default function PhuketWeddingSpokePage({ spoke, primaryUrl, secondaryUrl
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Pakket-prijzen geverifieerd in mei 2026 op resort-websites + Trip.com voor 2026 boekingen. Privé-villa data via Sava Beach Villas, Andara Resort en Iniala Beach House directe quotes. Wedding-planner-prijzen gevalideerd via PhuketWedding.net en BlissEvents reviews. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke venues we noemen.' : "Package prices verified May 2026 on resort websites + Trip.com for 2026 bookings. Private villa data via Sava Beach Villas, Andara Resort and Iniala Beach House direct quotes. Wedding planner pricing validated via PhuketWedding.net and BlissEvents reviews. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which venues we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -523,7 +523,9 @@ export default function PhuketWeddingSpokePage({ spoke, primaryUrl, secondaryUrl
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'wedding-honeymoon', 'wedding-spokes.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.spokes as SpokeMeta[]).map(s => ({ params: { spoke: s.slug } }));
+  const paths = (data.spokes as SpokeMeta[]).flatMap(s =>
+    ['en', 'nl'].map(locale => ({ params: { spoke: s.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 

@@ -224,7 +224,7 @@ export function LumpiniHawkerCentreGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Open hawkerpaviljoen met ontbijtgasten en hardlopers naast Lumpini Park"
@@ -412,7 +412,7 @@ export function LumpiniHawkerCentreGuide() {
           description="DFS stuurde de Nederlandse zoekintentie en echte PAA. Operationele feiten zijn gecontroleerd aan de april-openingspublicaties en BMA-parkdata. Roterende kramen, prijzen, betaalwijzen en aanbod zijn daarom als dagchecks geformuleerd, niet als permanente garanties. Laatst gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

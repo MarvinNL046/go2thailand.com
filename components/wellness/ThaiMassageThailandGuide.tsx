@@ -242,7 +242,7 @@ export function ThaiMassageThailandGuide() {
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image={HERO_IMAGE}
           imageAlt="Professionele Thaise massagetherapeut bereidt een rustige behandelruimte voor"
@@ -593,7 +593,7 @@ export function ThaiMassageThailandGuide() {
           description="DFS stuurde de zoekintentie, concurrentiegaten en letterlijke PAA. Voor veranderlijke of health-adjacent claims gebruikten we primaire instanties. Prijzen zijn gedateerd; traditionele begrippen worden als traditie beschreven en niet als bewezen behandeling. Laatst inhoudelijk gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

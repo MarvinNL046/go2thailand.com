@@ -161,7 +161,7 @@ export function CaveFantasyBangkokGuide() {
         <meta property="article:modified_time" content="2026-07-25" />
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
-      <main className="overflow-hidden bg-canvas text-charcoal">
+      <div className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           eyebrow="Een lichtwereld op verdieping vier"
           title={<>Cave Fantasy<br />Bangkok.</>}
@@ -260,8 +260,8 @@ export function CaveFantasyBangkokGuide() {
               <div className="border-y border-jade/10">
                 {[
                   { tag: 'Foto + entertainment', title: 'Cave Fantasy', text: 'Kies dit wanneer je een compacte wandeling door projecties, spiegels en fantasiewerelden wilt, eventueel met Flight Theater. De locatie bij National Stadium maakt combineren eenvoudig.', href: '#kiezen', label: 'Kies product' },
-                  { tag: 'Galerie + context', title: 'BACC', text: 'Kies BACC wanneer tentoonstellingen, makers en een rustigere museumstructuur belangrijker zijn dan een betaalde fotowereld. Controleer het programma en onthoud dat maandag de vaste sluitingsdag is.', href: '/blog/bangkok-art-biennale-2026-angels-mara-guide/', label: 'Bekijk kunstcontext' },
-                  { tag: 'Andere digitale ervaring', title: 'Space & Time Cube', text: 'Vergelijk eerst locatie, aantal zones, ticketvorm en reisdoel voordat je twee soortgelijke digitale ervaringen in één reis boekt. Meer is niet automatisch gevarieerder.', href: '/blog/space-time-cube-bangkok-immersive-metaverse-museum-2026/', label: 'Vergelijk ervaring' },
+                  { tag: 'Galerie + context', title: 'BACC', text: 'Kies BACC wanneer tentoonstellingen, makers en een rustigere museumstructuur belangrijker zijn dan een betaalde fotowereld. Controleer het programma en onthoud dat maandag de vaste sluitingsdag is.', href: '/nl/blog/bangkok-art-biennale-2026-angels-mara-guide/', label: 'Bekijk kunstcontext' },
+                  { tag: 'Andere digitale ervaring', title: 'Space & Time Cube', text: 'Vergelijk eerst locatie, aantal zones, ticketvorm en reisdoel voordat je twee soortgelijke digitale ervaringen in één reis boekt. Meer is niet automatisch gevarieerder.', href: '/nl/blog/space-time-cube-bangkok-immersive-metaverse-museum-2026/', label: 'Vergelijk ervaring' },
                 ].map(({ tag, title, text, href, label }) => (
                   <article key={title} className="grid gap-4 border-b border-jade/10 py-7 last:border-0 sm:grid-cols-[170px_1fr_auto] sm:items-start">
                     <div><p className="text-[9px] font-extrabold uppercase tracking-[0.13em] text-saffron-dark">{tag}</p><h3 className="mt-2 font-display text-2xl font-semibold text-jade">{title}</h3></div>
@@ -407,7 +407,7 @@ export function CaveFantasyBangkokGuide() {
           description="DFS bepaalde de Nederlandse merk-, ticket- en indoor-intentie via een keywordcluster, tien actuele SERP-sets en echte PAA. Primaire MBK- en Klook-informatie bepaalt locatie, route, productopbouw en voorwaarden; ThaiPass en Trip.com zijn aanvullend geparseerd. Een MBK-parse time-out is vastgelegd en niet verborgen. Vaste prijzen, dynamische reviewscores en oncontroleerbare superlatieven zijn bewust niet overgenomen. Laatst gecontroleerd: 25 juli 2026."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }
