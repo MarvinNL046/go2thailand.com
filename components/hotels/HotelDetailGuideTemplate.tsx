@@ -46,14 +46,16 @@ const sectionNavItems: PageSectionNavItem[] = [
 ];
 
 export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetailGuideTemplateProps) {
+  const destinationHref = data.destinationHref || `/city/${data.citySlug}/`;
+  const hotelGuideHref = `/best-hotels/${data.citySlug}/`;
   const actions: EditorialHeroAction[] = [
     { label: data.hero.ctaLabel, href: tripHref, kind: 'primary', newTab: true, affiliate: true },
     { label: 'Lees het eerlijke oordeel', href: '#kort', kind: 'secondary' },
   ];
   const heroBreadcrumbs = [
     { label: 'Thailand', href: '/' },
-    { label: data.cityName, href: `/city/${data.citySlug}/` },
-    { label: 'Hotels', href: `/best-hotels/${data.citySlug}/` },
+    { label: data.cityName, href: destinationHref },
+    { label: 'Hotels', href: hotelGuideHref },
     { label: data.hotelName },
   ];
   const breadcrumbSchema = {
@@ -61,8 +63,8 @@ export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetail
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Thailand', item: 'https://go2-thailand.com/nl/' },
-      { '@type': 'ListItem', position: 2, name: data.cityName, item: `https://go2-thailand.com/nl/city/${data.citySlug}/` },
-      { '@type': 'ListItem', position: 3, name: `Hotels in ${data.cityName}`, item: `https://go2-thailand.com/nl/best-hotels/${data.citySlug}/` },
+      { '@type': 'ListItem', position: 2, name: data.cityName, item: `https://go2-thailand.com/nl${destinationHref}` },
+      { '@type': 'ListItem', position: 3, name: `Hotels in ${data.cityName}`, item: `https://go2-thailand.com/nl${hotelGuideHref}` },
       { '@type': 'ListItem', position: 4, name: data.hotelName, item: data.pageUrl },
     ],
   };
@@ -107,7 +109,7 @@ export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetail
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -179,7 +181,7 @@ export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetail
               <p className="eyebrow">{data.location.eyebrow}</p>
               <h2 className="heading-redesign">{data.location.title}</h2>
               <p className="mt-5 max-w-xl text-sm font-medium leading-7 text-charcoal/70">{data.location.description}</p>
-              <Link href={`/city/${data.citySlug}/`} className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">Open de complete {data.cityName}-gids <ArrowRight size={14} className="text-saffron-dark" /></Link>
+              <Link href={destinationHref} className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">Open de complete {data.cityName}-gids <ArrowRight size={14} className="text-saffron-dark" /></Link>
             </div>
             <div className="relative py-5">
               <DottedRoute className="pointer-events-none absolute -left-3 -right-3 top-1/2 hidden h-auto w-[calc(100%+1.5rem)] -translate-y-1/2 lg:block" />
@@ -241,7 +243,7 @@ export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetail
         />
 
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
-      </main>
+      </div>
     </>
   );
 }

@@ -1,0 +1,33 @@
+{
+  "captured_at": "2026-07-26T03:13:43.130Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/hotel/oasis-koh-chang/",
+  "cost": 0.01236,
+  "rankings": [
+    {
+      "keyword": "koh chang oasis",
+      "position": 37,
+      "volume": 140,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/oasis-koh-chang/"
+    },
+    {
+      "keyword": "oasis koh chang",
+      "position": 36,
+      "volume": 140,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/oasis-koh-chang/"
+    },
+    {
+      "keyword": "oasis koh chang thailand",
+      "position": 38,
+      "volume": 140,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/oasis-koh-chang/"
+    }
+  ]
+}

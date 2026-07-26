@@ -19,6 +19,7 @@ export interface HotelDetailGuideData {
   hotelName: string;
   cityName: string;
   citySlug: string;
+  destinationHref?: string;
   area: string;
   pageTitle: string;
   pageDescription: string;

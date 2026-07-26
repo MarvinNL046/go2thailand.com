@@ -5,7 +5,7 @@ export const nlHotelDetailGuides: Record<string, HotelDetailGuideData> = {
     slug: 'mandarin-oriental-bangkok', hotelName: 'Mandarin Oriental Bangkok', cityName: 'Bangkok', citySlug: 'bangkok', area: 'Bang Rak · Chao Phraya',
     pageTitle: 'Mandarin Oriental Bangkok: eerlijk verblijfadvies',
     pageDescription: 'Past Mandarin Oriental Bangkok bij jouw reis? Eerlijk advies over de rivierlocatie, hotelboot, kamertypes en de afweging tussen historie en stadslogistiek.',
-    pageUrl: 'https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/', dateModified: '2026-07-24',
+    pageUrl: 'https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/', dateModified: '2026-07-26',
     hero: {
       image: '/images/redesign/hotel-mandarin-oriental-bangkok-hero.webp', imageAlt: 'Sfeerbeeld van een historisch hotelterras aan de Chao Phraya in Bangkok bij zacht ochtendlicht',
       imageCaption: 'AI-gegenereerd sfeerbeeld van historisch Bangkok; bekijk actuele accommodatiebeelden bij de aanbieder.',
@@ -70,7 +70,7 @@ export const nlHotelDetailGuides: Record<string, HotelDetailGuideData> = {
     slug: 'tonsai-bay-resort', hotelName: 'Tonsai Bay Resort', cityName: 'Krabi', citySlug: 'krabi', area: 'Tonsai Beach · Railay-schiereiland',
     pageTitle: 'Tonsai Bay Resort Krabi: eerlijk verblijfadvies',
     pageDescription: 'Eerlijk advies over Tonsai Bay Resort: boottoegang, klimlocatie, kamertypes en de afweging tussen natuur, eenvoud en bereikbaarheid.',
-    pageUrl: 'https://go2-thailand.com/nl/hotel/tonsai-bay-resort/', dateModified: '2026-07-24',
+    pageUrl: 'https://go2-thailand.com/nl/hotel/tonsai-bay-resort/', dateModified: '2026-07-26',
     hero: {
       image: '/images/redesign/hotel-tonsai-bay-resort-hero.webp', imageAlt: 'Sfeerbeeld van eenvoudige houten cottages onder kalksteenkliffen aan Tonsai Bay in Krabi',
       imageCaption: 'AI-gegenereerd sfeerbeeld van Tonsai Bay; bekijk actuele accommodatiebeelden bij de aanbieder.',
@@ -135,7 +135,7 @@ export const nlHotelDetailGuides: Record<string, HotelDetailGuideData> = {
     slug: 'centara-grand-beach-resort-villas-krabi', hotelName: 'Centara Reserve Krabi', cityName: 'Krabi', citySlug: 'krabi', area: 'Pai Plong Bay · Ao Nang',
     pageTitle: 'Centara Grand Krabi heet nu Centara Reserve Krabi',
     pageDescription: 'Centara Grand Beach Resort & Villas Krabi is vernieuwd als Centara Reserve Krabi. Lees wat veranderde, voor wie Pai Plong Bay past en wat je vóór boeken controleert.',
-    pageUrl: 'https://go2-thailand.com/nl/hotel/centara-grand-beach-resort-villas-krabi/', dateModified: '2026-07-24',
+    pageUrl: 'https://go2-thailand.com/nl/hotel/centara-grand-beach-resort-villas-krabi/', dateModified: '2026-07-26',
     hero: {
       image: '/images/redesign/hotel-centara-reserve-krabi-hero.webp', imageAlt: 'Sfeerbeeld van een verfijnd resort tussen jungle en kalksteen aan Pai Plong Bay in Krabi',
       imageCaption: 'AI-gegenereerd sfeerbeeld van Pai Plong Bay; bekijk actuele accommodatiebeelden bij de aanbieder.',
@@ -197,10 +197,10 @@ export const nlHotelDetailGuides: Record<string, HotelDetailGuideData> = {
   },
 
   'oasis-koh-chang': {
-    slug: 'oasis-koh-chang', hotelName: 'Oasis Koh Chang', cityName: 'Koh Chang', citySlug: 'trat', area: 'Lonely Beach · Koh Chang',
+    slug: 'oasis-koh-chang', hotelName: 'Oasis Koh Chang', cityName: 'Koh Chang', citySlug: 'trat', destinationHref: '/islands/koh-chang/', area: 'Lonely Beach · Koh Chang',
     pageTitle: 'Oasis Koh Chang: eerlijk verblijfadvies',
     pageDescription: 'Past Oasis Koh Chang bij jou? Eerlijk advies over de junglehelling, bungalows, zwembad, wandeling naar Lonely Beach en actuele boekingskeuzes.',
-    pageUrl: 'https://go2-thailand.com/nl/hotel/oasis-koh-chang/', dateModified: '2026-07-24',
+    pageUrl: 'https://go2-thailand.com/nl/hotel/oasis-koh-chang/', dateModified: '2026-07-26',
     hero: {
       image: '/images/redesign/hotel-oasis-koh-chang-hero.webp', imageAlt: 'Sfeerbeeld van eenvoudige junglebungalows en een klein zwembad op een groene helling van Koh Chang',
       imageCaption: 'AI-gegenereerd sfeerbeeld van de junglehelling bij Lonely Beach; bekijk actuele accommodatiebeelden bij de aanbieder.',
