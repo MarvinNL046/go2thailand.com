@@ -1,5 +1,11 @@
 # NL 7-Eleven Thailand practical guide — acceptance audit
 
+## Actuele vervolgcontrole — 26 juli 2026
+
+- De verouderde gesplitste alcoholvensters zijn vervangen door de officiële TAT-update van 29 mei 2026: algemeen 11.00–24.00 uur, met datum-, locatie- en vergunningsvoorwaarden.
+- Het gedeelde pre-departure Amazonblok toont nu bij alle drie OneLink-producten expliciet `Bekijk de actuele prijs op Amazon` in plaats van alleen een extern-linkicoon.
+- De NL-route geeft HTTP 200, toont de nieuwe regel en bevat niet langer de oude 11.00–14.00/17.00–24.00-copy.
+
 **Route:** `/nl/travel-guides/7-eleven-thailand/`
 
 **Datum:** 25 juli 2026

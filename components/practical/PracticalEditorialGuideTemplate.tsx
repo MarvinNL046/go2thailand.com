@@ -108,6 +108,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
     tableCaption: 'Indicative prices for products at 7-Eleven Thailand', tableHeaders: ['Product', 'Typical range', 'Why it varies'],
     afterArrival: 'After arrival', beforeDeparture: 'Before departure',
     affiliate: 'Affiliate disclosure: we may earn commission from qualifying Amazon purchases at no extra cost to you. OneLink may send you to a local Amazon store; availability and delivery vary by country.',
+    amazonCta: 'Check current price at Amazon',
     packingList: 'View the full Thailand packing list', faqEyebrow: 'Real search questions',
     faqTitle: 'Frequently asked questions about 7-Eleven Thailand',
     faqDescription: 'These questions come from current English-language People Also Ask results. The answers separate stable store information from rules and services that can change.',
@@ -123,6 +124,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
     tableCaption: 'Indicatieve prijzen voor producten bij 7-Eleven Thailand', tableHeaders: ['Product', 'Oriëntatie', 'Waarom het verschilt'],
     afterArrival: 'Na aankomst', beforeDeparture: 'Voor vertrek',
     affiliate: 'Affiliate: bij een aankoop via deze Amazon-links ontvangen wij mogelijk commissie, zonder extra kosten voor jou. OneLink kan je doorsturen naar een lokale Amazon-winkel; aanbod en bestemming verschillen per land.',
+    amazonCta: 'Bekijk de actuele prijs op Amazon',
     packingList: 'Bekijk de volledige Thailand-paklijst', faqEyebrow: 'Echte zoekvragen',
     faqTitle: 'Veelgestelde vragen over 7-Eleven Thailand',
     faqDescription: 'De vragen zijn gebaseerd op actuele Nederlandse People Also Ask-resultaten. Antwoorden scheiden stabiele winkelinformatie van regels en diensten die kunnen veranderen.',
@@ -392,7 +394,7 @@ export function PracticalEditorialGuideTemplate({ data }: { data: PracticalEdito
                   {data.pack.amazonProducts.map((product, index) => (
                     <a key={product.amazonSlug} href={`/go/${product.amazonSlug}/`} target="_blank" rel="noopener noreferrer nofollow sponsored" className="group grid grid-cols-[36px_1fr_36px] items-start gap-3 rounded-xl border border-white/13 bg-white/[0.065] p-4 transition hover:border-saffron/45 hover:bg-white/[0.1]">
                       <span className="grid h-9 w-9 place-items-center rounded-lg bg-saffron text-xs font-black text-white">0{index + 1}</span>
-                      <span><strong className="block text-sm font-extrabold text-white">{product.title}</strong><span className="mt-1 block text-[10px] font-medium leading-5 text-white/58">{product.reason}</span></span>
+                      <span><strong className="block text-sm font-extrabold text-white">{product.title}</strong><span className="mt-1 block text-[10px] font-medium leading-5 text-white/58">{product.reason}</span><span className="mt-2 block text-[10px] font-extrabold text-saffron-light">{copy.amazonCta}</span></span>
                       <span className="grid h-9 w-9 place-items-center rounded-lg border border-saffron/35 text-saffron-light transition group-hover:bg-saffron group-hover:text-white"><ExternalLink size={14} /></span>
                     </a>
                   ))}
