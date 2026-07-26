@@ -1,0 +1,2432 @@
+{
+  "captured_at": "2026-07-26T15:53:34.688Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "full moon party thailand",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.01716,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "full moon party thailand",
+    "full moon party in thailand",
+    "full moon thailand party",
+    "party thailand full moon",
+    "thailand full moon party",
+    "thailand party full moon",
+    "full moon party thailand koh phangan",
+    "koh phangan full moon party thailand",
+    "koh phangan thailand full moon party",
+    "thailand full moon party koh phangan",
+    "full moon party thailand 2026",
+    "full moon party koh phangan",
+    "full moon party thailand 2025",
+    "full moon party thailand where",
+    "where full moon party thailand",
+    "where in thailand is the full moon party",
+    "where is full moon party in thailand",
+    "where is full moon party thailand",
+    "where is the full moon party in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "full moon party in thailand",
+      "volume": 4400,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand",
+      "volume": 4400,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon thailand party",
+      "volume": 4400,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "party thailand full moon",
+      "volume": 4400,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party",
+      "volume": 4400,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand party full moon",
+      "volume": 4400,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand koh phangan",
+      "volume": 1600,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh phangan full moon party thailand",
+      "volume": 1600,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh phangan thailand full moon party",
+      "volume": 1600,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party koh phangan",
+      "volume": 1600,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2026",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party koh phangan",
+      "volume": 880,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025",
+      "volume": 720,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand where",
+      "volume": 480,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where full moon party thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where in thailand is the full moon party",
+      "volume": 480,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is full moon party in thailand",
+      "volume": 480,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is full moon party thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is the full moon party in thailand",
+      "volume": 480,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is the full moon party thailand",
+      "volume": 480,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party koh samui",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand koh samui",
+      "volume": 390,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui thailand full moon party",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand koh samui full moon party",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when full moon party thailand",
+      "volume": 390,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is full moon party in thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is full moon party thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the full moon party in thailand",
+      "volume": 390,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party koh phangan 2026",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand phuket",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "half moon party koh phangan",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket thailand full moon party",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket full moon party",
+      "volume": 260,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dates of full moon party thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party date thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party dates thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party in thailand dates",
+      "volume": 210,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand dates",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand schedule",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2026",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party dates",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party new year thailand",
+      "volume": 90,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand new year",
+      "volume": 90,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand new years",
+      "volume": 90,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nye full moon party thailand",
+      "volume": 90,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2025",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party new years",
+      "volume": 90,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand new year full moon party",
+      "volume": 90,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand new years eve full moon party",
+      "volume": 90,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2027",
+      "volume": 70,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "half moon party thailand 2026",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2026 dates",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "half moon party koh phangan 2026",
+      "volume": 50,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party dates 2026",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is a full moon party in thailand",
+      "volume": 50,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is a full moon party thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is full moon party in thailand",
+      "volume": 50,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is full moon party thailand",
+      "volume": 50,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is the full moon party thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party phuket 2026",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon beach party in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon beach party thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party beach thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party koh phangan 2027",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party koh samui 2026",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party location thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2024",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand dates 2026",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand february 2026",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand location",
+      "volume": 30,
+      "kd": 54,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how often is the full moon party in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand beach party full moon",
+      "volume": 30,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon beach party",
+      "volume": 30,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party location",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best full moon party in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best full moon party thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party 2026 thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party koh phangan 2026 dates",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 dates",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 tickets",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand april 2026",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand december 2025",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand january 2026",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand march 2026",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand november",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand tickets",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party tickets thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "next full moon party thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "november full moon party thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party dates 2025",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party island",
+      "volume": 20,
+      "kd": 55,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party tickets",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island full moon party",
+      "volume": 20,
+      "kd": 55,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tickets for full moon party thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the next full moon party in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "christmas full moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "copenhagen thailand full moon party",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon day party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon half moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon jungle party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party 2017 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party 2018 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party 2019 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party 2025 thailand",
+      "volume": 10,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party april thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party dates 2026 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party in thailand dates 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party koh phangan 2026 termine",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party koh phangan 2026 tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party koh samui dates 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party koh samui tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party koh samui to koh phangan",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party march thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party october thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party on koh phangan thailand",
+      "volume": 10,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party patong 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2018",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2018 dates",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2019",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2020",
+      "volume": 10,
+      "kd": 51,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2022",
+      "volume": 10,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2023",
+      "volume": 10,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2023 dates",
+      "volume": 10,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2023 koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2023 phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2023 tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2024 dates",
+      "volume": 10,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2024 location",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 dates august",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 dates november",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 dates tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 march",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 november",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2025 tickets price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2026 dates tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2026 koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2026 location",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2026 phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2026 tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand 2027 dates",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand accommodation",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand april",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand april 2023",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand august",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand august 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand calendar",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand dangerous",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand dates 2024",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand dates 2025",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand deaths",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand december 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand drugs",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand january",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand january 2023",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand january 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand july",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand july 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand june 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand koh phi phi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand march",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand march 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand may 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand may 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand music",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand november 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand november 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand packages",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand t shirt",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand video",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand when",
+      "volume": 10,
+      "kd": 57,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand wiki",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "full moon party thailand youtube",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "half full moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "half moon full moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "half moon party koh phangan 2026 tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "half moon party koh phangan 2027",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "half moon party koh phangan march",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "half moon party koh phangan reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "half moon party koh phangan tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to get to full moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to go to full moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new year full moon party thailand",
+      "volume": 10,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "paradise full moon party phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket full moon party dates 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2018",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2018 dates",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2019",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2021",
+      "volume": 10,
+      "kd": 57,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2022",
+      "volume": 10,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2022 dates",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2024",
+      "volume": 10,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2024 dates",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2025 dates",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party 2027",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party beach pollution",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party buckets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party dates 2018",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party december",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party may",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party package",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand full moon party tour",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what date is full moon party in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what day is the full moon party in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what happens at full moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is full moon party thailand 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to wear to full moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is full moon party thailand 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is thailand full moon party 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is thailand full moon party 2023",
+      "volume": 10,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the full moon party in thailand 2023",
+      "volume": 10,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the full moon party in thailand november",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where does full moon party happen in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is full moon party held in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay full moon party thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.fullmoonpartythailand.com",
+      "avgPosition": 1.7272727272727273,
+      "keywordCount": 11,
+      "visibility": 10.200000000000001,
+      "estimatedTraffic": 3037.8559999999998
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 5.2727272727272725,
+      "keywordCount": 11,
+      "visibility": 6.35,
+      "estimatedTraffic": 773.004
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 5.909090909090909,
+      "keywordCount": 11,
+      "visibility": 5.949999999999999,
+      "estimatedTraffic": 717.144
+    },
+    {
+      "domain": "www.odynovotours.com",
+      "avgPosition": 10.727272727272727,
+      "keywordCount": 11,
+      "visibility": 1.5000000000000002,
+      "estimatedTraffic": 121.9
+    },
+    {
+      "domain": "saily.com",
+      "avgPosition": 13.727272727272727,
+      "keywordCount": 11,
+      "visibility": 0.8500000000000002,
+      "estimatedTraffic": 89.18799999999999
+    },
+    {
+      "domain": "melatiresort.com",
+      "avgPosition": 14.636363636363637,
+      "keywordCount": 11,
+      "visibility": 1.75,
+      "estimatedTraffic": 176.94799999999998
+    },
+    {
+      "domain": "phangan.events",
+      "avgPosition": 20.09090909090909,
+      "keywordCount": 11,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 62.467999999999996
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 9,
+      "visibility": 5.3999999999999995,
+      "estimatedTraffic": 482.39200000000005
+    },
+    {
+      "domain": "www.sunsethillresort.com",
+      "avgPosition": 27,
+      "keywordCount": 11,
+      "visibility": 0.1,
+      "estimatedTraffic": 32.628
+    },
+    {
+      "domain": "www.umetravel.com",
+      "avgPosition": 27.272727272727273,
+      "keywordCount": 11,
+      "visibility": 0.75,
+      "estimatedTraffic": 71.452
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 28,
+      "keywordCount": 11,
+      "visibility": 1.05,
+      "estimatedTraffic": 117.47600000000001
+    },
+    {
+      "domain": "www.adventureinyou.com",
+      "avgPosition": 21.6,
+      "keywordCount": 10,
+      "visibility": 0.2,
+      "estimatedTraffic": 27.800000000000004
+    },
+    {
+      "domain": "www.tropicalsky.co.uk",
+      "avgPosition": 14,
+      "keywordCount": 9,
+      "visibility": 1.4000000000000001,
+      "estimatedTraffic": 67.352
+    },
+    {
+      "domain": "www.lensofjen.org",
+      "avgPosition": 3.5,
+      "keywordCount": 8,
+      "visibility": 6,
+      "estimatedTraffic": 1037.1280000000002
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 31.09090909090909,
+      "keywordCount": 11,
+      "visibility": 0.25,
+      "estimatedTraffic": 38.444
+    },
+    {
+      "domain": "www.directferries.com",
+      "avgPosition": 7.625,
+      "keywordCount": 8,
+      "visibility": 3.2499999999999996,
+      "estimatedTraffic": 128.79199999999997
+    },
+    {
+      "domain": "www.roafly.com",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 9,
+      "visibility": 0.35,
+      "estimatedTraffic": 29.1
+    },
+    {
+      "domain": "fullmoonparty-thailand.com",
+      "avgPosition": 37.18181818181818,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 24.107999999999997
+    },
+    {
+      "domain": "www.ultimate.travel",
+      "avgPosition": 17.625,
+      "keywordCount": 8,
+      "visibility": 0.5499999999999999,
+      "estimatedTraffic": 44.432
+    },
+    {
+      "domain": "www.mondayfeelings.com",
+      "avgPosition": 19.75,
+      "keywordCount": 8,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 78.12
+    },
+    {
+      "domain": "www.airasia.com",
+      "avgPosition": 10.428571428571429,
+      "keywordCount": 7,
+      "visibility": 3.2,
+      "estimatedTraffic": 489.18399999999997
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 21.75,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 21.503999999999998
+    },
+    {
+      "domain": "www.justwravel.com",
+      "avgPosition": 30.88888888888889,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 21.095999999999997
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 24.125,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 21.887999999999998
+    },
+    {
+      "domain": "www.centarahotelsresorts.com",
+      "avgPosition": 24.375,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 25.887999999999998
+    },
+    {
+      "domain": "adventure360.com",
+      "avgPosition": 6.166666666666667,
+      "keywordCount": 6,
+      "visibility": 3.6499999999999995,
+      "estimatedTraffic": 672.2159999999999
+    },
+    {
+      "domain": "backpacklife.com",
+      "avgPosition": 20,
+      "keywordCount": 7,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 27.96
+    },
+    {
+      "domain": "kohphangan.com",
+      "avgPosition": 49.45454545454545,
+      "keywordCount": 11,
+      "visibility": 0.05,
+      "estimatedTraffic": 27.107999999999997
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 21.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.8,
+      "estimatedTraffic": 76.824
+    },
+    {
+      "domain": "www.nomadicmatt.com",
+      "avgPosition": 31.625,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 17.232
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 51.1,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 22.259999999999998
+    },
+    {
+      "domain": "www.globalbasecamps.com",
+      "avgPosition": 30.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 15.624
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 31.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 19.08
+    },
+    {
+      "domain": "phanganist.com",
+      "avgPosition": 39.875,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 25.448
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 23.5,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 36.04
+    },
+    {
+      "domain": "thailandtravelbag.com",
+      "avgPosition": 12.6,
+      "keywordCount": 5,
+      "visibility": 0.3,
+      "estimatedTraffic": 18.288
+    },
+    {
+      "domain": "www.theworldtrippers.com",
+      "avgPosition": 17.6,
+      "keywordCount": 5,
+      "visibility": 0.7,
+      "estimatedTraffic": 55.239999999999995
+    },
+    {
+      "domain": "www.gap360.com",
+      "avgPosition": 1,
+      "keywordCount": 4,
+      "visibility": 4,
+      "estimatedTraffic": 583.68
+    },
+    {
+      "domain": "oxaphangan.com",
+      "avgPosition": 44.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 10.248
+    },
+    {
+      "domain": "www.ferrysamui.com",
+      "avgPosition": 35.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 15.623999999999999
+    },
+    {
+      "domain": "fullmoonparty.net",
+      "avgPosition": 52.625,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 19.488
+    },
+    {
+      "domain": "www.explorarhotels.com",
+      "avgPosition": 47.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 10.752
+    },
+    {
+      "domain": "www.halfmoonfestival.com",
+      "avgPosition": 9.25,
+      "keywordCount": 4,
+      "visibility": 0.7,
+      "estimatedTraffic": 95.93599999999999
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 50,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 9.408
+    },
+    {
+      "domain": "lubd.com",
+      "avgPosition": 30,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 17.688000000000002
+    },
+    {
+      "domain": "www.siamguides.com",
+      "avgPosition": 63,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 20.496000000000002
+    },
+    {
+      "domain": "www.backpackingtours.com",
+      "avgPosition": 37.2,
+      "keywordCount": 5,
+      "visibility": 0.4,
+      "estimatedTraffic": 30.696000000000005
+    },
+    {
+      "domain": "voyeglobal.com",
+      "avgPosition": 24,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.324
+    },
+    {
+      "domain": "thaiest.com",
+      "avgPosition": 70.6,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 23.1
+    },
+    {
+      "domain": "voyagevisit.com",
+      "avgPosition": 41.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 13.272
+    }
+  ]
+}

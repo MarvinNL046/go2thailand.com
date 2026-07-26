@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-26T15:53:27.781Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/nightlife/",
+  "cost": 0.01224,
+  "rankings": [
+    {
+      "keyword": "nightlife in thailand",
+      "position": 51,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nightlife/"
+    },
+    {
+      "keyword": "thailand best nightlife",
+      "position": 42,
+      "volume": 90,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nightlife/"
+    }
+  ]
+}
