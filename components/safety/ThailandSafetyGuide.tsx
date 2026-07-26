@@ -75,7 +75,7 @@ export default function ThailandSafetyGuide() {
   const toggleItem = (index: number) => setCheckedItems((current) => current.includes(index) ? current.filter((item) => item !== index) : [...current, index]);
 
   const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) };
-  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Is Thailand veilig? Actueel reisadvies en praktische keuzes', description: 'Praktische veiligheidsgids voor Thailand met officiële reisadviesroute, verkeerskeuzes, scams, noodnummers en een interactieve voorbereiding.', url: 'https://go2-thailand.com/nl/is-thailand-safe/', inLanguage: 'nl-NL', dateModified: '2026-07-24' };
+  const webPageSchema = { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Is Thailand veilig? Actueel reisadvies en praktische keuzes', description: 'Praktische veiligheidsgids voor Thailand met officiële reisadviesroute, verkeerskeuzes, scams, noodnummers en een interactieve voorbereiding.', url: 'https://go2-thailand.com/nl/is-thailand-safe/', inLanguage: 'nl-NL', dateModified: '2026-07-26' };
   const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/nl/' }, { '@type': 'ListItem', position: 2, name: 'Is Thailand veilig?', item: 'https://go2-thailand.com/nl/is-thailand-safe/' }] };
 
   return (
@@ -90,7 +90,7 @@ export default function ThailandSafetyGuide() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-safety-hero.webp"
           imageAlt="Reizigers controleren hun route bij een verlicht BTS-station in Bangkok"
@@ -107,7 +107,7 @@ export default function ThailandSafetyGuide() {
           imageClassName="object-cover object-[68%_center] lg:object-center"
           gradientClassName="bg-[linear-gradient(180deg,rgba(4,42,34,0.22)_0%,rgba(4,42,34,0.44)_44%,rgba(4,42,34,0.96)_100%)] lg:bg-[linear-gradient(90deg,rgba(4,42,34,0.99)_0%,rgba(4,42,34,0.94)_40%,rgba(4,42,34,0.17)_64%,rgba(4,42,34,0.03)_100%)]"
           contentClassName="max-w-[680px] [&_nav]:!text-white/60 [&_nav_span]:!text-white/75"
-          sideCard={<div className="absolute bottom-8 right-[max(2rem,calc((100vw-1280px)/2))] z-10 hidden w-[315px] rounded-2xl border border-white/25 bg-jade/78 p-5 text-white shadow-editorial-card backdrop-blur-lg xl:block"><p className="text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Kort antwoord</p><p className="mt-3 font-display text-2xl font-semibold leading-tight">Geen landscore. Wel een live routecheck en vier beïnvloedbare keuzes.</p><div className="mt-4 flex items-center gap-3 border-t border-white/12 pt-4 text-[10px] font-semibold text-white/58"><ShieldCheck size={16} className="text-saffron-light" />Broncontrole: 24 juli 2026.</div></div>}
+          sideCard={<div className="absolute bottom-8 right-[max(2rem,calc((100vw-1280px)/2))] z-10 hidden w-[315px] rounded-2xl border border-white/25 bg-jade/78 p-5 text-white shadow-editorial-card backdrop-blur-lg xl:block"><p className="text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Kort antwoord</p><p className="mt-3 font-display text-2xl font-semibold leading-tight">Geen landscore. Wel een live routecheck en vier beïnvloedbare keuzes.</p><div className="mt-4 flex items-center gap-3 border-t border-white/12 pt-4 text-[10px] font-semibold text-white/58"><ShieldCheck size={16} className="text-saffron-light" />Broncontrole: 26 juli 2026.</div></div>}
         />
 
         <PageSectionNav items={sectionNav} />
@@ -201,13 +201,13 @@ export default function ThailandSafetyGuide() {
           { title: 'Weer & beste reistijd', description: 'Controleer regen, zeecondities en lokale planning per regio.', href: '/weather/', image: '/images/redesign/thailand-weather-coast-switch.webp', imageAlt: 'Twee Thaise kusten met verschillend weer' },
         ]} />
 
-        <SourceMethodSection eyebrow="Bronnen & actualiteit" title="Veiligheidsadvies hoort een eigenaar te hebben" description="Zoektermen, concurrenten en echte PAA-vragen zijn op 24 juli 2026 via DataForSEO voor Nederland onderzocht. Go2Thailand vertaalt het officiële advies naar praktische keuzes, maar publiceert geen eigen kleurcode, live incidentstatus of zelfbedachte veiligheidsscores." sources={[
+        <SourceMethodSection eyebrow="Bronnen & actualiteit" title="Veiligheidsadvies hoort een eigenaar te hebben" description="Zoektermen, concurrenten en echte PAA-vragen zijn op 24 juli 2026 via DataForSEO voor Nederland onderzocht. De live bronstatus is op 26 juli opnieuw gecontroleerd. Go2Thailand vertaalt het officiële advies naar praktische keuzes, maar publiceert geen eigen kleurcode, live incidentstatus of zelfbedachte veiligheidsscores." sources={[
           { title: 'Reisadvies Thailand', creator: 'Ministerie van Buitenlandse Zaken · NederlandWereldwijd', url: 'https://www.nederlandwereldwijd.nl/reisadvies/thailand', note: 'Primaire live bron voor kleurcodes, regionale risico’s, verkeerswaarschuwingen, lokale hulpdiensten en consulaire voorbereiding.' },
           { title: 'Tourist Police Thailand', creator: 'Tourist Police Bureau', url: 'https://www.touristpolice.go.th/en/main', note: 'Officiële bron voor hotline 1155 en de Tourist Police-app.' },
           { title: 'National Institute for Emergency Medicine', creator: 'NIEM Thailand', url: 'https://www.niems.go.th/1/SubWebsite/?id=1096', note: 'Officiële bron voor het nationale medische noodnummer 1669.' },
           { title: 'Criminaliteit in het buitenland voorkomen', creator: 'NederlandWereldwijd', url: 'https://www.nederlandwereldwijd.nl/reisadvies/criminaliteit', note: 'Primaire Nederlandse bron voor documentkopieën, thuisfront, zakkenrollerij en handelen na criminaliteit.' },
         ]} />
-      </main>
+      </div>
     </>
   );
 }

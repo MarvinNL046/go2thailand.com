@@ -3,16 +3,16 @@ import type { ClimateUpdateGuideData } from '../types';
 export const elNinoThailand2026Guide: ClimateUpdateGuideData = {
   slug: 'el-nino-2026-thailand-weather-heatwave-travel-tips',
   pageTitle: 'El Niño 2026 in Thailand: weer, hitte & reistips',
-  pageDescription: 'El Niño is in 2026 ontwikkeld. Lees wat dat wel en niet betekent voor je Thailand-reis, met actuele bronstatus, regiokeuze en een praktisch hitte- en regenplan.',
+  pageDescription: 'El Niño heeft zich in 2026 ontwikkeld. Lees wat dat wel en niet betekent voor je Thailand-reis, met actuele bronstatus, regiokeuze en een praktisch hitte- en regenplan.',
   pageUrl: 'https://go2-thailand.com/nl/blog/el-nino-2026-thailand-weather-heatwave-travel-tips/',
   datePublished: '2026-03-23',
-  dateModified: '2026-07-24',
+  dateModified: '2026-07-26',
   author: 'Go2Thailand-redactie',
   hero: {
     image: '/images/redesign/thailand-el-nino-weather-hero.webp',
     imageAlt: 'Wat Arun aan de Chao Phraya met zon, donkere moessonwolken en regen in de verte',
     imageCaption: 'AI-gegenereerd redactioneel sfeerbeeld van wisselvallig tropisch weer. Gebruik voor je reis altijd de actuele TMD-waarschuwingen.',
-    eyebrow: 'Weerupdate · gecontroleerd 24 juli 2026',
+    eyebrow: 'Weerupdate · gecontroleerd 26 juli 2026',
     title: 'El Niño 2026',
     accent: 'in Thailand',
     subtitle: 'Actief klimaatsignaal, geen dag-tot-dag weersvoorspelling.',
@@ -22,7 +22,7 @@ export const elNinoThailand2026Guide: ClimateUpdateGuideData = {
     label: 'Het korte antwoord',
     title: 'Je reis hoeft niet van tafel — je planning moet flexibeler.',
     summary: 'WMO meldde op 3 juli 2026 dat El Niño-condities zijn ontwikkeld en waarschijnlijk versterken. Dat maakt bepaalde klimaatextremen waarschijnlijker, maar voorspelt niet of het op jouw stranddag regent. De Thaise weerdienst publiceert daarvoor dagelijkse waarschuwingen en zeeverwachtingen.',
-    checked: 'Bronstatus gecontroleerd op 24 juli 2026',
+    checked: 'Bronstatus gecontroleerd op 26 juli 2026',
     facts: [
       { label: 'Wereldwijd signaal', value: 'El Niño actief', note: 'WMO bevestigt ontwikkeling en verwachte versterking in 2026.', icon: 'wind' },
       { label: 'Thailand nu', value: 'Moesson actief', note: 'Regen, wind en golfslag verschillen per regio en per dag.', icon: 'rain' },
@@ -90,4 +90,3 @@ export const elNinoThailand2026Guide: ClimateUpdateGuideData = {
     { title: 'Reisadvies Thailand', creator: 'NederlandWereldwijd', url: 'https://www.nederlandwereldwijd.nl/reisadvies/thailand', note: 'Actuele veiligheids- en noodinformatie voor Nederlandse reizigers.' },
   ],
 };
-

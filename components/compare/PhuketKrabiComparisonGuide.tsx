@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import {
   ArrowRight,
   BadgeCheck,
@@ -35,7 +36,7 @@ import { SectionHeading } from '../design/SectionHeading';
 import { SourceMethodSection } from '../design/SourceMethodSection';
 import { KLOOK_GENERIC, TRIP_GENERIC, TWELVEGO_GENERIC, cityAffiliates, withSubId } from '../../lib/affiliates';
 
-const UPDATED_AT = '2026-07-23';
+const UPDATED_AT = '2026-07-26';
 const pageUrl = 'https://go2-thailand.com/nl/compare/phuket-vs-krabi/';
 
 const sectionNav = [
@@ -268,6 +269,15 @@ function createSchemas() {
   return [
     {
       '@context': 'https://schema.org',
+      '@type': 'WebPage',
+      name: 'Phuket of Krabi? Eerlijke vergelijking per reisstijl',
+      description: 'Phuket en Krabi vergeleken op sfeer, stranden, bereikbaarheid, uitjes, avonden en reistempo.',
+      url: pageUrl,
+      inLanguage: 'nl-NL',
+      dateModified: UPDATED_AT,
+    },
+    {
+      '@context': 'https://schema.org',
       '@type': 'ItemList',
       name: 'Phuket of Krabi vergelijken',
       description: 'Phuket en Krabi vergeleken op sfeer, stranden, bereikbaarheid, uitjes, avonden en reistempo.',
@@ -342,7 +352,7 @@ export default function PhuketKrabiComparisonGuide() {
         ))}
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/phuket-vs-krabi-hero.webp"
           imageAlt="Panoramisch contrast tussen de ontwikkelde kust van Phuket en de kalksteenrotsen van Krabi"
@@ -389,6 +399,7 @@ export default function PhuketKrabiComparisonGuide() {
                 <Sparkles className="text-saffron" size={24} aria-hidden="true" />
                 <p className="mt-5 font-display text-[2.1rem] font-semibold leading-[0.98]">Ons redactionele advies</p>
                 <p className="mt-4 max-w-[720px] text-sm font-medium leading-7 text-white/76">Kies <strong className="text-white">Phuket</strong> voor een eerste reis met maximale keuzevrijheid, een brede foodscene en avonden die je zelf kunt opschalen. Kies <strong className="text-white">Krabi</strong> wanneer natuur het hoofddoel is en je liever één rustige basis met sterke boot- en stranddagen hebt. Heb je acht tot tien nachten? Dan is combineren vaak de eerlijkste winnaar.</p>
+                <p className="mt-5 border-t border-white/12 pt-5 text-xs font-medium leading-6 text-white/66">Verdiep je keuze daarna in de <Link href="/city/phuket/" className="font-extrabold text-white underline decoration-saffron/55 underline-offset-4">volledige Phuket-gids</Link> of lees hoe stranden, wijken en vervoer samenkomen in de <Link href="/city/krabi/" className="font-extrabold text-white underline decoration-saffron/55 underline-offset-4">Krabi-gids</Link>.</p>
               </div>
             </div>
           </div>
@@ -571,10 +582,10 @@ export default function PhuketKrabiComparisonGuide() {
 
         <SourceMethodSection
           title="Zo is deze vergelijking gemaakt"
-          description={`Zoekintentie, concurrenten en echte PAA-vragen zijn op ${UPDATED_AT} met DataForSEO voor Nederland onderzocht. Bestemmings- en luchthavenclaims zijn getoetst aan officiële Thaise bronnen. We gebruiken geen samengestelde reviewscore en noemen geen dagprijs zonder live boekingscontext.`}
+          description="Zoekintentie, concurrenten en echte PAA-vragen zijn op 23 juli 2026 met DataForSEO voor Nederland onderzocht; de exacte owner is op 26 juli opnieuw gecontroleerd. Bestemmings- en luchthavenclaims zijn getoetst aan officiële Thaise bronnen. We gebruiken geen samengestelde reviewscore en noemen geen dagprijs zonder live boekingscontext."
           sources={sources}
         />
-      </main>
+      </div>
     </>
   );
 }

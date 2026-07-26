@@ -111,7 +111,7 @@ export function ClimateUpdateGuideTemplate({ data }: ClimateUpdateGuideTemplateP
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
@@ -130,7 +130,7 @@ export function ClimateUpdateGuideTemplate({ data }: ClimateUpdateGuideTemplateP
           sideCard={(
             <div className="absolute bottom-8 right-[max(2rem,calc((100vw-1180px)/2))] z-10 hidden w-[350px] rounded-2xl border border-white/70 bg-canvas/[0.94] p-5 shadow-[0_18px_50px_rgba(18,63,54,0.16)] backdrop-blur-md xl:block">
               <p className="text-[9px] font-extrabold uppercase tracking-[0.18em] text-saffron-dark">Bronstatus</p>
-              <h2 className="mt-2 font-display text-[1.75rem] font-semibold leading-none text-jade">Actueel op 24 juli 2026</h2>
+              <h2 className="mt-2 font-display text-[1.75rem] font-semibold leading-none text-jade">Actueel op 26 juli 2026</h2>
               <p className="mt-3 text-xs font-medium leading-5 text-charcoal/62">WMO voor het klimaatsignaal. TMD voor jouw reisdag. WHO voor hittegezondheid.</p>
               <a href="https://tmd.go.th/en/weather/weatherthailand" target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 text-[10px] font-extrabold text-jade hover:text-saffron-dark">Open actuele TMD-verwachting <ExternalLink size={12} /></a>
             </div>
@@ -225,11 +225,11 @@ export function ClimateUpdateGuideTemplate({ data }: ClimateUpdateGuideTemplateP
           </div>
         </section>
 
-        <FaqSplitSection eyebrow="Echte vragen uit de Nederlandse SERP" title="Veelgestelde vragen over El Niño en Thailand in 2026" description="De vragen zijn via DataForSEO uit Nederlandse Google-resultaten vastgelegd. De antwoorden zijn opnieuw gecontroleerd op 24 juli 2026 en scheiden een mondiaal klimaatsignaal bewust van lokaal reisweer." items={data.faqs} />
+        <FaqSplitSection eyebrow="Echte vragen uit de Nederlandse SERP" title="Veelgestelde vragen over El Niño en Thailand in 2026" description="De vragen zijn via DataForSEO uit Nederlandse Google-resultaten vastgelegd. De antwoorden zijn opnieuw gecontroleerd op 26 juli 2026 en scheiden een mondiaal klimaatsignaal bewust van lokaal reisweer." items={data.faqs} />
         <RelatedGuidesSection title="Plan verder dan één weerskop" guides={data.relatedGuides} sideLink={{ label: 'Volledige Thailand-weergids', href: '/weather/' }} />
         <SourceMethodSection title="Hoe is deze weerupdate onderzocht?" description="GA4 wees deze bestaande Nederlandse pagina aan als bewezen verkeersroute. DataForSEO leverde de actuele SERP, echte PAA, rankings en backlinkstatus. Feiten zijn daarna gecontroleerd bij WMO, TMD, WHO en NederlandWereldwijd. Tijdgebonden status staat daarom expliciet bij de update." sources={data.sources} />
         <section className="section-divider-bottom py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
-      </main>
+      </div>
     </>
   );
 }

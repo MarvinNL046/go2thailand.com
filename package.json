@@ -50,6 +50,7 @@
     "seo:verify:nl-attraction-details": "tsx scripts/verify-nl-attraction-details.ts",
     "seo:verify:nl-core-hubs": "tsx scripts/verify-nl-core-hubs.ts",
     "seo:verify:nl-planning-essentials": "tsx scripts/verify-nl-planning-essentials.ts",
+    "seo:verify:nl-final-owners": "tsx scripts/verify-nl-final-owners.ts",
     "seo:audit:nl-hotels": "tsx scripts/audit-nl-hotel-family.ts",
     "seo:audit:nl-attractions": "tsx scripts/audit-nl-attraction-family.ts",
     "affiliate:verify": "tsx scripts/verify-amazon-affiliates.ts",
