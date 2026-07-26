@@ -29,6 +29,7 @@ export function CityBookingPlanner({
         'Koh Samui': 'Beach, temple, marine park and local experiences.',
         'Chiang Rai': 'Temple art, city culture and northern day routes.',
         Kanchanaburi: 'History, railway, waterfall and river experiences.',
+        Sukhothai: 'Historical park, cycling, heritage and local experiences.',
         Krabi: 'Island, coast, nature and local experiences.',
       }[cityName] || 'Tours, culture, nature and local experiences.');
   const transportDescription = isNl
@@ -41,6 +42,7 @@ export function CityBookingPlanner({
         'Koh Samui': 'Airport, ferry, transfer and onward connections.',
         'Chiang Rai': 'Airport, bus, transfer and Chiang Mai connections.',
         Kanchanaburi: 'Bangkok bus, train, transfer and upriver connections.',
+        Sukhothai: 'Bus, transfer, airport and onward northern connections.',
         Krabi: 'Ferry, transfer, bus and onward connections.',
       }[cityName] || 'Transfers, buses, trains and onward connections.');
   const items = [

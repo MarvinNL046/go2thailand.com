@@ -40,6 +40,7 @@ import { AyutthayaDestinationOverview } from '../../../components/city/Ayutthaya
 import { KohSamuiDestinationOverview } from '../../../components/city/KohSamuiDestinationOverview';
 import { ChiangRaiDestinationOverview } from '../../../components/city/ChiangRaiDestinationOverview';
 import { KanchanaburiDestinationOverview } from '../../../components/city/KanchanaburiDestinationOverview';
+import { SukhothaiDestinationOverview } from '../../../components/city/SukhothaiDestinationOverview';
 import { DestinationGuideTemplate } from '../../../components/city/DestinationGuideTemplate';
 import { getEnDestinationGuide } from '../../../data/destinations/en';
 import { getNlDestinationGuide } from '../../../data/destinations/nl';
@@ -363,7 +364,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const isKohSamuiEn = city.slug === 'koh-samui' && locale !== 'nl';
   const isChiangRaiEn = city.slug === 'chiang-rai' && locale !== 'nl';
   const isKanchanaburiEn = city.slug === 'kanchanaburi' && locale !== 'nl';
-  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn;
+  const isSukhothaiEn = city.slug === 'sukhothai' && locale !== 'nl';
+  const isPremiumCity = city.slug === 'krabi' || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn;
   const localizedCityName = locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en;
   const pageUrl = `https://go2-thailand.com${locale === 'nl' ? '/nl' : ''}/city/${city.slug}/`;
   const destinationDescription = city.slug === 'krabi' && locale === 'nl'
@@ -382,6 +384,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       ? 'Chiang Rai is a compact Northern Thai city and a base for a much larger province. Two nights covers the city and main art circuit; add a third day for one northern landscape route.'
     : isKanchanaburiEn
       ? 'Kanchanaburi combines a compact remembrance cluster with a long western province. Two or three days lets history, Erawan and the river breathe as separate chapters.'
+    : isSukhothaiEn
+      ? 'Sukhothai is an old capital and UNESCO World Heritage landscape, not one quick temple stop. Start with the central park, add one outer zone, and use a second day for deeper context or Si Satchanalai.'
     : locale === 'nl'
       ? (city.description.nl || city.overview || city.description.en)
       : (city.overview || city.description.en);
@@ -402,9 +406,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
         ? '/images/redesign/chiang-rai-destination-hero.webp'
       : isKanchanaburiEn
         ? '/images/redesign/kanchanaburi-destination-hero.webp'
+      : isSukhothaiEn
+        ? '/images/redesign/sukhothai-destination-hero.webp'
         : city.image,
   );
-  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn ? 10 : 6);
+  const visibleFaq = (city.faq || []).slice(0, (city.slug === 'krabi' && locale !== 'nl') || isBangkokEn || isChiangMaiEn || isPhuketEn || isAyutthayaEn || isKohSamuiEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn ? 10 : 6);
 
   const metadata = {
     ...baseMetadata,
@@ -551,15 +557,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
       <div className="bg-surface-cream min-h-screen">
         <CityDestinationHero
           activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-hero-activities')}
-          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn || isAyutthayaEn || isChiangRaiEn || isKanchanaburiEn ? 'Nov – Feb' : isPhuketEn ? 'Nov – Mar' : isKohSamuiEn ? 'Jan – Aug' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
+          bestTime={city.slug === 'krabi' ? (locale === 'nl' ? 'nov – mrt' : 'Nov – Mar') : isBangkokEn || isChiangMaiEn || isAyutthayaEn || isChiangRaiEn || isKanchanaburiEn || isSukhothaiEn ? 'Nov – Feb' : isPhuketEn ? 'Nov – Mar' : isKohSamuiEn ? 'Jan – Aug' : city.best_time_to_visit?.season || (locale === 'nl' ? 'nov – apr' : 'Nov – Apr')}
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           description={introSnippet}
-          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : isPhuketEn ? '/images/redesign/phuket-destination-hero-v2.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-destination-hero.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-destination-hero.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-destination-hero.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-destination-hero.webp' : getCityImageForSection(city, 'hero')}
+          heroImage={city.slug === 'krabi' ? '/images/redesign/krabi-destination-hero.webp' : isBangkokEn ? '/images/redesign/bangkok-destination-hero.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp' : isPhuketEn ? '/images/redesign/phuket-destination-hero-v2.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-destination-hero.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-destination-hero.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-destination-hero.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-destination-hero.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-destination-hero.webp' : getCityImageForSection(city, 'hero')}
           hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-hero-hotels')}
-          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : isPhuketEn ? 'Kata / Karon' : isAyutthayaEn ? 'Historical island' : isKohSamuiEn ? 'Chaweng / Lamai / Bophut' : isChiangRaiEn ? 'Clock tower / Night bazaar' : isKanchanaburiEn ? 'Town first / river second' : (city.tags || []).slice(0, 2).join(' & ')}
+          idealFor={city.slug === 'krabi' ? 'Ao Nang' : isBangkokEn ? 'Siam / Sukhumvit' : isChiangMaiEn ? 'Old City / Nimman' : isPhuketEn ? 'Kata / Karon' : isAyutthayaEn ? 'Historical island' : isKohSamuiEn ? 'Chaweng / Lamai / Bophut' : isChiangRaiEn ? 'Clock tower / Night bazaar' : isKanchanaburiEn ? 'Town first / river second' : isSukhothaiEn ? 'Mueang Kao / old city' : (city.tags || []).slice(0, 2).join(' & ')}
           isNl={locale === 'nl'}
-          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : isPhuketEn || isKohSamuiEn ? '4 – 5 days' : isAyutthayaEn ? '1 – 2 days' : isChiangRaiEn || isKanchanaburiEn ? '2 – 3 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
+          stayLength={city.slug === 'krabi' ? (locale === 'nl' ? '4 dagen' : '4 days') : isBangkokEn || isChiangMaiEn ? '3 – 4 days' : isPhuketEn || isKohSamuiEn ? '4 – 5 days' : isAyutthayaEn ? '1 – 2 days' : isChiangRaiEn || isKanchanaburiEn ? '2 – 3 days' : isSukhothaiEn ? '1 – 2 days' : (locale === 'nl' ? '3 – 5 dagen' : '3 – 5 days')}
         />
 
 
@@ -567,7 +573,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
           cityName={locale === 'nl' ? city.name.nl || city.name.en : city.name.en}
           citySlug={city.slug}
           editorial={editorial || cityDescription}
-          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : isPhuketEn ? '/images/redesign/phuket-zones-banner.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-river-heritage.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-zones-banner.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-mountain-route.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-history-route-v2.webp' : getCityImageForSection(city, 'attractions')}
+          imageSrc={city.slug === 'krabi' ? '/images/cities/krabi/attractions/railaybeach area overwiew.webp' : isBangkokEn ? '/images/redesign/bangkok-zones-banner.webp' : isChiangMaiEn ? '/images/cities/chiang-mai/redesign/chiang-mai-zones-banner.webp' : isPhuketEn ? '/images/redesign/phuket-zones-banner.webp' : isAyutthayaEn ? '/images/redesign/ayutthaya-river-heritage.webp' : isKohSamuiEn ? '/images/redesign/koh-samui-zones-banner.webp' : isChiangRaiEn ? '/images/redesign/chiang-rai-mountain-route.webp' : isKanchanaburiEn ? '/images/redesign/kanchanaburi-history-route-v2.webp' : isSukhothaiEn ? '/images/redesign/sukhothai-cycling-central.webp' : getCityImageForSection(city, 'attractions')}
           isNl={locale === 'nl'}
         />
 
@@ -742,6 +748,25 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
               activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-kanchanaburi-planner-activities')}
               transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-kanchanaburi-planner-transport')}
               esimHref={trackAffiliate(SAILY_GENERIC, 'city-kanchanaburi-planner-esim')}
+              isNl={false}
+            />
+          </>
+        )}
+
+        {isSukhothaiEn && (
+          <>
+            <SukhothaiDestinationOverview
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-sukhothai-experiences')}
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-sukhothai-hotels')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-sukhothai-transport')}
+            />
+            <CityFaqOverview faq={city.faq || []} isNl={false} limit={10} />
+            <CityBookingPlanner
+              cityName="Sukhothai"
+              hotelsHref={trackAffiliate(cityAffiliates[city.slug]?.trip || TRIP_GENERIC, 'city-sukhothai-planner-hotels')}
+              activitiesHref={trackAffiliate(cityAffiliates[city.slug]?.klook || KLOOK_GENERIC, 'city-sukhothai-planner-activities')}
+              transportHref={trackAffiliate(cityAffiliates[city.slug]?.twelveGo || TWELVEGO_GENERIC, 'city-sukhothai-planner-transport')}
+              esimHref={trackAffiliate(SAILY_GENERIC, 'city-sukhothai-planner-esim')}
               isNl={false}
             />
           </>
