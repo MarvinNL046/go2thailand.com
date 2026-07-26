@@ -21,13 +21,16 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
   const isKrabi = citySlug === 'krabi';
   const isBangkok = citySlug === 'bangkok' && !isNl;
   const isChiangMai = citySlug === 'chiang-mai' && !isNl;
-  const isPremiumOwner = isKrabi || isBangkok || isChiangMai;
+  const isPhuket = citySlug === 'phuket' && !isNl;
+  const isPremiumOwner = isKrabi || isBangkok || isChiangMai || isPhuket;
   const subtitle = isKrabi
     ? isNl ? 'Kalksteenkliffen, eilanden en een slimme basis aan de Andamanse kust.' : 'Limestone cliffs, islands and a smart base on the Andaman coast.'
     : isBangkok
       ? 'Temples, river neighbourhoods and modern city energy—best explored by cluster.'
     : isChiangMai
       ? 'Lanna temples, Northern food and mountain edges—with a base for every rhythm.'
+    : isPhuket
+      ? 'Beach zones, Old Town flavour and Andaman day trips—planned as one island.'
       : description;
   const directAnswer = isKrabi
     ? isNl
@@ -37,14 +40,16 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
       ? 'Bangkok is Thailand’s capital, but it is not one compact centre. Plan the Old Town and river, Chinatown and the BTS/MRT corridor as separate clusters. Three full days gives most first-time visitors a strong introduction without turning every transfer into a race.'
     : isChiangMai
       ? 'Chiang Mai is Northern Thailand’s cultural hub, but the visitor experience extends beyond the moat. Plan the Old City, Nimman and the mountain side as connected clusters. Three full days gives you temples, Northern food and one deeper experience without rushing.'
+    : isPhuket
+      ? 'Phuket is Thailand’s largest island and also a province; Phuket Town is its urban centre. Choose one beach zone as your base, give Old Town its own block and plan one serious boat day. Four full days is a useful first-trip minimum without constant cross-island transfers.'
       : '';
-  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok ? 'Central Thailand' : isChiangMai ? 'Northern Thailand' : 'Thailand';
+  const regionLabel = isKrabi ? (isNl ? 'Zuid-Thailand' : 'Southern Thailand') : isBangkok ? 'Central Thailand' : isChiangMai ? 'Northern Thailand' : isPhuket ? 'Southern Thailand' : 'Thailand';
   const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
 
   const navigation = [
     { href: '#over-bestemming', label: isNl ? `Over ${cityName}` : `About ${cityName}`, icon: Sparkles },
     { href: ownerHref(`/city/${citySlug}/attractions/`), label: isNl ? 'Wat te doen' : 'Things to do', icon: Compass },
-    isBangkok || isChiangMai
+    isBangkok || isChiangMai || isPhuket
       ? { href: ownerHref(`/city/${citySlug}/food/`), label: 'Food', icon: Utensils }
       : { href: '/best-beaches-in-thailand/', label: isNl ? 'Stranden' : 'Beaches', icon: Palmtree },
     { href: ownerHref(`/best-hotels/${citySlug}/`), label: 'Hotels', icon: Building2 },
@@ -107,7 +112,7 @@ export function CityDestinationHero({ activitiesHref, bestTime, cityName, citySl
               </div>
               <div className="flex items-center gap-3 sm:border-r sm:border-jade/12 sm:px-4">
                 <Palmtree size={18} className="shrink-0 text-jade/65" />
-                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
+                <div><dt className="text-[10px] font-medium text-charcoal/50">{isKrabi ? (isNl ? 'Handige eerste basis' : 'Convenient first base') : isBangkok || isChiangMai || isPhuket ? 'Well-linked bases' : (isNl ? 'Ideaal voor' : 'Ideal for')}</dt><dd className="text-xs font-bold">{idealFor}</dd></div>
               </div>
               <div className="flex items-center gap-3 sm:pl-4">
                 <Clock3 size={18} className="shrink-0 text-jade/65" />

@@ -41,7 +41,7 @@
   "image": "/images/cities/phuket/phuket-old-town.webp",
   "seo": {
     "metaTitle": {
-      "en": "Phuket Travel Guide | Best Areas, Beaches, Food & Hotels",
+      "en": "Phuket Thailand Guide: Best Areas, Beaches & 4-Day Plan",
       "nl": "Ontdek Phuket | Wat te doen in Phuket?",
       "ja": "プーケット タイ — 旅行ガイド＆プランナー 2026",
       "ko": "푸켓 태국 — 해변, 섬 & 여행 가이드 2026",
@@ -52,7 +52,7 @@
       "zh": "普吉岛，泰国 — 旅行指南与行程规划器 2026"
     },
     "metaDescription": {
-      "en": "Plan a smarter Phuket trip with beach-zone advice, Old Town food picks, hotel recommendations, and practical tips for transport, seasonality, and island day trips.",
+      "en": "Plan Phuket by zone: compare beaches, make time for Old Town, choose one boat day and build a realistic four-day route around island transport.",
       "nl": "Jouw gids voor Phuket, Thailand – tips, highlights, eten, hotels.",
       "ja": "プーケット旅行を計画：おすすめエリア、ビーチ、予算、交通手段、見どころを徹底ガイド。",
       "ko": "푸켓(태국) 완벽 여행 가이드: 최고의 해변, 아일랜드 호핑, 올드타운, 나이트라이프. 가격, 팁, 가는 법.",
@@ -653,28 +653,44 @@
   "safetyTips": "Phuket's main practical safety issue is not dramatic crime but roads and sea conditions. West-coast beaches can change quickly in rougher weather, so red-flag or no-swimming warnings should be taken seriously. If the trip depends heavily on swimming, boat tours, or snorkel days, season and sea state are not a side detail.\n\nRoad safety matters just as much. Cross-island driving, scooters, and late-night returns from nightlife zones create more realistic tourist risk than most resort marketing suggests. If you are not already comfortable on a scooter in Thailand, Grab and organized transfers are the safer default. In nightlife zones such as Patong, standard city awareness is enough: keep valuables close, do not overdo alcohol, and be selective about late-night transport.",
   "faq": [
     {
-      "question": "What is the best area to stay in Phuket?",
-      "answer": "That depends on trip style. Patong is best for nightlife and dense tourist infrastructure. Kata and Karon suit classic beach holidays better. Bangtao and nearby upscale zones fit resort-led luxury stays. Phuket Old Town is the smarter base for food, architecture, and a shorter culture-heavy stay."
+      "question": "What is Phuket best known for?",
+      "answer": "Phuket is best known for its west-coast beaches, resort choice, nightlife around Patong and easy access to Andaman boat trips. Phuket Old Town adds a distinct food and heritage layer, so the island is broader than a single beach-holiday stereotype."
     },
     {
-      "question": "Is Phuket worth it if you do not want nightlife?",
-      "answer": "Yes. Phuket is only nightlife-heavy if you center the trip on Patong and Bangla Road. The island also works for quieter beach stays, Old Town food trips, upscale resorts, family holidays, and boat-based Andaman itineraries."
+      "question": "Is it worth going to Phuket?",
+      "answer": "Yes, if you choose the right base and want a mix of beach time, food, culture and boat access. Phuket can disappoint when it is treated as one generic resort or when daily cross-island traffic dominates the plan. It is not nightlife-heavy unless you centre the trip on Patong."
     },
     {
-      "question": "How many days do you need in Phuket?",
+      "question": "How many days do I need in Phuket?",
       "answer": "Four to five days is a good starting point for many first-time trips. That gives you enough time for one Old Town block, real beach time, one temple or viewpoint pairing, and one boat or island day without turning every transfer into a rush."
     },
     {
-      "question": "What is the best time to visit Phuket?",
-      "answer": "November through February is usually the easiest all-round answer for first-time visitors because sea conditions and beach weather are generally more reliable. Lower-season travel can still work, but it is less ideal if boat days and swimming are the main point of the trip."
+      "question": "What is the best part of Phuket to stay in?",
+      "answer": "The best area depends on the trip. Patong suits nightlife and dense convenience; Kata and Karon are balanced first beach bases; Kamala is quieter; Bang Tao is resort-led; Rawai and Nai Harn suit a slower south-island stay; Old Town is strongest for food and heritage rather than doorstep swimming."
     },
     {
-      "question": "Do you need a scooter in Phuket?",
-      "answer": "No. Plenty of visitors are better off without one, especially on short stays. Phuket's roads, traffic, and unfamiliar beach-to-town routes can make scooters more stressful than helpful unless you already ride confidently in Thailand."
+      "question": "Should I stay in Patong or Karon?",
+      "answer": "Choose Patong when nightlife, shopping and dense tourist infrastructure matter most. Choose Karon for a more conventional beach-holiday rhythm with easier access to sand and a calmer evening. Check the exact hotel pin in either area because walkability varies."
     },
     {
-      "question": "What food should you prioritize in Phuket?",
-      "answer": "Start with dishes that feel regionally tied to the island rather than with generic Thai staples: mee Hokkien, moo hong, roti breakfasts, and Oh Aew in Old Town all say more about Phuket's identity than another resort pad thai."
+      "question": "Is it worth going to Old Town Phuket?",
+      "answer": "Yes. Old Town gives Phuket a food, architecture and market experience that the west-coast resort zones cannot replace. Allow a focused half-day or evening, and avoid squeezing it between distant beach transfers if you want to notice more than the main facades."
+    },
+    {
+      "question": "Which month is best for Phuket?",
+      "answer": "December through February is often the easiest period for a first beach-focused trip, while November and March can also work well. No month guarantees calm seas or clear skies, so check current forecasts and boat conditions close to travel."
+    },
+    {
+      "question": "Which month not to visit Phuket?",
+      "answer": "There is no universally forbidden month. The wetter monsoon period can bring rougher seas, red-flag beach days and disrupted boat plans, which matters if swimming and island trips are the main purpose. Travellers comfortable with flexible land-based plans may still enjoy lower-season Phuket."
+    },
+    {
+      "question": "Does Phuket have Uber or Grab?",
+      "answer": "Grab operates in Phuket; Uber does not operate as a separate service in Thailand. Availability, pickup points and quoted fares vary by location and time, so compare the current app option with authorised taxis or other local transport rather than storing an old fare estimate."
+    },
+    {
+      "question": "How do tourists get around in Phuket?",
+      "answer": "Visitors combine taxis or ride-hailing, selected bus routes, hotel transfers and organised tour pickups. Walking works inside Old Town and individual beach zones, not across the island. Driving is only appropriate with the correct licence, insurance and relevant experience."
     }
   ],
   "practicalInfo": {
