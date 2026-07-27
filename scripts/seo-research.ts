@@ -567,5 +567,7 @@ const run = mode === 'serp' ? serp(locale, keyword)
 
 run.catch(error => {
   console.error(error instanceof Error ? error.message : error);
-  process.exit(1);
+  // Let Node drain fetch/undici handles on Windows. A hard exit can close the
+  // libuv async handle while it is still active and trigger UV_HANDLE_CLOSING.
+  process.exitCode = 1;
 });
