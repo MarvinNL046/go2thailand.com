@@ -1,0 +1,63 @@
+{
+  "captured_at": "2026-07-27T13:18:32.072Z",
+  "locale": "en",
+  "target": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/",
+  "cost": 0.024036,
+  "summary": {
+    "rank": 0,
+    "backlinks": 1,
+    "referringDomains": 1,
+    "referringPages": 1,
+    "referringMainDomains": 1,
+    "dofollow": null,
+    "firstSeen": "2026-04-12 01:42:19 +00:00"
+  },
+  "raw": {
+    "target": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/",
+    "first_seen": "2026-04-12 01:42:19 +00:00",
+    "lost_date": null,
+    "rank": 0,
+    "backlinks": 1,
+    "backlinks_spam_score": 0,
+    "crawled_pages": 1,
+    "info": {
+      "server": "Vercel",
+      "cms": null,
+      "platform_type": [
+        "organization"
+      ],
+      "ip_address": "216.150.16.129",
+      "country": "WW",
+      "is_ip": false,
+      "target_spam_score": 0
+    },
+    "internal_links_count": 68,
+    "external_links_count": 19,
+    "broken_backlinks": 0,
+    "broken_pages": 0,
+    "referring_domains": 1,
+    "referring_domains_nofollow": 0,
+    "referring_main_domains": 1,
+    "referring_main_domains_nofollow": 0,
+    "referring_ips": 1,
+    "referring_subnets": 1,
+    "referring_pages": 1,
+    "referring_pages_nofollow": 0,
+    "referring_links_tld": {
+      "net": 1
+    },
+    "referring_links_types": {
+      "anchor": 1
+    },
+    "referring_links_attributes": null,
+    "referring_links_platform_types": {
+      "organization": 1
+    },
+    "referring_links_semantic_locations": {
+      "article": 1
+    },
+    "referring_links_countries": {
+      "": 1
+    }
+  }
+}

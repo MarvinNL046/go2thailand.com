@@ -66,6 +66,7 @@ import ThailandPhilippinesComparisonGuideEn from '../../components/compare/Thail
 import ThailandBaliComparisonGuideEn from '../../components/compare/ThailandBaliComparisonGuideEn';
 import ThailandVietnamComparisonGuideEn from '../../components/compare/ThailandVietnamComparisonGuideEn';
 import { BangkokKohSamuiJourneyEn } from '../../components/transport/BangkokKohSamuiJourneyEn';
+import { BangkokChiangMaiSleeperTrainEn } from '../../components/transport/BangkokChiangMaiSleeperTrainEn';
 
 interface Source {
   name: string;
@@ -307,6 +308,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'en' && post.slug === 'bangkok-to-koh-samui-guide') {
     return <BangkokKohSamuiJourneyEn />;
+  }
+  if (locale === 'en' && post.slug === 'bangkok-chiang-mai-sleeper-train-guide-2026') {
+    return <BangkokChiangMaiSleeperTrainEn />;
   }
 
   const breadcrumbs = [
@@ -752,6 +756,24 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           title: 'Bangkok to Koh Samui: Flight, Train or Bus + Ferry?',
           description: 'Compare Bangkok to Koh Samui by direct flight, mainland flight, sleeper train or bus plus ferry. Choose by total journey, connections, luggage and live tickets.',
           image: '/images/redesign/bangkok-koh-samui-route-hero-v2.webp',
+          lastUpdated: '2026-07-27',
+        },
+        relatedPosts,
+        prevPost,
+        nextPost,
+      },
+      revalidate: 604800,
+    };
+  }
+  if (lang === 'en' && slug === 'bangkok-chiang-mai-sleeper-train-guide-2026') {
+    const { contentHtml: _legacyContent, faqItems: _legacyFaqs, ...ownerPost } = post;
+    return {
+      props: {
+        post: {
+          ...ownerPost,
+          title: 'Bangkok to Chiang Mai Sleeper Train: Berths & Booking',
+          description: 'Plan the Bangkok to Chiang Mai sleeper train by berth, station, luggage and arrival. Compare first and second class, then check current SRT or 12Go tickets.',
+          image: '/images/redesign/bangkok-chiang-mai-sleeper-train-hero-v2.webp',
           lastUpdated: '2026-07-27',
         },
         relatedPosts,
