@@ -25,6 +25,7 @@ import {
   toAbsoluteImageUrl
 } from '../../lib/itineraries';
 import { useSubId } from '../../lib/useSubId';
+import { SevenDayIslandHoppingItineraryEn } from '../../components/itineraries/SevenDayIslandHoppingItineraryEn';
 
 // --- Type definitions ---
 
@@ -194,6 +195,10 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
   const subId = useSubId();
   const tr = (en: string, nl: string) => locale === 'nl' ? nl : en;
   const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
+
+  if (locale === 'en' && itinerary?.slug === '7-days-island-hopping') {
+    return <SevenDayIslandHoppingItineraryEn />;
+  }
 
   if (!itinerary) {
     return <div>{tr('Itinerary not found', 'Reisroute niet gevonden')}</div>;
@@ -1125,6 +1130,36 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       luxury: '',
     },
   }));
+
+  if (lang === 'en' && slug === '7-days-island-hopping') {
+    return {
+      props: {
+        itinerary: {
+          slug,
+          title: '7-Day Phuket, Phi Phi & Krabi Island-Hopping Itinerary',
+          duration: 7,
+          region: 'southern',
+          image: '/images/redesign/seven-day-phuket-phi-phi-krabi-hero-v2.webp',
+          description: 'Follow a realistic seven-day Phuket, Koh Phi Phi and Krabi route with three bases, two hotel moves, a flexible sea day and current ticket checks.',
+          highlights: ['Phuket', 'Koh Phi Phi', 'Krabi'],
+          cities: ['phuket', 'krabi'],
+          budget: { budget: '', mid: '', luxury: '' },
+          days: [],
+          transport: [],
+          budgetBreakdown: [],
+          packingTips: [],
+          faqs: [],
+          tags: ['phuket', 'koh phi phi', 'krabi', '7 days', 'island hopping'],
+          seo: {
+            metaTitle: '7-Day Phuket, Phi Phi & Krabi Island-Hopping Itinerary',
+            metaDescription: 'Follow a realistic seven-day Phuket, Koh Phi Phi and Krabi route with three bases, two hotel moves, a flexible sea day and current ticket checks.',
+          },
+        },
+        relatedItineraries: [],
+      },
+      revalidate: 604800,
+    };
+  }
 
   return {
     props: {
