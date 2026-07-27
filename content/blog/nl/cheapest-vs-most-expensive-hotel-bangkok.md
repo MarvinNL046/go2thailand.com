@@ -70,7 +70,7 @@ Het echte voordeel van verblijven in een lokale wijk? **Authentiek, goedkoop ete
 
 **Slaapkwaliteit:** Goed. Warm en zweterig, maar de ventilator hield het draaglijk. Geen stroomuitval, geen rumoerige buren. Wakker geworden door vogelgezang.
 
-**Voor wie is dit?** Budget backpackers die de lengte van hun reis prioriteren boven comfort. Bekijk onze volledige [Thailand budget backpackersgids](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/) voor strategieën om elke baht te rekken. Als je een ventilatorenkamer, hurktoilet en emmerdouche aankunt, kun je je reis flink verlengen. Wanneer je budget bepaalt hoe lang je kunt reizen, betekent elke 100 THB bespaard een extra dag in Thailand.
+**Voor wie is dit?** Budget backpackers die de lengte van hun reis prioriteren boven comfort. Bekijk onze volledige [Thailand budget backpackersgids](https://go2-thailand.com/nl/thailand-index/budget/) voor strategieën om elke baht te rekken. Als je een ventilatorenkamer, hurktoilet en emmerdouche aankunt, kun je je reis flink verlengen. Wanneer je budget bepaalt hoe lang je kunt reizen, betekent elke 100 THB bespaard een extra dag in Thailand.
 
 **Wie moet dit overslaan?** Iedereen die slaapkwaliteit, privacy of betrouwbare hete douches waardeert. Koppels. Iedereen die langer dan 2-3 nachten blijft.
 
@@ -271,4 +271,4 @@ Beide verblijven leerden ons iets over Bangkok. De budgetkamer liet zien dat dez
 
 Of je nu elke baht telt of jezelf trakteert op iets buitengewoons, Bangkok levert. De stad oordeelt niet over je budget — ze laat je gewoon een goede tijd hebben, ongeacht wat je uitgeeft.
 
-Klaar om je Bangkok-reis te plannen? Bekijk onze [volledige Bangkok stadsgids](https://go2-thailand.com/city/bangkok/), ontdek de [top 10 hotels in Bangkok](https://go2-thailand.com/city/bangkok/top-10-hotels/), blader door de [beste hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/) of lees onze [budget vs comfort reisbegleiding](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) voor meer tips om het meeste uit je Thailand-budget te halen. En als je plant wat je eet bij aankomst, is onze [Chatuchak Weekendmarkt eetgids](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) het perfecte weekendplan.
+Klaar om je Bangkok-reis te plannen? Bekijk onze [volledige Bangkok stadsgids](https://go2-thailand.com/city/bangkok/), ontdek de [top 10 hotels in Bangkok](https://go2-thailand.com/city/bangkok/top-10-hotels/), blader door de [beste hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/) of lees onze [budget vs comfort reisbegleiding](https://go2-thailand.com/nl/thailand-index/budget/) voor meer tips om het meeste uit je Thailand-budget te halen. En als je plant wat je eet bij aankomst, is onze [Chatuchak Weekendmarkt eetgids](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) het perfecte weekendplan.

@@ -48,7 +48,7 @@ For travellers considering their [first trip to Thailand](/blog/thailand-first-t
 
 At the same time, the push for higher-quality experiences means more investment in infrastructure, better-trained guides, and a wider range of curated itineraries. Several [long-haul routes have also expanded](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/): in 2025, Thailand crossed the milestone of **10 million long-haul visitors** in a single year for the first time, with arrivals from the United Kingdom alone exceeding one million.
 
-Before you book, it is also worth checking the [latest Thailand visa guide for 2026](/visa/) and getting a sense of [realistic daily travel costs](/blog/thailand-budget-2026-daily-costs/).
+Before you book, it is also worth checking the [latest Thailand visa guide for 2026](/visa/) and getting a sense of [realistic daily travel costs](/thailand-index/budget/).
 
 ## The Takeaway
 

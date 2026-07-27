@@ -42,7 +42,7 @@ De belangrijkste tip: regen komt meestal in korte, hevige buien aan in de late m
 
 ## Waarom het regenseizoen de moeite waard is
 
-**Lagere kosten.** Hotels, vluchten en tourpakketten dalen sterk in het laagseizoen. Budgetreizigers komen een heel eind met hun geld. Bekijk onze [Thailand-budgetgids voor 2026](/blog/thailand-budget-2026-daily-costs/) voor een complete uitsplitsing van dagelijkse uitgaven.
+**Lagere kosten.** Hotels, vluchten en tourpakketten dalen sterk in het laagseizoen. Budgetreizigers komen een heel eind met hun geld. Bekijk onze [Thailand-budgetgids voor 2026](/nl/thailand-index/budget/) voor een complete uitsplitsing van dagelijkse uitgaven.
 
 **Minder toeristen.** Populaire plekken zoals de [Grote Paleis](/city/bangkok/attractions/grand-palace/), [Wat Pho](/city/bangkok/attractions/wat-pho/) en Railay Beach zijn merkbaar rustiger. Je staat minder in de rij en geniet meer van de bezienswaardigheden.
 

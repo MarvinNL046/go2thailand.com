@@ -71,7 +71,7 @@ Je staat voor een keuze: **Thailand vs Bali**—twee iconische bestemmingen in Z
 - **Vluchten**: Beide bestemmingen hebben vergelijkbare internationale vluchtkosten (€370–740 vanuit Europa). Bali kan goedkoper zijn vanuit Australië.
 - **Accommodatie**: Thailand's [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) biedt uitstekende waarde (€7–14/nacht voor kwaliteitsguesthouses). Bali's Ubud is duurder (€14–23/nacht voor vergelijkbare kwaliteit).
 - **Eten**: Beide zijn goedkoop, maar Thais straateten is net iets betaalbaarder en overvloediger.
-- **Activiteiten**: Thaise tours ([snorkelen](https://klook.tpo.lv/7Dt6WApj), kooklessen, tempelbezoeken) kosten gemiddeld €14–37. Bali's zijn vergelijkbaar, maar sommige avontuurlijke activiteiten (rafting, duiken) zijn duurder. Voor een gedetailleerd Thais budgetoverzicht, zie onze [Thailand budgetgids](/blog/thailand-budget-2026-daily-costs/).
+- **Activiteiten**: Thaise tours ([snorkelen](https://klook.tpo.lv/7Dt6WApj), kooklessen, tempelbezoeken) kosten gemiddeld €14–37. Bali's zijn vergelijkbaar, maar sommige avontuurlijke activiteiten (rafting, duiken) zijn duurder. Voor een gedetailleerd Thais budgetoverzicht, zie onze [Thailand budgetgids](/nl/thailand-index/budget/).
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

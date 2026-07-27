@@ -36,7 +36,7 @@ sources:
 | What are the must-try dishes? | Start with **Pad Thai**, **Khao Man Gai**, and **Mango Sticky Rice** -- explore all signature dishes in our [Thai food section](/food/). |
 | Where are the best street food areas? | **Yaowarat (Chinatown)** for night market seafood, **Or Tor Kor Market** for premium quality, and **Victory Monument** for budget eats. |
 | Is Bangkok street food safe to eat? | Yes -- **millions of locals eat it daily**. Stick to busy stalls with high turnover and food cooked to order. Read our [safety tips](/practical-info/scams-safety/). |
-| How much does a day of street food cost? | A full day of **budget eating** costs around **270-350 THB (~7.50-10 USD)**. See our [budget backpacker guide](/blog/thailand-budget-backpacker-guide/) for more savings tips. |
+| How much does a day of street food cost? | A full day of **budget eating** costs around **270-350 THB (~7.50-10 USD)**. See our [budget backpacker guide](/thailand-index/budget/) for more savings tips. |
 | How do I order if I don't speak Thai? | **Point at what you want**, use basic Thai phrases like "mai pet" (not spicy), and pay with **small cash bills**. See our [money and ATM guide](/practical-info/atm-money/). |
 | What else should I explore beyond Bangkok? | Try **Khao Soi** in Chiang Mai and **seafood curries** near the [Thai islands](/islands/). Check the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) to plan your trip. |
 
@@ -144,7 +144,7 @@ For broader safety advice including common tourist scams, check our [scams and s
 
 Even adding a **mango sticky rice** for dessert (80 THB), you are still under **350 THB for a full day** of excellent eating. Compare that to a restaurant meal that starts at 150-300 THB for a single dish. Wondering about the nutritional side of all that street food? Check out our guide on [whether Thai food is healthy](/blog/is-thai-food-healthy/). If you have dietary restrictions, our [gluten-free Thai food guide](/blog/is-thai-food-gluten-free/) explains what to order and what to avoid.
 
-For more **budget tips** on accommodation, transport, and activities, check our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/). Getting around Bangkok cheaply is easy with the BTS and MRT -- read our [transport guide](/transport/) for routes and fares.
+For more **budget tips** on accommodation, transport, and activities, check our [Thailand budget backpacker guide](/thailand-index/budget/). Getting around Bangkok cheaply is easy with the BTS and MRT -- read our [transport guide](/transport/) for routes and fares.
 
 ## 7. Street Food Etiquette
 

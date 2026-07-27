@@ -453,7 +453,7 @@ Ja, maar succes hangt af van oefenen. Neem gedetailleerde notities en foto's tij
 
 ### Is het je geld waard?
 
-Ja, als je de juiste cursus kiest. Een goede kookcursus is een van de beste investeringen in Chiang Mai. Je leert levenslange vaardigheden, begrijpt de Thaise cultuur beter en bouwt een echte band op met een lokale instructeur. Kies een cursus die past bij je doelen en budget. Als je op uitgaven let, breekt onze [budget backpacker gids voor Thailand](/blog/thailand-budget-backpacker-guide/) uit hoe kookcursussen zich verhouden tot andere ervaringen op een beperkt budget.
+Ja, als je de juiste cursus kiest. Een goede kookcursus is een van de beste investeringen in Chiang Mai. Je leert levenslange vaardigheden, begrijpt de Thaise cultuur beter en bouwt een echte band op met een lokale instructeur. Kies een cursus die past bij je doelen en budget. Als je op uitgaven let, breekt onze [budget backpacker gids voor Thailand](/nl/thailand-index/budget/) uit hoe kookcursussen zich verhouden tot andere ervaringen op een beperkt budget.
 
 ## Conclusie
 

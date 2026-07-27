@@ -38,7 +38,7 @@ After spending three years in [Chiang Mai](https://go2-thailand.com/city/chiang-
 
 ## 1. Understanding Thailand's True Cost of Living
 
-When we first arrived in Thailand, we expected everything to cost pennies. The reality is more nuanced: Thailand is genuinely affordable, but [2026 prices have climbed](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) noticeably from the backpacker days of the 2010s. According to recent traveler data, the average daily budget ranges from **฿800–2,500 ($23–71 USD) per person**, depending on whether you're staying in dorm beds or mid-range hotels.
+When we first arrived in Thailand, we expected everything to cost pennies. The reality is more nuanced: Thailand is genuinely affordable, but [2026 prices have climbed](https://go2-thailand.com/thailand-index/budget/) noticeably from the backpacker days of the 2010s. According to recent traveler data, the average daily budget ranges from **฿800–2,500 ($23–71 USD) per person**, depending on whether you're staying in dorm beds or mid-range hotels.
 
 The key difference isn't Thailand being expensive—it's that tourist areas inflate prices dramatically. A bowl of [pad Thai](https://go2-thailand.com/food/pad-thai/) costs ฿40 (₹1.15 USD) from a street vendor in a local neighborhood, but ฿150–200 ($4–6 USD) in Khao San Road. That's a 300% markup for the same dish and the same cook—just a different location.
 
@@ -496,6 +496,6 @@ Buses are cheapest (฿200–500 for long distances). Trains are slightly more e
 
 The real secret to Thailand travel is this: you can live incredibly well for ฿1,500–2,000 daily ($43–57 USD). That's not budget travel—that's comfortable, authentic travel. You'll eat better food, sleep better, and have more energy to explore than if you were pinching every baht.
 
-Ready to plan your trip? Start by exploring [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) guides, check out our [Thailand island-hopping guide](https://go2-thailand.com/blog/thailand-island-hopping-guide/), read [how much 2 weeks in Thailand costs](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/), or browse [Thailand first-time visitor tips](https://go2-thailand.com/blog/thailand-first-time-visitors-essential-guide-2026/).
+Ready to plan your trip? Start by exploring [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) guides, check out our [Thailand island-hopping guide](https://go2-thailand.com/blog/thailand-island-hopping-guide/), read [how much 2 weeks in Thailand costs](https://go2-thailand.com/thailand-index/budget/), or browse [Thailand first-time visitor tips](https://go2-thailand.com/blog/thailand-first-time-visitors-essential-guide-2026/).
 
 We've lived this. We know the real costs, the real value, and where your money actually goes. Use this guide to travel smarter—not cheaper, but smarter.

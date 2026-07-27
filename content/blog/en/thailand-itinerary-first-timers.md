@@ -185,7 +185,7 @@ Here's a realistic breakdown for the full 10–14 day itinerary (excluding inter
 | **10-day total** | $350–600 | $800–1,800 | $2,000–4,500 |
 | **14-day total** | $500–850 | $1,100–2,500 | $2,800–6,000 |
 
-For a detailed daily cost breakdown, check our [Thailand budget guide](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+For a detailed daily cost breakdown, check our [Thailand budget guide](https://go2-thailand.com/thailand-index/budget/).
 
 ## What to Book in Advance vs. On Arrival
 

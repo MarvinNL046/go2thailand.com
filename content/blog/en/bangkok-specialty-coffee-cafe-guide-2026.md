@@ -237,7 +237,7 @@ If you are new to specialty coffee, Bangkok menus can be overwhelming. Here is w
 
 - **Best strategy:** Pick one neighbourhood (Thonglor/Ekkamai or Ari) and hit 3–4 cafés in a morning. Most are walking distance from each other. The BTS Skytrain connects all major café neighbourhoods.
 - **Opening hours:** Most specialty cafés open between 07:00 and 08:00 and close by 16:00–17:00. Brave Roasters (22:00) and Gallery Drip (19:30) are exceptions. Arrive early on weekends — popular spots fill fast.
-- **Budget:** Expect to pay ฿100–200 (roughly $3–6 USD) for a specialty drink. Kaizen is the exception at ฿400–600 including brunch. For context on what things cost elsewhere, see the [Bangkok daily budget guide](/blog/thailand-budget-2026-daily-costs/).
+- **Budget:** Expect to pay ฿100–200 (roughly $3–6 USD) for a specialty drink. Kaizen is the exception at ฿400–600 including brunch. For context on what things cost elsewhere, see the [Bangkok daily budget guide](/thailand-index/budget/).
 - **Cash or card:** Most specialty cafés accept credit cards and QR payments. Some smaller shops and market stalls are cash-only — carry at least ฿500 for a morning out.
 - **WiFi and co-working:** Casa Lapin (WiFi mentioned in 19 reviews at the flagship) and Kaizen are the best options for working remotely. Factory Coffee's seating is too limited for laptops. Digital nomads should read about [Thailand's DTV visa](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) before planning a long stay.
 - **Heat strategy:** Bangkok is hot. Schedule café-hopping for the morning (08:00–12:00), then switch to air-conditioned malls or your hotel pool. A cold brew or nitro is the perfect midday reset.

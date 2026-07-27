@@ -54,7 +54,7 @@ An increasingly popular option is the ferry from **Langkawi, Malaysia**, which t
 
 ## Budget Tips
 
-Koh Lipe is pricier than some Thai islands because everything arrives by boat, but it is still very affordable by international standards. Budget guesthouses start around 600-800 THB per night in high season, while mid-range beachfront bungalows run 1,500-3,000 THB. Browse [hotels in Satun](/best-hotels/satun/) for options across all budgets. Street food on Walking Street costs 60-120 THB per dish, and a snorkelling day trip is typically 600-800 THB per person. Our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) gives a full breakdown of daily costs across the country.
+Koh Lipe is pricier than some Thai islands because everything arrives by boat, but it is still very affordable by international standards. Budget guesthouses start around 600-800 THB per night in high season, while mid-range beachfront bungalows run 1,500-3,000 THB. Browse [hotels in Satun](/best-hotels/satun/) for options across all budgets. Street food on Walking Street costs 60-120 THB per dish, and a snorkelling day trip is typically 600-800 THB per person. Our [Thailand budget guide](/thailand-index/budget/) gives a full breakdown of daily costs across the country.
 
 ## Eco-Tourism and Sustainability
 

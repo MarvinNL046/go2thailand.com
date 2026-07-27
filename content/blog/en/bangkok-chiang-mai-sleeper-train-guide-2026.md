@@ -75,7 +75,7 @@ You can also book directly at **Hua Lamphong station** or through the SRT websit
 
 ## Is It Worth It?
 
-At under 1,100 baht for a 2nd Class berth, the [Bangkok to Chiang Mai](/transport/bangkok-to-chiang-mai/) sleeper train is one of the best [travel bargains in Southeast Asia](/blog/thailand-budget-backpacker-guide/). You save on a hotel, avoid two taxi rides to airports, cut your carbon footprint and arrive in Chiang Mai with a story to tell. For most visitors, the answer is a firm yes.
+At under 1,100 baht for a 2nd Class berth, the [Bangkok to Chiang Mai](/transport/bangkok-to-chiang-mai/) sleeper train is one of the best [travel bargains in Southeast Asia](/thailand-index/budget/). You save on a hotel, avoid two taxi rides to airports, cut your carbon footprint and arrive in Chiang Mai with a story to tell. For most visitors, the answer is a firm yes.
 
 If you are planning a longer journey through northern Thailand, consider extending your trip to [Chiang Rai](/destinations/chiang-rai/) or even [Pai](/destinations/pai/) — both are easy onward connections from Chiang Mai. You can also compare the sleeper train with the [Blue Jasmine luxury train](/blog/blue-jasmine-luxury-train-bangkok-chiang-mai-2026/) if you want a premium rail experience. For other transport options on this corridor, see the full [Bangkok to Chiang Mai transport guide](/transport/bangkok-to-chiang-mai/). Travellers continuing south after their northern loop can check routes like [Chiang Mai to Koh Samui](/transport/chiang-mai-to-koh-samui/) or [Chiang Mai to Krabi](/transport/chiang-mai-to-krabi/) for the next leg.
 

@@ -63,7 +63,7 @@ Seafood is the obvious choice. Beachside restaurants serve grilled prawns, squid
 ## Practical Tips
 
 - **Best time to visit:** November to March (dry season) offers the calmest seas and clearest water. The island is accessible year-round, but boat services may be reduced during storms in the [rainy season](/blog/thailand-rainy-season-travel-tips-2026/).
-- **Bring cash.** ATMs exist on the island but are limited. Most beach vendors and smaller restaurants do not accept cards. A [Thailand budget breakdown](/blog/thailand-budget-2026-daily-costs/) can help you plan how much to carry.
+- **Bring cash.** ATMs exist on the island but are limited. Most beach vendors and smaller restaurants do not accept cards. A [Thailand budget breakdown](/thailand-index/budget/) can help you plan how much to carry.
 - **Sunscreen and water.** There is little natural shade on the main beaches. Bring reef-safe sunscreen and stay hydrated — it gets hot.
 - **Snorkelling gear.** You can rent masks and fins on Ta Waen and Samae beaches for about 100 to 200 THB. The coral is not pristine, but you will see plenty of fish in the shallows. For serious diving and snorkelling elsewhere in Thailand, see our [best diving and snorkelling guide](/best-diving-snorkeling-in-thailand/).
 

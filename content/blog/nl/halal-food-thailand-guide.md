@@ -161,7 +161,7 @@ Verschillende hotels in Bangkok, Phuket en Krabi presenteren zich als moslimvrie
 Niet standaard. Maar door moslims gerunde street stalls (zoek naar verkopers met hijab of taqiyah) serveren doorgaans halal eten. Twijfel je, zoek dan het groene CICOT halal-certificeringslogo.
 
 **Hoe duur is halal eten in Thailand?**
-Prijzen zijn hetzelfde als niet-halal eten. Streetfood kost **30-80 THB** (~€0,90-2,30) per gerecht, en restaurantmaaltijden **80-300 THB** (~€2,30-8,50) afhankelijk van de locatie. Voor een volledig overzicht van reiskosten, zie onze [Thailand budget gids](/blog/thailand-budget-2026-daily-costs/) en tips voor [lokaal eten onder €5](/blog/eat-like-local-thailand-under-5-dollars/).
+Prijzen zijn hetzelfde als niet-halal eten. Streetfood kost **30-80 THB** (~€0,90-2,30) per gerecht, en restaurantmaaltijden **80-300 THB** (~€2,30-8,50) afhankelijk van de locatie. Voor een volledig overzicht van reiskosten, zie onze [Thailand budget gids](/nl/thailand-index/budget/) en tips voor [lokaal eten onder €5](/blog/eat-like-local-thailand-under-5-dollars/).
 
 ## FAQ
 

@@ -48,7 +48,7 @@ The **three main budget categories** aren't just about how much you spend; they 
 ### Budget Backpacker (Shoestring Travel)
 **Daily budget: ฿800–1,200 ($22–34 USD)**
 
-This tier means hostels, street food, local buses, and free attractions. You'll stay in dorm rooms, eat where locals eat, and use public transport. When we backpacked through the northeast, we regularly spent ฿50–80 ($1.40–2.25) on a massive bowl of [khao soi](/blog/khao-soi-chiang-mai-guide/) or larb. Accommodation runs ฿300–500 ($8.50–14) per night in hostels; ฿600–900 ($17–25) for a private budget room. Our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) dives deeper into this travel style.
+This tier means hostels, street food, local buses, and free attractions. You'll stay in dorm rooms, eat where locals eat, and use public transport. When we backpacked through the northeast, we regularly spent ฿50–80 ($1.40–2.25) on a massive bowl of [khao soi](/blog/khao-soi-chiang-mai-guide/) or larb. Accommodation runs ฿300–500 ($8.50–14) per night in hostels; ฿600–900 ($17–25) for a private budget room. Our [Thailand budget backpacker guide](/thailand-index/budget/) dives deeper into this travel style.
 
 **What's included:**
 - **Accommodation:** Dorm beds (฿300–500) or basic private rooms (฿600–900)
@@ -661,7 +661,7 @@ Longer stays allow better negotiated rates on accommodation, reducing overall co
 
 The key to smart budgeting isn't cutting corners on everything—it's knowing where to save (street food, local transport, budget accommodation) and where to splurge (cooking classes, guided tours, occasional good meals). Our three years in Chiang Mai and extensive travels throughout Thailand taught us that the best experiences often cost the least.
 
-Ready to plan your Thailand trip? Start with our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) or the [10-day Thailand itinerary](/blog/thailand-10-day-itinerary/) to map your route, then use these budget breakdowns to plan your daily spending. For a specific 2-week cost estimate, our [how much does 2 weeks in Thailand cost guide](/blog/how-much-2-weeks-thailand-cost-2026-budget/) runs through the numbers in detail. And if you are still deciding where to stay, our [where to stay in Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) and [Chiang Mai city guide](/city/chiang-mai/) are the best starting points.
+Ready to plan your Thailand trip? Start with our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) or the [10-day Thailand itinerary](/blog/thailand-10-day-itinerary/) to map your route, then use these budget breakdowns to plan your daily spending. For a specific 2-week cost estimate, our [how much does 2 weeks in Thailand cost guide](/thailand-index/budget/) runs through the numbers in detail. And if you are still deciding where to stay, our [where to stay in Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) and [Chiang Mai city guide](/city/chiang-mai/) are the best starting points.
 
 **You've got this.** Thailand is waiting, and your money will stretch further than you think.
 

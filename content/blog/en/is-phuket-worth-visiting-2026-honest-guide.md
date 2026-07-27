@@ -313,7 +313,7 @@ Phuket's food scene ranges from street-level Thai authenticity to international 
 
 ## 7. Budget Breakdown: How Much Does Phuket Cost?
 
-Phuket is **not cheap** compared to other Thai destinations, but costs vary dramatically by area and season. For a broader perspective on travel costs across Thailand, see our [Thailand budget guide for 2026](/blog/thailand-budget-2026-daily-costs/).
+Phuket is **not cheap** compared to other Thai destinations, but costs vary dramatically by area and season. For a broader perspective on travel costs across Thailand, see our [Thailand budget guide for 2026](/thailand-index/budget/).
 
 ### Daily Budget Estimates (per person)
 

@@ -73,7 +73,7 @@ The mistake: arriving with a fixed budget and spending it all in [Bangkok](https
 
 ### How to Avoid Overspending
 
-**Spend your first 2-3 days in a cheap city** ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or a smaller town) to calibrate your spending. Eat where locals eat—look for shops with no English menu and a queue of Thai workers. Stay in a guesthouse (800-1,200 THB/night) before splurging on resorts. See our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) for detailed cost breakdowns. Use the ATM to withdraw cash in 2,000-5,000 THB increments; you'll spend less than if you carry large amounts.
+**Spend your first 2-3 days in a cheap city** ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or a smaller town) to calibrate your spending. Eat where locals eat—look for shops with no English menu and a queue of Thai workers. Stay in a guesthouse (800-1,200 THB/night) before splurging on resorts. See our [Thailand budget guide](/thailand-index/budget/) for detailed cost breakdowns. Use the ATM to withdraw cash in 2,000-5,000 THB increments; you'll spend less than if you carry large amounts.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -369,7 +369,7 @@ Yes, but use common sense. Avoid walking alone at night in unfamiliar areas, use
 
 ### How much should I budget for a 2-week trip?
 
-Budget 1,200-1,800 THB ($34-51 USD) daily for a comfortable budget trip, or 2,000-3,500 THB ($57-100 USD) for mid-range. This includes accommodation, food, and activities. See our [cost guide](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/) for detailed breakdowns.
+Budget 1,200-1,800 THB ($34-51 USD) daily for a comfortable budget trip, or 2,000-3,500 THB ($57-100 USD) for mid-range. This includes accommodation, food, and activities. See our [cost guide](https://go2-thailand.com/thailand-index/budget/) for detailed breakdowns.
 
 ### When should I visit Thailand?
 

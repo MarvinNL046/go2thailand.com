@@ -110,7 +110,7 @@ Hoewel duiken de reputatie van Koh Tao domineert, zijn de stranden van het eilan
 
 ## 3. Budgetoverzicht: Hoeveel Kost Koh Tao?
 
-**Budgetreizen in Koh Tao** is absoluut mogelijk, hoewel de prijzen zijn gestegen sinds de duikboom van het eiland. Hier is wat je realistisch kunt verwachten in 2026. Voor een volledig beeld van [dagelijkse reiskosten in heel Thailand](/blog/how-much-2-weeks-thailand-cost-2026-budget/), bekijk onze gedetailleerde kostenreisgids. De [Thaise budget-backpackersgids](/blog/thailand-budget-backpacker-guide/) behandelt ook de goedkoopste manieren om van eiland naar eiland te reizen.
+**Budgetreizen in Koh Tao** is absoluut mogelijk, hoewel de prijzen zijn gestegen sinds de duikboom van het eiland. Hier is wat je realistisch kunt verwachten in 2026. Voor een volledig beeld van [dagelijkse reiskosten in heel Thailand](/nl/thailand-index/budget/), bekijk onze gedetailleerde kostenreisgids. De [Thaise budget-backpackersgids](/nl/thailand-index/budget/) behandelt ook de goedkoopste manieren om van eiland naar eiland te reizen.
 
 ### Kosten voor Accommodatie
 

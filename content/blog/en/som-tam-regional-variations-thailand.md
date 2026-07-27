@@ -356,7 +356,7 @@ In [Bangkok](https://go2-thailand.com/city/bangkok/), som tam is everywhere—fr
 
 ### Isaan Region Authenticity
 
-For the most authentic Isaan som tam, visit markets in the northeast region itself—cities like [Udon Thani](/city/udon-thani/) or [Khon Kaen](/city/khon-kaen/). Here, som tam is served the way locals have eaten it for generations: spicy, funky, and unapologetic. Prices are even lower than Bangkok (25–40 THB / $0.70–$1.15 USD), and the quality is exceptional. Budget travellers can find these prices across the country—see our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) for real food cost breakdowns.
+For the most authentic Isaan som tam, visit markets in the northeast region itself—cities like [Udon Thani](/city/udon-thani/) or [Khon Kaen](/city/khon-kaen/). Here, som tam is served the way locals have eaten it for generations: spicy, funky, and unapologetic. Prices are even lower than Bangkok (25–40 THB / $0.70–$1.15 USD), and the quality is exceptional. Budget travellers can find these prices across the country—see our [Thailand budget backpacker guide](/thailand-index/budget/) for real food cost breakdowns.
 
 ### Southern Coastal Som Tam
 
@@ -429,6 +429,6 @@ Whether you're exploring [Bangkok's food scene](https://go2-thailand.com/city/ba
 
 For more insights into Thai cuisine and regional food traditions, explore our [comprehensive Thai food guide](https://go2-thailand.com/food/). And if you're planning a culinary-focused trip, consider taking a [Thai cooking class in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) to learn how to make som tam and other dishes yourself.
 
-Also worth reading: the [complete guide to Thai curries](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) for the main course to pair with your som tam, the [Pad Thai street food vs restaurant guide](/blog/pad-thai-street-food-vs-restaurant-homemade/) to round out your noodle knowledge, and the [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) if you are planning a food-focused trip. For budget-conscious travellers, the [Thailand backpacker guide](/blog/thailand-budget-backpacker-guide/) includes real street food prices.
+Also worth reading: the [complete guide to Thai curries](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) for the main course to pair with your som tam, the [Pad Thai street food vs restaurant guide](/blog/pad-thai-street-food-vs-restaurant-homemade/) to round out your noodle knowledge, and the [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) if you are planning a food-focused trip. For budget-conscious travellers, the [Thailand backpacker guide](/thailand-index/budget/) includes real street food prices.
 
 **Ready to taste som tam across Thailand?** Start with your local market, ask the vendor about their regional style, and don't be afraid to request adjustments. The best som tam is the one made exactly how you like it.

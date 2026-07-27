@@ -377,7 +377,7 @@ Yes. Many vendors offer khao soi jae (vegetarian khao soi) made with tofu and ve
 
 ### How much should I expect to pay for khao soi?
 
-At morning market stalls, expect to pay 40–80 THB (USD $1.10–$2.20). At established restaurants, prices range from 100–150 THB (USD $2.75–$4.15). Tourist-area vendors may charge 150–250 THB or more. The price doesn't always correlate with quality—some of the best khao soi is among the cheapest. For a broader picture of food costs, see the [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/).
+At morning market stalls, expect to pay 40–80 THB (USD $1.10–$2.20). At established restaurants, prices range from 100–150 THB (USD $2.75–$4.15). Tourist-area vendors may charge 150–250 THB or more. The price doesn't always correlate with quality—some of the best khao soi is among the cheapest. For a broader picture of food costs, see the [Thailand budget backpacker guide](/thailand-index/budget/).
 
 ### What's the difference between the soft and crispy noodles?
 

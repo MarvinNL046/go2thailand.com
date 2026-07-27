@@ -230,6 +230,6 @@ If you land between 00:00 and 05:30 and want the cheapest option, the metered ta
 5. If taking a taxi: use the Public Taxi Queue, insist on the meter, no detours.
 6. Screenshot your hotel address in Thai to show the driver.
 
-Budgeting the rest of your trip? Our full [Thailand daily cost breakdown for 2026](/blog/thailand-budget-2026-daily-costs/) shows how far your THB actually goes. Once you are settled in town, our [Bangkok public transport BTS and MRT guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) covers the Skytrain, subway and river boats. And before you go anywhere, read our list of the [10 biggest mistakes Thailand first-timers make](/blog/10-biggest-thailand-travel-mistakes/) so you do not repeat them.
+Budgeting the rest of your trip? Our full [Thailand daily cost breakdown for 2026](/thailand-index/budget/) shows how far your THB actually goes. Once you are settled in town, our [Bangkok public transport BTS and MRT guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) covers the Skytrain, subway and river boats. And before you go anywhere, read our list of the [10 biggest mistakes Thailand first-timers make](/blog/10-biggest-thailand-travel-mistakes/) so you do not repeat them.
 
 Safe landing, and welcome to Bangkok.

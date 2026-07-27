@@ -24,7 +24,7 @@ sources:
 
 ## What Is the Bib Gourmand?
 
-The Michelin Bib Gourmand is a designation for restaurants that serve outstanding food at moderate prices. In Thailand, that typically means a full meal for under 1,000 baht (roughly 28 USD). While Michelin stars grab the headlines, the Bib Gourmand list is arguably more useful for everyday travellers looking for genuinely excellent food without the fine-dining price tag. If you want to plan your meals around it, first check our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) so you know exactly how much to set aside for food each day.
+The Michelin Bib Gourmand is a designation for restaurants that serve outstanding food at moderate prices. In Thailand, that typically means a full meal for under 1,000 baht (roughly 28 USD). While Michelin stars grab the headlines, the Bib Gourmand list is arguably more useful for everyday travellers looking for genuinely excellent food without the fine-dining price tag. If you want to plan your meals around it, first check our [Thailand budget guide](/thailand-index/budget/) so you know exactly how much to set aside for food each day.
 
 The **2026 list features 137 restaurants** across Thailand, with **13 newcomers** joining the ranks. See also our full [Thailand Michelin Guide 2026 stars round-up](/blog/thailand-michelin-guide-2026-new-stars-suhring/) for the starred restaurants announced at the same ceremony.
 
@@ -57,5 +57,5 @@ For food-focused travellers, combining the Bib Gourmand list with Thailand's leg
 - **Night markets:** Our [best night markets in Bangkok guide](/blog/best-night-markets-bangkok-2026/) and [night markets for food lovers](/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/) cover the top spots in the capital, Chiang Mai, and Phuket.
 - **Street food overview:** The [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) explains dishes, prices, and where to find them — a solid companion to the Bib Gourmand list.
 - **Bangkok's best restaurants:** See the [Bangkok Top Tables 2026 awards](/blog/bangkok-top-tables-2026-best-restaurants-awards/) for a broader picture of the city's dining scene beyond Michelin.
-- **Budget context:** Our [Thailand budget 2026 guide](/blog/thailand-budget-2026-daily-costs/) shows that a full day's food budget at Bib Gourmand restaurants is still well within reach for backpackers and mid-range travellers alike.
+- **Budget context:** Our [Thailand budget 2026 guide](/thailand-index/budget/) shows that a full day's food budget at Bib Gourmand restaurants is still well within reach for backpackers and mid-range travellers alike.
 - **Getting around:** Use the [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) to hop between Bib Gourmand restaurants across the city without overpaying on taxis.

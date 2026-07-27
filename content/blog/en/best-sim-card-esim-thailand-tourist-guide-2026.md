@@ -34,7 +34,7 @@ The easiest route for most visitors is buying a prepaid tourist SIM at the airpo
 
 **AIS** is Thailand's largest mobile network operator and has the widest coverage across the country. If you plan to explore rural areas or [islands](/blog/thailand-island-hopping-guide/) beyond Bangkok, AIS is the safest choice. True and DTAC merged operations in early 2024, so their combined network is also strong in urban areas.
 
-Typical tourist SIM packages cost between 300 and 600 baht (roughly 9 to 18 USD) for 7 to 15 days with 15 to 50 GB of data, plus a local Thai phone number for calls and SMS. See our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) for how this fits into overall travel costs.
+Typical tourist SIM packages cost between 300 and 600 baht (roughly 9 to 18 USD) for 7 to 15 days with 15 to 50 GB of data, plus a local Thai phone number for calls and SMS. See our [Thailand budget guide](/thailand-index/budget/) for how this fits into overall travel costs.
 
 ## Option 2: eSIM — Install Before You Fly
 

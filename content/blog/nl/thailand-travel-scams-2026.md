@@ -225,7 +225,7 @@ ATM-skimming is zeldzamer maar serieuzer. Bedriegers installeren kaartlezers op 
 
 ### Veilige Valuta-Praktijken
 
-**Haal geld op uit geldautomaten binnen banken of shopping malls**, niet bij straatmachines. Grote banken (Bangkok Bank, Kasikornbank, Krungsri) hebben veilige automaten. Vermijd geldwisselaars; gebruik je eigen bank's ATM of officiële wisselbalies op luchthavens en grote malls. Check je banksaldo regelmatig en meld onbevoegde transacties meteen. Overweeg een reisvriendelijke kaart (Wise, Revolut) met eerlijke wisselkoersen zonder ATM-kosten. Zie onze volledige [Thailand budget en dagelijkse kosten gids](/blog/thailand-budget-2026-daily-costs/) voor geld beheren onderweg – inclusief tips voor NL-bankkaarten.
+**Haal geld op uit geldautomaten binnen banken of shopping malls**, niet bij straatmachines. Grote banken (Bangkok Bank, Kasikornbank, Krungsri) hebben veilige automaten. Vermijd geldwisselaars; gebruik je eigen bank's ATM of officiële wisselbalies op luchthavens en grote malls. Check je banksaldo regelmatig en meld onbevoegde transacties meteen. Overweeg een reisvriendelijke kaart (Wise, Revolut) met eerlijke wisselkoersen zonder ATM-kosten. Zie onze volledige [Thailand budget en dagelijkse kosten gids](/nl/thailand-index/budget/) voor geld beheren onderweg – inclusief tips voor NL-bankkaarten.
 
 ---
 

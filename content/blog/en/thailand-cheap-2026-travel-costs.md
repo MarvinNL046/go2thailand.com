@@ -40,7 +40,7 @@ Sitting in a local noodle shop in [Bangkok](https://go2-thailand.com/city/bangko
 
 Thailand's economy has shifted noticeably since the pandemic recovery. The baht has strengthened against major currencies, and tourism demand has rebounded hard—especially in beach destinations and [Bangkok](https://go2-thailand.com/city/bangkok/). During our three years in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we watched a simple pad thai jump from 30 baht to 45-50 baht at tourist-friendly spots. But here's the reality: **Thailand is still dramatically cheaper than Europe, North America, or Australia**—you're just paying more than backpackers did in 2015.
 
-The cost increases have been uneven. Accommodation in popular tourist zones has spiked hardest. Local transport, street food, and services remain genuinely affordable if you know where to look. The key is understanding which costs are fixed (flights, visas) and which are flexible (where you sleep, what you eat, which activities you choose). For a quick overview of current daily spending by category, see our [Thailand budget 2026 daily costs](/blog/thailand-budget-2026-daily-costs/) guide.
+The cost increases have been uneven. Accommodation in popular tourist zones has spiked hardest. Local transport, street food, and services remain genuinely affordable if you know where to look. The key is understanding which costs are fixed (flights, visas) and which are flexible (where you sleep, what you eat, which activities you choose). For a quick overview of current daily spending by category, see our [Thailand budget 2026 daily costs](/thailand-index/budget/) guide.
 
 ### Where Prices Have Risen Most
 
@@ -107,7 +107,7 @@ Private room, mix of street food and casual restaurants, occasional paid activit
 
 **Monthly: 34,500-64,500 THB ($958-1,792 USD)**
 
-This is the sweet spot for most travelers. You sleep well, eat at decent restaurants, do activities you want, and don't stress every baht. This budget is sustainable in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/), and smaller islands. In [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/islands/phuket/), expect to add 300-500 baht daily. If you're planning two weeks, check our [2 weeks Thailand cost 2026 budget breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/) for a detailed trip estimate.
+This is the sweet spot for most travelers. You sleep well, eat at decent restaurants, do activities you want, and don't stress every baht. This budget is sustainable in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/), and smaller islands. In [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/islands/phuket/), expect to add 300-500 baht daily. If you're planning two weeks, check our [2 weeks Thailand cost 2026 budget breakdown](/thailand-index/budget/) for a detailed trip estimate.
 
 ### Comfort Traveler
 

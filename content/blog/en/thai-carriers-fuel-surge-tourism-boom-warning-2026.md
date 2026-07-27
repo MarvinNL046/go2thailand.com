@@ -38,7 +38,7 @@ Thai carriers are lobbying for [jet fuel tax relief](/blog/thailand-airlines-jet
 
 Despite the fare increases, advance bookings for the spring and summer season remain strong. Direct Europe-to-Thailand routes are reporting cabin load factors of 80 to 90 per cent, suggesting that demand remains robust even at higher prices.
 
-Still, [budget-conscious travellers](/blog/thailand-budget-2026-daily-costs/) heading to Thailand in 2026 should consider several strategies:
+Still, [budget-conscious travellers](/thailand-index/budget/) heading to Thailand in 2026 should consider several strategies:
 
 - **Book early** to lock in current fares before further increases. Look for [Songkran flight discounts](/blog/songkran-2026-airlines-discount-flights/) if traveling in April.
 - **Be flexible with dates**, as midweek flights tend to be cheaper than weekend departures.

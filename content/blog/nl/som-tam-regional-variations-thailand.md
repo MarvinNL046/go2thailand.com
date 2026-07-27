@@ -356,7 +356,7 @@ De [ochtendmarkten van Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (T
 
 ### Isaan Regio Authenticiteit
 
-Voor de meest authentieke Isaan som tam, bezoek markten in het noordoosten zelf – steden als [Udon Thani](/city/udon-thani/) of [Khon Kaen](/city/khon-kaen/). Hier wordt som tam geserveerd zoals locals het generaties eten: pittig, funky en zonder excuses. Prijzen zijn nog lager dan in Bangkok (25–40 THB / €0,65–€1,05), en de kwaliteit is exceptioneel. Budgetreizigers vinden deze prijzen landelijk – zie onze [Thailand budget backpacker gids](/blog/thailand-budget-backpacker-guide/) voor echte eetkosten.
+Voor de meest authentieke Isaan som tam, bezoek markten in het noordoosten zelf – steden als [Udon Thani](/city/udon-thani/) of [Khon Kaen](/city/khon-kaen/). Hier wordt som tam geserveerd zoals locals het generaties eten: pittig, funky en zonder excuses. Prijzen zijn nog lager dan in Bangkok (25–40 THB / €0,65–€1,05), en de kwaliteit is exceptioneel. Budgetreizigers vinden deze prijzen landelijk – zie onze [Thailand budget backpacker gids](/nl/thailand-index/budget/) voor echte eetkosten.
 
 ### Zuidelijke Kust Som Tam
 
@@ -429,6 +429,6 @@ Of je nu [Bangkoks eetscene verkent](https://go2-thailand.com/city/bangkok/food/
 
 Voor meer inzichten in de Thaise keuken en regionale eettradities, verken onze [uitgebreide Thaise eten gids](https://go2-thailand.com/food/). En als je een culinair gerichte trip plant, overweeg een [Thaise kookles in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) om som tam en andere gerechten zelf te leren maken.
 
-Ook de moeite waard: de [volledige gids voor Thaise curry's](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) voor het hoofdgerecht bij je som tam, de [Pad Thai streetfood vs restaurant gids](/blog/pad-thai-street-food-vs-restaurant-homemade/) om je noedelkennis aan te vullen, en de [7-daagse Thailand routes](/blog/thailand-7-days-itineraries/) als je een eetgerichte reis plant. Voor budgetbewuste reizigers bevat de [Thailand backpacker gids](/blog/thailand-budget-backpacker-guide/) echte streetfood-prijzen.
+Ook de moeite waard: de [volledige gids voor Thaise curry's](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) voor het hoofdgerecht bij je som tam, de [Pad Thai streetfood vs restaurant gids](/blog/pad-thai-street-food-vs-restaurant-homemade/) om je noedelkennis aan te vullen, en de [7-daagse Thailand routes](/blog/thailand-7-days-itineraries/) als je een eetgerichte reis plant. Voor budgetbewuste reizigers bevat de [Thailand backpacker gids](/nl/thailand-index/budget/) echte streetfood-prijzen.
 
 **Klaar om som tam door Thailand te proeven?** Begin bij je lokale markt, vraag de verkoper naar hun regionale stijl, en wees niet bang om aanpassingen te vragen. De beste som tam is die gemaakt precies zoals jij hem wilt.

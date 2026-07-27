@@ -43,6 +43,20 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // Retire the old bilingual budget landing page in favour of the
+      // independently researched locale owners.
+      {
+        source: '/budget-travel/',
+        destination: '/thailand-index/budget/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/budget-travel/',
+        destination: '/nl/thailand-index/budget/',
+        permanent: true,
+        locale: false,
+      },
       // No Dutch translation exists for this English comparison owner. The
       // locale fallback previously exposed a duplicate /nl/ URL to search.
       {

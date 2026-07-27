@@ -46,7 +46,7 @@ The focus for 2026 is on what the industry calls "integrative health," where lux
 
 ## What It Costs
 
-Longevity retreats are positioned at the premium end of Thailand's wellness market, but costs remain significantly lower than equivalent programmes in Europe or the United States. Medical procedures in Thailand generally run 30 to 70 percent cheaper than in Western countries. A week-long longevity programme at a top facility typically ranges from 80,000 to 250,000 THB (roughly 2,400 to 7,500 USD), depending on the level of medical intervention included. For context on overall travel costs, our [Thailand budget guide 2026](/blog/thailand-budget-2026-daily-costs/) breaks down day-to-day expenses. Make sure you also have adequate cover — our [travel insurance guide for Thailand](/blog/travel-insurance-thailand-guide/) explains what medical policies to look for when you are combining treatment with tourism.
+Longevity retreats are positioned at the premium end of Thailand's wellness market, but costs remain significantly lower than equivalent programmes in Europe or the United States. Medical procedures in Thailand generally run 30 to 70 percent cheaper than in Western countries. A week-long longevity programme at a top facility typically ranges from 80,000 to 250,000 THB (roughly 2,400 to 7,500 USD), depending on the level of medical intervention included. For context on overall travel costs, our [Thailand budget guide 2026](/thailand-index/budget/) breaks down day-to-day expenses. Make sure you also have adequate cover — our [travel insurance guide for Thailand](/blog/travel-insurance-thailand-guide/) explains what medical policies to look for when you are combining treatment with tourism.
 
 ## The Bigger Picture
 

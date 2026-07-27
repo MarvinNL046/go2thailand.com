@@ -61,6 +61,6 @@ Between January and March 2026, Thailand recorded [**7.49 million international 
 
 If you're visiting Thailand in 2026, expect to see more curated experiences, better sustainability standards, and active promotion of destinations beyond the usual tourist trail. TAT's new **Trusted Thailand Safe Travel Stamp**, launching in August 2026, will help visitors identify businesses that meet safety, accessibility, and service standards.
 
-Worth noting: as part of this value-over-volume push, Thailand is also introducing a [300 baht tourist entry fee](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) to fund eco-tourism and visitor safety programs. If you're budgeting for a trip, check our [Thailand travel costs guide for 2026](/blog/thailand-budget-2026-daily-costs/).
+Worth noting: as part of this value-over-volume push, Thailand is also introducing a [300 baht tourist entry fee](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) to fund eco-tourism and visitor safety programs. If you're budgeting for a trip, check our [Thailand travel costs guide for 2026](/thailand-index/budget/).
 
 Thailand is betting that quality beats quantity — and for travelers, that could mean a better experience all around. Start planning with our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/).

@@ -397,7 +397,7 @@ Geldautomaten zijn beschikbaar in Tonsai Village en de meeste resorts, al zijn o
 - **Middenklasse:** 1.500–2.500 THB (fatsoenlijk hotel, restaurantmaaltijden, georganiseerde tours)
 - **Luxe:** 3.000+ THB (resortaccommodatie, fine dining, privé boten)
 
-Voor een breder overzicht van Thailand-reiskosten breekt onze [Thailand budget gids 2026](/blog/thailand-budget-2026-daily-costs/) dagelijkse uitgaven af per bestemming. Ook de moeite waard: de [Outrigger Phi Phi Island Resort review](/blog/outrigger-phi-phi-island-resort-barefoot-luxury-2026/) als je een luxe verblijf overweegt op het eiland.
+Voor een breder overzicht van Thailand-reiskosten breekt onze [Thailand budget gids 2026](/nl/thailand-index/budget/) dagelijkse uitgaven af per bestemming. Ook de moeite waard: de [Outrigger Phi Phi Island Resort review](/blog/outrigger-phi-phi-island-resort-barefoot-luxury-2026/) als je een luxe verblijf overweegt op het eiland.
 
 ### Internet en connectiviteit
 

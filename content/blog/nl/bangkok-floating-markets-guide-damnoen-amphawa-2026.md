@@ -32,7 +32,7 @@ Drijvende markten maken al sinds de kanalenperiode van [Ayutthaya](/blog/ayuttha
 
 Zo'n 100 kilometer ten zuidwesten van Bangkok in de provincie Ratchaburi ligt Damnoen Saduak — de drijvende markt die de meeste bezoekers voor zich zien wanneer ze aan [Thailand](/blog/thailand-itinerary-first-timers/) denken. De markt ontstond tijdens het bewind van Koning Rama IV in de 19e eeuw en is nog altijd een kleurrijk, fotogeniek spektakel, met tientallen houten boten die tropisch fruit, [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), kokosijs en souvenirs verkopen.
 
-Belangrijkste tip: kom vroeg. De markt is op zijn best tussen 06:00 en 09:00 's ochtends, voordat de toeristenbussen arriveren. Entree tot het marktgebied is gratis, maar een boottocht kost tussen de 300 en 600 baht, afhankelijk van duur en route. Voor een idee van wat dingen kosten in Bangkok, zie onze [Bangkok budgetgids](/blog/thailand-budget-2026-daily-costs/). Halverwege de ochtend raken de smalle kanalen verstopt met toeristenboten, dus een vroege start maakt echt verschil.
+Belangrijkste tip: kom vroeg. De markt is op zijn best tussen 06:00 en 09:00 's ochtends, voordat de toeristenbussen arriveren. Entree tot het marktgebied is gratis, maar een boottocht kost tussen de 300 en 600 baht, afhankelijk van duur en route. Voor een idee van wat dingen kosten in Bangkok, zie onze [Bangkok budgetgids](/nl/thailand-index/budget/). Halverwege de ochtend raken de smalle kanalen verstopt met toeristenboten, dus een vroege start maakt echt verschil.
 
 ## Amphawa: de lokale favoriet
 

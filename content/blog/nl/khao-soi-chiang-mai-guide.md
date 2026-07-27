@@ -377,7 +377,7 @@ Ja. Veel verkopers bieden khao soi jae (vegetarische khao soi) met tofu en groen
 
 ### Hoeveel moet ik betalen voor khao soi?
 
-Bij ochtendmarkt-kraampjes reken op 40–80 THB (€1–€2). Bij gevestigde restaurants variëren prijzen van 100–150 THB (€2,50–€3,50). Toeristverkopers rekenen mogelijk 150–250 THB of meer. Prijs correleert niet altijd met kwaliteit – sommige van de beste khao soi zijn het goedkoopst. Voor een breder beeld van eetkosten, zie de [Thailand-budget backpacker-gids](/blog/thailand-budget-backpacker-guide/).
+Bij ochtendmarkt-kraampjes reken op 40–80 THB (€1–€2). Bij gevestigde restaurants variëren prijzen van 100–150 THB (€2,50–€3,50). Toeristverkopers rekenen mogelijk 150–250 THB of meer. Prijs correleert niet altijd met kwaliteit – sommige van de beste khao soi zijn het goedkoopst. Voor een breder beeld van eetkosten, zie de [Thailand-budget backpacker-gids](/nl/thailand-index/budget/).
 
 ### Wat is het verschil tussen zachte en krokante noedels?
 

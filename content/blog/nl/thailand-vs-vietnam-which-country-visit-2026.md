@@ -44,7 +44,7 @@ Het prijsverschil tussen **Thailand en Vietnam** is een van de belangrijkste fac
 
 Tijdens ons bezoek aan Hanoi en Ho Chi Minhstad vonden we straatmaaltijden voor ₫30.000–50.000 (€1,20–2), terwijl streetfood in Bangkok gemiddeld ฿40–80 kost (€1,10–2,20). Het verschil wordt groter bij accommodatie: een fatsoenlijk guesthouse in Hanoi kost ₫200.000–300.000 (€8–12) per nacht, terwijl een vergelijkbare kamer in [Bangkok](https://go2-thailand.com/city/bangkok/) ฿600–1.000 loopt (€17–28).
 
-Voor een gedetailleerde breakdown, bekijk onze [Thailand budgetgids voor 2026](/blog/thailand-budget-2026-daily-costs/). **Thailand Budgetschatting (per persoon, middenklasse reiziger):**
+Voor een gedetailleerde breakdown, bekijk onze [Thailand budgetgids voor 2026](/nl/thailand-index/budget/). **Thailand Budgetschatting (per persoon, middenklasse reiziger):**
 - Accommodatie: ฿400–700/nacht (€11–19)
 
 - Vervoer: ฿100–300/dag (€3–8)

@@ -24,7 +24,7 @@ sources:
 
 ## The Numbers Speak for Themselves
 
-A cost-of-living study published in February 2026 crowned [Chiang Mai](/city/chiang-mai/) as the most affordable digital nomad destination in the world. Rent for a comfortable apartment starts under $400 per month, coworking passes go for as little as $85, and a filling street-food meal still costs well under $2. For remote workers who want quality of life without draining their savings, northern Thailand remains hard to beat. For a full breakdown of what you'll spend day-to-day, the [Thailand daily budget guide for 2026](/blog/thailand-budget-2026-daily-costs/) and the [two-weeks cost estimate](/blog/how-much-2-weeks-thailand-cost-2026-budget/) are useful starting points.
+A cost-of-living study published in February 2026 crowned [Chiang Mai](/city/chiang-mai/) as the most affordable digital nomad destination in the world. Rent for a comfortable apartment starts under $400 per month, coworking passes go for as little as $85, and a filling street-food meal still costs well under $2. For remote workers who want quality of life without draining their savings, northern Thailand remains hard to beat. For a full breakdown of what you'll spend day-to-day, the [Thailand daily budget guide for 2026](/thailand-index/budget/) and the [two-weeks cost estimate](/thailand-index/budget/) are useful starting points.
 
 ## Coworking Options Have Multiplied
 

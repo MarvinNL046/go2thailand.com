@@ -271,4 +271,4 @@ Beide verblijven leerden ons iets over Bangkok. De budgetkamer liet ons zien dat
 
 Of je nu elke baht telt of jezelf trakteert op iets buitengewoons, Bangkok levert. De stad oordeelt niet over je budget — ze laat je gewoon een goede tijd beleven, ongeacht wat je uitgeeft.
 
-Klaar om je Bangkok-reis te plannen? Bekijk onze [complete Bangkok stadsgids](https://go2-thailand.com/city/bangkok/), ontdek de [top 10 hotels in Bangkok](https://go2-thailand.com/city/bangkok/top-10-hotels/), of lees onze [budget vs comfort reisgids](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) voor meer tips om het meeste uit je Thailand-budget te halen.
+Klaar om je Bangkok-reis te plannen? Bekijk onze [complete Bangkok stadsgids](https://go2-thailand.com/city/bangkok/), ontdek de [top 10 hotels in Bangkok](https://go2-thailand.com/city/bangkok/top-10-hotels/), of lees onze [budget vs comfort reisgids](https://go2-thailand.com/nl/thailand-index/budget/) voor meer tips om het meeste uit je Thailand-budget te halen.

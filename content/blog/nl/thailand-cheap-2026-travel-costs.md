@@ -40,7 +40,7 @@ Zittend in een lokaal noedelsrestaurantje in [Bangkok](https://go2-thailand.com/
 
 De economie van Thailand is sinds het herstel na de pandemie duidelijk veranderd. De baht is sterker geworden ten opzichte van grote valuta's, en de vraag naar toerisme is hard teruggekomen – vooral in strandbestemmingen en [Bangkok](https://go2-thailand.com/city/bangkok/). Tijdens onze drie jaar in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) zagen we een simpele pad thai stijgen van 30 baht naar 45-50 baht in toeristenvriendelijke spots. Maar de realiteit: **Thailand is nog steeds veel goedkoper dan Europa, Noord-Amerika of Australië** – je betaalt gewoon meer dan backpackers in 2015.
 
-De prijsstijgingen zijn niet gelijk verdeeld. Accommodatie in populaire toeristenzones is het hardst gestegen. Lokaal vervoer, straatre food en diensten blijven oprecht betaalbaar als je weet waar je moet zijn. De sleutel is begrijpen welke kosten vast zijn (vluchten, visa) en welke flexibel (waar je slaapt, wat je eet, welke activiteiten je kiest). Voor een snel overzicht van de huidige dagelijkse uitgaven per categorie, bekijk onze [Thailand budget 2026 dagelijkse kosten](/blog/thailand-budget-2026-daily-costs/) gids.
+De prijsstijgingen zijn niet gelijk verdeeld. Accommodatie in populaire toeristenzones is het hardst gestegen. Lokaal vervoer, straatre food en diensten blijven oprecht betaalbaar als je weet waar je moet zijn. De sleutel is begrijpen welke kosten vast zijn (vluchten, visa) en welke flexibel (waar je slaapt, wat je eet, welke activiteiten je kiest). Voor een snel overzicht van de huidige dagelijkse uitgaven per categorie, bekijk onze [Thailand budget 2026 dagelijkse kosten](/nl/thailand-index/budget/) gids.
 
 ### Waar de prijzen het meest zijn gestegen
 
@@ -107,7 +107,7 @@ Privékamer, mix van straatre food en casual restaurants, af en toe betaalde act
 
 **Maandelijks: 34.500-64.500 THB (€888-€1.659)**
 
-Dit is het zoete punt voor de meeste reizigers. Je slaapt goed, eet in fatsoenlijke restaurants, doet de activiteiten die je wilt en stress niet over elke baht. Dit budget is haalbaar in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) en kleinere eilanden. In [Bangkok](https://go2-thailand.com/city/bangkok/) of [Phuket](https://go2-thailand.com/islands/phuket/), reken op 300-500 baht extra per dag. Voor twee weken planning, check onze [2 weken Thailand kosten 2026 budget breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/) voor een gedetailleerde trip-schatting.
+Dit is het zoete punt voor de meeste reizigers. Je slaapt goed, eet in fatsoenlijke restaurants, doet de activiteiten die je wilt en stress niet over elke baht. Dit budget is haalbaar in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) en kleinere eilanden. In [Bangkok](https://go2-thailand.com/city/bangkok/) of [Phuket](https://go2-thailand.com/islands/phuket/), reken op 300-500 baht extra per dag. Voor twee weken planning, check onze [2 weken Thailand kosten 2026 budget breakdown](/nl/thailand-index/budget/) voor een gedetailleerde trip-schatting.
 
 ### Comfort reiziger
 

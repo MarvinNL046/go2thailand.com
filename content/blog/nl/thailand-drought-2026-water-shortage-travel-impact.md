@@ -53,7 +53,7 @@ Reizigers die naar landelijke gebieden, nationale parken of noordelijke provinci
 
 ## Tips voor Reizen Tijdens de Droogte
 
-- Blijf gehydrateerd. Neem altijd water mee, vooral buiten de grote steden. Bekijk onze [Thailand budgetgids](/blog/thailand-budget-2026-daily-costs/) voor actuele kosten, inclusief flessenwater.
+- Blijf gehydrateerd. Neem altijd water mee, vooral buiten de grote steden. Bekijk onze [Thailand budgetgids](/nl/thailand-index/budget/) voor actuele kosten, inclusief flessenwater.
 - Controleer de omstandigheden in nationale parken vóór je bezoek. Sommige watervallen zijn in maart en april gereduceerd tot een straaltje. Onze [gids voor kamperen in Thaise nationale parken](/blog/camping-thailand-national-parks-guide-2026/) somt de meest getroffen parken op door seizoensomstandigheden.
 - Wees respectvol met watergebruik in landelijke gemeenschappen waar voorraden beperkt kunnen zijn.
 - Als je [Chiang Mai](/city/chiang-mai/) of het noorden bezoekt, pak een herbruikbaar N95-masker in voor mistige dagen — belangrijk voor de luchtkwaliteit en veiligheid vanuit Nederland.

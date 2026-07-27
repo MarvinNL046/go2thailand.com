@@ -176,7 +176,7 @@ Unmarked "taxis" prey on tourists at airports and train stations. They overcharg
 
 ## 4. Motorbike Accidents: The Underrated Risk
 
-Here's something tourists often underestimate: **motorbike accidents are the leading cause of injury to foreign visitors in Thailand.** Understanding your [daily budget in Thailand](/blog/thailand-budget-2026-daily-costs/) helps you factor in safer transport costs from the start. We've seen this firsthand—a friend rented a scooter without a helmet, hit a pothole, and spent two weeks in a Bangkok hospital with a fractured arm.
+Here's something tourists often underestimate: **motorbike accidents are the leading cause of injury to foreign visitors in Thailand.** Understanding your [daily budget in Thailand](/thailand-index/budget/) helps you factor in safer transport costs from the start. We've seen this firsthand—a friend rented a scooter without a helmet, hit a pothole, and spent two weeks in a Bangkok hospital with a fractured arm.
 
 ### Why Motorbikes Are Dangerous
 

@@ -36,7 +36,7 @@ sources:
 | Wat zijn de must-try gerechten? | Begin met **Pad Thai**, **Khao Man Gai** en **Mango Sticky Rice** -- ontdek alle kenmerkende gerechten in onze [Thaise food-sectie](/food/). |
 | Waar zijn de beste street food-gebieden? | **Yaowarat (Chinatown)** voor nachtmarkt-zeevruchten, **Or Tor Kor Market** voor premiumkwaliteit en **Victory Monument** voor budgeteten. |
 | Is Bangkok street food veilig om te eten? | Ja -- **miljoenen locals eten het dagelijks**. Ga naar drukke kraampjes met hoge doorstroom en eten dat op bestelling wordt bereid. Lees onze [veiligheidstips](/practical-info/scams-safety/). |
-| Hoeveel kost een dag street food? | Een volledige dag **budgeteten** kost rond de **270-350 THB (~7-9 euro)**. Bekijk onze [budget backpackergids](/blog/thailand-budget-backpacker-guide/) voor meer bespaartips. |
+| Hoeveel kost een dag street food? | Een volledige dag **budgeteten** kost rond de **270-350 THB (~7-9 euro)**. Bekijk onze [budget backpackergids](/nl/thailand-index/budget/) voor meer bespaartips. |
 | Hoe bestel ik als ik geen Thai spreek? | **Wijs aan wat je wilt**, gebruik basiszinnen zoals "mai pet" (niet pittig) en betaal met **klein contant geld**. Bekijk onze [geld- en pinautomatengids](/practical-info/atm-money/). |
 | Wat moet ik buiten Bangkok proberen? | Probeer **Khao Soi** in Chiang Mai en **zeevruchtencurry's** bij de [Thaise eilanden](/islands/). Check het [beste moment om Thailand te bezoeken](/blog/best-time-to-visit-thailand/) om je reis te plannen. |
 
@@ -144,7 +144,7 @@ Bekijk voor bredere veiligheidstips inclusief veelvoorkomende toeristenzwendel o
 
 Zelfs als je er een **mango sticky rice** als dessert bij neemt (80 THB), zit je nog steeds onder de **350 THB voor een hele dag** uitstekend eten. Vergelijk dat met een restaurantmaaltijd die begint bij 150-300 THB voor een enkel gerecht.
 
-Meer **budgettips** over accommodatie, vervoer en activiteiten vind je in onze [Thailand budget backpackergids](/blog/thailand-budget-backpacker-guide/). Goedkoop rondreizen in Bangkok is eenvoudig met de BTS en MRT -- lees onze [transportgids](/transport/) voor routes en tarieven.
+Meer **budgettips** over accommodatie, vervoer en activiteiten vind je in onze [Thailand budget backpackergids](/nl/thailand-index/budget/). Goedkoop rondreizen in Bangkok is eenvoudig met de BTS en MRT -- lees onze [transportgids](/transport/) voor routes en tarieven.
 
 ## 7. Street Food Etiquette
 

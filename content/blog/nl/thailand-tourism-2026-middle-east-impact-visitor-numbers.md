@@ -55,6 +55,6 @@ Ondanks uitdagingen uit langeafstandmarkten ziet het binnenlandse toerismeseizoe
 
 Absoluut. Thailand blijft een van de veiligste en meest gastvrije bestemmingen in Zuidoost-Azië. De Midden-Oosten-situatie raakt alleen de transitroutes, niet Thailand zelf. Reizigers uit Europa doen er goed aan vluchtopties te vergelijken en vroeg te boeken voor de beste prijzen – vooral met KLM-vluchten vanaf Schiphol. Voor wie uit Azië-Pacific komt, verandert er weinig.
 
-Als je twijfelt over de timing, check onze [gids voor de beste reistijd naar Thailand](/blog/best-time-to-visit-thailand/), met info over weer, drukte en regenseizoen. Budget plannen? Bekijk [hoeveel twee weken in Thailand kosten in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/). En mis niet het grootste evenement van het jaar: [Tomorrowland Thailand 2026 in Pattaya](/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/) – 150.000 tickets uitverkocht in minder dan een uur.
+Als je twijfelt over de timing, check onze [gids voor de beste reistijd naar Thailand](/blog/best-time-to-visit-thailand/), met info over weer, drukte en regenseizoen. Budget plannen? Bekijk [hoeveel twee weken in Thailand kosten in 2026](/nl/thailand-index/budget/). En mis niet het grootste evenement van het jaar: [Tomorrowland Thailand 2026 in Pattaya](/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/) – 150.000 tickets uitverkocht in minder dan een uur.
 
 Voor de laatste reisadviezen, raadpleeg de officiële richtlijnen van de Nederlandse overheid voor je boekt.

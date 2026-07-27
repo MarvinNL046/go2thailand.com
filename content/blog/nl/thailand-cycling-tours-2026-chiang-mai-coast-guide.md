@@ -26,7 +26,7 @@ sources:
 
 ## Waarom Thailand een Topbestemming is voor Fietsers
 
-Thailand biedt een unieke mix voor fietsers: warm weer het hele jaar door, goed onderhouden wegen, [goedkope accommodatie](/blog/thailand-cheap-2026-travel-costs/) en een afwisselend landschap dat binnen een paar honderd kilometer verandert van mistige bergen tot turquoise kust. Of je nu houdt van begeleide meerdaagse tours of zelfvoorzienend bikepacken, de infrastructuur is beter dan veel reizigers verwachten – ideaal voor Nederlandse fietsers die een veilige en avontuurlijke vakantie zoeken.
+Thailand biedt een unieke mix voor fietsers: warm weer het hele jaar door, goed onderhouden wegen, [goedkope accommodatie](/nl/thailand-index/budget/) en een afwisselend landschap dat binnen een paar honderd kilometer verandert van mistige bergen tot turquoise kust. Of je nu houdt van begeleide meerdaagse tours of zelfvoorzienend bikepacken, de infrastructuur is beter dan veel reizigers verwachten – ideaal voor Nederlandse fietsers die een veilige en avontuurlijke vakantie zoeken.
 
 Er zijn minstens negen georganiseerde fietstour-opties beschikbaar via operators als TourRadar voor het seizoen 2026, die zowel Noord- als Zuid-Thailand beslaan.
 
@@ -54,4 +54,4 @@ Als je liever solo fietst, vind je gemakswinkels en straatkant noedelkraampjes e
 
 ## Plan Vooruit
 
-Het hoogseizoen voor fietstochten in 2026 loopt van november tot februari. Populaire begeleide vertrekken raken maanden van tevoren vol, dus boek vroeg voor een gegarandeerde plek. Ben je nieuw in Thailand? Onze [essentiële gids voor eerste bezoekers 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) behandelt inreisvereisten, vervoer en logistiek die net zo relevant zijn voor fietsers als voor andere reizigers. Bekijk ook onze [uitgebreide breakdown van reis kosten Thailand](/blog/thailand-cheap-2026-travel-costs/) om te zien hoe je budget eruitziet voor accommodatie, eten en lokaal vervoer tussen de rijdagen.
+Het hoogseizoen voor fietstochten in 2026 loopt van november tot februari. Populaire begeleide vertrekken raken maanden van tevoren vol, dus boek vroeg voor een gegarandeerde plek. Ben je nieuw in Thailand? Onze [essentiële gids voor eerste bezoekers 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) behandelt inreisvereisten, vervoer en logistiek die net zo relevant zijn voor fietsers als voor andere reizigers. Bekijk ook onze [uitgebreide breakdown van reis kosten Thailand](/nl/thailand-index/budget/) om te zien hoe je budget eruitziet voor accommodatie, eten en lokaal vervoer tussen de rijdagen.

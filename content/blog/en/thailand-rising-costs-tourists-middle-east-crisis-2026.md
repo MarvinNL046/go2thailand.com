@@ -22,7 +22,7 @@ sources:
     url: "https://www.thailandnews.co/2026/03/rising-fuel-costs-in-thailand-threaten-to-push-grocery-prices-higher/"
 ---
 
-If you are planning a trip to Thailand in 2026, you may have noticed that some costs are creeping up. The ongoing **Middle East conflict** is having a ripple effect across Southeast Asia, and Thailand is not immune. Here is a practical breakdown of what is changing and how to plan around it. For context on how this compares to normal travel costs, see our [Thailand budget guide for 2026](/blog/thailand-budget-2026-daily-costs/).
+If you are planning a trip to Thailand in 2026, you may have noticed that some costs are creeping up. The ongoing **Middle East conflict** is having a ripple effect across Southeast Asia, and Thailand is not immune. Here is a practical breakdown of what is changing and how to plan around it. For context on how this compares to normal travel costs, see our [Thailand budget guide for 2026](/thailand-index/budget/).
 
 ## Airfare: 10–15% Higher Than Last Year
 

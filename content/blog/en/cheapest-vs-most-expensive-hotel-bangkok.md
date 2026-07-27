@@ -70,7 +70,7 @@ The real advantage of staying in a local neighborhood? **Authentic, cheap food.*
 
 **Sleep quality:** Fine. Hot and sweaty, but the fan kept things tolerable. No power cuts, no noisy neighbors. Woke up to birdsong.
 
-**Who is this for?** Budget backpackers who prioritize trip length over comfort. See our full [Thailand budget backpacker guide](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/) for strategies on stretching every baht. If you can handle a fan room, a squat toilet, and a bucket shower, you can extend your travels significantly. When your budget determines how long you can travel, every 100 THB saved means another day in Thailand.
+**Who is this for?** Budget backpackers who prioritize trip length over comfort. See our full [Thailand budget backpacker guide](https://go2-thailand.com/thailand-index/budget/) for strategies on stretching every baht. If you can handle a fan room, a squat toilet, and a bucket shower, you can extend your travels significantly. When your budget determines how long you can travel, every 100 THB saved means another day in Thailand.
 
 **Who should skip this?** Anyone who values sleep quality, privacy, or reliable hot showers. Couples. Anyone staying more than 2-3 nights.
 
@@ -271,4 +271,4 @@ Both stays taught us something about Bangkok. The budget room showed us that thi
 
 Whether you're counting every baht or treating yourself to something extraordinary, Bangkok delivers. The city doesn't judge your budget — it just shows you a good time, no matter what you're spending.
 
-Ready to plan your Bangkok trip? Check out our [complete Bangkok city guide](https://go2-thailand.com/city/bangkok/), explore the [top 10 hotels in Bangkok](https://go2-thailand.com/city/bangkok/top-10-hotels/), browse the [best hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/), or read our [budget vs comfort travel guide](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) for more tips on getting the most from your Thailand budget. And if you're planning what to eat once you arrive, our [Chatuchak Weekend Market food guide](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) is the perfect weekend plan.
+Ready to plan your Bangkok trip? Check out our [complete Bangkok city guide](https://go2-thailand.com/city/bangkok/), explore the [top 10 hotels in Bangkok](https://go2-thailand.com/city/bangkok/top-10-hotels/), browse the [best hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/), or read our [budget vs comfort travel guide](https://go2-thailand.com/thailand-index/budget/) for more tips on getting the most from your Thailand budget. And if you're planning what to eat once you arrive, our [Chatuchak Weekend Market food guide](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) is the perfect weekend plan.

@@ -55,7 +55,7 @@ Thailand packages vary dramatically based on your travel style. Here's what to e
 
 ### Budget Packages ($800–$1,200 for 7–10 days)
 
-These typically include flights on budget carriers, 3-star hotel accommodation, airport transfers, and one or two group tours. Meals are usually breakfast only. You'll stay in tourist-friendly areas but don't expect beachfront views or boutique hotels. Good value if you want the logistics handled without a premium price tag. See our [budget vs comfort comparison](/blog/thailand-budget-vs-comfort-travel/) to understand what you're trading off.
+These typically include flights on budget carriers, 3-star hotel accommodation, airport transfers, and one or two group tours. Meals are usually breakfast only. You'll stay in tourist-friendly areas but don't expect beachfront views or boutique hotels. Good value if you want the logistics handled without a premium price tag. See our [budget vs comfort comparison](/thailand-index/budget/) to understand what you're trading off.
 
 ### Mid-Range Packages ($1,500–$2,500 for 7–14 days)
 
@@ -86,7 +86,7 @@ This is the real question. Here's how the two approaches stack up:
 | **Social aspect** | Meet fellow travelers in group | Meet locals and other backpackers |
 | **Safety net** | Tour operator support 24/7 | You handle emergencies yourself |
 
-The cost difference is significant. Thailand is one of the easiest countries in Southeast Asia to travel independently. Transport is cheap, accommodation is abundant, and English is widely spoken in tourist areas. A comfortable independent trip costs roughly [1,500–2,500 THB per day](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) ($42–70 USD) for mid-range travel.
+The cost difference is significant. Thailand is one of the easiest countries in Southeast Asia to travel independently. Transport is cheap, accommodation is abundant, and English is widely spoken in tourist areas. A comfortable independent trip costs roughly [1,500–2,500 THB per day](https://go2-thailand.com/thailand-index/budget/) ($42–70 USD) for mid-range travel.
 
 ## When Thailand Travel Packages Make Sense
 
@@ -112,7 +112,7 @@ Some people genuinely dislike trip planning. If research and booking stress you 
 
 ### Backpackers and Budget Travelers
 
-If you're comfortable in hostels and eating [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/), you can travel Thailand for $25–40 per day. No package comes close to that. Check our [backpacker guide](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/) for details.
+If you're comfortable in hostels and eating [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/), you can travel Thailand for $25–40 per day. No package comes close to that. Check our [backpacker guide](https://go2-thailand.com/thailand-index/budget/) for details.
 
 ### Long-Term Travelers (2+ Weeks)
 

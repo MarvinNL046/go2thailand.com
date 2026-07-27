@@ -45,6 +45,6 @@ This quality-over-quantity pivot is explored in more depth in our piece on [how 
 
 For travellers planning a trip to Thailand in 2026, the picture is mixed. [Flights may cost more](/blog/thai-carriers-fuel-surge-tourism-boom-warning-2026/), while visa-exemption policy remains changeable. At our 27 July 2026 check, the current UK sources still state up to 60 days for an ordinary British passport; verify the [live visa-exemption guidance](/visa/visa-free-entry/) before departure. Thailand is also investing in higher-quality tourism infrastructure and more curated experiences.
 
-If you are planning your first visit, our [essential guide for first-time visitors](/blog/thailand-first-time-visitors-essential-guide-2026/) covers what to expect, alongside a full [Thailand visa guide for 2026](/visa/) and an overview of [what a realistic travel budget looks like](/blog/thailand-budget-2026-daily-costs/).
+If you are planning your first visit, our [essential guide for first-time visitors](/blog/thailand-first-time-visitors-essential-guide-2026/) covers what to expect, alongside a full [Thailand visa guide for 2026](/visa/) and an overview of [what a realistic travel budget looks like](/thailand-index/budget/).
 
 Thailand remains one of the most popular destinations in Southeast Asia. The question for 2026 is not whether people want to visit, but whether the economics and logistics will let them.

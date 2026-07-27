@@ -38,7 +38,7 @@ Thailand telt meer dan 1.400 eilanden, verspreid over de **Golf van Thailand** e
 | Wat zijn de twee belangrijkste routes? | Thailand heeft een route langs de **Golf van Thailand** (oostkust) en een langs de **Andamanzee** (westkust) – bekijk alle [eilandgidsen](/islands/) om te vergelijken |
 | Hoe kom je van eiland naar eiland? | Met **ferry**, **speedboot** of **longtail boot** – zie onze volledige [vervoersoverzicht](/transport/) voor alle opties |
 | Wanneer is de beste reistijd? | **December tot april** werkt voor de meeste eilanden; check de [Thailand weergids](/weather/) voor details per maand |
-| Hoeveel kost eilandhoppen? | Budgetreizigers geven **700-1.750 THB per dag** uit; lees onze [backpacker budgetgids](/blog/thailand-budget-backpacker-guide/) voor bespaartips |
+| Hoeveel kost eilandhoppen? | Budgetreizigers geven **700-1.750 THB per dag** uit; lees onze [backpacker budgetgids](/nl/thailand-index/budget/) voor bespaartips |
 | Heb ik een visum nodig? | De meeste nationaliteiten krijgen 60 dagen visumvrij – zie de [Thailand visumgids 2026](/blog/thailand-visa-guide-2026/) voor alle details |
 | Is Reisverzekering noodzakelijk? | Ja – **duiken**, **snorkelen** en boottochten vereisen goede dekking; vergelijk polissen in onze [reisverzekeringsgids](/travel-insurance-thailand/) |
 | Hoe blijf ik verbonden op de eilanden? | Koop een **Thaise eSIM** vooraf (wij raden [Saily](https://saily.tpo.lv/rf9lidnE) aan) voor data op elk eiland – zie onze [eSIM-gids](/esim/) |
@@ -120,7 +120,7 @@ Dit is wat een typische dag **eilandhoppen** kost voor een budgetreiziger:
 | Activiteiten | 0-500 | 500-1.500 |
 | **Dagtotal** | **700-1.750** | **2.150-4.500** |
 
-Voor een tweedaagse **eilandhop**trip kun je als budgetreiziger rekenen op **15.000-25.000 THB** (ongeveer € 400-700), exclusief vluchten naar Thailand. Check onze [Thailand budget backpacker gids](/blog/thailand-budget-backpacker-guide/) voor meer bespaartips. Eiland [eten](/food/) is iets duurder dan op het vasteland, maar straatkraampjes bij ferrypiers bieden maaltijden voor 60-80 THB.
+Voor een tweedaagse **eilandhop**trip kun je als budgetreiziger rekenen op **15.000-25.000 THB** (ongeveer € 400-700), exclusief vluchten naar Thailand. Check onze [Thailand budget backpacker gids](/nl/thailand-index/budget/) voor meer bespaartips. Eiland [eten](/food/) is iets duurder dan op het vasteland, maar straatkraampjes bij ferrypiers bieden maaltijden voor 60-80 THB.
 
 ## 5. Inpak Essentials voor Eilandhoppen
 

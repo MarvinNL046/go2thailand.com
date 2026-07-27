@@ -61,7 +61,7 @@ Het festival draait om vier activiteiten: **eten, shoppen, verkennen en ervaren*
 ## Tips voor Bezoekers
 
 - **Ga doordeweeks** als je de grootste drukte wilt vermijden. In het weekend is het er vaak stampvol.
-- **Neem contant geld mee** voor kraampjes en kleinere verkopers, hoewel grotere stands soms kaarten accepteren. Lees onze gids over [hoeveel twee weken in Thailand kosten in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/) om je budget te plannen.
+- **Neem contant geld mee** voor kraampjes en kleinere verkopers, hoewel grotere stands soms kaarten accepteren. Lees onze gids over [hoeveel twee weken in Thailand kosten in 2026](/nl/thailand-index/budget/) om je budget te plannen.
 - **Draag comfortabele schoenen** — de hallen zijn groot en je loopt er uren.
 - **Kom vroeg** om de beste reisaanbiedingen te scoren, want populaire pakketten raken snel uitverkocht. Als je ook een breder Bangkok-plan maakt, helpt onze [wijken-gids voor Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/) je bij het kiezen van de juiste uitvalsbasis.
 

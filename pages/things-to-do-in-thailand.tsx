@@ -766,7 +766,7 @@ export default function ThingsToDoPage() {
                       )}
                       {item.question === 'How much does Thailand cost per day?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">{t("s124_thailand_budget_breakdown_2026")}</Link>
+                          <Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline font-semibold">{t("s124_thailand_budget_breakdown_2026")}</Link>
                         </p>
                       )}
                     </div>

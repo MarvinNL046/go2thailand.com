@@ -174,7 +174,7 @@ If you have a morning departure, fly back to Bangkok the night before and stay n
 | **Activities/entry fees** (total) | 2,000–4,000 THB ($57–114) | 5,000–10,000 THB ($143–286) | 15,000–30,000 THB ($429–857) |
 | **10-day total** | $500–700 | $1,000–1,500 | $2,500–5,000+ |
 
-These figures don't include international flights. For a detailed daily cost breakdown, see our [Thailand budget guide](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+These figures don't include international flights. For a detailed daily cost breakdown, see our [Thailand budget guide](https://go2-thailand.com/thailand-index/budget/).
 
 ---
 
@@ -198,7 +198,7 @@ Book domestic flights on [12Go Asia](https://12go.tpo.lv/tNA80urD) or directly t
 - **Chiang Mai:** The Old City puts you within walking distance of temples and restaurants. Guesthouses start at 400 THB/night.
 - **Krabi/Ao Nang:** Ao Nang has the widest range of accommodation. Railay Beach is more expensive but worth one night for the sunrise.
 
-For budget comparisons, check our guide on [budget vs. comfort travel in Thailand](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/).
+For budget comparisons, check our guide on [budget vs. comfort travel in Thailand](https://go2-thailand.com/thailand-index/budget/).
 
 ---
 

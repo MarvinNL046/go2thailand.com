@@ -517,7 +517,7 @@ Thailand's beaches are affected by two monsoon seasons. The **[best time to visi
 
 **March to May** offers shoulder-season advantages: fewer crowds, lower prices, and still-good weather (though increasingly hot). Water visibility remains good.
 
-**May to October** is monsoon season. The **southern islands** (Phuket, Krabi, Phi Phi) experience heavy rain and rough seas, making water sports difficult. However, the **eastern islands** (Koh Chang, Koh Samet) are more sheltered and remain accessible. Prices drop significantly, and crowds disappear—ideal for [budget travelers](/blog/thailand-budget-backpacker-guide/).
+**May to October** is monsoon season. The **southern islands** (Phuket, Krabi, Phi Phi) experience heavy rain and rough seas, making water sports difficult. However, the **eastern islands** (Koh Chang, Koh Samet) are more sheltered and remain accessible. Prices drop significantly, and crowds disappear—ideal for [budget travelers](/thailand-index/budget/).
 
 > **Did You Know?** Thailand's monsoon seasons are reversed between coasts. The southwest monsoon (May–October) affects the Andaman Sea (western beaches), while the northeast monsoon (November–February) affects the Gulf of Thailand (eastern beaches). This means you can always find a good beach somewhere in Thailand.
 >

@@ -20,7 +20,7 @@ sources:
     url: "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2773175-thailand-floats-lower-2026-green-utility-tariff-rate"
 ---
 
-Goed nieuws voor iedereen die in [Thailand](/thailand-travel-guide/) woont of er langer verblijft: de regering heeft het **elektriciteitstarief verlaagd naar 3,88 baht per eenheid** voor de afrekenperiode januari-april 2026, een daling ten opzichte van de 3,94 baht in de vorige cyclus. Het is een bescheiden verlaging, maar het toont aan dat de overheid doorgaat met inspanningen om de energiekosten beheersbaar te houden – onderdeel van een breder beeld dat Thailand [een van de goedkoopste bestemmingen in Zuidoost-Azië maakt in 2026](/blog/thailand-cheap-2026-travel-costs/).
+Goed nieuws voor iedereen die in [Thailand](/thailand-travel-guide/) woont of er langer verblijft: de regering heeft het **elektriciteitstarief verlaagd naar 3,88 baht per eenheid** voor de afrekenperiode januari-april 2026, een daling ten opzichte van de 3,94 baht in de vorige cyclus. Het is een bescheiden verlaging, maar het toont aan dat de overheid doorgaat met inspanningen om de energiekosten beheersbaar te houden – onderdeel van een breder beeld dat Thailand [een van de goedkoopste bestemmingen in Zuidoost-Azië maakt in 2026](/nl/thailand-index/budget/).
 
 ## Waarom deze verlaging?
 
@@ -54,7 +54,7 @@ Dit betekent dat hotels en resorts die hernieuwbare energie afnemen, dat tegen e
 
 ## Het grotere plaatje
 
-Thailand blijft een van de meest betaalbare bestemmingen in Zuidoost-Azië voor langere verblijven. Gecombineerd met het **elektriciteitstarief van 3,88 baht**, lage brandstofprijzen en stabiele voedselkosten, blijven de leefkosten gunstig voor budgetbewuste reizigers en remote workers. Voor een volledig overzicht van wat je kunt verwachten, zie onze [Thailand-budget 2026 met dagelijkse kosten](/blog/thailand-budget-2026-daily-costs/) en de [gids voor kosten van 2 weken in Thailand](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+Thailand blijft een van de meest betaalbare bestemmingen in Zuidoost-Azië voor langere verblijven. Gecombineerd met het **elektriciteitstarief van 3,88 baht**, lage brandstofprijzen en stabiele voedselkosten, blijven de leefkosten gunstig voor budgetbewuste reizigers en remote workers. Voor een volledig overzicht van wat je kunt verwachten, zie onze [Thailand-budget 2026 met dagelijkse kosten](/nl/thailand-index/budget/) en de [gids voor kosten van 2 weken in Thailand](/nl/thailand-index/budget/).
 
 Langverblijvende bezoekers moeten ook op de hoogte zijn van recente [visawijzigingen in 2026](/blog/thailand-visa-guide-2026/) – waaronder de [vermindering van visumvrije verblijven van 60 naar 30 dagen](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) en nieuwe opties onder het [Digital Nomad (DTV) Visa](/visa/digital-nomad-visa/) voor remote workers die langer legaal willen blijven. De [expat-gids voor lang verblijf](/travel-guides/expat-long-stay-thailand/) behandelt alles van huisvesting tot zorgkosten.
 

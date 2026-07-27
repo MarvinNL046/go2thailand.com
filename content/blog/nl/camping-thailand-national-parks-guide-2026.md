@@ -30,7 +30,7 @@ Thailand telt meer dan 150 nationale parken, waarvan tientallen speciale kampeer
 
 Kampeertarieven zijn gestandaardiseerd in alle parken op **80 THB per persoon per nacht** (ongeveer €2). Daarbovenop betaal je een entree voor het park, 100 of 200 THB voor buitenlandse bezoekers, afhankelijk van het park. Kinderen betalen meestal de helft.
 
-Heb je geen eigen spullen, dan verhuren de meeste parken tenten, slaapzakken, slaapmatten en kussens. Een compleet pakket voor twee personen kost doorgaans rond de **400 THB per nacht**, inclusief kampeertarief. Voor een breder overzicht van reiskosten in Thailand, bekijk onze [begrotingsgids voor Thailand 2026](/blog/thailand-budget-2026-daily-costs/).
+Heb je geen eigen spullen, dan verhuren de meeste parken tenten, slaapzakken, slaapmatten en kussens. Een compleet pakket voor twee personen kost doorgaans rond de **400 THB per nacht**, inclusief kampeertarief. Voor een breder overzicht van reiskosten in Thailand, bekijk onze [begrotingsgids voor Thailand 2026](/nl/thailand-index/budget/).
 
 ## Regels voor het Opzetten van Je Tent
 

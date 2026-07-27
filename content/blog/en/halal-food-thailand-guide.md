@@ -161,7 +161,7 @@ Several hotels in Bangkok, Phuket, and Krabi market themselves as Muslim-friendl
 Not by default. However, Muslim-run street stalls (look for vendors wearing hijab or taqiyah) typically serve halal food. When in doubt, look for the green CICOT halal certification logo.
 
 **How much does halal food cost in Thailand?**
-Prices are the same as non-halal food. Street food runs **30-80 THB** (~1-2.50 USD) per dish, and restaurant meals cost **80-300 THB** (~2.50-9 USD) depending on the venue. For a full breakdown of travel costs, see our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) and tips on [eating like a local under $5](/blog/eat-like-local-thailand-under-5-dollars/).
+Prices are the same as non-halal food. Street food runs **30-80 THB** (~1-2.50 USD) per dish, and restaurant meals cost **80-300 THB** (~2.50-9 USD) depending on the venue. For a full breakdown of travel costs, see our [Thailand budget guide](/thailand-index/budget/) and tips on [eating like a local under $5](/blog/eat-like-local-thailand-under-5-dollars/).
 
 ## FAQ
 

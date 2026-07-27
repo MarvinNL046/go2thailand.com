@@ -26,7 +26,7 @@ sources:
 
 ## Why Thailand Is Still the Backpacker Capital
 
-Thailand's hostel scene in 2026 is bigger and more competitive than ever. Dorm beds start at around USD 5 in [Bangkok](/city/bangkok/) and as low as USD 2 on Koh Phangan, while chains like Bodega Hostels and Mad Monkey have turned budget stays into full social experiences complete with pub crawls, pool parties, and co-working spaces. See also our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) for a full cost breakdown.
+Thailand's hostel scene in 2026 is bigger and more competitive than ever. Dorm beds start at around USD 5 in [Bangkok](/city/bangkok/) and as low as USD 2 on Koh Phangan, while chains like Bodega Hostels and Mad Monkey have turned budget stays into full social experiences complete with pub crawls, pool parties, and co-working spaces. See also our [Thailand budget backpacker guide](/thailand-index/budget/) for a full cost breakdown.
 
 Here are the best party hostels across the country right now.
 
@@ -64,4 +64,4 @@ The Nimman area is where the trendier bars and late-night spots are, and several
 | Koh Phangan | USD 6-40 (Full Moon) | USD 30-80 |
 | Chiang Mai | USD 6-8 | USD 15-25 |
 
-Backpacking Thailand on USD 30 per day is still realistic in 2026 if you stick to hostels, eat [street food](/blog/thai-street-food-guide-2026/), and use local transport. The south coast and islands are the most expensive part, so plan your budget accordingly. Check the [Thailand budget daily costs guide](/blog/thailand-budget-2026-daily-costs/) for a city-by-city breakdown, and read up on [Thailand travel scams](/blog/thailand-travel-scams-2026/) to avoid common pitfalls. Before you go, confirm entry requirements with the [Thailand visa guide](/visa/).
+Backpacking Thailand on USD 30 per day is still realistic in 2026 if you stick to hostels, eat [street food](/blog/thai-street-food-guide-2026/), and use local transport. The south coast and islands are the most expensive part, so plan your budget accordingly. Check the [Thailand budget daily costs guide](/thailand-index/budget/) for a city-by-city breakdown, and read up on [Thailand travel scams](/blog/thailand-travel-scams-2026/) to avoid common pitfalls. Before you go, confirm entry requirements with the [Thailand visa guide](/visa/).

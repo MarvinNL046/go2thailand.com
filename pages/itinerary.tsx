@@ -594,7 +594,7 @@ export default function ItineraryPillarPage() {
                       )}
                       {item.question === 'Can I do Thailand on a budget in 2 weeks?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">{t("s147_full_thailand_budget_breakdown")}</Link>
+                          <Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline font-semibold">{t("s147_full_thailand_budget_breakdown")}</Link>
                         </p>
                       )}
                       {item.question === 'What is the best month for a Thailand trip?' && (

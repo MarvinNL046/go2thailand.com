@@ -63,7 +63,7 @@ Vis en zeevruchten zijn een voor de hand liggende keuze. Strandrestaurants serve
 ## Praktische Tips
 
 - **Beste reistijd:** November tot maart (droog seizoen) biedt de kalmste zee en het helderste water. Het eiland is het hele jaar bereikbaar, maar bootdiensten kunnen beperkt zijn tijdens stormen in het [regenseizoen](/blog/thailand-rainy-season-travel-tips-2026/). Voor Nederlandse reizigers is dit de ideale periode, met veilige en zonnige dagen.
-- **Neem contant geld mee.** Pinautomaten zijn er, maar beperkt. De meeste strandverkopers en kleine restaurants accepteren geen kaarten. Een [begroting voor Thailand](/blog/thailand-budget-2026-daily-costs/) helpt je schatten hoeveel je moet meenemen.
+- **Neem contant geld mee.** Pinautomaten zijn er, maar beperkt. De meeste strandverkopers en kleine restaurants accepteren geen kaarten. Een [begroting voor Thailand](/nl/thailand-index/budget/) helpt je schatten hoeveel je moet meenemen.
 - **Zonnebrand en water.** Er is weinig natuurlijke schaduw op de hoofdstranden. Neem reef-safe zonnebrand mee en blijf gehydrateerd – het wordt er heet.
 - **Snorkelspullen.** Je kunt maskers en vinnen huren op Ta Waen en Samae voor 100 tot 200 THB. Het koraal is niet ongerept, maar in de ondieptes zie je volop vis. Voor serieuze duik- en snorkeltrips elders in Thailand, check onze [gids beste duik- en snorkelplekken](/best-diving-snorkeling-in-thailand/).
 

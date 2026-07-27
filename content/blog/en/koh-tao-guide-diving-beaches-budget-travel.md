@@ -110,7 +110,7 @@ While diving dominates Koh Tao's reputation, the island's beaches are equally co
 
 ## 3. Budget Breakdown: How Much Does Koh Tao Cost?
 
-**Budget travel in Koh Tao** is absolutely possible, though prices have climbed since the island's diving boom. Here's what you can realistically expect in 2026. For a full picture of [daily travel costs across Thailand](/blog/how-much-2-weeks-thailand-cost-2026-budget/), see our detailed cost guide. The [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) also covers the cheapest ways to travel island to island.
+**Budget travel in Koh Tao** is absolutely possible, though prices have climbed since the island's diving boom. Here's what you can realistically expect in 2026. For a full picture of [daily travel costs across Thailand](/thailand-index/budget/), see our detailed cost guide. The [Thailand budget backpacker guide](/thailand-index/budget/) also covers the cheapest ways to travel island to island.
 
 ### Accommodation Costs
 

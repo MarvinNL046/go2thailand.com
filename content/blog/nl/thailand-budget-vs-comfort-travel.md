@@ -38,7 +38,7 @@ Na drie jaar in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) te hebbe
 
 ## 1. De echte levenskosten in Thailand begrijpen
 
-Toen we voor het eerst in Thailand aankwamen, dachten we dat alles spotgoedkoop zou zijn. De realiteit is genuanceerder: Thailand is écht betaalbaar, maar [prijzen in 2026 zijn gestegen](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) vergeleken met de backpackerdagen van de jaren 2010. Volgens recente reizigersdata varieert het gemiddelde dagbudget van **฿800–2.500 (€21–65) per persoon**, afhankelijk van of je in slaapzalen slaapt of in middenklasse hotels.
+Toen we voor het eerst in Thailand aankwamen, dachten we dat alles spotgoedkoop zou zijn. De realiteit is genuanceerder: Thailand is écht betaalbaar, maar [prijzen in 2026 zijn gestegen](https://go2-thailand.com/nl/thailand-index/budget/) vergeleken met de backpackerdagen van de jaren 2010. Volgens recente reizigersdata varieert het gemiddelde dagbudget van **฿800–2.500 (€21–65) per persoon**, afhankelijk van of je in slaapzalen slaapt of in middenklasse hotels.
 
 Het grote verschil zit niet in dat Thailand duur is – het zijn de toeristische gebieden die prijzen opdrijven. Een kom [pad Thai](https://go2-thailand.com/food/pad-thai/) kost ฿40 (€1,15) bij een straathandelaar in een lokale wijk, maar ฿150–200 (€4–6) op Khao San Road. Dat is 300% meer voor hetzelfde gerecht en dezelfde kok – alleen een andere locatie.
 
@@ -496,6 +496,6 @@ Bussen zijn het goedkoopst (฿200–500 voor lange afstanden). Treinen zijn iet
 
 Het echte geheim van reizen in Thailand: je kunt geweldig leven voor ฿1.500–2.000 per dag (€43–57). Dat is geen budgetreis – dat is comfortabel, authentiek reizen. Je eet beter, slaapt lekkerder en hebt meer energie om te verkennen dan als je elke baht zou knijpen.
 
-Klaar om je reis te plannen? Begin met onze gidsen voor [Bangkok](https://go2-thailand.com/city/bangkok/) of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), check de [Thailand eilandhop gids](https://go2-thailand.com/blog/thailand-island-hopping-guide/), lees [hoeveel 2 weken in Thailand kosten](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/) of bekijk [tips voor eerste keer Thailand](https://go2-thailand.com/blog/thailand-first-time-visitors-essential-guide-2026/).
+Klaar om je reis te plannen? Begin met onze gidsen voor [Bangkok](https://go2-thailand.com/city/bangkok/) of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), check de [Thailand eilandhop gids](https://go2-thailand.com/blog/thailand-island-hopping-guide/), lees [hoeveel 2 weken in Thailand kosten](https://go2-thailand.com/nl/thailand-index/budget/) of bekijk [tips voor eerste keer Thailand](https://go2-thailand.com/blog/thailand-first-time-visitors-essential-guide-2026/).
 
 We hebben dit geleefd. We kennen de echte kosten, de echte waarde en waar je geld naartoe gaat. Gebruik deze gids om slimmer te reizen – niet goedkoper, maar slimmer.

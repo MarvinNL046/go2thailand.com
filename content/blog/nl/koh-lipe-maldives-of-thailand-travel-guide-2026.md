@@ -54,7 +54,7 @@ Een steeds populairder alternatief is de ferry vanuit **Langkawi, Maleisië**, d
 
 ## Budgettips
 
-Koh Lipe is duurder dan sommige Thaise eilanden omdat alles per boot moet komen, maar het blijft zeer betaalbaar volgens internationale normen. Budgetguesthouses beginnen rond de 600-800 THB per nacht in het hoogseizoen, terwijl middenklasse strandbungalows 1.500-3.000 THB kosten. Bekijk [hotels in Satun](/best-hotels/satun/) voor opties in alle prijsklassen. Straatvoedsel op Walking Street kost 60-120 THB per gerecht, en een snorkeldagtocht is typisch 600-800 THB per persoon. Onze [Thailand budgetgids](/blog/thailand-budget-2026-daily-costs/) geeft een volledige uitsplitsing van dagelijkse kosten door het land.
+Koh Lipe is duurder dan sommige Thaise eilanden omdat alles per boot moet komen, maar het blijft zeer betaalbaar volgens internationale normen. Budgetguesthouses beginnen rond de 600-800 THB per nacht in het hoogseizoen, terwijl middenklasse strandbungalows 1.500-3.000 THB kosten. Bekijk [hotels in Satun](/best-hotels/satun/) voor opties in alle prijsklassen. Straatvoedsel op Walking Street kost 60-120 THB per gerecht, en een snorkeldagtocht is typisch 600-800 THB per persoon. Onze [Thailand budgetgids](/nl/thailand-index/budget/) geeft een volledige uitsplitsing van dagelijkse kosten door het land.
 
 ## Ecotoerisme en Duurzaamheid
 

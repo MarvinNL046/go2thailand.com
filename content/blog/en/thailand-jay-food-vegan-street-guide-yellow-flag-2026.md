@@ -36,7 +36,7 @@ Jay stalls are found in every major city and most smaller towns. They cluster ar
 
 ## What Does Jay Food Cost?
 
-This is where Jay food really shines for [budget travellers](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/). A plate of Jay rice with two or three toppings at a street stall typically costs **50 to 80 THB** (roughly 1.30 to 2.10 USD). Compare that to trendy vegan cafes in [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) that charge 250 THB and above for a single dish. For a full breakdown of what food costs in Thailand, see our [daily budget guide](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+This is where Jay food really shines for [budget travellers](https://go2-thailand.com/thailand-index/budget/). A plate of Jay rice with two or three toppings at a street stall typically costs **50 to 80 THB** (roughly 1.30 to 2.10 USD). Compare that to trendy vegan cafes in [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) that charge 250 THB and above for a single dish. For a full breakdown of what food costs in Thailand, see our [daily budget guide](https://go2-thailand.com/thailand-index/budget/).
 
 Common Jay dishes include:
 

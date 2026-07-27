@@ -55,6 +55,6 @@ Despite the challenges from long-haul markets, the domestic tourism season looks
 
 Absolutely. Thailand remains one of the safest and most welcoming destinations in Southeast Asia. The Middle East situation affects transit routes, not Thailand itself. Travelers from Europe may want to compare flight options and book early to secure the best fares. Those coming from Asia-Pacific countries will find travel largely unaffected.
 
-If you're weighing up when to go, the [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) covers seasonal weather and crowds. Planning your budget? See [how much two weeks in Thailand costs in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/). And for the biggest upcoming event in the country, don't miss [Tomorrowland Thailand 2026 in Pattaya](/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/) — 150,000 tickets sold out in under an hour.
+If you're weighing up when to go, the [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) covers seasonal weather and crowds. Planning your budget? See [how much two weeks in Thailand costs in 2026](/thailand-index/budget/). And for the biggest upcoming event in the country, don't miss [Tomorrowland Thailand 2026 in Pattaya](/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/) — 150,000 tickets sold out in under an hour.
 
 For the latest travel advisories, check your government's official travel guidance before booking.

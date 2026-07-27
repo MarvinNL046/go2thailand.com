@@ -33,7 +33,7 @@ Het korte antwoord: **november tot en met februari** is het **hoogseizoen** met 
 | Vraag | Antwoord |
 |-------|----------|
 | Wat is de **beste reistijd voor Thailand** over het algemeen? | **November tot februari** tijdens het **koele seizoen** -- perfect weer, lage luchtvochtigheid en ideaal voor [eilandhoppen](/blog/thailand-island-hopping-guide/) en steden verkennen |
-| Wanneer is de goedkoopste tijd om te gaan? | **Juni tot oktober** tijdens het **regenseizoen** biedt de laagste prijzen voor vluchten, hotels en tours -- zie onze [backpacker budgetgids](/blog/thailand-budget-backpacker-guide/) |
+| Wanneer is de goedkoopste tijd om te gaan? | **Juni tot oktober** tijdens het **regenseizoen** biedt de laagste prijzen voor vluchten, hotels en tours -- zie onze [backpacker budgetgids](/nl/thailand-index/budget/) |
 | Kun je tijdens de **moesson** nog naar de eilanden? | Ja -- de **Golfeilanden** zoals [Koh Samui](/islands/koh-samui/) en [Koh Tao](/islands/koh-tao/) hebben rustiger weer wanneer de Andaman-kust nat is |
 | Wanneer is het **beste eilandhop-seizoen**? | **December tot april** voor de Andamanse Zee ([Koh Phi Phi](/islands/koh-phi-phi/), [Koh Lanta](/islands/koh-lanta/), [Koh Lipe](/islands/koh-lipe/)); **januari tot augustus** voor de Golf -- ontdek alle [eilanden](/islands/) |
 | Wanneer zijn de grote festivals? | **Songkran** (Thais Nieuwjaar) in april en **Loy Krathong** (drijvende lantaarns) in november -- beide worden landsbreed gevierd, onder meer in [Bangkok](/city/bangkok/) en [Chiang Mai](/city/chiang-mai/) |
@@ -123,7 +123,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 ### September
 **Weer:** De natste maand, vooral aan de Andaman-kust. Af en toe overstromingen in laaggelegen gebieden.
 **Ideaal voor:** Budgetreizigers die niet bang zijn voor regen, cultureel toerisme in [Bangkok](/city/bangkok/)
-**Drukte:** Laagste van het jaar -- check onze [backpacker budgetgids](/blog/thailand-budget-backpacker-guide/) voor bespaartips
+**Drukte:** Laagste van het jaar -- check onze [backpacker budgetgids](/nl/thailand-index/budget/) voor bespaartips
 **Evenementen:** Het Vegetarisch Festival in [Phuket](/city/phuket/) (eind sep/begin okt) -- spectaculair en uniek
 
 ### Oktober

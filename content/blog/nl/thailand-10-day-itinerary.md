@@ -174,7 +174,7 @@ Bij een ochtendvlucht vlieg je de avond ervoor terug naar Bangkok en overnacht j
 | **Activiteiten/entreegelden** (totaal) | 2.000–4.000 THB (€57–114) | 5.000–10.000 THB (€143–286) | 15.000–30.000 THB (€429–857) |
 | **10-daags totaal** | €460–640 | €920–1.380 | €2.300–4.600+ |
 
-Deze bedragen sluiten internationale vluchten uit. Voor een gedetailleerd dagbudget, zie onze [Thailand budget gids](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+Deze bedragen sluiten internationale vluchten uit. Voor een gedetailleerd dagbudget, zie onze [Thailand budget gids](https://go2-thailand.com/nl/thailand-index/budget/).
 
 ---
 
@@ -198,7 +198,7 @@ Boek binnenlandse vluchten via [12Go Asia](https://12go.tpo.lv/tNA80urD) of dire
 - **Chiang Mai:** De Oude Stad brengt je op wandelafstand van tempels en restaurants. Guesthouses beginnen bij 400 THB/nacht.
 - **Krabi/Ao Nang:** Ao Nang heeft het breedste aanbod accommodatie. Railay Beach is duurder maar waardig voor een nacht vanwege de zonsopgang.
 
-Voor budgetvergelijkingen, check onze gids over [budget vs. comfortabel reizen in Thailand](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/).
+Voor budgetvergelijkingen, check onze gids over [budget vs. comfortabel reizen in Thailand](https://go2-thailand.com/nl/thailand-index/budget/).
 
 ---
 

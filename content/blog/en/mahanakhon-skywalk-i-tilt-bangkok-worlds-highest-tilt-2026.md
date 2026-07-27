@@ -54,4 +54,4 @@ Planning a longer trip? You can combine a morning here with an afternoon at the 
 
 If you're visiting with family, also check out the nearby [Thainosaur Museum](/blog/thainosaur-museum-bangkok-dinosaur-attraction-2026/) and the [Space Time Cube](/blog/space-time-cube-bangkok-immersive-metaverse-museum-2026/) for more unique Bangkok experiences. The [Bangkok Spectacular](/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/) along the Chao Phraya is another option worth considering on the same day.
 
-Wondering about the overall cost of your Bangkok visit? See our [Thailand travel costs guide for 2026](/blog/thailand-cheap-2026-travel-costs/) and our breakdown of [how much 2 weeks in Thailand costs](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+Wondering about the overall cost of your Bangkok visit? See our [Thailand travel costs guide for 2026](/thailand-index/budget/) and our breakdown of [how much 2 weeks in Thailand costs](/thailand-index/budget/).

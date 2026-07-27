@@ -377,7 +377,7 @@ Ja, maar gebruik gezond verstand. Vermijd 's nachts alleen lopen in onbekende ge
 
 ### Hoeveel moet ik budgetteren voor een 2-weekse trip?
 
-Budget 1.200-1.800 THB ($34-51 USD) dagelijks voor een comfortabele budgetreis, of 2.000-3.500 THB ($57-100 USD) voor mid-range. Dit omvat accommodatie, eten en activiteiten. Zie onze [kostengids](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/) voor gedetailleerde opsplitsingen.
+Budget 1.200-1.800 THB ($34-51 USD) dagelijks voor een comfortabele budgetreis, of 2.000-3.500 THB ($57-100 USD) voor mid-range. Dit omvat accommodatie, eten en activiteiten. Zie onze [kostengids](https://go2-thailand.com/nl/thailand-index/budget/) voor gedetailleerde opsplitsingen.
 
 ### Wanneer moet ik Thailand bezoeken?
 

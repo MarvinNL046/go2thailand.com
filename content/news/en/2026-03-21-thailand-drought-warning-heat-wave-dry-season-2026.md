@@ -63,7 +63,7 @@ If you're visiting Thailand between now and May:
 1. **Schedule around the heat**: outdoor activities in the morning, air-conditioned museums/malls midday, evening markets and dining after sunset
 2. **Choose southern/island destinations** over northern Thailand — the [burning season](https://go2-thailand.com/news/2026-03-21-chiang-mai-burning-season-air-quality-warning/) compounds the heat problem in Chiang Mai and surrounding provinces
 3. **Book accommodation with air conditioning** — this isn't the time to save money on fan-only rooms
-4. **Take advantage of low-season pricing** — accommodation and flights are [significantly cheaper](https://go2-thailand.com/blog/thailand-cheap-2026-travel-costs/) during the hot months
+4. **Take advantage of low-season pricing** — accommodation and flights are [significantly cheaper](https://go2-thailand.com/thailand-index/budget/) during the hot months
 5. **Carry a portable power bank** — you'll be using your phone more for air quality apps, maps, and ride-hailing to avoid walking in the heat
 
 The drought is a background concern for most tourists rather than an immediate crisis. Thailand's tourism infrastructure is designed for the hot season. But awareness of the conditions helps you make better decisions about where to go, when to be active, and how to stay comfortable.

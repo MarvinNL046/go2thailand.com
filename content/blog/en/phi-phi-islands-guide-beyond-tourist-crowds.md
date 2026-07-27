@@ -397,7 +397,7 @@ ATMs are available at Tonsai Village and most resorts, though withdrawal fees ar
 - **Mid-range:** 1,500–2,500 THB (decent hotel, restaurant meals, organized tours)
 - **Luxury:** 3,000+ THB (resort accommodation, fine dining, private boats)
 
-For a broader look at Thailand travel costs, our [Thailand budget guide 2026](/blog/thailand-budget-2026-daily-costs/) breaks down daily expenses across destinations. Also worth checking: the [Outrigger Phi Phi Island Resort review](/blog/outrigger-phi-phi-island-resort-barefoot-luxury-2026/) if you're considering a splurge stay on the island.
+For a broader look at Thailand travel costs, our [Thailand budget guide 2026](/thailand-index/budget/) breaks down daily expenses across destinations. Also worth checking: the [Outrigger Phi Phi Island Resort review](/blog/outrigger-phi-phi-island-resort-barefoot-luxury-2026/) if you're considering a splurge stay on the island.
 
 ### Internet and Connectivity
 

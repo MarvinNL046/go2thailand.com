@@ -229,7 +229,7 @@ ATM skimming is rarer but more serious. Scammers install card readers on ATMs to
 
 ### Safe Currency Practices
 
-**Withdraw cash from ATMs inside banks or shopping malls**, not street machines. Major banks (Bangkok Bank, Kasikornbank, Krungsri) have secure ATMs. Avoid money changers; use your bank's ATM or official exchange counters at airports and major malls. Check your bank balance regularly and report unauthorized transactions immediately. Consider using a travel-friendly card (Wise, Revolut) that offers fair exchange rates without ATM fees. See our full [Thailand budget and daily costs guide](/blog/thailand-budget-2026-daily-costs/) for managing money on the road.
+**Withdraw cash from ATMs inside banks or shopping malls**, not street machines. Major banks (Bangkok Bank, Kasikornbank, Krungsri) have secure ATMs. Avoid money changers; use your bank's ATM or official exchange counters at airports and major malls. Check your bank balance regularly and report unauthorized transactions immediately. Consider using a travel-friendly card (Wise, Revolut) that offers fair exchange rates without ATM fees. See our full [Thailand budget and daily costs guide](/thailand-index/budget/) for managing money on the road.
 
 ---
 

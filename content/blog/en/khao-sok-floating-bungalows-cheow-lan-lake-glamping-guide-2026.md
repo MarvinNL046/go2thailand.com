@@ -36,7 +36,7 @@ All floating bungalows share one thing: they are built on pontoons directly on t
 
 ## How to Book
 
-Because the lake is remote and requires a longtail boat transfer from the dam pier, nearly all visitors book a package tour rather than arranging things independently. Most two-day, one-night packages include transport from Khao Sok town, the boat transfer, all meals, a guided [kayak trip](/blog/best-kayaking-paddleboarding-spots-thailand-2026/) and a jungle trek. Prices typically range from around 2,500 THB for a basic package to 10,000 THB or more for luxury options. For context on what to budget overall, see our [Thailand daily costs guide for 2026](/blog/thailand-budget-2026-daily-costs/).
+Because the lake is remote and requires a longtail boat transfer from the dam pier, nearly all visitors book a package tour rather than arranging things independently. Most two-day, one-night packages include transport from Khao Sok town, the boat transfer, all meals, a guided [kayak trip](/blog/best-kayaking-paddleboarding-spots-thailand-2026/) and a jungle trek. Prices typically range from around 2,500 THB for a basic package to 10,000 THB or more for luxury options. For context on what to budget overall, see our [Thailand daily costs guide for 2026](/thailand-index/budget/).
 
 ## Best Time to Visit
 

@@ -24,7 +24,7 @@ sources:
 
 ## De Cijfers Spreken Voor Zich
 
-Een levenskostenstudie uit februari 2026 heeft [Chiang Mai](/city/chiang-mai/) uitgeroepen tot de meest betaalbare bestemming voor digital nomads ter wereld. Huur voor een comfortabel appartement begint onder €370 per maand, coworking-passen kosten slechts €78, en een vullende streetfood-maaltijd komt nog steeds onder €2 uit. Voor remote werkers die kwaliteit van leven willen zonder hun spaargeld te plunderen, blijft Noord-Thailand onverslaanbaar. Voor een volledige uitsplitsing van je dagelijkse uitgaven zijn de [Thailand dagbudget gids voor 2026](/blog/thailand-budget-2026-daily-costs/) en de [twee-weken kostenraming](/blog/how-much-2-weeks-thailand-cost-2026-budget/) handige startpunten.
+Een levenskostenstudie uit februari 2026 heeft [Chiang Mai](/city/chiang-mai/) uitgeroepen tot de meest betaalbare bestemming voor digital nomads ter wereld. Huur voor een comfortabel appartement begint onder €370 per maand, coworking-passen kosten slechts €78, en een vullende streetfood-maaltijd komt nog steeds onder €2 uit. Voor remote werkers die kwaliteit van leven willen zonder hun spaargeld te plunderen, blijft Noord-Thailand onverslaanbaar. Voor een volledige uitsplitsing van je dagelijkse uitgaven zijn de [Thailand dagbudget gids voor 2026](/nl/thailand-index/budget/) en de [twee-weken kostenraming](/nl/thailand-index/budget/) handige startpunten.
 
 ## Coworking Opties Zijn Vermenigvuldigd
 

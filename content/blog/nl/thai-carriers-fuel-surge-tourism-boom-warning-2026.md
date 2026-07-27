@@ -38,7 +38,7 @@ Thailandse carriers lobbyen voor [belastingverlichting op vliegtuigbrandstof](/b
 
 Ondanks de prijsstijgingen blijven vooruitboekingen voor het voorjaar en de zomer sterk. Directe vluchten van Europa naar Thailand, zoals vanaf Schiphol met KLM of Thai Airways, melden bezettingsgraden van 80 tot 90 procent, wat aangeeft dat de vraag robuust blijft, zelfs bij hogere prijzen.
 
-Toch moeten [budgetbewuste reizigers](/blog/thailand-budget-2026-daily-costs/) die in 2026 naar Thailand willen, rekening houden met de beste reistijd en veiligheid door de Midden-Oostenconflicten. Overweeg deze strategieën voor een veilige en betaalbare vakantie:
+Toch moeten [budgetbewuste reizigers](/nl/thailand-index/budget/) die in 2026 naar Thailand willen, rekening houden met de beste reistijd en veiligheid door de Midden-Oostenconflicten. Overweeg deze strategieën voor een veilige en betaalbare vakantie:
 
 - **Boek vroeg** om huidige prijzen vast te leggen voordat ze verder stijgen. Zoek naar [Songkran-vluchtkortingen](/blog/songkran-2026-airlines-discount-flights/) als je in april reist.
 - **Wees flexibel met data**, want vluchten doordeweeks zijn vaak goedkoper dan in het weekend.

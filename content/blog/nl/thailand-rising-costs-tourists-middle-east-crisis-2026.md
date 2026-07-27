@@ -22,7 +22,7 @@ sources:
     url: "https://www.thailandnews.co/2026/03/rising-fuel-costs-in-thailand-threaten-to-push-grocery-prices-higher/"
 ---
 
-Als je een vakantie in Thailand plant voor 2026, heb je misschien al gemerkt dat sommige prijzen stijgen. Het aanhoudende **Midden-Oostenconflict** heeft een golf-effect in Zuidoost-Azië, en Thailand ontkomt er niet aan. Hier is een praktische breakdown van wat er verandert en hoe je dat kunt omzeilen. Voor een vergelijking met normale reiskosten, check onze [Thailand budgetgids voor 2026](/blog/thailand-budget-2026-daily-costs/).
+Als je een vakantie in Thailand plant voor 2026, heb je misschien al gemerkt dat sommige prijzen stijgen. Het aanhoudende **Midden-Oostenconflict** heeft een golf-effect in Zuidoost-Azië, en Thailand ontkomt er niet aan. Hier is een praktische breakdown van wat er verandert en hoe je dat kunt omzeilen. Voor een vergelijking met normale reiskosten, check onze [Thailand budgetgids voor 2026](/nl/thailand-index/budget/).
 
 ## Vliegtickets: 10–15% duurder dan vorig jaar
 

@@ -24,7 +24,7 @@ sources:
 
 ## Wat is de Bib Gourmand?
 
-De Michelin Bib Gourmand is een aanduiding voor restaurants die uitstekend eten serveren tegen matige prijzen. In Thailand betekent dat meestal een complete maaltijd voor onder de 1.000 THB (ongeveer €26). Terwijl Michelin-sterren de headlines halen, is de Bib Gourmand-lijst waarschijnlijk nuttiger voor alledaagse reizigers die op zoek zijn naar écht top eten zonder de prijs van fine dining. Wil je je maaltijden hieromheen plannen? Check dan eerst onze [Thailand budget gids](/blog/thailand-budget-2026-daily-costs/) om precies te weten hoeveel je per dag moet reserveren voor eten.
+De Michelin Bib Gourmand is een aanduiding voor restaurants die uitstekend eten serveren tegen matige prijzen. In Thailand betekent dat meestal een complete maaltijd voor onder de 1.000 THB (ongeveer €26). Terwijl Michelin-sterren de headlines halen, is de Bib Gourmand-lijst waarschijnlijk nuttiger voor alledaagse reizigers die op zoek zijn naar écht top eten zonder de prijs van fine dining. Wil je je maaltijden hieromheen plannen? Check dan eerst onze [Thailand budget gids](/nl/thailand-index/budget/) om precies te weten hoeveel je per dag moet reserveren voor eten.
 
 De **lijst van 2026 omvat 137 restaurants** door heel Thailand, met **13 nieuwkomers** die toetreden. Bekijk ook onze volledige [Thailand Michelin Guide 2026 sterren samenvatting](/blog/thailand-michelin-guide-2026-new-stars-suhring/) voor de met sterren bekroonde restaurants die bij dezelfde ceremonie zijn aangekondigd.
 
@@ -57,5 +57,5 @@ Voor eten-gerichte reizigers creëert het combineren van de Bib Gourmand-lijst m
 - **Nachtmarkten:** Onze [beste nachtmarkten in Bangkok gids](/blog/best-night-markets-bangkok-2026/) en [nachtmarkten voor food lovers](/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/) behandelen de topplekken in de hoofdstad, Chiang Mai en Phuket.
 - **Straats eten overzicht:** De [Thaise straats eten gids 2026](/blog/thai-street-food-guide-2026/) legt gerechten, prijzen en locaties uit – een perfecte metgezel voor de Bib Gourmand-lijst.
 - **Bangkok's beste restaurants:** Bekijk de [Bangkok Top Tables 2026 awards](/blog/bangkok-top-tables-2026-best-restaurants-awards/) voor een breder beeld van de eetscène in de stad buiten Michelin om.
-- **Budget context:** Onze [Thailand budget 2026 gids](/blog/thailand-budget-2026-daily-costs/) toont dat een volledige dag eten bij Bib Gourmand-restaurants nog steeds goed haalbaar is voor backpackers en middenklasse-reizigers.
+- **Budget context:** Onze [Thailand budget 2026 gids](/nl/thailand-index/budget/) toont dat een volledige dag eten bij Bib Gourmand-restaurants nog steeds goed haalbaar is voor backpackers en middenklasse-reizigers.
 - **Verplaatsen:** Gebruik de [Bangkok openbaar vervoer gids](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) om tussen Bib Gourmand-restaurants door de stad te hoppen zonder te veel te betalen voor taxi's.

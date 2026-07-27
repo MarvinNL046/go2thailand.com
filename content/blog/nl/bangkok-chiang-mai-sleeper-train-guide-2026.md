@@ -75,7 +75,7 @@ Je kunt ook direct boeken bij **Hua Lamphong station** of via de SRT-website, al
 
 ## Is het de moeite waard?
 
-Voor minder dan 1.100 baht voor een 2e klas bed is de [nachttrein van Bangkok naar Chiang Mai](/transport/bangkok-to-chiang-mai/) een van de beste [reiskoopjes van Zuidoost-Azië](/blog/thailand-budget-backpacker-guide/). Je bespaart een hotel, vermijdt twee taxiritten naar vliegvelden, verkleint je CO2-voetafdruk en komt in Chiang Mai aan met een verhaal om te vertellen. Voor de meeste bezoekers is het antwoord een volmondig ja.
+Voor minder dan 1.100 baht voor een 2e klas bed is de [nachttrein van Bangkok naar Chiang Mai](/transport/bangkok-to-chiang-mai/) een van de beste [reiskoopjes van Zuidoost-Azië](/nl/thailand-index/budget/). Je bespaart een hotel, vermijdt twee taxiritten naar vliegvelden, verkleint je CO2-voetafdruk en komt in Chiang Mai aan met een verhaal om te vertellen. Voor de meeste bezoekers is het antwoord een volmondig ja.
 
 Plan je een langere reis door Noord-Thailand, overweeg dan je trip uit te breiden naar [Chiang Rai](/destinations/chiang-rai/) of zelfs [Pai](/destinations/pai/) — beide zijn makkelijke vervolgverbindingen vanuit Chiang Mai. Je kunt de nachttrein ook vergelijken met de [Blue Jasmine luxetrein](/blog/blue-jasmine-luxury-train-bangkok-chiang-mai-2026/) als je een premium treinervaring zoekt. Voor andere vervoersopties op deze corridor, zie de volledige [transportgids Bangkok - Chiang Mai](/transport/bangkok-to-chiang-mai/). Reizigers die na hun noordelijke rondje doortrekken naar het zuiden kunnen routes als [Chiang Mai naar Koh Samui](/transport/chiang-mai-to-koh-samui/) of [Chiang Mai naar Krabi](/transport/chiang-mai-to-krabi/) bekijken voor de volgende etappe.
 

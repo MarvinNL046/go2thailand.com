@@ -456,7 +456,7 @@ Thailand is affordable, but costs vary widely by region, season, and travel styl
 | **Miscellaneous** | 200–400 | $6–11 | Souvenirs, snacks, tips |
 | **TOTAL** | 2,900–5,700 | $81–159 | Per person, per day |
 
-**For a family of 4 for 10 days:** Budget 116,000–228,000 THB ($3,200–6,400 USD). This includes flights from Europe/North America (typically $600–1,200 per person round-trip). For a detailed budget overview, check our [2 weeks in Thailand cost guide](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+**For a family of 4 for 10 days:** Budget 116,000–228,000 THB ($3,200–6,400 USD). This includes flights from Europe/North America (typically $600–1,200 per person round-trip). For a detailed budget overview, check our [2 weeks in Thailand cost guide](/thailand-index/budget/).
 
 ### Money-Saving Tips
 

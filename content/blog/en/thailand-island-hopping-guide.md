@@ -35,7 +35,7 @@ Thailand is home to over 1,400 islands scattered across the **Gulf of Thailand**
 | What are the two main routes? | Thailand has a **Gulf of Thailand** route (east coast) and an **Andaman Sea** route (west coast) -- browse all [island guides](/islands/) to compare |
 | How do you get between islands? | By **ferry**, **speedboat**, or **longtail boat** -- see our full [transport overview](/transport/) for all options |
 | When is the best time to go? | **December to April** works for most islands; check the [Thailand weather guide](/weather/) for month-by-month detail |
-| How much does island hopping cost? | Budget travellers spend **700-1,750 THB per day**; read our [backpacker budget guide](/blog/thailand-budget-backpacker-guide/) for savings tips |
+| How much does island hopping cost? | Budget travellers spend **700-1,750 THB per day**; read our [backpacker budget guide](/thailand-index/budget/) for savings tips |
 | Do I need a visa? | Most nationalities get 60 days visa-free -- see the [Thailand visa guide 2026](/visa/) for full details |
 | Is travel insurance necessary? | Yes -- **diving**, **snorkelling**, and boat travel require proper cover; compare plans in our [travel insurance guide](/travel-insurance-thailand/) |
 | How do I stay connected on islands? | Buy a **Thai eSIM** before you go (we recommend [Saily](https://saily.tpo.lv/rf9lidnE)) for data on every island -- see our [eSIM guide](/esim/) |
@@ -117,7 +117,7 @@ Here is what a typical day of **island hopping** costs for a budget traveller:
 | Activities | 0-500 | 500-1,500 |
 | **Daily total** | **700-1,750** | **2,150-4,500** |
 
-For a two-week **island hopping** trip, budget travellers can expect to spend around **15,000-25,000 THB** (roughly 400-700 USD), not including flights to Thailand. Check our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) for more money-saving tips. Island [food](/food/) is slightly pricier than the mainland, but street stalls near ferry piers still offer meals for 60-80 THB.
+For a two-week **island hopping** trip, budget travellers can expect to spend around **15,000-25,000 THB** (roughly 400-700 USD), not including flights to Thailand. Check our [Thailand budget backpacker guide](/thailand-index/budget/) for more money-saving tips. Island [food](/food/) is slightly pricier than the mainland, but street stalls near ferry piers still offer meals for 60-80 THB.
 
 ## 5. Packing Essentials for Island Hopping
 

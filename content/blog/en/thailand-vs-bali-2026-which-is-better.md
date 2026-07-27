@@ -71,7 +71,7 @@ You're standing at a crossroads: **Thailand vs Bali**—two of Southeast Asia's 
 - **Flights**: Both destinations have similar international flight costs (USD 400–800 from North America/Europe). Bali may have slightly cheaper regional connections from Australia.
 - **Accommodation**: Thailand's [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) offers exceptional value (USD 8–15/night for quality guesthouses). Bali's Ubud is pricier (USD 15–25/night for similar quality).
 - **Food**: Both are cheap, but Thailand's street food is marginally cheaper and more abundant.
-- **Activities**: Thailand's tours ([snorkeling](https://klook.tpo.lv/7Dt6WApj), cooking classes, temple visits) average USD 15–40. Bali's are similar, though some adventure activities (rafting, diving) cost more. For a detailed Thailand budget breakdown, see our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/).
+- **Activities**: Thailand's tours ([snorkeling](https://klook.tpo.lv/7Dt6WApj), cooking classes, temple visits) average USD 15–40. Bali's are similar, though some adventure activities (rafting, diving) cost more. For a detailed Thailand budget breakdown, see our [Thailand budget guide](/thailand-index/budget/).
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

@@ -119,7 +119,7 @@ The Full Moon Party itself is cheap. The surrounding logistics are what add up. 
 
 If you travel around a Full Moon Party date, compare ferry connections in our [Thailand transport guide](/transport/) and shortlist your base with the [Koh Phangan island guide](/islands/koh-phangan/). Availability changes quickly around event dates, so confirm the live fare and booking terms before paying.
 
-Stretching the trip to a week of backpacker travel? Our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) breaks down daily costs for a proper multi-island loop.
+Stretching the trip to a week of backpacker travel? Our [Thailand budget backpacker guide](/thailand-index/budget/) breaks down daily costs for a proper multi-island loop.
 
 ## Accommodation: Book Early or Sleep on the Beach
 
@@ -219,4 +219,4 @@ If you are looking for a chilled beach, quality music, or cultural depth, this i
 
 Either way, Koh Phangan itself is worth 3 to 5 nights regardless of whether you party. Waterfalls, viewpoints, yoga retreats in Sri Thanu, and some of the best snorkeling in the Gulf of Thailand are all waiting past the Haad Rin chaos.
 
-Plan the rest of your trip with our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) and make a considered safety call using [Is Thailand safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/).
+Plan the rest of your trip with our [Thailand budget backpacker guide](/thailand-index/budget/) and make a considered safety call using [Is Thailand safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/).

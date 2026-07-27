@@ -30,7 +30,7 @@ Deze trend bouwt al jaren op, maar 2026 is het jaar waarin de branche het helema
 
 Thailand scoort consistent als een van de meest solo-vriendelijke landen in Azië, en de redenen zijn praktisch:
 
-- **Kosten:** Een comfortabele solodag in Thailand kost tussen de 1.500 en 3.000 baht (ruim €40 tot €85), inclusief overnachting, eten en lokaal vervoer. Bekijk onze [dagbudget-uitwerking voor 2026](/blog/thailand-budget-2026-daily-costs/) voor een gedetailleerd overzicht.
+- **Kosten:** Een comfortabele solodag in Thailand kost tussen de 1.500 en 3.000 baht (ruim €40 tot €85), inclusief overnachting, eten en lokaal vervoer. Bekijk onze [dagbudget-uitwerking voor 2026](/nl/thailand-index/budget/) voor een gedetailleerd overzicht.
 - **Infrastructuur:** Nachttreinen, binnenlandse vluchten en ferry-netwerken verbinden alle regio's zonder dat je een auto nodig hebt. De [slaaptrein van Bangkok naar Chiang Mai](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) is een klassieker voor solo reizigers.
 - **Veiligheid:** Thailand blijft een van de veiligste bestemmingen in Zuidoost-Azië voor onafhankelijke reizigers, met een goed ontwikkelde toeristenpolitie. Solo vrouwen kunnen onze speciale [veiligheidstips raadplegen](/blog/solo-female-travel-thailand-safety-tips/), vooral als je je zorgen maakt over het regenseizoen of nachtelijke uitjes.
 - **Sociale sfeer:** [Hostels](/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/), co-working cafés en groepsactiviteiten zoals [kooklessen](/blog/thai-cooking-classes-chiang-mai/) en duikcursussen maken het eenvoudig om andere reizigers te ontmoeten.

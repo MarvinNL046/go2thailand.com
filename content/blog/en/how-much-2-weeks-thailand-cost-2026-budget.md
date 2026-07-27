@@ -437,7 +437,7 @@ Costs vary dramatically by location:
 - **Islands:** Mid-range (฿1,200–2,000/day mid-range)
 - **Isaan region:** Very cheap (฿600–1,200/day mid-range)
 
-Spend more time in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or the [northern region](https://go2-thailand.com/region/northern/) to stretch your budget. Our [budget vs. comfort travel comparison](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) breaks down the real trade-offs.
+Spend more time in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or the [northern region](https://go2-thailand.com/region/northern/) to stretch your budget. Our [budget vs. comfort travel comparison](https://go2-thailand.com/thailand-index/budget/) breaks down the real trade-offs.
 
 ### Food Hacks
 

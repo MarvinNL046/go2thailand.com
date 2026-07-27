@@ -185,7 +185,7 @@ Hier een realistisch overzicht voor de volledige 10–14 daagse route (exclusief
 | **Totaal 10 dagen** | €320–550 | €740–1.660 | €1.850–4.150 |
 | **Totaal 14 dagen** | €460–780 | €1.000–2.300 | €2.600–5.550 |
 
-Voor een gedetailleerd dagbudget, check onze [Thailand budgetgids](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+Voor een gedetailleerd dagbudget, check onze [Thailand budgetgids](https://go2-thailand.com/nl/thailand-index/budget/).
 
 ## Wat Vooraf Boeken vs. Ter Plekke
 

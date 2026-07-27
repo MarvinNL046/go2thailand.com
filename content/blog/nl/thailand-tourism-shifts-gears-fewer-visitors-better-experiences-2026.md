@@ -48,7 +48,7 @@ Voor reizigers die hun [eerste reis naar Thailand overwegen](/blog/thailand-firs
 
 Tegelijkertijd zorgt de druk op hogere kwaliteit voor meer investeringen in infrastructuur, beter opgeleide gidsen en een breder aanbod aan samengestelde routes. Verschillende [langeafstandsroutes zijn uitgebreid](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/): in 2025 passeerde Thailand voor het eerst de mijlpaal van **10 miljoen langeafstandsbezoekers** in één jaar, met alleen al meer dan een miljoen uit het Verenigd Koninkrijk.
 
-Voordat je boekt, check dan de [nieuwste Thailand visumgids voor 2026](/blog/thailand-visa-guide-2026/) en krijg een idee van [realistische dagelijkse reiskosten](/blog/thailand-budget-2026-daily-costs/). Houd ook rekening met de beste reistijd om het regenseizoen te vermijden.
+Voordat je boekt, check dan de [nieuwste Thailand visumgids voor 2026](/blog/thailand-visa-guide-2026/) en krijg een idee van [realistische dagelijkse reiskosten](/nl/thailand-index/budget/). Houd ook rekening met de beste reistijd om het regenseizoen te vermijden.
 
 ## De Boodschap
 

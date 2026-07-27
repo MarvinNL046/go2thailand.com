@@ -433,7 +433,7 @@ Kosten variëren sterk per locatie:
 - **Eilanden:** Middenklasse (฿1.200–2.000/dag middenklasse)
 - **Isaan regio:** Zeer goedkoop (฿600–1.200/dag middenklasse)
 
-Breng meer tijd door in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) of de [noordelijke regio](https://go2-thailand.com/region/northern/) om je budget te rekken. Onze [vergelijking budget vs. comfort travel](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) zet de echte afwegingen op een rij.
+Breng meer tijd door in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) of de [noordelijke regio](https://go2-thailand.com/region/northern/) om je budget te rekken. Onze [vergelijking budget vs. comfort travel](https://go2-thailand.com/nl/thailand-index/budget/) zet de echte afwegingen op een rij.
 
 ### Eten trucs
 

@@ -69,7 +69,7 @@ Voor meer context over Thailands bredere verantwoord toerismebeweging, zie de [T
 
 ## Aan de slag gaan
 
-De meeste programma's accepteren online aanmeldingen en eisen alleen basisconditie en bereidheid om buiten te werken. Kosten variëren van rond de €460 per week (inclusief accommodatie en maaltijden) tot duurdere onderzoekstages. Boek minstens twee tot drie maanden vooruit voor piekseizoenplekken. Bekijk onze [Thailand budget gids 2026](/blog/thailand-budget-2026-daily-costs/) om vrijwilligerskosten op te nemen in je totale reisbudget.
+De meeste programma's accepteren online aanmeldingen en eisen alleen basisconditie en bereidheid om buiten te werken. Kosten variëren van rond de €460 per week (inclusief accommodatie en maaltijden) tot duurdere onderzoekstages. Boek minstens twee tot drie maanden vooruit voor piekseizoenplekken. Bekijk onze [Thailand budget gids 2026](/nl/thailand-index/budget/) om vrijwilligerskosten op te nemen in je totale reisbudget.
 
 Of je nu een week zee-schildpadden volgt in Trang of een maand helpt met geredde gibbons in Phetchaburi, wildlife-vrijwilligerswerk is een van de meest lonende manieren om Thailand te ervaren voorbij de stranden en tempels. Voor de welzijnsgerichte reiziger: combineer dit met een programma in een van de [beste wellness retreats in Thailand](/blog/best-wellness-retreats-thailand-2026/), of ontdek eco-luxury opties zoals het [Visama Explorer Nan tentenkamp](/blog/visama-explorer-nan-eco-glamping-tented-camp-2026/) in het afgelegen noorden.
 ---

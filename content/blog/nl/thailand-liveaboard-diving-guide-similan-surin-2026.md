@@ -53,7 +53,7 @@ De grote lancering dit seizoen is de **MV DiveRACE Class X**, een 35 meter lang 
 
 ## Budget
 
-Liveaboards in Thailand behoren tot de betaalbaarste ter wereld. Een vier-nachten trip op een middenklasse boot begint bij ongeveer 20.000-25.000 THB (rond de € 500-650), exclusief huur van uitrusting en nationale parkfees. Premium boten zoals de DiveRACE Class X liggen aan de hogere kant, maar blijven concurrerend vergeleken met bestemmingen als de Malediven of Raja Ampat. Voor een volledig beeld van de [Thailand-reiskosten in 2026](/blog/thailand-budget-2026-daily-costs/) en een [twee-weken kostenoverzicht](/blog/how-much-2-weeks-thailand-cost-2026-budget/), bekijk onze gids – met tips voor budgetreizigers vanuit Nederland.
+Liveaboards in Thailand behoren tot de betaalbaarste ter wereld. Een vier-nachten trip op een middenklasse boot begint bij ongeveer 20.000-25.000 THB (rond de € 500-650), exclusief huur van uitrusting en nationale parkfees. Premium boten zoals de DiveRACE Class X liggen aan de hogere kant, maar blijven concurrerend vergeleken met bestemmingen als de Malediven of Raja Ampat. Voor een volledig beeld van de [Thailand-reiskosten in 2026](/nl/thailand-index/budget/) en een [twee-weken kostenoverzicht](/nl/thailand-index/budget/), bekijk onze gids – met tips voor budgetreizigers vanuit Nederland.
 
 ## Tips voor beginners
 

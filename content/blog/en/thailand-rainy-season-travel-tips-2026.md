@@ -42,7 +42,7 @@ The key insight is that rain usually arrives in short, heavy bursts in the late 
 
 ## Why the Rainy Season Is Worth It
 
-**Lower costs.** Hotels, flights and tour packages drop significantly in the off-season. Budget travelers can stretch their money much further. See our [Thailand budget guide for 2026](/blog/thailand-budget-2026-daily-costs/) for a full breakdown of daily expenses.
+**Lower costs.** Hotels, flights and tour packages drop significantly in the off-season. Budget travelers can stretch their money much further. See our [Thailand budget guide for 2026](/thailand-index/budget/) for a full breakdown of daily expenses.
 
 **Fewer tourists.** Popular spots like the [Grand Palace](/city/bangkok/attractions/grand-palace/), [Wat Pho](/city/bangkok/attractions/wat-pho/) and Railay Beach are noticeably quieter. You will spend less time waiting in lines and more time actually enjoying the sights.
 

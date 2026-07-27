@@ -467,7 +467,7 @@ export default function BestTimeToVisitPage() {
                       However, these months also bring the lowest prices of the year. Hotels that charge &#3647;5,000 per night in January might drop to &#3647;2,000 or less. If you are a budget-conscious traveler who does not mind some rain, September and October offer remarkable value. Focus on <Link href="/city/bangkok/" className="text-thailand-blue hover:underline">Bangkok</Link> (where you can duck into temples, malls, and restaurants during downpours), or head to the Gulf coast, keeping in mind that the Gulf&apos;s own rainy season kicks in around October.
                     </p>
                     <p className="text-gray-700 leading-relaxed">
-                      For more on making the most of a <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline">budget Thailand trip</Link>, including daily cost breakdowns by season, see our dedicated budget guide.
+                      For more on making the most of a <Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline">budget Thailand trip</Link>, including daily cost breakdowns by season, see our dedicated budget guide.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
                       <p><strong>Weather:</strong> {t("s099_heaviest_rainfall_nationwide_andaman")}</p>
@@ -658,7 +658,7 @@ export default function BestTimeToVisitPage() {
                       <p className="text-gray-700 leading-relaxed">{item.answer}</p>
                       {item.question === 'When is the cheapest time to visit Thailand?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">{t("s151_full_thailand_budget_breakdown")}</Link>
+                          <Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline font-semibold">{t("s151_full_thailand_budget_breakdown")}</Link>
                         </p>
                       )}
                     </div>

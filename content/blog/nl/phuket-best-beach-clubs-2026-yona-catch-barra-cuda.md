@@ -54,7 +54,7 @@ De sfeer is stijlvol maar ontspannen, waardoor Fira ideaal is voor koppels of kl
 
 ## Praktische Tips
 
-- **Budget:** Entreegelden variëren van gratis (Catch, met minimum besteding) tot ongeveer 1.000-2.000 THB voor plekken als Fira en Yona. Bekijk onze [Thailand budgetgids](/blog/thailand-budget-2026-daily-costs/) voor meer context over kosten.
+- **Budget:** Entreegelden variëren van gratis (Catch, met minimum besteding) tot ongeveer 1.000-2.000 THB voor plekken als Fira en Yona. Bekijk onze [Thailand budgetgids](/nl/thailand-index/budget/) voor meer context over kosten.
 - **Wanneer gaan:** Kom laat in de middag voor de mooiste zonsondergangen. Yona en Barra Cuda komen pas echt tot leven na donker. Check de [beste reistijd voor Phuket](/city/phuket/best-time-to-visit/) voordat je plant, vooral om het regenseizoen te vermijden.
 - **Wat aantrekken:** Smart casual is de norm. De meeste clubs hanteren een geen-voetbalshirts-regel.
 - **Boeken:** Reserveer dagbedden en cabana's ruim van tevoren tijdens het hoogseizoen (november tot maart), vooral bij Catch en Yona. Blader door [Phuket hotels](/best-hotels/phuket/) in de buurt om de reistijd kort te houden – handig na een directe vlucht vanaf Schiphol.

@@ -34,7 +34,7 @@ De aantrekkingskracht van Bangkok op internationale reizigers groeit door versch
 
 - **Streetfood en restaurantscene** — van [Michelinrestaurants](/blog/thailand-michelin-guide-2026-new-stars-suhring/) tot legendarische [streetfoodstalletjes](/blog/bangkok-street-food-beginners/), Bangkok heeft een van de meest diverse culinaire scenes van Azië
 - **Cultureel erfgoed** — historische tempels als [Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/) en [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) staan naast moderne galeries en creatieve buurten
-- **Waar voor je geld** — vergeleken met Tokio en Singapore biedt Bangkok topervaringen tegen een fractie van de prijs — zie onze [Thailand budget 2026-gids](/blog/thailand-budget-2026-daily-costs/)
+- **Waar voor je geld** — vergeleken met Tokio en Singapore biedt Bangkok topervaringen tegen een fractie van de prijs — zie onze [Thailand budget 2026-gids](/nl/thailand-index/budget/)
 - **Bereikbaarheid** — luchthavens Suvarnabhumi en Don Mueang zijn belangrijke hubs met directe vluchten vanuit Schiphol (KLM vliegt in ongeveer 11 uur), en de [BTS en MRT](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) maken reizen door de stad simpel
 
 ## Meer dan alleen een stedentrip

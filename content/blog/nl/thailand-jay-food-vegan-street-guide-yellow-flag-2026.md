@@ -36,7 +36,7 @@ Jay-stalletjes vind je in elke grote stad en de meeste kleinere plaatsen. Ze clu
 
 ## Hoeveel Kost Jay Food?
 
-Hier schittert jay food echt voor [budgetreizigers](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/), ideaal voor een voordelige Thailand-vakantie. Een bord jay-rijst met twee of drie toppings bij een straatkraampje kost doorgaans **50 tot 80 THB** (ruwweg €1,20 tot €1,95). Vergelijk dat eens met hippe vegan cafés in [Bangkok](https://go2-thailand.com/city/bangkok/) of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) die 250 THB of meer rekenen voor één gerecht. Voor een volledige uitsplitsing van eetkosten in Thailand, zie onze [dagbudget-gids](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+Hier schittert jay food echt voor [budgetreizigers](https://go2-thailand.com/nl/thailand-index/budget/), ideaal voor een voordelige Thailand-vakantie. Een bord jay-rijst met twee of drie toppings bij een straatkraampje kost doorgaans **50 tot 80 THB** (ruwweg €1,20 tot €1,95). Vergelijk dat eens met hippe vegan cafés in [Bangkok](https://go2-thailand.com/city/bangkok/) of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) die 250 THB of meer rekenen voor één gerecht. Voor een volledige uitsplitsing van eetkosten in Thailand, zie onze [dagbudget-gids](https://go2-thailand.com/nl/thailand-index/budget/).
 
 Typische jay-gerechten zijn onder meer:
 

@@ -61,7 +61,7 @@ Tussen januari en maart 2026 registreerde Thailand [**7,49 miljoen international
 
 Als je in 2026 Thailand bezoekt, verwacht dan meer samengestelde ervaringen, hogere duurzaamheidsnormen en actieve promotie van bestemmingen buiten de gebaande paden. Het nieuwe **Trusted Thailand Safe Travel Stamp** van TAT, dat in augustus 2026 start, helpt bezoekers bedrijven te herkennen die voldoen aan veiligheids-, toegankelijkheids- en servicenormen – ideaal voor families of solo-reizigers uit Nederland.
 
-Belangrijk om te weten: als onderdeel van deze focus op kwaliteit boven kwantiteit introduceert Thailand een [toeristeninvoertarief van 300 baht](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) om eco-toerisme en bezoekersveiligheid te financieren. Als je budgetteert voor een reis, bekijk onze [Thailand-reiskosten gids voor 2026](/blog/thailand-budget-2026-daily-costs/).
+Belangrijk om te weten: als onderdeel van deze focus op kwaliteit boven kwantiteit introduceert Thailand een [toeristeninvoertarief van 300 baht](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) om eco-toerisme en bezoekersveiligheid te financieren. Als je budgetteert voor een reis, bekijk onze [Thailand-reiskosten gids voor 2026](/nl/thailand-index/budget/).
 
 Thailand gokt op kwaliteit boven kwantiteit – en voor reizigers kan dat een betere ervaring opleveren. Begin met plannen via onze [ultieme Thailand-reisroute voor 2026](/blog/ultimate-thailand-itinerary-2026/).
 ---

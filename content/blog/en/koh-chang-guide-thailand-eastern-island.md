@@ -244,7 +244,7 @@ For a more immersive experience, the trek to the upper pools of Khlong Plu invol
 
 ## 6. Where to Stay: Accommodation for Every Budget
 
-**Koh Chang** offers excellent accommodation options across all price ranges, from basic backpacker bungalows to luxury beachfront resorts. Most accommodation is concentrated along the western beaches, with Hat Sai Khao and Hat Kai Muk offering the widest selection. For help budgeting your stay, our [Thailand daily costs guide for 2026](/blog/thailand-budget-2026-daily-costs/) breaks down typical expenses island by island.
+**Koh Chang** offers excellent accommodation options across all price ranges, from basic backpacker bungalows to luxury beachfront resorts. Most accommodation is concentrated along the western beaches, with Hat Sai Khao and Hat Kai Muk offering the widest selection. For help budgeting your stay, our [Thailand daily costs guide for 2026](/thailand-index/budget/) breaks down typical expenses island by island.
 
 ### Budget Accommodation (500–1,500 THB / $14–42 USD per night)
 

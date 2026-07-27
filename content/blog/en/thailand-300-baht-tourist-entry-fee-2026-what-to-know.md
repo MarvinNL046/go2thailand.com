@@ -24,7 +24,7 @@ sources:
 
 Thailand is introducing a 300 baht (roughly 8 to 9 USD) entry fee for all foreign nationals arriving in the country. The charge applies regardless of whether you enter by air, land, or sea. Originally approved in principle by the Thai Cabinet in February 2023, the fee has been delayed several times and is now expected to go live in the second or third quarter of 2026.
 
-If you are [planning a trip to Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) later this year, factor this small but notable addition into your [travel budget](/blog/thailand-budget-2026-daily-costs/).
+If you are [planning a trip to Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) later this year, factor this small but notable addition into your [travel budget](/thailand-index/budget/).
 
 ## Where Does the Money Go?
 
@@ -42,7 +42,7 @@ Details on the exact collection method are still being finalized. Earlier propos
 
 ## Should You Be Worried?
 
-At around 8 to 9 USD, the fee is modest compared to similar charges in other countries. Bhutan charges a daily Sustainable Development Fee, and several Caribbean nations collect departure taxes that are far higher. For most visitors, this will barely register against the [cost of flights and accommodation](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+At around 8 to 9 USD, the fee is modest compared to similar charges in other countries. Bhutan charges a daily Sustainable Development Fee, and several Caribbean nations collect departure taxes that are far higher. For most visitors, this will barely register against the [cost of flights and accommodation](/thailand-index/budget/).
 
 ## The Bigger Picture
 

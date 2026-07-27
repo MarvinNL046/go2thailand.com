@@ -244,7 +244,7 @@ Voor een intensievere ervaring omvat de trek naar de bovenste poelen van Khlong 
 
 ## 6. Waar Te Verblijven: Accommodatie voor Elk Budget
 
-**Koh Chang** biedt uitstekende accommodatiemogelijkheden in alle prijsklassen, van basis backpacker bungalows tot luxe strandresorts. De meeste opties liggen langs de westelijke stranden, met Hat Sai Khao en Hat Kai Muk die de grootste keuze bieden. Voor hulp bij je budget, breekt onze [dagelijkse kosten gids voor Thailand in 2026](/blog/thailand-budget-2026-daily-costs/) de typische uitgaven per eiland af.
+**Koh Chang** biedt uitstekende accommodatiemogelijkheden in alle prijsklassen, van basis backpacker bungalows tot luxe strandresorts. De meeste opties liggen langs de westelijke stranden, met Hat Sai Khao en Hat Kai Muk die de grootste keuze bieden. Voor hulp bij je budget, breekt onze [dagelijkse kosten gids voor Thailand in 2026](/nl/thailand-index/budget/) de typische uitgaven per eiland af.
 
 ### Budget Accommodatie (500–1.500 THB / €14–42 per nacht)
 

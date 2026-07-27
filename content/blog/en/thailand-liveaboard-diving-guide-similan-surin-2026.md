@@ -53,7 +53,7 @@ The headline launch this season is the **MV DiveRACE Class X**, a 35-metre steel
 
 ## Budget
 
-Thailand liveaboards are among the most affordable in the world. A four-night trip on a mid-range boat starts at roughly 20,000-25,000 THB (around 550-700 USD), excluding equipment rental and national park fees. Premium boats like the DiveRACE Class X sit at the higher end, but even these remain competitive compared to liveaboard destinations like the Maldives or Raja Ampat. For a full picture of what Thailand travel costs in 2026, check our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) and [two-week cost breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+Thailand liveaboards are among the most affordable in the world. A four-night trip on a mid-range boat starts at roughly 20,000-25,000 THB (around 550-700 USD), excluding equipment rental and national park fees. Premium boats like the DiveRACE Class X sit at the higher end, but even these remain competitive compared to liveaboard destinations like the Maldives or Raja Ampat. For a full picture of what Thailand travel costs in 2026, check our [Thailand budget guide](/thailand-index/budget/) and [two-week cost breakdown](/thailand-index/budget/).
 
 ## Tips for First-Timers
 

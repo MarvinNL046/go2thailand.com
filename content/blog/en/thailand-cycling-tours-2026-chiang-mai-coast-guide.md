@@ -26,7 +26,7 @@ sources:
 
 ## Why Thailand Is a Great Cycling Destination
 
-Thailand offers a rare combination for cyclists: warm weather year-round, well-maintained roads, [cheap accommodation](/blog/thailand-cheap-2026-travel-costs/), and scenery that changes from misty mountains to turquoise coastline within a few hundred kilometres. Whether you prefer guided multi-day tours or self-supported bike-packing, the infrastructure is better than many travellers expect.
+Thailand offers a rare combination for cyclists: warm weather year-round, well-maintained roads, [cheap accommodation](/thailand-index/budget/), and scenery that changes from misty mountains to turquoise coastline within a few hundred kilometres. Whether you prefer guided multi-day tours or self-supported bike-packing, the infrastructure is better than many travellers expect.
 
 At least nine organised bicycle tour options are available through operators like TourRadar for the 2026 season, covering both northern and southern Thailand.
 
@@ -54,4 +54,4 @@ If you prefer to ride solo, convenience stores and roadside noodle shops appear 
 
 ## Plan Ahead
 
-The 2026 high season for cycling tours runs from November through February. Popular guided departures sell out months in advance, so booking early is recommended if you want a guaranteed spot. If you are new to Thailand travel, our [first-time visitors essential guide 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) covers entry requirements, transport, and logistics that are just as relevant for cyclists as for any other traveller. Also see our [Thailand travel costs breakdown](/blog/thailand-cheap-2026-travel-costs/) if you want to know what the rest of your budget—accommodation, food, local transport—will look like between ride days.
+The 2026 high season for cycling tours runs from November through February. Popular guided departures sell out months in advance, so booking early is recommended if you want a guaranteed spot. If you are new to Thailand travel, our [first-time visitors essential guide 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) covers entry requirements, transport, and logistics that are just as relevant for cyclists as for any other traveller. Also see our [Thailand travel costs breakdown](/thailand-index/budget/) if you want to know what the rest of your budget—accommodation, food, local transport—will look like between ride days.

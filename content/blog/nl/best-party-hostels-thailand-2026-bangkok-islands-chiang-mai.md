@@ -26,7 +26,7 @@ sources:
 
 ## Waarom Thailand nog steeds het backpacker paradijs is
 
-De hostelscene in Thailand in 2026 is groter en competitiever dan ooit. Slaapplaatsen in dorms beginnen rond de € 5 in [Bangkok](/city/bangkok/) en zelfs € 2 op Koh Phangan, terwijl ketens als Bodega Hostels en Mad Monkey budgetovernachtingen omtoveren tot complete sociale ervaringen met pubcrawls, poolfeesten en co-working ruimtes. Bekijk ook onze [Thailand budget backpacker gids](/blog/thailand-budget-backpacker-guide/) voor een volledige kostenoverzicht.
+De hostelscene in Thailand in 2026 is groter en competitiever dan ooit. Slaapplaatsen in dorms beginnen rond de € 5 in [Bangkok](/city/bangkok/) en zelfs € 2 op Koh Phangan, terwijl ketens als Bodega Hostels en Mad Monkey budgetovernachtingen omtoveren tot complete sociale ervaringen met pubcrawls, poolfeesten en co-working ruimtes. Bekijk ook onze [Thailand budget backpacker gids](/nl/thailand-index/budget/) voor een volledige kostenoverzicht.
 
 Hier zijn de beste party hostels door het hele land heen.
 
@@ -64,4 +64,4 @@ De Nimman-buurt is waar de hippe bars en laat-avondspots zitten, en verschillend
 | Koh Phangan | € 6-40 (Full Moon) | € 30-80 |
 | Chiang Mai | € 6-8 | € 15-25 |
 
-Backpacken in Thailand op € 30 per dag is in 2026 nog steeds realistisch als je bij hostels blijft, [streetfood](/blog/thai-street-food-guide-2026/) eet en lokaal vervoer gebruikt. De zuidkust en eilanden zijn het duurst, dus plan je budget slim. Check de [Thailand dagelijkse kosten gids](/blog/thailand-budget-2026-daily-costs/) voor een breakdown per stad, en lees over [Thailand reiscoups](/blog/thailand-travel-scams-2026/) om valkuilen te vermijden. Voor je gaat, check de inreisvoorwaarden in de [Thailand visum gids](/blog/thailand-visa-guide-2026/).
+Backpacken in Thailand op € 30 per dag is in 2026 nog steeds realistisch als je bij hostels blijft, [streetfood](/blog/thai-street-food-guide-2026/) eet en lokaal vervoer gebruikt. De zuidkust en eilanden zijn het duurst, dus plan je budget slim. Check de [Thailand dagelijkse kosten gids](/nl/thailand-index/budget/) voor een breakdown per stad, en lees over [Thailand reiscoups](/blog/thailand-travel-scams-2026/) om valkuilen te vermijden. Voor je gaat, check de inreisvoorwaarden in de [Thailand visum gids](/blog/thailand-visa-guide-2026/).

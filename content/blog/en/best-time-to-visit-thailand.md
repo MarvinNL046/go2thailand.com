@@ -33,7 +33,7 @@ The short answer: **November through February** is **peak season** with the best
 | Question | Key Answer |
 |----------|-----------|
 | When is the **best time to visit Thailand** overall? | **November to February** during the **cool season** -- perfect weather, low humidity, and ideal for [island hopping](/blog/thailand-island-hopping-guide/) and city exploration |
-| What is the cheapest time to visit? | **June to October** during the **rainy season** offers the lowest prices for flights, hotels, and tours -- see our [backpacker budget guide](/blog/thailand-budget-backpacker-guide/) |
+| What is the cheapest time to visit? | **June to October** during the **rainy season** offers the lowest prices for flights, hotels, and tours -- see our [backpacker budget guide](/thailand-index/budget/) |
 | Can you still visit islands in the **monsoon**? | Yes -- the **Gulf islands** like [Koh Samui](/islands/koh-samui/) and [Koh Tao](/islands/koh-tao/) have calmer weather when the Andaman coast is wet |
 | When is the **best island hopping season**? | **December to April** for the Andaman Sea ([Koh Phi Phi](/islands/koh-phi-phi/), [Koh Lanta](/islands/koh-lanta/), [Koh Lipe](/islands/koh-lipe/)); **January to August** for the Gulf -- explore all [islands](/islands/) |
 | When are the major festivals? | **Songkran** (Thai New Year) in April and **Loy Krathong** (floating lanterns) in November -- both celebrated nationwide including [Bangkok](/city/bangkok/) and [Chiang Mai](/city/chiang-mai/) |
@@ -123,7 +123,7 @@ Thailand does not have the four seasons you might be used to. Instead, the year 
 ### September
 **Weather:** The wettest month, especially on the Andaman coast. Occasional flooding in low-lying areas.
 **Best for:** Budget travellers who do not mind rain, cultural tourism in [Bangkok](/city/bangkok/)
-**Crowds:** Lowest of the year -- check our [budget backpacker guide](/blog/thailand-budget-backpacker-guide/) for money-saving tips
+**Crowds:** Lowest of the year -- check our [budget backpacker guide](/thailand-index/budget/) for money-saving tips
 **Events:** The Vegetarian Festival in [Phuket](/city/phuket/) (late Sep/early Oct) -- dramatic and unique. A great time to explore [vegan Thai food options](/blog/vegan-thai-food-guide/) across the country.
 
 ### October

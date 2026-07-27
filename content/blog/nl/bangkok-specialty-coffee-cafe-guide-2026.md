@@ -237,7 +237,7 @@ Ben je nieuw in specialty coffee, dan kan een Bangkok-menu overweldigend zijn. D
 
 - **Beste strategie:** kies één wijk (Thonglor/Ekkamai of Ari) en doe er 3–4 cafés op één ochtend. De meeste zijn te voet bereikbaar. De BTS verbindt alle belangrijke café-wijken.
 - **Openingstijden:** de meeste specialty cafés openen tussen 07:00 en 08:00 en sluiten rond 16:00–17:00. Brave Roasters (22:00) en Gallery Drip (19:30) zijn uitzonderingen. Kom vroeg in het weekend, populaire plekken lopen snel vol.
-- **Budget:** reken op ฿100–200 (ongeveer €2,50–5,50) voor een specialty drankje. Kaizen is de uitzondering met ฿400–600 inclusief brunch. Voor context over de overige kosten, zie de [Bangkok dagbudget gids](/blog/thailand-budget-2026-daily-costs/).
+- **Budget:** reken op ฿100–200 (ongeveer €2,50–5,50) voor een specialty drankje. Kaizen is de uitzondering met ฿400–600 inclusief brunch. Voor context over de overige kosten, zie de [Bangkok dagbudget gids](/nl/thailand-index/budget/).
 - **Cash of kaart:** de meeste specialty cafés accepteren creditcards en QR-betalingen. Kleinere zaken en marktkraampjes zijn soms alleen cash, dus neem minstens ฿500 mee voor een ochtend op pad.
 - **Wifi en co-working:** Casa Lapin (wifi genoemd in 19 reviews bij het flagship) en Kaizen zijn de beste opties voor remote werken. Factory Coffee heeft te weinig plek voor laptops. Digitale nomaden lezen beter eerst over het [Thaise DTV-visum](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/).
 - **Hittestrategie:** Bangkok is heet. Plan café-hoppen in de ochtend (08:00–12:00) en wijk daarna uit naar airconditioned winkelcentra of je hotelzwembad. Een cold brew of nitro is dé perfecte middagreset.

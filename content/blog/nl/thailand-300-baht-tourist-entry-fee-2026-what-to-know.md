@@ -24,7 +24,7 @@ sources:
 
 Thailand introduceert een instapfee van 300 baht (ongeveer €8-9) voor alle buitenlandse toeristen die het land binnenkomen. Deze toeslag geldt ongeacht of je per vliegtuig, land of zee arriveert. Oorspronkelijk goedgekeurd door de Thaise regering in februari 2023, is de fee meerdere keren uitgesteld en wordt nu verwacht in het tweede of derde kwartaal van 2026 van start te gaan.
 
-Als je [een reis naar Thailand plant](/blog/thailand-first-time-visitors-essential-guide-2026/) later dit jaar, reken dan deze kleine maar opvallende extra kosten mee in je [reisbudget](/blog/thailand-budget-2026-daily-costs/) – vooral als je een directe vlucht vanaf Schiphol boekt.
+Als je [een reis naar Thailand plant](/blog/thailand-first-time-visitors-essential-guide-2026/) later dit jaar, reken dan deze kleine maar opvallende extra kosten mee in je [reisbudget](/nl/thailand-index/budget/) – vooral als je een directe vlucht vanaf Schiphol boekt.
 
 ## Waar gaat het geld naartoe?
 
@@ -42,7 +42,7 @@ De exacte manier van innen wordt nog uitgewerkt. Eerdere voorstellen spraken ove
 
 ## Moet je je zorgen maken?
 
-Met €8-9 is de fee bescheiden vergeleken met vergelijkbare heffingen elders. Bhutan rekent een dagelijkse Sustainable Development Fee, en verschillende Caribische landen brengen veel hogere vertrekbelastingen in rekening. Voor de meeste vakantiegangers zal dit nauwelijks opwegen tegen de [kosten van vluchten en accommodatie](/blog/how-much-2-weeks-thailand-cost-2026-budget/), zeker niet vanuit Nederland.
+Met €8-9 is de fee bescheiden vergeleken met vergelijkbare heffingen elders. Bhutan rekent een dagelijkse Sustainable Development Fee, en verschillende Caribische landen brengen veel hogere vertrekbelastingen in rekening. Voor de meeste vakantiegangers zal dit nauwelijks opwegen tegen de [kosten van vluchten en accommodatie](/nl/thailand-index/budget/), zeker niet vanuit Nederland.
 
 ## Het grotere plaatje
 

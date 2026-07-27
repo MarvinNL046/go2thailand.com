@@ -55,7 +55,7 @@ Thailand pakketten variëren sterk afhankelijk van je stijl. Dit kun je verwacht
 
 ### Budgetpakketten (€740–€1.110 voor 7–10 dagen)
 
-Deze includeren vluchten met low-cost carriers, 3-sterren hotels, luchthaven-transfers en één of twee groeps-tours. Maaltijden meestal alleen ontbijt. Je verblijft in toeristvriendelijke gebieden, maar reken niet op zeezicht of boetiekhotels. Goede waarde als je de logistiek wilt uitbesteden zonder hoge prijs. Bekijk onze [budget vs comfort vergelijking](/blog/thailand-budget-vs-comfort-travel/) om te zien wat je opgeeft.
+Deze includeren vluchten met low-cost carriers, 3-sterren hotels, luchthaven-transfers en één of twee groeps-tours. Maaltijden meestal alleen ontbijt. Je verblijft in toeristvriendelijke gebieden, maar reken niet op zeezicht of boetiekhotels. Goede waarde als je de logistiek wilt uitbesteden zonder hoge prijs. Bekijk onze [budget vs comfort vergelijking](/nl/thailand-index/budget/) om te zien wat je opgeeft.
 
 ### Middenklasse Pakketten (€1.390–€2.320 voor 7–14 dagen)
 
@@ -86,7 +86,7 @@ Dit is de kernvraag. Zo stapelen de twee opties zich op:
 | **Sociaal aspect** | Ontmoet medereizigers in groep | Ontmoet locals en andere backpackers |
 | **Veiligheidsnet** | 24/7 ondersteuning van organisator | Jij handelt noodgevallen zelf af |
 
-Het kostenverschil is groot. Thailand is een van de makkelijkste landen in Zuidoost-Azië voor zelfstandig reizen. Vervoer is goedkoop, accommodatie ruim voorhanden en Engels wordt veel gesproken in toeristengebieden. Een comfortabel zelfstandig reis kost ruwweg [1.500–2.500 THB per dag](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) (€39–65) voor middenklasse reizen.
+Het kostenverschil is groot. Thailand is een van de makkelijkste landen in Zuidoost-Azië voor zelfstandig reizen. Vervoer is goedkoop, accommodatie ruim voorhanden en Engels wordt veel gesproken in toeristengebieden. Een comfortabel zelfstandig reis kost ruwweg [1.500–2.500 THB per dag](https://go2-thailand.com/nl/thailand-index/budget/) (€39–65) voor middenklasse reizen.
 
 ## Wanneer Hebben Thailand Pakketreizen Zin
 
@@ -112,7 +112,7 @@ Sommige mensen houden echt niet van tripplanning. Als onderzoek en boeken je str
 
 ### Backpackers en Budgetreizigers
 
-Als je je thuis voelt in hostels en [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) eet, kun je Thailand doorkruisen voor €23–37 per dag. Geen pakket komt daarbij in de buurt. Bekijk onze [backpacker gids](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/) voor details.
+Als je je thuis voelt in hostels en [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) eet, kun je Thailand doorkruisen voor €23–37 per dag. Geen pakket komt daarbij in de buurt. Bekijk onze [backpacker gids](https://go2-thailand.com/nl/thailand-index/budget/) voor details.
 
 ### Langere Reizigers (2+ Weken)
 

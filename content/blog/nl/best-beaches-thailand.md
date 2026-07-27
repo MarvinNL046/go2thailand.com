@@ -514,7 +514,7 @@ De stranden van Thailand worden beïnvloed door twee regenseizoenen. De **[beste
 
 **Maart tot mei** biedt schouderseizoenvoordelen: minder drukte, lagere prijzen en nog goed weer (hoewel heter). Waterzichtbaarheid blijft goed.
 
-**Mei tot oktober** is het regenseizoen. De **zuidelijke eilanden** (Phuket, Krabi, Phi Phi) hebben zware regen en ruwe zee, wat watersporten moeilijk maakt. De **oosterse eilanden** (Koh Chang, Koh Samet) zijn beschut en blijven bereikbaar. Prijzen dalen sterk en drukte verdwijnt – perfect voor [budgetreizigers](/blog/thailand-budget-backpacker-guide/).
+**Mei tot oktober** is het regenseizoen. De **zuidelijke eilanden** (Phuket, Krabi, Phi Phi) hebben zware regen en ruwe zee, wat watersporten moeilijk maakt. De **oosterse eilanden** (Koh Chang, Koh Samet) zijn beschut en blijven bereikbaar. Prijzen dalen sterk en drukte verdwijnt – perfect voor [budgetreizigers](/nl/thailand-index/budget/).
 
 > **Wist je dat?** De regenseizoenen van Thailand zijn omgekeerd tussen de kusten. De zuidwestmoesson (mei–oktober) treft de Andamanzee (westelijke stranden), terwijl de noordoostmoesson (november–februari) de Golf van Thailand (oosterse stranden) beïnvloedt. Je vindt dus altijd een goed strand ergens in Thailand – handig voor planning vanuit Nederland.
 >

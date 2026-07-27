@@ -36,7 +36,7 @@ Voor gemak bieden veel touroperators in Bangkok dagtrips met hotelophaaldienst, 
 
 ## Entreegelden en openingstijden
 
-Het park is dagelijks open van 06:00 tot 18:00. Buitenlandse bezoekers betalen **400 baht per volwassene** en **200 baht per kind**. Bewaar je kaartje goed, want boswachters controleren het op meerdere plekken in het park. Voor een overzicht van [reisuitgaven in Thailand in 2026](/blog/thailand-budget-2026-daily-costs/), inclusief nationale parken, check onze budgetgids.
+Het park is dagelijks open van 06:00 tot 18:00. Buitenlandse bezoekers betalen **400 baht per volwassene** en **200 baht per kind**. Bewaar je kaartje goed, want boswachters controleren het op meerdere plekken in het park. Voor een overzicht van [reisuitgaven in Thailand in 2026](/nl/thailand-index/budget/), inclusief nationale parken, check onze budgetgids.
 
 ## De mooiste activiteiten
 

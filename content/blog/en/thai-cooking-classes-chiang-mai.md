@@ -456,7 +456,7 @@ Yes, but success depends on committing to practice. Take detailed notes and phot
 
 ### Is it worth the money?
 
-Yes, if you choose the right class. A good cooking class is one of the best investments you can make in Chiang Mai. You'll learn skills you can use for life, understand Thai culture better, and have a genuine connection with a local instructor. Just make sure you pick a class that matches your goals and budget. If you're watching your spending, our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) breaks down how cooking classes compare to other experiences on a tight budget.
+Yes, if you choose the right class. A good cooking class is one of the best investments you can make in Chiang Mai. You'll learn skills you can use for life, understand Thai culture better, and have a genuine connection with a local instructor. Just make sure you pick a class that matches your goals and budget. If you're watching your spending, our [Thailand budget backpacker guide](/thailand-index/budget/) breaks down how cooking classes compare to other experiences on a tight budget.
 
 ## Conclusion
 

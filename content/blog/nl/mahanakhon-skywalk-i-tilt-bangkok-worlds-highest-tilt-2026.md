@@ -54,5 +54,5 @@ Planeer je een langere reis? Je kunt 's ochtends hierheen en 's middags naar de 
 
 Reis je met familie? Check ook het nabijgelegen [Thainosaur Museum](/blog/thainosaur-museum-bangkok-dinosaur-attraction-2026/) en de [Space Time Cube](/blog/space-time-cube-bangkok-immersive-metaverse-museum-2026/) voor meer unieke Bangkok-ervaringen. De [Bangkok Spectacular](/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/) langs de Chao Phraya is een andere aanrader voor dezelfde dag.
 
-Twijfel je over de totale kosten van je Bangkok-bezoek? Bekijk onze [Thailand reis costs gids voor 2026](/blog/thailand-cheap-2026-travel-costs/) en de uitsplitsing van [hoe duur 2 weken in Thailand zijn](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+Twijfel je over de totale kosten van je Bangkok-bezoek? Bekijk onze [Thailand reis costs gids voor 2026](/nl/thailand-index/budget/) en de uitsplitsing van [hoe duur 2 weken in Thailand zijn](/nl/thailand-index/budget/).
 ---

@@ -456,7 +456,7 @@ Thailand is betaalbaar, maar kosten variëren sterk per regio, seizoen en reisti
 | **Diversen** | 200–400 | €5–10 | Souvenirs, snacks, fooien |
 | **TOTAAL** | 2.900–5.700 | €74–146 | Per persoon, per dag |
 
-**Voor een familie van 4 voor 10 dagen:** Budget 116.000–228.000 THB (€2.940–5.780). Dit inkluder vluchten vanuit Europa/Noord-Amerika (typisch €550–1.100 per persoon retour). Voor een gedetailleerd budgetoverzicht, check onze [2 weken in Thailand kosten gids](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+**Voor een familie van 4 voor 10 dagen:** Budget 116.000–228.000 THB (€2.940–5.780). Dit inkluder vluchten vanuit Europa/Noord-Amerika (typisch €550–1.100 per persoon retour). Voor een gedetailleerd budgetoverzicht, check onze [2 weken in Thailand kosten gids](/nl/thailand-index/budget/).
 
 ### Geldbesparende Tips
 

@@ -174,7 +174,7 @@ Ongemarkeerde "taxi's" jagen op toeristen bij luchthavens en treinstations. Ze r
 
 ## 4. Motorongelukken: Het onderschatte risico
 
-Hier is iets wat toeristen vaak onderschatten: **motorongelukken zijn de voornaamste oorzaak van blessures bij buitenlandse bezoekers in Thailand.** Begrijpen van je [dagbudget in Thailand](/blog/thailand-budget-2026-daily-costs/) helpt je veiligere transportkosten in te calculeren vanaf het begin. We hebben dit zelf gezien — een vriend huurde een scooter zonder helm, raakte een kuil en lag twee weken in een Bangkok-ziekenhuis met een gebroken arm.
+Hier is iets wat toeristen vaak onderschatten: **motorongelukken zijn de voornaamste oorzaak van blessures bij buitenlandse bezoekers in Thailand.** Begrijpen van je [dagbudget in Thailand](/nl/thailand-index/budget/) helpt je veiligere transportkosten in te calculeren vanaf het begin. We hebben dit zelf gezien — een vriend huurde een scooter zonder helm, raakte een kuil en lag twee weken in een Bangkok-ziekenhuis met een gebroken arm.
 
 ### Waarom motoren gevaarlijk zijn
 

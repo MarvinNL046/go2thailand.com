@@ -30,7 +30,7 @@ Thailand has over 150 national parks, and dozens of them offer designated campin
 
 Camping fees are standardised across all parks at **80 THB per person per night** (roughly 2 USD). On top of that you pay a park entrance fee, which is either 100 or 200 THB for foreign visitors depending on the park. Children usually pay half.
 
-If you do not have your own gear, most parks rent tents, sleeping bags, sleeping mats, and pillows. A full two-person tent-and-gear package typically costs around **400 THB per night**, camping fee included. For a broader look at what travel in Thailand costs, see our [2026 Thailand budget guide](/blog/thailand-budget-2026-daily-costs/).
+If you do not have your own gear, most parks rent tents, sleeping bags, sleeping mats, and pillows. A full two-person tent-and-gear package typically costs around **400 THB per night**, camping fee included. For a broader look at what travel in Thailand costs, see our [2026 Thailand budget guide](/thailand-index/budget/).
 
 ## Rules for Pitching Your Tent
 

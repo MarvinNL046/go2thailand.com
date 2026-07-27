@@ -123,11 +123,11 @@ Je ideale reisduur hangt ook af van hoe je reist:
 
 ### Backpackers (budgetreizigers)
 
-Langer is bijna altijd beter op een budget. Thailand is een van de goedkoopste landen in Zuidoost-Azië — dagelijkse kosten kunnen dalen tot €23–32/dag als je in hostels slaapt, streetfood eet en lokaal vervoer gebruikt. Drie tot vier weken in dit tempo kost minder dan een week luxe reizen. Bekijk onze [backpacker gids](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/) en [dagelijkse kosten breakdown](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) voor tips.
+Langer is bijna altijd beter op een budget. Thailand is een van de goedkoopste landen in Zuidoost-Azië — dagelijkse kosten kunnen dalen tot €23–32/dag als je in hostels slaapt, streetfood eet en lokaal vervoer gebruikt. Drie tot vier weken in dit tempo kost minder dan een week luxe reizen. Bekijk onze [backpacker gids](https://go2-thailand.com/nl/thailand-index/budget/) en [dagelijkse kosten breakdown](https://go2-thailand.com/nl/thailand-index/budget/) voor tips.
 
 ### Comfortreizigers (middenklasse)
 
-Tien tot veertien dagen is het zoete plekje. Je spendeert €64–100/dag aan comfortabele hotels, een mix van streetfood en restaurants, en af en toe guided tours. Dit geeft de beste balans tussen ervaring en waarde. Onze [budget vs. comfort vergelijking](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) breekt de verschillen uit.
+Tien tot veertien dagen is het zoete plekje. Je spendeert €64–100/dag aan comfortabele hotels, een mix van streetfood en restaurants, en af en toe guided tours. Dit geeft de beste balans tussen ervaring en waarde. Onze [budget vs. comfort vergelijking](https://go2-thailand.com/nl/thailand-index/budget/) breekt de verschillen uit.
 
 ### Luxereizigers
 
@@ -171,5 +171,5 @@ November tot en met februari biedt het beste weer in alle regio's, zonder regens
 
 ### Hoeveel kost een Thailand-reis?
 
-Dat hangt sterk af van je stijl. Budgetreizigers redden het op €23–32/dag, middenklasse €64–100/dag, en luxe €183+/dag. Voor een gedetailleerde breakdown, lees [hoeveel twee weken in Thailand kosten](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/), onze [dagelijkse kosten gids](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) en onze [goedkope Thailand-reisgids voor 2026](https://go2-thailand.com/blog/thailand-cheap-2026-travel-costs/).
+Dat hangt sterk af van je stijl. Budgetreizigers redden het op €23–32/dag, middenklasse €64–100/dag, en luxe €183+/dag. Voor een gedetailleerde breakdown, lees [hoeveel twee weken in Thailand kosten](https://go2-thailand.com/nl/thailand-index/budget/), onze [dagelijkse kosten gids](https://go2-thailand.com/nl/thailand-index/budget/) en onze [goedkope Thailand-reisgids voor 2026](https://go2-thailand.com/nl/thailand-index/budget/).
 ---

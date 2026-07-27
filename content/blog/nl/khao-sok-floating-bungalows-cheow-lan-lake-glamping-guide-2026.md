@@ -36,7 +36,7 @@ Alle zwevende bungalows hebben één ding gemeen: ze zijn gebouwd op pontons dir
 
 ## Hoe boek je?
 
-Omdat het meer afgelegen is en een longtail-boottransfer vanaf de dam vereist, boeken bijna alle bezoekers een pakketarrangement in plaats van alles zelf te regelen. De meeste tweedaagse, één-nacht pakketten omvatten vervoer vanuit Khao Sok-stad, de boottransfer, alle maaltijden, een begeleide [kayaktocht](/blog/best-kayaking-paddleboarding-spots-thailand-2026/) en een junglewandeling. Prijzen liggen meestal tussen de 2.500 THB voor een basisarrangement en 10.000 THB of meer voor luxe opties. Voor een idee van je totale budget, check onze [Thailand-dagbudgetten gids voor 2026](/blog/thailand-budget-2026-daily-costs/).
+Omdat het meer afgelegen is en een longtail-boottransfer vanaf de dam vereist, boeken bijna alle bezoekers een pakketarrangement in plaats van alles zelf te regelen. De meeste tweedaagse, één-nacht pakketten omvatten vervoer vanuit Khao Sok-stad, de boottransfer, alle maaltijden, een begeleide [kayaktocht](/blog/best-kayaking-paddleboarding-spots-thailand-2026/) en een junglewandeling. Prijzen liggen meestal tussen de 2.500 THB voor een basisarrangement en 10.000 THB of meer voor luxe opties. Voor een idee van je totale budget, check onze [Thailand-dagbudgetten gids voor 2026](/nl/thailand-index/budget/).
 
 ## Beste reistijd
 
