@@ -1,0 +1,897 @@
+{
+  "captured_at": "2026-07-27T03:12:49.589Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "khon kaen thailand",
+  "costs": {
+    "suggestions": 0.015,
+    "related": 0.0162,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "khon kaen thailand",
+    "hotel in khon kaen thailand",
+    "hotell i khon kaen thailand",
+    "hotels in khon kaen thailand",
+    "khon kaen thailand hotels",
+    "khon kaen thailand weather",
+    "khon kaen thailand nightlife",
+    "nightlife khon kaen thailand",
+    "things to do in khon kaen thailand",
+    "bangkok to khon kaen train",
+    "khon kaen to chiang mai",
+    "bangkok to khon kaen distance",
+    "bangkok to khon kaen flight schedule",
+    "bangkok to khon kaen flight time",
+    "best hotel in khon kaen",
+    "cheap hotels in khon kaen thailand",
+    "flooding in khon kaen thailand",
+    "khon kaen nightlife 2022",
+    "khon kaen population"
+  ],
+  "keywords": [
+    {
+      "keyword": "khon kaen thailand",
+      "volume": 320,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel in khon kaen thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotell i khon kaen thailand",
+      "volume": 140,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in khon kaen thailand",
+      "volume": 140,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand hotels",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand weather",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen university",
+      "volume": 140,
+      "kd": 68,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen university thailand",
+      "volume": 140,
+      "kd": 53,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to khon kaen flights",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand airport",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to khon kaen",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen to bangkok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "car rental khon kaen airport thailand",
+      "volume": 50,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife khon kaen thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in khon kaen thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to khon kaen thailand",
+      "volume": 40,
+      "kd": 21,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "car rental khon kaen thailand",
+      "volume": 30,
+      "kd": 7,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to khon kaen train",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen to chiang mai",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to khon kaen bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to khon kaen distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to khon kaen drive",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to khon kaen flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to khon kaen flight time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel in khon kaen",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in khon kaen thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flooding in khon kaen thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen airport arrivals",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen airport departures",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen airport flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen airport international flights",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen freelancers",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen hotel near central plaza",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen nightlife 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen population",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen to bangkok bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen to bangkok distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen to bangkok flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen to bangkok flight time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen to bangkok train",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen to pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "living in khon kaen thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai airways bangkok to khon kaen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is khon kaen famous for",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in khon kaen thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "business for sale in khon kaen thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "car hire in khon kaen thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cars for sale khon kaen thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "house builders in khon kaen thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand house for sale",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand to bangkok thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 15.833333333333334,
+      "keywordCount": 6,
+      "visibility": 0.8000000000000002,
+      "estimatedTraffic": 6.119
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 1.6,
+      "keywordCount": 5,
+      "visibility": 4.7,
+      "estimatedTraffic": 111.062
+    },
+    {
+      "domain": "www.avanihotels.com",
+      "avgPosition": 8.6,
+      "keywordCount": 5,
+      "visibility": 1.35,
+      "estimatedTraffic": 20.282
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10.5,
+      "keywordCount": 4,
+      "visibility": 1.5,
+      "estimatedTraffic": 7.8020000000000005
+    },
+    {
+      "domain": "www.thethailandlife.com",
+      "avgPosition": 29,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.391
+    },
+    {
+      "domain": "matadornetwork.com",
+      "avgPosition": 18.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.84
+    },
+    {
+      "domain": "thingstodoinkhonkaen.com",
+      "avgPosition": 20.75,
+      "keywordCount": 4,
+      "visibility": 1.2,
+      "estimatedTraffic": 5.3839999999999995
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 5,
+      "keywordCount": 3,
+      "visibility": 1.85,
+      "estimatedTraffic": 16.655
+    },
+    {
+      "domain": "www.destinationsapart.com",
+      "avgPosition": 28.75,
+      "keywordCount": 4,
+      "visibility": 0.55,
+      "estimatedTraffic": 2.821
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 45,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.281
+    },
+    {
+      "domain": "www.adlibhotels.co",
+      "avgPosition": 10,
+      "keywordCount": 3,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 2.814
+    },
+    {
+      "domain": "taximaxim.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.5,
+      "estimatedTraffic": 8.265
+    },
+    {
+      "domain": "www.thevacationgateway.com",
+      "avgPosition": 33.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.107
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 35.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.176
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.2880000000000003
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.284999999999999
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 1.5,
+      "estimatedTraffic": 34.536
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 18.666666666666668,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 43.337
+    },
+    {
+      "domain": "www.redelephantreps.com",
+      "avgPosition": 19.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.48
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 21,
+      "keywordCount": 3,
+      "visibility": 0.55,
+      "estimatedTraffic": 3.171
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 22.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 21.655
+    },
+    {
+      "domain": "www.thailandredcat.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0.65,
+      "estimatedTraffic": 2.6649999999999996
+    },
+    {
+      "domain": "khonkaen.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.0020000000000002
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 28.333333333333332,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 97.679
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 1.49
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.946
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 3.5,
+      "keywordCount": 2,
+      "visibility": 1.5,
+      "estimatedTraffic": 14.091000000000001
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 9.732
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 3.897
+    },
+    {
+      "domain": "www.thailandtripadvice.com",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 1.28
+    },
+    {
+      "domain": "vocal.media",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 1.045
+    },
+    {
+      "domain": "travelfeed.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.655
+    },
+    {
+      "domain": "www.thailand-uk.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.39999999999999997
+    },
+    {
+      "domain": "en.khonkaen.go.th",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 4.905
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9269999999999999
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 21.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8869999999999999
+    },
+    {
+      "domain": "travel-explore.asia",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.32
+    },
+    {
+      "domain": "www.thailand-property.com",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 11.11
+    },
+    {
+      "domain": "www.jakarta100bars.com",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.24
+    },
+    {
+      "domain": "pushpitha.livejournal.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9669999999999999
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 25,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.6699999999999999
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.myentertainmenthub.com",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "modulus.in.th",
+      "avgPosition": 38.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "afarangabroad.com",
+      "avgPosition": 48.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 51.68
+    },
+    {
+      "domain": "weather.metoffice.gov.uk",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 27.54
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 22.68
+    },
+    {
+      "domain": "www.accuweather.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 16.541
+    }
+  ]
+}
