@@ -1,0 +1,1546 @@
+{
+  "captured_at": "2026-07-27T08:52:52.901Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "philippines vs thailand",
+  "costs": {
+    "suggestions": 0.0276,
+    "related": 0.0138,
+    "competitors": 0.01656
+  },
+  "competitorKeywords": [
+    "philippines vs thailand",
+    "thailand vs philippines",
+    "philippines or thailand for single man",
+    "angeles city philippines vs pattaya thailand",
+    "bali vs thailand vs philippines",
+    "cost of living in thailand vs philippines",
+    "cost of living thailand vs philippines",
+    "crime rate in thailand vs philippines",
+    "crime rate philippines vs thailand",
+    "football philippines vs thailand",
+    "gdp philippines vs thailand",
+    "land of smiles philippines or thailand",
+    "live thailand vs philippines",
+    "living in philippines vs thailand",
+    "living in thailand vs philippines",
+    "philippines nightlife vs thailand",
+    "philippines or thailand cheaper",
+    "philippines or thailand for single man reddit",
+    "philippines or thailand for single man which is better"
+  ],
+  "keywords": [
+    {
+      "keyword": "philippines vs thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines or thailand for single man",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "angeles city philippines vs pattaya thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bali vs thailand vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of living in thailand vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of living thailand vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "crime rate in thailand vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "crime rate philippines vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "football philippines vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gdp philippines vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "land of smiles philippines or thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "live thailand vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in philippines vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in thailand vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines nightlife vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines or thailand cheaper",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines or thailand for single man reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines or thailand for single man which is better",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines or thailand which is better",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand aff",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand basketball",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand basketball live score",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand basketball sea games",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand beaches",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand cost of living",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand cricket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand economy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand football",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand h2h",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand highlights",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand holiday",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand live",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand live streaming",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand miss universe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand score",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand score today",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand sea games",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand today",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand tourism",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand travel",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand u22",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand u23",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand vacation",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand volleyball",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand vs vietnam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand women",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand women's cricket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand women's volleyball",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retire in philippines vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retire philippines vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retire thailand vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement thailand vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand cost of living vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand land area vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand u23 vs philippines u23",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs indonesia vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines basketball",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines beaches",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines beauty",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines beauty pageant",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines cost of living",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines cricket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines culture",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines currency",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines economy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines football",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines live",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines live score",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines military",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines population",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines prediction",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines retirement",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines score",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines today",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines today match",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines tourism",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines travel",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines vacation",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines volleyball",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines vs vietnam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand vs vietnam vs philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand w vs philippines w",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "volleyball philippines vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "which is safer thailand or philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand 2nd leg",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand asian games",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand football live",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand leg 2",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand non verbal communication",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand prediction",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand predictions",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand result",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand suzuki cup",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand volleyball 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand volleyball sea games 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand women's cricket highlights",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines 2017",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines 2024",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines aff",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines avc",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines education system",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines flashscore",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines h2h",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines king's cup",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines live stream",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines miss universe",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines result",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines sea games 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines soccer",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines sofascore",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines volleyball 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bali vs philippines vs thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "expat philippines vs thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "expat thailand vs philippines",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines nightlife vs thailand nightlife",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand aff 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand culture",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand military",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand quora",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand volleyball 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand vs indonesia",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines vs thailand women's soccer",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines aff 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines economy 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines economy 2020",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines safety",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines u22",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines vs cambodia",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines war",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines women",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 194.56
+    },
+    {
+      "domain": "www.traveltomtom.net",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 82.976
+    },
+    {
+      "domain": "islandhoppinginthephilippines.com",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 82.976
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 4.5,
+      "keywordCount": 2,
+      "visibility": 1.2999999999999998,
+      "estimatedTraffic": 36.096000000000004
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 29.28
+    },
+    {
+      "domain": "www.adventureinyou.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 21.311999999999998
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 11.68
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.3,
+      "estimatedTraffic": 6.975999999999999
+    },
+    {
+      "domain": "breathingtravel.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.4719999999999995
+    },
+    {
+      "domain": "theworkingtraveller.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.287999999999999
+    },
+    {
+      "domain": "www.aiscore.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 10.815999999999999
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 8.192
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 4.8
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.6159999999999997
+    },
+    {
+      "domain": "countryeconomy.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.912
+    },
+    {
+      "domain": "bsidetravels.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.4
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.792
+    },
+    {
+      "domain": "www.expatforum.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.6320000000000001
+    },
+    {
+      "domain": "www.worlddata.info",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.056
+    },
+    {
+      "domain": "www.joinmytrip.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.736
+    },
+    {
+      "domain": "www.badladz.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.7040000000000001
+    },
+    {
+      "domain": "www.budgetyourtrip.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "mel365.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "filipinotravelcenter.co.uk",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.threads.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.philippinestourism.org",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "sasutravel.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "pana.ph",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "travelraro.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "pack-lightly.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "posvirtual.fapam.edu.br",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.expats-life.com",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "src.gov.sc",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "travelsites.com",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "expertworldtravel.com",
+      "avgPosition": 58,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "wanderingourworld.com",
+      "avgPosition": 59,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    }
+  ]
+}

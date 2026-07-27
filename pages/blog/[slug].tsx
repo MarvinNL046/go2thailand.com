@@ -62,6 +62,7 @@ import { MuayThaiBeginnerTrainingGuideEn } from '../../components/activities/Mua
 import { HarborIslandBangkapiGuide } from '../../components/attractions/HarborIslandBangkapiGuide';
 import { HarborIslandBangkapiGuideEn } from '../../components/attractions/HarborIslandBangkapiGuideEn';
 import PhuketSamuiComparisonGuideEn from '../../components/compare/PhuketSamuiComparisonGuideEn';
+import ThailandPhilippinesComparisonGuideEn from '../../components/compare/ThailandPhilippinesComparisonGuideEn';
 
 interface Source {
   name: string;
@@ -287,6 +288,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'en' && post.slug === 'phuket-vs-koh-samui-for-tourists') {
     return <PhuketSamuiComparisonGuideEn />;
+  }
+
+  if (locale === 'en' && post.slug === 'thailand-vs-philippines-which-southeast-asian-paradise-to-choose') {
+    return <ThailandPhilippinesComparisonGuideEn />;
   }
 
   const breadcrumbs = [

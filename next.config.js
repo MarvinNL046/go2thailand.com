@@ -43,6 +43,14 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // No Dutch translation exists for this English comparison owner. The
+      // locale fallback previously exposed a duplicate /nl/ URL to search.
+      {
+        source: '/nl/blog/thailand-vs-philippines-which-southeast-asian-paradise-to-choose/',
+        destination: '/blog/thailand-vs-philippines-which-southeast-asian-paradise-to-choose/',
+        permanent: true,
+        locale: false,
+      },
       // English duplicate owners consolidate into the stronger, more recent
       // editorial route while preserving signals from the older URL.
       {
