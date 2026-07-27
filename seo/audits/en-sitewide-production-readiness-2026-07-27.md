@@ -45,6 +45,17 @@ The concentration in hotel detail pages calls for a family-level solution in the
 
 Follow-up completed on 2026-07-27: all 426 English hotel detail records now receive a contextual main-content link from their destination hotel owner, and all 1,161 generated similar-hotel references resolve to a canonical sibling record. Eleven previously hidden boutique hotels were restored to their owners, and all 37 specialist hotel guides now receive contextual owner links. The layered sitewide refresh passed 1,602/1,602 routes without a hard finding and reduced incoming-main warnings from 527 to 34. See `seo/audits/en-hotel-internal-links-design-2026-07-27.md`.
 
+Final link-mesh follow-up completed on 2026-07-27:
+
+- Six attraction owners now merge their enhanced index with every published detail record, restoring contextual links to all 18 previously orphaned attraction details. The owner cards were also repaired to avoid nested anchors and React hydration failures while retaining separate detail and Google Maps actions.
+- The indexable English food hub now exposes a lightweight, complete 46-dish directory in server-rendered main content. This connects the ten remaining food details without forcing all image-heavy cards above the fold.
+- Every destination with a published weather owner receives a contextual link from its best-time-to-visit owner. This restored the four previously orphaned weather routes.
+- `/social/` is linked from the blog update context, and `/thailand-index/safety/` is linked from the Thailand Index card that promises city safety scores.
+- The audit runner now accepts `SITE_AUDIT_REFRESH_ROUTES` for exact-route refreshes, alongside prefix refreshes. This lets a layered audit recompute the complete link graph without re-fetching unrelated route families.
+- Final layered report: `seo/audits/runtime/en-sitewide-linkmesh-final-2026-07-27.json` (local runtime evidence).
+- Result: **1,602/1,602 routes without a hard finding and zero warnings**. All 1,987 non-sitemap internal targets and 762 local image assets had a current passing result.
+- Responsive browser samples covered the food directory, Bangkok attraction owner and Ayutthaya season-to-weather handoff at 390 px and 1,280 px. No horizontal overflow remained; the 46 mobile directory links and weather CTA met a 44 px minimum target height; a clean attraction-owner session reported no hydration errors and no nested anchors.
+
 ## Recheck result
 
 - 87 of 87 original hard-finding routes passed without a hard error or warning.

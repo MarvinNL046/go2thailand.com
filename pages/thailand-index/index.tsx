@@ -698,7 +698,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                   </Link>
                   {/* Safety Guide */}
                   <Link
-                    href="/is-thailand-safe/"
+                    href="/thailand-index/safety/"
                     className="group bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md hover:-translate-y-0.5 transition-all"
                   >
                     <div className="w-12 h-12 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center mb-4">

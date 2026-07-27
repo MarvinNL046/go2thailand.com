@@ -2,7 +2,7 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, toAbsoluteImageUrl } from '../../../lib/cities';
+import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, getAttractionBySlug, toAbsoluteImageUrl } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CitySupportSources from '../../../components/CitySupportSources';
@@ -221,12 +221,18 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                       {attractions.map((attraction, index) => {
                         const hasDetailOwner = !isNl || Boolean(getNlAttractionDetailGuide(city.slug, attraction.slug));
                         return (
-                        <Link
-                          key={attraction.id}
+                        <article
+                          key={attraction.slug}
                           id={attraction.slug}
-                          href={hasDetailOwner ? `/city/${city.slug}/attractions/${attraction.slug}/` : `/city/${city.slug}/attractions/#${attraction.slug}`}
-                          className="group bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border-0"
+                          className="group relative overflow-hidden rounded-2xl border-0 bg-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
                         >
+                          <Link
+                            href={hasDetailOwner ? `/city/${city.slug}/attractions/${attraction.slug}/` : `/city/${city.slug}/attractions/#${attraction.slug}`}
+                            aria-label={isNl ? `Lees meer over ${attraction.name[lang] || attraction.name.en}` : `Learn more about ${attraction.name.en}`}
+                            className="absolute inset-0 z-10 rounded-2xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-thailand-gold"
+                          >
+                            <span className="sr-only">{isNl ? 'Lees meer' : 'Learn more'}</span>
+                          </Link>
                           {/* Attraction Image */}
                           <div className="relative h-48 overflow-hidden">
                             <Image
@@ -300,8 +306,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                     href={attraction.googleMapsUrl}
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="flex items-center text-xs text-gray-500 hover:text-thailand-blue transition-colors"
-                                    onClick={(e) => e.stopPropagation()}
+                                    className="relative z-20 flex min-h-11 items-center text-xs text-gray-500 transition-colors hover:text-thailand-blue"
                                   >
                                     <svg className="w-3.5 h-3.5 mr-0.5" viewBox="0 0 24 24" fill="currentColor">
                                       <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
@@ -318,7 +323,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                               </div>
                             </div>
                           </div>
-                        </Link>
+                        </article>
                         );
                       })}
                     </div>
@@ -590,13 +595,36 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     editorialPositioning: rawCity.editorialPositioning ?? null,
     sourceSummary: rawCity.sourceSummary ?? null,
   };
-  const attractions = locale === 'nl' && slug === 'krabi' ? [] : getEnhancedAttractionsByCity(slug).map((attraction) => ({
-    id: attraction.id,
+  const indexedAttractions = getEnhancedAttractionsByCity(slug);
+  const attractionRecords = new Map(indexedAttractions.map((attraction) => [attraction.slug, attraction]));
+
+  // English detail owners can exist as individual JSON files without being present in
+  // either city index. Merge those files into the owner page so every published detail
+  // remains discoverable through a contextual, crawlable card.
+  if (locale !== 'nl') {
+    try {
+      const [{ readdir }, pathModule] = await Promise.all([import('fs/promises'), import('path')]);
+      const attractionDirectory = pathModule.join(process.cwd(), 'data', 'attractions', slug);
+      const filenames = await readdir(attractionDirectory);
+
+      for (const filename of filenames) {
+        if (filename === 'index.json' || !filename.endsWith('.json')) continue;
+        const attractionSlug = filename.slice(0, -'.json'.length);
+        const detail = getAttractionBySlug(slug, attractionSlug, 'en');
+        if (detail?.slug) attractionRecords.set(detail.slug, detail);
+      }
+    } catch (_) {
+      // Some city owners intentionally have no attraction-detail directory.
+    }
+  }
+
+  const attractions = locale === 'nl' && slug === 'krabi' ? [] : Array.from(attractionRecords.values()).map((attraction, index) => ({
+    id: attraction.id ?? index + 1,
     slug: attraction.slug,
-    name: attraction.name,
-    type: attraction.type,
-    description: attraction.description,
-    highlights: attraction.highlights,
+    name: attraction.name || { en: attraction.slug, nl: attraction.slug },
+    type: attraction.type || 'attraction',
+    description: attraction.description || { en: attraction.enhanced_description || '', nl: '' },
+    highlights: Array.isArray(attraction.highlights) ? attraction.highlights : [],
     image: attraction.image,
     visitAccess: typeof attraction.entrance_fee?.thb === 'number'
       ? (attraction.entrance_fee.thb > 0 ? 'Ticketed' : 'Free')

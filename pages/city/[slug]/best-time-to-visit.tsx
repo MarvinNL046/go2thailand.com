@@ -7,6 +7,7 @@ import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
 import transportRoutes from '../../../data/transport-routes.json';
+import cityWeatherData from '../../../data/city-weather.json';
 import { normalizeNlInternalHref } from '../../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 
@@ -62,6 +63,7 @@ interface TransportRouteLink {
 interface BestTimeToVisitPageProps {
   city: City;
   topRoutes: TransportRouteLink[];
+  hasWeatherOwner: boolean;
 }
 
 const ALL_MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -81,7 +83,7 @@ const MONTH_FULL_NAMES: Record<string, string> = {
   Dec: 'December',
 };
 
-export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisitPageProps) {
+export default function BestTimeToVisitPage({ city, topRoutes, hasWeatherOwner }: BestTimeToVisitPageProps) {
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
@@ -291,6 +293,14 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       </div>
                     </div>
                   )}
+                  {hasWeatherOwner ? (
+                    <div className="mt-6 border-t border-gray-100 pt-5">
+                      <Link href={`/city/${city.slug}/weather/`} className="group inline-flex min-h-11 items-center gap-3 text-sm font-bold text-thailand-blue transition hover:text-thailand-red">
+                        See {cityName} temperatures, rain and conditions by month
+                        <span aria-hidden="true" className="text-thailand-gold transition group-hover:translate-x-1">&rarr;</span>
+                      </Link>
+                    </div>
+                  ) : null}
                 </div>
               </div>
 
@@ -594,6 +604,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     props: {
       city: JSON.parse(JSON.stringify(city)),
       topRoutes,
+      hasWeatherOwner: Object.prototype.hasOwnProperty.call(cityWeatherData, slug),
     },
     revalidate: 604800,
   };

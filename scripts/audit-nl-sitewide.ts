@@ -24,6 +24,11 @@ const refreshPrefixes = (process.env.SITE_AUDIT_REFRESH_PREFIXES || '')
   .split(',')
   .map(value => normalizedPath(value.trim()))
   .filter(value => value !== '/');
+const refreshRoutes = new Set((process.env.SITE_AUDIT_REFRESH_ROUTES || '')
+  .split(',')
+  .map(value => value.trim())
+  .filter(Boolean)
+  .map(normalizedPath));
 const partialAudit = Boolean(recheckReport) || routeLimit > 0;
 const requestTimeout = Math.max(5_000, Number(process.env.SITE_AUDIT_TIMEOUT_MS || 30_000));
 const reportPath = process.env.SITE_AUDIT_REPORT
@@ -160,7 +165,7 @@ function loadReusedPageResults(routes: string[]): { reused: RouteAudit[]; pendin
   const reused: RouteAudit[] = [];
   const pending: string[] = [];
   for (const route of routes) {
-    if (refreshPrefixes.some(prefix => route.startsWith(prefix))) {
+    if (refreshRoutes.has(route) || refreshPrefixes.some(prefix => route.startsWith(prefix))) {
       pending.push(route);
       continue;
     }

@@ -741,6 +741,44 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
               </div>
             )}
 
+            <nav aria-labelledby="complete-dish-directory" className="mt-14 overflow-hidden rounded-[28px] border border-jade/10 bg-jade text-white shadow-editorial-lift">
+              <div className="grid gap-8 p-7 sm:p-9 lg:grid-cols-[0.68fr_1.32fr] lg:p-11">
+                <div>
+                  <p className="text-[9px] font-extrabold uppercase tracking-[0.18em] text-saffron-light">Complete dish directory</p>
+                  <h3 id="complete-dish-directory" className="mt-3 font-display text-[2.75rem] font-semibold leading-[0.9] tracking-[-0.035em]">Find every Thai dish in this guide.</h3>
+                  <p className="mt-5 max-w-md text-sm font-medium leading-7 text-white/62">Browse the lightweight directory by dish type, then open the flavour, ingredient and ordering guide that fits what you found on the menu.</p>
+                </div>
+                <div className="grid gap-7 sm:grid-cols-2">
+                  {[
+                    { slug: 'main-dish', label: 'Main dishes' },
+                    { slug: 'soup', label: 'Soups' },
+                    { slug: 'curry', label: 'Curries' },
+                    { slug: 'salad', label: 'Salads' },
+                    { slug: 'dessert', label: 'Desserts' },
+                  ].map((group) => {
+                    const groupDishes = dishes.filter((dish) => dish.category === group.slug);
+                    if (!groupDishes.length) return null;
+
+                    return (
+                      <div key={group.slug}>
+                        <h4 className="border-b border-white/12 pb-3 text-[10px] font-extrabold uppercase tracking-[0.14em] text-saffron-light">{group.label}</h4>
+                        <ul className="mt-2 divide-y divide-white/8">
+                          {groupDishes.map((dish) => (
+                            <li key={dish.slug}>
+                              <Link href={`/food/${dish.slug}/`} className="group flex min-h-11 items-center justify-between gap-3 py-2 text-xs font-bold text-white/72 transition hover:text-white">
+                                <span>{dish.name.en}</span>
+                                <span aria-hidden="true" className="text-saffron-light transition group-hover:translate-x-1">&rarr;</span>
+                              </Link>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            </nav>
+
             {/* Show message when all dishes are displayed */}
             {visibleDishes >= dishes.length && (
               <div className="text-center mt-12 p-6 bg-white rounded-2xl">
