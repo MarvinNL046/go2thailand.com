@@ -1,0 +1,754 @@
+{
+  "captured_at": "2026-07-27T06:24:47.222Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "lopburi thailand",
+  "costs": {
+    "suggestions": 0.01656,
+    "related": 0.01284,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "lopburi thailand",
+    "thailand lopburi",
+    "lopburi in thailand",
+    "lopburi province thailand",
+    "lopburi thailand monkey festival",
+    "hotel in lopburi thailand",
+    "hotels lopburi thailand",
+    "lopburi city thailand",
+    "lopburi monkey banquet thailand",
+    "lopburi monkey problem",
+    "lopburi monkey temple thailand",
+    "lopburi thailand hotels",
+    "lopburi thailand monkey",
+    "lopburi thailand monkey temple",
+    "lopburi thailand monkeys",
+    "lopburi thailand sunflower",
+    "lopburi thailand sunflower season",
+    "lopburi thailand things to do",
+    "lopburi thailand to bangkok"
+  ],
+  "keywords": [
+    {
+      "keyword": "thailand lopburi",
+      "volume": 480,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi in thailand",
+      "volume": 210,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi province thailand",
+      "volume": 210,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand",
+      "volume": 210,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand monkey festival",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi city thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi monkey banquet thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi monkey problem",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi monkey temple thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi province thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand map",
+      "volume": 10,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand monkey",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand monkey temple",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand monkeys",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand sunflower",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand sunflower season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "monkey town thailand lopburi",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "muang lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sunflower field in lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand lopburi monkeys",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is lopburi in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is lopburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand from bangkok",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand is famous",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand karte",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ban mi lopburi thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand attractions",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand festival",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand is famous for",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand robbery",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand weather",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 4,
+      "visibility": 4,
+      "estimatedTraffic": 337.43999999999994
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 3,
+      "keywordCount": 4,
+      "visibility": 3.2,
+      "estimatedTraffic": 114.99600000000001
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 3.25,
+      "keywordCount": 4,
+      "visibility": 3.1,
+      "estimatedTraffic": 135.468
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 7.25,
+      "keywordCount": 4,
+      "visibility": 1.5,
+      "estimatedTraffic": 27.831
+    },
+    {
+      "domain": "thailande-et-asie.com",
+      "avgPosition": 10.5,
+      "keywordCount": 4,
+      "visibility": 1.4,
+      "estimatedTraffic": 34.188
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 11.5,
+      "keywordCount": 4,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 11.508
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 13,
+      "keywordCount": 4,
+      "visibility": 0.45,
+      "estimatedTraffic": 8.472
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 17.25,
+      "keywordCount": 4,
+      "visibility": 0.7,
+      "estimatedTraffic": 18.252
+    },
+    {
+      "domain": "www.alexinwanderland.com",
+      "avgPosition": 18.5,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.905
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 18.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.179
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 24,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.922999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 27.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.8009999999999997
+    },
+    {
+      "domain": "www.experiencetravelgroup.com",
+      "avgPosition": 7.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.35,
+      "estimatedTraffic": 24.864
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 32,
+      "keywordCount": 4,
+      "visibility": 0.4,
+      "estimatedTraffic": 7.266
+    },
+    {
+      "domain": "www.gintravels.com",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 9.341999999999999
+    },
+    {
+      "domain": "completecityguides.com",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.502000000000001
+    },
+    {
+      "domain": "thailand-elite.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.6,
+      "estimatedTraffic": 19.037999999999997
+    },
+    {
+      "domain": "nashaplaneta.net",
+      "avgPosition": 21,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.4489999999999998
+    },
+    {
+      "domain": "www.kkday.com",
+      "avgPosition": 41.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "itinerary.expert",
+      "avgPosition": 41.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "kids.kiddle.co",
+      "avgPosition": 41.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 8.595
+    },
+    {
+      "domain": "www.vietnamparadisetravel.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.596
+    },
+    {
+      "domain": "thetempletrail.com",
+      "avgPosition": 23,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.0869999999999997
+    },
+    {
+      "domain": "www.tripzilla.com",
+      "avgPosition": 44.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 44.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "theo-courant.com",
+      "avgPosition": 45.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "www.lopburi.go.th",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.9529999999999998
+    },
+    {
+      "domain": "www.conmochila.com",
+      "avgPosition": 46.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.4269999999999996
+    },
+    {
+      "domain": "www.istockphoto.com",
+      "avgPosition": 31.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.8899999999999997
+    },
+    {
+      "domain": "thailandforvisitors.com",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.323
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 52,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 36.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.352
+    },
+    {
+      "domain": "www.traveltoasiaandback.com",
+      "avgPosition": 52.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 54.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "www.gettyimages.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 6.048
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 8.337
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.982
+    },
+    {
+      "domain": "www.wheresidewalksend.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.336
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 59.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "jonistravelling.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.3439999999999999
+    },
+    {
+      "domain": "travelauthenticasia.com",
+      "avgPosition": 60.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "www.placesofjuma.com",
+      "avgPosition": 50.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.8899999999999997
+    },
+    {
+      "domain": "grokipedia.com",
+      "avgPosition": 63.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3309999999999995
+    },
+    {
+      "domain": "www.herotraveler.com",
+      "avgPosition": 26.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "travelpal.ai",
+      "avgPosition": 51.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.8899999999999997
+    },
+    {
+      "domain": "us.trip.com",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.travatravel.com",
+      "avgPosition": 52.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.8899999999999997
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.903
+    },
+    {
+      "domain": "hnvjourneys.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    }
+  ]
+}

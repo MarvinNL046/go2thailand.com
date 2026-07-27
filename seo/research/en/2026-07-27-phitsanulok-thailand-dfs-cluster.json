@@ -1,0 +1,382 @@
+{
+  "captured_at": "2026-07-27T06:24:44.490Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "phitsanulok thailand",
+  "costs": {
+    "suggestions": 0.01416,
+    "related": 0.01368,
+    "competitors": 0.01356
+  },
+  "competitorKeywords": [
+    "phitsanulok thailand",
+    "phitsanulok phitsanulok thailand",
+    "thailand phitsanulok",
+    "phitsanulok to bangkok",
+    "weather phitsanulok thailand",
+    "hotel in phitsanulok thailand",
+    "phitsanulok thailand hotels",
+    "phitsanulok nightlife",
+    "phitsanulok province thailand",
+    "phitsanulok thailand nightlife",
+    "phitsanulok thailand things to do",
+    "things to do in phitsanulok",
+    "things to do in phitsanulok thailand",
+    "what to do in phitsanulok thailand",
+    "where is phitsanulok in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "phitsanulok phitsanulok thailand",
+      "volume": 720,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phitsanulok thailand",
+      "volume": 720,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand phitsanulok",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airport phitsanulok thailand",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phitsanulok airport",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phitsanulok to bangkok",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather phitsanulok thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in phitsanulok thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel phitsanulok thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phitsanulok thailand hotels",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights from bangkok to phitsanulok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kalasin airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "narathiwat airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phitsanulok airport car rental",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phitsanulok airport departures",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phitsanulok nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phitsanulok province thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phitsanulok thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phitsanulok thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phitsanulok thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phitsanulok to bangkok flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in phitsanulok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in phitsanulok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in phitsanulok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is phitsanulok in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phitsanulok airport map",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "topland hotel and convention centre phitsanulok thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is the weather tomorrow phitsanulok thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 218.88
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 116.64
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 70.056
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 47.448
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 33.768
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 24.336
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 18.432000000000002
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 10.799999999999999
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 8.136
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.032
+    },
+    {
+      "domain": "www.penang-traveltips.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.672
+    },
+    {
+      "domain": "www.kkday.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.096
+    },
+    {
+      "domain": "thailandsun.12go.asia",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.376
+    }
+  ]
+}

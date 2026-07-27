@@ -1,0 +1,707 @@
+{
+  "captured_at": "2026-07-27T06:24:45.816Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "mae hong son thailand",
+  "costs": {
+    "suggestions": 0.01464,
+    "related": 0.01392,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "mae hong son thailand",
+    "mae hong son loop",
+    "mae hong son loop thailand",
+    "mae hong son province thailand",
+    "thailand mae hong son",
+    "pai pai district mae hong son 58130 thailand",
+    "mae hong son loop tour",
+    "hotels in mae hong son thailand",
+    "mae hong son chinese village",
+    "mae hong son loop dangerous",
+    "mae hong son loop how many days",
+    "mae hong son loop itinerary 5 days",
+    "mae hong son loop itinerary 7 days",
+    "mae hong son loop tour package",
+    "mae hong son pai thailand",
+    "pai amphoe pai mae hong son 58130 thailand",
+    "pai mae hong son 58130 thailand",
+    "things to do in mae hong son thailand",
+    "trekking mae hong son thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "pai mae hong son thailand",
+      "volume": 5400,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son province thailand",
+      "volume": 880,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand mae hong son",
+      "volume": 880,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son thailand",
+      "volume": 140,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pai pai district mae hong son 58130 thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop map",
+      "volume": 70,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fern resort mae hong son thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop tour",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in mae hong son thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son chinese village",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop by car",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop dangerous",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop how many days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop itinerary 5 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop itinerary 7 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop map google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop route",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop tour package",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son pai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son to ban rak thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pai amphoe pai mae hong son 58130 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pai mae hong son 58130 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in mae hong son thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trekking mae hong son thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in mae hong son thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather mae hong son thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is mae hong son in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "house for sale in thailand mae hong son",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son thailand tour",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "ban jabo mae hong son thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "house for sale in mae hong son thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son thailand nightlife",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 6.75,
+      "keywordCount": 4,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 92.30099999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 10,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 25.842
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 18.5,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 6.255
+    },
+    {
+      "domain": "catmotors.net",
+      "avgPosition": 20.25,
+      "keywordCount": 4,
+      "visibility": 1.05,
+      "estimatedTraffic": 66.131
+    },
+    {
+      "domain": "www.novo-monde.com",
+      "avgPosition": 22,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 12.765
+    },
+    {
+      "domain": "www.alovelyplanet.com",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 3,
+      "visibility": 2.9,
+      "estimatedTraffic": 557.72
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 26.75,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 17.525
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 20.842
+    },
+    {
+      "domain": "www.maehongsonholidays.com",
+      "avgPosition": 37,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.179
+    },
+    {
+      "domain": "thisremotecorner.com",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.9,
+      "estimatedTraffic": 144.79000000000002
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 30.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.331
+    },
+    {
+      "domain": "www.tourcompass.co.uk",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.7459999999999996
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 57.14
+    },
+    {
+      "domain": "live-less-ordinary.com",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 228.184
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 35.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 4.5,
+      "keywordCount": 2,
+      "visibility": 1.3,
+      "estimatedTraffic": 115.368
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 10.663
+    },
+    {
+      "domain": "www.drillinjourneys.com",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 45.056000000000004
+    },
+    {
+      "domain": "www.komoot.com",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 39.687999999999995
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 39.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.529
+    },
+    {
+      "domain": "www.magnificentworld.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 21.208
+    },
+    {
+      "domain": "www.thebrokebackpacker.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.75,
+      "estimatedTraffic": 61.775999999999996
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 41.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 42.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.331
+    },
+    {
+      "domain": "www.madornomad.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 8.712
+    },
+    {
+      "domain": "thailandinsider.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.053
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 44.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 7.28
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.864000000000001
+    },
+    {
+      "domain": "www.rickshawtravel.co.uk",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.93
+    },
+    {
+      "domain": "www.thetuktukclub.com",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.674
+    },
+    {
+      "domain": "www.thailandhilltribeholidays.com",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.448
+    },
+    {
+      "domain": "www.cyclingabout.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.135999999999999
+    },
+    {
+      "domain": "mychiangmaitour.com",
+      "avgPosition": 49.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.331
+    },
+    {
+      "domain": "www.biketourasia.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.336
+    },
+    {
+      "domain": "mindtrip.ai",
+      "avgPosition": 51.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.6,
+      "estimatedTraffic": 7.917
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 52,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "thailandtravelbag.com",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.632
+    },
+    {
+      "domain": "cyclingchiangmai.cc",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.872
+    },
+    {
+      "domain": "offtogetlost.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.077999999999999
+    },
+    {
+      "domain": "beyondelittlereddot.com",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.6959999999999997
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.492
+    },
+    {
+      "domain": "www.revolutionhostel.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.6959999999999997
+    },
+    {
+      "domain": "www.maehongsonhostel.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.6959999999999997
+    },
+    {
+      "domain": "www.adventureinyou.com",
+      "avgPosition": 35,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.6959999999999997
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 35.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.6959999999999997
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.483
+    },
+    {
+      "domain": "www.legalnomads.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 11.791999999999998
+    },
+    {
+      "domain": "www.chiangmaitraveller.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "maehongsonthailand.com",
+      "avgPosition": 38,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.483
+    },
+    {
+      "domain": "wonderfulchiangmaitravel.com",
+      "avgPosition": 69,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.179
+    }
+  ]
+}

@@ -2,10 +2,11 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, getAttractionBySlug, toAbsoluteImageUrl } from '../../../lib/cities';
+import { getCityBySlug, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, getAttractionBySlug, toAbsoluteImageUrl } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CitySupportSources from '../../../components/CitySupportSources';
+import type { ContentSource } from '../../../components/CitySupportSources';
 import { KrabiAttractionsGuide } from '../../../components/city/KrabiAttractionsGuide';
 import { AttractionsGuideTemplate } from '../../../components/city/AttractionsGuideTemplate';
 import { getNlAttractionsGuide } from '../../../data/attractions/nl';
@@ -27,6 +28,19 @@ interface Attraction {
   highlights: string[];
   image: string;
   visitAccess?: 'Free' | 'Ticketed' | null;
+  enhanced_description?: string;
+  googleMapsUrl?: string;
+}
+
+interface AttractionRecord {
+  id?: number;
+  slug: string;
+  name?: Attraction['name'];
+  type?: string;
+  description?: Attraction['description'];
+  highlights?: string[];
+  image: string;
+  entrance_fee?: { thb?: number };
   enhanced_description?: string;
   googleMapsUrl?: string;
 }
@@ -68,7 +82,7 @@ interface City {
     };
   };
   enhanced_description?: string;
-  contentSources?: any[];
+  contentSources?: ContentSource[];
   reviewed_by?: string;
   reviewed_at?: string;
   enhanced_at?: string;
@@ -575,7 +589,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     };
   }
 
-  const rawCity = city as any;
+  const rawCity = city as City & { content_sources?: ContentSource[] };
   const sanitizedCity = {
     id: city.id,
     slug: city.slug,
@@ -595,8 +609,10 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     editorialPositioning: rawCity.editorialPositioning ?? null,
     sourceSummary: rawCity.sourceSummary ?? null,
   };
-  const indexedAttractions = getEnhancedAttractionsByCity(slug);
-  const attractionRecords = new Map(indexedAttractions.map((attraction) => [attraction.slug, attraction]));
+  const indexedAttractions = getEnhancedAttractionsByCity(slug) as AttractionRecord[];
+  const attractionRecords = new Map<string, AttractionRecord>(
+    indexedAttractions.map((attraction) => [attraction.slug, attraction]),
+  );
 
   // English detail owners can exist as individual JSON files without being present in
   // either city index. Merge those files into the owner page so every published detail
@@ -610,10 +626,10 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       for (const filename of filenames) {
         if (filename === 'index.json' || !filename.endsWith('.json')) continue;
         const attractionSlug = filename.slice(0, -'.json'.length);
-        const detail = getAttractionBySlug(slug, attractionSlug, 'en');
+        const detail = getAttractionBySlug(slug, attractionSlug, 'en') as AttractionRecord | undefined;
         if (detail?.slug) attractionRecords.set(detail.slug, detail);
       }
-    } catch (_) {
+    } catch {
       // Some city owners intentionally have no attraction-detail directory.
     }
   }
