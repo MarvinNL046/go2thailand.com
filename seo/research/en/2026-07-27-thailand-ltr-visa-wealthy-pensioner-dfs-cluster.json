@@ -1,0 +1,48 @@
+{
+  "captured_at": "2026-07-27T15:16:25.186Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand ltr visa wealthy pensioner",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thailand ltr visa wealthy pensioner",
+    "thailand ltr wealthy pensioner visa requirements"
+  ],
+  "keywords": [
+    {
+      "keyword": "ltr visa thailand wealthy pensioner",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr wealthy pensioner visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa wealthy pensioner",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
