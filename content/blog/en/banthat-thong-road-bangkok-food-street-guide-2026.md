@@ -51,6 +51,6 @@ The easiest route is the **[BTS Skytrain](/blog/bangkok-public-transport-bts-mrt
 - **Bring cash.** Many stalls do not accept cards or QR payments.
 - **Wear comfortable shoes.** You will be walking and standing in queues.
 - **Go with an empty stomach.** The temptation to try "just one more stall" is real, and the portions are generous.
-- **Watch out for [travel scams](/blog/thailand-travel-scams-2026/).** Stay aware of overcharging and unofficial guides near busy food streets.
+- **Watch out for [travel scams](/practical-info/scams-safety/).** Stay aware of overcharging and unofficial guides near busy food streets.
 
 Banthat Thong Road proves that [Bangkok's street food scene](/blog/bangkok-street-food-beginners/) keeps reinventing itself. If your last trip focused on Yaowarat or [Jodd Fairs](/blog/jodd-fairs-bangkok-night-market-guide/), this is where to head next. For a broader overview of [where to stay in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/) while you explore the city's food scene, or to plan a longer trip with a [Bangkok itinerary](/blog/best-day-trips-from-bangkok/), the Pathum Wan area puts you within easy reach of everything.

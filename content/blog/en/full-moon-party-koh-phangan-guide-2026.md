@@ -534,7 +534,7 @@ Eat a substantial meal beforehand, pace your drinks (one per hour maximum), alte
 
 ### Are there female-specific safety concerns?
 
-Yes. Solo female travelers should be extra cautious about drink safety, avoid wandering alone after 3 AM, and consider attending with a friend or group. Sexual harassment and theft targeting women do occur, though the party is generally safer than rumors suggest. Trust your instincts and remove yourself from uncomfortable situations immediately. For broader safety guidance, our [solo female travel in Thailand](/blog/solo-female-travel-thailand-safety-tips/) guide has practical tips.
+Yes. Solo female travelers should be extra cautious about drink safety, avoid wandering alone after 3 AM, and consider attending with a friend or group. Sexual harassment and theft targeting women do occur, though the party is generally safer than rumors suggest. Trust your instincts and remove yourself from uncomfortable situations immediately. For broader safety guidance, our [solo female travel in Thailand](/travel-guides/solo-female-travel-thailand/) guide has practical tips.
 
 ### What if the party is canceled due to weather?
 

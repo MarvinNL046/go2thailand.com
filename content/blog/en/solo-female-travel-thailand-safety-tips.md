@@ -260,7 +260,7 @@ Thailand is affordable, but you need a solid financial plan to avoid stress and 
 
 **Money belts**: Carry your passport copy, emergency cash (500–1,000 THB), and one credit card in a money belt. Keep your main cash and cards separate.
 
-**Scams to avoid**: Gem scams, currency exchange scams, and "friendly local" scams are common. If an offer seems too good to be true, it is. Avoid changing money on the street. See our full [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) for a complete breakdown.
+**Scams to avoid**: Gem scams, currency exchange scams, and "friendly local" scams are common. If an offer seems too good to be true, it is. Avoid changing money on the street. See our full [Thailand travel scams guide](/practical-info/scams-safety/) for a complete breakdown.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -485,6 +485,6 @@ Stay in social hostels, take group cooking classes, join organized tours, and at
 
 Start in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or [Bangkok](https://go2-thailand.com/city/bangkok/), stay in reputable accommodation, use trusted transport, and trust your instincts. Join the community of solo female travelers—you're far from alone. Most importantly, embrace the adventure. Thailand rewards curiosity, respect, and openness.
 
-Ready to start planning? Check out our [Thailand travel guides](https://go2-thailand.com/travel-guides/) for detailed information on specific regions, our [island guides](https://go2-thailand.com/islands/) for beach destinations, and our [city guides](https://go2-thailand.com/city/) for urban exploration. Also worth reading: [is Thailand safe for tourists in 2026?](/blog/is-thailand-safe-tourists-2026/), our [Thailand budget guide](/thailand-index/budget/), the [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/), and the broader [Thailand solo travel boom 2026](/blog/thailand-solo-travel-boom-2026-tips-destinations/) article. You've got this.
+Ready to start planning? Check out our [Thailand travel guides](https://go2-thailand.com/travel-guides/) for detailed information on specific regions, our [island guides](https://go2-thailand.com/islands/) for beach destinations, and our [city guides](https://go2-thailand.com/city/) for urban exploration. Also worth reading: [is Thailand safe for tourists in 2026?](/is-thailand-safe/), our [Thailand budget guide](/thailand-index/budget/), the [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/), and the broader [Thailand solo travel boom 2026](/blog/thailand-solo-travel-boom-2026-tips-destinations/) article. You've got this.
 
 **Safe travels, and we hope to see you in Thailand soon.**

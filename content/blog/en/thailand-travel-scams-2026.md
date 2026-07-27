@@ -18,7 +18,7 @@ sources:
     url: "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html"
 ---
 
-After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and island-hopping through the south, our team has encountered nearly every **Thailand travel scam** in the book—and helped countless travelers avoid them. While Thailand remains one of the world's safest and most welcoming destinations, petty scams targeting tourists are real, systematic, and evolving in 2026. Our broader guide on [is Thailand safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/) covers the full picture beyond scams.
+After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and island-hopping through the south, our team has encountered nearly every **Thailand travel scam** in the book—and helped countless travelers avoid them. While Thailand remains one of the world's safest and most welcoming destinations, petty scams targeting tourists are real, systematic, and evolving in 2026. Our broader guide on [is Thailand safe for tourists in 2026](/is-thailand-safe/) covers the full picture beyond scams.
 
 The good news? Armed with knowledge, you can sidestep nearly all of them.
 
@@ -272,7 +272,7 @@ Once you send money, they disappear. If you're in Thailand and meet someone in p
 </div>
 
 
-**Never send money to someone you've only met online.** If they ask for money, they're scamming you. Be cautious of people who quickly profess love or suggest meeting in expensive bars. Stick to reputable dating apps with verification. If you meet someone in person, go to neutral venues (cafes, restaurants) rather than bars where you might be trapped into paying inflated bills. For solo travelers, see our [solo female travel safety tips for Thailand](/blog/solo-female-travel-thailand-safety-tips/).
+**Never send money to someone you've only met online.** If they ask for money, they're scamming you. Be cautious of people who quickly profess love or suggest meeting in expensive bars. Stick to reputable dating apps with verification. If you meet someone in person, go to neutral venues (cafes, restaurants) rather than bars where you might be trapped into paying inflated bills. For solo travelers, see our [solo female travel safety tips for Thailand](/travel-guides/solo-female-travel-thailand/).
 
 ---
 

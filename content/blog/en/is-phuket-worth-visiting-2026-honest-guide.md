@@ -490,6 +490,6 @@ However, if you're seeking authentic Thai culture, solitude, or budget-friendly 
 
 If you are travelling to Thailand primarily for fitness or sport, Bangkok hosts world-class events like [HYROX Bangkok](/blog/hyrox-bangkok-2026-fitness-racing-bitec-guide/) that pair well with a Phuket beach extension.
 
-For comprehensive planning, check our [Thailand 7-day itineraries](/blog/thailand-7-days-itineraries/) and [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) to maximize your time in the region. The [Thailand scams guide 2026](/blog/thailand-travel-scams-2026/) is also worth reading before you arrive.
+For comprehensive planning, check our [Thailand 7-day itineraries](/blog/thailand-7-days-itineraries/) and [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) to maximize your time in the region. The [Thailand scams guide 2026](/practical-info/scams-safety/) is also worth reading before you arrive.
 
 **Ready to book your Phuket trip?** Use our guides to find the best accommodation, activities, and transport options for your budget and travel style.

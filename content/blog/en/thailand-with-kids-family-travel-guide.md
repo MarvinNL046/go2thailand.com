@@ -586,7 +586,7 @@ Packing right prevents headaches. Here's what we never travel without:
 
 ### Is Thailand safe for families?
 
-Yes, Thailand is very safe for families. Crime against tourists is rare, and Thais are welcoming to children. Standard precautions apply: watch belongings, avoid dark alleys at night, and be cautious in crowded areas. The biggest risk is traffic accidents—use Grab or hire drivers rather than renting scooters. Our [is Thailand safe guide](/blog/is-thailand-safe-tourists-2026/) covers this in detail.
+Yes, Thailand is very safe for families. Crime against tourists is rare, and Thais are welcoming to children. Standard precautions apply: watch belongings, avoid dark alleys at night, and be cautious in crowded areas. The biggest risk is traffic accidents—use Grab or hire drivers rather than renting scooters. Our [is Thailand safe guide](/is-thailand-safe/) covers this in detail.
 
 ### What's the best age to take kids to Thailand?
 

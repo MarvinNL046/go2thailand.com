@@ -46,7 +46,7 @@ Authorities are promoting the **"5 Por" campaign** (five prohibitions), calling 
 
 ## Road Safety: The "Seven Dangerous Days"
 
-The Songkran period is traditionally known as the **"Seven Dangerous Days"** due to a sharp spike in road accidents across Thailand. The "Safe Songkran" initiative means **24/7 DUI checkpoints** and vehicle seizures for drunk drivers. For the latest travel safety advice for the country, see [is Thailand safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/).
+The Songkran period is traditionally known as the **"Seven Dangerous Days"** due to a sharp spike in road accidents across Thailand. The "Safe Songkran" initiative means **24/7 DUI checkpoints** and vehicle seizures for drunk drivers. For the latest travel safety advice for the country, see [is Thailand safe for tourists in 2026](/is-thailand-safe/).
 
 If you're visiting [Bangkok](/best-hotels/bangkok/) for Songkran, public transport is strongly recommended. The BTS Skytrain and MRT are the safest and most efficient ways to reach Khaosan Road and other celebration areas. The new [Yellow and Pink Line monorails](/blog/bangkok-yellow-pink-line-monorail-tourist-guide-2026/) also connect outer Bangkok to the festival zones.
 
@@ -56,7 +56,7 @@ If you're visiting [Bangkok](/best-hotels/bangkok/) for Songkran, public transpo
 - **Use a waterproof phone pouch**: essential for protecting your valuables
 - **Wear quick-dry clothing and water shoes**: you will get soaked
 - **Stay hydrated**: the [April heat](/blog/el-nino-2026-thailand-weather-heatwave-travel-tips/) combined with water fights is exhausting
-- **Keep copies of your passport** in your hotel safe — carry only a photocopy. Check our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) to avoid common tourist pitfalls.
+- **Keep copies of your passport** in your hotel safe — carry only a photocopy. Check our [Thailand travel scams guide](/practical-info/scams-safety/) to avoid common tourist pitfalls.
 - **Respect the culture**: Songkran is a religious holiday at its core, so be mindful of [monks and temple ceremonies](/blog/thailand-temple-etiquette-dress-code-guide-2026/)
 - **Book accommodation early**: explore [where to stay in Bangkok by neighbourhood](/blog/where-to-stay-bangkok-neighborhood-guide/) before options sell out over the festival period
 - **Consider alternative celebrations**: [Phra Pradaeng](/blog/phra-pradaeng-songkran-2026-mon-culture-samut-prakan/) near Samut Prakan hosts a quieter Mon-culture Songkran if you prefer something away from the crowds

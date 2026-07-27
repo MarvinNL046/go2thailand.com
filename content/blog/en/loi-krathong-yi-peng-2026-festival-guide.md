@@ -435,7 +435,7 @@ Thailand's festivals are generally safe, but crowds and unfamiliar environments 
 - Check that lanterns are properly constructed before release
 
 **Scams Targeting Tourists:**
-- Gem and jewelry scams (common in all Thai cities) — see our full [Thailand travel scams guide](/blog/thailand-travel-scams-2026/)
+- Gem and jewelry scams (common in all Thai cities) — see our full [Thailand travel scams guide](/practical-info/scams-safety/)
 - Fake tour operators offering "exclusive" lantern experiences
 - Overcharging for transport or services
 

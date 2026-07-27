@@ -533,7 +533,7 @@ Thailand's beaches are affected by two monsoon seasons. The **[best time to visi
 
 **Internet:** Get an [eSIM or Thai SIM card](https://go2-thailand.com/esim/) for connectivity. Most islands have 4G coverage, though remote areas may have spotty service.
 
-**Safety:** Beaches are generally safe. Watch for strong currents (red flags indicate dangerous conditions). Petty theft occurs in crowded areas—don't leave valuables unattended. Our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) covers common pitfalls to avoid.
+**Safety:** Beaches are generally safe. Watch for strong currents (red flags indicate dangerous conditions). Petty theft occurs in crowded areas—don't leave valuables unattended. Our [Thailand travel scams guide](/practical-info/scams-safety/) covers common pitfalls to avoid.
 
 **Respect Local Culture:** Wear modest clothing when away from beaches. Follow [temple etiquette](/blog/thailand-temple-etiquette-dress-code-guide-2026/) when visiting nearby shrines. Don't disrespect the Thai royal family. Avoid touching people's heads or pointing feet at people.
 

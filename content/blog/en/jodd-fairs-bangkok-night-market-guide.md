@@ -294,7 +294,7 @@ Afternoon downpours are common, but Jodd Fairs' covered areas mean you can still
 
 ## 7. Safety, Etiquette & Practical Tips
 
-**Jodd Fairs is very safe.** We've visited multiple times without incident, and it's frequented by families, students, and professionals. Standard Bangkok precautions apply: watch your belongings, avoid displaying large amounts of cash, and be aware of your surroundings in crowded areas. For a full safety overview, read our [Thailand safety guide for tourists 2026](/blog/is-thailand-safe-tourists-2026/).
+**Jodd Fairs is very safe.** We've visited multiple times without incident, and it's frequented by families, students, and professionals. Standard Bangkok precautions apply: watch your belongings, avoid displaying large amounts of cash, and be aware of your surroundings in crowded areas. For a full safety overview, read our [Thailand safety guide for tourists 2026](/is-thailand-safe/).
 
 ### Respecting Thai Culture
 

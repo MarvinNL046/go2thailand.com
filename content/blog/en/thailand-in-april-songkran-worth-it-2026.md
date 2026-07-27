@@ -250,7 +250,7 @@ Both allow cancellation up to 24 hours before for most Songkran activities in 20
 
 Either decision is valid. What kills trips is going without knowing what you are signing up for: believing the Instagram version of a 40C neon foam party while booking a 65-year-old mother with asthma into a hostel above Khao San Road.
 
-For more granular safety planning see our [Songkran 2026 water gun rules and safety guide](/blog/songkran-2026-water-gun-rules-fines-safety-guide/), the dedicated [Bangkok Khao San Road safety plan](/blog/bangkok-songkran-2026-khaosan-road-safety-plan/), and our general [Thailand safety update for 2026](/blog/is-thailand-safe-tourists-2026/).
+For more granular safety planning see our [Songkran 2026 water gun rules and safety guide](/blog/songkran-2026-water-gun-rules-fines-safety-guide/), the dedicated [Bangkok Khao San Road safety plan](/blog/bangkok-songkran-2026-khaosan-road-safety-plan/), and our general [Thailand safety update for 2026](/is-thailand-safe/).
 
 ## FAQ
 
@@ -291,4 +291,4 @@ Kids aged 5 and up usually love it with parental supervision, ear plugs and wate
 - [Songkran 2026 water gun rules, fines and safety guide](/blog/songkran-2026-water-gun-rules-fines-safety-guide/)
 - [Bangkok Khao San Road Songkran 2026 safety plan](/blog/bangkok-songkran-2026-khaosan-road-safety-plan/)
 - [Best time to visit Thailand: month-by-month guide](/blog/best-time-to-visit-thailand/)
-- [Is Thailand safe for tourists in 2026?](/blog/is-thailand-safe-tourists-2026/)
+- [Is Thailand safe for tourists in 2026?](/is-thailand-safe/)

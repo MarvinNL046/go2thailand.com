@@ -82,8 +82,8 @@ You can reach Ayutthaya easily from Bangkok: see our [Ayutthaya day trip guide](
 Before you go, make sure you have sorted out the basics:
 
 - [Thailand visa guide 2026](/visa/) — who needs a visa and how to apply
-- [Thailand travel scams to avoid](/blog/thailand-travel-scams-2026/) — staying safe as a tourist
-- [Is Thailand safe for tourists in 2026?](/blog/is-thailand-safe-tourists-2026/) — an honest overview
+- [Thailand travel scams to avoid](/practical-info/scams-safety/) — staying safe as a tourist
+- [Is Thailand safe for tourists in 2026?](/is-thailand-safe/) — an honest overview
 - [Best time to visit Thailand](/blog/best-time-to-visit-thailand/) — seasons, weather and festivals
 - [Best day trips from Bangkok](/blog/best-day-trips-from-bangkok/) — temples, parks and towns within easy reach
 

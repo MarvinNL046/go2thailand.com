@@ -91,7 +91,7 @@ Covers prepaid, non-refundable expenses if you need to cancel or cut your trip s
 
 ### Personal Belongings and Theft
 
-Thailand is generally [safe for tourists](/blog/is-thailand-safe-tourists-2026/), but petty theft happens — especially on crowded beaches and in night markets. Coverage for lost, stolen, or damaged belongings adds peace of mind. Review our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) to stay aware of the most common risks.
+Thailand is generally [safe for tourists](/is-thailand-safe/), but petty theft happens — especially on crowded beaches and in night markets. Coverage for lost, stolen, or damaged belongings adds peace of mind. Review our [Thailand travel scams guide](/practical-info/scams-safety/) to stay aware of the most common risks.
 
 ### Adventure Activities
 
@@ -173,7 +173,7 @@ Here's the problem: if you crash without valid insurance coverage, you're paying
 
 If you don't have a motorcycle license, consider Genki Traveler (covers 125cc without a license) or simply don't ride. Grab and Bolt ride-hailing apps are available across Thailand and cost a fraction of the medical bills you'd face after an accident.
 
-For more on staying safe, read our [common Thailand travel mistakes](/blog/10-biggest-thailand-travel-mistakes/) and [scam awareness guide](/blog/thailand-travel-scams-2026/). Families with children should also see our [Thailand with kids guide](/blog/thailand-with-kids-family-travel-guide/) for health and safety tips specific to travelling with young travelers.
+For more on staying safe, read our [common Thailand travel mistakes](/blog/10-biggest-thailand-travel-mistakes/) and [scam awareness guide](/practical-info/scams-safety/). Families with children should also see our [Thailand with kids guide](/blog/thailand-with-kids-family-travel-guide/) for health and safety tips specific to travelling with young travelers.
 
 ---
 

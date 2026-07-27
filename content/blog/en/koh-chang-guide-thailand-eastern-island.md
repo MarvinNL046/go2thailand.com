@@ -362,7 +362,7 @@ The rainy season brings frequent afternoon showers and occasional storms. The se
 
 ## 9. Safety, Practical Information & Getting Around
 
-**Koh Chang** is very safe by international standards. Violent crime against tourists is virtually non-existent, and petty theft is rare. Standard travel precautions apply—don't leave valuables unattended on beaches, use hotel safes, and be cautious with alcohol consumption. For comprehensive safety information, read our [Thailand safety guide for tourists](/blog/is-thailand-safe-tourists-2026/) and consider [travel insurance](/blog/travel-insurance-thailand-guide/) before your trip.
+**Koh Chang** is very safe by international standards. Violent crime against tourists is virtually non-existent, and petty theft is rare. Standard travel precautions apply—don't leave valuables unattended on beaches, use hotel safes, and be cautious with alcohol consumption. For comprehensive safety information, read our [Thailand safety guide for tourists](/is-thailand-safe/) and consider [travel insurance](/blog/travel-insurance-thailand-guide/) before your trip.
 
 ### Getting Around the Island
 

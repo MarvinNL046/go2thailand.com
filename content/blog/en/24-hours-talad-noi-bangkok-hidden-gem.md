@@ -250,7 +250,7 @@ All locations mentioned in this guide with Google Maps links:
 
 ### Is Talad Noi safe to visit?
 
-Yes. Talad Noi is a residential neighbourhood with families, shops, and temples. It's well-lit, walkable, and safe at all hours. As with anywhere in Bangkok, keep your valuables secure and be aware of your surroundings — our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) covers common pitfalls, but there are no specific safety concerns in Talad Noi itself.
+Talad Noi is a lived-in neighbourhood with homes, shops and temples, but no area is risk-free at every hour. Use the same city precautions you would elsewhere: keep valuables secure, choose a well-lit return route and check current local advice. Our [Thailand travel scams guide](/practical-info/scams-safety/) covers common visitor pitfalls.
 
 ### Can I visit Talad Noi with kids?
 

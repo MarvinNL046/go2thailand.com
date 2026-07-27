@@ -224,11 +224,11 @@ For a first visit, [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) or
 
 ### Is Thailand safe for first-time travelers?
 
-Very safe. Thailand welcomes over 35 million tourists annually and has excellent tourism infrastructure. Common-sense precautions apply — don't leave valuables unattended, use metered taxis or Grab, and be aware of common [scams](https://go2-thailand.com/blog/thailand-travel-scams-2026/). Read our full [safety guide](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/) for details.
+Very safe. Thailand welcomes over 35 million tourists annually and has excellent tourism infrastructure. Common-sense precautions apply — don't leave valuables unattended, use metered taxis or Grab, and be aware of common [scams](https://go2-thailand.com/practical-info/scams-safety/). Read our full [safety guide](https://go2-thailand.com/is-thailand-safe/) for details.
 
 ### Can I do this itinerary solo?
 
-Absolutely. Thailand is one of the best countries in the world for [solo travel](https://go2-thailand.com/blog/solo-female-travel-thailand-safety-tips/), including for women. Hostels are social, other travelers are everywhere, and locals are welcoming. Check our [Thailand solo travel boom guide](https://go2-thailand.com/blog/thailand-solo-travel-boom-2026-tips-destinations/) for practical tips. You'll never feel truly alone unless you want to.
+Absolutely. Thailand is one of the best countries in the world for [solo travel](https://go2-thailand.com/travel-guides/solo-female-travel-thailand/), including for women. Hostels are social, other travelers are everywhere, and locals are welcoming. Check our [Thailand solo travel boom guide](https://go2-thailand.com/blog/thailand-solo-travel-boom-2026-tips-destinations/) for practical tips. You'll never feel truly alone unless you want to.
 
 ### Should I book a package tour instead?
 

@@ -20,7 +20,7 @@ sources:
     url: "https://www.immigration.go.th/"
 ---
 
-After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and countless trips [island-hopping](/blog/thailand-island-hopping-guide/) through the south, our team has seen nearly every **Thailand travel mistake** in the book. We've watched first-time visitors overpay by 300%, miss their trains, fall for [scams](/blog/thailand-travel-scams-2026/), and leave Thailand frustrated—when a few simple precautions would have changed everything. This guide distills a decade of collective [experience](https://getyourguide.tpo.lv/GuAFfGGK) into 10 critical mistakes you absolutely must avoid.
+After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and countless trips [island-hopping](/blog/thailand-island-hopping-guide/) through the south, our team has seen nearly every **Thailand travel mistake** in the book. We've watched first-time visitors overpay by 300%, miss their trains, fall for [scams](/practical-info/scams-safety/), and leave Thailand frustrated—when a few simple precautions would have changed everything. This guide distills a decade of collective [experience](https://getyourguide.tpo.lv/GuAFfGGK) into 10 critical mistakes you absolutely must avoid.
 
 ## Key Takeaways
 

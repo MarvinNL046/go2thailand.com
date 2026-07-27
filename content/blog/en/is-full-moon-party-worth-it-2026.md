@@ -99,7 +99,7 @@ Let us be honest without fearmongering. The Full Moon Party is not a death trap,
 
 **6. Scooter accidents after.** The road back to Thong Sala has more accidents on Full Moon nights than any other time of the month. Do not rent a scooter for the party. Use the shared pickup taxis (songthaews) running all night.
 
-For a broader view of Thai travel safety, see our [Is Thailand safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/) guide.
+For a broader view of Thai travel safety, see our [Is Thailand safe for tourists in 2026](/is-thailand-safe/) guide.
 
 ## Cost Breakdown: What You Will Actually Spend
 
@@ -219,4 +219,4 @@ If you are looking for a chilled beach, quality music, or cultural depth, this i
 
 Either way, Koh Phangan itself is worth 3 to 5 nights regardless of whether you party. Waterfalls, viewpoints, yoga retreats in Sri Thanu, and some of the best snorkeling in the Gulf of Thailand are all waiting past the Haad Rin chaos.
 
-Plan the rest of your trip with our [Thailand budget backpacker guide](/thailand-index/budget/) and make a considered safety call using [Is Thailand safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/).
+Plan the rest of your trip with our [Thailand budget backpacker guide](/thailand-index/budget/) and make a considered safety call using [Is Thailand safe for tourists in 2026](/is-thailand-safe/).

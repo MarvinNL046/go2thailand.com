@@ -328,7 +328,7 @@ Email the Thailand Immigration Bureau through the official website if you're hav
 
 If all else fails, arrive early at immigration and explain the situation. Have your passport ready and be prepared to provide the details you submitted (arrival date, flight number, accommodation address). Immigration officers can look up your submission in the system.
 
-**Budget Option**: Don't pay third-party "recovery" services claiming they can retrieve your TDAC for a fee. The immigration system is free to access. For a broader rundown of scams targeting tourists, see our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/).
+**Budget Option**: Don't pay third-party "recovery" services claiming they can retrieve your TDAC for a fee. The immigration system is free to access. For a broader rundown of scams targeting tourists, see our [Thailand travel scams guide](/practical-info/scams-safety/).
 
 ---
 

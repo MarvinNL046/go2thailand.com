@@ -154,6 +154,33 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // Independent EN research preserves the ranking broad owner, the
+      // ranking scams spoke and the specialist solo-female guide. Retire
+      // only the zero-signal duplicates after their own checks.
+      {
+        source: '/thailand-index/safety/',
+        destination: '/is-thailand-safe/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/blog/is-thailand-safe-tourists-2026/',
+        destination: '/is-thailand-safe/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/blog/thailand-travel-scams-2026/',
+        destination: '/practical-info/scams-safety/',
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: '/blog/solo-female-travel-thailand-safety-tips/',
+        destination: '/travel-guides/solo-female-travel-thailand/',
+        permanent: true,
+        locale: false,
+      },
       // The researched practical-info owner carries broad NL etiquette,
       // temple, wai and social-custom intent. Preserve the English guide
       // until its own English research and redesign phase.

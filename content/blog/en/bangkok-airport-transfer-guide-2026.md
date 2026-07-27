@@ -179,7 +179,7 @@ Anyone who tells you the Public Taxi Queue is "closed" or "broken" is lying. It 
 | **Gem / Tailor Detour** | "Special one-day sale, I show you" | You lose 2 hours and get pressured to buy fake gems | Firm "no", ask to go directly to your destination. |
 | **Commission Tuk-Tuk** | "Grand Palace closed today, I take you around" | 300 THB tour through kickback stops | Palace is open. Walk away. |
 
-For a wider overview of travel risks in Thailand, see our guide to [whether Thailand is safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/).
+For a wider overview of travel risks in Thailand, see our guide to [whether Thailand is safe for tourists in 2026](/is-thailand-safe/).
 
 ## Between BKK and DMK: Airport-to-Airport Transfers
 

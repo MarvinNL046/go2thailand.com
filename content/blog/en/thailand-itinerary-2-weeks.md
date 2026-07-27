@@ -426,7 +426,7 @@ Thailand has excellent hospitals, especially in Bangkok and Chiang Mai. **Bangko
 
 ### Is it safe to travel alone?
 
-Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept drinks from strangers, and use registered taxis or Grab. Women travelers should take standard precautions (avoid walking alone late at night, etc.). Check [Thailand safety guide](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/) for current conditions.
+Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept drinks from strangers, and use registered taxis or Grab. Women travelers should take standard precautions (avoid walking alone late at night, etc.). Check [Thailand safety guide](https://go2-thailand.com/is-thailand-safe/) for current conditions.
 
 ---
 
@@ -434,7 +434,7 @@ Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept 
 
 Two weeks in Thailand is enough to experience the country's soul—the chaos of Bangkok, the spirituality of Chiang Mai, and the paradise of the islands. This itinerary balances must-see sights with breathing room for spontaneity. You'll eat incredible food, meet kind locals, and leave wanting to return. Not sure if two weeks is the right length? Our guide on [how long to spend in Thailand](/blog/how-long-spend-thailand) helps you decide based on your travel style.
 
-**Ready to book?** For a broader overview of route options including 7-day and 10-day plans, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/city/chiang-mai/hotels/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg. Before you travel, review our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) to stay safe.
+**Ready to book?** For a broader overview of route options including 7-day and 10-day plans, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/city/chiang-mai/hotels/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg. Before you travel, review our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and our [Thailand travel scams guide](/practical-info/scams-safety/) to stay safe.
 
 Have questions? Check out our comprehensive [Thailand travel guides](https://go2-thailand.com/travel-guides/) or reach out. We've been there—we know what works.
 

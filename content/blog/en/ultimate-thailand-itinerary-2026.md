@@ -420,7 +420,7 @@ Thailand is one of the safest and easiest countries in the world for solo travel
 No specific vaccines are legally required, but the CDC recommends being up to date on **Hepatitis A**, **Typhoid**, and routine vaccinations. If you plan to visit rural or jungle areas in the north, discuss **Japanese Encephalitis** and **malaria prophylaxis** with your doctor. Bring basic medication for traveler's diarrhea — pharmacies are plentiful but language barriers can make explaining symptoms difficult.
 
 ### Is Thailand safe for tourists in 2026?
-Yes. Thailand consistently ranks among the safest countries in Southeast Asia for tourists. Petty theft (especially in crowded markets and on beaches) is the biggest concern. Use hotel safes, watch your belongings on public transport, and avoid riding scooters without a helmet or proper experience. For more, read our [Thailand safety guide](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026).
+Many travellers complete established Thailand routes without serious problems, but no destination is risk-free and official regional advice can change. Secure valuables, plan transport carefully and do not ride a scooter without the correct licence, experience, helmet and insurance cover. Before departure, check the live sources in our [Thailand safety guide](/is-thailand-safe/).
 
 ---
 

@@ -116,7 +116,7 @@ During our time exploring Bangkok's [Chatuchak Market](/blog/chatuchak-market-ba
 
 ## 3. Tourist Scams: Know the Tricks
 
-Thailand's scam ecosystem is sophisticated and well-documented. The good news? Most scams are easily avoided once you know them. We've catalogued the most common ones below. For a deep-dive, see our dedicated [Thailand travel scams guide](/blog/thailand-travel-scams-2026/).
+Thailand's scam ecosystem is sophisticated and well-documented. The good news? Most scams are easily avoided once you know them. We've catalogued the most common ones below. For a deep-dive, see our dedicated [Thailand travel scams guide](/practical-info/scams-safety/).
 
 ### The Gem Scam (Avoid Completely)
 
@@ -311,7 +311,7 @@ In our experience, confrontations with Thai people almost always stem from touri
 
 ## 8. Women Travelers: Safety Considerations
 
-Thailand is generally safe for solo female travelers, but gender-specific risks exist. We've traveled with female colleagues throughout Thailand and observed patterns worth noting. Our dedicated [solo female travel safety guide](/blog/solo-female-travel-thailand-safety-tips/) goes deeper on specific precautions.
+Thailand is generally safe for solo female travelers, but gender-specific risks exist. We've traveled with female colleagues throughout Thailand and observed patterns worth noting. Our dedicated [solo female travel safety guide](/travel-guides/solo-female-travel-thailand/) goes deeper on specific precautions.
 
 ### Real Risks for Women
 

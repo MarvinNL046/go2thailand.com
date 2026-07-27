@@ -56,7 +56,7 @@ While TTM+ is a trade event rather than a public festival, its outcomes directly
 
 For those planning a trip to Pattaya in June, expect increased hotel occupancy around the convention center area during the event dates. Check our [best hotels in Pattaya](/best-hotels/pattaya/) guide and consider a day trip to [Koh Larn island](/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/) while you're in the area. The [Pattaya Walking Street reinvention 2026](/blog/pattaya-walking-street-reinvention-2026/) is also worth following if you're curious about the city's evolving nightlife scene. June visitors may also want to check out the [Pattaya Pride Circuit Festival](/blog/pattaya-pride-circuit-festival-asia-lgbtq-june-2026/) happening around the same time.
 
-For first-time visitors planning around the event, our [Thailand first-timers essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) are essential reading before you go.
+For first-time visitors planning around the event, our [Thailand first-timers essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand travel scams guide](/practical-info/scams-safety/) are essential reading before you go.
 
 **Sources:**
 - [Pattaya Mail - Thailand Travel Mart Plus 2026 heads to Pattaya](https://www.pattayamail.com/latestnews/news/thailand-travel-mart-plus-2026-heads-to-pattaya-in-june-540081)

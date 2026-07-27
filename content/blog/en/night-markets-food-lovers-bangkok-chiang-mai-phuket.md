@@ -374,7 +374,7 @@ The market experience in Phuket is also more transactional than in Chiang Mai, b
 
 ## 10. Safety, Etiquette & Practical Essentials
 
-Night markets in Thailand are generally safe, but like any crowded public space, they require basic awareness and respect for local customs. During our years in Thailand, we've navigated markets safely by following simple principles: watch your belongings, respect local customs, and approach interactions with humility and good humor. For a broader picture, see our [Thailand safety guide](/blog/is-thailand-safe-tourists-2026/).
+Night markets in Thailand are generally safe, but like any crowded public space, they require basic awareness and respect for local customs. During our years in Thailand, we've navigated markets safely by following simple principles: watch your belongings, respect local customs, and approach interactions with humility and good humor. For a broader picture, see our [Thailand safety guide](/is-thailand-safe/).
 
 ### Safety Realities & Precautions
 

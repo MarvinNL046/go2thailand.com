@@ -34,11 +34,11 @@ The result is a nightlife scene that feels more like a Las Vegas-style entertain
 
 ## Longer Hours, Stricter Safety
 
-Adding to the transformation, [Phuket](/city/phuket/) authorities have extended closing hours to [4 AM](/blog/thailand-4am-closing-time-nightlife-law-2026/) for over 150 establishments in [Patong](/city/phuket/attractions/patong-beach/), up from the old 2 AM cutoff. But longer hours come with tighter oversight. Kathu district officials have set up a dedicated "war room" to monitor late-night venues and ensure patron safety, and police enforcement on drink-spiking and [overcharging scams](/blog/thailand-travel-scams-2026/) is noticeably stronger than in previous years.
+Adding to the transformation, [Phuket](/city/phuket/) authorities have extended closing hours to [4 AM](/blog/thailand-4am-closing-time-nightlife-law-2026/) for over 150 establishments in [Patong](/city/phuket/attractions/patong-beach/), up from the old 2 AM cutoff. But longer hours come with tighter oversight. Kathu district officials have set up a dedicated "war room" to monitor late-night venues and ensure patron safety, and police enforcement on drink-spiking and [overcharging scams](/practical-info/scams-safety/) is noticeably stronger than in previous years.
 
 ## More Inclusive Crowds
 
-Perhaps the biggest cultural shift is who is actually visiting. Female travelers and couples now make up nearly 30 percent of the late-night [Walking Street](/city/phuket/attractions/bangla-road/) crowd, a figure that was unthinkable five years ago. Venues have responded by creating VIP lounge areas, offering craft [cocktail menus](/blog/bangkok-best-cocktail-bars-march-2026-nightlife/), and toning down aggressive touts outside their doors. [Solo female travelers](/blog/solo-female-travel-thailand-safety-tips/) will also find the atmosphere considerably more welcoming than it used to be.
+Perhaps the biggest cultural shift is who is actually visiting. Female travelers and couples now make up nearly 30 percent of the late-night [Walking Street](/city/phuket/attractions/bangla-road/) crowd, a figure that was unthinkable five years ago. Venues have responded by creating VIP lounge areas, offering craft [cocktail menus](/blog/bangkok-best-cocktail-bars-march-2026-nightlife/), and toning down aggressive touts outside their doors. [Solo female travelers](/travel-guides/solo-female-travel-thailand/) will also find the atmosphere considerably more welcoming than it used to be.
 
 ## What It Means for Your Trip
 

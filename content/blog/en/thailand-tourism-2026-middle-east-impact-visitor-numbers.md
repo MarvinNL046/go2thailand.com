@@ -39,7 +39,7 @@ For tourists planning a trip to Thailand from Europe, here is what to expect:
 - **Flights may take longer** due to airspace restrictions and rerouting — see the dedicated article on [Middle East conflict and Thailand flights](/blog/middle-east-conflict-thailand-flights-airfare-2026/)
 - **Ticket prices** on some routes have increased due to higher fuel costs
 - **Availability** at popular [Bangkok hotels](/best-hotels/bangkok/) and resorts may actually improve as overall European arrivals dip
-- **Thailand itself remains safe** and unaffected by the conflict — see the [Thailand safety guide for 2026](/blog/is-thailand-safe-tourists-2026/)
+- **Thailand itself remains safe** and unaffected by the conflict — see the [Thailand safety guide for 2026](/is-thailand-safe/)
 
 ## Thailand's Response: Pivot to Regional Markets
 

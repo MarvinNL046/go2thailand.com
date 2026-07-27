@@ -238,7 +238,7 @@ Book domestic flights and popular cooking classes 3–4 weeks ahead, especially 
 
 ### Is Thailand safe for solo travelers?
 
-Thailand is one of the safest countries in Southeast Asia for solo travelers. Read our [Thailand safety guide](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/) for detailed tips. Use common sense with valuables, avoid isolated areas late at night, and be wary of common [scams](https://go2-thailand.com/blog/thailand-travel-scams-2026/).
+Thailand is one of the safest countries in Southeast Asia for solo travelers. Read our [Thailand safety guide](https://go2-thailand.com/is-thailand-safe/) for detailed tips. Use common sense with valuables, avoid isolated areas late at night, and be wary of common [scams](https://go2-thailand.com/practical-info/scams-safety/).
 
 ### Do I need a visa?
 

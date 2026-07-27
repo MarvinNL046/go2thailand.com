@@ -363,7 +363,7 @@ Tonsai Beach's bars are predictable—electronic music, bucket drinks (150–200
 
 Phi Phi is generally safe, but standard precautions apply. Avoid leaving valuables unattended on beaches—petty theft occurs, especially in crowded areas. Use hotel safes for passports and excess cash.
 
-**Mosquitoes** are present year-round. Dengue fever and malaria are rare but possible. Use insect repellent, particularly at dawn and dusk. Consider antimalarial medication if you're visiting during May–October. Brush up on common risks with our guide to [Thailand travel scams and safety](/blog/thailand-travel-scams-2026/).
+**Mosquitoes** are present year-round. Dengue fever and malaria are rare but possible. Use insect repellent, particularly at dawn and dusk. Consider antimalarial medication if you're visiting during May–October. Brush up on common risks with our guide to [Thailand travel scams and safety](/practical-info/scams-safety/).
 
 **Marine hazards** include strong currents, sea urchins, and occasional stonefish. Wear reef shoes when wading. Ask locals about current conditions before swimming in unfamiliar areas.
 

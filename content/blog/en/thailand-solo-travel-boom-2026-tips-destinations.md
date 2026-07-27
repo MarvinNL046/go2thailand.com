@@ -32,7 +32,7 @@ Thailand consistently ranks as one of the most solo-friendly countries in Asia, 
 
 - **Cost:** A comfortable solo day in Thailand costs between 1,500 and 3,000 baht (roughly 40 to 85 USD), covering accommodation, meals, and local transport. See our [2026 daily budget breakdown](/thailand-index/budget/) for a detailed overview.
 - **Infrastructure:** Overnight buses, domestic flights, and ferry networks connect every region without needing a car. The [Bangkok sleeper train to Chiang Mai](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) is a solo-travel classic.
-- **Safety:** Thailand remains one of the safest destinations in Southeast Asia for independent travelers, with a well-developed tourist police network. Solo female travelers can also check our dedicated [safety tips guide](/blog/solo-female-travel-thailand-safety-tips/).
+- **Safety:** Thailand remains one of the safest destinations in Southeast Asia for independent travelers, with a well-developed tourist police network. Solo female travelers can also check our dedicated [safety tips guide](/travel-guides/solo-female-travel-thailand/).
 - **Social scene:** [Hostels](/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/), co-working cafes, and group activities like [cooking classes](/blog/thai-cooking-classes-chiang-mai/) and diving courses make it easy to meet other travelers.
 
 ## Best Destinations for Solo Travelers in 2026

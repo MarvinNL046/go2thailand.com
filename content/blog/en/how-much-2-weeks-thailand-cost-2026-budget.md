@@ -547,7 +547,7 @@ Before you book, use this checklist to estimate your real costs.
 - [ ] Book first 3–4 nights accommodation
 - [ ] Research [Thailand weather](https://go2-thailand.com/weather/) for your travel dates
 - [ ] Get an [eSIM or SIM card](https://go2-thailand.com/esim/) — see [best SIM card guide for 2026](/travel-guides/sim-card-thailand/)
-- [ ] Read about [Thailand travel scams to avoid](https://go2-thailand.com/blog/thailand-travel-scams-2026/)
+- [ ] Read about [Thailand travel scams to avoid](https://go2-thailand.com/practical-info/scams-safety/)
 - [ ] Download offline maps and translation apps
 - [ ] Check [vaccination requirements](https://go2-thailand.com/travel-guides/health-hospitals-thailand/)
 
@@ -591,7 +591,7 @@ Our advice? Don't obsess over budget. Spend money on 2–3 experiences that exci
 
 Ready to plan your trip? Start with our [7-day Thailand itineraries](https://go2-thailand.com/blog/thailand-7-days-itineraries/) or the [14-day Thailand itinerary](https://go2-thailand.com/blog/thailand-itinerary-2-weeks/) to see how to structure your time, then use this guide to budget accordingly. Also check the [10-day Thailand itinerary](https://go2-thailand.com/blog/thailand-10-day-itinerary/) if you want the sweet spot between depth and coverage. And remember: the best souvenirs from Thailand aren't things—they're memories and friendships made along the way.
 
-**Have questions about costs in specific cities?** Check out our [Bangkok budget guide](https://go2-thailand.com/city/bangkok/budget/), [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/), or the [Phuket travel guide 2026](https://go2-thailand.com/blog/phuket-travel-guide-2026/) for deeper dives into regional pricing. For the safest possible trip, read [is Thailand safe for tourists in 2026](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/) before you depart.
+**Have questions about costs in specific cities?** Check out our [Bangkok budget guide](https://go2-thailand.com/city/bangkok/budget/), [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/), or the [Phuket travel guide 2026](https://go2-thailand.com/blog/phuket-travel-guide-2026/) for deeper dives into regional pricing. For the safest possible trip, read [is Thailand safe for tourists in 2026](https://go2-thailand.com/is-thailand-safe/) before you depart.
 
 ---
 
