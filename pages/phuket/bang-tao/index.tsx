@@ -7,6 +7,7 @@ import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC } from '../../../lib/affiliates';
 import { useSubId } from '../../../lib/useSubId';
+import BangTaoAreaGuideEn from '../../../components/phuket/BangTaoAreaGuideEn';
 
 interface Partner { partnerUrl: string; label: string; }
 interface Partners { trip_pillar: Partner; trip_hotels: Partner; klook_pillar: Partner; gyg_pillar: Partner; viator_pillar: Partner; trip_hilton_garden: Partner; }
@@ -16,6 +17,10 @@ export default function BangTaoPillar({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (!isNl) {
+    return <BangTaoAreaGuideEn hotelHref={partners.trip_pillar.partnerUrl} activityHref={partners.klook_pillar.partnerUrl} />;
+  }
   const placement = (p: string) => `${subId}-pseo-phuket-bang-tao-pillar-${p}`;
 
   const breadcrumbs = [
