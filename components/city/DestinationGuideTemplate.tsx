@@ -144,7 +144,7 @@ const templateCopy = {
     threeChoices: "in three choices",
     fits: "Best for:",
     stayGuide: "Open the stay guide",
-    chooseZone: "Choose your coastal zone",
+    chooseZone: "Choose your travel zone",
     whichPart: "Which part of",
     suits: "fits your trip?",
     zoneIntro:
@@ -464,6 +464,7 @@ export function DestinationGuideTemplate({
           image={data.hero.image}
           imageAlt={data.hero.imageAlt}
           breadcrumbs={breadcrumbs}
+          breadcrumbAriaLabel={data.locale === "nl" ? "Kruimelpad" : "Breadcrumb"}
           eyebrow={data.hero.eyebrow}
           title={
             <>
@@ -519,7 +520,10 @@ export function DestinationGuideTemplate({
           }
         />
 
-        <PageSectionNav items={sectionNavItems} />
+        <PageSectionNav
+          label={data.locale === "nl" ? "Op deze pagina" : "On this page"}
+          items={sectionNavItems}
+        />
 
         <section
           id="kort"

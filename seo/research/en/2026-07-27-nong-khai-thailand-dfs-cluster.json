@@ -1,0 +1,741 @@
+{
+  "captured_at": "2026-07-27T01:19:13.801Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "nong khai thailand",
+  "costs": {
+    "suggestions": 0.01632,
+    "related": 0.01272,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "nong khai thailand",
+    "weather nong khai thailand",
+    "hotel in nong khai thailand",
+    "hotels in nong khai thailand",
+    "nong khai thailand hotels",
+    "cheap hotels in nong khai thailand",
+    "how far is nong khai from bangkok",
+    "is nong khai worth visiting",
+    "living in nong khai thailand",
+    "mueang nong khai nong khai thailand",
+    "nong khai province thailand",
+    "nong khai refugee camp",
+    "real estate nong khai thailand",
+    "things to do in nong khai thailand",
+    "weather forecast nong khai thailand",
+    "what to do in nong khai thailand",
+    "where is nong khai in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "nong khai thailand",
+      "volume": 170,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather nong khai thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in nong khai thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel nong khai thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in nong khai thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai thailand hotels",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai thailand nightlife",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bung kan nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "car rental nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fao rai nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "house for sale in nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how far is nong khai from bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is nong khai worth visiting",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "land for sale in nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mueang nong khai nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mut mee nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai airport thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai hospital thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai province thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai refugee camp",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nong khai thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phon phisai nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for sale nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rattanawapi nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "real estate nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tha bo nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather forecast nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in nong khai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is nong khai in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massage nong khai thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mutmee guesthouse nong khai thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "postcode nong khai thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sangkhom nong khai thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai thailand google maps",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai thailand population",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 51.68
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 27.54
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 16.541
+    },
+    {
+      "domain": "bbqboy.net",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 11.203
+    },
+    {
+      "domain": "www.adventuresofjellie.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 5.7459999999999996
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 4.352
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.55
+    },
+    {
+      "domain": "thelonerider.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9209999999999998
+    },
+    {
+      "domain": "maps.apple.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.5470000000000002
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.275
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.952
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8670000000000001
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.731
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.731
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.5609999999999999
+    },
+    {
+      "domain": "tourismthailand.my",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.459
+    },
+    {
+      "domain": "thetempletrail.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.408
+    },
+    {
+      "domain": "www.istockphoto.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.391
+    },
+    {
+      "domain": "au.trip.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.374
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.expedia.co.th",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "patricklepetit.jalbum.net",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.siamroutes.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.shutterstock.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "medium.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.tourismethai.fr",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.sawadiscovery.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.dotproperty.co.th",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.conmochila.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.alamy.com",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "en.wiktionary.org",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "theworldtravelindex.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.nationthailand.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "academickids.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.vietnamparadisetravel.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.wisdomlib.org",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "thaiben.com",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.expedia.com.hk",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "grokipedia.com",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "yatramantra.com",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "salattimes.com",
+      "avgPosition": 58,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "jonesyinthailand.com",
+      "avgPosition": 60,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "12go.asia",
+      "avgPosition": 63,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.touronthai.com",
+      "avgPosition": 65,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    }
+  ]
+}
