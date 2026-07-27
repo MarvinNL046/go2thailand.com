@@ -27,6 +27,7 @@ import ThailandDtvGuide from '../../components/visa/ThailandDtvGuide';
 import ThailandRetirementVisaGuide from '../../components/visa/ThailandRetirementVisaGuide';
 import ThailandRetirementVisaGuideEn from '../../components/visa/ThailandRetirementVisaGuideEn';
 import ThailandTouristVisaGuide from '../../components/visa/ThailandTouristVisaGuide';
+import ThailandTouristVisaGuideEn from '../../components/visa/ThailandTouristVisaGuideEn';
 import ThailandVisaExtensionGuide from '../../components/visa/ThailandVisaExtensionGuide';
 import ThailandEducationVisaGuide from '../../components/visa/ThailandEducationVisaGuide';
 import ThailandLtrVisaGuide from '../../components/visa/ThailandLtrVisaGuide';
@@ -90,6 +91,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
   if (locale === 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuide />;
   if (locale !== 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuideEn />;
   if (locale === 'nl' && visa.slug === 'tourist-visa') return <ThailandTouristVisaGuide />;
+  if (locale !== 'nl' && visa.slug === 'tourist-visa') return <ThailandTouristVisaGuideEn />;
   if (locale === 'nl' && visa.slug === 'visa-extension') return <ThailandVisaExtensionGuide />;
   if (locale === 'nl' && visa.slug === 'education-visa') return <ThailandEducationVisaGuide />;
   if (locale === 'nl' && visa.slug === 'ltr-visa') return <ThailandLtrVisaGuide />;
