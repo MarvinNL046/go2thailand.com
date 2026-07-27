@@ -1,0 +1,210 @@
+import type { DestinationGuideData } from "../types";
+
+export const suratThaniDestinationGuideEn: DestinationGuideData = {
+  citySlug: "surat-thani",
+  cityName: "Surat Thani",
+  locale: "en",
+  pageTitle: "Surat Thani Thailand: city, ferry & route guide 2026",
+  pageDescription:
+    "Plan Surat Thani without terminal confusion: explore the river city, compare airport, Phun Phin station and Don Sak, then choose islands, Khao Sok or Chaiya.",
+  pageUrl: "https://go2-thailand.com/city/surat-thani/",
+  dateModified: "2026-07-27",
+  coordinates: { latitude: 9.1382, longitude: 99.3217 },
+  touristType: ["Island routes", "Rail travellers", "Food travellers", "Southern Thailand routes"],
+  stayGuideHref: "/where-to-stay/surat-thani/",
+  foodGuideHref: "/city/surat-thani/food/",
+  hero: {
+    image: "/images/redesign/surat-thani-destination-hero.webp",
+    imageAlt: "Tapee River and Surat Thani riverfront in warm evening light",
+    eyebrow: "A southern river city—not one generic ferry terminal",
+    title: "Surat Thani",
+    accent: "Thailand",
+    subtitle: "Stay for the market and river. Leave from the exact hub your ticket names.",
+    description:
+      "Surat Thani city, the airport, Phun Phin railway station and Don Sak ferry piers are separate places. One night turns a risky connection into a southern food-and-river chapter; a second makes room for Bang Bai Mai or Chaiya.",
+    imageClassName: "object-cover object-[58%_center] lg:object-center",
+    stats: [
+      { label: "Useful city stay", value: "1 night", icon: "calendar" },
+      { label: "Transport reality", value: "4 separate hubs", icon: "map" },
+      { label: "Best city layer", value: "Market + Tapee", icon: "food" },
+    ],
+  },
+  quickAnswer: {
+    eyebrow: "First answer: city or connection",
+    title: "Surat Thani is worth one night when the route needs a hinge",
+    paragraphs: [
+      "Surat Thani is a working southern river city and the capital of a province that also contains famous islands and Khao Sok. The city itself offers old commercial streets, the Tapee riverfront, market food and access to canal communities. It does not have the island beaches many travellers accidentally expect from the province name.",
+      "One night is useful between a late train or flight and the next day’s ferry or park transfer. Two nights let you add either Bang Bai Mai and Khlong Roi Sai for canal-community context or Chaiya and Phum Riang for Srivijaya heritage and craft traditions.",
+      "The essential planning fact is four hubs: Surat Thani Airport, the railway station at Phun Phin, downtown Surat Thani and the Don Sak ferry terminals. A combined ticket can connect them, but only the exact pickup, pier, island arrival and final hotel transfer reveal the real journey.",
+    ],
+    verdicts: [
+      { label: "Is Surat Thani worth it?", value: "Yes, for 1 night", description: "Best as a genuine river-city stop and a safer southern connection.", icon: "sparkles" },
+      { label: "Does the city have beaches?", value: "No island-style beach base", description: "Use the city for river, food and routes; choose the islands for beaches.", icon: "waves" },
+      { label: "How many days?", value: "1–2 nights", description: "One for city and connection; two for Bang Bai Mai or Chaiya.", icon: "calendar" },
+      { label: "Main planning error", value: "Booking only ‘Surat Thani’", description: "Airport, Phun Phin, downtown and Don Sak are different endpoints.", icon: "map" },
+    ],
+  },
+  zones: [
+    {
+      slug: "old-town-tapee",
+      name: "Old town, market & Tapee River",
+      kicker: "A real city layer between tickets",
+      image: "/images/redesign/surat-thani-old-town.webp",
+      imageAlt: "Historic shopfronts and local morning life in Surat Thani",
+      summary:
+        "Talat Lang, older commercial streets, the City Pillar area and Tapee River create a compact arrival-day route. Walk in cooler light, ask locally which evening market is active and expect a working city rather than a polished open-air museum.",
+      bestFor: "An arrival afternoon, food travellers, one-night stays and rail or flight connections with margin.",
+      tradeoff: "Not every street is restored or photogenic and market locations change. The ordinary city is the point, not a flaw.",
+    },
+    {
+      slug: "bang-bai-mai",
+      name: "Bang Bai Mai & Khlong Roi Sai",
+      kicker: "A confirmed canal half day",
+      image: "/images/redesign/surat-thani-destination-hero.webp",
+      imageAlt: "River and canal life around Surat Thani",
+      summary:
+        "Across the river, the green canal network connects homes, temples, gardens and local products. Book through a transparent local operator or community group, confirm the day’s programme and treat residents’ spaces as homes—not scenery with guaranteed wildlife or photo opportunities.",
+      bestFor: "Slow travel, a second morning and visitors interested in water-based community life.",
+      tradeoff: "Market, boat and community activities do not run identically every day. Ask who operates the visit and what your payment supports.",
+    },
+    {
+      slug: "chaiya-phum-riang",
+      name: "Chaiya & Phum Riang",
+      kicker: "Srivijaya heritage and making traditions",
+      image: "/images/redesign/surat-thani-chaiya.webp",
+      imageAlt: "White Srivijaya-style stupa at Wat Phra Borommathat Chaiya",
+      summary:
+        "Wat Phra Borommathat Chaiya and the nearby museum reveal a much older historical layer than the modern gateway city. Phum Riang adds weaving and coastal-community context. Treat Chaiya as a northern route block, not a quick detour between downtown and Don Sak.",
+      bestFor: "Religious heritage, archaeology, textiles, local products and travellers with a second mainland night.",
+      tradeoff: "Temple, museum and community access follow separate schedules. Dress respectfully and verify the visit directly.",
+    },
+    {
+      slug: "four-hubs",
+      name: "Airport, Phun Phin, city & Don Sak",
+      kicker: "Transport is a geography decision",
+      image: "/images/redesign/surat-thani-route-banner.webp",
+      imageAlt: "Route diagram from airport and railway through Surat Thani to Don Sak ferry",
+      summary:
+        "The railway station is in Phun Phin, the airport lies outside town and the main island ferries leave from Don Sak. Downtown agents may sell a combined product, but that does not move the pier into the city. Record every literal pickup and arrival point before comparing price.",
+      bestFor: "Every traveller combining train, flight, ferry, city stay or Khao Sok transfer.",
+      tradeoff: "A cheap separate ticket can hide extra transfers and missed-connection risk. Compare the full route to the final hotel or park base.",
+    },
+  ],
+  highlights: [
+    {
+      eyebrow: "The city before the ticket counter",
+      title: "Walk first; confirm the onward handover second",
+      image: "/images/redesign/surat-thani-old-town.webp",
+      imageAlt: "Morning rhythm in an older Surat Thani street",
+      description:
+        "Older shop streets, the City Pillar and Tapee River create a useful half day without pretending Surat Thani is a monumental capital. Keep one clear time block for live ticket or weather checks, but do not let logistics consume every hour of the stop.",
+      decision: "Walk in cooler light, cross traffic deliberately and treat the City Pillar as a sacred place.",
+      href: "/city/surat-thani/attractions/",
+    },
+    {
+      eyebrow: "Community route, not performance",
+      title: "Choose one canal visit with a named local operator",
+      image: "/images/redesign/surat-thani-destination-hero.webp",
+      imageAlt: "Tapee River as the entrance to Surat Thani’s canal landscape",
+      description:
+        "Ask who owns the boat, what is included, how long the route takes and whether payment reaches a local group. Do not request baited wildlife, invasive photographs or access to private homes simply because a reseller labels the activity community tourism.",
+      decision: "Keep wildlife distant, ask before photographing people and let weather or water conditions cancel the plan without pressure.",
+      href: "/city/surat-thani/attractions/",
+    },
+    {
+      eyebrow: "Heritage before the pier",
+      title: "Give Chaiya a real half day",
+      image: "/images/redesign/surat-thani-chaiya.webp",
+      imageAlt: "Religious and archaeological heritage at Wat Phra Borommathat Chaiya",
+      description:
+        "The compact white stupa, museum and Phum Riang context make Chaiya stronger than a roadside photograph. It lies north of the city rather than on the route to Don Sak, so add it only when the second-night geography works.",
+      decision: "Verify museum and community access, cover shoulders and knees and buy crafts from a transparent maker or shop.",
+      href: "/city/surat-thani/attractions/",
+    },
+  ],
+  featureBanner: {
+    image: "/images/redesign/surat-thani-route-banner.webp",
+    imageAlt: "Dotted route linking airport, Phun Phin station, river city and Don Sak ferry",
+    eyebrow: "Four waypoints, four different jobs",
+    title: "Do not book to ‘Surat Thani’. Book to the correct hub.",
+    description: "Write down airport, station, city pickup or Don Sak pier—and the island arrival pier. Only then can time, price and connection risk be compared honestly.",
+  },
+  food: {
+    image: "/images/redesign/surat-thani-food.webp",
+    imageAlt: "Patongo, rice dumplings, pork rice, khanom chin, coffee and tea in Surat Thani",
+    eyebrow: "The city begins at breakfast",
+    title: "Markets and southern flavour give the connection a place",
+    description:
+      "Surat Thani mixes Thai-Chinese morning dishes with assertive southern curries. Use one early snack stop, one market tasting and one complete southern meal instead of collecting restaurant names that may change. Ask about fish sauce, shrimp paste, shellfish, peanuts, stock and shared cooking surfaces.",
+    dishes: [
+      { name: "Patongo & a hot drink", description: "Fresh fried dough with local coffee, tea or soy drink makes a simple early start. Buy a small portion at a stall with visible turnover." },
+      { name: "Khao kriab pak mor", description: "Steamed rice dumplings reflect the city’s Thai-Chinese layer. Ask about filling, soy, peanuts, dried shrimp and shared preparation." },
+      { name: "Khanom chin & southern curry", description: "Rice noodles with spicy curry and vegetables can contain fish sauce, shrimp paste, seafood or meat stock even when the plate looks plant-led." },
+    ],
+  },
+  itinerary: {
+    eyebrow: "One city, one extension, one exact departure",
+    title: "Surat Thani without terminal roulette",
+    description: "Keep the city compact and give day two one task. Then move linearly toward Don Sak, Khao Sok or the northern rail route.",
+    days: [
+      { day: "Arrival", title: "Stay where tomorrow begins logically", description: "Choose downtown and Tapee when there is time for food and walking. Stay nearer Phun Phin or the airport only when an early departure makes the extra city transfer irrational. Confirm pickup and luggage before check-in.", href: "/where-to-stay/surat-thani/" },
+      { day: "Day 1", title: "Old town, City Pillar, Tapee and market food", description: "Walk in cooler light, pause through midday and use the evening for the river and active market. Keep one empty hour for a current operator or weather check.", href: "/city/surat-thani/food/" },
+      { day: "Day 2", title: "Bang Bai Mai or Chaiya", description: "Choose canal-community context close to the city or a dedicated northbound heritage route. Combining both before a Don Sak ferry creates a fragile, geographically confused day.", href: "/city/surat-thani/attractions/" },
+      { day: "Onward", title: "Don Sak, Khao Sok or the Southern Line", description: "Confirm the exact terminal, operator, arrival pier and final transfer. For Khao Sok, distinguish Khlong Sok village from the Ratchaprapha and Cheow Lan side.", href: "/city/khao-sok/" },
+    ],
+  },
+  planning: {
+    weather: {
+      title: "The city day is more flexible than a ferry or park day",
+      summary: "Surat Thani city works year-round when heat and showers are planned around morning, pause and evening. Gulf wind can alter a boat while the market remains open; heavy rain can affect a road or canal route without stopping every activity in the province.",
+      best: "City route: flexible across the year with a live forecast.",
+      tradeoff: "One general Thailand season cannot guarantee Samui seas, Don Sak ferries and Khao Sok trails at the same time. Check each operator or authority close to departure.",
+      href: "/city/surat-thani/best-time-to-visit/",
+      image: "/images/redesign/surat-thani-destination-hero.webp",
+      imageAlt: "Tapee River under changing southern weather",
+    },
+    transport: {
+      title: "Write four complete addresses before comparing tickets",
+      summary: "Airport, Phun Phin station, downtown and Don Sak are separate. A combined bus-and-boat ticket can be useful only when pickup, waiting, pier, ferry, island port and change terms are explicit. Compare the full route to the hotel or park base.",
+      facts: [
+        "Surat Thani Railway Station is in Phun Phin, not beside the downtown Tapee market.",
+        "A ferry crossing time is not the total journey from airport, station or city; road transfer, check-in, waiting and island transport remain.",
+        "For Khao Sok, book the literal hotel or pier: Khlong Sok village and the Cheow Lan side are not adjacent.",
+        "Leave genuine connection margin and ask what happens when one leg of a combined product is delayed or cancelled.",
+      ],
+      image: "/images/redesign/surat-thani-route-banner.webp",
+      imageAlt: "Complete transport chain through Surat Thani Province",
+    },
+  },
+  practicalTips: [
+    { icon: "map", title: "Save the exact terminal pin", description: "Keep the name, map pin and contact for every airport, station, pickup, pier and island port on the voucher." },
+    { icon: "ship", title: "Build real connection margin", description: "Train, flight, bus and ferry can each be delayed; ideal road time is not a safe last-boat plan." },
+    { icon: "car", title: "Drive only with legal cover", description: "Use car or scooter only with correct licence, insurance and experience; provincial roads are not a beginner shortcut." },
+    { icon: "compass", title: "Leave wildlife unbaited", description: "Never feed or lure monkeys or other wildlife on canal and community routes." },
+  ],
+  faqs: [
+    { question: "Is it worth going to Surat Thani?", answer: "Yes when you want a real southern river city, market food and a safer transport hinge. One night is useful; two allow Bang Bai Mai or Chaiya. If the islands are your only goal and a reliable combined transfer aligns, a city stop is optional." },
+    { question: "What is Surat Thani famous for?", answer: "The province is famous as the mainland gateway to Koh Samui, Koh Phangan and Koh Tao and includes Khao Sok. The city is a working Tapee River hub with markets and southern food; Chaiya adds important Srivijaya-era heritage." },
+    { question: "How long should I stay in Surat Thani?", answer: "One night is enough for old town, river and market food and is practical between transport legs. Stay two nights for Bang Bai Mai or Chaiya. Do not add a city night merely as a checkbox when a comfortable confirmed connection already works." },
+    { question: "Is there anything to do in Surat Thani Town?", answer: "Yes. Walk older commercial streets, visit the City Pillar respectfully, follow the Tapee riverfront and eat in the active market layer. That fills an arrival afternoon, evening and morning without pretending the city is an island beach destination." },
+    { question: "What can you do in Surat Thani for one day?", answer: "Use cooler morning or afternoon light for old town and City Pillar, pause through peak heat, then walk the river and eat locally. Keep time to confirm the next operator, pickup and weather rather than forcing a remote excursion." },
+    { question: "How do I get from Surat Thani Airport to town?", answer: "Use a current airport bus, shared transfer, taxi or pre-arranged car according to live availability. The airport is outside downtown. Confirm the exact drop-off, luggage, total price and whether your onward ticket instead transfers directly toward Don Sak or Khao Sok." },
+    { question: "Where is it best to stay in Surat Thani?", answer: "Stay downtown near the river and food for a normal one-night stop. Choose Phun Phin or an airport-area property only when a very early departure makes downtown inefficient. For a ferry, compare a city night with a confirmed Don Sak transfer." },
+    { question: "Does Surat Thani have nice beaches?", answer: "Surat Thani city is not an island-style beach base. The province contains famous Gulf islands, but reaching them requires road and ferry transport. Choose the city for river, food and logistics; choose an island owner for beach planning." },
+    { question: "Is there a train from Bangkok to Surat Thani?", answer: "The Southern Line serves Surat Thani Railway Station in Phun Phin. It is not in the downtown river district. Check the State Railway of Thailand for the current departure station, train and date, then plan the final road transfer." },
+    { question: "What is the best way to get from Surat Thani to Koh Samui?", answer: "Usually a road transfer to a Don Sak ferry connects to a specific port on Koh Samui. The best product is the one that clearly states pickup, pier, boat, island arrival and hotel transfer. Verify live timing and change rules with the operator." },
+  ],
+  relatedGuides: [
+    { title: "Things to do in Surat Thani", description: "Compare old town, Tapee, Bang Bai Mai and Chaiya by distance and meaning.", href: "/city/surat-thani/attractions/", image: "/images/redesign/surat-thani-old-town.webp", imageAlt: "Old commercial street in Surat Thani" },
+    { title: "Where to stay in Surat Thani", description: "Choose downtown, station or airport around the first departure of the next day.", href: "/where-to-stay/surat-thani/", image: "/images/redesign/surat-thani-destination-hero.webp", imageAlt: "Surat Thani river city at evening" },
+    { title: "Khao Sok guide", description: "Continue west only after choosing village or lake-side access.", href: "/city/khao-sok/", image: "/images/redesign/surat-thani-route-banner.webp", imageAlt: "Route from Surat Thani toward Khao Sok" },
+  ],
+  sources: [
+    { title: "Surat Thani", creator: "Tourism Authority of Thailand", url: "https://www.tourismthailand.org/Destinations/Provinces/SuratThani/354", note: "Official province context for Tapee, canal communities, islands and food." },
+    { title: "A Different Side of Surat Thani: No Sea Required", creator: "Tourism Authority of Thailand", url: "https://www.tourismthailand.org/Articles/a-different-side-of-surat-thani-no-sea-required", note: "Official mainland context for Chaiya and Phum Riang." },
+    { title: "Surat Thani Airport", creator: "Department of Airports", url: "https://tfic.airports.go.th/lcd/?p=TSB", note: "Primary airport information; routes and schedules remain live checks." },
+    { title: "State Railway of Thailand", creator: "State Railway of Thailand", url: "https://www.railway.co.th/", note: "Primary source for current Southern Line stations and services." },
+    { title: "Seatran Ferry", creator: "Seatran Ferry", url: "https://www.seatranferry.com/", note: "Primary operator source for current Don Sak routes; timing and price are not frozen." },
+    { title: "Thailand weather", creator: "Thai Meteorological Department", url: "https://www.tmd.go.th/en", note: "Primary source for current mainland and Gulf weather warnings." },
+  ],
+};
