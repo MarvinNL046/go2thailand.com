@@ -1,0 +1,789 @@
+{
+  "captured_at": "2026-07-27T19:26:13.056Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand high season",
+  "costs": {
+    "suggestions": 0.01476,
+    "related": 0.015,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand high season",
+    "high season in thailand",
+    "high season thailand",
+    "when is high season in thailand",
+    "when is the high season in thailand",
+    "what is high season in thailand",
+    "high season hotel thailand",
+    "high season in thailand for tourists",
+    "high season thailand 2025",
+    "high season thailand show",
+    "is april high season in thailand",
+    "is february high season in thailand",
+    "is january high season in thailand",
+    "is march high season in thailand",
+    "is november high season in thailand",
+    "thailand high season months",
+    "thailand tourism high season",
+    "when is high and low season in thailand",
+    "when is high season in pattaya thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "best time to go to thailand phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit thailand bangkok",
+      "volume": 880,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit thailand",
+      "volume": 480,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheapest time to visit thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "high season in thailand",
+      "volume": 390,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "high season thailand",
+      "volume": 390,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand high season",
+      "volume": 390,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "when is high season in thailand",
+      "volume": 210,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the high season in thailand",
+      "volume": 210,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand low season",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket and krabi",
+      "volume": 30,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is may a good time to visit phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit bangkok",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is april a good time to visit phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is high season in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit bangkok for shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit thailand for shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit thailand october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheapest time to visit thailand from uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "high season hotel thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "high season in thailand for tourists",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "high season thailand 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "high season thailand show",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is april high season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is april low season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is february high season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is january high season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is june a good time to visit phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is march high season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is november high season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "most expensive time to visit thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand high season months",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourism high season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is high and low season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "when is high season in pattaya thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is high season in thailand for tourists",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "worst time to visit thailand from uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket 2024",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is july high season in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "low and high season thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand high and low season dates",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 1.75,
+      "keywordCount": 4,
+      "visibility": 3.7,
+      "estimatedTraffic": 228.807
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 1.75,
+      "keywordCount": 4,
+      "visibility": 3.7,
+      "estimatedTraffic": 291.573
+    },
+    {
+      "domain": "www.selectiveasia.com",
+      "avgPosition": 3,
+      "keywordCount": 4,
+      "visibility": 3.2,
+      "estimatedTraffic": 135.924
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 5,
+      "keywordCount": 4,
+      "visibility": 2.4,
+      "estimatedTraffic": 77.63399999999999
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 6,
+      "keywordCount": 4,
+      "visibility": 2,
+      "estimatedTraffic": 48.609
+    },
+    {
+      "domain": "www.responsibletravel.com",
+      "avgPosition": 6.75,
+      "keywordCount": 4,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 36.894
+    },
+    {
+      "domain": "royalvacationdmc.com",
+      "avgPosition": 8,
+      "keywordCount": 4,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 25.416
+    },
+    {
+      "domain": "www.audleytravel.com",
+      "avgPosition": 10,
+      "keywordCount": 4,
+      "visibility": 1.5999999999999999,
+      "estimatedTraffic": 34.347
+    },
+    {
+      "domain": "northabroad.com",
+      "avgPosition": 11.5,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 10.482
+    },
+    {
+      "domain": "www.intrepidtravel.com",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.65,
+      "estimatedTraffic": 19.104
+    },
+    {
+      "domain": "www.travelandleisure.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 18.633
+    },
+    {
+      "domain": "www.tuneprotect.co.th",
+      "avgPosition": 11.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 12.798
+    },
+    {
+      "domain": "www.bambootravel.co.uk",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 7.05
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 16,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.6510000000000002
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.746
+    },
+    {
+      "domain": "tripwis.com",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.864
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 39.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.002
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 20,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.4570000000000003
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.601
+    },
+    {
+      "domain": "www.thomascook.in",
+      "avgPosition": 21.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.562
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 5.396999999999999
+    },
+    {
+      "domain": "all.accor.com",
+      "avgPosition": 22.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.415
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 22.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.211
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 23,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.806
+    },
+    {
+      "domain": "toptravelthailand.com",
+      "avgPosition": 42.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.378
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 25,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.8179999999999998
+    },
+    {
+      "domain": "www.thailandhighlights.com",
+      "avgPosition": 43.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.6259999999999994
+    },
+    {
+      "domain": "thailand.go.th",
+      "avgPosition": 44.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.69
+    },
+    {
+      "domain": "www.adventure-life.com",
+      "avgPosition": 27,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.experiencetravelgroup.com",
+      "avgPosition": 30.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.779
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 32,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "seasonsyear.com",
+      "avgPosition": 32.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.gadventures.com",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.74
+    },
+    {
+      "domain": "www.goaheadtours.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.clubmed.co.th",
+      "avgPosition": 37.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.enchantingtravels.com",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 7.0889999999999995
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 44,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "freedomdestinations.co.uk",
+      "avgPosition": 45.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.clubmed.com.au",
+      "avgPosition": 46,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.firebirdtours.com",
+      "avgPosition": 49,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.kimkim.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.travelfika.com",
+      "avgPosition": 53,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.2599999999999998
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.2599999999999998
+    },
+    {
+      "domain": "retiredworkingforyou.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.003
+    },
+    {
+      "domain": "www.tourcompass.co.uk",
+      "avgPosition": 41.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.justwravel.com",
+      "avgPosition": 63,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.onthegotours.com",
+      "avgPosition": 48,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    }
+  ]
+}
