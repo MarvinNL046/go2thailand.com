@@ -1,0 +1,2334 @@
+{
+  "captured_at": "2026-07-27T20:59:31.058Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "is thailand safe",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.015,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "is thailand safe",
+    "is it safe in thailand",
+    "is it safe to travel in thailand now",
+    "is it safe to travel thailand now",
+    "is it safe to travel to thailand now",
+    "is it safe to travel to thailand right now",
+    "is it safe to visit thailand now",
+    "is travel to thailand safe right now",
+    "is it safe to travel to thailand",
+    "is thailand safe to travel",
+    "is it safe to go to thailand",
+    "is it safe to visit thailand",
+    "is thailand safe for tourists",
+    "is thailand safe for travel",
+    "is thailand safe to visit",
+    "is visiting thailand safe",
+    "is bangkok thailand safe",
+    "is phuket thailand safe",
+    "is it safe to travel to bangkok thailand now"
+  ],
+  "keywords": [
+    {
+      "keyword": "bad news for tourists in thailand",
+      "volume": 2400,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is it safe in thailand",
+      "volume": 2400,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel in thailand now",
+      "volume": 2400,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel thailand now",
+      "volume": 2400,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand now",
+      "volume": 2400,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand right now",
+      "volume": 2400,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to visit thailand now",
+      "volume": 2400,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe",
+      "volume": 2400,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is travel to thailand safe right now",
+      "volume": 2400,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand",
+      "volume": 1300,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel",
+      "volume": 1300,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel warning thailand today",
+      "volume": 1300,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is it safe to go to thailand",
+      "volume": 880,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to visit thailand",
+      "volume": 880,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for tourists",
+      "volume": 880,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for travel",
+      "volume": 880,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to visit",
+      "volume": 880,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is visiting thailand safe",
+      "volume": 880,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is bangkok thailand safe",
+      "volume": 720,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is phuket thailand safe",
+      "volume": 590,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to bangkok thailand now",
+      "volume": 320,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel now",
+      "volume": 320,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand is it safe",
+      "volume": 260,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to phuket now",
+      "volume": 210,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to phuket thailand now",
+      "volume": 210,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand lockdown update today",
+      "volume": 210,
+      "kd": 52,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "are flights to thailand cancelled today",
+      "volume": 170,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how safe is thailand",
+      "volume": 170,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand at the moment",
+      "volume": 170,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for single female travelers",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for solo female travellers",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chiang mai thailand safe",
+      "volume": 140,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel to right now",
+      "volume": 110,
+      "kd": 52,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand a safe country",
+      "volume": 90,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how safe is thailand for tourists",
+      "volume": 70,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe in thailand for tourists",
+      "volume": 70,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to koh samui now",
+      "volume": 70,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is travel to thailand safe",
+      "volume": 70,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand is it safe for tourists",
+      "volume": 70,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how safe is bangkok thailand",
+      "volume": 50,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is bangkok thailand safe to travel to",
+      "volume": 50,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to holiday in thailand",
+      "volume": 50,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand from uk",
+      "volume": 50,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand now from uk",
+      "volume": 50,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is krabi thailand safe",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand a safe place to travel",
+      "volume": 50,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand a safe place to visit",
+      "volume": 50,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe at the moment",
+      "volume": 50,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to fly to thailand at the moment",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for women",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe right now",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to live",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand cambodia war is it safe to travel",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand-cambodia war is it safe to travel",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel to thailand is it safe",
+      "volume": 40,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to drive in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to get a tattoo in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to live in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to bangkok thailand right now",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to phuket now from uk",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand 2025",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand 2026",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe from tsunami",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel from uk",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand latest news for tourist",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how safe is phuket thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is backpacking in thailand safe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chicken from thailand safe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chicken from thailand safe to eat",
+      "volume": 20,
+      "kd": 49,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is ice safe in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to backpack in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to eat street food in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to swim in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel alone in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel in thailand alone",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel thailand alone",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to krabi now",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand alone",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is phuket safe for solo female travellers",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is street food safe in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is tap water safe in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand a safe place to live",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for backpackers",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for families",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to go to",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel alone",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to visit right now",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand water safe to drink",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is water safe to drink in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how safe is pattaya thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how safe is thailand for female tourists",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how safe is thailand for women",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how safe is thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how safe is thailand to live",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "international travel warning thailand today",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is 7 11 ice safe in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is 7/11 ice safe in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is airbnb safe in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is bangkok in thailand safe",
+      "volume": 10,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is bangkok thailand safe for tourists",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is betong thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is boiled tap water safe to drink in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is bottled water safe in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is fish from thailand safe to eat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is food from thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is food in thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is fruit safe to eat in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is grab safe in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is hua hin thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is ice safe in thailand for tourists",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe for americans to live in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to boil tap water in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to buy property in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to carry cash in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to drink alcohol in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to drink cocktails in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to drink coffee in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to drink the water in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to eat salad in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to eat seafood in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to fly from thailand to cambodia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to go to thailand from uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to hire a car in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to rent a car in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to scuba dive in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel alone to thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel from thailand to cambodia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel solo in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to bangkok thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to cambodia from thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to krabi thailand now",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand after earthquake",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand after the earthquake",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand in november",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand in october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand in september",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand now after earthquake",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand now reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand right now reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand today",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand via dubai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand while pregnant",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to travel to thailand with the war",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to use credit card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to vacation in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to wear jewelry in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it safe to work in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is jasmine rice from thailand safe to eat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is krabi thailand safe to visit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is living in thailand safe",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is northern thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is phuket thailand safe to travel",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is plastic surgery in thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is rayong thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is rice from thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is rice from thailand safe to eat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is safe to travel to thailand now",
+      "volume": 10,
+      "kd": 54,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is sailing in thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is satun thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is shrimp from thailand safe to eat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is skydiving in thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is songkhla thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is south thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is street food in thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is street food in thailand safe to eat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is tap water in thailand safe to drink",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is tap water safe to drink in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand a safe country for tourists",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand a safe country for women",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand a safe country to live",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand beauty products safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand covid safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe after earthquake",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe at night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for a family holiday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for chinese",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for family travel",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for female travellers",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for honeymoon",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for lgbt",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for solo female",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for solo female travellers reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for solo male travellers",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for solo travellers",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe for women to live",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe from war",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to live for americans",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to live for foreigners",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel alone as a female",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel covid",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel for women",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel now from uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel too",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand safe to travel with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand street food safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand tap water safe to drink after boiling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand water safe to drink after boiling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand water safe to shower",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is the red light district in thailand safe",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is trat thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is travel safe to thailand",
+      "volume": 10,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is travel to thailand safe now",
+      "volume": 10,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is tuna from thailand safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is uber safe in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sex in thailand is safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand and cambodia war is it safe to travel",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand cambodia is it safe to travel",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand solo female travel itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand solo travel group",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand warning today",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.gov.uk",
+      "avgPosition": 1,
+      "keywordCount": 19,
+      "visibility": 19,
+      "estimatedTraffic": 8727.840000000002
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3.263157894736842,
+      "keywordCount": 19,
+      "visibility": 14.700000000000003,
+      "estimatedTraffic": 2649.1919999999996
+    },
+    {
+      "domain": "www.bhtp.com",
+      "avgPosition": 4.684210526315789,
+      "keywordCount": 19,
+      "visibility": 11.999999999999998,
+      "estimatedTraffic": 1573.241
+    },
+    {
+      "domain": "travel.gc.ca",
+      "avgPosition": 3.7222222222222223,
+      "keywordCount": 18,
+      "visibility": 13.250000000000004,
+      "estimatedTraffic": 3029.2959999999994
+    },
+    {
+      "domain": "www.smartraveller.gov.au",
+      "avgPosition": 5,
+      "keywordCount": 18,
+      "visibility": 10.8,
+      "estimatedTraffic": 2016.6279999999997
+    },
+    {
+      "domain": "travel.state.gov",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 18,
+      "visibility": 6.549999999999999,
+      "estimatedTraffic": 750.8520000000001
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 15,
+      "keywordCount": 19,
+      "visibility": 1.3,
+      "estimatedTraffic": 178.45200000000003
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 13.5,
+      "keywordCount": 18,
+      "visibility": 1.4500000000000002,
+      "estimatedTraffic": 226.924
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 15.444444444444445,
+      "keywordCount": 18,
+      "visibility": 2.7,
+      "estimatedTraffic": 369.23600000000005
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 18.61111111111111,
+      "keywordCount": 18,
+      "visibility": 0.6500000000000002,
+      "estimatedTraffic": 133.02800000000002
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 15.647058823529411,
+      "keywordCount": 17,
+      "visibility": 1.1,
+      "estimatedTraffic": 211.38000000000002
+    },
+    {
+      "domain": "www.safetravel.govt.nz",
+      "avgPosition": 13.875,
+      "keywordCount": 16,
+      "visibility": 0.9500000000000002,
+      "estimatedTraffic": 158.70999999999995
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 19.764705882352942,
+      "keywordCount": 17,
+      "visibility": 0.44999999999999996,
+      "estimatedTraffic": 115.36800000000002
+    },
+    {
+      "domain": "www.responsibletravel.com",
+      "avgPosition": 13.066666666666666,
+      "keywordCount": 15,
+      "visibility": 2.0000000000000004,
+      "estimatedTraffic": 240.456
+    },
+    {
+      "domain": "www.axatravelinsurance.com",
+      "avgPosition": 20.9375,
+      "keywordCount": 16,
+      "visibility": 0.7500000000000001,
+      "estimatedTraffic": 101.176
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 26.5,
+      "keywordCount": 16,
+      "visibility": 0.35,
+      "estimatedTraffic": 58.08099999999999
+    },
+    {
+      "domain": "www.independent.co.uk",
+      "avgPosition": 28.1875,
+      "keywordCount": 16,
+      "visibility": 0.1,
+      "estimatedTraffic": 67.61999999999999
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 31,
+      "keywordCount": 16,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 58.587999999999994
+    },
+    {
+      "domain": "travelhealthpro.org.uk",
+      "avgPosition": 22.357142857142858,
+      "keywordCount": 14,
+      "visibility": 0.3,
+      "estimatedTraffic": 62.151999999999994
+    },
+    {
+      "domain": "www.worldtravelguide.net",
+      "avgPosition": 29.8,
+      "keywordCount": 15,
+      "visibility": 0,
+      "estimatedTraffic": 51.82799999999999
+    },
+    {
+      "domain": "wise.com",
+      "avgPosition": 19.000000000000004,
+      "keywordCount": 13,
+      "visibility": 0.44999999999999996,
+      "estimatedTraffic": 81.79599999999999
+    },
+    {
+      "domain": "www.worldnomads.com",
+      "avgPosition": 5.090909090909091,
+      "keywordCount": 11,
+      "visibility": 6.5,
+      "estimatedTraffic": 647.9810000000001
+    },
+    {
+      "domain": "www.thaiembassy.com",
+      "avgPosition": 42.55555555555556,
+      "keywordCount": 18,
+      "visibility": 0.05,
+      "estimatedTraffic": 64.33199999999998
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 12,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 71.444
+    },
+    {
+      "domain": "www.ireland.ie",
+      "avgPosition": 10.818181818181818,
+      "keywordCount": 11,
+      "visibility": 1.1,
+      "estimatedTraffic": 202.64
+    },
+    {
+      "domain": "www.gadventures.com",
+      "avgPosition": 19.416666666666668,
+      "keywordCount": 12,
+      "visibility": 0.35,
+      "estimatedTraffic": 51.854
+    },
+    {
+      "domain": "voyeglobal.com",
+      "avgPosition": 34.142857142857146,
+      "keywordCount": 14,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 52.88399999999999
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 9.8,
+      "keywordCount": 10,
+      "visibility": 1.8000000000000003,
+      "estimatedTraffic": 171.63999999999996
+    },
+    {
+      "domain": "www.travelfika.com",
+      "avgPosition": 19.181818181818183,
+      "keywordCount": 11,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 39.096000000000004
+    },
+    {
+      "domain": "www.mfa.gov.sg",
+      "avgPosition": 35.53846153846154,
+      "keywordCount": 13,
+      "visibility": 0.05,
+      "estimatedTraffic": 51.35399999999999
+    },
+    {
+      "domain": "www.chroniclelive.co.uk",
+      "avgPosition": 44.4,
+      "keywordCount": 15,
+      "visibility": 0.05,
+      "estimatedTraffic": 51.03599999999999
+    },
+    {
+      "domain": "www.firstchoice.co.uk",
+      "avgPosition": 32,
+      "keywordCount": 12,
+      "visibility": 0,
+      "estimatedTraffic": 43.09199999999999
+    },
+    {
+      "domain": "assets.publishing.service.gov.uk",
+      "avgPosition": 47,
+      "keywordCount": 15,
+      "visibility": 0,
+      "estimatedTraffic": 50.65199999999999
+    },
+    {
+      "domain": "www.walesonline.co.uk",
+      "avgPosition": 48.333333333333336,
+      "keywordCount": 15,
+      "visibility": 0,
+      "estimatedTraffic": 50.65199999999999
+    },
+    {
+      "domain": "www.travelandtourworld.com",
+      "avgPosition": 58.35294117647059,
+      "keywordCount": 17,
+      "visibility": 0,
+      "estimatedTraffic": 57.539999999999985
+    },
+    {
+      "domain": "www.tagthai.com",
+      "avgPosition": 29.8,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 26.715999999999994
+    },
+    {
+      "domain": "www.liverpoolecho.co.uk",
+      "avgPosition": 56.1875,
+      "keywordCount": 16,
+      "visibility": 0,
+      "estimatedTraffic": 55.691999999999986
+    },
+    {
+      "domain": "www.thailandactivitytickets.com",
+      "avgPosition": 31,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 27.683999999999994
+    },
+    {
+      "domain": "www.countryreports.org",
+      "avgPosition": 38.18181818181818,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 41.24399999999999
+    },
+    {
+      "domain": "www.themanual.com",
+      "avgPosition": 49.46153846153846,
+      "keywordCount": 13,
+      "visibility": 0,
+      "estimatedTraffic": 41.74799999999999
+    },
+    {
+      "domain": "thailandtoursandtravel.com",
+      "avgPosition": 43.18181818181818,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 33.977999999999994
+    },
+    {
+      "domain": "www.travelsafe-abroad.com",
+      "avgPosition": 39.5,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 29.058999999999994
+    },
+    {
+      "domain": "www.travelxp.com",
+      "avgPosition": 40.8,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 36.20399999999999
+    },
+    {
+      "domain": "www.tripbase.com",
+      "avgPosition": 26.25,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 22.931999999999995
+    },
+    {
+      "domain": "travelnoire.com",
+      "avgPosition": 55.38461538461539,
+      "keywordCount": 13,
+      "visibility": 0,
+      "estimatedTraffic": 47.24999999999999
+    },
+    {
+      "domain": "www.traveltalktours.com",
+      "avgPosition": 19.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 40.682
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 34.625,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 22.049999999999994
+    },
+    {
+      "domain": "www.thetimes.com",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 38.912
+    },
+    {
+      "domain": "www.sb.gov.hk",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 26.384
+    },
+    {
+      "domain": "www.gbnews.com",
+      "avgPosition": 68.85714285714286,
+      "keywordCount": 14,
+      "visibility": 0,
+      "estimatedTraffic": 48.80399999999999
+    }
+  ]
+}
