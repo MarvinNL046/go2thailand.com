@@ -22,7 +22,7 @@ sources:
     url: "https://www.fragomen.com/insights/thailand-electronic-travel-authorization-requirement-for-visa-exempt-nationals-forthcoming.html"
 ---
 
-Thailand has quietly completed one of its biggest immigration reforms in years. As of early 2026, the entire visa system has gone fully digital, and the government has dramatically simplified the categories available to foreign visitors. If you haven't visited Thailand since 2024, the entry process looks very different now. For a full overview of all current entry requirements, see our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/).
+Thailand has quietly completed one of its biggest immigration reforms in years. As of early 2026, the entire visa system has gone fully digital, and the government has dramatically simplified the categories available to foreign visitors. If you haven't visited Thailand since 2024, the entry process looks very different now. For a full overview of all current entry requirements, see our [Thailand visa guide 2026](/visa/).
 
 ## From 17 Categories to 7
 
@@ -46,7 +46,7 @@ Travelers can submit their arrival details online up to **72 hours before enteri
 
 Thailand still offers **60-day visa-free entry** for nationals of eligible countries. However, in February 2026, the government initiated a review after identifying cases of foreign nationals using the exemption to engage in unauthorized work. Authorities raised concerns about national security and regulatory integrity.
 
-No changes have been announced yet, but travelers relying on visa-free entry should keep an eye on updates — particularly digital nomads who work remotely without a proper DTV visa. We have a dedicated post covering the [proposed cut from 60 to 30 visa-free days](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) and what it could mean for your trip. You may also want to read about [visa restrictions affecting Asian country visitors in 2026](/blog/thailand-visa-restrictions-2026-asian-countries-tourism-impact/).
+Travellers relying on visa exemption should keep checking the live rule, particularly when the real purpose is remote work rather than tourism. At our 27 July 2026 source check, the ordinary British-passport route still states up to 60 days. Use the dated [visa-exemption owner](/visa/visa-free-entry/) and compare the [Destination Thailand Visa](/visa/digital-nomad-visa/) when remote work is the actual purpose.
 
 ## What This Means for Your Next Trip
 

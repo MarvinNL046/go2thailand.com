@@ -443,7 +443,7 @@ Avoid border regions near Myanmar and Cambodia (active conflict zones). Within t
 
 ### Do I need a visa, and is the entry process safe?
 
-Most nationalities get 30-60 days visa-free. You must complete the Thailand Digital Arrival Card (TM.6) online at [tdac.immigration.go.th](https://tdac.immigration.go.th/arrival-card/#/home) at least 3 days before arrival. The process is straightforward and secure. See our [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/) for step-by-step instructions, and our [Thailand visa guide](/blog/thailand-visa-guide-2026/) for longer stays.
+Most nationalities get 30-60 days visa-free. You must complete the Thailand Digital Arrival Card (TM.6) online at [tdac.immigration.go.th](https://tdac.immigration.go.th/arrival-card/#/home) at least 3 days before arrival. The process is straightforward and secure. See our [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/) for step-by-step instructions, and our [Thailand visa guide](/visa/) for longer stays.
 
 ### Is it safe to eat street food?
 

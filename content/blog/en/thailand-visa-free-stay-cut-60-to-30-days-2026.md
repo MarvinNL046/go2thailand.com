@@ -26,7 +26,7 @@ sources:
 
 On March 22, 2026, Thailand's Ministry of Foreign Affairs gave the green light to a proposal that would cut the current 60-day visa-free stay back to 30 days. The plan still needs Cabinet approval before it becomes law, but the direction is clear: shorter initial stays for tourists arriving without a visa.
 
-The move reverses a July 2024 decision that expanded visa exemptions from 57 to 93 countries and doubled the standard stay from 30 to 60 days. That policy was designed to supercharge tourism after the pandemic, and it worked. But officials now say the generous rules have also been exploited by people involved in online scam networks and other non-tourism activities. This is part of a broader wave of [Thailand visa changes in 2026](/blog/thailand-visa-guide-2026/), including a [major e-visa overhaul that cut 17 visa categories down to 7](/blog/thailand-evisa-overhaul-2026-simplified-categories/).
+The move reverses a July 2024 decision that expanded visa exemptions from 57 to 93 countries and doubled the standard stay from 30 to 60 days. That policy was designed to supercharge tourism after the pandemic, and it worked. But officials now say the generous rules have also been exploited by people involved in online scam networks and other non-tourism activities. This is part of a broader wave of [Thailand visa changes in 2026](/visa/), including a [major e-visa overhaul that cut 17 visa categories down to 7](/blog/thailand-evisa-overhaul-2026-simplified-categories/).
 
 ## How the New Rules Would Work
 
@@ -50,7 +50,7 @@ No exact date has been confirmed. The proposal must pass through a Cabinet revie
 
 ## What Should You Do?
 
-If you are planning a trip to Thailand longer than 30 days and relying on visa-free entry, consider either applying for a tourist visa at a Thai embassy before departure or budgeting extra time and money for the in-country extension process. Keep checking official Thai immigration channels for the final decision. Our [complete Thailand visa guide for 2026](/blog/thailand-visa-guide-2026/) covers all visa types, costs, and application steps in detail.
+If you are planning a trip to Thailand longer than 30 days and relying on visa-free entry, consider either applying for a tourist visa at a Thai embassy before departure or budgeting extra time and money for the in-country extension process. Keep checking official Thai immigration channels for the final decision. Our [complete Thailand visa guide for 2026](/visa/) covers all visa types, costs, and application steps in detail.
 
 For digital nomads and long-stay visitors who have been relying on visa-exempt entries, the [era of visa runs is also coming to an end in 2026](/blog/thailand-visa-run-era-ending-2026-expat-guide/) — making it even more important to secure the right long-term visa from the start.
 

@@ -61,7 +61,7 @@ Before you book your flight, handle the administrative groundwork. This takes 2â
 
 ### Visa Requirements and Entry Documents
 
-Most Western nationalities (US, UK, Canada, Australia, EU) receive a 30-day visa exemption when arriving by air. No advance visa is neededâ€”you simply arrive and get stamped. However, you must complete the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) online at least 3 days before arrival. This takes 10 minutes and is free.
+Visa exemption differs by passport and purpose. At our 27 July 2026 source check, an ordinary British passport can normally use the current exemption for up to 60 days, subject to entry conditions. Complete the separate, free [Thailand Digital Arrival Card](https://tdac.immigration.go.th/) within its official three-day submission window and check the [visa finder](/visa/) for other routes.
 
 If you plan to stay longer than 30 days, apply for a [Tourist Visa](https://go2-thailand.com/visa/tourist-visa/) (60 days, costs approximately 2,000 THB / $55 USD) at a Thai embassy before departure. Check your specific nationality requirements on the [official Thailand visa page](https://go2-thailand.com/visa/).
 

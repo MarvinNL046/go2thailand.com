@@ -59,7 +59,7 @@ Most eSIM packages cost between 15 and 30 USD for 7 to 15 days with 3 to 10 GB. 
 
 ## Quick Tips
 
-- **Passport required.** You need to show your passport when buying a physical SIM at the airport — this is a Thai government regulation. Check [Thailand visa requirements](/blog/thailand-visa-guide-2026/) if you are unsure about entry conditions.
+- **Passport required.** You need to show your passport when buying a physical SIM at the airport — this is a Thai government regulation. Check [Thailand visa requirements](/visa/) if you are unsure about entry conditions.
 - **Top up easily.** Both physical SIMs and eSIMs can be topped up via convenience stores (7-Eleven, FamilyMart) or through the carrier's app.
 - **Check 5G compatibility.** If your phone supports 5G, make sure you select a 5G-enabled plan to take advantage of Thailand's fast network in major cities. Getting around [Bangkok by BTS and MRT](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) is much easier with a working data connection.
 - **Free airport Wi-Fi.** Suvarnabhumi and Don Mueang airports offer free Wi-Fi, so you can download an eSIM app on arrival if you forgot to do it beforehand.

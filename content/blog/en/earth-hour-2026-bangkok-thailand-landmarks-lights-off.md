@@ -50,7 +50,7 @@ Earth Hour is not just about watching the lights go off. WWF encourages everyone
 
 The event is free, requires no tickets and lasts just sixty minutes. If you happen to be in Bangkok on March 28, it is a small but memorable way to experience the city differently. Planning a longer stay? Our [Bangkok neighbourhood guide for expats and long-term visitors](/blog/where-to-live-bangkok-neighborhood-guide-expats/) breaks down every district, and our [Thailand first-timers guide](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything else you need before you land.
 
-Before you travel, make sure you have [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) in place — it is especially worth having if your trip spans multiple events and provinces. Also check the latest [Thailand visa requirements](/blog/thailand-visa-guide-2026/) to confirm your entry options.
+Before you travel, make sure you have [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) in place — it is especially worth having if your trip spans multiple events and provinces. Also check the latest [Thailand visa requirements](/visa/) to confirm your entry options.
 
 Earth Hour takes place on the same evening as some of Bangkok's best [night markets](/blog/best-night-markets-bangkok-2026/), so you can combine the lights-off moment with a street-food crawl once the hour is over. For a broader look at what Bangkok's food scene offers after dark, see our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) and the roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 

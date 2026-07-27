@@ -445,7 +445,7 @@ Peak crowding occurs April 13–14 in [Bangkok](https://go2-thailand.com/city/ba
 
 ### Do I need a visa to enter Thailand for Songkran?
 
-Visa requirements depend on your nationality. Most visitors qualify for visa-free entry for up to 30 days. Check the [Thailand visa guide](/blog/thailand-visa-guide-2026/) for your specific situation and review the [Thailand Digital Arrival Card (TDAC) guide](/visa/digital-arrival-card/) — complete it 3 days before arrival.
+Visa requirements depend on passport and purpose. At our 27 July 2026 source check, an ordinary British passport can normally use visa exemption for up to 60 days. Check the [Thailand visa finder](/visa/) for your route and review the separate [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/) for its live three-day submission window.
 
 ### What should I wear during Songkran?
 

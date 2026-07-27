@@ -9,7 +9,10 @@ source:
   originalTitle: "Thailand wil visumvrij verblijf inkorten tot 30 dagen"
 tags: ["visa", "visa-free", "30-days", "immigration", "travel-rules", "breaking"]
 description: "Thailand's Foreign Minister confirms proposal to cut visa-free stays from 60 to 30 days, citing illegal work and security concerns."
+lastUpdated: "2026-07-27"
 ---
+
+> **Current-status update — 27 July 2026:** This article records a March proposal, not the rule currently stated for ordinary British passports. GOV.UK and the Royal Thai Embassy in London still state up to 60 days. The embassy calls the scheme temporary, so verify the dated [visa-exemption owner](https://go2-thailand.com/visa/visa-free-entry/) before travel.
 
 **Update to our [earlier reporting](https://go2-thailand.com/news/2026-03-21-thailand-60-day-visa-free-may-be-reduced-to-30/):** Thailand's Foreign Minister **Sihasak Phuangketkeow** has now officially put forward a proposal to reduce the visa-free stay from **60 days back to 30 days** for all eligible nationalities.
 

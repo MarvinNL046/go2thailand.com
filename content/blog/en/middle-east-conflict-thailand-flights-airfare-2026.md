@@ -57,7 +57,7 @@ However, if you're travelling from **Asia-Pacific countries** — Australia, Jap
 - **Be flexible on dates.** Mid-week flights tend to be cheaper even in disrupted markets. [Songkran discount flights from Thai carriers](/blog/songkran-2026-airlines-discount-flights/) are also worth watching.
 - **Travel insurance.** Given the volatility, get [travel insurance](/blog/travel-insurance-thailand-guide/) that covers flight disruptions and cancellations.
 
-Despite the challenges, Thailand is still receiving millions of visitors and remains a top global destination. The situation is evolving, so check your airline's latest schedules before booking. Once you land, our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand visa guide](/blog/thailand-visa-guide-2026/) will help you hit the ground running.
+Despite the challenges, Thailand is still receiving millions of visitors and remains a top global destination. The situation is evolving, so check your airline's latest schedules before booking. Once you land, our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand visa guide](/visa/) will help you hit the ground running.
 
 ---
 

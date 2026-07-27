@@ -250,13 +250,13 @@ Want to extend to the Andaman side? Add [Koh Lanta](/islands/koh-lanta/) or [Koh
 Thailand remains one of the best-value travel destinations on the planet. With a **daily budget** of 1,000-1,500 THB, you can eat incredibly well, sleep in clean **hostels**, move around the country on affordable [transport](/transport/), and experience world-class beaches, temples, and culture. The key is eating local [Thai food](/food/), using public transport, and being thoughtful about where your money goes.
 
 Before you go, make sure you have:
-- A valid **[visa](/blog/thailand-visa-guide-2026/)** sorted out (most nationalities get 60 days visa-free)
+- A valid **[visa](/visa/)** sorted out (most nationalities get 60 days visa-free)
 - **[Travel insurance](/travel-insurance-thailand/)** that covers medical emergencies and **scooter rental**
 - An **[eSIM](/esim/)** or SIM card plan for staying connected
 - A basic understanding of [Thai money and ATMs](/practical-info/atm-money/)
 - Knowledge of [common scams](/practical-info/scams-safety/) to watch out for
 
-Check our [visa guide](/blog/thailand-visa-guide-2026/) to make sure you can stay long enough to enjoy it all. For food planning, bookmark the [Thai street food guide](/blog/thai-street-food-guide-2026/), the [mango sticky rice season guide](/blog/mango-sticky-rice-season-thailand/) (peak April–May), and the [som tam regional guide](/blog/som-tam-regional-variations-thailand/) to eat smart everywhere you go.
+Check our [visa guide](/visa/) to make sure you can stay long enough to enjoy it all. For food planning, bookmark the [Thai street food guide](/blog/thai-street-food-guide-2026/), the [mango sticky rice season guide](/blog/mango-sticky-rice-season-thailand/) (peak April–May), and the [som tam regional guide](/blog/som-tam-regional-variations-thailand/) to eat smart everywhere you go.
 
 ## FAQ
 

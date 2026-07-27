@@ -43,7 +43,7 @@ We've spent years living in and traveling through Thailand, and we've tested thi
 
 ## 1. Pre-Trip Essentials: Visa, Insurance & Documentation
 
-Before you book a single flight, handle the administrative basics. Most Western nationalities (US, UK, EU, Canada, Australia) qualify for **60-day visa-free entry** to Thailand. You'll need a valid passport with at least 6 months validity from your arrival date. Check the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for the latest rules, including the planned reduction to 30 days.
+Before you book a single flight, handle the administrative basics. At our 27 July 2026 source check, a full British citizen passport can normally use **visa exemption for up to 60 days**. Passport type and nationality matter, so use the [Thailand visa guide](/visa/) and verify the temporary rule in the [visa-exemption owner](/visa/visa-free-entry/) shortly before departure.
 
 Upon arrival, you'll be required to complete the Thailand Digital Arrival Card (TDAC) online at least 3 days before your flight. This replaced the old TM.6 form and takes about 5 minutes. You'll receive a QR code to scan at immigration—no paper required.
 

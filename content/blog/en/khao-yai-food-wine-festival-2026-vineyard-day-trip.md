@@ -53,7 +53,7 @@ Grape harvest season in Khao Yai typically runs from February to March, making r
 - **Do not drive after tasting.** If you plan to sample wines at multiple estates, arrange a designated driver or book a tour.
 - **Combine with the national park.** Khao Yai National Park is a UNESCO World Heritage Site with waterfalls, hiking trails and wild elephants. A two-day trip covering both the park and the vineyards is ideal. The park is also home to [ethical wildlife encounters](/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) worth knowing about.
 - **Book winery visits in advance.** Guided tours and tasting sessions sometimes require reservations, especially during festival weekends.
-- **Check your visa status.** Make sure you have the right entry permit sorted before travelling — the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) covers all current categories.
+- **Check your visa status.** Make sure you have the right entry permit sorted before travelling — the [Thailand visa guide 2026](/visa/) covers all current categories.
 
 Khao Yai proves that Thailand's food scene extends far beyond [street food](/blog/thai-street-food-guide-2026/) and [curries](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). A vineyard day trip is a refreshing change of pace — and the wines might genuinely surprise you. If you are building a longer itinerary, the [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/) and the [first-timers itinerary](/blog/thailand-itinerary-first-timers/) both have space for a Khao Yai stop.
 

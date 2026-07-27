@@ -343,7 +343,7 @@ Each itinerary can be customized based on your interests, budget, and travel sty
 ## Frequently Asked Questions
 
 ### Do I need a visa to visit Thailand during the holidays?
-Most nationalities receive 30 days visa-free entry to Thailand. Check [our visa requirements guide](https://go2-thailand.com/visa/) for your specific nationality. If staying longer than 30 days, apply for a Tourist Visa before travel.
+Visa exemption depends on passport and purpose. At our 27 July 2026 source check, an ordinary British passport can normally use exemption for up to 60 days. Check the [visa finder](https://go2-thailand.com/visa/) for your route and verify the live official rule before travel.
 
 ### What's the best way to get from Bangkok to the islands?
 Domestic flights are fastest (1.5–2 hours to Phuket or Koh Samui) but more expensive. Buses and trains are cheaper but take 8–12 hours. Book transport 2–4 weeks in advance during peak season to ensure availability.

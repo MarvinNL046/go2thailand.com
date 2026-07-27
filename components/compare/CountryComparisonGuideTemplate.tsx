@@ -96,7 +96,7 @@ export function CountryComparisonGuideTemplate({ data }: { data: CountryComparis
     <SEOHead title={data.title} description={data.description} ogImage={`https://go2-thailand.com${data.heroImage}`}>
       {schemas.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
     </SEOHead>
-    <main className="bg-canvas text-charcoal" data-premium-template="country-comparison">
+    <div className="bg-canvas text-charcoal" data-premium-template="country-comparison">
       <EditorialHero
         image={data.heroImage}
         imageAlt={data.heroAlt}
@@ -135,6 +135,6 @@ export function CountryComparisonGuideTemplate({ data }: { data: CountryComparis
       <FaqSplitSection eyebrow="Real search questions" title={`${data.countryA} vs ${data.countryB} FAQs`} description={data.faqDescription} items={data.faqs} />
       <RelatedGuidesSection title="Plan the route after your choice" guides={data.related} />
       <SourceMethodSection title="How this comparison was made" description={data.methodDescription} sources={data.sources} />
-    </main>
+    </div>
   </>;
 }

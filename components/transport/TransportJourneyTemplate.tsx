@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import type { LucideIcon } from 'lucide-react';
@@ -65,7 +64,7 @@ function createSchemas(data: TransportJourneyData) {
 export function TransportJourneyTemplate({ data }: { data: TransportJourneyData }) {
   const schemas = createSchemas(data);
   return (
-    <main className="bg-canvas" data-premium-template="transport-journey-en">
+    <div className="bg-canvas" data-premium-template="transport-journey-en">
       <SEOHead title={data.title} description={data.description} ogImage={`https://go2-thailand.com${data.heroImage}`}>
         {schemas.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
@@ -87,6 +86,6 @@ export function TransportJourneyTemplate({ data }: { data: TransportJourneyData 
       <FaqSplitSection id="questions" eyebrow="Genuine search questions" title="Questions about this journey" description={data.faqDescription} items={data.faqs} />
       <RelatedGuidesSection eyebrow="Continue planning" title="Build the rest of the route" readLabel="Open the guide" guides={data.related} />
       <SourceMethodSection eyebrow="Sources & method" title="Built around live connections" description={data.methodDescription} sources={data.sources} />
-    </main>
+    </div>
   );
 }

@@ -22,7 +22,7 @@ sources:
 
 ## Halal Food in Thailand: Where to Eat & What to Know
 
-**Thailand** may be a predominantly Buddhist country, but finding **halal food** here is far easier than most Muslim travelers expect. With a Muslim population of roughly **5-6%** (around 4 million people), a government-backed halal certification system, and thousands of certified restaurants across the country, you can eat well and eat confidently throughout your trip. This guide covers everything from Bangkok's best halal spots to useful apps and the Thai phrases you need to know. If you are still planning your trip, check our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand visa guide](/blog/thailand-visa-guide-2026/) before you go.
+**Thailand** may be a predominantly Buddhist country, but finding **halal food** here is far easier than most Muslim travelers expect. With a Muslim population of roughly **5-6%** (around 4 million people), a government-backed halal certification system, and thousands of certified restaurants across the country, you can eat well and eat confidently throughout your trip. This guide covers everything from Bangkok's best halal spots to useful apps and the Thai phrases you need to know. If you are still planning your trip, check our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand visa guide](/visa/) before you go.
 
 ### Key Takeaways
 

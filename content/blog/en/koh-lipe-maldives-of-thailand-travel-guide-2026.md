@@ -50,7 +50,7 @@ During the monsoon months of **May to October**, some resorts close and ferry op
 
 Most travellers reach Koh Lipe via speedboat from **Pak Bara pier** in [Satun province](/guides/travel-guide/satun/), a journey of roughly 90 minutes. To reach Pak Bara you can fly to [Hat Yai](/city/hat-yai/) airport and take a minivan (about two hours) or travel overland from [Krabi](/city/krabi/) or [Trang](/city/trang/).
 
-An increasingly popular option is the ferry from **Langkawi, Malaysia**, which takes about 90 minutes and lets you combine two countries in one trip. Immigration is handled on arrival at the floating platform off Pattaya Beach. If you are arriving by air, our [Thailand visa guide](/blog/thailand-visa-guide-2026/) covers entry requirements for all nationalities.
+An increasingly popular option is the ferry from **Langkawi, Malaysia**, which takes about 90 minutes and lets you combine two countries in one trip. Immigration is handled on arrival at the floating platform off Pattaya Beach. If you are arriving by air, our [Thailand visa guide](/visa/) covers entry requirements for all nationalities.
 
 ## Budget Tips
 

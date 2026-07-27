@@ -51,6 +51,6 @@ Thailand consistently ranks as one of the most solo-friendly countries in Asia, 
 2. **Use Grab instead of bargaining with tuk-tuk drivers.** It removes the stress of negotiating, especially when you are alone.
 3. **Join a [cooking class](/blog/best-cooking-classes-bangkok-market-tour-2026/) or day tour early in your trip.** It is the fastest way to meet people.
 4. **Carry a copy of your passport.** Police checkpoints are rare but do happen, especially on islands. Fill in your [Thailand Digital Arrival Card](/visa/digital-arrival-card/) before you fly to save time at immigration.
-5. **Sort your visa in advance.** Check the [2026 visa guide](/blog/thailand-visa-guide-2026/) — the free 30-day exemption rules have changed and the [DTV digital nomad visa](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) is worth considering for longer stays.
+5. **Confirm your entry route.** Check the [current visa finder](/visa/); visa exemption depends on passport and purpose, while eligible remote workers can separately compare the [Destination Thailand Visa](/visa/digital-nomad-visa/).
 
 Solo travel in Thailand is not a trend — it is becoming the default way many visitors experience the country. With lower costs, flexible airlines, and a culture built around welcoming strangers, 2026 is a great year to go alone. If you are in the 50+ bracket, also read how [Thailand is tailoring experiences for active senior travellers](/blog/thailand-silver-tourism-active-seniors-key-market-2026/) this year.

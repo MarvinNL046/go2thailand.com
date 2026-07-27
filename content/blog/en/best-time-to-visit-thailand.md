@@ -37,7 +37,7 @@ The short answer: **November through February** is **peak season** with the best
 | Can you still visit islands in the **monsoon**? | Yes -- the **Gulf islands** like [Koh Samui](/islands/koh-samui/) and [Koh Tao](/islands/koh-tao/) have calmer weather when the Andaman coast is wet |
 | When is the **best island hopping season**? | **December to April** for the Andaman Sea ([Koh Phi Phi](/islands/koh-phi-phi/), [Koh Lanta](/islands/koh-lanta/), [Koh Lipe](/islands/koh-lipe/)); **January to August** for the Gulf -- explore all [islands](/islands/) |
 | When are the major festivals? | **Songkran** (Thai New Year) in April and **Loy Krathong** (floating lanterns) in November -- both celebrated nationwide including [Bangkok](/city/bangkok/) and [Chiang Mai](/city/chiang-mai/) |
-| Do I need a visa? | Most nationalities get 60 days visa-free; check our [Thailand visa guide](/blog/thailand-visa-guide-2026/) for full details |
+| Do I need a visa? | Most nationalities get 60 days visa-free; check our [Thailand visa guide](/visa/) for full details |
 | What should I pack for rainy season? | A lightweight rain jacket, waterproof phone case, and quick-dry clothing -- see our [practical travel tips](/practical-info/) for a full packing list |
 
 ## 1. Thailand's Three Seasons
@@ -188,7 +188,7 @@ From late February through April, farmers in northern Thailand and neighbouring 
 
 There is no truly bad time to visit Thailand. **Peak season** (November-February) offers the most predictable weather, but **low season** brings lower prices, fewer crowds, and a more authentic experience. The rain during **monsoon** months is rarely an all-day affair, and a thunderstorm can be one of the most dramatic things to watch from a beachside bar.
 
-No matter when you go, make sure you have the right [travel insurance](/travel-insurance-thailand/), a reliable [eSIM](/esim/) for staying connected, and a clear picture of the [visa requirements](/blog/thailand-visa-guide-2026/) for your nationality. Check our [transport guide](/transport/) for getting between destinations, and browse our [practical travel tips](/practical-info/) for everything else you need to know before you land.
+No matter when you go, make sure you have the right [travel insurance](/travel-insurance-thailand/), a reliable [eSIM](/esim/) for staying connected, and a clear picture of the [visa requirements](/visa/) for your nationality. Check our [transport guide](/transport/) for getting between destinations, and browse our [practical travel tips](/practical-info/) for everything else you need to know before you land.
 
 Start planning your trip with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) or explore [Thai street food](/food/) to start building your must-eat list. For city-specific advice, dive into our guides for [Bangkok](/city/bangkok/), [Chiang Mai](/city/chiang-mai/), [Phuket](/city/phuket/), and [Krabi](/city/krabi/). Foodies visiting in the cool season should read the [best street food markets in Bangkok guide](/blog/best-street-food-markets-bangkok/) and learn how to [eat like a local for under $5 a day](/blog/eat-like-local-thailand-under-5-dollars/). Wellness travellers planning a 2026 trip should check out Thailand's new [Healing Journey wellness campaign](/blog/healing-journey-thailand-wellness-campaign-2026/) and the [best wellness retreats in Thailand](/blog/best-wellness-retreats-thailand-2026/).
 

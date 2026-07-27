@@ -379,7 +379,7 @@ Phuket has excellent hospitals with English-speaking staff. [Travel insurance](/
 
 ### Visa & Entry Requirements
 
-Most nationalities receive 30 days visa-free entry to Thailand. Check our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for your specific requirements and the latest rule changes. You must complete the [Thailand Digital Arrival Card](/visa/digital-arrival-card/) before arrival.
+Visa exemption depends on passport and purpose. For an ordinary British passport, our 27 July 2026 official-source check states up to 60 days, subject to entry conditions. Check the [Thailand visa finder](/visa/) for your route and complete the separate [Thailand Digital Arrival Card](/visa/digital-arrival-card/) before arrival.
 
 ### Internet & Connectivity
 

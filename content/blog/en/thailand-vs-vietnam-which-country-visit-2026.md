@@ -153,7 +153,7 @@ Both countries have straightforward visa policies for most Western travelers, bu
 </div>
 
 
-Thailand offers **visa-free entry for 60 days** for most Western nationalities — see our full [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for all options (US, UK, EU, Australia, Canada). You simply arrive, complete the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) online 3 days before arrival, and receive a stamp at immigration—no paperwork required.
+Thailand offers **visa-free entry for 60 days** for most Western nationalities — see our full [Thailand visa guide 2026](/visa/) for all options (US, UK, EU, Australia, Canada). You simply arrive, complete the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) online 3 days before arrival, and receive a stamp at immigration—no paperwork required.
 
 For longer stays, the [Tourist Visa](https://go2-thailand.com/visa/tourist-visa/) grants 60 days and requires a visa application at a Thai embassy (processing: 3–5 days, cost: USD 30–50). The [Digital Nomad Visa (DTV)](https://go2-thailand.com/visa/digital-nomad-visa/) is new for 2026 and offers 180 days for remote workers and freelancers (cost: ฿10,000 / USD 280).
 

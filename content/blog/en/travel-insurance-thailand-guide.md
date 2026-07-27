@@ -26,13 +26,13 @@ sources:
 
 Here's the short answer: no, Thailand does not legally require travel insurance for tourists. Here's the longer answer: skipping it is one of the biggest financial risks you can take on your trip. We've seen travelers face hospital bills of $10,000+ after scooter accidents, and others stranded when flights were cancelled during monsoon season. A policy that costs $30–80 per month can save you from financial disaster. Let's break down exactly what you need to know.
 
-Before you read on, check our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) and the [300 THB tourist entry fee explainer](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) — both affect your pre-trip planning.
+Before you read on, check our [Thailand visa guide 2026](/visa/) and the [300 THB tourist entry fee explainer](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) — both affect your pre-trip planning.
 
 ## Key Takeaways
 
 | Question | Answer |
 |----------|--------|
-| **Is insurance required?** | No, not for standard tourist entries (30-day visa exemption). |
+| **Is insurance required?** | It depends on the visa route; the current ordinary British-passport exemption does not itself list travel insurance as an entry requirement. |
 | **Is it recommended?** | Strongly yes. Thailand doesn't accept foreign health insurance. |
 | **How much does it cost?** | $30–80/month for comprehensive coverage. |
 | **Minimum medical coverage?** | At least $100,000. Ideally $250,000+. |

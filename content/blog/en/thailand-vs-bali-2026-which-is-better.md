@@ -737,7 +737,7 @@ After three years in Thailand and extensive time in Bali, we've learned that the
 
 **Ready to book?** Start with [Thailand's visa requirements](https://go2-thailand.com/visa/) or Bali's entry process, then explore our [comprehensive Thailand travel guides](https://go2-thailand.com/travel-guides/) for detailed itineraries, regional guides, and practical tips. Both destinations will reward you—the question is simply which adventure calls to you first.
 
-If you choose Thailand, here are the essential next steps: get your visa sorted with our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/), plan your route with the [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) or our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/), and brush up on [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/) so you know what to eat when you arrive.
+If you choose Thailand, here are the essential next steps: get your visa sorted with our [Thailand visa guide 2026](/visa/), plan your route with the [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) or our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/), and brush up on [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/) so you know what to eat when you arrive.
 
 Safe travels, and feel free to reach out with questions about either destination. We've lived it, and we're here to help.
 

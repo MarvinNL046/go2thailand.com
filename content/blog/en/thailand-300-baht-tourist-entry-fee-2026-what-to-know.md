@@ -48,6 +48,6 @@ At around 8 to 9 USD, the fee is modest compared to similar charges in other cou
 
 The entry fee is part of Thailand's broader shift toward value-over-volume tourism. Rather than simply chasing visitor numbers, the government wants to ensure tourism revenue funds long-term sustainability. This connects directly to the [Amazing 5 Economy plan](/blog/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026/), TAT's overarching 2026 strategy targeting 3 trillion baht in revenue. With a target of 70 percent of tourism businesses achieving [STAR (Sustainable Tourism Acceleration Rating) accreditation](/blog/thailand-star-green-tourism-accreditation-2026/) by the end of 2026, the fee is one piece of a larger strategy to protect the destinations that millions come to enjoy.
 
-Also make sure your entry documents are in order: check the current [Thailand visa guide for 2026](/blog/thailand-visa-guide-2026/) and note that [visa-free stays have been trimmed from 60 to 30 days](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) for many nationalities.
+Also make sure your entry documents are in order: use the current [Thailand visa guide](/visa/) and check the [visa-exemption owner](/visa/visa-free-entry/) shortly before departure. At our 27 July 2026 official-source check, the ordinary British-passport route still states up to 60 days; the temporary policy can change without notice.
 
 Keep an eye on official TAT announcements for the exact rollout date, and [plan accordingly](/blog/thailand-itinerary-first-timers/).

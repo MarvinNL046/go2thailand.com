@@ -39,7 +39,7 @@ This itinerary is specifically designed for first-time visitors. It follows the 
 | **Daily budget?** | Budget: $30–50/day. Mid-range: $50–80/day. Comfortable: $80–120/day. |
 | **Best time to go?** | November–February (cool, dry). Avoid March–April in the north (burning season). |
 | **What to book ahead?** | Flights, peak-season hotels, cooking classes, ethical elephant sanctuaries. |
-| **Do I need a visa?** | Most nationalities get 30–60 days visa-free. Check [visa requirements](https://go2-thailand.com/blog/thailand-visa-guide-2026/). |
+| **Do I need a visa?** | Most nationalities get 30–60 days visa-free. Check [visa requirements](https://go2-thailand.com/visa/). |
 
 ## Why This Route Works for First-Timers
 

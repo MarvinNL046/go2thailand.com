@@ -36,7 +36,7 @@ Thailand is home to over 1,400 islands scattered across the **Gulf of Thailand**
 | How do you get between islands? | By **ferry**, **speedboat**, or **longtail boat** -- see our full [transport overview](/transport/) for all options |
 | When is the best time to go? | **December to April** works for most islands; check the [Thailand weather guide](/weather/) for month-by-month detail |
 | How much does island hopping cost? | Budget travellers spend **700-1,750 THB per day**; read our [backpacker budget guide](/blog/thailand-budget-backpacker-guide/) for savings tips |
-| Do I need a visa? | Most nationalities get 60 days visa-free -- see the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for full details |
+| Do I need a visa? | Most nationalities get 60 days visa-free -- see the [Thailand visa guide 2026](/visa/) for full details |
 | Is travel insurance necessary? | Yes -- **diving**, **snorkelling**, and boat travel require proper cover; compare plans in our [travel insurance guide](/travel-insurance-thailand/) |
 | How do I stay connected on islands? | Buy a **Thai eSIM** before you go (we recommend [Saily](https://saily.tpo.lv/rf9lidnE)) for data on every island -- see our [eSIM guide](/esim/) |
 
@@ -135,7 +135,7 @@ Travelling light is critical when you are hopping between islands. **Ferries**, 
 - **Wear a life jacket** on every boat, even if other passengers skip it.
 - **[Travel insurance](/travel-insurance-thailand/)** is non-negotiable. Make sure your policy covers **diving**, **snorkelling**, water activities, and medical evacuation from islands. Read our [travel insurance guide](/travel-insurance-thailand/) to compare plans.
 - **Watch for jellyfish** during rainy season, especially on Gulf islands between July and October.
-- Keep your [visa](/visa/) validity in mind if you plan a longer **island hopping** route -- check the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for extension options.
+- Keep your [visa](/visa/) validity in mind if you plan a longer **island hopping** route -- check the [Thailand visa guide 2026](/visa/) for extension options.
 - For emergencies and [practical travel information](/practical-info/), save local emergency numbers and your embassy contact before heading to remote islands.
 
 ## 7. Sample 2-Week Island Hopping Itinerary
@@ -157,7 +157,7 @@ This itinerary works best in **January through March**, when both coasts enjoy d
 
 Thailand **island hopping** is one of Southeast Asia's greatest travel experiences. Whether you are a **backpacking** traveller sleeping in bamboo huts or a couple looking for overwater villas, there is a route and budget that works for you. Start by picking your coast, check the [season](/weather/), and book your first **ferry**. The rest will fall into place.
 
-Browse all our [island guides](/islands/) to start planning your route, or read our [Thailand visa guide](/blog/thailand-visa-guide-2026/) to make sure your paperwork is sorted before you go. Do not forget to arrange [travel insurance](/travel-insurance-thailand/) that covers water activities, grab a [Thai eSIM](/esim/) for connectivity, and check the [transport page](/transport/) for the latest ferry schedules. Wondering how Thailand's islands compare to Bali? Read our [Thailand vs Bali 2026](/blog/thailand-vs-bali-2026-which-is-better/) comparison. For the best beaches to target, check our [best beaches in Thailand](/blog/best-beaches-thailand/) guide and our tips on [kayaking and paddleboarding spots](/blog/best-kayaking-paddleboarding-spots-thailand-2026/).
+Browse all our [island guides](/islands/) to start planning your route, or read our [Thailand visa guide](/visa/) to make sure your paperwork is sorted before you go. Do not forget to arrange [travel insurance](/travel-insurance-thailand/) that covers water activities, grab a [Thai eSIM](/esim/) for connectivity, and check the [transport page](/transport/) for the latest ferry schedules. Wondering how Thailand's islands compare to Bali? Read our [Thailand vs Bali 2026](/blog/thailand-vs-bali-2026-which-is-better/) comparison. For the best beaches to target, check our [best beaches in Thailand](/blog/best-beaches-thailand/) guide and our tips on [kayaking and paddleboarding spots](/blog/best-kayaking-paddleboarding-spots-thailand-2026/).
 
 ## FAQ
 

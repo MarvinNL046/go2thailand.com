@@ -79,4 +79,4 @@ At under 1,100 baht for a 2nd Class berth, the [Bangkok to Chiang Mai](/transpor
 
 If you are planning a longer journey through northern Thailand, consider extending your trip to [Chiang Rai](/destinations/chiang-rai/) or even [Pai](/destinations/pai/) — both are easy onward connections from Chiang Mai. You can also compare the sleeper train with the [Blue Jasmine luxury train](/blog/blue-jasmine-luxury-train-bangkok-chiang-mai-2026/) if you want a premium rail experience. For other transport options on this corridor, see the full [Bangkok to Chiang Mai transport guide](/transport/bangkok-to-chiang-mai/). Travellers continuing south after their northern loop can check routes like [Chiang Mai to Koh Samui](/transport/chiang-mai-to-koh-samui/) or [Chiang Mai to Krabi](/transport/chiang-mai-to-krabi/) for the next leg.
 
-Before your trip, review the [Thailand visa guide](/blog/thailand-visa-guide-2026/) and consider whether you need [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/).
+Before your trip, review the [Thailand visa guide](/visa/) and consider whether you need [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/).

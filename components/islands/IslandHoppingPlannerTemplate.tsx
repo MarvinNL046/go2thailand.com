@@ -63,7 +63,7 @@ function schemas(data: IslandHoppingPlannerData) {
 
 export function IslandHoppingPlannerTemplate({ data }: { data: IslandHoppingPlannerData }) {
   return (
-    <main className="bg-canvas" data-premium-template="island-hopping-planner-en">
+    <div className="bg-canvas" data-premium-template="island-hopping-planner-en">
       <SEOHead title={data.title} description={data.description} ogImage={`https://go2-thailand.com${data.heroImage}`}>
         {schemas(data).map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
@@ -138,6 +138,6 @@ export function IslandHoppingPlannerTemplate({ data }: { data: IslandHoppingPlan
       <FaqSplitSection id="questions" eyebrow="Genuine search questions" title="Thailand island-hopping questions" description="Captured from ten live UK-English SERPs and answered without freezing changeable fares, schedules or seasons into permanent claims." items={data.faqs} />
       <RelatedGuidesSection eyebrow="Continue planning" title="Turn the route into a trip" readLabel="Open the guide" guides={data.related} />
       <SourceMethodSection eyebrow="Sources & method" title="Built around real route decisions" description={data.methodDescription} sources={data.sources} />
-    </main>
+    </div>
   );
 }

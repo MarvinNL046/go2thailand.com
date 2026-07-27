@@ -31,7 +31,7 @@ You're about to board a flight to one of Southeast Asia's most magical destinati
 |----------|--------|
 | **What is the best time to visit?** | **November to February** (cool and dry season); avoid May–October (monsoon and heat) |
 | **How much does it cost per day?** | Budget travelers: 800–1,200 THB ($22–33 USD); mid-range: 1,500–2,500 THB ($42–70 USD) |
-| **Do I need a visa?** | Citizens of 60+ countries get **30 days visa-free**; others apply for Tourist Visa (60 days) |
+| **Do I need a visa?** | It depends on passport and purpose. At our 27 July 2026 check, an ordinary British passport can normally use visa exemption for up to **60 days**. |
 | **Is it safe?** | Yes, generally safe for tourists; avoid political gatherings and use common sense with valuables |
 | **What should I book in advance?** | Flights, [accommodation](https://booking.tpo.lv/2PT1kR82) in peak season (Nov–Feb), and popular cooking classes or tours |
 | **What currency do I need?** | Thai Baht (THB); ATMs widely available; 1 USD ≈ 35 THB (rates fluctuate) |
@@ -39,7 +39,7 @@ You're about to board a flight to one of Southeast Asia's most magical destinati
 
 ## 1. You Likely Don't Need a Visa—But Check Your Passport First
 
-Thailand's **visa requirements** are surprisingly straightforward for most travelers. Citizens of 60 countries, including the USA, UK, Canada, Australia, and most EU nations, receive **30 days visa-free** upon arrival. No application needed—you simply land, get your passport stamped, and you're in. For a complete breakdown of all 2026 visa types, see our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/).
+Thailand's **visa requirements** depend on passport type, purpose and trip length. At our 27 July 2026 source check, a full British citizen passport can normally use visa exemption for tourism for up to **60 days**. That is not guaranteed admission: complete the separate TDAC, carry a coherent onward plan and read the actual stamp on arrival. Use the [Thailand visa finder](/visa/) for other purposes or the [visa-exemption guide](/visa/visa-free-entry/) for the current UK route.
 
 However, there are critical conditions. Your passport must be valid for at least six months beyond your intended stay. Immigration officers will ask about your accommodation and may request proof of funds (roughly 20,000 THB or $570 USD per person). If you're staying longer than 30 days, you'll need a [Tourist Visa](https://go2-thailand.com/visa/tourist-visa/), which grants 60 days and requires a visa application at a Thai embassy before arrival. Note that [Thailand is also tightening visa enforcement for Asian travelers in 2026](/blog/thailand-visa-restrictions-2026-asian-countries-tourism-impact/).
 
@@ -49,7 +49,7 @@ As of 2026, all arrivals must complete the **Thailand Digital Arrival Card** onl
 
 ### Visa Extensions and Longer Stays
 
-If you fall in love with Thailand (and many do), you can extend your 30-day stamp for another 30 days at any Immigration Office for 1,900 THB ($54 USD). For stays beyond 90 days, you must notify immigration in writing—this is a legal requirement, not optional. Check our [visa extension guide](https://go2-thailand.com/visa/visa-extension/) for detailed steps.
+If you want to remain beyond the admitted-until date in your passport, an extension may be available as a separate Immigration application. Eligibility, documents and approval depend on the entry route; do not assume an extra 30 days or treat a currency conversion as a fixed current price. Use our [visa-extension guide](https://go2-thailand.com/visa/visa-extension/) before the stamped deadline. The separate 90-day-reporting duty applies to qualifying uninterrupted stays, not simply to every visitor planning a longer trip.
 
 <div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

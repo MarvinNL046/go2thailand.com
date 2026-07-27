@@ -110,7 +110,7 @@ function schemas(data: TripLengthPlannerData) {
 
 export function TripLengthPlannerTemplate({ data }: { data: TripLengthPlannerData }) {
   return (
-    <main className="bg-canvas" data-premium-template="trip-length-planner-en">
+    <div className="bg-canvas" data-premium-template="trip-length-planner-en">
       <SEOHead title={data.title} description={data.description} ogImage={`https://go2-thailand.com${data.heroImage}`}>
         {schemas(data).map((schema, index) => (
           <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
@@ -286,6 +286,6 @@ export function TripLengthPlannerTemplate({ data }: { data: TripLengthPlannerDat
       <FaqSplitSection id="questions" eyebrow="Genuine search questions" title="Thailand trip-length questions" description="Captured from ten live UK-English SERPs. Answers separate trip duration from visa entitlement, weather and daily spending so changeable facts stay with their specialist owners." items={data.faqs} />
       <RelatedGuidesSection eyebrow="Continue planning" title="Turn nights into a route" readLabel="Open the guide" guides={data.related} />
       <SourceMethodSection eyebrow="Sources & method" title="A pacing decision, not a sales promise" description={data.methodDescription} sources={data.sources} />
-    </main>
+    </div>
   );
 }

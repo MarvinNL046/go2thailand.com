@@ -366,7 +366,7 @@ For a deeper dive, read our complete [best time to visit Thailand](https://go2-t
 ## Thailand Travel Tips for Your Itinerary
 
 ### Visa Information
-Most nationalities receive a **60-day visa exemption** upon arrival (extended from the previous 30-day allowance). You need a passport valid for at least 6 months and a return/onward ticket. Digital nomads can apply for the **Destination Thailand Visa (DTV)**, which grants a 180-day stay. Read our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for the complete breakdown of all visa types and the latest rule changes, including the [planned reduction to 30 days visa-free](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/).
+Visa exemption depends on passport and purpose. At our 27 July 2026 source check, a full British citizen passport can normally use the current route for up to **60 days**, subject to entry conditions and the border decision. Eligible remote workers can separately assess the **Destination Thailand Visa (DTV)**, which has its own per-entry stay and evidence rules. Use our [Thailand visa finder](/visa/) and verify the temporary [visa-exemption rule](/visa/visa-free-entry/) before departure.
 
 ### Getting Around Thailand
 - **Domestic flights:** AirAsia, Nok Air, Thai Lion Air, and Bangkok Airways. Book on their apps or via [12Go Asia](https://12go.tpo.lv/tNA80urD) for route comparisons.

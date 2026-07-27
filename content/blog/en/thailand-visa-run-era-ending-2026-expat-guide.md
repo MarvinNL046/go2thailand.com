@@ -24,7 +24,7 @@ sources:
 
 ## The Visa Run Is No Longer a Reliable Strategy
 
-For years, expats and digital nomads in Thailand relied on "visa runs" — quick trips across a land border and back — to reset their visa-exempt stay. In 2026, that era is effectively over. Thailand has not introduced a dramatic new law, but immigration officers are now enforcing existing rules far more strictly than before. This crackdown is happening alongside other major [Thailand visa changes in 2026](/blog/thailand-visa-guide-2026/), including a proposal to [cut the standard visa-free stay from 60 days back to 30 days](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/).
+For years, expats and digital nomads in Thailand relied on “visa runs” — quick trips across a border and back — as if each new stamp were guaranteed. That is not a sound long-stay plan: every arrival is assessed separately and repeated entries can attract scrutiny. At our 27 July 2026 source check, the ordinary British-passport exemption still states up to 60 days, but the London embassy describes the arrangement as temporary. Use the [current visa finder](/visa/) instead of building a year around repeated tourist entries.
 
 ## What Changed
 
@@ -36,7 +36,7 @@ Same-day out-and-back trips at land borders are treated as high risk. Officers m
 
 Since November 2025, visa exemption extensions are limited to two per calendar year. The first extension gives you 30 extra days, and the second gives just seven. Land border entries cannot be extended at all — only airport arrivals qualify for extensions.
 
-In practical terms, one 60-day visa-exempt entry can be stretched to roughly 90 days with extensions. But you cannot keep stacking entries and extensions all year like people used to. And if the [proposed cut from 60 to 30 days](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) passes Cabinet approval, the initial window shrinks further before extensions even begin.
+The current UK guidance says a visa-exempt stay may be extended by up to another 30 days, but that is a separate discretionary application. It does not turn repeated border crossings into a guaranteed residence strategy. Read the actual admitted-until stamp and use the [extension owner](/visa/visa-extension/) before the date expires.
 
 ## Who Is Most Affected
 
@@ -49,7 +49,7 @@ Genuine tourists visiting Thailand once or twice a year with normal travel patte
 Thailand still welcomes long-term residents, but the government now insists your visa matches the nature of your stay. The main options for 2026 include:
 
 - **Destination Thailand Visa (DTV):** The go-to choice for [digital nomads and remote workers in Thailand](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/). It offers 180 days per entry, is extendable once, and has a five-year validity with multiple entries. You need to show at least 500,000 baht in a personal bank account held for three months. [Chiang Mai remains the most cost-effective base for DTV holders](/blog/chiang-mai-cheapest-digital-nomad-city-2026/), with living costs significantly lower than Bangkok.
-- **Long-Term Resident (LTR) Visa:** Designed for wealthy individuals, retirees, and skilled professionals. Income thresholds have been relaxed in 2026, and administrative requirements have been simplified. See the [full Thailand visa guide](/blog/thailand-visa-guide-2026/) for current LTR eligibility thresholds.
+- **Long-Term Resident (LTR) Visa:** Designed for wealthy individuals, retirees, and skilled professionals. Income thresholds have been relaxed in 2026, and administrative requirements have been simplified. See the [full Thailand visa guide](/visa/) for current LTR eligibility thresholds.
 - **Education Visa (ED):** Still available for Thai language courses and other approved programmes.
 
 Thailand also overhauled its entire [e-visa system in 2026, reducing 17 categories to just 7](/blog/thailand-evisa-overhaul-2026-simplified-categories/), which makes applying for a proper long-term visa online considerably simpler than before.

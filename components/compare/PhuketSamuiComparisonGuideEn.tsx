@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import Link from 'next/link';
 import {
   ArrowRight,
   BadgeCheck,
@@ -11,7 +10,6 @@ import {
   MoonStar,
   Palmtree,
   Plane,
-  Route,
   Scale,
   Ship,
   Sparkles,
@@ -105,7 +103,7 @@ export default function PhuketSamuiComparisonGuideEn() {
     <SEOHead title="Phuket vs Koh Samui: which island fits your trip?" description="Compare Phuket and Koh Samui by weather, beaches, access, nightlife, family fit and travel style—then check current hotels, tours and transport." ogImage="https://go2-thailand.com/images/redesign/phuket-koh-samui-comparison-hero-v2.webp">
       {schemas().map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
     </SEOHead>
-    <main className="bg-canvas text-charcoal" data-premium-template="island-comparison">
+    <div className="bg-canvas text-charcoal" data-premium-template="island-comparison">
       <EditorialHero image="/images/redesign/phuket-koh-samui-comparison-hero-v2.webp" imageAlt="Tropical Andaman limestone coast blending into a calm palm-lined Gulf beach" breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Island guides', href: '/islands/' }, { label: 'Phuket vs Koh Samui' }]} eyebrow="Two coasts · one honest choice" title={<>Phuket <span className="text-saffron-dark">or</span>{' '}<br />Koh Samui?</>} subtitle="Choose by month and travel rhythm—not by one perfect beach photo." description="Phuket gives you more connections, districts and moving parts. Koh Samui rewards a slower island base. This comparison shows the trade-offs, then sends you to live prices instead of pretending one dated number fits every trip." actions={[{ label: 'See the verdict', href: '#verdict', kind: 'primary' }, { label: 'Compare side by side', href: '#compare', kind: 'secondary' }]} minHeightClassName="min-h-[720px] lg:min-h-[690px]" titleClassName="max-w-[720px] text-[4.2rem] leading-[0.86] sm:text-[5.6rem] lg:text-[6.8rem]" contentClassName="max-w-[710px]" imageClassName="object-cover object-[58%_center]" gradientClassName="bg-[linear-gradient(180deg,rgba(252,250,246,0.05)_0%,rgba(252,250,246,0.82)_62%,rgba(252,250,246,0.99)_100%)] lg:bg-[linear-gradient(90deg,rgba(252,250,246,0.98)_0%,rgba(252,250,246,0.83)_38%,rgba(252,250,246,0.10)_64%,rgba(8,47,41,0.04)_100%)]" />
       <PageSectionNav items={navItems} />
 
@@ -130,6 +128,6 @@ export default function PhuketSamuiComparisonGuideEn() {
       <FaqSplitSection eyebrow="Real search questions" title="Phuket vs Koh Samui FAQs" description="These questions were returned verbatim in the UK Google People Also Ask results captured through DataForSEO on 27 July 2026." items={faqs}/>
       <RelatedGuidesSection title="Plan the island you chose" guides={[{title:'Phuket travel guide',description:'Build the island by district, transport, food and realistic day clusters.',href:'/city/phuket/',image:'/images/redesign/phuket-destination-hero-v2.webp',imageAlt:'Phuket coast and long-tail boat'},{title:'Koh Samui travel guide',description:'Choose a coast, understand the island rhythm and plan Gulf day trips.',href:'/city/koh-samui/',image:'/images/redesign/koh-samui-destination-hero.webp',imageAlt:'Koh Samui tropical coast'},{title:'Thailand islands',description:'Compare more Thai islands before locking the owner route.',href:'/islands/',image:'/images/islands/koh-samui.webp',imageAlt:'Palm-lined Thai island beach'}]} sideLink={{label:'Browse Thailand experiences',href:withSubId(KLOOK_GENERIC,'compare-en-related'),affiliate:true}} disclosure="The Klook link is an affiliate link. Editorial order is not paid placement."/>
       <SourceMethodSection title="How this comparison was made" description="The English owner, ranking footprint, keyword cluster, competitor field and exact People Also Ask questions were researched with DataForSEO for the United Kingdom on 27 July 2026. Destination, airport and weather guidance is checked against primary Thai sources. We avoid static trip prices and direct readers to current provider results." sources={sources}/>
-    </main>
+    </div>
   </>;
 }

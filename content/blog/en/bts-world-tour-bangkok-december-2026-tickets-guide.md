@@ -51,7 +51,7 @@ Tickets will likely sell out within minutes of going on sale. Set up notificatio
 If you are flying to Bangkok specifically for the BTS concerts, here are a few things to plan ahead:
 
 - **Accommodation:** [Hotels near Bangkok](/best-hotels/bangkok/) near Hua Mark are limited. Most visitors stay in central Bangkok along the Sukhumvit BTS line and take the Airport Rail Link to the venue. Book early because K-pop concerts drive up hotel demand across the city. See our [Bangkok neighbourhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) for the best areas to stay.
-- **Visa:** Check whether you need a visa. As of March 2026, nationals of 93 countries can enter Thailand visa-free, though the [allowed stay may be reduced from 60 to 30 days](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) soon. See our full [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for details.
+- **Visa:** Check whether you need a visa. At our 27 July 2026 source check, the current UK guidance still states up to 60 days for an eligible ordinary British passport. Verify the temporary rule in our [visa-exemption guide](/visa/visa-free-entry/) and compare all routes in the [Thailand visa guide](/visa/).
 - **Weather:** December is peak dry season in Bangkok, with warm days around 30 degrees Celsius and cooler evenings. Perfect for an outdoor stadium show. Read our [best time to visit Thailand](/blog/best-time-to-visit-thailand/) guide for more seasonal context.
 - **Combine your trip:** December is also ideal for visiting [Chiang Mai](/city/chiang-mai/), the islands, or nearby [Ayutthaya](/city/ayutthaya/). Many fans extend the concert trip into a [full Thailand holiday](/blog/thailand-itinerary-2-weeks/).
 

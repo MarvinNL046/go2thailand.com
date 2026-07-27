@@ -369,7 +369,7 @@ Thailand's internet is generally reliable. Most hotels, restaurants, and cafes o
 
 ### Visa & Entry Requirements
 
-Most nationalities receive a 30-day visa exemption upon arrival in Thailand. Ensure your passport is valid for at least 6 months beyond your travel dates. For longer stays, apply for a [Tourist Visa](https://go2-thailand.com/visa/tourist-visa/) (60 days) at a Thai embassy before arrival.
+Visa exemption depends on passport and purpose. At our 27 July 2026 source check, an ordinary British passport can normally use the current exemption for up to 60 days. Use the [Thailand visa finder](https://go2-thailand.com/visa/) and verify live requirements before travel; longer or different travel patterns may need a [Tourist Visa](https://go2-thailand.com/visa/tourist-visa/).
 
 **Important:** Thailand requires the [Thailand Digital Arrival Card (TM.6)](https://tdac.immigration.go.th/arrival-card/#/home) to be submitted 3 days before arrival.
 

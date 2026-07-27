@@ -470,7 +470,7 @@ Private tours, spa treatments, and exclusive experiences cost more but offer lux
 - **Credit card surcharge:** Some restaurants add 3–5% surcharge for credit cards. Ask before paying
 - **Resort fees:** High-end hotels sometimes charge ฿300–500 "resort fee" not included in room rate. Confirm when booking
 - **Drink minimums:** Some bars have drink minimums or table charges. Ask before sitting
-- **Overstaying visa:** Overstay fines are ฿500 per day. Check the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for current requirements — rules changed significantly in late 2025
+- **Overstaying visa:** Overstay fines are ฿500 per day. Check the [Thailand visa guide 2026](/visa/) for current requirements — rules changed significantly in late 2025
 
 ### Scams to Avoid
 **Common tourist scams and how to avoid them:**
