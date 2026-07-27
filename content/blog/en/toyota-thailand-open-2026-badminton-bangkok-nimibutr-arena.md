@@ -36,7 +36,7 @@ Nimibutr Arena sits at **154 Rama I Road** in the Pathum Wan district, right nex
 
 Thailand has become a powerhouse in Southeast Asian badminton, and the home crowd at the Thailand Open is famously loud and passionate. The 2025 edition saw dramatic upsets in both singles draws, and the 2026 tournament is expected to attract a similarly strong field of world-ranked players from Indonesia, China, Japan, Denmark, and India.
 
-For visitors who are not die-hard badminton fans, the atmosphere alone makes it worth a visit. Tickets for preliminary rounds are typically affordable, and the venue is compact enough that every seat offers a good view of the action. If you enjoy sports events in Bangkok, also look at [HYROX Bangkok 2026](/blog/hyrox-bangkok-2026-fitness-racing-bitec-guide/) and upcoming [K-pop concerts](/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/) for more event options in the city.
+For visitors who are not die-hard badminton fans, the atmosphere alone makes it worth a visit. Tickets for preliminary rounds are typically affordable, and the venue is compact enough that every seat offers a good view of the action. If you enjoy sports events in Bangkok, also look at [HYROX Bangkok 2026](/blog/hyrox-bangkok-2026-fitness-racing-bitec-guide/) and the [BTS Bangkok 2026 concert guide](/blog/bts-world-tour-bangkok-december-2026-tickets-guide/) for another major city event.
 
 ## Combining the Event With Your Bangkok Trip
 

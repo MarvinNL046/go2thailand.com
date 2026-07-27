@@ -70,6 +70,7 @@ import { BangkokChiangMaiSleeperTrainEn } from '../../components/transport/Bangk
 import { ThailandIslandHoppingGuideEn } from '../../components/islands/ThailandIslandHoppingGuideEn';
 import { HowLongThailandGuideEn } from '../../components/planning/HowLongThailandGuideEn';
 import { BestTimeThailandGuideEn } from '../../components/planning/BestTimeThailandGuideEn';
+import BtsBangkokConcertGuideEn from '../../components/events/BtsBangkokConcertGuideEn';
 
 interface Source {
   name: string;
@@ -323,6 +324,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
   }
   if (locale === 'en' && post.slug === 'best-time-to-visit-thailand') {
     return <BestTimeThailandGuideEn />;
+  }
+  if (locale === 'en' && post.slug === 'bts-world-tour-bangkok-december-2026-tickets-guide') {
+    return <BtsBangkokConcertGuideEn />;
   }
 
   const breadcrumbs = [

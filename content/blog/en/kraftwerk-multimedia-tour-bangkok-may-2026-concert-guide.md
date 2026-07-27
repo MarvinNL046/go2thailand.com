@@ -36,7 +36,7 @@ The setlist typically draws from more than four decades of material, including t
 
 ## Tickets and Prices
 
-Tickets are available through Thai Ticket Major. Three pricing tiers have been announced. For a full picture of what concerts are coming to Bangkok in 2026, see our [K-pop concerts Bangkok 2026 guide](https://go2-thailand.com/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/) and the [BTS World Tour Bangkok December 2026 guide](https://go2-thailand.com/blog/bts-world-tour-bangkok-december-2026-tickets-guide/).
+Tickets are available through Thai Ticket Major. Three pricing tiers have been announced. For a separately researched later event, see the [BTS Bangkok December 2026 concert guide](/blog/bts-world-tour-bangkok-december-2026-tickets-guide/) with its dated official status and Rajamangala travel plan.
 
 - **Standard:** 3,300 baht
 - **Premium:** 3,800 baht

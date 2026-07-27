@@ -36,7 +36,7 @@ Five competition categories were available: Singles, Singles Pro, Doubles, Doubl
 
 ## The Atmosphere Beyond the Race
 
-HYROX is not just for competitors. The event featured **HYROX House**, a festival-style area with curated food and beverage stalls, live DJ sets, brand activations and activities for families and spectators. Thai celebrity Chompoo Araya drew headlines by completing her HYROX debut in a strong showing, boosting the sport's visibility in Thailand. Bangkok's events calendar is packed — from [K-pop concerts](/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/) to [the Bangkok Art Biennale](/blog/bangkok-art-biennale-2026-angels-mara-guide/), making any visit worthwhile even if you are not racing.
+HYROX is not just for competitors. The event featured **HYROX House**, a festival-style area with curated food and beverage stalls, live DJ sets, brand activations and activities for families and spectators. Thai celebrity Chompoo Araya drew headlines by completing her HYROX debut in a strong showing, boosting the sport's visibility in Thailand. Bangkok's events calendar is packed — from the [BTS Bangkok 2026 concerts](/blog/bts-world-tour-bangkok-december-2026-tickets-guide/) to [the Bangkok Art Biennale](/blog/bangkok-art-biennale-2026-angels-mara-guide/) — but always check the individual event's current dates and venue.
 
 ## Getting to BITEC
 

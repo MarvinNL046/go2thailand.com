@@ -181,6 +181,15 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // The dated K-pop roundup has no ranking or backlink signal and became
+      // stale after its headline events passed. Consolidate it into the
+      // independently researched, current BTS Bangkok owner in English only.
+      {
+        source: '/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/',
+        destination: '/blog/bts-world-tour-bangkok-december-2026-tickets-guide/',
+        permanent: true,
+        locale: false,
+      },
       // The researched practical-info owner carries broad NL etiquette,
       // temple, wai and social-custom intent. Preserve the English guide
       // until its own English research and redesign phase.
