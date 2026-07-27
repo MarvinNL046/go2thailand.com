@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import OldTownThingsToDoEn from '../../../../components/phuket/OldTownThingsToDoEn';
 
 interface PartnerEntry { partnerUrl: string; label: string }
 interface Partners { [key: string]: PartnerEntry }
@@ -16,6 +17,10 @@ export default function PhuketOldTownThingsToDoPage({ partners, lastUpdated }: P
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (!isNl) {
+    return <OldTownThingsToDoEn activityHref={partners.klook_things?.partnerUrl} />;
+  }
   const placement = (p: string) => `${subId}-pseo-phuket-old-town-things-to-do-${p}`;
 
   const breadcrumbs = [

@@ -12,4 +12,4 @@
 - TypeScript passed. EN/NL owners, both Old Town spokes and tested Phuket hub routes returned HTTP 200.
 - EN output: one canonical, three hreflang links, five JSON-LD blocks and four actual sponsored links in the hydrated page.
 - Browser QA at 1280×720: premium template present, hero loaded, no broken eager images and no horizontal overflow.
-- Next cluster work: redesign and verify the activities and night-market spokes without changing their assigned intents or the market spoke’s existing ranking URLs.
+- Cluster completion: the activities and night-market spokes now use the shared premium spoke template with separate route and live-market data. Their assigned intents and the market spoke’s existing ranking URL are unchanged.

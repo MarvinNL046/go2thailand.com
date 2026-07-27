@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import OldTownNightMarketEn from '../../../../components/phuket/OldTownNightMarketEn';
 
 interface PartnerEntry { partnerUrl: string; label: string }
 interface Partners { [key: string]: PartnerEntry }
@@ -16,6 +17,10 @@ export default function PhuketOldTownNightMarketPage({ partners, lastUpdated }: 
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (!isNl) {
+    return <OldTownNightMarketEn activityHref={partners.klook_market?.partnerUrl} />;
+  }
   const placement = (p: string) => `${subId}-pseo-phuket-old-town-night-market-${p}`;
 
   const breadcrumbs = [
