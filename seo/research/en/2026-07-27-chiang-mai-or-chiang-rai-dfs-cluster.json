@@ -1,0 +1,641 @@
+{
+  "captured_at": "2026-07-27T22:17:59.419Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "chiang mai or chiang rai",
+  "costs": {
+    "suggestions": 0.01308,
+    "related": 0.01452,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "chiang mai or chiang rai",
+    "chiang rai or chiang mai",
+    "chiang mai and chiang rai distance",
+    "chiang mai and chiang rai tour package",
+    "chiang mai or chiang rai first",
+    "chiang mai or chiang rai which is better",
+    "chiang mai vs chiang rai reddit",
+    "chiang rai or chiang mai which is better",
+    "which is better chiang mai or chiang rai"
+  ],
+  "keywords": [
+    {
+      "keyword": "golden triangle india",
+      "volume": 2900,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle thailand",
+      "volume": 480,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai or chiang rai",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang rai or chiang mai",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "golden triangle chiang rai",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle drugs",
+      "volume": 70,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle countries",
+      "volume": 40,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle thailand map",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle thailand hotels",
+      "volume": 30,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai and chiang rai distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai and chiang rai map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai and chiang rai tour package",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai or chiang rai first",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai or chiang rai reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai or chiang rai which is better",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai vs chiang rai reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang rai or chiang mai which is better",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "golden crescent and golden triangle",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle chiang rai entrance fee",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle chiang rai hotel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle chiang rai map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle crime",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle drugs countries",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golden triangle thailand tourism",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is the golden triangle dangerous",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "which is better chiang mai or chiang rai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang rai or chiang mai reddit",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "golden triangle thailand things to do",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "trekking chiang rai or chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.templeseeker.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 66.88
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 35.64
+    },
+    {
+      "domain": "www.emmasdaydream.com",
+      "avgPosition": 3.5,
+      "keywordCount": 2,
+      "visibility": 1.5,
+      "estimatedTraffic": 17.951999999999998
+    },
+    {
+      "domain": "littleoneexplores.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 13.519
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 10.966999999999999
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 7.975
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 5.885
+    },
+    {
+      "domain": "acrosseveryborder.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 3.8169999999999997
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 2.651
+    },
+    {
+      "domain": "www.pm-tours.com",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.2439999999999998
+    },
+    {
+      "domain": "www.travelpack.com",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.0679999999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.4409999999999998
+    },
+    {
+      "domain": "bonniezeng.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.21
+    },
+    {
+      "domain": "www.thailandhilltribeholidays.com",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.1219999999999999
+    },
+    {
+      "domain": "www.chiangmai-alacarte.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.089
+    },
+    {
+      "domain": "destinasian.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.034
+    },
+    {
+      "domain": "italiantripabroad.it",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.726
+    },
+    {
+      "domain": "www.bonvoyagethailand.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.539
+    },
+    {
+      "domain": "tuguiaentailandia.com",
+      "avgPosition": 22,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.49499999999999994
+    },
+    {
+      "domain": "thelavendertravelers.com",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.528
+    },
+    {
+      "domain": "www.marionandalfred.de",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.tripzilla.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.thailandhighlights.com",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "togethertowherever.com",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "allpointseast.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "mycameradiaries.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.amazon.co.uk",
+      "avgPosition": 34,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "medium.com",
+      "avgPosition": 34,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 36.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "catisoutoftheoffice.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "dmcquote.com",
+      "avgPosition": 38,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.visitthailandtoday.com",
+      "avgPosition": 39.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.budgetyourtrip.com",
+      "avgPosition": 41.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.voyagethailande.fr",
+      "avgPosition": 42,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.30sundays.club",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "gaeria84.blogspot.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.letsventureout.com",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.flyertalk.com",
+      "avgPosition": 47,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "autourasia.com",
+      "avgPosition": 48.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "asianinspirations.com.au",
+      "avgPosition": 49,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "thailandawaits.com",
+      "avgPosition": 51,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.roowanders.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 5.159
+    },
+    {
+      "domain": "www.smilingalbino.com",
+      "avgPosition": 55,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "hnvjourneys.com",
+      "avgPosition": 55,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "wanderwithorla.com",
+      "avgPosition": 56,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "iwandered.net",
+      "avgPosition": 58,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 59,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "abrokenbackpack.com",
+      "avgPosition": 59,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "pack-lightly.com",
+      "avgPosition": 59.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    }
+  ]
+}
