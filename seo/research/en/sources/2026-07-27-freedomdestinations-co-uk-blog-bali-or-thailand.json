@@ -1,0 +1,1731 @@
+{
+  "captured_at": "2026-07-27T09:14:55.676Z",
+  "locale": "en",
+  "url": "https://freedomdestinations.co.uk/blog/bali-or-thailand",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Call us on",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "New York & The East Coast",
+          "url": "https://freedomdestinations.co.uk/america/east-coast",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/east-coast",
+              "anchor_text": "New York & The East Coast"
+            }
+          ]
+        },
+        {
+          "text": "Boston & New England",
+          "url": "https://freedomdestinations.co.uk/america/new-england",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/new-england",
+              "anchor_text": "Boston & New England"
+            }
+          ]
+        },
+        {
+          "text": "Chicago & The Great Lakes",
+          "url": "https://freedomdestinations.co.uk/america/chicago",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/chicago",
+              "anchor_text": "Chicago & The Great Lakes"
+            }
+          ]
+        },
+        {
+          "text": "New Orleans & The Deep South",
+          "url": "https://freedomdestinations.co.uk/america/deep-south",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/deep-south",
+              "anchor_text": "New Orleans & The Deep South"
+            }
+          ]
+        },
+        {
+          "text": "Las Vegas & The Canyons",
+          "url": "https://freedomdestinations.co.uk/america/the-canyons",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/the-canyons",
+              "anchor_text": "Las Vegas & The Canyons"
+            }
+          ]
+        },
+        {
+          "text": "Texas & New Mexico",
+          "url": "https://freedomdestinations.co.uk/america/texas",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/texas",
+              "anchor_text": "Texas & New Mexico"
+            }
+          ]
+        },
+        {
+          "text": "Yellowstone & Cowboy Country",
+          "url": "https://freedomdestinations.co.uk/america/yellowstone",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/yellowstone",
+              "anchor_text": "Yellowstone & Cowboy Country"
+            }
+          ]
+        },
+        {
+          "text": "Pacific Northwest",
+          "url": "https://freedomdestinations.co.uk/america/pacific-northwest",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/pacific-northwest",
+              "anchor_text": "Pacific Northwest"
+            }
+          ]
+        },
+        {
+          "text": "All America…",
+          "url": "https://freedomdestinations.co.uk/america",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america",
+              "anchor_text": "All America…"
+            }
+          ]
+        },
+        {
+          "text": "Toronto & the East",
+          "url": "https://freedomdestinations.co.uk/canada/east",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/canada/east",
+              "anchor_text": "Toronto & the East"
+            }
+          ]
+        },
+        {
+          "text": "Vancouver & the West",
+          "url": "https://freedomdestinations.co.uk/canada/vancouver",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/canada/vancouver",
+              "anchor_text": "Vancouver & the West"
+            }
+          ]
+        },
+        {
+          "text": "Atlantic Canada",
+          "url": "https://freedomdestinations.co.uk/canada/atlantic-canada",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/canada/atlantic-canada",
+              "anchor_text": "Atlantic Canada"
+            }
+          ]
+        },
+        {
+          "text": "All Canada…",
+          "url": "https://freedomdestinations.co.uk/canada",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/canada",
+              "anchor_text": "All Canada…"
+            }
+          ]
+        },
+        {
+          "text": "Sydney & the East Coast",
+          "url": "https://freedomdestinations.co.uk/australia/east-coast",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/australia/east-coast",
+              "anchor_text": "Sydney & the East Coast"
+            }
+          ]
+        },
+        {
+          "text": "Melbourne, Adelaide & Tasmania",
+          "url": "https://freedomdestinations.co.uk/australia/southern",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/australia/southern",
+              "anchor_text": "Melbourne, Adelaide & Tasmania"
+            }
+          ]
+        },
+        {
+          "text": "Uluru & the Outback",
+          "url": "https://freedomdestinations.co.uk/australia/outback",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/australia/outback",
+              "anchor_text": "Uluru & the Outback"
+            }
+          ]
+        },
+        {
+          "text": "Perth & Western Australia",
+          "url": "https://freedomdestinations.co.uk/australia/western-australia",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/australia/western-australia",
+              "anchor_text": "Perth & Western Australia"
+            }
+          ]
+        },
+        {
+          "text": "All Australia…",
+          "url": "https://freedomdestinations.co.uk/australia",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/australia",
+              "anchor_text": "All Australia…"
+            }
+          ]
+        },
+        {
+          "text": "North Island",
+          "url": "https://freedomdestinations.co.uk/new-zealand/north-island-holidays",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/new-zealand/north-island-holidays",
+              "anchor_text": "North Island"
+            }
+          ]
+        },
+        {
+          "text": "South Island",
+          "url": "https://freedomdestinations.co.uk/new-zealand/south-island-holidays",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/new-zealand/south-island-holidays",
+              "anchor_text": "South Island"
+            }
+          ]
+        },
+        {
+          "text": "All New Zealand…",
+          "url": "https://freedomdestinations.co.uk/new-zealand",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/new-zealand",
+              "anchor_text": "All New Zealand…"
+            }
+          ]
+        },
+        {
+          "text": "Cook Islands",
+          "url": "https://freedomdestinations.co.uk/cook-islands",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/cook-islands",
+              "anchor_text": "Cook Islands"
+            }
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "url": "https://freedomdestinations.co.uk/asia/hong-kong",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/asia/hong-kong",
+              "anchor_text": "Hong Kong"
+            }
+          ]
+        },
+        {
+          "text": "All Asia…",
+          "url": "https://freedomdestinations.co.uk/asia",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/asia",
+              "anchor_text": "All Asia…"
+            }
+          ]
+        },
+        {
+          "text": "South Africa",
+          "url": "https://freedomdestinations.co.uk/africa/south-africa",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/africa/south-africa",
+              "anchor_text": "South Africa"
+            }
+          ]
+        },
+        {
+          "text": "Victoria Falls",
+          "url": "https://freedomdestinations.co.uk/africa/victoria-falls",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/africa/victoria-falls",
+              "anchor_text": "Victoria Falls"
+            }
+          ]
+        },
+        {
+          "text": "All Indian Ocean…",
+          "url": "https://freedomdestinations.co.uk/indian-ocean",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/indian-ocean",
+              "anchor_text": "All Indian Ocean…"
+            }
+          ]
+        },
+        {
+          "text": "Puerto Rico",
+          "url": "https://freedomdestinations.co.uk/caribbean/puerto-rico",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/caribbean/puerto-rico",
+              "anchor_text": "Puerto Rico"
+            }
+          ]
+        },
+        {
+          "text": "All Caribbean…",
+          "url": "https://freedomdestinations.co.uk/caribbean",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/caribbean",
+              "anchor_text": "All Caribbean…"
+            }
+          ]
+        },
+        {
+          "text": "Fly Drives",
+          "url": "https://freedomdestinations.co.uk/holidays/fly-drive",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/fly-drive",
+              "anchor_text": "Fly Drives"
+            }
+          ]
+        },
+        {
+          "text": "Rail Holidays",
+          "url": "https://freedomdestinations.co.uk/holidays/rail",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/rail",
+              "anchor_text": "Rail Holidays"
+            }
+          ]
+        },
+        {
+          "text": "Safari & Beach",
+          "url": "https://freedomdestinations.co.uk/africa/safari-beach",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/africa/safari-beach",
+              "anchor_text": "Safari & Beach"
+            }
+          ]
+        },
+        {
+          "text": "Family Holidays",
+          "url": "https://freedomdestinations.co.uk/holidays/family",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/family",
+              "anchor_text": "Family Holidays"
+            }
+          ]
+        },
+        {
+          "text": "Ski Holidays",
+          "url": "https://freedomdestinations.co.uk/canada/ski-holidays",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/canada/ski-holidays",
+              "anchor_text": "Ski Holidays"
+            }
+          ]
+        },
+        {
+          "text": "City Breaks",
+          "url": "https://freedomdestinations.co.uk/holidays/city-breaks",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/city-breaks",
+              "anchor_text": "City Breaks"
+            }
+          ]
+        },
+        {
+          "text": "Car Hire",
+          "url": "https://freedomdestinations.co.uk/holidays/car-hire",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/car-hire",
+              "anchor_text": "Car Hire"
+            }
+          ]
+        },
+        {
+          "text": "Motorcycle Tours",
+          "url": "https://freedomdestinations.co.uk/america/motorcycle-tours",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/america/motorcycle-tours",
+              "anchor_text": "Motorcycle Tours"
+            }
+          ]
+        },
+        {
+          "text": "Sporting Events",
+          "url": "https://freedomdestinations.co.uk/events",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/events",
+              "anchor_text": "Sporting Events"
+            }
+          ]
+        },
+        {
+          "text": "1 Week Holidays",
+          "url": "https://freedomdestinations.co.uk/1-week-holidays",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/1-week-holidays",
+              "anchor_text": "1 Week Holidays"
+            }
+          ]
+        },
+        {
+          "text": "10 Day Holidays",
+          "url": "https://freedomdestinations.co.uk/holidays/10-day",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/10-day",
+              "anchor_text": "10 Day Holidays"
+            }
+          ]
+        },
+        {
+          "text": "2 Week Holidays",
+          "url": "https://freedomdestinations.co.uk/2-week-holidays",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/2-week-holidays",
+              "anchor_text": "2 Week Holidays"
+            }
+          ]
+        },
+        {
+          "text": "3 Week Holidays",
+          "url": "https://freedomdestinations.co.uk/3-week-holidays",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/3-week-holidays",
+              "anchor_text": "3 Week Holidays"
+            }
+          ]
+        },
+        {
+          "text": "4+ Week Holidays",
+          "url": "https://freedomdestinations.co.uk/4-week-holidays",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/4-week-holidays",
+              "anchor_text": "4+ Week Holidays"
+            }
+          ]
+        },
+        {
+          "text": "Round The World",
+          "url": "https://freedomdestinations.co.uk/holidays/round-the-world",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/round-the-world",
+              "anchor_text": "Round The World"
+            }
+          ]
+        },
+        {
+          "text": "New Zealand",
+          "url": "https://freedomdestinations.co.uk/new-zealand/multi-centre",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/new-zealand/multi-centre",
+              "anchor_text": "New Zealand"
+            }
+          ]
+        },
+        {
+          "text": "Travel Blog",
+          "url": "https://freedomdestinations.co.uk/blog",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/blog",
+              "anchor_text": "Travel Blog"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://freedomdestinations.co.uk/about-us",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/about-us",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Your Stories",
+          "url": "https://freedomdestinations.co.uk/stories",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/stories",
+              "anchor_text": "Your Stories"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Freedom Destinations Ltd is one of the UK's largest independent travel companies.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "All our flights and flight-inclusive holidays are ATOL protected.. more. Our ATOL no. is 6299.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Bookings without flights are separately protected by ABTA no. is W5359.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "For travel advice on the countries you intend to visit see the Foreign, Commonwealth & Development Office website.",
+          "url": "https://www.gov.uk/foreign-travel-advice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/foreign-travel-advice",
+              "anchor_text": "Foreign, Commonwealth & Development Office website."
+            }
+          ]
+        },
+        {
+          "text": "Stay connected for travel stories, exclusive offers and more.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "About Us",
+          "url": "https://freedomdestinations.co.uk/about-us",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/about-us",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://freedomdestinations.co.uk/enquire",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/enquire",
+              "anchor_text": "Contact Us"
+            }
+          ]
+        },
+        {
+          "text": "Request a Callback",
+          "url": "https://freedomdestinations.co.uk/call-back",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/call-back",
+              "anchor_text": "Request a Callback"
+            }
+          ]
+        },
+        {
+          "text": "Holiday Guide",
+          "url": "https://freedomdestinations.co.uk/holiday-guide",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holiday-guide",
+              "anchor_text": "Holiday Guide"
+            }
+          ]
+        },
+        {
+          "text": "Gift Vouchers",
+          "url": "https://freedomdestinations.co.uk/gift-vouchers",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/gift-vouchers",
+              "anchor_text": "Gift Vouchers"
+            }
+          ]
+        },
+        {
+          "text": "Travel Insurance",
+          "url": "https://freedomdestinations.co.uk/travel-insurance",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/travel-insurance",
+              "anchor_text": "Travel Insurance"
+            }
+          ]
+        },
+        {
+          "text": "Changing Lives",
+          "url": "https://freedomdestinations.co.uk/changing-lives",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/changing-lives",
+              "anchor_text": "Changing Lives"
+            }
+          ]
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "https://freedomdestinations.co.uk/terms",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/terms",
+              "anchor_text": "Terms & Conditions"
+            }
+          ]
+        },
+        {
+          "text": "Our Destinations",
+          "url": "https://freedomdestinations.co.uk/holiday-destinations",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holiday-destinations",
+              "anchor_text": "Our Destinations"
+            }
+          ]
+        },
+        {
+          "text": "Multi Centre Holidays",
+          "url": "https://freedomdestinations.co.uk/holidays/multi-centre",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/multi-centre",
+              "anchor_text": "Multi Centre Holidays"
+            }
+          ]
+        },
+        {
+          "text": "Self Drives",
+          "url": "https://freedomdestinations.co.uk/holidays/fly-drive",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/fly-drive",
+              "anchor_text": "Self Drives"
+            }
+          ]
+        },
+        {
+          "text": "Escorted Tours",
+          "url": "https://freedomdestinations.co.uk/holidays/tours",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/tours",
+              "anchor_text": "Escorted Tours"
+            }
+          ]
+        },
+        {
+          "text": "Rail Journeys",
+          "url": "https://freedomdestinations.co.uk/holidays/rail",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/rail",
+              "anchor_text": "Rail Journeys"
+            }
+          ]
+        },
+        {
+          "text": "Safari & Beach",
+          "url": "https://freedomdestinations.co.uk/africa/safari-beach",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/africa/safari-beach",
+              "anchor_text": "Safari & Beach"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://freedomdestinations.co.uk/about-us",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/about-us",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://freedomdestinations.co.uk/enquire",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/enquire",
+              "anchor_text": "Contact Us"
+            }
+          ]
+        },
+        {
+          "text": "Request a Callback",
+          "url": "https://freedomdestinations.co.uk/call-back",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/call-back",
+              "anchor_text": "Request a Callback"
+            }
+          ]
+        },
+        {
+          "text": "Holiday Guide",
+          "url": "https://freedomdestinations.co.uk/holiday-guide",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holiday-guide",
+              "anchor_text": "Holiday Guide"
+            }
+          ]
+        },
+        {
+          "text": "Gift Vouchers",
+          "url": "https://freedomdestinations.co.uk/gift-vouchers",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/gift-vouchers",
+              "anchor_text": "Gift Vouchers"
+            }
+          ]
+        },
+        {
+          "text": "Travel Insurance",
+          "url": "https://freedomdestinations.co.uk/travel-insurance",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/travel-insurance",
+              "anchor_text": "Travel Insurance"
+            }
+          ]
+        },
+        {
+          "text": "Changing Lives",
+          "url": "https://freedomdestinations.co.uk/changing-lives",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/changing-lives",
+              "anchor_text": "Changing Lives"
+            }
+          ]
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "https://freedomdestinations.co.uk/terms",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/terms",
+              "anchor_text": "Terms & Conditions"
+            }
+          ]
+        },
+        {
+          "text": "Our Destinations",
+          "url": "https://freedomdestinations.co.uk/holiday-destinations",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holiday-destinations",
+              "anchor_text": "Our Destinations"
+            }
+          ]
+        },
+        {
+          "text": "Multi Centre Holidays",
+          "url": "https://freedomdestinations.co.uk/holidays/multi-centre",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/multi-centre",
+              "anchor_text": "Multi Centre Holidays"
+            }
+          ]
+        },
+        {
+          "text": "Self Drives",
+          "url": "https://freedomdestinations.co.uk/holidays/fly-drive",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/fly-drive",
+              "anchor_text": "Self Drives"
+            }
+          ]
+        },
+        {
+          "text": "Escorted Tours",
+          "url": "https://freedomdestinations.co.uk/holidays/tours",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/tours",
+              "anchor_text": "Escorted Tours"
+            }
+          ]
+        },
+        {
+          "text": "Rail Journeys",
+          "url": "https://freedomdestinations.co.uk/holidays/rail",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/holidays/rail",
+              "anchor_text": "Rail Journeys"
+            }
+          ]
+        },
+        {
+          "text": "Safari & Beach",
+          "url": "https://freedomdestinations.co.uk/africa/safari-beach",
+          "urls": [
+            {
+              "url": "https://freedomdestinations.co.uk/africa/safari-beach",
+              "anchor_text": "Safari & Beach"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Bali or Thailand; Which is Best?",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "You’ve narrowed your next holiday down to Thailand or Bali, but are now at a crossroads! Joanna in Marketing won’t stop talking about how incredible her Bali holiday was, and Mark in Accounts is determined that you experience the wonders of Thailand, but which is best for you?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Having been fortunate enough to have travelled to both Bali and Thailand, I can recognise that these popular destinations in South East Asia have many similarities. Both are rich in cultural heritage, breathtaking landscapes, delicious Asian cuisine and beautiful beaches, but they do have distinct differences too.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Bali vs Thailand: At a Glance",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "3 Main Differences Between Bali & Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thailand For Beach Holidays",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bali For Culture & Jungle Holidays",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Honeymoon in Thailand or Bali?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bali or Thailand; Which is best?",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Thailand",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Thailand, the “Land of Smiles”, is a popular holiday destination attracting millions of visitors each year. With such diverse experiences, I consider it a traveller’s dream. Comprising of bustling cities, beautiful beaches, tropical islands and dense rainforests, Thailand also offers incredible food (if you like a bit of heat!), hospitality and nightlife.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The capital, and largest city, in Thailand, is Bangkok. This metropolis is well-known for its vibrant street life, ornate temples and modern skyscrapers; a real mix of traditional culture and 21 st Century.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Heading south to Thailand’s islands, you will feel as though you’ve discovered heaven. A few favourites include; Koh Samui, Koh Phi Phi, Krabi and Phuket. All have picturesque, postcard-worthy scenery, palm fringed white sand beaches, turquoise seas and statuesque limestone cliffs.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "North of Bangkok, you can experience mountainous landscapes, rich in cultural heritage, with sacred temples and traditional tribal communities located around Chiang Mai, the largest city in Northern Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Such a variety of destinations within Thailand can be overwhelming; a lesson I learnt quickly on my first visit. So, planning your Thailand holiday in advance is essential to make the most of your time in this incredible country.",
+            "url": "https://freedomdestinations.co.uk/asia/thailand",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand",
+                "anchor_text": "Thailand holiday"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bali",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Bali, the “Island of the Gods”, is a volcanic paradise in the waters of Indonesia, known for its stunning beaches, lush landscapes, vibrant culture and spiritual traditions. Bali is certainly giving Thailand a run for its money as an up-and-coming Asian holiday destination.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kuta, to the south of Bali, is a popular beach resort with an energetic atmosphere, busy nightlife and lavish shopping experiences.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Further inland, you will find Ubud; the cultural heart of Bali. Offering the diversity of a serene hotel escapes amongst the rice terraces, Ubud also offers a chance to explore ancient temples and tropical jungles as well as traditional markets and shops.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Other popular places to visit in Bali include; Canggu – a coastal village with a laid back approach, and Seminyak – an exclusive, upscale tourist spot boasting luxury accommodation, high-end restaurants and stylish boutiques.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A huge perk of going to Bali, is the ability to ‘pop’ over via boat to any of the neighbouring islands. There truly is so many Bali experiences to be had.",
+            "url": "https://freedomdestinations.co.uk/asia/bali/experiences",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/bali/experiences",
+                "anchor_text": "Bali experiences"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Thailand",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Bali",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Size",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "198,177 Sq Miles",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "2,232 Sq Miles",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "High Season",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "November – February",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "May – August",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Currency",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Thai Baht",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Indonesian Rupiah",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Population",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "71.6 Million",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "4.36 Million",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "A Selection Of Top Sights",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "The Grand Palace, Wat Phra Chetuphon, Wat Arun, Big Buddha",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Ubud, Nusa Penida, Sacred Monkey Forest, Tegalalang Rice Terraces",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Which is bigger, Thailand or Bali?",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Thailand is MUCH bigger than Bali. In fact, you could fit Bali into Thailand approximately 88 times. I wouldn’t suggest this should influence any holiday decisions, unless you have lots of time to explore and want to experience the vastness of Thailand’s different landscapes. On the other hand, if you’re hoping to see as much as possible, but stay in one hotel or resort, perhaps Bali is the better choice for you.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Which is easier to get around, Bali or Thailand?",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Bali is simpler to get around. Following on from their respective sizes, Bali is much smaller, with only a few hours between destinations, whether you hire a car, book a driver or take a moped out for a spin. Due to the ease of travel, many visitors base themselves in one place, then take day trips to different parts of the island.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thailand in comparison, has a variety of travel options, especially if you want to experience as much of the country as possible. Travel can include boat trips in the south, domestic flights across the mainland or coaches and overnight trains (an interesting alternative, but I wouldn’t suggest these if you’re a light sleeper).",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For short distances, the famous ‘tuktuks’ were my favourite, and you’ll have no problem locating one, they are everywhere! If you are hoping to see as much of the country as possible and want to have your travel sorted, consider one of our tours in Thailand.",
+            "url": "https://freedomdestinations.co.uk/asia/thailand/touring",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand/touring",
+                "anchor_text": "tours in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Travel inspiration, delivered straight to your inbox:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thanks! Please check your inbox for an email to confirm your subscription.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "I am interested in…",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "New Zealand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Family Holidays",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Solo Travel",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Luxury Travel",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Self Drives",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Escorted Tours",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Rail Journeys",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Multi Centre Holidays",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Local Experiences",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "When is the best time to visit Thailand & Bali?",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "A big difference between Bali and Thailand is seasonality. Both destinations have a tropical climate with high temperatures throughout the year, but with different dry and rainy seasons.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The best time to visit Bali is between May and August, when the weather is more settled and comfortable. The hottest month in Bali is November when temperatures average 32°C but the typical rainy season runs from October to April. However, the wetter months in Bali should not be completely discarded as the rains are often just a burst of torrential downpour, before quickly changing back to glorious sunshine.",
+            "url": "https://freedomdestinations.co.uk/asia/bali/multi-centre-holidays",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/bali/multi-centre-holidays",
+                "anchor_text": "visit Bali"
+              }
+            ]
+          },
+          {
+            "text": "Thailand is the opposite to Bali in terms of weather with high season being from November to April, and the rainy season usually from May to October. Temperatures throughout the year vary from a mild 18°C in the wet season, to a humid 38°C in the summer.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Thailand for Beach Holidays",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "There are undoubtedly pristine beaches that will leave you feeling as though you’ve drifted off and landed in heaven, in both destinations, so why have I chosen Thailand? The bottom line is, Thailand has more variety to offer, with deserted island beaches, fun family beaches, relaxing quiet ones, vibrant party ones and some specifically for water activities.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A popular destination in the south of Thailand is Patong beach, great for relaxing and swimming. It is located to the west of Phuket, so it is close to an area abundant with restaurants, bars, shops, spas and resorts.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "One of my personal favourites is Railay Beach. Accessed via longboat from Ao Nang, it is secluded and peaceful. It really does give you one of those pinch me moments, with the towering limestone cliffs, only seen in the movies.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Some other highly desired beaches include Phra Nang in Krabi, Sunset Beach in Koh Lipe, Coral Cove in Koh Samui – in fact, you will be certain to find a beach to suit you in Thailand. Prepare for a holiday of Thai Dreams.",
+            "url": "https://freedomdestinations.co.uk/asia/thailand/thai-island-dreams",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand/thai-island-dreams",
+                "anchor_text": "holiday of Thai Dreams."
+              }
+            ]
+          },
+          {
+            "text": "Bali also offers some incredible beach locations, but as a general rule, many of them are great for a surfing holiday, rather than a relaxing one – so if Surf’s your thing, definitely travel to Bali. There’s also unusual black sand beaches due to Bali’s active volcanoes that are unique and slightly different from the usual desired white sand, next to a turquoise sea.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Some of my personal recommendations for Bali’s beaches, would include Nusa Dua, which offers much calmer waters, perfect for swimming and I’d consider this a more family friendly spot. The beaches in Kuta and Canggu are also lovely to visit, offering golden sands and lots of amenities for holiday makers.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bali for Culture & Jungle Holidays",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "One big selling point for both Thailand and Bali, is the opportunities to explore away from the coasts. If you are more of an adventurer than a sun bather, then perhaps Bali is more for you.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“The cultural heart”, Ubud, is a peaceful location but popular with tourists. The town is renowned for it’s traditional crafts and dance, Hindu temples and some of Bali’s most famous ancient holy sites. The surrounding area is made up of rice terraces and lush rainforest. It is from here that you can hike the Campuhan Ridge or feed the wild long-tailed Macaques in The Sacred Monkey Forest Sanctuary. Careful though, they may steal you’re sun glasses!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Culture fanatics can learn about Balinese Hindu history by visiting the Saraswati Temple and viewing the incredible architecture of Ubud Palace, the historic home of the royal family.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Outside of Ubud, about an hour’s drive to the North-East of the island, are the Kintamani Highlands. All I can say is, incredible. If you enjoy hiking, Mount Batur is a must-see adventure to go on. Although it is an active volcano, it is regularly monitored by the Balinese Government (so you’re safe!). – The sunrise tours are usually the most popular, a very early morning start… but trust me, it’s worth it.",
+            "url": "https://freedomdestinations.co.uk/asia/bali/experiences/mount-batur-sunrise-trek",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/bali/experiences/mount-batur-sunrise-trek",
+                "anchor_text": "sunrise tours"
+              }
+            ]
+          },
+          {
+            "text": "With all of this in mind, Thailand does still offer insight to its colourful culture. Chiang Mai is the second largest city in the country and is surrounded by luscious mountains, offering treks and adventures for thrill seekers. Culture here comes in abundance with hundreds of elaborate Buddhist temples including the 14th century Wat Phra Singh temple.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In my personal opinion, I believe Thailand’s culture has become more modernised over the years, due to the sheer volume of the people. You can certainly experience culture and nature all over Thailand but for me personally, it is the traditional side of Bali that wins.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Honeymoon in Thailand or Bali?",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "it should be no surprise that you will be spoilt for choice in both Bali and Thailand when looking at honeymoon options. There are lots of luxury resorts and romantic getaways to choose from. Ultimately, the deciding factor will often be your budget and what you’d like your honeymoon photos to look like.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Everyone’s honeymoon requirements are different. Some couples choose to relax by the beach, whilst others prefer to be more active. There is a diversity of experiences to be had in Thailand, from tranquil islands to busy city life so it has it all for most honeymooners. With Thailand’s infrastructure being so well developed, exploring multiple regions is more than achievable. With a little bit of organisation, you will have your dream multi-centre honeymoon.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "On a side note, Thailand is often considered a more economic destination compared to Bali. However, that very much depends on your choice of hotel or resort.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Likewise, Bali is an incredibly popular honeymoon location, with its naturally authentic, romantic ambience and luxurious accommodations. Some beaches may not be quite as tranquil as those in Southern Thailand, but there are certainly postcard worthy spots around the island, then you can travel short distances inland to the hidden waterfalls, green landscapes and mountains.",
+            "url": "https://freedomdestinations.co.uk/asia/bali/hotels",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/bali/hotels",
+                "anchor_text": "luxurious accommodations"
+              }
+            ]
+          },
+          {
+            "text": "Hospitality is essential on your honeymoon and you want everything made as easy as possible and I can vouch that the Balinese hospitality is incredible. Expect warm and genuine kindness, with a personalised service and comfort at the forefront of your stay. Nothing is too much trouble. By the time you leave, you’ll have an extended family from the waiter who served your breakfast everyday to the housekeeping staff who say hello with the biggest smile ever seen, every time you pass them.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At the end of the day, deciding on your Asia Honeymoon is going to be solely down to your preferences, the time of year, required surroundings and available budget. With Thailand and Bali there are so many choices available.",
+            "url": "https://freedomdestinations.co.uk/asia/honeymoons",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/honeymoons",
+                "anchor_text": "Asia Honeymoon"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "You may also be interested in…",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Holidays to South East Asia by Freedom Destinations.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bali or Thailand; Which is Best?",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Both Bali and Thailand truly offer once in a lifetime experiences with incredible sights, adventure and luxury. You could always do what I did, and visit both in the same month… but I suggest that if you have more time, love adventure and want to experience everything that a whole country has to offer, from cities to beaches, go to Thailand for a multi centre holiday. If you have a little less time, or prefer a relaxing holiday, in one place, with excellent hospitality then Bali is for you.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wherever you decide to go, Freedom Destinations’ Asia experts are perfectly placed to advise and help create your ultimate Bali or Thailand holiday.",
+            "url": "https://freedomdestinations.co.uk/asia",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia",
+                "anchor_text": "Freedom Destinations’ Asia"
+              }
+            ]
+          },
+          {
+            "text": "Hannah joined the Marketing Team at Freedom Destinations after spending 5 months travelling around East & Western Australia. A history of visiting other destinations include Thailand, Bali, Sri Lanka, Caribbean and Northern Africa. She has a strong passion for experiencing new places and wants to see as much of the world as possible.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "WRITTEN BY",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Find out more",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bali Holidays Golden sand beaches, emerald green rice terraces and ancient ornate temples ...",
+            "url": "https://freedomdestinations.co.uk/asia/bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/bali",
+                "anchor_text": ""
+              },
+              {
+                "url": "https://freedomdestinations.co.uk/asia/bali",
+                "anchor_text": "Bali Holidays"
+              }
+            ]
+          },
+          {
+            "text": "Thailand Holidays Idyllic islands and vibrant cities, Thailand is as diverse as it is beautiful ...",
+            "url": "https://freedomdestinations.co.uk/asia/thailand",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand",
+                "anchor_text": ""
+              },
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand",
+                "anchor_text": "Thailand Holidays"
+              }
+            ]
+          },
+          {
+            "text": "Thailand Honeymoons Stunning scenery and luxury resorts, a honeymoon in Thailand will enchant you. ...",
+            "url": "https://freedomdestinations.co.uk/asia/thailand/honeymoons",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand/honeymoons",
+                "anchor_text": ""
+              },
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand/honeymoons",
+                "anchor_text": "Thailand Honeymoons"
+              }
+            ]
+          },
+          {
+            "text": "Bali Multi Centre Holidays Stylish Seminyak or picturesque Ubud? Laidback Nusa Dua or trendy Canggu? ...",
+            "url": "https://freedomdestinations.co.uk/asia/bali/multi-centre-holidays",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/bali/multi-centre-holidays",
+                "anchor_text": ""
+              },
+              {
+                "url": "https://freedomdestinations.co.uk/asia/bali/multi-centre-holidays",
+                "anchor_text": "Bali Multi Centre Holidays"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "When is the Rainy Season in Thailand? When is the rainy season and when is the best time to visit Thailand's different regions? ...",
+            "url": "https://freedomdestinations.co.uk/blog/rainy-season-thailand",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/blog/rainy-season-thailand",
+                "anchor_text": ""
+              },
+              {
+                "url": "https://freedomdestinations.co.uk/blog/rainy-season-thailand",
+                "anchor_text": "When is the Rainy Season in Thailand?"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Bali vs Thailand: At a Glance",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Three Main Differences Between Bali & Thailand",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Thailand’s Elephants & Islands",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Thailand’s Elephants & Islands",
+            "url": "https://freedomdestinations.co.uk/asia/thailand/elephants-islands",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand/elephants-islands",
+                "anchor_text": "Thailand’s Elephants & Islands"
+              }
+            ]
+          },
+          {
+            "text": "Koh Samui | Khao Sok National Park | Khao Lak",
+            "url": "https://freedomdestinations.co.uk/asia/thailand/elephants-islands",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand/elephants-islands",
+                "anchor_text": "Koh Samui | Khao Sok National Park | Khao Lak"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Australia, Singapore & Bali",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Australia, Singapore & Bali",
+            "url": "https://freedomdestinations.co.uk/australia/multi-centre/australia-singapore-bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/australia/multi-centre/australia-singapore-bali",
+                "anchor_text": "Australia, Singapore & Bali"
+              }
+            ]
+          },
+          {
+            "text": "Singapore | Perth | Margaret River | Albany | Sydney | Bali",
+            "url": "https://freedomdestinations.co.uk/australia/multi-centre/australia-singapore-bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/australia/multi-centre/australia-singapore-bali",
+                "anchor_text": "Singapore | Perth | Margaret River | Albany | Sydney | Bali"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Borneo & Bali",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Borneo & Bali",
+            "url": "https://freedomdestinations.co.uk/asia/borneo/borneo-bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/borneo/borneo-bali",
+                "anchor_text": "Borneo & Bali"
+              }
+            ]
+          },
+          {
+            "text": "Sandakan | Selingan Island | Sepilok | Kuala Lumpur | Bali",
+            "url": "https://freedomdestinations.co.uk/asia/borneo/borneo-bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/borneo/borneo-bali",
+                "anchor_text": "Sandakan | Selingan Island | Sepilok | Kuala Lumpur | Bali"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Thailand’s Elephants & Islands",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Thailand’s Elephants & Islands",
+            "url": "https://freedomdestinations.co.uk/asia/thailand/elephants-islands",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand/elephants-islands",
+                "anchor_text": "Thailand’s Elephants & Islands"
+              }
+            ]
+          },
+          {
+            "text": "Koh Samui | Khao Sok National Park | Khao Lak",
+            "url": "https://freedomdestinations.co.uk/asia/thailand/elephants-islands",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/thailand/elephants-islands",
+                "anchor_text": "Koh Samui | Khao Sok National Park | Khao Lak"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Australia, Singapore & Bali",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Australia, Singapore & Bali",
+            "url": "https://freedomdestinations.co.uk/australia/multi-centre/australia-singapore-bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/australia/multi-centre/australia-singapore-bali",
+                "anchor_text": "Australia, Singapore & Bali"
+              }
+            ]
+          },
+          {
+            "text": "Singapore | Perth | Margaret River | Albany | Sydney | Bali",
+            "url": "https://freedomdestinations.co.uk/australia/multi-centre/australia-singapore-bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/australia/multi-centre/australia-singapore-bali",
+                "anchor_text": "Singapore | Perth | Margaret River | Albany | Sydney | Bali"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Borneo & Bali",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Borneo & Bali",
+            "url": "https://freedomdestinations.co.uk/asia/borneo/borneo-bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/borneo/borneo-bali",
+                "anchor_text": "Borneo & Bali"
+              }
+            ]
+          },
+          {
+            "text": "Sandakan | Selingan Island | Sepilok | Kuala Lumpur | Bali",
+            "url": "https://freedomdestinations.co.uk/asia/borneo/borneo-bali",
+            "urls": [
+              {
+                "url": "https://freedomdestinations.co.uk/asia/borneo/borneo-bali",
+                "anchor_text": "Sandakan | Selingan Island | Sepilok | Kuala Lumpur | Bali"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Blogs by Destination",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Blogs by Interest",
+        "main_title": "Bali or Thailand; Which is Best?",
+        "author": "Rowan Wallis",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "03330038043",
+        "0333 003 8043",
+        "+441992514913"
+      ],
+      "emails": null
+    }
+  }
+}
