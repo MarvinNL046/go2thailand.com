@@ -1,19 +1,18 @@
 # Destination candidate comparison
 
-**Captured:** 2026-07-27T12:07:35.200Z
+**Captured:** 2026-07-27T19:48:55.139Z
 **Locale:** en
 **Market:** United Kingdom
-**DFS cost:** 0.01296
+**DFS cost:** 0.01284
 
 | Keyword | Volume | KD | Intent | Competition | CPC |
 |---|---:|---:|---|---|---:|
-| kata noi beach | 880 | 1 | informational | LOW | 2.45 |
-| patong restaurants | 260 | 0 | commercial | LOW | 0.24 |
-| patong nightlife | 210 | 0 | navigational | LOW | 1.55 |
-| best hotels in patong | 140 | 0 | commercial | HIGH | 1.44 |
-| surfing in phuket | 140 | 0 | informational | LOW | 0.96 |
-| phuket old town hotels | 110 | 0 | commercial | HIGH | 1.24 |
-| kata beach surfing | 40 | 0 | informational | LOW | 0.62 |
-| best hotels in karon | 20 | 1 | commercial | HIGH | 0.41 |
+| what clothes to wear in thailand | 480 | 0 | informational | HIGH | 0.81 |
+| thailand packing list | 320 | 0 | informational | MEDIUM | 0.34 |
+| thailand travel essentials | 210 | 0 | informational | HIGH | 0.49 |
+| what to pack for thailand | 170 | 0 | informational | HIGH | 0.62 |
+| what plug adapter for thailand | 90 | 0 | informational | HIGH | 0.36 |
+| packing for thailand | 40 | 0 | informational | MEDIUM | 0.19 |
+| what not to bring to thailand | 10 | — | informational | LOW | — |
 
 This comparison only prioritises the next research target. It does not replace a full cluster, SERP, competitor, PAA, ranking and backlink analysis.
