@@ -69,6 +69,7 @@ import { BangkokKohSamuiJourneyEn } from '../../components/transport/BangkokKohS
 import { BangkokChiangMaiSleeperTrainEn } from '../../components/transport/BangkokChiangMaiSleeperTrainEn';
 import { ThailandIslandHoppingGuideEn } from '../../components/islands/ThailandIslandHoppingGuideEn';
 import { HowLongThailandGuideEn } from '../../components/planning/HowLongThailandGuideEn';
+import { BestTimeThailandGuideEn } from '../../components/planning/BestTimeThailandGuideEn';
 
 interface Source {
   name: string;
@@ -319,6 +320,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
   }
   if (locale === 'en' && post.slug === 'how-long-spend-thailand') {
     return <HowLongThailandGuideEn />;
+  }
+  if (locale === 'en' && post.slug === 'best-time-to-visit-thailand') {
+    return <BestTimeThailandGuideEn />;
   }
 
   const breadcrumbs = [
