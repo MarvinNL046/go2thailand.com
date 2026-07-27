@@ -7,6 +7,7 @@ import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TRIP_GENERIC } from '../../../lib/affiliates';
 import { useSubId } from '../../../lib/useSubId';
+import KaronAreaGuideEn from '../../../components/phuket/KaronAreaGuideEn';
 
 interface Partners {
   trip_karon_city: { partnerUrl: string };
@@ -34,6 +35,15 @@ export default function KaronBeachPillarPage({ partners, yachtPartners, lastUpda
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (!isNl) {
+    return (
+      <KaronAreaGuideEn
+        hotelHref={partners.trip_karon_city.partnerUrl}
+        activityHref={yachtPartners.klook_catamaran.partnerUrl}
+      />
+    );
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
