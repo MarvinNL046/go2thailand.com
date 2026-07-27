@@ -12,6 +12,7 @@ import { huaHinDestinationGuideEn } from "./hua-hin";
 import { khonKaenDestinationGuideEn } from "./khon-kaen";
 import { khaoSokDestinationGuideEn } from "./khao-sok";
 import { kanchanaburiDestinationGuideEn } from "./kanchanaburi";
+import { kohSamuiDestinationGuideEn } from "./koh-samui";
 import { lampangDestinationGuideEn } from "./lampang";
 import { lopburiDestinationGuideEn } from "./lopburi";
 import { maeHongSonDestinationGuideEn } from "./mae-hong-son";
@@ -21,7 +22,9 @@ import { nakhonRatchasimaDestinationGuideEn } from "./nakhon-ratchasima";
 import { nakhonSiThammaratDestinationGuideEn } from "./nakhon-si-thammarat";
 import { nongKhaiDestinationGuideEn } from "./nong-khai";
 import { paiDestinationGuideEn } from "./pai";
+import { pattayaDestinationGuideEn } from "./pattaya";
 import { phitsanulokDestinationGuideEn } from "./phitsanulok";
+import { phuketDestinationGuideEn } from "./phuket";
 import { rayongDestinationGuideEn } from "./rayong";
 import { sukhothaiDestinationGuideEn } from "./sukhothai";
 import { suratThaniDestinationGuideEn } from "./surat-thani";
@@ -46,6 +49,7 @@ const guides: Record<string, DestinationGuideData> = {
   "khon-kaen": khonKaenDestinationGuideEn,
   "khao-sok": khaoSokDestinationGuideEn,
   kanchanaburi: kanchanaburiDestinationGuideEn,
+  "koh-samui": kohSamuiDestinationGuideEn,
   lampang: lampangDestinationGuideEn,
   lopburi: lopburiDestinationGuideEn,
   "mae-hong-son": maeHongSonDestinationGuideEn,
@@ -55,7 +59,9 @@ const guides: Record<string, DestinationGuideData> = {
   "nakhon-si-thammarat": nakhonSiThammaratDestinationGuideEn,
   "nong-khai": nongKhaiDestinationGuideEn,
   pai: paiDestinationGuideEn,
+  pattaya: pattayaDestinationGuideEn,
   phitsanulok: phitsanulokDestinationGuideEn,
+  phuket: phuketDestinationGuideEn,
   rayong: rayongDestinationGuideEn,
   sukhothai: sukhothaiDestinationGuideEn,
   "surat-thani": suratThaniDestinationGuideEn,
@@ -69,4 +75,4 @@ export function getEnDestinationGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { ayutthayaDestinationGuideEn, bangkokDestinationGuideEn, banKrutDestinationGuideEn, buengKanDestinationGuideEn, chanthaburiDestinationGuideEn, chiangKhanDestinationGuideEn, chiangMaiDestinationGuideEn, chiangRaiDestinationGuideEn, chumphonDestinationGuideEn, hatYaiDestinationGuideEn, huaHinDestinationGuideEn, khonKaenDestinationGuideEn, khaoSokDestinationGuideEn, kanchanaburiDestinationGuideEn, lampangDestinationGuideEn, lopburiDestinationGuideEn, maeHongSonDestinationGuideEn, mukdahanDestinationGuideEn, nakhonPhanomDestinationGuideEn, nakhonRatchasimaDestinationGuideEn, nakhonSiThammaratDestinationGuideEn, nongKhaiDestinationGuideEn, paiDestinationGuideEn, phitsanulokDestinationGuideEn, rayongDestinationGuideEn, sukhothaiDestinationGuideEn, suratThaniDestinationGuideEn, trangDestinationGuideEn, tratDestinationGuideEn, ubonRatchathaniDestinationGuideEn, udonThaniDestinationGuideEn };
+export { ayutthayaDestinationGuideEn, bangkokDestinationGuideEn, banKrutDestinationGuideEn, buengKanDestinationGuideEn, chanthaburiDestinationGuideEn, chiangKhanDestinationGuideEn, chiangMaiDestinationGuideEn, chiangRaiDestinationGuideEn, chumphonDestinationGuideEn, hatYaiDestinationGuideEn, huaHinDestinationGuideEn, khonKaenDestinationGuideEn, khaoSokDestinationGuideEn, kanchanaburiDestinationGuideEn, kohSamuiDestinationGuideEn, lampangDestinationGuideEn, lopburiDestinationGuideEn, maeHongSonDestinationGuideEn, mukdahanDestinationGuideEn, nakhonPhanomDestinationGuideEn, nakhonRatchasimaDestinationGuideEn, nakhonSiThammaratDestinationGuideEn, nongKhaiDestinationGuideEn, paiDestinationGuideEn, pattayaDestinationGuideEn, phitsanulokDestinationGuideEn, phuketDestinationGuideEn, rayongDestinationGuideEn, sukhothaiDestinationGuideEn, suratThaniDestinationGuideEn, trangDestinationGuideEn, tratDestinationGuideEn, ubonRatchathaniDestinationGuideEn, udonThaniDestinationGuideEn };
