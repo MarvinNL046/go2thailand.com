@@ -1,0 +1,1023 @@
+{
+  "captured_at": "2026-07-27T02:40:09.879Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "ubon ratchathani thailand",
+  "costs": {
+    "suggestions": 0.01752,
+    "related": 0.01536,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "ubon ratchathani thailand",
+    "thailand ubon ratchathani",
+    "ubon ratchathani province thailand",
+    "hotels in ubon ratchathani thailand",
+    "hotels ubon ratchathani thailand",
+    "thailand ubon ratchathani nightlife",
+    "ubon ratchathani nightlife",
+    "ubon ratchathani thailand hotels",
+    "ubon ratchathani thailand nightlife",
+    "weather in ubon ratchathani thailand",
+    "weather ubon ratchathani thailand",
+    "det udom ubon ratchathani thailand",
+    "phibun mangsahan ubon ratchathani thailand",
+    "things to do in ubon ratchathani",
+    "things to do in ubon ratchathani thailand",
+    "ubon ratchathani mueang ubon ratchathani district ubon ratchathani thailand",
+    "ubon ratchathani university thailand",
+    "warin chamrap ubon ratchathani thailand",
+    "atami ubon ratchathani"
+  ],
+  "keywords": [
+    {
+      "keyword": "agoda",
+      "volume": 90500,
+      "kd": 31,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "agoda hotel",
+      "volume": 4400,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "agoda customer service",
+      "volume": 1600,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "agoda booking hotel",
+      "volume": 590,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "agoda philippines",
+      "volume": 140,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand ubon ratchathani",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani thailand",
+      "volume": 140,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani nightlife",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "agoda customer service hotline number 24 hours",
+      "volume": 70,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to contact agoda by phone",
+      "volume": 70,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "agoda app download",
+      "volume": 50,
+      "kd": 13,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani province thailand",
+      "volume": 50,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights from bangkok to ubon ratchathani thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in ubon ratchathani thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in ubon ratchathani thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels ubon ratchathani thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ubon ratchathani nightlife",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani hotels",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani nightlife",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani thailand hotels",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani thailand nightlife",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in ubon ratchathani thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather ubon ratchathani thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "agoda booking id",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "car rental in ubon ratchathani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "det udom ubon ratchathani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of ubon ratchathani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phibun mangsahan ubon ratchathani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rent a car ubon ratchathani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ubon ratchathani map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in ubon ratchathani",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in ubon ratchathani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani mueang ubon ratchathani district ubon ratchathani thailand",
+      "volume": 20,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani thailand map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani university thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "warin chamrap ubon ratchathani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "accommodation ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "atami ubon ratchathani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel in ubon ratchathani",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "country club ubon ratchathani",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "google map ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "house for sale in ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "houses for sale ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how far is ubon ratchathani from bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khemarat ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khemmarat ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massage ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mueang ubon ratchathani ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nam yuen ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "news ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "population of ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "real estate ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sam pan bok ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trakan phuet phon ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani candle festival thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani thailand airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani bar street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani nightlife 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather forecast ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in ubon ratchathani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is ubon ratchathani on thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airport ubon ratchathani thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani rajabhat university thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani thailand to phuket",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 day weather for ubon ratchathani thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani girl bars",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 3,
+      "visibility": 3,
+      "estimatedTraffic": 100.32000000000001
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 2.3333333333333335,
+      "keywordCount": 3,
+      "visibility": 2.6,
+      "estimatedTraffic": 44.402
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 4.976999999999999
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 10,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 4.373
+    },
+    {
+      "domain": "thailandinsider.com",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 7.308
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 12.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 3.006
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 1.9649999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 4.372999999999999
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.159
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.6920000000000002
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8029999999999999
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 27.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.708
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 36.302
+    },
+    {
+      "domain": "www.renown-travel.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 18.452
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 3.584
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.65,
+      "estimatedTraffic": 7.168
+    },
+    {
+      "domain": "www.tripniceday.com",
+      "avgPosition": 43.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "ubon-ratchathani.com",
+      "avgPosition": 44,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.044
+    },
+    {
+      "domain": "www.sitesatlas.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.162
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.568
+    },
+    {
+      "domain": "www.evaneos.co.uk",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8959999999999999
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.diy.org",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.kkday.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.pinyourfootsteps.com",
+      "avgPosition": 34,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "countries-and-states.fandom.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "travelauthenticasia.com",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.wisdomlib.org",
+      "avgPosition": 42,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.centarahotelsresorts.com",
+      "avgPosition": 42.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.holidayinvietnam.com",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.wisatathailand.id",
+      "avgPosition": 52,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "evendo.com",
+      "avgPosition": 52,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "ubonhomes.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 4.731999999999999
+    },
+    {
+      "domain": "www.vietjetair.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 4.731999999999999
+    },
+    {
+      "domain": "maps.apple.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 3.584
+    },
+    {
+      "domain": "sites.google.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 1.28
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 3.584
+    },
+    {
+      "domain": "www.amazing-thailand.com",
+      "avgPosition": 54,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.independent.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.wander-lust.nl",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.airbnb.co.uk",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.5819999999999999
+    },
+    {
+      "domain": "weblogtheworld.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.826
+    },
+    {
+      "domain": "academickids.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.215
+    },
+    {
+      "domain": "www.thailex.info",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.135
+    },
+    {
+      "domain": "www.thailand-property.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.33599999999999997
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.33599999999999997
+    }
+  ]
+}
