@@ -10,6 +10,7 @@ import SevenElevenThailandGuide from '../../components/practical/SevenElevenThai
 import ThailandEsimSimGuide from '../../components/connectivity/ThailandEsimSimGuide';
 import VegetarianThailandGuide from '../../components/food/VegetarianThailandGuide';
 import ThailandWildlifeSafetyGuideEn from '../../components/practical/ThailandWildlifeSafetyGuideEn';
+import { VpnThailandGuideEn } from '../../components/connectivity/VpnThailandGuideEn';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 
@@ -327,6 +328,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <ThailandWildlifeSafetyGuideEn />;
   }
 
+  if (lang === 'en' && guide.slug === 'vpn-thailand') {
+    return <VpnThailandGuideEn />;
+  }
+
   if (lang === 'nl' && guide.slug === 'vegetarian-vegan-thailand') {
     return <VegetarianThailandGuide />;
   }
@@ -504,6 +509,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   if (!guide) {
     return { notFound: true };
+  }
+
+  if (locale === 'en' && slug === 'vpn-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, en: 'VPN in Thailand: Do You Need One?' },
+          lastUpdated: '2026-07-27',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, en: 'VPN in Thailand: Do You Need One & Is It Allowed?' },
+            metaDescription: { ...guide.seo.metaDescription, en: 'Decide whether you need a VPN in Thailand for public Wi-Fi, work or geo-access. Understand legal limits, setup, provider checks and what a VPN cannot protect.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, en: 'A VPN protects a connection—not your whole identity.' },
+            intro: { ...guide.hero.intro, en: 'Use a VPN deliberately on shared Wi-Fi, for work policy or a chosen network location. Keep lawful behaviour, device updates and account security as separate layers.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
   }
 
   return {
