@@ -1,18 +1,20 @@
 # Destination candidate comparison
 
-**Captured:** 2026-07-27T19:48:55.139Z
+**Captured:** 2026-07-27T20:13:39.894Z
 **Locale:** en
 **Market:** United Kingdom
-**DFS cost:** 0.01284
+**DFS cost:** 0.01308
 
 | Keyword | Volume | KD | Intent | Competition | CPC |
 |---|---:|---:|---|---|---:|
-| what clothes to wear in thailand | 480 | 0 | informational | HIGH | 0.81 |
-| thailand packing list | 320 | 0 | informational | MEDIUM | 0.34 |
-| thailand travel essentials | 210 | 0 | informational | HIGH | 0.49 |
-| what to pack for thailand | 170 | 0 | informational | HIGH | 0.62 |
-| what plug adapter for thailand | 90 | 0 | informational | HIGH | 0.36 |
-| packing for thailand | 40 | 0 | informational | MEDIUM | 0.19 |
-| what not to bring to thailand | 10 | — | informational | LOW | — |
+| is thailand expensive | 390 | 0 | informational | LOW | — |
+| how much spending money for thailand | 260 | 0 | informational | LOW | — |
+| thailand travel cost | 110 | 1 | informational | MEDIUM | 1.54 |
+| thailand trip cost | 110 | 6 | informational | MEDIUM | 1.54 |
+| cost of 2 weeks in thailand | 70 | 0 | informational | MEDIUM | 1.27 |
+| thailand backpacking budget | 30 | 0 | informational | LOW | 1.31 |
+| thailand budget per day | 20 | — | informational | LOW | — |
+| thailand travel budget | 20 | 17 | commercial | MEDIUM | 2.2 |
+| how much money for thailand | 10 | — | informational | LOW | — |
 
 This comparison only prioritises the next research target. It does not replace a full cluster, SERP, competitor, PAA, ranking and backlink analysis.

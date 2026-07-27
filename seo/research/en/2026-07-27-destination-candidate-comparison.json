@@ -1,74 +1,90 @@
 {
-  "captured_at": "2026-07-27T19:48:55.138Z",
+  "captured_at": "2026-07-27T20:13:39.893Z",
   "locale": "en",
   "market": {
     "language_code": "en",
     "location_name": "United Kingdom"
   },
-  "cost": 0.01284,
+  "cost": 0.01308,
   "requested_keywords": [
-    "thailand packing list",
-    "what to pack for thailand",
-    "thailand travel essentials",
-    "thailand travel gear",
-    "packing for thailand",
-    "thailand holiday packing list",
-    "what not to bring to thailand",
-    "do i need a rain jacket in thailand",
-    "what clothes to wear in thailand",
-    "what plug adapter for thailand"
+    "thailand travel cost",
+    "thailand travel budget",
+    "how much money for thailand",
+    "thailand daily budget",
+    "cost of 2 weeks in thailand",
+    "thailand backpacking budget",
+    "how much spending money for thailand",
+    "thailand trip cost",
+    "is thailand expensive",
+    "thailand budget per day"
   ],
   "rows": [
     {
-      "keyword": "what clothes to wear in thailand",
-      "volume": 480,
+      "keyword": "is thailand expensive",
+      "volume": 390,
       "difficulty": 0,
       "intent": "informational",
-      "competition": "HIGH",
-      "cpc": 0.81
+      "competition": "LOW",
+      "cpc": null
     },
     {
-      "keyword": "thailand packing list",
-      "volume": 320,
+      "keyword": "how much spending money for thailand",
+      "volume": 260,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "thailand travel cost",
+      "volume": 110,
+      "difficulty": 1,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 1.54
+    },
+    {
+      "keyword": "thailand trip cost",
+      "volume": 110,
+      "difficulty": 6,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 1.54
+    },
+    {
+      "keyword": "cost of 2 weeks in thailand",
+      "volume": 70,
       "difficulty": 0,
       "intent": "informational",
       "competition": "MEDIUM",
-      "cpc": 0.34
+      "cpc": 1.27
     },
     {
-      "keyword": "thailand travel essentials",
-      "volume": 210,
+      "keyword": "thailand backpacking budget",
+      "volume": 30,
       "difficulty": 0,
       "intent": "informational",
-      "competition": "HIGH",
-      "cpc": 0.49
+      "competition": "LOW",
+      "cpc": 1.31
     },
     {
-      "keyword": "what to pack for thailand",
-      "volume": 170,
-      "difficulty": 0,
+      "keyword": "thailand budget per day",
+      "volume": 20,
+      "difficulty": null,
       "intent": "informational",
-      "competition": "HIGH",
-      "cpc": 0.62
+      "competition": "LOW",
+      "cpc": null
     },
     {
-      "keyword": "what plug adapter for thailand",
-      "volume": 90,
-      "difficulty": 0,
-      "intent": "informational",
-      "competition": "HIGH",
-      "cpc": 0.36
-    },
-    {
-      "keyword": "packing for thailand",
-      "volume": 40,
-      "difficulty": 0,
-      "intent": "informational",
+      "keyword": "thailand travel budget",
+      "volume": 20,
+      "difficulty": 17,
+      "intent": "commercial",
       "competition": "MEDIUM",
-      "cpc": 0.19
+      "cpc": 2.2
     },
     {
-      "keyword": "what not to bring to thailand",
+      "keyword": "how much money for thailand",
       "volume": 10,
       "difficulty": null,
       "intent": "informational",
