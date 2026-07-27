@@ -33,6 +33,7 @@ pids
 *.pid
 *.seed
 *.pid.lock
+seo/audits/runtime/
 
 # Coverage directory used by tools like istanbul
 coverage/

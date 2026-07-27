@@ -84,7 +84,7 @@ const islandChoices = [
     label: 'Most infrastructure',
     title: 'Koh Chang',
     copy: 'The broadest choice of beaches, stays and services. Choose the coast before the hotel because island road time changes the trip.',
-    href: '/city/koh-chang/',
+    href: '/islands/koh-chang/',
   },
   {
     image: '/images/islands/koh-mak.webp',
@@ -238,7 +238,7 @@ export function TratDestinationOverview({ activitiesHref, hotelsHref, transportH
               <p className="mt-5 max-w-xl text-sm leading-7 text-white/72">A bus to Trat town, a flight to Trat Airport and a through-ticket to an island are different products. Compare the actual arrival point, pier, sailing, luggage and island-side hotel transfer as one chain.</p>
               <div className="mt-6 flex flex-wrap gap-3">
                 <a href={transportHref} target="_blank" rel={AFFILIATE_REL} className="btn-cream min-h-11 px-5 text-saffron-dark">Check current Trat routes on 12Go <ExternalLink size={14} /></a>
-                <Link href="/transportation/" className="inline-flex min-h-11 items-center gap-2 rounded-lg border border-white/35 px-5 text-xs font-bold text-white hover:bg-white/10">Read the transport guide <ArrowRight size={14} /></Link>
+                <Link href="/transport/" className="inline-flex min-h-11 items-center gap-2 rounded-lg border border-white/35 px-5 text-xs font-bold text-white hover:bg-white/10">Read the transport guide <ArrowRight size={14} /></Link>
               </div>
             </div>
           </div>

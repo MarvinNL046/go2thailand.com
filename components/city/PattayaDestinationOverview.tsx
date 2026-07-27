@@ -82,7 +82,7 @@ const cityLayers = [
     label: 'Island chapter',
     copy: 'Choose the island when swimming and clearer-water expectations matter. Verify the current boat, pier, weather and return plan close to departure.',
     image: '/images/cities/pattaya/attractions/Coral Island (Koh Larn).webp',
-    href: '/city/pattaya/attractions/coral-island-koh-larn/',
+    href: '/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/',
   },
 ] as const;
 

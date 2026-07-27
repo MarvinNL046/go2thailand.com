@@ -63,7 +63,7 @@ const bases = [
     label: 'Town & station',
     title: 'For a connected evening',
     copy: 'Best for the night market, train access and an overnight that remains useful even without a car.',
-    href: '/city/chumphon/hotels/',
+    href: '/best-hotels/chumphon/',
   },
   {
     icon: Waves,
