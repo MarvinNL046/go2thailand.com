@@ -7,9 +7,10 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import { KataSurfingGuideEn } from '../../../../components/phuket/KataSurfingGuideEn';
 
 interface Partner { partnerUrl: string; label: string; }
-interface Partners { klook_surfing: Partner; gyg_surfing: Partner; klook_pillar: Partner; gyg_pillar: Partner; trip_pillar: Partner; }
+interface Partners { klook_surfing: Partner; gyg_surfing: Partner; klook_pillar: Partner; gyg_pillar: Partner; trip_pillar: Partner; trip_hotels: Partner; }
 interface Props { partners: Partners; lastUpdated: string; }
 
 export default function KataSurfingPage({ partners, lastUpdated }: Props) {
@@ -17,6 +18,14 @@ export default function KataSurfingPage({ partners, lastUpdated }: Props) {
   const isNl = locale === 'nl';
   const subId = useSubId();
   const placement = (p: string) => `${subId}-pseo-phuket-kata-surfing-${p}`;
+
+  if (!isNl) {
+    return <KataSurfingGuideEn
+      lessonHref={withSubId(partners.klook_surfing.partnerUrl, placement('en-klook'))}
+      alternativeLessonHref={withSubId(partners.gyg_surfing.partnerUrl, placement('en-gyg'))}
+      hotelHref={withSubId(partners.trip_hotels.partnerUrl, placement('en-hotels'))}
+    />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
