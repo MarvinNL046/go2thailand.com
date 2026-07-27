@@ -1,0 +1,947 @@
+{
+  "captured_at": "2026-07-27T00:06:37.567Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "hat yai thailand",
+  "costs": {
+    "suggestions": 0.01692,
+    "related": 0.01548,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "hat yai thailand",
+    "hat yai songkhla thailand",
+    "thailand floods hat yai",
+    "hat yai thailand weather",
+    "hat yai to bangkok",
+    "thailand hat yai weather",
+    "weather in hat yai thailand",
+    "where is hat yai in thailand",
+    "where is hat yai thailand",
+    "hat yai thailand hotels",
+    "hotel in hat yai thailand",
+    "hotels in hat yai thailand",
+    "things to do in hat yai",
+    "hat yai beach",
+    "hat yai thailand beach",
+    "is hat yai safe",
+    "5 star hotels in hat yai thailand",
+    "best hotel in hat yai thailand",
+    "best hotels in hat yai thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "hat yai songkhla thailand",
+      "volume": 1900,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand",
+      "volume": 390,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand floods hat yai",
+      "volume": 390,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand weather",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand hat yai weather",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in hat yai thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai map thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai songkhla thailand map",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand map",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "where is hat yai in thailand",
+      "volume": 50,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is hat yai thailand",
+      "volume": 50,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand hotels",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel in hat yai thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in thailand hat yai",
+      "volume": 30,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in hat yai thailand",
+      "volume": 30,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in hat yai",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is hat yai safe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "b2 hotel hatyai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel in hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotel in hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "d one hotel hat yai thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand pink hotel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai attractions",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai district",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai flooding today thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai hotel near night market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai meaning",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai night market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand flood",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand news",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand points of interest",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand to phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok by train",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok flight time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok train price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok train time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nightlife in hat yai thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand flooding hat yai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hat yai flood",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visit hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is hat yai located in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay in hat yai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai to bangkok flight price",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel di hat yai thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bandara hat yai thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand seafood buffet",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 20.625,
+      "keywordCount": 8,
+      "visibility": 1.25,
+      "estimatedTraffic": 70.337
+    },
+    {
+      "domain": "hatyaicity.com",
+      "avgPosition": 19.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.9570000000000003
+    },
+    {
+      "domain": "www.kupi.com",
+      "avgPosition": 26.5,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.51
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 23.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.301
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 3,
+      "visibility": 2.9,
+      "estimatedTraffic": 53.900000000000006
+    },
+    {
+      "domain": "www.accuweather.com",
+      "avgPosition": 2,
+      "keywordCount": 3,
+      "visibility": 2.7,
+      "estimatedTraffic": 39.431000000000004
+    },
+    {
+      "domain": "weather.metoffice.gov.uk",
+      "avgPosition": 2.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.5,
+      "estimatedTraffic": 24.962
+    },
+    {
+      "domain": "www.timeanddate.com",
+      "avgPosition": 4,
+      "keywordCount": 3,
+      "visibility": 2.0999999999999996,
+      "estimatedTraffic": 13.839000000000002
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 28.25,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 2.011
+    },
+    {
+      "domain": "www.wunderground.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7,
+      "estimatedTraffic": 8.931999999999999
+    },
+    {
+      "domain": "www.tmd.go.th",
+      "avgPosition": 5.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.6,
+      "estimatedTraffic": 8.014999999999999
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 40.202
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 28.837
+    },
+    {
+      "domain": "www.msn.com",
+      "avgPosition": 7.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 4.55
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 8.333333333333334,
+      "keywordCount": 3,
+      "visibility": 2,
+      "estimatedTraffic": 133.865
+    },
+    {
+      "domain": "www.ventusky.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.891
+    },
+    {
+      "domain": "www.nomadicnotes.com",
+      "avgPosition": 9.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.55,
+      "estimatedTraffic": 10.924
+    },
+    {
+      "domain": "weather.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 3.8850000000000002
+    },
+    {
+      "domain": "meteofor.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 3.741
+    },
+    {
+      "domain": "zoom.earth",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.5539999999999998
+    },
+    {
+      "domain": "www.yr.no",
+      "avgPosition": 12.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.351
+    },
+    {
+      "domain": "weatherspark.com",
+      "avgPosition": 12.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.575
+    },
+    {
+      "domain": "www.theweathernetwork.com",
+      "avgPosition": 14,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.239
+    },
+    {
+      "domain": "www.goethe.de",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.3449999999999998
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.454
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 23.261000000000003
+    },
+    {
+      "domain": "weathercity.com",
+      "avgPosition": 19,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 0.5880000000000001
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 20,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 1.8639999999999999
+    },
+    {
+      "domain": "www.predictwind.com",
+      "avgPosition": 21.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.5670000000000001
+    },
+    {
+      "domain": "www.meteoblue.com",
+      "avgPosition": 21.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.476
+    },
+    {
+      "domain": "www.grab.com",
+      "avgPosition": 24.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.068
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 24.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.039
+    },
+    {
+      "domain": "www.aqi.in",
+      "avgPosition": 25.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "thailand.tripcanvas.co",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.4969999999999999
+    },
+    {
+      "domain": "www.worldholidayvibes.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.029
+    },
+    {
+      "domain": "www.weather25.com",
+      "avgPosition": 28,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.holiday-weather.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.arabiaweather.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.weather-forecast.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 30,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.029
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.029
+    },
+    {
+      "domain": "weather.yahoo.com",
+      "avgPosition": 33,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 71.28
+    },
+    {
+      "domain": "mindtrip.ai",
+      "avgPosition": 35.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.029
+    },
+    {
+      "domain": "www.weatherbug.com",
+      "avgPosition": 36,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 15.526999999999997
+    },
+    {
+      "domain": "en.climate-data.org",
+      "avgPosition": 37.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "sg.trip.com",
+      "avgPosition": 37.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "blog.bangkokair.com",
+      "avgPosition": 38,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.029
+    }
+  ]
+}
