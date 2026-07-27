@@ -36,6 +36,7 @@ import ThailandEducationVisaGuideEn from '../../components/visa/ThailandEducatio
 import ThailandLtrVisaGuide from '../../components/visa/ThailandLtrVisaGuide';
 import ThailandLtrVisaGuideEn from '../../components/visa/ThailandLtrVisaGuideEn';
 import ThailandPrivilegeGuide from '../../components/visa/ThailandPrivilegeGuide';
+import ThailandPrivilegeGuideEn from '../../components/visa/ThailandPrivilegeGuideEn';
 
 interface Requirement {
   item: { en: string; nl: string };
@@ -104,6 +105,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
   if (locale === 'nl' && visa.slug === 'ltr-visa') return <ThailandLtrVisaGuide />;
   if (locale !== 'nl' && visa.slug === 'ltr-visa') return <ThailandLtrVisaGuideEn />;
   if (locale === 'nl' && visa.slug === 'thailand-elite-visa') return <ThailandPrivilegeGuide />;
+  if (locale !== 'nl' && visa.slug === 'thailand-elite-visa') return <ThailandPrivilegeGuideEn />;
   const breadcrumbs = generateVisaBreadcrumbs(visa);
   const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
 
