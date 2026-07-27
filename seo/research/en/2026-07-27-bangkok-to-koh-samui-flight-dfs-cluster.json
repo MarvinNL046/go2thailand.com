@@ -1,0 +1,872 @@
+{
+  "captured_at": "2026-07-27T12:54:37.058Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "bangkok to koh samui flight",
+  "costs": {
+    "suggestions": 0.0168,
+    "related": 0.01416,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "bangkok to koh samui flight",
+    "bangkok to koh samui flight time",
+    "bangkok to koh samui: flight time",
+    "flight time bangkok to koh samui",
+    "flight time from bangkok to koh samui",
+    "flight time koh samui to bangkok",
+    "koh samui to bangkok flight time",
+    "how long is the flight from bangkok to koh samui",
+    "bangkok to koh samui flight cost",
+    "bangkok to koh samui flight price",
+    "bangkok to koh samui: flight cost",
+    "bangkok to koh samui distance by flight",
+    "bangkok to koh samui flight duration",
+    "bangkok to koh samui flight schedule",
+    "bangkok to koh samui flight ticket price",
+    "bangkok to koh samui: flight duration",
+    "cheap flight from bangkok to koh samui",
+    "cheapest flight from bangkok to koh samui",
+    "koh samui to bangkok flight price",
+    "koh samui to bangkok flight schedule"
+  ],
+  "keywords": [
+    {
+      "keyword": "bangkok to koh samui flight",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui: flight",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight bangkok to koh samui",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight from bangkok to koh samui",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight to koh samui from bangkok",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight koh samui to bangkok",
+      "volume": 880,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight",
+      "volume": 880,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui flight time",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui: flight time",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight time bangkok to koh samui",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight time from bangkok to koh samui",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to surat thani train",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui ferry",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui train",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flight time koh samui to bangkok",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight time",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is the flight from bangkok to koh samui",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap flight bangkok to koh samui",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train bangkok to koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui from bangkok flight",
+      "volume": 30,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok airways bangkok to koh samui",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui flight cost",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui flight price",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui: flight cost",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap flight koh samui to bangkok",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui distance by flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui ferry price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui ferry time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui flight duration",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui flight ticket price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui seahorse ferry",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui train 1st class",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui train price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui train time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui: flight duration",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui: flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap flight from bangkok to koh samui",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheapest flight from bangkok to koh samui",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight bangkok to koh samui thai airways",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight chiang mai to koh samui bangkok airways",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok direct flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight status",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight time today",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight today",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi to koh samui flight bangkok airways",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "seahorse ferry pattaya to koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "direct flight koh samui to bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight bangkok airways",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to bangkok flight skyscanner",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui to phuket flight bangkok airways",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 1,
+      "keywordCount": 4,
+      "visibility": 4,
+      "estimatedTraffic": 264.48
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 2.5,
+      "keywordCount": 4,
+      "visibility": 3.4,
+      "estimatedTraffic": 122.82400000000001
+    },
+    {
+      "domain": "www.flightsfrom.com",
+      "avgPosition": 4.5,
+      "keywordCount": 4,
+      "visibility": 2.5999999999999996,
+      "estimatedTraffic": 46.123000000000005
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 6.5,
+      "keywordCount": 4,
+      "visibility": 2.65,
+      "estimatedTraffic": 57.358999999999995
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 6.75,
+      "keywordCount": 4,
+      "visibility": 1.85,
+      "estimatedTraffic": 56.204
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 10.25,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 16.107
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 12.5,
+      "keywordCount": 4,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 7.064
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 12.75,
+      "keywordCount": 4,
+      "visibility": 1.2,
+      "estimatedTraffic": 12.713999999999999
+    },
+    {
+      "domain": "www.opodo.co.uk",
+      "avgPosition": 16.25,
+      "keywordCount": 4,
+      "visibility": 0.35,
+      "estimatedTraffic": 10.721
+    },
+    {
+      "domain": "www.flightroutes.com",
+      "avgPosition": 17.25,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 7.254999999999999
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 20.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.019
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 22,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.633
+    },
+    {
+      "domain": "www.thaiairways.com",
+      "avgPosition": 22.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.419
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 25.5,
+      "keywordCount": 4,
+      "visibility": 0.5,
+      "estimatedTraffic": 17.042999999999996
+    },
+    {
+      "domain": "www.bangkokair.com",
+      "avgPosition": 25.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.883
+    },
+    {
+      "domain": "www.cleartrip.com",
+      "avgPosition": 27.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.995
+    },
+    {
+      "domain": "www.google.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7,
+      "estimatedTraffic": 41.782000000000004
+    },
+    {
+      "domain": "www.rome2rio.com",
+      "avgPosition": 7.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 10.931
+    },
+    {
+      "domain": "12go.asia",
+      "avgPosition": 35,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.9949999999999999
+    },
+    {
+      "domain": "www.travelmath.com",
+      "avgPosition": 37.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.827
+    },
+    {
+      "domain": "www.cheaptickets.nl",
+      "avgPosition": 39.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.069
+    },
+    {
+      "domain": "www.airasia.com",
+      "avgPosition": 27,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.904
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 28.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.555
+    },
+    {
+      "domain": "www.easemytrip.com",
+      "avgPosition": 32,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.596
+    },
+    {
+      "domain": "www.happyfares.in",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.309
+    },
+    {
+      "domain": "www.flightconnections.com",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.629
+    },
+    {
+      "domain": "www.cheapflights.co.uk",
+      "avgPosition": 35.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.533
+    },
+    {
+      "domain": "www.directflights.com",
+      "avgPosition": 36.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.596
+    },
+    {
+      "domain": "www.edreams.co.uk",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 3.542
+    },
+    {
+      "domain": "www.kiwi.com",
+      "avgPosition": 42,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.th.cheapflights.com",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.616
+    },
+    {
+      "domain": "www.flygtiden.se",
+      "avgPosition": 62.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.827
+    },
+    {
+      "domain": "mu.wego.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.25
+    },
+    {
+      "domain": "www.ixigo.com",
+      "avgPosition": 29.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "om.wego.com",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "thailandtravelroutes.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "www.samuiairportonline.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.5529999999999999
+    },
+    {
+      "domain": "flyteam.jp",
+      "avgPosition": 34,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.833
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.liligo.co.uk",
+      "avgPosition": 41.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "ae.makemytrip.global",
+      "avgPosition": 43,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "www.flyvetiden.dk",
+      "avgPosition": 48,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "www.flytiden.com",
+      "avgPosition": 65.33333333333333,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.533
+    },
+    {
+      "domain": "www.flightstats.com",
+      "avgPosition": 49.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "flug.idealo.de",
+      "avgPosition": 54.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.65
+    },
+    {
+      "domain": "domesticflightsthailand.com",
+      "avgPosition": 70,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.533
+    },
+    {
+      "domain": "www.adanione.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.274
+    },
+    {
+      "domain": "www.wegoresa.se",
+      "avgPosition": 55.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.flightaware.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.274
+    }
+  ]
+}

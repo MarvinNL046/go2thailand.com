@@ -1,0 +1,39 @@
+{
+  "captured_at": "2026-07-27T12:54:37.899Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "bangkok to koh samui train ferry",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "bangkok to koh samui train ferry",
+    "bangkok to koh samui train and ferry"
+  ],
+  "keywords": [
+    {
+      "keyword": "bangkok to koh samui train and ferry",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to koh samui train ferry",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

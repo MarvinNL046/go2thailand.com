@@ -65,6 +65,7 @@ import PhuketSamuiComparisonGuideEn from '../../components/compare/PhuketSamuiCo
 import ThailandPhilippinesComparisonGuideEn from '../../components/compare/ThailandPhilippinesComparisonGuideEn';
 import ThailandBaliComparisonGuideEn from '../../components/compare/ThailandBaliComparisonGuideEn';
 import ThailandVietnamComparisonGuideEn from '../../components/compare/ThailandVietnamComparisonGuideEn';
+import { BangkokKohSamuiJourneyEn } from '../../components/transport/BangkokKohSamuiJourneyEn';
 
 interface Source {
   name: string;
@@ -302,6 +303,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'en' && post.slug === 'thailand-vs-vietnam-which-country-visit-2026') {
     return <ThailandVietnamComparisonGuideEn />;
+  }
+
+  if (locale === 'en' && post.slug === 'bangkok-to-koh-samui-guide') {
+    return <BangkokKohSamuiJourneyEn />;
   }
 
   const breadcrumbs = [
@@ -737,6 +742,25 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   const relatedPosts = getRelatedPosts(slug, lang, 4);
   const { prevPost, nextPost } = getAdjacentPosts(slug, lang);
+
+  if (lang === 'en' && slug === 'bangkok-to-koh-samui-guide') {
+    const { contentHtml: _legacyContent, faqItems: _legacyFaqs, ...ownerPost } = post;
+    return {
+      props: {
+        post: {
+          ...ownerPost,
+          title: 'Bangkok to Koh Samui: Flight, Train or Bus + Ferry?',
+          description: 'Compare Bangkok to Koh Samui by direct flight, mainland flight, sleeper train or bus plus ferry. Choose by total journey, connections, luggage and live tickets.',
+          image: '/images/redesign/bangkok-koh-samui-route-hero-v2.webp',
+          lastUpdated: '2026-07-27',
+        },
+        relatedPosts,
+        prevPost,
+        nextPost,
+      },
+      revalidate: 604800,
+    };
+  }
 
   return {
     props: { post, relatedPosts, prevPost, nextPost },

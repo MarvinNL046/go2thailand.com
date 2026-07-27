@@ -796,6 +796,15 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params, locale }) => {
   const { route: routeSlug } = params as { route: string };
 
+  if (locale === 'en' && routeSlug === 'bangkok-to-koh-samui') {
+    return {
+      redirect: {
+        destination: '/blog/bangkok-to-koh-samui-guide/',
+        permanent: true,
+      },
+    };
+  }
+
   const route = transportRoutes.routes.find(r => r.slug === routeSlug);
   if (!route) {
     return { notFound: true };

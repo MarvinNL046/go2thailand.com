@@ -467,11 +467,19 @@ const nextConfig = {
         destination: '/transport/',
         permanent: true,
       },
-      // Koh Samui requires going through Surat Thani
+      // The researched English blog URL owns the complete Bangkok-Samui
+      // journey. NL keeps its existing mainland Surat Thani hand-off.
       {
         source: '/transport/bangkok-to-koh-samui/',
-        destination: '/transport/bangkok-to-surat-thani/',
+        destination: '/blog/bangkok-to-koh-samui-guide/',
         permanent: true,
+        locale: false,
+      },
+      {
+        source: '/nl/transport/bangkok-to-koh-samui/',
+        destination: '/nl/transport/bangkok-to-surat-thani/',
+        permanent: true,
+        locale: false,
       },
       // Old island URL referenced in blog posts
       {
