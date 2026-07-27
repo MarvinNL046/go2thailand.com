@@ -7,6 +7,7 @@ import { khonKaenDestinationGuideEn } from "./khon-kaen";
 import { lampangDestinationGuideEn } from "./lampang";
 import { mukdahanDestinationGuideEn } from "./mukdahan";
 import { nakhonPhanomDestinationGuideEn } from "./nakhon-phanom";
+import { nakhonRatchasimaDestinationGuideEn } from "./nakhon-ratchasima";
 import { nongKhaiDestinationGuideEn } from "./nong-khai";
 import { trangDestinationGuideEn } from "./trang";
 import { ubonRatchathaniDestinationGuideEn } from "./ubon-ratchathani";
@@ -23,6 +24,7 @@ const guides: Record<string, DestinationGuideData> = {
   lampang: lampangDestinationGuideEn,
   "mukdahan": mukdahanDestinationGuideEn,
   "nakhon-phanom": nakhonPhanomDestinationGuideEn,
+  "nakhon-ratchasima": nakhonRatchasimaDestinationGuideEn,
   "nong-khai": nongKhaiDestinationGuideEn,
   "trang": trangDestinationGuideEn,
   "ubon-ratchathani": ubonRatchathaniDestinationGuideEn,
@@ -33,4 +35,4 @@ export function getEnDestinationGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { banKrutDestinationGuideEn, buengKanDestinationGuideEn, chanthaburiDestinationGuideEn, chiangKhanDestinationGuideEn, hatYaiDestinationGuideEn, khonKaenDestinationGuideEn, lampangDestinationGuideEn, mukdahanDestinationGuideEn, nakhonPhanomDestinationGuideEn, nongKhaiDestinationGuideEn, trangDestinationGuideEn, ubonRatchathaniDestinationGuideEn, udonThaniDestinationGuideEn };
+export { banKrutDestinationGuideEn, buengKanDestinationGuideEn, chanthaburiDestinationGuideEn, chiangKhanDestinationGuideEn, hatYaiDestinationGuideEn, khonKaenDestinationGuideEn, lampangDestinationGuideEn, mukdahanDestinationGuideEn, nakhonPhanomDestinationGuideEn, nakhonRatchasimaDestinationGuideEn, nongKhaiDestinationGuideEn, trangDestinationGuideEn, ubonRatchathaniDestinationGuideEn, udonThaniDestinationGuideEn };
