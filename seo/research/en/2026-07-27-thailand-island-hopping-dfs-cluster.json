@@ -1,0 +1,1600 @@
+{
+  "captured_at": "2026-07-27T13:33:12.247Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand island hopping",
+  "costs": {
+    "suggestions": 0.02556,
+    "related": 0.01608,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand island hopping",
+    "island hopping in thailand",
+    "island hopping thailand",
+    "phuket thailand island hopping",
+    "thailand island hopping from phuket",
+    "island hopping holidays thailand",
+    "thailand holidays island hopping",
+    "thailand island hopping holiday",
+    "thailand island hopping holidays",
+    "island hopping in thailand packages",
+    "island hopping thailand packages",
+    "thailand island hopping package",
+    "thailand island hopping packages",
+    "island hopping in thailand itinerary",
+    "island hopping itinerary thailand",
+    "island hopping thailand itinerary",
+    "thailand island hopping itinerary",
+    "island hopping thailand tours",
+    "island hopping tour thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "thailand map asia",
+      "volume": 12100,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island map",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand islands map",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "island hopping in thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand map with cities",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best islands in thailand for families",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket thailand island hopping",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping from phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 5 islands in thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best islands in thailand for couples",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "island hopping holidays thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand holidays island hopping",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping holiday",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping holidays",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "island hopping in thailand packages",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand packages",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping package",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping packages",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "island hopping in thailand itinerary",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping itinerary thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand itinerary",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping itinerary",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "list of islands in thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 islands in thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area in thailand for families",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand tours",
+      "volume": 30,
+      "kd": 42,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping tour thailand",
+      "volume": 30,
+      "kd": 42,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping tours thailand",
+      "volume": 30,
+      "kd": 42,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand family trip itinerary",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping itinerary 10 days",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping tour",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping tours",
+      "volume": 30,
+      "kd": 42,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist map of thailand islands",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "2 week island hopping thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "2 weeks island hopping thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "2-week island hopping thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping route thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury islands in thailand",
+      "volume": 20,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping itinerary 2 weeks",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping map",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping route",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping routes",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist map pdf",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 beaches in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "10 day island hopping thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "2 week thailand island hopping itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "3 weeks island hopping thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 day island hopping thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-day island hopping thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in thailand for swimming",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best island hopping in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best island hopping thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best islands in thailand for solo travel",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "g adventures thailand island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "island hopping andaman sea thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping around thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping in phuket thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping in thailand tips",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping south thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand 1 week",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand 2 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand 3 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand tips",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "real gap thailand island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "secret escapes thailand island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "secret escapes thailand island-hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "south west thailand island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "southern thailand island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sta travel thailand island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand best beaches less touristy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand east coast island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping 2 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping 3 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping advice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping blog",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping cruise",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping holiday packages",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping honeymoon",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping itinerary 1 week",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping itinerary 3 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping itinerary 7 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping november",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping packages from uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping west coast",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island itinerary 14 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 5 islands in thailand to visit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "west coast thailand island hopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "camp thailand island hopping",
+      "volume": 0,
+      "kd": 37,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "camp thailand island hopping itinerary",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ko samui thailand island hopping",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phi phi islands thailand island hopping",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vlog phi phi island hopping",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "1 month island hopping thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "18 day island hopping thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "3 week island hopping thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "better than thailand coron ultimate island hopping palawan philippines",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "blonde abroad thailand island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of island hopping in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "east coast thailand island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gadventures thailand island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping in thailand alone",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand august",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand backpacking",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "island hopping thailand starting in phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ko tao thailand island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lonely planet thailand island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury island hopping thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury thailand island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of thailand island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "southern thailand and island hopping busabout",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand honeymoon island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping 14 days",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping 3 days",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping cost",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping day trip",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping in august",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping in may",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping on a budget",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping packages south africa",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping secret escapes",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping with children",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand island hopping with kids",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ultimate thailand island hopping guide",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "west coast island hopping thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "west thailand island hopping",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.travelbag.co.uk",
+      "avgPosition": 6.444444444444445,
+      "keywordCount": 9,
+      "visibility": 5.500000000000001,
+      "estimatedTraffic": 143.33398
+    },
+    {
+      "domain": "www.tourradar.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 9,
+      "visibility": 3.05,
+      "estimatedTraffic": 49.6465
+    },
+    {
+      "domain": "www.contiki.com",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 9,
+      "visibility": 2.1,
+      "estimatedTraffic": 35.56559
+    },
+    {
+      "domain": "co.uk.sales.secretescapes.com",
+      "avgPosition": 6.875,
+      "keywordCount": 8,
+      "visibility": 5.3,
+      "estimatedTraffic": 242.26339999999996
+    },
+    {
+      "domain": "www.ultimate.travel",
+      "avgPosition": 18.444444444444443,
+      "keywordCount": 9,
+      "visibility": 3.05,
+      "estimatedTraffic": 67.29154
+    },
+    {
+      "domain": "www.theblondeabroad.com",
+      "avgPosition": 20.77777777777778,
+      "keywordCount": 9,
+      "visibility": 1.45,
+      "estimatedTraffic": 35.91682
+    },
+    {
+      "domain": "www.explore.co.uk",
+      "avgPosition": 22.22222222222222,
+      "keywordCount": 9,
+      "visibility": 1.5,
+      "estimatedTraffic": 15.78054
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 12.875,
+      "keywordCount": 8,
+      "visibility": 1.4000000000000001,
+      "estimatedTraffic": 15.215
+    },
+    {
+      "domain": "www.gadventures.com",
+      "avgPosition": 25,
+      "keywordCount": 9,
+      "visibility": 0.2,
+      "estimatedTraffic": 4.87254
+    },
+    {
+      "domain": "feelfreetravel.com",
+      "avgPosition": 16.125,
+      "keywordCount": 8,
+      "visibility": 2.8000000000000003,
+      "estimatedTraffic": 106.02273
+    },
+    {
+      "domain": "www.tropicalsky.co.uk",
+      "avgPosition": 6,
+      "keywordCount": 7,
+      "visibility": 3.9499999999999997,
+      "estimatedTraffic": 247.06099999999998
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 27.77777777777778,
+      "keywordCount": 9,
+      "visibility": 0.44999999999999996,
+      "estimatedTraffic": 9.278985999999998
+    },
+    {
+      "domain": "www.trutravels.com",
+      "avgPosition": 11,
+      "keywordCount": 7,
+      "visibility": 1.0500000000000003,
+      "estimatedTraffic": 29.791
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 31.77777777777778,
+      "keywordCount": 9,
+      "visibility": 0.75,
+      "estimatedTraffic": 15.708540000000001
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 25,
+      "keywordCount": 8,
+      "visibility": 0.3,
+      "estimatedTraffic": 8.07742
+    },
+    {
+      "domain": "www.bestattravel.co.uk",
+      "avgPosition": 25.375,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.660819999999999
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 16.142857142857142,
+      "keywordCount": 6,
+      "visibility": 1.55,
+      "estimatedTraffic": 24.025140000000004
+    },
+    {
+      "domain": "www.cooptravel.co.uk",
+      "avgPosition": 16.285714285714285,
+      "keywordCount": 7,
+      "visibility": 1.8,
+      "estimatedTraffic": 19.058999999999997
+    },
+    {
+      "domain": "fullsuitcase.com",
+      "avgPosition": 36,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.7544399999999993
+    },
+    {
+      "domain": "www.eastravel.co.uk",
+      "avgPosition": 27.142857142857142,
+      "keywordCount": 7,
+      "visibility": 1.35,
+      "estimatedTraffic": 15.335999999999999
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 6,
+      "visibility": 0.6499999999999999,
+      "estimatedTraffic": 6.682999999999999
+    },
+    {
+      "domain": "www.intrepidtravel.com",
+      "avgPosition": 27.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.4265399999999997
+    },
+    {
+      "domain": "www.travelcenter.uk",
+      "avgPosition": 2,
+      "keywordCount": 5,
+      "visibility": 4.5,
+      "estimatedTraffic": 124.10999999999999
+    },
+    {
+      "domain": "www.rickshawtravel.co.uk",
+      "avgPosition": 30.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.55,
+      "estimatedTraffic": 7.6049999999999995
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 20.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.7000000000000002,
+      "estimatedTraffic": 14.844500000000002
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 47.77777777777778,
+      "keywordCount": 9,
+      "visibility": 0.8,
+      "estimatedTraffic": 9.937339999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 42.375,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 3.480539999999999
+    },
+    {
+      "domain": "freedomdestinations.co.uk",
+      "avgPosition": 24.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.7099999999999995
+    },
+    {
+      "domain": "www.busabout.com",
+      "avgPosition": 30.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.859
+    },
+    {
+      "domain": "www.introtravel.com",
+      "avgPosition": 16.6,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.824999999999999
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 43,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.9705399999999993
+    },
+    {
+      "domain": "www.holidaypirates.com",
+      "avgPosition": 36,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.0839999999999996
+    },
+    {
+      "domain": "www.thetimes.com",
+      "avgPosition": 46.42857142857143,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.9399999999999995
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 39,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.6115399999999998
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 62.888888888888886,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 3.711539999999999
+    },
+    {
+      "domain": "travelnation.co.uk",
+      "avgPosition": 35.2,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.6289999999999996
+    },
+    {
+      "domain": "www.destination2.co.uk",
+      "avgPosition": 36.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.2809999999999997
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 21.5,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 10.775349999999998
+    },
+    {
+      "domain": "www.tourcompass.co.uk",
+      "avgPosition": 52,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 2.7259999999999995
+    },
+    {
+      "domain": "www.travelzoo.com",
+      "avgPosition": 55,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 2.7089999999999996
+    },
+    {
+      "domain": "www.luxtripper.co.uk",
+      "avgPosition": 46.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.2809999999999997
+    },
+    {
+      "domain": "www.originaltravel.co.uk",
+      "avgPosition": 52.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.2809999999999997
+    },
+    {
+      "domain": "www.philandgarth.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 1.8,
+      "estimatedTraffic": 54.2226
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 23,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.86754
+    },
+    {
+      "domain": "www.responsibletravel.com",
+      "avgPosition": 54.4,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.2079999999999993
+    },
+    {
+      "domain": "www.tourhound.co.uk",
+      "avgPosition": 55.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.2809999999999997
+    },
+    {
+      "domain": "holidaybay.co.uk",
+      "avgPosition": 55.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.2809999999999997
+    },
+    {
+      "domain": "www.onthebeach.co.uk",
+      "avgPosition": 45.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.0499999999999998
+    },
+    {
+      "domain": "www.goway.com",
+      "avgPosition": 45.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "www.thrillophilia.com",
+      "avgPosition": 56.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.3519999999999994
+    }
+  ]
+}
