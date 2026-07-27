@@ -338,7 +338,7 @@ Thai food is often spicier than Western kids expect, but **you can request mild 
 - **Thai fried rice** (khao pad): Mild, customizable, and filling. Add egg, chicken, or shrimp.
 - **Pad Thai:** Slightly sweet, mild noodles. Request without peanuts if there are allergies.
 - **Mango sticky rice:** Dessert that kids love—sweet, simple, and refreshing.
-- **Tom yum goong:** Spicy soup, but broth is mild; ask for mild version — read our [tom yum goong guide](/blog/tom-yum-goong-guide/) to understand the dish.
+- **Tom yum goong:** Spicy soup, but broth is mild; ask for mild version — read our [tom yum goong guide](/food/tom-yum-goong/) to understand the dish.
 - **Satay (meat skewers):** Grilled protein with peanut sauce; kids enjoy the interactive eating.
 
 ### Practical Eating Tips

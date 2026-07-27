@@ -68,6 +68,11 @@ const data: DishEditorialData = {
   },
   classHref: withSubId(KLOOK_GENERIC, 'en-pad-thai-dish-cooking-class'),
   classCopy: 'A suitable class can show noodle hydration, tamarind balance and wok sequencing in context. The linked Klook results are broad: verify that Pad Thai is actually on the current menu rather than assuming it from the class title.',
+  classSignals: [
+    { title: 'Technique', text: 'Watch noodle hydration, sauce reduction and wok heat.' },
+    { title: 'Ingredients', text: 'Identify tamarind, dried shrimp, tofu and finishing garnishes.' },
+    { title: 'Market context', text: 'Learn what can be substituted and what changes the dish.' },
+  ],
   faqs: [
     { question: 'What does Pad Thai consist of?', answer: 'Common versions combine rice noodles, tamarind-led sauce, egg, tofu, sprouts and chives. Fish sauce, dried or fresh shrimp, another protein, peanuts, lime and chilli may also appear. The exact house version matters.' },
     { question: 'What does Pad Thai taste like?', answer: 'It is usually sweet, sour and savoury, often with tamarind brightness and a roasted or wok-cooked depth. Lime, chilli and peanuts at the table can change the final profile.' },

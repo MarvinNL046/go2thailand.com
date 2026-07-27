@@ -39,7 +39,7 @@ sources:
 
 Walk through any Thai market and you will see **Ajinomoto** brand MSG on nearly every vendor's seasoning tray, right next to the fish sauce, sugar, and chili flakes. Thai cooks use MSG the same way Western cooks use salt: as a basic flavor enhancer that rounds out a dish.
 
-MSG is added to soups (like **[tom yum](/blog/tom-yum-goong-guide/)** and **tom kha**), stir-fries, fried rice, [curry pastes](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), noodle dishes, and even some dipping sauces. It is not hidden or controversial in Thailand -- it is simply part of the cooking culture. The Thai name **phong chu rot** is used openly and without stigma.
+MSG is added to soups (like **[tom yum](/food/tom-yum-goong/)** and **tom kha**), stir-fries, fried rice, [curry pastes](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), noodle dishes, and even some dipping sauces. It is not hidden or controversial in Thailand -- it is simply part of the cooking culture. The Thai name **phong chu rot** is used openly and without stigma.
 
 That said, not every cook uses it. Higher-end restaurants frequently advertise "no MSG," and health-conscious vendors in cities like [Chiang Mai](/city/chiang-mai/) and [Bangkok](/city/bangkok/) sometimes skip it as well.
 

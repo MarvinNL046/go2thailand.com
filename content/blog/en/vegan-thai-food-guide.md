@@ -196,4 +196,4 @@ Yes. Most [cooking classes in Bangkok](/blog/best-cooking-classes-bangkok-market
 
 ### Is tom yum soup vegan?
 
-Traditional [tom yum goong](/blog/tom-yum-goong-guide/) is not vegan — it uses shrimp and fish sauce. However, **tom yum het** (mushroom tom yum) is the vegan version. Ask for it "jay" to ensure no fish sauce or shrimp paste is used. It is just as aromatic and satisfying.
+Traditional [tom yum goong](/food/tom-yum-goong/) is not vegan — it uses shrimp and fish sauce. However, **tom yum het** (mushroom tom yum) is the vegan version. Ask for it "jay" to ensure no fish sauce or shrimp paste is used. It is just as aromatic and satisfying.

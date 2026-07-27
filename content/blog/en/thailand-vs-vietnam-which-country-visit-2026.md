@@ -209,7 +209,7 @@ Both countries are world-renowned for street food, but the culinary philosophies
 
 ### Thailand's Food Scene
 
-Thai cuisine emphasizes **balance: sweet, sour, salty, and spicy in every dish**. [Pad Thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/food/green-curry/), and [tom yum goong](/blog/tom-yum-goong-guide/) are iconic, but the real magic happens in neighborhood markets. When we explored Bangkok's Talad Noi market at dawn, we found fresh [pad krapow moo](https://go2-thailand.com/food/pad-krapow/) (basil pork) for ฿40 (USD 1.10) and steaming bowls of [larb](https://go2-thailand.com/food/larb/) for ฿50 (USD 1.40).
+Thai cuisine emphasizes **balance: sweet, sour, salty, and spicy in every dish**. [Pad Thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/food/green-curry/), and [tom yum goong](/food/tom-yum-goong/) are iconic, but the real magic happens in neighborhood markets. When we explored Bangkok's Talad Noi market at dawn, we found fresh [pad krapow moo](https://go2-thailand.com/food/pad-krapow/) (basil pork) for ฿40 (USD 1.10) and steaming bowls of [larb](https://go2-thailand.com/food/larb/) for ฿50 (USD 1.40).
 
 **Street food costs in Thailand:**
 - Noodle or rice dishes: ฿30–60 (USD 0.85–1.65)

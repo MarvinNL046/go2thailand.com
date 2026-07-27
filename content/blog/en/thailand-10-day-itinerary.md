@@ -100,7 +100,7 @@ As the sun sets, head to [Doi Suthep](https://go2-thailand.com/city/chiang-mai/a
 
 Chiang Mai has over 300 temples within its city limits, but you don't need to see them all. Start with Wat Umong, a forest temple with underground tunnels, then head to Nimmanhaemin Road for boutique shops and specialty coffee.
 
-In the afternoon, book a [Thai cooking class](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/) — they typically include a market tour where you learn to select fresh ingredients, followed by 3–4 hours of hands-on cooking. Prices range from 800–1,500 THB ($23–43). You'll learn dishes like [pad thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/blog/thai-curry-guide-green-red-yellow-massaman-panang/), and [tom yum](https://go2-thailand.com/blog/tom-yum-goong-guide/).
+In the afternoon, book a [Thai cooking class](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/) — they typically include a market tour where you learn to select fresh ingredients, followed by 3–4 hours of hands-on cooking. Prices range from 800–1,500 THB ($23–43). You'll learn dishes like [pad thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/blog/thai-curry-guide-green-red-yellow-massaman-panang/), and [tom yum](https://go2-thailand.com/food/tom-yum-goong/).
 
 In the evening, explore the [Night Bazaar](https://go2-thailand.com/city/chiang-mai/attractions/night-bazaar/) on Chang Klan Road — a permanent covered market with handicrafts, clothing, and food stalls. If you're here on a Sunday, the Walking Street market along Ratchadamnoen Road is even better.
 

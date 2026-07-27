@@ -30,7 +30,7 @@ The road runs roughly parallel to Rama I Road in the Pathum Wan district, connec
 
 ## What to Eat
 
-**Jeh O Chula** is the stall that put the street on the map. Its [tom yum](/blog/tom-yum-goong-guide/) Mama noodles — loaded with seafood and pork — earned a [Michelin Bib Gourmand](/blog/thailand-bib-gourmand-2026-new-restaurants-street-food/) and regularly draw queues past midnight. Arrive before 9 pm or expect a wait.
+**Jeh O Chula** is the stall that put the street on the map. Its [tom yum](/food/tom-yum-goong/) Mama noodles — loaded with seafood and pork — earned a [Michelin Bib Gourmand](/blog/thailand-bib-gourmand-2026-new-restaurants-street-food/) and regularly draw queues past midnight. Arrive before 9 pm or expect a wait.
 
 **Tang Sui Heng**, another Michelin Guide pick, serves classic [Thai-Chinese comfort food](/blog/what-is-thai-food-cuisine-guide/) including rich duck noodle soup and crispy pork belly at prices that rarely break THB 100.
 
