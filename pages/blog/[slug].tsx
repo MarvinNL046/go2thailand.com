@@ -68,6 +68,7 @@ import ThailandVietnamComparisonGuideEn from '../../components/compare/ThailandV
 import { BangkokKohSamuiJourneyEn } from '../../components/transport/BangkokKohSamuiJourneyEn';
 import { BangkokChiangMaiSleeperTrainEn } from '../../components/transport/BangkokChiangMaiSleeperTrainEn';
 import { ThailandIslandHoppingGuideEn } from '../../components/islands/ThailandIslandHoppingGuideEn';
+import { HowLongThailandGuideEn } from '../../components/planning/HowLongThailandGuideEn';
 
 interface Source {
   name: string;
@@ -315,6 +316,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
   }
   if (locale === 'en' && post.slug === 'thailand-island-hopping-guide') {
     return <ThailandIslandHoppingGuideEn />;
+  }
+  if (locale === 'en' && post.slug === 'how-long-spend-thailand') {
+    return <HowLongThailandGuideEn />;
   }
 
   const breadcrumbs = [
@@ -796,6 +800,24 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           title: 'Thailand Island Hopping: Routes, Coasts & Trip Planner',
           description: 'Plan a Thailand island-hopping route by coast, pace and ferry handoffs. Compare Gulf and Andaman chains, then check current tickets and island stays.',
           image: '/images/redesign/thailand-island-hopping-hero-v2.webp',
+          lastUpdated: '2026-07-27',
+        },
+        relatedPosts,
+        prevPost,
+        nextPost,
+      },
+      revalidate: 604800,
+    };
+  }
+  if (lang === 'en' && slug === 'how-long-spend-thailand') {
+    const { contentHtml: _legacyContent, faqItems: _legacyFaqs, ...ownerPost } = post;
+    return {
+      props: {
+        post: {
+          ...ownerPost,
+          title: 'How Many Days in Thailand? Choose Your Ideal Trip Length',
+          description: 'Choose how many days to spend in Thailand by nights, hotel moves and travel style. Compare 5, 7, 10, 14 and 21-day route shapes without rushing.',
+          image: '/images/redesign/how-long-thailand-trip-planner-hero-v2.webp',
           lastUpdated: '2026-07-27',
         },
         relatedPosts,

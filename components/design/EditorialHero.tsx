@@ -39,6 +39,7 @@ interface EditorialHeroProps {
   imageClassName?: string;
   gradientClassName?: string;
   breadcrumbAriaLabel?: string;
+  contentTone?: 'ink' | 'light';
 }
 
 const defaultGradient = 'bg-[linear-gradient(180deg,rgba(252,250,246,0.08)_0%,rgba(252,250,246,0.38)_42%,rgba(252,250,246,0.98)_100%)] lg:bg-[linear-gradient(90deg,rgba(252,250,246,0.98)_0%,rgba(252,250,246,0.91)_35%,rgba(252,250,246,0.28)_63%,rgba(18,63,54,0.08)_100%)]';
@@ -63,7 +64,10 @@ export function EditorialHero({
   imageClassName = 'object-cover object-[65%_center] lg:object-center',
   gradientClassName = defaultGradient,
   breadcrumbAriaLabel = 'Kruimelpad',
+  contentTone = 'ink',
 }: EditorialHeroProps) {
+  const hasLightContent = contentTone === 'light';
+
   return (
     <section className={`relative overflow-hidden bg-mist ${minHeightClassName}`}>
       <Image src={image} alt={imageAlt} fill priority sizes="100vw" className={imageClassName} />
@@ -72,19 +76,19 @@ export function EditorialHero({
 
       <div className={`container-custom relative z-10 flex items-end pb-10 pt-32 lg:items-center lg:pb-0 lg:pt-20 ${minHeightClassName}`}>
         <div className={contentClassName}>
-          <nav aria-label={breadcrumbAriaLabel} className="mb-5 flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-[0.13em] text-jade/65">
+          <nav aria-label={breadcrumbAriaLabel} className={`mb-5 flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-[0.13em] ${hasLightContent ? 'text-ivory/70' : 'text-jade/65'}`}>
             {breadcrumbs.map((breadcrumb, index) => (
               <span key={`${breadcrumb.label}-${index}`} className="contents">
                 {index > 0 ? <span aria-hidden="true">/</span> : null}
-                {breadcrumb.href ? <Link href={breadcrumb.href} className="transition hover:text-saffron-dark">{breadcrumb.label}</Link> : <span className="text-jade">{breadcrumb.label}</span>}
+                {breadcrumb.href ? <Link href={breadcrumb.href} className={`transition ${hasLightContent ? 'hover:text-saffron-light' : 'hover:text-saffron-dark'}`}>{breadcrumb.label}</Link> : <span className={hasLightContent ? 'text-ivory' : 'text-jade'}>{breadcrumb.label}</span>}
               </span>
             ))}
           </nav>
 
           <p className="eyebrow">{eyebrow}</p>
-          <h1 className={`font-display font-semibold tracking-[-0.05em] text-jade ${titleClassName}`}>{title}</h1>
-          {subtitle ? <div className={`mt-5 font-display font-semibold text-jade ${subtitleClassName}`}>{subtitle}</div> : null}
-          <div className={`font-medium text-charcoal/72 ${descriptionClassName}`}>{description}</div>
+          <h1 className={`font-display font-semibold tracking-[-0.05em] ${hasLightContent ? 'text-ivory' : 'text-jade'} ${titleClassName}`}>{title}</h1>
+          {subtitle ? <div className={`mt-5 font-display font-semibold ${hasLightContent ? 'text-ivory' : 'text-jade'} ${subtitleClassName}`}>{subtitle}</div> : null}
+          <div className={`font-medium ${hasLightContent ? 'text-ivory/75' : 'text-charcoal/72'} ${descriptionClassName}`}>{description}</div>
 
           <div className="mt-7 flex flex-wrap gap-3">
             {actions.map((action) => {
