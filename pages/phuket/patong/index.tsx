@@ -7,6 +7,7 @@ import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, GYG_GENERIC } from '../../../lib/affiliates';
 import { useSubId } from '../../../lib/useSubId';
+import PatongAreaGuideEn from '../../../components/phuket/PatongAreaGuideEn';
 
 interface Partners {
   trip_patong_pillar: { partnerUrl: string };
@@ -22,6 +23,10 @@ export default function PatongPillarPage({ partners, lastUpdated }: Props) {
   const isNl = locale === 'nl';
   const subId = useSubId();
   const sub = (placement: string) => `${subId}-pseo-phuket-patong-pillar-${placement}`;
+
+  if (!isNl) {
+    return <PatongAreaGuideEn hotelHref={partners.trip_patong_pillar.partnerUrl} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
