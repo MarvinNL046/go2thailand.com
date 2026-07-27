@@ -1,0 +1,1238 @@
+{
+  "captured_at": "2026-07-27T12:18:17.267Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "patong restaurants",
+  "costs": {
+    "suggestions": 0.02244,
+    "related": 0.01416,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "patong restaurants",
+    "patong phuket restaurants",
+    "patong restaurants phuket",
+    "patong thailand restaurants",
+    "phuket patong restaurants",
+    "phuket restaurants patong",
+    "restaurants in patong",
+    "restaurants in patong thailand",
+    "restaurants in phuket patong",
+    "restaurants patong",
+    "restaurants patong thailand",
+    "restaurants phuket patong",
+    "best patong restaurants",
+    "best restaurants in patong",
+    "best restaurants in patong phuket",
+    "best restaurants in patong phuket thailand",
+    "best restaurants in patong thailand",
+    "best restaurants in phuket patong",
+    "best restaurants patong"
+  ],
+  "keywords": [
+    {
+      "keyword": "phanthong thai menu",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong phuket restaurants",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong restaurants",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong restaurants phuket",
+      "volume": 260,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong thailand restaurants",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong restaurants",
+      "volume": 260,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket restaurants patong",
+      "volume": 260,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in patong",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in patong thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in phuket patong",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants patong",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants patong thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants phuket patong",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best patong restaurants",
+      "volume": 170,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong phuket thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong thailand",
+      "volume": 170,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in phuket patong",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong",
+      "volume": 170,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong restaurants on the beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong thai restaurant",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket patong beach restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in patong beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in patong beach phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in phuket patong beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants patong beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants phuket patong beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai restaurants patong",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phanthong thai wilmslow menu",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best patong beach restaurants",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong beach",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong beach phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong beach",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong beach phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "indian restaurants in patong phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "indian restaurants in phuket patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach side restaurants patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best cheap restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best indian restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best indian restaurants in patong phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best indian restaurants in phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong beach with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong beach with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants phuket patong",
+      "volume": 10,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best seafood restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai restaurants in patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai restaurants patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best vegetarian restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "central patong restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dang restaurant patong phuket menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holiday inn patong restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "indian restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "italian restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "italian restaurants patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "michelin star restaurants patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach bars and restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach restaurants with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong restaurants reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong restaurants tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong restaurants with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong vegetarian restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong restaurants tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pure veg restaurants in patong phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants near patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants with a view patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "romantic restaurants patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rooftop restaurants patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "street food patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 restaurants in patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top restaurants in patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top restaurants in patong thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tripadvisor patong restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian restaurants in patong phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach road restaurants",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in patong with a view",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beachside restaurants patong",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beachfront restaurants in patong",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap indian restaurants in phuket patong",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong family restaurants",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants near patong beach hotel",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants on the beach in patong",
+      "volume": null,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "swissotel patong restaurants",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 1,
+      "keywordCount": 5,
+      "visibility": 5,
+      "estimatedTraffic": 419.52
+    },
+    {
+      "domain": "madisonsfootsteps.com",
+      "avgPosition": 2.4,
+      "keywordCount": 5,
+      "visibility": 4.3,
+      "estimatedTraffic": 203.37900000000002
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3,
+      "keywordCount": 5,
+      "visibility": 4,
+      "estimatedTraffic": 134.274
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 4.2,
+      "keywordCount": 5,
+      "visibility": 3.3999999999999995,
+      "estimatedTraffic": 86.952
+    },
+    {
+      "domain": "idealmagazine.co.uk",
+      "avgPosition": 8.8,
+      "keywordCount": 5,
+      "visibility": 1.55,
+      "estimatedTraffic": 31.655999999999995
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 9.2,
+      "keywordCount": 5,
+      "visibility": 1.05,
+      "estimatedTraffic": 21.064
+    },
+    {
+      "domain": "traveleatsleeprepeat.co.uk",
+      "avgPosition": 10,
+      "keywordCount": 5,
+      "visibility": 1.9,
+      "estimatedTraffic": 51.742
+    },
+    {
+      "domain": "www.avistahideawayphuketresort.com",
+      "avgPosition": 10.8,
+      "keywordCount": 5,
+      "visibility": 0.75,
+      "estimatedTraffic": 15.767
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 12.2,
+      "keywordCount": 5,
+      "visibility": 0.95,
+      "estimatedTraffic": 17.137999999999998
+    },
+    {
+      "domain": "www.ladyironchef.com",
+      "avgPosition": 12.8,
+      "keywordCount": 5,
+      "visibility": 0.65,
+      "estimatedTraffic": 13.189
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 14.2,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 7.629999999999999
+    },
+    {
+      "domain": "www.opentable.co.th",
+      "avgPosition": 21.4,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.101999999999999
+    },
+    {
+      "domain": "web.hungryhub.com",
+      "avgPosition": 22.4,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.9499999999999997
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 23,
+      "keywordCount": 5,
+      "visibility": 0.3,
+      "estimatedTraffic": 10.203999999999999
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 23,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.7439999999999998
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 26.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.9609999999999994
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 31,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.749999999999999
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 31,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.113999999999999
+    },
+    {
+      "domain": "www.phuket-plaza.com",
+      "avgPosition": 32.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "www.whatsoninphuket.com",
+      "avgPosition": 34.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "thethaiger.com",
+      "avgPosition": 35.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "phuket-insider.com",
+      "avgPosition": 35.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "www.chope.co",
+      "avgPosition": 35.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 20.5,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.4769999999999994
+    },
+    {
+      "domain": "www.petitfute.co.uk",
+      "avgPosition": 36.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "patongseafood.co.th",
+      "avgPosition": 23,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.5199999999999996
+    },
+    {
+      "domain": "www.ministryofvillas.com",
+      "avgPosition": 41.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "www.deevanahotels.com",
+      "avgPosition": 27.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "it.hotels.com",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 13.088000000000001
+    },
+    {
+      "domain": "www.nextholidays.com",
+      "avgPosition": 33.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.023999999999999
+    },
+    {
+      "domain": "zurirestaurant.com",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 7.712
+    },
+    {
+      "domain": "phuket.as",
+      "avgPosition": 50,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "phuketnews.phuketindex.com",
+      "avgPosition": 38,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.226
+    },
+    {
+      "domain": "evendo.com",
+      "avgPosition": 42.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "naughtynuristhailand.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 30.016
+    },
+    {
+      "domain": "traveltriangle.com",
+      "avgPosition": 53,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "www.searsandcophuket.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 19.008
+    },
+    {
+      "domain": "www.fodors.com",
+      "avgPosition": 38.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 13.188999999999998
+    },
+    {
+      "domain": "www.jungceylon.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.65,
+      "estimatedTraffic": 15.872
+    },
+    {
+      "domain": "www.tripadvisor.fr",
+      "avgPosition": 56.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "www.thailandnomads.com",
+      "avgPosition": 65.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.8979999999999997
+    },
+    {
+      "domain": "www.novotelphuket.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.08
+    },
+    {
+      "domain": "www.patongresorthotel.com",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.376
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 39.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.mostinside.com",
+      "avgPosition": 72,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.226
+    },
+    {
+      "domain": "nowphuket.com",
+      "avgPosition": 44,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.3439999999999999
+    },
+    {
+      "domain": "solt.app",
+      "avgPosition": 49,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 8.192
+    },
+    {
+      "domain": "www.hoteis.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.176
+    }
+  ]
+}

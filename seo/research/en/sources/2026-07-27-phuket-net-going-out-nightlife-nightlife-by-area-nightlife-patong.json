@@ -1,0 +1,645 @@
+{
+  "captured_at": "2026-07-27T12:21:41.197Z",
+  "locale": "en",
+  "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-area/nightlife-patong/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "This Week",
+          "url": "https://www.phuket.net/events/week",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/week",
+              "anchor_text": "This Week"
+            }
+          ]
+        },
+        {
+          "text": "This Weekend",
+          "url": "https://www.phuket.net/events/list",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/list",
+              "anchor_text": "This Weekend"
+            }
+          ]
+        },
+        {
+          "text": "This Month",
+          "url": "https://www.phuket.net/events/month",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/month",
+              "anchor_text": "This Month"
+            }
+          ]
+        },
+        {
+          "text": "View Calendar",
+          "url": "https://www.phuket.net/events-calendar",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events-calendar",
+              "anchor_text": "View Calendar"
+            }
+          ]
+        },
+        {
+          "text": "Art & Performances",
+          "url": "https://www.phuket.net/events/category/art-performances/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/category/art-performances/",
+              "anchor_text": "Art & Performances"
+            }
+          ]
+        },
+        {
+          "text": "Community & Meetings",
+          "url": "https://www.phuket.net/events/category/community-meetings/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/category/community-meetings/",
+              "anchor_text": "Community & Meetings"
+            }
+          ]
+        },
+        {
+          "text": "Music & Nightlife",
+          "url": "https://www.phuket.net/events/category/music-nightlife/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/category/music-nightlife/",
+              "anchor_text": "Music & Nightlife"
+            }
+          ]
+        },
+        {
+          "text": "Shopping & Markets",
+          "url": "https://www.phuket.net/events/category/shopping-markets/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/category/shopping-markets/",
+              "anchor_text": "Shopping & Markets"
+            }
+          ]
+        },
+        {
+          "text": "Things To Do",
+          "url": "https://www.phuket.net/activities/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/activities/",
+              "anchor_text": "Things To Do"
+            }
+          ]
+        },
+        {
+          "text": "What’s On",
+          "url": "https://www.phuket.net/whats-on/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/whats-on/",
+              "anchor_text": "What’s On"
+            }
+          ]
+        },
+        {
+          "text": "Real Estate",
+          "url": "https://www.phuket.net/property/blog/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/property/blog/",
+              "anchor_text": "Real Estate"
+            }
+          ]
+        },
+        {
+          "text": "New Listings",
+          "url": "https://www.phuket.net/directory/search/?sort_by=latest",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/directory/search/?sort_by=latest",
+              "anchor_text": "New Listings"
+            }
+          ]
+        },
+        {
+          "text": "Get Listed",
+          "url": "https://www.phuket.net/directory/add/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/directory/add/",
+              "anchor_text": "Get Listed"
+            }
+          ]
+        },
+        {
+          "text": "Tours & Activities",
+          "url": "https://www.phuket.net/tours/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/tours/",
+              "anchor_text": "Tours & Activities"
+            }
+          ]
+        },
+        {
+          "text": "Things to do",
+          "url": "https://www.phuket.net/things-to-do/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/things-to-do/",
+              "anchor_text": "Things to do"
+            }
+          ]
+        },
+        {
+          "text": "Yacht Charters",
+          "url": "https://www.phuket.net/yachtcharters/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/yachtcharters/",
+              "anchor_text": "Yacht Charters"
+            }
+          ]
+        },
+        {
+          "text": "Beaches & Places",
+          "url": "https://www.phuket.net/visit-phuket/about/destinations/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/visit-phuket/about/destinations/",
+              "anchor_text": "Beaches & Places"
+            }
+          ]
+        },
+        {
+          "text": "About Phuket",
+          "url": "https://www.phuket.net/visit-phuket/about/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/visit-phuket/about/",
+              "anchor_text": "About Phuket"
+            }
+          ]
+        },
+        {
+          "text": "Living Guide",
+          "url": "https://www.phuket.net/phuket-living/guide/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/phuket-living/guide/",
+              "anchor_text": "Living Guide"
+            }
+          ]
+        },
+        {
+          "text": "Going Out",
+          "url": "https://www.phuket.net/going-out/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/",
+              "anchor_text": "Going Out"
+            }
+          ]
+        },
+        {
+          "text": "Restaurants by Area",
+          "url": "https://www.phuket.net/going-out/restaurants/dining-by-area/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/restaurants/dining-by-area/",
+              "anchor_text": "Restaurants by Area"
+            }
+          ]
+        },
+        {
+          "text": "Restaurants by Cuisine",
+          "url": "https://www.phuket.net/going-out/restaurants/dining-by-cuisine/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/restaurants/dining-by-cuisine/",
+              "anchor_text": "Restaurants by Cuisine"
+            }
+          ]
+        },
+        {
+          "text": "Nightlife by Area",
+          "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-area/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-area/",
+              "anchor_text": "Nightlife by Area"
+            }
+          ]
+        },
+        {
+          "text": "Nightlife by Venue",
+          "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-venue/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-venue/",
+              "anchor_text": "Nightlife by Venue"
+            }
+          ]
+        },
+        {
+          "text": "SFX Central Festival Showtimes",
+          "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-central-festival/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-central-festival/",
+              "anchor_text": "SFX Central Festival Showtimes"
+            }
+          ]
+        },
+        {
+          "text": "SF Robinson Thalang Showtimes",
+          "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-sf-robinson-thalang/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-sf-robinson-thalang/",
+              "anchor_text": "SF Robinson Thalang Showtimes"
+            }
+          ]
+        },
+        {
+          "text": "SF Jungceylon Showtimes",
+          "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-jungceylon/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-jungceylon/",
+              "anchor_text": "SF Jungceylon Showtimes"
+            }
+          ]
+        },
+        {
+          "text": "Health & Fitness",
+          "url": "https://www.phuket.net/phuket-living/health-fitness/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/phuket-living/health-fitness/",
+              "anchor_text": "Health & Fitness"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "About Phuket",
+          "url": "https://www.phuket.net/visit-phuket/about/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/visit-phuket/about/",
+              "anchor_text": "About Phuket"
+            }
+          ]
+        },
+        {
+          "text": "Beaches & Places",
+          "url": "https://www.phuket.net/visit-phuket/about/destinations/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/visit-phuket/about/destinations/",
+              "anchor_text": "Beaches & Places"
+            }
+          ]
+        },
+        {
+          "text": "Things to Do",
+          "url": "https://www.phuket.net/things-to-do/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/things-to-do/",
+              "anchor_text": "Things to Do"
+            }
+          ]
+        },
+        {
+          "text": "Business Directory",
+          "url": "https://www.phuket.net/directory/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/directory/",
+              "anchor_text": "Business Directory"
+            }
+          ]
+        },
+        {
+          "text": "Expat Guide",
+          "url": "https://www.phuket.net/phuket-living/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/phuket-living/",
+              "anchor_text": "Expat Guide"
+            }
+          ]
+        },
+        {
+          "text": "Work Permits & Visas",
+          "url": "https://www.phuket.net/phuket-living/employment/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/phuket-living/employment/",
+              "anchor_text": "Work Permits & Visas"
+            }
+          ]
+        },
+        {
+          "text": "Property for Sale",
+          "url": "https://www.phuket.net/property/property-for-sale/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/property/property-for-sale/",
+              "anchor_text": "Property for Sale"
+            }
+          ]
+        },
+        {
+          "text": "Property for Rent",
+          "url": "https://www.phuket.net/rentals/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/rentals/",
+              "anchor_text": "Property for Rent"
+            }
+          ]
+        },
+        {
+          "text": "Недвижимость на Пхукете",
+          "url": "https://www.phuket.net/property/ru/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/property/ru/",
+              "anchor_text": "Недвижимость на Пхукете"
+            }
+          ]
+        },
+        {
+          "text": "Phuket immobilier",
+          "url": "https://www.phuket.net/property/fr/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/property/fr/",
+              "anchor_text": "Phuket immobilier"
+            }
+          ]
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.phuket.net/contact-us/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/contact-us/",
+              "anchor_text": "Contact Us"
+            }
+          ]
+        },
+        {
+          "text": "About US",
+          "url": "https://www.phuket.net/about-us/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/about-us/",
+              "anchor_text": "About US"
+            }
+          ]
+        },
+        {
+          "text": "Join Our Team",
+          "url": "https://www.phuket.net/join-our-team/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/join-our-team/",
+              "anchor_text": "Join Our Team"
+            }
+          ]
+        },
+        {
+          "text": "Site Map",
+          "url": "https://www.phuket.net/site-maps/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/site-maps/",
+              "anchor_text": "Site Map"
+            }
+          ]
+        },
+        {
+          "text": "© Phuket.Net. All rights reserved",
+          "url": "https://www.phuket.net/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/",
+              "anchor_text": "Phuket.Net"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Patong Nightlife",
+        "main_title": "Patong Nightlife",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "For night crawlers, Patong is not just the capital, but the heart and soul of Phuket nightlife. Here, nightly action-packed entertainments are limitless and far from ordinary. You’ll find beach parties, International DJ and EDM shows, live music sessions, sport bars, traditional pubs, high-energy dance clubs, out & proud gay venues, casual cocktail spots, rooftop lounge and glamour dinner places. It’s a mix of everything, for everyone and every mood — Patong has it all.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "With bustling street running through the middle and hundreds of nightlife options on both sides, Bangla delivers an epic night out like no other. Highlights in the area include Illuzion Phuket. The place is booming with partygoers 7 nights a week and offers different themed nights for everyone’s music styles. This venue has hosted international artists and DJ like Martin Garrix, Tiesto, Marshmello, Afrojack, Steve Aoki, Jason Derulo, Ja Rule and Tyga.",
+            "url": "https://www.phuket.net/directory/?p=96836",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/directory/?p=96836",
+                "anchor_text": "Illuzion Phuket"
+              }
+            ]
+          },
+          {
+            "text": "Just around the corner, Hollywood Phuket has always been one of the top party destinations in Patong for years. You’ll find live DJ sets and huge floor packed with people dancing like there’s no tomorrow. Make sure you’ve got your right shoes on for this one. New York Bar is a fantastic choice for live music. The bar plays an interesting mix of rock and most popular current hits from all over the world.",
+            "url": "https://www.phuket.net/directory/?p=96100",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/directory/?p=96100",
+                "anchor_text": "Hollywood Phuket"
+              },
+              {
+                "url": "https://www.phuket.net/directory/?p=111380",
+                "anchor_text": "New York Bar"
+              }
+            ]
+          },
+          {
+            "text": "Ruamchai Road is lined with friendly bars & pubs. Hooters is well-known for its brand of food and fun. This beach-theme sports bar is your destination for chicken wings, draught beer, big sporting events on big screens and watching the sexy girls go by. A few doors further down, The Drunken Leprechaun Phuket is another excellent choice to watch your favourite sports on screens, sip the best Irish beer and listen to live music on every night.",
+            "url": "https://www.phuket.net/directory/?p=93756",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/directory/?p=93756",
+                "anchor_text": "Hooters"
+              },
+              {
+                "url": "https://www.phuket.net/directory/?p=113202",
+                "anchor_text": "The Drunken Leprechaun Phuket"
+              }
+            ]
+          },
+          {
+            "text": "Things get a bit more classy in the north of Patong with all the fine dining restaurants along Kamala – Patong Road, Baan Rim Pa offers you a royal Thai cuisine with dazzling bay views. This open-air restaurant features the piano bar playing jazz music to entertain you throughout your dinner. A little further along the road, you’ll find Acqua Restaurant, a stylish fine dining destination serving authentic Italian food and award-winning wines that hard to top.",
+            "url": "https://www.phuket.net/directory/?p=1414",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/directory/?p=1414",
+                "anchor_text": "Baan Rim Pa"
+              },
+              {
+                "url": "https://www.phuket.net/directory/?p=3680",
+                "anchor_text": "Acqua Restaurant"
+              }
+            ]
+          },
+          {
+            "text": "You can find some lovely rooftop bars at the other end of Patong near Tai Trang Beach. La Gritta at Amari Phuket is all about premium wines, creative cocktails, and finest Italian dishes. This trendy sky bar is an ideal for sundowners with truly unique views of Patong Bay. Then, a few minutes drive towards Tai Trang Beach, Ta Khai at Rosewood Phuket has its own set of splendid sunset views. The only thing that seems able to beat the views here is the authentic Thai and Phuket dishes on the menu.",
+            "url": "https://www.phuket.net/directory/?p=3073",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/directory/?p=3073",
+                "anchor_text": "La Gritta"
+              },
+              {
+                "url": "https://www.phuket.net/directory/?p=121783",
+                "anchor_text": "Ta Khai"
+              }
+            ]
+          },
+          {
+            "text": "Meanwhile, Sizzle is may not be the highest rooftop bar, but it is definitely one of the best views in all of Patong. This is the perfect place for dinner or drinks after your long working day or when the weekend rolls around.",
+            "url": "https://www.phuket.net/directory/?p=100743",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/directory/?p=100743",
+                "anchor_text": "Sizzle"
+              }
+            ]
+          },
+          {
+            "text": "At the southern end of Patong Bay and right on the casual small beach, The Paradise Beach Phuket will have you dancing your heart out to the tasty beats and rhythms. The beach party vibes here are high, with a solid international DJ line-up every Saturday night. The young crowd and lively ambiance make this place just an ideal for throwing shapes with no sense of responsibility throughout the night with your best friends.",
+            "url": "https://www.phuket.net/directory/?p=122011",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/directory/?p=122011",
+                "anchor_text": "The Paradise Beach Phuket"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "For more information, see our Patong nightlife and Patong map.",
+            "url": "https://www.phuket.net/directory/nightlife-entertainment/?zone_id=4",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/directory/nightlife-entertainment/?zone_id=4",
+                "anchor_text": "Patong nightlife"
+              },
+              {
+                "url": "https://www.phuket.net/visit-phuket/about/maps/patong-map/",
+                "anchor_text": "Patong map"
+              }
+            ]
+          },
+          {
+            "text": "Island Hopping Adventures in Phuket 2025",
+            "url": "https://www.phuket.net/articles/2025/03/island-hopping-adventures-phuket-2025/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2025/03/island-hopping-adventures-phuket-2025/",
+                "anchor_text": "Island Hopping Adventures in Phuket 2025"
+              }
+            ]
+          },
+          {
+            "text": "Phuket Nightlife: The Best Places to Go Out in Karon and Kata 2024",
+            "url": "https://www.phuket.net/articles/2024/03/phuket-nightlife-best-places-go-karon-kata/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2024/03/phuket-nightlife-best-places-go-karon-kata/",
+                "anchor_text": "Phuket Nightlife: The Best Places to Go Out in Karon and Kata 2024"
+              }
+            ]
+          },
+          {
+            "text": "Where to Drink, Dine & Dance in Bangtao and Laguna 2023",
+            "url": "https://www.phuket.net/articles/2023/06/phuket-nightlife-drink-dine-dance-bangtao-laguna/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2023/06/phuket-nightlife-drink-dine-dance-bangtao-laguna/",
+                "anchor_text": "Where to Drink, Dine & Dance in Bangtao and Laguna 2023"
+              }
+            ]
+          },
+          {
+            "text": "Stunning Rooftop Bars & Restaurants in Phuket 2023",
+            "url": "https://www.phuket.net/articles/2023/07/stunning-rooftop-bars-restaurants-phuket/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2023/07/stunning-rooftop-bars-restaurants-phuket/",
+                "anchor_text": "Stunning Rooftop Bars & Restaurants in Phuket 2023"
+              }
+            ]
+          },
+          {
+            "text": "Mai Khao Restaurants",
+            "url": "https://www.phuket.net/going-out/restaurants/dining-by-area/north-phuket/mai-khao-restaurants/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/going-out/restaurants/dining-by-area/north-phuket/mai-khao-restaurants/",
+                "anchor_text": "Mai Khao Restaurants"
+              }
+            ]
+          },
+          {
+            "text": "Phuket June 2021",
+            "url": "https://www.phuket.net/articles/2021/06/phuket-june-2021/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2021/06/phuket-june-2021/",
+                "anchor_text": "Phuket June 2021"
+              }
+            ]
+          },
+          {
+            "text": "View More…",
+            "url": "https://www.phuket.net/events/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/events/",
+                "anchor_text": "View More…"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": null,
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

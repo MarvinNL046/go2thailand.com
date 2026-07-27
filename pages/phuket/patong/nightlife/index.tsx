@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, GYG_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PatongNightlifeEn from '../../../../components/phuket/PatongNightlifeEn';
 
 interface Partners {
   trip_patong_pillar: { partnerUrl: string };
@@ -21,6 +22,10 @@ export default function PatongNightlifePage({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (!isNl) {
+    return <PatongNightlifeEn stayHref={partners.trip_patong_nightlife?.partnerUrl} />;
+  }
   const sub = (placement: string) => `${subId}-pseo-phuket-patong-nightlife-${placement}`;
 
   const breadcrumbs = [

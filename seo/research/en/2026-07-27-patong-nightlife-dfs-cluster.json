@@ -1,0 +1,1250 @@
+{
+  "captured_at": "2026-07-27T12:18:18.498Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "patong nightlife",
+  "costs": {
+    "suggestions": 0.01716,
+    "related": 0.01884,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "patong nightlife",
+    "nightlife in patong",
+    "nightlife in patong beach",
+    "nightlife in patong phuket thailand",
+    "nightlife in patong thailand",
+    "nightlife in phuket patong",
+    "nightlife in phuket patong beach",
+    "nightlife patong beach",
+    "patong beach nightlife",
+    "patong beach phuket nightlife",
+    "patong beach thailand nightlife",
+    "patong thailand nightlife",
+    "phuket nightlife patong beach",
+    "phuket patong beach nightlife",
+    "thailand patong nightlife",
+    "bangla road patong nightlife",
+    "patong bangla road nightlife",
+    "patong beach nightlife for adults",
+    "best nightlife in patong beach",
+    "nightlife in patong for couples"
+  ],
+  "keywords": [
+    {
+      "keyword": "bangla road patong",
+      "volume": 2400,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach bangla walking street",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vietnam nightlife",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vietnam nightlife hanoi",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nightlife in patong",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in patong beach",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in patong phuket thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in patong thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in phuket patong",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in phuket patong beach",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife patong beach",
+      "volume": 210,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach phuket nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach thailand nightlife",
+      "volume": 210,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong phuket nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong thailand nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife patong",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife patong beach",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong beach nightlife",
+      "volume": 210,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand patong nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya latest news",
+      "volume": 140,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nightlife in pattaya for singles",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road to patong beach",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong walking street",
+      "volume": 90,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road patong nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong bangla road nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife for singles",
+      "volume": 40,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife for singles",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road ping pong show",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vietnam nightlife for singles",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket adults only",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket direction",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach nightlife for adults",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya latest nightlife news",
+      "volume": 20,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife for couples",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife video",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya soi 6 vs walking street",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife boom boom price",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vietnam nightlife vs thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket to patong beach",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best nightlife in patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ho chi minh city nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is bangla road safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nightlife in patong for couples",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach bangla walking street photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach bangla walking street reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach nightlife street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong nightlife for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong nightlife street",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong street nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya gogo news",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya lockdown update today",
+      "volume": 10,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya news soi 6",
+      "volume": 10,
+      "kd": 20,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife 2023",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife today",
+      "volume": 10,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street night club",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket bangla street nightlife",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife for singles over 50",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket thailand patong nightlife",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket walking street nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vietnam nightlife for adults at night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vietnam nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "why is it called bangla road in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "youtube patong nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangla road patong beach nightlife",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife 2017",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife 2018",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife 2021",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife pictures",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife tips",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best nightlife patong",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong nightlife videos 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 1.0625,
+      "keywordCount": 16,
+      "visibility": 15.9,
+      "estimatedTraffic": 1072.1
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 2.375,
+      "keywordCount": 16,
+      "visibility": 13.800000000000002,
+      "estimatedTraffic": 567.985
+    },
+    {
+      "domain": "homeiswhereyourbagis.com",
+      "avgPosition": 7.8125,
+      "keywordCount": 16,
+      "visibility": 6.2,
+      "estimatedTraffic": 100.21200000000002
+    },
+    {
+      "domain": "www.deevanahotels.com",
+      "avgPosition": 8.25,
+      "keywordCount": 16,
+      "visibility": 6.1499999999999995,
+      "estimatedTraffic": 110.718
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 9.375,
+      "keywordCount": 16,
+      "visibility": 7.5,
+      "estimatedTraffic": 143.187
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 12.9375,
+      "keywordCount": 16,
+      "visibility": 1.4000000000000004,
+      "estimatedTraffic": 26.05
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 7.333333333333333,
+      "keywordCount": 15,
+      "visibility": 8.7,
+      "estimatedTraffic": 173.52699999999996
+    },
+    {
+      "domain": "www.andamanbeachhotelphuket.com",
+      "avgPosition": 13.125,
+      "keywordCount": 16,
+      "visibility": 1.3500000000000003,
+      "estimatedTraffic": 30.107999999999993
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 13.8125,
+      "keywordCount": 16,
+      "visibility": 3.4499999999999997,
+      "estimatedTraffic": 65.18100000000001
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 14.5,
+      "keywordCount": 16,
+      "visibility": 2.4499999999999997,
+      "estimatedTraffic": 43.972
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 3.2142857142857144,
+      "keywordCount": 14,
+      "visibility": 10.900000000000002,
+      "estimatedTraffic": 293.865
+    },
+    {
+      "domain": "banbanjara.com",
+      "avgPosition": 14.066666666666666,
+      "keywordCount": 15,
+      "visibility": 1.35,
+      "estimatedTraffic": 26.66
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 13.357142857142858,
+      "keywordCount": 14,
+      "visibility": 4.35,
+      "estimatedTraffic": 74.024
+    },
+    {
+      "domain": "ratanahillpatong.com",
+      "avgPosition": 19.666666666666668,
+      "keywordCount": 15,
+      "visibility": 0.5499999999999999,
+      "estimatedTraffic": 14.240000000000002
+    },
+    {
+      "domain": "www.phuket-plaza.com",
+      "avgPosition": 32.375,
+      "keywordCount": 16,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.728
+    },
+    {
+      "domain": "en.phuketrentmix.com",
+      "avgPosition": 19.583333333333332,
+      "keywordCount": 12,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 9.658
+    },
+    {
+      "domain": "www.thrillophilia.com",
+      "avgPosition": 22.416666666666668,
+      "keywordCount": 12,
+      "visibility": 0.2,
+      "estimatedTraffic": 7.444
+    },
+    {
+      "domain": "www.jakarta100bars.com",
+      "avgPosition": 42.375,
+      "keywordCount": 16,
+      "visibility": 0,
+      "estimatedTraffic": 7.497
+    },
+    {
+      "domain": "www.thailandredcat.com",
+      "avgPosition": 37.78571428571428,
+      "keywordCount": 14,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.930000000000001
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 13.3,
+      "keywordCount": 10,
+      "visibility": 0.9500000000000002,
+      "estimatedTraffic": 20.854
+    },
+    {
+      "domain": "phuketprivateparty.com",
+      "avgPosition": 38.92857142857143,
+      "keywordCount": 14,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.489
+    },
+    {
+      "domain": "phuket-tropic-tours.com",
+      "avgPosition": 22.545454545454547,
+      "keywordCount": 11,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.311
+    },
+    {
+      "domain": "www.indochinavoyages.com",
+      "avgPosition": 38.230769230769226,
+      "keywordCount": 13,
+      "visibility": 0,
+      "estimatedTraffic": 6.494
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 30.727272727272727,
+      "keywordCount": 11,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.438999999999999
+    },
+    {
+      "domain": "traveltriangle.com",
+      "avgPosition": 31.454545454545453,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 5.364999999999999
+    },
+    {
+      "domain": "wedrinkeattravel.com",
+      "avgPosition": 25.5,
+      "keywordCount": 10,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.548
+    },
+    {
+      "domain": "www.ministryofvillas.com",
+      "avgPosition": 33.54545454545455,
+      "keywordCount": 11,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.261
+    },
+    {
+      "domain": "nerdnomads.com",
+      "avgPosition": 10.125,
+      "keywordCount": 8,
+      "visibility": 1.0500000000000003,
+      "estimatedTraffic": 21.644
+    },
+    {
+      "domain": "www.avistahideawayphuketresort.com",
+      "avgPosition": 11.875,
+      "keywordCount": 8,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 15.690999999999999
+    },
+    {
+      "domain": "blog.byklo.rent",
+      "avgPosition": 35,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.829999999999999
+    },
+    {
+      "domain": "onlybyland.com",
+      "avgPosition": 37.6,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.829999999999999
+    },
+    {
+      "domain": "medium.com",
+      "avgPosition": 38.7,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.4879999999999995
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 50.5,
+      "keywordCount": 12,
+      "visibility": 0,
+      "estimatedTraffic": 5.712000000000001
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 31.875,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.88
+    },
+    {
+      "domain": "www.phuket-travel-secrets.com",
+      "avgPosition": 23.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.068
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 28.857142857142858,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 3.611999999999999
+    },
+    {
+      "domain": "www.cleverthai.com",
+      "avgPosition": 60.75,
+      "keywordCount": 12,
+      "visibility": 0,
+      "estimatedTraffic": 5.922
+    },
+    {
+      "domain": "www.rentalfortheholidays.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.821
+    },
+    {
+      "domain": "www.novotelphuketvintagepark.com",
+      "avgPosition": 25,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.195
+    },
+    {
+      "domain": "www.khaolaklanddiscovery.com",
+      "avgPosition": 10.2,
+      "keywordCount": 5,
+      "visibility": 1.05,
+      "estimatedTraffic": 21.079
+    },
+    {
+      "domain": "www.patongbeachguide.com",
+      "avgPosition": 44.375,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 3.737999999999999
+    },
+    {
+      "domain": "tophuket.com",
+      "avgPosition": 44.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 3.0659999999999994
+    },
+    {
+      "domain": "www.avistagrandephuketresort.com",
+      "avgPosition": 12.5,
+      "keywordCount": 4,
+      "visibility": 0.9000000000000001,
+      "estimatedTraffic": 14.193999999999999
+    },
+    {
+      "domain": "phuketinsiderguide.com",
+      "avgPosition": 29.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.7639999999999998
+    },
+    {
+      "domain": "www.thevacationgateway.com",
+      "avgPosition": 43.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.3099999999999996
+    },
+    {
+      "domain": "tranio.com",
+      "avgPosition": 6.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.3,
+      "estimatedTraffic": 27.69
+    },
+    {
+      "domain": "spice2vice.com",
+      "avgPosition": 62,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 3.5069999999999992
+    },
+    {
+      "domain": "www.keemala.com",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 6.718
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 38.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.1839999999999997
+    },
+    {
+      "domain": "www.barfunkphuket.com",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.2269999999999999
+    }
+  ]
+}
