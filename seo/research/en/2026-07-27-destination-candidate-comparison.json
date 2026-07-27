@@ -1,0 +1,89 @@
+{
+  "captured_at": "2026-07-27T12:07:35.199Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "cost": 0.01296,
+  "requested_keywords": [
+    "kata noi beach",
+    "kata beach surfing",
+    "surfing in phuket",
+    "patong nightlife",
+    "patong restaurants",
+    "best hotels in patong",
+    "best hotels in karon",
+    "best hotels in kata",
+    "best hotels in kamala",
+    "best hotels in bang tao",
+    "best hotels in nai harn",
+    "phuket old town hotels"
+  ],
+  "rows": [
+    {
+      "keyword": "kata noi beach",
+      "volume": 880,
+      "difficulty": 1,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 2.45
+    },
+    {
+      "keyword": "patong restaurants",
+      "volume": 260,
+      "difficulty": 0,
+      "intent": "commercial",
+      "competition": "LOW",
+      "cpc": 0.24
+    },
+    {
+      "keyword": "patong nightlife",
+      "volume": 210,
+      "difficulty": 0,
+      "intent": "navigational",
+      "competition": "LOW",
+      "cpc": 1.55
+    },
+    {
+      "keyword": "best hotels in patong",
+      "volume": 140,
+      "difficulty": 0,
+      "intent": "commercial",
+      "competition": "HIGH",
+      "cpc": 1.44
+    },
+    {
+      "keyword": "surfing in phuket",
+      "volume": 140,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.96
+    },
+    {
+      "keyword": "phuket old town hotels",
+      "volume": 110,
+      "difficulty": 0,
+      "intent": "commercial",
+      "competition": "HIGH",
+      "cpc": 1.24
+    },
+    {
+      "keyword": "kata beach surfing",
+      "volume": 40,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.62
+    },
+    {
+      "keyword": "best hotels in karon",
+      "volume": 20,
+      "difficulty": 1,
+      "intent": "commercial",
+      "competition": "HIGH",
+      "cpc": 0.41
+    }
+  ]
+}

@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import KataNoiAreaGuideEn from '../../../../components/phuket/KataNoiAreaGuideEn';
 
 interface Partner { partnerUrl: string; label: string; }
 interface Partners { trip_kata_noi: Partner; klook_kata_noi: Partner; trip_pillar: Partner; klook_pillar: Partner; }
@@ -16,6 +17,10 @@ export default function KataNoiPage({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (!isNl) {
+    return <KataNoiAreaGuideEn hotelHref={partners.trip_kata_noi?.partnerUrl} activityHref={partners.klook_kata_noi?.partnerUrl} />;
+  }
   const placement = (p: string) => `${subId}-pseo-phuket-kata-noi-${p}`;
 
   const breadcrumbs = [
