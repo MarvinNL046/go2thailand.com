@@ -43,6 +43,8 @@ The first crawl reported 527 sitemap URLs without a qualifying incoming link fro
 
 The concentration in hotel detail pages calls for a family-level solution in the relevant accommodation owners and related-hotel modules. It should not be addressed with a sitewide dump of hundreds of links. Food, drinks, attractions and transport should likewise gain contextual links from their natural hubs and related-content components.
 
+Follow-up completed on 2026-07-27: all 426 English hotel detail records now receive a contextual main-content link from their destination hotel owner, and all 1,161 generated similar-hotel references resolve to a canonical sibling record. Eleven previously hidden boutique hotels were restored to their owners, and all 37 specialist hotel guides now receive contextual owner links. The layered sitewide refresh passed 1,602/1,602 routes without a hard finding and reduced incoming-main warnings from 527 to 34. See `seo/audits/en-hotel-internal-links-design-2026-07-27.md`.
+
 ## Recheck result
 
 - 87 of 87 original hard-finding routes passed without a hard error or warning.

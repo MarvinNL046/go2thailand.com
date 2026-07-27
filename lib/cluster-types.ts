@@ -36,7 +36,7 @@ export interface ClusterAttraction {
 
 export interface ClusterHotel {
   name: string;
-  category: 'budget' | 'mid-range' | 'luxury';
+  category: 'budget' | 'mid-range' | 'boutique' | 'luxury';
   priceRange: string;
   area: string;
   description: string;

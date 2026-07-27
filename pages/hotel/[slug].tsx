@@ -74,9 +74,29 @@ interface Props {
   hasCategoryPage: boolean;
   hasWhereToStayPage: boolean;
   hasCityPage: boolean;
+  relatedHotelSlugs: Record<string, string>;
 }
 
-export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToStayPage, hasCityPage }: Props) {
+let hotelSlugIndex: Record<string, Record<string, string>> | null = null;
+
+function normalizedHotelName(value?: string): string {
+  return (value || '').trim().toLowerCase().replace(/[^a-z0-9]+/g, '');
+}
+
+function getHotelSlugIndex(): Record<string, Record<string, string>> {
+  if (hotelSlugIndex) return hotelSlugIndex;
+  const index: Record<string, Record<string, string>> = {};
+  const directory = path.join(process.cwd(), 'data', 'pseo', 'hotels');
+  for (const filename of fs.readdirSync(directory).filter(file => file.endsWith('.json'))) {
+    const detail = JSON.parse(fs.readFileSync(path.join(directory, filename), 'utf8')) as PseoHotelData;
+    if (!index[detail.citySlug]) index[detail.citySlug] = {};
+    index[detail.citySlug][normalizedHotelName(detail.hotel.name)] = detail.hotelSlug;
+  }
+  hotelSlugIndex = index;
+  return index;
+}
+
+export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToStayPage, hasCityPage, relatedHotelSlugs }: Props) {
   const { hotel, cityName, citySlug } = data;
   const aff = getAffiliates(citySlug);
 
@@ -87,7 +107,7 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
   }
 
   const subId = `pseo-hotel-${data.hotelSlug}`;
-  const norm = (s?: string) => (s || '').trim().toLowerCase();
+  const norm = normalizedHotelName;
 
   const bookingFor = (h: Hotel | undefined, placement: string): { url: string; specific: boolean } | null => {
     if (h?.tripPartnerUrl) return { url: withPlacementSubId(h.tripPartnerUrl, subId, placement), specific: true };
@@ -97,8 +117,12 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
     }
     return { url: withPlacementSubId(aff?.trip ?? TRIP_GENERIC, subId, placement), specific: false };
   };
+  const providerFor = (url: string): string => {
+    if (/booking\.com|booking\.tpo\.lv/i.test(url)) return 'Booking.com';
+    if (/trip\.com|trip\.tpo\.lv/i.test(url)) return 'Trip.com';
+    return 'our booking partner';
+  };
   const heroCta = bookingFor(hotel, 'hero');
-  const similarBySlug = new Map(data.similarHotels.map(h => [norm(h.name), h]));
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -123,7 +147,6 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
     name: hotel.name,
     description: hotel.description,
     ...(hotel.area && { address: { '@type': 'PostalAddress', addressLocality: hotel.area, addressRegion: cityName, addressCountry: 'TH' } }),
-    ...(hotel.priceRange && { priceRange: hotel.priceRange }),
     ...(hotel.bookingUrl && { url: hotel.bookingUrl }),
   };
 
@@ -137,53 +160,54 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
         )}
       </SEOHead>
 
-      <div className="bg-surface-cream min-h-screen">
-        <section className="bg-thailand-blue text-white">
-          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="min-h-screen bg-[#fcfaf6]">
+        <section className="section-divider-bottom relative overflow-hidden bg-jade-dark py-12 text-white lg:py-16">
+          <div className="pointer-events-none absolute inset-0 opacity-[0.14] [background-image:radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.35)_1px,transparent_0)] [background-size:22px_22px]" />
+          <div className="container-custom relative">
             <Breadcrumbs items={breadcrumbs} />
-            <h1 className="font-heading text-3xl lg:text-5xl font-bold mt-4">{hotel.name}</h1>
-            <p className="mt-1 text-lg opacity-90">{hotel.area ? `${hotel.area}, ` : ''}{cityName}</p>
-            {hotel.reviewScore && (
-              <span className="mt-3 inline-block rounded-full bg-white/15 backdrop-blur px-3 py-1 text-sm font-semibold">★ {hotel.reviewScore}</span>
-            )}
-            {data.aiContent.hookIntro && (
-              <p className="mt-4 text-lg lg:text-xl font-medium max-w-3xl">{data.aiContent.hookIntro}</p>
-            )}
-            <p className="mt-3 text-base opacity-90 max-w-3xl">{data.aiContent.intro}</p>
+            <div className="mt-8 grid gap-8 lg:grid-cols-[1.12fr_0.88fr] lg:items-end lg:gap-16">
+              <div>
+                <p className="text-[10px] font-bold uppercase tracking-[0.22em] text-saffron-light">Independent hotel analysis</p>
+                <h1 className="mt-3 max-w-4xl font-display text-[3.2rem] font-semibold leading-[0.9] tracking-[-0.045em] text-white sm:text-[4rem] lg:text-[4.75rem]">{hotel.name}</h1>
+                <p className="mt-3 text-sm font-semibold text-white/62">{hotel.area ? `${hotel.area}, ` : ''}{cityName}</p>
+                {data.aiContent.hookIntro && (
+                  <p className="mt-6 max-w-3xl font-display text-2xl font-semibold leading-tight text-white/94 lg:text-[1.85rem]">{data.aiContent.hookIntro}</p>
+                )}
+                <p className="mt-4 max-w-3xl text-sm leading-7 text-white/70">{data.aiContent.intro}</p>
 
-            {/* Above-the-fold CTA */}
-            <div className="mt-6 flex flex-wrap items-center gap-3">
-              {heroCta && (
-                <a href={heroCta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-6 py-3 text-base font-semibold hover:bg-red-700 shadow-lg">
-                  {heroCta.specific ? <>Check rates for {hotel.name} →</> : <>Search {hotel.name} on Booking →</>}
-                </a>
-              )}
-              <a href="#review" className="rounded-full bg-white/10 backdrop-blur text-white px-5 py-3 text-sm font-semibold hover:bg-white/20">Read full review</a>
-            </div>
+                <div className="mt-7 flex flex-wrap items-center gap-3">
+                  {heroCta && (
+                    <a href={heroCta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="inline-flex min-h-11 items-center rounded-lg bg-[#fff7e9] px-5 text-xs font-bold text-saffron-dark transition hover:bg-white">
+                      Check current price on {providerFor(heroCta.url)} →
+                    </a>
+                  )}
+                  <a href="#review" className="inline-flex min-h-11 items-center rounded-lg border border-white/28 px-5 text-xs font-bold text-white transition hover:bg-white/10">Read the full analysis</a>
+                </div>
+                <p className="mt-4 max-w-2xl text-[10px] leading-5 text-white/48">Affiliate disclosure: booking links may earn us a commission at no extra cost to you. Hotels cannot buy a ranking position in this guide.</p>
+              </div>
 
-            {data.aiContent.urgencyLine && (
-              <p className="mt-4 text-sm opacity-95 italic">⚡ {data.aiContent.urgencyLine}</p>
-            )}
-
-            {/* Trust mini-block */}
-            <div className="mt-5 flex flex-wrap gap-x-5 gap-y-1 text-xs opacity-90">
-              <span>✔ Honest trade-offs</span>
-              <span>✔ Updated {data.lastUpdated ? new Date(data.lastUpdated).toLocaleString('en', {month:'short', year:'numeric'}) : 'for 2026'}</span>
-              <span>✔ Affiliate-tracked links</span>
-              <span>✔ No sponsored placements</span>
+              <aside className="rounded-xl border border-white/14 bg-white/[0.075] p-6 backdrop-blur-sm">
+                <p className="text-[9px] font-bold uppercase tracking-[0.2em] text-saffron-light">The quick verdict</p>
+                <p className="mt-3 font-display text-[2rem] font-semibold leading-tight text-white">Useful when the fit is right—not because a score says so.</p>
+                <div className="mt-5 space-y-3 border-t border-white/12 pt-4 text-xs leading-5 text-white/68">
+                  <p><strong className="text-white">Best for:</strong> {data.aiContent.quickStats?.bestFor || hotel.bestFor?.join(', ') || 'travellers comparing this area'}</p>
+                  <p><strong className="text-white">Standout:</strong> {data.aiContent.quickStats?.standout || hotel.highlights?.[0] || 'location and overall stay fit'}</p>
+                  <p><strong className="text-white">Rechecked:</strong> {data.lastUpdated ? new Date(data.lastUpdated).toLocaleString('en', { month: 'short', year: 'numeric' }) : '2026'}</p>
+                </div>
+              </aside>
             </div>
           </div>
         </section>
 
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="container-custom space-y-12 py-12">
           {/* Quick stats card */}
           {data.aiContent.quickStats && (
             <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
               <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
                 <div>
-                  <p className="text-xs uppercase tracking-wide text-gray-500 font-semibold">Price</p>
+                  <p className="text-xs uppercase tracking-wide text-gray-500 font-semibold">Price tier</p>
                   <p className="mt-1 font-heading font-bold text-gray-900 text-lg">{data.aiContent.quickStats.priceBand}</p>
-                  {hotel.priceRange && <p className="text-xs text-gray-500">{hotel.priceRange}</p>}
+                  <p className="text-xs text-gray-500">Confirm the live room rate for your exact dates.</p>
                 </div>
                 <div>
                   <p className="text-xs uppercase tracking-wide text-gray-500 font-semibold">Best for</p>
@@ -289,7 +313,7 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
             <section className="rounded-2xl bg-thailand-blue text-white p-6 text-center">
               <p className="font-heading text-xl font-bold mb-3">Ready to book {hotel.name}?</p>
               <a href={heroCta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="inline-flex items-center rounded-full bg-thailand-red text-white px-6 py-3 text-base font-semibold hover:bg-red-700 shadow-lg">
-                {heroCta.specific ? <>Check current rates →</> : <>See on Booking →</>}
+                Check current price on {providerFor(heroCta.url)} →
               </a>
               <p className="mt-3 text-xs opacity-80">Affiliate link — we may earn a small commission at no extra cost to you.</p>
             </section>
@@ -301,18 +325,26 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
               <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">Similar hotels in {cityName}</h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
                 {data.aiContent.similarHotels.map((s, i) => {
-                  const full = similarBySlug.get(norm(s.name));
+                  const full = data.similarHotels.find(candidate => norm(s.name).startsWith(norm(candidate.name)));
                   const cta = bookingFor(full, `similar-${i}`);
+                  const detailSlug = full ? relatedHotelSlugs[norm(full.name)] : undefined;
+                  const displayName = full?.name || s.name.split(/\s+(?:\(|—)/)[0].trim();
                   return (
-                    <article key={s.name} className="rounded-2xl bg-white p-4 shadow-sm border border-gray-200">
-                      <p className="font-heading font-bold text-gray-900">{s.name}</p>
-                      {full?.priceRange && <p className="text-xs text-gray-500 mt-0.5">{full.priceRange}</p>}
-                      <p className="mt-2 text-sm text-gray-700">{s.howDifferent}</p>
-                      {cta && (
-                        <a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="mt-3 inline-block text-sm font-semibold text-thailand-red hover:underline">
-                          {cta.specific ? 'Check rates →' : 'Search on Booking →'}
-                        </a>
-                      )}
+                    <article key={`${displayName}-${i}`} className="flex flex-col rounded-xl border border-jade/10 bg-white p-5 shadow-[0_6px_20px_rgba(18,63,54,0.05)]">
+                      <p className="font-display text-xl font-semibold text-jade">{displayName}</p>
+                      <p className="mt-2 flex-1 text-sm leading-6 text-charcoal/64">{s.howDifferent}</p>
+                      <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-2 border-t border-jade/8 pt-3">
+                        {detailSlug && (
+                          <Link href={`/hotel/${detailSlug}/`} className="text-xs font-bold text-jade hover:text-saffron-dark">
+                            Read hotel analysis →
+                          </Link>
+                        )}
+                        {cta && (
+                          <a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-xs font-bold text-saffron-dark hover:text-jade">
+                            Check current price on {providerFor(cta.url)} →
+                          </a>
+                        )}
+                      </div>
                     </article>
                   );
                 })}
@@ -370,9 +402,9 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
 
       {/* Sticky mobile CTA */}
       {heroCta && (
-        <div className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white border-t border-gray-200 shadow-lg px-3 py-2">
-          <a href={heroCta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="flex items-center justify-center gap-2 w-full rounded-full bg-thailand-red text-white px-4 py-3 text-sm font-semibold hover:bg-red-700">
-            {heroCta.specific ? <>Check rates – {hotel.name} →</> : <>Search on Booking →</>}
+        <div className="fixed bottom-20 left-3 right-3 z-40 rounded-xl border border-jade/10 bg-white/95 p-2 shadow-[0_14px_40px_rgba(18,63,54,0.18)] backdrop-blur md:hidden">
+          <a href={heroCta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="flex min-h-11 w-full items-center justify-center gap-2 rounded-lg bg-jade px-4 text-xs font-bold text-white hover:bg-jade-dark">
+            Check current price on {providerFor(heroCta.url)} →
           </a>
         </div>
       )}
@@ -405,6 +437,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) 
     ? path.join(process.cwd(), 'data', 'pseo', 'best-hotels', `${data.citySlug}-${data.hotel.category}.json`)
     : '';
   const whereToStayFile = path.join(process.cwd(), 'data', 'clusters', data.citySlug, 'where-to-stay.json');
+  const relatedHotelSlugs = locale === 'nl' ? {} : (getHotelSlugIndex()[data.citySlug] || {});
   return {
     props: {
       data,
@@ -412,6 +445,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) 
       hasCategoryPage: Boolean(categoryFile && fs.existsSync(categoryFile)),
       hasWhereToStayPage: fs.existsSync(whereToStayFile),
       hasCityPage: Boolean(getCityBySlug(data.citySlug, 'en')),
+      relatedHotelSlugs,
     },
     revalidate: 604800,
   };

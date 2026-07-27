@@ -12,6 +12,18 @@ const routeLimit = Math.max(0, Number(process.env.SITE_AUDIT_LIMIT || 0));
 const recheckReport = process.env.SITE_AUDIT_RECHECK_REPORT;
 const reusePageReport = process.env.SITE_AUDIT_REUSE_PAGE_REPORT;
 const reuseTargetReport = process.env.SITE_AUDIT_REUSE_TARGET_REPORT;
+const reusePageReports = (process.env.SITE_AUDIT_REUSE_PAGE_REPORTS || reusePageReport || '')
+  .split(',')
+  .map(value => value.trim())
+  .filter(Boolean);
+const reuseTargetReports = (process.env.SITE_AUDIT_REUSE_TARGET_REPORTS || reuseTargetReport || '')
+  .split(',')
+  .map(value => value.trim())
+  .filter(Boolean);
+const refreshPrefixes = (process.env.SITE_AUDIT_REFRESH_PREFIXES || '')
+  .split(',')
+  .map(value => normalizedPath(value.trim()))
+  .filter(value => value !== '/');
 const partialAudit = Boolean(recheckReport) || routeLimit > 0;
 const requestTimeout = Math.max(5_000, Number(process.env.SITE_AUDIT_TIMEOUT_MS || 30_000));
 const reportPath = process.env.SITE_AUDIT_REPORT
@@ -131,12 +143,13 @@ function loadLocaleOnlyRoutes(): Set<string> {
   return new Set((routes || []).map(normalizedPath));
 }
 
-function loadReusedPageResults(routes: string[]): RouteAudit[] | undefined {
-  if (!reusePageReport) return undefined;
-  const previous = JSON.parse(readFileSync(resolve(PROJECT_ROOT, reusePageReport), 'utf8')) as {
-    routes?: RouteAudit[];
-  };
-  const byRoute = new Map((previous.routes || []).map(route => [normalizedPath(route.route), route]));
+function loadReusedPageResults(routes: string[]): { reused: RouteAudit[]; pending: string[] } | undefined {
+  if (!reusePageReports.length) return undefined;
+  const byRoute = new Map<string, RouteAudit>();
+  for (const report of reusePageReports) {
+    const previous = JSON.parse(readFileSync(resolve(PROJECT_ROOT, report), 'utf8')) as { routes?: RouteAudit[] };
+    for (const route of previous.routes || []) byRoute.set(normalizedPath(route.route), route);
+  }
   const derivedErrorCodes = new Set([
     'broken_internal_link',
     'redirecting_internal_link',
@@ -144,28 +157,37 @@ function loadReusedPageResults(routes: string[]): RouteAudit[] | undefined {
     'duplicate_title',
     'duplicate_canonical',
   ]);
-  const results = routes.map(route => {
+  const reused: RouteAudit[] = [];
+  const pending: string[] = [];
+  for (const route of routes) {
+    if (refreshPrefixes.some(prefix => route.startsWith(prefix))) {
+      pending.push(route);
+      continue;
+    }
     const previousRoute = byRoute.get(route);
     if (!previousRoute) throw new Error(`Herbruikbaar auditrapport mist route ${route}`);
-    return {
+    reused.push({
       ...previousRoute,
       route,
       errors: previousRoute.errors.filter(finding => !derivedErrorCodes.has(finding.code)),
       warnings: previousRoute.warnings.filter(finding => finding.code !== 'no_main_incoming_link'),
-    };
-  });
-  console.log(`  hergebruik ${results.length} reeds gevalideerde paginaresultaten uit ${reusePageReport}`);
-  return results;
+    });
+  }
+  console.log(`  hergebruik ${reused.length} paginaresultaten en ververs ${pending.length} route(s) uit ${reusePageReports.join(' + ')}`);
+  return { reused, pending };
 }
 
 function loadReusedTargetResults(targets: string[], kind: 'link' | 'asset'): { reused: TargetAudit[]; pending: string[] } {
-  if (!reuseTargetReport) return { reused: [], pending: targets };
-  const previous = JSON.parse(readFileSync(resolve(PROJECT_ROOT, reuseTargetReport), 'utf8')) as {
-    targetAudits?: TargetAudit[];
-    assetAudits?: TargetAudit[];
-  };
-  const prior = kind === 'asset' ? previous.assetAudits || [] : previous.targetAudits || [];
-  const byTarget = new Map(prior.map(result => [result.target, result]));
+  if (!reuseTargetReports.length) return { reused: [], pending: targets };
+  const byTarget = new Map<string, TargetAudit>();
+  for (const report of reuseTargetReports) {
+    const previous = JSON.parse(readFileSync(resolve(PROJECT_ROOT, report), 'utf8')) as {
+      targetAudits?: TargetAudit[];
+      assetAudits?: TargetAudit[];
+    };
+    const prior = kind === 'asset' ? previous.assetAudits || [] : previous.targetAudits || [];
+    for (const result of prior) byTarget.set(result.target, result);
+  }
   const reused: TargetAudit[] = [];
   const pending: string[] = [];
   for (const target of targets) {
@@ -173,7 +195,7 @@ function loadReusedTargetResults(targets: string[], kind: 'link' | 'asset'): { r
     if (result && !result.error && result.status && result.status < 500) reused.push(result);
     else pending.push(target);
   }
-  console.log(`  hergebruik ${reused.length}/${targets.length} recente ${kind === 'asset' ? 'asset' : 'doel'}-statussen uit ${reuseTargetReport}`);
+  console.log(`  hergebruik ${reused.length}/${targets.length} recente ${kind === 'asset' ? 'asset' : 'doel'}-statussen uit ${reuseTargetReports.join(' + ')}`);
   return { reused, pending };
 }
 
@@ -512,9 +534,10 @@ function countFindings(routes: RouteAudit[], kind: 'errors' | 'warnings'): Map<s
 async function main(): Promise<void> {
   const routes = parseSitemap();
   const localeOnlyRoutes = loadLocaleOnlyRoutes();
-  const reusedResults = loadReusedPageResults(routes);
-  const queue = reusedResults ? [] : [...routes];
-  const results: RouteAudit[] = reusedResults || [];
+  const reuse = loadReusedPageResults(routes);
+  const queue = reuse ? [...reuse.pending] : [...routes];
+  const routeWorkCount = queue.length;
+  const results: RouteAudit[] = reuse ? [...reuse.reused] : [];
   let completed = 0;
   console.log(`${locale.toUpperCase()} sitewide audit: ${routes.length} sitemap-routes op ${baseUrl} (pagina’s ${concurrency}, doelen ${targetConcurrency}).`);
   const workers = Array.from({ length: Math.min(concurrency, queue.length) }, async () => {
@@ -522,7 +545,7 @@ async function main(): Promise<void> {
       const route = queue.shift()!;
       results.push(await auditRoute(route, localeOnlyRoutes));
       completed++;
-      if (completed % 50 === 0 || completed === routes.length) console.log(`  routes ${completed}/${routes.length}`);
+      if (completed % 50 === 0 || completed === routeWorkCount) console.log(`  routes ${completed}/${routeWorkCount}`);
     }
   });
   await Promise.all(workers);

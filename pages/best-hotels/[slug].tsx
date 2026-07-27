@@ -19,6 +19,8 @@ interface Props {
   affiliates: CityAffiliates | null;
   relatedLinks: IntentInternalLinkItem[];
   redesignData: HotelGuideData | null;
+  hotelDetailSlugs: Record<string, string>;
+  hotelGuideLinks: Array<{ href: string; label: string }>;
 }
 
 const categoryConfig = {
@@ -40,6 +42,15 @@ const categoryConfig = {
     icon: '💙',
     priceContext: 'comfort without splashing out',
   },
+  boutique: {
+    label: 'Boutique Hotels',
+    accent: 'text-saffron-dark',
+    badgeBg: 'bg-orange-50 text-saffron-dark',
+    borderTop: 'border-t-4 border-saffron',
+    heading: 'saffron-dark',
+    icon: '✦',
+    priceContext: 'character-led stays',
+  },
   luxury: {
     label: 'Luxury Hotels',
     accent: 'text-amber-700',
@@ -59,7 +70,7 @@ const categoryEditorial: Record<string, { what: string; who: string; tipLine: st
     who:
       'Budget properties suit solo travellers happy with compact rooms, backpackers who spend most of the day outside, and anyone prioritising location and price over extra space. A well-chosen budget hotel near a transit hub will serve you far better than a mediocre mid-range property in an inconvenient area.',
     tipLine:
-      'Look for properties that include breakfast — even a basic Thai breakfast of toast, eggs and fruit juice saves 80–120 THB per person per day and is frequently offered at the better budget guesthouses.',
+      'Compare the live total for your dates, room type, cancellation terms and included breakfast before deciding which budget stay is genuinely better value.',
   },
   'mid-range': {
     what:
@@ -67,7 +78,15 @@ const categoryEditorial: Record<string, { what: string; who: string; tipLine: st
     who:
       'Mid-range suits couples, families, and anyone who wants to actually enjoy their hotel rather than just sleep in it. If you plan to spend any time at the property — working remotely, poolside afternoons, evening drinks — the upgrade from budget to mid-range is almost always worth the extra cost in Thailand.',
     tipLine:
-      'Book direct or via Agoda for mid-range Thai hotels — rates are frequently 10–15% lower than Booking.com, and many properties include room upgrades or late checkout for direct bookers.',
+      'Check the same room and cancellation conditions across the hotel site and a trusted booking provider; headline prices are not comparable when taxes or breakfast differ.',
+  },
+  boutique: {
+    what:
+      'Boutique stays trade chain consistency for character: restored houses, locally designed rooms, smaller resorts and settings that feel specific to the destination. The label says more about scale and identity than price.',
+    who:
+      'Boutique hotels suit travellers who value atmosphere, local design and a more personal base. Check room layouts and accessibility carefully because smaller or heritage properties can vary more from room to room.',
+    tipLine:
+      'Compare the exact room category, recent property information and live total for your dates; the most photogenic room is not automatically the room shown in the first rate.',
   },
   luxury: {
     what:
@@ -75,7 +94,7 @@ const categoryEditorial: Record<string, { what: string; who: string; tipLine: st
     who:
       'Luxury properties suit honeymooners, travellers celebrating special occasions, and those who simply want the best available. If you are spending 10 or more nights in Thailand, one or two nights at a flagship luxury property can be the defining memory of the trip — especially at riverside properties where the setting amplifies everything.',
     tipLine:
-      'Luxury hotel breakfast buffets in Thailand can cost 600–1,200 THB per person — often a third of the room rate. If the hotel is in an area with good street food nearby (it often is), skipping breakfast is a legitimate saving without sacrificing quality.',
+      'Compare the complete stay: breakfast, transfers, lounge access, cancellation terms and room category can matter more than the first nightly figure shown.',
   },
 };
 
@@ -96,36 +115,70 @@ function extractAreas(hotels: ClusterHotel[]): { area: string; categories: strin
 function categoryLabel(cat: string): string {
   if (cat === 'budget') return 'budget options';
   if (cat === 'mid-range') return 'mid-range comfort';
+  if (cat === 'boutique') return 'boutique character';
   if (cat === 'luxury') return 'luxury properties';
   return cat;
 }
 
-function HotelCard({ hotel, citySlug, tripBaseUrl }: { hotel: ClusterHotel; citySlug: string; tripBaseUrl: string }) {
+function normalizeHotelName(value: string): string {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, '');
+}
+
+function stableHotelIntro(value: string): string {
+  const stableSentences = value
+    .split(/(?<=[.!?])\s+/)
+    .filter(sentence => !(
+      /(?:THB|USD|EUR|\$|€)/i.test(sentence)
+      || /\breal\s+(?:20\d{2}(?:\/20\d{2})?\s+)?prices?\b/i.test(sentence)
+      || /\bprices?\s+(?:start|range|are|from)\b/i.test(sentence)
+    ));
+  return stableSentences.length ? stableSentences.join(' ') : value;
+}
+
+function stableMetaDescription(value: string): string {
+  return value
+    .replace(/\breal prices?(?:, locations)?(?: and honest (?:tips|reviews))?/gi, 'current-price links and honest guidance')
+    .replace(/\bwith real prices?\b/gi, 'with current-price links');
+}
+
+function hotelGuideLabel(category: string): string {
+  const labels: Record<string, string> = {
+    budget: 'Budget stays',
+    'mid-range': 'Mid-range comfort',
+    boutique: 'Boutique stays',
+    luxury: 'Luxury hotels',
+    beachfront: 'Beachfront hotels',
+    couples: 'Hotels for couples',
+    family: 'Family hotels',
+    'private-pool': 'Private-pool stays',
+    'old-town': 'Old-town hotels',
+    'all-inclusive': 'All-inclusive stays',
+    resorts: 'Resorts',
+  };
+  return labels[category] || category.split('-').map(part => `${part.charAt(0).toUpperCase()}${part.slice(1)}`).join(' ');
+}
+
+function HotelCard({ hotel, citySlug, tripBaseUrl, detailSlug }: { hotel: ClusterHotel; citySlug: string; tripBaseUrl: string; detailSlug?: string }) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const conf = categoryConfig[hotel.category];
   const slugSegment = (hotel.name || 'hotel').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 50);
   const tripUrl = withPlacementSubId(tripBaseUrl, `best-hotels-${citySlug}`, `card-${slugSegment}`);
   return (
-    <div className={`bg-white rounded-xl shadow-sm border border-gray-100 p-5 ${conf.borderTop} flex flex-col`}>
+    <article className={`flex flex-col rounded-xl border border-jade/10 bg-white p-5 shadow-[0_7px_24px_rgba(18,63,54,0.05)] ${conf.borderTop}`}>
       <div className="flex items-start justify-between gap-3 mb-2">
-        <h3 className="font-bold text-gray-900 text-lg leading-tight">{hotel.name}</h3>
-        <span className={`shrink-0 text-sm font-semibold px-3 py-1 rounded-full ${conf.badgeBg}`}>
-          {hotel.priceRange}
+        <h3 className="font-display text-[1.45rem] font-semibold leading-tight text-jade">{hotel.name}</h3>
+        <span className={`shrink-0 rounded-md px-2.5 py-1 text-[9px] font-bold uppercase tracking-[0.14em] ${conf.badgeBg}`}>
+          {conf.label.replace(' Hotels', '')}
         </span>
       </div>
-      <span className="inline-block text-xs text-gray-500 bg-gray-100 px-2 py-0.5 rounded-full mb-3">
+      <span className="mb-3 inline-flex w-fit items-center rounded-md bg-jade/[0.05] px-2.5 py-1 text-[10px] font-semibold text-jade/65">
         {hotel.area}
       </span>
-      <p className="text-gray-600 text-sm leading-relaxed">{hotel.description}</p>
+      <p className="text-sm leading-6 text-charcoal/64">{hotel.description}</p>
       {hotel.bestFor && hotel.bestFor.length > 0 && (
         <p className="text-xs text-gray-400 mt-2">
           <span className="font-medium text-gray-500">{isNl ? 'Beste voor:' : 'Best for:'}</span> {hotel.bestFor.join(', ')}
-        </p>
-      )}
-      {hotel.reviewScore && (
-        <p className="text-sm font-semibold text-green-700 mt-2">
-          {hotel.reviewScore} {isNl ? 'gastscore' : 'guest score'}
         </p>
       )}
       {hotel.highlights && hotel.highlights.length > 0 && (
@@ -138,21 +191,31 @@ function HotelCard({ hotel, citySlug, tripBaseUrl }: { hotel: ClusterHotel; city
           ))}
         </ul>
       )}
-      <a
-        href={tripUrl}
-        target="_blank"
-        rel="noopener noreferrer nofollow sponsored"
-        className="mt-4 inline-flex items-center justify-center rounded-full bg-thailand-red px-4 py-2.5 text-sm font-semibold text-white hover:bg-red-700 transition-colors"
-      >
-        {isNl ? `Bekijk prijzen op Trip.com →` : `Check rates on Trip.com →`}
-      </a>
-    </div>
+      <div className="mt-auto grid gap-2 border-t border-jade/8 pt-4 sm:grid-cols-2">
+        {!isNl && detailSlug && (
+          <Link
+            href={`/hotel/${detailSlug}/`}
+            className="inline-flex min-h-11 items-center justify-center rounded-lg border border-jade/18 px-3 text-xs font-bold text-jade transition hover:border-jade/35 hover:bg-jade/[0.04]"
+          >
+            Read hotel analysis →
+          </Link>
+        )}
+        <a
+          href={tripUrl}
+          target="_blank"
+          rel="noopener noreferrer nofollow sponsored"
+          className="inline-flex min-h-11 items-center justify-center rounded-lg bg-jade px-3 text-center text-xs font-bold text-white transition hover:bg-jade-dark"
+        >
+          {isNl ? 'Bekijk actuele prijs op Trip.com →' : 'Check current price on Trip.com →'}
+        </a>
+      </div>
+    </article>
   );
 }
 
-const categoryOrder: Array<'budget' | 'mid-range' | 'luxury'> = ['budget', 'mid-range', 'luxury'];
+const categoryOrder: ClusterHotel['category'][] = ['budget', 'mid-range', 'boutique', 'luxury'];
 
-export default function BestHotelsPage({ data, affiliates, relatedLinks, redesignData }: Props) {
+export default function BestHotelsPage({ data, affiliates, relatedLinks, redesignData, hotelDetailSlugs, hotelGuideLinks }: Props) {
   const { locale } = useRouter();
   if (redesignData) return <HotelGuideTemplate data={redesignData} />;
   if (!data) return null;
@@ -172,26 +235,53 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
   }, {} as Record<string, ClusterHotel[]>);
 
   const areas = extractAreas(data.hotels);
+  const specialistHrefs = new Set(hotelGuideLinks.map(link => link.href));
+  const remainingRelatedLinks = relatedLinks.filter(link => !specialistHrefs.has(link.href));
 
   return (
     <>
-      <SEOHead title={data.seo.title} description={data.seo.metaDescription} />
-      <div className="bg-surface-cream min-h-screen">
+      <SEOHead title={data.seo.title} description={stableMetaDescription(data.seo.metaDescription)} />
+      <div className="min-h-screen bg-[#fcfaf6]">
 
         {/* Hero — editorial intro */}
-        <section className="bg-white shadow-sm">
-          <div className="container-custom py-10">
+        <section className="section-divider-bottom relative overflow-hidden bg-[#fcfaf6] py-10 lg:py-16">
+          <div className="pointer-events-none absolute inset-0 opacity-[0.16] [background-image:radial-gradient(circle_at_1px_1px,rgba(18,63,54,0.2)_1px,transparent_0)] [background-size:22px_22px]" />
+          <div className="container-custom relative">
             <Breadcrumbs items={breadcrumbs} />
-            <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-6">
-              {isNl ? `Beste Hotels in ${data.cityName} (2026)` : `Best Hotels in ${data.cityName} (2026)`}
-            </h1>
-            <div className="max-w-3xl">
-              <p className="text-xl text-gray-700 leading-relaxed mb-4">{data.intro}</p>
-              <p className="text-sm text-gray-400">
-                {isNl ? 'Laatst bijgewerkt: ' : 'Last updated: '}{new Date(data.lastUpdated).toLocaleDateString(isNl ? 'nl-NL' : 'en-GB', { year: 'numeric', month: 'long' })}
-                {data.sources && data.sources.length > 0 && ` · ${data.sources.length} ${isNl ? 'geverifieerde bronnen' : 'verified sources'}`}
-              </p>
+            <div className="mt-8 grid gap-8 lg:grid-cols-[1.12fr_0.88fr] lg:items-end lg:gap-16">
+              <div>
+                <p className="eyebrow">Choose the stay, then verify the live rate</p>
+                <h1 className="mt-3 max-w-4xl font-display text-[3.25rem] font-semibold leading-[0.9] tracking-[-0.045em] text-jade sm:text-[4.15rem] lg:text-[5rem]">
+                  {isNl ? `Beste hotels in ${data.cityName}` : `Best hotels in ${data.cityName}`}
+                </h1>
+                <p className="mt-6 max-w-3xl text-base leading-8 text-charcoal/66 sm:text-lg">
+                  {stableHotelIntro(data.intro)}
+                </p>
+                <div className="mt-7 flex flex-wrap gap-3">
+                  <a href="#hotel-shortlist" className="inline-flex min-h-11 items-center rounded-lg bg-jade px-5 text-xs font-bold text-white transition hover:bg-jade-dark">
+                    Compare the shortlist →
+                  </a>
+                  <Link href={`/where-to-stay/${data.citySlug}/`} className="inline-flex min-h-11 items-center rounded-lg border border-saffron/45 bg-white/70 px-5 text-xs font-bold text-saffron-dark transition hover:bg-white">
+                    Choose your area →
+                  </Link>
+                </div>
+              </div>
+
+              <aside className="rounded-xl border border-jade/10 bg-white/82 p-6 shadow-[0_12px_35px_rgba(18,63,54,0.07)] backdrop-blur-sm">
+                <p className="text-[9px] font-bold uppercase tracking-[0.2em] text-saffron-dark">Independent shortlist</p>
+                <p className="mt-2 font-display text-[2.25rem] font-semibold leading-none text-jade">{data.hotels.length} stays compared</p>
+                <p className="mt-4 text-sm leading-6 text-charcoal/60">Compare location, trade-offs and traveller fit here. Room prices change by date and room type, so every hotel card sends you to the provider for the current total.</p>
+                <div className="mt-5 flex flex-wrap gap-x-5 gap-y-2 border-t border-jade/8 pt-4 text-[10px] font-semibold text-jade/70">
+                  <span>No paid rankings</span>
+                  <span>Current-price CTAs</span>
+                  <span>Affiliate links labelled</span>
+                </div>
+              </aside>
             </div>
+            <p className="mt-8 text-[10px] text-charcoal/42">
+              {isNl ? 'Laatst bijgewerkt: ' : 'Last updated: '}{new Date(data.lastUpdated).toLocaleDateString(isNl ? 'nl-NL' : 'en-GB', { year: 'numeric', month: 'long' })}
+              {data.sources && data.sources.length > 0 && ` · ${data.sources.length} ${isNl ? 'geverifieerde bronnen' : 'verified sources'}`}
+            </p>
           </div>
         </section>
 
@@ -235,14 +325,14 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
           )}
 
           {/* Hotel categories with editorial context */}
-          {categoryOrder.map(cat => {
+          {categoryOrder.map((cat, categoryIndex) => {
             const hotels = grouped[cat];
             if (!hotels || hotels.length === 0) return null;
             const conf = categoryConfig[cat];
             const editorial = categoryEditorial[cat];
 
             return (
-              <section key={cat} className="mb-14">
+              <section key={cat} id={categoryIndex === 0 ? 'hotel-shortlist' : undefined} className="mb-14 scroll-mt-28">
                 <div className="flex items-center gap-3 mb-3">
                   <span className="text-3xl">{conf.icon}</span>
                   <h2 className={`text-2xl font-bold ${conf.accent}`}>
@@ -259,12 +349,41 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
 
                 <div className="grid md:grid-cols-2 gap-5">
                   {hotels.map((hotel, i) => (
-                    <HotelCard key={i} hotel={hotel} citySlug={data.citySlug} tripBaseUrl={affiliates?.trip ?? TRIP_GENERIC} />
+                    <HotelCard
+                      key={i}
+                      hotel={hotel}
+                      citySlug={data.citySlug}
+                      tripBaseUrl={affiliates?.trip ?? TRIP_GENERIC}
+                      detailSlug={hotelDetailSlugs[normalizeHotelName(hotel.name)]}
+                    />
                   ))}
                 </div>
               </section>
             );
           })}
+
+          {hotelGuideLinks.length > 0 && (
+            <section className="section-divider-top mb-12 pt-10">
+              <div className="mb-6 grid gap-3 lg:grid-cols-[0.8fr_1.2fr] lg:items-end lg:gap-12">
+                <div>
+                  <p className="eyebrow">Refine the shortlist</p>
+                  <h2 className="mt-2 font-display text-[2.7rem] font-semibold leading-[0.94] tracking-[-0.035em] text-jade">Hotel guides for the way you travel.</h2>
+                </div>
+                <p className="max-w-2xl text-sm leading-7 text-charcoal/60">Open a focused guide when location, traveller type or stay style matters more than a single overall ranking.</p>
+              </div>
+              <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+                {hotelGuideLinks.map(link => (
+                  <Link key={link.href} href={link.href} className="group flex min-h-20 items-center justify-between rounded-xl border border-jade/10 bg-white px-5 py-4 shadow-[0_5px_18px_rgba(18,63,54,0.04)] transition hover:-translate-y-0.5 hover:border-saffron/35 hover:shadow-lg">
+                    <span>
+                      <span className="block text-[9px] font-bold uppercase tracking-[0.17em] text-saffron-dark">Specialist guide</span>
+                      <span className="mt-1 block font-display text-xl font-semibold text-jade">{link.label}</span>
+                    </span>
+                    <span aria-hidden="true" className="text-jade transition group-hover:translate-x-1">→</span>
+                  </Link>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* Affiliate box — once, below all hotel sections */}
           {affiliates && (
@@ -294,11 +413,11 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
           )}
 
           {/* Cluster links — pillar links DOWN to category/audience/area spokes for full hub-and-spoke topical authority */}
-          {relatedLinks && relatedLinks.length > 0 && (
+          {remainingRelatedLinks.length > 0 && (
             <div className="mb-12">
               <IntentInternalLinks
                 title={isNl ? `Meer ${data.cityName} Hotelgidsen` : `More ${data.cityName} Hotel Guides`}
-                links={relatedLinks}
+                links={remainingRelatedLinks}
               />
             </div>
           )}
@@ -407,8 +526,35 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     city: slug,
     cityName: data.cityName,
   }) : [];
+  const hotelDetailSlugs: Record<string, string> = {};
+  const hotelGuideLinks: Array<{ href: string; label: string }> = [];
+  if (locale !== 'nl' && data) {
+    const { readdirSync, readFileSync } = await import('node:fs');
+    const { join } = await import('node:path');
+    const hotelDirectory = join(process.cwd(), 'data', 'pseo', 'hotels');
+    for (const filename of readdirSync(hotelDirectory).filter(file => file.endsWith('.json'))) {
+      const detail = JSON.parse(readFileSync(join(hotelDirectory, filename), 'utf8')) as {
+        citySlug?: string;
+        hotelSlug?: string;
+        hotel?: { name?: string };
+      };
+      if (detail.citySlug === slug && detail.hotelSlug && detail.hotel?.name) {
+        hotelDetailSlugs[normalizeHotelName(detail.hotel.name)] = detail.hotelSlug;
+      }
+    }
+    const guideDirectory = join(process.cwd(), 'data', 'pseo', 'best-hotels');
+    const guidePrefix = `${slug}-`;
+    for (const filename of readdirSync(guideDirectory).filter(file => file.startsWith(guidePrefix) && file.endsWith('.json'))) {
+      const category = filename.slice(guidePrefix.length, -'.json'.length);
+      hotelGuideLinks.push({
+        href: `/best-hotels/${slug}/${category}/`,
+        label: hotelGuideLabel(category),
+      });
+    }
+    hotelGuideLinks.sort((a, b) => a.label.localeCompare(b.label));
+  }
   return {
-    props: { data, affiliates: getAffiliates(slug), relatedLinks, redesignData },
+    props: { data, affiliates: getAffiliates(slug), relatedLinks, redesignData, hotelDetailSlugs, hotelGuideLinks },
     revalidate: 604800,
   };
 };
