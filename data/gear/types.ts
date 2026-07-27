@@ -19,7 +19,7 @@ export interface PackingProductPick {
 }
 
 export interface PackingGuideData {
-  locale: 'nl';
+  locale: 'nl' | 'en';
   pageTitle: string;
   pageDescription: string;
   pageUrl: string;

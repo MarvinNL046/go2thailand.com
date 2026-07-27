@@ -103,7 +103,7 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
               {items.map(item => (
                 <Link
                   key={item.id}
-                  href={`/practical-info/${item.slug}/`}
+                  href={item.slug === 'packing-list' ? '/travel-gear/' : `/practical-info/${item.slug}/`}
                   className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-8 group text-center"
                 >
                   <div className="text-5xl mb-4">{item.icon}</div>

@@ -552,7 +552,7 @@ Ja. Een typische route zou kunnen zijn: Phuket (2 nachten) → Phi Phi (1 nacht)
 Zwemmen is mogelijk maar riskant. Rode vlaggen duiden gevaarlijke omstandigheden aan. Oosterse eilanden (Koh Chang, Koh Samet) zijn veiliger tijdens de moesson dan westelijke (Phuket, Krabi). Check altijd lokale omstandigheden voordat je het water in gaat.
 
 ### Wat moet ik inpakken voor een strandreis?
-Essentials: zonnebrand (SPF 50+), lichte kleding, rifveilige zonnebrand, snorkeluitrusting (optioneel), waterdichte telefoonhoes en een lichte regenjas voor het regenseizoen. Zie onze [inpaklijst](https://go2-thailand.com/practical-info/packing-list/) voor gedetailleerde aanbevelingen.
+Essentials: zonnebrand (SPF 50+), lichte kleding, rifveilige zonnebrand, snorkeluitrusting (optioneel), waterdichte telefoonhoes en een lichte regenjas voor het regenseizoen. Zie onze [inpaklijst](/nl/travel-gear/) voor gedetailleerde aanbevelingen.
 
 ### Hoe kom ik bij de stranden van Thailand?
 Vlieg naar [Bangkok](https://go2-thailand.com/city/bangkok/), [Phuket](https://go2-thailand.com/city/phuket/) of Krabi. Vandaar ferries of speedboten naar de eilanden. Internationale vluchten naar Phuket en Krabi zijn vaak goedkoper dan combinaties via Bangkok – overweeg KLM vanaf Schiphol.

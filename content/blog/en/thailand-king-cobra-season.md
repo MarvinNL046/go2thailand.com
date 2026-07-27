@@ -362,7 +362,7 @@ Packing correctly makes the difference between a comfortable expedition and a mi
 - Field guide to Thai reptiles
 - Notebook for recording sightings
 
-For more detailed packing advice, see our [Thailand packing list](https://go2thailand.com/practical-info/packing-list/). If you plan to camp near jungle sites, our [Thailand camping and national parks guide](/blog/camping-thailand-national-parks-guide-2026/) covers everything from gear to permit requirements.
+For more detailed packing advice, see our [Thailand packing list](/travel-gear/). If you plan to camp near jungle sites, our [Thailand camping and national parks guide](/blog/camping-thailand-national-parks-guide-2026/) covers everything from gear to permit requirements.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

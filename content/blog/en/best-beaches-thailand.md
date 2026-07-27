@@ -555,7 +555,7 @@ Yes. A typical itinerary might be: Phuket (2 nights) → Phi Phi (1 night) → K
 Swimming is possible but risky. Red flags indicate dangerous conditions. Eastern islands (Koh Chang, Koh Samet) are safer during monsoon than western islands (Phuket, Krabi). Always check local conditions before entering the water.
 
 ### What should I pack for a beach trip?
-Essentials: sunscreen (SPF 50+), lightweight clothing, reef-safe sunscreen, snorkel gear (optional), waterproof phone case, and a light rain jacket for monsoon season. See our [packing list](https://go2-thailand.com/practical-info/packing-list/) for detailed recommendations.
+Essentials: sunscreen (SPF 50+), lightweight clothing, reef-safe sunscreen, snorkel gear (optional), waterproof phone case, and a light rain jacket for monsoon season. See our [packing list](/travel-gear/) for detailed recommendations.
 
 ### How do I get to Thailand's beaches?
 Fly into [Bangkok](https://go2-thailand.com/city/bangkok/), [Phuket](https://go2-thailand.com/city/phuket/), or Krabi. From there, take ferries or speedboats to islands. International flights to Phuket and Krabi are often cheaper than Bangkok-to-island combinations.

@@ -471,7 +471,7 @@ Zodra je je retreat hebt gekozen:
 2. **Regel vervoer** naar de retreatlocatie
 3. **Bereid vereiste documenten voor** (paspoort, visumdocumenten, medische dossiers indien relevant)
 4. **Informeer je bank** over reisdata om blokkades te voorkomen
-5. **Pak geschikt** (check de [paklijst](https://go2-thailand.com/practical-info/packing-list/) voor Thailand)
+5. **Pak geschikt** (check de [paklijst](/nl/travel-gear/) voor Thailand)
 6. **Regel reisverzekering** ([Thailand reisverzekering](https://go2-thailand.com/travel-insurance-thailand/) is sterk aanbevolen)
 7. **Kom vroeg aan** indien mogelijk om te acclimatiseren en personeel te ontmoeten
 

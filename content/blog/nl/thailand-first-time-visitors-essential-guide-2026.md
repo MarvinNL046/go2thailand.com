@@ -521,7 +521,7 @@ Absoluut. Medische noodgevallen, vluchtannuleringen en diefstal kunnen gebeuren.
 
 ### Wat moet ik inpakken?
 
-Lichte kleding (katoen, ademende stoffen), comfortabele wandelschoenen, zonnebrand (SPF 50+), een lichte regenjas, een universele stekkeradapter en receptmedicijnen. Zie onze [inpaklijst](https://go2-thailand.com/practical-info/packing-list/) voor een complete checklist.
+Lichte kleding (katoen, ademende stoffen), comfortabele wandelschoenen, zonnebrand (SPF 50+), een lichte regenjas, een universele stekkeradapter en receptmedicijnen. Zie onze [inpaklijst](/nl/travel-gear/) voor een complete checklist.
 
 ### Kan ik mijn verblijf verlengen voorbij 30 dagen?
 

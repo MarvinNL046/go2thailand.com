@@ -492,7 +492,7 @@ Yes, Phuket is more expensive than [explore our Koh Samui island guide](https://
 
 ### What should I pack for Phuket?
 
-Sunscreen (SPF 50+), swimsuit, light clothing, flip-flops, and a light rain jacket (even in dry season, afternoon showers happen). Bring an International Driving Permit if you plan to rent a scooter. See our [practical packing list](https://go2-thailand.com/practical-info/packing-list/) for more details.
+Sunscreen (SPF 50+), swimsuit, light clothing, flip-flops, and a light rain jacket (even in dry season, afternoon showers happen). Bring an International Driving Permit if you plan to rent a scooter. See our [practical packing list](/travel-gear/) for more details.
 
 ### Can I island-hop from Phuket?
 

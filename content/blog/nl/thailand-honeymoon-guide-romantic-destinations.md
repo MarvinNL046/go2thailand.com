@@ -606,7 +606,7 @@ Sluit een uitgebreide reisverzekering af die medische noodgevallen, annuleringsk
 
 **Valuta:** Thaise Baht (฿). Geldautomaten overal. Pinnen in Bangkok voor beste wisselkoersen.
 
-**Inpakken:** Neem lichte kleding, badkleding, zonnebrand (SPF 50+), een lichte regenjas en medicijnen mee. Bekijk onze [inpaklijst](https://go2-thailand.com/practical-info/packing-list/) voor details.
+**Inpakken:** Neem lichte kleding, badkleding, zonnebrand (SPF 50+), een lichte regenjas en medicijnen mee. Bekijk onze [inpaklijst](/nl/travel-gear/) voor details.
 
 ---
 
@@ -638,7 +638,7 @@ Thailand is over het algemeen veilig voor toeristen. Gebruik gezond verstand met
 
 ### Wat pakken we in voor een Thailand honeymoon?
 
-Lichte, ademende kleding, badkleding, zonnebrand (SPF 50+), een lichte regenjas, comfortabele wandelschoenen en benodigde medicijnen. Bekijk onze [inpaklijst](https://go2-thailand.com/practical-info/packing-list/) voor een complete gids.
+Lichte, ademende kleding, badkleding, zonnebrand (SPF 50+), een lichte regenjas, comfortabele wandelschoenen en benodigde medicijnen. Bekijk onze [inpaklijst](/nl/travel-gear/) voor een complete gids.
 
 ### Wat is de gemiddelde kosten van een Thailand honeymoon?
 

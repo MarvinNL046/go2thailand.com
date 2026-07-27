@@ -471,7 +471,7 @@ Once you've selected your retreat:
 2. **Arrange transportation** to the retreat location
 3. **Prepare required documents** (passport, visa documentation, medical records if relevant)
 4. **Notify your bank** of travel dates to avoid card blocks
-5. **Pack appropriately** (check the [packing list](https://go2-thailand.com/practical-info/packing-list/) for Thailand)
+5. **Pack appropriately** (check the [packing list](/travel-gear/) for Thailand)
 6. **Arrange travel insurance** ([Thailand travel insurance](https://go2-thailand.com/travel-insurance-thailand/) is highly recommended)
 7. **Arrive early** if possible to acclimate and meet staff
 

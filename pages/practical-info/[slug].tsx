@@ -448,8 +448,18 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
+
+  if (slug === "packing-list") {
+    return {
+      redirect: {
+        destination: locale === "nl" ? "/nl/travel-gear/" : "/travel-gear/",
+        permanent: true,
+      },
+    };
+  }
+
   const info = getPracticalInfoBySlug(slug);
 
   if (!info) {

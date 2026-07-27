@@ -492,7 +492,7 @@ Ja, Phuket is duurder dan [ontdek onze Koh Samui-eilandgids](https://go2-thailan
 
 ### Wat moet ik inpakken voor Phuket?
 
-Zonnecrème (SPF 50+), badkleding, lichte kleding, teenslippers en een lichte regenjas (zelfs in droogseizoen kunnen middagbuien komen). Neem een internationaal rijbewijs mee als je een scooter huurt. Bekijk onze [praktische paklijst](https://go2-thailand.com/practical-info/packing-list/) voor meer details.
+Zonnecrème (SPF 50+), badkleding, lichte kleding, teenslippers en een lichte regenjas (zelfs in droogseizoen kunnen middagbuien komen). Neem een internationaal rijbewijs mee als je een scooter huurt. Bekijk onze [praktische paklijst](/nl/travel-gear/) voor meer details.
 
 ### Kan ik eilandhoppen vanaf Phuket?
 

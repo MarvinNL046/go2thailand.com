@@ -1,18 +1,18 @@
 # Route inventory
 
-Generated: 2026-07-26T17:10:09.947Z
+Generated: 2026-07-27T20:04:16.381Z
 
-- Total sitemap URLs: 2298
-- English URLs: 1602
-- Dutch URLs: 696
-- URLs without a language pair: 936
+- Total sitemap URLs: 2293
+- English URLs: 1598
+- Dutch URLs: 695
+- URLs without a language pair: 935
 
 ## Page families
 
 | page type | URLs |
 |---|---:|
 | attraction-detail | 71 |
-| blog | 551 |
+| blog | 548 |
 | commercial-activity | 106 |
 | comparison | 1 |
 | destination-detail | 66 |
@@ -28,7 +28,7 @@ Generated: 2026-07-26T17:10:09.947Z
 | location-directory | 54 |
 | other | 55 |
 | phuket-location | 30 |
-| practical | 31 |
+| practical | 29 |
 | region | 10 |
 | transport | 70 |
 | travel-guide | 103 |
@@ -38,12 +38,12 @@ Generated: 2026-07-26T17:10:09.947Z
 
 | recommended action | URLs |
 |---|---:|
-| freshness-audit | 654 |
+| freshness-audit | 651 |
 | indexation-audit | 429 |
 | keep-improve | 468 |
 | manual-audit | 55 |
 | merge-candidate | 55 |
-| template-audit | 323 |
+| template-audit | 321 |
 | template-improve | 314 |
 
 ## Decision rules

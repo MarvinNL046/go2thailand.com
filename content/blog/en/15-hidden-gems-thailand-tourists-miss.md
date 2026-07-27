@@ -650,7 +650,7 @@ Yes, but plan carefully. Most require 2–3 days to explore. A 10–14 day trip 
 - Reusable water bottle
 - Portable charger for your phone
 
-See our [packing list guide](https://go2-thailand.com/practical-info/packing-list/) for detailed recommendations.
+See our [packing list guide](/travel-gear/) for detailed recommendations.
 
 ### Are these places suitable for families?
 

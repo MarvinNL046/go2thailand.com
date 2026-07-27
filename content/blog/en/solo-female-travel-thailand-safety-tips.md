@@ -459,7 +459,7 @@ Use discretion. With other travelers and tourism workers, being solo is normal a
 
 ### What should I pack for solo travel in Thailand?
 
-Pack light. You'll do laundry frequently, and heavy luggage is a burden. Essentials: lightweight clothes, comfortable walking shoes, swimwear, sunscreen, a small first-aid kit, a power bank, and a lightweight daypack. Leave space for souvenirs. See our [packing list guide](https://go2-thailand.com/practical-info/packing-list/) for details.
+Pack light. You'll do laundry frequently, and heavy luggage is a burden. Essentials: lightweight clothes, comfortable walking shoes, swimwear, sunscreen, a small first-aid kit, a power bank, and a lightweight daypack. Leave space for souvenirs. See our [packing list guide](/travel-gear/) for details.
 
 ### Can I extend my stay beyond 30 days?
 

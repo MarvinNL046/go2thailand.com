@@ -612,7 +612,7 @@ Purchase comprehensive travel insurance covering medical emergencies, trip cance
 
 **Currency:** Thai Baht (฿). ATMs are everywhere. Withdraw cash in Bangkok for best exchange rates.
 
-**Packing:** Bring light clothing, swimwear, sunscreen, and a light rain jacket. See our [packing list](https://go2-thailand.com/practical-info/packing-list/) for details.
+**Packing:** Bring light clothing, swimwear, sunscreen, and a light rain jacket. See our [packing list](/travel-gear/) for details.
 
 ---
 
@@ -644,7 +644,7 @@ Thailand is generally safe for tourists. Use common sense with valuables, avoid 
 
 ### What should we pack for a Thailand honeymoon?
 
-Light, breathable clothing, swimwear, sunscreen (SPF 50+), a light rain jacket, comfortable walking shoes, and any medications you need. See our [packing list](https://go2-thailand.com/practical-info/packing-list/) for a complete guide.
+Light, breathable clothing, swimwear, sunscreen (SPF 50+), a light rain jacket, comfortable walking shoes, and any medications you need. See our [packing list](/travel-gear/) for a complete guide.
 
 ### What is the average cost of a Thailand honeymoon?
 

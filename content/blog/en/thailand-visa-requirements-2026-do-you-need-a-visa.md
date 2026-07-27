@@ -132,7 +132,7 @@ Failure means denial at the gate—don't skip it.
 
 ### Linking to Your Stay
 
-Tie it to your [practical info](https://go2-thailand.com/practical-info/) like [packing list](https://go2-thailand.com/practical-info/packing-list/) and [health vaccinations](https://go2-thailand.com/practical-info/health-vaccinations/).
+Tie it to your [practical info](https://go2-thailand.com/practical-info/) like [packing list](/travel-gear/) and [health vaccinations](https://go2-thailand.com/practical-info/health-vaccinations/).
 
 > **Did You Know?** All passengers must complete TDAC; stays over 90 days require 90-day reporting to immigration.
 >

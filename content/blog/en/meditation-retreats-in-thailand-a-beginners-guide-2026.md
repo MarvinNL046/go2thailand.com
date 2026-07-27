@@ -291,6 +291,6 @@ Yes, central temples offer 1-3 day options, 1-2 hours from [Bangkok travel guide
 Common in temples for safety/cultural norms; specify on application. Solo females report high comfort levels.
 
 ### What should I pack for a **meditation retreat in Thailand**?
-Breathable clothes, flashlight, toiletries, meds. No valuables/tech; see packing essentials above or [packing list](https://go2-thailand.com/practical-info/packing-list/).
+Breathable clothes, flashlight, toiletries, meds. No valuables/tech; see packing essentials above or [packing list](/travel-gear/).
 
 In summary, **meditation retreats in Thailand** offer beginners profound resets in idyllic settings—north for depth, south for serenity. Book now for 2026's cool season via [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) or [northern itineraries](https://go2-thailand.com/itineraries/5-days-northern/). As locals with years on the ground, we vouch for their transformative power—your mind will thank you. [Plan your Thailand trip today](https://go2-thailand.com/thailand-travel-guide/).

@@ -362,7 +362,7 @@ Juist inpakken maakt het verschil tussen een comfortabele expeditie en een ellen
 - Veldgids voor Thaise reptielen
 - Notitieboekje voor waarnemingen
 
-Voor gedetailleerder inpakadvies, zie onze [Thailand inpaklijst](https://go2thailand.com/practical-info/packing-list/). Als je plant te kamperen bij jungle-sites, dekt onze [Thailand kamperen en nationale parken gids](/blog/camping-thailand-national-parks-guide-2026/) alles van uitrusting tot vergunningen.
+Voor gedetailleerder inpakadvies, zie onze [Thailand inpaklijst](/nl/travel-gear/). Als je plant te kamperen bij jungle-sites, dekt onze [Thailand kamperen en nationale parken gids](/blog/camping-thailand-national-parks-guide-2026/) alles van uitrusting tot vergunningen.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

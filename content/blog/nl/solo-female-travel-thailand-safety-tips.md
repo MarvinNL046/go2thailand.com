@@ -459,7 +459,7 @@ Wees discreet. Tegen andere reizigers en toerisme-werkers is solo normaal en vei
 
 ### Wat moet ik inpakken voor solo reizen in Thailand?
 
-Pak licht. Je wast vaak, en zwaar baggage is een last. Essentials: lichte kleding, comfortabele wandelschoenen, badkleding, zonnebrand, een kleine EHBO-kit, powerbank en lichte dagrugzak. Laat ruimte voor souvenirs. Zie onze [paklijst gids](https://go2-thailand.com/practical-info/packing-list/) voor details.
+Pak licht. Je wast vaak, en zwaar baggage is een last. Essentials: lichte kleding, comfortabele wandelschoenen, badkleding, zonnebrand, een kleine EHBO-kit, powerbank en lichte dagrugzak. Laat ruimte voor souvenirs. Zie onze [paklijst gids](/nl/travel-gear/) voor details.
 
 ### Kan ik mijn verblijf verlengen voorbij 30 dagen?
 

@@ -650,7 +650,7 @@ Ja, maar plan goed. Voor de meeste heb je 2–3 dagen nodig. Een reis van 10–1
 - Herbruikbare drinkfles
 - Powerbank voor je telefoon
 
-Bekijk onze [paklijst-gids](https://go2-thailand.com/practical-info/packing-list/) voor gedetailleerde aanbevelingen.
+Bekijk onze [paklijst-gids](/nl/travel-gear/) voor gedetailleerde aanbevelingen.
 
 ### Zijn deze plekken geschikt voor gezinnen?
 

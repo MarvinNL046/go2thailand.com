@@ -35,7 +35,7 @@ Imagine stepping off a plane in Bangkok under a clear blue sky, ready to explore
 | **How do I get there?** | Fly into Suvarnabhumi Airport (BKK) for Bangkok or Phuket International (HKT) for the south; domestic [flights](https://trip.tpo.lv/TmObooZ5?subid=blog) via [Flights To Bangkok](https://go2-thailand.com/flights-to-bangkok/) or [Flights To Chiang Mai](https://go2-thailand.com/flights-to-chiang-mai/) connect easily. |
 | **Is it safe?** | Generally safe year-round, but wet season brings slippery roads and flooding risks in low-lying areas like Bangkok; dry season has higher theft in crowded spots. |
 | **What should I book in advance?** | [Accommodations](https://booking.tpo.lv/2PT1kR82?subid=blog) and flights during dry season peaks (December-February); ferries to islands in wet season to avoid cancellations. |
-| **What to pack?** | Lightweight clothes and sunscreen for dry; rain gear and quick-dry fabrics for wet—check our [Packing List](https://go2-thailand.com/practical-info/packing-list/). |
+| **What to pack?** | Lightweight clothes and sunscreen for dry; rain gear and quick-dry fabrics for wet—check our [Packing List](/travel-gear/). |
 | **Crowd levels?** | Dry season sees peak crowds at beaches like Phuket; wet season offers quieter experiences in Chiang Mai temples. |
 
 ## 1. Understanding Thailand's Climate Basics

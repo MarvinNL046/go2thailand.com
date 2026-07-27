@@ -521,7 +521,7 @@ Absolutely. Medical emergencies, flight cancellations, and theft can happen. Tra
 
 ### What should I pack?
 
-Lightweight clothing (cotton, breathable fabrics), comfortable walking shoes, sunscreen (SPF 50+), a lightweight rain jacket, a universal power adapter, and any prescription medications. See our [packing list](https://go2-thailand.com/practical-info/packing-list/) for a complete checklist.
+Lightweight clothing (cotton, breathable fabrics), comfortable walking shoes, sunscreen (SPF 50+), a lightweight rain jacket, a universal power adapter, and any prescription medications. See our [packing list](/travel-gear/) for a complete checklist.
 
 ### Can I extend my stay beyond 30 days?
 
