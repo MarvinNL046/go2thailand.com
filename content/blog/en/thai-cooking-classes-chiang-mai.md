@@ -217,7 +217,7 @@ Most classes will teach you some combination of these:
 
 - **Pad Krapow Moo:** Holy basil stir-fry with pork. This teaches you about high-heat cooking and the importance of fresh herbs.
 
-- **[Som Tam](/blog/som-tam-regional-variations-thailand/):** Green papaya salad. This is more about technique and understanding how to balance flavors than actual cooking.
+- **[Som Tam](/food/som-tam/):** Green papaya salad. This is more about technique and understanding how to balance flavors than actual cooking.
 
 - **[Mango Sticky Rice](/blog/mango-sticky-rice-season-thailand/):** The dessert everyone knows. You'll learn how to make sticky rice properly and why coconut milk matters.
 

@@ -61,11 +61,11 @@ const data: DishEditorialData = {
     steps: ['Soak the rice noodles until flexible but not fully soft.', 'Prepare tamarind-led sauce and taste its sweet-sour-savoury balance.', 'Cook tofu, protein and egg before the final noodle toss as the recipe requires.', 'Add noodles and sauce in a manageable batch; use liquid only as needed.', 'Fold in sprouts and chives late enough to keep contrast.', 'Serve lime, peanuts and chilli separately so each eater can decide.'],
     boundary: 'Ingredient strengths, noodle brands, pan size and hob output vary. Use a tested recipe for exact quantities and safe cooking temperatures; this travel guide explains the decision structure rather than inventing one universal formula.',
   },
-  affiliate: {
+  affiliates: [{
     href: '/go/simple-thai-food-cookbook/',
     title: 'Simple Thai Food',
     text: 'A broader Thai cooking reference is more useful than a random single-use gadget. Compare the current edition, format, seller and delivery details in your local Amazon store.',
-  },
+  }],
   classHref: withSubId(KLOOK_GENERIC, 'en-pad-thai-dish-cooking-class'),
   classCopy: 'A suitable class can show noodle hydration, tamarind balance and wok sequencing in context. The linked Klook results are broad: verify that Pad Thai is actually on the current menu rather than assuming it from the class title.',
   classSignals: [

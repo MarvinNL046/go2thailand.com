@@ -138,7 +138,7 @@ Northern tom yum is less common than central or southern versions, but when you 
 
 ### Isan (Northeastern) Variations
 
-In the [Isaan region](https://go2-thailand.com/region/isaan/), tom yum takes on characteristics of Lao cuisine—sometimes with more tamarind for sourness, sometimes with extra chilies and a more rustic presentation. The distinction between tom yum and other Isan soups can blur here, but the core tom yum philosophy remains. The northeast is also home to [som tam (papaya salad)](/blog/som-tam-regional-variations-thailand/), another dish that captures the same bold, sour-spicy balance.
+In the [Isaan region](https://go2-thailand.com/region/isaan/), tom yum takes on characteristics of Lao cuisine—sometimes with more tamarind for sourness, sometimes with extra chilies and a more rustic presentation. The distinction between tom yum and other Isan soups can blur here, but the core tom yum philosophy remains. The northeast is also home to [som tam (papaya salad)](/food/som-tam/), another dish that captures the same bold, sour-spicy balance.
 
 ---
 

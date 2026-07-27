@@ -72,7 +72,7 @@ This means the food will come from the same experienced vendors who have been co
 The hawker centre showcases Bangkok's representative street food dishes. Typical Bangkok staples [confirmed by BK Magazine](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/) include:
 
 - **[Pad thai](/food/pad-thai/)** — Thailand's famous stir-fried rice noodles
-- **[Som tam](/blog/som-tam-regional-variations-thailand/)** — green papaya salad in various regional styles
+- **[Som tam](/food/som-tam/)** — green papaya salad in various regional styles
 - **Grilled skewers** — moo ping (pork) and satay (chicken) are Bangkok staples
 - **Boat noodles** — rich, dark-broth noodle soups
 - **Khao man gai** — Hainanese chicken rice

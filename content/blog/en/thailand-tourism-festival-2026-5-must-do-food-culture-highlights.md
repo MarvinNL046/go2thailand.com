@@ -28,7 +28,7 @@ The 44th Thailand Tourism Festival (TTF) opens on March 25 and runs through Marc
 
 ## What Each Pillar Offers
 
-**Must Taste** brings together regional dishes from all five parts of Thailand. More than 50 restaurants will serve specialties on-site, from northern [khao soi](/blog/khao-soi-chiang-mai-guide/) and Isaan [som tam](/blog/som-tam-regional-variations-thailand/) to southern massaman curry and central Thai boat noodles. Food vendors have been curated to represent both well-known favourites and lesser-known provincial dishes. For the full breakdown of what to eat by region, see the companion [culinary guide to the festival](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/).
+**Must Taste** brings together regional dishes from all five parts of Thailand. More than 50 restaurants will serve specialties on-site, from northern [khao soi](/blog/khao-soi-chiang-mai-guide/) and Isaan [som tam](/food/som-tam/) to southern massaman curry and central Thai boat noodles. Food vendors have been curated to represent both well-known favourites and lesser-known provincial dishes. For the full breakdown of what to eat by region, see the companion [culinary guide to the festival](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/).
 
 **Must Try** invites hands-on participation. Workshops include traditional garland-making, fruit carving, [Muay Thai](/best-muay-thai-in-thailand/) basics, and batik dyeing — each led by local artisans from different provinces.
 

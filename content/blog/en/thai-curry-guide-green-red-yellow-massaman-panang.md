@@ -344,7 +344,7 @@ Curries are almost always served with jasmine rice (khao hom mali). You can requ
 - **Khao kratiem** = Garlic rice
 - **Khao pad** = Fried rice (though this is less traditional with curry)
 
-Sides like cucumber salad (ajad) or papaya salad ([som tam](/blog/som-tam-regional-variations-thailand/)) provide cooling contrast and are worth ordering. Our [som tam guide](/blog/som-tam-regional-variations-thailand/) covers all eight regional styles and how to order them properly.
+Sides like cucumber salad (ajad) or papaya salad ([som tam](/food/som-tam/)) provide cooling contrast and are worth ordering. Our [som tam guide](/food/som-tam/) covers all eight regional styles and how to order them properly.
 
 - **Local Ordering Tip:** Point at what other customers are eating — it's the most reliable way to communicate
 - **Price Negotiation:** At markets, prices are usually fixed, but at small restaurants, you can sometimes negotiate for multiple dishes

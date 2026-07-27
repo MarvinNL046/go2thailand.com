@@ -26,7 +26,7 @@ Bangkok already owns more world-famous rooftop bars than any other city in South
 
 ## 1. Sato San — 32nd Floor, Moxy Bangkok Ratchaprasong
 
-Opened on New Year's Eve 2025, Sato San sits on the 32nd floor of the newly launched Moxy Bangkok in the Ratchaprasong district, right in the heart of the city's [shopping belt](/blog/one-bangkok-shopping-mall-tourist-guide-2026/). The concept is Thai-Isaan meets Japanese izakaya, so expect dishes like [som tam](/blog/som-tam-regional-variations-thailand/) paired with sake flights and yuzu-infused cocktails.
+Opened on New Year's Eve 2025, Sato San sits on the 32nd floor of the newly launched Moxy Bangkok in the Ratchaprasong district, right in the heart of the city's [shopping belt](/blog/one-bangkok-shopping-mall-tourist-guide-2026/). The concept is Thai-Isaan meets Japanese izakaya, so expect dishes like [som tam](/food/som-tam/) paired with sake flights and yuzu-infused cocktails.
 
 The venue has both a sleek indoor lounge and an expansive open-air terrace. Views stretch across the entire Bangkok skyline, making it an excellent sunset destination. Dress code is smart casual — no flip-flops.
 

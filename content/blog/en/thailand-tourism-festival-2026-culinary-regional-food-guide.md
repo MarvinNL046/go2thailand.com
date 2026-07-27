@@ -32,7 +32,7 @@ The festival divides Thailand into five regional villages: **North, Northeast (I
 
 **Northern Thailand** is known for milder, herbaceous flavours. Look for **[khao soi](/blog/khao-soi-chiang-mai-guide/)** (the curry noodle soup that has become a global favourite), **sai oua** (herbal pork sausage), and **nam prik ong** (tomato-chilli dip). Northern vendors at the festival typically bring ingredients straight from [Chiang Mai](/city/chiang-mai/) and [Chiang Rai](/city/chiang-rai/) markets.
 
-**Isan (Northeast)** brings the bold, fermented, and fiery side of Thai cuisine. Expect **[som tam](/blog/som-tam-regional-variations-thailand/)** variations you will not find in tourist areas, **laab** with fresh herbs, and **gai yang** (grilled chicken) served with sticky rice. Isan food is arguably the most popular regional cuisine within Thailand itself.
+**Isan (Northeast)** brings the bold, fermented, and fiery side of Thai cuisine. Expect **[som tam](/food/som-tam/)** variations you will not find in tourist areas, **laab** with fresh herbs, and **gai yang** (grilled chicken) served with sticky rice. Isan food is arguably the most popular regional cuisine within Thailand itself.
 
 **Central Thailand** covers the dishes most foreigners associate with Thai food: **[pad thai](/food/pad-thai/), [tom yum goong](/food/tom-yum-goong/), green curry**, and the rich **massaman curry** — for the full breakdown of Thai curries, see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). The festival often features vendors from [Ayutthaya](/city/ayutthaya/), Nakhon Pathom, and other provinces that are the historical heartland of these recipes.
 

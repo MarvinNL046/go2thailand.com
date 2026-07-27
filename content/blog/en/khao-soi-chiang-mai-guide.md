@@ -92,7 +92,7 @@ The Shan people, who inhabit regions of Myanmar and have significant populations
 
 ## 3. Regional Variations: Khao Soi Across Northern Thailand
 
-While **khao soi** is most famous as a Chiang Mai dish, variations exist throughout the Northern region and even in other parts of Thailand. During our time exploring Northern Thailand, we discovered that each area has subtle—and sometimes not-so-subtle—differences in how they prepare this beloved noodle curry. The same regional variation applies to [som tam](/blog/som-tam-regional-variations-thailand/)—northern versions are milder and more herbaceous than the fiery Isaan originals. And if you want to understand [how spicy northern Thai food really is](/blog/is-thai-food-spicy-guide/) compared to the south, our spice guide breaks it down region by region.
+While **khao soi** is most famous as a Chiang Mai dish, variations exist throughout the Northern region and even in other parts of Thailand. During our time exploring Northern Thailand, we discovered that each area has subtle—and sometimes not-so-subtle—differences in how they prepare this beloved noodle curry. The same regional variation applies to [som tam](/food/som-tam/)—northern versions are milder and more herbaceous than the fiery Isaan originals. And if you want to understand [how spicy northern Thai food really is](/blog/is-thai-food-spicy-guide/) compared to the south, our spice guide breaks it down region by region.
 
 ### Chiang Mai Style: The Gold Standard
 
@@ -104,7 +104,7 @@ Travel north to Chiang Rai, and you'll notice khao soi takes on a different char
 
 ### Nan and Phrae: The Subtle Cousins
 
-In smaller Northern cities like Nan and Phrae, khao soi exists but isn't as dominant in the food culture as it is in Chiang Mai. The versions we encountered tended to be lighter and sometimes slightly sweeter, with less emphasis on the crispy noodle topping. These regional variations remind us that Thai cuisine isn't monolithic—even within a single dish, geography and local preference create meaningful differences. The same principle applies to [som tam](/blog/som-tam-regional-variations-thailand/), which transforms completely between Isaan, Bangkok, and the north.
+In smaller Northern cities like Nan and Phrae, khao soi exists but isn't as dominant in the food culture as it is in Chiang Mai. The versions we encountered tended to be lighter and sometimes slightly sweeter, with less emphasis on the crispy noodle topping. These regional variations remind us that Thai cuisine isn't monolithic—even within a single dish, geography and local preference create meaningful differences. The same principle applies to [som tam](/food/som-tam/), which transforms completely between Isaan, Bangkok, and the north.
 
 | Region | Broth Character | Spice Level | Signature Variation |
 |--------|-----------------|-------------|---------------------|
@@ -183,7 +183,7 @@ Chiang Mai has hundreds of khao soi vendors, ranging from hole-in-the-wall morni
 
 ### Morning Market Stalls: The Real Deal
 
-The most authentic and affordable khao soi comes from morning market stalls. These vendors typically set up around 6 or 7 a.m. and operate until mid-morning. The [Chiang Mai night markets](https://go2-thailand.com/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/) and morning markets are where locals eat, and the quality-to-price ratio is unbeatable. While you are in the market, you will also spot vendors selling [som tam](/blog/som-tam-regional-variations-thailand/) and [mango sticky rice](/blog/mango-sticky-rice-season-thailand/)—two other dishes worth understanding before you order. Expect to pay 40–60 THB (USD $1.10–$1.65) for a generous bowl. The broth is usually freshly made each morning, and the ingredients are top-quality because vendors know their reputation depends on it.
+The most authentic and affordable khao soi comes from morning market stalls. These vendors typically set up around 6 or 7 a.m. and operate until mid-morning. The [Chiang Mai night markets](https://go2-thailand.com/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/) and morning markets are where locals eat, and the quality-to-price ratio is unbeatable. While you are in the market, you will also spot vendors selling [som tam](/food/som-tam/) and [mango sticky rice](/blog/mango-sticky-rice-season-thailand/)—two other dishes worth understanding before you order. Expect to pay 40–60 THB (USD $1.10–$1.65) for a generous bowl. The broth is usually freshly made each morning, and the ingredients are top-quality because vendors know their reputation depends on it.
 
 When we visited Chiang Mai's morning markets, we noticed that the best stalls had a few things in common: a line of customers waiting (even at 7 a.m.), a large pot of broth actively simmering, and vendors who seemed to know most of their customers by name. These are the places worth seeking out.
 

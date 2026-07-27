@@ -61,11 +61,11 @@ const data: DishEditorialData = {
     steps: ['Bruise and prepare lemongrass, galangal, shallot and lime leaves.', 'Infuse the broth before adding ingredients that cook quickly.', 'Add mushrooms and the chosen protein in an order that supports safe, even cooking.', 'Build savoury depth with the recipe’s specified stock and seasoning.', 'Add the creamy component only when making the chosen nam khon style.', 'Balance lime and chilli at the finish, then taste before serving.'],
     boundary: 'Prawn size, stock strength, chilli paste, pan geometry and serving style vary. Follow a tested recipe for exact quantities, allergen controls and safe cooking temperatures; this page explains the travel and ordering decisions.',
   },
-  affiliate: {
+  affiliates: [{
     href: '/go/simple-thai-food-cookbook/',
     title: 'Simple Thai Food',
     text: 'A broad Thai cooking reference is more useful here than a novelty soup gadget. Compare the current edition, format, seller and delivery terms in your local Amazon store.',
-  },
+  }],
   classHref: withSubId(KLOOK_GENERIC, 'en-tom-yum-goong-dish-cooking-class'),
   classCopy: 'A suitable class can demonstrate aromatic preparation, clear versus creamy broth and last-minute seasoning. The linked Klook results are broad: confirm that Tom Yum is on the current menu and ask which version you will prepare.',
   classSignals: [

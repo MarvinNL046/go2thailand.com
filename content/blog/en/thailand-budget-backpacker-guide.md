@@ -236,7 +236,7 @@ Note: This does not include international flights or **[travel insurance](/trave
 
 ## 10. Suggested Budget Itinerary (2 Weeks)
 
-- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/bangkok-street-food-beginners/), Chinatown, canal boats. Try [pad thai](/food/pad-thai/) and [som tam](/blog/som-tam-regional-variations-thailand/) from street stalls.
+- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/bangkok-street-food-beginners/), Chinatown, canal boats. Try [pad thai](/food/pad-thai/) and [som tam](/food/som-tam/) from street stalls.
 - **Days 4-6:** Overnight train to [Chiang Mai](/city/chiang-mai/) -- Old City temples, night market, [cooking class](/blog/thai-cooking-classes-chiang-mai/). Must eat: [khao soi](/blog/khao-soi-chiang-mai-guide/).
 - **Days 7-8:** Day trip to Doi Suthep, [White Temple in Chiang Rai](/blog/chiang-rai-white-temple-entrance-fee-doubles-2026/)
 - **Day 9:** Fly to Surat Thani (budget airline), ferry to [Koh Tao](/islands/koh-tao/)
@@ -256,7 +256,7 @@ Before you go, make sure you have:
 - A basic understanding of [Thai money and ATMs](/practical-info/atm-money/)
 - Knowledge of [common scams](/practical-info/scams-safety/) to watch out for
 
-Check our [visa guide](/visa/) to make sure you can stay long enough to enjoy it all. For food planning, bookmark the [Thai street food guide](/blog/thai-street-food-guide-2026/), the [mango sticky rice season guide](/blog/mango-sticky-rice-season-thailand/) (peak April–May), and the [som tam regional guide](/blog/som-tam-regional-variations-thailand/) to eat smart everywhere you go.
+Check our [visa guide](/visa/) to make sure you can stay long enough to enjoy it all. For food planning, bookmark the [Thai street food guide](/blog/thai-street-food-guide-2026/), the [mango sticky rice season guide](/blog/mango-sticky-rice-season-thailand/) (peak April–May), and the [som tam regional guide](/food/som-tam/) to eat smart everywhere you go.
 
 ## FAQ
 

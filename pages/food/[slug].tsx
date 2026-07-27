@@ -10,6 +10,7 @@ import FoodAffiliateCTA from '../../components/FoodAffiliateCTA';
 import InlineAd from '../../components/ads/InlineAd';
 import { DutchDishGuide } from '../../components/food/DutchDishGuide';
 import { PadThaiGuideEn } from '../../components/food/PadThaiGuideEn';
+import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
 interface EnhancedDish {
@@ -104,6 +105,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'pad-thai') {
     return <PadThaiGuideEn />;
+  }
+
+  if (dish.slug === 'som-tam') {
+    return <SomTamGuideEn />;
   }
 
   if (dish.slug === 'tom-yum-goong') {

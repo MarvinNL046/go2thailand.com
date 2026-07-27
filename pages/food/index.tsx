@@ -281,17 +281,15 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                   <div>
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s007_som_tam_green_papaya")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      Som tam is arguably the most eaten dish in Thailand — Thais consume it at every meal, from breakfast to late-night snacking. Shredded unripe papaya is pounded in a clay mortar with garlic, chilies, long beans, tomatoes, dried shrimp, peanuts, lime juice, fish sauce, and palm sugar. The result is an explosive combination of crunchy, spicy, sour, sweet, and salty in every bite. Originating from Isaan (northeastern Thailand), som tam has countless regional variations: som tam thai is the milder, tourist-friendly version with peanuts and dried shrimp; som tam poo adds salted black crab for a funky, intensely savory kick; and som tam pla ra includes fermented fish sauce that locals love but can challenge uninitiated palates. Street vendors across the country pound it fresh to order, typically for 40-60 baht. Watch them adjust the chilies — four or more is standard for Thais, but asking for one or two is perfectly fine.
+                      Som Tam is a family of pounded sour-spicy salads rather than one fixed green-papaya recipe. Som Tam Thai commonly combines papaya, tomato, long beans, lime, fish sauce, palm sugar, peanuts and dried shrimp; pla-ra, crab, noodles and other fruit or vegetables identify materially different versions. Choose the version first, then discuss chilli and dietary boundaries before the mortar is used.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-60 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 100-180 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
-                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Gemiddeld tot zeer pittig — altijd aanpasbaar' : 'Medium to very hot — always adjustable'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s008_isaan_region_bangkok_any")}</p>
+                      <p><strong>{isNl ? 'Versie:' : 'Version:'}</strong> {isNl ? 'Thai, pla-ra, krab of een andere basis' : 'Thai, pla ra, crab or another base'}</p>
+                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Bespreek chili vóór het stampen' : 'Discuss chilli before pounding starts'}</p>
+                      <p><strong>{isNl ? 'Controleer:' : 'Check:'}</strong> {isNl ? 'Vissaus, gedroogde garnaal, gefermenteerde vis, krab en pinda' : 'Fish sauce, dried shrimp, fermented fish, crab and peanut'}</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/som-tam/" className="text-thailand-blue hover:underline font-semibold">{t("s009_full_som_tam_guide")}</Link>
-                      {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/som-tam-regional-variations-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s010_regional_som_tam_variations")}</Link>
                     </p>
                   </div>
                 </div>

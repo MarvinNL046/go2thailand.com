@@ -92,7 +92,7 @@ These dishes have a moderate kick but can often be ordered mild:
 
 Approach these with caution if you are not used to heat:
 
-- **[Som Tam](/food/som-tam/) (Green Papaya Salad)** -- The default version at Isaan street stalls can include a fistful of Bird's Eye chilies. You can request how many chilies you want, but "Thai spicy" Som Tam is genuinely intense. Read about the [eight regional varieties of som tam](/blog/som-tam-regional-variations-thailand/) to understand how wildly heat levels differ by region.
+- **[Som Tam](/food/som-tam/) (Green Papaya Salad)** -- The default version at Isaan street stalls can include a fistful of Bird's Eye chilies. You can request how many chilies you want, but "Thai spicy" Som Tam is genuinely intense. Read about the [eight regional varieties of som tam](/food/som-tam/) to understand how wildly heat levels differ by region.
 - **Gaeng Pa (Jungle Curry)** -- A thin, broth-based curry with **no coconut milk** to buffer the heat. Made with wild herbs and a generous amount of fresh chili. This is one of the hottest mainstream Thai curries.
 - **Larb (Minced Meat Salad)** -- A northeastern Thai salad dressed with lime, fish sauce, roasted rice powder, and plenty of crushed chili. The heat is sharp and immediate.
 - **Nam Tok (Waterfall Salad)** -- Similar to larb but made with grilled sliced meat. Equally fiery with a smoky char.

@@ -93,7 +93,7 @@ April and May align with Thailand's hot season (March–May), when daytime tempe
 
 ### Regional Variations During Peak Season
 
-In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), the northern mango sticky rice tends to be slightly less sweet than Bangkok versions, with vendors often using a higher ratio of sticky rice to sauce. In the southern provinces like Chumphon and Surat Thani, you'll find versions incorporating local touches—sometimes a sprinkle of roasted peanuts or a hint of salt to balance the sweetness. This regional diversity is mirrored in dishes like [som tam](/blog/som-tam-regional-variations-thailand/), which also changes character dramatically between north, central, and south.
+In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), the northern mango sticky rice tends to be slightly less sweet than Bangkok versions, with vendors often using a higher ratio of sticky rice to sauce. In the southern provinces like Chumphon and Surat Thani, you'll find versions incorporating local touches—sometimes a sprinkle of roasted peanuts or a hint of salt to balance the sweetness. This regional diversity is mirrored in dishes like [som tam](/food/som-tam/), which also changes character dramatically between north, central, and south.
 
 ---
 

@@ -124,7 +124,7 @@ No. While MSG is common in street food stalls and local restaurants, many higher
 
 ### Is fish sauce the same as MSG?
 
-Fish sauce is not MSG, but it is naturally rich in **glutamate**, the same amino acid compound found in MSG. This is why [Thai food tastes so deeply savory](/blog/what-makes-thai-food-spicy/) even without added MSG powder. Other glutamate-rich Thai ingredients include oyster sauce, shrimp paste, and fermented soybeans. See also our [som tam regional variations guide](/blog/som-tam-regional-variations-thailand/) for how these flavors differ across Thailand.
+Fish sauce is not MSG, but it is naturally rich in **glutamate**, the same amino acid compound found in MSG. This is why [Thai food tastes so deeply savory](/blog/what-makes-thai-food-spicy/) even without added MSG powder. Other glutamate-rich Thai ingredients include oyster sauce, shrimp paste, and fermented soybeans. See also our [som tam regional variations guide](/food/som-tam/) for how these flavors differ across Thailand.
 
 ### Can you taste MSG in food?
 

@@ -23,7 +23,7 @@ sources:
 
 ## Opening Paragraph
 
-Did you know that **Thai street food** has been recognized as one of the world's best culinary experiences? From sizzling woks to fragrant stalls, the streets of Thailand offer an endless array of flavors that capture the essence of Thai culture. If you want to understand the foundations behind these flavors, read our complete guide on [what Thai food is and what makes it unique](/blog/what-is-thai-food-cuisine-guide/). In this guide, we'll explore 15 must-try dishes that every food lover should sample in 2026. For detailed context on individual dishes, see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), the [Pad Thai street vs restaurant guide](/food/pad-thai/), and the [som tam regional variations guide](/blog/som-tam-regional-variations-thailand/).
+Did you know that **Thai street food** has been recognized as one of the world's best culinary experiences? From sizzling woks to fragrant stalls, the streets of Thailand offer an endless array of flavors that capture the essence of Thai culture. If you want to understand the foundations behind these flavors, read our complete guide on [what Thai food is and what makes it unique](/blog/what-is-thai-food-cuisine-guide/). In this guide, we'll explore 15 must-try dishes that every food lover should sample in 2026. For detailed context on individual dishes, see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), the [Pad Thai street vs restaurant guide](/food/pad-thai/), and the [som tam regional variations guide](/food/som-tam/).
 
 ## Key Takeaways
 
@@ -50,7 +50,7 @@ When we visited Bangkok, we loved Pad Thai Thip Samai, known as the best in the 
 
 ## 2. Som Tam (Green Papaya Salad)
 
-Som Tam is a refreshing salad made from shredded green papaya, tomatoes, peanuts, and a tangy dressing of lime, fish sauce, and chili. It’s a perfect dish for hot days, especially in Northeastern Thailand, where it originated. Our [guide to 8 regional som tam variations](/blog/som-tam-regional-variations-thailand/) shows how dramatically this dish changes between Isaan, Bangkok, the north, and the south.
+Som Tam is a refreshing salad made from shredded green papaya, tomatoes, peanuts, and a tangy dressing of lime, fish sauce, and chili. It’s a perfect dish for hot days, especially in Northeastern Thailand, where it originated. Our [guide to 8 regional som tam variations](/food/som-tam/) shows how dramatically this dish changes between Isaan, Bangkok, the north, and the south.
 
 ### Cultural Context
 This dish embodies the Isaan region's bold flavors and is traditionally eaten with sticky rice and grilled chicken.

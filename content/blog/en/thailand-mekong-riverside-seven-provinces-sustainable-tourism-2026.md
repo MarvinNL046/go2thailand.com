@@ -34,7 +34,7 @@ These seven provinces are known for rich cultural heritage, local traditions, an
 
 ## What Travelers Can Expect
 
-The Mekong Riverside route offers a very different pace from southern beach resorts. Think riverside homestays, local markets where Isan specialties like [som tam](/blog/som-tam-regional-variations-thailand/) and larb are prepared the way locals actually eat them, temple festivals with no tourist infrastructure, and views of the Mekong at sunrise without another foreigner in sight.
+The Mekong Riverside route offers a very different pace from southern beach resorts. Think riverside homestays, local markets where Isan specialties like [som tam](/food/som-tam/) and larb are prepared the way locals actually eat them, temple festivals with no tourist infrastructure, and views of the Mekong at sunrise without another foreigner in sight.
 
 [Nong Khai](/destinations/nong-khai/) is already a favorite among in-the-know travelers for its riverside promenade and proximity to Vientiane in Laos. Loei offers mountain scenery and the famous Phi Ta Khon ghost festival — and nearby [Chiang Khan](/city/chiang-khan/) on the Mekong is one of Thailand's most charming small towns. [Nakhon Phanom](/destinations/nakhon-phanom/) and [Mukdahan](/destinations/mukdahan/) are gateways to some of the most scenic stretches of the Mekong anywhere along its course.
 
