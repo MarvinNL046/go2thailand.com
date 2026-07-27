@@ -7,6 +7,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import { TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import citiesData from '../../data/cities/index.json';
 import ThailandWeatherHub from '../../components/weather/ThailandWeatherHub';
+import ThailandWeatherHubEn from '../../components/weather/ThailandWeatherHubEn';
 
 interface WeatherIndexProps {
   cities: Array<{
@@ -108,6 +109,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
   const isNl = locale === 'nl';
 
   if (locale === 'nl') return <ThailandWeatherHub />;
+  if (locale === 'en') return <ThailandWeatherHubEn />;
 
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, 'weather', placement);
