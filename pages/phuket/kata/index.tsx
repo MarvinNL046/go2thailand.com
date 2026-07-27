@@ -7,6 +7,7 @@ import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TRIP_GENERIC } from '../../../lib/affiliates';
 import { useSubId } from '../../../lib/useSubId';
+import KataAreaGuideEn from '../../../components/phuket/KataAreaGuideEn';
 
 interface Partner { partnerUrl: string; label: string; }
 interface Partners {
@@ -27,6 +28,16 @@ export default function KataBeachPillar({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (!isNl) {
+    return (
+      <KataAreaGuideEn
+        hotelHref={partners.trip_pillar.partnerUrl}
+        activityHref={partners.klook_pillar.partnerUrl}
+        surfingHref={partners.klook_surfing.partnerUrl}
+      />
+    );
+  }
   const placement = (p: string) => `${subId}-pseo-phuket-kata-pillar-${p}`;
 
   const breadcrumbs = [

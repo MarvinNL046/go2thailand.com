@@ -1,0 +1,940 @@
+{
+  "captured_at": "2026-07-27T10:48:51.082Z",
+  "locale": "en",
+  "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/kata-beach-thailand.html",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Make every family moment precious at Novotel. We'll take good care of you all as you're creating memories that last.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Take all the time you need to recharge, calm your senses and reconnect with those who matter to you.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Concentrate on the essentials of your meeting or event while our dedicated Novotel Ambassadors ensure its success.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "15% OFF all year round on each stay in more than 30 brands.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Select your location and language below",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Select your currency below",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "The Ultimate Kata Beach Family Holiday Guide",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "North America",
+          "url": "https://novotel.accor.com/a/en/destination/continent/hotels-north-america-c01.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/destination/continent/hotels-north-america-c01.html",
+              "anchor_text": "North America"
+            }
+          ]
+        },
+        {
+          "text": "South America",
+          "url": "https://novotel.accor.com/a/en/destination/continent/hotels-south-america-c02.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/destination/continent/hotels-south-america-c02.html",
+              "anchor_text": "South America"
+            }
+          ]
+        },
+        {
+          "text": "See all destinations",
+          "url": "https://novotel.accor.com/a/en/destination/world/hotels.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/destination/world/hotels.html",
+              "anchor_text": "See all destinations"
+            }
+          ]
+        },
+        {
+          "text": "Discover the loyalty programme",
+          "url": "https://novotel.accor.com/a/en/loyalty.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/loyalty.html",
+              "anchor_text": "Discover the loyalty programme"
+            }
+          ]
+        },
+        {
+          "text": "ALL Accor+ Subscriptions",
+          "url": "https://all.accor.com/a/en/loyalty-program/subscription-hub.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en/loyalty-program/subscription-hub.html",
+              "anchor_text": "ALL Accor+ Subscriptions"
+            }
+          ]
+        },
+        {
+          "text": "The Novotel Experience",
+          "url": "https://novotel.accor.com/a/en/novotel-experience.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/novotel-experience.html",
+              "anchor_text": "The Novotel Experience"
+            }
+          ]
+        },
+        {
+          "text": "Novotel Magazine",
+          "url": "https://novotel.accor.com/a/en/great-escape-magazine.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/great-escape-magazine.html",
+              "anchor_text": "Novotel Magazine"
+            }
+          ]
+        },
+        {
+          "text": "Flight + Hotel",
+          "url": "https://novotel.accor.com/a/en/novotel-experience/flight-hotel.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/novotel-experience/flight-hotel.html",
+              "anchor_text": "Flight + Hotel"
+            }
+          ]
+        },
+        {
+          "text": "The Great Escape Magazine",
+          "url": "https://novotel.accor.com/a/en/great-escape-magazine.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/great-escape-magazine.html",
+              "anchor_text": "The Great Escape Magazine"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Sign up to the newsletter to receive our latest offers",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "My bookings",
+          "url": "https://secure.accor.com/managebookings/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://secure.accor.com/managebookings/index.en.shtml",
+              "anchor_text": "My bookings"
+            }
+          ]
+        },
+        {
+          "text": "Find a hotel",
+          "url": "https://all.accor.com/a/en.html",
+          "urls": [
+            {
+              "url": "https://all.accor.com/a/en.html",
+              "anchor_text": "Find a hotel"
+            }
+          ]
+        },
+        {
+          "text": "Find a restaurant",
+          "url": "https://restaurantsandbars.accor.com/en/france",
+          "urls": [
+            {
+              "url": "https://restaurantsandbars.accor.com/en/france",
+              "anchor_text": "Find a restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Find a meeting room",
+          "url": "https://meetings.accor.com/portal/index.en.shtml",
+          "urls": [
+            {
+              "url": "https://meetings.accor.com/portal/index.en.shtml",
+              "anchor_text": "Find a meeting room"
+            }
+          ]
+        },
+        {
+          "text": "Find a special offer",
+          "url": "https://novotel.accor.com/a/masters/geolocated-master/en/offer-hub.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/masters/geolocated-master/en/offer-hub.html",
+              "anchor_text": "Find a special offer"
+            }
+          ]
+        },
+        {
+          "text": "Middle East",
+          "url": "https://novotel.accor.com/a/en/destination/continent/hotels-middle-east-c09.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/destination/continent/hotels-middle-east-c09.html",
+              "anchor_text": "Middle East"
+            }
+          ]
+        },
+        {
+          "text": "South America",
+          "url": "https://novotel.accor.com/a/en/destination/continent/hotels-south-america-c02.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/destination/continent/hotels-south-america-c02.html",
+              "anchor_text": "South America"
+            }
+          ]
+        },
+        {
+          "text": "The Novotel experience",
+          "url": "https://novotel.accor.com/a/en/novotel-experience.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/novotel-experience.html",
+              "anchor_text": "The Novotel experience"
+            }
+          ]
+        },
+        {
+          "text": "Novotel magazine",
+          "url": "https://novotel.accor.com/a/en/great-escape-magazine.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/en/great-escape-magazine.html",
+              "anchor_text": "Novotel magazine"
+            }
+          ]
+        },
+        {
+          "text": "All languages",
+          "url": "https://novotel.accor.com/a/select-country.html",
+          "urls": [
+            {
+              "url": "https://novotel.accor.com/a/select-country.html",
+              "anchor_text": "All languages"
+            }
+          ]
+        },
+        {
+          "text": "iOS app",
+          "url": "https://apps.apple.com/fr/app/accorhotels-reservation-dhotels/id489472613?mat_click_id=e049ba62d2de4110bf75f6dc18cf287e-20220412-14012&referrer=mat_click_id%3De049ba62d2de4110bf75f6dc18cf287e-20220412-14012%26link_click_id%3D1042332667187820012",
+          "urls": [
+            {
+              "url": "https://apps.apple.com/fr/app/accorhotels-reservation-dhotels/id489472613?mat_click_id=e049ba62d2de4110bf75f6dc18cf287e-20220412-14012&referrer=mat_click_id%3De049ba62d2de4110bf75f6dc18cf287e-20220412-14012%26link_click_id%3D1042332667187820012",
+              "anchor_text": "iOS app"
+            }
+          ]
+        },
+        {
+          "text": "Android app",
+          "url": "https://play.google.com/store/apps/details?id=com.accor.appli.hybrid&hl=fr&referrer=mat_click_id%3Dca6a7d28948a4be0a58f9e7135eb3b82-20220412-14012%26link_click_id%3D1042332595720954781&mat_click_id=ca6a7d28948a4be0a58f9e7135eb3b82-20220412-14012",
+          "urls": [
+            {
+              "url": "https://play.google.com/store/apps/details?id=com.accor.appli.hybrid&hl=fr&referrer=mat_click_id%3Dca6a7d28948a4be0a58f9e7135eb3b82-20220412-14012%26link_click_id%3D1042332595720954781&mat_click_id=ca6a7d28948a4be0a58f9e7135eb3b82-20220412-14012",
+              "anchor_text": "Android app"
+            }
+          ]
+        },
+        {
+          "text": "General Terms and Conditions of Sale",
+          "url": "https://all.accor.com/information/legal/internet-sales-conditions.fr.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/information/legal/internet-sales-conditions.fr.shtml",
+              "anchor_text": "General Terms and Conditions of Sale"
+            }
+          ]
+        },
+        {
+          "text": "Data Privacy",
+          "url": "https://all.accor.com/information/legal/data-protection.fr.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/information/legal/data-protection.fr.shtml",
+              "anchor_text": "Data Privacy"
+            }
+          ]
+        },
+        {
+          "text": "My Personal Information",
+          "url": "https://help.accor.com/s/contact?language=en_US&topicId=0TO3W000000GqhRWAS&webFormId=a0i3W000001w35jQAA",
+          "urls": [
+            {
+              "url": "https://help.accor.com/s/contact?language=en_US&topicId=0TO3W000000GqhRWAS&webFormId=a0i3W000001w35jQAA",
+              "anchor_text": "My Personal Information"
+            }
+          ]
+        },
+        {
+          "text": "Legal information",
+          "url": "https://all.accor.com/information/legal/legal-conditions.fr.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/information/legal/legal-conditions.fr.shtml",
+              "anchor_text": "Legal information"
+            }
+          ]
+        },
+        {
+          "text": "Web accessibility",
+          "url": "https://all.accor.com/web-accessibility/index.fr.shtml",
+          "urls": [
+            {
+              "url": "https://all.accor.com/web-accessibility/index.fr.shtml",
+              "anchor_text": "Web accessibility"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Planning a family trip to Kata Beach in Phuket? This guide has got you covered with the best family-friendly activities, attractions, and accommodation.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Plan your Thailand holiday",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "When it comes to family-friendly beach destinations in Phuket, Thailand, it's tough to beat Kata Beach. This 1.5-kilometre stretch of sand on Phuket's west coast is about 20 minutes from the busier tourist hub of Patong Beach. The distance may seem small but the result is a much more laid-back experience that caters to visitors of all ages.",
+            "url": "https://all.accor.com/a/en/limitless/thematics/beach/beach-in-patong-phuket-thailand.html",
+            "urls": [
+              {
+                "url": "https://all.accor.com/a/en/limitless/thematics/beach/beach-in-patong-phuket-thailand.html",
+                "anchor_text": "Patong Beach"
+              }
+            ]
+          },
+          {
+            "text": "Families love Kata Beach for its sheltered water, walkable restaurants, kid-friendly activities, and calm evening pace. There's plenty to keep kids busy in Kata. Here's what to do, where to eat, and where to stay for your next Kata visit.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Things to do in Kata Beach with kids",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Here are Kata’s best family activities within walking distance or a short drive.",
+            "url": "https://all.accor.com/a/en/limitless/thematics/top-things-to-do/things-to-do-in-phuket-thailand.html",
+            "urls": [
+              {
+                "url": "https://all.accor.com/a/en/limitless/thematics/top-things-to-do/things-to-do-in-phuket-thailand.html",
+                "anchor_text": "family activities"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Kata Beach",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Rent a sunbed and umbrella, settle in, and let the kids play. Kata beach has parasailing, jet ski hire and surf lessons if you want to get on the water, plus beachfront Thai restaurants for lunch without leaving the sand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Karon Beach",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "You'll find Karon Beach just five minutes north of Kata Beach, making it super easy to visit both in one day. It is a longer, wider stretch of sand with fewer vendors. You'll find plenty of loungers, water sports, beach bars, and fruit stalls line the sand, but the atmosphere is more relaxed than Kata.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Kata Noi Beach",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Kata Noi is a 700-metre stretch of white sand just five minutes south of Kata Beach, separated by a small rocky headland. The water is clear and shallow close to shore, and the bay stays calm for most of the dry season. It is quieter than Kata, with fewer vendors and no jet skis. If your kids want a calmer swim away from the crowds, this is the easiest option without needing a car.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Super Surf Kata",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Located at the southern end of Kata Beach, Super Surf Kata is a really cool attraction for both surf enthusiasts and wannabe surfers. It has an artificial wave machine where you can learn to surf with trained instructors. The \"Kids Flow\" option runs on a smaller, gentler wave, and is suitable for children under 12.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dino Park Mini Golf",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Dino Park is a 10-minute walk from the resort, making it a convenient stop for an hour of family-friendly fun. This Jurassic Park-themed mini-golf course winds through a rainforest filled with life-sized animatronic dinosaurs. The smoke and sounds erupting from the massive volcano just add to the ambience. After you're done putting your way around the 18-hole course, there's a themed bar and restaurant on-site.",
+            "url": "https://www.dinopark.com/",
+            "urls": [
+              {
+                "url": "https://www.dinopark.com/",
+                "anchor_text": "Dino Park"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Kata and Karon viewpoint",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Karon Viewpoint (also called Kata Viewpoint or Three Beach Viewpoint) sits on the hill road between Kata Noi and Nai Harn. From the top, you can see all three beaches at once: Kata Noi directly below, Kata Beach in the middle, and the long curve of Karon Beach in the distance.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Kata Night Market",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Located a short stroll from Novotel Phuket Kata Avista Resort & Spa, the Kata Night Market runs every evening from 4pm to 10pm. A trip to the night market is always a fun way to sample local cuisine. You'll find vendors selling all classic Thai cuisine, from pad thai, papaya salad, mango sticky rice and banana pancakes, alongside souvenirs, handicrafts and live music.",
+            "url": "https://all.accor.com/hotel/A206/index.en.shtml",
+            "urls": [
+              {
+                "url": "https://all.accor.com/hotel/A206/index.en.shtml",
+                "anchor_text": "Novotel Phuket Kata Avista Resort & Spa"
+              },
+              {
+                "url": "https://all.accor.com/a/en/limitless/thematics/food-drink/food-in-thailand.html",
+                "anchor_text": "Thai cuisine"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Where to eat near Kata Beach",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Kata has enough family-friendly restaurants within walking distance that you don't need to rely on resort dining every night.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Here are five spots that's worth a try with kids:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Two Chefs is the best all-rounder for families who need familiar food. Burgers, pasta, grilled dishes, and a kids' menu. High chairs available.",
+            "url": "https://www.twochefs.com/restaurants/kata-beach/",
+            "urls": [
+              {
+                "url": "https://www.twochefs.com/restaurants/kata-beach/",
+                "anchor_text": "Two Chefs"
+              }
+            ]
+          },
+          {
+            "text": "Eightfold is the strongest option for allergies and dietary needs. The staff adapt meals for coeliac diners and picky eaters. Thai menu only. Closed Sundays. Book ahead in peak season as it fills up fast.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The Kitchen Kata Beach is a good pick for hot or rainy evenings. Air-conditioned dining, highchairs, and a broad Thai and Western menu with large portions at fair prices.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sugar and Spice is the best value option. Rice-based single portions start from 140 baht, which makes it practical for younger children who won't finish a full plate. Thai, seafood and pizza.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At Beach Bar & Restaurant is the one to pick if you want sunset views with kids. Wood-fired pizza, Thai dishes and a beachfront setting. Ask for edge seating away from the live music if you want a quieter table.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Staying at a family-friendly resort in Kata Beach",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Novotel Phuket Kata Avista Resort & Spa is tucked away on a hilltop between Kata Beach and Karon Beach, two of the best beaches for families on the island of Phuket.",
+            "url": "https://all.accor.com/hotel/A206/index.en.shtml",
+            "urls": [
+              {
+                "url": "https://all.accor.com/hotel/A206/index.en.shtml",
+                "anchor_text": "Novotel Phuket Kata Avista Resort & Spa"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "The pools",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "At Novotel Phuket Kata Avista Resort & Spa, you'll have three swimming pools to choose from. Adults will love the swim-up bar and whirlpool in the main pool. The kids' area has a splash pad and sandy play zone, with a separate toddler pool alongside it.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Quick tip: When you want to swap the pool for the beach, Kata Beach is just a five-minute walk away. The resort even offers a free shuttle if you don't feel like walking.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "The kids' club",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "While the adults get a much-needed break, the little ones will have a blast playing games supervised at the Little Ocean Kids Club. The trained staff offer a long list of daily activities and events to keep kids entertained all day long.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Family rooms",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Opt for the Family Room and you'll get 47 square metres of space, one king bed and one queen bed, and a rain shower and a standalone bathtub.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you'd prefer even more space, the Family Suite features a living area for movie and game nights. There's also a handy kitchenette and dining area, which is great for preparing snacks and storing leftovers.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The family rooms also come with an adorable teepee for little ones to play in, separate children's toiletries and a step stool for the bathroom.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dining",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Breakfast runs as a buffet with a kids' corner. En Vogue Restaurant serves all-day dining, and the Zing pool bar and Canopy Tree Bar cover snacks and drinks through the afternoon.",
+            "url": "https://all.accor.com/hotel/A206/index.en.shtml",
+            "urls": [
+              {
+                "url": "https://all.accor.com/hotel/A206/index.en.shtml",
+                "anchor_text": "En Vogue Restaurant"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Day trips",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "The resort team can book island-hopping tours, surf lessons, and day trips to the Big Buddha and beyond.",
+            "url": "https://all.accor.com/a/en/limitless/thematics/top-things-to-do/things-to-do-in-phuket-thailand.html",
+            "urls": [
+              {
+                "url": "https://all.accor.com/a/en/limitless/thematics/top-things-to-do/things-to-do-in-phuket-thailand.html",
+                "anchor_text": "Big Buddha and beyond"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Getting to and around Kata Beach",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Kata Beach is around 45 kilometres from Phuket Airport, about an hour by car depending on traffic.",
+            "url": "https://phuket.airportthai.co.th/",
+            "urls": [
+              {
+                "url": "https://phuket.airportthai.co.th/",
+                "anchor_text": "Phuket Airport"
+              }
+            ]
+          },
+          {
+            "text": "Grab or Bolt (ride-hailing apps): The easiest option for families. A Grab from the airport to Kata costs around 900 to 1,100 baht. Bolt is usually 20 to 30% cheaper but has fewer drivers. Both apps let you pay by card.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Private transfer: Pre-book a van if you are arriving late or have car seats and heavy luggage. Costs around 1,000 to 1,800 baht depending on vehicle size. Your driver meets you in arrivals with a name sign.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Smart Bus : The budget option at 100 baht flat fare, but it takes around two hours with multiple stops and has limited luggage space. Not ideal with small children and strollers.",
+            "url": "https://phuketsmartbus.com/phuket-smart-bus-eng/",
+            "urls": [
+              {
+                "url": "https://phuketsmartbus.com/phuket-smart-bus-eng/",
+                "anchor_text": "Smart Bus"
+              }
+            ]
+          },
+          {
+            "text": "Getting around Kata: The town is walkable. Kata Beach, Dino Park and the night market are all within a 10 to 15 minute walk. For Karon Beach or the viewpoint, a tuk-tuk costs 200 to 300 baht. Scooter rental is around 250 to 350 baht per day if you are comfortable riding.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Tips for a family holiday in Kata Beach",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Somethings you need to know to plan well:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sunbed rental on Kata Beach costs around 200 baht",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Walk south to Kata Noi for a quieter swim",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The road from hillside resorts to the beach is steep. Bring a stroller with brakes",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Visit Kata Night Market before 6pm for the shortest queues",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Red flags mean no swimming. Stick to the resort pool during monsoon season",
+            "url": "https://www.tourismthailand.org/Destinations/Provinces/phuket/350",
+            "urls": [
+              {
+                "url": "https://www.tourismthailand.org/Destinations/Provinces/phuket/350",
+                "anchor_text": "Red flags mean no swimming."
+              },
+              {
+                "url": "https://tmd.go.th/en/weather/province/phuket",
+                "anchor_text": "monsoon season"
+              }
+            ]
+          },
+          {
+            "text": "Dry season (November to April) has the calmest water. Read the Best Time to Visit Thailand guide.",
+            "url": "https://all.accor.com/a/en/limitless/thematics/travel-tips-guides/best-time-to-visit-thailand.html",
+            "urls": [
+              {
+                "url": "https://all.accor.com/a/en/limitless/thematics/travel-tips-guides/best-time-to-visit-thailand.html",
+                "anchor_text": "Best Time to Visit Thailand guide"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Frequently asked questions",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Kata is about an hour from the airport by car. Grab and Bolt are the easiest options for families (around 900 to 1,100 baht). Pre-book a private van if you are arriving late or need space for car seats and luggage.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kata is a great option for families, especially if your priorities are lower nightlife intensity, easier family dining, and a more kid-friendly beach rhythm.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you're visiting Kata beach with very young children, a great pool and a short walk to the beach are often just as important as a kids club. Many family‑friendly Phuket resorts focus on space, pools, and easy access to the sand rather than structured activities, which can be a better fit at this stage. A dedicated kids’ club tends to come into its own during rainy days, for school‑age children, or when parents want a little decompression time.",
+            "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/family-friendly-phuket-resort.html",
+            "urls": [
+              {
+                "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/family-friendly-phuket-resort.html",
+                "anchor_text": "family‑friendly Phuket resorts"
+              }
+            ]
+          },
+          {
+            "text": "When planning your trip to Phuket, be sure to save the emergency numbers, your nearest pharmacy, and at least one pediatric-capable hospital before arrival. Phuket is much better equipped than many resort islands, but the advantage only helps if parents have the contacts ready.",
+            "url": "https://thailand.go.th/issue-focus-detail/essential-tourist-assistance-contact-numbers-to-ensure-a-smooth-and-safe-journey",
+            "urls": [
+              {
+                "url": "https://thailand.go.th/issue-focus-detail/essential-tourist-assistance-contact-numbers-to-ensure-a-smooth-and-safe-journey",
+                "anchor_text": "emergency numbers"
+              }
+            ]
+          },
+          {
+            "text": "Ambulance 1669 ; Police 191 ; Tourist Police 1155 ; Fire 199",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "7 Family-Friendly Things to Do in Goa with Kids",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Candolim Beach is one of the most family-friendly beaches in Goa. Compared to busier stretches like Baga, it offers a calmer setting where children can safely play on the sand and paddle in the shallows.\n&nbsp;\nThe beach is wide and clean, with enough space to spread out, build sandcastles, or enjoy a quiet picnic. Gentle waves make it suitable for supervised swimming, while nearby cafés give you easy access to food and drinks.\n&nbsp;\nLocation: North Goa, near Candolim village, around 15km from Panaji\nOpening hours: Open all day\nCost: Free\nGood to know: Early mornings and evenings are more comfortable for families due to cooler temperatures. Lifeguards are present in designated zones, but children should always be supervised in the water.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "7 Family-Friendly Things to Do in Goa with Kids",
+            "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/things-to-do-in-goa-india.html",
+            "urls": [
+              {
+                "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/things-to-do-in-goa-india.html",
+                "anchor_text": "7 Family-Friendly Things to Do in Goa with Kids"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Essential Long-Haul Flight Tips for a Longevity-Focused Lifestyle",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Wondering what to wear on a long-haul flight? Your outfit should be light and comfortable – looking good can wait until you reach your destination. Be sure to pack extra layers in case the cabin or train carriage gets chilly.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Essential Long-Haul Flight Tips for a Longevity-Focused Lifestyle",
+            "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/long-haul-flight-tips.html",
+            "urls": [
+              {
+                "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/long-haul-flight-tips.html",
+                "anchor_text": "Essential Long-Haul Flight Tips for a Longevity-Focused Lifestyle"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "6 Family-Friendly Things to Do in Chiang Mai with Kids",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Wat Phra That Doi Suthep is one of Chiang Mai’s most important temples and the most sacred site in northern Thailand. The temple dates back to 1383, when a sacred relic believed to be part of the Buddha was placed on the back of a white elephant and released into the forest. The golden chedi at the centre of the complex is believed to house this relic, giving the site its lasting religious significance.\n&nbsp;\nIt’s an easy way to introduce children to Thai culture. Kids can watch monks performing daily rituals, hear bells ringing around the chedi, and see worshippers walking clockwise as they pray.\n&nbsp;\nThere’s a 300‑step walk to the top of the mountain, or you can take the electric tram if you’re travelling with younger children. The summit sits more than 1,000 metres above sea level and overlooks the entire Chiang Mai valley, showing how the modern city spreads out from its historic centre.\n&nbsp;\nLocation: Doi Suthep mountain, west of Chiang Mai Old City\nOpening hours: Daily, around 6am–6pm\nCost: Approx. ฿30 per adult ($1 USD), children often free\nGood to know: Shoulders and knees must be covered; early morning visits are cooler and less crowded.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "6 Family-Friendly Things to Do in Chiang Mai with Kids",
+            "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/things-to-do-in-chiang-mai-thailand.html",
+            "urls": [
+              {
+                "url": "https://novotel.accor.com/a/en/great-escape-magazine/travel/things-to-do-in-chiang-mai-thailand.html",
+                "anchor_text": "6 Family-Friendly Things to Do in Chiang Mai with Kids"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "More from Novotel",
+        "main_title": "The Ultimate Kata Beach Family Holiday Guide",
+        "author": "Accor",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}
