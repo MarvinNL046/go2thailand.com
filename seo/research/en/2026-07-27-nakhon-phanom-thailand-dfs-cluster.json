@@ -1,0 +1,603 @@
+{
+  "captured_at": "2026-07-27T02:07:07.370Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "nakhon phanom thailand",
+  "costs": {
+    "suggestions": 0.01404,
+    "related": 0.01308,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "nakhon phanom thailand",
+    "nakhon phanom province thailand",
+    "thailand nakhon phanom",
+    "nakhon phanom nightlife",
+    "weather in nakhon phanom thailand",
+    "mueang nakhon phanom nakhon phanom thailand",
+    "na kae nakhon phanom thailand",
+    "nakhon phanom hotels thailand",
+    "nakhon phanom thailand hotels",
+    "nakhon phanom thailand vietnam war",
+    "nakhon phanom to bangkok",
+    "nakhon phanom to udon thani",
+    "pla pak nakhon phanom thailand",
+    "si songkhram nakhon phanom thailand",
+    "that phanom nakhon phanom thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "nakhon phanom province thailand",
+      "volume": 390,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom thailand",
+      "volume": 390,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand nakhon phanom",
+      "volume": 390,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom airport",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom nightlife",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in nakhon phanom thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ban phaeng nakhon phanom thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mueang nakhon phanom nakhon phanom thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "na kae nakhon phanom thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom air base thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom airport departures",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom hotels thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom thailand hotels",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom thailand vietnam war",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom to udon thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom university thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pla pak nakhon phanom thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "renu nakhon nakhon phanom thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "si songkhram nakhon phanom thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "that phanom nakhon phanom thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon phanom airport car rental",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 237.12
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 101.127
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 24.141
+    },
+    {
+      "domain": "www.thaizer.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 10.257
+    },
+    {
+      "domain": "www2.nakhonphanom.go.th",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 15.366
+    },
+    {
+      "domain": "www.bestpricetravel.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.45,
+      "estimatedTraffic": 11.661
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.85
+    },
+    {
+      "domain": "www.expedia.com.hk",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 10.881
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.861
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 26.52
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.0420000000000003
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.12
+    },
+    {
+      "domain": "www.chowtraveller.com",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.613
+    },
+    {
+      "domain": "twocantravel.com",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.12
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0.3,
+      "estimatedTraffic": 8.501999999999999
+    },
+    {
+      "domain": "content.nokair.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.808
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.716
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "en.wiktionary.org",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "mapcarta.com",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.pinyourfootsteps.com",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.tourismethai.fr",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.thailex.info",
+      "avgPosition": 48.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.adventuresofjellie.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 63.18
+    },
+    {
+      "domain": "www.experiencetravelgroup.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 18.291
+    },
+    {
+      "domain": "maps.apple.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 13.181999999999999
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 7.683
+    },
+    {
+      "domain": "www.tripsavvy.com",
+      "avgPosition": 54,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.expedia.co.th",
+      "avgPosition": 54.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "alchetron.com",
+      "avgPosition": 55,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.407
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.5490000000000004
+    },
+    {
+      "domain": "www.researchgate.net",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.677
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.287
+    },
+    {
+      "domain": "sg.trip.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.0530000000000002
+    },
+    {
+      "domain": "en.thairath.co.th",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "mindtrip.ai",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.penang-traveltips.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.khaosodenglish.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.kkday.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "vexillology.fandom.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "commons.wikimedia.org",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.shutterstock.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.citypopulation.de",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.wisdomlib.org",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.ffthai.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    }
+  ]
+}
