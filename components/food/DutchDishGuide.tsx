@@ -413,7 +413,10 @@ export function DutchDishGuide({ dish, relatedDishes }: DutchDishGuideProps) {
                     <div className="flex items-center justify-between"><span className="grid h-11 w-11 place-items-center rounded-xl border border-saffron/30 bg-canvas text-jade"><Icon size={20} /></span><ExternalLink size={15} className="text-saffron-dark" /></div>
                     <h3 className="mt-6 font-display text-[1.8rem] font-semibold leading-none text-jade">{title}</h3>
                     <p className="mt-3 text-xs font-medium leading-5 text-charcoal/60">{text}</p>
-                    <span className="mt-auto pt-5 text-[10px] font-extrabold uppercase tracking-[0.12em] text-jade">Bekijk actueel aanbod</span>
+                    <span className="mt-auto flex items-center justify-between gap-3 pt-5 text-[10px] font-extrabold uppercase tracking-[0.12em] text-jade">
+                      Bekijk actuele prijs bij Amazon
+                      <ArrowRight size={13} className="shrink-0 text-saffron transition group-hover:translate-x-1" />
+                    </span>
                   </a>
                 ))}
               </div>
