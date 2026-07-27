@@ -32,6 +32,7 @@ import ThailandTouristVisaGuideEn from '../../components/visa/ThailandTouristVis
 import ThailandVisaExtensionGuide from '../../components/visa/ThailandVisaExtensionGuide';
 import ThailandVisaExtensionGuideEn from '../../components/visa/ThailandVisaExtensionGuideEn';
 import ThailandEducationVisaGuide from '../../components/visa/ThailandEducationVisaGuide';
+import ThailandEducationVisaGuideEn from '../../components/visa/ThailandEducationVisaGuideEn';
 import ThailandLtrVisaGuide from '../../components/visa/ThailandLtrVisaGuide';
 import ThailandPrivilegeGuide from '../../components/visa/ThailandPrivilegeGuide';
 
@@ -98,6 +99,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
   if (locale === 'nl' && visa.slug === 'visa-extension') return <ThailandVisaExtensionGuide />;
   if (locale !== 'nl' && visa.slug === 'visa-extension') return <ThailandVisaExtensionGuideEn />;
   if (locale === 'nl' && visa.slug === 'education-visa') return <ThailandEducationVisaGuide />;
+  if (locale !== 'nl' && visa.slug === 'education-visa') return <ThailandEducationVisaGuideEn />;
   if (locale === 'nl' && visa.slug === 'ltr-visa') return <ThailandLtrVisaGuide />;
   if (locale === 'nl' && visa.slug === 'thailand-elite-visa') return <ThailandPrivilegeGuide />;
   const breadcrumbs = generateVisaBreadcrumbs(visa);
