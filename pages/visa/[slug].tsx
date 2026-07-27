@@ -24,6 +24,7 @@ import { useSubId } from '../../lib/useSubId';
 import ThailandTdacGuide from '../../components/visa/ThailandTdacGuide';
 import ThailandTdacGuideEn from '../../components/visa/ThailandTdacGuideEn';
 import ThailandDtvGuide from '../../components/visa/ThailandDtvGuide';
+import ThailandDtvGuideEn from '../../components/visa/ThailandDtvGuideEn';
 import ThailandRetirementVisaGuide from '../../components/visa/ThailandRetirementVisaGuide';
 import ThailandRetirementVisaGuideEn from '../../components/visa/ThailandRetirementVisaGuideEn';
 import ThailandTouristVisaGuide from '../../components/visa/ThailandTouristVisaGuide';
@@ -88,6 +89,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
   if (locale === 'nl' && visa.slug === 'digital-arrival-card') return <ThailandTdacGuide />;
   if (locale !== 'nl' && visa.slug === 'digital-arrival-card') return <ThailandTdacGuideEn />;
   if (locale === 'nl' && visa.slug === 'digital-nomad-visa') return <ThailandDtvGuide />;
+  if (locale !== 'nl' && visa.slug === 'digital-nomad-visa') return <ThailandDtvGuideEn />;
   if (locale === 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuide />;
   if (locale !== 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuideEn />;
   if (locale === 'nl' && visa.slug === 'tourist-visa') return <ThailandTouristVisaGuide />;
