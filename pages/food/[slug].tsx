@@ -9,6 +9,7 @@ import FoodCityLinks from '../../components/FoodCityLinks';
 import FoodAffiliateCTA from '../../components/FoodAffiliateCTA';
 import InlineAd from '../../components/ads/InlineAd';
 import { DutchDishGuide } from '../../components/food/DutchDishGuide';
+import { PadThaiGuideEn } from '../../components/food/PadThaiGuideEn';
 
 interface EnhancedDish {
   id: number;
@@ -98,6 +99,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (isNl) {
     return <DutchDishGuide dish={dish} relatedDishes={relatedDishes} />;
+  }
+
+  if (dish.slug === 'pad-thai') {
+    return <PadThaiGuideEn />;
   }
 
   // Optimized SEO title and description (overrides lib defaults)

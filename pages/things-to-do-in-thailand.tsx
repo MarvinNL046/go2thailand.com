@@ -489,7 +489,7 @@ export default function ThingsToDoPage() {
                       <p><strong>Tip:</strong> {t("s073_order_the_quot_superb")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/blog/pad-thai-street-food-vs-restaurant-homemade/" className="text-thailand-blue hover:underline font-semibold">{t("s074_pad_thai_street_food")}</Link>
+                      <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">{t("s074_pad_thai_street_food")}</Link>
                     </p>
                   </div>
                 </div>

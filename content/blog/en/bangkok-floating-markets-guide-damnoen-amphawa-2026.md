@@ -30,7 +30,7 @@ Floating markets have been part of Thai life since the canal networks of the [Ay
 
 ## Damnoen Saduak: The Famous One
 
-Located about 100 kilometres southwest of Bangkok in Ratchaburi province, Damnoen Saduak is the floating market most visitors picture when they think of [Thailand](/blog/thailand-itinerary-first-timers/). Established during the reign of King Rama IV in the 19th century, it remains a colourful and photogenic spectacle, with dozens of wooden boats selling tropical fruits, [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), coconut ice cream, and souvenirs.
+Located about 100 kilometres southwest of Bangkok in Ratchaburi province, Damnoen Saduak is the floating market most visitors picture when they think of [Thailand](/blog/thailand-itinerary-first-timers/). Established during the reign of King Rama IV in the 19th century, it remains a colourful and photogenic spectacle, with dozens of wooden boats selling tropical fruits, [pad thai](/food/pad-thai/), coconut ice cream, and souvenirs.
 
 The key tip is to arrive early. The market is at its best between 6:00 and 9:00 AM, before the tour buses arrive. Entrance to the market area is free, but a boat ride costs between 300 and 600 baht depending on duration and route. For context on what things cost across Bangkok, see our [Bangkok budget guide](/thailand-index/budget/). By mid-morning, the narrow canals become congested with tourist boats, so an early start makes a real difference.
 

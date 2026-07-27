@@ -268,7 +268,7 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                     <p className="mt-3 text-sm">
                       <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">{t("s005_full_pad_thai_guide")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/pad-thai-street-food-vs-restaurant-homemade/" className="text-thailand-blue hover:underline font-semibold">{t("s006_street_food_vs_restaurant")}</Link>
+                      <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">{t("s006_street_food_vs_restaurant")}</Link>
                     </p>
                   </div>
                 </div>

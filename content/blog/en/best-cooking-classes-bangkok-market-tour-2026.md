@@ -26,7 +26,7 @@ sources:
 
 ## Why Take a Cooking Class in Bangkok
 
-Eating your way through [Bangkok](/blog/bangkok-street-food-beginners/) is easy. Bangkok was recently named [best city in Asia](/blog/bangkok-best-city-asia-2026-destinasian-award/), and its food scene is a big reason why. Learning to recreate those flavours at home is the souvenir that actually lasts. Bangkok's cooking schools have grown beyond basic [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/) lessons into full culinary experiences that start at a local market and end with a multi-course meal you prepared yourself.
+Eating your way through [Bangkok](/blog/bangkok-street-food-beginners/) is easy. Bangkok was recently named [best city in Asia](/blog/bangkok-best-city-asia-2026-destinasian-award/), and its food scene is a big reason why. Learning to recreate those flavours at home is the souvenir that actually lasts. Bangkok's cooking schools have grown beyond basic [pad thai](/food/pad-thai/) lessons into full culinary experiences that start at a local market and end with a multi-course meal you prepared yourself.
 
 Here are three of the [best cooking classes in Bangkok](/best-cooking-classes-in-thailand/) for 2026, each with a different style and price point. If you're planning a longer trip, our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) can help you fit a class into your schedule.
 
@@ -42,7 +42,7 @@ Back at the school, you cook **five dishes from scratch** at your own station. T
 
 For a more intimate experience, **Amita Thai Cooking Class** is run from a traditional Thai home on the bank of Bangkok Yai Canal on the Thonburi side of the river. The class includes **free pick-up and drop-off** plus a private long-tail boat ride to the house — a taste of Bangkok's [floating markets](/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) culture.
 
-Once you arrive, the family team welcomes you with appetisers and cold drinks before showing you around their herb garden. You then cook a half-day menu that typically includes **tom kha gai, [green curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), and mango sticky rice** — all using herbs picked from the garden minutes earlier.
+Once you arrive, the family team welcomes you with appetisers and cold drinks before showing you around their herb garden. You then cook a half-day menu that typically includes **tom kha gai, [green curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), [pad thai](/food/pad-thai/), and mango sticky rice** — all using herbs picked from the garden minutes earlier.
 
 **Details:** Half-day class with hotel transfers and boat ride included. The setting feels worlds away from central Bangkok despite being just across the river. Pair it with a visit to nearby [Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/) for a full day on the Thonburi side.
 

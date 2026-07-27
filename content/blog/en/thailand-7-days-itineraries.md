@@ -45,7 +45,7 @@ This is the itinerary we recommend to first-time visitors who want to understand
 
 [Bangkok](https://go2-thailand.com/city/bangkok/) deserves at least three days. On arrival, most travelers feel overwhelmed—the traffic, the heat, the sheer scale of it. But when we spent our first week here, we learned that the city reveals itself in layers. Start in the Old City around the Grand Palace and Wat Phra Kaew, then explore the floating markets at dawn (arrive by 7 AM), and finish with the rooftop bars and street food of Sukhumvit.
 
-**Day 1 specifics:** Arrive, collect [eSIM](https://saily.tpo.lv/rf9lidnE) or SIM card, settle into accommodation, explore your neighborhood on foot. Eat dinner at a local street stall—[pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), [som tam](/blog/som-tam-regional-variations-thailand/), or grilled chicken. Budget: 500–800 THB for food and transport.
+**Day 1 specifics:** Arrive, collect [eSIM](https://saily.tpo.lv/rf9lidnE) or SIM card, settle into accommodation, explore your neighborhood on foot. Eat dinner at a local street stall—[pad thai](/food/pad-thai/), [som tam](/blog/som-tam-regional-variations-thailand/), or grilled chicken. Budget: 500–800 THB for food and transport.
 
 **Day 2:** Grand Palace (entry 500 THB, dress code: covered shoulders and knees), Wat Phra Kaew, lunch at a riverside restaurant, evening long-tail boat ride through canals (500–1,000 THB per person). Budget: 1,200–1,800 THB.
 
@@ -468,7 +468,7 @@ Thai food is one of the main reasons to visit. Don't eat only at tourist restaur
 
 ### Must-Try Dishes
 
-- **[Pad Thai](/blog/pad-thai-street-food-vs-restaurant-homemade/):** Stir-fried rice noodles with egg, tofu, shrimp. 40–80 THB from a street vendor. Our guide explains why the street version tastes best.
+- **[Pad Thai](/food/pad-thai/):** Stir-fried rice noodles with a tamarind-led balance; egg, tofu, shrimp, peanuts and sauce ingredients vary by vendor, so check the version before ordering.
 - **[Som Tam](/blog/som-tam-regional-variations-thailand/):** Spicy green papaya salad. 30–60 THB. Eight regional variations exist—see our guide.
 - **[Tom Yum Goong](/blog/tom-yum-goong-guide/):** Spicy shrimp soup. 60–120 THB.
 - **[Thai Curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/):** Green, red, yellow, Massaman, or Panang. 80–150 THB. Our curry guide explains the differences.

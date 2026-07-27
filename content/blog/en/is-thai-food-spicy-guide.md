@@ -161,7 +161,7 @@ Southern Thai food competes with Isaan for the title of spiciest region but deli
 
 If you are worried about handling the heat, these practical tips will help you enjoy Thai food comfortably:
 
-1. **Build up slowly.** Start with mild dishes like [Pad Thai](/food/pad-thai/) and [Khao Man Gai](/food/khao-man-gai/) on your first days. Gradually try dishes with moderate heat as your tolerance adjusts. The [pad thai street food guide](/blog/pad-thai-street-food-vs-restaurant-homemade/) explains how to find the best version on the street.
+1. **Build up slowly.** Start with dishes that can often be ordered mildly, such as [Pad Thai](/food/pad-thai/) and [Khao Man Gai](/food/khao-man-gai/). Ask about chilli in premixed sauces instead of assuming the dish name guarantees the heat level.
 2. **Eat rice with spicy food, not water.** Plain steamed rice is far more effective at neutralising capsaicin than water. Water actually spreads the burning sensation around your mouth.
 3. **Drink milk or yoghurt.** The casein protein in dairy products binds to capsaicin and washes it away. A Thai iced tea (which contains condensed milk) also works.
 4. **A spoonful of sugar helps.** Sugar can counteract capsaicin. Many Thai tables have a sugar pot alongside the chili flakes.
@@ -189,7 +189,7 @@ If you are worried about handling the heat, these practical tips will help you e
 
 ### Is Pad Thai spicy?
 
-**No.** Traditional [Pad Thai](/food/pad-thai/) is a sweet-and-sour dish with no chili in the base recipe. Chili flakes and chili in vinegar are served on the table as optional condiments, so you control whether to add heat. Read our breakdown of [street Pad Thai vs restaurant vs homemade](/blog/pad-thai-street-food-vs-restaurant-homemade/) to find out why the street version tastes better.
+**Not necessarily.** [Pad Thai](/food/pad-thai/) is often served with chilli flakes at the side, but a vendor's premixed sauce may already contain heat. Ask before the wok starts, taste the first bite and then add chilli if you want it.
 
 ### What are the best mild Thai dishes for kids?
 

@@ -128,4 +128,4 @@ Fish sauce is not MSG, but it is naturally rich in **glutamate**, the same amino
 
 ### Can you taste MSG in food?
 
-Most people cannot identify MSG as a distinct flavor. It enhances the overall **umami** (savory) quality of a dish rather than adding its own recognizable taste. Foods with MSG tend to taste richer, deeper, and more satisfying, but the effect is subtle and blends with other flavors. If you want to explore the spice and flavor profile of Thai dishes in depth, read [is Thai food spicy](/blog/is-thai-food-spicy-guide/) and our [pad thai street food vs restaurant guide](/blog/pad-thai-street-food-vs-restaurant-homemade/).
+Most people cannot identify MSG as a distinct flavor. It enhances the overall **umami** (savory) quality of a dish rather than adding its own recognizable taste. Foods with MSG tend to taste richer, deeper, and more satisfying, but the effect is subtle and blends with other flavors. If you want to explore the spice and flavor profile of Thai dishes in depth, read [is Thai food spicy](/blog/is-thai-food-spicy-guide/) and our [pad thai street food vs restaurant guide](/food/pad-thai/).

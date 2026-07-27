@@ -56,7 +56,7 @@ If you're staying longer than 30-60 days, you need a **Tourist Visa** (60 days, 
 
 ## 2. Underestimating Costs and Blowing Your Budget in Week One
 
-Thailand is cheap—but only if you know where to eat and stay. We've watched travelers spend 3,000 THB ($85 USD) per night on a mid-range hotel, eat at tourist restaurants charging 400 THB for [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), and burn through their budget by day 5.
+Thailand is cheap—but only if you know where to eat and stay. We've watched travelers spend 3,000 THB ($85 USD) per night on a mid-range hotel, eat at tourist restaurants charging 400 THB for [pad thai](/food/pad-thai/), and burn through their budget by day 5.
 
 **The reality:** Thailand costs vary wildly depending on where you go and what you do. [Bangkok](https://go2-thailand.com/city/bangkok/) is significantly more expensive than [Chiang Mai](https://go2-thailand.com/city/chiang-mai/). Tourist zones cost 3-5x more than local areas. A meal at a street stall costs 40-60 THB; the same dish at a tourist restaurant costs 250 THB.
 

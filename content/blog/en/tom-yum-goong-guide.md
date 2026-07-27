@@ -395,7 +395,7 @@ Understanding how tom yum fits into Thai dining culture helps you appreciate it 
 
 ### Tom Yum in Thai Meals
 
-Tom yum is typically eaten as part of a larger meal, not alone. A typical Thai lunch might include tom yum, a [Thai curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), a stir-fry like [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), and rice—all shared family-style. However, eating tom yum as a solo meal with rice is completely acceptable and common, especially for lunch.
+Tom yum is typically eaten as part of a larger meal, not alone. A typical Thai lunch might include tom yum, a [Thai curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), a stir-fry like [pad thai](/food/pad-thai/), and rice—all shared family-style. However, eating tom yum as a solo meal with rice is completely acceptable and common, especially for lunch.
 
 ### The Social Aspect
 
@@ -453,7 +453,7 @@ Traditional tom yum goong isn't vegetarian (it contains shrimp and fish sauce). 
 
 The best tom yum comes from understanding its components: the aromatic herbs that define its character, the fresh shrimp that provide sweetness, the lime juice that brings brightness, and the chilies that deliver heat. When these elements come together in the right balance, you understand why this soup has conquered menus worldwide while remaining authentically Thai.
 
-For deeper exploration of Thai cuisine, check out our [comprehensive Thai food guide](https://go2-thailand.com/food/) and discover other iconic dishes — including our guides to [Thai curry varieties](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) and [pad Thai: street food vs restaurant](/blog/pad-thai-street-food-vs-restaurant-homemade/). If you're planning a trip to Thailand, our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/) and [Chiang Mai food recommendations](https://go2-thailand.com/city/chiang-mai/food/) will help you eat like a local. If you follow a plant-based diet, see our [vegan Thai food guide](/blog/vegan-thai-food-guide/) for how to order tom yum het (mushroom version) instead.
+For deeper exploration of Thai cuisine, check out our [comprehensive Thai food guide](https://go2-thailand.com/food/) and discover other iconic dishes — including our guides to [Thai curry varieties](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) and [pad Thai: street food vs restaurant](/food/pad-thai/). If you're planning a trip to Thailand, our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/) and [Chiang Mai food recommendations](https://go2-thailand.com/city/chiang-mai/food/) will help you eat like a local. If you follow a plant-based diet, see our [vegan Thai food guide](/blog/vegan-thai-food-guide/) for how to order tom yum het (mushroom version) instead.
 
 **Ready to experience tom yum in its homeland?** Start with a street stall, take a cooking class to understand the technique, and explore regional variations across Thailand. Your palate—and your appreciation for Thai culture—will be forever changed.
 

@@ -50,7 +50,7 @@ sources:
 
 ### Noodle Dishes
 
-- **[Pad Thai](/food/pad-thai/)** -- Stir-fried rice noodles with shrimp or chicken, egg, tofu, bean sprouts, and peanuts. The most famous **Thai street food** dish for good reason. Expect to pay 40-80 THB. Curious how it differs from restaurant versions? See our [Pad Thai street food vs. restaurant comparison](/blog/pad-thai-street-food-vs-restaurant-homemade/).
+- **[Pad Thai](/food/pad-thai/)** -- Stir-fried rice noodles with shrimp or chicken, egg, tofu, bean sprouts, and peanuts. The most famous **Thai street food** dish for good reason. Expect to pay 40-80 THB. Curious how it differs from restaurant versions? See our [Pad Thai street food vs. restaurant comparison](/food/pad-thai/).
 - **Boat noodles (kuay tiew ruea)** -- Small, intensely flavoured bowls of pork or beef **noodle soup**. Served in tiny portions, so order 2-3 bowls. Just 15-20 THB per bowl at stalls near **Victory Monument**.
 - **Pad see ew** -- Wide rice noodles stir-fried with soy sauce, egg, and Chinese broccoli. A reliable **comfort dish** beloved by locals and visitors alike (40-60 THB).
 

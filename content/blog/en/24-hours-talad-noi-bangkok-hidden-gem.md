@@ -87,7 +87,7 @@ When the heat hits, duck into one of the dozens of air-conditioned cafés. Order
 
 ### Lunch: Follow the Locals
 
-Skip the tourist restaurants and look for the **green flags**: stalls packed with local Thai people eating. That's where the best food is. You'll find street vendors selling [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), [som tum](/blog/som-tam-regional-variations-thailand/), grilled meats, and rice dishes for 40–80 THB ($1.10–2.25 USD) throughout the area.
+Skip the tourist restaurants and look for the **green flags**: stalls packed with local Thai people eating. That's where the best food is. You'll find street vendors selling [pad thai](/food/pad-thai/), [som tum](/blog/som-tam-regional-variations-thailand/), grilled meats, and rice dishes for 40–80 THB ($1.10–2.25 USD) throughout the area.
 
 > **Did You Know?** Half of Talad Noi borders the Chao Phraya River. You literally cannot get lost—if you keep walking in one direction, you'll reach the river. This makes it one of the most stress-free neighbourhoods in Bangkok to explore on foot.
 >

@@ -23,7 +23,7 @@ sources:
 
 ## Opening Paragraph
 
-Did you know that **Thai street food** has been recognized as one of the world's best culinary experiences? From sizzling woks to fragrant stalls, the streets of Thailand offer an endless array of flavors that capture the essence of Thai culture. If you want to understand the foundations behind these flavors, read our complete guide on [what Thai food is and what makes it unique](/blog/what-is-thai-food-cuisine-guide/). In this guide, we'll explore 15 must-try dishes that every food lover should sample in 2026. For detailed context on individual dishes, see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), the [Pad Thai street vs restaurant guide](/blog/pad-thai-street-food-vs-restaurant-homemade/), and the [som tam regional variations guide](/blog/som-tam-regional-variations-thailand/).
+Did you know that **Thai street food** has been recognized as one of the world's best culinary experiences? From sizzling woks to fragrant stalls, the streets of Thailand offer an endless array of flavors that capture the essence of Thai culture. If you want to understand the foundations behind these flavors, read our complete guide on [what Thai food is and what makes it unique](/blog/what-is-thai-food-cuisine-guide/). In this guide, we'll explore 15 must-try dishes that every food lover should sample in 2026. For detailed context on individual dishes, see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), the [Pad Thai street vs restaurant guide](/food/pad-thai/), and the [som tam regional variations guide](/blog/som-tam-regional-variations-thailand/).
 
 ## Key Takeaways
 
@@ -37,7 +37,7 @@ Did you know that **Thai street food** has been recognized as one of the world's
 
 ## 1. Pad Thai
 
-Pad Thai is arguably the most famous dish in **Thai street food** culture. This stir-fried noodle dish combines rice noodles, shrimp or chicken, eggs, bean sprouts, and peanuts, served with a wedge of lime. Originating from Chinese immigrants, it has become a staple in Thai cuisine. Read our deep dive on [street Pad Thai vs restaurant vs homemade](/blog/pad-thai-street-food-vs-restaurant-homemade/) to understand why the street version tastes different.
+Pad Thai is arguably the most famous dish in **Thai street food** culture. This stir-fried noodle dish combines rice noodles, shrimp or chicken, eggs, bean sprouts, and peanuts, served with a wedge of lime. Originating from Chinese immigrants, it has become a staple in Thai cuisine. Read our deep dive on [street Pad Thai vs restaurant vs homemade](/food/pad-thai/) to understand why the street version tastes different.
 
 ### Regional Variations
 - **Bangkok**: Often sweeter, with a focus on fresh shrimp.

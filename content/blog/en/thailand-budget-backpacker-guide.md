@@ -99,7 +99,7 @@ Air-conditioned rooms with an ensuite bathroom. Found everywhere on Booking.com 
 
 ### Lunch (30-70 THB)
 - **Khao man gai** (chicken rice): 40-50 THB
-- **[Pad Thai](/blog/pad-thai-street-food-vs-restaurant-homemade/)** from a street stall: 40-60 THB — our guide explains why street vendors beat restaurants on flavour
+- **[Pad Thai](/food/pad-thai/)** from a street stall — use our dish guide to compare ingredients, heat and street-versus-restaurant trade-offs
 - Rice with 1-2 curry toppings from a "kao gaeng" stall: 30-50 THB — see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) to know which curries are mildest
 
 ### Dinner (40-100 THB)
@@ -236,7 +236,7 @@ Note: This does not include international flights or **[travel insurance](/trave
 
 ## 10. Suggested Budget Itinerary (2 Weeks)
 
-- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/bangkok-street-food-beginners/), Chinatown, canal boats. Try [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/) and [som tam](/blog/som-tam-regional-variations-thailand/) from street stalls.
+- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/bangkok-street-food-beginners/), Chinatown, canal boats. Try [pad thai](/food/pad-thai/) and [som tam](/blog/som-tam-regional-variations-thailand/) from street stalls.
 - **Days 4-6:** Overnight train to [Chiang Mai](/city/chiang-mai/) -- Old City temples, night market, [cooking class](/blog/thai-cooking-classes-chiang-mai/). Must eat: [khao soi](/blog/khao-soi-chiang-mai-guide/).
 - **Days 7-8:** Day trip to Doi Suthep, [White Temple in Chiang Rai](/blog/chiang-rai-white-temple-entrance-fee-doubles-2026/)
 - **Day 9:** Fly to Surat Thani (budget airline), ferry to [Koh Tao](/islands/koh-tao/)
