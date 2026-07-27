@@ -64,6 +64,7 @@ import { HarborIslandBangkapiGuideEn } from '../../components/attractions/Harbor
 import PhuketSamuiComparisonGuideEn from '../../components/compare/PhuketSamuiComparisonGuideEn';
 import ThailandPhilippinesComparisonGuideEn from '../../components/compare/ThailandPhilippinesComparisonGuideEn';
 import ThailandBaliComparisonGuideEn from '../../components/compare/ThailandBaliComparisonGuideEn';
+import ThailandVietnamComparisonGuideEn from '../../components/compare/ThailandVietnamComparisonGuideEn';
 
 interface Source {
   name: string;
@@ -297,6 +298,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale === 'en' && post.slug === 'thailand-vs-bali-2026-which-is-better') {
     return <ThailandBaliComparisonGuideEn />;
+  }
+
+  if (locale === 'en' && post.slug === 'thailand-vs-vietnam-which-country-visit-2026') {
+    return <ThailandVietnamComparisonGuideEn />;
   }
 
   const breadcrumbs = [
