@@ -61,6 +61,7 @@ import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayT
 import { MuayThaiBeginnerTrainingGuideEn } from '../../components/activities/MuayThaiBeginnerTrainingGuideEn';
 import { HarborIslandBangkapiGuide } from '../../components/attractions/HarborIslandBangkapiGuide';
 import { HarborIslandBangkapiGuideEn } from '../../components/attractions/HarborIslandBangkapiGuideEn';
+import PhuketSamuiComparisonGuideEn from '../../components/compare/PhuketSamuiComparisonGuideEn';
 
 interface Source {
   name: string;
@@ -282,6 +283,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
   }
   if (locale === 'en' && post.slug === 'harbor-island-bangkok-rooftop-waterpark-2026') {
     return <HarborIslandBangkapiGuideEn />;
+  }
+
+  if (locale === 'en' && post.slug === 'phuket-vs-koh-samui-for-tourists') {
+    return <PhuketSamuiComparisonGuideEn />;
   }
 
   const breadcrumbs = [

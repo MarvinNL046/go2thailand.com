@@ -9,6 +9,7 @@ import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPa
 import SevenElevenThailandGuide from '../../components/practical/SevenElevenThailandGuide';
 import ThailandEsimSimGuide from '../../components/connectivity/ThailandEsimSimGuide';
 import VegetarianThailandGuide from '../../components/food/VegetarianThailandGuide';
+import ThailandWildlifeSafetyGuideEn from '../../components/practical/ThailandWildlifeSafetyGuideEn';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 
@@ -320,6 +321,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (guide.slug === '7-eleven-thailand') {
     return <SevenElevenThailandGuide language={lang} />;
+  }
+
+  if (lang === 'en' && guide.slug === 'dangerous-animals-thailand') {
+    return <ThailandWildlifeSafetyGuideEn />;
   }
 
   if (lang === 'nl' && guide.slug === 'vegetarian-vegan-thailand') {
