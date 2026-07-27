@@ -7,6 +7,7 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/best-cooking-classes-in-thailand';
+import ThailandCookingClassesGuideEn from '../components/food/ThailandCookingClassesGuideEn';
 
 interface CookingClass {
   name: string;
@@ -63,6 +64,10 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
   const loc = locale || 'en';
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+
+  if (!isNl) {
+    return <ThailandCookingClassesGuideEn />;
+  }
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Beste Kooklessen in Thailand' : 'Best Cooking Classes in Thailand', href: '/best-cooking-classes-in-thailand/' }

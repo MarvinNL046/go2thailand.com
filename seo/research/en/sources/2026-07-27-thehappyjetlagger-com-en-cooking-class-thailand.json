@@ -1,0 +1,629 @@
+{
+  "captured_at": "2026-07-27T09:58:25.154Z",
+  "locale": "en",
+  "url": "https://thehappyjetlagger.com/en/cooking-class-thailand/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "United Kingdom",
+          "url": "https://thehappyjetlagger.com/en/destinations/united-kingdom/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/destinations/united-kingdom/",
+              "anchor_text": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "text": "South Korea",
+          "url": "https://thehappyjetlagger.com/en/destinations/south-korea/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/destinations/south-korea/",
+              "anchor_text": "South Korea"
+            }
+          ]
+        },
+        {
+          "text": "South Africa",
+          "url": "https://thehappyjetlagger.com/en/destinations/south-africa/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/destinations/south-africa/",
+              "anchor_text": "South Africa"
+            }
+          ]
+        },
+        {
+          "text": "City trips",
+          "url": "https://thehappyjetlagger.com/en/city-trips/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/city-trips/",
+              "anchor_text": "City trips"
+            }
+          ]
+        },
+        {
+          "text": "Road Trips",
+          "url": "https://thehappyjetlagger.com/en/road-trips/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/road-trips/",
+              "anchor_text": "Road Trips"
+            }
+          ]
+        },
+        {
+          "text": "Travel hacks",
+          "url": "https://thehappyjetlagger.com/en/travel-hacks/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/travel-hacks/",
+              "anchor_text": "Travel hacks"
+            }
+          ]
+        },
+        {
+          "text": "About me",
+          "url": "https://thehappyjetlagger.com/en/about/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/about/",
+              "anchor_text": "About me"
+            }
+          ]
+        },
+        {
+          "text": "PR & Cooperations",
+          "url": "https://thehappyjetlagger.com/en/work-with-me/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/work-with-me/",
+              "anchor_text": "PR & Cooperations"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "City Guides & Insider Tips for Modern Travel.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Hotels* Cars*",
+          "url": "https://thehappyjetlagger.com/go/hotels/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/go/hotels/",
+              "anchor_text": "Hotels*"
+            },
+            {
+              "url": "https://thehappyjetlagger.com/en/legal-notice/",
+              "anchor_text": ""
+            }
+          ]
+        },
+        {
+          "text": "About me",
+          "url": "https://thehappyjetlagger.com/en/about/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/about/",
+              "anchor_text": "About me"
+            }
+          ]
+        },
+        {
+          "text": "PR & Cooperations",
+          "url": "https://thehappyjetlagger.com/en/work-with-me/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/work-with-me/",
+              "anchor_text": "PR & Cooperations"
+            }
+          ]
+        },
+        {
+          "text": "Links marked with an asterisk ( *) are affiliate links.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "© 2026 The Happy Jetlagger",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Privacy Statement",
+          "url": "https://thehappyjetlagger.com/en/privacy-statement/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/privacy-statement/",
+              "anchor_text": "Privacy Statement"
+            }
+          ]
+        },
+        {
+          "text": "Legal Notice",
+          "url": "https://thehappyjetlagger.com/en/legal-notice/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/legal-notice/",
+              "anchor_text": "Legal Notice"
+            }
+          ]
+        },
+        {
+          "text": "United Kingdom",
+          "url": "https://thehappyjetlagger.com/en/destinations/united-kingdom/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/destinations/united-kingdom/",
+              "anchor_text": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "text": "South Korea",
+          "url": "https://thehappyjetlagger.com/en/destinations/south-korea/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/destinations/south-korea/",
+              "anchor_text": "South Korea"
+            }
+          ]
+        },
+        {
+          "text": "South Africa",
+          "url": "https://thehappyjetlagger.com/en/destinations/south-africa/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/destinations/south-africa/",
+              "anchor_text": "South Africa"
+            }
+          ]
+        },
+        {
+          "text": "City trips",
+          "url": "https://thehappyjetlagger.com/en/city-trips/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/city-trips/",
+              "anchor_text": "City trips"
+            }
+          ]
+        },
+        {
+          "text": "Road Trips",
+          "url": "https://thehappyjetlagger.com/en/road-trips/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/road-trips/",
+              "anchor_text": "Road Trips"
+            }
+          ]
+        },
+        {
+          "text": "Travel hacks",
+          "url": "https://thehappyjetlagger.com/en/travel-hacks/",
+          "urls": [
+            {
+              "url": "https://thehappyjetlagger.com/en/travel-hacks/",
+              "anchor_text": "Travel hacks"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Learn to cook real Thai food right on the spot at a cooking class in Chiang Mai in the north of Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "At first I thought, hmm, a cooking class in Thailand… is that really necessary? It’s bound to be expensive and won’t be any fun anyway. Think again! Thai cuisine isn’t just delicious—it’s also easy to recreate at home. You just have to get used to the unfamiliar ingredients at first. And the best way to do that is in one of the many cooking schools. I chose a cooking class in Chiang Mai. In this post, I’ll tell you what it was like to cook Thai food properly for once.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Why take a cooking course in Thailand?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Make your own fresh Thai curry paste",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The most popular Thai dishes from Tom Kha Gai to Thai Curry",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Cooking course on a farm in Chiang Mai",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "What makes a good cooking course in Thailand?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The best places to stay in Chiang Mai",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "➜ Click here to book your cooking class in Chiang Mai *",
+            "url": "https://www.getyourguide.de/chiang-mai-l271/chiang-mai-authentischer-thai-kochkurs-und-bauernhof-besuch-t187629/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=content-middle&cmp=chiang-mai-kochkurs",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.de/chiang-mai-l271/chiang-mai-authentischer-thai-kochkurs-und-bauernhof-besuch-t187629/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=content-middle&cmp=chiang-mai-kochkurs",
+                "anchor_text": "Click here to book your cooking class in Chiang Mai"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Why take a cooking course in Thailand?",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Cooking courses are available on every corner in Thailand at reasonable prices. When you consider that you get to taste and eat everything and get a huge meal for the day, the cooking course in Chiang Mai is actually a bargain. And it’s fun too – at least I got a great group with whom the day flew by.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You will get to know the ingredients that you usually only see prepared and can later cook your favorite dish on your own at home: After the cooking course, galangal, lemongrass and kaffir lime leaves will no longer be foreign words to you!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Make your own fresh Thai curry paste",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Who would have thought it was so easy to make your very own curry paste for your typical Thai curry? In the cooking class you will be shown the main ingredients and which ones to use for a red, yellow or green curry paste.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Put everything together in the mortar, grind well and enjoy the rising aroma! You can add more or less chili as you wish and voilà: Your homemade curry paste is ready. With just a few simple steps, you can conjure up a great ingredient for cooking real Thai curries.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "➜ Recipe for a homemade curry paste",
+            "url": "https://thehappyjetlagger.com/en/curry-paste-recipe/",
+            "urls": [
+              {
+                "url": "https://thehappyjetlagger.com/en/curry-paste-recipe/",
+                "anchor_text": "Recipe for a homemade curry paste"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The most popular Thai dishes from Tom Kha Gai to Thai Curry",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "From Pad Thai to your own homemade curry: you can choose your favorite typical Thai dishes from a list. It is best to choose different ones in a group; then you can try them together. Super delicious and easy to recreate at home. We got a small recipe book for free with our cooking course in Chiang Mai.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Who’s blogging here?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hey, I’m Tatiana & the blogger behind The Happy Jetlagger. I write honestly, passionately and authentically about my travels. All tips have been researched by myself!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Are you planning a trip to Thailand?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You can find more tips for this great country in Southeast Asia here",
+            "url": "https://thehappyjetlagger.com/en/destinations/thailand-travel/",
+            "urls": [
+              {
+                "url": "https://thehappyjetlagger.com/en/destinations/thailand-travel/",
+                "anchor_text": "here"
+              }
+            ]
+          },
+          {
+            "text": "Advertising / *affiliate link",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Cooking course on a farm in Chiang Mai",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "My tip for a Thai cooking class in Chiang Mai : Some providers offer their cooking classes on farms outside the city center. The area around Chiang Mai is incredibly green and the scenery is well worth seeing! It’s a great way to get out of the city for a bit and breathe in some fresh country air. My course also included a ride on a local train.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "During the lunch break, we were able to borrow one of the (rickety, but numerous) bicycles and explore the area around the farm on our own. Real country life in Thailand! The area around Chiang Mai is very rural and offers a great contrast to the bustling city. So you can get to know a little more authentic Thailand at the same time.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "➜ Book your cooking course on a farm near Chiang Mai here *",
+            "url": "https://www.getyourguide.de/chiang-mai-l271/chiang-mai-authentischer-thai-kochkurs-und-bauernhof-besuch-t187629/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=content-middle&cmp=chiang-mai-kochkurs",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.de/chiang-mai-l271/chiang-mai-authentischer-thai-kochkurs-und-bauernhof-besuch-t187629/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=content-middle&cmp=chiang-mai-kochkurs",
+                "anchor_text": "Book your cooking course on a farm near Chiang Mai here"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "What makes a good cooking course in Thailand?",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The following is included in most cooking courses:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A visit to the local market before the actual cooking: this way you will get to know all the important ingredients in their raw state and will be able to buy them on your own next time, even if you don’t speak the language.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "All ingredients for cooking and simple drinks",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A 3- to 4-course menu – you can often choose one of several dishes to cook. It’s best to take different ones in a group, so everyone can have a go at each one.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A small recipe book with all the recipes from the course. So you can also cook the dishes at home. You can also find many of the ingredients in Asian supermarkets here in Germany.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You can take a cooking course in many other cities in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You can find a good cooking school on almost every corner.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "➜ C ooking course Bangkok*",
+            "url": "https://www.getyourguide.de/bangkok-l169/bangkok-thailandischer-kochkurs-t29238/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=%22other%22&cmp=chiang-mai-kochkurs",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.de/bangkok-l169/bangkok-thailandischer-kochkurs-t29238/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=%22other%22&cmp=chiang-mai-kochkurs",
+                "anchor_text": "ooking course Bangkok*"
+              }
+            ]
+          },
+          {
+            "text": "➜ Cooking course Phuket*",
+            "url": "https://www.getyourguide.de/phuket-l32123/phuket-einfacher-4-stundiger-thai-kochkurs-t131058/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=%22other%22&cmp=chiang-mai-kochkurs",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.de/phuket-l32123/phuket-einfacher-4-stundiger-thai-kochkurs-t131058/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=%22other%22&cmp=chiang-mai-kochkurs",
+                "anchor_text": "Cooking course Phuket*"
+              }
+            ]
+          },
+          {
+            "text": "➜ Cooking course Krabi*",
+            "url": "https://www.getyourguide.de/krabi-l2174/krabi-traditioneller-thai-kochkurs-t301143/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=%22other%22&cmp=chiang-mai-kochkurs",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.de/krabi-l2174/krabi-traditioneller-thai-kochkurs-t301143/?partner_id=UBRQ9KE&utm_medium=online_publisher&placement=%22other%22&cmp=chiang-mai-kochkurs",
+                "anchor_text": "Cooking course Krabi*"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The best places to stay in Chiang Mai",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "You’ll be surprised by the choice: There are so many affordable and stylish places to stay in Chiang Mai. I can particularly recommend the Heyha Guesthouse* !",
+            "url": "https://thehappyjetlagger.com/go/heyha-house/",
+            "urls": [
+              {
+                "url": "https://thehappyjetlagger.com/go/heyha-house/",
+                "anchor_text": "Heyha Guesthouse*"
+              }
+            ]
+          },
+          {
+            "text": "It is located a little away from the tourist center in a quieter residential area. But you can rent bicycles there and you’ll be in the old town in no time. The owners, a young Thai couple, are also super nice, helpful and very hospitable: you immediately feel at home.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Check prices and availability at Heyha Guesthouse*",
+            "url": "https://thehappyjetlagger.com/go/heyha-house/",
+            "urls": [
+              {
+                "url": "https://thehappyjetlagger.com/go/heyha-house/",
+                "anchor_text": "Check prices and availability at Heyha Guesthouse*"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The best places to stay in Chiang Mai",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "*Links marked with an asterisk (*) are affiliate links. If you book or buy something through them, I will receive a small commission. Thank you for your support!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Vielleicht gefällt dir auch",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Koh Bulone in Thailand: The Hidden Dream Island",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Koh Bulone in Thailand: The Hidden Dream Island",
+            "url": "https://thehappyjetlagger.com/en/koh-bulone/",
+            "urls": [
+              {
+                "url": "https://thehappyjetlagger.com/en/koh-bulone/",
+                "anchor_text": "Koh Bulone in Thailand: The Hidden Dream Island"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "main_title": "The Best Cooking Class in Chiang Mai, Thailand",
+        "author": "https://www.facebook.com/happyjetlagger",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Your email address will not be published. Required fields are marked *",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Comment *",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Name *",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Email *",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Here on my travel blog The Happy Jetlagger you will find inspiration for your next trip and exciting tips for a wide variety of destinations worldwide.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}
