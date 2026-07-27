@@ -10,6 +10,7 @@ import { getAllVisas } from '../../lib/visas';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/visa-index';
 import ThailandVisaGuide from '../../components/visa/ThailandVisaGuide';
+import ThailandVisaGuideEn from '../../components/visa/ThailandVisaGuideEn';
 
 interface Visa {
   id: number;
@@ -31,6 +32,10 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
 
   if (locale === 'nl') {
     return <ThailandVisaGuide />;
+  }
+
+  if (locale !== 'nl') {
+    return <ThailandVisaGuideEn />;
   }
 
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
