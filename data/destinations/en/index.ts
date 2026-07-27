@@ -8,6 +8,7 @@ import { nakhonPhanomDestinationGuideEn } from "./nakhon-phanom";
 import { nongKhaiDestinationGuideEn } from "./nong-khai";
 import { trangDestinationGuideEn } from "./trang";
 import { ubonRatchathaniDestinationGuideEn } from "./ubon-ratchathani";
+import { udonThaniDestinationGuideEn } from "./udon-thani";
 import type { DestinationGuideData } from "../types";
 
 const guides: Record<string, DestinationGuideData> = {
@@ -21,10 +22,11 @@ const guides: Record<string, DestinationGuideData> = {
   "nong-khai": nongKhaiDestinationGuideEn,
   "trang": trangDestinationGuideEn,
   "ubon-ratchathani": ubonRatchathaniDestinationGuideEn,
+  "udon-thani": udonThaniDestinationGuideEn,
 };
 
 export function getEnDestinationGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { banKrutDestinationGuideEn, buengKanDestinationGuideEn, chanthaburiDestinationGuideEn, chiangKhanDestinationGuideEn, hatYaiDestinationGuideEn, mukdahanDestinationGuideEn, nakhonPhanomDestinationGuideEn, nongKhaiDestinationGuideEn, trangDestinationGuideEn, ubonRatchathaniDestinationGuideEn };
+export { banKrutDestinationGuideEn, buengKanDestinationGuideEn, chanthaburiDestinationGuideEn, chiangKhanDestinationGuideEn, hatYaiDestinationGuideEn, mukdahanDestinationGuideEn, nakhonPhanomDestinationGuideEn, nongKhaiDestinationGuideEn, trangDestinationGuideEn, ubonRatchathaniDestinationGuideEn, udonThaniDestinationGuideEn };
