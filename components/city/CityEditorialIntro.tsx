@@ -26,6 +26,7 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
   const isRayong = citySlug === 'rayong' && !isNl;
   const isSuratThani = citySlug === 'surat-thani' && !isNl;
   const isChumphon = citySlug === 'chumphon' && !isNl;
+  const isNakhonSiThammarat = citySlug === 'nakhon-si-thammarat' && !isNl;
   const title = isKrabi
     ? (isNl ? 'Krabi in het kort' : 'Krabi at a glance')
     : isBangkok
@@ -58,6 +59,8 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
       ? 'Surat Thani at a glance'
     : isChumphon
       ? 'Chumphon at a glance'
+    : isNakhonSiThammarat
+      ? 'Nakhon Si Thammarat at a glance'
       : (isNl ? `${cityName} op z’n mooist` : `${cityName} at its finest`);
   const paragraphs = isKrabi
     ? isNl
@@ -143,6 +146,11 @@ export function CityEditorialIntro({ cityName, citySlug, editorial, imageSrc, is
       ? [
           'Chumphon is both a provincial city and a long Gulf-coast mainland destination. The railway-centred town, Thung Wua Laen beach, Sairee and Pak Nam coast, Mu Ko Chumphon National Park and ferry piers are separate planning points rather than one compact resort.',
           'For a first visit, use one evening for town and food, then one full daylight route for the mainland coast. A marine-park trip returns to Chumphon, while Koh Tao begins a separate island stay; both depend on current sea and operator conditions.',
+        ]
+    : isNakhonSiThammarat
+      ? [
+          'Nakhon Si Thammarat is both a historic southern city and the capital of a province that stretches from the Gulf coast to the Khao Luang mountains. The city itself has a strong, compact identity: Wat Phra Mahathat anchors an active religious district, while old houses, niello craft, shadow puppetry and southern food reveal the living culture around it.',
+          'For a first visit, keep the temple city and one mountain-side extension as separate chapters. Two nights gives the old core, craft and food enough room; a third day can go to Kiriwong or Phromlok. Khanom, Sichon and the wider province deserve their own routes instead of being squeezed into the city stay.',
         ]
       : [editorial].filter(Boolean);
 

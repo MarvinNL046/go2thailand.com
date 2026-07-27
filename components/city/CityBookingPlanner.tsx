@@ -37,6 +37,7 @@ export function CityBookingPlanner({
         Rayong: 'Mainland coast, old town, fruit season and selected island experiences.',
         'Surat Thani': 'Old town, southern food, canal community and selected onward experiences.',
         Chumphon: 'Mainland coast, southern food, marine nature and selected sea experiences.',
+        'Nakhon Si Thammarat': 'Temple heritage, southern food, living craft and selected mountain-village experiences.',
         Krabi: 'Island, coast, nature and local experiences.',
       }[cityName] || 'Tours, culture, nature and local experiences.');
   const transportDescription = isNl
@@ -57,6 +58,7 @@ export function CityBookingPlanner({
         Rayong: 'Bangkok bus, mainland transfer, Ban Phe and onward island connections.',
         'Surat Thani': 'Airport, Phun Phin station, city, Don Sak and onward connections.',
         Chumphon: 'Bangkok train or bus, airport, town, beach, pier and Koh Tao connections.',
+        'Nakhon Si Thammarat': 'Airport, train, city transfers and planned Kiriwong connections.',
         Krabi: 'Ferry, transfer, bus and onward connections.',
       }[cityName] || 'Transfers, buses, trains and onward connections.');
   const items = [
