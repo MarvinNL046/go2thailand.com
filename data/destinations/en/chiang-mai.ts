@@ -91,6 +91,7 @@ export const chiangMaiDestinationGuideEn: DestinationGuideData = {
     { title: "Things to do in Chiang Mai", description: "Build compact temple, mountain and deeper-experience days.", href: "/city/chiang-mai/attractions/", image: "/images/cities/chiang-mai/redesign/chiang-mai-attractions-hero.webp", imageAlt: "Chiang Mai temple route" },
     { title: "Where to stay in Chiang Mai", description: "Compare Old City, Nimman, Santitham and riverside by trip task.", href: "/where-to-stay/chiang-mai/", image: "/images/cities/chiang-mai/redesign/chiang-mai-stay-nimman.webp", imageAlt: "Chiang Mai neighbourhood stay" },
     { title: "Eat in Chiang Mai", description: "Start with khao soi, then explore Northern dishes and markets.", href: "/city/chiang-mai/food/", image: "/images/cities/chiang-mai/redesign/chiang-mai-food-khao-soi.webp", imageAlt: "Khao soi in Chiang Mai" },
+    { title: "Chiang Mai or Chiang Rai?", description: "Compare city scale, art, food, pace and a realistic northern night split.", href: "/blog/chiang-rai-vs-chiang-mai-for-tourists/", image: "/images/redesign/chiang-mai-chiang-rai-comparison-hero.webp", imageAlt: "Chiang Mai and Chiang Rai side-by-side comparison" },
   ],
   sources: [
     { title: "Chiang Mai", creator: "Tourism Authority of Thailand", url: "https://www.tourismthailand.org/Destinations/Provinces/chiang-mai/101", note: "Official destination context for culture, heritage and province geography." },

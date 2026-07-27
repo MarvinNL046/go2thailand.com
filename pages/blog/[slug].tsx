@@ -71,6 +71,7 @@ import { ThailandIslandHoppingGuideEn } from '../../components/islands/ThailandI
 import { HowLongThailandGuideEn } from '../../components/planning/HowLongThailandGuideEn';
 import { BestTimeThailandGuideEn } from '../../components/planning/BestTimeThailandGuideEn';
 import BtsBangkokConcertGuideEn from '../../components/events/BtsBangkokConcertGuideEn';
+import ChiangMaiChiangRaiComparisonGuideEn from '../../components/compare/ChiangMaiChiangRaiComparisonGuideEn';
 
 interface Source {
   name: string;
@@ -327,6 +328,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
   }
   if (locale === 'en' && post.slug === 'bts-world-tour-bangkok-december-2026-tickets-guide') {
     return <BtsBangkokConcertGuideEn />;
+  }
+  if (locale === 'en' && post.slug === 'chiang-rai-vs-chiang-mai-for-tourists') {
+    return <ChiangMaiChiangRaiComparisonGuideEn />;
   }
 
   const breadcrumbs = [
