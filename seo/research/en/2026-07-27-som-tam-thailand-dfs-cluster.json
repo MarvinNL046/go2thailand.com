@@ -1,0 +1,956 @@
+{
+  "captured_at": "2026-07-27T23:19:24.930Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "som tam thailand",
+  "costs": {
+    "suggestions": 0.01248,
+    "related": 0.01932,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "som tam thailand",
+    "som tam",
+    "som tam papaya salad",
+    "som tam thai salad",
+    "som tam salad recipe",
+    "som tam thai",
+    "som tam thai salad recipe",
+    "som tam thailand recipe",
+    "som tam salad calories",
+    "som tam beef",
+    "som tam dish",
+    "som tam recipe uk",
+    "som tam salad ingredients",
+    "som tam salad with live crab",
+    "som tam sauce ingredients",
+    "som tam sauce recipe",
+    "som tum or som tam"
+  ],
+  "keywords": [
+    {
+      "keyword": "green papaya",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam",
+      "volume": 1900,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam papaya salad",
+      "volume": 1900,
+      "kd": 35,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam thai salad",
+      "volume": 1900,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum thai salad",
+      "volume": 1900,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green papaya",
+      "volume": 1900,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "papaya salad recipe",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam salad recipe",
+      "volume": 1000,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai papaya salad recipe",
+      "volume": 1000,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai papaya salad recipes",
+      "volume": 1000,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum",
+      "volume": 880,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green papaya salad",
+      "volume": 720,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum thai",
+      "volume": 480,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam thai",
+      "volume": 260,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam dressing",
+      "volume": 170,
+      "kd": 17,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vietnamese papaya salad",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam thai salad recipe",
+      "volume": 140,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam thailand recipe",
+      "volume": 140,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum thai recipe",
+      "volume": 140,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green papaya recipe",
+      "volume": 140,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai papaya salad ingredients",
+      "volume": 140,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum salad",
+      "volume": 110,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy papaya salad recipe",
+      "volume": 90,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam salad dressing",
+      "volume": 90,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam sauce",
+      "volume": 90,
+      "kd": 7,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum recipe",
+      "volume": 90,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum salad dressing",
+      "volume": 90,
+      "kd": 19,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam salad calories",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green papaya substitute",
+      "volume": 50,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green papaya recipes",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam ingredients",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "spicy thai papaya salad",
+      "volume": 30,
+      "kd": 49,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam thailand",
+      "volume": 20,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum pla ra",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai papaya salad vegetarian",
+      "volume": 20,
+      "kd": 49,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "burmese papaya salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy papaya salad recipe thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy papaya salad recipe vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is papaya salad vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "julienned green papaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "orange papaya salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "papaya salad recipe bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "raw papaya salad indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "raw papaya salad thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ripe papaya salad recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam beef",
+      "volume": 10,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam dish",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam recipe uk",
+      "volume": 10,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam salad ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam salad with live crab",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam sauce ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tam sauce recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum dressing",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum lao",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum or som tam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum pu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum salad ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum sauce",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "som tum thai ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "resep som tam thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "masakan thailand som tam",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "som tam recipe no papaya",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 1.2,
+      "keywordCount": 5,
+      "visibility": 4.9,
+      "estimatedTraffic": 1024.04
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 4.2,
+      "keywordCount": 5,
+      "visibility": 3.4,
+      "estimatedTraffic": 448.582
+    },
+    {
+      "domain": "www.maangchi.com",
+      "avgPosition": 9.6,
+      "keywordCount": 5,
+      "visibility": 2.8000000000000003,
+      "estimatedTraffic": 258.065
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 11.8,
+      "keywordCount": 5,
+      "visibility": 1.95,
+      "estimatedTraffic": 201.163
+    },
+    {
+      "domain": "www.theguardian.com",
+      "avgPosition": 14.2,
+      "keywordCount": 5,
+      "visibility": 0.9,
+      "estimatedTraffic": 76.831
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 14.4,
+      "keywordCount": 5,
+      "visibility": 0.85,
+      "estimatedTraffic": 101.203
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 15.2,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 14.751
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 18.4,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 19.441000000000003
+    },
+    {
+      "domain": "uk.maejum.com",
+      "avgPosition": 18.8,
+      "keywordCount": 5,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 13.129000000000001
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 9.25,
+      "keywordCount": 4,
+      "visibility": 1.8,
+      "estimatedTraffic": 203.874
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 30.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.3549999999999995
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 35.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.329
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 23.25,
+      "keywordCount": 4,
+      "visibility": 1.3,
+      "estimatedTraffic": 62.289
+    },
+    {
+      "domain": "www.thai-food-online.co.uk",
+      "avgPosition": 24.5,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 18.222
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 3,
+      "visibility": 1.7999999999999998,
+      "estimatedTraffic": 93.548
+    },
+    {
+      "domain": "www.foodandwine.com",
+      "avgPosition": 43.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.329
+    },
+    {
+      "domain": "www.vegrecipesofindia.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 51.482
+    },
+    {
+      "domain": "traveleatsleeprepeat.co.uk",
+      "avgPosition": 12.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 24.381999999999998
+    },
+    {
+      "domain": "www.mycookinghut.com",
+      "avgPosition": 16,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 8.922
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 7.981999999999999
+    },
+    {
+      "domain": "www.tasteatlas.com",
+      "avgPosition": 18.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 9.834
+    },
+    {
+      "domain": "saltyplums.co.uk",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.782
+    },
+    {
+      "domain": "siam.recipes",
+      "avgPosition": 22,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 11.354000000000001
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 24,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.391
+    },
+    {
+      "domain": "siam-thailand.com",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.902999999999999
+    },
+    {
+      "domain": "thaifooddelivery.co.uk",
+      "avgPosition": 29,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 5.082
+    },
+    {
+      "domain": "www.chefspencil.com",
+      "avgPosition": 49.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.182
+    },
+    {
+      "domain": "www.der-reiskoch.de",
+      "avgPosition": 34,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 5.082
+    },
+    {
+      "domain": "vikalinka.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 18.110999999999997
+    },
+    {
+      "domain": "live-less-ordinary.com",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 11.778
+    },
+    {
+      "domain": "www.whats4eats.com",
+      "avgPosition": 55,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.182
+    },
+    {
+      "domain": "www.brasswok.com",
+      "avgPosition": 42.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.237
+    },
+    {
+      "domain": "inquiringchef.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.047
+    },
+    {
+      "domain": "ianbenites.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 9.247
+    },
+    {
+      "domain": "glebekitchen.com",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.747
+    },
+    {
+      "domain": "www.takeaway.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.496
+    },
+    {
+      "domain": "foodandroad.com",
+      "avgPosition": 51,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.237
+    },
+    {
+      "domain": "grantourismotravels.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.692
+    },
+    {
+      "domain": "www.gigglingsquid.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 15.147
+    },
+    {
+      "domain": "cooking.nytimes.com",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.247
+    },
+    {
+      "domain": "www.beyondsustenance.com",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.404
+    },
+    {
+      "domain": "foodsens.ai",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "eatyourworld.com",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "chefsojusfood.com",
+      "avgPosition": 65.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 6.7829999999999995
+    },
+    {
+      "domain": "www.yumsome.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.144
+    },
+    {
+      "domain": "www.centrepoint.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "somtamzaeb.food",
+      "avgPosition": 55,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 5.082
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.447
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.847
+    },
+    {
+      "domain": "coleycooks.com",
+      "avgPosition": 35.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.247
+    }
+  ]
+}

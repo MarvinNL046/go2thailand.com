@@ -1,0 +1,1265 @@
+{
+  "captured_at": "2026-07-27T23:19:26.269Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "tom yum thailand",
+  "costs": {
+    "suggestions": 0.01368,
+    "related": 0.0222,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "tom yum thailand",
+    "tom yum soup thailand",
+    "tom yum soup recipe",
+    "tom yum soup thailand recipe",
+    "tom yum paste recipe",
+    "tom yum soup ingredients",
+    "tom yum soup paste recipe",
+    "tom yum gai",
+    "thailand tom yum paste",
+    "tom yum soup paste",
+    "easy tom yum soup recipe",
+    "tom yum goong recipe",
+    "tom yum goong soup recipe",
+    "tom yum soup recipe authentic",
+    "tom yum soup with coconut milk",
+    "tom yum goong movie",
+    "tom yum goong soup",
+    "tom yum paste vegetarian",
+    "best tom yum paste",
+    "best tom yum soup paste"
+  ],
+  "keywords": [
+    {
+      "keyword": "tom yum soup thailand",
+      "volume": 9900,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum soup recipe",
+      "volume": 5400,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup thailand recipe",
+      "volume": 5400,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum paste",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong",
+      "volume": 1300,
+      "kd": 24,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong thailand",
+      "volume": 1300,
+      "kd": 24,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum paste recipe",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup ingredients",
+      "volume": 590,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup paste recipe",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum gai",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tom yum paste",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum soup paste",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy tom yum soup recipe",
+      "volume": 210,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong 2",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mama tom yum thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum paste sainsbury's",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste tesco",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup paste tesco",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum thailand",
+      "volume": 140,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong recipe",
+      "volume": 110,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong soup recipe",
+      "volume": 110,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup recipe authentic",
+      "volume": 110,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup with coconut milk",
+      "volume": 110,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong movie",
+      "volume": 90,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong soup",
+      "volume": 90,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste asda",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste vegetarian",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best tom yum paste",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best tom yum soup paste",
+      "volume": 50,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum gai recipe",
+      "volume": 50,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste substitute",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to use tom yum paste",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum main ingredients",
+      "volume": 40,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste ingredients",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste morrisons",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup paste ingredients",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "creamy tom yum soup recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy tom yum soup recipe with paste",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "maesri tom yum paste",
+      "volume": 30,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum nam khon",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste near me",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste uses",
+      "volume": 30,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asda pad thai sauce",
+      "volume": 20,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum nam sai",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum sauce recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic tom yum goong recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic vegetarian tom yum soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best tom yum goong recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best tom yum paste brand in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best tom yum paste recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best tom yum paste thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best tom yum soup recipe authentic",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "creamy tom yum soup with coconut milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy tom yum soup recipe chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy tom yum soup recipe vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mekhala tom yum paste",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sainsbury's thai curry paste recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum fried rice thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum gai calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum gai coconut soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum gai ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum gai near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum gai vs goong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum gai vs tom kha gai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong 1",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong 3",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong crisis in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum goong ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong movie cast",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong movie hindi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong movie where to watch",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum goong tony jaa",
+      "volume": 10,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum nam khon recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum noodles thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum paste halal",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste lidl",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste m&s",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste recipe coconut milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste recipe vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum paste thailand brand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tom yum paste uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum paste vegetarian recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup ingredients chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup ingredients vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup paste where to buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup with coconut milk calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup with coconut milk chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup with coconut milk shrimp",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup with coconut milk vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum thailand recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional tom yum soup ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum gai pronunciation",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup paste sainsbury's",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum soup paste waitrose",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12.923076923076923,
+      "keywordCount": 13,
+      "visibility": 1.7500000000000002,
+      "estimatedTraffic": 49.074
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 9.090909090909092,
+      "keywordCount": 11,
+      "visibility": 6.449999999999999,
+      "estimatedTraffic": 1922.218
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 1.8,
+      "keywordCount": 10,
+      "visibility": 9.200000000000001,
+      "estimatedTraffic": 1235.142
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 11.181818181818182,
+      "keywordCount": 11,
+      "visibility": 4.05,
+      "estimatedTraffic": 108.52400000000002
+    },
+    {
+      "domain": "lionbrand.com.au",
+      "avgPosition": 4.6,
+      "keywordCount": 10,
+      "visibility": 6.45,
+      "estimatedTraffic": 394.05799999999994
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 7.666666666666667,
+      "keywordCount": 9,
+      "visibility": 4.449999999999999,
+      "estimatedTraffic": 461.485
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 18.2,
+      "keywordCount": 10,
+      "visibility": 1.1,
+      "estimatedTraffic": 33.484
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 18.5,
+      "keywordCount": 10,
+      "visibility": 1,
+      "estimatedTraffic": 58.93999999999999
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 19.8,
+      "keywordCount": 10,
+      "visibility": 1.85,
+      "estimatedTraffic": 39.538000000000004
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 25.3,
+      "keywordCount": 10,
+      "visibility": 1.5,
+      "estimatedTraffic": 51.134
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 25.9,
+      "keywordCount": 10,
+      "visibility": 0.2,
+      "estimatedTraffic": 22.102
+    },
+    {
+      "domain": "www.aspicyperspective.com",
+      "avgPosition": 30.1,
+      "keywordCount": 10,
+      "visibility": 0.3,
+      "estimatedTraffic": 22.777
+    },
+    {
+      "domain": "rasamalaysia.com",
+      "avgPosition": 36.90909090909091,
+      "keywordCount": 11,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 20.056
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 17.5,
+      "keywordCount": 8,
+      "visibility": 3.1,
+      "estimatedTraffic": 643.4439999999998
+    },
+    {
+      "domain": "www.alphafoodie.com",
+      "avgPosition": 34.6,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 18.381000000000007
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 18.375,
+      "keywordCount": 8,
+      "visibility": 2.9499999999999997,
+      "estimatedTraffic": 462.27199999999993
+    },
+    {
+      "domain": "www.thai-food-online.co.uk",
+      "avgPosition": 20.125,
+      "keywordCount": 8,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 52.81399999999999
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 26.125,
+      "keywordCount": 8,
+      "visibility": 0.2,
+      "estimatedTraffic": 7.640999999999999
+    },
+    {
+      "domain": "www.food.com",
+      "avgPosition": 42.666666666666664,
+      "keywordCount": 9,
+      "visibility": 0.1,
+      "estimatedTraffic": 19.548000000000005
+    },
+    {
+      "domain": "fearlesseating.net",
+      "avgPosition": 36.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.2,
+      "estimatedTraffic": 21.513
+    },
+    {
+      "domain": "www.tabeyoyo.com",
+      "avgPosition": 15.8,
+      "keywordCount": 5,
+      "visibility": 0.4,
+      "estimatedTraffic": 5.631
+    },
+    {
+      "domain": "thefoodietakesflight.com",
+      "avgPosition": 18,
+      "keywordCount": 5,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 34.803
+    },
+    {
+      "domain": "cookidoo.co.uk",
+      "avgPosition": 34.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0.75,
+      "estimatedTraffic": 41.641000000000005
+    },
+    {
+      "domain": "khinskitchen.com",
+      "avgPosition": 44.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 15.078000000000001
+    },
+    {
+      "domain": "pupswithchopsticks.com",
+      "avgPosition": 22.2,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.1599999999999997
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 23.6,
+      "keywordCount": 5,
+      "visibility": 0.8,
+      "estimatedTraffic": 49.937999999999995
+    },
+    {
+      "domain": "www.wokandskillet.com",
+      "avgPosition": 10.25,
+      "keywordCount": 4,
+      "visibility": 1.2,
+      "estimatedTraffic": 52.036
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 10.25,
+      "keywordCount": 4,
+      "visibility": 1.1,
+      "estimatedTraffic": 68.05799999999999
+    },
+    {
+      "domain": "thetravelbite.com",
+      "avgPosition": 10.5,
+      "keywordCount": 4,
+      "visibility": 0.5,
+      "estimatedTraffic": 66.617
+    },
+    {
+      "domain": "nomadette.com",
+      "avgPosition": 31.6,
+      "keywordCount": 5,
+      "visibility": 0.9,
+      "estimatedTraffic": 98.289
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 32,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 7.278
+    },
+    {
+      "domain": "carlsbadcravings.com",
+      "avgPosition": 43.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 14.721000000000002
+    },
+    {
+      "domain": "www.hairybikers.com",
+      "avgPosition": 17.5,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 36.196000000000005
+    },
+    {
+      "domain": "www.vegrecipesofindia.com",
+      "avgPosition": 20.75,
+      "keywordCount": 4,
+      "visibility": 0.55,
+      "estimatedTraffic": 184.89299999999997
+    },
+    {
+      "domain": "minimalistbaker.com",
+      "avgPosition": 21.25,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 63.97099999999999
+    },
+    {
+      "domain": "cookidoo.international",
+      "avgPosition": 21.25,
+      "keywordCount": 4,
+      "visibility": 1.5,
+      "estimatedTraffic": 12.256
+    },
+    {
+      "domain": "www.wokandkin.com",
+      "avgPosition": 22,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.932
+    },
+    {
+      "domain": "www.cookingwithnart.com",
+      "avgPosition": 22,
+      "keywordCount": 4,
+      "visibility": 0.5,
+      "estimatedTraffic": 3.272
+    },
+    {
+      "domain": "www.yummytummyaarthi.com",
+      "avgPosition": 22.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 16.169
+    },
+    {
+      "domain": "food52.com",
+      "avgPosition": 24.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 12.783000000000001
+    },
+    {
+      "domain": "cravingtasty.com",
+      "avgPosition": 28.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 11.991
+    },
+    {
+      "domain": "www.waiyeehong.com",
+      "avgPosition": 6,
+      "keywordCount": 3,
+      "visibility": 1.5,
+      "estimatedTraffic": 78.449
+    },
+    {
+      "domain": "www.thespiceodyssey.com",
+      "avgPosition": 8,
+      "keywordCount": 3,
+      "visibility": 1.05,
+      "estimatedTraffic": 8.922999999999998
+    },
+    {
+      "domain": "thaichefschool.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.55,
+      "estimatedTraffic": 4.132999999999999
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 7.114000000000001
+    },
+    {
+      "domain": "www.templeofthai.com",
+      "avgPosition": 35,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.2
+    },
+    {
+      "domain": "www.valerieskeepers.com",
+      "avgPosition": 48.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 13.482000000000001
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 10.554
+    },
+    {
+      "domain": "www.thaigold.eu",
+      "avgPosition": 37.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "cinnamonsnail.com",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 0.6,
+      "estimatedTraffic": 29.614
+    }
+  ]
+}
