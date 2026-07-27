@@ -1,0 +1,1335 @@
+{
+  "captured_at": "2026-07-27T00:20:24.949Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "trang thailand",
+  "costs": {
+    "suggestions": 0.02448,
+    "related": 0.0132,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "trang thailand",
+    "thailand trang",
+    "trang city thailand",
+    "trang in thailand",
+    "trang town thailand",
+    "trang island thailand",
+    "trang islands thailand",
+    "tri trang beach thailand",
+    "trang province in thailand",
+    "trang province thailand",
+    "hotel in trang thailand",
+    "hotels in trang city thailand",
+    "hotels in trang thailand",
+    "thailand trang hotels",
+    "trang thailand hotels",
+    "kantang trang thailand",
+    "things to do in trang thailand",
+    "trang beach thailand",
+    "trang thailand attractions"
+  ],
+  "keywords": [
+    {
+      "keyword": "thailand trang",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang city thailand",
+      "volume": 590,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang in thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand",
+      "volume": 590,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang town thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang island thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang islands thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tri trang beach thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang province in thailand",
+      "volume": 50,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang province thailand",
+      "volume": 50,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights bangkok to trang thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in trang thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel trang thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in trang city thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in trang thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand trang hotels",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand hotel",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand hotels",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kantang trang thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand trang map",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in trang thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang beach thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang islands thailand map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang map thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang nightlife thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand attractions",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand beaches",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang thailand map",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang thailand nightlife",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotel in trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "emerald cave trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get to trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is trang thailand worth visiting",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "islands near trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kuala lumpur to trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nha trang thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nha trang to thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "places to visit in trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "robinson trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "singapore to trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sri trang gloves thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sri trang gloves thailand plc",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sunset beach trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thumrin thana hotel trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang archipelago thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang attractions thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang city thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang hospital thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang hotel thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang market thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang port thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang province thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang south thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang thailand beach hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand flood",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand islands",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand massage",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand night market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand population",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang thailand resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang thailand to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "trang thailand tourism",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand travel blog",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand weather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visit trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in trang city thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is trang in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay in trang thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pathway to atlantis thailand trang",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "secret beach ko kradan trang islands trang thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang inseln thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand attraction",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand blog",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand real estate",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand travel",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star hotel in trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best island in trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "business for sale trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fishing trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is trang thailand safe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "motorbike rental trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pulau koh mook trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sri trang gloves thailand share price",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang phục dân tộc miss universe 2021 thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand chinese",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand in august",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand in chinese",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand review",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand tours",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 6.888888888888889,
+      "keywordCount": 9,
+      "visibility": 5.3,
+      "estimatedTraffic": 98.47099999999999
+    },
+    {
+      "domain": "www.neverendingfootsteps.com",
+      "avgPosition": 7.875,
+      "keywordCount": 8,
+      "visibility": 5.15,
+      "estimatedTraffic": 470.1807
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 8.125,
+      "keywordCount": 8,
+      "visibility": 5.15,
+      "estimatedTraffic": 397.6547
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 23.333333333333332,
+      "keywordCount": 9,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 6.39033
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 26.555555555555557,
+      "keywordCount": 9,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.7471
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 18.375,
+      "keywordCount": 8,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 12.189949999999998
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 14.285714285714286,
+      "keywordCount": 7,
+      "visibility": 2.6,
+      "estimatedTraffic": 65.243
+    },
+    {
+      "domain": "thailandinsider.com",
+      "avgPosition": 14.714285714285714,
+      "keywordCount": 7,
+      "visibility": 1.75,
+      "estimatedTraffic": 29.391999999999996
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 27.875,
+      "keywordCount": 8,
+      "visibility": 0.35,
+      "estimatedTraffic": 8.3887
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 6.166666666666667,
+      "keywordCount": 6,
+      "visibility": 4.1,
+      "estimatedTraffic": 159.015
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 21.857142857142858,
+      "keywordCount": 7,
+      "visibility": 0.55,
+      "estimatedTraffic": 6.729
+    },
+    {
+      "domain": "horizonguides.com",
+      "avgPosition": 24.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 9.965
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 14,
+      "keywordCount": 6,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 42.121
+    },
+    {
+      "domain": "www.xploreasia.org",
+      "avgPosition": 18.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.44999999999999996,
+      "estimatedTraffic": 6.036
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 6,
+      "keywordCount": 5,
+      "visibility": 2.6499999999999995,
+      "estimatedTraffic": 25.680000000000003
+    },
+    {
+      "domain": "www.experiencetravelgroup.com",
+      "avgPosition": 7,
+      "keywordCount": 5,
+      "visibility": 2,
+      "estimatedTraffic": 53.256
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 23.2,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.292
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 24.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.3939999999999997
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 25.4,
+      "keywordCount": 5,
+      "visibility": 0.44999999999999996,
+      "estimatedTraffic": 4.151
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 4,
+      "visibility": 1.1,
+      "estimatedTraffic": 36.148
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 11.75,
+      "keywordCount": 4,
+      "visibility": 1,
+      "estimatedTraffic": 4.427499999999999
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 41.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 4.515
+    },
+    {
+      "domain": "www.placesofjuma.com",
+      "avgPosition": 30.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.659
+    },
+    {
+      "domain": "www.nomadasaurus.com",
+      "avgPosition": 15.75,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 8.77
+    },
+    {
+      "domain": "lashworldtour.com",
+      "avgPosition": 17.25,
+      "keywordCount": 4,
+      "visibility": 1.05,
+      "estimatedTraffic": 46.33
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 45,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.4879999999999995
+    },
+    {
+      "domain": "allpointseast.com",
+      "avgPosition": 19.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.543
+    },
+    {
+      "domain": "www.samuiislandexplorer.com",
+      "avgPosition": 36,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.816
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 37,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 4.3469999999999995
+    },
+    {
+      "domain": "amazinglanta.com",
+      "avgPosition": 24.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.198
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 3.3333333333333335,
+      "keywordCount": 2,
+      "visibility": 2.3,
+      "estimatedTraffic": 8.2647
+    },
+    {
+      "domain": "www.asialifestylemagazine.com",
+      "avgPosition": 43.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.9059999999999997
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 6,
+      "keywordCount": 3,
+      "visibility": 1.6500000000000001,
+      "estimatedTraffic": 8.357650000000001
+    },
+    {
+      "domain": "thecuriouspixie.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.55,
+      "estimatedTraffic": 98.238
+    },
+    {
+      "domain": "seasidethailandtour.com",
+      "avgPosition": 44.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 4.367999999999999
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 30.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.6429999999999998
+    },
+    {
+      "domain": "thailande-et-asie.com",
+      "avgPosition": 8,
+      "keywordCount": 3,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 69.443
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 31.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.147
+    },
+    {
+      "domain": "www.thaizer.com",
+      "avgPosition": 35,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.263
+    },
+    {
+      "domain": "portmanteautravel.co",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 3.989
+    },
+    {
+      "domain": "deartravallure.com",
+      "avgPosition": 50,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.2129999999999996
+    },
+    {
+      "domain": "cherylhoward.com",
+      "avgPosition": 20.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.9339999999999997
+    },
+    {
+      "domain": "www.luxurysocietyasia.com",
+      "avgPosition": 56.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 4.367999999999999
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 46.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.263
+    },
+    {
+      "domain": "www.alexinwanderland.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 8.024
+    },
+    {
+      "domain": "www.krabiprivatetour.com",
+      "avgPosition": 30.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.7169999999999996
+    },
+    {
+      "domain": "www.expedia.co.th",
+      "avgPosition": 60,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.969
+    },
+    {
+      "domain": "twoflashpackers.com",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 6.377999999999999
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 3.8648
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 45.129000000000005
+    }
+  ]
+}
