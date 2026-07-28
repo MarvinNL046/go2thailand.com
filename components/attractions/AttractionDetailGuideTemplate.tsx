@@ -39,33 +39,85 @@ const factIcons: Record<AttractionDetailIcon, LucideIcon> = {
   ticket: TicketCheck,
 };
 
-const navItems: PageSectionNavItem[] = [
-  { href: '#kort', label: 'Kort antwoord', icon: Sparkles },
-  { href: '#zien', label: 'Wat je ziet', icon: Compass },
-  { href: '#plan', label: 'Plan bezoek', icon: Clock3 },
-  { href: '#route', label: 'Route', icon: Route },
-  { href: '#respect', label: 'Respect', icon: Check },
-  { href: '#vragen', label: 'Vragen', icon: BookOpenText },
-];
+const templateCopy = {
+  nl: {
+    nav: ['Kort antwoord', 'Wat je ziet', 'Plan bezoek', 'Route', 'Respect', 'Vragen'],
+    planVisit: 'Plan je bezoek',
+    tours: 'Bekijk passende tours',
+    attractions: 'Bezienswaardigheden',
+    heroDisclosure: 'De tourknop is een affiliatelink naar Klook. Een eventuele commissie kost jou niets extra en bepaalt onze redactionele keuze niet.',
+    goodFor: 'Past goed bij',
+    skipIf: 'Sla over of pas aan als',
+    imageNote: 'AI-sfeerbeeld · actuele tempelregels gaan altijd voor',
+    allAttractions: 'Bekijk alle bezienswaardigheden',
+    guideEyebrow: 'Liever met vervoer of gids?',
+    guideTitle: 'Vergelijk alleen tours die bij je route en actuele toegang passen.',
+    guideDisclosure: 'Affiliatelink via Klook; controleer inclusies, ophaalzone en annuleringsvoorwaarden.',
+    guideCta: 'Bekijk tours op Klook',
+    faqEyebrow: 'Echte vragen uit de zoekresultaten',
+    faqTitle: (place: string) => `Veelgestelde vragen over ${place}`,
+    faqDescription: 'De vragen zijn verzameld uit de Nederlandse Google-resultaten via DataForSEO. Antwoorden zijn gecontroleerd tegen primaire en inhoudelijk relevante bronnen; veranderlijke tijden en toegang blijven bewust niet als eeuwige feiten gepresenteerd.',
+    relatedTitle: (city: string) => `Plan de rest van je ${city}-route`,
+    relatedSide: 'Passende tours via Klook',
+    relatedDisclosure: 'De externe tourknop is een affiliatelink. Redactionele opname en volgorde zijn niet te koop.',
+    sourceTitle: 'Hoe is deze bezoekgids onderzocht?',
+    sourceDescription: 'De zoekvraag, concurrenten en echte PAA’s komen uit DataForSEO voor Google Nederland. Historie, symboliek en ligging zijn gecontroleerd met officiële of primaire regionale bronnen en duidelijk benoemde secundaire bronnen.',
+  },
+  en: {
+    nav: ['Short answer', 'What you see', 'Plan visit', 'Route', 'Respect', 'Questions'],
+    planVisit: 'Plan your visit',
+    tours: 'Compare suitable tours',
+    attractions: 'Attractions',
+    heroDisclosure: 'The tour button is a Klook affiliate link. A possible commission costs you nothing extra and does not determine our editorial judgement.',
+    goodFor: 'A good fit for',
+    skipIf: 'Skip or adapt if',
+    imageNote: 'AI editorial scene · current temple rules always come first',
+    allAttractions: 'View all attractions',
+    guideEyebrow: 'Prefer transport or a guide?',
+    guideTitle: 'Compare only tours that fit your route and current access.',
+    guideDisclosure: 'Affiliate link via Klook; check inclusions, pickup area and cancellation terms.',
+    guideCta: 'Compare tours on Klook',
+    faqEyebrow: 'Genuine questions from the search results',
+    faqTitle: (place: string) => `Frequently asked questions about ${place}`,
+    faqDescription: 'These questions were collected from current UK-English Google results through DataForSEO. Answers were checked against relevant sources, while changing access and opening patterns are deliberately not presented as permanent facts.',
+    relatedTitle: (city: string) => `Plan the rest of your ${city} route`,
+    relatedSide: 'Suitable tours via Klook',
+    relatedDisclosure: 'The external tour button is an affiliate link. Editorial inclusion and order cannot be purchased.',
+    sourceTitle: 'How was this visitor guide researched?',
+    sourceDescription: 'The search intent, competitors and genuine PAA questions come from DataForSEO for Google United Kingdom. Identity, symbolism and location were checked against referenced destination sources; changing practical claims remain qualified.',
+  },
+} as const;
 
 export default function AttractionDetailGuideTemplate({ data, klookHref }: AttractionDetailGuideTemplateProps) {
+  const locale = data.locale === 'en' ? 'en' : 'nl';
+  const copy = templateCopy[locale];
+  const localePrefix = locale === 'nl' ? '/nl' : '';
+  const language = locale === 'nl' ? 'nl-NL' : 'en-GB';
+  const navItems: PageSectionNavItem[] = [
+    { href: '#kort', label: copy.nav[0], icon: Sparkles },
+    { href: '#zien', label: copy.nav[1], icon: Compass },
+    { href: '#plan', label: copy.nav[2], icon: Clock3 },
+    { href: '#route', label: copy.nav[3], icon: Route },
+    { href: '#respect', label: copy.nav[4], icon: Check },
+    { href: '#vragen', label: copy.nav[5], icon: BookOpenText },
+  ];
   const heroActions: EditorialHeroAction[] = [
-    { label: 'Plan je bezoek', href: '#plan', kind: 'primary' },
-    { label: 'Bekijk passende tours', href: klookHref, kind: 'secondary', newTab: true, affiliate: true },
+    { label: copy.planVisit, href: '#plan', kind: 'primary' },
+    { label: copy.tours, href: klookHref, kind: 'secondary', newTab: true, affiliate: true },
   ];
   const breadcrumbs = [
     { label: 'Thailand', href: '/' },
     { label: data.cityName, href: `/city/${data.citySlug}/` },
-    { label: 'Bezienswaardigheden', href: `/city/${data.citySlug}/attractions/` },
+    { label: copy.attractions, href: `/city/${data.citySlug}/attractions/` },
     { label: data.placeName },
   ];
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Thailand', item: 'https://go2-thailand.com/nl/' },
-      { '@type': 'ListItem', position: 2, name: data.cityName, item: `https://go2-thailand.com/nl/city/${data.citySlug}/` },
-      { '@type': 'ListItem', position: 3, name: `Bezienswaardigheden in ${data.cityName}`, item: `https://go2-thailand.com/nl/city/${data.citySlug}/attractions/` },
+      { '@type': 'ListItem', position: 1, name: 'Thailand', item: `https://go2-thailand.com${localePrefix}/` },
+      { '@type': 'ListItem', position: 2, name: data.cityName, item: `https://go2-thailand.com${localePrefix}/city/${data.citySlug}/` },
+      { '@type': 'ListItem', position: 3, name: `${copy.attractions} in ${data.cityName}`, item: `https://go2-thailand.com${localePrefix}/city/${data.citySlug}/attractions/` },
       { '@type': 'ListItem', position: 4, name: data.placeName, item: data.pageUrl },
     ],
   };
@@ -76,7 +128,7 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
     name: data.placeName,
     description: data.pageDescription,
     url: data.pageUrl,
-    inLanguage: 'nl-NL',
+    inLanguage: language,
     geo: { '@type': 'GeoCoordinates', latitude: data.coordinates.latitude, longitude: data.coordinates.longitude },
     containedInPlace: { '@type': 'City', name: data.cityName, containedInPlace: { '@type': 'Country', name: 'Thailand' } },
     mainEntityOfPage: data.pageUrl,
@@ -92,7 +144,7 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
     url: data.pageUrl,
     name: data.pageTitle,
     description: data.pageDescription,
-    inLanguage: 'nl-NL',
+    inLanguage: language,
     dateModified: data.dateModified,
   };
 
@@ -117,7 +169,7 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
           subtitleClassName="max-w-[620px] text-[1.25rem] leading-[1.08] sm:text-[1.55rem]"
           description={data.hero.description}
           actions={heroActions}
-          disclosure="De tourknop is een affiliatelink naar Klook. Een eventuele commissie kost jou niets extra en bepaalt onze redactionele keuze niet."
+          disclosure={copy.heroDisclosure}
           minHeightClassName="min-h-[760px] lg:min-h-[680px]"
           imageClassName="object-cover object-[67%_center] lg:object-center"
         />
@@ -151,8 +203,8 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
               {data.experience.details.map((detail, index) => <article key={detail.title} className="relative min-h-[245px] overflow-hidden rounded-2xl border border-jade/10 bg-canvas p-5 shadow-[0_14px_42px_rgba(18,63,54,0.055)]"><div aria-hidden="true" className="absolute -right-10 -top-10 h-28 w-28 rounded-full bg-saffron/[0.08]" /><span className="relative text-[10px] font-extrabold tracking-[0.16em] text-saffron-dark">0{index + 1}</span><h3 className="relative mt-8 font-display text-[1.55rem] font-semibold leading-none text-jade">{detail.title}</h3><p className="relative mt-4 text-xs font-medium leading-5 text-charcoal/64">{detail.description}</p></article>)}
             </div>
             <div className="mt-6 grid gap-5 lg:grid-cols-2">
-              <article className="rounded-2xl bg-jade p-6 text-white sm:p-7"><span className="grid h-10 w-10 place-items-center rounded-xl border border-white/18 bg-white/10 text-saffron-light"><Check size={19} /></span><h3 className="mt-5 font-display text-[1.8rem] font-semibold">Past goed bij</h3><ul className="mt-5 space-y-3">{data.experience.goodFor.map((item) => <li key={item} className="flex gap-3 text-sm font-medium leading-6 text-white/78"><Check size={15} className="mt-1 shrink-0 text-saffron-light" />{item}</li>)}</ul></article>
-              <article className="rounded-2xl border border-saffron/25 bg-canvas p-6 sm:p-7"><span className="grid h-10 w-10 place-items-center rounded-xl border border-saffron/30 bg-white text-saffron-dark"><CircleAlert size={19} /></span><h3 className="mt-5 font-display text-[1.8rem] font-semibold text-jade">Sla over of pas aan als</h3><ul className="mt-5 space-y-3">{data.experience.skipIf.map((item) => <li key={item} className="flex gap-3 text-sm font-medium leading-6 text-charcoal/70"><CircleAlert size={15} className="mt-1 shrink-0 text-saffron-dark" />{item}</li>)}</ul></article>
+              <article className="rounded-2xl bg-jade p-6 text-white sm:p-7"><span className="grid h-10 w-10 place-items-center rounded-xl border border-white/18 bg-white/10 text-saffron-light"><Check size={19} /></span><h3 className="mt-5 font-display text-[1.8rem] font-semibold">{copy.goodFor}</h3><ul className="mt-5 space-y-3">{data.experience.goodFor.map((item) => <li key={item} className="flex gap-3 text-sm font-medium leading-6 text-white/78"><Check size={15} className="mt-1 shrink-0 text-saffron-light" />{item}</li>)}</ul></article>
+              <article className="rounded-2xl border border-saffron/25 bg-canvas p-6 sm:p-7"><span className="grid h-10 w-10 place-items-center rounded-xl border border-saffron/30 bg-white text-saffron-dark"><CircleAlert size={19} /></span><h3 className="mt-5 font-display text-[1.8rem] font-semibold text-jade">{copy.skipIf}</h3><ul className="mt-5 space-y-3">{data.experience.skipIf.map((item) => <li key={item} className="flex gap-3 text-sm font-medium leading-6 text-charcoal/70"><CircleAlert size={15} className="mt-1 shrink-0 text-saffron-dark" />{item}</li>)}</ul></article>
             </div>
           </div>
         </section>
@@ -166,7 +218,7 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
                 <p className="text-[10px] font-extrabold uppercase tracking-[0.2em] text-saffron-light">{data.feature.eyebrow}</p>
                 <h2 className="mt-4 font-display text-[2.9rem] font-semibold leading-[0.92] tracking-[-0.035em] sm:text-[3.8rem]">{data.feature.title}</h2>
                 <p className="mt-5 max-w-xl text-sm font-medium leading-7 text-white/78">{data.feature.description}</p>
-                <p className="mt-7 text-[9px] font-bold uppercase tracking-[0.16em] text-white/46">AI-sfeerbeeld · actuele tempelregels gaan altijd voor</p>
+                <p className="mt-7 text-[9px] font-bold uppercase tracking-[0.16em] text-white/46">{copy.imageNote}</p>
               </div>
             </div>
           </div>
@@ -181,18 +233,18 @@ export default function AttractionDetailGuideTemplate({ data, klookHref }: Attra
 
         <section id="route" className="section-divider-bottom scroll-mt-24 overflow-hidden bg-tonal py-14 lg:py-20">
           <div className="container-custom grid gap-10 lg:grid-cols-[0.68fr_1.32fr] lg:items-center">
-            <div><p className="eyebrow">{data.route.eyebrow}</p><h2 className="heading-redesign">{data.route.title}</h2><p className="mt-5 max-w-xl text-sm font-medium leading-7 text-charcoal/70">{data.route.description}</p><Link href={`/city/${data.citySlug}/attractions/`} className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">Bekijk alle bezienswaardigheden <ArrowRight size={14} className="text-saffron-dark" /></Link></div>
+            <div><p className="eyebrow">{data.route.eyebrow}</p><h2 className="heading-redesign">{data.route.title}</h2><p className="mt-5 max-w-xl text-sm font-medium leading-7 text-charcoal/70">{data.route.description}</p><Link href={`/city/${data.citySlug}/attractions/`} className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">{copy.allAttractions} <ArrowRight size={14} className="text-saffron-dark" /></Link></div>
             <div className="relative py-5"><DottedRoute className="pointer-events-none absolute -left-3 -right-3 top-1/2 hidden h-auto w-[calc(100%+1.5rem)] -translate-y-1/2 lg:block" /><div aria-hidden="true" className="absolute bottom-10 left-[2.55rem] top-10 border-l-2 border-dashed border-saffron/55 lg:hidden" /><div className="relative grid gap-4 lg:grid-cols-3">{data.route.stops.map((stop, index) => <article key={stop.title} className="min-h-[225px] rounded-2xl border border-jade/10 bg-white p-5 shadow-[0_16px_45px_rgba(18,63,54,0.07)]"><span className="grid h-10 w-10 place-items-center rounded-full bg-saffron text-xs font-extrabold text-white">{index + 1}</span><p className="mt-5 text-[9px] font-extrabold uppercase tracking-[0.17em] text-saffron-dark">{stop.label}</p><h3 className="mt-2 font-display text-[1.55rem] font-semibold leading-none text-jade">{stop.title}</h3><p className="mt-4 text-xs font-medium leading-5 text-charcoal/62">{stop.description}</p></article>)}</div></div>
           </div>
         </section>
 
-        <section className="section-divider-bottom bg-jade py-10 text-white lg:py-12"><div className="container-custom flex flex-col items-start justify-between gap-5 sm:flex-row sm:items-center"><div><p className="text-[9px] font-extrabold uppercase tracking-[0.2em] text-saffron-light">Liever met vervoer of gids?</p><p className="mt-2 max-w-2xl font-display text-2xl font-semibold">Vergelijk alleen tours die bij je route en actuele toegang passen.</p><p className="mt-2 text-[10px] leading-5 text-white/52">Affiliatelink via Klook; controleer inclusies, ophaalzone en annuleringsvoorwaarden.</p></div><a href={klookHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-cream group shrink-0">Bekijk tours op Klook <ExternalLink size={14} className="text-saffron transition group-hover:translate-x-0.5" /></a></div></section>
+        <section className="section-divider-bottom bg-jade py-10 text-white lg:py-12"><div className="container-custom flex flex-col items-start justify-between gap-5 sm:flex-row sm:items-center"><div><p className="text-[9px] font-extrabold uppercase tracking-[0.2em] text-saffron-light">{copy.guideEyebrow}</p><p className="mt-2 max-w-2xl font-display text-2xl font-semibold">{copy.guideTitle}</p><p className="mt-2 text-[10px] leading-5 text-white/52">{copy.guideDisclosure}</p></div><a href={klookHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-cream group shrink-0">{copy.guideCta} <ExternalLink size={14} className="text-saffron transition group-hover:translate-x-0.5" /></a></div></section>
 
         <section id="respect" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20"><div className="container-custom"><div className="grid gap-6 lg:grid-cols-[0.7fr_1.3fr] lg:items-end"><div><p className="eyebrow">{data.respect.eyebrow}</p><h2 className="heading-redesign">{data.respect.title}</h2></div><p className="max-w-2xl text-sm font-medium leading-7 text-charcoal/68 lg:justify-self-end">{data.respect.description}</p></div><div className="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-4">{data.respect.items.map((item) => <article key={item.title} className="rounded-2xl border border-jade/10 bg-tonal p-5"><span className="grid h-10 w-10 place-items-center rounded-xl border border-saffron/25 bg-white text-jade"><Check size={18} /></span><h3 className="mt-5 font-display text-[1.45rem] font-semibold leading-none text-jade">{item.title}</h3><p className="mt-3 text-xs font-medium leading-5 text-charcoal/63">{item.description}</p></article>)}</div></div></section>
 
-        <FaqSplitSection eyebrow="Echte vragen uit de zoekresultaten" title={`Veelgestelde vragen over ${data.placeName}`} description="De vragen zijn verzameld uit de Nederlandse Google-resultaten via DataForSEO. Antwoorden zijn gecontroleerd tegen primaire en inhoudelijk relevante bronnen; veranderlijke tijden en toegang blijven bewust niet als eeuwige feiten gepresenteerd." items={data.faqs} />
-        <RelatedGuidesSection title={`Plan de rest van je ${data.cityName}-route`} guides={data.relatedGuides} sideLink={{ label: 'Passende tours via Klook', href: klookHref, affiliate: true }} disclosure="De externe tourknop is een affiliatelink. Redactionele opname en volgorde zijn niet te koop." />
-        <SourceMethodSection title="Hoe is deze bezoekgids onderzocht?" description="De zoekvraag, concurrenten en echte PAA’s komen uit DataForSEO voor Google Nederland. Historie, symboliek en ligging zijn gecontroleerd met officiële of primaire regionale bronnen en duidelijk benoemde secundaire bronnen." sources={data.sources} />
+        <FaqSplitSection eyebrow={copy.faqEyebrow} title={copy.faqTitle(data.placeName)} description={copy.faqDescription} items={data.faqs} />
+        <RelatedGuidesSection title={copy.relatedTitle(data.cityName)} guides={data.relatedGuides} sideLink={{ label: copy.relatedSide, href: klookHref, affiliate: true }} disclosure={copy.relatedDisclosure} />
+        <SourceMethodSection title={copy.sourceTitle} description={copy.sourceDescription} sources={data.sources} />
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
       </div>
     </>

@@ -8,6 +8,7 @@ export interface AttractionDetailSource {
 }
 
 export interface AttractionDetailGuideData {
+  locale?: 'nl' | 'en';
   slug: string;
   citySlug: string;
   cityName: string;

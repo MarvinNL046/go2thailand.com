@@ -1,18 +1,18 @@
 # Rendered design coverage
 
-**Captured:** 2026-07-28T20:27:37.567Z
+**Captured:** 2026-07-28T20:52:22.816Z
 **Base URL:** http://localhost:3000
 
 This report separates sitemap routes, rendered design signatures and exact implemented ContentOps owner routes. A premium signature proves that the current HTML uses the shared redesign primitives; it does not by itself prove unique copy or page-level editorial quality.
 
 ## EN
 
-- Sitemap routes inspected: **1594**
-- HTTP 200: **1594/1594**
-- Premium rendered signature: **1593/1594**
-- Hybrid rendered signature: **1/1594**
-- No redesign signature: **0/1594**
-- Exact implemented ContentOps owners: **112**
+- Sitemap routes inspected: **1595**
+- HTTP 200: **1595/1595**
+- Premium rendered signature: **1594/1595**
+- Hybrid rendered signature: **1/1595**
+- No redesign signature: **0/1595**
+- Exact implemented ContentOps owners: **113**
 
 | Template owner | Routes | Premium | Hybrid | No signature | Exact SEO owners |
 |---|---:|---:|---:|---:|---:|
@@ -22,8 +22,8 @@ This report separates sitemap routes, rendered design signatures and exact imple
 | destination-subpillar | 112 | 112 | 0 | 0 | 1 |
 | travel-guide | 74 | 74 | 0 | 0 | 4 |
 | food-drink | 72 | 72 | 0 | 0 | 45 |
+| attraction-detail | 70 | 70 | 0 | 0 | 1 |
 | transport | 69 | 69 | 0 | 0 | 0 |
-| attraction-detail | 69 | 69 | 0 | 0 | 0 |
 | destination-detail | 66 | 66 | 0 | 0 | 0 |
 | location-directory | 54 | 54 | 0 | 0 | 0 |
 | commercial-landing | 53 | 53 | 0 | 0 | 0 |

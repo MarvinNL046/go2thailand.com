@@ -8,6 +8,7 @@ import TripcomWidget from '../../../../components/TripcomWidget';
 import SEOHead from '../../../../components/SEOHead';
 import Sources from '../../../../components/blog/Sources';
 import AttractionDetailGuideTemplate from '../../../../components/attractions/AttractionDetailGuideTemplate';
+import { getEnAttractionDetailGuide } from '../../../../data/attraction-details/en';
 import { getNlAttractionDetailGuide } from '../../../../data/attraction-details/nl';
 import { getAffiliates, KLOOK_GENERIC, withPlacementSubId } from '../../../../lib/affiliates';
 
@@ -95,11 +96,13 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
   const cityName = city.name[lang] || city.name.en;
   const attractionName = attraction.name[lang] || attraction.name.en;
   const attractionDesc = attraction.description[lang] || attraction.description.en;
-  const nlGuide = isNl ? getNlAttractionDetailGuide(city.slug, attraction.slug) : undefined;
-  if (nlGuide) {
+  const premiumGuide = isNl
+    ? getNlAttractionDetailGuide(city.slug, attraction.slug)
+    : getEnAttractionDetailGuide(city.slug, attraction.slug);
+  if (premiumGuide) {
     const klookBase = getAffiliates(city.slug)?.klook || KLOOK_GENERIC;
-    const klookHref = withPlacementSubId(klookBase, `nl-attraction-${city.slug}-${attraction.slug}`, 'detail');
-    return <AttractionDetailGuideTemplate data={nlGuide} klookHref={klookHref} />;
+    const klookHref = withPlacementSubId(klookBase, `${lang}-attraction-${city.slug}-${attraction.slug}`, 'detail');
+    return <AttractionDetailGuideTemplate data={premiumGuide} klookHref={klookHref} />;
   }
   const breadcrumbs = generateAttractionBreadcrumbs(city, attraction);
   const metadata = generateAttractionMetadata(attraction, city);

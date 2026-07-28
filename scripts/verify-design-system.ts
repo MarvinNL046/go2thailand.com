@@ -744,8 +744,18 @@ for (const asset of ['wat-plai-laem-hero.webp', 'blue-temple-chiang-rai-hero.web
   if (!nlAttractionDetailData.includes(asset)) failures.push(`NL attraction detail data does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
+const enAttractionDetailData = read('data/attraction-details/en.ts');
+for (const proof of [
+  "locale: 'en'",
+  "'koh-samui/wat-plai-laem'",
+  '/images/redesign/wat-plai-laem-hero.webp',
+  '/images/redesign/wat-plai-laem-reflection-banner.webp',
+  '/city/koh-samui/weather/',
+]) {
+  if (!enAttractionDetailData.includes(proof)) failures.push(`EN Wat Plai Laem owner lacks proof: ${proof}`);
+}
 const attractionDetailRoute = read('pages/city/[slug]/attractions/[attraction].tsx');
-for (const proof of ['AttractionDetailGuideTemplate', 'getNlAttractionDetailGuide', "locale === 'nl'"]) {
+for (const proof of ['AttractionDetailGuideTemplate', 'getNlAttractionDetailGuide', 'getEnAttractionDetailGuide', "locale === 'nl'"]) {
   if (!attractionDetailRoute.includes(proof)) failures.push(`The attraction detail route does not preserve NL localization proof: ${proof}`);
 }
 

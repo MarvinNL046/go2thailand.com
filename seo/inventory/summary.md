@@ -1,17 +1,17 @@
 # Route inventory
 
-Generated: 2026-07-28T20:19:48.325Z
+Generated: 2026-07-28T20:47:49.708Z
 
-- Total sitemap URLs: 2297
-- English URLs: 1594
+- Total sitemap URLs: 2298
+- English URLs: 1595
 - Dutch URLs: 703
-- URLs without a language pair: 933
+- URLs without a language pair: 932
 
 ## Page families
 
 | page type | URLs |
 |---|---:|
-| attraction-detail | 71 |
+| attraction-detail | 72 |
 | blog | 533 |
 | commercial-activity | 106 |
 | comparison | 1 |
@@ -44,7 +44,7 @@ Generated: 2026-07-28T20:19:48.325Z
 | manual-audit | 65 |
 | merge-candidate | 55 |
 | template-audit | 326 |
-| template-improve | 314 |
+| template-improve | 315 |
 
 ## Decision rules
 
