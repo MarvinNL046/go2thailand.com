@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-28T13:42:06.449Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels in ayutthaya",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "best hotels in ayutthaya",
+    "best hotels in ayutthaya thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "best hotels in ayutthaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in ayutthaya thailand",
+      "volume": 10,
+      "kd": 43,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
