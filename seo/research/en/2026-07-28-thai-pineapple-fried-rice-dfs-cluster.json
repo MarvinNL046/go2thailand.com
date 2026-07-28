@@ -1,0 +1,989 @@
+{
+  "captured_at": "2026-07-28T05:15:15.532Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai pineapple fried rice",
+  "costs": {
+    "suggestions": 0.01968,
+    "related": 0.01296,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thai pineapple fried rice",
+    "pineapple fried rice thai",
+    "pineapple thai fried rice",
+    "thai fried rice pineapple",
+    "pineapple fried rice recipe thai",
+    "pineapple fried rice thai recipe",
+    "pineapple thai fried rice recipe",
+    "thai fried rice recipe pineapple",
+    "thai pineapple fried rice recipe",
+    "thai pineapple fried rice recipes",
+    "thai fried rice with pineapple and chicken",
+    "thai pineapple chicken fried rice",
+    "thai pineapple fried rice chicken",
+    "thai pineapple fried rice with chicken",
+    "authentic thai pineapple fried rice",
+    "authentic thai pineapple fried rice recipe",
+    "authentic thai pineapple fried rice with chicken",
+    "authentic thai pineapple fried rice with shrimp",
+    "best thai pineapple fried rice recipe"
+  ],
+  "keywords": [
+    {
+      "keyword": "pineapple fried rice thai",
+      "volume": 480,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple thai fried rice",
+      "volume": 480,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice pineapple",
+      "volume": 480,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice",
+      "volume": 480,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice recipe thai",
+      "volume": 50,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice thai recipe",
+      "volume": 50,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple thai fried rice recipe",
+      "volume": 50,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe pineapple",
+      "volume": 50,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice recipe",
+      "volume": 50,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice recipes",
+      "volume": 50,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chinese pineapple fried rice",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with pineapple and chicken",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple chicken fried rice",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice chicken",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with chicken",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai pineapple fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai pineapple fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai pineapple fried rice with chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai pineapple fried rice with shrimp",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pineapple fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai pineapple fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "calories in thai pineapple fried rice with chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hot thai kitchen pineapple fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is pineapple fried rice authentic thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice hot thai kitchen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice in thai",
+      "volume": 10,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice in thai language",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice thai name",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice thai near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice thai restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice thai style",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried prawn and pineapple rice",
+      "volume": 10,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with pineapple and prawns",
+      "volume": 10,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai heavenly pineapple fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple curry fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice recipe authentic",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with chicken and cashews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with coconut milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with raisins",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with shrimp",
+      "volume": 10,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple pork fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple shrimp fried rice",
+      "volume": 10,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple shrimp fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style pineapple fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "traditional thai pineapple fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan thai pineapple fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with chicken and shrimp",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe pineapple fried rice thai",
+      "volume": null,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with shrimp and pineapple",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple basil fried rice",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice allrecipes",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice cook republic",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice vegan",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice vegetarian curry powder",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice video",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with chicken calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice youtube",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai shrimp fried rice pineapple",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style pineapple fried rice with shrimp and cashews",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai-style pineapple fried rice with shrimp and cashews",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "traditional thai pineapple fried rice recipes",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 1.3,
+      "keywordCount": 10,
+      "visibility": 9.7,
+      "estimatedTraffic": 507.50399999999996
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 1.9,
+      "keywordCount": 10,
+      "visibility": 9.100000000000001,
+      "estimatedTraffic": 492.725
+    },
+    {
+      "domain": "cookieandkate.com",
+      "avgPosition": 2.8,
+      "keywordCount": 10,
+      "visibility": 8.2,
+      "estimatedTraffic": 250.29700000000005
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 6.5,
+      "keywordCount": 10,
+      "visibility": 4.85,
+      "estimatedTraffic": 75.27099999999999
+    },
+    {
+      "domain": "mission-food.com",
+      "avgPosition": 9.7,
+      "keywordCount": 10,
+      "visibility": 2.55,
+      "estimatedTraffic": 45.931
+    },
+    {
+      "domain": "www.rachelphipps.com",
+      "avgPosition": 11.2,
+      "keywordCount": 10,
+      "visibility": 2.3,
+      "estimatedTraffic": 71.609
+    },
+    {
+      "domain": "theviewfromgreatisland.com",
+      "avgPosition": 11.7,
+      "keywordCount": 10,
+      "visibility": 0.8,
+      "estimatedTraffic": 18.496
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 13.5,
+      "keywordCount": 10,
+      "visibility": 1.1500000000000004,
+      "estimatedTraffic": 28.31
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 13.8,
+      "keywordCount": 10,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 11.394000000000002
+    },
+    {
+      "domain": "www.thai-food-online.co.uk",
+      "avgPosition": 14.5,
+      "keywordCount": 10,
+      "visibility": 0.7500000000000002,
+      "estimatedTraffic": 15.105
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 5.111111111111111,
+      "keywordCount": 9,
+      "visibility": 5.299999999999999,
+      "estimatedTraffic": 72.178
+    },
+    {
+      "domain": "omnivorescookbook.com",
+      "avgPosition": 15.8,
+      "keywordCount": 10,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 9.665999999999999
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 17.1,
+      "keywordCount": 10,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 12.552999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 17.7,
+      "keywordCount": 10,
+      "visibility": 0.8000000000000003,
+      "estimatedTraffic": 11.135
+    },
+    {
+      "domain": "veganheaven.org",
+      "avgPosition": 17.9,
+      "keywordCount": 10,
+      "visibility": 0.6499999999999999,
+      "estimatedTraffic": 18.178
+    },
+    {
+      "domain": "www.nyonyacooking.com",
+      "avgPosition": 9.11111111111111,
+      "keywordCount": 9,
+      "visibility": 4.75,
+      "estimatedTraffic": 81.295
+    },
+    {
+      "domain": "www.foodnetwork.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 9,
+      "visibility": 2.7499999999999996,
+      "estimatedTraffic": 28.865000000000002
+    },
+    {
+      "domain": "sandhyahariharan.co.uk",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 9,
+      "visibility": 2,
+      "estimatedTraffic": 52.476
+    },
+    {
+      "domain": "schoolofwok.co.uk",
+      "avgPosition": 20.4,
+      "keywordCount": 10,
+      "visibility": 0.7,
+      "estimatedTraffic": 14.453
+    },
+    {
+      "domain": "www.vegrecipesofindia.com",
+      "avgPosition": 20.8,
+      "keywordCount": 10,
+      "visibility": 0.25,
+      "estimatedTraffic": 12.448
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 17.555555555555557,
+      "keywordCount": 9,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 8.573
+    },
+    {
+      "domain": "www.joyousapron.com",
+      "avgPosition": 25.9,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.908
+    },
+    {
+      "domain": "mahatmarice.com",
+      "avgPosition": 28.4,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 28.6,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 30.5,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.710000000000001
+    },
+    {
+      "domain": "myfoodstory.com",
+      "avgPosition": 27,
+      "keywordCount": 9,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.133000000000001
+    },
+    {
+      "domain": "theburningkitchen.com",
+      "avgPosition": 34.7,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "petersfoodadventures.com",
+      "avgPosition": 34.9,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "pupswithchopsticks.com",
+      "avgPosition": 32.44444444444444,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.557
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 39.9,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "littlesunnykitchen.com",
+      "avgPosition": 34.77777777777778,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.557
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 41.4,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "takestwoeggs.com",
+      "avgPosition": 41.4,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "www.bakedambrosia.com",
+      "avgPosition": 41.7,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "leelalicious.com",
+      "avgPosition": 27.375,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 3.645
+    },
+    {
+      "domain": "thaifoodparadise.com",
+      "avgPosition": 43.2,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "www.jaroflemons.com",
+      "avgPosition": 45,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "cookrepublic.com",
+      "avgPosition": 23.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.516000000000001
+    },
+    {
+      "domain": "spicygelato.kitchen",
+      "avgPosition": 45.111111111111114,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 3.654
+    },
+    {
+      "domain": "pholamourcafe.com",
+      "avgPosition": 53.2,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "www.vegkit.com",
+      "avgPosition": 33.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 4.3469999999999995
+    },
+    {
+      "domain": "bangkokthaicookingacademy.com",
+      "avgPosition": 23,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.583
+    },
+    {
+      "domain": "www.thegarlicdiaries.com",
+      "avgPosition": 55.4,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "beyondnorm.com",
+      "avgPosition": 56.5,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "www.greedygourmet.com",
+      "avgPosition": 51.888888888888886,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.557
+    },
+    {
+      "domain": "thesubversivetable.com",
+      "avgPosition": 38.42857142857143,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.currytrail.in",
+      "avgPosition": 46.75,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 2.646
+    },
+    {
+      "domain": "www.recipesaresimple.com",
+      "avgPosition": 57.5,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "thegourmandstable.com",
+      "avgPosition": 58.8,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.662000000000001
+    },
+    {
+      "domain": "www.forksoverknives.com",
+      "avgPosition": 32.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 4.242
+    }
+  ]
+}
