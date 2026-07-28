@@ -1,0 +1,33 @@
+{
+  "captured_at": "2026-07-28T10:56:47.476Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/best-hotels/bangkok/",
+  "cost": 0.01236,
+  "rankings": [
+    {
+      "keyword": "bangkok thailand best hotels",
+      "position": 80,
+      "volume": 2400,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/best-hotels/bangkok/"
+    },
+    {
+      "keyword": "best hotels in bkk",
+      "position": 78,
+      "volume": 2400,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/best-hotels/bangkok/"
+    },
+    {
+      "keyword": "good hotel in bangkok thailand",
+      "position": 66,
+      "volume": 2400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/best-hotels/bangkok/"
+    }
+  ]
+}

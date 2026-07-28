@@ -1,0 +1,68 @@
+{
+  "captured_at": "2026-07-28T10:56:46.592Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "bangkok hotel recommendations",
+  "costs": {
+    "suggestions": 0.01248,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "bangkok hotel recommendations",
+    "hotel recommendations bangkok",
+    "hotel recommendations in bangkok",
+    "hotel recommendations bangkok reddit"
+  ],
+  "keywords": [
+    {
+      "keyword": "hotel recommendations bangkok",
+      "volume": 20,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel recommendations in bangkok",
+      "volume": 20,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel recommendations bangkok reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok hotel recommendations",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok hotel recommendations 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
