@@ -21,6 +21,7 @@ import { ThaiFriedRiceGuideEn } from '../../components/food/ThaiFriedRiceGuideEn
 import { KhaoManGaiGuideEn } from '../../components/food/KhaoManGaiGuideEn';
 import { BoatNoodlesGuideEn } from '../../components/food/BoatNoodlesGuideEn';
 import { SaiUaGuideEn } from '../../components/food/SaiUaGuideEn';
+import { NamPrikOngGuideEn } from '../../components/food/NamPrikOngGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -160,6 +161,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'sai-ua') {
     return <SaiUaGuideEn />;
+  }
+
+  if (dish.slug === 'nam-prik-ong') {
+    return <NamPrikOngGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
