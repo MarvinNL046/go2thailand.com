@@ -1,0 +1,605 @@
+{
+  "summary": {
+    "captured_at": "2026-07-28T06:16:08.913Z",
+    "locale": "en",
+    "market": {
+      "language_code": "en",
+      "location_name": "United Kingdom"
+    },
+    "keyword": "are tamarind prawns spicy",
+    "cost": 0.00215,
+    "organic": [
+      {
+        "position": 4,
+        "title": "Spicy tamarind prawns recipe",
+        "url": "https://www.bbcgoodfood.com/recipes/spicy-tamarind-prawns",
+        "domain": "www.bbcgoodfood.com",
+        "description": "Spicy tamarind paste, a zesty lime mayo and chilli prawns make this 15-minute meal something special. Try this quick and refreshing midweek supper for two Read more"
+      },
+      {
+        "position": 5,
+        "title": "Nasi Lemak Recipe (Part 2) - Tamarind Prawns",
+        "url": "https://blog.seasonwithspice.com/2011/05/tamarind-prawns-asam-prawns.html",
+        "domain": "blog.seasonwithspice.com",
+        "description": "The tamarind gives the prawns a subtle sourness that is not quite lemony, and the tang of a sweet, fruity vinegar. No wonder the spice is said to be a sublime ..."
+      },
+      {
+        "position": 6,
+        "title": "Tangy Tamarind Prawns",
+        "url": "https://www.harighotra.co.uk/tamarind-prawns-recipe",
+        "domain": "www.harighotra.co.uk",
+        "description": "Spicy prawns cooked in a rich tangy tamarind tomato sauce. Great served with poori. Hari says. I love this dish not only because it tastes fantastic but also ... Read more"
+      },
+      {
+        "position": 7,
+        "title": "Thai Tamarind Shrimp Recipe (Goong Pad Makaam)",
+        "url": "https://hot-thai-kitchen.com/tamarind-shrimp/",
+        "domain": "hot-thai-kitchen.com",
+        "description": "5 May 2024 — Thai chilies, to taste. A little heat is nice to balance the sweetness of this dish, but feel free to make it as spicy as you can tolerate. Read more"
+      },
+      {
+        "position": 8,
+        "title": "Spicy Tamarind Prawns - Heart-healthy recipes",
+        "url": "https://www.heartfoundation.org.nz/wellbeing/healthy-recipes/spicy-tamarind-prawns",
+        "domain": "www.heartfoundation.org.nz",
+        "description": "Spicy tamarind prawns. This is a sweet and sour dish with a difference. The tamarind brings a refreshing sourness and a deep caramel colour. Read more"
+      },
+      {
+        "position": 10,
+        "title": "Vietnamese spicy shrimp in tamarind sauce - A Bowl of Sugar",
+        "url": "https://www.abowlofsugar.com/post/vietnamese-spicy-shrimp-in-tamarind-sauce",
+        "domain": "www.abowlofsugar.com",
+        "description": "12 Jun 2022 — The shrimp are coated heavily in a sour tamarind sauce and pop with the heat from Sriracha sauce. taste for spice, sour, and sweet."
+      },
+      {
+        "position": 11,
+        "title": "Southern Thai Tamarind Prawns",
+        "url": "https://www.marionskitchen.com/southern-thai-tamarind-prawns/",
+        "domain": "www.marionskitchen.com",
+        "description": "If you're a sweet 'n' sour kinda person, then you'll love these Southern Thai Tamarind Prawns. Juicy, saucy and ready in 20 minutes flat."
+      }
+    ],
+    "peopleAlsoAsk": [
+      "What are tamarind prawns?",
+      "Is tamarind sauce spicy?",
+      "What flavor does tamarind taste like?",
+      "Is tamarind considered a spice?",
+      "What does tamarind taste like?",
+      "What is tamarind made of?"
+    ],
+    "relatedSearches": [],
+    "features": [
+      "ai_overview",
+      "recipes",
+      "people_also_ask",
+      "organic",
+      "video",
+      "related_searches"
+    ]
+  },
+  "raw": {
+    "keyword": "are tamarind prawns spicy",
+    "type": "organic",
+    "se_domain": "google.com",
+    "location_code": 2826,
+    "language_code": "en",
+    "check_url": "https://www.google.com/search?q=are%20tamarind%20prawns%20spicy&hl=en&gl=GB&ie=UTF-8&uule=w+CAIQIFISCamRx0IRO1oCEXoliDJDoPjE",
+    "datetime": "2026-07-28 06:16:17 +00:00",
+    "spell": null,
+    "refinement_chips": null,
+    "item_types": [
+      "ai_overview",
+      "recipes",
+      "people_also_ask",
+      "organic",
+      "video",
+      "related_searches"
+    ],
+    "se_results_count": 123,
+    "pages_count": 1,
+    "items_count": 12,
+    "items": [
+      {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+      },
+      {
+        "type": "recipes",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/g-section-with-header[1]",
+        "items": [
+          {
+            "type": "recipes_element",
+            "title": "Spicy tamarind prawns",
+            "url": "https://www.bbcgoodfood.com/recipes/spicy-tamarind-prawns",
+            "domain": "www.bbcgoodfood.com",
+            "source": "BBC Good Food",
+            "description": "Rice, tiger prawns, toasted sesame seeds, tamarind paste, lime",
+            "time": "15 mins",
+            "rating": {
+              "rating_type": "Max5",
+              "value": 4,
+              "votes_count": 4,
+              "rating_max": 5
+            }
+          },
+          {
+            "type": "recipes_element",
+            "title": "Tangy Tamarind Prawns",
+            "url": "https://www.harighotra.co.uk/tamarind-prawns-recipe",
+            "domain": "www.harighotra.co.uk",
+            "source": "Hari Ghotra",
+            "description": "King prawns, fresh tomatoes, tamarind paste, garam masala, ginger",
+            "time": null,
+            "rating": {
+              "rating_type": "Max5",
+              "value": 3.8,
+              "votes_count": 69,
+              "rating_max": 5
+            }
+          },
+          {
+            "type": "recipes_element",
+            "title": "Thai Tamarind Shrimp (goong pad makam)",
+            "url": "https://hot-thai-kitchen.com/tamarind-shrimp/",
+            "domain": "hot-thai-kitchen.com",
+            "source": "Hot Thai Kitchen",
+            "description": "Jasmine rice, green bell peppers, fish sauce, tamarind paste, palm sugar",
+            "time": "30 mins",
+            "rating": {
+              "rating_type": "Max5",
+              "value": 4.9,
+              "votes_count": 14,
+              "rating_max": 5
+            }
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+          {
+            "type": "people_also_ask_element",
+            "title": "What are tamarind prawns?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://www.sidechef.com/recipes/8001/tamarind_shrimp_malaysian_assam_prawns/",
+                "domain": "www.sidechef.com",
+                "title": "Tamarind Shrimp (Malaysian Assam Prawns) Recipe - SideChef",
+                "description": "Tamarind Shrimp (or Assam Prawns) is a Malaysian Nyonya dish that is so easy to prepare and yet delivers huge flavor. The sweet, sour and savory flavors of tamarind pair so well with the shrimp. Best of all, it's ridiculously easy to prepare with only 4 ingredients!",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Is tamarind sauce spicy?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What flavor does tamarind taste like?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Is tamarind considered a spice?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What does tamarind taste like?",
+            "seed_question": "What are tamarind prawns?",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[7]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What is tamarind made of?",
+            "seed_question": "What are tamarind prawns?",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[8]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "www.bbcgoodfood.com",
+        "title": "Spicy tamarind prawns recipe",
+        "url": "https://www.bbcgoodfood.com/recipes/spicy-tamarind-prawns",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.bbcgoodfood.com › Recipes",
+        "website_name": "Good Food",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Spicy tamarind paste, a zesty lime mayo and chilli prawns make this 15-minute meal something special. Try this quick and refreshing midweek supper for two Read more",
+        "pre_snippet": "4.0(4) · 15 mins",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4,
+          "votes_count": 4,
+          "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+          "Spicy tamarind paste, a zesty lime mayo and chilli prawns"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "blog.seasonwithspice.com",
+        "title": "Nasi Lemak Recipe (Part 2) - Tamarind Prawns",
+        "url": "https://blog.seasonwithspice.com/2011/05/tamarind-prawns-asam-prawns.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://blog.seasonwithspice.com › 2011/05 › tamarind-p...",
+        "website_name": "Season with Spice",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "The tamarind gives the prawns a subtle sourness that is not quite lemony, and the tang of a sweet, fruity vinegar. No wonder the spice is said to be a sublime ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "The tamarind gives the prawns a subtle sourness that is not quite lemony"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "www.harighotra.co.uk",
+        "title": "Tangy Tamarind Prawns",
+        "url": "https://www.harighotra.co.uk/tamarind-prawns-recipe",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.harighotra.co.uk › tamarind-prawns-recipe",
+        "website_name": "Hari Ghotra",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Spicy prawns cooked in a rich tangy tamarind tomato sauce. Great served with poori. Hari says. I love this dish not only because it tastes fantastic but also ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 3.8,
+          "votes_count": 69,
+          "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+          "Spicy prawns cooked in a rich tangy tamarind tomato sauce"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "hot-thai-kitchen.com",
+        "title": "Thai Tamarind Shrimp Recipe (Goong Pad Makaam)",
+        "url": "https://hot-thai-kitchen.com/tamarind-shrimp/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://hot-thai-kitchen.com › ... › Fish & Seafood",
+        "website_name": "Hot Thai Kitchen",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "5 May 2024 — Thai chilies, to taste. A little heat is nice to balance the sweetness of this dish, but feel free to make it as spicy as you can tolerate. Read more",
+        "pre_snippet": "4.9(14) · 30 mins",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.9,
+          "votes_count": 14,
+          "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+          "make it as spicy as you can tolerate"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "www.heartfoundation.org.nz",
+        "title": "Spicy Tamarind Prawns - Heart-healthy recipes",
+        "url": "https://www.heartfoundation.org.nz/wellbeing/healthy-recipes/spicy-tamarind-prawns",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.heartfoundation.org.nz › wellbeing › spicy...",
+        "website_name": "Heart Foundation NZ",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Spicy tamarind prawns. This is a sweet and sour dish with a difference. The tamarind brings a refreshing sourness and a deep caramel colour. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Spicy tamarind prawns"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]",
+        "items": [
+          {
+            "type": "video_element",
+            "source": "YouTube · Mon's Easy Kitchen",
+            "title": "Epic Sweet & Spicy Tamarind Shrimp - A perfect one-pan ...",
+            "timestamp": "2024-05-30 00:00:00 +00:00",
+            "url": "https://www.youtube.com/watch?v=B7t-vCQrlh8"
+          },
+          {
+            "type": "video_element",
+            "source": "Facebook · Marion Grasby",
+            "title": "Sweet, sour, savoury and saucy… these Southern Thai ...",
+            "timestamp": "2026-07-14 06:16:16 +00:00",
+            "url": "https://www.facebook.com/mariongrasby/videos/sweet-sour-savoury-and-saucy-these-southern-thai-tamarind-prawns-are-impossible-/1072979055160428/"
+          },
+          {
+            "type": "video_element",
+            "source": "YouTube · Ivon's kitchen",
+            "title": "Assam Prawns | Peranakan Tamarind Prawns | Easy ...",
+            "timestamp": "2023-01-22 00:00:00 +00:00",
+            "url": "https://www.youtube.com/watch?v=8ROaS3pOIrM"
+          },
+          {
+            "type": "video_element",
+            "source": "Facebook · Hot Thai Kitchen",
+            "title": "Tamarind shrimp is a “very Thai” dish in my mind. I'm not ...",
+            "timestamp": "2025-12-16 00:00:00 +00:00",
+            "url": "https://www.facebook.com/HotThaiKitchen/videos/tamarind-shrimp-is-a-very-thai-dish-in-my-mind-im-not-officially-classifying-dis/1183251613408642/"
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.abowlofsugar.com",
+        "title": "Vietnamese spicy shrimp in tamarind sauce - A Bowl of Sugar",
+        "url": "https://www.abowlofsugar.com/post/vietnamese-spicy-shrimp-in-tamarind-sauce",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.abowlofsugar.com › post › vietnamese-spic...",
+        "website_name": "abowlofsugar.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "12 Jun 2022 — The shrimp are coated heavily in a sour tamarind sauce and pop with the heat from Sriracha sauce. taste for spice, sour, and sweet.",
+        "pre_snippet": "06/12/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "The shrimp are coated heavily in a sour tamarind sauce"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-06-12 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "www.marionskitchen.com",
+        "title": "Southern Thai Tamarind Prawns",
+        "url": "https://www.marionskitchen.com/southern-thai-tamarind-prawns/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.marionskitchen.com › Dinner Party",
+        "website_name": "Marion's Kitchen",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "If you're a sweet 'n' sour kinda person, then you'll love these Southern Thai Tamarind Prawns. Juicy, saucy and ready in 20 minutes flat.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Juicy, saucy and ready in 20 minutes flat"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+          "Tamarind prawns Thai",
+          "Tamarind prawn stir fry",
+          "Tamarind prawns Indian style",
+          "Tamarind prawns recipe",
+          "Tamarind prawn curry",
+          "Vietnamese tamarind shrimp",
+          "Tamarind prawns Nyonya",
+          "Crispy tamarind shrimp"
+        ],
+        "rectangle": null
+      }
+    ]
+  }
+}
