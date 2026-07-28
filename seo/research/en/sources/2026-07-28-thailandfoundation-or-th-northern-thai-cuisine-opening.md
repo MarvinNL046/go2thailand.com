@@ -1,6 +1,6 @@
 # DFS parsed source — https://thailandfoundation.or.th/northern-thai-cuisine-opening/
 
-**Captured:** 2026-07-28T02:55:16.651Z
+**Captured:** 2026-07-28T03:19:27.811Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
