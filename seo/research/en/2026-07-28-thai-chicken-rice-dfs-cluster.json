@@ -1,0 +1,2237 @@
+{
+  "captured_at": "2026-07-28T02:26:38.922Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai chicken rice",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.01296,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thai chicken rice",
+    "thai chicken fried rice recipe",
+    "thai chicken fried rice recipes",
+    "chicken and rice thai",
+    "chicken fried rice thai",
+    "chicken rice thai",
+    "chicken thai fried rice",
+    "thai chicken and rice",
+    "thai chicken fried rice",
+    "thai chicken with rice",
+    "thai fried chicken rice",
+    "thai fried rice chicken",
+    "thai fried rice with chicken",
+    "thai rice and chicken",
+    "thai rice chicken",
+    "thai rice with chicken",
+    "thai basil chicken fried rice",
+    "itsu thai chicken rice bowl",
+    "spicy chicken fried rice thai"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai chicken fried rice recipe",
+      "volume": 390,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice recipes",
+      "volume": 390,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken and rice thai",
+      "volume": 260,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice thai",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken rice thai",
+      "volume": 260,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai fried rice",
+      "volume": 260,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice",
+      "volume": 260,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai chicken with rice",
+      "volume": 260,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried chicken rice",
+      "volume": 260,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice chicken",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with chicken",
+      "volume": 260,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice and chicken",
+      "volume": 260,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice chicken",
+      "volume": 260,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice with chicken",
+      "volume": 260,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil chicken fried rice",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "itsu thai chicken rice bowl",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy chicken fried rice thai",
+      "volume": 70,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai spicy chicken fried rice",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken rice thai recipe",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice recipe",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice recipes",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice recipe",
+      "volume": 50,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai chicken with rice recipe",
+      "volume": 50,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice chicken recipe",
+      "volume": 50,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken and rice thai soup",
+      "volume": 40,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken rice soup thai",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai soup with rice",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao man gai recipe",
+      "volume": 40,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice soup",
+      "volume": 40,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice soup",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken soup with rice",
+      "volume": 40,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice soup chicken",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice soup with chicken",
+      "volume": 40,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao man gai sauce",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao man gai tod",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry chicken and rice",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style chicken fried rice",
+      "volume": 30,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "basil chicken rice thai",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice recipe thai",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice thai recipe",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken rice sauce thai",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai fried rice recipe",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil chicken rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken curry and rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken curry rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice bowl",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice sauce",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry chicken and rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry chicken rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried chicken rice recipe",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice chicken recipe",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe chicken",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with pineapple and chicken",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple chicken fried rice",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice chicken",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with chicken",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style chicken rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai-style chicken rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai chicken fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai pineapple fried rice with chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "calories in thai basil chicken no rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "calories in thai basil chicken with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "calories in thai chicken curry with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "calories in thai green chicken curry with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "calories in thai pineapple fried rice with chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "calories in thai red curry chicken with rice",
+      "volume": 10,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice in thai",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice in thai language",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken over rice thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai with rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken rice in thai",
+      "volume": 10,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken rice in thai language",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken rice noodles thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai basil rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai pot rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cook's country thai chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "creamy thai chicken and rice soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "crispy chicken fried rice thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy thai chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "farmfoods thai chicken curry and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fried rice thai chicken",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fried rice with chicken thai",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gordon ramsay spicy chicken wings thai green curry rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hainanese chicken rice thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "halal thai chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many calories in thai chicken fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "itsu thai chicken rice bowl calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "itsu thai chicken rice bowl recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao man gai soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao man gai thai style chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao man gai thai-style chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao man gai vs hainanese chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "low carb thai chicken curry with coconut cauliflower rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "marion thai chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "one pan thai coconut chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "one pot thai chicken curry and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "oven baked thai chicken rice",
+      "volume": 10,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rosa's thai chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai basil chicken fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai chicken and rice noodle corelife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai chicken fried rice",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai fried rice with chicken",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sticky rice with chicken thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil chicken with coconut rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil chicken with rice airasia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice chicken",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice with chicken",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil rice with chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai cashew chicken stir fry with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice bake",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice dishes",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice soup calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice soup with ginger",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and rice tray bake",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken and sticky rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken coconut rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken dishes with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice marion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice nutrition",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken meatballs with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken mince with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken over rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice bowl itsu",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice bowl recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice chilli sauce",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice marion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice noodle soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice paper rolls",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice pizza hut",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice singapore",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice tray bake",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken salad with rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken stir fry with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken stir fry with rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken tray bake with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken wild rice soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken with coconut rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai clear chicken rice soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai coconut chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai coconut chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai coconut chicken with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai crispy chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry chicken fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai egg fried rice chicken recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai express chicken fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai flavoured chicken mince with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried chicken rice marion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice chicken calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with chicken calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai garlic chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai ginger chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai grilled chicken with sticky rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai hainanese chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai peanut chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai peanut chicken rice bowl",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai peanut chicken with coconut rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai peanut chicken with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with chicken and cashews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai red curry chicken with rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai red curry with chicken and rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice and chicken recipes",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice and chicken soup",
+      "volume": 10,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodle recipe chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodles and chicken recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodles with chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice porridge chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice recipe chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai roast chicken thighs with coconut rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai satay chicken with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai spicy basil chicken fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai sticky rice and chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai sticky rice with chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style chicken and rice soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai turmeric chicken rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai yellow rice chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai-style chicken curry with basil and jasmine rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wicked thai chicken and rice soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wicked thai chicken and rice soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai chicken and rice noodle corelife recipe",
+      "volume": 0,
+      "kd": 49,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil chicken fried rice near me",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.corianderandlace.com",
+      "avgPosition": 4.333333333333333,
+      "keywordCount": 18,
+      "visibility": 12.55,
+      "estimatedTraffic": 526.4350000000001
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 5.166666666666667,
+      "keywordCount": 18,
+      "visibility": 10.499999999999998,
+      "estimatedTraffic": 278.902
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 6.166666666666667,
+      "keywordCount": 18,
+      "visibility": 10.200000000000003,
+      "estimatedTraffic": 313.478
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 6.444444444444445,
+      "keywordCount": 18,
+      "visibility": 10.100000000000001,
+      "estimatedTraffic": 746.5209999999998
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12.444444444444445,
+      "keywordCount": 18,
+      "visibility": 3.05,
+      "estimatedTraffic": 69.464
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 7.529411764705882,
+      "keywordCount": 17,
+      "visibility": 7.199999999999999,
+      "estimatedTraffic": 189.52100000000004
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 18,
+      "visibility": 1.3000000000000005,
+      "estimatedTraffic": 30.161999999999995
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 19,
+      "keywordCount": 17,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 20.296
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 16.375,
+      "keywordCount": 16,
+      "visibility": 1.4500000000000004,
+      "estimatedTraffic": 39.516
+    },
+    {
+      "domain": "www.manusmenu.com",
+      "avgPosition": 19.133333333333333,
+      "keywordCount": 15,
+      "visibility": 0.8000000000000003,
+      "estimatedTraffic": 21.873000000000005
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 9.692307692307692,
+      "keywordCount": 13,
+      "visibility": 3.5,
+      "estimatedTraffic": 92.282
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 28.125,
+      "keywordCount": 16,
+      "visibility": 0.25,
+      "estimatedTraffic": 13.04
+    },
+    {
+      "domain": "www.skinnytaste.com",
+      "avgPosition": 10.818181818181818,
+      "keywordCount": 11,
+      "visibility": 2.7,
+      "estimatedTraffic": 54.937
+    },
+    {
+      "domain": "www.simplyrecipes.com",
+      "avgPosition": 25,
+      "keywordCount": 13,
+      "visibility": 0.2,
+      "estimatedTraffic": 9.171
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 40.5,
+      "keywordCount": 16,
+      "visibility": 0.05,
+      "estimatedTraffic": 10.626999999999999
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 3.6666666666666665,
+      "keywordCount": 9,
+      "visibility": 7.6,
+      "estimatedTraffic": 638.966
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 27.75,
+      "keywordCount": 12,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 20.225999999999996
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 34.30769230769231,
+      "keywordCount": 13,
+      "visibility": 0.7,
+      "estimatedTraffic": 16.953999999999997
+    },
+    {
+      "domain": "steenbergs.co.uk",
+      "avgPosition": 23.636363636363637,
+      "keywordCount": 11,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 25.32399999999999
+    },
+    {
+      "domain": "thatspicychick.com",
+      "avgPosition": 18.2,
+      "keywordCount": 10,
+      "visibility": 1.5500000000000003,
+      "estimatedTraffic": 33.006
+    },
+    {
+      "domain": "www.chewoutloud.com",
+      "avgPosition": 2.25,
+      "keywordCount": 8,
+      "visibility": 7,
+      "estimatedTraffic": 442.226
+    },
+    {
+      "domain": "flavorfulife.com",
+      "avgPosition": 22.4,
+      "keywordCount": 10,
+      "visibility": 0.25,
+      "estimatedTraffic": 8.528
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 4.375,
+      "keywordCount": 8,
+      "visibility": 5.3,
+      "estimatedTraffic": 163.604
+    },
+    {
+      "domain": "www.bluedragon.co.uk",
+      "avgPosition": 9.875,
+      "keywordCount": 8,
+      "visibility": 3.7,
+      "estimatedTraffic": 91.516
+    },
+    {
+      "domain": "schoolofwok.co.uk",
+      "avgPosition": 20.11111111111111,
+      "keywordCount": 9,
+      "visibility": 1.15,
+      "estimatedTraffic": 22.525000000000002
+    },
+    {
+      "domain": "www.elmundoeats.com",
+      "avgPosition": 12.25,
+      "keywordCount": 8,
+      "visibility": 0.55,
+      "estimatedTraffic": 19.709999999999997
+    },
+    {
+      "domain": "www.deliciousmagazine.co.uk",
+      "avgPosition": 39.81818181818182,
+      "keywordCount": 11,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.809
+    },
+    {
+      "domain": "cookdinehost.com",
+      "avgPosition": 18.375,
+      "keywordCount": 8,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 17.337999999999997
+    },
+    {
+      "domain": "www.dinneratthezoo.com",
+      "avgPosition": 23.25,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.514000000000001
+    },
+    {
+      "domain": "www.templeofthai.com",
+      "avgPosition": 39.6,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.643000000000001
+    },
+    {
+      "domain": "www.pinterest.com",
+      "avgPosition": 47.90909090909091,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 6.258
+    },
+    {
+      "domain": "www.tamingtwins.com",
+      "avgPosition": 4.5,
+      "keywordCount": 6,
+      "visibility": 3.9000000000000004,
+      "estimatedTraffic": 109.44200000000001
+    },
+    {
+      "domain": "thaisq.com",
+      "avgPosition": 30.625000000000004,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.274
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 32.5,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.632
+    },
+    {
+      "domain": "nishkitchen.com",
+      "avgPosition": 40.111111111111114,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 5.187
+    },
+    {
+      "domain": "hapanom.com",
+      "avgPosition": 25.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.538
+    },
+    {
+      "domain": "thehappyfoodie.co.uk",
+      "avgPosition": 36.125,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.7459999999999996
+    },
+    {
+      "domain": "www.drapervalleyfarms.com",
+      "avgPosition": 36.625,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 4.515
+    },
+    {
+      "domain": "www.geelongcity.vic.gov.au",
+      "avgPosition": 28.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.694000000000001
+    },
+    {
+      "domain": "inquiringchef.com",
+      "avgPosition": 28.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.94
+    },
+    {
+      "domain": "mommyshomecooking.com",
+      "avgPosition": 29.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.25,
+      "estimatedTraffic": 9.826
+    },
+    {
+      "domain": "whatgreatgrandmaate.com",
+      "avgPosition": 33.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.583
+    },
+    {
+      "domain": "nasilemaklover.blogspot.com",
+      "avgPosition": 47.625,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.345999999999999
+    },
+    {
+      "domain": "www.pattysaveurs.com",
+      "avgPosition": 40.857142857142854,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 4.367999999999999
+    },
+    {
+      "domain": "www.food.com",
+      "avgPosition": 62.54545454545455,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 6.1530000000000005
+    },
+    {
+      "domain": "cookpad.com",
+      "avgPosition": 41.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 4.6419999999999995
+    },
+    {
+      "domain": "pho-expressangkor.com",
+      "avgPosition": 59.6,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 5.838
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 33.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.9059999999999997
+    },
+    {
+      "domain": "tastythais.com",
+      "avgPosition": 43.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 4.367999999999999
+    },
+    {
+      "domain": "thecraversguide.com",
+      "avgPosition": 43.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 4.577999999999999
+    }
+  ]
+}
