@@ -41,6 +41,7 @@ import { GaiTodHatYaiGuideEn } from '../../components/food/GaiTodHatYaiGuideEn';
 import { KhaoYamGuideEn } from '../../components/food/KhaoYamGuideEn';
 import { NamNgiaoGuideEn } from '../../components/food/NamNgiaoGuideEn';
 import { TamKhanunGuideEn } from '../../components/food/TamKhanunGuideEn';
+import { KhaoKanJinGuideEn } from '../../components/food/KhaoKanJinGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -260,6 +261,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'tam-khanun') {
     return <TamKhanunGuideEn />;
+  }
+
+  if (dish.slug === 'khao-kan-jin') {
+    return <KhaoKanJinGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
