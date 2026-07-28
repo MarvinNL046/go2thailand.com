@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.midnightblueelephant.com/travel-guide-koh-tao/
 
-**Captured:** 2026-07-28T17:58:11.867Z
+**Captured:** 2026-07-28T18:25:32.251Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
