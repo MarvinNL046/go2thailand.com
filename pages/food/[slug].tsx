@@ -32,6 +32,7 @@ import { HoiTodGuideEn } from '../../components/food/HoiTodGuideEn';
 import { PlaPaoGuideEn } from '../../components/food/PlaPaoGuideEn';
 import { YamWoonSenGuideEn } from '../../components/food/YamWoonSenGuideEn';
 import { KhaoPadSapparotGuideEn } from '../../components/food/KhaoPadSapparotGuideEn';
+import { RotiSaiMaiGuideEn } from '../../components/food/RotiSaiMaiGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -215,6 +216,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'khao-pad-sapparot') {
     return <KhaoPadSapparotGuideEn />;
+  }
+
+  if (dish.slug === 'roti-sai-mai') {
+    return <RotiSaiMaiGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
