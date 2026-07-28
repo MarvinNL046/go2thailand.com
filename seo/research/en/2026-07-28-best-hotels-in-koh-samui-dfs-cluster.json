@@ -1,0 +1,1628 @@
+{
+  "captured_at": "2026-07-28T12:27:50.373Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels in koh samui",
+  "costs": {
+    "suggestions": 0.01608,
+    "related": 0.02508,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "best hotels in koh samui",
+    "best hotels in koh samui thailand",
+    "best hotels in thailand koh samui",
+    "best family hotels in koh samui",
+    "best hotels in koh samui for families",
+    "best hotels in koh samui for family",
+    "best luxury hotels in koh samui",
+    "best hotels in chaweng beach koh samui",
+    "best hotels in koh samui chaweng beach",
+    "best hotels in chaweng koh samui",
+    "best hotels in lamai koh samui",
+    "best 5 star hotels in koh samui",
+    "best 5-star hotels in koh samui",
+    "best five star hotels in koh samui",
+    "best hotels in koh samui for couples",
+    "best 4 star hotels in koh samui",
+    "best all inclusive hotels in koh samui",
+    "best all-inclusive hotels in koh samui",
+    "best boutique hotels in koh samui"
+  ],
+  "keywords": [
+    {
+      "keyword": "koh samui holidays",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "melia koh samui",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "amari koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lamai koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "santiburi koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in thailand koh samui",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chaweng regent beach resort",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ozo chaweng samui",
+      "volume": 1000,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sala samui chaweng beach resort",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui",
+      "volume": 720,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in koh samui",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holiday inn koh samui",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "buri rasa village phangan",
+      "volume": 480,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng beach hotels",
+      "volume": 480,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels chaweng beach koh samui",
+      "volume": 480,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in chaweng koh samui",
+      "volume": 480,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui 5 star hotels",
+      "volume": 480,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels 5 star",
+      "volume": 480,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels on the beach",
+      "volume": 390,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "water park samui",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng koh samui",
+      "volume": 320,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d koh samui chaweng beach",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "buri rasa village samui",
+      "volume": 260,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels luxury",
+      "volume": 260,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "baan chaweng beach resort & spa",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "baan chaweng beach resort & spa koh samui",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng beach resort koh samui",
+      "volume": 210,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort samui bophut beach",
+      "volume": 210,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beach resort koh samui",
+      "volume": 170,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui chaweng beach hotels",
+      "volume": 170,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "melia koh samui reviews",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "family hotel koh samui",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels for families",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best family hotels in koh samui",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui for families",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui for family",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels cheap",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in koh samui",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels all inclusive",
+      "volume": 70,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beach hotels in koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beachfront hotels in koh samui",
+      "volume": 50,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in chaweng beach koh samui",
+      "volume": 50,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui chaweng beach",
+      "volume": 50,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng regent beach resort reviews",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui: best area to stay",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ozo chaweng samui reviews",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "santiburi koh samui golf",
+      "volume": 50,
+      "kd": 24,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in koh samui for couples",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bophut koh samui",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in chaweng koh samui",
+      "volume": 40,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in lamai koh samui",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ozo chaweng samui photos",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in koh samui chaweng beach",
+      "volume": 30,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels in koh samui",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 5-star hotels in koh samui",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best area to stay in koh samui for families",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best five star hotels in koh samui",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui for couples",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng regent beach resort photos",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui reviews",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "melia koh samui tripadvisor",
+      "volume": 30,
+      "kd": 20,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sala samui chaweng beach resort reviews",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels to stay in koh samui",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place to stay in koh samui for first timers",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best place to stay in koh samui for first-timers",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "outrigger koh samui beach resort reviews",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "santiburi koh samui reviews",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in koh samui for couples",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "baan chaweng beach resort & spa reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "baan chaweng beach resort & spa tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "baan chaweng beach resort and spa photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 4 star hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best all inclusive hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best all-inclusive hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best boutique hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best budget hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best cheap hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best family friendly hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best honeymoon hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui for honeymoon",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui with private pool",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best party hotels in koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place to stay in koh samui for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best place to stay in koh samui for solo travellers",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "buri rasa village samui photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "buri rasa village samui reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng beach holidays",
+      "volume": 10,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng beach koh samui directions",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng beach luxury hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng regent beach resort breakfast",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng regent beach resort email",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng regent beach resort prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaweng regent beach resort tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "day pass koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holiday inn koh samui reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort samui bophut beach prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui email",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui hotel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency koh samui restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui hotel with water slides",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d koh samui address",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d koh samui chaweng beach beachfront vibrant social vibe",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d koh samui chaweng beach photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d koh samui chaweng beach prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d koh samui chaweng beach reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d koh samui hostel",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d koh samui menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "melia koh samui address",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "melia koh samui gym",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "melia koh samui to chaweng beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "melia koh samui tui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ozo chaweng samui email",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ozo chaweng samui location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ozo chaweng samui prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ozo chaweng samui tui",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sala samui chaweng beach resort location",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the best hotels in koh samui",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the reserve santiburi koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in koh samui for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in koh samui reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in koh samui with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holiday inn koh samui phone number",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels for couples in koh samui",
+      "volume": null,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best value hotels in koh samui",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chaweng regent beach resort restaurant",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui with kids",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "meliá koh samui booking",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "santiburi koh samui holidays",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "santiburi koh samui kids club",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2.6666666666666665,
+      "keywordCount": 6,
+      "visibility": 5,
+      "estimatedTraffic": 248.88
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 4,
+      "keywordCount": 6,
+      "visibility": 4.199999999999999,
+      "estimatedTraffic": 423.455
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 10,
+      "keywordCount": 6,
+      "visibility": 2.4000000000000004,
+      "estimatedTraffic": 371.78
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 10.5,
+      "keywordCount": 6,
+      "visibility": 1.75,
+      "estimatedTraffic": 28.447999999999997
+    },
+    {
+      "domain": "www.thekohsamuiguide.com",
+      "avgPosition": 12.666666666666666,
+      "keywordCount": 6,
+      "visibility": 2.1,
+      "estimatedTraffic": 48.848000000000006
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12.833333333333334,
+      "keywordCount": 6,
+      "visibility": 0.8,
+      "estimatedTraffic": 33.395
+    },
+    {
+      "domain": "www.mrandmrssmith.com",
+      "avgPosition": 13,
+      "keywordCount": 6,
+      "visibility": 2.45,
+      "estimatedTraffic": 95.34800000000001
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 16,
+      "keywordCount": 6,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 36.468999999999994
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 31.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.121999999999999
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 21.6,
+      "keywordCount": 5,
+      "visibility": 0.75,
+      "estimatedTraffic": 89.89099999999999
+    },
+    {
+      "domain": "www.oyster.com",
+      "avgPosition": 46.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 7.055999999999999
+    },
+    {
+      "domain": "www.onefinestay.com",
+      "avgPosition": 3.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.2,
+      "estimatedTraffic": 36.174
+    },
+    {
+      "domain": "travelmadmum.com",
+      "avgPosition": 4.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.9000000000000001,
+      "estimatedTraffic": 23.906
+    },
+    {
+      "domain": "www.anantara.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 12.966000000000001
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 6.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.2999999999999998,
+      "estimatedTraffic": 73.383
+    },
+    {
+      "domain": "paradiseislandestate.com",
+      "avgPosition": 30,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 10.429
+    },
+    {
+      "domain": "biglittletravels.com",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.2,
+      "estimatedTraffic": 13.634
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 45.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 6.909
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.55,
+      "estimatedTraffic": 5.5409999999999995
+    },
+    {
+      "domain": "slh.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 23.128999999999998
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.989
+    },
+    {
+      "domain": "www.forbestravelguide.com",
+      "avgPosition": 11.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 18.195999999999998
+    },
+    {
+      "domain": "www.mumonthemove.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.077
+    },
+    {
+      "domain": "homeiswhereyourbagis.com",
+      "avgPosition": 13.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.3950000000000005
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 30.152
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 16,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 13.811
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 16.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 8.100999999999999
+    },
+    {
+      "domain": "www.stay-in-koh-samui-region.com",
+      "avgPosition": 50.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 4.326
+    },
+    {
+      "domain": "arewethereyetkids.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.413
+    },
+    {
+      "domain": "www.travelmyth.co.uk",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.512
+    },
+    {
+      "domain": "www.luxurylink.com",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.391
+    },
+    {
+      "domain": "nomadmum.com",
+      "avgPosition": 53,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 6.762
+    },
+    {
+      "domain": "www.fourseasons.com",
+      "avgPosition": 23,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9870000000000001
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 25.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.001
+    },
+    {
+      "domain": "www.asiafamilytraveller.com",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.fivestaralliance.com",
+      "avgPosition": 26.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.237
+    },
+    {
+      "domain": "www.tatlerasia.com",
+      "avgPosition": 28,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.258
+    },
+    {
+      "domain": "www.tablethotels.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.237
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 29,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.8149999999999995
+    },
+    {
+      "domain": "www.thehotelguru.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.367
+    },
+    {
+      "domain": "www.besthotelsphuket.com",
+      "avgPosition": 47.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.549
+    },
+    {
+      "domain": "mayaresortsamui.com",
+      "avgPosition": 30.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "theluxuryeditor.com",
+      "avgPosition": 31.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.481999999999999
+    },
+    {
+      "domain": "all.accor.com",
+      "avgPosition": 33,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "northabroad.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 881.5999999999999
+    },
+    {
+      "domain": "www.littlestepsasia.com",
+      "avgPosition": 34,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "hotelierschoice.com",
+      "avgPosition": 60.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 4.326
+    },
+    {
+      "domain": "www.harpersbazaar.com",
+      "avgPosition": 35,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.237
+    },
+    {
+      "domain": "luxuryhotel.world",
+      "avgPosition": 36,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.237
+    },
+    {
+      "domain": "classytravelguides.com",
+      "avgPosition": 4.5,
+      "keywordCount": 2,
+      "visibility": 1.2999999999999998,
+      "estimatedTraffic": 166.41
+    }
+  ]
+}
