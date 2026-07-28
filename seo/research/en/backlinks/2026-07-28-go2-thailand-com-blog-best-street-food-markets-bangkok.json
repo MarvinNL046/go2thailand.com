@@ -1,0 +1,72 @@
+{
+  "captured_at": "2026-07-28T22:49:57.151Z",
+  "locale": "en",
+  "target": "https://go2-thailand.com/blog/best-street-food-markets-bangkok/",
+  "cost": 0.024036,
+  "summary": {
+    "rank": 0,
+    "backlinks": 2,
+    "referringDomains": 2,
+    "referringPages": 2,
+    "referringMainDomains": 2,
+    "dofollow": null,
+    "firstSeen": "2026-04-12 02:23:57 +00:00"
+  },
+  "raw": {
+    "target": "https://go2-thailand.com/blog/best-street-food-markets-bangkok/",
+    "first_seen": "2026-04-12 02:23:57 +00:00",
+    "lost_date": null,
+    "rank": 0,
+    "backlinks": 2,
+    "backlinks_spam_score": 0,
+    "crawled_pages": 1,
+    "info": {
+      "server": "cloudflare",
+      "cms": null,
+      "platform_type": [
+        "organization"
+      ],
+      "ip_address": "172.67.141.200",
+      "country": "WW",
+      "is_ip": false,
+      "target_spam_score": 0
+    },
+    "internal_links_count": 89,
+    "external_links_count": 47,
+    "broken_backlinks": 0,
+    "broken_pages": 0,
+    "referring_domains": 2,
+    "referring_domains_nofollow": 0,
+    "referring_main_domains": 2,
+    "referring_main_domains_nofollow": 0,
+    "referring_ips": 2,
+    "referring_subnets": 2,
+    "referring_pages": 2,
+    "referring_pages_nofollow": 0,
+    "referring_links_tld": {
+      "net": 1,
+      "in": 1
+    },
+    "referring_links_types": {
+      "anchor": 2
+    },
+    "referring_links_attributes": {
+      "noopener": 2,
+      "noreferrer": 1
+    },
+    "referring_links_platform_types": {
+      "organization": 2,
+      "blogs": 1,
+      "cms": 1,
+      "news": 1
+    },
+    "referring_links_semantic_locations": {
+      "details": 1,
+      "article": 1
+    },
+    "referring_links_countries": {
+      "": 1,
+      "IN": 1
+    }
+  }
+}
