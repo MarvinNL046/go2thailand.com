@@ -28,7 +28,7 @@ sources:
 
 Durian starts appearing at Thai markets around March, but the real season runs from May through August. June is widely considered the sweet spot — pun intended — when the fruit reaches peak ripeness and flavour. If you are planning a trip specifically for durian, aim for late May or June for the widest selection and best prices. Use our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) to plan around the season.
 
-Outside of peak season, you can still find durian in supermarkets and at speciality vendors, but the variety and freshness will not match what is available in summer. Another beloved summer fruit is [mango sticky rice](/blog/mango-sticky-rice-season-thailand/), which also peaks around the same time.
+Outside of peak season, you can still find durian in supermarkets and at speciality vendors, but the variety and freshness will not match what is available in summer. Another beloved summer fruit is [mango sticky rice](/food/mango-sticky-rice/), which also peaks around the same time.
 
 ## Best Places to Eat Durian in Bangkok
 

@@ -116,7 +116,7 @@ In practice, Srinakarin is best saved for a longer night-out; it’s further fro
 
 ## 4. Yaowarat Chinatown Night Market
 
-**Yaowarat Chinatown Night Market** is Bangkok’s iconic late-evening culinary corridor, where neon signs blaze above wok fires and steam rises from sizzling pans. Our team loves how Yaowarat blends heritage with street-food theatre, offering everything from fiery seafood to sweet [desserts](/blog/mango-sticky-rice-season-thailand/) that pop with color.
+**Yaowarat Chinatown Night Market** is Bangkok’s iconic late-evening culinary corridor, where neon signs blaze above wok fires and steam rises from sizzling pans. Our team loves how Yaowarat blends heritage with street-food theatre, offering everything from fiery seafood to sweet [desserts](/food/mango-sticky-rice/) that pop with color.
 
 ### Getting There
 - Best reached by MRT to Hua Lamphong or a short taxi ride; the neighborhood is dense with alleyways to explore on foot.

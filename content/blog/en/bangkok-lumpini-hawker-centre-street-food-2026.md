@@ -78,7 +78,7 @@ The hawker centre showcases Bangkok's representative street food dishes. Typical
 - **Khao man gai** — Hainanese chicken rice
 - **Pad kra pao** — stir-fried holy basil with minced pork over rice
 - **Khao kha moo** — braised pork leg on rice
-- **[Mango sticky rice](/blog/mango-sticky-rice-season-thailand/)** — the ultimate Thai dessert
+- **[Mango sticky rice](/food/mango-sticky-rice/)** — the ultimate Thai dessert
 
 ### Real sample prices from the trial period
 

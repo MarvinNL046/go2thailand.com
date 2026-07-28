@@ -188,7 +188,7 @@ Chatuchak's dessert vendors (sections 1–2) compete fiercely on mango quality. 
 
 **How to order:** Point at the mango and say "Khao mamuang" or simply "Sticky rice." Ask for "extra coconut cream" ("nam kati perm") if you want a richer version. Cost: THB 60–80 (USD 1.70–2.30).
 
-**Pro Tip:** The best time to buy mango sticky rice is between 10 AM–1 PM, when mangoes are freshest and vendors haven't run out of their best fruit. Want to know when mango season peaks? Check our [mango sticky rice season guide](https://go2-thailand.com/blog/mango-sticky-rice-season-thailand/).
+**Pro Tip:** The best time to buy mango sticky rice is between 10 AM–1 PM, when mangoes are freshest and vendors haven't run out of their best fruit. Want to know when mango season peaks? Check our [mango sticky rice season guide](https://go2-thailand.com/food/mango-sticky-rice/).
 
 ### Roti and Crepes
 

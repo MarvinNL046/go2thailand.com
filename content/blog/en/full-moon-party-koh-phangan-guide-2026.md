@@ -456,7 +456,7 @@ Phaeng Waterfall is the island's main waterfall, a moderate 30-minute hike throu
 
 ### Local Markets and Food
 
-Thong Sala's morning market (open 6–11 AM) offers authentic Thai street food, fresh produce, and local goods. This is where locals actually shop—a genuine slice of island life. For deeper food exploration across the country, check out our [Thai street food guide](/blog/thai-street-food-guide-2026/) and [mango sticky rice season explainer](/blog/mango-sticky-rice-season-thailand/).
+Thong Sala's morning market (open 6–11 AM) offers authentic Thai street food, fresh produce, and local goods. This is where locals actually shop—a genuine slice of island life. For deeper food exploration across the country, check out our [Thai street food guide](/blog/thai-street-food-guide-2026/) and [mango sticky rice season explainer](/food/mango-sticky-rice/).
 
 **Must-try:** Fresh mango sticky rice, grilled fish, pad thai from market vendors (40–80 THB/~$1–2 USD)
 

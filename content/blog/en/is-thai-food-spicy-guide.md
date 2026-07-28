@@ -70,7 +70,7 @@ Not sure what to order? Here is a breakdown of popular Thai dishes by heat level
 These dishes are reliably gentle and perfect for spice-sensitive eaters or children:
 
 - **[Pad Thai](/food/pad-thai/)** -- Stir-fried rice noodles with tamarind sauce, egg, and protein. Thailand's most famous dish is naturally sweet and sour with no chili in the base recipe. Chili flakes are served on the side.
-- **[Mango Sticky Rice](/blog/mango-sticky-rice-season-thailand/) (Khao Niaow Mamuang)** -- Sweet sticky rice topped with fresh mango and coconut cream. A beloved dessert with zero heat. Best eaten during [peak mango season](/blog/mango-sticky-rice-season-thailand/) (April–May).
+- **[Mango Sticky Rice](/food/mango-sticky-rice/) (Khao Niaow Mamuang)** -- Sweet sticky rice topped with fresh mango and coconut cream. A beloved dessert with zero heat. Best eaten during [peak mango season](/food/mango-sticky-rice/) (April–May).
 - **[Khao Man Gai](/food/khao-man-gai/)** -- Poached chicken over fragrant rice with a mild ginger-garlic dipping sauce. A comforting street food staple.
 - **Spring Rolls (Poh Pia Tod)** -- Crispy fried rolls filled with vegetables and glass noodles. Served with a sweet dipping sauce.
 - **Chicken Satay (Satay Gai)** -- Grilled marinated chicken skewers with peanut sauce. Sweet, savoury, and completely mild.

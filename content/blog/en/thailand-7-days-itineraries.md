@@ -472,7 +472,7 @@ Thai food is one of the main reasons to visit. Don't eat only at tourist restaur
 - **[Som Tam](/food/som-tam/):** Spicy green papaya salad. 30–60 THB. Eight regional variations exist—see our guide.
 - **[Tom Yum Goong](/food/tom-yum-goong/):** Spicy shrimp soup. 60–120 THB.
 - **[Thai Curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/):** Green, red, yellow, Massaman, or Panang. 80–150 THB. Our curry guide explains the differences.
-- **[Mango Sticky Rice](/blog/mango-sticky-rice-season-thailand/):** Sweet dessert. 40–80 THB. Best April–May during peak mango season.
+- **[Mango Sticky Rice](/food/mango-sticky-rice/):** Sweet dessert. 40–80 THB. Best April–May during peak mango season.
 - **[Khao Soi](/blog/khao-soi-chiang-mai-guide/):** Northern Thai curry noodles. 50–80 THB in Chiang Mai.
 
 For the full street food picture, read the [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) and the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) before ordering.

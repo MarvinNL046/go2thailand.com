@@ -34,7 +34,7 @@ Here are three of the [best cooking classes in Bangkok](/best-cooking-classes-in
 
 The **Silom Thai Cooking School** is one of Bangkok's longest-running and highest-rated options. Morning and afternoon sessions begin with a guided walk through a fresh market near Silom, where instructors explain key Thai ingredients like galangal, kaffir lime leaves, and shrimp paste.
 
-Back at the school, you cook **five dishes from scratch** at your own station. The menu rotates, but expect classics like [green curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), [tom yum goong](/food/tom-yum-goong/), and [mango sticky rice](/blog/mango-sticky-rice-season-thailand/). Group sizes are kept small, so you get personal guidance throughout.
+Back at the school, you cook **five dishes from scratch** at your own station. The menu rotates, but expect classics like [green curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), [tom yum goong](/food/tom-yum-goong/), and [mango sticky rice](/food/mango-sticky-rice/). Group sizes are kept small, so you get personal guidance throughout.
 
 **Details:** Morning, afternoon, and evening sessions available. The market tour is included in morning and afternoon classes. Prices start at around 1,000 THB. Book via the school's website or through platforms like Viator. See our [best night markets Bangkok guide](/blog/best-night-markets-bangkok-2026/) for more local market experiences.
 

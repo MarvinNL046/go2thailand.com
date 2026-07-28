@@ -143,7 +143,7 @@ Our team loved the Pad Krapow at the street stalls of Chiang Mai.
 
 ## 8. Mango Sticky Rice
 
-Mango Sticky Rice is a beloved dessert made from glutinous rice, fresh mango, and coconut milk. It’s sweet, creamy, and the perfect way to end a meal. The taste depends hugely on the season—read our [mango sticky rice season guide](/blog/mango-sticky-rice-season-thailand/) to know when to visit for the best version.
+Mango Sticky Rice is a beloved dessert made from glutinous rice, fresh mango, and coconut milk. It’s sweet, creamy, and the perfect way to end a meal. The taste depends hugely on the season—read our [mango sticky rice season guide](/food/mango-sticky-rice/) to know when to visit for the best version.
 
 ### Best Locations to Try
 During our island-hopping adventures, we found the best Mango Sticky Rice in Koh Samui.

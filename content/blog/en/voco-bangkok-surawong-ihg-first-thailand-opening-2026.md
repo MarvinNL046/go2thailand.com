@@ -41,7 +41,7 @@ Three restaurants and bars anchor the food and drink offering:
 
 Other amenities include a full lap pool surrounded by landscaped gardens, a 24-hour fitness centre and an onsen-style spa.
 
-A small detail worth mentioning: every guest receives a [mango sticky rice](/blog/mango-sticky-rice-season-thailand/) cookie at check-in. The hotel's pastry chef prepares them daily using fresh local mangoes — a modern nod to one of Thailand's most beloved desserts. If you are exploring the wider Bangkok food scene during your stay, our guide to [Bangkok's top restaurant awards](/blog/bangkok-top-tables-2026-best-restaurants-awards/) covers the city's best tables in 2026.
+A small detail worth mentioning: every guest receives a [mango sticky rice](/food/mango-sticky-rice/) cookie at check-in. The hotel's pastry chef prepares them daily using fresh local mangoes — a modern nod to one of Thailand's most beloved desserts. If you are exploring the wider Bangkok food scene during your stay, our guide to [Bangkok's top restaurant awards](/blog/bangkok-top-tables-2026-best-restaurants-awards/) covers the city's best tables in 2026.
 
 ## Location
 

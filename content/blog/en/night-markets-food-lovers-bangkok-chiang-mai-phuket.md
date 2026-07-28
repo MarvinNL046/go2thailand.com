@@ -185,7 +185,7 @@ Certain dishes transcend geography. You'll find these in Bangkok, Chiang Mai, Ph
 
 **Satay** (grilled meat skewers with peanut sauce) appears everywhere but tastes best in markets with high turnover—which means Bangkok and Phuket more than Chiang Mai. The meat should be tender, the sauce should balance peanut richness with lime brightness, and the char should be visible but not burnt.
 
-**Mango Sticky Rice** ([mango sticky rice](https://go2-thailand.com/food/mango-sticky-rice/)) is the quintessential Thai dessert, but it's [seasonal](/blog/mango-sticky-rice-season-thailand/) (May–September for best mangoes). Outside mango season, vendors use frozen or imported fruit—still delicious, but not transcendent. In Chiang Mai, you'll find sticky rice with other fruits year-round, a northern adaptation.
+**Mango Sticky Rice** ([mango sticky rice](https://go2-thailand.com/food/mango-sticky-rice/)) is the quintessential Thai dessert, but it's [seasonal](/food/mango-sticky-rice/) (May–September for best mangoes). Outside mango season, vendors use frozen or imported fruit—still delicious, but not transcendent. In Chiang Mai, you'll find sticky rice with other fruits year-round, a northern adaptation.
 
 **Ordering Tips & Language:**
 

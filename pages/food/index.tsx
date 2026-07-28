@@ -344,17 +344,15 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                   <div>
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s017_mango_sticky_rice")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      Mango sticky rice is Thailand&apos;s most beloved dessert, and once you try it, you will understand why. Warm glutinous rice is soaked in sweetened coconut cream until each grain is rich and fragrant, then served alongside slices of perfectly ripe nam dok mai mango — a golden, fiberless variety that is intensely sweet and creamy. A drizzle of additional coconut cream and a sprinkle of crispy mung beans or toasted sesame seeds finish the dish. The combination of warm, salty-sweet sticky rice against cool, juicy mango is simple genius. Peak mango season runs from April through June, when the fruit is at its sweetest and most abundant — prices drop and quality soars during these months. Outside of season, vendors still serve it year-round using different mango varieties, but the experience during peak season is unmatched. Street vendors sell portions for 60-100 baht; restaurants charge 120-200 baht.
+                      Mango sticky rice pairs ripe fruit with steamed Thai glutinous rice dressed in sweetened coconut milk and salt. Salted coconut sauce and crisp split mung beans or sesame may finish the plate. Thailand Foundation describes the broad mango season as late March to July, while the dessert remains available year-round; cultivar, ripeness, topping and dietary handling still vary by vendor.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 60-100 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 120-200 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
-                      <p><strong>{isNl ? 'Beste seizoen:' : 'Best season:'}</strong> April - June ({isNl ? 'piek mango seizoen' : 'peak mango season'})</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {isNl ? 'Overal verkrijgbaar, maar Bangkok\'s Yaowarat en nachtmarkten blinken uit' : 'Available everywhere, but Bangkok\'s Yaowarat and night markets excel'}</p>
+                      <p><strong>Season:</strong> late March to July is the broad mango window; availability and ripeness vary.</p>
+                      <p><strong>Dietary check:</strong> ask about condensed milk, dairy, sauce thickener, toppings and shared utensils.</p>
+                      <p><strong>Price:</strong> check the actual stall or restaurant menu for today&apos;s portion and fruit.</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline font-semibold">{t("s018_full_mango_sticky_rice")}</Link>
-                      {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/mango-sticky-rice-season-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s019_when_is_mango_season")}</Link>
+                      <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline font-semibold">Read the complete ingredients, season and eating guide</Link>
                     </p>
                   </div>
                 </div>

@@ -256,7 +256,7 @@ Before you go, make sure you have:
 - A basic understanding of [Thai money and ATMs](/practical-info/atm-money/)
 - Knowledge of [common scams](/practical-info/scams-safety/) to watch out for
 
-Check our [visa guide](/visa/) to make sure you can stay long enough to enjoy it all. For food planning, bookmark the [Thai street food guide](/blog/thai-street-food-guide-2026/), the [mango sticky rice season guide](/blog/mango-sticky-rice-season-thailand/) (peak April–May), and the [som tam regional guide](/food/som-tam/) to eat smart everywhere you go.
+Check our [visa guide](/visa/) to make sure you can stay long enough to enjoy it all. For food planning, bookmark the [Thai street food guide](/blog/thai-street-food-guide-2026/), the [mango sticky rice season guide](/food/mango-sticky-rice/) (peak April–May), and the [som tam regional guide](/food/som-tam/) to eat smart everywhere you go.
 
 ## FAQ
 

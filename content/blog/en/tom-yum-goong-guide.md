@@ -342,7 +342,7 @@ The real nutritional value comes from the herbs and spices:
 
 ### Why Thais Eat It Daily
 
-Tom yum is a staple in Thai cuisine partly because it's light, protein-rich, and packed with beneficial herbs. It's satisfying without being heavy, making it perfect for Thailand's hot climate. The spices aid digestion and promote sweating, which cools the body—a natural adaptation to tropical heat. Read more about [is Thai food healthy](/blog/is-thai-food-healthy/) for a deeper look at the nutritional side of Thai cuisine. After a bowl of tom yum, a dessert of [mango sticky rice](/blog/mango-sticky-rice-season-thailand/) makes for the ideal Thai meal.
+Tom yum is a staple in Thai cuisine partly because it's light, protein-rich, and packed with beneficial herbs. It's satisfying without being heavy, making it perfect for Thailand's hot climate. The spices aid digestion and promote sweating, which cools the body—a natural adaptation to tropical heat. Read more about [is Thai food healthy](/blog/is-thai-food-healthy/) for a deeper look at the nutritional side of Thai cuisine. After a bowl of tom yum, a dessert of [mango sticky rice](/food/mango-sticky-rice/) makes for the ideal Thai meal.
 
 **Health Considerations:**
 - **Sodium:** Fish sauce makes tom yum salty; those watching sodium intake should request less

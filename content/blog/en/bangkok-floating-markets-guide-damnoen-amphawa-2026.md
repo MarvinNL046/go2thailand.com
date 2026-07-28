@@ -38,7 +38,7 @@ The key tip is to arrive early. The market is at its best between 6:00 and 9:00 
 
 Just 90 kilometres from Bangkok, Amphawa is widely considered the more authentic alternative. It operates mainly in the late afternoon and evening, which means you can combine it with a morning visit to Damnoen Saduak on the same [day trip](/blog/best-day-trips-from-bangkok/).
 
-Amphawa is popular with Thai families rather than foreign tour groups — it also features in our roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/). The food is the main draw: grilled river prawns, boat noodles, [mango sticky rice](/blog/mango-sticky-rice-season-thailand/), and Thai-style crepes sold directly from canal-side vendors. After dark, longtail boats offer firefly-watching trips along the Mae Klong River — a unique experience that is hard to find elsewhere near Bangkok. For more unusual night-time options, see our guide to the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/).
+Amphawa is popular with Thai families rather than foreign tour groups — it also features in our roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/). The food is the main draw: grilled river prawns, boat noodles, [mango sticky rice](/food/mango-sticky-rice/), and Thai-style crepes sold directly from canal-side vendors. After dark, longtail boats offer firefly-watching trips along the Mae Klong River — a unique experience that is hard to find elsewhere near Bangkok. For more unusual night-time options, see our guide to the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/).
 
 ## Lesser-Known Alternatives
 

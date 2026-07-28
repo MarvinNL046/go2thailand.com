@@ -219,7 +219,7 @@ Most classes will teach you some combination of these:
 
 - **[Som Tam](/food/som-tam/):** Green papaya salad. This is more about technique and understanding how to balance flavors than actual cooking.
 
-- **[Mango Sticky Rice](/blog/mango-sticky-rice-season-thailand/):** The dessert everyone knows. You'll learn how to make sticky rice properly and why coconut milk matters.
+- **[Mango Sticky Rice](/food/mango-sticky-rice/):** The dessert everyone knows. You'll learn how to make sticky rice properly and why coconut milk matters.
 
 ### Dishes to Avoid
 
@@ -464,7 +464,7 @@ Yes, if you choose the right class. A good cooking class is one of the best inve
 
 The key is choosing the right class for your needs. If you have time, go for a full-day class with a strong market component. If you're short on time, a half-day class is still valuable. Either way, focus on finding an instructor you connect with and a school that prioritizes authenticity over volume.
 
-For more information on [Chiang Mai's food scene](https://go2-thailand.com/city/chiang-mai/food/) and other culinary experiences, check out our comprehensive guides. If you are planning a broader trip, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) include cooking class days in Chiang Mai. Also pair this with the [khao soi guide](/blog/khao-soi-chiang-mai-guide/) and the [mango sticky rice season guide](/blog/mango-sticky-rice-season-thailand/) to time your visit around the best ingredients.
+For more information on [Chiang Mai's food scene](https://go2-thailand.com/city/chiang-mai/food/) and other culinary experiences, check out our comprehensive guides. If you are planning a broader trip, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) include cooking class days in Chiang Mai. Also pair this with the [khao soi guide](/blog/khao-soi-chiang-mai-guide/) and the [mango sticky rice season guide](/food/mango-sticky-rice/) to time your visit around the best ingredients.
 
 **Ready to book?** Start by reading recent reviews on travel sites, checking what's included in the price, and making sure the class aligns with your dietary needs and schedule. Your future self—the one who's confidently making Thai curry at home—will thank you.
 
