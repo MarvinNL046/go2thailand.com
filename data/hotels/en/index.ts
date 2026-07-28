@@ -7,6 +7,7 @@ import { pattayaHotelGuideEn } from "./pattaya";
 import { phuketHotelGuideEn } from "./phuket";
 import { huaHinHotelGuideEn } from "./hua-hin";
 import { chiangRaiHotelGuideEn } from "./chiang-rai";
+import { ayutthayaHotelGuideEn } from "./ayutthaya";
 
 const hotelGuides: Record<string, HotelGuideData> = {
   bangkok: bangkokHotelGuideEn,
@@ -17,6 +18,7 @@ const hotelGuides: Record<string, HotelGuideData> = {
   phuket: phuketHotelGuideEn,
   "hua-hin": huaHinHotelGuideEn,
   "chiang-rai": chiangRaiHotelGuideEn,
+  ayutthaya: ayutthayaHotelGuideEn,
 };
 
 export function getEnHotelGuide(citySlug: string): HotelGuideData | null {
