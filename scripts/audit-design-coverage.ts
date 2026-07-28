@@ -1,0 +1,326 @@
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { resolve } from "node:path";
+import {
+  PROJECT_ROOT,
+  parseCsvLine,
+  readKeywordCsv,
+  type SeoLocale,
+} from "./seo-utils";
+
+type InventoryRow = {
+  locale: SeoLocale;
+  path: string;
+  page_type: string;
+  template_owner: string;
+};
+
+type Coverage = "premium-signature" | "hybrid-signature" | "no-signature";
+
+type RouteResult = InventoryRow & {
+  status: number | null;
+  coverage: Coverage;
+  markerCount: number;
+  markers: string[];
+  trackedOwner: boolean;
+  error?: string;
+};
+
+const baseUrl = process.env.DESIGN_AUDIT_BASE_URL || "http://localhost:3000";
+const requestedLocale = process.env.DESIGN_AUDIT_LOCALE;
+const locales: SeoLocale[] =
+  requestedLocale === "nl" || requestedLocale === "en"
+    ? [requestedLocale]
+    : ["nl", "en"];
+const concurrency = Math.max(
+  1,
+  Number(process.env.DESIGN_AUDIT_CONCURRENCY || 8),
+);
+const requestTimeout = Math.max(
+  5_000,
+  Number(process.env.DESIGN_AUDIT_TIMEOUT_MS || 30_000),
+);
+
+const markerTests: Array<[string, RegExp]> = [
+  ["canvas", /\bbg-canvas\b/],
+  ["container", /\bcontainer-custom\b/],
+  ["display-heading", /\bheading-redesign\b|\bfont-display\b/],
+  ["section-divider", /\bsection-divider(?:-bottom)?\b/],
+  ["tonal-surface", /\bbg-tonal\b/],
+  ["editorial-bridge", /sitewide-editorial-bridge-title/],
+];
+
+function readInventory(): InventoryRow[] {
+  const file = resolve(PROJECT_ROOT, "seo", "inventory", "routes.csv");
+  const lines = readFileSync(file, "utf8").split(/\r?\n/).filter(Boolean);
+  const header = parseCsvLine(lines[0] || "");
+  return lines
+    .slice(1)
+    .map((line) => {
+      const values = parseCsvLine(line);
+      const row = Object.fromEntries(
+        header.map((key, index) => [key, values[index] || ""]),
+      );
+      return row as InventoryRow;
+    })
+    .filter((row) => locales.includes(row.locale));
+}
+
+function normalisePath(value: string): string {
+  const path = value.startsWith("/") ? value : `/${value}`;
+  return path === "/" || path.endsWith("/") ? path : `${path}/`;
+}
+
+function trackedOwners(): Map<SeoLocale, Set<string>> {
+  return new Map(
+    locales.map((locale) => [
+      locale,
+      new Set(
+        readKeywordCsv(locale)
+          .rows.filter((row) => row.status === "implemented")
+          .map((row) => normalisePath(row.route)),
+      ),
+    ]),
+  );
+}
+
+function classify(html: string): { coverage: Coverage; markers: string[] } {
+  const markers = markerTests
+    .filter(([, pattern]) => pattern.test(html))
+    .map(([name]) => name);
+  const markerSet = new Set(markers);
+  const premium =
+    markerSet.has("canvas") &&
+    markerSet.has("container") &&
+    markerSet.has("display-heading") &&
+    (markerSet.has("section-divider") || markerSet.has("tonal-surface"));
+  return {
+    coverage: premium
+      ? "premium-signature"
+      : markers.length >= 2
+        ? "hybrid-signature"
+        : "no-signature",
+    markers,
+  };
+}
+
+async function inspectRoute(
+  row: InventoryRow,
+  owners: Map<SeoLocale, Set<string>>,
+): Promise<RouteResult> {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), requestTimeout);
+  try {
+    const response = await fetch(new URL(row.path, baseUrl), {
+      redirect: "follow",
+      signal: controller.signal,
+      headers: { "user-agent": "Go2Thailand-DesignCoverageAudit/1.0" },
+    });
+    const html = await response.text();
+    const classified = classify(html);
+    return {
+      ...row,
+      status: response.status,
+      coverage: classified.coverage,
+      markerCount: classified.markers.length,
+      markers: classified.markers,
+      trackedOwner:
+        owners.get(row.locale)?.has(normalisePath(row.path)) || false,
+    };
+  } catch (error) {
+    return {
+      ...row,
+      status: null,
+      coverage: "no-signature",
+      markerCount: 0,
+      markers: [],
+      trackedOwner:
+        owners.get(row.locale)?.has(normalisePath(row.path)) || false,
+      error: error instanceof Error ? error.message : String(error),
+    };
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function runPool<T, R>(
+  values: T[],
+  worker: (value: T) => Promise<R>,
+): Promise<R[]> {
+  const results = new Array<R>(values.length);
+  let cursor = 0;
+  let completed = 0;
+  const runners = Array.from(
+    { length: Math.min(concurrency, values.length) },
+    async () => {
+      while (cursor < values.length) {
+        const index = cursor++;
+        results[index] = await worker(values[index]);
+        completed++;
+        if (completed % 100 === 0 || completed === values.length) {
+          console.log(`  routes ${completed}/${values.length}`);
+        }
+      }
+    },
+  );
+  await Promise.all(runners);
+  return results;
+}
+
+function countBy<T>(
+  values: T[],
+  key: (value: T) => string,
+): Record<string, number> {
+  return Object.fromEntries(
+    [
+      ...values.reduce((map, value) => {
+        const name = key(value);
+        map.set(name, (map.get(name) || 0) + 1);
+        return map;
+      }, new Map<string, number>()),
+    ].sort((a, b) => b[1] - a[1]),
+  );
+}
+
+async function main(): Promise<void> {
+  const inventory = readInventory();
+  const owners = trackedOwners();
+  console.log(
+    `Rendered design coverage: ${inventory.length} route(s) on ${baseUrl} (${locales.join(", ")}, concurrency ${concurrency}).`,
+  );
+  const results = await runPool(inventory, (row) => inspectRoute(row, owners));
+  const capturedAt = new Date().toISOString();
+  const date = capturedAt.slice(0, 10);
+  const localeKey = locales.length === 2 ? "all" : locales[0];
+  const outputDir = resolve(PROJECT_ROOT, "seo", "audits", "runtime");
+  mkdirSync(outputDir, { recursive: true });
+  const jsonPath = resolve(
+    outputDir,
+    `design-coverage-${localeKey}-${date}.json`,
+  );
+
+  const summaries = Object.fromEntries(
+    locales.map((locale) => {
+      const localeRows = results.filter((row) => row.locale === locale);
+      return [
+        locale,
+        {
+          total: localeRows.length,
+          httpOk: localeRows.filter((row) => row.status === 200).length,
+          trackedOwners: localeRows.filter((row) => row.trackedOwner).length,
+          byCoverage: countBy(localeRows, (row) => row.coverage),
+          byTemplateOwner: Object.fromEntries(
+            Object.entries(
+              localeRows.reduce(
+                (accumulator, row) => {
+                  const entry = (accumulator[row.template_owner] ||= {
+                    total: 0,
+                    premium: 0,
+                    hybrid: 0,
+                    none: 0,
+                    trackedOwners: 0,
+                  });
+                  entry.total++;
+                  if (row.coverage === "premium-signature") entry.premium++;
+                  else if (row.coverage === "hybrid-signature") entry.hybrid++;
+                  else entry.none++;
+                  if (row.trackedOwner) entry.trackedOwners++;
+                  return accumulator;
+                },
+                {} as Record<
+                  string,
+                  {
+                    total: number;
+                    premium: number;
+                    hybrid: number;
+                    none: number;
+                    trackedOwners: number;
+                  }
+                >,
+              ),
+            ).sort(([, a], [, b]) => b.total - a.total),
+          ),
+        },
+      ];
+    }),
+  );
+
+  writeFileSync(
+    jsonPath,
+    JSON.stringify(
+      { capturedAt, baseUrl, locales, summaries, routes: results },
+      null,
+      2,
+    ),
+  );
+
+  const markdownPath = resolve(
+    PROJECT_ROOT,
+    "seo",
+    "audits",
+    `design-coverage-${localeKey}-${date}.md`,
+  );
+  const markdown: string[] = [
+    "# Rendered design coverage",
+    "",
+    `**Captured:** ${capturedAt}`,
+    `**Base URL:** ${baseUrl}`,
+    "",
+    "This report separates sitemap routes, rendered design signatures and exact implemented ContentOps owner routes. A premium signature proves that the current HTML uses the shared redesign primitives; it does not by itself prove unique copy or page-level editorial quality.",
+    "",
+  ];
+  for (const locale of locales) {
+    const summary = summaries[locale] as {
+      total: number;
+      httpOk: number;
+      trackedOwners: number;
+      byCoverage: Record<string, number>;
+      byTemplateOwner: Record<
+        string,
+        {
+          total: number;
+          premium: number;
+          hybrid: number;
+          none: number;
+          trackedOwners: number;
+        }
+      >;
+    };
+    markdown.push(
+      `## ${locale.toUpperCase()}`,
+      "",
+      `- Sitemap routes inspected: **${summary.total}**`,
+      `- HTTP 200: **${summary.httpOk}/${summary.total}**`,
+      `- Premium rendered signature: **${summary.byCoverage["premium-signature"] || 0}/${summary.total}**`,
+      `- Hybrid rendered signature: **${summary.byCoverage["hybrid-signature"] || 0}/${summary.total}**`,
+      `- No redesign signature: **${summary.byCoverage["no-signature"] || 0}/${summary.total}**`,
+      `- Exact implemented ContentOps owners: **${summary.trackedOwners}**`,
+      "",
+      "| Template owner | Routes | Premium | Hybrid | No signature | Exact SEO owners |",
+      "|---|---:|---:|---:|---:|---:|",
+      ...Object.entries(summary.byTemplateOwner).map(
+        ([owner, row]) =>
+          `| ${owner} | ${row.total} | ${row.premium} | ${row.hybrid} | ${row.none} | ${row.trackedOwners} |`,
+      ),
+      "",
+    );
+  }
+  writeFileSync(markdownPath, `${markdown.join("\n")}\n`);
+
+  console.log(`JSON: ${jsonPath}`);
+  console.log(`Summary: ${markdownPath}`);
+  for (const locale of locales) {
+    const summary = summaries[locale] as {
+      total: number;
+      trackedOwners: number;
+      byCoverage: Record<string, number>;
+    };
+    console.log(
+      `${locale.toUpperCase()}: ${summary.byCoverage["premium-signature"] || 0}/${summary.total} premium signature; ${summary.byCoverage["hybrid-signature"] || 0} hybrid; ${summary.trackedOwners} exact owners.`,
+    );
+  }
+}
+
+main().catch((error) => {
+  console.error(error instanceof Error ? error.message : String(error));
+  process.exitCode = 1;
+});

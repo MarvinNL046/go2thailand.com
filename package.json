@@ -53,6 +53,7 @@
     "seo:verify:nl-final-owners": "tsx scripts/verify-nl-final-owners.ts",
     "seo:audit:nl-sitewide": "tsx scripts/audit-nl-sitewide.ts",
     "seo:audit:en-sitewide": "tsx scripts/audit-en-sitewide.ts",
+    "seo:audit:design-coverage": "tsx scripts/audit-design-coverage.ts",
     "seo:audit:nl-hotels": "tsx scripts/audit-nl-hotel-family.ts",
     "seo:audit:nl-attractions": "tsx scripts/audit-nl-attraction-family.ts",
     "affiliate:verify": "tsx scripts/verify-amazon-affiliates.ts",
