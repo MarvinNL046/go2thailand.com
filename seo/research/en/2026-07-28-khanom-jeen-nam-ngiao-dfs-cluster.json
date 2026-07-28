@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T07:20:57.055Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "khanom jeen nam ngiao",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "khanom jeen nam ngiao"
+  ],
+  "keywords": [
+    {
+      "keyword": "khanom jeen nam ngiao",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
