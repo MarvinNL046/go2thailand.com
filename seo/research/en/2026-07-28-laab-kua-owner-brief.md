@@ -75,6 +75,6 @@ Broad questions are answered specifically for Laab Kua, with a handoff to `/food
 - Unique text-free rights-safe hero, visually distinct from the Isan Larb hero, stored as optimised WebP in the project.
 - Canonical, EN/NL hreflang and Article/BreadcrumbList/ItemList/FAQPage schema through the shared dish template.
 - No horizontal overflow at 390 px or 1,280 px.
-- Natural links to `/food/larb/`, `/city/chiang-mai/`, `/food/khao-soi/` and the Northern region owner where relevant.
+- Natural links to `/food/larb/`, `/city/chiang-mai/`, `/blog/khao-soi-chiang-mai-guide/` and the Northern region owner where relevant.
 - Affiliate disclosure adjacent to Amazon and Klook links; all external commercial links sponsored/nofollow.
 - TypeScript, focused ESLint, cannibalisation, affiliate, design-system and full layered English runtime audits green.
