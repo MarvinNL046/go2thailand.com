@@ -24,6 +24,7 @@ import { SaiUaGuideEn } from '../../components/food/SaiUaGuideEn';
 import { NamPrikOngGuideEn } from '../../components/food/NamPrikOngGuideEn';
 import { GaengHangLayGuideEn } from '../../components/food/GaengHangLayGuideEn';
 import { MeeHokkienGuideEn } from '../../components/food/MeeHokkienGuideEn';
+import { OhAewGuideEn } from '../../components/food/OhAewGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -175,6 +176,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'mee-hokkien') {
     return <MeeHokkienGuideEn />;
+  }
+
+  if (dish.slug === 'oh-aew') {
+    return <OhAewGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
