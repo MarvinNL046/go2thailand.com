@@ -1,8 +1,11 @@
 # English Khao Man Gai owner brief
 
-**Canonical owner:** `https://go2-thailand.com/food/khao-man-gai/`  
-**Locale / market:** UK English / United Kingdom  
-**Research date:** 28 July 2026  
+**Canonical owner:** `https://go2-thailand.com/food/khao-man-gai/`
+
+**Locale / market:** UK English / United Kingdom
+
+**Research date:** 28 July 2026
+
 **Status:** ready for implementation
 
 ## Search evidence

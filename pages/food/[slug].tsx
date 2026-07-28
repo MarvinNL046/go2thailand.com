@@ -18,6 +18,7 @@ import { PadSeeEwGuideEn } from '../../components/food/PadSeeEwGuideEn';
 import { LarbGuideEn } from '../../components/food/LarbGuideEn';
 import { LaabKuaGuideEn } from '../../components/food/LaabKuaGuideEn';
 import { ThaiFriedRiceGuideEn } from '../../components/food/ThaiFriedRiceGuideEn';
+import { KhaoManGaiGuideEn } from '../../components/food/KhaoManGaiGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -145,6 +146,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'thai-fried-rice') {
     return <ThaiFriedRiceGuideEn />;
+  }
+
+  if (dish.slug === 'khao-man-gai') {
+    return <KhaoManGaiGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
