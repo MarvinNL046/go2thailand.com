@@ -60,6 +60,7 @@ const pilotTemplates = [
   'components/visa/ThailandLtrVisaGuide.tsx',
   'components/visa/ThailandPrivilegeGuide.tsx',
   'components/blog/ClimateUpdateGuideTemplate.tsx',
+  'components/transport/AirportArrivalGuideTemplate.tsx',
 ];
 for (const template of pilotTemplates) {
   const source = read(template);
@@ -776,6 +777,22 @@ const attractionDetailRoute = read('pages/city/[slug]/attractions/[attraction].t
 for (const proof of ['AttractionDetailGuideTemplate', 'getNlAttractionDetailGuide', 'getEnAttractionDetailGuide', "locale === 'nl'"]) {
   if (!attractionDetailRoute.includes(proof)) failures.push(`The attraction detail route does not preserve NL localization proof: ${proof}`);
 }
+
+const airportArrivalTemplate = read('components/transport/AirportArrivalGuideTemplate.tsx');
+const phuketAirportData = read('data/airport-guides/en/phuket.ts');
+const blogRoute = read('pages/blog/[slug].tsx');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure']) {
+  if (!airportArrivalTemplate.includes(proof)) failures.push(`Airport arrival template does not use ${proof}`);
+}
+for (const proof of ['airport-en-transfer-klook', 'airport-en-transfer-12go', 'airport-en-airport-night', 'airport-en-phuket-hotels', 'airport-en-esim']) {
+  if (!airportArrivalTemplate.includes(proof)) failures.push(`Airport arrival template misses affiliate placement proof: ${proof}`);
+}
+for (const proof of ['arrivalSteps:', 'transferModes:', 'zones:', 'lateArrival:', 'connectivity:', 'faqs:', 'sources:', 'phuket-airport-arrival-hero.webp']) {
+  if (!phuketAirportData.includes(proof)) failures.push(`Phuket Airport data does not define ${proof}`);
+}
+if ((phuketAirportData.match(/question:/g) || []).length < 10) failures.push('Phuket Airport data must preserve at least ten researched PAA answers');
+if (!blogRoute.includes('<AirportArrivalGuideTemplate data={phuketAirportGuideEn} />')) failures.push('Blog route does not wire the English Phuket Airport owner');
+read('public/images/redesign/phuket-airport-arrival-hero.webp');
 
 for (const template of ['components/city/DestinationGuideTemplate.tsx', 'components/city/AttractionsGuideTemplate.tsx', 'components/attractions/AttractionDetailGuideTemplate.tsx', 'components/weather/WeatherGuideTemplate.tsx', 'components/hotels/HotelGuideTemplate.tsx', 'components/hotels/HotelDetailGuideTemplate.tsx']) {
   const source = read(template);

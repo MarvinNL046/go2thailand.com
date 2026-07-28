@@ -73,6 +73,8 @@ import { BestTimeThailandGuideEn } from '../../components/planning/BestTimeThail
 import BtsBangkokConcertGuideEn from '../../components/events/BtsBangkokConcertGuideEn';
 import ChiangMaiChiangRaiComparisonGuideEn from '../../components/compare/ChiangMaiChiangRaiComparisonGuideEn';
 import { KhaoSoiGuideEn } from '../../components/food/KhaoSoiGuideEn';
+import { AirportArrivalGuideTemplate } from '../../components/transport/AirportArrivalGuideTemplate';
+import { phuketAirportGuideEn } from '../../data/airport-guides/en/phuket';
 
 interface Source {
   name: string;
@@ -335,6 +337,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
   }
   if (locale === 'en' && post.slug === 'khao-soi-chiang-mai-guide') {
     return <KhaoSoiGuideEn />;
+  }
+  if (locale === 'en' && post.slug === 'phuket-airport') {
+    return <AirportArrivalGuideTemplate data={phuketAirportGuideEn} />;
   }
 
   const breadcrumbs = [
