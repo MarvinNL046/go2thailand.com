@@ -1,0 +1,862 @@
+{
+  "captured_at": "2026-07-28T07:01:32.071Z",
+  "locale": "en",
+  "url": "https://www.jircas.go.jp/en/database/thaifermented/budu",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Japan International Research Center for Agricultural Sciences | JIRCAS",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": null,
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Japan International Research Center for Agricultural Sciences",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "JIRCAS Tropical Agriculture Research Front",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Terms of Use",
+          "url": "https://www.jircas.go.jp/en/about/guide",
+          "urls": [
+            {
+              "url": "https://www.jircas.go.jp/en/about/guide",
+              "anchor_text": "Terms of Use"
+            }
+          ]
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.jircas.go.jp/en/about/privacy",
+          "urls": [
+            {
+              "url": "https://www.jircas.go.jp/en/about/privacy",
+              "anchor_text": "Privacy Policy"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": null,
+    "secondary_topic": [
+      {
+        "h_title": "Together for our food and\nplanetary health",
+        "main_title": "Together for our food and\nplanetary health",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Together for our food and\nplanetary health",
+            "url": "https://www.jircas.go.jp/en",
+            "urls": [
+              {
+                "url": "https://www.jircas.go.jp/en",
+                "anchor_text": "Together for our food and planetary health"
+              }
+            ]
+          },
+          {
+            "text": "About Us",
+            "url": "https://www.jircas.go.jp/en/about/jircas",
+            "urls": [
+              {
+                "url": "https://www.jircas.go.jp/en/about/jircas",
+                "anchor_text": "About Us"
+              }
+            ]
+          },
+          {
+            "text": "Research Highlights",
+            "url": "https://www.jircas.go.jp/en/publication/research_results/list",
+            "urls": [
+              {
+                "url": "https://www.jircas.go.jp/en/publication/research_results/list",
+                "anchor_text": "Research Highlights"
+              }
+            ]
+          },
+          {
+            "text": "Databases, tools",
+            "url": "https://www.jircas.go.jp/en/database",
+            "urls": [
+              {
+                "url": "https://www.jircas.go.jp/en/database",
+                "anchor_text": "Databases, tools"
+              }
+            ]
+          },
+          {
+            "text": "Database of Fermented Foods of Thailand",
+            "url": "https://www.jircas.go.jp/en/database/thaifermented",
+            "urls": [
+              {
+                "url": "https://www.jircas.go.jp/en/database/thaifermented",
+                "anchor_text": "Database of Fermented Foods of Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Database of Fermented Foods of Thailand",
+        "main_title": "Together for our food and\nplanetary health",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Advanced Search",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Lum-pee-dorng/ Ra-kam-dorng",
+            "url": "https://www.jircas.go.jp/en/database/thaifermented/lum-pee-dorng/ra-kam-dorng",
+            "urls": [
+              {
+                "url": "https://www.jircas.go.jp/en/database/thaifermented/lum-pee-dorng/ra-kam-dorng",
+                "anchor_text": "Lum-pee-dorng/ Ra-kam-dorng"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Budu",
+        "main_title": "Together for our food and\nplanetary health",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Stolephorus indicus ( Sai-ton )",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Clupeoides sp. ( Ka-tak )",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sardinella sp.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bacillus laterosporus",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bacillus subtilis",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Coryneform bacteria",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Pediococcus halophilus",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Staphylococcus aureus",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Staphylococcus epidermidis",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Staphylococcus simulans",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Virgibacillus halodenitrificans",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Characterization of proteases produced by newly isolated and identified proteolytic microorganisms from fermented fish (Budu)",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "DOI",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "10.1007/BF01201880",
+                    "urls": [
+                      {
+                        "url": "https://doi.org/10.1007/BF01201880",
+                        "anchor_text": "10.1007/BF01201880"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1992",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "The traditional fermented foods of Thailand",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "ISBN",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "9679932249",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "1995",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Functional and safety assessment of Staphylococcus simulans PMRS35 with high lipase activity isolated from high salt-fermented fish (Budu) for starter development",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "DOI",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "10.1016/j.lwt.2020.109183",
+                    "urls": [
+                      {
+                        "url": "https://doi.org/10.1016/j.lwt.2020.109183",
+                        "anchor_text": "10.1016/j.lwt.2020.109183"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "2020",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Quality characteristics of high salt fermented fish sauce (budu) produced using autochthonous Virgibacillus halodenitrificans PS21 and Staphylococcus simulans PMRS35",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "DOI",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "10.1111/ijfs.15035",
+                    "urls": [
+                      {
+                        "url": "https://doi.org/10.1111/ijfs.15035",
+                        "anchor_text": "10.1111/ijfs.15035"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "2021",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          },
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Reference",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Quality characteristics of high salt fermented fish sauce (budu) produced using autochthonous Virgibacillus halodenitrificans PS21 and Staphylococcus simulans PMRS35",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "DOI",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "10.1111/ijfs.15035",
+                    "urls": [
+                      {
+                        "url": "https://doi.org/10.1111/ijfs.15035",
+                        "anchor_text": "10.1111/ijfs.15035"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "2021",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

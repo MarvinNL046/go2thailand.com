@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.food.gov.uk/business-guidance/allergen-guidance-for-food-businesses
 
-**Captured:** 2026-07-28T06:49:13.728Z
+**Captured:** 2026-07-28T07:01:41.684Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
