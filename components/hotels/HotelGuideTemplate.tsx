@@ -63,7 +63,7 @@ const copy = {
     bookingTitle: 'Boek slimmer, niet sneller',
     faqEyebrow: 'Echte vragen uit de zoekresultaten',
     faqTitle: (city: string) => `Veelgestelde vragen over verblijven in ${city}`,
-    faqDescription: 'De vragen zijn rechtstreeks verzameld uit de Nederlandse People Also Ask-resultaten van DataForSEO. De antwoorden zijn geschreven voor de keuze van je uitvalsbasis.',
+    faqDescription: (city: string) => `De vragen zijn rechtstreeks verzameld uit de Nederlandse People Also Ask-resultaten van DataForSEO. De antwoorden helpen je een praktische uitvalsbasis in ${city} te kiezen.`,
     relatedTitle: (city: string) => `Maak je ${city}-reis compleet`,
     relatedSide: 'Hotels via Trip.com',
     sourceTitle: 'Hoe kiezen we de gebieden en hotels?',
@@ -107,7 +107,7 @@ const copy = {
     bookingTitle: 'Book for fit, not for a ranking',
     faqEyebrow: 'Real questions from the search results',
     faqTitle: (city: string) => `Frequently asked questions about hotels in ${city}`,
-    faqDescription: 'These questions come from English People Also Ask results collected through DataForSEO. The answers focus on choosing a useful Bangkok base.',
+    faqDescription: (city: string) => `These questions come from English People Also Ask results collected through DataForSEO. The answers focus on choosing a useful ${city} base.`,
     relatedTitle: (city: string) => `Plan the rest of your ${city} trip`,
     relatedSide: 'Hotels on Trip.com',
     sourceTitle: 'How do we choose the areas and hotels?',
@@ -472,7 +472,7 @@ export default function HotelGuideTemplate({ data }: HotelGuideTemplateProps) {
           </div>
         </section>
 
-        <FaqSplitSection eyebrow={labels.faqEyebrow} title={labels.faqTitle(data.cityName)} description={labels.faqDescription} items={data.faqs} />
+        <FaqSplitSection eyebrow={labels.faqEyebrow} title={labels.faqTitle(data.cityName)} description={labels.faqDescription(data.cityName)} items={data.faqs} />
 
         <RelatedGuidesSection
           title={labels.relatedTitle(data.cityName)}
