@@ -1,11 +1,13 @@
 import type { HotelGuideData } from "../types";
 import { bangkokHotelGuideEn } from "./bangkok";
 import { chiangMaiHotelGuideEn } from "./chiang-mai";
+import { krabiHotelGuideEn } from "./krabi";
 import { phuketHotelGuideEn } from "./phuket";
 
 const hotelGuides: Record<string, HotelGuideData> = {
   bangkok: bangkokHotelGuideEn,
   "chiang-mai": chiangMaiHotelGuideEn,
+  krabi: krabiHotelGuideEn,
   phuket: phuketHotelGuideEn,
 };
 
