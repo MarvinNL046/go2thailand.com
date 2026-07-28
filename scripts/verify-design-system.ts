@@ -465,6 +465,28 @@ for (const asset of [
   read(`public/images/redesign/${asset}`);
 }
 
+const thailandSnorkelTemplate = read('components/snorkeling/ThailandSnorkelingGuideTemplate.tsx');
+const thailandSnorkelDataEn = read('data/snorkeling/en/thailand.ts');
+const thailandSnorkelRoute = read('pages/best-diving-snorkeling-in-thailand.tsx');
+const blogConsolidations = read('lib/blog.js');
+for (const wiring of ['ThailandSnorkelingGuideTemplate', 'thailandSnorkelingGuideEn']) {
+  if (!thailandSnorkelRoute.includes(wiring)) failures.push(`The English Thailand snorkeling owner does not preserve ${wiring}`);
+}
+for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'SourceMethodSection', 'AffiliateDisclosure', 'withPlacementSubId', 'nofollow sponsored']) {
+  if (!thailandSnorkelTemplate.includes(proof)) failures.push(`The Thailand snorkeling template does not preserve ${proof}`);
+}
+for (const proof of ['coastWindows:', 'morningSignals:', 'destinations:', 'accessChoices:', 'beginnerChecks:', 'responsibleRules:', 'gear:', 'diveBoundary:', 'faqs:', 'sources:']) {
+  if (!thailandSnorkelDataEn.includes(proof)) failures.push(`The English Thailand snorkeling owner does not define ${proof}`);
+}
+for (const product of ['earth-pak-dry-bag', 'simari-water-shoes', 'rainleaf-travel-towel']) {
+  if (!thailandSnorkelDataEn.includes(product)) failures.push(`The English Thailand snorkeling owner does not use contextual Amazon product ${product}`);
+}
+for (const asset of ['thailand-snorkeling-hero.webp', 'thailand-snorkeling-shore-or-boat.webp']) {
+  if (!thailandSnorkelDataEn.includes(asset) && !thailandSnorkelTemplate.includes(asset)) failures.push(`The English Thailand snorkeling owner does not use ${asset}`);
+  read(`public/images/redesign/${asset}`);
+}
+if (!blogConsolidations.includes("'best-snorkeling-spots-thailand-water-clarity': '/best-diving-snorkeling-in-thailand/'")) failures.push('The overlapping English water-clarity article does not consolidate into the Thailand snorkeling owner');
+
 const destinationRegistry = read('data/destinations/nl/index.ts');
 for (const city of ['ayutthaya', 'bangkok', 'chumphon', "'chiang-mai'", "'chiang-rai'", "'hua-hin'", 'kanchanaburi', 'pai', 'pattaya', 'phuket', 'rayong', 'sukhothai', "'koh-samui'", "'khao-sok'"]) {
   if (!destinationRegistry.includes(`${city}:`)) failures.push(`The NL destination registry does not include ${city}`);

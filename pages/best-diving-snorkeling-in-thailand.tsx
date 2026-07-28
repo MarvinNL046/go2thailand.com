@@ -7,6 +7,8 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/best-diving-snorkeling-in-thailand';
+import { ThailandSnorkelingGuideTemplate } from '../components/snorkeling/ThailandSnorkelingGuideTemplate';
+import { thailandSnorkelingGuideEn } from '../data/snorkeling/en/thailand';
 
 interface Activity {
   name: string;
@@ -290,6 +292,10 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
   const loc = locale || 'en';
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+
+  if (!isNl) {
+    return <ThailandSnorkelingGuideTemplate data={thailandSnorkelingGuideEn} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
