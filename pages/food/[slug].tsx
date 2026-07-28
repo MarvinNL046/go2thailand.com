@@ -12,6 +12,7 @@ import { DutchDishGuide } from '../../components/food/DutchDishGuide';
 import { PadThaiGuideEn } from '../../components/food/PadThaiGuideEn';
 import { MassamanCurryGuideEn } from '../../components/food/MassamanCurryGuideEn';
 import { MangoStickyRiceGuideEn } from '../../components/food/MangoStickyRiceGuideEn';
+import { GreenCurryGuideEn } from '../../components/food/GreenCurryGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -115,6 +116,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'mango-sticky-rice') {
     return <MangoStickyRiceGuideEn />;
+  }
+
+  if (dish.slug === 'green-curry') {
+    return <GreenCurryGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
