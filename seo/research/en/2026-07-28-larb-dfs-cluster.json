@@ -1,0 +1,2348 @@
+{
+  "captured_at": "2026-07-28T01:34:41.543Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "larb",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.01572,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "larb",
+    "larb food",
+    "thai dish larb",
+    "thai larb",
+    "larb recipe",
+    "larb recipe thai",
+    "larb recipes",
+    "larb salad recipe",
+    "larb thai recipe",
+    "larb thai salad recipe",
+    "thai larb recipe",
+    "thai larb recipes",
+    "thai larb salad recipe",
+    "thai recipes larb",
+    "larb gai",
+    "larb gai thai",
+    "thai larb gai",
+    "thai larb gai salad",
+    "larb pork"
+  ],
+  "keywords": [
+    {
+      "keyword": "larb",
+      "volume": 2900,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "larb food",
+      "volume": 2900,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai dish larb",
+      "volume": 2900,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb",
+      "volume": 2900,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipe",
+      "volume": 1000,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "larb recipe thai",
+      "volume": 1000,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipes",
+      "volume": 1000,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb salad recipe",
+      "volume": 1000,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb thai recipe",
+      "volume": 1000,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb thai salad recipe",
+      "volume": 1000,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb recipe",
+      "volume": 1000,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb recipes",
+      "volume": 1000,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb salad recipe",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai recipes larb",
+      "volume": 1000,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai thai",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb gai",
+      "volume": 880,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb gai salad",
+      "volume": 880,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb pork",
+      "volume": 720,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb pork thai",
+      "volume": 720,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb salad",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb thai",
+      "volume": 720,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb pork",
+      "volume": 720,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pork larb",
+      "volume": 720,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pork larb salad",
+      "volume": 720,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb salad",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb thai",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb chicken",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb chicken thai",
+      "volume": 590,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb salad chicken",
+      "volume": 590,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken larb",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb chicken",
+      "volume": 590,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb moo",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb salad",
+      "volume": 480,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb salad thai",
+      "volume": 480,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb thai",
+      "volume": 480,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb thai food",
+      "volume": 480,
+      "kd": 21,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb thai salad",
+      "volume": 480,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai food larb",
+      "volume": 480,
+      "kd": 21,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb moo",
+      "volume": 480,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb salad",
+      "volume": 480,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb pork recipe",
+      "volume": 390,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipe pork",
+      "volume": 390,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb recipe",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pork larb salad recipe",
+      "volume": 390,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb pork recipe",
+      "volume": 390,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb recipe pork",
+      "volume": 390,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pork larb recipe",
+      "volume": 390,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pork larb salad recipe",
+      "volume": 390,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb recipe",
+      "volume": 320,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb recipe thai",
+      "volume": 320,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb recipes",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb salad recipe",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb thai recipe",
+      "volume": 320,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb chicken recipe",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb chicken salad recipe",
+      "volume": 320,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb chicken thai recipe",
+      "volume": 320,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipe chicken",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai chicken larb recipe",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken larb recipes",
+      "volume": 320,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken larb salad recipe",
+      "volume": 320,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb chicken recipe",
+      "volume": 320,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb recipe chicken",
+      "volume": 320,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef larb",
+      "volume": 260,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef larb salad",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef larb thai",
+      "volume": 260,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb beef",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb beef salad",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai recipe",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai salad recipe",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai thai recipe",
+      "volume": 260,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef larb",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef larb salad",
+      "volume": 260,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb beef",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb gai recipe",
+      "volume": 260,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is larb",
+      "volume": 170,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb moo recipe",
+      "volume": 140,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb moo recipe",
+      "volume": 140,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef larb recipe",
+      "volume": 90,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef larb recipes",
+      "volume": 90,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef larb salad recipe",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef larb thai recipe",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb beef recipe",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb beef salad recipe",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipe beef",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb tofu",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef larb recipe",
+      "volume": 90,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef larb salad recipe",
+      "volume": 90,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb recipe beef",
+      "volume": 90,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tofu larb",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "turkey larb",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb meaning",
+      "volume": 50,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipe turkey",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "larb seasoning",
+      "volume": 50,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mushroom larb",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "turkey larb recipe",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb gai",
+      "volume": 40,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb gai salad",
+      "volume": 40,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lao larb",
+      "volume": 40,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "laos larb",
+      "volume": 40,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai chicken",
+      "volume": 40,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb ingredients",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegan larb",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic larb recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai larb recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "lamb larb",
+      "volume": 30,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai salad",
+      "volume": 30,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb koi",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb near me",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "larb recipe authentic",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipe tofu",
+      "volume": 30,
+      "kd": 49,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipe vegetarian",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "larb tofu recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tofu larb recipe",
+      "volume": 30,
+      "kd": 49,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan larb recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "aubergine larb",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken mince larb",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lao larb recipe",
+      "volume": 20,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "laos larb recipe",
+      "volume": 20,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "laotian larb recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb chicken salad",
+      "volume": 20,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai tod",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb lao",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb laos",
+      "volume": 20,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb moo tod",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb recipe laos",
+      "volume": 20,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork mince larb",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "raw beef larb",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken larb salad",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tuna larb",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "turkey mince larb",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian larb",
+      "volume": 20,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is larb thai",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic chicken larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic lao larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai beef larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef larb calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef larb ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef larb recipe laos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef larb recipe thai",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef mince larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best chicken larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best larb in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best pork larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "big flavour mushroom larb giggling squid",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bon appetit larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cauliflower larb marion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb gai feed the pudge",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb recipe laos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken larb salad calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken larb taste",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy beef larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy chicken larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy pork larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "healthy chicken larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to eat larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "i larb you meaning",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "i larb you spider-man meaning",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chicken larb healthy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is larb keto-friendly",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is larb served hot or cold",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thai chicken larb healthy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "laab or larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "laab vs larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lan larb chiang mai menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "laos larb recipe beef",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb books",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb dressing",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "larb gai authentic",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai beef",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai hot thai kitchen",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb gai thai chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb hed",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb meaning spiderman",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb moo calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb moo isan",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb nam tok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb podcast",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb pronunciation",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "larb restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "larb salad ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb thai dish",
+      "volume": 10,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb tofu salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb urban dictionary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "larb with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "northern thai larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "northern thai larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb gai",
+      "volume": 10,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb gai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb pinch of nom",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb recipe lemongrass",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pork larb recipe nz",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork larb recipe tin eats",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "raw fish larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy chicken larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken larb gai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai ground beef larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai larb sauce",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tofu larb lettuce wraps",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "traditional thai larb salad recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "turkey larb gai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "turkey larb lettuce wraps",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "turkey larb nyt",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan tofu larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian larb salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vietnamese larb salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vietnamese pork larb recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is chicken larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is larb salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to serve with chicken larb",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beef larb recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 1.2105263157894737,
+      "keywordCount": 19,
+      "visibility": 18.6,
+      "estimatedTraffic": 7304.400000000001
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 3.888888888888889,
+      "keywordCount": 18,
+      "visibility": 12.800000000000002,
+      "estimatedTraffic": 2790.838
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 4.111111111111111,
+      "keywordCount": 18,
+      "visibility": 12.450000000000001,
+      "estimatedTraffic": 1785.3120000000001
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 6.833333333333333,
+      "keywordCount": 18,
+      "visibility": 8.75,
+      "estimatedTraffic": 892.124
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12,
+      "keywordCount": 19,
+      "visibility": 4.199999999999999,
+      "estimatedTraffic": 402.408
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 13.277777777777779,
+      "keywordCount": 18,
+      "visibility": 2.5500000000000003,
+      "estimatedTraffic": 287.53
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 3.6,
+      "keywordCount": 15,
+      "visibility": 11.650000000000002,
+      "estimatedTraffic": 2536.3460000000005
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 12.125,
+      "keywordCount": 16,
+      "visibility": 3.2,
+      "estimatedTraffic": 245.868
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 16.5625,
+      "keywordCount": 16,
+      "visibility": 1.1,
+      "estimatedTraffic": 122.592
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 30.58823529411765,
+      "keywordCount": 17,
+      "visibility": 0.2,
+      "estimatedTraffic": 56.73600000000002
+    },
+    {
+      "domain": "lindseyeatsla.com",
+      "avgPosition": 16.857142857142858,
+      "keywordCount": 14,
+      "visibility": 0.9000000000000001,
+      "estimatedTraffic": 118.44599999999998
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 12,
+      "visibility": 6.800000000000001,
+      "estimatedTraffic": 949.412
+    },
+    {
+      "domain": "www.bonappetit.com",
+      "avgPosition": 29.8125,
+      "keywordCount": 16,
+      "visibility": 0.1,
+      "estimatedTraffic": 50.728
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 28.066666666666666,
+      "keywordCount": 15,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 55.852000000000004
+    },
+    {
+      "domain": "www.carolinescooking.com",
+      "avgPosition": 10.166666666666666,
+      "keywordCount": 12,
+      "visibility": 2.1,
+      "estimatedTraffic": 282.398
+    },
+    {
+      "domain": "iheartumami.com",
+      "avgPosition": 32.75000000000001,
+      "keywordCount": 16,
+      "visibility": 0,
+      "estimatedTraffic": 47.964000000000006
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 24.428571428571427,
+      "keywordCount": 14,
+      "visibility": 0.2,
+      "estimatedTraffic": 56.692
+    },
+    {
+      "domain": "www.lemonblossoms.com",
+      "avgPosition": 19.23076923076923,
+      "keywordCount": 13,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 64.05
+    },
+    {
+      "domain": "www.gourmettraveller.com.au",
+      "avgPosition": 31.066666666666666,
+      "keywordCount": 15,
+      "visibility": 0,
+      "estimatedTraffic": 46.452000000000005
+    },
+    {
+      "domain": "3catsfoodie.com",
+      "avgPosition": 9.090909090909092,
+      "keywordCount": 11,
+      "visibility": 2.2500000000000004,
+      "estimatedTraffic": 277.7699999999999
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 45.05555555555556,
+      "keywordCount": 18,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 62.71600000000001
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 31.214285714285715,
+      "keywordCount": 14,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 218.80399999999997
+    },
+    {
+      "domain": "glebekitchen.com",
+      "avgPosition": 19,
+      "keywordCount": 11,
+      "visibility": 1.6500000000000001,
+      "estimatedTraffic": 144.17799999999997
+    },
+    {
+      "domain": "whatgreatgrandmaate.com",
+      "avgPosition": 30.333333333333332,
+      "keywordCount": 12,
+      "visibility": 0.1,
+      "estimatedTraffic": 43.712
+    },
+    {
+      "domain": "makethatdish.com",
+      "avgPosition": 30.5,
+      "keywordCount": 12,
+      "visibility": 0.05,
+      "estimatedTraffic": 40.87200000000001
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 32.583333333333336,
+      "keywordCount": 12,
+      "visibility": 0.25,
+      "estimatedTraffic": 45.758
+    },
+    {
+      "domain": "allwaysdelicious.com",
+      "avgPosition": 35.41666666666667,
+      "keywordCount": 12,
+      "visibility": 0.1,
+      "estimatedTraffic": 53.54000000000001
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 52.625,
+      "keywordCount": 16,
+      "visibility": 0.05,
+      "estimatedTraffic": 49.75200000000001
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 6.625,
+      "keywordCount": 8,
+      "visibility": 4.5,
+      "estimatedTraffic": 368.518
+    },
+    {
+      "domain": "cooking.nytimes.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 9,
+      "visibility": 0.5,
+      "estimatedTraffic": 48.35399999999999
+    },
+    {
+      "domain": "www.biteunite.com",
+      "avgPosition": 41.416666666666664,
+      "keywordCount": 12,
+      "visibility": 0,
+      "estimatedTraffic": 41.16000000000001
+    },
+    {
+      "domain": "food52.com",
+      "avgPosition": 29.8,
+      "keywordCount": 10,
+      "visibility": 1.2,
+      "estimatedTraffic": 99.25799999999998
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 12.625,
+      "keywordCount": 8,
+      "visibility": 3.0999999999999996,
+      "estimatedTraffic": 1241.23
+    },
+    {
+      "domain": "inquiringchef.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 9,
+      "visibility": 0.55,
+      "estimatedTraffic": 57.314
+    },
+    {
+      "domain": "greatcurryrecipes.net",
+      "avgPosition": 19,
+      "keywordCount": 8,
+      "visibility": 0.3,
+      "estimatedTraffic": 42.322
+    },
+    {
+      "domain": "www.pinterest.com",
+      "avgPosition": 37.3,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 36.708
+    },
+    {
+      "domain": "rasamalaysia.com",
+      "avgPosition": 31.77777777777778,
+      "keywordCount": 9,
+      "visibility": 0.1,
+      "estimatedTraffic": 31.392
+    },
+    {
+      "domain": "www.epicurious.com",
+      "avgPosition": 47,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 34.482000000000006
+    },
+    {
+      "domain": "foodwastefeast.com",
+      "avgPosition": 43.9,
+      "keywordCount": 10,
+      "visibility": 0.1,
+      "estimatedTraffic": 63.64000000000001
+    },
+    {
+      "domain": "soufflebombay.com",
+      "avgPosition": 21,
+      "keywordCount": 7,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 42.88000000000001
+    },
+    {
+      "domain": "itsnotcomplicatedrecipes.com",
+      "avgPosition": 33,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 19.781999999999996
+    },
+    {
+      "domain": "www.abelandcole.co.uk",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 6,
+      "visibility": 1.6,
+      "estimatedTraffic": 124.98399999999998
+    },
+    {
+      "domain": "cravingtasty.com",
+      "avgPosition": 26.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 22.5
+    },
+    {
+      "domain": "schoolofwok.co.uk",
+      "avgPosition": 45,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 22.302000000000003
+    },
+    {
+      "domain": "www.food.com",
+      "avgPosition": 56.54545454545455,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 29.483999999999998
+    },
+    {
+      "domain": "www.cuisine.co.nz",
+      "avgPosition": 44.5,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 24.78
+    },
+    {
+      "domain": "glut.co.uk",
+      "avgPosition": 14.2,
+      "keywordCount": 5,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 66.09
+    },
+    {
+      "domain": "www.wellseasonedstudio.com",
+      "avgPosition": 14.8,
+      "keywordCount": 5,
+      "visibility": 0.4,
+      "estimatedTraffic": 38.242
+    },
+    {
+      "domain": "www.thespiceodyssey.com",
+      "avgPosition": 30.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 20.099999999999998
+    },
+    {
+      "domain": "www.196flavors.com",
+      "avgPosition": 63,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 32.97
+    }
+  ]
+}
