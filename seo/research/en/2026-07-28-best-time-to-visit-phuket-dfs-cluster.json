@@ -1,0 +1,1313 @@
+{
+  "captured_at": "2026-07-28T21:25:12.906Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best time to visit phuket",
+  "costs": {
+    "suggestions": 0.01692,
+    "related": 0.02004,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "best time to visit phuket",
+    "best time to visit phuket thailand",
+    "best time to visit thailand phuket",
+    "when is best time to visit phuket",
+    "when is the best time to visit thailand phuket",
+    "phuket best time to visit",
+    "phuket thailand best time to visit",
+    "thailand best time to visit phuket",
+    "thailand phuket best time to visit",
+    "best time of year to visit phuket thailand",
+    "best time of year to visit thailand phuket",
+    "best time to visit phuket for weather",
+    "best time to visit phuket thailand weather",
+    "best time to visit phuket weather",
+    "best time to visit krabi and phuket",
+    "best time to visit phuket and krabi",
+    "what is the best time to visit phuket",
+    "what is the best time to visit phuket thailand",
+    "best time to visit bangkok and phuket"
+  ],
+  "keywords": [
+    {
+      "keyword": "jet2holidays",
+      "volume": 1500000,
+      "kd": 12,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holidays to phuket",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui holidays",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to go to thailand phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit thailand phuket",
+      "volume": 1900,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit malaysia kuala lumpur",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit thailand bangkok",
+      "volume": 880,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather by month",
+      "volume": 590,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather november",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather by month",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit thailand",
+      "volume": 480,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheapest time to visit thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui rainy season",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit krabi",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap holidays to phuket",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holidays to phuket 2026",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket holidays all inclusive",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "when is best time to visit phuket",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the best time to visit thailand phuket",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "all inclusive holidays to phuket",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit malaysia and singapore",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui best time to visit",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket best time to visit",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand best time to visit",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand best time to visit phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket best time to visit",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time of year to visit phuket thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time of year to visit thailand phuket",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit malaysia and borneo",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in june",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket holiday packages including flights",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in may",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather by month",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tui holidays to thailand 2026",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in krabi 10 days",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holidays to phuket 2027",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tui holidays to phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit malaysia",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star phuket holiday packages",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jet2 holidays to phuket",
+      "volume": 50,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui rainfall by month",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "last minute holidays to phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket for weather",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket thailand weather",
+      "volume": 40,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket weather",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit krabi and phuket",
+      "volume": 30,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket and krabi",
+      "volume": 30,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "holidays to phuket from uk",
+      "volume": 30,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is may a good time to visit phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is the best time to visit phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is the best time to visit phuket thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays to phuket direct flights",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is april a good time to visit phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is march a good time to visit phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather 30 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tui holidays to phuket 2026",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best phuket holiday packages including flights",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit bangkok and phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit bangkok pattaya and phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit bangkok phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit krabi and phi phi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit old phuket town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket and koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket and pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket august",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket for honeymoon",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket october",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket september",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit thailand and phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit thailand bangkok and phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit tiger kingdom phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap holidays to phuket from london",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holidays to thailand phuket 2024",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is april a good time to visit krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is august a good time to visit phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is june a good time to visit phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is may a good time to visit krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is october a good time to visit koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather by month rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket best time to visit with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket krabi best time to visit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month rainfall",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the best time to visit phuket thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is the best time to visit thailand phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "worst time to visit bangkok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit malaysia from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit thailand from uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket 2024",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket lonely planet",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket tripadvisor",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 1,
+      "keywordCount": 7,
+      "visibility": 7,
+      "estimatedTraffic": 1930.4
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 2.4285714285714284,
+      "keywordCount": 7,
+      "visibility": 6.000000000000001,
+      "estimatedTraffic": 1004.247
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 3.4285714285714284,
+      "keywordCount": 7,
+      "visibility": 5.3,
+      "estimatedTraffic": 413.774
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 4.714285714285714,
+      "keywordCount": 7,
+      "visibility": 4.4,
+      "estimatedTraffic": 591.1619999999999
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 6.142857142857143,
+      "keywordCount": 7,
+      "visibility": 3.4,
+      "estimatedTraffic": 185.773
+    },
+    {
+      "domain": "www.firstchoice.co.uk",
+      "avgPosition": 6.428571428571429,
+      "keywordCount": 7,
+      "visibility": 3.25,
+      "estimatedTraffic": 176.64000000000001
+    },
+    {
+      "domain": "www.tuiholidays.ie",
+      "avgPosition": 6.571428571428571,
+      "keywordCount": 7,
+      "visibility": 3.1,
+      "estimatedTraffic": 208.939
+    },
+    {
+      "domain": "www.thompsons.co.za",
+      "avgPosition": 15.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.35,
+      "estimatedTraffic": 31.749
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 16.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.9,
+      "estimatedTraffic": 75.867
+    },
+    {
+      "domain": "travel.usnews.com",
+      "avgPosition": 17.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.4,
+      "estimatedTraffic": 39.454
+    },
+    {
+      "domain": "www.clubmed.com.au",
+      "avgPosition": 17.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.3,
+      "estimatedTraffic": 26.465
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 19.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.25,
+      "estimatedTraffic": 21.717000000000002
+    },
+    {
+      "domain": "www.thomascook.in",
+      "avgPosition": 19.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.2,
+      "estimatedTraffic": 16.89
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 19.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.2,
+      "estimatedTraffic": 34.418
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 20.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 39.90699999999999
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 20.714285714285715,
+      "keywordCount": 7,
+      "visibility": 1.25,
+      "estimatedTraffic": 102.514
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 22.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 15.876999999999999
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 9.833333333333334,
+      "keywordCount": 6,
+      "visibility": 0.95,
+      "estimatedTraffic": 42.711
+    },
+    {
+      "domain": "phuket-tropic-tours.com",
+      "avgPosition": 23.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 18.447
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 24,
+      "keywordCount": 7,
+      "visibility": 0.25,
+      "estimatedTraffic": 17.485
+    },
+    {
+      "domain": "wise.com",
+      "avgPosition": 18,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 37.864999999999995
+    },
+    {
+      "domain": "www.travelonline.com",
+      "avgPosition": 29.857142857142858,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.559000000000001
+    },
+    {
+      "domain": "www.elitehavens.com",
+      "avgPosition": 30,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "kohtourphuket.com",
+      "avgPosition": 30.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "phuketpropertygroup.com",
+      "avgPosition": 33.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 23.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 13.625
+    },
+    {
+      "domain": "www.luxtripper.co.uk",
+      "avgPosition": 23.5,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 10.177
+    },
+    {
+      "domain": "my.trip.com",
+      "avgPosition": 34.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "www.excursionmania.com",
+      "avgPosition": 23.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 14.519
+    },
+    {
+      "domain": "phuketelephantnaturereserve.com",
+      "avgPosition": 35.42857142857143,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "www.clubmed.com.sg",
+      "avgPosition": 36.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 14.899000000000001
+    },
+    {
+      "domain": "twoseatour.com",
+      "avgPosition": 41.857142857142854,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 44.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 44.857142857142854,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "www.celebritycruises.com",
+      "avgPosition": 37.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 12.978
+    },
+    {
+      "domain": "www.villa-finder.com",
+      "avgPosition": 37.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 9.345
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 51.42857142857143,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 52.857142857142854,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "forevervacation.com",
+      "avgPosition": 53.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "mythailandtours.com",
+      "avgPosition": 55.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "www.tripcrafters.com",
+      "avgPosition": 39.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 8.988
+    },
+    {
+      "domain": "www.indochinavoyages.com",
+      "avgPosition": 49.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 13.041
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 26,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 12.053999999999998
+    },
+    {
+      "domain": "www.responsibletravel.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 136.128
+    },
+    {
+      "domain": "www.climatestotravel.com",
+      "avgPosition": 53.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 12.978
+    },
+    {
+      "domain": "www.plain2plane.com",
+      "avgPosition": 60.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 13.335
+    },
+    {
+      "domain": "www.ministryofvillas.com",
+      "avgPosition": 35.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 8.693999999999999
+    },
+    {
+      "domain": "www.qbictravel.com",
+      "avgPosition": 50.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 8.988
+    },
+    {
+      "domain": "www.holidaysplease.co.uk",
+      "avgPosition": 58.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 9.345
+    },
+    {
+      "domain": "www.wyndhamgrandnaiharnphuket.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 14.394000000000002
+    }
+  ]
+}

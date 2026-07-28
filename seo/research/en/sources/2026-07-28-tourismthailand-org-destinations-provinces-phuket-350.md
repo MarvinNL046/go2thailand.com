@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.tourismthailand.org/Destinations/Provinces/Phuket/350
 
-**Captured:** 2026-07-28T20:58:39.292Z
+**Captured:** 2026-07-28T21:26:56.991Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
