@@ -15,6 +15,7 @@ import { MangoStickyRiceGuideEn } from '../../components/food/MangoStickyRiceGui
 import { GreenCurryGuideEn } from '../../components/food/GreenCurryGuideEn';
 import { PadKraPaoGuideEn } from '../../components/food/PadKraPaoGuideEn';
 import { PadSeeEwGuideEn } from '../../components/food/PadSeeEwGuideEn';
+import { LarbGuideEn } from '../../components/food/LarbGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -130,6 +131,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'pad-see-ew') {
     return <PadSeeEwGuideEn />;
+  }
+
+  if (dish.slug === 'larb') {
+    return <LarbGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
