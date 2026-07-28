@@ -1,0 +1,725 @@
+{
+  "captured_at": "2026-07-28T00:08:21.831Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "mango sticky rice thailand",
+  "costs": {
+    "suggestions": 0.01392,
+    "related": 0.01488,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "mango sticky rice thailand",
+    "mango sticky rice recipe",
+    "mango sticky rice in thailand",
+    "thailand mango sticky rice",
+    "mango sticky rice london",
+    "mango sticky rice thailand recipe",
+    "thai mango sticky rice recipe",
+    "thailand mango sticky rice recipe",
+    "easy mango sticky rice recipe",
+    "mango sticky rice recipe easy",
+    "mango sticky rice with condensed milk",
+    "authentic mango sticky rice recipe",
+    "best mango sticky rice recipe",
+    "mango sticky rice recipe rice cooker",
+    "sticky rice with mango thailand recipe",
+    "best mango sticky rice in thailand",
+    "best mango sticky rice thailand",
+    "best thai mango sticky rice recipe",
+    "how much is mango sticky rice in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "mango sticky rice recipe",
+      "volume": 2900,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice near me",
+      "volume": 2400,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice in thailand",
+      "volume": 720,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice thailand",
+      "volume": 720,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand mango sticky rice",
+      "volume": 720,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice london",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice thailand recipe",
+      "volume": 170,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai mango sticky rice recipe",
+      "volume": 170,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand mango sticky rice recipe",
+      "volume": 170,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy mango sticky rice recipe",
+      "volume": 70,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice recipe easy",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice with condensed milk",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic mango sticky rice recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best mango sticky rice near me",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best mango sticky rice recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice recipe rice cooker",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sticky rice with mango thailand recipe",
+      "volume": 20,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai mango sticky rice near me",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best mango sticky rice in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best mango sticky rice thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai mango sticky rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy mango sticky rice recipe rice cooker",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy mango sticky rice recipe stovetop",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy mango sticky rice recipe with coconut milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much is mango sticky rice in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice near me delivery",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice near me menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice price in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice recipe panlasang pinoy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice recipe thailand",
+      "volume": 10,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice recipe with condensed milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice thailand street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango with sticky rice thailand",
+      "volume": 10,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sticky mango rice thailand",
+      "volume": 10,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai mango sticky rice recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand famous food mango sticky rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango sticky rice thailand desserts",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 2.4444444444444446,
+      "keywordCount": 9,
+      "visibility": 7.7,
+      "estimatedTraffic": 1696.451
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 6.888888888888889,
+      "keywordCount": 9,
+      "visibility": 4.050000000000001,
+      "estimatedTraffic": 291.37999999999994
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 13.222222222222221,
+      "keywordCount": 9,
+      "visibility": 4.3999999999999995,
+      "estimatedTraffic": 243.677
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 3.5,
+      "keywordCount": 8,
+      "visibility": 5.999999999999999,
+      "estimatedTraffic": 517.817
+    },
+    {
+      "domain": "scientificallysweet.com",
+      "avgPosition": 4.5,
+      "keywordCount": 8,
+      "visibility": 5.2,
+      "estimatedTraffic": 637.9830000000001
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 9,
+      "visibility": 1.05,
+      "estimatedTraffic": 49.233
+    },
+    {
+      "domain": "www.joyousapron.com",
+      "avgPosition": 17.11111111111111,
+      "keywordCount": 9,
+      "visibility": 0.8000000000000002,
+      "estimatedTraffic": 35.629000000000005
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 18.555555555555557,
+      "keywordCount": 9,
+      "visibility": 0.45,
+      "estimatedTraffic": 54.22
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 9,
+      "visibility": 1.1,
+      "estimatedTraffic": 49.202999999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 13,
+      "keywordCount": 8,
+      "visibility": 2.55,
+      "estimatedTraffic": 91.77600000000001
+    },
+    {
+      "domain": "theforkedspoon.com",
+      "avgPosition": 14.125,
+      "keywordCount": 8,
+      "visibility": 1.1,
+      "estimatedTraffic": 76.46899999999998
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 26.444444444444443,
+      "keywordCount": 9,
+      "visibility": 0.2,
+      "estimatedTraffic": 21.743
+    },
+    {
+      "domain": "thefoodietakesflight.com",
+      "avgPosition": 16.571428571428573,
+      "keywordCount": 7,
+      "visibility": 1.35,
+      "estimatedTraffic": 56.36599999999999
+    },
+    {
+      "domain": "beinspired.au",
+      "avgPosition": 27,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 12.24
+    },
+    {
+      "domain": "www.gigglingsquid.com",
+      "avgPosition": 20.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.4,
+      "estimatedTraffic": 12.015000000000002
+    },
+    {
+      "domain": "farahjeats.com",
+      "avgPosition": 22,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.53
+    },
+    {
+      "domain": "www.tilda.com",
+      "avgPosition": 10.833333333333334,
+      "keywordCount": 6,
+      "visibility": 2.8500000000000005,
+      "estimatedTraffic": 211.59500000000003
+    },
+    {
+      "domain": "maddysavenue.com",
+      "avgPosition": 25.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.525
+    },
+    {
+      "domain": "www.foxyfolksy.com",
+      "avgPosition": 25.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 9.353000000000002
+    },
+    {
+      "domain": "elavegan.com",
+      "avgPosition": 29.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.454
+    },
+    {
+      "domain": "www.thesaucyfig.com",
+      "avgPosition": 39.25,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 30.779
+    },
+    {
+      "domain": "www.cookingwithnart.com",
+      "avgPosition": 31,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.691000000000001
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 31,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 4.389000000000001
+    },
+    {
+      "domain": "www.thai-food-online.co.uk",
+      "avgPosition": 20.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 8.233
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 36.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0.25,
+      "estimatedTraffic": 14.867
+    },
+    {
+      "domain": "www.theguardian.com",
+      "avgPosition": 11.6,
+      "keywordCount": 5,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 23.741
+    },
+    {
+      "domain": "www.epicurious.com",
+      "avgPosition": 26.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 35.541999999999994
+    },
+    {
+      "domain": "www.deliciousmagazine.co.uk",
+      "avgPosition": 32,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.9279999999999995
+    },
+    {
+      "domain": "nutsaboutgreens.com",
+      "avgPosition": 32.5,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.406000000000001
+    },
+    {
+      "domain": "tumyumyum.com",
+      "avgPosition": 19.2,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.322
+    },
+    {
+      "domain": "www.cooking-therapy.com",
+      "avgPosition": 22.4,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.152
+    },
+    {
+      "domain": "www.modernhoney.com",
+      "avgPosition": 23.4,
+      "keywordCount": 5,
+      "visibility": 1.9,
+      "estimatedTraffic": 33.691
+    },
+    {
+      "domain": "www.tastingtable.com",
+      "avgPosition": 46.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 10.622000000000002
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 7.75,
+      "keywordCount": 4,
+      "visibility": 2.25,
+      "estimatedTraffic": 198.264
+    },
+    {
+      "domain": "www.yummytummyaarthi.com",
+      "avgPosition": 27.6,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.679
+    },
+    {
+      "domain": "thetravelbite.com",
+      "avgPosition": 29.4,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 2.758
+    },
+    {
+      "domain": "rakskitchen.net",
+      "avgPosition": 30.4,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 11.582999999999998
+    },
+    {
+      "domain": "veggieanh.com",
+      "avgPosition": 13.75,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 2.754
+    },
+    {
+      "domain": "silkroadrecipes.com",
+      "avgPosition": 33,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.259
+    },
+    {
+      "domain": "www.mythaicurry.com",
+      "avgPosition": 34.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 4.167
+    },
+    {
+      "domain": "www.cookingandme.com",
+      "avgPosition": 20,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.7049999999999996
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 24.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 7.131
+    },
+    {
+      "domain": "www.mygorgeousrecipes.com",
+      "avgPosition": 5,
+      "keywordCount": 3,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 33.894999999999996
+    },
+    {
+      "domain": "edeneats.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7,
+      "estimatedTraffic": 141.659
+    },
+    {
+      "domain": "www.jaroflemons.com",
+      "avgPosition": 44.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.365
+    },
+    {
+      "domain": "kitchenconfidante.com",
+      "avgPosition": 35.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.029
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 57,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 4.032
+    },
+    {
+      "domain": "smellylunchbox.com",
+      "avgPosition": 50.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.365
+    },
+    {
+      "domain": "www.cnn.com",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 23.040000000000003
+    },
+    {
+      "domain": "pickledplum.com",
+      "avgPosition": 40.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.3729999999999998
+    }
+  ]
+}
