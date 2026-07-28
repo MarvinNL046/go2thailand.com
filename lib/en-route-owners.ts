@@ -13,6 +13,8 @@ export function normalizeEnInternalHref(href: string): string {
     '/travel-insurance-thailand/': '/travel-insurance/',
     '/best-hotels/khao-sok/': '/top-10/hotels/',
     '/best-hotels/ban-krut/': '/city/ban-krut/#zones',
+    '/city/koh-tao/': '/islands/koh-tao/',
+    '/city/koh-tao/attractions/': '/islands/koh-tao/attractions/',
     '/city/ban-krut/best-time-to-visit/': '/city/ban-krut/#praktisch',
     '/city/ban-krut/weather/': '/city/ban-krut/#praktisch',
     '/region/northeastern/': '/region/isaan/',

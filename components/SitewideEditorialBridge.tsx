@@ -262,7 +262,7 @@ function buildEnglishContent(path: string): BridgeContent {
         intro: 'The right bay only works when it matches your ferry, water days and the pace you want from the island.',
         links: [
           englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
-          englishLink('/blog/koh-tao-guide-diving-beaches-budget-travel/', 'our practical guide to Koh Tao beaches and diving', 'Beaches & diving'),
+          englishLink('/islands/koh-tao/attractions/', 'the best things to do in Koh Tao', 'Things to do'),
           englishLink('/transport/', 'our practical guide to transport in Thailand', 'Getting around'),
         ],
       };
@@ -306,8 +306,8 @@ function buildEnglishContent(path: string): BridgeContent {
       title: 'Connect the island, bay and hotel',
       intro: 'Koh Tao is compact on a map, but ferry timing, steep roads and separate bays make the choice of base consequential.',
       links: [
+        englishLink('/islands/koh-tao/attractions/', 'the best things to do in Koh Tao', 'Things to do'),
         englishLink('/best-hotels/koh-tao/', 'our independently verified Koh Tao hotel shortlist', 'Where to stay'),
-        englishLink('/thailand-islands/', 'our comparison of Thailand’s islands', 'Compare islands'),
         englishLink('/transport/', 'the guide to ferries, trains and transfers', 'Route & transport'),
       ],
     };

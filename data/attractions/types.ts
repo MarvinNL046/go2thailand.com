@@ -19,7 +19,7 @@ export interface AttractionGuideData {
   parentGuideHref?: string;
   breadcrumbLabel?: string;
   selectionTitle?: string;
-  locale: 'nl';
+  locale: 'nl' | 'en';
   pageTitle: string;
   pageDescription: string;
   pageUrl: string;

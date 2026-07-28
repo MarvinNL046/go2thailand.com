@@ -373,9 +373,10 @@ for (const wiring of ['getNlAttractionsGuide', 'AttractionsGuideTemplate']) {
   if (!attractionsRoute.includes(wiring)) failures.push(`The attractions route does not use ${wiring}`);
 }
 const kohTaoAttractionsData = read('data/attractions/nl/koh-tao.ts');
+const kohTaoAttractionsDataEn = read('data/attractions/en/koh-tao.ts');
 const kohTaoAttractionsRoute = read('pages/islands/[slug]/attractions.tsx');
-for (const wiring of ['getNlAttractionsGuide', 'AttractionsGuideTemplate', "locale !== 'nl'"]) {
-  if (!kohTaoAttractionsRoute.includes(wiring)) failures.push(`The Koh Tao island attractions route does not preserve ${wiring}`);
+for (const wiring of ['getNlAttractionsGuide', 'getEnAttractionsGuide', 'AttractionsGuideTemplate']) {
+  if (!kohTaoAttractionsRoute.includes(wiring)) failures.push(`The bilingual Koh Tao island attractions route does not preserve ${wiring}`);
 }
 for (const asset of [
   'koh-tao-attractions-hero.webp',
@@ -383,6 +384,7 @@ for (const asset of [
   'koh-tao-sunset-paddle.webp',
 ]) {
   if (!kohTaoAttractionsData.includes(asset)) failures.push(`Koh Tao attractions data does not use ${asset}`);
+  if (!kohTaoAttractionsDataEn.includes(asset)) failures.push(`English Koh Tao attractions data does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
 const diveTemplate = read('components/diving/DiveGuideTemplate.tsx');
@@ -569,12 +571,12 @@ for (const route of [
   '/nightlife/pattaya/',
   '/nightlife/phuket/',
   '/best-hotels/koh-tao/',
+  '/islands/koh-tao/attractions/',
 ]) {
   if (!enSitemap.includes(`https://go2-thailand.com${route}`)) failures.push(`EN sitemap misses bilingual owner ${route}`);
   if (!nlSitemap.includes(`https://go2-thailand.com/nl${route}`)) failures.push(`NL sitemap misses bilingual owner ${route}`);
 }
 for (const route of [
-  '/islands/koh-tao/attractions/',
   '/islands/koh-tao/diving/',
   '/islands/koh-tao/snorkeling/',
 ]) {

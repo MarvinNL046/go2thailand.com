@@ -20,6 +20,7 @@ import {
 } from 'lucide-react';
 import type { AttractionGuideData, AttractionHighlight, AttractionIcon } from '../../data/attractions/types';
 import { cityAffiliates, KLOOK_GENERIC, withPlacementSubId } from '../../lib/affiliates';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import FeedbackForm from '../FeedbackForm';
 import SEOHead from '../SEOHead';
@@ -47,13 +48,76 @@ const iconMap: Record<AttractionIcon, LucideIcon> = {
   waves: Waves,
 };
 
-const sectionNavItems: PageSectionNavItem[] = [
-  { href: '#kort', label: 'Kort antwoord', icon: Sparkles },
-  { href: '#mooiste-plekken', label: 'Mooiste plekken', icon: Compass },
-  { href: '#kiezen', label: 'Kiezen', icon: Waves },
-  { href: '#route', label: 'Route', icon: MapPin },
-  { href: '#vragen', label: 'Vragen', icon: BookOpenText },
-];
+const localeCopy = {
+  nl: {
+    nav: ['Kort antwoord', 'Mooiste plekken', 'Kiezen', 'Route', 'Vragen'],
+    breadcrumb: 'Bezienswaardigheden',
+    heroPrimary: 'Bekijk de plekken',
+    heroSecondary: 'Vind een uitje',
+    disclosure: 'De uitjesknop is een affiliatelink. Bij een boeking ontvangen wij mogelijk een commissie; jij betaalt niets extra.',
+    itemList: (city: string) => `Mooiste bezienswaardigheden in ${city}`,
+    returnGuide: (city: string) => `Terug naar de complete ${city}-gids`,
+    editorialEyebrow: 'De redactionele selectie',
+    defaultSelection: (city: string) => `De mooiste bezienswaardigheden van ${city}`,
+    selectionIntro: 'Niet iedere bekende plek past in dezelfde reis. Daarom staat bij elke keuze ook de praktische keerzijde.',
+    fits: 'Past goed bij:',
+    readGuide: 'Lees de gids',
+    routePart: (city: string) => `Onderdeel van deze ${city}-route`,
+    chooseEyebrow: 'Kies op reisstijl',
+    chooseTitle: 'Welke activiteit past bij jouw reis?',
+    chooseIntro: 'Gebruik dit als filter. Je hoeft niet uit iedere categorie iets te kiezen; een sterke route combineert een paar duidelijke contrasten zonder je dagen vol te proppen.',
+    klookEyebrow: 'Uitjes via Klook',
+    klookTitle: 'Vergelijk actuele tours zonder de redactionele route uit het oog te verliezen.',
+    klookAction: 'Bekijk activiteiten',
+    affiliateNote: 'Affiliatelink — wij kunnen commissie ontvangen bij een boeking, zonder extra kosten voor jou.',
+    practicalEyebrow: 'Voor je vertrekt',
+    practicalTitle: 'Praktische tips voor je planning',
+    currentInfoLead: 'Controleer actuele informatie.',
+    currentInfo: 'Entreeprijzen, openingstijden, bootvertrekken en toegang kunnen veranderen. Kijk vlak voor vertrek bij de officiële locatie of je aanbieder.',
+    faqEyebrow: 'Echte vragen uit de zoekresultaten',
+    faqTitle: (city: string) => `Veelgestelde vragen over ${city}`,
+    faqDescription: 'De vragen zijn rechtstreeks verzameld uit de Nederlandse People Also Ask-resultaten van DataForSEO. Antwoorden over weer en verblijf verwijzen bewust naar hun eigen verdiepende gids.',
+    relatedTitle: (city: string) => `Maak je ${city}-reis compleet`,
+    klookSide: 'Uitjes via Klook',
+    relatedDisclosure: 'Klook is een affiliatepartner. Een eventuele commissie verandert jouw prijs niet.',
+    sourceTitle: 'Hoe is deze selectie samengesteld?',
+    sourceDescription: 'We combineren officiële bestemmingsinformatie, actuele toegangs- en veiligheidscontext, logische dagroutes en echte zoekvragen. Bekende plekken zonder duidelijke meerwaarde of met onduidelijke actuele toegang krijgen geen automatische topnotering.',
+  },
+  en: {
+    nav: ['Quick answer', 'Best experiences', 'Choose', 'Route', 'Questions'],
+    breadcrumb: 'Things to do',
+    heroPrimary: 'Explore the experiences',
+    heroSecondary: 'Check current tours',
+    disclosure: 'The activities button is an affiliate link. We may receive a commission after a booking, at no extra cost to you.',
+    itemList: (city: string) => `Best things to do in ${city}`,
+    returnGuide: (city: string) => `Back to the complete ${city} guide`,
+    editorialEyebrow: 'The editorial shortlist',
+    defaultSelection: (city: string) => `The best things to do in ${city}`,
+    selectionIntro: 'Not every famous stop belongs in the same trip. Each choice therefore includes the practical compromise as well as the appeal.',
+    fits: 'Best for:',
+    readGuide: 'Read the guide',
+    routePart: (city: string) => `Part of this ${city} route`,
+    chooseEyebrow: 'Choose by travel style',
+    chooseTitle: 'Which activity fits your trip?',
+    chooseIntro: 'Use this as a filter rather than a checklist. A strong island route combines a few clear contrasts and still leaves room for the conditions to change.',
+    klookEyebrow: 'Activities via Klook',
+    klookTitle: 'Compare current tours without losing the logic of the editorial route.',
+    klookAction: 'Check activities',
+    affiliateNote: 'Affiliate link — we may receive a commission after a booking, at no extra cost to you.',
+    practicalEyebrow: 'Before you go',
+    practicalTitle: 'Practical planning checks',
+    currentInfoLead: 'Verify current information.',
+    currentInfo: 'Entrance fees, opening hours, boat departures and access can change. Recheck with the official place or operator shortly before you go.',
+    faqEyebrow: 'Real questions from current search results',
+    faqTitle: (city: string) => `Frequently asked questions about ${city}`,
+    faqDescription: 'These questions were captured from current UK-English People Also Ask results through DataForSEO. Weather, hotels, diving and snorkelling remain separate specialist decisions.',
+    relatedTitle: (city: string) => `Complete your ${city} trip`,
+    klookSide: 'Activities via Klook',
+    relatedDisclosure: 'Klook is an affiliate partner. Any commission does not change your price.',
+    sourceTitle: 'How was this shortlist built?',
+    sourceDescription: 'We combine primary destination information, current access and safety context, coherent day routes and real search questions. A famous stop does not receive an automatic ranking when its practical value or current access is unclear.',
+  },
+};
 
 const nlAttractionDetailOwners = new Set([
   '/city/chiang-rai/attractions/blue-temple/',
@@ -69,11 +133,12 @@ function publishedAttractionHref(href?: string) {
 function schemaItemUrl(data: AttractionGuideData, item: AttractionHighlight) {
   const href = publishedAttractionHref(item.href);
   if (href?.startsWith('https://')) return href;
-  if (href?.startsWith('/')) return `https://go2-thailand.com/nl${href}`;
+  if (href?.startsWith('/')) return `https://go2-thailand.com${data.locale === 'nl' ? '/nl' : ''}${href}`;
   return `${data.pageUrl}#${item.slug}`;
 }
 
-function HighlightCard({ cityName, item, index }: { cityName: string; item: AttractionHighlight; index: number }) {
+function HighlightCard({ cityName, item, index, locale }: { cityName: string; item: AttractionHighlight; index: number; locale: AttractionGuideData['locale'] }) {
+  const labels = localeCopy[locale];
   const href = publishedAttractionHref(item.href);
   const content = (
     <>
@@ -88,10 +153,10 @@ function HighlightCard({ cityName, item, index }: { cityName: string; item: Attr
         <h3 className="mt-3 font-display text-[1.65rem] font-semibold leading-none tracking-[-0.02em] text-jade">{item.title}</h3>
         <p className="mt-3 text-xs font-medium leading-5 text-charcoal/65">{item.description}</p>
         <div className="mt-4 space-y-2 border-t border-jade/10 pt-4 text-[10px] leading-4">
-          <p className="flex gap-2 text-jade"><Check size={13} className="mt-0.5 shrink-0 text-saffron-dark" /><span><strong>Past goed bij:</strong> {item.bestFor}</span></p>
+          <p className="flex gap-2 text-jade"><Check size={13} className="mt-0.5 shrink-0 text-saffron-dark" /><span><strong>{labels.fits}</strong> {item.bestFor}</span></p>
           <p className="flex gap-2 text-charcoal/58"><span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-jade/30" /><span>{item.tradeoff}</span></p>
         </div>
-        {href ? <span className="mt-auto inline-flex items-center justify-end gap-2 pt-5 text-xs font-extrabold text-jade transition group-hover:text-saffron-dark">Lees de gids <ArrowRight size={14} className="transition group-hover:translate-x-1" /></span> : <span className="mt-auto pt-5 text-[9px] font-extrabold uppercase tracking-[0.14em] text-charcoal/38">Onderdeel van deze {cityName}-route</span>}
+        {href ? <span className="mt-auto inline-flex items-center justify-end gap-2 pt-5 text-xs font-extrabold text-jade transition group-hover:text-saffron-dark">{labels.readGuide} <ArrowRight size={14} className="transition group-hover:translate-x-1" /></span> : <span className="mt-auto pt-5 text-[9px] font-extrabold uppercase tracking-[0.14em] text-charcoal/38">{labels.routePart(cityName)}</span>}
       </div>
     </>
   );
@@ -104,15 +169,24 @@ function HighlightCard({ cityName, item, index }: { cityName: string; item: Attr
 }
 
 export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps) {
+  const labels = localeCopy[data.locale];
+  const localePrefix = data.locale === 'nl' ? '/nl' : '';
+  const sectionNavItems: PageSectionNavItem[] = [
+    { href: '#kort', label: labels.nav[0], icon: Sparkles },
+    { href: '#mooiste-plekken', label: labels.nav[1], icon: Compass },
+    { href: '#kiezen', label: labels.nav[2], icon: Waves },
+    { href: '#route', label: labels.nav[3], icon: MapPin },
+    { href: '#vragen', label: labels.nav[4], icon: BookOpenText },
+  ];
   const parentGuideHref = data.parentGuideHref || `/city/${data.citySlug}/`;
   const parentGuideUrl = parentGuideHref.startsWith('http')
     ? parentGuideHref
-    : `https://go2-thailand.com/nl${parentGuideHref.startsWith('/') ? parentGuideHref : `/${parentGuideHref}`}`;
-  const breadcrumbLabel = data.breadcrumbLabel || 'Bezienswaardigheden';
+    : `https://go2-thailand.com${localePrefix}${parentGuideHref.startsWith('/') ? parentGuideHref : `/${parentGuideHref}`}`;
+  const breadcrumbLabel = data.breadcrumbLabel || labels.breadcrumb;
   const klookHref = withPlacementSubId(cityAffiliates[data.citySlug]?.klook || KLOOK_GENERIC, `${data.citySlug}-attractions`);
   const heroActions: EditorialHeroAction[] = [
-    { label: 'Bekijk de plekken', href: '#mooiste-plekken', kind: 'primary' },
-    { label: 'Vind een uitje', href: klookHref, kind: 'secondary', newTab: true, affiliate: true },
+    { label: labels.heroPrimary, href: '#mooiste-plekken', kind: 'primary' },
+    { label: labels.heroSecondary, href: klookHref, kind: 'secondary', newTab: true, affiliate: true },
   ];
   const breadcrumbs = [
     { label: 'Thailand', href: '/' },
@@ -122,7 +196,7 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
   const itemListSchema = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: `Mooiste bezienswaardigheden in ${data.cityName}`,
+    name: labels.itemList(data.cityName),
     numberOfItems: data.highlights.length,
     itemListElement: data.highlights.map((item, index) => ({
       '@type': 'ListItem',
@@ -141,7 +215,7 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Thailand', item: 'https://go2-thailand.com/nl/' },
+      { '@type': 'ListItem', position: 1, name: 'Thailand', item: `https://go2-thailand.com${localePrefix}/` },
       { '@type': 'ListItem', position: 2, name: data.cityName, item: parentGuideUrl },
       { '@type': 'ListItem', position: 3, name: breadcrumbLabel, item: data.pageUrl },
     ],
@@ -153,7 +227,7 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
     url: data.pageUrl,
     name: data.pageTitle,
     description: data.pageDescription,
-    inLanguage: 'nl-NL',
+    inLanguage: data.locale === 'nl' ? 'nl-NL' : 'en',
     dateModified: data.dateModified,
   };
 
@@ -179,7 +253,7 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
           description={data.hero.description}
           descriptionClassName="mt-4 max-w-[570px] text-sm leading-6"
           actions={heroActions}
-          disclosure="De uitjesknop is een affiliatelink. Bij een boeking ontvangen wij mogelijk een commissie; jij betaalt niets extra."
+          disclosure={labels.disclosure}
           minHeightClassName="min-h-[700px] lg:min-h-[630px]"
           contentClassName="max-w-[640px]"
           imageClassName={data.hero.imageClassName || 'object-cover object-center'}
@@ -194,7 +268,7 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
               <p className="eyebrow">{data.quickAnswer.eyebrow}</p>
               <h2 className="heading-redesign">{data.quickAnswer.title}</h2>
               <p className="mt-5 max-w-xl text-sm font-medium leading-7 text-charcoal/70">{data.quickAnswer.description}</p>
-              <Link href={parentGuideHref} className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">Terug naar de complete {data.cityName}-gids <ArrowRight size={14} /></Link>
+              <Link href={parentGuideHref} className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">{labels.returnGuide(data.cityName)} <ArrowRight size={14} /></Link>
             </div>
             <div className="grid gap-3 sm:grid-cols-3">
               {data.quickAnswer.stats.map((stat) => {
@@ -207,19 +281,19 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
 
         <section id="mooiste-plekken" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20">
           <div className="container-custom">
-            <div className="mb-9 max-w-3xl"><p className="eyebrow">De redactionele selectie</p><h2 className="heading-redesign">{data.selectionTitle || `De mooiste bezienswaardigheden van ${data.cityName}`}</h2><p className="mt-5 text-sm font-medium leading-7 text-charcoal/68">Niet iedere bekende plek past in dezelfde reis. Daarom staat bij elke keuze ook de praktische keerzijde.</p></div>
-            <div className="grid gap-5 md:grid-cols-2">{data.highlights.map((item, index) => <HighlightCard key={item.slug} cityName={data.cityName} item={item} index={index} />)}</div>
+            <div className="mb-9 max-w-3xl"><p className="eyebrow">{labels.editorialEyebrow}</p><h2 className="heading-redesign">{data.selectionTitle || labels.defaultSelection(data.cityName)}</h2><p className="mt-5 text-sm font-medium leading-7 text-charcoal/68">{labels.selectionIntro}</p></div>
+            <div className="grid gap-5 md:grid-cols-2">{data.highlights.map((item, index) => <HighlightCard key={item.slug} cityName={data.cityName} item={item} index={index} locale={data.locale} />)}</div>
           </div>
         </section>
 
         <section id="kiezen" className="section-divider-bottom scroll-mt-24 bg-tonal py-14 lg:py-20">
           <div className="container-custom">
-            <div className="mb-8 grid gap-5 lg:grid-cols-[1fr_0.8fr] lg:items-end"><div><p className="eyebrow">Kies op reisstijl</p><h2 className="heading-redesign">Welke activiteit past bij jouw reis?</h2></div><p className="max-w-xl text-sm font-medium leading-7 text-charcoal/65 lg:justify-self-end">Gebruik dit als filter. Je hoeft niet uit iedere categorie iets te kiezen; een sterke route combineert een paar duidelijke contrasten zonder je dagen vol te proppen.</p></div>
+            <div className="mb-8 grid gap-5 lg:grid-cols-[1fr_0.8fr] lg:items-end"><div><p className="eyebrow">{labels.chooseEyebrow}</p><h2 className="heading-redesign">{labels.chooseTitle}</h2></div><p className="max-w-xl text-sm font-medium leading-7 text-charcoal/65 lg:justify-self-end">{labels.chooseIntro}</p></div>
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
               {data.activityTypes.map((item) => { const Icon = iconMap[item.icon]; return <article key={item.title} className="flex min-h-[270px] flex-col rounded-2xl border border-jade/10 bg-white p-6 shadow-[0_7px_24px_rgba(18,63,54,0.04)]"><Icon size={40} strokeWidth={1.35} className="text-jade" /><h3 className="mt-6 font-display text-[1.65rem] font-semibold leading-none text-jade">{item.title}</h3><p className="mt-3 text-xs leading-5 text-charcoal/64">{item.description}</p><p className="mt-auto border-t border-jade/10 pt-4 text-[10px] font-extrabold leading-4 text-saffron-dark">{item.picks}</p></article>; })}
             </div>
-            <div className="mt-7 flex flex-col items-start justify-between gap-5 rounded-2xl bg-jade px-6 py-6 text-white shadow-[0_12px_32px_rgba(18,63,54,0.16)] sm:flex-row sm:items-center lg:px-8"><div><p className="text-[10px] font-extrabold uppercase tracking-[0.18em] text-saffron-light">Uitjes via Klook</p><p className="mt-2 max-w-2xl font-display text-2xl font-semibold leading-tight">Vergelijk actuele tours zonder de redactionele route uit het oog te verliezen.</p></div><a href={klookHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-cream shrink-0">Bekijk activiteiten <ArrowRight size={14} className="text-saffron-dark" /></a></div>
-            <p className="mt-2 text-[9px] text-charcoal/45">Affiliatelink — wij kunnen commissie ontvangen bij een boeking, zonder extra kosten voor jou.</p>
+            <div className="mt-7 flex flex-col items-start justify-between gap-5 rounded-2xl bg-jade px-6 py-6 text-white shadow-[0_12px_32px_rgba(18,63,54,0.16)] sm:flex-row sm:items-center lg:px-8"><div><p className="text-[10px] font-extrabold uppercase tracking-[0.18em] text-saffron-light">{labels.klookEyebrow}</p><p className="mt-2 max-w-2xl font-display text-2xl font-semibold leading-tight">{labels.klookTitle}</p></div><a href={klookHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-cream shrink-0">{labels.klookAction} <ArrowRight size={14} className="text-saffron-dark" /></a></div>
+            <p className="mt-2 text-[9px] text-charcoal/45">{labels.affiliateNote}</p>
           </div>
         </section>
 
@@ -231,18 +305,18 @@ export function AttractionsGuideTemplate({ data }: AttractionsGuideTemplateProps
         </section>
 
         <section id="route" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20">
-          <div className="container-custom"><div className="mb-8 max-w-3xl"><p className="eyebrow">{data.route.eyebrow}</p><h2 className="heading-redesign">{data.route.title}</h2><p className="mt-5 text-sm font-medium leading-7 text-charcoal/68">{data.route.description}</p></div><div className="relative grid gap-5 lg:grid-cols-3"><div aria-hidden="true" className="absolute left-[12%] right-[12%] top-7 hidden border-t-2 border-dashed border-saffron/50 lg:block" />{data.route.days.map((day, index) => <Link key={day.day} href={normalizeNlInternalHref(day.href)} className="group relative rounded-2xl border border-jade/10 bg-white p-6 shadow-[0_7px_24px_rgba(18,63,54,0.045)] transition hover:-translate-y-1 hover:border-saffron/35"><div className="relative z-10 flex items-center justify-between"><span className="grid h-14 w-14 place-items-center rounded-full border-4 border-canvas bg-saffron text-sm font-extrabold text-white shadow-sm">{index + 1}</span><ArrowRight size={16} className="text-jade transition group-hover:translate-x-1 group-hover:text-saffron-dark" /></div><p className="mt-5 text-[10px] font-extrabold uppercase tracking-[0.16em] text-saffron-dark">{day.day}</p><h3 className="mt-2 font-display text-[1.8rem] font-semibold leading-none text-jade">{day.title}</h3><p className="mt-4 text-xs leading-5 text-charcoal/62">{day.description}</p></Link>)}</div></div>
+          <div className="container-custom"><div className="mb-8 max-w-3xl"><p className="eyebrow">{data.route.eyebrow}</p><h2 className="heading-redesign">{data.route.title}</h2><p className="mt-5 text-sm font-medium leading-7 text-charcoal/68">{data.route.description}</p></div><div className="relative grid gap-5 lg:grid-cols-3"><div aria-hidden="true" className="absolute left-[12%] right-[12%] top-7 hidden border-t-2 border-dashed border-saffron/50 lg:block" />{data.route.days.map((day, index) => <Link key={day.day} href={data.locale === 'nl' ? normalizeNlInternalHref(day.href) : normalizeEnInternalHref(day.href)} className="group relative rounded-2xl border border-jade/10 bg-white p-6 shadow-[0_7px_24px_rgba(18,63,54,0.045)] transition hover:-translate-y-1 hover:border-saffron/35"><div className="relative z-10 flex items-center justify-between"><span className="grid h-14 w-14 place-items-center rounded-full border-4 border-canvas bg-saffron text-sm font-extrabold text-white shadow-sm">{index + 1}</span><ArrowRight size={16} className="text-jade transition group-hover:translate-x-1 group-hover:text-saffron-dark" /></div><p className="mt-5 text-[10px] font-extrabold uppercase tracking-[0.16em] text-saffron-dark">{day.day}</p><h3 className="mt-2 font-display text-[1.8rem] font-semibold leading-none text-jade">{day.title}</h3><p className="mt-4 text-xs leading-5 text-charcoal/62">{day.description}</p></Link>)}</div></div>
         </section>
 
         <section className="section-divider-bottom bg-tonal py-14 lg:py-20">
-          <div className="container-custom"><div className="mb-8"><p className="eyebrow">Voor je vertrekt</p><h2 className="heading-redesign">Praktische tips voor je planning</h2></div><div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">{data.practicalTips.map((tip) => { const Icon = iconMap[tip.icon]; return <article key={tip.title} className="rounded-2xl border border-jade/10 bg-white p-6"><Icon size={38} strokeWidth={1.35} className="text-jade" /><h3 className="mt-5 font-display text-[1.5rem] font-semibold leading-none text-jade">{tip.title}</h3><p className="mt-3 text-xs leading-5 text-charcoal/64">{tip.description}</p></article>; })}</div><p className="mt-6 rounded-xl border border-saffron/25 bg-white/65 px-5 py-4 text-xs leading-5 text-charcoal/65"><strong className="text-jade">Controleer actuele informatie.</strong> Entreeprijzen, openingstijden, bootvertrekken en toegang kunnen veranderen. Kijk vlak voor vertrek bij de officiële locatie of je aanbieder.</p></div>
+          <div className="container-custom"><div className="mb-8"><p className="eyebrow">{labels.practicalEyebrow}</p><h2 className="heading-redesign">{labels.practicalTitle}</h2></div><div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">{data.practicalTips.map((tip) => { const Icon = iconMap[tip.icon]; return <article key={tip.title} className="rounded-2xl border border-jade/10 bg-white p-6"><Icon size={38} strokeWidth={1.35} className="text-jade" /><h3 className="mt-5 font-display text-[1.5rem] font-semibold leading-none text-jade">{tip.title}</h3><p className="mt-3 text-xs leading-5 text-charcoal/64">{tip.description}</p></article>; })}</div><p className="mt-6 rounded-xl border border-saffron/25 bg-white/65 px-5 py-4 text-xs leading-5 text-charcoal/65"><strong className="text-jade">{labels.currentInfoLead}</strong> {labels.currentInfo}</p></div>
         </section>
 
-        <FaqSplitSection eyebrow="Echte vragen uit de zoekresultaten" title={`Veelgestelde vragen over ${data.cityName}`} description="De vragen zijn rechtstreeks verzameld uit de Nederlandse People Also Ask-resultaten van DataForSEO. Antwoorden over weer en verblijf verwijzen bewust naar hun eigen verdiepende gids." items={data.faqs} />
+        <FaqSplitSection eyebrow={labels.faqEyebrow} title={labels.faqTitle(data.cityName)} description={labels.faqDescription} items={data.faqs} />
 
-        <RelatedGuidesSection title={`Maak je ${data.cityName}-reis compleet`} guides={data.relatedGuides} sideLink={{ label: 'Uitjes via Klook', href: klookHref, affiliate: true }} disclosure="Klook is een affiliatepartner. Een eventuele commissie verandert jouw prijs niet." />
+        <RelatedGuidesSection title={labels.relatedTitle(data.cityName)} guides={data.relatedGuides} sideLink={{ label: labels.klookSide, href: klookHref, affiliate: true }} disclosure={labels.relatedDisclosure} />
 
-        <SourceMethodSection title="Hoe is deze selectie samengesteld?" description="We combineren officiële bestemmingsinformatie, actuele toegangs- en veiligheidscontext, logische dagroutes en echte zoekvragen. Bekende plekken zonder duidelijke meerwaarde of met onduidelijke actuele toegang krijgen geen automatische topnotering." sources={data.sources} />
+        <SourceMethodSection title={labels.sourceTitle} description={labels.sourceDescription} sources={data.sources} />
 
         <section className="py-10 lg:py-12"><div className="container-custom"><FeedbackForm pageTitle={data.pageTitle} pageUrl={data.pageUrl} /></div></section>
       </div>

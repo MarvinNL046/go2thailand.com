@@ -2,7 +2,7 @@
 
 **Measured:** 28 July 2026  
 **Source:** `seo/inventory/routes.csv` and `seo/inventory/unpaired-routes.json`  
-**Scope:** 939 sitemap routes without an exact path-equivalent in the other locale
+**Scope:** 938 sitemap routes without an exact path-equivalent in the other locale
 
 An unpaired route is an audit lead, not automatically a missing translation. Go2Thailand uses locale-specific consolidation: Dutch often keeps one strong destination or hotel owner where English still has several programmatic child routes. Creating all missing path-equivalents would therefore add thin duplication and incorrect hreflang rather than useful bilingual coverage.
 
@@ -10,9 +10,9 @@ An unpaired route is an audit lead, not automatically a missing translation. Go2
 
 | Locale-only side | Routes | Share of unpaired set |
 |---|---:|---:|
-| English-only | 913 | 97.2% |
-| Dutch-only | 26 | 2.8% |
-| Total | 939 | 100% |
+| English-only | 913 | 97.3% |
+| Dutch-only | 25 | 2.7% |
+| Total | 938 | 100% |
 
 ## English-only families
 
@@ -37,10 +37,9 @@ The first five template-held groups account for **648/913 English-only routes**.
 
 ### Priority A — independently research an English owner
 
-These seven remaining routes represent durable, commercially or topically useful intents. They should receive separate English DFS/SERP/competitor/PAA research before an English canonical is indexed:
+These six remaining routes represent durable, commercially or topically useful intents. They should receive separate English DFS/SERP/competitor/PAA research before an English canonical is indexed:
 
 - `/best-hotels/khao-sok/`
-- `/islands/koh-tao/attractions/`
 - `/islands/koh-tao/diving/`
 - `/islands/koh-tao/snorkeling/`
 - `/city/koh-samui/weather/`
@@ -85,3 +84,4 @@ These thirteen blog intents can be useful in English, but each needs freshness a
 ## Completed from Priority A
 
 - `/best-hotels/koh-tao/` now has an independent English owner based on a 60-keyword DFS cluster, eight current UK-English SERPs, genuine PAA and first-party hotel verification. It entered the English sitemap only after canonical, hreflang, schema, internal-link, affiliate and responsive QA passed.
+- `/islands/koh-tao/attractions/` now has an independent English owner based on two DFS clusters, ten current UK-English SERPs, genuine PAA, three complete competitor parses and four primary or local destination parses. It entered the English sitemap only after canonical, hreflang, schema, Klook, internal-link and responsive QA passed.

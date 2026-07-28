@@ -1,18 +1,18 @@
 # Rendered design coverage
 
-**Captured:** 2026-07-28T18:19:40.323Z
+**Captured:** 2026-07-28T18:41:49.481Z
 **Base URL:** http://localhost:3000
 
 This report separates sitemap routes, rendered design signatures and exact implemented ContentOps owner routes. A premium signature proves that the current HTML uses the shared redesign primitives; it does not by itself prove unique copy or page-level editorial quality.
 
 ## EN
 
-- Sitemap routes inspected: **1590**
-- HTTP 200: **1590/1590**
-- Premium rendered signature: **1589/1590**
-- Hybrid rendered signature: **1/1590**
-- No redesign signature: **0/1590**
-- Exact implemented ContentOps owners: **107**
+- Sitemap routes inspected: **1591**
+- HTTP 200: **1591/1591**
+- Premium rendered signature: **1590/1591**
+- Hybrid rendered signature: **1/1591**
+- No redesign signature: **0/1591**
+- Exact implemented ContentOps owners: **108**
 
 | Template owner | Routes | Premium | Hybrid | No signature | Exact SEO owners |
 |---|---:|---:|---:|---:|---:|
@@ -32,7 +32,7 @@ This report separates sitemap routes, rendered design signatures and exact imple
 | practical | 15 | 15 | 0 | 0 | 2 |
 | itinerary | 15 | 15 | 0 | 0 | 0 |
 | phuket-location | 15 | 15 | 0 | 0 | 0 |
-| island | 11 | 11 | 0 | 0 | 0 |
+| island | 12 | 12 | 0 | 0 | 1 |
 | region | 5 | 5 | 0 | 0 | 0 |
 | homepage | 1 | 0 | 1 | 0 | 1 |
 | destination-index | 1 | 1 | 0 | 0 | 0 |
