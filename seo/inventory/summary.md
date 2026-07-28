@@ -1,11 +1,11 @@
 # Route inventory
 
-Generated: 2026-07-28T19:50:10.310Z
+Generated: 2026-07-28T20:19:48.325Z
 
 - Total sitemap URLs: 2297
 - English URLs: 1594
 - Dutch URLs: 703
-- URLs without a language pair: 935
+- URLs without a language pair: 933
 
 ## Page families
 

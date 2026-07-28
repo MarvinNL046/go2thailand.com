@@ -367,7 +367,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
                     {regionCities.map((city) => (
                       <Link
                         key={city.slug}
-                        href={`/city/${city.slug}/best-time-to-visit/`}
+                        href={city.slug === 'koh-samui' ? '/city/koh-samui/weather/' : `/city/${city.slug}/best-time-to-visit/`}
                         className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-thailand-blue/5 transition-colors group"
                       >
                         <span className="font-medium text-gray-700 group-hover:text-thailand-blue">

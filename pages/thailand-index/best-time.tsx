@@ -303,7 +303,7 @@ export default function BestTimePage({ data }: BestTimePageProps) {
               {allCitiesSorted.map((city) => (
                 <Link
                   key={city.slug}
-                  href={`/city/${city.slug}/best-time-to-visit/`}
+                  href={city.slug === 'koh-samui' ? '/city/koh-samui/weather/' : `/city/${city.slug}/best-time-to-visit/`}
                   className="bg-white rounded-xl px-4 py-3 text-sm font-medium text-thailand-blue hover:text-thailand-red hover:shadow-md transition-all text-center border border-gray-100"
                 >
                   {t(city.name, lang)}

@@ -11,6 +11,7 @@ import {
   Utensils,
   WalletCards,
 } from 'lucide-react';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 type HiddenGem = {
@@ -264,7 +265,7 @@ export function CityCompleteGuide({ city, comparisons, transportLinks, reviewedD
           <SectionHeading eyebrow={isNl ? 'Plan verder' : 'Continue planning'} title={isNl ? `Meer uit je ${cityName}-reis halen` : `Get more from your ${cityName} trip`} />
           <div className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
             {explore.map(({ icon: Icon, title, description, href }) => (
-              <Link key={title} href={isNl ? normalizeNlInternalHref(href) : href} className="group rounded-xl border border-jade/10 bg-white p-5 transition hover:-translate-y-0.5 hover:border-saffron/35">
+              <Link key={title} href={isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href)} className="group rounded-xl border border-jade/10 bg-white p-5 transition hover:-translate-y-0.5 hover:border-saffron/35">
                 <Icon size={21} strokeWidth={1.55} className="text-saffron-dark" />
                 <h3 className="mt-4 font-display text-xl font-semibold text-jade">{title}</h3>
                 <p className="mt-2 line-clamp-3 text-[11px] leading-5 text-charcoal/58">{description}</p>

@@ -10,6 +10,7 @@ import { useSubId } from '../../../../lib/useSubId';
 import cityWeatherData from '../../../../data/city-weather.json';
 import citiesData from '../../../../data/cities/index.json';
 import WeatherGuideTemplate from '../../../../components/weather/WeatherGuideTemplate';
+import { getEnWeatherGuide } from '../../../../data/weather/en';
 import { getNlWeatherGuide } from '../../../../data/weather/nl';
 
 interface CityWeatherIndexProps {
@@ -82,9 +83,9 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, subId, placement);
 
-  const nlWeatherGuide = isNl ? getNlWeatherGuide(city.slug) : undefined;
-  if (nlWeatherGuide) {
-    return <WeatherGuideTemplate data={nlWeatherGuide} />;
+  const weatherGuide = isNl ? getNlWeatherGuide(city.slug) : getEnWeatherGuide(city.slug);
+  if (weatherGuide) {
+    return <WeatherGuideTemplate data={weatherGuide} />;
   }
 
   const breadcrumbs = [
@@ -330,18 +331,18 @@ export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ pa
   const cityWeather = cityWeatherData as Record<string, any>;
 
   const city = citiesData.find(c => c.slug === slug);
-  const nlGuide = locale === 'nl' ? getNlWeatherGuide(slug) : undefined;
-  if (!city || (!cityWeather[slug] && !nlGuide)) {
+  const weatherGuide = locale === 'nl' ? getNlWeatherGuide(slug) : getEnWeatherGuide(slug);
+  if (!city || (!cityWeather[slug] && !weatherGuide)) {
     return { notFound: true };
   }
 
   // Handle both data structures - some cities have nested monthly_weather, others don't
   const cityData = cityWeather[slug];
-  if (!cityData && nlGuide) {
+  if (!cityData && weatherGuide) {
     return {
       props: {
         city,
-        monthlyWeather: nlGuide.months.map(month => ({
+        monthlyWeather: weatherGuide.months.map(month => ({
           month: month.slug,
           monthName: month.name,
           temperature: { high: month.meanHigh, low: month.meanLow },

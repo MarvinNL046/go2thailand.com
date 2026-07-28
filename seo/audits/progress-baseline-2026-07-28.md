@@ -12,8 +12,8 @@ The former `106 / 1,583` percentage was invalid because it divided exact Content
 | HTTP/technical route coverage | 703/703 | 1,594/1,594 | 2,297/2,297 | Current sitemap routes render successfully and pass the layered route audit with zero errors and zero warnings |
 | Shared premium design signature | 702/703 | 1,593/1,594 | 2,295/2,297 | Rendered HTML contains the shared canvas, container, display-heading and section primitives |
 | Custom premium homepage signature | 1/703 | 1/1,594 | 2/2,297 | Both homepages intentionally use a custom composition and three shared redesign primitives rather than the generic canvas marker |
-| Implemented ContentOps records | 106 records | 111 records | 217 records | Independently researched content owners; this is not a sitemap-page denominator |
-| Exact implemented owner routes currently in sitemap | 106 | 111 | 217 | Every implemented owner record now has its exact canonical in the current locale sitemap |
+| Implemented ContentOps records | 106 records | 112 records | 218 records | Independently researched content owners; this is not a sitemap-page denominator |
+| Exact implemented owner routes currently in sitemap | 106 | 112 | 218 | Every implemented owner record now has its exact canonical in the current locale sitemap |
 
 Effective rendered redesign coverage is therefore **2,297/2,297**, with 2,295 generic premium signatures and two intentionally custom premium homepages. This proves shared design-system adoption, not unique-copy or page-level editorial completeness.
 
@@ -21,8 +21,8 @@ Effective rendered redesign coverage is therefore **2,297/2,297**, with 2,295 ge
 
 - Audit unique value and indexation quality across the large generated families, especially 425 EN hotel-detail routes and other template-scaled pages.
 - Continue independent locale-specific DFS, current SERP, competitor and genuine PAA research for high-value owners and clusters; do not perform one paid research cycle for every generated child URL when one cluster owner governs the intent.
-- Review the 935 routes without a language pair and distinguish intentional locale-only pages from missing translations. The complete Koh Tao family and the Khao Sok hotel owner are now independently complete in both languages.
-- Keep the owner-to-sitemap invariant green. All 217 implemented ContentOps owners are now present on their exact locale canonical; the former eight sitemap gaps are resolved.
+- Review the 933 routes without a language pair and distinguish intentional locale-only pages from missing translations. The complete Koh Tao family, the Khao Sok hotel owner and the Koh Samui weather owner are now independently complete in both languages.
+- Keep the owner-to-sitemap invariant green. All 218 implemented ContentOps owners are now present on their exact locale canonical; the former eight sitemap gaps are resolved.
 - Continue source, internal-link, affiliate, schema, accessibility, responsive, performance and content-quality QA per family.
 - Keep Amazon OneLink contextual: packing, transport, food, cooking and practical gear only where the product helps the reader; hotel selection remains Trip.com-led and activities remain Klook-led.
 

@@ -549,12 +549,12 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               <h3 className="text-lg font-semibold font-heading mb-4">{t('Plan Your Trip', 'Plan Je Reis')}</h3>
               <ul className="space-y-2">
                 <li>
-                  <Link href={`/city/${fromCity.slug}/best-time-to-visit/`} className="text-thailand-red hover:text-thailand-red-600">
+                  <Link href={locale === 'nl' ? `/city/${fromCity.slug}/best-time-to-visit/` : normalizeEnInternalHref(`/city/${fromCity.slug}/best-time-to-visit/`)} className="text-thailand-red hover:text-thailand-red-600">
                     {fromCity.name.en} {t('Weather', 'Weer')}
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${toCity.slug}/best-time-to-visit/`} className="text-thailand-red hover:text-thailand-red-600">
+                  <Link href={locale === 'nl' ? `/city/${toCity.slug}/best-time-to-visit/` : normalizeEnInternalHref(`/city/${toCity.slug}/best-time-to-visit/`)} className="text-thailand-red hover:text-thailand-red-600">
                     {toCity.name.en} {t('Weather', 'Weer')}
                   </Link>
                 </li>

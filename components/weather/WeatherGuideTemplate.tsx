@@ -50,14 +50,6 @@ const iconMap: Record<WeatherIconName, LucideIcon> = {
   shield: ShieldCheck,
 };
 
-const weatherSectionNavItems: PageSectionNavItem[] = [
-  { href: '#advies', label: 'Kort advies', icon: Sun },
-  { href: '#per-maand', label: 'Per maand', icon: CalendarRange },
-  { href: '#seizoenen', label: 'Seizoenen', icon: CloudSun },
-  { href: '#plannen', label: 'Slim plannen', icon: ShieldCheck },
-  { href: '#vragen', label: 'Vragen', icon: Info },
-];
-
 const travelToneClasses: Record<WeatherMonth['travelTone'], string> = {
   best: 'bg-[#e0eee6] text-jade',
   good: 'bg-[#edf2e9] text-jade',
@@ -71,18 +63,76 @@ const seasonToneClasses = {
   green: 'border-jade/15 bg-[#edf3ef]',
 };
 
-function formatDecimal(value: number) {
-  return value.toLocaleString('nl-NL', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+function formatDecimal(value: number, locale: WeatherGuideData['locale']) {
+  return value.toLocaleString(locale === 'nl' ? 'nl-NL' : 'en-GB', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
 }
 
 export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps) {
+  const isNl = data.locale === 'nl';
+  const localePrefix = isNl ? '/nl' : '';
+  const copy = isNl ? {
+    nav: ['Kort advies', 'Per maand', 'Seizoenen', 'Slim plannen', 'Vragen'],
+    heroMonth: 'Bekijk het weer per maand', heroForecast: 'Actuele verwachting', weather: 'Weer',
+    breadcrumbName: 'Weer en beste reistijd', datasetName: `Klimaatgemiddelden ${data.cityName} per maand`,
+    datasetDescription: `Maandgemiddelden voor maximumtemperatuur, minimumtemperatuur, neerslag en regendagen bij ${data.climateStation}.`,
+    variables: ['Gemiddelde maximumtemperatuur', 'Gemiddelde minimumtemperatuur', 'Gemiddelde maandneerslag', 'Gemiddeld aantal regendagen'],
+    answerEyebrow: 'Het korte antwoord', answerTitle: `Wat is de beste reistijd voor ${data.cityName}?`,
+    forecastTitle: 'Klimaat is geen voorspelling', forecastLink: 'Open de officiële TMD-verwachting',
+    normalsEyebrow: 'Officiële klimaatnormalen', monthTitle: `${data.cityName} weer per maand`,
+    tableIntro: `De cijfers zijn gemiddelden van ${data.climateStation} over ${data.climatePeriod}. Regenval is het maandtotaal; een regendag hoeft dus geen volledig verregende dag te zijn.`,
+    headers: ['Maand', 'Gem. max.', 'Gem. min.', 'Regen', 'Regendagen', 'Reisbeeld'],
+    tableSource: 'Bron: Thai Meteorological Department. Waarden zijn afgerond op één decimaal en beschrijven het klimaat, niet het weer tijdens jouw specifieke reis.',
+    seasonEyebrow: 'Kies je seizoen bewust', seasonTitle: `Drie reisperiodes voor ${data.cityName}`, fits: 'Past bij:', note: 'Let op:',
+    styleEyebrow: 'Niet iedereen zoekt hetzelfde', styleTitle: 'De beste maand voor jouw reisstijl',
+    packingEyebrow: 'Slim inpakken', packingTitle: 'Wat neem je mee?', packingLabel: `${data.cityName}-paklijst`, amazonSuffix: 'op Amazon',
+    amazonDisclosure: 'Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt niets extra; aanbod en levering kunnen per land verschillen.',
+    packingLink: 'Complete Thailand-paklijst', planningEyebrow: 'Plan flexibel', planningTitle: 'Zo voorkom je dat het weer je reis bepaalt',
+    bookSmart: 'Boek slim:', activityCta: 'Bekijk uitjes', activityDisclosure: 'De uitjesknop is een affiliatelink. Bij een boeking ontvangen wij mogelijk een commissie; jij betaalt niets extra.',
+    faqTitle: `Veelgestelde vragen over het weer in ${data.cityName}`,
+    faqDescription: 'Deze vragen komen letterlijk uit de Nederlandse zoekresultaten. De antwoorden combineren reiscontext met de gecontroleerde klimaatdata op deze pagina.',
+    relatedTitle: `Maak je ${data.cityName}-reis compleet`, hotelCta: 'Bekijk hotels via Trip.com',
+    hotelDisclosure: 'De Trip.com-link is een affiliatelink. Bij een boeking ontvangen wij mogelijk een commissie; jij betaalt niets extra.',
+    sourceTitle: 'Waar komen deze cijfers vandaan?',
+    sourceDescription: 'We gebruiken geen gegenereerde weersverwachting. De tabel is gebaseerd op officiële klimaatnormalen; voor de komende dagen verwijzen we naar de actuele dienst van TMD.',
+  } : {
+    nav: ['Quick answer', 'By month', 'Seasons', 'Plan smart', 'Questions'],
+    heroMonth: 'See weather by month', heroForecast: 'Current forecast', weather: 'Weather',
+    breadcrumbName: 'Weather and best time to visit', datasetName: `${data.cityName} monthly climate normals`,
+    datasetDescription: `Monthly mean maximum temperature, minimum temperature, rainfall and rain days at ${data.climateStation}.`,
+    variables: ['Mean maximum temperature', 'Mean minimum temperature', 'Mean monthly rainfall', 'Mean rain days'],
+    answerEyebrow: 'The quick answer', answerTitle: `When is the best time to visit ${data.cityName}?`,
+    forecastTitle: 'Climate is not a forecast', forecastLink: 'Open the official TMD forecast',
+    normalsEyebrow: 'Official climate normals', monthTitle: `${data.cityName} weather by month`,
+    tableIntro: `These figures are averages from ${data.climateStation} for ${data.climatePeriod}. Rainfall is the monthly total; a measurable rain day does not automatically mean an all-day washout.`,
+    headers: ['Month', 'Mean high', 'Mean low', 'Rainfall', 'Rain days', 'Travel outlook'],
+    tableSource: 'Source: Thai Meteorological Department. Values are rounded to one decimal place and describe the climate, not the weather during your exact trip.',
+    seasonEyebrow: 'Choose the season deliberately', seasonTitle: `Three travel periods for ${data.cityName}`, fits: 'Best for:', note: 'Trade-off:',
+    styleEyebrow: 'Different trips need different months', styleTitle: 'The best month for your travel style',
+    packingEyebrow: 'Pack with purpose', packingTitle: 'What should you bring?', packingLabel: `${data.cityName} packing list`, amazonSuffix: 'on Amazon',
+    amazonDisclosure: 'As an Amazon Associate, we earn from qualifying purchases. You pay nothing extra; availability and delivery vary by country.',
+    packingLink: 'Complete Thailand packing list', planningEyebrow: 'Keep the plan flexible', planningTitle: 'Stop the weather from controlling the trip',
+    bookSmart: 'Book smart:', activityCta: 'Check current tours', activityDisclosure: 'The tours button is an affiliate link. We may receive a commission after a booking, at no extra cost to you.',
+    faqTitle: `Frequently asked questions about ${data.cityName} weather`,
+    faqDescription: 'These are genuine questions captured from current UK-English search results. The answers combine practical trip decisions with the checked climate data on this page.',
+    relatedTitle: `Complete your ${data.cityName} trip`, hotelCta: 'Check hotels on Trip.com',
+    hotelDisclosure: 'The Trip.com link is an affiliate link. We may receive a commission after a booking, at no extra cost to you.',
+    sourceTitle: 'Where do these figures come from?',
+    sourceDescription: 'We do not generate a long-range weather forecast. The table uses official climate normals; for the coming days, use the current Thai Meteorological Department forecast.',
+  };
+  const weatherSectionNavItems: PageSectionNavItem[] = [
+    { href: '#advies', label: copy.nav[0], icon: Sun },
+    { href: '#per-maand', label: copy.nav[1], icon: CalendarRange },
+    { href: '#seizoenen', label: copy.nav[2], icon: CloudSun },
+    { href: '#plannen', label: copy.nav[3], icon: ShieldCheck },
+    { href: '#vragen', label: copy.nav[4], icon: Info },
+  ];
   const subId = useSubId();
   const klookHref = withPlacementSubId(cityAffiliates[data.citySlug]?.klook || KLOOK_GENERIC, subId, `${data.citySlug}-weather-activities`);
   const tripHref = withPlacementSubId(cityAffiliates[data.citySlug]?.trip || TRIP_GENERIC, subId, `${data.citySlug}-weather-hotels`);
   const heroActions: EditorialHeroAction[] = [
-    { label: 'Bekijk het weer per maand', href: '#per-maand', kind: 'primary' },
+    { label: copy.heroMonth, href: '#per-maand', kind: 'primary' },
     {
-      label: 'Actuele verwachting',
+      label: copy.heroForecast,
       href: data.currentForecastUrl,
       kind: 'secondary',
       newTab: true,
@@ -92,7 +142,7 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
   const heroBreadcrumbs = [
     { label: 'Thailand', href: '/' },
     { label: data.cityName, href: `/city/${data.citySlug}/` },
-    { label: 'Weer' },
+    { label: copy.weather },
   ];
 
   const faqSchema = {
@@ -109,9 +159,9 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Thailand', item: 'https://go2-thailand.com/nl/' },
-      { '@type': 'ListItem', position: 2, name: data.cityName, item: `https://go2-thailand.com/nl/city/${data.citySlug}/` },
-      { '@type': 'ListItem', position: 3, name: 'Weer en beste reistijd', item: data.pageUrl },
+      { '@type': 'ListItem', position: 1, name: 'Thailand', item: `https://go2-thailand.com${localePrefix}/` },
+      { '@type': 'ListItem', position: 2, name: data.cityName, item: `https://go2-thailand.com${localePrefix}/city/${data.citySlug}/` },
+      { '@type': 'ListItem', position: 3, name: copy.breadcrumbName, item: data.pageUrl },
     ],
   };
 
@@ -122,7 +172,7 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
     url: data.pageUrl,
     name: data.pageTitle,
     description: data.pageDescription,
-    inLanguage: 'nl-NL',
+    inLanguage: isNl ? 'nl-NL' : 'en-GB',
     dateModified: data.dateModified,
     isBasedOn: data.sources.map((source) => source.url),
   };
@@ -130,13 +180,13 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
   const datasetSchema = {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
-    name: `Klimaatgemiddelden ${data.cityName} per maand`,
-    description: `Maandgemiddelden voor maximumtemperatuur, minimumtemperatuur, neerslag en regendagen bij ${data.climateStation}.`,
+    name: copy.datasetName,
+    description: copy.datasetDescription,
     url: data.pageUrl,
     temporalCoverage: data.climatePeriod.replace('–', '/'),
     spatialCoverage: { '@type': 'Place', name: `${data.cityName}, Thailand` },
     creator: { '@type': 'Organization', name: 'Thai Meteorological Department', url: 'https://www.tmd.go.th/' },
-    variableMeasured: ['Gemiddelde maximumtemperatuur', 'Gemiddelde minimumtemperatuur', 'Gemiddelde maandneerslag', 'Gemiddeld aantal regendagen'],
+    variableMeasured: copy.variables,
   };
 
   return (
@@ -155,7 +205,9 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
           breadcrumbs={heroBreadcrumbs}
           eyebrow={data.eyebrow}
           title={<><span className="block">{data.heroTitle}</span>{' '}<span className="block text-jade-light">{data.heroAccent}</span></>}
-          titleClassName="max-w-[640px] text-[4.35rem] leading-[0.82] sm:text-[5.35rem] lg:text-[6.15rem]"
+          titleClassName={isNl
+            ? 'max-w-[640px] text-[4.35rem] leading-[0.82] sm:text-[5.35rem] lg:text-[6.15rem]'
+            : 'max-w-[700px] text-[3.45rem] leading-[0.88] sm:text-[3.9rem] lg:text-[4.2rem]'}
           description={data.intro}
           descriptionClassName="mt-6 max-w-[570px] text-[15px] leading-7 sm:text-base"
           actions={heroActions}
@@ -196,8 +248,8 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
         <section id="advies" className="section-divider-bottom py-14 lg:py-20">
           <div className="container-custom grid gap-8 lg:grid-cols-[1.15fr_0.85fr] lg:items-start">
             <div>
-              <p className="eyebrow">Het korte antwoord</p>
-              <h2 className="heading-redesign max-w-[760px]">Wat is de beste reistijd voor {data.cityName}?</h2>
+              <p className="eyebrow">{copy.answerEyebrow}</p>
+              <h2 className="heading-redesign max-w-[760px]">{copy.answerTitle}</h2>
               <p className="mt-6 max-w-[770px] text-base font-medium leading-8 text-charcoal/72">{data.quickAnswer}</p>
               <div className="mt-7 grid gap-3 sm:grid-cols-3">
                 {data.decisionCards.map(({ label, value }) => (
@@ -213,10 +265,10 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
               <div className="flex items-start gap-4">
                 <span className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-jade text-white"><Info size={20} /></span>
                 <div>
-                  <h3 className="font-display text-2xl font-semibold text-jade">Klimaat is geen voorspelling</h3>
+                  <h3 className="font-display text-2xl font-semibold text-jade">{copy.forecastTitle}</h3>
                   <p className="mt-3 text-sm leading-6 text-charcoal/68">{data.planningNotes.climateVsForecast}</p>
                   <a href={data.currentForecastUrl} target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">
-                    Open de officiële TMD-verwachting <ExternalLink size={14} />
+                    {copy.forecastLink} <ExternalLink size={14} />
                   </a>
                 </div>
               </div>
@@ -227,9 +279,9 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
         <section id="per-maand" className="section-divider-bottom bg-tonal py-14 lg:py-20">
           <div className="container-custom">
             <div className="max-w-[820px]">
-              <p className="eyebrow">Officiële klimaatnormalen</p>
-              <h2 className="heading-redesign">{data.cityName} weer per maand</h2>
-              <p className="mt-5 max-w-[760px] text-sm leading-7 text-charcoal/66">De cijfers zijn gemiddelden van {data.climateStation} over {data.climatePeriod}. Regenval is het maandtotaal; een regendag hoeft dus geen volledig verregende dag te zijn.</p>
+              <p className="eyebrow">{copy.normalsEyebrow}</p>
+              <h2 className="heading-redesign">{copy.monthTitle}</h2>
+              <p className="mt-5 max-w-[760px] text-sm leading-7 text-charcoal/66">{copy.tableIntro}</p>
             </div>
 
             <div className="mt-8 overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-[0_20px_55px_rgba(18,63,54,0.07)]">
@@ -237,12 +289,12 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
                 <table className="w-full min-w-[820px] border-collapse text-left">
                   <thead className="bg-jade text-white">
                     <tr className="text-[10px] uppercase tracking-[0.14em]">
-                      <th scope="col" className="px-5 py-4">Maand</th>
-                      <th scope="col" className="px-4 py-4">Gem. max.</th>
-                      <th scope="col" className="px-4 py-4">Gem. min.</th>
-                      <th scope="col" className="px-4 py-4">Regen</th>
-                      <th scope="col" className="px-4 py-4">Regendagen</th>
-                      <th scope="col" className="px-5 py-4">Reisbeeld</th>
+                      <th scope="col" className="px-5 py-4">{copy.headers[0]}</th>
+                      <th scope="col" className="px-4 py-4">{copy.headers[1]}</th>
+                      <th scope="col" className="px-4 py-4">{copy.headers[2]}</th>
+                      <th scope="col" className="px-4 py-4">{copy.headers[3]}</th>
+                      <th scope="col" className="px-4 py-4">{copy.headers[4]}</th>
+                      <th scope="col" className="px-5 py-4">{copy.headers[5]}</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -257,17 +309,17 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
                             </Link>
                           )}
                         </th>
-                        <td className="px-4 py-4 text-sm font-bold text-charcoal/78">{formatDecimal(month.meanHigh)} °C</td>
-                        <td className="px-4 py-4 text-sm text-charcoal/65">{formatDecimal(month.meanLow)} °C</td>
-                        <td className="px-4 py-4 text-sm text-charcoal/65">{formatDecimal(month.rainfall)} mm</td>
-                        <td className="px-4 py-4 text-sm text-charcoal/65">{formatDecimal(month.rainDays)}</td>
+                        <td className="px-4 py-4 text-sm font-bold text-charcoal/78">{formatDecimal(month.meanHigh, data.locale)} °C</td>
+                        <td className="px-4 py-4 text-sm text-charcoal/65">{formatDecimal(month.meanLow, data.locale)} °C</td>
+                        <td className="px-4 py-4 text-sm text-charcoal/65">{formatDecimal(month.rainfall, data.locale)} mm</td>
+                        <td className="px-4 py-4 text-sm text-charcoal/65">{formatDecimal(month.rainDays, data.locale)}</td>
                         <td className="px-5 py-4"><span className={`inline-flex rounded-full px-3 py-1 text-[10px] font-extrabold ${travelToneClasses[month.travelTone]}`}>{month.travelLabel}</span></td>
                       </tr>
                     ))}
                   </tbody>
                 </table>
               </div>
-              <div className="border-t border-jade/8 bg-canvas px-5 py-3 text-[10px] leading-5 text-charcoal/50">Bron: Thai Meteorological Department. Waarden zijn afgerond op één decimaal en beschrijven het klimaat, niet het weer tijdens jouw specifieke reis.</div>
+              <div className="border-t border-jade/8 bg-canvas px-5 py-3 text-[10px] leading-5 text-charcoal/50">{copy.tableSource}</div>
             </div>
 
             <div className="mt-5 grid gap-3 md:grid-cols-3">
@@ -284,8 +336,8 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
         <section id="seizoenen" className="section-divider-bottom py-14 lg:py-20">
           <div className="container-custom">
             <div className="max-w-[760px]">
-              <p className="eyebrow">Kies je seizoen bewust</p>
-              <h2 className="heading-redesign">Drie reisperiodes voor {data.cityName}</h2>
+              <p className="eyebrow">{copy.seasonEyebrow}</p>
+              <h2 className="heading-redesign">{copy.seasonTitle}</h2>
             </div>
             <div className="mt-9 grid gap-5 lg:grid-cols-3">
               {data.seasons.map((season) => {
@@ -299,8 +351,8 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
                     <h3 className="mt-6 font-display text-[2rem] font-semibold leading-none text-jade">{season.title}</h3>
                     <p className="mt-4 text-sm leading-6 text-charcoal/68">{season.summary}</p>
                     <div className="mt-5 border-t border-jade/10 pt-5 text-xs leading-5">
-                      <p className="flex gap-2 text-jade"><Check size={15} className="mt-0.5 shrink-0 text-saffron" /><span><strong>Past bij:</strong> {season.bestFor}</span></p>
-                      <p className="mt-3 flex gap-2 text-charcoal/62"><Info size={15} className="mt-0.5 shrink-0" /><span><strong>Let op:</strong> {season.tradeoff}</span></p>
+                      <p className="flex gap-2 text-jade"><Check size={15} className="mt-0.5 shrink-0 text-saffron" /><span><strong>{copy.fits}</strong> {season.bestFor}</span></p>
+                      <p className="mt-3 flex gap-2 text-charcoal/62"><Info size={15} className="mt-0.5 shrink-0" /><span><strong>{copy.note}</strong> {season.tradeoff}</span></p>
                     </div>
                   </article>
                 );
@@ -329,8 +381,8 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
         <section className="section-divider-bottom py-14 lg:py-20">
           <div className="container-custom">
             <div className="max-w-[760px]">
-              <p className="eyebrow">Niet iedereen zoekt hetzelfde</p>
-              <h2 className="heading-redesign">De beste maand voor jouw reisstijl</h2>
+              <p className="eyebrow">{copy.styleEyebrow}</p>
+              <h2 className="heading-redesign">{copy.styleTitle}</h2>
             </div>
             <div className="mt-9 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
               {data.travelStyles.map((style) => {
@@ -352,8 +404,8 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
           <div className="container-custom">
             <div className="grid gap-12 lg:grid-cols-[1.02fr_0.98fr] lg:gap-16">
               <div>
-                <p className="eyebrow">Slim inpakken</p>
-                <h2 className="heading-redesign">Wat neem je mee?</h2>
+                <p className="eyebrow">{copy.packingEyebrow}</p>
+                <h2 className="heading-redesign">{copy.packingTitle}</h2>
                 <div className="mt-7 grid overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-[0_18px_50px_rgba(18,63,54,0.07)] sm:grid-cols-[0.9fr_1.1fr]">
                   <div className="relative min-h-[310px] sm:min-h-full">
                     <Image
@@ -363,7 +415,7 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
                       sizes="(max-width: 640px) 100vw, (max-width: 1024px) 45vw, 26vw"
                       className="object-cover"
                     />
-                    <span className="absolute left-4 top-4 rounded-full border border-white/50 bg-white/85 px-3 py-1 text-[9px] font-extrabold uppercase tracking-[0.15em] text-jade shadow-sm backdrop-blur-sm">{data.cityName}-paklijst</span>
+                    <span className="absolute left-4 top-4 rounded-full border border-white/50 bg-white/85 px-3 py-1 text-[9px] font-extrabold uppercase tracking-[0.15em] text-jade shadow-sm backdrop-blur-sm">{copy.packingLabel}</span>
                   </div>
                   <div className="p-5 sm:p-6">
                     <ul className="divide-y divide-jade/10">
@@ -374,7 +426,7 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
                             <p className="text-xs font-extrabold leading-5 text-jade">{tip.title} <span className="font-medium text-charcoal/48">— {tip.description}</span></p>
                             {tip.amazonSlug && (
                               <a href={`/go/${tip.amazonSlug}/`} target="_blank" rel="noopener noreferrer nofollow sponsored" className="mt-1 inline-flex items-center gap-1 text-[10px] font-extrabold text-saffron-dark transition hover:text-jade">
-                                {tip.amazonLabel} op Amazon <ExternalLink size={10} />
+                                {tip.amazonLabel} {copy.amazonSuffix} <ExternalLink size={10} />
                               </a>
                             )}
                           </div>
@@ -384,16 +436,16 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
                   </div>
                 </div>
                 <div className="mt-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-                  <p className="max-w-[500px] text-[9px] leading-4 text-charcoal/48">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt niets extra; aanbod en levering kunnen per land verschillen.</p>
+                  <p className="max-w-[500px] text-[9px] leading-4 text-charcoal/48">{copy.amazonDisclosure}</p>
                   <Link href="/travel-gear/" className="group inline-flex shrink-0 items-center gap-2 text-xs font-extrabold text-jade transition hover:text-saffron-dark">
-                    Complete Thailand-paklijst <ArrowRight size={14} className="text-saffron transition group-hover:translate-x-1" />
+                    {copy.packingLink} <ArrowRight size={14} className="text-saffron transition group-hover:translate-x-1" />
                   </Link>
                 </div>
               </div>
 
               <div>
-                <p className="eyebrow">Plan flexibel</p>
-                <h2 className="heading-redesign max-w-[580px]">Zo voorkom je dat het weer je reis bepaalt</h2>
+                <p className="eyebrow">{copy.planningEyebrow}</p>
+                <h2 className="heading-redesign max-w-[580px]">{copy.planningTitle}</h2>
                 <div className="relative mt-8">
                   <div aria-hidden="true" className="pointer-events-none absolute bottom-10 left-[47px] top-10 border-l-2 border-dashed border-saffron/45 sm:hidden" />
                   <svg className="pointer-events-none absolute left-[8%] top-4 hidden h-24 w-[84%] overflow-visible lg:block" viewBox="0 0 680 110" fill="none" aria-hidden="true">
@@ -422,12 +474,12 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
                   </div>
                 </div>
                 <div className="mt-6 flex flex-col gap-3 rounded-2xl border border-saffron/20 bg-[#fff8ec] p-5 sm:flex-row sm:items-center sm:justify-between">
-                  <p className="max-w-[470px] text-xs leading-5 text-charcoal/65"><strong className="text-jade">Boek slim:</strong> {data.planningNotes.bookingTip}</p>
+                  <p className="max-w-[470px] text-xs leading-5 text-charcoal/65"><strong className="text-jade">{copy.bookSmart}</strong> {data.planningNotes.bookingTip}</p>
                   <a href={klookHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-jade btn-jade-pattern group shrink-0 justify-center px-5 py-3">
-                    Bekijk uitjes <ArrowRight size={15} className="text-saffron transition group-hover:translate-x-1" />
+                    {copy.activityCta} <ArrowRight size={15} className="text-saffron transition group-hover:translate-x-1" />
                   </a>
                 </div>
-                <AffiliateDisclosure className="mt-2">De uitjesknop is een affiliatelink. Bij een boeking ontvangen wij mogelijk een commissie; jij betaalt niets extra.</AffiliateDisclosure>
+                <AffiliateDisclosure className="mt-2">{copy.activityDisclosure}</AffiliateDisclosure>
               </div>
             </div>
           </div>
@@ -435,21 +487,21 @@ export default function WeatherGuideTemplate({ data }: WeatherGuideTemplateProps
 
         <FaqSplitSection
           eyebrow="DFS People Also Ask"
-          title={`Veelgestelde vragen over het weer in ${data.cityName}`}
-          description="Deze vragen komen letterlijk uit de Nederlandse zoekresultaten. De antwoorden combineren reiscontext met de gecontroleerde klimaatdata op deze pagina."
+          title={copy.faqTitle}
+          description={copy.faqDescription}
           items={data.faqs}
         />
 
         <RelatedGuidesSection
-          title={`Maak je ${data.cityName}-reis compleet`}
+          title={copy.relatedTitle}
           guides={data.relatedGuides}
-          sideLink={{ label: 'Bekijk hotels via Trip.com', href: tripHref, affiliate: true }}
-          disclosure="De Trip.com-link is een affiliatelink. Bij een boeking ontvangen wij mogelijk een commissie; jij betaalt niets extra."
+          sideLink={{ label: copy.hotelCta, href: tripHref, affiliate: true }}
+          disclosure={copy.hotelDisclosure}
         />
 
         <SourceMethodSection
-          title="Waar komen deze cijfers vandaan?"
-          description="We gebruiken geen gegenereerde weersverwachting. De tabel is gebaseerd op officiële klimaatnormalen; voor de komende dagen verwijzen we naar de actuele dienst van TMD."
+          title={copy.sourceTitle}
+          description={copy.sourceDescription}
           sources={data.sources}
         />
 

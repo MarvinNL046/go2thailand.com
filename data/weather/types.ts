@@ -77,7 +77,7 @@ export interface WeatherSource {
 export interface WeatherGuideData {
   citySlug: string;
   cityName: string;
-  locale: 'nl';
+  locale: 'nl' | 'en';
   pageTitle: string;
   pageDescription: string;
   pageUrl: string;

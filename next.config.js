@@ -278,6 +278,14 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // Independent EN research found identical weather/best-time intent and
+      // no ranking or backlink equity on either URL. Keep one paired owner.
+      {
+        source: '/city/koh-samui/best-time-to-visit/',
+        destination: '/city/koh-samui/weather/',
+        permanent: true,
+        locale: false,
+      },
       // NL itinerary intent is owned by the researched pillar. Keep EN
       // untouched until the separate English research and redesign phase.
       {

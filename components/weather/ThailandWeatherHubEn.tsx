@@ -58,7 +58,7 @@ const representativeRegions = [
   { label: 'Central', city: 'Bangkok', href: '/city/bangkok/weather/', icon: MapPinned, data: bangkokWeatherGuide },
   { label: 'Andaman', city: 'Krabi', href: '/city/krabi/weather/', icon: Waves, data: krabiWeatherGuide },
   { label: 'Andaman', city: 'Phuket', href: '/city/phuket/weather/', icon: Waves, data: phuketWeatherGuide },
-  { label: 'Gulf', city: 'Koh Samui', href: '/city/koh-samui/best-time-to-visit/', icon: Wind, data: kohSamuiWeatherGuide },
+  { label: 'Gulf', city: 'Koh Samui', href: '/city/koh-samui/weather/', icon: Wind, data: kohSamuiWeatherGuide },
 ] as const;
 
 const faqs = [

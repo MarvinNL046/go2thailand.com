@@ -424,7 +424,7 @@ export const kohSamuiHotelGuideEn: HotelGuideData = {
       title: "Best time to visit",
       description:
         "Plan beach and ferry days around Koh Samui's distinct Gulf weather pattern.",
-      href: "/city/koh-samui/best-time-to-visit/",
+      href: "/city/koh-samui/weather/",
       image: "/images/redesign/koh-samui-weather-hero.webp",
     },
   ],

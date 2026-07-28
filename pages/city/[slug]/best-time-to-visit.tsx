@@ -573,6 +573,15 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     };
   }
 
+  if (slug === 'koh-samui') {
+    return {
+      redirect: {
+        destination: '/city/koh-samui/weather/',
+        permanent: true,
+      },
+    };
+  }
+
   const rawCity = getCityBySlug(slug, locale);
 
   if (!rawCity) {
