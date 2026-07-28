@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.food.gov.uk/safety-hygiene/cooking-your-food
 
-**Captured:** 2026-07-28T06:49:14.665Z
+**Captured:** 2026-07-28T07:55:51.706Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
@@ -9,15 +9,12 @@
 [Cooking your food](https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food)
 
 How to cook your food to prevent food poisoning.
-
 ## Details
 
 How to cook your food to prevent food poisoning.
-
 ## Updates to this page
 
 Published 18 December 2017
-
 ## Explore the topic
 
 [Food hygiene at home](https://www.gov.uk/health-and-social-care/food-hygiene-at-home)
