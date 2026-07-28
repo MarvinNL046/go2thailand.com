@@ -48,6 +48,7 @@ import { SukhothaiNoodlesGuideEn } from '../../components/food/SukhothaiNoodlesG
 import { KaengLiangGuideEn } from '../../components/food/KaengLiangGuideEn';
 import { MooPaloGuideEn } from '../../components/food/MooPaloGuideEn';
 import { NamPrikNoomGuideEn } from '../../components/food/NamPrikNoomGuideEn';
+import { NamPrikKapiGuideEn } from '../../components/food/NamPrikKapiGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -295,6 +296,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'nam-prik-noom') {
     return <NamPrikNoomGuideEn />;
+  }
+
+  if (dish.slug === 'nam-prik-kapi') {
+    return <NamPrikKapiGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
