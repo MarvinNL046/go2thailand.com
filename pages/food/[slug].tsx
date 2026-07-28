@@ -27,6 +27,7 @@ import { MeeHokkienGuideEn } from '../../components/food/MeeHokkienGuideEn';
 import { OhAewGuideEn } from '../../components/food/OhAewGuideEn';
 import { MooHongGuideEn } from '../../components/food/MooHongGuideEn';
 import { NamPrikGoongSiapGuideEn } from '../../components/food/NamPrikGoongSiapGuideEn';
+import { KhanomJeenNamYaGuideEn } from '../../components/food/KhanomJeenNamYaGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -190,6 +191,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'nam-prik-goong-siap') {
     return <NamPrikGoongSiapGuideEn />;
+  }
+
+  if (dish.slug === 'kanom-jeen-nam-ya') {
+    return <KhanomJeenNamYaGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
