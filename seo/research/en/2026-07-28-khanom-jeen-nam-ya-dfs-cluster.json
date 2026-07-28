@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-28T04:18:49.674Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "khanom jeen nam ya",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "khanom jeen nam ya"
+  ],
+  "keywords": [
+    {
+      "keyword": "khanom jeen nam ya",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}
