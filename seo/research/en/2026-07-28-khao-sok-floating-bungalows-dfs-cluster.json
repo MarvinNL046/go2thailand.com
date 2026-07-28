@@ -1,0 +1,906 @@
+{
+  "captured_at": "2026-07-28T19:41:05.114Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "khao sok floating bungalows",
+  "costs": {
+    "suggestions": 0.01716,
+    "related": 0.015,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "khao sok floating bungalows",
+    "floating bungalows khao sok national park",
+    "floating bungalows khao sok thailand",
+    "floating bungalows thailand khao sok",
+    "khao sok national park floating bungalows",
+    "khao sok national park thailand floating bungalows",
+    "khao sok floating bungalows price",
+    "khao sok national park floating bungalows price",
+    "khao sok floating bungalows tour",
+    "khao sok floating bungalows tours",
+    "best floating bungalows khao sok",
+    "chillax hostel khao sok floating bungalows",
+    "khao sok national park floating bungalows tour",
+    "best khao sok floating bungalows",
+    "cheap floating bungalows khao sok",
+    "khao sok floating bungalows chillax hostel",
+    "khao sok floating bungalows reviews",
+    "khao sok floating bungalows tour package",
+    "khao sok lake bamboo floating bungalows",
+    "khao sok national park floating bungalows chillax hostel"
+  ],
+  "keywords": [
+    {
+      "keyword": "floating bungalows in khao sok national park",
+      "volume": 2900,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "floating bungalows khao sok",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "floating bungalows khao sok national park",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "floating bungalows khao sok thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "floating bungalows thailand khao sok",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok national park floating bungalows",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok national park thailand floating bungalows",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "500 rai floating resort",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "smiley bungalows khao sok",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panvaree the greenery",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "360 issara floating resort",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheow lan lake floating bungalows",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "floating bungalows thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows price",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok national park floating bungalows price",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "book floating bungalows khao sok",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows booking",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows tour",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows tours",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok floating resort",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok lake floating bungalows",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best floating bungalows khao sok",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chillax hostel khao sok floating bungalows",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chillax khao sok floating bungalows",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to book khao sok floating bungalows",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows smiley",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok national park floating bungalows tour",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "500 rai floating resort prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "500 rai floating resort reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best khao sok floating bungalows",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap floating bungalows khao sok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "coco hostel khao sok floating bungalows",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to book floating bungalows khao sok",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to book khao sok national park floating bungalows",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get to 500 rai floating resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok bungalow tour",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows 2 day 1 night",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows chillax",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows chillax hostel",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows tour package",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao sok floating bungalows tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok lake bamboo floating bungalows",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok national park floating bungalows chillax hostel",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok national park floating bungalows smiley",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok national park tours floating bungalows",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok smiley lakehouse prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "our house jungle khao sok floating bungalows",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "smiley bungalows khao sok reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "smiley floating bungalows khao sok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok lake bamboo floating bungalows reviews",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok lake superior floating bungalows",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the floating bungalows in khao sok national park",
+      "volume": null,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "thisremotecorner.com",
+      "avgPosition": 1,
+      "keywordCount": 5,
+      "visibility": 5,
+      "estimatedTraffic": 2687.36
+    },
+    {
+      "domain": "khaosoklake.com",
+      "avgPosition": 4,
+      "keywordCount": 5,
+      "visibility": 3.5,
+      "estimatedTraffic": 1138.571
+    },
+    {
+      "domain": "www.khao-sok-riverside-cottages.com",
+      "avgPosition": 5,
+      "keywordCount": 5,
+      "visibility": 3.05,
+      "estimatedTraffic": 371.661
+    },
+    {
+      "domain": "insearchofeverywhere.com",
+      "avgPosition": 5.4,
+      "keywordCount": 5,
+      "visibility": 3.35,
+      "estimatedTraffic": 954.721
+    },
+    {
+      "domain": "offtogetlost.com",
+      "avgPosition": 7.6,
+      "keywordCount": 5,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 155.585
+    },
+    {
+      "domain": "imjesstraveling.com",
+      "avgPosition": 9.4,
+      "keywordCount": 5,
+      "visibility": 1.8,
+      "estimatedTraffic": 255.697
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 9.8,
+      "keywordCount": 5,
+      "visibility": 0.65,
+      "estimatedTraffic": 104.50099999999999
+    },
+    {
+      "domain": "www.khaosokrafthouse.com",
+      "avgPosition": 10.4,
+      "keywordCount": 5,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 74.56
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 11,
+      "keywordCount": 5,
+      "visibility": 1.4000000000000001,
+      "estimatedTraffic": 100.65200000000002
+    },
+    {
+      "domain": "khaosok-smiley.com",
+      "avgPosition": 11.6,
+      "keywordCount": 5,
+      "visibility": 2.5,
+      "estimatedTraffic": 701.876
+    },
+    {
+      "domain": "www.khaosok.travel",
+      "avgPosition": 12,
+      "keywordCount": 5,
+      "visibility": 0.95,
+      "estimatedTraffic": 175.416
+    },
+    {
+      "domain": "www.khaosoktravel.com",
+      "avgPosition": 12.6,
+      "keywordCount": 5,
+      "visibility": 0.8,
+      "estimatedTraffic": 168.666
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 12.6,
+      "keywordCount": 5,
+      "visibility": 0.95,
+      "estimatedTraffic": 172.75
+    },
+    {
+      "domain": "www.letsventureout.com",
+      "avgPosition": 14.2,
+      "keywordCount": 5,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 29.314999999999998
+    },
+    {
+      "domain": "chasinggambozinos.com",
+      "avgPosition": 15.2,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 38.18
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 17.6,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 54.69200000000001
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 20.8,
+      "keywordCount": 5,
+      "visibility": 0.6,
+      "estimatedTraffic": 32.425
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 23.6,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 19.228
+    },
+    {
+      "domain": "shippedaway.com",
+      "avgPosition": 26.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.564
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 27.4,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 19.474
+    },
+    {
+      "domain": "www.seeksophie.com",
+      "avgPosition": 27.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 19.433999999999997
+    },
+    {
+      "domain": "travel-a-broads.com",
+      "avgPosition": 29.6,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 37.704
+    },
+    {
+      "domain": "www.cheowlanlaketravel.com",
+      "avgPosition": 29.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.564
+    },
+    {
+      "domain": "thelavendertravelers.com",
+      "avgPosition": 13,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 54.754999999999995
+    },
+    {
+      "domain": "passportandstamps.com",
+      "avgPosition": 32.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.564
+    },
+    {
+      "domain": "faheyjamestravel.com",
+      "avgPosition": 19.25,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 22.799
+    },
+    {
+      "domain": "www.khaosokaccommodation.com",
+      "avgPosition": 19.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 25.384
+    },
+    {
+      "domain": "andamandiscoveries.com",
+      "avgPosition": 36,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.564
+    },
+    {
+      "domain": "www.coco-khao-sok-hostel.com",
+      "avgPosition": 38.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.564
+    },
+    {
+      "domain": "www.discoverykhaosok.com",
+      "avgPosition": 41.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.564
+    },
+    {
+      "domain": "www.kateandmikestravels.com",
+      "avgPosition": 36.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 18.417
+    },
+    {
+      "domain": "www.wearetravellers.nl",
+      "avgPosition": 30,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.27
+    },
+    {
+      "domain": "teknomadics.com",
+      "avgPosition": 34.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.27
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 37,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.674
+    },
+    {
+      "domain": "www.backpackingtours.com",
+      "avgPosition": 43.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.27
+    },
+    {
+      "domain": "www.smileybungalow.com",
+      "avgPosition": 47,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.27
+    },
+    {
+      "domain": "homeoftravel.de",
+      "avgPosition": 51,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.27
+    },
+    {
+      "domain": "www.theoutbound.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "www.khaosokecoresort.com",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.fai.events",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "igoa-adventure.com",
+      "avgPosition": 69.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 12.474
+    },
+    {
+      "domain": "beachbumadventure.com",
+      "avgPosition": 71,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 12.474
+    },
+    {
+      "domain": "elements.envato.com",
+      "avgPosition": 44,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.letsbookhotel.com",
+      "avgPosition": 47.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "travelgrands.com",
+      "avgPosition": 49,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "ohtheplacestheywent.com",
+      "avgPosition": 68.33333333333333,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 6.3839999999999995
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.35700000000000004
+    },
+    {
+      "domain": "cheapoverwaterbungalows.com",
+      "avgPosition": 83.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.564
+    },
+    {
+      "domain": "hungariandreamers.com",
+      "avgPosition": 83.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.564
+    }
+  ]
+}
