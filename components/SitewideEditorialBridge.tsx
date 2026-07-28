@@ -263,7 +263,7 @@ function buildEnglishContent(path: string): BridgeContent {
         links: [
           englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
           englishLink('/islands/koh-tao/attractions/', 'the best things to do in Koh Tao', 'Things to do'),
-          englishLink('/transport/', 'our practical guide to transport in Thailand', 'Getting around'),
+          englishLink('/islands/koh-tao/diving/', 'our decision guide to diving in Koh Tao', 'Diving guide'),
         ],
       };
     }
@@ -307,8 +307,34 @@ function buildEnglishContent(path: string): BridgeContent {
       intro: 'Koh Tao is compact on a map, but ferry timing, steep roads and separate bays make the choice of base consequential.',
       links: [
         englishLink('/islands/koh-tao/attractions/', 'the best things to do in Koh Tao', 'Things to do'),
+        englishLink('/islands/koh-tao/diving/', 'the practical guide to courses and diving in Koh Tao', 'Diving guide'),
         englishLink('/best-hotels/koh-tao/', 'our independently verified Koh Tao hotel shortlist', 'Where to stay'),
-        englishLink('/transport/', 'the guide to ferries, trains and transfers', 'Route & transport'),
+      ],
+    };
+  }
+
+  if (path === '/islands/koh-tao/attractions/') {
+    return {
+      eyebrow: 'Balance land and water days',
+      title: 'Turn the Koh Tao shortlist into a trip',
+      intro: 'Choose the activities first, then place training days and the right bay around the conditions and ferry schedule.',
+      links: [
+        englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
+        englishLink('/islands/koh-tao/diving/', 'our practical guide to courses and diving in Koh Tao', 'Diving guide'),
+        englishLink('/best-hotels/koh-tao/', 'our independently verified Koh Tao hotel shortlist', 'Where to stay'),
+      ],
+    };
+  }
+
+  if (path === '/islands/koh-tao/diving/') {
+    return {
+      eyebrow: 'Build the island around the dive plan',
+      title: 'Leave room for training, recovery and Koh Tao',
+      intro: 'A sensible stay connects the course schedule with a suitable base and flexible non-diving windows.',
+      links: [
+        englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
+        englishLink('/islands/koh-tao/attractions/', 'the best things to do between water sessions', 'Things to do'),
+        englishLink('/best-hotels/koh-tao/', 'the hotel shortlist organised by bay and trip fit', 'Where to stay'),
       ],
     };
   }

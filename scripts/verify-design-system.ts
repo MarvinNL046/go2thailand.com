@@ -389,9 +389,10 @@ for (const asset of [
 }
 const diveTemplate = read('components/diving/DiveGuideTemplate.tsx');
 const kohTaoDiveData = read('data/diving/nl/koh-tao.ts');
+const kohTaoDiveDataEn = read('data/diving/en/koh-tao.ts');
 const kohTaoDiveRoute = read('pages/islands/[slug]/diving.tsx');
-for (const wiring of ['getNlDiveGuide', 'DiveGuideTemplate', "locale !== 'nl'"]) {
-  if (!kohTaoDiveRoute.includes(wiring)) failures.push(`The Koh Tao diving route does not preserve ${wiring}`);
+for (const wiring of ['getNlDiveGuide', 'getEnDiveGuide', 'DiveGuideTemplate']) {
+  if (!kohTaoDiveRoute.includes(wiring)) failures.push(`The bilingual Koh Tao diving route does not preserve ${wiring}`);
 }
 for (const proof of ['FaqSplitSection', 'SourceMethodSection', 'withPlacementSubId', 'nofollow sponsored']) {
   if (!diveTemplate.includes(proof)) failures.push(`The dive template does not preserve ${proof}`);
@@ -402,6 +403,7 @@ for (const asset of [
   'koh-tao-responsible-diving.webp',
 ]) {
   if (!kohTaoDiveData.includes(asset)) failures.push(`Koh Tao diving data does not use ${asset}`);
+  if (!kohTaoDiveDataEn.includes(asset)) failures.push(`English Koh Tao diving data does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
 
@@ -572,12 +574,12 @@ for (const route of [
   '/nightlife/phuket/',
   '/best-hotels/koh-tao/',
   '/islands/koh-tao/attractions/',
+  '/islands/koh-tao/diving/',
 ]) {
   if (!enSitemap.includes(`https://go2-thailand.com${route}`)) failures.push(`EN sitemap misses bilingual owner ${route}`);
   if (!nlSitemap.includes(`https://go2-thailand.com/nl${route}`)) failures.push(`NL sitemap misses bilingual owner ${route}`);
 }
 for (const route of [
-  '/islands/koh-tao/diving/',
   '/islands/koh-tao/snorkeling/',
 ]) {
   if (!nlSitemap.includes(`https://go2-thailand.com/nl${route}`)) failures.push(`NL sitemap misses locale-only owner ${route}`);

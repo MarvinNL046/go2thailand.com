@@ -14,7 +14,7 @@ export interface DiveCourseChoice {
 export interface DiveGuideData {
   slug: string;
   destinationName: string;
-  locale: 'nl';
+  locale: 'nl' | 'en';
   parentGuideHref: string;
   activitiesGuideHref: string;
   pageTitle: string;

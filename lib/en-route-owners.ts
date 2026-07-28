@@ -15,6 +15,7 @@ export function normalizeEnInternalHref(href: string): string {
     '/best-hotels/ban-krut/': '/city/ban-krut/#zones',
     '/city/koh-tao/': '/islands/koh-tao/',
     '/city/koh-tao/attractions/': '/islands/koh-tao/attractions/',
+    '/city/koh-tao/diving/': '/islands/koh-tao/diving/',
     '/city/ban-krut/best-time-to-visit/': '/city/ban-krut/#praktisch',
     '/city/ban-krut/weather/': '/city/ban-krut/#praktisch',
     '/region/northeastern/': '/region/isaan/',
