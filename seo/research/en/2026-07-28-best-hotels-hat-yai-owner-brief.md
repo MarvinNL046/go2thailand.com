@@ -12,7 +12,7 @@
 - Independent cluster `hat yai hotel recommendations`: one raw record and no competitor-domain table.
 - Ten current UK-English SERPs: 90 organic appearances, 57 People Also Ask appearances and 29 case-normalised unique questions.
 - Four complete DFS content parses: Nomadic Notes (6,784 markdown characters), Travelfish (6,045), Love and Road (19,524) and Thailand TripCanvas (40,216).
-- Exact canonical: zero current ranking keywords and no backlink-summary signal. Retain the route for continuity, city-cluster structure and seven existing property profiles rather than preserving copied scores, fixed prices or unverified legacy hotel claims.
+- Exact canonical: zero current ranking keywords and no backlink-summary signal. Retain the route for continuity, city-cluster structure and ten existing property profiles rather than preserving copied scores, fixed prices or unverified legacy hotel claims.
 
 ## Intent and boundary
 
@@ -20,7 +20,7 @@ The owner answers **which concrete Hat Yai hotels deserve a shortlist and whethe
 
 - `/where-to-stay/hat-yai/` owns the complete district, market, transport and city-versus-Songkhla area decision.
 - `/city/hat-yai/` and `/guides/travel-guide/hat-yai/` own destination planning; food, market, Songkhla, airport, train and border owners retain specialist intent.
-- The seven existing property routes retain hotel-specific detail and current review work.
+- The ten existing property routes retain hotel-specific detail and current review work.
 - “City centre” is not a precise pin. Lee Gardens, Kim Yong Market, the railway station and the southern Central Festival/bus-station corridor create different walking and transfer patterns.
 - Budget-only, boutique-only, luxury-only, family-only, station-only, airport-only, shopping, food, weekend, business, long-stay, spa and live-inventory intent remain independent.
 
@@ -34,7 +34,7 @@ Inventory platforms dominate commercial results. Editorial competitors are stron
 4. an arrival-led answer for train, bus, car and flight travellers before any named property;
 5. a truthful account of Friday/Saturday and Malaysian-holiday demand without promising a fixed pattern or rate;
 6. a one-base model for most trips, with an airport stay only when flight timing—not vague convenience—justifies it;
-7. natural links to all seven existing hotel profiles and the complete destination, travel and where-to-stay owners;
+7. natural links to all ten existing hotel profiles and the complete destination, travel and where-to-stay owners;
 8. useful answers to best area, trip length, family fit, station proximity, airport choice and booking mistakes.
 
 Exclude irrelevant seven-star, celebrity, generic Thailand family-resort and generic hotel-app PAA. Route complete food, border, Songkhla and transport advice to their correct owners instead of diluting the hotel decision.
@@ -54,4 +54,4 @@ Exclude irrelevant seven-star, celebrity, generic Thailand family-resort and gen
 - Reuse the bilingual `HotelGuideTemplate` established by the completed English destination-hotel owners.
 - Generate and inspect a unique rights-safe Hat Yai hero: a refined unbranded hotel terrace at blue hour overlooking warm shophouse and market lights, subtle southern-Thai rain sheen and distant green hills. Reserve a calm left text zone; do not imitate a named hotel, reproduce signage or turn the scene into a generic Bangkok skyline.
 - Keep the premium editorial rhythm: decisive hero, compact base choices, verified hotel cards, current-price actions, arrival-led one-base plan, booking checks, genuine PAA accordion, profile-link mesh and primary-source method.
-- Preserve natural main-content links to all seven existing hotel profiles and explicitly prevent Lee Gardens, Central Festival, station and airport confusion.
+- Preserve natural main-content links to all ten existing hotel profiles and explicitly prevent Lee Gardens, Central Festival, station and airport confusion.
