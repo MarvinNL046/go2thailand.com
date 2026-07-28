@@ -1,0 +1,1950 @@
+{
+  "captured_at": "2026-07-28T18:44:55.031Z",
+  "locale": "en",
+  "url": "https://www.bigbluediving.com/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Go back About Us",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Meet The Team",
+          "url": "https://www.bigbluediving.com/about-us/meet-the-team/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/about-us/meet-the-team/",
+              "anchor_text": "Meet The Team"
+            }
+          ]
+        },
+        {
+          "text": "Our History",
+          "url": "https://www.bigbluediving.com/about-us/our-history/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/about-us/our-history/",
+              "anchor_text": "Our History"
+            }
+          ]
+        },
+        {
+          "text": "Our Koh Tao Dive School",
+          "url": "https://www.bigbluediving.com/about-us/our-koh-tao-dive-center/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/about-us/our-koh-tao-dive-center/",
+              "anchor_text": "Our Koh Tao Dive School"
+            }
+          ]
+        },
+        {
+          "text": "Go back Courses",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Go back Beginner Courses",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Basic Scuba Diver",
+          "url": "https://www.bigbluediving.com/diving-courses/beginner/basic-scuba-diver/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/beginner/basic-scuba-diver/",
+              "anchor_text": "Basic Scuba Diver"
+            }
+          ]
+        },
+        {
+          "text": "Scuba Diver",
+          "url": "https://www.bigbluediving.com/diving-courses/beginner/scuba-diver-course/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/beginner/scuba-diver-course/",
+              "anchor_text": "Scuba Diver"
+            }
+          ]
+        },
+        {
+          "text": "Open Water Diver",
+          "url": "https://www.bigbluediving.com/diving-courses/beginner/open-water-diver/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/beginner/open-water-diver/",
+              "anchor_text": "Open Water Diver"
+            }
+          ]
+        },
+        {
+          "text": "Go back Further education",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Advanced Diving Course",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/advanced-diving-course/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/advanced-diving-course/",
+              "anchor_text": "Advanced Diving Course"
+            }
+          ]
+        },
+        {
+          "text": "React Right",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/react-right/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/react-right/",
+              "anchor_text": "React Right"
+            }
+          ]
+        },
+        {
+          "text": "Rescue Diver",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/rescue-diver/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/rescue-diver/",
+              "anchor_text": "Rescue Diver"
+            }
+          ]
+        },
+        {
+          "text": "Master Diver",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/master-diver/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/master-diver/",
+              "anchor_text": "Master Diver"
+            }
+          ]
+        },
+        {
+          "text": "Photography Specialty",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/photography-specialty/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/photography-specialty/",
+              "anchor_text": "Photography Specialty"
+            }
+          ]
+        },
+        {
+          "text": "Videography Specialty",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/videography-specialty/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/videography-specialty/",
+              "anchor_text": "Videography Specialty"
+            }
+          ]
+        },
+        {
+          "text": "Nitrox Specialty",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/nitrox-specialty/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/nitrox-specialty/",
+              "anchor_text": "Nitrox Specialty"
+            }
+          ]
+        },
+        {
+          "text": "Deep Specialty",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/deep-specialty/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/deep-specialty/",
+              "anchor_text": "Deep Specialty"
+            }
+          ]
+        },
+        {
+          "text": "Wreck Specialty",
+          "url": "https://www.bigbluediving.com/diving-courses/advanced/wreck-specialty/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/advanced/wreck-specialty/",
+              "anchor_text": "Wreck Specialty"
+            }
+          ]
+        },
+        {
+          "text": "Go back Tech Courses",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Intro to Tech",
+          "url": "https://www.bigbluediving.com/diving-courses/tech/intro-to-tech/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/tech/intro-to-tech/",
+              "anchor_text": "Intro to Tech"
+            }
+          ]
+        },
+        {
+          "text": "Solo Diver",
+          "url": "https://www.bigbluediving.com/diving-courses/tech/solo-diver/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/tech/solo-diver/",
+              "anchor_text": "Solo Diver"
+            }
+          ]
+        },
+        {
+          "text": "Sidemount Diving",
+          "url": "https://www.bigbluediving.com/diving-courses/tech/sidemount-course-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/tech/sidemount-course-koh-tao/",
+              "anchor_text": "Sidemount Diving"
+            }
+          ]
+        },
+        {
+          "text": "TDI Extended Range",
+          "url": "https://www.bigbluediving.com/diving-courses/tech/tdi-extended-range/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/tech/tdi-extended-range/",
+              "anchor_text": "TDI Extended Range"
+            }
+          ]
+        },
+        {
+          "text": "TDI Advanced Nitrox and Deco Procedures",
+          "url": "https://www.bigbluediving.com/diving-courses/tech/tdi-advanced-nitrox-and-decompression-procedures/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/tech/tdi-advanced-nitrox-and-decompression-procedures/",
+              "anchor_text": "TDI Advanced Nitrox and Deco Procedures"
+            }
+          ]
+        },
+        {
+          "text": "TDI Advanced Wreck",
+          "url": "https://www.bigbluediving.com/diving-courses/tech/tdi-advanced-wreck/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/tech/tdi-advanced-wreck/",
+              "anchor_text": "TDI Advanced Wreck"
+            }
+          ]
+        },
+        {
+          "text": "Tech Internship",
+          "url": "https://www.bigbluediving.com/diving-courses/tech/tech-internship/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/tech/tech-internship/",
+              "anchor_text": "Tech Internship"
+            }
+          ]
+        },
+        {
+          "text": "Go back Pro courses",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Divemaster Training",
+          "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/divemaster-course/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/divemaster-course/",
+              "anchor_text": "Divemaster Training"
+            }
+          ]
+        },
+        {
+          "text": "Divemaster Internship",
+          "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/divemaster-internship/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/divemaster-internship/",
+              "anchor_text": "Divemaster Internship"
+            }
+          ]
+        },
+        {
+          "text": "Divemaster – Tech Focus",
+          "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/divemaster-technical-diving/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/divemaster-technical-diving/",
+              "anchor_text": "Divemaster – Tech Focus"
+            }
+          ]
+        },
+        {
+          "text": "Ecology Divemaster Internship",
+          "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/ecodivemaster-internship/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/ecodivemaster-internship/",
+              "anchor_text": "Ecology Divemaster Internship"
+            }
+          ]
+        },
+        {
+          "text": "Instructor Training",
+          "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/instructor-training/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/instructor-training/",
+              "anchor_text": "Instructor Training"
+            }
+          ]
+        },
+        {
+          "text": "Instructor Internship",
+          "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/instructor-internship/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/instructor-internship/",
+              "anchor_text": "Instructor Internship"
+            }
+          ]
+        },
+        {
+          "text": "Go back Conservation",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Marine Ecology",
+          "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/marine-ecology/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/marine-ecology/",
+              "anchor_text": "Marine Ecology"
+            }
+          ]
+        },
+        {
+          "text": "Coral Identification",
+          "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/coral-identification/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/coral-identification/",
+              "anchor_text": "Coral Identification"
+            }
+          ]
+        },
+        {
+          "text": "Fish Identification",
+          "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/fish-identification/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/fish-identification/",
+              "anchor_text": "Fish Identification"
+            }
+          ]
+        },
+        {
+          "text": "Sea Turtle Ecology",
+          "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/sea-turle-ecology/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/sea-turle-ecology/",
+              "anchor_text": "Sea Turtle Ecology"
+            }
+          ]
+        },
+        {
+          "text": "Shark Ecology",
+          "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/shark-ecology/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/shark-ecology/",
+              "anchor_text": "Shark Ecology"
+            }
+          ]
+        },
+        {
+          "text": "Research Diver",
+          "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/research-diver/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/research-diver/",
+              "anchor_text": "Research Diver"
+            }
+          ]
+        },
+        {
+          "text": "Marine Biologist for a Week",
+          "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/marine-biologist-for-a-week/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/marine-biologist-for-a-week/",
+              "anchor_text": "Marine Biologist for a Week"
+            }
+          ]
+        },
+        {
+          "text": "Marine Ecology & Conservation Internship",
+          "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/conservation-internship/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/conservation-internship/",
+              "anchor_text": "Marine Ecology & Conservation Internship"
+            }
+          ]
+        },
+        {
+          "text": "Ecology Divemaster Internship",
+          "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/ecodivemaster-internship/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/ecodivemaster-internship/",
+              "anchor_text": "Ecology Divemaster Internship"
+            }
+          ]
+        },
+        {
+          "text": "Go back Kids Scuba Courses",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Junior Open Water",
+          "url": "https://www.bigbluediving.com/diving-courses/kids-scuba-courses/junior-open-water/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/kids-scuba-courses/junior-open-water/",
+              "anchor_text": "Junior Open Water"
+            }
+          ]
+        },
+        {
+          "text": "Go back Package Deals",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Open Water and Advanced",
+          "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-and-advanced/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-and-advanced/",
+              "anchor_text": "Open Water and Advanced"
+            }
+          ]
+        },
+        {
+          "text": "Open Water to Divemaster",
+          "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-to-divemaster/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-to-divemaster/",
+              "anchor_text": "Open Water to Divemaster"
+            }
+          ]
+        },
+        {
+          "text": "Open Water to Instructor",
+          "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-to-instructor/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-to-instructor/",
+              "anchor_text": "Open Water to Instructor"
+            }
+          ]
+        },
+        {
+          "text": "Divemaster – Tech Focus",
+          "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/divemaster-technical-diving/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/divemaster-technical-diving/",
+              "anchor_text": "Divemaster – Tech Focus"
+            }
+          ]
+        },
+        {
+          "text": "Online Learning",
+          "url": "https://www.bigbluediving.com/diving-courses/online-scuba-training/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/diving-courses/online-scuba-training/",
+              "anchor_text": "Online Learning"
+            }
+          ]
+        },
+        {
+          "text": "Go back Dive",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Scuba Refresher",
+          "url": "https://www.bigbluediving.com/fun-diving-koh-tao/scuba-refresher-dive/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/fun-diving-koh-tao/scuba-refresher-dive/",
+              "anchor_text": "Scuba Refresher"
+            }
+          ]
+        },
+        {
+          "text": "Go Diving on Koh Tao",
+          "url": "https://www.bigbluediving.com/fun-diving-koh-tao/guided-fun-dives/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/fun-diving-koh-tao/guided-fun-dives/",
+              "anchor_text": "Go Diving on Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Sail Rock Trips",
+          "url": "https://www.bigbluediving.com/fun-diving-koh-tao/sail-rock-day-trips/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/fun-diving-koh-tao/sail-rock-day-trips/",
+              "anchor_text": "Sail Rock Trips"
+            }
+          ]
+        },
+        {
+          "text": "Our Dive Boats",
+          "url": "https://www.bigbluediving.com/about-us/our-dive-boats/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/about-us/our-dive-boats/",
+              "anchor_text": "Our Dive Boats"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Marine Life",
+          "url": "https://www.bigbluediving.com/koh-tao-marine-life",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/koh-tao-marine-life",
+              "anchor_text": "Koh Tao Marine Life"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao Dive Sites",
+          "url": "https://www.bigbluediving.com/koh-tao-dive-sites",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/koh-tao-dive-sites",
+              "anchor_text": "Koh Tao Dive Sites"
+            }
+          ]
+        },
+        {
+          "text": "Liveaboard Dive Trips with Big Blue Khao Lak",
+          "url": "https://www.bigbluediving.com/fun-diving-koh-tao/liveaboard-dive-trips-big-blue-khao-lak/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/fun-diving-koh-tao/liveaboard-dive-trips-big-blue-khao-lak/",
+              "anchor_text": "Liveaboard Dive Trips with Big Blue Khao Lak"
+            }
+          ]
+        },
+        {
+          "text": "Go back Koh Tao",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "A Brief History",
+          "url": "https://www.bigbluediving.com/koh-tao/history/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/koh-tao/history/",
+              "anchor_text": "A Brief History"
+            }
+          ]
+        },
+        {
+          "text": "Where to Stay",
+          "url": "https://www.bigbluediving.com/koh-tao/accommodation-in-sairee/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/koh-tao/accommodation-in-sairee/",
+              "anchor_text": "Where to Stay"
+            }
+          ]
+        },
+        {
+          "text": "Where To Eat And Drink",
+          "url": "https://www.bigbluediving.com/koh-tao/food-drink/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/koh-tao/food-drink/",
+              "anchor_text": "Where To Eat And Drink"
+            }
+          ]
+        },
+        {
+          "text": "Things To Do",
+          "url": "https://www.bigbluediving.com/koh-tao/things-to-do-on-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/koh-tao/things-to-do-on-koh-tao/",
+              "anchor_text": "Things To Do"
+            }
+          ]
+        },
+        {
+          "text": "The Weather",
+          "url": "https://www.bigbluediving.com/koh-tao/the-weather/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/koh-tao/the-weather/",
+              "anchor_text": "The Weather"
+            }
+          ]
+        },
+        {
+          "text": "How To Get Here",
+          "url": "https://www.bigbluediving.com/koh-tao/how-to-get-to-koh-tao/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/koh-tao/how-to-get-to-koh-tao/",
+              "anchor_text": "How To Get Here"
+            }
+          ]
+        },
+        {
+          "text": "Contact us",
+          "url": "https://www.bigbluediving.com/contact-us/",
+          "urls": [
+            {
+              "url": "https://www.bigbluediving.com/contact-us/",
+              "anchor_text": "Contact us"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": null,
+    "main_topic": [
+      {
+        "h_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Discover scuba diving in Koh Tao with Big Blue Diving. Whether you are taking your first breath underwater, continuing your training or joining us for guided fun dives, our team can help you explore one of Thailand’s best-known diving destinations.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Choose from beginner certifications, advanced and professional courses, technical diving, marine conservation training and daily dive trips to sites around Koh Tao.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "5/5 5414 reviews",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Upcoming Fun Diving in Koh Tao",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "View the upcoming schedule below to see the planned dive sites, departure times and number of dives. Dive-site selection may change according to weather, sea conditions and diver experience.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Already certified? Join our guided fun dives in Koh Tao and explore reefs, pinnacles, wrecks and other dive sites around the island.",
+            "url": "https://www.bigbluediving.com/fun-diving-koh-tao/guided-fun-dives/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/fun-diving-koh-tao/guided-fun-dives/",
+                "anchor_text": "guided fun dives in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Find the Right Diving Course or Experience",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Choose a category below to compare introductory experiences, SSI certifications, advanced specialties, professional programmes, technical training, conservation courses and options for younger divers.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Big Blue offers scuba diving courses in Koh Tao for complete beginners, certified divers and aspiring professionals.",
+            "url": "https://www.bigbluediving.com/diving-courses/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/",
+                "anchor_text": "scuba diving courses in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Basic Scuba Diver",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "3,800 ฿",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Complete Beginners",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 Days 1 dive in the pool PLUS 2 dives in the sea # of Dives 12 Meters Max Depth",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Basic Scuba Diver",
+            "url": "https://www.bigbluediving.com/diving-courses/beginner/basic-scuba-diver/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/beginner/basic-scuba-diver/",
+                "anchor_text": "Basic Scuba Diver"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Scuba Diving in Koh Tao for Every Experience Level",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Koh Tao offers diving opportunities for complete beginners, experienced recreational divers and people working towards a professional career underwater.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Join Guided Fun Dives",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Certified divers can join our guided fun dives around Koh Tao. Our schedule visits a range of local reefs, pinnacles and wrecks, with site selection based on conditions and diver experience.",
+            "url": "https://www.bigbluediving.com/fun-diving-koh-tao/guided-fun-dives/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/fun-diving-koh-tao/guided-fun-dives/",
+                "anchor_text": "guided fun dives around Koh Tao"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Continue Your Diving Education",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Develop greater confidence and explore new types of diving through our advanced and specialty courses. Training options include advanced diving, rescue, deep diving, wreck diving, enriched air nitrox and underwater imaging.",
+            "url": "https://www.bigbluediving.com/diving-courses/advanced/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/advanced/",
+                "anchor_text": "advanced and specialty courses"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Become a Dive Professional",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Our professional diving programmes provide structured pathways from Divemaster training through to SSI instructor qualifications.",
+            "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/pro-instructor/",
+                "anchor_text": "professional diving programmes"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Learn About Marine Conservation",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Our marine conservation courses introduce divers and non-divers to coral reefs, fish identification, sharks, sea turtles, marine ecology and underwater research.",
+            "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/marine-conservation/",
+                "anchor_text": "marine conservation courses"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "What Divers Say About Big Blue",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Read recent reviews from students and certified divers who have completed courses and joined dive trips with Big Blue Diving in Koh Tao.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Absolutely fantastic place, Martin was my instructor trainer, and I could not have asked for a better person to train me. Very thorough with the training, clear in tips and ways to improve and he will make you completely ready for the IE.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I took the Advanced Open Water course here, and I couldn’t possibly recommend this place more. Our instructors, Sara and Mustafa, were both excellent. They took great care answering questions, accommodating individual needs, and providing corrections. Safety was shown the outmost concern, which put everyone at ease. The dives themselves were very well briefed, and incredibly fun! As a whole, I’d give the experience 6 stars if I could. 🙂",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Mi pareja y yo hicimos el curso Advanced y fue una experiencia increíble. Perfect buoyancy, navigation, night diving, deep diving and wreck diving, cinco inmersiones increíbles en las que pudimos perfeccionar nuestras habilidades en un entorno alucinante. Mil gracias a Sara que nos enseñó valiosas técnicas de buceo, y a Mustafá con el que disfrutamos de un tiempo alucinante bajo el agua. Sinceramente, el centro es una recomendación absoluta. Diez sobre diez!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ignacio Luis Pérez Rey",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Did the Open water certification with Sara and it was an amazing experience. Learned a lot from her and she explained everything very well and clearly. Always payed attention to each student while underwater and also provided positive and constructive feedback.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This is an excellent dive centre. All of the staff are very helpful and make it really fun. I had several dives with Nuno who was the perfect dive master, I had such a good time with him and he helped me with everything. If u want to dive in Koh Tao this is the place to be.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Amazing experience here at big blue diving, our instructor Liam was the kindest! Will comeback here for my advance water course!!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "We took our Open Water Diving Course with Big Blue Diving School on Koh Tao. Originally scheduled for March 1st, we had to postpone due to illness. They rescheduled us by two days without any hassle, which we greatly appreciated. From the moment we arrived, we were warmly welcomed and trained with passion and professionalism. The first day in the pool gave us fantastic confidence. Our instructor, Lady, was truly professional—she alleviated all our fears of deep water and guided us step by step. We learned a lot! Being a small group of four made it even better, as we felt personally cared for and safe. It was an amazing group, we had the time of our lives, and we ended with a wonderful surprise! Big thanks to Lady Jenny Ethan and Fred",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "5/5 5414 reviews",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "robin hollema",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Javier Martini",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "André Roman",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Suryasai Vissamsetti",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Why Dive With Big Blue?",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Big Blue Diving has operated in Koh Tao since 1991. From our base in Sairee, we provide recreational diving, professional training, technical courses and marine conservation education within one established operation.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Experienced Diving Instructors",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Our team includes recreational instructors, Divemasters, instructor trainers, technical-diving educators and marine conservation specialists. Students and certified divers are matched with professionals suited to their course, experience and diving goals.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Training Facilities in Sairee",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Beginner students can develop their skills in a controlled environment before entering the sea. Our facilities include a dedicated training pool, classrooms, equipment areas and spaces used by our recreational, professional, technical and conservation teams.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Our Own Dive Boats",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Big Blue operates its own fleet of dive boats in Koh Tao. The fleet supports recreational courses, guided fun diving and specialist technical-diving operations.",
+            "url": "https://www.bigbluediving.com/about-us/our-dive-boats/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/about-us/our-dive-boats/",
+                "anchor_text": "dive boats in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Maintained Scuba Equipment",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Scuba equipment used by the school is regularly inspected and maintained. Our operation includes a full-time certified equipment technician responsible for monitoring and servicing the equipment used by our divers.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Training Beyond Your First Course",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "You can begin as a complete beginner and continue through advanced, rescue, professional, technical or conservation training without needing to change schools as your experience develops.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Learn more about our team, facilities and training environment on our Koh Tao dive school page.",
+            "url": "https://www.bigbluediving.com/about-us/our-koh-tao-dive-center/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/about-us/our-koh-tao-dive-center/",
+                "anchor_text": "Koh Tao dive school"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Why Go Scuba Diving in Koh Tao?",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Koh Tao is a tropical island in the Gulf of Thailand with dive sites suitable for a wide range of certification and experience levels.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The waters surrounding the island include shallow bays, coral reefs, deeper pinnacles and wrecks. This variety allows complete beginners to develop their skills while giving certified divers opportunities to explore more challenging sites.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dive Sites for Beginners and Certified Divers",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Protected bays and shallower reefs provide suitable environments for introductory experiences and training dives. More experienced divers can visit deeper pinnacles, wrecks and sites exposed to changing currents and conditions.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Explore our guide to Koh Tao dive sites to learn about locations around the island.",
+            "url": "https://www.bigbluediving.com/koh-tao-dive-sites",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/koh-tao-dive-sites",
+                "anchor_text": "guide to Koh Tao dive sites"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Tropical Marine Life",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Koh Tao’s reefs support coral, reef fish, turtles, rays, moray eels, barracuda, groupers and many smaller species. Pelagic visitors may also be encountered, although wildlife sightings can never be guaranteed.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Visit our Koh Tao marine-life guide to discover some of the species divers may see.",
+            "url": "https://www.bigbluediving.com/koh-tao-marine-life",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/koh-tao-marine-life",
+                "anchor_text": "Koh Tao marine-life guide"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "A Complete Island Experience",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "There is plenty to do when you are not underwater. Visitors can explore beaches and viewpoints, enjoy restaurants and cafés, join other activities or simply relax between dives.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Our guide to things to do in Koh Tao can help you plan time away from the dive boat.",
+            "url": "https://www.bigbluediving.com/koh-tao/things-to-do-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/koh-tao/things-to-do-on-koh-tao/",
+                "anchor_text": "guide to things to do in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Plan Your Trip to Koh Tao",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Before booking your diving, review the practical information you need to organise your journey and stay:",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "How to get to Koh Tao",
+            "url": "https://www.bigbluediving.com/koh-tao/how-to-get-to-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/koh-tao/how-to-get-to-koh-tao/",
+                "anchor_text": "How to get to Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "Koh Tao weather and seasonal conditions",
+            "url": "https://www.bigbluediving.com/koh-tao/the-weather/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/koh-tao/the-weather/",
+                "anchor_text": "Koh Tao weather and seasonal conditions"
+              }
+            ]
+          },
+          {
+            "text": "Where to stay in Koh Tao",
+            "url": "https://www.bigbluediving.com/koh-tao/accommodation-in-sairee/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/koh-tao/accommodation-in-sairee/",
+                "anchor_text": "Where to stay in Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "Things to do around the island",
+            "url": "https://www.bigbluediving.com/koh-tao/things-to-do-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/koh-tao/things-to-do-on-koh-tao/",
+                "anchor_text": "Things to do around the island"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Want to Learn More About Koh Tao?",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "We’ve got tonnes of information on our website from our blog to our Koh Tao Section… Here’s a few links to start you off.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Scuba Diving Guides and Koh Tao Travel Advice",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Explore practical advice about learning to dive, improving your scuba skills, choosing equipment, protecting marine ecosystems and planning a trip to Koh Tao.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Our blog also includes dive-site guides, marine-life spotlights, conservation updates and information for certified divers continuing their training.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "How to Try Scuba Diving in Koh Tao: A Beginner’s Guide",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Taking your first breath underwater can feel strange for a few seconds. Your instincts know that people are not supposed to breathe beneath the surface, but the regulator delivers air, your breathing settles and an entirely new environment opens in front of you. If you want to try scuba diving...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "How to Try Scuba Diving in Koh Tao: A Beginner’s Guide",
+            "url": "https://www.bigbluediving.com/blog/how-to-try-scuba-diving-in-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/how-to-try-scuba-diving-in-koh-tao/",
+                "anchor_text": "How to Try Scuba Diving in Koh Tao: A Beginner’s Guide"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "How Long Does the Open Water Course Take in Koh Tao?",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The SSI Open Water Diver course at Big Blue Diving takes approximately two and a half days. Training is spread across parts of three calendar days and includes theory, pool-based skill development and four open-water dives around Koh Tao. You will begin on the morning of the first day, complete...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "How Long Does the Open Water Course Take in Koh Tao?",
+            "url": "https://www.bigbluediving.com/blog/how-long-does-the-open-water-course-take-on-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/how-long-does-the-open-water-course-take-on-koh-tao/",
+                "anchor_text": "How Long Does the Open Water Course Take in Koh Tao?"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Diving Thailand with Big Blue Diving Koh Tao",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "If you’ve ever dreamed of floating among coral cathedrals and shimmering shoals of fish while pretending you’re the next Jacques Cousteau—only slightly more buoyant and considerably less French—then you’ll understand the appeal of Koh Tao. It’s Thailand’s scuba-diving mecca, a tiny island that somehow manages to feel...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Diving Thailand with Big Blue Diving Koh Tao",
+            "url": "https://www.bigbluediving.com/blog/diving-thailand-with-big-blue-diving-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/diving-thailand-with-big-blue-diving-koh-tao/",
+                "anchor_text": "Diving Thailand with Big Blue Diving Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Where Is the Best Place to Learn Scuba Diving in Thailand?",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Without doubt Koh Tao. It is definitely the best place to learn Scuba Diving in Thailand due to its calm, clear waters, beginner-friendly dive sites, and professional dive schools — making it the top choice for first-time divers. While some Thai islands are known for history or...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Where Is the Best Place to Learn Scuba Diving in Thailand?",
+            "url": "https://www.bigbluediving.com/blog/where-is-the-best-place-to-learn-scuba-diving-in-thailand/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/where-is-the-best-place-to-learn-scuba-diving-in-thailand/",
+                "anchor_text": "Where Is the Best Place to Learn Scuba Diving in Thailand?"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Diving with Big Blue? Be a Great a Dive Buddy.",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The art of being a responsible diver and the best buddy is to not feel like a fish out of water! Do you find yourself swimming aimlessly like Nemo lost in the Great Barrier Reef? Fear not, for I am here to bestow upon you the wisdom of the...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Diving with Big Blue? Be a Great a Dive Buddy.",
+            "url": "https://www.bigbluediving.com/blog/how-to-be-a-responsible-diver-and-a-great-dive-buddy/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/how-to-be-a-responsible-diver-and-a-great-dive-buddy/",
+                "anchor_text": "Diving with Big Blue? Be a Great a Dive Buddy."
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Learn to Dive on Koh Tao: Save 1,000Bt By Combining the Open Water & Advanced Course.",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Take the plunge—literally! Learn to dive on Koh Tao with Big Blue Diving and save 1,000Bt when you book both your Open Water and Advanced Courses together for just 23,000Bt. You can even stay 5 nights in a dorm for only 2,000Bt more. Warm seas,...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Learn to Dive on Koh Tao: Save 1,000Bt By Combining the Open Water & Advanced Course.",
+            "url": "https://www.bigbluediving.com/blog/learn-to-dive-on-koh-tao-save-1000bt-when-you-take-the-open-water-advanced-course-together-with-big-blue-diving/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/learn-to-dive-on-koh-tao-save-1000bt-when-you-take-the-open-water-advanced-course-together-with-big-blue-diving/",
+                "anchor_text": "Learn to Dive on Koh Tao: Save 1,000Bt By Combining the Open Water & Advanced Course."
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Standing Out amid Koh Tao Dive Centers.",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "There are, by conservative estimate, approximately seventeen million dive centers on Koh Tao. Yet there is only one who have been awarded the 2026 TripAdvisor Travelers' Choice Award, placing Big Blue Diving in the top 10% of businesses worldwide with over 5,222 five-star reviews. Big Blue Diving...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Standing Out amid Koh Tao Dive Centers.",
+            "url": "https://www.bigbluediving.com/blog/koh-tao-dive-centers/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/koh-tao-dive-centers/",
+                "anchor_text": "Standing Out amid Koh Tao Dive Centers."
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "When is the best weather on Koh Tao: Discover the Best Diving Months",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Koh Tao, a small tropical island in the Gulf of Thailand, is often hailed as one of the world’s most accessible and affordable diving destinations. Translating to “Turtle Island,” it offers a mesmerizing blend of coral gardens, schools of tropical fish, and warm, turquoise waters. But if...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "When is the best weather on Koh Tao: Discover the Best Diving Months",
+            "url": "https://www.bigbluediving.com/blog/when-is-the-best-weather-on-koh-tao-discover-the-best-diving-months/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/when-is-the-best-weather-on-koh-tao-discover-the-best-diving-months/",
+                "anchor_text": "When is the best weather on Koh Tao: Discover the Best Diving Months"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The 10 Best Dive Sites on Koh Tao for Certified Divers.",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Whether you’re a thrill-seeker chasing deep-water pinnacles or a laid-back explorer floating through coral gardens, this list of the best dive sites on Koh Tao for certified divers is your definitive guide to the island’s aquatic gems. For certified divers seeking an adventure...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The 10 Best Dive Sites on Koh Tao for Certified Divers.",
+            "url": "https://www.bigbluediving.com/blog/the-10-best-dive-sites-koh-tao-for-certified-divers/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/the-10-best-dive-sites-koh-tao-for-certified-divers/",
+                "anchor_text": "The 10 Best Dive Sites on Koh Tao for Certified Divers."
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "What to Expect During an Open Water Course in Koh Tao",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Taking an Open Water course is the first step towards becoming a certified scuba diver. It is also completely normal to feel excited, curious and slightly nervous before beginning. During your Open Water course in Koh Tao, you will learn how scuba equipment works, practise essential skills in a swimming...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "What to Expect During an Open Water Course in Koh Tao",
+            "url": "https://www.bigbluediving.com/blog/taking-the-open-water-dive-course-in-koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/taking-the-open-water-dive-course-in-koh-tao/",
+                "anchor_text": "What to Expect During an Open Water Course in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Why You Should Try Scuba Diving Koh Tao. You’ll Never Forget Your First Time.",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "There are few things in life that feel more delightfully absurd than taking a deep breath… underwater. The first time you do it, your brain — a dependable if occasionally overcautious organ — immediately screams, “No, you fool! We don’t breathe here!” But you do....",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Why You Should Try Scuba Diving Koh Tao. You’ll Never Forget Your First Time.",
+            "url": "https://www.bigbluediving.com/blog/why-you-should-try-scuba-diving-koh-tao-youll-never-forget-your-first-time/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/why-you-should-try-scuba-diving-koh-tao-youll-never-forget-your-first-time/",
+                "anchor_text": "Why You Should Try Scuba Diving Koh Tao. You’ll Never Forget Your First Time."
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Koh Tao Dive Sites: Red Rock, White Rock & Green Rock.",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "If you’ve ever gone scuba diving in Thailand, chances are you’ve heard about the famous Koh Tao dive sites — that small island that punches well above its weight in coral, sea turtles, and dive certifications. Koh Tao, which literally means “Turtle Island,” is...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Koh Tao Dive Sites: Red Rock, White Rock & Green Rock.",
+            "url": "https://www.bigbluediving.com/blog/koh-tao-dive-sites-red-rock-white-rock-green-rock/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/blog/koh-tao-dive-sites-red-rock-white-rock-green-rock/",
+                "anchor_text": "Koh Tao Dive Sites: Red Rock, White Rock & Green Rock."
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Start Your Koh Tao Diving Adventure",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Jim Donaldson",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Take your first diving course, continue your education or join us for guided dives around Koh Tao.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Explore our scuba diving courses, view the latest fun-diving options or contact our team for help planning your diving.",
+            "url": "https://www.bigbluediving.com/diving-courses/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/",
+                "anchor_text": "scuba diving courses"
+              },
+              {
+                "url": "https://www.bigbluediving.com/fun-diving-koh-tao/guided-fun-dives/",
+                "anchor_text": "fun-diving options"
+              },
+              {
+                "url": "https://www.bigbluediving.com/contact-us/",
+                "anchor_text": "contact our team"
+              }
+            ]
+          },
+          {
+            "text": "Book your diving in Koh Tao",
+            "url": "https://book.bigbluediving.com/",
+            "urls": [
+              {
+                "url": "https://book.bigbluediving.com/",
+                "anchor_text": "Book your diving in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Open Water Diver",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "12,000 ฿",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Complete Beginners",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "2.5 Days 5 # of Dives 18m Max Depth",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Open Water Diver",
+            "url": "https://www.bigbluediving.com/diving-courses/beginner/open-water-diver/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/beginner/open-water-diver/",
+                "anchor_text": "Open Water Diver"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Open Water and Advanced",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "23,000 ฿",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Complete Beginners",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "5 Days 9 Open Water Dives # of Dives None Prerequisites",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Open Water and Advanced",
+            "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-and-advanced/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-and-advanced/",
+                "anchor_text": "Open Water and Advanced"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Open Water to Divemaster",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "105,000 ฿",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Complete Beginners",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "60 Days Unlimited # of Dives None Prerequisites",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Open Water to Divemaster",
+            "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-to-divemaster/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-to-divemaster/",
+                "anchor_text": "Open Water to Divemaster"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Scuba Diver",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "10,000 ฿",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Complete Beginners",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "2 Days 2 # of Dives 12m Max Depth",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Scuba Diver",
+            "url": "https://www.bigbluediving.com/diving-courses/beginner/scuba-diver-course/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/beginner/scuba-diver-course/",
+                "anchor_text": "Scuba Diver"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Open Water to Instructor",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "180,000 ฿",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Complete Beginners",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "180 Days Unlimited # of Dives None Prerequisites",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Open Water to Instructor",
+            "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-to-instructor/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/scuba-course-package-deals/open-water-to-instructor/",
+                "anchor_text": "Open Water to Instructor"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Learn to Scuba Dive",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Never dived before? Our beginner scuba diving courses in Koh Tao include a one-day introductory experience, the entry-level SSI Scuba Diver certification and the complete SSI Open Water Diver course.",
+            "url": "https://www.bigbluediving.com/diving-courses/beginner/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/beginner/",
+                "anchor_text": "beginner scuba diving courses in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Explore Technical Diving",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Experienced divers can progress beyond standard recreational limits through our technical diving courses in Koh Tao, including sidemount, advanced nitrox, decompression and extended-range training.",
+            "url": "https://www.bigbluediving.com/diving-courses/tech/",
+            "urls": [
+              {
+                "url": "https://www.bigbluediving.com/diving-courses/tech/",
+                "anchor_text": "technical diving courses in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Why Go Scuba Diving in Koh Tao?",
+        "main_title": "Let’s Go SCUBA Diving in Koh Tao with Big Blue Diving",
+        "author": "Big Blue Diving School Koh Tao",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": [
+      {
+        "name": null,
+        "rating_value": 5,
+        "max_rating_value": 5,
+        "rating_count": 5414,
+        "relative_rating": 1
+      }
+    ],
+    "offers": [
+      {
+        "name": "Basic Scuba Diver",
+        "price": 3800,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": null,
+        "price": 3800,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": "Open Water Diver",
+        "price": 12000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": null,
+        "price": 12000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": "Open Water and Advanced",
+        "price": 23000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": null,
+        "price": 23000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": "Open Water to Divemaster",
+        "price": 105000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": null,
+        "price": 105000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": "Scuba Diver",
+        "price": 10000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": null,
+        "price": 10000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": "Open Water to Instructor",
+        "price": 180000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      },
+      {
+        "name": null,
+        "price": 180000,
+        "price_currency": "THB",
+        "price_valid_until": "2026-12-31 00:00:00 +00:00"
+      }
+    ],
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "+66 77 456 123",
+        "077 456 415"
+      ],
+      "emails": null
+    }
+  }
+}
