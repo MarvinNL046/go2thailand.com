@@ -63,6 +63,7 @@ These thirteen blog intents can be useful in English, but each needs freshness a
 - `/food/khao-soi/` is consolidated out of the English sitemap to protect the stronger English food owner.
 - `/blog/where-to-stay-chiang-mai-neighborhoods/` is consolidated out of English in favour of its accommodation owner.
 - `/blog/thailand-king-cobra-season/` is consolidated out of English under the current owner policy.
+- `/blog/phuket-weer/` remains a Dutch editorial route; English weather and best-time intent is now owned by `/city/phuket/weather/`, so a literal English blog translation would duplicate the researched owner.
 - `/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/` remains NL-only until a current-rule and freshness audit proves the premise and durable search value.
 
 ## Working order
