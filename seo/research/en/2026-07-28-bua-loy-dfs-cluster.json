@@ -1,0 +1,529 @@
+{
+  "captured_at": "2026-07-28T08:21:05.164Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "bua loy",
+  "costs": {
+    "suggestions": 0.01704,
+    "related": 0.01296,
+    "competitors": 0.0138
+  },
+  "competitorKeywords": [
+    "bua loy",
+    "bua loy recipe",
+    "bua loy cuisine",
+    "bua loy dessert",
+    "bua loy flour",
+    "bua loy ingredients",
+    "bua loy kai wan",
+    "bua loy pronunciation",
+    "bua loy pumpkin",
+    "bua loy sweet potato",
+    "bua loy taro",
+    "bua loy thai",
+    "bua loy thai dessert",
+    "bua loy thai dessert recipe",
+    "bua loy with sweet egg",
+    "taro bua loy",
+    "thai bua loy",
+    "thai dessert bua loy"
+  ],
+  "keywords": [
+    {
+      "keyword": "bua loy",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bua loy recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bua loy cuisine",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy dessert",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy dessert near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy flour",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bua loy ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bua loy kai wan",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bua loy pronunciation",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bua loy pumpkin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy sweet potato",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy taro",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bua loy thai dessert",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy thai dessert near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy thai dessert recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy with sweet egg",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taro bua loy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai bua loy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai dessert bua loy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy restaurant",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pumpkin bua loy",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resepi bua loy",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy asmr",
+      "volume": null,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy devon menu",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy history",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy kaew",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy london",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy menu",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy nam khing recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy singapore",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy thai dessert history",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bua loy thai food",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bubur bua loy",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "durian bua loy",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanom bua loy recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pumpkin bua loy recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resep bua loy thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resepi pumpkin bua loy",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sweet potato bua loy",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 63.839999999999996
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 34.02
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 20.433
+    },
+    {
+      "domain": "eastmeetskitchen.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 13.839
+    },
+    {
+      "domain": "messyvegancook.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 9.849
+    },
+    {
+      "domain": "www.nyonyacooking.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 7.097999999999999
+    },
+    {
+      "domain": "www.tastingtable.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 5.376
+    },
+    {
+      "domain": "www.ananyafoodingredients.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 4.137
+    },
+    {
+      "domain": "www.cookipedia.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.15
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.3729999999999998
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.911
+    },
+    {
+      "domain": "fahthaimag.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.575
+    },
+    {
+      "domain": "butterjoykitchen.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "www.thaifoodguide.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.0710000000000002
+    },
+    {
+      "domain": "grokipedia.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.903
+    }
+  ]
+}
