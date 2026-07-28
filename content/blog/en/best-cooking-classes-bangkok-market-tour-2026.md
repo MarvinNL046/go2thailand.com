@@ -26,7 +26,7 @@ sources:
 
 ## Why Take a Cooking Class in Bangkok
 
-Eating your way through [Bangkok](/blog/bangkok-street-food-beginners/) is easy. Bangkok was recently named [best city in Asia](/blog/bangkok-best-city-asia-2026-destinasian-award/), and its food scene is a big reason why. Learning to recreate those flavours at home is the souvenir that actually lasts. Bangkok's cooking schools have grown beyond basic [pad thai](/food/pad-thai/) lessons into full culinary experiences that start at a local market and end with a multi-course meal you prepared yourself.
+Eating your way through [Bangkok](/blog/best-street-food-markets-bangkok/) is easy. Bangkok was recently named [best city in Asia](/blog/bangkok-best-city-asia-2026-destinasian-award/), and its food scene is a big reason why. Learning to recreate those flavours at home is the souvenir that actually lasts. Bangkok's cooking schools have grown beyond basic [pad thai](/food/pad-thai/) lessons into full culinary experiences that start at a local market and end with a multi-course meal you prepared yourself.
 
 Here are three of the [best cooking classes in Bangkok](/best-cooking-classes-in-thailand/) for 2026, each with a different style and price point. If you're planning a longer trip, our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) can help you fit a class into your schedule.
 

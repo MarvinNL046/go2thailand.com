@@ -42,7 +42,7 @@ For tourists, this means:
 - **Restaurant meals** may see modest increases of 5–10% at mid-range and upscale venues
 - **Supermarket and convenience store prices** for imported goods are already slightly higher
 
-**What you can do:** Eat where locals eat. Street food and local market stalls absorb cost increases more slowly than tourist-facing restaurants. Thailand's food scene is still one of the best values in Asia — our [Thai street food guide](/blog/thai-street-food-guide-2026/) shows you where to find the best cheap eats in [Bangkok](/blog/bangkok-street-food-beginners/), [Chiang Mai](/city/chiang-mai/food/) and beyond.
+**What you can do:** Eat where locals eat. Street food and local market stalls absorb cost increases more slowly than tourist-facing restaurants. Thailand's food scene is still one of the best values in Asia — our [Thai street food guide](/blog/thai-street-food-guide-2026/) shows you where to find the best cheap eats in [Bangkok](/blog/best-street-food-markets-bangkok/), [Chiang Mai](/city/chiang-mai/food/) and beyond.
 
 ## Fuel and Transport
 

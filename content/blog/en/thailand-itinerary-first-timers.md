@@ -64,7 +64,7 @@ You can do this route in 10 days (tight but doable) or 14 days (comfortable, wit
 
 **First-timer tip:** Get a Thai SIM card or eSIM at the airport. You'll need data for Grab (Thailand's Uber), Google Maps, and translating menus. AIS and TrueMove offer tourist SIMs for 299–599 THB ($8–17) with 15–30 days of data. Prefer eSIM? Grab one from [Saily](https://saily.tpo.lv/rf9lidnE) before you fly and have data the moment you land.
 
-**Evening:** Walk your neighborhood, eat [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) for dinner. Try pad kra pao (basil stir-fry with rice and fried egg) — it's Thailand's everyday comfort food. Cost: 50–80 THB ($1.50–2.30). Vegan? Look for the [yellow เจ flag for Jay food](https://go2-thailand.com/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/) stalls — fully plant-based meals from 50 THB.
+**Evening:** Walk your neighborhood, eat [street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) for dinner. Try pad kra pao (basil stir-fry with rice and fried egg) — it's Thailand's everyday comfort food. Cost: 50–80 THB ($1.50–2.30). Vegan? Look for the [yellow เจ flag for Jay food](https://go2-thailand.com/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/) stalls — fully plant-based meals from 50 THB.
 
 ### Day 2: Temples and the Old City
 
@@ -163,7 +163,7 @@ These are the errors we see first-time visitors make again and again:
 
 1. **Overbooking your schedule.** You don't need to see everything. Thailand rewards slow travel. Leave gaps in your itinerary for spontaneous discoveries — a random street food stall, a conversation with a local, an unplanned beach.
 
-2. **Skipping street food.** Eating only in hotel restaurants means missing Thailand's greatest strength. [Street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/) is safe (look for busy stalls with high turnover), incredibly cheap, and often better than restaurant food. Read our [street food beginner's guide](https://go2-thailand.com/blog/bangkok-street-food-beginners/) or check [how to eat like a local for under $5](https://go2-thailand.com/blog/eat-like-local-thailand-under-5-dollars/).
+2. **Skipping street food.** Eating only in hotel restaurants means missing Thailand's greatest strength. [Street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/) is safe (look for busy stalls with high turnover), incredibly cheap, and often better than restaurant food. Read our [street food beginner's guide](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) or check [how to eat like a local for under $5](https://go2-thailand.com/blog/eat-like-local-thailand-under-5-dollars/).
 
 3. **Only visiting tourist areas.** The Grand Palace and Phi Phi are spectacular, but they're also packed. Balance famous sites with quieter spots — [Talad Noi](https://go2-thailand.com/blog/24-hours-talad-noi-bangkok-hidden-gem/) in Bangkok, local temples in Chiang Mai, or a less-visited island like [Koh Chang](https://go2-thailand.com/blog/koh-chang-guide-thailand-eastern-island/).
 

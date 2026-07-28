@@ -358,7 +358,7 @@ export function ThailandSnorkelingGuideTemplate({ data }: ThailandSnorkelingGuid
         <SourceMethodSection eyebrow="Sources & method" title="Current checks beat copied certainty" description="We combined independent English DFS keyword, SERP, competitor and genuine PAA research with primary Thai park, coastal and tourism sources. We removed fixed visibility, wildlife frequency, fee, closure-calendar and course-price claims that cannot stay true without a live check." sources={data.sources} />
 
         <section className="py-10">
-          <div className="container-custom"><FeedbackForm pageTitle="Snorkeling in Thailand" /></div>
+          <div className="container-custom"><FeedbackForm pageTitle="Snorkeling in Thailand" pageUrl={data.pageUrl} /></div>
         </section>
       </div>
     </>

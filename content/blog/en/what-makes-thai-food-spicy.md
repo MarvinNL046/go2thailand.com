@@ -97,7 +97,7 @@ If you want to test your limits, these are the dishes that bring the most heat:
 4. **Gaeng Som** -- A thin, broth-based sour curry from the south packed with bird's eye chilies and shrimp paste.
 5. **Pad Prik King** -- Stir-fried green beans with red curry paste. Deceptively spicy beneath its simple appearance.
 
-For a full guide to the curries behind many of these dishes, see our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). To experience the spiciest regional food in context, our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) covers where to find Isaan and southern vendors in the capital.
+For a full guide to the curries behind many of these dishes, see our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). To experience the spiciest regional food in context, our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) covers where to find Isaan and southern vendors in the capital.
 
 ## How to Cool the Burn
 
@@ -109,7 +109,7 @@ When the heat gets too intense, what you reach for matters.
 - **Do not drink water** -- Water spreads capsaicin around your mouth without dissolving it, making the burn worse. Capsaicin is oil-soluble, not water-soluble.
 - **Do not drink beer** -- Alcohol can intensify the burning sensation. If you want a drink, opt for a sweet [Thai iced tea](https://go2-thailand.com/drinks/thai-iced-tea/) instead.
 
-If you are ordering at a restaurant or food stall in Thailand and want to control the heat level, our [Thai food ordering guide for first-timers](/blog/what-is-thai-food-cuisine-guide/) has practical phrases and tips. For the best spots to try spicy food in Bangkok, see our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) and the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
+If you are ordering at a restaurant or food stall in Thailand and want to control the heat level, our [Thai food ordering guide for first-timers](/blog/what-is-thai-food-cuisine-guide/) has practical phrases and tips. For the best spots to try spicy food in Bangkok, see our [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/) and the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 ## FAQ
 

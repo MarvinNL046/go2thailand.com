@@ -456,7 +456,7 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                 </ul>
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
-                For a deeper introduction, read our <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">{t("s045_bangkok_street_food_guide")}</Link> and our guide to <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">eating like a local for under $5 a day</Link>.
+                For a deeper introduction, read our <Link href="/blog/best-street-food-markets-bangkok/" className="text-thailand-blue hover:underline font-semibold">{t("s045_bangkok_street_food_guide")}</Link> and our guide to <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">eating like a local for under $5 a day</Link>.
               </p>
 
               <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s046_how_to_order_in")}</h3>
@@ -840,7 +840,7 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                     )}
                     {item.question === 'Is street food safe in Thailand?' && (
                       <p className="mt-2 text-sm">
-                        <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">{t("s097_bangkok_street_food_guide")}</Link>
+                        <Link href="/blog/best-street-food-markets-bangkok/" className="text-thailand-blue hover:underline font-semibold">{t("s097_bangkok_street_food_guide")}</Link>
                         {' '}<span className="text-gray-400">|</span>{' '}
                         <Link href="/blog/bangkok-lumpini-hawker-centre-street-food-2026/" className="text-thailand-blue hover:underline font-semibold">{t("s098_lumpini_hawker_centre_guide")}</Link>
                       </p>

@@ -40,7 +40,7 @@ At the one-star level, **Gaggan** — the legendary progressive Indian restauran
 
 ### Street Food Still Thrives
 
-Bangkok remains one of the few cities where Michelin inspectors actively evaluate street food. The legendary **Raan Jay Fai** retains her one Michelin star, continuing to draw food lovers to her famous crab omelette and yellow curry prawns. For a deeper dive into [Bangkok's street food scene](/blog/bangkok-street-food-beginners/), from hawker stalls to night markets, our beginner's guide covers where to start.
+Bangkok remains one of the few cities where Michelin inspectors actively evaluate street food. The legendary **Raan Jay Fai** retains her one Michelin star, continuing to draw food lovers to her famous crab omelette and yellow curry prawns. For a deeper dive into [Bangkok's street food scene](/blog/best-street-food-markets-bangkok/), from hawker stalls to night markets, our beginner's guide covers where to start.
 
 Most of Bangkok's celebrated street food stalls appear in the **Bib Gourmand** category, which recognises great food at moderate prices. The 13 new Bib Gourmand entries for 2026 show that Thailand's affordable dining scene continues to evolve. The [Banthat Thong Road food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) and the [Bangkok Lumpini hawker centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) are both excellent starting points for budget-friendly bites in the capital.
 

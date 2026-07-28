@@ -60,7 +60,7 @@ Thailand currently exports halal food products to over 50 countries, which speak
 
 #### Bangkok
 
-Bangkok offers the widest selection of halal food in the country. For a full overview of the city's dining scene, see our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) and [Thai street food guide](/blog/thai-street-food-guide-2026/).
+Bangkok offers the widest selection of halal food in the country. For a full overview of the city's dining scene, see our [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/) and [Thai street food guide](/blog/thai-street-food-guide-2026/).
 
 - **Sukhumvit Soi 3 (Nana)** -- Known as Bangkok's "Arab Quarter," this street is lined with Middle Eastern restaurants, Indian eateries, and halal Thai food stalls. You will find shawarma, kebabs, biryani, and Thai dishes all within walking distance.
 - **Ramkhamhaeng area** -- A local neighborhood with many Muslim-run restaurants serving authentic Thai-Muslim food like **khao mok gai** (Thai chicken biryani), roti mataba, and halal som tum.

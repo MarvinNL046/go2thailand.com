@@ -86,7 +86,7 @@ const data: DishEditorialData = {
   ],
   related: [
     { title: 'Thai food guide', description: 'Place coconut desserts beside curries, soups, noodles and regional ordering decisions.', href: '/food/', image: '/images/redesign/thailand-food-hub-hero.webp' },
-    { title: 'Bangkok street food', description: 'Choose markets and stalls by turnover, preparation and fit rather than one permanent “best” list.', href: '/blog/bangkok-street-food-beginners/', image: '/images/food/street-food.webp' },
+    { title: 'Bangkok street food', description: 'Choose markets and neighbourhoods by timing, route and fit rather than one permanent “best” list.', href: '/blog/best-street-food-markets-bangkok/', image: '/images/redesign/bangkok-street-food-hero.webp' },
     { title: 'Vegetarian Thailand', description: 'Check visible ingredients, sauces, toppings and shared preparation without assumptions.', href: '/travel-guides/vegetarian-vegan-thailand/', image: '/images/redesign/vegetarian-thailand-hero.webp' },
   ],
   sources: [

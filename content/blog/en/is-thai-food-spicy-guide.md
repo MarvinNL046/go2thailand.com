@@ -165,7 +165,7 @@ If you are worried about handling the heat, these practical tips will help you e
 2. **Eat rice with spicy food, not water.** Plain steamed rice is far more effective at neutralising capsaicin than water. Water actually spreads the burning sensation around your mouth.
 3. **Drink milk or yoghurt.** The casein protein in dairy products binds to capsaicin and washes it away. A Thai iced tea (which contains condensed milk) also works.
 4. **A spoonful of sugar helps.** Sugar can counteract capsaicin. Many Thai tables have a sugar pot alongside the chili flakes.
-5. **Street food is customisable.** Because street vendors cook each portion individually, they can easily adjust the spice level to your request. Do not be shy about asking. Learn more in our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/).
+5. **Street food is customisable.** Because street vendors cook each portion individually, they can easily adjust the spice level to your request. Do not be shy about asking. Learn more in our [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/).
 6. **Watch out for condiments.** Even mild dishes can become spicy if you add the wrong table condiment. The small jars of chili flakes (prik pon) and chili in vinegar (prik nam som) are potent.
 7. **Order coconut-based dishes.** Coconut milk naturally tempers chili heat. Curries like [green curry](/food/green-curry/) and [Khao Soi](/blog/khao-soi-chiang-mai-guide/) are more forgiving than broth-based dishes.
 

@@ -87,7 +87,7 @@ const data: DishEditorialData = {
   ],
   related: [
     { title: 'Thai food guide', description: 'Compare regional cuisines, dish types and ordering decisions across Thailand.', href: '/food/', image: '/images/redesign/thailand-food-hub-hero.webp' },
-    { title: 'Bangkok street food', description: 'Use neighbourhood, timing and food-safety cues to plan a better eating route.', href: '/blog/bangkok-street-food-beginners/', image: '/images/food/street-food.webp' },
+    { title: 'Bangkok street food', description: 'Use neighbourhood, timing and food-safety cues to plan a better eating route.', href: '/blog/best-street-food-markets-bangkok/', image: '/images/redesign/bangkok-street-food-hero.webp' },
     { title: 'Vegetarian Thailand', description: 'Separate visible vegetables from sauce, stock and shared-preparation questions.', href: '/travel-guides/vegetarian-vegan-thailand/', image: '/images/redesign/vegetarian-thailand-hero.webp' },
   ],
   sources: [

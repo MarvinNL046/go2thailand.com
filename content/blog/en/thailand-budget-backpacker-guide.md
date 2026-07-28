@@ -34,7 +34,7 @@ Thailand has been the **budget backpacker** gateway to Southeast Asia for decade
 |----------|------------|
 | How much does backpacking Thailand cost per day? | A **budget backpacker** spends **1,200-1,800 THB ($33-50) per day** on [accommodation](/city/bangkok/), [food](/food/), and [transport](/transport/) |
 | What is the cheapest accommodation? | **Hostels** cost 200-500 THB/night; the best deals are in [Chiang Mai](/city/chiang-mai/) at 200-350 THB |
-| How much does street food cost? | **Thai street food** runs 30-70 THB per meal -- see our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for top dishes |
+| How much does street food cost? | **Thai street food** runs 30-70 THB per meal -- see our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) for top dishes |
 | What about ATM fees and money? | **ATM withdrawals** cost 220 THB per transaction; use a Wise card to reduce fees -- read our [ATM & money guide](/practical-info/atm-money/) |
 | When is the cheapest time to visit? | **Shoulder season** (May-June, Sep-Oct) offers the lowest prices on everything -- check our [weather guide](/weather/) for details |
 | Do I need travel insurance? | Yes, **[travel insurance](/travel-insurance-thailand/)** is essential and costs far less than a single hospital visit in Thailand |
@@ -121,7 +121,7 @@ Air-conditioned rooms with an ensuite bathroom. Found everywhere on Booking.com 
 - Visit local markets in the late afternoon when vendors discount unsold **street food**.
 - On the [islands](/islands/), food is more expensive -- stock up on snacks at convenience stores.
 
-Read our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for dish-by-dish recommendations, and browse our complete [Thai food guide](/food/) for must-try dishes across the country. The [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) covers all 15 essential dishes with real prices. And if spice is a concern, the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) will help you order safely.
+Read our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) for dish-by-dish recommendations, and browse our complete [Thai food guide](/food/) for must-try dishes across the country. The [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) covers all 15 essential dishes with real prices. And if spice is a concern, the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) will help you order safely.
 
 ## 4. Transport: Getting Around Cheap
 
@@ -236,7 +236,7 @@ Note: This does not include international flights or **[travel insurance](/trave
 
 ## 10. Suggested Budget Itinerary (2 Weeks)
 
-- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/bangkok-street-food-beginners/), Chinatown, canal boats. Try [pad thai](/food/pad-thai/) and [som tam](/food/som-tam/) from street stalls.
+- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/best-street-food-markets-bangkok/), Chinatown, canal boats. Try [pad thai](/food/pad-thai/) and [som tam](/food/som-tam/) from street stalls.
 - **Days 4-6:** Overnight train to [Chiang Mai](/city/chiang-mai/) -- Old City temples, night market, [cooking class](/blog/thai-cooking-classes-chiang-mai/). Must eat: [khao soi](/blog/khao-soi-chiang-mai-guide/).
 - **Days 7-8:** Day trip to Doi Suthep, [White Temple in Chiang Rai](/blog/chiang-rai-white-temple-entrance-fee-doubles-2026/)
 - **Day 9:** Fly to Surat Thani (budget airline), ferry to [Koh Tao](/islands/koh-tao/)

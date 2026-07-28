@@ -55,7 +55,7 @@ Many core Thai ingredients are naturally gluten free:
 - **Tamarind paste** -- The base for [Pad Thai](/food/pad-thai/) sauce. Gluten free.
 - **Palm sugar and shrimp paste (kapi)** -- Both naturally gluten free.
 
-But there are hidden dangers you need to know about. If you are also watching spice levels, see our guide on [whether Thai food is spicy](/blog/is-thai-food-spicy-guide/). And if you want to navigate Bangkok's street food scene with these restrictions, our [Bangkok street food for beginners guide](/blog/bangkok-street-food-beginners/) and [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/) have practical tips.
+But there are hidden dangers you need to know about. If you are also watching spice levels, see our guide on [whether Thai food is spicy](/blog/is-thai-food-spicy-guide/). And if you want to navigate Bangkok's street food scene with these restrictions, our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) and [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/) have practical tips.
 
 ## Hidden Sources of Gluten in Thai Food
 

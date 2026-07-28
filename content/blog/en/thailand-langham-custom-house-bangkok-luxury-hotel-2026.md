@@ -40,7 +40,7 @@ The total investment for the project is reported at **6 billion THB** (approxima
 
 ## Location and Access
 
-The hotel sits in **Bang Rak**, one of Bangkok's oldest and most culturally rich neighborhoods. The district is known for its [street food](/blog/bangkok-street-food-beginners/), Chinatown proximity, and the famous [Asiatique](https://go2thailand.com) night market along the river. The area is also close to [Banthat Thong Road](/blog/banthat-thong-road-bangkok-food-street-guide-2026/), one of Bangkok's most rewarding food streets.
+The hotel sits in **Bang Rak**, one of Bangkok's oldest and most culturally rich neighborhoods. The district is known for its [street food](/blog/best-street-food-markets-bangkok/), Chinatown proximity, and the famous [Asiatique](https://go2thailand.com) night market along the river. The area is also close to [Banthat Thong Road](/blog/banthat-thong-road-bangkok-food-street-guide-2026/), one of Bangkok's most rewarding food streets.
 
 Travelers can reach the area via:
 - **BTS Saphan Taksin station** (Silom Line), connecting to Chao Phraya express boats. See our full [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) for route planning tips.

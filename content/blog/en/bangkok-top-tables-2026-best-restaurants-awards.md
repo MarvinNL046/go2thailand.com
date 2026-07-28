@@ -34,7 +34,7 @@ Whether you are planning a special dinner or simply want to eat well during your
 
 ## Other Names Worth Knowing
 
-[Bangkok's dining scene](/blog/bangkok-street-food-beginners/) punches well above its weight on the international stage. Five restaurants from the city appeared on the Asia's 50 Best Restaurants extended list (51-100) for 2026. Among the names that regularly appear on both local and international rankings:
+[Bangkok's dining scene](/blog/best-street-food-markets-bangkok/) punches well above its weight on the international stage. Five restaurants from the city appeared on the Asia's 50 Best Restaurants extended list (51-100) for 2026. Among the names that regularly appear on both local and international rankings:
 
 - **Potong** — [Thai-Chinese heritage cuisine](/blog/does-thai-food-have-msg/) in [Yaowarat (Chinatown)](/blog/24-hours-talad-noi-bangkok-hidden-gem/)
 - **Gaa** — progressive Indian-inspired tasting menus

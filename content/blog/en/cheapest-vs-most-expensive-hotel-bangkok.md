@@ -232,7 +232,7 @@ For most travelers, the sweet spot is somewhere in between. A decent mid-range h
 ### For Budget Travelers
 - **Look beyond hostels.** Airbnb and local guesthouses in non-tourist neighborhoods can be cheaper than dorm beds
 - **Stay near public transport.** Being close to a BTS or MRT station saves taxi money even if the room costs slightly more
-- **Eat locally.** The biggest budget advantage of staying in local neighborhoods is access to authentic Thai [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) at local prices — and our [Thai street food guide](https://go2-thailand.com/blog/thai-street-food-guide-2026/) shows you exactly what to order
+- **Eat locally.** The biggest budget advantage of staying in local neighborhoods is access to authentic Thai [street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) at local prices — and our [Thai street food guide](https://go2-thailand.com/blog/thai-street-food-guide-2026/) shows you exactly what to order
 - **Check [Chatuchak](https://go2-thailand.com/blog/chatuchak-market-bangkok-guide/) and Ari neighborhoods** for affordable stays with good food scenes — Chatuchak in particular offers both a [world-class food experience](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) and proximity to budget guesthouses
 
 ### For Luxury Travelers

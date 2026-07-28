@@ -35,7 +35,7 @@ Four new restaurants earned a Bib Gourmand in [Bangkok](/city/bangkok/) and surr
 - **Jaan by Khun Jim** — Southern Thai and Thai-Chinese dishes made with freshly pressed coconut milk. The bold, aromatic curries are the highlight, and the casual setting keeps prices low.
 - **Kolun.h** — A Hainanese-style noodle house where the crispy pork belly and slow-simmered broth draw long queues from locals. Arrive before noon to beat the rush.
 
-With these additions, Bangkok now has **44 Bib Gourmand restaurants** — more than enough to plan an entire trip around affordable, Michelin-recognised eating. For more food inspiration in the capital, see our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) and the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/). If you are planning a longer stay, the [Bangkok Lumpini hawker centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) is another excellent budget-friendly option that opened in 2026.
+With these additions, Bangkok now has **44 Bib Gourmand restaurants** — more than enough to plan an entire trip around affordable, Michelin-recognised eating. For more food inspiration in the capital, see our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) and the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/). If you are planning a longer stay, the [Bangkok Lumpini hawker centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) is another excellent budget-friendly option that opened in 2026.
 
 ## Regional Newcomers Worth a Detour
 

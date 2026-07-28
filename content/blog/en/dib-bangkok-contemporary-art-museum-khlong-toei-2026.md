@@ -48,7 +48,7 @@ Bangkok's art scene has exploded in recent years. The [Bangkok Art Biennale 2026
 
 ## Tips for Your Visit
 
-- **Combine it with Khlong Toei Market** — one of Bangkok's largest and most authentic wet markets, just a short walk away. Pair it with a broader [Bangkok street food](/blog/bangkok-street-food-beginners/) crawl afterwards.
+- **Combine it with Khlong Toei Market** — one of Bangkok's largest and most authentic wet markets, just a short walk away. Pair it with a broader [Bangkok street food](/blog/best-street-food-markets-bangkok/) crawl afterwards.
 - **Go on a weekday** — the museum is less crowded from Thursday to Friday.
 - **Allow two hours** — the collection is large enough to take your time without feeling rushed.
 - **Fuel up beforehand** — Bangkok's [specialty coffee scene](/blog/bangkok-specialty-coffee-cafe-guide-2026/) has several cafes near the riverside.

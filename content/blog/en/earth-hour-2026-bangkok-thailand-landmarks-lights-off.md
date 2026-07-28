@@ -52,7 +52,7 @@ The event is free, requires no tickets and lasts just sixty minutes. If you happ
 
 Before you travel, make sure you have [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) in place — it is especially worth having if your trip spans multiple events and provinces. Also check the latest [Thailand visa requirements](/visa/) to confirm your entry options.
 
-Earth Hour takes place on the same evening as some of Bangkok's best [night markets](/blog/best-night-markets-bangkok-2026/), so you can combine the lights-off moment with a street-food crawl once the hour is over. For a broader look at what Bangkok's food scene offers after dark, see our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) and the roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
+Earth Hour takes place on the same evening as some of Bangkok's best [night markets](/blog/best-night-markets-bangkok-2026/), so you can combine the lights-off moment with a street-food crawl once the hour is over. For a broader look at what Bangkok's food scene offers after dark, see our [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/) and the roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 If you want to make a full day of it, Bangkok has excellent [day trips](/blog/best-day-trips-from-bangkok/) that pair well with an evening Earth Hour event — Ayutthaya by train is a classic choice. And if you are new to visiting temples, brush up on [Thailand temple etiquette and dress codes](/blog/thailand-temple-etiquette-dress-code-guide-2026/) before heading to the Grand Palace area.
 

@@ -59,7 +59,7 @@ The market itself was impressive. Everything was **pristine** -- fresh fish with
 
 > **Good to know:** The market visit is not about buying ingredients for the class. Blue Elephant works with dedicated suppliers who deliver fresh produce to the school daily. The market tour is educational -- a chance to learn about Thai ingredients, ask questions, and understand what goes into the food you are about to cook.
 
-If you enjoy exploring Thai markets, check out our guide to [Chatuchak Market](/blog/chatuchak-market-bangkok-guide/) and [Bangkok street food for beginners](/blog/bangkok-street-food-beginners/) for more market and food experiences in Bangkok. To understand the history behind what you cook, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/).
+If you enjoy exploring Thai markets, check out our guide to [Chatuchak Market](/blog/chatuchak-market-bangkok-guide/) and [Bangkok street food for beginners](/blog/best-street-food-markets-bangkok/) for more market and food experiences in Bangkok. To understand the history behind what you cook, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/).
 
 ## 3. The Chef Demonstration
 
@@ -138,7 +138,7 @@ That said, the price is **three to four times higher** than many excellent cooki
 
 ### More Bangkok Experiences
 
-- [Bangkok Street Food for Beginners](/blog/bangkok-street-food-beginners/) -- where to eat and what to try
+- [Bangkok Street Food for Beginners](/blog/best-street-food-markets-bangkok/) -- where to eat and what to try
 - [Best Street Food Markets in Bangkok](/blog/best-street-food-markets-bangkok/) -- from Yaowarat to Or Tor Kor
 - [Chatuchak Market Guide](/blog/chatuchak-market-bangkok-guide/) -- shopping and food at Bangkok's biggest market
 - [Bangkok City Guide](/city/bangkok/) -- everything you need to plan your visit

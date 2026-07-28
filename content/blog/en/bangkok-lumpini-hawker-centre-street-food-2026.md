@@ -166,7 +166,7 @@ If the hawker centre whets your appetite, Bangkok has plenty more to explore:
 - **[Bangkok cooking class with market tour](/blog/best-cooking-classes-bangkok-market-tour-2026/)** — learn to cook the dishes yourself
 - **[Bangkok specialty coffee guide](/blog/bangkok-specialty-coffee-cafe-guide-2026/)** — pair a morning coffee with a hawker centre breakfast
 - **[Chatuchak Weekend Market](/blog/chatuchak-market-bangkok-guide/)** — Bangkok's biggest market, with its own food section
-- **[Bangkok street food for beginners](/blog/bangkok-street-food-beginners/)** — if you are new to Thai street food
+- **[Bangkok street food for beginners](/blog/best-street-food-markets-bangkok/)** — if you are new to Thai street food
 
 ## FAQ
 
@@ -200,7 +200,7 @@ For now, yes. The Lumpini location is a **pilot project** by the BMA. If the con
 
 ### Is it suitable for first-time visitors to Bangkok?
 
-The Lumpini Hawker Centre will likely be one of the best places for tourists to try authentic Bangkok street food. The regulated hygiene standards, covered seating, and central location make it far more approachable than navigating random pavement stalls — especially if you have been nervous about trying [street food for the first time](/blog/bangkok-street-food-beginners/).
+The Lumpini Hawker Centre will likely be one of the best places for tourists to try authentic Bangkok street food. The regulated hygiene standards, covered seating, and central location make it far more approachable than navigating random pavement stalls — especially if you have been nervous about trying [street food for the first time](/blog/best-street-food-markets-bangkok/).
 
 ---
 

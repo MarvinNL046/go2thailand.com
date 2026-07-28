@@ -446,7 +446,7 @@ export default function ThingsToDoPage() {
                       <p><strong>Tip:</strong> {t("s066_follow_the_crowds_busy")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">{t("s067_bangkok_street_food_for")}</Link>
+                      <Link href="/blog/best-street-food-markets-bangkok/" className="text-thailand-blue hover:underline font-semibold">{t("s067_bangkok_street_food_for")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
                       <Link href="/blog/bangkok-lumpini-hawker-centre-street-food-2026/" className="text-thailand-blue hover:underline font-semibold">{t("s068_lumpini_hawker_centre_guide")}</Link>
                     </p>

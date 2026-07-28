@@ -257,7 +257,7 @@ Several small cafés line the riverside near Wat Arun pier, offering views of th
 
 ### Local Eateries in Thon Buri
 
-Venture into the sois (alleys) behind Wat Arun and you'll find authentic Thai restaurants frequented by locals. These places serve [pad krapow moo](https://go2-thailand.com/food/pad-krapow/) (basil pork), [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad), and [tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup) at prices that will seem shockingly cheap after eating near tourist attractions. Main dishes typically cost 50–100 THB (~USD 1.40–2.80). For a deeper dive into Bangkok's food scene, our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) and [best street food markets guide](/blog/best-street-food-markets-bangkok/) have everything you need.
+Venture into the sois (alleys) behind Wat Arun and you'll find authentic Thai restaurants frequented by locals. These places serve [pad krapow moo](https://go2-thailand.com/food/pad-krapow/) (basil pork), [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad), and [tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup) at prices that will seem shockingly cheap after eating near tourist attractions. Main dishes typically cost 50–100 THB (~USD 1.40–2.80). For a deeper dive into Bangkok's food scene, our [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/) and [best street food markets guide](/blog/best-street-food-markets-bangkok/) have everything you need.
 
 ### Floating Market Breakfast
 

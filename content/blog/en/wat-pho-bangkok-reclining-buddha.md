@@ -298,7 +298,7 @@ The area around Wat Pho has numerous food options, from street stalls to sit-dow
 
 **Near the main entrance:** You'll find vendors selling fresh fruit, coconut water, and Thai snacks. The coconut water from a fresh coconut (around 30–40 THB) is refreshing and perfect for cooling down after walking around the hot temple grounds.
 
-**Maha Rat Road:** This street running alongside the temple has numerous small restaurants and food stalls. You can find [pad thai](https://go2-thailand.com/food/pad-thai/), khao man gai (chicken and rice), and [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad) for 40–80 THB. In our experience, these are authentic, affordable, and frequented by locals as much as tourists. For more ideas on where to eat after your temple visit, browse the [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/).
+**Maha Rat Road:** This street running alongside the temple has numerous small restaurants and food stalls. You can find [pad thai](https://go2-thailand.com/food/pad-thai/), khao man gai (chicken and rice), and [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad) for 40–80 THB. In our experience, these are authentic, affordable, and frequented by locals as much as tourists. For more ideas on where to eat after your temple visit, browse the [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/).
 
 ### Sit-Down Restaurants
 
@@ -380,7 +380,7 @@ The Reclining Buddha chapel has dramatic lighting that changes throughout the da
 
 **10:30 AM:** Walk to the Grand Palace, tour the grounds (2 hours)
 
-**1:00 PM:** Lunch at a local restaurant on Maha Rat Road — [Bangkok street food for beginners](/blog/bangkok-street-food-beginners/) has tips on what to order (1 hour)
+**1:00 PM:** Lunch at a local restaurant on Maha Rat Road — [Bangkok street food for beginners](/blog/best-street-food-markets-bangkok/) has tips on what to order (1 hour)
 
 **2:00 PM:** Cross by ferry to [Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/) (Temple of Dawn) for stunning riverside views (1.5 hours)
 
@@ -398,7 +398,7 @@ The Reclining Buddha chapel has dramatic lighting that changes throughout the da
 **Day 2: More Temples & Markets**
 - Morning: Wat Benchamabophit (Marble Temple) and [Chiang Mai's Lanna temple trail](/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/) if you plan a side trip north
 - Afternoon: [Chatuchak Weekend Market](/blog/chatuchak-market-bangkok-guide/) (if visiting on weekend) or [Talad Noi](/blog/24-hours-talad-noi-bangkok-hidden-gem/) (old market)
-- Evening: [Street food tour in Chinatown](/blog/bangkok-street-food-beginners/)
+- Evening: [Street food tour in Chinatown](/blog/best-street-food-markets-bangkok/)
 
 **Day 3: Modern Bangkok & Local Life**
 - Morning: Lumphini Park for jogging, tai chi, and monitor lizards

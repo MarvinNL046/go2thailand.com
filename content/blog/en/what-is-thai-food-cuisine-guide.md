@@ -66,7 +66,7 @@ Thailand is not a single culinary region. The country divides into four distinct
 
 ### Central Thailand (Bangkok)
 
-**Central Thai cuisine** is what most visitors encounter first, especially in [Bangkok](/city/bangkok/). It is the most balanced of the four regions, aiming for harmony across all five flavors. This is where you will find the dishes that define Thai food internationally: **Pad Thai, Tom Yum Goong, Green Curry**, and **Tom Kha Gai**. For the best places to experience central Thai street food, see our [Bangkok street food guide](/blog/bangkok-street-food-beginners/).
+**Central Thai cuisine** is what most visitors encounter first, especially in [Bangkok](/city/bangkok/). It is the most balanced of the four regions, aiming for harmony across all five flavors. This is where you will find the dishes that define Thai food internationally: **Pad Thai, Tom Yum Goong, Green Curry**, and **Tom Kha Gai**. For the best places to experience central Thai street food, see our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/).
 
 Central Thai cooking relies heavily on **coconut milk** in curries, and the cuisine benefits from Bangkok's position as a trading hub that brought ingredients from all over the country and the world. The royal cuisine tradition also originated here, emphasizing elaborate presentation and refined flavors.
 
@@ -105,7 +105,7 @@ To understand **Thai food**, you need to know the ingredients that form its back
 
 ## The Most Iconic Thai Dishes
 
-Here are the dishes that define **Thai cuisine**. Whether you are eating [street food in Bangkok](/blog/bangkok-street-food-beginners/) or at a restaurant, these are the essentials. For a deeper look at Thai curries specifically, see our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/).
+Here are the dishes that define **Thai cuisine**. Whether you are eating [street food in Bangkok](/blog/best-street-food-markets-bangkok/) or at a restaurant, these are the essentials. For a deeper look at Thai curries specifically, see our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/).
 
 ### Soups
 
@@ -156,7 +156,7 @@ Thais eat with a **spoon in the right hand and a fork in the left**. The fork pu
 
 ### Street Food Culture
 
-**Street food** is not lower-class dining in Thailand -- it is how everyone eats. Office workers in suits, taxi drivers, families, and tourists all eat from the same street stalls. Many Thais cook infrequently at home because street food is cheap (30-80 THB per dish), fast, and often better than what most people could prepare in a small apartment kitchen. Read our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for where to start, and check out the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/) for a curated list of the top spots.
+**Street food** is not lower-class dining in Thailand -- it is how everyone eats. Office workers in suits, taxi drivers, families, and tourists all eat from the same street stalls. Many Thais cook infrequently at home because street food is cheap (30-80 THB per dish), fast, and often better than what most people could prepare in a small apartment kitchen. Read our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) for where to start, and check out the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/) for a curated list of the top spots.
 
 ## A Brief History of Thai Cuisine
 
@@ -196,4 +196,4 @@ Start with **Pad Thai** from a well-reviewed street vendor, try **Khao Man Gai**
 
 ### Is street food safe to eat in Thailand?
 
-Yes. Millions of Thais eat street food daily. Choose stalls that are **busy with local customers** and where food is cooked fresh to order. Avoid pre-made dishes that have been sitting out. For more tips, see our [Bangkok street food guide](/blog/bangkok-street-food-beginners/). Planning a trip? Our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) will help you structure your food journey alongside your sightseeing.
+Yes. Millions of Thais eat street food daily. Choose stalls that are **busy with local customers** and where food is cooked fresh to order. Avoid pre-made dishes that have been sitting out. For more tips, see our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/). Planning a trip? Our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) will help you structure your food journey alongside your sightseeing.

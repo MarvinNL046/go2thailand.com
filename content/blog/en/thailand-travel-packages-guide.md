@@ -112,7 +112,7 @@ Some people genuinely dislike trip planning. If research and booking stress you 
 
 ### Backpackers and Budget Travelers
 
-If you're comfortable in hostels and eating [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/), you can travel Thailand for $25–40 per day. No package comes close to that. Check our [backpacker guide](https://go2-thailand.com/thailand-index/budget/) for details.
+If you're comfortable in hostels and eating [street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/), you can travel Thailand for $25–40 per day. No package comes close to that. Check our [backpacker guide](https://go2-thailand.com/thailand-index/budget/) for details.
 
 ### Long-Term Travelers (2+ Weeks)
 

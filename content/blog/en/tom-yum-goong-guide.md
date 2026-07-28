@@ -165,7 +165,7 @@ For a full rundown of where to eat, see our guide to [best street food markets i
 
 ### Restaurant Recommendations (By Region)
 
-In [Bangkok's food scene](https://go2-thailand.com/city/bangkok/food/), mid-range restaurants specializing in seafood consistently deliver excellent tom yum. First-time visitors should also read our [Bangkok street food guide for beginners](/blog/bangkok-street-food-beginners/) before heading out. Look for places with "seafood" or "fish" in the name, where tom yum is a specialty rather than an afterthought. Coastal towns like Krabi naturally have better seafood-based tom yum due to ingredient freshness.
+In [Bangkok's food scene](https://go2-thailand.com/city/bangkok/food/), mid-range restaurants specializing in seafood consistently deliver excellent tom yum. First-time visitors should also read our [Bangkok street food guide for beginners](/blog/best-street-food-markets-bangkok/) before heading out. Look for places with "seafood" or "fish" in the name, where tom yum is a specialty rather than an afterthought. Coastal towns like Krabi naturally have better seafood-based tom yum due to ingredient freshness.
 
 During our travels, we found that restaurants near fishing ports—whether in [Phuket](https://go2-thailand.com/islands/phuket/) or smaller towns—tend to have superior tom yum because shrimp quality is higher and turnover is faster.
 

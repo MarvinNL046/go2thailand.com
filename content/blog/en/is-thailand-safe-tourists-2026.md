@@ -447,7 +447,7 @@ Most nationalities get 30-60 days visa-free. You must complete the Thailand Digi
 
 ### Is it safe to eat street food?
 
-Yes. Thai street food is generally safe and delicious. The risk of food poisoning is low if you eat at busy stalls with high turnover (food doesn't sit long). Avoid food that's been sitting in the heat for hours. Stick to cooked items rather than raw. We eat street food constantly and rarely get sick. Start with our [Bangkok street food beginner's guide](/blog/bangkok-street-food-beginners/) and explore the [Jodd Fairs night market](/blog/jodd-fairs-bangkok-night-market-guide/) for a safe, authentic introduction.
+Yes. Thai street food is generally safe and delicious. The risk of food poisoning is low if you eat at busy stalls with high turnover (food doesn't sit long). Avoid food that's been sitting in the heat for hours. Stick to cooked items rather than raw. We eat street food constantly and rarely get sick. Start with our [Bangkok street food beginner's guide](/blog/best-street-food-markets-bangkok/) and explore the [Jodd Fairs night market](/blog/jodd-fairs-bangkok-night-market-guide/) for a safe, authentic introduction.
 
 ### Should I get travel insurance?
 

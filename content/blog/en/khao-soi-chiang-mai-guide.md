@@ -300,7 +300,7 @@ While **khao soi** is most strongly associated with Chiang Mai and the Northern 
 
 ### Bangkok's Khao Soi Scene
 
-[Bangkok](https://go2-thailand.com/city/bangkok/) has numerous khao soi vendors, many run by Northern Thai migrants who've brought their family recipes to the capital. The quality varies widely, but the best Bangkok khao soi rivals what you'd find in Chiang Mai. The advantage is convenience—you can eat khao soi in Bangkok without traveling north. The disadvantage is that Bangkok versions sometimes cater to local tastes, which might mean less spice or different proportions than you'd find in Chiang Mai. Bangkok is also covered in depth in our [Thai street food guide](/blog/thai-street-food-guide-2026/) and the [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/).
+[Bangkok](https://go2-thailand.com/city/bangkok/) has numerous khao soi vendors, many run by Northern Thai migrants who've brought their family recipes to the capital. The quality varies widely, but the best Bangkok khao soi rivals what you'd find in Chiang Mai. The advantage is convenience—you can eat khao soi in Bangkok without traveling north. The disadvantage is that Bangkok versions sometimes cater to local tastes, which might mean less spice or different proportions than you'd find in Chiang Mai. Bangkok is also covered in depth in our [Thai street food guide](/blog/thai-street-food-guide-2026/) and the [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/).
 
 ### Other Northern Cities
 

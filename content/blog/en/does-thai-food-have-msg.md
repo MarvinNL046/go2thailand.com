@@ -71,7 +71,7 @@ That said, a small number of people may be sensitive to large amounts of MSG con
 
 ### How to Ask for No MSG in Thailand
 
-If you prefer to skip MSG, Thai vendors are used to this request -- especially at [Bangkok street food](/blog/bangkok-street-food-beginners/) stalls and [night markets](/blog/best-night-markets-bangkok-2026/). Here is the phrase you need:
+If you prefer to skip MSG, Thai vendors are used to this request -- especially at [Bangkok street food](/blog/best-street-food-markets-bangkok/) stalls and [night markets](/blog/best-night-markets-bangkok-2026/). Here is the phrase you need:
 
 | Thai Script | Pronunciation | Meaning |
 |-------------|---------------|---------|

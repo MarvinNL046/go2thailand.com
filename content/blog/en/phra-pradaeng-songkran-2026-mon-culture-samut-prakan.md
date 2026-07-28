@@ -37,7 +37,7 @@ Key highlights include:
 - **Mon "Thae Yam" songs** — local folk music performed live during the festivities, creating an atmosphere you will not find anywhere else in the Bangkok area.
 - **Kalamae tasting** — a sticky, caramel-like confection unique to Phra Pradaeng that is freshly prepared and offered to visitors during the merit-making ceremonies.
 
-Traditional rice soaked in jasmine-scented iced water, called "khao chae," is also widely served — a dish historically prepared to honour ancestors during the Thai New Year. If the food culture appeals, Bangkok's [street food scene](/blog/bangkok-street-food-beginners/) is just a ferry ride away.
+Traditional rice soaked in jasmine-scented iced water, called "khao chae," is also widely served — a dish historically prepared to honour ancestors during the Thai New Year. If the food culture appeals, Bangkok's [street food scene](/blog/best-street-food-markets-bangkok/) is just a ferry ride away.
 
 ## How to Get There
 

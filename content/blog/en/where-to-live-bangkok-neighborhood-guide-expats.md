@@ -379,7 +379,7 @@ Further from central Bangkok. Less international infrastructure. But transport h
 
 ## 15. Chinatown & Surroundings — Organised Chaos
 
-Chinatown is full-on. Chaotic, loud, alive almost all the time — food stalls, markets, neon signs, bikes weaving through traffic, and layers of history packed into one space. [Yaowarat Road](https://go2-thailand.com/city/bangkok/) is arguably the **best street food destination in all of Bangkok** — our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) explains what to order and where.
+Chinatown is full-on. Chaotic, loud, alive almost all the time — food stalls, markets, neon signs, bikes weaving through traffic, and layers of history packed into one space. [Yaowarat Road](https://go2-thailand.com/city/bangkok/) is arguably the **best street food destination in all of Bangkok** — our [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/) explains what to order and where.
 
 ### What You Get
 

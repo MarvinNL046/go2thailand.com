@@ -26,7 +26,7 @@ sources:
 
 **Thai cuisine** as we know it today is not the invention of a single culture. It is the product of centuries of migration, trade, conquest, and adaptation. Ingredients and techniques from **China, India, Persia, Portugal**, and the Malay Peninsula all left their mark on Thai cooking. Understanding this history explains why a single Thai meal can feature Chinese noodles, Indian-inspired curry, and New World chilies -- all held together by distinctly Thai flavors.
 
-For an overview of the cuisine itself, see our [essential guide to Thai food](/blog/what-is-thai-food-cuisine-guide/). To see how this history plays out on the streets of Bangkok today, explore our [Bangkok street food for beginners guide](/blog/bangkok-street-food-beginners/) or dive into the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
+For an overview of the cuisine itself, see our [essential guide to Thai food](/blog/what-is-thai-food-cuisine-guide/). To see how this history plays out on the streets of Bangkok today, explore our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) or dive into the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 ## Ancient Roots: The Sukhothai Period
 
@@ -77,7 +77,7 @@ The Portuguese also introduced:
 
 For centuries, Thai food existed on two parallel tracks. **Royal cuisine (ahaan chao wang)** was developed in the palaces of Ayutthaya and later Bangkok. Court cooks created elaborate dishes with intricate fruit and vegetable carvings, refined flavor balances, and complex multi-step preparations. Royal cuisine prized presentation as much as taste, and many of these techniques became the basis for formal Thai cooking schools.
 
-**Street food and home cooking**, by contrast, was practical, bold, and driven by what was locally available. This is where regional specialties thrived -- **Isaan cooks** pounded [Som Tam](/food/som-tam/) in mortars, **southern fishermen** developed intensely spicy curries from their daily catch, and **northern families** slow-cooked rich, herb-laden stews like [Khao Soi](/blog/khao-soi-chiang-mai-guide/). The democratization of food in Thailand means that today, street food and royal cuisine influence each other constantly. Some of the finest food in Thailand comes from [humble street stalls](/blog/bangkok-street-food-beginners/). For a taste of this across Bangkok's markets, see our [best street food markets guide](/blog/best-street-food-markets-bangkok/).
+**Street food and home cooking**, by contrast, was practical, bold, and driven by what was locally available. This is where regional specialties thrived -- **Isaan cooks** pounded [Som Tam](/food/som-tam/) in mortars, **southern fishermen** developed intensely spicy curries from their daily catch, and **northern families** slow-cooked rich, herb-laden stews like [Khao Soi](/blog/khao-soi-chiang-mai-guide/). The democratization of food in Thailand means that today, street food and royal cuisine influence each other constantly. Some of the finest food in Thailand comes from [humble street stalls](/blog/best-street-food-markets-bangkok/). For a taste of this across Bangkok's markets, see our [best street food markets guide](/blog/best-street-food-markets-bangkok/).
 
 ## Modern Thai Food: How Pad Thai Became a National Dish
 

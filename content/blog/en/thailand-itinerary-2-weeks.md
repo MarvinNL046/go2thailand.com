@@ -88,7 +88,7 @@ Next, visit **Wat Pho** (Temple of the Reclining Buddha), just south across the 
 
 Lunch at a local khao man gai (chicken rice) stall nearby—expect to pay ฿40–60 ($1–2 USD) for a full meal. In the afternoon, explore **Chatuchak Market** (if it's the weekend) or **Talad Noi** (a chaotic old market with narrow alleys, street food, and antiques). Both are free to wander.
 
-Evening: Try [Bangkok street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) at a night market. **Talad Rod Fai** (Train Market) or **Jodd Fairs** are popular. Expect ฿150–300 ($4–8 USD) for a feast. Learn about [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/) before you go so you know what to order.
+Evening: Try [Bangkok street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) at a night market. **Talad Rod Fai** (Train Market) or **Jodd Fairs** are popular. Expect ฿150–300 ($4–8 USD) for a feast. Learn about [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/) before you go so you know what to order.
 
 ### Day 3: Culture & Nightlife
 
