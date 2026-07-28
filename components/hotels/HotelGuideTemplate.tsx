@@ -475,8 +475,10 @@ export default function HotelGuideTemplate({ data }: HotelGuideTemplateProps) {
         <FaqSplitSection eyebrow={labels.faqEyebrow} title={labels.faqTitle(data.cityName)} description={labels.faqDescription(data.cityName)} items={data.faqs} />
 
         <RelatedGuidesSection
+          eyebrow={data.locale === 'nl' ? 'Verder plannen' : 'Continue planning'}
           title={labels.relatedTitle(data.cityName)}
           guides={data.relatedGuides}
+          readLabel={data.locale === 'nl' ? 'Lees de gids' : 'Read the guide'}
           sideLink={{
             label: labels.relatedSide,
             href: tripHref,
@@ -484,7 +486,12 @@ export default function HotelGuideTemplate({ data }: HotelGuideTemplateProps) {
           }}
         />
 
-        <SourceMethodSection title={labels.sourceTitle} description={labels.sourceDescription} sources={data.sources} />
+        <SourceMethodSection
+          eyebrow={data.locale === 'nl' ? 'Bronnen & methode' : 'Sources & method'}
+          title={labels.sourceTitle}
+          description={labels.sourceDescription}
+          sources={data.sources}
+        />
 
         <section className="py-10 lg:py-12">
           <div className="container-custom">
