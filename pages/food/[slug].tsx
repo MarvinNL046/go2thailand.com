@@ -22,6 +22,7 @@ import { KhaoManGaiGuideEn } from '../../components/food/KhaoManGaiGuideEn';
 import { BoatNoodlesGuideEn } from '../../components/food/BoatNoodlesGuideEn';
 import { SaiUaGuideEn } from '../../components/food/SaiUaGuideEn';
 import { NamPrikOngGuideEn } from '../../components/food/NamPrikOngGuideEn';
+import { GaengHangLayGuideEn } from '../../components/food/GaengHangLayGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -165,6 +166,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'nam-prik-ong') {
     return <NamPrikOngGuideEn />;
+  }
+
+  if (dish.slug === 'gaeng-hang-lay') {
+    return <GaengHangLayGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
