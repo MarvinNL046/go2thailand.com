@@ -1,0 +1,698 @@
+{
+  "captured_at": "2026-07-28T02:44:25.495Z",
+  "locale": "en",
+  "url": "https://www.sbs.com.au/food/article/the-sinking-history-of-thai-boat-noodles/8l34vxq2r",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Discover your world of SBS",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Sign in or create an account",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "What's On",
+          "url": "https://www.sbs.com.au/whats-on",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/whats-on",
+              "anchor_text": "What's On"
+            }
+          ]
+        },
+        {
+          "text": "Stream Now online, anytime",
+          "url": "https://www.sbs.com.au/ondemand/",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/ondemand/",
+              "anchor_text": "Stream Now online, anytime"
+            }
+          ]
+        },
+        {
+          "text": "Stream Now online, anytime",
+          "url": "https://www.sbs.com.au/ondemand/",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/ondemand/",
+              "anchor_text": "Stream Now online, anytime"
+            }
+          ]
+        },
+        {
+          "text": "What's On",
+          "url": "https://www.sbs.com.au/whats-on",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/whats-on",
+              "anchor_text": "What's On"
+            }
+          ]
+        },
+        {
+          "text": "SBS Examines",
+          "url": "https://www.sbs.com.au/language/english/en/sbs-examines",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/language/english/en/sbs-examines",
+              "anchor_text": "SBS Examines"
+            }
+          ]
+        },
+        {
+          "text": "Teaching Resources",
+          "url": "https://www.sbs.com.au/learn/",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/learn/",
+              "anchor_text": "Teaching Resources"
+            }
+          ]
+        },
+        {
+          "text": "Media Centre",
+          "url": "https://www.sbs.com.au/aboutus/mediacentre",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/aboutus/mediacentre",
+              "anchor_text": "Media Centre"
+            }
+          ]
+        },
+        {
+          "text": "Get in touch:",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Help Centre",
+          "url": "https://help.sbs.com.au/hc/en-au",
+          "urls": [
+            {
+              "url": "https://help.sbs.com.au/hc/en-au",
+              "anchor_text": "Help Centre"
+            }
+          ]
+        },
+        {
+          "text": "About SBS",
+          "url": "https://www.sbs.com.au/aboutus/",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/aboutus/",
+              "anchor_text": "About SBS"
+            }
+          ]
+        },
+        {
+          "text": "SBS Newsletters",
+          "url": "https://myaccount.sbs.com.au/",
+          "urls": [
+            {
+              "url": "https://myaccount.sbs.com.au/",
+              "anchor_text": "SBS Newsletters"
+            }
+          ]
+        },
+        {
+          "text": "Highlights around SBS:",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Australia Explained",
+          "url": "https://www.sbs.com.au/language/english/en/australia-explained",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/language/english/en/australia-explained",
+              "anchor_text": "Australia Explained"
+            }
+          ]
+        },
+        {
+          "text": "FIFA World Cup 2026™",
+          "url": "https://www.sbs.com.au/ondemand/fifa-world-cup-2026",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/ondemand/fifa-world-cup-2026",
+              "anchor_text": "FIFA World Cup 2026™"
+            }
+          ]
+        },
+        {
+          "text": "Tour de France 2026",
+          "url": "https://www.sbs.com.au/ondemand/tour-de-france",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/ondemand/tour-de-france",
+              "anchor_text": "Tour de France 2026"
+            }
+          ]
+        },
+        {
+          "text": "NAIDOC Week 2026",
+          "url": "https://www.sbs.com.au/ondemand/nitv-muy-ngulayg",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/ondemand/nitv-muy-ngulayg",
+              "anchor_text": "NAIDOC Week 2026"
+            }
+          ]
+        },
+        {
+          "text": "Follow Us:",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "TV Shows",
+          "url": "https://www.sbs.com.au/food/topic/tv-shows",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/food/topic/tv-shows",
+              "anchor_text": "TV Shows"
+            }
+          ]
+        },
+        {
+          "text": "Features & Stories",
+          "url": "https://www.sbs.com.au/food/topic/features-and-stories",
+          "urls": [
+            {
+              "url": "https://www.sbs.com.au/food/topic/features-and-stories",
+              "anchor_text": "Features & Stories"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": null,
+    "main_topic": [
+      {
+        "h_title": "The sinking history of Thai boat noodles",
+        "main_title": "The sinking history of Thai boat noodles",
+        "author": "SBS Food",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "As Bangkok grew into a busy metropolitan city, the 20 th century saw most of the canals drained or filled in to make way for roads, and most boat noodle vendors were forced into bricks-and-mortar shops in the 1970s. “You don&apos;t get that many [boat noodles] anymore, not the really authentic ones,” says Thompson. “Bangkok is a much more fast-paced city now and people don&apos;t stop to sit on the bank of canals.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Boat noodles are traditionally served with chewy rice noodles, and in tiny portions selling for just 15 baht (30 cents) a bowl. “Most people eat smaller sized meals throughout the day. It&apos;s a snack, it&apos;s not meant to be a full meal ­– but they can order two or three bowls if they’re hungry,” explains Thompson. In Bangkok, this is still very much the case – customers in boat noodle alley stack up empty bowls like towering plates in sushi trains. Scoff down 20 and you’ll score the ultimate prize: a free Pepsi.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Like most Thai soups, the stock is a punchy tangle of herbs, spices and aromatics, resulting in a sweet and sour broth full of complexities. Ingredients include a mix of galangal, ginger lemongrass, makrut lime leaves, pepper, cinnamon, coriander and – the most important addition – cow’s blood.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“It was custom to serve boat noodles with beef, and, in particular, a touch of blood,” says Thompson. Known as a nam tok broth, blood is used as a natural thickener and flavour enhancer. “It’s added at the end to enrich the soup, and often boiled so it coagulates somewhat – it just looks like dust,” he says. However, Thompson isn’t a fan of the blood, and chef Vherachid \"Top\" Kijthavee, from Melbourne Thai restaurant Soi 38, also chooses not to include it in his recipe because it’s harder to source the traditional liquid form, which would involve a trip to the slaughterhouse every day to ensure the blood was fresh and not mishandled.",
+            "url": "http://www.soi38.com/",
+            "urls": [
+              {
+                "url": "http://www.soi38.com/",
+                "anchor_text": "Soi 38"
+              }
+            ]
+          },
+          {
+            "text": "“Our recipe is a mixture of my grandmother’s traditional recipe and my own research,” says Top. “One of our challenges is to make the soup without blood but have it taste equal to, or better than, the version with blood.” Top and co-owner Andy Buchan believe they’ve achieved this, simmering their beef bones for up to 16 hours to make a rich, authentic stock.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "But Thompson says he’d consider bringing boat noodles to Long Chim, his most recent group of restaurants in Sydney, Melbourne, Perth and Singapore. “I would certainly put it on Long Chim&apos;s menu. However, we have several noodle soups on our menu in Sydney, and they don&apos;t sell anywhere near as well as I hoped they would, or as well as they should because they are absolutely delicious!”",
+            "url": "https://www.longchimsydney.com/",
+            "urls": [
+              {
+                "url": "https://www.longchimsydney.com/",
+                "anchor_text": "Long Chim"
+              }
+            ]
+          },
+          {
+            "text": "Short of heading to Bangkok for an immediate boat noodle fix, Sydney’s Chon Siam in Thai Town is a place you can still try authentic pork boat noodles, blood and all.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Love the story? Follow the author here: Twitter @eloise_baz or Instagram @eloise_baz. Photographs by Leigh Griffiths.",
+            "url": "https://twitter.com/eloise_baz",
+            "urls": [
+              {
+                "url": "https://twitter.com/eloise_baz",
+                "anchor_text": "@eloise_baz"
+              },
+              {
+                "url": "https://www.instagram.com/eloise_baz/",
+                "anchor_text": "@eloise_baz"
+              },
+              {
+                "url": "https://www.leighgriffithslens.com/",
+                "anchor_text": "Leigh Griffiths"
+              }
+            ]
+          },
+          {
+            "text": "Have we got your attention and your tastebuds? It’s Thai week on The Chefs' Line airing 6pm weeknights on SBS. Check out the program page for episode guides, cuisine lowdowns, recipes and more.",
+            "url": "http://www.sbs.com.au/food/programs/the-chefs-line",
+            "urls": [
+              {
+                "url": "http://www.sbs.com.au/food/programs/the-chefs-line",
+                "anchor_text": "The Chefs' Line"
+              },
+              {
+                "url": "http://www.sbs.com.au/food/programs/the-chefs-line",
+                "anchor_text": "program page"
+              }
+            ]
+          },
+          {
+            "text": "Get your weekly serving. What to cook, the latest food news, exclusive giveaways - straight to your inbox.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "By subscribing, you agree to SBS’s terms of service and privacy policy including receiving email updates from SBS.",
+            "url": "https://www.sbs.com.au/aboutus/terms-and-conditions",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/aboutus/terms-and-conditions",
+                "anchor_text": "terms of service"
+              },
+              {
+                "url": "https://www.sbs.com.au/aboutus/privacy-at-sbs",
+                "anchor_text": "privacy policy"
+              }
+            ]
+          },
+          {
+            "text": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "SBS Food is a 24/7 foodie channel for all Australians, with a focus on simple, authentic and everyday food inspiration from cultures everywhere. NSW stream only.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Follow SBS Food",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "SBS On Demand iOS Android",
+            "url": "https://apps.apple.com/au/app/sbs-on-demand/id542090992",
+            "urls": [
+              {
+                "url": "https://apps.apple.com/au/app/sbs-on-demand/id542090992",
+                "anchor_text": "iOS"
+              },
+              {
+                "url": "https://play.google.com/store/apps/details?id=com.sbs.ondemand.android",
+                "anchor_text": "Android"
+              }
+            ]
+          },
+          {
+            "text": "SBS News iOS Android",
+            "url": "https://apps.apple.com/au/app/sbs-news/id432849691",
+            "urls": [
+              {
+                "url": "https://apps.apple.com/au/app/sbs-news/id432849691",
+                "anchor_text": "iOS"
+              },
+              {
+                "url": "https://play.google.com/store/apps/details?id=com.sbs.worldnewsaustralia",
+                "anchor_text": "Android"
+              }
+            ]
+          },
+          {
+            "text": "SBS Audio iOS Android",
+            "url": "https://apps.apple.com/au/app/sbs-audio/id470808084",
+            "urls": [
+              {
+                "url": "https://apps.apple.com/au/app/sbs-audio/id470808084",
+                "anchor_text": "iOS"
+              },
+              {
+                "url": "https://play.google.com/store/apps/details?id=com.thisisaim.yourlanguage",
+                "anchor_text": "Android"
+              }
+            ]
+          },
+          {
+            "text": "The Ugly Ducklings of Italian Cuisine You know pizza, pasta and tiramisu, but have you tried the Ugly Ducklings of Italian Cuisine?",
+            "url": "https://www.sbs.com.au/language/italian/en/podcast/the-ugly-ducklings-of-italian-cuisine",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/language/italian/en/podcast/the-ugly-ducklings-of-italian-cuisine",
+                "anchor_text": "The Ugly Ducklings of Italian CuisineYou know pizza, pasta and tiramisu, but have you tried the Ugly Ducklings of Italian Cuisine?"
+              }
+            ]
+          },
+          {
+            "text": "Bad Taste Everybody eats, but who gets to define what good food is?",
+            "url": "https://www.sbs.com.au/audio/podcast/bad-taste",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/audio/podcast/bad-taste",
+                "anchor_text": "Bad TasteEverybody eats, but who gets to define what good food is?"
+              }
+            ]
+          },
+          {
+            "text": "Get the latest with our SBS podcasts on your favourite podcast apps.",
+            "url": "https://www.sbs.com.au/audio/podcasts",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/audio/podcasts",
+                "anchor_text": "SBS podcasts"
+              }
+            ]
+          },
+          {
+            "text": "Bring the world to your kitchen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Eat with your eyes: binge on our daily menus on channel 33.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Stream now",
+            "url": "https://www.sbs.com.au/ondemand/food",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/ondemand/food",
+                "anchor_text": "Stream now"
+              }
+            ]
+          },
+          {
+            "text": "SBS Home",
+            "url": "https://www.sbs.com.au/",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/",
+                "anchor_text": "SBS Home"
+              }
+            ]
+          },
+          {
+            "text": "SBS On Demand",
+            "url": "https://www.sbs.com.au/ondemand",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/ondemand",
+                "anchor_text": "SBS On Demand"
+              }
+            ]
+          },
+          {
+            "text": "What's On",
+            "url": "https://www.sbs.com.au/whats-on",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/whats-on",
+                "anchor_text": "What's On"
+              }
+            ]
+          },
+          {
+            "text": "TV & Radio Guide",
+            "url": "https://www.sbs.com.au/guide/ondemand",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/guide/ondemand",
+                "anchor_text": "TV & Radio Guide"
+              }
+            ]
+          },
+          {
+            "text": "Teaching Resources",
+            "url": "https://www.sbs.com.au/learn/resources",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/learn/resources",
+                "anchor_text": "Teaching Resources"
+              }
+            ]
+          },
+          {
+            "text": "Tiếng Việt / Vietnamese",
+            "url": "https://www.sbs.com.au/vietnamese",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/vietnamese",
+                "anchor_text": "Tiếng Việt / Vietnamese"
+              }
+            ]
+          },
+          {
+            "text": "See all languages",
+            "url": "https://www.sbs.com.au/language/en",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/language/en",
+                "anchor_text": "See all languages"
+              }
+            ]
+          },
+          {
+            "text": "Help Centre",
+            "url": "https://help.sbs.com.au/hc/en-au",
+            "urls": [
+              {
+                "url": "https://help.sbs.com.au/hc/en-au",
+                "anchor_text": "Help Centre"
+              }
+            ]
+          },
+          {
+            "text": "Locked Bag 028,",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Crows Nest NSW 1585",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Terms & Conditions",
+            "url": "https://www.sbs.com.au/aboutus/terms-and-conditions/",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/aboutus/terms-and-conditions/",
+                "anchor_text": "Terms & Conditions"
+              }
+            ]
+          },
+          {
+            "text": "Your online preferences",
+            "url": "https://help.sbs.com.au/hc/en-au/articles/7926969248015-Preferences",
+            "urls": [
+              {
+                "url": "https://help.sbs.com.au/hc/en-au/articles/7926969248015-Preferences",
+                "anchor_text": "Your online preferences"
+              }
+            ]
+          },
+          {
+            "text": "Sales & Advertising",
+            "url": "https://www.sbsmedia.com.au/",
+            "urls": [
+              {
+                "url": "https://www.sbsmedia.com.au/",
+                "anchor_text": "Sales & Advertising"
+              }
+            ]
+          },
+          {
+            "text": "SBS Code of Practice",
+            "url": "https://www.sbs.com.au/aboutus/sbs-code-of-practice/",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/aboutus/sbs-code-of-practice/",
+                "anchor_text": "SBS Code of Practice"
+              }
+            ]
+          },
+          {
+            "text": "SBS Responsible AI Framework",
+            "url": "https://www.sbs.com.au/aboutus/sbs-guiding-principles-for-use-of-ai/",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/aboutus/sbs-guiding-principles-for-use-of-ai/",
+                "anchor_text": "SBS Responsible AI Framework"
+              }
+            ]
+          },
+          {
+            "text": "About us",
+            "url": "https://www.sbs.com.au/aboutus/",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/aboutus/",
+                "anchor_text": "About us"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "The sinking history of Thai boat noodles",
+        "main_title": "The sinking history of Thai boat noodles",
+        "author": "SBS Food",
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "With a rich beef broth intensified by a splash of fresh cow’s blood, boat noodles are some of the most flavoursome of all Thai noodle soups, yet curiously scarce from most Thai restaurant menus. We delve into the history of these bowls, traditionally served from canoes gliding along the Kingdom’s canals.",
+        "main_title": "The sinking history of Thai boat noodles",
+        "author": "SBS Food",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "4 min read",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Published 15 August 2018 12:36pm",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Updated 26 February 2021 12:18pm",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "By Eloise Basuki",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Tags",
+        "main_title": "The sinking history of Thai boat noodles",
+        "author": "SBS Food",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Food and drink",
+            "url": "https://www.sbs.com.au/news/tag/subject/food-and-drink",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/news/tag/subject/food-and-drink",
+                "anchor_text": "Food and drink"
+              }
+            ]
+          },
+          {
+            "text": "New South Wales",
+            "url": "https://www.sbs.com.au/news/tag/geography/new-south-wales",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/news/tag/geography/new-south-wales",
+                "anchor_text": "New South Wales"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "More Thai",
+        "main_title": "The sinking history of Thai boat noodles",
+        "author": "SBS Food",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Breakdown: Thai boat noodle soup",
+            "url": "https://www.sbs.com.au/food/article/breakdown-thai-boat-noodle-soup/u9pe41mvp",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/food/article/breakdown-thai-boat-noodle-soup/u9pe41mvp",
+                "anchor_text": "Breakdown: Thai boat noodle soup"
+              }
+            ]
+          },
+          {
+            "text": "The lowdown: Thai cuisine",
+            "url": "https://www.sbs.com.au/food/article/the-lowdown-thai-cuisine/m97fydlak",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/food/article/the-lowdown-thai-cuisine/m97fydlak",
+                "anchor_text": "The lowdown: Thai cuisine"
+              }
+            ]
+          },
+          {
+            "text": "Phew! Bangkok’s street food is not going anywhere",
+            "url": "https://www.sbs.com.au/food/article/phew-bangkoks-street-food-is-not-going-anywhere/fnru1s67x",
+            "urls": [
+              {
+                "url": "https://www.sbs.com.au/food/article/phew-bangkoks-street-food-is-not-going-anywhere/fnru1s67x",
+                "anchor_text": "Phew! Bangkok’s street food is not going anywhere"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "1800 500 727"
+      ],
+      "emails": null
+    }
+  }
+}
