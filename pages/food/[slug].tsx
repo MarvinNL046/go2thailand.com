@@ -36,6 +36,7 @@ import { RotiSaiMaiGuideEn } from '../../components/food/RotiSaiMaiGuideEn';
 import { TomYumNoodlesGuideEn } from '../../components/food/TomYumNoodlesGuideEn';
 import { KhaoMokGaiGuideEn } from '../../components/food/KhaoMokGaiGuideEn';
 import { GoongPadMakhamGuideEn } from '../../components/food/GoongPadMakhamGuideEn';
+import { TomSomPlaGuideEn } from '../../components/food/TomSomPlaGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -235,6 +236,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'goong-pad-makham') {
     return <GoongPadMakhamGuideEn />;
+  }
+
+  if (dish.slug === 'tom-som-pla') {
+    return <TomSomPlaGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
