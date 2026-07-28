@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-28T15:01:15.283Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels in surat thani",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "best hotels in surat thani"
+  ],
+  "keywords": [
+    {
+      "keyword": "best hotels in surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

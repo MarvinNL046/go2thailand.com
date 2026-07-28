@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T15:01:16.397Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "surat thani hotel recommendations",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "surat thani hotel recommendations"
+  ],
+  "keywords": [
+    {
+      "keyword": "surat thani hotel recommendations",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
