@@ -439,7 +439,7 @@ Ja, straat Pad Thai is over het algemeen zeer veilig, vaak veiliger dan restaura
 
 ### Wat is het verschil tussen Pad Thai en Pad See Ew?
 
-[Pad See Ew](https://go2-thailand.com/food/pad-see-ev/) wordt gemaakt met bredere rijstnoedels en sojasaus in plaats van tamarinde, voor een donkerder, hartig gerecht. [Pad Thai](https://go2-thailand.com/food/pad-thai/) is lichter en zuurder door tamarinde. Het zijn distincte gerechten, hoewel beide roerbaknoedels zijn.
+[Pad See Ew](https://go2-thailand.com/nl/food/pad-see-ew/) wordt gemaakt met bredere rijstnoedels en sojasaus in plaats van tamarinde, voor een donkerder, hartig gerecht. [Pad Thai](https://go2-thailand.com/nl/food/pad-thai/) is lichter en zuurder door tamarinde. Het zijn distincte gerechten, hoewel beide roerbaknoedels zijn.
 
 ### Kan ik Pad Thai zonder vissaus bestellen?
 

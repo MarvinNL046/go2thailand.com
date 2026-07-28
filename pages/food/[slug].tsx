@@ -14,6 +14,7 @@ import { MassamanCurryGuideEn } from '../../components/food/MassamanCurryGuideEn
 import { MangoStickyRiceGuideEn } from '../../components/food/MangoStickyRiceGuideEn';
 import { GreenCurryGuideEn } from '../../components/food/GreenCurryGuideEn';
 import { PadKraPaoGuideEn } from '../../components/food/PadKraPaoGuideEn';
+import { PadSeeEwGuideEn } from '../../components/food/PadSeeEwGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -125,6 +126,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'pad-krapow') {
     return <PadKraPaoGuideEn />;
+  }
+
+  if (dish.slug === 'pad-see-ew') {
+    return <PadSeeEwGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {

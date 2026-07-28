@@ -439,7 +439,7 @@ Yes, street Pad Thai is generally very safe, often safer than restaurants. High 
 
 ### What's the difference between Pad Thai and Pad See Ew?
 
-[Pad See Ew](https://go2-thailand.com/food/pad-see-ev/) is made with wider rice noodles and soy sauce instead of tamarind, creating a darker, savory dish. [Pad Thai](https://go2-thailand.com/food/pad-thai/) is lighter and tangier due to tamarind. They're distinct dishes, though both are stir-fried noodles.
+[Pad See Ew](https://go2-thailand.com/food/pad-see-ew/) is made with wider rice noodles and soy sauce instead of tamarind, creating a darker, savory dish. [Pad Thai](https://go2-thailand.com/food/pad-thai/) is lighter and tangier due to tamarind. They're distinct dishes, though both are stir-fried noodles.
 
 ### Can I request Pad Thai without fish sauce?
 
