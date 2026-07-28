@@ -323,12 +323,12 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                   <div>
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s014_massaman_curry")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      Massaman curry is Thai cuisine&apos;s most globally acclaimed dish — CNN once named it the best food in the world. This rich, mild curry reflects centuries of cultural exchange with Muslim traders from India, Persia, and the Malay Peninsula. The curry paste combines dried spices rarely found in other Thai curries: cinnamon, cardamom, cloves, star anise, and cumin, along with lemongrass, galangal, and shallots. These are simmered in thick coconut milk with tender chunks of beef or chicken, potatoes, and roasted peanuts. The result is warming, slightly sweet, and deeply aromatic — closer to an Indian-style curry than anything else in Thai cooking, yet unmistakably Thai in its use of fish sauce, tamarind, and palm sugar. Massaman is one of the least spicy Thai curries, making it an excellent choice for travelers who are sensitive to heat. It is most commonly served over steamed jasmine rice.
+                      Massaman is a rich Thai curry shaped by Thai-Muslim cooking and long-distance spice exchange. Coconut milk, curry paste, potato, onion, tamarind, peanuts and warm dry spices such as cinnamon, cardamom and cumin are familiar signals. Chicken or beef is common, but the recipe, heat and dietary boundary vary by kitchen. Its Muslim roots do not automatically prove that a restaurant uses halal meat, stock, utensils or certification.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 50-70 baht ({isNl ? 'straatvoedsel/food court' : 'street food/food court'}) | 150-280 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
-                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Mild — een van de minst pittige Thaise curry\'s' : 'Mild — one of the least spicy Thai curries'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s015_southern_thailand_phuket_krabi")}</p>
+                      <p><strong>Before ordering:</strong> confirm today&apos;s protein, chilli level, peanut, fish sauce, shrimp paste and stock.</p>
+                      <p><strong>Halal boundary:</strong> ask the kitchen or choose a clearly certified restaurant when formal assurance matters.</p>
+                      <p><strong>Price:</strong> check the actual menu; portion, protein, setting and city change the current price.</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/massaman-curry/" className="text-thailand-blue hover:underline font-semibold">{t("s016_full_massaman_curry_guide")}</Link>

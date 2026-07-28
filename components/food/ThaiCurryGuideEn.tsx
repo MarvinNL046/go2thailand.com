@@ -389,7 +389,7 @@ export function ThaiCurryGuideEn() {
                 </div>
                 <div className="p-6 sm:p-7">
                   <h3 className="font-display text-2xl font-semibold text-jade">The useful difference</h3>
-                  <p className="mt-3 text-sm font-medium leading-7 text-charcoal/68">Massaman behaves like a long, comforting stew and commonly brings potato, onion and peanuts. Panang is usually more concentrated, with less free liquid and a sauce that coats meat or tofu. Choose Massaman for warm spice and softness; Panang for rich coconut and aromatic intensity.</p>
+                  <p className="mt-3 text-sm font-medium leading-7 text-charcoal/68"><Link href="/food/massaman-curry/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">Massaman curry</Link> behaves like a long, comforting stew and commonly brings potato, onion and peanuts. Panang is usually more concentrated, with less free liquid and a sauce that coats meat or tofu. Choose Massaman for warm spice and softness; Panang for rich coconut and aromatic intensity.</p>
                   <p className="mt-4 border-l-2 border-saffron pl-4 text-xs font-bold leading-5 text-jade">Peanut, shrimp paste and fish sauce vary. Compare the ingredient list as carefully as the flavour.</p>
                 </div>
               </article>
