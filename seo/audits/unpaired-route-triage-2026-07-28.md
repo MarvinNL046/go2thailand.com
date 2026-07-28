@@ -2,7 +2,7 @@
 
 **Measured:** 28 July 2026  
 **Source:** `seo/inventory/routes.csv` and `seo/inventory/unpaired-routes.json`  
-**Scope:** 936 sitemap routes without an exact path-equivalent in the other locale
+**Scope:** 935 sitemap routes without an exact path-equivalent in the other locale
 
 An unpaired route is an audit lead, not automatically a missing translation. Go2Thailand uses locale-specific consolidation: Dutch often keeps one strong destination or hotel owner where English still has several programmatic child routes. Creating all missing path-equivalents would therefore add thin duplication and incorrect hreflang rather than useful bilingual coverage.
 
@@ -10,9 +10,9 @@ An unpaired route is an audit lead, not automatically a missing translation. Go2
 
 | Locale-only side | Routes | Share of unpaired set |
 |---|---:|---:|
-| English-only | 913 | 97.5% |
-| Dutch-only | 23 | 2.5% |
-| Total | 936 | 100% |
+| English-only | 913 | 97.6% |
+| Dutch-only | 22 | 2.4% |
+| Total | 935 | 100% |
 
 ## English-only families
 
@@ -37,9 +37,8 @@ The first five template-held groups account for **648/913 English-only routes**.
 
 ### Priority A — independently research an English owner
 
-These four remaining routes represent durable, commercially or topically useful intents. They should receive separate English DFS/SERP/competitor/PAA research before an English canonical is indexed:
+These three remaining routes represent durable, commercially or topically useful intents. They should receive separate English DFS/SERP/competitor/PAA research before an English canonical is indexed:
 
-- `/best-hotels/khao-sok/`
 - `/city/koh-samui/weather/`
 - `/city/koh-samui/attractions/wat-plai-laem/`
 - `/compare/phuket-vs-krabi/`
@@ -73,7 +72,7 @@ These thirteen blog intents can be useful in English, but each needs freshness a
 
 ## Working order
 
-1. Complete the four remaining Priority A English owners, using independent English research and the existing premium templates/assets only as design infrastructure.
+1. Complete the three remaining Priority A English owners, using independent English research and the existing premium templates/assets only as design infrastructure.
 2. Review the thirteen editorial candidates against current English SERPs, GSC/GA4 evidence and freshness risk.
 3. Audit the 265 manual EN-only routes by cluster, prioritizing existing traffic, commercial intent and natural internal-link gaps.
 4. Leave the 648 template-held routes EN-only unless a Dutch cluster owner has enough unique localized value to justify publication.
@@ -85,3 +84,4 @@ These thirteen blog intents can be useful in English, but each needs freshness a
 - `/islands/koh-tao/attractions/` now has an independent English owner based on two DFS clusters, ten current UK-English SERPs, genuine PAA, three complete competitor parses and four primary or local destination parses. It entered the English sitemap only after canonical, hreflang, schema, Klook, internal-link and responsive QA passed.
 - `/islands/koh-tao/diving/` now has an independent English owner based on two DFS clusters, eleven current UK-English SERPs, genuine PAA, six complete source parses and route-level ranking/backlink checks. It entered the English sitemap only after the shared template, course/school decision model, canonical, hreflang, schema, internal-link, Klook and responsive QA passed.
 - `/islands/koh-tao/snorkeling/` now has an independent English owner based on two spelling-aware DFS clusters, eleven current UK-English SERPs, genuine PAA, six usable full parses and route-level ranking/backlink checks. It entered the English sitemap only after the shared template, condition-led bay model, canonical, hreflang, schema, internal-link, Klook, three contextual Amazon OneLink exits and responsive QA passed.
+- `/best-hotels/khao-sok/` now has an independent English owner based on two DFS clusters, twelve current UK-English SERPs, genuine PAA, nine usable full parses and route-level ranking/backlink checks. It entered the English sitemap only after the land-versus-lake decision model, canonical, hreflang, five-schema, internal-link, Trip.com, visual-asset and responsive QA passed.

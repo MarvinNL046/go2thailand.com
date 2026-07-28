@@ -11,7 +11,6 @@ export function normalizeEnInternalHref(href: string): string {
     '/transport/bangkok-to-bangkok/': '/transport/',
     '/transport/bangkok-to-koh-samui/': '/blog/bangkok-to-koh-samui-guide/',
     '/travel-insurance-thailand/': '/travel-insurance/',
-    '/best-hotels/khao-sok/': '/top-10/hotels/',
     '/best-hotels/ban-krut/': '/city/ban-krut/#zones',
     '/city/koh-tao/': '/islands/koh-tao/',
     '/city/koh-tao/attractions/': '/islands/koh-tao/attractions/',

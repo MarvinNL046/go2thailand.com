@@ -344,6 +344,9 @@ for (const asset of [
   read(`public/images/redesign/${asset}`);
 }
 const khaoSokHotelData = read('data/hotels/nl/khao-sok.ts');
+const khaoSokHotelDataEn = read('data/hotels/en/khao-sok.ts');
+const hotelRegistryEn = read('data/hotels/en/index.ts');
+if (!hotelRegistryEn.includes('"khao-sok":')) failures.push('The EN hotel registry does not include khao-sok');
 for (const asset of [
   'khao-sok-hotels-hero.webp',
   'khao-sok-jungle-village.webp',
@@ -352,8 +355,12 @@ for (const asset of [
   'khao-sok-floating-bungalows.webp',
 ]) {
   if (!khaoSokHotelData.includes(asset)) failures.push(`Khao Sok hotel data does not use ${asset}`);
+  if (!khaoSokHotelDataEn.includes(asset)) failures.push(`English Khao Sok hotel data does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
+const khaoSokRiversideAsset = 'khao-sok-riverside-lodge.webp';
+if (!khaoSokHotelDataEn.includes(khaoSokRiversideAsset)) failures.push(`English Khao Sok hotel data does not use ${khaoSokRiversideAsset}`);
+read(`public/images/redesign/${khaoSokRiversideAsset}`);
 const kohTaoHotelData = read('data/hotels/nl/koh-tao.ts');
 for (const asset of [
   'koh-tao-hotels-hero.webp',
@@ -575,6 +582,7 @@ for (const route of [
   '/nightlife/pattaya/',
   '/nightlife/phuket/',
   '/best-hotels/koh-tao/',
+  '/best-hotels/khao-sok/',
   '/islands/koh-tao/attractions/',
   '/islands/koh-tao/diving/',
   '/islands/koh-tao/snorkeling/',
