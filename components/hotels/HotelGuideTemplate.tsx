@@ -56,6 +56,9 @@ const copy = {
     spokeEyebrow: 'Vergelijk verder',
     spokeTitle: 'Verdiep je hotelkeuze',
     spokeDescription: 'Open een specialistische gids of hotelprofiel wanneer een specifieke stijl, locatie of accommodatie bij je shortlist past.',
+    profilesEyebrow: 'Bestaande profielen',
+    profilesTitle: 'Bekijk meer accommodaties',
+    profilesDescription: 'Deze bestaande detailgidsen blijven beschikbaar als extra vergelijkingspunten. Controleer altijd de actuele status en voorwaarden.',
     bookingEyebrow: 'Voor je reserveert',
     bookingTitle: 'Boek slimmer, niet sneller',
     faqEyebrow: 'Echte vragen uit de zoekresultaten',
@@ -97,6 +100,9 @@ const copy = {
     spokeEyebrow: 'Refine the shortlist',
     spokeTitle: 'Go deeper before you decide',
     spokeDescription: 'Open a specialist guide or hotel profile when a particular stay style, location or property belongs on your shortlist.',
+    profilesEyebrow: 'Existing profiles',
+    profilesTitle: 'Compare more published stays',
+    profilesDescription: 'Use these existing detail guides as additional comparison points, then recheck current property status and booking terms.',
     bookingEyebrow: 'Before you book',
     bookingTitle: 'Book for fit, not for a ranking',
     faqEyebrow: 'Real questions from the search results',
@@ -393,6 +399,21 @@ export default function HotelGuideTemplate({ data }: HotelGuideTemplateProps) {
                     <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl border border-saffron/25 bg-canvas text-[9px] font-extrabold text-jade">{String(index + 1).padStart(2, '0')}</span>
                     <span><strong className="block font-display text-[1.3rem] font-semibold leading-tight text-jade">{guide.title}</strong><span className="mt-2 block text-[11px] leading-5 text-charcoal/58">{guide.description}</span></span>
                     <ArrowRight size={14} className="ml-auto mt-2 shrink-0 text-saffron-dark transition group-hover:translate-x-1" />
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
+
+        {data.profileLinks && data.profileLinks.length > 0 && (
+          <section className="section-divider-bottom bg-tonal py-12 lg:py-16">
+            <div className="container-custom grid gap-7 lg:grid-cols-[0.7fr_1.3fr] lg:items-center">
+              <div><p className="eyebrow">{labels.profilesEyebrow}</p><h2 className="heading-redesign">{labels.profilesTitle}</h2><p className="mt-4 max-w-lg text-xs font-medium leading-6 text-charcoal/60">{labels.profilesDescription}</p></div>
+              <div className="grid gap-2 sm:grid-cols-2 xl:grid-cols-3">
+                {data.profileLinks.map((profile) => (
+                  <Link key={profile.href} href={profile.href} className="group flex min-h-12 items-center justify-between rounded-xl border border-jade/10 bg-canvas px-4 py-3 text-xs font-bold leading-5 text-jade transition hover:border-saffron/35 hover:bg-white">
+                    <span>{profile.title}</span><ArrowRight size={13} className="ml-3 shrink-0 text-saffron-dark transition group-hover:translate-x-1" />
                   </Link>
                 ))}
               </div>
