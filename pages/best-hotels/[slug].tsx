@@ -518,6 +518,9 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   if (locale === 'nl') {
     const { getNlHotelGuide } = await import('../../data/hotels/nl');
     redesignData = getNlHotelGuide(slug);
+  } else {
+    const { getEnHotelGuide } = await import('../../data/hotels/en');
+    redesignData = getEnHotelGuide(slug);
   }
   const data = getHotelsPage(slug);
   if (!data && !redesignData) return { notFound: true };

@@ -47,7 +47,7 @@ export interface HotelGuideData {
   citySlug: string;
   cityName: string;
   parentGuideHref?: string;
-  locale: 'nl';
+  locale: 'nl' | 'en';
   pageTitle: string;
   pageDescription: string;
   pageUrl: string;
@@ -68,6 +68,7 @@ export interface HotelGuideData {
     routes: Array<{ label: string; title: string; description: string }>;
   };
   bookingTips: Array<{ title: string; description: string }>;
+  specialistGuides?: Array<{ title: string; description: string; href: string }>;
   faqs: HotelFaq[];
   relatedGuides: HotelRelatedGuide[];
   sources: HotelSource[];
