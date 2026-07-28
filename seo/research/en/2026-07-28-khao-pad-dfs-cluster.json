@@ -1,0 +1,1531 @@
+{
+  "captured_at": "2026-07-28T02:11:11.464Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "khao pad",
+  "costs": {
+    "suggestions": 0.02436,
+    "related": 0.01668,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "khao pad",
+    "khao pad thai",
+    "thai fried rice khao pad",
+    "khao pad sapparod",
+    "khao pad chicken",
+    "khao pad gai",
+    "khao pad kaprao",
+    "khao pad kai",
+    "khao pad kaï",
+    "khao pad kra pao",
+    "khao pad recipe",
+    "khao pad thai fried rice recipe",
+    "khao pad krapow",
+    "khao pad fried rice",
+    "khao pad khai",
+    "khao pad rod fai",
+    "khao pad goong",
+    "khao pad moo",
+    "khao pad nam prik pao"
+  ],
+  "keywords": [
+    {
+      "keyword": "khao pad",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad thai",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice khao pad",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken",
+      "volume": 480,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe",
+      "volume": 390,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao beef",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao ingredients",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai egg fried rice",
+      "volume": 210,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparod",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef pad kra pao recipe",
+      "volume": 110,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad chicken",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad gai",
+      "volume": 90,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad kaprao",
+      "volume": 90,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken recipe",
+      "volume": 90,
+      "kd": 16,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad kai",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad kaï",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad kra pao",
+      "volume": 70,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad recipe",
+      "volume": 70,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad thai fried rice recipe",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai fried rice",
+      "volume": 70,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad kra pao recipe",
+      "volume": 50,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad krapow",
+      "volume": 50,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai egg fried rice recipe",
+      "volume": 50,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao seasoning",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad fried rice",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad khai",
+      "volume": 30,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad rod fai",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad goong",
+      "volume": 20,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad moo",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad nam prik pao",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad prik",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad pu",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad tom yum",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai fried rice",
+      "volume": 20,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "spicy thai basil fried rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai khao san road",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best pad thai near khao san road",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad beef",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad chicken recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad gai chicken fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad gai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad gai tod",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad gra prow",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad kai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad kapi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad karee",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad kra pao recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad kra pao rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad krapow recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad kung",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad meaning",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad naem",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad pak",
+      "volume": 10,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad phak",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad poo",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad pork",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad prik pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad pronunciation",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad ramen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad recipe authentic",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad recipe chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparod in thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparod recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparot recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sauce",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad talay",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad thai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad veg",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad vegetarian recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad vs pad thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao san road pad thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao san road pad thai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao tom pad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra prao laad khao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai khao san road",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai fried rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "spicy thai fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice recipe authentic",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai food khao pad",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice khao pad recipe",
+      "volume": 10,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice vegetarian indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice vs chinese fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai spicy rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand fried rice called",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad gai rezept",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad thamada",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic khao pad recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best pad thai in khao san",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many syns in ramen khao pad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad bai kraprow",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad chicken calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad chicken ramen",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad description",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad fried rice in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad gai calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad gai ingredients",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad gai pronunciation",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad gai sauce",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad goong sapparod",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad history",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad krapow beef",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad krapow pork",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad pla too",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad ramen recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sab pa rod",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparod calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparod near me",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparod origin",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparod pronunciation",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad sapparot ingredients",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad wiki",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao san road pad see ew",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "manathai khao lak pad thai restaurant",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pig and khao pad thai pancake",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai egg fried rice calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai egg fried rice ingredients",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai khao pad ramen",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tod man khao pad recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian khao pad recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10.846153846153847,
+      "keywordCount": 13,
+      "visibility": 3.1,
+      "estimatedTraffic": 76.316
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12.076923076923077,
+      "keywordCount": 13,
+      "visibility": 2.6999999999999997,
+      "estimatedTraffic": 56.508
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 9.083333333333334,
+      "keywordCount": 12,
+      "visibility": 5.6,
+      "estimatedTraffic": 188.49
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 17.615384615384617,
+      "keywordCount": 13,
+      "visibility": 0.9000000000000002,
+      "estimatedTraffic": 19.638
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 6.7272727272727275,
+      "keywordCount": 11,
+      "visibility": 6.449999999999999,
+      "estimatedTraffic": 589.0120000000001
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 8.454545454545455,
+      "keywordCount": 11,
+      "visibility": 6.800000000000001,
+      "estimatedTraffic": 304.25
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 23.076923076923077,
+      "keywordCount": 13,
+      "visibility": 2.55,
+      "estimatedTraffic": 38.489
+    },
+    {
+      "domain": "khinskitchen.com",
+      "avgPosition": 9.545454545454545,
+      "keywordCount": 11,
+      "visibility": 8.4,
+      "estimatedTraffic": 862.934
+    },
+    {
+      "domain": "www.thespiceodyssey.com",
+      "avgPosition": 15.090909090909092,
+      "keywordCount": 11,
+      "visibility": 1.75,
+      "estimatedTraffic": 57.568999999999996
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 9.2,
+      "keywordCount": 10,
+      "visibility": 5.449999999999999,
+      "estimatedTraffic": 112.18599999999998
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 25.25,
+      "keywordCount": 12,
+      "visibility": 2.5,
+      "estimatedTraffic": 35.277
+    },
+    {
+      "domain": "www.corianderandlace.com",
+      "avgPosition": 3.7777777777777777,
+      "keywordCount": 9,
+      "visibility": 6.55,
+      "estimatedTraffic": 340.06299999999993
+    },
+    {
+      "domain": "glebekitchen.com",
+      "avgPosition": 9,
+      "keywordCount": 9,
+      "visibility": 3.1,
+      "estimatedTraffic": 101.374
+    },
+    {
+      "domain": "thatspicychick.com",
+      "avgPosition": 13.444444444444445,
+      "keywordCount": 9,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 24.567
+    },
+    {
+      "domain": "www.willcookforsmiles.com",
+      "avgPosition": 17.555555555555557,
+      "keywordCount": 9,
+      "visibility": 0.35,
+      "estimatedTraffic": 16.508
+    },
+    {
+      "domain": "twoplaidaprons.com",
+      "avgPosition": 31.3,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.818000000000001
+    },
+    {
+      "domain": "thecinnamonjar.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 9,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.8870000000000005
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 21.125,
+      "keywordCount": 8,
+      "visibility": 0.8,
+      "estimatedTraffic": 14.256
+    },
+    {
+      "domain": "www.pinterest.com",
+      "avgPosition": 23.625,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 9.521
+    },
+    {
+      "domain": "cinnamonsnail.com",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 11.040999999999999
+    },
+    {
+      "domain": "cookpad.com",
+      "avgPosition": 50.4,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 7.434000000000001
+    },
+    {
+      "domain": "www.asiamarket.ie",
+      "avgPosition": 19.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 8.341000000000001
+    },
+    {
+      "domain": "whattocooktoday.com",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.45,
+      "estimatedTraffic": 8.479000000000001
+    },
+    {
+      "domain": "www.whenavagabondcooks.com",
+      "avgPosition": 33,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 6.9300000000000015
+    },
+    {
+      "domain": "delishglobe.com",
+      "avgPosition": 48.666666666666664,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 7.224000000000002
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 43.625,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.525
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 36,
+      "keywordCount": 7,
+      "visibility": 1.2,
+      "estimatedTraffic": 12.931000000000001
+    },
+    {
+      "domain": "falktime.com",
+      "avgPosition": 38.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 6.888000000000002
+    },
+    {
+      "domain": "www.cookingwithnart.com",
+      "avgPosition": 28.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 6.783000000000001
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.55,
+      "estimatedTraffic": 8.659
+    },
+    {
+      "domain": "www.food.com",
+      "avgPosition": 47.625,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 5.229
+    },
+    {
+      "domain": "modernfamilycook.com",
+      "avgPosition": 41,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 3.0239999999999996
+    },
+    {
+      "domain": "www.curiouscuisiniere.com",
+      "avgPosition": 56,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 7.224000000000002
+    },
+    {
+      "domain": "www.etsy.com",
+      "avgPosition": 21.6,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 13.794
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 7.5,
+      "keywordCount": 4,
+      "visibility": 3,
+      "estimatedTraffic": 63.986999999999995
+    },
+    {
+      "domain": "www.epicurious.com",
+      "avgPosition": 13.25,
+      "keywordCount": 4,
+      "visibility": 0.6499999999999999,
+      "estimatedTraffic": 3.584
+    },
+    {
+      "domain": "susiecooksthai.com",
+      "avgPosition": 30.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.thefoodieluv.com",
+      "avgPosition": 44,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 4.746
+    },
+    {
+      "domain": "cuisineatlas.com",
+      "avgPosition": 63.888888888888886,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 7.224000000000002
+    },
+    {
+      "domain": "www.whiskaffair.com",
+      "avgPosition": 48.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 6.783000000000001
+    },
+    {
+      "domain": "thai-awesome.com",
+      "avgPosition": 55.857142857142854,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 6.9300000000000015
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 23,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.183
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 23.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.631
+    },
+    {
+      "domain": "thailandatho.me",
+      "avgPosition": 62.875,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 7.077000000000002
+    },
+    {
+      "domain": "www.thaizeit.de",
+      "avgPosition": 64,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 7.077000000000002
+    },
+    {
+      "domain": "www.foodandwine.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 10.928999999999998
+    },
+    {
+      "domain": "www.bigoven.com",
+      "avgPosition": 52.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 6.741000000000001
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 31.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.7809999999999997
+    },
+    {
+      "domain": "www.theguardian.com",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 3.7909999999999995
+    },
+    {
+      "domain": "www.takeaway.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 18.991
+    }
+  ]
+}

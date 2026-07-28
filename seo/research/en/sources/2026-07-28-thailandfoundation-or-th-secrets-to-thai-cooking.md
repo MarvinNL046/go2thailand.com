@@ -1,6 +1,6 @@
 # DFS parsed source — https://thailandfoundation.or.th/secrets-to-thai-cooking/
 
-**Captured:** 2026-07-28T01:24:00.763Z
+**Captured:** 2026-07-28T02:13:50.424Z
 **Cost:** 0.00015
 **HTTP status:** 200
 

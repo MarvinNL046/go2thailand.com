@@ -1,0 +1,701 @@
+{
+  "captured_at": "2026-07-28T02:13:51.390Z",
+  "locale": "en",
+  "url": "https://www.food.gov.uk/safety-hygiene/home-food-fact-checker",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "We use some essential cookies to make this website work.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We also use cookies set by other sites to help us deliver content from their services.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "You have accepted additional cookies. You can change your cookie settings at any time.",
+          "url": "https://www.gov.uk/help/cookies",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/cookies",
+              "anchor_text": "change your cookie settings"
+            }
+          ]
+        },
+        {
+          "text": "You have rejected additional cookies. You can change your cookie settings at any time.",
+          "url": "https://www.gov.uk/help/cookies",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/cookies",
+              "anchor_text": "change your cookie settings"
+            }
+          ]
+        },
+        {
+          "text": "Departments, agencies and public bodies",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "News stories, speeches, letters and notices",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Detailed guidance, regulations and rules",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Reports, analysis and official statistics",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Data, Freedom of Information releases and corporate reports",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Births, death, marriages and care",
+          "url": "https://www.gov.uk/browse/births-deaths-marriages",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/births-deaths-marriages",
+              "anchor_text": "Births, death, marriages and care"
+            }
+          ]
+        },
+        {
+          "text": "Business and self-employed",
+          "url": "https://www.gov.uk/browse/business",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/business",
+              "anchor_text": "Business and self-employed"
+            }
+          ]
+        },
+        {
+          "text": "Childcare and parenting",
+          "url": "https://www.gov.uk/browse/childcare-parenting",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/childcare-parenting",
+              "anchor_text": "Childcare and parenting"
+            }
+          ]
+        },
+        {
+          "text": "Citizenship and living in the UK",
+          "url": "https://www.gov.uk/browse/citizenship",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/citizenship",
+              "anchor_text": "Citizenship and living in the UK"
+            }
+          ]
+        },
+        {
+          "text": "Crime, justice and the law",
+          "url": "https://www.gov.uk/browse/justice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/justice",
+              "anchor_text": "Crime, justice and the law"
+            }
+          ]
+        },
+        {
+          "text": "Disabled people",
+          "url": "https://www.gov.uk/browse/disabilities",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/disabilities",
+              "anchor_text": "Disabled people"
+            }
+          ]
+        },
+        {
+          "text": "Driving and transport",
+          "url": "https://www.gov.uk/browse/driving",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/driving",
+              "anchor_text": "Driving and transport"
+            }
+          ]
+        },
+        {
+          "text": "Education and learning",
+          "url": "https://www.gov.uk/browse/education",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/education",
+              "anchor_text": "Education and learning"
+            }
+          ]
+        },
+        {
+          "text": "Employing people",
+          "url": "https://www.gov.uk/browse/employing-people",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/employing-people",
+              "anchor_text": "Employing people"
+            }
+          ]
+        },
+        {
+          "text": "Environment and countryside",
+          "url": "https://www.gov.uk/browse/environment-countryside",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/environment-countryside",
+              "anchor_text": "Environment and countryside"
+            }
+          ]
+        },
+        {
+          "text": "Housing and local services",
+          "url": "https://www.gov.uk/browse/housing-local-services",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/housing-local-services",
+              "anchor_text": "Housing and local services"
+            }
+          ]
+        },
+        {
+          "text": "Money and tax",
+          "url": "https://www.gov.uk/browse/tax",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/tax",
+              "anchor_text": "Money and tax"
+            }
+          ]
+        },
+        {
+          "text": "Passports, travel and living abroad",
+          "url": "https://www.gov.uk/browse/abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad",
+              "anchor_text": "Passports, travel and living abroad"
+            }
+          ]
+        },
+        {
+          "text": "Visas and immigration",
+          "url": "https://www.gov.uk/browse/visas-immigration",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/visas-immigration",
+              "anchor_text": "Visas and immigration"
+            }
+          ]
+        },
+        {
+          "text": "Working, jobs and pensions",
+          "url": "https://www.gov.uk/browse/working",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/working",
+              "anchor_text": "Working, jobs and pensions"
+            }
+          ]
+        },
+        {
+          "text": "Consultations and strategy",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Health and social care",
+          "url": "https://www.gov.uk/health-and-social-care",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/health-and-social-care",
+              "anchor_text": "Health and social care"
+            }
+          ]
+        },
+        {
+          "text": "Public health",
+          "url": "https://www.gov.uk/health-and-social-care/public-health",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/health-and-social-care/public-health",
+              "anchor_text": "Public health"
+            }
+          ]
+        },
+        {
+          "text": "Health protection",
+          "url": "https://www.gov.uk/health-and-social-care/health-protection",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/health-and-social-care/health-protection",
+              "anchor_text": "Health protection"
+            }
+          ]
+        },
+        {
+          "text": "Food safety",
+          "url": "https://www.gov.uk/health-and-social-care/food-safety",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/health-and-social-care/food-safety",
+              "anchor_text": "Food safety"
+            }
+          ]
+        },
+        {
+          "text": "Food hygiene at home",
+          "url": "https://www.gov.uk/health-and-social-care/food-hygiene-at-home",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/health-and-social-care/food-hygiene-at-home",
+              "anchor_text": "Food hygiene at home"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Births, death, marriages and care",
+          "url": "https://www.gov.uk/browse/births-deaths-marriages",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/births-deaths-marriages",
+              "anchor_text": "Births, death, marriages and care"
+            }
+          ]
+        },
+        {
+          "text": "Business and self-employed",
+          "url": "https://www.gov.uk/browse/business",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/business",
+              "anchor_text": "Business and self-employed"
+            }
+          ]
+        },
+        {
+          "text": "Childcare and parenting",
+          "url": "https://www.gov.uk/browse/childcare-parenting",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/childcare-parenting",
+              "anchor_text": "Childcare and parenting"
+            }
+          ]
+        },
+        {
+          "text": "Citizenship and living in the UK",
+          "url": "https://www.gov.uk/browse/citizenship",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/citizenship",
+              "anchor_text": "Citizenship and living in the UK"
+            }
+          ]
+        },
+        {
+          "text": "Crime, justice and the law",
+          "url": "https://www.gov.uk/browse/justice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/justice",
+              "anchor_text": "Crime, justice and the law"
+            }
+          ]
+        },
+        {
+          "text": "Disabled people",
+          "url": "https://www.gov.uk/browse/disabilities",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/disabilities",
+              "anchor_text": "Disabled people"
+            }
+          ]
+        },
+        {
+          "text": "Driving and transport",
+          "url": "https://www.gov.uk/browse/driving",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/driving",
+              "anchor_text": "Driving and transport"
+            }
+          ]
+        },
+        {
+          "text": "Education and learning",
+          "url": "https://www.gov.uk/browse/education",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/education",
+              "anchor_text": "Education and learning"
+            }
+          ]
+        },
+        {
+          "text": "Employing people",
+          "url": "https://www.gov.uk/browse/employing-people",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/employing-people",
+              "anchor_text": "Employing people"
+            }
+          ]
+        },
+        {
+          "text": "Environment and countryside",
+          "url": "https://www.gov.uk/browse/environment-countryside",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/environment-countryside",
+              "anchor_text": "Environment and countryside"
+            }
+          ]
+        },
+        {
+          "text": "Housing and local services",
+          "url": "https://www.gov.uk/browse/housing-local-services",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/housing-local-services",
+              "anchor_text": "Housing and local services"
+            }
+          ]
+        },
+        {
+          "text": "Money and tax",
+          "url": "https://www.gov.uk/browse/tax",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/tax",
+              "anchor_text": "Money and tax"
+            }
+          ]
+        },
+        {
+          "text": "Passports, travel and living abroad",
+          "url": "https://www.gov.uk/browse/abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad",
+              "anchor_text": "Passports, travel and living abroad"
+            }
+          ]
+        },
+        {
+          "text": "Visas and immigration",
+          "url": "https://www.gov.uk/browse/visas-immigration",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/visas-immigration",
+              "anchor_text": "Visas and immigration"
+            }
+          ]
+        },
+        {
+          "text": "Working, jobs and pensions",
+          "url": "https://www.gov.uk/browse/working",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/working",
+              "anchor_text": "Working, jobs and pensions"
+            }
+          ]
+        },
+        {
+          "text": "Guidance and regulation",
+          "url": "https://www.gov.uk/search/guidance-and-regulation",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/guidance-and-regulation",
+              "anchor_text": "Guidance and regulation"
+            }
+          ]
+        },
+        {
+          "text": "Research and statistics",
+          "url": "https://www.gov.uk/search/research-and-statistics",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/research-and-statistics",
+              "anchor_text": "Research and statistics"
+            }
+          ]
+        },
+        {
+          "text": "Policy papers and consultations",
+          "url": "https://www.gov.uk/search/policy-papers-and-consultations",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/policy-papers-and-consultations",
+              "anchor_text": "Policy papers and consultations"
+            }
+          ]
+        },
+        {
+          "text": "How government works",
+          "url": "https://www.gov.uk/government/how-government-works",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/how-government-works",
+              "anchor_text": "How government works"
+            }
+          ]
+        },
+        {
+          "text": "Get involved",
+          "url": "https://www.gov.uk/government/get-involved",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/get-involved",
+              "anchor_text": "Get involved"
+            }
+          ]
+        },
+        {
+          "text": "Accessibility statement",
+          "url": "https://www.gov.uk/help/accessibility-statement",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/accessibility-statement",
+              "anchor_text": "Accessibility statement"
+            }
+          ]
+        },
+        {
+          "text": "Terms and conditions",
+          "url": "https://www.gov.uk/help/terms-conditions",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/terms-conditions",
+              "anchor_text": "Terms and conditions"
+            }
+          ]
+        },
+        {
+          "text": "Rhestr o Wasanaethau Cymraeg",
+          "url": "https://www.gov.uk/cymraeg",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/cymraeg",
+              "anchor_text": "Rhestr o Wasanaethau Cymraeg"
+            }
+          ]
+        },
+        {
+          "text": "Government Digital Service",
+          "url": "https://www.gov.uk/government/organisations/government-digital-service",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/organisations/government-digital-service",
+              "anchor_text": "Government Digital Service"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Home food fact checker",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Knowing how to store, cook and reheat food at home helps improve food safety and reduce food waste. This page has advice on some common household food safety questions like the sniff test and the egg float test",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Details",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Knowing how to store, cook and reheat food at home helps improve food safety and reduce food waste. This page has advice on some common household food safety questions like the sniff test and the egg float test",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Applies to England, Northern Ireland and Wales",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Documents",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Home food fact checker",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Home food fact checker",
+            "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+                "anchor_text": "Home food fact checker"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Updates to this page",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Published 2 June 2020",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Sign up for emails or print this page",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Explore the topic",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Food hygiene at home",
+            "url": "https://www.gov.uk/health-and-social-care/food-hygiene-at-home",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/health-and-social-care/food-hygiene-at-home",
+                "anchor_text": "Food hygiene at home"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Home food fact checker",
+        "main_title": "Home food fact checker",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Yes this page is useful",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "No this page is not useful",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thank you for your feedback",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Do not include personal or financial information like your National Insurance number or credit card details.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "To help us improve GOV.UK, we’d like to know more about your visit today. Please fill in this survey (opens in a new tab and requires JavaScript ).",
+            "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+            "urls": [
+              {
+                "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+                "anchor_text": "Please fill in this survey (opens in a new tab and requires JavaScript)"
+              },
+              {
+                "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+                "anchor_text": "and requires JavaScript"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

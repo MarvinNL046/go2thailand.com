@@ -1,0 +1,2805 @@
+{
+  "captured_at": "2026-07-28T02:11:10.089Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai fried rice",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.0216,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thai fried rice",
+    "fried rice in thai",
+    "fried rice thai",
+    "thai rice fried",
+    "thai thai fried rice",
+    "thai fried rice khao pad",
+    "pineapple fried rice thai",
+    "pineapple thai fried rice",
+    "thai fried rice pineapple",
+    "thai pineapple fried rice",
+    "fried rice recipe thai",
+    "fried rice recipes thai",
+    "fried rice thai recipe",
+    "recipe fried rice thai",
+    "thai chicken fried rice recipe",
+    "thai chicken fried rice recipes",
+    "thai food recipes fried rice",
+    "thai fried rice recipe",
+    "thai fried rice recipes"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai restaurant near me",
+      "volume": 135000,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai food near me",
+      "volume": 49500,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fried rice recipe",
+      "volume": 12100,
+      "kd": 33,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai food near me takeaway",
+      "volume": 9900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai near me",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai food near me",
+      "volume": 1900,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "halal thai food near me",
+      "volume": 1600,
+      "kd": 32,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fried rice in thai",
+      "volume": 1300,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fried rice thai",
+      "volume": 1300,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai food near me delivery",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice",
+      "volume": 1300,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai rice fried",
+      "volume": 1300,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai thai fried rice",
+      "volume": 1300,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice khao pad",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best chinese takeaway near me open now",
+      "volume": 880,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chinese takeaway near me within 1 mi",
+      "volume": 880,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai calories",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai food near me open now",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice thai",
+      "volume": 480,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple thai fried rice",
+      "volume": 480,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice pineapple",
+      "volume": 480,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice",
+      "volume": 480,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice recipe",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fried rice recipe thai",
+      "volume": 390,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fried rice recipes thai",
+      "volume": 390,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fried rice thai recipe",
+      "volume": 390,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe fried rice thai",
+      "volume": 390,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice recipe",
+      "volume": 390,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice recipes",
+      "volume": 390,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai food recipes fried rice",
+      "volume": 390,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe",
+      "volume": 390,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipes",
+      "volume": 390,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai takeaway near me",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fried rice thai style",
+      "volume": 320,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style fried rice",
+      "volume": 320,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai-style fried rice",
+      "volume": 320,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai restaurant central london",
+      "volume": 260,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice thai",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai fried rice",
+      "volume": 260,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried chicken rice",
+      "volume": 260,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice chicken",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with chicken",
+      "volume": 260,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry calories",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best chinese takeaway near me within 5 mi",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai calories",
+      "volume": 210,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "egg fried rice thai",
+      "volume": 210,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai egg fried rice",
+      "volume": 210,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried egg rice",
+      "volume": 210,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chinese fried rice near me",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near covent garden",
+      "volume": 170,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lowest calorie thai food",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai red curry calories",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai takeaway near me open now",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "basil fried rice thai",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best chinese takeaway near me within 1 mi",
+      "volume": 110,
+      "kd": 15,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai basil chicken fried rice",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice basil",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with basil",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai restaurant london michelin star",
+      "volume": 90,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best fried rice near me",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad thai fried rice recipe",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "spicy chicken fried rice thai",
+      "volume": 70,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy fried rice thai",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai fried rice",
+      "volume": 70,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice spices",
+      "volume": 70,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice spicy",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry fried rice",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai spicy chicken fried rice",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai spicy fried rice",
+      "volume": 70,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "egg fried rice recipe thai",
+      "volume": 50,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai calories wagamama",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice recipe thai",
+      "volume": 50,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice thai recipe",
+      "volume": 50,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple thai fried rice recipe",
+      "volume": 50,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai egg fried rice recipe",
+      "volume": 50,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe pineapple",
+      "volume": 50,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice recipe",
+      "volume": 50,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice recipes",
+      "volume": 50,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best authentic thai restaurant london",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "crab fried rice thai",
+      "volume": 40,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "giggling squid nutritional information",
+      "volume": 40,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "prawn fried rice thai",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai crab fried rice",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry calories",
+      "volume": 40,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice prawns",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice vegan",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice vegetarian",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with prawns",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai prawn fried rice",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai railway fried rice",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai red curry fried rice",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai veg fried rice",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai vegetable fried rice",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top rated thai near me",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top thai plympton",
+      "volume": 40,
+      "kd": 16,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegan thai fried rice",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetable fried rice thai",
+      "volume": 40,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian fried rice thai",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai fried rice",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is in thai fried rice",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is thai fried rice",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef fried rice thai",
+      "volume": 30,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to make fried rice thai",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to make thai fried rice",
+      "volume": 30,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ingredients for thai fried rice",
+      "volume": 30,
+      "kd": 61,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai calories tofu",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pork fried rice thai",
+      "volume": 30,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef fried rice",
+      "volume": 30,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice beef",
+      "volume": 30,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice ingredients",
+      "volume": 30,
+      "kd": 61,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice near me",
+      "volume": 30,
+      "kd": 53,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice pork",
+      "volume": 30,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with beef",
+      "volume": 30,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pork fried rice",
+      "volume": 30,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style chicken fried rice",
+      "volume": 30,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "basil fried rice thai recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food near me open now",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice recipe thai",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice thai recipe",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai fried rice recipe",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai fried rice",
+      "volume": 20,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe for thai basil fried rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai basil fried rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried chicken rice recipe",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice chicken recipe",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe basil",
+      "volume": 20,
+      "kd": 55,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe chicken",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice shrimp",
+      "volume": 20,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with pineapple and chicken",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with shrimp",
+      "volume": 20,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple chicken fried rice",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice chicken",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice with chicken",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai railway fried rice banana tree",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai shrimp fried rice",
+      "volume": 20,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style egg fried rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "traditional thai food near me",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is thai style fried rice",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai fried rice recipe",
+      "volume": 10,
+      "kd": 61,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai pineapple fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai pineapple fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai pineapple fried rice with chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "basil fried rice in thai",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "basil fried rice thai express",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best fried rice near me delivery",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best fried rice near me open now",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food near me menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai fried rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "calories in thai fried rice",
+      "volume": 10,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken fried rice in thai language",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "curry fried rice recipe thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "difference between fried rice and thai fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "duck fried rice thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "egg fried rice in thai language",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fried rice thai chicken",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green curry fried rice thai",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hot thai kitchen crab fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hot thai kitchen fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to make thai egg fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to make thai shrimp fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thai fried rice bad for you",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thai fried rice spicy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango fried rice thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "marion grasby thai fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai calories 1 cup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai calories per 100g",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai calories reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice hot thai kitchen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pineapple fried rice thai name",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "salted fish fried rice thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shrimp paste fried rice thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shrimp thai fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simple thai fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "spicy fried rice recipe: thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "spicy thai fried rice with chicken",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai shrimp fried rice trader joe's",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai bagoong fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai bagoong fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice chicken",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice recipe authentic",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice with chicken",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil fried rice with tofu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil shrimp fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef fried rice recipe",
+      "volume": 10,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai cashew fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken fried rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai combination fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai crab fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry fried rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai duck fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai express chicken fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai express fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai express fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai express thai fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai food plymouth market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried chicken calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried prawn and pineapple rice",
+      "volume": 10,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice balls",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice calories",
+      "volume": 10,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice chicken calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice delivery near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice marion grasby",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice name",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice pailin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe restaurant style",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice recipe vegetarian",
+      "volume": 10,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice vs basil fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice vs chinese fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with ground beef",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice with tofu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fried rice youtube",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai garlic fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai garlic fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai kitchen fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple chicken fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice recipe authentic",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple fried rice vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple pork fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pork belly fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai restaurant calories",
+      "volume": 10,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near wembley",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai rice calories 100g",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai rice dish with fried egg",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai sausage fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai shrimp fried rice near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai shrimp fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai shrimp paste fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai spicy basil chicken fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai spicy fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai spicy rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai stir fried rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai to go plymouth",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai tofu fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai tofu fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai tomato fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai veg fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai vegetable fried rice with egg",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai yellow fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand thai fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetable thai fried rice recipe",
+      "volume": 10,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai fried rice recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai green curry fried rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "my thai restaurant nutritional information",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai food near manchester",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai takeaway plymouth",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "calories in 1 cup thai fried rice",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice near london",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fried rice near manchester",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai shrimp fried rice calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 1.8421052631578947,
+      "keywordCount": 19,
+      "visibility": 17.75,
+      "estimatedTraffic": 3464.9439999999995
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 9.235294117647058,
+      "keywordCount": 17,
+      "visibility": 4.8,
+      "estimatedTraffic": 272.62399999999997
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 17.055555555555557,
+      "keywordCount": 18,
+      "visibility": 1.7500000000000002,
+      "estimatedTraffic": 89.367
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 17.111111111111104,
+      "keywordCount": 18,
+      "visibility": 1.9500000000000004,
+      "estimatedTraffic": 108.75700000000003
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 13.823529411764707,
+      "keywordCount": 17,
+      "visibility": 2.3499999999999988,
+      "estimatedTraffic": 119.15100000000001
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 6.8,
+      "keywordCount": 15,
+      "visibility": 10.650000000000002,
+      "estimatedTraffic": 1374.3850000000002
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 12.8125,
+      "keywordCount": 16,
+      "visibility": 4,
+      "estimatedTraffic": 181.26
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 22.88888888888889,
+      "keywordCount": 18,
+      "visibility": 1,
+      "estimatedTraffic": 49.95700000000001
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 13.5625,
+      "keywordCount": 16,
+      "visibility": 5.449999999999999,
+      "estimatedTraffic": 522.019
+    },
+    {
+      "domain": "www.thai-food-online.co.uk",
+      "avgPosition": 19.41176470588235,
+      "keywordCount": 17,
+      "visibility": 1.5,
+      "estimatedTraffic": 70.21900000000001
+    },
+    {
+      "domain": "www.skinnytaste.com",
+      "avgPosition": 6.357142857142857,
+      "keywordCount": 14,
+      "visibility": 6.5,
+      "estimatedTraffic": 290.836
+    },
+    {
+      "domain": "inquiringchef.com",
+      "avgPosition": 13.733333333333333,
+      "keywordCount": 15,
+      "visibility": 4.3500000000000005,
+      "estimatedTraffic": 210.25599999999997
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 3.076923076923077,
+      "keywordCount": 13,
+      "visibility": 10.3,
+      "estimatedTraffic": 963.979
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 5.461538461538462,
+      "keywordCount": 13,
+      "visibility": 7.2,
+      "estimatedTraffic": 514.033
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 21.333333333333332,
+      "keywordCount": 15,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 58.89
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 35.72222222222222,
+      "keywordCount": 18,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 29.906999999999993
+    },
+    {
+      "domain": "www.corianderandlace.com",
+      "avgPosition": 14.76923076923077,
+      "keywordCount": 13,
+      "visibility": 3.5,
+      "estimatedTraffic": 370.5850000000001
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 35,
+      "keywordCount": 17,
+      "visibility": 0.05,
+      "estimatedTraffic": 26.060999999999993
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 9.75,
+      "keywordCount": 12,
+      "visibility": 4.449999999999999,
+      "estimatedTraffic": 588.5699999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 12,
+      "visibility": 2.25,
+      "estimatedTraffic": 112.184
+    },
+    {
+      "domain": "www.cookingwithnart.com",
+      "avgPosition": 12.583333333333334,
+      "keywordCount": 12,
+      "visibility": 1.7,
+      "estimatedTraffic": 109.90899999999999
+    },
+    {
+      "domain": "cjeatsrecipes.com",
+      "avgPosition": 14.363636363636363,
+      "keywordCount": 11,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 51.45399999999999
+    },
+    {
+      "domain": "cooking.nytimes.com",
+      "avgPosition": 27.923076923076923,
+      "keywordCount": 13,
+      "visibility": 0.1,
+      "estimatedTraffic": 23.862
+    },
+    {
+      "domain": "theforkedspoon.com",
+      "avgPosition": 29.384615384615383,
+      "keywordCount": 13,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 30.881999999999998
+    },
+    {
+      "domain": "agirlandaspoon.com",
+      "avgPosition": 23.75,
+      "keywordCount": 12,
+      "visibility": 0.35,
+      "estimatedTraffic": 25.155
+    },
+    {
+      "domain": "pickledplum.com",
+      "avgPosition": 18,
+      "keywordCount": 11,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 30.862
+    },
+    {
+      "domain": "www.chilipeppermadness.com",
+      "avgPosition": 26,
+      "keywordCount": 11,
+      "visibility": 0.1,
+      "estimatedTraffic": 19.200999999999997
+    },
+    {
+      "domain": "www.manusmenu.com",
+      "avgPosition": 38.61538461538461,
+      "keywordCount": 13,
+      "visibility": 0.1,
+      "estimatedTraffic": 23.477999999999998
+    },
+    {
+      "domain": "cookieandkate.com",
+      "avgPosition": 20.9,
+      "keywordCount": 10,
+      "visibility": 3.3,
+      "estimatedTraffic": 226.60799999999998
+    },
+    {
+      "domain": "cooking.umamidays.com",
+      "avgPosition": 22.7,
+      "keywordCount": 10,
+      "visibility": 0.2,
+      "estimatedTraffic": 21.956999999999997
+    },
+    {
+      "domain": "www.chewoutloud.com",
+      "avgPosition": 37.75,
+      "keywordCount": 12,
+      "visibility": 0.05,
+      "estimatedTraffic": 20.747999999999998
+    },
+    {
+      "domain": "tastythais.com",
+      "avgPosition": 33.09090909090909,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 14.741999999999994
+    },
+    {
+      "domain": "takestwoeggs.com",
+      "avgPosition": 51.53333333333333,
+      "keywordCount": 15,
+      "visibility": 0,
+      "estimatedTraffic": 22.595999999999993
+    },
+    {
+      "domain": "www.watchwhatueat.com",
+      "avgPosition": 13.875,
+      "keywordCount": 8,
+      "visibility": 0.35,
+      "estimatedTraffic": 38.961
+    },
+    {
+      "domain": "khinskitchen.com",
+      "avgPosition": 34,
+      "keywordCount": 10,
+      "visibility": 1.5,
+      "estimatedTraffic": 360.2250000000001
+    },
+    {
+      "domain": "steenbergs.co.uk",
+      "avgPosition": 34.3,
+      "keywordCount": 10,
+      "visibility": 0.1,
+      "estimatedTraffic": 15.170999999999996
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 56.142857142857146,
+      "keywordCount": 14,
+      "visibility": 0,
+      "estimatedTraffic": 22.718999999999998
+    },
+    {
+      "domain": "tiffycooks.com",
+      "avgPosition": 38.7,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 15.833999999999996
+    },
+    {
+      "domain": "www.pantsinthekitchen.com",
+      "avgPosition": 44.36363636363637,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 18.563999999999997
+    },
+    {
+      "domain": "schoolofwok.co.uk",
+      "avgPosition": 25.125,
+      "keywordCount": 8,
+      "visibility": 0.3,
+      "estimatedTraffic": 17.844999999999995
+    },
+    {
+      "domain": "thechutneylife.com",
+      "avgPosition": 36.111111111111114,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 15.014999999999997
+    },
+    {
+      "domain": "www.cookwithkushi.com",
+      "avgPosition": 49.09090909090909,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 18.563999999999997
+    },
+    {
+      "domain": "www.whiskaffair.com",
+      "avgPosition": 54.666666666666664,
+      "keywordCount": 12,
+      "visibility": 0,
+      "estimatedTraffic": 20.663999999999998
+    },
+    {
+      "domain": "thewanderlustkitchen.com",
+      "avgPosition": 43,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 13.103999999999996
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 44.111111111111114,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 13.23
+    },
+    {
+      "domain": "www.hungryhuy.com",
+      "avgPosition": 46.22222222222222,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 13.103999999999996
+    },
+    {
+      "domain": "www.goodhousekeeping.com",
+      "avgPosition": 52.3,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 15.833999999999996
+    },
+    {
+      "domain": "app.ckbk.com",
+      "avgPosition": 56.90909090909091,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 16.841999999999995
+    },
+    {
+      "domain": "www.thaigold.eu",
+      "avgPosition": 57.36363636363637,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 18.563999999999997
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 41.375,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 12.065999999999999
+    }
+  ]
+}
