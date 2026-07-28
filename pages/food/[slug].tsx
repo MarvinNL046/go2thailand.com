@@ -13,6 +13,7 @@ import { PadThaiGuideEn } from '../../components/food/PadThaiGuideEn';
 import { MassamanCurryGuideEn } from '../../components/food/MassamanCurryGuideEn';
 import { MangoStickyRiceGuideEn } from '../../components/food/MangoStickyRiceGuideEn';
 import { GreenCurryGuideEn } from '../../components/food/GreenCurryGuideEn';
+import { PadKraPaoGuideEn } from '../../components/food/PadKraPaoGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -120,6 +121,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'green-curry') {
     return <GreenCurryGuideEn />;
+  }
+
+  if (dish.slug === 'pad-krapow') {
+    return <PadKraPaoGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
