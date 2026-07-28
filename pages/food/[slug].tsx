@@ -44,6 +44,7 @@ import { TamKhanunGuideEn } from '../../components/food/TamKhanunGuideEn';
 import { KhaoKanJinGuideEn } from '../../components/food/KhaoKanJinGuideEn';
 import { RotiCanaiGuideEn } from '../../components/food/RotiCanaiGuideEn';
 import { BuaLoyGuideEn } from '../../components/food/BuaLoyGuideEn';
+import { SukhothaiNoodlesGuideEn } from '../../components/food/SukhothaiNoodlesGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -275,6 +276,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'bua-loy') {
     return <BuaLoyGuideEn />;
+  }
+
+  if (dish.slug === 'sukhothai-noodles') {
+    return <SukhothaiNoodlesGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
