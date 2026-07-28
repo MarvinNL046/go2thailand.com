@@ -33,6 +33,7 @@ import { PlaPaoGuideEn } from '../../components/food/PlaPaoGuideEn';
 import { YamWoonSenGuideEn } from '../../components/food/YamWoonSenGuideEn';
 import { KhaoPadSapparotGuideEn } from '../../components/food/KhaoPadSapparotGuideEn';
 import { RotiSaiMaiGuideEn } from '../../components/food/RotiSaiMaiGuideEn';
+import { TomYumNoodlesGuideEn } from '../../components/food/TomYumNoodlesGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -220,6 +221,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'roti-sai-mai') {
     return <RotiSaiMaiGuideEn />;
+  }
+
+  if (dish.slug === 'tom-yum-noodles') {
+    return <TomYumNoodlesGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
