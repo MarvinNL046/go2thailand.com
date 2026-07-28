@@ -277,7 +277,7 @@ export default function HotelGuideTemplate({ data }: HotelGuideTemplateProps) {
           actions={heroActions}
           disclosure={labels.disclosure}
           gradientClassName={
-            data.citySlug === 'hat-yai' || data.citySlug === 'sukhothai' || data.citySlug === 'surat-thani'
+            data.citySlug === 'hat-yai' || data.citySlug === 'sukhothai' || data.citySlug === 'surat-thani' || data.citySlug === 'chumphon'
               ? 'bg-[linear-gradient(180deg,rgba(252,250,246,0.62)_0%,rgba(252,250,246,0.8)_44%,rgba(252,250,246,0.98)_100%)] lg:bg-[linear-gradient(90deg,rgba(252,250,246,0.98)_0%,rgba(252,250,246,0.91)_35%,rgba(252,250,246,0.28)_63%,rgba(18,63,54,0.08)_100%)]'
               : undefined
           }

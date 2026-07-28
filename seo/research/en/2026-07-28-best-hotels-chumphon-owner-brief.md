@@ -42,6 +42,6 @@ Exclude fixed prices, from-rates, copied scores, universal `best` or `cheapest` 
 ## Intended implementation
 
 - Reuse the bilingual `HotelGuideTemplate`; create independent English Chumphon data.
-- Target eight current source-verifiable picks spanning city/station, riverside road, Thung Wua Laen, Pathio/airport and Pak Nam-led bases. Candidate set: A-Te, Retro Box, HOP INN, Villa Varich, Chumphon Cabana, SARA, Palm Sweet and Novotel Chumphon, subject to final first-party verification.
+- Target eight current source-verifiable picks spanning city/station, riverside road, Thung Wua Laen, Pathio/airport and Pak Nam-led bases. Candidate set: A-Te, Retro Box, HOP INN, Villa Varich, Chumphon Cabana, SARA, Palm Sweet and The Nest, subject to final first-party verification. The former Novotel is excluded because it now trades as The Nouveau and no durable first-party property source was found during the current check.
 - Preserve all ten current Chumphon property-profile routes and keep complete geography, destination, attraction and transport owners independent.
 - Use live-price wording only. Amazon is not a natural hotel-selection fit and should stay absent here.
