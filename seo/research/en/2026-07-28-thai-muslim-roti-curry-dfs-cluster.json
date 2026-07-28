@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T08:09:11.373Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai muslim roti curry",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thai muslim roti curry"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai muslim roti curry",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
