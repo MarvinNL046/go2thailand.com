@@ -31,6 +31,7 @@ import { KhanomJeenNamYaGuideEn } from '../../components/food/KhanomJeenNamYaGui
 import { HoiTodGuideEn } from '../../components/food/HoiTodGuideEn';
 import { PlaPaoGuideEn } from '../../components/food/PlaPaoGuideEn';
 import { YamWoonSenGuideEn } from '../../components/food/YamWoonSenGuideEn';
+import { KhaoPadSapparotGuideEn } from '../../components/food/KhaoPadSapparotGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -210,6 +211,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'yam-woon-sen') {
     return <YamWoonSenGuideEn />;
+  }
+
+  if (dish.slug === 'khao-pad-sapparot') {
+    return <KhaoPadSapparotGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
