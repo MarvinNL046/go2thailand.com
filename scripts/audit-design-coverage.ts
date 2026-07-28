@@ -39,6 +39,14 @@ const requestTimeout = Math.max(
   5_000,
   Number(process.env.DESIGN_AUDIT_TIMEOUT_MS || 30_000),
 );
+const reuseReport = process.env.DESIGN_AUDIT_REUSE_REPORT;
+const refreshRoutes = new Set(
+  (process.env.DESIGN_AUDIT_REFRESH_ROUTES || "")
+    .split(",")
+    .map((value) => value.trim())
+    .filter(Boolean)
+    .map(normalisePath),
+);
 
 const markerTests: Array<[string, RegExp]> = [
   ["canvas", /\bbg-canvas\b/],
@@ -187,7 +195,49 @@ async function main(): Promise<void> {
   console.log(
     `Rendered design coverage: ${inventory.length} route(s) on ${baseUrl} (${locales.join(", ")}, concurrency ${concurrency}).`,
   );
-  const results = await runPool(inventory, (row) => inspectRoute(row, owners));
+  const reused: RouteResult[] = [];
+  let pending = inventory;
+  if (reuseReport) {
+    const previous = JSON.parse(
+      readFileSync(resolve(PROJECT_ROOT, reuseReport), "utf8"),
+    ) as { routes?: RouteResult[] };
+    const previousByRoute = new Map(
+      (previous.routes || []).map((row) => [
+        `${row.locale}:${normalisePath(row.path)}`,
+        row,
+      ]),
+    );
+    pending = [];
+    for (const row of inventory) {
+      const key = `${row.locale}:${normalisePath(row.path)}`;
+      const previousRow = previousByRoute.get(key);
+      if (!previousRow || refreshRoutes.has(normalisePath(row.path))) {
+        pending.push(row);
+        continue;
+      }
+      reused.push({
+        ...previousRow,
+        ...row,
+        trackedOwner:
+          owners.get(row.locale)?.has(normalisePath(row.path)) || false,
+      });
+    }
+    console.log(
+      `  reuse ${reused.length} route result(s); refresh ${pending.length} from ${reuseReport}.`,
+    );
+  }
+  const inspected = await runPool(pending, (row) => inspectRoute(row, owners));
+  const resultByRoute = new Map(
+    [...reused, ...inspected].map((row) => [
+      `${row.locale}:${normalisePath(row.path)}`,
+      row,
+    ]),
+  );
+  const results = inventory.map((row) => {
+    const result = resultByRoute.get(`${row.locale}:${normalisePath(row.path)}`);
+    if (!result) throw new Error(`Missing design audit result for ${row.locale}:${row.path}`);
+    return result;
+  });
   const capturedAt = new Date().toISOString();
   const date = capturedAt.slice(0, 10);
   const localeKey = locales.length === 2 ? "all" : locales[0];

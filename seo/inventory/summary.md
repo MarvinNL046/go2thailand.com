@@ -1,11 +1,11 @@
 # Route inventory
 
-Generated: 2026-07-28T16:03:44.678Z
+Generated: 2026-07-28T16:55:05.217Z
 
-- Total sitemap URLs: 2276
-- English URLs: 1583
-- Dutch URLs: 693
-- URLs without a language pair: 936
+- Total sitemap URLs: 2292
+- English URLs: 1589
+- Dutch URLs: 703
+- URLs without a language pair: 940
 
 ## Page families
 
@@ -17,16 +17,16 @@ Generated: 2026-07-28T16:03:44.678Z
 | comparison | 1 |
 | destination-detail | 66 |
 | destination-index | 2 |
-| destination-pillar | 68 |
+| destination-pillar | 70 |
 | destination-subpillar | 185 |
 | food-drink | 145 |
 | homepage | 2 |
-| hotel-commercial | 194 |
+| hotel-commercial | 195 |
 | hotel-detail | 429 |
-| island | 22 |
+| island | 25 |
 | itinerary | 30 |
 | location-directory | 54 |
-| other | 55 |
+| other | 65 |
 | phuket-location | 30 |
 | practical | 29 |
 | region | 10 |
@@ -40,10 +40,10 @@ Generated: 2026-07-28T16:03:44.678Z
 |---|---:|
 | freshness-audit | 635 |
 | indexation-audit | 429 |
-| keep-improve | 468 |
-| manual-audit | 55 |
+| keep-improve | 471 |
+| manual-audit | 65 |
 | merge-candidate | 55 |
-| template-audit | 320 |
+| template-audit | 323 |
 | template-improve | 314 |
 
 ## Decision rules

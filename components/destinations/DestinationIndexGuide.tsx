@@ -210,6 +210,13 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
 
         <section id="alle-bestemmingen" className="section-divider-bottom scroll-mt-28 bg-tonal py-16 lg:py-24">
           <div className="container-custom">
+            <p className="mb-7 max-w-3xl text-sm font-medium leading-7 text-charcoal/65">
+              Zoek je een stille treinbestemming aan de Golfkust in plaats van een bekende badplaats? Lees dan onze complete{' '}
+              <Link href="/city/ban-krut/" className="font-extrabold text-jade underline decoration-saffron/45 underline-offset-4">
+                reisgids voor Ban Krut
+              </Link>
+              , met strandzones, Wat Thang Sai en praktische laatste-transferkeuzes.
+            </p>
             <div className="flex flex-col gap-7 lg:flex-row lg:items-end lg:justify-between">
               <SectionHeading eyebrow="De complete gids" title="Vind jouw bestemming" description="Zoek op plaats of provincie en filter op regio. De kaarten brengen je naar de volledige gids met bezienswaardigheden, eten, verblijf en praktische informatie." />
               <div className="w-full max-w-[620px] space-y-3">

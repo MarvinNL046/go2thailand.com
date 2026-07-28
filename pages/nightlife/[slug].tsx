@@ -7,6 +7,7 @@ import fs from 'fs';
 import path from 'path';
 import { PattayaNightlifeGuide } from '../../components/nightlife/PattayaNightlifeGuide';
 import { PattayaNightlifeGuideEn } from '../../components/nightlife/PattayaNightlifeGuideEn';
+import { nlCityOwner, nlFoodOwner } from '../../lib/nl-route-owners';
 
 interface Venue {
   name: string;
@@ -331,11 +332,11 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                 {isNl ? `Ontdek restaurants, bezienswaardigheden en de complete reisgids voor ${cityName}.` : `Discover restaurants, attractions, and the complete travel guide for ${cityName}.`}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Link href={`/city/${slug}/`} className="btn-primary">
+                <Link href={isNl ? nlCityOwner(slug) : `/city/${slug}/`} className="btn-primary">
                   {isNl ? `Complete ${cityName} Gids` : `Complete ${cityName} Guide`}
                 </Link>
-                <Link href={`/city/${slug}/top-10-restaurants/`} className="btn-secondary">
-                  Top 10 Restaurants
+                <Link href={isNl ? nlFoodOwner(slug) : `/city/${slug}/top-10-restaurants/`} className="btn-secondary">
+                  {isNl ? 'Eten & restaurants' : 'Top 10 Restaurants'}
                 </Link>
               </div>
             </div>

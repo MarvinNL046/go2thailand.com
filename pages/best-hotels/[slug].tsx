@@ -10,7 +10,7 @@ import type { HotelsPage, ClusterHotel } from '../../lib/cluster-types';
 import { getAffiliates, CityAffiliates, TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import HotelGuideTemplate from '../../components/hotels/HotelGuideTemplate';
 import type { HotelGuideData } from '../../data/hotels/types';
-import { nlAttractionsOwner, nlCityOwner } from '../../lib/nl-route-owners';
+import { nlAttractionsOwner, nlCityOwner, normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
@@ -235,8 +235,11 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
   }, {} as Record<string, ClusterHotel[]>);
 
   const areas = extractAreas(data.hotels);
+  const localizedRelatedLinks = isNl
+    ? relatedLinks.map(link => ({ ...link, href: normalizeNlInternalHref(link.href) }))
+    : relatedLinks;
   const specialistHrefs = new Set(hotelGuideLinks.map(link => link.href));
-  const remainingRelatedLinks = relatedLinks.filter(link => !specialistHrefs.has(link.href));
+  const remainingRelatedLinks = localizedRelatedLinks.filter(link => !specialistHrefs.has(link.href));
 
   return (
     <>
@@ -259,10 +262,10 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
                 </p>
                 <div className="mt-7 flex flex-wrap gap-3">
                   <a href="#hotel-shortlist" className="inline-flex min-h-11 items-center rounded-lg bg-jade px-5 text-xs font-bold text-white transition hover:bg-jade-dark">
-                    Compare the shortlist →
+                    {isNl ? 'Vergelijk de shortlist →' : 'Compare the shortlist →'}
                   </a>
-                  <Link href={`/where-to-stay/${data.citySlug}/`} className="inline-flex min-h-11 items-center rounded-lg border border-saffron/45 bg-white/70 px-5 text-xs font-bold text-saffron-dark transition hover:bg-white">
-                    Choose your area →
+                  <Link href={isNl ? '#gebieden' : `/where-to-stay/${data.citySlug}/`} className="inline-flex min-h-11 items-center rounded-lg border border-saffron/45 bg-white/70 px-5 text-xs font-bold text-saffron-dark transition hover:bg-white">
+                    {isNl ? 'Vergelijk gebieden →' : 'Choose your area →'}
                   </Link>
                 </div>
               </div>
@@ -290,7 +293,7 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
 
           {/* Choosing your area — neighbourhood narrative */}
           {areas.length > 1 && (
-            <section className="mb-12">
+            <section id="gebieden" className="mb-12 scroll-mt-28">
               <h2 className="text-3xl font-bold text-gray-900 mb-2">{isNl ? `Kies Je Wijk in ${data.cityName}` : `Choosing Your Area in ${data.cityName}`}</h2>
               <p className="text-gray-600 mb-6 max-w-2xl">
                 {isNl ? `Locatie is de belangrijkste hotelbeslissing in ${data.cityName}. De juiste wijk bespaart tijd, verlaagt vervoerskosten en brengt je dichter bij de ervaringen waarvoor je komt.` : `Location is the single most important hotel decision in ${data.cityName}. The right neighbourhood saves time, reduces transport costs and puts you closer to the experiences you came for. Here is what each area offers.`}

@@ -10,21 +10,29 @@ const nlCitiesWithoutOwner = new Set([
 
 const localizedPhuketHotelCategories = new Set(['all-inclusive', 'family', 'resorts']);
 const nlWeatherOwners = new Set(['bangkok', 'chiang-mai', 'koh-samui', 'krabi', 'phuket']);
+const nlCitiesWithoutHotelOwner = new Set(['ban-krut']);
 const nlAttractionDetailOwners = new Set([
   '/city/chiang-rai/attractions/blue-temple/',
   '/city/koh-samui/attractions/wat-plai-laem/',
 ]);
 
 export function nlCityOwner(citySlug: string): string {
+  if (citySlug === 'koh-tao') return '/islands/koh-tao/';
   return nlCitiesWithoutOwner.has(citySlug) ? '/city/' : `/city/${citySlug}/`;
 }
 
 export function nlAttractionsOwner(citySlug: string): string {
+  if (citySlug === 'koh-tao') return '/islands/koh-tao/attractions/';
   return nlCitiesWithoutOwner.has(citySlug) ? '/activities/' : `/city/${citySlug}/attractions/`;
 }
 
 export function nlFoodOwner(citySlug: string): string {
+  if (citySlug === 'koh-tao') return '/food/';
   return nlCitiesWithoutOwner.has(citySlug) ? '/food/' : `/city/${citySlug}/food/`;
+}
+
+export function nlHotelOwner(citySlug: string): string {
+  return nlCitiesWithoutHotelOwner.has(citySlug) ? '/where-to-stay/' : `/best-hotels/${citySlug}/`;
 }
 
 export function normalizeNlInternalHref(href: string): string {
@@ -63,8 +71,11 @@ export function normalizeNlInternalHref(href: string): string {
 
   match = pathname.match(/^\/best-hotels\/([^/]+)\/([^/]+)\/$/);
   if (match && (match[1] !== 'phuket' || !localizedPhuketHotelCategories.has(match[2]))) {
-    pathname = `/best-hotels/${match[1]}/`;
+    pathname = nlHotelOwner(match[1]);
   }
+
+  match = pathname.match(/^\/best-hotels\/([^/]+)\/$/);
+  if (match) pathname = nlHotelOwner(match[1]);
 
   match = pathname.match(/^\/destinations\/([^/]+)\/$/);
   if (match) pathname = nlCityOwner(match[1]);
@@ -73,7 +84,7 @@ export function normalizeNlInternalHref(href: string): string {
   if (match) pathname = nlAttractionsOwner(match[1]);
 
   match = pathname.match(/^\/city\/([^/]+)\/(?:hotels|top-10-hotels)\/$/);
-  if (match) pathname = `/best-hotels/${match[1]}/`;
+  if (match) pathname = nlHotelOwner(match[1]);
 
   match = pathname.match(/^\/city\/([^/]+)\/top-10-attractions\/$/);
   if (match) pathname = nlAttractionsOwner(match[1]);

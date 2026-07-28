@@ -377,7 +377,25 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const cities = getAllCities();
+  const indexedCities = getAllCities();
+  // Ban Krut has independently researched EN and NL destination owners but is
+  // intentionally not part of the legacy city registry, which would also
+  // publish unsupported hotel/weather/attraction subpages. Include it only in
+  // this directory page so both owners receive a natural editorial entry.
+  const cities = indexedCities.some(city => city.slug === 'ban-krut')
+    ? indexedCities
+    : [
+        ...indexedCities,
+        {
+          id: 10_001,
+          slug: 'ban-krut',
+          name: { en: 'Ban Krut', nl: 'Ban Krut' },
+          region: 'Southern',
+          province: 'Prachuap Khiri Khan',
+          image: '/images/redesign/ban-krut-destination-hero.webp',
+          highlights: ['Quiet Gulf coast', 'Wat Thang Sai', 'Train destination'],
+        },
+      ];
 
   return {
     props: {

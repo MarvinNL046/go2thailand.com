@@ -7,6 +7,10 @@ const baseUrl = process.env.SITE_VERIFY_BASE_URL || 'http://localhost:3000';
 const publicOrigin = 'https://go2-thailand.com';
 const concurrency = Math.max(1, Number(process.env.SITE_VERIFY_CONCURRENCY || 2));
 const researchDate = '2026-07-26';
+const unpairedRoutes = JSON.parse(
+  readFileSync(resolve(projectRoot, 'seo', 'inventory', 'unpaired-routes.json'), 'utf8'),
+) as { nlOnly: string[] };
+const nlOnlyRoutes = new Set(unpairedRoutes.nlOnly);
 
 interface KeywordRow { route: string; status: string; notes: string }
 interface RouteConfig {
@@ -162,7 +166,10 @@ async function inspectRoute(config: RouteConfig, row: KeywordRow): Promise<Route
   const canonicalHref = getAttribute(canonical || '', 'href');
   if (!canonicalHref || normalizedPath(canonicalHref) !== config.route) errors.push(`self-canonical ontbreekt of is onjuist: ${canonicalHref || 'ontbreekt'}`);
   const hreflangs = linkTags.filter((tag) => getAttribute(tag, 'rel')?.split(/\s+/).includes('alternate')).map((tag) => getAttribute(tag, 'hreflang'));
-  for (const required of ['en', 'nl', 'x-default']) if (!hreflangs.includes(required)) errors.push(`hreflang ${required} ontbreekt`);
+  const localeNeutralRoute = config.route.replace(/^\/nl/, '');
+  const requiredHreflangs = nlOnlyRoutes.has(localeNeutralRoute) ? ['nl', 'x-default'] : ['en', 'nl', 'x-default'];
+  for (const required of requiredHreflangs) if (!hreflangs.includes(required)) errors.push(`hreflang ${required} ontbreekt`);
+  if (nlOnlyRoutes.has(localeNeutralRoute) && hreflangs.includes('en')) errors.push('NL-only owner publiceert ten onrechte een Engelse hreflang');
 
   const schemas = collectSchemas(html, errors);
   const schemaTypes = new Set(schemas.map((schema) => String(schema['@type'] || '')));

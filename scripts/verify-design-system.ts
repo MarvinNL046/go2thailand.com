@@ -560,6 +560,27 @@ for (const [label, source, destination] of [
 }
 const nlSitemap = read('public/sitemap-nl.xml');
 if (/\/nl\/city\/[^/]+\/top-10-(?:attractions|restaurants)\//.test(nlSitemap)) failures.push('NL sitemap still contains consolidated city top-10 routes');
+const enSitemap = read('public/sitemap.xml');
+for (const route of [
+  '/city/ban-krut/',
+  '/nightlife/',
+  '/nightlife/bangkok/',
+  '/nightlife/chiang-mai/',
+  '/nightlife/pattaya/',
+  '/nightlife/phuket/',
+]) {
+  if (!enSitemap.includes(`https://go2-thailand.com${route}`)) failures.push(`EN sitemap misses bilingual owner ${route}`);
+  if (!nlSitemap.includes(`https://go2-thailand.com/nl${route}`)) failures.push(`NL sitemap misses bilingual owner ${route}`);
+}
+for (const route of [
+  '/best-hotels/koh-tao/',
+  '/islands/koh-tao/attractions/',
+  '/islands/koh-tao/diving/',
+  '/islands/koh-tao/snorkeling/',
+]) {
+  if (!nlSitemap.includes(`https://go2-thailand.com/nl${route}`)) failures.push(`NL sitemap misses locale-only owner ${route}`);
+  if (enSitemap.includes(`https://go2-thailand.com${route}`)) failures.push(`EN sitemap incorrectly contains NL-only owner ${route}`);
+}
 const phuketDestinationData = read('data/destinations/nl/phuket.ts');
 for (const asset of [
   'phuket-destination-hero-v2.webp',
