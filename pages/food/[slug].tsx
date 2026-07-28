@@ -38,6 +38,7 @@ import { KhaoMokGaiGuideEn } from '../../components/food/KhaoMokGaiGuideEn';
 import { GoongPadMakhamGuideEn } from '../../components/food/GoongPadMakhamGuideEn';
 import { TomSomPlaGuideEn } from '../../components/food/TomSomPlaGuideEn';
 import { GaiTodHatYaiGuideEn } from '../../components/food/GaiTodHatYaiGuideEn';
+import { KhaoYamGuideEn } from '../../components/food/KhaoYamGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -245,6 +246,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'gai-tod-hat-yai') {
     return <GaiTodHatYaiGuideEn />;
+  }
+
+  if (dish.slug === 'khao-yam') {
+    return <KhaoYamGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
