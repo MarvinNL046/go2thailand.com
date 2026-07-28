@@ -394,7 +394,7 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                       <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s023_chiang_mai_khao_soi")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline font-semibold">{t("s024_full_khao_soi_guide")}</Link>
+                      <Link href="/blog/khao-soi-chiang-mai-guide/" className="text-thailand-blue hover:underline font-semibold">{t("s024_full_khao_soi_guide")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
                       <Link href="/blog/khao-soi-chiang-mai-guide/" className="text-thailand-blue hover:underline font-semibold">{t("s025_where_to_eat_khao")}</Link>
                     </p>
@@ -511,7 +511,7 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                 </p>
                 <p className="text-gray-700 leading-relaxed mb-2">
                   <strong>{t("s051_signature_dishes")}</strong>{' '}
-                  <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline">{t("s060_khao_soi")}</Link>,{' '}
+                  <Link href="/blog/khao-soi-chiang-mai-guide/" className="text-thailand-blue hover:underline">{t("s060_khao_soi")}</Link>,{' '}
                   <Link href="/food/sai-ua/" className="text-thailand-blue hover:underline">{t("s061_sai_oua_herb_sausage")}</Link>,{' '}
                   <Link href="/food/nam-prik-ong/" className="text-thailand-blue hover:underline">{t("s062_nam_prik_ong")}</Link>,{' '}
                   <Link href="/food/gaeng-hang-lay/" className="text-thailand-blue hover:underline">{t("s063_gaeng_hang_lay")}</Link>,{' '}
@@ -761,7 +761,7 @@ export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
                         <ul className="mt-2 divide-y divide-white/8">
                           {groupDishes.map((dish) => (
                             <li key={dish.slug}>
-                              <Link href={`/food/${dish.slug}/`} className="group flex min-h-11 items-center justify-between gap-3 py-2 text-xs font-bold text-white/72 transition hover:text-white">
+                              <Link href={dish.slug === 'khao-soi' ? '/blog/khao-soi-chiang-mai-guide/' : `/food/${dish.slug}/`} className="group flex min-h-11 items-center justify-between gap-3 py-2 text-xs font-bold text-white/72 transition hover:text-white">
                                 <span>{dish.name.en}</span>
                                 <span aria-hidden="true" className="text-saffron-light transition group-hover:translate-x-1">&rarr;</span>
                               </Link>

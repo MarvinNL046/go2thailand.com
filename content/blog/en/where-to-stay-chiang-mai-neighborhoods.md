@@ -284,7 +284,7 @@ Chiang Mai is compact—you can cross the entire Old City on foot in 30 minutes.
 
 **Huay Kaew:** International restaurants, shopping mall food courts, and chain establishments. Convenient but lacking character. Prices range 100-400 THB depending on the restaurant.
 
-For a deeper dive into local cuisine, check our guide to [Khao Soi](https://go2-thailand.com/food/khao-soi/), Chiang Mai's signature dish.
+For a deeper dive into local cuisine, check our guide to [Khao Soi](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/), Chiang Mai's signature dish.
 
 ## 10. Practical Tips for Choosing Your Chiang Mai Neighborhood
 

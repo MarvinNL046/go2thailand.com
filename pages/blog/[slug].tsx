@@ -72,6 +72,7 @@ import { HowLongThailandGuideEn } from '../../components/planning/HowLongThailan
 import { BestTimeThailandGuideEn } from '../../components/planning/BestTimeThailandGuideEn';
 import BtsBangkokConcertGuideEn from '../../components/events/BtsBangkokConcertGuideEn';
 import ChiangMaiChiangRaiComparisonGuideEn from '../../components/compare/ChiangMaiChiangRaiComparisonGuideEn';
+import { KhaoSoiGuideEn } from '../../components/food/KhaoSoiGuideEn';
 
 interface Source {
   name: string;
@@ -331,6 +332,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
   }
   if (locale === 'en' && post.slug === 'chiang-rai-vs-chiang-mai-for-tourists') {
     return <ChiangMaiChiangRaiComparisonGuideEn />;
+  }
+  if (locale === 'en' && post.slug === 'khao-soi-chiang-mai-guide') {
+    return <KhaoSoiGuideEn />;
   }
 
   const breadcrumbs = [

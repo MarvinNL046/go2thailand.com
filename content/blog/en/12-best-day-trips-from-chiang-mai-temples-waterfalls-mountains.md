@@ -23,7 +23,7 @@ sources:
   - name: "Chiang Mai Traveller"
     url: "https://www.chiangmaitraveller.com/"
 ---
-Imagine waking up in the misty hills of **Chiang Mai**, grabbing a steaming bowl of [khao soi](https://go2-thailand.com/food/khao-soi/) from a street vendor, and heading out for an adventure just an hour away—where golden temples pierce the clouds and waterfalls roar after the rains. During our three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we escaped the old city's buzz on countless **day trips**, discovering hidden gems that feel worlds apart yet close enough for a full-day loop.
+Imagine waking up in the misty hills of **Chiang Mai**, grabbing a steaming bowl of [khao soi](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/) from a street vendor, and heading out for an adventure just an hour away—where golden temples pierce the clouds and waterfalls roar after the rains. During our three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we escaped the old city's buzz on countless **day trips**, discovering hidden gems that feel worlds apart yet close enough for a full-day loop.
 
 ## Key Takeaways
 

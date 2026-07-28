@@ -81,7 +81,7 @@ The market operates Saturdays and Sundays from 9 AM to 6 PM, and the food vendor
 
 ### Regional Thai Dishes at Chatuchak
 
-During our explorations, we discovered stalls representing every corner of Thailand. **Isaan (northeastern) cuisine** dominates certain sections, with vendors selling [som tam](/food/som-tam/) (spicy papaya salad), [larb](/food/larb/) (minced meat salad), and sticky rice. A plate of larb with sticky rice costs around 50–80 THB. **Northern Thai specialties** like [khao soi](/food/khao-soi/) (curry noodles) and [sai ua](/food/sai-ua/) (northern sausage) appear in other clusters, while **southern dishes** like [massaman curry](/food/massaman-curry/) and roti (Thai crepes) are equally represented.
+During our explorations, we discovered stalls representing every corner of Thailand. **Isaan (northeastern) cuisine** dominates certain sections, with vendors selling [som tam](/food/som-tam/) (spicy papaya salad), [larb](/food/larb/) (minced meat salad), and sticky rice. A plate of larb with sticky rice costs around 50–80 THB. **Northern Thai specialties** like [khao soi](/blog/khao-soi-chiang-mai-guide/) (curry noodles) and [sai ua](/food/sai-ua/) (northern sausage) appear in other clusters, while **southern dishes** like [massaman curry](/food/massaman-curry/) and roti (Thai crepes) are equally represented.
 
 One stall we returned to multiple times sold **mango sticky rice**—the dessert that defines Thai sweets. The vendor, an elderly man from Rayong province, used Nam Doc Mai mangoes (the premium variety) and made his sticky rice fresh daily. At 60 THB per serving, it was worth every baht.
 

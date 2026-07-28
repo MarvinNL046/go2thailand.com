@@ -528,7 +528,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
               <h2 className="text-3xl font-heading font-bold text-gray-900 mb-8 text-center">{isNl ? 'Gerelateerde Gerechten' : 'Related Dishes'}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 {relatedDishes.map((relatedDish) => (
-                  <Link key={relatedDish.id} href={`/food/${relatedDish.slug}`} className="group">
+                  <Link key={relatedDish.id} href={relatedDish.slug === 'khao-soi' ? '/blog/khao-soi-chiang-mai-guide/' : `/food/${relatedDish.slug}/`} className="group">
                     <div className="bg-surface-cream rounded-2xl overflow-hidden shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                       <img
                         src={relatedDish.image}
@@ -618,6 +618,14 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
+  if (locale !== 'nl' && slug === 'khao-soi') {
+    return {
+      redirect: {
+        destination: '/blog/khao-soi-chiang-mai-guide/',
+        permanent: true,
+      },
+    };
+  }
   // Dutch dish pages use the verified base records and their dedicated
   // editorial profiles. This avoids leaking stale English enhanced content,
   // generated prices and unsupported health or restaurant claims into NL.

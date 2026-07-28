@@ -433,7 +433,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     </p>
                     <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                       {regionalDishes.map((dish) => (
-                        <Link key={dish.slug} href={`/food/${dish.slug}/`} className="group">
+                        <Link key={dish.slug} href={!isNl && dish.slug === 'khao-soi' ? '/blog/khao-soi-chiang-mai-guide/' : `/food/${dish.slug}/`} className="group">
                           <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
                             <div className="relative h-32">
                               <Image src={dish.image} alt={dish.name[lang] || dish.name.en} fill className="object-cover group-hover:scale-105 transition-transform" />

@@ -131,7 +131,7 @@ Thai cuisine is not one monolithic style. Each region has a distinct approach to
 
 Northern Thai food, centred around [Chiang Mai](/city/chiang-mai/), is the **gentlest of the four regions**. The cuisine leans into fresh herbs, fermented ingredients, and slow-cooked dishes rather than chili heat. Signature dishes include:
 
-- **[Khao Soi](/food/khao-soi/)** -- A coconut curry noodle soup with Burmese influence. Rich and aromatic rather than fiery. See our [Khao Soi Chiang Mai guide](/blog/khao-soi-chiang-mai-guide/) for the best bowls in the city.
+- **[Khao Soi](/blog/khao-soi-chiang-mai-guide/)** -- A coconut curry noodle soup with Burmese influence. Rich and aromatic rather than fiery. See our [Khao Soi Chiang Mai guide](/blog/khao-soi-chiang-mai-guide/) for the best bowls in the city.
 - **Sai Oua** -- Herb-packed northern sausage with lemongrass, galangal, and kaffir lime. Flavourful but not hot.
 - **Prik Noom** -- A roasted green chili dip that is milder than it looks.
 
@@ -167,7 +167,7 @@ If you are worried about handling the heat, these practical tips will help you e
 4. **A spoonful of sugar helps.** Sugar can counteract capsaicin. Many Thai tables have a sugar pot alongside the chili flakes.
 5. **Street food is customisable.** Because street vendors cook each portion individually, they can easily adjust the spice level to your request. Do not be shy about asking. Learn more in our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/).
 6. **Watch out for condiments.** Even mild dishes can become spicy if you add the wrong table condiment. The small jars of chili flakes (prik pon) and chili in vinegar (prik nam som) are potent.
-7. **Order coconut-based dishes.** Coconut milk naturally tempers chili heat. Curries like [green curry](/food/green-curry/) and [Khao Soi](/food/khao-soi/) are more forgiving than broth-based dishes.
+7. **Order coconut-based dishes.** Coconut milk naturally tempers chili heat. Curries like [green curry](/food/green-curry/) and [Khao Soi](/blog/khao-soi-chiang-mai-guide/) are more forgiving than broth-based dishes.
 
 ## Frequently Asked Questions
 

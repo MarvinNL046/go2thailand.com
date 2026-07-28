@@ -329,7 +329,7 @@ Tom Yum energizes, Tom Kha comforts—choices depend on weather and craving.
 | **Gaeng Jued** | Light, brothy starters | 40-80 THB ($1.20-2.40 USD) | ⭐⭐⭐⭐ |
 | **Boat Noodles** | Hearty, dark broth enthusiasts | 50-100 THB ($1.50-3 USD) | ⭐⭐⭐⭐ |
 
-For Khao Soi details, see our [Khao Soi food guide](https://go2-thailand.com/food/khao-soi/). Boat noodles in [boat noodles food guide](https://go2-thailand.com/food/boat-noodles/).
+For Khao Soi details, see our [Khao Soi food guide](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/). Boat noodles in [boat noodles food guide](https://go2-thailand.com/food/boat-noodles/).
 
 ## 10. Bringing It Home: Recipes and Classes
 

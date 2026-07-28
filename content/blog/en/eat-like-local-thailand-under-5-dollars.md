@@ -368,7 +368,7 @@ Eating for under $5 daily is possible and genuinely enjoyable, but there are mom
 
 ### Worth Splurging On
 
-- **Specialty regional dishes:** If you're in [Chiang Mai](/city/chiang-mai/), try [khao soi](/food/khao-soi/) (Northern curry noodles) at a proper restaurant (80–120 baht). It's worth the extra cost because it's a regional specialty.
+- **Specialty regional dishes:** If you're in [Chiang Mai](/city/chiang-mai/), try [khao soi](/blog/khao-soi-chiang-mai-guide/) (Northern curry noodles) at a proper restaurant (80–120 baht). It's worth the extra cost because it's a regional specialty.
 - **Seafood in coastal areas:** If you're on an island like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), fresh seafood is actually cheaper than in inland areas. Splurge on grilled fish or prawns (100–150 baht).
 - **Cooking classes:** A Thai cooking class (typically 500–800 baht) teaches you skills that save money long-term. You'll understand Thai flavors and be able to cook at home. The [Blue Elephant Cooking School in Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/) is a premium option worth considering. Travelers following a plant-based diet should check our [vegan Thai food guide](/blog/vegan-thai-food-guide/), while those needing [halal food in Thailand](/blog/halal-food-thailand-guide/) will find more options than they expect.
 - **Night markets:** Bangkok's [best night markets](/blog/best-night-markets-bangkok-2026/) offer unique street food experiences. Prices are slightly higher (60–100 baht per item) but the variety and quality justify it.

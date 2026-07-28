@@ -155,7 +155,7 @@ For more **budget tips** on accommodation, transport, and activities, check our 
 
 ## 8. Beyond Bangkok
 
-Once you have mastered **Bangkok's street food scene**, explore the **regional specialties** across Thailand. Northern Thai food in [Chiang Mai](/city/chiang-mai/) features dishes like **[khao soi](/food/khao-soi/)** (curry noodles) and **[sai ua](/food/sai-ua/)** (herb sausage). Southern food near [Krabi](/city/krabi/) and [Phuket](/city/phuket/) leans heavier on turmeric, seafood, and fiery curries. For a deeper understanding of how Thai cuisine evolved, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/).
+Once you have mastered **Bangkok's street food scene**, explore the **regional specialties** across Thailand. Northern Thai food in [Chiang Mai](/city/chiang-mai/) features dishes like **[khao soi](/blog/khao-soi-chiang-mai-guide/)** (curry noodles) and **[sai ua](/food/sai-ua/)** (herb sausage). Southern food near [Krabi](/city/krabi/) and [Phuket](/city/phuket/) leans heavier on turmeric, seafood, and fiery curries. For a deeper understanding of how Thai cuisine evolved, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/).
 
 The [Thai islands](/islands/) also have excellent seafood -- imagine freshly grilled prawns on the beach at sunset. Plan your route with our [island hopping guide](/blog/thailand-island-hopping-guide/) and check the [weather guide](/weather/) to pick the right season. Do not forget to grab a [Thailand eSIM](/esim/) so you can look up food recommendations on the go, even on remote islands.
 

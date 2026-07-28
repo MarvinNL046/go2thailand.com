@@ -267,7 +267,7 @@ Beachfront warungs mix Thai and Western fare. Our favorites included spicy som t
 
 Vegetarian cafes in Old Town cater to health-focused travelers.
 
-Link to [Khao Soi food guide](https://go2-thailand.com/food/khao-soi/) for recipes.
+Link to [Khao Soi food guide](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/) for recipes.
 
 <div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

@@ -300,7 +300,7 @@ Thailand's regional cuisines offer distinct flavors and specialties that differ 
 
 When planning a [Thailand itinerary](https://go2-thailand.com/thailand-itinerary/), consider allocating time to experience regional specialties. A week in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) allows you to explore northern cuisine deeply, while a few days in southern beach towns like [Phuket](https://go2-thailand.com/city/phuket/) or [Krabi](https://go2-thailand.com/best-hotels/krabi/) introduces you to coastal seafood traditions.
 
-Explore our [Khao Soi food guide](https://go2-thailand.com/food/khao-soi/) and [Sai Ua food guide](https://go2-thailand.com/food/sai-ua/) for detailed information on northern specialties.
+Explore our [Khao Soi food guide](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/) and [Sai Ua food guide](https://go2-thailand.com/food/sai-ua/) for detailed information on northern specialties.
 
 ---
 
