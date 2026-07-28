@@ -46,6 +46,7 @@ import { RotiCanaiGuideEn } from '../../components/food/RotiCanaiGuideEn';
 import { BuaLoyGuideEn } from '../../components/food/BuaLoyGuideEn';
 import { SukhothaiNoodlesGuideEn } from '../../components/food/SukhothaiNoodlesGuideEn';
 import { KaengLiangGuideEn } from '../../components/food/KaengLiangGuideEn';
+import { MooPaloGuideEn } from '../../components/food/MooPaloGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -285,6 +286,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'kaeng-liang') {
     return <KaengLiangGuideEn />;
+  }
+
+  if (dish.slug === 'moo-palo') {
+    return <MooPaloGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
