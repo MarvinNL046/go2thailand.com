@@ -1,6 +1,6 @@
 # DFS parsed source — https://thailandfoundation.or.th/northern-thai-cuisine-opening/
 
-**Captured:** 2026-07-28T01:39:58.769Z
+**Captured:** 2026-07-28T02:55:16.651Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
@@ -17,4 +17,3 @@ From top right: 1. khao soi 2. sai oua 3. nam phrik noom 4. [gaeng hung lae](htt
 “Thai Food: Thai Culture Heritage”, Department of Cultural Promotion, Ministry of Culture: [http://book.culture.go.th/thaifood/mobile/index.html#p=1](http://book.culture.go.th/thaifood/mobile/index.html)
 
 Written By: Tayud Mongkolrat
-
