@@ -18,7 +18,7 @@ The owner answers **which concrete Pattaya hotels deserve a citywide shortlist a
 
 - `/where-to-stay/pattaya/` owns the complete district decision.
 - Central Pattaya, Beach Road, North Pattaya/Wong Amat, Pratumnak and Jomtien destination or neighbourhood owners retain deep local intent.
-- The seven existing property routes retain hotel-specific detail and current review work.
+- The twelve existing property routes retain hotel-specific detail and current review work.
 - Cheap-only, luxury-only, family-only, nightlife-only, guest-friendly, long-stay condo, monthly rental, restaurant, bar, adult-entertainment and live inventory intent remain independent.
 - The owner may summarise a district only to explain a named property; it must route readers to the where-to-stay owner for the full area comparison.
 
@@ -31,7 +31,7 @@ The result set is dominated by inventory platforms, with comparatively weak edit
 3. exact walking, baht-bus, road-crossing, nightlife-noise and Bangkok-transfer consequences;
 4. direct-beach, across-Beach-Road, elevated bay-view and near-beach wording that cannot be confused;
 5. explicit Central convenience, North Pattaya facilities, Wong Amat calm, Pratumnak separation and Jomtien's longer beach rhythm without replacing the area owner;
-6. natural links to all seven existing Pattaya hotel profiles and the complete city and where-to-stay owners;
+6. natural links to all twelve existing Pattaya hotel profiles and the complete city and where-to-stay owners;
 7. no fixed rates, copied scores or invented star ranking—compare the same room, occupancy and final conditions for exact dates;
 8. natural answers to first-visit fit, Jomtien versus Pattaya, North versus South, family suitability, beach access, trip length and safe hotel selection.
 
@@ -51,4 +51,4 @@ Exclude explicit sexual-service questions, “boom boom”, guest policy and bac
 - Reuse the bilingual `HotelGuideTemplate` established by Bangkok, Chiang Mai, Phuket, Krabi and Koh Samui.
 - Generate and inspect a unique rights-safe Pattaya hotel hero with the curved bay, an elegant contemporary terrace, layered city lights and believable Gulf geography; never imply that it depicts a named property.
 - Keep the premium editorial rhythm: decisive hero, compact zone choices, property cards, visible current-price actions, split-stay logic where useful, booking checks, genuine PAA accordion, profile-link mesh and official-source method.
-- Preserve main-content links to all seven existing Pattaya hotel profiles so the redesign creates no orphans.
+- Preserve main-content links to all twelve existing Pattaya hotel profiles so the redesign creates no orphans.
