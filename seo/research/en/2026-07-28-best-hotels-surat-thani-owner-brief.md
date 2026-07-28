@@ -10,7 +10,7 @@
 - Independent DFS cluster `surat thani hotel recommendations`: one raw record and no competitor-domain table; no measurable volume or KD was returned.
 - Exact canonical: zero current ranking keywords and no backlink-summary signal. Retain the route for continuity and mainland transport-cluster value rather than preserving copied ratings, fixed rates or island properties that do not solve a Surat Thani city stay.
 - Ten current UK-English SERPs returned 95 organic appearances, 56 genuine People Also Ask appearances and 35 case-normalised unique questions.
-- Four complete DFS parses were retained: Travelfish (4,426 Markdown characters), Phanganist (3,469), ThaiExplore (8,452) and TravelDojo (22,986). Michelin, Booking.com and Tripadvisor captures returned zero usable Markdown and are explicitly excluded from content-length or heading analysis.
+- Four complete DFS parses were retained: Travelfish (4,426 Markdown characters), Phanganist (3,469), ThaiExplore (8,452) and TravelDojo (22,986). Michelin, Booking.com, Tripadvisor and Listingal captures returned zero usable Markdown and are explicitly excluded from content-length or heading analysis.
 
 ## Owner boundary
 
