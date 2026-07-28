@@ -96,7 +96,14 @@ if (!read('pages/city/index.tsx').includes('DestinationIndexGuide')) failures.pu
 if (!read('pages/activities/index.tsx').includes('ThailandExcursionsGuide')) failures.push('The activities index does not wire the commercial activity template');
 if (!read('pages/transport/index.tsx').includes('TransportHubGuide')) failures.push('The transport index does not wire the practical route template');
 if (!read('pages/thailand-for-first-timers.tsx').includes('FirstTimeThailandGuide')) failures.push('The first-timer route does not wire the editorial guide template');
-if (!read('pages/compare/[slug].tsx').includes('PhuketKrabiComparisonGuide')) failures.push('The comparison route does not wire the audited NL comparison template');
+const comparisonRoute = read('pages/compare/[slug].tsx');
+for (const proof of ['PhuketKrabiComparisonGuide', "locale={lang}", "slug === 'phuket-vs-krabi'"]) {
+  if (!comparisonRoute.includes(proof)) failures.push(`The comparison route lacks bilingual owner proof: ${proof}`);
+}
+const phuketKrabiComparison = read('components/compare/PhuketKrabiComparisonGuide.tsx');
+for (const proof of ["locale?: 'nl' | 'en'", 'comparisonRowsEn', 'faqsEn', 'sourcesEn', 'compare-en-phuket-hotels', 'compare-en-krabi-tours', "inLanguage: isEn ? 'en-GB' : 'nl-NL'"]) {
+  if (!phuketKrabiComparison.includes(proof)) failures.push(`The Phuket/Krabi comparison lacks EN owner proof: ${proof}`);
+}
 const travelGearRoute = read('pages/travel-gear/index.tsx');
 for (const wiring of ['PackingGuideTemplate', 'thailandPackingGuide']) {
   if (!travelGearRoute.includes(wiring)) failures.push(`The travel gear route does not use ${wiring}`);

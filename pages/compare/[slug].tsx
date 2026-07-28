@@ -286,11 +286,11 @@ export default function ComparisonPage({
   const isTranslated = TRANSLATED_LOCALES.includes(locale || 'en');
   const t = translations[lang];
 
-  // The retired programmatic comparison family stays noindex. This single NL
-  // route has passed its own keyword, SERP, content and indexation audit and is
-  // therefore rendered by the evidence-led reusable pilot template.
-  if (lang === 'nl' && slug === 'phuket-vs-krabi') {
-    return <PhuketKrabiComparisonGuide />;
+  // The retired programmatic comparison family stays noindex. This exact
+  // bilingual route has passed independent locale-specific research and is
+  // rendered by the evidence-led reusable comparison template.
+  if (slug === 'phuket-vs-krabi') {
+    return <PhuketKrabiComparisonGuide locale={lang} />;
   }
 
   const item1Name = item1.name[lang];
