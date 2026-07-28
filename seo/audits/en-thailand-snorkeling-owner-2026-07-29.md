@@ -1,7 +1,7 @@
 # English Thailand snorkelling owner audit
 
-**Owner:** `/best-diving-snorkeling-in-thailand/`  
-**Consolidated overlap:** `/blog/best-snorkeling-spots-thailand-water-clarity/`  
+**Owner:** `/best-diving-snorkeling-in-thailand/`
+**Consolidated overlap:** `/blog/best-snorkeling-spots-thailand-water-clarity/`
 **Verified:** 29 July 2026
 
 ## Research and intent
