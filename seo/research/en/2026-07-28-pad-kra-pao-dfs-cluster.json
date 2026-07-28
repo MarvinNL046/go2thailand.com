@@ -1,0 +1,1990 @@
+{
+  "captured_at": "2026-07-28T01:05:47.348Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "pad kra pao",
+  "costs": {
+    "suggestions": 0.02892,
+    "related": 0.0192,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "pad kra pao",
+    "pad kra pao recipe",
+    "pad kra pao chicken",
+    "pad kra pao beef",
+    "pad kra pao pork",
+    "pad kra pao ingredients",
+    "pad kra pao sauce",
+    "how to make pad kra pao",
+    "kao pad kra pao",
+    "pad kra pao gai",
+    "pad kra pao recipe authentic",
+    "pad kra pao recipe beef",
+    "hot thai kitchen pad kra pao",
+    "original pad kra pao 1993",
+    "pad kra pao moo",
+    "pad kra pao recipe uk",
+    "pad kra-pao moo",
+    "khao pad kra pao",
+    "pad kra pao tofu"
+  ],
+  "keywords": [
+    {
+      "keyword": "pad kra pao",
+      "volume": 14800,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "giggling squid locations",
+      "volume": 1000,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad gra prow",
+      "volume": 1000,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "giggling squid london",
+      "volume": 590,
+      "kd": 12,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai minced beef",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant warrington",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken",
+      "volume": 480,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad krapow gai",
+      "volume": 390,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai minced beef recipe",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "giggling squid menu pdf",
+      "volume": 320,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "giggling squid restaurant",
+      "volume": 320,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao beef",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao pork",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pork pad kra pao",
+      "volume": 320,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "giggling squid drinks menu",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao ingredients",
+      "volume": 260,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "giggling squid manchester",
+      "volume": 210,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao sauce",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to make pad kra pao",
+      "volume": 140,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad krapow moo",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef pad kra pao recipe",
+      "volume": 110,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "kao pad kra pao",
+      "volume": 110,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krapow thai warrington",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao gai",
+      "volume": 110,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe authentic",
+      "volume": 110,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe beef",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hot thai kitchen pad kra pao",
+      "volume": 90,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "original pad kra pao 1993",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken recipe",
+      "volume": 90,
+      "kd": 16,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao moo",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao near me",
+      "volume": 90,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe uk",
+      "volume": 90,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra-pao moo",
+      "volume": 90,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken pad kra pao recipe",
+      "volume": 70,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "giggling squid edinburgh",
+      "volume": 70,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao pad kra pao",
+      "volume": 70,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krapow thai restaurant menu",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao tofu",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic pad kra pao recipe",
+      "volume": 50,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao calories",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao moo krob",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao sauce recipe",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao vegetarian",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan pad kra pao",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai basil beef recipe",
+      "volume": 40,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai basil pork recipe",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad kra pao healthy",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao beef recipe",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao prawn",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe chicken",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao seasoning",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad krapow gai recipe",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai minced pork recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad kra pao bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best pad kra pao recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy pad kra pao recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krapow thai restaurant photos",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krapow thai restaurant reviews",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao moo recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao noodles",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao pork belly",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe pork",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork pad kra pao recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai ground beef recipe",
+      "volume": 30,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "giggling squid locations london",
+      "volume": 20,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "giggling squid locations near me",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad kra pao spicy",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao in thai",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao moo saap",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao pork recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao pronunciation",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao translation",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simple pad kra pao recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai beef recipe",
+      "volume": 20,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "spicy thai mince recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai basil minced beef recipe",
+      "volume": 20,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "woks of life pad kra pao",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "basil alternative for pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "basil substitute for pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beef pad kra pao calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best pad kra pao bangkok sukhumvit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best pad kra pao near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "calories in pad kra pao with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can i use sweet basil for pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "crispy pork belly pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "does pad kra pao have onion",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy pad kra pao recipe beef",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "healthy pad kra pao recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holy basil alternative for pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holy basil vs thai basil pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to make pad kra pao beef",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kenji pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "keto pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad kra pao recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao pad kra pao rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krapow thai warrington menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kwokspots pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mushroom pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "original pad kra pao 1993 menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "original pad kra pao 1993 photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad gra prow pork",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao beef calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao beef near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao beef or pork",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao calories per 100g",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken calories with rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken mince",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao chicken or beef",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao crispy pork",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao easy recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao express",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao gai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao goong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao green beans",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao ground beef",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao holy basil substitute",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao kenji",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao leaves",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao marion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao meal prep",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao meaning",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao meaning in english",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao moo grob",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao moo ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao moo sap",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao no basil",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao pizza",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao pork calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe hot thai kitchen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe marion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao recipe vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao resepi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao sauce packet",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao sauce recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao seafood",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao seasoning packet",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao shrimp",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao taste",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao thermomix",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao tofu recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao vegetables",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao vs pad thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao wiki",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao with noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao with vegetables",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao without basil",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao without fish sauce",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad krapow gai near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad krapow gai pronunciation",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pailin's kitchen pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pork pad kra pao with fried egg",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resep pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resepi pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "she simmers pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "substitute for basil in pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "substitute for thai basil in pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai basil beef bowl",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai beef pad kra pao recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai ground beef coconut milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai national dish pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pork pad kra pao recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai recipe pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "traditional pad kra pao recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan pad kra pao recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to serve with pad kra pao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is pad kra pao from",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad krapow gai nyt",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad kra pao beef resepi",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao pork marion",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad kra pao tofu calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 2.736842105263158,
+      "keywordCount": 19,
+      "visibility": 15.700000000000001,
+      "estimatedTraffic": 3427.8810000000008
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 5.368421052631579,
+      "keywordCount": 19,
+      "visibility": 14.350000000000001,
+      "estimatedTraffic": 5797.800999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 10.31578947368421,
+      "keywordCount": 19,
+      "visibility": 5.75,
+      "estimatedTraffic": 852.3480000000001
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10.444444444444445,
+      "keywordCount": 18,
+      "visibility": 5.599999999999999,
+      "estimatedTraffic": 439.09099999999995
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 19.823529411764707,
+      "keywordCount": 17,
+      "visibility": 2.95,
+      "estimatedTraffic": 85.289
+    },
+    {
+      "domain": "www.foodandwine.com",
+      "avgPosition": 27.529411764705884,
+      "keywordCount": 17,
+      "visibility": 1.7500000000000002,
+      "estimatedTraffic": 33.558
+    },
+    {
+      "domain": "www.theguardian.com",
+      "avgPosition": 16.428571428571427,
+      "keywordCount": 14,
+      "visibility": 3.1499999999999995,
+      "estimatedTraffic": 323.75499999999994
+    },
+    {
+      "domain": "www.deanedwards.co.uk",
+      "avgPosition": 14,
+      "keywordCount": 13,
+      "visibility": 6.449999999999999,
+      "estimatedTraffic": 1811.6910000000003
+    },
+    {
+      "domain": "www.notquitenigella.com",
+      "avgPosition": 23,
+      "keywordCount": 14,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 1070.5470000000003
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 24.307692307692307,
+      "keywordCount": 13,
+      "visibility": 3.6000000000000005,
+      "estimatedTraffic": 174.89699999999996
+    },
+    {
+      "domain": "christieathome.com",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 15,
+      "visibility": 0.2,
+      "estimatedTraffic": 85.64899999999997
+    },
+    {
+      "domain": "www.cooking-therapy.com",
+      "avgPosition": 19.499999999999996,
+      "keywordCount": 12,
+      "visibility": 1.6,
+      "estimatedTraffic": 529.8269999999999
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 21.166666666666668,
+      "keywordCount": 12,
+      "visibility": 5.45,
+      "estimatedTraffic": 333.869
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 12,
+      "visibility": 2.15,
+      "estimatedTraffic": 65.01
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 9,
+      "keywordCount": 10,
+      "visibility": 3.5999999999999996,
+      "estimatedTraffic": 56.427000000000014
+    },
+    {
+      "domain": "www.kitchenstories.com",
+      "avgPosition": 39.4,
+      "keywordCount": 15,
+      "visibility": 0.1,
+      "estimatedTraffic": 97.75699999999993
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 19.636363636363637,
+      "keywordCount": 11,
+      "visibility": 2.4000000000000004,
+      "estimatedTraffic": 54.747
+    },
+    {
+      "domain": "nomadette.com",
+      "avgPosition": 19.818181818181817,
+      "keywordCount": 11,
+      "visibility": 0.6,
+      "estimatedTraffic": 50.86700000000001
+    },
+    {
+      "domain": "www.chilipeppermadness.com",
+      "avgPosition": 34.30769230769231,
+      "keywordCount": 13,
+      "visibility": 0.2,
+      "estimatedTraffic": 73.99199999999998
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 8.88888888888889,
+      "keywordCount": 9,
+      "visibility": 3.3,
+      "estimatedTraffic": 89.004
+    },
+    {
+      "domain": "www.bonappetit.com",
+      "avgPosition": 27.272727272727273,
+      "keywordCount": 11,
+      "visibility": 0.25,
+      "estimatedTraffic": 121.98799999999997
+    },
+    {
+      "domain": "www.iankewks.com",
+      "avgPosition": 44.42857142857143,
+      "keywordCount": 14,
+      "visibility": 0.05,
+      "estimatedTraffic": 72.98499999999996
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 22.9,
+      "keywordCount": 10,
+      "visibility": 2.05,
+      "estimatedTraffic": 87.84
+    },
+    {
+      "domain": "www.andy-cooks.com",
+      "avgPosition": 37.25,
+      "keywordCount": 12,
+      "visibility": 0.05,
+      "estimatedTraffic": 48.934000000000005
+    },
+    {
+      "domain": "takestwoeggs.com",
+      "avgPosition": 38.75,
+      "keywordCount": 12,
+      "visibility": 0,
+      "estimatedTraffic": 10.017
+    },
+    {
+      "domain": "www.alphafoodie.com",
+      "avgPosition": 33.27272727272727,
+      "keywordCount": 11,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 12.060999999999998
+    },
+    {
+      "domain": "kwokspots.com",
+      "avgPosition": 33.81818181818182,
+      "keywordCount": 11,
+      "visibility": 1.2,
+      "estimatedTraffic": 26.188999999999997
+    },
+    {
+      "domain": "hotthaikitchen.substack.com",
+      "avgPosition": 22.555555555555557,
+      "keywordCount": 9,
+      "visibility": 0.9,
+      "estimatedTraffic": 40.47399999999999
+    },
+    {
+      "domain": "aaronandclaire.com",
+      "avgPosition": 12,
+      "keywordCount": 7,
+      "visibility": 1.85,
+      "estimatedTraffic": 72.81099999999999
+    },
+    {
+      "domain": "www.pinterest.com",
+      "avgPosition": 47.81818181818182,
+      "keywordCount": 11,
+      "visibility": 0.1,
+      "estimatedTraffic": 47.009
+    },
+    {
+      "domain": "silkroadrecipes.com",
+      "avgPosition": 37.55555555555556,
+      "keywordCount": 9,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 11.668
+    },
+    {
+      "domain": "apinchofsaffron.nl",
+      "avgPosition": 46.8,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 8.585
+    },
+    {
+      "domain": "theartofgrowing.co",
+      "avgPosition": 34.125,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 8.357999999999999
+    },
+    {
+      "domain": "tasteasianfood.com",
+      "avgPosition": 48.7,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 9.302999999999999
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 17.5,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 14.783000000000001
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 19.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.35,
+      "estimatedTraffic": 6.32
+    },
+    {
+      "domain": "www.foodforfitness.co.uk",
+      "avgPosition": 47.111111111111114,
+      "keywordCount": 9,
+      "visibility": 0.35,
+      "estimatedTraffic": 10.365
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 55.1,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.946
+    },
+    {
+      "domain": "shershegrows.com",
+      "avgPosition": 37.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 7.7459999999999996
+    },
+    {
+      "domain": "cookpad.com",
+      "avgPosition": 53,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 40.435
+    },
+    {
+      "domain": "tiffycooks.com",
+      "avgPosition": 59.5,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 39.669
+    },
+    {
+      "domain": "www.nyonyacooking.com",
+      "avgPosition": 51.5,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 9.219
+    },
+    {
+      "domain": "gypsyplate.com",
+      "avgPosition": 39.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.003
+    },
+    {
+      "domain": "whattocooktoday.com",
+      "avgPosition": 29.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.136999999999999
+    },
+    {
+      "domain": "ironchefshellie.com",
+      "avgPosition": 11.5,
+      "keywordCount": 4,
+      "visibility": 1.9,
+      "estimatedTraffic": 23.983
+    },
+    {
+      "domain": "www.sainsburysmagazine.co.uk",
+      "avgPosition": 30.4,
+      "keywordCount": 5,
+      "visibility": 0.35,
+      "estimatedTraffic": 58.56099999999999
+    },
+    {
+      "domain": "omnivorescookbook.com",
+      "avgPosition": 14.75,
+      "keywordCount": 4,
+      "visibility": 0.55,
+      "estimatedTraffic": 14.717
+    },
+    {
+      "domain": "aproneer.com",
+      "avgPosition": 35,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.4489999999999996
+    },
+    {
+      "domain": "panlasangpinoy.com",
+      "avgPosition": 22,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 10.062999999999999
+    },
+    {
+      "domain": "glebekitchen.com",
+      "avgPosition": 38.6,
+      "keywordCount": 5,
+      "visibility": 0.3,
+      "estimatedTraffic": 10.895000000000001
+    }
+  ]
+}

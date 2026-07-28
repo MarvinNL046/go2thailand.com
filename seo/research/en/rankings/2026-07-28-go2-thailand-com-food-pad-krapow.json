@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-28T01:04:30.233Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/food/pad-krapow/",
+  "cost": 0.01248,
+  "rankings": [
+    {
+      "keyword": "krapow",
+      "position": 88,
+      "volume": 1000,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/pad-krapow/"
+    },
+    {
+      "keyword": "krapow recipe",
+      "position": 86,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/pad-krapow/"
+    },
+    {
+      "keyword": "ka-prow",
+      "position": 102,
+      "volume": 140,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/pad-krapow/"
+    },
+    {
+      "keyword": "kra pow thai restaurant menu",
+      "position": 91,
+      "volume": 70,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/pad-krapow/"
+    }
+  ]
+}

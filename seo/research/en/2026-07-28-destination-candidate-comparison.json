@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-07-28T01:05:45.865Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "cost": 0.01296,
+  "requested_keywords": [
+    "pad kra pao",
+    "pad krapow",
+    "pad kaprao",
+    "pad gaprao",
+    "thai basil chicken",
+    "thai basil pork",
+    "holy basil stir fry",
+    "pad kra pao recipe",
+    "pad krapow thailand",
+    "what is pad kra pao"
+  ],
+  "rows": [
+    {
+      "keyword": "pad kra pao",
+      "volume": 14800,
+      "difficulty": 6,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.53
+    },
+    {
+      "keyword": "pad krapow",
+      "volume": 5400,
+      "difficulty": 6,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "pad kra pao recipe",
+      "volume": 3600,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "thai basil chicken",
+      "volume": 1900,
+      "difficulty": 19,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "pad kaprao",
+      "volume": 1600,
+      "difficulty": 13,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "thai basil pork",
+      "volume": 880,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "pad gaprao",
+      "volume": 210,
+      "difficulty": 6,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "holy basil stir fry",
+      "volume": 90,
+      "difficulty": 5,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    }
+  ]
+}
