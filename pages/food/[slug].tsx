@@ -50,6 +50,7 @@ import { MooPaloGuideEn } from '../../components/food/MooPaloGuideEn';
 import { NamPrikNoomGuideEn } from '../../components/food/NamPrikNoomGuideEn';
 import { NamPrikKapiGuideEn } from '../../components/food/NamPrikKapiGuideEn';
 import { GaengTaiPlaGuideEn } from '../../components/food/GaengTaiPlaGuideEn';
+import { GoongPadSatorGuideEn } from '../../components/food/GoongPadSatorGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -305,6 +306,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'gaeng-tai-pla') {
     return <GaengTaiPlaGuideEn />;
+  }
+
+  if (dish.slug === 'goong-pad-sator') {
+    return <GoongPadSatorGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
