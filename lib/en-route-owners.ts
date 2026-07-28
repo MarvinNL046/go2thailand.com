@@ -17,6 +17,7 @@ export function normalizeEnInternalHref(href: string): string {
     '/city/koh-tao/diving/': '/islands/koh-tao/diving/',
     '/city/koh-tao/snorkeling/': '/islands/koh-tao/snorkeling/',
     '/city/koh-samui/best-time-to-visit/': '/city/koh-samui/weather/',
+    '/city/phuket/best-time-to-visit/': '/city/phuket/weather/',
     '/city/ban-krut/best-time-to-visit/': '/city/ban-krut/#praktisch',
     '/city/ban-krut/weather/': '/city/ban-krut/#praktisch',
     '/region/northeastern/': '/region/isaan/',

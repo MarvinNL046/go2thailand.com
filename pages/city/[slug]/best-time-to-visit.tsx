@@ -573,10 +573,10 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     };
   }
 
-  if (slug === 'koh-samui') {
+  if (slug === 'koh-samui' || slug === 'phuket') {
     return {
       redirect: {
-        destination: '/city/koh-samui/weather/',
+        destination: `/city/${slug}/weather/`,
         permanent: true,
       },
     };

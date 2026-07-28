@@ -277,14 +277,21 @@ for (const asset of ['chiang-mai-weather-hero.webp', 'chiang-mai-weather-green-s
 }
 const kohSamuiWeatherData = read('data/weather/nl/koh-samui.ts');
 const kohSamuiWeatherDataEn = read('data/weather/en/koh-samui.ts');
+const phuketWeatherDataEn = read('data/weather/en/phuket.ts');
 const weatherRegistryEn = read('data/weather/en/index.ts');
 if (!weatherRegistryEn.includes("'koh-samui':")) failures.push('The EN weather registry does not include koh-samui');
+if (!weatherRegistryEn.includes('phuket:')) failures.push('The EN weather registry does not include phuket');
 for (const asset of ['koh-samui-weather-hero.webp', 'koh-samui-weather-green-season.webp', 'koh-samui-weather-packing.webp']) {
   if (!kohSamuiWeatherData.includes(asset)) failures.push(`Koh Samui weather data does not use ${asset}`);
   if (!kohSamuiWeatherDataEn.includes(asset)) failures.push(`English Koh Samui weather data does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
 if ((kohSamuiWeatherDataEn.match(/amazonSlug:/g) || []).length !== 4) failures.push('English Koh Samui weather data must use exactly four contextual Amazon products');
+for (const asset of ['phuket-weather-hero.webp', 'phuket-weather-green-season.webp', 'phuket-weather-packing-flatlay.webp']) {
+  if (!phuketWeatherDataEn.includes(asset)) failures.push(`English Phuket weather data does not use ${asset}`);
+}
+if ((phuketWeatherDataEn.match(/amazonSlug:/g) || []).length !== 4) failures.push('English Phuket weather data must use exactly four contextual Amazon products');
+if ((phuketWeatherDataEn.match(/question:/g) || []).length < 10) failures.push('English Phuket weather data must preserve at least ten researched PAA answers');
 for (const dataFile of ['data/weather/nl/bangkok.ts', 'data/weather/nl/chiang-mai.ts', 'data/weather/nl/koh-samui.ts', 'data/weather/nl/krabi.ts', 'data/weather/nl/phuket.ts']) {
   if (!read(dataFile).includes('planningNotes:')) failures.push(`${dataFile} does not define route-specific planning notes`);
 }
@@ -296,9 +303,12 @@ const nextConfig = read('next.config.js');
 for (const proof of ["source: '/city/koh-samui/best-time-to-visit/'", "destination: '/city/koh-samui/weather/'", 'permanent: true']) {
   if (!nextConfig.includes(proof)) failures.push(`English Koh Samui weather consolidation misses ${proof}`);
 }
+for (const proof of ["source: '/city/phuket/best-time-to-visit/'", "destination: '/city/phuket/weather/'", 'permanent: true']) {
+  if (!nextConfig.includes(proof)) failures.push(`English Phuket weather consolidation misses ${proof}`);
+}
 const bestTimeRoute = read('pages/city/[slug]/best-time-to-visit.tsx');
-for (const proof of ["if (slug === 'koh-samui')", "destination: '/city/koh-samui/weather/'", 'permanent: true']) {
-  if (!bestTimeRoute.includes(proof)) failures.push(`English Koh Samui best-time route misses runtime consolidation proof: ${proof}`);
+for (const proof of ["slug === 'koh-samui' || slug === 'phuket'", 'destination: `/city/${slug}/weather/`', 'permanent: true']) {
+  if (!bestTimeRoute.includes(proof)) failures.push(`English weather best-time route misses runtime consolidation proof: ${proof}`);
 }
 
 const hotelRegistry = read('data/hotels/nl/index.ts');
@@ -604,6 +614,7 @@ for (const route of [
   '/best-hotels/koh-tao/',
   '/best-hotels/khao-sok/',
   '/city/koh-samui/weather/',
+  '/city/phuket/weather/',
   '/islands/koh-tao/attractions/',
   '/islands/koh-tao/diving/',
   '/islands/koh-tao/snorkeling/',

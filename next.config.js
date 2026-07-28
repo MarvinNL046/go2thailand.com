@@ -286,6 +286,12 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: '/city/phuket/best-time-to-visit/',
+        destination: '/city/phuket/weather/',
+        permanent: true,
+        locale: false,
+      },
       // NL itinerary intent is owned by the researched pillar. Keep EN
       // untouched until the separate English research and redesign phase.
       {

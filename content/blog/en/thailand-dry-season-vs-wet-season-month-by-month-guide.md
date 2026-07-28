@@ -94,7 +94,7 @@ Loi Krathong floats light up Chiang Mai rivers around the full moon. Yi Peng rel
 
 These months define the **Thailand dry season**, with low humidity, 25-32°C (77-90°F) days, and rare rain. It's high season for a reason—perfect for beaches and cities alike. During our December sweeps in Phuket, the clear waters were unbeatable for [snorkeling](https://klook.tpo.lv/7Dt6WApj?subid=blog).
 
-Crowds peak around Christmas and New Year, so advance booking is essential. Explore our [Best Time To Visit travel guide](https://go2-thailand.com/city/phuket/best-time-to-visit/) for island specifics.
+Crowds peak around Christmas and New Year, so advance booking is essential. Use our [Phuket weather-by-month guide](/city/phuket/weather/) for the island-specific rainfall and sea-state decision.
 
 ### Ideal Destinations
 

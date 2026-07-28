@@ -2,7 +2,7 @@
 
 **Measured:** 28 July 2026  
 **Source:** `seo/inventory/routes.csv` and `seo/inventory/unpaired-routes.json`  
-**Scope:** 931 sitemap routes without an exact path-equivalent in the other locale
+**Scope:** 930 sitemap routes without an exact path-equivalent in the other locale
 
 An unpaired route is an audit lead, not automatically a missing translation. Go2Thailand uses locale-specific consolidation: Dutch often keeps one strong destination or hotel owner where English still has several programmatic child routes. Creating all missing path-equivalents would therefore add thin duplication and incorrect hreflang rather than useful bilingual coverage.
 
@@ -10,9 +10,9 @@ An unpaired route is an audit lead, not automatically a missing translation. Go2
 
 | Locale-only side | Routes | Share of unpaired set |
 |---|---:|---:|
-| English-only | 912 | 98.0% |
+| English-only | 911 | 98.0% |
 | Dutch-only | 19 | 2.0% |
-| Total | 931 | 100% |
+| Total | 930 | 100% |
 
 ## English-only families
 
@@ -27,11 +27,11 @@ An unpaired route is an audit lead, not automatically a missing translation. Go2
 | Destination detail | 66 | Manual cluster decision; many Dutch intents already consolidate on the destination owner |
 | Travel guide | 46 | Manual owner/canonical decision before translation |
 | Blog | 41 | Individual freshness, traffic and locale-intent review |
-| Destination subpillar | 40 | Manual cluster decision; avoid duplicating stronger Dutch weather/food/attraction owners |
+| Destination subpillar | 38 | Manual cluster decision; avoid duplicating stronger Dutch weather/food/attraction owners |
 | Other | 3 | Manual review |
 | Practical | 1 | Manual review |
 
-The first five template-held groups account for **648/912 English-only routes**. They are a localization backlog, not evidence that 648 Dutch pages should be generated. The remaining **264** require page- or cluster-level intent decisions.
+The first five template-held groups account for **648/911 English-only routes**. They are a localization backlog, not evidence that 648 Dutch pages should be generated. The remaining **263** require page- or cluster-level intent decisions.
 
 ## Dutch-only routes
 
@@ -47,7 +47,6 @@ These thirteen blog intents can be useful in English, but each needs freshness a
 - Bangkok street-food neighbourhoods
 - Best time to visit Thailand by region
 - Phuket Airport
-- Phuket weather
 - Bangkok travel tips sourced from community questions
 - Bangkok K-pop concerts 2026
 - Mango sticky rice season
@@ -69,7 +68,7 @@ These thirteen blog intents can be useful in English, but each needs freshness a
 ## Working order
 
 1. Review the thirteen editorial candidates against current English SERPs, GSC/GA4 evidence and freshness risk.
-2. Audit the 264 manual EN-only routes by cluster, prioritizing existing traffic, commercial intent and natural internal-link gaps.
+2. Audit the 263 manual EN-only routes by cluster, prioritizing existing traffic, commercial intent and natural internal-link gaps.
 3. Leave the 648 template-held routes EN-only unless a Dutch cluster owner has enough unique localized value to justify publication.
 4. Re-run inventory, hreflang and sitewide audits after every locale-pair batch.
 
@@ -83,3 +82,7 @@ These thirteen blog intents can be useful in English, but each needs freshness a
 - `/city/koh-samui/weather/` now has an independent English owner based on two DFS clusters, ten current UK-English SERPs, genuine PAA and six usable full parses, including official Thai Meteorological Department normals. The obsolete `/city/koh-samui/best-time-to-visit/` owner is permanently consolidated into this stronger paired canonical. The new owner entered the English sitemap only after monthly-data, Gulf-season, schema, internal-link, Klook, Trip.com, four contextual Amazon OneLink and responsive QA passed.
 - `/city/koh-samui/attractions/wat-plai-laem/` now has an independent English owner based on a 30-keyword DFS cluster, eight current UK-English SERPs, genuine PAA, six usable full parses and exact-route ranking/backlink checks. It entered the English sitemap only after the Guanyin interpretation, active-temple framing, northeast route, change-aware practical guidance, schema, internal-link, Klook and responsive QA passed.
 - `/compare/phuket-vs-krabi/` now has an independent English owner based on a 41-keyword DFS cluster, ten current UK-English SERPs, genuine PAA, eight usable full parses and exact-route ranking/backlink checks. It entered the English sitemap only after the travel-style matrix, combine-the-two route, canonical, hreflang, five-schema, internal-link, Trip.com, Klook, 12Go and responsive QA passed. Amazon was assessed symmetrically for both locales and not forced because a physical product does not improve the destination-choice task.
+
+## Completed from Priority B
+
+- `/city/phuket/weather/` now has an independent English owner based on two DFS clusters with 353 records, ten current UK-English SERPs, 53 genuine PAA appearances, six usable parses and exact weather/legacy ranking and backlink checks. The duplicate `/city/phuket/best-time-to-visit/` route permanently consolidates into it. The paired owner uses official TMD normals, ten English PAA answers, natural weather links, Klook, Trip.com and four contextual Amazon OneLink exits.

@@ -55,7 +55,7 @@ The atmosphere is stylish but relaxed, making Fira a strong choice for couples o
 ## Practical Tips
 
 - **Budget:** Entry fees range from free (Catch, with minimum spend) to around 1,000-2,000 THB for venues like Fira and Yona. See our [Thailand budget guide](/thailand-index/budget/) for broader cost context.
-- **When to go:** Late afternoon arrivals catch the best sunsets. Yona and Barra Cuda heat up after dark. Check the [best time to visit Phuket](/city/phuket/best-time-to-visit/) before you plan.
+- **When to go:** Late afternoon arrivals catch the best sunsets. Yona and Barra Cuda heat up after dark. Check the [Phuket weather guide](/city/phuket/weather/) before you plan.
 - **What to wear:** Smart casual is the norm. Most clubs have a no-football-shirts policy.
 - **Booking:** Reserve daybeds and cabanas in advance during high season (November to March), especially at Catch and Yona. Browse [Phuket hotels](/best-hotels/phuket/) nearby to keep the commute short.
 - **Getting there:** All clubs are reachable by Grab. For the wider island, our [Phuket travel guide](/blog/phuket-travel-guide-2026/) covers transport in detail.
