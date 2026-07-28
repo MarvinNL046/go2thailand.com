@@ -263,7 +263,7 @@ function buildEnglishContent(path: string): BridgeContent {
         links: [
           englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
           englishLink('/islands/koh-tao/attractions/', 'the best things to do in Koh Tao', 'Things to do'),
-          englishLink('/islands/koh-tao/diving/', 'our decision guide to diving in Koh Tao', 'Diving guide'),
+          englishLink('/islands/koh-tao/snorkeling/', 'our condition-led Koh Tao snorkelling guide', 'Snorkelling guide'),
         ],
       };
     }
@@ -308,7 +308,7 @@ function buildEnglishContent(path: string): BridgeContent {
       links: [
         englishLink('/islands/koh-tao/attractions/', 'the best things to do in Koh Tao', 'Things to do'),
         englishLink('/islands/koh-tao/diving/', 'the practical guide to courses and diving in Koh Tao', 'Diving guide'),
-        englishLink('/best-hotels/koh-tao/', 'our independently verified Koh Tao hotel shortlist', 'Where to stay'),
+        englishLink('/islands/koh-tao/snorkeling/', 'the bay-by-bay Koh Tao snorkelling guide', 'Snorkelling guide'),
       ],
     };
   }
@@ -321,7 +321,7 @@ function buildEnglishContent(path: string): BridgeContent {
       links: [
         englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
         englishLink('/islands/koh-tao/diving/', 'our practical guide to courses and diving in Koh Tao', 'Diving guide'),
-        englishLink('/best-hotels/koh-tao/', 'our independently verified Koh Tao hotel shortlist', 'Where to stay'),
+        englishLink('/islands/koh-tao/snorkeling/', 'our guide to bays, conditions and snorkelling tours', 'Snorkelling guide'),
       ],
     };
   }
@@ -334,6 +334,19 @@ function buildEnglishContent(path: string): BridgeContent {
       links: [
         englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
         englishLink('/islands/koh-tao/attractions/', 'the best things to do between water sessions', 'Things to do'),
+        englishLink('/islands/koh-tao/snorkeling/', 'the condition-led guide to snorkelling bays', 'Snorkelling guide'),
+      ],
+    };
+  }
+
+  if (path === '/islands/koh-tao/snorkeling/') {
+    return {
+      eyebrow: 'Build around the sheltered coast',
+      title: 'Connect the snorkelling day to Koh Tao',
+      intro: 'Choose the suitable bay first, then fit accommodation, land activities and any diving days around the same island plan.',
+      links: [
+        englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
+        englishLink('/islands/koh-tao/attractions/', 'the best things to do away from the reef', 'Things to do'),
         englishLink('/best-hotels/koh-tao/', 'the hotel shortlist organised by bay and trip fit', 'Where to stay'),
       ],
     };

@@ -8,7 +8,7 @@
 - The new English owner answers the high-volume diving intent with an outcome-led course choice and an operator scorecard instead of a paid or unverifiable “best schools” ranking.
 - Two DFS clusters returned 220 and 63 keyword records with 50 competitor domains each. Eleven current UK-English SERPs supplied 92 organic appearances and 40 genuine People Also Ask appearances across 22 distinct questions.
 - Six complete source parses cover PADI, three active Koh Tao operators and two long-form competitor perspectives. Exact-route checks returned no ranking keywords, backlinks or referring-domain signal.
-- `/islands/koh-tao/` retains the complete island trip, `/islands/koh-tao/attractions/` the mixed activity shortlist and `/best-hotels/koh-tao/` the accommodation decision. The future snorkelling owner remains unpublished in English.
+- `/islands/koh-tao/` retains the complete island trip, `/islands/koh-tao/attractions/` the mixed activity shortlist and `/best-hotels/koh-tao/` the accommodation decision. Snorkelling is now independently published on its own English owner.
 
 ## Premium implementation
 
@@ -19,7 +19,7 @@
 - A five-stage training sequence, four site profiles, responsible-diving panel and conservative post-dive travel section turn generic inspiration into a practical island schedule.
 - Ten genuine PAA answers cover beginner fit, course duration, current cost comparison, season, sharks, depth and when not to dive without promising wildlife, visibility, a fixed price or universal fastest course.
 - Three Klook exits use a route-specific sub-ID, `_blank`, `noopener noreferrer nofollow sponsored`, current-activity wording and visible disclosure. Amazon is deliberately absent because no physical product improves this safety-sensitive course and operator decision.
-- A pre-publication audit caught and removed the link to the still-unpublished English snorkelling owner. The replacement transport card uses an existing rights-safe Gulf marine-route asset.
+- A pre-publication audit originally withheld the English snorkelling link while that owner was unavailable. After its independent research and publication, the sitewide bridge now connects both specialist owners naturally; the transport card remains a valid separate trip-planning exit.
 
 ## Verification
 

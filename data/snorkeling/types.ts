@@ -16,7 +16,7 @@ export interface SnorkelBayProfile {
 export interface SnorkelGuideData {
   slug: string;
   destinationName: string;
-  locale: 'nl';
+  locale: 'nl' | 'en';
   parentGuideHref: string;
   activitiesGuideHref: string;
   divingGuideHref: string;

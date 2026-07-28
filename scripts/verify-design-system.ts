@@ -409,9 +409,10 @@ for (const asset of [
 
 const snorkelTemplate = read('components/snorkeling/SnorkelGuideTemplate.tsx');
 const kohTaoSnorkelData = read('data/snorkeling/nl/koh-tao.ts');
+const kohTaoSnorkelDataEn = read('data/snorkeling/en/koh-tao.ts');
 const kohTaoSnorkelRoute = read('pages/islands/[slug]/snorkeling.tsx');
-for (const wiring of ['getNlSnorkelGuide', 'SnorkelGuideTemplate', "locale !== 'nl'"]) {
-  if (!kohTaoSnorkelRoute.includes(wiring)) failures.push(`The Koh Tao snorkeling route does not preserve ${wiring}`);
+for (const wiring of ['getNlSnorkelGuide', 'getEnSnorkelGuide', 'SnorkelGuideTemplate']) {
+  if (!kohTaoSnorkelRoute.includes(wiring)) failures.push(`The bilingual Koh Tao snorkeling route does not preserve ${wiring}`);
 }
 for (const proof of ['FaqSplitSection', 'SourceMethodSection', 'AffiliateDisclosure', 'withPlacementSubId', 'nofollow sponsored']) {
   if (!snorkelTemplate.includes(proof)) failures.push(`The snorkel template does not preserve ${proof}`);
@@ -422,6 +423,7 @@ for (const asset of [
   'koh-tao-responsible-snorkeling.webp',
 ]) {
   if (!kohTaoSnorkelData.includes(asset)) failures.push(`Koh Tao snorkeling data does not use ${asset}`);
+  if (!kohTaoSnorkelDataEn.includes(asset)) failures.push(`English Koh Tao snorkeling data does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
 
@@ -575,15 +577,10 @@ for (const route of [
   '/best-hotels/koh-tao/',
   '/islands/koh-tao/attractions/',
   '/islands/koh-tao/diving/',
+  '/islands/koh-tao/snorkeling/',
 ]) {
   if (!enSitemap.includes(`https://go2-thailand.com${route}`)) failures.push(`EN sitemap misses bilingual owner ${route}`);
   if (!nlSitemap.includes(`https://go2-thailand.com/nl${route}`)) failures.push(`NL sitemap misses bilingual owner ${route}`);
-}
-for (const route of [
-  '/islands/koh-tao/snorkeling/',
-]) {
-  if (!nlSitemap.includes(`https://go2-thailand.com/nl${route}`)) failures.push(`NL sitemap misses locale-only owner ${route}`);
-  if (enSitemap.includes(`https://go2-thailand.com${route}`)) failures.push(`EN sitemap incorrectly contains NL-only owner ${route}`);
 }
 const phuketDestinationData = read('data/destinations/nl/phuket.ts');
 for (const asset of [

@@ -1,7 +1,7 @@
 # Go2Thailand production-readiness baseline
 
 **Measured:** 28 July 2026  
-**Scope:** 2,295 sitemap routes — 703 NL and 1,592 EN
+**Scope:** 2,296 sitemap routes — 703 NL and 1,593 EN
 
 ## Corrected progress model
 
@@ -9,20 +9,20 @@ The former `106 / 1,583` percentage was invalid because it divided exact Content
 
 | Layer | NL | EN | Total | Meaning |
 |---|---:|---:|---:|---|
-| HTTP/technical route coverage | 703/703 | 1,592/1,592 | 2,295/2,295 | Current sitemap routes render successfully and pass the layered route audit with zero errors and zero warnings |
-| Shared premium design signature | 702/703 | 1,591/1,592 | 2,293/2,295 | Rendered HTML contains the shared canvas, container, display-heading and section primitives |
-| Custom premium homepage signature | 1/703 | 1/1,592 | 2/2,295 | Both homepages intentionally use a custom composition and three shared redesign primitives rather than the generic canvas marker |
-| Implemented ContentOps records | 106 records | 109 records | 215 records | Independently researched content owners; this is not a sitemap-page denominator |
-| Exact implemented owner routes currently in sitemap | 106 | 109 | 215 | Every implemented owner record now has its exact canonical in the current locale sitemap |
+| HTTP/technical route coverage | 703/703 | 1,593/1,593 | 2,296/2,296 | Current sitemap routes render successfully and pass the layered route audit with zero errors and zero warnings |
+| Shared premium design signature | 702/703 | 1,592/1,593 | 2,294/2,296 | Rendered HTML contains the shared canvas, container, display-heading and section primitives |
+| Custom premium homepage signature | 1/703 | 1/1,593 | 2/2,296 | Both homepages intentionally use a custom composition and three shared redesign primitives rather than the generic canvas marker |
+| Implemented ContentOps records | 106 records | 110 records | 216 records | Independently researched content owners; this is not a sitemap-page denominator |
+| Exact implemented owner routes currently in sitemap | 106 | 110 | 216 | Every implemented owner record now has its exact canonical in the current locale sitemap |
 
-Effective rendered redesign coverage is therefore **2,295/2,295**, with 2,293 generic premium signatures and two intentionally custom premium homepages. This proves shared design-system adoption, not unique-copy or page-level editorial completeness.
+Effective rendered redesign coverage is therefore **2,296/2,296**, with 2,294 generic premium signatures and two intentionally custom premium homepages. This proves shared design-system adoption, not unique-copy or page-level editorial completeness.
 
 ## Remaining completion work
 
 - Audit unique value and indexation quality across the large generated families, especially 425 EN hotel-detail routes and other template-scaled pages.
 - Continue independent locale-specific DFS, current SERP, competitor and genuine PAA research for high-value owners and clusters; do not perform one paid research cycle for every generated child URL when one cluster owner governs the intent.
-- Review the 937 routes without a language pair and distinguish intentional locale-only pages from missing translations. One specialist Koh Tao owner remains NL-only until an independently researched English equivalent exists; the hotel, attraction and diving owners are now independently complete in both languages.
-- Keep the owner-to-sitemap invariant green. All 215 implemented ContentOps owners are now present on their exact locale canonical; the former eight sitemap gaps are resolved.
+- Review the 936 routes without a language pair and distinguish intentional locale-only pages from missing translations. The complete Koh Tao island, hotel, attraction, diving and snorkelling family is now independently complete in both languages.
+- Keep the owner-to-sitemap invariant green. All 216 implemented ContentOps owners are now present on their exact locale canonical; the former eight sitemap gaps are resolved.
 - Continue source, internal-link, affiliate, schema, accessibility, responsive, performance and content-quality QA per family.
 - Keep Amazon OneLink contextual: packing, transport, food, cooking and practical gear only where the product helps the reader; hotel selection remains Trip.com-led and activities remain Klook-led.
 
