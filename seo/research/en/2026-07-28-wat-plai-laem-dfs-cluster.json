@@ -1,0 +1,661 @@
+{
+  "captured_at": "2026-07-28T20:38:33.697Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "wat plai laem",
+  "costs": {
+    "suggestions": 0.01452,
+    "related": 0.01416,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "wat plai laem",
+    "wat plai laem samui",
+    "wat plai laem temple",
+    "wat plai laem dress code",
+    "wat plai laem entrance fee",
+    "wat plai laem guanyin",
+    "wat plai laem history",
+    "wat plai laem opening hours",
+    "wat plai laem photos",
+    "wat plai laem reviews",
+    "wat plai laem to big buddha",
+    "wat plai laem wikipedia"
+  ],
+  "keywords": [
+    {
+      "keyword": "big buddha koh samui",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem samui",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem temple",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem koh samui",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "plai laem beach koh samui",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "big buddha koh samui dress code",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "big buddha koh samui entrance fee",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "big buddha koh samui location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "big buddha koh samui opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "big buddha koh samui price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "big buddha koh samui sunset",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "laughing buddha koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem dress code",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem entrance fee",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem guanyin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem history",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem koh samui entrance fee",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat plai laem temple koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem to big buddha",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem wikipedia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get to wat plai laem",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem facts",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem koh samui dress code",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat plai laem police box",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 3,
+      "visibility": 3,
+      "estimatedTraffic": 437.76
+    },
+    {
+      "domain": "chrisandwrensworld.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7,
+      "estimatedTraffic": 66.432
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 5.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.6,
+      "estimatedTraffic": 101.184
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 10,
+      "keywordCount": 3,
+      "visibility": 0.7,
+      "estimatedTraffic": 28.944
+    },
+    {
+      "domain": "forevervacation.com",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 18.239999999999995
+    },
+    {
+      "domain": "www.createtravel.tv",
+      "avgPosition": 24.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.384
+    },
+    {
+      "domain": "www.myguidekohsamui.com",
+      "avgPosition": 25,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.848
+    },
+    {
+      "domain": "www.placesofjuma.com",
+      "avgPosition": 25.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 11.472
+    },
+    {
+      "domain": "nashaplaneta.net",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 14.304
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 155.52
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 93.408
+    },
+    {
+      "domain": "lubd.com",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 63.264
+    },
+    {
+      "domain": "accidentallywesanderson.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 31.968
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 23.423999999999996
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 10.847999999999999
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 7.968
+    },
+    {
+      "domain": "kohplanner.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 11.52
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 7.2
+    },
+    {
+      "domain": "hobletsonthego.com",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.136000000000001
+    },
+    {
+      "domain": "herotraveler.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.3600000000000003
+    },
+    {
+      "domain": "sa.trip.com",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.216
+    },
+    {
+      "domain": "www.estate-samui-properties.com",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.88
+    },
+    {
+      "domain": "www.firstbungalowsamui.net",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.4560000000000004
+    },
+    {
+      "domain": "thetripguru.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.688
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.12
+    },
+    {
+      "domain": "amazingthailand.com.au",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.696
+    },
+    {
+      "domain": "samui-map.info",
+      "avgPosition": 21.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.16
+    },
+    {
+      "domain": "www.renown-travel.com",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.easydaysamui.com",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.4319999999999995
+    },
+    {
+      "domain": "www.arrivalguides.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 8.207999999999998
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "sunleisureworld.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.thailandtravelhub.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.easybook.com",
+      "avgPosition": 38,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "samuijourney.com",
+      "avgPosition": 38,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.kohsamuitravelhub.com",
+      "avgPosition": 39.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.696
+    },
+    {
+      "domain": "nomadmum.com",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.suratthaniairporthotels.com",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.expedia.co.th",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.lamaiburi.com",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "kohsamui.fr",
+      "avgPosition": 47.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 46.704
+    },
+    {
+      "domain": "www.forbesandpartners.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 12.288
+    },
+    {
+      "domain": "travelmadness.nl",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.5999999999999996
+    },
+    {
+      "domain": "outthailand.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.4480000000000004
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.expedia.com.au",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "villa-ayundra.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "wandervlogs.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    }
+  ]
+}
