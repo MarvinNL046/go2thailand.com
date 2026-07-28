@@ -1,7 +1,7 @@
 {
-  "captured_at": "2026-07-28T06:34:50.854Z",
+  "captured_at": "2026-07-28T06:34:50.010Z",
   "locale": "en",
-  "url": "https://www.food.gov.uk/safety-hygiene/cooking-your-food",
+  "url": "https://www.food.gov.uk/business-guidance/allergen-guidance-for-food-businesses",
   "cost": 0.00015,
   "status_code": 200,
   "page_content": {
@@ -21,6 +21,26 @@
           "text": "We also use cookies set by other sites to help us deliver content from their services.",
           "url": null,
           "urls": null
+        },
+        {
+          "text": "You have accepted additional cookies. You can change your cookie settings at any time.",
+          "url": "https://www.gov.uk/help/cookies",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/cookies",
+              "anchor_text": "change your cookie settings"
+            }
+          ]
+        },
+        {
+          "text": "You have rejected additional cookies. You can change your cookie settings at any time.",
+          "url": "https://www.gov.uk/help/cookies",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/cookies",
+              "anchor_text": "change your cookie settings"
+            }
+          ]
         },
         {
           "text": "Departments, agencies and public bodies",
@@ -49,26 +69,6 @@
         }
       ],
       "secondary_content": [
-        {
-          "text": "You have accepted additional cookies. You can change your cookie settings at any time.",
-          "url": "https://www.gov.uk/help/cookies",
-          "urls": [
-            {
-              "url": "https://www.gov.uk/help/cookies",
-              "anchor_text": "change your cookie settings"
-            }
-          ]
-        },
-        {
-          "text": "You have rejected additional cookies. You can change your cookie settings at any time.",
-          "url": "https://www.gov.uk/help/cookies",
-          "urls": [
-            {
-              "url": "https://www.gov.uk/help/cookies",
-              "anchor_text": "change your cookie settings"
-            }
-          ]
-        },
         {
           "text": "Births, death, marriages and care",
           "url": "https://www.gov.uk/browse/births-deaths-marriages",
@@ -255,22 +255,12 @@
           ]
         },
         {
-          "text": "Food safety",
-          "url": "https://www.gov.uk/health-and-social-care/food-safety",
+          "text": "Food allergies and intolerances",
+          "url": "https://www.gov.uk/health-and-social-care/food-allergies-and-intolerances",
           "urls": [
             {
-              "url": "https://www.gov.uk/health-and-social-care/food-safety",
-              "anchor_text": "Food safety"
-            }
-          ]
-        },
-        {
-          "text": "Food hygiene at home",
-          "url": "https://www.gov.uk/health-and-social-care/food-hygiene-at-home",
-          "urls": [
-            {
-              "url": "https://www.gov.uk/health-and-social-care/food-hygiene-at-home",
-              "anchor_text": "Food hygiene at home"
+              "url": "https://www.gov.uk/health-and-social-care/food-allergies-and-intolerances",
+              "anchor_text": "Food allergies and intolerances"
             }
           ]
         }
@@ -525,14 +515,14 @@
     },
     "main_topic": [
       {
-        "h_title": "Cooking your food",
-        "main_title": "Cooking your food",
+        "h_title": "Allergen guidance for food businesses",
+        "main_title": "Allergen guidance for food businesses",
         "author": "Food Standards Agency",
         "language": "en",
         "level": 1,
         "primary_content": [
           {
-            "text": "How to cook your food to prevent food poisoning.",
+            "text": "Guidance for food businesses on providing allergen information and best practice for handling allergens.",
             "url": null,
             "urls": null
           }
@@ -541,8 +531,24 @@
         "table_content": null
       },
       {
-        "h_title": "Cooking your food",
-        "main_title": "Cooking your food",
+        "h_title": "Details",
+        "main_title": "Allergen guidance for food businesses",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Guidance for food businesses on providing allergen information and best practice for handling allergens.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Allergen guidance for food businesses",
+        "main_title": "Allergen guidance for food businesses",
         "author": "Food Standards Agency",
         "language": "en",
         "level": 1,
@@ -590,7 +596,7 @@
     "secondary_topic": [
       {
         "h_title": "Applies to England, Northern Ireland and Wales",
-        "main_title": "Cooking your food",
+        "main_title": "Allergen guidance for food businesses",
         "author": "Food Standards Agency",
         "language": "en",
         "level": 2,
@@ -600,7 +606,7 @@
       },
       {
         "h_title": "Documents",
-        "main_title": "Cooking your food",
+        "main_title": "Allergen guidance for food businesses",
         "author": "Food Standards Agency",
         "language": "en",
         "level": 2,
@@ -609,20 +615,20 @@
         "table_content": null
       },
       {
-        "h_title": "Cooking your food",
-        "main_title": "Cooking your food",
+        "h_title": "Allergen guidance for food businesses",
+        "main_title": "Allergen guidance for food businesses",
         "author": "Food Standards Agency",
         "language": "en",
         "level": 3,
         "primary_content": null,
         "secondary_content": [
           {
-            "text": "Cooking your food",
-            "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+            "text": "Allergen guidance for food businesses",
+            "url": "https://www.gov.uk/government/publications/allergen-guidance-for-food-businesses/allergen-guidance-for-food-businesses",
             "urls": [
               {
-                "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
-                "anchor_text": "Cooking your food"
+                "url": "https://www.gov.uk/government/publications/allergen-guidance-for-food-businesses/allergen-guidance-for-food-businesses",
+                "anchor_text": "Allergen guidance for food businesses"
               }
             ]
           }
@@ -630,31 +636,250 @@
         "table_content": null
       },
       {
-        "h_title": "Details",
-        "main_title": "Cooking your food",
+        "h_title": "Allergy and intolerance sign (Colour)as PDF(Open in a new window) (90.12 KB)",
+        "main_title": "Allergen guidance for food businesses",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This file may not be suitable for users of assistive technology.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Allergy and intolerance sign (Colour)as PDF(Open in a new window) (90.12 KB)",
+            "url": "https://assets.publishing.service.gov.uk/media/69b02dae95b74651603495be/PDF_-_Allergy_and_intolerance_sign__Colour_as_PDF_Open_in_a_new_window___90.12_KB_.pdf",
+            "urls": [
+              {
+                "url": "https://assets.publishing.service.gov.uk/media/69b02dae95b74651603495be/PDF_-_Allergy_and_intolerance_sign__Colour_as_PDF_Open_in_a_new_window___90.12_KB_.pdf",
+                "anchor_text": "Allergy and intolerance sign (Colour)as PDF(Open in a new window) (90.12 KB)"
+              }
+            ]
+          },
+          {
+            "text": "PDF, 90.1 KB, 1 page",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "English language allergen matrixas PDF(Open in a new window) (156.47 KB)",
+        "main_title": "Allergen guidance for food businesses",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This file may not be suitable for users of assistive technology.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "English language allergen matrixas PDF(Open in a new window) (156.47 KB)",
+            "url": "https://assets.publishing.service.gov.uk/media/69b02e5558d4ef5adaf0e3e7/English_language_allergen_matrixas_PDF_Open_in_a_new_window___156.47_KB_.pdf",
+            "urls": [
+              {
+                "url": "https://assets.publishing.service.gov.uk/media/69b02e5558d4ef5adaf0e3e7/English_language_allergen_matrixas_PDF_Open_in_a_new_window___156.47_KB_.pdf",
+                "anchor_text": "English language allergen matrixas PDF(Open in a new window) (156.47 KB)"
+              }
+            ]
+          },
+          {
+            "text": "PDF, 156 KB, 1 page",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Welsh language allergen matrixas PDF(Open in a new window) (74.33 KB)",
+        "main_title": "Allergen guidance for food businesses",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This file may not be suitable for users of assistive technology.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Welsh language allergen matrixas PDF(Open in a new window) (74.33 KB)",
+            "url": "https://assets.publishing.service.gov.uk/media/69b02e73187a6dea78233120/Welsh_language_allergen_matrixas_PDF_Open_in_a_new_window___74.33_KB_.pdf",
+            "urls": [
+              {
+                "url": "https://assets.publishing.service.gov.uk/media/69b02e73187a6dea78233120/Welsh_language_allergen_matrixas_PDF_Open_in_a_new_window___74.33_KB_.pdf",
+                "anchor_text": "Welsh language allergen matrixas PDF(Open in a new window) (74.33 KB)"
+              }
+            ]
+          },
+          {
+            "text": "PDF, 74.3 KB, 1 page",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Updated English-language allergy sign with a placeholder for a logo (PDF)as PDF(Open in a new window) (637.69 KB)",
+        "main_title": "Allergen guidance for food businesses",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This file may not be suitable for users of assistive technology.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Updated English-language allergy sign with a placeholder for a logo (PDF)as PDF(Open in a new window) (637.69 KB)",
+            "url": "https://assets.publishing.service.gov.uk/media/69b02e9b24c6431b84f0e3e4/Updated_English-language_allergy_sign_with_a_placeholder_for_a_logo__PDF_as_PDF_Open_in_a_new_window___637.69_KB_.pdf",
+            "urls": [
+              {
+                "url": "https://assets.publishing.service.gov.uk/media/69b02e9b24c6431b84f0e3e4/Updated_English-language_allergy_sign_with_a_placeholder_for_a_logo__PDF_as_PDF_Open_in_a_new_window___637.69_KB_.pdf",
+                "anchor_text": "Updated English-language allergy sign with a placeholder for a logo (PDF)as PDF(Open in a new window) (637.69 KB)"
+              }
+            ]
+          },
+          {
+            "text": "PDF, 638 KB, 1 page",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Updated English-language allergy sign with no logo (PDF)as PDF(Open in a new window) (623.48 KB)",
+        "main_title": "Allergen guidance for food businesses",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This file may not be suitable for users of assistive technology.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Updated English-language allergy sign with no logo (PDF)as PDF(Open in a new window) (623.48 KB)",
+            "url": "https://assets.publishing.service.gov.uk/media/69b02ed695b74651603495c2/Updated_English-language_allergy_sign_with_no_logo__PDF_as_PDF_Open_in_a_new_window___623.48_KB_.pdf",
+            "urls": [
+              {
+                "url": "https://assets.publishing.service.gov.uk/media/69b02ed695b74651603495c2/Updated_English-language_allergy_sign_with_no_logo__PDF_as_PDF_Open_in_a_new_window___623.48_KB_.pdf",
+                "anchor_text": "Updated English-language allergy sign with no logo (PDF)as PDF(Open in a new window) (623.48 KB)"
+              }
+            ]
+          },
+          {
+            "text": "PDF, 623 KB, 1 page",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Updated Welsh-language allergy sign with a placeholder for a logo (PDF)as PDF(Open in a new window) (16.46 KB)",
+        "main_title": "Allergen guidance for food businesses",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This file may not be suitable for users of assistive technology.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Updated Welsh-language allergy sign with a placeholder for a logo (PDF)as PDF(Open in a new window) (16.46 KB)",
+            "url": "https://assets.publishing.service.gov.uk/media/69b02f021daa1b70ca233119/Updated_Welsh-language_allergy_sign_with_a_placeholder_for_a_logo__PDF_as_PDF_Open_in_a_new_window___16.46_KB_.pdf",
+            "urls": [
+              {
+                "url": "https://assets.publishing.service.gov.uk/media/69b02f021daa1b70ca233119/Updated_Welsh-language_allergy_sign_with_a_placeholder_for_a_logo__PDF_as_PDF_Open_in_a_new_window___16.46_KB_.pdf",
+                "anchor_text": "Updated Welsh-language allergy sign with a placeholder for a logo (PDF)as PDF(Open in a new window) (16.46 KB)"
+              }
+            ]
+          },
+          {
+            "text": "PDF, 16.5 KB, 1 page",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Updated Welsh-language allergy sign with no logo (PDF)as PDF(Open in a new window) (13.6 KB)",
+        "main_title": "Allergen guidance for food businesses",
+        "author": "Food Standards Agency",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This file may not be suitable for users of assistive technology.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Updated Welsh-language allergy sign with no logo (PDF)as PDF(Open in a new window) (13.6 KB)",
+            "url": "https://assets.publishing.service.gov.uk/media/69b02f261daa1b70ca23311a/Updated_Welsh-language_allergy_sign_with_no_logo__PDF_as_PDF_Open_in_a_new_window___13.6_KB_.pdf",
+            "urls": [
+              {
+                "url": "https://assets.publishing.service.gov.uk/media/69b02f261daa1b70ca23311a/Updated_Welsh-language_allergy_sign_with_no_logo__PDF_as_PDF_Open_in_a_new_window___13.6_KB_.pdf",
+                "anchor_text": "Updated Welsh-language allergy sign with no logo (PDF)as PDF(Open in a new window) (13.6 KB)"
+              }
+            ]
+          },
+          {
+            "text": "PDF, 13.6 KB, 1 page",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Updates to this page",
+        "main_title": "Allergen guidance for food businesses",
         "author": "Food Standards Agency",
         "language": "en",
         "level": 2,
         "primary_content": [
           {
-            "text": "How to cook your food to prevent food poisoning.",
+            "text": "Updated link to allergen and ingredients food labelling decision tool.",
             "url": null,
             "urls": null
           }
         ],
-        "secondary_content": null,
-        "table_content": null
-      },
-      {
-        "h_title": "Updates to this page",
-        "main_title": "Cooking your food",
-        "author": "Food Standards Agency",
-        "language": "en",
-        "level": 2,
-        "primary_content": null,
         "secondary_content": [
           {
-            "text": "Published 18 December 2017",
+            "text": "Published 2 April 2020",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Added translation",
             "url": null,
             "urls": null
           }
@@ -663,7 +888,7 @@
       },
       {
         "h_title": "Sign up for emails or print this page",
-        "main_title": "Cooking your food",
+        "main_title": "Allergen guidance for food businesses",
         "author": "Food Standards Agency",
         "language": "en",
         "level": 2,
@@ -673,19 +898,19 @@
       },
       {
         "h_title": "Explore the topic",
-        "main_title": "Cooking your food",
+        "main_title": "Allergen guidance for food businesses",
         "author": "Food Standards Agency",
         "language": "en",
         "level": 2,
         "primary_content": null,
         "secondary_content": [
           {
-            "text": "Food hygiene at home",
-            "url": "https://www.gov.uk/health-and-social-care/food-hygiene-at-home",
+            "text": "Food allergies and intolerances",
+            "url": "https://www.gov.uk/health-and-social-care/food-allergies-and-intolerances",
             "urls": [
               {
-                "url": "https://www.gov.uk/health-and-social-care/food-hygiene-at-home",
-                "anchor_text": "Food hygiene at home"
+                "url": "https://www.gov.uk/health-and-social-care/food-allergies-and-intolerances",
+                "anchor_text": "Food allergies and intolerances"
               }
             ]
           }
@@ -696,6 +921,11 @@
     "ratings": null,
     "offers": null,
     "comments": null,
-    "contacts": null
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "commsdigitalcontent@food.gov.uk"
+      ]
+    }
   }
 }

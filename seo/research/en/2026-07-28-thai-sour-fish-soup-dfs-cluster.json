@@ -1,0 +1,607 @@
+{
+  "captured_at": "2026-07-28T06:32:05.797Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai sour fish soup",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01968,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thai sour fish soup",
+    "thai hot and sour fish soup"
+  ],
+  "keywords": [
+    {
+      "keyword": "bouillabaisse recipe",
+      "volume": 1600,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom kha gai recipe",
+      "volume": 880,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fish soup french",
+      "volume": 390,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fish stew rick stein",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simple fish soup recipe",
+      "volume": 210,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai coconut chicken soup",
+      "volume": 210,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish stew jamie oliver",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best fish soup recipe in the world",
+      "volume": 110,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fish soup recipes uk",
+      "volume": 110,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fish stew nigella",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish soup",
+      "volume": 110,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish stew rick stein",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish stew recipes",
+      "volume": 90,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish stew with potatoes",
+      "volume": 90,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai chicken soup jamie oliver",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fish soup jamie oliver",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver fish stew recipe",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "spanish fish soup",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai coconut soup recipe",
+      "volume": 70,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "italian fish stew recipe",
+      "volume": 50,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver fish stew 15 minute meals",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "portuguese fish stew jamie oliver",
+      "volume": 50,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fish soup recipe",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai soup recipes",
+      "volume": 40,
+      "kd": 32,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asian fish soup",
+      "volume": 30,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish soup recipes",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sicilian fish stew jamie oliver",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai coconut soup recipe chicken",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "clear thai chicken soup",
+      "volume": 20,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "coconut chicken soup chinese",
+      "volume": 20,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "french fish soup in a jar",
+      "volume": 20,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "french fish soup with rouille",
+      "volume": 20,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish stew fennel",
+      "volume": 20,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fish soup with coconut milk",
+      "volume": 20,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fish soup with noodles",
+      "volume": 20,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tom yum fish soup recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asian fish soup coconut milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asian fish soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asian fish soup recipes",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai coconut soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai fish soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai coconut soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chinese ginger fish soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chinese hot and sour fish soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy thai coconut chicken soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy thai coconut soup",
+      "volume": 10,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fish soup french recipe",
+      "volume": 10,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "james martin mediterranean fish stew",
+      "volume": 10,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver fish stew with fennel",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish stew bbc",
+      "volume": 10,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mediterranean fish stew with olives",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "portuguese fish stew with potatoes",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sichuan sour fish soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sicilian fish stew bbc",
+      "volume": 10,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "spicy thai chicken soup with coconut milk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai coconut curry soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai coconut soup recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fish soup lemongrass",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fish soup: jamie oliver",
+      "volume": 10,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai hot and sour fish soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai sour fish soup",
+      "volume": 10,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai fish soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai coconut curry soup",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fish soup without coconut milk",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hot and sour fish soup vietnamese",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

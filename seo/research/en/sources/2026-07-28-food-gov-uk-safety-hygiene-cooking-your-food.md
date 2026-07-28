@@ -1,6 +1,6 @@
-# DFS parsed source — https://www.food.gov.uk/safety-hygiene/cooking-your-food?ContensisTextOnly=true
+# DFS parsed source — https://www.food.gov.uk/safety-hygiene/cooking-your-food
 
-**Captured:** 2026-07-28T03:57:26.552Z
+**Captured:** 2026-07-28T06:34:50.855Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
