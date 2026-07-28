@@ -29,6 +29,7 @@ import { MooHongGuideEn } from '../../components/food/MooHongGuideEn';
 import { NamPrikGoongSiapGuideEn } from '../../components/food/NamPrikGoongSiapGuideEn';
 import { KhanomJeenNamYaGuideEn } from '../../components/food/KhanomJeenNamYaGuideEn';
 import { HoiTodGuideEn } from '../../components/food/HoiTodGuideEn';
+import { PlaPaoGuideEn } from '../../components/food/PlaPaoGuideEn';
 import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
 import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
@@ -200,6 +201,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (dish.slug === 'hoy-tod') {
     return <HoiTodGuideEn />;
+  }
+
+  if (dish.slug === 'pla-pao') {
+    return <PlaPaoGuideEn />;
   }
 
   if (dish.slug === 'som-tam') {
