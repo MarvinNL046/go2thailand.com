@@ -255,6 +255,18 @@ function buildEnglishContent(path: string): BridgeContent {
   if (hotelMatch) {
     const slug = hotelMatch[1];
     const name = cityName(slug);
+    if (slug === 'koh-tao') {
+      return {
+        eyebrow: 'From hotel shortlist to island plan',
+        title: 'Discover more of Koh Tao',
+        intro: 'The right bay only works when it matches your ferry, water days and the pace you want from the island.',
+        links: [
+          englishLink('/islands/koh-tao/', 'our complete Koh Tao island guide', 'Koh Tao guide'),
+          englishLink('/blog/koh-tao-guide-diving-beaches-budget-travel/', 'our practical guide to Koh Tao beaches and diving', 'Beaches & diving'),
+          englishLink('/transport/', 'our practical guide to transport in Thailand', 'Getting around'),
+        ],
+      };
+    }
     const cityHref = normalizeEnInternalHref(`/city/${slug}/`);
     const hasCityOwner = cityHref !== '/city/';
     return {
@@ -284,6 +296,19 @@ function buildEnglishContent(path: string): BridgeContent {
         englishLink('/city/phuket/', 'our complete Phuket travel guide', 'Phuket guide'),
         englishLink('/best-hotels/phuket/', 'the best hotels and resorts in Phuket', 'Where to stay'),
         englishLink('/phuket-tours/', 'trusted tours and activities in Phuket', 'Tours & activities'),
+      ],
+    };
+  }
+
+  if (path === '/islands/koh-tao/') {
+    return {
+      eyebrow: 'Turn Koh Tao into a workable stay',
+      title: 'Connect the island, bay and hotel',
+      intro: 'Koh Tao is compact on a map, but ferry timing, steep roads and separate bays make the choice of base consequential.',
+      links: [
+        englishLink('/best-hotels/koh-tao/', 'our independently verified Koh Tao hotel shortlist', 'Where to stay'),
+        englishLink('/thailand-islands/', 'our comparison of Thailand’s islands', 'Compare islands'),
+        englishLink('/transport/', 'the guide to ferries, trains and transfers', 'Route & transport'),
       ],
     };
   }

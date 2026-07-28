@@ -568,12 +568,12 @@ for (const route of [
   '/nightlife/chiang-mai/',
   '/nightlife/pattaya/',
   '/nightlife/phuket/',
+  '/best-hotels/koh-tao/',
 ]) {
   if (!enSitemap.includes(`https://go2-thailand.com${route}`)) failures.push(`EN sitemap misses bilingual owner ${route}`);
   if (!nlSitemap.includes(`https://go2-thailand.com/nl${route}`)) failures.push(`NL sitemap misses bilingual owner ${route}`);
 }
 for (const route of [
-  '/best-hotels/koh-tao/',
   '/islands/koh-tao/attractions/',
   '/islands/koh-tao/diving/',
   '/islands/koh-tao/snorkeling/',
