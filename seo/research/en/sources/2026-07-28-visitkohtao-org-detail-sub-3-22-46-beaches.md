@@ -1,6 +1,6 @@
 # DFS parsed source — https://visitkohtao.org/detail-sub/3/22/46/beaches
 
-**Captured:** 2026-07-28T18:25:34.071Z
+**Captured:** 2026-07-28T19:14:16.274Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
@@ -85,28 +85,29 @@
 [About Us](https://visitkohtao.org/detail-sub/3/22/46/detail-about/2/152/about-us)
 
 [Contact Us](https://visitkohtao.org/detail-sub/3/22/46/contact-us/)
-## Solo Travellers
+## Live Music
 
-[Solo Travellers](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/18/34/solo-travellers)
+[Live Music](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/21/55/live-music)
 
-[Koh Tao is a safe, welcoming, and affordable destination for solo travelers, and there are many ways to meet new friends and travel buddies.
-As o](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/18/34/solo-travellers)
-## Sairee
+[Koh Tao has a buzzing live music scene complete with laid-back sunset sessions, live bands, and international DJs.
+Whether you’re heading o](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/21/55/live-music)
+## Water Sports
 
-[Sairee](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/17/38/sairee)
+[Water Sports](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/22/49/water-sports)
 
-[Sairee is a bustling hub of activity and a great place to stay for those who want to be close to all the action and the island’s best hotspo](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/17/38/sairee)
-## Yoga
+[Koh Tao is a haven for ocean sports. Love being out on the open seas? Choose from paddle boarding, kayaking, kite surfing, and speedboat adventure](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/22/49/water-sports)
+## Typical Costs
 
-[Yoga](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/22/51/yoga)
+[Typical Costs](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/18/36/typical-costs)
 
-[Yoga classes, yoga retreats, and private yoga sessions are readily available on Koh Tao, catering to all levels from beginner through to aspiring](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/22/51/yoga)
-## Koh Nang Yuan
+[Budget for your holiday on Koh Tao with this helpful list of typical costs for accommodation, food, drinks, activities, and more.
+Everyone wants](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/18/36/typical-costs)
+## Trapeze
 
-[Koh Nang Yuan](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/22/48/koh-nang-yuan)
+[Trapeze](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/22/50/trapeze)
 
-[For the ultimate paradise beach and snorkeling experience, the Instagram famous island of Koh NangYuan is just a five-minute longtail ride away from Koh Tao.
-Koh Nang Ya](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/22/48/koh-nang-yuan)
+[The Koh Tao flying trapeze school offers exhilarating classes and courses for adrenaline seekers of all ages and abilities.
+Yes, you read that right, we have a flyin](https://visitkohtao.org/detail-sub/3/22/46/detail-sub/3/22/50/trapeze)
 # Our Island
 
 [Our Island](https://visitkohtao.org/detail-sub/3/22/46/detail-blog/3/7/our-island)

@@ -1,6 +1,6 @@
-# DFS parsed source — https://www.tourismthailand.org/Destinations/Provinces/ko-tao/361
+# DFS parsed source — https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361
 
-**Captured:** 2026-07-28T18:25:40.843Z
+**Captured:** 2026-07-28T19:14:19.504Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
