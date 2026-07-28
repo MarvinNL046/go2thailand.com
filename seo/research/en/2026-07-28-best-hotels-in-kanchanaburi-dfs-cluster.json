@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-28T13:57:39.330Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels in kanchanaburi",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "best hotels in kanchanaburi",
+    "best hotels in kanchanaburi thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "best hotels in kanchanaburi",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in kanchanaburi thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
