@@ -224,11 +224,11 @@ For a first visit, [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) or
 
 ### Is Thailand safe for first-time travelers?
 
-Very safe. Thailand welcomes over 35 million tourists annually and has excellent tourism infrastructure. Common-sense precautions apply — don't leave valuables unattended, use metered taxis or Grab, and be aware of common [scams](https://go2-thailand.com/practical-info/scams-safety/). Read our full [safety guide](https://go2-thailand.com/is-thailand-safe/) for details.
+Thailand cannot be reduced to a permanent safety label or a visitor count. Check current official advice for the exact route, use identifiable transport, keep control of documents and drinks, and recognise common [pressure and scam patterns](/practical-info/scams-safety/). Our full [Thailand safety guide](/is-thailand-safe/) covers the current country-level decision.
 
 ### Can I do this itinerary solo?
 
-Absolutely. Thailand is one of the best countries in the world for [solo travel](https://go2-thailand.com/travel-guides/solo-female-travel-thailand/), including for women. Hostels are social, other travelers are everywhere, and locals are welcoming. Check our [Thailand solo travel boom guide](https://go2-thailand.com/blog/thailand-solo-travel-boom-2026-tips-destinations/) for practical tips. You'll never feel truly alone unless you want to.
+Thailand can work well for solo travel when the route matches the traveller. A private room with a social common space, a class or a small-group activity can create connection without giving up control of the itinerary. Women planning the trip independently can use our [solo female travel in Thailand guide](/travel-guides/solo-female-travel-thailand/) for arrival, accommodation, transport and return-route decisions. The separate [Thailand solo-travel trend article](/blog/thailand-solo-travel-boom-2026-tips-destinations/) covers the current tourism context rather than promising that company or support will always be available.
 
 ### Should I book a package tour instead?
 

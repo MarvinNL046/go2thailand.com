@@ -63,6 +63,7 @@ const pilotTemplates = [
   'components/transport/AirportArrivalGuideTemplate.tsx',
   'components/markets/BangkokStreetFoodMarketsGuideEn.tsx',
   'components/editorial/BangkokFirstTimeTipsGuideEn.tsx',
+  'components/safety/SoloFemaleThailandGuideEn.tsx',
 ];
 for (const template of pilotTemplates) {
   const source = read(template);

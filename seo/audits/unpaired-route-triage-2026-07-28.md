@@ -41,12 +41,11 @@ The durable commercial and topical candidates from this tier now have independen
 
 ### Priority B — editorial English-candidate review
 
-These eight blog intents can be useful in English, but each needs freshness and SERP validation before translation or rewriting:
+These seven blog intents can be useful in English, but each needs freshness and SERP validation before translation or rewriting:
 
 - Best time to visit Thailand by region
 - Bangkok K-pop concerts 2026
 - Mango sticky rice season
-- Solo female travel safety
 - Som tam regional variations
 - Pad Thai: street food versus restaurant/home cooking
 - Tom yum goong guide
@@ -83,6 +82,7 @@ These eight blog intents can be useful in English, but each needs freshness and 
 
 ## Completed from Priority B
 
+- `/travel-guides/solo-female-travel-thailand/` now owns the English solo-female travel and safety-planning intent after three independent DFS clusters, eleven current UK-English SERPs, 50 genuine PAA appearances, four complete competitor parses, current FCDO and Tourist Police verification and exact ranking/backlink checks for four candidates. The established travel-guide URL was retained and the old English blog remains permanently consolidated. The bespoke owner uses two unique editorial visuals, a six-moment chain, four destination formats, accommodation-access matrix, transport switchboard, social-anchor board, nightlife return plan, incident-help route, ten PAA answers, Trip.com, Klook, 12Go, Saily and one deliberately bounded Amazon OneLink power bank. The broad country-safety, scams, destination, hotel, nightlife, itinerary and transport owners remain independent; six older incoming articles now use bounded, descriptive link context instead of blanket safety claims.
 - `/blog/bangkok-travel-tips-reddit/` now owns the English first-arrival and first-three-days planning intent after two independent DFS clusters, eleven current UK-English SERPs, 40 genuine PAA appearances, five usable competitor or official-source parses and exact ranking/backlink checks for four candidate owners. The paired owner uses a first-90-minutes route, four base corridors, four transport modes, three geography-led day plans, six friction checks, ten PAA answers, current official-source boundaries, natural incoming links, Klook, Trip.com, 12Go, Saily and three contextual Amazon OneLink products. Broad destination, alternative-sights, Thailand-wide first-time, accommodation and detailed transit intents remain delegated to their specialist owners.
 - `/blog/best-street-food-markets-bangkok/` now owns the English Bangkok street-food neighbourhood, market and beginner intent after independent DFS clusters, ten current UK-English SERPs, 51 genuine PAA appearances, competitor/source parsing and exact ranking/backlink checks. The ranking owner was retained and rebuilt with five trip formats, six area decisions, three bounded routes, six dish spokes, WHO/CDC-aligned safety guidance, ten PAA answers, Klook and three contextual Amazon OneLink products. The zero-ranking, zero-backlink `/blog/bangkok-street-food-beginners/` duplicate permanently consolidates into it; 48 affected English content links now point directly to the owner.
 - `/best-diving-snorkeling-in-thailand/` now owns the English Thailand-wide snorkelling intent after independent spelling-aware DFS clusters, ten current UK-English SERPs, 58 genuine PAA appearances, five usable source parses and exact overlap ranking/backlink checks. The existing ranking owner was retained and rebuilt with a unique hero, coast-and-month switch, same-morning condition checks, six destination profiles, shore-versus-boat decision, beginner and reef-conduct guidance, a clear diving boundary, ten PAA answers, Klook, 12Go and three contextual Amazon OneLink products. `/blog/best-snorkeling-spots-thailand-water-clarity/` now permanently consolidates into it; the English sitemap and all affected internal links resolve directly to the owner.

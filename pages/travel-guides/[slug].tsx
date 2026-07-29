@@ -11,6 +11,7 @@ import ThailandEsimSimGuide from '../../components/connectivity/ThailandEsimSimG
 import VegetarianThailandGuide from '../../components/food/VegetarianThailandGuide';
 import ThailandWildlifeSafetyGuideEn from '../../components/practical/ThailandWildlifeSafetyGuideEn';
 import { VpnThailandGuideEn } from '../../components/connectivity/VpnThailandGuideEn';
+import { SoloFemaleThailandGuideEn } from '../../components/safety/SoloFemaleThailandGuideEn';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 
@@ -330,6 +331,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (lang === 'en' && guide.slug === 'vpn-thailand') {
     return <VpnThailandGuideEn />;
+  }
+
+  if (lang === 'en' && guide.slug === 'solo-female-travel-thailand') {
+    return <SoloFemaleThailandGuideEn />;
   }
 
   if (lang === 'nl' && guide.slug === 'vegetarian-vegan-thailand') {

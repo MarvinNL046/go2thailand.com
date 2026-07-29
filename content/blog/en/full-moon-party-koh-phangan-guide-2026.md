@@ -260,7 +260,7 @@ During our visits, we observed the following risks and mitigation strategies:
 - **Never leave drinks unattended**—spiking does occur, though less frequently than rumors suggest
 - **Buy drinks from established vendors** rather than strangers offering "special deals"
 - **Pace yourself**—the party lasts 8+ hours; many travelers overestimate their alcohol tolerance in the heat
-- **Buddy system mandatory**—never wander alone, especially after 3 AM
+- **Return plan before arrival**—choose the pickup point and backup without relying on one fixed time or another person
 
 **Theft and Valuables:**
 - **Pickpocketing is common** in dense crowds; keep bags zipped and in front of you
@@ -534,7 +534,7 @@ Eat a substantial meal beforehand, pace your drinks (one per hour maximum), alte
 
 ### Are there female-specific safety concerns?
 
-Yes. Solo female travelers should be extra cautious about drink safety, avoid wandering alone after 3 AM, and consider attending with a friend or group. Sexual harassment and theft targeting women do occur, though the party is generally safer than rumors suggest. Trust your instincts and remove yourself from uncomfortable situations immediately. For broader safety guidance, our [solo female travel in Thailand](/travel-guides/solo-female-travel-thailand/) guide has practical tips.
+No party or time threshold comes with a safety guarantee. Keep your drink in sight, choose the return route and pickup point before the evening, and leave when the venue, group or journey stops feeling like your choice. Going with other people can be useful, but it does not replace control of your phone, money and way home. Our [solo female travel in Thailand guide](/travel-guides/solo-female-travel-thailand/) turns that return plan into a reusable decision system and links to current official guidance.
 
 ### What if the party is canceled due to weather?
 

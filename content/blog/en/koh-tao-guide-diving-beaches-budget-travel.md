@@ -28,7 +28,7 @@ Imagine descending 12 meters below the surface, surrounded by schools of barracu
 | **What is the best time to visit?** | February to April offers calm seas and excellent visibility for **diving in Koh Tao** |
 | **How much does it cost?** | Budget: 800–1,200 THB/day; Mid-range: 1,500–2,500 THB/day; Splurge: 3,000+ THB/day |
 | **How do I get there?** | [Ferry](https://12go.tpo.lv/tNA80urD) from Chumphon (5-6 hours) or speedboat from [Koh Samui](https://go2-thailand.com/islands/koh-samui/) (1.5 hours) |
-| **Is it safe?** | Very safe for diving and general travel; exercise caution with motorbike rentals |
+| **Is it safe?** | No island-wide guarantee; check current advice, ferry conditions, road choices, dive operator and the final transfer |
 | **What should I book in advance?** | Dive courses during peak season (Feb-Apr); [accommodation](https://booking.tpo.lv/2PT1kR82) if traveling Feb-March |
 | **What's the diving like?** | 40+ dive sites, PADI certification courses, and encounters with sea turtles and reef sharks |
 | **Who should visit?** | Divers, backpackers, budget travelers, and anyone seeking a quieter island escape |
@@ -445,7 +445,7 @@ Mobile networks (AIS, Dtac, True Move) operate on the island. Consider purchasin
 
 ### Is Koh Tao safe for solo travelers?
 
-Yes, Koh Tao is very safe for solo travelers. The island has a strong backpacker community, and accommodations cater to solo guests. Dive courses are social and a great way to meet people. Exercise normal precautions (don't leave valuables unattended, avoid isolated areas at night), and you'll have a great experience. For more safety context, see our [is Thailand safe for tourists guide](/is-thailand-safe/) and [solo female travel safety tips](/travel-guides/solo-female-travel-thailand/). It's also worth checking out the [best party hostels in Thailand](/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/) if you want to meet fellow travelers beyond dive school. Make sure you have [travel insurance sorted before your trip](/blog/travel-insurance-thailand-guide/) — it's especially important for diving activities.
+Koh Tao can suit solo travellers because a dive course or other bounded activity gives the day a social anchor. That is not an island-wide safety guarantee: ferry timing, the final transfer, accommodation access, road choices and the late route still matter. Use our broad [Thailand safety guide](/is-thailand-safe/) for current country and regional boundaries, then build the specific arrival, stay and return system in the [solo female travel in Thailand guide](/travel-guides/solo-female-travel-thailand/). The [party-hostel guide](/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/) covers the social-accommodation trade-off, while the [travel-insurance guide](/blog/travel-insurance-thailand-guide/) explains the separate cover decision for diving and other activities.
 
 ### Can I snorkel instead of diving?
 

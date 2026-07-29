@@ -166,7 +166,7 @@ Many operators offer customizable or private packages where you choose destinati
 
 ### Are Thailand packages safe for solo female travelers?
 
-Yes. Group packages are actually one of the safest ways for [solo female travelers](https://go2-thailand.com/travel-guides/solo-female-travel-thailand/) to visit Thailand. You're with a group, have a guide, and logistics are handled. That said, Thailand is also very safe for independent solo travel. Read our [Thailand solo travel boom guide](/blog/thailand-solo-travel-boom-2026-tips-destinations/) for more on traveling alone.
+A group package can reduce some solo-travel logistics, but a guide or group is not a safety guarantee. Check the operator, meeting point, transport, room arrangement, free-time boundaries and route back just as you would on an independent trip. Our [solo female travel in Thailand guide](/travel-guides/solo-female-travel-thailand/) helps women compare those choices without assuming that either a package or independent travel is universally safer. The [Thailand solo-travel trend article](/blog/thailand-solo-travel-boom-2026-tips-destinations/) covers the separate tourism context.
 
 ### Do packages include visa costs?
 

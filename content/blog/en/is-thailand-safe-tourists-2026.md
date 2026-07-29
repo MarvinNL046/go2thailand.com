@@ -38,7 +38,7 @@ Thailand welcomes over 35 million international visitors annually, and the vast 
 | **Do I need travel insurance?** | Absolutely. Medical care is affordable but comprehensive [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) protects against emergencies. |
 | **What's the biggest scam?** | Gem scams, overpriced tuk-tuks, and drink spiking in nightlife areas. Always use metered taxis or apps. |
 | **Should I be worried about crime?** | Petty theft is more common than violent crime. Violent incidents involving tourists are rare if you avoid late-night confrontations. |
-| **Is it safe for solo female travelers?** | Yes, but take standard precautions: avoid walking alone very late, don't accept drinks from strangers, trust your instincts. |
+| **Is it safe for solo female travellers?** | No trip has a blanket guarantee. Check arrival, accommodation access, transport, drink control and the route home. |
 
 ---
 
@@ -311,7 +311,7 @@ In our experience, confrontations with Thai people almost always stem from touri
 
 ## 8. Women Travelers: Safety Considerations
 
-Thailand is generally safe for solo female travelers, but gender-specific risks exist. We've traveled with female colleagues throughout Thailand and observed patterns worth noting. Our dedicated [solo female travel safety guide](/travel-guides/solo-female-travel-thailand/) goes deeper on specific precautions.
+Thailand does not come with a blanket safety verdict for women travelling alone. Arrival time, accommodation access, transport, drink control and the route home all change the decision. Our independently researched [solo female travel in Thailand guide](/travel-guides/solo-female-travel-thailand/) turns those moments into a practical plan and points back to current official advice.
 
 ### Real Risks for Women
 
