@@ -379,7 +379,7 @@ button[class*="save"] {
   }
 
   .eyebrow {
-    @apply mb-3 text-xs font-bold uppercase tracking-[0.22em] text-saffron;
+    @apply mb-3 text-xs font-bold uppercase tracking-[0.22em] text-saffron-dark;
   }
 
   .heading-redesign {

@@ -25,7 +25,7 @@ sources:
 ---
 # Bangkok Beyond Temples: A Local's Guide to the City
 
-While most visitors flock to **Bangkok's famous temples**, the real magic of Thailand's capital lies in its neighborhoods, street markets, and the rhythms of daily life that few tourists ever [experience](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog). This isn't a city of postcards alone—it's a sprawling metropolis where ancient traditions collide with cutting-edge modernity, where a 200-year-old shophouse sits next to a gleaming shopping mall, and where the best meal of your life might cost less than a coffee back home.
+While most visitors flock to **Bangkok's famous temples**, the capital also unfolds through neighbourhoods, street markets and very different daily rhythms. If this is your first visit, begin with our [Bangkok arrival and first-three-days guide](/blog/bangkok-travel-tips-reddit/) to choose a base and avoid cross-city zig-zagging; this article then helps you use the open space for neighbourhood-led exploration.
 
 ## Key Takeaways
 

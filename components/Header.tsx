@@ -44,7 +44,7 @@ export default function Header() {
             <div className={hasOverlayHeader ? 'rounded-lg border border-white/70 bg-white/90 shadow-[0_4px_16px_rgba(6,54,47,0.12)] backdrop-blur-md' : ''}>
               <LanguageSwitcher />
             </div>
-            <Link href="/itineraries/" className="rounded-full bg-saffron px-5 py-3 text-sm font-semibold text-white transition hover:bg-saffron-dark">
+            <Link href="/itineraries/" className="rounded-full bg-saffron px-5 py-3 text-sm font-semibold text-jade transition hover:bg-saffron-dark hover:text-white">
               {isNl ? 'Plan je reis' : 'Plan your trip'}
             </Link>
           </div>

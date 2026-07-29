@@ -78,7 +78,7 @@ export default function PushBanner() {
       <span>{t.text}</span>
       <button
         onClick={handleAllow}
-        className="px-2.5 py-0.5 bg-thailand-red text-white rounded text-xs font-medium hover:bg-thailand-red-600 transition-colors"
+        className="rounded bg-thailand-red-700 px-2.5 py-0.5 text-xs font-medium text-white transition-colors hover:bg-thailand-red-800"
       >
         {t.allow}
       </button>

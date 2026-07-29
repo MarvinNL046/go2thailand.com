@@ -55,8 +55,8 @@ export function RelatedGuidesSection({ eyebrow = 'Verder plannen', title, guides
               </div>
               <div className="p-5">
                 <h3 className="font-display text-[1.65rem] font-semibold leading-none text-jade">{guide.title}</h3>
-                <p className="mt-3 text-xs leading-5 text-charcoal/60">{guide.description}</p>
-                <span className="mt-4 inline-flex items-center gap-2 text-xs font-extrabold text-jade">{readLabel} <ArrowRight size={14} aria-hidden="true" className="text-saffron transition group-hover:translate-x-1" /></span>
+                <p className="mt-3 text-xs leading-5 text-charcoal/72">{guide.description}</p>
+                <span className="mt-4 inline-flex items-center gap-2 text-xs font-extrabold text-jade">{readLabel} <ArrowRight size={14} aria-hidden="true" className="text-saffron-dark transition group-hover:translate-x-1" /></span>
               </div>
             </Link>
           ))}

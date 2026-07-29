@@ -56,6 +56,7 @@ import { JoddFairsRatchadaGuideEn } from '../../components/markets/JoddFairsRatc
 import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
 import { ChatuchakFoodGuideEn } from '../../components/markets/ChatuchakFoodGuideEn';
 import { BangkokStreetFoodMarketsGuideEn } from '../../components/markets/BangkokStreetFoodMarketsGuideEn';
+import { BangkokFirstTimeTipsGuideEn } from '../../components/editorial/BangkokFirstTimeTipsGuideEn';
 import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
 import { ThaiMassageThailandGuideEn } from '../../components/wellness/ThaiMassageThailandGuideEn';
 import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
@@ -279,6 +280,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
   if (locale !== 'nl' && post.slug === 'best-street-food-markets-bangkok') {
     return <BangkokStreetFoodMarketsGuideEn />;
+  }
+
+  if (locale !== 'nl' && post.slug === 'bangkok-travel-tips-reddit') {
+    return <BangkokFirstTimeTipsGuideEn />;
   }
 
   if (locale === 'nl' && post.slug === 'thai-massage-guide-types-prices') {

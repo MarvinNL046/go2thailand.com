@@ -26,7 +26,7 @@ sources:
 
 ## Bangkok's Rail Network Is Bigger Than Ever
 
-Bangkok's public transport network has grown rapidly over the past few years. In 2026, the city now has underground metro lines, elevated Skytrain routes, modern driverless monorails, and an airport rail link — all connected at key interchange stations. For tourists, this means you can reach most major sights, [shopping districts](/blog/one-bangkok-shopping-mall-tourist-guide-2026/), and [night markets](/blog/best-night-markets-bangkok-2026/) without sitting in Bangkok's notorious traffic.
+Bangkok combines underground metro lines, elevated Skytrain routes, monorails and an airport rail link, but no single mode solves every visitor route. First choose a hotel corridor and geographic day shape with our [Bangkok first-time travel guide](/blog/bangkok-travel-tips-reddit/); then use this specialist transport guide to check which rail line actually fits each long move. Current maps, payment methods, service information and fares should always be verified with the operator.
 
 ## The Main Lines You Need to Know
 

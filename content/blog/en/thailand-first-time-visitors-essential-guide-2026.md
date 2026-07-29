@@ -225,7 +225,7 @@ Getting around Thailand is straightforward once you understand the options. We'v
 
 ### Within Cities
 
-**Bangkok:** The BTS Skytrain and MRT subway are fast, clean, and cost 16–65 THB ($0.45–1.85 USD) per trip. Buy a Rabbit Card (rechargeable) at any station for convenience. Taxis are metered and cost 35 THB base fare plus 5.50 THB per kilometer. Grab (Southeast Asia's Uber) is reliable and slightly cheaper.
+**Bangkok:** Start with our [Bangkok travel tips for first-time visitors](/blog/bangkok-travel-tips-reddit/) to choose one hotel corridor, plan the first 90 minutes and group three days by geography. Use BTS or MRT when the stations fit both ends, then combine rail with the river, a clearly identified car or a compact walking loop. Check the operator or app for the current route, payment method and fare instead of relying on an old price table.
 
 **Chiang Mai and other cities:** Songthaews (shared red trucks) are the main transport, costing 20–40 THB per ride within the city. Tuk-tuks are more expensive (100–200 THB) but faster and more private. Rent a scooter (150–250 THB/day) if you're comfortable riding—many tourists do, but accidents happen.
 

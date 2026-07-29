@@ -23,9 +23,9 @@ export function PageSectionNav({ label = 'Op deze pagina', items, activeIndex = 
               key={href}
               href={href}
               aria-current={active ? 'location' : undefined}
-              className={`group flex min-w-[145px] snap-start items-center justify-center gap-2 border-b-2 px-5 py-4 text-xs font-bold transition ${active ? 'border-jade text-jade' : 'border-transparent text-charcoal/55 hover:border-saffron/45 hover:text-jade'}`}
+              className={`group flex min-w-[145px] snap-start items-center justify-center gap-2 border-b-2 px-5 py-4 text-xs font-bold transition ${active ? 'border-jade text-jade' : 'border-transparent text-charcoal/70 hover:border-saffron/45 hover:text-jade'}`}
             >
-              <Icon size={16} aria-hidden="true" className={active ? 'text-jade' : 'text-charcoal/40 group-hover:text-saffron'} />
+              <Icon size={16} aria-hidden="true" className={active ? 'text-jade' : 'text-charcoal/70 group-hover:text-saffron-dark'} />
               {itemLabel}
             </a>
           );

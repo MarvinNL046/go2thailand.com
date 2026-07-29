@@ -20,7 +20,7 @@ module.exports = {
         saffron: {
           DEFAULT: '#F29A38',
           light: '#FFC36B',
-          dark: '#D77B1F',
+          dark: '#A65312',
         },
         charcoal: '#293531',
         thailand: {
