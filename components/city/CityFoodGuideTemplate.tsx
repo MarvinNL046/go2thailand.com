@@ -246,7 +246,7 @@ export function CityFoodGuideTemplate({ data }: { data: CityFoodGuideData }) {
 
         <section id="practical" className="section-divider-bottom scroll-mt-24 bg-jade py-14 text-white lg:py-20">
           <div className="container-custom">
-            <SectionHeading eyebrow="Useful limits" title="Four checks before you cross the city" description="No award, queue or viral video guarantees a good fit. Food handling, current details and your own dietary needs still decide." className="[&>.eyebrow]:!text-saffron-light [&_.heading-redesign]:text-white [&>div]:!text-white/68" />
+            <SectionHeading eyebrow="Useful limits" title="Four checks before you set out" description="A busy market or famous dish never removes the need to check food handling, current details and your own dietary requirements." className="[&>.eyebrow]:!text-saffron-light [&_.heading-redesign]:text-white [&>div]:!text-white/68" />
             <div className="mt-9 grid gap-4 md:grid-cols-2 xl:grid-cols-4">
               {data.practicalChecks.map(({ title, description, icon }, index) => {
                 const Icon = iconMap[icon];

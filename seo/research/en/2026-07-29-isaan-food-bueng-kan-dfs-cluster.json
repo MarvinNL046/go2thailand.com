@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T10:11:29.298Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "isaan food bueng kan",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "isaan food bueng kan"
+  ],
+  "keywords": [
+    {
+      "keyword": "isaan food bueng kan",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
