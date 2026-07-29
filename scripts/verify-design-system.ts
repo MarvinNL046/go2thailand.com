@@ -137,6 +137,7 @@ const nakhonRatchasimaCityFoodEn = read('data/city-food/en/nakhon-ratchasima.ts'
 const nakhonSiThammaratCityFoodEn = read('data/city-food/en/nakhon-si-thammarat.ts');
 const paiCityFoodEn = read('data/city-food/en/pai.ts');
 const pattayaCityFoodEn = read('data/city-food/en/pattaya.ts');
+const phitsanulokCityFoodEn = read('data/city-food/en/phitsanulok.ts');
 const phuketCityFoodEn = read('data/city-food/en/phuket.ts');
 const sukhothaiCityFoodEn = read('data/city-food/en/sukhothai.ts');
 const suratThaniCityFoodEn = read('data/city-food/en/surat-thani.ts');
@@ -170,6 +171,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!nakhonSiThammaratCityFoodEn.includes(proof)) failures.push(`Nakhon Si Thammarat city-food owner lacks content proof: ${proof}`);
   if (!paiCityFoodEn.includes(proof)) failures.push(`Pai city-food owner lacks content proof: ${proof}`);
   if (!pattayaCityFoodEn.includes(proof)) failures.push(`Pattaya city-food owner lacks content proof: ${proof}`);
+  if (!phitsanulokCityFoodEn.includes(proof)) failures.push(`Phitsanulok city-food owner lacks content proof: ${proof}`);
   if (!phuketCityFoodEn.includes(proof)) failures.push(`Phuket city-food owner lacks content proof: ${proof}`);
   if (!sukhothaiCityFoodEn.includes(proof)) failures.push(`Sukhothai city-food owner lacks content proof: ${proof}`);
   if (!suratThaniCityFoodEn.includes(proof)) failures.push(`Surat Thani city-food owner lacks content proof: ${proof}`);
@@ -196,6 +198,13 @@ for (const proof of ['ubonRatchathaniCityFoodEn', "'ubon-ratchathani': ubonRatch
 }
 for (const proof of ['lopburiCityFoodEn', 'lopburi: lopburiCityFoodEn']) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Lopburi owner proof: ${proof}`);
+}
+for (const proof of ['phitsanulokCityFoodEn', 'phitsanulok: phitsanulokCityFoodEn']) {
+  if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Phitsanulok owner proof: ${proof}`);
+}
+for (const asset of ['phitsanulok-food-nan-river-table.webp', 'phitsanulok-nan-night-market.webp']) {
+  if (!phitsanulokCityFoodEn.includes(asset)) failures.push(`Phitsanulok city-food owner does not use ${asset}`);
+  read(`public/images/redesign/${asset}`);
 }
 for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {
   if (!sitemap.includes('/thailand-street-food/')) failures.push('Street-food owner is missing from a locale sitemap');
