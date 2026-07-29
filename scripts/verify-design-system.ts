@@ -133,6 +133,7 @@ const krabiCityFoodEn = read('data/city-food/en/krabi.ts');
 const lampangCityFoodEn = read('data/city-food/en/lampang.ts');
 const lopburiCityFoodEn = read('data/city-food/en/lopburi.ts');
 const maeHongSonCityFoodEn = read('data/city-food/en/mae-hong-son.ts');
+const mukdahanCityFoodEn = read('data/city-food/en/mukdahan.ts');
 const nakhonRatchasimaCityFoodEn = read('data/city-food/en/nakhon-ratchasima.ts');
 const nakhonSiThammaratCityFoodEn = read('data/city-food/en/nakhon-si-thammarat.ts');
 const nakhonPhanomCityFoodEn = read('data/city-food/en/nakhon-phanom.ts');
@@ -172,6 +173,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!lampangCityFoodEn.includes(proof)) failures.push(`Lampang city-food owner lacks content proof: ${proof}`);
   if (!lopburiCityFoodEn.includes(proof)) failures.push(`Lopburi city-food owner lacks content proof: ${proof}`);
   if (!maeHongSonCityFoodEn.includes(proof)) failures.push(`Mae Hong Son city-food owner lacks content proof: ${proof}`);
+  if (!mukdahanCityFoodEn.includes(proof)) failures.push(`Mukdahan city-food owner lacks content proof: ${proof}`);
   if (!nakhonRatchasimaCityFoodEn.includes(proof)) failures.push(`Nakhon Ratchasima city-food owner lacks content proof: ${proof}`);
   if (!nakhonSiThammaratCityFoodEn.includes(proof)) failures.push(`Nakhon Si Thammarat city-food owner lacks content proof: ${proof}`);
   if (!nakhonPhanomCityFoodEn.includes(proof)) failures.push(`Nakhon Phanom city-food owner lacks content proof: ${proof}`);
@@ -196,6 +198,13 @@ for (const proof of ['CityFoodGuideTemplate', 'getEnCityFoodGuide', 'cityFoodGui
 }
 for (const proof of ['maeHongSonCityFoodEn', "'mae-hong-son': maeHongSonCityFoodEn"]) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Mae Hong Son owner proof: ${proof}`);
+}
+for (const proof of ['mukdahanCityFoodEn', 'mukdahan: mukdahanCityFoodEn']) {
+  if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Mukdahan owner proof: ${proof}`);
+}
+for (const asset of ['mukdahan-food-mekong-market-table.webp', 'mukdahan-food.webp', 'mukdahan-indochina-market.webp', 'mukdahan-river-route.webp']) {
+  if (!mukdahanCityFoodEn.includes(asset)) failures.push(`Mukdahan city-food owner does not use ${asset}`);
+  read(`public/images/redesign/${asset}`);
 }
 for (const proof of ['udonThaniCityFoodEn', "'udon-thani': udonThaniCityFoodEn"]) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Udon Thani owner proof: ${proof}`);

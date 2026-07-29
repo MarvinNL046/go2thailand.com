@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-29T18:44:55.411Z
+**Generated:** 2026-07-29T19:05:37.900Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -10,15 +10,15 @@ This file is generated from the route inventory, locale keyword-owner registers,
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | NL | 703 | 703 | 702 | 1 | 106 | unknown | unknown | 703 |
-| EN | 1563 | 1563 | 1562 | 1 | 157 | 112 | 231 | 1563 |
+| EN | 1563 | 1563 | 1562 | 1 | 158 | 113 | 233 | 1563 |
 
 ## Active owner queues
 
 ### en-city-food
 
-- Complete: **33/34**
-- Closed: **no**
-- Remaining: `/city/mukdahan/food/`
+- Complete: **34/34**
+- Closed: **yes**
+- Remaining: none
 
 ## Hard completion gates
 
@@ -27,7 +27,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 - [x] noMissingDesignSignature
 - [x] sitewideHardErrorsZero
 - [ ] allInventoryDecisionsFinal
-- [ ] allActiveQueuesClosed
+- [x] allActiveQueuesClosed
 - [ ] deploymentReadinessSignedOff
 
 ## Interpretation
