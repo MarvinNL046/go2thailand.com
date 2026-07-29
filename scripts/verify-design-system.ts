@@ -138,6 +138,7 @@ const nakhonSiThammaratCityFoodEn = read('data/city-food/en/nakhon-si-thammarat.
 const paiCityFoodEn = read('data/city-food/en/pai.ts');
 const pattayaCityFoodEn = read('data/city-food/en/pattaya.ts');
 const phitsanulokCityFoodEn = read('data/city-food/en/phitsanulok.ts');
+const tratCityFoodEn = read('data/city-food/en/trat.ts');
 const phuketCityFoodEn = read('data/city-food/en/phuket.ts');
 const sukhothaiCityFoodEn = read('data/city-food/en/sukhothai.ts');
 const suratThaniCityFoodEn = read('data/city-food/en/surat-thani.ts');
@@ -172,6 +173,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!paiCityFoodEn.includes(proof)) failures.push(`Pai city-food owner lacks content proof: ${proof}`);
   if (!pattayaCityFoodEn.includes(proof)) failures.push(`Pattaya city-food owner lacks content proof: ${proof}`);
   if (!phitsanulokCityFoodEn.includes(proof)) failures.push(`Phitsanulok city-food owner lacks content proof: ${proof}`);
+  if (!tratCityFoodEn.includes(proof)) failures.push(`Trat city-food owner lacks content proof: ${proof}`);
   if (!phuketCityFoodEn.includes(proof)) failures.push(`Phuket city-food owner lacks content proof: ${proof}`);
   if (!sukhothaiCityFoodEn.includes(proof)) failures.push(`Sukhothai city-food owner lacks content proof: ${proof}`);
   if (!suratThaniCityFoodEn.includes(proof)) failures.push(`Surat Thani city-food owner lacks content proof: ${proof}`);
@@ -204,6 +206,13 @@ for (const proof of ['phitsanulokCityFoodEn', 'phitsanulok: phitsanulokCityFoodE
 }
 for (const asset of ['phitsanulok-food-nan-river-table.webp', 'phitsanulok-nan-night-market.webp']) {
   if (!phitsanulokCityFoodEn.includes(asset)) failures.push(`Phitsanulok city-food owner does not use ${asset}`);
+  read(`public/images/redesign/${asset}`);
+}
+for (const proof of ['tratCityFoodEn', 'trat: tratCityFoodEn']) {
+  if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Trat owner proof: ${proof}`);
+}
+for (const asset of ['trat-food-eastern-table.webp', 'trat-food.webp', 'trat-old-town.webp', 'trat-ban-nam-chiao.webp']) {
+  if (!tratCityFoodEn.includes(asset)) failures.push(`Trat city-food owner does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
 for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {
