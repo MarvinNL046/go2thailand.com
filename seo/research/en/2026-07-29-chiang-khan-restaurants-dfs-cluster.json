@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-29T11:01:45.272Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "chiang khan restaurants",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "chiang khan restaurants"
+  ],
+  "keywords": [
+    {
+      "keyword": "chiang khan restaurants",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}
