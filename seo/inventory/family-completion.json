@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family.",
+  "families": [
+    {
+      "key": "nl:destination-guide",
+      "status": "complete",
+      "evidence": ["seo/audits/nl-destination-family-2026-07-26.md"],
+      "note": "All 35 Dutch destination pillars have family acceptance; three previously unregistered owners were added to the keyword register from their existing DFS and QA evidence."
+    },
+    {
+      "key": "nl:destination-subpillar:attractions",
+      "status": "complete",
+      "evidence": ["seo/audits/nl-attraction-overview-family-2026-07-26.md"],
+      "note": "The Dutch attraction-overview family has explicit 34-route acceptance evidence."
+    },
+    {
+      "key": "nl:destination-subpillar:weather",
+      "status": "complete",
+      "evidence": ["seo/audits/nl-weather-family-2026-07-26.md"],
+      "note": "The five Dutch city-weather routes have explicit family acceptance evidence."
+    },
+    {
+      "key": "nl:food-drink",
+      "status": "complete",
+      "evidence": ["seo/audits/nl-food-dish-family-2026-07-26.md"],
+      "note": "The shared Dutch food and dish family has explicit family acceptance evidence."
+    },
+    {
+      "key": "en:destination-guide",
+      "status": "complete",
+      "evidence": [
+        "seo/audits/en-ban-krut-destination-owner-2026-07-26.md",
+        "seo/audits/en-khao-sok-phitsanulok-mae-hong-son-lopburi-owners-2026-07-27.md"
+      ],
+      "note": "All 35 English destination pillars now have exact registered owners; the five registration gaps already had independent DFS, implementation and QA evidence."
+    },
+    {
+      "key": "en:destination-subpillar:food",
+      "status": "complete",
+      "evidence": ["seo/audits/en-mukdahan-city-food-owner-2026-07-29.md"],
+      "note": "The English city-food queue is closed at 34/34 exact independently researched owners."
+    },
+    {
+      "key": "en:destination-subpillar:best-time-to-visit",
+      "status": "complete",
+      "evidence": ["seo/audits/en-destination-season-subpillar-owner-2026-07-29.md"],
+      "note": "Both exceptional English best-time routes have explicit independent season-owner evidence."
+    }
+  ]
+}
