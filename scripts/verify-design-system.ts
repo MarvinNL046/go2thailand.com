@@ -132,6 +132,7 @@ const khaoSokCityFoodEn = read('data/city-food/en/khao-sok.ts');
 const krabiCityFoodEn = read('data/city-food/en/krabi.ts');
 const lampangCityFoodEn = read('data/city-food/en/lampang.ts');
 const maeHongSonCityFoodEn = read('data/city-food/en/mae-hong-son.ts');
+const nakhonRatchasimaCityFoodEn = read('data/city-food/en/nakhon-ratchasima.ts');
 const nakhonSiThammaratCityFoodEn = read('data/city-food/en/nakhon-si-thammarat.ts');
 const paiCityFoodEn = read('data/city-food/en/pai.ts');
 const pattayaCityFoodEn = read('data/city-food/en/pattaya.ts');
@@ -162,6 +163,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!krabiCityFoodEn.includes(proof)) failures.push(`Krabi city-food owner lacks content proof: ${proof}`);
   if (!lampangCityFoodEn.includes(proof)) failures.push(`Lampang city-food owner lacks content proof: ${proof}`);
   if (!maeHongSonCityFoodEn.includes(proof)) failures.push(`Mae Hong Son city-food owner lacks content proof: ${proof}`);
+  if (!nakhonRatchasimaCityFoodEn.includes(proof)) failures.push(`Nakhon Ratchasima city-food owner lacks content proof: ${proof}`);
   if (!nakhonSiThammaratCityFoodEn.includes(proof)) failures.push(`Nakhon Si Thammarat city-food owner lacks content proof: ${proof}`);
   if (!paiCityFoodEn.includes(proof)) failures.push(`Pai city-food owner lacks content proof: ${proof}`);
   if (!pattayaCityFoodEn.includes(proof)) failures.push(`Pattaya city-food owner lacks content proof: ${proof}`);
@@ -181,6 +183,9 @@ for (const proof of ['maeHongSonCityFoodEn', "'mae-hong-son': maeHongSonCityFood
 }
 for (const proof of ['udonThaniCityFoodEn', "'udon-thani': udonThaniCityFoodEn"]) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Udon Thani owner proof: ${proof}`);
+}
+for (const proof of ['nakhonRatchasimaCityFoodEn', "'nakhon-ratchasima': nakhonRatchasimaCityFoodEn"]) {
+  if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Nakhon Ratchasima owner proof: ${proof}`);
 }
 for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {
   if (!sitemap.includes('/thailand-street-food/')) failures.push('Street-food owner is missing from a locale sitemap');

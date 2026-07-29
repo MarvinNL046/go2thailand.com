@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T15:32:12.016Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "nakhon ratchasima food",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "nakhon ratchasima food"
+  ],
+  "keywords": [
+    {
+      "keyword": "nakhon ratchasima food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

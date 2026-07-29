@@ -16,6 +16,7 @@ import { khaoSokCityFoodEn } from './khao-sok';
 import { krabiCityFoodEn } from './krabi';
 import { lampangCityFoodEn } from './lampang';
 import { maeHongSonCityFoodEn } from './mae-hong-son';
+import { nakhonRatchasimaCityFoodEn } from './nakhon-ratchasima';
 import { nakhonSiThammaratCityFoodEn } from './nakhon-si-thammarat';
 import { paiCityFoodEn } from './pai';
 import { pattayaCityFoodEn } from './pattaya';
@@ -42,6 +43,7 @@ const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   krabi: krabiCityFoodEn,
   lampang: lampangCityFoodEn,
   'mae-hong-son': maeHongSonCityFoodEn,
+  'nakhon-ratchasima': nakhonRatchasimaCityFoodEn,
   'nakhon-si-thammarat': nakhonSiThammaratCityFoodEn,
   pai: paiCityFoodEn,
   pattaya: pattayaCityFoodEn,
