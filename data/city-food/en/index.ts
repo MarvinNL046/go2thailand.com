@@ -26,6 +26,7 @@ import { phuketCityFoodEn } from './phuket';
 import { sukhothaiCityFoodEn } from './sukhothai';
 import { suratThaniCityFoodEn } from './surat-thani';
 import { tratCityFoodEn } from './trat';
+import { trangCityFoodEn } from './trang';
 import { udonThaniCityFoodEn } from './udon-thani';
 import { ubonRatchathaniCityFoodEn } from './ubon-ratchathani';
 
@@ -57,6 +58,7 @@ const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   sukhothai: sukhothaiCityFoodEn,
   'surat-thani': suratThaniCityFoodEn,
   trat: tratCityFoodEn,
+  trang: trangCityFoodEn,
   'udon-thani': udonThaniCityFoodEn,
   'ubon-ratchathani': ubonRatchathaniCityFoodEn,
 };
