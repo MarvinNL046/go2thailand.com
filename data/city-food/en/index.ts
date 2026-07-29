@@ -11,6 +11,7 @@ import { hatYaiCityFoodEn } from './hat-yai';
 import { huaHinCityFoodEn } from './hua-hin';
 import { kanchanaburiCityFoodEn } from './kanchanaburi';
 import { khonKaenCityFoodEn } from './khon-kaen';
+import { kohSamuiCityFoodEn } from './koh-samui';
 import { khaoSokCityFoodEn } from './khao-sok';
 import { krabiCityFoodEn } from './krabi';
 import { pattayaCityFoodEn } from './pattaya';
@@ -30,6 +31,7 @@ const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   'hua-hin': huaHinCityFoodEn,
   kanchanaburi: kanchanaburiCityFoodEn,
   'khon-kaen': khonKaenCityFoodEn,
+  'koh-samui': kohSamuiCityFoodEn,
   'khao-sok': khaoSokCityFoodEn,
   krabi: krabiCityFoodEn,
   pattaya: pattayaCityFoodEn,
