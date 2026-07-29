@@ -21,6 +21,13 @@
       "note": "The five Dutch city-weather routes have explicit family acceptance evidence."
     },
     {
+      "key": "nl:destination-subpillar:food",
+      "status": "pending",
+      "acceptedRoutes": ["/nl/city/krabi/food/"],
+      "evidence": ["seo/audits/nl-krabi-city-food-owner-2026-07-29.md"],
+      "note": "The Dutch city-food family is being accepted owner by owner; Krabi is the first independently researched and production-verified route."
+    },
+    {
       "key": "nl:food-drink",
       "status": "complete",
       "evidence": ["seo/audits/nl-food-dish-family-2026-07-26.md"],

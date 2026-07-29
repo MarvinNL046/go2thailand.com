@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T19:16:05.024Z",
+  "generatedAt": "2026-07-29T20:06:23.829Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,15 +9,15 @@
       "premium": 702,
       "hybrid": 1,
       "noSignature": 0,
-      "exactOwners": 109,
+      "exactOwners": 110,
       "duplicateExactOwnerRoutes": [],
-      "contextualAmazonRoutes": null,
-      "amazonLinks": null,
-      "provisionalInventoryDecisions": 527,
-      "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-28.json",
-      "sitewideReport": "seo/audits/runtime/nl-thailand-snorkeling-hreflang-final-2026-07-29.json",
+      "contextualAmazonRoutes": 1,
+      "amazonLinks": 2,
+      "provisionalInventoryDecisions": 526,
+      "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-29.json",
+      "sitewideReport": "seo/audits/runtime/nl-krabi-food-final-2026-07-29.json",
       "sitewide": {
-        "generatedAt": "2026-07-28T22:40:59.971Z",
+        "generatedAt": "2026-07-29T20:00:54.989Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -633,27 +633,29 @@
       "closed": true
     },
     "nl:destination-subpillar:food": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:destination-subpillar:food.",
+      "definition": "The Dutch city-food family is being accepted owner by owner; Krabi is the first independently researched and production-verified route.",
       "expected": 34,
-      "complete": 0,
-      "exactOwners": 0,
-      "remainingCount": 34,
+      "complete": 1,
+      "exactOwners": 1,
+      "remainingCount": 33,
       "remaining": [
         "/nl/city/bangkok/food/",
         "/nl/city/chiang-mai/food/",
         "/nl/city/phuket/food/",
         "/nl/city/pattaya/food/",
         "/nl/city/ayutthaya/food/",
-        "/nl/city/krabi/food/",
         "/nl/city/chiang-rai/food/",
         "/nl/city/hat-yai/food/",
         "/nl/city/sukhothai/food/",
         "/nl/city/surat-thani/food/",
         "/nl/city/pai/food/",
-        "/nl/city/mae-hong-son/food/"
+        "/nl/city/mae-hong-son/food/",
+        "/nl/city/lampang/food/"
       ],
       "remainingTruncated": true,
-      "evidence": [],
+      "evidence": [
+        "seo/audits/nl-krabi-city-food-owner-2026-07-29.md"
+      ],
       "closed": false
     },
     "nl:destination-subpillar:weather": {
@@ -1076,11 +1078,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": null,
-      "designCoverage": "missing-report-row",
+      "httpStatus": 200,
+      "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "shared-template-only"
     },
     {
       "locale": "nl",
@@ -4911,12 +4913,12 @@
       "templateOwner": "destination-subpillar",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:destination-subpillar:food",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "exactOwner": true,
+      "amazonLinks": 2,
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

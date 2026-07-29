@@ -565,7 +565,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                             <a
                               href="https://klook.tpo.lv/7Dt6WApj?subid=street-food"
                               target="_blank"
-                              rel="noopener noreferrer nofollow"
+                              rel="noopener noreferrer nofollow sponsored"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
                               {isNl ? 'Kooklessen' : 'Cooking Classes'}
@@ -573,7 +573,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                             <a
                               href="https://getyourguide.tpo.lv/GuAFfGGK?subid=street-food"
                               target="_blank"
-                              rel="noopener noreferrer nofollow"
+                              rel="noopener noreferrer nofollow sponsored"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
                               {isNl ? 'Food Tours' : 'Food Tours'}
@@ -581,7 +581,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                             <a
                               href="https://booking.tpo.lv/2PT1kR82?subid=street-food"
                               target="_blank"
-                              rel="noopener noreferrer nofollow"
+                              rel="noopener noreferrer nofollow sponsored"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
                               {isNl ? 'Hotels bij Markten' : 'Hotels near Markets'}
@@ -723,7 +723,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 <a
                   href="https://klook.tpo.lv/7Dt6WApj?subid=street-food"
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
                 >
                   <span>&#127859; Klook Cooking Classes</span>
@@ -734,7 +734,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 <a
                   href="https://getyourguide.tpo.lv/GuAFfGGK?subid=street-food"
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
                 >
                   <span>&#127774; GetYourGuide Food Tours</span>
@@ -745,7 +745,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 <a
                   href="https://booking.tpo.lv/2PT1kR82?subid=street-food"
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
                 >
                   <span>&#127968; Booking.com</span>
@@ -756,7 +756,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 <a
                   href="https://saily.tpo.lv/rf9lidnE?subid=street-food"
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
                 >
                   <span>&#128242; Saily eSIM for Thailand</span>
@@ -797,7 +797,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               </Link>
 
               <Link
-                href="/city/bangkok/top-10-restaurants/"
+                href={isNl ? '/city/bangkok/food/' : '/city/bangkok/top-10-restaurants/'}
                 className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
               >
                 <div className="text-3xl mb-3">&#127869;</div>

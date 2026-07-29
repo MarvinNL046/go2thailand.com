@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-29T19:16:05.024Z
+**Generated:** 2026-07-29T20:06:23.829Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 703 | 703 | 702 | 1 | 109 | unknown | unknown | 527 |
+| NL | 703 | 703 | 702 | 1 | 110 | 1 | 2 | 526 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -277,12 +277,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:destination-subpillar:food
 
-- Family accepted: **0/34**
-- Exact owners registered: **0/34**
+- Family accepted: **1/34**
+- Exact owners registered: **1/34**
 - Closed: **no**
-- Remaining routes: **34** (first 12 shown)
-- Sample: `/nl/city/bangkok/food/`, `/nl/city/chiang-mai/food/`, `/nl/city/phuket/food/`, `/nl/city/pattaya/food/`, `/nl/city/ayutthaya/food/`, `/nl/city/krabi/food/`, `/nl/city/chiang-rai/food/`, `/nl/city/hat-yai/food/`, `/nl/city/sukhothai/food/`, `/nl/city/surat-thani/food/`, `/nl/city/pai/food/`, `/nl/city/mae-hong-son/food/`
-- Evidence: not signed off
+- Remaining routes: **33** (first 12 shown)
+- Sample: `/nl/city/bangkok/food/`, `/nl/city/chiang-mai/food/`, `/nl/city/phuket/food/`, `/nl/city/pattaya/food/`, `/nl/city/ayutthaya/food/`, `/nl/city/chiang-rai/food/`, `/nl/city/hat-yai/food/`, `/nl/city/sukhothai/food/`, `/nl/city/surat-thani/food/`, `/nl/city/pai/food/`, `/nl/city/mae-hong-son/food/`, `/nl/city/lampang/food/`
+- Evidence: `seo/audits/nl-krabi-city-food-owner-2026-07-29.md`
 
 ### nl:destination-subpillar:weather
 

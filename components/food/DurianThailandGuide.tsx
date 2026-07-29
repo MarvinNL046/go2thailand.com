@@ -395,7 +395,7 @@ export function DurianThailandGuide() {
               <SectionHeading
                 eyebrow="Van openen tot laatste hap"
                 title="Maak versheid zichtbaar, niet mystiek"
-                description={<>Een geurtest of perfecte kleur kan voedselveiligheid niet bewijzen. Gebruik dezelfde nuchtere keuzes als bij andere verse producten. Onze <InlineLink href="/blog/thai-street-food-guide-2026/">Thaise streetfoodgids</InlineLink> geeft de bredere context voor omloop, temperatuur en schone bereiding.</>}
+                description={<>Een geurtest of perfecte kleur kan voedselveiligheid niet bewijzen. Gebruik dezelfde nuchtere keuzes als bij andere verse producten. Onze <InlineLink href="/thailand-street-food/">Thaise streetfoodgids</InlineLink> geeft de bredere context voor omloop, temperatuur en schone bereiding.</>}
               />
               <p className="max-w-3xl text-sm font-medium leading-7 text-charcoal/66">Een hele vrucht beschermt het vruchtvlees totdat ze wordt geopend; daarna worden tijd, temperatuur en hantering belangrijk. Koop daarom niet vroeg op de dag een bakje dat uren in hitte of bagage blijft. Proef wanneer je echt kunt eten, kies een verkooppunt met passende koeling voor voorverpakt fruit en laat twijfel niet oplossen door alleen harder te ruiken.</p>
             </div>

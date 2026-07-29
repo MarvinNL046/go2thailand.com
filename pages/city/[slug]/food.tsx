@@ -11,6 +11,7 @@ import { CityFoodGuideTemplate } from '../../../components/city/CityFoodGuideTem
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
 import { getEnCityFoodGuide } from '../../../data/city-food/en';
+import { getNlCityFoodGuide } from '../../../data/city-food/nl';
 import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 
 function flattenBilingual(data: unknown): unknown {
@@ -107,7 +108,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
 
   const cityName = city.name[lang] || city.name.en;
 
-  const cityFoodGuide = lang === 'en' ? getEnCityFoodGuide(city.slug) : undefined;
+  const cityFoodGuide = lang === 'nl' ? getNlCityFoodGuide(city.slug) : getEnCityFoodGuide(city.slug);
   if (cityFoodGuide) {
     return <CityFoodGuideTemplate data={cityFoodGuide} />;
   }

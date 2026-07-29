@@ -28,6 +28,7 @@ type FamilyCompletion = {
   status: 'complete' | 'pending';
   evidence: string[];
   note: string;
+  acceptedRoutes?: string[];
 };
 
 const auditDir = resolve(PROJECT_ROOT, 'seo', 'audits');
@@ -119,6 +120,7 @@ const familyCompletion = JSON.parse(readFileSync(familyCompletionPath, 'utf8')) 
 const duplicateFamilyKeys = duplicates(familyCompletion.families.map(family => family.key));
 if (duplicateFamilyKeys.length) throw new Error(`Duplicate family completion keys: ${duplicateFamilyKeys.join(', ')}`);
 const familyDecisionByKey = new Map(familyCompletion.families.map(family => [family.key, family]));
+const acceptedRoutesByFamily = new Map<string, Set<string>>();
 const inventoryByFamily = new Map<string, InventoryRoute[]>();
 for (const row of inventory) {
   const key = routeFamilyKey(row);
@@ -127,8 +129,19 @@ for (const row of inventory) {
   inventoryByFamily.set(key, rows);
 }
 for (const family of familyCompletion.families) {
-  if (!inventoryByFamily.has(family.key)) throw new Error(`Family completion entry does not match inventory: ${family.key}`);
-  if (family.status === 'complete' && !family.evidence.length) throw new Error(`Complete family lacks evidence: ${family.key}`);
+  const familyRows = inventoryByFamily.get(family.key);
+  if (!familyRows) throw new Error(`Family completion entry does not match inventory: ${family.key}`);
+  const acceptedRoutes = family.acceptedRoutes || [];
+  const duplicateAcceptedRoutes = duplicates(acceptedRoutes);
+  if (duplicateAcceptedRoutes.length) throw new Error(`Duplicate accepted routes for ${family.key}: ${duplicateAcceptedRoutes.join(', ')}`);
+  const familyRouteSet = new Set(familyRows.map(row => row.path));
+  const unknownAcceptedRoutes = acceptedRoutes.filter(route => !familyRouteSet.has(route));
+  if (unknownAcceptedRoutes.length) throw new Error(`Accepted routes do not belong to ${family.key}: ${unknownAcceptedRoutes.join(', ')}`);
+  if ((family.status === 'complete' || acceptedRoutes.length) && !family.evidence.length) throw new Error(`Accepted family work lacks evidence: ${family.key}`);
+  if (family.status === 'complete' && acceptedRoutes.length && acceptedRoutes.length !== familyRows.length) {
+    throw new Error(`Complete family has a partial acceptedRoutes list: ${family.key}`);
+  }
+  acceptedRoutesByFamily.set(family.key, new Set(family.status === 'complete' ? familyRows.map(row => row.path) : acceptedRoutes));
   for (const evidence of family.evidence) {
     if (!existsSync(resolve(PROJECT_ROOT, evidence))) throw new Error(`Family evidence does not exist for ${family.key}: ${evidence}`);
   }
@@ -148,13 +161,13 @@ for (const locale of ['nl', 'en'] as SeoLocale[]) {
   const coverageByPath = new Map(coverageRows.map(row => [row.path, row]));
   const sitewide = latestSitewideReport(locale, inventoryRows.length);
   const duplicateOwners = duplicates(keywordRoutes);
-  const provisional = inventoryRows.filter(row => familyDecisionByKey.get(routeFamilyKey(row))?.status !== 'complete');
+  const provisional = inventoryRows.filter(row => !acceptedRoutesByFamily.get(routeFamilyKey(row))?.has(row.path));
 
   for (const row of inventoryRows) {
     const rendered = coverageByPath.get(row.path);
     const exactOwner = keywordSet.has(row.path) || Boolean(rendered?.trackedOwner);
     const familyKey = routeFamilyKey(row);
-    const familyDecision = familyDecisionByKey.get(familyKey);
+    const accepted = acceptedRoutesByFamily.get(familyKey)?.has(row.path) || false;
     exactOwnerByRoute.set(`${locale}:${row.path}`, exactOwner);
     routeRows.push({
       locale,
@@ -163,12 +176,12 @@ for (const locale of ['nl', 'en'] as SeoLocale[]) {
       templateOwner: row.template_owner,
       recommendedAction: row.recommended_action,
       familyKey,
-      decisionStatus: familyDecision?.status === 'complete' ? 'final' : 'provisional',
+      decisionStatus: accepted ? 'final' : 'provisional',
       httpStatus: rendered?.status ?? null,
       designCoverage: rendered?.coverage ?? 'missing-report-row',
       exactOwner,
       amazonLinks: rendered?.amazonLinks || 0,
-      proofState: exactOwner ? 'exact-owner' : familyDecision?.status === 'complete' ? 'family-accepted' : rendered?.coverage === 'premium-signature' || rendered?.coverage === 'hybrid-signature' ? 'shared-template-only' : 'unproven',
+      proofState: exactOwner ? 'exact-owner' : accepted ? 'family-accepted' : rendered?.coverage === 'premium-signature' || rendered?.coverage === 'hybrid-signature' ? 'shared-template-only' : 'unproven',
     });
   }
 
@@ -194,11 +207,12 @@ for (const [key, rows] of [...inventoryByFamily.entries()].sort(([a], [b]) => a.
   const decision = familyDecisionByKey.get(key);
   const closed = decision?.status === 'complete';
   const exactOwners = rows.filter(row => exactOwnerByRoute.get(`${row.locale}:${row.path}`)).length;
-  const unresolved = closed ? [] : rows.map(row => row.path);
+  const acceptedRoutes = acceptedRoutesByFamily.get(key) || new Set<string>();
+  const unresolved = rows.filter(row => !acceptedRoutes.has(row.path)).map(row => row.path);
   activeQueues[key] = {
     definition: decision?.note || `Pending explicit family-level research, design and technical acceptance for ${key}.`,
     expected: rows.length,
-    complete: closed ? rows.length : 0,
+    complete: acceptedRoutes.size,
     exactOwners,
     remainingCount: unresolved.length,
     remaining: unresolved.slice(0, 12),
