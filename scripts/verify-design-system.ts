@@ -141,6 +141,7 @@ const phitsanulokCityFoodEn = read('data/city-food/en/phitsanulok.ts');
 const tratCityFoodEn = read('data/city-food/en/trat.ts');
 const trangCityFoodEn = read('data/city-food/en/trang.ts');
 const nongKhaiCityFoodEn = read('data/city-food/en/nong-khai.ts');
+const rayongCityFoodEn = read('data/city-food/en/rayong.ts');
 const phuketCityFoodEn = read('data/city-food/en/phuket.ts');
 const sukhothaiCityFoodEn = read('data/city-food/en/sukhothai.ts');
 const suratThaniCityFoodEn = read('data/city-food/en/surat-thani.ts');
@@ -178,6 +179,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!tratCityFoodEn.includes(proof)) failures.push(`Trat city-food owner lacks content proof: ${proof}`);
   if (!trangCityFoodEn.includes(proof)) failures.push(`Trang city-food owner lacks content proof: ${proof}`);
   if (!nongKhaiCityFoodEn.includes(proof)) failures.push(`Nong Khai city-food owner lacks content proof: ${proof}`);
+  if (!rayongCityFoodEn.includes(proof)) failures.push(`Rayong city-food owner lacks content proof: ${proof}`);
   if (!phuketCityFoodEn.includes(proof)) failures.push(`Phuket city-food owner lacks content proof: ${proof}`);
   if (!sukhothaiCityFoodEn.includes(proof)) failures.push(`Sukhothai city-food owner lacks content proof: ${proof}`);
   if (!suratThaniCityFoodEn.includes(proof)) failures.push(`Surat Thani city-food owner lacks content proof: ${proof}`);
@@ -231,6 +233,13 @@ for (const proof of ['nongKhaiCityFoodEn', "'nong-khai': nongKhaiCityFoodEn"]) {
 }
 for (const asset of ['nong-khai-food-mekong-table.webp', 'nong-khai-food.webp', 'nong-khai-tha-sadet.webp']) {
   if (!nongKhaiCityFoodEn.includes(asset)) failures.push(`Nong Khai city-food owner does not use ${asset}`);
+  read(`public/images/redesign/${asset}`);
+}
+for (const proof of ['rayongCityFoodEn', 'rayong: rayongCityFoodEn']) {
+  if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Rayong owner proof: ${proof}`);
+}
+for (const asset of ['rayong-food-eastern-gulf-table.webp', 'rayong-yomjinda-old-town.webp', 'rayong-fruit-orchard.webp', 'rayong-destination-hero.webp']) {
+  if (!rayongCityFoodEn.includes(asset)) failures.push(`Rayong city-food owner does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
 for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {

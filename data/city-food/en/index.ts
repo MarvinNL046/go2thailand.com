@@ -24,6 +24,7 @@ import { paiCityFoodEn } from './pai';
 import { pattayaCityFoodEn } from './pattaya';
 import { phitsanulokCityFoodEn } from './phitsanulok';
 import { phuketCityFoodEn } from './phuket';
+import { rayongCityFoodEn } from './rayong';
 import { sukhothaiCityFoodEn } from './sukhothai';
 import { suratThaniCityFoodEn } from './surat-thani';
 import { tratCityFoodEn } from './trat';
@@ -57,6 +58,7 @@ const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   pattaya: pattayaCityFoodEn,
   phitsanulok: phitsanulokCityFoodEn,
   phuket: phuketCityFoodEn,
+  rayong: rayongCityFoodEn,
   sukhothai: sukhothaiCityFoodEn,
   'surat-thani': suratThaniCityFoodEn,
   trat: tratCityFoodEn,

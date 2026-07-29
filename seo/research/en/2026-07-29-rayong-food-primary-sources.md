@@ -1,7 +1,7 @@
 # Rayong food — English owner research brief
 
-**Captured:** 2026-07-29  
-**Owner route:** `https://go2-thailand.com/city/rayong/food/`  
+**Captured:** 2026-07-29
+**Owner route:** `https://go2-thailand.com/city/rayong/food/`
 **Market:** United Kingdom / English
 
 ## Search evidence
