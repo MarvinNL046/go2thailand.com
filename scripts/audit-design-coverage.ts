@@ -22,6 +22,8 @@ type RouteResult = InventoryRow & {
   markerCount: number;
   markers: string[];
   trackedOwner: boolean;
+  amazonLinks: number;
+  amazonSlugs: string[];
   error?: string;
 };
 
@@ -111,6 +113,10 @@ function classify(html: string): { coverage: Coverage; markers: string[] } {
   };
 }
 
+function findAmazonSlugs(html: string): string[] {
+  return [...html.matchAll(/href=["']\/go\/([a-z0-9-]+)\/?["']/gi)].map((match) => match[1]);
+}
+
 async function inspectRoute(
   row: InventoryRow,
   owners: Map<SeoLocale, Set<string>>,
@@ -125,6 +131,7 @@ async function inspectRoute(
     });
     const html = await response.text();
     const classified = classify(html);
+    const amazonSlugs = findAmazonSlugs(html);
     return {
       ...row,
       status: response.status,
@@ -133,6 +140,8 @@ async function inspectRoute(
       markers: classified.markers,
       trackedOwner:
         owners.get(row.locale)?.has(normalisePath(row.path)) || false,
+      amazonLinks: amazonSlugs.length,
+      amazonSlugs: [...new Set(amazonSlugs)],
     };
   } catch (error) {
     return {
@@ -143,6 +152,8 @@ async function inspectRoute(
       markers: [],
       trackedOwner:
         owners.get(row.locale)?.has(normalisePath(row.path)) || false,
+      amazonLinks: 0,
+      amazonSlugs: [],
       error: error instanceof Error ? error.message : String(error),
     };
   } finally {
@@ -220,6 +231,8 @@ async function main(): Promise<void> {
         ...row,
         trackedOwner:
           owners.get(row.locale)?.has(normalisePath(row.path)) || false,
+        amazonLinks: previousRow.amazonLinks || 0,
+        amazonSlugs: previousRow.amazonSlugs || [],
       });
     }
     console.log(
@@ -257,6 +270,9 @@ async function main(): Promise<void> {
           total: localeRows.length,
           httpOk: localeRows.filter((row) => row.status === 200).length,
           trackedOwners: localeRows.filter((row) => row.trackedOwner).length,
+          amazonRoutes: localeRows.filter((row) => row.amazonLinks > 0).length,
+          amazonLinks: localeRows.reduce((sum, row) => sum + row.amazonLinks, 0),
+          amazonSlugs: [...new Set(localeRows.flatMap((row) => row.amazonSlugs))].sort(),
           byCoverage: countBy(localeRows, (row) => row.coverage),
           byTemplateOwner: Object.fromEntries(
             Object.entries(
@@ -268,12 +284,16 @@ async function main(): Promise<void> {
                     hybrid: 0,
                     none: 0,
                     trackedOwners: 0,
+                    amazonRoutes: 0,
+                    amazonLinks: 0,
                   });
                   entry.total++;
                   if (row.coverage === "premium-signature") entry.premium++;
                   else if (row.coverage === "hybrid-signature") entry.hybrid++;
                   else entry.none++;
                   if (row.trackedOwner) entry.trackedOwners++;
+                  if (row.amazonLinks > 0) entry.amazonRoutes++;
+                  entry.amazonLinks += row.amazonLinks;
                   return accumulator;
                 },
                 {} as Record<
@@ -284,6 +304,8 @@ async function main(): Promise<void> {
                     hybrid: number;
                     none: number;
                     trackedOwners: number;
+                    amazonRoutes: number;
+                    amazonLinks: number;
                   }
                 >,
               ),
@@ -323,6 +345,9 @@ async function main(): Promise<void> {
       total: number;
       httpOk: number;
       trackedOwners: number;
+      amazonRoutes: number;
+      amazonLinks: number;
+      amazonSlugs: string[];
       byCoverage: Record<string, number>;
       byTemplateOwner: Record<
         string,
@@ -332,6 +357,8 @@ async function main(): Promise<void> {
           hybrid: number;
           none: number;
           trackedOwners: number;
+          amazonRoutes: number;
+          amazonLinks: number;
         }
       >;
     };
@@ -344,12 +371,14 @@ async function main(): Promise<void> {
       `- Hybrid rendered signature: **${summary.byCoverage["hybrid-signature"] || 0}/${summary.total}**`,
       `- No redesign signature: **${summary.byCoverage["no-signature"] || 0}/${summary.total}**`,
       `- Exact implemented ContentOps owners: **${summary.trackedOwners}**`,
+      `- Routes with contextual Amazon links: **${summary.amazonRoutes}/${summary.total}**`,
+      `- Rendered Amazon links: **${summary.amazonLinks}** across **${summary.amazonSlugs.length}** registered product slugs`,
       "",
-      "| Template owner | Routes | Premium | Hybrid | No signature | Exact SEO owners |",
-      "|---|---:|---:|---:|---:|---:|",
+      "| Template owner | Routes | Premium | Hybrid | No signature | Exact SEO owners | Amazon routes | Amazon links |",
+      "|---|---:|---:|---:|---:|---:|---:|---:|",
       ...Object.entries(summary.byTemplateOwner).map(
         ([owner, row]) =>
-          `| ${owner} | ${row.total} | ${row.premium} | ${row.hybrid} | ${row.none} | ${row.trackedOwners} |`,
+          `| ${owner} | ${row.total} | ${row.premium} | ${row.hybrid} | ${row.none} | ${row.trackedOwners} | ${row.amazonRoutes} | ${row.amazonLinks} |`,
       ),
       "",
     );

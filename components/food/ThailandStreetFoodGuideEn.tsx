@@ -65,9 +65,9 @@ const dishRoutes = [
     title: 'Cooked to order',
     description: 'Begin with a dish that goes from wok to plate in front of you. Confirm chilli and ingredients before the pan gets busy.',
     picks: [
-      { name: 'Pad kra pao', note: 'Basil stir-fry over rice; ask about the protein and fried egg.', href: '/food/pad-kra-pao/' },
+      { name: 'Pad kra pao', note: 'Basil stir-fry over rice; ask about the protein and fried egg.', href: '/food/pad-krapow/' },
       { name: 'Pad see ew', note: 'Broad rice noodles with dark seasoning and greens.', href: '/food/pad-see-ew/' },
-      { name: 'Khao pad', note: 'Fried rice is familiar, but sauces and garnishes still vary.', href: '/food/khao-pad/' },
+      { name: 'Khao pad', note: 'Fried rice is familiar, but sauces and garnishes still vary.', href: '/food/thai-fried-rice/' },
     ],
     image: '/images/redesign/pad-kra-pao-bangkok-hero.webp',
   },
@@ -78,7 +78,6 @@ const dishRoutes = [
     picks: [
       { name: 'Som tam', note: 'Papaya salad pounded to order; the variation matters.', href: '/food/som-tam/' },
       { name: 'Laab', note: 'Minced meat, herbs, lime and toasted rice powder.', href: '/food/larb/' },
-      { name: 'Gai yang', note: 'Grilled chicken works as the calm anchor beside a sharp salad.', href: '/food/gai-yang/' },
     ],
     image: '/images/redesign/som-tam-dish-hero.webp',
   },

@@ -2,26 +2,29 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 import Image from 'next/image';
-import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
+import { getCityBySlug, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
-import CitySupportSources from '../../../components/CitySupportSources';
+import CitySupportSources, { type ContentSource } from '../../../components/CitySupportSources';
+import { CityFoodGuideTemplate } from '../../../components/city/CityFoodGuideTemplate';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
+import { bangkokCityFoodEn } from '../../../data/city-food/en/bangkok';
 import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 
-function flattenBilingual(data: any): any {
+function flattenBilingual(data: unknown): unknown {
   if (data === null || data === undefined) return data;
   if (typeof data !== 'object') return data;
   if (Array.isArray(data)) return data.map(item => flattenBilingual(item));
-  const keys = Object.keys(data);
+  const record = data as Record<string, unknown>;
+  const keys = Object.keys(record);
   if (keys.includes('en') && keys.every(k => k.length <= 3)) {
-    return data.en || '';
+    return record.en || '';
   }
-  const result: any = {};
+  const result: Record<string, unknown> = {};
   for (const key of keys) {
-    result[key] = flattenBilingual(data[key]);
+    result[key] = flattenBilingual(record[key]);
   }
   return result;
 }
@@ -34,7 +37,7 @@ interface City {
   province: string;
   image: string;
   categories: { food: { en: string; nl: string; }; };
-  contentSources?: any[];
+  contentSources?: ContentSource[];
   reviewed_by?: string;
   reviewed_at?: string;
   enhanced_at?: string;
@@ -103,6 +106,11 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
   if (!city) return <div>City not found</div>;
 
   const cityName = city.name[lang] || city.name.en;
+
+  if (lang === 'en' && city.slug === 'bangkok') {
+    return <CityFoodGuideTemplate data={bangkokCityFoodEn} />;
+  }
+
   const breadcrumbs = generateBreadcrumbs(city, 'food');
   const baseMetadata = generateCityMetadata(city, 'food');
 
@@ -246,7 +254,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                     <div className="mt-6 p-4 bg-green-50 rounded-lg text-center">
                       <span className="text-green-800 font-medium">This city is vegetarian-friendly!</span>
                       <p className="text-green-700 text-sm mt-1">
-                        You'll find plenty of vegetarian options at local restaurants and markets.
+                        You&apos;ll find plenty of vegetarian options at local restaurants and markets.
                       </p>
                     </div>
                   )}
@@ -457,13 +465,15 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const cityFoodData = (foodSpecialtiesData as Record<string, CityFoodData>)[slug] || null;
 
   // Load enhanced data for scraped restaurants
-  let enhancedRestaurants: any[] = [];
+  let enhancedRestaurants: EnhancedRestaurant[] = [];
   try {
-    const enhancedData = require(`../../../data/enhanced/${slug}.json`);
+    // The city data is generated JSON; retaining the dynamic loader avoids eagerly bundling every city file.
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const enhancedData = require(`../../../data/enhanced/${slug}.json`) as { whereToEat?: unknown };
     if (enhancedData.whereToEat && Array.isArray(enhancedData.whereToEat)) {
-      enhancedRestaurants = flattenBilingual(enhancedData.whereToEat);
+      enhancedRestaurants = flattenBilingual(enhancedData.whereToEat) as EnhancedRestaurant[];
     }
-  } catch (e) {
+  } catch {
     // No enhanced data available
   }
 

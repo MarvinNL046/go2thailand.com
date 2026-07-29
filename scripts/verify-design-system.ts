@@ -67,6 +67,7 @@ const pilotTemplates = [
   'components/safety/SoloFemaleThailandGuideEn.tsx',
   'components/food/ThailandFoodGuideEn.tsx',
   'components/food/ThailandStreetFoodGuideEn.tsx',
+  'components/city/CityFoodGuideTemplate.tsx',
 ];
 for (const template of pilotTemplates) {
   const source = read(template);
@@ -112,12 +113,25 @@ for (const proof of ['FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSec
 const thailandStreetFoodRoute = read('pages/thailand-street-food.tsx');
 if (!thailandStreetFoodRoute.includes('ThailandStreetFoodGuideEn')) failures.push('Standalone street-food route does not wire the English premium owner');
 if (!read('lib/blog.js').includes("'thai-street-food-guide-2026': '/thailand-street-food/'")) failures.push('The obsolete English street-food blog is not consolidated into the evergreen owner');
+
+const cityFoodTemplate = read('components/city/CityFoodGuideTemplate.tsx');
+const bangkokCityFoodEn = read('data/city-food/en/bangkok.ts');
+const cityFoodRoute = read('pages/city/[slug]/food.tsx');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="city-food-guide-en"']) {
+  if (!cityFoodTemplate.includes(proof)) failures.push(`City-food template lacks premium proof: ${proof}`);
+}
+for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practicalChecks:', 'phrases:', 'faqs:', 'sources:', 'simple-thai-food-cookbook', 'thai-granite-mortar-eight-inch']) {
+  if (!bangkokCityFoodEn.includes(proof)) failures.push(`Bangkok city-food owner lacks content proof: ${proof}`);
+}
+for (const proof of ['CityFoodGuideTemplate', 'bangkokCityFoodEn', "lang === 'en' && city.slug === 'bangkok'"]) {
+  if (!cityFoodRoute.includes(proof)) failures.push(`City-food route lacks Bangkok owner wiring: ${proof}`);
+}
 for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {
   if (!sitemap.includes('/thailand-street-food/')) failures.push('Street-food owner is missing from a locale sitemap');
   if (sitemap.includes('/blog/thai-street-food-guide-2026/')) failures.push('A locale sitemap still exposes the obsolete street-food blog owner');
 }
 const hreflang = read('components/Hreflang.tsx');
-for (const proof of ["'/travel-guides/thai-cuisine-food-guide/'", "nl: '/blog/what-is-thai-food-cuisine-guide/'"]) {
+for (const proof of ["'/travel-guides/thai-cuisine-food-guide/'", "nl: '/food/'"]) {
   if (!hreflang.includes(proof)) failures.push(`Thai-food cross-locale hreflang mapping lacks proof: ${proof}`);
 }
 

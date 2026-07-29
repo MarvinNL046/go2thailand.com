@@ -1,0 +1,1437 @@
+{
+  "captured_at": "2026-07-29T04:08:33.158Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best food in bangkok",
+  "costs": {
+    "suggestions": 0.02184,
+    "related": 0.01656,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "best food in bangkok",
+    "best food in thailand bangkok",
+    "best food street in bangkok",
+    "best street food in bangkok",
+    "best street food in bangkok thailand",
+    "best thai food restaurant in bangkok",
+    "best food market in bangkok",
+    "best food markets in bangkok",
+    "best food court in bangkok",
+    "best food tour in bangkok",
+    "best food tours in bangkok",
+    "best food in bangkok chinatown",
+    "best food in chinatown bangkok",
+    "best street food market in bangkok",
+    "best street food markets in bangkok",
+    "best thai food in bangkok",
+    "best area to stay in bangkok for food",
+    "best area to stay in bangkok for street food",
+    "best authentic thai food in bangkok"
+  ],
+  "keywords": [
+    {
+      "keyword": "sukhumvit road bangkok hotels",
+      "volume": 390,
+      "kd": 31,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food in bangkok",
+      "volume": 170,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food in thailand bangkok",
+      "volume": 170,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food street in bangkok",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok",
+      "volume": 170,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok thailand",
+      "volume": 170,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food restaurant in bangkok",
+      "volume": 110,
+      "kd": 9,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhumvit neighborhood bangkok",
+      "volume": 110,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok street food market",
+      "volume": 90,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "terminal 21 food court",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok street food night market",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food market in bangkok",
+      "volume": 70,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food markets in bangkok",
+      "volume": 70,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants bangkok sukhumvit",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best sukhumvit restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food court in bangkok",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food tour in bangkok",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food tours in bangkok",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in bangkok with a view",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best affordable restaurants in bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food in bangkok chinatown",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in chinatown bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food market in bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best street food markets in bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food in bangkok",
+      "volume": 30,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok map",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 restaurants in bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "famous food in bangkok",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit soi 38",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand street food market",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok street food map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best authentic thai food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in bangkok airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in bangkok reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in central world bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in terminal 21 bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food stalls in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best halal food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best halal street food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best halal thai food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best indian food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best isaan food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best japanese food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best korean food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best local food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best mall food court in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best mexican food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best night market in bangkok for food",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best night street food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place for street food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place in bangkok for street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place to stay in bangkok for street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places to eat street food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in sukhumvit soi 11",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in terminal 21 bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best street food areas in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok 2018",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok chinatown",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok michelin star",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok sukhumvit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in chinatown bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in sathorn bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in thailand bangkok",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food pad thai in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food restaurants in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food streets in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food in central world bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food in chinatown bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food in sathorn bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai restaurants sukhumvit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai street food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best vegan food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best vegetarian food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best vegetarian thai food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best western food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "emporium food court bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hidden gem restaurants bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit 22 bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit area bangkok map google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit neighborhood bangkok map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "terminal 21 food court menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "terminal 21 food court opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "terminal 21 food court reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "terminal 21 food court which floor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the best street food in bangkok",
+      "volume": 10,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the best thai food in bangkok",
+      "volume": 10,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is the best street food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is the best street food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to find the best street food in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "why is terminal 21 food court so cheap",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food in bangkok 2018",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in bangkok 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in bangkok 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok 2024",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food in bangkok 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food in silom bangkok",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food in terminal 21 bangkok",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best veg food in bangkok",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best veg thai food in bangkok",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to eat at terminal 21 food court",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food court in bangkok 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in bangkok 2020",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best halal food in bangkok 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best halal food in bangkok 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best singapore food in bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok 2017",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in bangkok 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "migrationology.com",
+      "avgPosition": 3,
+      "keywordCount": 8,
+      "visibility": 6.4,
+      "estimatedTraffic": 177.56199999999998
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 5.25,
+      "keywordCount": 8,
+      "visibility": 4.65,
+      "estimatedTraffic": 66.834
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 7.5,
+      "keywordCount": 8,
+      "visibility": 3.5500000000000003,
+      "estimatedTraffic": 153.563
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 13.5,
+      "keywordCount": 8,
+      "visibility": 0.8,
+      "estimatedTraffic": 8.558
+    },
+    {
+      "domain": "johnnyafrica.com",
+      "avgPosition": 4.428571428571429,
+      "keywordCount": 7,
+      "visibility": 5.05,
+      "estimatedTraffic": 150.566
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18.125,
+      "keywordCount": 8,
+      "visibility": 2.3,
+      "estimatedTraffic": 40.02
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 6.571428571428571,
+      "keywordCount": 7,
+      "visibility": 3.1,
+      "estimatedTraffic": 27.123
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 8.285714285714286,
+      "keywordCount": 7,
+      "visibility": 2.8,
+      "estimatedTraffic": 38.861
+    },
+    {
+      "domain": "www.feastographyblog.com",
+      "avgPosition": 9.571428571428571,
+      "keywordCount": 7,
+      "visibility": 2.6999999999999997,
+      "estimatedTraffic": 43.772
+    },
+    {
+      "domain": "www.willflyforfood.net",
+      "avgPosition": 8.833333333333334,
+      "keywordCount": 6,
+      "visibility": 1.3499999999999999,
+      "estimatedTraffic": 14.165000000000001
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 6,
+      "visibility": 2.3499999999999996,
+      "estimatedTraffic": 48.16499999999999
+    },
+    {
+      "domain": "travelinsighter.com",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.35,
+      "estimatedTraffic": 4.742
+    },
+    {
+      "domain": "www.timeout.com",
+      "avgPosition": 31.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.0300000000000002
+    },
+    {
+      "domain": "live-less-ordinary.com",
+      "avgPosition": 5,
+      "keywordCount": 5,
+      "visibility": 2.9999999999999996,
+      "estimatedTraffic": 39.875
+    },
+    {
+      "domain": "roadbook.com",
+      "avgPosition": 25.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.524
+    },
+    {
+      "domain": "wandering-everywhere.com",
+      "avgPosition": 21.2,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.53
+    },
+    {
+      "domain": "natanao1969.com",
+      "avgPosition": 23.6,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.7459999999999998
+    },
+    {
+      "domain": "achefstour.com",
+      "avgPosition": 30.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.96
+    },
+    {
+      "domain": "culinarybackstreets.com",
+      "avgPosition": 18,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.6180000000000003
+    },
+    {
+      "domain": "nerdnomads.com",
+      "avgPosition": 23.75,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.284
+    },
+    {
+      "domain": "roamandthrive.com",
+      "avgPosition": 5,
+      "keywordCount": 3,
+      "visibility": 1.8,
+      "estimatedTraffic": 25.99
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.45,
+      "estimatedTraffic": 23.142
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 8.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.05,
+      "estimatedTraffic": 25.604
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 34.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.428
+    },
+    {
+      "domain": "www.theworlds50best.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.254
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 16.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.091
+    },
+    {
+      "domain": "ourtastytravels.com",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 17.566000000000003
+    },
+    {
+      "domain": "www.viehotelbangkok.com",
+      "avgPosition": 38.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.8019999999999998
+    },
+    {
+      "domain": "idealmagazine.co.uk",
+      "avgPosition": 19,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.435
+    },
+    {
+      "domain": "danielfooddiary.com",
+      "avgPosition": 39.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.428
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.212
+    },
+    {
+      "domain": "sethlui.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.963
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 49.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.945
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.1219999999999999
+    },
+    {
+      "domain": "www.eater.com",
+      "avgPosition": 34.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "thepassportcouple.com",
+      "avgPosition": 37.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.071
+    },
+    {
+      "domain": "moha-mushkil.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 11.322
+    },
+    {
+      "domain": "mercure.accor.com",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 3.1710000000000003
+    },
+    {
+      "domain": "handlblogs.com",
+      "avgPosition": 53.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.timetravelturtle.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.227
+    },
+    {
+      "domain": "www.gourmettraveller.com.au",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.227
+    },
+    {
+      "domain": "aroimakmak.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.6519999999999997
+    },
+    {
+      "domain": "www.ariyasom.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.77
+    },
+    {
+      "domain": "muuhotels.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.77
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.343
+    },
+    {
+      "domain": "unforgettabletravel.com",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "nomadsbeyond.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.088
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.33599999999999997
+    },
+    {
+      "domain": "asocialnomad.com",
+      "avgPosition": 47.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.861
+    },
+    {
+      "domain": "www.cookiesound.com",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.308
+    }
+  ]
+}

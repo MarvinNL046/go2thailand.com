@@ -15,11 +15,7 @@ const LOCALE_TO_HREFLANG: Record<string, string> = {
 const CROSS_LOCALE_ALTERNATES: Record<string, Partial<Record<'en' | 'nl', string>>> = {
   '/travel-guides/thai-cuisine-food-guide/': {
     en: '/travel-guides/thai-cuisine-food-guide/',
-    nl: '/blog/what-is-thai-food-cuisine-guide/',
-  },
-  '/blog/what-is-thai-food-cuisine-guide/': {
-    en: '/travel-guides/thai-cuisine-food-guide/',
-    nl: '/blog/what-is-thai-food-cuisine-guide/',
+    nl: '/food/',
   },
 };
 

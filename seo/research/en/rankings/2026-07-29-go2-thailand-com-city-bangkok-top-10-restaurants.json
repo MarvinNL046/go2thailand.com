@@ -1,0 +1,54 @@
+{
+  "captured_at": "2026-07-29T04:09:13.412Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/city/bangkok/top-10-restaurants/",
+  "cost": 0.01272,
+  "rankings": [
+    {
+      "keyword": "bangkok thailand best restaurants",
+      "position": 62,
+      "volume": 1300,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "best bangkok restaurants",
+      "position": 68,
+      "volume": 1300,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurants in bkk",
+      "position": 68,
+      "volume": 1300,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "top restaurants bangkok",
+      "position": 61,
+      "volume": 1300,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "bangkok restaurants",
+      "position": 63,
+      "volume": 720,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "restaurants in bangkok thailand",
+      "position": 57,
+      "volume": 720,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/bangkok/top-10-restaurants/"
+    }
+  ]
+}
