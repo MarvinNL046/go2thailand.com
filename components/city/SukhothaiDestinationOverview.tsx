@@ -409,7 +409,7 @@ export function SukhothaiDestinationOverview({ activitiesHref, hotelsHref, trans
             {[
               { icon: Sparkles, title: 'Things to do', copy: 'Central, north, west and Si Satchanalai routes.', href: '/city/sukhothai/attractions/' },
               { icon: BedDouble, title: 'Where to stay', copy: 'Compare Mueang Kao, New Sukhothai and airport-side stays.', href: '/best-hotels/sukhothai/' },
-              { icon: CalendarDays, title: 'Best time', copy: 'Plan heat, rain, cycling comfort and festival pressure.', href: '/city/sukhothai/best-time-to-visit/' },
+              { icon: CalendarDays, title: 'Weather', copy: 'Plan heat, rain, cycling comfort and festival pressure.', href: '/city/sukhothai/weather/' },
             ].map(({ icon: Icon, title, copy, href }) => (
               <Link key={title} href={href} className="group rounded-xl border border-white/12 bg-white/[0.07] p-5 backdrop-blur-sm transition hover:-translate-y-1 hover:bg-white/[0.11]">
                 <Icon size={18} className="text-saffron-light" strokeWidth={1.55} />

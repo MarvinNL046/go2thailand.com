@@ -96,6 +96,10 @@ The current SERP format or absence of demand does not justify a separate owner f
 
 The implementation retires 30 low-value or duplicate best-time routes: nine into weather and 21 into destination owners. The six EN-only weather routes remain intentional English season owners, while Hua Hin and Khao Sok remain standalone best-time owners. Sitemap volume is expected to move from 1,594 to 1,564 English URLs before any unrelated route decisions.
 
+## Implementation status
+
+Completed on 29 July 2026. The English sitemap now contains 1,564 routes. Hua Hin and Khao Sok use the reusable premium `SeasonDecisionGuideTemplate`; all 30 retired routes return the intended permanent redirect and no rendered English internal link still targets them. Full implementation and QA evidence is recorded in `seo/audits/en-destination-season-subpillar-owner-2026-07-29.md`.
+
 ## Evidence files
 
 - Exact URL rankings/backlinks: `seo/research/en/{rankings,backlinks}/2026-07-29-go2-thailand-com-city-*-(best-time-to-visit|weather).*`.

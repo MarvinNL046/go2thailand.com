@@ -174,7 +174,7 @@ export const khonKaenDestinationGuideEn: DestinationGuideData = {
         "The cooler, relatively drier months are usually easiest for longer city and province days, but every outdoor route still needs a current forecast.",
       tradeoff:
         "A climate average is not a personal forecast. Use TMD before departure, carry water, protect shade breaks and postpone a province route during severe heat, lightning or local warnings.",
-      href: "/city/khon-kaen/best-time-to-visit/",
+      href: "/city/khon-kaen/",
       image: "/images/redesign/khon-kaen-destination-hero.webp",
       imageAlt: "Cool evening light and local walkers beside Bueng Kaen Nakhon",
     },

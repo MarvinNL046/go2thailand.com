@@ -39,6 +39,7 @@ const pilotTemplates = [
   'components/city/AttractionsGuideTemplate.tsx',
   'components/attractions/AttractionDetailGuideTemplate.tsx',
   'components/weather/WeatherGuideTemplate.tsx',
+  'components/weather/SeasonDecisionGuideTemplate.tsx',
   'components/hotels/HotelGuideTemplate.tsx',
   'components/hotels/HotelDetailGuideTemplate.tsx',
   'components/activities/ThailandExcursionsGuide.tsx',
@@ -73,6 +74,23 @@ for (const template of pilotTemplates) {
   for (const rawRoleColor of ['bg-[#fcfaf6]', 'bg-[#f4eee4]', 'bg-[#e8efeb]', 'bg-[#e9f0ed]']) {
     if (source.toLowerCase().includes(rawRoleColor)) failures.push(`${template} still uses raw role color ${rawRoleColor}`);
   }
+}
+
+const seasonDecisionTemplate = read('components/weather/SeasonDecisionGuideTemplate.tsx');
+for (const proof of ['FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="season-decision-guide-en"']) {
+  if (!seasonDecisionTemplate.includes(proof)) failures.push(`Season decision template does not use ${proof}`);
+}
+const seasonDecisionRoute = read('pages/city/[slug]/best-time-to-visit.tsx');
+for (const proof of ['getEnSeasonDecisionGuide', 'SeasonDecisionGuideTemplate', 'EN_BEST_TIME_TO_WEATHER', 'EN_BEST_TIME_TO_CITY']) {
+  if (!seasonDecisionRoute.includes(proof)) failures.push(`Best-time route does not preserve season-owner proof: ${proof}`);
+}
+const khaoSokSeasonData = read('data/seasons/en/khao-sok.ts');
+for (const proof of ['earth-pak-dry-bag', 'simari-water-shoes', 'rainleaf-travel-towel', 'Check the current drybag price at Amazon']) {
+  if (!khaoSokSeasonData.includes(proof)) failures.push(`Khao Sok season owner lacks contextual Amazon proof: ${proof}`);
+}
+const huaHinSeasonData = read('data/seasons/en/hua-hin.ts');
+for (const proof of ['best time to visit', 'Amazon is deliberately not inserted', 'Sam Roi Yot']) {
+  if (!huaHinSeasonData.includes(proof)) failures.push(`Hua Hin season owner lacks decision proof: ${proof}`);
 }
 
 const climateUpdateTemplate = read('components/blog/ClimateUpdateGuideTemplate.tsx');

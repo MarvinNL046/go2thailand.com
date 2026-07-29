@@ -59,7 +59,7 @@ export function SevenDayIslandHoppingItineraryEn() {
     ],
     practicalCards: [
       { title: 'Choose the route first', copy: 'The strategic island-hopping owner compares Gulf and Andaman chains, pace and cross-coast trade-offs.', href: '/blog/thailand-island-hopping-guide/', label: 'Open the route planner', icon: Route },
-      { title: 'Check Krabi weather', copy: 'Use the dedicated owner to compare current conditions and understand what a flexible day needs.', href: '/weather/krabi/', label: 'Open Krabi weather', icon: CloudSun },
+      { title: 'Check Krabi weather', copy: 'Use the dedicated owner to compare current conditions and understand what a flexible day needs.', href: '/city/krabi/weather/', label: 'Open Krabi weather', icon: CloudSun },
       { title: 'Pack for ferry handoffs', copy: 'Use the central packing owner for luggage, drybag and clothing decisions rather than repeating a random shopping list here.', href: '/travel-gear/', label: 'Open Thailand travel gear', icon: BedDouble },
     ],
     bookingCards: [

@@ -91,7 +91,7 @@ const schemas = [
 
 export function KataSurfingGuideEn({ lessonHref, alternativeLessonHref, hotelHref }: KataSurfingGuideEnProps) {
   return (
-    <main className="bg-canvas" data-premium-template="kata-surfing-en">
+    <div className="bg-canvas" data-premium-template="kata-surfing-en">
       <SEOHead title="Surfing at Kata Beach: Lessons, Season & Safety" description="Plan surfing at Kata Beach by ability, season and live conditions. Compare lessons, equipment, safety checks, current providers and where to stay." ogImage={`https://go2-thailand.com${HERO}`}>
         {schemas.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
@@ -185,6 +185,6 @@ export function KataSurfingGuideEn({ lessonHref, alternativeLessonHref, hotelHre
       <FaqSplitSection id="questions" eyebrow="Genuine search questions" title="Kata Beach surfing questions" description="These questions were captured from ten live English SERPs. Answers separate broad seasonal context from the live decision at the beach." items={faqs} />
       <RelatedGuidesSection eyebrow="Continue planning" title="Build the rest of your Kata stay" readLabel="Open the guide" guides={relatedGuides} />
       <SourceMethodSection eyebrow="Sources & method" title="Researched for the decision—not the promise" description="Updated 27 July 2026 after owner ranking and backlink checks, 28 keyword records and 78 competitor-domain records across two DFS clusters, ten live English SERPs with 77 organic results and 52 genuine PAA questions, plus three competitor parses. One source blocked parsing and returned no text. Legacy fixed prices, school counts, wave heights, opening dates, lesson outcomes, travel times and beach-safety guarantees were removed." sources={sources} />
-    </main>
+    </div>
   );
 }

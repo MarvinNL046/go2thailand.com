@@ -159,7 +159,7 @@ export const phitsanulokDestinationGuideEn: DestinationGuideData = {
       summary: "The relatively cooler, drier months are easiest for temple and river walks. Hot-season afternoons call for an indoor or shaded pause; wet-season storms can make roads and mountain viewpoints a different proposition from the city centre.",
       best: "For walking comfort, favour cooler mornings and late afternoons; verify mountain conditions separately.",
       tradeoff: "A clear city forecast does not guarantee good highland visibility. Keep the Phu Hin Rong Kla day flexible.",
-      href: "/city/phitsanulok/best-time-to-visit/",
+      href: "/city/phitsanulok/",
       image: "/images/redesign/phitsanulok-phu-hin-rong-kla.webp",
       imageAlt: "Cloud and forest over the highlands east of Phitsanulok",
     },

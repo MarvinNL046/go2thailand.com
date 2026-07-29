@@ -162,7 +162,7 @@ export const ubonRatchathaniDestinationGuideEn: DestinationGuideData = {
     days: [
       { day: "Day 1", title: "Museum, Thung Si Mueang and Wat Nong Bua", description: "Begin at the national museum if current opening allows, continue through Thung Si Mueang and take a short ride to Wat Phra That Nong Bua rather than a hot traffic walk. During the Candle Festival, let the published route and closures redesign the day. Finish at an active evening market.", href: "/city/ubon-ratchathani/attractions/" },
       { day: "Day 2", title: "Khong Chiam and one good Pha Taem route", description: "Leave early with confirmed transport. See the confluence without demanding a permanently two-coloured river, then choose a realistic Pha Taem route for viewpoint, rock art or Sao Chaliang. Recheck park access, final entry and weather that morning. Sleep in Khong Chiam when the calmer return matters.", href: "/city/ubon-ratchathani/attractions/" },
-      { day: "Day 3", title: "Return slowly or add one confirmed river stop", description: "Choose extra Mekong time, one open stop on a measured return or a second city day. Include Sam Phan Bok only when water level, drive time and departure plan align; a fourth night is often more honest. Keep a wide buffer before a flight or train.", href: "/city/ubon-ratchathani/best-time-to-visit/" },
+      { day: "Day 3", title: "Return slowly or add one confirmed river stop", description: "Choose extra Mekong time, one open stop on a measured return or a second city day. Include Sam Phan Bok only when water level, drive time and departure plan align; a fourth night is often more honest. Keep a wide buffer before a flight or train.", href: "/city/ubon-ratchathani/" },
     ],
   },
   planning: {
@@ -174,7 +174,7 @@ export const ubonRatchathaniDestinationGuideEn: DestinationGuideData = {
         "Use roughly November to February for more comfortable walking. Check Sam Phan Bok by current river level and the Candle Festival by the official annual programme.",
       tradeoff:
         "Drier weather can be dusty and busier at exposed river sites. Green season can look richer but needs a genuine storm, park and road alternative.",
-      href: "/city/ubon-ratchathani/best-time-to-visit/",
+      href: "/city/ubon-ratchathani/",
       image: "/images/redesign/ubon-ratchathani-pha-taem.webp",
       imageAlt: "Pha Taem and the Mekong valley in clear cool-season light",
     },
@@ -212,7 +212,7 @@ export const ubonRatchathaniDestinationGuideEn: DestinationGuideData = {
   ],
   relatedGuides: [
     { title: "Things to do in Ubon Ratchathani", description: "Compare the city, Pha Taem and Mekong stops by distance, season and current access.", href: "/city/ubon-ratchathani/attractions/", image: "/images/redesign/ubon-ratchathani-candle-festival.webp", imageAlt: "Candle craft as a major Ubon Ratchathani cultural attraction" },
-    { title: "Best time to visit Ubon Ratchathani", description: "Balance cooler walking, green season, river level and the changing festival calendar.", href: "/city/ubon-ratchathani/best-time-to-visit/", image: "/images/redesign/ubon-ratchathani-pha-taem.webp", imageAlt: "Pha Taem and the Mekong landscape in early light" },
+    { title: "Best time to visit Ubon Ratchathani", description: "Balance cooler walking, green season, river level and the changing festival calendar.", href: "/city/ubon-ratchathani/", image: "/images/redesign/ubon-ratchathani-pha-taem.webp", imageAlt: "Pha Taem and the Mekong landscape in early light" },
     { title: "Where to stay in Ubon Ratchathani", description: "Choose the city for transport and culture or Khong Chiam for the eastern landscape route.", href: "/best-hotels/ubon-ratchathani/", image: "/images/redesign/ubon-ratchathani-khong-chiam.webp", imageAlt: "Quiet morning beside the Mekong at Khong Chiam" },
   ],
   sources: [

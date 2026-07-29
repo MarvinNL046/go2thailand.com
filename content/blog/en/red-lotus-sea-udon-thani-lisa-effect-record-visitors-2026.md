@@ -34,7 +34,7 @@ Local boat operators at Ban Diam Pier have felt the surge firsthand. Daily boat 
 
 ## Planning Your Visit
 
-The Red Lotus Sea bloom season typically runs from November through February, with peak flowering in December and January. Visitors should arrive early in the morning, ideally between 6:00 and 9:00 AM, when the flowers are fully open and the light is best for photography. Check the [best time to visit Udon Thani](/city/udon-thani/best-time-to-visit/) for a full month-by-month weather and crowd breakdown.
+The Red Lotus Sea is a seasonal nature visit, so flowering, boat access and the strongest time of day require a current local check rather than a permanent peak promise. Use the [Udon Thani guide](/city/udon-thani/) to place Nong Han Kumphawapi in the route, then reconfirm present conditions before travelling.
 
 Udon Thani is served by its own international airport with direct flights from Bangkok (about one hour), Chiang Mai, and several regional destinations. Check [new airline routes to Thailand in 2026](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/) for the latest connectivity options. From the city centre, Nong Han Lake is roughly a 45-minute drive south. The [best hotels in Udon Thani](/best-hotels/udon-thani/) include options close to the city centre that work well as a base for a dawn visit to the lake.
 

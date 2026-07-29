@@ -411,7 +411,7 @@ Comfortable walking shoes are essential—you'll be standing on uneven pavement 
 
 Start with [our Bangkok food guide](/city/bangkok/food/) to understand the broader culinary landscape, then dive into these markets with an open mind and an empty stomach. The best street food experiences come from curiosity, willingness to try unfamiliar dishes, and genuine engagement with the vendors who make Bangkok's food scene legendary. To deepen your understanding of the food culture behind these stalls, read the [history of Thai cuisine](/blog/history-of-thai-cuisine/).
 
-For more detailed planning, check out our [Bangkok attractions guide](/city/bangkok/attractions/) and [best time to visit Bangkok](/city/bangkok/best-time-to-visit/) to coordinate your market visits with other experiences. If you want to learn to cook what you eat at the markets, the [Blue Elephant Cooking School Bangkok review](/blog/blue-elephant-cooking-school-bangkok-review/) covers one of the city's top cooking classes. Budget-conscious travelers should also see our [guide to eating in Thailand for under $5 a day](/blog/eat-like-local-thailand-under-5-dollars/).
+For more detailed planning, use our [Bangkok attractions guide](/city/bangkok/attractions/) and [Bangkok weather guide](/city/bangkok/weather/) to coordinate market time with the rest of the city. If you want to learn to cook what you eat at the markets, the [Blue Elephant Cooking School Bangkok review](/blog/blue-elephant-cooking-school-bangkok-review/) covers that specific class. Budget-conscious travellers can also open our [Thailand budget food guide](/blog/eat-like-local-thailand-under-5-dollars/).
 
 **Trust us: the memories you'll create—and the flavors you'll discover—are worth every step.**
 

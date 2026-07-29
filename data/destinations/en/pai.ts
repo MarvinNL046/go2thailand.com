@@ -159,7 +159,7 @@ export const paiDestinationGuideEn: DestinationGuideData = {
       summary: "Cooler months are popular for valley mornings; nights can feel cold in exposed or simple accommodation. Late dry-season smoke can reduce visibility and affect health. Rain makes roads, canyon ridges and waterfall access more demanding.",
       best: "Choose from current visibility, road and air-quality conditions—not an annual sunset promise.",
       tradeoff: "A famous viewpoint has little value in severe haze, and a dry town street does not guarantee safe waterfall or canyon footing.",
-      href: "/city/pai/best-time-to-visit/",
+      href: "/city/pai/",
       image: "/images/redesign/pai-destination-hero.webp",
       imageAlt: "Pai valley under changing mist and seasonal visibility",
     },
@@ -197,7 +197,7 @@ export const paiDestinationGuideEn: DestinationGuideData = {
   relatedGuides: [
     { title: "Things to do in Pai", description: "Compare town, south and north-west routes without a scooter-first checklist.", href: "/city/pai/attractions/", image: "/images/redesign/pai-canyon-route.webp", imageAlt: "Pai Canyon and southern valley route" },
     { title: "Where to stay in Pai", description: "Choose town, riverside or valley around noise and actual transport.", href: "/where-to-stay/pai/", image: "/images/redesign/pai-valley-riverside-v2.webp", imageAlt: "Quiet valley stay near Pai" },
-    { title: "Best time for Pai", description: "Compare cool mornings, rain, visibility and air-quality risk.", href: "/city/pai/best-time-to-visit/", image: "/images/redesign/pai-destination-hero.webp", imageAlt: "Seasonal visibility in Pai valley" },
+    { title: "Best time for Pai", description: "Compare cool mornings, rain, visibility and air-quality risk.", href: "/city/pai/", image: "/images/redesign/pai-destination-hero.webp", imageAlt: "Seasonal visibility in Pai valley" },
   ],
   sources: [
     { title: "Mae Hong Son destination", creator: "Tourism Authority of Thailand", url: "https://www.tourismthailand.org/Destinations/Provinces/Mae-Hong-Son/106", note: "Official province context for Pai and Mae Hong Son landscapes." },

@@ -1,11 +1,11 @@
 # Route inventory
 
-Generated: 2026-07-29T01:27:53.387Z
+Generated: 2026-07-29T02:05:14.788Z
 
-- Total sitemap URLs: 2297
-- English URLs: 1594
+- Total sitemap URLs: 2267
+- English URLs: 1564
 - Dutch URLs: 703
-- URLs without a language pair: 929
+- URLs without a language pair: 899
 
 ## Page families
 
@@ -18,7 +18,7 @@ Generated: 2026-07-29T01:27:53.387Z
 | destination-detail | 66 |
 | destination-index | 2 |
 | destination-pillar | 70 |
-| destination-subpillar | 184 |
+| destination-subpillar | 154 |
 | food-drink | 145 |
 | homepage | 2 |
 | hotel-commercial | 197 |
@@ -40,7 +40,7 @@ Generated: 2026-07-29T01:27:53.387Z
 |---|---:|
 | freshness-audit | 634 |
 | indexation-audit | 429 |
-| keep-improve | 472 |
+| keep-improve | 442 |
 | manual-audit | 65 |
 | merge-candidate | 55 |
 | template-audit | 326 |

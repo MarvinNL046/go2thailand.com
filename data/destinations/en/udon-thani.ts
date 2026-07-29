@@ -130,7 +130,7 @@ export const udonThaniDestinationGuideEn: DestinationGuideData = {
         "Water lilies respond to season, time and conditions. An early start usually provides cooler air and a better chance of open flowers, but no web calendar can promise the view on a particular morning. Treat the lake as a current natural event rather than a mandatory year-round attraction.",
       decision:
         "Ask a current local source about bloom and boating, then confirm departure, jetty, boat size and life jackets before leaving Udon city.",
-      href: "/city/udon-thani/best-time-to-visit/",
+      href: "/city/udon-thani/",
     },
   ],
   featureBanner: {
@@ -175,7 +175,7 @@ export const udonThaniDestinationGuideEn: DestinationGuideData = {
         "Use roughly November to February for the simplest outdoor rhythm, then verify Red Lotus Sea by current local bloom and weather rather than month alone.",
       tradeoff:
         "Cool-season popularity can make the lake busier, while dry days can still be hot and dusty. Keep a city, museum or food alternative for any failed nature morning.",
-      href: "/city/udon-thani/best-time-to-visit/",
+      href: "/city/udon-thani/",
       image: "/images/redesign/udon-thani-destination-hero.webp",
       imageAlt: "Water lilies in cool dawn light at Nong Han Kumphawapi",
     },

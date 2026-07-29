@@ -174,7 +174,7 @@ export const bangkokDestinationGuideEn: DestinationGuideData = {
       best: "Easiest general window: November–February",
       tradeoff:
         "A drier month is not automatically cool, quiet or pollution-free. Check the current forecast and air quality, then move temple walks or parks rather than forcing a stored plan.",
-      href: "/city/bangkok/best-time-to-visit/",
+      href: "/city/bangkok/weather/",
       image: "/images/cities/bangkok/redesign/bangkok-weather-hero.webp",
       imageAlt: "Bangkok skyline under tropical weather",
     },

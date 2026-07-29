@@ -149,7 +149,7 @@ export const kanchanaburiDestinationGuideEn: DestinationGuideData = {
     days: [
       { day: "Arrival", title: "Town base and river orientation", description: "Check in near the part of town that serves tomorrow’s route, confirm current rail or park information and use the evening for a calm river walk and dinner—not a rushed memorial visit.", href: "/where-to-stay/kanchanaburi/" },
       { day: "Day 1", title: "Museum, cemetery, bridge", description: "Begin with interpretation, continue quietly through the cemetery and approach the bridge with that context. Add only a short second museum or old-town stop if attention remains.", href: "/city/kanchanaburi/attractions/" },
-      { day: "Day 2", title: "Erawan as a complete day", description: "Leave early, follow current park rules and choose a safe turn-around. Return with enough daylight and do not attach a late train segment merely to maximise the checklist.", href: "/city/kanchanaburi/best-time-to-visit/" },
+      { day: "Day 2", title: "Erawan as a complete day", description: "Leave early, follow current park rules and choose a safe turn-around. Return with enough daylight and do not attach a late train segment merely to maximise the checklist.", href: "/city/kanchanaburi/" },
       { day: "Day 3", title: "Western railway or upriver stay", description: "Ride a planned section toward Nam Tok with a confirmed return, or move to a river lodge for another night. Sangkhla Buri needs additional days beyond this first route.", href: "/city/kanchanaburi/attractions/" },
     ],
   },
@@ -159,7 +159,7 @@ export const kanchanaburiDestinationGuideEn: DestinationGuideData = {
       summary: "The cooler, relatively drier period generally makes town walks and railway travel easier. Erawan can look different by season, and heavy rain may affect trails, swimming or roads. Current park notices matter more than a waterfall photograph from another month.",
       best: "For balance, favour cooler mornings and verify Erawan conditions close to travel.",
       tradeoff: "Lower water can reduce the visual effect; high water can close or make sections unsafe. Neither is solved by a fixed annual promise.",
-      href: "/city/kanchanaburi/best-time-to-visit/",
+      href: "/city/kanchanaburi/",
       image: "/images/redesign/kanchanaburi-erawan-waterfall.webp",
       imageAlt: "Seasonal water and forest trail at Erawan Waterfall",
     },
@@ -197,7 +197,7 @@ export const kanchanaburiDestinationGuideEn: DestinationGuideData = {
   relatedGuides: [
     { title: "Things to do in Kanchanaburi", description: "Separate remembrance, railway, waterfall and far-west routes by meaning and distance.", href: "/city/kanchanaburi/attractions/", image: "/images/redesign/kanchanaburi-history-route-v2.webp", imageAlt: "Kanchanaburi remembrance route" },
     { title: "Where to stay in Kanchanaburi", description: "Choose town, bridge area or upriver base around the next day’s real route.", href: "/where-to-stay/kanchanaburi/", image: "/images/redesign/kanchanaburi-upriver-stay-v2.webp", imageAlt: "Quiet upriver lodge in Kanchanaburi" },
-    { title: "Best time for Kanchanaburi", description: "Compare heat, water level, trail conditions and railway comfort.", href: "/city/kanchanaburi/best-time-to-visit/", image: "/images/redesign/kanchanaburi-erawan-waterfall.webp", imageAlt: "Erawan Waterfall conditions" },
+    { title: "Best time for Kanchanaburi", description: "Compare heat, water level, trail conditions and railway comfort.", href: "/city/kanchanaburi/", image: "/images/redesign/kanchanaburi-erawan-waterfall.webp", imageAlt: "Erawan Waterfall conditions" },
   ],
   sources: [
     { title: "Kanchanaburi destination", creator: "Tourism Authority of Thailand", url: "https://www.tourismthailand.org/Destinations/Provinces/Kanchanaburi/109", note: "Official province context for major historical and natural areas." },

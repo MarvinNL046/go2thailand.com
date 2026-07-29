@@ -102,7 +102,7 @@ export function PhuketAreaGuideTemplate({ data }: { data: PhuketAreaGuideData })
   const copy = data.sectionCopy || {};
 
   return (
-    <main className="bg-canvas" data-premium-template="phuket-area-owner-en">
+    <div className="bg-canvas" data-premium-template="phuket-area-owner-en">
       <SEOHead title={data.title} description={data.description} ogImage={`https://go2-thailand.com${data.heroImage}`}>
         {schemas.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
@@ -202,6 +202,6 @@ export function PhuketAreaGuideTemplate({ data }: { data: PhuketAreaGuideData })
       <FaqSplitSection id="questions" eyebrow="Genuine search questions" title={`Questions before choosing ${data.area}`} description={data.faqDescription} items={data.faqs} />
       <RelatedGuidesSection eyebrow="Continue planning" title="Build the rest of Phuket" readLabel="Open the guide" guides={data.related} />
       <SourceMethodSection eyebrow="Sources & method" title={copy.methodTitle || 'A decision guide, not a nightlife stereotype.'} description={data.methodDescription} sources={data.sources} />
-    </main>
+    </div>
   );
 }

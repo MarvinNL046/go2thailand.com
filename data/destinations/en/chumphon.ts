@@ -162,7 +162,7 @@ export const chumphonDestinationGuideEn: DestinationGuideData = {
       best: "Plan from current marine and weather information",
       tradeoff:
         "Do not treat average rainfall as a sailing guarantee. Reconfirm the operator, official warnings and local sea conditions shortly before departure.",
-      href: "/city/chumphon/best-time-to-visit/",
+      href: "/city/chumphon/",
       image: "/images/redesign/chumphon-destination-hero.webp",
       imageAlt: "Changing coastal weather over Chumphon beach",
     },

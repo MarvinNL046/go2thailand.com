@@ -40,7 +40,7 @@ Just 15 minutes away by car, Wat Rong Suea Ten, the [Blue Temple](/city/chiang-r
 
 ## Practical Tips for 2026
 
-- **Best time to visit:** November through February, when temperatures in Chiang Rai sit between 15 and 25 degrees Celsius with clear skies — see the full [Chiang Rai weather and best time to visit](/city/chiang-rai/best-time-to-visit/) guide
+- **Conditions:** Use the [Chiang Rai weather guide](/city/chiang-rai/weather/) for seasonal orientation, then check the current forecast and air quality before an exposed temple or mountain day.
 - **Day trip from Chiang Mai:** Most travellers [travel from Chiang Mai to Chiang Rai](/transport/chiang-mai-to-chiang-rai/) on a day trip. Budget group tours cost 1,200 to 1,600 baht per person, while private tours run 3,500 to 4,500 baht
 - **Coming from Bangkok:** You can take [the sleeper train from Bangkok to Chiang Mai](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) and continue from there, or fly direct to [Chiang Rai on one of the new airline routes available in 2026](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/)
 - **Arrive early:** The White Temple opens at 8:00 AM on weekdays. Getting there by opening time means thinner crowds and better light for photos

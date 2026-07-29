@@ -61,7 +61,7 @@ function createSchemas(data: EditorialItineraryData) {
 
 export function EditorialItineraryTemplate({ data }: { data: EditorialItineraryData }) {
   return (
-    <main className="bg-canvas" data-premium-template="editorial-itinerary-en">
+    <div className="bg-canvas" data-premium-template="editorial-itinerary-en">
       <SEOHead title={data.title} description={data.description} ogImage={`https://go2-thailand.com${data.heroImage}`}>
         {createSchemas(data).map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
@@ -83,6 +83,6 @@ export function EditorialItineraryTemplate({ data }: { data: EditorialItineraryD
       <FaqSplitSection id="questions" eyebrow="Genuine search questions" title="Seven-day Phuket and Krabi questions" description="Captured from ten live UK-English SERPs and answered without fixed fares, transfer durations or guaranteed weather." items={data.faqs} />
       <RelatedGuidesSection eyebrow="Continue planning" title="Know the owners behind the route" readLabel="Open the guide" guides={data.related} />
       <SourceMethodSection eyebrow="Sources & method" title="A route, not an invented timetable" description={data.methodDescription} sources={data.sources} />
-    </main>
+    </div>
   );
 }

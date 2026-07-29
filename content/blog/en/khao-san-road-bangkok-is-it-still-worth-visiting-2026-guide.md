@@ -268,7 +268,7 @@ Extend via [3 Days Bangkok](https://go2-thailand.com/itineraries/3-days-bangkok/
 
 **Day 3:** Day trip to [Ayutthaya Weekend Trip From Bangkok 2026](https://go2-thailand.com/blog/ayutthaya-weekend-trip-from-bangkok-2026/), return for farewell party.
 
-Link to [Best Time To Visit travel guide](https://go2-thailand.com/city/bangkok/best-time-to-visit/).
+Use the [Bangkok weather guide](/city/bangkok/weather/) for seasonal planning and current-condition handoffs.
 
 > **Did You Know?** Banglamphu, home to Khao San, preserves Rattanakosin-era architecture from Bangkok's founding in 1782.
 >

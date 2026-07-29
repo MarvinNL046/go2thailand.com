@@ -36,7 +36,7 @@ The Bank of Thailand is advancing its **"Safe and Inclusive Digital Finance"** a
 
 ### What This Means for Travelers
 
-For travelers planning a trip to [Bangkok in October 2026](/city/bangkok/best-time-to-visit/), there are a few things to keep in mind:
+For travellers planning an October trip, use the [Bangkok weather guide](/city/bangkok/weather/) for seasonal context and check the current forecast close to the event:
 
 - **Accommodation demand** around the Sukhumvit and Asoke areas near QSNCC will spike significantly during the meetings — book early via our [Bangkok hotels guide](/city/bangkok/hotels/)
 - **Security measures** will be heightened in central Bangkok, particularly around the convention center area

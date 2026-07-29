@@ -158,7 +158,7 @@ export const lopburiDestinationGuideEn: DestinationGuideData = {
       summary: "The relatively cooler, drier period is easiest for exposed ruins and often overlaps with the broader sunflower window. It does not guarantee every field. Hot-season afternoons can be severe; wet-season storms make stone slippery and change countryside plans.",
       best: "Choose early and late hours for the old city, then verify bloom and weather independently.",
       tradeoff: "A clear cool-season weekend can mean busier fields. A quieter wet day may suit museums but needs a storm plan.",
-      href: "/city/lopburi/best-time-to-visit/",
+      href: "/city/lopburi/",
       image: "/images/redesign/lopburi-sunflower-route.webp",
       imageAlt: "Lopburi sunflower field in softer cool-season light",
     },

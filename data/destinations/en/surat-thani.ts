@@ -159,7 +159,7 @@ export const suratThaniDestinationGuideEn: DestinationGuideData = {
       summary: "Surat Thani city works year-round when heat and showers are planned around morning, pause and evening. Gulf wind can alter a boat while the market remains open; heavy rain can affect a road or canal route without stopping every activity in the province.",
       best: "City route: flexible across the year with a live forecast.",
       tradeoff: "One general Thailand season cannot guarantee Samui seas, Don Sak ferries and Khao Sok trails at the same time. Check each operator or authority close to departure.",
-      href: "/city/surat-thani/best-time-to-visit/",
+      href: "/city/surat-thani/weather/",
       image: "/images/redesign/surat-thani-destination-hero.webp",
       imageAlt: "Tapee River under changing southern weather",
     },

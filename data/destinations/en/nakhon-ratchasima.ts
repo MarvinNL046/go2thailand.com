@@ -148,7 +148,7 @@ export const nakhonRatchasimaDestinationGuideEn: DestinationGuideData = {
       summary: "November to February is usually the easiest period for city walking, temples and a long Phimai day. March to May can make plazas and exposed stone intensely hot. Wetter months green the Khao Yai and plateau landscape but add heavy rain, slippery paths and less predictable outdoor access. Korat city still works with a flexible indoor-outdoor rhythm.",
       best: "The cooler, relatively drier months suit the broadest first trip, but use TMD and current park notices for the actual week.",
       tradeoff: "Cooler weather can increase pressure at Phimai and Khao Yai. Green-season landscapes are rewarding, but require storm, trail and return flexibility.",
-      href: "/city/nakhon-ratchasima/best-time-to-visit/",
+      href: "/city/nakhon-ratchasima/",
       image: "/images/redesign/korat-phimai.webp",
       imageAlt: "Phimai Historical Park in soft, relatively cool morning light",
     },

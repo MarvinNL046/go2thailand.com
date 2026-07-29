@@ -10,6 +10,8 @@ import transportRoutes from '../../../data/transport-routes.json';
 import cityWeatherData from '../../../data/city-weather.json';
 import { normalizeNlInternalHref } from '../../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
+import { getEnSeasonDecisionGuide } from '../../../data/seasons/en';
+import { SeasonDecisionGuideTemplate } from '../../../components/weather/SeasonDecisionGuideTemplate';
 
 interface PracticalInfo {
   bestMonths?: string[];
@@ -83,6 +85,42 @@ const MONTH_FULL_NAMES: Record<string, string> = {
   Dec: 'December',
 };
 
+const EN_BEST_TIME_TO_WEATHER = new Set([
+  'bangkok',
+  'chiang-mai',
+  'pattaya',
+  'ayutthaya',
+  'krabi',
+  'chiang-rai',
+  'hat-yai',
+  'sukhothai',
+  'surat-thani',
+]);
+
+const EN_BEST_TIME_TO_CITY = new Set([
+  'pai',
+  'mae-hong-son',
+  'kanchanaburi',
+  'udon-thani',
+  'lampang',
+  'khon-kaen',
+  'nakhon-ratchasima',
+  'ubon-ratchathani',
+  'lopburi',
+  'phitsanulok',
+  'trat',
+  'rayong',
+  'nakhon-si-thammarat',
+  'trang',
+  'chumphon',
+  'chanthaburi',
+  'chiang-khan',
+  'nong-khai',
+  'bueng-kan',
+  'nakhon-phanom',
+  'mukdahan',
+]);
+
 export default function BestTimeToVisitPage({ city, topRoutes, hasWeatherOwner }: BestTimeToVisitPageProps) {
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
@@ -90,6 +128,9 @@ export default function BestTimeToVisitPage({ city, topRoutes, hasWeatherOwner }
   const lang = isNl ? 'nl' : 'en';
 
   if (!city) return <div>{isNl ? 'Stad niet gevonden' : 'City not found'}</div>;
+
+  const premiumSeasonGuide = !isNl ? getEnSeasonDecisionGuide(city.slug) : undefined;
+  if (premiumSeasonGuide) return <SeasonDecisionGuideTemplate data={premiumSeasonGuide} />;
 
   const cityName = typeof city.name === 'string' ? city.name : (city.name?.[lang] || city.name?.en || '');
   const breadcrumbs = generateBreadcrumbs(city, 'best-time-to-visit');
@@ -577,6 +618,24 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     return {
       redirect: {
         destination: `/city/${slug}/weather/`,
+        permanent: true,
+      },
+    };
+  }
+
+  if (EN_BEST_TIME_TO_WEATHER.has(slug)) {
+    return {
+      redirect: {
+        destination: `/city/${slug}/weather/`,
+        permanent: true,
+      },
+    };
+  }
+
+  if (EN_BEST_TIME_TO_CITY.has(slug)) {
+    return {
+      redirect: {
+        destination: `/city/${slug}/`,
         permanent: true,
       },
     };

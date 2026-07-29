@@ -59,7 +59,7 @@ function schemas(data: DigitalSafetyGuideData) {
 
 export function DigitalSafetyGuideTemplate({ data }: { data: DigitalSafetyGuideData }) {
   return (
-    <main className="bg-canvas" data-premium-template="digital-safety-guide-en">
+    <div className="bg-canvas" data-premium-template="digital-safety-guide-en">
       <SEOHead title={data.title} description={data.description} ogImage={`https://go2-thailand.com${data.heroImage}`}>
         {schemas(data).map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
@@ -150,6 +150,6 @@ export function DigitalSafetyGuideTemplate({ data }: { data: DigitalSafetyGuideD
       <FaqSplitSection id="questions" eyebrow="Genuine search questions" title="Thailand VPN questions" description="Captured from ten live UK-English SERPs and answered without promising anonymity, universal access, fixed speed or immunity from Thai law and service terms." items={data.faqs} />
       <RelatedGuidesSection eyebrow="Continue planning" title="Complete the connection stack" readLabel="Open the guide" guides={data.related} />
       <SourceMethodSection eyebrow="Sources & method" title="Security claims need boundaries" description={data.methodDescription} sources={data.sources} />
-    </main>
+    </div>
   );
 }

@@ -170,7 +170,7 @@ export const sukhothaiDestinationGuideEn: DestinationGuideData = {
       best: "Easiest cycling rhythm: roughly November–February",
       tradeoff:
         "Dry does not mean cool, and wet season does not make every park day impossible. Check the Thai Meteorological Department, local warnings and the hourly forecast close to travel.",
-      href: "/city/sukhothai/best-time-to-visit/",
+      href: "/city/sukhothai/weather/",
       image: "/images/redesign/sukhothai-cycling-central.webp",
       imageAlt: "Shaded bicycle route beside water in Sukhothai Historical Park",
     },

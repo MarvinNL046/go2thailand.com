@@ -159,7 +159,7 @@ export const ayutthayaDestinationGuideEn: DestinationGuideData = {
       summary: "Ayutthaya is warm year-round and largely outdoors. The relatively cooler, drier period is generally easier for longer walks and bicycle loops. Hotter or wetter months still work when early and late outdoor windows frame a long shaded midday break.",
       best: "Easiest general rhythm: roughly November–February",
       tradeoff: "Dry does not mean cool, and weekends can be busy. Carry water and sun protection and check the current forecast and local warnings.",
-      href: "/city/ayutthaya/best-time-to-visit/",
+      href: "/city/ayutthaya/weather/",
       image: "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
       imageAlt: "Ayutthaya Historical Park under tropical daylight",
     },

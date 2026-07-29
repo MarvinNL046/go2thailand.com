@@ -285,7 +285,7 @@ Make sure to try **[pad thai](https://go2-thailand.com/food/pad-thai/)** (stir-f
 
 ## 6. Best Time to Visit: Seasons & Weather
 
-**Krabi's climate** follows the southwest monsoon pattern. The dry season (November–February) is ideal for beach activities, island-hopping, and climbing. The rainy season (May–October) brings afternoon downpours and rough seas, though prices drop and crowds thin. Our [Krabi best time to visit page](https://go2-thailand.com/city/krabi/best-time-to-visit/) has month-by-month weather data.
+**Krabi's climate** follows a southwest-monsoon pattern, but a season label cannot guarantee beach, climbing or boat conditions on a given day. Use the [Krabi weather guide](/city/krabi/weather/) for the month-by-month evidence, then confirm the current marine forecast and operator terms close to the trip.
 
 ### Peak Season: December–January
 

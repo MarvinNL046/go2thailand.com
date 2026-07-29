@@ -149,7 +149,7 @@ export const chanthaburiDestinationGuideEn: DestinationGuideData = {
       summary: 'The relatively drier, slightly cooler part of the year is easier for city walks and coast roads. The better-known fruit period brings more heat, humidity and showers. Rain can also affect waterfalls, low roads and sea conditions, while harvest timing moves by variety and year.',
       best: 'For easier outdoor planning, roughly Nov–Feb; for fruit-led travel, often around May–Jul',
       tradeoff: 'Fruit-first travel needs weather flexibility. Weather-first travel may offer less orchard variety. Check TMD and the orchard close to the day rather than looking for one perfect month.',
-      href: '/city/chanthaburi/best-time-to-visit/',
+      href: '/city/chanthaburi/',
       image: '/images/redesign/chanthaburi-mangrove-coast.webp',
       imageAlt: 'Mangrove boardwalk and quiet tidal water on the Chanthaburi coast',
     },
@@ -186,7 +186,7 @@ export const chanthaburiDestinationGuideEn: DestinationGuideData = {
   ],
   relatedGuides: [
     { title: 'Things to do in Chanthaburi', description: 'Split the river city, fruit-and-waterfall branch and mangrove coast into a realistic selection.', href: '/city/chanthaburi/attractions/', image: '/images/redesign/chanthaburi-gem-market.webp', imageAlt: 'Gem trading in central Chanthaburi' },
-    { title: 'Best time to visit Chanthaburi', description: 'Compare easier weather, heavy rain, sea conditions and the fruit window.', href: '/city/chanthaburi/best-time-to-visit/', image: '/images/redesign/chanthaburi-mangrove-coast.webp', imageAlt: 'Mangrove trail on the Chanthaburi coast' },
+    { title: 'Best time to visit Chanthaburi', description: 'Compare easier weather, heavy rain, sea conditions and the fruit window.', href: '/city/chanthaburi/', image: '/images/redesign/chanthaburi-mangrove-coast.webp', imageAlt: 'Mangrove trail on the Chanthaburi coast' },
     { title: 'Where to stay in Chanthaburi', description: 'Choose between river city, practical centre and a deliberate coast night.', href: '/where-to-stay/chanthaburi/', image: '/images/redesign/chanthaburi-hero.webp', imageAlt: 'Chanthaburi waterfront and cathedral' },
   ],
   sources: [

@@ -53,7 +53,7 @@ function createSchemas(data: PatongExperienceData) {
 export function PatongExperienceTemplate({ data }: { data: PatongExperienceData }) {
   const schemas = createSchemas(data);
   return (
-    <main className="bg-canvas" data-premium-template="patong-experience-en">
+    <div className="bg-canvas" data-premium-template="patong-experience-en">
       <SEOHead title={data.title} description={data.description} ogImage={`https://go2-thailand.com${data.heroImage}`}>
         {schemas.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
@@ -77,6 +77,6 @@ export function PatongExperienceTemplate({ data }: { data: PatongExperienceData 
       <FaqSplitSection id="questions" eyebrow="Genuine search questions" title={`Questions about Patong ${data.breadcrumbLabel.toLowerCase()}`} description={data.faqDescription} items={data.faqs} />
       <RelatedGuidesSection eyebrow="Continue planning" title="Build the rest of your Patong stay" readLabel="Open the guide" guides={data.related} />
       <SourceMethodSection eyebrow="Sources & method" title={data.methodTitle} description={data.methodDescription} sources={data.sources} />
-    </main>
+    </div>
   );
 }

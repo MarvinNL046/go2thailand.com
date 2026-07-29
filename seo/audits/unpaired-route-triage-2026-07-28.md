@@ -2,7 +2,7 @@
 
 **Measured:** 29 July 2026
 **Source:** `seo/inventory/routes.csv` and `seo/inventory/unpaired-routes.json`  
-**Scope:** 929 sitemap routes without an exact path-equivalent in the other locale (910 EN-only, 19 NL-only)
+**Scope:** 899 sitemap routes without an exact path-equivalent in the other locale (880 EN-only, 19 NL-only)
 
 An unpaired route is an audit lead, not automatically a missing translation. Go2Thailand uses locale-specific consolidation: Dutch often keeps one strong destination or hotel owner where English still has several programmatic child routes. Creating all missing path-equivalents would therefore add thin duplication and incorrect hreflang rather than useful bilingual coverage.
 
@@ -10,9 +10,9 @@ An unpaired route is an audit lead, not automatically a missing translation. Go2
 
 | Locale-only side | Routes | Share of unpaired set |
 |---|---:|---:|
-| English-only | 910 | 98.0% |
+| English-only | 880 | 97.9% |
 | Dutch-only | 19 | 2.0% |
-| Total | 929 | 100% |
+| Total | 899 | 100% |
 
 ## English-only families
 
@@ -27,11 +27,11 @@ An unpaired route is an audit lead, not automatically a missing translation. Go2
 | Destination detail | 66 | Manual cluster decision; many Dutch intents already consolidate on the destination owner |
 | Travel guide | 46 | Manual owner/canonical decision before translation |
 | Blog | 40 | Individual freshness, traffic and locale-intent review |
-| Destination subpillar | 38 | Manual cluster decision; avoid duplicating stronger Dutch weather/food/attraction owners |
+| Destination subpillar | 8 | Six intentional EN-only weather owners plus the independently retained Hua Hin and Khao Sok best-time owners |
 | Other | 3 | Manual review |
 | Practical | 1 | Manual review |
 
-The first five template-held groups account for **648/910 English-only routes**. They are a localization backlog, not evidence that 648 Dutch pages should be generated. The remaining **262** require page- or cluster-level intent decisions.
+The first five template-held groups account for **648/880 English-only routes**. They are a localization backlog, not evidence that 648 Dutch pages should be generated. The remaining **232** require page- or cluster-level intent decisions.
 
 ## Dutch-only routes
 
@@ -56,7 +56,7 @@ No Priority B candidate remains open. The earlier seven-item list mixed already 
 
 ## Working order
 
-1. Audit the 262 manual EN-only routes by cluster, prioritizing existing traffic, commercial intent and natural internal-link gaps.
+1. Audit the 232 manual EN-only routes by cluster, prioritizing existing traffic, commercial intent and natural internal-link gaps.
 2. Leave the 648 template-held routes EN-only unless a Dutch cluster owner has enough unique localized value to justify publication.
 3. Re-run inventory, hreflang and sitewide audits after every locale-pair batch.
 
@@ -82,4 +82,5 @@ No Priority B candidate remains open. The earlier seven-item list mixed already 
 - `/blog/best-street-food-markets-bangkok/` now owns the English Bangkok street-food neighbourhood, market and beginner intent after independent DFS clusters, ten current UK-English SERPs, 51 genuine PAA appearances, competitor/source parsing and exact ranking/backlink checks. The ranking owner was retained and rebuilt with five trip formats, six area decisions, three bounded routes, six dish spokes, WHO/CDC-aligned safety guidance, ten PAA answers, Klook and three contextual Amazon OneLink products. The zero-ranking, zero-backlink `/blog/bangkok-street-food-beginners/` duplicate permanently consolidates into it; 48 affected English content links now point directly to the owner.
 - `/best-diving-snorkeling-in-thailand/` now owns the English Thailand-wide snorkelling intent after independent spelling-aware DFS clusters, ten current UK-English SERPs, 58 genuine PAA appearances, five usable source parses and exact overlap ranking/backlink checks. The existing ranking owner was retained and rebuilt with a unique hero, coast-and-month switch, same-morning condition checks, six destination profiles, shore-versus-boat decision, beginner and reef-conduct guidance, a clear diving boundary, ten PAA answers, Klook, 12Go and three contextual Amazon OneLink products. `/blog/best-snorkeling-spots-thailand-water-clarity/` now permanently consolidates into it; the English sitemap and all affected internal links resolve directly to the owner.
 - `/city/phuket/weather/` now has an independent English owner based on two DFS clusters with 353 records, ten current UK-English SERPs, 53 genuine PAA appearances, six usable parses and exact weather/legacy ranking and backlink checks. The duplicate `/city/phuket/best-time-to-visit/` route permanently consolidates into it. The paired owner uses official TMD normals, ten English PAA answers, natural weather links, Klook, Trip.com and four contextual Amazon OneLink exits.
+- The 32-route English destination best-time family is now resolved through one independent DFS/ranking/backlink comparison, 23 city clusters, six current UK SERPs, 30 genuine PAA records and four competitor parses. Hua Hin and Khao Sok remain premium standalone owners; nine overlaps permanently consolidate into weather owners and 21 unsupported routes consolidate into their destination owner. The reusable season template uses honest travel windows, flexible plans, route-specific visuals, FAQs, sources and affiliate-fit decisions. Khao Sok carries three contextual OneLink packing products; Hua Hin records the deliberate Amazon omission. All 30 retired owners are absent from the sitemap and rendered internal-link graph.
 - `/blog/phuket-airport/` now has an independent English owner based on 363 DFS keyword records across airport and transfer clusters, ten current UK-English SERPs, 55 genuine PAA appearances, six usable full parses, official AOT verification and exact candidate/overlap ranking and backlink checks. The reusable premium arrival template owns the terminal flow, four transfer modes, six hotel zones, late-arrival and connectivity decisions, ten PAA answers, current-check language and contextual Klook, 12Go, Trip.com and Saily exits. The broader three-airport article now links naturally to the specialist and no longer duplicates stale Phuket fares; Amazon was assessed but not forced.

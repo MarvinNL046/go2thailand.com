@@ -1,3 +1,15 @@
+const bestTimeWeatherOwners = new Set([
+  'bangkok', 'chiang-mai', 'pattaya', 'ayutthaya', 'krabi', 'chiang-rai',
+  'hat-yai', 'sukhothai', 'surat-thani',
+]);
+
+const bestTimeCityOwners = new Set([
+  'pai', 'mae-hong-son', 'kanchanaburi', 'udon-thani', 'lampang', 'khon-kaen',
+  'nakhon-ratchasima', 'ubon-ratchathani', 'lopburi', 'phitsanulok', 'trat',
+  'rayong', 'nakhon-si-thammarat', 'trang', 'chumphon', 'chanthaburi',
+  'chiang-khan', 'nong-khai', 'bueng-kan', 'nakhon-phanom', 'mukdahan',
+]);
+
 /** Normalize legacy English internal URLs to the canonical route owners. */
 export function normalizeEnInternalHref(href: string): string {
   if (!href.startsWith('/')) return href;
@@ -25,6 +37,10 @@ export function normalizeEnInternalHref(href: string): string {
     '/digital-nomad/': '/thailand-index/digital-nomad/',
   };
   pathname = exactOwners[pathname] || pathname;
+
+  const bestTimeMatch = pathname.match(/^\/city\/([^/]+)\/best-time-to-visit\/$/);
+  if (bestTimeMatch && bestTimeWeatherOwners.has(bestTimeMatch[1])) pathname = `/city/${bestTimeMatch[1]}/weather/`;
+  if (bestTimeMatch && bestTimeCityOwners.has(bestTimeMatch[1])) pathname = `/city/${bestTimeMatch[1]}/`;
 
   let match = pathname.match(/^\/destinations\/([^/]+)\/$/);
   if (match) pathname = `/city/${match[1]}/`;

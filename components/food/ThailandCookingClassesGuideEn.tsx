@@ -154,7 +154,7 @@ export default function ThailandCookingClassesGuideEn() {
   const klookAll = withSubId(KLOOK_GENERIC, 'cooking-owner-en-hero');
 
   return (
-    <main className="bg-canvas" data-premium-template="cooking-class-owner-en">
+    <div className="bg-canvas" data-premium-template="cooking-class-owner-en">
       <SEOHead
         title="Best Cooking Classes in Thailand: City & Class Guide"
         description="Compare Thai cooking classes in Bangkok, Chiang Mai, Phuket, Krabi and Samui by format, market visit and dietary support. Check current options."
@@ -365,6 +365,6 @@ export default function ThailandCookingClassesGuideEn() {
           { title: 'Avoiding cross-contact', creator: 'Food Allergy Research & Education', url: 'https://www.foodallergy.org/resources/avoiding-cross-contact', note: 'Primary safety guidance supporting separate questions about equipment, surfaces and preparation.' },
         ]}
       />
-    </main>
+    </div>
   );
 }

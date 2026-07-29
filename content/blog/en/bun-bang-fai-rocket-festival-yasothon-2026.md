@@ -50,7 +50,7 @@ Yasothon is roughly 530 kilometers northeast of Bangkok. You can fly to [Ubon Ra
 
 - **Book accommodation early.** Yasothon is small and [hotels fill up fast](/best-hotels/ubon-ratchathani/) during the festival.
 - **Bring ear protection.** Between the rockets and the competing stages, it gets loud.
-- **Stay hydrated.** May in Isaan is hot and humid; use our [Khon Kaen seasonal guide](/city/khon-kaen/best-time-to-visit/) to understand the regional heat and rain pattern.
+- **Stay hydrated.** May in Isaan can feel hot and humid; use our [Khon Kaen guide](/city/khon-kaen/) for regional route context and check the current forecast for the festival dates.
 - **Respect the launches.** Keep a safe distance from the launch area — these are real rockets with real gunpowder.
 
 ## Why Go?

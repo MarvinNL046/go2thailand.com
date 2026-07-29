@@ -159,7 +159,7 @@ export const maeHongSonDestinationGuideEn: DestinationGuideData = {
       summary: "Cooler months are popular for clearer mornings and comfortable town walks, but mountain nights can feel cold. Late dry-season haze and smoke can reduce visibility and affect health; wet-season rain can bring slippery roads, debris and local closures.",
       best: "Choose the loop from current visibility, warnings and road conditions—not only an annual climate chart.",
       tradeoff: "A famous viewpoint offers little value in severe haze, and a booked hotel is not a reason to ride through unsafe rain.",
-      href: "/city/mae-hong-son/best-time-to-visit/",
+      href: "/city/mae-hong-son/",
       image: "/images/redesign/mae-hong-son-route-banner.webp",
       imageAlt: "Mist and cloud over the Mae Hong Son mountain road",
     },

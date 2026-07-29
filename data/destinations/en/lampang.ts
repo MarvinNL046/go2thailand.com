@@ -175,7 +175,7 @@ export const lampangDestinationGuideEn: DestinationGuideData = {
         "November to February often gives the easiest outdoor rhythm, but the current forecast and air-quality reading matter more than a seasonal promise.",
       tradeoff:
         "Check TMD, official warnings and a current AQI source shortly before travel. Reduce cycling or mountain activity during severe heat, smoke, lightning or local restrictions.",
-      href: "/city/lampang/best-time-to-visit/",
+      href: "/city/lampang/",
       image: "/images/redesign/lampang-mountain-pagodas.webp",
       imageAlt: "Mountain ridges and light haze around the pagodas of Chae Hom",
     },

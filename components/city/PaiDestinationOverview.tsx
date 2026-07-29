@@ -372,7 +372,7 @@ export function PaiDestinationOverview({ activitiesHref, hotelsHref, transportHr
             {[
               { icon: Mountain, title: 'Things to do', copy: 'Canyon, warm-water stops, temples and valley routes.', href: '/city/pai/attractions/' },
               { icon: BedDouble, title: 'Where to stay', copy: 'Compare the walkable centre, river and outer valley.', href: '/best-hotels/pai/' },
-              { icon: CalendarDays, title: 'Best time', copy: 'Plan heat, rain, haze, views and road comfort.', href: '/city/pai/best-time-to-visit/' },
+              { icon: CalendarDays, title: 'Season planning', copy: 'Plan heat, rain, haze, views and road comfort inside the destination owner.', href: '/city/pai/' },
             ].map(({ icon: Icon, title, copy, href }) => (
               <Link key={title} href={href} className="group rounded-xl border border-white/12 bg-white/[0.07] p-5 backdrop-blur-sm transition hover:-translate-y-1 hover:bg-white/[0.11]">
                 <Icon size={18} className="text-saffron-light" strokeWidth={1.55} />
