@@ -123,6 +123,7 @@ const hatYaiCityFoodEn = read('data/city-food/en/hat-yai.ts');
 const krabiCityFoodEn = read('data/city-food/en/krabi.ts');
 const pattayaCityFoodEn = read('data/city-food/en/pattaya.ts');
 const phuketCityFoodEn = read('data/city-food/en/phuket.ts');
+const sukhothaiCityFoodEn = read('data/city-food/en/sukhothai.ts');
 const cityFoodRegistryEn = read('data/city-food/en/index.ts');
 const cityFoodRoute = read('pages/city/[slug]/food.tsx');
 for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="city-food-guide-en"']) {
@@ -137,8 +138,9 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!krabiCityFoodEn.includes(proof)) failures.push(`Krabi city-food owner lacks content proof: ${proof}`);
   if (!pattayaCityFoodEn.includes(proof)) failures.push(`Pattaya city-food owner lacks content proof: ${proof}`);
   if (!phuketCityFoodEn.includes(proof)) failures.push(`Phuket city-food owner lacks content proof: ${proof}`);
+  if (!sukhothaiCityFoodEn.includes(proof)) failures.push(`Sukhothai city-food owner lacks content proof: ${proof}`);
 }
-for (const proof of ['ayutthayaCityFoodEn', 'bangkokCityFoodEn', 'chiangRaiCityFoodEn', 'chiangMaiCityFoodEn', 'hatYaiCityFoodEn', 'krabiCityFoodEn', 'pattayaCityFoodEn', 'phuketCityFoodEn', 'ayutthaya: ayutthayaCityFoodEn', "'chiang-rai': chiangRaiCityFoodEn", "'chiang-mai': chiangMaiCityFoodEn", "'hat-yai': hatYaiCityFoodEn", 'krabi: krabiCityFoodEn', 'pattaya: pattayaCityFoodEn', 'phuket: phuketCityFoodEn', 'getEnCityFoodGuide']) {
+for (const proof of ['ayutthayaCityFoodEn', 'bangkokCityFoodEn', 'chiangRaiCityFoodEn', 'chiangMaiCityFoodEn', 'hatYaiCityFoodEn', 'krabiCityFoodEn', 'pattayaCityFoodEn', 'phuketCityFoodEn', 'sukhothaiCityFoodEn', 'ayutthaya: ayutthayaCityFoodEn', "'chiang-rai': chiangRaiCityFoodEn", "'chiang-mai': chiangMaiCityFoodEn", "'hat-yai': hatYaiCityFoodEn", 'krabi: krabiCityFoodEn', 'pattaya: pattayaCityFoodEn', 'phuket: phuketCityFoodEn', 'sukhothai: sukhothaiCityFoodEn', 'getEnCityFoodGuide']) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks owner proof: ${proof}`);
 }
 for (const proof of ['CityFoodGuideTemplate', 'getEnCityFoodGuide', 'cityFoodGuide']) {
@@ -149,9 +151,8 @@ for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')
   if (sitemap.includes('/blog/thai-street-food-guide-2026/')) failures.push('A locale sitemap still exposes the obsolete street-food blog owner');
 }
 const hreflang = read('components/Hreflang.tsx');
-for (const proof of ["'/travel-guides/thai-cuisine-food-guide/'", "nl: '/food/'"]) {
-  if (!hreflang.includes(proof)) failures.push(`Thai-food cross-locale hreflang mapping lacks proof: ${proof}`);
-}
+if (!hreflang.includes('CROSS_LOCALE_ALTERNATES')) failures.push('Hreflang keeps no explicit cross-locale mapping registry');
+if (hreflang.includes("'/travel-guides/thai-cuisine-food-guide/'")) failures.push('The independent English Thai-food guide must not borrow the NL food-hub hreflang');
 
 const climateUpdateTemplate = read('components/blog/ClimateUpdateGuideTemplate.tsx');
 const climateUpdateData = read('data/climate/nl/el-nino-2026.ts');

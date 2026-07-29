@@ -9,15 +9,9 @@ const LOCALE_TO_HREFLANG: Record<string, string> = {
   nl: 'nl',
 };
 
-// Semantically paired owners do not always share the same path. Keep these
-// mappings explicit so locale-specific consolidations can still exchange a
-// valid hreflang signal without manufacturing a duplicate route.
-const CROSS_LOCALE_ALTERNATES: Record<string, Partial<Record<'en' | 'nl', string>>> = {
-  '/travel-guides/thai-cuisine-food-guide/': {
-    en: '/travel-guides/thai-cuisine-food-guide/',
-    nl: '/food/',
-  },
-};
+// Semantically equivalent owners with different locale paths can be added
+// explicitly. Keep this empty until both URLs are true translation equivalents.
+const CROSS_LOCALE_ALTERNATES: Record<string, Partial<Record<'en' | 'nl', string>>> = {};
 
 export default function Hreflang() {
   const { asPath, locales, locale: currentLocale } = useRouter();

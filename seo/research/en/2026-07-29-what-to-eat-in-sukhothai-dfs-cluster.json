@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T07:53:10.391Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "what to eat in sukhothai",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "what to eat in sukhothai"
+  ],
+  "keywords": [
+    {
+      "keyword": "what to eat in sukhothai",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
