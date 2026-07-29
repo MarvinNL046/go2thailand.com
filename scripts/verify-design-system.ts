@@ -130,6 +130,7 @@ const khonKaenCityFoodEn = read('data/city-food/en/khon-kaen.ts');
 const kohSamuiCityFoodEn = read('data/city-food/en/koh-samui.ts');
 const khaoSokCityFoodEn = read('data/city-food/en/khao-sok.ts');
 const krabiCityFoodEn = read('data/city-food/en/krabi.ts');
+const bangkokCityFoodNl = read('data/city-food/nl/bangkok.ts');
 const krabiCityFoodNl = read('data/city-food/nl/krabi.ts');
 const lampangCityFoodEn = read('data/city-food/en/lampang.ts');
 const lopburiCityFoodEn = read('data/city-food/en/lopburi.ts');
@@ -157,6 +158,7 @@ for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'Rela
   if (!cityFoodTemplate.includes(proof)) failures.push(`City-food template lacks premium proof: ${proof}`);
 }
 for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practicalChecks:', 'phrases:', 'faqs:', 'sources:', 'simple-thai-food-cookbook', 'thai-granite-mortar-eight-inch']) {
+  if (!bangkokCityFoodNl.includes(proof)) failures.push(`Dutch Bangkok city-food owner lacks content proof: ${proof}`);
   if (!krabiCityFoodNl.includes(proof)) failures.push(`Dutch Krabi city-food owner lacks content proof: ${proof}`);
   if (!ayutthayaCityFoodEn.includes(proof)) failures.push(`Ayutthaya city-food owner lacks content proof: ${proof}`);
   if (!bangkokCityFoodEn.includes(proof)) failures.push(`Bangkok city-food owner lacks content proof: ${proof}`);
@@ -193,8 +195,11 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!udonThaniCityFoodEn.includes(proof)) failures.push(`Udon Thani city-food owner lacks content proof: ${proof}`);
   if (!ubonRatchathaniCityFoodEn.includes(proof)) failures.push(`Ubon Ratchathani city-food owner lacks content proof: ${proof}`);
 }
-for (const proof of ['krabiCityFoodNl', 'krabi: krabiCityFoodNl']) {
-  if (!cityFoodRegistryNl.includes(proof)) failures.push(`Dutch city-food registry lacks Krabi owner proof: ${proof}`);
+for (const proof of ['bangkokCityFoodNl', 'bangkok: bangkokCityFoodNl', 'krabiCityFoodNl', 'krabi: krabiCityFoodNl']) {
+  if (!cityFoodRegistryNl.includes(proof)) failures.push(`Dutch city-food registry lacks owner proof: ${proof}`);
+}
+for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/bangkok/food/'"]) {
+  if (!bangkokCityFoodNl.includes(proof)) failures.push(`Dutch Bangkok city-food owner lacks locale proof: ${proof}`);
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/krabi/food/'"]) {
   if (!krabiCityFoodNl.includes(proof)) failures.push(`Dutch Krabi city-food owner lacks locale proof: ${proof}`);

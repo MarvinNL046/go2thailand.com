@@ -23,9 +23,12 @@
     {
       "key": "nl:destination-subpillar:food",
       "status": "pending",
-      "acceptedRoutes": ["/nl/city/krabi/food/"],
-      "evidence": ["seo/audits/nl-krabi-city-food-owner-2026-07-29.md"],
-      "note": "The Dutch city-food family is being accepted owner by owner; Krabi is the first independently researched and production-verified route."
+      "acceptedRoutes": ["/nl/city/bangkok/food/", "/nl/city/krabi/food/"],
+      "evidence": [
+        "seo/audits/nl-bangkok-city-food-owner-2026-07-29.md",
+        "seo/audits/nl-krabi-city-food-owner-2026-07-29.md"
+      ],
+      "note": "The Dutch city-food family is being accepted owner by owner; Bangkok and Krabi are independently researched and production-verified."
     },
     {
       "key": "nl:food-drink",
