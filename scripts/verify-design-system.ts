@@ -131,6 +131,7 @@ const kohSamuiCityFoodEn = read('data/city-food/en/koh-samui.ts');
 const khaoSokCityFoodEn = read('data/city-food/en/khao-sok.ts');
 const krabiCityFoodEn = read('data/city-food/en/krabi.ts');
 const lampangCityFoodEn = read('data/city-food/en/lampang.ts');
+const maeHongSonCityFoodEn = read('data/city-food/en/mae-hong-son.ts');
 const nakhonSiThammaratCityFoodEn = read('data/city-food/en/nakhon-si-thammarat.ts');
 const paiCityFoodEn = read('data/city-food/en/pai.ts');
 const pattayaCityFoodEn = read('data/city-food/en/pattaya.ts');
@@ -159,6 +160,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!khaoSokCityFoodEn.includes(proof)) failures.push(`Khao Sok city-food owner lacks content proof: ${proof}`);
   if (!krabiCityFoodEn.includes(proof)) failures.push(`Krabi city-food owner lacks content proof: ${proof}`);
   if (!lampangCityFoodEn.includes(proof)) failures.push(`Lampang city-food owner lacks content proof: ${proof}`);
+  if (!maeHongSonCityFoodEn.includes(proof)) failures.push(`Mae Hong Son city-food owner lacks content proof: ${proof}`);
   if (!nakhonSiThammaratCityFoodEn.includes(proof)) failures.push(`Nakhon Si Thammarat city-food owner lacks content proof: ${proof}`);
   if (!paiCityFoodEn.includes(proof)) failures.push(`Pai city-food owner lacks content proof: ${proof}`);
   if (!pattayaCityFoodEn.includes(proof)) failures.push(`Pattaya city-food owner lacks content proof: ${proof}`);
@@ -171,6 +173,9 @@ for (const proof of ['ayutthayaCityFoodEn', 'bangkokCityFoodEn', 'buengKanCityFo
 }
 for (const proof of ['CityFoodGuideTemplate', 'getEnCityFoodGuide', 'cityFoodGuide']) {
   if (!cityFoodRoute.includes(proof)) failures.push(`City-food route lacks registry wiring: ${proof}`);
+}
+for (const proof of ['maeHongSonCityFoodEn', "'mae-hong-son': maeHongSonCityFoodEn"]) {
+  if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Mae Hong Son owner proof: ${proof}`);
 }
 for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {
   if (!sitemap.includes('/thailand-street-food/')) failures.push('Street-food owner is missing from a locale sitemap');
