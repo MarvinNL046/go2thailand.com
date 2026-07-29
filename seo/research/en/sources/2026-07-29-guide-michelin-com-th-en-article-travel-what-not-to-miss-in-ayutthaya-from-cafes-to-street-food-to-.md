@@ -1,0 +1,7 @@
+# DFS parsed source — https://guide.michelin.com/th/en/article/travel/what-not-to-miss-in-ayutthaya-from-cafes-to-street-food-to-gifts
+
+**Captured:** 2026-07-29T06:26:13.274Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+_DFS returned no markdown content._
