@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T09:21:31.344Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "kanchanaburi food guide",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "kanchanaburi food guide"
+  ],
+  "keywords": [
+    {
+      "keyword": "kanchanaburi food guide",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
