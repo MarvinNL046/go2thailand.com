@@ -15,6 +15,7 @@ export type CityFoodIcon =
   | 'utensils';
 
 export interface CityFoodGuideData {
+  locale?: 'en' | 'nl';
   city: string;
   slug: string;
   pageUrl: string;

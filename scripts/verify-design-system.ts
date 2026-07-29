@@ -151,7 +151,7 @@ const udonThaniCityFoodEn = read('data/city-food/en/udon-thani.ts');
 const ubonRatchathaniCityFoodEn = read('data/city-food/en/ubon-ratchathani.ts');
 const cityFoodRegistryEn = read('data/city-food/en/index.ts');
 const cityFoodRoute = read('pages/city/[slug]/food.tsx');
-for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="city-food-guide-en"']) {
+for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template={`city-food-guide-${isNl']) {
   if (!cityFoodTemplate.includes(proof)) failures.push(`City-food template lacks premium proof: ${proof}`);
 }
 for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practicalChecks:', 'phrases:', 'faqs:', 'sources:', 'simple-thai-food-cookbook', 'thai-granite-mortar-eight-inch']) {
