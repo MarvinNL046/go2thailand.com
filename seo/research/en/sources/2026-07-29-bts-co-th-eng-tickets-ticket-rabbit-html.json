@@ -1,0 +1,77 @@
+{
+  "captured_at": "2026-07-29T00:00:25.006Z",
+  "locale": "en",
+  "url": "https://www.bts.co.th/eng/tickets/ticket-rabbit.html",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": null,
+      "table_content": [
+        {
+          "header": [
+            {
+              "row_cells": [
+                {
+                  "text": "Type Card",
+                  "urls": null,
+                  "is_header": true
+                },
+                {
+                  "text": "Description",
+                  "urls": null,
+                  "is_header": true
+                },
+                {
+                  "text": "More",
+                  "urls": null,
+                  "is_header": true
+                }
+              ]
+            }
+          ],
+          "body": null,
+          "footer": null
+        }
+      ]
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": null,
+      "table_content": [
+        {
+          "header": [
+            {
+              "row_cells": [
+                {
+                  "text": "Type Card",
+                  "urls": null,
+                  "is_header": true
+                },
+                {
+                  "text": "Description",
+                  "urls": null,
+                  "is_header": true
+                },
+                {
+                  "text": "More",
+                  "urls": null,
+                  "is_header": true
+                }
+              ]
+            }
+          ],
+          "body": null,
+          "footer": null
+        }
+      ]
+    },
+    "main_topic": null,
+    "secondary_topic": null,
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}
