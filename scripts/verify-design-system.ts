@@ -136,6 +136,7 @@ const chiangRaiCityFoodNl = read('data/city-food/nl/chiang-rai.ts');
 const chiangMaiCityFoodNl = read('data/city-food/nl/chiang-mai.ts');
 const hatYaiCityFoodNl = read('data/city-food/nl/hat-yai.ts');
 const krabiCityFoodNl = read('data/city-food/nl/krabi.ts');
+const maeHongSonCityFoodNl = read('data/city-food/nl/mae-hong-son.ts');
 const paiCityFoodNl = read('data/city-food/nl/pai.ts');
 const pattayaCityFoodNl = read('data/city-food/nl/pattaya.ts');
 const phuketCityFoodNl = read('data/city-food/nl/phuket.ts');
@@ -173,6 +174,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!chiangMaiCityFoodNl.includes(proof)) failures.push(`Dutch Chiang Mai city-food owner lacks content proof: ${proof}`);
   if (!hatYaiCityFoodNl.includes(proof)) failures.push(`Dutch Hat Yai city-food owner lacks content proof: ${proof}`);
   if (!krabiCityFoodNl.includes(proof)) failures.push(`Dutch Krabi city-food owner lacks content proof: ${proof}`);
+  if (!maeHongSonCityFoodNl.includes(proof)) failures.push(`Dutch Mae Hong Son city-food owner lacks content proof: ${proof}`);
   if (!paiCityFoodNl.includes(proof)) failures.push(`Dutch Pai city-food owner lacks content proof: ${proof}`);
   if (!pattayaCityFoodNl.includes(proof)) failures.push(`Dutch Pattaya city-food owner lacks content proof: ${proof}`);
   if (!phuketCityFoodNl.includes(proof)) failures.push(`Dutch Phuket city-food owner lacks content proof: ${proof}`);
@@ -213,7 +215,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!udonThaniCityFoodEn.includes(proof)) failures.push(`Udon Thani city-food owner lacks content proof: ${proof}`);
   if (!ubonRatchathaniCityFoodEn.includes(proof)) failures.push(`Ubon Ratchathani city-food owner lacks content proof: ${proof}`);
 }
-for (const proof of ['ayutthayaCityFoodNl', 'ayutthaya: ayutthayaCityFoodNl', 'bangkokCityFoodNl', 'bangkok: bangkokCityFoodNl', 'chiangRaiCityFoodNl', "'chiang-rai': chiangRaiCityFoodNl", 'chiangMaiCityFoodNl', "'chiang-mai': chiangMaiCityFoodNl", 'hatYaiCityFoodNl', "'hat-yai': hatYaiCityFoodNl", 'krabiCityFoodNl', 'krabi: krabiCityFoodNl', 'paiCityFoodNl', 'pai: paiCityFoodNl', 'pattayaCityFoodNl', 'pattaya: pattayaCityFoodNl', 'phuketCityFoodNl', 'phuket: phuketCityFoodNl', 'sukhothaiCityFoodNl', 'sukhothai: sukhothaiCityFoodNl', 'suratThaniCityFoodNl', "'surat-thani': suratThaniCityFoodNl"]) {
+for (const proof of ['ayutthayaCityFoodNl', 'ayutthaya: ayutthayaCityFoodNl', 'bangkokCityFoodNl', 'bangkok: bangkokCityFoodNl', 'chiangRaiCityFoodNl', "'chiang-rai': chiangRaiCityFoodNl", 'chiangMaiCityFoodNl', "'chiang-mai': chiangMaiCityFoodNl", 'hatYaiCityFoodNl', "'hat-yai': hatYaiCityFoodNl", 'krabiCityFoodNl', 'krabi: krabiCityFoodNl', 'maeHongSonCityFoodNl', "'mae-hong-son': maeHongSonCityFoodNl", 'paiCityFoodNl', 'pai: paiCityFoodNl', 'pattayaCityFoodNl', 'pattaya: pattayaCityFoodNl', 'phuketCityFoodNl', 'phuket: phuketCityFoodNl', 'sukhothaiCityFoodNl', 'sukhothai: sukhothaiCityFoodNl', 'suratThaniCityFoodNl', "'surat-thani': suratThaniCityFoodNl"]) {
   if (!cityFoodRegistryNl.includes(proof)) failures.push(`Dutch city-food registry lacks owner proof: ${proof}`);
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/bangkok/food/'"]) {
@@ -233,6 +235,9 @@ for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/krabi/food/'"]) {
   if (!krabiCityFoodNl.includes(proof)) failures.push(`Dutch Krabi city-food owner lacks locale proof: ${proof}`);
+}
+for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/mae-hong-son/food/'", 'mae-hong-son-food-lake-shan-nl.webp']) {
+  if (!maeHongSonCityFoodNl.includes(proof)) failures.push(`Dutch Mae Hong Son city-food owner lacks locale or asset proof: ${proof}`);
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/pattaya/food/'"]) {
   if (!pattayaCityFoodNl.includes(proof)) failures.push(`Dutch Pattaya city-food owner lacks locale proof: ${proof}`);

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T23:04:29.483Z",
+  "generatedAt": "2026-07-29T23:23:49.736Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,15 +9,15 @@
       "premium": 702,
       "hybrid": 1,
       "noSignature": 0,
-      "exactOwners": 120,
+      "exactOwners": 121,
       "duplicateExactOwnerRoutes": [],
-      "contextualAmazonRoutes": 11,
-      "amazonLinks": 22,
-      "provisionalInventoryDecisions": 516,
+      "contextualAmazonRoutes": 12,
+      "amazonLinks": 24,
+      "provisionalInventoryDecisions": 515,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-29.json",
-      "sitewideReport": "seo/audits/runtime/nl-pai-food-final-2026-07-30.json",
+      "sitewideReport": "seo/audits/runtime/nl-mae-hong-son-food-final-2026-07-30.json",
       "sitewide": {
-        "generatedAt": "2026-07-29T23:03:08.164Z",
+        "generatedAt": "2026-07-29T23:22:51.655Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -633,13 +633,12 @@
       "closed": true
     },
     "nl:destination-subpillar:food": {
-      "definition": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Chiang Mai, Chiang Rai, Hat Yai, Krabi, Pai, Pattaya, Phuket, Sukhothai and Surat Thani are independently researched and production-verified.",
+      "definition": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Chiang Mai, Chiang Rai, Hat Yai, Krabi, Mae Hong Son, Pai, Pattaya, Phuket, Sukhothai and Surat Thani are independently researched and production-verified.",
       "expected": 34,
-      "complete": 11,
-      "exactOwners": 11,
-      "remainingCount": 23,
+      "complete": 12,
+      "exactOwners": 12,
+      "remainingCount": 22,
       "remaining": [
-        "/nl/city/mae-hong-son/food/",
         "/nl/city/lampang/food/",
         "/nl/city/khon-kaen/food/",
         "/nl/city/udon-thani/food/",
@@ -650,7 +649,8 @@
         "/nl/city/lopburi/food/",
         "/nl/city/phitsanulok/food/",
         "/nl/city/trat/food/",
-        "/nl/city/rayong/food/"
+        "/nl/city/rayong/food/",
+        "/nl/city/koh-samui/food/"
       ],
       "remainingTruncated": true,
       "evidence": [
@@ -660,6 +660,7 @@
         "seo/audits/nl-chiang-rai-city-food-owner-2026-07-29.md",
         "seo/audits/nl-hat-yai-city-food-owner-2026-07-29.md",
         "seo/audits/nl-krabi-city-food-owner-2026-07-29.md",
+        "seo/audits/nl-mae-hong-son-city-food-owner-2026-07-30.md",
         "seo/audits/nl-pai-city-food-owner-2026-07-30.md",
         "seo/audits/nl-pattaya-city-food-owner-2026-07-29.md",
         "seo/audits/nl-phuket-city-food-owner-2026-07-29.md",
@@ -5175,12 +5176,12 @@
       "templateOwner": "destination-subpillar",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:destination-subpillar:food",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "exactOwner": true,
+      "amazonLinks": 2,
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
