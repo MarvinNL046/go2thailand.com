@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-07-29T20:51:31.203Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/city/chiang-mai/",
+  "cost": 0.0126,
+  "rankings": [
+    {
+      "keyword": "chiang mai",
+      "position": 108,
+      "volume": 14800,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    },
+    {
+      "keyword": "chiang mai thailand",
+      "position": 89,
+      "volume": 2900,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    },
+    {
+      "keyword": "thailand chiang mai",
+      "position": 76,
+      "volume": 2900,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    },
+    {
+      "keyword": "to do chiang mai",
+      "position": 86,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    },
+    {
+      "keyword": "chiangmai",
+      "position": 96,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/chiang-mai/"
+    }
+  ]
+}

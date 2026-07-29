@@ -1,0 +1,37 @@
+# DFS parsed source — https://www.tourismthailand.org/Articles/yummy-delicacies-at-chiang-mai-night-market
+
+**Captured:** 2026-07-29T20:53:07.796Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+# YUMMY DELICACIES AT CHIANG MAI NIGHT MARKET
+
+Share to
+
+Tasty delicacies at Chiang Mai Night Market
+
+On Sunday afternoons, Chiang Mai Old City turns chaotic when roads are occupied and transformed into a food haven. Happy eaters overwhelm the streets, hunting for tasty treasures. But roaming without any plan may make you get full before meeting delicious stuff. This is a map to yummy treasures of Chiang Mai Sunday Market.
+
+Pa Nguay Spicy Mango Salad: do not waste your time with the others “Yum” stalls, just dart to Pa Nguay. Take a queue card, and you will learn how popular Pa Nguay is. Her spicy mango salad comes with crispy fishes, roasted peanuts, and herbs. It gives full flavors of sweetness, sourness, and a bit saltiness, just add chili to add spiciness as you like it. Get a bite of her salad can, you will realize that the quality food at a reasonable price does exist in Chiang Mai.
+
+Lung Krerk Crispy Wonton: the legendary crispy wonton of Chiang Mai is actually situated on a tiny cart which this uncle pushed around the city. Lung Krerk just deep fries the extremely delicious wontons. The fried wontons come in different kinds of stuff, quail’s egg, sausage, chicken’s tendon, pork ball. Soaked up with special dipping, the simply fried wontons turn into a miracle snack all of a sudden. It is priced just 5 baht per stick.
+
+Tiny ice cream cone: You will love it at the first sight. The small scoops of ice cream in pastel colors on top cute little cornets are very unique sweet from Chiang Mai before spreading out to other places. Cones are placed on a paper plate, for the ease of holding and enjoyment. A set of five cones is 20 baht. Its stall is located close to U Chiang Mai Hotel.
+
+Khai Pam: omelet in the banana-leaf plate is actually available throughout the northern region. But this Khai Pam outlet offers food with various toppings such as ant’s eggs, shiitake mushroom, or crab stick.
+
+Chiang Mai Juices: located opposite to Wat Chai Phrakiat, the stall offers various fruit and herbal juices in the price range between 10 and 15 baht only. Steps away locates another "Yum" shop, which makes quite an excellent spicy salad as well.
+
+A rough guideline to these yummy treasures may enable you to enjoy exploring the bustling market a bit more.
+
+How to get there: Chiang Mai Sunday Market or Chiang Mai Walking Street starts from 5pm onward. On Ratchadamnoen Road, it runs from Tha Pae Gate into the heart of Chiang Mai Old City.
+
+5 0%
+
+4 0%
+
+3 0%
+
+2 0%
+
+1 0%

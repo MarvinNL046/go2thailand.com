@@ -1,0 +1,50 @@
+{
+  "captured_at": "2026-07-29T20:51:24.253Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "eten in chiang mai",
+  "costs": {
+    "suggestions": 0.01236,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "eten in chiang mai",
+    "lekker eten in chiang mai",
+    "waar eten in chiang mai"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "lekker eten in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "waar eten in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

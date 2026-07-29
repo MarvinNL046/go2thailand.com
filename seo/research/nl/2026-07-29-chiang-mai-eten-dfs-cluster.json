@@ -1,0 +1,117 @@
+{
+  "captured_at": "2026-07-29T20:51:25.390Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "chiang mai eten",
+  "costs": {
+    "suggestions": 0.0132,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "chiang mai eten",
+    "eten chiang mai",
+    "eten in chiang mai",
+    "lekker eten chiang mai",
+    "lekker eten in chiang mai",
+    "nachttrein bangkok chiang mai eten",
+    "waar eten in chiang mai"
+  ],
+  "keywords": [
+    {
+      "keyword": "chiang mai eten",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "eten chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "eten in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lekker eten chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lekker eten in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nachttrein bangkok chiang mai eten",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tripadvisor chiang mai eten",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "waar eten in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nachttrein chiang mai eten",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nederlands eten chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
