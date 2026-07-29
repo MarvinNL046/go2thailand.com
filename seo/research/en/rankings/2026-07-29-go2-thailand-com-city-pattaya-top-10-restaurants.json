@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-07-29T05:59:10.225Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/city/pattaya/top-10-restaurants/",
+  "cost": 0.0126,
+  "rankings": [
+    {
+      "keyword": "pattaya restaurants thailand",
+      "position": 46,
+      "volume": 720,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/pattaya/top-10-restaurants/"
+    },
+    {
+      "keyword": "best pattaya restaurants",
+      "position": 47,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/pattaya/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurant pattaya",
+      "position": 58,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/pattaya/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurants in pattaya thailand",
+      "position": 49,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/pattaya/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurants pattaya thailand",
+      "position": 50,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/pattaya/top-10-restaurants/"
+    }
+  ]
+}

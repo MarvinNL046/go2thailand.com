@@ -117,6 +117,7 @@ if (!read('lib/blog.js').includes("'thai-street-food-guide-2026': '/thailand-str
 const cityFoodTemplate = read('components/city/CityFoodGuideTemplate.tsx');
 const bangkokCityFoodEn = read('data/city-food/en/bangkok.ts');
 const chiangMaiCityFoodEn = read('data/city-food/en/chiang-mai.ts');
+const pattayaCityFoodEn = read('data/city-food/en/pattaya.ts');
 const phuketCityFoodEn = read('data/city-food/en/phuket.ts');
 const cityFoodRegistryEn = read('data/city-food/en/index.ts');
 const cityFoodRoute = read('pages/city/[slug]/food.tsx');
@@ -126,9 +127,10 @@ for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'Rela
 for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practicalChecks:', 'phrases:', 'faqs:', 'sources:', 'simple-thai-food-cookbook', 'thai-granite-mortar-eight-inch']) {
   if (!bangkokCityFoodEn.includes(proof)) failures.push(`Bangkok city-food owner lacks content proof: ${proof}`);
   if (!chiangMaiCityFoodEn.includes(proof)) failures.push(`Chiang Mai city-food owner lacks content proof: ${proof}`);
+  if (!pattayaCityFoodEn.includes(proof)) failures.push(`Pattaya city-food owner lacks content proof: ${proof}`);
   if (!phuketCityFoodEn.includes(proof)) failures.push(`Phuket city-food owner lacks content proof: ${proof}`);
 }
-for (const proof of ['bangkokCityFoodEn', 'chiangMaiCityFoodEn', 'phuketCityFoodEn', "'chiang-mai': chiangMaiCityFoodEn", 'phuket: phuketCityFoodEn', 'getEnCityFoodGuide']) {
+for (const proof of ['bangkokCityFoodEn', 'chiangMaiCityFoodEn', 'pattayaCityFoodEn', 'phuketCityFoodEn', "'chiang-mai': chiangMaiCityFoodEn", 'pattaya: pattayaCityFoodEn', 'phuket: phuketCityFoodEn', 'getEnCityFoodGuide']) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks owner proof: ${proof}`);
 }
 for (const proof of ['CityFoodGuideTemplate', 'getEnCityFoodGuide', 'cityFoodGuide']) {
