@@ -66,6 +66,7 @@ const pilotTemplates = [
   'components/editorial/BangkokFirstTimeTipsGuideEn.tsx',
   'components/safety/SoloFemaleThailandGuideEn.tsx',
   'components/food/ThailandFoodGuideEn.tsx',
+  'components/food/ThailandStreetFoodGuideEn.tsx',
 ];
 for (const template of pilotTemplates) {
   const source = read(template);
@@ -103,6 +104,18 @@ for (const proof of ['ThailandFoodGuideEn', "guide.slug === 'thai-cuisine-food-g
   if (!travelGuideRoute.includes(proof)) failures.push(`Travel-guide route does not wire Thai-food owner proof: ${proof}`);
 }
 if (!read('lib/blog.js').includes("'what-is-thai-food-cuisine-guide': '/travel-guides/thai-cuisine-food-guide/'")) failures.push('The obsolete what-is-Thai-food blog is not consolidated into the researched owner');
+
+const thailandStreetFoodGuideEn = read('components/food/ThailandStreetFoodGuideEn.tsx');
+for (const proof of ['FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="thai-street-food-guide-en"', 'simple-thai-food-cookbook', 'thai-granite-mortar-eight-inch']) {
+  if (!thailandStreetFoodGuideEn.includes(proof)) failures.push(`English street-food owner lacks proof: ${proof}`);
+}
+const thailandStreetFoodRoute = read('pages/thailand-street-food.tsx');
+if (!thailandStreetFoodRoute.includes('ThailandStreetFoodGuideEn')) failures.push('Standalone street-food route does not wire the English premium owner');
+if (!read('lib/blog.js').includes("'thai-street-food-guide-2026': '/thailand-street-food/'")) failures.push('The obsolete English street-food blog is not consolidated into the evergreen owner');
+for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {
+  if (!sitemap.includes('/thailand-street-food/')) failures.push('Street-food owner is missing from a locale sitemap');
+  if (sitemap.includes('/blog/thai-street-food-guide-2026/')) failures.push('A locale sitemap still exposes the obsolete street-food blog owner');
+}
 const hreflang = read('components/Hreflang.tsx');
 for (const proof of ["'/travel-guides/thai-cuisine-food-guide/'", "nl: '/blog/what-is-thai-food-cuisine-guide/'"]) {
   if (!hreflang.includes(proof)) failures.push(`Thai-food cross-locale hreflang mapping lacks proof: ${proof}`);

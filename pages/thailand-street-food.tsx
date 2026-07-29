@@ -1,4 +1,6 @@
 import { GetStaticProps } from 'next';
+import { existsSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
@@ -7,6 +9,7 @@ import TripcomWidget from '../components/TripcomWidget';
 import { useState } from 'react';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/thailand-street-food';
+import ThailandStreetFoodGuideEn from '../components/food/ThailandStreetFoodGuideEn';
 
 interface DishData {
   rank: number;
@@ -138,6 +141,8 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
   const isNl = locale === 'nl';
   const [typeFilter, setTypeFilter] = useState<TypeFilter>('all');
   const [spiceFilter, setSpiceFilter] = useState<SpiceFilter>('all');
+
+  if (!isNl) return <ThailandStreetFoodGuideEn />;
 
   const breadcrumbItems = [
     { name: 'Home', href: '/' },
@@ -831,15 +836,13 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
 }
 
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
-  const fs = require('fs');
-  const path = require('path');
   const lang = locale || 'en';
 
-  const localePath = path.join(process.cwd(), 'data', `street-food.${lang}.json`);
-  const defaultPath = path.join(process.cwd(), 'data', 'street-food.json');
-  const dataPath = lang !== 'en' && fs.existsSync(localePath) ? localePath : defaultPath;
+  const localePath = join(process.cwd(), 'data', `street-food.${lang}.json`);
+  const defaultPath = join(process.cwd(), 'data', 'street-food.json');
+  const dataPath = lang !== 'en' && existsSync(localePath) ? localePath : defaultPath;
 
-  const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+  const data = JSON.parse(readFileSync(dataPath, 'utf8'));
   return {
     props: { data },
     revalidate: 604800

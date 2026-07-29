@@ -375,7 +375,7 @@ export function BangkokStreetFoodMarketsGuideEn() {
         <section id="dishes" className="section-divider-bottom scroll-mt-24 bg-tonal py-16 lg:py-24">
           <div className="container-custom">
             <div className="grid gap-10 lg:grid-cols-[0.62fr_1.38fr] lg:items-end">
-              <SectionHeading eyebrow="A dish compass, not a checklist" title="Choose contrast across three bites" description={<>Start with one hot anchor, add something fresh or grilled, then finish sweet or cold. Our <Link href="/blog/thai-street-food-guide-2026/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">Thailand street-food guide</Link> owns the broader ordering and ingredient context.</>} />
+              <SectionHeading eyebrow="A dish compass, not a checklist" title="Choose contrast across three bites" description={<>Start with one hot anchor, add something fresh or grilled, then finish sweet or cold. Our <Link href="/thailand-street-food/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">Thailand street-food guide</Link> owns the broader ordering and ingredient context.</>} />
               <p className="max-w-3xl text-sm font-medium leading-7 text-charcoal/64">These dish owners explain flavour, variations and hidden ingredients without pretending every Bangkok market serves the same version. Open only the guides that answer a real question before your route.</p>
             </div>
             <div className="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-3">

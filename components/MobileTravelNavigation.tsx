@@ -83,7 +83,7 @@ export default function MobileTravelNavigation() {
           <Search className="shrink-0 text-jade" size={20} strokeWidth={2} />
           <span className="ml-3 flex-1">
             <span className="block text-sm font-bold text-jade">{isNl ? 'Waar wil je heen?' : 'Where do you want to go?'}</span>
-            <span className="block text-xs text-charcoal/50">{isNl ? 'Zoek een bestemming in Thailand' : 'Search a destination in Thailand'}</span>
+            <span className="block text-xs text-charcoal/68">{isNl ? 'Zoek een bestemming in Thailand' : 'Search a destination in Thailand'}</span>
           </span>
           <span className="grid h-8 w-8 place-items-center rounded-xl border border-saffron/45 text-saffron"><ArrowRight size={15} /></span>
         </button>

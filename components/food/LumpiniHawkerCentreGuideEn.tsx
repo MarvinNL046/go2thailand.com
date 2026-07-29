@@ -11,7 +11,6 @@ import {
   Droplets,
   Eye,
   ExternalLink,
-  Footprints,
   Grid2X2,
   Map,
   MapPin,
@@ -309,7 +308,7 @@ export function LumpiniHawkerCentreGuideEn() {
               <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-jade/94 via-jade/50 to-transparent p-7 pt-32 text-white"><p className="eyebrow !text-saffron-light">Four directions, not a must-eat list</p><h2 className="max-w-xl font-display text-[3rem] font-semibold leading-[0.9] tracking-[-0.04em]">Choose by cooking, portion and moment.</h2></div>
             </div>
             <div>
-              <SectionHeading eyebrow="Scan before ordering" title="A stall matters when it solves your food question" description={<>Use our <InlineLink href="/blog/thai-street-food-guide-2026/">Thai street-food guide</InlineLink> for dish and ingredient context. Here the task is choosing inside a venue whose exact line-up rotates by shift.</>} />
+              <SectionHeading eyebrow="Scan before ordering" title="A stall matters when it solves your food question" description={<>Use our <InlineLink href="/thailand-street-food/">Thai street-food guide</InlineLink> for dish and ingredient context. Here the task is choosing inside a venue whose exact line-up rotates by shift.</>} />
               <div className="mt-8 space-y-4">
                 {[
                   [Coffee, 'Breakfast & gentle', 'Rice porridge, eggs, soy drink or a simple rice plate can fit an early park routine. Ask what is being served fresh now.'],
@@ -405,7 +404,7 @@ export function LumpiniHawkerCentreGuideEn() {
           eyebrow="Keep eating through Bangkok"
           title="From one venue to the right next route"
           guides={[
-            { title: 'Bangkok street food', description: 'Learn ordering, ingredient and allergen checks beyond one managed hawker centre.', href: '/blog/thai-street-food-guide-2026/', image: '/images/blog/thai-street-food-guide-2026.webp' },
+            { title: 'Thailand street food', description: 'Learn ordering, ingredient and allergen checks beyond one managed hawker centre.', href: '/thailand-street-food/', image: '/images/redesign/bangkok-street-food-market-kit.webp' },
             { title: 'BTS & MRT', description: 'Plan the network leg, final station walk and journey home after the park.', href: '/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/', image: '/images/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026.webp' },
             { title: 'Compare night markets', description: 'Choose a larger evening market when food, shopping and atmosphere matter together.', href: '/blog/best-night-markets-bangkok-2026/', image: '/images/blog/best-night-markets-bangkok-2026.webp' },
           ]}

@@ -1,6 +1,6 @@
 # Route inventory
 
-Generated: 2026-07-29T03:20:00.967Z
+Generated: 2026-07-29T03:51:08.917Z
 
 - Total sitemap URLs: 2266
 - English URLs: 1563
@@ -12,7 +12,7 @@ Generated: 2026-07-29T03:20:00.967Z
 | page type | URLs |
 |---|---:|
 | attraction-detail | 72 |
-| blog | 531 |
+| blog | 529 |
 | commercial-activity | 106 |
 | comparison | 2 |
 | destination-detail | 66 |
@@ -26,7 +26,7 @@ Generated: 2026-07-29T03:20:00.967Z
 | island | 28 |
 | itinerary | 30 |
 | location-directory | 54 |
-| other | 65 |
+| other | 67 |
 | phuket-location | 30 |
 | practical | 29 |
 | region | 10 |
@@ -38,10 +38,10 @@ Generated: 2026-07-29T03:20:00.967Z
 
 | recommended action | URLs |
 |---|---:|
-| freshness-audit | 633 |
+| freshness-audit | 631 |
 | indexation-audit | 429 |
 | keep-improve | 442 |
-| manual-audit | 65 |
+| manual-audit | 67 |
 | merge-candidate | 55 |
 | template-audit | 326 |
 | template-improve | 316 |

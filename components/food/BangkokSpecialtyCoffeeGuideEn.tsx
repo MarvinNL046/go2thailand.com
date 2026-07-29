@@ -406,7 +406,7 @@ export function BangkokSpecialtyCoffeeGuideEn() {
           title="Turn coffee into a Bangkok day"
           guides={[
             { title: 'BTS & MRT in Bangkok', description: 'Plan the long axis and avoid unnecessary taxi rides between coffee areas.', href: '/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/', image: '/images/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026.webp' },
-            { title: 'Bangkok street food', description: 'Connect the first coffee to a real meal and use the same calm selection checks.', href: '/blog/thai-street-food-guide-2026/', image: '/images/blog/thai-street-food-guide-2026.webp' },
+            { title: 'Thailand street food', description: 'Connect the first coffee to a real meal and use the same calm selection checks.', href: '/thailand-street-food/', image: '/images/redesign/bangkok-street-food-market-kit.webp' },
             { title: 'Lumpini Hawker Centre', description: 'Combine park, breakfast or early evening with a route that ends at Gate 5.', href: '/blog/bangkok-lumpini-hawker-centre-street-food-2026/', image: '/images/redesign/lumpini-hawker-hero.webp' },
           ]}
           readLabel="Read the guide"

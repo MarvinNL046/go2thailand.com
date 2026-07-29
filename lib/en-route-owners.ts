@@ -36,6 +36,7 @@ export function normalizeEnInternalHref(href: string): string {
     '/region/East/': '/region/',
     '/digital-nomad/': '/thailand-index/digital-nomad/',
     '/blog/what-is-thai-food-cuisine-guide/': '/travel-guides/thai-cuisine-food-guide/',
+    '/blog/thai-street-food-guide-2026/': '/thailand-street-food/',
   };
   pathname = exactOwners[pathname] || pathname;
 
