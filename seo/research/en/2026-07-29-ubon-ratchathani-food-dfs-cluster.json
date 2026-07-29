@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-29T15:46:19.215Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "ubon ratchathani food",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "ubon ratchathani food"
+  ],
+  "keywords": [
+    {
+      "keyword": "ubon ratchathani food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}
