@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T18:23:52.332Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "nakhon phanom local food",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "nakhon phanom local food"
+  ],
+  "keywords": [
+    {
+      "keyword": "nakhon phanom local food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

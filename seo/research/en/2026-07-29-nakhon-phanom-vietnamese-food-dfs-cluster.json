@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T18:23:53.368Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "nakhon phanom vietnamese food",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "nakhon phanom vietnamese food"
+  ],
+  "keywords": [
+    {
+      "keyword": "nakhon phanom vietnamese food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
