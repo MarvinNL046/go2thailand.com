@@ -2,7 +2,7 @@
 
 **Measured:** 29 July 2026
 **Source:** `seo/inventory/routes.csv` and `seo/inventory/unpaired-routes.json`  
-**Scope:** 928 sitemap routes without an exact path-equivalent in the other locale (910 EN-only, 18 NL-only)
+**Scope:** 929 sitemap routes without an exact path-equivalent in the other locale (910 EN-only, 19 NL-only)
 
 An unpaired route is an audit lead, not automatically a missing translation. Go2Thailand uses locale-specific consolidation: Dutch often keeps one strong destination or hotel owner where English still has several programmatic child routes. Creating all missing path-equivalents would therefore add thin duplication and incorrect hreflang rather than useful bilingual coverage.
 
@@ -10,9 +10,9 @@ An unpaired route is an audit lead, not automatically a missing translation. Go2
 
 | Locale-only side | Routes | Share of unpaired set |
 |---|---:|---:|
-| English-only | 910 | 98.1% |
-| Dutch-only | 18 | 1.9% |
-| Total | 928 | 100% |
+| English-only | 910 | 98.0% |
+| Dutch-only | 19 | 2.0% |
+| Total | 929 | 100% |
 
 ## English-only families
 
@@ -39,17 +39,9 @@ The first five template-held groups account for **648/910 English-only routes**.
 
 The durable commercial and topical candidates from this tier now have independently researched English owners. No Priority A route remains open.
 
-### Priority B — editorial English-candidate review
+### Priority B — complete
 
-These seven blog intents can be useful in English, but each needs freshness and SERP validation before translation or rewriting:
-
-- Best time to visit Thailand by region
-- Bangkok K-pop concerts 2026
-- Mango sticky rice season
-- Som tam regional variations
-- Pad Thai: street food versus restaurant/home cooking
-- Tom yum goong guide
-- Cheapest versus most expensive Bangkok hotel comparison
+No Priority B candidate remains open. The earlier seven-item list mixed already implemented owners with routes that were already deliberately consolidated. The corrected status is recorded below.
 
 ### Deliberately locale-specific or consolidated
 
@@ -64,10 +56,9 @@ These seven blog intents can be useful in English, but each needs freshness and 
 
 ## Working order
 
-1. Review the eight remaining editorial candidates against current English SERPs, GSC/GA4 evidence and freshness risk.
-2. Audit the 262 manual EN-only routes by cluster, prioritizing existing traffic, commercial intent and natural internal-link gaps.
-3. Leave the 648 template-held routes EN-only unless a Dutch cluster owner has enough unique localized value to justify publication.
-4. Re-run inventory, hreflang and sitewide audits after every locale-pair batch.
+1. Audit the 262 manual EN-only routes by cluster, prioritizing existing traffic, commercial intent and natural internal-link gaps.
+2. Leave the 648 template-held routes EN-only unless a Dutch cluster owner has enough unique localized value to justify publication.
+3. Re-run inventory, hreflang and sitewide audits after every locale-pair batch.
 
 ## Completed from Priority A
 
@@ -81,6 +72,10 @@ These seven blog intents can be useful in English, but each needs freshness and 
 - `/compare/phuket-vs-krabi/` now has an independent English owner based on a 41-keyword DFS cluster, ten current UK-English SERPs, genuine PAA, eight usable full parses and exact-route ranking/backlink checks. It entered the English sitemap only after the travel-style matrix, combine-the-two route, canonical, hreflang, five-schema, internal-link, Trip.com, Klook, 12Go and responsive QA passed. Amazon was assessed symmetrically for both locales and not forced because a physical product does not improve the destination-choice task.
 
 ## Completed from Priority B
+
+- `/blog/best-time-to-visit-thailand/` already owns the independently researched English country-and-region season intent; it was incorrectly left in the open list.
+- The English mango sticky rice, som tam, Pad Thai and tom yum editorial variants are already permanently consolidated into `/food/mango-sticky-rice/`, `/food/som-tam/`, `/food/pad-thai/` and `/food/tom-yum-goong/` respectively. The K-pop roundup is already consolidated into the current BTS Bangkok concert owner.
+- `/best-hotels/bangkok/` retains the English Bangkok hotel-value intent after three DFS clusters, ten current UK-English SERPs, genuine PAA, three full competitor parses and exact ranking/backlink checks across five overlap candidates. The owner ranks for three 2,400-volume variants; the unsupported `/blog/cheapest-vs-most-expensive-hotel-bangkok/` candidate has zero ranking and backlink-summary signal and permanently consolidates into it. Five affected English articles now link directly to the owner. The premium owner already compares eight verified picks through location consequence, traveller fit, transport friction, room and policy checks, honest trade-offs and a current-price Trip.com exit. Amazon was explicitly assessed and not forced because a physical product does not improve the hotel-selection task.
 
 - `/travel-guides/solo-female-travel-thailand/` now owns the English solo-female travel and safety-planning intent after three independent DFS clusters, eleven current UK-English SERPs, 50 genuine PAA appearances, four complete competitor parses, current FCDO and Tourist Police verification and exact ranking/backlink checks for four candidates. The established travel-guide URL was retained and the old English blog remains permanently consolidated. The bespoke owner uses two unique editorial visuals, a six-moment chain, four destination formats, accommodation-access matrix, transport switchboard, social-anchor board, nightlife return plan, incident-help route, ten PAA answers, Trip.com, Klook, 12Go, Saily and one deliberately bounded Amazon OneLink power bank. The broad country-safety, scams, destination, hotel, nightlife, itinerary and transport owners remain independent; six older incoming articles now use bounded, descriptive link context instead of blanket safety claims.
 - `/blog/bangkok-travel-tips-reddit/` now owns the English first-arrival and first-three-days planning intent after two independent DFS clusters, eleven current UK-English SERPs, 40 genuine PAA appearances, five usable competitor or official-source parses and exact ranking/backlink checks for four candidate owners. The paired owner uses a first-90-minutes route, four base corridors, four transport modes, three geography-led day plans, six friction checks, ten PAA answers, current official-source boundaries, natural incoming links, Klook, Trip.com, 12Go, Saily and three contextual Amazon OneLink products. Broad destination, alternative-sights, Thailand-wide first-time, accommodation and detailed transit intents remain delegated to their specialist owners.

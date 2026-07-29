@@ -96,7 +96,7 @@ This is the sweet spot for most travelers. A decent mid-range hotel offers a pri
 
 ### Luxury Accommodation (฿2,000+ / $57+ USD)
 
-High-end resorts and boutique hotels are genuinely excellent value compared to Western luxury. A ฿3,000–5,000 ($86–143 USD) resort in [Phuket](https://go2-thailand.com/city/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/) offers world-class service, private pools, and beachfront locations that would cost triple in Europe or North America. See our [cheapest vs most expensive Bangkok hotel comparison](https://go2-thailand.com/blog/cheapest-vs-most-expensive-hotel-bangkok/) for a real-world breakdown.
+Higher-end resorts and boutique hotels can deliver more space, facilities or a stronger setting, but value depends on your dates, location and how much time you will spend at the property. Compare the same room, taxes, breakfast and cancellation terms instead of relying on a headline rate. Our [Bangkok hotel guide](https://go2-thailand.com/best-hotels/bangkok/) shows how budget, transport access and hotel experience change the decision without pretending that one static price fits every stay.
 
 | Accommodation Type | Budget | Mid-Range | Luxury |
 |-------------------|--------|-----------|--------|

@@ -489,6 +489,7 @@ for (const asset of ['thailand-snorkeling-hero.webp', 'thailand-snorkeling-shore
   read(`public/images/redesign/${asset}`);
 }
 if (!blogConsolidations.includes("'best-snorkeling-spots-thailand-water-clarity': '/best-diving-snorkeling-in-thailand/'")) failures.push('The overlapping English water-clarity article does not consolidate into the Thailand snorkeling owner');
+if (!blogConsolidations.includes("'cheapest-vs-most-expensive-hotel-bangkok': '/best-hotels/bangkok/'")) failures.push('The unsupported English Bangkok hotel-price experiment does not consolidate into the ranked hotel owner');
 
 const destinationRegistry = read('data/destinations/nl/index.ts');
 for (const city of ['ayutthaya', 'bangkok', 'chumphon', "'chiang-mai'", "'chiang-rai'", "'hua-hin'", 'kanchanaburi', 'pai', 'pattaya', 'phuket', 'rayong', 'sukhothai', "'koh-samui'", "'khao-sok'"]) {
