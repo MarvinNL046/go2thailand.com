@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-29T20:30:01.237Z
+**Generated:** 2026-07-29T20:48:29.347Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 703 | 703 | 702 | 1 | 111 | 2 | 4 | 525 |
+| NL | 703 | 703 | 702 | 1 | 112 | 3 | 6 | 524 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -277,12 +277,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:destination-subpillar:food
 
-- Family accepted: **2/34**
-- Exact owners registered: **2/34**
+- Family accepted: **3/34**
+- Exact owners registered: **3/34**
 - Closed: **no**
-- Remaining routes: **32** (first 12 shown)
-- Sample: `/nl/city/chiang-mai/food/`, `/nl/city/phuket/food/`, `/nl/city/pattaya/food/`, `/nl/city/ayutthaya/food/`, `/nl/city/chiang-rai/food/`, `/nl/city/hat-yai/food/`, `/nl/city/sukhothai/food/`, `/nl/city/surat-thani/food/`, `/nl/city/pai/food/`, `/nl/city/mae-hong-son/food/`, `/nl/city/lampang/food/`, `/nl/city/khon-kaen/food/`
-- Evidence: `seo/audits/nl-bangkok-city-food-owner-2026-07-29.md`, `seo/audits/nl-krabi-city-food-owner-2026-07-29.md`
+- Remaining routes: **31** (first 12 shown)
+- Sample: `/nl/city/chiang-mai/food/`, `/nl/city/pattaya/food/`, `/nl/city/ayutthaya/food/`, `/nl/city/chiang-rai/food/`, `/nl/city/hat-yai/food/`, `/nl/city/sukhothai/food/`, `/nl/city/surat-thani/food/`, `/nl/city/pai/food/`, `/nl/city/mae-hong-son/food/`, `/nl/city/lampang/food/`, `/nl/city/khon-kaen/food/`, `/nl/city/udon-thani/food/`
+- Evidence: `seo/audits/nl-bangkok-city-food-owner-2026-07-29.md`, `seo/audits/nl-krabi-city-food-owner-2026-07-29.md`, `seo/audits/nl-phuket-city-food-owner-2026-07-29.md`
 
 ### nl:destination-subpillar:weather
 
