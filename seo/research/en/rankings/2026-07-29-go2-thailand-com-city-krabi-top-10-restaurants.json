@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-29T06:48:25.864Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/city/krabi/top-10-restaurants/",
+  "cost": 0.01224,
+  "rankings": [
+    {
+      "keyword": "best krabi restaurants",
+      "position": 50,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/krabi/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurants in krabi",
+      "position": 54,
+      "volume": 210,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/krabi/top-10-restaurants/"
+    }
+  ]
+}
