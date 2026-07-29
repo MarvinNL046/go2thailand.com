@@ -103,13 +103,13 @@ export default function MobileTravelNavigation() {
           const active = router.pathname.startsWith(item.href.replace(/\/$/, ''));
           const Icon = item.icon;
           return (
-            <Link key={item.href} href={item.href} className={`flex min-h-[68px] flex-col items-center justify-center gap-1 ${active ? 'text-saffron-dark' : 'text-jade/65'}`}>
+            <Link key={item.href} href={item.href} className={`flex min-h-[68px] flex-col items-center justify-center gap-1 ${active ? 'text-saffron-dark' : 'text-jade/75'}`}>
               <Icon size={21} strokeWidth={2} />
               <span className="text-[11px] font-semibold">{isNl ? item.nl : item.en}</span>
             </Link>
           );
         })}
-        <button type="button" onClick={() => setMenuOpen(true)} className={`flex min-h-[68px] flex-col items-center justify-center gap-1 ${menuOpen ? 'text-saffron-dark' : 'text-jade/65'}`}>
+        <button type="button" onClick={() => setMenuOpen(true)} className={`flex min-h-[68px] flex-col items-center justify-center gap-1 ${menuOpen ? 'text-saffron-dark' : 'text-jade/75'}`}>
           <Menu size={22} strokeWidth={2.1} />
           <span className="text-[11px] font-semibold">Menu</span>
         </button>

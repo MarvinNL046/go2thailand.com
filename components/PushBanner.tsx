@@ -74,7 +74,7 @@ export default function PushBanner() {
   if (!show) return null;
 
   return (
-    <div className="bg-surface-dark text-white text-xs sm:text-sm flex items-center justify-center gap-3 px-4 py-1.5">
+    <section aria-label={locale === 'nl' ? 'Melding over Thailand-reistips' : 'Thailand travel tips notification'} className="bg-surface-dark text-white text-xs sm:text-sm flex items-center justify-center gap-3 px-4 py-1.5">
       <span>{t.text}</span>
       <button
         onClick={handleAllow}
@@ -91,6 +91,6 @@ export default function PushBanner() {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
         </svg>
       </button>
-    </div>
+    </section>
   );
 }

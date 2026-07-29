@@ -133,6 +133,7 @@ const krabiCityFoodEn = read('data/city-food/en/krabi.ts');
 const pattayaCityFoodEn = read('data/city-food/en/pattaya.ts');
 const phuketCityFoodEn = read('data/city-food/en/phuket.ts');
 const sukhothaiCityFoodEn = read('data/city-food/en/sukhothai.ts');
+const suratThaniCityFoodEn = read('data/city-food/en/surat-thani.ts');
 const cityFoodRegistryEn = read('data/city-food/en/index.ts');
 const cityFoodRoute = read('pages/city/[slug]/food.tsx');
 for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="city-food-guide-en"']) {
@@ -157,8 +158,9 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!pattayaCityFoodEn.includes(proof)) failures.push(`Pattaya city-food owner lacks content proof: ${proof}`);
   if (!phuketCityFoodEn.includes(proof)) failures.push(`Phuket city-food owner lacks content proof: ${proof}`);
   if (!sukhothaiCityFoodEn.includes(proof)) failures.push(`Sukhothai city-food owner lacks content proof: ${proof}`);
+  if (!suratThaniCityFoodEn.includes(proof)) failures.push(`Surat Thani city-food owner lacks content proof: ${proof}`);
 }
-for (const proof of ['ayutthayaCityFoodEn', 'bangkokCityFoodEn', 'buengKanCityFoodEn', 'chanthaburiCityFoodEn', 'chiangKhanCityFoodEn', 'chumphonCityFoodEn', 'chiangRaiCityFoodEn', 'chiangMaiCityFoodEn', 'hatYaiCityFoodEn', 'huaHinCityFoodEn', 'kanchanaburiCityFoodEn', 'khonKaenCityFoodEn', 'kohSamuiCityFoodEn', 'khaoSokCityFoodEn', 'krabiCityFoodEn', 'pattayaCityFoodEn', 'phuketCityFoodEn', 'sukhothaiCityFoodEn', 'ayutthaya: ayutthayaCityFoodEn', "'bueng-kan': buengKanCityFoodEn", 'chanthaburi: chanthaburiCityFoodEn', "'chiang-khan': chiangKhanCityFoodEn", 'chumphon: chumphonCityFoodEn', "'chiang-rai': chiangRaiCityFoodEn", "'chiang-mai': chiangMaiCityFoodEn", "'hat-yai': hatYaiCityFoodEn", "'hua-hin': huaHinCityFoodEn", 'kanchanaburi: kanchanaburiCityFoodEn', "'khon-kaen': khonKaenCityFoodEn", "'koh-samui': kohSamuiCityFoodEn", "'khao-sok': khaoSokCityFoodEn", 'krabi: krabiCityFoodEn', 'pattaya: pattayaCityFoodEn', 'phuket: phuketCityFoodEn', 'sukhothai: sukhothaiCityFoodEn', 'getEnCityFoodGuide']) {
+for (const proof of ['ayutthayaCityFoodEn', 'bangkokCityFoodEn', 'buengKanCityFoodEn', 'chanthaburiCityFoodEn', 'chiangKhanCityFoodEn', 'chumphonCityFoodEn', 'chiangRaiCityFoodEn', 'chiangMaiCityFoodEn', 'hatYaiCityFoodEn', 'huaHinCityFoodEn', 'kanchanaburiCityFoodEn', 'khonKaenCityFoodEn', 'kohSamuiCityFoodEn', 'khaoSokCityFoodEn', 'krabiCityFoodEn', 'pattayaCityFoodEn', 'phuketCityFoodEn', 'sukhothaiCityFoodEn', 'suratThaniCityFoodEn', 'ayutthaya: ayutthayaCityFoodEn', "'bueng-kan': buengKanCityFoodEn", 'chanthaburi: chanthaburiCityFoodEn', "'chiang-khan': chiangKhanCityFoodEn", 'chumphon: chumphonCityFoodEn', "'chiang-rai': chiangRaiCityFoodEn", "'chiang-mai': chiangMaiCityFoodEn", "'hat-yai': hatYaiCityFoodEn", "'hua-hin': huaHinCityFoodEn", 'kanchanaburi: kanchanaburiCityFoodEn', "'khon-kaen': khonKaenCityFoodEn", "'koh-samui': kohSamuiCityFoodEn", "'khao-sok': khaoSokCityFoodEn", 'krabi: krabiCityFoodEn', 'pattaya: pattayaCityFoodEn', 'phuket: phuketCityFoodEn', 'sukhothai: sukhothaiCityFoodEn', "'surat-thani': suratThaniCityFoodEn", 'getEnCityFoodGuide']) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks owner proof: ${proof}`);
 }
 for (const proof of ['CityFoodGuideTemplate', 'getEnCityFoodGuide', 'cityFoodGuide']) {
