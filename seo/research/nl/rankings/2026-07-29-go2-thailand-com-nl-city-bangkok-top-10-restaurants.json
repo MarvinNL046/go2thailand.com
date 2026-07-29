@@ -1,0 +1,61 @@
+{
+  "captured_at": "2026-07-29T20:08:24.124Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/",
+  "cost": 0.01284,
+  "rankings": [
+    {
+      "keyword": "bangkok restaurant",
+      "position": 38,
+      "volume": 1600,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "bangkok thailand restaurant",
+      "position": 55,
+      "volume": 1600,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "restaurant bangkok thailand",
+      "position": 52,
+      "volume": 1600,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "restaurant bangkok",
+      "position": 54,
+      "volume": 390,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "bangkok eten",
+      "position": 49,
+      "volume": 110,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "eten in bangkok",
+      "position": 54,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    },
+    {
+      "keyword": "reviews voor thai restaurant bangkok",
+      "position": 17,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/top-10-restaurants/"
+    }
+  ]
+}
