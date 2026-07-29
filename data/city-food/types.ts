@@ -32,6 +32,25 @@ export interface CityFoodGuideData {
     sideDescription: string;
   };
   seo: { title: string; description: string };
+  copy: {
+    formatDescription: string;
+    formatIntro: string;
+    districtEyebrow: string;
+    districtTitle: string;
+    districtDescription: string;
+    dishEyebrow: string;
+    dishTitle: string;
+    dishDescription: string;
+    dishIntro: string;
+    dayImage: string;
+    dayImageAlt: string;
+    dayEyebrow: string;
+    dayTitle: string;
+    affiliateEyebrow: string;
+    affiliateTitle: string;
+    affiliateDescription: string;
+    faqTitle: string;
+  };
   formats: Array<{
     title: string;
     label: string;

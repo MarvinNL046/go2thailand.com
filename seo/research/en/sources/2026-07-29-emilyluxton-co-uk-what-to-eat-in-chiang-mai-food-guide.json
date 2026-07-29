@@ -1,0 +1,1397 @@
+{
+  "captured_at": "2026-07-29T05:17:42.621Z",
+  "locale": "en",
+  "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "About Emily",
+          "url": "https://www.emilyluxton.co.uk/about-me/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/about-me/",
+              "anchor_text": "About Emily"
+            }
+          ]
+        },
+        {
+          "text": "About This Blog",
+          "url": "https://www.emilyluxton.co.uk/about/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/about/",
+              "anchor_text": "About This Blog"
+            }
+          ]
+        },
+        {
+          "text": "Contact Me",
+          "url": "https://www.emilyluxton.co.uk/contact-me/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/contact-me/",
+              "anchor_text": "Contact Me"
+            }
+          ]
+        },
+        {
+          "text": "Work with me",
+          "url": "https://www.emilyluxton.co.uk/media-advertising/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/media-advertising/",
+              "anchor_text": "Work with me"
+            }
+          ]
+        },
+        {
+          "text": "Central America",
+          "url": "https://www.emilyluxton.co.uk/central-america-travel/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/central-america-travel/",
+              "anchor_text": "Central America"
+            }
+          ]
+        },
+        {
+          "text": "North America",
+          "url": "https://www.emilyluxton.co.uk/north-america-travel/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/north-america-travel/",
+              "anchor_text": "North America"
+            }
+          ]
+        },
+        {
+          "text": "South America",
+          "url": "https://www.emilyluxton.co.uk/south-america-travel/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/south-america-travel/",
+              "anchor_text": "South America"
+            }
+          ]
+        },
+        {
+          "text": "UK Travel",
+          "url": "https://www.emilyluxton.co.uk/uk-travel/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/uk-travel/",
+              "anchor_text": "UK Travel"
+            }
+          ]
+        },
+        {
+          "text": "Tours and Activities",
+          "url": "https://www.emilyluxton.co.uk/tag/tour-reviews/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/tag/tour-reviews/",
+              "anchor_text": "Tours and Activities"
+            }
+          ]
+        },
+        {
+          "text": "Transport and Travel",
+          "url": "https://www.emilyluxton.co.uk/tag/travel-reviews/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/tag/travel-reviews/",
+              "anchor_text": "Transport and Travel"
+            }
+          ]
+        },
+        {
+          "text": "Packing Tips",
+          "url": "https://www.emilyluxton.co.uk/packing/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/packing/",
+              "anchor_text": "Packing Tips"
+            }
+          ]
+        },
+        {
+          "text": "Travel Gear",
+          "url": "https://www.emilyluxton.co.uk/product-reviews/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/product-reviews/",
+              "anchor_text": "Travel Gear"
+            }
+          ]
+        },
+        {
+          "text": "Travel Fashion and Beauty",
+          "url": "https://www.emilyluxton.co.uk/travel-fashion/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/travel-fashion/",
+              "anchor_text": "Travel Fashion and Beauty"
+            }
+          ]
+        },
+        {
+          "text": "Solo Female Travel",
+          "url": "https://www.emilyluxton.co.uk/solo-female-travel-tips/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/solo-female-travel-tips/",
+              "anchor_text": "Solo Female Travel"
+            }
+          ]
+        },
+        {
+          "text": "Personal Posts",
+          "url": "https://www.emilyluxton.co.uk/personal/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/personal/",
+              "anchor_text": "Personal Posts"
+            }
+          ]
+        },
+        {
+          "text": "About Emily",
+          "url": "https://www.emilyluxton.co.uk/about-me/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/about-me/",
+              "anchor_text": "About Emily"
+            }
+          ]
+        },
+        {
+          "text": "About This Blog",
+          "url": "https://www.emilyluxton.co.uk/about/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/about/",
+              "anchor_text": "About This Blog"
+            }
+          ]
+        },
+        {
+          "text": "Contact Me",
+          "url": "https://www.emilyluxton.co.uk/contact-me/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/contact-me/",
+              "anchor_text": "Contact Me"
+            }
+          ]
+        },
+        {
+          "text": "Work with me",
+          "url": "https://www.emilyluxton.co.uk/media-advertising/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/media-advertising/",
+              "anchor_text": "Work with me"
+            }
+          ]
+        },
+        {
+          "text": "Central America",
+          "url": "https://www.emilyluxton.co.uk/central-america-travel/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/central-america-travel/",
+              "anchor_text": "Central America"
+            }
+          ]
+        },
+        {
+          "text": "North America",
+          "url": "https://www.emilyluxton.co.uk/north-america-travel/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/north-america-travel/",
+              "anchor_text": "North America"
+            }
+          ]
+        },
+        {
+          "text": "South America",
+          "url": "https://www.emilyluxton.co.uk/south-america-travel/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/south-america-travel/",
+              "anchor_text": "South America"
+            }
+          ]
+        },
+        {
+          "text": "UK Travel",
+          "url": "https://www.emilyluxton.co.uk/uk-travel/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/uk-travel/",
+              "anchor_text": "UK Travel"
+            }
+          ]
+        },
+        {
+          "text": "Tours and Activities",
+          "url": "https://www.emilyluxton.co.uk/tag/tour-reviews/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/tag/tour-reviews/",
+              "anchor_text": "Tours and Activities"
+            }
+          ]
+        },
+        {
+          "text": "Transport and Travel",
+          "url": "https://www.emilyluxton.co.uk/tag/travel-reviews/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/tag/travel-reviews/",
+              "anchor_text": "Transport and Travel"
+            }
+          ]
+        },
+        {
+          "text": "Packing Tips",
+          "url": "https://www.emilyluxton.co.uk/packing/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/packing/",
+              "anchor_text": "Packing Tips"
+            }
+          ]
+        },
+        {
+          "text": "Travel Gear",
+          "url": "https://www.emilyluxton.co.uk/product-reviews/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/product-reviews/",
+              "anchor_text": "Travel Gear"
+            }
+          ]
+        },
+        {
+          "text": "Travel Fashion and Beauty",
+          "url": "https://www.emilyluxton.co.uk/travel-fashion/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/travel-fashion/",
+              "anchor_text": "Travel Fashion and Beauty"
+            }
+          ]
+        },
+        {
+          "text": "Solo Female Travel",
+          "url": "https://www.emilyluxton.co.uk/solo-female-travel-tips/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/solo-female-travel-tips/",
+              "anchor_text": "Solo Female Travel"
+            }
+          ]
+        },
+        {
+          "text": "Personal Posts",
+          "url": "https://www.emilyluxton.co.uk/personal/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/personal/",
+              "anchor_text": "Personal Posts"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Contact Me",
+          "url": "https://www.emilyluxton.co.uk/contact-me/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/contact-me/",
+              "anchor_text": "Contact Me"
+            }
+          ]
+        },
+        {
+          "text": "Work With Me",
+          "url": "https://www.emilyluxton.co.uk/media-advertising/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/media-advertising/",
+              "anchor_text": "Work With Me"
+            }
+          ]
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.emilyluxton.co.uk/privacy-policy/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/privacy-policy/",
+              "anchor_text": "Privacy Policy"
+            }
+          ]
+        },
+        {
+          "text": "Contact Me",
+          "url": "https://www.emilyluxton.co.uk/contact-me/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/contact-me/",
+              "anchor_text": "Contact Me"
+            }
+          ]
+        },
+        {
+          "text": "Work With Me",
+          "url": "https://www.emilyluxton.co.uk/media-advertising/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/media-advertising/",
+              "anchor_text": "Work With Me"
+            }
+          ]
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.emilyluxton.co.uk/privacy-policy/",
+          "urls": [
+            {
+              "url": "https://www.emilyluxton.co.uk/privacy-policy/",
+              "anchor_text": "Privacy Policy"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "What to Eat in Chiang Mai Old City",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Some posts on this site contain affiliate links. If you book or buy something through these links, I earn a small commission (at no extra cost to you). Take a look at my privacy policy for more information.",
+            "url": "https://www.emilyluxton.co.uk/privacy-policy/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/privacy-policy/",
+                "anchor_text": "privacy policy"
+              }
+            ]
+          },
+          {
+            "text": "Welcome to my guide to what to eat in Chiang Mai, Thailand – particularly the two markets in the Old City…",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Chiang Mai’s old city is set inside a walled square, with a nightly market at the north and south gates. These are probably two of the best places to find street food in Chiang Mai. Each market is packed out every night, with a vast array of tasty treats.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "There’s so much available, though, that it can be hard to know where to start. So, with the help of some Thai locals, a few blogger pals, and my own research – I put together this list of what to eat in Chiang Mai at the old city.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The must-try market dishes listed below. And at the end of the page, I’ve also included some recommendations for my favourite restaurants and cafés in Chiang Mai. Bon appetite!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "NB – Some of the foods listed below are probably available at both markets. However, I’ve listed them under the markets I tried them at because I know there’s definitely a stall there!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "South East Asia, Thailand",
+            "url": "https://www.emilyluxton.co.uk/asia/se-asia/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/asia/se-asia/",
+                "anchor_text": "South East Asia"
+              },
+              {
+                "url": "https://www.emilyluxton.co.uk/asia/thailand/",
+                "anchor_text": "Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Khao Ko Moo",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Khao Ko Moo"
+              }
+            ]
+          },
+          {
+            "text": "Sticky Rice",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Sticky Rice"
+              }
+            ]
+          },
+          {
+            "text": "Tom Sab",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Tom Sab"
+              }
+            ]
+          },
+          {
+            "text": "Nam Tok Moo",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Nam Tok Moo"
+              }
+            ]
+          },
+          {
+            "text": "Pad pak bung (morning glory)",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Pad pak bung (morning glory)"
+              }
+            ]
+          },
+          {
+            "text": "Mango Sticky Rice",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Mango Sticky Rice"
+              }
+            ]
+          },
+          {
+            "text": "Khanom Bua Loi",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Khanom Bua Loi"
+              }
+            ]
+          },
+          {
+            "text": "For the daring!",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "For the daring!"
+              }
+            ]
+          },
+          {
+            "text": "Pad Thai",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Pad Thai"
+              }
+            ]
+          },
+          {
+            "text": "Chiang Mai Sausage (Sai Ua)",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Chiang Mai Sausage (Sai Ua)"
+              }
+            ]
+          },
+          {
+            "text": "Curry noodles",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Curry noodles"
+              }
+            ]
+          },
+          {
+            "text": "Grilled Eggs",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Grilled Eggs"
+              }
+            ]
+          },
+          {
+            "text": "Hor Mok",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Hor Mok"
+              }
+            ]
+          },
+          {
+            "text": "Khanom Krok",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Khanom Krok"
+              }
+            ]
+          },
+          {
+            "text": "It’s Good Kitchen",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "It’s Good Kitchen"
+              }
+            ]
+          },
+          {
+            "text": "Writer’s Club and Wine Bar",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Writer’s Club and Wine Bar"
+              }
+            ]
+          },
+          {
+            "text": "My Secret Café in Town",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "My Secret Café in Town"
+              }
+            ]
+          },
+          {
+            "text": "Akha Ama La Fattoria",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Akha Ama La Fattoria"
+              }
+            ]
+          },
+          {
+            "text": "Best Chiang Mai Food Tours",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Best Chiang Mai Food Tours"
+              }
+            ]
+          },
+          {
+            "text": "This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+            "url": "https://akismet.com/privacy/",
+            "urls": [
+              {
+                "url": "https://akismet.com/privacy/",
+                "anchor_text": "Learn how your comment data is processed."
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "What to Eat at Chang Puak Market in Chiang Mai",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Just outside the Old City’s northern gate, the Chang Puak Gate, this market is definitely one of the best places to eat street food in Chiang Mai. In fact, it’s easily one of the top things to do in Chiang Mai, full stop! Here are some of the dishes you need to try at Chang Puak Market…",
+            "url": "https://www.kaveyeats.com/2018/02/eight-great-reasons-to-visit-chiang-mai-thailand.html",
+            "urls": [
+              {
+                "url": "https://www.kaveyeats.com/2018/02/eight-great-reasons-to-visit-chiang-mai-thailand.html",
+                "anchor_text": "things to do in Chiang Mai"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Khao Ko Moo",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Pig leg, cooked for 15 – 20 hours in soy sauce, served with rice in a rich, tasty gravy. The most famous stall is Khao Kha Moo Chang Phueak, recommended by the likes of Anthony Bourdain, who put this dish firmly at the top of every “what to eat in Chiang Mai” list!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The stall is easy to find because the owner always wears her iconic cowgirl hat. Her khao ko moo comes served with a perfectly soft boiled egg and a dash of amazing chilli vinegar. It’s worth bearing in mind, though, that the Chiang Mai cowgirl isn’t the be-all and end-all of stewed pork. I also tried a plateful from one of the neighbouring stalls and it was still pretty good, just different!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sticky Rice",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Glutinous rice is soaked for water overnight, then steamed and served up in a neat little sticky ball – usually served in a bamboo pot. Sticky rice is the perfect thing to accompany one of the many soup dishes in Chiang Mai.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Tom Sab",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "A tasty soup made from boiled pork (or fish) with mushrooms and chillies, flavoured with galangal (a local root that looks similar to ginger), lemongrass, and kaffir lime leaves.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Nam Tok Moo",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "An amazing spicy pork dish made with sliced grilled pork, crushed toasted rice, onions and chillies smothered in fish sauce and lime juice. Perfect with sticky rice!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Pad pak bung (morning glory)",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "I discovered the joys of morning glory in Vietnam, where it’s served fried in garlic and butter. In Chiang Mai, they stir fry this green vegetable in oyster sauce with garlic and chillies to make the tasty dish pad pak bung fai daeng. Don’t miss it!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Mango Sticky Rice",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Everyone’s favourite Thai dessert: sticky rice with coconut sauce and deliciously fresh mango. There are plenty of stalls at the Chang Puak Market serving this iconic dessert.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Khanom Bua Loi",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Keep your eyes peeled for a vat of creamy white soup-ish stuff with egg and what looks like bloated peas floating in it. At first glance, it doesn’t look all that appetising, but this warm Thai dessert – made from sweetened coconut milk with balls of green rice flour – is really yummy.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "For the daring!",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Braver foodies might want to give some of Chang Puak Market’s other delicacies a go. There’s crispy fried frog – just keep an eye out for the fat, skinless frogs found on some stalls – which is apparently a speciality.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Or, there are the infamous pink eggs. Pink on the outside, but black inside, these are an Asian delicacy known as preserved eggs (originating in China). Basically, ordinary eggs are preserved for several months in a mixture of clay, ash, salt, quicklime, and rice hulls – until they turn a disgusting looking opaque black colour. According to Vicky Flip Flop, who was brave enough to try one, the taste isn’t too bad but the texture is very offputting.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "What to Eat at the South Gate Market in Chiang Mai",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The South Gate Market, also known as the Chiang Mai Gate Market, is another amazing place to find street food and cheap eats in Chiang Mai. These are the dishes you need to try here…",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Pad Thai",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "There’s an amazing pad thai stall at the South Gate Market, on the other side of the road from the city wall. I had my first dinner in Thailand here and it was great!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Chiang Mai Sausage (Sai Ua)",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "These huge swirled sausages – a little like a Cumberland – are easy to spot grilling on barbecues around the South Gate Market. Do not miss them! Delicious, fat sausages made from minced pork meat flavoured with galanga, lemongrass, and red curry paste, these are a must-try dish in Northern Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Curry noodles",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Another famous face on Chiang Mai’s food scene, the sweet lady running the noodle stall at the South Gate market has been there every day – with the exception of a few sick days – for twenty-five years. She’s even been featured in magazines, and her curry dishes served with noodles are pretty unmissable!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Larb",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Northern Thailand takes a lot of influence from its nearby neighbours of Burma and Laos, so it’s no surprise that larb – a spicy minced meat salad that’s considered the national dish of Laos – is popular in Chiang Mai. There’s a great stall at the South Gate Market, not far from the Tesco Lotus, which serves up some seriously good larb!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Grilled Eggs",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Something you’ll see a lot at street food stalls around Thailand is a stick skewering two or three eggs, in shells, lying on a grill. Wondering why in the world anybody is barbecuing an egg on a stick? You’re not alone!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I asked a local and discovered that this is a heavenly-sounding Thai way of over-complicating the humble hard-boiled egg.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Basically, the inside of the egg is removed keeping the shell intact. It’s seasoned and reinserted into the shell, then steam-cooked before being finished on the grill. Ridiculously tricky sounding but from all accounts delicious. I shall be trying one shortly.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hor Mok",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "I spotted these tasty-looking treats at the Chiang Mai South Gate Market but was too full to try them. After asking on my Facebook Page what they are, I received the following answer (I love the internet): “It’s a kind of curry which [is made] from curry paste, coconut milk, and fish. It’s cooked by steaming. The taste is nice and not spicy.”",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Khanom Krok",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Traditional sweet dumplings made from rice flour and coconut milk, which are filled with a topping such as sweetcorn or pumpkin and cooked in a heated pan a little like a waffle iron. The lady making these at the South Gate Market in Chiang Mai has been working the same stall for twenty years, and it was previously run by her mother before her. A must-try Thai dessert.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Best Restaurants and Cafés in Chiang Mai Old City",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Want some aircon and maybe a chair with a back to go with your food? When you’re done with street food, there are plenty of great restaurants in the Old City. Here are a few of my favourite places to eat in Chiang Mai Old City…",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "It’s Good Kitchen",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "175/6 Ratchadamnoen Road",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "It IS good, so good in fact that I went back to this cute restaurant three times. The green curry soup is amazing, and comes with rice shaped like a teddy bear. This awesome, and friendly, little restaurant right by Wat Phra Singh is very popular so you may have to wait for a table – but it’s worth it. I recommend the green curry fried rice for a fantastic, and cheap, light option.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Writer’s Club and Wine Bar",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "141/6 Thonon Rachadamnoen Alley",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The food is pretty nice – especially the yellow curry – but the best thing about this cosy expat haunt is the decent wine selection, which involves more than the standard Thai choice of “white or red”.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "My Secret Café in Town",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "175/12, Rachadamnoen Road",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "An actual secret, tucked onto a side street behind the busy Walking Street, My Secret Café is a real hidden gem. Here you’ll find amazing cakes, as well as the best iced coffee in Chiang Mai. It comes served in cute glass milk bottles.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Grab yourself a Crownie – cookie dough brownie – or a cake, and while away an hour or two in air-conditioned bliss. There’s a gallery upstairs and a gorgeous, flower-filled garden area outside, plus it’s almost always empty; making this my absolute favourite café in Chiang Mai.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Akha Ama La Fattoria",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Rachadhamnoen Rd",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A socially responsible coffee company which uses only locally grown coffee – from nearby Chiang Rai – which is sustainably farmed by the minority Akha people. The coffee is great, and you can buy the beans as a souvenir. There’s no road number listed on the website, but Akha Ama is listed correctly on Google Maps, and it’s easy to find not far from the entrance of Wat Phra Singh.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Best Chiang Mai Food Tours",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "For a real taste of authentic Thailand, why not head on a food tour or take a cooking class? This is always my favourite way to discover a new culture! Tours and classes are also a great way to travel deeper, and to meet a few fellow travellers too.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I’ve rounded up a few of the top-rated food tours in Chiang Mai from my preferred company, Get Your Guide. I actually booked one myself when I was visiting – so much fun! FYI – If you book any of these, I’ll make a small commission – without affecting the price you pay at all.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Do you have any more great restaurant recommendations, or tips for what to eat in Chiang Mai? Please leave a comment!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Chiang Mai: Evening Local Street Food Market Tour",
+            "url": "https://www.getyourguide.com/chiang-mai-l271/chiang-mai-authentic-thai-cooking-class-and-farm-visit-t187629/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.com/chiang-mai-l271/chiang-mai-authentic-thai-cooking-class-and-farm-visit-t187629/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+                "anchor_text": "Chiang Mai: Evening Local Street Food Market Tour"
+              }
+            ]
+          },
+          {
+            "text": "Lunchtime 20 Dish Food Tasting Tour",
+            "url": "https://www.getyourguide.com/chiang-mai-l271/chiang-mai-lunchtime-20-dish-food-tasting-tour-t177759/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.com/chiang-mai-l271/chiang-mai-lunchtime-20-dish-food-tasting-tour-t177759/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+                "anchor_text": "Lunchtime 20 Dish Food Tasting Tour"
+              }
+            ]
+          },
+          {
+            "text": "2-Hour Araksa Tea Plantation Tour and Tea Tasting",
+            "url": "https://www.getyourguide.com/chiang-mai-l271/2-hour-araksa-tea-plantation-tour-and-afternoon-tea-t63785/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.com/chiang-mai-l271/2-hour-araksa-tea-plantation-tour-and-afternoon-tea-t63785/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+                "anchor_text": "2-Hour Araksa Tea Plantation Tour and Tea Tasting"
+              }
+            ]
+          },
+          {
+            "text": "Authentic Thai Cooking Class and Farm Visit",
+            "url": "https://www.getyourguide.com/chiang-mai-l271/chiang-mai-authentic-thai-cooking-class-and-farm-visit-t187629/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.com/chiang-mai-l271/chiang-mai-authentic-thai-cooking-class-and-farm-visit-t187629/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+                "anchor_text": "Authentic Thai Cooking Class and Farm Visit"
+              }
+            ]
+          },
+          {
+            "text": "Half-Day Thai Cooking Class & Local Market Tour",
+            "url": "https://www.getyourguide.com/chiang-mai-l271/chiang-mai-half-day-thai-cooking-class-local-market-tour-t249437/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.com/chiang-mai-l271/chiang-mai-half-day-thai-cooking-class-local-market-tour-t249437/?partner_id=9Z9EEZS&utm_medium=online_publisher&utm_source=hello%40emilyluxton.co.uk&placement=content-middle",
+                "anchor_text": "Half-Day Thai Cooking Class & Local Market Tour"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "10 thoughts on “What to Eat in Chiang Mai Old City”",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Funnily enough I was talking about possibly visiting Chiang Mai with someone this morning – think I will avoid the crispy fried frog and stick to the larb!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ah you should, it’s a really cool city! I’m actually considering going back there for a month or so at some point as there are loads of great cafes to work in and the rent is seriously cheap – seems like the perfect place to catch up on blogging!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This list could have kept growing and growing as we ate our way around Chiang Mai. Whether you try some of the places listed above or discover many of the street food vendors, cafes and restaurants yourself, we are sure you won t be disappointed Thai food always looks fresh, nutritious and healthy. I loved my pad thai dishes and sticky rice served with mango. Chang Mai has even more to offer in terms of food than Bangkok. What was your favourite dish?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Definitely the pork from the lady in the cowgirl hat. That was an amazing dish!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I think I may head out to a Thai restaurant for dinner tonight! Excellent photos :)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Haha thank you! Thai food is one of my favourites in the world!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "What about the famous and fabulous khao soi? Beautiful rich chicken or beef curry, served with soft noodles, and crispy noodles on top – my favourite thai dish by far!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ooh great tip, thanks! Do you know where in Chiang Mai you can get it?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A CM local stumbled upon your question.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You can find Khaosoi (ข้าวซอย) everywher in CM. Most Thai tourists siad Khaosoi Fah Harm are the bests (Fah Harm is the name of the area, but, beleive me or not, none of locals I’ve met said they are delicious. We all agree that it’s too sweet. Bangkok and central thai preference)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "My recommendation would be Khaosoi Islam at night Barzar or khaosoi Khun Yai (Gandma Khaosoi) https://pantip.com/topic/30880766. There are more of them I would recommend. There’s only one problem:most of delicious CM food shops (not just for Khaosoi) are not on any tour guide map. It would be best if you have some local as a friend. Not just Thai but those who born and live/study here for decades. They know where to eat.",
+            "url": "https://pantip.com/topic/30880766",
+            "urls": [
+              {
+                "url": "https://pantip.com/topic/30880766",
+                "anchor_text": "https://pantip.com/topic/30880766"
+              }
+            ]
+          },
+          {
+            "text": "CM, and TH, like every places. We have both good and bad things, also good and bad people. hope you see the first ones wherever you go.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Be our guest again anytime.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "PS. FYI. Pink egg is not originated in TH. It’s from chinese cuisine. You can find them in the West. It’s called century egg.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Also not Tom Sam but Tom Sab.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hi Ink, thanks so much for such an awesome and detailed comment – so helpful!!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "I was lucky enough to have a food tour guiding me through the markets, but I also explored on my own. Hopefully I managed to list at least a few of the best things to eat :) I’d recommend others to ask locals, always, even if it’s just the staff at their hotel.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Also thanks for spotting my typo :)",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Related Posts",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "12 of the Best Things to do in Phrae, Thailand",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "12 of the Best Things to do in Phrae, Thailand",
+            "url": "https://www.emilyluxton.co.uk/best-things-to-do-in-phrae-thailand/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/best-things-to-do-in-phrae-thailand/",
+                "anchor_text": "12 of the Best Things to do in Phrae, Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "17 of the Best Things to Do in Nan Province Thailand",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "17 of the Best Things to Do in Nan Province Thailand",
+            "url": "https://www.emilyluxton.co.uk/things-to-do-in-nan-province-thailand/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/things-to-do-in-nan-province-thailand/",
+                "anchor_text": "17 of the Best Things to Do in Nan Province Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Everything You Need to Know About Visiting Nan Province Thailand",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Everything You Need to Know About Visiting Nan Province Thailand",
+            "url": "https://www.emilyluxton.co.uk/visiting-nan-province-thailand-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/visiting-nan-province-thailand-guide/",
+                "anchor_text": "Everything You Need to Know About Visiting Nan Province Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Leave a Reply",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Your email address will not be published. Required fields are marked *",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Name *",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Email *",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Comment *",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Leave a Reply",
+            "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/what-to-eat-in-chiang-mai-food-guide/",
+                "anchor_text": "Cancel reply"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Meet Emily",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Hi, I’m Emily, a travel blogger & writer championing solo female travel! Lover of fun, adventure, food, Harry Potter, hiking, beaches, and chatting about the weather.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This blog is all about helping other solo female travellers (especially those in their 30s and over) plan their trips. Expect adventure, road trips, train rides, theme parks, food guides, travel stories, hiking, beaches, and - hopefully - plenty of fun!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Disclaimer",
+        "main_title": "What to Eat in Chiang Mai Old City",
+        "author": "https://www.facebook.com/EmilyLuxtonTravelBlog/",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "This site contains affiliate links for my trusted partners. As an Amazon Associate, I earn from qualifying purchases. Read more.",
+            "url": "https://www.emilyluxton.co.uk/disclaimer/",
+            "urls": [
+              {
+                "url": "https://www.emilyluxton.co.uk/disclaimer/",
+                "anchor_text": "Read more"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "?subject=What%20to%20Eat%20in%20Chiang%20Mai%20Old%20City&#038;body=https%3A%2F%2Fwww.emilyluxton.co.uk%2Fwhat-to-eat-in-chiang-mai-food-guide%2F"
+      ]
+    }
+  }
+}

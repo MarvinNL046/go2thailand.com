@@ -139,13 +139,13 @@ export function CityFoodGuideTemplate({ data }: { data: CityFoodGuideData }) {
           )}
         />
 
-        <PageSectionNav label="On this Bangkok food page" items={navItems} />
+        <PageSectionNav label={`On this ${data.city} food page`} items={navItems} />
 
         <section id="format" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20">
           <div className="container-custom">
             <div className="grid gap-8 lg:grid-cols-[0.72fr_1.28fr] lg:items-end">
-              <SectionHeading eyebrow="First decision" title="What kind of meal solves this moment?" description="Bangkok ranges from one-dish stalls to destination restaurants. Choose the format before the address." />
-              <p className="max-w-[700px] text-sm font-medium leading-7 text-charcoal/68">A long restaurant list assumes every traveller wants the same evening. This hub starts with comfort, group needs, time and context, then sends specialist market and restaurant questions to their own pages.</p>
+              <SectionHeading eyebrow="First decision" title="What kind of meal solves this moment?" description={data.copy.formatDescription} />
+              <p className="max-w-[700px] text-sm font-medium leading-7 text-charcoal/68">{data.copy.formatIntro}</p>
             </div>
             <div className="mt-9 grid gap-4 md:grid-cols-2 xl:grid-cols-4">
               {data.formats.map(({ title, label, fit, tradeoff, icon }, index) => {
@@ -167,7 +167,7 @@ export function CityFoodGuideTemplate({ data }: { data: CityFoodGuideData }) {
 
         <section id="districts" className="section-divider-bottom scroll-mt-24 bg-tonal py-14 lg:py-20">
           <div className="container-custom">
-            <SectionHeading eyebrow="A city-sized food compass" title="Four districts, four different answers" description="Bangkok’s scale is the real planning problem. Keep each food route inside one useful area and connect it to the rest of the day." />
+            <SectionHeading eyebrow={data.copy.districtEyebrow} title={data.copy.districtTitle} description={data.copy.districtDescription} />
             <div className="mt-9 grid gap-5 lg:grid-cols-2">
               {data.districts.map((district, index) => {
                 const content = (
@@ -200,8 +200,8 @@ export function CityFoodGuideTemplate({ data }: { data: CityFoodGuideData }) {
         <section id="dishes" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20">
           <div className="container-custom">
             <div className="grid gap-8 lg:grid-cols-[0.72fr_1.28fr] lg:items-end">
-              <SectionHeading eyebrow="What to eat in Bangkok" title="Six dishes, six useful formats" description="These are starting points, not a compulsory ranking. Each card leads to the owner that explains the dish in depth." />
-              <p className="max-w-[690px] text-sm font-medium leading-7 text-charcoal/68">Bangkok absorbs food from across Thailand, so “local” does not mean only dishes invented inside the city. The better question is what the dish teaches you about a stall, bowl, pan or shared table.</p>
+              <SectionHeading eyebrow={data.copy.dishEyebrow} title={data.copy.dishTitle} description={data.copy.dishDescription} />
+              <p className="max-w-[690px] text-sm font-medium leading-7 text-charcoal/68">{data.copy.dishIntro}</p>
             </div>
             <div className="mt-9 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
               {data.dishes.map((dish) => (
@@ -224,9 +224,9 @@ export function CityFoodGuideTemplate({ data }: { data: CityFoodGuideData }) {
           <div className="container-custom overflow-hidden rounded-[1.5rem] border border-jade/10 bg-white shadow-editorial-lift">
             <div className="grid lg:grid-cols-[0.88fr_1.12fr]">
               <div className="relative min-h-[350px] lg:min-h-full">
-                <Image src="/images/redesign/thailand-food-street-banner.webp" alt="A relaxed Bangkok food route from daylight into the evening" fill sizes="(max-width: 1024px) 100vw, 44vw" className="object-cover" />
+                <Image src={data.copy.dayImage} alt={data.copy.dayImageAlt} fill sizes="(max-width: 1024px) 100vw, 44vw" className="object-cover" />
                 <div className="absolute inset-0 bg-gradient-to-t from-jade/85 via-jade/20 to-transparent" />
-                <div className="absolute bottom-8 left-8 right-8 text-white"><p className="eyebrow !text-saffron-light">One day, enough appetite</p><h2 className="max-w-lg font-display text-[3rem] font-semibold leading-[0.88]">Plan the pauses as carefully as the plates.</h2></div>
+                <div className="absolute bottom-8 left-8 right-8 text-white"><p className="eyebrow !text-saffron-light">{data.copy.dayEyebrow}</p><h2 className="max-w-lg font-display text-[3rem] font-semibold leading-[0.88]">{data.copy.dayTitle}</h2></div>
               </div>
               <div className="p-7 sm:p-10 lg:p-12">
                 {data.dayPlan.map(({ time, title, description, icon }, index) => {
@@ -260,11 +260,11 @@ export function CityFoodGuideTemplate({ data }: { data: CityFoodGuideData }) {
 
         <section className="section-divider-bottom bg-tonal py-14 lg:py-20">
           <div className="container-custom grid gap-10 lg:grid-cols-[0.72fr_1.28fr]">
-            <SectionHeading eyebrow="Two different next steps" title="Taste it there—or learn it at home" description="A guided route and kitchen products solve different needs. Every CTA opens a live provider so the current offer, price and availability remain theirs to confirm." />
+            <SectionHeading eyebrow={data.copy.affiliateEyebrow} title={data.copy.affiliateTitle} description={data.copy.affiliateDescription} />
             <div className="grid gap-4 md:grid-cols-3">
               <article className="rounded-2xl border border-saffron/30 bg-jade p-6 text-white shadow-editorial-lift">
                 <MapPin size={23} aria-hidden="true" className="text-saffron-light" />
-                <p className="mt-6 text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Experience Bangkok</p>
+                <p className="mt-6 text-[9px] font-extrabold uppercase tracking-[0.15em] text-saffron-light">Experience {data.city}</p>
                 <h2 className="mt-2 font-display text-[1.75rem] font-semibold leading-none">Guided food route</h2>
                 <p className="mt-4 text-xs font-medium leading-6 text-white/66">Compare the exact district, tastings, group size, meeting point, walking distance and dietary handling.</p>
                 <a href={foodTourHref} target="_blank" rel="noopener noreferrer nofollow sponsored" className="mt-5 inline-flex items-center gap-2 text-xs font-extrabold text-saffron-light">Check current Klook options <ExternalLink size={13} aria-hidden="true" /></a>
@@ -295,7 +295,7 @@ export function CityFoodGuideTemplate({ data }: { data: CityFoodGuideData }) {
           </div>
         </section>
 
-        <FaqSplitSection id="questions" eyebrow="Real search questions" title="Bangkok food questions, answered" description="These questions were captured verbatim from current UK-English Google People Also Ask results. Answers preserve the boundary between broad food, restaurant and market intent." items={data.faqs} />
+        <FaqSplitSection id="questions" eyebrow="Real search questions" title={data.copy.faqTitle} description="These questions were captured verbatim from current UK-English Google People Also Ask results. Answers preserve the boundary between broad food, restaurant and market intent." items={data.faqs} />
 
         <SourceMethodSection eyebrow="Sources & method" title="Research before recommendation" description={data.researchSummary} sources={data.sources} />
 

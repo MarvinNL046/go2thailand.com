@@ -10,7 +10,7 @@ import CitySupportSources, { type ContentSource } from '../../../components/City
 import { CityFoodGuideTemplate } from '../../../components/city/CityFoodGuideTemplate';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
-import { bangkokCityFoodEn } from '../../../data/city-food/en/bangkok';
+import { getEnCityFoodGuide } from '../../../data/city-food/en';
 import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 
 function flattenBilingual(data: unknown): unknown {
@@ -107,8 +107,9 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
 
   const cityName = city.name[lang] || city.name.en;
 
-  if (lang === 'en' && city.slug === 'bangkok') {
-    return <CityFoodGuideTemplate data={bangkokCityFoodEn} />;
+  const cityFoodGuide = lang === 'en' ? getEnCityFoodGuide(city.slug) : undefined;
+  if (cityFoodGuide) {
+    return <CityFoodGuideTemplate data={cityFoodGuide} />;
   }
 
   const breadcrumbs = generateBreadcrumbs(city, 'food');

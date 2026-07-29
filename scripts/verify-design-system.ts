@@ -116,15 +116,21 @@ if (!read('lib/blog.js').includes("'thai-street-food-guide-2026': '/thailand-str
 
 const cityFoodTemplate = read('components/city/CityFoodGuideTemplate.tsx');
 const bangkokCityFoodEn = read('data/city-food/en/bangkok.ts');
+const chiangMaiCityFoodEn = read('data/city-food/en/chiang-mai.ts');
+const cityFoodRegistryEn = read('data/city-food/en/index.ts');
 const cityFoodRoute = read('pages/city/[slug]/food.tsx');
 for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="city-food-guide-en"']) {
   if (!cityFoodTemplate.includes(proof)) failures.push(`City-food template lacks premium proof: ${proof}`);
 }
 for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practicalChecks:', 'phrases:', 'faqs:', 'sources:', 'simple-thai-food-cookbook', 'thai-granite-mortar-eight-inch']) {
   if (!bangkokCityFoodEn.includes(proof)) failures.push(`Bangkok city-food owner lacks content proof: ${proof}`);
+  if (!chiangMaiCityFoodEn.includes(proof)) failures.push(`Chiang Mai city-food owner lacks content proof: ${proof}`);
 }
-for (const proof of ['CityFoodGuideTemplate', 'bangkokCityFoodEn', "lang === 'en' && city.slug === 'bangkok'"]) {
-  if (!cityFoodRoute.includes(proof)) failures.push(`City-food route lacks Bangkok owner wiring: ${proof}`);
+for (const proof of ['bangkokCityFoodEn', 'chiangMaiCityFoodEn', "'chiang-mai': chiangMaiCityFoodEn", 'getEnCityFoodGuide']) {
+  if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks owner proof: ${proof}`);
+}
+for (const proof of ['CityFoodGuideTemplate', 'getEnCityFoodGuide', 'cityFoodGuide']) {
+  if (!cityFoodRoute.includes(proof)) failures.push(`City-food route lacks registry wiring: ${proof}`);
 }
 for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {
   if (!sitemap.includes('/thailand-street-food/')) failures.push('Street-food owner is missing from a locale sitemap');
