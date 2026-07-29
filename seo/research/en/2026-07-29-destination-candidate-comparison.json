@@ -1,0 +1,222 @@
+{
+  "captured_at": "2026-07-29T01:43:41.153Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "cost": 0.01452,
+  "requested_keywords": [
+    "ayutthaya weather",
+    "bangkok weather",
+    "best time to visit ayutthaya",
+    "best time to visit bangkok",
+    "best time to visit bueng kan",
+    "best time to visit chanthaburi",
+    "best time to visit chiang khan",
+    "best time to visit chiang mai",
+    "best time to visit chiang rai",
+    "best time to visit chumphon",
+    "best time to visit hat yai",
+    "best time to visit hua hin",
+    "best time to visit kanchanaburi",
+    "best time to visit khao sok",
+    "best time to visit khon kaen",
+    "best time to visit krabi",
+    "best time to visit lampang",
+    "best time to visit lopburi",
+    "best time to visit mae hong son",
+    "best time to visit mukdahan",
+    "best time to visit nakhon phanom",
+    "best time to visit nakhon ratchasima",
+    "best time to visit nakhon si thammarat",
+    "best time to visit nong khai",
+    "best time to visit pai",
+    "best time to visit pattaya",
+    "best time to visit phitsanulok",
+    "best time to visit rayong",
+    "best time to visit sukhothai",
+    "best time to visit surat thani",
+    "best time to visit trang",
+    "best time to visit trat",
+    "best time to visit ubon ratchathani",
+    "best time to visit udon thani",
+    "chiang mai weather",
+    "chiang rai weather",
+    "hat yai weather",
+    "krabi weather",
+    "pattaya weather",
+    "sukhothai weather",
+    "surat thani weather"
+  ],
+  "rows": [
+    {
+      "keyword": "bangkok weather",
+      "volume": 12100,
+      "difficulty": 1,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.5
+    },
+    {
+      "keyword": "pattaya weather",
+      "volume": 5400,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "krabi weather",
+      "volume": 4400,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.32
+    },
+    {
+      "keyword": "chiang mai weather",
+      "volume": 2900,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.42
+    },
+    {
+      "keyword": "best time to visit bangkok",
+      "volume": 880,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 1.3
+    },
+    {
+      "keyword": "best time to visit chiang mai",
+      "volume": 390,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.24
+    },
+    {
+      "keyword": "best time to visit krabi",
+      "volume": 320,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 2.09
+    },
+    {
+      "keyword": "chiang rai weather",
+      "volume": 260,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "best time to visit pattaya",
+      "volume": 110,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 0.2
+    },
+    {
+      "keyword": "best time to visit hua hin",
+      "volume": 70,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 6.31
+    },
+    {
+      "keyword": "hat yai weather",
+      "volume": 70,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "surat thani weather",
+      "volume": 70,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "ayutthaya weather",
+      "volume": 40,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "sukhothai weather",
+      "volume": 40,
+      "difficulty": 47,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "best time to visit ayutthaya",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "",
+      "cpc": null
+    },
+    {
+      "keyword": "best time to visit chiang rai",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "best time to visit hat yai",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "best time to visit kanchanaburi",
+      "volume": 10,
+      "difficulty": 39,
+      "intent": "informational",
+      "competition": "",
+      "cpc": null
+    },
+    {
+      "keyword": "best time to visit mae hong son",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "best time to visit surat thani",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "",
+      "cpc": null
+    },
+    {
+      "keyword": "best time to visit udon thani",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    }
+  ]
+}
