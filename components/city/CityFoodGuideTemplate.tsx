@@ -205,7 +205,7 @@ export function CityFoodGuideTemplate({ data }: { data: CityFoodGuideData }) {
             </div>
             <div className="mt-9 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
               {data.dishes.map((dish) => (
-                <Link key={dish.href} href={dish.href} className="group overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-editorial-card">
+                <Link key={`${dish.href}-${dish.title}`} href={dish.href} className="group overflow-hidden rounded-2xl border border-jade/10 bg-white shadow-editorial-card">
                   <div className="relative h-52 overflow-hidden"><Image src={dish.image} alt={dish.imageAlt} fill sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 33vw" className="object-cover transition duration-500 group-hover:scale-[1.035]" /></div>
                   <div className="p-6">
                     {dish.thai ? <p className="text-[9px] font-extrabold uppercase tracking-[0.14em] text-saffron-dark">{dish.thai}</p> : null}
