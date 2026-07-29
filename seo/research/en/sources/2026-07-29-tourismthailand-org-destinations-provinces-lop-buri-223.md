@@ -37,4 +37,3 @@ Recreational & Entertainment
 Please try other type
 
 Plenty of places is waiting for your visit!
-

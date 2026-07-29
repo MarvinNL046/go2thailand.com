@@ -37,4 +37,3 @@ Pae Ban Rim Nam : Petracha Rd (just south of Wat Choeng Tha on the river); open 
 Talad Tha Pho : Northern end of Tha Khun Nang Rd; open morning to afternoon.
 
 Top of page
-
