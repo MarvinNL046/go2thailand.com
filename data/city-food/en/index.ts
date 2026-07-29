@@ -22,6 +22,7 @@ import { pattayaCityFoodEn } from './pattaya';
 import { phuketCityFoodEn } from './phuket';
 import { sukhothaiCityFoodEn } from './sukhothai';
 import { suratThaniCityFoodEn } from './surat-thani';
+import { udonThaniCityFoodEn } from './udon-thani';
 
 const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   ayutthaya: ayutthayaCityFoodEn,
@@ -47,6 +48,7 @@ const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   phuket: phuketCityFoodEn,
   sukhothai: sukhothaiCityFoodEn,
   'surat-thani': suratThaniCityFoodEn,
+  'udon-thani': udonThaniCityFoodEn,
 };
 
 export function getEnCityFoodGuide(slug: string): CityFoodGuideData | undefined {
