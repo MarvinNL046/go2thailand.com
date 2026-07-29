@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T07:37:18.084Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "hat yai food guide",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "hat yai food guide"
+  ],
+  "keywords": [
+    {
+      "keyword": "hat yai food guide",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T07:37:19.064Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "what to eat in hat yai",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "what to eat in hat yai"
+  ],
+  "keywords": [
+    {
+      "keyword": "what to eat in hat yai",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

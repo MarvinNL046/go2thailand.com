@@ -3,6 +3,7 @@ import { ayutthayaCityFoodEn } from './ayutthaya';
 import { bangkokCityFoodEn } from './bangkok';
 import { chiangRaiCityFoodEn } from './chiang-rai';
 import { chiangMaiCityFoodEn } from './chiang-mai';
+import { hatYaiCityFoodEn } from './hat-yai';
 import { krabiCityFoodEn } from './krabi';
 import { pattayaCityFoodEn } from './pattaya';
 import { phuketCityFoodEn } from './phuket';
@@ -12,6 +13,7 @@ const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   bangkok: bangkokCityFoodEn,
   'chiang-rai': chiangRaiCityFoodEn,
   'chiang-mai': chiangMaiCityFoodEn,
+  'hat-yai': hatYaiCityFoodEn,
   krabi: krabiCityFoodEn,
   pattaya: pattayaCityFoodEn,
   phuket: phuketCityFoodEn,
