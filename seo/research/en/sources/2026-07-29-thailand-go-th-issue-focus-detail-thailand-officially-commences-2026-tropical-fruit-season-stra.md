@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.thailand.go.th/issue-focus-detail/thailand-officially-commences-2026-tropical-fruit-season-strategic-integration-of-gastronomy-soft-power-to-accelerate-grassroots-economic-growth
 
-**Captured:** 2026-07-29T17:04:05.899Z
+**Captured:** 2026-07-29T17:56:25.486Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
