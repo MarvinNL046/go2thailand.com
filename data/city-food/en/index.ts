@@ -4,6 +4,7 @@ import { bangkokCityFoodEn } from './bangkok';
 import { buengKanCityFoodEn } from './bueng-kan';
 import { chanthaburiCityFoodEn } from './chanthaburi';
 import { chiangKhanCityFoodEn } from './chiang-khan';
+import { chumphonCityFoodEn } from './chumphon';
 import { chiangRaiCityFoodEn } from './chiang-rai';
 import { chiangMaiCityFoodEn } from './chiang-mai';
 import { hatYaiCityFoodEn } from './hat-yai';
@@ -21,6 +22,7 @@ const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   'bueng-kan': buengKanCityFoodEn,
   chanthaburi: chanthaburiCityFoodEn,
   'chiang-khan': chiangKhanCityFoodEn,
+  chumphon: chumphonCityFoodEn,
   'chiang-rai': chiangRaiCityFoodEn,
   'chiang-mai': chiangMaiCityFoodEn,
   'hat-yai': hatYaiCityFoodEn,
