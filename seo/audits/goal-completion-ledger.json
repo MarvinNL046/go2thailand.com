@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T18:22:35.087Z",
+  "generatedAt": "2026-07-29T18:44:55.411Z",
   "objectiveState": "in-progress",
   "completionRule": "The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -32,15 +32,15 @@
       "premium": 1562,
       "hybrid": 1,
       "noSignature": 0,
-      "exactOwners": 156,
+      "exactOwners": 157,
       "duplicateExactOwnerRoutes": [],
-      "contextualAmazonRoutes": 111,
-      "amazonLinks": 229,
+      "contextualAmazonRoutes": 112,
+      "amazonLinks": 231,
       "provisionalInventoryDecisions": 1563,
       "designReport": "seo/audits/runtime/design-coverage-en-2026-07-29.json",
-      "sitewideReport": "seo/audits/runtime/en-rayong-food-final-2026-07-29.json",
+      "sitewideReport": "seo/audits/runtime/en-nakhon-phanom-food-final-2026-07-29.json",
       "sitewide": {
-        "generatedAt": "2026-07-29T18:13:55.839Z",
+        "generatedAt": "2026-07-29T18:44:33.399Z",
         "routeCount": 1563,
         "passedRoutes": 1563,
         "failedRoutes": 0,
@@ -56,9 +56,8 @@
     "en-city-food": {
       "definition": "Every English sitemap city-food route requires an exact owner before this active family is closed.",
       "expected": 34,
-      "complete": 32,
+      "complete": 33,
       "remaining": [
-        "/city/nakhon-phanom/food/",
         "/city/mukdahan/food/"
       ],
       "closed": false
@@ -14019,9 +14018,9 @@
       "decisionStatus": "provisional",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "exactOwner": true,
+      "amazonLinks": 2,
+      "proofState": "exact-owner"
     },
     {
       "locale": "en",

@@ -19,6 +19,7 @@ import { lopburiCityFoodEn } from './lopburi';
 import { maeHongSonCityFoodEn } from './mae-hong-son';
 import { nakhonRatchasimaCityFoodEn } from './nakhon-ratchasima';
 import { nakhonSiThammaratCityFoodEn } from './nakhon-si-thammarat';
+import { nakhonPhanomCityFoodEn } from './nakhon-phanom';
 import { nongKhaiCityFoodEn } from './nong-khai';
 import { paiCityFoodEn } from './pai';
 import { pattayaCityFoodEn } from './pattaya';
@@ -53,6 +54,7 @@ const cityFoodGuidesEn: Record<string, CityFoodGuideData> = {
   'mae-hong-son': maeHongSonCityFoodEn,
   'nakhon-ratchasima': nakhonRatchasimaCityFoodEn,
   'nakhon-si-thammarat': nakhonSiThammaratCityFoodEn,
+  'nakhon-phanom': nakhonPhanomCityFoodEn,
   'nong-khai': nongKhaiCityFoodEn,
   pai: paiCityFoodEn,
   pattaya: pattayaCityFoodEn,

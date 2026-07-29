@@ -135,6 +135,7 @@ const lopburiCityFoodEn = read('data/city-food/en/lopburi.ts');
 const maeHongSonCityFoodEn = read('data/city-food/en/mae-hong-son.ts');
 const nakhonRatchasimaCityFoodEn = read('data/city-food/en/nakhon-ratchasima.ts');
 const nakhonSiThammaratCityFoodEn = read('data/city-food/en/nakhon-si-thammarat.ts');
+const nakhonPhanomCityFoodEn = read('data/city-food/en/nakhon-phanom.ts');
 const paiCityFoodEn = read('data/city-food/en/pai.ts');
 const pattayaCityFoodEn = read('data/city-food/en/pattaya.ts');
 const phitsanulokCityFoodEn = read('data/city-food/en/phitsanulok.ts');
@@ -173,6 +174,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!maeHongSonCityFoodEn.includes(proof)) failures.push(`Mae Hong Son city-food owner lacks content proof: ${proof}`);
   if (!nakhonRatchasimaCityFoodEn.includes(proof)) failures.push(`Nakhon Ratchasima city-food owner lacks content proof: ${proof}`);
   if (!nakhonSiThammaratCityFoodEn.includes(proof)) failures.push(`Nakhon Si Thammarat city-food owner lacks content proof: ${proof}`);
+  if (!nakhonPhanomCityFoodEn.includes(proof)) failures.push(`Nakhon Phanom city-food owner lacks content proof: ${proof}`);
   if (!paiCityFoodEn.includes(proof)) failures.push(`Pai city-food owner lacks content proof: ${proof}`);
   if (!pattayaCityFoodEn.includes(proof)) failures.push(`Pattaya city-food owner lacks content proof: ${proof}`);
   if (!phitsanulokCityFoodEn.includes(proof)) failures.push(`Phitsanulok city-food owner lacks content proof: ${proof}`);
@@ -200,6 +202,13 @@ for (const proof of ['udonThaniCityFoodEn', "'udon-thani': udonThaniCityFoodEn"]
 }
 for (const proof of ['nakhonRatchasimaCityFoodEn', "'nakhon-ratchasima': nakhonRatchasimaCityFoodEn"]) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Nakhon Ratchasima owner proof: ${proof}`);
+}
+for (const proof of ['nakhonPhanomCityFoodEn', "'nakhon-phanom': nakhonPhanomCityFoodEn"]) {
+  if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Nakhon Phanom owner proof: ${proof}`);
+}
+for (const asset of ['nakhon-phanom-food-mekong-breakfast.webp', 'nakhon-phanom-food.webp', 'nakhon-phanom-clock-tower.webp', 'nakhon-phanom-route-banner.webp']) {
+  if (!nakhonPhanomCityFoodEn.includes(asset)) failures.push(`Nakhon Phanom city-food owner does not use ${asset}`);
+  read(`public/images/redesign/${asset}`);
 }
 for (const proof of ['ubonRatchathaniCityFoodEn', "'ubon-ratchathani': ubonRatchathaniCityFoodEn"]) {
   if (!cityFoodRegistryEn.includes(proof)) failures.push(`English city-food registry lacks Ubon Ratchathani owner proof: ${proof}`);
