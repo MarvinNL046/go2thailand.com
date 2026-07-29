@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-29T19:14:01.431Z
+**Generated:** 2026-07-29T19:16:05.024Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 703 | 703 | 702 | 1 | 109 | unknown | unknown | 556 |
+| NL | 703 | 703 | 702 | 1 | 109 | unknown | unknown | 527 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -232,12 +232,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:attraction-detail
 
-- Family accepted: **0/2**
+- Family accepted: **2/2**
 - Exact owners registered: **2/2**
-- Closed: **no**
-- Remaining routes: **2**
-- Sample: `/nl/city/chiang-rai/attractions/blue-temple/`, `/nl/city/koh-samui/attractions/wat-plai-laem/`
-- Evidence: not signed off
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-attraction-detail-family-2026-07-26.md`
 
 ### nl:commercial-landing
 
@@ -246,15 +246,6 @@ This file is generated from the route inventory, locale keyword-owner registers,
 - Closed: **no**
 - Remaining routes: **53** (first 12 shown)
 - Sample: `/nl/activities/`, `/nl/flights-to-phuket/`, `/nl/flights-to-bangkok/`, `/nl/flights-to-chiang-mai/`, `/nl/car-rental-phuket/`, `/nl/yacht-charter-phuket/`, `/nl/catamaran-phuket/`, `/nl/yacht-rental-phuket/`, `/nl/phuket-wedding-venues/`, `/nl/phuket-honeymoon/`, `/nl/phuket-luxury-villas/`, `/nl/private-pool-villa-phuket/`
-- Evidence: not signed off
-
-### nl:comparison
-
-- Family accepted: **0/1**
-- Exact owners registered: **1/1**
-- Closed: **no**
-- Remaining routes: **1**
-- Sample: `/nl/compare/phuket-vs-krabi/`
 - Evidence: not signed off
 
 ### nl:destination-guide
@@ -304,12 +295,21 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:editorial
 
-- Family accepted: **0/254**
-- Exact owners registered: **12/254**
+- Family accepted: **0/253**
+- Exact owners registered: **11/253**
 - Closed: **no**
-- Remaining routes: **254** (first 12 shown)
+- Remaining routes: **253** (first 12 shown)
 - Sample: `/nl/blog/`, `/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/`, `/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/`, `/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/`, `/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/`, `/nl/blog/beste-tijd-thailand-bezoeken-per-regio/`, `/nl/blog/phuket-airport/`, `/nl/blog/phuket-weer/`, `/nl/blog/bangkok-travel-tips-reddit/`, `/nl/blog/where-to-stay-phuket-beaches-areas-budget/`, `/nl/blog/songkran-2026-survival-guide-what-to-know/`, `/nl/blog/where-to-stay-chiang-mai-neighborhoods/`
 - Evidence: not signed off
+
+### nl:final-owner-batch
+
+- Family accepted: **3/3**
+- Exact owners registered: **3/3**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-final-owners-2026-07-26.md`
 
 ### nl:food-drink
 
@@ -331,30 +331,48 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:hotel-detail
 
-- Family accepted: **0/4**
+- Family accepted: **4/4**
 - Exact owners registered: **4/4**
-- Closed: **no**
-- Remaining routes: **4**
-- Sample: `/nl/hotel/centara-grand-beach-resort-villas-krabi/`, `/nl/hotel/mandarin-oriental-bangkok/`, `/nl/hotel/oasis-koh-chang/`, `/nl/hotel/tonsai-bay-resort/`
-- Evidence: not signed off
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-hotel-detail-family-2026-07-26.md`
 
 ### nl:hotel-guide
 
-- Family accepted: **0/82**
-- Exact owners registered: **7/82**
+- Family accepted: **0/75**
+- Exact owners registered: **0/75**
 - Closed: **no**
-- Remaining routes: **82** (first 12 shown)
+- Remaining routes: **75** (first 12 shown)
 - Sample: `/nl/where-to-stay/`, `/nl/phuket/nai-harn/hotels/`, `/nl/phuket/karon/hotels/`, `/nl/phuket/patong/hotels/`, `/nl/phuket/kata/hotels/`, `/nl/phuket/kamala/hotels/`, `/nl/phuket/bang-tao/hotels/`, `/nl/phuket/patong/hotels/grand-mercure-phuket-patong/`, `/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/`, `/nl/phuket/patong/hotels/hotel-indigo-phuket-patong/`, `/nl/phuket/patong/hotels/hotel-clover-patong-phuket/`, `/nl/phuket/patong/hotels/movenpick-myth-hotel-patong-phuket/`
 - Evidence: not signed off
 
+### nl:hotel-guide:accepted-seven
+
+- Family accepted: **7/7**
+- Exact owners registered: **7/7**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-hotel-overview-family-2026-07-26.md`
+
 ### nl:island
 
-- Family accepted: **0/14**
-- Exact owners registered: **5/14**
+- Family accepted: **0/10**
+- Exact owners registered: **1/10**
 - Closed: **no**
-- Remaining routes: **14** (first 12 shown)
-- Sample: `/nl/islands/`, `/nl/islands/koh-tao/attractions/`, `/nl/islands/koh-tao/diving/`, `/nl/islands/koh-tao/snorkeling/`, `/nl/islands/koh-samui/`, `/nl/islands/koh-phangan/`, `/nl/islands/koh-tao/`, `/nl/islands/koh-phi-phi/`, `/nl/islands/koh-lanta/`, `/nl/islands/koh-chang/`, `/nl/islands/koh-lipe/`, `/nl/islands/koh-yao-noi/`
+- Remaining routes: **10**
+- Sample: `/nl/islands/`, `/nl/islands/koh-samui/`, `/nl/islands/koh-phangan/`, `/nl/islands/koh-phi-phi/`, `/nl/islands/koh-lanta/`, `/nl/islands/koh-chang/`, `/nl/islands/koh-lipe/`, `/nl/islands/koh-yao-noi/`, `/nl/islands/koh-mak/`, `/nl/islands/koh-samet/`
 - Evidence: not signed off
+
+### nl:island:koh-tao
+
+- Family accepted: **4/4**
+- Exact owners registered: **4/4**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-koh-tao-family-2026-07-26.md`
 
 ### nl:itinerary
 
@@ -367,10 +385,10 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:manual-review
 
-- Family accepted: **0/32**
-- Exact owners registered: **5/32**
+- Family accepted: **0/31**
+- Exact owners registered: **4/31**
 - Closed: **no**
-- Remaining routes: **32** (first 12 shown)
+- Remaining routes: **31** (first 12 shown)
 - Sample: `/nl/thailand-street-food/`, `/nl/esim/`, `/nl/social/`, `/nl/weather/`, `/nl/travel-gear/`, `/nl/best-beaches-in-thailand/`, `/nl/best-cooking-classes-in-thailand/`, `/nl/best-muay-thai-in-thailand/`, `/nl/best-elephant-sanctuaries-in-thailand/`, `/nl/best-diving-snorkeling-in-thailand/`, `/nl/grand-palace-tickets/`, `/nl/phi-phi-island-tour/`
 - Evidence: not signed off
 
@@ -385,12 +403,21 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:practical
 
-- Family accepted: **0/14**
-- Exact owners registered: **11/14**
+- Family accepted: **0/5**
+- Exact owners registered: **2/5**
 - Closed: **no**
-- Remaining routes: **14** (first 12 shown)
-- Sample: `/nl/visa/`, `/nl/practical-info/`, `/nl/visa/tourist-visa/`, `/nl/visa/digital-nomad-visa/`, `/nl/visa/retirement-visa/`, `/nl/visa/education-visa/`, `/nl/visa/thailand-elite-visa/`, `/nl/visa/ltr-visa/`, `/nl/visa/visa-extension/`, `/nl/visa/digital-arrival-card/`, `/nl/practical-info/scams-safety/`, `/nl/practical-info/atm-money/`
+- Remaining routes: **5**
+- Sample: `/nl/practical-info/`, `/nl/practical-info/scams-safety/`, `/nl/practical-info/atm-money/`, `/nl/practical-info/health-vaccinations/`, `/nl/practical-info/etiquette-culture/`
 - Evidence: not signed off
+
+### nl:practical:visa
+
+- Family accepted: **9/9**
+- Exact owners registered: **9/9**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-visa-family-2026-07-26.md`
 
 ### nl:region
 
