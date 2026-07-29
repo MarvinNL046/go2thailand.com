@@ -1,0 +1,1602 @@
+{
+  "captured_at": "2026-07-29T01:17:51.915Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "luxury hotels bangkok",
+  "costs": {
+    "suggestions": 0.01848,
+    "related": 0.02244,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "luxury hotels bangkok",
+    "bangkok hotels luxury",
+    "bangkok luxury hotels",
+    "bangkok thailand luxury hotels",
+    "hotels bangkok luxury",
+    "luxury bangkok hotels",
+    "luxury hotels bangkok thailand",
+    "luxury hotels in bangkok",
+    "luxury hotels in bangkok city",
+    "luxury hotels in bangkok thailand",
+    "luxury hotels in thailand bangkok",
+    "best luxury bangkok hotels",
+    "best luxury hotels bangkok",
+    "best luxury hotels in bangkok",
+    "best luxury hotels in bangkok thailand",
+    "top luxury hotels bangkok",
+    "affordable luxury hotels bangkok",
+    "bangkok 5 star luxury hotels",
+    "bangkok 5-star luxury hotels"
+  ],
+  "keywords": [
+    {
+      "keyword": "carlton hotel",
+      "volume": 9900,
+      "kd": 27,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok",
+      "volume": 2400,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok thailand",
+      "volume": 2400,
+      "kd": 21,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok",
+      "volume": 1600,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotels 5-star",
+      "volume": 1000,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "carlton hotel bangkok sukhumvit",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok sukhumvit 11",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aman nai lert bangkok",
+      "volume": 390,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotels luxury",
+      "volume": 390,
+      "kd": 24,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok luxury hotels",
+      "volume": 390,
+      "kd": 53,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand luxury hotels",
+      "volume": 390,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels bangkok luxury",
+      "volume": 390,
+      "kd": 17,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury bangkok hotels",
+      "volume": 390,
+      "kd": 24,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels bangkok",
+      "volume": 390,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "luxury hotels bangkok thailand",
+      "volume": 390,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in bangkok",
+      "volume": 390,
+      "kd": 14,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in bangkok city",
+      "volume": 390,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in bangkok thailand",
+      "volume": 390,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in thailand bangkok",
+      "volume": 390,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok hotels",
+      "volume": 390,
+      "kd": 31,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "boutique hotels bangkok",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for first time",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok for families",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok 5 star",
+      "volume": 90,
+      "kd": 20,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok sukhumvit",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury bangkok hotels",
+      "volume": 90,
+      "kd": 17,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels bangkok",
+      "volume": 90,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in bangkok",
+      "volume": 90,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in bangkok thailand",
+      "volume": 90,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok map",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top luxury hotels bangkok",
+      "volume": 90,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok publishing residence",
+      "volume": 70,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best boutique hotels bangkok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best boutique hotels in bangkok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in bangkok sukhumvit soi 11",
+      "volume": 70,
+      "kd": 25,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok nightlife",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotel in bangkok sukhumvit",
+      "volume": 50,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in sukhumvit bangkok",
+      "volume": 50,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aira hotel bangkok reviews",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok with family",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel bangkok sukhumvit",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in sukhumvit bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "love hotels bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "new hotels bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit soi 11 nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for tourists",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "most luxury hotel in bangkok",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok map",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 star hotel in bangkok",
+      "volume": 20,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok for couples",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "small boutique hotels bangkok",
+      "volume": 20,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "3-star hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 star hotels in bangkok city centre",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4-star hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": 34,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in sukhumvit soi 11",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "affordable luxury hotels bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "akara hotel bangkok review",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "akara hotel bangkok tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aman nai lert bangkok booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aman nai lert bangkok location",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aman nai lert bangkok opening date",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aman nai lert bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aman nai lert bangkok residences",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aman nai lert bangkok reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok 5 star luxury hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok 5-star luxury hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok hotels 5 star luxury",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotels 5-star luxury",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok luxury boutique hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok small luxury hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 4 star hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best affordable boutique hotel bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best boutique hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best family hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best honeymoon hotel bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel in bangkok for tourist",
+      "volume": 10,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels bangkok telegraph",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok city centre",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok luxury",
+      "volume": 10,
+      "kd": 9,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok telegraph",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury boutique hotels bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury family hotel bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotel bangkok reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "boutique hotel bangkok sukhumvit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in bangkok sukhumvit soi 11",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in sukhumvit soi 11 bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap luxury hotels bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap luxury hotels in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in bangkok thailand luxury",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in sukhumvit soi 13 bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hourly hotels in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "luxury boutique hotels bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury boutique hotels in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels bangkok riverside",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in bangkok sukhumvit",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in downtown bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels near bangkok airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map sukhumvit soi 11 bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "muu bangkok small luxury hotels of the world photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new hotel opening in bangkok 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "new luxury hotels bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new luxury hotels in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok sukhumvit 11 address",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok sukhumvit 11 photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok sukhumvit 11 prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "romantic getaway near bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "small luxury hotels bangkok",
+      "volume": 10,
+      "kd": 47,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhumvit area bangkok map google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok map google",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 luxury hotels bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 luxury hotels in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top luxury hotels in bangkok",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ultra luxury hotel in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in bangkok for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in bangkok 2018",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in sathorn bangkok",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new hotels bangkok 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok cheap luxury hotels",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in bangkok 2017",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels of bangkok",
+      "volume": null,
+      "kd": 9,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best riverside luxury hotels bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best value luxury hotels bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "conrad bangkok hotel luxury bangkok hotel hotels in bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in bangkok on the river",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels near bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 10 luxury hotels in bangkok thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 2.2857142857142856,
+      "keywordCount": 7,
+      "visibility": 6.1,
+      "estimatedTraffic": 167.15099999999998
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2.4285714285714284,
+      "keywordCount": 7,
+      "visibility": 6,
+      "estimatedTraffic": 150.462
+    },
+    {
+      "domain": "www.forbestravelguide.com",
+      "avgPosition": 2.857142857142857,
+      "keywordCount": 7,
+      "visibility": 5.7,
+      "estimatedTraffic": 156.81
+    },
+    {
+      "domain": "www.mrandmrssmith.com",
+      "avgPosition": 4.428571428571429,
+      "keywordCount": 7,
+      "visibility": 4.6000000000000005,
+      "estimatedTraffic": 59.961
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 6.428571428571429,
+      "keywordCount": 7,
+      "visibility": 3.1999999999999997,
+      "estimatedTraffic": 46.956
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 6.714285714285714,
+      "keywordCount": 7,
+      "visibility": 3.05,
+      "estimatedTraffic": 59.282999999999994
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 6.857142857142857,
+      "keywordCount": 7,
+      "visibility": 2.9,
+      "estimatedTraffic": 30.216
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 7.714285714285714,
+      "keywordCount": 7,
+      "visibility": 2.3,
+      "estimatedTraffic": 27.576
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 11.285714285714286,
+      "keywordCount": 7,
+      "visibility": 1.65,
+      "estimatedTraffic": 17.118000000000002
+    },
+    {
+      "domain": "www.travelplusstyle.com",
+      "avgPosition": 12.571428571428571,
+      "keywordCount": 7,
+      "visibility": 0.35,
+      "estimatedTraffic": 7.665
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 12.857142857142858,
+      "keywordCount": 7,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 8.898
+    },
+    {
+      "domain": "slh.com",
+      "avgPosition": 16.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.35,
+      "estimatedTraffic": 6.81
+    },
+    {
+      "domain": "thehoteljournal.com",
+      "avgPosition": 16.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.35,
+      "estimatedTraffic": 4.809000000000001
+    },
+    {
+      "domain": "www.fivestaralliance.com",
+      "avgPosition": 17.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.8070000000000004
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 19.857142857142858,
+      "keywordCount": 7,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.7439999999999998
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 20.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.1049999999999995
+    },
+    {
+      "domain": "en.escapio.com",
+      "avgPosition": 21.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.9250000000000003
+    },
+    {
+      "domain": "www.luxurylink.com",
+      "avgPosition": 22.857142857142858,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.628
+    },
+    {
+      "domain": "www.voyage-prive.co.uk",
+      "avgPosition": 24,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.61
+    },
+    {
+      "domain": "myhotelsbangkok.com",
+      "avgPosition": 29.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 30.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "www.businessclass.com",
+      "avgPosition": 32.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.601
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 32.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.8529999999999998
+    },
+    {
+      "domain": "www.privateupgrades.com",
+      "avgPosition": 32.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.637
+    },
+    {
+      "domain": "www.designhotels.com",
+      "avgPosition": 22.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.335
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 9.4,
+      "keywordCount": 5,
+      "visibility": 0.8,
+      "estimatedTraffic": 6.084
+    },
+    {
+      "domain": "www.tatlerasia.com",
+      "avgPosition": 39.42857142857143,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "pierreblake.com",
+      "avgPosition": 33.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.764
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 23.4,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.998
+    },
+    {
+      "domain": "www.tripfactory.com",
+      "avgPosition": 47,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "theluxurytravelexpert.com",
+      "avgPosition": 26.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.9630000000000001
+    },
+    {
+      "domain": "theasiacollective.com",
+      "avgPosition": 50.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "theluxuryeditor.com",
+      "avgPosition": 44.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.764
+    },
+    {
+      "domain": "www.independent.co.uk",
+      "avgPosition": 52.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "luxurynirvana.com",
+      "avgPosition": 50,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.764
+    },
+    {
+      "domain": "bangkokhotelsbooker.com",
+      "avgPosition": 57.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "www.americanexpress.com",
+      "avgPosition": 4.333333333333333,
+      "keywordCount": 3,
+      "visibility": 2.05,
+      "estimatedTraffic": 237.93900000000002
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 32,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.756
+    },
+    {
+      "domain": "www.bangkok-hotels.org",
+      "avgPosition": 32.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.016
+    },
+    {
+      "domain": "thairanked.com",
+      "avgPosition": 61.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "www.thetimes.com",
+      "avgPosition": 46,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.9450000000000001
+    },
+    {
+      "domain": "gssa.thailand-elite.com",
+      "avgPosition": 47.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.575
+    },
+    {
+      "domain": "www.novacircle.com",
+      "avgPosition": 57.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.764
+    },
+    {
+      "domain": "www.bangkoktourismguide.com",
+      "avgPosition": 64.71428571428571,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.583
+    },
+    {
+      "domain": "www.modernluxury.com",
+      "avgPosition": 62.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 2.394
+    },
+    {
+      "domain": "vipluxuryservices.com",
+      "avgPosition": 56.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.575
+    },
+    {
+      "domain": "www.bangkokshotels.com",
+      "avgPosition": 56.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.205
+    },
+    {
+      "domain": "www.oyster.com",
+      "avgPosition": 47.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.756
+    },
+    {
+      "domain": "www.stay-in-bangkok.com",
+      "avgPosition": 48.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "eatweekguide.com",
+      "avgPosition": 32,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.197
+    }
+  ]
+}
