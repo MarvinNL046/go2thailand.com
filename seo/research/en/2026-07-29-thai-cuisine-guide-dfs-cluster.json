@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T03:07:33.249Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai cuisine guide",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thai cuisine guide"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai cuisine guide",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

@@ -9,6 +9,20 @@ const LOCALE_TO_HREFLANG: Record<string, string> = {
   nl: 'nl',
 };
 
+// Semantically paired owners do not always share the same path. Keep these
+// mappings explicit so locale-specific consolidations can still exchange a
+// valid hreflang signal without manufacturing a duplicate route.
+const CROSS_LOCALE_ALTERNATES: Record<string, Partial<Record<'en' | 'nl', string>>> = {
+  '/travel-guides/thai-cuisine-food-guide/': {
+    en: '/travel-guides/thai-cuisine-food-guide/',
+    nl: '/blog/what-is-thai-food-cuisine-guide/',
+  },
+  '/blog/what-is-thai-food-cuisine-guide/': {
+    en: '/travel-guides/thai-cuisine-food-guide/',
+    nl: '/blog/what-is-thai-food-cuisine-guide/',
+  },
+};
+
 export default function Hreflang() {
   const { asPath, locales, locale: currentLocale } = useRouter();
 
@@ -18,12 +32,15 @@ export default function Hreflang() {
   const cleanPath = asPath.split('?')[0].split('#')[0];
   const seoPath = cleanPath;
   const registryPath = seoPath === '/' || seoPath.endsWith('/') ? seoPath : `${seoPath}/`;
+  const crossLocaleAlternates = CROSS_LOCALE_ALTERNATES[registryPath];
 
   // All pages use EN + NL only
   const isTransportRoute = seoPath.startsWith('/transport/') && seoPath !== '/transport/';
 
   let activeLocales = locales;
-  if (isTransportRoute) {
+  if (crossLocaleAlternates) {
+    activeLocales = locales.filter(locale => Boolean(crossLocaleAlternates[locale as 'en' | 'nl']));
+  } else if (isTransportRoute) {
     activeLocales = locales?.filter(l => l === 'en');
   } else if (unpairedRoutes.enOnly.includes(registryPath)) {
     activeLocales = locales.filter(locale => locale === 'en');
@@ -31,17 +48,22 @@ export default function Hreflang() {
     activeLocales = locales.filter(locale => locale === 'nl');
   }
 
-  const canonicalLocale = unpairedRoutes.enOnly.includes(registryPath)
+  const canonicalLocale = crossLocaleAlternates
+    ? currentLocale
+    : unpairedRoutes.enOnly.includes(registryPath)
     ? 'en'
     : unpairedRoutes.nlOnly.includes(registryPath)
       ? 'nl'
       : currentLocale;
 
+  const canonicalPath = crossLocaleAlternates?.[canonicalLocale as 'en' | 'nl'] || seoPath;
   const canonicalUrl =
     canonicalLocale === 'en'
-      ? `${SITE_URL}${seoPath}`
-      : `${SITE_URL}/${canonicalLocale}${seoPath}`;
-  const defaultUrl = unpairedRoutes.nlOnly.includes(registryPath)
+      ? `${SITE_URL}${canonicalPath}`
+      : `${SITE_URL}/${canonicalLocale}${canonicalPath}`;
+  const defaultUrl = crossLocaleAlternates?.en
+    ? `${SITE_URL}${crossLocaleAlternates.en}`
+    : unpairedRoutes.nlOnly.includes(registryPath)
     ? `${SITE_URL}/nl${seoPath}`
     : `${SITE_URL}${seoPath}`;
 
@@ -49,10 +71,11 @@ export default function Hreflang() {
     <Head>
       {activeLocales.map((locale) => {
         const hreflang = LOCALE_TO_HREFLANG[locale] || locale;
+        const alternatePath = crossLocaleAlternates?.[locale as 'en' | 'nl'] || seoPath;
         const href =
           locale === 'en'
-            ? `${SITE_URL}${seoPath}`
-            : `${SITE_URL}/${locale}${seoPath}`;
+            ? `${SITE_URL}${alternatePath}`
+            : `${SITE_URL}/${locale}${alternatePath}`;
 
         return (
           <link

@@ -65,6 +65,7 @@ const pilotTemplates = [
   'components/markets/BangkokStreetFoodMarketsGuideEn.tsx',
   'components/editorial/BangkokFirstTimeTipsGuideEn.tsx',
   'components/safety/SoloFemaleThailandGuideEn.tsx',
+  'components/food/ThailandFoodGuideEn.tsx',
 ];
 for (const template of pilotTemplates) {
   const source = read(template);
@@ -91,6 +92,20 @@ for (const proof of ['earth-pak-dry-bag', 'simari-water-shoes', 'rainleaf-travel
 const huaHinSeasonData = read('data/seasons/en/hua-hin.ts');
 for (const proof of ['best time to visit', 'Amazon is deliberately not inserted', 'Sam Roi Yot']) {
   if (!huaHinSeasonData.includes(proof)) failures.push(`Hua Hin season owner lacks decision proof: ${proof}`);
+}
+
+const thailandFoodGuideEn = read('components/food/ThailandFoodGuideEn.tsx');
+for (const proof of ['FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="thai-food-guide-en"', 'simple-thai-food-cookbook', 'thai-granite-mortar-eight-inch', 'zojirushi-six-cup-rice-cooker']) {
+  if (!thailandFoodGuideEn.includes(proof)) failures.push(`English Thai-food owner lacks proof: ${proof}`);
+}
+const travelGuideRoute = read('pages/travel-guides/[slug].tsx');
+for (const proof of ['ThailandFoodGuideEn', "guide.slug === 'thai-cuisine-food-guide'"]) {
+  if (!travelGuideRoute.includes(proof)) failures.push(`Travel-guide route does not wire Thai-food owner proof: ${proof}`);
+}
+if (!read('lib/blog.js').includes("'what-is-thai-food-cuisine-guide': '/travel-guides/thai-cuisine-food-guide/'")) failures.push('The obsolete what-is-Thai-food blog is not consolidated into the researched owner');
+const hreflang = read('components/Hreflang.tsx');
+for (const proof of ["'/travel-guides/thai-cuisine-food-guide/'", "nl: '/blog/what-is-thai-food-cuisine-guide/'"]) {
+  if (!hreflang.includes(proof)) failures.push(`Thai-food cross-locale hreflang mapping lacks proof: ${proof}`);
 }
 
 const climateUpdateTemplate = read('components/blog/ClimateUpdateGuideTemplate.tsx');

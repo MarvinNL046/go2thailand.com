@@ -9,6 +9,7 @@ import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPa
 import SevenElevenThailandGuide from '../../components/practical/SevenElevenThailandGuide';
 import ThailandEsimSimGuide from '../../components/connectivity/ThailandEsimSimGuide';
 import VegetarianThailandGuide from '../../components/food/VegetarianThailandGuide';
+import ThailandFoodGuideEn from '../../components/food/ThailandFoodGuideEn';
 import ThailandWildlifeSafetyGuideEn from '../../components/practical/ThailandWildlifeSafetyGuideEn';
 import { VpnThailandGuideEn } from '../../components/connectivity/VpnThailandGuideEn';
 import { SoloFemaleThailandGuideEn } from '../../components/safety/SoloFemaleThailandGuideEn';
@@ -335,6 +336,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (lang === 'en' && guide.slug === 'solo-female-travel-thailand') {
     return <SoloFemaleThailandGuideEn />;
+  }
+
+  if (lang === 'en' && guide.slug === 'thai-cuisine-food-guide') {
+    return <ThailandFoodGuideEn />;
   }
 
   if (lang === 'nl' && guide.slug === 'vegetarian-vegan-thailand') {

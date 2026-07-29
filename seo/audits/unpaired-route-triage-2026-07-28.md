@@ -2,7 +2,7 @@
 
 **Measured:** 29 July 2026
 **Source:** `seo/inventory/routes.csv` and `seo/inventory/unpaired-routes.json`  
-**Scope:** 899 sitemap routes without an exact path-equivalent in the other locale (880 EN-only, 19 NL-only)
+**Scope:** 900 sitemap routes without an exact path-equivalent in the other locale (880 EN-only, 20 NL-only)
 
 An unpaired route is an audit lead, not automatically a missing translation. Go2Thailand uses locale-specific consolidation: Dutch often keeps one strong destination or hotel owner where English still has several programmatic child routes. Creating all missing path-equivalents would therefore add thin duplication and incorrect hreflang rather than useful bilingual coverage.
 
@@ -10,9 +10,9 @@ An unpaired route is an audit lead, not automatically a missing translation. Go2
 
 | Locale-only side | Routes | Share of unpaired set |
 |---|---:|---:|
-| English-only | 880 | 97.9% |
-| Dutch-only | 19 | 2.0% |
-| Total | 899 | 100% |
+| English-only | 880 | 97.8% |
+| Dutch-only | 20 | 2.2% |
+| Total | 900 | 100% |
 
 ## English-only families
 
@@ -84,3 +84,4 @@ No Priority B candidate remains open. The earlier seven-item list mixed already 
 - `/city/phuket/weather/` now has an independent English owner based on two DFS clusters with 353 records, ten current UK-English SERPs, 53 genuine PAA appearances, six usable parses and exact weather/legacy ranking and backlink checks. The duplicate `/city/phuket/best-time-to-visit/` route permanently consolidates into it. The paired owner uses official TMD normals, ten English PAA answers, natural weather links, Klook, Trip.com and four contextual Amazon OneLink exits.
 - The 32-route English destination best-time family is now resolved through one independent DFS/ranking/backlink comparison, 23 city clusters, six current UK SERPs, 30 genuine PAA records and four competitor parses. Hua Hin and Khao Sok remain premium standalone owners; nine overlaps permanently consolidate into weather owners and 21 unsupported routes consolidate into their destination owner. The reusable season template uses honest travel windows, flexible plans, route-specific visuals, FAQs, sources and affiliate-fit decisions. Khao Sok carries three contextual OneLink packing products; Hua Hin records the deliberate Amazon omission. All 30 retired owners are absent from the sitemap and rendered internal-link graph.
 - `/blog/phuket-airport/` now has an independent English owner based on 363 DFS keyword records across airport and transfer clusters, ten current UK-English SERPs, 55 genuine PAA appearances, six usable full parses, official AOT verification and exact candidate/overlap ranking and backlink checks. The reusable premium arrival template owns the terminal flow, four transfer modes, six hotel zones, late-arrival and connectivity decisions, ten PAA answers, current-check language and contextual Klook, 12Go, Trip.com and Saily exits. The broader three-airport article now links naturally to the specialist and no longer duplicates stale Phuket fares; Amazon was assessed but not forced.
+- `/travel-guides/thai-cuisine-food-guide/` now owns broad English Thai-food, beginner choice, regional orientation and basic ordering intent after three DFS clusters, ten current UK-English SERPs, 38 genuine PAA appearances, five complete parses and exact ranking/backlink checks across four overlap candidates. The decision-led owner replaces encoding corruption, stale prices and a false UNESCO claim with flavour starting points, bounded regional context, specialist dish paths, venue and ordering decisions, dietary boundaries, ten PAA answers, five sources, Klook and three contextual Amazon OneLink products. The zero-signal `/blog/what-is-thai-food-cuisine-guide/` permanently consolidates into it; `/food/` remains the dish directory and countrywide street-food, history, health, spice, dietary and cooking-class intents remain separate.
