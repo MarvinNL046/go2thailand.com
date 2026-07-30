@@ -80,7 +80,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
     description: content.seo.description,
     url: 'https://go2-thailand.com/nl/city/',
     inLanguage: 'nl-NL',
-    dateModified: '2026-07-26',
+    dateModified: '2026-07-30',
     mainEntity: { '@id': 'https://go2-thailand.com/nl/city/#mooiste-plekken' },
   };
   const breadcrumbSchema = {
@@ -119,7 +119,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
                 <a href="#alle-bestemmingen" className="btn-cream group min-h-12 justify-center px-6 text-saffron-dark">Zoek een bestemming <span className="grid h-6 w-6 place-items-center rounded-md border border-saffron/45"><Search size={14} /></span></a>
               </div>
               <div className="mt-9 grid max-w-[560px] grid-cols-3 border-y border-jade/10 py-4">
-                {[['10', 'sterke keuzes'], ['4', 'reisregio’s'], [String(cities.length), 'gidsen']].map(([value, label]) => <div key={label} className="border-r border-jade/10 px-3 first:pl-0 last:border-r-0"><strong className="block font-display text-2xl text-jade">{value}</strong><span className="text-[9px] font-bold uppercase tracking-[0.12em] text-charcoal/45">{label}</span></div>)}
+                {[[String(content.featured.length), 'sterke keuzes'], ['4', 'reisregio’s'], [String(cities.length), 'gidsen']].map(([value, label]) => <div key={label} className="border-r border-jade/10 px-3 first:pl-0 last:border-r-0"><strong className="block font-display text-2xl text-jade">{value}</strong><span className="text-[9px] font-bold uppercase tracking-[0.12em] text-charcoal/45">{label}</span></div>)}
               </div>
             </div>
 
@@ -152,7 +152,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
         <section id="mooiste-plekken" className="section-divider-bottom scroll-mt-28 py-16 lg:py-24">
           <div className="container-custom">
             <div className="grid gap-8 lg:grid-cols-[0.72fr_1.28fr] lg:items-end">
-              <SectionHeading eyebrow="Eerst kiezen" title={<>Tien plekken.<br />Tien andere reizen.</>} description="Dit is geen objectieve ranglijst. Iedere plek staat hier omdat ze een duidelijk ander type reis mogelijk maakt. Let vooral op de keerzijde: die bepaalt vaak beter of een bestemming bij je past." />
+              <SectionHeading eyebrow="Eerst kiezen" title={<>{content.featured.length} plekken.<br />Evenveel andere reizen.</>} description="Dit is geen objectieve ranglijst. Iedere plek staat hier omdat ze een duidelijk ander type reis mogelijk maakt. Let vooral op de keerzijde: die bepaalt vaak beter of een bestemming bij je past." />
               <div className="rounded-2xl border border-jade/10 bg-tonal p-5 text-sm font-medium leading-6 text-charcoal/65"><strong className="text-jade">Snelle keuze:</strong> eerste keer? Combineer Bangkok, Chiang Mai en één kustbasis. Minder verplaatsen levert meestal meer reis op. <Link href="/weather/" className="font-extrabold text-jade underline decoration-saffron/45 underline-offset-4">Vergelijk daarna het weer per regio.</Link></div>
             </div>
 
@@ -234,7 +234,7 @@ export default function DestinationIndexGuide({ cities }: DestinationIndexGuideP
 
         <FaqSplitSection eyebrow="Echte zoekvragen" title="Veelgestelde vragen over Thailand" description="Korte antwoorden op vragen die Nederlandse reizigers nu daadwerkelijk in Google stellen. Voor budget, veiligheid en seizoen linken we door naar de gids die dat onderwerp volledig bezit." items={[...content.faqs]} />
         <RelatedGuidesSection eyebrow="Maak er een reis van" title="Plan de volgende stap" guides={[...content.relatedGuides]} />
-        <SourceMethodSection title="Hoe deze selectie is gemaakt" description="We combineren actuele Nederlandse zoekintentie met officiële bestemmingsinformatie en onze bestaande Thailand-datasets. De shortlist is redactioneel: praktisch reisfit weegt zwaarder dan alleen een mooi beeld." sources={[...content.sources]} />
+        <SourceMethodSection title="Hoe deze selectie is gemaakt" description="We combineren zelfstandige DataForSEO-research met een zichtbare Nederlandse Google-refresh van 30 juli 2026, officiële bestemmingsinformatie en onze bestaande Thailand-datasets. De shortlist is redactioneel: praktisch reisfit weegt zwaarder dan alleen een mooi beeld." sources={[...content.sources]} />
       </div>
     </>
   );
