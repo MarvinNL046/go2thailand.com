@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T21:18:09.616Z",
+  "generatedAt": "2026-07-30T21:27:36.783Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,15 +9,15 @@
       "premium": 702,
       "hybrid": 1,
       "noSignature": 0,
-      "exactOwners": 141,
+      "exactOwners": 142,
       "duplicateExactOwnerRoutes": [],
-      "contextualAmazonRoutes": 32,
-      "amazonLinks": 64,
-      "provisionalInventoryDecisions": 495,
+      "contextualAmazonRoutes": 33,
+      "amazonLinks": 66,
+      "provisionalInventoryDecisions": 494,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
-      "sitewideReport": "seo/audits/runtime/nl-nakhon-phanom-food-final-2026-07-30.json",
+      "sitewideReport": "seo/audits/runtime/nl-mukdahan-food-final-2026-07-30.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T21:16:31.077Z",
+        "generatedAt": "2026-07-30T21:26:21.069Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -633,13 +633,12 @@
       "closed": true
     },
     "nl:destination-subpillar:food": {
-      "definition": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Bueng Kan, Chanthaburi, Chumphon, Chiang Khan, Chiang Mai, Chiang Rai, Hat Yai, Hua Hin, Kanchanaburi, Khon Kaen, Koh Samui, Krabi, Lampang, Lopburi, Mae Hong Son, Nakhon Phanom, Nakhon Ratchasima/Korat, Nakhon Si Thammarat, Nong Khai, Pai, Pattaya, Phitsanulok, Phuket, Rayong, Sukhothai, Surat Thani, Trang, Trat, Ubon Ratchathani and Udon Thani are independently researched and production-verified.",
+      "definition": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Bueng Kan, Chanthaburi, Chumphon, Chiang Khan, Chiang Mai, Chiang Rai, Hat Yai, Hua Hin, Kanchanaburi, Khon Kaen, Koh Samui, Krabi, Lampang, Lopburi, Mae Hong Son, Mukdahan, Nakhon Phanom, Nakhon Ratchasima/Korat, Nakhon Si Thammarat, Nong Khai, Pai, Pattaya, Phitsanulok, Phuket, Rayong, Sukhothai, Surat Thani, Trang, Trat, Ubon Ratchathani and Udon Thani are independently researched and production-verified.",
       "expected": 34,
-      "complete": 32,
-      "exactOwners": 32,
-      "remainingCount": 2,
+      "complete": 33,
+      "exactOwners": 33,
+      "remainingCount": 1,
       "remaining": [
-        "/nl/city/mukdahan/food/",
         "/nl/city/khao-sok/food/"
       ],
       "remainingTruncated": false,
@@ -662,6 +661,7 @@
         "seo/audits/nl-lampang-city-food-owner-2026-07-30.md",
         "seo/audits/nl-lopburi-city-food-owner-2026-07-30.md",
         "seo/audits/nl-mae-hong-son-city-food-owner-2026-07-30.md",
+        "seo/audits/nl-mukdahan-city-food-owner-2026-07-30.md",
         "seo/audits/nl-nakhon-phanom-city-food-owner-2026-07-30.md",
         "seo/audits/nl-nakhon-ratchasima-city-food-owner-2026-07-30.md",
         "seo/audits/nl-nong-khai-city-food-owner-2026-07-30.md",
@@ -6068,12 +6068,12 @@
       "templateOwner": "destination-subpillar",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:destination-subpillar:food",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "exactOwner": true,
+      "amazonLinks": 2,
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
