@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T21:42:30.374Z",
+  "generatedAt": "2026-07-30T21:49:05.227Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -13,11 +13,11 @@
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 34,
       "amazonLinks": 68,
-      "provisionalInventoryDecisions": 493,
+      "provisionalInventoryDecisions": 492,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
-      "sitewideReport": "seo/audits/runtime/nl-khao-sok-food-final-2026-07-30.json",
+      "sitewideReport": "seo/audits/runtime/nl-transport-final-2026-07-30.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T21:40:05.230Z",
+        "generatedAt": "2026-07-30T21:48:21.359Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -959,17 +959,17 @@
       "closed": false
     },
     "nl:transport": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:transport.",
+      "definition": "The single Dutch transport hub has independent research, refreshed visible PAA, premium design, functional route search, transparent affiliates and production QA.",
       "expected": 1,
-      "complete": 0,
+      "complete": 1,
       "exactOwners": 1,
-      "remainingCount": 1,
-      "remaining": [
-        "/nl/transport/"
-      ],
+      "remainingCount": 0,
+      "remaining": [],
       "remainingTruncated": false,
-      "evidence": [],
-      "closed": false
+      "evidence": [
+        "seo/audits/nl-transport-family-2026-07-30.md"
+      ],
+      "closed": true
     },
     "nl:travel-guide": {
       "definition": "Pending explicit family-level research, design and technical acceptance for nl:travel-guide.",
@@ -1069,7 +1069,7 @@
       "templateOwner": "transport",
       "recommendedAction": "template-improve",
       "familyKey": "nl:transport",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
