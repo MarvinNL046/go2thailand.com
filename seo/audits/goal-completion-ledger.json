@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T21:27:36.783Z",
+  "generatedAt": "2026-07-30T21:42:30.374Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,15 +9,15 @@
       "premium": 702,
       "hybrid": 1,
       "noSignature": 0,
-      "exactOwners": 142,
+      "exactOwners": 143,
       "duplicateExactOwnerRoutes": [],
-      "contextualAmazonRoutes": 33,
-      "amazonLinks": 66,
-      "provisionalInventoryDecisions": 494,
+      "contextualAmazonRoutes": 34,
+      "amazonLinks": 68,
+      "provisionalInventoryDecisions": 493,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
-      "sitewideReport": "seo/audits/runtime/nl-mukdahan-food-final-2026-07-30.json",
+      "sitewideReport": "seo/audits/runtime/nl-khao-sok-food-final-2026-07-30.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T21:26:21.069Z",
+        "generatedAt": "2026-07-30T21:40:05.230Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -633,14 +633,12 @@
       "closed": true
     },
     "nl:destination-subpillar:food": {
-      "definition": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Bueng Kan, Chanthaburi, Chumphon, Chiang Khan, Chiang Mai, Chiang Rai, Hat Yai, Hua Hin, Kanchanaburi, Khon Kaen, Koh Samui, Krabi, Lampang, Lopburi, Mae Hong Son, Mukdahan, Nakhon Phanom, Nakhon Ratchasima/Korat, Nakhon Si Thammarat, Nong Khai, Pai, Pattaya, Phitsanulok, Phuket, Rayong, Sukhothai, Surat Thani, Trang, Trat, Ubon Ratchathani and Udon Thani are independently researched and production-verified.",
+      "definition": "The Dutch city-food queue is closed at 34/34 independently researched, premium-designed and production-verified owners.",
       "expected": 34,
-      "complete": 33,
-      "exactOwners": 33,
-      "remainingCount": 1,
-      "remaining": [
-        "/nl/city/khao-sok/food/"
-      ],
+      "complete": 34,
+      "exactOwners": 34,
+      "remainingCount": 0,
+      "remaining": [],
       "remainingTruncated": false,
       "evidence": [
         "seo/audits/nl-ayutthaya-city-food-owner-2026-07-29.md",
@@ -654,6 +652,7 @@
         "seo/audits/nl-hat-yai-city-food-owner-2026-07-29.md",
         "seo/audits/nl-hua-hin-city-food-owner-2026-07-30.md",
         "seo/audits/nl-kanchanaburi-city-food-owner-2026-07-30.md",
+        "seo/audits/nl-khao-sok-city-food-owner-2026-07-30.md",
         "seo/audits/nl-khon-kaen-city-food-owner-2026-07-30.md",
         "seo/audits/nl-koh-samui-city-food-owner-2026-07-30.md",
         "seo/audits/nl-nakhon-si-thammarat-city-food-owner-2026-07-30.md",
@@ -677,7 +676,7 @@
         "seo/audits/nl-ubon-ratchathani-city-food-owner-2026-07-30.md",
         "seo/audits/nl-udon-thani-city-food-owner-2026-07-30.md"
       ],
-      "closed": false
+      "closed": true
     },
     "nl:destination-subpillar:weather": {
       "definition": "The five Dutch city-weather routes have explicit family acceptance evidence.",
@@ -6110,12 +6109,12 @@
       "templateOwner": "destination-subpillar",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:destination-subpillar:food",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "exactOwner": true,
+      "amazonLinks": 2,
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
