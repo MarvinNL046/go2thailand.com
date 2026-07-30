@@ -111,6 +111,12 @@
       "note": "The single Dutch transport hub has independent research, refreshed visible PAA, premium design, functional route search, transparent affiliates and production QA."
     },
     {
+      "key": "nl:destination-index",
+      "status": "complete",
+      "evidence": ["seo/audits/nl-destination-index-family-2026-07-30.md"],
+      "note": "The Dutch destination index has independent research, refreshed visible PAA, premium visual selection logic, functional browse controls and production QA."
+    },
+    {
       "key": "en:destination-guide",
       "status": "complete",
       "evidence": [

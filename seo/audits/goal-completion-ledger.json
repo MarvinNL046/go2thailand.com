@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T21:49:05.227Z",
+  "generatedAt": "2026-07-30T21:54:42.794Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -13,11 +13,11 @@
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 34,
       "amazonLinks": 68,
-      "provisionalInventoryDecisions": 492,
+      "provisionalInventoryDecisions": 491,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
-      "sitewideReport": "seo/audits/runtime/nl-transport-final-2026-07-30.json",
+      "sitewideReport": "seo/audits/runtime/nl-destination-index-final-2026-07-30.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T21:48:21.359Z",
+        "generatedAt": "2026-07-30T21:53:51.723Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -607,17 +607,17 @@
       "closed": true
     },
     "nl:destination-index": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:destination-index.",
+      "definition": "The Dutch destination index has independent research, refreshed visible PAA, premium visual selection logic, functional browse controls and production QA.",
       "expected": 1,
-      "complete": 0,
+      "complete": 1,
       "exactOwners": 1,
-      "remainingCount": 1,
-      "remaining": [
-        "/nl/city/"
-      ],
+      "remainingCount": 0,
+      "remaining": [],
       "remainingTruncated": false,
-      "evidence": [],
-      "closed": false
+      "evidence": [
+        "seo/audits/nl-destination-index-family-2026-07-30.md"
+      ],
+      "closed": true
     },
     "nl:destination-subpillar:attractions": {
       "definition": "The Dutch attraction-overview family has explicit 34-route acceptance evidence.",
@@ -1027,7 +1027,7 @@
       "templateOwner": "destination-index",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:destination-index",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
