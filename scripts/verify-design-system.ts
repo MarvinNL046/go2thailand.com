@@ -145,6 +145,7 @@ const maeHongSonCityFoodNl = read('data/city-food/nl/mae-hong-son.ts');
 const nakhonRatchasimaCityFoodNl = read('data/city-food/nl/nakhon-ratchasima.ts');
 const paiCityFoodNl = read('data/city-food/nl/pai.ts');
 const pattayaCityFoodNl = read('data/city-food/nl/pattaya.ts');
+const phitsanulokCityFoodNl = read('data/city-food/nl/phitsanulok.ts');
 const phuketCityFoodNl = read('data/city-food/nl/phuket.ts');
 const sukhothaiCityFoodNl = read('data/city-food/nl/sukhothai.ts');
 const suratThaniCityFoodNl = read('data/city-food/nl/surat-thani.ts');
@@ -191,6 +192,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!nakhonRatchasimaCityFoodNl.includes(proof)) failures.push(`Dutch Nakhon Ratchasima city-food owner lacks content proof: ${proof}`);
   if (!paiCityFoodNl.includes(proof)) failures.push(`Dutch Pai city-food owner lacks content proof: ${proof}`);
   if (!pattayaCityFoodNl.includes(proof)) failures.push(`Dutch Pattaya city-food owner lacks content proof: ${proof}`);
+  if (!phitsanulokCityFoodNl.includes(proof)) failures.push(`Dutch Phitsanulok city-food owner lacks content proof: ${proof}`);
   if (!phuketCityFoodNl.includes(proof)) failures.push(`Dutch Phuket city-food owner lacks content proof: ${proof}`);
   if (!sukhothaiCityFoodNl.includes(proof)) failures.push(`Dutch Sukhothai city-food owner lacks content proof: ${proof}`);
   if (!suratThaniCityFoodNl.includes(proof)) failures.push(`Dutch Surat Thani city-food owner lacks content proof: ${proof}`);
@@ -231,7 +233,7 @@ for (const proof of ['formats:', 'districts:', 'dishes:', 'dayPlan:', 'practical
   if (!udonThaniCityFoodEn.includes(proof)) failures.push(`Udon Thani city-food owner lacks content proof: ${proof}`);
   if (!ubonRatchathaniCityFoodEn.includes(proof)) failures.push(`Ubon Ratchathani city-food owner lacks content proof: ${proof}`);
 }
-for (const proof of ['ayutthayaCityFoodNl', 'ayutthaya: ayutthayaCityFoodNl', 'bangkokCityFoodNl', 'bangkok: bangkokCityFoodNl', 'chiangRaiCityFoodNl', "'chiang-rai': chiangRaiCityFoodNl", 'chiangMaiCityFoodNl', "'chiang-mai': chiangMaiCityFoodNl", 'hatYaiCityFoodNl', "'hat-yai': hatYaiCityFoodNl", 'huaHinCityFoodNl', "'hua-hin': huaHinCityFoodNl", 'kanchanaburiCityFoodNl', 'kanchanaburi: kanchanaburiCityFoodNl', 'khonKaenCityFoodNl', "'khon-kaen': khonKaenCityFoodNl", 'krabiCityFoodNl', 'krabi: krabiCityFoodNl', 'lampangCityFoodNl', 'lampang: lampangCityFoodNl', 'lopburiCityFoodNl', 'lopburi: lopburiCityFoodNl', 'maeHongSonCityFoodNl', "'mae-hong-son': maeHongSonCityFoodNl", 'nakhonRatchasimaCityFoodNl', "'nakhon-ratchasima': nakhonRatchasimaCityFoodNl", 'paiCityFoodNl', 'pai: paiCityFoodNl', 'pattayaCityFoodNl', 'pattaya: pattayaCityFoodNl', 'phuketCityFoodNl', 'phuket: phuketCityFoodNl', 'sukhothaiCityFoodNl', 'sukhothai: sukhothaiCityFoodNl', 'suratThaniCityFoodNl', "'surat-thani': suratThaniCityFoodNl", 'ubonRatchathaniCityFoodNl', "'ubon-ratchathani': ubonRatchathaniCityFoodNl", 'udonThaniCityFoodNl', "'udon-thani': udonThaniCityFoodNl"]) {
+for (const proof of ['ayutthayaCityFoodNl', 'ayutthaya: ayutthayaCityFoodNl', 'bangkokCityFoodNl', 'bangkok: bangkokCityFoodNl', 'chiangRaiCityFoodNl', "'chiang-rai': chiangRaiCityFoodNl", 'chiangMaiCityFoodNl', "'chiang-mai': chiangMaiCityFoodNl", 'hatYaiCityFoodNl', "'hat-yai': hatYaiCityFoodNl", 'huaHinCityFoodNl', "'hua-hin': huaHinCityFoodNl", 'kanchanaburiCityFoodNl', 'kanchanaburi: kanchanaburiCityFoodNl', 'khonKaenCityFoodNl', "'khon-kaen': khonKaenCityFoodNl", 'krabiCityFoodNl', 'krabi: krabiCityFoodNl', 'lampangCityFoodNl', 'lampang: lampangCityFoodNl', 'lopburiCityFoodNl', 'lopburi: lopburiCityFoodNl', 'maeHongSonCityFoodNl', "'mae-hong-son': maeHongSonCityFoodNl", 'nakhonRatchasimaCityFoodNl', "'nakhon-ratchasima': nakhonRatchasimaCityFoodNl", 'paiCityFoodNl', 'pai: paiCityFoodNl', 'pattayaCityFoodNl', 'pattaya: pattayaCityFoodNl', 'phitsanulokCityFoodNl', 'phitsanulok: phitsanulokCityFoodNl', 'phuketCityFoodNl', 'phuket: phuketCityFoodNl', 'sukhothaiCityFoodNl', 'sukhothai: sukhothaiCityFoodNl', 'suratThaniCityFoodNl', "'surat-thani': suratThaniCityFoodNl", 'ubonRatchathaniCityFoodNl', "'ubon-ratchathani': ubonRatchathaniCityFoodNl", 'udonThaniCityFoodNl', "'udon-thani': udonThaniCityFoodNl"]) {
   if (!cityFoodRegistryNl.includes(proof)) failures.push(`Dutch city-food registry lacks owner proof: ${proof}`);
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/bangkok/food/'"]) {
@@ -266,6 +268,9 @@ for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/lopburi/food/'", 'lopburi-food-palace-market-nl.webp']) {
   if (!lopburiCityFoodNl.includes(proof)) failures.push(`Dutch Lopburi city-food owner lacks locale or asset proof: ${proof}`);
+}
+for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/phitsanulok/food/'", 'phitsanulok-food-nan-river-nl.webp']) {
+  if (!phitsanulokCityFoodNl.includes(proof)) failures.push(`Dutch Phitsanulok city-food owner lacks locale or asset proof: ${proof}`);
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/ubon-ratchathani/food/'", 'ubon-ratchathani-food-ho-trai-nl.webp']) {
   if (!ubonRatchathaniCityFoodNl.includes(proof)) failures.push(`Dutch Ubon Ratchathani city-food owner lacks locale or asset proof: ${proof}`);
