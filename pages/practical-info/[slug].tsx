@@ -25,6 +25,9 @@ import { useSubId } from "../../lib/useSubId";
 import ThailandEtiquetteGuide from "../../components/practical/ThailandEtiquetteGuide";
 import ThailandEtiquetteGuideEn from "../../components/practical/ThailandEtiquetteGuideEn";
 import ThailandVaccinationsGuide from "../../components/practical/ThailandVaccinationsGuide";
+import PracticalDecisionGuideTemplate from "../../components/practical/PracticalDecisionGuideTemplate";
+import { scamsSafetyNl } from "../../data/practical-guides/nl/scams-safety";
+import { atmMoneyNl } from "../../data/practical-guides/nl/atm-money";
 
 interface SectionItem {
   name: { en: string; nl: string };
@@ -105,6 +108,14 @@ export default function PracticalInfoDetailPage({
 
   if (lang === "nl" && info.slug === "health-vaccinations") {
     return <ThailandVaccinationsGuide />;
+  }
+
+  if (lang === "nl" && info.slug === "scams-safety") {
+    return <PracticalDecisionGuideTemplate data={scamsSafetyNl} />;
+  }
+
+  if (lang === "nl" && info.slug === "atm-money") {
+    return <PracticalDecisionGuideTemplate data={atmMoneyNl} />;
   }
 
   return (

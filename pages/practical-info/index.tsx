@@ -6,6 +6,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import { getAllPracticalInfo } from '../../lib/practical-info';
+import PracticalInfoHubGuide from '../../components/practical/PracticalInfoHubGuide';
 
 interface PracticalInfoItem {
   id: number;
@@ -23,6 +24,8 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
   const isNl = locale === 'nl';
+
+  if (isNl) return <PracticalInfoHubGuide />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

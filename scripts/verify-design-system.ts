@@ -1223,6 +1223,30 @@ for (const template of ['components/city/DestinationGuideTemplate.tsx', 'compone
   }
 }
 
+const practicalHub = read('components/practical/PracticalInfoHubGuide.tsx');
+const practicalDecisionTemplate = read('components/practical/PracticalDecisionGuideTemplate.tsx');
+const practicalRoute = read('pages/practical-info/[slug].tsx');
+const practicalIndexRoute = read('pages/practical-info/index.tsx');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'SourceMethodSection', 'data-premium-template="practical-info-hub"']) {
+  if (!practicalHub.includes(proof)) failures.push(`Practical info hub lacks design proof: ${proof}`);
+}
+for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'data-premium-template={`practical-decision-${data.slug}`}']) {
+  if (!practicalDecisionTemplate.includes(proof)) failures.push(`Practical decision template lacks design proof: ${proof}`);
+}
+for (const [dataPath, asset] of [
+  ['data/practical-guides/nl/scams-safety.ts', 'thailand-safety-hero.webp'],
+  ['data/practical-guides/nl/atm-money.ts', 'thailand-money-atm-hero-nl.webp'],
+] as const) {
+  const source = read(dataPath);
+  if (!source.includes(asset)) failures.push(`${dataPath} does not use ${asset}`);
+  read(`public/images/redesign/${asset}`);
+}
+read('public/images/redesign/thailand-practical-hub-hero-nl.webp');
+for (const proof of ['scamsSafetyNl', 'atmMoneyNl', 'PracticalDecisionGuideTemplate']) {
+  if (!practicalRoute.includes(proof)) failures.push(`Practical detail route lacks owner proof: ${proof}`);
+}
+if (!practicalIndexRoute.includes('PracticalInfoHubGuide')) failures.push('Practical index does not wire the NL premium hub');
+
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);
   failures.forEach(failure => console.error(`- ${failure}`));
