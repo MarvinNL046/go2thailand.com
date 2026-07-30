@@ -18,6 +18,7 @@ import { paiCityFoodNl } from './pai';
 import { phuketCityFoodNl } from './phuket';
 import { sukhothaiCityFoodNl } from './sukhothai';
 import { suratThaniCityFoodNl } from './surat-thani';
+import { tratCityFoodNl } from './trat';
 import { udonThaniCityFoodNl } from './udon-thani';
 import { ubonRatchathaniCityFoodNl } from './ubon-ratchathani';
 
@@ -41,6 +42,7 @@ const cityFoodGuidesNl: Record<string, CityFoodGuideData> = {
   phuket: phuketCityFoodNl,
   sukhothai: sukhothaiCityFoodNl,
   'surat-thani': suratThaniCityFoodNl,
+  trat: tratCityFoodNl,
   'udon-thani': udonThaniCityFoodNl,
   'ubon-ratchathani': ubonRatchathaniCityFoodNl,
 };
@@ -49,4 +51,4 @@ export function getNlCityFoodGuide(slug: string): CityFoodGuideData | undefined 
   return cityFoodGuidesNl[slug];
 }
 
-export { ayutthayaCityFoodNl, bangkokCityFoodNl, chiangRaiCityFoodNl, chiangMaiCityFoodNl, hatYaiCityFoodNl, huaHinCityFoodNl, kanchanaburiCityFoodNl, khonKaenCityFoodNl, krabiCityFoodNl, lampangCityFoodNl, lopburiCityFoodNl, maeHongSonCityFoodNl, nakhonRatchasimaCityFoodNl, paiCityFoodNl, pattayaCityFoodNl, phitsanulokCityFoodNl, phuketCityFoodNl, sukhothaiCityFoodNl, suratThaniCityFoodNl, ubonRatchathaniCityFoodNl, udonThaniCityFoodNl };
+export { ayutthayaCityFoodNl, bangkokCityFoodNl, chiangRaiCityFoodNl, chiangMaiCityFoodNl, hatYaiCityFoodNl, huaHinCityFoodNl, kanchanaburiCityFoodNl, khonKaenCityFoodNl, krabiCityFoodNl, lampangCityFoodNl, lopburiCityFoodNl, maeHongSonCityFoodNl, nakhonRatchasimaCityFoodNl, paiCityFoodNl, pattayaCityFoodNl, phitsanulokCityFoodNl, phuketCityFoodNl, sukhothaiCityFoodNl, suratThaniCityFoodNl, tratCityFoodNl, ubonRatchathaniCityFoodNl, udonThaniCityFoodNl };
