@@ -83,7 +83,7 @@ export const kohMakIslandGuide: DestinationGuideData = {
   relatedGuides: [
     { title: 'Trat', description: 'Plan de vastelandgateway, aankomstbuffer en juiste pier als één route.', href: '/city/trat/', image: '/images/redesign/trat-destination-hero.webp', imageAlt: 'Trat als groene gateway naar de eilanden' },
     { title: 'Koh Chang', description: 'Vergelijk Koh Mak met een groter, bergachtiger eiland met meer zones en ferrylogistiek.', href: '/islands/koh-chang/', image: '/images/redesign/koh-chang-island-hero-nl.webp', imageAlt: 'Bergachtige kust van Koh Chang' },
-    { title: 'Koh Kood', description: 'Vergelijk een groter en groener buureiland met andere transfers en verblijfafstanden.', href: '/islands/koh-kood/', image: '/images/blog/koh-kood-quiet-island-guide-trat-2026.webp', imageAlt: 'Groene kust en helder water bij Koh Kood' },
+    { title: 'Koh Kood', description: 'Vergelijk een groter en groener buureiland met andere transfers en verblijfafstanden.', href: '/blog/koh-kood-quiet-island-guide-trat-2026/', image: '/images/blog/koh-kood-quiet-island-guide-trat-2026.webp', imageAlt: 'Groene kust en helder water bij Koh Kood' },
   ],
   sources: [
     { title: 'The Journey to become the first low carbon destination in Thailand', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/promotions/73/The%20Journey%20to%20become%20the%20first%20low%20carbon%20destination%20in%20Thailand.', note: 'Primaire context voor de erkenning en low-carbonpositionering; verlopen campagnevoorwaarden zijn niet hergebruikt.' },
