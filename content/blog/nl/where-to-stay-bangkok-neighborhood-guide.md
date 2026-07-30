@@ -405,7 +405,7 @@ Ja, maar met realistische verwachtingen. Het is perfect voor 1-2 nachten om ande
 
 ### Hoe ver is Bangkok van andere Thaise bestemmingen?
 
-Bangkok is het transportknooppunt van Thailand. [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) ligt 10-12 uur per trein of 1,5 uur per [vlucht](https://trip.tpo.lv/TmObooZ5). Zuidelijke strandbestemmingen zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) zijn 1-2 uur vliegen of 10-14 uur per bus.
+Bangkok is het transportknooppunt van Thailand. [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) ligt 10-12 uur per trein of 1,5 uur per [vlucht](https://trip.tpo.lv/TmObooZ5). Zuidelijke strandbestemmingen zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) zijn 1-2 uur vliegen of 10-14 uur per bus.
 
 ### Wat is de beste manier om van de luchthaven naar mijn hotel te komen?
 

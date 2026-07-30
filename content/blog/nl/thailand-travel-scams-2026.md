@@ -28,7 +28,7 @@ Het goede nieuws? Met kennis kun je bijna alle valkuilen omzeilen, vooral als je
 |-------|----------|
 | **Wat zijn de meest voorkomende Thailand-bedrogen?** | Edelsteenfraude, te dure taxi's, gesloten tempel-bedrog en juwelenwinkels zijn de topvier. |
 | **Hoeveel geld kan ik verliezen?** | Edelsteenbedrogen variëren van THB 5.000–50.000+ (€130–1.300+); taxioplichterij meestal THB 100–500 (€2,70–13). |
-| **Welke steden hebben de meeste bedrogen?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en toeristenhotspots zoals [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/islands/koh-samui/). |
+| **Welke steden hebben de meeste bedrogen?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en toeristenhotspots zoals [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/city/koh-samui/). |
 | **Hoe meld ik een bedrog?** | Bel de Tourist Police op 1155 (gratis) of ga naar het dichtstbijzijnde kantoor van de Tourist Police. |
 | **Wat is de beste preventie?** | Gebruik officiële taxi's (Grab-app), boek tours via betrouwbare aanbieders en vertrouw op je intuïtie. |
 | **Moet ik contant geld dragen?** | Ja, maar in kleine bedragen. Gebruik geldautomaten bij banken of malls, niet bij straatmachines. |

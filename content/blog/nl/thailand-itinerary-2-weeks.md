@@ -199,7 +199,7 @@ In de buurt ligt de **Gouden Driehoek**, waar Thailand, Laos en Myanmar samenkom
 
 Vanuit Chiang Mai vlieg je terug naar Bangkok (1,5 uur, ฿1.200–2.000/€34–56), en dan zuidwaarts naar je eilandbestemming. Opties:
 
-- **[Koh Samui](https://go2-thailand.com/islands/koh-samui/)** — Meest ontwikkeld, beste infrastructuur, duurder
+- **[Koh Samui](https://go2-thailand.com/city/koh-samui/)** — Meest ontwikkeld, beste infrastructuur, duurder
 - **[Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)** — Jonger publiek, Full Moon Party, goede stranden
 - **[Koh Tao](https://go2-thailand.com/islands/koh-tao/)** — Beste voor duiken, budgetvriendelijk, klein
 - **[Krabi](https://go2-thailand.com/transport/bangkok-to-krabi/)** — Vastelandbasis voor eilandhoppen, adembenemende kalksteenkliffen

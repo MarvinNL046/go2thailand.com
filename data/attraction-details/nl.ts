@@ -96,7 +96,7 @@ export const nlAttractionDetailGuides: Record<string, AttractionDetailGuideData>
       { question: 'Wat moet je nog meer zien op Koh Samui?', answer: 'Na de noordoostelijke tempelroute kies je beter één andere zone dan nog meer losse stops. Denk aan Fisherman’s Village, Choeng Mon, een zuidelijke eilanddag of Ang Thong op een aparte dag met geschikte zeecondities.' },
     ],
     relatedGuides: [
-      { title: 'Koh Samui reisgids', description: 'Vergelijk zones, stranden, tempels, eilandroutes en verblijf.', href: '/islands/koh-samui/', image: '/images/redesign/koh-samui-destination-hero.webp', imageAlt: 'Tropische kust en heuvels van Koh Samui' },
+      { title: 'Koh Samui reisgids', description: 'Vergelijk zones, stranden, tempels, eilandroutes en verblijf.', href: '/city/koh-samui/', image: '/images/redesign/koh-samui-destination-hero.webp', imageAlt: 'Tropische kust en heuvels van Koh Samui' },
       { title: 'Wat te doen op Koh Samui', description: 'Bouw tempels, kust, dorp en bootdag tot een haalbare route.', href: '/city/koh-samui/attractions/', image: '/images/redesign/koh-samui-attractions-hero.webp', imageAlt: 'Tempel- en kustlandschap van Koh Samui' },
       { title: 'Waar verblijven op Koh Samui?', description: 'Kies Chaweng, Bophut, Lamai of een rustige kust op reisstijl.', href: '/best-hotels/koh-samui/', image: '/images/redesign/koh-samui-hotels-hero.webp', imageAlt: 'Resort en strand op Koh Samui' },
     ],

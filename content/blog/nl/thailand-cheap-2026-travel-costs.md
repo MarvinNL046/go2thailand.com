@@ -44,7 +44,7 @@ De prijsstijgingen zijn niet gelijk verdeeld. Accommodatie in populaire toeriste
 
 ### Waar de prijzen het meest zijn gestegen
 
-Accommodatie is de grootste schok voor terugkerende reizigers. Een basisgastenverblijf dat in 2020 300-400 baht kostte, kost nu 500-700 baht in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en 800-1.200 baht in [Bangkok](https://go2-thailand.com/city/bangkok/). Mid-range hotels zijn merkbaar duurder geworden. Strandlocaties in [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) doen nu denken aan andere Zuidoost-Aziatische resorts, niet meer aan budgetparadijzen.
+Accommodatie is de grootste schok voor terugkerende reizigers. Een basisgastenverblijf dat in 2020 300-400 baht kostte, kost nu 500-700 baht in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en 800-1.200 baht in [Bangkok](https://go2-thailand.com/city/bangkok/). Mid-range hotels zijn merkbaar duurder geworden. Strandlocaties in [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) doen nu denken aan andere Zuidoost-Aziatische resorts, niet meer aan budgetparadijzen.
 
 Internationale vluchten naar Thailand zijn sinds 2023 gestegen, al blijven de prijzen redelijk vergeleken met andere langeafstandsroutes – denk aan directe vluchten vanaf Schiphol met KLM. Binnenlandse vluchten zijn ook iets duurder geworden, waardoor bussen en treinen concurrerender zijn voor budgetreizigers.
 
@@ -192,7 +192,7 @@ Het noorden trekt budgetreizigers om goede redenen. Accommodatie is écht goedko
 
 ### Zuid-Thailand & eilanden (duurste)
 
-[Phuket](https://go2-thailand.com/islands/phuket/), [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) zijn de duurste bestemmingen van Thailand. Prijzen wedijveren met middelklasse westerse strandsteden.
+[Phuket](https://go2-thailand.com/islands/phuket/), [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) zijn de duurste bestemmingen van Thailand. Prijzen wedijveren met middelklasse westerse strandsteden.
 
 **Voorbeeldkosten:**
 - Gastenverblijfkamer: 800-1.500 THB
@@ -201,7 +201,7 @@ Het noorden trekt budgetreizigers om goede redenen. Accommodatie is écht goedko
 - Snorkeltour: 1.500-2.500 THB
 - Strandmassage: 400-600 THB
 
-Budgetalternatieven bestaan: [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Chang](https://go2-thailand.com/islands/koh-chang/) bieden vergelijkbare ervaringen voor veel lagere prijzen. Het verschil tussen [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is enorm – zelfde land, totaal andere budgetten.
+Budgetalternatieven bestaan: [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Chang](https://go2-thailand.com/islands/koh-chang/) bieden vergelijkbare ervaringen voor veel lagere prijzen. Het verschil tussen [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is enorm – zelfde land, totaal andere budgetten.
 
 ### Isaan (Noordoosten) - Verborgen budgetparadijs
 
@@ -535,7 +535,7 @@ Dit is écht haalbaar. Wij deden dit maandenlang. De sleutel is verblijven in [C
 - Activiteiten (snorkelen, kookcursus, massage): 8.000 THB
 - **Maandelijks totaal: 50.500 THB (€1.299)**
 
-Dit is het meest voorkomende reizigersprofiel. Je slaapt goed, eet lekker, doet gewenste activiteiten en stress niet over geld. Dit budget werkt in de meeste van Thailand behalve [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/islands/koh-samui/).
+Dit is het meest voorkomende reizigersprofiel. Je slaapt goed, eet lekker, doet gewenste activiteiten en stress niet over geld. Dit budget werkt in de meeste van Thailand behalve [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/city/koh-samui/).
 
 ### Scenario 3: Comfort reiziger, Bangkok + strand (november)
 

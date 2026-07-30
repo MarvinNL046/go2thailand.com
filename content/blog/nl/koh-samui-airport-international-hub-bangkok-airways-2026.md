@@ -24,7 +24,7 @@ sources:
 
 ## De kleine luchthaven van Samui met grote dromen
 
-Jarenlang betekende een vlucht naar [Koh Samui](/islands/koh-samui/) altijd een tussenstop in Bangkok met Bangkok Airways, de maatschappij die de palmbomen omzoomde luchthaven van het eiland heeft gebouwd en nog steeds privé bezit. Dat verandert nu. Bangkok Airways heeft plannen aangekondigd om **Samui Luchthaven (USM) om te vormen tot Thailand's tweede internationale vluchthub**, met een reeks nieuwe middellangeafstandsroutes die in de loop van 2026 worden gelanceerd.
+Jarenlang betekende een vlucht naar [Koh Samui](/city/koh-samui/) altijd een tussenstop in Bangkok met Bangkok Airways, de maatschappij die de palmbomen omzoomde luchthaven van het eiland heeft gebouwd en nog steeds privé bezit. Dat verandert nu. Bangkok Airways heeft plannen aangekondigd om **Samui Luchthaven (USM) om te vormen tot Thailand's tweede internationale vluchthub**, met een reeks nieuwe middellangeafstandsroutes die in de loop van 2026 worden gelanceerd.
 
 Als de uitbreiding volgens plan verloopt, kunnen reizigers uit het Midden-Oosten, China en Zuidoost-Azië binnenkort direct naar de [stranden van Samui](/city/koh-samui/attractions/) vliegen, zonder die tussenstop in Bangkok.
 

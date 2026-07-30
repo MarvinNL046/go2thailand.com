@@ -488,7 +488,7 @@ Veerboten vertrekken vanuit Chalong Bay (zuid Phuket) en duren 90 minuten. Koste
 
 ### Is Phuket duur vergeleken met andere Thaise stranden?
 
-Ja, Phuket is duurder dan [ontdek onze Koh Samui-eilandgids](https://go2-thailand.com/islands/koh-samui/) of [Koh Phangan-eilandgids](https://go2-thailand.com/islands/koh-phangan/), maar goedkoper dan [plan je trip naar Bangkok](https://go2-thailand.com/city/bangkok/). Patong is het duurst; Rawai en Chalong het goedkoopst. Middenklasse in Karon en Kata biedt de beste waarde.
+Ja, Phuket is duurder dan [ontdek onze Koh Samui-eilandgids](https://go2-thailand.com/city/koh-samui/) of [Koh Phangan-eilandgids](https://go2-thailand.com/islands/koh-phangan/), maar goedkoper dan [plan je trip naar Bangkok](https://go2-thailand.com/city/bangkok/). Patong is het duurst; Rawai en Chalong het goedkoopst. Middenklasse in Karon en Kata biedt de beste waarde.
 
 ### Wat moet ik inpakken voor Phuket?
 

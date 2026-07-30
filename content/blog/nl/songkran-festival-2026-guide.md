@@ -65,7 +65,7 @@ De moderne **Songkran**-ervaring verschilt enorm per locatie. In [Bangkok](https
 
 ### Regionale variaties
 
-Verschillende regio's vieren met eigen tradities. In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) beslaat het festival de volledige drie dagen met de Chiang Mai Songkran Parade op 13 april, inclusief praalwagens, schoonheidscontests en traditionele waterzegenen. [Bangkok](https://go2-thailand.com/city/bangkok/) concentreert de chaos op 13–14 april, met Silom Road en Khao San Road als epicentra van watergevechten. Zuidelijke eilanden zoals [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/islands/koh-samui/) rekken de festiviteiten uit tot 17 april, profiterend van strandlocaties en toeristenvraag.
+Verschillende regio's vieren met eigen tradities. In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) beslaat het festival de volledige drie dagen met de Chiang Mai Songkran Parade op 13 april, inclusief praalwagens, schoonheidscontests en traditionele waterzegenen. [Bangkok](https://go2-thailand.com/city/bangkok/) concentreert de chaos op 13–14 april, met Silom Road en Khao San Road als epicentra van watergevechten. Zuidelijke eilanden zoals [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/city/koh-samui/) rekken de festiviteiten uit tot 17 april, profiterend van strandlocaties en toeristenvraag.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -131,7 +131,7 @@ Waar je **Songkran** viert, hangt af van je persoonlijkheid en reisstijl. We heb
 
 ### Eilandbestemmingen: Strandgebaseerde vieringen
 
-Zuidelijke eilanden rekken Songkran uit tot half april en bieden strandgerichte festiviteiten. [Phuket](https://go2-thailand.com/islands/phuket/) organiseert het Phuket Songkran Festival met parades, wateractiviteiten op Patong Beach en avondvieringen. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) bieden ontspannener watervieringen gecombineerd met strandfeesten.
+Zuidelijke eilanden rekken Songkran uit tot half april en bieden strandgerichte festiviteiten. [Phuket](https://go2-thailand.com/islands/phuket/) organiseert het Phuket Songkran Festival met parades, wateractiviteiten op Patong Beach en avondvieringen. [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) bieden ontspannener watervieringen gecombineerd met strandfeesten.
 
 **Beste eilandplekken:**
 - **[Patong Beach, Phuket](/blog/andamanda-phuket-day-songkran-pool-party-2026/)**: Georganiseerde wateractiviteiten; strandfeesten; toeristische infrastructuur

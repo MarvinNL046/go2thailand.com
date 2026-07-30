@@ -58,6 +58,6 @@ De beurs is ingedeeld per regio, zodat je eenvoudig trips kunt plannen:
 - **Noord-Thailand** met [Chiang Mai](/city/chiang-mai/), [Chiang Rai](/city/chiang-rai/) en bergbestemmingen
 - **Noordoost-Thailand (Isan)** met culturele en culinaire hoogtepunten
 - **Oost-Thailand** met strandbestemmingen zoals [Pattaya](/city/pattaya/) en [Koh Chang](/islands/koh-chang/)
-- **Zuid-Thailand** met eilandparadijzen van [Phuket](/islands/phuket/) tot [Koh Samui](/islands/koh-samui/)
+- **Zuid-Thailand** met eilandparadijzen van [Phuket](/islands/phuket/) tot [Koh Samui](/city/koh-samui/)
 
 Of je nu een weekendje weg plant of een langere binnenlandse reis, de Thailand Travel Fair 2026 is dé plek voor inspiratie en deals. Met negen zones vol activiteiten rond [eten](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/), cultuur en avontuur is het een van de meest complete reisevenementen op de Thaise kalender dit jaar. Bekijk de [officiële bezoekersgids](/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/) voor tips om je bezoek optimaal te benutten, of blader door [binnenlandse reissuggesties](/blog/thailand-7-days-itineraries/) als je direct een trip wilt boeken.

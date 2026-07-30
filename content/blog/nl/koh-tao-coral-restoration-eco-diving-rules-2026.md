@@ -26,7 +26,7 @@ sources:
 
 [Koh Tao](/islands/koh-tao/) — "Turtle Island" — is al jaren een van de goedkoopste en populairste plekken ter wereld om te leren duiken. Maar in 2026 verdient het eiland een nieuwe reputatie: serieus centrum voor koraalherstel. Er zijn nu meer dan 100.000 koraalfragmenten geplant langs de kust van Koh Tao, waarvan meer dan 30.000 floreren in Chalok Bay alleen. Overlevingspercentages liggen boven de 80 procent na drie maanden, een cijfer dat deze projecten tot de succesvolste rifprogramma's op kleine eilanden in Zuidoost-Azië maakt.
 
-Koh Tao ligt in de Golf van Thailand, naast zijn bekendere buren — de feestelijke sfeer van [Koh Phangan](/islands/koh-phangan/) en de resortkusten van [Koh Samui](/islands/koh-samui/). Voor een volledige vergelijking van de twee duikeilanden, bekijk [Koh Samui vs Koh Tao](/compare/koh-samui-vs-koh-tao/) en [Koh Phangan vs Koh Tao](/compare/koh-phangan-vs-koh-tao/).
+Koh Tao ligt in de Golf van Thailand, naast zijn bekendere buren — de feestelijke sfeer van [Koh Phangan](/islands/koh-phangan/) en de resortkusten van [Koh Samui](/city/koh-samui/). Voor een volledige vergelijking van de twee duikeilanden, bekijk [Koh Samui vs Koh Tao](/compare/koh-samui-vs-koh-tao/) en [Koh Phangan vs Koh Tao](/compare/koh-phangan-vs-koh-tao/).
 
 ## Waar Het Werk Plaatsvindt
 

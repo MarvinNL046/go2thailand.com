@@ -24,7 +24,7 @@ sources:
 
 ## Je eigen eiland in de Golf van Thailand
 
-Veel reizigers dromen van een privé-eiland. Bij **Cape Fahn Hotel** is die droom verrassend haalbaar. Dit vijfsterren boutique-resort beslaat het hele **Koh Fahn**, een eiland van 2,5 hectare (6 acre) net voor de noordoostkust van [Koh Samui](/islands/koh-samui/), vlakbij Choeng Mon-strand.
+Veel reizigers dromen van een privé-eiland. Bij **Cape Fahn Hotel** is die droom verrassend haalbaar. Dit vijfsterren boutique-resort beslaat het hele **Koh Fahn**, een eiland van 2,5 hectare (6 acre) net voor de noordoostkust van [Koh Samui](/city/koh-samui/), vlakbij Choeng Mon-strand.
 
 Met slechts 22 een- en tweeslaapkamer poolvillas verspreid over het eiland voelt het resort écht afgelegen, zelfs als het volgeboekt is. Voor wie ultieme privacy wil, biedt Cape Fahn de mogelijkheid om het **gehele eiland** te reserveren – alle 22 villas voor maximaal 48 gasten – vanaf THB 620.000++.
 

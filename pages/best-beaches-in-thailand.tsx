@@ -132,7 +132,7 @@ const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Arr
       coast: 'Gulf of Thailand',
       body: 'Better for travelers choosing between Samui comfort, Phangan variety, Tao diving, or the quieter Trat islands. The Gulf is often the more practical answer when you want one island base instead of a fast-moving hop.',
       routes: [
-        { href: '/islands/koh-samui/', label: 'Koh Samui guide' },
+        { href: '/city/koh-samui/', label: 'Koh Samui guide' },
         { href: '/islands/koh-tao/', label: 'Koh Tao guide' },
         { href: '/islands/koh-chang/', label: 'Koh Chang guide' }
       ]
@@ -152,7 +152,7 @@ const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Arr
       coast: 'Golf van Thailand',
       body: 'Sterker voor reizigers die kiezen tussen het comfort van Samui, de variatie van Phangan, het duiken van Tao of de rustigere eilanden bij Trat. De Golf is vaak de praktischere keuze als je een vaste uitvalsbasis wilt in plaats van snel doorhoppen.',
       routes: [
-        { href: '/islands/koh-samui/', label: 'Koh Samui-gids' },
+        { href: '/city/koh-samui/', label: 'Koh Samui-gids' },
         { href: '/islands/koh-tao/', label: 'Koh Tao-gids' },
         { href: '/islands/koh-chang/', label: 'Koh Chang-gids' }
       ]

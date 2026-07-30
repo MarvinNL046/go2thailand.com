@@ -62,7 +62,7 @@ De Oude Stad en omliggende gebieden herbergen tientallen gespecialiseerde yoga-s
 
 ### Phuket & Zuidelijke Eilanden: Strand Detox Retreats
 
-De zuidelijke regio, vooral [Phuket](https://go2-thailand.com/islands/phuket/) en kleinere eilanden zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) – ook beroemd om de [Full Moon Party](/blog/full-moon-party-koh-phangan-guide-2026/) – specialiseert in strandwellnesservaringen. Deze retreats benadrukken oceaan-gebaseerde genezing, detox-programma's en luxe spa's. De mix van ongerepte stranden, warm weer en hoogwaardige faciliteiten maakt deze regio populair bij internationale wellness-reizigers die meer willen uitgeven voor comfort.
+De zuidelijke regio, vooral [Phuket](https://go2-thailand.com/islands/phuket/) en kleinere eilanden zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) – ook beroemd om de [Full Moon Party](/blog/full-moon-party-koh-phangan-guide-2026/) – specialiseert in strandwellnesservaringen. Deze retreats benadrukken oceaan-gebaseerde genezing, detox-programma's en luxe spa's. De mix van ongerepte stranden, warm weer en hoogwaardige faciliteiten maakt deze regio populair bij internationale wellness-reizigers die meer willen uitgeven voor comfort.
 
 Tijdens ons [eilandhoppen](/blog/thailand-island-hopping-guide/) onderzoek vonden we dat zuidelijke retreats duurder zijn maar superieure voorzieningen bieden – privé strandlocaties, infinity-pools met uitzicht op de Andamanzee en high-end spa's. Veel combineren traditionele Thaise massage met moderne methoden zoals hydrotherapie en voedingsadvies.
 
@@ -159,7 +159,7 @@ Veel reizigers komen speciaal naar Thailand voor Thaise massage, en diverse mass
 
 High-end spa-retreats combineren Thaise massage met internationale spa-behandelingen – gezichtsbehandelingen, scrubs, aromatherapie, hydrotherapie – in luxueuze settings. Deze faciliteiten bieden vaak meerdaagse pakketten met accommodatie, maaltijden en dagelijkse behandelingen. Prijzen variëren van ฿3.000-8.000 per dag, afhankelijk van locatie en voorzieningen.
 
-Tijdens ons onderzoek in [Phuket](/blog/phuket-travel-guide-2026/) en [Koh Samui](/islands/koh-samui/) vonden we dat luxe spa-retreats hun premium prijzen rechtvaardigen met superieure faciliteiten, persoonlijke service en uitgebreide wellness-programma's. Veel includeren voedingsconsulten, fitnesslessen en wellness-coaching naast spa-behandelingen.
+Tijdens ons onderzoek in [Phuket](/blog/phuket-travel-guide-2026/) en [Koh Samui](/city/koh-samui/) vonden we dat luxe spa-retreats hun premium prijzen rechtvaardigen met superieure faciliteiten, persoonlijke service en uitgebreide wellness-programma's. Veel includeren voedingsconsulten, fitnesslessen en wellness-coaching naast spa-behandelingen.
 
 **Vergelijking van spa-retreat opties:**
 

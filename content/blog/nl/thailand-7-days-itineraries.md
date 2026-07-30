@@ -133,9 +133,9 @@ Vliegen naar [Phuket](https://go2-thailand.com/islands/phuket/) (directe vluchte
 
 **Accommodatie:** Budget: 600–1.000 THB/nacht (€17–28); Middenklasse: 1.500–2.500 THB/nacht (€42–70).
 
-### Dagen 3–5: [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)
+### Dagen 3–5: [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)
 
-[Veerboot](https://12go.tpo.lv/tNA80urD) van Phuket naar [Koh Samui](https://go2-thailand.com/islands/koh-samui/) (2 uur, 500–800 THB/€14–22) of [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) (3 uur, 600–900 THB/€17–25). [Koh Samui](https://go2-thailand.com/islands/koh-samui/) is beter ontwikkeld met betere restaurants; [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) is ontspannen met een jongere sfeer.
+[Veerboot](https://12go.tpo.lv/tNA80urD) van Phuket naar [Koh Samui](https://go2-thailand.com/city/koh-samui/) (2 uur, 500–800 THB/€14–22) of [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) (3 uur, 600–900 THB/€17–25). [Koh Samui](https://go2-thailand.com/city/koh-samui/) is beter ontwikkeld met betere restaurants; [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) is ontspannen met een jongere sfeer.
 
 Breng 3 dagen door met snorkelen, duiken of gewoon eilanden verkennen. Bezoek Ang Thong Marine National Park (dagtocht, 1.500–2.000 THB/€42–56). Probeer stand-up paddleboarden of een Thaise massage op het strand (200–400 THB/€6–11).
 
@@ -169,7 +169,7 @@ Als je duiker bent, neem een veerboot naar [Koh Tao](https://go2-thailand.com/is
 **Accommodatie:** Budget: 350–700 THB/nacht (€10–20); Middenklasse: 900–1.500 THB/nacht (€25–42).
 
 - **Duikcertificering:** PADI Open Water duurt 3 dagen en kost 8.000–10.000 THB (€224–280). Zeer aanbevolen als je tijd hebt.
-- **Budget optie:** Sla [Koh Tao](https://go2-thailand.com/islands/koh-tao/) over en breng extra tijd door op [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/).
+- **Budget optie:** Sla [Koh Tao](https://go2-thailand.com/islands/koh-tao/) over en breng extra tijd door op [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/).
 
 > **Wist je dit?** Thailands eilanden maken deel uit van de Andamanzee, die enkele van Zuidoost-Azië's beste koraalriffen en mariene biodiversiteit heeft. Het beste duik- en snorkelseizoen is november–mei wanneer het zicht 20–40 meter is.
 >
@@ -490,7 +490,7 @@ Boek via gerenommeerde platforms (Klook, GetYourGuide, [Viator](https://viator.t
 
 ## Conclusie
 
-Een 7-daagse reis naar Thailand is de perfecte introductie tot dit magische land. Of je nu kiest voor de culturele onderdompeling van [Bangkok](https://go2-thailand.com/city/bangkok/) en [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), het eilandparadijs van [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), of de evenwichtige mix van geschiedenis en cultuur, je zult vertrekken met onvergetelijke herinneringen en een diepe waardering voor Thaise gastvrijheid.
+Een 7-daagse reis naar Thailand is de perfecte introductie tot dit magische land. Of je nu kiest voor de culturele onderdompeling van [Bangkok](https://go2-thailand.com/city/bangkok/) en [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), het eilandparadijs van [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), of de evenwichtige mix van geschiedenis en cultuur, je zult vertrekken met onvergetelijke herinneringen en een diepe waardering voor Thaise gastvrijheid.
 
 Begin vandaag met plannen. Boek je vluchten 2–3 maanden van tevoren, zorg je accommodatie en bereid je voor op een avontuur dat zal veranderen hoe je de wereld ziet. Voor meer gedetailleerde planning, verken onze [complete Thailand itineraria](https://go2-thailand.com/itineraries/) en [stadsgidsen](https://go2-thailand.com/city/).
 

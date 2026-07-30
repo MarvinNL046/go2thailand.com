@@ -31,7 +31,7 @@ Stap een Thais restaurant binnen en je staat voor hetzelfde heerlijke dilemma: w
 | **Welke is het zachtst?** | **Gele curry** (gaeng garee) — het zachtste, met kurkuma en milde kruiden |
 | **Wat is het verschil in smaak?** | Groen is kruidig & fris; rood is fruitig & evenwichtig; geel is aards & warm; Massaman is rijk & nootachtig; Panang is romig & zacht |
 | **Welke bevat kokosmelk?** | Alle vijf bevatten kokosmelk, maar Panang gebruikt het meest (dikkere consistentie) |
-| **Waar is de beste plek om ze te proberen?** | Lokale markten in [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en zuidelijke eilanden zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/) |
+| **Waar is de beste plek om ze te proberen?** | Lokale markten in [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en zuidelijke eilanden zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/) |
 | **Kan ik ze minder scherp bestellen?** | Ja — vraag om "mai pet" (niet scherp) of "pet nit noi" (een beetje scherp) |
 | **Welke past het beste bij rijst?** | Alle vijf passen prachtig bij jasmijnrijst; Panang en Massaman zijn bijzonder rijk |
 
@@ -163,7 +163,7 @@ Massaman curry is zacht tot gemiddeld in scherpte, met de kruiden en pinda's die
 
 ### Regionale Variaties en Beste Plaatsen om te Proberen
 
-Massaman curry is het populairst in zuidelijk Thailand, in het bijzonder in de provincies met aanzienlijke moslimbevolkingen. In [Phuket](https://go2-thailand.com/islands/phuket/) en op de zuidelijke eilanden zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/) is Massaman een basisvoedsel, vaak geserveerd met rundvlees en aardappelen. De beste versies komen van moslim-geleide restaurants en straatkarren, waar het recept door generaties is doorgegeven. De curry moet rijk en aromatisch zijn, met zichtbare pinda's en mals vlees dat met een lepel uit elkaar valt.
+Massaman curry is het populairst in zuidelijk Thailand, in het bijzonder in de provincies met aanzienlijke moslimbevolkingen. In [Phuket](https://go2-thailand.com/islands/phuket/) en op de zuidelijke eilanden zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/) is Massaman een basisvoedsel, vaak geserveerd met rundvlees en aardappelen. De beste versies komen van moslim-geleide restaurants en straatkarren, waar het recept door generaties is doorgegeven. De curry moet rijk en aromatisch zijn, met zichtbare pinda's en mals vlees dat met een lepel uit elkaar valt.
 
 <div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -250,7 +250,7 @@ In onze ervaring is "pet" het standaard Thaise scherpte-niveau—het is wat loka
 
 ## 9. Regionale Curry-Voorkeuren in Thailand
 
-Thaiands geografie en regionale ingrediënten beïnvloeden curry-voorkeuren. In het noorden ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) regio) zijn curries meestal scherper en kruidiger, met groene curry bijzonder populair. Centraal Thailand ([Bangkok](https://go2-thailand.com/city/bangkok/) regio) geeft de voorkeur aan rode en gele curries, die milder en toegankelijker zijn. Zuidelijk Thailand ([Phuket](https://go2-thailand.com/islands/phuket/) en eilanden zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/)) toont Maleisische en moslim-invloeden, wat Massaman en Panang meer gebruikelijk maakt.
+Thaiands geografie en regionale ingrediënten beïnvloeden curry-voorkeuren. In het noorden ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) regio) zijn curries meestal scherper en kruidiger, met groene curry bijzonder populair. Centraal Thailand ([Bangkok](https://go2-thailand.com/city/bangkok/) regio) geeft de voorkeur aan rode en gele curries, die milder en toegankelijker zijn. Zuidelijk Thailand ([Phuket](https://go2-thailand.com/islands/phuket/) en eilanden zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/)) toont Maleisische en moslim-invloeden, wat Massaman en Panang meer gebruikelijk maakt.
 
 In het noordoosten ([Isaan regio](https://go2-thailand.com/region/isaan/)) zijn curries minder centraal in de keuken—lokalen geven de voorkeur aan larb, som tam en gegrild vlees. Toen we door het noordoosten reisden, ontdekten we dat curry minder voorkwam dan in andere regio's, en wanneer het wel voorkwam, was het vaak een vereenvoudigde versie van rode of gele curry. Het begrijpen van deze regionale voorkeuren helpt je zelfverzekerder te bestellen en lokale specialiteiten te ontdekken die je anders zou missen.
 

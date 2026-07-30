@@ -40,7 +40,7 @@ Na drie jaar wonen in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en
 
 **Koh Samui** is het meest ontwikkelde eiland van Thailand en het makkelijkste instapmoment voor honeymoon-koppels die comfort willen zonder romantiek op te offeren. Tijdens ons bezoek in het hoogseizoen vonden we een perfecte balans tussen upscale resorts, wereldklasse restaurants en nog rustige stranden als je buiten Chaweng komt.
 
-Het eiland biedt alles van strandvilla's met privézwembaden tot vijfsterren-spa-ervaringen. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) trekt koppels die luxe infrastructuur willen – uitstekende restaurants, betrouwbare stroom en Engelstalig personeel – zonder de chaos van Bangkok. Voor de reis daarheen, check onze gids over [Bangkok naar Koh Samui](/blog/bangkok-to-koh-samui-guide/).
+Het eiland biedt alles van strandvilla's met privézwembaden tot vijfsterren-spa-ervaringen. [Koh Samui](https://go2-thailand.com/city/koh-samui/) trekt koppels die luxe infrastructuur willen – uitstekende restaurants, betrouwbare stroom en Engelstalig personeel – zonder de chaos van Bangkok. Voor de reis daarheen, check onze gids over [Bangkok naar Koh Samui](/blog/bangkok-to-koh-samui-guide/).
 
 ### Beste resorts & ervaringen
 

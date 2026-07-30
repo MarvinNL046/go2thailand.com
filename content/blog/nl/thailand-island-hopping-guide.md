@@ -53,7 +53,7 @@ De eilanden in de **Golf van Thailand** staan bekend om hun kalme wateren, kokos
 
 Een populaire route in de Golf ziet er zo uit:
 
-1. **Bangkok naar [Koh Samui](/islands/koh-samui/)** – Vlieg direct (1 uur) of neem een nachttrein met ferry vanaf Surat Thani via een [gecombineerd vervoerbiljet](/transport/)
+1. **Bangkok naar [Koh Samui](/city/koh-samui/)** – Vlieg direct (1 uur) of neem een nachttrein met ferry vanaf Surat Thani via een [gecombineerd vervoerbiljet](/transport/)
 2. **Koh Samui naar [Koh Phangan](/islands/koh-phangan/)** – 30 minuten **speedboot** of 1 uur **ferry** (150-350 THB)
 3. **Koh Phangan naar [Koh Tao](/islands/koh-tao/)** – 1,5 uur ferry (350-600 THB)
 4. **Koh Tao terug naar het vasteland** – Nachtboot naar Chumphon, dan trein of bus naar Bangkok
@@ -61,7 +61,7 @@ Een populaire route in de Golf ziet er zo uit:
 **Hoogtepunten van deze route:**
 - Wereldklasse **duiken** op Koh Tao (cursussen vanaf 9.000 THB) – zie onze [beste duik- en snorkelgids](/best-diving-snorkeling-in-thailand/)
 - Full Moon Party op Koh Phangan
-- Luxe resorts en familie-vriendelijke **stranden** op [Koh Samui](/islands/koh-samui/)
+- Luxe resorts en familie-vriendelijke **stranden** op [Koh Samui](/city/koh-samui/)
 - Dagtocht naar Ang Thong National Marine Park
 
 ### De Andaman Route (Westkust)
@@ -81,7 +81,7 @@ Een klassieke Andaman route:
 - Rotsklimmen in Railay vanuit Krabi
 - Snorkeldagtochten naar de Similan Eilanden vanuit [Phuket](/city/phuket/) (november-mei alleen)
 
-> **Pro Tip:** Heb je drie weken of meer? Verbind dan de twee kusten. Neem een **ferry** van Koh Lanta naar Trang, steek over land naar Surat Thani en pak een boot naar [Koh Samui](/islands/koh-samui/). Verschillende [gecombineerde biljetten](/transport/) dekken de hele reis voor rond de 800-1.200 THB.
+> **Pro Tip:** Heb je drie weken of meer? Verbind dan de twee kusten. Neem een **ferry** van Koh Lanta naar Trang, steek over land naar Surat Thani en pak een boot naar [Koh Samui](/city/koh-samui/). Verschillende [gecombineerde biljetten](/transport/) dekken de hele reis voor rond de 800-1.200 THB.
 
 ## 2. Hoe Kom Je Tussen de Eilanden
 
@@ -146,7 +146,7 @@ Licht reizen is cruciaal bij eilandhoppen. **Ferries**, longtails en **speedboat
 Hier is een voorgestelde route die het beste van beide kusten dekt:
 
 - **Dag 1-2:** Aankomst in [Bangkok](/city/bangkok/), ontdek de stad en probeer het [streetfood](/food/)
-- **Dag 3-4:** Vlieg naar [Koh Samui](/islands/koh-samui/), **strand**tijd en dagtocht naar Ang Thong
+- **Dag 3-4:** Vlieg naar [Koh Samui](/city/koh-samui/), **strand**tijd en dagtocht naar Ang Thong
 - **Dag 5-6:** **Ferry** naar [Koh Phangan](/islands/koh-phangan/), verken Bottle Beach
 - **Dag 7-8:** Ferry naar [Koh Tao](/islands/koh-tao/), **duiken** of **snorkelen**
 - **Dag 9:** Ferry naar Chumphon, vlieg naar [Phuket](/city/phuket/)

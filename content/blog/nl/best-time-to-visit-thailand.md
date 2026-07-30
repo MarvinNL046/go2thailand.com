@@ -34,7 +34,7 @@ Het korte antwoord: **november tot en met februari** is het **hoogseizoen** met 
 |-------|----------|
 | Wat is de **beste reistijd voor Thailand** over het algemeen? | **November tot februari** tijdens het **koele seizoen** -- perfect weer, lage luchtvochtigheid en ideaal voor [eilandhoppen](/blog/thailand-island-hopping-guide/) en steden verkennen |
 | Wanneer is de goedkoopste tijd om te gaan? | **Juni tot oktober** tijdens het **regenseizoen** biedt de laagste prijzen voor vluchten, hotels en tours -- zie onze [backpacker budgetgids](/nl/thailand-index/budget/) |
-| Kun je tijdens de **moesson** nog naar de eilanden? | Ja -- de **Golfeilanden** zoals [Koh Samui](/islands/koh-samui/) en [Koh Tao](/islands/koh-tao/) hebben rustiger weer wanneer de Andaman-kust nat is |
+| Kun je tijdens de **moesson** nog naar de eilanden? | Ja -- de **Golfeilanden** zoals [Koh Samui](/city/koh-samui/) en [Koh Tao](/islands/koh-tao/) hebben rustiger weer wanneer de Andaman-kust nat is |
 | Wanneer is het **beste eilandhop-seizoen**? | **December tot april** voor de Andamanse Zee ([Koh Phi Phi](/islands/koh-phi-phi/), [Koh Lanta](/islands/koh-lanta/), [Koh Lipe](/islands/koh-lipe/)); **januari tot augustus** voor de Golf -- ontdek alle [eilanden](/islands/) |
 | Wanneer zijn de grote festivals? | **Songkran** (Thais Nieuwjaar) in april en **Loy Krathong** (drijvende lantaarns) in november -- beide worden landsbreed gevierd, onder meer in [Bangkok](/city/bangkok/) en [Chiang Mai](/city/chiang-mai/) |
 | Heb ik een visum nodig? | De meeste nationaliteiten krijgen 60 dagen visumvrij; check onze [Thailand visumgids](/blog/thailand-visa-guide-2026/) voor alle details |
@@ -49,7 +49,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 - De luchtvochtigheid is hoog en de hitte kan uitputtend zijn, vooral in [Bangkok](/city/bangkok/)
 - Minder toeristen en betere hoteldeals
 - **Songkran** (Thais Nieuwjaar-waterfeest) in april is een groot hoogtepunt -- het grootste festival van het land
-- Uitstekende tijd voor **Golfkust**-stranden zoals [Koh Samui](/islands/koh-samui/) en [Koh Phangan](/islands/koh-phangan/)
+- Uitstekende tijd voor **Golfkust**-stranden zoals [Koh Samui](/city/koh-samui/) en [Koh Phangan](/islands/koh-phangan/)
 - Blijf onderweg verbonden met een [Thailand eSIM](/esim/) -- geen gezoek naar SIM-kaartwinkels in de hitte
 
 ### Regenseizoen (juni - oktober)
@@ -84,7 +84,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 
 ### Maart
 **Weer:** Het **hete seizoen** begint. Temperaturen stijgen naar 33-37 graden.
-**Ideaal voor:** Noord-Thailand voordat het te heet wordt, Golfeilanden zoals [Koh Samui](/islands/koh-samui/) en [Koh Tao](/islands/koh-tao/)
+**Ideaal voor:** Noord-Thailand voordat het te heet wordt, Golfeilanden zoals [Koh Samui](/city/koh-samui/) en [Koh Tao](/islands/koh-tao/)
 **Drukte:** Tussenseizoen -- prijzen beginnen te dalen
 **Evenementen:** Makha Bucha Dag (boeddhistische feestdag, exacte datum varieert)
 
@@ -98,7 +98,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 
 ### Mei
 **Weer:** Het **regenseizoen** begint aan de Andaman-kust. De Golfkust is nog grotendeels droog.
-**Ideaal voor:** [Koh Samui](/islands/koh-samui/), [Koh Tao](/islands/koh-tao/), [Koh Phangan](/islands/koh-phangan/)
+**Ideaal voor:** [Koh Samui](/city/koh-samui/), [Koh Tao](/islands/koh-tao/), [Koh Phangan](/islands/koh-phangan/)
 **Drukte:** Laagseizoen begint -- overal geweldige deals
 **Evenementen:** Visakha Bucha Dag (verjaardag van Boeddha, heiligste boeddhistische feestdag)
 
@@ -116,7 +116,7 @@ Thailand heeft niet de vier seizoenen die je gewend bent. In plaats daarvan is h
 
 ### Augustus
 **Weer:** Vergelijkbaar met juli. Zware regen aan de Andaman-kust; Golfkust is beter.
-**Ideaal voor:** [Koh Samui](/islands/koh-samui/) en Golfeilanden, [Chiang Mai](/city/chiang-mai/) (groen en weelderig)
+**Ideaal voor:** [Koh Samui](/city/koh-samui/) en Golfeilanden, [Chiang Mai](/city/chiang-mai/) (groen en weelderig)
 **Drukte:** Laagseizoen. Uitstekende waarde.
 **Evenementen:** Verjaardag van de Koningin / Moederdag (12 augustus)
 
@@ -152,7 +152,7 @@ Het [weer](/weather/) in Thailand is niet overal hetzelfde. Zo verhouden de regi
 |-------|--------------|-----------|
 | [Bangkok](/city/bangkok/) & Centraal | Nov - Feb | Apr (extreme hitte) |
 | Noord ([Chiang Mai](/city/chiang-mai/), Chiang Rai) | Nov - Feb | Mrt - Apr (smogseizoen) |
-| Golfkust ([Koh Samui](/islands/koh-samui/), [Koh Phangan](/islands/koh-phangan/), [Koh Tao](/islands/koh-tao/)) | Jan - Aug | Okt - Nov (stormen) |
+| Golfkust ([Koh Samui](/city/koh-samui/), [Koh Phangan](/islands/koh-phangan/), [Koh Tao](/islands/koh-tao/)) | Jan - Aug | Okt - Nov (stormen) |
 | Andaman-kust ([Phuket](/city/phuket/), [Koh Phi Phi](/islands/koh-phi-phi/), [Krabi](/city/krabi/), [Koh Lanta](/islands/koh-lanta/)) | Nov - Apr | Mei - Okt (**moesson**) |
 
 De belangrijkste conclusie: **de Golf- en Andaman-kust hebben tegenovergestelde seizoenen**. Als het aan de ene kant regent, is de andere kant vaak droog. Dit betekent dat er vrijwel altijd een goede strandbestemming in Thailand is, ongeacht wanneer je reist. Bekijk al onze [eilandgidsen](/islands/) om de juiste match voor jouw reisdata te vinden.

@@ -122,7 +122,7 @@ Directe vluchten van Bangkok naar Phuket duren ongeveer 1 uur en kosten 1.500–
 ### Per veerboot en bus
 
 Als je eilanden aan het huppelen bent, verbinden veerbooten Phuket met nabijgelegen eilanden:
-- Phuket naar [Koh Samui](https://go2-thailand.com/islands/koh-samui/): 2,5–3 uur, 600–1.200 THB ($16–$32)
+- Phuket naar [Koh Samui](https://go2-thailand.com/city/koh-samui/): 2,5–3 uur, 600–1.200 THB ($16–$32)
 - Phuket naar [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/): 1,5–2 uur, 400–800 THB ($11–$21)
 - Phuket naar [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/): 3–4 uur, 800–1.500 THB ($21–$40)
 
@@ -472,7 +472,7 @@ Ja, Phuket is veilig voor solo reizigers, vooral vrouwen. Hou je aan goed bereik
 
 ### Hoe vergelijkt Phuket met andere Thaise eilanden?
 
-Phuket is het meest ontwikkeld en toeristisch. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) is vergelijkbaar maar iets minder druk. [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is goedkoper en meer ontspannen. [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) biedt het beste waarde en authenticiteit.
+Phuket is het meest ontwikkeld en toeristisch. [Koh Samui](https://go2-thailand.com/city/koh-samui/) is vergelijkbaar maar iets minder druk. [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is goedkoper en meer ontspannen. [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) biedt het beste waarde en authenticiteit.
 
 ### Kan ik Phuket bezoeken tijdens moesson seizoen?
 

@@ -36,7 +36,7 @@ Terwijl miljoenen toeristen jaarlijks naar bekende plekken als Phuket en Pattaya
 
 ## 1. Koh Mak — het rustige eilandalternatief
 
-Koh Mak ligt in de oostelijke Golf, slechts 40 kilometer van de Cambodjaanse grens, en is een van Thailand's meest ondergewaardeerde eilanden. Anders dan [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) heeft dit eiland zich verzet tegen overontwikkeling — geen jetski's, geen nachtclubs en geen hordes dronken toeristen. Tijdens ons bezoek in februari vonden we ongerepte stranden, een authentieke vissersgemeenschap en locals die oprecht blij waren met bezoek.
+Koh Mak ligt in de oostelijke Golf, slechts 40 kilometer van de Cambodjaanse grens, en is een van Thailand's meest ondergewaardeerde eilanden. Anders dan [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) heeft dit eiland zich verzet tegen overontwikkeling — geen jetski's, geen nachtclubs en geen hordes dronken toeristen. Tijdens ons bezoek in februari vonden we ongerepte stranden, een authentieke vissersgemeenschap en locals die oprecht blij waren met bezoek.
 
 ### De authentieke charme van het eiland
 

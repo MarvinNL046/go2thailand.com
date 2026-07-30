@@ -59,7 +59,7 @@ Deze includeren vluchten met low-cost carriers, 3-sterren hotels, luchthaven-tra
 
 ### Middenklasse Pakketten (€1.390–€2.320 voor 7–14 dagen)
 
-De sweet spot voor de meeste reizigers. Verwacht 4-sterren hotels, geplande vluchten, privé-transfers, meerdere guided tours en diverse inbegrepen maaltijden. Pakketten op dit niveau dekken vaak meerdere bestemmingen — een populaire route is [Bangkok](https://go2-thailand.com/city/bangkok/) naar [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) naar een zuidelijk eiland als [Phuket](https://go2-thailand.com/islands/phuket/) of [Koh Samui](https://go2-thailand.com/islands/koh-samui/). Intrepid Travel en G Adventures bieden goed beoordeelde groepsreizen in deze range.
+De sweet spot voor de meeste reizigers. Verwacht 4-sterren hotels, geplande vluchten, privé-transfers, meerdere guided tours en diverse inbegrepen maaltijden. Pakketten op dit niveau dekken vaak meerdere bestemmingen — een populaire route is [Bangkok](https://go2-thailand.com/city/bangkok/) naar [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) naar een zuidelijk eiland als [Phuket](https://go2-thailand.com/islands/phuket/) of [Koh Samui](https://go2-thailand.com/city/koh-samui/). Intrepid Travel en G Adventures bieden goed beoordeelde groepsreizen in deze range.
 
 ### Luxepakketten (€2.780+ voor 7–14 dagen)
 
@@ -67,7 +67,7 @@ Vijfsterren resorts, privé-gidsen, binnenlandse vluchten tussen bestemmingen, s
 
 ### All-Inclusive Resort Pakketten (€1.390–€4.630+)
 
-Een apart category. Deze richten zich op één resort — meestal in Phuket, [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) — met alle maaltijden, drankjes en onsite-activiteiten. Ideaal voor ontspannen trips, maar je ziet weinig van Thailand buiten het resort.
+Een apart category. Deze richten zich op één resort — meestal in Phuket, [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) — met alle maaltijden, drankjes en onsite-activiteiten. Ideaal voor ontspannen trips, maar je ziet weinig van Thailand buiten het resort.
 
 ## Rondreizen vs. Zelfstandig Reizen: Eerlijke Vergelijking
 

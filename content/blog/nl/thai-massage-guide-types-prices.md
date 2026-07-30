@@ -261,7 +261,7 @@ Chiang Mai is ook een van de [goedkoopste steden ter wereld voor digital nomads 
 
 ### Phuket & Eilandbestemmingen
 
-[Phuket](https://go2-thailand.com/islands/phuket/) en andere strand eilanden ([Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)) hebben volop massage-opties, maar prijzen zijn hoger dan in het binnenland door toerisme. Je vindt alles van strandspa-resorts tot kleine klinieken in stadscentra.
+[Phuket](https://go2-thailand.com/islands/phuket/) en andere strand eilanden ([Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)) hebben volop massage-opties, maar prijzen zijn hoger dan in het binnenland door toerisme. Je vindt alles van strandspa-resorts tot kleine klinieken in stadscentra.
 
 Eilandmassages zijn handig als je in een resort verblijft, en veel spas bieden strandbehandelingen. Kwaliteit varieert echter sterk, en je betaalt een premium voor de locatie. We raden aan te boeken via je hotel of locals te vragen om aanbevelingen in plaats van zomaar een winkel binnen te lopen. Als je een [Phuket reis](/blog/phuket-travel-guide-2026/) plant, check onze gids voor geselecteerde spa-opties, of bekijk [Koh Samui hotels](/best-hotels/koh-samui/) voor resorts met onsite spas.
 

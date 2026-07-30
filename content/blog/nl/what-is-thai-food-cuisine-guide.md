@@ -86,7 +86,7 @@ Isaan koken bevat **fermenteerde vis (pla ra)**, plakkerige rijst en royaal gebr
 
 **Zuid-Thaise gerechten** zijn de pittigste en meest intense van de vier regio's. Gelegen tussen de Andamanzee en de Golf van Thailand, heeft het zuiden overvloed aan **zeevruchten** en sterke invloeden van **Maleise en islamitische culinaire tradities**. Kurkuma, gedroogde specerijen en dunne, bouillon-gebaseerde curries zijn kenmerken.
 
-Uitblinkers zijn **Gaeng Tai Pla** (een verwoestend pittige curry van gefermenteerde vis-ingewanden), **Gaeng Som** (een zure curry vaak met vis) en **Kua Kling** (drooggebakken gehakt met intense pepersaus). De zuidelijke eilanden en stranddorpen zoals op [Phuket](/islands/phuket/) en [Koh Samui](/islands/koh-samui/) bieden zowel authentieke zuidelijke fare als toeristvriendelijke versies. Plan je een reis naar het zuiden? Bekijk onze [Thailand eilandhoppen gids](/blog/thailand-island-hopping-guide/) voor routeplanning – ideaal tijdens het droge seizoen van december tot april, als de regen beperkt blijft.
+Uitblinkers zijn **Gaeng Tai Pla** (een verwoestend pittige curry van gefermenteerde vis-ingewanden), **Gaeng Som** (een zure curry vaak met vis) en **Kua Kling** (drooggebakken gehakt met intense pepersaus). De zuidelijke eilanden en stranddorpen zoals op [Phuket](/islands/phuket/) en [Koh Samui](/city/koh-samui/) bieden zowel authentieke zuidelijke fare als toeristvriendelijke versies. Plan je een reis naar het zuiden? Bekijk onze [Thailand eilandhoppen gids](/blog/thailand-island-hopping-guide/) voor routeplanning – ideaal tijdens het droge seizoen van december tot april, als de regen beperkt blijft.
 
 ## Essentiële Thaise ingrediënten
 

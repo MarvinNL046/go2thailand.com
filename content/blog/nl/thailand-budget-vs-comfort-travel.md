@@ -96,7 +96,7 @@ Dit is het zoete punt voor de meeste reizigers. Een goed middenklasse hotel bied
 
 ### Luxeaccommodatie (฿2.000+ / €57+)
 
-High-end resorts en boetiekhotels bieden écht goede waarde vergeleken met westerse luxe. Een resort van ฿3.000–5.000 (€86–143) in [Phuket](https://go2-thailand.com/city/phuket/) of [Koh Samui](https://go2-thailand.com/islands/koh-samui/) geeft wereldklasse service, privé zwembaden en strandlocaties die driemaal zo duur zouden zijn in Europa. Bekijk onze [goedkoopste vs duurste hotelvergelijking in Bangkok](https://go2-thailand.com/blog/cheapest-vs-most-expensive-hotel-bangkok/) voor een praktisch voorbeeld.
+High-end resorts en boetiekhotels bieden écht goede waarde vergeleken met westerse luxe. Een resort van ฿3.000–5.000 (€86–143) in [Phuket](https://go2-thailand.com/city/phuket/) of [Koh Samui](https://go2-thailand.com/city/koh-samui/) geeft wereldklasse service, privé zwembaden en strandlocaties die driemaal zo duur zouden zijn in Europa. Bekijk onze [goedkoopste vs duurste hotelvergelijking in Bangkok](https://go2-thailand.com/blog/cheapest-vs-most-expensive-hotel-bangkok/) voor een praktisch voorbeeld.
 
 | Accommodatietype | Budget | Middenklasse | Luxe |
 |------------------|--------|--------------|------|
@@ -155,7 +155,7 @@ Dezelfde pad Thai kost ฿150–200 in een restaurant op Khao San Road of in toe
 
 **Specialistenrestaurants:** Bangkok heeft wereldklasse Thaise fine dining. Een maaltijd in een Michelin-aangeraden restaurant kost ฿800–1.500 (€23–43) – duur voor Thaise begrippen, maar goedkoop voor de kwaliteit.
 
-**Verse zeevruchten op eilanden:** Op [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) is ฿400–800 splurgen op gegrilde vis aan het strand een ervaring waard.
+**Verse zeevruchten op eilanden:** Op [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) is ฿400–800 splurgen op gegrilde vis aan het strand een ervaring waard.
 
 > **Wist je dat?** Straatvoedsel in Thailand is veiliger dan in veel westerse landen. Verkopers hebben hoge omloop door volume, dus ingrediënten zijn verser. De tip: eet waar het druk is en heet eten voor je wordt klaargemaakt.
 >
@@ -395,7 +395,7 @@ Na 3+ jaar in Thailand, hier de strategieën die écht werken:
 
 **Koop een [Thailand eSIM](https://go2-thailand.com/esim/) vóór aankomst.** Lokale SIM's werken, maar een eSIM geeft directe connectie zonder winkeljacht. Budget ฿300–500 voor data.
 
-**Sla toeristische eilanden initially over.** [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) zijn duur. Begin met [Koh Tao](https://go2-thailand.com/islands/koh-tao/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) – even mooi, 40% goedkoper.
+**Sla toeristische eilanden initially over.** [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) zijn duur. Begin met [Koh Tao](https://go2-thailand.com/islands/koh-tao/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) – even mooi, 40% goedkoper.
 
 **Gebruik openbaar vervoer.** Bussen en treinen zijn goedkoop en authentiek. Een [slaaptrein Bangkok-Chiang Mai](https://go2-thailand.com/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) kost ฿800–1.500 en is een ervaring op zich. Voor Bangkok zelf: gebruik de [BTS/MRT](https://go2-thailand.com/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
 
@@ -432,7 +432,7 @@ De kosten in Thailand variëren enorm per locatie. Deze verschillen begrijpen he
 
 ### Eilanden (variabel)
 
-[Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Phuket](https://go2-thailand.com/city/phuket/) zijn duur (฿1.500–2.500 per dag voor middenklasse). [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) zijn goedkoper (฿1.000–1.500). [Koh Chang](https://go2-thailand.com/islands/koh-chang/) en [Koh Mak](https://go2-thailand.com/islands/koh-mak/) zijn budgetvriendelijk (฿800–1.200).
+[Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Phuket](https://go2-thailand.com/city/phuket/) zijn duur (฿1.500–2.500 per dag voor middenklasse). [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) zijn goedkoper (฿1.000–1.500). [Koh Chang](https://go2-thailand.com/islands/koh-chang/) en [Koh Mak](https://go2-thailand.com/islands/koh-mak/) zijn budgetvriendelijk (฿800–1.200).
 
 ## 10. De echte splurges: Wat écht telt
 

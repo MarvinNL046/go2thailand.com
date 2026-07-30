@@ -106,7 +106,7 @@ De fout: aankomen met een vast budget en het allemaal in [Bangkok](https://go2-t
 
 Dit is de #1 fout die we zien tijdens het hoogseizoen (november-februari). Reizigers gaan ervan uit dat ze "iets zullen vinden als ze aankomen", om dan te ontdekken dat hotels volledig geboekt zijn en prijzen zijn verdubbeld.
 
-Tijdens het hoogseizoen raken populaire gastenverblijven in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en [Koh Samui](https://go2-thailand.com/islands/koh-samui/) 2-4 weken van tevoren vol. Prijzen stijgen 40-60% naarmate de beschikbaarheid afneemt. We hebben reizigers zien betalen 3.500 THB voor een kamer die in het laagseizoen 2.000 THB kost—simpelweg omdat ze wachtten.
+Tijdens het hoogseizoen raken populaire gastenverblijven in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en [Koh Samui](https://go2-thailand.com/city/koh-samui/) 2-4 weken van tevoren vol. Prijzen stijgen 40-60% naarmate de beschikbaarheid afneemt. We hebben reizigers zien betalen 3.500 THB voor een kamer die in het laagseizoen 2.000 THB kost—simpelweg omdat ze wachtten.
 
 ### Wanneer Te Boeken (Tijdlijn)
 
@@ -188,7 +188,7 @@ Vermijd luchthavenwissels volledig. Als je geld moet wisselen, doe het bij een b
 
 Nachtelijke treinen en lange-afstandsbussen raken weken van tevoren vol tijdens vakanties. We hebben reizigers zien aankomen in [Bangkok](https://go2-thailand.com/city/bangkok/) op 20 december en verwachten dezelfde avond een [trein naar](https://trip.tpo.lv/gNIdNBmi) [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) te nemen—alleen om te ontdekken dat alles tot 5 januari uitverkocht is.
 
-De State Railway of Thailand exploiteert nachtelijke treinen op populaire routes. Deze zijn comfortabel, goedkoop (400-1.500 THB voor een slaapplaats) en raken snel vol. Lange-afstandsbussen zijn vergelijkbaar—VIP-bussen naar [Phuket](https://go2-thailand.com/islands/phuket/) of [Koh Samui](https://go2-thailand.com/islands/koh-samui/) raken weken van tevoren vol tijdens vakanties.
+De State Railway of Thailand exploiteert nachtelijke treinen op populaire routes. Deze zijn comfortabel, goedkoop (400-1.500 THB voor een slaapplaats) en raken snel vol. Lange-afstandsbussen zijn vergelijkbaar—VIP-bussen naar [Phuket](https://go2-thailand.com/islands/phuket/) of [Koh Samui](https://go2-thailand.com/city/koh-samui/) raken weken van tevoren vol tijdens vakanties.
 
 ### Vervoerboekingstijdlijn
 

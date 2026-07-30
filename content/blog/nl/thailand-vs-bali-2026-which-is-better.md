@@ -100,7 +100,7 @@ Hier verschillen de twee bestemmingen het meest. Beide hebben prachtige kustlijn
 
 **Thailand** biedt ongeëvenaarde variatie. In onze drie jaar in het zuiden hebben we alles meegemaakt, van feestparadijs [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) tot serene [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/). Het land heeft meer dan 1.400 eilanden—je kunt wekenlang eiland-hoppen zonder herhaling.
 
-- **Feest eilanden**: [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)—full moon parties, nachtleven, jonge menigte
+- **Feest eilanden**: [Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)—full moon parties, nachtleven, jonge menigte
 - **Duikbestemmingen**: [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (wereldklasse duiktraining, €230–320 voor PADI-certificaat), [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)
 - **Rustige retraites**: [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), [Koh Mak](https://go2-thailand.com/islands/koh-mak/)—minimaal ontwikkeld, ongerept water
 - **Stranddorpen**: [Phuket](https://go2-thailand.com/islands/phuket/) voor infrastructuur, Krabi voor kalksteenkliffen

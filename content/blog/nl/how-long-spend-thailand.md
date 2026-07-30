@@ -53,7 +53,7 @@ Vijf dagen is genoeg om verliefd te worden op Thailand, maar niet om het echt te
 Een week biedt echte opties. De klassieke verdeling is drie dagen in Bangkok plus vier dagen in één andere regio. Je hebt twee hoofdmogelijkheden:
 
 **Optie A: Bangkok + Strand (Zuiden)**
-Vlieg van Bangkok naar [Phuket](https://go2-thailand.com/blog/is-phuket-worth-visiting-2026-honest-guide/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) of [Koh Samui](https://go2-thailand.com/islands/koh-samui/). Breng je stranddagen door met snorkelen, eilandhoppen of gewoon niksdoen. Dit is de beste keuze als ontspanning prioriteit heeft, vooral na een lange vlucht vanuit Nederland.
+Vlieg van Bangkok naar [Phuket](https://go2-thailand.com/blog/is-phuket-worth-visiting-2026-honest-guide/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) of [Koh Samui](https://go2-thailand.com/city/koh-samui/). Breng je stranddagen door met snorkelen, eilandhoppen of gewoon niksdoen. Dit is de beste keuze als ontspanning prioriteit heeft, vooral na een lange vlucht vanuit Nederland.
 
 **Optie B: Bangkok + Chiang Mai (Noorden)**
 Vlieg naar [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) voor tempels, [kookcursussen](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/), nachtmarkten en een dagtrip naar Doi Inthanon of een [ethische olifantensanctuary](https://go2-thailand.com/blog/ethical-elephant-sanctuaries-thailand-2026-guide/). Dit is beter als je meer geïnteresseerd bent in cultuur en eten dan in stranden — en veiliger voor families.

@@ -31,7 +31,7 @@ Op het kruispunt van twee van de populairste landen in Zuidoost-Azië staan duiz
 | **Hoe kom ik er?** | **Thailand**: [Vlucht naar](https://trip.tpo.lv/TmObooZ5) Bangkok of Phuket, met directe KLM-vluchten vanaf Schiphol. **Vietnam**: Vlucht naar Hanoi of Ho Chi Minhstad. Beide hebben grote internationale hubs. |
 | **Is het veilig?** | Beide zijn veilig voor toeristen. Thailand: kleine diefstallen in toeristengebieden. Vietnam: chaotisch verkeer; zakkenrollers in Hanoi. Gebruik je gezond verstand in beide. |
 | **Wat moet ik van tevoren boeken?** | **Thailand**: Hotels in het hoogseizoen (nov–feb), binnenlandse vluchten. **Vietnam**: Treintickets (Hanoi–HCMC), populaire tours. |
-| **Welk land is beter voor stranden?** | **Thailand**: Superieure eilanden ([Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)), schoner water. **Vietnam**: Phu Quoc, Ha Longbaai – mooi maar drukker. |
+| **Welk land is beter voor stranden?** | **Thailand**: Superieure eilanden ([Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)), schoner water. **Vietnam**: Phu Quoc, Ha Longbaai – mooi maar drukker. |
 | **Welk land is beter voor cultuur?** | **Vietnam**: Sterkere koloniale geschiedenis, authentieker straatleven. **Thailand**: Oude tempels, spirituele ervaringen, soepelere toeristeninfrastructuur. |
 
 ---
@@ -91,7 +91,7 @@ Beide landen hebben duidelijke seizoenen, maar 2026 biedt uitstekende periodes o
 
 ### Ideaal Seizoen voor Thailand
 
-**Het koele en droge seizoen in Thailand loopt van november tot februari** – absoluut het hoogtepunt voor toerisme. Tijdens ons novemberbezoek aan [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) lagen de temperaturen rond 20–25°C (68–77°F) in het noorden, met heldere luchten en nul regen. Zuidelijke eilanden zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) zijn even perfect, met kalme zeeën ideaal voor duiken en [snorkelen](https://klook.tpo.lv/7Dt6WApj).
+**Het koele en droge seizoen in Thailand loopt van november tot februari** – absoluut het hoogtepunt voor toerisme. Tijdens ons novemberbezoek aan [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) lagen de temperaturen rond 20–25°C (68–77°F) in het noorden, met heldere luchten en nul regen. Zuidelijke eilanden zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) zijn even perfect, met kalme zeeën ideaal voor duiken en [snorkelen](https://klook.tpo.lv/7Dt6WApj).
 
 Van maart tot mei brengt intense hitte (35–40°C / 95–104°F) en het begin van het regenseizoen in mei. September en oktober zijn de natste maanden, maar prijzen dalen flink en drukte verdwijnt. Onze [gids voor de beste reistijd in Thailand](/blog/best-time-to-visit-thailand/) gaat hier dieper op in.
 
@@ -275,7 +275,7 @@ Beide landen pronken met spectaculaire kustlijnen, maar kwaliteit en toegankelij
 </div>
 
 
-De eilanden van Thailand zijn **wereldklasse en goed ontwikkeld**. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) biedt luxe resorts en nachtleven; [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is de duikhoofdstad; [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) levert dramatische kalksteenkliffen en turkoois water. Bekijk onze volledige [Thailand eilandhopgids](/blog/thailand-island-hopping-guide/) voor route-ideeën. De zuidelijke eilanden hebben het hele jaar kalm, warm water (behalve mei–oktober moesson).
+De eilanden van Thailand zijn **wereldklasse en goed ontwikkeld**. [Koh Samui](https://go2-thailand.com/city/koh-samui/) biedt luxe resorts en nachtleven; [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is de duikhoofdstad; [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) levert dramatische kalksteenkliffen en turkoois water. Bekijk onze volledige [Thailand eilandhopgids](/blog/thailand-island-hopping-guide/) voor route-ideeën. De zuidelijke eilanden hebben het hele jaar kalm, warm water (behalve mei–oktober moesson).
 
 **Beste stranden in Thailand:**
 - **Railay Beach, Krabi**: Dramatisch kalksteenachtergrond, alleen per boot bereikbaar, ongerept zand (฿50–100 boottocht vanuit Ao Nang)
@@ -414,7 +414,7 @@ Accommodatiekwaliteit varieert sterk tussen de twee landen voor dezelfde prijs.
 
 Accommodatie in Thailand is **goed ontwikkeld en betrouwbaar**. Een budget guesthouse in Bangkok kost ฿300–500 (€8–14) en is meestal schoon, met eigen badkamer en ventilator of airco. Middenklasse hotels (฿600–1.200 / €17–33) bieden airco, warm water en redelijke voorzieningen.
 
-In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) liggen prijzen merkbaar lager: een fijn middenklasse hotel kost ฿400–700 (€11–19). Op eilanden is het duurder: middenklasse hotels op [Koh Samui](https://go2-thailand.com/islands/koh-samui/) kosten ฿800–1.500 (€22–42).
+In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) liggen prijzen merkbaar lager: een fijn middenklasse hotel kost ฿400–700 (€11–19). Op eilanden is het duurder: middenklasse hotels op [Koh Samui](https://go2-thailand.com/city/koh-samui/) kosten ฿800–1.500 (€22–42).
 
 **Accommodatietypes in Thailand:**
 - **Budget guesthouses**: ฿200–400/nacht (€6–11)

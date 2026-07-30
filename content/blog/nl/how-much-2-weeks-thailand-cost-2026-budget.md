@@ -108,7 +108,7 @@ Accommodatie is vaak de grootste uitgave, maar Thailand biedt een enorme variët
 
 ### Middenklasse accommodatie-opties
 
-**3-sterren hotels en middenklasse resorts** kosten **฿800–1.500 per nacht**. Dit omvat privé badkamers, airco, ontbijt en vaak een zwembad of gym. Op eilanden zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) liggen de prijzen aan de hogere kant tijdens het hoogseizoen. Bekijk de [beste hotels in Chiang Mai](https://go2-thailand.com/best-hotels/chiang-mai/) of [beste hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/) voor opties in elk prijssegment.
+**3-sterren hotels en middenklasse resorts** kosten **฿800–1.500 per nacht**. Dit omvat privé badkamers, airco, ontbijt en vaak een zwembad of gym. Op eilanden zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/) of in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) liggen de prijzen aan de hogere kant tijdens het hoogseizoen. Bekijk de [beste hotels in Chiang Mai](https://go2-thailand.com/best-hotels/chiang-mai/) of [beste hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/) voor opties in elk prijssegment.
 
 **Boutique guesthouses** (฿600–1.000) bieden karakter en lokale gastvrijheid zonder het corporate gevoel.
 

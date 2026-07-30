@@ -56,7 +56,7 @@ Vermijd mei tot en met oktober helemaal als je met jonge kinderen reist. Dit is 
 
 **Voor eerste bezoekers met kinderen, plan minimaal 10–14 dagen.** Dit geeft tijd om te wennen aan het klimaat en de tijdzone (jetlag met jonge kinderen is echt), 2–3 regio's te verkennen zonder haast, en rustdagen in te bouwen. We hebben gemerkt dat families die Thailand in 5–7 dagen proppen uitgeput raken en de langzamere, betekenisvollere ervaringen missen.
 
-Een realistisch 10-daags schema zou er zo uit kunnen zien: 3 dagen in [Bangkok](https://go2-thailand.com/city/bangkok/), 4 dagen in het noorden ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) of [Chiang Rai](https://go2-thailand.com/destinations/chiang-rai/)), en 3 dagen op een eiland zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/). Dit geeft kinderen tijd om te wennen aan activiteiten zonder constante beweging.
+Een realistisch 10-daags schema zou er zo uit kunnen zien: 3 dagen in [Bangkok](https://go2-thailand.com/city/bangkok/), 4 dagen in het noorden ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) of [Chiang Rai](https://go2-thailand.com/destinations/chiang-rai/)), en 3 dagen op een eiland zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/). Dit geeft kinderen tijd om te wennen aan activiteiten zonder constante beweging.
 
 ### Boekstrategie
 
@@ -164,7 +164,7 @@ Het juiste accommodatie kiezen maakt familie reizen oneindig makkelijker. We heb
 
 **In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/):** De Oude Stad is charmant maar kan lawaaierig zijn. Nimman is rustiger, met cafés en winkels. Riviergebieden zijn vredig. De meeste attracties liggen binnen 15–20 minuten met [songthaew](https://12go.tpo.lv/tNA80urD) (gedeelde taxi).
 
-**Op eilanden:** Stranddorpen zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Phuket](https://go2-thailand.com/islands/phuket/) hebben familie resorts. Rustigere eilanden zoals [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) en [Koh Mak](https://go2-thailand.com/islands/koh-mak/) zijn beter voor families die rust zoeken.
+**Op eilanden:** Stranddorpen zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Phuket](https://go2-thailand.com/islands/phuket/) hebben familie resorts. Rustigere eilanden zoals [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) en [Koh Mak](https://go2-thailand.com/islands/koh-mak/) zijn beter voor families die rust zoeken.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -259,9 +259,9 @@ Thailand biedt veel meer dan tempels en stranden voor families. De beste activit
 
 ### Wateractiviteiten
 
-**[Snorkelen](https://klook.tpo.lv/7Dt6WApj) en duiken** zijn uitstekend voor kinderen vanaf 6 jaar. [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is beroemd om duikcertificaten, maar [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) bieden makkelijkere snorkeltochten met minder stroming. Een typische snorkeltrip kost 1.500–2.500 THB (€39–64) per persoon en inkluder lunch en uitrusting.
+**[Snorkelen](https://klook.tpo.lv/7Dt6WApj) en duiken** zijn uitstekend voor kinderen vanaf 6 jaar. [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is beroemd om duikcertificaten, maar [Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) bieden makkelijkere snorkeltochten met minder stroming. Een typische snorkeltrip kost 1.500–2.500 THB (€39–64) per persoon en inkluder lunch en uitrusting.
 
-**Stranddagen** zijn gratis of goedkoop (parkeren 20–50 THB). [Koh Samui](https://go2-thailand.com/islands/koh-samui/) heeft kalme, familie-vriendelijke stranden; [Phuket](https://go2-thailand.com/islands/phuket/) heeft meer faciliteiten maar is drukker.
+**Stranddagen** zijn gratis of goedkoop (parkeren 20–50 THB). [Koh Samui](https://go2-thailand.com/city/koh-samui/) heeft kalme, familie-vriendelijke stranden; [Phuket](https://go2-thailand.com/islands/phuket/) heeft meer faciliteiten maar is drukker.
 
 ### Culturele & Educatieve Activiteiten
 
@@ -303,7 +303,7 @@ Voor regenachtige dagen of hittebreaks:
 - **Chiang Mai Night Bazaar:** Winkelen en straeteet; gratis te verkennen.
 - **THAINOSAUR Museum:** Bangkok's nieuwe [dinosaurus- en fossielenmuseum](/blog/thainosaur-museum-bangkok-dinosaur-attraction-2026/) is perfect voor nieuwsgierige kinderen van 5–14 jaar.
 - **Wetenschapsmusea:** [Bangkok](https://go2-thailand.com/city/bangkok/) heeft interactieve wetenschapscentra (entree ~300–500 THB).
-- **Aquaria:** [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/islands/koh-samui/) hebben mariene aquaria (entree ~500–1.000 THB).
+- **Aquaria:** [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/city/koh-samui/) hebben mariene aquaria (entree ~500–1.000 THB).
 
 ---
 
@@ -517,7 +517,7 @@ Hier is een realistisch 10-daags schema dat cultuur, natuur en ontspanning balan
 - Dag 6: Watervalwandeling of ziplinen (als kinderen oud genoeg zijn).
 - Dag 7: Rustdag, lokale markten, straeteet verkenning.
 
-**Dagen 8–10: [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/)**
+**Dagen 8–10: [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/)**
 - Vucht [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) naar [Phuket](https://go2-thailand.com/islands/phuket/) (2 uur), dan veerboot naar eiland (1–2 uur).
 - Stranddagen, snorkelen, ontspanning.
 - Terug naar [Bangkok](https://go2-thailand.com/city/bangkok/) voor internationale vlucht.
@@ -531,7 +531,7 @@ Hier is een realistisch 10-daags schema dat cultuur, natuur en ontspanning balan
 - 5 dagen voor diepere verkenning zonder haast.
 - Meerdere tempelbezoeken, olifantenopvang, kookles, watervalwandeling.
 
-**Dagen 8–10: [Koh Samui](https://go2-thailand.com/islands/koh-samui/)**
+**Dagen 8–10: [Koh Samui](https://go2-thailand.com/city/koh-samui/)**
 - Strandontspanning, snorkelen, minimale activiteit.
 
 Dit tempo is minder stressvol en leuker voor jonge kinderen.
@@ -616,7 +616,7 @@ Ja, Thailand is zeer vegetarisch-vriendelijk. Veel gerechten kunnen zonder vlees
 
 ## Conclusie
 
-**Thailand met kinderen is écht een van de beste familie reiservaringen beschikbaar.** De combinatie van betaalbaarheid, veiligheid, gastvrije cultuur en diverse activiteiten maakt het ideaal voor families die avontuur zoeken zonder stress. Van de tempels van [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) tot de stranden van [Koh Samui](https://go2-thailand.com/islands/koh-samui/), biedt Thailand herinneringen die kinderen—en ouders—jarenlang koesteren.
+**Thailand met kinderen is écht een van de beste familie reiservaringen beschikbaar.** De combinatie van betaalbaarheid, veiligheid, gastvrije cultuur en diverse activiteiten maakt het ideaal voor families die avontuur zoeken zonder stress. Van de tempels van [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) tot de stranden van [Koh Samui](https://go2-thailand.com/city/koh-samui/), biedt Thailand herinneringen die kinderen—en ouders—jarenlang koesteren.
 
 De sleutel is doordacht plannen: reis in het koelseizoen (november–februari), boek accommodatie en activiteiten van tevoren, prioriteer gezondheidsvoorzorgsmaatregelen en kies een realistisch tempo. Probeer niet alles te zien. Breng tijd door in 2–3 regio's, bouw rustdagen in en laat kinderen Thailand op hun eigen tempo ervaren.
 

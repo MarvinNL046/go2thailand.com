@@ -29,7 +29,7 @@ De **Full Moon Party op Koh Phangan** is een van de legendarischste strandfeeste
 |-------|----------|
 | **Wat zijn de data voor de Full Moon Party 2026?** | 3 januari, 2 februari, 3 maart, 2 april, 1 mei, 31 mei, 29 juni, 29 juli, 28 augustus, 26 september, 26 oktober, 24 november, 24 december, 31 december (Oud en Nieuw) |
 | **Hoeveel kost het?** | 300–500 THB (~€7–12) entree; totaalbudget 1.500–3.000 THB (~€33–66) inclusief drankjes en vervoer |
-| **Hoe kom ik er?** | [Ferry](https://12go.tpo.lv/tNA80urD) vanaf [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (30–45 minuten), of speedboot vanaf [Surat Thani](https://go2-thailand.com/transport/) op het vasteland |
+| **Hoe kom ik er?** | [Ferry](https://12go.tpo.lv/tNA80urD) vanaf [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (30–45 minuten), of speedboot vanaf [Surat Thani](https://go2-thailand.com/transport/) op het vasteland |
 | **Is het veilig?** | Over het algemeen veilig met normale voorzorgsmaatregelen; let op je drankjes, bewaar waardevollen veilig, blijf alert op je omgeving |
 | **Wat moet ik van tevoren boeken?** | [Accommodatie](https://booking.tpo.lv/2PT1kR82) (vol binnen 2–3 weken), ferrytickets, en overweeg vervoer terug te regelen |
 | **Beste reistijd?** | November–februari (koel seizoen); vermijd september–oktober (moesson, ruige zeeën) |

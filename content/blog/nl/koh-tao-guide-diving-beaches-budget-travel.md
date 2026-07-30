@@ -27,7 +27,7 @@ Stel je voor dat je 12 meter onder het wateroppervlak duikt, omringd door schole
 |-------|----------|
 | **Wat is de beste reistijd?** | Februari tot april biedt kalme zeeën en uitstekende zichtbaarheid voor **duiken in Koh Tao** |
 | **Hoeveel kost het?** | Budget: 800–1.200 THB/dag; Middenklasse: 1.500–2.500 THB/dag; Luxe: 3.000+ THB/dag |
-| **Hoe kom ik er?** | [Ferry](https://12go.tpo.lv/tNA80urD) vanuit Chumphon (5-6 uur) of snelboot vanuit [Koh Samui](https://go2-thailand.com/islands/koh-samui/) (1,5 uur) |
+| **Hoe kom ik er?** | [Ferry](https://12go.tpo.lv/tNA80urD) vanuit Chumphon (5-6 uur) of snelboot vanuit [Koh Samui](https://go2-thailand.com/city/koh-samui/) (1,5 uur) |
 | **Is het veilig?** | Zeer veilig voor duiken en reizen in het algemeen; wees voorzichtig met bromfietsverhuur |
 | **Wat moet ik vooraf boeken?** | Duikcursussen tijdens het hoogseizoen (feb-apr); [accommodatie](https://booking.tpo.lv/2PT1kR82) als je in feb-maart reist |
 | **Hoe is het duiken?** | 40+ duiklocaties, PADI-certificeringscursussen en ontmoetingen met zeeschildpadden en rifhaaien |
@@ -195,7 +195,7 @@ Naar Chumphon reizen: Vanuit [Bangkok](https://go2-thailand.com/city/bangkok/) n
 
 ### Vanuit Koh Samui of Koh Phangan
 
-Als je eilandhoppend bent, verbinden speedboats Koh Tao met [Koh Samui](https://go2-thailand.com/islands/koh-samui/) (1,5 uur, 600–800 THB) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) (1–1,5 uur, 500–700 THB). Deze zijn handig maar duurder dan de route via Chumphon. Ferries varen ook, maar duren 3–4 uur. Lees onze complete [gids voor eilandhoppen in Thailand](/blog/thailand-island-hopping-guide/) om je route door de Golf-eilanden te plannen. En als de beroemde [Full Moon Party op Koh Phangan](/blog/full-moon-party-koh-phangan-guide-2026/) op je radar staat, is Koh Tao het perfecte opwarmertje ervoor.
+Als je eilandhoppend bent, verbinden speedboats Koh Tao met [Koh Samui](https://go2-thailand.com/city/koh-samui/) (1,5 uur, 600–800 THB) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) (1–1,5 uur, 500–700 THB). Deze zijn handig maar duurder dan de route via Chumphon. Ferries varen ook, maar duren 3–4 uur. Lees onze complete [gids voor eilandhoppen in Thailand](/blog/thailand-island-hopping-guide/) om je route door de Golf-eilanden te plannen. En als de beroemde [Full Moon Party op Koh Phangan](/blog/full-moon-party-koh-phangan-guide-2026/) op je radar staat, is Koh Tao het perfecte opwarmertje ervoor.
 
 ### Ferryoperators en Boeken
 
@@ -423,7 +423,7 @@ Pinautomaten zijn beschikbaar bij Sairee Beach en nabij de pier. Haal contant ge
 
 ### Gezondheid en Medische Zorg
 
-Koh Tao heeft een kleine kliniek en apotheek. Bij ernstige problemen evacueer naar [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of het vastland. Duikgerelateerde blessures worden behandeld in de Koh Tao Recompression Chamber, nabij Sairee Beach.
+Koh Tao heeft een kleine kliniek en apotheek. Bij ernstige problemen evacueer naar [Koh Samui](https://go2-thailand.com/city/koh-samui/) of het vastland. Duikgerelateerde blessures worden behandeld in de Koh Tao Recompression Chamber, nabij Sairee Beach.
 
 Drink gebotteld water, vermijd ijs uit dubieuze bronnen en gebruik zonnebescherming. Denguekoorts en andere muggenoverdraagbare ziekten komen voor – gebruik repellent.
 

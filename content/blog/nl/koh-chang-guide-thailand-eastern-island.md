@@ -26,7 +26,7 @@ factCheck:
   riskLevel: "high"
 ---
 
-Terwijl de meeste reizigers afzakken naar [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Phuket](https://go2-thailand.com/islands/phuket/), blijft **Koh Chang** een van de best bewaarde geheimen van Thailand. Dit op een na grootste eiland, op slechts 300 kilometer ten oosten van [Bangkok](https://go2-thailand.com/city/bangkok/) in de provincie Trat, biedt ongerepte stranden, jungles bedekte bergen en een heerlijk ontspannen sfeer die nog niet is overspoeld door massatoerisme. Met 70% van het eiland nog bedekt door regenwoud en tientallen ongerepte nabijgelegen eilanden in het Koh Chang Marine National Park, is dit dé plek voor Thailands eilandmagie zonder de drukte.
+Terwijl de meeste reizigers afzakken naar [Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Phuket](https://go2-thailand.com/islands/phuket/), blijft **Koh Chang** een van de best bewaarde geheimen van Thailand. Dit op een na grootste eiland, op slechts 300 kilometer ten oosten van [Bangkok](https://go2-thailand.com/city/bangkok/) in de provincie Trat, biedt ongerepte stranden, jungles bedekte bergen en een heerlijk ontspannen sfeer die nog niet is overspoeld door massatoerisme. Met 70% van het eiland nog bedekt door regenwoud en tientallen ongerepte nabijgelegen eilanden in het Koh Chang Marine National Park, is dit dé plek voor Thailands eilandmagie zonder de drukte.
 
 ## Belangrijkste Punten
 
@@ -459,7 +459,7 @@ Absoluut. De kalme wateren bij Hat Kai Muk en Hat Sai Khao zijn ideaal voor jong
 
 ### Wat is het verschil tussen Koh Chang en andere Thaise eilanden?
 
-Koh Chang is minder ontwikkeld en minder druk dan [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) of [Phuket](https://go2-thailand.com/islands/phuket/). Het is toegankelijker en toeristischer dan afgelegen eilanden zoals [Koh Lipe](https://go2-thailand.com/islands/koh-lipe/). Het biedt een middenweg – echte natuurlijke schoonheid met voldoende infrastructuur en diensten.
+Koh Chang is minder ontwikkeld en minder druk dan [Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) of [Phuket](https://go2-thailand.com/islands/phuket/). Het is toegankelijker en toeristischer dan afgelegen eilanden zoals [Koh Lipe](https://go2-thailand.com/islands/koh-lipe/). Het biedt een middenweg – echte natuurlijke schoonheid met voldoende infrastructuur en diensten.
 
 ### Kan ik Koh Chang als dagtrip vanuit Bangkok doen?
 

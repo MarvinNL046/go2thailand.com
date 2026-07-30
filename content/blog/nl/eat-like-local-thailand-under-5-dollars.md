@@ -306,7 +306,7 @@ De geografie van Thailand doet ertoe voor budgeteten. Prijzen variëren enorm tu
 
 **Onze aanbeveling:** Als je serieus onder €5 per dag wilt eten, breng meer tijd door in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), Isaan of plattelandsgebieden. Vermijd [Phuket](https://go2-thailand.com/city/phuket/) en grote strandresortgebieden waar toerisme de prijzen 2–3x opdrijft. Let op het regenseizoen in het zuiden voor veiliger reizen.
 
-Tijdens onze eilandhop-fase in het zuiden ontdekten we dat eten op [Koh Samui](https://go2-thailand.com/islands/koh-samui/) ons 150–200 baht per maaltijd kostte. Terug in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) kostte dezelfde maaltijd 50 baht. Het verschil was puur locatiegebaseerde toerismeprijzen.
+Tijdens onze eilandhop-fase in het zuiden ontdekten we dat eten op [Koh Samui](https://go2-thailand.com/city/koh-samui/) ons 150–200 baht per maaltijd kostte. Terug in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) kostte dezelfde maaltijd 50 baht. Het verschil was puur locatiegebaseerde toerismeprijzen.
 
 ---
 
@@ -369,7 +369,7 @@ Eten voor onder €5 per dag is mogelijk en écht leuk, maar er zijn momenten wa
 ### Waard om uit te pakken
 
 - **Speciale regionale gerechten:** In [Chiang Mai](/city/chiang-mai/) moet je [khao soi](/food/khao-soi/) (noordelijke currynoedels) proberen in een echt restaurant (80–120 baht). Het is de extra kosten waard als regionale specialiteit.
-- **Zeewier in kustgebieden:** Op een eiland als [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) is vers zeevruchten eigenlijk goedkoper dan in het binnenland. Pak uit met gegrilde vis of garnalen (100–150 baht).
+- **Zeewier in kustgebieden:** Op een eiland als [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) is vers zeevruchten eigenlijk goedkoper dan in het binnenland. Pak uit met gegrilde vis of garnalen (100–150 baht).
 - **Kooklessen:** Een Thaise kookles (meestal 500–800 baht) leert je vaardigheden die op lange termijn geld besparen. Je begrijpt Thaise smaken en kunt thuis koken. De [Blue Elephant Cooking School in Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/) is een premium optie om te overwegen. Reizigers met een plantaardig dieet moeten onze [vegan Thaise eten gids](/blog/vegan-thai-food-guide/) checken, terwijl wie [halal eten in Thailand](/blog/halal-food-thailand-guide/) nodig heeft, meer opties vindt dan verwacht.
 - **Nachtmarkten:** De [beste nachtmarkten in Bangkok](/blog/best-night-markets-bangkok-2026/) bieden unieke streetfoodervaringen. Prijzen zijn iets hoger (60–100 baht per item), maar de variëteit en kwaliteit rechtvaardigen het.
 

@@ -481,7 +481,7 @@ De **Phi Phi eilanden** zijn de moeite waard, maar niet op de manier waarop de m
 
 De sleutel is intentionaliteit. Plan je bezoek in schouwer- of laagseizoenen, boek accommodatie weg van de chaos van Tonsai, en prioriteer ervaringen boven beroemde fotoplekken. Toen we na drie jaar terugkeerden naar Phi Phi, verbleven we op Loh Dalum, namen een privé boot naar Koh Yung en sloegen Maya Bay over. Het was ons beste bezoek ooit.
 
-Klaar om Phi Phi te verkennen voorbij de massa's? Begin met het checken van accommodatie-opties en boeken van je ferry vooraf. Voor meer eiland-inspiratie, bekijk onze gidsen over [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) ter vergelijking. En als je een bredere zuid-Thailand reis plant, dekt onze [7-daagse eilandhoppen route](https://go2-thailand.com/itineraries/7-days-island-hopping/) Phi Phi naast andere parels.
+Klaar om Phi Phi te verkennen voorbij de massa's? Begin met het checken van accommodatie-opties en boeken van je ferry vooraf. Voor meer eiland-inspiratie, bekijk onze gidsen over [Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) ter vergelijking. En als je een bredere zuid-Thailand reis plant, dekt onze [7-daagse eilandhoppen route](https://go2-thailand.com/itineraries/7-days-island-hopping/) Phi Phi naast andere parels.
 
 **Geloof ons:** We hebben jaren doorgebracht met het verkennen van Thailand's eilanden. Phi Phi is mooi – je hoeft alleen te weten waar je de schoonheid vindt voorbij de massa's.
 

@@ -125,7 +125,7 @@ Gebruik deze dag voor een uitstapje naar [Nationaal Park Doi Inthanon](https://g
 Vlieg van Chiang Mai naar je eilandbestemming. Je hebt twee hoofdkiezen:
 
 ### Golfkust (Oostkant)
-- **[Koh Samui](https://go2-thailand.com/islands/koh-samui/)** — Heeft eigen vliegveld. Meest ontwikkeld, ideaal voor stellen en families. Duurder.
+- **[Koh Samui](https://go2-thailand.com/city/koh-samui/)** — Heeft eigen vliegveld. Meest ontwikkeld, ideaal voor stellen en families. Duurder.
 - **[Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)** — Bekend om de [Full Moon Party](https://go2-thailand.com/blog/full-moon-party-koh-phangan-guide-2026/) maar ook met rustige stranden. Goed voor jongere reizigers.
 - **[Koh Tao](https://go2-thailand.com/islands/koh-tao/)** — Beste voor [duiken](https://go2-thailand.com/blog/koh-tao-guide-diving-beaches-budget-travel/) en snorkelen. Klein, budgetvriendelijk en ontspannen.
 

@@ -28,7 +28,7 @@ Elk jaar ontdekken duizenden solo reizende vrouwen Thailand – en de meesten ke
 | **Is Thailand veilig voor solo reizende vrouwen?** | Ja. Thailand scoort goed op veiligheid voor solo vrouwen met goede infrastructuur, vriendelijke locals en toeristvriendelijke diensten. Neem standaard reisvoorzorgsmaatregelen, net als overal. |
 | **Wat is de beste reistijd?** | November tot februari (koel en droog seizoen). Vermijd mei–oktober (heet en regenseizoen). |
 | **Hoeveel kost het per dag?** | Budget: 800–1.200 THB (€20–30). Mid-range: 1.500–2.500 THB (€35–60). Luxe: 3.000+ THB (€70+). |
-| **Welke bestemmingen zijn het veiligst?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Koh Samui](https://go2-thailand.com/islands/koh-samui/), Hua Hin en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) zijn gevestigde, toeristvriendelijke plekken. |
+| **Welke bestemmingen zijn het veiligst?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Koh Samui](https://go2-thailand.com/city/koh-samui/), Hua Hin en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) zijn gevestigde, toeristvriendelijke plekken. |
 | **Heb ik reisverzekering nodig?** | Zeer aanbevolen. Reken op 800–1.500 THB (€20–35) voor 2–3 weken dekking. |
 | **Wat moet ik [van tevoren boeken?** | Vluchten, eerste 2–3 nachten accommodatie en georganiseerde tours of kookcursussen. Binnenlands transport](https://12go.tpo.lv/tNA80urD) kun je 1–2 dagen vooraf boeken. |
 | **Welk visum heb ik nodig?** | De meeste nationaliteiten krijgen 30–60 dagen visumvrij. Check [Thailand visumvereisten](https://go2-thailand.com/visa/) voor jouw nationaliteit. |
@@ -110,7 +110,7 @@ Je eerste bestemming zet de toon voor je hele reis. We raden aan te beginnen in 
 |------------|------------|-------|-------------------------|--------------|
 | **[Bangkok](https://go2-thailand.com/city/bangkok/)** | Stadsverkenning, eten, cultuur | Bruisend, energiek | ⭐⭐⭐⭐⭐ | 600–2.000 THB |
 | **[Chiang Mai](https://go2-thailand.com/city/chiang-mai/)** | Ontspanning, tempels, kookcursussen | Ontspannen, cultureel | ⭐⭐⭐⭐⭐ | 500–1.500 THB |
-| **[Koh Samui](https://go2-thailand.com/islands/koh-samui/)** | Strandleven, nachtleven, wellness | Resort-gericht | ⭐⭐⭐⭐ | 1.000–3.000 THB |
+| **[Koh Samui](https://go2-thailand.com/city/koh-samui/)** | Strandleven, nachtleven, wellness | Resort-gericht | ⭐⭐⭐⭐ | 1.000–3.000 THB |
 | **[Koh Lanta](https://go2-thailand.com/islands/koh-lanta/)** | Rustige stranden, duiken, natuur | Vredig, boheems | ⭐⭐⭐⭐⭐ | 600–1.500 THB |
 | **Hua Hin** | Strandstad-charme, lokale cultuur | Ontspannen, authentiek | ⭐⭐⭐⭐⭐ | 500–1.200 THB |
 
@@ -118,7 +118,7 @@ Je eerste bestemming zet de toon voor je hele reis. We raden aan te beginnen in 
 
 **Chiang Mai** is onze topaanbeveling voor eerste keer solo reizende vrouwen. Het is betaalbaar, diep cultureel en heeft een enorme gemeenschap van solo reizigers (vooral [digital nomads](/blog/chiang-mai-cheapest-digital-nomad-city-2026/)). Je ontmoet makkelijk anderen bij [kookcursussen](/blog/thai-cooking-classes-chiang-mai/), [nachtmarkten](/blog/best-night-markets-bangkok-2026/) en cafés. Toen we er drie jaar woonden, zagen we talloze solo vrouwen nerveus arriveren en getransformeerd vertrekken.
 
-**Eilandbestemmingen** zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) zijn veilig en goed ontwikkeld, al zijn ze duurder. [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) trekt specifiek een rustiger, volwassener publiek en is uitstekend voor solo vrouwen die rust zoeken. Houd het regenseizoen in de gaten voor veilige strandtrips.
+**Eilandbestemmingen** zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) zijn veilig en goed ontwikkeld, al zijn ze duurder. [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) trekt specifiek een rustiger, volwassener publiek en is uitstekend voor solo vrouwen die rust zoeken. Houd het regenseizoen in de gaten voor veilige strandtrips.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -352,7 +352,7 @@ Thailand biedt talloze solo-vriendelijke activiteiten. Het mooie is dat je vaak 
 
 ### Eilandhoppen en Wateractiviteiten
 
-[Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Tao](https://go2-thailand.com/islands/koh-tao/) zijn duikhotspots. Een PADI Open Water-certificaatscursus kost 8.000–12.000 THB (€185–275) en duurt 3–4 dagen. Je bent in een groep met andere duikers, wat het sociaal en veilig maakt. Zie de [Koh Tao duikgids](/blog/koh-tao-guide-diving-beaches-budget-travel/) en ons overzicht van de [beste duikplekken in Thailand](/best-diving-snorkeling-in-thailand/).
+[Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Tao](https://go2-thailand.com/islands/koh-tao/) zijn duikhotspots. Een PADI Open Water-certificaatscursus kost 8.000–12.000 THB (€185–275) en duurt 3–4 dagen. Je bent in een groep met andere duikers, wat het sociaal en veilig maakt. Zie de [Koh Tao duikgids](/blog/koh-tao-guide-diving-beaches-budget-travel/) en ons overzicht van de [beste duikplekken in Thailand](/best-diving-snorkeling-in-thailand/).
 
 ### Muay Thai Training
 

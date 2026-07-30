@@ -494,7 +494,7 @@ Ja, Phuket is over het algemeen veilig. Neem standaard voorzorgsmaatregelen: ver
 
 ### Wat is het verschil tussen Phuket en nabijgelegen eilanden zoals Koh Samui of Koh Phi Phi?
 
-**Phuket** is het grootste en meest ontwikkelde, met de beste infrastructuur, meeste eetopties en makkelijkste toegang. **[Koh Samui](https://go2-thailand.com/islands/koh-samui/)** is upscale en feestgericht. **[Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)** is kleiner en schilderachtiger maar extreem druk. Phuket biedt de beste balans tussen gemak en authentieke ervaring.
+**Phuket** is het grootste en meest ontwikkelde, met de beste infrastructuur, meeste eetopties en makkelijkste toegang. **[Koh Samui](https://go2-thailand.com/city/koh-samui/)** is upscale en feestgericht. **[Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)** is kleiner en schilderachtiger maar extreem druk. Phuket biedt de beste balans tussen gemak en authentieke ervaring.
 
 ### Wanneer moet ik bezoeken om drukte te vermijden?
 

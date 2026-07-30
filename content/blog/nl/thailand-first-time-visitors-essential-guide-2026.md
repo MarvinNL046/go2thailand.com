@@ -237,7 +237,7 @@ Rondreizen in Thailand is eenvoudig zodra je de opties begrijpt. We hebben alles
 
 **Vluchten:** Verrassend betaalbaar. Bangkok naar Chiang Mai kost 800–2.000 THB (€20–45) bij budgetmaatschappijen als AirAsia of Nok Air. Handig voor lange afstanden of als tijd beperkt is. Vanuit Nederland kun je met KLM direct naar Bangkok vliegen.
 
-**Veerboten:** Essentieel voor eilandhoppen. Prijzen variëren: Bangkok naar [Koh Samui](https://go2-thailand.com/islands/koh-samui/) duurt 5–8 uur en kost 500–1.500 THB.
+**Veerboten:** Essentieel voor eilandhoppen. Prijzen variëren: Bangkok naar [Koh Samui](https://go2-thailand.com/city/koh-samui/) duurt 5–8 uur en kost 500–1.500 THB.
 
 <div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -387,7 +387,7 @@ Thaise stranden zijn adembenemend, maar kwetsbaar. We hebben gezien hoe [Koh Phi
 - **Neem afval mee:** Stranden hebben beperkte afvalbeheer. Neem mee wat je meebrengt.
 - **Respecteer mariene reservaten:** Sommige gebieden zijn gesloten om broedgebieden te beschermen. Volg borden.
 
-Overweeg minder toeristische eilanden als [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) of [Koh Mak](https://go2-thailand.com/islands/koh-mak/) in plaats van overvolle [Koh Samui](https://go2-thailand.com/islands/koh-samui/). Je hebt betere ervaringen en minder impact op het milieu. Onze [Thailand eilandhoppen-gids](/blog/thailand-island-hopping-guide/) heeft de beste routes en plannings-tips.
+Overweeg minder toeristische eilanden als [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) of [Koh Mak](https://go2-thailand.com/islands/koh-mak/) in plaats van overvolle [Koh Samui](https://go2-thailand.com/city/koh-samui/). Je hebt betere ervaringen en minder impact op het milieu. Onze [Thailand eilandhoppen-gids](/blog/thailand-island-hopping-guide/) heeft de beste routes en plannings-tips.
 
 <div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -513,7 +513,7 @@ Ja. Thailand is een van de veiligste landen in Zuidoost-Azië voor solo-reiziger
 
 ### Wat is de beste route voor twee weken?
 
-Een klassieke 2-weken route: 3–4 dagen in [Bangkok](https://go2-thailand.com/city/bangkok/), 4–5 dagen in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (noorden), 4–5 dagen op een eiland als [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (zuiden). Dit dekt cultuur, natuur en stranden. Zie onze [2-weken route-gids](https://go2-thailand.com/blog/thailand-itinerary-2-weeks/) voor gedetailleerde dagplanning, of bekijk de [ultieme Thailand-route voor 2026](/blog/ultimate-thailand-itinerary-2026) voor meer opties. Eerste bezoekers willen misschien onze speciale [Thailand-route voor beginners](/blog/thailand-itinerary-first-timers) die speciaal voor nieuwkomers is ontworpen.
+Een klassieke 2-weken route: 3–4 dagen in [Bangkok](https://go2-thailand.com/city/bangkok/), 4–5 dagen in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (noorden), 4–5 dagen op een eiland als [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (zuiden). Dit dekt cultuur, natuur en stranden. Zie onze [2-weken route-gids](https://go2-thailand.com/blog/thailand-itinerary-2-weeks/) voor gedetailleerde dagplanning, of bekijk de [ultieme Thailand-route voor 2026](/blog/ultimate-thailand-itinerary-2026) voor meer opties. Eerste bezoekers willen misschien onze speciale [Thailand-route voor beginners](/blog/thailand-itinerary-first-timers) die speciaal voor nieuwkomers is ontworpen.
 
 ### Heb ik een reisverzekering nodig?
 

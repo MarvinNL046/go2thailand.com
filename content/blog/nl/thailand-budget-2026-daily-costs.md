@@ -101,7 +101,7 @@ Accommodatie is meestal de grootste uitgave voor reizigers, en prijzen variëren
 **Chiang Mai** en Noord-Thailand bieden de beste waarde. Budgetgasthuizen kosten 250–500 THB ($7–13 USD), mid-range hotels 600–1.200 THB ($16–32 USD), en luxeresorts 1.500–3.000 THB ($40–81 USD). We vonden consistent uitstekende dresterrenhotels voor onder de 1.000 THB.
 
 ### Eiland- en strandaccommodatie
-Eilandprijzen hangen sterk af van de populariteit van het eiland en je timing. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) zijn het duurst, met budgetkamers vanaf 600 THB ($16 USD). [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) bieden beter waarde voor 400–800 THB ($11–22 USD) voor budgetopties.
+Eilandprijzen hangen sterk af van de populariteit van het eiland en je timing. [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) zijn het duurst, met budgetkamers vanaf 600 THB ($16 USD). [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) bieden beter waarde voor 400–800 THB ($11–22 USD) voor budgetopties.
 
 Minder bezochte eilanden zoals [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) en [Koh Chang](https://go2-thailand.com/islands/koh-chang/) hebben de laagste prijzen — vaak 300–600 THB ($8–16 USD) voor basiskamers, zelfs tijdens piekseizoen.
 
