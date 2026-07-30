@@ -485,6 +485,10 @@ for (const primitive of ['SectionHeading', 'FaqSplitSection', 'RelatedGuidesSect
   if (!destinationIndexTemplate.includes(primitive)) failures.push(`DestinationIndexGuide does not use ${primitive}`);
 }
 if (!read('pages/city/index.tsx').includes('DestinationIndexGuide')) failures.push('The city index does not wire the destination index template');
+const redesignHomepage = read('components/home/RedesignHome.tsx');
+for (const proof of ['data-premium-template="homepage"', 'bg-canvas', 'HomeHero', 'ThailandMapGraphic', 'nofollow sponsored']) {
+  if (!redesignHomepage.includes(proof)) failures.push(`The homepage lacks premium owner proof: ${proof}`);
+}
 if (!read('pages/activities/index.tsx').includes('ThailandExcursionsGuide')) failures.push('The activities index does not wire the commercial activity template');
 if (!read('pages/transport/index.tsx').includes('TransportHubGuide')) failures.push('The transport index does not wire the practical route template');
 const transportHubTemplateNl = read('components/transport/TransportHubGuide.tsx');

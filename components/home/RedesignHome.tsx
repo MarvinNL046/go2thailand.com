@@ -87,7 +87,7 @@ export default function RedesignHome() {
   const c = (nl: string, en: string) => (lang === 'nl' ? nl : en);
 
   return (
-    <div className="bg-ivory text-charcoal">
+    <div data-premium-template="homepage" className="bg-canvas text-charcoal">
       <HomeHero />
 
       <section className="destination-story-section py-14 lg:py-[72px]">
