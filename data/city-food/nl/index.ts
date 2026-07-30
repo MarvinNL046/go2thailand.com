@@ -16,6 +16,7 @@ import { kohSamuiCityFoodNl } from './koh-samui';
 import { lampangCityFoodNl } from './lampang';
 import { lopburiCityFoodNl } from './lopburi';
 import { maeHongSonCityFoodNl } from './mae-hong-son';
+import { mukdahanCityFoodNl } from './mukdahan';
 import { nakhonRatchasimaCityFoodNl } from './nakhon-ratchasima';
 import { nakhonSiThammaratCityFoodNl } from './nakhon-si-thammarat';
 import { nakhonPhanomCityFoodNl } from './nakhon-phanom';
@@ -50,6 +51,7 @@ const cityFoodGuidesNl: Record<string, CityFoodGuideData> = {
   lampang: lampangCityFoodNl,
   lopburi: lopburiCityFoodNl,
   'mae-hong-son': maeHongSonCityFoodNl,
+  mukdahan: mukdahanCityFoodNl,
   'nakhon-ratchasima': nakhonRatchasimaCityFoodNl,
   'nakhon-si-thammarat': nakhonSiThammaratCityFoodNl,
   'nakhon-phanom': nakhonPhanomCityFoodNl,
@@ -71,4 +73,4 @@ export function getNlCityFoodGuide(slug: string): CityFoodGuideData | undefined 
   return cityFoodGuidesNl[slug];
 }
 
-export { ayutthayaCityFoodNl, bangkokCityFoodNl, buengKanCityFoodNl, chanthaburiCityFoodNl, chiangKhanCityFoodNl, chumphonCityFoodNl, chiangRaiCityFoodNl, chiangMaiCityFoodNl, hatYaiCityFoodNl, huaHinCityFoodNl, kanchanaburiCityFoodNl, kohSamuiCityFoodNl, khonKaenCityFoodNl, krabiCityFoodNl, lampangCityFoodNl, lopburiCityFoodNl, maeHongSonCityFoodNl, nakhonPhanomCityFoodNl, nakhonRatchasimaCityFoodNl, nakhonSiThammaratCityFoodNl, nongKhaiCityFoodNl, paiCityFoodNl, pattayaCityFoodNl, phitsanulokCityFoodNl, phuketCityFoodNl, rayongCityFoodNl, sukhothaiCityFoodNl, suratThaniCityFoodNl, trangCityFoodNl, tratCityFoodNl, ubonRatchathaniCityFoodNl, udonThaniCityFoodNl };
+export { ayutthayaCityFoodNl, bangkokCityFoodNl, buengKanCityFoodNl, chanthaburiCityFoodNl, chiangKhanCityFoodNl, chumphonCityFoodNl, chiangRaiCityFoodNl, chiangMaiCityFoodNl, hatYaiCityFoodNl, huaHinCityFoodNl, kanchanaburiCityFoodNl, kohSamuiCityFoodNl, khonKaenCityFoodNl, krabiCityFoodNl, lampangCityFoodNl, lopburiCityFoodNl, maeHongSonCityFoodNl, mukdahanCityFoodNl, nakhonPhanomCityFoodNl, nakhonRatchasimaCityFoodNl, nakhonSiThammaratCityFoodNl, nongKhaiCityFoodNl, paiCityFoodNl, pattayaCityFoodNl, phitsanulokCityFoodNl, phuketCityFoodNl, rayongCityFoodNl, sukhothaiCityFoodNl, suratThaniCityFoodNl, trangCityFoodNl, tratCityFoodNl, ubonRatchathaniCityFoodNl, udonThaniCityFoodNl };

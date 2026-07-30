@@ -148,6 +148,7 @@ const kohSamuiCityFoodNl = read('data/city-food/nl/koh-samui.ts');
 const lampangCityFoodNl = read('data/city-food/nl/lampang.ts');
 const lopburiCityFoodNl = read('data/city-food/nl/lopburi.ts');
 const maeHongSonCityFoodNl = read('data/city-food/nl/mae-hong-son.ts');
+const mukdahanCityFoodNl = read('data/city-food/nl/mukdahan.ts');
 const nakhonRatchasimaCityFoodNl = read('data/city-food/nl/nakhon-ratchasima.ts');
 const nakhonSiThammaratCityFoodNl = read('data/city-food/nl/nakhon-si-thammarat.ts');
 const nakhonPhanomCityFoodNl = read('data/city-food/nl/nakhon-phanom.ts');
@@ -274,6 +275,9 @@ for (const proof of ['buengKanCityFoodNl', "'bueng-kan': buengKanCityFoodNl"]) {
 for (const proof of ['nakhonPhanomCityFoodNl', "'nakhon-phanom': nakhonPhanomCityFoodNl"]) {
   if (!cityFoodRegistryNl.includes(proof)) failures.push(`Dutch city-food registry lacks Nakhon Phanom owner proof: ${proof}`);
 }
+for (const proof of ['mukdahanCityFoodNl', 'mukdahan: mukdahanCityFoodNl']) {
+  if (!cityFoodRegistryNl.includes(proof)) failures.push(`Dutch city-food registry lacks Mukdahan owner proof: ${proof}`);
+}
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/bangkok/food/'"]) {
   if (!bangkokCityFoodNl.includes(proof)) failures.push(`Dutch Bangkok city-food owner lacks locale proof: ${proof}`);
 }
@@ -294,6 +298,9 @@ for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/nakhon-phanom/food/'", 'nakhon-phanom-food-mekong-breakfast-nl.webp']) {
   if (!nakhonPhanomCityFoodNl.includes(proof)) failures.push(`Dutch Nakhon Phanom city-food owner lacks locale or asset proof: ${proof}`);
+}
+for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/mukdahan/food/'", 'mukdahan-food-indigo-market-nl.webp']) {
+  if (!mukdahanCityFoodNl.includes(proof)) failures.push(`Dutch Mukdahan city-food owner lacks locale or asset proof: ${proof}`);
 }
 for (const proof of ["locale: 'nl'", "pageUrl: 'https://go2-thailand.com/nl/city/ayutthaya/food/'"]) {
   if (!ayutthayaCityFoodNl.includes(proof)) failures.push(`Dutch Ayutthaya city-food owner lacks locale proof: ${proof}`);
