@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-30T21:54:42.794Z",
+  "generatedAt": "2026-07-30T22:00:06.703Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
     "nl": {
       "sitemapRoutes": 703,
       "http200": 703,
-      "premium": 702,
-      "hybrid": 1,
+      "premium": 703,
+      "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 143,
+      "exactOwners": 144,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 34,
       "amazonLinks": 68,
-      "provisionalInventoryDecisions": 491,
+      "provisionalInventoryDecisions": 490,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
-      "sitewideReport": "seo/audits/runtime/nl-destination-index-final-2026-07-30.json",
+      "sitewideReport": "seo/audits/runtime/nl-homepage-final-2026-07-30.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T21:53:51.723Z",
+        "generatedAt": "2026-07-30T21:59:35.225Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -742,17 +742,17 @@
       "closed": true
     },
     "nl:homepage": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:homepage.",
+      "definition": "The Dutch homepage has an explicit search owner, complete premium-system signature, transparent contextual partners and responsive production QA.",
       "expected": 1,
-      "complete": 0,
-      "exactOwners": 0,
-      "remainingCount": 1,
-      "remaining": [
-        "/nl/"
-      ],
+      "complete": 1,
+      "exactOwners": 1,
+      "remainingCount": 0,
+      "remaining": [],
       "remainingTruncated": false,
-      "evidence": [],
-      "closed": false
+      "evidence": [
+        "seo/audits/nl-homepage-family-2026-07-30.md"
+      ],
+      "closed": true
     },
     "nl:hotel-detail": {
       "definition": "All four Dutch hotel-detail owners have ranking preservation, premium design and family QA evidence.",
@@ -1013,12 +1013,12 @@
       "templateOwner": "homepage",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:homepage",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
-      "designCoverage": "hybrid-signature",
-      "exactOwner": false,
+      "designCoverage": "premium-signature",
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
