@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-30T17:21:01.278Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/",
+  "cost": 0.01248,
+  "rankings": [
+    {
+      "keyword": "best koh samui restaurants",
+      "position": 64,
+      "volume": 140,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurant koh samui",
+      "position": 69,
+      "volume": 140,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurants koh samui",
+      "position": 64,
+      "volume": 140,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/"
+    },
+    {
+      "keyword": "koh samui restaurants best",
+      "position": 70,
+      "volume": 140,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/"
+    }
+  ]
+}
