@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.tourismthailand.org/Destinations/Provinces/Nakhon%20Ratchasima/580
 
-**Captured:** 2026-07-30T11:44:32.261Z
+**Captured:** 2026-07-30T16:29:01.581Z
 **Cost:** 0.00015
 **HTTP status:** 200
 

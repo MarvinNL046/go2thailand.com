@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.thaifoodguide.com/provinces/nakhon-ratchasima
 
-**Captured:** 2026-07-30T11:44:30.690Z
+**Captured:** 2026-07-30T16:28:58.530Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
