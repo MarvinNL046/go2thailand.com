@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T11:14:09.634Z",
+  "generatedAt": "2026-07-30T11:39:07.149Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,15 +9,15 @@
       "premium": 702,
       "hybrid": 1,
       "noSignature": 0,
-      "exactOwners": 123,
+      "exactOwners": 124,
       "duplicateExactOwnerRoutes": [],
-      "contextualAmazonRoutes": 14,
-      "amazonLinks": 28,
-      "provisionalInventoryDecisions": 513,
+      "contextualAmazonRoutes": 15,
+      "amazonLinks": 30,
+      "provisionalInventoryDecisions": 512,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
-      "sitewideReport": "seo/audits/runtime/nl-khon-kaen-food-final-2026-07-30.json",
+      "sitewideReport": "seo/audits/runtime/nl-udon-thani-food-final-2026-07-30.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T11:12:58.833Z",
+        "generatedAt": "2026-07-30T11:38:09.238Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -633,13 +633,12 @@
       "closed": true
     },
     "nl:destination-subpillar:food": {
-      "definition": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Chiang Mai, Chiang Rai, Hat Yai, Khon Kaen, Krabi, Lampang, Mae Hong Son, Pai, Pattaya, Phuket, Sukhothai and Surat Thani are independently researched and production-verified.",
+      "definition": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Chiang Mai, Chiang Rai, Hat Yai, Khon Kaen, Krabi, Lampang, Mae Hong Son, Pai, Pattaya, Phuket, Sukhothai, Surat Thani and Udon Thani are independently researched and production-verified.",
       "expected": 34,
-      "complete": 14,
-      "exactOwners": 14,
-      "remainingCount": 20,
+      "complete": 15,
+      "exactOwners": 15,
+      "remainingCount": 19,
       "remaining": [
-        "/nl/city/udon-thani/food/",
         "/nl/city/nakhon-ratchasima/food/",
         "/nl/city/ubon-ratchathani/food/",
         "/nl/city/kanchanaburi/food/",
@@ -650,7 +649,8 @@
         "/nl/city/rayong/food/",
         "/nl/city/koh-samui/food/",
         "/nl/city/nakhon-si-thammarat/food/",
-        "/nl/city/trang/food/"
+        "/nl/city/trang/food/",
+        "/nl/city/chumphon/food/"
       ],
       "remainingTruncated": true,
       "evidence": [
@@ -667,7 +667,8 @@
         "seo/audits/nl-pattaya-city-food-owner-2026-07-29.md",
         "seo/audits/nl-phuket-city-food-owner-2026-07-29.md",
         "seo/audits/nl-sukhothai-city-food-owner-2026-07-30.md",
-        "seo/audits/nl-surat-thani-city-food-owner-2026-07-30.md"
+        "seo/audits/nl-surat-thani-city-food-owner-2026-07-30.md",
+        "seo/audits/nl-udon-thani-city-food-owner-2026-07-30.md"
       ],
       "closed": false
     },
@@ -5304,12 +5305,12 @@
       "templateOwner": "destination-subpillar",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:destination-subpillar:food",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "exactOwner": true,
+      "amazonLinks": 2,
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
