@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T22:00:06.703Z",
+  "generatedAt": "2026-07-30T22:17:15.767Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,15 +9,15 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 144,
+      "exactOwners": 147,
       "duplicateExactOwnerRoutes": [],
-      "contextualAmazonRoutes": 34,
-      "amazonLinks": 68,
-      "provisionalInventoryDecisions": 490,
+      "contextualAmazonRoutes": 36,
+      "amazonLinks": 72,
+      "provisionalInventoryDecisions": 485,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
-      "sitewideReport": "seo/audits/runtime/nl-homepage-final-2026-07-30.json",
+      "sitewideReport": "seo/audits/runtime/nl-practical-family-final-2026-07-31.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T21:59:35.225Z",
+        "generatedAt": "2026-07-30T22:16:43.345Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -912,21 +912,17 @@
       "closed": false
     },
     "nl:practical": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:practical.",
+      "definition": "All five Dutch practical routes have exact non-overlapping owner boundaries, premium reusable design, current research evidence, primary-source safeguards and responsive production QA.",
       "expected": 5,
-      "complete": 0,
-      "exactOwners": 2,
-      "remainingCount": 5,
-      "remaining": [
-        "/nl/practical-info/",
-        "/nl/practical-info/scams-safety/",
-        "/nl/practical-info/atm-money/",
-        "/nl/practical-info/health-vaccinations/",
-        "/nl/practical-info/etiquette-culture/"
-      ],
+      "complete": 5,
+      "exactOwners": 5,
+      "remainingCount": 0,
+      "remaining": [],
       "remainingTruncated": false,
-      "evidence": [],
-      "closed": false
+      "evidence": [
+        "seo/audits/nl-practical-family-2026-07-31.md"
+      ],
+      "closed": true
     },
     "nl:practical:visa": {
       "definition": "All nine Dutch visa owners have independent DFS, current primary-source review, premium design and family QA.",
@@ -1363,12 +1359,12 @@
       "templateOwner": "practical",
       "recommendedAction": "template-audit",
       "familyKey": "nl:practical",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6585,12 +6581,12 @@
       "templateOwner": "practical",
       "recommendedAction": "template-audit",
       "familyKey": "nl:practical",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6599,12 +6595,12 @@
       "templateOwner": "practical",
       "recommendedAction": "template-audit",
       "familyKey": "nl:practical",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6613,11 +6609,11 @@
       "templateOwner": "practical",
       "recommendedAction": "template-audit",
       "familyKey": "nl:practical",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -6627,11 +6623,11 @@
       "templateOwner": "practical",
       "recommendedAction": "template-audit",
       "familyKey": "nl:practical",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
