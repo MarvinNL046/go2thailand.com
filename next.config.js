@@ -278,6 +278,14 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // The independently researched NL city owner already owns the complete
+      // Koh Samui destination intent. Do not keep a second broad island URL.
+      {
+        source: '/nl/islands/koh-samui/',
+        destination: '/nl/city/koh-samui/',
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research found identical weather/best-time intent and
       // no ranking or backlink equity on either URL. Keep one paired owner.
       {
