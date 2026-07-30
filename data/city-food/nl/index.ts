@@ -1,6 +1,7 @@
 import type { CityFoodGuideData } from '../types';
 import { ayutthayaCityFoodNl } from './ayutthaya';
 import { bangkokCityFoodNl } from './bangkok';
+import { buengKanCityFoodNl } from './bueng-kan';
 import { chanthaburiCityFoodNl } from './chanthaburi';
 import { chiangKhanCityFoodNl } from './chiang-khan';
 import { chumphonCityFoodNl } from './chumphon';
@@ -33,6 +34,7 @@ import { ubonRatchathaniCityFoodNl } from './ubon-ratchathani';
 const cityFoodGuidesNl: Record<string, CityFoodGuideData> = {
   ayutthaya: ayutthayaCityFoodNl,
   bangkok: bangkokCityFoodNl,
+  'bueng-kan': buengKanCityFoodNl,
   chanthaburi: chanthaburiCityFoodNl,
   'chiang-khan': chiangKhanCityFoodNl,
   chumphon: chumphonCityFoodNl,
@@ -67,4 +69,4 @@ export function getNlCityFoodGuide(slug: string): CityFoodGuideData | undefined 
   return cityFoodGuidesNl[slug];
 }
 
-export { ayutthayaCityFoodNl, bangkokCityFoodNl, chanthaburiCityFoodNl, chiangKhanCityFoodNl, chumphonCityFoodNl, chiangRaiCityFoodNl, chiangMaiCityFoodNl, hatYaiCityFoodNl, huaHinCityFoodNl, kanchanaburiCityFoodNl, kohSamuiCityFoodNl, khonKaenCityFoodNl, krabiCityFoodNl, lampangCityFoodNl, lopburiCityFoodNl, maeHongSonCityFoodNl, nakhonRatchasimaCityFoodNl, nakhonSiThammaratCityFoodNl, nongKhaiCityFoodNl, paiCityFoodNl, pattayaCityFoodNl, phitsanulokCityFoodNl, phuketCityFoodNl, rayongCityFoodNl, sukhothaiCityFoodNl, suratThaniCityFoodNl, trangCityFoodNl, tratCityFoodNl, ubonRatchathaniCityFoodNl, udonThaniCityFoodNl };
+export { ayutthayaCityFoodNl, bangkokCityFoodNl, buengKanCityFoodNl, chanthaburiCityFoodNl, chiangKhanCityFoodNl, chumphonCityFoodNl, chiangRaiCityFoodNl, chiangMaiCityFoodNl, hatYaiCityFoodNl, huaHinCityFoodNl, kanchanaburiCityFoodNl, kohSamuiCityFoodNl, khonKaenCityFoodNl, krabiCityFoodNl, lampangCityFoodNl, lopburiCityFoodNl, maeHongSonCityFoodNl, nakhonRatchasimaCityFoodNl, nakhonSiThammaratCityFoodNl, nongKhaiCityFoodNl, paiCityFoodNl, pattayaCityFoodNl, phitsanulokCityFoodNl, phuketCityFoodNl, rayongCityFoodNl, sukhothaiCityFoodNl, suratThaniCityFoodNl, trangCityFoodNl, tratCityFoodNl, ubonRatchathaniCityFoodNl, udonThaniCityFoodNl };
