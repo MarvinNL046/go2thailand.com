@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-30T19:02:22.782Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "nakhon si thammarat eten",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "nakhon si thammarat eten"
+  ],
+  "keywords": [
+    {
+      "keyword": "nakhon si thammarat eten",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

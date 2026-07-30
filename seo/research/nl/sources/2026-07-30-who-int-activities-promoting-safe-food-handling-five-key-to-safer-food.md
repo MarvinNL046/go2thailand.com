@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food
 
-**Captured:** 2026-07-30T18:41:19.257Z
+**Captured:** 2026-07-30T19:04:36.870Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
@@ -140,3 +140,4 @@ Fact sheets
 [Diseases and conditions](https://www.who.int/health-topics/foodborne-diseases)
 
 [Foodborne diseases](https://www.who.int/health-topics/foodborne-diseases)
+
