@@ -1266,6 +1266,12 @@ for (const proof of ['kohPhiPhiIslandGuide', "breadcrumbsRoot: { label: 'Eilande
 }
 if (!read('data/islands/nl-guides/index.ts').includes("'koh-phi-phi': kohPhiPhiIslandGuide")) failures.push('NL island guide registry does not wire Koh Phi Phi');
 read('public/images/redesign/koh-phi-phi-island-hero-nl.webp');
+const kohLantaIslandData = read('data/islands/nl-guides/koh-lanta.ts');
+for (const proof of ['kohLantaIslandGuide', "breadcrumbsRoot: { label: 'Eilanden'", 'Department of National Parks Thailand', 'koh-lanta-island-hero-nl.webp']) {
+  if (!kohLantaIslandData.includes(proof)) failures.push(`Koh Lanta island owner lacks proof: ${proof}`);
+}
+if (!read('data/islands/nl-guides/index.ts').includes("'koh-lanta': kohLantaIslandGuide")) failures.push('NL island guide registry does not wire Koh Lanta');
+read('public/images/redesign/koh-lanta-island-hero-nl.webp');
 
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);
