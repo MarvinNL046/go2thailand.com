@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-30T15:20:40.127Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "kanchanaburi street food",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "kanchanaburi street food"
+  ],
+  "keywords": [
+    {
+      "keyword": "kanchanaburi street food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
