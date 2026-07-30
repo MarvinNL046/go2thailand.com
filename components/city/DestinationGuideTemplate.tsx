@@ -115,7 +115,7 @@ const templateCopy = {
     faqEyebrow: "Echte zoekvragen & reisbeslissingen",
     faqTitle: "Veelgestelde vragen over",
     faqDescription: (city: string) =>
-      `Dit blok combineert echte People Also Ask-vragen voor ${city} met noodzakelijke planningsvragen. Alleen vragen die daadwerkelijk in DataForSEO zijn aangetroffen, worden in de onderzoeksbrief als letterlijke PAA gemarkeerd.`,
+      `Dit blok combineert zichtbare People Also Ask-vragen voor ${city} met noodzakelijke planningsvragen. De onderzoeksbrief vermeldt per vraag of die rechtstreeks in de actuele zoekresultaten is aangetroffen en via welke onderzoeksmethode.`,
     related: "Bouw je reis verder uit",
     relatedEyebrow: "Verder plannen",
     relatedSide: "Uitjes via Klook",
