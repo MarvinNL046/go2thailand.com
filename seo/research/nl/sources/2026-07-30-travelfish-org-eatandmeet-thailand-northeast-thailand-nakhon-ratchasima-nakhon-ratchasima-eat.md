@@ -1,6 +1,6 @@
 # DFS parsed source — https://www.travelfish.org/eatandmeet/thailand/northeast_thailand/nakhon_ratchasima/nakhon_ratchasima/eat
 
-**Captured:** 2026-07-30T16:28:56.019Z
+**Captured:** 2026-07-30T17:04:38.420Z
 **Cost:** 0.00015
 **HTTP status:** 200
 
