@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-30T15:57:03.994Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "lopburi eten",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "lopburi eten"
+  ],
+  "keywords": [
+    {
+      "keyword": "lopburi eten",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}
