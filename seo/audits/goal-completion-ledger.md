@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-30T22:17:15.767Z
+**Generated:** 2026-07-30T23:46:44.038Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 703 | 703 | 703 | 0 | 147 | 36 | 72 | 485 |
+| NL | 703 | 703 | 703 | 0 | 155 | 36 | 72 | 475 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -358,12 +358,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:island
 
-- Family accepted: **0/10**
-- Exact owners registered: **1/10**
-- Closed: **no**
-- Remaining routes: **10**
-- Sample: `/nl/islands/`, `/nl/islands/koh-samui/`, `/nl/islands/koh-phangan/`, `/nl/islands/koh-phi-phi/`, `/nl/islands/koh-lanta/`, `/nl/islands/koh-chang/`, `/nl/islands/koh-lipe/`, `/nl/islands/koh-yao-noi/`, `/nl/islands/koh-mak/`, `/nl/islands/koh-samet/`
-- Evidence: not signed off
+- Family accepted: **10/10**
+- Exact owners registered: **9/10**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-island-family-2026-07-31.md`
 
 ### nl:island:koh-tao
 

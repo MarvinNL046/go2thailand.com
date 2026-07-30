@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T22:17:15.767Z",
+  "generatedAt": "2026-07-30T23:46:44.038Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,15 +9,15 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 147,
+      "exactOwners": 155,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 485,
+      "provisionalInventoryDecisions": 475,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
-      "sitewideReport": "seo/audits/runtime/nl-practical-family-final-2026-07-31.json",
+      "sitewideReport": "seo/audits/runtime/nl-koh-phangan-final-2026-07-31.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T22:16:43.345Z",
+        "generatedAt": "2026-07-30T22:35:53.557Z",
         "routeCount": 703,
         "passedRoutes": 703,
         "failedRoutes": 0,
@@ -805,26 +805,17 @@
       "closed": true
     },
     "nl:island": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:island.",
+      "definition": "The Dutch island main queue is closed at ten of ten: nine independently researched canonical premium owners plus the intentional permanent Koh Samui consolidation into its stronger city destination owner. The separate four-route Koh Tao family remains independently accepted.",
       "expected": 10,
-      "complete": 0,
-      "exactOwners": 1,
-      "remainingCount": 10,
-      "remaining": [
-        "/nl/islands/",
-        "/nl/islands/koh-samui/",
-        "/nl/islands/koh-phangan/",
-        "/nl/islands/koh-phi-phi/",
-        "/nl/islands/koh-lanta/",
-        "/nl/islands/koh-chang/",
-        "/nl/islands/koh-lipe/",
-        "/nl/islands/koh-yao-noi/",
-        "/nl/islands/koh-mak/",
-        "/nl/islands/koh-samet/"
-      ],
+      "complete": 10,
+      "exactOwners": 9,
+      "remainingCount": 0,
+      "remaining": [],
       "remainingTruncated": false,
-      "evidence": [],
-      "closed": false
+      "evidence": [
+        "seo/audits/nl-island-family-2026-07-31.md"
+      ],
+      "closed": true
     },
     "nl:island:koh-tao": {
       "definition": "The four-route Dutch Koh Tao island, attraction, diving and snorkelling cluster has explicit production acceptance.",
@@ -1219,12 +1210,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6329,12 +6320,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -6343,12 +6334,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6371,12 +6362,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6385,12 +6376,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6399,12 +6390,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6413,12 +6404,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6427,12 +6418,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6441,12 +6432,12 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6455,7 +6446,7 @@
       "templateOwner": "island",
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
