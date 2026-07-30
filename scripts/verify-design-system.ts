@@ -1284,6 +1284,12 @@ for (const proof of ['kohLipeIslandGuide', "breadcrumbsRoot: { label: 'Eilanden'
 }
 if (!read('data/islands/nl-guides/index.ts').includes("'koh-lipe': kohLipeIslandGuide")) failures.push('NL island guide registry does not wire Koh Lipe');
 read('public/images/redesign/koh-lipe-island-hero-nl.webp');
+const kohYaoNoiIslandData = read('data/islands/nl-guides/koh-yao-noi.ts');
+for (const proof of ['kohYaoNoiIslandGuide', "breadcrumbsRoot: { label: 'Eilanden'", 'Thai Meteorological Department', 'koh-yao-noi-island-hero-nl.webp']) {
+  if (!kohYaoNoiIslandData.includes(proof)) failures.push(`NL Koh Yao Noi island owner missing proof: ${proof}`);
+}
+if (!read('data/islands/nl-guides/index.ts').includes("'koh-yao-noi': kohYaoNoiIslandGuide")) failures.push('NL island guide registry does not wire Koh Yao Noi');
+read('public/images/redesign/koh-yao-noi-island-hero-nl.webp');
 
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);

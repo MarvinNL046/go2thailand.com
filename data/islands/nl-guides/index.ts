@@ -5,6 +5,7 @@ import { kohPhiPhiIslandGuide } from './koh-phi-phi';
 import { kohLantaIslandGuide } from './koh-lanta';
 import { kohChangIslandGuide } from './koh-chang';
 import { kohLipeIslandGuide } from './koh-lipe';
+import { kohYaoNoiIslandGuide } from './koh-yao-noi';
 
 const guides = {
   'koh-tao': kohTaoIslandGuide,
@@ -14,10 +15,11 @@ const guides = {
   'koh-lanta': kohLantaIslandGuide,
   'koh-chang': kohChangIslandGuide,
   'koh-lipe': kohLipeIslandGuide,
+  'koh-yao-noi': kohYaoNoiIslandGuide,
 };
 
 export function getNlIslandGuide(slug: string) {
   return guides[slug as keyof typeof guides];
 }
 
-export { kohChangIslandGuide, kohLantaIslandGuide, kohLipeIslandGuide, kohPhanganIslandGuide, kohPhiPhiIslandGuide, kohSametIslandGuide, kohTaoIslandGuide };
+export { kohChangIslandGuide, kohLantaIslandGuide, kohLipeIslandGuide, kohPhanganIslandGuide, kohPhiPhiIslandGuide, kohSametIslandGuide, kohTaoIslandGuide, kohYaoNoiIslandGuide };
