@@ -23,7 +23,7 @@
     {
       "key": "nl:destination-subpillar:food",
       "status": "pending",
-      "acceptedRoutes": ["/nl/city/ayutthaya/food/", "/nl/city/bangkok/food/", "/nl/city/chiang-mai/food/", "/nl/city/chiang-rai/food/", "/nl/city/hat-yai/food/", "/nl/city/hua-hin/food/", "/nl/city/kanchanaburi/food/", "/nl/city/khon-kaen/food/", "/nl/city/koh-samui/food/", "/nl/city/krabi/food/", "/nl/city/lampang/food/", "/nl/city/lopburi/food/", "/nl/city/mae-hong-son/food/", "/nl/city/nakhon-ratchasima/food/", "/nl/city/nakhon-si-thammarat/food/", "/nl/city/pai/food/", "/nl/city/pattaya/food/", "/nl/city/phitsanulok/food/", "/nl/city/phuket/food/", "/nl/city/rayong/food/", "/nl/city/sukhothai/food/", "/nl/city/surat-thani/food/", "/nl/city/trat/food/", "/nl/city/ubon-ratchathani/food/", "/nl/city/udon-thani/food/"],
+      "acceptedRoutes": ["/nl/city/ayutthaya/food/", "/nl/city/bangkok/food/", "/nl/city/chiang-mai/food/", "/nl/city/chiang-rai/food/", "/nl/city/hat-yai/food/", "/nl/city/hua-hin/food/", "/nl/city/kanchanaburi/food/", "/nl/city/khon-kaen/food/", "/nl/city/koh-samui/food/", "/nl/city/krabi/food/", "/nl/city/lampang/food/", "/nl/city/lopburi/food/", "/nl/city/mae-hong-son/food/", "/nl/city/nakhon-ratchasima/food/", "/nl/city/nakhon-si-thammarat/food/", "/nl/city/pai/food/", "/nl/city/pattaya/food/", "/nl/city/phitsanulok/food/", "/nl/city/phuket/food/", "/nl/city/rayong/food/", "/nl/city/sukhothai/food/", "/nl/city/surat-thani/food/", "/nl/city/trang/food/", "/nl/city/trat/food/", "/nl/city/ubon-ratchathani/food/", "/nl/city/udon-thani/food/"],
       "evidence": [
         "seo/audits/nl-ayutthaya-city-food-owner-2026-07-29.md",
         "seo/audits/nl-bangkok-city-food-owner-2026-07-29.md",
@@ -44,6 +44,7 @@
         "seo/audits/nl-pattaya-city-food-owner-2026-07-29.md",
         "seo/audits/nl-phitsanulok-city-food-owner-2026-07-30.md",
         "seo/audits/nl-rayong-city-food-owner-2026-07-30.md",
+        "seo/audits/nl-trang-city-food-owner-2026-07-30.md",
         "seo/audits/nl-trat-city-food-owner-2026-07-30.md",
         "seo/audits/nl-phuket-city-food-owner-2026-07-29.md",
         "seo/audits/nl-sukhothai-city-food-owner-2026-07-30.md",
@@ -51,7 +52,7 @@
         "seo/audits/nl-ubon-ratchathani-city-food-owner-2026-07-30.md",
         "seo/audits/nl-udon-thani-city-food-owner-2026-07-30.md"
       ],
-      "note": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Chiang Mai, Chiang Rai, Hat Yai, Hua Hin, Kanchanaburi, Khon Kaen, Koh Samui, Krabi, Lampang, Lopburi, Mae Hong Son, Nakhon Ratchasima/Korat, Nakhon Si Thammarat, Pai, Pattaya, Phitsanulok, Phuket, Rayong, Sukhothai, Surat Thani, Trat, Ubon Ratchathani and Udon Thani are independently researched and production-verified."
+      "note": "The Dutch city-food family is being accepted owner by owner; Ayutthaya, Bangkok, Chiang Mai, Chiang Rai, Hat Yai, Hua Hin, Kanchanaburi, Khon Kaen, Koh Samui, Krabi, Lampang, Lopburi, Mae Hong Son, Nakhon Ratchasima/Korat, Nakhon Si Thammarat, Pai, Pattaya, Phitsanulok, Phuket, Rayong, Sukhothai, Surat Thani, Trang, Trat, Ubon Ratchathani and Udon Thani are independently researched and production-verified."
     },
     {
       "key": "nl:food-drink",
