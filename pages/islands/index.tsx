@@ -8,6 +8,7 @@ import IslandCard from '../../components/IslandCard';
 import { getAllIslands } from '../../lib/islands';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
+import ThailandIslandsDirectoryNl from '../../components/islands/ThailandIslandsDirectoryNl';
 
 interface Island {
   id: number;
@@ -51,6 +52,8 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
   const [selectedRegion, setSelectedRegion] = useState<string>('all');
+
+  if (isNl) return <ThailandIslandsDirectoryNl islands={islands} />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

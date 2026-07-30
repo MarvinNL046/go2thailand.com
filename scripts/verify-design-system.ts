@@ -1247,6 +1247,14 @@ for (const proof of ['scamsSafetyNl', 'atmMoneyNl', 'PracticalDecisionGuideTempl
 }
 if (!practicalIndexRoute.includes('PracticalInfoHubGuide')) failures.push('Practical index does not wire the NL premium hub');
 
+const nlIslandDirectory = read('components/islands/ThailandIslandsDirectoryNl.tsx');
+const islandIndexRoute = read('pages/islands/index.tsx');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'ThailandMapGraphic', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'data-premium-template="thailand-islands-directory-nl"', 'noopener noreferrer nofollow sponsored']) {
+  if (!nlIslandDirectory.includes(proof)) failures.push(`NL island directory lacks proof: ${proof}`);
+}
+if (!islandIndexRoute.includes('ThailandIslandsDirectoryNl')) failures.push('Island index does not wire the NL premium directory');
+read('public/images/redesign/thailand-island-hopping-hero-v2.webp');
+
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);
   failures.forEach(failure => console.error(`- ${failure}`));
