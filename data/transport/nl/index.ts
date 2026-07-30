@@ -80,6 +80,14 @@ export const transportHubNl = {
       answer: 'Stadsvervoer, regionale bussen en treinklassen hebben verschillende tarieven en die kunnen wijzigen. Voor een bruikbare begroting vergelijk je de actuele routeprijs en noteer je daarnaast lokaal vervoer van station, pier of luchthaven naar je verblijf.',
     },
     {
+      question: 'Wat kost gemiddeld een taxi in Thailand?',
+      answer: 'Er bestaat geen betrouwbaar landelijk gemiddelde: stad, afstand, meter of vaste prijs, tol, luchthavenopslag, voertuig en vraagmoment verschillen. Controleer vóór vertrek of de meter wordt gebruikt of spreek de totale actuele prijs inclusief tol en toeslagen duidelijk af.',
+    },
+    {
+      question: 'Wat moet je vermijden in Thailand?',
+      answer: 'Voor vervoer: stap niet in zonder het voertuig, vertrekpunt en de prijsafspraak te begrijpen; boek losse aansluitingen niet onrealistisch strak en rijd niet zonder de juiste bevoegdheid en verzekeringsdekking. Controleer actuele reis- en verkeersadviezen voor je eigen route.',
+    },
+    {
       question: 'Wat is de goedkoopste manier om door Thailand te reizen?',
       answer: 'Op veel landroutes zijn gewone bussen en lagere treinklassen voordelig, maar de goedkoopste optie is niet altijd de beste waarde. Een lange nachtbus kan een dag kosten; een nachttrein kan juist een overnachting uitsparen. Vergelijk prijs, reistijd en aankomsttijd samen.',
     },

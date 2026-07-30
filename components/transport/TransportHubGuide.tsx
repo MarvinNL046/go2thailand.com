@@ -145,7 +145,7 @@ export default function TransportHubGuide({ allRoutes, cities }: TransportHubGui
 
   return (
     <>
-      <SEOHead title={content.seo.title} description={content.seo.description} ogImage="https://go2-thailand.com/images/blog/bangkok-chiang-mai-sleeper-train-guide-2026.webp">
+      <SEOHead title={content.seo.title} description={content.seo.description} ogImage="https://go2-thailand.com/images/redesign/transport-thailand-hero.webp">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }} />
@@ -154,8 +154,8 @@ export default function TransportHubGuide({ allRoutes, cities }: TransportHubGui
 
       <div className="bg-canvas text-charcoal">
         <EditorialHero
-          image="/images/blog/bangkok-chiang-mai-sleeper-train-guide-2026.webp"
-          imageAlt="Nachttrein op het spoor tussen Bangkok en Chiang Mai"
+          image="/images/redesign/transport-thailand-hero.webp"
+          imageAlt="Thaise trein op een groen landelijk station als onderdeel van een reis door Thailand"
           breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Vervoer' }]}
           eyebrow={content.hero.eyebrow}
           title={<>{content.hero.title}{' '}<span className="block text-saffron-dark">{content.hero.accent}</span></>}
@@ -251,7 +251,7 @@ export default function TransportHubGuide({ allRoutes, cities }: TransportHubGui
           </div>
         </section>
 
-        <FaqSplitSection id="vragen" eyebrow="Voor vertrek" title="Veelgestelde vragen over vervoer in Thailand" description="Deze vragen zijn letterlijk vastgelegd in de Nederlandse DataForSEO-SERP. Antwoorden gebruiken actuele routeprijzen als variabele en vermijden schijnprecisie." items={[...content.faqs]} />
+        <FaqSplitSection id="vragen" eyebrow="Voor vertrek" title="Veelgestelde vragen over vervoer in Thailand" description="Deze vragen zijn vastgelegd in Nederlandse DataForSEO- en zichtbare Google-resultaten. Antwoorden gebruiken actuele routeprijzen als variabele en vermijden schijnprecisie." items={[...content.faqs]} />
 
         <RelatedGuidesSection eyebrow="Bouw je route" title="Plan de rest van je reis" guides={[
           { title: 'Thailand reisroutes', description: 'Kies een logische lijn met minder verplaatsingen.', href: '/itineraries/', image: '/images/redesign/krabi-destination-hero.webp', imageAlt: 'Route door het landschap van Thailand' },
@@ -259,7 +259,7 @@ export default function TransportHubGuide({ allRoutes, cities }: TransportHubGui
           { title: 'Praktische informatie', description: 'Geld, veiligheid, paklijst en lokale etiquette.', href: '/practical-info/', image: '/images/blog/bangkok-airport-transfer-guide-2026.webp', imageAlt: 'Reiziger onderweg vanaf een luchthaven in Thailand' },
         ]} />
 
-        <SourceMethodSection eyebrow="Bronnen & actualiteit" title="Hoe deze vervoersgids is opgebouwd" description="De zoekintentie, concurrenten en echte PAA-vragen zijn op 23 juli 2026 met DataForSEO voor Nederland vastgelegd. Voor treinreserveringen verwijzen we naar de officiële SRT-kanalen. Routeprijzen en dienstregelingen worden niet als vaste feiten in de tekst gezet." sources={[...content.sources]} />
+        <SourceMethodSection eyebrow="Bronnen & actualiteit" title="Hoe deze vervoersgids is opgebouwd" description="De zoekintentie en concurrenten zijn met DataForSEO vastgelegd; de actuele Nederlandse SERP en echte PAA-vragen zijn op 30 juli 2026 zichtbaar herbeoordeeld. Voor treinreserveringen verwijzen we naar de officiële SRT-kanalen. Routeprijzen en dienstregelingen worden niet als vaste feiten in de tekst gezet." sources={[...content.sources]} />
       </div>
     </>
   );

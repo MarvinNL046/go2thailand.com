@@ -487,6 +487,10 @@ for (const primitive of ['SectionHeading', 'FaqSplitSection', 'RelatedGuidesSect
 if (!read('pages/city/index.tsx').includes('DestinationIndexGuide')) failures.push('The city index does not wire the destination index template');
 if (!read('pages/activities/index.tsx').includes('ThailandExcursionsGuide')) failures.push('The activities index does not wire the commercial activity template');
 if (!read('pages/transport/index.tsx').includes('TransportHubGuide')) failures.push('The transport index does not wire the practical route template');
+const transportHubTemplateNl = read('components/transport/TransportHubGuide.tsx');
+for (const proof of ['transport-thailand-hero.webp', 'FaqSplitSection', 'SourceMethodSection', 'TWELVEGO_GENERIC', 'nofollow sponsored']) {
+  if (!transportHubTemplateNl.includes(proof)) failures.push(`The Dutch transport hub lacks owner proof: ${proof}`);
+}
 if (!read('pages/thailand-for-first-timers.tsx').includes('FirstTimeThailandGuide')) failures.push('The first-timer route does not wire the editorial guide template');
 const comparisonRoute = read('pages/compare/[slug].tsx');
 for (const proof of ['PhuketKrabiComparisonGuide', "locale={lang}", "slug === 'phuket-vs-krabi'"]) {
