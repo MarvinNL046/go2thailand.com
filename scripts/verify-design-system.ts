@@ -1278,6 +1278,12 @@ for (const proof of ['kohChangIslandGuide', "breadcrumbsRoot: { label: 'Eilanden
 }
 if (!read('data/islands/nl-guides/index.ts').includes("'koh-chang': kohChangIslandGuide")) failures.push('NL island guide registry does not wire Koh Chang');
 read('public/images/redesign/koh-chang-island-hero-nl.webp');
+const kohLipeIslandData = read('data/islands/nl-guides/koh-lipe.ts');
+for (const proof of ['kohLipeIslandGuide', "breadcrumbsRoot: { label: 'Eilanden'", 'Department of National Parks Thailand', 'koh-lipe-island-hero-nl.webp']) {
+  if (!kohLipeIslandData.includes(proof)) failures.push(`Koh Lipe island owner lacks proof: ${proof}`);
+}
+if (!read('data/islands/nl-guides/index.ts').includes("'koh-lipe': kohLipeIslandGuide")) failures.push('NL island guide registry does not wire Koh Lipe');
+read('public/images/redesign/koh-lipe-island-hero-nl.webp');
 
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);
