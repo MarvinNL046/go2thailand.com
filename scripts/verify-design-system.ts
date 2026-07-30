@@ -1254,6 +1254,12 @@ for (const proof of ['EditorialHero', 'PageSectionNav', 'ThailandMapGraphic', 'F
 }
 if (!islandIndexRoute.includes('ThailandIslandsDirectoryNl')) failures.push('Island index does not wire the NL premium directory');
 read('public/images/redesign/thailand-island-hopping-hero-v2.webp');
+const kohPhanganIslandData = read('data/islands/nl-guides/koh-phangan.ts');
+for (const proof of ['kohPhanganIslandGuide', "breadcrumbsRoot: { label: 'Eilanden'", 'Full Moon Party schedule', 'koh-phangan-island-hero-nl.webp']) {
+  if (!kohPhanganIslandData.includes(proof)) failures.push(`Koh Phangan island owner lacks proof: ${proof}`);
+}
+if (!read('data/islands/nl-guides/index.ts').includes("'koh-phangan': kohPhanganIslandGuide")) failures.push('NL island guide registry does not wire Koh Phangan');
+read('public/images/redesign/koh-phangan-island-hero-nl.webp');
 
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);
