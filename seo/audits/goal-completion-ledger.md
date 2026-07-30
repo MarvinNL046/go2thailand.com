@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-30T17:18:56.986Z
+**Generated:** 2026-07-30T19:00:50.812Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 703 | 703 | 702 | 1 | 132 | 23 | 46 | 504 |
+| NL | 703 | 703 | 702 | 1 | 133 | 24 | 48 | 503 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -277,12 +277,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:destination-subpillar:food
 
-- Family accepted: **23/34**
-- Exact owners registered: **23/34**
+- Family accepted: **24/34**
+- Exact owners registered: **24/34**
 - Closed: **no**
-- Remaining routes: **11**
-- Sample: `/nl/city/koh-samui/food/`, `/nl/city/nakhon-si-thammarat/food/`, `/nl/city/trang/food/`, `/nl/city/chumphon/food/`, `/nl/city/chanthaburi/food/`, `/nl/city/chiang-khan/food/`, `/nl/city/nong-khai/food/`, `/nl/city/bueng-kan/food/`, `/nl/city/nakhon-phanom/food/`, `/nl/city/mukdahan/food/`, `/nl/city/khao-sok/food/`
-- Evidence: `seo/audits/nl-ayutthaya-city-food-owner-2026-07-29.md`, `seo/audits/nl-bangkok-city-food-owner-2026-07-29.md`, `seo/audits/nl-chiang-mai-city-food-owner-2026-07-29.md`, `seo/audits/nl-chiang-rai-city-food-owner-2026-07-29.md`, `seo/audits/nl-hat-yai-city-food-owner-2026-07-29.md`, `seo/audits/nl-hua-hin-city-food-owner-2026-07-30.md`, `seo/audits/nl-kanchanaburi-city-food-owner-2026-07-30.md`, `seo/audits/nl-khon-kaen-city-food-owner-2026-07-30.md`, `seo/audits/nl-krabi-city-food-owner-2026-07-29.md`, `seo/audits/nl-lampang-city-food-owner-2026-07-30.md`, `seo/audits/nl-lopburi-city-food-owner-2026-07-30.md`, `seo/audits/nl-mae-hong-son-city-food-owner-2026-07-30.md`, `seo/audits/nl-nakhon-ratchasima-city-food-owner-2026-07-30.md`, `seo/audits/nl-pai-city-food-owner-2026-07-30.md`, `seo/audits/nl-pattaya-city-food-owner-2026-07-29.md`, `seo/audits/nl-phitsanulok-city-food-owner-2026-07-30.md`, `seo/audits/nl-rayong-city-food-owner-2026-07-30.md`, `seo/audits/nl-trat-city-food-owner-2026-07-30.md`, `seo/audits/nl-phuket-city-food-owner-2026-07-29.md`, `seo/audits/nl-sukhothai-city-food-owner-2026-07-30.md`, `seo/audits/nl-surat-thani-city-food-owner-2026-07-30.md`, `seo/audits/nl-ubon-ratchathani-city-food-owner-2026-07-30.md`, `seo/audits/nl-udon-thani-city-food-owner-2026-07-30.md`
+- Remaining routes: **10**
+- Sample: `/nl/city/nakhon-si-thammarat/food/`, `/nl/city/trang/food/`, `/nl/city/chumphon/food/`, `/nl/city/chanthaburi/food/`, `/nl/city/chiang-khan/food/`, `/nl/city/nong-khai/food/`, `/nl/city/bueng-kan/food/`, `/nl/city/nakhon-phanom/food/`, `/nl/city/mukdahan/food/`, `/nl/city/khao-sok/food/`
+- Evidence: `seo/audits/nl-ayutthaya-city-food-owner-2026-07-29.md`, `seo/audits/nl-bangkok-city-food-owner-2026-07-29.md`, `seo/audits/nl-chiang-mai-city-food-owner-2026-07-29.md`, `seo/audits/nl-chiang-rai-city-food-owner-2026-07-29.md`, `seo/audits/nl-hat-yai-city-food-owner-2026-07-29.md`, `seo/audits/nl-hua-hin-city-food-owner-2026-07-30.md`, `seo/audits/nl-kanchanaburi-city-food-owner-2026-07-30.md`, `seo/audits/nl-khon-kaen-city-food-owner-2026-07-30.md`, `seo/audits/nl-koh-samui-city-food-owner-2026-07-30.md`, `seo/audits/nl-krabi-city-food-owner-2026-07-29.md`, `seo/audits/nl-lampang-city-food-owner-2026-07-30.md`, `seo/audits/nl-lopburi-city-food-owner-2026-07-30.md`, `seo/audits/nl-mae-hong-son-city-food-owner-2026-07-30.md`, `seo/audits/nl-nakhon-ratchasima-city-food-owner-2026-07-30.md`, `seo/audits/nl-pai-city-food-owner-2026-07-30.md`, `seo/audits/nl-pattaya-city-food-owner-2026-07-29.md`, `seo/audits/nl-phitsanulok-city-food-owner-2026-07-30.md`, `seo/audits/nl-rayong-city-food-owner-2026-07-30.md`, `seo/audits/nl-trat-city-food-owner-2026-07-30.md`, `seo/audits/nl-phuket-city-food-owner-2026-07-29.md`, `seo/audits/nl-sukhothai-city-food-owner-2026-07-30.md`, `seo/audits/nl-surat-thani-city-food-owner-2026-07-30.md`, `seo/audits/nl-ubon-ratchathani-city-food-owner-2026-07-30.md`, `seo/audits/nl-udon-thani-city-food-owner-2026-07-30.md`
 
 ### nl:destination-subpillar:weather
 
