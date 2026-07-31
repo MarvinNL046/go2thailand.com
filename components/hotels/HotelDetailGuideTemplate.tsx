@@ -47,7 +47,8 @@ const sectionNavItems: PageSectionNavItem[] = [
 
 export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetailGuideTemplateProps) {
   const destinationHref = data.destinationHref || `/city/${data.citySlug}/`;
-  const hotelGuideHref = `/best-hotels/${data.citySlug}/`;
+  const hotelGuideHref = data.hotelGuideHref || `/best-hotels/${data.citySlug}/`;
+  const hotelGuideLabel = data.hotelGuideLabel || `Hotels in ${data.cityName}`;
   const actions: EditorialHeroAction[] = [
     { label: data.hero.ctaLabel, href: tripHref, kind: 'primary', newTab: true, affiliate: true },
     { label: 'Lees het eerlijke oordeel', href: '#kort', kind: 'secondary' },
@@ -55,7 +56,7 @@ export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetail
   const heroBreadcrumbs = [
     { label: 'Thailand', href: '/' },
     { label: data.cityName, href: destinationHref },
-    { label: 'Hotels', href: hotelGuideHref },
+    { label: hotelGuideLabel, href: hotelGuideHref },
     { label: data.hotelName },
   ];
   const breadcrumbSchema = {
@@ -64,7 +65,7 @@ export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetail
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Thailand', item: 'https://go2-thailand.com/nl/' },
       { '@type': 'ListItem', position: 2, name: data.cityName, item: `https://go2-thailand.com/nl${destinationHref}` },
-      { '@type': 'ListItem', position: 3, name: `Hotels in ${data.cityName}`, item: `https://go2-thailand.com/nl${hotelGuideHref}` },
+      { '@type': 'ListItem', position: 3, name: hotelGuideLabel, item: `https://go2-thailand.com/nl${hotelGuideHref}` },
       { '@type': 'ListItem', position: 4, name: data.hotelName, item: data.pageUrl },
     ],
   };
@@ -223,9 +224,9 @@ export default function HotelDetailGuideTemplate({ data, tripHref }: HotelDetail
         </section>
 
         <FaqSplitSection
-          eyebrow="Echte vragen uit de zoekresultaten"
+          eyebrow={data.faqEyebrow || 'Echte vragen uit de zoekresultaten'}
           title={`Veelgestelde vragen over ${data.hotelName}`}
-          description="De vragen komen uit Nederlandse zoekresultaten en zijn aangevuld met beslispunten die vaak pas vlak voor het boeken opvallen. Feiten zijn gecontroleerd bij primaire bronnen."
+          description={data.faqDescription || 'De vragen komen uit Nederlandse zoekresultaten en zijn aangevuld met beslispunten die vaak pas vlak voor het boeken opvallen. Feiten zijn gecontroleerd bij primaire bronnen.'}
           items={data.faqs}
         />
 

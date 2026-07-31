@@ -20,6 +20,8 @@ export interface HotelDetailGuideData {
   cityName: string;
   citySlug: string;
   destinationHref?: string;
+  hotelGuideHref?: string;
+  hotelGuideLabel?: string;
   area: string;
   pageTitle: string;
   pageDescription: string;
@@ -62,6 +64,8 @@ export interface HotelDetailGuideData {
     checks: Array<{ title: string; description: string }>;
   };
   faqs: Array<{ question: string; answer: string }>;
+  faqEyebrow?: string;
+  faqDescription?: string;
   relatedGuides: Array<{ title: string; description: string; href: string; image: string; imageAlt: string }>;
   sources: HotelDetailSource[];
 }

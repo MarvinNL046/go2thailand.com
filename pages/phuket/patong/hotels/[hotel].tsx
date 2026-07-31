@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlPhuketHotelDetailGuide } from '../../../../data/hotel-details/nl-phuket';
+import type { HotelDetailGuideData } from '../../../../data/hotel-details/types';
 import { withSubId, TRIP_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
 
@@ -31,6 +34,7 @@ interface Sibling { slug: string; name: string; }
 
 interface Props {
   hotel: Hotel;
+  nlGuide: HotelDetailGuideData | null;
   tripPartnerUrl: string;
   siblings: Sibling[];
   hotelsHubTripUrl: string;
@@ -113,11 +117,20 @@ const FAQS_NL: Record<string, { q: string; a: string }[]> = {
   ],
 };
 
-export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings, hotelsHubTripUrl, lastUpdated }: Props) {
+export default function PatongHotelReviewPage({ hotel, nlGuide, tripPartnerUrl, siblings, hotelsHubTripUrl, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
   const sub = (placement: string) => `${subId}-pseo-phuket-patong-hotel-${hotel.slug}-${placement}`;
+
+  if (isNl && nlGuide) {
+    return (
+      <HotelDetailGuideTemplate
+        data={nlGuide}
+        tripHref={withSubId(tripPartnerUrl || TRIP_GENERIC, sub('hotel-detail'))}
+      />
+    );
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -345,6 +358,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
+      nlGuide: getNlPhuketHotelDetailGuide(slug),
       tripPartnerUrl,
       siblings,
       hotelsHubTripUrl: partnersData.partners.trip_patong_hotels_hub.partnerUrl,

@@ -57,7 +57,10 @@
         "/nl/best-hotels/krabi/",
         "/nl/best-hotels/phuket/",
         "/nl/best-hotels/prachinburi/",
-        "/nl/best-hotels/satun/"
+        "/nl/best-hotels/satun/",
+        "/nl/phuket/patong/hotels/grand-mercure-phuket-patong/",
+        "/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/",
+        "/nl/phuket/patong/hotels/hotel-indigo-phuket-patong/"
       ],
       "evidence": [
         "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
@@ -72,9 +75,10 @@
         "seo/audits/nl-city-hotel-guides-batch-7-2026-07-31.md",
         "seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md",
         "seo/audits/nl-hotel-overview-family-2026-07-26.md",
-        "seo/audits/nl-city-hotel-guides-batch-9-2026-07-31.md"
+        "seo/audits/nl-city-hotel-guides-batch-9-2026-07-31.md",
+        "seo/audits/nl-phuket-hotel-profiles-batch-1-2026-07-31.md"
       ],
-      "note": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and forty-two independently researched destination hotel owners are premium and accepted; the remaining queue consists of thirty individual Phuket hotel profiles."
+      "note": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners, forty-two destination hotel owners and three individual Patong hotel owners are premium and accepted; twenty-seven individual Phuket hotel profiles remain."
     },
     {
       "key": "nl:destination-guide",

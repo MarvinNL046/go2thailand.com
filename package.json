@@ -46,6 +46,7 @@
     "seo:verify:nl-hotel-overviews": "tsx scripts/verify-nl-hotel-overviews.ts",
     "seo:verify:nl-koh-tao": "tsx scripts/verify-nl-koh-tao-family.ts",
     "seo:verify:nl-hotel-details": "tsx scripts/verify-nl-hotel-details.ts",
+    "seo:verify:nl-phuket-hotel-profiles": "tsx scripts/verify-nl-phuket-hotel-profiles.ts",
     "seo:verify:nl-koh-samet": "tsx scripts/verify-nl-koh-samet.ts",
     "seo:verify:nl-attraction-details": "tsx scripts/verify-nl-attraction-details.ts",
     "seo:verify:nl-core-hubs": "tsx scripts/verify-nl-core-hubs.ts",
