@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:51:16.084Z",
+  "generatedAt": "2026-07-31T14:01:00.771Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 238,
+      "exactOwners": 239,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 412,
+      "provisionalInventoryDecisions": 410,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -570,14 +570,12 @@
       "closed": true
     },
     "nl:commercial-landing": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:commercial-landing.",
+      "definition": "The Dutch commercial family rebuild is active. Activities and the Phuket flights hub have exact researched premium owners; origin-flight and remaining commercial route templates still require independent acceptance.",
       "expected": 53,
-      "complete": 0,
-      "exactOwners": 1,
-      "remainingCount": 53,
+      "complete": 2,
+      "exactOwners": 2,
+      "remainingCount": 51,
       "remaining": [
-        "/nl/activities/",
-        "/nl/flights-to-phuket/",
         "/nl/flights-to-bangkok/",
         "/nl/flights-to-chiang-mai/",
         "/nl/car-rental-phuket/",
@@ -587,10 +585,15 @@
         "/nl/phuket-wedding-venues/",
         "/nl/phuket-honeymoon/",
         "/nl/phuket-luxury-villas/",
-        "/nl/private-pool-villa-phuket/"
+        "/nl/private-pool-villa-phuket/",
+        "/nl/phuket-tours/",
+        "/nl/flights-to-phuket/bangkok/"
       ],
       "remainingTruncated": true,
-      "evidence": [],
+      "evidence": [
+        "seo/audits/nl-activities-hub-pilot-2026-07-24.md",
+        "seo/audits/nl-flights-to-phuket-owner-2026-07-31.md"
+      ],
       "closed": false
     },
     "nl:destination-guide": {
@@ -1017,7 +1020,7 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
@@ -1479,12 +1482,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

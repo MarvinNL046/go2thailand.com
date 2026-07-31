@@ -232,6 +232,16 @@
       "note": "The Dutch Phuket-location family is complete: all fifteen exact owners are independently researched, premium, responsive and separated by intent, including the three Old Town owners and the Patong and Kata spokes."
     },
     {
+      "key": "nl:commercial-landing",
+      "status": "pending",
+      "acceptedRoutes": ["/nl/activities/", "/nl/flights-to-phuket/"],
+      "evidence": [
+        "seo/audits/nl-activities-hub-pilot-2026-07-24.md",
+        "seo/audits/nl-flights-to-phuket-owner-2026-07-31.md"
+      ],
+      "note": "The Dutch commercial family rebuild is active. Activities and the Phuket flights hub have exact researched premium owners; origin-flight and remaining commercial route templates still require independent acceptance."
+    },
+    {
       "key": "en:destination-guide",
       "status": "complete",
       "evidence": [
