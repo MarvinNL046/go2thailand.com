@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import type { TravelIntentPage } from '../../lib/intent-pages';
+import WhereToStayHubNl from '../../components/hotels/WhereToStayHubNl';
 
 interface Props {
   pages: Array<Pick<TravelIntentPage, 'city' | 'cityName' | 'slug' | 'intro' | 'topPicks'>>;
@@ -12,6 +13,7 @@ interface Props {
 export default function WhereToStayHubPage({ pages }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  if (isNl) return <WhereToStayHubNl pages={pages} />;
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Waar verblijven' : 'Where to Stay', href: '/where-to-stay/' },

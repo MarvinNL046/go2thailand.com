@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T15:18:36.352Z",
+  "generatedAt": "2026-07-31T15:26:47.239Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 290,
+      "exactOwners": 291,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 359,
+      "provisionalInventoryDecisions": 358,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -778,13 +778,12 @@
       "closed": true
     },
     "nl:hotel-guide": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:hotel-guide.",
+      "definition": "The Dutch hotel-guide rebuild is active. The national where-to-stay decision hub is independently researched, premium and accepted; destination hotel guides, Phuket area/category hubs and administratively grouped hotel profiles remain.",
       "expected": 75,
-      "complete": 0,
-      "exactOwners": 0,
-      "remainingCount": 75,
+      "complete": 1,
+      "exactOwners": 1,
+      "remainingCount": 74,
       "remaining": [
-        "/nl/where-to-stay/",
         "/nl/phuket/nai-harn/hotels/",
         "/nl/phuket/karon/hotels/",
         "/nl/phuket/patong/hotels/",
@@ -795,10 +794,13 @@
         "/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/",
         "/nl/phuket/patong/hotels/hotel-indigo-phuket-patong/",
         "/nl/phuket/patong/hotels/hotel-clover-patong-phuket/",
-        "/nl/phuket/patong/hotels/movenpick-myth-hotel-patong-phuket/"
+        "/nl/phuket/patong/hotels/movenpick-myth-hotel-patong-phuket/",
+        "/nl/phuket/patong/hotels/lub-d-phuket-patong/"
       ],
       "remainingTruncated": true,
-      "evidence": [],
+      "evidence": [
+        "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md"
+      ],
       "closed": false
     },
     "nl:hotel-guide:accepted-seven": {
@@ -1182,12 +1184,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

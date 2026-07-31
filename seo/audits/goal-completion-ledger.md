@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T15:18:36.352Z
+**Generated:** 2026-07-31T15:26:47.239Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 703 | 703 | 0 | 290 | 36 | 72 | 359 |
+| NL | 700 | 703 | 703 | 0 | 291 | 36 | 72 | 358 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -349,12 +349,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:hotel-guide
 
-- Family accepted: **0/75**
-- Exact owners registered: **0/75**
+- Family accepted: **1/75**
+- Exact owners registered: **1/75**
 - Closed: **no**
-- Remaining routes: **75** (first 12 shown)
-- Sample: `/nl/where-to-stay/`, `/nl/phuket/nai-harn/hotels/`, `/nl/phuket/karon/hotels/`, `/nl/phuket/patong/hotels/`, `/nl/phuket/kata/hotels/`, `/nl/phuket/kamala/hotels/`, `/nl/phuket/bang-tao/hotels/`, `/nl/phuket/patong/hotels/grand-mercure-phuket-patong/`, `/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/`, `/nl/phuket/patong/hotels/hotel-indigo-phuket-patong/`, `/nl/phuket/patong/hotels/hotel-clover-patong-phuket/`, `/nl/phuket/patong/hotels/movenpick-myth-hotel-patong-phuket/`
-- Evidence: not signed off
+- Remaining routes: **74** (first 12 shown)
+- Sample: `/nl/phuket/nai-harn/hotels/`, `/nl/phuket/karon/hotels/`, `/nl/phuket/patong/hotels/`, `/nl/phuket/kata/hotels/`, `/nl/phuket/kamala/hotels/`, `/nl/phuket/bang-tao/hotels/`, `/nl/phuket/patong/hotels/grand-mercure-phuket-patong/`, `/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/`, `/nl/phuket/patong/hotels/hotel-indigo-phuket-patong/`, `/nl/phuket/patong/hotels/hotel-clover-patong-phuket/`, `/nl/phuket/patong/hotels/movenpick-myth-hotel-patong-phuket/`, `/nl/phuket/patong/hotels/lub-d-phuket-patong/`
+- Evidence: `seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md`
 
 ### nl:hotel-guide:accepted-seven
 

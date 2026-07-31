@@ -3,6 +3,17 @@
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family.",
   "families": [
     {
+      "key": "nl:hotel-guide",
+      "status": "pending",
+      "acceptedRoutes": [
+        "/nl/where-to-stay/"
+      ],
+      "evidence": [
+        "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md"
+      ],
+      "note": "The Dutch hotel-guide rebuild is active. The national where-to-stay decision hub is independently researched, premium and accepted; destination hotel guides, Phuket area/category hubs and administratively grouped hotel profiles remain."
+    },
+    {
       "key": "nl:destination-guide",
       "status": "complete",
       "evidence": ["seo/audits/nl-destination-family-2026-07-26.md"],
