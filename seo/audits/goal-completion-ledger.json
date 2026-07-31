@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:26:37.223Z",
+  "generatedAt": "2026-07-31T13:35:11.028Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 235,
+      "exactOwners": 236,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 415,
+      "provisionalInventoryDecisions": 414,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -881,13 +881,12 @@
       "closed": false
     },
     "nl:phuket-location": {
-      "definition": "The Dutch Phuket-location rebuild is active. The three Old Town owners plus Nai Harn, Rawai, Karon, Patong with its nightlife and restaurant spokes, and Kata with its surfing and Kata Noi spokes are independently researched and premium; three beach-area owners remain before family closure.",
+      "definition": "The Dutch Phuket-location rebuild is active. The three Old Town owners plus Nai Harn, Rawai, Karon, Patong with its nightlife and restaurant spokes, Kata with its surfing and Kata Noi spokes, and Kamala are independently researched and premium; Bang Tao and Surin remain before family closure.",
       "expected": 15,
-      "complete": 12,
-      "exactOwners": 12,
-      "remainingCount": 3,
+      "complete": 13,
+      "exactOwners": 13,
+      "remainingCount": 2,
       "remaining": [
-        "/nl/phuket/kamala/",
         "/nl/phuket/bang-tao/",
         "/nl/phuket/surin/"
       ],
@@ -903,7 +902,8 @@
         "seo/audits/nl-phuket-patong-restaurants-owner-2026-07-31.md",
         "seo/audits/nl-phuket-kata-owner-2026-07-31.md",
         "seo/audits/nl-phuket-kata-surfing-owner-2026-07-31.md",
-        "seo/audits/nl-phuket-kata-noi-owner-2026-07-31.md"
+        "seo/audits/nl-phuket-kata-noi-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-kamala-owner-2026-07-31.md"
       ],
       "closed": false
     },
@@ -1872,12 +1872,12 @@
       "templateOwner": "phuket-location",
       "recommendedAction": "template-audit",
       "familyKey": "nl:phuket-location",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
