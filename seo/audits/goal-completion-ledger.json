@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T12:05:28.075Z",
+  "generatedAt": "2026-07-31T12:18:52.398Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -13,7 +13,7 @@
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 424,
+      "provisionalInventoryDecisions": 423,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -881,13 +881,12 @@
       "closed": false
     },
     "nl:phuket-location": {
-      "definition": "The Dutch Phuket-location rebuild is active. All three Old Town owners are independently researched and premium; twelve beach-area and specialist owners remain before family closure.",
+      "definition": "The Dutch Phuket-location rebuild is active. The three Old Town owners and Nai Harn are independently researched and premium; eleven beach-area and specialist owners remain before family closure.",
       "expected": 15,
-      "complete": 3,
+      "complete": 4,
       "exactOwners": 3,
-      "remainingCount": 12,
+      "remainingCount": 11,
       "remaining": [
-        "/nl/phuket/nai-harn/",
         "/nl/phuket/rawai/",
         "/nl/phuket/karon/",
         "/nl/phuket/patong/",
@@ -903,7 +902,8 @@
       "remainingTruncated": false,
       "evidence": [
         "seo/audits/nl-phuket-old-town-owner-2026-07-31.md",
-        "seo/audits/nl-phuket-old-town-spokes-2026-07-31.md"
+        "seo/audits/nl-phuket-old-town-spokes-2026-07-31.md",
+        "seo/audits/nl-phuket-nai-harn-owner-2026-07-31.md"
       ],
       "closed": false
     },
@@ -1690,12 +1690,12 @@
       "templateOwner": "phuket-location",
       "recommendedAction": "template-audit",
       "familyKey": "nl:phuket-location",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
