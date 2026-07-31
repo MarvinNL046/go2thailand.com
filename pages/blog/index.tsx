@@ -23,6 +23,7 @@ import { getPostsForIndex, getAllCategories } from '../../lib/blog';
 import { useSubId } from '../../lib/useSubId';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/blog-index';
+import NlBlogHub from '../../components/editorial/NlBlogHub';
 
 interface BlogPost {
   slug: string;
@@ -51,6 +52,11 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
   const { locale } = useRouter();
   const subId = useSubId();
   const lang = locale === 'nl' ? 'nl' : 'en';
+  const isNl = lang === 'nl';
+
+  if (isNl) {
+    return <NlBlogHub posts={posts} categories={categories} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -84,8 +90,6 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
   const recoveryCategory = selectedCategory === 'all' ? featuredPost?.category : selectedCategory;
   const recoveryTags = Array.from(new Set(filteredPosts.slice(0, 5).flatMap((post) => post.tags))).slice(0, 10);
   const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
-
-  const isNl = lang === 'nl';
 
   const jsonLd = {
     "@context": "https://schema.org",

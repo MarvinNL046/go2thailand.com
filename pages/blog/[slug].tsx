@@ -1,5 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import { useEffect } from 'react';
+import { useEffect, type ComponentType } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
@@ -77,6 +77,13 @@ import ChiangMaiChiangRaiComparisonGuideEn from '../../components/compare/Chiang
 import { KhaoSoiGuideEn } from '../../components/food/KhaoSoiGuideEn';
 import { AirportArrivalGuideTemplate } from '../../components/transport/AirportArrivalGuideTemplate';
 import { phuketAirportGuideEn } from '../../data/airport-guides/en/phuket';
+import {
+  getBlogOwnerRegistration,
+  type BlogOwnerRenderer,
+} from '../../lib/blog-owner-registry';
+import { NlEditorialArticle } from '../../components/editorial/blog/NlEditorialArticle';
+import type { NlEditorialDocument } from '../../data/editorial/blog/types';
+import { combineNlEditorialDocument, loadNlEditorialProfile } from '../../lib/nl-editorial-loader';
 
 interface Source {
   name: string;
@@ -116,6 +123,7 @@ interface BlogPostPageProps {
   relatedPosts: BlogPost[];
   prevPost: AdjacentPost | null;
   nextPost: AdjacentPost | null;
+  editorialDocument?: NlEditorialDocument;
 }
 
 // Travelpayouts embed script URLs — keyed by widget type matching data-widget attribute
@@ -132,11 +140,77 @@ const WIDGET_SCRIPTS: Record<string, string> = {
   nordpass: '',  // No script widget available, fallback CTA box only
 };
 
+type StaticBlogOwnerRenderer = Exclude<
+  BlogOwnerRenderer,
+  'climate-update' | 'phuket-airport-en'
+>;
+
+const STATIC_BLOG_OWNER_COMPONENTS: Record<StaticBlogOwnerRenderer, ComponentType> = {
+  'thai-curry-nl': ThaiCurryGuide,
+  'thai-curry-en': ThaiCurryGuideEn,
+  'durian-nl': DurianThailandGuide,
+  'durian-en': DurianThailandGuideEn,
+  'lumpini-hawker-nl': LumpiniHawkerCentreGuide,
+  'lumpini-hawker-en': LumpiniHawkerCentreGuideEn,
+  'bangkok-coffee-nl': BangkokSpecialtyCoffeeGuide,
+  'bangkok-coffee-en': BangkokSpecialtyCoffeeGuideEn,
+  'cave-fantasy-nl': CaveFantasyBangkokGuide,
+  'cave-fantasy-en': CaveFantasyBangkokGuideEn,
+  'new-luxury-resorts-nl': NewLuxuryResortsThailandGuide,
+  'new-luxury-resorts-en': NewLuxuryResortsThailandGuideEn,
+  'jodd-fairs-nl': JoddFairsRatchadaGuide,
+  'jodd-fairs-en': JoddFairsRatchadaGuideEn,
+  'chatuchak-food-nl': ChatuchakFoodGuide,
+  'chatuchak-food-en': ChatuchakFoodGuideEn,
+  'bangkok-street-food-markets-en': BangkokStreetFoodMarketsGuideEn,
+  'bangkok-first-time-en': BangkokFirstTimeTipsGuideEn,
+  'thai-massage-nl': ThaiMassageThailandGuide,
+  'thai-massage-en': ThaiMassageThailandGuideEn,
+  'muay-thai-beginner-nl': MuayThaiBeginnerTrainingGuide,
+  'muay-thai-beginner-en': MuayThaiBeginnerTrainingGuideEn,
+  'harbor-island-nl': HarborIslandBangkapiGuide,
+  'harbor-island-en': HarborIslandBangkapiGuideEn,
+  'phuket-samui-comparison-en': PhuketSamuiComparisonGuideEn,
+  'thailand-philippines-comparison-en': ThailandPhilippinesComparisonGuideEn,
+  'thailand-bali-comparison-en': ThailandBaliComparisonGuideEn,
+  'thailand-vietnam-comparison-en': ThailandVietnamComparisonGuideEn,
+  'bangkok-koh-samui-en': BangkokKohSamuiJourneyEn,
+  'bangkok-chiang-mai-sleeper-en': BangkokChiangMaiSleeperTrainEn,
+  'thailand-island-hopping-en': ThailandIslandHoppingGuideEn,
+  'how-long-thailand-en': HowLongThailandGuideEn,
+  'best-time-thailand-en': BestTimeThailandGuideEn,
+  'bts-bangkok-concert-en': BtsBangkokConcertGuideEn,
+  'chiang-mai-chiang-rai-comparison-en': ChiangMaiChiangRaiComparisonGuideEn,
+  'khao-soi-en': KhaoSoiGuideEn,
+};
+
+function isStaticBlogOwnerRenderer(
+  renderer: BlogOwnerRenderer,
+): renderer is StaticBlogOwnerRenderer {
+  return renderer !== 'climate-update' && renderer !== 'phuket-airport-en';
+}
+
 function toAbsoluteImageUrl(image: string) {
   return /^https?:\/\//i.test(image) ? image : `https://go2-thailand.com${image}`;
 }
 
-export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }: BlogPostPageProps) {
+function applyRegisteredPostOverride(
+  post: BlogPost,
+  locale: 'en' | 'nl',
+): BlogPost {
+  const override = getBlogOwnerRegistration(locale, post.slug)?.postOverride;
+  if (!override) return post;
+
+  const { stripLegacyContent, ...metadata } = override;
+  const ownerPost: BlogPost = { ...post, ...metadata };
+  if (stripLegacyContent) {
+    delete ownerPost.contentHtml;
+    delete ownerPost.faqItems;
+  }
+  return ownerPost;
+}
+
+export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, editorialDocument }: BlogPostPageProps) {
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const subId = useSubId();
@@ -208,148 +282,29 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
     };
   }, []);
 
-  const climateGuide = locale === 'nl' ? getNlClimateUpdateGuide(post.slug) : getEnClimateUpdateGuide(post.slug);
+  const ownerLocale = locale === 'nl' ? 'nl' : 'en';
+  const ownerRegistration = getBlogOwnerRegistration(ownerLocale, post.slug);
 
-  if (climateGuide) {
-    return <ClimateUpdateGuideTemplate data={climateGuide} />;
-  }
-
-  if (locale === 'nl' && post.slug === 'thai-curry-guide-green-red-yellow-massaman-panang') {
-    return <ThaiCurryGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'thai-curry-guide-green-red-yellow-massaman-panang') {
-    return <ThaiCurryGuideEn />;
+  if (ownerRegistration?.renderer === 'climate-update') {
+    const climateGuide = ownerLocale === 'nl'
+      ? getNlClimateUpdateGuide(post.slug)
+      : getEnClimateUpdateGuide(post.slug);
+    if (climateGuide) {
+      return <ClimateUpdateGuideTemplate data={climateGuide} />;
+    }
   }
 
-  if (locale === 'nl' && post.slug === 'durian-season-thailand-2026-where-to-eat-buy-guide') {
-    return <DurianThailandGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'durian-season-thailand-2026-where-to-eat-buy-guide') {
-    return <DurianThailandGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'bangkok-lumpini-hawker-centre-street-food-2026') {
-    return <LumpiniHawkerCentreGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'bangkok-lumpini-hawker-centre-street-food-2026') {
-    return <LumpiniHawkerCentreGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'bangkok-specialty-coffee-cafe-guide-2026') {
-    return <BangkokSpecialtyCoffeeGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'bangkok-specialty-coffee-cafe-guide-2026') {
-    return <BangkokSpecialtyCoffeeGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'cave-fantasy-mbk-center-bangkok-immersive-art-2026') {
-    return <CaveFantasyBangkokGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'cave-fantasy-mbk-center-bangkok-immersive-art-2026') {
-    return <CaveFantasyBangkokGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'new-luxury-resorts-thailand-2026-marriott-hilton-mercure') {
-    return <NewLuxuryResortsThailandGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'new-luxury-resorts-thailand-2026-marriott-hilton-mercure') {
-    return <NewLuxuryResortsThailandGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'jodd-fairs-bangkok-night-market-guide') {
-    return <JoddFairsRatchadaGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'jodd-fairs-bangkok-night-market-guide') {
-    return <JoddFairsRatchadaGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'chatuchak-weekend-market-food-guide') {
-    return <ChatuchakFoodGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'chatuchak-weekend-market-food-guide') {
-    return <ChatuchakFoodGuideEn />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'best-street-food-markets-bangkok') {
-    return <BangkokStreetFoodMarketsGuideEn />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'bangkok-travel-tips-reddit') {
-    return <BangkokFirstTimeTipsGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'thai-massage-guide-types-prices') {
-    return <ThaiMassageThailandGuide />;
-  }
-
-  if (locale !== 'nl' && post.slug === 'thai-massage-guide-types-prices') {
-    return <ThaiMassageThailandGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'muay-thai-training-camps-thailand-beginners-guide-2026') {
-    return <MuayThaiBeginnerTrainingGuide />;
-  }
-  if (locale === 'en' && post.slug === 'muay-thai-training-camps-thailand-beginners-guide-2026') {
-    return <MuayThaiBeginnerTrainingGuideEn />;
-  }
-
-  if (locale === 'nl' && post.slug === 'harbor-island-bangkok-rooftop-waterpark-2026') {
-    return <HarborIslandBangkapiGuide />;
-  }
-  if (locale === 'en' && post.slug === 'harbor-island-bangkok-rooftop-waterpark-2026') {
-    return <HarborIslandBangkapiGuideEn />;
-  }
-
-  if (locale === 'en' && post.slug === 'phuket-vs-koh-samui-for-tourists') {
-    return <PhuketSamuiComparisonGuideEn />;
-  }
-
-  if (locale === 'en' && post.slug === 'thailand-vs-philippines-which-southeast-asian-paradise-to-choose') {
-    return <ThailandPhilippinesComparisonGuideEn />;
-  }
-
-  if (locale === 'en' && post.slug === 'thailand-vs-bali-2026-which-is-better') {
-    return <ThailandBaliComparisonGuideEn />;
-  }
-
-  if (locale === 'en' && post.slug === 'thailand-vs-vietnam-which-country-visit-2026') {
-    return <ThailandVietnamComparisonGuideEn />;
-  }
-
-  if (locale === 'en' && post.slug === 'bangkok-to-koh-samui-guide') {
-    return <BangkokKohSamuiJourneyEn />;
-  }
-  if (locale === 'en' && post.slug === 'bangkok-chiang-mai-sleeper-train-guide-2026') {
-    return <BangkokChiangMaiSleeperTrainEn />;
-  }
-  if (locale === 'en' && post.slug === 'thailand-island-hopping-guide') {
-    return <ThailandIslandHoppingGuideEn />;
-  }
-  if (locale === 'en' && post.slug === 'how-long-spend-thailand') {
-    return <HowLongThailandGuideEn />;
-  }
-  if (locale === 'en' && post.slug === 'best-time-to-visit-thailand') {
-    return <BestTimeThailandGuideEn />;
-  }
-  if (locale === 'en' && post.slug === 'bts-world-tour-bangkok-december-2026-tickets-guide') {
-    return <BtsBangkokConcertGuideEn />;
-  }
-  if (locale === 'en' && post.slug === 'chiang-rai-vs-chiang-mai-for-tourists') {
-    return <ChiangMaiChiangRaiComparisonGuideEn />;
-  }
-  if (locale === 'en' && post.slug === 'khao-soi-chiang-mai-guide') {
-    return <KhaoSoiGuideEn />;
-  }
-  if (locale === 'en' && post.slug === 'phuket-airport') {
+  if (ownerRegistration?.renderer === 'phuket-airport-en') {
     return <AirportArrivalGuideTemplate data={phuketAirportGuideEn} />;
+  }
+
+  if (ownerRegistration && isStaticBlogOwnerRenderer(ownerRegistration.renderer)) {
+    const OwnerComponent = STATIC_BLOG_OWNER_COMPONENTS[ownerRegistration.renderer];
+    return <OwnerComponent />;
+  }
+
+  if (ownerLocale === 'nl' && editorialDocument) {
+    return <NlEditorialArticle document={editorialDocument} />;
   }
 
   const breadcrumbs = [
@@ -770,7 +725,12 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const post = await getPostBySlug(slug, lang);
 
   if (!post) {
-    // Try fallback to English if not found in requested locale
+    // Dutch routes must never silently publish the English article body.
+    if (lang === 'nl') {
+      return { notFound: true };
+    }
+
+    // Preserve the legacy default-locale lookup path for English requests.
     const fallbackPost = await getPostBySlug(slug, 'en');
     if (!fallbackPost) {
       return { notFound: true };
@@ -785,82 +745,36 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   const relatedPosts = getRelatedPosts(slug, lang, 4);
   const { prevPost, nextPost } = getAdjacentPosts(slug, lang);
+  const ownerPost = applyRegisteredPostOverride(post, lang);
 
-  if (lang === 'en' && slug === 'bangkok-to-koh-samui-guide') {
-    const { contentHtml: _legacyContent, faqItems: _legacyFaqs, ...ownerPost } = post;
-    return {
-      props: {
-        post: {
-          ...ownerPost,
-          title: 'Bangkok to Koh Samui: Flight, Train or Bus + Ferry?',
-          description: 'Compare Bangkok to Koh Samui by direct flight, mainland flight, sleeper train or bus plus ferry. Choose by total journey, connections, luggage and live tickets.',
-          image: '/images/redesign/bangkok-koh-samui-route-hero-v2.webp',
-          lastUpdated: '2026-07-27',
-        },
-        relatedPosts,
-        prevPost,
-        nextPost,
-      },
-      revalidate: 604800,
-    };
-  }
-  if (lang === 'en' && slug === 'bangkok-chiang-mai-sleeper-train-guide-2026') {
-    const { contentHtml: _legacyContent, faqItems: _legacyFaqs, ...ownerPost } = post;
-    return {
-      props: {
-        post: {
-          ...ownerPost,
-          title: 'Bangkok to Chiang Mai Sleeper Train: Berths & Booking',
-          description: 'Plan the Bangkok to Chiang Mai sleeper train by berth, station, luggage and arrival. Compare first and second class, then check current SRT or 12Go tickets.',
-          image: '/images/redesign/bangkok-chiang-mai-sleeper-train-hero-v2.webp',
-          lastUpdated: '2026-07-27',
-        },
-        relatedPosts,
-        prevPost,
-        nextPost,
-      },
-      revalidate: 604800,
-    };
-  }
-  if (lang === 'en' && slug === 'thailand-island-hopping-guide') {
-    const { contentHtml: _legacyContent, faqItems: _legacyFaqs, ...ownerPost } = post;
-    return {
-      props: {
-        post: {
-          ...ownerPost,
-          title: 'Thailand Island Hopping: Routes, Coasts & Trip Planner',
-          description: 'Plan a Thailand island-hopping route by coast, pace and ferry handoffs. Compare Gulf and Andaman chains, then check current tickets and island stays.',
-          image: '/images/redesign/thailand-island-hopping-hero-v2.webp',
-          lastUpdated: '2026-07-27',
-        },
-        relatedPosts,
-        prevPost,
-        nextPost,
-      },
-      revalidate: 604800,
-    };
-  }
-  if (lang === 'en' && slug === 'how-long-spend-thailand') {
-    const { contentHtml: _legacyContent, faqItems: _legacyFaqs, ...ownerPost } = post;
-    return {
-      props: {
-        post: {
-          ...ownerPost,
-          title: 'How Many Days in Thailand? Choose Your Ideal Trip Length',
-          description: 'Choose how many days to spend in Thailand by nights, hotel moves and travel style. Compare 5, 7, 10, 14 and 21-day route shapes without rushing.',
-          image: '/images/redesign/how-long-thailand-trip-planner-hero-v2.webp',
-          lastUpdated: '2026-07-27',
-        },
-        relatedPosts,
-        prevPost,
-        nextPost,
-      },
-      revalidate: 604800,
-    };
+  if (lang === 'nl' && !getBlogOwnerRegistration(lang, slug)) {
+    const profile = loadNlEditorialProfile(slug);
+    if (profile) {
+      const editorialDocument = combineNlEditorialDocument(profile, {
+        slug: ownerPost.slug,
+        title: ownerPost.title,
+        description: ownerPost.description,
+        category: ownerPost.category,
+        date: ownerPost.date,
+        lastUpdated: ownerPost.lastUpdated,
+        image: ownerPost.image,
+        author: ownerPost.author,
+        tags: ownerPost.tags,
+        readingTime: ownerPost.readingTime,
+        contentHtml: ownerPost.contentHtml ?? '',
+        faqItems: ownerPost.faqItems,
+        sources: ownerPost.sources,
+      });
+
+      return {
+        props: { post: ownerPost, relatedPosts, prevPost, nextPost, editorialDocument },
+        revalidate: 604800,
+      };
+    }
   }
 
   return {
-    props: { post, relatedPosts, prevPost, nextPost },
+    props: { post: ownerPost, relatedPosts, prevPost, nextPost },
     revalidate: 604800
   };
 };

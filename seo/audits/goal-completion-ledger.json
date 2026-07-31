@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T21:59:02.063Z",
+  "generatedAt": "2026-07-31T22:32:45.388Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 667,
       "hybrid": 0,
       "noSignature": 33,
-      "exactOwners": 387,
+      "exactOwners": 391,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 105,
       "amazonLinks": 230,
-      "provisionalInventoryDecisions": 253,
+      "provisionalInventoryDecisions": 249,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -702,27 +702,32 @@
       "closed": true
     },
     "nl:editorial": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:editorial.",
+      "definition": "The Dutch editorial family is in progress. The blog hub and first three independent pilot owners use the typed premium editorial system; every remaining article still requires an explicit update, consolidation or retire decision.",
       "expected": 253,
-      "complete": 0,
-      "exactOwners": 11,
-      "remainingCount": 253,
+      "complete": 4,
+      "exactOwners": 15,
+      "remainingCount": 249,
       "remaining": [
-        "/nl/blog/",
         "/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/",
         "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/",
         "/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/",
         "/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/",
         "/nl/blog/beste-tijd-thailand-bezoeken-per-regio/",
-        "/nl/blog/phuket-airport/",
         "/nl/blog/phuket-weer/",
         "/nl/blog/bangkok-travel-tips-reddit/",
         "/nl/blog/where-to-stay-phuket-beaches-areas-budget/",
         "/nl/blog/songkran-2026-survival-guide-what-to-know/",
-        "/nl/blog/where-to-stay-chiang-mai-neighborhoods/"
+        "/nl/blog/where-to-stay-chiang-mai-neighborhoods/",
+        "/nl/blog/grand-palace-bangkok-complete-guide-2026/",
+        "/nl/blog/bangkok-samyan-street-food-tour-review-klook-2026/"
       ],
       "remainingTruncated": true,
-      "evidence": [],
+      "evidence": [
+        "seo/audits/nl-blog-hub-owner-2026-08-01.md",
+        "seo/research/nl/2026-08-01-thailand-blog-web-serp-refresh.md",
+        "seo/audits/nl-editorial-pilot-foundation-2026-07-31.md",
+        "seo/research/nl/2026-07-31-editorial-pilot-current-web.md"
+      ],
       "closed": false
     },
     "nl:final-owner-batch": {
@@ -1338,12 +1343,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7302,12 +7307,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7862,12 +7867,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -10228,12 +10233,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

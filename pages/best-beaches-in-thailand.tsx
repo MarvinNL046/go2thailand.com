@@ -359,19 +359,17 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="max-w-4xl">
               <p className="font-script text-thailand-gold text-lg mb-3">
-                {lang === 'nl' ? 'Redactionele strandgids' : 'Editorial beach planning guide'}
+                Editorial beach planning guide
               </p>
               <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6">
-                {lang === 'nl' ? 'De stranden die echt helpen bij je keuze' : 'The beaches that actually help you choose'}
+                The beaches that actually help you choose
               </h1>
               <p className="text-lg lg:text-2xl opacity-90 max-w-3xl">
-                {lang === 'nl'
-                  ? 'Niet elk mooi strand is de juiste uitvalsbasis. Deze gids helpt je kiezen tussen Thailand\'s bekendste strandgebieden door kust, eilandtype, drukte en gebruikswaarde naast elkaar te zetten.'
-                  : 'Not every beautiful beach makes sense as a trip base. This guide helps you choose between Thailand\'s headline beach zones by putting coast, island style, crowd pressure, and planning value side by side.'}
+                Not every beautiful beach makes sense as a trip base. This guide helps you choose between Thailand&apos;s headline beach zones by putting coast, island style, crowd pressure, and planning value side by side.
               </p>
               <div className="flex flex-wrap gap-3 mt-8 text-sm">
-                <span className="bg-white/15 rounded-full px-4 py-2">{lang === 'nl' ? '25 strandprofielen' : '25 beaches'}</span>
-                <span className="bg-white/15 rounded-full px-4 py-2">{lang === 'nl' ? '2 kustsystemen' : '2 coastlines'}</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">25 beaches</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">2 coastlines</span>
                 <span className="bg-white/15 rounded-full px-4 py-2">{t("s001_sources_tat_thailand_dnp")}</span>
                 <span className="bg-white/15 rounded-full px-4 py-2">{t("s002_updated_march_28_2026")}</span>
               </div>

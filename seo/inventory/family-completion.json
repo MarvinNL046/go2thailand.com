@@ -453,6 +453,22 @@
       "note": "All 31 Dutch manual-review routes are closed: 26 exact premium owners and five permanent consolidations to stronger independently researched target owners. Current public-web fallback evidence is recorded without DFS metrics or PAA claims."
     },
     {
+      "key": "nl:editorial",
+      "acceptedRoutes": [
+        "/nl/blog/",
+        "/nl/blog/phuket-airport/",
+        "/nl/blog/khao-yai-national-park-day-trip-guide-2026/",
+        "/nl/blog/best-wellness-retreats-thailand-2026/"
+      ],
+      "evidence": [
+        "seo/audits/nl-blog-hub-owner-2026-08-01.md",
+        "seo/research/nl/2026-08-01-thailand-blog-web-serp-refresh.md",
+        "seo/audits/nl-editorial-pilot-foundation-2026-07-31.md",
+        "seo/research/nl/2026-07-31-editorial-pilot-current-web.md"
+      ],
+      "note": "The Dutch editorial family is in progress. The blog hub and first three independent pilot owners use the typed premium editorial system; every remaining article still requires an explicit update, consolidation or retire decision."
+    },
+    {
       "key": "en:destination-guide",
       "status": "complete",
       "evidence": [

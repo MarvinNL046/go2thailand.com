@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "phuket-airport",
+  "route": "/nl/blog/phuket-airport/",
+  "cluster": "transport",
+  "editorialStatus": "review",
+  "updatedAt": "2026-07-31",
+  "seo": {
+    "title": "Phuket Airport: aankomst, vervoer en transfers | Go2Thailand",
+    "description": "Praktische gids voor Phuket Airport (HKT): aankomst, terminals en de keuze tussen airportbus, Smart Bus, minivan, taxi en vooraf geboekte transfer.",
+    "primaryKeyword": "phuket airport",
+    "secondaryKeywords": ["phuket airport transfer", "phuket vliegveld", "phuket airport naar patong"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/phuket-airport/"
+  },
+  "hero": {
+    "eyebrow": "Aankomen zonder gedoe",
+    "title": "Phuket Airport",
+    "accent": "Van gate naar strand",
+    "description": "Kies je vervoer op basis van je eindbestemming, bagage en aankomsttijd — niet op basis van de eerste aanbieding in de aankomsthal.",
+    "image": "/images/redesign/phuket-airport-arrival-hero.webp",
+    "imageAlt": "Aankomsthal van Phuket International Airport met reizigers en Thaise bewegwijzering",
+    "primaryCta": { "label": "Vergelijk vervoer", "href": "#vervoer" },
+    "secondaryCta": { "label": "Aankomstchecklist", "href": "#aankomst" }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "plan",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Voor Phuket Town is de airportbus vaak logisch; voor de westkust biedt de Smart Bus een betaalbare route. Met veel bagage, een late aankomst of een afgelegen hotel is een vooraf gecontroleerde transfer meestal comfortabeler.",
+  "blocks": [
+    {
+      "kind": "steps",
+      "id": "aankomst",
+      "title": "Van vliegtuig naar uitgang",
+      "description": "Houd de volgorde eenvoudig en regel pas daarna je vervoer.",
+      "steps": [
+        { "title": "Volg Arrivals", "description": "Ga na landing via paspoortcontrole naar de juiste bagageband en controleer je bagagelabel." },
+        { "title": "Regel data en contant geld", "description": "Gebruik alleen officiële balies of automaten en vergelijk kosten voordat je wisselt of een simkaart koopt." },
+        { "title": "Kies de juiste vervoersbalie", "description": "Controleer bestemming, totaalprijs, wachttijd en afzetpunt vóórdat je betaalt." }
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "vervoer",
+      "title": "Welk vervoer past bij jouw aankomst?",
+      "description": "Dienstregelingen en tarieven kunnen wijzigen; controleer ze vlak voor vertrek bij de vervoerder.",
+      "options": [
+        { "title": "Airportbus", "description": "Handig voor Phuket Town wanneer je licht reist en voldoende tijd hebt.", "label": "Stad", "note": "Controleer de actuele halte en laatste rit." },
+        { "title": "Smart Bus", "description": "Rijdt langs meerdere stranden aan de west- en zuidkust; reistijd is langer door tussenstops.", "label": "Stranden", "note": "Past vooral bij hotels dicht bij een halte." },
+        { "title": "Taxi of transfer", "description": "De meest directe keuze bij veel bagage, een late vlucht of accommodatie buiten de busroute.", "label": "Deur tot deur", "note": "Leg totaalprijs en ontmoetingspunt vooraf vast." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "voor-vertrek",
+      "title": "Controleer dit voor je landt",
+      "items": [
+        "Volledig hoteladres en telefoonnummer offline opgeslagen",
+        "Actuele aankomstterminal en landingstijd gedeeld met je transfer",
+        "Alternatief vervoer gekozen voor vertraging of gemiste laatste bus",
+        "Kleine hoeveelheid baht beschikbaar voor directe uitgaven",
+        "Bagage en reisgenoten passen in het gekozen voertuig"
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "transport-boeken",
+      "provider": "12go",
+      "title": "Controleer beschikbare transfers voor jouw aankomstdag",
+      "description": "Vergelijk vertrekpunt, afzetlocatie, bagageregels en annuleringsvoorwaarden. De getoonde beschikbaarheid en prijs bij 12Go zijn leidend.",
+      "cta": { "label": "Bekijk actuele opties", "href": "https://12go.tpo.lv/tNA80urD", "external": true },
+      "placement": "phuket-airport-transport",
+      "disclosure": "Affiliate-link: bij een boeking kan Go2Thailand een commissie ontvangen, zonder meerprijs voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Phuket Airport",
+      "items": [
+        { "question": "Welke bus rijdt van Phuket Airport naar de stranden?", "answer": "De Phuket Smart Bus bedient meerdere stranden. Controleer vlak voor vertrek de actuele haltes en dienstregeling, omdat tijden kunnen veranderen." },
+        { "question": "Moet ik een Phuket Airport-transfer vooraf boeken?", "answer": "Dat is vooral verstandig bij een late aankomst, veel bagage, een groter reisgezelschap of een hotel buiten de reguliere busroutes." },
+        { "question": "Zijn er aparte terminals voor binnenlandse en internationale vluchten?", "answer": "Ja. Controleer altijd je terminal op je ticket en bij de luchtvaartmaatschappij, zeker wanneer je op Phuket overstapt." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Actuele luchthavenbronnen",
+      "items": [
+        { "title": "Phuket International Airport", "publisher": "Airports of Thailand", "url": "https://phuket.airportthai.co.th/?lang=en", "checkedAt": "2026-07-31", "note": "Passagiersgids, terminals en vervoersinformatie." },
+        { "title": "Transportation", "publisher": "Phuket International Airport", "url": "https://phuket.airportthai.co.th/service/transportation?cate_id=2&cate_name=Public+Bus", "checkedAt": "2026-07-31", "note": "Controlepunt voor actuele openbare vervoersopties." }
+      ]
+    }
+  ]
+}

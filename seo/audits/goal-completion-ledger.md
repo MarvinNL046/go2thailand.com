@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T21:59:02.063Z
+**Generated:** 2026-07-31T22:32:45.388Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 667 | 667 | 0 | 387 | 105 | 230 | 253 |
+| NL | 700 | 667 | 667 | 0 | 391 | 105 | 230 | 249 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -304,12 +304,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:editorial
 
-- Family accepted: **0/253**
-- Exact owners registered: **11/253**
+- Family accepted: **4/253**
+- Exact owners registered: **15/253**
 - Closed: **no**
-- Remaining routes: **253** (first 12 shown)
-- Sample: `/nl/blog/`, `/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/`, `/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/`, `/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/`, `/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/`, `/nl/blog/beste-tijd-thailand-bezoeken-per-regio/`, `/nl/blog/phuket-airport/`, `/nl/blog/phuket-weer/`, `/nl/blog/bangkok-travel-tips-reddit/`, `/nl/blog/where-to-stay-phuket-beaches-areas-budget/`, `/nl/blog/songkran-2026-survival-guide-what-to-know/`, `/nl/blog/where-to-stay-chiang-mai-neighborhoods/`
-- Evidence: not signed off
+- Remaining routes: **249** (first 12 shown)
+- Sample: `/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/`, `/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/`, `/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/`, `/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/`, `/nl/blog/beste-tijd-thailand-bezoeken-per-regio/`, `/nl/blog/phuket-weer/`, `/nl/blog/bangkok-travel-tips-reddit/`, `/nl/blog/where-to-stay-phuket-beaches-areas-budget/`, `/nl/blog/songkran-2026-survival-guide-what-to-know/`, `/nl/blog/where-to-stay-chiang-mai-neighborhoods/`, `/nl/blog/grand-palace-bangkok-complete-guide-2026/`, `/nl/blog/bangkok-samyan-street-food-tour-review-klook-2026/`
+- Evidence: `seo/audits/nl-blog-hub-owner-2026-08-01.md`, `seo/research/nl/2026-08-01-thailand-blog-web-serp-refresh.md`, `seo/audits/nl-editorial-pilot-foundation-2026-07-31.md`, `seo/research/nl/2026-07-31-editorial-pilot-current-web.md`
 
 ### nl:final-owner-batch
 
