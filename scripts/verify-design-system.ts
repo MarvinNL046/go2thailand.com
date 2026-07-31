@@ -1351,6 +1351,13 @@ for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'Rela
 if (!thailandTravelGuideRoute.includes('<ThailandTravelGuideNl />')) failures.push('Thailand travel-guide route does not wire the NL premium owner');
 read('public/images/redesign/thailand-travel-guide-hero-v2.webp');
 
+const nlTravelGuideDirectory = read('components/editorial/TravelGuideDirectoryNl.tsx');
+const travelGuideDirectoryRoute = read('pages/travel-guides/index.tsx');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'RelatedGuidesSection', 'SourceMethodSection', 'data-premium-template="travel-guide-directory-nl"', 'CollectionPage', 'ItemList']) {
+  if (!nlTravelGuideDirectory.includes(proof)) failures.push(`NL travel-guide directory lacks proof: ${proof}`);
+}
+if (!travelGuideDirectoryRoute.includes('<TravelGuideDirectoryNl />')) failures.push('Travel-guide directory route does not wire the NL premium owner');
+
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);
   failures.forEach(failure => console.error(`- ${failure}`));
