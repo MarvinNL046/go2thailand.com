@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-30T23:46:44.038Z
+**Generated:** 2026-07-31T00:11:12.771Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 703 | 703 | 703 | 0 | 155 | 36 | 72 | 475 |
+| NL | 703 | 703 | 703 | 0 | 160 | 36 | 72 | 470 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -421,12 +421,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:region
 
-- Family accepted: **0/5**
-- Exact owners registered: **0/5**
-- Closed: **no**
-- Remaining routes: **5**
-- Sample: `/nl/region/`, `/nl/region/northern/`, `/nl/region/central/`, `/nl/region/southern/`, `/nl/region/isaan/`
-- Evidence: not signed off
+- Family accepted: **5/5**
+- Exact owners registered: **5/5**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-region-family-2026-07-31.md`
 
 ### nl:transport
 

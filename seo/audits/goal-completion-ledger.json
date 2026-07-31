@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T23:46:44.038Z",
+  "generatedAt": "2026-07-31T00:11:12.771Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,12 +9,12 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 155,
+      "exactOwners": 160,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 475,
-      "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-30.json",
+      "provisionalInventoryDecisions": 470,
+      "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-koh-phangan-final-2026-07-31.json",
       "sitewide": {
         "generatedAt": "2026-07-30T22:35:53.557Z",
@@ -929,21 +929,17 @@
       "closed": true
     },
     "nl:region": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:region.",
+      "definition": "All five Dutch region routes have independent hybrid Dutch SERP/PAA research, exact owner boundaries, a new reusable premium directory/detail system, unique regional visuals, contextual affiliates and responsive production acceptance.",
       "expected": 5,
-      "complete": 0,
-      "exactOwners": 0,
-      "remainingCount": 5,
-      "remaining": [
-        "/nl/region/",
-        "/nl/region/northern/",
-        "/nl/region/central/",
-        "/nl/region/southern/",
-        "/nl/region/isaan/"
-      ],
+      "complete": 5,
+      "exactOwners": 5,
+      "remainingCount": 0,
+      "remaining": [],
       "remainingTruncated": false,
-      "evidence": [],
-      "closed": false
+      "evidence": [
+        "seo/audits/nl-region-family-2026-07-31.md"
+      ],
+      "closed": true
     },
     "nl:transport": {
       "definition": "The single Dutch transport hub has independent research, refreshed visible PAA, premium design, functional route search, transparent affiliates and production QA.",
@@ -1140,12 +1136,12 @@
       "templateOwner": "region",
       "recommendedAction": "template-audit",
       "familyKey": "nl:region",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -4640,12 +4636,12 @@
       "templateOwner": "region",
       "recommendedAction": "template-audit",
       "familyKey": "nl:region",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -4654,12 +4650,12 @@
       "templateOwner": "region",
       "recommendedAction": "template-audit",
       "familyKey": "nl:region",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -4668,12 +4664,12 @@
       "templateOwner": "region",
       "recommendedAction": "template-audit",
       "familyKey": "nl:region",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -4682,12 +4678,12 @@
       "templateOwner": "region",
       "recommendedAction": "template-audit",
       "familyKey": "nl:region",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
