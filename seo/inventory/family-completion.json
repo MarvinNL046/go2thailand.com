@@ -15,14 +15,20 @@
         "/nl/phuket/nai-harn/hotels/",
         "/nl/best-hotels/phuket/all-inclusive/",
         "/nl/best-hotels/phuket/family/",
-        "/nl/best-hotels/phuket/resorts/"
+        "/nl/best-hotels/phuket/resorts/",
+        "/nl/best-hotels/pattaya/",
+        "/nl/best-hotels/ayutthaya/",
+        "/nl/best-hotels/chiang-rai/",
+        "/nl/best-hotels/hat-yai/",
+        "/nl/best-hotels/sukhothai/"
       ],
       "evidence": [
         "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
         "seo/audits/nl-phuket-area-hotels-family-2026-07-31.md",
-        "seo/audits/nl-phuket-hotel-categories-2026-07-31.md"
+        "seo/audits/nl-phuket-hotel-categories-2026-07-31.md",
+        "seo/audits/nl-city-hotel-guides-batch-1-2026-07-31.md"
       ],
-      "note": "The Dutch hotel-guide rebuild is active. The national where-to-stay hub, all six Phuket area hotel hubs and all three Phuket category owners are independently researched, premium and accepted; destination hotel guides and administratively grouped hotel profiles remain."
+      "note": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and the independently researched Pattaya, Ayutthaya, Chiang Rai, Hat Yai and Sukhothai destination hotel owners are premium, deployed and accepted; remaining destination guides and administratively grouped hotel profiles remain."
     },
     {
       "key": "nl:destination-guide",

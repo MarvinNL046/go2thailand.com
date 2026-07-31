@@ -525,12 +525,13 @@ for (const asset of ['thailand-route-hero.webp', 'thailand-route-rhythm.webp', '
 for (const proof of ['durationRoutes', 'ThailandMapGraphic', 'FaqSplitSection', 'SourceMethodSection', 'AffiliateDisclosure']) {
   if (!thailandRouteTemplate.includes(proof)) failures.push(`Thailand route template does not define or use ${proof}`);
 }
-const thailandItineraryRoute = read('pages/thailand-itinerary.tsx');
-for (const proof of ["locale === 'nl'", "destination: '/nl/itineraries/'", 'permanent: true']) {
-  if (!thailandItineraryRoute.includes(proof)) failures.push(`The legacy Thailand itinerary route lacks NL consolidation proof: ${proof}`);
-}
 const itineraryNextConfig = read('next.config.js');
-if (!itineraryNextConfig.includes("source: '/nl/itinerary/'") || !itineraryNextConfig.includes("destination: '/nl/itineraries/'")) failures.push('The oldest NL itinerary alias does not redirect directly to the premium itinerary directory');
+const normalizedItineraryNextConfig = itineraryNextConfig.replace(/"/g, "'");
+for (const source of ['/nl/itinerary/', '/nl/thailand-itinerary/']) {
+  if (!normalizedItineraryNextConfig.includes(`source: '${source}'`) || !normalizedItineraryNextConfig.includes("destination: '/nl/itineraries/'")) {
+    failures.push(`${source} does not redirect directly to the premium itinerary directory`);
+  }
+}
 
 const thailandBudgetTemplate = read('components/budget/ThailandBudgetGuide.tsx');
 for (const asset of ['thailand-budget-hero.webp', 'thailand-budget-leaks.webp', 'thailand-budget-regions.webp']) {
@@ -704,11 +705,12 @@ for (const proof of ["locale === 'nl' ? getNlWeatherGuide(slug) : getEnWeatherGu
   if (!weatherRoute.includes(proof)) failures.push(`The weather route does not preserve bilingual guide fallback proof: ${proof}`);
 }
 const nextConfig = read('next.config.js');
+const normalizedNextConfig = nextConfig.replace(/"/g, "'");
 for (const proof of ["source: '/city/koh-samui/best-time-to-visit/'", "destination: '/city/koh-samui/weather/'", 'permanent: true']) {
-  if (!nextConfig.includes(proof)) failures.push(`English Koh Samui weather consolidation misses ${proof}`);
+  if (!normalizedNextConfig.includes(proof)) failures.push(`English Koh Samui weather consolidation misses ${proof}`);
 }
 for (const proof of ["source: '/city/phuket/best-time-to-visit/'", "destination: '/city/phuket/weather/'", 'permanent: true']) {
-  if (!nextConfig.includes(proof)) failures.push(`English Phuket weather consolidation misses ${proof}`);
+  if (!normalizedNextConfig.includes(proof)) failures.push(`English Phuket weather consolidation misses ${proof}`);
 }
 const bestTimeRoute = read('pages/city/[slug]/best-time-to-visit.tsx');
 for (const proof of ["slug === 'koh-samui' || slug === 'phuket'", 'destination: `/city/${slug}/weather/`', 'permanent: true']) {
@@ -1366,9 +1368,8 @@ for (const proof of ['EditorialHero', 'PageSectionNav', 'RelatedGuidesSection', 
 }
 if (!thailandDecisionIndexRoute.includes('<ThailandDecisionIndexNl />')) failures.push('Thailand index route does not wire the NL premium decision owner');
 if (!thailandDecisionIndexRoute.includes("locale === 'nl' ? null")) failures.push('Thailand index still serializes legacy score data into NL HTML');
-const legacyThailandTransportIndex = read('pages/thailand-index/transport.tsx');
-for (const proof of ["locale === 'nl'", "destination: '/nl/transport/'", 'permanent: true']) {
-  if (!legacyThailandTransportIndex.includes(proof)) failures.push(`Legacy Thailand transport index lacks NL consolidation proof: ${proof}`);
+for (const proof of ["source: '/nl/thailand-index/transport/'", "destination: '/nl/transport/'", 'permanent: true']) {
+  if (!normalizedNextConfig.includes(proof)) failures.push(`Legacy Thailand transport index lacks routing consolidation proof: ${proof}`);
 }
 const nlDigitalNomadGuide = read('components/editorial/DigitalNomadThailandGuideNl.tsx');
 const digitalNomadIndexRoute = read('pages/thailand-index/digital-nomad.tsx');
