@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface Partner { partnerUrl: string; label: string; }
 interface Partners { trip_pillar: Partner; trip_hotels: Partner; trip_novotel: Partner; trip_sunwing: Partner; trip_sunprime: Partner; }
@@ -19,6 +20,7 @@ export default function KamalaHotelsHub({ partners, lastUpdated, hotels }: Props
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="kamala" tripUrl={partners.trip_hotels.partnerUrl} />;
   const placement = (p: string) => `${subId}-pseo-phuket-kamala-hotels-${p}`;
 
   const breadcrumbs = [

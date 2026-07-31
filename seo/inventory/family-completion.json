@@ -6,12 +6,19 @@
       "key": "nl:hotel-guide",
       "status": "pending",
       "acceptedRoutes": [
-        "/nl/where-to-stay/"
+        "/nl/where-to-stay/",
+        "/nl/phuket/patong/hotels/",
+        "/nl/phuket/karon/hotels/",
+        "/nl/phuket/kata/hotels/",
+        "/nl/phuket/kamala/hotels/",
+        "/nl/phuket/bang-tao/hotels/",
+        "/nl/phuket/nai-harn/hotels/"
       ],
       "evidence": [
-        "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md"
+        "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-area-hotels-family-2026-07-31.md"
       ],
-      "note": "The Dutch hotel-guide rebuild is active. The national where-to-stay decision hub is independently researched, premium and accepted; destination hotel guides, Phuket area/category hubs and administratively grouped hotel profiles remain."
+      "note": "The Dutch hotel-guide rebuild is active. The national where-to-stay hub plus all six Phuket area hotel hubs are independently researched, premium and accepted; destination hotel guides, three Phuket category owners and administratively grouped hotel profiles remain."
     },
     {
       "key": "nl:destination-guide",

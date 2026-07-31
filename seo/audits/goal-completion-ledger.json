@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T15:26:47.239Z",
+  "generatedAt": "2026-07-31T15:33:23.193Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 291,
+      "exactOwners": 297,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 358,
+      "provisionalInventoryDecisions": 352,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -778,28 +778,29 @@
       "closed": true
     },
     "nl:hotel-guide": {
-      "definition": "The Dutch hotel-guide rebuild is active. The national where-to-stay decision hub is independently researched, premium and accepted; destination hotel guides, Phuket area/category hubs and administratively grouped hotel profiles remain.",
+      "definition": "The Dutch hotel-guide rebuild is active. The national where-to-stay hub plus all six Phuket area hotel hubs are independently researched, premium and accepted; destination hotel guides, three Phuket category owners and administratively grouped hotel profiles remain.",
       "expected": 75,
-      "complete": 1,
-      "exactOwners": 1,
-      "remainingCount": 74,
+      "complete": 7,
+      "exactOwners": 7,
+      "remainingCount": 68,
       "remaining": [
-        "/nl/phuket/nai-harn/hotels/",
-        "/nl/phuket/karon/hotels/",
-        "/nl/phuket/patong/hotels/",
-        "/nl/phuket/kata/hotels/",
-        "/nl/phuket/kamala/hotels/",
-        "/nl/phuket/bang-tao/hotels/",
         "/nl/phuket/patong/hotels/grand-mercure-phuket-patong/",
         "/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/",
         "/nl/phuket/patong/hotels/hotel-indigo-phuket-patong/",
         "/nl/phuket/patong/hotels/hotel-clover-patong-phuket/",
         "/nl/phuket/patong/hotels/movenpick-myth-hotel-patong-phuket/",
-        "/nl/phuket/patong/hotels/lub-d-phuket-patong/"
+        "/nl/phuket/patong/hotels/lub-d-phuket-patong/",
+        "/nl/phuket/patong/hotels/la-flora-resort-patong/",
+        "/nl/phuket/patong/hotels/7q-patong-beach-hotel/",
+        "/nl/phuket/patong/hotels/holiday-inn-express-phuket-patong-beach-central/",
+        "/nl/phuket/patong/hotels/andaman-embrace-patong/",
+        "/nl/phuket/patong/hotels/best-western-patong-beach/",
+        "/nl/phuket/patong/hotels/mt-hotel-patong/"
       ],
       "remainingTruncated": true,
       "evidence": [
-        "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md"
+        "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-area-hotels-family-2026-07-31.md"
       ],
       "closed": false
     },
@@ -1702,12 +1703,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1744,12 +1745,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1772,12 +1773,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1828,12 +1829,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1884,12 +1885,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1912,12 +1913,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

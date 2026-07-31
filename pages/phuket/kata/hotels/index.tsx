@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId, TRIP_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface Partner { partnerUrl: string; label: string; }
 interface Partners { trip_pillar: Partner; trip_hotels: Partner; klook_pillar: Partner; gyg_pillar: Partner; viator_pillar: Partner; }
@@ -16,6 +17,7 @@ export default function KataHotelsHub({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="kata" tripUrl={partners.trip_hotels.partnerUrl} />;
   const placement = (p: string) => `${subId}-pseo-phuket-kata-hotels-${p}`;
 
   const breadcrumbs = [

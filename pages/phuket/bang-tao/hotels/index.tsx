@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface Partner { partnerUrl: string; label: string; }
 interface Partners { trip_pillar: Partner; trip_hotels: Partner; trip_hilton_garden: Partner; klook_pillar: Partner; gyg_pillar: Partner; viator_pillar: Partner; }
@@ -16,6 +17,7 @@ export default function BangTaoHotelsHub({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="bang-tao" tripUrl={partners.trip_hotels.partnerUrl} />;
   const placement = (p: string) => `${subId}-pseo-phuket-bang-tao-hotels-${p}`;
 
   const breadcrumbs = [

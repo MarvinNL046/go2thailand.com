@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId, GYG_GENERIC, TRIP_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface Partners {
   trip_patong_pillar: { partnerUrl: string };
@@ -44,6 +45,7 @@ export default function PatongHotelsHubPage({ partners, hotels, extras, hotelPar
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="patong" tripUrl={partners.trip_patong_hotels_hub.partnerUrl} />;
   const sub = (placement: string) => `${subId}-pseo-phuket-patong-hotels-hub-${placement}`;
 
   const breadcrumbs = [

@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface PartnerEntry { partnerUrl: string; label: string }
 interface Partners { [key: string]: PartnerEntry }
@@ -28,6 +29,7 @@ export default function NaiHarnHotelsHubPage({ partners, hotels, lastUpdated }: 
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="nai-harn" tripUrl={partners.trip_hotels.partnerUrl} />;
   const placement = (p: string) => `${subId}-pseo-phuket-nai-harn-hotels-${p}`;
 
   const breadcrumbs = [

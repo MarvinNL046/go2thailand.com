@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TRIP_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface Partners {
   trip_karon_city: { partnerUrl: string };
@@ -48,6 +49,7 @@ export default function KaronHotelsHubPage({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="karon" tripUrl={partners.trip_karon_hotel_search.partnerUrl} />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
