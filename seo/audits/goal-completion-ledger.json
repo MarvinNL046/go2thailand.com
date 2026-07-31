@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T20:52:56.150Z",
+  "generatedAt": "2026-07-31T21:21:52.140Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 667,
       "hybrid": 0,
       "noSignature": 33,
-      "exactOwners": 352,
+      "exactOwners": 365,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 105,
       "amazonLinks": 230,
-      "provisionalInventoryDecisions": 297,
+      "provisionalInventoryDecisions": 284,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -778,26 +778,13 @@
       "closed": true
     },
     "nl:hotel-guide": {
-      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners, forty-two destination hotel owners and seventeen individual Phuket hotel owners are premium and accepted; thirteen individual Patong hotel profiles remain.",
+      "definition": "All 82 Dutch hotel-guide routes are premium, independently registered and accepted: the national hub, six Phuket area hubs, three Phuket category owners, forty-two destination hotel owners and thirty individual Phuket hotel profiles.",
       "expected": 82,
-      "complete": 69,
-      "exactOwners": 69,
-      "remainingCount": 13,
-      "remaining": [
-        "/nl/phuket/patong/hotels/hotel-clover-patong-phuket/",
-        "/nl/phuket/patong/hotels/la-flora-resort-patong/",
-        "/nl/phuket/patong/hotels/7q-patong-beach-hotel/",
-        "/nl/phuket/patong/hotels/holiday-inn-express-phuket-patong-beach-central/",
-        "/nl/phuket/patong/hotels/andaman-embrace-patong/",
-        "/nl/phuket/patong/hotels/best-western-patong-beach/",
-        "/nl/phuket/patong/hotels/mt-hotel-patong/",
-        "/nl/phuket/patong/hotels/ramada-by-wyndham-phuket-deevana-patong/",
-        "/nl/phuket/patong/hotels/patong-signature-boutique-hotel/",
-        "/nl/phuket/patong/hotels/deevana-patong-resort-and-spa/",
-        "/nl/phuket/patong/hotels/deevana-plaza-phuket-patong/",
-        "/nl/phuket/patong/hotels/icheck-inn-residences-patong/"
-      ],
-      "remainingTruncated": true,
+      "complete": 82,
+      "exactOwners": 82,
+      "remainingCount": 0,
+      "remaining": [],
+      "remainingTruncated": false,
       "evidence": [
         "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
         "seo/audits/nl-phuket-area-hotels-family-2026-07-31.md",
@@ -816,9 +803,10 @@
         "seo/audits/nl-phuket-hotel-profiles-batch-2-2026-07-31.md",
         "seo/audits/nl-phuket-hotel-profiles-batch-3-2026-07-31.md",
         "seo/audits/nl-phuket-hotel-profiles-batch-4-2026-07-31.md",
-        "seo/audits/nl-phuket-hotel-profiles-batch-5-2026-07-31.md"
+        "seo/audits/nl-phuket-hotel-profiles-batch-5-2026-07-31.md",
+        "seo/audits/nl-phuket-hotel-profiles-batch-6-2026-07-31.md"
       ],
-      "closed": false
+      "closed": true
     },
     "nl:island": {
       "definition": "The Dutch island main queue is closed at ten of ten: nine independently researched canonical premium owners plus the intentional permanent Koh Samui consolidation into its stronger city destination owner. The separate four-route Koh Tao family remains independently accepted.",
@@ -1986,12 +1974,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2028,12 +2016,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2042,12 +2030,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2056,12 +2044,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2070,12 +2058,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2084,12 +2072,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2098,12 +2086,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2112,12 +2100,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2126,12 +2114,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2140,12 +2128,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2154,12 +2142,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2168,12 +2156,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2182,12 +2170,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

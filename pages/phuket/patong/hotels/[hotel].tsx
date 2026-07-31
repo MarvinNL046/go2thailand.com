@@ -7,6 +7,9 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import HotelDetailGuideTemplate from '../../../../components/hotels/HotelDetailGuideTemplate';
 import { getNlPhuketHotelDetailGuide } from '../../../../data/hotel-details/nl-phuket';
+import { getNlPatongHotelDetailGuideA } from '../../../../data/hotel-details/nl-patong-a';
+import { getNlPatongBHotelDetailGuide } from '../../../../data/hotel-details/nl-patong-b';
+import { getNlPatongCHotelDetailGuide } from '../../../../data/hotel-details/nl-patong-c';
 import type { HotelDetailGuideData } from '../../../../data/hotel-details/types';
 import { withSubId, TRIP_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
@@ -358,7 +361,12 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
-      nlGuide: getNlPhuketHotelDetailGuide(slug),
+      nlGuide:
+        getNlPhuketHotelDetailGuide(slug) ||
+        getNlPatongHotelDetailGuideA(slug) ||
+        getNlPatongBHotelDetailGuide(slug) ||
+        getNlPatongCHotelDetailGuide(slug) ||
+        null,
       tripPartnerUrl,
       siblings,
       hotelsHubTripUrl: partnersData.partners.trip_patong_hotels_hub.partnerUrl,

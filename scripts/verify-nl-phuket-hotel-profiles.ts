@@ -3,6 +3,9 @@ import { resolve } from 'node:path';
 import { nlPhuketHotelDetailGuides } from '../data/hotel-details/nl-phuket';
 import { nlKaronHotelDetailGuides } from '../data/hotel-details/nl-karon';
 import { nlWestPhuketHotelDetailGuides } from '../data/hotel-details/nl-west-phuket';
+import { nlPatongHotelDetailGuidesA } from '../data/hotel-details/nl-patong-a';
+import { nlPatongBHotelDetailGuides } from '../data/hotel-details/nl-patong-b';
+import { nlPatongCHotelDetailGuides } from '../data/hotel-details/nl-patong-c';
 
 const baseUrl = process.env.SITE_VERIFY_BASE_URL || 'http://localhost:3000';
 const projectRoot = resolve(__dirname, '..');
@@ -24,9 +27,29 @@ const expectedSlugs = [
   'the-nai-harn-phuket',
   'wyndham-grand-nai-harn-beach-phuket',
   'selina-serenity-rawai-phuket',
+  'hotel-clover-patong-phuket',
+  'la-flora-resort-patong',
+  '7q-patong-beach-hotel',
+  'holiday-inn-express-phuket-patong-beach-central',
+  'andaman-embrace-patong',
+  'ramada-by-wyndham-phuket-deevana-patong',
+  'patong-signature-boutique-hotel',
+  'deevana-patong-resort-and-spa',
+  'deevana-plaza-phuket-patong',
+  'best-western-patong-beach',
+  'mt-hotel-patong',
+  'icheck-inn-residences-patong',
+  'woovo-phuket-patong',
 ];
 
-const guides = { ...nlPhuketHotelDetailGuides, ...nlKaronHotelDetailGuides, ...nlWestPhuketHotelDetailGuides };
+const guides = {
+  ...nlPhuketHotelDetailGuides,
+  ...nlKaronHotelDetailGuides,
+  ...nlWestPhuketHotelDetailGuides,
+  ...nlPatongHotelDetailGuidesA,
+  ...nlPatongBHotelDetailGuides,
+  ...nlPatongCHotelDetailGuides,
+};
 
 function decodeHtml(value: string): string {
   return value.replace(/&quot;/g, '"').replace(/&#x27;|&#39;/g, "'").replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
@@ -45,7 +68,11 @@ async function verify(slug: string): Promise<string[]> {
   const data = guides[slug];
   if (!data) return [`ownerdata ontbreekt voor ${slug}`];
   if (!existsSync(resolve(projectRoot, 'public', data.hero.image.replace(/^\//, '')))) errors.push(`heroasset ontbreekt: ${data.hero.image}`);
-  if (data.sources.length < 1 || data.sources.some((source) => !/^https:\/\//.test(source.url))) errors.push('primaire bronregistratie ontbreekt');
+  if (
+    data.sources.length < 1 ||
+    data.sources.some((source) => !/^https?:\/\//.test(source.url)) ||
+    !data.sources.some((source) => /^https:\/\//.test(source.url))
+  ) errors.push('controleerbare bronregistratie ontbreekt');
   if (data.faqs.length !== 6) errors.push(`verwacht 6 FAQ's, kreeg ${data.faqs.length}`);
   if (data.faqEyebrow !== 'Vragen vóór je boekt') errors.push('FAQ-label doet ten onrechte een PAA-claim');
 

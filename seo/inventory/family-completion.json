@@ -4,7 +4,7 @@
   "families": [
     {
       "key": "nl:hotel-guide",
-      "status": "pending",
+      "status": "complete",
       "acceptedRoutes": [
         "/nl/where-to-stay/",
         "/nl/phuket/patong/hotels/",
@@ -74,7 +74,20 @@
         "/nl/phuket/bang-tao/hotels/hilton-garden-inn-phuket-bang-tao/",
         "/nl/phuket/nai-harn/hotels/the-nai-harn-phuket/",
         "/nl/phuket/nai-harn/hotels/wyndham-grand-nai-harn-beach-phuket/",
-        "/nl/phuket/rawai/hotels/selina-serenity-rawai-phuket/"
+        "/nl/phuket/rawai/hotels/selina-serenity-rawai-phuket/",
+        "/nl/phuket/patong/hotels/hotel-clover-patong-phuket/",
+        "/nl/phuket/patong/hotels/la-flora-resort-patong/",
+        "/nl/phuket/patong/hotels/7q-patong-beach-hotel/",
+        "/nl/phuket/patong/hotels/holiday-inn-express-phuket-patong-beach-central/",
+        "/nl/phuket/patong/hotels/andaman-embrace-patong/",
+        "/nl/phuket/patong/hotels/ramada-by-wyndham-phuket-deevana-patong/",
+        "/nl/phuket/patong/hotels/patong-signature-boutique-hotel/",
+        "/nl/phuket/patong/hotels/deevana-patong-resort-and-spa/",
+        "/nl/phuket/patong/hotels/deevana-plaza-phuket-patong/",
+        "/nl/phuket/patong/hotels/best-western-patong-beach/",
+        "/nl/phuket/patong/hotels/mt-hotel-patong/",
+        "/nl/phuket/patong/hotels/icheck-inn-residences-patong/",
+        "/nl/phuket/patong/hotels/woovo-phuket-patong/"
       ],
       "evidence": [
         "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
@@ -94,9 +107,10 @@
         "seo/audits/nl-phuket-hotel-profiles-batch-2-2026-07-31.md",
         "seo/audits/nl-phuket-hotel-profiles-batch-3-2026-07-31.md",
         "seo/audits/nl-phuket-hotel-profiles-batch-4-2026-07-31.md",
-        "seo/audits/nl-phuket-hotel-profiles-batch-5-2026-07-31.md"
+        "seo/audits/nl-phuket-hotel-profiles-batch-5-2026-07-31.md",
+        "seo/audits/nl-phuket-hotel-profiles-batch-6-2026-07-31.md"
       ],
-      "note": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners, forty-two destination hotel owners and seventeen individual Phuket hotel owners are premium and accepted; thirteen individual Patong hotel profiles remain."
+      "note": "All 82 Dutch hotel-guide routes are premium, independently registered and accepted: the national hub, six Phuket area hubs, three Phuket category owners, forty-two destination hotel owners and thirty individual Phuket hotel profiles."
     },
     {
       "key": "nl:destination-guide",
