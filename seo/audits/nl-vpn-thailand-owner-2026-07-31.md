@@ -3,6 +3,8 @@
 **Canonical owner:** `/nl/travel-guides/vpn-thailand/`  
 **Onderzocht en vernieuwd:** 31 juli 2026
 
+**Familieherverificatie:** opnieuw 1/1 groen zonder fouten of waarschuwingen (p95 525 ms), met 19/19 interne doelen en 5/5 lokale assets. Desktop 1440 × 1000 en mobiel 390 × 844 zijn zonder kapotte beelden of horizontale overflow; drie sponsorkoppelingen blijven correct gemarkeerd.
+
 ## Intentie en grenzen
 
 - De pagina bezit de Nederlandse VPN-beslissing voor Thailand: openbare wifi, werksituaties, een gekozen netwerklocatie, juridische nuance, selectie en installatie.

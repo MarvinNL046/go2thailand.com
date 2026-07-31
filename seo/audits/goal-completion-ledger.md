@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T11:33:10.076Z
+**Generated:** 2026-07-31T11:35:04.531Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 703 | 703 | 0 | 223 | 36 | 72 | 428 |
+| NL | 700 | 703 | 703 | 0 | 223 | 36 | 72 | 427 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -295,12 +295,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:digital-safety-guide
 
-- Family accepted: **0/1**
+- Family accepted: **1/1**
 - Exact owners registered: **1/1**
-- Closed: **no**
-- Remaining routes: **1**
-- Sample: `/nl/travel-guides/vpn-thailand/`
-- Evidence: not signed off
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-vpn-thailand-owner-2026-07-31.md`
 
 ### nl:editorial
 

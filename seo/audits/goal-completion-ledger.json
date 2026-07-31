@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T11:33:10.076Z",
+  "generatedAt": "2026-07-31T11:35:04.531Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -13,7 +13,7 @@
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 428,
+      "provisionalInventoryDecisions": 427,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -692,17 +692,17 @@
       "closed": true
     },
     "nl:digital-safety-guide": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:digital-safety-guide.",
+      "definition": "The Dutch VPN owner has independent Dutch SERP/PAA and primary-source research, a premium bilingual safety template, constrained legal and security claims, transparent affiliates and renewed responsive production QA.",
       "expected": 1,
-      "complete": 0,
+      "complete": 1,
       "exactOwners": 1,
-      "remainingCount": 1,
-      "remaining": [
-        "/nl/travel-guides/vpn-thailand/"
-      ],
+      "remainingCount": 0,
+      "remaining": [],
       "remainingTruncated": false,
-      "evidence": [],
-      "closed": false
+      "evidence": [
+        "seo/audits/nl-vpn-thailand-owner-2026-07-31.md"
+      ],
+      "closed": true
     },
     "nl:editorial": {
       "definition": "Pending explicit family-level research, design and technical acceptance for nl:editorial.",
@@ -6601,7 +6601,7 @@
       "templateOwner": "digital-safety-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:digital-safety-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
