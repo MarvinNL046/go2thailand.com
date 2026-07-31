@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import DestinationFlightsGuideNl from '../../components/flights/DestinationFlightsGuideNl';
 
 interface Route {
   code: string;
@@ -37,6 +38,10 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <DestinationFlightsGuideNl destination="bangkok" routes={routes} />;
+  }
 
   const tiers: Array<'domestic' | 'regional' | 'long-haul'> = ['domestic', 'regional', 'long-haul'];
   const grouped = tiers.reduce<Record<string, Route[]>>((acc, t) => {
@@ -319,8 +324,11 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
   );
 }
 
-export const getStaticProps: GetStaticProps<Props> = async () => {
+export const getStaticProps: GetStaticProps<Props> = async ({ locale }) => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'flights', 'bangkok-routes.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  return { props: { routes: data.routes, lastUpdated: data.lastUpdated }, revalidate: 604800 };
+  const routes = locale === 'nl'
+    ? data.routes.map(({ code, from, fromName, tier, partnerUrl }: Route) => ({ code, from, fromName, tier, partnerUrl }))
+    : data.routes;
+  return { props: { routes, lastUpdated: data.lastUpdated }, revalidate: 604800 };
 };
