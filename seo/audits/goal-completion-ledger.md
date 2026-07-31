@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T12:18:52.398Z
+**Generated:** 2026-07-31T12:29:47.190Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 703 | 703 | 0 | 226 | 36 | 72 | 423 |
+| NL | 700 | 703 | 703 | 0 | 228 | 36 | 72 | 422 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -403,12 +403,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:phuket-location
 
-- Family accepted: **4/15**
-- Exact owners registered: **3/15**
+- Family accepted: **5/15**
+- Exact owners registered: **5/15**
 - Closed: **no**
-- Remaining routes: **11**
-- Sample: `/nl/phuket/rawai/`, `/nl/phuket/karon/`, `/nl/phuket/patong/`, `/nl/phuket/patong/nightlife/`, `/nl/phuket/patong/restaurants/`, `/nl/phuket/kata/`, `/nl/phuket/kata/surfing/`, `/nl/phuket/kata/kata-noi/`, `/nl/phuket/kamala/`, `/nl/phuket/bang-tao/`, `/nl/phuket/surin/`
-- Evidence: `seo/audits/nl-phuket-old-town-owner-2026-07-31.md`, `seo/audits/nl-phuket-old-town-spokes-2026-07-31.md`, `seo/audits/nl-phuket-nai-harn-owner-2026-07-31.md`
+- Remaining routes: **10**
+- Sample: `/nl/phuket/karon/`, `/nl/phuket/patong/`, `/nl/phuket/patong/nightlife/`, `/nl/phuket/patong/restaurants/`, `/nl/phuket/kata/`, `/nl/phuket/kata/surfing/`, `/nl/phuket/kata/kata-noi/`, `/nl/phuket/kamala/`, `/nl/phuket/bang-tao/`, `/nl/phuket/surin/`
+- Evidence: `seo/audits/nl-phuket-old-town-owner-2026-07-31.md`, `seo/audits/nl-phuket-old-town-spokes-2026-07-31.md`, `seo/audits/nl-phuket-nai-harn-owner-2026-07-31.md`, `seo/audits/nl-phuket-rawai-owner-2026-07-31.md`
 
 ### nl:practical
 
