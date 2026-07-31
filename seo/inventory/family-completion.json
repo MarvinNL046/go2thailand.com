@@ -161,9 +161,16 @@
     {
       "key": "nl:phuket-location",
       "status": "pending",
-      "acceptedRoutes": ["/nl/phuket/old-town/"],
-      "evidence": ["seo/audits/nl-phuket-old-town-owner-2026-07-31.md"],
-      "note": "The Dutch Phuket-location rebuild is active. Old Phuket Town is the independently researched premium pilot; fourteen location and specialist owners remain before family closure."
+      "acceptedRoutes": [
+        "/nl/phuket/old-town/",
+        "/nl/phuket/old-town/things-to-do/",
+        "/nl/phuket/old-town/night-market/"
+      ],
+      "evidence": [
+        "seo/audits/nl-phuket-old-town-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-old-town-spokes-2026-07-31.md"
+      ],
+      "note": "The Dutch Phuket-location rebuild is active. All three Old Town owners are independently researched and premium; twelve beach-area and specialist owners remain before family closure."
     },
     {
       "key": "en:destination-guide",

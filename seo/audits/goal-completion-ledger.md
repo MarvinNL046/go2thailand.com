@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T11:55:15.375Z
+**Generated:** 2026-07-31T12:05:28.075Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 703 | 703 | 0 | 224 | 36 | 72 | 426 |
+| NL | 700 | 703 | 703 | 0 | 226 | 36 | 72 | 424 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -403,12 +403,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:phuket-location
 
-- Family accepted: **1/15**
-- Exact owners registered: **1/15**
+- Family accepted: **3/15**
+- Exact owners registered: **3/15**
 - Closed: **no**
-- Remaining routes: **14** (first 12 shown)
-- Sample: `/nl/phuket/old-town/things-to-do/`, `/nl/phuket/old-town/night-market/`, `/nl/phuket/nai-harn/`, `/nl/phuket/rawai/`, `/nl/phuket/karon/`, `/nl/phuket/patong/`, `/nl/phuket/patong/nightlife/`, `/nl/phuket/patong/restaurants/`, `/nl/phuket/kata/`, `/nl/phuket/kata/surfing/`, `/nl/phuket/kata/kata-noi/`, `/nl/phuket/kamala/`
-- Evidence: `seo/audits/nl-phuket-old-town-owner-2026-07-31.md`
+- Remaining routes: **12**
+- Sample: `/nl/phuket/nai-harn/`, `/nl/phuket/rawai/`, `/nl/phuket/karon/`, `/nl/phuket/patong/`, `/nl/phuket/patong/nightlife/`, `/nl/phuket/patong/restaurants/`, `/nl/phuket/kata/`, `/nl/phuket/kata/surfing/`, `/nl/phuket/kata/kata-noi/`, `/nl/phuket/kamala/`, `/nl/phuket/bang-tao/`, `/nl/phuket/surin/`
+- Evidence: `seo/audits/nl-phuket-old-town-owner-2026-07-31.md`, `seo/audits/nl-phuket-old-town-spokes-2026-07-31.md`
 
 ### nl:practical
 

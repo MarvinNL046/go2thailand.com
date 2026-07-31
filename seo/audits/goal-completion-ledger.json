@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T11:55:15.375Z",
+  "generatedAt": "2026-07-31T12:05:28.075Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 224,
+      "exactOwners": 226,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 426,
+      "provisionalInventoryDecisions": 424,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -881,14 +881,12 @@
       "closed": false
     },
     "nl:phuket-location": {
-      "definition": "The Dutch Phuket-location rebuild is active. Old Phuket Town is the independently researched premium pilot; fourteen location and specialist owners remain before family closure.",
+      "definition": "The Dutch Phuket-location rebuild is active. All three Old Town owners are independently researched and premium; twelve beach-area and specialist owners remain before family closure.",
       "expected": 15,
-      "complete": 1,
-      "exactOwners": 1,
-      "remainingCount": 14,
+      "complete": 3,
+      "exactOwners": 3,
+      "remainingCount": 12,
       "remaining": [
-        "/nl/phuket/old-town/things-to-do/",
-        "/nl/phuket/old-town/night-market/",
         "/nl/phuket/nai-harn/",
         "/nl/phuket/rawai/",
         "/nl/phuket/karon/",
@@ -898,11 +896,14 @@
         "/nl/phuket/kata/",
         "/nl/phuket/kata/surfing/",
         "/nl/phuket/kata/kata-noi/",
-        "/nl/phuket/kamala/"
+        "/nl/phuket/kamala/",
+        "/nl/phuket/bang-tao/",
+        "/nl/phuket/surin/"
       ],
-      "remainingTruncated": true,
+      "remainingTruncated": false,
       "evidence": [
-        "seo/audits/nl-phuket-old-town-owner-2026-07-31.md"
+        "seo/audits/nl-phuket-old-town-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-old-town-spokes-2026-07-31.md"
       ],
       "closed": false
     },
@@ -1659,28 +1660,28 @@
       "path": "/nl/phuket/old-town/things-to-do/",
       "pageType": "phuket-location",
       "templateOwner": "phuket-location",
-      "recommendedAction": "template-audit",
+      "recommendedAction": "keep-improve",
       "familyKey": "nl:phuket-location",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
       "path": "/nl/phuket/old-town/night-market/",
       "pageType": "phuket-location",
       "templateOwner": "phuket-location",
-      "recommendedAction": "template-audit",
+      "recommendedAction": "keep-improve",
       "familyKey": "nl:phuket-location",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
