@@ -3,7 +3,6 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { useMemo } from 'react';
 import type { ThailandIndex, BilingualText } from '../../lib/thailand-index';
 import {
   IndexTable,
@@ -12,10 +11,13 @@ import {
   MonthMatrix,
 } from '../../components/index';
 import type { TocItem } from '../../components/index';
+import ThailandDecisionIndexNl from '../../components/editorial/ThailandDecisionIndexNl';
 
 interface ThailandIndexPageProps {
-  data: ThailandIndex;
+  data: ThailandIndex | null;
 }
+
+const isDutchLocale = (locale: string | undefined): boolean => locale === 'nl';
 
 function t(obj: BilingualText, locale: string): string {
   return obj[(locale as keyof BilingualText)] || obj.en;
@@ -107,6 +109,9 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
+  if (isDutchLocale(locale)) return <ThailandDecisionIndexNl />;
+  if (!data) return null;
+
   const tocItems = lang === 'nl' ? tocItemsNl : tocItemsEn;
 
   const breadcrumbItems = [
@@ -126,10 +131,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
   const expensiveTop5 = data.rankings.most_expensive.items.slice(0, 5);
 
   // Cities with weather data for best-time preview
-  const citiesWithWeather = useMemo(
-    () => data.cities.filter((c) => c.weather && c.weather.month_scores),
-    [data.cities]
-  );
+  const citiesWithWeather = data.cities.filter((c) => c.weather && c.weather.month_scores);
 
   // FAQ schema
   const faqSchema = {
@@ -831,9 +833,9 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
   // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const data = require('../../data/thailand-index.json');
+  const data = locale === 'nl' ? null : require('../../data/thailand-index.json');
   return {
     props: { data },
     revalidate: 604800,

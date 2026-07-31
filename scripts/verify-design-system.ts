@@ -1358,6 +1358,14 @@ for (const proof of ['EditorialHero', 'PageSectionNav', 'RelatedGuidesSection', 
 }
 if (!travelGuideDirectoryRoute.includes('<TravelGuideDirectoryNl />')) failures.push('Travel-guide directory route does not wire the NL premium owner');
 
+const nlThailandDecisionIndex = read('components/editorial/ThailandDecisionIndexNl.tsx');
+const thailandDecisionIndexRoute = read('pages/thailand-index/index.tsx');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'RelatedGuidesSection', 'SourceMethodSection', 'data-premium-template="thailand-decision-index-nl"', 'CollectionPage', 'ItemList']) {
+  if (!nlThailandDecisionIndex.includes(proof)) failures.push(`NL Thailand decision index lacks proof: ${proof}`);
+}
+if (!thailandDecisionIndexRoute.includes('<ThailandDecisionIndexNl />')) failures.push('Thailand index route does not wire the NL premium decision owner');
+if (!thailandDecisionIndexRoute.includes("locale === 'nl' ? null")) failures.push('Thailand index still serializes legacy score data into NL HTML');
+
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);
   failures.forEach(failure => console.error(`- ${failure}`));
