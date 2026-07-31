@@ -1,6 +1,6 @@
 # NL Khao Yai-bodyreview — 1 augustus 2026
 
-Route: `/nl/blog/khao-yai-national-park-day-trip-guide-2026/`  
+Route: `/nl/blog/khao-yai-national-park-day-trip-guide-2026/`
 Bronbestand: `content/blog/nl/khao-yai-national-park-day-trip-guide-2026.md`
 
 ## Redactionele uitkomst
