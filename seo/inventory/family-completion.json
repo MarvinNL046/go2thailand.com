@@ -12,13 +12,17 @@
         "/nl/phuket/kata/hotels/",
         "/nl/phuket/kamala/hotels/",
         "/nl/phuket/bang-tao/hotels/",
-        "/nl/phuket/nai-harn/hotels/"
+        "/nl/phuket/nai-harn/hotels/",
+        "/nl/best-hotels/phuket/all-inclusive/",
+        "/nl/best-hotels/phuket/family/",
+        "/nl/best-hotels/phuket/resorts/"
       ],
       "evidence": [
         "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
-        "seo/audits/nl-phuket-area-hotels-family-2026-07-31.md"
+        "seo/audits/nl-phuket-area-hotels-family-2026-07-31.md",
+        "seo/audits/nl-phuket-hotel-categories-2026-07-31.md"
       ],
-      "note": "The Dutch hotel-guide rebuild is active. The national where-to-stay hub plus all six Phuket area hotel hubs are independently researched, premium and accepted; destination hotel guides, three Phuket category owners and administratively grouped hotel profiles remain."
+      "note": "The Dutch hotel-guide rebuild is active. The national where-to-stay hub, all six Phuket area hotel hubs and all three Phuket category owners are independently researched, premium and accepted; destination hotel guides and administratively grouped hotel profiles remain."
     },
     {
       "key": "nl:destination-guide",

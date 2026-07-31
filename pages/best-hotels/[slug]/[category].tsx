@@ -11,6 +11,7 @@ import EditorialMeta from '../../../components/editorial/EditorialMeta';
 import IntentInternalLinks, { IntentInternalLinkItem } from '../../../components/IntentInternalLinks';
 import { getAffiliates, withPlacementSubId, TIQETS_GENERIC, TRIP_GENERIC, tripcomAffiliate } from '../../../lib/affiliates';
 import { getEditorialUpdatedAt } from '../../../lib/pseo-editorial-date';
+import PhuketHotelCategoryNl, { PhuketHotelCategory } from '../../../components/hotels/PhuketHotelCategoryNl';
 
 /**
  * PSEO template: /best-hotels/[city]/[category]
@@ -120,6 +121,9 @@ function fallbackRelatedLinks(data: PseoData): IntentInternalLinkItem[] {
 export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  if (isNl && data.citySlug === 'phuket' && ['all-inclusive', 'family', 'resorts'].includes(data.category)) {
+    return <PhuketHotelCategoryNl category={data.category as PhuketHotelCategory} candidates={data.hotels} />;
+  }
   const categoryLabel = CATEGORY_LABELS[data.category] || data.category.replace(/-/g, ' ');
   const renderedRelatedLinks = relatedLinks && relatedLinks.length > 0 ? relatedLinks : fallbackRelatedLinks(data);
   const editorialUpdatedAt = getEditorialUpdatedAt(data);
