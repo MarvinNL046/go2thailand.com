@@ -24,6 +24,30 @@ const relatedPatongGuides = [
   },
 ];
 
+const relatedKamalaGuides = [
+  {
+    title: 'Waar verblijven in Kamala?',
+    description: 'Vergelijk de rustige noordkant, het dorpscentrum en de grotere resorts aan de baai.',
+    href: '/phuket/kamala/hotels/',
+    image: '/images/redesign/phuket-stay-kamala.webp',
+    imageAlt: 'Kamala Beach en de groene westkust van Phuket',
+  },
+  {
+    title: 'Kamala Beach als reisbasis',
+    description: 'Bekijk hoe strand, dorp, Phuket FantaSea en omliggende baaien samenhangen.',
+    href: '/phuket/kamala/',
+    image: '/images/redesign/kamala-area-hero-v2.webp',
+    imageAlt: 'Tropische baai van Kamala op Phuket',
+  },
+  {
+    title: 'Phuket reisgids',
+    description: 'Combineer Kamala met oude stad, andere stranden en een haalbare eilandroute.',
+    href: '/city/phuket/',
+    image: '/images/redesign/phuket-destination-hero-v2.webp',
+    imageAlt: 'Tropische kust van Phuket met helder water',
+  },
+];
+
 export const nlPhuketHotelDetailGuides: Record<string, HotelDetailGuideData> = {
   'grand-mercure-phuket-patong': {
     slug: 'grand-mercure-phuket-patong',
@@ -333,6 +357,200 @@ export const nlPhuketHotelDetailGuides: Record<string, HotelDetailGuideData> = {
     sources: [
       { title: 'Lub d Phuket Patong', creator: 'Lub d', url: 'https://lubd.com/destination/phuket-patong/', note: 'Officiële ligging, aantallen privé/dorm, voorzieningen, kamertypes en sociale positionering.' },
       { title: 'Our rooms', creator: 'Lub d', url: 'https://lubd.com/destination/phuket-patong/our-rooms/', note: 'Officiële kamer- en dormopties; controleer live beschikbaarheid op de boekingsdatum.' },
+    ],
+  },
+
+  'novotel-phuket-kamala-beach': {
+    slug: 'novotel-phuket-kamala-beach',
+    hotelName: 'Novotel Phuket Kamala Beach',
+    cityName: 'Phuket',
+    citySlug: 'phuket',
+    destinationHref: '/phuket/kamala/',
+    hotelGuideHref: '/phuket/kamala/hotels/',
+    hotelGuideLabel: 'Hotels in Kamala',
+    area: 'Noord-Kamala · direct aan het strand',
+    pageTitle: 'Novotel Phuket Kamala Beach: past dit hotel bij je?',
+    pageDescription: 'Eerlijk verblijfadvies over Novotel Phuket Kamala Beach: strandligging, kamers en villa’s, gezinnen, zwembad en wat je vóór boeken controleert.',
+    pageUrl: 'https://go2-thailand.com/nl/phuket/kamala/hotels/novotel-phuket-kamala-beach/',
+    dateModified: '2026-07-31',
+    hero: {
+      image: '/images/redesign/novotel-kamala-guide-hero.webp',
+      imageAlt: 'Redactioneel sfeerbeeld van een modern strandresort aan een rustige groene baai op Phuket',
+      imageCaption: 'AI-gegenereerd sfeerbeeld van een strandresort in noord-Kamala; bekijk actuele hotel- en kamerfoto’s bij de aanbieder.',
+      eyebrow: 'Aan het rustige uiteinde van Kamala',
+      title: 'Novotel Phuket',
+      accent: 'Kamala Beach',
+      subtitle: 'Een compacte strandbasis met hotelvoorzieningen, zonder midden in het dorp te slapen.',
+      description: 'Accor plaatst het resort direct aan het noordelijke uiteinde van Kamala Beach. Je loopt vanuit het hotel naar zand en zee; restaurants en het levendigere deel van Kamala liggen verderop langs de baai.',
+      ctaLabel: 'Controleer actuele kamers',
+    },
+    verdict: {
+      eyebrow: 'Het korte oordeel',
+      title: 'Sterk voor directe strandtijd en een rustige hotelbasis.',
+      description: 'Kies dit Novotel wanneer je het strand zonder transfer wilt gebruiken en een overzichtelijk resort prettig vindt. De echte boekingskeuze zit in standaardkamer, suite of villa: oppervlakte, uitzicht, buitenruimte en maximale bezetting verschillen aanzienlijk.',
+      stats: [
+        { label: 'Ligging', value: 'Beachfront', note: 'Noordelijke zijde van Kamala Beach', icon: 'waves' },
+        { label: 'Kamerstart', value: '30 m²', note: 'Superior en Ocean Room volgens Accor', icon: 'bed' },
+        { label: 'Villa’s', value: '38–170 m²', note: 'Van Ocean Villa tot villa met twee slaapkamers', icon: 'sparkles' },
+        { label: 'Luchthaven', value: '24 km', note: 'Afstand zoals Accor die vermeldt', icon: 'route' },
+      ],
+    },
+    fit: {
+      eyebrow: 'Past het bij jouw reis?',
+      title: 'Voor strandzoekers die niet iedere avond midden in de drukte hoeven te zitten.',
+      intro: 'De noordelijke positie geeft een ander ritme dan een hotel rond de hoofdstraat. Dat is winst voor rustige stranduren, maar minder handig als dorp en restaurants meerdere keren per dag op je route staan.',
+      goodFor: ['Stellen die directe strandtoegang belangrijker vinden dan een centrale dorpslocatie', 'Gezinnen die een suite of villa op echte bezetting vergelijken', 'Reizigers die zwembad, spa en fitness ook werkelijk willen gebruiken', 'Accor-leden die merkvoorwaarden naast een flexibel extern tarief leggen'],
+      tradeoffs: ['De noordkant ligt niet bij ieder restaurant of avondadres het dichtst', 'Een Ocean Room en Ocean Villa verschillen wezenlijk in ruimte en buitenervaring', 'Ontbijt is tariefafhankelijk en hoort niet automatisch bij iedere kamerprijs', 'Tijdens aangekondigd onderhoud kunnen delen van de poolomgeving tijdelijk anders functioneren'],
+    },
+    location: {
+      eyebrow: 'Locatie in de praktijk',
+      title: 'Gebruik het strand als route naar Kamala.',
+      description: 'Accor noemt Kamala Bay op ongeveer vijf minuten lopen, restaurants op circa tien minuten en Phuket FantaSea op circa vijftien minuten. Zie die tijden als hotelindicatie en controleer de route voor jouw tempo en het weer.',
+      steps: [
+        { label: 'Ochtend', title: 'Noordelijk strand', description: 'Start bij het rustige uiteinde en beslis later of je langs de baai richting dorp loopt.' },
+        { label: 'Middag', title: 'Resortmoment', description: 'Plan zwembad, spa of fitness bewust; anders betaal je voor voorzieningen die je nauwelijks gebruikt.' },
+        { label: 'Avond', title: 'Dorp of hotel', description: 'Kies vooraf tussen eten op locatie en een heen-en-terugroute naar het centrale deel van Kamala.' },
+      ],
+    },
+    booking: {
+      eyebrow: 'Boek slimmer',
+      title: 'Vergelijk ruimte, uitzicht en bezetting per exacte categorie.',
+      description: 'De officiële inventaris loopt van kamers van 30 m² tot een villa met twee slaapkamers van 170 m². Laat de categorie — niet alleen het mooiste beeld — bepalen of de indeling bij je reisgezelschap past.',
+      checks: [
+        { title: 'Categorie', description: 'Controleer kamer, suite of villa en de bijbehorende oppervlakte.' },
+        { title: 'Bezetting', description: 'Bevestig het maximale aantal volwassenen en kinderen in dezelfde boekingsflow.' },
+        { title: 'Onderhoud', description: 'Vraag of zwembad, terras of andere faciliteiten tijdens je data volledig beschikbaar zijn.' },
+        { title: 'Voorwaarden', description: 'Vergelijk ontbijt, annulering, belastingen en Accor-ledenvoorwaarden.' },
+      ],
+    },
+    faqs: [
+      { question: 'Ligt Novotel Phuket Kamala Beach direct aan het strand?', answer: 'Ja. Accor beschrijft het hotel als beachfront aan het noordelijke uiteinde van Kamala Beach. Het strand blijft openbaar en zeecondities verschillen per seizoen en dag.' },
+      { question: 'Welke kamers en villa’s heeft Novotel Phuket Kamala Beach?', answer: 'De officiële pagina toont onder meer Superior- en Ocean Rooms van 30 m², een suite en verschillende villa’s. De grootste villa met twee slaapkamers is 170 m² en bedoeld voor maximaal vier gasten volgens Accor.' },
+      { question: 'Is Novotel Phuket Kamala Beach geschikt voor gezinnen?', answer: 'Er zijn grotere villa- en suitecategorieën, maar niet iedere kamer past bij hetzelfde gezin. Controleer maximale bezetting, bedopstelling en eventuele kindervoorwaarden per tarief.' },
+      { question: 'Is ontbijt inbegrepen?', answer: 'Niet automatisch. Accor vermeldt ontbijt tegen een toeslag; een specifiek tarief kan het wel omvatten. Vergelijk dezelfde kamer met en zonder ontbijt.' },
+      { question: 'Hoe ver ligt het hotel van het centrum van Kamala?', answer: 'Het hotel ligt aan de rustige noordkant. Accor noemt restaurants op ongeveer tien minuten lopen en Phuket FantaSea op circa vijftien minuten; controleer je eigen route op de kaart.' },
+      { question: 'Zijn alle faciliteiten in 2026 normaal geopend?', answer: 'Accor kondigde voor 6 juli tot en met 30 september 2026 een vernieuwing rond een deel van het zwembadgebied aan, terwijl het hoofdzwembad open zou blijven. Vraag bij reizen rond die periode rechtstreeks naar de actuele situatie.' },
+    ],
+    faqEyebrow: 'Vragen vóór je boekt',
+    faqDescription: 'Deze praktische boekingsvragen zijn gebaseerd op actuele Accor-informatie; er is geen PAA-label gebruikt zonder zelfstandige, bruikbare hotel-PAA-research.',
+    relatedGuides: relatedKamalaGuides,
+    sources: [
+      { title: 'Novotel Phuket Kamala Beach', creator: 'Accor', url: 'https://all.accor.com/hotel/7235/index.en.shtml', note: 'Officiële ligging, kamertypes, villa’s, faciliteiten, afstanden en tijdelijke onderhoudsmelding.' },
+      { title: 'Novotel Phuket Kamala Beach', creator: 'Accor (Nederlands)', url: 'https://all.accor.com/hotel/7235/index.nl.shtml', note: 'Nederlandstalige hotelinformatie en actuele boekingscontext.' },
+    ],
+  },
+
+  'sunwing-kamala-beach': {
+    slug: 'sunwing-kamala-beach', hotelName: 'Sunwing Kamala Beach', cityName: 'Phuket', citySlug: 'phuket', destinationHref: '/phuket/kamala/', hotelGuideHref: '/phuket/kamala/hotels/', hotelGuideLabel: 'Hotels in Kamala', area: 'Centraal Kamala · aan de strandzijde',
+    pageTitle: 'Sunwing Kamala Beach: eerlijk advies voor gezinnen',
+    pageDescription: 'Past Sunwing Kamala Beach bij jouw gezin? Eerlijk advies over studio’s, familiekamers, acht zwembaden, kidsfaciliteiten en boekingskeuzes.',
+    pageUrl: 'https://go2-thailand.com/nl/phuket/kamala/hotels/sunwing-kamala-beach/', dateModified: '2026-07-31',
+    hero: {
+      image: '/images/redesign/sunwing-kamala-guide-hero.webp', imageAlt: 'Redactioneel sfeerbeeld van een groen familieresort met meerdere zwembadzones bij Kamala Beach', imageCaption: 'AI-gegenereerd sfeerbeeld van een familieresort in Kamala; bekijk actuele kamer- en faciliteitenfoto’s bij de aanbieder.',
+      eyebrow: 'Gebouwd rond gezinsdagen', title: 'Sunwing', accent: 'Kamala Beach', subtitle: 'Studio’s, veel water en duidelijke familiefaciliteiten — op grote resortschaal.',
+      description: 'Sunwing noemt 311 kamers in vijf gebouwen, acht buitenzwembaden, een kinderbad, drie glijbanen en uitgebreide kinderzones. Dat maakt het een doelgerichte gezinskeuze, niet simpelweg een rustig strandhotel.', ctaLabel: 'Controleer actuele familiekamers',
+    },
+    verdict: {
+      eyebrow: 'Het korte oordeel', title: 'Sterk wanneer het resort een belangrijk deel van de familievakantie is.', description: 'De kracht zit in praktische studio’s, veel zwembadzones en activiteiten voor verschillende leeftijden. De keerzijde is schaal: wie een klein, stil hotel of vooral dagtochten zoekt, betaalt mogelijk voor een infrastructuur die weinig wordt gebruikt.',
+      stats: [
+        { label: 'Voorraad', value: '311 kamers', note: 'Vijf gebouwen volgens Sunwing', icon: 'bed' },
+        { label: 'Water', value: '8 buitenpools', note: 'Plus kinderbad en drie glijbanen', icon: 'waves' },
+        { label: 'Studio', value: '44–56 m²', note: 'Maximaal twee volwassenen en twee kinderen onder 12', icon: 'sparkles' },
+        { label: 'Opzet', value: '24.000 m²', note: 'Groot familiecomplex', icon: 'map' },
+      ],
+    },
+    fit: {
+      eyebrow: 'Past het bij jouw gezin?', title: 'Kies het voor gemak en kinderfaciliteiten, niet voor boetiekrust.', intro: 'Het kamertype bepaalt veel: een gewone studio, Happy Baby Studio, pool-accessstudio en familiesuite lossen verschillende gezinsvragen op.',
+      goodFor: ['Gezinnen die meerdere zwembaden en kinderactiviteiten dagelijks willen gebruiken', 'Ouders met een baby die de specifieke Happy Baby-uitrusting nodig hebben', 'Gezinnen die een studio met kitchenetteachtige praktijk verkiezen boven een standaardkamer', 'Tieners en kinderen die afwisseling op het resort belangrijk vinden'],
+      tradeoffs: ['Acht zwembaden en 311 kamers betekenen een groot complex met loopafstanden', 'Pool access heeft extra veiligheidsvoorwaarden en is niet automatisch geschikt voor ieder jong kind', 'Activiteiten, kinderclub en entertainment kunnen per dag, leeftijd of seizoen verschillen', 'Kids eat free geldt alleen onder specifieke restaurant- en begeleidingsvoorwaarden'],
+    },
+    location: {
+      eyebrow: 'Locatie in de praktijk', title: 'Laat strand, zwembad en dorp elkaar afwisselen.', description: 'Sunwing ligt bij Kamala Beach. Gebruik het hotel als gezinsbasis en plan maximaal één grotere verplaatsing per dag, zodat kinderen niet voortdurend tussen taxi, hitte en resortprogramma wisselen.',
+      steps: [
+        { label: 'Ochtend', title: 'Strand of glijbanen', description: 'Kies het koelste actieve blok vroeg en bewaar een tweede watermoment als reserve.' },
+        { label: 'Middag', title: 'Studio & kidszone', description: 'Gebruik kamerindeling en kinderfaciliteiten voor een echte rustpauze.' },
+        { label: 'Avond', title: 'Dorp of programma', description: 'Controleer het actuele resortprogramma voordat je een externe avondroute vastlegt.' },
+      ],
+    },
+    booking: {
+      eyebrow: 'Boek slimmer', title: 'Boek op gezinsfase en veiligheid, niet alleen op zwembadzicht.', description: 'De Happy Baby Studio heeft een omheind terras en babyvoorzieningen; Royal Pool Access geeft directe toegang maar kent een minimumleeftijd van zes jaar of een ondertekende risicoverklaring.',
+      checks: [
+        { title: 'Leeftijden', description: 'Voer alle kinderleeftijden in en controleer bezetting en eventuele tienertoeslag.' },
+        { title: 'Pool access', description: 'Bevestig veiligheidsvoorwaarden en beslis of directe toegang echt wenselijk is.' },
+        { title: 'Suite-indeling', description: 'Controleer slaapkamers, bedden en maximale bezetting van de gekozen familiesuite.' },
+        { title: 'Maaltijden', description: 'Lees precies wanneer ontbijt of kids eat free in jouw tarief en restaurant geldt.' },
+      ],
+    },
+    faqs: [
+      { question: 'Hoeveel zwembaden heeft Sunwing Kamala Beach?', answer: 'De officiële faciliteitenpagina noemt acht buitenzwembaden en één kinderbad, plus drie glijbanen en een swim-upbar. Actuele opening en onderhoud kunnen wijzigen.' },
+      { question: 'Welke kamer is handig met een baby?', answer: 'De Happy Baby Studio is 44 m², ligt op de begane grond en heeft volgens Sunwing een omheind terras en baby-uitrusting. Controleer beschikbaarheid en de exacte inventaris voor je reisdata.' },
+      { question: 'Mag ieder kind in een pool-accesskamer?', answer: 'Sunwing noemt voor de Royal Pool Access Studio een minimumleeftijd van zes jaar, tenzij een ouder of voogd een risicoverklaring ondertekent. Controleer de actuele voorwaarde vóór boeken.' },
+      { question: 'Hoeveel personen passen in een standaardstudio?', answer: 'De Studio is 44 tot 56 m² en wordt officieel aangeboden voor twee volwassenen plus twee kinderen onder twaalf zonder extra bed. Voor tieners of een andere samenstelling kunnen toeslagen of andere categorieën gelden.' },
+      { question: 'Eten kinderen gratis bij Sunwing Kamala Beach?', answer: 'Sunwing heeft een kids-eat-freeaanbod onder voorwaarden, waaronder leeftijd, begeleidende betalende volwassene en geselecteerde menu’s of eetmomenten. Behandel dit niet als onbeperkte all-inclusivebelofte.' },
+      { question: 'Is Sunwing Kamala Beach een rustig hotel?', answer: 'Het is een groot familieresort met zwembaden, glijbanen en activiteiten. Rust verschilt per gebouw, kamerpositie en vakantieperiode; vraag bij slaapgevoeligheid naar een passende ligging.' },
+    ],
+    faqEyebrow: 'Vragen vóór je boekt', faqDescription: 'De antwoorden volgen uit de actuele Sunwing-kamer- en faciliteiteninformatie. Dagprogramma’s en commerciële voorwaarden moeten in de live boekingsflow worden bevestigd.', relatedGuides: relatedKamalaGuides,
+    sources: [
+      { title: 'Sunwing Kamala Beach', creator: 'Sunwing', url: 'https://www.sunwingkamala.com/', note: 'Officiële hotelopzet, ligging, kamers en gezinspositionering.' },
+      { title: 'Swimming pools', creator: 'Sunwing', url: 'https://www.sunwingkamala.com/facilities-activities/swimming-pools.html', note: 'Officiële aantallen zwembaden, kinderbad, glijbanen en openingstijden.' },
+      { title: 'Rooms', creator: 'Sunwing', url: 'https://www.sunwingkamala.com/rooms/studio.html', note: 'Officiële Studio-capaciteit; overige kamertypes zijn via dezelfde kamerserie gecontroleerd.' },
+    ],
+  },
+
+  'sunprime-kamala-beach': {
+    slug: 'sunprime-kamala-beach', hotelName: 'Kamala Beach Resort – a Sunprime Resort', cityName: 'Phuket', citySlug: 'phuket', destinationHref: '/phuket/kamala/', hotelGuideHref: '/phuket/kamala/hotels/', hotelGuideLabel: 'Hotels in Kamala', area: 'Centraal Kamala · strandresort voor 16+',
+    pageTitle: 'Sunprime Kamala Beach: eerlijk 16+ verblijfadvies',
+    pageDescription: 'Eerlijk advies over Kamala Beach Resort – a Sunprime Resort: 16+ beleid, kamers, vier zwembaden, strandligging en slimme boekingskeuzes.',
+    pageUrl: 'https://go2-thailand.com/nl/phuket/kamala/hotels/sunprime-kamala-beach/', dateModified: '2026-07-31',
+    hero: {
+      image: '/images/redesign/sunprime-kamala-guide-hero.webp', imageAlt: 'Redactioneel sfeerbeeld van een rustig 16-plus strandresort met zwembad bij zonsondergang in Kamala', imageCaption: 'AI-gegenereerd sfeerbeeld van een ruim strandresort voor volwassenen in Kamala; bekijk actuele kamerfoto’s bij de aanbieder.',
+      eyebrow: '16+ aan Kamala Beach', title: 'Kamala Beach Resort', accent: 'a Sunprime Resort', subtitle: 'Een groot, volwassen georiënteerd strandresort — niet hetzelfde als een klein adults-only boetiekhotel.',
+      description: 'De huidige officiële naam is Kamala Beach Resort – a Sunprime Resort. Het hotel hanteert een minimumleeftijd van 16 jaar en noemt 417 kamers, vier zwembaden, twee restaurants en vier bars.', ctaLabel: 'Controleer actuele kamers',
+    },
+    verdict: {
+      eyebrow: 'Het korte oordeel', title: 'Sterk voor rustige resortdagen zonder jonge kinderen.', description: 'De 16+-regel, strandligging en meerdere zwembaden maken het aantrekkelijk voor stellen en volwassen reisgezelschappen. Met 417 kamers en acht gebouwen blijft dit een groot resort; verwacht schaal en verschillende vleugels, niet automatisch intimiteit.',
+      stats: [
+        { label: 'Leeftijd', value: 'Vanaf 16 jaar', note: 'Officieel minimum voor hotelgasten', icon: 'sparkles' },
+        { label: 'Voorraad', value: '417 kamers', note: 'Verdeeld over acht gebouwen', icon: 'bed' },
+        { label: 'Zwembaden', value: '4 pools', note: 'Plus twee swim-upbars', icon: 'waves' },
+        { label: 'Terrein', value: '27.200 m²', note: 'Ruime strandresortopzet', icon: 'map' },
+      ],
+    },
+    fit: {
+      eyebrow: 'Past het bij jouw reis?', title: 'Kies het voor 16+ rust en resortfaciliteiten.', intro: 'De grote voorraad betekent dat vleugel, verdieping, uitzicht en looproute veel invloed hebben op je verblijf.',
+      goodFor: ['Stellen die een kindvrije hotelomgeving vanaf zestien jaar zoeken', 'Vrienden die strand, zwembad, fitness en bars op één terrein willen', 'Reizigers die een groot resort prettiger vinden dan een kleine adults-only hideaway', 'Wie een junior suite of tweeslaapkamersuite op echte ruimte en bezetting vergelijkt'],
+      tradeoffs: ['Adults-only betekent hier 16+, niet 18+', 'Een groot complex heeft verschillende vleugels en loopafstanden', 'Niet iedere kamer heeft hetzelfde zeezicht, terras of zwembadverband', 'Sunprime Inclusive is een specifiek maaltijdconcept en geen onbeperkte dagelijkse all-inclusivegarantie'],
+    },
+    location: {
+      eyebrow: 'Locatie in de praktijk', title: 'Houd je dag compact rond strand en dorp.', description: 'Het resort ligt aan Kamala Beach. Gebruik de directe strandpositie voor ochtend en zonsondergang en bundel dorpsadressen in één ronde in plaats van steeds terug te lopen door het terrein.',
+      steps: [
+        { label: 'Ochtend', title: 'Strand of training', description: 'Kies zee, fitness, yoga of aerobics als eerste blok voordat de warmte oploopt.' },
+        { label: 'Middag', title: 'Pool per sfeer', description: 'Controleer welke pool en bar bij jouw kamerroute en gewenste rust passen.' },
+        { label: 'Avond', title: 'Resort of Kamala', description: 'Vergelijk het actuele dinerconcept met een wandeling naar het dorp.' },
+      ],
+    },
+    booking: {
+      eyebrow: 'Boek slimmer', title: 'Vergelijk vleugel, uitzicht en bezetting vóór de prijs.', description: 'Beach Wing Deluxe, Grand Deluxe, Junior Suite en tweeslaapkamersuite verschillen in ruimte, oriëntatie en maximale bezetting. De hotelnaam alleen zegt weinig over jouw specifieke kamer.',
+      checks: [
+        { title: 'Minimumleeftijd', description: 'Bevestig dat iedere gast op de verblijfsdatum minimaal zestien jaar is.' },
+        { title: 'Vleugel', description: 'Controleer Beach Wing of Grand Wing, verdieping en werkelijke looproute.' },
+        { title: 'Maaltijdplan', description: 'Lees welke vijf dineravonden en drankvoorwaarden bij Sunprime Inclusive horen.' },
+        { title: 'Voorwaarden', description: 'Vergelijk annulering, belastingen en exacte kamerbezetting in de live boeking.' },
+      ],
+    },
+    faqs: [
+      { question: 'Is Sunprime Kamala Beach adults-only?', answer: 'Ja, met een officiële minimumleeftijd van zestien jaar. Het is dus een 16+-resort, niet een hotel dat pas vanaf achttien jaar toegankelijk is.' },
+      { question: 'Hoe heet Sunprime Kamala Beach officieel?', answer: 'De huidige hotelsite gebruikt “Kamala Beach Resort – a Sunprime Resort”. De bekende route- en zoeknaam Sunprime Kamala Beach verwijst naar dezelfde accommodatie.' },
+      { question: 'Hoeveel zwembaden heeft het resort?', answer: 'De officiële informatie noemt vier zwembaden en vier bars, waaronder twee swim-upbars. Opening en onderhoud kunnen per reisdatum veranderen.' },
+      { question: 'Hoe groot is Sunprime Kamala Beach?', answer: 'Het resort noemt 417 kamers op een terrein van 27.200 m², verdeeld over acht gebouwen. Dat maakt kamerlocatie en loopafstand belangrijke boekingspunten.' },
+      { question: 'Welke kamer past bij een langer verblijf?', answer: 'Een Grand Deluxe is 44 m²; Junior Suites lopen volgens de officiële kamerinformatie van 66 tot 75 m². Voor meerdere volwassenen zijn er tweeslaapkamersuites van ongeveer 60 tot 67 m², met bezetting per categorie.' },
+      { question: 'Is Sunprime Inclusive hetzelfde als all-inclusive?', answer: 'Niet in de klassieke onbeperkte betekenis. De officiële formule omvat ontbijt en diner op vijf dagen binnen de beschreven voorwaarden. Controleer de actuele inhoud voor jouw tarief.' },
+    ],
+    faqEyebrow: 'Vragen vóór je boekt', faqDescription: 'Deze antwoorden zijn gebaseerd op de actuele hotel-, kamer- en restaurantinformatie. Het 16+-beleid en maaltijdplan zijn als boekingsvoorwaarden behandeld, niet als marketinglabel.', relatedGuides: relatedKamalaGuides,
+    sources: [
+      { title: 'Kamala Beach Resort – a Sunprime Resort', creator: 'Sunprime Kamala Beach', url: 'https://www.kamalabeach.com/', note: 'Officiële naam, 16+-beleid, omvang, kamers en resortvoorzieningen.' },
+      { title: 'Rooms', creator: 'Sunprime Kamala Beach', url: 'https://www.kamalabeach.com/rooms.html', note: 'Officiële kamertypes, oppervlakten en maximale bezetting.' },
+      { title: 'Food & beverage', creator: 'Sunprime Kamala Beach', url: 'https://kamalabeach.sunprime.net/food-beverage', note: 'Officiële restaurants, bars en uitleg van Sunprime Inclusive.' },
     ],
   },
 };

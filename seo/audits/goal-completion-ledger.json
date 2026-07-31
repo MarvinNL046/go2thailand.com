@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T20:09:27.920Z",
+  "generatedAt": "2026-07-31T20:28:06.344Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 667,
       "hybrid": 0,
       "noSignature": 33,
-      "exactOwners": 340,
+      "exactOwners": 343,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 105,
       "amazonLinks": 230,
-      "provisionalInventoryDecisions": 309,
+      "provisionalInventoryDecisions": 306,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -778,11 +778,11 @@
       "closed": true
     },
     "nl:hotel-guide": {
-      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners, forty-two destination hotel owners and five individual Patong hotel owners are premium and accepted; twenty-five individual Phuket hotel profiles remain.",
+      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners, forty-two destination hotel owners and eight individual Phuket hotel owners are premium and accepted; twenty-two individual Phuket hotel profiles remain.",
       "expected": 82,
-      "complete": 57,
-      "exactOwners": 57,
-      "remainingCount": 25,
+      "complete": 60,
+      "exactOwners": 60,
+      "remainingCount": 22,
       "remaining": [
         "/nl/phuket/patong/hotels/hotel-clover-patong-phuket/",
         "/nl/phuket/patong/hotels/la-flora-resort-patong/",
@@ -813,7 +813,8 @@
         "seo/audits/nl-hotel-overview-family-2026-07-26.md",
         "seo/audits/nl-city-hotel-guides-batch-9-2026-07-31.md",
         "seo/audits/nl-phuket-hotel-profiles-batch-1-2026-07-31.md",
-        "seo/audits/nl-phuket-hotel-profiles-batch-2-2026-07-31.md"
+        "seo/audits/nl-phuket-hotel-profiles-batch-2-2026-07-31.md",
+        "seo/audits/nl-phuket-hotel-profiles-batch-3-2026-07-31.md"
       ],
       "closed": false
     },
@@ -2263,12 +2264,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2277,12 +2278,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2291,12 +2292,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

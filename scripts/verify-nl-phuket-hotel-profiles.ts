@@ -10,6 +10,9 @@ const expectedSlugs = [
   'hotel-indigo-phuket-patong',
   'movenpick-myth-hotel-patong-phuket',
   'lub-d-phuket-patong',
+  'novotel-phuket-kamala-beach',
+  'sunwing-kamala-beach',
+  'sunprime-kamala-beach',
 ];
 
 function decodeHtml(value: string): string {

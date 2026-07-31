@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlPhuketHotelDetailGuide } from '../../../../data/hotel-details/nl-phuket';
+import type { HotelDetailGuideData } from '../../../../data/hotel-details/types';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
 
@@ -32,13 +35,17 @@ interface Hotel {
 interface Partner { partnerUrl: string; label: string; }
 type PartnersMap = Record<string, Partner>;
 
-interface Props { hotel: Hotel; tripUrl: string; lastUpdated: string; siblings: Array<{ slug: string; name: string }>; }
+interface Props { hotel: Hotel; nlGuide: HotelDetailGuideData | null; tripUrl: string; lastUpdated: string; siblings: Array<{ slug: string; name: string }>; }
 
-export default function KamalaHotelReview({ hotel, tripUrl, lastUpdated, siblings }: Props) {
+export default function KamalaHotelReview({ hotel, nlGuide, tripUrl, lastUpdated, siblings }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
   const placement = (p: string) => `${subId}-pseo-phuket-kamala-${hotel.slug}-${p}`;
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={withSubId(tripUrl, placement('hotel-detail'))} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -226,5 +233,5 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   const partner = partners[hotel.tripPartnerKey];
   const tripUrl = partner ? partner.partnerUrl : partners['trip_pillar'].partnerUrl;
   const siblings = (hotelsData.hotels as Hotel[]).filter(h => h.slug !== slug).map(h => ({ slug: h.slug, name: h.name }));
-  return { props: { hotel, tripUrl, lastUpdated: hotelsData.lastUpdated, siblings }, revalidate: 604800 };
+  return { props: { hotel, nlGuide: getNlPhuketHotelDetailGuide(slug), tripUrl, lastUpdated: hotelsData.lastUpdated, siblings }, revalidate: 604800 };
 };
