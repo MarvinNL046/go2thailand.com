@@ -5,6 +5,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
+import ThailandRegionsDirectoryNl from '../../components/regions/ThailandRegionsDirectoryNl';
 
 interface Region {
   id: number;
@@ -30,6 +31,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+  if (isNl) return <ThailandRegionsDirectoryNl regions={regions} />;
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, 'region', placement);
 

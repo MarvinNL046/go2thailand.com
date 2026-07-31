@@ -1296,6 +1296,17 @@ for (const proof of ['kohMakIslandGuide', "breadcrumbsRoot: { label: 'Eilanden'"
 }
 if (!read('data/islands/nl-guides/index.ts').includes("'koh-mak': kohMakIslandGuide")) failures.push('NL island guide registry does not wire Koh Mak');
 read('public/images/redesign/koh-mak-island-hero-nl.webp');
+const nlRegionGuideData = read('data/regions/nl-guides.ts');
+for (const proof of ['northernThailandRegionGuide', 'centralThailandRegionGuide', 'southernThailandRegionGuide', 'isaanThailandRegionGuide', 'Thai Meteorological Department']) {
+  if (!nlRegionGuideData.includes(proof)) failures.push(`NL region guide family missing proof: ${proof}`);
+}
+const nlRegionDirectory = read('components/regions/ThailandRegionsDirectoryNl.tsx');
+for (const proof of ['thailand-regions-directory-nl', 'ThailandMapGraphic', 'FAQPage', 'nofollow sponsored']) {
+  if (!nlRegionDirectory.includes(proof)) failures.push(`NL region directory missing proof: ${proof}`);
+}
+for (const asset of ['northern-thailand-region-hero-nl.webp', 'central-thailand-region-hero-nl.webp', 'southern-thailand-region-hero-nl.webp', 'isaan-thailand-region-hero-nl.webp']) {
+  read(`public/images/redesign/${asset}`);
+}
 
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);

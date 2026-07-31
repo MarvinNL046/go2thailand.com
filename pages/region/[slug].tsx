@@ -10,6 +10,8 @@ import { useRouter } from 'next/router';
 import AffiliateBox from '../../components/AffiliateBox';
 import { getAffiliates, regionFeaturedCities, CityAffiliates, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import { DestinationGuideTemplate } from '../../components/city/DestinationGuideTemplate';
+import { getNlRegionGuide } from '../../data/regions/nl-guides';
 const { getAllDishes } = require('../../lib/food');
 const { getAllItineraries } = require('../../lib/itineraries');
 
@@ -149,6 +151,11 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
   const tipsAnim = useScrollAnimation(0.1);
   const planAnim = useScrollAnimation(0.1);
   const exploreAnim = useScrollAnimation(0.1);
+  const nlRegionGuide = isNl ? getNlRegionGuide(region.slug) : undefined;
+
+  if (nlRegionGuide) {
+    return <DestinationGuideTemplate data={nlRegionGuide} />;
+  }
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, subId, placement);
 

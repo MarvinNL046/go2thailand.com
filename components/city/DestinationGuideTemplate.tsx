@@ -125,7 +125,7 @@ const templateCopy = {
     sourceTitle: (city: string) => `Hoe is deze ${city}-gids samengesteld?`,
     sourceEyebrow: "Bronnen & methode",
     sourceDescription:
-      "De pagina combineert Nederlandse DataForSEO-resultaten, zichtbare concurrentiepatronen en primaire bronnen. De hoofdpagina helpt je kiezen; weer, verblijf en bezienswaardigheden worden samengevat en naar hun eigen gids doorgelinkt.",
+      "De pagina combineert lokaal beschikbare zoekdata, zichtbare actuele zoekresultaten en primaire bronnen. De onderzoeksbrief legt de gebruikte methode en ownergrenzen vast; veranderlijke informatie wordt naar een actuele dagcheck verwezen.",
   },
   en: {
     nav: [
