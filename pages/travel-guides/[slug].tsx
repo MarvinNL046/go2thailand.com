@@ -22,6 +22,7 @@ import SoloFemaleThailandGuideNl from '../../components/editorial/SoloFemaleThai
 import ThailandAnimalRiskGuideNl from '../../components/editorial/ThailandAnimalRiskGuideNl';
 import ThailandNationalParksGuideNl from '../../components/editorial/ThailandNationalParksGuideNl';
 import ThailandHikingTrekkingGuideNl from '../../components/editorial/ThailandHikingTrekkingGuideNl';
+import ThailandDivingSnorkelingGuideNl from '../../components/editorial/ThailandDivingSnorkelingGuideNl';
 
 // --- Type definitions ---
 
@@ -379,6 +380,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (lang === 'nl' && guide.slug === 'hiking-trekking-thailand') {
     return <ThailandHikingTrekkingGuideNl />;
+  }
+
+  if (lang === 'nl' && guide.slug === 'diving-snorkeling-thailand') {
+    return <ThailandDivingSnorkelingGuideNl />;
   }
 
   const breadcrumbs = [
@@ -746,6 +751,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Een goede trekking begint met het omkeerpunt.' },
             intro: { ...guide.hero.intro, nl: 'Kies een route die bij je conditie, terrein en dag past en controleer status, weer, begeleiding en uitrusting.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'diving-snorkeling-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Duiken en snorkelen in Thailand' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Duiken en snorkelen Thailand: plekken en veilige checks' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Kies snorkelen of duiken op ervaring, regio en actuele zeecondities en controleer parkstatus, brevet, operator, boot en voorwaarden.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'De beste waterdag begint met een geloofwaardige no-go.' },
+            intro: { ...guide.hero.intro, nl: 'Kies eerst de activiteit en controleer daarna gezondheid, ervaring, parkstatus, zeeconditie, operator en alternatief.' },
           },
           sections: [],
           faqs: [],

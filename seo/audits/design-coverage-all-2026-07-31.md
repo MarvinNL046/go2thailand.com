@@ -12,9 +12,9 @@ This report separates sitemap routes, rendered design signatures and exact imple
 - Premium rendered signature: **700/700**
 - Hybrid rendered signature: **0/700**
 - No redesign signature: **0/700**
-- Exact implemented ContentOps owners: **187**
-- Routes with contextual Amazon links: **107/700**
-- Rendered Amazon links: **241** across **17** registered product slugs
+- Exact implemented ContentOps owners: **188**
+- Routes with contextual Amazon links: **108/700**
+- Rendered Amazon links: **243** across **17** registered product slugs
 
 | Template owner | Routes | Premium | Hybrid | No signature | Exact SEO owners | Amazon routes | Amazon links |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -25,7 +25,7 @@ This report separates sitemap routes, rendered design signatures and exact imple
 | commercial-landing | 53 | 53 | 0 | 0 | 1 | 0 | 0 |
 | destination-guide | 35 | 35 | 0 | 0 | 35 | 0 | 0 |
 | manual-review | 32 | 32 | 0 | 0 | 5 | 4 | 11 |
-| travel-guide | 26 | 26 | 0 | 0 | 17 | 6 | 17 |
+| travel-guide | 26 | 26 | 0 | 0 | 18 | 7 | 19 |
 | itinerary | 15 | 15 | 0 | 0 | 15 | 0 | 0 |
 | phuket-location | 15 | 15 | 0 | 0 | 0 | 0 | 0 |
 | practical | 14 | 14 | 0 | 0 | 14 | 3 | 5 |
