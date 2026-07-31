@@ -31,6 +31,7 @@ import { chumphonAttractionsGuide } from './chumphon';
 import { chiangKhanAttractionsGuide } from './chiang-khan';
 import { nongKhaiAttractionsGuide } from './nong-khai';
 import { buengKanAttractionsGuide } from './bueng-kan';
+import { nakhonPhanomAttractionsGuide } from './nakhon-phanom';
 
 const guides: Record<string, AttractionGuideData> = {
   ayutthaya: ayutthayaAttractionsGuide,
@@ -65,10 +66,11 @@ const guides: Record<string, AttractionGuideData> = {
   'chiang-khan': chiangKhanAttractionsGuide,
   'nong-khai': nongKhaiAttractionsGuide,
   'bueng-kan': buengKanAttractionsGuide,
+  'nakhon-phanom': nakhonPhanomAttractionsGuide,
 };
 
 export function getNlAttractionsGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { ayutthayaAttractionsGuide, bangkokAttractionsGuide, buengKanAttractionsGuide, chanthaburiAttractionsGuide, chiangKhanAttractionsGuide, chiangMaiAttractionsGuide, chiangRaiAttractionsGuide, chumphonAttractionsGuide, hatYaiAttractionsGuide, huaHinAttractionsGuide, khaoSokAttractionsGuide, kanchanaburiAttractionsGuide, khonKaenAttractionsGuide, kohSamuiAttractionsGuide, kohTaoAttractionsGuide, lampangAttractionsGuide, lopburiAttractionsGuide, maeHongSonAttractionsGuide, nakhonRatchasimaAttractionsGuide, nakhonSiThammaratAttractionsGuide, nongKhaiAttractionsGuide, paiAttractionsGuide, pattayaAttractionsGuide, phitsanulokAttractionsGuide, phuketAttractionsGuide, rayongAttractionsGuide, sukhothaiAttractionsGuide, suratThaniAttractionsGuide, trangAttractionsGuide, tratAttractionsGuide, ubonRatchathaniAttractionsGuide, udonThaniAttractionsGuide };
+export { ayutthayaAttractionsGuide, bangkokAttractionsGuide, buengKanAttractionsGuide, chanthaburiAttractionsGuide, chiangKhanAttractionsGuide, chiangMaiAttractionsGuide, chiangRaiAttractionsGuide, chumphonAttractionsGuide, hatYaiAttractionsGuide, huaHinAttractionsGuide, khaoSokAttractionsGuide, kanchanaburiAttractionsGuide, khonKaenAttractionsGuide, kohSamuiAttractionsGuide, kohTaoAttractionsGuide, lampangAttractionsGuide, lopburiAttractionsGuide, maeHongSonAttractionsGuide, nakhonPhanomAttractionsGuide, nakhonRatchasimaAttractionsGuide, nakhonSiThammaratAttractionsGuide, nongKhaiAttractionsGuide, paiAttractionsGuide, pattayaAttractionsGuide, phitsanulokAttractionsGuide, phuketAttractionsGuide, rayongAttractionsGuide, sukhothaiAttractionsGuide, suratThaniAttractionsGuide, trangAttractionsGuide, tratAttractionsGuide, ubonRatchathaniAttractionsGuide, udonThaniAttractionsGuide };
