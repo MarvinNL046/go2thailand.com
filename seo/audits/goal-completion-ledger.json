@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T14:50:11.273Z",
+  "generatedAt": "2026-07-31T15:03:45.521Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 265,
+      "exactOwners": 278,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 384,
+      "provisionalInventoryDecisions": 371,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -570,30 +570,31 @@
       "closed": true
     },
     "nl:commercial-landing": {
-      "definition": "The Dutch commercial family rebuild is active. Activities, all four Phuket car-rental owners, six yacht/catamaran owners, the Bangkok and Chiang Mai flight hubs, and all fifteen Phuket flight routes have exact researched premium owners; remaining commercial templates still require independent acceptance.",
+      "definition": "The Dutch commercial family rebuild is active. Activities, car rental, yacht/catamaran, all thirteen Phuket-tour owners, flight hubs and all fifteen Phuket flight routes have exact researched premium owners; only the romance/villa commercial cluster remains.",
       "expected": 53,
-      "complete": 28,
-      "exactOwners": 28,
-      "remainingCount": 25,
+      "complete": 41,
+      "exactOwners": 41,
+      "remainingCount": 12,
       "remaining": [
         "/nl/phuket-wedding-venues/",
         "/nl/phuket-honeymoon/",
         "/nl/phuket-luxury-villas/",
         "/nl/private-pool-villa-phuket/",
-        "/nl/phuket-tours/",
         "/nl/phuket-wedding-venues/beach/",
         "/nl/phuket-wedding-venues/resort-packages/",
         "/nl/phuket-wedding-venues/villa/",
         "/nl/phuket-honeymoon/private-pool-villas/",
         "/nl/phuket-honeymoon/all-inclusive/",
         "/nl/phuket-luxury-villas/private-pool/",
-        "/nl/phuket-luxury-villas/oceanfront/"
+        "/nl/phuket-luxury-villas/oceanfront/",
+        "/nl/phuket-luxury-villas/family/"
       ],
-      "remainingTruncated": true,
+      "remainingTruncated": false,
       "evidence": [
         "seo/audits/nl-activities-hub-pilot-2026-07-24.md",
         "seo/audits/nl-phuket-car-rental-family-2026-07-31.md",
         "seo/audits/nl-phuket-yacht-family-2026-07-31.md",
+        "seo/audits/nl-phuket-tours-family-2026-07-31.md",
         "seo/audits/nl-bangkok-chiang-mai-flight-hubs-2026-07-31.md",
         "seo/audits/nl-flights-to-phuket-owner-2026-07-31.md",
         "seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md",
@@ -1641,12 +1642,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2719,12 +2720,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2733,12 +2734,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2747,12 +2748,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2761,12 +2762,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2775,12 +2776,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2789,12 +2790,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2803,12 +2804,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2817,12 +2818,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2831,12 +2832,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2845,12 +2846,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2859,12 +2860,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -2873,12 +2874,12 @@
       "templateOwner": "commercial-landing",
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

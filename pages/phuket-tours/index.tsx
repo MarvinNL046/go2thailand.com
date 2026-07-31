@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import PhuketTourGuideNl from '../../components/tours/PhuketTourGuideNl';
 
 interface PartnerEntry { partnerUrl: string; label?: string }
 interface Partners {
@@ -37,6 +38,10 @@ export default function PhuketToursPillarPage({ partners, lastUpdated }: Props) 
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <PhuketTourGuideNl owner="hub" primaryUrl={partners.klook_pillar.partnerUrl} secondaryUrl={partners.gyg_pillar.partnerUrl} tertiaryUrl={partners.viator_pillar.partnerUrl} />;
+  }
   const placement = (p: string) => `${subId}-pseo-phuket-tours-pillar-${p}`;
 
   const breadcrumbs = [

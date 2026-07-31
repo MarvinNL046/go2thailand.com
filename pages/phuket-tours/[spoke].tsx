@@ -8,6 +8,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
 import phiPhiContentData from '../../data/pseo/tours/phi-phi-content.json';
+import PhuketTourGuideNl, { PhuketTourOwner } from '../../components/tours/PhuketTourGuideNl';
 
 interface PartnerEntry { partnerUrl: string; label?: string }
 interface Partners { [key: string]: PartnerEntry }
@@ -74,6 +75,11 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <PhuketTourGuideNl owner={spoke as PhuketTourOwner} primaryUrl={primaryUrl} secondaryUrl={secondaryUrl} tertiaryUrl={tertiaryUrl} />;
+  }
+
   const place = (placement: string) => `${subId}-pseo-phuket-tours-${spoke}-${placement}`;
 
   const breadcrumbs = [
