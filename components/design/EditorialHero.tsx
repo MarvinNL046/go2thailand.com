@@ -42,7 +42,7 @@ interface EditorialHeroProps {
   contentTone?: 'ink' | 'light';
 }
 
-const defaultGradient = 'bg-[linear-gradient(180deg,rgba(252,250,246,0.08)_0%,rgba(252,250,246,0.38)_42%,rgba(252,250,246,0.98)_100%)] lg:bg-[linear-gradient(90deg,rgba(252,250,246,0.98)_0%,rgba(252,250,246,0.91)_35%,rgba(252,250,246,0.28)_63%,rgba(18,63,54,0.08)_100%)]';
+const defaultGradient = 'bg-[linear-gradient(180deg,rgba(252,250,246,0.9)_0%,rgba(252,250,246,0.84)_48%,rgba(252,250,246,0.99)_100%)] lg:bg-[linear-gradient(90deg,rgba(252,250,246,0.98)_0%,rgba(252,250,246,0.91)_35%,rgba(252,250,246,0.28)_63%,rgba(18,63,54,0.08)_100%)]';
 
 export function EditorialHero({
   image,

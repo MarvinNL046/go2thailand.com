@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:04:39.487Z",
+  "generatedAt": "2026-07-31T19:30:40.089Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 667,
       "hybrid": 0,
       "noSignature": 33,
-      "exactOwners": 333,
+      "exactOwners": 335,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 105,
       "amazonLinks": 230,
-      "provisionalInventoryDecisions": 316,
+      "provisionalInventoryDecisions": 314,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -778,11 +778,11 @@
       "closed": true
     },
     "nl:hotel-guide": {
-      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and forty independently researched destination hotel owners are premium and accepted; the remaining queue consists of two destination guides and thirty individual Phuket hotel profiles.",
+      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and forty-two independently researched destination hotel owners are premium and accepted; the remaining queue consists of thirty individual Phuket hotel profiles.",
       "expected": 82,
-      "complete": 50,
-      "exactOwners": 50,
-      "remainingCount": 32,
+      "complete": 52,
+      "exactOwners": 52,
+      "remainingCount": 30,
       "remaining": [
         "/nl/phuket/patong/hotels/grand-mercure-phuket-patong/",
         "/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/",
@@ -810,7 +810,8 @@
         "seo/audits/nl-city-hotel-guides-batch-6-2026-07-31.md",
         "seo/audits/nl-city-hotel-guides-batch-7-2026-07-31.md",
         "seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md",
-        "seo/audits/nl-hotel-overview-family-2026-07-26.md"
+        "seo/audits/nl-hotel-overview-family-2026-07-26.md",
+        "seo/audits/nl-city-hotel-guides-batch-9-2026-07-31.md"
       ],
       "closed": false
     },
@@ -7104,12 +7105,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7118,12 +7119,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
