@@ -444,7 +444,7 @@ export default function ThailandVisaGuide() {
           guides={[
             { title: 'TDAC invulgids', description: 'Veld voor veld, inclusief fouten herstellen en reizen met kinderen.', href: '/visa/digital-arrival-card/', image: '/images/redesign/thailand-entry-documents.webp', imageAlt: 'Documentenset voor de Thailand Digital Arrival Card' },
             { title: 'Veilig reizen', description: 'Actueel reisadvies, vervoer, scams en noodnummers in één beslisgids.', href: '/is-thailand-safe/', image: '/images/redesign/thailand-safety-hero.webp', imageAlt: 'Reizigers controleren hun route in Bangkok' },
-            { title: 'Thailand-route kiezen', description: 'Stem je verblijfsduur af op een haalbare route en beperkt aantal transfers.', href: '/thailand-itinerary/', image: '/images/redesign/thailand-route-hero.webp', imageAlt: 'Reisroute door Thailand' },
+            { title: 'Thailand-route kiezen', description: 'Stem je verblijfsduur af op een haalbare route en beperkt aantal transfers.', href: '/itineraries/', image: '/images/redesign/thailand-route-hero.webp', imageAlt: 'Reisroute door Thailand' },
           ]}
         />
 

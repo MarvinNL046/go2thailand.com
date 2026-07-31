@@ -526,7 +526,11 @@ for (const proof of ['durationRoutes', 'ThailandMapGraphic', 'FaqSplitSection', 
   if (!thailandRouteTemplate.includes(proof)) failures.push(`Thailand route template does not define or use ${proof}`);
 }
 const thailandItineraryRoute = read('pages/thailand-itinerary.tsx');
-if (!thailandItineraryRoute.includes('ThailandRouteGuide')) failures.push('The Thailand itinerary owner does not wire the NL route template');
+for (const proof of ["locale === 'nl'", "destination: '/nl/itineraries/'", 'permanent: true']) {
+  if (!thailandItineraryRoute.includes(proof)) failures.push(`The legacy Thailand itinerary route lacks NL consolidation proof: ${proof}`);
+}
+const itineraryNextConfig = read('next.config.js');
+if (!itineraryNextConfig.includes("source: '/nl/itinerary/'") || !itineraryNextConfig.includes("destination: '/nl/itineraries/'")) failures.push('The oldest NL itinerary alias does not redirect directly to the premium itinerary directory');
 
 const thailandBudgetTemplate = read('components/budget/ThailandBudgetGuide.tsx');
 for (const asset of ['thailand-budget-hero.webp', 'thailand-budget-leaks.webp', 'thailand-budget-regions.webp']) {
@@ -1330,6 +1334,14 @@ for (const proof of ['getNlItineraryGuide', '<NlItineraryGuideTemplate guide={nl
 for (const asset of ['thailand-route-hero.webp', 'bangkok-chiang-mai-sleeper-train-hero-v2.webp', 'bangkok-koh-samui-route-hero-v2.webp', 'thailand-route-coast-fork.webp']) {
   read(`public/images/redesign/${asset}`);
 }
+
+const nlThingsToDoGuide = read('components/editorial/ThailandThingsToDoGuideNl.tsx');
+const thingsToDoRoute = read('pages/things-to-do-in-thailand.tsx');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="things-to-do-thailand-nl"', 'noopener noreferrer nofollow sponsored', 'FAQPage', 'ItemList']) {
+  if (!nlThingsToDoGuide.includes(proof)) failures.push(`NL things-to-do owner lacks proof: ${proof}`);
+}
+if (!thingsToDoRoute.includes('<ThailandThingsToDoGuideNl />')) failures.push('Things-to-do route does not wire the NL premium owner');
+read('public/images/redesign/thailand-excursions-hero.webp');
 
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);

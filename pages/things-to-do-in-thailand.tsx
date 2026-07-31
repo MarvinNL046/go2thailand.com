@@ -6,11 +6,14 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/things-to-do-in-thailand';
+import ThailandThingsToDoGuideNl from '../components/editorial/ThailandThingsToDoGuideNl';
 
 export default function ThingsToDoPage() {
   const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) return <ThailandThingsToDoGuideNl />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

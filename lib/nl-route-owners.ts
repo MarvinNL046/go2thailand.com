@@ -49,6 +49,7 @@ export function normalizeNlInternalHref(href: string): string {
     '/travel-guides/thailand-weather/': '/weather/',
     '/travel-guides/vaccinations-travel-health-thailand/': '/practical-info/health-vaccinations/',
     '/travel-insurance-thailand/': '/travel-insurance/',
+    '/thailand-itinerary/': '/itineraries/',
     '/thailand-index/best-time/': '/weather/',
     '/thailand-index/safety/': '/is-thailand-safe/',
     '/digital-nomad/': '/thailand-index/digital-nomad/',

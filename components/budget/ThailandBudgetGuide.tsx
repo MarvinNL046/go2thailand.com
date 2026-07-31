@@ -233,7 +233,7 @@ export default function ThailandBudgetGuide() {
         <FaqSplitSection id="vragen" eyebrow="Echte Nederlandse zoekvragen" title="Veelgestelde vragen over kosten in Thailand" description="De vragen zijn ontdubbeld uit vijf actuele DataForSEO-SERP’s. De antwoorden gebruiken bandbreedtes en beslisregels; bedragen blijven planningshulp, geen prijsbelofte." items={faqs} />
 
         <RelatedGuidesSection eyebrow="Van budget naar reis" title="Plan de rest in de juiste volgorde" guides={[
-          { title: 'Thailand reisroute', description: 'Minder verhuisdagen betekent vaak ook minder verborgen kosten.', href: '/thailand-itinerary/', image: '/images/redesign/thailand-route-hero.webp', imageAlt: 'Route door Thailand van stad naar kust' },
+          { title: 'Thailand reisroute', description: 'Minder verhuisdagen betekent vaak ook minder verborgen kosten.', href: '/itineraries/', image: '/images/redesign/thailand-route-hero.webp', imageAlt: 'Route door Thailand van stad naar kust' },
           { title: 'Vervoer in Thailand', description: 'Vergelijk trein, bus, boot en vlucht voor elk lang traject.', href: '/transport/', image: '/images/redesign/transport-thailand-hero.webp', imageAlt: 'Vervoer door Thailand' },
           { title: 'Paklijst Thailand', description: 'Neem mee wat echt nodig is en voorkom nood- of dubbele aankopen.', href: '/travel-gear/', image: '/images/redesign/travel-gear-hero.webp', imageAlt: 'Compacte bagage voor Thailand' },
         ]} />

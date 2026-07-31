@@ -132,7 +132,7 @@ export default function BestPlacesPage({ cities }: PageProps) {
                 <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Reisgids' : 'Travel Guide'}</div>
                 <div className="text-xs text-gray-600">{isNl ? 'Alles wat je nodig hebt' : 'Everything you need'}</div>
               </Link>
-              <Link href="/thailand-itinerary/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+              <Link href={isNl ? '/itineraries/' : '/thailand-itinerary/'} className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
                 <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Routes' : 'Itineraries'}</div>
                 <div className="text-xs text-gray-600">{isNl ? 'Kant-en-klare routes' : 'Ready-made routes'}</div>
               </Link>
