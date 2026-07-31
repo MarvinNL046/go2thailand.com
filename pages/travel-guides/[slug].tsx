@@ -21,6 +21,7 @@ import ThailandWithKidsGuideNl from '../../components/editorial/ThailandWithKids
 import SoloFemaleThailandGuideNl from '../../components/editorial/SoloFemaleThailandGuideNl';
 import ThailandAnimalRiskGuideNl from '../../components/editorial/ThailandAnimalRiskGuideNl';
 import ThailandNationalParksGuideNl from '../../components/editorial/ThailandNationalParksGuideNl';
+import ThailandHikingTrekkingGuideNl from '../../components/editorial/ThailandHikingTrekkingGuideNl';
 
 // --- Type definitions ---
 
@@ -376,6 +377,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <ThailandNationalParksGuideNl />;
   }
 
+  if (lang === 'nl' && guide.slug === 'hiking-trekking-thailand') {
+    return <ThailandHikingTrekkingGuideNl />;
+  }
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: lang === 'nl' ? 'Reisgidsen' : 'Travel Guides', href: '/travel-guides/' },
@@ -716,6 +721,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Het beste park past bij je route en de actuele dagcondities.' },
             intro: { ...guide.hero.intro, nl: 'Vergelijk parkprofielen en controleer status, zone, weer, toegang en ranger voordat je vertrekt.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'hiking-trekking-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Hiken en trekking in Thailand' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Hiken en trekking Thailand: routes, gids en paklijst' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Plan hiken in Thailand met een passend trailprofiel, actuele status, terrein- en weercheck, omkeertijd, gidskeuze en trekkingpaklijst.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Een goede trekking begint met het omkeerpunt.' },
+            intro: { ...guide.hero.intro, nl: 'Kies een route die bij je conditie, terrein en dag past en controleer status, weer, begeleiding en uitrusting.' },
           },
           sections: [],
           faqs: [],
