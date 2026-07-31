@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T12:36:17.433Z",
+  "generatedAt": "2026-07-31T12:42:22.609Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 229,
+      "exactOwners": 230,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 421,
+      "provisionalInventoryDecisions": 420,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -881,13 +881,12 @@
       "closed": false
     },
     "nl:phuket-location": {
-      "definition": "The Dutch Phuket-location rebuild is active. The three Old Town owners, Nai Harn, Rawai and Karon are independently researched and premium; nine beach-area and specialist owners remain before family closure.",
+      "definition": "The Dutch Phuket-location rebuild is active. The three Old Town owners plus Nai Harn, Rawai, Karon and Patong are independently researched and premium; eight beach-area and specialist owners remain before family closure.",
       "expected": 15,
-      "complete": 6,
-      "exactOwners": 6,
-      "remainingCount": 9,
+      "complete": 7,
+      "exactOwners": 7,
+      "remainingCount": 8,
       "remaining": [
-        "/nl/phuket/patong/",
         "/nl/phuket/patong/nightlife/",
         "/nl/phuket/patong/restaurants/",
         "/nl/phuket/kata/",
@@ -903,7 +902,8 @@
         "seo/audits/nl-phuket-old-town-spokes-2026-07-31.md",
         "seo/audits/nl-phuket-nai-harn-owner-2026-07-31.md",
         "seo/audits/nl-phuket-rawai-owner-2026-07-31.md",
-        "seo/audits/nl-phuket-karon-owner-2026-07-31.md"
+        "seo/audits/nl-phuket-karon-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-patong-owner-2026-07-31.md"
       ],
       "closed": false
     },
@@ -1760,12 +1760,12 @@
       "templateOwner": "phuket-location",
       "recommendedAction": "template-audit",
       "familyKey": "nl:phuket-location",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
