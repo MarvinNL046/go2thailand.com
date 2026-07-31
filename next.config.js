@@ -69,6 +69,30 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/thailand-index/safety/",
+        destination: "/is-thailand-safe/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/thailand-index/safety/",
+        destination: "/nl/is-thailand-safe/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/thailand-index/transport/",
+        destination: "/nl/transport/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/thailand-itinerary/",
+        destination: "/nl/itineraries/",
+        permanent: true,
+        locale: false,
+      },
       // No Dutch translation exists for this English comparison owner. The
       // locale fallback previously exposed a duplicate /nl/ URL to search.
       {

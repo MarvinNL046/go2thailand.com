@@ -228,15 +228,7 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async ({ locale }) => {
-  if (locale === 'nl') {
-    return {
-      redirect: {
-        destination: '/nl/itineraries/',
-        permanent: true,
-      },
-    };
-  }
+export const getStaticProps: GetStaticProps = async () => {
 
   let itineraries: ItineraryItem[] = [];
   try {
