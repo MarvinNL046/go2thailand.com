@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-craft-beer-scene-2026-bars-festivals-guide",
+  "route": "/nl/blog/bangkok-craft-beer-scene-2026-bars-festivals-guide/",
+  "cluster": "events",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Craft beer Bangkok: actuele taprooms en festivals",
+    "description": "People Festival 2026 is voorbij, maar de craft-beerscene van Bangkok verandert door. Zo vind je actuele taprooms, Thaise brouwsels en nieuwe events.",
+    "primaryKeyword": "craft beer Bangkok",
+    "secondaryKeywords": ["Bangkok taprooms", "People Festival 2026", "Thai craft beer"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/bangkok-craft-beer-scene-2026-bars-festivals-guide/"
+  },
+  "hero": {
+    "eyebrow": "Terugkerende scene · event 2026 verstreken",
+    "title": "Proef actueel.",
+    "accent": "Niet uit een oude ranglijst.",
+    "description": "People Festival 2026 is voorbij. Gebruik een duurzame methode om actuele taprooms, Thaise makers en nieuwe evenementen te controleren.",
+    "image": "/images/redesign/editorial/bangkok-craft-beer-scene-2026-bars-festivals-guide-hero.webp",
+    "imageAlt": "Proefglazen craft beer op een sfeervolle tafel in Bangkok",
+    "primaryCta": { "label": "Kies je type plek", "href": "#craft-beer-formats" },
+    "secondaryCta": { "label": "Bangkok food", "href": "/nl/city/bangkok/food/" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "recurring",
+    "startsOn": "2026-03-06",
+    "endsOn": "2026-03-08",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "People Festival 2026 is verstreken. De Bangkokse craft-beerscene blijft veranderlijk: controleer taplijst, producent, eventstatus en terugreis op de bezoekdag.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "people-festival-status",
+      "tone": "warning",
+      "title": "People Festival 2026 liep van 6–8 maart",
+      "description": "De ChangChui-editie is voorbij. Een volgende datum of locatie bestaat pas nadat Beer People die officieel publiceert."
+    },
+    {
+      "kind": "card-grid",
+      "id": "craft-beer-formats",
+      "eyebrow": "Kies je avond",
+      "title": "Drie vormen, drie verwachtingen",
+      "cards": [
+        { "title": "Taproom", "description": "Verdiep je in één maker en vraag wat werkelijk door dezelfde producent is gemaakt.", "label": "Herkomst" },
+        { "title": "Beer bar", "description": "Vergelijk wisselende kranen op versheid, informatie en kleine proefglazen.", "label": "Variatie" },
+        { "title": "Festival", "description": "Controleer organisator, venue, toegang en veilige terugreis voor de actuele editie.", "label": "Tijdelijk" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "craft-beer-checklist",
+      "title": "Een actuele locatie controleren",
+      "items": ["Taplijst en opening op dezelfde dag", "Producent en productielocatie", "Glasformaat en alcoholpercentage", "Eten en alcoholvrije opties", "Veilige terugreis zonder zelf te rijden"]
+    },
+    {
+      "kind": "faq",
+      "id": "craft-beer-faq",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is People Festival 2026 nog te bezoeken?", "answer": "Nee. De editie van 6–8 maart bij ChangChui is verstreken." },
+        { "question": "Wat is de beste craft-beerbar in Bangkok?", "answer": "Er is geen duurzame universele winnaar. Kies op actuele taplijst, transparantie, verzorging, ligging en veilige terugreis." },
+        { "question": "Is elk Thai craft beer in Thailand gebrouwen?", "answer": "Niet noodzakelijk. Vraag de locatie naar producent en productielocatie als herkomst voor jou belangrijk is." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "craft-beer-sources",
+      "title": "Organisator en freshness",
+      "items": [
+        { "title": "People Festival 2026", "publisher": "Beer People", "url": "https://beerpeoplefest.com/", "checkedAt": "2026-08-01" },
+        { "title": "Beer People organiser background", "publisher": "Beer People", "url": "https://beerpeoplefest.com/about-us/", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "craft-beer-related",
+      "title": "Bouw een compacte Bangkok-avond",
+      "items": [
+        { "title": "Eten in Bangkok", "description": "Kies markt, wijk en maaltijdvorm vóór de drankstop.", "href": "/nl/city/bangkok/food/" },
+        { "title": "Bangkok nachtleven", "description": "Plan buurt, vervoer en terugreis breder dan één bar.", "href": "/nl/nightlife/bangkok/" },
+        { "title": "Bangkok overzicht", "description": "Houd de avond binnen één praktische corridor.", "href": "/nl/city/bangkok/" }
+      ]
+    }
+  ]
+}

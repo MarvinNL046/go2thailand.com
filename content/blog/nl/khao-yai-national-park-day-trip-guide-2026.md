@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Khao Yai", "nationaal park Thailand", "dagtrip Bangkok", "wildlife Thailand", "wandelen Thailand", "Pak Chong", "natuur Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/khao-yai-national-park-day-trip-guide-2026-hero.webp"
 description: "Plan een bezoek aan Khao Yai vanuit Bangkok: kies tussen een dagtrip en overnachting, regel vervoer in het park en bereid je voor op wildlife en wisselende omstandigheden."
 featured: false
 readingTime: 8

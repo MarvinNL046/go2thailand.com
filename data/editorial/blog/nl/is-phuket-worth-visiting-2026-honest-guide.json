@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "is-phuket-worth-visiting-2026-honest-guide",
+  "route": "/nl/blog/is-phuket-worth-visiting-2026-honest-guide/",
+  "cluster": "destination-guides",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Is Phuket de moeite waard? Eerlijke keuzehulp",
+    "description": "Is Phuket de moeite waard voor jouw reis? Vergelijk gemak, stranden, drukte, afstanden en alternatieven voordat je boekt.",
+    "primaryKeyword": "is phuket de moeite waard",
+    "secondaryKeywords": ["phuket voor en nadelen", "phuket of krabi", "phuket bezoeken"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/is-phuket-worth-visiting-2026-honest-guide/"
+  },
+  "hero": {
+    "eyebrow": "Eerlijke bestemmingskeuze",
+    "title": "Is Phuket de moeite waard?",
+    "accent": "Alleen als het bij je past",
+    "description": "Veel keuze en bereikbaarheid zijn sterke punten; rust, compactheid en lege stranden zijn geen vanzelfsprekendheid.",
+    "image": "/images/redesign/editorial/is-phuket-worth-visiting-2026-honest-guide-hero.webp",
+    "imageAlt": "Levendige kust van Phuket met strand, heuvels en bebouwing",
+    "primaryCta": { "label": "Bekijk de afweging", "href": "#afweging" },
+    "secondaryCta": { "label": "Phuket of Krabi", "href": "#alternatief" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "island", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Ja voor bereikbaarheid, brede keuze en een mix van strand en activiteiten. Nee wanneer je vooral een klein, stil en autoluw eiland zoekt.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "afweging",
+      "title": "Wat weegt voor jou het zwaarst?",
+      "options": [
+        { "title": "Kies Phuket", "description": "Als een luchthaven, veel hotels, restaurants en uiteenlopende kustplaatsen je reis makkelijker maken.", "label": "Gemak" },
+        { "title": "Kies gerichter", "description": "Als je één rustig strand en korte afstanden belangrijker vindt dan veel keuze.", "label": "Kleinschalig" },
+        { "title": "Blijf langer", "description": "Als je strand, stad en boottocht wilt combineren zonder elke dag te haasten.", "label": "Tempo" }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "alternatief",
+      "tone": "cream",
+      "title": "Phuket en Krabi lossen niet dezelfde reisvraag op",
+      "description": "Phuket biedt de meeste infrastructuur en kustkeuze. Krabi past beter wanneer Ao Nang, Railay en kalksteenlandschap je hoofddoel zijn.",
+      "cta": { "label": "Vergelijk Krabi", "href": "/nl/blog/krabi-travel-guide/" }
+    },
+    {
+      "kind": "checklist",
+      "id": "beslisvragen",
+      "title": "Beslis voordat je accommodatie vastlegt",
+      "items": [
+        "Wil je veel aanbod of juist een kleine schaal?",
+        "Welke kust past bij je strand- en avondwensen?",
+        "Hoeveel transfertijd accepteer je per dag?",
+        "Heb je een weersbuffer voor een belangrijke boottocht?",
+        "Past Krabi of een kleiner eiland beter bij je hoofddoel?"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over de keuze voor Phuket",
+      "items": [
+        { "question": "Is Phuket te toeristisch?", "answer": "Sommige zones zijn zeer toeristisch, vooral rond Patong. Andere kustdelen voelen rustiger, maar Phuket blijft een grote en populaire bestemming." },
+        { "question": "Is Phuket of Krabi beter?", "answer": "Phuket past bij infrastructuur en kustkeuze; Krabi bij Ao Nang, Railay en kalksteenlandschap. Kies op hoofddoel, niet op een algemene ranglijst." },
+        { "question": "Hoe lang moet je op Phuket blijven?", "answer": "Drie volle dagen is een praktisch minimum; vier of vijf dagen geven meer rust en flexibiliteit bij wisselende zeecondities." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bronnen voor de bestemmingsafweging",
+      "items": [
+        { "title": "Phuket destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350", "checkedAt": "2026-08-01", "note": "Officiële context over stranden, gebieden, cultuur en bereikbaarheid." },
+        { "title": "Phuket International Airport", "publisher": "Airports of Thailand", "url": "https://phuket.airportthai.co.th/?lang=en", "checkedAt": "2026-08-01", "note": "Primaire bron voor de bereikbaarheid via de luchthaven." }
+      ]
+    }
+  ]
+}

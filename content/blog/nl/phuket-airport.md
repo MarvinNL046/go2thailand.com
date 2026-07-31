@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "transport"
 tags: ["Phuket Airport", "HKT luchthaven", "transfer Phuket Airport", "Phuket Smart Bus", "aankomst Phuket", "Phuket vervoer", "TDAC Thailand"]
-image: "/images/blog/phuket-airport.webp"
+image: "/images/redesign/phuket-airport-arrival-hero.webp"
 description: "Land je op Phuket Airport? Volg de juiste aankomstprocedure en kies een taxi, transfer, bus, minivan of huurauto die past bij je bagage en verblijfplaats."
 featured: false
 readingTime: 9

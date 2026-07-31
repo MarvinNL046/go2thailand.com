@@ -1,66 +1,123 @@
 ---
-title: "Pattaya Music Festival 2026: Gratis strandconcerten elke weekend in maart"
+title: "Pattaya Music Festival 2026 is afgelopen: locaties"
 slug: "pattaya-music-festival-2026-free-beach-concerts-march"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Pattaya Music Festival 2026", "evenementen Pattaya", "gratis concerten Thailand", "Koh Larn", "Jomtien Beach", "Thais muziekfestival", "strandconcerten Pattaya", "festivals Thailand", "reistips Pattaya"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Het Pattaya Music Festival 2026 brengt vier weekenden gratis strandconcerten naar Pattaya Beach, Jomtien, Koh Larn en Naklua. Plan je reis, ontdek het schema en geniet van de beste live-muziek in Thailand – ideaal voor een vakantie in maart."
+tags: ["Pattaya Music Festival 2026", "Pattaya evenementen", "strandconcerten Pattaya", "Jomtien", "Koh Larn", "Naklua"]
+image: "/images/redesign/editorial/pattaya-music-festival-2026-free-beach-concerts-march-hero.webp"
+description: "Pattaya Music Festival 2026 is afgelopen. Bekijk de vier bevestigde maartweekenden en locaties, plus een betrouwbaar kader voor een volgende editie."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 6
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Nation Thailand — Sunset Beats: Pattaya Music Festival 2026"
-    url: "https://www.nationthailand.com/life/entertainment/40063408"
-  - name: "The Pattaya News — Pattaya Music Festival 2026 Arrives"
-    url: "https://thepattayanews.com/2026/02/21/pattaya-music-festival-2026-arrives-every-weekend-in-march/"
-  - name: "Thairath — Free Entry to Pattaya Music Festival 2026"
-    url: "https://en.thairath.co.th/lifestyle/life/2916118"
-  - name: "Pattaya Mail — Music Festival Takes Over March"
-    url: "https://www.pattayamail.com/latestnews/news/pattaya-turns-up-the-volume-as-music-festival-2026-takes-over-march-536637"
-  - name: "The Pattaya News — Week 3 on Koh Larn"
-    url: "https://thepattayanews.com/2026/03/20/pattaya-music-festival-2026-kicks-off-week-3-on-koh-larn-with-star-studded-performances-at-samae-beach/"
+  - name: "Chonburi Provincial Administrative Organization — Pattaya Music Festival 2026"
+    url: "https://chon.go.th/public/list/data/detail/id/3460/menu/1559"
+  - name: "Tourism Authority of Thailand Japan — Pattaya Music Festival"
+    url: "https://www.thailandtravel.or.jp/pattaya-international-music-festival/"
 ---
 
-## Een maand muziek op het strand
+**Pattaya Music Festival 2026 is afgelopen.** Het programma liep gedurende vier weekenden in maart en verplaatste zich tussen Pattaya Beach, Jomtien Beach, Samae Beach op Koh Larn en Lan Pho Naklua Public Park. Deze pagina bewaart de geverifieerde 2026-opzet, maar doet geen alsof de concerten nog te bezoeken zijn.
 
-Elke maart verandert de kuststad [Pattaya](/city/pattaya/) zijn stranden in openlucht-concertpodia. Het Pattaya Music Festival 2026 loopt over vier opeenvolgende weekenden door de hele maand, met optredens op verschillende locaties langs de kust. De entree is helemaal gratis, wat het een van de beste deals maakt op de festivalagenda van Thailand.
+Wil je een volgende editie meemaken? Wacht op een nieuwe aankondiging van Pattaya City of de provincie Chonburi. Data, podia, artiesten en verkeersmaatregelen uit 2026 mogen niet automatisch naar een volgend jaar worden gekopieerd.
 
-## Volledig schema
+## De bevestigde kalender van 2026
 
-Het festival verhuist elke weekend naar een nieuwe locatie:
+De [provincie Chonburi](https://chon.go.th/public/list/data/detail/id/3460/menu/1559) publiceerde vier vrijdag-zaterdagblokken:
 
-- **6-7 maart** — [Central Pattaya Beach](/city/pattaya/attractions/pattaya-beach/), het traditionele hart van de nachtlevenbuurt van de stad
-- **13-14 maart** — [Jomtien Beach](/city/pattaya/attractions/jomtien-beach/), het rustiger, meer familiegerichte gedeelte ten zuiden van de stad
-- **20-21 maart** — Samae Beach op [Koh Larn](/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/), een korte ferryrit offshore
-- **27-28 maart** — Lan Pho Naklua Park, aan het noordelijke uiteinde van Pattaya
+| Data in 2026 | Locatie |
+|---|---|
+| 6–7 maart | Pattaya Beach |
+| 13–14 maart | Jomtien Beach |
+| 20–21 maart | Samae Beach, Koh Larn |
+| 27–28 maart | Lan Pho Naklua Public Park |
 
-De poorten gaan elke avond om 17:00 uur open. De optredens duren tot in de late uurtjes, met de Golf van Thailand als achtergrond.
+De kalender laat precies zien waarom “Pattaya Music Festival” geen vaste plek betekende. Drie weekenden lagen op het vasteland; het derde weekend vond op een eiland plaats. Verblijf, vervoer en terugreis moesten dus per weekend worden gepland.
 
-## Wie treden er op?
+## Vier locaties, vier verschillende reisbeslissingen
 
-De line-up bevat een mix van populaire Thaise pop, rock en hiphop-artiesten. Hoofdacts in 2026 zijn onder meer Da Endorphine, een van Thailands bekendste vocalisten, en de T-Pop meidengroep 4EVE. Elk weekend brengt een ander gezelschap performers, dus terugkerende bezoekers krijgen telkens een frisse show.
+### Pattaya Beach
 
-Hoewel de acts voornamelijk in het Thais zijn, is de energie universeel. De strandsetting, de sfeer van het publiek en de enorme variatie aan genres maken het leuk, zelfs als je niet elk liedje begrijpt.
+Een podium aan Pattaya Beach past bij reizigers die al centraal verblijven en te voet of met lokaal vervoer kunnen aankomen. De praktische vraag is niet alleen hoe dicht je hotel bij het strand ligt, maar ook aan welke kant van tijdelijke afsluitingen de ingang bereikbaar blijft.
 
-## Hoogtepunt week 3: Koh Larn
+### Jomtien Beach
 
-Het derde weekend nam het festival mee naar Samae Beach op [Koh Larn](/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/). Enorme menigtes vulden het witte zandstrand voor sterrenoptredens onder de sterren. Om er te komen neem je een ferry van 30 minuten vanaf Bali Hai Pier in Zuid-Pattaya – ferries varen regelmatig en kosten 30 THB een enkele reis. Blijf je laat, regel dan op voorhand je terugreis, want de laatste reguliere ferry vertrekt voor het muziek eindigt. Snelserviceboten zijn 's avonds beschikbaar tegen een hoger tarief.
+Jomtien heeft een ander verblijfsritme dan centraal Pattaya. Kies deze zone niet uitsluitend voor één podiumavond. Bekijk of strand, dagelijkse restaurants en vervoer voor de rest van je verblijf eveneens passen. De [Pattaya-bestemmingsgids](/nl/city/pattaya/) helpt bij die bredere keuze.
 
-## Praktische tips
+### Samae Beach op Koh Larn
 
-**Verkeer:** Er zijn geen wegafsluitingen tijdens het festival. De stad regelt gratis shuttlebussen tussen de locaties en belangrijke verkeersknooppunten. Songthaews (gedeelde pick-uptrucks) rijden gewoon langs Beach Road en Second Road voor 10 THB per rit.
+Een eilandlocatie vraagt een afzonderlijk plan voor boot, eilandvervoer en terugkeer. Een concerttijd zegt niets over de laatste bruikbare verbinding. Bevestig daarom altijd de officiële evenementlogistiek en actuele vervoersinformatie; ga niet uit van een oud vaarschema of een informele socialmediapost.
 
-**Eten en drinken:** Straatverkopers en pop-up bars vullen de festivalgebieden. Reken op standaard Pattaya-prijzen – 50 tot 100 THB voor een bord eten, 60 tot 120 THB voor een biertje. Voor meer eetopties, bekijk de [Pattaya food scene](/city/pattaya/food/).
+Wie op Koh Larn overnacht, moet bovendien controleren hoe de accommodatie vanaf de aankomstpier bereikbaar is. Wie op het vasteland slaapt, heeft een veilige terugreis met voldoende marge nodig.
 
-**Accommodatie:** [Hotels in Pattaya](/city/pattaya/hotels/) en Jomtien raken in festivalweekenden vol. Boek minstens een week van tevoren als je binnen loopafstand van de podia wilt zitten. Bekijk onze [Pattaya hotel aanbevelingen](/best-hotels/pattaya/) voor een geselecteerde lijst.
+### Lan Pho Naklua Public Park
 
-**Weer:** Maart is droogseizoen in Pattaya, dus regen is onwaarschijnlijk – perfect voor Nederlandse reizigers die de beste reistijd zoeken. Temperaturen schommelen rond de 32 tot 34 graden Celsius. Check de [Pattaya weer gids](/city/pattaya/weather/) voor een volledige maand-tot-maand breakdown, en neem zonnebrand mee als je vroeg komt en water om gehydrateerd te blijven. Veiligheid is prima, maar let op je spullen in de drukte.
+Naklua ligt noordelijker dan de centrale strandzone. Deze locatie kan goed combineren met een verblijf in noord-Pattaya of Naklua, maar controleer de concrete podiumingang en tijdelijke verkeersroute zodra een nieuwe editie wordt aangekondigd.
 
-## Is het de moeite waard?
+## Was het festival gratis?
 
-Als je al in Bangkok bent, is Pattaya maar 90 minuten rijden of [busrit afstand](/transport/bangkok-to-pattaya/). Een gratis, meerdaags muziekfestival op het strand is moeilijk te verslaan – zeker als je het combineert met Pattaya's zeevruchtenrestaurants, dakterrasbars en [eiland dagtrips](/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/). Voor nog meer te doen in de stad, zie onze [Pattaya bezienswaardigheden gids](/city/pattaya/attractions/) en [top 10 dingen om te doen in Pattaya](/things-to-do/pattaya/).
+De officiële 2026-communicatie presenteerde het als vrij toegankelijk muziekfestival. Dat is een historisch feit over deze editie, geen belofte voor een toekomstig programma. Ook bij vrije toegang kunnen zones vol raken, kunnen veiligheidscontroles gelden en kunnen bepaalde services afzonderlijke voorwaarden hebben.
 
-Vanuit Nederland vlieg je makkelijk naar Bangkok met KLM vanaf Schiphol en dan door naar Pattaya. In juni komen er ook twee grote LGBTQ+-evenementen naar de stad – lees onze gids over [Pattaya Pride en Circuit Festival Asia 2026](/blog/pattaya-pride-circuit-festival-asia-lgbtq-june-2026/) als je nog een trip plant. Later in het jaar host Pattaya ook [Tomorrowland's eerste Aziatische editie](/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/), wat 2026 een topjaar maakt voor live-events in de stad.
+Koop daarom nooit een zogenaamd toegangsbewijs voor een toekomstige editie voordat de organisator zelf heeft gepubliceerd hoe toegang werkt. Gebruik alleen een officieel verkoopkanaal als een nieuw programma betaalde onderdelen introduceert.
+
+## Zo controleer je een volgende editie
+
+Gebruik een eenvoudige bronvolgorde:
+
+1. **Pattaya City of provincie Chonburi:** data, locaties en verkeersmaatregelen.
+2. **De officiële evenementcommunicatie:** podiumschema, toegang, toegestane voorwerpen en wijzigingen.
+3. **De vervoerder:** actuele boot-, bus- of ritinformatie.
+4. **Je hotel:** bereikbaarheid, parkeren, late check-in en eventuele shuttle.
+
+Een artiestenposter is geen volledig reisplan. Controleer altijd locatie, datum en podium, zeker wanneer een festival over meerdere weekenden en gebieden is verdeeld.
+
+## Verblijf kiezen zonder het hele festival achterna te reizen
+
+Voor één concertweekend werkt een hotel in dezelfde zone meestal het rustigst. Wil je meerdere locaties combineren, accepteer dan dat Pattaya Beach, Jomtien, Naklua en Koh Larn geen compacte wandelroute vormen.
+
+Vergelijk actuele verblijfzones via onze [hotelgids voor Pattaya](/nl/best-hotels/pattaya/). Controleer bij de live aanbieder altijd dezelfde kamer, bezetting, belastingen, ontbijt en annulering. Een historisch festivaltarief is geen bruikbare prijsreferentie.
+
+## Veilig en prettig naar een strandconcert
+
+- Bewaar telefoon, paspoortkopie en betaalmiddel tegen regen, zand en zeewater beschermd.
+- Spreek een ontmoetingspunt af dat ook na afloop herkenbaar blijft.
+- Neem alleen mee wat volgens de actuele huisregels is toegestaan.
+- Houd drinkwater en een eenvoudige gehoorbescherming bij de hand.
+- Combineer alcohol niet met zwemmen, scooter rijden of een onzekere terugreis.
+- Controleer kenteken en chauffeur bij een app-rit.
+- Volg aanwijzingen van beveiliging en lokale autoriteiten bij drukte of weersverandering.
+
+Onze [veiligheidsgids voor Thailand](/nl/is-thailand-safe/) geeft een algemeen handelingskader. De organisator blijft verantwoordelijk voor de actuele terreinregels.
+
+## Maak van Pattaya meer dan één podiumavond
+
+Een eventroute wordt sterker wanneer de bestemming ook zonder concert past. Plan bijvoorbeeld een rustige ochtend, strandmoment of culturele stop en houd de concertdag verder licht. Zo voorkom je dat verkeer of een programmawijziging je hele verblijf onderuit haalt.
+
+Voor eten, wijken en activiteiten buiten het festival gebruik je de [Pattaya-gids](/nl/city/pattaya/). Voor een volgende eventeditie voeg je pas een podiumavond toe nadat de officiële locatie is bevestigd.
+
+## Veelgestelde vragen
+
+### Is Pattaya Music Festival 2026 nog bezig?
+
+Nee. De vier programmaweekenden liepen van 6 tot en met 28 maart 2026 en zijn verstreken.
+
+### Waar vond de editie van 2026 plaats?
+
+Op Pattaya Beach, Jomtien Beach, Samae Beach op Koh Larn en in Lan Pho Naklua Public Park, telkens tijdens een afzonderlijk weekend.
+
+### Kun je de data gebruiken voor een volgende editie?
+
+Nee. Wacht op de nieuwe kalender van Pattaya City of de provincie Chonburi. Locaties en weekenden kunnen wijzigen.
+
+### Moet je op Koh Larn overnachten?
+
+Niet noodzakelijk, maar je moet wel de officiële eventlogistiek en actuele terugreis controleren. Kies een overnachting wanneer de beschikbare verbindingen of gewenste rust dat logischer maken.
+
+### Waar kun je het beste verblijven?
+
+Kies op basis van het bevestigde podium én de rest van je reis. Centraal Pattaya, Jomtien, Naklua en Koh Larn hebben verschillende vervoers- en verblijfsprofielen.
+
+## Status en bronnen
+
+Deze route is op 1 augustus 2026 bijgewerkt als verstreken eventarchief. De kalender en locaties komen uit de officiële provinciale publicatie en de TAT-vermelding; niet-officiële artiesten-, prijs- en vervoersclaims zijn verwijderd.

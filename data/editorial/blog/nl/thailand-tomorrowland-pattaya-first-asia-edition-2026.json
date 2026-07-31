@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tomorrowland-pattaya-first-asia-edition-2026",
+  "route": "/nl/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/",
+  "cluster": "events",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Tomorrowland Thailand 2026: uitverkocht en wat nu?",
+    "description": "Tomorrowland Thailand vindt 11–13 december 2026 plaats bij Pattaya en is officieel uitverkocht. Controleer toegang, verblijf, vervoer en scams.",
+    "primaryKeyword": "Tomorrowland Thailand 2026",
+    "secondaryKeywords": ["Tomorrowland Pattaya", "Wisdom Valley festival", "Tomorrowland Thailand uitverkocht"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/"
+  },
+  "hero": {
+    "eyebrow": "Gepland · officieel uitverkocht",
+    "title": "Geen ticketruis.",
+    "accent": "Wel een controleerbaar festivalplan.",
+    "description": "Tomorrowland Thailand komt in december naar Wisdom Valley. Gebruik alleen officiële toegang en plan verblijf, shuttle en terugreis als één keten.",
+    "image": "/images/redesign/editorial/thailand-tomorrowland-pattaya-first-asia-edition-2026-hero.webp",
+    "imageAlt": "Groot elektronisch muziekfestival met verlichte podia in een groene vallei",
+    "primaryCta": { "label": "Controleer je reisplan", "href": "#tomorrowland-access" },
+    "secondaryCta": { "label": "Hotels in Pattaya", "href": "/nl/best-hotels/pattaya/" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "scheduled",
+    "startsOn": "2026-12-11",
+    "endsOn": "2026-12-13",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Tomorrowland Thailand staat gepland voor 11–13 december 2026 in Wisdom Valley en is officieel uitverkocht. Koop alleen via een door Tomorrowland zelf aangewezen officieel kanaal.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "tomorrowland-status",
+      "tone": "warning",
+      "title": "Officieel uitverkocht",
+      "description": "Deze pagina biedt geen ticket-CTA. Gebruik alleen de officiële Tomorrowland-procedure als een exchange- of overdrachtsmogelijkheid wordt aangeboden."
+    },
+    {
+      "kind": "card-grid",
+      "id": "tomorrowland-access",
+      "eyebrow": "Eerst toegang, dan logistiek",
+      "title": "Drie controles die bij elkaar horen",
+      "cards": [
+        { "title": "Toegang", "description": "Controleer account, personalisatie, polsband en productvoorwaarden via Tomorrowland.", "label": "Officieel" },
+        { "title": "Verblijf", "description": "Beoordeel de exacte route vanaf hotel of pakketshuttle naar Wisdom Valley.", "label": "Geen strandcentrum" },
+        { "title": "Terugreis", "description": "Bevestig drop-off, ophaalpunt en alternatief zonder zelf te rijden na het festival.", "label": "Hele keten" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "tomorrowland-checklist",
+      "title": "Vlak voor vertrek opnieuw controleren",
+      "items": ["Officiële toegang en identiteitsregels", "Actuele line-up en openingstijden", "Bagage- en prohibited-itemsbeleid", "Shuttle of aangewezen drop-off", "Toegankelijkheid, medicijnen en noodinformatie"]
+    },
+    {
+      "kind": "faq",
+      "id": "tomorrowland-faq",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Wanneer is Tomorrowland Thailand 2026?", "answer": "Van 11 tot en met 13 december 2026 in Wisdom Valley, volgens Tomorrowland en TAT." },
+        { "question": "Zijn er nog gewone tickets?", "answer": "De officiële eventsite meldt dat de editie is uitverkocht. Gebruik uitsluitend officieel aangewezen procedures." },
+        { "question": "Ligt Wisdom Valley aan Pattaya Beach?", "answer": "Nee. De locatie ligt in Khao Mai Kaew, Bang Lamung. Plan de laatste kilometers afzonderlijk." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "tomorrowland-sources",
+      "title": "Organisator en host destination",
+      "items": [
+        { "title": "Tomorrowland Thailand official event page", "publisher": "Tomorrowland Thailand", "url": "https://thailand.tomorrowland.com/en/welcome/", "checkedAt": "2026-08-01" },
+        { "title": "Tomorrowland Thailand press room", "publisher": "Tomorrowland", "url": "https://tomorrowlandthailand.press.tomorrowland.com/", "checkedAt": "2026-08-01" },
+        { "title": "Tomorrowland Thailand Asian debut", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/02/tat-announces-tomorrowland-thailand-full-scale-asian-debut-in-december-2026/", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "tomorrowland-related",
+      "title": "Plan Pattaya rond het festival",
+      "items": [
+        { "title": "Hotels in Pattaya", "description": "Vergelijk actuele verblijfszones en voorwaarden.", "href": "/nl/best-hotels/pattaya/" },
+        { "title": "Pattaya overzicht", "description": "Maak van de stad meer dan een festivaltransfer.", "href": "/nl/city/pattaya/" },
+        { "title": "Thailand in december", "description": "Plan weer, drukte en reisritme rond de eventdagen.", "href": "/nl/thailand-in/december/" }
+      ]
+    }
+  ]
+}

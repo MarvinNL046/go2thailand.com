@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "phuket-travel-guide-2026",
+  "route": "/nl/blog/phuket-travel-guide-2026/",
+  "cluster": "destination-guides",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Phuket reisgids: stranden, wijken en route | Go2Thailand",
+    "description": "Plan Phuket op basis van kust, sfeer en reistempo. Vergelijk Patong, Kata, Karon, Kamala, Phuket Town en Rawai en bouw een haalbare route.",
+    "primaryKeyword": "phuket reisgids",
+    "secondaryKeywords": ["phuket vakantie", "phuket tips", "waar verblijven phuket"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/phuket-travel-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Eén eiland, verschillende ritmes",
+    "title": "Phuket reisgids",
+    "accent": "Kies eerst je kust",
+    "description": "Bespaar dagelijkse transfertijd door eerst je sfeer, strand en hoofdactiviteiten te kiezen — en pas daarna je hotel.",
+    "image": "/images/redesign/editorial/phuket-travel-guide-2026-hero.webp",
+    "imageAlt": "Tropische baai en groene kustlijn van Phuket gezien vanaf zee",
+    "primaryCta": { "label": "Vergelijk de gebieden", "href": "#gebieden" },
+    "secondaryCta": { "label": "Plan je ritme", "href": "#ritme" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "island", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Phuket past bij wie strand, eten en uitstappen wil combineren. Kies één passende kust als basis; het eiland dagelijks doorkruisen kost meer tijd dan de kaart suggereert.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "gebieden",
+      "title": "Welke kant van Phuket past bij jou?",
+      "options": [
+        { "title": "Patong", "description": "Veel voorzieningen en nachtleven, met merkbare drukte en verkeer.", "label": "Energie" },
+        { "title": "Kata, Karon of Kamala", "description": "Strand en voorzieningen in een rustiger ritme dan centraal Patong.", "label": "Balans" },
+        { "title": "Phuket Town", "description": "Architectuur, markten en eten; kies dit niet als strandbasis.", "label": "Cultuur" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "ritme",
+      "title": "Bouw je Phuket-route in drie keuzes",
+      "steps": [
+        { "title": "Kies je kust", "description": "Laat strand, avonden en gewenste loopafstand je uitvalsbasis bepalen." },
+        { "title": "Reserveer één bootdag", "description": "Houd ruimte voor zeecondities en controleer pier, route en voorwaarden." },
+        { "title": "Voeg één contrast toe", "description": "Combineer kust met Phuket Town of een rustige dag, niet met dagelijks heen-en-weer rijden." }
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "activiteiten",
+      "provider": "klook",
+      "title": "Vergelijk een activiteit die bij jouw kust past",
+      "description": "Controleer vertrekpier, transfergebied, groepsgrootte, parktoeslag en annuleringsvoorwaarden bij de aanbieder.",
+      "cta": { "label": "Bekijk actuele activiteiten", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true },
+      "placement": "phuket-guide-activities",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Phuket",
+      "items": [
+        { "question": "Hoeveel dagen heb je nodig voor Phuket?", "answer": "Drie volle dagen geven ruimte voor één kust, Phuket Town en één uitstap. Vier of vijf dagen bieden een rustiger tempo en weersbuffer." },
+        { "question": "Welke wijk is het beste op Phuket?", "answer": "Dat hangt af van je reisstijl: Patong voor energie, Kata/Karon/Kamala voor strand met voorzieningen en Phuket Town voor cultuur en eten." },
+        { "question": "Heb je eigen vervoer nodig op Phuket?", "answer": "Niet altijd, maar kies dan accommodatie dicht bij je belangrijkste activiteiten en controleer bus, taxi of transfer vooraf." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële bronnen voor Phuket",
+      "items": [
+        { "title": "Phuket destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Phuket/350", "checkedAt": "2026-08-01", "note": "Gebieden, stranden, cultuur en veiligheidsadvies over strandvlaggen." },
+        { "title": "Phuket International Airport", "publisher": "Airports of Thailand", "url": "https://phuket.airportthai.co.th/?lang=en", "checkedAt": "2026-08-01", "note": "Actuele aankomst- en vervoersinformatie." }
+      ]
+    }
+  ]
+}

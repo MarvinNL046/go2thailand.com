@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "activities"
 tags: ["wellness retreat Thailand", "yoga retreat Thailand", "spa retreat", "meditatie retreat", "wellness vakantie"]
-image: "/images/blog/best-wellness-retreats-thailand-2026.webp"
+image: "/images/redesign/editorial/best-wellness-retreats-thailand-2026-hero.webp"
 description: "Vergelijk wellness retreats in Thailand op doel, begeleiding, inclusies, locatie en boekingsvoorwaarden. Met een nuchtere checklist voor yoga, meditatie en spa."
 featured: false
 readingTime: 11

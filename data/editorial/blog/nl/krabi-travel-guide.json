@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1, "locale": "nl", "slug": "krabi-travel-guide", "route": "/nl/blog/krabi-travel-guide/", "cluster": "destination-guides", "editorialStatus": "ready", "updatedAt": "2026-08-01",
+  "seo": { "title": "Krabi reisgids: Ao Nang, Railay of Krabi Town?", "description": "Plan Krabi vanuit de juiste basis. Vergelijk Ao Nang, Railay en Krabi Town voor strand, eilanden, natuur en een haalbaar reistempo.", "primaryKeyword": "krabi reisgids", "secondaryKeywords": ["krabi vakantie", "ao nang of railay", "krabi tips"], "searchIntent": "informational", "canonicalPath": "/nl/blog/krabi-travel-guide/" },
+  "hero": { "eyebrow": "Kust, kliffen en eilanden", "title": "Krabi reisgids", "accent": "Kies je basis", "description": "Ao Nang, Railay en Krabi Town geven elk een andere reis. Kies eerst je hoofdactiviteit en beperk daarna de transfers.", "image": "/images/redesign/editorial/krabi-travel-guide-hero.webp", "imageAlt": "Longtailboot langs kalksteenkliffen en helder water in Krabi", "primaryCta": { "label": "Vergelijk je basis", "href": "#basis" }, "secondaryCta": { "label": "Plan je dagen", "href": "#dagen" } },
+  "layout": { "kind": "destination-guide", "geography": "region", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Ao Nang is de praktische basis voor boottochten, Railay voor strand en kliffen en Krabi Town voor lokaal ritme en verbindingen. Kies één basis in plaats van dagelijks te pendelen.",
+  "blocks": [
+    { "kind": "comparison", "id": "basis", "title": "Waar verblijf je in Krabi?", "options": [
+      { "title": "Ao Nang", "description": "Veel bootkeuze, hotels en restaurants; handig voor een eerste bezoek.", "label": "Praktisch" },
+      { "title": "Railay", "description": "Strand en kliffen centraal, met bootafhankelijkheid voor aankomst en vertrek.", "label": "Landschap" },
+      { "title": "Krabi Town", "description": "Markten, eten en vervoer; geen klassiek strandverblijf.", "label": "Stad" }
+    ] },
+    { "kind": "steps", "id": "dagen", "title": "Een haalbare Krabi-route", "steps": [
+      { "title": "Kies één basis", "description": "Laat je hoofdactiviteit de verblijfsplaats bepalen." },
+      { "title": "Plan één bootdag", "description": "Controleer parktoeslag, bootsoort, pier en zeecondities." },
+      { "title": "Voeg landnatuur toe", "description": "Kies één gebied rond pools, warmwaterlocaties of Krabi Town." }
+    ] },
+    { "kind": "checklist", "id": "boekcheck", "title": "Controleer vóór je betaalt", "items": ["Transfer tot de echte accommodatie", "Pier en bootsoort", "Parktoeslag en materiaal", "Plan bij ruwe zee", "Buffer tussen boot en vlucht"] },
+    { "kind": "affiliate", "id": "activiteiten", "provider": "klook", "title": "Vergelijk een actuele Krabi-activiteit", "description": "Bekijk route, ophaalgebied, groepsgrootte en voorwaarden; de actuele aanbiederinformatie is leidend.", "cta": { "label": "Bekijk actuele activiteiten", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true }, "placement": "krabi-guide-activities", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen over Krabi", "items": [
+      { "question": "Is Ao Nang of Railay een betere basis?", "answer": "Ao Nang is praktischer voor meerdere tours en vervoer; Railay past beter als strand en kalksteenkliffen centraal staan." },
+      { "question": "Hoeveel dagen heb je nodig voor Krabi?", "answer": "Drie volle dagen is werkbaar; vier of vijf dagen geven ruimte voor rust en een weersbuffer." },
+      { "question": "Kun je Krabi bezoeken zonder boottocht?", "answer": "Ja. Krabi Town, Khao Khanap Nam en natuur landinwaarts bieden alternatieven, al zijn de kust en eilanden voor veel reizigers een hoofdreden." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële bronnen voor Krabi", "items": [
+      { "title": "Krabi destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Phuket/344", "checkedAt": "2026-08-01", "note": "Bestemmingscontext voor Ao Nang, Railay, eilanden en landattracties." },
+      { "title": "Krabi and Trang route", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/krabi-trang-4-days", "checkedAt": "2026-08-01", "note": "Officiële routecontext voor strand, eilanden en natuur." }
+    ] }
+  ]
+}

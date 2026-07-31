@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-imf-world-bank-annual-meetings-bangkok-2026",
+  "route": "/nl/blog/thailand-imf-world-bank-annual-meetings-bangkok-2026/",
+  "cluster": "events",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "IMF–Wereldbank Bangkok 2026: data, toegang en reisimpact",
+    "description": "De IMF–Wereldbank Jaarvergaderingen zijn 12–18 oktober 2026 in Bangkok. Bekijk locatie, toegang, publieke streams en een nuchter reisplan.",
+    "primaryKeyword": "IMF Wereldbank Bangkok 2026",
+    "secondaryKeywords": ["Annual Meetings Bangkok", "QSNCC oktober 2026", "World Bank meetings Thailand"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-imf-world-bank-annual-meetings-bangkok-2026/"
+  },
+  "hero": {
+    "eyebrow": "Gepland · 12–18 oktober 2026",
+    "title": "Bangkok ontvangt de Jaarvergaderingen.",
+    "accent": "Toegang is niet hetzelfde als publieke informatie.",
+    "description": "Scheid geregistreerde deelname, publieke livestreams en gewone Bangkok-planning. Controleer het officiële programma opnieuw vóór vertrek.",
+    "image": "/images/redesign/editorial/thailand-imf-world-bank-annual-meetings-bangkok-2026-hero.webp",
+    "imageAlt": "Modern congrescentrum en stedelijke skyline van Bangkok",
+    "primaryCta": { "label": "Bekijk toegang en planning", "href": "#annual-meetings-access" },
+    "secondaryCta": { "label": "Plan Bangkok", "href": "/nl/city/bangkok/" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "scheduled",
+    "startsOn": "2026-10-12",
+    "endsOn": "2026-10-18",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "De IMF–Wereldbank Jaarvergaderingen staan gepland voor 12–18 oktober 2026 bij QSNCC. Fysieke toegang vereist de juiste registratie; publieke sessies kunnen online beschikbaar zijn.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "annual-meetings-status",
+      "tone": "saffron",
+      "title": "Status: gepland",
+      "description": "Data en venue zijn bevestigd. Programma, registratie, beveiliging en vervoer blijven onder voorbehoud van officiële updates."
+    },
+    {
+      "kind": "card-grid",
+      "id": "annual-meetings-access",
+      "eyebrow": "Kies je rol",
+      "title": "Drie verschillende toegangsbeslissingen",
+      "cards": [
+        { "title": "Geregistreerde deelnemer", "description": "Volg badge-, identificatie-, venue- en vervoersinstructies uit je officiële deelnemerskanaal.", "label": "Fysiek" },
+        { "title": "Publiek programma", "description": "Controleer World Bank Live voor aangekondigde streams zonder venue-toegang te veronderstellen.", "label": "Online" },
+        { "title": "Gewone Bangkok-reis", "description": "Houd lokaal marge, maar behandel het congres niet als bewijs dat de hele stad ontregeld is.", "label": "Reiziger" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "annual-meetings-checklist",
+      "title": "Voor vertrek opnieuw controleren",
+      "items": ["Registratie- en badgebevestiging", "Juiste venue en ingang per sessie", "Officieel deelnemersvervoer", "Hotelvoorwaarden en werkelijke route", "Laatste programma- en beveiligingsupdate"]
+    },
+    {
+      "kind": "faq",
+      "id": "annual-meetings-faq",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Wanneer zijn de Jaarvergaderingen?", "answer": "Van 12 tot en met 18 oktober 2026 in Bangkok." },
+        { "question": "Kan iedere toerist QSNCC binnen?", "answer": "Nee. Fysieke toegang vereist de toepasselijke registratie of accreditatie." },
+        { "question": "Moet je Bangkok vermijden?", "answer": "Niet automatisch. Controleer de actuele situatie rond QSNCC en kies je hotel op basis van je eigen programma." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "annual-meetings-sources",
+      "title": "Institutionele bronnen",
+      "items": [
+        { "title": "2026 Annual Meetings", "publisher": "World Bank Group", "url": "https://www.worldbank.org/en/meetings/splash/annual", "checkedAt": "2026-08-01" },
+        { "title": "Annual Meeting venues and access", "publisher": "World Bank Group", "url": "https://www.worldbank.org/en/meetings/splash/annual/venue", "checkedAt": "2026-08-01" },
+        { "title": "Joint preparation update", "publisher": "International Monetary Fund", "url": "https://www.imf.org/en/news/articles/2026/03/04/pr-26069-joint-pr-progress-2026-annual-meetings", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "annual-meetings-related",
+      "title": "Plan Bangkok op functie",
+      "items": [
+        { "title": "Bangkok overzicht", "description": "Kies de wijk die bij je werkelijke programma past.", "href": "/nl/city/bangkok/" },
+        { "title": "Hotels in Bangkok", "description": "Vergelijk actuele kamers, werkruimte en voorwaarden.", "href": "/nl/best-hotels/bangkok/" },
+        { "title": "Bangkok in oktober", "description": "Plan weer en dagritme naast het congres.", "href": "/nl/thailand-in/october/" }
+      ]
+    }
+  ]
+}

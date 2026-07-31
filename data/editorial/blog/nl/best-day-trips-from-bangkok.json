@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1, "locale": "nl", "slug": "best-day-trips-from-bangkok", "route": "/nl/blog/best-day-trips-from-bangkok/", "cluster": "attractions", "editorialStatus": "ready", "updatedAt": "2026-08-01",
+  "seo": { "title": "Dagtrips vanuit Bangkok: 6 haalbare keuzes", "description": "Vergelijk dagtrips vanuit Bangkok op reistijd, vervoer en ervaring: Ayutthaya, Maeklong, Kanchanaburi, Khao Yai en dichtbij-opties.", "primaryKeyword": "dagtrips vanuit bangkok", "secondaryKeywords": ["bangkok dagtrip", "uitstapjes bangkok", "ayutthaya vanuit bangkok"], "searchIntent": "commercial-investigation", "canonicalPath": "/nl/blog/best-day-trips-from-bangkok/" },
+  "hero": { "eyebrow": "Eén dag, één duidelijke keuze", "title": "Dagtrips vanuit Bangkok", "accent": "Kies op reistijd", "description": "Ayutthaya is niet dezelfde dag als Khao Yai. Vergelijk vervoer, hoofdervaring en hoeveel terugreismarge je nodig hebt.", "image": "/images/redesign/editorial/best-day-trips-from-bangkok-hero.webp", "imageAlt": "Historische tempelruïnes van Ayutthaya als dagtrip vanuit Bangkok", "primaryCta": { "label": "Vergelijk de opties", "href": "#opties" }, "secondaryCta": { "label": "Maak de dag haalbaar", "href": "#dagplan" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Ayutthaya is de meest evenwichtige eerste keuze. Kies Maeklong voor een gerichte marktdag, Kanchanaburi voor één historisch of natuurthema en Khao Yai alleen met vervoer in het park.",
+  "blocks": [
+    { "kind": "card-grid", "id": "opties", "eyebrow": "Kies op hoofdervaring", "title": "Zes dagtrips met een ander ritme", "cards": [
+      { "title": "Ayutthaya", "description": "Historische tempels met een haalbare dagstructuur vanuit Bangkok.", "label": "Eerste keuze", "href": "/nl/city/ayutthaya/" },
+      { "title": "Maeklong", "description": "Markt en spoorervaring, alleen na controle van actuele treinbewegingen.", "label": "Markt" },
+      { "title": "Kanchanaburi", "description": "Kies geschiedenis of natuur; beide volledig combineren vraagt een overnachting.", "label": "Langere dag" },
+      { "title": "Khao Yai", "description": "Natuurdag met vooraf geregeld vervoer tussen de attracties.", "label": "Park" },
+      { "title": "Nakhon Pathom", "description": "Compactere cultuurdag met minder reistijd dan de verre opties.", "label": "Cultuur" },
+      { "title": "Bang Krachao", "description": "Groene, nabije afwisseling wanneer fietsen en weer bij je passen.", "label": "Dichtbij" }
+    ] },
+    { "kind": "steps", "id": "dagplan", "title": "Maak van bereikbaarheid een haalbare dag", "steps": [
+      { "title": "Kies één thema", "description": "Geschiedenis, markt of natuur — niet meerdere provincies tegelijk." },
+      { "title": "Leg de terugrit vast", "description": "Controleer laatste trein, tourafzet of alternatief vervoer." },
+      { "title": "Check de avond ervoor", "description": "Opening, parkstatus, weer en annuleringsvoorwaarden kunnen wijzigen." }
+    ] },
+    { "kind": "affiliate", "id": "tour", "provider": "klook", "title": "Vergelijk een dagtour met je zelfstandige route", "description": "Controleer stops, groepsgrootte, ophaalgebied, entree en terugkomsttijd voordat je boekt.", "cta": { "label": "Bekijk actuele dagtours", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true }, "placement": "bangkok-daytrips", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen over Bangkok-dagtrips", "items": [
+      { "question": "Wat is de beste eerste dagtrip vanuit Bangkok?", "answer": "Ayutthaya biedt voor veel reizigers de beste balans tussen bereikbaarheid, geschiedenis en een haalbare dag." },
+      { "question": "Kan Khao Yai als dagtrip?", "answer": "Ja, met een compacte route en vooraf geregeld vervoer binnen het park. Voor langere wandelingen past overnachten beter." },
+      { "question": "Is Sukhothai een dagtrip vanuit Bangkok?", "answer": "Niet als ontspannen dagtrip. De afstand maakt een overnachting of plaats in een langere route veel logischer." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bronnen voor de routekeuze", "items": [
+      { "title": "Ayutthaya destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Phra-Nakhon-Si-Ayutthaya/229", "checkedAt": "2026-08-01", "note": "Afstand, historische context en belangrijkste locaties." },
+      { "title": "Plan Your Visit", "publisher": "Khao Yai National Park", "url": "https://khaoyainationalpark.com/en/plan-your-visit", "checkedAt": "2026-08-01", "note": "Vervoer binnen het park, opening en veiligheidschecks." },
+      { "title": "Kanchanaburi destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Phuket/222", "checkedAt": "2026-08-01", "note": "Officiële context voor geschiedenis en natuur in Kanchanaburi." }
+    ] }
+  ]
+}
