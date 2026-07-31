@@ -15,6 +15,7 @@ import { VpnThailandGuideEn } from '../../components/connectivity/VpnThailandGui
 import { SoloFemaleThailandGuideEn } from '../../components/safety/SoloFemaleThailandGuideEn';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
+import ExpatLongStayThailandGuideNl from '../../components/editorial/ExpatLongStayThailandGuideNl';
 
 // --- Type definitions ---
 
@@ -346,6 +347,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <VegetarianThailandGuide />;
   }
 
+  if (lang === 'nl' && guide.slug === 'expat-long-stay-thailand') {
+    return <ExpatLongStayThailandGuideNl />;
+  }
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: lang === 'nl' ? 'Reisgidsen' : 'Travel Guides', href: '/travel-guides/' },
@@ -536,6 +541,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, en: 'A VPN protects a connection—not your whole identity.' },
             intro: { ...guide.hero.intro, en: 'Use a VPN deliberately on shared Wi-Fi, for work policy or a chosen network location. Keep lawful behaviour, device updates and account security as separate layers.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'expat-long-stay-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Lang verblijf in Thailand' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Lang verblijf Thailand: wonen als expat voorbereiden' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Bereid een lang verblijf in Thailand voor via verblijfsstatus, proefwonen, zorg, budget, mobiliteit en officiële bronnen.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Van proefbasis naar een besluit dat ook buiten de vakantiebubbel werkt.' },
+            intro: { ...guide.hero.intro, nl: 'Orden verblijfsstatus, woning, zorg, geld en dagelijkse mobiliteit vóór je langdurige verplichtingen aangaat.' },
           },
           sections: [],
           faqs: [],
