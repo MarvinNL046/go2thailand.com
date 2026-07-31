@@ -4,6 +4,8 @@
 **Datum:** 24 juli 2026  
 **Status:** desktop- en mobiele acceptatie groen
 
+**Herverificatie 31 juli 2026:** gerichte runtime-audit 1/1 groen zonder fouten of waarschuwingen (p95 596 ms), 18/18 interne doelen en 9/9 lokale assets; desktop en mobiel opnieuw zonder kapotte beelden of horizontale overflow. Route-inventory definitief op `final` gezet.
+
 ## Research en inhoud
 
 - [x] Twee DataForSEO-clusters met 133 records opgeslagen.
