@@ -91,7 +91,7 @@ export const paiDestinationGuide: DestinationGuideData = {
       imageAlt: 'Brede en smalle zandstenen richels van Pai Canyon in warm avondlicht',
       description: 'Pai Canyon is een geërodeerd landschap met scherpe afdalingen en stukken zonder reling. Het uitzicht is sterk, maar de bekendste zonsondergangtijd brengt ook drukte en minder zicht op oneffen terrein.',
       decision: 'Kom ruim vóór zonsondergang, draag schoenen met grip en blijf op een brede route wanneer hoogte, regen of drukte niet goed voelt.',
-      href: '/city/pai/attractions/pai-canyon/',
+      href: '/city/pai/attractions/',
     },
     {
       title: 'Gebruik Walking Street als avondanker',
@@ -137,7 +137,7 @@ export const paiDestinationGuide: DestinationGuideData = {
     description: 'Met twee volle dagen combineer je blok 1 en 2 en kies je daarna blok 3 óf 4. Extra nachten zijn vooral waardevol wanneer je bewust rust en een verre uitbreiding toevoegt.',
     days: [
       { day: 'Aankomst', title: 'Centrum & Walking Street', description: 'Check centraal in, loop zonder voertuig door de kern en gebruik kleine marktgerechten om Pai rustig te leren lezen.', href: '/city/pai/attractions/pai-walking-street/' },
-      { day: 'Dag 1 · zuid', title: 'Warmwaterbron & Pai Canyon', description: 'Begin rustig bij een bron, rust tijdens de heetste uren en bereik de canyon vroeg genoeg om terrein en drukte bij daglicht te beoordelen.', href: '/city/pai/attractions/pai-canyon/' },
+      { day: 'Dag 1 · zuid', title: 'Warmwaterbron & Pai Canyon', description: 'Begin rustig bij een bron, rust tijdens de heetste uren en bereik de canyon vroeg genoeg om terrein en drukte bij daglicht te beoordelen.', href: '/city/pai/attractions/' },
       { day: 'Dag 2 · dichtbij', title: 'Mae Yen, rivier & stad', description: 'Plan de tempelbeklimming in koeler licht, lunch lang en laat ruimte voor een rustige rivier- of wellnessmiddag.', href: '/city/pai/attractions/wat-phra-that-mae-yen/' },
       { day: 'Extra dag', title: 'Noord óf landelijk', description: 'Kies Santichon en Yun Lai als noordelijke lus, of rijstvelden en Kho Ku So als landelijke route. Controleer weg en weer lokaal.', href: '/city/pai/attractions/' },
     ],
@@ -180,7 +180,7 @@ export const paiDestinationGuide: DestinationGuideData = {
   ],
   relatedGuides: [
     { title: 'Wat te doen in Pai?', description: 'Vergelijk canyon, markt, tempel en valleiroutes op afstand en dagdeel.', href: '/city/pai/attractions/', image: '/images/redesign/pai-canyon-route.webp', imageAlt: 'Pai Canyon in Noord-Thailand' },
-    { title: 'Pai Canyon veilig bezoeken', description: 'Plan licht, schoenen en een realistische route over de rode richels.', href: '/city/pai/attractions/pai-canyon/', image: '/images/redesign/pai-canyon-route.webp', imageAlt: 'Rode rotsrichels van Pai Canyon' },
+    { title: 'Pai Canyon veilig bezoeken', description: 'Plan licht, schoenen en een realistische route over de rode richels.', href: '/city/pai/attractions/', image: '/images/redesign/pai-canyon-route.webp', imageAlt: 'Rode rotsrichels van Pai Canyon' },
     { title: 'Waar verblijven in Pai?', description: 'Kies centrum, rivier of buitenresort op basis van je avond- en vervoersplan.', href: '/best-hotels/pai/', image: '/images/redesign/pai-destination-hero.webp', imageAlt: 'Pai-vallei met bergen en rijstvelden' },
   ],
   sources: [

@@ -38,7 +38,7 @@ Ownergrenzen:
 
 - `/nl/city/pai/` bezit de complete destination-, verblijfs- en vervoerskeuze;
 - deze owner bezit attractieselectie en geografische daglussen;
-- `/nl/city/pai/attractions/pai-canyon/` blijft de exacte canyon-detailowner;
+- de bestaande Engelse canyon-detailroute is geen bewezen Nederlandse owner; terrein- en veiligheidskeuzes blijven daarom in het Nederlandse overzicht totdat afzonderlijk onderzoek een detailowner rechtvaardigt;
 - `/nl/city/pai/food/` bezit Walking Street als food- en marktowner;
 - `/nl/region/northern/` en Mae Hong Son-owners bezitten de grotere bergroute.
 
@@ -56,7 +56,7 @@ TAT en de lokale gemeentekaart waren tijdens de browsercontrole bereikbaar. Cany
 
 - Zoektermowner: `Pai bezienswaardigheden` / `wat te doen in Pai`.
 - Zeven selecties verdeeld over centrum, zuid, dichtbij, noord en landelijk.
-- Pai Canyon krijgt alleen keuzecontext en een natuurlijke link naar de bestaande detailowner.
+- Pai Canyon krijgt keuzecontext en veiligheidsadvies binnen deze owner; er wordt geen niet-bestaande Nederlandse detailroute gelinkt.
 - Geen scootervereiste: chauffeur of tour is een volwaardig alternatief.
 - Geen vaste prijzen, openingstijden, rijtijden, waterconditie, zonsondergangs- of zichtgarantie.
 - Geen alcoholgerichte tubing-CTA en geen menselijk spektakel of “long-neck”-fototour.
