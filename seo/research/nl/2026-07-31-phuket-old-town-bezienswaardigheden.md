@@ -9,9 +9,9 @@
 
 1. [Wat te doen in Phuket Old Town (Thailand)?](https://reiswijven.nl/wat-te-doen-in-phuket-old-town-thailand/) — reiswijven.nl
    - 2 apr 2020 — #1 Bekijk de gekleurde huisjes in Phuket Old town · #2 Restaurants & koffietentjes in Phuket Old Town · #3 Sunday Walking Street Market · #4 ...
-5. [Dé 15 top bezienswaardigheden in Phuket: wat zien & doen?](https://www.reisroutes.nl/blog/thailand/bezienswaardigheden-phuket/) — www.reisroutes.nl
+2. [Dé 15 top bezienswaardigheden in Phuket: wat zien & doen?](https://www.reisroutes.nl/blog/thailand/bezienswaardigheden-phuket/) — www.reisroutes.nl
    - 24 okt 2025 — Kaartje met de mooiste bezienswaardigheden in Phuket · Historische stadscentrum van Phuket · Jui Tui-tempel · Thalang Road en Phuket Walking Street.
-6. [Old Phuket Town (2026) - Alles wat u MOET weten voordat ...](https://www.tripadvisor.nl/Attraction_Review-g2315818-d5995325-Reviews-Old_Phuket_Town-Talat_Yai_Phuket_Town_Phuket.html) — www.tripadvisor.nl
+3. [Old Phuket Town (2026) - Alles wat u MOET weten voordat ...](https://www.tripadvisor.nl/Attraction_Review-g2315818-d5995325-Reviews-Old_Phuket_Town-Talat_Yai_Phuket_Town_Phuket.html) — www.tripadvisor.nl
    - Old Phuket Town is een plaats met een mix van moderne kunst en traditionele architectuur en u kunt gemakkelijk een goede 2-3 uur door dit gebied wandelen. Er ...
 
 ## People Also Ask — verbatim

@@ -9,9 +9,9 @@
 
 5. [The Nai Harn Phuket | 5 Star Resort in Nai Harn Beach](https://www.thenaiharn.com/) — www.thenaiharn.com
    - The Nai Harn Resort is an icon of Phuket, overlooking a pristine beach. Come restore your senses and revel in this romantic sanctuary by the sea.
-7. [The Nai Harn Phuket in Ban Nai Han](https://www.vakantiediscounter.nl/thailand/phuket/ban_nai_han/the_nai_harn_phuket) — www.vakantiediscounter.nl
+6. [The Nai Harn Phuket in Ban Nai Han](https://www.vakantiediscounter.nl/thailand/phuket/ban_nai_han/the_nai_harn_phuket) — www.vakantiediscounter.nl
    - The Nai Harn Phuket beschikt over ca. 130 stijlvolle kamers. Deze zijn standaard voorzien van o.a. een tv, gratis WiFi, airco, kluisje, koffie- en ...
-8. [The Nai Harn Phuket - de MICHELIN Gids](https://guide.michelin.com/nl/nl/hotels-stays/phuket-area/the-nai-harn-phuket-9434) — guide.michelin.com
+7. [The Nai Harn Phuket - de MICHELIN Gids](https://guide.michelin.com/nl/nl/hotels-stays/phuket-area/the-nai-harn-phuket-9434) — guide.michelin.com
    - There's an extensive wellness program, including a gym, a spa, a detox program, and a lovely lagoon-style swimming pool. And it would be difficult to overstate ...
 
 ## People Also Ask — verbatim

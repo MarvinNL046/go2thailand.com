@@ -6,16 +6,16 @@
 
 ## Keywords
 
-| Keyword | Volume | KD | Intent | DFS source |
-|---|---:|---:|---|---|
-| wat te doen in phuket old town | 20 | — | informational | suggestion |
-| phuket old town wat te doen | 10 | — | informational | suggestion |
-| wat te doen phuket old town | — | — | — | suggestion |
+| Keyword                        | Volume |  KD | Intent        | DFS source |
+| ------------------------------ | -----: | --: | ------------- | ---------- |
+| wat te doen in phuket old town |     20 |   — | informational | suggestion |
+| phuket old town wat te doen    |     10 |   — | informational | suggestion |
+| wat te doen phuket old town    |      — |   — | —             | suggestion |
 
 ## SERP competitors across the selected cluster
 
 Keywords supplied to DFS: `wat te doen phuket old town`, `wat te doen in phuket old town`, `phuket old town wat te doen`
 
-| Domain | Gem. positie | Keywords | Zichtbaarheid | Geschat verkeer |
-|---|---:|---:|---:|---:|
-| No results | — | — | — | — |
+| Domain     | Gem. positie | Keywords | Zichtbaarheid | Geschat verkeer |
+| ---------- | -----------: | -------: | ------------: | --------------: |
+| No results |            — |        — |             — |               — |

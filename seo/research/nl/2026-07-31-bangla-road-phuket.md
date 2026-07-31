@@ -9,9 +9,9 @@
 
 3. [Bangla Road (2026) - Alles wat u MOET weten voordat je ...](https://www.tripadvisor.nl/Attraction_Review-g297930-d1866109-Reviews-Bangla_Road-Patong_Kathu_Phuket.html) — www.tripadvisor.nl
    - Bangla Road is het hart van het nachtleven van Phuket en een spannende plek om te bezoeken. De straat komt tot leven na zonsondergang met kleurrijke lichten, ...
-6. [BANGLA ROAD: Patong Beach, Phuket (4K)](https://www.youtube.com/watch?v=KuB9IrfQeXQ) — www.youtube.com
+4. [BANGLA ROAD: Patong Beach, Phuket (4K)](https://www.youtube.com/watch?v=KuB9IrfQeXQ) — www.youtube.com
    - Bangla Road is the main pedestrian street to find entertainment and nightlife options in Patong Beach, Phuket in Thailand.
-7. [Experience the Nightlife at Bangla Road, Phuket](https://www.thavornbeachvillage.com/tips-a-guide-to-bangla-road-phuket) — www.thavornbeachvillage.com
+5. [Experience the Nightlife at Bangla Road, Phuket](https://www.thavornbeachvillage.com/tips-a-guide-to-bangla-road-phuket) — www.thavornbeachvillage.com
    - This busy street offers an endless variety of bars, clubs, and entertainment spots, making it the epicenter of Phuket's after-dark energy.
 
 ## People Also Ask — verbatim

@@ -9,10 +9,11 @@
 
 7. [Phuket Weekend Night Market (2026) - Alles wat u MOET ...](https://www.tripadvisor.nl/Attraction_Review-g1215781-d10588250-Reviews-Phuket_Weekend_Night_Market-Phuket_Town_Phuket.html) — www.tripadvisor.nl
    - Oude nachtmarkt van Phuket Town (zondag) Dit is echt een 'must-do'-ervaring tijdens een verblijf in de omgeving. We waren op maandagavond naar de stad gegaan ...
-9. [Phuket Old Town Night Market: Sunday Walking Street Guide](https://thehappyjetlagger.com/en/sunday-walking-street-market-phuket-old-town/) — thehappyjetlagger.com
+8. [Phuket Old Town Night Market: Sunday Walking Street Guide](https://thehappyjetlagger.com/en/sunday-walking-street-market-phuket-old-town/) — thehappyjetlagger.com
    - 5 mei 2026 — The Sunday Walking Street Market in Phuket Old Town has the best street food and Sino-Portuguese architecture: when, where, and what to try.
-10. [Wat te doen in Phuket Old Town (Thailand)?](https://reiswijven.nl/wat-te-doen-in-phuket-old-town-thailand/) — reiswijven.nl
-   - 2 apr 2020 — Een andere leuke markt in Phuket is de Chillva Nightmarket. Deze staat er wel elke dag en ligt net buiten Old town, dus je kunt er het beste ...
+9. [Wat te doen in Phuket Old Town (Thailand)?](https://reiswijven.nl/wat-te-doen-in-phuket-old-town-thailand/) — reiswijven.nl
+
+- 2 apr 2020 — Een andere leuke markt in Phuket is de Chillva Nightmarket. Deze staat er wel elke dag en ligt net buiten Old town, dus je kunt er het beste ...
 
 ## People Also Ask — verbatim
 

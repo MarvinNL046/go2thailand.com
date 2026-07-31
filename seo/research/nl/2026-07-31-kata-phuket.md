@@ -9,9 +9,9 @@
 
 2. [Kata Beach (2026) - Alles wat u MOET weten voordat je ...](https://www.tripadvisor.nl/Attraction_Review-g1210687-d450974-Reviews-Kata_Beach-Kata_Beach_Karon_Phuket.html) — www.tripadvisor.nl
    - Zeer mooi strand, erg opgeruimd, geen vuil of afval te zien. Erg toeristische plek, hier moet je natuurlijk van houden. Hierdoor wel erg gezellig en veel te ...
-4. [Zoek hotels in Kata Beach - Thailand](https://www.booking.com/city/th/ban-kata.nl.html) — www.booking.com
+3. [Zoek hotels in Kata Beach - Thailand](https://www.booking.com/city/th/ban-kata.nl.html) — www.booking.com
    - Hotels met luchthavenshuttles in Kata Beach · Pamookkoo · The Brown Boutique Patong · SJ Beach House Patong · Phuket View Coffee and Resort · Kata View Guest House.
-5. [Kata Beach: Where To Stay, What To Do](https://www.phuket101.net/kata-beach/) — www.phuket101.net
+4. [Kata Beach: Where To Stay, What To Do](https://www.phuket101.net/kata-beach/) — www.phuket101.net
    - 7 jul 2026 — Kata Beach is one of the most beautiful beaches on the west coast of Phuket island, and it is one of the most popular beach resorts in Phuket after Patong ...
 
 ## People Also Ask — verbatim

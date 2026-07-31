@@ -9,9 +9,9 @@
 
 4. [Rawai 2026: Alles wat u moet weten VOORDAT je gaat](https://www.tripadvisor.nl/Tourism-g297934-Rawai_Phuket-Vacations.html) — www.tripadvisor.nl
    - Rawai is een uniek gebied in Phuket dat liefhebbers van Muay Thai-vechtsport aantrekt. In trainingscentra wordt op elke niveau les gegeven, van echte ...
-6. [Zoek hotels in Rawai Beach - Thailand](https://www.booking.com/city/th/ban-ra-wai.nl.html) — www.booking.com
+5. [Zoek hotels in Rawai Beach - Thailand](https://www.booking.com/city/th/ban-ra-wai.nl.html) — www.booking.com
    - Elegant Accommodation: Chalong Marina Bay View Phuket in Phuket offers a 5-star experience with a rooftop swimming pool, spa facilities, sun terrace, restaurant ...
-8. [Vakantie Rawai - Nu tot €1000,- korting per boeking](https://www.tui.nl/p/vakantie/thailand/rawai/) — www.tui.nl
+6. [Vakantie Rawai - Nu tot €1000,- korting per boeking](https://www.tui.nl/p/vakantie/thailand/rawai/) — www.tui.nl
    - Luieren in luxe doe je tijdens een vakantie Rawai. Dit populaire vissersdorpje ligt aan de zuidkant van het Thaise eiland Phuket en kent een tropisch decor.
 
 ## People Also Ask — verbatim

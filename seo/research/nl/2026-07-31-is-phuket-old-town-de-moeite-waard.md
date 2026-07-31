@@ -9,9 +9,9 @@
 
 2. [Old Phuket Town (2026) - Alles wat u MOET weten voordat ...](https://www.tripadvisor.nl/Attraction_Review-g2315818-d5995325-Reviews-Old_Phuket_Town-Talat_Yai_Phuket_Town_Phuket.html) — www.tripadvisor.nl
    - De oude stad Phuket is een attractie die u niet mag missen ! Wandelen door de straten in de oude stad is een zeer interessante ervaring. Het is een wandeling ...
-4. [Phuket | Onze tips voor dit veelzijdige Thaise eiland](https://www.backpackeninazie.nl/backpacken-thailand/phuket/) — www.backpackeninazie.nl
+3. [Phuket | Onze tips voor dit veelzijdige Thaise eiland](https://www.backpackeninazie.nl/backpacken-thailand/phuket/) — www.backpackeninazie.nl
    - 12 nov 2025 — Naast dit viewpoint, is ook het Karon Viewpoint een ander mooi plekje om de fraaie omgeving te bewonderen. Phuket Old Town ... moeite waard.
-5. [Phuket Old Town met kinderen - zien en doen](https://kleineglobetrotter.nl/phuket-old-town-met-kinderen/) — kleineglobetrotter.nl
+4. [Phuket Old Town met kinderen - zien en doen](https://kleineglobetrotter.nl/phuket-old-town-met-kinderen/) — kleineglobetrotter.nl
    - Phuket Old Town is een verrassend hippe stad die te gek is om te bezoeken met kinderen. Wij zetten onze tips voor je op een rij.
 
 ## People Also Ask — verbatim

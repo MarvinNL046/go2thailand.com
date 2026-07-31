@@ -6,14 +6,14 @@
 
 ## Keywords
 
-| Keyword | Volume | KD | Intent | DFS source |
-|---|---:|---:|---|---|
-| phuket old town markt | — | — | — | suggestion |
+| Keyword               | Volume |  KD | Intent | DFS source |
+| --------------------- | -----: | --: | ------ | ---------- |
+| phuket old town markt |      — |   — | —      | suggestion |
 
 ## SERP competitors across the selected cluster
 
 Keywords supplied to DFS: `phuket old town markt`
 
-| Domain | Gem. positie | Keywords | Zichtbaarheid | Geschat verkeer |
-|---|---:|---:|---:|---:|
-| No results | — | — | — | — |
+| Domain     | Gem. positie | Keywords | Zichtbaarheid | Geschat verkeer |
+| ---------- | -----------: | -------: | ------------: | --------------: |
+| No results |            — |        — |             — |               — |
