@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-31T18:22:58.808Z",
+  "capturedAt": "2026-07-31T18:50:49.746Z",
   "baseUrl": "http://localhost:3000",
   "locales": [
     "nl"
@@ -8,7 +8,7 @@
     "nl": {
       "total": 700,
       "httpOk": 667,
-      "trackedOwners": 329,
+      "trackedOwners": 333,
       "amazonRoutes": 105,
       "amazonLinks": 230,
       "amazonSlugs": [
@@ -46,7 +46,7 @@
           "premium": 82,
           "hybrid": 0,
           "none": 0,
-          "trackedOwners": 46,
+          "trackedOwners": 50,
           "amazonRoutes": 0,
           "amazonLinks": 0
         },
@@ -11941,7 +11941,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11968,7 +11968,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11995,7 +11995,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -12022,7 +12022,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
