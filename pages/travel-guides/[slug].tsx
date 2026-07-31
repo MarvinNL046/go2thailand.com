@@ -17,6 +17,7 @@ import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 import ExpatLongStayThailandGuideNl from '../../components/editorial/ExpatLongStayThailandGuideNl';
 import HealthHospitalsThailandGuideNl from '../../components/editorial/HealthHospitalsThailandGuideNl';
+import ThailandWithKidsGuideNl from '../../components/editorial/ThailandWithKidsGuideNl';
 
 // --- Type definitions ---
 
@@ -356,6 +357,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <HealthHospitalsThailandGuideNl />;
   }
 
+  if (lang === 'nl' && guide.slug === 'thailand-with-kids') {
+    return <ThailandWithKidsGuideNl />;
+  }
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: lang === 'nl' ? 'Reisgidsen' : 'Travel Guides', href: '/travel-guides/' },
@@ -596,6 +601,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Van 1669 bij medische spoed tot de documenten voor je verzekeraar.' },
             intro: { ...guide.hero.intro, nl: 'Vind de juiste hulpketen zonder vaste prijsclaim, ziekenhuisranglijst of zelfdiagnose.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'thailand-with-kids') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Thailand met kinderen' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Thailand met kinderen: route, reistijd en gezinsplanning' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Plan Thailand met kinderen op leeftijd, tempo, basissen, transfers, kamerfit en activiteiten.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Bouw de reis rond energie, slaap en transfers—niet rond zoveel mogelijk stops.' },
+            intro: { ...guide.hero.intro, nl: 'Vergelijk gezinsfit, routebelasting, kamerindeling, weer en zorgtoegang voordat je boekt.' },
           },
           sections: [],
           faqs: [],
