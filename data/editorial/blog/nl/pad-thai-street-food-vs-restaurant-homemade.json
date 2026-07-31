@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "pad-thai-street-food-vs-restaurant-homemade",
+  "route": "/nl/blog/pad-thai-street-food-vs-restaurant-homemade/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Pad thai: kraam, restaurant of thuis | Go2Thailand",
+    "description": "Vergelijk versbereiding, ingrediënten en portie; thuis koken ondersteunt een natuurlijke Amazon-keuze voor een wok of betrouwbare kookgids.",
+    "primaryKeyword": "pad thai thailand",
+    "secondaryKeywords": [
+      "pad thai thailand tips"
+    ],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/pad-thai-street-food-vs-restaurant-homemade/"
+  },
+  "hero": {
+    "eyebrow": "Eten met context",
+    "title": "Pad thai: kraam, restaurant of thuis",
+    "accent": "Drie manieren, drie keuzes",
+    "description": "Vergelijk versbereiding, ingrediënten en portie; thuis koken ondersteunt een natuurlijke Amazon-keuze voor een wok of betrouwbare kookgids.",
+    "image": "/images/redesign/editorial/pad-thai-street-food-vs-restaurant-homemade-hero.webp",
+    "imageAlt": "Route-eigen sfeerbeeld bij pad thai: kraam, restaurant of thuis",
+    "primaryCta": {
+      "label": "Maak je keuze",
+      "href": "#keuze"
+    },
+    "secondaryCta": {
+      "label": "Veilig eten",
+      "href": "#veilig"
+    }
+  },
+  "layout": {
+    "kind": "food-guide",
+    "foodMode": "dish",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "Vergelijk versbereiding, ingrediënten en portie; thuis koken ondersteunt een natuurlijke Amazon-keuze voor een wok of betrouwbare kookgids.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "keuze",
+      "title": "Kies op wat je werkelijk krijgt",
+      "options": [
+        {
+          "title": "Versbereiding",
+          "description": "Kijk naar omloop, temperatuur en bereiding.",
+          "label": "Kwaliteit"
+        },
+        {
+          "title": "Ingrediënten",
+          "description": "Vraag naar allergenen en verborgen smaakmakers.",
+          "label": "Veiligheid"
+        },
+        {
+          "title": "Actuele context",
+          "description": "Controleer menu, locatie en opening opnieuw.",
+          "label": "Nu"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "veilig",
+      "title": "Veilig proeven",
+      "items": [
+        "Zichtbaar vers bereid",
+        "Allergenen expliciet besproken",
+        "Veilig drinkwater",
+        "Kleine portie bij twijfel"
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "thuis-koken",
+      "provider": "amazon",
+      "title": "Thuis verder met Pad Thai",
+      "description": "Vergelijk een passende wok of betrouwbare Thaise kookgids; controleer materiaal, maat, taal en verkoper.",
+      "cta": {
+        "label": "Bekijk actueel aanbod",
+        "href": "/go/thai-cookbook/",
+        "external": true
+      },
+      "placement": "pad-thai-home-cooking",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bron voor actuele context",
+      "items": [
+        {
+          "title": "Thai FDA",
+          "publisher": "Thai FDA",
+          "url": "https://en.fda.moph.go.th/",
+          "checkedAt": "2026-08-01",
+          "note": "Primaire voedselveiligheids- of toerismecontext."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "24-hours-talad-noi-bangkok-hidden-gem",
+  "route": "/nl/blog/24-hours-talad-noi-bangkok-hidden-gem/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Talad Noi in één dag | Go2Thailand",
+    "description": "Een compacte erfgoedwandeling langs steegjes, werkplaatsen en Chinese gemeenschapsplekken — zonder de wijk als decorstuk te behandelen.",
+    "primaryKeyword": "talad noi bangkok",
+    "secondaryKeywords": [
+      "talad noi bangkok bezoeken",
+      "talad noi bangkok tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/24-hours-talad-noi-bangkok-hidden-gem/"
+  },
+  "hero": {
+    "eyebrow": "Bangkok met context",
+    "title": "Talad Noi in één dag",
+    "accent": "Wandel met context",
+    "description": "Een compacte erfgoedwandeling langs steegjes, werkplaatsen en Chinese gemeenschapsplekken — zonder de wijk als decorstuk te behandelen.",
+    "image": "/images/redesign/editorial/24-hours-talad-noi-bangkok-hidden-gem-hero.webp",
+    "imageAlt": "Historische steeg met street art en oude werkplaatsen in Talad Noi Bangkok",
+    "primaryCta": {
+      "label": "Plan je bezoek",
+      "href": "#keuzes"
+    },
+    "secondaryCta": {
+      "label": "Actuele checks",
+      "href": "#actueel"
+    }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "learn",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Talad Noi past in een halve of rustige hele dag. Kom voor de wijkgeschiedenis en het straatbeeld, maar respecteer woningen, werkplaatsen en gebedsplekken.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "keuzes",
+      "eyebrow": "Routekeuze",
+      "title": "Drie ankers voor je bezoek",
+      "cards": [
+        {
+          "title": "Erfgoedroute",
+          "description": "Maak vooraf één duidelijke keuze en laat actuele informatie leidend zijn.",
+          "label": "Stap 1"
+        },
+        {
+          "title": "Respectvol fotograferen",
+          "description": "Bouw rust en respect in; een volle checklist maakt de ervaring niet beter.",
+          "label": "Stap 2"
+        },
+        {
+          "title": "Combineer met Chinatown",
+          "description": "Koppel alleen een logisch vervolg en vermijd onnodig heen-en-weer reizen.",
+          "label": "Stap 3"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "actueel",
+      "title": "Controleer vlak voor vertrek",
+      "items": [
+        "Officiële opening of locatie op de bezoekdag",
+        "Kleding, toegang en lokale gedragsregels",
+        "Heen- en terugroute met voldoende marge",
+        "Weer, hitte en persoonlijke belastbaarheid"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Talad Noi in één dag",
+      "items": [
+        {
+          "question": "Hoe plan je Talad Noi in één dag het best?",
+          "answer": "Kies één hoofddoel, controleer officiële bezoekersinformatie en combineer alleen locaties die geografisch logisch bij elkaar liggen."
+        },
+        {
+          "question": "Welke informatie moet je opnieuw controleren?",
+          "answer": "Opening, toegang, vervoer en tijdelijke maatregelen kunnen wijzigen. De gelinkte primaire bron blijft leidend."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bron voor actuele details",
+      "items": [
+        {
+          "title": "Talad Noi community",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Articles/talat-noi",
+          "checkedAt": "2026-08-01",
+          "note": "Owner- en actualiteitscontrole voor deze route."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "eat-like-local-thailand-under-5-dollars",
+  "route": "/nl/blog/eat-like-local-thailand-under-5-dollars/",
+  "cluster": "food",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Betaalbaar eten in Thailand | Go2Thailand",
+    "description": "Een vaste dollardrempel veroudert en overlapt bredere budget- en foodowners. Deze route blijft als noindex keuzecheck zonder prijsbelofte.",
+    "primaryKeyword": "goedkoop eten thailand",
+    "secondaryKeywords": [
+      "goedkoop eten thailand tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/eat-like-local-thailand-under-5-dollars/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Eten met context",
+    "title": "Betaalbaar eten in Thailand",
+    "accent": "Gearchiveerde dollarbelofte",
+    "description": "Een vaste dollardrempel veroudert en overlapt bredere budget- en foodowners. Deze route blijft als noindex keuzecheck zonder prijsbelofte.",
+    "image": "/images/redesign/editorial/eat-like-local-thailand-under-5-dollars-hero.webp",
+    "imageAlt": "Route-eigen sfeerbeeld bij betaalbaar eten in thailand",
+    "primaryCta": {
+      "label": "Maak je keuze",
+      "href": "#keuze"
+    },
+    "secondaryCta": {
+      "label": "Veilig eten",
+      "href": "#veilig"
+    }
+  },
+  "layout": {
+    "kind": "food-guide",
+    "foodMode": "overview",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "Een vaste dollardrempel veroudert en overlapt bredere budget- en foodowners. Deze route blijft als noindex keuzecheck zonder prijsbelofte.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "keuze",
+      "title": "Kies op wat je werkelijk krijgt",
+      "options": [
+        {
+          "title": "Versbereiding",
+          "description": "Kijk naar omloop, temperatuur en bereiding.",
+          "label": "Kwaliteit"
+        },
+        {
+          "title": "Ingrediënten",
+          "description": "Vraag naar allergenen en verborgen smaakmakers.",
+          "label": "Veiligheid"
+        },
+        {
+          "title": "Actuele context",
+          "description": "Controleer menu, locatie en opening opnieuw.",
+          "label": "Nu"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "veilig",
+      "title": "Veilig proeven",
+      "items": [
+        "Zichtbaar vers bereid",
+        "Allergenen expliciet besproken",
+        "Veilig drinkwater",
+        "Kleine portie bij twijfel"
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bron voor actuele context",
+      "items": [
+        {
+          "title": "World Health Organization — Five Keys to Safer Food",
+          "publisher": "World Health Organization — Five Keys to Safer Food",
+          "url": "https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food",
+          "checkedAt": "2026-08-01",
+          "note": "Primaire voedselveiligheids- of toerismecontext."
+        }
+      ]
+    }
+  ]
+}

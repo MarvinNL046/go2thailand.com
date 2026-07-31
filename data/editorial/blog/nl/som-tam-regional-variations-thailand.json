@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "som-tam-regional-variations-thailand",
+  "route": "/nl/blog/som-tam-regional-variations-thailand/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Som tam en regionale variaties | Go2Thailand",
+    "description": "Som tam varieert in fermentatie, zoetheid, zuur, pit en toevoegingen. Vraag naar pinda, vis, schaaldieren en rauwe ingrediënten.",
+    "primaryKeyword": "som tam thailand",
+    "secondaryKeywords": [
+      "som tam thailand tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/som-tam-regional-variations-thailand/"
+  },
+  "hero": {
+    "eyebrow": "Eten met context",
+    "title": "Som tam en regionale variaties",
+    "accent": "Vraag vóór de vijzel",
+    "description": "Som tam varieert in fermentatie, zoetheid, zuur, pit en toevoegingen. Vraag naar pinda, vis, schaaldieren en rauwe ingrediënten.",
+    "image": "/images/redesign/editorial/som-tam-regional-variations-thailand-hero.webp",
+    "imageAlt": "Route-eigen sfeerbeeld bij som tam en regionale variaties",
+    "primaryCta": {
+      "label": "Maak je keuze",
+      "href": "#keuze"
+    },
+    "secondaryCta": {
+      "label": "Veilig eten",
+      "href": "#veilig"
+    }
+  },
+  "layout": {
+    "kind": "food-guide",
+    "foodMode": "overview",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "Som tam varieert in fermentatie, zoetheid, zuur, pit en toevoegingen. Vraag naar pinda, vis, schaaldieren en rauwe ingrediënten.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "keuze",
+      "title": "Kies op wat je werkelijk krijgt",
+      "options": [
+        {
+          "title": "Versbereiding",
+          "description": "Kijk naar omloop, temperatuur en bereiding.",
+          "label": "Kwaliteit"
+        },
+        {
+          "title": "Ingrediënten",
+          "description": "Vraag naar allergenen en verborgen smaakmakers.",
+          "label": "Veiligheid"
+        },
+        {
+          "title": "Actuele context",
+          "description": "Controleer menu, locatie en opening opnieuw.",
+          "label": "Nu"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "veilig",
+      "title": "Veilig proeven",
+      "items": [
+        "Zichtbaar vers bereid",
+        "Allergenen expliciet besproken",
+        "Veilig drinkwater",
+        "Kleine portie bij twijfel"
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bron voor actuele context",
+      "items": [
+        {
+          "title": "Thai FDA",
+          "publisher": "Thai FDA",
+          "url": "https://en.fda.moph.go.th/",
+          "checkedAt": "2026-08-01",
+          "note": "Primaire voedselveiligheids- of toerismecontext."
+        }
+      ]
+    }
+  ]
+}

@@ -34,6 +34,7 @@ pids
 *.seed
 *.pid.lock
 seo/audits/runtime/
+.codex-runtime/
 
 # Coverage directory used by tools like istanbul
 coverage/

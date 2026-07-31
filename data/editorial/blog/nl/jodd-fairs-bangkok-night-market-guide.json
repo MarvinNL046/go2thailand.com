@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "jodd-fairs-bangkok-night-market-guide",
+  "route": "/nl/blog/jodd-fairs-bangkok-night-market-guide/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Jodd Fairs Ratchada | Go2Thailand",
+    "description": "Gebruik de gespecialiseerde marktowner voor locatie, eten, vervoer en actuele opening — niet een oude prijs- of stalllijst.",
+    "primaryKeyword": "jodd fairs bangkok",
+    "secondaryKeywords": [
+      "jodd fairs bangkok bezoeken",
+      "jodd fairs bangkok tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/jodd-fairs-bangkok-night-market-guide/"
+  },
+  "hero": {
+    "eyebrow": "Specialistische eigenaar",
+    "title": "Jodd Fairs Ratchada",
+    "accent": "Een avond met actuele checks",
+    "description": "Gebruik de gespecialiseerde marktowner voor locatie, eten, vervoer en actuele opening — niet een oude prijs- of stalllijst.",
+    "image": "/images/redesign/editorial/jodd-fairs-bangkok-night-market-guide-hero.webp",
+    "imageAlt": "Verlichte eetkramen en bezoekers op Jodd Fairs Ratchada in Bangkok",
+    "primaryCta": {
+      "label": "Plan je bezoek",
+      "href": "#keuzes"
+    },
+    "secondaryCta": {
+      "label": "Actuele checks",
+      "href": "#actueel"
+    }
+  },
+  "layout": {
+    "kind": "food-guide",
+    "foodMode": "market",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Controleer dezelfde dag de officiële locatie en opening. Kies eten op versbereiding en allergenen, niet op een oude top-tienlijst.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "keuzes",
+      "eyebrow": "Routekeuze",
+      "title": "Drie ankers voor je bezoek",
+      "cards": [
+        {
+          "title": "Controleer locatie",
+          "description": "Maak vooraf één duidelijke keuze en laat actuele informatie leidend zijn.",
+          "label": "Stap 1"
+        },
+        {
+          "title": "Kies versbereiding",
+          "description": "Bouw rust en respect in; een volle checklist maakt de ervaring niet beter.",
+          "label": "Stap 2"
+        },
+        {
+          "title": "Plan je laatste MRT",
+          "description": "Koppel alleen een logisch vervolg en vermijd onnodig heen-en-weer reizen.",
+          "label": "Stap 3"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "actueel",
+      "title": "Controleer vlak voor vertrek",
+      "items": [
+        "Officiële opening of locatie op de bezoekdag",
+        "Kleding, toegang en lokale gedragsregels",
+        "Heen- en terugroute met voldoende marge",
+        "Weer, hitte en persoonlijke belastbaarheid"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Jodd Fairs Ratchada",
+      "items": [
+        {
+          "question": "Hoe plan je Jodd Fairs Ratchada het best?",
+          "answer": "Kies één hoofddoel, controleer officiële bezoekersinformatie en combineer alleen locaties die geografisch logisch bij elkaar liggen."
+        },
+        {
+          "question": "Welke informatie moet je opnieuw controleren?",
+          "answer": "Opening, toegang, vervoer en tijdelijke maatregelen kunnen wijzigen. De gelinkte primaire bron blijft leidend."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bron voor actuele details",
+      "items": [
+        {
+          "title": "Jodd Fairs official",
+          "publisher": "Jodd Fairs",
+          "url": "https://www.facebook.com/JODDFAIRS",
+          "checkedAt": "2026-08-01",
+          "note": "Owner- en actualiteitscontrole voor deze route."
+        }
+      ]
+    }
+  ]
+}

@@ -12,6 +12,7 @@ interface FamilyCompletion {
 }
 
 const root = process.cwd();
+const acceptedOnly = process.argv.includes('--accepted-only');
 const familyCompletion = JSON.parse(
   readFileSync(resolve(root, 'seo', 'inventory', 'family-completion.json'), 'utf8'),
 ) as FamilyCompletion;
@@ -33,19 +34,22 @@ const profileSlugs = readdirSync(profileDirectory)
   .filter((file) => file.endsWith('.json'))
   .map((file) => file.replace(/\.json$/, ''));
 
+let verifiedProfileCount = 0;
 for (const slug of profileSlugs) {
   const profile = requireNlEditorialProfile(slug);
   if (!acceptedRoutes.has(profile.route)) {
+    if (acceptedOnly) continue;
     throw new Error(`Profile ${slug} is not listed as accepted in nl:editorial`);
   }
   if (profile.editorialStatus === 'draft') {
     throw new Error(`Accepted profile ${slug} still has draft status`);
   }
+  verifiedProfileCount += 1;
 }
 
 const acceptedArticleRoutes = [...acceptedRoutes].filter((route) => route !== '/nl/blog/');
-if (acceptedArticleRoutes.length !== profileSlugs.length) {
-  throw new Error(`Accepted/profile mismatch: ${acceptedArticleRoutes.length}/${profileSlugs.length}`);
+if (acceptedArticleRoutes.length !== verifiedProfileCount) {
+  throw new Error(`Accepted/profile mismatch: ${acceptedArticleRoutes.length}/${verifiedProfileCount}`);
 }
 
 for (const route of acceptedArticleRoutes) {
@@ -54,4 +58,6 @@ for (const route of acceptedArticleRoutes) {
   requireNlEditorialProfile(slug);
 }
 
-console.log(`NL editorial verification passed: ${acceptedRoutes.size}/${manifest.count} accepted; ${profileSlugs.length} typed article profiles.`);
+console.log(
+  `NL editorial verification passed: ${acceptedRoutes.size}/${manifest.count} accepted; ${verifiedProfileCount} verified article profiles${acceptedOnly ? ` (${profileSlugs.length - verifiedProfileCount} in-progress ignored)` : ''}.`,
+);

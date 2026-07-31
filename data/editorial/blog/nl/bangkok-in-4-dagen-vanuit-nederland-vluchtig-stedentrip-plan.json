@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan",
+  "route": "/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bangkok in vier dagen | Go2Thailand",
+    "description": "Een rustig vierdaags raamwerk voor aankomst, oude stad, moderne Bangkok en één verdiepende wijk.",
+    "primaryKeyword": "bangkok 4 dagen",
+    "secondaryKeywords": [
+      "bangkok 4 dagen bezoeken",
+      "bangkok 4 dagen tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Bangkok met context",
+    "title": "Bangkok in vier dagen",
+    "accent": "Plan per stadslaag",
+    "description": "Een rustig vierdaags raamwerk voor aankomst, oude stad, moderne Bangkok en één verdiepende wijk.",
+    "image": "/images/redesign/editorial/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan-hero.webp",
+    "imageAlt": "Bangkok skyline en Chao Phraya-rivier tijdens zacht avondlicht",
+    "primaryCta": {
+      "label": "Plan je bezoek",
+      "href": "#keuzes"
+    },
+    "secondaryCta": {
+      "label": "Actuele checks",
+      "href": "#actueel"
+    }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "plan",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Vier dagen is genoeg voor een eerste overzicht als je per dag één stadslaag kiest en de aankomstdag licht houdt.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "keuzes",
+      "eyebrow": "Routekeuze",
+      "title": "Drie ankers voor je bezoek",
+      "cards": [
+        {
+          "title": "Dag 1: landen",
+          "description": "Maak vooraf één duidelijke keuze en laat actuele informatie leidend zijn.",
+          "label": "Stap 1"
+        },
+        {
+          "title": "Dag 2: oude stad",
+          "description": "Bouw rust en respect in; een volle checklist maakt de ervaring niet beter.",
+          "label": "Stap 2"
+        },
+        {
+          "title": "Dag 3 en 4: modern en lokaal",
+          "description": "Koppel alleen een logisch vervolg en vermijd onnodig heen-en-weer reizen.",
+          "label": "Stap 3"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "actueel",
+      "title": "Controleer vlak voor vertrek",
+      "items": [
+        "Officiële opening of locatie op de bezoekdag",
+        "Kleding, toegang en lokale gedragsregels",
+        "Heen- en terugroute met voldoende marge",
+        "Weer, hitte en persoonlijke belastbaarheid"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Bangkok in vier dagen",
+      "items": [
+        {
+          "question": "Hoe plan je Bangkok in vier dagen het best?",
+          "answer": "Kies één hoofddoel, controleer officiële bezoekersinformatie en combineer alleen locaties die geografisch logisch bij elkaar liggen."
+        },
+        {
+          "question": "Welke informatie moet je opnieuw controleren?",
+          "answer": "Opening, toegang, vervoer en tijdelijke maatregelen kunnen wijzigen. De gelinkte primaire bron blijft leidend."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bron voor actuele details",
+      "items": [
+        {
+          "title": "Bangkok destination",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219",
+          "checkedAt": "2026-08-01",
+          "note": "Owner- en actualiteitscontrole voor deze route."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-best-city-asia-2026-destinasian-award",
+  "route": "/nl/blog/bangkok-best-city-asia-2026-destinasian-award/",
+  "cluster": "news-trends",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bangkok beste stad van Azië 2026: wat zegt de award?",
+    "description": "Bangkok won Best City in Asia bij DestinAsian 2026. Bekijk wat de lezersprijs meet en vertaal hem naar een passende stedentrip.",
+    "primaryKeyword": "Bangkok beste stad Azië 2026",
+    "secondaryKeywords": ["DestinAsian Bangkok 2026", "Bangkok award", "Bangkok stedentrip"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/bangkok-best-city-asia-2026-destinasian-award/"
+  },
+  "hero": {
+    "eyebrow": "Readers’ Choice Award 2026",
+    "title": "Bangkok won Best City in Asia",
+    "accent": "Maak er jouw beste stedentrip van",
+    "description": "De lezersprijs bevestigt populariteit, maar je wijk, route en reistempo bepalen of Bangkok bij jou past.",
+    "image": "/images/redesign/editorial/bangkok-best-city-asia-2026-destinasian-award-hero.webp",
+    "imageAlt": "Bangkok bij avond met Wat Arun, de Chao Phraya en de moderne skyline",
+    "primaryCta": { "label": "Wat won Bangkok?", "href": "#award" },
+    "secondaryCta": { "label": "Plan je stad", "href": "#keuzehulp" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "confirmed",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Bangkok won in maart de DestinAsian Readers’ Choice Award 2026 voor Best City in Asia, voor de derde opeenvolgende keer. Het is een lezersprijs, geen universele geschiktheidstest.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "award",
+      "tone": "saffron",
+      "title": "Een echte award met een duidelijke grens",
+      "description": "Meer dan één miljoen stemmen van 45.000 lezers werden over 38 categorieën uitgebracht. De uitslag meet voorkeur binnen die verkiezing, niet iedere praktische kwaliteit van de stad."
+    },
+    {
+      "kind": "card-grid",
+      "id": "keuzehulp",
+      "title": "Waar Bangkok sterk in is",
+      "cards": [
+        { "title": "Rivier en cultuur", "description": "Cluster tempels, historische wijken en riviervervoer in één gebied." },
+        { "title": "Eten", "description": "Kies per maaltijd één wijk en controleer opening en bereikbaarheid." },
+        { "title": "Stedelijk vervoer", "description": "BTS en MRT helpen, maar niet iedere plek ligt naast een station." },
+        { "title": "Hotelkeuze", "description": "Kies eerst de wijk op basis van je dagroute en vergelijk daarna live voorwaarden." }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over de award",
+      "items": [
+        { "question": "Welke prijs won Bangkok?", "answer": "Best City in Asia bij de DestinAsian Readers’ Choice Awards 2026." },
+        { "question": "Was dit een juryprijs?", "answer": "TAT beschrijft het als lezersverkiezing met stemmen over 38 categorieën." },
+        { "question": "Is Bangkok daardoor voor iedereen de beste stad?", "answer": "Nee. Reistempo, interesses, toegankelijkheid, hitte en vervolgroute blijven persoonlijk." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Award- en bestemmingsbronnen",
+      "items": [
+        { "title": "DestinAsian Readers’ Choice Awards 2026", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/03/bangkok-leads-thailand-success-at-2026-destinasian-readers-choice-awards/", "checkedAt": "2026-08-01" },
+        { "title": "Bangkok destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/bangkok/219", "checkedAt": "2026-08-01" },
+        { "title": "Current MRT routes", "publisher": "Mass Rapid Transit Authority of Thailand", "url": "https://www.mrta.co.th/en/mrt-route", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "plan-bangkok",
+      "title": "Van ranglijst naar reisplan",
+      "items": [
+        { "title": "Bangkok-gids", "description": "Plan wijken en dagen met realistische afstanden.", "href": "/nl/city/bangkok/" },
+        { "title": "Waar overnachten?", "description": "Laat je route de hotelwijk bepalen.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+        { "title": "Bangkok-hotels", "description": "Vergelijk verblijven en actuele voorwaarden.", "href": "/nl/best-hotels/bangkok/" }
+      ]
+    }
+  ]
+}

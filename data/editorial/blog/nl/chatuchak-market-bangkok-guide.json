@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "chatuchak-market-bangkok-guide",
+  "route": "/nl/blog/chatuchak-market-bangkok-guide/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Chatuchak Market | Go2Thailand",
+    "description": "Kies vooraf je categorieën, ingang en terugroute; de markt is te groot om zonder prioriteiten efficiënt te bezoeken.",
+    "primaryKeyword": "chatuchak market bangkok",
+    "secondaryKeywords": [
+      "chatuchak market bangkok bezoeken",
+      "chatuchak market bangkok tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/chatuchak-market-bangkok-guide/"
+  },
+  "hero": {
+    "eyebrow": "Bangkok met context",
+    "title": "Chatuchak Market",
+    "accent": "Shop met een plan",
+    "description": "Kies vooraf je categorieën, ingang en terugroute; de markt is te groot om zonder prioriteiten efficiënt te bezoeken.",
+    "image": "/images/redesign/editorial/chatuchak-market-bangkok-guide-hero.webp",
+    "imageAlt": "Overdekte winkelgangen en kleurrijke kramen op Chatuchak Market in Bangkok",
+    "primaryCta": {
+      "label": "Plan je bezoek",
+      "href": "#keuzes"
+    },
+    "secondaryCta": {
+      "label": "Actuele checks",
+      "href": "#actueel"
+    }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "plan",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Chatuchak werkt het best met een korte boodschappenlijst, een herkenbaar ontmoetingspunt en een actuele markt- en OV-check.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "keuzes",
+      "eyebrow": "Routekeuze",
+      "title": "Drie ankers voor je bezoek",
+      "cards": [
+        {
+          "title": "Kies twee zones",
+          "description": "Maak vooraf één duidelijke keuze en laat actuele informatie leidend zijn.",
+          "label": "Stap 1"
+        },
+        {
+          "title": "Plan een pauze",
+          "description": "Bouw rust en respect in; een volle checklist maakt de ervaring niet beter.",
+          "label": "Stap 2"
+        },
+        {
+          "title": "Leg de terugweg vast",
+          "description": "Koppel alleen een logisch vervolg en vermijd onnodig heen-en-weer reizen.",
+          "label": "Stap 3"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "actueel",
+      "title": "Controleer vlak voor vertrek",
+      "items": [
+        "Officiële opening of locatie op de bezoekdag",
+        "Kleding, toegang en lokale gedragsregels",
+        "Heen- en terugroute met voldoende marge",
+        "Weer, hitte en persoonlijke belastbaarheid"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Chatuchak Market",
+      "items": [
+        {
+          "question": "Hoe plan je Chatuchak Market het best?",
+          "answer": "Kies één hoofddoel, controleer officiële bezoekersinformatie en combineer alleen locaties die geografisch logisch bij elkaar liggen."
+        },
+        {
+          "question": "Welke informatie moet je opnieuw controleren?",
+          "answer": "Opening, toegang, vervoer en tijdelijke maatregelen kunnen wijzigen. De gelinkte primaire bron blijft leidend."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bron voor actuele details",
+      "items": [
+        {
+          "title": "Chatuchak Market",
+          "publisher": "Bangkok Metropolitan Administration",
+          "url": "https://www.bangkok.go.th/",
+          "checkedAt": "2026-08-01",
+          "note": "Owner- en actualiteitscontrole voor deze route."
+        }
+      ]
+    }
+  ]
+}

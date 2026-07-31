@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "wat-pho-bangkok-reclining-buddha",
+  "route": "/nl/blog/wat-pho-bangkok-reclining-buddha/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Wat Pho bezoeken | Go2Thailand",
+    "description": "Plan de tempel als zelfstandig complex en controleer bezoekinformatie en massageschool apart.",
+    "primaryKeyword": "wat pho bangkok",
+    "secondaryKeywords": [
+      "wat pho bangkok bezoeken",
+      "wat pho bangkok tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/wat-pho-bangkok-reclining-buddha/"
+  },
+  "hero": {
+    "eyebrow": "Bangkok met context",
+    "title": "Wat Pho bezoeken",
+    "accent": "Meer dan de liggende Boeddha",
+    "description": "Plan de tempel als zelfstandig complex en controleer bezoekinformatie en massageschool apart.",
+    "image": "/images/redesign/editorial/wat-pho-bangkok-reclining-buddha-hero.webp",
+    "imageAlt": "Tempelarchitectuur en kleurrijke chedi binnen het Wat Pho-complex in Bangkok",
+    "primaryCta": {
+      "label": "Plan je bezoek",
+      "href": "#keuzes"
+    },
+    "secondaryCta": {
+      "label": "Actuele checks",
+      "href": "#actueel"
+    }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "learn",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Reserveer tijd voor het hele tempelcomplex, niet alleen de liggende Boeddha. Controleer opening, entree en massageschool rechtstreeks bij Wat Pho.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "keuzes",
+      "eyebrow": "Routekeuze",
+      "title": "Drie ankers voor je bezoek",
+      "cards": [
+        {
+          "title": "Liggende Boeddha",
+          "description": "Maak vooraf één duidelijke keuze en laat actuele informatie leidend zijn.",
+          "label": "Stap 1"
+        },
+        {
+          "title": "Chedi en binnenplaatsen",
+          "description": "Bouw rust en respect in; een volle checklist maakt de ervaring niet beter.",
+          "label": "Stap 2"
+        },
+        {
+          "title": "Massageschool apart",
+          "description": "Koppel alleen een logisch vervolg en vermijd onnodig heen-en-weer reizen.",
+          "label": "Stap 3"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "actueel",
+      "title": "Controleer vlak voor vertrek",
+      "items": [
+        "Officiële opening of locatie op de bezoekdag",
+        "Kleding, toegang en lokale gedragsregels",
+        "Heen- en terugroute met voldoende marge",
+        "Weer, hitte en persoonlijke belastbaarheid"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Wat Pho bezoeken",
+      "items": [
+        {
+          "question": "Hoe plan je Wat Pho bezoeken het best?",
+          "answer": "Kies één hoofddoel, controleer officiële bezoekersinformatie en combineer alleen locaties die geografisch logisch bij elkaar liggen."
+        },
+        {
+          "question": "Welke informatie moet je opnieuw controleren?",
+          "answer": "Opening, toegang, vervoer en tijdelijke maatregelen kunnen wijzigen. De gelinkte primaire bron blijft leidend."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bron voor actuele details",
+      "items": [
+        {
+          "title": "Wat Pho visitor information",
+          "publisher": "Wat Pho",
+          "url": "https://watpho.com/en/home",
+          "checkedAt": "2026-08-01",
+          "note": "Owner- en actualiteitscontrole voor deze route."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "night-markets-food-lovers-bangkok-chiang-mai-phuket",
+  "route": "/nl/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Nachtmarkten voor foodliefhebbers | Go2Thailand",
+    "description": "Bangkok, Chiang Mai en Phuket hebben verschillende marktstijlen. Kies op locatie, openingsdag en voedselveiligheid, niet op een absolute beste-lijst.",
+    "primaryKeyword": "nachtmarkten thailand eten",
+    "secondaryKeywords": [
+      "nachtmarkten thailand eten tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/"
+  },
+  "hero": {
+    "eyebrow": "Eten met context",
+    "title": "Nachtmarkten voor foodliefhebbers",
+    "accent": "Kies een markt, geen ranglijst",
+    "description": "Bangkok, Chiang Mai en Phuket hebben verschillende marktstijlen. Kies op locatie, openingsdag en voedselveiligheid, niet op een absolute beste-lijst.",
+    "image": "/images/redesign/editorial/night-markets-food-lovers-bangkok-chiang-mai-phuket-hero.webp",
+    "imageAlt": "Route-eigen sfeerbeeld bij nachtmarkten voor foodliefhebbers",
+    "primaryCta": {
+      "label": "Maak je keuze",
+      "href": "#keuze"
+    },
+    "secondaryCta": {
+      "label": "Veilig eten",
+      "href": "#veilig"
+    }
+  },
+  "layout": {
+    "kind": "food-guide",
+    "foodMode": "market",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "Bangkok, Chiang Mai en Phuket hebben verschillende marktstijlen. Kies op locatie, openingsdag en voedselveiligheid, niet op een absolute beste-lijst.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "keuze",
+      "title": "Kies op wat je werkelijk krijgt",
+      "options": [
+        {
+          "title": "Versbereiding",
+          "description": "Kijk naar omloop, temperatuur en bereiding.",
+          "label": "Kwaliteit"
+        },
+        {
+          "title": "Ingrediënten",
+          "description": "Vraag naar allergenen en verborgen smaakmakers.",
+          "label": "Veiligheid"
+        },
+        {
+          "title": "Actuele context",
+          "description": "Controleer menu, locatie en opening opnieuw.",
+          "label": "Nu"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "veilig",
+      "title": "Veilig proeven",
+      "items": [
+        "Zichtbaar vers bereid",
+        "Allergenen expliciet besproken",
+        "Veilig drinkwater",
+        "Kleine portie bij twijfel"
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bron voor actuele context",
+      "items": [
+        {
+          "title": "Tourism Authority of Thailand",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/",
+          "checkedAt": "2026-08-01",
+          "note": "Primaire voedselveiligheids- of toerismecontext."
+        }
+      ]
+    }
+  ]
+}

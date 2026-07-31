@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T23:15:02.390Z
+**Generated:** 2026-07-31T23:37:29.467Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 667 | 667 | 0 | 408 | 105 | 230 | 230 |
+| NL | 700 | 667 | 667 | 0 | 426 | 105 | 230 | 200 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -304,12 +304,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:editorial
 
-- Family accepted: **23/253**
-- Exact owners registered: **32/253**
+- Family accepted: **53/253**
+- Exact owners registered: **50/253**
 - Closed: **no**
-- Remaining routes: **230** (first 12 shown)
-- Sample: `/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/`, `/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/`, `/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/`, `/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/`, `/nl/blog/phuket-weer/`, `/nl/blog/bangkok-travel-tips-reddit/`, `/nl/blog/songkran-2026-survival-guide-what-to-know/`, `/nl/blog/where-to-stay-chiang-mai-neighborhoods/`, `/nl/blog/grand-palace-bangkok-complete-guide-2026/`, `/nl/blog/bangkok-samyan-street-food-tour-review-klook-2026/`, `/nl/blog/southern-thai-food-fiery-flavors/`, `/nl/blog/sanctuary-of-truth-pattaya-wooden-temple/`
-- Evidence: `seo/audits/nl-blog-hub-owner-2026-08-01.md`, `seo/research/nl/2026-08-01-thailand-blog-web-serp-refresh.md`, `seo/audits/nl-editorial-pilot-foundation-2026-07-31.md`, `seo/research/nl/2026-07-31-editorial-pilot-current-web.md`, `seo/audits/nl-editorial-pilot-body-review-2026-08-01.md`, `seo/audits/nl-editorial-events-batch-1-2026-08-01.md`, `seo/audits/nl-editorial-destination-batch-1-2026-08-01.md`, `seo/audits/nl-editorial-planning-batch-1-2026-08-01.md`, `seo/research/nl/2026-08-01-editorial-events-batch-1-current-web.md`, `seo/research/nl/2026-08-01-editorial-destination-batch-1-current-web.md`, `seo/research/nl/2026-08-01-editorial-planning-batch-1-current-web.md`
+- Remaining routes: **200** (first 12 shown)
+- Sample: `/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/`, `/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/`, `/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/`, `/nl/blog/phuket-weer/`, `/nl/blog/bangkok-travel-tips-reddit/`, `/nl/blog/songkran-2026-survival-guide-what-to-know/`, `/nl/blog/where-to-stay-chiang-mai-neighborhoods/`, `/nl/blog/bangkok-samyan-street-food-tour-review-klook-2026/`, `/nl/blog/sanctuary-of-truth-pattaya-wooden-temple/`, `/nl/blog/anantara-siam-bangkok-50-million-renovation-garden-suites-2026/`, `/nl/blog/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026/`, `/nl/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/`
+- Evidence: `seo/audits/nl-blog-hub-owner-2026-08-01.md`, `seo/research/nl/2026-08-01-thailand-blog-web-serp-refresh.md`, `seo/audits/nl-editorial-pilot-foundation-2026-07-31.md`, `seo/research/nl/2026-07-31-editorial-pilot-current-web.md`, `seo/audits/nl-editorial-pilot-body-review-2026-08-01.md`, `seo/audits/nl-editorial-events-batch-1-2026-08-01.md`, `seo/audits/nl-editorial-destination-batch-1-2026-08-01.md`, `seo/audits/nl-editorial-planning-batch-1-2026-08-01.md`, `seo/research/nl/2026-08-01-editorial-events-batch-1-current-web.md`, `seo/research/nl/2026-08-01-editorial-destination-batch-1-current-web.md`, `seo/research/nl/2026-08-01-editorial-planning-batch-1-current-web.md`, `seo/audits/nl-editorial-bangkok-evergreen-batch-2-2026-08-01.md`, `seo/research/nl/2026-08-01-editorial-bangkok-evergreen-batch-2-current-web.md`, `seo/audits/nl-editorial-food-evergreen-batch-3-2026-08-01.md`, `seo/research/nl/2026-08-01-editorial-food-evergreen-batch-3-current-web.md`, `seo/audits/nl-editorial-events-batch-2-2026-08-01.md`, `seo/research/nl/2026-08-01-editorial-events-batch-2-current-web.md`, `seo/audits/nl-editorial-news-lifecycle-batch-2-2026-08-01.md`, `seo/research/nl/2026-08-01-editorial-news-lifecycle-batch-2-current-web.md`
 
 ### nl:final-owner-batch
 
