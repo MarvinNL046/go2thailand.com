@@ -20,6 +20,7 @@ import HealthHospitalsThailandGuideNl from '../../components/editorial/HealthHos
 import ThailandWithKidsGuideNl from '../../components/editorial/ThailandWithKidsGuideNl';
 import SoloFemaleThailandGuideNl from '../../components/editorial/SoloFemaleThailandGuideNl';
 import ThailandAnimalRiskGuideNl from '../../components/editorial/ThailandAnimalRiskGuideNl';
+import ThailandNationalParksGuideNl from '../../components/editorial/ThailandNationalParksGuideNl';
 
 // --- Type definitions ---
 
@@ -371,6 +372,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <ThailandAnimalRiskGuideNl />;
   }
 
+  if (lang === 'nl' && guide.slug === 'national-parks-thailand') {
+    return <ThailandNationalParksGuideNl />;
+  }
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: lang === 'nl' ? 'Reisgidsen' : 'Travel Guides', href: '/travel-guides/' },
@@ -686,6 +691,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Het beste dierencontact is vaak géén contact.' },
             intro: { ...guide.hero.intro, nl: 'Herken blootstellingssituaties en volg na een incident een professionele medische route.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'national-parks-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Nationale parken in Thailand' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Nationale parken Thailand: welk park past bij jou?' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Kies een nationaal park op landschap en logistiek en controleer actuele status, route, weer, ranger, toegang en alternatief.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Het beste park past bij je route en de actuele dagcondities.' },
+            intro: { ...guide.hero.intro, nl: 'Vergelijk parkprofielen en controleer status, zone, weer, toegang en ranger voordat je vertrekt.' },
           },
           sections: [],
           faqs: [],
