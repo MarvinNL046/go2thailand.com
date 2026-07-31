@@ -16,6 +16,7 @@ import { SoloFemaleThailandGuideEn } from '../../components/safety/SoloFemaleTha
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 import ExpatLongStayThailandGuideNl from '../../components/editorial/ExpatLongStayThailandGuideNl';
+import HealthHospitalsThailandGuideNl from '../../components/editorial/HealthHospitalsThailandGuideNl';
 
 // --- Type definitions ---
 
@@ -351,6 +352,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <ExpatLongStayThailandGuideNl />;
   }
 
+  if (lang === 'nl' && guide.slug === 'health-hospitals-thailand') {
+    return <HealthHospitalsThailandGuideNl />;
+  }
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: lang === 'nl' ? 'Reisgidsen' : 'Travel Guides', href: '/travel-guides/' },
@@ -566,6 +571,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Van proefbasis naar een besluit dat ook buiten de vakantiebubbel werkt.' },
             intro: { ...guide.hero.intro, nl: 'Orden verblijfsstatus, woning, zorg, geld en dagelijkse mobiliteit vóór je langdurige verplichtingen aangaat.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'health-hospitals-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Zorg en ziekenhuizen in Thailand' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Ziekenhuis in Thailand: zorg, spoednummer en verzekering' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Wat doe je als toerist bij ziekte of ziekenhuisopname in Thailand? Gebruik 1669 bij spoed en volg de praktische zorgroute.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Van 1669 bij medische spoed tot de documenten voor je verzekeraar.' },
+            intro: { ...guide.hero.intro, nl: 'Vind de juiste hulpketen zonder vaste prijsclaim, ziekenhuisranglijst of zelfdiagnose.' },
           },
           sections: [],
           faqs: [],
