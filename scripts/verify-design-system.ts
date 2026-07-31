@@ -719,10 +719,11 @@ const hotelRegistry = read('data/hotels/nl/index.ts');
 for (const city of ['bangkok', 'krabi', 'phuket']) {
   if (!hotelRegistry.includes(`${city}:`)) failures.push(`The NL hotel registry does not include ${city}`);
 }
-if (!hotelRegistry.includes("'chiang-mai':")) failures.push('The NL hotel registry does not include chiang-mai');
-if (!hotelRegistry.includes("'koh-samui':")) failures.push('The NL hotel registry does not include koh-samui');
-if (!hotelRegistry.includes("'khao-sok':")) failures.push('The NL hotel registry does not include khao-sok');
-if (!hotelRegistry.includes("'koh-tao':")) failures.push('The NL hotel registry does not include koh-tao');
+for (const city of ['chiang-mai', 'koh-samui', 'khao-sok', 'koh-tao']) {
+  if (!hotelRegistry.includes(`'${city}':`) && !hotelRegistry.includes(`"${city}":`)) {
+    failures.push(`The NL hotel registry does not include ${city}`);
+  }
+}
 for (const dataFile of ['data/hotels/nl/bangkok.ts', 'data/hotels/nl/chiang-mai.ts', 'data/hotels/nl/khao-sok.ts', 'data/hotels/nl/koh-samui.ts', 'data/hotels/nl/koh-tao.ts', 'data/hotels/nl/krabi.ts', 'data/hotels/nl/phuket.ts']) {
   if (!read(dataFile).includes('areaDecisionNote:')) failures.push(`${dataFile} does not define a destination-specific area decision note`);
 }

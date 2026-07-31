@@ -1,10 +1,21 @@
-import type { ReactNode } from 'react';
+import type { ReactNode } from "react";
 
 interface AffiliateDisclosureProps {
-  children: ReactNode;
+  children?: ReactNode;
+  text?: string;
   className?: string;
 }
 
-export function AffiliateDisclosure({ children, className = '' }: AffiliateDisclosureProps) {
-  return <p className={`text-[10px] font-medium leading-4 text-charcoal/72 ${className}`.trim()}>{children}</p>;
+export function AffiliateDisclosure({
+  children,
+  text,
+  className = "",
+}: AffiliateDisclosureProps) {
+  return (
+    <p
+      className={`text-[10px] font-medium leading-4 text-charcoal/72 ${className}`.trim()}
+    >
+      {children ?? text}
+    </p>
+  );
 }
