@@ -24,16 +24,21 @@
         "/nl/best-hotels/chumphon/",
         "/nl/best-hotels/hua-hin/",
         "/nl/best-hotels/kanchanaburi/",
-        "/nl/best-hotels/surat-thani/"
+        "/nl/best-hotels/surat-thani/",
+        "/nl/best-hotels/pai/",
+        "/nl/best-hotels/mae-hong-son/",
+        "/nl/best-hotels/lampang/",
+        "/nl/best-hotels/khon-kaen/"
       ],
       "evidence": [
         "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
         "seo/audits/nl-phuket-area-hotels-family-2026-07-31.md",
         "seo/audits/nl-phuket-hotel-categories-2026-07-31.md",
         "seo/audits/nl-city-hotel-guides-batch-1-2026-07-31.md",
-        "seo/audits/nl-city-hotel-guides-batch-2-2026-07-31.md"
+        "seo/audits/nl-city-hotel-guides-batch-2-2026-07-31.md",
+        "seo/audits/nl-city-hotel-guides-batch-3-2026-07-31.md"
       ],
-      "note": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and nine independently researched destination hotel owners are premium and accepted; remaining destination guides and administratively grouped hotel profiles remain."
+      "note": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and thirteen independently researched destination hotel owners are premium and accepted; remaining destination guides and administratively grouped hotel profiles remain."
     },
     {
       "key": "nl:destination-guide",
