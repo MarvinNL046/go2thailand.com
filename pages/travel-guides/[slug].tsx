@@ -19,6 +19,7 @@ import ExpatLongStayThailandGuideNl from '../../components/editorial/ExpatLongSt
 import HealthHospitalsThailandGuideNl from '../../components/editorial/HealthHospitalsThailandGuideNl';
 import ThailandWithKidsGuideNl from '../../components/editorial/ThailandWithKidsGuideNl';
 import SoloFemaleThailandGuideNl from '../../components/editorial/SoloFemaleThailandGuideNl';
+import ThailandAnimalRiskGuideNl from '../../components/editorial/ThailandAnimalRiskGuideNl';
 
 // --- Type definitions ---
 
@@ -366,6 +367,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <SoloFemaleThailandGuideNl />;
   }
 
+  if (lang === 'nl' && guide.slug === 'dangerous-animals-thailand') {
+    return <ThailandAnimalRiskGuideNl />;
+  }
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: lang === 'nl' ? 'Reisgidsen' : 'Travel Guides', href: '/travel-guides/' },
@@ -656,6 +661,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Maak elke overgang controleerbaar: aankomst, rit, avond en terugweg.' },
             intro: { ...guide.hero.intro, nl: 'Verklein risico’s met actuele routechecks, vaste ankerpunten en een concrete hulpketen.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'dangerous-animals-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Dierenrisico’s in Thailand' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Gevaarlijke dieren Thailand: voorkomen en handelen' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Voorkom contact met apen, honden, slangen en zeeleven en volg na een beet of krab de officiële medische hulproute.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Het beste dierencontact is vaak géén contact.' },
+            intro: { ...guide.hero.intro, nl: 'Herken blootstellingssituaties en volg na een incident een professionele medische route.' },
           },
           sections: [],
           faqs: [],
