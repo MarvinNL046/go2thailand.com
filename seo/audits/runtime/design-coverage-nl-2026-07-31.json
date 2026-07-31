@@ -1,69 +1,79 @@
 {
-  "capturedAt": "2026-07-31T00:38:12.542Z",
+  "capturedAt": "2026-07-31T17:08:50.438Z",
   "baseUrl": "http://localhost:3000",
   "locales": [
     "nl"
   ],
   "summaries": {
     "nl": {
-      "total": 703,
-      "httpOk": 703,
-      "trackedOwners": 175,
-      "amazonRoutes": 36,
-      "amazonLinks": 72,
+      "total": 700,
+      "httpOk": 667,
+      "trackedOwners": 309,
+      "amazonRoutes": 105,
+      "amazonLinks": 230,
       "amazonSlugs": [
+        "anker-powercore-10k",
+        "badger-anti-bug-spray",
+        "earth-pak-dry-bag",
+        "hagon-rain-ponchos",
         "hovsiyla-quick-dry-shirt",
+        "momax-travel-adapter",
+        "neutrogena-beach-defense-spf70",
+        "rainleaf-travel-towel",
+        "simari-water-shoes",
         "simple-thai-food-cookbook",
         "sun-cube-wide-brim-hat",
         "thai-granite-mortar-eight-inch",
-        "venture-pal-packable-backpack"
+        "venture-pal-packable-backpack",
+        "zojirushi-six-cup-rice-cooker"
       ],
       "byCoverage": {
-        "premium-signature": 703
+        "premium-signature": 667,
+        "no-signature": 33
       },
       "byTemplateOwner": {
         "editorial": {
           "total": 254,
-          "premium": 254,
+          "premium": 253,
           "hybrid": 0,
-          "none": 0,
+          "none": 1,
           "trackedOwners": 12,
-          "amazonRoutes": 0,
-          "amazonLinks": 0
+          "amazonRoutes": 6,
+          "amazonLinks": 17
         },
         "hotel-guide": {
           "total": 82,
           "premium": 82,
           "hybrid": 0,
           "none": 0,
-          "trackedOwners": 7,
+          "trackedOwners": 26,
           "amazonRoutes": 0,
           "amazonLinks": 0
         },
         "food-drink": {
           "total": 73,
-          "premium": 73,
+          "premium": 71,
           "hybrid": 0,
-          "none": 0,
+          "none": 2,
           "trackedOwners": 8,
-          "amazonRoutes": 0,
-          "amazonLinks": 0
+          "amazonRoutes": 46,
+          "amazonLinks": 92
         },
         "destination-subpillar": {
           "total": 73,
           "premium": 73,
           "hybrid": 0,
           "none": 0,
-          "trackedOwners": 45,
-          "amazonRoutes": 34,
-          "amazonLinks": 68
+          "trackedOwners": 73,
+          "amazonRoutes": 39,
+          "amazonLinks": 92
         },
         "commercial-landing": {
           "total": 53,
-          "premium": 53,
+          "premium": 52,
           "hybrid": 0,
-          "none": 0,
-          "trackedOwners": 1,
+          "none": 1,
+          "trackedOwners": 53,
           "amazonRoutes": 0,
           "amazonLinks": 0
         },
@@ -78,63 +88,63 @@
         },
         "manual-review": {
           "total": 32,
-          "premium": 32,
+          "premium": 19,
           "hybrid": 0,
-          "none": 0,
+          "none": 13,
           "trackedOwners": 5,
-          "amazonRoutes": 0,
-          "amazonLinks": 0
+          "amazonRoutes": 2,
+          "amazonLinks": 2
         },
         "travel-guide": {
-          "total": 28,
-          "premium": 28,
+          "total": 25,
+          "premium": 19,
           "hybrid": 0,
-          "none": 0,
-          "trackedOwners": 5,
-          "amazonRoutes": 0,
-          "amazonLinks": 0
+          "none": 6,
+          "trackedOwners": 24,
+          "amazonRoutes": 8,
+          "amazonLinks": 19
         },
         "itinerary": {
           "total": 15,
-          "premium": 15,
+          "premium": 14,
           "hybrid": 0,
-          "none": 0,
+          "none": 1,
           "trackedOwners": 15,
           "amazonRoutes": 0,
           "amazonLinks": 0
         },
         "phuket-location": {
           "total": 15,
-          "premium": 15,
+          "premium": 13,
           "hybrid": 0,
-          "none": 0,
-          "trackedOwners": 0,
-          "amazonRoutes": 0,
-          "amazonLinks": 0
-        },
-        "island": {
-          "total": 14,
-          "premium": 14,
-          "hybrid": 0,
-          "none": 0,
-          "trackedOwners": 13,
+          "none": 2,
+          "trackedOwners": 15,
           "amazonRoutes": 0,
           "amazonLinks": 0
         },
         "practical": {
           "total": 14,
-          "premium": 14,
+          "premium": 12,
           "hybrid": 0,
-          "none": 0,
+          "none": 2,
           "trackedOwners": 14,
-          "amazonRoutes": 2,
-          "amazonLinks": 4
+          "amazonRoutes": 3,
+          "amazonLinks": 5
+        },
+        "island": {
+          "total": 13,
+          "premium": 12,
+          "hybrid": 0,
+          "none": 1,
+          "trackedOwners": 13,
+          "amazonRoutes": 1,
+          "amazonLinks": 3
         },
         "region": {
           "total": 5,
-          "premium": 5,
+          "premium": 4,
           "hybrid": 0,
-          "none": 0,
+          "none": 1,
           "trackedOwners": 5,
           "amazonRoutes": 0,
           "amazonLinks": 0
@@ -159,23 +169,32 @@
         },
         "homepage": {
           "total": 1,
-          "premium": 1,
+          "premium": 0,
           "hybrid": 0,
-          "none": 0,
+          "none": 1,
           "trackedOwners": 1,
           "amazonRoutes": 0,
           "amazonLinks": 0
         },
         "destination-index": {
           "total": 1,
-          "premium": 1,
+          "premium": 0,
           "hybrid": 0,
-          "none": 0,
+          "none": 1,
           "trackedOwners": 1,
           "amazonRoutes": 0,
           "amazonLinks": 0
         },
         "transport": {
+          "total": 1,
+          "premium": 0,
+          "hybrid": 0,
+          "none": 1,
+          "trackedOwners": 1,
+          "amazonRoutes": 0,
+          "amazonLinks": 0
+        },
+        "digital-safety-guide": {
           "total": 1,
           "premium": 1,
           "hybrid": 0,
@@ -209,18 +228,14 @@
       "priority": "P0",
       "decision_status": "provisional",
       "decision_note": "Kernhub; behouden en via het gedeelde designsysteem verbeteren.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 4,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -234,20 +249,14 @@
       "priority": "P0",
       "decision_status": "provisional",
       "decision_note": "Kernhub; behouden en via het gedeelde designsysteem verbeteren.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -261,20 +270,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -288,19 +291,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
+      "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -314,20 +312,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -341,20 +333,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -368,19 +354,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -394,20 +375,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -421,19 +396,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -447,19 +417,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -473,20 +438,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -500,20 +459,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -527,20 +480,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -554,19 +501,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
+      "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -582,15 +524,16 @@
       "decision_note": "Geen parallelle best-hotels-route gevonden; bevestig intentie via DFS.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -606,20 +549,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -633,19 +570,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -659,19 +591,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -685,19 +612,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -711,19 +633,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -737,19 +654,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -763,19 +675,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -789,19 +696,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -815,19 +717,14 @@
       "priority": "P3",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -841,20 +738,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -868,20 +759,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -895,19 +780,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": false,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -921,20 +801,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -948,19 +822,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
+      "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -974,46 +843,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
       "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
-    },
-    {
-      "locale": "nl",
-      "url": "https://go2-thailand.com/nl/thailand-index/transport/",
-      "path": "/nl/thailand-index/transport/",
-      "translation_key": "/thailand-index/transport/",
-      "page_type": "travel-guide",
-      "has_language_pair": "yes",
-      "template_owner": "travel-guide",
-      "recommended_action": "freshness-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -1027,19 +864,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
+      "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -1053,19 +885,14 @@
       "priority": "P2",
       "decision_status": "provisional",
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
+      "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -1144,35 +971,13 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
-    },
-    {
-      "locale": "nl",
-      "url": "https://go2-thailand.com/nl/thailand-itinerary/",
-      "path": "/nl/thailand-itinerary/",
-      "translation_key": "/thailand-itinerary/",
-      "page_type": "travel-guide",
-      "has_language_pair": "yes",
-      "template_owner": "travel-guide",
-      "recommended_action": "freshness-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 6,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "section-divider",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 4,
+      "amazonSlugs": [
+        "momax-travel-adapter",
+        "anker-powercore-10k",
+        "venture-pal-packable-backpack",
+        "hagon-rain-ponchos"
+      ]
     },
     {
       "locale": "nl",
@@ -1188,15 +993,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1214,15 +1020,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1240,15 +1047,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1266,15 +1074,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1292,15 +1101,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1318,15 +1128,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1344,15 +1155,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1370,15 +1182,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1396,15 +1209,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1422,15 +1236,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1448,15 +1263,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1474,15 +1290,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1494,10 +1311,10 @@
       "page_type": "phuket-location",
       "has_language_pair": "yes",
       "template_owner": "phuket-location",
-      "recommended_action": "template-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
+      "recommended_action": "keep-improve",
+      "priority": "P1",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL DFS/SERP/PAA-owner vernieuwd met premium tweetalige area-template primaire bronnen actuele claims en volledige responsive QA.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -1508,7 +1325,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1520,23 +1337,18 @@
       "page_type": "phuket-location",
       "has_language_pair": "yes",
       "template_owner": "phuket-location",
-      "recommended_action": "template-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
+      "recommended_action": "keep-improve",
+      "priority": "P1",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL activiteitenowner met premium spoke-template vijfstappenroute actuele bronnen en volledige responsive QA.",
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
+      "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -1546,23 +1358,18 @@
       "page_type": "phuket-location",
       "has_language_pair": "yes",
       "template_owner": "phuket-location",
-      "recommended_action": "template-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
+      "recommended_action": "keep-improve",
+      "priority": "P1",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL Sunday Walking Street-owner met premium spoke-template actuele marktgrenzen primaire bronnen en volledige responsive QA.",
+      "status": null,
+      "coverage": "no-signature",
+      "markerCount": 0,
+      "markers": [],
+      "trackedOwner": true,
       "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonSlugs": [],
+      "error": "This operation was aborted"
     },
     {
       "locale": "nl",
@@ -1578,15 +1385,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1604,15 +1412,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1630,15 +1439,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1656,15 +1466,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1682,15 +1493,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1708,15 +1520,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1734,15 +1547,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1760,15 +1574,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1786,15 +1601,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1812,15 +1628,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1838,15 +1655,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1864,15 +1682,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1890,15 +1709,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1916,15 +1736,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1942,15 +1763,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1968,15 +1790,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -1994,15 +1817,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2020,15 +1844,16 @@
       "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2748,15 +2573,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2774,15 +2600,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2800,15 +2627,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2826,15 +2654,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2852,15 +2681,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2878,15 +2708,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2904,15 +2735,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2930,15 +2762,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2956,15 +2789,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -2982,15 +2816,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3008,15 +2843,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3034,15 +2870,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3060,15 +2897,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3086,15 +2924,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3112,15 +2951,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3138,15 +2978,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3164,15 +3005,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3190,15 +3032,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3216,15 +3059,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3242,15 +3086,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3268,15 +3113,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3294,15 +3140,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3320,15 +3167,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3346,15 +3194,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3372,15 +3221,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3398,15 +3248,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3424,15 +3275,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3450,15 +3302,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3476,15 +3329,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3502,15 +3356,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3528,15 +3383,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3554,15 +3410,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3580,15 +3437,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3606,15 +3464,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3632,15 +3491,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3658,15 +3518,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3684,15 +3545,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3710,15 +3572,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3736,15 +3599,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -3762,15 +3626,16 @@
       "decision_note": "Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -5037,8 +4902,12 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 3,
+      "amazonSlugs": [
+        "earth-pak-dry-bag",
+        "simari-water-shoes",
+        "rainleaf-travel-towel"
+      ]
     },
     {
       "locale": "nl",
@@ -5064,8 +4933,10 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 1,
+      "amazonSlugs": [
+        "anker-powercore-10k"
+      ]
     },
     {
       "locale": "nl",
@@ -5143,8 +5014,10 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 1,
+      "amazonSlugs": [
+        "anker-powercore-10k"
+      ]
     },
     {
       "locale": "nl",
@@ -5196,8 +5069,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5223,8 +5099,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5250,8 +5129,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5277,8 +5159,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5304,8 +5189,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5331,8 +5219,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "zojirushi-six-cup-rice-cooker"
+      ]
     },
     {
       "locale": "nl",
@@ -5358,8 +5249,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5385,8 +5279,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5412,8 +5309,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5439,8 +5339,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5466,8 +5369,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5493,8 +5399,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5520,8 +5429,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5547,8 +5459,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5574,8 +5489,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5601,8 +5519,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5628,8 +5549,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5655,8 +5579,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "zojirushi-six-cup-rice-cooker"
+      ]
     },
     {
       "locale": "nl",
@@ -5682,8 +5609,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5709,8 +5639,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5736,8 +5669,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5763,8 +5699,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5790,8 +5729,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5817,8 +5759,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5844,8 +5789,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5871,8 +5819,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "zojirushi-six-cup-rice-cooker"
+      ]
     },
     {
       "locale": "nl",
@@ -5898,8 +5849,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5925,8 +5879,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5952,8 +5909,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -5979,8 +5939,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6006,8 +5969,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6033,8 +5999,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6060,8 +6029,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6087,8 +6059,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6114,8 +6089,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6141,8 +6119,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6168,8 +6149,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6195,8 +6179,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "zojirushi-six-cup-rice-cooker"
+      ]
     },
     {
       "locale": "nl",
@@ -6222,8 +6209,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6249,8 +6239,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6276,8 +6269,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6303,8 +6299,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6330,8 +6329,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6357,8 +6359,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6384,8 +6389,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -6411,8 +6419,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "zojirushi-six-cup-rice-cooker"
+      ]
     },
     {
       "locale": "nl",
@@ -7253,8 +7264,13 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 4,
+      "amazonSlugs": [
+        "sun-cube-wide-brim-hat",
+        "neutrogena-beach-defense-spf70",
+        "hagon-rain-ponchos",
+        "venture-pal-packable-backpack"
+      ]
     },
     {
       "locale": "nl",
@@ -7337,8 +7353,14 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 5,
+      "amazonSlugs": [
+        "hovsiyla-quick-dry-shirt",
+        "sun-cube-wide-brim-hat",
+        "hagon-rain-ponchos",
+        "venture-pal-packable-backpack",
+        "earth-pak-dry-bag"
+      ]
     },
     {
       "locale": "nl",
@@ -7421,8 +7443,14 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 5,
+      "amazonSlugs": [
+        "hagon-rain-ponchos",
+        "neutrogena-beach-defense-spf70",
+        "badger-anti-bug-spray",
+        "earth-pak-dry-bag",
+        "rainleaf-travel-towel"
+      ]
     },
     {
       "locale": "nl",
@@ -7464,8 +7492,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Exacte Nederlandse owner voltooid met hybride zichtbare SERP/PAA-research, lokale DFS-data, primaire bronnen, premium gedeeld attractietemplate, kustzoneplanning, dierenwelzijnsgrenzen en gerichte runtime-QA op 2026-07-31; Engelse taalpartner blijft zelfstandig te onderzoeken.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -7476,7 +7504,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7503,7 +7531,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7547,8 +7575,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Exacte Nederlandse owner voltooid met hybride SERP/PAA-onderzoek, primaire bronnen, premium gedeeld attractietemplate, clusterroute en gerichte runtime-QA op 2026-07-31; Engelse taalpartner blijft zelfstandig te onderzoeken.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -7559,7 +7587,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7586,7 +7614,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7657,8 +7685,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Bestaande bespoke Nederlandse premium owner behouden: zelfstandige DFS SERP concurrent- en zes echte PAA-research, acht keuzes, eiland-versus-vasteland-intentiescheiding en familieacceptatie waren al voltooid; opnieuw desktop-mobile en runtime geverifieerd op 2026-07-31 met 17/17 interne doelen, 10/10 assets, nul waarschuwingen en p95 515 ms.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 6,
@@ -7698,8 +7726,14 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 5,
+      "amazonSlugs": [
+        "hagon-rain-ponchos",
+        "neutrogena-beach-defense-spf70",
+        "badger-anti-bug-spray",
+        "earth-pak-dry-bag",
+        "rainleaf-travel-towel"
+      ]
     },
     {
       "locale": "nl",
@@ -7741,8 +7775,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Exacte Nederlandse owner voltooid met hybride SERP/PAA-onderzoek, primaire bronnen, premium gedeeld attractietemplate, geografische lussen en gerichte runtime-QA op 2026-07-31; Engelse taalpartner blijft zelfstandig te onderzoeken.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -7753,7 +7787,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7780,7 +7814,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7824,8 +7858,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Exacte Nederlandse owner voltooid met hybride zichtbare SERP/PAA-research, lokale DFS-data, primaire TAT- en gemeentebronnen, premium gedeeld attractietemplate, werkstad-avondstad-regiodag-scheiding en gerichte runtime-QA op 2026-07-31; Engelse taalpartner blijft zelfstandig te onderzoeken.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -7836,7 +7870,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7863,7 +7897,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7907,8 +7941,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Exacte Nederlandse owner voltooid met hybride SERP/PAA-onderzoek, primaire bronnen, premium gedeeld attractietemplate, zonekeuze en gerichte runtime-QA op 2026-07-31; Engelse taalpartner blijft zelfstandig te onderzoeken.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -7919,7 +7953,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7946,7 +7980,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -7990,8 +8024,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL-owner op basis van zichtbare Google-NL SERP/PAA lokale DFS-data en primaire TAT-bronnen; premium vastelandselectie met expliciete stad-provincie-eilandgrenzen. Runtime 1/1 route 19/19 interne doelen 10/10 lokale assets en p95 1026 ms; desktop en mobiel browser-QA groen op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8002,7 +8036,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8029,7 +8063,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8073,8 +8107,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Exacte Nederlandse owner voltooid met hybride SERP/PAA-onderzoek, primaire bronnen, premium gedeeld attractietemplate, veilige valleilussen en gerichte runtime-QA op 2026-07-31; Engelse taalpartner blijft zelfstandig te onderzoeken.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8085,7 +8119,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8156,8 +8190,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL-owner op basis van zichtbare Google-NL SERP/PAA lokale DFS-data en primaire TAT-bronnen; premium stad-noordroute-Soppongselectie met expliciete Loopgrenzen. Runtime 1/1 route 18/18 interne doelen 6/6 lokale assets en p95 685 ms; desktop en mobiel browser-QA groen op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8168,7 +8202,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8239,8 +8273,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL-owner op basis van Nederlands DFS-cluster zichtbare Google-NL SERP/PAA en primaire bronnen; premium stad-Ko Kha-Chae Hom-Chae Sonselectie met dierenwelzijnsgrenzen. Runtime 1/1 route 19/19 interne doelen 8/8 lokale assets en p95 1106 ms; desktop en mobiel browser-QA groen op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8251,7 +8285,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8322,8 +8356,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL-owner op basis van DFS-cluster zichtbare Google-NL SERP/PAA en primaire bronnen; premium stad-universiteit-Phu Wiang-Chonnabotselectie zonder dierenshowpromotie. Runtime 1/1 route 19/19 interne doelen 8/8 lokale assets en p95 700 ms; desktop en mobiel browser-QA groen op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8334,7 +8368,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8405,8 +8439,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL-owner op basis van DFS-cluster zichtbare Google-NL SERP/PAA en primaire TAT/UNESCO-bronnen; premium stad-Ban Chiang-Kumphawapi-Phu Phrabatselectie met seizoensgrenzen. Runtime 1/1 route 19/19 interne doelen 8/8 lokale assets en p95 870 ms; desktop en mobiel browser-QA groen op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8417,7 +8451,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8488,8 +8522,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL-owner op basis van bestaande DFS-set actuele zichtbare Google-NL SERP/PAA en primaire TAT UNESCO DNP en TMD-bronnen; premium stad-Phimai-geopark-Khao Yai-selectie met expliciete corridor- en dierenwelzijnsgrenzen. Runtime 1/1 route 19/19 interne doelen 10/10 lokale assets en p95 1073 ms; desktop en mobiel browser-QA groen op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8500,7 +8534,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8571,8 +8605,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL-owner op basis van bestaande DFS-set actuele zichtbare Google-NL SERP/PAA en primaire TAT FAD DNP TMD en NederlandWereldwijd-bronnen; premium stad-kaarskunst-Khong Chiam-Pha Taem-Sam Phan Bokselectie met route- waterstand- festival- park- en grensgrenzen. Runtime 1/1 route 19/19 interne doelen 9/9 lokale assets en p95 1071 ms; desktop en mobiel browser-QA groen op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8583,7 +8617,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8654,8 +8688,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Exacte Nederlandse owner voltooid met hybride SERP/PAA-onderzoek, primaire bronnen, premium gedeeld attractietemplate, herinnerings- en natuurlussen en gerichte runtime-QA op 2026-07-31; Engelse taalpartner blijft zelfstandig te onderzoeken.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8666,7 +8700,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8693,7 +8727,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8737,8 +8771,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Exacte Nederlandse owner voltooid met hybride zichtbare SERP/PAA-research, lokale DFS-data, primaire bronnen, nieuwe plaatsgebonden hero, premium gedeeld attractietemplate, centrum-zuidkust-natuurdag-scheiding en gerichte runtime-QA op 2026-07-31; Engelse taalpartner blijft zelfstandig te onderzoeken.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8749,7 +8783,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8776,7 +8810,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8820,8 +8854,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nederlandse attractie-owner met zeven erfgoed- en seizoenskeuzes, drie routedieptes, acht PAA-antwoorden, 19/19 interne doelen, 7/7 lokale assets, p95 781 ms en groene desktop-mobile QA op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8832,7 +8866,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8903,8 +8937,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nederlandse attractie-owner met zeven stad- en provincie-keuzes, drie routedieptes, acht PAA-antwoorden, 19/19 interne doelen, 7/7 lokale assets, p95 1026 ms en groene desktop-mobile QA op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8915,7 +8949,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -8986,8 +9020,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nederlandse attractie-owner met zeven stad-, community-, kust- en eilandkeuzes, drie routedieptes, acht PAA-antwoorden, expliciete grens- en communitygrenzen, 20/20 interne doelen, 7/7 lokale assets, p95 890 ms en groene desktop-mobile QA op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -8998,7 +9032,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9069,8 +9103,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nederlandse attractie-owner met zeven stad-, kust-, fruit-, wetland- en eilandkeuzes, drie routedieptes, acht PAA-antwoorden, strand- park- oogst- en dierenwelzijnsgrenzen, 19/19 interne doelen, 7/7 lokale assets, p95 952 ms en groene desktop-mobile QA op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9081,7 +9115,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9193,8 +9227,14 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 5,
+      "amazonSlugs": [
+        "hagon-rain-ponchos",
+        "neutrogena-beach-defense-spf70",
+        "badger-anti-bug-spray",
+        "earth-pak-dry-bag",
+        "rainleaf-travel-towel"
+      ]
     },
     {
       "locale": "nl",
@@ -9236,8 +9276,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nederlandse attractie-owner met zeven stad- en provincie-keuzes, actuele UNESCO-inschrijving, drie routedieptes, acht PAA-antwoorden, 19/19 interne doelen, 9/9 lokale assets, p95 1006 ms en groene desktop-mobile QA op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9248,7 +9288,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9319,8 +9359,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nederlandse attractie-owner met zeven stad-, Kantang-, kust- en eilandkeuzes, drie routedieptes, acht PAA-antwoorden, grot- zee- park- en dugongwelzijnsgrenzen, 19/19 interne doelen, 7/7 lokale assets, p95 943 ms en groene desktop-mobile QA op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9331,7 +9371,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9402,8 +9442,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nederlandse attractie-owner met zeven stad-, strand-, haven-, park- en eilandkeuzes, drie routedieptes, acht PAA-antwoorden, zee- koraal- pier- en dierenwelzijnsgrenzen, 20/20 interne doelen, 7/7 lokale assets, p95 885 ms en groene desktop-mobile QA op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9414,7 +9454,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9441,7 +9481,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9485,8 +9525,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nederlandse attractie-owner met zeven stad- en provincie-keuzes, drie routedieptes, acht PAA-antwoorden, koop- en dierenwelzijnsgrenzen, 19/19 interne doelen, 8/8 lokale assets, p95 1034 ms en groene desktop-mobile QA op 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9497,7 +9537,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9568,8 +9608,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Chiang Khan-bezienswaardighedenowner met Nederlandse DFS browser-PAA primaire bronnen desktop-mobile QA en gerichte runtime-audit afgerond 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9580,7 +9620,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9651,8 +9691,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nong Khai-bezienswaardighedenowner met Nederlandse DFS echte PAA primaire bronnen desktop-mobile QA 19/19 doelen 9/9 assets en groene runtime-audit afgerond 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9663,7 +9703,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9734,8 +9774,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Bueng Kan-bezienswaardighedenowner met Nederlandse DFS echte PAA actuele DNP en brugstatus desktop-mobile QA 19/19 doelen 10/10 assets en groene runtime-audit afgerond 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9746,7 +9786,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9817,8 +9857,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium Nakhon Phanom-bezienswaardighedenowner met Nederlandse DFS echte PAA primaire bronnen desktop-mobile QA 19/19 doelen 8/8 assets en groene runtime-audit afgerond 2026-07-31.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9829,7 +9869,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9900,8 +9940,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium attractie-owner met zeven lokale keuzes drie routedieptes actuele grenscontext primaire bronnen en volledige desktop-mobile QA.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -9912,7 +9952,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -9983,8 +10023,8 @@
       "template_owner": "destination-subpillar",
       "recommended_action": "keep-improve",
       "priority": "P1",
-      "decision_status": "provisional",
-      "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
+      "decision_status": "final",
+      "decision_note": "Premium owner met acht keuzes dorp-meerlogica driedaagse route DFS/PAA primaire bronnen en opnieuw bevestigde desktop-mobile QA.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 6,
@@ -10368,32 +10408,6 @@
     },
     {
       "locale": "nl",
-      "url": "https://go2-thailand.com/nl/islands/koh-samui/",
-      "path": "/nl/islands/koh-samui/",
-      "translation_key": "/islands/koh-samui/",
-      "page_type": "island",
-      "has_language_pair": "yes",
-      "template_owner": "island",
-      "recommended_action": "template-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.",
-      "status": 200,
-      "coverage": "premium-signature",
-      "markerCount": 5,
-      "markers": [
-        "canvas",
-        "container",
-        "display-heading",
-        "tonal-surface",
-        "editorial-bridge"
-      ],
-      "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
-    },
-    {
-      "locale": "nl",
       "url": "https://go2-thailand.com/nl/islands/koh-phangan/",
       "path": "/nl/islands/koh-phangan/",
       "translation_key": "/islands/koh-phangan/",
@@ -10740,8 +10754,10 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 1,
+      "amazonSlugs": [
+        "momax-travel-adapter"
+      ]
     },
     {
       "locale": "nl",
@@ -10973,21 +10989,22 @@
       "page_type": "travel-guide",
       "has_language_pair": "yes",
       "template_owner": "travel-guide",
-      "recommended_action": "freshness-audit",
+      "recommended_action": "keep-improve",
       "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige NL owner na hybride SERP/PAA- en primaire-bronresearch 2026-07-31; premium rijbeslisser vervangt Engelse legacycopy en verwijdert vaste prijzen boetes wisselkoers medische bedragen en onbewezen verhuurders.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11015,8 +11032,12 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 3,
+      "amazonSlugs": [
+        "anker-powercore-10k",
+        "momax-travel-adapter",
+        "venture-pal-packable-backpack"
+      ]
     },
     {
       "locale": "nl",
@@ -11025,22 +11046,23 @@
       "translation_key": "/travel-guides/vpn-thailand/",
       "page_type": "travel-guide",
       "has_language_pair": "yes",
-      "template_owner": "travel-guide",
-      "recommended_action": "freshness-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
+      "template_owner": "digital-safety-guide",
+      "recommended_action": "keep-improve",
+      "priority": "P1",
+      "decision_status": "final",
+      "decision_note": "Canonical NL VPN-owner vernieuwd 2026-07-31 met hybride Browser/PAA- en primaire-bronresearch, genuanceerde veiligheidsgrenzen, premium tweetalige template, natuurlijke interne links en transparante actuele-aanbod-CTA's.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11058,15 +11080,16 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11084,15 +11107,16 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11110,17 +11134,21 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "trackedOwner": true,
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "earth-pak-dry-bag",
+        "rainleaf-travel-towel"
+      ]
     },
     {
       "locale": "nl",
@@ -11136,17 +11164,22 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "trackedOwner": true,
+      "amazonLinks": 3,
+      "amazonSlugs": [
+        "venture-pal-packable-backpack",
+        "earth-pak-dry-bag",
+        "hagon-rain-ponchos"
+      ]
     },
     {
       "locale": "nl",
@@ -11162,17 +11195,20 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "trackedOwner": true,
+      "amazonLinks": 1,
+      "amazonSlugs": [
+        "earth-pak-dry-bag"
+      ]
     },
     {
       "locale": "nl",
@@ -11188,15 +11224,16 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11214,15 +11251,16 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11240,15 +11278,16 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11260,23 +11299,26 @@
       "page_type": "travel-guide",
       "has_language_pair": "yes",
       "template_owner": "travel-guide",
-      "recommended_action": "freshness-audit",
+      "recommended_action": "redirect",
       "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
+      "decision_status": "final",
+      "decision_note": "Hybride SERP/PAA- en primaire-broncontrole 2026-07-31 bevestigt dezelfde landelijke nightlife-, rooftop-, regels- en veiligheidsintentie als /nl/nightlife/; permanent geconsolideerd naar de bestaande premium owner om kannibalisatie te voorkomen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
       "trackedOwner": false,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 1,
+      "amazonSlugs": [
+        "anker-powercore-10k"
+      ]
     },
     {
       "locale": "nl",
@@ -11292,15 +11334,16 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11318,15 +11361,16 @@
       "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11338,10 +11382,10 @@
       "page_type": "travel-guide",
       "has_language_pair": "yes",
       "template_owner": "travel-guide",
-      "recommended_action": "freshness-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
+      "recommended_action": "keep-improve",
+      "priority": "P1",
+      "decision_status": "final",
+      "decision_note": "Canonical NL taalowner vernieuwd 2026-07-31 met Browser/PAA- en primaire-bronresearch, premium zinnenkaart, uitspraakgrenzen, terugval- en noodroute, unieke hero, natuurlijke interne links en één transparante OneLink-phrasebook-CTA.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -11352,7 +11396,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11380,8 +11424,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "simple-thai-food-cookbook",
+        "thai-granite-mortar-eight-inch"
+      ]
     },
     {
       "locale": "nl",
@@ -11407,8 +11454,12 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 3,
+      "amazonSlugs": [
+        "momax-travel-adapter",
+        "anker-powercore-10k",
+        "venture-pal-packable-backpack"
+      ]
     },
     {
       "locale": "nl",
@@ -11418,10 +11469,10 @@
       "page_type": "travel-guide",
       "has_language_pair": "yes",
       "template_owner": "travel-guide",
-      "recommended_action": "freshness-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
+      "recommended_action": "keep-improve",
+      "priority": "P1",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige premium selector voor rustige plekken; zes profielen, vier toegangspoorten, routebouw, echte PAA en primaire bronnen.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -11432,7 +11483,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -11444,10 +11495,10 @@
       "page_type": "travel-guide",
       "has_language_pair": "yes",
       "template_owner": "travel-guide",
-      "recommended_action": "freshness-audit",
-      "priority": "P2",
-      "decision_status": "provisional",
-      "decision_note": "Controleer zoekintentie, feiten, datumclaims, interne links en consolidatiekansen.",
+      "recommended_action": "keep-improve",
+      "priority": "P1",
+      "decision_status": "final",
+      "decision_note": "Zelfstandige premium geschiedenis- en cultuuroriëntatie met vier tijdlagen, vier erfgoedlenzen, destination-doorstroom, echte PAA en primaire UNESCO/TAT-bronnen.",
       "status": 200,
       "coverage": "premium-signature",
       "markerCount": 5,
@@ -11458,7 +11509,7 @@
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -12043,15 +12094,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -12069,15 +12121,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -12095,15 +12148,16 @@
       "decision_note": "Belangrijke destination- of commerciële pagina; locale-specifieke DFS-brief vereist.",
       "status": 200,
       "coverage": "premium-signature",
-      "markerCount": 5,
+      "markerCount": 6,
       "markers": [
         "canvas",
         "container",
         "display-heading",
+        "section-divider",
         "tonal-surface",
         "editorial-bridge"
       ],
-      "trackedOwner": false,
+      "trackedOwner": true,
       "amazonLinks": 0,
       "amazonSlugs": []
     },
@@ -13230,8 +13284,13 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 4,
+      "amazonSlugs": [
+        "sun-cube-wide-brim-hat",
+        "neutrogena-beach-defense-spf70",
+        "hagon-rain-ponchos",
+        "earth-pak-dry-bag"
+      ]
     },
     {
       "locale": "nl",
@@ -13647,8 +13706,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "hovsiyla-quick-dry-shirt",
+        "rainleaf-travel-towel"
+      ]
     },
     {
       "locale": "nl",
@@ -15261,8 +15323,12 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 3,
+      "amazonSlugs": [
+        "rainleaf-travel-towel",
+        "sun-cube-wide-brim-hat",
+        "venture-pal-packable-backpack"
+      ]
     },
     {
       "locale": "nl",
@@ -15731,8 +15797,11 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 2,
+      "amazonSlugs": [
+        "neutrogena-beach-defense-spf70",
+        "earth-pak-dry-bag"
+      ]
     },
     {
       "locale": "nl",
@@ -17682,8 +17751,12 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 3,
+      "amazonSlugs": [
+        "venture-pal-packable-backpack",
+        "anker-powercore-10k",
+        "sun-cube-wide-brim-hat"
+      ]
     },
     {
       "locale": "nl",
@@ -17944,8 +18017,12 @@
         "editorial-bridge"
       ],
       "trackedOwner": true,
-      "amazonLinks": 0,
-      "amazonSlugs": []
+      "amazonLinks": 3,
+      "amazonSlugs": [
+        "thai-granite-mortar-eight-inch",
+        "zojirushi-six-cup-rice-cooker",
+        "simple-thai-food-cookbook"
+      ]
     },
     {
       "locale": "nl",

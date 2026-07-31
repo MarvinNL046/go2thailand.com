@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-31T16:56:57.136Z",
+  "generatedAt": "2026-07-31T17:10:28.229Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
     "nl": {
       "sitemapRoutes": 700,
-      "http200": 703,
-      "premium": 703,
+      "http200": 667,
+      "premium": 667,
       "hybrid": 0,
-      "noSignature": 0,
-      "exactOwners": 305,
+      "noSignature": 33,
+      "exactOwners": 309,
       "duplicateExactOwnerRoutes": [],
-      "contextualAmazonRoutes": 36,
-      "amazonLinks": 72,
-      "provisionalInventoryDecisions": 344,
+      "contextualAmazonRoutes": 105,
+      "amazonLinks": 230,
+      "provisionalInventoryDecisions": 340,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -778,11 +778,11 @@
       "closed": true
     },
     "nl:hotel-guide": {
-      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and the independently researched Pattaya, Ayutthaya, Chiang Rai, Hat Yai and Sukhothai destination hotel owners are premium, deployed and accepted; remaining destination guides and administratively grouped hotel profiles remain.",
+      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and nine independently researched destination hotel owners are premium and accepted; remaining destination guides and administratively grouped hotel profiles remain.",
       "expected": 75,
-      "complete": 15,
-      "exactOwners": 15,
-      "remainingCount": 60,
+      "complete": 19,
+      "exactOwners": 19,
+      "remainingCount": 56,
       "remaining": [
         "/nl/phuket/patong/hotels/grand-mercure-phuket-patong/",
         "/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/",
@@ -802,7 +802,8 @@
         "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
         "seo/audits/nl-phuket-area-hotels-family-2026-07-31.md",
         "seo/audits/nl-phuket-hotel-categories-2026-07-31.md",
-        "seo/audits/nl-city-hotel-guides-batch-1-2026-07-31.md"
+        "seo/audits/nl-city-hotel-guides-batch-1-2026-07-31.md",
+        "seo/audits/nl-city-hotel-guides-batch-2-2026-07-31.md"
       ],
       "closed": false
     },
@@ -977,7 +978,7 @@
   "globalGates": {
     "noDuplicateExactOwnerRoutes": true,
     "allRoutesHttp200": false,
-    "noMissingDesignSignature": true,
+    "noMissingDesignSignature": false,
     "sitewideHardErrorsZero": true,
     "allInventoryDecisionsFinal": false,
     "allActiveQueuesClosed": false,
@@ -992,8 +993,8 @@
       "recommendedAction": "keep-improve",
       "familyKey": "nl:homepage",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1006,8 +1007,8 @@
       "recommendedAction": "keep-improve",
       "familyKey": "nl:destination-index",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1020,8 +1021,8 @@
       "recommendedAction": "template-improve",
       "familyKey": "nl:commercial-landing",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1034,8 +1035,8 @@
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1048,8 +1049,8 @@
       "recommendedAction": "template-improve",
       "familyKey": "nl:transport",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1062,8 +1063,8 @@
       "recommendedAction": "template-audit",
       "familyKey": "nl:food-drink",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1076,11 +1077,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1090,8 +1091,8 @@
       "recommendedAction": "template-audit",
       "familyKey": "nl:food-drink",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1104,11 +1105,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1118,11 +1119,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1132,8 +1133,8 @@
       "recommendedAction": "template-audit",
       "familyKey": "nl:region",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1146,8 +1147,8 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1160,8 +1161,8 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1174,8 +1175,8 @@
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1202,8 +1203,8 @@
       "recommendedAction": "template-audit",
       "familyKey": "nl:island",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1216,11 +1217,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1230,11 +1231,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1244,11 +1245,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1258,11 +1259,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1272,11 +1273,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1286,11 +1287,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1300,11 +1301,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1314,11 +1315,11 @@
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1328,8 +1329,8 @@
       "recommendedAction": "template-audit",
       "familyKey": "nl:practical:visa",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1342,8 +1343,8 @@
       "recommendedAction": "template-audit",
       "familyKey": "nl:practical",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1356,11 +1357,11 @@
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
       "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "unproven"
     },
     {
       "locale": "nl",
@@ -1370,8 +1371,8 @@
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1384,8 +1385,8 @@
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1398,8 +1399,8 @@
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1412,8 +1413,8 @@
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1426,8 +1427,8 @@
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1471,7 +1472,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 4,
       "proofState": "exact-owner"
     },
     {
@@ -1664,8 +1665,8 @@
       "recommendedAction": "keep-improve",
       "familyKey": "nl:phuket-location",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -1678,8 +1679,8 @@
       "recommendedAction": "keep-improve",
       "familyKey": "nl:phuket-location",
       "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
+      "httpStatus": null,
+      "designCoverage": "no-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
@@ -3529,7 +3530,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 3,
       "proofState": "exact-owner"
     },
     {
@@ -3543,7 +3544,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 1,
       "proofState": "exact-owner"
     },
     {
@@ -3585,7 +3586,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 1,
       "proofState": "exact-owner"
     },
     {
@@ -3613,7 +3614,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3627,7 +3628,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -3641,7 +3642,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -3655,7 +3656,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -3669,7 +3670,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3683,7 +3684,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -3697,7 +3698,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -3711,7 +3712,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3725,7 +3726,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3739,7 +3740,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3753,7 +3754,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3767,7 +3768,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3781,7 +3782,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -3795,7 +3796,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3809,7 +3810,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3823,7 +3824,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3837,7 +3838,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3851,7 +3852,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3865,7 +3866,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3879,7 +3880,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3893,7 +3894,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3907,7 +3908,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3921,7 +3922,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3935,7 +3936,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3949,7 +3950,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3963,7 +3964,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3977,7 +3978,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -3991,7 +3992,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4005,7 +4006,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4019,7 +4020,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4033,7 +4034,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4047,7 +4048,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4061,7 +4062,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4075,7 +4076,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4089,7 +4090,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4103,7 +4104,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4117,7 +4118,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4131,7 +4132,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4145,7 +4146,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4159,7 +4160,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4173,7 +4174,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4187,7 +4188,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4201,7 +4202,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4215,7 +4216,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4229,7 +4230,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4243,7 +4244,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "family-accepted"
     },
     {
@@ -4691,7 +4692,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 4,
       "proofState": "exact-owner"
     },
     {
@@ -4733,7 +4734,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 5,
       "proofState": "exact-owner"
     },
     {
@@ -4775,7 +4776,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 5,
       "proofState": "exact-owner"
     },
     {
@@ -4915,7 +4916,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 5,
       "proofState": "exact-owner"
     },
     {
@@ -5079,12 +5080,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5415,12 +5416,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5457,12 +5458,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5671,7 +5672,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 5,
       "proofState": "exact-owner"
     },
     {
@@ -5793,12 +5794,12 @@
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
       "familyKey": "nl:hotel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6455,7 +6456,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 1,
       "proofState": "exact-owner"
     },
     {
@@ -6595,7 +6596,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 3,
       "proofState": "exact-owner"
     },
     {
@@ -6651,7 +6652,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -6665,7 +6666,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 3,
       "proofState": "exact-owner"
     },
     {
@@ -6679,7 +6680,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 1,
       "proofState": "exact-owner"
     },
     {
@@ -6735,7 +6736,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
-      "amazonLinks": 0,
+      "amazonLinks": 1,
       "proofState": "family-accepted"
     },
     {
@@ -6791,7 +6792,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -6805,7 +6806,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 3,
       "proofState": "exact-owner"
     },
     {
@@ -7771,7 +7772,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 4,
       "proofState": "exact-owner"
     },
     {
@@ -7995,7 +7996,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -8863,7 +8864,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 3,
       "proofState": "exact-owner"
     },
     {
@@ -9115,7 +9116,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 2,
       "proofState": "exact-owner"
     },
     {
@@ -10165,7 +10166,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 3,
       "proofState": "exact-owner"
     },
     {
@@ -10305,7 +10306,7 @@
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
-      "amazonLinks": 0,
+      "amazonLinks": 3,
       "proofState": "exact-owner"
     },
     {
