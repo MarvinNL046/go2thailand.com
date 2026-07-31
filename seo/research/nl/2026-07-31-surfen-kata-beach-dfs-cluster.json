@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-31T13:10:48.308Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "surfen kata beach",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "surfen kata beach"
+  ],
+  "keywords": [
+    {
+      "keyword": "surfen kata beach",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

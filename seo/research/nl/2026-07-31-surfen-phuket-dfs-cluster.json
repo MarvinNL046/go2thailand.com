@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-31T13:10:49.336Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "surfen phuket",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "surfen phuket",
+    "phuket surfen"
+  ],
+  "keywords": [
+    {
+      "keyword": "phuket surfen",
+      "volume": 30,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surfen phuket",
+      "volume": 30,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}
