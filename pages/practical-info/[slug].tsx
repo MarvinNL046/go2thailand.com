@@ -449,9 +449,11 @@ export default function PracticalInfoDetailPage({
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const items = getAllPracticalInfo();
-  const paths = items.map((item) => ({
-    params: { slug: item.slug },
-  }));
+  const paths = items
+    .filter((item) => item.slug !== "packing-list")
+    .map((item) => ({
+      params: { slug: item.slug },
+    }));
 
   return {
     paths,
@@ -459,16 +461,11 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
+export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
 
   if (slug === "packing-list") {
-    return {
-      redirect: {
-        destination: locale === "nl" ? "/nl/travel-gear/" : "/travel-gear/",
-        permanent: true,
-      },
-    };
+    return { notFound: true };
   }
 
   const info = getPracticalInfoBySlug(slug);
