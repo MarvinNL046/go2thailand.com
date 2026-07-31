@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T13:49:41.569Z
+**Generated:** 2026-07-31T13:51:16.084Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -405,7 +405,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 - Family accepted: **15/15**
 - Exact owners registered: **15/15**
-- Closed: **no**
+- Closed: **yes**
 - Remaining routes: **0**
 - Sample: none
 - Evidence: `seo/audits/nl-phuket-old-town-owner-2026-07-31.md`, `seo/audits/nl-phuket-old-town-spokes-2026-07-31.md`, `seo/audits/nl-phuket-nai-harn-owner-2026-07-31.md`, `seo/audits/nl-phuket-rawai-owner-2026-07-31.md`, `seo/audits/nl-phuket-karon-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-nightlife-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-restaurants-owner-2026-07-31.md`, `seo/audits/nl-phuket-kata-owner-2026-07-31.md`, `seo/audits/nl-phuket-kata-surfing-owner-2026-07-31.md`, `seo/audits/nl-phuket-kata-noi-owner-2026-07-31.md`, `seo/audits/nl-phuket-kamala-owner-2026-07-31.md`, `seo/audits/nl-phuket-bang-tao-owner-2026-07-31.md`, `seo/audits/nl-phuket-surin-owner-2026-07-31.md`

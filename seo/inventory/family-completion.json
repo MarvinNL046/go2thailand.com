@@ -23,7 +23,42 @@
     {
       "key": "nl:destination-subpillar:food",
       "status": "complete",
-      "acceptedRoutes": ["/nl/city/ayutthaya/food/", "/nl/city/bangkok/food/", "/nl/city/bueng-kan/food/", "/nl/city/chanthaburi/food/", "/nl/city/chumphon/food/", "/nl/city/chiang-khan/food/", "/nl/city/chiang-mai/food/", "/nl/city/chiang-rai/food/", "/nl/city/hat-yai/food/", "/nl/city/hua-hin/food/", "/nl/city/kanchanaburi/food/", "/nl/city/khao-sok/food/", "/nl/city/khon-kaen/food/", "/nl/city/koh-samui/food/", "/nl/city/krabi/food/", "/nl/city/lampang/food/", "/nl/city/lopburi/food/", "/nl/city/mae-hong-son/food/", "/nl/city/mukdahan/food/", "/nl/city/nakhon-phanom/food/", "/nl/city/nakhon-ratchasima/food/", "/nl/city/nakhon-si-thammarat/food/", "/nl/city/nong-khai/food/", "/nl/city/pai/food/", "/nl/city/pattaya/food/", "/nl/city/phitsanulok/food/", "/nl/city/phuket/food/", "/nl/city/rayong/food/", "/nl/city/sukhothai/food/", "/nl/city/surat-thani/food/", "/nl/city/trang/food/", "/nl/city/trat/food/", "/nl/city/ubon-ratchathani/food/", "/nl/city/udon-thani/food/"],
+      "acceptedRoutes": [
+        "/nl/city/ayutthaya/food/",
+        "/nl/city/bangkok/food/",
+        "/nl/city/bueng-kan/food/",
+        "/nl/city/chanthaburi/food/",
+        "/nl/city/chumphon/food/",
+        "/nl/city/chiang-khan/food/",
+        "/nl/city/chiang-mai/food/",
+        "/nl/city/chiang-rai/food/",
+        "/nl/city/hat-yai/food/",
+        "/nl/city/hua-hin/food/",
+        "/nl/city/kanchanaburi/food/",
+        "/nl/city/khao-sok/food/",
+        "/nl/city/khon-kaen/food/",
+        "/nl/city/koh-samui/food/",
+        "/nl/city/krabi/food/",
+        "/nl/city/lampang/food/",
+        "/nl/city/lopburi/food/",
+        "/nl/city/mae-hong-son/food/",
+        "/nl/city/mukdahan/food/",
+        "/nl/city/nakhon-phanom/food/",
+        "/nl/city/nakhon-ratchasima/food/",
+        "/nl/city/nakhon-si-thammarat/food/",
+        "/nl/city/nong-khai/food/",
+        "/nl/city/pai/food/",
+        "/nl/city/pattaya/food/",
+        "/nl/city/phitsanulok/food/",
+        "/nl/city/phuket/food/",
+        "/nl/city/rayong/food/",
+        "/nl/city/sukhothai/food/",
+        "/nl/city/surat-thani/food/",
+        "/nl/city/trang/food/",
+        "/nl/city/trat/food/",
+        "/nl/city/ubon-ratchathani/food/",
+        "/nl/city/udon-thani/food/"
+      ],
       "evidence": [
         "seo/audits/nl-ayutthaya-city-food-owner-2026-07-29.md",
         "seo/audits/nl-bangkok-city-food-owner-2026-07-29.md",
@@ -160,7 +195,7 @@
     },
     {
       "key": "nl:phuket-location",
-      "status": "pending",
+      "status": "complete",
       "acceptedRoutes": [
         "/nl/phuket/old-town/",
         "/nl/phuket/old-town/things-to-do/",
@@ -174,9 +209,9 @@
         "/nl/phuket/kata/",
         "/nl/phuket/kata/surfing/",
         "/nl/phuket/kata/kata-noi/",
-          "/nl/phuket/kamala/",
-          "/nl/phuket/bang-tao/",
-          "/nl/phuket/surin/"
+        "/nl/phuket/kamala/",
+        "/nl/phuket/bang-tao/",
+        "/nl/phuket/surin/"
       ],
       "evidence": [
         "seo/audits/nl-phuket-old-town-owner-2026-07-31.md",
@@ -190,11 +225,11 @@
         "seo/audits/nl-phuket-kata-owner-2026-07-31.md",
         "seo/audits/nl-phuket-kata-surfing-owner-2026-07-31.md",
         "seo/audits/nl-phuket-kata-noi-owner-2026-07-31.md",
-          "seo/audits/nl-phuket-kamala-owner-2026-07-31.md",
-          "seo/audits/nl-phuket-bang-tao-owner-2026-07-31.md",
-          "seo/audits/nl-phuket-surin-owner-2026-07-31.md"
+        "seo/audits/nl-phuket-kamala-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-bang-tao-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-surin-owner-2026-07-31.md"
       ],
-        "note": "The Dutch Phuket-location family is complete: all fifteen exact owners are independently researched, premium, responsive and separated by intent, including the three Old Town owners and the Patong and Kata spokes."
+      "note": "The Dutch Phuket-location family is complete: all fifteen exact owners are independently researched, premium, responsive and separated by intent, including the three Old Town owners and the Patong and Kata spokes."
     },
     {
       "key": "en:destination-guide",
@@ -214,7 +249,9 @@
     {
       "key": "en:destination-subpillar:best-time-to-visit",
       "status": "complete",
-      "evidence": ["seo/audits/en-destination-season-subpillar-owner-2026-07-29.md"],
+      "evidence": [
+        "seo/audits/en-destination-season-subpillar-owner-2026-07-29.md"
+      ],
       "note": "Both exceptional English best-time routes have explicit independent season-owner evidence."
     }
   ]
