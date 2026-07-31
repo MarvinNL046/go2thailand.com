@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T00:11:12.771Z",
+  "generatedAt": "2026-07-31T00:39:07.590Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 160,
+      "exactOwners": 175,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 470,
+      "provisionalInventoryDecisions": 455,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-koh-phangan-final-2026-07-31.json",
       "sitewide": {
@@ -831,28 +831,17 @@
       "closed": true
     },
     "nl:itinerary": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:itinerary.",
+      "definition": "All fifteen Dutch itinerary routes have independent hybrid Dutch SERP/PAA research, exact owner boundaries, a reusable premium directory/detail system, condition-aware day planning, contextual current-option affiliates and responsive production acceptance.",
       "expected": 15,
-      "complete": 0,
-      "exactOwners": 0,
-      "remainingCount": 15,
-      "remaining": [
-        "/nl/itineraries/",
-        "/nl/itineraries/3-days-bangkok/",
-        "/nl/itineraries/3-days-northern/",
-        "/nl/itineraries/3-days-islands/",
-        "/nl/itineraries/5-days-bangkok-central/",
-        "/nl/itineraries/5-days-northern/",
-        "/nl/itineraries/5-days-southern-beaches/",
-        "/nl/itineraries/7-days-bangkok-north/",
-        "/nl/itineraries/7-days-bangkok-south/",
-        "/nl/itineraries/7-days-island-hopping/",
-        "/nl/itineraries/10-days-north-south/",
-        "/nl/itineraries/10-days-beach-culture/"
+      "complete": 15,
+      "exactOwners": 15,
+      "remainingCount": 0,
+      "remaining": [],
+      "remainingTruncated": false,
+      "evidence": [
+        "seo/audits/nl-itinerary-family-2026-07-31.md"
       ],
-      "remainingTruncated": true,
-      "evidence": [],
-      "closed": false
+      "closed": true
     },
     "nl:manual-review": {
       "definition": "Pending explicit family-level research, design and technical acceptance for nl:manual-review.",
@@ -1374,12 +1363,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6890,12 +6879,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6904,12 +6893,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6918,12 +6907,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6932,12 +6921,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6946,12 +6935,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6960,12 +6949,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6974,12 +6963,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6988,12 +6977,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7002,12 +6991,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7016,12 +7005,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7030,12 +7019,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7044,12 +7033,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7058,12 +7047,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -7072,12 +7061,12 @@
       "templateOwner": "itinerary",
       "recommendedAction": "template-audit",
       "familyKey": "nl:itinerary",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T00:11:12.771Z
+**Generated:** 2026-07-31T00:39:07.590Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 703 | 703 | 703 | 0 | 160 | 36 | 72 | 470 |
+| NL | 703 | 703 | 703 | 0 | 175 | 36 | 72 | 455 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -376,12 +376,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:itinerary
 
-- Family accepted: **0/15**
-- Exact owners registered: **0/15**
-- Closed: **no**
-- Remaining routes: **15** (first 12 shown)
-- Sample: `/nl/itineraries/`, `/nl/itineraries/3-days-bangkok/`, `/nl/itineraries/3-days-northern/`, `/nl/itineraries/3-days-islands/`, `/nl/itineraries/5-days-bangkok-central/`, `/nl/itineraries/5-days-northern/`, `/nl/itineraries/5-days-southern-beaches/`, `/nl/itineraries/7-days-bangkok-north/`, `/nl/itineraries/7-days-bangkok-south/`, `/nl/itineraries/7-days-island-hopping/`, `/nl/itineraries/10-days-north-south/`, `/nl/itineraries/10-days-beach-culture/`
-- Evidence: not signed off
+- Family accepted: **15/15**
+- Exact owners registered: **15/15**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-itinerary-family-2026-07-31.md`
 
 ### nl:manual-review
 
