@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "solo-female-travel-thailand-safety-tips",
+  "route": "/nl/blog/solo-female-travel-thailand-safety-tips/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Solo als vrouw naar Thailand: samengevoegd | Go2Thailand",
+    "description": "Deze oude safetyblog is samengevoegd met de complete NL-gids voor solo reizende vrouwen, met aankomst-, nacht- en noodplanning.",
+    "primaryKeyword": "solo vrouw Thailand oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/solo-female-travel-thailand-safety-tips/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde safety-owner",
+    "title": "Solo reizen begint met een plan",
+    "accent": "Geen veiligheidsgaranties",
+    "description": "De complete NL-gids bundelt aankomst, vervoer, avondkeuzes en noodcontacten zonder absolute claims.",
+    "image": "/images/redesign/editorial/solo-female-travel-thailand-safety-tips-hero.webp",
+    "imageAlt": "Solo reizende vrouw met dagrugzak in een Thaise straat",
+    "primaryCta": { "label": "Open de complete gids", "href": "/nl/travel-guides/solo-female-travel-thailand/" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze blogroute is samengevoegd met de bestaande solo-female reisgids. Gebruik die owner voor actuele risicoafweging, aankomstplanning en noodcontacten.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "warning", "title": "Geen bestemming is gegarandeerd veilig", "description": "De complete gids vertaalt actuele officiële informatie naar concrete keuzes zonder angstmarketing of affiliateproducten als schijnveiligheid.", "cta": { "label": "Naar de solo-reisgids", "href": "/nl/travel-guides/solo-female-travel-thailand/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Actuele veiligheidsbronnen", "items": [
+      { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01", "note": "Regionale risico's en handelingsadvies." },
+      { "title": "Tourist Police Thailand", "publisher": "Tourist Police Bureau", "url": "https://www.touristpolice.go.th/en/main", "checkedAt": "2026-08-01", "note": "Hotline 1155 en toeristenhulp." }
+    ] }
+  ]
+}

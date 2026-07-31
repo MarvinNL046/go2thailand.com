@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "full-moon-party-koh-phangan-guide-2026",
+  "route": "/nl/blog/full-moon-party-koh-phangan-guide-2026/",
+  "cluster": "events",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Full Moon Party Koh Phangan: nuchtere gids | Go2Thailand",
+    "description": "Plan de Full Moon Party op Koh Phangan met actuele datumcontrole, een passende slaapplaats, veilig vervoer en een helder plan voor de nacht.",
+    "primaryKeyword": "Full Moon Party Koh Phangan",
+    "secondaryKeywords": ["Full Moon Party 2026", "Haad Rin feest", "Full Moon Party veiligheid"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/full-moon-party-koh-phangan-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Feest met een terugweg",
+    "title": "Full Moon Party",
+    "accent": "Plan vóór de eerste bucket",
+    "description": "De datum, slaapplaats en terugreis bepalen of de nacht vooral leuk of vooral logistiek wordt.",
+    "image": "/images/redesign/editorial/full-moon-party-koh-phangan-guide-2026-hero.webp",
+    "imageAlt": "Avondstraat op Koh Phangan met palmen, warme verlichting en de volle maan",
+    "primaryCta": { "label": "Maak je nachtplan", "href": "#nachtplan" },
+    "secondaryCta": { "label": "Controleer de datum", "href": "#datum" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "recurring", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "De Full Moon Party is een terugkerend strandfeest bij Haad Rin. Kies het alleen als drukte en luid nachtleven bij je passen, verifieer de datum bij de organisator en regel vóór vertrek je slaapplaats, vervoer en contactplan.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "datum",
+      "tone": "saffron",
+      "title": "Kopieer geen oude datumlijst",
+      "description": "Feestdata kunnen veranderen door lokale besluiten of feestdagen. Controleer de organisator opnieuw vóór je een niet-restitueerbare ferry of kamer boekt.",
+      "cta": { "label": "Bekijk de actuele planning", "href": "https://fullmoonhaadrin.com/full-moon-party/", "external": true }
+    },
+    {
+      "kind": "comparison",
+      "id": "verblijf",
+      "title": "Waar slaap je rond de feestavond?",
+      "options": [
+        { "title": "Haad Rin", "description": "Kortste terugweg en midden in de drukte; verwacht geluid en een intensere omgeving.", "label": "Gemak" },
+        { "title": "Baan Tai", "description": "Meer afstand van het strandfeest, maar je blijft afhankelijk van nachtelijk vervoer.", "label": "Tussenweg" },
+        { "title": "Thong Sala of elders", "description": "Beter voor de rest van het eiland; maak vooraf een realistisch vervoerplan voor de nacht.", "label": "Eilandreis" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "nachtplan",
+      "title": "Vier afspraken vóór je vertrekt",
+      "steps": [
+        { "title": "Spreek een terugmoment af", "description": "Bepaal met je reisgenoten waar en wanneer je elkaar terugvindt als telefoons leeg of netwerken druk zijn." },
+        { "title": "Regel vervoer zonder haast", "description": "Controleer de heen- en terugoptie voordat je drinkt. Bestuur geen scooter na alcohol of bij vermoeidheid." },
+        { "title": "Neem alleen het nodige mee", "description": "Laat paspoort en grote bedragen veilig achter. Neem een opgeladen telefoon, adres en noodnummers mee." },
+        { "title": "Bewaar controle over je drankje", "description": "Neem niets aan dat je niet hebt zien openen of inschenken en laat een drankje niet onbeheerd staan." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "strand",
+      "title": "Aan zee en tussen de drukte",
+      "items": [
+        "Ga niet zwemmen wanneer je alcohol hebt gedronken",
+        "Houd afstand van vuuracts en spring niet over brandende touwen",
+        "Draag schoeisel tegen glas, scherpe voorwerpen en heet zand",
+        "Blijf bij verlichting en afgesproken routes",
+        "Schakel bij nood lokale hulp in; Tourist Police is bereikbaar via 1155"
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "vervoer",
+      "provider": "12go",
+      "title": "Vergelijk je eilandvervoer",
+      "description": "Controleer vertrekpier, aankomstpier, bagageregels, aansluiting en voorwaarden. Een boeking is geen garantie dat zee of weer de dienstregeling ongemoeid laat.",
+      "cta": { "label": "Bekijk actuele verbindingen", "href": "https://12go.tpo.lv/tNA80urD", "external": true },
+      "placement": "full-moon-party-island-transfer",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is de Full Moon Party elke volle maan?", "answer": "Behandel dat niet als garantie. De organisator publiceert de actuele planning en een datum kan wijzigen; controleer opnieuw voordat je boekt en vlak voor vertrek." },
+        { "question": "Moet je in Haad Rin overnachten?", "answer": "Nee. Haad Rin verkort de terugweg, maar geeft meer geluid en drukte. Elders slapen kan rustiger zijn als je vooraf veilig vervoer organiseert." },
+        { "question": "Is de Full Moon Party veilig?", "answer": "Geen groot nachtfeest is risicovrij. Drukte, alcohol, vuur, water en nachtelijk verkeer vragen om een concreet plan en nuchtere keuzes." },
+        { "question": "Kun je dezelfde nacht terug naar Koh Samui?", "answer": "Ga niet uit van een oude dienstregeling. Controleer actuele boot, pier, check-in, zeecondities en wat er gebeurt bij vertraging of uitval." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan de eilandreis om het feest heen",
+      "items": [
+        { "title": "Koh Phangan reisgids", "description": "Kies stranden, gebieden en ritme voor meer dan één nacht.", "href": "/nl/islands/koh-phangan/" },
+        { "title": "Thailand reisadvies", "description": "Controleer actuele regionale risico's en noodinformatie.", "href": "https://www.nederlandwereldwijd.nl/reisadvies/thailand" }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Actuele bronnen",
+      "items": [
+        { "title": "Full Moon Party planning", "publisher": "Full Moon Haad Rin", "url": "https://fullmoonhaadrin.com/full-moon-party/", "checkedAt": "2026-08-01", "note": "Rechtstreeks verantwoordelijke planning; opnieuw controleren voor boeking." },
+        { "title": "Ko Phangan", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko-Phangan/362", "checkedAt": "2026-08-01", "note": "Officiële bestemmingscontext." },
+        { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01", "note": "Actuele Nederlandse veiligheids- en noodcontext." },
+        { "title": "Tourist Police Thailand", "publisher": "Tourist Police Bureau", "url": "https://www.touristpolice.go.th/en/main", "checkedAt": "2026-08-01", "note": "Hotline 1155 en meertalige toeristenhulp." }
+      ]
+    }
+  ]
+}

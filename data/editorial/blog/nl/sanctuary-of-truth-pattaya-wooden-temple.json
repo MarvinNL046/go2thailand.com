@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "sanctuary-of-truth-pattaya-wooden-temple",
+  "route": "/nl/blog/sanctuary-of-truth-pattaya-wooden-temple/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Sanctuary of Truth Pattaya: bezoekgids | Go2Thailand",
+    "description": "Past Sanctuary of Truth in jouw Pattaya-dag? Lees wat je ziet, hoe je het bezoek plant en waarom helm- en bouwplaatsregels belangrijk zijn.",
+    "primaryKeyword": "Sanctuary of Truth Pattaya",
+    "secondaryKeywords": ["houten tempel Pattaya", "Sanctuary of Truth bezoeken", "Pattaya bezienswaardigheid"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/sanctuary-of-truth-pattaya-wooden-temple/"
+  },
+  "hero": {
+    "eyebrow": "Houtbouw aan zee",
+    "title": "Sanctuary of Truth",
+    "accent": "Kijk verder dan de gevel",
+    "description": "Een voortdurend houtbouwproject en museum in Noord-Pattaya. Plan ruimte voor details, uitleg en de veiligheidsregels binnen.",
+    "image": "/images/redesign/editorial/sanctuary-of-truth-pattaya-wooden-temple-hero.webp",
+    "imageAlt": "Sanctuary of Truth aan de kust van Pattaya in warm avondlicht",
+    "primaryCta": { "label": "Plan je bezoek", "href": "#bezoekplan" },
+    "secondaryCta": { "label": "Wat je ziet", "href": "#betekenis" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Sanctuary of Truth past bij reizigers die houtsnijwerk, filosofische beeldtaal en een attractie buiten centraal Pattaya willen combineren. Controleer vlak voor vertrek de officiële toegangsinformatie en volg binnen altijd helm- en personeelsaanwijzingen.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "bezoekplan",
+      "title": "Past dit bezoek bij jouw dag?",
+      "options": [
+        { "title": "Wel kiezen", "description": "Je wilt rustig houtsnijwerk bekijken, uitleg volgen en Noord-Pattaya bewust inplannen.", "label": "Cultuur en detail" },
+        { "title": "Niet forceren", "description": "Je zoekt een actieve stranddag of hebt maar een korte overstap in centraal Pattaya.", "label": "Tijd is beperkt" },
+        { "title": "Extra controleren", "description": "Mobiliteit, hitte of bouwplaatsprikkels spelen mee; vraag de locatie vooraf naar actuele toegankelijkheid.", "label": "Comfort" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "betekenis",
+      "title": "Zo haal je meer uit het houtsnijwerk",
+      "steps": [
+        { "title": "Begin met het geheel", "description": "Bekijk eerst de ligging, daklijnen en vier vleugels voordat je op afzonderlijke figuren inzoomt." },
+        { "title": "Neem uitleg mee", "description": "Een actuele rondleiding of toelichting helpt de boeddhistische en hindoeïstische beeldtaal te plaatsen." },
+        { "title": "Accepteer het werkproces", "description": "Restauratie en houtbewerking horen bij de locatie. Houd afstand en volg afzettingen en instructies." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "voor-vertrek",
+      "title": "Controleer voor vertrek",
+      "items": [
+        "Actuele opening en toegang op de officiële bezoekerspagina",
+        "Kleding- en helmregels voor jouw bezoekdag",
+        "Vervoer naar en terug uit Naklua",
+        "Of een rondleiding in een passende taal beschikbaar is",
+        "Toegankelijkheid als lang lopen, trappen of hitte lastig zijn"
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "veiligheid",
+      "tone": "warning",
+      "title": "De helm is geen fotoprop",
+      "description": "De officiële bezoekerspagina vraagt bezoekers binnen een helm te dragen. Het museum blijft een actief houtbouw- en restauratieproject; volg afzettingen en personeel, ook wanneer andere bezoekers dat niet doen."
+    },
+    {
+      "kind": "affiliate",
+      "id": "tickets",
+      "provider": "klook",
+      "title": "Vergelijk een actuele bezoekoptie",
+      "description": "Controleer datum, inbegrepen onderdelen, taal, transfer, annuleringsvoorwaarden en de officiële locatievoorwaarden voordat je kiest.",
+      "cta": { "label": "Bekijk actuele opties", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true },
+      "placement": "sanctuary-of-truth-visit-option",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is Sanctuary of Truth een tempel?", "answer": "De locatie presenteert zich als museum en filosofisch houtbouwproject. Behandel de religieuze en culturele beeldtaal met respect, maar verwar het niet met een gewone actieve wat." },
+        { "question": "Hoeveel tijd heb je nodig?", "answer": "Plan genoeg tijd om zowel de buitenkant als het interieur rustig te bekijken. De benodigde duur hangt af van rondleiding, drukte en jouw tempo; controleer geen oud blogschema als vaste norm." },
+        { "question": "Moet je vooraf reserveren?", "answer": "Dat hangt af van datum en gekozen bezoekvorm. Vergelijk de officiële toegangsinformatie met de voorwaarden van een eventuele aanbieder." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan de rest van Pattaya",
+      "items": [
+        { "title": "Pattaya bezienswaardigheden", "description": "Vergelijk de attracties voordat je een dag volboekt.", "href": "/nl/city/pattaya/attractions/" },
+        { "title": "Pattaya bestemmingsoverzicht", "description": "Kies wijk, strand, vervoer en reistempo vanuit één eigenaar.", "href": "/nl/city/pattaya/" }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële bronnen",
+      "items": [
+        { "title": "Visit Us", "publisher": "Sanctuary of Truth Museum", "url": "https://sanctuaryoftruthmuseum.com/visit-us/", "checkedAt": "2026-08-01", "note": "Locatie, bezoekersinformatie en helmregel." },
+        { "title": "Chon Buri en Pattaya in drie dagen", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/chon-buri-pattaya-3-days", "checkedAt": "2026-08-01", "note": "Officiële bestemmingscontext voor de attractie." }
+      ]
+    }
+  ]
+}

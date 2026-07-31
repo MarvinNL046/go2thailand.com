@@ -225,6 +225,38 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // Retire five NL editorial duplicates after explicit owner review. The
+      // established island, beach and practical guides retain canonical intent.
+      {
+        source: "/nl/blog/koh-tao-guide-diving-beaches-budget-travel/",
+        destination: "/nl/islands/koh-tao/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/koh-chang-guide-thailand-eastern-island/",
+        destination: "/nl/islands/koh-chang/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/best-beaches-thailand/",
+        destination: "/nl/best-beaches-in-thailand/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/15-hidden-gems-thailand-tourists-miss/",
+        destination: "/nl/travel-guides/hidden-gems-off-beaten-path-thailand/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/solo-female-travel-thailand-safety-tips/",
+        destination: "/nl/travel-guides/solo-female-travel-thailand/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

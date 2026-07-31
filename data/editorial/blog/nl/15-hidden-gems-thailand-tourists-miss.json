@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "15-hidden-gems-thailand-tourists-miss",
+  "route": "/nl/blog/15-hidden-gems-thailand-tourists-miss/",
+  "cluster": "destination-guides",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bijzondere plekken Thailand: samengevoegde route | Go2Thailand",
+    "description": "Deze oude hidden-gems-lijst is samengevoegd met de actuele keuzehulp voor rustigere plekken, regio's en haalbare routes in Thailand.",
+    "primaryKeyword": "verborgen plekken Thailand oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/15-hidden-gems-thailand-tourists-miss/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde shortlist",
+    "title": "Rustiger Thailand plan je bewust",
+    "accent": "Verder dan het label verborgen",
+    "description": "De actuele owner vergelijkt regio, reistijd en voorzieningen zonder te doen alsof bewonersplaatsen geheim zijn.",
+    "image": "/images/redesign/editorial/15-hidden-gems-thailand-tourists-miss-hero.webp",
+    "imageAlt": "Rustige groene bestemming in Thailand buiten de drukste route",
+    "primaryCta": { "label": "Bekijk rustigere plekken", "href": "/nl/travel-guides/hidden-gems-off-beaten-path-thailand/" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "country", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze oude lijst is samengevoegd met de bestaande hidden-gems-owner. Die pagina helpt kiezen op basis van route, tijd en comfort in plaats van een marketinglabel.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Minder druk is niet hetzelfde als geheim", "description": "De gekozen eigenaar benoemt lokale context, bereikbaarheid en keerzijde en voorkomt dubbele bestemmingsteksten.", "cta": { "label": "Open de keuzehulp", "href": "/nl/travel-guides/hidden-gems-off-beaten-path-thailand/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen voor cultureel en regionaal perspectief", "items": [
+      { "title": "Thailand World Heritage properties", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/statesparties/th", "checkedAt": "2026-08-01", "note": "Beschermde culturele en natuurlijke locaties zonder verborgen-parelmarketing." },
+      { "title": "Trat", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Trat/466", "checkedAt": "2026-08-01", "note": "Regionale context voor rustigere oostelijke routes." }
+    ] }
+  ]
+}
