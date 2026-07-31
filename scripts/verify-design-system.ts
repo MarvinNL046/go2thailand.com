@@ -1369,6 +1369,14 @@ const legacyThailandTransportIndex = read('pages/thailand-index/transport.tsx');
 for (const proof of ["locale === 'nl'", "destination: '/nl/transport/'", 'permanent: true']) {
   if (!legacyThailandTransportIndex.includes(proof)) failures.push(`Legacy Thailand transport index lacks NL consolidation proof: ${proof}`);
 }
+const nlDigitalNomadGuide = read('components/editorial/DigitalNomadThailandGuideNl.tsx');
+const digitalNomadIndexRoute = read('pages/thailand-index/digital-nomad.tsx');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'AffiliateDisclosure', 'data-premium-template="digital-nomad-thailand-nl"', 'noopener noreferrer nofollow sponsored', 'FAQPage', 'ItemList', 'momax-travel-adapter', 'ugreen-25000-power-bank']) {
+  if (!nlDigitalNomadGuide.includes(proof)) failures.push(`NL digital-nomad owner lacks proof: ${proof}`);
+}
+if (!digitalNomadIndexRoute.includes('<DigitalNomadThailandGuideNl />')) failures.push('Digital-nomad index route does not wire the NL premium owner');
+if (!digitalNomadIndexRoute.includes("locale === 'nl' ? null")) failures.push('Digital-nomad route still serializes legacy scores into NL HTML');
+read('public/images/redesign/digital-nomad-thailand-hero-v2.webp');
 
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);

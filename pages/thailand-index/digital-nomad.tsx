@@ -3,14 +3,16 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { useMemo } from 'react';
 import type { ThailandIndex, BilingualText, IndexCity } from '../../lib/thailand-index';
 import { RankingCard, TableOfContents, NomadTable, VisaTable } from '../../components/index';
 import type { TocItem } from '../../components/index';
+import DigitalNomadThailandGuideNl from '../../components/editorial/DigitalNomadThailandGuideNl';
 
 interface DigitalNomadPageProps {
-  data: ThailandIndex;
+  data: ThailandIndex | null;
 }
+
+const isDutchLocale = (locale: string | undefined): boolean => locale === 'nl';
 
 function t(obj: BilingualText, locale: string): string {
   return obj[(locale as keyof BilingualText)] || obj.en;
@@ -72,6 +74,9 @@ export default function DigitalNomadPage({ data }: DigitalNomadPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
+  if (isDutchLocale(locale)) return <DigitalNomadThailandGuideNl />;
+  if (!data) return null;
+
   const breadcrumbItems = [
     { name: 'Home', href: '/' },
     { name: 'Thailand Index', href: '/thailand-index/' },
@@ -88,37 +93,32 @@ export default function DigitalNomadPage({ data }: DigitalNomadPageProps) {
   }));
 
   // Top nomad city
-  const topNomadCity = useMemo(() => {
-    return [...data.cities].sort(
+  const topNomadCity = [...data.cities].sort(
       (a, b) => (b.scores?.nomad_score ?? 0) - (a.scores?.nomad_score ?? 0)
     )[0];
-  }, [data.cities]);
 
   // Average monthly cost
-  const avgMonthlyCost = useMemo(() => {
+  const avgMonthlyCost = (() => {
     const costs = data.cities
       .filter((c) => c.nomad?.monthly_cost_usd != null)
       .map((c) => c.nomad!.monthly_cost_usd);
     return costs.length > 0
       ? Math.round(costs.reduce((sum, c) => sum + c, 0) / costs.length)
       : 0;
-  }, [data.cities]);
+  })();
 
   // Cities with large or medium community
-  const largeCommunityCount = useMemo(() => {
-    return data.cities.filter(
+  const largeCommunityCount = data.cities.filter(
       (c) =>
         c.nomad?.nomad_community_size === 'large' ||
         c.nomad?.nomad_community_size === 'medium'
     ).length;
-  }, [data.cities]);
 
   // Top 10 nomad cities from rankings
   const nomadTop10 = data.rankings.best_nomad.items.slice(0, 10);
 
   // Per-region nomad breakdown
-  const regionNomad = useMemo(() => {
-    return data.regions
+  const regionNomad = data.regions
       .map((region) => {
         const slugSet = new Set(region.city_slugs);
         const regionCities = data.cities.filter((c) => slugSet.has(c.slug));
@@ -146,7 +146,6 @@ export default function DigitalNomadPage({ data }: DigitalNomadPageProps) {
         };
       })
       .sort((a, b) => b.avgNomadScore - a.avgNomadScore);
-  }, [data.cities, data.regions]);
 
   // FAQ schema
   const faqSchema = {
@@ -629,9 +628,9 @@ export default function DigitalNomadPage({ data }: DigitalNomadPageProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
   // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const data = require('../../data/thailand-index.json') as ThailandIndex;
+  const data = locale === 'nl' ? null : require('../../data/thailand-index.json') as ThailandIndex;
   return {
     props: { data },
     revalidate: 604800,
