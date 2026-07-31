@@ -8,6 +8,8 @@ import path from 'path';
 import { PattayaNightlifeGuide } from '../../components/nightlife/PattayaNightlifeGuide';
 import { PattayaNightlifeGuideEn } from '../../components/nightlife/PattayaNightlifeGuideEn';
 import { nlCityOwner, nlFoodOwner } from '../../lib/nl-route-owners';
+import { CityNightlifeGuideNl } from '../../components/nightlife/CityNightlifeGuideNl';
+import { getNlCityNightlifeGuide } from '../../data/nightlife/nl-city-guides';
 
 interface Venue {
   name: string;
@@ -104,6 +106,11 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
 
   if (isNl && slug === 'pattaya') {
     return <PattayaNightlifeGuide />;
+  }
+
+  const nlGuide = isNl ? getNlCityNightlifeGuide(slug) : null;
+  if (nlGuide) {
+    return <CityNightlifeGuideNl guide={nlGuide} />;
   }
 
   if (!isNl && slug === 'pattaya') {

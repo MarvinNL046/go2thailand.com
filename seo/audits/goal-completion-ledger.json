@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T21:21:52.140Z",
+  "generatedAt": "2026-07-31T21:59:02.063Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 667,
       "hybrid": 0,
       "noSignature": 33,
-      "exactOwners": 365,
+      "exactOwners": 387,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 105,
       "amazonLinks": 230,
-      "provisionalInventoryDecisions": 284,
+      "provisionalInventoryDecisions": 253,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -848,28 +848,22 @@
       "closed": true
     },
     "nl:manual-review": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:manual-review.",
+      "definition": "All 31 Dutch manual-review routes are closed: 26 exact premium owners and five permanent consolidations to stronger independently researched target owners. Current public-web fallback evidence is recorded without DFS metrics or PAA claims.",
       "expected": 31,
-      "complete": 0,
-      "exactOwners": 4,
-      "remainingCount": 31,
-      "remaining": [
-        "/nl/thailand-street-food/",
-        "/nl/esim/",
-        "/nl/social/",
-        "/nl/weather/",
-        "/nl/travel-gear/",
-        "/nl/best-beaches-in-thailand/",
-        "/nl/best-cooking-classes-in-thailand/",
-        "/nl/best-muay-thai-in-thailand/",
-        "/nl/best-elephant-sanctuaries-in-thailand/",
-        "/nl/best-diving-snorkeling-in-thailand/",
-        "/nl/grand-palace-tickets/",
-        "/nl/phi-phi-island-tour/"
+      "complete": 31,
+      "exactOwners": 26,
+      "remainingCount": 0,
+      "remaining": [],
+      "remainingTruncated": false,
+      "evidence": [
+        "seo/audits/nl-manual-topical-family-2026-07-31.md",
+        "seo/audits/nl-nightlife-family-2026-07-31.md",
+        "seo/audits/nl-thailand-month-family-2026-07-31.md",
+        "seo/research/nl/2026-07-31-topical-manual-web-serp-refresh.md",
+        "seo/research/nl/2026-07-31-city-nightlife-web-serp-refresh.md",
+        "seo/research/nl/2026-07-31-thailand-months-web-serp-refresh.md"
       ],
-      "remainingTruncated": true,
-      "evidence": [],
-      "closed": false
+      "closed": true
     },
     "nl:phuket-location": {
       "definition": "The Dutch Phuket-location family is complete: all fifteen exact owners are independently researched, premium, responsive and separated by intent, including the three Old Town owners and the Patong and Kata spokes.",
@@ -1064,12 +1058,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -1092,12 +1086,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -1106,12 +1100,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1134,7 +1128,7 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
       "exactOwner": true,
@@ -1148,7 +1142,7 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
       "exactOwner": true,
@@ -1204,12 +1198,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1218,12 +1212,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1232,12 +1226,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1246,12 +1240,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1260,12 +1254,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -1274,12 +1268,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1288,12 +1282,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -1302,12 +1296,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": null,
       "designCoverage": "no-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "unproven"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1428,12 +1422,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -3528,7 +3522,7 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
@@ -3542,12 +3536,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -3556,12 +3550,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -3570,7 +3564,7 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
@@ -3584,12 +3578,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6104,12 +6098,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6118,12 +6112,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6132,12 +6126,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6146,12 +6140,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6160,12 +6154,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6174,12 +6168,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6188,12 +6182,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6202,12 +6196,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6216,12 +6210,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6230,12 +6224,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6244,12 +6238,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6258,12 +6252,12 @@
       "templateOwner": "manual-review",
       "recommendedAction": "manual-audit",
       "familyKey": "nl:manual-review",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",

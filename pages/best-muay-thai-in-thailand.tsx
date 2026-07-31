@@ -7,6 +7,8 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/best-muay-thai-in-thailand';
+import NlTopicalManualGuide from '../components/editorial/NlTopicalManualGuide';
+import { nlTopicalManualGuides } from '../data/editorial/nl-topical-manual';
 
 interface MuayThaiActivity {
   name: string;
@@ -74,6 +76,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
   const loc = locale || 'en';
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+  if (isNl) return <NlTopicalManualGuide data={nlTopicalManualGuides['best-muay-thai-in-thailand']} />;
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Beste Muay Thai in Thailand' : 'Best Muay Thai in Thailand', href: '/best-muay-thai-in-thailand/' }

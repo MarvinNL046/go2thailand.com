@@ -7,6 +7,8 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/best-elephant-sanctuaries-in-thailand';
+import NlTopicalManualGuide from '../components/editorial/NlTopicalManualGuide';
+import { nlTopicalManualGuides } from '../data/editorial/nl-topical-manual';
 
 interface Sanctuary {
   name: string;
@@ -63,6 +65,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
   const loc = locale || 'en';
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+  if (isNl) return <NlTopicalManualGuide data={nlTopicalManualGuides['best-elephant-sanctuaries-in-thailand']} />;
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Beste Olifanten Opvangcentra in Thailand' : 'Best Elephant Sanctuaries in Thailand', href: '/best-elephant-sanctuaries-in-thailand/' }

@@ -52,6 +52,7 @@
     "seo:verify:nl-core-hubs": "tsx scripts/verify-nl-core-hubs.ts",
     "seo:verify:nl-planning-essentials": "tsx scripts/verify-nl-planning-essentials.ts",
     "seo:verify:nl-final-owners": "tsx scripts/verify-nl-final-owners.ts",
+    "seo:verify:nl-manual-review": "tsx scripts/verify-nl-manual-review.ts",
     "seo:audit:nl-sitewide": "tsx scripts/audit-nl-sitewide.ts",
     "seo:audit:en-sitewide": "tsx scripts/audit-en-sitewide.ts",
     "seo:audit:design-coverage": "tsx scripts/audit-design-coverage.ts",

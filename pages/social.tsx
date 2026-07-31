@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { useState } from 'react';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
+import NlSocialHub from '../components/editorial/NlSocialHub';
 
 interface SocialPost {
   id: string;
@@ -30,6 +31,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const [filter, setFilter] = useState<string>('all');
+  if (isNl) return <NlSocialHub />;
 
   const categories = [
     { id: 'all', label: 'All Posts', labelNl: 'Alle Berichten', emoji: '' },
@@ -329,7 +331,10 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  if (locale === 'nl') {
+    return { props: { featuredPosts: [], recentPosts: [] } };
+  }
   // TODO: Fetch real social media data from API or database
   // For now, using sample data
 

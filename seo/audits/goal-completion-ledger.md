@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T21:21:52.140Z
+**Generated:** 2026-07-31T21:59:02.063Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 667 | 667 | 0 | 365 | 105 | 230 | 284 |
+| NL | 700 | 667 | 667 | 0 | 387 | 105 | 230 | 253 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -385,12 +385,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:manual-review
 
-- Family accepted: **0/31**
-- Exact owners registered: **4/31**
-- Closed: **no**
-- Remaining routes: **31** (first 12 shown)
-- Sample: `/nl/thailand-street-food/`, `/nl/esim/`, `/nl/social/`, `/nl/weather/`, `/nl/travel-gear/`, `/nl/best-beaches-in-thailand/`, `/nl/best-cooking-classes-in-thailand/`, `/nl/best-muay-thai-in-thailand/`, `/nl/best-elephant-sanctuaries-in-thailand/`, `/nl/best-diving-snorkeling-in-thailand/`, `/nl/grand-palace-tickets/`, `/nl/phi-phi-island-tour/`
-- Evidence: not signed off
+- Family accepted: **31/31**
+- Exact owners registered: **26/31**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-manual-topical-family-2026-07-31.md`, `seo/audits/nl-nightlife-family-2026-07-31.md`, `seo/audits/nl-thailand-month-family-2026-07-31.md`, `seo/research/nl/2026-07-31-topical-manual-web-serp-refresh.md`, `seo/research/nl/2026-07-31-city-nightlife-web-serp-refresh.md`, `seo/research/nl/2026-07-31-thailand-months-web-serp-refresh.md`
 
 ### nl:phuket-location
 

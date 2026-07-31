@@ -43,6 +43,38 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // Retire five broad NL manual duplicates in favour of the independently
+      // researched owners. Preserve every English URL until its own phase.
+      {
+        source: "/nl/thailand-street-food/",
+        destination: "/nl/food/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/esim/",
+        destination: "/nl/travel-guides/sim-card-thailand/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/best-diving-snorkeling-in-thailand/",
+        destination: "/nl/travel-guides/diving-snorkeling-thailand/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/phi-phi-island-tour/",
+        destination: "/nl/phuket-tours/phi-phi-day-trip/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/best-places-to-visit-thailand/",
+        destination: "/nl/city/",
+        permanent: true,
+        locale: false,
+      },
       // Retire the old bilingual budget landing page in favour of the
       // independently researched locale owners.
       {

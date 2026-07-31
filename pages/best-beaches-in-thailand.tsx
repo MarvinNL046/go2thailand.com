@@ -9,6 +9,7 @@ import { normalizeNlInternalHref } from '../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../lib/en-route-owners';
 import { strings as i18nStrings } from '../lib/i18n/best-beaches-in-thailand';
 import { getIslandAffiliates, TRIP_GENERIC, withPlacementSubId } from '../lib/affiliates';
+import { EditorialHero } from '../components/design/EditorialHero';
 
 interface BeachData {
   rank: number;
@@ -223,6 +224,15 @@ function getSelectionReason(beach: BeachData, lang: Lang): string {
     : 'An all-rounder with a clear identity inside this shortlist.';
 }
 
+function nlBeachFit(value: string): string {
+  const labels: Record<string, string> = {
+    families: 'gezinnen', swimming: 'zwemmen', snorkeling: 'snorkelen', diving: 'duiken',
+    nightlife: 'nachtleven', party: 'uitgaan', relaxation: 'rust', seclusion: 'afzondering',
+    romance: 'romantiek', 'fire shows': 'vuurshows', budget: 'budget', surfing: 'surfen',
+  };
+  return labels[value.toLowerCase()] || value;
+}
+
 export default function BestBeachesInThailand({ data }: BestBeachesProps) {
   const t = useT(i18nStrings);
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
@@ -281,7 +291,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
       }
     },
     dateModified: data.last_updated,
-    url: 'https://go2-thailand.com/best-beaches-in-thailand/'
+    url: `https://go2-thailand.com${lang === 'nl' ? '/nl' : ''}/best-beaches-in-thailand/`,
+    inLanguage: lang === 'nl' ? 'nl-NL' : 'en-GB',
   };
 
   const breadcrumbSchema = {
@@ -329,8 +340,22 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         />
       </SEOHead>
 
-      <div className="min-h-screen bg-surface-cream">
-        <section className="bg-surface-dark text-white">
+      <div data-premium-template={lang === 'nl' ? 'nl-topical-best-beaches-in-thailand' : undefined} className="min-h-screen bg-surface-cream">
+        {lang === 'nl' ? (
+          <EditorialHero
+            image="/images/redesign/thailand-island-hopping-hero-v2.webp"
+            imageAlt="Thaise eilanden en verschillende strandtypes gezien vanaf helder kustwater"
+            breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Stranden kiezen' }]}
+            eyebrow="Kustlogica vóór de foto"
+            title={<>Kies je kust.<br /><span className="text-saffron-light">Vind je strand.</span></>}
+            description="Niet elk mooi strand is een slimme uitvalsbasis. Vergelijk eerst kust, eilandtype, drukte en reisfunctie; controleer daarna actuele zeecondities en toegang."
+            actions={[{ label: 'Open de shortlist', href: '#shortlist', kind: 'primary' }, { label: 'Vergelijk de kusten', href: '#kust', kind: 'secondary' }]}
+            contentTone="light"
+            gradientClassName="bg-[linear-gradient(90deg,rgba(3,29,29,0.97)_0%,rgba(3,29,29,0.88)_43%,rgba(3,29,29,0.2)_72%,rgba(3,29,29,0.02)_100%)]"
+            titleClassName="max-w-[760px] text-[4rem] leading-[.85] !text-white sm:text-[5rem] lg:text-[5.7rem]"
+            descriptionClassName="mt-5 max-w-[620px] text-sm leading-7 !text-white/76"
+          />
+        ) : <section className="bg-surface-dark text-white">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="max-w-4xl">
               <p className="font-script text-thailand-gold text-lg mb-3">
@@ -345,20 +370,20 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                   : 'Not every beautiful beach makes sense as a trip base. This guide helps you choose between Thailand\'s headline beach zones by putting coast, island style, crowd pressure, and planning value side by side.'}
               </p>
               <div className="flex flex-wrap gap-3 mt-8 text-sm">
-                <span className="bg-white/15 rounded-full px-4 py-2">25 beaches</span>
-                <span className="bg-white/15 rounded-full px-4 py-2">2 coastlines</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">{lang === 'nl' ? '25 strandprofielen' : '25 beaches'}</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">{lang === 'nl' ? '2 kustsystemen' : '2 coastlines'}</span>
                 <span className="bg-white/15 rounded-full px-4 py-2">{t("s001_sources_tat_thailand_dnp")}</span>
                 <span className="bg-white/15 rounded-full px-4 py-2">{t("s002_updated_march_28_2026")}</span>
               </div>
             </div>
           </div>
-        </section>
+        </section>}
 
-        <section className="bg-white border-b">
+        {lang !== 'nl' && <section className="bg-white border-b">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbItems} />
           </div>
-        </section>
+        </section>}
 
         <section className="bg-white border-b">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-5">
@@ -394,7 +419,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
           </div>
         </section>
 
-        <section className="py-12">
+        <section id="shortlist" className="scroll-mt-24 py-12">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-end justify-between gap-4 mb-8">
               <div>
@@ -434,8 +459,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
 
                     <div className="grid grid-cols-2 gap-3 md:w-64 text-sm">
                       <div className="rounded-2xl bg-surface-cream p-3">
-                        <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Beste maanden' : 'Best months'}</div>
-                        <div className="font-semibold text-gray-900">{beach.best_months}</div>
+                        <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Seizoenscheck' : 'Best months'}</div>
+                        <div className="font-semibold text-gray-900">{lang === 'nl' ? 'Controleer actueel' : beach.best_months}</div>
                       </div>
                       <div className="rounded-2xl bg-surface-cream p-3">
                         <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Drukte' : 'Crowd level'}</div>
@@ -443,7 +468,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                       </div>
                       <div className="rounded-2xl bg-surface-cream p-3 col-span-2">
                         <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Strand werkt goed voor' : 'Works best for'}</div>
-                        <div className="font-semibold text-gray-900">{beach.best_for.slice(0, 3).join(', ')}</div>
+                        <div className="font-semibold text-gray-900">{beach.best_for.slice(0, 3).map(value => lang === 'nl' ? nlBeachFit(value) : value).join(', ')}</div>
                       </div>
                     </div>
                   </div>
@@ -466,17 +491,18 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                     const aff = getIslandAffiliates(beach.island_slug);
                     const tripUrl = withPlacementSubId(aff?.trip ?? TRIP_GENERIC, `best-beaches-${beach.island_slug}`, `beach-${beach.rank}-trip`);
                     const klookUrl = aff?.klook ? withPlacementSubId(aff.klook, `best-beaches-${beach.island_slug}`, `beach-${beach.rank}-klook`) : null;
+                    const showAffiliate = lang !== 'nl' || beach.rank <= 6;
                     return (
                       <div className="mt-5 flex flex-wrap gap-3">
-                        <a
+                        {showAffiliate && <a
                           href={tripUrl}
                           target="_blank"
                           rel="noopener noreferrer nofollow sponsored"
                           className="inline-flex items-center rounded-full bg-thailand-red px-4 py-2 text-sm font-semibold text-white hover:bg-red-700 transition-colors"
                         >
                           {lang === 'nl' ? `Hotels bij ${beach.name} →` : `Hotels near ${beach.name} →`}
-                        </a>
-                        {klookUrl && (
+                        </a>}
+                        {showAffiliate && klookUrl && (
                           <a
                             href={klookUrl}
                             target="_blank"
@@ -501,7 +527,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
           </div>
         </section>
 
-        <section className="py-12 bg-white">
+        <section id="kust" className="scroll-mt-24 py-12 bg-white">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="section-label text-thailand-gold text-center">
               {lang === 'nl' ? 'Kustlogica' : 'Coast logic'}

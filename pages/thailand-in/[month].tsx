@@ -9,6 +9,8 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import monthlyGuides from '../../data/monthly-guides.json';
 import { getAllCities } from '../../lib/cities';
+import ThailandMonthGuideNl from '../../components/planning/ThailandMonthGuideNl';
+import { isMonthSlugNl } from '../../data/thailand-month-guides.nl';
 
 interface MonthlyGuide {
   month: string;
@@ -50,6 +52,16 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
   const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl && isMonthSlugNl(guide.slug)) {
+    return (
+      <ThailandMonthGuideNl
+        slug={guide.slug}
+        previousMonth={previousMonth}
+        nextMonth={nextMonth}
+      />
+    );
+  }
 
   const monthNl: Record<string, string> = {
     January: 'Januari', February: 'Februari', March: 'Maart', April: 'April',

@@ -2,6 +2,9 @@ import Link from 'next/link';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC } from '../../lib/affiliates';
+import { useRouter } from 'next/router';
+import NlTopicalManualGuide from '../../components/editorial/NlTopicalManualGuide';
+import { nlTopicalManualGuides } from '../../data/editorial/nl-topical-manual';
 
 const LAST_VERIFIED = 'April 18, 2026';
 const CANONICAL_URL = 'https://go2-thailand.com/chiang-mai-elephant-sanctuary/';
@@ -163,6 +166,8 @@ function ExternalLink({ href, children }: { href: string; children: React.ReactN
 }
 
 export default function ChiangMaiElephantSanctuaryPage() {
+  const { locale } = useRouter();
+  if (locale === 'nl') return <NlTopicalManualGuide data={nlTopicalManualGuides['chiang-mai-elephant-sanctuary']} />;
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Chiang Mai Elephant Sanctuary', href: '/chiang-mai-elephant-sanctuary' },

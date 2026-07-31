@@ -407,6 +407,52 @@
       "note": "The Dutch commercial family is complete: activities, car rental, yacht/catamaran, all thirteen Phuket-tour owners, flight hubs and routes, plus all twelve romance/wedding/honeymoon/villa owners have exact researched premium implementations."
     },
     {
+      "key": "nl:manual-review",
+      "status": "complete",
+      "acceptedRoutes": [
+        "/nl/thailand-street-food/",
+        "/nl/esim/",
+        "/nl/social/",
+        "/nl/weather/",
+        "/nl/travel-gear/",
+        "/nl/best-beaches-in-thailand/",
+        "/nl/best-cooking-classes-in-thailand/",
+        "/nl/best-muay-thai-in-thailand/",
+        "/nl/best-elephant-sanctuaries-in-thailand/",
+        "/nl/best-diving-snorkeling-in-thailand/",
+        "/nl/grand-palace-tickets/",
+        "/nl/phi-phi-island-tour/",
+        "/nl/chiang-mai-elephant-sanctuary/",
+        "/nl/best-places-to-visit-thailand/",
+        "/nl/nightlife/",
+        "/nl/nightlife/bangkok/",
+        "/nl/nightlife/chiang-mai/",
+        "/nl/nightlife/pattaya/",
+        "/nl/nightlife/phuket/",
+        "/nl/thailand-in/january/",
+        "/nl/thailand-in/february/",
+        "/nl/thailand-in/march/",
+        "/nl/thailand-in/april/",
+        "/nl/thailand-in/may/",
+        "/nl/thailand-in/june/",
+        "/nl/thailand-in/july/",
+        "/nl/thailand-in/august/",
+        "/nl/thailand-in/september/",
+        "/nl/thailand-in/october/",
+        "/nl/thailand-in/november/",
+        "/nl/thailand-in/december/"
+      ],
+      "evidence": [
+        "seo/audits/nl-manual-topical-family-2026-07-31.md",
+        "seo/audits/nl-nightlife-family-2026-07-31.md",
+        "seo/audits/nl-thailand-month-family-2026-07-31.md",
+        "seo/research/nl/2026-07-31-topical-manual-web-serp-refresh.md",
+        "seo/research/nl/2026-07-31-city-nightlife-web-serp-refresh.md",
+        "seo/research/nl/2026-07-31-thailand-months-web-serp-refresh.md"
+      ],
+      "note": "All 31 Dutch manual-review routes are closed: 26 exact premium owners and five permanent consolidations to stronger independently researched target owners. Current public-web fallback evidence is recorded without DFS metrics or PAA claims."
+    },
+    {
       "key": "en:destination-guide",
       "status": "complete",
       "evidence": [

@@ -2,6 +2,9 @@
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC } from '../../lib/affiliates';
+import { useRouter } from 'next/router';
+import NlTopicalManualGuide from '../../components/editorial/NlTopicalManualGuide';
+import { nlTopicalManualGuides } from '../../data/editorial/nl-topical-manual';
 
 const OFFICIAL_SITE = 'https://www.royalgrandpalace.th/en/home';
 const LAST_VERIFIED = 'April 18, 2026';
@@ -87,6 +90,8 @@ const COMMON_MISTAKES = [
 ];
 
 export default function GrandPalaceTicketsPage() {
+  const { locale } = useRouter();
+  if (locale === 'nl') return <NlTopicalManualGuide data={nlTopicalManualGuides['grand-palace-tickets']} />;
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
 
   const breadcrumbs = [
