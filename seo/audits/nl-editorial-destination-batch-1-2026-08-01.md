@@ -1,6 +1,6 @@
 # NL editorial destination batch 1 — acceptatie-audit
 
-Datum: 1 augustus 2026  
+Datum: 1 augustus 2026
 Routes: 6
 
 ## Uitkomst per route

@@ -1,7 +1,7 @@
 # Audit — NL editorial planning batch 1
 
-Datum: 1 augustus 2026  
-Status: gereed voor integratie  
+Datum: 1 augustus 2026
+Status: gereed voor integratie
 Scope: exact zeven Nederlandse blogowners.
 
 ## Resultaat per route

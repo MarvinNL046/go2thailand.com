@@ -1,7 +1,7 @@
 # NL editorial events batch 1 — acceptatie-audit
 
-Datum: 2026-08-01  
-Scope: exact zes Nederlandse eventowners uit `nl:editorial`  
+Datum: 2026-08-01
+Scope: exact zes Nederlandse eventowners uit `nl:editorial`
 Research: `seo/research/nl/2026-08-01-editorial-events-batch-1-current-web.md`
 
 ## Uitkomst

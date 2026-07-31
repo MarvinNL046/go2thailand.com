@@ -1,6 +1,6 @@
 # NL editorial planning batch 1 — actuele openbare webresearch
 
-Gecontroleerd: 1 augustus 2026  
+Gecontroleerd: 1 augustus 2026
 Scope: zeven Nederlandse editorial-routes rond veiligheid, reistijd, reisroutes, reisfouten en verblijfskeuze.
 
 ## Methode

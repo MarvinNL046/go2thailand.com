@@ -1,6 +1,6 @@
 # NL editorial destination batch 1 — actuele publieke-webresearch
 
-Gecontroleerd: 1 augustus 2026  
+Gecontroleerd: 1 augustus 2026
 Methode: actuele publieke webresultaten en primaire overheids-, park-, toerisme- en luchthavenbronnen. Dit dossier bevat geen DataForSEO-volume, ranking- of PAA-claims.
 
 ## Intent en ownergrenzen
