@@ -4,6 +4,7 @@ import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import guideData from '../../data/travel-guides/scooter-rental-thailand.json';
+import ThailandScooterRentalGuideNl from '../../components/editorial/ThailandScooterRentalGuideNl';
 
 interface FAQ {
   question: string;
@@ -17,6 +18,10 @@ interface ScooterGuideProps {
 export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) {
+    return <ThailandScooterRentalGuideNl />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
