@@ -27,6 +27,7 @@ export const amazonAffiliateLinks = {
   'owala-freesip-24oz': 'https://www.amazon.com/dp/B0BZYCJK89',
   'kooky-freeze-dried-monthong-durian': 'https://www.amazon.com/dp/B0CYHBSNSV',
   'aeropress-go-travel-coffee-maker': 'https://www.amazon.com/dp/B07YVL8SF3',
+  'lonely-planet-thai-phrasebook': 'https://www.amazon.com/dp/1786570785',
 } as const;
 
 export type AmazonAffiliateSlug = keyof typeof amazonAffiliateLinks;

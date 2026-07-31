@@ -26,6 +26,7 @@ import ThailandHikingTrekkingGuideNl from '../../components/editorial/ThailandHi
 import ThailandDivingSnorkelingGuideNl from '../../components/editorial/ThailandDivingSnorkelingGuideNl';
 import ThailandFestivalsEventsGuideNl from '../../components/editorial/ThailandFestivalsEventsGuideNl';
 import ThailandShoppingMarketsGuideNl from '../../components/editorial/ThailandShoppingMarketsGuideNl';
+import ThaiPhrasesGuideNl from '../../components/editorial/ThaiPhrasesGuideNl';
 
 // --- Type definitions ---
 
@@ -349,6 +350,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <VpnThailandGuideNl />;
   }
 
+  if (lang === 'nl' && guide.slug === 'thai-phrases-language') {
+    return <ThaiPhrasesGuideNl />;
+  }
+
   if (lang === 'en' && guide.slug === 'solo-female-travel-thailand') {
     return <SoloFemaleThailandGuideEn />;
   }
@@ -625,6 +630,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Een VPN beschermt een verbinding — niet je hele identiteit.' },
             intro: { ...guide.hero.intro, nl: 'Gebruik de tunnel bewust op gedeelde wifi, voor een werkregel of een gekozen netwerklocatie. Houd apparaat- en accountbeveiliging als aparte lagen.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'thai-phrases-language') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Thaise woorden en zinnen voor je reis' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Thaise woorden en zinnen: praktische taalgids' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Leer praktische Thaise woorden en zinnen met Thai-schrift, uitspraakgrenzen, beleefdheid, situatiescripts en noodcommunicatie voor Thailand.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Niet perfect spreken. Wel beter begrepen worden.' },
+            intro: { ...guide.hero.intro, nl: 'Gebruik Thai-schrift om te laten zien wat je bedoelt, romanisering als geheugensteun en audio om de toon te horen.' },
           },
           sections: [],
           faqs: [],
