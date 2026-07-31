@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
+import ThailandTravelGuideNl from '../components/editorial/ThailandTravelGuideNl';
 
 const topCitiesStatic = [
   { slug: 'bangkok', name: 'Bangkok' },
@@ -28,6 +29,8 @@ interface TravelGuideProps {
 export default function ThailandTravelGuide({ topCities, itineraryCount }: TravelGuideProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) return <ThailandTravelGuideNl />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
