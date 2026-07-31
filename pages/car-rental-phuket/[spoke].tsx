@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, TIQETS_GENERIC, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import PhuketCarRentalGuideNl, { CarRentalOwner } from '../../components/car-rental/PhuketCarRentalGuideNl';
 
 type SpokeSlug = 'airport' | 'long-term' | 'automatic';
 
@@ -516,6 +517,11 @@ export default function CarRentalSpokePage({ spoke, primaryPartnerUrl, secondary
   // call-site stable in case future SubID logic depends on router state).
   // For these spoke pages we want explicit placement-tagged SubIDs.
   useSubId();
+
+  if (isNl) {
+    return <PhuketCarRentalGuideNl owner={spoke.slug as CarRentalOwner} primaryUrl={primaryPartnerUrl} secondaryUrl={secondaryPartnerUrl} />;
+  }
+
   const placement = `pseo-car-rental-phuket-${spoke.slug}`;
   const heroPrimarySub = `${placement}-hero-primary`;
   const heroSecondarySub = `${placement}-hero-secondary`;

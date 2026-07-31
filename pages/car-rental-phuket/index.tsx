@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import PhuketCarRentalGuideNl from '../../components/car-rental/PhuketCarRentalGuideNl';
 
 interface PartnerUrls {
   trip_thailand: { partnerUrl: string };
@@ -26,6 +27,10 @@ export default function CarRentalPhuketPage({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <PhuketCarRentalGuideNl owner="hub" primaryUrl={partners.dc_phuket.partnerUrl} secondaryUrl={partners.trip_phuket.partnerUrl} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
