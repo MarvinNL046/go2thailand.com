@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T22:32:45.388Z
+**Generated:** 2026-07-31T22:47:45.306Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -309,7 +309,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 - Closed: **no**
 - Remaining routes: **249** (first 12 shown)
 - Sample: `/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/`, `/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/`, `/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/`, `/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/`, `/nl/blog/beste-tijd-thailand-bezoeken-per-regio/`, `/nl/blog/phuket-weer/`, `/nl/blog/bangkok-travel-tips-reddit/`, `/nl/blog/where-to-stay-phuket-beaches-areas-budget/`, `/nl/blog/songkran-2026-survival-guide-what-to-know/`, `/nl/blog/where-to-stay-chiang-mai-neighborhoods/`, `/nl/blog/grand-palace-bangkok-complete-guide-2026/`, `/nl/blog/bangkok-samyan-street-food-tour-review-klook-2026/`
-- Evidence: `seo/audits/nl-blog-hub-owner-2026-08-01.md`, `seo/research/nl/2026-08-01-thailand-blog-web-serp-refresh.md`, `seo/audits/nl-editorial-pilot-foundation-2026-07-31.md`, `seo/research/nl/2026-07-31-editorial-pilot-current-web.md`
+- Evidence: `seo/audits/nl-blog-hub-owner-2026-08-01.md`, `seo/research/nl/2026-08-01-thailand-blog-web-serp-refresh.md`, `seo/audits/nl-editorial-pilot-foundation-2026-07-31.md`, `seo/research/nl/2026-07-31-editorial-pilot-current-web.md`, `seo/audits/nl-editorial-pilot-body-review-2026-08-01.md`
 
 ### nl:final-owner-batch
 
