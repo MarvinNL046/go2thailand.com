@@ -28,6 +28,7 @@ import ThailandFestivalsEventsGuideNl from '../../components/editorial/ThailandF
 import ThailandShoppingMarketsGuideNl from '../../components/editorial/ThailandShoppingMarketsGuideNl';
 import ThaiPhrasesGuideNl from '../../components/editorial/ThaiPhrasesGuideNl';
 import ThailandHiddenGemsGuideNl from '../../components/editorial/ThailandHiddenGemsGuideNl';
+import ThailandHistoryCultureGuideNl from '../../components/editorial/ThailandHistoryCultureGuideNl';
 
 // --- Type definitions ---
 
@@ -357,6 +358,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (lang === 'nl' && guide.slug === 'hidden-gems-off-beaten-path-thailand') {
     return <ThailandHiddenGemsGuideNl />;
+  }
+
+  if (lang === 'nl' && guide.slug === 'history-culture-thailand') {
+    return <ThailandHistoryCultureGuideNl />;
   }
 
   if (lang === 'en' && guide.slug === 'solo-female-travel-thailand') {
