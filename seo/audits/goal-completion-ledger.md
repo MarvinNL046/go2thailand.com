@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T00:39:07.590Z
+**Generated:** 2026-07-31T11:33:10.076Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 703 | 703 | 703 | 0 | 175 | 36 | 72 | 455 |
+| NL | 700 | 703 | 703 | 0 | 223 | 36 | 72 | 428 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -269,7 +269,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 ### nl:destination-subpillar:attractions
 
 - Family accepted: **34/34**
-- Exact owners registered: **6/34**
+- Exact owners registered: **34/34**
 - Closed: **yes**
 - Remaining routes: **0**
 - Sample: none
@@ -292,6 +292,15 @@ This file is generated from the route inventory, locale keyword-owner registers,
 - Remaining routes: **0**
 - Sample: none
 - Evidence: `seo/audits/nl-weather-family-2026-07-26.md`
+
+### nl:digital-safety-guide
+
+- Family accepted: **0/1**
+- Exact owners registered: **1/1**
+- Closed: **no**
+- Remaining routes: **1**
+- Sample: `/nl/travel-guides/vpn-thailand/`
+- Evidence: not signed off
 
 ### nl:editorial
 
@@ -358,8 +367,8 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:island
 
-- Family accepted: **10/10**
-- Exact owners registered: **9/10**
+- Family accepted: **9/9**
+- Exact owners registered: **9/9**
 - Closed: **yes**
 - Remaining routes: **0**
 - Sample: none
@@ -439,17 +448,17 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:travel-guide
 
-- Family accepted: **0/28**
-- Exact owners registered: **5/28**
-- Closed: **no**
-- Remaining routes: **28** (first 12 shown)
-- Sample: `/nl/things-to-do-in-thailand/`, `/nl/travel-guides/`, `/nl/thailand-index/`, `/nl/thailand-index/budget/`, `/nl/thailand-index/transport/`, `/nl/thailand-index/digital-nomad/`, `/nl/thailand-travel-guide/`, `/nl/thailand-for-first-timers/`, `/nl/thailand-itinerary/`, `/nl/travel-guides/scooter-rental-thailand/`, `/nl/travel-guides/sim-card-thailand/`, `/nl/travel-guides/vpn-thailand/`
-- Evidence: not signed off
+- Family accepted: **25/25**
+- Exact owners registered: **24/25**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-travel-guide-family-2026-07-31.md`
 
 ## Hard completion gates
 
 - [x] noDuplicateExactOwnerRoutes
-- [x] allRoutesHttp200
+- [ ] allRoutesHttp200
 - [x] noMissingDesignSignature
 - [x] sitewideHardErrorsZero
 - [ ] allInventoryDecisionsFinal

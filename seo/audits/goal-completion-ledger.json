@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-31T00:39:07.590Z",
+  "generatedAt": "2026-07-31T11:33:10.076Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
     "nl": {
-      "sitemapRoutes": 703,
+      "sitemapRoutes": 700,
       "http200": 703,
       "premium": 703,
       "hybrid": 0,
       "noSignature": 0,
-      "exactOwners": 175,
+      "exactOwners": 223,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 36,
       "amazonLinks": 72,
-      "provisionalInventoryDecisions": 455,
+      "provisionalInventoryDecisions": 428,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
-      "sitewideReport": "seo/audits/runtime/nl-koh-phangan-final-2026-07-31.json",
+      "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
-        "generatedAt": "2026-07-30T22:35:53.557Z",
-        "routeCount": 703,
-        "passedRoutes": 703,
+        "generatedAt": "2026-07-31T01:53:43.631Z",
+        "routeCount": 700,
+        "passedRoutes": 700,
         "failedRoutes": 0,
         "warnedRoutes": 0,
         "errorCounts": {},
@@ -623,7 +623,7 @@
       "definition": "The Dutch attraction-overview family has explicit 34-route acceptance evidence.",
       "expected": 34,
       "complete": 34,
-      "exactOwners": 6,
+      "exactOwners": 34,
       "remainingCount": 0,
       "remaining": [],
       "remainingTruncated": false,
@@ -690,6 +690,19 @@
         "seo/audits/nl-weather-family-2026-07-26.md"
       ],
       "closed": true
+    },
+    "nl:digital-safety-guide": {
+      "definition": "Pending explicit family-level research, design and technical acceptance for nl:digital-safety-guide.",
+      "expected": 1,
+      "complete": 0,
+      "exactOwners": 1,
+      "remainingCount": 1,
+      "remaining": [
+        "/nl/travel-guides/vpn-thailand/"
+      ],
+      "remainingTruncated": false,
+      "evidence": [],
+      "closed": false
     },
     "nl:editorial": {
       "definition": "Pending explicit family-level research, design and technical acceptance for nl:editorial.",
@@ -806,8 +819,8 @@
     },
     "nl:island": {
       "definition": "The Dutch island main queue is closed at ten of ten: nine independently researched canonical premium owners plus the intentional permanent Koh Samui consolidation into its stronger city destination owner. The separate four-route Koh Tao family remains independently accepted.",
-      "expected": 10,
-      "complete": 10,
+      "expected": 9,
+      "complete": 9,
       "exactOwners": 9,
       "remainingCount": 0,
       "remaining": [],
@@ -944,33 +957,22 @@
       "closed": true
     },
     "nl:travel-guide": {
-      "definition": "Pending explicit family-level research, design and technical acceptance for nl:travel-guide.",
-      "expected": 28,
-      "complete": 0,
-      "exactOwners": 5,
-      "remainingCount": 28,
-      "remaining": [
-        "/nl/things-to-do-in-thailand/",
-        "/nl/travel-guides/",
-        "/nl/thailand-index/",
-        "/nl/thailand-index/budget/",
-        "/nl/thailand-index/transport/",
-        "/nl/thailand-index/digital-nomad/",
-        "/nl/thailand-travel-guide/",
-        "/nl/thailand-for-first-timers/",
-        "/nl/thailand-itinerary/",
-        "/nl/travel-guides/scooter-rental-thailand/",
-        "/nl/travel-guides/sim-card-thailand/",
-        "/nl/travel-guides/vpn-thailand/"
+      "definition": "All 24 live Dutch travel-guide owners have independently documented Dutch research and exact intent boundaries, premium reusable design, primary-source safeguards and responsive QA; the former nightlife-rooftop route is an intentional permanent consolidation into the stronger nightlife owner.",
+      "expected": 25,
+      "complete": 25,
+      "exactOwners": 24,
+      "remainingCount": 0,
+      "remaining": [],
+      "remainingTruncated": false,
+      "evidence": [
+        "seo/audits/nl-travel-guide-family-2026-07-31.md"
       ],
-      "remainingTruncated": true,
-      "evidence": [],
-      "closed": false
+      "closed": true
     }
   },
   "globalGates": {
     "noDuplicateExactOwnerRoutes": true,
-    "allRoutesHttp200": true,
+    "allRoutesHttp200": false,
     "noMissingDesignSignature": true,
     "sitewideHardErrorsZero": true,
     "allInventoryDecisionsFinal": false,
@@ -1027,12 +1029,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1167,12 +1169,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1377,21 +1379,7 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "shared-template-only"
-    },
-    {
-      "locale": "nl",
-      "path": "/nl/thailand-index/budget/",
-      "pageType": "travel-guide",
-      "templateOwner": "travel-guide",
-      "recommendedAction": "freshness-audit",
-      "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
@@ -1400,17 +1388,17 @@
     },
     {
       "locale": "nl",
-      "path": "/nl/thailand-index/transport/",
+      "path": "/nl/thailand-index/budget/",
       "pageType": "travel-guide",
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1419,12 +1407,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1433,12 +1421,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -1475,26 +1463,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"
-    },
-    {
-      "locale": "nl",
-      "path": "/nl/thailand-itinerary/",
-      "pageType": "travel-guide",
-      "templateOwner": "travel-guide",
-      "recommendedAction": "freshness-audit",
-      "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "shared-template-only"
     },
     {
       "locale": "nl",
@@ -4824,9 +4798,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -4866,9 +4840,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -4964,9 +4938,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5006,9 +4980,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5048,9 +5022,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5090,9 +5064,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5132,9 +5106,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5174,9 +5148,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5216,9 +5190,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5258,9 +5232,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5300,9 +5274,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5342,9 +5316,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5384,9 +5358,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5426,9 +5400,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5468,9 +5442,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5510,9 +5484,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5552,9 +5526,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5594,9 +5568,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5636,9 +5610,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5720,9 +5694,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5762,9 +5736,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5804,9 +5778,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5846,9 +5820,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5888,9 +5862,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5930,9 +5904,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -5972,9 +5946,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6014,9 +5988,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6056,9 +6030,9 @@
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "family-accepted"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6297,20 +6271,6 @@
       "exactOwner": false,
       "amazonLinks": 0,
       "proofState": "shared-template-only"
-    },
-    {
-      "locale": "nl",
-      "path": "/nl/islands/koh-samui/",
-      "pageType": "island",
-      "templateOwner": "island",
-      "recommendedAction": "template-audit",
-      "familyKey": "nl:island",
-      "decisionStatus": "final",
-      "httpStatus": 200,
-      "designCoverage": "premium-signature",
-      "exactOwner": false,
-      "amazonLinks": 0,
-      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -6611,14 +6571,14 @@
       "path": "/nl/travel-guides/scooter-rental-thailand/",
       "pageType": "travel-guide",
       "templateOwner": "travel-guide",
-      "recommendedAction": "freshness-audit",
+      "recommendedAction": "keep-improve",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6627,7 +6587,7 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
@@ -6638,15 +6598,15 @@
       "locale": "nl",
       "path": "/nl/travel-guides/vpn-thailand/",
       "pageType": "travel-guide",
-      "templateOwner": "travel-guide",
-      "recommendedAction": "freshness-audit",
-      "familyKey": "nl:travel-guide",
+      "templateOwner": "digital-safety-guide",
+      "recommendedAction": "keep-improve",
+      "familyKey": "nl:digital-safety-guide",
       "decisionStatus": "provisional",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6655,12 +6615,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6669,12 +6629,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6683,12 +6643,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6697,12 +6657,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6711,12 +6671,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6725,12 +6685,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6739,12 +6699,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6753,26 +6713,26 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
       "path": "/nl/travel-guides/nightlife-rooftop-bars-thailand/",
       "pageType": "travel-guide",
       "templateOwner": "travel-guide",
-      "recommendedAction": "freshness-audit",
+      "recommendedAction": "redirect",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -6781,12 +6741,12 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6795,26 +6755,26 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
       "path": "/nl/travel-guides/thai-phrases-language/",
       "pageType": "travel-guide",
       "templateOwner": "travel-guide",
-      "recommendedAction": "freshness-audit",
+      "recommendedAction": "keep-improve",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -6823,7 +6783,7 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
@@ -6837,7 +6797,7 @@
       "templateOwner": "travel-guide",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
@@ -6849,28 +6809,28 @@
       "path": "/nl/travel-guides/hidden-gems-off-beaten-path-thailand/",
       "pageType": "travel-guide",
       "templateOwner": "travel-guide",
-      "recommendedAction": "freshness-audit",
+      "recommendedAction": "keep-improve",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
       "path": "/nl/travel-guides/history-culture-thailand/",
       "pageType": "travel-guide",
       "templateOwner": "travel-guide",
-      "recommendedAction": "freshness-audit",
+      "recommendedAction": "keep-improve",
       "familyKey": "nl:travel-guide",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
