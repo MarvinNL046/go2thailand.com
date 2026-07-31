@@ -498,6 +498,32 @@ export const getStaticProps: GetStaticProps<Props> = async ({
   );
   const generic = routes.find((r) => r.tier === "search") || null;
 
+  if (locale === "nl") {
+    const editorialRoute = (item: Route): Route => ({
+      code: item.code,
+      from: item.from,
+      fromName: item.fromName,
+      duration: "",
+      stops: "",
+      frequency: "",
+      airlines: [],
+      priceBand: "",
+      tier: item.tier,
+      partnerUrl: item.partnerUrl,
+      notes: "",
+    });
+
+    return {
+      props: {
+        route: editorialRoute(route),
+        siblings: siblings.map(editorialRoute),
+        generic: generic ? editorialRoute(generic) : null,
+        lastUpdated: data.lastUpdated,
+      },
+      revalidate: 604800,
+    };
+  }
+
   return {
     props: { route, siblings, generic, lastUpdated: data.lastUpdated },
     revalidate: 604800,

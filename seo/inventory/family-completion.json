@@ -237,14 +237,28 @@
       "acceptedRoutes": [
         "/nl/activities/",
         "/nl/flights-to-phuket/",
-        "/nl/flights-to-phuket/amsterdam/"
+        "/nl/flights-to-phuket/amsterdam/",
+        "/nl/flights-to-phuket/bangkok/",
+        "/nl/flights-to-phuket/bangkok-dmk/",
+        "/nl/flights-to-phuket/chiang-mai/",
+        "/nl/flights-to-phuket/koh-samui/",
+        "/nl/flights-to-phuket/singapore/",
+        "/nl/flights-to-phuket/kuala-lumpur/",
+        "/nl/flights-to-phuket/hong-kong/",
+        "/nl/flights-to-phuket/seoul/",
+        "/nl/flights-to-phuket/dubai/",
+        "/nl/flights-to-phuket/lax/",
+        "/nl/flights-to-phuket/jfk/",
+        "/nl/flights-to-phuket/sfo/",
+        "/nl/flights-to-phuket/london/"
       ],
       "evidence": [
         "seo/audits/nl-activities-hub-pilot-2026-07-24.md",
         "seo/audits/nl-flights-to-phuket-owner-2026-07-31.md",
-        "seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md"
+        "seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md",
+        "seo/audits/nl-phuket-flight-origin-family-2026-07-31.md"
       ],
-      "note": "The Dutch commercial family rebuild is active. Activities, the Phuket flights hub and the Amsterdam origin pilot have exact researched premium owners; remaining origin-flight and commercial routes still require independent acceptance."
+      "note": "The Dutch commercial family rebuild is active. Activities and all fifteen Phuket flight routes (hub plus fourteen origins) have exact researched premium owners; remaining commercial templates still require independent acceptance."
     },
     {
       "key": "en:destination-guide",
