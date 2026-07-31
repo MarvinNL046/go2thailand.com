@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T13:18:33.187Z
+**Generated:** 2026-07-31T13:26:37.223Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 703 | 703 | 0 | 234 | 36 | 72 | 416 |
+| NL | 700 | 703 | 703 | 0 | 235 | 36 | 72 | 415 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -403,12 +403,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:phuket-location
 
-- Family accepted: **11/15**
-- Exact owners registered: **11/15**
+- Family accepted: **12/15**
+- Exact owners registered: **12/15**
 - Closed: **no**
-- Remaining routes: **4**
-- Sample: `/nl/phuket/kata/kata-noi/`, `/nl/phuket/kamala/`, `/nl/phuket/bang-tao/`, `/nl/phuket/surin/`
-- Evidence: `seo/audits/nl-phuket-old-town-owner-2026-07-31.md`, `seo/audits/nl-phuket-old-town-spokes-2026-07-31.md`, `seo/audits/nl-phuket-nai-harn-owner-2026-07-31.md`, `seo/audits/nl-phuket-rawai-owner-2026-07-31.md`, `seo/audits/nl-phuket-karon-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-nightlife-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-restaurants-owner-2026-07-31.md`, `seo/audits/nl-phuket-kata-owner-2026-07-31.md`, `seo/audits/nl-phuket-kata-surfing-owner-2026-07-31.md`
+- Remaining routes: **3**
+- Sample: `/nl/phuket/kamala/`, `/nl/phuket/bang-tao/`, `/nl/phuket/surin/`
+- Evidence: `seo/audits/nl-phuket-old-town-owner-2026-07-31.md`, `seo/audits/nl-phuket-old-town-spokes-2026-07-31.md`, `seo/audits/nl-phuket-nai-harn-owner-2026-07-31.md`, `seo/audits/nl-phuket-rawai-owner-2026-07-31.md`, `seo/audits/nl-phuket-karon-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-nightlife-owner-2026-07-31.md`, `seo/audits/nl-phuket-patong-restaurants-owner-2026-07-31.md`, `seo/audits/nl-phuket-kata-owner-2026-07-31.md`, `seo/audits/nl-phuket-kata-surfing-owner-2026-07-31.md`, `seo/audits/nl-phuket-kata-noi-owner-2026-07-31.md`
 
 ### nl:practical
 
