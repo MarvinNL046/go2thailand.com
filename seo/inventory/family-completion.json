@@ -234,12 +234,17 @@
     {
       "key": "nl:commercial-landing",
       "status": "pending",
-      "acceptedRoutes": ["/nl/activities/", "/nl/flights-to-phuket/"],
+      "acceptedRoutes": [
+        "/nl/activities/",
+        "/nl/flights-to-phuket/",
+        "/nl/flights-to-phuket/amsterdam/"
+      ],
       "evidence": [
         "seo/audits/nl-activities-hub-pilot-2026-07-24.md",
-        "seo/audits/nl-flights-to-phuket-owner-2026-07-31.md"
+        "seo/audits/nl-flights-to-phuket-owner-2026-07-31.md",
+        "seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md"
       ],
-      "note": "The Dutch commercial family rebuild is active. Activities and the Phuket flights hub have exact researched premium owners; origin-flight and remaining commercial route templates still require independent acceptance."
+      "note": "The Dutch commercial family rebuild is active. Activities, the Phuket flights hub and the Amsterdam origin pilot have exact researched premium owners; remaining origin-flight and commercial routes still require independent acceptance."
     },
     {
       "key": "en:destination-guide",

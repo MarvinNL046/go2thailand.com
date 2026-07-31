@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T14:01:00.771Z
+**Generated:** 2026-07-31T14:07:09.912Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 703 | 703 | 0 | 239 | 36 | 72 | 410 |
+| NL | 700 | 703 | 703 | 0 | 240 | 36 | 72 | 409 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -241,12 +241,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:commercial-landing
 
-- Family accepted: **2/53**
-- Exact owners registered: **2/53**
+- Family accepted: **3/53**
+- Exact owners registered: **3/53**
 - Closed: **no**
-- Remaining routes: **51** (first 12 shown)
+- Remaining routes: **50** (first 12 shown)
 - Sample: `/nl/flights-to-bangkok/`, `/nl/flights-to-chiang-mai/`, `/nl/car-rental-phuket/`, `/nl/yacht-charter-phuket/`, `/nl/catamaran-phuket/`, `/nl/yacht-rental-phuket/`, `/nl/phuket-wedding-venues/`, `/nl/phuket-honeymoon/`, `/nl/phuket-luxury-villas/`, `/nl/private-pool-villa-phuket/`, `/nl/phuket-tours/`, `/nl/flights-to-phuket/bangkok/`
-- Evidence: `seo/audits/nl-activities-hub-pilot-2026-07-24.md`, `seo/audits/nl-flights-to-phuket-owner-2026-07-31.md`
+- Evidence: `seo/audits/nl-activities-hub-pilot-2026-07-24.md`, `seo/audits/nl-flights-to-phuket-owner-2026-07-31.md`, `seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md`
 
 ### nl:destination-guide
 
