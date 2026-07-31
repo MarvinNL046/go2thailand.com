@@ -304,7 +304,7 @@ Na **Bangkok in 4 dagen** kun je door naar eilanden; vluchten vanaf Don Mueang.
 
 Vanuit Nederland is dit een klassieker voor meivakantie. Zie [onze eilanden gids](https://go2-thailand.com/nl/islands/) voor vervolg.
 
-In onze ervaring, na Bangkok's hitte, kozen we koele Chiang Mai; boek via [onze transport tips](https://go2-thailand.com/nl/thailand-index/transport/).
+In onze ervaring, na Bangkok's hitte, kozen we koele Chiang Mai; vergelijk het traject via [onze transporttips](https://go2-thailand.com/nl/transport/).
 
 ## 10. Duurzaam reizen en lokale respect
 

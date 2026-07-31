@@ -1365,6 +1365,10 @@ for (const proof of ['EditorialHero', 'PageSectionNav', 'RelatedGuidesSection', 
 }
 if (!thailandDecisionIndexRoute.includes('<ThailandDecisionIndexNl />')) failures.push('Thailand index route does not wire the NL premium decision owner');
 if (!thailandDecisionIndexRoute.includes("locale === 'nl' ? null")) failures.push('Thailand index still serializes legacy score data into NL HTML');
+const legacyThailandTransportIndex = read('pages/thailand-index/transport.tsx');
+for (const proof of ["locale === 'nl'", "destination: '/nl/transport/'", 'permanent: true']) {
+  if (!legacyThailandTransportIndex.includes(proof)) failures.push(`Legacy Thailand transport index lacks NL consolidation proof: ${proof}`);
+}
 
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);

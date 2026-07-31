@@ -1,11 +1,11 @@
 # Route inventory
 
-Generated: 2026-07-29T03:51:08.917Z
+Generated: 2026-07-31T01:40:52.130Z
 
-- Total sitemap URLs: 2266
+- Total sitemap URLs: 2263
 - English URLs: 1563
-- Dutch URLs: 703
-- URLs without a language pair: 900
+- Dutch URLs: 700
+- URLs without a language pair: 903
 
 ## Page families
 
@@ -23,7 +23,7 @@ Generated: 2026-07-29T03:51:08.917Z
 | homepage | 2 |
 | hotel-commercial | 197 |
 | hotel-detail | 429 |
-| island | 28 |
+| island | 27 |
 | itinerary | 30 |
 | location-directory | 54 |
 | other | 67 |
@@ -31,19 +31,19 @@ Generated: 2026-07-29T03:51:08.917Z
 | practical | 29 |
 | region | 10 |
 | transport | 70 |
-| travel-guide | 102 |
+| travel-guide | 100 |
 | where-to-stay | 72 |
 
 ## Provisional actions
 
 | recommended action | URLs |
 |---|---:|
-| freshness-audit | 631 |
+| freshness-audit | 629 |
 | indexation-audit | 429 |
 | keep-improve | 442 |
 | manual-audit | 67 |
 | merge-candidate | 55 |
-| template-audit | 326 |
+| template-audit | 325 |
 | template-improve | 316 |
 
 ## Decision rules

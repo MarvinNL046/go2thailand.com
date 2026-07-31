@@ -52,6 +52,7 @@ export function normalizeNlInternalHref(href: string): string {
     '/thailand-itinerary/': '/itineraries/',
     '/thailand-index/best-time/': '/weather/',
     '/thailand-index/safety/': '/is-thailand-safe/',
+    '/thailand-index/transport/': '/transport/',
     '/digital-nomad/': '/thailand-index/digital-nomad/',
     '/islands/phuket/': '/city/phuket/',
     '/islands/koh-samui/': '/city/koh-samui/',

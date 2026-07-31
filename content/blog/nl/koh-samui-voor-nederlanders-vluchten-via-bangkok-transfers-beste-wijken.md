@@ -40,7 +40,7 @@ Stel je voor: je stapt uit op het vliegveld van Bangkok, de hitte slaat je in he
 
 Vanuit Nederland is Bangkok de poort naar **Koh Samui**, en dat is geen toeval: de meeste vluchten landen daar eerst, waarna je makkelijk overstapt. In onze ervaring, na talloze trips vanaf Schiphol, is dit traject een klassieker voor NL-reizigers – efficiënt en betaalbaar, maar druk in april door de meivakantie en Songkran. Reken op een totale reistijd van 14-18 uur, inclusief overstap.
 
-Het heet seizoen in april maakt vluchten populair, met temperaturen tot 35°C+ in Bangkok die het extreem vochtig voelen, terwijl Koh Samui's bries het dragelijker maakt. Boek vroeg via [onze Thailand-index voor vluchten](https://go2-thailand.com/nl/thailand-index/transport/), want prijzen schieten omhoog rond de Thaise nieuwjaardagen.
+Rond drukke reisperioden kunnen beschikbaarheid en voorwaarden snel veranderen. Vergelijk daarom je concrete data via [onze vervoersgids](https://go2-thailand.com/nl/transport/) en controleer de actuele aanbiederinformatie.
 
 ### Directe vluchten vanaf Schiphol
 
@@ -86,7 +86,7 @@ Binnenlandse vluchten vertrekken frequent; boek ze samen met je internationale t
 
 ### Ferry-opties voor budgetreizigers
 
-Vanaf Surat Thani (bereikbaar per trein of bus vanuit Bangkok, 10-12 uur) neem je een ferry van 1,5-2 uur voor 300-500 THB (≈8-13 EUR). Dit is goedkoper, maar in april's hitte minder comfortabel. Link naar [onze gids voor transport in Thailand](https://go2-thailand.com/nl/thailand-index/transport/) voor details.
+Vanaf Surat Thani reis je verder via een haven en ferry naar Koh Samui. Controleer actuele trein- of busaankomst, transferhaven, vaartijd en overstapmarge samen; zie [onze gids voor transport in Thailand](https://go2-thailand.com/nl/transport/) voor de beslisvolgorde.
 
 - **Beste voor groepen:** Deel een private transfer van BKK naar de ferrypier voor 5000 THB (≈130 EUR).
 - **Wat vermijden:** Nachtbussen in april – te heet en onbetrouwbaar.
@@ -336,7 +336,7 @@ Songkran (13-15 april) betekent waterfun overal – hotels vol, dus boek nu. Pro
 ## Veelgestelde Vragen
 
 ### Wat kost een vliegticket Schiphol-Bangkok in april?
-Retourtickets starten bij 700 EUR met KLM, maar reken op 900-1200 EUR door meivakantie-drukte. Boek vroeg voor Songkran; binnenlandse naar Koh Samui voegt 50-100 EUR toe. Meer in [onze transport gids](https://go2-thailand.com/nl/thailand-index/transport/).
+Vergelijk voor je eigen vertrekdata de volledige reis inclusief bagage, luchthavenwissel en eventuele binnenlandse aansluiting. Meer in [onze transportgids](https://go2-thailand.com/nl/transport/).
 
 ### Hoe lang duurt de transfer van Bangkok naar Koh Samui?
 Een binnenlandse vlucht duurt 1 uur, totaal met overstap 3-4 uur vanaf landing. Ferries via Surat Thani nemen 10-12 uur – kies vlucht voor comfort in april's hitte.

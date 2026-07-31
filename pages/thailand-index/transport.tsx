@@ -369,7 +369,12 @@ export default function TransportPage({ data }: TransportPageProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  if (locale === 'nl') {
+    return {
+      redirect: { destination: '/nl/transport/', permanent: true },
+    };
+  }
   // eslint-disable-next-line @typescript-eslint/no-require-imports
   const data = require('../../data/thailand-index.json') as ThailandIndex;
   return {

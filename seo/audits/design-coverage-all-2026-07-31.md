@@ -1,19 +1,19 @@
 # Rendered design coverage
 
-**Captured:** 2026-07-31T01:36:30.949Z
+**Captured:** 2026-07-31T01:41:27.106Z
 **Base URL:** http://localhost:3000
 
 This report separates sitemap routes, rendered design signatures and exact implemented ContentOps owner routes. A premium signature proves that the current HTML uses the shared redesign primitives; it does not by itself prove unique copy or page-level editorial quality.
 
 ## NL
 
-- Sitemap routes inspected: **703**
-- HTTP 200: **703/703**
-- Premium rendered signature: **703/703**
-- Hybrid rendered signature: **0/703**
-- No redesign signature: **0/703**
+- Sitemap routes inspected: **700**
+- HTTP 200: **700/700**
+- Premium rendered signature: **700/700**
+- Hybrid rendered signature: **0/700**
+- No redesign signature: **0/700**
 - Exact implemented ContentOps owners: **179**
-- Routes with contextual Amazon links: **105/703**
+- Routes with contextual Amazon links: **105/700**
 - Rendered Amazon links: **236** across **16** registered product slugs
 
 | Template owner | Routes | Premium | Hybrid | No signature | Exact SEO owners | Amazon routes | Amazon links |
@@ -25,11 +25,11 @@ This report separates sitemap routes, rendered design signatures and exact imple
 | commercial-landing | 53 | 53 | 0 | 0 | 1 | 0 | 0 |
 | destination-guide | 35 | 35 | 0 | 0 | 35 | 0 | 0 |
 | manual-review | 32 | 32 | 0 | 0 | 5 | 4 | 11 |
-| travel-guide | 28 | 28 | 0 | 0 | 9 | 4 | 12 |
+| travel-guide | 26 | 26 | 0 | 0 | 9 | 4 | 12 |
 | itinerary | 15 | 15 | 0 | 0 | 15 | 0 | 0 |
 | phuket-location | 15 | 15 | 0 | 0 | 0 | 0 | 0 |
-| island | 14 | 14 | 0 | 0 | 13 | 1 | 3 |
 | practical | 14 | 14 | 0 | 0 | 14 | 3 | 5 |
+| island | 13 | 13 | 0 | 0 | 13 | 1 | 3 |
 | region | 5 | 5 | 0 | 0 | 5 | 0 | 0 |
 | hotel-detail | 4 | 4 | 0 | 0 | 4 | 0 | 0 |
 | attraction-detail | 2 | 2 | 0 | 0 | 2 | 0 | 0 |

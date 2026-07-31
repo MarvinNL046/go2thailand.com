@@ -286,7 +286,7 @@ Ons team hoorde verhalen van overbetaalde 'tempeltochten' – stick to officieel
 ## Veelgestelde Vragen
 
 ### Wat kost een vliegticket Schiphol-Bangkok?
-Directe vluchten met KLM of EVA Air kosten €600-1000 retour in april, hoger door meivakantie en Songkran. Boek 3-6 maanden vooruit voor deals. Meer in [onze vluchten-gids](https://go2-thailand.com/nl/thailand-index/transport/).
+Controleer directe en overstapvluchten voor je eigen vertrekdata en vergelijk bagage, luchthaven en wijzigingsvoorwaarden. Meer in [onze vervoersgids](https://go2-thailand.com/nl/transport/).
 
 ### Is Bangkok veilig voor solo vrouwen?
 Ja, overdag overal; 's nachts vermijd donkere sois. Gebruik Grab, deel locatie. Thailand scoort goed op [veiligheid](https://go2-thailand.com/nl/is-thailand-safe/).

@@ -151,7 +151,7 @@ Kies op basis van budget en bestemming (Patong 45 min, 40 km).
   </div>
 </div></div>
 
-Zie [onze Thailand transport index](https://go2-thailand.com/nl/thailand-index/transport/) voor meer.
+Zie [onze Thailand-transportgids](https://go2-thailand.com/nl/transport/) voor meer.
 
 ## 6. Eten en Drinken op Phuket Airport: Thaise Klassiekers
 **Phuket Airport** heeft food courts met authentieke Thaise opties – perfect na landing in april hitte. Regionale twist: zuidelijke smaken zoals pittige curries, anders dan noordelijke khao soi uit Chiang Mai.
@@ -266,7 +266,7 @@ In april 30-90 minuten, langer bij drukte post-Songkran. Download TM6 app voor s
 Internationale departure fees stijgen 53% vanaf 20 juni 2026. Check airline voor exacte impact.
 
 ### Beste transfer Phuket Airport naar Patong?
-Grab of officiële taxi: 45 min, 500-800 THB. Vermijd scams. Zie [transport tips](https://go2-thailand.com/nl/thailand-index/transport/).
+Controleer voor een taxi of app-rit de officiële opstapplek, actuele ritinformatie en voertuiggegevens. Zie onze [transporttips](https://go2-thailand.com/nl/transport/).
 
 ### Is er gratis WiFi op Phuket Airport?
 Ja, 'Phuket Airport Free WiFi' – stabiel, maar eSIM beter voor hele trip.

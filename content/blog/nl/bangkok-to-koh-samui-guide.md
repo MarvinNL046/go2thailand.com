@@ -153,7 +153,7 @@ Vanaf het treinstation Surat Thani kun je een combitransfer boeken:
 
 Totale kosten voor trein + ferry: **€14–28**, afhankelijk van je treinklasse en ferrykeuze.
 
-Meer details over deze route? Bekijk onze [Surat Thani reisgids](https://go2-thailand.com/city/surat-thani/) en [complete vervoerswijzer](https://go2-thailand.com/thailand-index/transport/).
+Meer details over deze route? Bekijk onze [Surat Thani-reisgids](https://go2-thailand.com/nl/city/surat-thani/) en [complete vervoerswijzer](https://go2-thailand.com/nl/transport/).
 
 ---
 
