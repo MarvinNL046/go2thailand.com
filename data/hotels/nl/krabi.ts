@@ -113,7 +113,7 @@ export const krabiHotelGuide: HotelGuideData = {
       bestFor: 'Solo- en budgetreizigers',
       description: 'Een sociaal hostel in Krabi Town, dichtbij lokale markten en horeca. Geschikt als voordelige basis of korte stop voor je verder reist.',
       whySelected: 'Een duidelijke budgetkeuze in de stad, zonder te doen alsof Krabi Town een strandbestemming is.',
-      officialUrl: 'https://www.hostelworld.com/hostels/p/46929/pak-up-hostel/',
+      officialUrl: 'https://www.pakuphostel.com/',
     },
     {
       name: 'The Tubkaak Krabi Boutique Resort',
@@ -195,6 +195,7 @@ export const krabiHotelGuide: HotelGuideData = {
     { title: 'Railay Bay Resort & Spa', creator: 'Officiële hotelsite', url: 'https://www.krabi-railaybay.com/?lang=en', note: 'Controle van de ligging op Railay en bereikbaarheid per boot.' },
     { title: 'Panan Krabi Resort', creator: 'Officiële hotelsite', url: 'https://panankrabiresort.com/', note: 'Controle van locatie, hoteltype en voorzieningen in Ao Nang.' },
     { title: 'Sea Seeker Krabi Resort', creator: 'Officiële hotelsite', url: 'https://www.seaseekerkrabiresort.com/', note: 'Controle van locatie en afstand tot Ao Nang Beach.' },
+    { title: 'Pak-Up Hostel', creator: 'Pak-Up Hostel', url: 'https://www.pakuphostel.com/', note: 'Officiële hostelsite voor de locatie in Krabi Town, kamertypen en actuele faciliteiten.' },
     { title: 'The Tubkaak Krabi Boutique Resort', creator: 'Officiële hotelsite', url: 'https://www.tubkaakresort.com/', note: 'Controle van ligging en positionering aan Tubkaek Beach.' },
     { title: 'Banyan Tree Krabi', creator: 'Officiële hotelsite', url: 'https://www.banyantree.com/thailand/krabi', note: 'Controle van ligging en resortfaciliteiten bij Tubkaek.' },
     { title: 'Dusit Thani Krabi Beach Resort', creator: 'Officiële hotelsite', url: 'https://www.dusit.com/dusitthani-krabibeachresort/', note: 'Controle van ligging en resortfaciliteiten bij Klong Muang.' },

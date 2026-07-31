@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T18:52:08.271Z
+**Generated:** 2026-07-31T19:04:39.487Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -349,21 +349,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:hotel-guide
 
-- Family accepted: **43/75**
-- Exact owners registered: **43/75**
+- Family accepted: **50/82**
+- Exact owners registered: **50/82**
 - Closed: **no**
 - Remaining routes: **32** (first 12 shown)
 - Sample: `/nl/phuket/patong/hotels/grand-mercure-phuket-patong/`, `/nl/phuket/patong/hotels/four-points-by-sheraton-phuket-patong-beach-resort/`, `/nl/phuket/patong/hotels/hotel-indigo-phuket-patong/`, `/nl/phuket/patong/hotels/hotel-clover-patong-phuket/`, `/nl/phuket/patong/hotels/movenpick-myth-hotel-patong-phuket/`, `/nl/phuket/patong/hotels/lub-d-phuket-patong/`, `/nl/phuket/patong/hotels/la-flora-resort-patong/`, `/nl/phuket/patong/hotels/7q-patong-beach-hotel/`, `/nl/phuket/patong/hotels/holiday-inn-express-phuket-patong-beach-central/`, `/nl/phuket/patong/hotels/andaman-embrace-patong/`, `/nl/phuket/patong/hotels/best-western-patong-beach/`, `/nl/phuket/patong/hotels/mt-hotel-patong/`
-- Evidence: `seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md`, `seo/audits/nl-phuket-area-hotels-family-2026-07-31.md`, `seo/audits/nl-phuket-hotel-categories-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-1-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-2-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-3-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-4-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-5-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-6-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-7-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md`
-
-### nl:hotel-guide:accepted-seven
-
-- Family accepted: **7/7**
-- Exact owners registered: **7/7**
-- Closed: **yes**
-- Remaining routes: **0**
-- Sample: none
-- Evidence: `seo/audits/nl-hotel-overview-family-2026-07-26.md`
+- Evidence: `seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md`, `seo/audits/nl-phuket-area-hotels-family-2026-07-31.md`, `seo/audits/nl-phuket-hotel-categories-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-1-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-2-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-3-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-4-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-5-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-6-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-7-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md`, `seo/audits/nl-hotel-overview-family-2026-07-26.md`
 
 ### nl:island
 

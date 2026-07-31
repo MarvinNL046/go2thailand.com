@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T18:52:08.271Z",
+  "generatedAt": "2026-07-31T19:04:39.487Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -778,10 +778,10 @@
       "closed": true
     },
     "nl:hotel-guide": {
-      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and thirty-three independently researched destination hotel owners are premium and accepted; remaining destination guides and administratively grouped hotel profiles remain.",
-      "expected": 75,
-      "complete": 43,
-      "exactOwners": 43,
+      "definition": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and forty independently researched destination hotel owners are premium and accepted; the remaining queue consists of two destination guides and thirty individual Phuket hotel profiles.",
+      "expected": 82,
+      "complete": 50,
+      "exactOwners": 50,
       "remainingCount": 32,
       "remaining": [
         "/nl/phuket/patong/hotels/grand-mercure-phuket-patong/",
@@ -809,22 +809,10 @@
         "seo/audits/nl-city-hotel-guides-batch-5-2026-07-31.md",
         "seo/audits/nl-city-hotel-guides-batch-6-2026-07-31.md",
         "seo/audits/nl-city-hotel-guides-batch-7-2026-07-31.md",
-        "seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md"
-      ],
-      "closed": false
-    },
-    "nl:hotel-guide:accepted-seven": {
-      "definition": "Seven independently researched Dutch best-hotel owners and their 21 legacy redirects have explicit production acceptance.",
-      "expected": 7,
-      "complete": 7,
-      "exactOwners": 7,
-      "remainingCount": 0,
-      "remaining": [],
-      "remainingTruncated": false,
-      "evidence": [
+        "seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md",
         "seo/audits/nl-hotel-overview-family-2026-07-26.md"
       ],
-      "closed": true
+      "closed": false
     },
     "nl:island": {
       "definition": "The Dutch island main queue is closed at ten of ten: nine independently researched canonical premium owners plus the intentional permanent Koh Samui consolidation into its stronger city destination owner. The separate four-route Koh Tao family remains independently accepted.",
@@ -3405,7 +3393,7 @@
       "pageType": "hotel-commercial",
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
-      "familyKey": "nl:hotel-guide:accepted-seven",
+      "familyKey": "nl:hotel-guide",
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
@@ -3419,7 +3407,7 @@
       "pageType": "hotel-commercial",
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
-      "familyKey": "nl:hotel-guide:accepted-seven",
+      "familyKey": "nl:hotel-guide",
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
@@ -3433,7 +3421,7 @@
       "pageType": "hotel-commercial",
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
-      "familyKey": "nl:hotel-guide:accepted-seven",
+      "familyKey": "nl:hotel-guide",
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
@@ -3447,7 +3435,7 @@
       "pageType": "hotel-commercial",
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
-      "familyKey": "nl:hotel-guide:accepted-seven",
+      "familyKey": "nl:hotel-guide",
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
@@ -3461,7 +3449,7 @@
       "pageType": "hotel-commercial",
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
-      "familyKey": "nl:hotel-guide:accepted-seven",
+      "familyKey": "nl:hotel-guide",
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
@@ -3475,7 +3463,7 @@
       "pageType": "hotel-commercial",
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
-      "familyKey": "nl:hotel-guide:accepted-seven",
+      "familyKey": "nl:hotel-guide",
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
@@ -3489,7 +3477,7 @@
       "pageType": "hotel-commercial",
       "templateOwner": "hotel-guide",
       "recommendedAction": "keep-improve",
-      "familyKey": "nl:hotel-guide:accepted-seven",
+      "familyKey": "nl:hotel-guide",
       "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",

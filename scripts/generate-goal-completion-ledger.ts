@@ -81,15 +81,6 @@ function duplicates(values: string[]): string[] {
   return [...duplicate].sort();
 }
 
-const nlAcceptedHotelOverviews = new Set([
-  '/nl/best-hotels/bangkok/',
-  '/nl/best-hotels/chiang-mai/',
-  '/nl/best-hotels/khao-sok/',
-  '/nl/best-hotels/koh-samui/',
-  '/nl/best-hotels/koh-tao/',
-  '/nl/best-hotels/krabi/',
-  '/nl/best-hotels/phuket/',
-]);
 const nlKohTaoFamily = new Set([
   '/nl/islands/koh-tao/',
   '/nl/islands/koh-tao/attractions/',
@@ -104,7 +95,6 @@ const nlFinalOwnerBatch = new Set([
 
 function routeFamilyKey(row: InventoryRoute): string {
   if (nlFinalOwnerBatch.has(row.path)) return 'nl:final-owner-batch';
-  if (nlAcceptedHotelOverviews.has(row.path)) return 'nl:hotel-guide:accepted-seven';
   if (nlKohTaoFamily.has(row.path)) return 'nl:island:koh-tao';
   if (row.locale === 'nl' && row.template_owner === 'practical' && row.path.startsWith('/nl/visa/')) return 'nl:practical:visa';
   if (row.template_owner === 'destination-subpillar') {

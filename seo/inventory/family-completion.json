@@ -48,7 +48,14 @@
         "/nl/best-hotels/chiang-khong/",
         "/nl/best-hotels/kamphaeng-phet/",
         "/nl/best-hotels/nan/",
-        "/nl/best-hotels/phetchaburi/"
+        "/nl/best-hotels/phetchaburi/",
+        "/nl/best-hotels/bangkok/",
+        "/nl/best-hotels/chiang-mai/",
+        "/nl/best-hotels/khao-sok/",
+        "/nl/best-hotels/koh-samui/",
+        "/nl/best-hotels/koh-tao/",
+        "/nl/best-hotels/krabi/",
+        "/nl/best-hotels/phuket/"
       ],
       "evidence": [
         "seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md",
@@ -61,9 +68,10 @@
         "seo/audits/nl-city-hotel-guides-batch-5-2026-07-31.md",
         "seo/audits/nl-city-hotel-guides-batch-6-2026-07-31.md",
         "seo/audits/nl-city-hotel-guides-batch-7-2026-07-31.md",
-        "seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md"
+        "seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md",
+        "seo/audits/nl-hotel-overview-family-2026-07-26.md"
       ],
-      "note": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and thirty-three independently researched destination hotel owners are premium and accepted; remaining destination guides and administratively grouped hotel profiles remain."
+      "note": "The Dutch hotel-guide rebuild is active. The national hub, six Phuket area hubs, three Phuket category owners and forty independently researched destination hotel owners are premium and accepted; the remaining queue consists of two destination guides and thirty individual Phuket hotel profiles."
     },
     {
       "key": "nl:destination-guide",
@@ -177,12 +185,6 @@
       "status": "complete",
       "evidence": ["seo/audits/nl-hotel-detail-family-2026-07-26.md"],
       "note": "All four Dutch hotel-detail owners have ranking preservation, premium design and family QA evidence."
-    },
-    {
-      "key": "nl:hotel-guide:accepted-seven",
-      "status": "complete",
-      "evidence": ["seo/audits/nl-hotel-overview-family-2026-07-26.md"],
-      "note": "Seven independently researched Dutch best-hotel owners and their 21 legacy redirects have explicit production acceptance."
     },
     {
       "key": "nl:practical:visa",
