@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../../components/SEOHead';
 import Breadcrumbs from '../../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlKaronHotelDetailGuide } from '../../../../../data/hotel-details/nl-karon';
+import type { HotelDetailGuideData } from '../../../../../data/hotel-details/types';
 import { withSubId, TRIP_GENERIC } from '../../../../../lib/affiliates';
 import { useSubId } from '../../../../../lib/useSubId';
 
@@ -45,6 +48,7 @@ interface Sibling { slug: string; shortName: string; tier: string; priceBand: st
 
 interface Props {
   hotel: Hotel;
+  nlGuide: HotelDetailGuideData | null;
   partners: PartnersFile;
   siblings: Sibling[];
   lastUpdated: string;
@@ -94,11 +98,18 @@ const HOTEL_SEO: Record<string, { titleEn: string; titleNl: string; h1En: string
   },
 };
 
-export default function KaronHotelDetailPage({ hotel, partners, siblings, lastUpdated }: Props) {
+export default function KaronHotelDetailPage({ hotel, nlGuide, partners, siblings, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
   const seo = HOTEL_SEO[hotel.slug];
+  const partnerUrl = partners[hotel.partnerKey]?.partnerUrl
+    ? withSubId(partners[hotel.partnerKey].partnerUrl, `${subId}-pseo-phuket-karon-${hotel.slug}-hotel-detail`)
+    : withSubId(TRIP_GENERIC, `${subId}-pseo-phuket-karon-${hotel.slug}-hotel-detail`);
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={partnerUrl} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -126,10 +137,6 @@ export default function KaronHotelDetailPage({ hotel, partners, siblings, lastUp
     '@context': 'https://schema.org', '@type': 'FAQPage',
     mainEntity: hotel.faq.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
   };
-
-  const partnerUrl = partners[hotel.partnerKey]?.partnerUrl
-    ? withSubId(partners[hotel.partnerKey].partnerUrl, subId)
-    : withSubId(TRIP_GENERIC, subId);
 
   return (
     <>
@@ -338,6 +345,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
+      nlGuide: getNlKaronHotelDetailGuide(slug),
       partners: partnersData.partners,
       siblings,
       lastUpdated: hotelsData.lastUpdated,

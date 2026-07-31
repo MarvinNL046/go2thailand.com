@@ -1,6 +1,7 @@
 import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { nlPhuketHotelDetailGuides } from '../data/hotel-details/nl-phuket';
+import { nlKaronHotelDetailGuides } from '../data/hotel-details/nl-karon';
 
 const baseUrl = process.env.SITE_VERIFY_BASE_URL || 'http://localhost:3000';
 const projectRoot = resolve(__dirname, '..');
@@ -13,7 +14,14 @@ const expectedSlugs = [
   'novotel-phuket-kamala-beach',
   'sunwing-kamala-beach',
   'sunprime-kamala-beach',
+  'pullman-phuket-arcadia-karon-beach-resort',
+  'centara-grand-beach-resort-phuket',
+  'mandarava-resort-and-spa-karon-beach',
+  'beyond-resort-karon',
+  'avista-grande-karon-mgallery',
 ];
+
+const guides = { ...nlPhuketHotelDetailGuides, ...nlKaronHotelDetailGuides };
 
 function decodeHtml(value: string): string {
   return value.replace(/&quot;/g, '"').replace(/&#x27;|&#39;/g, "'").replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
@@ -29,7 +37,7 @@ function attribute(tag: string, name: string): string {
 
 async function verify(slug: string): Promise<string[]> {
   const errors: string[] = [];
-  const data = nlPhuketHotelDetailGuides[slug];
+  const data = guides[slug];
   if (!data) return [`ownerdata ontbreekt voor ${slug}`];
   if (!existsSync(resolve(projectRoot, 'public', data.hero.image.replace(/^\//, '')))) errors.push(`heroasset ontbreekt: ${data.hero.image}`);
   if (data.sources.length < 1 || data.sources.some((source) => !/^https:\/\//.test(source.url))) errors.push('primaire bronregistratie ontbreekt');
