@@ -23,6 +23,7 @@ import ThailandAnimalRiskGuideNl from '../../components/editorial/ThailandAnimal
 import ThailandNationalParksGuideNl from '../../components/editorial/ThailandNationalParksGuideNl';
 import ThailandHikingTrekkingGuideNl from '../../components/editorial/ThailandHikingTrekkingGuideNl';
 import ThailandDivingSnorkelingGuideNl from '../../components/editorial/ThailandDivingSnorkelingGuideNl';
+import ThailandFestivalsEventsGuideNl from '../../components/editorial/ThailandFestivalsEventsGuideNl';
 
 // --- Type definitions ---
 
@@ -384,6 +385,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (lang === 'nl' && guide.slug === 'diving-snorkeling-thailand') {
     return <ThailandDivingSnorkelingGuideNl />;
+  }
+
+  if (lang === 'nl' && guide.slug === 'festivals-events-thailand') {
+    return <ThailandFestivalsEventsGuideNl />;
   }
 
   const breadcrumbs = [
@@ -776,6 +781,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'De beste waterdag begint met een geloofwaardige no-go.' },
             intro: { ...guide.hero.intro, nl: 'Kies eerst de activiteit en controleer daarna gezondheid, ervaring, parkstatus, zeeconditie, operator en alternatief.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'festivals-events-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Festivals en evenementen in Thailand' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Festivals Thailand: Songkran, Loy Krathong en meer' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Plan festivals in Thailand met betekenis en actuele editiecontrole. Verifieer datum, locatie, toegang, vervoer, gedrag en programma.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Een festivalnaam is nog geen bevestigd programma.' },
+            intro: { ...guide.hero.intro, nl: 'Kies betekenis en plaats en controleer daarna kalenderjaar, datum, locatie, toegang, vervoer en lokale instructies.' },
           },
           sections: [],
           faqs: [],
