@@ -1,0 +1,14 @@
+# Local research and audit evidence is retained in Git, but is not required by Next.js at runtime.
+seo/
+
+# Codex/dev-server logs and caches must never enter a deployment artifact.
+.codex-runtime/
+
+# Local-only references and installed dependencies are not deployment inputs.
+design-references/
+node_modules/
+
+# Local environment files remain private; Vercel supplies project environment variables.
+.env*
+!.env.example
+!.env.seo.example
