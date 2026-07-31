@@ -22,6 +22,7 @@ import { nakhonRatchasimaAttractionsGuide } from './nakhon-ratchasima';
 import { ubonRatchathaniAttractionsGuide } from './ubon-ratchathani';
 import { lopburiAttractionsGuide } from './lopburi';
 import { phitsanulokAttractionsGuide } from './phitsanulok';
+import { nakhonSiThammaratAttractionsGuide } from './nakhon-si-thammarat';
 
 const guides: Record<string, AttractionGuideData> = {
   ayutthaya: ayutthayaAttractionsGuide,
@@ -47,10 +48,11 @@ const guides: Record<string, AttractionGuideData> = {
   'ubon-ratchathani': ubonRatchathaniAttractionsGuide,
   lopburi: lopburiAttractionsGuide,
   phitsanulok: phitsanulokAttractionsGuide,
+  'nakhon-si-thammarat': nakhonSiThammaratAttractionsGuide,
 };
 
 export function getNlAttractionsGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { ayutthayaAttractionsGuide, bangkokAttractionsGuide, chiangMaiAttractionsGuide, chiangRaiAttractionsGuide, hatYaiAttractionsGuide, huaHinAttractionsGuide, khaoSokAttractionsGuide, kanchanaburiAttractionsGuide, khonKaenAttractionsGuide, kohSamuiAttractionsGuide, kohTaoAttractionsGuide, lampangAttractionsGuide, lopburiAttractionsGuide, maeHongSonAttractionsGuide, nakhonRatchasimaAttractionsGuide, paiAttractionsGuide, pattayaAttractionsGuide, phitsanulokAttractionsGuide, phuketAttractionsGuide, sukhothaiAttractionsGuide, suratThaniAttractionsGuide, ubonRatchathaniAttractionsGuide, udonThaniAttractionsGuide };
+export { ayutthayaAttractionsGuide, bangkokAttractionsGuide, chiangMaiAttractionsGuide, chiangRaiAttractionsGuide, hatYaiAttractionsGuide, huaHinAttractionsGuide, khaoSokAttractionsGuide, kanchanaburiAttractionsGuide, khonKaenAttractionsGuide, kohSamuiAttractionsGuide, kohTaoAttractionsGuide, lampangAttractionsGuide, lopburiAttractionsGuide, maeHongSonAttractionsGuide, nakhonRatchasimaAttractionsGuide, nakhonSiThammaratAttractionsGuide, paiAttractionsGuide, pattayaAttractionsGuide, phitsanulokAttractionsGuide, phuketAttractionsGuide, sukhothaiAttractionsGuide, suratThaniAttractionsGuide, ubonRatchathaniAttractionsGuide, udonThaniAttractionsGuide };
