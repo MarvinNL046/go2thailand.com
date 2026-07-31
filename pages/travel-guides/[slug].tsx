@@ -18,6 +18,7 @@ import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 import ExpatLongStayThailandGuideNl from '../../components/editorial/ExpatLongStayThailandGuideNl';
 import HealthHospitalsThailandGuideNl from '../../components/editorial/HealthHospitalsThailandGuideNl';
 import ThailandWithKidsGuideNl from '../../components/editorial/ThailandWithKidsGuideNl';
+import SoloFemaleThailandGuideNl from '../../components/editorial/SoloFemaleThailandGuideNl';
 
 // --- Type definitions ---
 
@@ -361,6 +362,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <ThailandWithKidsGuideNl />;
   }
 
+  if (lang === 'nl' && guide.slug === 'solo-female-travel-thailand') {
+    return <SoloFemaleThailandGuideNl />;
+  }
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: lang === 'nl' ? 'Reisgidsen' : 'Travel Guides', href: '/travel-guides/' },
@@ -626,6 +631,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Bouw de reis rond energie, slaap en transfers—niet rond zoveel mogelijk stops.' },
             intro: { ...guide.hero.intro, nl: 'Vergelijk gezinsfit, routebelasting, kamerindeling, weer en zorgtoegang voordat je boekt.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'solo-female-travel-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Solo reizen in Thailand als vrouw' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Solo reizen Thailand als vrouw: veiligheid en route' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Plan solo reizen in Thailand met een concrete aankomst-, vervoer-, avond-, check-in- en noodroute.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Maak elke overgang controleerbaar: aankomst, rit, avond en terugweg.' },
+            intro: { ...guide.hero.intro, nl: 'Verklein risico’s met actuele routechecks, vaste ankerpunten en een concrete hulpketen.' },
           },
           sections: [],
           faqs: [],
