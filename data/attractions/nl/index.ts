@@ -14,6 +14,7 @@ import { paiAttractionsGuide } from './pai';
 import { pattayaAttractionsGuide } from './pattaya';
 import { sukhothaiAttractionsGuide } from './sukhothai';
 import { suratThaniAttractionsGuide } from './surat-thani';
+import { maeHongSonAttractionsGuide } from './mae-hong-son';
 
 const guides: Record<string, AttractionGuideData> = {
   ayutthaya: ayutthayaAttractionsGuide,
@@ -31,10 +32,11 @@ const guides: Record<string, AttractionGuideData> = {
   pattaya: pattayaAttractionsGuide,
   sukhothai: sukhothaiAttractionsGuide,
   'surat-thani': suratThaniAttractionsGuide,
+  'mae-hong-son': maeHongSonAttractionsGuide,
 };
 
 export function getNlAttractionsGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { ayutthayaAttractionsGuide, bangkokAttractionsGuide, chiangMaiAttractionsGuide, chiangRaiAttractionsGuide, hatYaiAttractionsGuide, huaHinAttractionsGuide, khaoSokAttractionsGuide, kanchanaburiAttractionsGuide, kohSamuiAttractionsGuide, kohTaoAttractionsGuide, paiAttractionsGuide, pattayaAttractionsGuide, phuketAttractionsGuide, sukhothaiAttractionsGuide, suratThaniAttractionsGuide };
+export { ayutthayaAttractionsGuide, bangkokAttractionsGuide, chiangMaiAttractionsGuide, chiangRaiAttractionsGuide, hatYaiAttractionsGuide, huaHinAttractionsGuide, khaoSokAttractionsGuide, kanchanaburiAttractionsGuide, kohSamuiAttractionsGuide, kohTaoAttractionsGuide, maeHongSonAttractionsGuide, paiAttractionsGuide, pattayaAttractionsGuide, phuketAttractionsGuide, sukhothaiAttractionsGuide, suratThaniAttractionsGuide };
