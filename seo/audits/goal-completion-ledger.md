@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T14:38:21.993Z
+**Generated:** 2026-07-31T14:50:11.273Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 703 | 703 | 0 | 259 | 36 | 72 | 390 |
+| NL | 700 | 703 | 703 | 0 | 265 | 36 | 72 | 384 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -241,12 +241,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:commercial-landing
 
-- Family accepted: **22/53**
-- Exact owners registered: **22/53**
+- Family accepted: **28/53**
+- Exact owners registered: **28/53**
 - Closed: **no**
-- Remaining routes: **31** (first 12 shown)
-- Sample: `/nl/yacht-charter-phuket/`, `/nl/catamaran-phuket/`, `/nl/yacht-rental-phuket/`, `/nl/phuket-wedding-venues/`, `/nl/phuket-honeymoon/`, `/nl/phuket-luxury-villas/`, `/nl/private-pool-villa-phuket/`, `/nl/phuket-tours/`, `/nl/yacht-charter-phuket/luxury/`, `/nl/yacht-charter-phuket/phi-phi/`, `/nl/yacht-charter-phuket/similan/`, `/nl/phuket-wedding-venues/beach/`
-- Evidence: `seo/audits/nl-activities-hub-pilot-2026-07-24.md`, `seo/audits/nl-phuket-car-rental-family-2026-07-31.md`, `seo/audits/nl-bangkok-chiang-mai-flight-hubs-2026-07-31.md`, `seo/audits/nl-flights-to-phuket-owner-2026-07-31.md`, `seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md`, `seo/audits/nl-phuket-flight-origin-family-2026-07-31.md`
+- Remaining routes: **25** (first 12 shown)
+- Sample: `/nl/phuket-wedding-venues/`, `/nl/phuket-honeymoon/`, `/nl/phuket-luxury-villas/`, `/nl/private-pool-villa-phuket/`, `/nl/phuket-tours/`, `/nl/phuket-wedding-venues/beach/`, `/nl/phuket-wedding-venues/resort-packages/`, `/nl/phuket-wedding-venues/villa/`, `/nl/phuket-honeymoon/private-pool-villas/`, `/nl/phuket-honeymoon/all-inclusive/`, `/nl/phuket-luxury-villas/private-pool/`, `/nl/phuket-luxury-villas/oceanfront/`
+- Evidence: `seo/audits/nl-activities-hub-pilot-2026-07-24.md`, `seo/audits/nl-phuket-car-rental-family-2026-07-31.md`, `seo/audits/nl-phuket-yacht-family-2026-07-31.md`, `seo/audits/nl-bangkok-chiang-mai-flight-hubs-2026-07-31.md`, `seo/audits/nl-flights-to-phuket-owner-2026-07-31.md`, `seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md`, `seo/audits/nl-phuket-flight-origin-family-2026-07-31.md`
 
 ### nl:destination-guide
 

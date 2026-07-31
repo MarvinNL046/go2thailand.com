@@ -6,6 +6,7 @@ import path from 'path';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC } from '../../lib/affiliates';
+import PhuketYachtGuideNl from '../../components/yacht/PhuketYachtGuideNl';
 
 interface Partners {
   klook_yacht: { partnerUrl: string };
@@ -27,6 +28,10 @@ const SUBID_BASE = 'pseo-catamaran-phuket';
 export default function CatamaranPhuketPage({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) {
+    return <PhuketYachtGuideNl owner="catamaran" primaryUrl={partners.klook_catamaran.partnerUrl} secondaryUrl={partners.gyg_phuket_yacht.partnerUrl} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

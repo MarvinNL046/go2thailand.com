@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import PhuketYachtGuideNl, { YachtOwner } from '../../components/yacht/PhuketYachtGuideNl';
 
 interface Partners {
   klook_yacht: { partnerUrl: string };
@@ -48,6 +49,10 @@ export default function YachtCharterPhuketSpokePage({ spoke, primaryUrl, seconda
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <PhuketYachtGuideNl owner={spoke as YachtOwner} primaryUrl={primaryUrl} secondaryUrl={secondaryUrl} />;
+  }
   const placementSubId = (placement: string) => `${subId}-pseo-yacht-charter-phuket-${spoke}-${placement}`;
 
   const breadcrumbs = [

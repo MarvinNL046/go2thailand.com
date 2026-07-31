@@ -240,6 +240,12 @@
         "/nl/car-rental-phuket/airport/",
         "/nl/car-rental-phuket/long-term/",
         "/nl/car-rental-phuket/automatic/",
+        "/nl/yacht-charter-phuket/",
+        "/nl/yacht-rental-phuket/",
+        "/nl/catamaran-phuket/",
+        "/nl/yacht-charter-phuket/luxury/",
+        "/nl/yacht-charter-phuket/phi-phi/",
+        "/nl/yacht-charter-phuket/similan/",
         "/nl/flights-to-bangkok/",
         "/nl/flights-to-chiang-mai/",
         "/nl/flights-to-phuket/",
@@ -261,12 +267,13 @@
       "evidence": [
         "seo/audits/nl-activities-hub-pilot-2026-07-24.md",
         "seo/audits/nl-phuket-car-rental-family-2026-07-31.md",
+        "seo/audits/nl-phuket-yacht-family-2026-07-31.md",
         "seo/audits/nl-bangkok-chiang-mai-flight-hubs-2026-07-31.md",
         "seo/audits/nl-flights-to-phuket-owner-2026-07-31.md",
         "seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md",
         "seo/audits/nl-phuket-flight-origin-family-2026-07-31.md"
       ],
-      "note": "The Dutch commercial family rebuild is active. Activities, all four Phuket car-rental owners, the Bangkok and Chiang Mai flight hubs, and all fifteen Phuket flight routes have exact researched premium owners; remaining commercial templates still require independent acceptance."
+      "note": "The Dutch commercial family rebuild is active. Activities, all four Phuket car-rental owners, six yacht/catamaran owners, the Bangkok and Chiang Mai flight hubs, and all fifteen Phuket flight routes have exact researched premium owners; remaining commercial templates still require independent acceptance."
     },
     {
       "key": "en:destination-guide",

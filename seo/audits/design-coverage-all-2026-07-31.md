@@ -1,6 +1,6 @@
 # Rendered design coverage
 
-**Captured:** 2026-07-31T14:38:20.862Z
+**Captured:** 2026-07-31T14:50:09.929Z
 **Base URL:** http://localhost:3000
 
 This report separates sitemap routes, rendered design signatures and exact implemented ContentOps owner routes. A premium signature proves that the current HTML uses the shared redesign primitives; it does not by itself prove unique copy or page-level editorial quality.
@@ -12,7 +12,7 @@ This report separates sitemap routes, rendered design signatures and exact imple
 - Premium rendered signature: **664/700**
 - Hybrid rendered signature: **0/700**
 - No redesign signature: **36/700**
-- Exact implemented ContentOps owners: **259**
+- Exact implemented ContentOps owners: **265**
 - Routes with contextual Amazon links: **105/700**
 - Rendered Amazon links: **230** across **14** registered product slugs
 
@@ -22,7 +22,7 @@ This report separates sitemap routes, rendered design signatures and exact imple
 | hotel-guide | 82 | 79 | 0 | 3 | 7 | 0 | 0 |
 | food-drink | 73 | 71 | 0 | 2 | 8 | 46 | 92 |
 | destination-subpillar | 73 | 73 | 0 | 0 | 73 | 39 | 92 |
-| commercial-landing | 53 | 52 | 0 | 1 | 22 | 0 | 0 |
+| commercial-landing | 53 | 52 | 0 | 1 | 28 | 0 | 0 |
 | destination-guide | 35 | 35 | 0 | 0 | 35 | 0 | 0 |
 | manual-review | 32 | 19 | 0 | 13 | 5 | 2 | 2 |
 | travel-guide | 25 | 19 | 0 | 6 | 24 | 8 | 19 |
