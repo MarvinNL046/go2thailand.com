@@ -24,6 +24,7 @@ import ThailandNationalParksGuideNl from '../../components/editorial/ThailandNat
 import ThailandHikingTrekkingGuideNl from '../../components/editorial/ThailandHikingTrekkingGuideNl';
 import ThailandDivingSnorkelingGuideNl from '../../components/editorial/ThailandDivingSnorkelingGuideNl';
 import ThailandFestivalsEventsGuideNl from '../../components/editorial/ThailandFestivalsEventsGuideNl';
+import ThailandShoppingMarketsGuideNl from '../../components/editorial/ThailandShoppingMarketsGuideNl';
 
 // --- Type definitions ---
 
@@ -389,6 +390,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (lang === 'nl' && guide.slug === 'festivals-events-thailand') {
     return <ThailandFestivalsEventsGuideNl />;
+  }
+
+  if (lang === 'nl' && guide.slug === 'shopping-markets-thailand') {
+    return <ThailandShoppingMarketsGuideNl />;
   }
 
   const breadcrumbs = [
@@ -806,6 +811,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, nl: 'Een festivalnaam is nog geen bevestigd programma.' },
             intro: { ...guide.hero.intro, nl: 'Kies betekenis en plaats en controleer daarna kalenderjaar, datum, locatie, toegang, vervoer en lokale instructies.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'shopping-markets-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'Markten en shoppen in Thailand' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'Markten Thailand: slim shoppen, afdingen en douane' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Vind een markt in Thailand die bij je past. Controleer opening, kwaliteit, afdingen, bonnen, VAT-refund en Nederlandse invoerregels.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Een marktnaam is nog geen koopadvies.' },
+            intro: { ...guide.hero.intro, nl: 'Kies een marktprofiel en controleer opening, productkwaliteit, betaling, bonnen en invoerregels voordat je koopt.' },
           },
           sections: [],
           faqs: [],
