@@ -304,7 +304,7 @@ const nextConfig = {
       // untouched until the separate English research and redesign phase.
       {
         source: '/nl/itinerary/',
-        destination: '/nl/thailand-itinerary/',
+        destination: '/nl/itineraries/',
         permanent: true,
         locale: false,
       },
