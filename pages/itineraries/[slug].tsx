@@ -26,6 +26,8 @@ import {
 } from '../../lib/itineraries';
 import { useSubId } from '../../lib/useSubId';
 import { SevenDayIslandHoppingItineraryEn } from '../../components/itineraries/SevenDayIslandHoppingItineraryEn';
+import { NlItineraryGuideTemplate } from '../../components/itineraries/NlItineraryGuideTemplate';
+import { getNlItineraryGuide } from '../../data/itineraries/nl-guides';
 
 // --- Type definitions ---
 
@@ -195,6 +197,11 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
   const subId = useSubId();
   const tr = (en: string, nl: string) => locale === 'nl' ? nl : en;
   const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
+  const nlGuide = itinerary ? getNlItineraryGuide(itinerary.slug) : undefined;
+
+  if (locale === 'nl' && nlGuide) {
+    return <NlItineraryGuideTemplate guide={nlGuide} />;
+  }
 
   if (locale === 'en' && itinerary?.slug === '7-days-island-hopping') {
     return <SevenDayIslandHoppingItineraryEn />;

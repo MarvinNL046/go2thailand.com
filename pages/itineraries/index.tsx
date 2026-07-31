@@ -16,6 +16,7 @@ import {
   TWELVEGO_GENERIC,
 } from '../../lib/affiliates';
 import { getAllItineraries, toAbsoluteImageUrl } from '../../lib/itineraries';
+import { NlItinerariesDirectory } from '../../components/itineraries/NlItinerariesDirectory';
 
 interface Itinerary {
   slug: string;
@@ -36,6 +37,10 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const [activeDuration, setActiveDuration] = useState(0);
+
+  if (isNl) {
+    return <NlItinerariesDirectory />;
+  }
 
   const DURATION_FILTERS = [
     { label: isNl ? 'Alle' : 'All', value: 0 },

@@ -1308,6 +1308,29 @@ for (const asset of ['northern-thailand-region-hero-nl.webp', 'central-thailand-
   read(`public/images/redesign/${asset}`);
 }
 
+const nlItineraryData = read('data/itineraries/nl-guides.ts');
+const nlItineraryTemplate = read('components/itineraries/NlItineraryGuideTemplate.tsx');
+const nlItineraryDirectory = read('components/itineraries/NlItinerariesDirectory.tsx');
+const itineraryIndexRoute = read('pages/itineraries/index.tsx');
+const itineraryDetailRoute = read('pages/itineraries/[slug].tsx');
+if ((nlItineraryData.match(/slug: '/g) || []).length !== 14) failures.push('NL itinerary registry must define exactly fourteen detail owners');
+for (const proof of ['EditorialHero', 'PageSectionNav', 'FaqSplitSection', 'RelatedGuidesSection', 'SourceMethodSection', 'data-premium-template="nl-itinerary-guide"', 'noopener noreferrer nofollow sponsored', 'FAQPage', 'ItemList']) {
+  if (!nlItineraryTemplate.includes(proof)) failures.push(`NL itinerary template lacks proof: ${proof}`);
+}
+for (const forbidden of ['budgetRange', 'budgetBreakdown', 'approximately', 'guaranteed']) {
+  if (nlItineraryTemplate.includes(forbidden) || nlItineraryData.includes(forbidden)) failures.push(`NL itinerary family reintroduces forbidden legacy claim: ${forbidden}`);
+}
+for (const proof of ['nl-itineraries-directory', 'durationOptions', 'routeOptions', 'FAQPage', 'ItemList', 'nofollow sponsored']) {
+  if (!nlItineraryDirectory.includes(proof)) failures.push(`NL itinerary directory lacks proof: ${proof}`);
+}
+if (!itineraryIndexRoute.includes('<NlItinerariesDirectory />')) failures.push('Itinerary index does not wire the NL premium directory');
+for (const proof of ['getNlItineraryGuide', '<NlItineraryGuideTemplate guide={nlGuide} />', "locale === 'nl' && nlGuide"]) {
+  if (!itineraryDetailRoute.includes(proof)) failures.push(`Itinerary detail route lacks NL owner proof: ${proof}`);
+}
+for (const asset of ['thailand-route-hero.webp', 'bangkok-chiang-mai-sleeper-train-hero-v2.webp', 'bangkok-koh-samui-route-hero-v2.webp', 'thailand-route-coast-fork.webp']) {
+  read(`public/images/redesign/${asset}`);
+}
+
 if (failures.length) {
   console.error(`Design system verification failed (${failures.length}):`);
   failures.forEach(failure => console.error(`- ${failure}`));
