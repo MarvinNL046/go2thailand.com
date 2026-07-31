@@ -556,6 +556,15 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
 
+  if (locale === 'nl' && slug === 'nightlife-rooftop-bars-thailand') {
+    return {
+      redirect: {
+        destination: '/nl/nightlife/',
+        permanent: true,
+      },
+    };
+  }
+
   if (locale === 'nl' && slug === 'first-time-thailand') {
     return {
       redirect: {

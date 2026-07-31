@@ -50,7 +50,7 @@ const PAGE_URL = "https://go2-thailand.com/nl/nightlife/";
 const PAGE_TITLE = "Nachtleven in Thailand: 8 bestemmingen vergeleken";
 const PAGE_DESCRIPTION =
   "Vergelijk het nachtleven van Bangkok, Pattaya, Phuket, Chiang Mai en vier eilanden of kustplaatsen. Met avondtypes, actuele alcoholregels, Full Moon Party en veilige terugroute.";
-const HERO_IMAGE = "/images/redesign/thailand-nightlife-hero.webp";
+const HERO_IMAGE = "/images/redesign/thailand-nightlife-rooftop-bars-hero-v2.webp";
 
 const sectionNav: PageSectionNavItem[] = [
   { href: "#kiezen", label: "Kies je sfeer", icon: Sparkles },
@@ -346,7 +346,7 @@ function createSchemas() {
       headline: PAGE_TITLE,
       description: PAGE_DESCRIPTION,
       image: `https://go2-thailand.com${HERO_IMAGE}`,
-      dateModified: "2026-07-26",
+      dateModified: "2026-07-31",
       inLanguage: "nl-NL",
       mainEntityOfPage: PAGE_URL,
       author: {
@@ -445,7 +445,7 @@ export function ThailandNightlifeGuide() {
           content="thailand nightlife, nachtleven thailand, uitgaan thailand, beste uitgaanssteden thailand, full moon party thailand, nachtmarkt thailand"
         />
         <meta property="og:type" content="article" />
-        <meta property="article:modified_time" content="2026-07-26" />
+        <meta property="article:modified_time" content="2026-07-31" />
         {schemas.map((schema, index) => (
           <script
             key={`${schema["@type"]}-${index}`}
@@ -1200,7 +1200,7 @@ export function ThailandNightlifeGuide() {
           id="vragen"
           eyebrow="Echte vragen uit de Nederlandse SERP"
           title="Veelgestelde vragen over nachtleven in Thailand"
-          description="De vragen zijn op 25 juli 2026 via DataForSEO vastgelegd. De antwoorden scheiden bestemmingskeuze, evenementdatum, landelijke regels en praktische veiligheid; vluchtige clubrankings en vaste prijzen zijn bewust weggelaten."
+          description="De vragen zijn op 25 juli 2026 via DataForSEO vastgelegd en op 31 juli via zichtbare Nederlandse SERP/PAA hergecontroleerd. De antwoorden scheiden bestemmingskeuze, evenementdatum, landelijke regels en praktische veiligheid; vluchtige clubrankings en vaste prijzen zijn bewust weggelaten."
           items={faqs}
         />
 
@@ -1240,7 +1240,7 @@ export function ThailandNightlifeGuide() {
 
         <SourceMethodSection
           title="Een actuele regel weegt zwaarder dan een oude clubranglijst"
-          description="DataForSEO bepaalde de Nederlandse bestemming-, nightlife-, uitgaan-, Full Moon-, nachtmarkt- en veiligheidsintentie en legde echte PAA vast. Officiële TAT-, Tourist Police- en NederlandWereldwijd-bronnen dragen de tijdgevoelige regels en veiligheidsgrenzen. De evenementwebsite wordt alleen gebruikt voor datumcontrole en praktische eventinformatie. Vaste prijzen, onbewezen populariteitsclaims, universele sluitingstijden en vluchtige venue-rankings zijn verwijderd. Laatst gecontroleerd: 26 juli 2026."
+          description="DataForSEO bepaalde de Nederlandse bestemming-, nightlife-, uitgaan-, Full Moon-, nachtmarkt- en veiligheidsintentie en legde echte PAA vast; zichtbare Nederlandse SERP/PAA zijn op 31 juli 2026 hergecontroleerd. Officiële TAT-, DDC-, Tourist Police- en NederlandWereldwijd-bronnen dragen de tijdgevoelige regels en veiligheidsgrenzen. De evenementwebsite wordt alleen gebruikt voor datumcontrole en praktische eventinformatie. Vaste prijzen, onbewezen populariteitsclaims, universele sluitingstijden en vluchtige venue-rankings zijn verwijderd. Laatst gecontroleerd: 31 juli 2026."
           sources={sources}
         />
       </div>

@@ -67,6 +67,6 @@ Zichtbare concurrenten rangschikken vooral steden, bars en bekende entertainment
 - TAT Newsroom — Thailand After Dark: https://www.tatnews.org/2025/10/thailand-after-dark-experiences-5-must-do-highlights-nationwide/
 - NederlandWereldwijd — Reisadvies Thailand: https://www.nederlandwereldwijd.nl/reisadvies/thailand
 
-## Implementatiebesluit
+## Implementatiebesluit na cannibalisatiegate
 
-Premium owner met zes avondprofielen, stadfitmatrix, live venuecheck, compacte ‘van zonsondergang naar terugreis’-route, actuele alcoholregelcallout, rooftopcheck, echte PAA-FAQ en lokale links naar Pattaya, Bangkok, Phuket en avondmarktowners. Eén begrensde Klook-CTA; geen Amazon. Een eigen hero moet een stijlvolle, diverse avond laten zien zonder alcoholromantisering, neonseksualisering of één stad als universele winnaar.
+De research bevestigt dat deze route dezelfde landelijke nightlife-, rooftop-, regels- en veiligheidsintentie bezit als de al premium uitgewerkte owner `/nl/nightlife/`. Een tweede owner zou de bestaande zoekwoordregistratie hard raken. Daarom wordt de travel-guide-URL permanent geconsolideerd naar `/nl/nightlife/`. De canonieke owner krijgt de nieuwe stijlvolle rooftophero en de research-/freshnessdatum 31 juli 2026; zijn zes sfeerprofielen, acht bestemmingen, avondroute, actuele alcoholregelcheck, Full Moon-grens, veilige terugreis, Klook-CTA en begrensde Amazon-powerbanktaak blijven behouden.
