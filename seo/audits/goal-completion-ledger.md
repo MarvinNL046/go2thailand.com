@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T15:03:45.521Z
+**Generated:** 2026-07-31T15:18:36.352Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 703 | 703 | 0 | 278 | 36 | 72 | 371 |
+| NL | 700 | 703 | 703 | 0 | 290 | 36 | 72 | 359 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -241,12 +241,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:commercial-landing
 
-- Family accepted: **41/53**
-- Exact owners registered: **41/53**
-- Closed: **no**
-- Remaining routes: **12**
-- Sample: `/nl/phuket-wedding-venues/`, `/nl/phuket-honeymoon/`, `/nl/phuket-luxury-villas/`, `/nl/private-pool-villa-phuket/`, `/nl/phuket-wedding-venues/beach/`, `/nl/phuket-wedding-venues/resort-packages/`, `/nl/phuket-wedding-venues/villa/`, `/nl/phuket-honeymoon/private-pool-villas/`, `/nl/phuket-honeymoon/all-inclusive/`, `/nl/phuket-luxury-villas/private-pool/`, `/nl/phuket-luxury-villas/oceanfront/`, `/nl/phuket-luxury-villas/family/`
-- Evidence: `seo/audits/nl-activities-hub-pilot-2026-07-24.md`, `seo/audits/nl-phuket-car-rental-family-2026-07-31.md`, `seo/audits/nl-phuket-yacht-family-2026-07-31.md`, `seo/audits/nl-phuket-tours-family-2026-07-31.md`, `seo/audits/nl-bangkok-chiang-mai-flight-hubs-2026-07-31.md`, `seo/audits/nl-flights-to-phuket-owner-2026-07-31.md`, `seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md`, `seo/audits/nl-phuket-flight-origin-family-2026-07-31.md`
+- Family accepted: **53/53**
+- Exact owners registered: **53/53**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/audits/nl-activities-hub-pilot-2026-07-24.md`, `seo/audits/nl-phuket-car-rental-family-2026-07-31.md`, `seo/audits/nl-phuket-yacht-family-2026-07-31.md`, `seo/audits/nl-phuket-tours-family-2026-07-31.md`, `seo/audits/nl-bangkok-chiang-mai-flight-hubs-2026-07-31.md`, `seo/audits/nl-flights-to-phuket-owner-2026-07-31.md`, `seo/audits/nl-amsterdam-phuket-flight-owner-2026-07-31.md`, `seo/audits/nl-phuket-flight-origin-family-2026-07-31.md`, `seo/audits/nl-phuket-romance-villa-family-2026-07-31.md`
 
 ### nl:destination-guide
 
