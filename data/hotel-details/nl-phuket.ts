@@ -223,6 +223,118 @@ export const nlPhuketHotelDetailGuides: Record<string, HotelDetailGuideData> = {
       { title: 'Hotel amenities', creator: 'IHG', url: 'https://www.ihg.com/hotelindigo/hotels/us/en/phuket/phupp/hoteldetail/amenities', note: 'Officiële kamertelling, verdiepingen, rooftop pool, toegankelijkheid en praktische hoteldetails.' },
     ],
   },
+
+  'movenpick-myth-hotel-patong-phuket': {
+    slug: 'movenpick-myth-hotel-patong-phuket', hotelName: 'Mövenpick Myth Hotel Patong Phuket', cityName: 'Phuket', citySlug: 'phuket', destinationHref: '/phuket/patong/', hotelGuideHref: '/phuket/patong/hotels/', hotelGuideLabel: 'Hotels in Patong', area: 'Centraal Patong · Rat U Thit',
+    pageTitle: 'Mövenpick Myth Hotel Patong: eerlijk verblijfadvies',
+    pageDescription: 'Past Mövenpick Myth Hotel Patong bij je reis? Eerlijk advies over ligging, pool access, familiekamers, erfgoeddesign en boekingskeuzes.',
+    pageUrl: 'https://go2-thailand.com/nl/phuket/patong/hotels/movenpick-myth-hotel-patong-phuket/', dateModified: '2026-07-31',
+    hero: {
+      image: '/images/redesign/movenpick-myth-patong-guide-hero.webp', imageAlt: 'Redactioneel sfeerbeeld van een erfgoedgeïnspireerd hotelhof met tropisch zwembad in Patong', imageCaption: 'AI-gegenereerd sfeerbeeld van een erfgoedgeïnspireerd resort in Patong; bekijk actuele hotel- en kamerfoto’s bij de aanbieder.',
+      eyebrow: 'Erfgoedstijl in centraal Patong', title: 'Mövenpick Myth', accent: 'Hotel Patong', subtitle: 'Een uitgesproken resortbasis met familiesuites en pool-accesskamers.',
+      description: 'Accor plaatst het hotel aan Rat U Thit Road en noemt Patong Beach op ongeveer tien minuten lopen in de kerninformatie. Het ontwerp verwijst naar King Rama V en Sino-Portugees Phuket; de kamerkeuze loopt van pool view tot pool access en familiesuite.', ctaLabel: 'Controleer actuele kamers',
+    },
+    verdict: {
+      eyebrow: 'Het korte oordeel', title: 'Kies het voor de hotelervaring, niet alleen voor het Mövenpick-label.', description: 'De combinatie van vrijgevormd zwembad, spa, restaurant en familiekamers past bij wie een resortmoment in Patong wil. De centrale ligging blijft stedelijk: strand, markt en winkelcentra vragen lopen en de route verschilt per uitgang.',
+      stats: [
+        { label: 'Strand', value: 'Circa 10 min', note: 'Kern-FAQ van Accor; andere sectie noemt 18 min', icon: 'waves' },
+        { label: 'Kamers', value: 'Pool view/access', note: 'Plus familiesuite en Heritage Suite', icon: 'bed' },
+        { label: 'Zwembad', value: 'Vrije vorm', note: 'Met Azure Pool Bar', icon: 'sparkles' },
+        { label: 'Aankomst', value: 'Vanaf 15:00', note: 'Uitchecken tot 12:00', icon: 'route' },
+      ],
+    },
+    fit: {
+      eyebrow: 'Past het bij jouw reis?', title: 'Sterk voor gezinnen en stellen die het hotel bewust gebruiken.', intro: 'De thematiek en faciliteiten zijn alleen meerwaarde wanneer je ook tijd rond zwembad, restaurant of spa plant.',
+      goodFor: ['Gezinnen die een echte familiekamer met meerdere bedden vergelijken', 'Stellen die een pool-access- of Heritage Suite bewust kiezen', 'Reizigers die centraal Patong willen combineren met een volwaardige hotelbasis', 'ALL-leden die merkvoorwaarden naast een extern flexibel tarief leggen'],
+      tradeoffs: ['Accor toont verschillende looptijden naar Patong Beach; beoordeel de kaart en route zelf', 'Pool access en een privéjacuzzi zijn categoriegebonden, niet standaard', 'Erfgoedthema en grotere resortopzet passen niet bij wie minimalistisch of kleinschalig zoekt', 'Spa, minibar, wasserij en sommige extra’s kunnen apart worden berekend'],
+    },
+    location: {
+      eyebrow: 'Locatie in de praktijk', title: 'Centraal Patong, maar niet aan de strandlijn.', description: 'Banzaan Market en winkelzones liggen op loopafstand; plan strand en avondcentrum als één route en voorkom extra heen-en-weer lopen.',
+      steps: [
+        { label: 'Ochtend', title: 'Zwembad of strand', description: 'Kies één hoofdmoment en houd rekening met de werkelijke looproute vanaf Rat U Thit.' },
+        { label: 'Middag', title: 'Markt & winkels', description: 'Accor noemt Banzaan Market en Jungceylon in de nabije omgeving; combineer ze logisch.' },
+        { label: 'Avond', title: 'Centrum op keuze', description: 'Ga gericht naar het levendige deel van Patong en keer terug naar de hotelbasis.' },
+      ],
+    },
+    booking: {
+      eyebrow: 'Boek slimmer', title: 'Controleer bedden en zwembadrelatie per exacte kamer.', description: 'De officiële lijst onderscheidt king/twin, pool view, pool access met jacuzzi, Family Suite en Heritage Suite. De naam “Deluxe” alleen is dus onvoldoende.',
+      checks: [
+        { title: 'Bedopstelling', description: 'Controleer king, twin en de werkelijke bedden in de familiesuite.' },
+        { title: 'Pool access', description: 'Bevestig terras, directe toegang, jacuzzi en veiligheidspraktijk voor kinderen.' },
+        { title: 'Ontbijt', description: 'Bekijk of het Atrio-ontbijt in het gekozen tarief is inbegrepen.' },
+        { title: 'Voorwaarden', description: 'Vergelijk flexibel tarief, vooruitbetaling, belastingen en ALL-ledenvoordelen.' },
+      ],
+    },
+    faqs: [
+      { question: 'Hoe ver ligt Mövenpick Myth Hotel Patong van het strand?', answer: 'Accor noemt in de kern-FAQ ongeveer tien minuten lopen, terwijl een latere lijst op dezelfde pagina achttien minuten noemt. Gebruik daarom de kaart en controleer de route vanaf de hotellingang in plaats van één looptijd als garantie te zien.' },
+      { question: 'Welke kamers heeft Mövenpick Myth Hotel Patong?', answer: 'De officiële hotelpagina noemt Deluxe king- en twinrooms met pool view, pool access, een variant met privéjacuzzi, een Family Suite en de Heritage Suite. Beschikbaarheid verschilt per datum.' },
+      { question: 'Is het hotel geschikt voor gezinnen?', answer: 'De Family Suite met één kingsize en twee eenpersoonsbedden is een concrete gezinsoptie. Controleer maximale bezetting, kinderbeleid en beschikbaarheid voordat je boekt.' },
+      { question: 'Heeft Mövenpick Myth Hotel Patong een spa?', answer: 'Ja. Accor noemt A Vida Spa naast het buitenzwembad, fitnesscentrum en de eet- en drinkplekken. Behandelingen worden doorgaans apart geboekt.' },
+      { question: 'Is ontbijt inbegrepen?', answer: 'Dat hangt af van het tarief. Accor noemt een internationaal ontbijtbuffet bij Atrio; controleer per kamerprijs of ontbijt en belastingen zijn inbegrepen.' },
+      { question: 'Hoe laat kun je in- en uitchecken?', answer: 'De actuele Accor-pagina noemt inchecken vanaf 15:00 en uitchecken tot 12:00. Een latere uitcheck is een verzoek of tariefvoordeel, geen garantie.' },
+    ],
+    faqEyebrow: 'Vragen vóór je boekt', faqDescription: 'Deze praktische vragen volgen uit de actuele Accor-hotel- en kamerinformatie; er is geen PAA-label gebruikt zonder bruikbaar PAA-resultaat.', relatedGuides: relatedPatongGuides,
+    sources: [
+      { title: 'Mövenpick Myth Hotel Patong Phuket', creator: 'Accor', url: 'https://all.accor.com/hotel/B2E1/index.en.shtml', note: 'Officiële ligging, kamertypes, faciliteiten, maaltijden en aankomsttijden.' },
+      { title: 'Hotel location', creator: 'Mövenpick Hotels & Resorts', url: 'https://movenpick.accor.com/en/asia/thailand/phuket/myth-hotel-patong-phuket/location.html', note: 'Officiële locatie- en contactinformatie.' },
+    ],
+  },
+
+  'lub-d-phuket-patong': {
+    slug: 'lub-d-phuket-patong', hotelName: 'Lub d Phuket Patong', cityName: 'Phuket', citySlug: 'phuket', destinationHref: '/phuket/patong/', hotelGuideHref: '/phuket/patong/hotels/', hotelGuideLabel: 'Hotels in Patong', area: 'Noord-centraal Patong · Sawatdirak Road',
+    pageTitle: 'Lub d Phuket Patong: past deze social stay bij je?',
+    pageDescription: 'Eerlijk advies over Lub d Phuket Patong: privékamer of dorm, social events, coworking, zwembad, ligging en de belangrijkste trade-offs.',
+    pageUrl: 'https://go2-thailand.com/nl/phuket/patong/hotels/lub-d-phuket-patong/', dateModified: '2026-07-31',
+    hero: {
+      image: '/images/redesign/lub-d-patong-guide-hero.webp', imageAlt: 'Redactioneel sfeerbeeld van een sociaal designverblijf met zwembad en coworkingruimte in Patong', imageCaption: 'AI-gegenereerd sfeerbeeld van een social stay in Patong; bekijk actuele kamer- en dormfoto’s bij de aanbieder.',
+      eyebrow: 'Social stay, geen stil resort', title: 'Lub d', accent: 'Phuket Patong', subtitle: 'Kies tussen privékamer en dorm — en kies bewust voor de sociale programmering.',
+      description: 'Lub d positioneert deze locatie rond pool parties, bar crawls, chillzones en coworking. De officiële site noemt 154 privékamers, 33 gedeelde dorms, een zwembad en Patong Beach op 150 meter.', ctaLabel: 'Controleer actuele kamers',
+    },
+    verdict: {
+      eyebrow: 'Het korte oordeel', title: 'Een sociale uitvalsbasis die meer hotelkeuze dan hostelkeuze vraagt.', description: 'Het grote verschil zit niet alleen tussen privé en gedeeld, maar tussen rust zoeken en actief meedoen. De centrale ligging, coworking en events passen bij solo-reizigers en vrienden; lichte slapers moeten hun kamerpositie en eventkalender extra goed controleren.',
+      stats: [
+        { label: 'Privé', value: '154 kamers', note: 'Volgens de officiële locatiepagina', icon: 'bed' },
+        { label: 'Gedeeld', value: '33 dorms', note: 'Controleer type en bezetting', icon: 'sparkles' },
+        { label: 'Strand', value: '150 m', note: 'Afstand zoals Lub d die vermeldt', icon: 'waves' },
+        { label: 'Bangla', value: '500 m', note: 'Officieel genoemde afstand', icon: 'route' },
+      ],
+    },
+    fit: {
+      eyebrow: 'Past het bij jouw reis?', title: 'Sterk voor contact en flexibiliteit. Zwak voor gegarandeerde stilte.', intro: 'Dezelfde programmering die solo-reizigers helpt mensen te ontmoeten, kan botsen met vroeg slapen of een rustige strandweek.',
+      goodFor: ['Solo-reizigers die sociale ruimtes en georganiseerde activiteiten willen', 'Vrienden die locatie, zwembad en gezamenlijke sfeer belangrijk vinden', 'Remote workers die coworking willen combineren met een centrale Patong-basis', 'Stellen die een privékamer kiezen maar niet in een klassiek resort hoeven te zitten'],
+      tradeoffs: ['De officiële positionering noemt pool parties en bar crawls; absolute stilte is niet de kernbelofte', 'Een dorm en een privékamer hebben totaal verschillende privacy en bagagepraktijk', 'Eventdagen, tijden en prijzen wijzigen en horen niet als vaste planning te worden behandeld', 'Een social stay is minder logisch voor gezinnen of reizigers die veel hotelservice verwachten'],
+    },
+    location: {
+      eyebrow: 'Locatie in de praktijk', title: 'Strand en avondleven liggen dichtbij; je slaapkeuze blijft bepalend.', description: 'Lub d noemt Patong Beach op 150 meter en Bangla Walking Street op 500 meter. Dat maakt lopen eenvoudig, maar de omgeving en eigen events blijven levendig.',
+      steps: [
+        { label: 'Overdag', title: 'Strand & coworking', description: 'Wissel één strandblok af met een gepland werk- of rustmoment op locatie.' },
+        { label: 'Avond', title: 'Event of eigen plan', description: 'Controleer de actuele kalender en kies bewust of je aansluit of elders eet en uitgaat.' },
+        { label: 'Nacht', title: 'Kamerpositie telt', description: 'Vraag bij slaapgevoeligheid naar afstand tot bar, zwembad en sociale zones.' },
+      ],
+    },
+    booking: {
+      eyebrow: 'Boek slimmer', title: 'Beslis eerst privé versus gedeeld, daarna pas pool view.', description: 'De officiële site toont privékamers van onder meer 25 m² met balkon en ensuite, plus shared dorms. Controleer bij dorms privacy, locker en badkamers; bij privé vooral ligging en balkon.',
+      checks: [
+        { title: 'Slaaptype', description: 'Kies privékamer of dorm op privacy, sociale behoefte en bagage — niet alleen prijs.' },
+        { title: 'Kamerpositie', description: 'Vraag hoe dicht je bij zwembad, bar, lift en eventzones ligt.' },
+        { title: 'Eventkalender', description: 'Controleer actuele dagen, inhoud en eventuele kosten rechtstreeks bij Lub d.' },
+        { title: 'Voorwaarden', description: 'Vergelijk ontbijt, annulering, betaling en bezetting voor dezelfde kamer.' },
+      ],
+    },
+    faqs: [
+      { question: 'Is Lub d Phuket Patong een hostel of hotel?', answer: 'Het is een social-stayconcept met zowel 154 privékamers als 33 gedeelde dorms volgens de officiële site. Je kunt dus hotelachtige privacy kiezen, maar de gezamenlijke sfeer en programmering blijven onderdeel van het verblijf.' },
+      { question: 'Hoe ver ligt Lub d Phuket Patong van het strand?', answer: 'Lub d noemt Patong Beach op ongeveer 150 meter en Bangla Walking Street op ongeveer 500 meter. Looproutes en drukte kunnen de werkelijke tijd beïnvloeden.' },
+      { question: 'Heeft Lub d Phuket Patong privékamers?', answer: 'Ja. De officiële site toont onder meer king-, pool-view- en twinopties met ensuite badkamer; sommige privékamers zijn 25 m² en hebben een balkon.' },
+      { question: 'Is Lub d geschikt voor solo-reizigers?', answer: 'De coworking, sociale ruimtes en activiteiten zijn duidelijk op contact gericht. Wie juist alleen en rustig wil blijven, moet de kamerpositie en eventkalender vooraf controleren.' },
+      { question: 'Kun je werken bij Lub d Phuket Patong?', answer: 'De officiële locatiepagina noemt een coworkingruimte. Controleer voor serieus remote werk de actuele opening, zitplekken en internetpraktijk en houd een back-upwerkplek achter de hand.' },
+      { question: 'Is Lub d Phuket Patong rustig?', answer: 'Rust is geen kernbelofte: Lub d noemt zelf pool parties, bar crawls en sociale events. Een privékamer op afstand van de eventzones kan beter passen, maar vraag dit vooraf aan de accommodatie.' },
+    ],
+    faqEyebrow: 'Vragen vóór je boekt', faqDescription: 'Deze praktische vragen volgen uit de actuele Lub d-locatie-, kamer- en eventinformatie; er is geen PAA-label gebruikt zonder bruikbaar PAA-resultaat.', relatedGuides: relatedPatongGuides,
+    sources: [
+      { title: 'Lub d Phuket Patong', creator: 'Lub d', url: 'https://lubd.com/destination/phuket-patong/', note: 'Officiële ligging, aantallen privé/dorm, voorzieningen, kamertypes en sociale positionering.' },
+      { title: 'Our rooms', creator: 'Lub d', url: 'https://lubd.com/destination/phuket-patong/our-rooms/', note: 'Officiële kamer- en dormopties; controleer live beschikbaarheid op de boekingsdatum.' },
+    ],
+  },
 };
 
 export function getNlPhuketHotelDetailGuide(slug: string): HotelDetailGuideData | null {

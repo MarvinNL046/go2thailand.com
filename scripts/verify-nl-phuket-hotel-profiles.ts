@@ -8,6 +8,8 @@ const expectedSlugs = [
   'grand-mercure-phuket-patong',
   'four-points-by-sheraton-phuket-patong-beach-resort',
   'hotel-indigo-phuket-patong',
+  'movenpick-myth-hotel-patong-phuket',
+  'lub-d-phuket-patong',
 ];
 
 function decodeHtml(value: string): string {
