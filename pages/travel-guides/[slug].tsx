@@ -12,6 +12,7 @@ import VegetarianThailandGuide from '../../components/food/VegetarianThailandGui
 import ThailandFoodGuideEn from '../../components/food/ThailandFoodGuideEn';
 import ThailandWildlifeSafetyGuideEn from '../../components/practical/ThailandWildlifeSafetyGuideEn';
 import { VpnThailandGuideEn } from '../../components/connectivity/VpnThailandGuideEn';
+import { VpnThailandGuideNl } from '../../components/connectivity/VpnThailandGuideNl';
 import { SoloFemaleThailandGuideEn } from '../../components/safety/SoloFemaleThailandGuideEn';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
@@ -344,6 +345,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
     return <VpnThailandGuideEn />;
   }
 
+  if (lang === 'nl' && guide.slug === 'vpn-thailand') {
+    return <VpnThailandGuideNl />;
+  }
+
   if (lang === 'en' && guide.slug === 'solo-female-travel-thailand') {
     return <SoloFemaleThailandGuideEn />;
   }
@@ -595,6 +600,31 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
           hero: {
             subtitle: { ...guide.hero.subtitle, en: 'A VPN protects a connection—not your whole identity.' },
             intro: { ...guide.hero.intro, en: 'Use a VPN deliberately on shared Wi-Fi, for work policy or a chosen network location. Keep lawful behaviour, device updates and account security as separate layers.' },
+          },
+          sections: [],
+          faqs: [],
+          relatedLinks: [],
+        },
+      },
+      revalidate: 604800,
+    };
+  }
+
+  if (locale === 'nl' && slug === 'vpn-thailand') {
+    return {
+      props: {
+        guide: {
+          ...guide,
+          title: { ...guide.title, nl: 'VPN in Thailand: heb je er een nodig?' },
+          lastUpdated: '2026-07-31',
+          seo: {
+            ...guide.seo,
+            metaTitle: { ...guide.seo.metaTitle, nl: 'VPN in Thailand: nodig, legaal en veilig gebruiken' },
+            metaDescription: { ...guide.seo.metaDescription, nl: 'Bepaal of je in Thailand een VPN nodig hebt voor openbare wifi, werk of een andere netwerklocatie. Met juridische grenzen, selectiecriteria en installatie.' },
+          },
+          hero: {
+            subtitle: { ...guide.hero.subtitle, nl: 'Een VPN beschermt een verbinding — niet je hele identiteit.' },
+            intro: { ...guide.hero.intro, nl: 'Gebruik de tunnel bewust op gedeelde wifi, voor een werkregel of een gekozen netwerklocatie. Houd apparaat- en accountbeveiliging als aparte lagen.' },
           },
           sections: [],
           faqs: [],

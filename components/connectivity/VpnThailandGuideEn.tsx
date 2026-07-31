@@ -14,6 +14,7 @@ export function VpnThailandGuideEn() {
   const esim = withSubId(SAILY_GENERIC, 'en-vpn-thailand-owner-esim');
 
   const data: DigitalSafetyGuideData = {
+    locale: 'en',
     pageUrl: 'https://go2-thailand.com/travel-guides/vpn-thailand/',
     updatedAt: '2026-07-27',
     title: 'VPN in Thailand: Do You Need One & Is It Allowed?',
