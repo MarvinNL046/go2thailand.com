@@ -19,6 +19,10 @@ import { paiHotelGuide } from "./pai";
 import { maeHongSonHotelGuide } from "./mae-hong-son";
 import { lampangHotelGuide } from "./lampang";
 import { khonKaenHotelGuide } from "./khon-kaen";
+import { udonThaniHotelGuide } from "./udon-thani";
+import { nakhonRatchasimaHotelGuide } from "./nakhon-ratchasima";
+import { ubonRatchathaniHotelGuide } from "./ubon-ratchathani";
+import { lopburiHotelGuide } from "./lopburi";
 
 const hotelGuides: Record<string, HotelGuideData> = {
   bangkok: bangkokHotelGuide,
@@ -41,6 +45,10 @@ const hotelGuides: Record<string, HotelGuideData> = {
   "mae-hong-son": maeHongSonHotelGuide,
   lampang: lampangHotelGuide,
   "khon-kaen": khonKaenHotelGuide,
+  "udon-thani": udonThaniHotelGuide,
+  "nakhon-ratchasima": nakhonRatchasimaHotelGuide,
+  "ubon-ratchathani": ubonRatchathaniHotelGuide,
+  lopburi: lopburiHotelGuide,
 };
 
 export function getNlHotelGuide(citySlug: string): HotelGuideData | null {
