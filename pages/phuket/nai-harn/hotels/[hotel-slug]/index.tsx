@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../../components/SEOHead';
 import Breadcrumbs from '../../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlWestPhuketHotelDetailGuide } from '../../../../../data/hotel-details/nl-west-phuket';
+import type { HotelDetailGuideData } from '../../../../../data/hotel-details/types';
 import { withSubId } from '../../../../../lib/affiliates';
 import { useSubId } from '../../../../../lib/useSubId';
 
@@ -30,12 +33,13 @@ interface HotelData {
 
 interface Props {
   hotel: HotelData;
+  nlGuide: HotelDetailGuideData | null;
   siblings: { slug: string; name: string }[];
   partners: Partners;
   lastUpdated: string;
 }
 
-export default function NaiHarnHotelReviewPage({ hotel, siblings, partners, lastUpdated }: Props) {
+export default function NaiHarnHotelReviewPage({ hotel, nlGuide, siblings, partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
@@ -77,6 +81,10 @@ export default function NaiHarnHotelReviewPage({ hotel, siblings, partners, last
 
   const primaryUrl = partners[hotel.primaryPartnerKey]?.partnerUrl || partners.trip_pillar.partnerUrl;
   const secondaryUrl = partners[hotel.secondaryPartnerKey]?.partnerUrl || partners.trip_hotels.partnerUrl;
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={withSubId(primaryUrl, placement('hotel-detail'))} />;
+  }
 
   const faqEn = [
     { q: `Is ${hotel.name} worth it?`, a: hotel.slug === 'the-nai-harn-phuket' ? "Yes — for couples and honeymooners. The cliff-top setting, sea-view-from-every-room, infinity pool over the beach and Cosmo restaurant earn the $300+/night price. Less ideal for families with young kids (cliff terrain) or travellers wanting a low-maintenance flat-floor resort." : "Yes — for families specifically. Three pools, kids\' club, free shuttle to Nai Harn beach, half-board competitive vs Patong upscale resorts. Less ideal for couples wanting beachfront luxury (it's hillside, not on the sand) — choose The Nai Harn for that." },
@@ -239,6 +247,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
+      nlGuide: getNlWestPhuketHotelDetailGuide(slug),
       siblings,
       partners: partnersData.partners,
       lastUpdated: hotelsData.lastUpdated,

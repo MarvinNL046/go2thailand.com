@@ -2,6 +2,7 @@ import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { nlPhuketHotelDetailGuides } from '../data/hotel-details/nl-phuket';
 import { nlKaronHotelDetailGuides } from '../data/hotel-details/nl-karon';
+import { nlWestPhuketHotelDetailGuides } from '../data/hotel-details/nl-west-phuket';
 
 const baseUrl = process.env.SITE_VERIFY_BASE_URL || 'http://localhost:3000';
 const projectRoot = resolve(__dirname, '..');
@@ -19,9 +20,13 @@ const expectedSlugs = [
   'mandarava-resort-and-spa-karon-beach',
   'beyond-resort-karon',
   'avista-grande-karon-mgallery',
+  'hilton-garden-inn-phuket-bang-tao',
+  'the-nai-harn-phuket',
+  'wyndham-grand-nai-harn-beach-phuket',
+  'selina-serenity-rawai-phuket',
 ];
 
-const guides = { ...nlPhuketHotelDetailGuides, ...nlKaronHotelDetailGuides };
+const guides = { ...nlPhuketHotelDetailGuides, ...nlKaronHotelDetailGuides, ...nlWestPhuketHotelDetailGuides };
 
 function decodeHtml(value: string): string {
   return value.replace(/&quot;/g, '"').replace(/&#x27;|&#39;/g, "'").replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');

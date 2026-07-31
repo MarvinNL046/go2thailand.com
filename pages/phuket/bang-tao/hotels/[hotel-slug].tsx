@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlWestPhuketHotelDetailGuide } from '../../../../data/hotel-details/nl-west-phuket';
+import type { HotelDetailGuideData } from '../../../../data/hotel-details/types';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
 
@@ -18,13 +21,17 @@ interface Hotel {
 }
 interface Partner { partnerUrl: string; label: string; }
 type PartnersMap = Record<string, Partner>;
-interface Props { hotel: Hotel; tripUrl: string; lastUpdated: string; }
+interface Props { hotel: Hotel; nlGuide: HotelDetailGuideData | null; tripUrl: string; lastUpdated: string; }
 
-export default function BangTaoHotelReview({ hotel, tripUrl, lastUpdated }: Props) {
+export default function BangTaoHotelReview({ hotel, nlGuide, tripUrl, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
   const placement = (p: string) => `${subId}-pseo-phuket-bang-tao-${hotel.slug}-${p}`;
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={withSubId(tripUrl, placement('hotel-detail'))} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -189,5 +196,5 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   const partners: PartnersMap = partnersData.partners;
   const partner = partners[hotel.tripPartnerKey];
   const tripUrl = partner ? partner.partnerUrl : partners['trip_pillar'].partnerUrl;
-  return { props: { hotel, tripUrl, lastUpdated: hotelsData.lastUpdated }, revalidate: 604800 };
+  return { props: { hotel, nlGuide: getNlWestPhuketHotelDetailGuide(slug), tripUrl, lastUpdated: hotelsData.lastUpdated }, revalidate: 604800 };
 };

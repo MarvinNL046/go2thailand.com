@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-07-31T20:41:56.661Z
+**Generated:** 2026-07-31T20:52:56.150Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 667 | 667 | 0 | 348 | 105 | 230 | 301 |
+| NL | 700 | 667 | 667 | 0 | 352 | 105 | 230 | 297 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -349,12 +349,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:hotel-guide
 
-- Family accepted: **65/82**
-- Exact owners registered: **65/82**
+- Family accepted: **69/82**
+- Exact owners registered: **69/82**
 - Closed: **no**
-- Remaining routes: **17** (first 12 shown)
+- Remaining routes: **13** (first 12 shown)
 - Sample: `/nl/phuket/patong/hotels/hotel-clover-patong-phuket/`, `/nl/phuket/patong/hotels/la-flora-resort-patong/`, `/nl/phuket/patong/hotels/7q-patong-beach-hotel/`, `/nl/phuket/patong/hotels/holiday-inn-express-phuket-patong-beach-central/`, `/nl/phuket/patong/hotels/andaman-embrace-patong/`, `/nl/phuket/patong/hotels/best-western-patong-beach/`, `/nl/phuket/patong/hotels/mt-hotel-patong/`, `/nl/phuket/patong/hotels/ramada-by-wyndham-phuket-deevana-patong/`, `/nl/phuket/patong/hotels/patong-signature-boutique-hotel/`, `/nl/phuket/patong/hotels/deevana-patong-resort-and-spa/`, `/nl/phuket/patong/hotels/deevana-plaza-phuket-patong/`, `/nl/phuket/patong/hotels/icheck-inn-residences-patong/`
-- Evidence: `seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md`, `seo/audits/nl-phuket-area-hotels-family-2026-07-31.md`, `seo/audits/nl-phuket-hotel-categories-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-1-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-2-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-3-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-4-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-5-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-6-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-7-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md`, `seo/audits/nl-hotel-overview-family-2026-07-26.md`, `seo/audits/nl-city-hotel-guides-batch-9-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-1-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-2-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-3-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-4-2026-07-31.md`
+- Evidence: `seo/audits/nl-where-to-stay-thailand-owner-2026-07-31.md`, `seo/audits/nl-phuket-area-hotels-family-2026-07-31.md`, `seo/audits/nl-phuket-hotel-categories-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-1-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-2-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-3-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-4-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-5-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-6-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-7-2026-07-31.md`, `seo/audits/nl-city-hotel-guides-batch-8-2026-07-31.md`, `seo/audits/nl-hotel-overview-family-2026-07-26.md`, `seo/audits/nl-city-hotel-guides-batch-9-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-1-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-2-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-3-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-4-2026-07-31.md`, `seo/audits/nl-phuket-hotel-profiles-batch-5-2026-07-31.md`
 
 ### nl:island
 

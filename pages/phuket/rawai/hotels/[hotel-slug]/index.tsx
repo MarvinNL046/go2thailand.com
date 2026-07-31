@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../../components/SEOHead';
 import Breadcrumbs from '../../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlWestPhuketHotelDetailGuide } from '../../../../../data/hotel-details/nl-west-phuket';
+import type { HotelDetailGuideData } from '../../../../../data/hotel-details/types';
 import { withSubId } from '../../../../../lib/affiliates';
 import { useSubId } from '../../../../../lib/useSubId';
 
@@ -30,11 +33,12 @@ interface HotelData {
 
 interface Props {
   hotel: HotelData;
+  nlGuide: HotelDetailGuideData | null;
   partners: Partners;
   lastUpdated: string;
 }
 
-export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: Props) {
+export default function RawaiHotelReviewPage({ hotel, nlGuide, partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
@@ -69,6 +73,10 @@ export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: P
 
   const primaryUrl = partners[hotel.primaryPartnerKey]?.partnerUrl || partners.trip_pillar.partnerUrl;
   const secondaryUrl = partners[hotel.secondaryPartnerKey]?.partnerUrl || partners.trip_pillar.partnerUrl;
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={withSubId(primaryUrl, placement('hotel-detail'))} />;
+  }
 
   const faqEn = [
     { q: 'Is Selina Serenity Rawai worth booking?', a: 'For long-stays (1+ week) yes — the coworking + community + pool combination is unique in Phuket. Less ideal for short 3–5 day trips: the hostel-hybrid vibe is built for slow travel, not quick beach holidays. Pricing scales: solo dorm bed $15–25/night, private room $55–110, suite $120+. Best value per dollar of any Phuket stay if you genuinely use the coworking space.' },
@@ -214,6 +222,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
+      nlGuide: getNlWestPhuketHotelDetailGuide(slug),
       partners: partnersData.partners,
       lastUpdated: hotelsData.lastUpdated,
     },
