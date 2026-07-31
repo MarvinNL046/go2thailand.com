@@ -26,6 +26,7 @@ import { nakhonSiThammaratAttractionsGuide } from './nakhon-si-thammarat';
 import { chanthaburiAttractionsGuide } from './chanthaburi';
 import { tratAttractionsGuide } from './trat';
 import { rayongAttractionsGuide } from './rayong';
+import { trangAttractionsGuide } from './trang';
 
 const guides: Record<string, AttractionGuideData> = {
   ayutthaya: ayutthayaAttractionsGuide,
@@ -55,10 +56,11 @@ const guides: Record<string, AttractionGuideData> = {
   chanthaburi: chanthaburiAttractionsGuide,
   trat: tratAttractionsGuide,
   rayong: rayongAttractionsGuide,
+  trang: trangAttractionsGuide,
 };
 
 export function getNlAttractionsGuide(citySlug: string) {
   return guides[citySlug];
 }
 
-export { ayutthayaAttractionsGuide, bangkokAttractionsGuide, chanthaburiAttractionsGuide, chiangMaiAttractionsGuide, chiangRaiAttractionsGuide, hatYaiAttractionsGuide, huaHinAttractionsGuide, khaoSokAttractionsGuide, kanchanaburiAttractionsGuide, khonKaenAttractionsGuide, kohSamuiAttractionsGuide, kohTaoAttractionsGuide, lampangAttractionsGuide, lopburiAttractionsGuide, maeHongSonAttractionsGuide, nakhonRatchasimaAttractionsGuide, nakhonSiThammaratAttractionsGuide, paiAttractionsGuide, pattayaAttractionsGuide, phitsanulokAttractionsGuide, phuketAttractionsGuide, rayongAttractionsGuide, sukhothaiAttractionsGuide, suratThaniAttractionsGuide, tratAttractionsGuide, ubonRatchathaniAttractionsGuide, udonThaniAttractionsGuide };
+export { ayutthayaAttractionsGuide, bangkokAttractionsGuide, chanthaburiAttractionsGuide, chiangMaiAttractionsGuide, chiangRaiAttractionsGuide, hatYaiAttractionsGuide, huaHinAttractionsGuide, khaoSokAttractionsGuide, kanchanaburiAttractionsGuide, khonKaenAttractionsGuide, kohSamuiAttractionsGuide, kohTaoAttractionsGuide, lampangAttractionsGuide, lopburiAttractionsGuide, maeHongSonAttractionsGuide, nakhonRatchasimaAttractionsGuide, nakhonSiThammaratAttractionsGuide, paiAttractionsGuide, pattayaAttractionsGuide, phitsanulokAttractionsGuide, phuketAttractionsGuide, rayongAttractionsGuide, sukhothaiAttractionsGuide, suratThaniAttractionsGuide, trangAttractionsGuide, tratAttractionsGuide, ubonRatchathaniAttractionsGuide, udonThaniAttractionsGuide };
