@@ -361,6 +361,12 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/ethical-elephant-sanctuaries-thailand-2026-guide/",
+        destination: "/nl/best-elephant-sanctuaries-in-thailand/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.
