@@ -84,6 +84,7 @@ import {
 import { NlEditorialArticle } from '../../components/editorial/blog/NlEditorialArticle';
 import type { NlEditorialDocument } from '../../data/editorial/blog/types';
 import { combineNlEditorialDocument, loadNlEditorialProfile } from '../../lib/nl-editorial-loader';
+import EditorialBlogArticle from '../../components/editorial/EditorialBlogArticle';
 
 interface Source {
   name: string;
@@ -311,6 +312,8 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, e
   if (ownerLocale === 'nl' && editorialDocument) {
     return <NlEditorialArticle document={editorialDocument} />;
   }
+
+  return <EditorialBlogArticle post={post} relatedPosts={relatedPosts} prevPost={prevPost} nextPost={nextPost} locale={ownerLocale} />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
