@@ -11,7 +11,6 @@ const nextConfig = {
       "public/qrcodes/**",
       "public/affiliate-qrcodes/**",
       "public/pinterest/**",
-      "content/blog/**",
     ],
   },
   reactStrictMode: true,
