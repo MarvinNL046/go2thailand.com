@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "andaz-one-bangkok-luxury-hotel-lumphini-guide-2026",
+  "route": "/nl/blog/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Andaz One Bangkok: ligging en hotelcheck | Go2Thailand",
+    "description": "Beoordeel Andaz One Bangkok op ligging, kamerkeuze, Lumphini Park en jouw stadsroute; controleer daarna de actuele totaalprijs.",
+    "primaryKeyword": "Andaz One Bangkok",
+    "secondaryKeywords": ["hotel Lumphini Park", "One Bangkok hotel", "luxe hotel Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Park, rail en modern Bangkok",
+    "title": "Andaz One Bangkok",
+    "accent": "Past de ligging bij je dagen?",
+    "description": "Het hotel is geopend en sterk verbonden met Lumphini en One Bangkok. Kies op route en kamertype, niet alleen op sterren.",
+    "image": "/images/redesign/editorial/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026-hero.webp",
+    "imageAlt": "Modern Bangkok-hotelinterieur met warme houttinten en uitzicht op groen",
+    "primaryCta": { "label": "Bekijk de match", "href": "#match" },
+    "secondaryCta": { "label": "Kamercheck", "href": "#kamercheck" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Andaz One Bangkok past vooral als Lumphini Park, One Bangkok en MRT-bereikbaarheid aansluiten op je dagplan. Controleer het exacte kamertype en uitzicht: algemene parkbeelden gelden niet automatisch voor iedere kamer.",
+  "blocks": [
+    { "kind": "comparison", "id": "match", "title": "Wanneer is dit een sterke match?", "options": [
+      { "title": "Park en moderne stad", "description": "Je wilt Lumphini, Silom, Sathorn en moderne stadsfuncties combineren.", "label": "Sterk" },
+      { "title": "Design en zakelijke route", "description": "Je waardeert een lifestylehotel en hebt afspraken rond Wireless Road of One Bangkok.", "label": "Logisch" },
+      { "title": "Historisch Bangkok voorop", "description": "Je dagen draaien om Banglamphu, tempels en de historische rivier; een westelijker basis kan praktischer zijn.", "label": "Vergelijk" }
+    ] },
+    { "kind": "card-grid", "id": "hotelprofiel", "eyebrow": "Officieel bevestigd", "title": "Wat je concreet krijgt", "cards": [
+      { "title": "244 kamers en suites", "description": "De officiële kamerpagina noemt standaardkamers van 38–42 m² en meerdere suitecategorieën.", "label": "Kamers" },
+      { "title": "Lumphini en MRT", "description": "Het hotel ligt aan Wireless Road bij het park en toegang tot MRT Lumphini.", "label": "Ligging" },
+      { "title": "Zwembad en fitness", "description": "Hyatt noemt deze voorzieningen, naast restaurants en gratis internet.", "label": "Faciliteiten" },
+      { "title": "One Bangkok", "description": "Eten, winkels, kunst en kantoren liggen in hetzelfde stedelijke district.", "label": "Omgeving" }
+    ] },
+    { "kind": "checklist", "id": "kamercheck", "title": "Controleer vóór je betaalt", "items": ["Exacte kamernaam en oppervlakte", "Werkelijk uitzicht van de kamercategorie", "Bedconfiguratie of connecting rooms", "Ontbijt en minibarvoorwaarden", "Totaalprijs inclusief belastingen", "Annulering en wijziging", "Looproute naar MRT", "Of de locatie past bij je eigen dagplan"] },
+    { "kind": "affiliate", "id": "prijs", "provider": "trip.com", "title": "Bekijk de actuele prijs voor jouw data", "description": "Vergelijk het exacte kamertype, belastingen, ontbijt, inbegrepen onderdelen en annuleringsvoorwaarden. De live providerinformatie is leidend.", "cta": { "label": "Controleer actuele hotelprijzen", "href": "https://trip.tpo.lv/TmObooZ5?subid=andaz-one-bangkok-nl", "external": true }, "placement": "andaz-one-bangkok-live-price", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer." },
+    { "kind": "related", "id": "vergelijken", "title": "Vergelijk vóór je kiest", "items": [
+      { "title": "Beste hotels in Bangkok", "description": "Vergelijk meerdere wijken en hotelprofielen.", "href": "/nl/best-hotels/bangkok/" },
+      { "title": "Waar overnachten?", "description": "Koppel de hotelbuurt aan vervoer en bezienswaardigheden.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+      { "title": "Bangkok bezienswaardigheden", "description": "Bouw je dagen per stadsdeel en test de ligging.", "href": "/nl/city/bangkok/attractions/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Andaz One Bangkok geopend?", "answer": "Ja. Hyatt kondigde de opening op 19 december 2025 aan; controleer actuele beschikbaarheid voor jouw data." },
+      { "question": "Ligt het hotel direct bij Lumphini Park?", "answer": "Het ligt aan Wireless Road bij het park en One Bangkok. Controleer de looproute vanaf jouw kameruitgang en naar het gewenste parkpunt." },
+      { "question": "Hebben alle kamers parkzicht?", "answer": "Nee, dat mag je niet aannemen. Hyatt noemt parkzicht voor veel kamers; controleer de exacte uitzichtcategorie bij boeken." },
+      { "question": "Wat kost Andaz One Bangkok?", "answer": "De prijs wisselt per datum, bezetting, kamer en voorwaarden. Gebruik de actuele totaalprijs voor jouw zoekopdracht." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire hotelbronnen", "items": [
+      { "title": "Andaz One Bangkok", "publisher": "Hyatt", "url": "https://www.hyatt.com/andaz/en-US/bkkaz-andaz-one-bangkok", "checkedAt": "2026-08-01", "note": "Actuele locatie, voorzieningen en hotelinformatie." },
+      { "title": "Rooms and suites", "publisher": "Hyatt", "url": "https://www.hyatt.com/andaz/en-US/bkkaz-andaz-one-bangkok/rooms", "checkedAt": "2026-08-01", "note": "Kamercategorieën en oppervlakten; beschikbaarheid wisselt." },
+      { "title": "Andaz One Bangkok opens", "publisher": "Hyatt Newsroom", "url": "https://newsroom.hyatt.com/Andaz-One-Bangkok-Opens-Its-Door-In-Thailand", "checkedAt": "2026-08-01", "note": "Opening en officieel hotelprofiel." }
+    ] }
+  ]
+}

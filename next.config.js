@@ -295,6 +295,18 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/",
+        destination: "/nl/travel-guides/diving-snorkeling-thailand/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/phuket-weer/",
+        destination: "/nl/city/phuket/weather/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "anantara-siam-bangkok-50-million-renovation-garden-suites-2026",
+  "route": "/nl/blog/anantara-siam-bangkok-50-million-renovation-garden-suites-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Anantara Siam renovatie 2026: actuele check | Go2Thailand",
+    "description": "Bekijk wat officieel is aangekondigd voor de Anantara Siam-renovatie en welke vragen je vóór een verblijf moet stellen.",
+    "primaryKeyword": "Anantara Siam Bangkok renovatie 2026",
+    "secondaryKeywords": ["Anantara Siam Garden Suites", "hotelrenovatie Bangkok", "Anantara Siam verbouwing"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/anantara-siam-bangkok-50-million-renovation-garden-suites-2026/"
+  },
+  "hero": {
+    "eyebrow": "Renovatie in fasen",
+    "title": "Anantara Siam Bangkok",
+    "accent": "Controleer jouw verblijfsdata",
+    "description": "De hotelgroep kondigde nieuwe Garden Suites en een brede transformatie aan; feitelijke oplevering en hinder vragen een live check.",
+    "image": "/images/redesign/editorial/anantara-siam-bangkok-50-million-renovation-garden-suites-2026-hero.webp",
+    "imageAlt": "Tropische binnenhof en elegante hotellobby in Bangkok",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" },
+    "secondaryCta": { "label": "Boekingscheck", "href": "#hotelcheck" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Minor Hotels kondigde een renovatie in twee fasen aan, met onder meer zes Garden Suites met privéplungepool. Omdat opleverdata kunnen verschuiven, moet je faciliteiten en mogelijke hinder voor jouw exacte verblijf rechtstreeks controleren.",
+  "blocks": [
+    { "kind": "comparison", "id": "status", "title": "Aangekondigd versus nog te controleren", "options": [
+      { "title": "Officieel aangekondigd", "description": "Vernieuwde kamers, Kasara Lounge, aankomstervaring, Jim Thompson Suite en zes Garden Suites.", "label": "Bevestigd plan" },
+      { "title": "Oorspronkelijke fasering", "description": "Fase twee was gepland voor mei–september 2026; een latere publicatie noemde een herlancering rond Q2.", "label": "Planning" },
+      { "title": "Voor jouw datum", "description": "Welke ruimtes open zijn, waar jouw kamer ligt en of werkzaamheden hoorbaar of zichtbaar zijn.", "label": "Live check" }
+    ] },
+    { "kind": "checklist", "id": "hotelcheck", "title": "Vraag dit vóór niet-restitueerbaar boeken", "items": ["Exact kamertype en ligging", "Open faciliteiten op jouw data", "Mogelijke bouw- of geluidshinder", "Tijdelijke restaurant- of lobbyroute", "Totaalprijs inclusief belastingen", "Ontbijt en andere inbegrepen onderdelen", "Annuleringsvoorwaarden", "Schriftelijke bevestiging van belangrijke toezeggingen"] },
+    { "kind": "affiliate", "id": "prijs", "provider": "trip.com", "title": "Controleer de actuele totaalprijs", "description": "Vergelijk je exacte data en kamertype. Controleer belastingen, ontbijt, annuleringsvoorwaarden en recente verbouwingsinformatie; de live provider- en hotelinformatie is leidend.", "cta": { "label": "Bekijk actuele hotelopties", "href": "https://trip.tpo.lv/TmObooZ5?subid=anantara-siam-renovatie-nl", "external": true }, "placement": "anantara-siam-live-price", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer." },
+    { "kind": "related", "id": "vergelijken", "title": "Vergelijk de locatie en hotelstijl", "items": [
+      { "title": "Beste hotels in Bangkok", "description": "Vergelijk wijken en hotelprofielen op je concrete route.", "href": "/nl/best-hotels/bangkok/" },
+      { "title": "Waar overnachten in Bangkok?", "description": "Bepaal eerst of Ratchadamri logisch ligt voor je dagen.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+      { "title": "Nieuwe hotels Thailand", "description": "Controleer de status van andere openingen en renovaties.", "href": "/nl/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is de renovatie van Anantara Siam klaar?", "answer": "De officiële planning is geen garantie voor jouw datum. Vraag het hotel welke ruimtes daadwerkelijk gereed en open zijn." },
+      { "question": "Blijft het hotel open tijdens werkzaamheden?", "answer": "Minor Hotels plande de fasen rond een operationeel hotel, maar dat zegt niet welke hinder jouw kamer of faciliteiten raakt." },
+      { "question": "Wat zijn de nieuwe Garden Suites?", "answer": "De hotelgroep kondigde zes Garden Suites met privéplungepool en tropische beplanting aan. Controleer actuele boekbaarheid en de precieze kamerdetails." },
+      { "question": "Welke prijs moet ik gebruiken?", "answer": "Alleen de actuele totaalprijs voor je exacte data, kamertype en voorwaarden bij hotel of provider." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire hotelbronnen", "items": [
+      { "title": "The Evolution of an Icon", "publisher": "Minor Hotels Newsroom", "url": "https://media.minorhotels.com/en-GLO/251962-the-evolution-of-an-icon-anantara-siam-bangkok-begins-a-new-era-with-a-landmark-transformation/", "checkedAt": "2026-08-01", "note": "Oorspronkelijke fasering en aangekondigde onderdelen." },
+      { "title": "Upcoming additions in 2026", "publisher": "Minor Hotels Newsroom", "url": "https://media.minorhotels.com/en-GLO/257719-new-and-renewed-upcoming-additions-to-the-world-of-minor-hotels-in-2026/", "checkedAt": "2026-08-01", "note": "Latere relaunchcontext; feitelijke status blijft een live check." }
+    ] }
+  ]
+}

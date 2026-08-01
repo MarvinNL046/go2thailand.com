@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken",
+  "route": "/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Samui vanuit Nederland: route en kust | Go2Thailand",
+    "description": "Vergelijk doorvliegen met een land-ferryroute naar Koh Samui en kies daarna de kust die bij je reistempo past.",
+    "primaryKeyword": "Koh Samui vanuit Nederland",
+    "secondaryKeywords": ["vlucht Nederland Koh Samui", "Koh Samui transfer vanaf luchthaven", "beste wijk Koh Samui"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/"
+  },
+  "hero": {
+    "eyebrow": "Van Schiphol tot je strandbasis",
+    "title": "Koh Samui zonder transferstress",
+    "accent": "Kies eerst je reisketen",
+    "description": "Vergelijk totale reistijd, losse aansluitingen en laatste hoteltransfer vóór je op ticketprijs sorteert.",
+    "image": "/images/redesign/editorial/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken-hero.webp",
+    "imageAlt": "Koh Samui-kust met palmen, rustige zee en longtailboot",
+    "primaryCta": { "label": "Vergelijk twee routes", "href": "#routes" },
+    "secondaryCta": { "label": "Kies je kust", "href": "#kustkeuze" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Doorvliegen naar Samui Airport beperkt de schakels; via het vasteland en de ferry kan goedkoper zijn maar maakt de reisdag kwetsbaarder. Vergelijk de hele keten en kies daarna pas je kust.",
+  "blocks": [
+    { "kind": "comparison", "id": "routes", "title": "Welke aankomstroute past?", "options": [
+      { "title": "Vlucht naar Samui Airport", "description": "Minder schakels en een korte laatste transfer; sterk bij een korte reis, kinderen of veel bagage.", "label": "Gemak" },
+      { "title": "Vasteland + ferry", "description": "Meer onderdelen en een langere dag; interessant wanneer budget zwaarder weegt en je marge houdt.", "label": "Prijsbewust" },
+      { "title": "Eerst Bangkok", "description": "Splits de lange reis en vlieg of reis later door; kost een extra hotelwissel maar verlaagt aansluitstress.", "label": "Rust" }
+    ] },
+    { "kind": "card-grid", "id": "kustkeuze", "eyebrow": "Je basis bepaalt je eiland", "title": "Vijf kustprofielen", "cards": [
+      { "title": "Chaweng", "description": "Veel voorzieningen en avondleven; drukker en niet voor iedereen rustgevend.", "label": "Levendig" },
+      { "title": "Bophut", "description": "Compacte avondsfeer en restaurants; praktisch voor stellen en een kort verblijf.", "label": "Gebalanceerd" },
+      { "title": "Lamai", "description": "Zelfstandige badplaats met dagelijkse voorzieningen en een rustiger ritme dan centraal Chaweng.", "label": "Zelfstandig" },
+      { "title": "Maenam en Bang Po", "description": "Meer ruimte; controleer loopafstand, avondvervoer en hotelomgeving.", "label": "Rustiger" },
+      { "title": "Taling Ngam", "description": "Afgelegen resortgevoel; minder logisch wanneer je dagelijks het eiland wilt doorkruisen.", "label": "Retreat" }
+    ] },
+    { "kind": "checklist", "id": "transfercheck", "title": "Controleer de hele keten", "items": ["Juiste luchthavencode en terminal", "Doorlopend of los ticket", "Marge voor immigratie en bagage", "Bagageregels per vervoerder", "Vertrekpier en inbegrepen landtransfer", "Laatste hoteltraject na aankomst", "Wijzigings- en annuleringsvoorwaarden", "Actuele zee- en weersinformatie"] },
+    { "kind": "affiliate", "id": "tickets", "provider": "12go", "title": "Vergelijk pas na je routekeuze", "description": "Controleer voor jouw datum de volledige reisketen, bagage, overstappen, pier en voorwaarden. De live aanbiederinformatie is leidend.", "cta": { "label": "Bekijk actuele routes en tickets", "href": "https://12go.tpo.lv/tNA80urD?subid=koh-samui-nederland-nl", "external": true }, "placement": "koh-samui-route-live-tickets", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer." },
+    { "kind": "related", "id": "verder-plannen", "title": "Maak Koh Samui concreet", "items": [
+      { "title": "Koh Samui overzicht", "description": "Kies activiteiten en eilandritme.", "href": "/nl/city/koh-samui/" },
+      { "title": "Hotels per kust", "description": "Vergelijk verblijfszones en actuele hotelopties.", "href": "/nl/best-hotels/koh-samui/" },
+      { "title": "Weer per maand", "description": "Plan rond de Golfmoesson en houd ruimte voor verandering.", "href": "/nl/city/koh-samui/weather/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Kun je rechtstreeks van Nederland naar Koh Samui vliegen?", "answer": "Meestal reis je met minstens één overstap. Controleer of je ticket doorlopend is en welke bescherming bij vertraging geldt." },
+      { "question": "Is de ferryroute altijd goedkoper?", "answer": "Niet noodzakelijk. Tel bagage, landtransfer, ferry, hoteltransfer en eventueel een extra overnachting mee." },
+      { "question": "Welke kust is het beste zonder scooter?", "answer": "Kies een kust met eten en voorzieningen op loopafstand en controleer het exacte hoteladres. Bophut, Lamai of delen van Chaweng kunnen praktisch zijn, maar verschillen per locatie." },
+      { "question": "Hoeveel overstaptijd heb ik nodig in Bangkok?", "answer": "Dat hangt af van ticket, luchthaven, immigratie en bagage. Volg de minimumtijd van de vervoerder en houd bij losse tickets extra marge." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Bestemmings- en veiligheidsbronnen", "items": [
+      { "title": "Ko Samui", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko-Samui/360", "checkedAt": "2026-08-01" },
+      { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}
