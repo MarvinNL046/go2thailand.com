@@ -7,84 +7,161 @@
   "editorialStatus": "ready",
   "updatedAt": "2026-08-01",
   "seo": {
-    "title": "Mango sticky rice in Thailand | Go2Thailand",
-    "description": "Kies rijpe mango, vers bereide kleefrijst en een kraam met hoge omloop. Beschikbaarheid en mango-ras verschillen per seizoen.",
-    "primaryKeyword": "mango sticky rice thailand",
+    "title": "Mango sticky rice: seizoen en versheid | Go2Thailand",
+    "description": "Ontdek wanneer mango sticky rice op zijn best is en kies op rijpheid, kleefrijst, kokosroom, allergenen en veilige bewaring.",
+    "primaryKeyword": "mango sticky rice seizoen",
     "secondaryKeywords": [
-      "mango sticky rice thailand tips"
+      "mangoseizoen Thailand",
+      "mango kleefrijst seizoenscontext",
+      "wanneer mango sticky rice"
     ],
     "searchIntent": "informational",
     "canonicalPath": "/nl/blog/mango-sticky-rice-season-thailand/"
   },
   "hero": {
-    "eyebrow": "Eten met context",
+    "eyebrow": "Seizoensdessert",
     "title": "Mango sticky rice in Thailand",
-    "accent": "Zoet, rijp en seizoensgevoelig",
-    "description": "Kies rijpe mango, vers bereide kleefrijst en een kraam met hoge omloop. Beschikbaarheid en mango-ras verschillen per seizoen.",
+    "accent": "Rijp, vers en in balans",
+    "description": "Gebruik de Thaise zomer als kwaliteitscontext en beoordeel mango, kleefrijst en kokosroom altijd samen.",
     "image": "/images/redesign/editorial/mango-sticky-rice-season-thailand-hero.webp",
-    "imageAlt": "Route-eigen sfeerbeeld bij mango sticky rice in thailand",
+    "imageAlt": "Mango sticky rice met rijpe mango en kokosroom",
     "primaryCta": {
-      "label": "Maak je keuze",
-      "href": "#keuze"
+      "label": "Bekijk het seizoen",
+      "href": "#seizoen"
     },
     "secondaryCta": {
-      "label": "Veilig eten",
-      "href": "#veilig"
+      "label": "Kies een portie",
+      "href": "#keuze"
     }
   },
   "layout": {
     "kind": "food-guide",
-    "foodMode": "overview",
+    "foodMode": "dish",
     "heroVariant": "editorial",
     "navigation": "anchors",
-    "density": "standard"
+    "density": "longform"
   },
-  "quickAnswer": "Kies rijpe mango, vers bereide kleefrijst en een kraam met hoge omloop. Beschikbaarheid en mango-ras verschillen per seizoen.",
+  "quickAnswer": "Mango sticky rice past het best bij de Thaise zomer van grofweg half februari tot half mei. Buiten die periode kan het gerecht nog goed zijn, maar controleer rijpheid, actuele herkomst en bewaring extra zorgvuldig.",
   "blocks": [
+    {
+      "kind": "callout",
+      "id": "seizoen",
+      "tone": "saffron",
+      "title": "Seizoen is context, geen garantie",
+      "description": "De Thaise zomer loopt grofweg van half februari tot half mei en TAT koppelt mango sticky rice aan die periode. Rassen, regio’s, opslag en aanvoer maken een harde einddatum onmogelijk."
+    },
     {
       "kind": "comparison",
       "id": "keuze",
-      "title": "Kies op wat je werkelijk krijgt",
+      "title": "Beoordeel het hele dessert",
       "options": [
         {
-          "title": "Versbereiding",
-          "description": "Kijk naar omloop, temperatuur en bereiding.",
-          "label": "Kwaliteit"
+          "title": "Mango",
+          "description": "Zacht maar niet papperig, fris geurend en zonder gegiste toon.",
+          "label": "Fruit"
         },
         {
-          "title": "Ingrediënten",
-          "description": "Vraag naar allergenen en verborgen smaakmakers.",
-          "label": "Veiligheid"
+          "title": "Kleefrijst",
+          "description": "Soepel en kleverig, zonder droge korst of een plas vocht.",
+          "label": "Basis"
         },
         {
-          "title": "Actuele context",
-          "description": "Controleer menu, locatie en opening opnieuw.",
-          "label": "Nu"
+          "title": "Kokosroom",
+          "description": "Romig met een licht zout accent, als aanvulling op de mango.",
+          "label": "Balans"
         }
       ]
     },
     {
+      "kind": "steps",
+      "id": "beslisroute",
+      "title": "Kies per reisperiode",
+      "steps": [
+        {
+          "title": "Thaise zomer",
+          "description": "Vergelijk rijp fruit en vraag welk mango-ras die dag wordt gebruikt.",
+          "label": "Feb–mei"
+        },
+        {
+          "title": "Buiten het hoofdseizoen",
+          "description": "Vraag naar herkomst, snijmoment en bewaring; verkrijgbaar betekent niet automatisch optimaal rijp.",
+          "label": "Rest van jaar"
+        },
+        {
+          "title": "Eet direct",
+          "description": "Koop een kleine portie en laat gesneden fruit, rijst en kokosroom niet lang warm staan.",
+          "label": "Altijd"
+        }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "allergenen",
+      "tone": "warning",
+      "title": "Glutinous rice is niet automatisch gegarandeerd glutenvrij",
+      "description": "Kleefrijst is rijst, maar gedeelde lepels, toppings en werkvlakken kunnen kruiscontact geven. Vraag ook naar melkbestanddelen, sesam, pinda, mungboon en andere toppings."
+    },
+    {
       "kind": "checklist",
       "id": "veilig",
-      "title": "Veilig proeven",
+      "title": "Versheids- en veiligheidscheck",
       "items": [
-        "Zichtbaar vers bereid",
-        "Allergenen expliciet besproken",
-        "Veilig drinkwater",
-        "Kleine portie bij twijfel"
+        "Fruit ligt beschermd en wordt in kleine hoeveelheden gesneden",
+        "Mango ruikt fris en is niet waterig of gegist",
+        "Rijst en kokosroom hebben niet langdurig lauw gestaan",
+        "Messen, lepels en werkvlak ogen schoon",
+        "Bij een ernstige allergie kan de verkoper kruiscontact uitleggen"
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Meer context bij je dessert",
+      "items": [
+        {
+          "title": "Mango sticky rice als gerecht",
+          "description": "Basisopbouw, ingrediënten en de plaats van het dessert in Thailand.",
+          "href": "/nl/food/mango-sticky-rice/"
+        },
+        {
+          "title": "Eten in Thailand",
+          "description": "Regionale gerechten, smaken en praktische bestelkeuzes.",
+          "href": "/nl/food/"
+        }
       ]
     },
     {
       "kind": "sources",
       "id": "bronnen",
-      "title": "Bron voor actuele context",
+      "title": "Gecontroleerde bronnen",
       "items": [
         {
-          "title": "Tourism Authority of Thailand",
-          "publisher": "Tourism Authority of Thailand",
-          "url": "https://www.tourismthailand.org/",
+          "title": "Insight Thainess: Mango with Sticky Rice",
+          "publisher": "TAT Newsroom",
+          "url": "https://www.tatnews.org/2018/03/insight-thainess-episode-1-mango-with-sticky-rice/",
           "checkedAt": "2026-08-01",
-          "note": "Primaire voedselveiligheids- of toerismecontext."
+          "note": "Verband tussen Thaise zomer, boomgaarden, mango en sticky rice."
+        },
+        {
+          "title": "Discover Thai Fruits 2026",
+          "publisher": "Thailand.go.th / Ministry of Commerce",
+          "url": "https://www.thailand.go.th/issue-focus-detail/commerce-ministry-partners-with-private-sector-to-launch-discover-thai-fruits-2026-promoting-premium-gi-mangoes",
+          "checkedAt": "2026-08-01",
+          "note": "Actuele 2026-context voor regionale GI-mango’s en seizoensaanbod."
+        },
+        {
+          "title": "The Seasons of Thailand",
+          "publisher": "Thailand.go.th / Thai Meteorological Department",
+          "url": "https://www.thailand.go.th/issue-focus-detail/009_142",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële brede indeling van zomer, regenseizoen en winter."
+        },
+        {
+          "title": "Food safety is everyone’s business in street food vending",
+          "publisher": "WHO and FAO",
+          "url": "https://www.who.int/publications/i/item/WHO-HEP-NFS-AFS-2022.4",
+          "checkedAt": "2026-08-01",
+          "note": "Primaire veiligheidsprincipes voor bereiding en verkoop."
         }
       ]
     }
