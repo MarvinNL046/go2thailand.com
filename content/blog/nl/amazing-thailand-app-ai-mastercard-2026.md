@@ -1,60 +1,55 @@
 ---
-title: "Thailand lanceert AI-reisapp met Mastercard-integratie"
+title: "Amazing Thailand-app: wat kan TATAI en wat niet?"
 slug: "amazing-thailand-app-ai-mastercard-2026"
-date: "2026-03-22"
+date: "2026-03-23"
+lastUpdated: "2026-08-01"
 author:
-  name: "Go2Thailand Team"
-category: "news"
-tags: ["amazing thailand app", "TAT", "mastercard", "AI reisapp", "digitaal toerisme", "TAGTHAi", "Thailand tips", "Thailand reisgids", "vakantie Thailand"]
-image: "/images/blog/thailand-first-time-visitors-essential-guide-2026.webp"
-description: "De vernieuwde Amazing Thailand-app ging 15 maart live: AI-reisplanner, Mastercard Priceless-experiences en realtime hulp tijdens je Thailand vakantie."
+  name: "Go2Thailand Editorial"
+category: "travel tech"
+tags: ["Amazing Thailand app", "TATAI", "Thailand reisapp", "Mastercard"]
+image: "/images/redesign/editorial/amazing-thailand-app-ai-mastercard-2026-hero.webp"
+description: "De vernieuwde Amazing Thailand-app is beschikbaar. Lees wat TATAI, routes en Mastercard-aanbiedingen doen en wat je apart moet verifiëren."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-28"
+readingTime: 6
 sources:
-  - name: "TAT Newsroom - Enhanced Amazing Thailand app set to enter public rollout on 15 March"
-    url: "https://www.tatnews.org/2026/03/enhanced-amazing-thailand-app-set-to-enter-public-rollout-on-15-march-powered-by-tat-and-mastercard/"
-  - name: "Travel And Tour World - Revolutionizing Travel in Thailand: The AI-Powered Amazing Thailand App"
-    url: "https://www.travelandtourworld.com/news/article/revolutionizing-travel-in-thailand-the-ai-powered-amazing-thailand-app-launches-with-exclusive-mastercard-experiences-on-march-15-2026/"
-  - name: "Travel And Tour World - TAGTHAi and TAT Unite: The Future of Sustainable Travel in Thailand for 2026"
-    url: "https://www.travelandtourworld.com/news/article/tagthai-and-tat-unite-the-future-of-sustainable-travel-in-thailand-for-2026/"
+  - name: "Tourism Authority of Thailand — New Amazing Thailand app"
+    url: "https://www.tourismthailand.org/Articles/amazing-th-x-master-card-en"
+  - name: "Tourism Authority of Thailand — TATAI"
+    url: "https://www.tourismthailand.org/Articles/tatai"
 ---
 
-Een [Thailand](/best-places-to-visit-thailand/) vakantie plannen is een stuk makkelijker geworden. De Tourism Authority of Thailand (TAT) lanceerde op **15 maart 2026** officieel de vernieuwde **Amazing Thailand-app**, ontwikkeld samen met Mastercard en volgestopt met AI-functies voor internationale reizigers.
+## Is de vernieuwde Amazing Thailand-app al beschikbaar?
 
-## Wat doet de app?
+Ja. De Tourism Authority of Thailand kondigde aan dat de vernieuwde app vanaf 15 maart 2026 in de App Store en Google Play beschikbaar is. De app combineert bestemmingsinformatie, reisplanning, veiligheids- en btw-informatie, een AI-assistent en Mastercard Priceless-ervaringen.
 
-De bijgewerkte Amazing Thailand-app is bedoeld als **alles-in-één reisgenoot** voor bezoekers van Thailand. De belangrijkste functies:
+Dat maakt de app een nuttig startpunt. Het maakt hem niet tot de enige bron die je voor een reisbeslissing nodig hebt.
 
-- **AI-chatbot** die realtime reisadvies geeft en persoonlijke aanbevelingen doet op basis van jouw voorkeuren
-- **Planningstools** voor het samenstellen van eigen [routes](/blog/thailand-itinerary-first-timers/) inclusief overnachten, eten, shoppen en bezienswaardigheden
-- **Veiligheidsinformatie** en praktische tips voor toeristen
-- **Informatie over btw-teruggave** zodat je belasting kunt terugvragen op je aankopen
-- **Mastercard Priceless Experiences** — exclusieve ervaringen in de app voor Mastercard-houders
+## TATAI: inspiratie en praktische vragen
 
-De app is gratis te downloaden via de **App Store en Google Play**.
+TATAI is de AI-assistent binnen de TAT-omgeving. Volgens TAT gebruikt de assistent informatie uit de officiële toerismedatabase om plaatsen, routes, festivals en praktische onderwerpen te helpen ontdekken.
 
-## Waarom bouwde TAT dit?
+Gebruik TATAI vooral om opties te vinden en een eerste dagindeling te maken. Controleer daarna tijdgevoelige details bij de eigenaar:
 
-De app is onderdeel van TAT's bredere **"Thailand Tourism Next"**-strategie, die kwaliteit boven kwantiteit stelt. In plaats van alleen bezoekersaantallen najagen, wil Thailand dat reizigers langer blijven, meer lokaal uitgeven en verder kijken dan de gebruikelijke route [Bangkok](/city/bangkok/)-[Phuket](/city/phuket/)-[Chiang Mai](/city/chiang-mai/).
+- openingstijden bij de attractie;
+- dienstregeling bij vervoerder of luchthaven;
+- toegang en kledingregels bij de locatie;
+- weers- en veiligheidsinformatie bij officiële instanties;
+- actuele prijs en voorwaarden bij de aanbieder.
 
-Door reizigers direct te koppelen aan lokale ondernemers, restaurants en community-gerichte toeristische aanbieders, verdeelt de app de toeristische bestedingen **gelijkmatiger over het land** en ondersteunt hij kleine bedrijven en lokale gemeenschappen.
+Een chatbot kan oude of onvolledige informatie overtuigend formuleren. Deel daarom geen gevoelige documenten of betaalgegevens in een vrije chatvraag en laat medische, juridische of visumbeslissingen niet van één AI-antwoord afhangen.
 
-## TAGTHAi: de andere app die je moet kennen
+## Wat Mastercard toevoegt
 
-De Amazing Thailand-app is niet het enige digitale platform dat het downloaden waard is. **[TAGTHAi](/blog/tagthai-app-sustainable-travel-guide-2026/)**, het nationale toerismeplatform van Thailand, vierde onlangs zijn zevende verjaardag met indrukwekkende cijfers: meer dan **4 miljoen downloads** (een verdubbeling) en aankopen via het platform die met meer dan **170%** groeiden.
+De samenwerking brengt Mastercard Priceless-ervaringen en aanbiedingen in de app. Dat betekent niet dat iedere functie een Mastercard vereist. Controleer per aanbieding wie mag deelnemen, welke kaart nodig is, hoeveel plaatsen beschikbaar zijn en wat de annuleringsregels zijn.
 
-TAGTHAi werkt met een netwerk van ruim **3.000 partners** in attracties, hotels, restaurants, spa's, golfbanen en tourprogramma's. De focus voor 2026 ligt op **community-toerisme in kleinere steden** — reizigers helpen [verborgen parels](/blog/15-hidden-gems-thailand-tourists-miss/) te ontdekken en tegelijk zorgen voor duurzame inkomsten voor lokale dorpen.
+Zie een aanbod nooit als automatisch de beste prijs. Vergelijk eerst of de ervaring bij je route past en kijk daarna naar de totaalvoorwaarden.
 
-## Welke app kun je het beste gebruiken?
+## Zo gebruiken wij de app in een reisplan
 
-Beide apps dienen een iets ander doel:
+Begin met brede inspiratie en bewaar een paar plaatsen. Leg die daarna naast je hotelzone en werkelijke reistijd. Controleer één of twee ankeractiviteiten per dag en houd ruimte voor weer of vermoeidheid. Voor een eerste reis helpt onze [Thailand-gids voor beginners](/nl/thailand-for-first-timers/) om de beslissingen in een logische volgorde te zetten.
 
-- **Amazing Thailand** is ideaal voor **reisplanning en inspiratie**, vooral als je AI-aanbevelingen wilt en een Mastercard hebt voor exclusieve deals
-- **TAGTHAi** is beter voor **activiteiten en passen boeken** als je al weet waar je naartoe gaat, met gebundelde deals op attracties en experiences
+Zorg dat je online kunt wanneer dat nodig is. Vergelijk daarvoor onze gids voor een [Thaise simkaart of eSIM](/nl/travel-guides/sim-card-thailand/). Bewaar belangrijke adressen, verzekeringsgegevens en noodnummers daarnaast offline.
 
-Voor de beste ervaring download je beide apps voor vertrek. Ze zijn gratis en dekken samen vrijwel alles wat je nodig hebt voor plannen en boeken in [Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/). Twijfel je nog over [wanneer te gaan](/best-time-to-visit-thailand/), bekijk dan onze weergids, en vergeet niet de laatste [visuminformatie](/visa/) te checken voor je vanaf Schiphol vertrekt.
+## Wat de app niet vervangt
 
----
-
-*Bronnen: [TAT Newsroom](https://www.tatnews.org/2026/03/enhanced-amazing-thailand-app-set-to-enter-public-rollout-on-15-march-powered-by-tat-and-mastercard/), [Travel And Tour World](https://www.travelandtourworld.com/news/article/revolutionizing-travel-in-thailand-the-ai-powered-amazing-thailand-app-launches-with-exclusive-mastercard-experiences-on-march-15-2026/), [Travel And Tour World](https://www.travelandtourworld.com/news/article/tagthai-and-tat-unite-the-future-of-sustainable-travel-in-thailand-for-2026/)*
+De app vervangt geen officieel visumportaal, luchtvaartmaatschappij, arts, verzekeraar of lokale noodwaarschuwing. Ook de [Thailand Digital Arrival Card](/nl/blog/thailand-digital-arrival-card-tdac-guide/) regel je alleen via het juiste officiële kanaal. Een reisapp is een hulpmiddel; de eigenaar van een dienst blijft de bron voor uitvoering.

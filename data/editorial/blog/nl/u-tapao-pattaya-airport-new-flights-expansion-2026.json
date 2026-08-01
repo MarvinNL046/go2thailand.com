@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "u-tapao-pattaya-airport-new-flights-expansion-2026",
+  "route": "/nl/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "U-Tapao Airport: actuele vluchten en Pattaya-transfer",
+    "description": "Bekijk wanneer U-Tapao handig is voor Pattaya en Rayong, welke routes de luchthaven zelf toont en welke uitbreidingsclaims nog geen reisgarantie zijn.",
+    "primaryKeyword": "U-Tapao airport Pattaya",
+    "secondaryKeywords": ["vluchten U-Tapao", "U-Tapao naar Pattaya", "Rayong Pattaya luchthaven"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/"
+  },
+  "hero": {
+    "eyebrow": "Dichter bij de oostkust",
+    "title": "Vliegen via U-Tapao",
+    "accent": "Handig, maar controleer de route",
+    "description": "De luchthaven ligt gunstig voor Pattaya en Rayong. Het actuele vliegschema bepaalt of dat voordeel voor jouw reis echt bestaat.",
+    "image": "/images/redesign/editorial/u-tapao-pattaya-airport-new-flights-expansion-2026-hero.webp",
+    "imageAlt": "Passagiersvliegtuig op het platform van een luchthaven aan de oostkust van Thailand",
+    "primaryCta": { "label": "Maak de luchthavenkeuze", "href": "#keuze" },
+    "secondaryCta": { "label": "Plan Pattaya", "href": "/nl/city/pattaya/" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "confirmed",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "U-Tapao kan een slimme aankomstluchthaven zijn voor Pattaya en Rayong, maar alleen wanneer een passende vlucht op jouw datum daadwerkelijk in het officiële schema staat. Grote uitbreidings- en spoorplannen zijn geen actuele dienstregeling.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "keuze",
+      "title": "U-Tapao of Bangkok: kies op de hele reisketen",
+      "options": [
+        { "title": "U-Tapao", "description": "Logisch bij een passende rechtstreekse vlucht en een eerste verblijf aan de oostkust.", "label": "Kortere landtransfer" },
+        { "title": "Suvarnabhumi", "description": "Veel groter netwerk en vaak eenvoudiger vanuit Europa; tel de transfer naar Pattaya mee.", "label": "Meer vluchtkeuze" },
+        { "title": "Don Mueang", "description": "Relevant voor sommige regionale of binnenlandse verbindingen; controleer een eventuele luchthavenwissel.", "label": "Andere routeketen" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "live-check",
+      "title": "Controleer dit vóór je boekt",
+      "items": [
+        "Vlucht en frequentie in het actuele luchthavenschema",
+        "Bagagevoorwaarden en eventuele losse tickets",
+        "Aankomsttijd plus vooraf bevestigde transfer",
+        "Hotelcheck-in wanneer je laat landt",
+        "Een alternatief bij een schemawijziging"
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "plannen",
+      "tone": "saffron",
+      "title": "Een bouwplan is geen reisverbinding",
+      "description": "Capaciteits-, runway- en hogesnelheidslijnplannen kunnen veranderen. Gebruik ze niet om je huidige overstap of reistijd te beloven."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over U-Tapao",
+      "items": [
+        { "question": "Is U-Tapao dichter bij Pattaya dan Suvarnabhumi?", "answer": "Ja, geografisch wel. Of je totale reis korter wordt, hangt af van vlucht, wachttijd, bagage en je exacte hotel." },
+        { "question": "Vliegt U-Tapao rechtstreeks naar Europa?", "answer": "Baseer die beslissing uitsluitend op het actuele schema voor jouw datum; het huidige aanbod is veel beperkter dan in Bangkok." },
+        { "question": "Is de hogesnelheidslijn al bruikbaar?", "answer": "Nee, een infrastructuurplan mag niet als bestaande passagiersverbinding worden gepresenteerd." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Actuele bronnen",
+      "items": [
+        { "title": "International flight schedule", "publisher": "U-Tapao Rayong-Pattaya International Airport", "url": "https://www.utapao.com/en/flights/International-schedule", "checkedAt": "2026-08-01", "note": "Route-eigenaar voor actuele internationale vluchten; tijden blijven datumafhankelijk." },
+        { "title": "Strategic and annual action plans", "publisher": "U-Tapao Airport", "url": "https://www.utapao.com/corporate/en/about-us/utpstrategy", "checkedAt": "2026-08-01", "note": "Plancontext, niet gebruikt als operationele garantie." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder-plannen",
+      "title": "Plan de oostkust verder",
+      "items": [
+        { "title": "Pattaya overzicht", "description": "Kies de juiste kust- en stadszone.", "href": "/nl/city/pattaya/" },
+        { "title": "Bangkok naar Pattaya", "description": "Vergelijk de route over land.", "href": "/nl/transport/bangkok-to-pattaya/" },
+        { "title": "Rayong", "description": "Ontdek de kust ten oosten van Pattaya.", "href": "/nl/city/rayong/" }
+      ]
+    }
+  ]
+}

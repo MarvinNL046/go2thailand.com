@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "wildlife-conservation-volunteering-thailand-2026-turtles-elephants",
+  "route": "/nl/blog/wildlife-conservation-volunteering-thailand-2026-turtles-elephants/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Wildlife-vrijwilligerswerk Thailand: ethische checklist",
+    "description": "Kies verantwoord wildlife-vrijwilligerswerk in Thailand met no-touchcriteria, transparante dierenzorg en een check van visa en werktoestemming.",
+    "primaryKeyword": "wildlife vrijwilligerswerk Thailand",
+    "secondaryKeywords": ["vrijwilligerswerk olifanten Thailand", "dierenopvang Thailand", "ethisch wildlife project Thailand"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/wildlife-conservation-volunteering-thailand-2026-turtles-elephants/"
+  },
+  "hero": {
+    "eyebrow": "Dierenwelzijn vóór de foto",
+    "title": "Vrijwilligen met wildlife",
+    "accent": "Kies op bewijs, niet op het label",
+    "description": "Een goed programma beperkt mens-diercontact, werkt met deskundige zorg en regelt ook de juridische kant van jouw inzet.",
+    "image": "/images/redesign/editorial/wildlife-conservation-volunteering-thailand-2026-turtles-elephants-hero.webp",
+    "imageAlt": "Olifant in een groen opvanggebied met een verzorger op ruime afstand",
+    "primaryCta": { "label": "Gebruik de ethische checklist", "href": "#ethische-check" },
+    "secondaryCta": { "label": "Lees over dierenwelzijn", "href": "/nl/blog/ethical-elephant-sanctuaries-thailand-2026-guide/" }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "compare",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Kies alleen een wildlifeprogramma dat taken, geldstromen, vergunningen en dierenwelzijn concreet uitlegt. Vermijd rijden, wassen, voeren zonder barrière, shows en afgedwongen fotocontact. Laat de organisatie vóór betaling schriftelijk bevestigen welke visa en werkdocumenten nodig zijn.",
+  "blocks": [
+    {
+      "kind": "checklist",
+      "id": "ethische-check",
+      "title": "Zeven signalen van een zorgvuldiger programma",
+      "items": [
+        "Het dier kan afstand nemen en contact beëindigen",
+        "Geen rijden, baden, show, knuffel- of selfiemoment",
+        "Taken ondersteunen voeding, schoonmaak, observatie of habitat",
+        "Veterinaire zorg en herkomst van dieren zijn transparant",
+        "Vrijwilligers vervangen geen gespecialiseerde lokale banen",
+        "Kosten, verblijf en besteding van bijdragen zijn duidelijk",
+        "Visa, werktoestemming, verzekering en minimumleeftijd worden vooraf uitgelegd"
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "programmas",
+      "title": "Drie soorten inzet, drie verschillende checks",
+      "options": [
+        { "title": "Wildlife-reddingscentrum", "description": "Denk aan voer voorbereiden, verblijven onderhouden en gedragsverrijking; WFFT beschrijft zijn rescuewerk expliciet als hands-off.", "label": "No-touch" },
+        { "title": "Olifantenopvang", "description": "Observeer natuurlijk gedrag. ABTA noemt rijden, baden en toeristencontact zonder barrière onacceptabel.", "label": "Welzijn eerst" },
+        { "title": "Marien natuurbehoud", "description": "Vraag wie onderzoek leidt, welke training je krijgt en of veldwerk echte lokale monitoring ondersteunt.", "label": "Methodiek checken" }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "juridisch",
+      "tone": "warning",
+      "title": "Vrijwilligerswerk is niet automatisch toerisme",
+      "description": "De Thaise ambassade kent een Non-Immigrant O-categorie voor vrijwilligers bij NGO's. Vraag de ontvangende organisatie welke actuele visa en werkdocumenten voor jouw taken verplicht zijn; vertrouw niet op een mondelinge 'dagje helpen'-belofte."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is ieder olifanten-sanctuary ethisch?", "answer": "Nee. 'Sanctuary' is geen bewijs. Controleer beleid, dierencontact, herkomst, veterinaire zorg en onafhankelijke welzijnscriteria." },
+        { "question": "Mag ik olifanten wassen of voeren?", "answer": "ABTA classificeert baden en direct toeristencontact of voeren zonder barrière als onacceptabel. Observeren op afstand geeft dieren meer keuzevrijheid." },
+        { "question": "Kan ik op een toeristenstatus vrijwilligerswerk doen?", "answer": "Ga daar niet van uit. Laat de geregistreerde organisatie schriftelijk bevestigen welke visa en eventuele werktoestemming gelden." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Welzijns- en juridische bronnen",
+      "items": [
+        { "title": "Animal Welfare Guidelines", "publisher": "ABTA", "url": "https://www.abta.com/sustainability/animal-welfare/abta-animal-welfare-guidelines-basic-welfare-requirements-and", "checkedAt": "2026-08-01", "note": "Noemt onder meer shows, rijden, baden en direct olifantencontact als onacceptabel." },
+        { "title": "Wildlife Rescue Centre", "publisher": "Wildlife Friends Foundation Thailand", "url": "https://www.wfft.org/projects/wildlife-rescue-centre/", "checkedAt": "2026-08-01", "note": "Beschrijft vrijwilligerswerk als strikt hands-off." },
+        { "title": "Volunteer programme", "publisher": "Phuket Elephant Sanctuary", "url": "https://www.phuketelephantsanctuary.org/programs/volunteer-work/", "checkedAt": "2026-08-01", "note": "Actuele taken, voorwaarden en seizoensbeperking." },
+        { "title": "Volunteer Visa", "publisher": "Royal Thai Embassy London", "url": "https://london.thaiembassy.org/en/page/volunteer-visa", "checkedAt": "2026-08-01", "note": "Officiële visumcategorie voor vrijwilligerswerk bij een NGO." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verantwoord",
+      "title": "Reis verder met duidelijke grenzen",
+      "items": [
+        { "title": "Ethische olifantenopvang", "description": "Beoordeel ervaringen op dierenwelzijn.", "href": "/nl/blog/ethical-elephant-sanctuaries-thailand-2026-guide/" },
+        { "title": "Gevaarlijke dieren", "description": "Houd afstand en weet wat je bij een incident doet.", "href": "/nl/travel-guides/dangerous-animals-thailand/" },
+        { "title": "Nationale parken", "description": "Plan natuurbezoek zonder wildlifegarantie.", "href": "/nl/travel-guides/national-parks-thailand/" }
+      ]
+    }
+  ]
+}

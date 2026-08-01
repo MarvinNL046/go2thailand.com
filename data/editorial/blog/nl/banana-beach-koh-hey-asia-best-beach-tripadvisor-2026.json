@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "banana-beach-koh-hey-asia-best-beach-tripadvisor-2026",
+  "route": "/nl/blog/banana-beach-koh-hey-asia-best-beach-tripadvisor-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Banana Beach Koh Hey: award, dagtrip en afweging",
+    "description": "Banana Beach op Koh Hey staat bovenaan Tripadvisors Azië-lijst van 2026. Lees wat die publieksprijs betekent en of de dagtrip bij je past.",
+    "primaryKeyword": "Banana Beach Koh Hey",
+    "secondaryKeywords": ["Banana Beach Phuket dagtrip", "Koh Hey Phuket", "Tripadvisor beste strand Azië 2026"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/banana-beach-koh-hey-asia-best-beach-tripadvisor-2026/"
+  },
+  "hero": {
+    "eyebrow": "Publieksprijs met context",
+    "title": "Banana Beach op Koh Hey",
+    "accent": "Mooie dagtrip, geen natuurgarantie",
+    "description": "Tripadvisor zette het strand in 2026 bovenaan zijn Azië-lijst. Jouw ervaring blijft afhankelijk van boot, drukte, wind en gekozen pakket.",
+    "image": "/images/redesign/editorial/banana-beach-koh-hey-asia-best-beach-tripadvisor-2026-hero.webp",
+    "imageAlt": "Tropische baai met zandstrand en een kleine boot bij Koh Hey",
+    "primaryCta": { "label": "Bekijk de afweging", "href": "#past-bij" },
+    "secondaryCta": { "label": "Ontdek Phuket", "href": "/nl/city/phuket/" }
+  },
+  "layout": {
+    "kind": "destination-guide",
+    "geography": "island",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Banana Beach op Koh Hey werd nummer één in Tripadvisors Best of the Best Beaches in Asia 2026, op basis van reizigersreviews over twaalf maanden. Zie dat als publiekswaardering, niet als garantie voor rust, zicht, zwemcondities of jouw ideale stranddag.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "past-bij",
+      "title": "Past deze dagtrip bij jou?",
+      "options": [
+        { "title": "Ja, voor een verzorgde stranddag", "description": "Geschikt als je boot, strandfaciliteiten en activiteiten liever in één georganiseerd pakket hebt.", "label": "Gemak" },
+        { "title": "Misschien, voor snorkelen", "description": "Zicht en zeeleven zijn nooit gegarandeerd. Vraag naar de echte waterlocatie, begeleiding en alternatief.", "label": "Condities tellen" },
+        { "title": "Nee, voor volledige stilte", "description": "Een bekende georganiseerde dagtrip kan druk aanvoelen. Kies een andere kustdag als rust je hoofdcriterium is.", "label": "Andere match" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "boottour-check",
+      "title": "Controleer de tour vóór betaling",
+      "items": [
+        "Vertrekpier, hoteltransfer en totale deur-tot-deurdag",
+        "Boottype, groepsgrootte en schaduw aan boord",
+        "Wat lunch, handdoek, locker en activiteiten precies omvatten",
+        "Zwemvesten, snorkelbegeleiding en kinderregels",
+        "Weers-, annulerings- en landalternatief",
+        "Geen voeren, aanraken of achtervolgen van wildlife"
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "award",
+      "tone": "saffron",
+      "title": "Wat de Tripadvisor-award wél zegt",
+      "description": "De Best of the Best-lijst komt voort uit een groot volume sterke reviews en meningen in een periode van twaalf maanden. De beschrijvingen op de lijst zijn door AI samengevat. Het is geen onafhankelijke natuur- of veiligheidsinspectie."
+    },
+    {
+      "kind": "affiliate",
+      "id": "tourcheck",
+      "provider": "klook",
+      "title": "Vergelijk actuele Banana Beach-dagtrips",
+      "description": "Controleer pas na je routekeuze de echte inclusies, vertrektijd, groepsgrootte en annuleringsvoorwaarden.",
+      "cta": { "label": "Bekijk actuele opties", "href": "https://www.klook.com/search/?query=Banana%20Beach%20Koh%20Hey", "external": true },
+      "placement": "banana-beach-live-tour-check",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is Banana Beach echt het beste strand van Azië?", "answer": "Het stond in 2026 op nummer één van Tripadvisors publiekslijst. 'Beste' blijft afhankelijk van methode en jouw voorkeuren." },
+        { "question": "Ligt Banana Beach op Phuket zelf?", "answer": "Deze awardroute gaat over Banana Beach op Koh Hey, een eiland voor Phuket. Verwar het niet met gelijknamige stranden." },
+        { "question": "Kun je altijd snorkelen?", "answer": "Nee. Wind, golven, zicht, stroming en lokale instructies bepalen of snorkelen verantwoord en zinvol is." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Award- en locatiebronnen",
+      "items": [
+        { "title": "Best of the Best Beaches in Asia 2026", "publisher": "Tripadvisor", "url": "https://www.tripadvisor.com/TravelersChoice-Beaches-cAsia-g2", "checkedAt": "2026-08-01", "note": "Bevestigt Banana Beach als nummer één in Azië en legt de reviewmethodiek uit." },
+        { "title": "Top Beaches 2026 media release", "publisher": "Tripadvisor Media Center", "url": "https://tripadvisor.mediaroom.com/2026-02-17-Top-Beaches-2026-Tripadvisor-Travelers-Choice-Awards-Worlds-Best", "checkedAt": "2026-08-01" },
+        { "title": "Banana Beach Koh Hey", "publisher": "Banana Beach Koh Hey", "url": "https://bananabeachkohhey.com/", "checkedAt": "2026-08-01", "note": "Operatorinformatie; inclusies en prijzen altijd live controleren." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder-plannen",
+      "title": "Bouw je Phuket-route",
+      "items": [
+        { "title": "Phuket overzicht", "description": "Kies eerst waar je verblijft.", "href": "/nl/city/phuket/" },
+        { "title": "Snorkelen in Thailand", "description": "Vergelijk kust, seizoen en zwemniveau.", "href": "/nl/travel-guides/diving-snorkeling-thailand/" },
+        { "title": "Khai-eilanden", "description": "Vergelijk een andere korte eilandtour.", "href": "/nl/phuket-tours/khai-islands/" }
+      ]
+    }
+  ]
+}

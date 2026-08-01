@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "yoga-retreats-koh-samui-koh-phangan-2026-guide",
+  "route": "/nl/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Yoga-retreat Koh Samui of Koh Phangan: kies bewust",
+    "description": "Vergelijk een yoga-retreat op Koh Samui en Koh Phangan op programma, verblijf, begeleiding, bereikbaarheid en voorwaarden.",
+    "primaryKeyword": "yoga retreat Koh Samui of Koh Phangan",
+    "secondaryKeywords": ["yoga retreat Thailand", "wellness Koh Samui", "yoga Koh Phangan"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/"
+  },
+  "hero": {
+    "eyebrow": "Kies het programma vóór het uitzicht",
+    "title": "Koh Samui of Koh Phangan",
+    "accent": "Twee verschillende retreatreizen",
+    "description": "Samui maakt aankomst en resortcomfort eenvoudiger. Phangan geeft meer keuze rond yogagemeenschappen, maar vraagt extra ferryplanning.",
+    "image": "/images/redesign/editorial/yoga-retreats-koh-samui-koh-phangan-2026-guide-hero.webp",
+    "imageAlt": "Kleine yogagroep in een open houten shala aan zee op een Thais eiland",
+    "primaryCta": { "label": "Vergelijk de eilanden", "href": "#eilandkeuze" },
+    "secondaryCta": { "label": "Bekijk wellness in Thailand", "href": "/nl/blog/best-wellness-retreats-thailand-2026/" }
+  },
+  "layout": {
+    "kind": "hotel-guide",
+    "pricePolicy": "live-price-only",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Kies Koh Samui voor een eenvoudigere aankomst en meer resortachtige wellness. Kies Koh Phangan wanneer de yogagemeenschap en een eenvoudiger, langer verblijf zwaarder wegen en je de ferryketen accepteert. Controleer altijd docent, programma, kamer, maaltijden en annuleringsvoorwaarden.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "eilandkeuze",
+      "title": "Welke retreatbasis past bij jou?",
+      "options": [
+        { "title": "Koh Samui", "description": "Eigen luchthaven, bredere hotelkeuze en programma's die yoga met fitness, spa of herstel combineren.", "label": "Gemakkelijke aankomst" },
+        { "title": "Koh Phangan", "description": "Sterke yogascene en veel losse lessen of langere trainingen, met ferry en lokaal vervoer als extra schakel.", "label": "Meer community" },
+        { "title": "Geen volledig retreat", "description": "Boek een gewoon verblijf en probeer eerst losse lessen wanneer je programmafit nog niet kent.", "label": "Flexibele test" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "retreatcheck",
+      "title": "Vragen vóór je een aanbetaling doet",
+      "items": [
+        "Welke lessen, maaltijden en transfers zijn werkelijk inbegrepen?",
+        "Wat zijn de opleiding en ervaring van de docent?",
+        "Is het niveau geschikt bij blessures of beperkte mobiliteit?",
+        "Is de kamer privé of gedeeld en heeft deze airconditioning?",
+        "Hoe werken annulering, minimumdeelname en programmaverandering?",
+        "Welke ferry- of vluchtmarge heb je op aankomst- en vertrekdag?"
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "gezondheid",
+      "tone": "cream",
+      "title": "Yoga ondersteunt welzijn, maar is geen behandelbelofte",
+      "description": "WHO benadrukt kwaliteit, veiligheid en inclusiviteit in yoga-instructie. Bespreek medische klachten met een bevoegde zorgverlener en vraag om aanpassingen tijdens de les."
+    },
+    {
+      "kind": "affiliate",
+      "id": "verblijven",
+      "provider": "trip.com",
+      "title": "Vergelijk eerst het verblijf rond je programma",
+      "description": "Controleer live kamerprijzen en voorwaarden wanneer lessen en accommodatie niet samen worden aangeboden.",
+      "cta": { "label": "Bekijk actuele verblijven", "href": "https://trip.tpo.lv/TmObooZ5", "external": true },
+      "placement": "yoga-retreat-stay-check",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Welk eiland is beter voor beginners?", "answer": "Geen eiland is automatisch beter. Kies een docent die beginners expliciet begeleidt en een programma met rust en aanpasbare houdingen." },
+        { "question": "Is een teacher training hetzelfde als een retreat?", "answer": "Nee. Een opleiding heeft leerdoelen, aanwezigheid en beoordeling; een retreat draait meestal om oefenen en herstel." },
+        { "question": "Zijn prijzen all-inclusive?", "answer": "Niet altijd. Vergelijk kamer, maaltijden, lessen, transfers, behandelingen, belastingen en annuleringsregels als één totaal." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Programma- en kwaliteitsbronnen",
+      "items": [
+        { "title": "Training in Yoga", "publisher": "World Health Organization", "url": "https://www.who.int/publications/b/82272", "checkedAt": "2026-08-01", "note": "Kwaliteits-, veiligheids- en inclusiviteitskader voor yoga-instructie." },
+        { "title": "Yoga, fitness and wellness retreats", "publisher": "Samahita Retreat", "url": "https://samahitaretreat.com/", "checkedAt": "2026-08-01", "note": "Voorbeeld van een actueel Samui-programma; geen rangschikking of aanbevelingsgarantie." },
+        { "title": "The Yoga Retreat Koh Phangan", "publisher": "The Yoga Retreat", "url": "https://yogaretreat-kohphangan.com/", "checkedAt": "2026-08-01", "note": "Actuele operationele context toont waarom schema's opnieuw gecontroleerd moeten worden." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder-kiezen",
+      "title": "Bouw de rest van je eilandreis",
+      "items": [
+        { "title": "Koh Samui", "description": "Kies een kustzone en realistisch dagritme.", "href": "/nl/islands/koh-samui/" },
+        { "title": "Koh Phangan", "description": "Vergelijk westkust, dorpen en vervoer.", "href": "/nl/islands/koh-phangan/" },
+        { "title": "Wellness retreats", "description": "Vergelijk retreattypes in heel Thailand.", "href": "/nl/blog/best-wellness-retreats-thailand-2026/" }
+      ]
+    }
+  ]
+}

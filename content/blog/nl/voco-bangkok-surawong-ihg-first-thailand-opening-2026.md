@@ -1,52 +1,49 @@
 ---
-title: "voco Bangkok Surawong: IHG opent eerste voco hotel in Thailand"
+title: "voco Bangkok Surawong: locatie, sfeer en live prijs"
 slug: "voco-bangkok-surawong-ihg-first-thailand-opening-2026"
 date: "2026-03-23"
+lastUpdated: "2026-08-01"
 author:
   name: "Go2Thailand Editorial"
 category: "hotels"
-tags: ["voco Bangkok", "IHG Thailand", "Bangkok hotels 2026", "Surawong Road", "Silom hotels", "nieuw hotel Bangkok", "beste hotels Bangkok", "Thailand vakantie 2026", "tips Bangkok overnachten"]
-image: "/images/blog/thailand-news-default.webp"
-description: "IHG Hotels & Resorts opent voco Bangkok Surawong, het eerste voco-hotel in Thailand. Ontdek wat je kunt verwachten van dit hotel dat erfgoed met modern design combineert aan de Surawong Road in het hart van Bangkok."
+tags: ["voco Bangkok Surawong", "hotel Surawong", "Silom", "Bangkok hotels"]
+image: "/images/redesign/editorial/voco-bangkok-surawong-ihg-first-thailand-opening-2026-hero.webp"
+description: "voco Bangkok Surawong is geopend. Bekijk voor wie de ligging werkt, welke faciliteiten IHG bevestigt en controleer de actuele totaalprijs."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 7
 sources:
-  - name: "IHG — voco Bangkok Surawong: Opening the doors to somewhere different"
+  - name: "IHG — voco Bangkok Surawong"
+    url: "https://www.ihg.com/voco/hotels/us/en/bangkok/bkkaa/hoteldetail"
+  - name: "IHG — Dining at voco Bangkok Surawong"
+    url: "https://www.ihg.com/voco/hotels/us/en/bangkok/bkkaa/hoteldetail/dining"
+  - name: "IHG — Opening announcement"
     url: "https://www.ihgplc.com/en/news-and-media/news-releases/2026/voco-bangkok-surawong-opening-the-doors-to-somewhere-different"
-  - name: "PR Newswire — voco Bangkok Surawong: The first property under voco hotels opens in Thailand"
-    url: "https://www.prnewswire.com/apac/news-releases/voco-bangkok-surawong-the-first-property-under-voco-hotels-opens-in-thailand-302680201.html"
-  - name: "Travel Market Report — New Opening: voco Bangkok Surawong"
-    url: "https://www.travelmarketreport.com/hotels-resorts/articles/new-opening-voco-bangkok-surawong"
 ---
 
-## IHG brengt zijn snelst groeiende premium merk naar Bangkok
+## Is voco Bangkok Surawong al open?
 
-IHG Hotels & Resorts heeft officieel voco Bangkok Surawong geopend, waarmee het voco-merk zijn debuut maakt in Thailand. Dit hotel met 244 kamers ligt aan de Surawong Road in het hart van de [Silom-wijk in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/#1-silom-the-business-district-with-nightlife-edge) – een van de [beste buurten om te verblijven in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/) – en verwelkomt nu gasten.
+Ja. IHG toont voco Bangkok Surawong als geopend en boekbaar aan 80 Surawong Road. De officiële pagina vermeldt onder meer kamers, een buitenzwembad, fitnessruimte, spa en drie eetgelegenheden. Dat is sterker bewijs dan een oud openingsbericht: je kunt nu voor concrete data controleren wat beschikbaar is.
 
-voco is wereldwijd het snelst groeiende premium merk van IHG. De keuze voor [Bangkok](/city/bangkok/) als eerste locatie in Thailand toont het vertrouwen van het bedrijf in de blijvende aantrekkingskracht van de stad op zowel luxe vakantiegangers als zakenreizigers. Bangkok is onlangs [uitgeroepen tot de beste stad in Azië voor 2026](/blog/bangkok-best-city-asia-2026-destinasian-award/) door lezers van DestinAsian, wat de groeiende wereldwijde faam van de hoofdstad onderstreept. Voor Nederlanders is dit ideaal: directe vluchten vanaf Schiphol met KLM maken een trip in de beste reistijd – het koele seizoen van november tot februari – eenvoudig en veilig.
+De belangrijkste vraag is daarom niet meer *wanneer opent het hotel?*, maar *past deze locatie bij mijn Bangkok-route?*
 
-## Een brutalistisch icoon herboren
+## De ligging: tussen Silom, Bang Rak en de rivierzijde
 
-Het gebouw heeft een rijke geschiedenis. Het opereerde eerder als het Tawana Hotel, een van Bangkoks bekende midden-eeuwse hotels. De bekroonde Thaise architecten van A49 leidden de herinrichting, waarbij ze het oorspronkelijke brutalistische modernisme behielden en tegelijkertijd natuurlijk licht, open zichtlijnen en een hedendaagse interieurstroom introduceerden.
+Surawong Road ligt in een levendig deel van Bangkok met restaurants, winkels en avondleven. Je zit niet letterlijk naast iedere toeristische highlight. Bekijk op de kaart welke BTS- of MRT-halte jij werkelijk gebruikt en hoeveel taxi- of looptijd je dagplan vraagt.
 
-Het resultaat is een hotel dat zowel vertrouwd als fris aanvoelt – geometrische betonvormen naast warme houten afwerkingen en weelderige tuinbinnenplaatsen. Gasten die zich het oude Tawana herinneren, zullen de structuur herkennen, maar de ervaring is volledig vernieuwd. Voor andere opvallende nieuwe [hotelopeningen in Bangkok in 2026](/blog/thailand-hotel-boom-2026-record-pipeline-bangkok-luxury/), van luxe vlaggenschepen tot boetiekhotels, bekijk onze speciale samenvatting.
+Deze basis past goed wanneer je [Silom en andere Bangkokse wijken](/nl/blog/where-to-stay-bangkok-neighborhood-guide/) wilt vergelijken, graag buiten het klassieke rivierhotelcircuit slaapt en 's avonds dicht bij eten en uitgaan wilt zijn. Voor een eerste bezoek werkt het ook, zolang je [BTS, MRT en boot](/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) vooraf als één netwerk plant.
 
-## Eten en faciliteiten
+## Sfeer en faciliteiten
 
-Drie restaurants en bars vormen de kern van het culinaire aanbod:
+Het hotel gebruikt een bestaand gebouw met tropisch-moderne lijnen en een vernieuwd interieur. IHG positioneert voco als upscale: comfortabeler en uitgesprokener dan een puur functioneel zakenhotel, zonder automatisch hetzelfde serviceniveau of dezelfde ruimte als een top-luxeresort te beloven.
 
-- **Tasca Sabio** – een restaurant geïnspireerd op Spanje dat Iberische smaken naar de Surawong Road brengt
-- **Deckles Smokehouse** – een all-day dining venue rond een premium rookhuis-concept, een primeur voor een Bangkok hotel in deze categorie
+De officiële hotelinformatie noemt een lap pool, fitnessruimte en spa. Voor eten noemt IHG Deckles Smokehouse, Tasca Sabio en voco Life. Controleer bij een verblijf altijd of faciliteiten tijdens jouw data open zijn en of ontbijt of andere diensten in jouw tarief zitten.
 
-Andere faciliteiten omvatten een groot zwembad omringd door aangelegde tuinen, een 24-uurs fitnesscentrum en een spa in onsen-stijl.
+## Geen vaste prijs in een hotelgids
 
-Een klein detail dat het vermelden waard is: elke gast krijgt bij het inchecken een [kleefrijst met mango](/blog/mango-sticky-rice-season-thailand/)-koekje. De banketbakker van het hotel bereidt ze dagelijks met verse lokale mango's – een moderne knipoog naar een van Thailands meest geliefde desserts. Als je tijdens je verblijf de bredere Bangkokse voedselscene verkent, biedt onze gids voor [de top restaurantawards in Bangkok](/blog/bangkok-top-tables-2026-best-restaurants-awards/) een overzicht van de beste tafels in de stad voor 2026.
+Een lanceringstarief uit een nieuwsbericht veroudert snel. Vergelijk daarom de totaalprijs voor exact hetzelfde kamertype, dezelfde bezetting en dezelfde annuleringsvoorwaarden. Let ook op belastingen, ontbijt, vooruitbetaling en loyaliteitsvoordelen.
 
-## Locatie
+Wil je meerdere zones naast elkaar leggen, begin dan bij [hotels in Bangkok](/nl/best-hotels/bangkok/). Kies eerst de wijk en pas daarna de kamer. Zo voorkom je dat een aantrekkelijke deal dagelijks extra reistijd veroorzaakt.
 
-De Surawong Road brengt gasten op loopafstand van drie verschillende Bangkokse buurten. De [streetfood](/blog/best-street-food-markets-bangkok/) en [nachtleven](/blog/bangkok-best-cocktail-bars-march-2026-nightlife/) van Silom liggen om de hoek. De kantoortorens van Sathorn zijn een korte taxirit naar het zuiden. En de [BTS Skytrain](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) verbindt de buurt in minder dan tien minuten met de shopping malls van Siam. De [beste rooftop bars in Bangkok](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/) zijn gemakkelijk bereikbaar, en [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) en [Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/) liggen op een korte taxirit of boottocht langs de Chao Phraya. Voor Nederlandse reizigers is de veiligheid hier hoog, met veel toeristen en goede bereikbaarheid – perfect voor een zorgeloze vakantie.
+## Voor wie zouden wij verder kijken?
 
-## Voor wie is het?
-
-voco Bangkok Surawong positioneert zich in de premium categorie – boven een standaard Holiday Inn, maar onder een volledig InterContinental. Het is een uitstekende keuze voor reizigers die een centraal gelegen hotel willen met karaktervol design en betrouwbare IHG-loyaliteitsvoordelen, zonder de echte luxe prijzen te betalen. Kamertarieven bij de lancering beginnen rond de 4.000 THB per nacht. Voor een volledig overzicht van de accommodatiemogelijkheden in Bangkok per buurt en budget, zie onze [Bangkok buurtgids](/blog/where-to-live-bangkok-neighborhood-guide-expats/). Als alternatief zijn de [Andaz One Bangkok](/blog/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026/) en [Fairmont Bangkok](/blog/fairmont-bangkok-sukhumvit-first-fairmont-thailand-2026/) het overwegen waard als je voor de luxe gaat. Voor de beste tarieven in alle Bangkok hotels, check [beste hotels in Bangkok](/best-hotels/bangkok/). De [Thailand hotelboom in 2026](/blog/thailand-hotel-boom-2026-record-pipeline-bangkok-luxury/) somt ook andere nieuwe openingen op als je wilt vergelijken voor je boeking. Voor je eerste reis bieden we een [essentiële gids voor eerste bezoekers aan Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) met alle tips over de beste reistijd en veiligheid.
+Zoek je absolute rust, een resort aan de rivier of directe toegang tot de historische kern, dan zijn andere zones mogelijk logischer. Ook met jonge kinderen kan een ander straatprofiel prettiger zijn. Surawong is vooral sterk voor reizigers die een stedelijke mix van eten, zakenwijk en avondleven bewust kiezen.

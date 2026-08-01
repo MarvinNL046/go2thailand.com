@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "andamanda-phuket-day-songkran-pool-party-2026",
+  "route": "/nl/blog/andamanda-phuket-day-songkran-pool-party-2026/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Andamanda Day Songkran 2026 is afgelopen",
+    "description": "De Andamanda Day Songkran poolparty van 13 tot en met 15 april 2026 is voorbij. Bewaar de data als archief en controleer een volgende editie opnieuw.",
+    "primaryKeyword": "Andamanda Songkran 2026",
+    "secondaryKeywords": ["Phuket Songkran poolparty", "Andamanda Day Songkran", "Songkran Phuket waterpark"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/andamanda-phuket-day-songkran-pool-party-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Verstreken eventarchief",
+    "title": "Day Songkran 2026",
+    "accent": "De poolparty is afgelopen",
+    "description": "Het evenement liep van 13 tot en met 15 april 2026. Gebruik oude tickets, line-ups en tijden niet voor een volgende editie.",
+    "image": "/images/redesign/editorial/andamanda-phuket-day-songkran-pool-party-2026-hero.webp",
+    "imageAlt": "Leeg tropisch waterpark in Phuket na een evenement",
+    "primaryCta": { "label": "Bekijk het archief", "href": "#status" },
+    "secondaryCta": { "label": "Plan Phuket", "href": "/nl/city/phuket/" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "elapsed",
+    "startsOn": "2026-04-13",
+    "endsOn": "2026-04-15",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "Andamanda Day Songkran 2026 vond plaats van 13 tot en met 15 april en is afgelopen. De route blijft alleen als historisch archief bestaan en wordt niet geïndexeerd.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "status",
+      "tone": "warning",
+      "title": "Niet meer boekbaar als 2026-event",
+      "description": "Tickettypes, prijzen, line-up en toegang van april 2026 gelden niet automatisch voor een volgende editie. Wacht op de officiële eventpagina."
+    },
+    {
+      "kind": "card-grid",
+      "id": "archief",
+      "eyebrow": "Wat bevestigd was",
+      "title": "De historische editie in één oogopslag",
+      "cards": [
+        { "title": "Data", "description": "13, 14 en 15 april 2026.", "label": "Verstreken" },
+        { "title": "Locatie", "description": "Andamanda Phuket, als combinatie van waterpark en muziekprogramma.", "label": "Phuket" },
+        { "title": "Tickets", "description": "Er waren losse concert- en combinatietickets; oude tarieven zijn geen huidige prijs.", "label": "Archiefinformatie" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "volgende-editie",
+      "title": "Voor een volgende editie opnieuw controleren",
+      "items": ["Officiële datum en openingstijden", "Leeftijds- en lengtevoorwaarden", "Locker-, kleding- en telefoonregels", "Eigen vervoer na afloop", "Annulering en weersbeleid"]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Kan ik nog een ticket voor Day Songkran 2026 kopen?", "answer": "Nee. De editie van 13 tot en met 15 april 2026 is voorbij." },
+        { "question": "Is Andamanda zelf nog open?", "answer": "Dit archief zegt alleen iets over het evenement. Controleer de actuele waterparkagenda en toegang rechtstreeks bij Andamanda." },
+        { "question": "Komt de poolparty terug?", "answer": "Een nieuwe editie is pas bruikbaar zodra de organisator nieuwe data en voorwaarden officieel publiceert." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Historische eventbron",
+      "items": [
+        { "title": "Day Songkran Festival 2026", "publisher": "Andamanda Phuket", "url": "https://www.andamandaphuket.com/blog/event-and-concert/day-songkran-festival-2026", "checkedAt": "2026-08-01", "note": "Bevestigt data 13–15 april 2026 en de toenmalige ticketopzet." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "phuket",
+      "title": "Plan Phuket zonder oude evenementbelofte",
+      "items": [
+        { "title": "Phuket overzicht", "description": "Kies strandzone, stad en dagroutes.", "href": "/nl/city/phuket/" },
+        { "title": "Beste reistijd Phuket", "description": "Plan op seizoen en zeecondities.", "href": "/nl/city/phuket/weather/" },
+        { "title": "Activiteiten in Phuket", "description": "Vergelijk actuele excursies pas na je routekeuze.", "href": "/nl/city/phuket/attractions/" }
+      ]
+    }
+  ]
+}
