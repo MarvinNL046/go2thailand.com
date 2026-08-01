@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tourism-growth-target-2026-recovery-after-2025-decline",
+  "route": "/nl/blog/thailand-tourism-growth-target-2026-recovery-after-2025-decline/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Thailand toerismedoel 2026: analyse samengevoegd", "description": "Deze vroege prognose is ingehaald en samengevoegd met onze actuele TAT-vooruitblik voor Thailand toerisme in 2026.", "primaryKeyword": "gearchiveerd Thailand toerismedoel 2026", "searchIntent": "navigational", "canonicalPath": "/nl/blog/thailand-tourism-growth-target-2026-recovery-after-2025-decline/", "noindex": true },
+  "hero": { "eyebrow": "Prognose herijkt", "title": "Van groeidoel naar actuele outlook", "accent": "Lees de nieuwste TAT-stand", "description": "De vroege doelstelling is tijdens 2026 bijgesteld. Eén actuele owner voorkomt dat oude prognoses als realisatie worden gelezen.", "image": "/images/redesign/editorial/thailand-tourism-growth-target-2026-recovery-after-2025-decline-hero.webp", "imageAlt": "Veerboot en reizigers bij Wat Arun aan de Chao Phraya in Bangkok", "primaryCta": { "label": "Open de actuele vooruitblik", "href": "/nl/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/" } },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "De oude groeipagina is gearchiveerd: TAT herijkte de internationale outlook in april naar 30–34 miljoen aankomsten en noemde in juni 33 miljoen als verwachting.",
+  "blocks": [
+    { "kind": "steps", "id": "herijking", "title": "Waarom de cijfers veranderden", "steps": [{ "title": "Eerste kwartaal", "description": "TAT rapporteerde 9,31 miljoen internationale aankomsten." }, { "title": "8 april", "description": "De outlook werd herijkt naar circa 30–34 miljoen internationale aankomsten en 2,58 biljoen baht omzet." }, { "title": "Begin juni", "description": "TAT meldde ruim 14 miljoen aankomsten en noemde 33 miljoen als jaarverwachting, met 2,65 biljoen baht omzet." }] },
+    { "kind": "callout", "id": "onderscheid", "tone": "saffron", "title": "Doel is geen realisatie", "description": "Alle cijfers zijn gedateerde prognoses of tussenstanden. Ze bewijzen niet hoeveel bezoekers of omzet het volledige jaar uiteindelijk oplevert.", "cta": { "label": "Lees de actuele analyse", "href": "/nl/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire TAT-bronnen", "items": [{ "title": "TAT refocuses on value over volume", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/04/tat-refocuses-on-value-over-volume-as-2026-tourism-outlook-is-recalibrated/", "checkedAt": "2026-08-01" }, { "title": "Thailand Tourism Update at TTM+ 2026", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/06/thailand-tourism-update-at-ttm-2026-reinforces-quality-led-growth-direction/", "checkedAt": "2026-08-01" }] }
+  ]
+}

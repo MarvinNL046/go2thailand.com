@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tourism-festival-2026-feel-all-feelings-visitor-guide",
+  "route": "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Thailand Tourism Festival 2026: terugblik", "description": "Bronvaste terugblik op het Thailand Tourism Festival van 25–29 maart 2026 in QSNCC Bangkok. Het evenement is afgelopen.", "primaryKeyword": "Thailand Tourism Festival 2026 terugblik", "secondaryKeywords": ["Thailand Tourism Festival QSNCC", "TTF 2026 Bangkok"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/", "noindex": true },
+  "hero": { "eyebrow": "25–29 maart 2026 · afgelopen", "title": "Thailand Tourism Festival 2026", "accent": "Het centrale festivalverslag", "description": "Een compacte terugblik op de 44e editie in QSNCC: vijf regio's, negen zones en de officiële 5 Must Do-lijn.", "image": "/images/redesign/editorial/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide-hero.webp", "imageAlt": "Bezoekers dalen af naar Thaise cultuurpaviljoens in een congrescentrum", "primaryCta": { "label": "Lees de terugblik", "href": "#terugblik" }, "secondaryCta": { "label": "Plan Bangkok", "href": "/nl/city/bangkok/" } },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-25", "endsOn": "2026-03-29", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Het 44e Thailand Tourism Festival vond van 25 tot en met 29 maart 2026 plaats in QSNCC Bangkok en is afgelopen. Deze pagina is een historisch verslag, geen actuele bezoekersgids.",
+  "blocks": [
+    { "kind": "card-grid", "id": "terugblik", "eyebrow": "Officieel programma", "title": "Wat de editie typeerde", "cards": [{ "title": "Vijf regio's", "description": "Noord, Noordoost, Centraal, Oost en Zuid presenteerden cultuur, eten en bestemmingen." }, { "title": "5 Must Do", "description": "Must Taste, Try, Buy, Seek en See vormden het inhoudelijke raamwerk." }, { "title": "Negen zones", "description": "Vijf regionale zones werden aangevuld met onder meer duurzaamheid en partners." }, { "title": "Zero Waste", "description": "TAT organiseerde het evenement voor het vierde jaar volgens Zero Waste to Landfills." }] },
+    { "kind": "callout", "id": "afgelopen", "tone": "warning", "title": "Niet gebruiken als actuele agenda", "description": "Openingstijden, stands en aanbiedingen golden uitsluitend van 25 tot en met 29 maart 2026. Controleer voor een volgende editie altijd TAT en QSNCC." },
+    { "kind": "related", "id": "actueel", "title": "Maak je Bangkokplanning actueel", "items": [{ "title": "Bangkok overzicht", "description": "Start met een actuele bestemmingsoverzicht.", "href": "/nl/city/bangkok/" }, { "title": "Openbaar vervoer", "description": "Plan BTS, MRT en boot zonder festivalinformatie.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Is het Thailand Tourism Festival 2026 nog open?", "answer": "Nee. De 44e editie liep van 25 tot en met 29 maart 2026." }, { "question": "Waar vond het festival plaats?", "answer": "In hallen 1–4 van het Queen Sirikit National Convention Centre in Bangkok." }, { "question": "Was de toegang gratis?", "answer": "Ja, TAT meldde gratis toegang voor de editie van 2026." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bron", "items": [{ "title": "Thailand Tourism Festival 2026 spotlights 5 Must Do", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/03/thailand-tourism-festival-2026-spotlights-5-must-do-in-thailand-and-honours-her-majesty-queen-sirikit-the-queen-mother/", "checkedAt": "2026-08-01", "note": "Officiële data, locatie, openingstijden en programmabeschrijving." }] }
+  ]
+}

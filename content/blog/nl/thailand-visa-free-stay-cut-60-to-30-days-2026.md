@@ -1,61 +1,55 @@
 ---
-title: "Thailand verkort visa-vrije verblijf van 60 naar 30 dagen: tips voor toeristen"
+title: "Thailand visumvrij 30 dagen: status augustus 2026"
 slug: "thailand-visa-free-stay-cut-60-to-30-days-2026"
 date: "2026-03-23"
+lastUpdated: "2026-08-01"
 author:
-  name: "Go2Thailand Team"
+  name: "Go2Thailand Editorial"
 category: "visa"
-tags: ["Thailand visa 2026", "visa-vrije verblijf Thailand", "Thailand 30 dagen visa", "Thailand visa wijzigingen", "Thailand immigratie 2026", "Thailand toeristen visa", "Thailand visum regels", "beste visa Thailand", "reisadvies Thailand visa"]
-image: "/images/blog/thailand-news-default.webp"
-description: "De Thaise regering wil het visa-vrije verblijf van 60 naar 30 dagen inkorten. Ontdek wat deze wijziging betekent voor jouw Thailand vakantie, wanneer het ingaat en hoe je je reis plant."
+tags: ["Thailand visumvrij 30 dagen", "Thailand visum 2026", "Nederlanders Thailand"]
+image: "/images/redesign/editorial/thailand-visa-free-stay-cut-60-to-30-days-2026-hero.webp"
+description: "Thailand heeft nieuwe visumvrije termijnen goedgekeurd, maar de Royal Gazette bepaalt de ingangsdatum. Actuele uitleg voor Nederlanders."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 5
 sources:
-  - name: "Travel And Tour World — Thailand Mulls Major Tourist Visa Change: 60 Days Could Be Cut to 30"
-    url: "https://www.travelandtourworld.com/news/article/thailand-mulls-major-tourist-visa-change-60-days-could-be-cut-to-30-as-officials-tighten-entry-rules-all-you-need-to-know/"
-  - name: "Thai Examiner — Visa change from 60 to 30 days given green light by Foreign Affairs"
-    url: "https://www.thaiexaminer.com/thai-news-foreigners/2026/03/22/visa-change-from-60-to-30-days-given-green-light-by-foreign-affairs-on-friday-still-must-go-to-cabinet/"
-  - name: "Khaosod English — Thailand plans to cut visa-free stay for foreigners from 60 to 30 days"
-    url: "https://www.khaosodenglish.com/news/2026/03/22/thailand-plans-to-cut-visa-free-stay-for-foreigners-from-60-to-30-days/"
-  - name: "Nomad Lawyer — Thailand Visa Travel: 60-Day Tourist Stay Faces Major Cuts to 30 Days"
-    url: "https://nomadlawyer.org/thailand-visa-travel-march-2026-cuts"
+  - name: "Thailand.go.th — updated visa measures pending Royal Gazette publication"
+    url: "https://www.thailand.go.th/useful-information-detail/thai-cabinet-approves-updated-visa-measures-pending-royal-gazette-publication"
+  - name: "Thailand PRD — Visa Policy for 65 Countries & Territories"
+    url: "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/522327"
+  - name: "MFA — summary revised visa exemption measures"
+    url: "https://image.mfa.go.th/mfa/0/wdW3FTtVMc/2026-05-22/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3_ver._eng.pdf"
 ---
 
-## Thailand schrapt zijn royale visa-vrije beleid
+Thailand heeft een nieuw visumvrij stelsel goedgekeurd waarin Nederlandse paspoorthouders bij de groep voor **30 dagen** staan. Er is wel een belangrijk onderscheid tussen een kabinetsbesluit en een regel die al geldt: de Thaise overheid meldde op 19 juli dat vijf Ministry of Interior-aankondigingen nog in de Royal Gazette moesten verschijnen. De nieuwe maatregelen gaan volgens die bekendmaking **vijftien dagen na publicatie** in.
 
-Op 22 maart 2026 gaf het Thaise Ministerie van Buitenlandse Zaken groen licht aan een voorstel om het huidige visa-vrije verblijf van 60 dagen terug te brengen naar 30 dagen. Het plan moet nog worden goedgekeurd door de ministerraad voordat het wet wordt, maar de koers is duidelijk: kortere initiële verblijven voor toeristen die zonder visa aankomen.
+## Wat is al bevestigd?
 
-Deze stap keert een besluit uit juli 2024 om, dat visa-vrijstellingen uitbreidde van 57 naar 93 landen en de standaard verblijfsduur verdubbelde van 30 naar 60 dagen. Dat beleid was bedoeld om het toerisme na de pandemie een flinke boost te geven, en het werkte. Maar ambtenaren zeggen nu dat de royale regels ook zijn misbruikt door mensen betrokken bij online oplichtingsnetwerken en andere niet-toeristische activiteiten. Dit maakt deel uit van een bredere golf aan [Thailand visa wijzigingen in 2026](/blog/thailand-visa-guide-2026/), inclusief een [grote e-visa herziening die 17 visa-categorieën terugbrengt naar 7](/blog/thailand-evisa-overhaul-2026-simplified-categories/).
+Het kabinet stemde op 19 mei 2026 in met het beëindigen van de brede 60-dagenregeling voor 93 landen en met één duidelijke toegangscategorie per land of gebied. In juli volgde de uitgewerkte indeling. Nederland staat daarin bij de landen met maximaal 30 dagen visumvrij verblijf voor toerisme.
 
-## Hoe werken de nieuwe regels?
+De ontbrekende Royal Gazette-publicatie betekent dat je niet uitsluitend op een krantenkop of oude reisblog moet plannen. Controleer vlak voor vertrek de officiële landenlijst en de regel die op je aankomstdatum daadwerkelijk van kracht is.
 
-Als de ministerraad het voorstel goedkeurt, verandert het volgende:
+## Zo plan je zonder visumstress
 
-- **Initiële verblijf:** 30 dagen in plaats van de huidige 60 dagen.
-- **Verlenging:** Toeristen kunnen een eenmalige verlenging van 30 dagen aanvragen bij een lokaal immigratiekantoor.
-- **Totaal mogelijk verblijf:** Nog steeds tot 60 dagen, maar alleen als je formeel een verlenging aanvraagt.
+Voor een reis van hoogstens 30 dagen is het verstandig ruimte te houden voor wijzigingen en bewijs van je uitreis bij je te hebben. Duurt je reis langer, kies dan vóór boeken een passende legale route via de [Thailand-visumhub](/nl/visa/). Ga niet uit van een automatische verlenging of van een korte grensoversteek als oplossing.
 
-Het verlengingsproces kost doorgaans 1.900 THB (ongeveer €50) en vereist een bezoek aan een immigratiekantoor met je paspoort, een foto en het ingevulde TM.7-formulier. Let op dat deze kosten losstaan van de voorgestelde [300 THB toeristeninvoertaks](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) die Thailand ook overweegt in te voeren.
+Vul daarnaast de [Thailand Digital Arrival Card](/nl/blog/thailand-digital-arrival-card-tdac-guide/) uitsluitend via het officiële immigratieportaal in. De TDAC is een aankomstregistratie, geen visum en geen garantie op toelating.
 
-## Wie wordt getroffen?
+## Peildatum en verantwoordelijkheid
 
-De wijziging geldt voor onderdanen van alle 93 landen die momenteel onder het Thaise visa-vrijstellingsprogramma vallen. Dit omvat reizigers uit de Verenigde Staten, het Verenigd Koninkrijk, de meeste EU-landen inclusief Nederland, Australië, Canada, Japan, Zuid-Korea en vele anderen. Thailand heeft ook [aparte nieuwe visa-beperkingen ingevoerd die verschillende Aziatische nationaliteiten raken](/blog/thailand-visa-restrictions-2026-asian-countries-tourism-impact/), dus reizigers uit getroffen landen moeten de laatste regels checken voor ze boeken.
+Deze uitleg is gecontroleerd op **1 augustus 2026**. Visumregels kunnen daarna wijzigen en immigratie beoordeelt de toelating aan de grens. Bij een complex verblijf, werk, studie of meerdere binnenkomsten gebruik je de officiële eVisa-informatie of professioneel immigratieadvies.
 
-Als je een geldig toeristenvisum hebt (verkregen via een Thaise ambassade voor vertrek), wordt je toegestane verblijf bepaald door het visumtype, niet door de vrijstellingsregels. De voorgestelde inkorting raakt houders van toeristenvisa niet.
+## Waarom de Royal Gazette doorslaggevend is
 
-## Wanneer treedt het in werking?
+Thaise beleidswijzigingen worden vaak in meerdere stappen bekendgemaakt. Een commissie doet een voorstel, het kabinet keurt een richting goed en ministeries werken de juridische aankondigingen uit. Pas de gepubliceerde regeling bepaalt onder welke voorwaarden de verandering ingaat. Daardoor kunnen twee betrouwbare officiële pagina's op hetzelfde moment iets anders lijken te zeggen: de ene beschrijft het goedgekeurde nieuwe stelsel, terwijl een bestaande consulaire landenlijst nog de tot dan toe geldende regeling toont.
 
-Er is nog geen exacte datum bevestigd. Het voorstel moet door een ministerraadreview, en implementatiedetails volgen van het Immigratiebureau. Tot een officiële aankondiging blijft het huidige visa-vrije verblijf van 60 dagen van kracht.
+Voor reizigers is dat geen semantisch detail. Een vluchtboeking, aankomstdatum en nationaliteit moeten bij de **geldende** regel passen. Maak daarom een schermafdruk of pdf van de officiële informatie die je kort voor vertrek controleert en bewaar die bij je reisdocumenten. Gebruik daarbij een overheidssite of de Thaise ambassade die jouw aanvraag behandelt, niet een socialmediapost of tussenpersoon.
 
-## Wat moet je doen?
+## Visumvrij is niet hetzelfde als zonder voorwaarden
 
-Als je een reis naar Thailand plant van langer dan 30 dagen en afhankelijk bent van visa-vrije inreis, overweeg dan een toeristenvisum aan te vragen bij een Thaise ambassade voor vertrek, of reken op extra tijd en geld voor het verlengingsproces in Thailand. Blijf officiële Thaise immigratiekanalen checken voor het definitieve besluit. Onze [volledige Thailand visa-gids voor 2026](/blog/thailand-visa-guide-2026/) behandelt alle visumtypes, kosten en aanvraagstappen uitgebreid.
+Een visumvrijstelling betekent dat je voor een kort toeristisch verblijf vooraf geen regulier visum hoeft aan te vragen. Het is geen onbeperkt verblijfsrecht. Een immigratieambtenaar kan vragen naar je reisdoel, accommodatie, middelen en plan om Thailand weer te verlaten. Je paspoort, reisgeschiedenis en daadwerkelijke activiteiten moeten bij toerisme passen.
 
-Voor digitale nomaden en langverblijvers die leunen op visa-vrije inreizen, komt ook [het tijdperk van visa-runs ten einde in 2026](/blog/thailand-visa-run-era-ending-2026-expat-guide/) — wat het nog belangrijker maakt om vanaf het begin het juiste langverblijfvisum te regelen.
+Werk, studie, een structureel lang verblijf of herhaalde binnenkomsten kunnen een andere verblijfstitel vereisen. De juiste keuze hangt niet alleen af van het aantal dagen, maar ook van wat je in Thailand gaat doen. Wie online werkt, moet bijvoorbeeld niet aannemen dat iedere toeristische vrijstelling automatisch werk op afstand toestaat.
 
-Bij aankomst moet je ook de [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) online invullen voor je vlucht boekt. Het is een snel proces, maar overslaan kan vertragingen veroorzaken bij immigratie.
+## Wat je nu wel kunt vastleggen
 
-Voor reizen van 30 dagen of korter verandert er niets. Thailand blijft een van de makkelijkste landen in Zuidoost-Azië om te bezoeken, en het inreisproces op luchthavens als Suvarnabhumi en Phuket blijft hetzelfde. Zorg voor vertrek dat je je [SIM-kaart of eSIM voor Thailand](/nl/travel-guides/sim-card-thailand/) hebt geregeld, zodat je meteen connectivity hebt bij landing. Het is ook slim om [de meest voorkomende reistraps in Thailand](/blog/thailand-travel-scams-2026/) te reviewen en [reisverzekering](/blog/travel-insurance-thailand-guide/) af te sluiten — beide worden crucialer bij visa-problemen.
-
-Als je nog moet beslissen wanneer je gaat, helpt onze [maand-voor-maand gids voor de beste reistijd naar Thailand](/blog/best-time-to-visit-thailand/) je plannen rond weer en nieuwe inreisregels. En voor je eerste trip is de [essentiële gids voor eerste bezoekers](/blog/thailand-first-time-visitors-essential-guide-2026/) perfect, met alles van inreisvereisten tot budget — inclusief een overzicht van [wat een dag in Thailand echt kost in 2026](/nl/thailand-index/budget/).
+Boek je een flexibele reis, leg dan de onderdelen vast die niet afhankelijk zijn van één onbewezen ingangsdatum: een paspoort met voldoende geldigheid, een realistische route, annuleerbare accommodatie en een uitreisoptie. Wacht met definitieve aannames over de toegestane termijn totdat de officiële publicatie duidelijk is. Voor een langere reis geeft een vooraf passend visum doorgaans meer zekerheid dan hopen dat een grensverlenging of visa run mogelijk blijft.

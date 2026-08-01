@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tourism-festival-2026-5-must-do-food-culture-highlights",
+  "route": "/nl/blog/thailand-tourism-festival-2026-5-must-do-food-culture-highlights/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand Tourism Festival 2026: artikel samengevoegd",
+    "description": "Dit verlopen festivalartikel is samengevoegd met de centrale bezoekersgids voor het Thailand Tourism Festival 2026.",
+    "primaryKeyword": "gearchiveerd Thailand Tourism Festival artikel",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/thailand-tourism-festival-2026-5-must-do-food-culture-highlights/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Festivalarchief",
+    "title": "Vijf festivalthema's, één verslag",
+    "accent": "Samengebracht in de bezoekersgids",
+    "description": "Het evenement van 25 tot en met 29 maart 2026 is afgelopen. De gecontroleerde informatie staat voortaan op één centrale pagina.",
+    "image": "/images/redesign/editorial/thailand-tourism-festival-2026-5-must-do-food-culture-highlights-hero.webp",
+    "imageAlt": "Regionale Thaise eet- en cultuurstands in een moderne festivalhal",
+    "primaryCta": { "label": "Open het festivalverslag", "href": "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-25", "endsOn": "2026-03-29", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze overlappende festivalpagina is gearchiveerd. De centrale bezoekersgids bewaart de geverifieerde feiten over de vijf thema's en negen zones.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Eén eigenaar voor het afgelopen festival", "description": "Losse pagina's over eten, cultuur en praktische informatie concurreerden om dezelfde zoekvraag. Daarom is de bezoekersgids nu het enige festivalverslag.", "cta": { "label": "Bekijk de centrale gids", "href": "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/" } },
+    { "kind": "related", "id": "verder", "title": "Plan een actuele Bangkokdag", "items": [{ "title": "Bangkok ontdekken", "description": "Kies actuele wijken, bezienswaardigheden en dagplannen.", "href": "/nl/city/bangkok/" }, { "title": "Eten in Bangkok", "description": "Vind markten en gerechten die je het hele jaar kunt proberen.", "href": "/nl/food/bangkok/" }] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire festivalbron", "items": [{ "title": "Thailand Tourism Festival 2026 spotlights 5 Must Do", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/03/thailand-tourism-festival-2026-spotlights-5-must-do-in-thailand-and-honours-her-majesty-queen-sirikit-the-queen-mother/", "checkedAt": "2026-08-01" }] }
+  ]
+}

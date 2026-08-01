@@ -337,6 +337,24 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/thailand-tourism-festival-2026-5-must-do-food-culture-highlights/",
+        destination: "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/",
+        destination: "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-tourism-growth-target-2026-recovery-after-2025-decline/",
+        destination: "/nl/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

@@ -1,51 +1,61 @@
 ---
-title: "Thailand presenteert 'The New Thailand' visie op ITB Berlin 2026"
+title: "The New Thailand op ITB Berlin 2026 uitgelegd"
 slug: "the-new-thailand-itb-berlin-2026-sustainable-wellness-tourism"
 date: "2026-03-23"
+lastUpdated: "2026-08-01"
 author:
-  name: "Go2Thailand Team"
+  name: "Go2Thailand Editorial"
 category: "tourism-news"
-tags: ["Thailand toerisme 2026", "ITB Berlin 2026", "duurzaam toerisme Thailand", "wellness toerisme Thailand", "TAT campagne", "The New Thailand", "beste reistijd Thailand", "Thailand vakantie tips", "wellness retreats Thailand"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Ontdek hoe Thailand zijn 'The New Thailand' campagne lanceerde op ITB Berlin 2026. Duurzaam toerisme, wellness en verborgen parels staan centraal in deze nieuwe visie voor een onvergetelijke Thailand vakantie."
+tags: ["The New Thailand", "ITB Berlin 2026", "duurzaam toerisme", "wellness Thailand"]
+image: "/images/redesign/editorial/the-new-thailand-itb-berlin-2026-sustainable-wellness-tourism-hero.webp"
+description: "Wat TAT op ITB Berlin 2026 werkelijk presenteerde: wellness, gecertificeerde duurzaamheid en minder bekende bestemmingen."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 6
 sources:
-  - name: "Travel And Tour World — Thailand Launches 'The New Thailand' at ITB Berlin 2026"
-    url: "https://www.travelandtourworld.com/news/article/thailand-launches-the-new-thailand-at-itb-berlin-2026-revolutionizing-sustainable-and-wellness-tourism/"
-  - name: "TravelMole — Thailand highlighted healing luxury and sustainability at ITB Berlin"
-    url: "https://www.travelmole.com/news/thailand-celebrated-presence-itb-berlin-2026/"
-  - name: "PR Newswire — Thailand presents 'The New Thailand' vision at ITB Berlin 2026"
-    url: "http://www.prnewswire.com/news-releases/thailand-presents-the-new-thailand-vision-at-itb-berlin-2026-302703606.html"
-  - name: "Breaking Travel News — Thailand presents 'The New Thailand' vision at ITB Berlin 2026"
-    url: "https://www.breakingtravelnews.com/news/article/thailand-presents-the-new-thailand-vision-at-itb-berlin-2026/"
+  - name: "TAT — Thailand presents The New Thailand vision at ITB Berlin 2026"
+    url: "https://www.tatnews.org/2026/03/thailand-presents-the-new-thailand-vision-at-itb-berlin-2026/"
+  - name: "TAT — Value over Volume strategy in Berlin"
+    url: "https://www.tatnews.org/2026/03/tat-reinforces-value-over-volume-strategy-at-amazing-thailand-networking-event-in-berlin/"
+  - name: "ITB Berlin — 60 years as global tourism platform"
+    url: "https://www.itb.com/en/press/press-releases/news_29377.html"
 ---
 
-## Een Nieuwe Koers voor Thais Toerisme
+Op ITB Berlin 2026 presenteerde de Tourism Authority of Thailand een Europese invulling van **The New Thailand**. De kern was niet simpelweg “meer bezoekers”, maar meer waarde per reis, bredere spreiding en ervaringen rond welzijn, cultuur, gastronomie en natuur. De slogan **Healing is the New Luxury** gaf die positionering een herkenbare naam.
 
-De Tourism Authority of Thailand (TAT) koos ITB Berlin 2026 – gehouden van 3 tot 5 maart in het Berlin ExpoCenter City – om een ambitieuze nieuwe positionering voor het Koninkrijk te onthullen. Onder de vlag **'The New Thailand'** en de slogan **'Unforgettable Experience: Healing is the New Luxury'**, markeert de campagne een bewuste verschuiving van massatoerisme naar wellness, duurzaamheid en diepere culturele connecties.
+## Wat TAT daadwerkelijk presenteerde
 
-Meer dan 165 Thaise toerisme-ondernemers sloten zich aan bij de delegatie, wat het een van de grootste nationale contingenten maakte op Europa's grootste reisbeurs.
+TAT bracht 165 Thaise toerismebedrijven naar de beurs. Volgens de officiële publicatie beschikten 89 daarvan over een erkende certificering of award, zoals STAR, Thailand Tourism Awards, Green Hotel of CF Hotels. Ook presenteerde de organisatie tien **Krabi: Travel With Care**-routes en twintig low-carbon routes.
 
-## Wat 'The New Thailand' Betekent voor Reizigers
+Minder bekende bestemmingen kregen nadrukkelijk podium: Sukhothai, Nan, Suphan Buri, Ratchaburi, Satun en Trang. Dat sluit aan bij de bredere strategie om toerisme buiten de gebruikelijke hotspots te spreiden.
 
-De campagne belicht bestemmingen die de meeste eerste bezoekers over het hoofd zien. TAT promoot actief **Sukhothai, Nan, Satun en Trang** als duurzame alternatieven voor het platgetreden Bangkok–[Phuket](/blog/phuket-travel-guide-2026/)–[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) circuit. Elke provincie biedt een mix van UNESCO-erfgoed, ongerepte natuur en community-based toerisme-ervaringen die je zelden in standaard reisgidsen vindt. Het [eco-glamping resort in Nan](/blog/visama-explorer-nan-eco-glamping-tented-camp-2026/) is een perfect voorbeeld van het soort ervaringen dat TAT vooropstelt.
+## Marketingclaim is nog geen reisbewijs
 
-Voor wellness-reizigers introduceerde TAT 20 gecureerde low-carbon reisroutes die gastronomie, regionale identiteit en holistische welzijn combineren. Het **Saneh Thai Cafe**, een pop-up in het Thailand-paviljoen, bracht dit concept tot leven onder de thema's "Wellness op een Bord" en "Worth-Life Balance" – en gaf vakbezoekers een voorproefje van de food-as-medicine-filosofie die veel traditionele Thaise gerechten onderbouwt. Thailand's [beste wellness retreats in 2026](/blog/best-wellness-retreats-thailand-2026/) en [yoga retreats op Koh Samui en Koh Phangan](/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/) belichamen deze visie.
+“Wellness”, “duurzaam” en “hidden gem” zijn nuttige zoekrichtingen, maar ze garanderen op zichzelf niets. Controleer bij een accommodatie of tour welk certificaat wordt bedoeld, wie het heeft uitgegeven en of het nog geldig is. Kijk bij een wellnessprogramma naar begeleiding en concrete inclusies. Beoordeel bij een minder bekende bestemming bereikbaarheid, seizoen en lokale draagkracht.
 
-## Duurzaamheid Krijgt Concreet Doelen
+De door TAT genoemde economische waarde van de beursdeelname was een **projectie**, geen gemeten resultaat. We nemen die daarom niet over als bewezen opbrengst.
 
-Dit is geen loze marketingpraat. TAT ondersteunde de visie met 10 **Krabi: Travel With Care** routes en een certificeringskader dat STGs STAR-beoordelingen, Thailand Tourism Awards en Carbon Footprint (CF) Hotel-normen omvat. Deze tools geven reizigers een manier om te verifiëren dat de hotels en tours die ze boeken aan echte milieunormen voldoen. De [Thailand Good Travel certificering](/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/) en [Thailand Star Green Tourism accreditatie](/blog/thailand-star-green-tourism-accreditation-2026/) maken deel uit van dezezelfde inspanning.
+## Van strategie naar jouw reis
 
-## Een Grotere Aanpak in Europa
+Gebruik The New Thailand als inspiratie om verder te kijken dan de bekendste drie stops. Vergelijk daarna iedere plek op eigen merites. Onze [actuele toerismevooruitblik](/nl/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/) plaatst de Berlijnse presentatie in de latere TAT-cijfers. De [gids voor duurzame bestemmingen](/nl/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/) helpt certificeringen lezen, terwijl de [wellnessgids](/nl/blog/best-wellness-retreats-thailand-2026/) inhoud boven slogans zet.
 
-TAT breidde zijn bereik uit voorbij de beursvloer met de **Amazing Thailand Fest 2026 — The Wholesome Taste of Thai**, gehouden in het iconische Berlijnse warenhuis KaDeWe van 2 tot 14 maart. Het evenement bood Thaise streetfood, wellness-demonstraties en culturele shows, gericht op Europese consumenten die nadenken over hun volgende vakantie – ideaal voor Nederlanders met een directe vlucht vanaf Schiphol.
+## Waarom Europa centraal stond
 
-## Wat Dit Betekent voor Jouw Volgende Reis
+ITB Berlin is een vakbeurs waar bestemmingen afspraken maken met touroperators, media en andere reisbedrijven. De Thaise presentatie was dus geen nieuw wettelijk programma en ook geen consumentenkeurmerk. Ze liet zien welke producten TAT voor de Europese markt wil laten groeien. Duitse bezoekers golden in de presentatie als een belangrijke langeafstandsmarkt, met belangstelling voor strand, familie, gezondheid, natuur en langzaam reizen.
 
-Heb je al Bangkok en de eilanden bezocht? Dan biedt 'The New Thailand' een routekaart voor een heel ander soort trip. Denk aan fietsen door de oude ruïnes van Sukhothai, overnachten in eco-gecertificeerde lodges in de beboste hooglanden van Nan, of kajakken door de zeegrotten van Satun – allemaal met een lagere CO2-voetafdruk en een sterkere band met lokale gemeenschappen. De [Chiang Dao stargazing eco-lodges](/blog/chiang-dao-stargazing-eco-lodges-mountain-retreat-2026/) in Noord-Thailand vormen een mooi startpunt.
+Voor Nederlandse reizigers is die marktcontext relevant, maar niet één-op-één toepasbaar. Een campagne kan ertoe leiden dat meer Europese aanbieders wellnessroutes of minder bekende provincies opnemen. Ze zegt niets over de kwaliteit van één hotel, de drukte op jouw datum of de klimaatimpact van jouw vlucht.
 
-De Thaise toerismesector genereerde in het eerste kwartaal van 2026 alleen al 368 miljard baht, wat bewijst dat het land een van Azië's populairste bestemmingen blijft. Het verschil nu is dat het Koninkrijk reizigers actief stuurt naar ervaringen die zowel de bezoekers als de plekken ten goede komen. Lees onze overzicht van [Thailand's toerismestrategie: waarde boven volume in 2026](/blog/thailand-tourism-next-strategy-value-over-volume-2026/) voor het grotere plaatje.
+## Zo controleer je een duurzaam aanbod
 
-Voor reizigers die zich afvragen of Thailand nog steeds opweegt tegen regionale rivalen, bekijk onze [Thailand vs Vietnam vergelijking voor 2026](/blog/thailand-vs-vietnam-which-country-visit-2026/).
+Vraag eerst welk keurmerk of programma achter het woord duurzaam zit. Controleer vervolgens de uitgever, criteria, geldigheidsduur en of de naam van de aanbieder exact overeenkomt met het certificaat. Kijk daarnaast naar concrete keuzes: lokaal eigendom, afval- en waterbeheer, vervoer, groepsgrootte en de manier waarop bewoners aan de ervaring verdienen.
+
+Een certificaat is een sterker signaal dan alleen groene marketing, maar blijft één onderdeel van de beoordeling. Een resort kan goed afvalbeheer hebben en toch op een kwetsbare locatie liggen. Een communitytour kan lokaal inkomen opleveren, maar bij te grote groepen alsnog druk veroorzaken. Combineer certificering daarom met schaal, route en seizoen.
+
+## Wellness zonder vage beloftes
+
+Ook “healing” vraagt vertaling naar een concreet reisproduct. Een rustige omgeving, massage, yoga, slaap en voedzaam eten kunnen waardevol zijn, maar medische of therapeutische claims vereisen gekwalificeerde begeleiding. Controleer wie het programma uitvoert, welke behandeling inbegrepen is en of er contra-indicaties bestaan.
+
+Voor een gewone wellnessreis hoef je geen spectaculaire gezondheidsbelofte te kopen. Een goed ritme, voldoende hersteltijd en een locatie die bij je past zijn vaak belangrijker dan een luxe label. Vergelijk dus niet alleen prijs of fotografie, maar ook dagprogramma, rustmomenten en bereikbaarheid.
+
+## De beleidslijn bleef na Berlijn in beweging
+
+De ITB-presentatie vormt één moment in een breder jaar. TAT herhaalde in april en juni de verschuiving naar **Value over Volume** en herijkte tegelijk de bezoekers- en omzetverwachtingen. Daarom behandelen we Berlijn als verklaring van de positionering, terwijl de aparte outlook-owner de latere cijfers en ontwikkelingen onderhoudt. Zo blijven marketingstrategie en actuele prestaties helder van elkaar gescheiden.
