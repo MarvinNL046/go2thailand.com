@@ -830,6 +830,32 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // Consolidate overlapping Bangkok market and national season guides into
+      // their established NL editorial owners.
+      {
+        source: "/nl/blog/best-street-food-markets-bangkok/",
+        destination: "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/bangkok-street-food-beginners/",
+        destination: "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/best-night-markets-bangkok-2026/",
+        destination: "/nl/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/best-time-to-visit-thailand/",
+        destination: "/nl/blog/beste-tijd-thailand-bezoeken-per-regio/",
+        permanent: true,
+        locale: false,
+      },
       // Old URL patterns
       {
         source: "/cities/:slug*/",
