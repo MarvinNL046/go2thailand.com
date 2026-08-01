@@ -81,4 +81,16 @@ Root kan na centrale acceptatie:
 
 ## QA-bewijs
 
-Wordt na implementatie aangevuld via de terminalgates: loader, frontmatter/profile-match, H1, canonical/robots, assets, TypeScript, design, affiliate en diff-check.
+- Typed loader: alle zeven profielen laden; vier `ready`, drie `archived`; archived-profielen hebben `noindex: true`.
+- Runtime: zes niet-geredirecte routes geven HTTP 200, hebben één hero-H1 en een exacte production-canonical.
+- Robots: drie archiveprofielen renderden vóór centrale redirectintegratie `noindex,follow`; de twee zelfstandige archives blijven zo renderen.
+- Redirect runtime: de concurrentieroute geeft HTTP 308 naar `/nl/blog/thailand-vs-vietnam-which-country-visit-2026/`; eindstatus HTTP 200.
+- Assets: zeven unieke SHA-256-hashes; ieder bestand 1600 × 900, WebP en 73–188 KB.
+- `npx tsc --noEmit --incremental false`: geslaagd.
+- `npm run design:verify`: geslaagd (7 primitives, 34 pilot templates).
+- `npm run affiliate:verify`: geslaagd (17 gebruikte slugs, 21 geregistreerde producten).
+- `npm run seo:audit:nl-editorial-risk`: uitgevoerd; batchbesluiten zijn in de centrale 252-route-risicoscan opgenomen.
+- `npm run seo:verify:nl-editorial:accepted`: geslaagd op de geïntegreerde stand, 162/253 geaccepteerde routes en 161 geverifieerde artikelprofielen.
+- `npm run seo:verify:nl-editorial-assets`: geslaagd; 161 geaccepteerde lokale heroes zijn gematcht, indexeerbaar uniek en maximaal 450 KB.
+- `npm run seo:cannibalization`: 0 harde conflicten en 0 waarschuwingen.
+- Scoped `git diff --check`: geslaagd.
