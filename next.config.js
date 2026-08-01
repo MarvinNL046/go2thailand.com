@@ -391,6 +391,24 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/thailand-rainy-season-travel-tips-2026/",
+        destination: "/nl/weather/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-rising-costs-tourists-middle-east-crisis-2026/",
+        destination: "/nl/thailand-index/budget/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-mekong-riverside-seven-provinces-sustainable-tourism-2026/",
+        destination: "/nl/itineraries/mekong-river-adventure/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

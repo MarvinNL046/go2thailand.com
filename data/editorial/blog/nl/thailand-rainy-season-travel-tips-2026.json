@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-rainy-season-travel-tips-2026",
+  "route": "/nl/blog/thailand-rainy-season-travel-tips-2026/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Regenseizoen Thailand: gids vervangen | Go2Thailand",
+    "description": "Deze oude regenseizoengids is vervangen door de centrale weerpagina met regionale uitleg, klimaatcontext en actueel planningsadvies.",
+    "primaryKeyword": "regenseizoen Thailand gids vervangen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-rainy-season-travel-tips-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerde weerpagina",
+    "title": "Regenseizoengids vervangen",
+    "accent": "Ga naar de centrale weerpagina",
+    "description": "Weer Thailand bezit de regionale uitleg over moesson, klimaat en reistijd.",
+    "image": "/images/redesign/editorial/thailand-rainy-season-travel-tips-2026-hero.webp",
+    "imageAlt": "Reiziger onder een overdekte loopbrug na regen in Bangkok",
+    "primaryCta": { "label": "Open weer Thailand", "href": "/nl/weather/" },
+    "secondaryCta": { "label": "Waarom vervangen?", "href": "#lifecycle" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze pagina is noindex en vervangen door /nl/weather/, de centrale eigenaar voor het regenseizoen en regionale weersverschillen in Thailand.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Brede zoekintentie al centraal beantwoord", "description": "Een landelijke maandregel is te grof. De centrale weerpagina vergelijkt regio’s en verwijst naar actuele weersinformatie.", "cta": { "label": "Naar weer Thailand", "href": "/nl/weather/" } },
+    { "kind": "prose", "id": "nu", "title": "Wat controleer je nu?", "markdown": "Gebruik eerst de regionale klimaatcontext op de weerpagina. Bekijk daarna kort voor vertrek de actuele voorspelling en waarschuwingen van de Thai Meteorological Department. Lokale omstandigheden kunnen afwijken van een seizoensgemiddelde." },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële weerbron", "items": [
+      { "title": "Moesson in Thailand", "publisher": "Thai Meteorological Department", "url": "https://tmd.go.th/info/%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%A1", "checkedAt": "2026-08-01", "note": "Meteorologische uitleg over de moesson." }
+    ] }
+  ]
+}

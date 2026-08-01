@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-michelin-guide-2026-new-stars-suhring",
+  "route": "/nl/blog/thailand-michelin-guide-2026-new-stars-suhring/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Michelin Thailand 2026: Sühring drie sterren | Go2Thailand",
+    "description": "Sühring is het tweede restaurant in Thailand met drie Michelinsterren. Bekijk wat in de editie 2026 veranderde en hoe je actueel reserveert.",
+    "primaryKeyword": "Michelin Guide Thailand 2026",
+    "secondaryKeywords": ["Sühring drie sterren", "Michelinsterren Bangkok", "Thailand Michelin restaurants"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-michelin-guide-2026-new-stars-suhring/"
+  },
+  "hero": {
+    "eyebrow": "Bangkok · Michelin 2026",
+    "title": "Sühring krijgt drie sterren",
+    "accent": "Thailands tweede driesterrenrestaurant",
+    "description": "De promotie is bevestigd in de negende Thaise editie. Sorn was het eerste restaurant met drie sterren.",
+    "image": "/images/redesign/editorial/thailand-michelin-guide-2026-new-stars-suhring-hero.webp",
+    "imageAlt": "Verfijnd gerecht op de pas van een moderne keuken in Bangkok",
+    "primaryCta": { "label": "Bekijk de wijziging", "href": "#editie" },
+    "secondaryCta": { "label": "Plan een reservering", "href": "#boeken" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "restaurant", "heroVariant": "editorial", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Michelin promoveerde Sühring in de Guide Thailand 2026 naar drie sterren. Daardoor heeft Thailand twee driesterrenrestaurants: Sorn en Sühring.",
+  "blocks": [
+    { "kind": "card-grid", "id": "editie", "title": "De bevestigde veranderingen", "cards": [
+      { "title": "Sühring", "description": "Van twee naar drie sterren; het tweede driesterrenrestaurant van Thailand.", "label": "Promotie" },
+      { "title": "Sorn", "description": "Blijft drie sterren en was het eerste Thaise restaurant op dit niveau.", "label": "Drie sterren" },
+      { "title": "Nieuwe sterren", "description": "Michelin meldde één nieuw tweesterrenrestaurant en zeven nieuwe eensterrenrestaurants.", "label": "Editie 2026" }
+    ] },
+    { "kind": "prose", "id": "historie", "title": "Sührings sterrengeschiedenis", "markdown": "Sühring kreeg één ster in de Thaise editie van 2018 en twee in 2019. Na zeven jaar op twee sterren volgde de promotie. Michelin beschrijft de keuken als een persoonlijke, moderne interpretatie van Duitse tradities." },
+    { "kind": "steps", "id": "boeken", "title": "Reserveren zonder aannames", "steps": [
+      { "title": "Controleer het officiële kanaal", "description": "Beschikbaarheid en reserveringsvensters kunnen wijzigen." },
+      { "title": "Lees voorwaarden vóór betaling", "description": "Annuleren, aanbetalingen en no-showregels zijn datumgebonden." },
+      { "title": "Meld dieetwensen vooraf", "description": "Ga niet uit van aanpassing totdat het restaurant die bevestigt." },
+      { "title": "Plan tijdsmarge", "description": "Zet een lang menu niet op een krappe aankomst- of vertrekdag." }
+    ] },
+    { "kind": "callout", "id": "prijs", "tone": "cream", "title": "Geen vaste menuprijs", "description": "Menu’s, toeslagen en voorwaarden veranderen. Controleer het actuele aanbod op je boekingsmoment." },
+    { "kind": "related", "id": "verder", "title": "Meer over de selectie", "items": [
+      { "title": "Bib Gourmand Thailand 2026", "description": "De aparte eigenaar voor nieuwe Bib Gourmand-restaurants en streetfood.", "href": "/nl/blog/thailand-bib-gourmand-2026-new-restaurants-street-food/" },
+      { "title": "Streetfood in Bangkok", "description": "Beginnerstips voor eten buiten fine dining.", "href": "/nl/blog/bangkok-street-food-beginners/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Michelin-bronnen", "items": [
+      { "title": "The MICHELIN Guide Thailand 2026", "publisher": "Michelin Guide", "url": "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-thailand-2026", "checkedAt": "2026-08-01", "note": "Bevestigt de promotie en sterrengeschiedenis." },
+      { "title": "Full list of Michelin Stars", "publisher": "Michelin Guide", "url": "https://guide.michelin.com/ph/en/article/michelin-guide-ceremony/full-list-michelin-stars-michelin-guide-thailand-2026", "checkedAt": "2026-08-01", "note": "Volledige sterrenlijst en wijzigingen van de editie 2026." },
+      { "title": "The day after three Michelin Stars", "publisher": "Michelin Guide", "url": "https://guide.michelin.com/th/en/article/people/the-day-after-three-michelin-stars-suhring-thailand", "checkedAt": "2026-08-01", "note": "Interview met de chefs na de promotie." }
+    ] }
+  ]
+}

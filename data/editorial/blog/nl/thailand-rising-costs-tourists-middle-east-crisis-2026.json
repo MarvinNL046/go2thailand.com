@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-rising-costs-tourists-middle-east-crisis-2026",
+  "route": "/nl/blog/thailand-rising-costs-tourists-middle-east-crisis-2026/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Kosten Thailand: crisisupdate vervangen | Go2Thailand",
+    "description": "Deze tijdelijke kostenupdate is gearchiveerd. Gebruik de centrale budgetgids en controleer vluchtprijzen, wisselkoers en aanbieders live.",
+    "primaryKeyword": "kosten Thailand crisisupdate vervangen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-rising-costs-tourists-middle-east-crisis-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerde kostenupdate",
+    "title": "Kostenpagina vervangen",
+    "accent": "Plan met actuele bedragen",
+    "description": "De centrale budgetgids bezit de brede kostenintentie; vluchtverstoringen hebben een afzonderlijke actuele update.",
+    "image": "/images/redesign/editorial/thailand-rising-costs-tourists-middle-east-crisis-2026-hero.webp",
+    "imageAlt": "Reiziger controleert uitgaven op een telefoon aan een cafétafel in Bangkok",
+    "primaryCta": { "label": "Open de budgetgids", "href": "/nl/thailand-index/budget/" },
+    "secondaryCta": { "label": "Bekijk de vluchtupdate", "href": "/nl/blog/middle-east-conflict-thailand-flights-airfare-2026/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze pagina is noindex en vervangen door de centrale Thailand-budgetgids. Controleer prijzen per reisdatum, de actuele wisselkoers en afzonderlijk de status van je vlucht.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Vaste crisispercentages zijn niet herbruikbaar", "description": "Kosten verschillen per boekingsdatum, route, valuta en comfortniveau. Daarom is deze tijdelijke generieke update gearchiveerd.", "cta": { "label": "Naar budget Thailand", "href": "/nl/thailand-index/budget/" } },
+    { "kind": "steps", "id": "actueel", "title": "Maak een actuele begroting", "steps": [
+      { "title": "Controleer vlucht en bagage", "description": "Gebruik de luchtvaartmaatschappij voor je exacte data en voorwaarden." },
+      { "title": "Bekijk de wisselkoers", "description": "Gebruik een actuele referentie en noteer eventuele kaart- en opnamekosten apart." },
+      { "title": "Prijs de grote posten live", "description": "Accommodatie, intercityvervoer en activiteiten bepalen meer dan een algemeen dagbedrag." },
+      { "title": "Houd een reserve aan", "description": "Onvoorziene wijzigingen vragen financiële en tijdsmarge." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Actuele eigenaren", "items": [
+      { "title": "Budget Thailand", "description": "Centrale gids voor het opbouwen van een reisbudget.", "href": "/nl/thailand-index/budget/" },
+      { "title": "Vluchten en Midden-Oosten", "description": "Afzonderlijke update voor route- en luchtvaartverstoringen.", "href": "/nl/blog/middle-east-conflict-thailand-flights-airfare-2026/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Actuele referentie", "items": [
+      { "title": "Exchange rates", "publisher": "Bank of Thailand", "url": "https://www.bot.or.th/en/statistics/exchange-rate.html", "checkedAt": "2026-08-01", "note": "Officiële referentie voor actuele wisselkoersen; geen toeristisch prijsoverzicht." }
+    ] }
+  ]
+}
