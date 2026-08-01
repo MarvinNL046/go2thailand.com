@@ -216,6 +216,7 @@ export const hatYaiHotelGuide: HotelGuideData = {
         "Vraag luchthaven-, stations- of grensvervoer rechtstreeks na voor jouw tijdstip; ga niet uit van een permanente of inbegrepen shuttle.",
     },
   ],
+  showProfileLinks: false,
   profileLinks: [
     {
       title: "Complete reisgids voor Hat Yai",
@@ -278,7 +279,7 @@ export const hatYaiHotelGuide: HotelGuideData = {
       title: "Waar verblijven in Hat Yai?",
       description:
         "Vergelijk de volledige stadsgeografie voordat je een concreet hotel kiest.",
-      href: "/nl/where-to-stay/hat-yai/",
+      href: "/nl/city/hat-yai/",
       image: "/images/redesign/hat-yai-route-banner.webp",
     },
     {

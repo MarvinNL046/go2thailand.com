@@ -254,6 +254,7 @@ export default function TransportHubGuide({ allRoutes, cities }: TransportHubGui
         <FaqSplitSection id="vragen" eyebrow="Voor vertrek" title="Veelgestelde vragen over vervoer in Thailand" description="Deze vragen zijn vastgelegd in Nederlandse DataForSEO- en zichtbare Google-resultaten. Antwoorden gebruiken actuele routeprijzen als variabele en vermijden schijnprecisie." items={[...content.faqs]} />
 
         <RelatedGuidesSection eyebrow="Bouw je route" title="Plan de rest van je reis" guides={[
+          { title: 'Vliegen naar Bangkok', description: 'Vergelijk aankomstluchthaven, vervolgroute en actuele vluchtopties zonder vaste prijsclaim.', href: '/flights-to-bangkok/', image: '/images/blog/bangkok-airport-transfer-guide-2026.webp', imageAlt: 'Aankomst en vervolgvervoer bij een luchthaven van Bangkok' },
           { title: 'Thailand reisroutes', description: 'Kies een logische lijn met minder verplaatsingen.', href: '/itineraries/', image: '/images/redesign/krabi-destination-hero.webp', imageAlt: 'Route door het landschap van Thailand' },
           { title: 'Mooiste plekken', description: 'Bepaal welke bestemmingen echt bij jouw tempo passen.', href: '/city/', image: '/images/redesign/destination-chiang-mai.webp', imageAlt: 'Tempel en landschap in Chiang Mai' },
           { title: 'Praktische informatie', description: 'Geld, veiligheid, paklijst en lokale etiquette.', href: '/practical-info/', image: '/images/blog/bangkok-airport-transfer-guide-2026.webp', imageAlt: 'Reiziger onderweg vanaf een luchthaven in Thailand' },

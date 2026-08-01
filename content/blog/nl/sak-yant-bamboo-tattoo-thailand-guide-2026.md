@@ -56,4 +56,4 @@ Bewaar de naam van de aanbieder en vraag naar merk, kleur en batch van de gebrui
 
 Mensen kunnen spirituele waarde, bescherming of richting aan een Sak Yant verbinden. Behandel dat als geloof en culturele betekenis, niet als een meetbare garantie tegen ongelukken, ziekte of pech. Draag een helm, sluit een reisverzekering af en volg gezondheidsadvies alsof de tatoeage geen fysiek schild is.
 
-Een goede ervaring combineert respect voor de traditie met geïnformeerde toestemming en zichtbare hygiëne. Laat tijdsdruk, een lage prijs of een virale foto nooit belangrijker worden dan die drie voorwaarden. Voor bredere voorbereiding vind je meer bij [gezondheid in Thailand](/nl/practical-info/health/) en de [Chiang Mai-gids](/nl/city/chiang-mai/).
+Een goede ervaring combineert respect voor de traditie met geïnformeerde toestemming en zichtbare hygiëne. Laat tijdsdruk, een lage prijs of een virale foto nooit belangrijker worden dan die drie voorwaarden. Voor bredere voorbereiding vind je meer bij [gezondheid in Thailand](/nl/practical-info/health-vaccinations/) en de [Chiang Mai-gids](/nl/city/chiang-mai/).

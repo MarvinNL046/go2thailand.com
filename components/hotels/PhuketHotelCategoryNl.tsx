@@ -186,7 +186,7 @@ export default function PhuketHotelCategoryNl({
           />
         ))}
       </SEOHead>
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/phuket-hotels-hero.webp"
           imageAlt="Resort en tropische kust op Phuket"
@@ -383,14 +383,14 @@ export default function PhuketHotelCategoryNl({
               </div>
               <div className="mt-5 flex flex-wrap gap-2 lg:mt-0">
                 <Link
-                  href="/where-to-stay/phuket/"
+                  href="/nl/best-hotels/phuket/"
                   className="inline-flex items-center gap-2 rounded-lg bg-jade px-4 py-3 text-sm font-bold text-white"
                 >
                   Vergelijk Phuket-gebieden
                   <ArrowRight size={15} className="text-saffron" />
                 </Link>
                 <Link
-                  href="/best-hotels/phuket/"
+                  href="/nl/best-hotels/phuket/"
                   className="inline-flex items-center gap-2 rounded-lg border border-jade/15 px-4 py-3 text-sm font-bold text-jade"
                 >
                   Alle Phuket-hotels
@@ -410,7 +410,7 @@ export default function PhuketHotelCategoryNl({
             },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

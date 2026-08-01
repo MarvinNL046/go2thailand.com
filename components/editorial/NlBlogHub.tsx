@@ -58,7 +58,7 @@ const editorialDoors = [
   {
     title: 'Een route kiezen',
     copy: 'Begin bij reistijd, tempo en regio voordat losse tips je planning bepalen.',
-    href: '/itinerary/',
+    href: '/itineraries/',
     image: '/images/redesign/thailand-route-hero.webp',
     icon: Compass,
   },
@@ -145,6 +145,11 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
   const safePage = Math.min(page, totalPages);
   const visiblePosts = filteredPosts.slice((safePage - 1) * pageSize, safePage * pageSize);
   const featured = posts[0];
+  const postsByCategory = useMemo(() => {
+    const grouped = new Map<string, NlBlogHubPost[]>();
+    for (const post of posts) grouped.set(post.category, [...(grouped.get(post.category) || []), post]);
+    return [...grouped.entries()].sort(([left], [right]) => labelForCategory(left).localeCompare(labelForCategory(right), 'nl-NL'));
+  }, [posts]);
 
   const schemas = [
     {
@@ -199,7 +204,7 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
         ))}
       </SEOHead>
 
-      <main data-premium-template="nl-blog-hub" className="overflow-hidden bg-canvas text-charcoal">
+      <div data-premium-template="nl-blog-hub" className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-editorial-blog-hub-hero.webp"
           imageAlt="Redactionele reisplanning met Thailand-kaart, longtailboot en landschap"
@@ -326,6 +331,37 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
                 <button type="button" disabled={safePage === totalPages} onClick={() => setPage((current) => Math.min(totalPages, current + 1))} className="min-h-11 rounded-xl border border-jade/10 bg-white px-5 text-[10px] font-extrabold text-jade disabled:opacity-35">Volgende</button>
               </nav>
             ) : null}
+
+            <div className="mt-14 border-t border-jade/10 pt-10">
+              <div className="grid gap-6 lg:grid-cols-[.68fr_1.32fr] lg:items-end">
+                <SectionHeading
+                  eyebrow="Volledige publicatie-index"
+                  title="Iedere gids heeft een vaste ingang"
+                  description="Open per onderwerp de complete, indexeerbare collectie. Zo blijven ook oudere maar nog actuele dossiers rechtstreeks bereikbaar zonder door een zoekfilter te hoeven gaan."
+                />
+                <p className="max-w-2xl text-xs font-medium leading-6 text-charcoal/58 lg:justify-self-end">
+                  Verlopen of samengevoegde artikelen staan niet in deze index. Zij blijven alleen als transparant archief bereikbaar of verwijzen naar hun definitieve owner.
+                </p>
+              </div>
+              <div className="mt-8 grid gap-3 lg:grid-cols-2">
+                {postsByCategory.map(([category, categoryPosts], index) => (
+                  <details key={category} className="group rounded-2xl border border-jade/10 bg-white shadow-editorial-card" open={index < 2}>
+                    <summary className="flex min-h-16 cursor-pointer list-none items-center justify-between gap-4 px-5 py-4 text-sm font-extrabold text-jade marker:hidden">
+                      <span>{labelForCategory(category)}</span>
+                      <span className="rounded-full bg-tonal px-3 py-1 text-[9px] tracking-[.08em] text-charcoal/48">{categoryPosts.length} gidsen</span>
+                    </summary>
+                    <div className="grid gap-px border-t border-jade/8 bg-jade/8 sm:grid-cols-2">
+                      {categoryPosts.map((post) => (
+                        <Link key={post.slug} href={`/blog/${post.slug}/`} className="group/link flex min-h-14 items-center justify-between gap-3 bg-white px-5 py-3 text-[11px] font-bold leading-5 text-charcoal/68 transition hover:text-jade">
+                          <span>{post.title}</span>
+                          <ArrowRight size={13} className="shrink-0 text-saffron-dark transition group-hover/link:translate-x-0.5" aria-hidden="true" />
+                        </Link>
+                      ))}
+                    </div>
+                  </details>
+                ))}
+              </div>
+            </div>
           </div>
         </section>
 
@@ -352,7 +388,7 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
             </div>
           </div>
         </section>
-      </main>
+      </div>
     </>
   );
 }

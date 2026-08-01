@@ -60,6 +60,12 @@ export default function FlightOriginGuideNl({
   const slug = SLUG[route.code];
   const isAmsterdam = route.code === "ams-to-hkt";
   const shortName = route.fromName.replace(/\s*\([^)]*\)\s*/g, "").trim();
+  const seoOrigin =
+    route.code === "dmk-to-hkt"
+      ? "Bangkok Don Mueang (DMK)"
+      : route.code === "bkk-to-hkt"
+        ? "Bangkok Suvarnabhumi (BKK)"
+        : shortName;
   const currentFlights = withSubId(
     route.partnerUrl || generic?.partnerUrl || "https://trip.tpo.lv/8K2VZTtC",
     `${slug}-phuket-flight-owner-nl-live`,
@@ -150,7 +156,7 @@ export default function FlightOriginGuideNl({
   return (
     <>
       <SEOHead
-        title={`Vliegen ${shortName} naar Phuket: route en overstap`}
+        title={`Vliegen ${seoOrigin} naar Phuket: route en overstap`}
         description={`Vergelijk hoe je van ${route.from} naar Phuket (HKT) vliegt. Met overstap-, bagage-, ticket- en aankomstchecks plus actuele vluchtopties.`}
       >
         <link rel="canonical" href={canonical} />
@@ -168,7 +174,7 @@ export default function FlightOriginGuideNl({
           />
         ))}
       </SEOHead>
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/phuket-airport-arrival-hero.webp"
           imageAlt={`Reizigers met bagage onderweg voor een vlucht van ${shortName} naar Phuket`}
@@ -576,7 +582,7 @@ export default function FlightOriginGuideNl({
             },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

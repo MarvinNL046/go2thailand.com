@@ -3,7 +3,7 @@ import type { HotelGuideData } from "../types";
 export const chiangKhongHotelGuide: HotelGuideData = {
   citySlug: "chiang-khong",
   cityName: "Chiang Khong",
-  parentGuideHref: "/nl/guides/travel-guide/chiang-khong/",
+  parentGuideHref: "/nl/city/",
   locale: "nl",
   pageTitle: "Waar verblijven in Chiang Khong? 5 gebieden & 8 hotels",
   pageDescription:
@@ -311,14 +311,14 @@ export const chiangKhongHotelGuide: HotelGuideData = {
       title: "Complete reisgids voor Chiang Khong",
       description:
         "Plan de Mekongstad, grensformaliteiten en je vervolgroute zonder oude oversteekinformatie te verwarren met de huidige corridor.",
-      href: "/nl/guides/travel-guide/chiang-khong/",
+      href: "/nl/city/",
       image: "/images/redesign/chiang-khong-hotel-hero.webp",
     },
     {
-      title: "Wat te doen in Chiang Khong",
+      title: "Wat te doen rond Chiang Khong en Chiang Rai",
       description:
         "Geef de rivierplaats een echte dag naast je vervoer naar Laos of het noorden van Chiang Rai.",
-      href: "/nl/things-to-do/chiang-khong/",
+      href: "/nl/city/chiang-rai/attractions/",
       image: "/images/redesign/chiang-khong-riverfront-hotel.webp",
     },
     {

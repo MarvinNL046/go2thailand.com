@@ -1,6 +1,7 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { dutchDishProfiles, ingredientTranslations } from '../lib/nl-dish-profiles';
+import unpairedRoutes from '../seo/inventory/unpaired-routes.json';
 
 const projectRoot = resolve(__dirname, '..');
 const baseUrl = process.env.SITE_VERIFY_BASE_URL || 'http://localhost:3000';
@@ -87,8 +88,14 @@ async function inspectDish(dish: DishRecord): Promise<RouteResult> {
     .filter(tag => getAttribute(tag, 'rel')?.split(/\s+/).includes('alternate'))
     .map(tag => getAttribute(tag, 'hreflang'))
     .filter((value): value is string => Boolean(value));
-  for (const required of ['en', 'nl', 'x-default']) {
+  const localeNeutralRoute = `/food/${dish.slug}/`;
+  const isNlOnlyOwner = unpairedRoutes.nlOnly.includes(localeNeutralRoute);
+  const requiredHreflangs = isNlOnlyOwner ? ['nl', 'x-default'] : ['en', 'nl', 'x-default'];
+  for (const required of requiredHreflangs) {
     if (!hreflangs.includes(required)) errors.push(`hreflang ${required} ontbreekt`);
+  }
+  if (isNlOnlyOwner && hreflangs.includes('en')) {
+    errors.push('hreflang en verwijst ten onrechte naar een niet-equivalente Engelse owner');
   }
 
   const schemas: Array<Record<string, unknown>> = [];

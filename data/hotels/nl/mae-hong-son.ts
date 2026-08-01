@@ -310,7 +310,7 @@ export const maeHongSonHotelGuide: HotelGuideData = {
       title: "Complete routegids",
       description:
         "Combineer Mae Hong Son met logische noordelijke en zuidelijke etappes.",
-      href: "/nl/guides/travel-guide/mae-hong-son/",
+      href: "/nl/city/mae-hong-son/",
       image: "/images/redesign/mae-hong-son-route-banner.webp",
     },
     {

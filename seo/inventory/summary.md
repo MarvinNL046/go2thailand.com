@@ -1,11 +1,11 @@
 # Route inventory
 
-Generated: 2026-08-01T03:39:17.746Z
+Generated: 2026-08-01T05:26:20.313Z
 
-- Total sitemap URLs: 2164
+- Total sitemap URLs: 2163
 - English URLs: 1563
-- Dutch URLs: 601
-- URLs without a language pair: 984
+- Dutch URLs: 600
+- URLs without a language pair: 985
 
 ## Page families
 
@@ -31,14 +31,14 @@ Generated: 2026-08-01T03:39:17.746Z
 | practical | 29 |
 | region | 10 |
 | transport | 70 |
-| travel-guide | 100 |
+| travel-guide | 99 |
 | where-to-stay | 72 |
 
 ## Provisional actions
 
 | recommended action | URLs |
 |---|---:|
-| freshness-audit | 535 |
+| freshness-audit | 534 |
 | indexation-audit | 429 |
 | keep-improve | 442 |
 | manual-audit | 62 |

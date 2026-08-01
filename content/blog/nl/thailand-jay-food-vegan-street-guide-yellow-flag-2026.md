@@ -71,6 +71,6 @@ Drink er water of een duidelijk gelabelde drank bij en houd rekening met zoete s
 
 De WHO adviseert schoon werken, rauw en bereid voedsel scheiden, grondig verhitten, veilige temperaturen en veilig water. Kies bij een buffet gerechten die goed heet zijn en regelmatig worden aangevuld. Een kraam met veel lokale doorloop is vaak praktischer dan schalen die lang lauw blijven staan.
 
-Lees ook onze gids over [streetfoodveiligheid in Thailand](/nl/blog/thailand-street-food-safety-guide-avoid-getting-sick/) en de uitleg van de [Thaise keuken](/nl/blog/what-is-thai-food-cuisine-guide/). Voor Bangkok helpt onze [streetfoodgids per wijk](/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/) om een avondroute te kiezen.
+Lees ook onze gids over [streetfoodveiligheid in Thailand](/nl/food/) en de uitleg van de [Thaise keuken](/nl/food/). Voor Bangkok helpt onze [streetfoodgids per wijk](/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/) om een avondroute te kiezen.
 
 Jay food is cultureel, betaalbaar en verrassend gevarieerd. De beste aanpak is eenvoudig: herken het symbool, maak je eigen dieetgrens expliciet en behandel allergenen als een aparte veiligheidsvraag.

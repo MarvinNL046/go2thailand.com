@@ -49,6 +49,20 @@ type AreaConfig = {
   faqs: { question: string; answer: string }[];
 };
 
+const HOTEL_PROFILES: Partial<Record<PhuketHotelArea, { slug: string; name: string }[]>> = {
+  patong: [
+    ["grand-mercure-phuket-patong", "Grand Mercure Phuket Patong"], ["four-points-by-sheraton-phuket-patong-beach-resort", "Four Points by Sheraton Phuket Patong Beach Resort"], ["hotel-indigo-phuket-patong", "Hotel Indigo Phuket Patong"], ["hotel-clover-patong-phuket", "Hotel Clover Patong Phuket"], ["movenpick-myth-hotel-patong-phuket", "Mövenpick Myth Hotel Patong Phuket"], ["lub-d-phuket-patong", "Lub D Phuket Patong"], ["la-flora-resort-patong", "La Flora Resort Patong"], ["7q-patong-beach-hotel", "7Q Patong Beach Hotel"], ["holiday-inn-express-phuket-patong-beach-central", "Holiday Inn Express Phuket Patong Beach Central"], ["andaman-embrace-patong", "Andaman Embrace Patong"], ["best-western-patong-beach", "Best Western Patong Beach"], ["mt-hotel-patong", "MT Hotel Patong"], ["ramada-by-wyndham-phuket-deevana-patong", "Ramada by Wyndham Phuket Deevana Patong"], ["patong-signature-boutique-hotel", "Patong Signature Boutique Hotel"], ["deevana-patong-resort-and-spa", "Deevana Patong Resort & Spa"], ["deevana-plaza-phuket-patong", "Deevana Plaza Phuket Patong"], ["icheck-inn-residences-patong", "iCheck inn Residences Patong"], ["woovo-phuket-patong", "Woovo Phuket Patong"],
+  ].map(([slug, name]) => ({ slug, name })),
+  karon: [
+    ["pullman-phuket-arcadia-karon-beach-resort", "Pullman Phuket Arcadia Karon Beach Resort"], ["centara-grand-beach-resort-phuket", "Centara Grand Beach Resort Phuket"], ["mandarava-resort-and-spa-karon-beach", "Mandarava Resort and Spa Karon Beach"], ["beyond-resort-karon", "Beyond Resort Karon"], ["avista-grande-karon-mgallery", "Avista Grande Phuket Karon — MGallery"],
+  ].map(([slug, name]) => ({ slug, name })),
+  kamala: [
+    ["novotel-phuket-kamala-beach", "Novotel Phuket Kamala Beach"], ["sunwing-kamala-beach", "Sunwing Kamala Beach"], ["sunprime-kamala-beach", "Sunprime Kamala Beach"],
+  ].map(([slug, name]) => ({ slug, name })),
+  "bang-tao": [{ slug: "hilton-garden-inn-phuket-bang-tao", name: "Hilton Garden Inn Phuket Bang Tao" }],
+  "nai-harn": [{ slug: "the-nai-harn-phuket", name: "The Nai Harn" }, { slug: "wyndham-grand-nai-harn-beach-phuket", name: "Wyndham Grand Nai Harn Beach Phuket" }],
+};
+
 const livePrice =
   "Hotelprijzen veranderen per datum, bezetting, kamertype en voorwaarden. Vergelijk dezelfde gegevens en bekijk de actuele totaalprijs bij de aanbieder.";
 
@@ -112,7 +126,7 @@ const CONFIG: Record<PhuketHotelArea, AreaConfig> = {
       "Beachfront, sea view en een korte strandwandeling zijn drie verschillende beloften.",
     description:
       "Vergelijk Karon-hotels op echte strandtoegang, helling, looproute, resortfaciliteiten, kamercategorie en verbinding met Kata of Patong.",
-    image: "/images/cities/phuket/areas/karon-beach.webp",
+    image: "/images/redesign/karon-area-hero-v2.webp",
     alt: "Karon Beach aan de westkust van Phuket",
     fit: "Reizigers die een ruimere strandbasis zoeken met restaurants en resorts",
     tradeoff:
@@ -160,7 +174,7 @@ const CONFIG: Record<PhuketHotelArea, AreaConfig> = {
     subtitle: "Kata, Kata Noi en de heuvelrand werken anders in de praktijk.",
     description:
       "Vergelijk Kata-hotels op strandroute, helling, familie-indeling, surf-/zeeseizoen, restaurants en vervoer naar andere delen van Phuket.",
-    image: "/images/cities/phuket/areas/kata-beach.webp",
+    image: "/images/redesign/kata-area-hero-v2.webp",
     alt: "Kata Beach op Phuket",
     fit: "Stellen en families die een compacte kustbasis met voorzieningen zoeken",
     tradeoff:
@@ -209,7 +223,7 @@ const CONFIG: Record<PhuketHotelArea, AreaConfig> = {
       "Kamala is rustiger dan Patong, maar de exacte ligging bepaalt hoeveel je loopt of rijdt.",
     description:
       "Vergelijk Kamala-hotels op dorps- en strandtoegang, noord/zuidligging, familievoorzieningen, avondrust, terrein en vervoer.",
-    image: "/images/cities/phuket/areas/kamala-beach.webp",
+    image: "/images/redesign/kamala-area-hero-v2.webp",
     alt: "Kamala Beach op Phuket",
     fit: "Reizigers die een kalmere strandbasis willen zonder volledig afgelegen te zitten",
     tradeoff:
@@ -258,7 +272,7 @@ const CONFIG: Record<PhuketHotelArea, AreaConfig> = {
       "Resortcomfort, strand en restaurants liggen niet overal op dezelfde looproute.",
     description:
       "Vergelijk Bang Tao-hotels op exacte subzone, resortnetwerk, strandtoegang, Boat Avenue-route, vervoer en wat je daadwerkelijk binnen het hotel wilt doen.",
-    image: "/images/cities/phuket/areas/bang-tao-beach.webp",
+    image: "/images/redesign/bang-tao-area-hero-v2.webp",
     alt: "Bang Tao Beach en de resortkust van Phuket",
     fit: "Reizigers die een gepolijste resortbasis of langer strandverblijf zoeken",
     tradeoff:
@@ -355,6 +369,7 @@ export default function PhuketAreaHotelsHubNl({
   tripUrl: string;
 }) {
   const c = CONFIG[area];
+  const hotelProfiles = HOTEL_PROFILES[area] || [];
   const canonical = `https://go2-thailand.com/nl${c.path}`;
   const affiliate = withSubId(tripUrl, `phuket-${area}-hotels-owner-nl`);
   const schemas = [
@@ -397,7 +412,7 @@ export default function PhuketAreaHotelsHubNl({
           />
         ))}
       </SEOHead>
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={c.image}
           imageAlt={c.alt}
@@ -539,6 +554,20 @@ export default function PhuketAreaHotelsHubNl({
             </div>
           </div>
         </section>
+        {hotelProfiles.length ? (
+          <section className="section-divider-bottom py-14 lg:py-20">
+            <div className="container-custom">
+              <SectionHeading eyebrow="Hotelprofielen in deze zone" title={`Verdiep je shortlist voor ${c.name}`} description="Open alleen hotels waarvoor een zelfstandig profiel bestaat. Controleer daarna nog steeds de actuele kamer, totaalprijs en voorwaarden bij de aanbieder." />
+              <div className="mt-8 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+                {hotelProfiles.map((hotel) => (
+                  <Link key={hotel.slug} href={`/phuket/${area}/hotels/${hotel.slug}/`} className="group flex min-h-20 items-center justify-between gap-4 rounded-2xl border border-jade/10 bg-white px-5 py-4 text-sm font-extrabold text-jade shadow-editorial-card transition hover:-translate-y-0.5 hover:border-saffron/45">
+                    <span>{hotel.name}</span><ArrowRight size={15} className="shrink-0 text-saffron-dark transition group-hover:translate-x-1" aria-hidden="true" />
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </section>
+        ) : null}
         <section
           id="boeken"
           className="section-divider-bottom scroll-mt-24 py-14 lg:py-20"
@@ -588,7 +617,7 @@ export default function PhuketAreaHotelsHubNl({
               </div>
               <div className="mt-5 flex flex-wrap gap-2 lg:mt-0">
                 <Link
-                  href="/where-to-stay/phuket/"
+                  href="/nl/best-hotels/phuket/"
                   className="inline-flex items-center gap-2 rounded-lg bg-jade px-4 py-3 text-sm font-bold text-white"
                 >
                   Alle Phuket-gebieden
@@ -601,6 +630,7 @@ export default function PhuketAreaHotelsHubNl({
                   Phuket hotelgids
                   <ArrowRight size={15} className="text-saffron" />
                 </Link>
+                {area === "bang-tao" ? <Link href="/phuket/surin/" className="inline-flex items-center gap-2 rounded-lg border border-jade/15 px-4 py-3 text-sm font-bold text-jade">Surin vergelijken <ArrowRight size={15} className="text-saffron" /></Link> : null}
               </div>
             </div>
           </div>
@@ -615,7 +645,7 @@ export default function PhuketAreaHotelsHubNl({
             },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

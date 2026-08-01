@@ -56,4 +56,4 @@ Go2Thailand toont één Klook-affiliatelink om actuele activiteiten te vergelijk
 
 Vraag bij een tour wie de beslissing neemt om te stoppen en wat er gebeurt bij slecht weer. Een gratis verplaatsing, gedeeltelijke route en volledige annulering zijn verschillende voorwaarden. Controleer ook of de gids een telefoon of radio, EHBO-set en reservepeddel bij zich heeft. Deze details zijn minder fotogeniek dan kalksteen, maar bepalen of een activiteit professioneel is georganiseerd.
 
-Wil je vooral onder water kijken, gebruik dan de aparte gids voor [duiken en snorkelen in Thailand](/nl/best-diving-snorkeling-in-thailand/). Een mooie kust maakt niet automatisch dezelfde maand geschikt voor beide activiteiten.
+Wil je vooral onder water kijken, gebruik dan de aparte gids voor [duiken en snorkelen in Thailand](/nl/travel-guides/diving-snorkeling-thailand/). Een mooie kust maakt niet automatisch dezelfde maand geschikt voor beide activiteiten.

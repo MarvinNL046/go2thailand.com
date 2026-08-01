@@ -40,7 +40,7 @@ Dit is geen simpele rekensom waarbij iedere derde vakantie automatisch wordt gew
 
 Voor een korte vakantie gebruik je de regeling die op jouw aankomstdatum geldt. Voor een langer toeristisch verblijf vergelijk je vooraf een toeristenvisum. Remote workers en andere langverblijvers kunnen afhankelijk van hun situatie kijken naar DTV, LTR of een passende Non-Immigrant-categorie. Begin bij onze [visumhub](/nl/visa/) en controleer daarna de officiële [Thai eVisa-site](https://www.thaievisa.go.th/).
 
-Lees ook de actuele status van de [wijziging naar 30 dagen visumvrij verblijf](/nl/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) en regel de [TDAC](/nl/blog/thailand-digital-arrival-card-tdac-guide/) uitsluitend via het officiële immigratiedomein. Bij twijfel over werk, familie, studie of belasting is individueel professioneel advies verstandiger dan een grensrun.
+Lees ook de actuele status van de [wijziging naar 30 dagen visumvrij verblijf](/nl/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) en regel de [TDAC](/nl/visa/digital-arrival-card/) uitsluitend via het officiële immigratiedomein. Bij twijfel over werk, familie, studie of belasting is individueel professioneel advies verstandiger dan een grensrun.
 
 ## Visa run, border run en echte rondreis
 

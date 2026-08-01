@@ -52,4 +52,4 @@ Zorg dat je online kunt wanneer dat nodig is. Vergelijk daarvoor onze gids voor 
 
 ## Wat de app niet vervangt
 
-De app vervangt geen officieel visumportaal, luchtvaartmaatschappij, arts, verzekeraar of lokale noodwaarschuwing. Ook de [Thailand Digital Arrival Card](/nl/blog/thailand-digital-arrival-card-tdac-guide/) regel je alleen via het juiste officiële kanaal. Een reisapp is een hulpmiddel; de eigenaar van een dienst blijft de bron voor uitvoering.
+De app vervangt geen officieel visumportaal, luchtvaartmaatschappij, arts, verzekeraar of lokale noodwaarschuwing. Ook de [Thailand Digital Arrival Card](/nl/visa/digital-arrival-card/) regel je alleen via het juiste officiële kanaal. Een reisapp is een hulpmiddel; de eigenaar van een dienst blijft de bron voor uitvoering.

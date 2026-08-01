@@ -115,7 +115,7 @@ export default function DestinationFlightsGuideNl({ destination, routes }: { des
       <link rel="alternate" hrefLang="en" href={`https://go2-thailand.com/flights-to-${c.slug}/`} />
       {schemas.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
     </SEOHead>
-    <main className="bg-canvas text-charcoal">
+    <div className="bg-canvas text-charcoal">
       <EditorialHero image={c.image} imageAlt={c.alt} breadcrumbs={[{ label: "Thailand", href: "/" }, { label: "Vervoer", href: "/transport/" }, { label: `Vluchten naar ${c.name}` }]} eyebrow={c.eyebrow} title={<>{c.title}<br/><span className="text-saffron-dark">{c.accent}</span></>} subtitle={c.subtitle} description={c.description} actions={[{ label: "Vergelijk je route", href: "#routekeuze", kind: "primary" }, { label: "Bekijk actuele prijs", href: liveUrl, kind: "secondary", newTab: true, affiliate: true }]} disclosure="De prijscheck is een affiliate-link. Wij kunnen commissie ontvangen zonder extra kosten voor jou. Prijs, route, bagage en voorwaarden controleer je altijd bij de aanbieder." titleClassName="max-w-[760px] text-[3.5rem] leading-[0.9] sm:text-[4.7rem] lg:text-[5.35rem]" />
       <PageSectionNav label="Op deze pagina" items={[{ href: "#routekeuze", label: "Routekeuze", icon: Waypoints }, { href: "#luchthaven", label: "Luchthaven", icon: MapPin }, { href: "#vertreksteden", label: "Vertreksteden", icon: Plane }, { href: "#boekingscheck", label: "Boekingscheck", icon: TicketCheck }, { href: "#vragen", label: "Vragen", icon: ShieldCheck }]} />
 
@@ -148,6 +148,6 @@ export default function DestinationFlightsGuideNl({ destination, routes }: { des
       <FaqSplitSection id="vragen" eyebrow="Voor vertrek" title={`Veelgestelde vragen over vliegen naar ${c.name}`} items={[...faqs]} />
       <section className="section-divider-top py-14"><div className="container-custom"><div className="rounded-[1.5rem] bg-jade p-7 text-ivory lg:flex lg:items-center lg:justify-between lg:p-9"><div><p className="eyebrow text-saffron">Na je vluchtkeuze</p><h2 className="mt-2 font-display text-3xl">Plan de rest van je reis</h2></div><div className="mt-6 flex flex-wrap gap-3 lg:mt-0">{c.onward.map(item=><Link key={item.href} href={item.href} className="inline-flex items-center gap-2 rounded-lg border border-white/20 bg-white/10 px-4 py-3 text-sm font-semibold hover:bg-white/15">{item.label}<ArrowRight size={15} className="text-saffron"/></Link>)}</div></div></div></section>
       <SourceMethodSection title="Zo bijgehouden" description="We scheiden blijvende keuzehulp van veranderlijke dienstregelingen en prijzen." sources={[{ label: "Schiphol — actuele vlucht- en luchthaveninformatie", href: "https://www.schiphol.nl/" }, { label: "Airports of Thailand — officiële luchthaveninformatie", href: "https://www.airportthai.co.th/" }, { label: "EU — rechten van luchtvaartpassagiers", href: "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_nl.htm" }]} method="Nederlandse zoekintentie en zichtbare Google-NL PAA's zijn gecombineerd met officiële luchthaven- en passagiersbronnen. Actuele commerciële gegevens worden niet als vaste redactionele feiten opgeslagen." />
-    </main>
+    </div>
   </>;
 }

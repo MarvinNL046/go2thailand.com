@@ -626,7 +626,7 @@ export function ThaiCurryGuide() {
           title="Bouw je eigen foodroute"
           guides={[
             { title: 'Thaise gerechten', description: 'Ontdek gerechten buiten de bekende curry’s en bouw een gevarieerde eetlijst.', href: '/food/', image: '/images/redesign/thai-curry-guide-hero.webp', imageAlt: 'Verschillende Thaise curries aan een eetkraam' },
-            { title: 'Streetfood in Thailand', description: 'Leer kiezen tussen kraam, foodcourt en markt zonder alles in één avond te proppen.', href: '/thailand-street-food/', image: '/images/redesign/thai-curry-ordering.webp', imageAlt: 'Bestellen bij een Thaise curry- en rijstkraam' },
+            { title: 'Streetfood in Thailand', description: 'Leer kiezen tussen kraam, foodcourt en markt zonder alles in één avond te proppen.', href: '/food/', image: '/images/redesign/thai-curry-ordering.webp', imageAlt: 'Bestellen bij een Thaise curry- en rijstkraam' },
             { title: 'Thaise kooklessen', description: 'Vergelijk steden en lesvormen als je technieken tijdens je reis wilt oefenen.', href: '/best-cooking-classes-in-thailand/', image: '/images/redesign/thai-curry-home-cooking.webp', imageAlt: 'Thaise kookles met reiziger en docent' },
           ]}
           sideLink={{ label: 'Bekijk kooklessen op Klook', href: cookingClassHref, affiliate: true }}

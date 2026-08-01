@@ -194,6 +194,8 @@ export const phuketHotelGuide: HotelGuideData = {
     },
   ],
   relatedGuides: [
+    { title: 'Familiehotels op Phuket', description: 'Vergelijk kamertypes, kinderfaciliteiten, dagelijkse routes en actuele voorwaarden.', href: '/best-hotels/phuket/family/', image: '/images/redesign/phuket-stay-kata-karon.webp' },
+    { title: 'All-inclusive op Phuket', description: 'Controleer wat het pakket werkelijk omvat en vergelijk het met logies plus losse maaltijden.', href: '/best-hotels/phuket/all-inclusive/', image: '/images/redesign/phuket-stay-bang-tao.webp' },
     { title: 'Phuket reisgids', description: 'Plan je dagen, vervoer en stranden vanuit één compleet overzicht.', href: '/city/phuket/', image: '/images/blog/phuket-travel-guide-2026.webp' },
     { title: 'Bezienswaardigheden', description: 'Van Old Town en Wat Chalong tot baaien en eilandtochten.', href: '/city/phuket/attractions/', image: '/images/cities/phuket/attractions/Phuket Old Town2.webp' },
     { title: 'Weer & beste reistijd', description: 'Vergelijk droge maanden, regen en zeecondities per seizoen.', href: '/city/phuket/weather/', image: '/images/redesign/phuket-weather-green-season.webp' },

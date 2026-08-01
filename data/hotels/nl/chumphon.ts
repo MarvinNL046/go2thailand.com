@@ -182,6 +182,7 @@ export const chumphonHotelGuide: HotelGuideData = {
     { title: "Controleer de zeereis opnieuw", description: "Bevestig vervoerder, pickup, bagage, terminal en weerbeleid kort voor iedere ferry- of zeereis." },
     { title: "Bescherm een late aankomst", description: "Vraag naar actuele receptie- en transferafspraken wanneer een late trein of vlucht je check-in bepaalt." },
   ],
+  showProfileLinks: false,
   profileLinks: [
     { title: "Complete reisgids voor Chumphon", href: "/nl/guides/travel-guide/chumphon/" },
     { title: "A-Te Chumphon Hotel", href: "/nl/hotel/a-te-chumphon-hotel/" },
@@ -202,7 +203,7 @@ export const chumphonHotelGuide: HotelGuideData = {
   ],
   relatedGuides: [
     { title: "Reisgids Chumphon", description: "Plan stad, rustige stranden, zeetours en de overstap naar Koh Tao als aparte onderdelen.", href: "/nl/city/chumphon/", image: "/images/redesign/chumphon-destination-hero.webp" },
-    { title: "Waar verblijven in Chumphon", description: "Vergelijk stad, Thung Wua Laen, Pathio, Sairee, luchthaven en terminals op ligging.", href: "/nl/where-to-stay/chumphon/", image: "/images/redesign/chumphon-marine-route.webp" },
+    { title: "Chumphon bestemmingsoverzicht", description: "Plan stad, kust, eilanden en vervoer voordat je een hotelbasis kiest.", href: "/nl/city/chumphon/", image: "/images/redesign/chumphon-marine-route.webp" },
     { title: "Bezienswaardigheden in Chumphon", description: "Kies één kust, een avond in de stad en een zeetrip die bij de actuele omstandigheden past.", href: "/nl/city/chumphon/attractions/", image: "/images/redesign/chumphon-city-night-market.webp" },
   ],
   sources: [

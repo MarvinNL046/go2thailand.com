@@ -22,7 +22,7 @@ sources:
 
 ## Koh Samui of Koh Phangan in één minuut
 
-Kies [Koh Samui](/nl/islands/koh-samui/) wanneer je een eenvoudige aankomst, bredere hotelkeuze en een retreat met resortcomfort zoekt. Kies [Koh Phangan](/nl/islands/koh-phangan/) wanneer yogagemeenschap, losse lessen en een langer eenvoudig verblijf zwaarder wegen. Daar voeg je wel een ferry en lokale transfer toe.
+Kies [Koh Samui](/nl/city/koh-samui/) wanneer je een eenvoudige aankomst, bredere hotelkeuze en een retreat met resortcomfort zoekt. Kies [Koh Phangan](/nl/islands/koh-phangan/) wanneer yogagemeenschap, losse lessen en een langer eenvoudig verblijf zwaarder wegen. Daar voeg je wel een ferry en lokale transfer toe.
 
 Geen van beide eilanden is automatisch beter voor yoga. Het programma, de docent en de voorwaarden zijn belangrijker dan de foto van de shala.
 

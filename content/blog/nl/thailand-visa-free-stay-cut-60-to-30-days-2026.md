@@ -32,7 +32,7 @@ De ontbrekende Royal Gazette-publicatie betekent dat je niet uitsluitend op een 
 
 Voor een reis van hoogstens 30 dagen is het verstandig ruimte te houden voor wijzigingen en bewijs van je uitreis bij je te hebben. Duurt je reis langer, kies dan vóór boeken een passende legale route via de [Thailand-visumhub](/nl/visa/). Ga niet uit van een automatische verlenging of van een korte grensoversteek als oplossing.
 
-Vul daarnaast de [Thailand Digital Arrival Card](/nl/blog/thailand-digital-arrival-card-tdac-guide/) uitsluitend via het officiële immigratieportaal in. De TDAC is een aankomstregistratie, geen visum en geen garantie op toelating.
+Vul daarnaast de [Thailand Digital Arrival Card](/nl/visa/digital-arrival-card/) uitsluitend via het officiële immigratieportaal in. De TDAC is een aankomstregistratie, geen visum en geen garantie op toelating.
 
 ## Peildatum en verantwoordelijkheid
 

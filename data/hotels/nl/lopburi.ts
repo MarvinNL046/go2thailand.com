@@ -180,6 +180,7 @@ export const lopburiHotelGuide: HotelGuideData = {
     { title: "Bescherm eten en bagage", description: "Houd voedsel gesloten en uit zicht rond actieve makakenzones en volg actuele aanwijzingen van hotel en gemeente." },
     { title: "Plan buitenroutes apart", description: "Bevestig zonnebloemveld, Pasak-route of tempel op datum en kaartpin voordat je een buitenhotel vastlegt." },
   ],
+  showProfileLinks: false,
   profileLinks: [
     { title: "Complete reisgids voor Lopburi", href: "/nl/guides/travel-guide/lopburi/" },
     { title: "HOP INN Lopburi", href: "/nl/hotel/hop-inn-lopburi/" },

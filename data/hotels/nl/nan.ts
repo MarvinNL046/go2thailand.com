@@ -7,7 +7,7 @@ const nanPuaImage = "/images/redesign/nan-pua-hotel.webp";
 export const nanHotelGuide: HotelGuideData = {
   citySlug: "nan",
   cityName: "Nan",
-  parentGuideHref: "/nl/city/nan/",
+  parentGuideHref: "/nl/city/",
   locale: "nl",
   pageTitle: "Waar verblijven in Nan? 8 hotels & Pua",
   pageDescription:
@@ -312,24 +312,24 @@ export const nanHotelGuide: HotelGuideData = {
   ],
   relatedGuides: [
     {
-      title: "Nan reisgids",
+      title: "Bestemmingsoverzichten in Thailand",
       description:
-        "Plan Wat Phumin, museum, rivier, dorpen en de bergroute in een rustig tempo.",
-      href: "/nl/guides/travel-guide/nan/",
+        "Kies een bestaande bestemmingseigenaar en plan stad, rivier en bergroute vanuit betrouwbare route-informatie.",
+      href: "/nl/city/",
       image: nanOldTownImage,
     },
     {
-      title: "Bezienswaardigheden in Nan",
+      title: "Bezienswaardigheden per bestemming",
       description:
-        "Scheid de compacte tempelstad van Pua, Doi Phu Kha en verdere provincieroutes.",
-      href: "/nl/city/nan/attractions/",
+        "Vergelijk bestaande attractieoverzichten en behandel Pua en Doi Phu Kha als afzonderlijke provincieroutes.",
+      href: "/nl/city/",
       image: nanPuaImage,
     },
     {
-      title: "Nan bestemmingsoverzicht",
+      title: "Alle Thaise bestemmingen",
       description:
-        "Kies reisduur, vervoer en het juiste moment om een tweede bergbasis toe te voegen.",
-      href: "/nl/city/nan/",
+        "Kies reisduur, vervoer en een beschikbare stad- of eilandgids voor je volgende routeblok.",
+      href: "/nl/city/",
       image: nanRiverfrontImage,
     },
   ],

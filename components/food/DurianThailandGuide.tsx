@@ -242,7 +242,7 @@ export function DurianThailandGuide() {
         <section id="seizoen" className="section-divider-bottom scroll-mt-24 py-16 lg:py-24">
           <div className="container-custom">
             <div className="grid gap-10 lg:grid-cols-[0.6fr_1.4fr] lg:items-end">
-              <SectionHeading eyebrow="Eén vrucht, meerdere kalenders" title={<>Wanneer is durian<br />in seizoen?</>} description={<>Plan op regio en jaartal. Voor een complete weersafweging combineer je deze oogstlogica met onze <InlineLink href="/blog/best-time-to-visit-thailand/">beste reistijd voor Thailand</InlineLink>; fruitpiek en droogste reisweer zijn niet automatisch hetzelfde.</>} />
+              <SectionHeading eyebrow="Eén vrucht, meerdere kalenders" title={<>Wanneer is durian<br />in seizoen?</>} description={<>Plan op regio en jaartal. Voor een complete weersafweging combineer je deze oogstlogica met onze <InlineLink href="/blog/beste-tijd-thailand-bezoeken-per-regio/">beste reistijd voor Thailand</InlineLink>; fruitpiek en droogste reisweer zijn niet automatisch hetzelfde.</>} />
               <p className="max-w-3xl text-sm font-medium leading-7 text-charcoal/66">De hardste actuele referentie is Chanthaburi 2026: het Department of Agriculture verwachtte product van februari tot juli, met 43% van de provinciale oogst in mei. TAT noemt mei–juli als sterke periode voor boomgaardbezoek in Chanthaburi en Rayong. Gebruik dat als planningsvenster, niet als universele natuurwet.</p>
             </div>
             <div className="mt-10 grid gap-4 lg:grid-cols-4">
@@ -395,7 +395,7 @@ export function DurianThailandGuide() {
               <SectionHeading
                 eyebrow="Van openen tot laatste hap"
                 title="Maak versheid zichtbaar, niet mystiek"
-                description={<>Een geurtest of perfecte kleur kan voedselveiligheid niet bewijzen. Gebruik dezelfde nuchtere keuzes als bij andere verse producten. Onze <InlineLink href="/thailand-street-food/">Thaise streetfoodgids</InlineLink> geeft de bredere context voor omloop, temperatuur en schone bereiding.</>}
+                description={<>Een geurtest of perfecte kleur kan voedselveiligheid niet bewijzen. Gebruik dezelfde nuchtere keuzes als bij andere verse producten. Onze <InlineLink href="/food/">Thaise streetfoodgids</InlineLink> geeft de bredere context voor omloop, temperatuur en schone bereiding.</>}
               />
               <p className="max-w-3xl text-sm font-medium leading-7 text-charcoal/66">Een hele vrucht beschermt het vruchtvlees totdat ze wordt geopend; daarna worden tijd, temperatuur en hantering belangrijk. Koop daarom niet vroeg op de dag een bakje dat uren in hitte of bagage blijft. Proef wanneer je echt kunt eten, kies een verkooppunt met passende koeling voor voorverpakt fruit en laat twijfel niet oplossen door alleen harder te ruiken.</p>
             </div>

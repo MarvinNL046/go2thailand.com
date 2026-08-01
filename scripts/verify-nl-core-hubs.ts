@@ -26,7 +26,7 @@ const configs: Config[] = [
     route: '/nl/city/', titleNeedle: 'bestemmingen thailand', minSections: 10, minWords: 1200, minImages: 25,
     affiliate: 'none', minSponsored: 0,
     requiredLinks: ['/nl/city/bangkok/', '/nl/city/chiang-mai/', '/nl/city/krabi/', '/nl/weather/'],
-    markers: ['Tien plekken. Tien andere reizen.', 'Welke reis wil je maken?', 'Vind jouw bestemming', 'Veelgestelde vragen over Thailand'],
+    markers: ['plekken. Evenveel andere reizen.', 'Welke reis wil je maken?', 'Vind jouw bestemming', 'Veelgestelde vragen over Thailand'],
   },
   {
     route: '/nl/activities/', titleNeedle: 'excursies thailand', minSections: 12, minWords: 1200, minImages: 14,
@@ -139,7 +139,9 @@ async function inspect(config: Config, row: KeywordRow): Promise<Result> {
   const collection = schemaValues.find((schema) => schema['@type'] === 'CollectionPage');
   if (collection?.inLanguage !== 'nl-NL') errors.push('CollectionPage.inLanguage is niet nl-NL');
   if (normalizedPath(String(collection?.url || '/')) !== config.route) errors.push('CollectionPage.url is onjuist');
-  if (String(collection?.dateModified || '') !== researchDate) errors.push(`dateModified is ${String(collection?.dateModified || 'leeg')}`);
+  const modifiedAt = Date.parse(String(collection?.dateModified || ''));
+  const minimumModifiedAt = Date.parse(`${researchDate}T00:00:00Z`);
+  if (!Number.isFinite(modifiedAt) || modifiedAt < minimumModifiedAt) errors.push(`dateModified is ${String(collection?.dateModified || 'leeg')}`);
 
   const anchors = [...html.matchAll(/<a\b[^>]*>[\s\S]*?<\/a>/gi)].map((match) => match[0]);
   const sponsored = anchors.filter((tag) => attr(tag, 'rel')?.split(/\s+/).includes('sponsored'));

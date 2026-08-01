@@ -58,7 +58,7 @@ const groups: GuideGroup[] = [
       { title: '7-Eleven in Thailand', eyebrow: 'Handige stop, geen must-buylijst', description: 'Gebruik de winkel voor concrete reisbehoeften en controleer ingrediënten en actuele prijs.', href: '/travel-guides/7-eleven-thailand/', icon: Utensils },
       { title: 'Markten & winkelen', eyebrow: 'Plaats en opening hercontroleren', description: 'Kies marktcontext, product en vervoer; tijden en aanbod kunnen wijzigen.', href: '/travel-guides/shopping-markets-thailand/', icon: Map },
       { title: 'Festivals & evenementen', eyebrow: 'Datum en locatie zijn variabel', description: 'Begrijp het evenement en bevestig kalender, toegang en lokale regels bij de organisator.', href: '/travel-guides/festivals-events-thailand/', icon: Sparkles },
-      { title: 'Nachtleven & rooftops', eyebrow: 'Buurt, terugreis en voorwaarden', description: 'Plan opening, dresscode, leeftijdsregel en veilige terugkeer op actuele venue-informatie.', href: '/travel-guides/nightlife-rooftop-bars-thailand/', icon: MoonStar },
+      { title: 'Nachtleven & rooftops', eyebrow: 'Buurt, terugreis en voorwaarden', description: 'Plan opening, dresscode, leeftijdsregel en veilige terugkeer op actuele venue-informatie.', href: '/nightlife/', icon: MoonStar },
     ],
   },
 ];

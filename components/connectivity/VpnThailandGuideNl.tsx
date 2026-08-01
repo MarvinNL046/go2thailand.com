@@ -99,7 +99,7 @@ export function VpnThailandGuideNl() {
     ],
     related: [
       { title: 'Thailand simkaartgids', description: 'Kies lokale sim, reis-eSIM of roaming als daadwerkelijke verbindingslaag.', href: '/travel-guides/sim-card-thailand/', image: '/images/redesign/thailand-esim-provider-hero.webp', imageAlt: 'Reiziger stelt een telefoonverbinding in Thailand in' },
-      { title: 'Thailand eSIM vergelijken', description: 'Vergelijk installatie, dekkingsvragen en actuele reis-eSIM-opties.', href: '/esim/', image: '/images/redesign/esim-thailand-hero.webp', imageAlt: 'Telefoon voor mobiele reisverbinding in Thailand' },
+      { title: 'Thailand eSIM vergelijken', description: 'Vergelijk installatie, dekkingsvragen en actuele reis-eSIM-opties.', href: '/travel-guides/sim-card-thailand/', image: '/images/redesign/esim-thailand-hero.webp', imageAlt: 'Telefoon voor mobiele reisverbinding in Thailand' },
       { title: 'Gids voor digitale nomaden', description: 'Plan je werkopstelling, locaties en praktische grenzen van werken op afstand.', href: '/thailand-index/digital-nomad/', image: '/images/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities.webp', imageAlt: 'Laptopwerkplek voor werken op afstand in Thailand' },
     ],
     sources: [

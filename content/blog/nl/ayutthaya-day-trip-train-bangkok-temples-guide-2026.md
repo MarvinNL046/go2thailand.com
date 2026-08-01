@@ -36,13 +36,13 @@ Een vroege rit geeft meer marge tegen hitte en een gemiste aansluiting. Plan nie
 
 Een compacte eerste lus kan beginnen bij [Wat Mahathat](/nl/city/ayutthaya/attractions/wat-mahathat/) en [Wat Ratchaburana](/nl/city/ayutthaya/attractions/wat-ratchaburana/), gevolgd door Wat Phra Si Sanphet. Deze plekken liggen logisch genoeg om niet de hele dag in een voertuig te zitten. Voeg daarna alleen een verder gelegen tempel toe als energie, weer en terugreismarge dat toelaten.
 
-[Wat Chaiwatthanaram](/nl/city/ayutthaya/attractions/wat-chaiwatthanaram/) is fotogeniek, maar ligt buiten de compacte kern. Het is een sterke bonus voor een tuktukroute, niet iets dat je gedachteloos tussen twee nabijgelegen stops plakt. De owner van het [Ayutthaya Historical Park](/nl/city/ayutthaya/attractions/ayutthaya-historical-park/) helpt je de ruïnes inhoudelijk verder kiezen.
+[Wat Chaiwatthanaram](/nl/city/ayutthaya/attractions/wat-chaiwatthanaram/) is fotogeniek, maar ligt buiten de compacte kern. Het is een sterke bonus voor een tuktukroute, niet iets dat je gedachteloos tussen twee nabijgelegen stops plakt. De owner van het [Ayutthaya Historical Park](/nl/city/ayutthaya/attractions/) helpt je de ruïnes inhoudelijk verder kiezen.
 
 ## Fiets, tuktuk of tour
 
 Een fiets geeft vrijheid en past bij vlak terrein, maar de combinatie van zon, verkeer en weinig schaduw kan zwaar zijn. Huur alleen materiaal dat technisch goed voelt en draag geen losse tas die in het wiel kan komen. Een tuktuk met chauffeur bespaart navigatie. Spreek vóór vertrek de tempels, totale duur, wachttijd, prijs en eindlocatie af.
 
-Een georganiseerde dagtour is logisch wanneer historische uitleg en deur-tot-deurvervoer belangrijker zijn dan vrijheid. Vergelijk dan geen lokprijs, maar de werkelijke route: groepsgrootte, inbegrepen entrees, lunch, ophaalgebied en terugkomst. Bekijk ook de bredere vergelijking van [dagtrips vanuit Bangkok](/nl/best-day-trips-from-bangkok/) voordat je de keuze vastlegt.
+Een georganiseerde dagtour is logisch wanneer historische uitleg en deur-tot-deurvervoer belangrijker zijn dan vrijheid. Vergelijk dan geen lokprijs, maar de werkelijke route: groepsgrootte, inbegrepen entrees, lunch, ophaalgebied en terugkomst. Bekijk ook de bredere vergelijking van [dagtrips vanuit Bangkok](/nl/city/ayutthaya/) voordat je de keuze vastlegt.
 
 ## Respect en hitte bepalen het tempo
 

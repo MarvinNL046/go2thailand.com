@@ -19,7 +19,7 @@
     { "kind": "checklist", "id": "check", "title": "Controleer vóór reserveren", "items": ["Actuele opening en minimumleeftijd", "Binnen- of buitenplek", "Regen- en windbeleid", "Dresscode", "Tafelduur en annuleringsvoorwaarden", "Minimum spend en inbegrepen onderdelen", "Belasting en servicekosten", "Veilige terugreis"] },
     { "kind": "callout", "id": "leeftijd", "tone": "cream", "title": "Alcohol is vanaf 20 jaar", "description": "Thailand kent een wettelijke minimumleeftijd van 20 jaar. Neem identificatie mee; een venue kan aanvullend eigen toegangsbeleid voeren." },
     { "kind": "related", "id": "verder", "title": "Vergelijk je avond", "items": [
-      { "title": "Bangkok nightlife", "description": "Kies ook uit cocktailbars, live muziek en avondwijken zonder rooftopfocus.", "href": "/nl/city/bangkok/nightlife/" },
+      { "title": "Bangkok nightlife", "description": "Kies ook uit cocktailbars, live muziek en avondwijken zonder rooftopfocus.", "href": "/nl/nightlife/" },
       { "title": "Waar verblijven in Bangkok", "description": "Voorkom een lange terugrit door eerst je wijk te kiezen.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
       { "title": "Bangkok openbaar vervoer", "description": "Plan de heenrit en een realistisch alternatief voor terug.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }
     ] },

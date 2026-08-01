@@ -384,7 +384,7 @@ export function JoddFairsRatchadaGuide() {
               <SectionHeading
                 eyebrow="Kies met je ogen én je hoofd"
                 title="Vier filters voor je eerste hap"
-                description={<>Het marktaanbod verandert. Een statische top tien raakt daarom sneller verouderd dan een goede keuzemethode. Gebruik deze vier checks bij iedere kraam, ook als een gerecht op social media beroemd is. Voor de bredere eetcontext helpt onze <Link href="/thailand-street-food/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">streetfoodgids voor Thailand</Link> je kraam, foodcourt en restaurant uit elkaar te houden.</>}
+                description={<>Het marktaanbod verandert. Een statische top tien raakt daarom sneller verouderd dan een goede keuzemethode. Gebruik deze vier checks bij iedere kraam, ook als een gerecht op social media beroemd is. Voor de bredere eetcontext helpt onze <Link href="/food/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">streetfoodgids voor Thailand</Link> je kraam, foodcourt en restaurant uit elkaar te houden.</>}
               />
               <div className="mt-8 grid gap-4 sm:grid-cols-2">
                 {[
@@ -449,7 +449,7 @@ export function JoddFairsRatchadaGuide() {
             <div className="mx-auto max-w-3xl text-center">
               <p className="eyebrow">Een eerlijker antwoord dan “must visit”</p>
               <h2 className="font-display text-[3.4rem] font-semibold leading-[0.9] tracking-[-0.04em] text-jade sm:text-[4.2rem]">Is Jodd Fairs<br />de moeite waard?</h2>
-              <p className="mx-auto mt-6 max-w-2xl text-sm font-medium leading-7 text-charcoal/68">De markt is niet voor iedere Bangkok-reiziger de beste keuze. Hij is sterk wanneer bereikbaarheid, variatie en avondsfeer zwaar wegen. Voor rust, vintage of een uitgesproken buurtgevoel zijn er betere kandidaten; vergelijk dan onze <Link href="/blog/best-night-markets-bangkok-2026/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">beste nachtmarkten van Bangkok</Link> op sfeer en ligging.</p>
+              <p className="mx-auto mt-6 max-w-2xl text-sm font-medium leading-7 text-charcoal/68">De markt is niet voor iedere Bangkok-reiziger de beste keuze. Hij is sterk wanneer bereikbaarheid, variatie en avondsfeer zwaar wegen. Voor rust, vintage of een uitgesproken buurtgevoel zijn er betere kandidaten; vergelijk dan onze <Link href="/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">beste nachtmarkten van Bangkok</Link> op sfeer en ligging.</p>
             </div>
             <div className="mt-10 grid gap-5 lg:grid-cols-2">
               <article className="rounded-[26px] border border-jade/12 bg-jade p-7 text-white sm:p-9">
@@ -548,7 +548,7 @@ export function JoddFairsRatchadaGuide() {
           eyebrow="Verder door Bangkok"
           title="Maak van één markt een goede avond"
           guides={[
-            { title: 'Bangkok nachtmarkten', description: 'Vergelijk de belangrijkste avondmarkten op sfeer, ligging en reisintentie.', href: '/blog/best-night-markets-bangkok-2026/', image: HERO_IMAGE, imageAlt: 'Verlichte nachtmarkt in Bangkok' },
+            { title: 'Bangkok nachtmarkten', description: 'Vergelijk de belangrijkste avondmarkten op sfeer, ligging en reisintentie.', href: '/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/', image: HERO_IMAGE, imageAlt: 'Verlichte nachtmarkt in Bangkok' },
             { title: 'Streetfood in Bangkok', description: 'Kies wijken, gerechten en foodroutes zonder alle foodvragen op één markt te stapelen.', href: '/blog/beste-streetfood-bangkok-wijken-plekken-proeven/', image: '/images/redesign/jodd-fairs-ratchada-food-choice.webp', imageAlt: 'Kiezen bij een Bangkokse streetfoodkraam' },
             { title: 'MRT en BTS uitgelegd', description: 'Plan overstappen, betaalwijze en terugreis door Bangkok met minder onzekerheid.', href: '/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/', image: '/images/redesign/jodd-fairs-ratchada-arrival.webp', imageAlt: 'Aankomst per MRT bij een Bangkokse avondmarkt' },
           ]}

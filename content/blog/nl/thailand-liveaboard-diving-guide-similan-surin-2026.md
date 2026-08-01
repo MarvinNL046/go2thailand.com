@@ -81,4 +81,4 @@ Raak koraal en dieren niet aan, houd controle over vinnen en uitrusting en volg 
 
 Noteer vóór vertrek het noodnummer van je verzekeraar en controleer of recreatief duiken, de geplande diepte en evacuatie vanaf een afgelegen locatie onder de polis vallen. Een gewone reisverzekering kan duikactiviteiten beperken. Laat het vaarschema bij een contactpersoon achter en neem paspoort- en polisgegevens ook offline mee.
 
-Vergelijk in onze gids de [beste duik- en snorkelregio's](/nl/best-diving-snorkeling-in-thailand/), lees meer over de [Similan-eilanden](/nl/islands/similan-islands/) en gebruik [Khao Lak](/nl/city/khao-lak/) als mogelijke vertrekbasis.
+Vergelijk in onze gids de [beste duik- en snorkelregio's](/nl/travel-guides/diving-snorkeling-thailand/), lees meer over de [Similan-eilanden](/nl/blog/similan-islands-diving-snorkelling-new-rules-2026/) en gebruik [Phuket](/nl/city/phuket/) als mogelijke vertrekbasis.

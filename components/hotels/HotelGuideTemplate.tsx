@@ -411,7 +411,7 @@ export default function HotelGuideTemplate({ data }: HotelGuideTemplateProps) {
           </section>
         )}
 
-        {data.profileLinks && data.profileLinks.length > 0 && (
+        {data.showProfileLinks !== false && data.profileLinks && data.profileLinks.length > 0 && (
           <section className="section-divider-bottom bg-tonal py-12 lg:py-16">
             <div className="container-custom grid gap-7 lg:grid-cols-[0.7fr_1.3fr] lg:items-center">
               <div><p className="eyebrow">{labels.profilesEyebrow}</p><h2 className="heading-redesign">{labels.profilesTitle}</h2><p className="mt-4 max-w-lg text-xs font-medium leading-6 text-charcoal/60">{labels.profilesDescription}</p></div>

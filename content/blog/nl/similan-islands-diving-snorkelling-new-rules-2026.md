@@ -71,6 +71,6 @@ Voor duikers horen brevetniveau, recente ervaring en verzekering in de vergelijk
 
 Gebruik Khao Lak of een andere bevestigde vertrekbasis en controleer het exacte pierpunt. Plan marge vóór en na de bootdag. Zeegang en parkbesluiten kunnen het programma veranderen; een verkochte route is geen uitvoeringsgarantie.
 
-Vergelijk een dagtocht met een meerdaagse boot in onze [liveaboardgids voor Similan en Surin](/nl/blog/thailand-liveaboard-diving-guide-similan-surin-2026/). De brede [duik- en snorkelgids](/nl/best-diving-snorkeling-in-thailand/) helpt bepalen of de Similan-eilanden überhaupt bij je ervaring passen.
+Vergelijk een dagtocht met een meerdaagse boot in onze [liveaboardgids voor Similan en Surin](/nl/blog/thailand-liveaboard-diving-guide-similan-surin-2026/). De brede [duik- en snorkelgids](/nl/travel-guides/diving-snorkeling-thailand/) helpt bepalen of de Similan-eilanden überhaupt bij je ervaring passen.
 
 De kern is eenvoudig: controleer eerst of het park officieel toegankelijk is, daarna of jij aan de regels voldoet en pas dan welke operator de voorwaarden goed uitvoert.

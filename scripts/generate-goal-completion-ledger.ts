@@ -96,6 +96,7 @@ const nlFinalOwnerBatch = new Set([
 function routeFamilyKey(row: InventoryRoute): string {
   if (nlFinalOwnerBatch.has(row.path)) return 'nl:final-owner-batch';
   if (nlKohTaoFamily.has(row.path)) return 'nl:island:koh-tao';
+  if (row.path === '/nl/travel-guides/vpn-thailand/') return 'nl:digital-safety-guide';
   if (row.locale === 'nl' && row.template_owner === 'practical' && row.path.startsWith('/nl/visa/')) return 'nl:practical:visa';
   if (row.template_owner === 'destination-subpillar') {
     const suffix = row.path.split('/').filter(Boolean).at(-1) || 'unknown';

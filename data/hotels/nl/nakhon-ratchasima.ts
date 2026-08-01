@@ -223,6 +223,7 @@ export const nakhonRatchasimaHotelGuide: HotelGuideData = {
       description: "Plan Phimai, Pak Chong, Khao Yai en Wang Nam Khiao als eigen routes met actuele toegang, vervoer en terugkeer.",
     },
   ],
+  showProfileLinks: false,
   profileLinks: [
     { title: "Complete reisgids voor Korat", href: "/nl/guides/travel-guide/nakhon-ratchasima/" },
     { title: "Thao Suranari-monument", href: "/nl/city/nakhon-ratchasima/attractions/thao-suranaree-monument/" },

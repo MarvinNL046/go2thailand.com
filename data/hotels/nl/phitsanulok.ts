@@ -263,6 +263,7 @@ export const phitsanulokHotelGuide: HotelGuideData = {
         "Sukhothai en de nationale parken liggen buiten de stad. Bevestig actuele toegang en vervoer, of kies daar een afzonderlijke overnachting.",
     },
   ],
+  showProfileLinks: false,
   profileLinks: [
     { title: "Phitsanulok reisgids", href: "/nl/city/phitsanulok/" },
     {

@@ -110,7 +110,7 @@ export const phuketAttractionsGuide: AttractionGuideData = {
       description: 'Phi Phi levert iconische baaien en hoge kalksteenwanden, maar vraagt een langere en vaak drukke bootdag. Kies deze excursie als het landschap hoog op je wensenlijst staat.',
       bestFor: 'Iconische eilanden en snorkelstops',
       tradeoff: 'Boottype, groepsgrootte en vertrekpunt bepalen veel. Stapel deze niet automatisch met nóg een grote eilandtour.',
-      href: '/phi-phi-island-tour/',
+      href: '/phuket-tours/phi-phi-day-trip/',
     },
     {
       slug: 'ethische-olifantenopvang',

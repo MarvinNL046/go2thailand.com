@@ -246,6 +246,7 @@ export const sukhothaiHotelGuide: HotelGuideData = {
         "Rond Loy Krathong en Thaise feestdagen kunnen kamers en wegen sneller vol raken. Vergelijk vroeg en controleer de actuele voorwaarden.",
     },
   ],
+  showProfileLinks: false,
   profileLinks: [
     {
       title: "Complete reisgids voor Sukhothai",
@@ -321,7 +322,7 @@ export const sukhothaiHotelGuide: HotelGuideData = {
       title: "Waar verblijven in Sukhothai",
       description:
         "Vergelijk de complete geografie van Oud-Sukhothai, de moderne stad en de noordroute.",
-      href: "/nl/where-to-stay/sukhothai/",
+      href: "/nl/city/sukhothai/",
       image: "/images/redesign/sukhothai-cycling-central.webp",
     },
     {

@@ -182,6 +182,7 @@ export const khonKaenHotelGuide: HotelGuideData = {
     { title: "Bevestig laat vervoer", description: "Vraag hotel of erkende vervoerder naar actuele opties bij een late vlucht, trein of evenement." },
     { title: "Maak provincie-uitstappen apart", description: "Phu Wiang en Chonnabot zijn geen stadswandelingen; plan voertuig, duur en terugkeer los van je hotelkeuze." },
   ],
+  showProfileLinks: false,
   profileLinks: [
     { title: "Complete reisgids voor Khon Kaen", href: "/nl/guides/travel-guide/khon-kaen/" },
     { title: "Pullman Khon Kaen Raja Orchid", href: "/nl/hotel/pullman-khon-kaen-raja-orchid/" },

@@ -549,7 +549,7 @@ export default function PhuketRomanceVillaGuideNl({
           />
         ))}
       </SEOHead>
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/phuket-romance-villa-hero-v2.webp"
           imageAlt="Rustige luxe villa met infinity pool aan de kust van Phuket"
@@ -795,6 +795,22 @@ export default function PhuketRomanceVillaGuideNl({
             />
           </div>
         </section>
+        {owner.endsWith("-hub") ? (
+          <section className="section-divider-bottom py-14 lg:py-20">
+            <div className="container-custom">
+              <SectionHeading eyebrow="Volledige keuzefamilie" title="Vergelijk het concrete verblijf- of locatietype" description="De woorden villa, pakket en beachfront zeggen pas iets wanneer ligging, exclusiviteit, inclusies en voorwaarden ook zijn gecontroleerd." />
+              <div className="mt-8 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+                {(Object.entries(CONFIG) as [PhuketRomanceVillaOwner, Config][]).filter(([key, item]) => item.family === c.family && key !== owner).map(([key, item], index) => (
+                  <Link key={key} href={item.path} className="group flex min-h-28 items-center gap-4 rounded-2xl border border-jade/10 bg-white p-5 shadow-editorial-card transition hover:-translate-y-0.5 hover:border-saffron/45">
+                    <span className="grid h-10 w-10 shrink-0 place-items-center rounded-xl bg-tonal text-xs font-extrabold text-saffron-dark">{String(index + 1).padStart(2, "0")}</span>
+                    <span><strong className="block font-display text-xl font-semibold leading-none text-jade">{item.title.replace(/\.$/, "")}</strong><small className="mt-2 block text-[10px] font-bold leading-4 text-charcoal/52">{item.eyebrow}</small></span>
+                    <ArrowRight size={14} className="ml-auto shrink-0 text-saffron-dark transition group-hover:translate-x-1" aria-hidden="true" />
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </section>
+        ) : null}
         <FaqSplitSection
           id="vragen"
           eyebrow="Voor je vastlegt"
@@ -819,7 +835,7 @@ export default function PhuketRomanceVillaGuideNl({
                   <ArrowRight size={15} className="text-saffron" />
                 </Link>
                 <Link
-                  href="/where-to-stay/phuket/"
+                  href="/best-hotels/phuket/"
                   className="inline-flex items-center gap-2 rounded-lg border border-white/20 bg-white/10 px-4 py-3 text-sm font-semibold"
                 >
                   Waar verblijven?
@@ -850,7 +866,7 @@ export default function PhuketRomanceVillaGuideNl({
             },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

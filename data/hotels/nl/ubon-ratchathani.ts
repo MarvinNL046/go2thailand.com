@@ -224,7 +224,7 @@ export const ubonRatchathaniHotelGuide: HotelGuideData = {
     },
   ],
   profileLinks: [
-    { title: "Complete reisgids voor Ubon Ratchathani", href: "/nl/guides/travel-guide/ubon-ratchathani/" },
+    { title: "Complete reisgids voor Ubon Ratchathani", href: "/nl/city/ubon-ratchathani/" },
     { title: "Bezienswaardigheden in Ubon Ratchathani", href: "/nl/city/ubon-ratchathani/attractions/" },
     { title: "Wat eten in Ubon Ratchathani", href: "/nl/city/ubon-ratchathani/food/" },
   ],

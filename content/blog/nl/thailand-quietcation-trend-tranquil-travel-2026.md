@@ -36,7 +36,7 @@ Plan maximaal één hoofdactiviteit per dag en laat minstens een paar dagdelen e
 
 ## Drie vormen die in Thailand werken
 
-**Een noordelijke natuurbase:** verblijf buiten het drukste centrum en combineer korte wandelingen, een lokale markt en vrije middagen. [Nan](/nl/city/nan/) is een mogelijke start voor verder onderzoek.
+**Een noordelijke natuurbase:** verblijf buiten het drukste centrum en combineer korte wandelingen, een lokale markt en vrije middagen. Gebruik [Noord-Thailand](/nl/region/northern/) als start voor verder onderzoek naar een rustige basis, waaronder Nan.
 
 **Een eiland met één basis:** kies één baai buiten pier- en uitgaanszones. Controleer getij, wegtoegang en recente geluidsreviews. Een afgelegen ligging kan anders juist extra taxiritten of logistieke stress opleveren.
 

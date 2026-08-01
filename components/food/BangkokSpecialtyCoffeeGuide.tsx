@@ -390,7 +390,7 @@ export function BangkokSpecialtyCoffeeGuide() {
           title="Maak van koffie een Bangkok-dag"
           guides={[
             { title: 'BTS & MRT in Bangkok', description: 'Plan de lange as van je route en vermijd onnodige taxiritten tussen wijken.', href: '/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/', image: '/images/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026.webp' },
-            { title: 'Bangkok streetfood', description: 'Koppel je ochtendkoffie aan een maaltijd en gebruik dezelfde nuchtere selectiechecks.', href: '/thailand-street-food/', image: '/images/blog/thai-street-food-guide-2026.webp' },
+            { title: 'Bangkok streetfood', description: 'Koppel je ochtendkoffie aan een maaltijd en gebruik dezelfde nuchtere selectiechecks.', href: '/food/', image: '/images/blog/thai-street-food-guide-2026.webp' },
             { title: 'Lumpini Hawker Centre', description: 'Combineer park, ontbijt of vroege avond met een route die op Gate 5 eindigt.', href: '/blog/bangkok-lumpini-hawker-centre-street-food-2026/', image: '/images/redesign/lumpini-hawker-hero.webp' },
           ]}
         />

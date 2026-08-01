@@ -190,7 +190,7 @@ export default function PhuketFlightsGuideNl({
         ))}
       </SEOHead>
 
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/phuket-airport-arrival-hero.webp"
           imageAlt="Reizigers arriveren met bagage in de lichte aankomsthal van Phuket Airport"
@@ -584,7 +584,7 @@ export default function PhuketFlightsGuideNl({
             },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

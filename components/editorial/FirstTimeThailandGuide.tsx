@@ -104,8 +104,8 @@ const readinessChecks = [
   {
     title: 'Verbinding',
     text: 'Regel data vóór aankomst of op de luchthaven, zodat route, Grab en hotelcontact direct werken.',
-    href: '/esim/',
-    label: 'Bekijk de eSIM-gids',
+    href: '/travel-guides/sim-card-thailand/',
+    label: 'Bekijk de SIM- en eSIM-gids',
     icon: Smartphone,
   },
 ];

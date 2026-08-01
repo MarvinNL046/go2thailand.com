@@ -84,7 +84,7 @@ Wil je vanuit Bangkok vooral een watervaldag plannen, vergelijk Khao Yai dan met
 
 In Khao Yai leven onder meer olifanten, gibbons, makaken, neushoornvogels en herten. Dat betekent niet dat je deze dieren tijdens één bezoek zeker ziet. Tijdstip, seizoen, stilte en toeval spelen allemaal mee.
 
-Houd afstand, voer geen dieren en probeer ze niet naar de weg of je camera te lokken. Een ethische wildlifedag draait om observeren zonder gedrag te sturen. Onze gids over [verantwoord omgaan met olifanten in Thailand](/nl/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) helpt om claims van commerciële aanbieders kritischer te beoordelen.
+Houd afstand, voer geen dieren en probeer ze niet naar de weg of je camera te lokken. Een ethische wildlifedag draait om observeren zonder gedrag te sturen. Onze gids over [verantwoord omgaan met olifanten in Thailand](/nl/best-elephant-sanctuaries-in-thailand/) helpt om claims van commerciële aanbieders kritischer te beoordelen.
 
 ## Veilig rijden bij wilde olifanten
 
@@ -98,7 +98,7 @@ Ook bij andere dieren geldt: langzaam rijden, geen voedsel aanbieden en afval me
 
 Khao Yai kan het hele jaar worden bezocht, maar de ervaring verandert met het seizoen. In nattere perioden is het landschap groener en voeren watervallen meer water, terwijl paden glad kunnen zijn en bloedzuigers vaker voorkomen. In drogere maanden kunnen sommige routes eenvoudiger lopen, maar ook dan zijn regen en koeler bergweer mogelijk.
 
-Een algemene seizoensgids vervangt de controle op de dag zelf niet. Bekijk de actuele parkmededelingen en vraag bij aankomst naar gesloten trajecten. Lees daarnaast onze [tips voor het regenseizoen in Thailand](/nl/blog/thailand-rainy-season-travel-tips-2026/) als je in een natte periode reist.
+Een algemene seizoensgids vervangt de controle op de dag zelf niet. Bekijk de actuele parkmededelingen en vraag bij aankomst naar gesloten trajecten. Lees daarnaast onze [tips voor het regenseizoen in Thailand](/nl/weather/) als je in een natte periode reist.
 
 ## Wat neem je mee?
 

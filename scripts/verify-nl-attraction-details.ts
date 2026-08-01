@@ -24,7 +24,7 @@ const configs: Config[] = [
   {
     route: '/nl/city/koh-samui/attractions/wat-plai-laem/', place: 'Wat Plai Laem', minWords: 1300,
     rankingKeyword: 'koh samui wat plai laem', rankingPosition: '31', banner: 'wat-plai-laem-reflection-banner.webp',
-    requiredLinks: ['/nl/islands/koh-samui/', '/nl/city/koh-samui/attractions/', '/nl/best-hotels/koh-samui/'],
+    requiredLinks: ['/nl/city/koh-samui/', '/nl/city/koh-samui/attractions/', '/nl/best-hotels/koh-samui/'],
     markers: ['Wat zie je bij Wat Plai Laem?', 'Zie Guanyin als betekenis', 'Bouw een noordoostelijke halve dag', 'Respect is onderdeel van de ervaring'],
   },
   {

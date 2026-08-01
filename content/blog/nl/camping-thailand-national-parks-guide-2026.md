@@ -22,7 +22,7 @@ Kamperen in een Thais nationaal park is eenvoudig wanneer je de officiële route
 
 ## Drie logische startpunten
 
-[Khao Yai](/nl/city/nakhon-ratchasima/attractions/khao-yai-national-park/) combineert bos en grasland en is een praktische natuuruitstap vanuit Centraal-Thailand. [Doi Inthanon](/nl/city/chiang-mai/attractions/doi-inthanon/) ligt hoger en kan ’s nachts verrassend koel zijn. [Erawan](/nl/city/kanchanaburi/attractions/erawan-national-park/) is goed te combineren met Kanchanaburi, maar controleer altijd de park- en watervalstatus.
+[Khao Yai](/nl/blog/khao-yai-national-park-day-trip-guide-2026/) combineert bos en grasland en is een praktische natuuruitstap vanuit Centraal-Thailand. [Doi Inthanon](/nl/blog/doi-inthanon-national-park-thailand-highest-peak/) ligt hoger en kan ’s nachts verrassend koel zijn. [Erawan](/nl/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/) is goed te combineren met Kanchanaburi, maar controleer altijd de park- en watervalstatus.
 
 ## Reserveren en huren
 

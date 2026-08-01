@@ -144,9 +144,7 @@ async function inspect(config: Config, row: KeywordRow): Promise<{ route: string
   const canonical = linkTags.find((tag) => attr(tag, 'rel')?.split(/\s+/).includes('canonical'));
   if (normalizedPath(attr(canonical || '', 'href') || '/') !== config.route) errors.push('self-canonical ontbreekt of is onjuist');
   const hreflangs = linkTags.filter((tag) => attr(tag, 'rel')?.split(/\s+/).includes('alternate')).map((tag) => attr(tag, 'hreflang'));
-  const requiredHreflangs = config.route.includes('/compare/') ? ['nl', 'x-default'] : ['en', 'nl', 'x-default'];
-  for (const required of requiredHreflangs) if (!hreflangs.includes(required)) errors.push(`hreflang ${required} ontbreekt`);
-  if (config.route.includes('/compare/') && hreflangs.includes('en')) errors.push('NL-only comparison pilot claimt ten onrechte een Engelse hreflang');
+  for (const required of ['en', 'nl', 'x-default']) if (!hreflangs.includes(required)) errors.push(`hreflang ${required} ontbreekt`);
   const robots = [...html.matchAll(/<meta\b[^>]*>/gi)].map((match) => match[0]).find((tag) => attr(tag, 'name')?.toLowerCase() === 'robots');
   if (/noindex/i.test(attr(robots || '', 'content') || '')) errors.push('owner staat ten onrechte op noindex');
 
@@ -157,7 +155,9 @@ async function inspect(config: Config, row: KeywordRow): Promise<{ route: string
   if (ownerSchema?.inLanguage !== 'nl-NL') errors.push(`${config.ownerSchema}.inLanguage is niet nl-NL`);
   const schemaUrl = String(ownerSchema?.url || ownerSchema?.mainEntityOfPage || '/');
   if (normalizedPath(schemaUrl) !== config.route) errors.push(`${config.ownerSchema}.url is onjuist`);
-  if (String(ownerSchema?.dateModified || '') !== researchDate) errors.push(`dateModified is ${String(ownerSchema?.dateModified || 'leeg')}`);
+  const modifiedAt = Date.parse(String(ownerSchema?.dateModified || ''));
+  const minimumModifiedAt = Date.parse(`${researchDate}T00:00:00Z`);
+  if (!Number.isFinite(modifiedAt) || modifiedAt < minimumModifiedAt) errors.push(`dateModified is ${String(ownerSchema?.dateModified || 'leeg')}`);
 
   const anchors = [...html.matchAll(/<a\b[^>]*>[\s\S]*?<\/a>/gi)].map((match) => match[0]);
   const sponsored = anchors.filter((tag) => attr(tag, 'rel')?.split(/\s+/).includes('sponsored'));

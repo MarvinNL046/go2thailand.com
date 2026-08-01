@@ -313,7 +313,7 @@ export default function PhuketYachtGuideNl({
           />
         ))}
       </SEOHead>
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={c.image}
           imageAlt={c.alt}
@@ -595,7 +595,7 @@ export default function PhuketYachtGuideNl({
           ]}
           method="Zes zichtbare Google-NL SERP's zijn gecontroleerd. Er verscheen geen stabiel PAA-blok en DataForSEO leverde tijdelijk geen bruikbaar rapport. FAQ's zijn daarom gebaseerd op zichtbare zoekmodificaties en primaire veiligheids- en parkbronnen; actuele commerciële feiten blijven bij de aanbieder."
         />
-      </main>
+      </div>
     </>
   );
 }

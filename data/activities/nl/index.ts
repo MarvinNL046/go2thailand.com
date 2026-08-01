@@ -19,7 +19,7 @@ export const thailandExcursionsNl = {
       check: 'Parkkosten, type boot, lunch en ophaalgebied',
       image: '/images/redesign/experience-snorkelling.webp',
       imageAlt: 'Snorkelaar en zeeschildpad in helder Thais zeewater',
-      href: '/best-diving-snorkeling-in-thailand/',
+      href: '/travel-guides/diving-snorkeling-thailand/',
     },
     {
       id: 'eten',

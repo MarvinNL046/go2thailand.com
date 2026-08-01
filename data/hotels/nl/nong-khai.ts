@@ -177,6 +177,7 @@ export const nongKhaiHotelGuide: HotelGuideData = {
     { title: "Bevestig grensvervoer", description: "Een hotel bij de brug garandeert geen geldig document, grensbus of doorgaand ticket." },
     { title: "Boek evenementen bewust", description: "Rond Ok Phansa en lokale festivals veranderen vraag en routes; controleer data en voorwaarden per jaar." },
   ],
+  showProfileLinks: false,
   profileLinks: [
     { title: "Complete reisgids voor Nong Khai", href: "/nl/guides/travel-guide/nong-khai/" },
     { title: "Amanta Hotel Nongkhai", href: "/nl/hotel/amanta-hotel-nongkhai/" },

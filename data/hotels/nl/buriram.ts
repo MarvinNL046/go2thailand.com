@@ -3,7 +3,7 @@ import type { HotelGuideData } from "../types";
 export const buriramHotelGuide: HotelGuideData = {
   citySlug: "buriram",
   cityName: "Buriram",
-  parentGuideHref: "/nl/city/buriram/",
+  parentGuideHref: "/nl/city/",
   locale: "nl",
   pageTitle: "Waar verblijven in Buriram? 8 hotels & 5 bases",
   pageDescription:
@@ -267,6 +267,7 @@ export const buriramHotelGuide: HotelGuideData = {
         "Vergelijk gasten, bedden, ontbijt, belastingen, parkeren, betaalmoment en annulering op exact dezelfde data.",
     },
   ],
+  showProfileLinks: false,
   profileLinks: [
     {
       title: "Amari Buriram United",
@@ -328,21 +329,21 @@ export const buriramHotelGuide: HotelGuideData = {
       title: "Buriram reisgids",
       description:
         "Plan stad, sport, Khao Kradong en het zuidelijke Khmer-erfgoed als afzonderlijke routeblokken.",
-      href: "/nl/guides/travel-guide/buriram/",
+      href: "/nl/city/",
       image: "/images/redesign/buriram-hotel-hero.webp",
     },
     {
       title: "Bezienswaardigheden in Buriram",
       description:
         "Vergelijk Chang Arena, het circuit, Phanom Rung en Muang Tam op kaart en dagritme.",
-      href: "/nl/city/buriram/attractions/",
+      href: "/nl/city/",
       image: "/images/redesign/buriram-sport-city-hotel.webp",
     },
     {
       title: "Buriram bestemmingsoverzicht",
       description:
         "Kies de juiste reisduur en verbind de provinciehoofdstad met Nang Rong of Prakhon Chai.",
-      href: "/nl/city/buriram/",
+      href: "/nl/city/",
       image: "/images/redesign/buriram-nang-rong-hotel.webp",
     },
   ],

@@ -248,7 +248,7 @@ export default function PhuketCarRentalGuideNl({
           />
         ))}
       </SEOHead>
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
         image="/images/redesign/phuket-car-rental-coastal-road-v2.webp"
           imageAlt="Een huurauto op een tropische kustweg op Phuket"
@@ -603,7 +603,7 @@ export default function PhuketCarRentalGuideNl({
           ]}
           method="Vier Nederlandse SERP's zijn zichtbaar gecontroleerd. DataForSEO leverde tijdelijk geen bruikbaar rapport. Vaste prijzen, borgbedragen, boetes, openingstijden en vlootclaims zijn daarom niet als evergreen feiten overgenomen; de aanbieder blijft bron voor de actuele boeking."
         />
-      </main>
+      </div>
     </>
   );
 }

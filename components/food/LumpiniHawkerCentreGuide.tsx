@@ -305,7 +305,7 @@ export function LumpiniHawkerCentreGuide() {
               <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-jade/94 via-jade/50 to-transparent p-7 pt-32 text-white"><p className="eyebrow !text-saffron-light">Vier richtingen, geen must-eatlijst</p><h2 className="max-w-xl font-display text-[3rem] font-semibold leading-[0.9] tracking-[-0.04em]">Kies op bereiding, portie en moment.</h2></div>
             </div>
             <div>
-              <SectionHeading eyebrow="Scan voordat je bestelt" title="Een kraam is pas interessant als hij jouw vraag oplost" description={<>Voor gerecht- en ingrediëntcontext lees je onze <InlineLink href="/thailand-street-food/">Thaise streetfoodgids</InlineLink>. Hier draait het om kiezen binnen een venue waar het aanbod per shift roteert.</>} />
+              <SectionHeading eyebrow="Scan voordat je bestelt" title="Een kraam is pas interessant als hij jouw vraag oplost" description={<>Voor gerecht- en ingrediëntcontext lees je onze <InlineLink href="/food/">Thaise streetfoodgids</InlineLink>. Hier draait het om kiezen binnen een venue waar het aanbod per shift roteert.</>} />
               <div className="mt-8 space-y-4">
                 {[
                   [Coffee, 'Ontbijt & zacht', 'Jok, eieren, sojadrank of een eenvoudige rijstkeuze passen bij een vroege parkroutine. Vraag wat nú vers wordt geserveerd.'],
@@ -360,7 +360,7 @@ export function LumpiniHawkerCentreGuide() {
         <section id="vergelijken" className="section-divider-bottom scroll-mt-24 bg-tonal py-16 lg:py-24">
           <div className="container-custom">
             <div className="grid gap-10 lg:grid-cols-[0.62fr_1.38fr] lg:items-end">
-              <SectionHeading eyebrow="Kies de setting" title="Wanneer Lumpini wel — en wanneer niet" description={<>Wil je juist avondmarkten met winkelen en meer omwegen, vergelijk dan onze <InlineLink href="/blog/best-night-markets-bangkok-2026/">Bangkokse nachtmarkten</InlineLink>. Lumpini wint vooral als park en eten samen je dag vereenvoudigen.</>} />
+              <SectionHeading eyebrow="Kies de setting" title="Wanneer Lumpini wel — en wanneer niet" description={<>Wil je juist avondmarkten met winkelen en meer omwegen, vergelijk dan onze <InlineLink href="/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/">Bangkokse nachtmarkten</InlineLink>. Lumpini wint vooral als park en eten samen je dag vereenvoudigen.</>} />
               <p className="max-w-3xl text-sm font-medium leading-7 text-charcoal/66">Een georganiseerd paviljoen is niet automatisch veiliger, authentieker of beter dan iedere losse kraam. Het biedt gezamenlijke infrastructuur en zitruimte. De uiteindelijke keuze blijft afhankelijk van bereiding, omloop, uitleg, allergenen en wat die shift daadwerkelijk open is.</p>
             </div>
             <div className="mt-10 overflow-hidden rounded-[26px] border border-jade/10 bg-white shadow-editorial-card">
@@ -401,9 +401,9 @@ export function LumpiniHawkerCentreGuide() {
           eyebrow="Verder eten in Bangkok"
           title="Van één venue naar de juiste volgende route"
           guides={[
-            { title: 'Bangkok streetfood', description: 'Leer bestellen, kiezen en allergenen bespreken buiten één hawker centre.', href: '/thailand-street-food/', image: '/images/blog/thai-street-food-guide-2026.webp' },
+            { title: 'Bangkok streetfood', description: 'Leer bestellen, kiezen en allergenen bespreken buiten één hawker centre.', href: '/food/', image: '/images/blog/thai-street-food-guide-2026.webp' },
             { title: 'BTS & MRT', description: 'Plan de laatste wandeling vanaf station en je terugrit na het park.', href: '/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/', image: '/images/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026.webp' },
-            { title: 'Nachtmarkten vergelijken', description: 'Kies een avondmarkt wanneer eten, winkelen en sfeer samen belangrijker zijn.', href: '/blog/best-night-markets-bangkok-2026/', image: '/images/blog/best-night-markets-bangkok-2026.webp' },
+            { title: 'Nachtmarkten vergelijken', description: 'Kies een avondmarkt wanneer eten, winkelen en sfeer samen belangrijker zijn.', href: '/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/', image: '/images/blog/best-night-markets-bangkok-2026.webp' },
           ]}
         />
 

@@ -458,7 +458,7 @@ export function ChatuchakFoodGuide() {
                 <SectionHeading
                   eyebrow="Kraam voor kraam"
                   title="Kijk, vraag, bestel — in die volgorde"
-                  description={<>Een lange rij bewijst populariteit, maar niet automatisch geschiktheid voor jouw smaak, budget of allergie. De bredere <Link href="/thailand-street-food/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">Thailand-streetfoodgids</Link> helpt je ook buiten Chatuchak kiezen tussen kraam, markt en foodcourt.</>}
+                  description={<>Een lange rij bewijst populariteit, maar niet automatisch geschiktheid voor jouw smaak, budget of allergie. De bredere <Link href="/food/" className="font-extrabold text-jade underline decoration-saffron/55 underline-offset-4 transition hover:text-saffron-dark">Thailand-streetfoodgids</Link> helpt je ook buiten Chatuchak kiezen tussen kraam, markt en foodcourt.</>}
                 />
                 <div className="mt-8 space-y-4">
                   {[

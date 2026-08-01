@@ -267,6 +267,7 @@ export const suratThaniHotelGuide: HotelGuideData = {
         "Laat herstelruimte tussen losse vlucht-, trein-, bus- en ferrytickets; een hotel in de buurt beschermt geen afzonderlijke boekingen.",
     },
   ],
+  showProfileLinks: false,
   profileLinks: [
     {
       title: "Complete reisgids Surat Thani",
@@ -352,7 +353,7 @@ export const suratThaniHotelGuide: HotelGuideData = {
       title: "Waar verblijven in Surat Thani?",
       description:
         "Vergelijk de volledige geografie van stad, station, luchthaven en Don Sak voordat je een hotel kiest.",
-      href: "/nl/where-to-stay/surat-thani/",
+      href: "/nl/city/surat-thani/",
       image: "/images/redesign/surat-thani-route-banner.webp",
     },
     {

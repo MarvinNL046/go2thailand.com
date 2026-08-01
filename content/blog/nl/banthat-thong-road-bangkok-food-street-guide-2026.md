@@ -48,4 +48,4 @@ Wil je een begeleide foodtour, vergelijk dan pas na je routekeuze actuele groeps
 
 ## Banthat Thong of Yaowarat?
 
-Banthat Thong past bij een compacte mix van moderne restaurants en desserts rond Chula. Yaowarat past beter wanneer je een historische Chinees-Thaise foodwijk en een grotere avondroute zoekt. Lees ook onze [Bangkok streetfoodgids](/nl/blog/bangkok-street-food-beginners/) voordat je kiest.
+Banthat Thong past bij een compacte mix van moderne restaurants en desserts rond Chula. Yaowarat past beter wanneer je een historische Chinees-Thaise foodwijk en een grotere avondroute zoekt. Lees ook onze [Bangkok streetfoodgids](/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/) voordat je kiest.

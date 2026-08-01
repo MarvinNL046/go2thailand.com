@@ -9,6 +9,10 @@ import { nlPatongCHotelDetailGuides } from '../data/hotel-details/nl-patong-c';
 
 const baseUrl = process.env.SITE_VERIFY_BASE_URL || 'http://localhost:3000';
 const projectRoot = resolve(__dirname, '..');
+// These routes are generated on demand in development. Keeping the verifier
+// bounded prevents concurrent fallback writes from corrupting Next's dev
+// prerender manifest on Windows; production runtime is audited separately.
+const concurrency = Math.max(1, Number(process.env.SITE_VERIFY_CONCURRENCY || 1));
 const expectedSlugs = [
   'grand-mercure-phuket-patong',
   'four-points-by-sheraton-phuket-patong-beach-resort',
@@ -96,7 +100,16 @@ async function verify(slug: string): Promise<string[]> {
 }
 
 async function main(): Promise<void> {
-  const results = await Promise.all(expectedSlugs.map(async (slug) => ({ slug, errors: await verify(slug) })));
+  const queue = [...expectedSlugs];
+  const results: Array<{ slug: string; errors: string[] }> = [];
+  const workers = Array.from({ length: Math.min(concurrency, queue.length) }, async () => {
+    while (queue.length) {
+      const slug = queue.shift();
+      if (slug) results.push({ slug, errors: await verify(slug) });
+    }
+  });
+  await Promise.all(workers);
+  results.sort((a, b) => expectedSlugs.indexOf(a.slug) - expectedSlugs.indexOf(b.slug));
   const failures = results.filter((result) => result.errors.length);
   console.log(`NL Phuket hotelprofielen: ${results.length - failures.length}/${results.length} groen op ${baseUrl}.`);
   for (const result of failures) {

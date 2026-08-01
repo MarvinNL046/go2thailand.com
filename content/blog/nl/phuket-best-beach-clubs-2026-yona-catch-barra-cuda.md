@@ -67,4 +67,4 @@ Alcohol, zon, zwemmen en verkeer zijn geen sterke combinatie. Wissel drinken af 
 
 Beachclubs liggen aan of boven publieke kustgebieden. Gedraag je respectvol tegenover personeel en andere strandgebruikers. Een duur bed geeft geen recht op de hele kustlijn.
 
-Voor een bredere eilandplanning lees je onze [Phuket-reisgids](/nl/blog/phuket-travel-guide-2026/) en [waar je op Phuket verblijft](/nl/blog/where-to-stay-phuket-beach-area-guide/). Controleer op de dag zelf altijd de officiële eventpagina, toegangseisen en je veilige terugroute.
+Voor een bredere eilandplanning lees je onze [Phuket-reisgids](/nl/blog/phuket-travel-guide-2026/) en [waar je op Phuket verblijft](/nl/best-hotels/phuket/). Controleer op de dag zelf altijd de officiële eventpagina, toegangseisen en je veilige terugroute.

@@ -36,7 +36,7 @@ Open eerst de actuele menukaart. Controleer aantal gangen, dieetmogelijkheden, d
 
 De special awards maken de lijst bruikbaarder. Ze laten je kiezen op service, tasting menu, design, wijnkaart, nieuw concept of prijs-kwaliteit. Wie voor een huwelijksreis reserveert, weegt sfeer en service mogelijk zwaarder. Een culinaire reiziger die regionale Thaise technieken wil begrijpen, kijkt eerder naar de Thaise categorie en de inhoud van het menu.
 
-Ook ‘beste Thai’ betekent niet automatisch dat de ervaring traditioneel of informeel is. Baan Tepa werkt in een verfijnde setting met een eigen visie. Voor alledaagse gerechten, markten en buurten gebruik je de [Bangkok streetfoodgids](/nl/blog/bangkok-street-food-beginners/); die heeft een andere zoekintentie en een ander budget.
+Ook ‘beste Thai’ betekent niet automatisch dat de ervaring traditioneel of informeel is. Baan Tepa werkt in een verfijnde setting met een eigen visie. Voor alledaagse gerechten, markten en buurten gebruik je de [Bangkok streetfoodgids](/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/); die heeft een andere zoekintentie en een ander budget.
 
 ## Reserveer met een realistische avondroute
 

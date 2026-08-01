@@ -110,7 +110,7 @@ export default function WhereToStayHubNl({ pages }: { pages: HubPage[] }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
         />
       </SEOHead>
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/phuket-hotels-hero.webp"
           imageAlt="Tropisch hotel en kustlandschap in Thailand"
@@ -323,7 +323,7 @@ export default function WhereToStayHubNl({ pages }: { pages: HubPage[] }) {
             },
           ]}
         />
-      </main>
+      </div>
     </>
   );
 }

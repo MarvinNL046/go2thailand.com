@@ -9,7 +9,7 @@ import { SectionHeading } from "../design/SectionHeading";
 const editorialDoors = [
   { title: "Bestemmingen kiezen", copy: "Van Bangkok en Chiang Mai tot kust en eilanden: begin bij de sfeer die bij je route past.", href: "/city/", image: "/images/redesign/bangkok-destination-hero.webp" },
   { title: "Thais eten begrijpen", copy: "Gebruik gerechten, regio's en bestelcontext om verder te kijken dan één virale foodvideo.", href: "/food/", image: "/images/redesign/thailand-food-hub-hero.webp" },
-  { title: "Activiteiten afwegen", copy: "Vergelijk wat je echt doet, welke voorwaarden gelden en wanneer een alternatief beter past.", href: "/things-to-do-in-thailand/", image: "/images/redesign/thailand-things-to-do-hero-v2.webp" },
+  { title: "Activiteiten afwegen", copy: "Vergelijk wat je echt doet, welke voorwaarden gelden en wanneer een alternatief beter past.", href: "/things-to-do-in-thailand/", image: "/images/redesign/experience-snorkelling.webp" },
 ];
 
 export default function NlSocialHub() {
@@ -75,4 +75,3 @@ export default function NlSocialHub() {
     </div>
   </>;
 }
-

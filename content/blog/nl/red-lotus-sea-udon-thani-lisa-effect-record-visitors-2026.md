@@ -34,7 +34,7 @@ Voor jouw bezoek is de praktische les eenvoudiger: de plek kan in het piekseizoe
 
 Officiële toeristische informatie plaatst de bloei in de koele maanden, grofweg van december tot vroeg in het jaar. De bloemen staan in de ochtend verder open en het licht is zachter. Dat betekent niet dat iedere ochtend hetzelfde beeld oplevert. Bewolking, waterstand, wind en temperatuur hebben invloed.
 
-Plan ten minste één nacht in of rond Udon Thani wanneer je het bezoek belangrijk vindt. Dan hoef je niet midden in de nacht vanuit een verre stad te rijden. Bekijk de [Udon Thani-gids](/nl/city/udon-thani/) voor een bredere route en de praktische [Red Lotus Sea-attractiepagina](/nl/city/udon-thani/attractions/red-lotus-sea/) voor de lokale owner.
+Plan ten minste één nacht in of rond Udon Thani wanneer je het bezoek belangrijk vindt. Dan hoef je niet midden in de nacht vanuit een verre stad te rijden. Bekijk de [Udon Thani-gids](/nl/city/udon-thani/) voor een bredere route en de praktische [Red Lotus Sea-attractiepagina](/nl/city/udon-thani/attractions/) voor de lokale owner.
 
 ## De bootcheck
 

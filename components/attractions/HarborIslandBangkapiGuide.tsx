@@ -392,7 +392,7 @@ export function HarborIslandBangkapiGuide() {
           eyebrow="Plan de rest van je gezinsdag"
           title="Bangkok vóór en na het waterpark"
           guides={[
-            { title: 'Bangkok met kinderen', description: 'Bouw tempo, hitte, eten en rustdagen rond activiteiten voor verschillende leeftijden.', href: '/blog/thailand-with-kids-family-travel-guide/', image: '/images/blog/thailand-with-kids-family-travel-guide.webp' },
+            { title: 'Bangkok met kinderen', description: 'Bouw tempo, hitte, eten en rustdagen rond activiteiten voor verschillende leeftijden.', href: '/travel-guides/thailand-with-kids/', image: '/images/blog/thailand-with-kids-family-travel-guide.webp' },
             { title: 'Bangkok OV uitgelegd', description: 'Kies de juiste overstap naar de Yellow Line en voorkom dat de route een taxidag wordt.', href: '/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/', image: '/images/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026.webp' },
             { title: 'Bangkok attracties', description: 'Vergelijk indoor, tempel, markt en gezinsactiviteit wanneer het weer of energieniveau verandert.', href: '/city/bangkok/attractions/', image: '/images/cities/bangkok/redesign/bangkok-attractions-hero.webp' },
           ]}

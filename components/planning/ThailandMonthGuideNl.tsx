@@ -155,7 +155,7 @@ export default function ThailandMonthGuideNl({ slug, previousMonth, nextMonth }:
   const activityHref = withPlacementSubId(KLOOK_GENERIC, subId, 'activities');
 
   return (
-    <main className="bg-canvas" data-premium-template="thailand-month-guide-nl" data-month-owner={slug}>
+    <div className="bg-canvas" data-premium-template="thailand-month-guide-nl" data-month-owner={slug}>
       <SEOHead title={guide.title} description={guide.description} ogImage={`https://go2-thailand.com${guide.hero}`}>
         {schemas(guide).map((schema, index) => (
           <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
@@ -332,7 +332,7 @@ export default function ThailandMonthGuideNl({ slug, previousMonth, nextMonth }:
         title="Van maandkeuze naar een concrete route"
         guides={[
           { title: 'Weer in Thailand', description: 'Vergelijk de seizoenen en de twee kustpatronen voordat je een regio vastzet.', href: '/weather/', image: '/images/redesign/thailand-weather-hub-hero.webp', imageAlt: 'Weerregio’s van Thailand' },
-          { title: 'Beste reistijd', description: 'Leg weer, drukte en reisstijl naast elkaar voor je definitieve maandkeuze.', href: '/thailand-index/best-time/', image: '/images/redesign/best-time-thailand-hero-v2.webp', imageAlt: 'Beste reistijd voor Thailand' },
+          { title: 'Beste reistijd', description: 'Leg weer, drukte en reisstijl naast elkaar voor je definitieve maandkeuze.', href: '/weather/', image: '/images/redesign/best-time-thailand-hero-v2.webp', imageAlt: 'Beste reistijd voor Thailand' },
           { title: 'Thailand voor het eerst', description: 'Plan een haalbare route met minder hotelwissels en duidelijke keuzes.', href: '/thailand-for-first-timers/', image: '/images/redesign/first-time-thailand-hero.webp', imageAlt: 'Eerste reis naar Thailand plannen' },
         ]}
       />
@@ -347,6 +347,6 @@ export default function ThailandMonthGuideNl({ slug, previousMonth, nextMonth }:
           { title: 'Thailand climate & weather', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Plan-Your-Trip/Weather', note: 'Officiële toeristische context voor regionale seizoensverschillen.' },
         ]}
       />
-    </main>
+    </div>
   );
 }

@@ -297,17 +297,17 @@ export const chiangRaiHotelGuide: HotelGuideData = {
       image: "/images/redesign/chiang-rai-destination-hero.webp",
     },
     {
-      title: "Waar verblijven in Chiang Rai",
+      title: "Bezienswaardigheden in Chiang Rai",
       description:
-        "Vergelijk de bredere keuze tussen stad, rivier, bergen en Golden Triangle.",
-      href: "/nl/where-to-stay/chiang-rai/",
+        "Plan de stad, kunstroute en tempels voordat je een hotelgebied kiest.",
+      href: "/nl/city/chiang-rai/attractions/",
       image: "/images/redesign/chiang-rai-mountain-route.webp",
     },
     {
-      title: "Chiang Rai of Chiang Mai?",
+      title: "Plan ook Chiang Mai",
       description:
-        "Kies de noordelijke bestemming die werkelijk bij je route en reistempo past.",
-      href: "/nl/blog/chiang-rai-vs-chiang-mai-for-tourists/",
+        "Vergelijk de grotere noordelijke stadsbasis met het rustigere reisritme van Chiang Rai.",
+      href: "/nl/city/chiang-mai/",
       image: "/images/redesign/chiang-mai-chiang-rai-comparison-hero.webp",
     },
   ],

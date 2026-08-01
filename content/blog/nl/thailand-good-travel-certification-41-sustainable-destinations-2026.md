@@ -51,7 +51,7 @@ Een hotel kan bij één programma zijn aangesloten zonder alle andere labels te 
 4. Controleer of bewoners aantoonbaar meebeslissen en delen in de opbrengst.
 5. Kijk bij natuurtours ook naar groepsgrootte, afstand tot dieren en parkregels.
 
-Een groen logo mag nooit een excuus worden om minder vragen te stellen. Bij een [ethische olifantenopvang](/nl/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) blijven activiteiten zonder rijden, shows of gedwongen contact bijvoorbeeld doorslaggevend.
+Een groen logo mag nooit een excuus worden om minder vragen te stellen. Bij een [ethische olifantenopvang](/nl/best-elephant-sanctuaries-in-thailand/) blijven activiteiten zonder rijden, shows of gedwongen contact bijvoorbeeld doorslaggevend.
 
 ## Maak claims vergelijkbaar
 

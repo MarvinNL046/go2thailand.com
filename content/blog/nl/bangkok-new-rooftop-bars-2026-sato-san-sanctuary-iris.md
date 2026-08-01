@@ -40,4 +40,4 @@ Iris en het buitendeel Wild Iris horen bij SO/ Bangkok in de omgeving van Lumpin
 
 Gebruik alleen de live kaart en reserveringsvoorwaarden van de venue. Vraag bij minimum spend of arrangementen wat precies is inbegrepen. Houd rekening met belasting en servicekosten en kies vervoer terug vóór je eerste drankje. De wettelijke minimumleeftijd voor alcohol is 20 jaar; venuebeleid kan strenger zijn.
 
-Wil je vooral cocktails en niet per se uitzicht, vergelijk dan ook de [Bangkok-nightlifegids](/nl/city/bangkok/nightlife/).
+Wil je vooral cocktails en niet per se uitzicht, vergelijk dan ook de [Bangkok-nightlifegids](/nl/nightlife/).

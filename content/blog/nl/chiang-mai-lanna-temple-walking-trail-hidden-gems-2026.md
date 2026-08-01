@@ -24,11 +24,11 @@ De beste tempelroute in [Chiang Mai](/nl/city/chiang-mai/) is niet één geforce
 
 Begin bij Wat Lok Moli, net ten noorden van de gracht, met zijn bakstenen chedi en donkere houten viharn. Wandel daarna naar Wat Chiang Man, dat nauw verbonden is met de vroege stadsgeschiedenis. Eindig centraal bij Wat Chedi Luang en neem tijd voor het actieve tempelterrein.
 
-De route laat verschillende materialen en tijdlagen zien zonder dat je de dag vooral in vervoer doorbrengt. Gebruik onze pagina over de [Oude Stad](/nl/city/chiang-mai/attractions/old-city-chiang-mai/) voor meer context.
+De route laat verschillende materialen en tijdlagen zien zonder dat je de dag vooral in vervoer doorbrengt. Gebruik onze pagina over de [Oude Stad](/nl/city/chiang-mai/) voor meer context.
 
 ## Boslus: Wat Umong en Wat Pha Lat
 
-Wat Umong ligt in een bosrijke omgeving ten westen van de stad en staat bekend om zijn tunnels. Wat Pha Lat ligt op de helling richting Doi Suthep. Plan vervoer tussen de locaties, ga voorbereid op hoogteverschil en controleer het weer. [Doi Suthep](/nl/city/chiang-mai/attractions/doi-suthep/) verdient eventueel een afzonderlijke uitstap.
+Wat Umong ligt in een bosrijke omgeving ten westen van de stad en staat bekend om zijn tunnels. Wat Pha Lat ligt op de helling richting Doi Suthep. Plan vervoer tussen de locaties, ga voorbereid op hoogteverschil en controleer het weer. [Doi Suthep](/nl/city/chiang-mai/attractions/) verdient eventueel een afzonderlijke uitstap.
 
 ## Respect is onderdeel van de route
 

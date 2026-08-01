@@ -58,7 +58,7 @@ Voor reizigers is de eenvoudige aanpak: gebruik STAR om een shortlist te maken, 
 - Gebruik hervulbaar drinkwater waar een betrouwbare vulplek beschikbaar is.
 - Besteed bij lokale gidsen, eetgelegenheden en winkels.
 
-Bekijk ook onze [gids voor verantwoord reizen in Thailand](/nl/blog/thailand-responsible-tourism-guide/) en plan per regio via de [beste reistijd voor Thailand](/nl/blog/best-time-to-visit-thailand/).
+Bekijk ook onze [uitleg over Good Travel-certificering](/nl/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/) en plan per regio via de [beste reistijd voor Thailand](/nl/blog/beste-tijd-thailand-bezoeken-per-regio/).
 
 ## Veelgestelde vragen
 

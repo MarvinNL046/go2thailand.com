@@ -254,6 +254,7 @@ export const huaHinHotelGuide: HotelGuideData = {
         "Zwembaden, kidsclubs, shuttles, marktdagen en retreatprogramma’s kunnen veranderen. Bevestig wat je keuze bepaalt vlak voor betaling.",
     },
   ],
+  showProfileLinks: false,
   profileLinks: [
     {
       title: "Volledige reisgids voor Hua Hin",
@@ -336,7 +337,7 @@ export const huaHinHotelGuide: HotelGuideData = {
       title: "Waar verblijven in Hua Hin?",
       description:
         "Vergelijk het centrum, Nong Kae, Khao Takiab en de ruimere kust voordat je een hotel kiest.",
-      href: "/nl/where-to-stay/hua-hin/",
+      href: "/nl/city/hua-hin/",
       image: "/images/cities/generated/hua-hin.webp",
     },
     {

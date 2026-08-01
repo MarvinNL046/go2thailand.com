@@ -13,9 +13,38 @@ interface RouteResult {
   status?: number;
 }
 
+interface LedgerRoute {
+  locale?: string;
+  path?: string;
+  decisionStatus?: string;
+  httpStatus?: number;
+  designCoverage?: string;
+  exactOwner?: boolean;
+  proofState?: string;
+}
+
 function getAttribute(tag: string, name: string): string | undefined {
   const match = tag.match(new RegExp(`\\b${name}\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s>]+))`, 'i'));
   return match?.[1] ?? match?.[2] ?? match?.[3];
+}
+
+function hasAttribute(tag: string, name: string): boolean {
+  return new RegExp(`\\b${name}(?:\\s*=|\\s|/?>)`, 'i').test(tag);
+}
+
+function acceptedLedgerRoutes(): Set<string> {
+  const ledgerPath = resolve(PROJECT_ROOT, 'seo', 'audits', 'goal-completion-ledger.json');
+  if (!existsSync(ledgerPath)) return new Set();
+  const ledger = JSON.parse(readFileSync(ledgerPath, 'utf8')) as { routes?: LedgerRoute[] };
+  return new Set((ledger.routes || [])
+    .filter(route => route.locale === 'nl'
+      && route.path
+      && route.decisionStatus === 'final'
+      && route.httpStatus === 200
+      && route.designCoverage === 'premium-signature'
+      && route.exactOwner === true
+      && route.proofState === 'exact-owner')
+    .map(route => route.path!));
 }
 
 function normalizedPathUrl(value: string): string {
@@ -42,7 +71,7 @@ function decodeJsonScript(value: string): string {
     .replace(/&gt;/g, '>');
 }
 
-async function inspectRoute(route: string, keywords: string[], auditText: string): Promise<RouteResult> {
+async function inspectRoute(route: string, keywords: string[], auditText: string, ledgerRoutes: Set<string>): Promise<RouteResult> {
   const errors: string[] = [];
   let response: Response;
   try {
@@ -97,29 +126,41 @@ async function inspectRoute(route: string, keywords: string[], auditText: string
   }
 
   const imageTags = [...html.matchAll(/<img\b[^>]*>/gi)].map(match => match[0]);
-  const imagesWithoutAlt = imageTags.filter(tag => getAttribute(tag, 'alt') === undefined).length;
+  const imagesWithoutAlt = imageTags.filter(tag => !hasAttribute(tag, 'alt')).length;
   if (imagesWithoutAlt) errors.push(`${imagesWithoutAlt} afbeelding(en) zonder alt-attribuut`);
 
-  if (!auditText.includes(`\`${route}\``)) errors.push('route ontbreekt in acceptance-audit');
+  if (!auditText.includes(`\`${route}\``) && !ledgerRoutes.has(route)) {
+    errors.push('route ontbreekt in acceptance-audit en mist exact-ownerbewijs in de completion-ledger');
+  }
 
   return { route, keywords, errors, status: response.status };
 }
 
 async function main(): Promise<void> {
   const { rows } = readKeywordCsv('nl');
+  const requestedRoutes = new Set((process.env.SITE_VERIFY_ROUTES || '')
+    .split(',')
+    .map(route => route.trim())
+    .filter(Boolean));
   const owners = new Map<string, string[]>();
   for (const row of rows) {
     if (!row.route.startsWith('/nl/')) throw new Error(`NL-owner heeft ongeldige route: ${row.route}`);
+    if (requestedRoutes.size && !requestedRoutes.has(row.route)) continue;
     owners.set(row.route, [...(owners.get(row.route) || []), row.primary_keyword]);
+  }
+  if (requestedRoutes.size && owners.size !== requestedRoutes.size) {
+    const missing = [...requestedRoutes].filter(route => !owners.has(route));
+    throw new Error(`Gevraagde NL-ownerroute(s) ontbreken in ContentOps: ${missing.join(', ')}`);
   }
 
   const auditText = collectMarkdown(resolve(PROJECT_ROOT, 'seo', 'audits'));
+  const ledgerRoutes = acceptedLedgerRoutes();
   const queue = [...owners.entries()];
   const results: RouteResult[] = [];
   const workers = Array.from({ length: Math.min(concurrency, queue.length) }, async () => {
     while (queue.length) {
       const [route, keywords] = queue.shift()!;
-      results.push(await inspectRoute(route, keywords, auditText));
+      results.push(await inspectRoute(route, keywords, auditText, ledgerRoutes));
     }
   });
   await Promise.all(workers);

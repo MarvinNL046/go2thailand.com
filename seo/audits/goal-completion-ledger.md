@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-08-01T03:34:52.873Z
+**Generated:** 2026-08-01T05:55:36.557Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -9,7 +9,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| NL | 700 | 667 | 667 | 0 | 535 | 105 | 230 | 0 |
+| NL | 600 | 600 | 600 | 0 | 535 | 111 | 247 | 0 |
 | EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
@@ -304,8 +304,8 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:editorial
 
-- Family accepted: **253/253**
-- Exact owners registered: **159/253**
+- Family accepted: **159/159**
+- Exact owners registered: **159/159**
 - Closed: **yes**
 - Remaining routes: **0**
 - Sample: none
@@ -385,8 +385,8 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:manual-review
 
-- Family accepted: **31/31**
-- Exact owners registered: **26/31**
+- Family accepted: **26/26**
+- Exact owners registered: **26/26**
 - Closed: **yes**
 - Remaining routes: **0**
 - Sample: none
@@ -439,8 +439,8 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### nl:travel-guide
 
-- Family accepted: **25/25**
-- Exact owners registered: **24/25**
+- Family accepted: **24/24**
+- Exact owners registered: **24/24**
 - Closed: **yes**
 - Remaining routes: **0**
 - Sample: none
@@ -449,8 +449,8 @@ This file is generated from the route inventory, locale keyword-owner registers,
 ## Hard completion gates
 
 - [x] noDuplicateExactOwnerRoutes
-- [ ] allRoutesHttp200
-- [ ] noMissingDesignSignature
+- [x] allRoutesHttp200
+- [x] noMissingDesignSignature
 - [x] sitewideHardErrorsZero
 - [ ] allInventoryDecisionsFinal
 - [ ] allActiveQueuesClosed

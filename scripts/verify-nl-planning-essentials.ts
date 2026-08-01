@@ -40,7 +40,7 @@ const configs: Config[] = [
   {
     route: '/nl/thailand-index/budget/', titleNeedle: 'is thailand duur', schemaType: 'WebPage',
     minWords: 1300, minImages: 8, minSponsored: 3, amazonLinks: 0, minSources: 4,
-    requiredLinks: ['/nl/thailand-itinerary/', '/nl/transport/', '/nl/travel-gear/'],
+    requiredLinks: ['/nl/itineraries/', '/nl/transport/', '/nl/travel-gear/'],
     requiredAffiliateKinds: ['trip', '12go', 'klook'],
     markers: ['Betaalbaar is niet hetzelfde als goedkoop.', 'Wat kost jóuw Thailand-reis?', 'Je route is óók een budgetkeuze.', 'Veelgestelde vragen over kosten in Thailand'],
   },

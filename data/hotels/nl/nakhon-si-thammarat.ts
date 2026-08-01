@@ -177,6 +177,7 @@ export const nakhonSiThammaratHotelGuide: HotelGuideData = {
     { title: "Kaart de eerste ochtend", description: "Test de route naar tempel, station, luchthaven of noordelijke weg die je volgende dag bepaalt." },
     { title: "Bevestig veranderlijke diensten", description: "Vraag naar actuele receptie, zwembad, ontbijt en transfer wanneer één daarvan essentieel is." },
   ],
+  showProfileLinks: false,
   profileLinks: [
     { title: "Complete reisgids Nakhon Si Thammarat", href: "/nl/guides/travel-guide/nakhon-si-thammarat/" },
     { title: "Grand Fortune Hotel Nakhon Si Thammarat", href: "/nl/hotel/grand-fortune-hotel-nakhon-si-thammarat/" },
@@ -196,7 +197,7 @@ export const nakhonSiThammaratHotelGuide: HotelGuideData = {
   ],
   relatedGuides: [
     { title: "Nakhon Si Thammarat overzicht", description: "Plan tempelerfgoed, Zuid-Thaise gerechten en één haalbare vervolgroute.", href: "/nl/city/nakhon-si-thammarat/", image: "/images/redesign/nakhon-si-thammarat-hero.webp" },
-    { title: "Waar verblijven in de provincie", description: "Vergelijk stad, luchthavenroute, kust en bergen voordat je één of twee bases kiest.", href: "/nl/where-to-stay/nakhon-si-thammarat/", image: "/images/redesign/nakhon-si-thammarat-route-banner.webp" },
+    { title: "Nakhon Si Thammarat bestemmingsoverzicht", description: "Vergelijk stad, luchthavenroute, kust en bergen voordat je één of twee bases kiest.", href: "/nl/city/nakhon-si-thammarat/", image: "/images/redesign/nakhon-si-thammarat-route-banner.webp" },
     { title: "Bezienswaardigheden in Nakhon Si Thammarat", description: "Combineer tempelcorridor, levende traditie en één realistisch natuurhoofdstuk.", href: "/nl/city/nakhon-si-thammarat/attractions/", image: "/images/redesign/nakhon-si-thammarat-temple-elephants.webp" },
   ],
   sources: [

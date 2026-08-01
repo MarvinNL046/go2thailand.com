@@ -249,6 +249,7 @@ export default function ThailandExcursionsGuide() {
           eyebrow="Verder plannen"
           title="Maak je Thailand-reis logisch"
           guides={[
+            { title: 'Grand Palace in Bangkok', description: 'Plan entree, kleding, controlepunten en actuele bezoekvoorwaarden vóór je tempeldag.', href: '/grand-palace-tickets/', image: '/images/redesign/editorial/grand-palace-bangkok-complete-guide-2026-hero.webp', imageAlt: 'Daken en tempelarchitectuur van het Grand Palace in Bangkok' },
             { title: 'Mooiste plekken', description: 'Kies eerst welke bestemmingen bij jouw reisstijl passen.', href: '/city/', image: '/images/redesign/destination-krabi.webp', imageAlt: 'Tropisch landschap bij Krabi' },
             { title: 'Beste reistijd', description: 'Stem boottochten en buitenactiviteiten af op regio en seizoen.', href: '/weather/', image: '/images/redesign/krabi-weather-packing-flatlay.webp', imageAlt: 'Praktische uitrusting voor het weer in Thailand' },
             { title: 'Wat te doen', description: 'Lees de redactionele inspiratielijst zonder boekingsfocus.', href: '/things-to-do-in-thailand/', image: '/images/redesign/experience-ayutthaya.webp', imageAlt: 'Tempels van Ayutthaya' },

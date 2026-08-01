@@ -96,6 +96,7 @@ export default function RawaiAreaGuideNl({ hotelHref, activityHref }: { hotelHre
     ],
     faqDescription: "Gebaseerd op vijf actuele Nederlandse SERP-sets met 29 echte PAA-vragen van 31 juli 2026. Statische seafoodprijzen, taxitarieven en onbewezen culturele aantallen zijn uitgesloten.",
     related: [
+      { title: "Selina Serenity Rawai", description: "Lees het zelfstandige hotelprofiel en controleer daarna kamer, totaalprijs en voorwaarden live.", href: "/phuket/rawai/hotels/selina-serenity-rawai-phuket/", image: "/images/redesign/selina-rawai-guide-hero.webp", imageAlt: "Verblijf aan de kust van Rawai" },
       { title: "Complete Phuket-gids", description: "Bouw eerst de eilandroute voordat je voor het verre zuiden kiest.", href: "/city/phuket/", image: "/images/redesign/phuket-destination-hero-v2.webp", imageAlt: "De kust van Phuket" },
       { title: "Waar verblijven op Phuket?", description: "Vergelijk Rawai met de belangrijkste hotelzones van het eiland.", href: "/best-hotels/phuket/", image: "/images/redesign/phuket-hotels-hero.webp", imageAlt: "Verblijfszones op Phuket" },
       { title: "Bezienswaardigheden op Phuket", description: "Plan eilandbrede plekken los van deze gebiedsowner.", href: "/city/phuket/attractions/", image: "/images/redesign/phuket-attractions-hero.webp", imageAlt: "Bezienswaardigheden op Phuket" },

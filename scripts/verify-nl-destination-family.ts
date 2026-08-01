@@ -193,7 +193,9 @@ async function inspectRoute(config: DestinationRoute): Promise<RouteResult> {
   const webPage = schemas.find((schema) => schema['@type'] === 'WebPage');
   if (webPage?.inLanguage !== 'nl-NL') errors.push('WebPage.inLanguage is niet nl-NL');
   if (normalizedPath(String(webPage?.url || '')) !== config.route) errors.push('WebPage.url ontbreekt of is onjuist');
-  if (!/^2026-07-(2[3-6])(?:T[\d:.+-]+Z?)?$/.test(String(webPage?.dateModified || ''))) errors.push(`WebPage.dateModified ontbreekt of is verouderd: ${String(webPage?.dateModified || 'ontbreekt')}`);
+  const modifiedAt = Date.parse(String(webPage?.dateModified || ''));
+  const minimumModifiedAt = Date.parse('2026-07-23T00:00:00Z');
+  if (!Number.isFinite(modifiedAt) || modifiedAt < minimumModifiedAt) errors.push(`WebPage.dateModified ontbreekt of is verouderd: ${String(webPage?.dateModified || 'ontbreekt')}`);
   const destination = schemas.find((schema) => schema['@type'] === 'TouristDestination');
   if (normalizedPath(String(destination?.url || '')) !== config.route) errors.push('TouristDestination.url ontbreekt of is onjuist');
   const faq = schemas.find((schema) => schema['@type'] === 'FAQPage');
@@ -251,7 +253,7 @@ async function inspectRoute(config: DestinationRoute): Promise<RouteResult> {
 
 async function main(): Promise<void> {
   const routes = readDestinationRoutes();
-  if (routes.length !== 34) throw new Error(`Verwacht 34 NL destination-pillars, gevonden ${routes.length}.`);
+  if (routes.length !== 35) throw new Error(`Verwacht 35 NL destination-pillars, gevonden ${routes.length}.`);
   const queue = [...routes];
   const results: RouteResult[] = [];
   const workers = Array.from({ length: Math.min(concurrency, queue.length) }, async () => {

@@ -305,14 +305,14 @@ export const paiHotelGuide: HotelGuideData = {
       title: "Weer en beste reistijd voor Pai",
       description:
         "Stem koele ochtenden, regen en buitenroutes af op je reismaand.",
-      href: "/nl/city/pai/best-time-to-visit/",
+      href: "/nl/weather/",
       image: "/images/redesign/pai-valley-riverside-v2.webp",
     },
     {
-      title: "Eten in Pai",
+      title: "Pai als bestemming",
       description:
-        "Vind Walking Street, Noord-Thaise smaken en rustige eetmomenten buiten de drukte.",
-      href: "/nl/food/pai/",
+        "Plan Walking Street, Noord-Thaise smaken en rustige eetmomenten vanuit het bestemmingsoverzicht.",
+      href: "/nl/city/pai/",
       image: "/images/redesign/pai-food-walking-street-table.webp",
     },
   ],

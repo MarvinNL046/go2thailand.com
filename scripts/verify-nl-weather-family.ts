@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
+import { getNlWeatherGuide } from '../data/weather/nl';
 import { parseCsvLine, SEO_ROOT } from './seo-utils';
 
 const projectRoot = resolve(__dirname, '..');
@@ -196,7 +197,9 @@ async function inspectRoute(config: WeatherRoute): Promise<RouteResult> {
     const destinationOwner = `/nl/city/${config.citySlug}/`;
     if (!internal.some((link) => link.path === destinationOwner)) errors.push('natuurlijke teruglink naar destination-owner ontbreekt');
     const monthly = new Set(internal.filter((link) => link.path.startsWith(`/nl/city/${config.citySlug}/weather/`) && link.path !== config.route).map((link) => link.path));
-    if (monthly.size < 12) errors.push(`slechts ${monthly.size} maandspokes`);
+    const monthDetailRoutesEnabled = getNlWeatherGuide(config.citySlug)?.monthDetailRoutes !== false;
+    if (monthDetailRoutesEnabled && monthly.size < 12) errors.push(`slechts ${monthly.size} maandspokes`);
+    if (!monthDetailRoutesEnabled && monthly.size > 0) errors.push(`onbedoelde maandspokes gevonden terwijl monthDetailRoutes is uitgeschakeld: ${monthly.size}`);
   } else {
     for (const slug of weatherCitySlugs) {
       if (!internal.some((link) => link.path === `/nl/city/${slug}/weather/`)) errors.push(`landelijke hub mist directe link naar ${slug}`);

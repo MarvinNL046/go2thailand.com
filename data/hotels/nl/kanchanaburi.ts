@@ -259,6 +259,7 @@ export const kanchanaburiHotelGuide: HotelGuideData = {
         "Bevestig bij drijvende verblijven stroom, airconditioning, warm water, wifi, bereik en oplaadmogelijkheden vlak vóór betaling, zeker bij medische of werkgerelateerde noodzaak.",
     },
   ],
+  showProfileLinks: false,
   profileLinks: [
     { title: "Complete reisgids Kanchanaburi", href: "/nl/guides/travel-guide/kanchanaburi/" },
     { title: "Blue Star Guest House", href: "/nl/hotel/blue-star-guest-house/" },
@@ -328,14 +329,14 @@ export const kanchanaburiHotelGuide: HotelGuideData = {
       title: "Waar verblijven in Kanchanaburi?",
       description:
         "Vergelijk de volledige geografie van centrum, Bridge, rivier, Erawan en Sai Yok.",
-      href: "/nl/where-to-stay/kanchanaburi/",
+      href: "/nl/city/kanchanaburi/",
       image: "/images/redesign/kanchanaburi-upriver-stay-v2.webp",
     },
     {
       title: "Bezienswaardigheden in Kanchanaburi",
       description:
         "Kies tussen de Bridge, musea, Erawan en de historische spoorlijn zonder één dag te overladen.",
-      href: "/nl/city/kanchanaburi/top-10-attractions/",
+      href: "/nl/city/kanchanaburi/attractions/",
       image: "/images/redesign/kanchanaburi-erawan-waterfall.webp",
     },
   ],

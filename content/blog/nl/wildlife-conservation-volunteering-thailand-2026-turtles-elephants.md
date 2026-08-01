@@ -34,7 +34,7 @@ ABTA noemt onder meer olifantenritten, olifantenbaden, shows en toeristencontact
 
 Wildlife Friends Foundation Thailand beschrijft het rescuewerk voor vrijwilligers expliciet als *hands-off*. De dieren krijgen verzorging zonder fysiek contact met vrijwilligers. Dat is een concreter signaal dan een algemeen marketingverhaal over liefde voor dieren.
 
-Lees daarnaast onze aparte afweging voor [ethische olifantenopvang in Thailand](/nl/blog/ethical-elephant-sanctuaries-thailand-2026-guide/). Geen enkel centrum krijgt een eeuwig keurmerk: beleid en praktijk kunnen veranderen.
+Lees daarnaast onze aparte afweging voor [ethische olifantenopvang in Thailand](/nl/best-elephant-sanctuaries-in-thailand/). Geen enkel centrum krijgt een eeuwig keurmerk: beleid en praktijk kunnen veranderen.
 
 ## Drie soorten programma's
 

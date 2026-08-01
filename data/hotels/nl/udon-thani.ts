@@ -227,12 +227,12 @@ export const udonThaniHotelGuide: HotelGuideData = {
     {
       title: "Complete reisgids voor Udon Thani",
       description: "Plan stad, provincie, vervoer en een realistisch aantal dagen.",
-      href: "/nl/guides/travel-guide/udon-thani/",
+      href: "/nl/city/udon-thani/",
     },
     {
       title: "Beste reistijd voor Udon Thani",
       description: "Stem hitte, regentijd en buitenroutes af op je reisperiode.",
-      href: "/nl/city/udon-thani/best-time-to-visit/",
+      href: "/nl/weather/",
     },
   ],
   faqs: [

@@ -28,7 +28,7 @@ const beforeYouGo = {
   ],
   nl: [
     { title: 'Visum', detail: 'De meeste nationaliteiten krijgen 30 dagen visumvrij bij aankomst. Controleer je specifieke land.', link: { href: '/visa/', label: 'Visumgids' } },
-    { title: 'SIM-kaart / eSIM', detail: 'Koop een lokale SIM op de luchthaven of neem een eSIM voordat je vertrekt.', link: { href: '/esim/', label: 'eSIM-gids' } },
+    { title: 'SIM-kaart / eSIM', detail: 'Koop een lokale SIM op de luchthaven of neem een eSIM voordat je vertrekt.', link: { href: '/travel-guides/sim-card-thailand/', label: 'SIM- en eSIM-gids' } },
     { title: 'Valuta', detail: 'Thaise Baht (THB). Geldautomaten zijn overal maar rekenen ~200 THB kosten. Gebruik Wise of Revolut om kosten te beperken.' },
     { title: 'Gezondheid', detail: 'Geen verplichte vaccinaties. Overweeg Hep A, Tyfus en malariaprofylaxe voor landelijke gebieden. Reisverzekering wordt sterk aanbevolen.', link: { href: '/travel-insurance/', label: 'Reisverzekeringsgids' } },
     { title: 'Taal', detail: 'Thai is de officiële taal. Engels wordt veel gesproken in toeristische gebieden. Leer een paar Thaise woorden — locals waarderen het.' },

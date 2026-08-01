@@ -589,7 +589,7 @@ export default function PhuketTourGuideNl({
           />
         ))}
       </SEOHead>
-      <main className="bg-canvas text-charcoal">
+      <div className="bg-canvas text-charcoal">
         <EditorialHero
           image={c.image}
           imageAlt={c.alt}
@@ -830,6 +830,22 @@ export default function PhuketTourGuideNl({
             />
           </div>
         </section>
+        {owner === "hub" ? (
+          <section className="section-divider-bottom py-14 lg:py-20">
+            <div className="container-custom">
+              <SectionHeading eyebrow="Volledige tourfamilie" title="Kies de dagtocht die bij je ritme past" description="Iedere gids hieronder bezit één duidelijke tourbeslissing. Vergelijk eerst duur, zee, hitte, mobiliteit en voorwaarden; open daarna pas het actuele aanbod." />
+              <div className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+                {(Object.entries(CONFIG) as [PhuketTourOwner, TourConfig][]).filter(([key]) => key !== "hub").map(([key, item], index) => (
+                  <Link key={key} href={item.path} className="group flex min-h-28 items-center gap-4 rounded-2xl border border-jade/10 bg-white p-5 shadow-editorial-card transition hover:-translate-y-0.5 hover:border-saffron/45">
+                    <span className="grid h-10 w-10 shrink-0 place-items-center rounded-xl bg-tonal text-xs font-extrabold text-saffron-dark">{String(index + 1).padStart(2, "0")}</span>
+                    <span><strong className="block font-display text-xl font-semibold leading-none text-jade">{item.title.replace(/\.$/, "")}</strong><small className="mt-2 block text-[10px] font-bold leading-4 text-charcoal/52">{item.eyebrow}</small></span>
+                    <ArrowRight size={14} className="ml-auto shrink-0 text-saffron-dark transition group-hover:translate-x-1" aria-hidden="true" />
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </section>
+        ) : null}
         <FaqSplitSection
           id="vragen"
           eyebrow="Voor vertrek"
@@ -894,7 +910,7 @@ export default function PhuketTourGuideNl({
           ]}
           method="Dertien zichtbare Google-NL SERP's zijn afzonderlijk gecontroleerd. Echte PAA-signalen zijn alleen gebruikt waar ze zichtbaar waren. DataForSEO leverde tijdelijk geen bruikbaar lokaal rapport; vaste prijzen, tijden, groepen, parkfees en operatorclaims zijn daarom niet als evergreen feiten opgeslagen."
         />
-      </main>
+      </div>
     </>
   );
 }

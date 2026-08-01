@@ -22,7 +22,7 @@ Street art is tijdelijk. Een geliefde muurschildering kan morgen zijn overschild
 
 ## Oude Stad en Tha Phae
 
-Begin rond Tha Phae en de oostelijke kant van de [Oude Stad](/nl/city/chiang-mai/attractions/old-city-chiang-mai/). Kleine lanen en creatieve gevels maken dit een compacte eerste verkenning. Gebruik recente kaartfoto’s als aanwijzing, nooit als garantie.
+Begin rond Tha Phae en de oostelijke kant van de [Oude Stad](/nl/city/chiang-mai/). Kleine lanen en creatieve gevels maken dit een compacte eerste verkenning. Gebruik recente kaartfoto’s als aanwijzing, nooit als garantie.
 
 ## Wualai
 
